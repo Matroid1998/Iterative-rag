@@ -32,7 +32,8 @@ class HFEmbedder:
     @property
     def dim(self) -> int:
         """Return embedding dimensionality."""
-        return self.model.get_sentence_embedding_dimension()
+        dimension = self.model.get_sentence_embedding_dimension()
+        return dimension if dimension is not None else 0
 
     def encode(self, texts: Iterable[str], prompt_name: Optional[str] = None) -> np.ndarray:
         """Encode an iterable of strings into a (N, dim) NumPy array."""
