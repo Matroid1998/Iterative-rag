@@ -1,4 +1,3 @@
-# service/rag/rag_text_service.py
 """
 RAG Text Service
 - Binds: Embedder + Vector Index (Chroma) + TextRetriever + Orchestrator
@@ -24,13 +23,13 @@ from typing import Any, Dict, Iterable, List, Optional, Tuple
 from protocols.embedding_config import EmbedderConfig
 
 # Repo components
-from repo.embeddings.hf_embedder import HFEmbedder
+from repo.embeddings.embeddeing_models import HFEmbedder
 from repo.index.chroma_index import ChromaTextIndex
 from repo.retrievers.text_retriever import TextRetriever
 
 # Planning + orchestrator
 from repo.planning.planner_iface import Planner, JSONPlanner, RuleBasedPlanner
-from service.rag.orchestrator import Orchestrator
+from orchestrator import Orchestrator
 
 # Utilities
 from repo.utils.chunking import chunk_document, chunk_corpus

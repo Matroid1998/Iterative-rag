@@ -17,7 +17,7 @@ All adapters must implement: complete(system: str, user: str) -> str
 and return the *raw* model output (the planner will extract JSON).
 """
 
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Optional, Callable
 import json
 
 from repo.planning.planner_iface import LLMClient, JSONPlanner
@@ -31,13 +31,12 @@ def default_planner_system_prompt(allow_kg: bool = False) -> str:
     If allow_kg=False, we omit the retrieve_kg schema from the instructions.
     """
     base = [
-        "You are a retrieval planner for multi-hop QA over unstructured text.",
+        "You are a retrieval planner for multi-hop chemistry QA over unstructured text.",
         "Return ONLY a JSON array of actions. No prose. No comments.",
         "Allowed actions:",
         '  {"action":"retrieve_text","query":"...","k":8,"where":null,"where_document":null}',
         '  {"action":"propose_answer","needs_citations":true}',
         "Rules:",
-        "- Keep plans short (1–3 actions typical).",
         "- Use retrieve_text for each sub-question you need evidence for.",
         "- Finish with propose_answer once you have enough evidence.",
         "- Do NOT include any other keys or text.",
@@ -45,9 +44,22 @@ def default_planner_system_prompt(allow_kg: bool = False) -> str:
     if allow_kg:
         base.insert(4, '  {"action":"retrieve_kg","seed_entities":["..."],"relation":null,"max_hops":2}')
         base.insert(6, "- Prefer retrieve_kg only when relations/entities are explicit.")
+    # Chemistry domain + grounding constraints and example plan
+
+    base.extend([
+        "Constraints:",
+        "- Base answers strictly on retrieved evidence; never assume or invent.",
+        "- If you lack evidence, add another retrieve_text (or stop).",
+        "- Keep plans short (1–3 actions typical).",
+        "Example plan:",
+        "[",
+        '  {"action":"retrieve_text","query":"pKa of acetic acid","k":8,"where":null,"where_document":null},',
+        '  {"action":"propose_answer","needs_citations":true}',
+        "]",
+    ])
     return "\n".join(base)
-
-
+b = default_planner_system_prompt(allow_kg=False)
+print(b)
 # -------------------------- Factory -------------------------------------------
 
 def make_json_planner(
@@ -178,7 +190,7 @@ class OllamaLLM(LLMClient):
                 "temperature": self.temperature,
                 "num_predict": self.num_predict,
                 **self.extra_options,
-            ],
+            },
             "stream": False,
         }
         r = requests.post(self.endpoint, json=payload, timeout=self.timeout, headers=self.headers)
@@ -269,3 +281,117 @@ class HFInferenceLLM(LLMClient):
             return (data["generated_text"] or "").strip()
         # Fallback to raw JSON string
         return json.dumps(data)
+
+
+# --------------------------- Composer (LLM) -----------------------------------
+
+def default_composer_system_prompt() -> str:
+    """
+    System prompt for evidence-grounded, chemistry-focused answer generation.
+
+    Rules:
+    - Use ONLY the provided passages as sources of truth.
+    - If passages are insufficient or conflict, answer with empty string.
+    - Be concise, precise, and avoid speculation.
+    - Optionally reference passage ids inline like [id: ...] if helpful.
+    """
+    return "\n".join([
+        "You are a chemistry QA assistant.",
+        "Answer ONLY using the passages provided by the retrieval system.",
+        "If the passages are insufficient or conflicting, say so explicitly.",
+        "Be concise, precise, and avoid speculation.",
+    ])
+
+
+def make_llm_composer(
+    llm: LLMClient,
+    *,
+    system_prompt: Optional[str] = None,
+    max_passages: int = 6,
+    max_chars: int = 18000,
+    cite_top_k: int = 3,
+) -> Callable[[str, List[Dict[str, Any]]], Dict[str, Any]]:
+    """
+    Build a composer callable that asks an LLM to write the final answer based on retrieved passages.
+
+    - llm: any LLMClient (OpenAIChatLLM, OllamaLLM, HFInferenceLLM, ...)
+    - system_prompt: optional override; otherwise uses default_composer_system_prompt()
+    - max_passages: include at most this many passages in the prompt
+    - max_chars: total character budget for concatenated passages (approximate)
+    - cite_top_k: number of citations to return (best-effort, top by score)
+
+    Returns a composer(question, evidence)->{"answer": str, "citations": [...]}
+    """
+    sys_prompt = system_prompt or default_composer_system_prompt()
+
+    def _choose_passages(evidence: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+        # Prefer items with an overall score, then dense score
+        def key(h: Dict[str, Any]) -> float:
+            if h.get("score") is not None:
+                return float(h["score"])  # fused score, higher is better
+            if h.get("score_dense") is not None:
+                return float(h["score_dense"])  # similarity
+            # lexical-only or unknown; push lower
+            return 0.0
+
+        items = sorted(list(evidence or []), key=key, reverse=True)
+        out: List[Dict[str, Any]] = []
+        used = 0
+        for h in items:
+            txt = str(h.get("text", "")).strip()
+            if not txt:
+                continue
+            if used + len(txt) > max_chars and out:
+                break
+            out.append(h)
+            used += len(txt)
+            if len(out) >= max_passages:
+                break
+        return out
+
+    def _pick_citations(evidence: List[Dict[str, Any]], k: int) -> List[Dict[str, Any]]:
+        items = list(evidence or [])
+        def key(h: Dict[str, Any]) -> float:
+            if h.get("score") is not None:
+                return float(h["score"])  # fused
+            if h.get("score_dense") is not None:
+                return float(h["score_dense"])  # similarity
+            return 0.0
+        items.sort(key=key, reverse=True)
+        cites: List[Dict[str, Any]] = []
+        for h in items[: max(0, int(k))]:
+            meta = h.get("metadata") or {}
+            cites.append({
+                "id": h.get("id"),
+                "title": meta.get("title"),
+                "score": h.get("score"),
+            })
+        return cites
+
+    def composer(question: str, evidence: List[Dict[str, Any]]) -> Dict[str, Any]:
+        chosen = _choose_passages(evidence)
+        if not chosen:
+            # Nothing to ground on
+            return {"answer": "I don't have enough information to answer from the provided passages.", "citations": []}
+
+        # Build a compact user message with labeled passages
+        lines: List[str] = []
+        lines.append(f"Question: {question}")
+        lines.append("")
+        lines.append("Passages:")
+        for i, h in enumerate(chosen, 1):
+            pid = str(h.get("id") or i)
+            title = (h.get("metadata") or {}).get("title")
+            header = f"[{i}] id={pid}" + (f" | title={title}" if title else "")
+            text = str(h.get("text", "")).strip()
+            lines.append(header)
+            lines.append(text)
+            lines.append("")
+        lines.append("Instructions: Answer strictly using the passages above. If insufficient, say so. Be concise.")
+        user_msg = "\n".join(lines)
+
+        answer = llm.complete(system=sys_prompt, user=user_msg).strip()
+        citations = _pick_citations(chosen, cite_top_k)
+        return {"answer": answer, "citations": citations}
+
+    return composer
