@@ -1,7 +1,4 @@
-# repo/utils/chunking.py
-# Simple, fast chunking utilities for unstructured text.
-# - Default: word-based sliding window (no extra deps)
-# - Optional: token-based chunking if you pass a HF tokenizer (transformers)
+
 
 from typing import Any, Dict, Iterable, List, Optional, Tuple
 import hashlib
