@@ -7,7 +7,7 @@ import chromadb
 from chromadb.api.models.Collection import Collection
 from chromadb.api.types import Documents, EmbeddingFunction, Embeddings, Metadata
 
-from repo.embeddings.hf_embedder import HFEmbedder
+from repo.embeddings.embeddeing_models import HFEmbedder
 
 
 class STEmbeddingFunction(EmbeddingFunction):
@@ -18,7 +18,7 @@ class STEmbeddingFunction(EmbeddingFunction):
 
     def __call__(self, inputs: Documents) -> Embeddings:
         vecs = self.embedder.encode(inputs, prompt_name=self.prompt_name)
-        return vecs.tolist()  # Chroma expects list[list[float]]
+        return vecs.tolist()
 
 
 class ChromaTextIndex:

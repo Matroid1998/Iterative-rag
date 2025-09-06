@@ -1,4 +1,3 @@
-# repo/embeddings/hf_embedder.py
 from typing import Iterable, Optional
 import numpy as np
 
