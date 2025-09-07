@@ -1,11 +1,11 @@
-# service/rag/orchestrator.py
 """
+# service/rag/orchestrator.py
 Iterative RAG orchestrator (text-only, training-free).
 
 Loop:
-  1) Ask the planner for a list of JSON actions (retrieve_text / propose_answer / stop)
+  1) Ask the planner for exactly one JSON action (retrieve_text / propose_answer / stop)
   2) Execute tools (TextRetriever) for retrieve_text
-  3) Update state with new evidence
+  3) Update state with new evidence and hints (previous_queries, last_passages)
   4) Stop when the planner proposes an answer (or budget is exhausted)
 
 This file stays agnostic to concrete LLM vendors and index backends:
@@ -14,7 +14,7 @@ This file stays agnostic to concrete LLM vendors and index backends:
 - Composer can be a callable (question, evidence) -> {"answer": str, "citations": ...}
 """
 
-from typing import Any, Callable, Dict, List, Optional, Tuple, Union
+from typing import Any, Callable, Dict, List, Optional
 import time
 import hashlib
 
@@ -34,9 +34,7 @@ ComposeFunc = Callable[[str, List[Hit]], Dict[str, Any]]  # returns {"answer": s
 
 
 class Orchestrator:
-    """
-    Iterative controller for unstructured-text RAG.
-    """
+    """Iterative controller for unstructured-text RAG."""
 
     def __init__(
         self,
@@ -74,26 +72,15 @@ class Orchestrator:
         k_default: int = 8,
         trace: bool = True,
     ) -> Dict[str, Any]:
-        """
-        Execute the iterative loop for a single question.
-
-        Returns a dict:
-        {
-          "question": str,
-          "answer": str | None,
-          "evidence": List[Hit],
-          "actions_trace": List[Dict],    # optional
-          "steps": int,
-          "stop_reason": str,
-          "elapsed_sec": float,
-        }
-        """
+        """Execute the iterative loop for a single question."""
         t0 = time.time()
         state: Dict[str, Any] = {
             "evidence": [],
             "entities": [],
             "open_subgoals": [],
             "filters": filters or None,
+            "previous_queries": [],
+            "last_passages": [],
         }
         if initial_state:
             # Shallow merge into our defaults
@@ -106,72 +93,82 @@ class Orchestrator:
             actions = self.planner.plan(question, state)
 
             if not isinstance(actions, list) or not actions:
-                # Planner gave nothing usable — fall back to a single retrieval then propose
-                actions = [RetrieveText(query=question, k=k_default), ProposeAnswer()]
+                # Planner returned nothing usable — default to a single retrieval
+                actions = [RetrieveText(query=question, k=k_default)]
 
-            for action in actions:
-                if isinstance(action, RetrieveText):
-                    hits = self.text_retriever.retrieve(
-                        query=action.query,
-                        k=action.k,
-                        where=action.where,
-                        where_document=action.where_document,
-                    )
-                    before = len(state["evidence"])
-                    self._add_evidence(state, hits)
-                    after = len(state["evidence"])
+            # Execute only the first action, then loop
+            action = actions[0]
 
-                    if trace:
-                        actions_trace.append({
-                            "action": action_to_dict(action),
-                            "added": after - before,
-                            "k": action.k,
-                        })
+            if isinstance(action, RetrieveText):
+                hits = self.text_retriever.retrieve(
+                    query=action.query,
+                    k=action.k,
+                    where=action.where,
+                    where_document=action.where_document,
+                )
+                before = len(state["evidence"])
+                self._add_evidence(state, hits)
+                after = len(state["evidence"])
 
-                elif isinstance(action, RetrieveKG):
-                    # KG not enabled yet; ignore safely (or record no-op in trace)
-                    if trace:
-                        actions_trace.append({
-                            "action": action_to_dict(action),
-                            "note": "retrieve_kg ignored (KG disabled)",
-                        })
+                # Track planner hints
+                prev_qs = state.get("previous_queries") or []
+                prev_qs.append(action.query)
+                state["previous_queries"] = prev_qs
+                state["last_passages"] = list(hits or [])
 
-                elif isinstance(action, ProposeAnswer):
-                    composed = self.compose_answer(question, state["evidence"])
-                    result = {
-                        "question": question,
-                        "answer": composed.get("answer"),
-                        "evidence": state["evidence"],
-                        "citations": composed.get("citations"),
-                        "actions_trace": actions_trace if trace else None,
-                        "steps": step + 1,
-                        "stop_reason": "proposed_answer",
-                        "elapsed_sec": round(time.time() - t0, 3),
-                    }
-                    return result
+                if trace:
+                    actions_trace.append({
+                        "action": action_to_dict(action),
+                        "added": after - before,
+                        "k": action.k,
+                    })
 
-                elif isinstance(action, Stop):
-                    return {
-                        "question": question,
-                        "answer": None,
-                        "evidence": state["evidence"],
-                        "actions_trace": actions_trace if trace else None,
-                        "steps": step + 1,
-                        "stop_reason": "stop_action",
-                        "elapsed_sec": round(time.time() - t0, 3),
-                    }
+                # Optional evidence capping
+                if self.keep_top_evidence is not None and len(state["evidence"]) > self.keep_top_evidence:
+                    state["evidence"] = state["evidence"][-self.keep_top_evidence :]
+                continue
 
-                else:
-                    # Unknown action — ignore but keep trace
-                    if trace:
-                        actions_trace.append({
-                            "action": {"action": getattr(action, "action", "unknown")},
-                            "error": "unknown_action_type",
-                        })
+            if isinstance(action, RetrieveKG):
+                # KG not enabled yet; ignore safely (or record no-op in trace)
+                if trace:
+                    actions_trace.append({
+                        "action": action_to_dict(action),
+                        "note": "retrieve_kg ignored (KG disabled)",
+                    })
+                continue
 
-            # Optional evidence capping
-            if self.keep_top_evidence is not None and len(state["evidence"]) > self.keep_top_evidence:
-                state["evidence"] = state["evidence"][-self.keep_top_evidence :]
+            if isinstance(action, ProposeAnswer):
+                composed = self.compose_answer(question, state["evidence"])
+                # Prefer planner-provided answer if present
+                answer = getattr(action, "answer", None) or composed.get("answer")
+                return {
+                    "question": question,
+                    "answer": answer,
+                    "evidence": state["evidence"],
+                    "citations": composed.get("citations"),
+                    "actions_trace": actions_trace if trace else None,
+                    "steps": step + 1,
+                    "stop_reason": "proposed_answer",
+                    "elapsed_sec": round(time.time() - t0, 3),
+                }
+
+            if isinstance(action, Stop):
+                return {
+                    "question": question,
+                    "answer": None,
+                    "evidence": state["evidence"],
+                    "actions_trace": actions_trace if trace else None,
+                    "steps": step + 1,
+                    "stop_reason": "stop_action",
+                    "elapsed_sec": round(time.time() - t0, 3),
+                }
+
+            # Unknown action — ignore but keep trace
+            if trace:
+                actions_trace.append({
+                    "action": {"action": getattr(action, "action", "unknown")},
+                    "error": "unknown_action_type",
+                })
 
         # Budget exhausted
         return {
@@ -244,3 +241,4 @@ def _default_composer(question: str, evidence: List[Hit]) -> Dict[str, Any]:
     }]
     # For a safe default, just surface the top passage text
     return {"answer": best.get("text", ""), "citations": citations}
+

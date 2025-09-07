@@ -27,39 +27,52 @@ from repo.planning.planner_iface import LLMClient, JSONPlanner
 
 def default_planner_system_prompt(allow_kg: bool = False) -> str:
     """
-    System prompt that instructs the model to return ONLY a JSON array of actions.
-    If allow_kg=False, we omit the retrieve_kg schema from the instructions.
+    Iterative one-action planner prompt (chemistry domain), aligned to orchestrator loop.
+    Note: allow_kg is ignored in this prompt version (text-only retrieval).
     """
-    base = [
-        "You are a retrieval planner for multi-hop chemistry QA over unstructured text.",
-        "Return ONLY a JSON array of actions. No prose. No comments.",
-        "Allowed actions:",
-        '  {"action":"retrieve_text","query":"...","k":8,"where":null,"where_document":null}',
-        '  {"action":"propose_answer","needs_citations":true}',
-        "Rules:",
-        "- Use retrieve_text for each sub-question you need evidence for.",
-        "- Finish with propose_answer once you have enough evidence.",
-        "- Do NOT include any other keys or text.",
-    ]
-    if allow_kg:
-        base.insert(4, '  {"action":"retrieve_kg","seed_entities":["..."],"relation":null,"max_hops":2}')
-        base.insert(6, "- Prefer retrieve_kg only when relations/entities are explicit.")
-    # Chemistry domain + grounding constraints and example plan
-
-    base.extend([
-        "Constraints:",
-        "- Base answers strictly on retrieved evidence; never assume or invent.",
-        "- If you lack evidence, add another retrieve_text (or stop).",
-        "- Keep plans short (1–3 actions typical).",
-        "Example plan:",
+    return "\n".join([
+        "You are an iterative retrieval planner for multi-hop QA over unstructured text in chemistry.",
+        "Return ONLY a JSON array containing EXACTLY ONE action. No prose. No comments.",
+        "",
+        "Allowed actions (schemas):",
+        '{"action":"retrieve_text","query":"...","k":8,"where":null,"where_document":null}',
+        '{"action":"propose_answer","needs_citations":true,"answer":"..."}',
+        "",
+        "Inputs provided each call:",
+        "",
+        "original_question: full user question",
+        "previous_queries: list of your prior retrieve_text queries for this question",
+        "passages: up to the top-N best passages retrieved so far (may be empty)",
+        "",
+        "Policy:",
+        "",
+        "If passages is empty: output one retrieve_text with a precise query derived from original_question.",
+        "If passages are provided:",
+        "If they support a concise answer to original_question: output one propose_answer with the final answer string in \"answer\".",
+        "Otherwise: output one retrieve_text that builds on entities/facts/relations found in passages and avoids repeating previous_queries.",
+        "Use previous_queries to refine and generate new queries for multihop question. Add specificity (entities, dates, synonyms, abbreviations) as you progress.",
+        "Never guess. If evidence is insufficient, retrieve_text again rather than proposing an answer.",
+        "Do NOT include any keys other than those shown. The JSON array must contain exactly one object.",
+        "",
+        "Iterative example (simulated):",
+        "Call 1 input: passages=[]",
+        "Output:",
         "[",
-        '  {"action":"retrieve_text","query":"pKa of acetic acid","k":8,"where":null,"where_document":null},',
-        '  {"action":"propose_answer","needs_citations":true}',
+        '{"action":"retrieve_text","query":"Who acquired GitHub?","k":8,"where":null,"where_document":null}',
+        "]",
+        "",
+        'Call 2 input: passages summarize: "Microsoft acquired GitHub in 2018."',
+        "Output:",
+        "[",
+        '{"action":"retrieve_text","query":"Where is Microsoft headquartered?","k":8,"where":null,"where_document":null}',
+        "]",
+        "",
+        'Call 3 input: passages summarize: "Microsoft is headquartered in Redmond, Washington."',
+        "Output:",
+        "[",
+        '{"action":"propose_answer","needs_citations":true,"answer":"Redmond, Washington, United States."}',
         "]",
     ])
-    return "\n".join(base)
-b = default_planner_system_prompt(allow_kg=False)
-print(b)
 # -------------------------- Factory -------------------------------------------
 
 def make_json_planner(
@@ -69,6 +82,7 @@ def make_json_planner(
     default_k: int = 8,
     max_actions: int = 6,
     system_prompt: Optional[str] = None,
+    passages_top_k: int = 5,
 ) -> JSONPlanner:
     """
     Convenience factory to build a JSONPlanner with a good default system prompt.
@@ -80,6 +94,7 @@ def make_json_planner(
         default_k=default_k,
         max_actions=max_actions,
         system_prompt=sys_prompt,
+        passages_top_k=passages_top_k,
     )
 
 

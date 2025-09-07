@@ -1,5 +1,5 @@
 # protocols/actions.py
-from dataclasses import dataclass, asdict
+from dataclasses import dataclass, asdict, field
 from typing import Any, Dict, List, Optional, Union, Literal
 import json
 
@@ -17,7 +17,7 @@ class RetrieveText:
 @dataclass(frozen=True)
 class RetrieveKG:
     action: Literal["retrieve_kg"] = "retrieve_kg"
-    seed_entities: List[str] = None
+    seed_entities: List[str] = field(default_factory=list)
     relation: Optional[str] = None
     max_hops: int = 2
 
@@ -25,6 +25,8 @@ class RetrieveKG:
 class ProposeAnswer:
     action: Literal["propose_answer"] = "propose_answer"
     needs_citations: bool = True
+    # Optional: when the planner LLM decides to answer directly, carry it here
+    answer: Optional[str] = None
 
 @dataclass(frozen=True)
 class Stop:
@@ -53,7 +55,10 @@ def action_from_dict(d: Dict[str, Any]) -> Action:
             max_hops=int(d.get("max_hops", 2)),
         )
     if kind == "propose_answer":
-        return ProposeAnswer(needs_citations=bool(d.get("needs_citations", True)))
+        return ProposeAnswer(
+            needs_citations=bool(d.get("needs_citations", True)),
+            answer=d.get("answer") if isinstance(d.get("answer"), str) else None,
+        )
     if kind == "stop":
         return Stop()
     raise ValueError(f"Unknown action: {kind}")
@@ -86,4 +91,8 @@ def validate_actions(actions: List[Action]) -> List[str]:
                 errors.append(f"[{i}] retrieve_kg.seed_entities is empty")
             if a.max_hops <= 0:
                 errors.append(f"[{i}] retrieve_kg.max_hops must be > 0")
+        if isinstance(a, ProposeAnswer):
+            # Enforce that planner-proposed answers include the answer text
+            if a.answer is None or str(a.answer).strip() == "":
+                errors.append(f"[{i}] propose_answer.answer is required and must be non-empty")
     return errors

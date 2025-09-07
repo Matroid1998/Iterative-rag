@@ -65,25 +65,50 @@ class JSONPlanner:
         default_k: int = 8,
         max_actions: int = 6,
         system_prompt: Optional[str] = None,
+        passages_top_k: int = 5,
     ) -> None:
         self.llm = llm
         self.allow_kg = bool(allow_kg)
         self.default_k = int(default_k)
         self.max_actions = int(max_actions)
         self.system_prompt = system_prompt or DEFAULT_SYSTEM_PROMPT
+        self.passages_top_k = int(passages_top_k)
 
     def plan(self, question: str, state: Dict[str, Any]) -> List[Action]:
-        # Build a compact user prompt with optional context hints
-        entities = state.get("entities") or []
-        subgoals = state.get("open_subgoals") or []
+        # Build iterative user prompt expected by the system prompt
         filters = state.get("filters") or None
+        prev_queries = state.get("previous_queries") or []
+        evidence = state.get("evidence") or []
+
+        def _score_key(h: Dict[str, Any]) -> float:
+            if h.get("score") is not None:
+                return float(h["score"])
+            if h.get("score_dense") is not None:
+                return float(h["score_dense"])
+            return 0.0
+
+        # Select top-N best passages overall so far
+        topk = sorted(list(evidence), key=_score_key, reverse=True)[: max(0, self.passages_top_k)]
+
+        # Serialize passages compactly: include id/title if present and text
+        out_lines: List[str] = []
+        for i, h in enumerate(topk, 1):
+            pid = str(h.get("id") or i)
+            meta = h.get("metadata") or {}
+            title = meta.get("title")
+            header = f"[{i}] id={pid}" + (f" | title={title}" if title else "")
+            text = str(h.get("text", "")).strip()
+            # Clip very long texts to keep prompt size manageable
+            if len(text) > 1200:
+                text = text[:1200] + " ..."
+            out_lines.append(header)
+            out_lines.append(text)
+        passages_block = "\n".join(out_lines) if out_lines else "[]"
 
         user_prompt = (
-            f"Question: {question}\n"
-            f"Known entities: {entities}\n"
-            f"Open subgoals: {subgoals}\n"
-            f"Default k: {self.default_k}\n"
-            f"Filters (optional): {filters}\n"
+            f"original_question: {question}\n"
+            f"previous_queries: {prev_queries}\n"
+            f"passages:\n{passages_block}\n"
         )
 
         raw = self.llm.complete(self.system_prompt, user_prompt)
@@ -103,8 +128,10 @@ class JSONPlanner:
         if not self.allow_kg:
             actions = [a for a in actions if not isinstance(a, RetrieveKG)]
 
-        # Enforce caps and defaults
-        actions = actions[: self.max_actions]
+        # Enforce EXACTLY ONE action from the LLM output by truncation
+        if len(actions) > 1:
+            actions = actions[:1]
+        # Fill defaults on the single action
         actions = _fill_defaults(actions, default_k=self.default_k, filters=filters)
 
         # Validate & fallback if needed
