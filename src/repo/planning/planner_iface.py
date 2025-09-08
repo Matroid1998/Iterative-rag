@@ -1,4 +1,5 @@
 from typing import Protocol, List, Dict, Any, Optional, Tuple, Sequence
+import os
 import json
 import re
 
@@ -32,25 +33,56 @@ class LLMClient(Protocol):
 
 # ------------------------------ Implementations -------------------------------
 
-DEFAULT_SYSTEM_PROMPT = (
-    "You are a retrieval planner for chemistry QA over unstructured text.\\n"
-    "You MUST output ONLY a JSON array of actions. No prose.\\n"
-    "Constraints:\\n"
-    "- Base answers strictly on retrieved evidence; never assume or invent.\\n"
-    "- If you lack evidence, add another retrieve_text (or stop).\\n"
-    "Allowed actions:\\n"
-    '  {"action":"retrieve_text","query":"...","k":8,"where":null,"where_document":null}\\n'
-    '  {"action":"propose_answer","needs_citations":true}\\n'
-    "Rules:\\n"
-    "- Keep plans short (1â€“3 actions is typical).\\n"
-    "- Use retrieve_text for each sub-question you need evidence for.\\n"
-    "- Finish with propose_answer only after you expect enough evidence to cite.\\n"
-    "- Do NOT include comments or extra fields.\\n"
-    "Example plan:\\n"
-    "[\\n"
-    '  {"action":"retrieve_text","query":"pKa of acetic acid","k":8,"where":null,"where_document":null},\\n'
-    '  {"action":"propose_answer","needs_citations":true}\\n'
-    "]\\n"
+DEFAULT_SYSTEM_PROMPT = ([
+ "You are an iterative retrieval planner for multi-hop QA over unstructured text in chemistry.",
+        "Return ONLY a JSON array containing EXACTLY ONE action. No prose. No comments.",
+        "",
+        "Allowed actions (schemas):",
+        '{"action":"retrieve_text","query":"...","k":8,"where":null,"where_document":null}',
+        '{"action":"propose_answer","needs_citations":true,"answer":"..."}',
+        "",
+        "Inputs provided each call:",
+        "",
+        "original_question: full user question",
+        "previous_queries: list of your prior retrieve_text queries for this question",
+        "passages: up to the top-N best passages retrieved so far (may be empty)",
+        "",
+        "Policy:",
+        "",
+        "Decompose: Identify the minimal set of atomic sub-questions needed to answer original_question.",
+        "One-at-a-time: Each call must handle exactly ONE sub-question and return one action.",
+        "If passages is empty: output one retrieve_text targeting the most critical sub-question.",
+        "If passages do NOT resolve all sub-questions: output one retrieve_text for the NEXT unresolved sub-question only.",
+        "Only when ALL sub-questions are supported by the retrieved passages: output one propose_answer with the final answer string in \"answer\".",
+        "Query formation:",
+        "- Do NOT combine multiple sub-questions in a single query (avoid conjunctions like 'and').",
+        "- Include exact entities and properties from original_question (e.g., 'pKa of acetic acid').",
+        "- Avoid vague keywords; target the missing fact precisely.",
+        "Use previous_queries to refine and avoid repetition. Add specificity (entities, dates, synonyms, abbreviations) as you progress.",
+        "Never guess. If evidence is insufficient, retrieve_text again rather than proposing an answer.",
+        "Do NOT include any keys other than those shown. The JSON array must contain exactly one object.",
+        "",
+        "Chemistry two-hop example (simulated):",
+        "original_question: Which compound mentioned is aromatic, and what is the pKa of acetic acid?",
+        "Call 1 output:",
+        "[",
+        '{"action":"retrieve_text","query":"Which compound is aromatic?","k":8,"where":null,"where_document":null}',
+        "]",
+        "Call 2 output:",
+        "[",
+        '{"action":"retrieve_text","query":"pKa of acetic acid","k":8,"where":null,"where_document":null}',
+        "]",
+        "Call 3 output:",
+        "[",
+        '{"action":"propose_answer","needs_citations":true,"answer":"Benzene is aromatic; acetic acid pKa ≈ 4.76."}',
+        "]",
+        "",
+        "Anti-pattern (do NOT do this):",
+        "[",
+        '{"action":"retrieve_text","query":"aromatic compounds and pKa of acetic acid","k":8,"where":null,"where_document":null}',
+        "]",
+        "Reason: Combines two sub-questions; always target one missing fact per retrieve_text.",
+    ]
 )
 
 class JSONPlanner:
@@ -73,6 +105,9 @@ class JSONPlanner:
         self.max_actions = int(max_actions)
         self.system_prompt = system_prompt or DEFAULT_SYSTEM_PROMPT
         self.passages_top_k = int(passages_top_k)
+        # Debug printing toggle via env: PLANNER_DEBUG=1|true
+        self._debug = 1
+        self._dbg_calls = 0
 
     def plan(self, question: str, state: Dict[str, Any]) -> List[Action]:
         # Build iterative user prompt expected by the system prompt
@@ -110,6 +145,15 @@ class JSONPlanner:
             f"previous_queries: {prev_queries}\n"
             f"passages:\n{passages_block}\n"
         )
+
+        # Optional debug prints
+        if self._debug:
+            self._dbg_calls += 1
+            if self._dbg_calls == 1:
+                print("[Planner] System prompt (once):\n" + self.system_prompt)
+                print("-" * 60)
+            print(f"[Planner] User prompt (call {self._dbg_calls}):\n" + user_prompt)
+            print("-" * 60)
 
         raw = self.llm.complete(self.system_prompt, user_prompt)
 
