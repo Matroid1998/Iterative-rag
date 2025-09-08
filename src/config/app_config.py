@@ -19,7 +19,6 @@ from service.planner_llm import (
 )
 
 # --------------------- Explicit settings (edit in code) -----------------------
-
 # Choose one: "openai" | "ollama" | "hf" | "none"
 LLM_PROVIDER: str = "openai"
 
