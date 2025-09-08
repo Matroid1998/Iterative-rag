@@ -116,13 +116,17 @@ class JSONPlanner:
         # Extract a JSON array from the raw LLM text (be robust to extra prose)
         json_text, ok = _extract_json_array(raw)
         if not ok:
-            # Fallback: a simple plan (dense-only)
-            return _fallback_plan(question, self.default_k)
+            # Fallback: return exactly one action based on whether we have evidence
+            if state.get("evidence"):
+                return [ProposeAnswer(needs_citations=True)]
+            return [RetrieveText(query=question, k=self.default_k, where=filters, where_document=None)]
 
         try:
             actions = parse_actions_json(json_text)
         except Exception:
-            return _fallback_plan(question, self.default_k)
+            if state.get("evidence"):
+                return [ProposeAnswer(needs_citations=True)]
+            return [RetrieveText(query=question, k=self.default_k, where=filters, where_document=None)]
 
         # Optionally strip KG actions if KG is not enabled yet
         if not self.allow_kg:
@@ -137,12 +141,16 @@ class JSONPlanner:
         # Validate & fallback if needed
         errs = validate_actions(actions)
         if errs:
-            # If invalid, return a safe, minimal plan
-            return _fallback_plan(question, self.default_k)
+            # If invalid, fall back to a single actionable step
+            if state.get("evidence"):
+                return [ProposeAnswer(needs_citations=True)]
+            return [RetrieveText(query=question, k=self.default_k, where=filters, where_document=None)]
 
         # Ensure the plan is actionable: must contain at least one action
         if not actions:
-            return _fallback_plan(question, self.default_k)
+            if state.get("evidence"):
+                return [ProposeAnswer(needs_citations=True)]
+            return [RetrieveText(query=question, k=self.default_k, where=filters, where_document=None)]
 
         return actions
 

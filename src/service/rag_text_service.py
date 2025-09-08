@@ -29,6 +29,7 @@ from repo.retrievers.text_retriever import TextRetriever
 
 # Planning + orchestrator
 from repo.planning.planner_iface import Planner, JSONPlanner, RuleBasedPlanner
+from config.app_config import build_json_planner_from_settings
 from service.orchestrator import Orchestrator
 
 # Utilities
@@ -85,8 +86,13 @@ class RagTextService:
             dense_weight=retriever_dense_weight,
         )
 
-        # 4) Planner (default: rule-based; you can pass a JSONPlanner wired to your LLM)
-        self.planner: Planner = planner if planner is not None else RuleBasedPlanner(default_k=8)
+        # 4) Planner
+        if planner is not None:
+            self.planner: Planner = planner
+        else:
+            # Try to build an LLM-backed JSON planner from config; fallback to rule-based
+            _p = build_json_planner_from_settings()
+            self.planner = _p if _p is not None else RuleBasedPlanner(default_k=8)
 
         # 5) Orchestrator
         self.orchestrator = Orchestrator(
