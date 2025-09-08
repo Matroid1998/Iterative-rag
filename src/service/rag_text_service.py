@@ -29,7 +29,7 @@ from repo.retrievers.text_retriever import TextRetriever
 
 # Planning + orchestrator
 from repo.planning.planner_iface import Planner, JSONPlanner, RuleBasedPlanner
-from orchestrator import Orchestrator
+from service.orchestrator import Orchestrator
 
 # Utilities
 from repo.utils.chunking import chunk_document, chunk_corpus
