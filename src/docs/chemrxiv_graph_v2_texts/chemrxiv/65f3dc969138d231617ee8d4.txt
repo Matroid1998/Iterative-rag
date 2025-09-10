@@ -1,0 +1,39 @@
+Description:
+Quantum dots used in conjunction with organic layers.
+
+Text:
+of an intermediate tripletdiffusing, FRETblocking organic layer between the 
+PbS QDs and rubrene layers (see Figure 1e). We hypothesize that the introduction of 
+some optimal thickness of an organic semiconductor would improve EQEs by reducing 
+the BT process.
+
+
+---
+
+Description:
+A material with a quantum dot bandgap of 1.2 eV, used in triplet extraction efficiencies.
+
+Text:
+This ideal interlayer would possess a triplet energy level between that of 
+rubrene (T1  1.14 eV)78 and the PbS QD bandgap (1.2 eV) while possessing a singlet 
+energy level higher than that of rubrene (S1  2.25 eV).78 As shown in Figure 1e, this 
+proposed device architecture prevents the parasitic BT by acting as an uphill energetic 
+barrier while maintaining the triplet energy flow to the rubrene through downhill energy 
+transfer processes (ET1, ET2).65,67,74,75 
+Here, we report the use of 5tetracene carboxylic acid (TCA, S1  2.4 eV, T1  1.3 eV, 
+see Figure 1e)79 as an interlayer to improve NIRtovisible solidstate UC. In addition to 
+improvements in BT alleviation (i.e., reduction in BT), we observe improvements in triplet 
+extraction (ET1ET) efficiencies from PbS.
+
+
+---
+
+Description:
+Used in thicker films to improve external quantum efficiency (EQE).
+
+Text:
+We report significant improvements in EQE, 
+particularly for thicker PbS films, and systematically identify the cause of the improvement 
+in EQE. Finally, we demonstrate the application of this novel device architecture in anti
+counterfeiting by depositing a patterned TCA interlayer to create intricate images under 
+diffuse NIR irradiation. httpsdoi.org10.26434chemrxiv2024h0k05 ORCID httpsorcid.org0000000180114785 Content not peerreviewed by ChemRxiv. License CC BY 4.0

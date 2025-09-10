@@ -1,0 +1,13 @@
+Description:
+Used to operate a PEM setup for 400 hours at 10 mA cm2, but experiences Mn leaching at higher current densities.
+
+Text:
+showed that Co3O4 can perform OER over several days in 
+strongly acidic electrolytes, albeit at low current densities, using 
+a threeelectrode cell.3 In terms of practical applicability, 
+MnO2 was used to operate a PEM setup for 400 h at 
+10 mA cm2.4 When 100 mA cm2 was applied, the system shut 
+down after 8 h, which was attributed to extensive Mn leaching 
+and calls for the need to stabilize the noble metalfree OER 
+catalyst further. One strategy to achieve higher stabilization is the expansion to 
+multinary compositions.

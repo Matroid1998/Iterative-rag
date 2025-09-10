@@ -1,0 +1,14 @@
+Description:
+A photoactive material platform well characterized from the tissue engineering research perspective.
+
+Text:
+However, GelMAs natural origin leads to variability in its final chemical structure, 
+driven by differences in molecular weight distribution and the inherent randomness of gelatin 
+modification processes15. These properties subsequently raise the costs associated with highquality, low
+variability commercial GelMA products and limits reproducible VAM experimentation2, 13, 16. Other 
+contemporary hydrogel photopolymers have focused on the use of thermogelling materials, with 
+norbornene and allyl functionalized gelatin17, 18 as primary networks, and nonfunctionalized gelatin as 
+a secondary network12. Here, we aim to decouple the need for thermogelling VAM photopolymers by 
+introducing a secondary physical hydrogel to enhance the printability of low cost, small molecular weight 
+photopolymers. The photoactive material platform investigated here is based on poly(ethylene glycol) diacrylate 
+(PEGDA) and is well characterized from the tissue engineering research perspective.

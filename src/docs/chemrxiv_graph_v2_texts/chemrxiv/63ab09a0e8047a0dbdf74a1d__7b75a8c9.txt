@@ -1,0 +1,45 @@
+Description:
+A dopant used in commercial catalysts for selective catalytic reduction to reduce nitrogen oxide emissions.
+
+Text:
+Typical commercial metal oxide catalysts extensively applied in the industry usually consist
+of a catalytic layer on a support. The catalytic performance of the oxide layer can be
+further improved by mixing a certain portion of guest elements into the host oxide through
+doping, which leads to changes in the electronic structures and chemical bonds within the
+catalyst.1 One of the most widely employed dopants in commercial catalysts for the selective
+catalytic reduction (SCR) reaction to reduce nitrogen oxide emission is tungsten, as realized
+in WO3V2O5TiO2 (anatase).2,3 The role of tungsten doping in improving the catalytic
+performance is still controversially discussed. Based on spectroscopy experiments, Peng et
+al.
+
+
+---
+
+Description:
+Doping with tungsten increases Brønsted acid sites on catalyst layers.
+
+Text:
+proposed that the increased concentration of Brnsted acid sites (VOH) on catalyst layer
+by tungsten doping facilitates NH3 adsorption.4 On the other hand, more recent infrared
+spectroscopic studies5,6 suggested that the terminal vanadyl groups, which act as Lewis acid
+sites, are crucial for stronger ammonia adsorption. Indeed, in a previous theoretical study,7
+we have shown that the addition of tungsten can lead to nonstoichiometric surfaces and the
+occurrence of unsaturated terminal vanadyl groups.
+
+
+---
+
+Description:
+Stabilizes the anatase phase of the TiO2 support, extending the operation time of the catalyst with high activity.
+
+Text:
+Yet, both theory and experiment agree
+that a proper amount of tungsten stabilizes the anatase phase of the TiO2 support thus
+extending the operation time of the catalyst with a high activity.7,8 Still, although tungsta
+vanadia catalysts exhibit an outstanding catalytic activity in the temperature window of
+300400C, the low NO conversion rate at lower temperatures and the poor selectivity at
+high temperatures are still challenging issues. Therefore, numerous eorts have focused on
+the widening of the operation temperature range of SCR catalysts, which is closely related
+to adjusting the redox properties and the acidity of catalysts.911
+Among various possibilities, introducing new doping elements is one of the most promising
+2

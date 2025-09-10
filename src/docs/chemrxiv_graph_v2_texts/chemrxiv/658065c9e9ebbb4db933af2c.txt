@@ -1,0 +1,11 @@
+Description:
+Included in the base case scenario of a chemical kinetic model for polymer fouling.
+
+Text:
+In our prior research, we took the initial step of creating a predictive multiphase detailed
+chemical kinetic model for polymer fouling in an industrial distillation column that separates
+C4 and lighter species from heavier ones (debutanizer),6 as illustrated in Fig. 1. That
+model only considered the base case scenario, which includes alkanes, alkenes, conjugated
+dienes, and aromatics from steam cracker effluents, and excluded any impurities or industrial
+additives. The model showed that under the base case scenario, the main fouling mechanism
+is the polymerization of reactive monomers, e.g., dienes.

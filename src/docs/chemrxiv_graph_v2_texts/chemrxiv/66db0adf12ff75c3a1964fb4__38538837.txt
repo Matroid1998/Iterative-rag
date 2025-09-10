@@ -1,0 +1,27 @@
+Description:
+A 2D metal-organic framework film developed with conditions to promote in-plane growth and delay homogeneous nucleation.
+
+Text:
+As a result, the stateoftheart UiO66 films are 23 orders of magnitude thicker than the desired 2D film (Figure S2 and 
+Table S1). Herein, we report the first nonvdW 2D MOF in the form of 2D UiO66NH2 film by developing conditions leading to anisotropic 
+2D growth. Briefly, the composition of the precursor solution was screened to develop growth conditions that delay homogeneous 
+nucleation of UiO66NH2 in the bulk solution, promote inplane growth of 2D nuclei, and slow outofplane growth. This was further 
+facilitated by the use of atomically smooth graphitic substrates. A crystallographic registry between the graphene superstructure and 
+the 2D lattice of UiO66 along the aoutofplane direction was observed. The thickness of the film could be tuned from 0.5 to 2 unit 
+cells.
+
+
+---
+
+Description:
+Formed by the coordination of hexanuclear zirconiumoxo cluster and 2aminoterephthalate, possessing a cubic structure.
+
+Text:
+RESULTS AND DISCUSSION 
+UiO66NH2, formed by the coordination of hexanuclear zirconiumoxo cluster and 2aminoterephthalate (BDCNH2), possesses a 
+cubic structure with a composition of Zr6O6(BDCNH2)6.20, 34 It has been reported that crystallinity can be enhanced with modulators 
+such as hydrochloric acid,35 benzoic acid,36 formic acid,37 and acetic acid.38 Achieving 2D films of UiO66NH2 is particularly chal
+lenging due to the isotropic bond strength, which makes it difficult to synthesize anisotropic UiO66NH2 directly. To address this, 
+synthesis conditions were modulated by screening different amounts of acetic acid as modulator to improve crystallinity, various 
+metal and ligand concentrations, metaltoligand ratio, and the pH. Importantly, water was used as a solvent, keeping sustainability 
+in mind. Atomically smooth graphitic substrates were used to promote inplane growth.

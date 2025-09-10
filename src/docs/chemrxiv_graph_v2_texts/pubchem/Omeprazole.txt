@@ -1,0 +1,33 @@
+Name: Omeprazole
+Text:
+6-methoxy-2-[(4-methoxy-3,5-dimethyl-2-pyridinyl)methylsulfinyl]-1H-benzimidazole is a member of benzimidazoles and a sulfoxide.
+Originally approved by the FDA in 1989, omeprazole is a proton-pump inhibitor, used to treat gastric acid-related disorders. These disorders may include gastroesophageal reflux disease (GERD), peptic ulcer disease, and other diseases characterized by the oversecretion of gastric acid.  This drug was the first clinical useful drug in its class, and its approval was followed by the formulation of many other proton pump inhibitor drugs. Omeprazole is generally effective and well-tolerated, promoting its popular use in children and adults.
+Omeprazole is a Proton Pump Inhibitor. The mechanism of action of omeprazole is as a Proton Pump Inhibitor, and Cytochrome P450 2C19 Inhibitor.
+Omeprazole and esomeprazole are proton pump inhibitors (PPIs) and potent inhibitor of gastric acidity which are widely used in the therapy of gastroesophageal reflux and peptic ulcer disease. Omeprazole and esomeprazole therapy are both associated with a low rate of transient and asymptomatic serum aminotransferase elevations and are rare causes of clinically apparent liver injury.
+Omeprazole is a benzimidazole with selective and irreversible proton pump inhibition activity. Omeprazole forms a stable disulfide bond with the sulfhydryl group of the hydrogen-potassium (H+ - K+) ATPase found on the secretory surface of parietal cells, thereby inhibiting the final transport of hydrogen ions (via exchange with potassium ions) into the gastric lumen and suppressing gastric acid secretion. This agent exhibits no anticholinergic activities and does not antagonize histamine H2 receptors.
+OMEPRAZOLE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1989 and has 7 approved and 67 investigational indications.
+Omeprazole is a highly effective inhibitor of gastric acid secretion used in the therapy of stomach ulcers, dyspepsia, peptic ulcer disease , gastroesophageal reflux disease and Zollinger-Ellison syndrome. The drug inhibits the H(+)-K(+)-ATPase (H(+)-K(+)-exchanging ATPase) in the proton pump of Gastric Parietal Cells.--Pubchem. Omeprazole is one of the most widely prescribed drugs internationally and is available over the counter in some countries.
+A 4-methoxy-3,5-dimethylpyridyl, 5-methoxybenzimidazole derivative of timoprazole that is used in the therapy of STOMACH ULCERS and ZOLLINGER-ELLISON SYNDROME. The drug inhibits an H(+)-K(+)-EXCHANGING ATPASE which is found in GASTRIC PARIETAL CELLS.
+See also: Omeprazole Magnesium (has salt form); Omeprazole Sodium (has salt form); Omeprazole; Sodium Bicarbonate (component of) ... View More ...
+Properties:safety: Irritant
+smiles: CC1=CN=C(C(=C1OC)C)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC
+formula: C17H19N3O3S
+chem_properties: Molecular Weight: 345.4 g/mol
+XLogP3: 2.2
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 5
+Exact Mass: 345.11471265 Da
+Monoisotopic Mass: 345.11471265 Da
+Topological Polar Surface Area: 96.3
+Heavy Atom Count: 24
+Formal Charge: 0
+Complexity: 453
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

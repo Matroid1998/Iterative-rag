@@ -1,0 +1,96 @@
+Description:
+Offers a high capacity of 147 mAh.g-1 due to the oxidation of Ni2 to Ni4 at an average potential of 4.7 V vs. LiLi.
+
+Text:
+Spinel LiNi0.5Mn1.5O4 (LNMO) is one of the most promising and 
+costeffective candidates for nextgeneration positive electrode 
+materials for Liion batteries. This material offers a high capacity 
+of 147 mAh.g1 due to the oxidation of Ni2 to Ni4 at an average 
+potential of 4.7 V vs. LiLi, which results in an appealing energy 
+density of 650 Whkg.1,2 However, some issues still prevent its im
+plementation in commercial devices. Limited stability of electro
+lytes at such high potentials leads to secondary reactions at the elec
+trodeelectrolyte interface involving Mn dissolution into the elec
+trolyte and cathode electrolyte interphase growth.3 A deep compre
+hension and adjustment of its intrinsic properties are necessary to 
+make LNMObased batteries available.
+
+
+---
+
+Description:
+A spinel structure with Ni and Mn that can be disordered or ordered.
+
+Text:
+In LNMO spinel structure, Ni and Mn can occupy either a single 
+crystallographic site or two different ones within cubic symmetry 
+unit cells. The first unit cell is described in the Fd3m space group 
+and associated with a disordered (statistical) distribution of transi
+tion metal ions, whereas the second one is described in the P4332 
+space group and associated with a 13 ordering between the two 
+transition metal ions. The disordered LNMO is generally obtained 
+via hightemperature solidstate syntheses ( 900C), inevitably 
+next to a rocksalttype impurity such as NiO and LixNi1xO.4 The 
+formation of this mixture of phases is driven by the oxygen loss 
+from the stoichiometric phase LiNi0.5Mn1.5O4 at such elevated tem
+peratures.
+
+
+---
+
+Description:
+Composed of LiNi20.5Mn3,41.5O4 and reannealed to form LiNi20.5Mn41.5O4.5 for stoichiometry and order.
+
+Text:
+This phenomenon also causes the partial reduction of 
+Mn4 into Mn3 to balance the decreasing NiMn ratio within the 
+spinel structure. Thus, the disordered LNMO is composed of 
+LiNi20.5Mn3,41.5O4. The material is commonly reannealed at 
+a lower temperature (700C) to homogenize it and reoxidize 
+Mn3 into Mn4 to obtain the stoichiometric and ordered LNMO 
+LiNi20.5Mn41.5O4.5 Regarding electrochemical performance, the 
+disordered phase usually exhibits higher electronic conductivity 
+due to manganese mixed valence, better structural stability and 
+higher specific capacity, especially at high rates and for longterm 
+cycling.6 As rocksalt impurity tends to be located at the surface of 
+disordered phase primary particles,710 Not only does it hinder ac
+cess to the full electrochemical capacity of spinel, but it also leads 
+to misleading investigations of surface reactivity.
+
+
+---
+
+Description:
+A spinel material whose electrochemical performance is influenced by particle morphology and surface orientations.
+
+Text:
+Particle morphology and surface orientations impact spinel 
+LNMO energy storage performance 11 by influencing the electrical 
+conductivity, Liion diffusion kinetics, and surface reactivity at the 
+electrodeelectrolyte interface.12 Indeed, theoretical calculations 
+have revealed that 111 surfaces show the lowest surface energy 
+for spinel LNMO,13,14,favoring thus octahedral morphology. Addi
+tionally, these 111 surfaces promote superior electrochemical 
+performance due to larger atomic density and reduced transition 
+metal dissolution compared to other surfaces, such as 110 and 
+100 found on truncated octahedra.1518 For all the particle mor
+phologies that can be experimentally obtained (octahedra, trun
+cated octahedra, sphere, nanorods, platelets), one or two crystallo
+graphic planes are usually exposed depending on the synthesis con
+ditions.
+
+
+---
+
+Description:
+Exhibits particle morphology as octahedra or truncated octahedra with exposed crystallographic planes of 111 or 100110.
+
+Text:
+For instance, conventional solidstate synthesis does not al
+low the control of LNMO particle morphology or surface orienta
+tion and always leads to octahedra or truncated octahedra with ex
+posed crystallographic planes of 111 or 100110, respec
+tively. LNMO with platelet morphology reported in the literature 
+revealed, until now, either 10011019,20 or 11216,2123 crys
+tallographic oriented planes at their surface. Hai et al.21,24 have 
+httpsdoi.org10.26434chemrxiv20231hhg9v2 ORCID httpsorcid.org0000000174300266 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

@@ -1,0 +1,28 @@
+Name: Tetraethylene Glycol
+Text:
+Tetraethylene glycol is a colorless to straw-colored liquid with a mild odor. Sinks and mixes with water. (USCG, 1999)
+Tetraethylene glycol is a poly(ethylene glycol).
+Tetraethylene glycol is an industrial solvent/chemical with a higher boiling point and lower volatility than the lower ethylene glycols. It is especially useful in polyester resins and as a plasticizer. Tetraethylene glycol is also used as a chemical intermediate and as a solvent in the production of inks and dyes. Tetraethylene glycol is often used as a process solvent in hydrocarbon purification processes and as a coupling agent in the production of textile lubricants and formulations.
+See also: Polyethylene Glycol 200 (annotation moved to) ... View More ...
+Properties:safety: Irritant
+smiles: C(COCCOCCOCCO)O
+formula: C8H18O5
+chem_properties: Molecular Weight: 194.23 g/mol
+XLogP3: -1.6
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 10
+Exact Mass: 194.11542367 Da
+Monoisotopic Mass: 194.11542367 Da
+Topological Polar Surface Area: 68.2
+Heavy Atom Count: 13
+Formal Charge: 0
+Complexity: 78.6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

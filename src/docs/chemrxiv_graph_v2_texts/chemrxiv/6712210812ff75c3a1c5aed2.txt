@@ -1,0 +1,35 @@
+Description:
+A greenhouse gas whose emissions contribute to climate change and is targeted for reduction through various capture technologies.
+
+Text:
+The continuous rise in global CO2 emissions has unfolded an era of unprecedented 
+climate change with profound ecological and environmental consequences 1. Therefore, the urgency of mitigating the environmental impact of elevated CO2 levels 
+raises a strong motivation to achieve largescale reduction of CO2 emissions 2. In 
+this context, CO2 capture processes have received much attention 3,4. Considerable research has been dedicated to enhancing the efficiency of CO2 
+capture technologies for largescale applications, particularly in natural gas 
+purification and postcombustion processes 5. Various technologies are currently 
+under investigation for the capture of CO2, including regenerative solventbased 
+absorption 2,6, fixed bed adsorption 7, cryogenic separation techniques 8, and 
+membrane separation methods 912.
+
+
+---
+
+Description:
+A gas whose permeability and selectivity are key factors in membrane separation for efficient capture.
+
+Text:
+Of these, membrane technology offers 
+advantages such as exceptional stability, high efficiency, low energy consumption, 
+and ease of operation 5. However, a significant drawback of membrane separation 
+is the inherent tradeoff between permeability (pressurenormalized flux) and 
+selectivity (AB) for gases A and B, as described by the relationship in Eq. 1 5,12
+14. A  AB
+
+(1) 
+Where PA is the steady state permeability of the more permeable gas A Barrer,  is 
+the selectivity for gas A over gas B (PAPB), and k and n are gas pairspecific 
+constants k is the prefactor Barrer, and n is the slope of the tradeoff relationship, 
+which is typically negative. Extensive research efforts in the membrane separation 
+field aim to improve CO2 permeability and selectivity to enhance the efficiency of CO2 
+capture.

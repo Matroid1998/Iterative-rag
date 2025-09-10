@@ -1,0 +1,14 @@
+Description:
+A conventional secondary battery technology.
+
+Text:
+Cheap, highperformance, and safe energy storage solutions are 
+needed to address the increasing demand for portable electronics 
+and the transition to electric mobility. Lithiumion batteries have 
+replaced conventional secondary battery technology (like nickel
+cadmium and nickelmetal hydride batteries) due to their high 
+energy densities, high operating voltages, and stable capacity 
+retention during opencircuit rest.1 Lithium metal anodes were 
+quickly replaced by lithiumintercalated graphitic materials in 
+order to avoid the formation of dendrites that resulted in short 
+circuiting of the two electrodes.

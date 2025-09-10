@@ -1,0 +1,16 @@
+Description:
+Produced at the cathode during CO2 conversion in SOERs.
+
+Text:
+In SOERs, 
+3 
+CO2 conversion occurs at the cathode (CO2  2e  CO  O2)1820 while propylene, a highvalue chemical, 
+4 
+is produced from inexpensive propane at the anode (C3H8  O2  C3H6  H2O  2e).3,11,13 The overall 
+5 
+electrochemical reaction, using excess renewable electricity in the SOER (C3H8  CO2  C3H6  CO  H2O 
+6 
+in Figure 1A), presents a compelling opportunity to merge environmental sustainability with economic 
+7 
+viability, thereby accelerating the transition to a carbonneutral future. 8 
+The concurrent CO2 recycling and propylene production via SOERs, however, faces several challenges.

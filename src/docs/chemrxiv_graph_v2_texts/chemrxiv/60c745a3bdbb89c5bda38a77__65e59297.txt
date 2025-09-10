@@ -1,0 +1,15 @@
+Description:
+A compositional variant of LiCoO2 used to decrease cost and increase performance in lithium-ion batteries.
+
+Text:
+Inercalation voltages
+are calculated and discussed as a predictive metric for potential functionality of the
+model materials. Introduction
+Manufacturing of nanoscale complex metal oxides (CMOs) is on the rise, concurrent with
+their use in mobile devices and renewable energy applications.13 A key example is the de
+lafossite structure type, which has found increased use as one of the prominent families of in
+tercalation materials used in lithiumion batteries (LIBs). The delafossite CMOs used in LIBs
+are the electroactive components of the cathode,47 and the prototypical example is LiCoO2
+(LCO). To decrease the cost and increase the performance of materials based on LCO, com
+positional tuning has led to Li(Ni13Mn13Co13)O2 (NMC) materials,811 and other variants
+2

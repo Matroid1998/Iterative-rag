@@ -1,0 +1,11 @@
+Description:
+An element investigated for its role in strong field ionization in HCCX.
+
+Text:
+In a previous study, we investigated the angular dependence of strong field ionization in HCCX (X  
+F, Cl, Br, I).27 In recent work we simulated charge migration and decoherence in HCCI with time
+dependent configuration interaction (TDCI) using geometries and vibrational frequencies for the X and A 
+states of HCCI cation available in the literature.1516 In the present work we have calculated the structures, 
+ionization potentials and vibrational frequencies of HCCX cations in the X and A states with CCSD and 
+EOMCCSDIP using a ccpVTZ basis set. The calculated data will be used in future simulations of charge 
+migration and decoherence in these systems.

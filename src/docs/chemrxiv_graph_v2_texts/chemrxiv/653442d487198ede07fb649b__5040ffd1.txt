@@ -1,0 +1,41 @@
+Description:
+An olefin used as a feedstock in the copolymerization with ethylene.
+
+Text:
+As compared to HDPE, ethyleneolefin copolymers 
+produced atscale by direct copolymerization of ethylene and olefins have a broader range of 
+applications as well as highvalue polyolefin elastomer (POE) and robust olefin block 
+copolymer (OBC) thermoplastic elastomer (plastomer) materials, but chemical or mechanical 
+recycling of such copolymers is considerably more challenging due to their chemical and 
+structural heterogeneity. Hence, there is a pressing need to render such materials chemically 
+circular but achieving such a desirable goal presents a particular challenge, due to difficulties 
+in introducing controllable branches, while simultaneously installing chemical circularity, and 
+also in primarily using industrially abundant and inexpensive feedstocks, ethylene and olefins 
+such as 1hexene or 1octene.
+
+
+---
+
+Description:
+A compound used in coordinative chain-transfer polymerization with ethylene.
+
+Text:
+We reasoned that an effective and scalable approach should be an innovative dropin 
+process based on the widely practiced coordination (co)polymerization of ethylene and 
+olefins in the current plastics industry28.To realize this strategy, we first synthesize ABtype 
+telechelic PE building blocks endcapped with alcohol (OH) functionality (A) at one end and 
+ester (CO2Et) functionality (B) at the other by coordinative chaintransfer polymerization 
+(CCTP) of ethylene and 1octene with suitable chaintransfer and chainend capping reagents. We further hypothesized that the advantage of AB telechelic building blocks over A2  B2 ones 
+in polycondensation, especially concerning precise stoichiometric control, should allow for 
+LEGOtype modular assembly of AB building blocks into ondemand PE materials.
+
+
+---
+
+Description:
+Incorporated into polycondensation processes to form circular LLDPE, POE, and OBC.
+
+Text:
+Accordingly, polycondensation of these ABtype telechelic PE building blocks of various 
+molecular weights and 1octene incorporations leads to circular LLDPE, POE, and OBC 
+httpsdoi.org10.26434chemrxiv20239w7gf ORCID httpsorcid.org000000030329705X Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

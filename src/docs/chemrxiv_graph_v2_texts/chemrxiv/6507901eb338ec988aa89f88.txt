@@ -1,0 +1,18 @@
+Description:
+Used in the synthesis of carbon nanotubes.
+
+Text:
+Nanoclusters are atomic aggregates that constitute the elemental 
+unit of nanoscience. The transition metal clusters, with diameters 
+ranging from 1 to 10 nm, are of significant theoretical and practical 
+interest due to their actual and potential use in ultrahigh density 
+magnetic recording materials, catalytic particles in the synthesis of 
+carbon nanotubes and several applications in electronics and 
+optics.1,2,3,4,5,6,7,8,9,10 Knowledge on geometrical structure plays an 
+important role in the determination of several physicochemical 
+properties of these nanoclusters.1,2 Theoretically, structure 
+determination is conventionally done via electronic structure 
+calculations using a variety of quantum chemical (QC) methods 
+based on both wavefunction (Hartree Fock) and density functional 
+theories. This is often a tedious, slow and computationally expensive 
+process for medium and large size systems.

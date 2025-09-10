@@ -1,0 +1,20 @@
+Description:
+Used in lithium-ion batteries for its high energy density and long cycle life.
+
+Text:
+Lithiumion batteries have emerged as the main technology in electrical energy storage due
+to their high energy density and long cycle life.1 However, the traditional liquid electrolytes
+used in Liion batteries still present significant safety concerns, including the risk of leakage,
+flammability, and thermal instability.24 Solid polymer electrolytes offer a promising alter
+native as their higher electrochemical stability, mechanical flexibility, ease of fabrication,
+and high property tunability could enhance the overall performance and safety of Liion and
+pave the way for Limetal batteries.57 On the downside, polymer electrolytes suffer from
+low roomtemperature ionic conductivity due to low solubility of lithium salts in polymers,
+and limited chain dynamics to facilitate ion conduction.8,9 Low transference number is a
+common limitation of polymer electrolytes, which leads to concentration gradients that de
+crease battery performance at high current density.10 The majority of the work on polymer
+electrolytes has concentrated on Poly(ethylene oxide) (PEO), and while other systems such
+as polynitriles, carbonyls, and single ion conductors have been proposed, none have reached
+ionic conductivity on par with liquid electrolytes at room temperature.1114
+Molecular dynamics (MD) simulations have been used to investigate diffusion mechanisms
+and structural properties in polymer electrolytes.

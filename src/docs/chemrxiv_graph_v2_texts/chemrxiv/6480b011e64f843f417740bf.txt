@@ -1,0 +1,12 @@
+Description:
+Emissions have rapidly increased due to anthropogenic activities.
+
+Text:
+Due to the rapid increase in anthropogenic CO2 emissions over the past century, a number of 
+technologies have been developed to reduce CO2 emissions from point sources.13 The most 
+mature technology is amine scrubbing, which employs amine molecules to capture CO2 at a 
+high concentration.4 Limitations of this technology include low CO2 capacities, parasitic side
+reactions and large regeneration energies.5,6 Amine scrubbing utilizes a temperatureswing 
+process and requires high temperatures to release CO2 and regenerate the amines. Electrochemically driven carbon dioxide capture is emerging as an energyefficient alternative 
+to thermally driven processes.7 Electrochemical systems can be operated under isothermal 
+conditions, limiting energy loss via heat.

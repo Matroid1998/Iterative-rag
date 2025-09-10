@@ -1,0 +1,12 @@
+Description:
+Forms interfaces with the anode that can be thermodynamically stable, unstable, or metastable based on its chemical makeup.
+
+Text:
+In addition Several mechanisms are proposed for pathways for Li lament growth
+in solid electrolytes. These mechanisms can be distinguished by the nature of the anode  SE
+interface which can be (i) thermodynamically stable, (ii) unstable, and (iii) metastable based
+on the chemical makeup of the SE4. A key underlying mechanism for all these types of inter
+faces pertains to the limitations in mass transport of Li metal. Highrate electrodissolution
+of the anode can lead to formation of pores at the anode  SE interface21,14. On a subse
+quent electrodeposition step, the pores act as magniers of electric eld leading to localized,
+nonplanar deposition resulting in laments22,5.

@@ -1,0 +1,20 @@
+Description:
+Facilitates coassembly with chromophores to create a rigid environment for RTP emissions.
+
+Text:
+Polymerbased roomtemperature phosphorescent (RTP) materials attracted 
+considerable attention in the past decades owing to their advantages, such as easy 
+processing, good flexibility, and low toxicity.16 In the past decades, lots of work made 
+great efforts to develop RTP materials possessing excellent luminescent performance 
+including long lifetime and high brightness.711 The previous reports have mainly 
+focused on achieving this objective through chemical approaches.1216 For one thing, 
+phosphors with certain chemical structures are developed according to the basic 
+principle of triplet emissions, such as introducing lonepair electrons to enhance 
+intersystem crossing (ISC).1723 For another thing, various polymers possessing strong 
+interactions with dopants were selected as the matrixes.2430 For instance, recently, it is 
+reported that ultralong RTP emissions can be achieved in phosphordoped poly(vinyl 
+alcohol) (PVA), and it is ascribed to the rigid environment established by abundant 
+hydrogenbonding interactions and the coassembly eect between the chromophores 
+and PVA chains.3135 
+Compared to the chemical approaches mentioned above, physical approaches, 
+such as heating, pressing, stretching, etc, are usually easier to carry out.

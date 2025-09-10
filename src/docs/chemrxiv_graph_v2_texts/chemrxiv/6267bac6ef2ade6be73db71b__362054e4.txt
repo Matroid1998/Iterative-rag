@@ -1,0 +1,13 @@
+Description:
+An element that combines with X and E to form various phases of NCs.
+
+Text:
+One example is the field of colloidal semiconductors, where leadbased NCs are among the 
+most explored compounds due to the appealing optoelectronic properties demonstrated by lead halide 
+perovskites in the UVVIS and by lead chalcogenides in the IR spectral ranges.6,7,12,13,19 There, the com
+bination of as little as four elements (Cs, Pb, X and E, where X  F, Cl, Br or I and E  S, Se or Te) can 
+yield NCs of a variety of phases the binaries CsX, PbX2 and PbE,6,7,2022 the wellknown cesium lead 
+halides (Cs4PbX6, CsPbX3, and CsPb2X5),12,19,23,24 and the still little explored lead chalcohalides (Pb4S3Br2 
+and Pb4S3I2).25,26 All these compounds are often obtained under similar reaction conditions, and can there
+fore compete during the synthesis, requiring a careful tuning of the synthetic protocols to achieve the 
+impurityfree synthesis of the desired product.

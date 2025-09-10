@@ -1,0 +1,37 @@
+Description:
+Atoms whose binding energies correlate linearly with the binding energies of CHx species on various surfaces.
+
+Text:
+For instance, Pallassana and
+Neurock (2000) demonstrated linear relationships between activa
+tion energies and reaction energies, as well as between activation
+energies and binding energies in CH bond breaking.5 Further work
+by Nrskov et al. (2002) revealed a universal linear trend between
+binding energies and activation energies for several types of disso
+ciation reactions.6
+A second class of linear relationships was proposed by Abild
+Pedersen et al. (2007), who showed that the binding energies of
+CHx, NHx, OHx, and SHx species on various closedpacked and
+stepped surfaces correlate linearly with the corresponding binding
+energies of C, N, O, and S atoms, respectively.7 A similar analy
+sis by Jones et al.
+
+
+---
+
+Description:
+Species that exhibit linear scaling relationships in binding energies on closed-packed and stepped surfaces.
+
+Text:
+(2011) demonstrated that several C2 species on
+closepacked and stepped surfaces obey these linear trends well.8
+Kolb et al. (2021) focused on closedpack surfaces only and also
+observed linear scaling relationships between the binding energies
+of C and CHx species.9 Such scaling relations have been rational
+ized using a dband model7 through a separation of sp and d
+electron contributions to the binding energy. Specically, the sp
+electron contribution is expected to remain constant for a surface
+made of different transition metals, while the delectron contribu
+tion is deemed the major factor underneath the scaling relations. However, more detailed analysis is needed to further understand
+the quantum chemical origins of these intriguing scaling relations
+governing the binding energies.

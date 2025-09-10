@@ -1,0 +1,13 @@
+Description:
+Compounds that can exhibit subtle conformational preferences.
+
+Text:
+Glycoscience is an important emerging area with potential applications from personalized 
+medicines and food security, to biofuels and advanced biomaterials.2 Key to the rational design 
+of carbohydratebased compounds is the ability to accurately understand their conformational 
+behavior.3 Achieving this, however, can be challenging as carbohydrates can exhibit subtle 
+conformational preferences. In this regard, the use of computational methods have proven useful; 
+in particular, the application of molecular dynamics (MD) simulations is capable of providing 
+conformational landscapes in atomistic detail not readily accessible via experimental approaches. For example, conformational analysis of the core pentasaccharide derived from the 
+lipooligosaccharide of pathogenic bacterium Moraxella catarrhalis was recently performed 
+using molecular simulation and NMR.

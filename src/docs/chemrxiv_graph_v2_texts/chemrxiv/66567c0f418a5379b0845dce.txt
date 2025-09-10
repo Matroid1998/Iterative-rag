@@ -1,0 +1,34 @@
+Description:
+The required starting materials for native chemical ligation (NCL).
+
+Text:
+Since the inception of NCL three decades ago,6,7 CPS has grown from a 
+specialty technique into a field of its own, with dedicated international conferences8 as well as a 
+10 
+publicly available Protein Chemical Synthesis Database (PCSdb) with information on hundreds 
+of synthesized proteins reported in literature.9 As the community grows and aims for larger and 
+more diverse protein targets, the field needs data science tools to manage the complexity of 
+information in a typical CPS project. The scope of CPS is continually widening thanks to many important chemical advances 
+15 
+over the years. Peptide thioesters, the required starting materials for NCL, can be readily 
+produced by common FmocSPPS as masked thioester surrogates (most commonly hydrazides10
+12).
+
+
+---
+
+Description:
+Compounds used in protein synthesis with masked forms for convergent assembly.
+
+Text:
+Segments can be assembled into proteins convergently using a combination of masked 
+thioesters and removable Cys protecting groups (e.g., Acm,13 Thz,14 and TfaThz15). Additional 
+ligation sites beyond Cys have been unlocked by desulfurization reactions (originally converting 
+20 
+Cys to Ala16,17 but expanded to many thiolated aa3,18 including the commercially available 
+thiovaline penicillamine19), as well as alternative ligation chemistries (e.g., serinethreonine 
+ligation STL,20 ketoacidhydroxylamine ligation KAHA,21 diselenideselenoester ligation 
+DSL22, and others2325). With a growing list of options in the modern protein chemists toolbox, 
+a wide variety of proteins are now accessible; on the other hand, every synthetic approach 
+25 
+requires careful planning and consideration of available tools.

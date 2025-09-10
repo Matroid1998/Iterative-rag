@@ -1,0 +1,32 @@
+Name: Amiloride
+Text:
+Amiloride is a member of the class of pyrazines resulting from the formal monoacylation of guanidine with the carboxy group of 3,5-diamino-6-chloropyrazine-2-carboxylic acid. It has a role as a sodium channel blocker and a diuretic. It is a member of pyrazines, an organochlorine compound, an aromatic amine and a member of guanidines. It is a conjugate base of an amiloride(1+).
+A pyrazine compound inhibiting sodium reabsorption through sodium channels in renal epithelial cells. This inhibition creates a negative potential in the luminal membranes of principal cells, located in the distal convoluted tubule and collecting duct. Negative potential reduces secretion of potassium and hydrogen ions. Amiloride is used in conjunction with diuretics to spare potassium loss. (From Gilman et al., Goodman and Gilman's The Pharmacological Basis of Therapeutics, 9th ed, p705)
+Amiloride is a Potassium-sparing Diuretic. The physiologic effect of amiloride is by means of Decreased Renal K+ Excretion, and Increased Diuresis.
+Amiloride is a potassium-sparing diuretic used in the therapy of edema often in combination with thiazide diuretics. Amiloride has been linked to rare cases of clinically apparent drug induced liver disease.
+Amiloride is a synthetic pyrazine derivative with antikaliuretic and diuretic properties. Amiloride inhibits sodium channels located in the distal tubules and collecting ducts of the kidney, thereby preventing the absorption of sodium and increasing its excretion along with water, to produce naturesis. In response to the hypernatremic conditions in the kidney, the plasma membrane becomes hyperpolarized and electrochemical forces are reduced, which then prevents the excretion of potassium and hydrogen into the lumen.
+AMILORIDE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1981 and has 4 approved and 11 investigational indications. This drug has a black box warning from the FDA.
+A pyrazine compound inhibiting SODIUM reabsorption through SODIUM CHANNELS in renal EPITHELIAL CELLS. This inhibition creates a negative potential in the luminal membranes of principal cells, located in the distal convoluted tubule and collecting duct. Negative potential reduces secretion of potassium and hydrogen ions. Amiloride is used in conjunction with DIURETICS to spare POTASSIUM loss. (From Gilman et al., Goodman and Gilman's The Pharmacological Basis of Therapeutics, 9th ed, p705)
+See also: Amiloride Hydrochloride (has salt form).
+Properties:safety: Corrosive and Acute Toxic and Irritant
+smiles: C1(=C(N=C(C(=N1)Cl)N)N)C(=O)N=C(N)N
+formula: C6H8ClN7O
+chem_properties: Molecular Weight: 229.63 g/mol
+XLogP3: -0.7
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 1
+Exact Mass: 229.0478856 Da
+Monoisotopic Mass: 229.0478856 Da
+Topological Polar Surface Area: 159
+Heavy Atom Count: 15
+Formal Charge: 0
+Complexity: 279
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

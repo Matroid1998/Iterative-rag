@@ -1,0 +1,8 @@
+Description:
+Part of an alloy obtained through pyrometallurgy.
+
+Text:
+Pyrometallurgy and hydrometallurgy are considered largeloop processes, 
+involving numerous consequent steps. Pyrometallurgy uses high temperature to smelt the black mass and 
+obtain an alloy of Co, Cu, Fe and Ni, which can be further recovered by means of hydrometallurgy. Hydrometallurgy uses strong mineral acids and reducing agents to leach the metals from the black mass, 
+allowing the recovery of more elements (i.e., Li) compared to pyrometallurgy 1,6,7. New concepts are

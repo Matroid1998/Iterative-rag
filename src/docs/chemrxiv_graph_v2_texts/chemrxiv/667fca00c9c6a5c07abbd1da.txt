@@ -1,0 +1,21 @@
+Description:
+Typically p and n-doped structures with rigid molecular configurations that suppress vibronic modes and result in small geometric reorganization in excited states.
+
+Text:
+Multiresonant thermally activated delayed fluorescence (MRTADF) compounds hold great potential 
+as emitters in organic lightemitting diodes (OLEDs) as devices with these materials can achieve 
+simultaneously high efficiencies and saturated colors.1, 2, 3, 4 Distinct from traditional donoracceptor (D
+A) TADF emitters, MRTADF emitters typically are p and ndoped nanographenes.5, 6, 7 Their rigid 
+molecular structures suppress vibronic modes and result in small geometric reorganization in the excited 
+states, resulting in narrow full width at half maxima (FWHMs, typically 50 nm) and small Stokes 
+shifts of less than 30 nm.8, 9 The origin of the TADF in MRTADF emitters results from their distinct 
+frontier molecular orbital (FMO) distributions, leading to an alternating pattern of increasing and 
+decreasing electron density in the excited states compared to the ground state that is responsible for the 
+suitably small singlettriplet energy gap, DEST.4, 10, 11, 12 This distribution pattern leads to these materials 
+emitting from a shortrange chargetransfer (SRCT) excited state.1, 13 Moreover, as the electron density 
+globally resides across the same atoms, the oscillator strength for the SRCT transitions is high, resulting 
+in fast radiative decay rate constants (kr), manifested in high photoluminescence quantum yields (FPL).14, 
+15 However, in most MRTADF systems, the RISC rate constants (kRISC) typically struggle to reach even 
+104 s1,16, 17 which are much slower than those of most advanced DA TADF emitters.18, 19, 20, 21 Such 
+slow kRISC values are disadvantageous for efficient triplet harvesting, and the accumulation of longlived 
+httpsdoi.org10.26434chemrxiv2024g4blr ORCID httpsorcid.org0000000171836022 Content not peerreviewed by ChemRxiv.

@@ -1,0 +1,9 @@
+Description:
+An active material with ionizable groups used in moisture-induced electricity generators.
+
+Text:
+One type is moistureinduced electricity generators (MIEGs),20, 21 which generate electricity based 
+on the interaction between ubiquitous moisture and active materials with ionizable groups such as 
+graphene oxide (GO),2225 carboxylated cellulose nanofibrils (CNFs),26, 27 and polyelectrolytes.28 
+The generated voltage of MIEGs is generally explained as the potential difference induced by 
+directional ion diffusion across the film of the active material.29 For example, Qu et al.

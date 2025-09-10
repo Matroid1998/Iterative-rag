@@ -1,0 +1,15 @@
+Description:
+Forms conjugates with maleimide in ADCs, which can undergo biotransformation.
+
+Text:
+The released payload 
+components from ADC are subject to small molecule 
+metabolism by enzymes in the liver such as CYP450s.3 Another 
+scenario is when linkerpayload is still conjugated to the 
+antibody, but has been modified. Typically, conjugated linker
+payload remain quite stable in circulation because ADCs reside 
+in the extracellular environment and have limited exposure to 
+metabolizing enzymes. However, biotransformation can still 
+occur on the linkerpayload. One reported example is 
+maleimide ring hydrolysis commonly observed on cysteine 
+conjugated ADCs.

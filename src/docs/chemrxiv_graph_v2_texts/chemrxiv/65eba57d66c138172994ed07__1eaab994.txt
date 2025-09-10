@@ -1,0 +1,12 @@
+Description:
+Complex compounds that facilitate comprehensive SAR probing and drug development.
+
+Text:
+A strategy that combines the diversity of a general PBM reaction with alkyl boronic coupling 
+partners exponentially increases the accessibility of C(sp3)rich alkyl amines (Figure 1C, mnp 
+hypothetical products in a 3D library). Such a method would enable holistic structural diversity 
+coverage for complex aliphatic amines that could facilitate the comprehensive SAR probing and 
+the development of drug candidates13. Despite some recent advance of PBM reaction with alkyl 
+boronates have been achieved through radical addition process, where stabilized imine 
+intermediate is often required11, a more general alkyl Petasis boronMannich (APBM) reaction is 
+highly desirable.

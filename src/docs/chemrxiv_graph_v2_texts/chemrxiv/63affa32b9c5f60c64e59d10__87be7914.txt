@@ -1,0 +1,11 @@
+Description:
+Transforms into amorphous LixSi (aLixSi) phase during lithiation.
+
+Text:
+The general 
+understanding on the lithiationdelithiation of Si anode can be summarized as follows 
+(1) During lithiation, cSi phase transforms into amorphous LixSi (aLixSi) phase, and finally 
+converts into cLi15Si4 phase at low voltages around 50 mV vs LiLi.911 There are two 
+clear voltage plateaus at around 0.18 and 0.05 V vs LiLi.12 
+(2) During delithiation, the cLi15Si4 phase converts back to aLixSi phase, and then aSi is 
+formed after complete lithium removal.

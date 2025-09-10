@@ -1,0 +1,15 @@
+Description:
+An intermediate formed during the dehalogenation process, subsequently hydrolyzed.
+
+Text:
+In this work, we studied the fate of selected bromo and bromochloroalkanes in the active 
+site of two haloalkane dehalogenases (HLDs), LinB and DhaA. The dehalogenation reaction 
+that these two enzymes catalyze is of prime importance from the environmental perspective as 
+it leads to less toxic compounds, products of the halogen substitutions (Scheme 1). The 
+dehalogenation by these two HLDs comprises two consecutive steps. The first one is a SN2 
+reaction where a carboxylate group of the enzyme acts as a nucleophile and attacks a halogen
+bearing carbon atom, yielding a halide and a reactantenzyme intermediate. This ester 
+intermediate is then subsequently hydrolyzed by a neighboring water molecule, restoring the 
+enzyme and yielding the product alcohol.1 
+
+Scheme 1. A suggested pathway for debromination of 1,2dibromoethane.

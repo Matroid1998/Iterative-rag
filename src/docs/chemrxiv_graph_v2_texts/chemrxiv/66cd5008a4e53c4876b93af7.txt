@@ -1,0 +1,33 @@
+Description:
+A greenhouse gas with significant anthropogenic emissions, particularly from the oil and gas sector.
+
+Text:
+Mitigating anthropogenic methane emissions is pivotal for achieving the goal of limiting
+increase in the global average temperature to below 1.5C above preindustrial levels set
+by the 2015 Paris Climate Agreement.1,2 Oil and gas emerges as a key sector for reducing
+emissions, contributing 22 of the global anthropogenic methane emissions3,4 and 32 in
+the United States.5 In June 2024, the U.S. Environmental Protection Agency (EPA) and
+the U.S. Department of Energy (DOE) announced 850 million in federal funding aimed at
+reducing methane emissions from the oil and gas sector.6 Methane emissions from this sector
+are characterized by significant temporal fluctuations,7,8 with sporadic, shortlived events of
+high emissionsknown as super emitter eventsaccounting for a substantial portion of the
+total emissions.9,10 In this context, Continuous Monitoring Systems (CMS), comprising mul
+tiple pointinspace sensors that continuously measure methane concentrations, are becoming
+increasingly vital for emission monitoring.
+
+
+---
+
+Description:
+A gas whose emissions are detected and quantified using CMS sensor placement strategies on oil and gas sites.
+
+Text:
+They offer near realtime tracking capabilities es
+sential for identifying both highly fluctuating emissions and transient super emitters.1113
+CMS plays a crucial role in detecting, localizing, and quantifying site emissions.1416
+CMS sensor placement, the strategy of positioning multiple fixed point sensors on an oil
+and gas site, significantly affects the efficiency of methane emissions detection, especially
+when considering a limited sensor budget.17 Sensor placement optimization has been exten
+sively studied in environmental monitoring applications such as air pollutant monitoring,18,19
+2
+httpsdoi.org10.26434chemrxiv20245qcnw ORCID httpsorcid.org0000000219464812 Content not peerreviewed by ChemRxiv. License CC BY 4.0

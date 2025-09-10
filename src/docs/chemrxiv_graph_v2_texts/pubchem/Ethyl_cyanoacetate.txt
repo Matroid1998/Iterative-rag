@@ -1,0 +1,26 @@
+Name: Ethyl cyanoacetate
+Text:
+Ethyl cyanoacetate appears as a colorless liquid. Denser than water. Contact may irritate skin, eyes and mucous membranes. May be toxic by ingestion. Used to make other chemicals.
+Ethyl cyanoacetate is a chemical compound of cyanide.
+Properties:safety: Irritant
+smiles: CCOC(=O)CC#N
+formula: C5H7NO2
+chem_properties: Molecular Weight: 113.11 g/mol
+XLogP3: 0.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 3
+Exact Mass: 113.047678466 Da
+Monoisotopic Mass: 113.047678466 Da
+Topological Polar Surface Area: 50.1
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 122
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

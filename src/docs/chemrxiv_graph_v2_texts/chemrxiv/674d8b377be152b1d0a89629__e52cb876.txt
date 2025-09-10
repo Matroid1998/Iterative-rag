@@ -1,0 +1,11 @@
+Description:
+Common intercalation hosts utilized as cathode materials in lithium and sodium-ion batteries.
+
+Text:
+Electrochemical energy storage devices such as the lithiumion battery (LIB), as well as in 
+emerging cell chemistries like sodiumion batteries, experience an increasing global demand. Their functioning mechanism is the electrochemical intercalation of ions from the electrolyte 
+into the solidstate host structure of the electrode materials. Layered transition metal oxides 
+(TMOs) are common intercalation hosts utilized as cathode materials, but also as alternatives 
+for carbonbased anode materials in both lithium and sodiumion batteries. Among them, 
+titanatebased materials have attracted interest due to their relative abundance, low toxicity 
+and structuralchemical tunability.

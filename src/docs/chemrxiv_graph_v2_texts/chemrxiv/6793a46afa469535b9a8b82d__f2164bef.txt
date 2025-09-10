@@ -1,0 +1,14 @@
+Description:
+Can be used with AlN to form ternary materials.
+
+Text:
+AlN is one example of such a material 
+used in microelectronic and optoelectronic applications because of its wide bandgap (6.2 eV)5, 
+high dielectric constant (9)6, high electrical resistivity (10111013 cm)7, a good thermal 
+conductivity (2.85 WKcm)8 and piezoelectric properties9. AlN also has good miscibility with other nitrides, making it interesting to many ternary 
+materials with e.g., Ga10, In11, Ti12 or Hf13, thereby increasing the range of its possible 
+applications. One such ternary material is metastable AlxTi1xN where the cubic rock salt 
+structure of TiN is preserved while varying Al content. AlxTi1xN primarily finds use as a hard 
+material in protective coatings, often on cemented carbide tool inserts due to its excellent 
+resistance against corrosion and oxidation, and high hardness.1416 These properties can be 
+tuned with the chemical composition.

@@ -1,0 +1,16 @@
+Description:
+Obtained from renewable electrical energy using electrolysis.
+
+Text:
+20 
+In order to implement renewable energy sources into the energy infrastructure, their inherent fluctuating 
+21 
+availability must be compensated for. One way of doing this is to convert surplus electrical energy into 
+22 
+easy storable chemical energy, also known as the powertox (PtX) concept 1. In this process, hydrogen 
+23 
+(H2) is obtained from the renewable electrical energy using electrolysis in a first step. Since H2 is difficult 
+24 
+to be stored in the long term and suitable infrastructure is not yet available, it is advantageous to further 
+25 
+convert it into methane (CH4), which can be stored, distributed and used in the existing natural gas grid.

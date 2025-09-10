@@ -1,0 +1,17 @@
+Description:
+The terminal ring whose orthogonal out-of-plane distortion leads to excited state deactivation via a conical intersection mediated internal conversion.
+
+Text:
+Interestingly, the N5
+alkylated analogs display weak fluorescence in solution, yet 
+their fluorescence is greatly enhanced when bound to the enzy
+matic binding pocket.31 Additionally, the fluorescence quantum 
+yield was found to be markedly enhanced in a frozen state of 
+solvents than at room temperature.3233 A joint computational 
+and experimental study indicated that an orthogonal outof
+plane distortion of the terminal pyrimidine ring leads to the ex
+cited state deactivation via a conical intersection (CI) mediated 
+internal conversion.33 The geometry confinement imposed by 
+the frozen solvent or the protein cavity restraints the ring distor
+tion and blocks the CImediated internal conversion, readily ex
+plaining the fluorescence enhancement.3334

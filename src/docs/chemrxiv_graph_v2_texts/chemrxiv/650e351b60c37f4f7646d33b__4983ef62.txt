@@ -1,0 +1,12 @@
+Description:
+A molecule with 17100 degrees of freedom when treated explicitly in simulations.
+
+Text:
+Explicit simulation6 of the solvent environment
+provides a highly detailed description of solvation, however, this type of calculation is very
+expensive and often requires extensive sampling to determine equilibrium properties. For
+example, if 100 molecules of a solvent are treated explicitly, 900 degrees of freedom for wa
+ter, 7200 degrees of freedom for 1heptanol, and 17100 degrees of freedom for 1Octadecanol
+will be added respectively. Analyzing observable properties of a solute requires averaging
+over these degrees of freedom, often through Monte Carlo or molecular dynamics techniques,
+which are limited by computer resources and computing performance.

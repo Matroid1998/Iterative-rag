@@ -1,0 +1,48 @@
+Description:
+The basic molecular unit of diamondoids with the formula C10H16.
+
+Text:
+Diamondoids are the carbon cage molecular species which attract attention of re
+searchers in various fields such as interstellar chemistry 1, nanotechnology 2, and
+medicinal chemistry 3. The basic molecular unit of these is adamantane (Ada,
+C10H16) 4. Ada and higher neutral diamondoids (diamantane, triamantane, etc.) as well as derivatives thereof have been extensively studied over decades, in particular
+with regard to their vibrational, electronic, and optical properties 515. In astrochemistry, the openshell (radical) cations of diamondoids are of special
+interest as they absorb lower energy photons in comparison to their neutral coun
+terparts and may potentially be formed in interstellar medium by ionization with
+photons andor cosmic rays 16. Thus, several recent studies have targeted the
+optical spectra of radical cations of diamondoids 1619.
+
+
+---
+
+Description:
+Has nitrogen-containing derivatives that have received attention.
+
+Text:
+Specifically, the optical
+spectrum of Ada has been obtained by electronic photodissociation (EPD) spec
+troscopy by Crandall et al. 17 and heliumtagged electronic spectroscopy by Kappe
+et al. 18. In addition, the EPD study by Crandall et al. 17 has provided insight
+into photoinduced fragmentation of Ada. The optical spectrum of the diamantane
+cation, Dia, has also been recently reported by the same group 19. Besides the cations of pristine diamondoids consisting only of carbon and hy
+drogen, cations of nitrogencontaining adamantane derivates have received attention
+lately 16, 20. In the context of astrochemistry, the interest stems from recent de
+tection of aromatic nitriles in the interstellar medium 2123.
+
+
+---
+
+Description:
+A cage structure that can be opened by substituting a hydrogen atom with an NH2 group.
+
+Text:
+Recently, the EPD
+optical spectrum and fragmentation pathways of the cyanoadamantane cation (Ada
+CN) were reported by Crandall et al. 16. Another nitrogencontaining derivate
+cation which has gained interest is the amantadine cation (Ama or AdaNH
+2 ),
+which has been studied by infrared photodissociation (IRPD) spectroscopy by the
+group of Dopfer 20,24. It was found that substitution of a hydrogen atom (of the
+adamantane cage) with the NH2 group greatly facilitates opening of the adamantane
+cage 20,24. The optical spectrum of Ama has not been reported so far though. We
+also note that an IRPD spectrum for AdaCN was presented by the same group 25.

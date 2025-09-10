@@ -1,0 +1,11 @@
+Description:
+A typical anticancer drug.
+
+Text:
+However, to achieve this longterm goal, it is necessary to 
+know how various CDmodified particles interact with drugs at the molecular level. In this work, we performed molecular dynamics 
+simulations to study the interaction of a typical anticancer drug paclitaxel with micelles possesing a carboxymethylglycine hydrophilic 
+shell and functionalized with  and CDs. The studied aspects of the interaction include localization sites of drug molecules in 
+nanoparticles, the assessment of the drug effect on the surface properties of nanoparticles, the ability of various CDs to form inclusion 
+complexes with the drug and their stoichiometric ratios. Materials and Methods 
+Materials. All salts, solvents, lipids and other chemicals were from Sigma (St.Louis, USA).

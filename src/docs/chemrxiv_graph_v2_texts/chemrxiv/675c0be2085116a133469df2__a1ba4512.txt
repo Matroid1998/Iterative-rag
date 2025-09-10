@@ -1,0 +1,12 @@
+Description:
+A compound involved in Merck's synthetic routes for active pharmaceutical ingredients.
+
+Text:
+The efficient synthesis of chiral compounds is a key requirement for the synthesis of active pharmaceutical 
+ingredients (APIs).1 Enzymes have a unique advantage over conventional chemistries, due to their innate 
+high stereo, regio, and chemoselectivities, and have emerged as a powerful tool in synthetic routes, as 
+highlighted by recent examples from industry such as Mercks routes to islatravir2 and nemtabrutinib,3 
+Pfizers route to abrocitinib,4 or GSKs route to GSK2879552.5 Many enzymatic classes have been 
+employed in the synthesis of chiral alcohols and amines (Figure 1A),6 two key functional groups in many 
+APIs; however, the same is not true for other important functional groups, such as thiols and thioethers 
+(Figure 1B).

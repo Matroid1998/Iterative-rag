@@ -1,0 +1,17 @@
+Description:
+Atoms in graphene sheets that are covalently bonded to form a network of honeycombs.
+
+Text:
+Since the commercialization of rechargeable lithiumion batteries
+(LIBs) in 1991, they have become the ubiquitous power sources
+for portable electronic devices, electric vehicles, and grid elec
+tricity storage. Over the past three decades, extensive research
+efforts have been invested to develop new generations of cath
+ode and anode materials with enhanced cycling performance. Nonetheless, graphite is still the dominant anode for commercial
+LIBs because of its superior reversibility of Li deintercalation
+and low cost.1,2 Graphite is a layered material consisting of
+graphene sheets, which have strong covalently bonded carbon
+atoms forming a network of honeycombs in each layer. The bind
+ing forces between each layer arise from weak dispersion or van
+der Waals (vdW) interactions, enabling the intercalation of ionic
+and molecular species.

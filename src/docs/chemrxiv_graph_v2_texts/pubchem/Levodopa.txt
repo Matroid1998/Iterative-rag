@@ -1,0 +1,38 @@
+Name: Levodopa
+Text:
+Levodopa can cause developmental toxicity according to state or federal government labeling requirements.
+L-dopa is an optically active form of dopa having L-configuration. Used to treat the stiffness, tremors, spasms, and poor muscle control of Parkinson's disease It has a role as a prodrug, a hapten, a neurotoxin, an antiparkinson drug, a dopaminergic agent, an antidyskinesia agent, an allelochemical, a plant growth retardant, a human metabolite, a mouse metabolite and a plant metabolite. It is a dopa, a L-tyrosine derivative and a non-proteinogenic L-alpha-amino acid. It is a conjugate acid of a L-dopa(1-). It is an enantiomer of a D-dopa. It is a tautomer of a L-dopa zwitterion.
+Levodopa is a prodrug of dopamine that is administered to patients with Parkinson's due to its ability to cross the blood-brain barrier. Levodopa can be metabolised to dopamine on either side of the blood-brain barrier and so it is generally administered with a dopa decarboxylase inhibitor like carbidopa to prevent metabolism until after it has crossed the blood-brain barrier. Once past the blood-brain barrier, levodopa is metabolized to dopamine and supplements the low endogenous levels of dopamine to treat symptoms of Parkinson's. The first developed drug product that was approved by the FDA was a levodopa and carbidopa combined product called Sinemet that was approved on May 2, 1975.
+3,4-Dihydroxy-L-phenylalanine is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Levodopa is an Aromatic Amino Acid.
+Levodopa has been reported in Mucuna macrocarpa, Amanita muscaria, and other organisms with data available.
+Levodopa is an amino acid precursor of dopamine with antiparkinsonian properties. Levodopa is a prodrug that is converted to dopamine by DOPA decarboxylase and can cross the blood-brain barrier. When in the brain, levodopa is decarboxylated to dopamine and stimulates the dopaminergic receptors, thereby compensating for the depleted supply of endogenous dopamine seen in Parkinson's disease. To assure that adequate concentrations of levodopa reach the central nervous system, it is administered with carbidopa, a decarboxylase inhibitor that does not cross the blood-brain barrier, thereby diminishing the decarboxylation and inactivation of levodopa in peripheral tissues and increasing the delivery of dopamine to the CNS.
+LEVODOPA is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1970 and is indicated for parkinson disease and has 24 investigational indications.
+L-Dopa is used for the treatment of Parkinsonian disorders and Dopa-Responsive Dystonia and is usually given with agents that inhibit its conversion to dopamine outside of the central nervous system. Peripheral tissue conversion may be the mechanism of the adverse effects of levodopa. It is standard clinical practice to co-administer a peripheral DOPA decarboxylase inhibitor - carbidopa or benserazide - and often a catechol-O-methyl transferase (COMT) inhibitor, to prevent synthesis of dopamine in peripheral tissue.
+The naturally occurring form of dihydroxyphenylalanine and the immediate precursor of dopamine. Unlike dopamine itself, it can be taken orally and crosses the blood-brain barrier. It is rapidly taken up by dopaminergic neurons and converted to dopamine. It is used for the treatment of parkinsonian disorders and is usually given with agents that inhibit its conversion to dopamine outside of the central nervous system. [PubChem]
+
+L-Dopa is the naturally occurring form of dihydroxyphenylalanine and the immediate precursor of dopamine. Unlike dopamine itself, L-Dopa can be taken orally and crosses the blood-brain barrier. It is rapidly taken up by dopaminergic neurons and converted to dopamine. In particular, it is metabolized to dopamine by aromatic L-amino acid decarboxylase. Pyridoxal phosphate (vitamin B6) is a required cofactor for this decarboxylation, and may be administered along with levodopa, usually as pyridoxine.
+The naturally occurring form of DIHYDROXYPHENYLALANINE and the immediate precursor of DOPAMINE. Unlike dopamine itself, it can be taken orally and crosses the blood-brain barrier. It is rapidly taken up by dopaminergic neurons and converted to DOPAMINE. It is used for the treatment of PARKINSONIAN DISORDERS and is usually given with agents that inhibit its conversion to dopamine outside of the central nervous system.
+See also: Melevodopa (is active moiety of); Foslevodopa (is active moiety of); Etilevodopa (is active moiety of) ... View More ...
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: C1=CC(=C(C=C1C[C@@H](C(=O)O)N)O)O
+formula: C9H11NO4
+chem_properties: Molecular Weight: 197.19 g/mol
+XLogP3: -2.7
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 3
+Exact Mass: 197.06880783 Da
+Monoisotopic Mass: 197.06880783 Da
+Topological Polar Surface Area: 104
+Heavy Atom Count: 14
+Formal Charge: 0
+Complexity: 209
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,20 @@
+Description:
+A core designed to serve as biomimetic models of metalloenzymes.
+
+Text:
+Among this class of ligands, 
+tris(2aminoethyl)amine) (TREN) represents a classical structure1 that has also been 
+incorporated into more sophisticated polymacrocyclic systems, such as cryptands.2 Over the 
+past decades, we have developed a family of coneshaped ligands based on the calix6arene 
+core, designed to serve as biomimetic models of metalloenzymes, wherein the metal centre is 
+confined at the small rim of the calixarene conical cavity (funnel complexes).3 In particular, 
+ZnII and CuIII complexes of a calix6arenebased ligand capped with a TREN unit, referred to 
+as CalixTRENMe (Scheme 1), have been reported.4 Guestligand exchange were explored in 
+depth by NMR spectroscopy with the ZnII complex, while CuIII complexes were studied for the 
+detection of amines in water5 and as redox centres for O2 activation.6 More recently, we 
+demonstrated that the selective removal of the methyl groups from the three anisole moieties of 
+the CalixTRENMe ligand, yielding the CalixTRENH ligand7 (Scheme 1), significantly alters 
+the coordination properties of ZnII in the corresponding funnel complexes.8 For instance, while 
+the parent ZnIICalixTRENMe complex appears reluctant to bind anionic guests, the ZnIICalix
+TRENH complex, featuring phenol groups as a second coordination sphere, displays affinity 
+for anions.

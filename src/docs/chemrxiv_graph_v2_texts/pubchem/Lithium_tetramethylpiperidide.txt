@@ -1,0 +1,23 @@
+Name: Lithium tetramethylpiperidide
+Text:
+Properties:safety: Flammable and Corrosive
+smiles: [Li+].CC1(CCCC([N-]1)(C)C)C
+formula: C9H18LiN
+chem_properties: Molecular Weight: 147.2 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 147.15992801 Da
+Monoisotopic Mass: 147.15992801 Da
+Topological Polar Surface Area: 1
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 116
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,36 @@
+Name: Tretinoin
+Text:
+All-trans Retinoic Acid can cause developmental toxicity according to an independent committee of scientific and health experts.
+All-trans-retinoic acid is a yellow to light-orange crystalline powder. (NTP, 1992)
+Cis-retinoic acid is a yellow-orange to orange crystalline powder; orange-brown chunky solid. (NTP, 1992)
+All-trans-retinoic acid is a retinoic acid in which all four exocyclic double bonds have E- (trans-) geometry. It has a role as a keratolytic drug, an antineoplastic agent, an antioxidant, a signalling molecule, a retinoid X receptor agonist, an anti-inflammatory agent, an AP-1 antagonist, a retinoic acid receptor agonist and a human metabolite. It is a retinoic acid and a vitamin A. It is a conjugate acid of an all-trans-retinoate.
+Tretinoin, also known as all-trans-retinoic acid (ATRA), is a naturally occurring derivative of [vitamin A] (retinol). It is an oxidation product in the physiological pathway of vitamin A metabolism. In human circulation, tretinoin is normally found at very low concentrations, approximately 4 to 14 nmol/L. Tretinoin exhibits anti-inflammatory, antineoplastic, antioxidant, and free radical-scavenging activities. It has been used in dermatology for many years to treat various skin conditions ranging from acne to wrinkles and activates nuclear receptors to regulate epithelial cell growth and differentiation. Tretinoin is given orally to treat acute promyelocytic leukemia and topically to treat skin conditions such as acne.
+Tretinoin is a Retinoid.
+Tretinoin has been reported in Homo sapiens with data available.
+Tretinoin is a naturally-occurring acid of retinol. Tretinoin binds to and activates retinoic acid receptors (RARs), thereby inducing changes in gene expression that lead to cell differentiation, decreased cell proliferation, and inhibition of tumorigenesis.  This agent also inhibits telomerase, resulting in telomere shortening and eventual apoptosis of some tumor cell types.  The oral form of tretinoin has teratogenic and embryotoxic properties.
+TRETINOIN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1971 and has 5 approved and 35 investigational indications. This drug has a black box warning from the FDA.
+Tretinoin, also known as all-trans-retinoic acid (ATRA), is a naturally occurring derivative of vitamin A (retinol). Retinoids such as tretinoin are important regulators of cell reproduction, proliferation, and differentiation and are used to treat acne and photodamaged skin and to manage keratinization disorders such as ichthyosis and keratosis follicularis. Tretinoin also represents the class of anticancer drugs called differentiating agents and is used in the treatment of acute promyelocytic leukemia (APL).
+An important regulator of GENE EXPRESSION during growth and development, and in NEOPLASMS. Tretinoin, also known as retinoic acid and derived from maternal VITAMIN A, is essential for normal GROWTH; and EMBRYONIC DEVELOPMENT. An excess of tretinoin can be teratogenic. It is used in the treatment of PSORIASIS; ACNE VULGARIS; and several other SKIN DISEASES. It has also been approved for use in promyelocytic leukemia (LEUKEMIA, PROMYELOCYTIC, ACUTE).
+See also: Clindamycin phosphate; tretinoin (component of); Fluocinolone acetonide; hydroquinone; tretinoin (component of); Benzoyl Peroxide; Tretinoin (component of) ... View More ...
+Properties:safety: Irritant and Health Hazard
+smiles: CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C(=O)O)/C)/C
+formula: C20H28O2
+chem_properties: Molecular Weight: 300.4 g/mol
+XLogP3: 6.3
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 5
+Exact Mass: 300.208930132 Da
+Monoisotopic Mass: 300.208930132 Da
+Topological Polar Surface Area: 37.3
+Heavy Atom Count: 22
+Formal Charge: 0
+Complexity: 567
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 4
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

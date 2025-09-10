@@ -1,0 +1,13 @@
+Description:
+Materials that can be 2D or 3D, with 2D versions showing subbandgap broadband emissions.
+
+Text:
+Considering these compatibilities, the substituting of Pb with Sn in MHPs could be a 
+significant step forward in addressing health and environmental concerns associated with Pb
+based alternatives17, and has led to extensive research aimed at developing environmentally 
+friendly and sustainable MHP platforms18, 19. Interestingly, mixed PbSn 2D perovskites differ from their 3D counterparts as their spectra are 
+dominated by subbandgap broadband emissions rather than bandedge emissions, which still 
+the origin of them remains a topic of debate and uncertainty15. The broad emission in mixed Pb
+Sn 2D MHPs could potentially be attributed to selftrapped excitons (STEs)2023 or structural 
+defects of the material, the latter hypothesizing that excitons become confined within the defect
+induced subbandgap trap states and undergo radiative relaxation by Stokes shifts20, 24, 25.

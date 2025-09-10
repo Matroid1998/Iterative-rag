@@ -1,0 +1,11 @@
+Description:
+A photosensitizer used in heavy-atom-free systems, facilitating photoinduced electron transfer and triplet excited state formation.
+
+Text:
+A series of new heavyatomfree photosensitizers using 2,6diethoxycarbonylBODIPY was designed and synthesized. Photoinduced 
+electron transfer between the BODIPY and mesoaryl subunits followed by the formation of BODIPY triplet excited states via spinorbit 
+charge transfer intersystem crossing (SOCTISC) was studied by steadystate and ultrafast pumpprobe transient optical spectroscopy. Highly efficient photosensitization was observed for dyads bearing pyrene and anthracene substituents, which exhibited singlet oxygen 
+generation with quantum yield of up to 94. Notably, charge transfer and ISC were observed in nonpolar solvent (toluene) due to the 
+increased electron accepting ability of the diethoxycarbonylBODIPY as compared to alkylsubstituted BODIPY scaffold. Studied dyads were 
+used as photosensitizers for creation of volume phase transmission gratings in a photopolymerizable material based on cellulose acetate  
+polyethylene glycol (CAPEG) matrix.

@@ -1,0 +1,40 @@
+Description:
+The dominant photoswitch class used in photoresponsive materials and photopharmacology.
+
+Text:
+Typically, a small 
+molecule photoswitch is extended from or incorporated into a drug 
+pharmacophore, such that light can spatiotemporally pattern its 
+bioactivity by photoisomerising it.2 Azobenzenes are the dominant 
+photoswitch class, and besides their many uses in photoresponsive 
+materials, they are driving the frontiers of photopharmacology from 
+cellular applications in neuroscience, cytoskeleton, and signaling, to 
+therapeutic clinical trials in vivo.37 Nevertheless, two major limits on 
+the performance of azobenzene tools remain (1) populationlevel 
+photoswitching is not binary (allEallZ) but is incomplete, 
+especially in the ZE direction (that also is less photonefficient); 
+(2) no broadly applicable strategy to operate azobenzenes with well
+penetrating redNIR light is known (typically, () are significant 
+only below 530 nm).
+
+
+---
+
+Description:
+Electron-rich azobenzenes can undergo photooxidation to form radical cations, while electron-poor azobenzenes can undergo photoreduction to form radical anions.
+
+Text:
+Hecht showed excellent 
+azobenzene ZE isomerisation using triplet photoredox catalysts, 
+via transient photooxidation to the radical cation11 (electronrich 
+azobenzenes; e.g. AOMB, Fig 1ab) or photoreduction to the 
+radical anion12,13 (if electronpoor). This arises as the radicals 
+isomerise to their thermodynamically preferred E isomer ca. 1013 
+times faster than do the neutral forms, so a 100E population 
+accumulates after backelectron transfer. However, these systems 
+are not applicable to biology. Among the many challenges, (i) with 
+one exception,13 they are intermolecular concepts, so are unlikely to 
+work at M levels needed for biocompatible reagents; (ii) as triplet 
+systems, they require O2 exclusion to work efficiently, and with O2 
+they also produce reactive species that photobleach the catalyst and 
+are too toxic for use in biology (discussed in Supporting Note 1).

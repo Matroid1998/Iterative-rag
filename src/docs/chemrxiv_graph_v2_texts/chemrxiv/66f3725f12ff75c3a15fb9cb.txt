@@ -1,0 +1,16 @@
+Description:
+Salts used to attach aryl rings as structural defects on nanotube surfaces, affecting hybridization and fluorescence properties.
+
+Text:
+In recent years, the majority of CCNT synthesis 
+was performed using aryl diazonium salts to attach aryl 
+rings as structural defects on the nanotube surface. For
+mation of these defects results in a loss of sp2 hybridization 
+at the defect site and formation of two sp3 centers. This al
+ters the fluorescence properties of the nanotubes, including 
+the formation of a new emission peak (referred to as E11, in 
+contrast to the E11 emission peak of unmodified nanotubes). The choice of aryl group has a significant impact on the 
+quantum well depth and environmental responsivity of the 
+nanotubesfor example, incorporation of protonatable ani
+line derivatives on the nanotube surface results in nano
+tubes which respond to changes in pH.4

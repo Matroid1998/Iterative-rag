@@ -1,0 +1,26 @@
+Name: Bisdemethoxycurcumin
+Text:
+Bisdemethoxycurcumin is a beta-diketone that is methane in which two of the hydrogens are substituted by 4-hydroxycinnamoyl groups. It has a role as a metabolite and an EC 3.2.1.1 (alpha-amylase) inhibitor. It is a beta-diketone, a polyphenol, an enone and a diarylheptanoid. It is functionally related to a 4-coumaric acid.
+Bisdemethoxycurcumin has been reported in Curcuma xanthorrhiza, Curcuma kwangsiensis, and other organisms with data available.
+Properties:safety: Irritant
+smiles: C1=CC(=CC=C1/C=C/C(=O)CC(=O)/C=C/C2=CC=C(C=C2)O)O
+formula: C19H16O4
+chem_properties: Molecular Weight: 308.3 g/mol
+XLogP3: 3.3
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 6
+Exact Mass: 308.10485899 Da
+Monoisotopic Mass: 308.10485899 Da
+Topological Polar Surface Area: 74.6
+Heavy Atom Count: 23
+Formal Charge: 0
+Complexity: 408
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 2
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

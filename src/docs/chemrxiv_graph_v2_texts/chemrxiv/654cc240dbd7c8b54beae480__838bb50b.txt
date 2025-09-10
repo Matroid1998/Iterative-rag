@@ -1,0 +1,16 @@
+Description:
+A common structure type in polyoxometalate chemistry often associated with Anderson or Anderson-Evans wheels.
+
+Text:
+Amongst these, Ni4 SMMs have proven to be a particularly fruitful source of information on exchange 
+bias effects,6 antisymmetric exchange,7 quantum tunnelling,8 transverse anisotropy,9 and Berry Phase 
+interference.10 Other common structural motifs demonstrating fascinating magnetic properties include 
+wheels11 and discs.12 The latter offer interest from a variety of perspectives, including as molecular 
+analogues of 2D lattices,13 model complexes to examine spin frustration14 and as robust platforms to 
+quantitatively analyse magnetostructural correlations.15 
+Planar heptanuclear discs conforming to centred hexagons are often referred to as Anderson or 
+AndersonEvans wheels,16 and are a common structure type in both polyoxometalate chemistry17 and 
+clusters of paramagnetic 3d ions.18 A search of the Cambridge Structural Database (CSD) reveals that 
+there are twenty nine NiII7 Anderson wheels.1938 Of these, fifteen have had their magnetic behaviour 
+reported, but only five have been subject to quantitative analysis.21,26,30,36,37 This is perhaps not 
+surprising.

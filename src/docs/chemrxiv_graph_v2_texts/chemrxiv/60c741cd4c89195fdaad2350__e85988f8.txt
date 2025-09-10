@@ -1,0 +1,20 @@
+Description:
+Rigid molecules used in hydrogen bonded organic frameworks with low bulk densities and high surface area.
+
+Text:
+To tackle this, we have 
+used crystal structure prediction (CSP)25,26 to guide the dis
+covery of molecular crystals with porous host struc
+tures.27,28 In a recent study, calculated energystructure
+function maps28,29 were used to prescreen the probable 
+function of molecules in silico prior to experiment; in this 
+case, for porosity, methane storage capacity, and guest 
+molecule selectivity. This led to the discovery of hydrogen 
+bonded organic frameworks (HOFs) based on rigid trip
+tycene benzimidazalones with unprecedentedly low bulk 
+densities (0.41 g cm3) and apparent BrunauerEmmett
+Teller surface area (SABET) as high as 3230 m2 g1.28 The ex
+perimental porous crystal structures were found to corre
+spond to low density, stable regions, or spikes on the en
+ergydensity representation of the predicted crystal energy 
+landscape.

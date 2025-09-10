@@ -1,0 +1,13 @@
+Description:
+Involved in lithiation-delithiation processes that form nanocrystals in glass matrices, enhancing ionic conductivity and structural stability of anode materials.
+
+Text:
+Recently, our group found that the lithiationdelithiation induced 
+the formation of nanocrystals in the glass matrix of anode material. These nanocrystals greatly 
+contribute to the reduction of Liion diffusion path length, improvement of the ionic conductivity and 
+maintaining the structural stability of the anode materials over multiple chargedischarge cycles 
+1,14,15. However, the reversible capacity of oxide glass anode, especially its volumetric lithium 
+storage, is still far from the requirement for miniaturization of energy storage devices 16,17. In 
+particular, the limited capacity of glass anode is related to their poor ionic conductivity at the ultrahigh 
+current density, which results in slow transfer kinetics of Li ions. These problems severely limit the 
+practical applications of LIBs with competent rate capability and ultrahigh cycling stability.

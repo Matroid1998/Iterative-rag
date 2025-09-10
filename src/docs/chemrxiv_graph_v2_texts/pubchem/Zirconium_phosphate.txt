@@ -1,0 +1,23 @@
+Name: Zirconium phosphate
+Text:
+Properties:safety: Irritant
+smiles: [O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Zr+4].[Zr+4].[Zr+4]
+formula: O16P4Zr3
+chem_properties: Molecular Weight: 653.55 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 16
+Rotatable Bond Count: 0
+Exact Mass: 653.529392 Da
+Monoisotopic Mass: 649.527778 Da
+Topological Polar Surface Area: 345
+Heavy Atom Count: 23
+Formal Charge: 0
+Complexity: 36.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 7
+Compound Is Canonicalized: Yes 
+

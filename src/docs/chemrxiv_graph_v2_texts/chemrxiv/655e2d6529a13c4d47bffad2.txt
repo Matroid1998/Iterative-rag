@@ -1,0 +1,16 @@
+Description:
+Complexes with promising antibacterial properties, with one compound family undergoing preclinical evaluations.
+
+Text:
+We could show 
+that metal complexes did not possess higher rates of cytotoxicity or haemolysis 
+against human cells compared to their organic counterparts.14 Ruthenium complexes 
+in particular seem to have promising antibacterial properties, with one compound 
+family currently undergoing preclinical evaluations.9,16,17 However, at this stage the 
+vast transition metal chemical space remains largely uncharted, particularly in 
+comparison with the vast screening campaigns that have been performed on organic 
+molecules. Machinelearning (ML) approaches have been applied to different facets of the drug 
+discovery process, including the prediction of bioactive compounds. In 2020, Stokes 
+et al. reported the application of deep learning to the prediction of antibacterial 
+compounds. The authors trained a deep neural network on Escherichia coli growth 
+inhibition data of 2,335 unique compounds.

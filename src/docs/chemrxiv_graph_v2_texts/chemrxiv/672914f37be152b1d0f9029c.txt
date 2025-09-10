@@ -1,0 +1,12 @@
+Description:
+Used as an anode material in lithium-ion batteries, posing challenges due to interfacial impedance growth.
+
+Text:
+For example, parasitic reactions between the electrolyte and AMs can cause severe 
+interfacial impedance growth, especially at high temperatures, which poses a significant challenge 
+for commercially relevant LIB AMs like layered oxide cathodes and silicon anodes 5,6. The electrochemical kinetics of LIB AMs can generally be separated into bulk (i.e., 
+diffusion) kinetics and interfacial (i.e., chargetransfer) kinetics, although in many cases these are 
+highly interdependent. In the literature, the interfacial chargetransfer kinetics of LIB AMs are 
+generally assumed to follow the ButlerVolmer equation (BV), which describes the relationship 
+between current (I) and overpotential () based on two kinetic parameters, the exchange current 
+(I0) and the transfer coefficient ().

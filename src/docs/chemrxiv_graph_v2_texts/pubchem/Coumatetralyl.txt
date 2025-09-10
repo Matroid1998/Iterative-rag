@@ -1,0 +1,26 @@
+Name: Coumatetralyl
+Text:
+Yellowish-white crystalline powder; colorless when pure; odorless. This material is used as a rodenticide, functioning as an anticoagulant that does not induce bait-shyness. (EPA, 1998)
+Coumatetralyl is a hydroxycoumarin.
+Properties:safety: Acute Toxic and Health Hazard and Environmental Hazard
+smiles: C1CC(C2=CC=CC=C2C1)C3=C(C4=CC=CC=C4OC3=O)O
+formula: C19H16O3
+chem_properties: Molecular Weight: 292.3 g/mol
+XLogP3: 4.1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 1
+Exact Mass: 292.109944368 Da
+Monoisotopic Mass: 292.109944368 Da
+Topological Polar Surface Area: 46.5
+Heavy Atom Count: 22
+Formal Charge: 0
+Complexity: 481
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

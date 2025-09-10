@@ -1,0 +1,26 @@
+Description:
+A product formed from 1,413C2fumarate by the enzyme fumarase in the citric acid cycle.
+
+Text:
+MRI (magnetic resonance imaging) is a powerful, 
+noninvasive medical technique, but has limitations due 
+to the intrinsic low sensitivity. To overcome this problem, 
+it is possible to hyperpolarize the nuclear spins, a 
+procedure that has been shown to produce signal 
+enhancements of biomolecules up to 105 at high field 
+1,2. Unfortunately, the hyperpolarization decays in 
+(typically) tens of seconds due to spin relaxation. Despite 
+this temporal limitation, it is possible to observe realtime 
+cellular metabolism in vitro and in vivo after injection of 
+hyperpolarized metabolites 36. One 
+promising 
+candidate 
+metabolite 
+is 
+1,413C2fumarate, 
+which 
+is 
+converted 
+to 
+1,413C2malate by the enzyme fumarase in one step of 
+the citric acid cycle.

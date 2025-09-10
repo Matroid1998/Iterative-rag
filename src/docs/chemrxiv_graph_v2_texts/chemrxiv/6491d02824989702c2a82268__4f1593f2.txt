@@ -1,0 +1,26 @@
+Description:
+A deprotonated form of thiol that acts as a nucleophile.
+
+Text:
+An activated olen reacts with a cysteine via Michael addition (Scheme 1),
+which has been extensively studied since the 1960s.1014 Although alternative mecha
+nisms have been proposed,15 the ratelimiting step of the reaction is believed to be the
+nucleophilic attack of the deprotonated thiolate (either directly or via a base catalyst) on
+the electrondecient  carbon, leading to a carbanion intermediate, which protonates to
+form the thioether adduct (Scheme 1). Thus, the intrinsic reaction rate of a thiolMichael
+addition (for protein targets) is determined by the reactivity of the cysteine thiol and that of
+the Michael acceptor.
+
+
+---
+
+Description:
+A nucleophilic species related to thiol reactivity.
+
+Text:
+As the thiol reactivity is related to the availability of the nucleophilic
+thiolate,16,17 accurate pK a prediction tools such as the GPUaccelerated continuous con
+stant pH molecular dynamics simulations18 can be used to assess cysteine reactivities
+in drug targets.19,20 In principle, the intrinsic reactivity of a Michael acceptor can be pre
+3
+httpsdoi.org10.26434chemrxiv2023lh0qpv2 ORCID httpsorcid.org0000000232340769 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

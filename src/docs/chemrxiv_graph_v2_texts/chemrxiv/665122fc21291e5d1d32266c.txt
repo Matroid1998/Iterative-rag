@@ -1,0 +1,20 @@
+Description:
+A component of lithium-ion cells.
+
+Text:
+36
+In this work, we compare 47 different dynamic discharge profiles with realistic average discharge
+37
+currents ranging from C16 to C2, cycled over 24 months (where 1 C corresponds to the nominal
+38
+current that discharges the battery in one hour) on 92 commercial silicon oxide  graphite  nickel cobalt
+39
+aluminum lithiumion cells. We elucidate the effect of dynamic, nonconstantcurrent discharge profiles
+40
+while holding the average Crate and voltage window constant. Surprisingly, we find that dynamic cycling
+41
+enhances battery lifetime by up to 38 . Moreover, we quantify the tipover Crate balancing time
+42
+induced aging and cycling aging to be approximately 0.4 C, in the range of realistic Crates, contrary to
+43
+previous reports 15.

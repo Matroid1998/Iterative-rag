@@ -1,0 +1,46 @@
+Description:
+Used in internal solutions, possibly related to pH regulation.
+
+Text:
+More specifically, anions have crucial roles within many biological processes, 
+such as maintaining neutrality in charged transport processes,1 maintaining intra and 
+extracellular pH,2 and controlling cellular volumes.3 A number of diseases known as 
+channelopathies, including cystic fibrosis (CF) and Bartter syndrome, are caused by the 
+dysregulation or inhibition of ion transport through membraneembedded ion channels.4, 
+5 
+Fatty acidassisted 
+anion transport
+Transporterfacilitated
+anionselective uniport
+Transporterfacilitated
+anion symport
+Internal solution
+HPTS (1 mM)
+NaX (100 mM)
+buffer
+pHIN  pHOUT
+Internal solution
+HPTS (1 mM)
+NaX (100 mM)
+buffer
+FCCP (1 mol)
+pHIN  pHOUT
+Internal solution
+HPTS (1 mM)
+NaX (100 mM)
+buffer
+BSA (1 mol)
+pHIN  pHOUT
+FA
+External solution
+ NaX (100 mM), buffer, pHOUT  pHIN
+H 
+H 
+X 
+X 
+H 
+X 
+FCCP
+T
+T
+T

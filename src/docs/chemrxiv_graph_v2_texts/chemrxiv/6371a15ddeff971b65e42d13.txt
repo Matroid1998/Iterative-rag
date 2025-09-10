@@ -1,0 +1,13 @@
+Description:
+A unit containing saturated CH2CH2 moieties crucial for cyclization reactions.
+
+Text:
+of the 
+THBT unit containing saturated CH2CH2 moieties is crucial for the successful cyclization 
+reaction. The increased strain energy in the last oxidative dehydrogenative step can be partially 
+compensated by the gained aromatic stabilization energy. In addition, the average strain energy 
+for each twist in the triply twisted MCNB 1 is around 34.6 kcalmol, which is smaller than that in 
+the singly twisted (25,25)MCNB (49.4 kcalmol).25 Moreover, the strain could be visualized along 
+the molecular backbone through StrainViz developed by Jasti and coworkers.35 As shown in 
+Fig. 4ab and Fig. S18, the total strain energy of 2a2b is calculated as 110.8 kcalmol, while the 
+maximum strain energy of an individual bond is 1.9 kcalmol.

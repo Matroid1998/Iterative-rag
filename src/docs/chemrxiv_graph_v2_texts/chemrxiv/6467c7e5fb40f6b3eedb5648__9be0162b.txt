@@ -1,0 +1,15 @@
+Description:
+Reduced in the electrochemical nitrogen reduction reaction to produce ammonia.
+
+Text:
+The synthesis of ammonia as a precursor to fertilizer is estimated to support the nutritional needs 
+of over 40 of the worlds population.1,2 Furthermore, ammonia is a promising carbonfree fuel and 
+hydrogen carrier for applications in sustainable transportation and energy storage. Ammonia is most 
+commonly synthesized by the HaberBosch process, using hydrogen produced from methane reforming 
+and energy generated from hydrocarbon combustion, and accounts for nearly 2 of global carbon 
+emissions.1 There are two primary approaches to decarbonize ammonia synthesis the Green Haber
+Bosch process using hydrogen produced via water electrolysis3 or solar thermochemical water splitting,4 
+and the electrochemical nitrogen reduction reaction (NRR).5 NRR provides the advantages of distributed, 
+loadmatching production to generate ammonia near its point of use, and can provide lower capital and 
+
+2

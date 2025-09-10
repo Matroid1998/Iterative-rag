@@ -1,0 +1,34 @@
+Name: Cimetidine
+Text:
+Cimetidine appears as white crystals with a slight sulfur-mercaptan odor. (NTP, 1992)
+Cimetidine is a member of the class of guanidines that consists of guanidine carrying a methyl substituent at position 1, a cyano group at position 2 and a 2-{[(5-methyl-1H-imidazol-4-yl)methyl]sulfanyl}ethyl group at position 3. It is a H2-receptor antagonist that inhibits the production of acid in stomach. It has a role as a H2-receptor antagonist, a P450 inhibitor, an anti-ulcer drug, an analgesic and an adjuvant. It is a member of guanidines, a member of imidazoles, an aliphatic sulfide and a nitrile.
+A histamine congener, it competitively inhibits histamine binding to histamine H2 receptors. Cimetidine has a range of pharmacological actions. It inhibits gastric acid secretion, as well as pepsin and gastrins output. It also blocks the activity of cytochrome P-450 which might explain proposals for use in neoadjuvant therapy.
+Cimetidine is a Histamine-2 Receptor Antagonist. The mechanism of action of cimetidine is as a Histamine H2 Receptor Antagonist.
+Cimetidine is a histamine type 2 receptor antagonist (H2 blocker) which is widely used for treatment of acid-peptic disease and heartburn. Cimetidine has been linked to rare instances of clinically apparent acute liver injury.
+Cimetidine is a histamine H(2)-receptor antagonist.  Enhancing anti-tumor cell-mediated responses, cimetidine blocks histamine's ability to stimulate suppressor T lymphocyte activity and to inhibit natural killer (NK) cell activity and interleukin-2 production.  Cimetidine also may inhibit tumor growth by suppressing histamine's growth-factor activity and blocking histamine-induced stimulation of vascular endothelial growth factor (VEGF), a pro-angiogenic growth factor. (NCI04)
+CIMETIDINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1977 and has 3 approved and 11 investigational indications.
+A histamine congener, it competitively inhibits histamine binding to histamine H2 receptors. Cimetidine has a range of pharmacological actions. It inhibits gastric acid secretion, as well as pepsin and gastrins output. It also blocks the activity of cytochrome P-450 which might explain proposals for use in neoadjuvant therapy.
+A histamine congener, it competitively inhibits HISTAMINE binding to HISTAMINE H2 RECEPTORS. Cimetidine has a range of pharmacological actions. It inhibits GASTRIC ACID secretion, as well as PEPSIN and GASTRIN output.
+See also: Cimetidine Hydrochloride (has salt form); Cimetidine; ibuprofen; salicylic acid (component of); Cimetidine; lidocaine; salicylic acid (component of).
+Properties:safety: Corrosive and Health Hazard
+smiles: CC1=C(N=CN1)CSCCNC(=NC)NC#N
+formula: C10H16N6S
+chem_properties: Molecular Weight: 252.34 g/mol
+XLogP3: 0.4
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 7
+Exact Mass: 252.11571571 Da
+Monoisotopic Mass: 252.11571571 Da
+Topological Polar Surface Area: 114
+Heavy Atom Count: 17
+Formal Charge: 0
+Complexity: 296
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

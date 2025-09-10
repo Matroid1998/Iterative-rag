@@ -1,0 +1,21 @@
+Description:
+A toxic organic solvent used in the mobile phase of RPHPLC.
+
+Text:
+Despite the numerous advantages of this separation mode, 
+55 
+such as a broader range of compounds and better separation efficiency, some contemporary 
+56 
+challenges have led to the search for new stationary phase materials to adjust the technique to the 
+57 
+Principles of Green Chemistry (Dembek  Bocian 2020, Dembek  Bocian 2022, Kalisz et al. 58 
+2024). 59 
+RPHPLC employs toxic organic solvents in the mobile phase, such as methanol, acetonitrile, and 
+60 
+tetrahydrofuran, resulting in a large volume of residues after the analysis. In addition, small polar 
+61 
+compounds are poorly retained in the nonpolar stationary phases, such as C8 and C18, making their 
+62 
+separation and, consequently, their determination difficult in various samples (Poole 2019, Jandera 
+63 
+ Hajek 2020).

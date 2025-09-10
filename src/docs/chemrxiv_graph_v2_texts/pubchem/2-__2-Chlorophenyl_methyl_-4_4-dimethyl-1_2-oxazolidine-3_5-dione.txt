@@ -1,0 +1,24 @@
+Name: 2-((2-Chlorophenyl)methyl)-4,4-dimethyl-1,2-oxazolidine-3,5-dione
+Text:
+Properties:safety: Irritant and Environmental Hazard
+smiles: CC1(C(=O)N(OC1=O)CC2=CC=CC=C2Cl)C
+formula: C12H12ClNO3
+chem_properties: Molecular Weight: 253.68 g/mol
+XLogP3: 2.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 2
+Exact Mass: 253.0505709 Da
+Monoisotopic Mass: 253.0505709 Da
+Topological Polar Surface Area: 46.6
+Heavy Atom Count: 17
+Formal Charge: 0
+Complexity: 343
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,13 @@
+Description:
+Introduced into organic structures to improve electronic properties and stability of photocatalysts.
+
+Text:
+The charge 
+carrier dynamics, such as efficient charge separation and transfer, are optimized through the careful 
+design of organic materials, allowing for better hydrogen production rates 10. Furthermore, 
+heteroatom doping, such as introducing nitrogen or sulfur into the organic structure, has been 
+shown to significantly improve the electronic properties and the stability of the photocatalysts, 
+enabling longterm hydrogen evolution without significant degradation 11. Despite their promising properties, organic photocatalysts face several challenges that hinder their 
+efficiency in HER 1215. One major issue is the low stability of many organic materials under 
+harsh photocatalytic conditions, particularly in aqueous environments 16. These materials are 
+susceptible to photocorrosion, which can reduce their lifetime and effectiveness over time.

@@ -1,0 +1,23 @@
+Name: Potassium tert-butylate
+Text:
+Properties:safety: Flammable and Corrosive and Irritant
+smiles: CC(C)(C)[O-].[K+]
+formula: C4H9KO
+chem_properties: Molecular Weight: 112.21 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 112.02904639 Da
+Monoisotopic Mass: 112.02904639 Da
+Topological Polar Surface Area: 23.1
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 29
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

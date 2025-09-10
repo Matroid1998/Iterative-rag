@@ -1,0 +1,25 @@
+Description:
+A compound whose concentration affects the activity of synthetic CO2R catalysts, exhibiting first order kinetics.
+
+Text:
+As most synthetic 
+CO2R catalysts exhibit first order kinetics, their activity decreases proportionally with CO2 con
+centration, meaning their activity is significantly reduced even at flue gas concentrations.
+
+
+---
+
+Description:
+A gas whose concentration affects the faradaic efficiency in forming carbon products.
+
+Text:
+Syn
+thetic catalysts also commonly suffer from sidereactions (in particular hydrogen evolution) that 
+are only marginally affected by CO2 concentration, thereby decreasing the proportion of energy 
+going towards forming the desired carbon products (i.e., the faradaic efficiency, FE) when utiliz
+ing CO2 from low concentration sources.2 
+While there have been some reports of direct CO2 reduction at concentrations down to 
+1, the low affinity of these systems limit their applicability for atmospheric CO2 and are often 
+accompanied by the production of significant side products.2,3 The limitations of current CO2R 
+systems therefore require emerging carbon capture technologies47 to produce concentrated 
+CO2 gas streams in order to achieve acceptable performances.

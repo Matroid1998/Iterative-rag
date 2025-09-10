@@ -1,0 +1,13 @@
+Description:
+An element that is a nearest neighbor of carbon and forms compounds like boron nitride.
+
+Text:
+In the case of the nearest neighbors of carbon, boron and nitrogen, equiatomic 
+cubic boron nitride (cBN) has been synthesized, which is half as hard as diamond but exhibits 
+much higher thermal and chemical stability 3. Research efforts to identify new superhard phases of compounds of light elements require the 
+use of structure prediction programs such as USPEX 4 and CALYPSO 5. However, novel 
+structures can also be identified through the application of crystal engineering rationale as 
+presented here. In all cases, such predictions must be validated by the quantitative study of 
+energies and the derived physical properties using firstprinciples calculations. Over the years, 
+the wellestablished quantum mechanics framework of the density functional theory (DFT) 6,7 
+has proven to be the most efficient.

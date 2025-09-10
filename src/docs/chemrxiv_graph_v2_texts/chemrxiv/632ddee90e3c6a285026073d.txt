@@ -1,0 +1,11 @@
+Description:
+Can be electrochemically reduced to hydrocarbon molecules for use as fuels, energy storage media, and industrial chemicals.
+
+Text:
+Electrochemical Reduction of CO2 (CO2ER) has emerged as one of the most promising technologies to mitigate the
+excessive amounts of CO2 in the atmosphere 1, 2, 3. Renewable electricity can be used to power the conversion of
+CO2 into different hydrocarbon molecules, which can then be utilized as fuels, energy storage media and chemicals for
+various industrial applications such as plastic production, preservatives and anti freezing. However, there are several
+challenges for such a technology to be fully functional under industrially relevant operating conditions. A lot of these
+challenges stem from the gap in knowledge about the exact physicochemical phenomena taking place in the immediate
+environment of the catalyst surface.

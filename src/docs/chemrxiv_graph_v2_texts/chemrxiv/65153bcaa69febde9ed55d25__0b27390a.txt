@@ -1,0 +1,12 @@
+Description:
+Forms sp3-hybridized atoms in diamond, contributing to its hardness and atomic density.
+
+Text:
+Diamond is the hardest known material with a Vickers hardness (HV) at the level of 100 GPa and 
+density   3.635 gcm3 1. Its structure (space group Fm3m) is formed by cornersharing tetrahedra 
+of sp3hybridized carbon atoms with CCC  109.47 and is characterized by the highest atomic 
+density (i.e., the number of atoms per unit cell volume) and the highest density per valence electron 
+2. A rare hexagonal form of diamond (lonsdaleite) (space group P63mmc) with virtually the same 
+density has been claimed to be stronger and stiffer than diamond 3. The network topologies of diamond and lonsdaleite are dia and lon, respectively, and many 
+theoretically predicted carbon allotropes have been identified with these topologies (see 4 and 
+references therein).

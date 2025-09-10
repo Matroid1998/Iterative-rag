@@ -1,0 +1,25 @@
+Name: Triphenylphosphine Oxide
+Text:
+Triphenylphosphane oxide is a phosphine oxide in which the substituents on phosphorus are three phenyl groups. It has a role as a NMR chemical shift reference compound.
+Properties:safety: Irritant
+smiles: C1=CC=C(C=C1)P(=O)(C2=CC=CC=C2)C3=CC=CC=C3
+formula: C18H15OP
+chem_properties: Molecular Weight: 278.3 g/mol
+XLogP3: 2.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 3
+Exact Mass: 278.086052095 Da
+Monoisotopic Mass: 278.086052095 Da
+Topological Polar Surface Area: 17.1
+Heavy Atom Count: 20
+Formal Charge: 0
+Complexity: 281
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

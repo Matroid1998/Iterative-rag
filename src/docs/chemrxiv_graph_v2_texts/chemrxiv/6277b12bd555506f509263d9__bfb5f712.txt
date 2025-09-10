@@ -1,0 +1,23 @@
+Description:
+Forms complexes with a response specific to an analyte based on lanthanide(III) centered interaction.
+
+Text:
+Lanthanide luminescence has the unique photophysical combination of a millisecond luminescence lifetime and a 
+high photoluminescence quantum yield.1 This gives rise to unique applications in bioassay and bioimaging.211 
+Furthermore the luminescence lifetime depends on quenching by water,1214 and the spectral shape can be 
+changed by modulation of the ligand field.1519 This can beand has beenused extensively to create 
+lanthanide(III) complexes with a response specific to an analyte.7,2029 The basis of the response is a lanthanide(III) 
+centred interaction, which we are not able to describe to an adequate degree.
+
+
+---
+
+Description:
+A host that binds to oxyanions, with binding mechanisms influenced by pH and media composition.
+
+Text:
+In particular, as there exists a large literature on the synthesis of various derivatives of lanthanides azamacrocyclic 
+complexes that bind to oxyanions.23,27,32,4251 
+The mechanism of binding between a lanthanide(III) host and an oxyanion guest is most readily described in 
+the scenario where the host is neutral and ion pairing effects can be ignored. Figure 1 shows this case, the equilibria 
+involved, and the potential competitive binding events that change as a function of pH and media composition. Figure 1 includes two scenarios a europium(III) complex formed from a 7dentate ligand that create ternary

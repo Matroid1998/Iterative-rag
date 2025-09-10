@@ -1,0 +1,28 @@
+Name: Methylene Diphenyl Diisocyanate
+Text:
+Diphenylmethane-4,4-diisocyanate is a light yellow colored solid. It is not soluble in water. It may be toxic by ingestion, inhalation, or skin absorption. If in a solution it may or may not burn depending on the nature of the material and/or the solvent. It is used to make plastics.
+Diphenylmethane-4,4'-diisocyanate is a diisocyanate consisting of diphenylmethane with two isocyanate groups at the 4- and 4'-positions. It has a role as a hapten and an allergen. It derives from a hydride of a diphenylmethane.
+The commercial form of 4,4'-methylenediphenyl diisocyanate (MDI) is used to produce polyurethane foams. Acute (short-term) inhalation of high concentrations of MDI may cause sensitization and asthma in humans. Acute dermal contact with MDI has induced dermatitis and eczema in workers. MDI has been observed to irritate the skin and eyes of rabbits. Chronic (long-term) inhalation exposure to MDI has been shown to cause asthma, dyspnea, and other respiratory impairments in workers. Respiratory effects have also been observed in animals. No adequate information is available on the reproductive, developmental, or carcinogenic effects of MDI in humans. EPA has classified MDI as a Group D, not classifiable as to human carcinogenicity.
+Methylene diphenyl diisocyanate, also know as MDI, is a chemical compound of cyanide and an aromatic diisocyanate. It is used in the manufacture of polyurethane and as an an industrial strength adhesive. (L576)
+Properties:safety: Irritant and Health Hazard
+smiles: C1=CC(=CC=C1CC2=CC=C(C=C2)N=C=O)N=C=O
+formula: C15H10N2O2
+chem_properties: Molecular Weight: 250.25 g/mol
+XLogP3: 5.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 4
+Exact Mass: 250.074227566 Da
+Monoisotopic Mass: 250.074227566 Da
+Topological Polar Surface Area: 58.9
+Heavy Atom Count: 19
+Formal Charge: 0
+Complexity: 332
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

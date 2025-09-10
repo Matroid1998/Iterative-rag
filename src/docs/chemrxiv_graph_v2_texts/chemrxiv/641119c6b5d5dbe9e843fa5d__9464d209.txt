@@ -1,0 +1,38 @@
+Description:
+A reagent used to modify nanographene ligands to form MOF intermediates with tunable bandgaps.
+
+Text:
+Ligand amino groups were also used for incorporation 
+of transition metal ions for enhanced light absorption and 
+bandgap tuning.61 A type of noncovalent PSM by introducing 
+amine vapor and generating stable radical anions on MOF lig
+ands via photoinduced electron transfer has also been demon
+strated to effectively reduce the bandgap and extend absorption 
+over the entire visible range.45 
+The PSM of polyphenylenebased ligands using oxidative de
+hydrogenation was shown previously to efficiently tune the 
+bandgap of Zrbased MOFs.62 Here, we extend these studies by 
+showing that a simple reagent, FeCl3, can be used to addition
+ally modify nanographene ligands to form MOF intermediates 
+(INT1, INT2, INT3 and INT4) with bandgaps that range 
+from 2.12 eV to 0.69 eVs (Scheme 1).
+
+
+---
+
+Description:
+A reagent used in the reaction with Zr-based MOFL0.
+
+Text:
+Specifically, the reaction 
+between a Zrbased MOFL0 (also known as pbzMOF163) 
+and FeCl3 was shown to generate intermediate MOFs with ab
+sorption that redshifts from 345 to 850 nm. Based on our mech
+anistic studies, we assign this red shift in the observed optical 
+bandgaps to the successive formation of MOFs with planarized 
+ligands (MOFL6, also known as PCN13662) and absorption 
+at 490 nm, MOFs with chlorinated and planarized ligands 
+(MOFL6Cln) and absorption at 615 nm, MOFs with oxidized 
+radical cation and dication ligands (MOFL6Cln and MOF
+L6Cln2) and the lowestenergy absorption band at 800 nm. Scheme 1. Illustration of the progress of the MOF reaction 
+with FeCl3.

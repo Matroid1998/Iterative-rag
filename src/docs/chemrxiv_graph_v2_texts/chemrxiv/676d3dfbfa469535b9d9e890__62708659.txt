@@ -1,0 +1,14 @@
+Description:
+Higher oxidation state species proposed to form in the oxide path mechanism of the oxygen evolution reaction (OER).
+
+Text:
+The oxygen evolution reaction (OER) is a critical process in various renewable energy technologies, 
+including water splitting, metalair batteries, and fuel cells. It involves a complex fourelectron transfer 
+mechanism, which renders it kinetically sluggish and a significant bottleneck in overall system efficiency 
+1, 2. The electrochemistry of the OER encompasses several proposed mechanisms, including the adsorbate 
+evolution mechanism (AEM), the lattice oxygen mechanism (LOM), and the oxide path mechanism (OPM) 
+3.The AEM is the most widely accepted, involving the formation of various oxygencontaining 
+intermediates on the catalyst surface. The LOM suggests the participation of lattice oxygen atoms in the 
+reaction, while the OPM proposes the formation of higher oxidation state metaloxo species 3, 2 
+Interestingly, recent studies have revealed a correlation between pseudocapacitive behavior and OER 
+performance.

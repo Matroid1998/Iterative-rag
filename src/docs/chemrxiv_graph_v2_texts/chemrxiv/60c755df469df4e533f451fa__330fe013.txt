@@ -1,0 +1,11 @@
+Description:
+Inserts into silicon during electrochemical lithiation, forming a lithiated silicon phase.
+
+Text:
+In the first 
+stages of electrochemical lithiation of crystalline Si, it is directly transformed to a highly 
+lithiated amorphous silicon, aLixSi, typically at around 0.1 V vs Li.36,37 The exact value 
+of x is difficult to determine due to electrolyte decomposition taking place in conjunction 
+with Li insertion into the Si, but the capacity associated with this transformation is 3000 
+mAhg,38 and the value of x has been reported as 3.43.5.37,39 The terminal stage of 
+lithiation that can be attained at room temperature is a metastable crystalline phase, where

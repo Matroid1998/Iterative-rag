@@ -1,0 +1,28 @@
+Description:
+A polymer used to functionalize chromophores for improved water solubility and biocompatibility.
+
+Text:
+Since its invention in the late 1990s twophoton fluorescence 
+microscopy has experienced impressive developments,12 and 
+has opened unprecedented perspectives in tissues imaging that 
+have substantially benefited such diverse fields as neurobiol
+ogy,3 physiology,4 embryology5 and tissue engineering.6 These 
+developments have been achieved thanks to combined advances 
+in the optical setups design and in the developments of increas
+ingly sophisticated and selective endogenous (green fluorescent 
+proteins)7 and exogenous (synthetic organic chromophores and 
+nanoparticles) fluorescent contrast agents.811 
+In this framework, the conception of molecular probes or nano
+objects that combine sizeable twophoton induced emission 
+properties with good solubility (or colloidal stability) in physi
+ological media has been a major issue, on which we have been 
+extensively working in recent years.1214 
+In previous reports, we have proposed chromophore function
+alization with water solubilizing poly(hydroxyethylacrylate) 
+(PHEA) polymeric side chains as a relevant approach to achieve 
+high biocompatibility of molecular bioprobes.15 We have 
+shown that this functionalization could efficiently shield the 
+molecule from interactions with its local environment, ensuring 
+solubility of inherently lipophilic and pronetostacking fluoro
+phores into aqueous media, and keeping luminescence efficien
+cies high.

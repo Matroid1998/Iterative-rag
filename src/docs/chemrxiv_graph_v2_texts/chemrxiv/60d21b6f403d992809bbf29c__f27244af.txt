@@ -1,0 +1,16 @@
+Description:
+Support metal oxo intermediates in CH hydroxylation catalysis.
+
+Text:
+Since Breslows seminal discovery of Mn porphyrincatalyzed amination of cyclohexane, Mn 
+tetrapyrroles have emerged as an important platform for nitrene transfer catalysis.1 The 
+combination of nitrene precursors, such as iminoiodinanes1c, 2 or Nhaloamides,3 and Mn(III) 
+porphyrin catalysts enables nitrene transfer to CH bonds and olefinic substrates to afford amines 
+and aziridines, respectively (Figure 1). Enantioselective nitrene transfer catalysis has been realized 
+using D4symmetric chiral Mn porphyrin catalysts.2c, 4 More recently, White et al. have developed 
+related Mn(III) phthalocyanines as highly active catalysts for aliphatic CH amination.5 In 
+analogy to metalloporphyrinsupported metal oxo intermediates in CH hydroxylation catalysis, 
+the developed nitrene transfer catalysis is proposed to proceed via the intermediacy of reactive 
+highvalent Mn nitrenoids.6 
+
+Figure 1.

@@ -1,0 +1,16 @@
+Description:
+A well-known heat-resistant polymer material that starts to decompose at temperatures above 350°C.
+
+Text:
+This indicates that it is
+possible to realize a very useful narrowband light source for an
+alytical systems at the IR absorption window, where such sources
+and spectral filters are not (or less) available. Based on the previous studies, an IR light source can be made
+harnessing selected molecular vibration and it has a high poten
+tial for miniaturisation of IR optical sensors. However, when
+organic molecules are used, heat resistance of polymer restricts
+range of temperatures at which MIM structure can be used. For
+example, even polyimide, a wellknown heatresistant polymer
+material, starts to decompose at temperatures above 350C, re
+ducing potential use of such metasurface as temperature driven
+blackbody emitter.

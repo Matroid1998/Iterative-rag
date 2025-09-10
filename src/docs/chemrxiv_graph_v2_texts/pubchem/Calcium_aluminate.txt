@@ -1,0 +1,24 @@
+Name: Calcium aluminate
+Text:
+tricalcium aluminate is a mineral.
+Properties:safety: Corrosive and Irritant
+smiles: [O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Al+3].[Al+3].[Ca+2].[Ca+2].[Ca+2]
+formula: Al2Ca3O6
+chem_properties: Molecular Weight: 270.19 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 0
+Exact Mass: 269.820337 Da
+Monoisotopic Mass: 269.820337 Da
+Topological Polar Surface Area: 6
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 11
+Compound Is Canonicalized: Yes 
+

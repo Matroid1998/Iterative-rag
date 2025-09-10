@@ -1,0 +1,14 @@
+Description:
+An undesirable reduction product produced without accompanying CC bond formation.
+
+Text:
+The assembly of complex molecules from carbon monoxide via CC bond formation represents 
+a fundamental chemical challenge that has key relevance to the production of hydrocarbon fuels 
+via the heterogeneous FischerTropsch Process.1 Although employed industrially since 1925, the 
+mechanism for the conversion of mixtures of CO and H2 to shorttomedium chain alkane products 
+through the formation of CC bonds remains the subject of significant debate.2 CC bond formation 
+to yield alkenes represents a competing homologation process, and the product mixture typically 
+also includes oxygenated species along with methane  an undesirable reduction product produced 
+without accompanying CC bond formation. The idealized ratio of H2CO (ca. 21; eqn 1, typically 
+with 10  n  20) reflects the importance of the reductant (H2) in generating the desired alkane 
+products.

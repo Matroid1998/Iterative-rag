@@ -1,0 +1,15 @@
+Description:
+Chelates in the active site of HDACs.
+
+Text:
+The ZBG 
+is responsible for chelating Zn2 ion in the active site of HDACs. Different ZBGs have been 
+used for the development of HDACi, e.g. hydroxamic acids, 2aminobenzamides, shortchain 
+fatty acids, thiols, alkylhydrazides, and others 12, 13. In addition, cyclic peptides without a 
+ZBG have been reported as HDACi 14. To date, four HDACi have been approved by the US 
+Food and Drug Administration (FDA) for the treatment of different types of hematological 
+malignancies. These include the hydroxamatebased inhibitors vorinostat, belinostat, and 
+panobinostat, as well as the thiolprodrugdepsipeptide (romidepsin) 11. Although 
+hydroxamic acid is a potent and widely used ZBG, it was observed that hydroxamatebased 
+HDAC inhibitors often lack HDACisoform selectivity and show offtarget side effects 15, 
+16.

@@ -1,0 +1,11 @@
+Description:
+Mediates charge transfer to CO2 during reduction reactions.
+
+Text:
+Here, we follow the evolution of the electronic structure in MoS2 electrocatalysts during CO2RR 
+using operando Xray absorption spectroscopy (XAS). We probed both the ligand and metal 
+centers under functional CO2RR conditions and simulated the corresponding spectroscopic 
+signatures using firstprinciples calculations. Thus, we report direct spectroscopic evidence of 
+CO2 binding to Mo at sulfur vacancies, which perturbs the hybridization between S 3p and Mo 4d 
+states. The spectroscopic signatures of the active state are consistent with the reduction of Mo, 
+revealing its role in mediating charge transfer to CO2.

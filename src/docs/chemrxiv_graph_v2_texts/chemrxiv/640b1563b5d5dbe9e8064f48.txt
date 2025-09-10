@@ -1,0 +1,13 @@
+Description:
+An unsaturated compound mentioned in the context of protein degradation.
+
+Text:
+Targeted protein degradation (TPD) has emerged as a new paradigm for modulation 
+of protein activity in chemical biology and drug discovery13. A viable strategy for TPD 
+employs bifunctional protein targeting chimeras (PROTACs), in which small molecule 
+protein ligands are linked to a ligand of an E3 ligase to yield bifunctional modalities 
+that induce degradation of the protein of interest by the ubiquitinproteasome system 
+(UPS)4, 5. Recently also bifunctional degrader modalities have been reported that 
+direct the protein of interest to the autophagyrelated proteins LC3B or p62, thereby 
+inducing protein degradation by means of macroautophagy6, 7. In particular, it was 
+reported that  unsaturated indolinone 1 (R  I; GW5074, Fig.

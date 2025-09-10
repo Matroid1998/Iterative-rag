@@ -1,0 +1,19 @@
+Description:
+Generated with defined electronic properties for optoelectronic applications.
+
+Text:
+These models exploit the
+ability of diffusion processes to capture longrange dependencies in complex molecular structures, allowing
+the generation of diverse and chemically plausible molecules.10,11 In drug discovery and development, DMs
+can accelerate innovation by learning latent representations of molecular structures, facilitating the genera
+tion of novel compounds with desired traits such as high efficacy and low toxicity.12 In this context, DMs
+have also been adapted to include the protein target binding pocket as a condition for the generation process,
+allowing for modeling of proteinligand interactions.1315 Here, DMs for molecule discovery employ various
+neural network architectures, such as graphneural networks (GNNs),1618 convolutional neural networks
+(CNNs),19,20 transformers11,21,22 or combinations of them,23 and operate on different molecular represen
+tations based on SMILES or molecular graphs.17,24 They can also integrate with reinforcement learning
+strategies, directing synthesis towards molecules with specific properties, thereby enhancing the efficiency of
+drug discovery efforts.2527 In addition to drug design, DMs have also been used to generate new polycyclic
+aromatic hydrocarbons with defined electronic properties for optoelectronic applications.28 Further, DMs
+are employed to predict chemical reactions by modeling how reactant molecules diffuse through a reaction
+network.

@@ -1,0 +1,30 @@
+Description:
+A component of carbon fibre reinforced polymer (CFRP) composite, known for its superior specific strength, stiffness, corrosion resistance, and lower thermal expansion.
+
+Text:
+The global roadmap towards net zero emissions 1, targeting full carbon neutrality by 2050, has significantly 
+accelerated the development and adoption of lightweight materials in various engineering applications for 
+achieving sustainability goals 2, 3. Among these, carbon fibre reinforced polymer (CFRP) composite has 
+emerged as a promising material, due to its superior specific strength, stiffness, corrosion resistance, lower 
+thermal expansion and design flexibility compared to traditional metallic materials 4, 5. These characteristics 
+make CFRP an ideal candidate for demanding applications that require strong yet lightweight structures, 
+especially in industries such as aerospace, automotive, medical, and energy 6. There are four main stages in the CFRP manufacturing cycle part generation, curingconsolidation, machining 
+and assemblyjoining 7. Although some CFRP parts can be manufactured into nearnetshape in the initial 
+stage (e.g.
+
+
+---
+
+Description:
+An element that forms abrasive fibres, impacting tool wear and machining efficiency.
+
+Text:
+Rapid tool wear due to the abrasive nature of carbon fibres, leading to deteriorated surface quality, 
+decreased machining efficiency and increased costs 26 
+III. Lack of efficient and automated defects inspection  recognition and process optimization 
+technologies 27 
+To address these challenges, physicsbased methods (including both analytical models 2831 and numerical 
+models 22, 32, 33) have been developed to analyse, understand and predict CFRP machining behaviours. However, CFRP machining remains highly complex, involving dynamic material removal behaviour under 
+thermomechanical coupling, high strain rates, and process uncertainty 34. Analytical models, while 
+computationally efficient, often rely on oversimplified assumptions (e.g. uniform material properties and 
+idealized boundary conditions 29), which limit their prediction accuracy.

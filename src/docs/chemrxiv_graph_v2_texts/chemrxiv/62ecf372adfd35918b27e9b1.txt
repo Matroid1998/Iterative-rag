@@ -1,0 +1,20 @@
+Description:
+Metaloxo clusters known for their compact structure, high symmetry, low molecular charge, and stability.
+
+Text:
+Lindqvisttype polyoxometalates (POMs) are perhaps the most 
+investigated metaloxo clusters due to their compact structure, 
+high symmetry, low molecular charge, and stability.1,2 As their 
+early transition metal centres such as vanadium3 can exhibit 
+several thermodynamically stable oxidation states, POMs 
+containing these addenda atoms are able to accept and release 
+multiple electrons without a significant change of their 
+structure and stability.46 
+The possibility to address multiple charge states at one or 
+several molecular centres opens the possibility to realize 
+multistate logic, which offers significantly higher storage 
+capacity per cell compared to binary logic. Thus, hybrid 
+nanoelectronic devices involving POMs have the potential to 
+revolutionize the current CMOSbased microelectronics. Another highpotential application area is batteries, which 
+could reach immense cation densities immobilized in the POM 
+vicinity.

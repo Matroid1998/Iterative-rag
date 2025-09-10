@@ -1,0 +1,17 @@
+Description:
+A molecule absent during the incubation of 5pppRNA with vaccinia virus capping enzyme.
+
+Text:
+The generation of 5ppRNA from 
+chemically synthesized 5pppRNA has previously been described, involving incubation of the 
+5pppRNA with vaccinia virus capping enzyme in the absence of GTP and Sadenosyl 
+methionine.5 Recently, nonstructural protein 12 (nsp12), one of the factors responsible for RNA 
+synthesis in SARSCoV2, was used to generate diphosphorylated RNA in the presence of 5mM 
+MgCl2 with a similar efficiency as vaccinia virus capping enzyme.6 The procedure described herein 
+allows for removal of this intermediate step, enabling direct chemical synthesis of 5ppRNA. This 
+
+2
+protocol was adapted from methods published by Zlatev, et al. and optimized for the MerMade 12 
+RNADNA synthesizer (BioAutomation).7,8 
+
+MATERIALS AND METHODS

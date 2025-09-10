@@ -1,0 +1,38 @@
+Description:
+A metal oxide used for comparison with BiVO4 in terms of charge carrier lifetimes and hole diffusion length.
+
+Text:
+2.4  2.6 eV) and 
+good stability under typical operating conditions in aqueous 
+solutions.4,5 When compared with other metal oxides, such as 
+Fe2O3, BiVO4 exhibits charge carrier lifetimes that are four 
+orders of magnitude higher, and hole diffusion length one or
+der of magnitude longer.68 Nevertheless, pristine BiVO4 still 
+suffers from poor bulk electronic conductivity, ineffective hole 
+extraction, and slow rate of water oxidation.6,9 As a result, the 
+reported photocurrent densities at nonmodified BiVO4 are 
+typically much lower than the maximum theoretical value of 
+6.4  8.9 mA cm2 under AM 1.5G illumination, corresponding 
+to maximum solartoH2 conversion efficiencies of 8
+11.10,11 Thus, designing straightforward, scalable strategies 
+to overcome these drawbacks of BiVO4 materials represents 
+an important research agenda.
+
+
+---
+
+Description:
+Used as a photoelectrode material for improving PEC performance and stability.
+
+Text:
+suc
+cessfully designed a photoanode by depositing a thin film of 
+cationic polyelectrolytes and anionic CoPOMWOCs on the 
+surface of various photoelectrode materials (e.g. Fe2O3, BiVO4 
+and TiO2) for improving the PEC performance as well as sta
+bility.19 Fan and coworkers reported CoPOM as a novel mo
+lecular cocatalyst deposited on Ndoped carbon (NC) to 
+boost the charge separation and injection of BiVO4 pho
+toanodes for PEC water oxidation.20 Some of us have recently 
+reported a direct linking of CoPOMs to the surface of Mo
+doped BiVO4 photoanodes.

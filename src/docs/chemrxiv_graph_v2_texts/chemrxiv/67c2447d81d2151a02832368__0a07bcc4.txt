@@ -1,0 +1,18 @@
+Description:
+Widely used as a basic scaffold for delivery systems in gene editing and transfection applications.
+
+Text:
+Polymers are promising nonviral delivery vehicles for
+gene editing and therapy applications, offering a safer and
+more versatile alternative to viral vectors, which face chal
+lenges like immunogenicity, limited capacity, and high pro
+duction costs1,2. Polymers bind and compact DNA or RNA
+cargo into nanoparticle complexes, called polyplexes, for
+delivery into cells3. Among the most popular polymer
+systems is polyethyleneimine (PEI), sold commercially as
+jetPEI, which is widely used as a basic scaffold for deliv
+ery systems employed in routine transfection and gene editing
+applications48. Despite their potential, PEIbased systems still face sig
+nificant limitations in achieving the high delivery efficien
+cies required for clinical use9. A critical factor influencing
+efficiency is the formation and stability of polyplexes10,11.

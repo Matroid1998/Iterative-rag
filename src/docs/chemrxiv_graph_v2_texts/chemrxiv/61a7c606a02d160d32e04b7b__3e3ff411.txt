@@ -1,0 +1,10 @@
+Description:
+A chemical group capable of engaging in redox processes or resonant energy transfers.
+
+Text:
+Various amino acid side chains on BSA surface are expected to display distinct 
+reactivity towards the Au(III) substrate and the AuNC product.2024 Furthermore, the presence 
+of certain chemical groups (some of which may form only as byproducts of the synthesis and 
+are thus absent in the native albumin e.g. dityrosine25) capable of engaging in redox processes 
+or resonant energy transfers in the clusters vicinity may be crucial for maintaining 
+luminescence of BSAAuNC. The impact of charge transfer from surface ligands on

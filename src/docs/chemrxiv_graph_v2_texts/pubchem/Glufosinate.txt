@@ -1,0 +1,29 @@
+Name: Glufosinate
+Text:
+2-amino-4-[hydroxy(methyl)phosphoryl]butanoic acid is a non-proteinogenic alpha-amino acid that is 2-aminobutanoic acid which is substituted at position 4 by a hydroxy(methyl)phosphoryl group. It is a member of phosphinic acids and a non-proteinogenic alpha-amino acid.
+Glufosinate is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Glufosinate has been reported in Streptomyces hygroscopicus and Streptomyces viridochromogenes with data available.
+Glufosinate or its ammonium salt DL-phosphinothricin is an active ingredient in several nonselective systemic herbicides such as Basta, Rely, Finale, Ignite, Challenge, and Liberty. It interferes with the glutamine biosynthetic pathway that binds to the glutamate site of the enzyme. Glufosinate-treated plants die due to a buildup of ammonia and a cessation of photosynthesis due to lack of glutamine.
+See also: Glufosinate-P (annotation moved to).
+Properties:safety: Irritant and Health Hazard
+smiles: CP(=O)(CCC(C(=O)O)N)O
+formula: C5H12NO4P
+chem_properties: Molecular Weight: 181.13 g/mol
+XLogP3: -5
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 4
+Exact Mass: 181.05039486 Da
+Monoisotopic Mass: 181.05039486 Da
+Topological Polar Surface Area: 101
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 193
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

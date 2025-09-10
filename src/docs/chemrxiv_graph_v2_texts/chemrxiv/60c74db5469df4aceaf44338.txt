@@ -1,0 +1,11 @@
+Description:
+Synthetic molecules used in creating coarse-grained molecular models.
+
+Text:
+This offers a relative 
+transferability of the FF, which is useful to create CG molecular models for various types of molecules, 
+from biomolecules such as lipids,3234 peptides and proteins,35,36 to synthetic molecules such as 
+polymers,37,38 fullerenes,39,40 etc. In the MARTINI scheme, building an adequate CG model for a molecule of interest requires to map the 
+constitutive molecular fragments in the AA model to CG beads, which types are opportunely chosen based 
+on chemical analogy and polarities of the groups, setting up the nonbonded interactions in the CG model. The nonbonded parameters can then be refined to obtain accurate pairwise interactions between the 
+molecular species in the system.

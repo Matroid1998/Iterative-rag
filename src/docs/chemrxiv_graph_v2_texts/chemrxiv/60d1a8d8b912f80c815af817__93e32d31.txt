@@ -1,0 +1,12 @@
+Description:
+Forms the Li15Si4 alloy when fully lithiated, with a high theoretical specific capacity of 3579 mAhg.
+
+Text:
+Nevertheless, the maximum specific capacity 
+that can be theoretically reached with graphite is 372 mAhg, which limits the range of use cases 
+for LIBs. In these regards, alloy negative electrodes, and in particular silicon (Si) 7, stands out 
+as a promising candidate for next generation LIB anodes. When fully lithiated, Si forms the Li15Si4 
+alloy, showing a high theoretical specific capacity of 3579 mAhg, ten times larger than graphite. It also shows an appropriate voltage (0.4 V) for being adopted as an anode. However, Si 
+undergoes a 300 volume expansion upon charging, which induces Si particle pulverization, 
+unstable solid electrolyte interphase (SEI) formation and contact loss between Si and conductive 
+additives because of internal stresses 8,9.

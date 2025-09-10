@@ -1,0 +1,11 @@
+Description:
+Vacancies in MoS2 have been proposed to enhance its electrocatalytic activity for hydrogen evolution reactions.
+
+Text:
+MoS2 shows a high selectivity towards reduction of CO2 to CO at low overpotential when an ionic 
+liquid cocatalyst is present in the aqueous electrolyte.12 Increases in electrocatalytic activity of 
+MoS2 for CO2RR have been correlated with the existence of defect sites, such as edges and S 
+vacancies.14,15 Beyond CO2RR, the electrochemical generation of S vacancies in MoS2 prior to 
+conducting HER has been proposed to enhance its electrocatalytic activity.1618 Conventional 
+correlations between synthetic control and macroscopic CO2RR performance in the literature do 
+not directly probe mechanistic causality.

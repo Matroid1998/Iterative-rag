@@ -1,0 +1,20 @@
+Description:
+Used in protein engineering to increase the apparent melting temperature and activity of HheG variants.
+
+Text:
+Thus, crystal structures for 
+members of almost all currently known HHDH subtypes AG have been reported by now.13,40
+44 One of them is HheG from Ilumatobacter coccineus.42 This enzyme was the first reported 
+HHDH displaying unexpectedly high activity on cyclic as well as other sterically demanding 
+internal epoxide substrates, owing to its much broader and more solventexposed active site 
+compared to other HHDHs.42,4547 Since its discovery in 2017, a few more Gtype HHDHs have 
+been characterized, all displaying similar substrate scopes as HheG.13,47,48 Despite this 
+appealing activity towards bulky epoxides, HheG as well as other Gtype members also come 
+with some limitations including their insufficient stability for industrial application as well as 
+an only moderate enantioselectivity.37,42,47 The first challenge, the poor (thermal) stability of 
+HheG, was already addressed by us through protein engineering as well as 
+immobilization.37,49,50 Thus, we could demonstrate that the exchange of residue T123 in HheG 
+by aromatic amino acids or glycine resulted in variants with up to 14 K higher apparent melting 
+temperature as well as increased activity, most likely through regulating the dynamics of an N
+terminal loop spanning residues 3947 (Figure 1B).37 Interestingly, a slight increase in the 
+enantioselectivity of those HheG variants was observed as well.

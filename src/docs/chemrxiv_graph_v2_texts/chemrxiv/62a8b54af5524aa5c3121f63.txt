@@ -1,0 +1,42 @@
+Description:
+A vital element involved in cellular respiration and energy production, often limited in hypoxic conditions.
+
+Text:
+Hypoxia, defined as insufficient oxygen, plays a key role in the pathogenesis of many diseases including, 
+myocardial ischemia, cardiovascular disease, chronic kidney disease, arthritis, and cancer.1 Hypoxia is a common 
+feature of solid tumors and is associated with resistance to standard therapies, increased metastasis, and poor 
+patient prognosis.2 Regions of chronic hypoxia occur beyond the diffusion limit of oxygen in metabolically active 
+cancer cells, typically 100 m, while acute hypoxia can occur within a tumor resulting from changes in red blood 
+cell flux and vascular remodeling.
+
+
+---
+
+Description:
+A key element involved in physiological processes and tumor hypoxia.
+
+Text:
+Notably, cycling or intermittent changes in oxygen levels also occurs in tumors 
+and can be exacerbated during therapy.3 Typically, physiological levels of oxygen (physoxia) are defined as 37 
+O2, tumor hypoxia is defined as 2 O2, and extreme levels of hypoxia (0.1 O2) termed radiobiological 
+hypoxia, are those most associated with resistance to radiotherapy.4,5 Importantly, the biological response differs 
+in an oxygendependent manner, for example while the hypoxiainducible factors (HIFs) are induced at both 2 
+and 0.1 O2, the DNA damage response or unfolded protein response is restricted to the lower oxygen tension.6 
+There is an unmet need for imaging tools that not only detect hypoxia but also inform on the level of oxygen 
+present, because median oxygen concentrations within a tumor can range from 4.20.1 O2.4 
+One biological response to hypoxia is the production reductase enzymes (cytochrome P450 reductase and 
+nitroreductase) that catalyze oxygensensitive bioreductive reactions.
+
+
+---
+
+Description:
+A molecule that influences the enzymatic reduction of probes to reveal fluorophores.
+
+Text:
+We demonstrate that these probes are 
+enzymatically reduced, in an oxygen dependent manner, to reveal a palette of fluorophores with emission maxima 
+ranging through red, orange, and green. Varying the pKa of the dye and the substitution on the methylene unit of 
+the indolequinone, results in compounds that are activated at different oxygen concentrations, ranging from 6, 
+4, 2, and 1 , and at different rates. Validation of these probes in 2D and 3D cell culture demonstrates 
+that they are powerful and convenient tools for sensing a range of different hypoxia levels.

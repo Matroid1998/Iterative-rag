@@ -1,0 +1,29 @@
+Name: Resiniferatoxin
+Text:
+Resiniferatoxin is a heteropentacyclic compound found in Euphorbia poissonii with molecular formula C37H40O9. It is an agonist of the transient receptor potential cation channel subfamily V member 1 (TrpV1). It has a role as a TRPV1 agonist, a plant metabolite, a neurotoxin and an analgesic. It is a diterpenoid, an ortho ester, a tertiary alpha-hydroxy ketone, a member of phenols, a monomethoxybenzene, an organic heteropentacyclic compound, a carboxylic ester and an enone.
+Resiniferatoxin (RTX) is a naturally occurring, ultrapotent capsaicin analog that activates the vanilloid receptor in a subpopulation of primary afferent sensory neurons involved in nociception (the transmission of physiological pain).
+Resiniferatoxin has been reported in Euphorbia unispina and Euphorbia resinifera with data available.
+Resiniferatoxin is a naturally occurring capsaicin analog found in the latex of the cactus Euphorbia resinifera with analgesic activity. Resiniferatoxin (RTX) binds to and activates the transient receptor potential vanilloid 1 (TRPV1), a non-selective cation channel in the plasma membrane of primary afferent sensory neurons. This increases the permeability to cations, and leads to an influx of calcium and sodium ions. This results in membrane depolarization, causing an irritant effect, followed by desensitization of the sensory neurons thereby inhibiting signal conduction in afferent pain pathways and causing analgesia. TRPV1, a member of the transient receptor potential channel (TRP) superfamily, is a heat- and chemo-sensitive calcium/sodium ion channel that is selectively expressed in a subpopulation of pain-sensing primary afferent neurons.
+RESINIFERATOXIN is a small molecule drug with a maximum clinical trial phase of III (across all indications) and has 4 investigational indications.
+Properties:safety: Corrosive and Acute Toxic
+smiles: C[C@@H]1C[C@]2([C@H]3[C@H]4[C@]1([C@@H]5C=C(C(=O)[C@]5(CC(=C4)COC(=O)CC6=CC(=C(C=C6)O)OC)O)C)O[C@](O3)(O2)CC7=CC=CC=C7)C(=C)C
+formula: C37H40O9
+chem_properties: Molecular Weight: 628.7 g/mol
+XLogP3: 4.5
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 9
+Rotatable Bond Count: 9
+Exact Mass: 628.26723285 Da
+Monoisotopic Mass: 628.26723285 Da
+Topological Polar Surface Area: 121
+Heavy Atom Count: 46
+Formal Charge: 0
+Complexity: 1330
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 8
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

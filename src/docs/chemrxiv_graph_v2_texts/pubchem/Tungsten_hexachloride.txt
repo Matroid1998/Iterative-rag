@@ -1,0 +1,24 @@
+Name: Tungsten hexachloride
+Text:
+Tungsten hexachloride is a tungsten coordination entity.
+Properties:safety: Corrosive
+smiles: Cl[W](Cl)(Cl)(Cl)(Cl)Cl
+formula: Cl6W
+chem_properties: Molecular Weight: 396.5 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 395.761099 Da
+Monoisotopic Mass: 393.764049 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 62.7
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

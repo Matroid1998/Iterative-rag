@@ -1,0 +1,24 @@
+Name: Pyridinium dichromate
+Text:
+Pyridinium dichromate is a chemical compound of pyridinium and hexavalent chromium. It is used as an oxidizing agent. Hexavalent chromium refers to chemical compounds that contain the element chromium in the +6 oxidation state. Chromium(VI) is more toxic than other oxidation states of the chromium atom because of its greater ability to enter cells and higher redox potential. (L16, L57)
+Properties:safety: Flammable and Oxidizer and Corrosive and Irritant and Health Hazard and Environmental Hazard
+smiles: C1=CC=NC=C1.C1=CC=NC=C1.O[Cr](=O)(=O)O[Cr](=O)(=O)O
+formula: C10H12Cr2N2O7
+chem_properties: Molecular Weight: 376.20 g/mol
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 9
+Rotatable Bond Count: 2
+Exact Mass: 375.945460 Da
+Monoisotopic Mass: 375.945460 Da
+Topological Polar Surface Area: 144
+Heavy Atom Count: 21
+Formal Charge: 0
+Complexity: 252
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

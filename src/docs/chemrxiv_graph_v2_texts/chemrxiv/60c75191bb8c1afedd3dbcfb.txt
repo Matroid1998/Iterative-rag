@@ -1,0 +1,10 @@
+Description:
+Used as a precursor in the chemical vapor deposition of GaN thin films.
+
+Text:
+GaN thin films are typically deposited by chemical vapor deposition (CVD) at 800
+1000 C using trimethylgallium, Ga(CH3)3 (TMG), and ammonia, NH3, as precursors.3 
+The high deposition temperatures and poor conformity of the established CVD processes 
+for GaN are problematic for any device structure not compatible with high temperatures or 
+that require uniform film thickness over topographically complex geometries. The 
+deposition method of choice for such structures is atomic layer deposition (ALD).

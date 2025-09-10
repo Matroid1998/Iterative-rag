@@ -1,0 +1,12 @@
+Description:
+Functional group involved in chemisorption and organization into clusters.
+
+Text:
+scale pores in graphene for CO2 separation 
+are prepared by oxidation involving controlled lattice gasification.5,22,3137 The resulting pore edges 
+are passivated with O functional groups.3840 These groups evolve from the chemisorption of a single 
+epoxy followed by an organization of epoxies in a cluster (Supplementary Section 1).37 When the 
+cluster size is sufficiently large, strainmediated CC bond cleavage followed by gasification yields a 
+carbon vacancy defect (pore) with ether41 and semiquinones (CO) decorated at the pore edge.40,42
+44 Pores formed in this way have yielded attractive carbon capture performances, however, pores 
+terminated with CO have not been explored by computational studies.

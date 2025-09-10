@@ -1,0 +1,33 @@
+Name: Deferoxamine
+Text:
+Desferrioxamine B is an acyclic desferrioxamine that is butanedioic acid in which one of the carboxy groups undergoes formal condensation with the primary amino group of N-(5-aminopentyl)-N-hydroxyacetamide and the second carboxy group undergoes formal condensation with the hydroxyamino group of N(1)-(5-aminopentyl)-N(1)-hydroxy-N(4)-[5-(hydroxyamino)pentyl]butanediamide. It is a siderophore native to Streptomyces pilosus biosynthesised by the DesABCD enzyme cluster as a high affinity Fe(III) chelator. It has a role as an iron chelator, a siderophore, a ferroptosis inhibitor and a bacterial metabolite. It is a conjugate base of a desferrioxamine B(1+). It is a conjugate acid of a desferrioxamine B(3-).
+Natural product isolated from Streptomyces pilosus. It forms iron complexes and is used as a chelating agent, particularly in the mesylate form.
+Deferoxamine is an Iron Chelator. The mechanism of action of deferoxamine is as an Iron Chelating Activity.
+Deferoxamine is a parenterally administered iron chelating agent used to treat transfusion related chronic iron overload. Deferoxamine rarely causes serum aminotransferase elevations during therapy and has not been convincingly linked to instances of clinically apparent liver injury.
+Deferoxamine has been reported in Streptomyces malaysiense, Streptomyces argillaceus, and other organisms with data available.
+Deferoxamine is an iron-chelating agent that binds free iron in a stable complex, preventing it from engaging in chemical reactions. Deferoxamine chelates iron from intra-lysosomal ferritin and siderin forming ferrioxamine, a water-soluble chelate excreted by the kidneys and in the feces via the bile.  This agent does not readily bind iron from transferrin, hemoglobin, myoglobin or cytochrome. (NCI04)
+DEFEROXAMINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1968 and is indicated for hemochromatosis and has 14 investigational indications.
+Natural product isolated from Streptomyces pilosus. It forms iron complexes and is used as a chelating agent, particularly in the mesylate form.
+See also: Deferoxamine Mesylate (has salt form); Deferoxamine Hydrochloride (has salt form).
+Properties:safety: Irritant
+smiles: CC(=O)N(CCCCCNC(=O)CCC(=O)N(CCCCCNC(=O)CCC(=O)N(CCCCCN)O)O)O
+formula: C25H48N6O8
+chem_properties: Molecular Weight: 560.7 g/mol
+XLogP3: -2.1
+Hydrogen Bond Donor Count: 6
+Hydrogen Bond Acceptor Count: 9
+Rotatable Bond Count: 23
+Exact Mass: 560.35336251 Da
+Monoisotopic Mass: 560.35336251 Da
+Topological Polar Surface Area: 206
+Heavy Atom Count: 39
+Formal Charge: 0
+Complexity: 739
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

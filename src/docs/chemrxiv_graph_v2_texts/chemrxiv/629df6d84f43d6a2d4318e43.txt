@@ -1,0 +1,13 @@
+Description:
+The atom whose maximum intensity of descriptors shifted to atom O.
+
+Text:
+4 where parameter q was set to be 1 for all atoms), the de
+scriptors drawn for atom O and H could not be well separated
+and the sign of charge information was totally lost, as shown in
+Figure 3(c)  Figure 3(e). For the angular symmetry functions,
+with the phase parameter  switched between 1 and 1, the
+maximum intensity of the descriptors shifted from atom H to O
+(Figure 3(d) and Figure 3(e)). It is a compensate, hence, we uti
+lized both values to obtain good descriptors at different values of
+Journal Name, year, vol.,16  3

@@ -1,0 +1,28 @@
+Description:
+Have a virtual monopoly in the design of high performance single-molecule magnets (SMMs) due to their magnetic anisotropy and spin values.
+
+Text:
+The difficulties to push the boundaries of the per
+formances due to the equilibrium between magnetic anisotropy 
+and spin values associated to the discovery of the first mononu
+clear lanthanide SMM,3 this led to a virtual monopoly for lan
+thanide chemistry in the design of high performance SMMs.48 
+The use of computational approaches to better understand the 
+needed prerequisites helped to optimize such systems.910 Thus 
+the strong uniaxial magnetic anisotropy observed in organome
+tallic lanthanide complexes allowed the observation of a high 
+blocking temperature, up to 80 K.1114 Such molecular systems 
+which display magnetic bistability could become good candi
+dates to applications such as quantum computing15 and 
+spintronics.16 With the aim to extend the range of potential ap
+plications dedicated to SMMs, the reversible modification of 
+the magnetic behavior by applying external stimuli opens the 
+possibility to design switches and sensors.17 The switching of 
+SMM behavior in lanthanide molecular systems is usually 
+reached using i) chemical agents for redox reaction1821 and pH 
+variation,2223 ii) selected solvents,2427 iii) light irradiation2831 or 
+iv) a combination of several stimuli.3233 As recently reviewed,34 
+lanthanides are ideal elements for the design of molecular 
+switches since they are extremely sensitive to crystal field ef
+fects, in other words, to any structural changes in the first coor
+dination sphere or even farther in the crystal packing.

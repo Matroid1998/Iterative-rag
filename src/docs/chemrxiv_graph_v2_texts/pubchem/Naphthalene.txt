@@ -1,0 +1,35 @@
+Name: Naphthalene
+Text:
+Naphthalene can cause cancer according to The National Toxicology Program.
+Naphthalene appears as a white crystalline volatile solid with a strong coal-tar odor. The solid is denser than water and insoluble in water. Burns, but may be difficult to ignite.  In the molten form it is very hot. Exposure to skin must be avoided. Also the vapors given off by the material may be toxic.  Used as a moth repellent, fumigant, lubricants, and to make other chemicals, and for many other uses
+Naphthalene, methylnaphthalenes appears as a black liquid with the odor of coal tar. Negligibly soluble in water. Slightly denser than water. Vapors, fumes or direct contact may irritate the eyes. Direct skin contact may produce severe burns. Inhalation may produce mucous irritation, dizziness, loss of coordination, cardiovascular collapse and death.
+Naphthalene is an aromatic hydrocarbon comprising two fused benzene rings. It occurs in the essential oils of numerous plant species e.g. magnolia. It has a role as a volatile oil component, a plant metabolite, an environmental contaminant, a carcinogenic agent, a mouse metabolite and an apoptosis inhibitor. It is an ortho-fused bicyclic arene and a member of naphthalenes.
+Naphthalene is used in the production of phthalic anhydride; it is also used in mothballs. Acute (short- term) exposure of humans to naphthalene by inhalation, ingestion, and dermal contact is associated with hemolytic anemia, damage to the liver, and neurological damage. Cataracts have also been reported in workers acutely exposed to naphthalene by inhalation and ingestion. Chronic (long-term) exposure of workers and rodents to naphthalene has been reported to cause cataracts and damage to the retina. Hemolytic anemia has been reported in infants born to mothers who "sniffed" and ingested naphthalene (as mothballs) during pregnancy. Available data are inadequate to establish a causal relationship between exposure to naphthalene and cancer in humans. EPA has classified naphthalene as a Group C, possible human carcinogen.
+Naphthalene has been reported in Herbertus norenus, Swertia japonica, and other organisms with data available.
+Naphthalene is a white, volatile, solid polycyclic hydrocarbon with a strong mothball odor. Naphthalene is obtained from either coal tar or petroleum distillation and is primarily used to manufacture phthalic anhydride, but is also used in moth repellents. Exposure to naphthalene is associated with hemolytic anemia, damage to the liver and neurological system, cataracts and retinal hemorrhage. Naphthalene is reasonably anticipated to be a human carcinogen and may be associated with an increased risk of developing laryngeal and colorectal cancer. (NCI05)
+NAPHTHALENE is a small molecule drug with a maximum clinical trial phase of I and has 1 investigational indication.
+Naphthalene is the simplest polyaromatic hydrocarbon (PAH) consisting of two fused benzene rings. It has a distinct, pungent odor that can be detected at levels as low as 0.08 ppm.  Naphthalene is the most abundant single component of coal tar so most of it is now industrially derived from coal tar. From the 1960s until the 1990s, significant amounts of naphthalene were also produced from heavy petroleum fractions during petroleum refining, but today petroleum-derived naphthalene represents only a minor component of naphthalene production. Naphthalene is also produced naturally with trace amounts of naphthalene being produced by black walnuts, magnolias and specific types of deer, as well as the Formosan subterranean termite. Some strains of the endophytic fungus (Muscodor albus) also produce naphthalene. Naphthalene and other polycyclic aromatic hydrocarbons (PAHs) are released from incomplete combustion processes originating in industry, cigarette smoke and motor vehicle exhaust, as well as natural events such as forest fires. Industrially, naphthalene is used in the production of phthalic anhydride, as a solvent for chemical reactions, as a wetting agent and as a fumigant.  It is also used in pyrotechnic special effects such as the generation of black smoke and simulated explosions. In the past, naphthalene was administered orally to kill parasitic worms in livestock. Naphthalene was once the primary ingredient in mothballs, though its use has largely been replaced in favor of alternatives such as 1,4-dichlorobenzene. In a sealed container containing naphthalene pellets, naphthalene vapors build up to levels that are toxic to both the adult and larval forms of many moths. Naphthalene has been shown to exhibit apoptotic and catabolic functions (4, 5). Exposure to large amounts of naphthalene may damage or destroy red blood cells. Humans, in particular children, have developed this condition, known as hemolytic anemia, after ingesting mothballs or deodorant blocks containing naphthalene.
+naphthalene is a metabolite found in or produced by Saccharomyces cerevisiae.
+See also: (1,2,3,4-~13~C_4_)Naphthalene (annotation moved to) ... View More ...
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: C1=CC=C2C=CC=CC2=C1
+formula: C10H8
+chem_properties: Molecular Weight: 128.17 g/mol
+XLogP3: 3.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 128.062600255 Da
+Monoisotopic Mass: 128.062600255 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 80.6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

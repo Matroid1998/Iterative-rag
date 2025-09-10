@@ -1,0 +1,18 @@
+Description:
+A self-doped n-type material with electron concentrations varying over several orders of magnitude (10^15 to 10^19 cm^3).
+
+Text:
+TE materials are often optimized through defect engineering,
+which can increase (or decrease) the concentration of charge car
+riers and decrease lat through increased phonon scattering. The
+formation of point defects is strongly influenced by the synthe
+sis conditions, including the reaction temperature. Very small
+compositional differences, too small to detect by typical chemi
+cal analysis or XRD can result from minute differences in synthe
+sis of the same nominal composition and lead to strikingly dif
+ferent electron transport properties. Such variations can be ex
+plored experimentally through phase boundary mapping.30 Such
+defects, could explain the variation of reported electron concen
+trations in selfdoped ntype Bi2SeO2 that span several orders of
+magnitude (1015  1019 cm3) even in materials with the same
+nominal composition.

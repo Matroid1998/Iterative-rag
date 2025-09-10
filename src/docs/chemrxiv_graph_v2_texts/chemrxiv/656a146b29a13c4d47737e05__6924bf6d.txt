@@ -1,0 +1,40 @@
+Description:
+A corticosteroid used to treat asthma.
+
+Text:
+However, some of these drugs can also interact with
+other drugs and biomolecules, which can lead to adverse effects or reduced efficacy. In this study, we investigated the anticancer drug interactions with the kinase domain of
+human HER2 using a combination of docking and molecular dynamics simulations. We
+focused on the following drugs and biomolecules, which are already available
+
+Oxycodone
+
+Methylamino Luvinilate
+
+Ciclesonide
+
+Salicylic Acid
+
+Melphalan
+
+Ibuprofen
+
+NAcetyl Tyrosine
+
+Aspirin
+
+Phenylalanine
+2. Methods
+Docking simulations
+CBDock is a webbased server for proteinligand docking. The following parameters
+were used for the CBDock docking simulations
+
+Algorithm Genetic algorithm
+
+Population size 100
+
+Generations 100
+
+Crossover rate 0.8
+
+Mutation rate 0.2

@@ -1,0 +1,13 @@
+Description:
+A molecule used in the determination of cetane number (CN) for biofuel applications.
+
+Text:
+We find that these characteristics enhance the 
+predictive ability of machine learning methods to predict molecular properties. The MACAW 
+generative approach, based on these embeddings, can provide molecules with prespecified 
+properties without the need for the expertise and time needed to train neural networks. The application of MACAW is demonstrated for property prediction, virtual screening, and 
+inverse molecular design. MACAW embeddings are used for the prediction of complex 
+properties, including research octane number (RON), cetane number (CN), melting point (MP) 
+and flash point (FP) of molecules, as well as the binding of small molecules to the histamine 
+H1 receptor and the muscarinic M2 receptor. These properties are demonstrative of both 
+biofuel and medicinal applications.

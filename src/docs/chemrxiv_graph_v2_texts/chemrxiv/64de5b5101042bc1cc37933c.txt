@@ -1,0 +1,16 @@
+Description:
+An acid whose acidity correlates with the rate of reactions involving substituted aromatic rings.
+
+Text:
+The Hammett relationship is a paradigmatic example in which benzoic acid acidity (an experimentally determined 
+35 
+thermodynamic parameter) correlates with the rate for various reactions involving substrates, reagents, or catalysts bearing 
+36 
+substituted aromatic rings.3 A linear correlation between reactivity and the inductive and resonance contributions from meta 
+37 
+or parasubstituents on aromatic rings (m and p Hammett parameters, respectively) reveal the sensitivity of a reaction to 
+38 
+these electronic influences. Deviations from linearity may be related to changes in the ratedetermining step (e.g., a concave 
+39 
+downward curve) or in the mechanism or transition state of the reaction (e.g., a concave upward curve).4 
+40

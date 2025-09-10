@@ -1,0 +1,18 @@
+Description:
+A chemical energy carrier used in carbon-neutral energy systems and electrosynthesis.
+
+Text:
+18
+A broad implementation of a sustainable energy system requires the development of a wellaligned
+19
+mix of technologies that allow for the carbonneutral conversion, storage, and transport of energy,
+20
+where chemical energy carriers such as green hydrogen are likely to play a key role across dif
+21
+ferent energy sectors1. Active and durable catalysts are required for the electrosynthesis of green
+22
+hydrogen using excess renewable energy, and for the conversion of hydrogen into electricity using
+23
+electrolyzers and fuel cells. The application of nanostructured catalysts allows to considerably in
+24
+crease the efficiency of such devices24.

@@ -1,0 +1,82 @@
+Ductility refers to the ability of a material to sustain significant plastic deformation before fracture. Plastic deformation is the permanent distortion of a material under applied stress, as opposed to elastic deformation, which is reversible upon removing the stress. Ductility is a critical mechanical performance indicator, particularly in applications that require materials to bend, stretch, or deform in other ways without breaking. The extent of ductility can be quantitatively assessed using the percent elongation at break, given by the equation:
+
+  
+    
+      
+        %
+        
+          E
+          L
+        
+        =
+        
+          (
+          
+            
+              
+                
+                  l
+                  
+                    
+                      f
+                    
+                  
+                
+                −
+                
+                  l
+                  
+                    0
+                  
+                
+              
+              
+                l
+                
+                  0
+                
+              
+            
+          
+          )
+        
+        ×
+        100
+      
+    
+    {\displaystyle \%\mathrm {EL} =\left({\frac {l_{\mathrm {f} }-l_{0}}{l_{0}}}\right)\times 100}
+  
+
+where 
+  
+    
+      
+        
+          l
+          
+            
+              f
+            
+          
+        
+      
+    
+    {\displaystyle l_{\mathrm {f} }}
+  
+ is the length of the material after fracture and 
+  
+    
+      
+        
+          l
+          
+            0
+          
+        
+      
+    
+    {\displaystyle l_{0}}
+  
+ is the original length before testing. This formula helps in quantifying how much a material can stretch under tensile stress before failure, providing key insights into its ductile behavior. Ductility is an important consideration in engineering and manufacturing. It defines a material's suitability for certain manufacturing operations (such as cold working) and its capacity to absorb mechanical overload like in an engine. Some metals that are generally described as ductile include gold and copper, while platinum is the most ductile of all metals in pure form. However, not all metals experience ductile failure as some can be characterized with brittle failure like cast iron. Polymers generally can be viewed as ductile materials as they typically allow for plastic deformation.
+Inorganic materials, including a wide variety of ceramics and semiconductors, are generally characterized by their brittleness. This brittleness primarily stems from their strong ionic or covalent bonds, which maintain the atoms in a rigid, densely packed arrangement. Such a rigid lattice structure restricts the movement of atoms or dislocations, essential for plastic deformation. The significant difference in ductility observed between metals and inorganic semiconductor or insulator can be traced back to each material’s inherent characteristics, including the nature of their defects, such as dislocations, and their specific chemical bonding properties. Consequently, unlike ductile metals and some organic materials with ductility (%EL) from 1.2% to over 1200%, brittle inorganic semiconductors and ceramic insulators typically show much smaller ductility at room temperature. 
+Malleability, a similar mechanical property, is characterized by a material's ability to deform plastically without failure under compressive stress. Historically, materials were considered malleable if they were amenable to forming by hammering or rolling. Lead is an example of a material which is relatively malleable but not ductile.

@@ -1,0 +1,33 @@
+Name: Pyruvic Acid
+Text:
+Pyruvic acid is a 2-oxo monocarboxylic acid that is the 2-keto derivative of propionic acid. It is a metabolite obtained during glycolysis. It has a role as a fundamental metabolite and a cofactor. It is functionally related to a propionic acid. It is a conjugate acid of a pyruvate.
+An intermediate compound in the metabolism of carbohydrates, proteins, and fats. In thiamine deficiency, its oxidation is retarded and it accumulates in the tissues, especially in nervous structures. (From Stedman, 26th ed)
+Pyruvic acid is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Pyruvic acid has been reported in Cnidium monnieri, Drosophila melanogaster, and other organisms with data available.
+PYRUVATE is a small molecule drug with a maximum clinical trial phase of II (across all indications) and has 6 investigational indications.
+Pyruvic acid is an intermediate compound in the metabolism of carbohydrates, proteins, and fats. In thiamine deficiency, its oxidation is retarded and it accumulates in the tissues, especially in nervous structures. (From Stedman, 26th ed.) Biological Source: Intermediate in primary metabolism including fermentation processes. Present in muscle in redox equilibrium with Lactic acid. A common constituent, as a chiral cyclic acetal linked to saccharide residues, of bacterial polysaccharides. Isolated from cane sugar fermentation broth and peppermint. Constituent of Bauhinia purpurea, Cicer arietinum (chickpea), Delonix regia, Pisum sativum (pea) and Trigonella caerulea (sweet trefoil) Use/Importance: Reagent for regeneration of carbonyl compdounds from semicarbazones, phenylhydrazones and oximes.
+Pyruvic acid is a metabolite found in or produced by Saccharomyces cerevisiae.
+An intermediate compound in the metabolism of carbohydrates, proteins, and fats. In thiamine deficiency, its oxidation is retarded and it accumulates in the tissues, especially in nervous structures. (From Stedman, 26th ed)
+See also: Pyruvate (annotation moved to).
+Properties:safety: Corrosive
+smiles: CC(=O)C(=O)O
+formula: C3H4O3
+chem_properties: Molecular Weight: 88.06 g/mol
+XLogP3: -0.3
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 1
+Exact Mass: 88.016043985 Da
+Monoisotopic Mass: 88.016043985 Da
+Topological Polar Surface Area: 54.4
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 84
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

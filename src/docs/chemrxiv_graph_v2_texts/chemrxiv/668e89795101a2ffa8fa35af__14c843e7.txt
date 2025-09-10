@@ -1,0 +1,33 @@
+Description:
+Heterocycles with inherent reactivity, often functionalized at the C2 and C4 positions.
+
+Text:
+Heterocyclic scaffolds are present in numerous natural products, 
+pharmaceuticals, agrochemicals, and have found their place in 
+material science. 1 , 2 , 3 Among them, the pyridine moiety is, 
+according to the US Food and Drug Administration, one of the 
+most common motif in approved drugs (Scheme 1A). 4 , 5 As 
+biological activity can be finetuned by the substitution pattern at 
+this core, methodologies for pyridine functionalizations are highly 
+sought. Numerous strategies for the peripheral editing of pyridines 
+have been developed but, due to their inherent reactivity 
+functionalizations at the C2 and C4 positions of the heterocycle 
+prevail,6,7,8,9 with chemical modification at the C3 position still 
+presenting a significant challenge.
+
+
+---
+
+Description:
+Undergo selective C3 amination in a photocatalytic manner.
+
+Text:
+37 , 38 , 39 , 40 Based on reports 
+concerning the functionalization of Zincke imines,41,42,43,44,45 and 
+our studies on photochemical amination of dienol ethers, we 
+hypothesized that selective C3amination of pyridines could be 
+achieved in a photocatalytic manner. Indeed, we demonstrate 
+that Ncentered radicals, generated from Naminopyridinum 
+salts in a photochemical manner, react with Zincke imine to 
+regioselectively produce, after rearomatization, C3amino 
+pyridines.

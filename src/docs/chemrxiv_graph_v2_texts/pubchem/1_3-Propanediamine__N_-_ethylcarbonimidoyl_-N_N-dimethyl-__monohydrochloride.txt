@@ -1,0 +1,24 @@
+Name: 1,3-Propanediamine, N'-(ethylcarbonimidoyl)-N,N-dimethyl-, monohydrochloride
+Text:
+See also:  ... View More ...
+Properties:safety: Corrosive and Acute Toxic and Irritant and Health Hazard and Environmental Hazard
+smiles: CCN=C=NCCCN(C)C.Cl
+formula: C8H17N3.ClH
+chem_properties: Molecular Weight: 191.70 g/mol
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 5
+Exact Mass: 191.1189253 Da
+Monoisotopic Mass: 191.1189253 Da
+Topological Polar Surface Area: 28
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 134
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: No 
+

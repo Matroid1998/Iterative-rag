@@ -1,0 +1,35 @@
+Description:
+A nucleotide triphosphate involved in the polymerization of nucleic acids.
+
+Text:
+Genetic information of all life forms and viruses is stored in nucleic acid sequences 
+which are linear polymers synthesized in cells by the polymerization of four distinct nucleotide 
+triphosphates  adenosine (ATP), guanosine (GTP), cytidine (CTP), thymidine (TTP) and uridine 
+(UTP, which replaces TTP in RNA). Each nucleotide consists of a purine or pyrimidine 
+nitrogenous base attached to a ribose sugar (deoxyribose for DNA) together forming a nucleoside, 
+linked to a triphosphate group. In addition to their role as the building blocks of DNA and RNA, 
+
+2 
+
+nucleotides and nucleosides play critical roles in several biological processes including energy 
+storage (ATP) (1), signaling pathways (e.g. cyclic adenosine monophosphate, cAMP) (2, 3), innate 
+immunity (e.g. cyclic guanosine monophosphateadenosine monophosphate, cGAMP) (4, 5), as 
+cofactors for specific enzymes (e.g.
+
+
+---
+
+Description:
+Functions as a neurotransmitter.
+
+Text:
+sadenosylmethionine, SAM) (6, 7) and as neurotransmitters 
+(e.g. adenosine) (8). Chemical analogs of nucleotides and nucleosides therefore have a wide range 
+of applications, for example as substrates for artificial synthesis of DNARNA sequences with 
+increased resistance to nucleases (9, 10) or reduced effect on innate immune responses (11, 12), 
+inhibition of viral DNA and RNA polymerases (13, 14), inhibition of tumor cell replication (15, 
+16) and treatment of autoimmune diseases (17). Nucleoside analogs are also critical in 
+understanding the early evolution of life on earth under prebiotic conditions (1820) and could 
+provide a means of engineering synthetic organisms with expanded genetic alphabets (21). Thus, 
+exploration of molecular space of nucleoside analogs could have a huge impact on several areas 
+of fundamental and translational biology.

@@ -1,0 +1,29 @@
+Description:
+A clean energy carrier produced through the reduction of protons in the hydrogen evolution reaction.
+
+Text:
+Photocatalysts 1 are materials that facilitate photoreactions under light irradiation, typically by 
+absorbing photons and generating electronhole pairs that drive chemical transformations 2. These materials are integral to various applications, including water splitting, carbon dioxide 
+reduction, and environmental remediation. In the context of hydrogen evolution reaction (HER), 
+photocatalysts absorb light and utilize the energy to drive the reduction of protons to hydrogen, a 
+clean energy carrier. The efficiency of photocatalysts in HER is heavily influenced by their 
+electronic structure, light absorption properties, and charge transfer capabilities 3. Therefore, 
+enhancing these properties through modifications, such as doping or structural design, has become 
+a focal point for improving the performance of photocatalytic materials. One approach to improving photocatalytic activity is through nitrogen doping.
+
+
+---
+
+Description:
+A clean fuel produced via water splitting through photocatalysis.
+
+Text:
+As the demand for renewable energy sources rises, hydrogen, produced via 
+water splitting through photocatalysis, is increasingly recognized as a clean fuel that can replace 
+fossil fuels. Photocatalytic hydrogen evolution offers a sustainable approach to hydrogen 
+production, utilizing abundant resources such as sunlight and water, while generating no harmful 
+emissions 10. Photocatalysts, therefore, hold the potential to revolutionize the energy sector by 
+providing a method for efficient and environmentally friendly hydrogen production. Moreover, 
+photocatalysts are also critical in addressing pressing environmental challenges, including the 
+degradation of pollutants, CO2 reduction, and wastewater treatment, further cementing their 
+importance in future technologies. httpsdoi.org10.26434chemrxiv2025n5v68 ORCID httpsorcid.org0009000830408433 Content not peerreviewed by ChemRxiv. License CC BY 4.0

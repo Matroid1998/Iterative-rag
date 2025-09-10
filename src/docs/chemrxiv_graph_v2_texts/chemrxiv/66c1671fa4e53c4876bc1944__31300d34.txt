@@ -1,0 +1,66 @@
+Description:
+A ternary chalcogenide material with lower band gaps, making it competitive for solar cell applications.
+
+Text:
+In response to the challenges posed by the toxicity and 
+stability concerns inherent in inorganicorganic lead halide 
+perovskites, a class of ternary chalcogenide materials with the 
+general formula ABQ3, (A Ca, Ba, Sr; B  Zr, Hf, Ti; Q S Se) has 
+been put forth as a promising alternative for optoelectronic and 
+solar cell applications.12,13 A subset of the materials in this class 
+are known to take on a stable perovskite structure under at 
+least some conditions, including CaZrS3, SrZrS3, BaZrS3, CaHfS3, 
+and BaHfS3;1315 of these, BaZrS3 has garnered the most interest 
+largely because of its lower observed band gaps, falling within 
+the range of 1.75 to 1.94 eV.12,14,1621 While these values make 
+it potentially competitive for solar cell applications, especially in 
+a tandem device with silicon, these band gaps are somewhat 
+higher than the ideal for singlejunction solar cells and higher 
+than those accessible with lead halide perovskites.
+
+
+---
+
+Description:
+A compound whose band gap can be reduced through alloying with Ti4 or Se2.
+
+Text:
+However, 
+theoretical calculations based on density functional theory 
+(DFT) suggest that the band gap of BaZrS3 can be reduced 
+through alloying, either by incorporating 3d cation Ti4 to lower 
+the conduction band minimum (CBM) or by introducing 4p 
+anion Se2 to elevate the valence band maximum (VBM); both 
+of these possibilities have been investigated experimentally as 
+well as computationally.14,22,23 However, it should be noted that 
+neither BaTiS3 or BaZrSe3 is known to occur in a perovskite 
+phase; BaTiS3 crystallizes in a hexagonal (P63mmc) phase 
+consisting of onedimensional chains of edgesharing TiS6 
+octahedra interspersed with Ba2 cations.13,24 
+ Syntheses of these materials, particularly BaZrS3 and its 
+titanium alloys, have historically relied on very high 
+temperatures ( 900 oC), incompatible with typical thinfilm 
+device processing.13,18,25,26 Improved synthetic approaches have 
+recently allowed BaZrS3 powder to be produced at 
+temperatures as low as 550 C, employing molten BaS3 as a 
+flux.25,27,28 Some efforts have focused on preparing BaZrS3 thin 
+films; Surendran et al.
+
+
+---
+
+Description:
+Crystalline thin films produced at temperatures as low as 500 °C using solution deposition of molecular precursors.
+
+Text:
+achieved temperatures below 700 C 
+through pulsed laser deposition,29 while Comparotto et al. grew 
+BaZrS3 thin films at 600 C using sputtering and sulfurization.30,31 
+More recently, significant advances have been made by Agarwal 
+and Bart in preparing thin films from the solution deposition of 
+molecular precursors, with crystalline thin films of BaZrS33, 
+BaTiS3, and BaHfS3 produced at temperatures as low as 500 
+oC.32,33 
+ An alternative approach to solutionprocessed thin film 
+deposition is through the preparation and use of colloidal 
+nanocrystal inks;34,35 notably, Nag et al.

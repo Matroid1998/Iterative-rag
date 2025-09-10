@@ -1,0 +1,11 @@
+Description:
+An element whose concentrations can vary seasonally when water is treated to remove particles and dissolved organic matter.
+
+Text:
+Lead is a contaminant of concern in drinking water due to its welldocumented health 
+effects.1,2 Many jurisdictions require that it be monitored, but seasonal variation in lead 
+release can bias monitoring programs if it is not understood and accounted for. Temperaturedriven lead seasonality has been described in previous work,3 and 
+sampling guidance is often designed to control for temperature effects.4 
+But water quality parameters other than temperature can contribute to seasonal lead 
+concentrations, and aluminum is an important example. Aluminum concentrations can 
+vary seasonally when water is treated to remove particles and dissolved organic matter

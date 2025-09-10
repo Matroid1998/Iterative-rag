@@ -1,0 +1,30 @@
+Description:
+A commercially available biodegradable polyester.
+
+Text:
+Biodegradable polymers are defined as natural or synthetic polymers that can be broken down by biological 
+processes, typically into harmless natural compounds, over time1. These polymers have a wide range of 
+biomedical applications, including drug delivery systems, tissue engineering scaffolds, sutures, and various 
+implantable devices. They are designed to degrade gradually within the body, which can be advantageous 
+for controlled release of drugs or supporting tissue regeneration2. Aliphatic polyesters have emerged as 
+leading candidates due to their high susceptibility to enzymatic hydrolysis and degradation by 
+microorganisms3. Commercially available biodegradable polyesters such as poly(butylene succinate) 
+(PBS), poly(butylene succinatecoadipate) (PBSA), poly(caprolactone) (PCL), poly(lactic acid) (PLA), 
+poly(propylene carbonate) (PPC), and poly(hydroxyalkanoates) (PHAs) have shown great potential4.
+
+
+---
+
+Description:
+A polyester derived from biobased monomers with good biocompatibility and biodegradability.
+
+Text:
+Besides biodegradability, for successful medical applications, other material properties such as 
+biocompatibility, bioactivity, carefully considered mechanical properties, and processability needs to be 
+considered during the design and fabrication process. By addressing these properties diligently, it becomes 
+possible to develop medical devices that not only exhibit sustainability and biodegradability but also fulfill 
+the functional requirements for effective medical applications5, 6. Poly(butylene succinate) (PBS) is a polyester derived from biobased monomers and is receiving 
+an increasing attention for its potential biomedical applications due to its good biocompatibility and 
+biodegradability7. These properties make it suitable for various biomedical applications, including drug 
+delivery systems and medical devices8, 9. Tissue engineering is the most widely researched biomedical 
+field for PBS application where different forms (films, scaffolds) are being developed8.

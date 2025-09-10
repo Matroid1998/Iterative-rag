@@ -1,0 +1,13 @@
+Description:
+Molecules that exhibit differential chemical reactivity based on singlet and triplet states.
+
+Text:
+Chemical reactions whose outcomes are affected by electronic and nuclear spin are termed spin
+chemistry processes1. Nuclear and molecularelectronic spin statistics are known lead to the 
+differential chemical reactivity, for example, of singlet and triplet oxygen (O2) molecules. During the 
+intermediate stage of redox chemical reactions in which radical pairs are formed, spin evolution may 
+play a key role and change the outcome of chemical reactions2, leading to oscillatory occurrence of the 
+reaction products (termed quantum beatings)3, as well as other timedependent observable 
+quantities such as optical absorption4, fluorescence5,6 and spin polarization1,7. Often, a radicalpair 
+mechanism (RPM) drives these processes and leads to the photochemically induced dynamic nuclear 
+polarization (photoCIDNP)8,9, which manifests in substantial enhancements of NMR signal amplitude.

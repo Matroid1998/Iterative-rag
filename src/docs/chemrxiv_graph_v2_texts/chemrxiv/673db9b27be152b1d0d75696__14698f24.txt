@@ -1,0 +1,10 @@
+Description:
+Acts as a Lewis base donor forming ion pairs with reactive MAO species.
+
+Text:
+Fairly recently, reactive MAO species were detected during the 
+hydrolysis of Me3Al in polar solvent using the technique of ESI
+MS. 12  This sensitive analytical technique relies on ionpair 
+formation between reactive MAO species and a Lewis base donor 
+such as (Me3SiO)2SiMe2 (OMTS). In sufficiently low amounts, 
+OMTS reacts reversibly with MAO according to Scheme 1.9c,13

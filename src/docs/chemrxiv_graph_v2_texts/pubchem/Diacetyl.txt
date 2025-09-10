@@ -1,0 +1,31 @@
+Name: Diacetyl
+Text:
+Diacetyl appears as a clear colorless liquid with a strong chlorine-like odor. Flash point 80 °F. Less dense than water. Vapors heavier than air.
+Butane-2,3-dione is an alpha-diketone that is butane substituted by oxo groups at positions 2 and 3. It is a metabolite produced during the malolactic fermentation. It has a role as a Saccharomyces cerevisiae metabolite and an Escherichia coli metabolite.
+Diacetyl is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+2,3-Butanedione has been reported in Zea mays, Helianthus tuberosus, and other organisms with data available.
+Diacetyl is a natural by-product of secondary or malolactic fermentation. It is a vicinal diketone (two C=O groups, side-by-side) with the molecular formula C4H6O2. Carrier of aroma of butter, vinegar, coffee, and other foods. Beer sometimes undergoes a diacetyl rest, which entails waiting two or three days after fermentation is complete, to allow the yeast to absorb the diacetyl it produced earlier in the fermentation cycle. The makers of some wines, such as chardonnay, deliberately promote the production of diacetyl because of the feel and flavors it imparts.
+Diacetyl is a metabolite found in or produced by Saccharomyces cerevisiae.
+Carrier of aroma of butter, vinegar, coffee, and other foods.
+Properties:safety: Flammable and Corrosive and Acute Toxic and Irritant and Health Hazard
+smiles: CC(=O)C(=O)C
+formula: C4H6O2
+chem_properties: Molecular Weight: 86.09 g/mol
+XLogP3: -1.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 86.036779430 Da
+Monoisotopic Mass: 86.036779430 Da
+Topological Polar Surface Area: 34.1
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 71.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

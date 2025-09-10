@@ -1,0 +1,13 @@
+Description:
+Used in the design of redox mediators for oxidoreductase enzymes.
+
+Text:
+While many prior examples have demonstrated the design of diverse 
+redox mediators, such as osmium complexes, quinones, methyl viologen, cobaltocene and 
+ferrocene compounds for a variety of oxidoreductase enzymes, generally only three to five 
+compounds were employed to evaluate the parameters that control electron transfer rates.1113 
+Consequently, these insights may be less reliable in designing redox mediators for other enzyme 
+systems. Additionally, a critical work by Kano and coworkers demonstrated the apparent 
+importance of mediator electrostatics in dictating bioelectrocatalytic activity in a peroxidase 
+biosensor.14 Specifically, increased charge density on the mediator was shown to enhance 
+electrostatic interactions with peroxidase, thereby resulting in a higher electrochemical response.

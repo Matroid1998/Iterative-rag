@@ -1,0 +1,40 @@
+Description:
+Used in environmental catalysis and electrocatalysis.
+
+Text:
+Perovskites1 are a promising materials class2 for energyrelated 
+applications and key to future catalysis technologies.2b 
+Applications 
+of 
+perovskite 
+oxides 
+include 
+environmental 
+catalysis3 and electrocatalysis.2b Due to the high flexibility of the 
+perovskite structure in terms of composition, an immense number 
+of compounds can be obtained by combining different elements 
+in ABO3 materials and by varying the stoichiometry, e.g., in AB(1
+x)BxO3 or A(1x)AxBO3 systems. In the perovskite structure, 
+relatively large A cations (e.g., lanthanides) occupy sites that are 
+coordinated with 12 oxygen anions (O2) and smaller B cations 
+(e.g., transition metals) are coordinated with 6 oxygen anions to 
+form BO6 cornersharing octahedra.
+
+
+---
+
+Description:
+Catalyze the oxidation of CO to CO2 by molecular oxygen.
+
+Text:
+This prevents the explicit, atomistic modelling 
+of the full catalytic progression.5 Indeed, the surface motifs that 
+are present under reaction conditions and the reaction 
+mechanisms that operate on those surfaces are typically 
+unknown and continuously adapt to the progress of the reaction 
+and the associated changes in chemical potential. The CO oxidation to CO2 by molecular oxygen is an example of 
+an important reaction for environmental catalysis and for the 
+purification of hydrogen for energy generation.6 This reaction can 
+be catalyzed by perovskite oxides.3, 
+67 However, the 
+mechanisms operating on perovskites are not well understood.

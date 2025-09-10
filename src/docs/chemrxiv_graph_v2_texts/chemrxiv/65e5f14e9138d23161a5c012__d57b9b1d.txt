@@ -1,0 +1,13 @@
+Description:
+Degrades MIL125(Ti) during the photocatalytic HER process.
+
+Text:
+Interestingly, by comparing the effect of 
+triethanolamine (TEOA) and of methanol (MeOH) as hole scavengers for the photocatalytic HER 
+process with MIL125(Ti) and NH2MIL125(Ti), Eder and coworkers22 have shown that the charge 
+stabilization on the amino group is not favourable to the hole scavenging by MeOH, while TEOA 
+molecules degrade the MIL125(Ti). These works illustrate the complex interplay between the 
+different and often competitive primary photophysical and photochemical processes governing the 
+electronhole formation and reactivity in microporous photocatalysts. The properties of the excited 
+states, the mode of energy transfer and of charge separation toward the metal centre vary finely with 
+the nature and composition of the porous materials.

@@ -1,0 +1,22 @@
+Description:
+A support material for Pt clusters, affecting their catalytic properties.
+
+Text:
+They can even have properties specific to
+their given size, such as the increased activity of Al2O3supported Pt7 clusters relative to Pt4
+and Pt8 clusters3 for ethylene dehydrogention, or the sinterresistance of Pt3 and Pt7 clusters
+on TiO2
+5 or Pt4 and Pt7 clusters on Al2O3.6 These subnanocluster have also been shown
+to be highly fluxional, meaning that they can populate and interconvert between multiple
+isomers at catalytically relevant temperatures,7,8 and even dramatically change morphology
+within the ensemble as the partial pressure of reactants changes.9 So far, the treatment
+of fluxionality has been predominantly based on the thermodynamic picture, with cluster
+ensembles represented by Boltzmann populations (pi) of each isomer, calculated via the
+energy difference Ei between the lowestenergy structure and each higherlying one
+pi 
+exp EikBT
+PN
+j0 exp EjkBT
+(1)
+This operates on the underlying assumption that it is possible for these clusters to reach to
+tal thermal equilibrium on timescales relevant for the chemical reaction they are catalyzing.

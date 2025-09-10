@@ -1,0 +1,9 @@
+Description:
+Detected at ppm level using high-resolution diode laser spectroscopy.
+
+Text:
+Ciaffoni et al.38 reported the BE (1.68  0.02 kcal mol1) for H2S dimer where highresolution diode laser 
+spectroscopy has been applied for the detection of H2S at ppm level. They utilized different transitions within the 
+region of the 1  2  3 and 21  2 combination bands around 1.58 m. Using microwave spectroscopy, Das et 
+al.39 provided the geometrical parameters (i.e., SHS  2.778(9) and SHS  175(7)) of the H2S dimer. Dreux et al.35 calculated the BE for H2S dimer at the CCSD(T)ha(Qd)Z (where ha(Xd)Z represents ccpVQZ 
+for H atoms and augccpV(Qd)Z for S atoms) level to be 1.66 kcal mol1.

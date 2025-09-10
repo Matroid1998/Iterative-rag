@@ -1,0 +1,21 @@
+Description:
+A compound whose photoelectron spectra can be predicted using G0W0(GGAhybrid).
+
+Text:
+Never
+theless, this approach has been used to predict the
+G0W0(GGAhybrid) photoelectron spectra of NaCl 
+52 H2O,17 G0W0(PBE, r2SCAN, PBE0) IPs of solvated
+transition metal ions,18 and stochastic G0W0PBE pho
+toemission spectra of organic molecules.19,20
+Implicit solvation approaches, which replace explicit
+solvent configurations with polarizable continua or liq
+uid density distributions, are more computationally ex
+pedient and widely applied in conjunction with DFT
+in firstprinciples electrochemistry. These models by
+pass the phasespace sampling issue and capture the im
+pact of the liquid in a single electronic structure cal
+culation, which is particularly attractive for combining
+with highfidelity electronic structure methods such as
+GW. Some of the ingredients for solvated GW emerged
+in explorations of electrochemical systems with GW using

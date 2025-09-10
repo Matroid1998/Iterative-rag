@@ -1,0 +1,11 @@
+Description:
+A catalyst deposited on multiwalled carbon nanotubes to improve methanol formation efficiency.
+
+Text:
+This work did not receive much attention until 
+recently when the Wang9 and Robert10 groups separately reported improved FEMeOH with CoPc 
+deposited on multiwalled carbon nanotubes (MWCNTs). In the paper from the Robert group, it 
+was emphasized that only small amount of methanol could be obtained from CO2RR, while larger 
+amount could be generated from CO reduction reaction (CORR). In stark contrast, the Wang group 
+claimed that a FEMeOH as high as 44 could be obtained with CoPc deposited on MWCNT. However, most studies have been unable to obtain the improved FEMeOH observed by the Wang 
+group, instead finding CO to be the prevailing product even with monodispersed CoPc1115.

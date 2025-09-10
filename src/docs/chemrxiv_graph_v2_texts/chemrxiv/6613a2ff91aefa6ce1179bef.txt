@@ -1,0 +1,37 @@
+Description:
+Stored in metal hydrides at low pressures and moderate temperatures.
+
+Text:
+Solidstate hydrogen storage in metal alloys holds the potential to outper
+form conventional (liquidcompressed) methods on accounts of volumetric ca
+pacity, safety, and durability.1, 2, 3 One major advantage of hydrogen storage
+in metal hydrides is their energyecient way of storing hydrogen at relatively
+5
+low pressures, and moderate temperatures eliminating the need for liquefac
+tion or compression. The metalhydrogen bond oers the advantage of a high
+volumetric hydrogen density under moderate pressures.4, 5 Despite signicant
+performance improvements in metal hydrides over the past two decades, their
+practical application is hindered by the unattainable thermodynamic and kinetic
+10
+properties at ambient conditions for economical viability.6, 7 The storage prop
+erties of metal alloys are strongly related to the hydrogen pressure, temperature,
+and the alloy compositions.
+
+
+---
+
+Description:
+The content in a material changes with pressure and temperature as illustrated by the PCT isotherm.
+
+Text:
+This presents a vast chemical space that needs to
+be explored to discover suitable solidstate hydrogen storage materials. The PCT analysis is employed to assess the suitability of an alloy for hydro
+15
+gen storage. The PCT isotherm, also known as a pressurecompositionisotherm
+(PCI) curve, illustrates how the hydrogen content in a material changes with
+pressure and temperature. The PCT isotherms of an alloy are determined by
+conducting thermogravimetric and volumetric measurements with Sieverttype
+apparatus.8 They provide crucial information, like maximum reversible storage
+20
+capacity, hydride phase transition, and the equilibrium plateau pressure. The
+length of plateau determines how much hydrogen can be stored reversibly.

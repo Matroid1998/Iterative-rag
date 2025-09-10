@@ -1,0 +1,12 @@
+Description:
+An MRTADF core used in OLEDs to mitigate aggregation.
+
+Text:
+However, their typically planar structure also makes these materials 
+prone to aggregationcased quenching (ACQ). Thus, MRTADF OLEDs typically use the 
+emitter at very low doping concentrations, which results in a narrow recombination zone that 
+contributes to the severe efficiency rolloff in the devices. The incorporation of bulky 
+substituents on the MRTADF emitters has been demonstrated to be an effective strategy to 
+mitigate against the aggregation. Zhang et al.15 encapsulated the MRTADF core, DtBuCzB, 
+with an ortho,orthodiDtCzPh group within DCzBN and an orthoCzPh group in SCzBN 
+as a comparation (Figure S1) as a strategy to mitigate aggregation.

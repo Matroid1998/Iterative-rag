@@ -1,0 +1,11 @@
+Description:
+An amphiphilic polymer used to improve stability in biomedically relevant media.
+
+Text:
+The incorporation of amphiphilic polymers like poly(ethylene) glycol (PEG) into the NHC design improves NHCAuNPs stability in 
+biomedically relevant media. Johnson7b, 10f, Crudden10b, Nazemi10c, 11, 12c, and coworkers have successfully achieved this, obtaining 
+colloidally stable PEGylated NHCAuNPs (PEGNHCAuNP) by the bottomup reduction of PEGylated NHCgold complexes. However, topdown methods to install PEGylated NHCs on preprepared Au nanomaterials? would grant access to different Au 
+nanostructures and their differing physicochemical properties for specific applications.1b, 7b, 14 
+To install structurally intact PEGNHCs on AuNPs, a mild NHC activation approach is crucial to prevent damage to the NHC precursor 
+structure. Masked NHCs as a mixture of IMZHCO3 and NHCCO2 offer a gentle way to generate active NHCs via the HCO3 counterion 
+httpsdoi.org10.26434chemrxiv2024bsjl4 ORCID httpsorcid.org0000000263281896 Content not peerreviewed by ChemRxiv.

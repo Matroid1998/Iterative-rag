@@ -1,0 +1,12 @@
+Description:
+Ligands that favor high spin states of metal complexes through steric effects and can stabilize low spin states with electron withdrawing groups.
+
+Text:
+For example, Damrauer and Arom have shown that substitution of polypyridine or 
+bispyrazolylpyridine ligands close to the metal center favors the highspin states of the 
+complexes through an essentially steric effect.1420 In bispyrazolypyridine and other related 
+systems, remote substitution by electron withdrawing group was revealed to stabilize the low 
+spin states of the complexes, while electron donating groups stabilize the high spin states.16, 2128 
+Another key challenge for the implementation of spin crossover materials is the relative fragility 
+of the crossover properties and the complexes that display them.8, 29 In that context, 
+trispyrazolylborate (Tp) complex of iron(II) are particularly attractive. The archetypal FeTp2

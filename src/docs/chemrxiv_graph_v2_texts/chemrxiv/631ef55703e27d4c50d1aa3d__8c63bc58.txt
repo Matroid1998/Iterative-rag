@@ -1,0 +1,11 @@
+Description:
+Equilibrium strongly favors its formation rather than CO formation below 900 K or at increased H2 pressure.
+
+Text:
+Formation of the gasphase CO is allowed at high temperatures, with rG for rWGSR being downhill
+above 1097 K at standard state pressure and above 629 K at 2 MPa H2 pressure. On the other hand,
+CH3OH is only stable (rG  0) at lower temperatures, i.e. below 267 K at standard state pressure and
+below 452 K with 2 MPa H2 pressure. The formation of CO rather than CH3OH can therefore largely be
+achieved by controlling the reaction conditions. More importantly, the equilibrium strongly favors CH4
+formation rather than CO formation below 900 K or at increased H2 pressure.9,10 It is therefore
+important to have a catalyst that is selective towards CO instead of CH4 when the goal is the rWGSR. 2

@@ -1,0 +1,25 @@
+Name: Antimony trichloride
+Text:
+Antimony trichloride is a colorless crystalline solid. It is shipped as a solid or liquid solution. It is decomposed slowly by water to hydrochloric acid and antimony oxychloride. Antimony oxychloride is soluble in hydrochloric acid but insoluble in water. It is corrosive to metals and tissue.
+Antimony trichloride is an inorganic chloride salt with formula SbCl3. It is used as a reagent for detecting vitamin A and related carotenoids, reacting with the carotenoid to form a blue complex that can be measured by colorimetry (the Carr-Price test). Solutions of antimony trichloride were formerly used for dissolving and removing horn stubs from calves and goats. It has a role as a Lewis acid, an apoptosis inducer and a colorimetric reagent. It is an antimony molecular entity and an inorganic chloride. It derives from a hydride of a stibane.
+Properties:safety: Corrosive and Environmental Hazard
+smiles: Cl[Sb](Cl)Cl
+formula: Cl3Sb
+chem_properties: Molecular Weight: 228.11 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 225.81037 Da
+Monoisotopic Mass: 225.81037 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

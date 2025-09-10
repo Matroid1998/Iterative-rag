@@ -1,0 +1,34 @@
+Name: 2,4-Diisocyanato-1-methylbenzene
+Text:
+Toluene Diisocyanate can cause cancer according to California Labor Code.
+Toluene diisocyanate appears as a clear colorless to pale yellow liquid with a pungent odor. Denser than water. Burns, but may be difficult to ignite. Vapors are heavier than air. Vapors irritate the respiratory system. Toxic under prolonged exposure to vapor in low concentrations or short exposure to high concentrations of vapor. Carcinogenic. Produces toxic oxides of nitrogen during combustion. Used to make polyurethane foams and paints.
+Toluene-2,4-diisocyanate appears as colorless to yellow or dark liquid or solid with a sweet, fruity, pungent odor. Melting point 68 °F (20 °C). Evolves CO2 when moist. This can cause over-pressurization in an enclosed space.Toxic and carcinogenic. Used in polyurethane foams, coatings in floor and wood finishes, sealers, paints, concrete sealers for aircraft and tank trucks, elastomers in clay pipe seals, elastomers and coatings, and crosslinking agent for nylon.   Rate of onset: Immediate  Persistence: Hours - weeks  Odor threshold: 0.4 - 2 ppm  Source/use/other hazard: Polyurethane (wood coatings, foam), nylon industries; skin irritant.
+Toluene 2,4-diisocyanate is a toluene meta-diisocyanate in which the isocyanato groups are at positions 2 and 4 relative to the methyl group on the benzene ring. It has a role as a hapten and an allergen.
+2,4-Toluene diisocyanate is primarily used as a chemical intermediate in the production of polyurenthane products. 2,4-Toluene diisocyanate is extremely toxic from acute (short-term) and chronic (long-term) exposures. Acute exposure to high levels of 2,4-toluene diisocyanate in humans, via inhalation, results in severe irritation of the skin and eyes and affects the respiratory, gastrointestinal, and central nervous systems (CNS). Chronic inhalation exposure to 2,4-toluene diisocyanate in humans has resulted in significant decreases in lung function in workers, an asthma-like reaction characterized by wheezing, dyspnea, and bronchial constriction. Animal studies have reported significantly increased incidences of tumors of the pancreas, liver, and mammary glands from exposure to 2,4-toluene diisocyanate via gavage (experimentally placing the chemical in the stomach). The International Agency for Research on Cancer (IARC) has classified 2,4-toluene diisocyanate as a Group 2B, possible human carcinogen.
+Toluene Diisocyanate is a synthetic mixture of the 2,4- and 2,6-isomers is a volatile, colorless to pale yellow liquid that is soluble in many organic solvents. These isomers are used primarily in the synthesis of polyurethane foams. When heated to decomposition, toluene diisocyanate emits toxic fumes of cyanides and nitrogen oxides. Exposure of humans to toluene diisocyanate causes tissue irritation, especially to the mucous membranes, and can produce severe respiratory problems. These isomers are reasonably anticipated to be human carcinogens. (NCI05)
+Toluene diisocyanate, also know as TDI, is a chemical compound of cyanide and an aromatic diisocyanate with the formula CH3C6H3(NCO)2. It is used in the manufacture of polyurethane. (L577) Two of the six possible isomers are commercially important: 2,4-TDI (CAS: 584-84-9) and 2,6-TDI (CAS: 91-08-7). 2,4-TDI is produced in the pure state, but TDI is often marketed as 80/20 and 65/35 mixtures of the 2,4 and 2,6 isomers respectively. It is produced on a large scale, accounting for 34.1% of the global isocyanate market in 2000, second only to MDI.
+2,4-Toluene diisocyanate is a chemical compound of cyanide.
+Skin irritant and allergen used in the manufacture of polyurethane foams and other elastomers.
+See also: (Diisocyanatomethyl)benzene (annotation moved to); Benzene, 2,4-diisocyanato-1-methyl-, homopolymer (annotation moved to) ... View More ...
+Properties:safety: Corrosive and Acute Toxic and Irritant and Health Hazard
+smiles: CC1=C(C=C(C=C1)N=C=O)N=C=O
+formula: C9H6N2O2
+chem_properties: Molecular Weight: 174.16 g/mol
+XLogP3: 3.9
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 2
+Exact Mass: 174.042927438 Da
+Monoisotopic Mass: 174.042927438 Da
+Topological Polar Surface Area: 58.9
+Heavy Atom Count: 13
+Formal Charge: 0
+Complexity: 265
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,21 @@
+Description:
+Emissions from fossil fuels causing a severe environmental crisis.
+
+Text:
+Rising living standards, thriving industries, and increased transportation in emerging and developed 
+economies have resulted in a recordhigh energy demand, which is mostly met by the combustion of fossil fuels. As a result, CO2 emissions from fossil fuels are causing a severe environmental crisis and a threat to social 
+development. Electrocatalytic CO2 (CO2RR) reduction has emerged as a viable and potential transformative 
+technology to close the carbon cycle. Although the production of hydrocarbons (methanol, ethanol, ethylene etc.)
+
+
+---
+
+Description:
+Can be reduced to CO through a reaction involving two electrons and two proton transfers.
+
+Text:
+through CO2RR is still challenging in terms of selectivity and efficiency,13 such products can be obtained 
+through a tandem system where CO2 is reduced to CO, and CO subsequently employed as a renewable feedstock 
+for the FischerTropsch reaction or further electrochemically converted to multicarbon products.4,5 CO2 
+reduction to CO involves only two electrons and two proton transfers; the state of the art catalysts for the reaction 
+are based on Au and Ag.6,7, first reported by Hori and coworkers.8

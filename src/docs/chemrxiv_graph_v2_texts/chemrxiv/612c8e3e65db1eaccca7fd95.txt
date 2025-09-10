@@ -1,0 +1,72 @@
+Description:
+Used in lithium-ion batteries for high energy densities and stable capacity retention.
+
+Text:
+Cheap, highperformance, and safe energy storage solutions are 
+needed to address the increasing demand for portable electronics 
+and the transition to electric mobility. Lithiumion batteries have 
+replaced conventional secondary battery technology (like nickel
+cadmium and nickelmetal hydride batteries) due to their high 
+energy densities, high operating voltages, and stable capacity 
+retention during opencircuit rest.1 Lithium metal anodes were 
+quickly replaced by lithiumintercalated graphitic materials in 
+order to avoid the formation of dendrites that resulted in short 
+circuiting of the two electrodes.
+
+
+---
+
+Description:
+Metallic lithium has a high energy density.
+
+Text:
+However, while lithiumgraphite 
+intercalates are safer and more stable they have only a tenth of 
+the energy density of metallic lithium.2 Silicon is a good active 
+material for Liion anodes because it has a superior theoretical 
+capacity of 3579 mA h g1 (or 8340 mA h cm3) for Li15Si4, and  
+unlike some transition metals  it is not toxic and abundant.
+
+
+---
+
+Description:
+Prevents the formation of metallic lithium around the anode during discharging in Li-graphite batteries.
+
+Text:
+Moreover, its alloying reaction with lithium triggered at 0.3 V vs. 
+LiLi, prevents the formation of metallic lithium around the anode 
+during discharging  a detrimental process observed for Li
+graphite batteries known as lithium plating  and allows the use 
+of SiLi electrodes under harsher conditions.3 The large number 
+of lithium atoms that silicon can store, however, induces large 
+volume changes during chargedischarge cycles (300).3 The 
+mechanical stress induced by these drastic volume changes 
+leads to the pulverization of the silicon active material, loss of 
+contact of the electrode film with the current collector, and loss of 
+overall mechanical integrity of the whole electrode. Repeated 
+cycles of expansion and contraction of silicon expose pristine 
+silicon surfaces and induce the reformation of solid electrolyte 
+interfaces (SEI).
+
+
+---
+
+Description:
+Gradually consumed and limits the diffusion of charge carriers in the SEI.
+
+Text:
+This process contributes to the gradual 
+consumption of lithium and electrolyte, and it limits the diffusion of 
+charge carriers through the expanding SEI.34 It is difficult to 
+counter these detrimental mechanical and chemical changes to 
+siliconbased electrodes because conventional methods of 
+electrode assembly rely on the mixing of multiple components that 
+are held together by weak, dispersive forces. In laboratory settings, some strategies were developed to address 
+the inherent flaws of these multicomponent assemblies. For 
+example, shaping silicon into hierarchical, nanosized, or porous 
+structures buffers some of its dramatic volume expansion during 
+lithiation.4d On the downside, nanostructured silicon is 
+susceptible to restructuring during battery operation, and its larger 
+specific surface promotes reactions with the electrolyte to form 
+more of electrochemically inactive SEI.

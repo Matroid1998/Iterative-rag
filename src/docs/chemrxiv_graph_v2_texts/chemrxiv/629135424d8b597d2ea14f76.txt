@@ -1,0 +1,11 @@
+Description:
+A reactive element involved in oxidation processes and forming stable phases upon decomposition.
+
+Text:
+Most materials inevitably oxidize in terrestrial environments.1 However, oxidation into a 
+selfpassivating phase can protect the bulk from further decomposition. To be effective, the self
+passivating phase must be thermodynamically stable with respect to further oxidation and 
+mechanically matched to the parent material to form a continuous layer that blocks further 
+oxygen. The former can be estimated by determining the most stable phases upon decomposition 
+in oxygen, and the latter by empirical rules such as the PillingBedworth ratio (PBR) (i.e., that 
+the ratio in the molar volume of the two materials is between 1 and 2).2 Online databases, such as

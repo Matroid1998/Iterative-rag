@@ -1,0 +1,14 @@
+Description:
+A matrix used in MALDI-MSI for negative-ion mode metabolite analysis.
+
+Text:
+Examples of MALDIMSI of metabolite distributions in cancer include glioblastoma17, 
+thyroid cancer subtypes18, pancreatic ductul adenocarcinoma19 and breast cancer brain 
+metastasis.20 
+MALDIMSI of metabolites is typically performed in the negativeion mode using 
+matrices 9aminoacridine (9AA), diaminonaphthalene (DAN) and N(1naphthyl) 
+ethylenediamine dihydrochloride (NEDC).21 However, analyte coverage is often limited by 
+varied and often low ionisation efficiencies of analytes (as low as 109), an effect further 
+compounded by the complex nature of biological samples leading to ion suppression effects. To help overcome this limitation and broaden the overall analyte coverage and sensitivity of 
+MSI, postionisation (PI) techniques that enhance ionisation efficiencies by up to 2orders of 
+magnitude have seen rapid development in recent years.

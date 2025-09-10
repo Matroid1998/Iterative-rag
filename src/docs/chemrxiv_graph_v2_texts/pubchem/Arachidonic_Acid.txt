@@ -1,0 +1,28 @@
+Name: Arachidonic Acid
+Text:
+Arachidonic acid is a long-chain fatty acid that is a C20, polyunsaturated fatty acid having four (Z)-double bonds at positions 5, 8, 11 and 14. It has a role as a human metabolite, an EC 3.1.1.1 (carboxylesterase) inhibitor, a Daphnia galeata metabolite and a mouse metabolite. It is an icosa-5,8,11,14-tetraenoic acid, an omega-6 fatty acid and a long-chain fatty acid. It is a conjugate acid of an arachidonate. It derives from a hydride of a (5Z,8Z,11Z,14Z)-icosa-5,8,11,14-tetraene.
+Arachidonic acid has been reported in Agaricus blazei, Mortierella hygrophila, and other organisms with data available.
+Arachidonic Acid is an unsaturated, essential fatty acid. It is found in animal and human fat as well as in the liver, brain, and glandular organs, and is a constituent of animal phosphatides. It is formed by the synthesis from dietary linoleic acid and is a precursor in the biosynthesis of prostaglandins, thromboxanes, and leukotrienes.(ChemID Plus)
+An unsaturated, essential fatty acid. It is found in animal and human fat as well as in the liver, brain, and glandular organs, and is a constituent of animal phosphatides. It is formed by the synthesis from dietary linoleic acid and is a precursor in the biosynthesis of prostaglandins, thromboxanes, and leukotrienes.
+Properties:safety: Irritant
+smiles: CCCCC/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)O
+formula: C20H32O2
+chem_properties: Molecular Weight: 304.5 g/mol
+XLogP3: 6.3
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 14
+Exact Mass: 304.240230259 Da
+Monoisotopic Mass: 304.240230259 Da
+Topological Polar Surface Area: 37.3
+Heavy Atom Count: 22
+Formal Charge: 0
+Complexity: 362
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 4
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

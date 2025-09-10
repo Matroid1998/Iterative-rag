@@ -1,0 +1,19 @@
+Description:
+Has a decomposition temperature of 450, indicating high thermal stability.
+
+Text:
+Among the different ILs used, those 
+based on the anion bis(trifluoromethanesulfonyl)imide (TFSI) have been very popular 
+because of their high thermal and electrochemical stabilities 8. For example, the 
+decomposition 
+temperature 
+of 
+lbutyl3methylimidazolium 
+bis
+(trifluromethanesulflonyl)imide (C4mimTFSI) has been reported to be 450, which is 
+much more thermally stable than carbonate based solvents 9. However, ILs involving the 
+TFSI anions are highly viscous and cause corrosion to the aluminium cathode current 
+collector 10,11. It has been found that ILs involving bis(fluorosulfonyl) imide (FSI), an 
+anion which is the close structural analogue to that of the TFSI, shows a significantly lower 
+viscosity than TFSI analogues (e.g., EMIFSI 18 mPas; EMITFSI  33 mPas) 12
+14. 19 Furthermore, FSI has less problems of aluminium corrosion 15,16.

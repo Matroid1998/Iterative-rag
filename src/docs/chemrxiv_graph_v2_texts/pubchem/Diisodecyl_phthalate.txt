@@ -1,0 +1,30 @@
+Name: Diisodecyl phthalate
+Text:
+Di-isodecyl Phthalate (DIDP) can cause developmental toxicity according to The National Toxicology Program's Center for the Evaluation of Risks to Human Reproduction.
+Diisodecyl phthalate appears as colorless liquid. May float or sink in water. (USCG, 1999)
+Diisodecyl phthalate is a phthalate ester and a diester.
+Diisodecyl phthalate has been reported in Streptomyces parvulus with data available.
+Diisodecyl phthalate is a phthalate ester. Phthalate esters are esters of phthalic acid and are mainly used as plasticizers, primarily used to soften polyvinyl chloride. They are found in a number of products, including glues, building materials, personal care products, detergents and surfactants, packaging, children's toys, paints, pharmaceuticals, food products, and textiles. Phthalates are hazardous due to their ability to act as endocrine disruptors. They are being phased out of many products in the United States and European Union due to these health concerns. (L1903)
+See also:  ... View More ...
+Properties:safety: Environmental Hazard
+smiles: CC(C)CCCCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCCCCCC(C)C
+formula: C28H46O4
+chem_properties: Molecular Weight: 446.7 g/mol
+XLogP3: 10.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 20
+Exact Mass: 446.33960994 Da
+Monoisotopic Mass: 446.33960994 Da
+Topological Polar Surface Area: 52.6
+Heavy Atom Count: 32
+Formal Charge: 0
+Complexity: 442
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,31 @@
+Name: Ethane
+Text:
+Ethane appears as a colorless odorless gas. It is easily ignited. The vapors are heavier than air. It can asphyxiate by the displacement of air. Under prolonged exposure to fire or intense heat the containers may rupture violently and rocket. Contact with the liquid may cause frostbite.
+Ethane, refrigerated liquid appears as a colorless odorless very cold liquid. Boils at -88.6 °C. Easily ignited and a flame can flash back to the source of a leak very easily. Vapors are heavier than air. Vapors can asphyxiate by the displacement of air from enclosed spaces. Direct contact can cause frostbite. Contact of very cold liquid with water may result in vigorous or violent boiling. If the water is hot, there is the possibility that a liquid "superheat" explosion may occur. Pressures may build to dangerous levels if liquid gas contacts water in a closed container. Under prolonged exposure to fire or intense heat the containers may rupture violently and rocket. Used in manufacturing other chemicals.
+Ethane is an alkane comprising of two carbon atoms. It has a role as a refrigerant and a plant metabolite. It is a gas molecular entity and an alkane.
+Ethane has been reported in Humulus lupulus, Aster scaber, and other organisms with data available.
+ETHANE is a small molecule drug with a maximum clinical trial phase of II and has 1 investigational indication.
+A two carbon alkane with the formula H3C-CH3.
+See also: Ethyl (annotation moved to).
+Properties:safety: Flammable and Compressed Gas
+smiles: CC
+formula: C2H6
+chem_properties: Molecular Weight: 30.07 g/mol
+XLogP3: 1.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 30.0469501914 Da
+Monoisotopic Mass: 30.0469501914 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 2
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

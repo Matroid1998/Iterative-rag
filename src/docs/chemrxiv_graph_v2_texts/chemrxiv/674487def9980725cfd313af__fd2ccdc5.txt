@@ -1,0 +1,13 @@
+Description:
+Substrates that show a much higher affinity toward Sirt2 than acetylated substrates.
+
+Text:
+The binding of longchain acyllysine substrates, which show 
+a much higher affinity toward Sirt2 than acetylated substrates, induces the formation of a hydrophobic, 
+Sirt2 specific subpocket at the end of the acyllysine channel.9,10 In 2015, our group first identified this 
+pocket and termed it selectivity pocket, in the course of the discovery of the Sirt2selective inhibitor 
+SirReal2 (Figure 1B).22 SirReal2 opens this pocket primarily through the reorientation of the hinge 
+region consisting of amino acids 138143 and further locks Sirt2 in a catalytically inactive opened 
+state. The inhibitor class was further improved towards more potent scaffolds, especially with the 
+implementation of a triazole residue that forms specific interactions with Arg97 that led to increased 
+affinities (e.g., Mz242, Figure 1B).

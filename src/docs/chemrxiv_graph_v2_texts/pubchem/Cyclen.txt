@@ -1,0 +1,25 @@
+Name: Cyclen
+Text:
+1,4,7,10-tetraazacyclododecane is an azacycloalkane that is cyclododecane in which the carbon atoms at positions 1, 4, 7 and 10 are replaced by nitrogen atoms. It is a saturated organic heteromonocyclic parent, a crown amine and an azacycloalkane.
+Properties:safety: Corrosive and Irritant and Environmental Hazard
+smiles: C1CNCCNCCNCCN1
+formula: C8H20N4
+chem_properties: Molecular Weight: 172.27 g/mol
+XLogP3: -2.4
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 172.16879665 Da
+Monoisotopic Mass: 172.16879665 Da
+Topological Polar Surface Area: 48.1
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 65.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

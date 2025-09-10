@@ -1,0 +1,16 @@
+Description:
+Reactive species generated using strong bases or masked forms like NHCCO2 and IMZHCO3.
+
+Text:
+Topdown approaches typically comprise of 
+procedures either utilizing strong bases to generate NHCs, the deposition of NHCAu complexes or through the use of NHC
+silvercopper complexes as NHC transfer agents.8 Of note is the use of masked NHCs including the NHCCO2 adduct (NHCCO2) and 
+IMZ hydrogen carbonates (IMZHCO3), which marks a mild topdown approach to generate reactive NHC species facilitating the ligand 
+exchange with metallic surfaces.9 
+NHCAuNPs exhibit remarkable stability in challenging biological media bearing high concentrations of naturally occurring thiols, a 
+broad pH range as well as oxidative environments, making them suitable for use in various applications.10 They can also be 
+functionalized with amphiphilic, biocompatible polymers to endow further stability and processability in both aqueous media and 
+organic solvents.10b, 10c, 10f, 10g, 11 Furthermore, distinct conjugation groups can be implemented in the NHC design, facilitating post
+synthetic modification of NHCAuNPs towards their final application.12 Given the limited reports of biomedical applications utilizing 
+the advantage of the strong NHCAuNP bond,7b, 9b, 13 the development of a versatile NHCAuNP platform with a straightforward 
+fabrication protocol for biomedical applications would be of huge value in expanding this promising area.

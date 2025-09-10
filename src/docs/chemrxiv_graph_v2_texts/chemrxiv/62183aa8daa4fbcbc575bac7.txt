@@ -1,0 +1,15 @@
+Description:
+Mononuclear Fe active sites in enzymes can perform selective partial oxidation of substrates with strong CH bonds.
+
+Text:
+Direct methanetomethanol conversion with high selectivity remains a challenge1 in 
+unlocking natural gas as a feedstock.2 Catalysts that can readily convert methane into methanol 
+must be potent enough to activate the strong CH bonds of methane but also release methanol to 
+facilitate catalyst turnover and avoid catalyst poisoning or methanol overoxidation.3, 4 Thus, the 
+design of the optimal catalysts for methanetomethanol or similarly challenging reactions 
+requires balancing inherent tradeoffs between activity, selectivity, and stability, motivating an 
+exhaustive search over chemical space.5 Enzymes with mononuclear Fe active sites (e.g. TauD68 
+or P4509, 10) have demonstrated the capability to perform selective partial oxidation of substrates 
+with strong CH bonds, including methane. These enzymes have thus motivated the design of 
+ligands1114 for synthetic systems, including both homogeneous1518 and heterogeneous1922 
+catalysts.

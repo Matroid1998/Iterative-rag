@@ -1,0 +1,11 @@
+Description:
+A chlorinated solvent used in catalytic amidation reactions.
+
+Text:
+For larger scale reactions, DeanStark water removal is employed as this is considerably more 
+efficient in terms of solvent usage and scalability, and there are a few reports of direct amidation reactions 
+catalysed by boric acid or simple boronic acids being employed on an industrial scale.7 The solvents used for 
+catalytic amidation reactions are typically aromatic hydrocarbons (toluene,2a,3a fluorobenzene2b), chlorinated 
+solvents (1,2dichloroethane2i) or ethers (Et2O,5d THF,4a4b CPME,3e TAME3g3h), and these are often sub
+optimal from a safety andor sustainability perspective.8 In addition, these relatively nonpolar solvents do 
+not effectively solubilise many polar functionalised carboxylic acids or amines.

@@ -1,0 +1,19 @@
+Description:
+Facilitates rapid Na-ion transport.
+
+Text:
+This promise was bolstered by the low 
+melting points of Na and S and the discovery of rapid Naion transport in alumina, which 
+catalyzed interest in liquidelectrode systems.2 However, recent advances in room
+temperaturecompatible aprotic electrolytes have revived the interest in NaS batteries that 
+function at ambient temperatures.3 
+Recent NaS systems with heavily cocktailoptimized liquid electrolytes have exhibited 
+impressive performance, showing an initial capacity of 1635 mAhg (sulfur weight basis) at 
+0.1C, with 56.7 capacity retention over 200 cycles and high coulombic efficiency.4 However, 
+even these advancements fall short of the highperformance criteria required for largescale 
+energy storage and mobility applications, particularly given the 10 year lifespans now 
+standard for conventional Liion batteries.5 This raises the question of whether electrolyte 
+engineering alone can overcome the fundamental challenges inherent in sulfurcathode cells, 
+such as (i) polysulfide dissolution and shuttle effects and (ii) significant volume changes during 
+redox cycling, both of which contribute to chemomechanical degradation at the cathode
+electrolyte interface.

@@ -1,0 +1,13 @@
+Description:
+A resource that can be transformed into liquid fuels and basic chemicals.
+
+Text:
+Syngas (COH2) serves as a crucial platform for transforming the nonpetroleum carbon 
+resources, such as coal, natural gas, shale gas and biomass, into liquid fuels and basic chemicals. 13 In that context, major efforts have focused on the direct conversion of syngas into ethanol, 
+an ideal fuel additive, promising hydrogen carrier, and versatile buildingblock in chemical 
+synthesis.48 Among potential candidates, Rhbased catalysts show promising ethanol 
+selectivity in syngas conversion in the presence of specific additives, socalled promoters.912 
+Among them, Fe has been shown to be particularly efficient to trigger ethanol production of 
+Rhbased catalysts.9, 1317 However, the promotional effect of Fe under syngas conversion 
+conditions remains poorly understood, partly because of the illdefined catalyst structures 
+resulting from conventional synthetic approaches.

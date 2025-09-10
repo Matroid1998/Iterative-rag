@@ -1,0 +1,12 @@
+Description:
+Involved in electrochemical conversion processes on catalyst surfaces.
+
+Text:
+Optimization of electrochemical systems such as electrolyzers for CO2 conversion involves
+considering the elementary reactions occurring on the catalyst surface and the tuning of
+multiphysical transport processes 1. While catalyst optimization has seen significant
+advancements guided by binding energy descriptors and volcano plots 2, the intricate
+multiscale nature of the catalystelectrolyte interface known as microenvironment re
+mains to be elucidated 35. Engineering the microenvironment is especially relevant in
+electrochemical CO2 reduction (eCO2R) as the reaction cannot occur on Cu, Ag and Au
+if cations are not present in the electrolyte 68.

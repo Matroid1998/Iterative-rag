@@ -1,0 +1,8 @@
+Description:
+A residue that is specific for bioconjugation reactions in peptides and proteins.
+
+Text:
+Residuespecific reactions that enable the siteselective incorporation of artificial units into 
+peptidesproteins have advanced research relevant to a variety of biological and biomedical disciplines 
+that involve peptideprotein molecules.1 Such reactions include bioconjugations specific to cysteine 
+(Cys) and tryptophan (Trp), which are both low in relative abundance in proteins.

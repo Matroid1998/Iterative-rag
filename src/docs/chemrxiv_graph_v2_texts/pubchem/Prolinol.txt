@@ -1,0 +1,25 @@
+Name: Prolinol
+Text:
+Prolinol is an amino alcohol formed by reduction of the amino acid proline.
+Properties:safety: Irritant
+smiles: C1CC(NC1)CO
+formula: C5H11NO
+chem_properties: Molecular Weight: 101.15 g/mol
+XLogP3: -0.3
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 101.084063974 Da
+Monoisotopic Mass: 101.084063974 Da
+Topological Polar Surface Area: 32.3
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 56
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

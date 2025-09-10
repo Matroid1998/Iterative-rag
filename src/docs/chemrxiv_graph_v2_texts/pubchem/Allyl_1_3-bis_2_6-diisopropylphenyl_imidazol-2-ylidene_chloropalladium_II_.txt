@@ -1,0 +1,23 @@
+Name: Allyl(1,3-bis(2,6-diisopropylphenyl)imidazol-2-ylidene)chloropalladium(II)
+Text:
+Properties:safety: Flammable and Irritant
+smiles: [Pd+2]
+formula: Pd+2
+chem_properties: Molecular Weight: 106.42 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 105.90348 Da
+Monoisotopic Mass: 105.90348 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 1
+Formal Charge: 2
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

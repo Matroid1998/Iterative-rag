@@ -1,0 +1,13 @@
+Description:
+Membranes used for spotting E.coli expression clones, ensuring consistent protein concentrations.
+
+Text:
+The 
+extensive usage of the protein microarrays can be attributed to two innate characteristics unique 
+to the platform i) E.coli expression clones are spotted directly on PVDF membranes, ensuring 
+consistent protein concentrations intrinsic to each individual expression clone, thereby avoiding 
+the need for cumbersome largescale protein purification and characterisation procedures 
+essential for the generation of most protein microarray formats; and ii) each individual colony 
+spot on the macroarray comprises of a single recombinant human protein and a collection of all 
+E.coli proteins, thereby providing a natural blocking background consistent across the entire 
+array and hence ensuring excellent experimental signal to noise ratios 20.

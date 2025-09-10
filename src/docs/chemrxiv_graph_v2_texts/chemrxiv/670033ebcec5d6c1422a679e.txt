@@ -1,0 +1,44 @@
+Description:
+A metal anode used in solid-state batteries with low potential.
+
+Text:
+26 
+Solidstate batteries (SSBs) are recently receiving considerable attention in the scientific 
+27 
+community because of their potential to outperform conventional lithiumion batteries.1,2 The 
+28 
+potential advantages of SSBs originate from their solid nature and singleion conductivity, 
+29 
+improved safety and the possibility of efficient cell stacking (bipolar stacking). 1 SSBs will likely 
+30 
+only overcome conventional lithiumion batteries in terms of energy density, if they feature low
+31 
+potential, highenergydensity anodes such as Si (ref. 3) or Limetal anodes. 4,5 Most highly
+32 
+conducting solid electrolytes decompose at the low potentials of Si and Li metal anodes.
+
+
+---
+
+Description:
+A metal that is irreducible or fully reduced and thermodynamically stable against low-potential anodes.
+
+Text:
+68 The 
+33 
+decomposition into solid electrolyte interphase (SEI) entails irreversible Liloss  particularly an 
+34 
+issue for industrially attractive zeroLiexcess battery cells.9 Irreversible Li loss from SEI formation 
+35 
+may be mediated in three ways (i) by limiting the contact area between the solidelectrolyte and 
+36 
+anode10,11, (ii) by adding sacrificial Li agents such as for instance Li3N to the cathode 12,13 or (iii) 
+37 
+by designing solid electrolytes which are thermodynamically stable at the operating potentials of 
+38 
+lowpotential anodes. 39 
+Irreducible or fully reduced phases are thermodynamically stable against Li metal and are thus 
+40 
+inherently irreducible against lowpotential anodes. Irreducible refers to all elements (except for 
+41 
+Li) in the material being in their lowest possible formal oxidation state (i.e.

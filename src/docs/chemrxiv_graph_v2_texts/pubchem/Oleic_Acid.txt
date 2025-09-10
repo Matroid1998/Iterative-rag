@@ -1,0 +1,33 @@
+Name: Oleic Acid
+Text:
+Oleic acid is a colorless to pale yellow liquid with a mild odor. Floats on water. (USCG, 1999)
+Oleic acid is an octadec-9-enoic acid in which the double bond at C-9 has Z (cis) stereochemistry. It has a role as an EC 3.1.1.1 (carboxylesterase) inhibitor, an Escherichia coli metabolite, a plant metabolite, a Daphnia galeata metabolite, a solvent, an antioxidant and a mouse metabolite. It is a conjugate acid of an oleate. It derives from a hydride of a cis-octadec-9-ene.
+An unsaturated fatty acid that is the most widely distributed and abundant fatty acid in nature. It is used commercially in the preparation of oleates and lotions, and as a pharmaceutical solvent. (Stedman, 26th ed)
+Oleic Acid has been reported in Calodendrum capense, Camellia sinensis, and other organisms with data available.
+OLEIC ACID is a small molecule drug with a maximum clinical trial phase of II (across all indications) and has 2 investigational indications.
+Oleic acid is an unsaturated fatty acid that occurs naturally in various animal and vegetable fats and oils. It is an odorless, colourless oil, although commercial samples may be yellowish. In chemical terms, oleic acid is classified as a monounsaturated omega-9 fatty acid. It has the formula CH3(CH2)7CH=CH(CH2)7COOH. The term "oleic" means related to, or derived from, oil or olive, the oil that is predominantly composed of oleic acid. Oleic acid is the most widely distributed and abundant fatty acid in nature. It is used commercially in the preparation of oleates and lotions, and as a pharmaceutical solvent.  Oleic acid is a major constituent of plant oils e.g. olive oil (about 80%), almond oil (about 80%) and many others, mainly as glyceride. It is also a constituent of tall oil and present in fruits. Oleic acid is a food additive and is used in manufacturing of surfactants, soaps, plasticizers. It is also an emulsifying agent in foods and pharmaceuticals. Oleic acid is a known skin penetrant and may also be used as an herbicide, insecticide, and fungicide.
+Oleic acid is a metabolite found in or produced by Saccharomyces cerevisiae.
+An unsaturated fatty acid that is the most widely distributed and abundant fatty acid in nature. It is used commercially in the preparation of oleates and lotions, and as a pharmaceutical solvent. (Stedman, 26th ed)
+See also: Elaidic Acid (has subclass); Octadecenoic Acid (subclass of); Cod Liver Oil (part of) ... View More ...
+Properties:safety: Irritant
+smiles: CCCCCCCC/C=C\CCCCCCCC(=O)O
+formula: C18H34O2
+chem_properties: Molecular Weight: 282.5 g/mol
+XLogP3: 6.5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 15
+Exact Mass: 282.255880323 Da
+Monoisotopic Mass: 282.255880323 Da
+Topological Polar Surface Area: 37.3
+Heavy Atom Count: 20
+Formal Charge: 0
+Complexity: 234
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

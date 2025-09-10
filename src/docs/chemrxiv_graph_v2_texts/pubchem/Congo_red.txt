@@ -1,0 +1,26 @@
+Name: Congo red
+Text:
+Congo Red is an indicator dye that is blue-violet at pH 3.0 and red at pH 5.0. It contains a 3,3'-(biphenyl-4,4'-diyldidiazene-2,1-diyl)bis(4-aminonaphthalene-1-sulfonate). It is functionally related to a 3,3'-(biphenyl-4,4'-diyldidiazene-2,1-diyl)bis(4-aminonaphthalene-1-sulfonic acid).
+An acid dye used in testing for hydrochloric acid in gastric contents. It is also used histologically to test for AMYLOIDOSIS.
+See also: Congo Red (annotation moved to).
+Properties:safety: Health Hazard
+smiles: C1=CC=C2C(=C1)C(=CC(=C2N)N=NC3=CC=C(C=C3)C4=CC=C(C=C4)N=NC5=C(C6=CC=CC=C6C(=C5)S(=O)(=O)[O-])N)S(=O)(=O)[O-].[Na+].[Na+]
+formula: C32H22N6Na2O6S2
+chem_properties: Molecular Weight: 696.7 g/mol
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 12
+Rotatable Bond Count: 5
+Exact Mass: 696.08376335 Da
+Monoisotopic Mass: 696.08376335 Da
+Topological Polar Surface Area: 233
+Heavy Atom Count: 48
+Formal Charge: 0
+Complexity: 1180
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

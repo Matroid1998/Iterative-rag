@@ -1,0 +1,17 @@
+Description:
+An intermediate formed via transmetalation through a four-membered ring transition state.
+
+Text:
+Starting from int1, the CCl bond cleavage occurs via a 
+threemembered ring oxidative addition transition state TS1 with 
+an energy barrier of 10.4 kcalmol producing the palladium(II) in
+termediate int2. Subsequently, int2 complexes with (S)2a or (R)
+2a lead to an endothermic process of 4.9 and 8.8 kcalmol, result
+ing in int3a or int3b, respectively. Notably, mechanistic experi
+ments (Figure 2B) have demonstrated that there is a rapid intercon
+version between zinc reagent (S)2a and (R)2a. From int3a and 
+int3b, transmetalation takes place via the fourmembered ring tran
+sition state TS2a or TS2b, leading to the benzylpalladium(II) in
+termediate int4ab and releasing ZnCl2. Int4a and 4b undergo the 
+CC reductive elimination transition state TS3ab to produce the 
+productcoordinated intermediate int5ab.

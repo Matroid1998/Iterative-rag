@@ -1,0 +1,32 @@
+Name: Acetamide
+Text:
+Acetamide can cause cancer according to The World Health Organization's International Agency for Research on Cancer (IARC).
+Acetamide appears as colorless crystals with a mousy odor (NTP, 1999). Low toxicity.
+Acetamide is a member of the class of acetamides that results from the formal condensation of acetic acid with ammonia. It is a monocarboxylic acid amide, a N-acylammonia and a member of acetamides. It is a tautomer of an acetimidic acid.
+Acetamide is used primarily as a solvent and a plasticizer. Workers may be exposed in the plastics and chemical industries. It causes mild skin irritation from acute (short-term) exposure. No information is available on the chronic (long-term), reproductive/developmental, or carcinogenic effects of acetamide in humans. EPA has not classified acetamide for carcinogenicity.
+Acetamide has been reported in Convolvulus erinaceus, Haplophyllum acutifolium, and other organisms with data available.
+Acetamide is a mineral with formula of CH3CONH2. The corresponding IMA (International Mineralogical Association) number is IMA1974-039. The IMA symbol is Ace.
+Acetamide is found in red beetroot. Acetamide (or acetic acid amide or ethanamide), CH3CONH2, the amide of acetic acid, is a white crystalline solid in pure form. It is produced by dehydrating ammonium acetate. Acetamide has been shown to exhibit anti-microbial, anti-inflammatory, anti-arthritic and antibiotic functions. Acetamide belongs to the family of Primary Carboxylic Acid Amides. These are compounds comprising primary carboxylic acid amide functional group, with the general structure RC(=O)NH2. (A3310, A3311, A3311, A3312).
+Acetamide is a metabolite found in or produced by Saccharomyces cerevisiae.
+Properties:safety: Health Hazard
+smiles: CC(=O)N
+formula: C2H5NO
+chem_properties: Molecular Weight: 59.07 g/mol
+XLogP3: -0.9
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 59.037113783 Da
+Monoisotopic Mass: 59.037113783 Da
+Topological Polar Surface Area: 43.1
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 33
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

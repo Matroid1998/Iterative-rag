@@ -1,0 +1,12 @@
+Description:
+A 2D material with a flexoelectric coefficient of 10 pC m1.
+
+Text:
+However, the 
+flexoelectric coefficients of available 2D materials are modest, with the highest reported value 
+being 10 pC m1 for MoS2 monolayers.10, 11 In contrast to 2D materials, flexoelectric coefficients 
+as high as 1111  17.33 C m1 have been observed in bulk ceramics such as barium titanate12 
+that have limited flexibility. Hence, the performance of flexoelectric generators have been low. In this Article, we present a flexible nanogenerator (FNG) that incorporates enhanced 
+flexoelectricity in few atomic layersthick membranes of an inexpensive mineral, Hausmannite 
+(Mn3O4), to produce up to 7.99 mW m2 power density (active surface area 2.5 cm2). We 
+httpsdoi.org10.26434chemrxiv2022jh0h7v2 ORCID httpsorcid.org0000000312610087 Content not peerreviewed by ChemRxiv. License CC BY 4.0

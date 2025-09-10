@@ -1,0 +1,25 @@
+Name: Glutarimide
+Text:
+Piperidine-2,6-dione is a dicarboximide that is piperidine which is substituted by oxo groups at positions 2 and 6. It is a member of piperidones and a dicarboximide.
+Properties:safety: Irritant
+smiles: C1CC(=O)NC(=O)C1
+formula: C5H7NO2
+chem_properties: Molecular Weight: 113.11 g/mol
+XLogP3: -0.7
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 113.047678466 Da
+Monoisotopic Mass: 113.047678466 Da
+Topological Polar Surface Area: 46.2
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 116
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

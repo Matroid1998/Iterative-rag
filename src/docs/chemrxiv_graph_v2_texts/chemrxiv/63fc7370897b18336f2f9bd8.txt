@@ -1,0 +1,27 @@
+Description:
+Used for cooling single-molecule magnets to retain magnetic information.
+
+Text:
+A limiting factor for the application of singlemolecule magnets (SMMs) in highdensity data 
+storage is the requirement for expensive liquid helium cooling for them to retain magnetic 
+information.13 For the last two decades, lanthanide (Ln) complexes with highly axial ligand 
+fields have been frequently targeted, as these can provide the highest effective barriers to 
+magnetic reversal (Ueff) by stabilizing the most magnetic and destabilizing the least magnetic 
+mJ states of selected Ln ions along the molecular anisotropy axis.413 Isolated dysprosocenium 
+cations, Dy(CpR)2 (CpR  substituted cyclopentadienyl), and related derivatives, have 
+recently provided SMMs with 100 s magnetic blocking temperatures (T100) that are 
+tantalizingly close to what can be achieved with cheaper liquid nitrogen cooling (77 K).1424 
+The remarkable SMM properties of dysprosocenium cations arise from a combination of their 
+highly axial ligand fields and molecular rigidity, which maximize magnetic anisotropy and 
+inhibit molecular vibrations that promote magnetic relaxation.13,5,25,26 
+The largest Ueff values are obtained for Dy(CpR)2 cations when the CpR ligands are 
+close to the Dy(III) ion and the CpRcentroidDyCpRcentroid angle approaches linearity.18,26 
+Calculations on relatively small dysprosocenium cations like Dy(Cp)2 (Cp  C5Me5) 
+predict very slow Orbach relaxation, due to limited vibrations that are offresonance with 
+electronic transitions.26 However, due to predominantly electrostatic Ln bonding regimes,27 the 
+reduced ligand steric bulk of Cp allows significant equatorial interactions with weakly 
+coordinating anions (WCAs) and donor solvents; these promote magnetic relaxation and reduce 
+magnetic hysteresis temperatures (TH) compared to isolated dysprosocenium cations (which 
+have reached up to 80 K).18,2834 As the multistep syntheses of air and moisturesensitive target 
+molecules can be arduous, we envisaged that in silico screening could provide a more efficient 
+approach to identify isolable dysprosocenium cations in advance of laboratory work.

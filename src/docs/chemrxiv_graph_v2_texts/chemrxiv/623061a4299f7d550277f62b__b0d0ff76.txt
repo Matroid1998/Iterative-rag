@@ -1,0 +1,17 @@
+Description:
+Used in fabrication technologies to facilitate the miniaturization of chemical reaction control.
+
+Text:
+Several solutions for multiplexed combinatorial chemistry are 
+currently available, providing microarrays based on the deprotection 
+of optical labile8 or acidbase labile9 groups achieved by imaging or 
+with the encapsulation of chemical monomers for micro printing 
+strategies. However, these platforms still lack throughput and 
+versatility to reach a widespread use for different applications that 
+would benefit from the control of combinatorial chemistry at a large 
+multiplexing scale. Electrochemically generated acid was also used 
+for the generation of microarrays9,10. Electrochemical strategies, in 
+addition to facilitate the electronic management, can ease the 
+miniaturization of the control of chemical reactions using Silicon 
+fabrication technologies that would allow a costeffective production 
+of chips to facilitate the access to the technology11.

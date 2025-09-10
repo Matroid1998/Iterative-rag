@@ -1,0 +1,13 @@
+Description:
+A component in calcium-containing biominerals studied using potentiometry.
+
+Text:
+Numerous analytical approaches have been used to characterize these species, as cryoTEM 
+approaches,35,9 SAXS,9,10 monitoring the evolution of calcium potentiometry (for calciumcontaining 
+biominerals),4,6,1113 DLS,9 ultracentrifugation,6 computational studies11,14,15 and by electron ionization 
+mass spectrometry.16 Despite the number of methodologies used to study these species, there is still 
+a lack of information available in terms of composition, structural arrangement, and kinetic evolution, 
+necessitating the development of innovative timeresolved monitoring techniques. Nuclear Magnetic Resonance (NMR) spectroscopy is a very powerful technique in studying the 
+structure and dynamics at the atomic and molecular level of liquid or solid matter.17 Thus, NMR 
+spectroscopy can potentially provide precious insights into the various transient species formed during 
+the nucleation and crystallization processes.

@@ -1,0 +1,29 @@
+Name: Tapinarof
+Text:
+Benvitimod is a stilbenoid.
+Tapinarof is a novel, first-in-class, small-molecule AhR agonist that is indicated for the treatment of adult psoriasis. It is available as a topical cream to be applied to the affected area once daily. Tapiranof was first discovered as a metabolite (3,5-dihydroxy-4-isopropylstilbene) produced in Photorhabdus luminescens, a gram-negative bacillus that lives symbiotically with the Heterorhabditis nematodes. In 1959, it was noticed that Heterorhabditis with a high amount of 3,5-dihydroxy-4-isopropylstilbene did not putrefy once dead, thus suggesting its potential anti-inflammatory activity.   Tapinarof received initial approval from the FDA in 2022.
+Tapinarof is an Aryl Hydrocarbon Receptor Agonist. The mechanism of action of tapinarof is as an Aryl Hydrocarbon Receptor Agonist.
+3,5-Dihydroxy-4-isopropylstilbene has been reported in Photorhabdus luminescens with data available.
+TAPINAROF is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2022 and is indicated for psoriasis and has 1 investigational indication.
+Properties:safety: Environmental Hazard
+smiles: CC(C)C1=C(C=C(C=C1O)/C=C/C2=CC=CC=C2)O
+formula: C17H18O2
+chem_properties: Molecular Weight: 254.32 g/mol
+XLogP3: 4.6
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 3
+Exact Mass: 254.130679813 Da
+Monoisotopic Mass: 254.130679813 Da
+Topological Polar Surface Area: 40.5
+Heavy Atom Count: 19
+Formal Charge: 0
+Complexity: 280
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

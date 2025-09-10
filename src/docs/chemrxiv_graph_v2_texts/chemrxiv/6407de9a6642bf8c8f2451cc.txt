@@ -1,0 +1,41 @@
+Description:
+A greenhouse gas whose increased atmospheric levels are associated with climate change.
+
+Text:
+Heightened anthropogenic atmospheric CO2 levels motivates the development of processes to mitigate CO2 
+emissions associated with climate change.1,2 Electrochemical CO2 reduction (CO2R) is being pursued as one solution 
+towards a carbonneutral economy.3,4 However, many challenges remain, including those associated with selectivity 
+for multicarbon fuel candidates. Current trends focus on coppers crucial ability to form appreciable quantities of 
+carboncoupled products.
+
+
+---
+
+Description:
+Subject to electrochemical reduction as a potential solution for a carbon-neutral economy.
+
+Text:
+Heightened anthropogenic atmospheric CO2 levels motivates the development of processes to mitigate CO2 
+emissions associated with climate change.1,2 Electrochemical CO2 reduction (CO2R) is being pursued as one solution 
+towards a carbonneutral economy.3,4 However, many challenges remain, including those associated with selectivity 
+for multicarbon fuel candidates. Current trends focus on coppers crucial ability to form appreciable quantities of 
+carboncoupled products.
+
+
+---
+
+Description:
+A compound involved in electrochemical reduction requiring two proton and electron transfers.
+
+Text:
+As yet it is not possible to reliably tune the downstream C2 products produced, such as 
+ethylene and ethanol, and the mechanisms defining such selectivities are not firmly established (Scheme 1).5 Even 
+on a planar catalyst, perhaps the simplest practical system for mechanistic studies, there are many effects to consider, 
+including, but not limited to concentration polarization effects from dissolved CO2, intermediates, electrolytes, 
+fluctuations in local pH, and the faceting and restructuring of the electrode surface.6 
+
+2 
+
+Scheme 1 Electrochemical reduction of CO2 to CO requires two proton and electron transfers. Reduction of CO is proposed to be the rate
+determining step for producing carboncoupled products, but the exact species it is reduced to upon dimerization are still under 
+investigation.5

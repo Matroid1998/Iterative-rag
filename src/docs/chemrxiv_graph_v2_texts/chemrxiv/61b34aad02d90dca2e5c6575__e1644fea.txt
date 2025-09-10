@@ -1,0 +1,12 @@
+Description:
+A widebandgap semiconductor used for photocatalytic CO2 activation.
+
+Text:
+Remarkable efforts have been directed towards achieving efficient CO2 
+activating with photocatalysts by using widebandgap semiconductors, such as TiO2, SrTiO3, ZnO, SiC, ZnS, etc 2, 
+3. Besides, the heterogeneous include metalorganic frameworks (MOFs) in addition to the oxide semiconductors 
+such as MIL101, ZIF8 and UiO66 4, 5 have been recently employed as photocatalysts611, since the modifcation 
+of the coordination chemistry, energy bandgap, organic ligands, and composition of metal clusters can regulate light 
+absorption and charge separation. 12 It is known that MIL(125)NH2 (Ti) has a preferable photocatalytic effect upon 
+light excitation, which was consisted of titanium clusters coordinated to the organic linkers, i.e., 2aminoterephthalic 
+acid.

@@ -1,0 +1,25 @@
+Name: Cupric acetate
+Text:
+Cupric acetate appears as a blue-green crystalline solid. The primary hazard is the threat to the environment. Immediate steps should be taken to limit its spread to the environment. It is used as an insecticide, in the preparation of other chemicals, as a fungicide, and mildew preventive.
+See also: Cupric Cation (has active moiety); Cupric acetate; zinc valerate dihydrate (component of); Copper subacetate (annotation moved to) ... View More ...
+Properties:safety: Corrosive and Acute Toxic and Irritant and Environmental Hazard
+smiles: CC(=O)[O-].CC(=O)[O-].[Cu+2]
+formula: C4H6CuO4
+chem_properties: Molecular Weight: 181.63 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 180.956206 Da
+Monoisotopic Mass: 180.956206 Da
+Topological Polar Surface Area: 80.3
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 25.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

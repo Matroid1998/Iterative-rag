@@ -1,0 +1,21 @@
+Description:
+Released from side reactions in lithium-ion batteries, contributing to structural instability and high-capacity fading.
+
+Text:
+As a cause of global 
+warming, the automobile industry is transforming to electric vehicles (EVs) and hybrid electric 
+vehicles (HEVs) which are majorly powered by lithiumion batteries.4,5 Several research studies 
+have been vigorously carried out to improve the energy density and safety of LIBs, especially 
+focusing on electrode and electrolyte components.6,7 Out of other classes of cathode materials, the 
+layered nickelrich LiNi0.8Co0.1Mn0.1O2 (NCM811) material well performs in high operating 
+voltage (4.5V) and delivers high discharge capacity.810 Nevertheless, these materials have some 
+limitations such as poor rate capability and highcapacity fading11,12 due to structural instability, 
+LiNi cation disordering, surface degradation, and release of oxygen from the side reactions.13,14 
+To overcome these disadvantages, several techniques such as surface coating, metal doping, 
+control of morphology, and composite formation have been developed.15,16 
+Among all the techniques, surface coating can be an effective strategy to limit the 
+degradation of the electrode surface during prolonged contact with the electrolyte and enhance 
+ionic conductivity by forming a stable cathode electrolyte interface (CEI) which consequently 
+improves the stability of the material.1720 Several studies have already been made by surface 
+modification of cathodes and enhancing the electrochemical properties of LIBs.21,22 Carbon as a 
+httpsdoi.org10.26434chemrxiv2024frq7j ORCID httpsorcid.org0000000323670501 Content not peerreviewed by ChemRxiv.

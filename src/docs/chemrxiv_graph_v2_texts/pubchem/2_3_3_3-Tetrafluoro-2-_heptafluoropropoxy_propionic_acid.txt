@@ -1,0 +1,25 @@
+Name: 2,3,3,3-Tetrafluoro-2-(heptafluoropropoxy)propionic acid
+Text:
+2,3,3,3-tetrafluoro-2-(heptafluoropropoxy)propanoic acid is a perfluorinated compound that is 2-propoxypentanoic acid in which all 11 of the hydrogens attached to carbon atoms have been replaced by fluorine atoms. Used as an alternative to perfluorooctanoic acid in the fluoropolymer industry for years, its widespread environmental distribution, high bioaccumulation capability, and human exposure have caused great concern, particularly as its potential toxicity and health risk is still largely unknown. It is a monocarboxylic acid, a perfluorinated compound and an ether.
+Properties:safety: Corrosive and Irritant
+smiles: C(=O)(C(C(F)(F)F)(OC(C(C(F)(F)F)(F)F)(F)F)F)O
+formula: C3F7OCF(CF3)COOH
+chem_properties: Molecular Weight: 330.05 g/mol
+XLogP3: 3.6
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 14
+Rotatable Bond Count: 4
+Exact Mass: 329.97500367 Da
+Monoisotopic Mass: 329.97500367 Da
+Topological Polar Surface Area: 46.5
+Heavy Atom Count: 20
+Formal Charge: 0
+Complexity: 383
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

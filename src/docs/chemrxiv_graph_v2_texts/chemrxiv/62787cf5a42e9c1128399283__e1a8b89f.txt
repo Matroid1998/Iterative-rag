@@ -1,0 +1,11 @@
+Description:
+A ptype oxide exhibiting a high ZT of 1.4 at 923 K.
+
+Text:
+Indeed, several ptype
+oxides with ZT exceeding unity have been discovered since 1997, when NaCo2O4 showed promise as an oxide
+thermoelectric.4 NaxCoO2 and Ca3Co4O9 are currently some of the best ternary ptype thermoelectrics, with ZT
+exceeding 1 at 800 K and 1.1 at 1000 K, respectively.5,6 Mixedanion materials have also proven to be successful,
+with ptype oxide BiCuOSe exhibiting a high ZT of 1.4 at 923 K.7 Recently, two oxypnictogens LaZnOP and
+LaZnOAs were predicted to have theoretical maximum ptype ZT scores of 2.10 and 1.92, respectively, at
+2

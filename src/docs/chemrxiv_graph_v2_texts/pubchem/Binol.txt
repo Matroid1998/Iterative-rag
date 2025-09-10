@@ -1,0 +1,26 @@
+Name: Binol
+Text:
+(S)-(-)-1,1'-Bi-2-naphthol is a member of naphthols.
+See also: (R)-(+)-1,1'-Binaphthyl-2,2'-diol (annotation moved to); (S)-(-)-1,1'-Binaphthyl-2,2'-diol (annotation moved to).
+Properties:safety: Acute Toxic and Irritant
+smiles: C1=CC=C2C(=C1)C=CC(=C2C3=C(C=CC4=CC=CC=C43)O)O
+formula: C20H14O2
+chem_properties: Molecular Weight: 286.3 g/mol
+XLogP3: 5.3
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 286.099379685 Da
+Monoisotopic Mass: 286.099379685 Da
+Topological Polar Surface Area: 40.5
+Heavy Atom Count: 22
+Formal Charge: 0
+Complexity: 346
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

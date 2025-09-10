@@ -1,0 +1,24 @@
+Description:
+A product formed in reactions involving glucose, with yields compared to hydroxymethylfurfural.
+
+Text:
+For example, many have focused on
+8
+identifying the dominant pathways for forming hydroxymethylfurfural (HMF) from glucose using
+9
+a series of elimination and isomerization reactions.1821 However, the activation energies of the
+10
+proposed pathways to HMF formation are still relatively high (60 kcalmol),15,2022 and do not
+11
+provide convincing explanations for higher yields of HMF compared to other products, such as
+12
+hydroxyacetaldehyde (HAA). 13
+Automated reaction prediction methods have recently made great advances in terms of cost,
+14
+accuracy, and throughput that enable them to often find lowbarrier reaction mechanisms with
+15
+minimal or no mechanistic guidance.2332 However, many of these algorithms scale extremely poorly
+16
+with reactant size, limiting their application to very small systems. Even algorithms that can be
+17
+2

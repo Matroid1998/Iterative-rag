@@ -1,0 +1,27 @@
+Name: Vanadium pentoxide
+Text:
+Vanadium pentoxide (orthorhombic crystalline form) can cause cancer according to The National Toxicology Program.
+Vanadium pentoxide appears as a yellow to red crystalline powder. Slightly soluble in water and denser than water. Contact may cause severe irritation to skin, eyes, and mucous membranes. May be toxic by ingestion, inhalation and skin absorption.
+Divanadium pentaoxide is a vanadium oxide.
+Vanadium(V) oxide is an oxide of vanadium. It is highly toxic and found in nature as the rare mineral shcherbinaite. Vanadium(V) oxide catalyses several useful aerobic oxidation reactions, most notably in the production of sulfuric acid from sulfur dioxide. Vanadium is a transition metal with the chemical symbol V and atomic number 23. The element usually combines with other elements such as oxygen, sodium, sulfur, or chloride, and occurs naturally in about 65 different minerals and in fossil fuel deposits. Vanadium is found in many organisms, and is used by some life forms as an active center of enzymes. (L837, L838, L849)
+Properties:safety: Acute Toxic and Health Hazard and Environmental Hazard
+smiles: O=[V](=O)O[V](=O)=O
+formula: O5V2
+chem_properties: Molecular Weight: 181.88 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 0
+Exact Mass: 181.862488 Da
+Monoisotopic Mass: 181.862488 Da
+Topological Polar Surface Area: 77.5
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 123
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

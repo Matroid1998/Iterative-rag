@@ -1,0 +1,31 @@
+Description:
+A promising candidate for next-generation LIB anodic material with a high theoretical gravimetric capacity of 4200 mAh/g and relatively low cost.
+
+Text:
+Accordingly, the exorbitant costs of batterygrade graphite (8,00015,000 USD per ton) are 
+rapidly increasing amidst recent uptakes in electric vehicle production 3 4 5. Consequently, these 
+significant concerns are driving the exploration of sustainable alternative materials for battery 
+production. In this context, Silicon is a promising candidate for nextgeneration LIB anodic material in 
+accordance with its high theoretical gravimetric capacity of 4200 mAhg and relatively low 
+cost as the second most abundant element on earth 6 7. However, poor intrinsic electrical 
+conductivity (103 Scm) along with extreme volume expansion (420) during lithiation 
+significantly hinders its rate capability and cycling stability, thereby commercially limiting the 
+use of siliconbased anodes 8 9.
+
+
+---
+
+Description:
+Elemental anodes with challenges in cyclic stability and industrial-level stability.
+
+Text:
+The high electrical conductivity and mechanical stability 
+exhibited by various carbon polymorphs has prompted extensive exploration of siliconcarbon 
+composite anodes as a strategy for addressing the challenges associated with elemental silicon 
+anodes, demonstrating notable enhancements in cyclic stability, capacity retention, and rate 
+performance 10 11. Unfortunately, these composites frequently require costly and impractical 
+syntheses, expensive binder materials, conductive additives and unsustainable carbon 
+precursors 12. Additional, low overall silicon contents and not yet industriallevel stability in 
+such anodes are notable issues. Due to these shortcomings, siliconcarbon composite anodes 
+have yet to be widely implemented in commercial battery production. This being the case, this work proposes the first use of raw jellyfish biomass as a lowcost, 
+sustainable, and ecofriendly carbon precursor for siliconcarbon composite anodes.

@@ -1,0 +1,28 @@
+Description:
+A component of natrolite, as indicated by its name derived from Greek natron.
+
+Text:
+Natrolite, Na2(Si3Al2)O102H2O, is a mineral that was named by M. H. Klaproth, 1803, from Greek 
+natron, for its sodium content and lithos, that is stone (Strekeisen, 2020). Natrolite is the 
+representative member of a group of zeolites, where zeolites are hydrated aluminosilicate minerals 
+made from interlinked tetrahedra of alumina (AlO4) and silica (SiO4) (Strekeisen, 2020). The origin 
+of the name zeolite, as reported by Strekeisen, is very interesting too. It is told that the term zeolite 
+was proposed by A. F. Cronstedt in 1756, since he observed that upon rapidly heating the material 
+stilbite, it produced large amounts of steam (Strekeisen, 2020). Therefore, Cronstedt used Greek 
+zeo, to boil, and lithos.
+
+
+---
+
+Description:
+A large ion that can travel through the channels of zeolites.
+
+Text:
+Due to their structure, zeolites have channels, through which water and 
+large ions (such as sodium, potassium, and magnesium) can travel into and out of the crystal 
+structure (Strekeisen, 2020); the size of molecules or ions is controlled by size of channels, and 
+zeolites can act as a chemical sieve. The term molecular sieve refers to a particular property of these 
+materials the ability to selectively sort molecules based primarily on a size exclusion process. This 
+is due to a very regular pore structure of molecular dimensions (Strekeisen, 2020). In RRUFF database, we find the members of the natrolite group as natrolite, mesolite, scolecite, and 
+gonnardite. In this database, Raman spectra are provided, where we can easily observe the OH
+stretching region of water.

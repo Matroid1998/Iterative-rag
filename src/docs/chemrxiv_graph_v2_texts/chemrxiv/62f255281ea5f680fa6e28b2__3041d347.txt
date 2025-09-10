@@ -1,0 +1,14 @@
+Description:
+Used for van der Waals encapsulation to improve graphene's performance.
+
+Text:
+For example, polymerbased 
+lithography, which is traditionally used to pattern graphene has been found to significantly 
+reduce its device performance.79 Solutions to mitigate this include grain boundary engineering 
+to control fieldeffect mobility10 and van der Waals encapsulation by hexagonal boron nitride.9 
+However, in all of these cases, lithographic techniques limit the feature sizes to 10 nm due to 
+the use of photoresist and limits imposed by the energy of the electromagnetic radiation. Higher resolution can be achieved by using electron beams (ebeams), and previous 
+uses of ebeam for defect engineering in graphene involved a high acceleration voltage (80
+300 kV) inside a transmission electron microscope11 to control the elastic (e.g. atomic 
+displacement, knockon damage) and inelastic (e.g. heating) mechanisms induced by the e
+beam.

@@ -1,0 +1,11 @@
+Description:
+A catalyst used in CO2 reduction at the gas-liquid-solid interface.
+
+Text:
+This presents a design constraint, though this can 
+also be circumvented by using hydrophobic selfassembly to immobilize the catalysts on the GDE 
+surface as an alternative route. In this work, we demonstrate for the first time the deliberate integration of hydrophobicity 
+into a molecular CO2R catalyst operating at the gasliquidsolid interface within a gasdiffusion 
+electrode (Fig. 1a). Our system consists of Co terpyridine catalysts with perfluorinated alkyl chains 
+(Co TerpyRF) that render the system hydrophobic due to the perfluoroperfluoro interactions 
+between the perfluorinated alkyl chains (Fig. 1b).

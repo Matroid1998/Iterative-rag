@@ -1,0 +1,13 @@
+Description:
+Residues that coordinate Zn2 ions in a cross-braced fashion.
+
+Text:
+Over 170 sequences 
+have been annotated as PHD fingers in the human genome.3 They contain conserved regions of 
+cysteine and histidine residues that coordinate two Zn2 ions in a cross braced fashion, with an 
+antiparallel twostranded sheet core, which imposes conformational stability.37 These domains 
+read a range of histone marks, notably the methylation state of the K4 residue of H3 histone 
+(H3K4Me3, H3K4Me2 or H3K4Me0), and the H3K9 and H3R2 positions.8,9 Mutations within this 
+motif have been linked to immunological, neurological and developmental disorders.10,11 
+
+5

@@ -1,0 +1,36 @@
+Name: Pyrazinamide
+Text:
+Pyrazinamide is a white powder. Sublimes from 318 °F. (NTP, 1992)
+Pyrazinecarboxamide is a monocarboxylic acid amide resulting from the formal condensation of the carboxy group of pyrazinoic acid (pyrazine-2-carboxylic acid) with ammonia. A prodrug for pyrazinoic acid, pyrazinecarboxamide is used as part of multidrug regimens for the treatment of tuberculosis. It has a role as an antitubercular agent and a prodrug. It is a member of pyrazines, a N-acylammonia and a monocarboxylic acid amide.
+Pyrazinamide is an antibacterial prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of active tuberculosis (TB). (Active TB is also called TB disease.)
+TB can be an opportunistic infection (OI) of HIV.
+A pyrazine that is used therapeutically as an antitubercular agent.
+Pyrazinamide is an Antimycobacterial.
+Pyrazinamide is a first line antituberculosis medication, but is used only in combination with other antituberculosis medications such as isoniazid or rifampin. Pyrazinamide is associated with transient and asymptomatic elevations in serum aminotransferase levels and is a well known cause of clinically apparent, acute liver injury that can be severe and even fatal.
+Pyrazinamide is a synthetic pyrazinoic acid amide derivative with bactericidal property. Pyrazinamide is particularly active against slowly multiplying intracellular bacilli (unaffected by other drugs) by an unknown mechanism of action. Its bactericidal action is dependent upon the presence of bacterial pyrazinamidase, which removes the amide group to produce active pyrazinoic acid. Pyrazinamide is an important component of multidrug therapy for tuberculosis. (NCI04)
+PYRAZINAMIDE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1971 and is indicated for tuberculosis and pulmonary tuberculosis and has 6 investigational indications.
+Pyrazinecarboxamide is a metabolite found in or produced by Saccharomyces cerevisiae.
+A pyrazine that is used therapeutically as an antitubercular agent.
+See also: Stevia rebaudiuna Leaf (part of); Isoniazid; pyrazinamide; rifampin (component of).
+Properties:safety: Acute Toxic and Irritant
+smiles: C1=CN=C(C=N1)C(=O)N
+formula: C5H5N3O
+chem_properties: Molecular Weight: 123.11 g/mol
+XLogP3: -0.6
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 1
+Exact Mass: 123.043261792 Da
+Monoisotopic Mass: 123.043261792 Da
+Topological Polar Surface Area: 68.9
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 115
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

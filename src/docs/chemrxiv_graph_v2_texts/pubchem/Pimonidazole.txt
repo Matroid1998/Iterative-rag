@@ -1,0 +1,28 @@
+Name: Pimonidazole
+Text:
+Pimonidazole is a C-nitro compound.
+Pimonidazole is under investigation for the diagnostic of Prostate Cancer and Head and Neck Cancer.
+Pimonidazole is a 2-nitroimidazole with hypoxic selectivity and potential radiosensitizing activities. Pimonidazole is reduced in hypoxic environments such as those found in tumors. In hypoxic cells, reduced pimonidazole binds to thiol-containing proteins. The resulting complexes accumulate in hypoxic tumors, thereby depleting radioprotective thiol compounds and sensitizing tumor cells to be more susceptible for radiation treatment.
+PIMONIDAZOLE is a small molecule drug with a maximum clinical trial phase of II (across all indications) and has 3 investigational indications.
+Properties:safety: Irritant
+smiles: C1CCN(CC1)CC(CN2C=CN=C2[N+](=O)[O-])O
+formula: C11H18N4O3
+chem_properties: Molecular Weight: 254.29 g/mol
+XLogP3: 1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 4
+Exact Mass: 254.13789045 Da
+Monoisotopic Mass: 254.13789045 Da
+Topological Polar Surface Area: 87.1
+Heavy Atom Count: 18
+Formal Charge: 0
+Complexity: 278
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

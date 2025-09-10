@@ -1,0 +1,22 @@
+Description:
+A scaffold used in chemical libraries for developing PD1-PDL1 small molecule inhibitors.
+
+Text:
+Programmed cell death protein 1 (PD1) is an immune checkpoint receptor implicated for 
+the creation of new cancer therapeutics.1 The prolonged interaction between the Tcell receptor 
+and the major histocompatibility complex (MHC) leads to upregulation of PD1 on the activated 
+Tcell surface.2 Activated T cells produce cytokines, such as Interferon, which in turn cause 
+tumor cells to express programmed death ligand 1 (PDL1) on the their cell surface.2 Tumors 
+escape the action of immune system by utilizing the interaction between PD1 and ligand PDL1 
+resulting in lower effector Tcell function and survival, as such resulting in a suppressive immune 
+response in the tumor microenvironment.2 The inhibition of the PD1PDL1 interaction can 
+enhance antitumor immunity and a large amount of work has been done to develop monoclonal 
+antibodies as inhibitors of PD1PDL1 interaction inhibitors.3,4 For example, pembrolizumab, 
+cemiplimab, and nivolumab are three FDA approved antiPD1 monoclonal antibodies.4 The 
+discovery of smallmolecule inhibitors would be an advantageous over monoclonal antibodies, 
+such as being fastacting, simple for in vivo administration, ability to penetrate through cell 
+membranes and interact with the cytoplasmic domains of cell surface receptors.5 Since a few 
+years, there has been significant development in designing PD1PDL1 inhibitors.6,7 Specifically, 
+BristolMyers Squibb (BMS) discovered a set of potent PD1PDL1 small molecule inhibitors 
+based on the peptidomimetic molecules and nonpeptidic small molecules.6,7 In particular, BMS 
+revealed a 2methyl3biphenylmethanol scaffold containing chemical libraries.

@@ -1,0 +1,32 @@
+Name: Trinitrotoluene
+Text:
+2,4,6-Trinitrotoluene is a yellow, odorless solid that does not occur naturally in the environment. It is commonly known as TNT and is an explosive used in military shells, bombs, and grenades, in industrial uses, and in underwater blasting. 2,4,6-Trinitrotoluene production in the United States occurs solely at military arsenals.
+2,4,6-Trinitrotoluene can cause cancer according to an independent committee of scientific and health experts.
+Tnt, wetted with not less than 30% water appears as a slurry of a yellow water-insoluble crystalline solid. Can burn, although difficult to ignite. When water has been driven off or evaporated the residue is easily ignited, burns vigorously, and is highly explosive. Produces toxic oxides of nitrogen during combustion. May explode under exposure to intense heat. Primary hazard is blast of an explosion, not flying projectiles or fragments.
+Trinitrotoluene, dry or wetted with less than 30 percent water, by mass appears as an explosive solid. Primary hazard is from effects of a blast. Not designed to produce significant fragmentation or throw projectiles. May explode under exposure to intense heat or fire.
+2,4,6-trinitrotoluene is a trinitrotoluene having the nitro groups at positions 2, 4 and 6. It has a role as an explosive. It is functionally related to a 1,3,5-trinitrobenzene.
+Trinitrotoluene is an explosive chemical that can cause skin irritation and other toxic consequences.
+Trinitrotoluene (TNT), or more specifically, 2,4,6-trinitrotoluene, is a chemical compound with the formula C6H2(NO2)3CH3. This yellow-coloured solid is a reagent (reactant) in chemistry but is best known as a useful explosive material with convenient handling properties. The explosive yield of TNT is considered the standard measure of strength of bombs and other explosives. In chemistry, TNT is used to generate charge transfer salts. (L130)
+A 2,4,6-trinitrotoluene, which is an explosive chemical that can cause skin irritation and other toxic consequences.
+Properties:safety: Explosive and Acute Toxic and Health Hazard and Environmental Hazard
+smiles: CC1=C(C=C(C=C1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
+formula: C7H5N3O6
+chem_properties: Molecular Weight: 227.13 g/mol
+XLogP3: 1.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 0
+Exact Mass: 227.01783489 Da
+Monoisotopic Mass: 227.01783489 Da
+Topological Polar Surface Area: 137
+Heavy Atom Count: 16
+Formal Charge: 0
+Complexity: 292
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

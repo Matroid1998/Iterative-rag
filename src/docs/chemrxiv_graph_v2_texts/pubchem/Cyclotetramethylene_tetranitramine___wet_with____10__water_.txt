@@ -1,0 +1,27 @@
+Name: Cyclotetramethylene tetranitramine, (wet with >= 10% water)
+Text:
+HMX (Octogen) is an acronym for High Melting eXplosive. It is also known as octogen and cyclotetramethylene-tetranitramine, as well as by other names. It is a colorless solid that dissolves slightly in water. Only a small amount of HMX (Octogen) will evaporate into the air; however, it can occur in air attached to suspended particles or dust. The taste and smell of HMX (Octogen) are not known. HMX (Octogen) does not occur naturally in the environment. It is made from other chemicals known as hexamine, ammonium nitrate, nitric acid, and acetic acid. HMX (Octogen) explodes violently at high temperatures. Because of this property, HMX (Octogen) is used in various kinds of explosives, rocket fuels, and burster chargers. A small amount of HMX (Octogen) is also formed in making cyclotrimethylene-trinitramine (RDX), another explosive similar in structure to HMX (Octogen).
+Cyclotetramethylene tetranitramine, [wet with >= 10% water] appears as a white crystalline solid. Melting point 281 °C. Practically insoluble in water. Water slurry mitigates explosion hazard. Used in solid propellants and explosives. The primary hazard is the blast effect and not flying projectiles and fragments.
+Octogen is a tetrazocane that is 1,3,5,7-tetrazocane in which the hydrogen atom attached to each of the nitrogens is replaced by a nitro group. It has a role as an explosive. It is a tetrazocane and a N-nitro compound.
+Properties:safety: Explosive and Acute Toxic and Irritant
+smiles: C1N(CN(CN(CN1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
+formula: C4H8N8O8
+chem_properties: Molecular Weight: 296.16 g/mol
+XLogP3: 2.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 12
+Rotatable Bond Count: 0
+Exact Mass: 296.04650924 Da
+Monoisotopic Mass: 296.04650924 Da
+Topological Polar Surface Area: 196
+Heavy Atom Count: 20
+Formal Charge: 0
+Complexity: 322
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

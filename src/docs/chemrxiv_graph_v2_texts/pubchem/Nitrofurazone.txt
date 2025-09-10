@@ -1,0 +1,32 @@
+Name: Nitrofurazone
+Text:
+Nitrofurazone can cause cancer according to The Environmental Protection Agency (EPA).
+Nitrofurazone appears as odorless pale yellow needles or yellow powder. pH (saturated aqueous solution) 6.0 - 6.5. Alkaline solutions are dark orange. (NTP, 1992)
+Nitrofurazone is a semicarbazone resulting from the formal condensation of semicarbazide with 5-nitrofuraldehyde. A broad spectrum antibacterial drug, although with little activity against Pseudomonas species, it is used as a local application for burns, ulcers, wounds and skin infections. It has a role as an antibacterial drug. It is a semicarbazone and a nitrofuran antibiotic.
+Nitrofural or nitrofurazone is a topical anti-infective agent effective against gram-negative and gram-positive bacteria. It is used for superficial wounds, burns, ulcers, and skin infections. Nitrofural has also been administered orally in the treatment of trypanosomiasis.  Except for topical drug products formulated for dermatologic application, the FDA withdrew its approval for the use of drug products containing nitrofurazone.
+NITROFURAZONE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1945 and has 3 approved and 2 investigational indications. It was withdrawn in at least one region.
+A topical anti-infective agent effective against gram-negative and gram-positive bacteria. It is used for superficial wounds, burns, ulcers, and skin infections. Nitrofurazone has also been administered orally in the treatment of trypanosomiasis. 
+A topical anti-infective agent effective against gram-negative and gram-positive bacteria. It is used for superficial WOUNDS AND INJURIES and skin infections. Nitrofurazone has also been administered orally in the treatment of TRYPANOSOMIASIS.
+See also:  ... View More ...
+Properties:safety: Irritant
+smiles: C1=C(OC(=C1)[N+](=O)[O-])/C=N/NC(=O)N
+formula: C6H6N4O4
+chem_properties: Molecular Weight: 198.14 g/mol
+XLogP3: 0.2
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 2
+Exact Mass: 198.03890469 Da
+Monoisotopic Mass: 198.03890469 Da
+Topological Polar Surface Area: 126
+Heavy Atom Count: 14
+Formal Charge: 0
+Complexity: 261
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

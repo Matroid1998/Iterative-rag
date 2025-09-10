@@ -1,0 +1,41 @@
+Description:
+A promising electrode material for battery applications due to its layered structure and high theoretical capacity.
+
+Text:
+These properties have made MoS2 highly desirable in many 
+research domains including heterojunction solar cells,3,4 electrophotocatalysis,5,6 strain 
+sensors7 and thermoelectric devices.8 Particularly, the layered structure composed of SMo
+S slabs provides highly accessible sites, resulting in MoS2 being a promising electrode material 
+for battery applications.912 In the area of potassiumion batteries (PIBs) where the large size 
+of Kion poses a major challenge for electrode materials discovery, the wide interlayer spacing 
+(0.62 nm) and weak Van der Waals interaction between the SMoS slabs can effectively 
+accommodate Kions and lower the energy barrier of Kion diffusion. The capability to transfer 
+up to four electrons per MoS2 formula indicates a high theoretical capacity (670 mAh g1).
+
+
+---
+
+Description:
+An anode material for PIBs with issues of poor electronic conductivity and structural instability.
+
+Text:
+These advantages have made MoS2 one of the most studied anode materials of PIBs.10,1315 
+A great deal of research attention has been directed towards enhancing the PIB performance of 
+MoS2 by addressing issues such as poor electronic conductivity and structural instability. Carbon coating1618 and phase engineering (1T phase and 1T2H mixed phase)1922 can 
+improve electron transfer owing to the presence of carbon and the metallic nature of the 1T 
+phase (10100 S cm1),23 respectively.
+
+
+---
+
+Description:
+A material whose structural stability can be enhanced by expanding interlayer spacing and tuning morphology to relieve strain during K-ion insertion.
+
+Text:
+Structural stability can be strengthened by expanding 
+interlayer spacing 2426 and tuning the morphology andor dimensionality of MoS2 to relieve 
+the strain in vertical and radial directions during Kion insertion.27,28 While progress has been 
+made to driving the PIB performance development of MoS2, understanding of the 
+electrochemical mechanism to store Kions has not been progressed to the same extent as 
+performance development, due to the complexity in phase transition and kinetic processes 
+httpsdoi.org10.26434chemrxiv2024gtwdx ORCID httpsorcid.org0000000301776348 Content not peerreviewed by ChemRxiv. License CC BY 4.0

@@ -1,0 +1,38 @@
+Description:
+A ligand used in the formation of lanthanide(III) complexes for bioimaging.
+
+Text:
+Kinetically inert lanthanide(III) complexes based on lig
+ands derived from cyclen and TACN have been used in 
+many forms of bioimaging and diagnostics.113 Less stable 
+DTPA, cryptands, and siderophorebased ligand systems 
+are also prevalent.14, 15 A common denominator in many of 
+these systems, especially the macrocyclic systems, is that 
+they adopt several forms with different chirality in solu
+tion.1620 However, when a chiral agent is added, the equi
+librium between the different isomers may be perturbed.11, 
+2125 This is important, as biological systems are inherently 
+chiral.
+
+
+---
+
+Description:
+A rigid macrocycle used to achieve complexes with resolved chirality.
+
+Text:
+Any use of these lanthanide(III) complexes in bio
+logical applications will either favor a specific form or cre
+ate a number of new forms by interaction between two or 
+more molecules with more than one chiral element.9, 12, 26 
+The inherent chirality of biomolecules was recently used 
+by Parker to develop responsive molecules. Using the rigid 
+TACN macrocycle, complexes were achieved with a re
+solved chirality, and the specific handedness controlled the 
+binding of the complex to specific biomolecules.9 
+Here, we have mimicked the influence of biological chi
+rality by adding additional chiral elements to the lantha
+nide complex itself. Specifically, ligand systems were made 
+with diastereomeric pendant arms. The resulting kinet
+ically inert lanthanide(III) complexes thus contained four 
+chiral elements.

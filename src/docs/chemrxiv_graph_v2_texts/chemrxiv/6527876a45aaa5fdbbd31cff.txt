@@ -1,0 +1,19 @@
+Description:
+A matrix used to generate and evaluate radical species through ballmilling tests.
+
+Text:
+Moreover, the effect of coupling reactions between the 
+generated radicals, which cannot be neglected in solution, can 
+be suppressed by the rigid polymer matrix, allowing unexplored 
+fluorescent radicals to be discovered and investigated systemat
+ically. The purpose of this study is to 1) establish the concept of 
+using mechanochemical reactions of polymer chains as a useful 
+tool to generate and characterize metastable fluorescent radicals 
+in the bulk, and to 2) clarify the luminescence properties of 
+DAAN radicals by combining experimental and computational 
+chemistry. For this purpose, twenty different DAAN derivatives 
+were prepared as fluorescent radical precursors, and the radical 
+species generated in the polystyrene matrix by ballmilling tests 
+were systematically evaluated using solidstate fluorescence 
+spectroscopy, electronparamagneticresonance (EPR) meas
+urements, and densityfunctionaltheory (DFT) calculations.

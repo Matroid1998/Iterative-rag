@@ -1,0 +1,12 @@
+Description:
+A biodegradable polymer with a low melting point of 60°C.
+
+Text:
+Melt electrowriting (MEW) is an additive manufacturing (AM) technology that harnesses 
+phenomenon resulting from an electrical field1 applied to a molten polymer delivery system to produce 
+porous 3D structures2. This technique can result in precise deposition and stacking of extruded micrometric 
+fibers, providing fine control over the spatial details of the processed sample. As a result, MEW has gained 
+interest in biomedical research for fabricating scaffolds in a spectrum of applications24. Furthermore, 
+MEW enables localized manipulation of functional material properties, which has recently been exploited 
+in the development of sensing structures5, soft robotics6, and actuators7. MEW research to date has primarily focused on processing medicalgrade poly(caprolactone) 
+(PCL)8, 9, a biodegradable polymer with a low melting point of 60C.

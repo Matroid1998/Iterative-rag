@@ -1,0 +1,14 @@
+Description:
+Corrodes in seawater contributing to electricity generation.
+
+Text:
+Currently, the electricity generation of WIEGs based on solidwater interactions is thought to 
+be related to the streaming potential,43 dragging potential, and waving potential etc.44 Recently, Dao 
+showed that the corrosion of zinc in seawater also contributes the electricity generation.41 
+Nevertheless, the physical and electrochemical interactions between water and active 
+materialscurrent collectors are not fully investigated due to the complexity at the liquidsolid 
+interfaces. Little attention has been paid to possible electrochemical reactions between the active 
+materials and current collectors, which may generate much higher voltage than the abovementioned 
+potentials. In addition, there is no rational explanation of the contribution of electrochemical activity 
+of current collectors, functional groups on active materials, and electrolyte ions to the electricity 
+generation of WIEGs.

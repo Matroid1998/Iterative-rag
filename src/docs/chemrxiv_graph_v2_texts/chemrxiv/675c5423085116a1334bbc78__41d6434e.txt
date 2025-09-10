@@ -1,0 +1,86 @@
+Description:
+A herbicide frequently detected in soils, water bodies, food, and human fluids due to its extensive use.
+
+Text:
+44 
+Glyphosate is used to control many weeds.1 Due to its extensive use in agriculture, 
+45 
+horticulture, forestry, and urban environments, glyphosate is frequently detected in soils, water 
+46 
+bodies, food, and human fluids.211 Additionally, transformation of laundry additives in 
+47 
+wastewater (e.g., aminopolyphosphonates used as antiscalants) have been identified as a new 
+48 
+source of glyphosate in European rivers.12 Detection of glyphosate and its byproducts, 
+49 
+specifically aminomethylphosphonic acid (AMPA), occurs despite their immobilization by 
+50 
+microorganisms, abiotic degradation, or retention on metal oxides in soils.1319 Increased public 
+51 
+concern regarding its potential toxicity and presence in the environment underscores the 
+52 
+importance of research into its persistence and interactions within ecosystems.
+
+
+---
+
+Description:
+Undergoes degradation through microbial activity and abiotic mechanisms, forming AMPA and other products.
+
+Text:
+53 
+Glyphosate primarily undergoes degradation through microbial activity, with additional 
+54 
+contributions from abiotic mechanisms, which remain poorly understood.20 Whether via biotic or 
+55 
+abiotic mechanisms (Scheme S1), the degradation of glyphosate may occur through C(2)N bond 
+56 
+cleavage, which forms AMPA (AMPA pathway), a more toxic and resistant metabolite than 
+57 
+glyphosate;2123 andor through C(3)P bond cleavage (sarcosine pathway), which yields 
+58 
+innocuous products (i.e., sarcosine and then glycine).16 A third degradation pathway (glycine 
+59 
+pathway; C(3)N bond cleavage) has also been proposed due to the inability to detect 
+60 
+sarcosine.2426 The abiotic transformation and persistence of glyphosate and its byproducts vary 
+61 
+significantly depending on environmental conditions.
+
+
+---
+
+Description:
+Its halflife ranges widely across soils and is influenced by adsorption potential.
+
+Text:
+For example, the halflife (t12) of 
+62 
+glyphosate ranges widely across soils (t12  2174 days).19, 25, 27, 28 This variation is strongly 
+63 
+influenced by adsorption potential.2, 27 Clayrich soils with high organic matter content and low 
+64 
+pH typically exhibit lower halflives due to greater glyphosate adsorption. In a model waterMn 
+65 
+oxide catalytic system, which is the most commonly used system in studies of glyphosate 
+66 
+httpsdoi.org10.26434chemrxiv2024jp1qd ORCID httpsorcid.org0000000194979843 Content not peerreviewed by ChemRxiv. License CC BY 4.0
+
+
+---
+
+Description:
+Clay-rich soils with high organic matter content and low pH exhibit lower halflives due to greater adsorption.
+
+Text:
+For example, the halflife (t12) of 
+62 
+glyphosate ranges widely across soils (t12  2174 days).19, 25, 27, 28 This variation is strongly 
+63 
+influenced by adsorption potential.2, 27 Clayrich soils with high organic matter content and low 
+64 
+pH typically exhibit lower halflives due to greater glyphosate adsorption. In a model waterMn 
+65 
+oxide catalytic system, which is the most commonly used system in studies of glyphosate 
+66 
+httpsdoi.org10.26434chemrxiv2024jp1qd ORCID httpsorcid.org0000000194979843 Content not peerreviewed by ChemRxiv. License CC BY 4.0

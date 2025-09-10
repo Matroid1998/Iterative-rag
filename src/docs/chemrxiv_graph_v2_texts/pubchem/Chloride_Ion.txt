@@ -1,0 +1,30 @@
+Name: Chloride Ion
+Text:
+Chloride is a halide anion formed when chlorine picks up an electron to form an an anion. It has a role as a human metabolite, an Escherichia coli metabolite and a cofactor. It is a halide anion and a monoatomic chlorine. It is a conjugate base of a hydrogen chloride.
+Chloride is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Chloride Ion is a chlorine anion that forms the negatively charged part of certain salts, including sodium and hydrogen chloride salts, and is an essential electrolyte located in all body fluids responsible for maintaining acid/base balance, transmitting nerve impulses and regulating fluid in and out of cells.
+Chloride is a metabolite found in or produced by Saccharomyces cerevisiae.
+Inorganic compounds derived from hydrochloric acid that contain the Cl- ion.
+See also: Potassium Chloride (active moiety of); Sodium Chloride (active moiety of); Calcium Chloride (is active moiety of) ... View More ...
+Properties:safety: Irritant
+smiles: [Cl-]
+formula: Cl-
+chem_properties: Molecular Weight: 35.45 g/mol
+XLogP3: 0.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 34.9688527 Da
+Monoisotopic Mass: 34.9688527 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 1
+Formal Charge: -1
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

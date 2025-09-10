@@ -1,0 +1,15 @@
+Description:
+A unit that composes the biopolymer chitin, extracted from biomass waste streams.
+
+Text:
+Chitin is a biopolymer composed of Nacetylglucosamine units, which can 
+be extracted from various biomass waste streams including crustaceans, cephalopods, insects, 
+and fungus in large scale annually.1 It is the second most abundant biopolymer after cellulose 
+and as such, constitutes the core component of the shellbiorefinery,2 as a part of blue
+biorefinery. Chitosan, as the deacetylated version of chitin, is a linear polysaccharide with amine 
+functionality.3 Chitosan features unique and attractive properties such as antimicrobial ability,4, 5 
+biocompatibility,6 and biodegradability,7 applicable to many fields including biomedicine,8 
+food,9 agriculture,10 cosmetics,11 and water treatment.12 Chitosan properties are largely 
+dependent upon two features its degree of deacetylation (DDA) and Mw.1315 Control over Mw 
+is desirable as it can have considerable influence on the performance of the material in different 
+applications.

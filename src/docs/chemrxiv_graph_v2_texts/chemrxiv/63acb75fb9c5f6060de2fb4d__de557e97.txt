@@ -1,0 +1,31 @@
+Description:
+Has larger elastic moduli and hardness due to a larger number of hydrogen bonding interactions.
+
+Text:
+The mechanical properties of molecular perovskites have been demonstrated to be tuneable 
+through different components of the material.15 For instance, the larger elastic moduli and 
+hardness of C(NH2)3Mn(HCOO)3 compared to (CH2)3NH2Mn(HCOO)3 have been attributed to 
+the larger number of hydrogen bonding interactions,16 and a similar conclusion can be drawn for 
+the elastic moduli across the Asite solid solution series NH3NH21xNH3OHZn(HCOO)3.17 Looking 
+at the impact of the metal ion, a linear correlation between the elastic moduli and ligand field 
+stabilisation energy has been observed for the series (CH3)2NH2M(HCOO)3 with M2  Mn2, 
+Co2, Ni2 and Zn2.18 Likewise, the bulk modulus of several molecular perovskites series, such as 
+(CH3)2NH2M(HCOO)3 (M2  Mn2, Fe2 and Cu2) 19, (C3H7)4NM(C2N3)3 (M2  Mn2 and Cd2),20, 
+21 (NH2)3CM(HCOO)3 (M2  Mn2, Co2 and Cd2)22, 23 have been explored by highpressure 
+diffraction experiments on single crystals and powders.
+
+
+---
+
+Description:
+A compound used to study the impact of B-site metal defects on bulk modulus.
+
+Text:
+Some studies24, 25 have reported trends 
+such as a relationship between size and chemistry of the divalent Bsite metal and the bulk 
+modulus, which agree with chemical intuition. Furthermore, the impact of Bsite metal defects 
+has been studied by comparing C(NH2)3Mn(HCOO)3 with its defective analogue 
+C(NH2)3Fe2313(HCOO)3, (  vacancy), which exhibits a bulk modulus that is nearly 30 
+lower.26 This body of work demonstrates the immense potential for tailoring the mechanical 
+properties in hybrid and molecular perovskites, depending on a solid understanding of the 
+chemical and physical principles that affect them.

@@ -1,0 +1,46 @@
+Description:
+Used in lithium ion batteries as a component of the electrolyte.
+
+Text:
+Although the exact electrolytic composion for present day lithium ion batteries (LIBs) may differ 
+among different scenarios, the electrolytes 1 usually employ a mixture of alkyl carbonates such 
+as ethylene carbonate (EC)), dimethyl carbonate (DMC)) and lithium conducting salts (e.g., 
+LiPF6) 2. Neverthless, alkyl carbonates are flammable, and this has been the main cause of 
+safety concerns to the LIB technology 3. For these reasons, therefore, there have been 
+considerable research efforts to mitigate those safety concerns, and to design alternative 
+electrolyte compositions with improved thermal stability that would be able to work in a broader 
+operative temperature range 4. The primary design concept in electrolyte engineering involves 
+balancing conflicting physicochemical properties such as low viscosity with high conductivity, 
+and low charge transfer resistance with electrode passivation 5.
+
+
+---
+
+Description:
+Forms salts that dissolve in cyclic carbonates to enable fast mobility of ions between electrodes.
+
+Text:
+The LIB electrolyes constitute 
+mixtures of solvents with high (e.g. EC   90 at 40C) and low (DMC   3.1 at 25C) 
+dielectric constants which have distinct roles in the electrolyte 6. The linear carbonates (e.g. DMC) serve to mitigate the viscosity and lower the melting point. The cyclic carbonates (e.g. EC), on the other hand, have high dielecric constants which can easily dislove the lithium salts, 
+which eventually solvates the cations and anions enabling fast mobility of the Li ions between 
+the electrodes 7. Despite large variation in the magnitude of their dielectric constants, both 
+cyclic and linear carbonates actively participate in forming the lithium solvation sheath 8.
+
+
+---
+
+Description:
+A component of lithium-ion battery electrolytes used to optimize properties such as conductivity and viscosity.
+
+Text:
+In the mixed electrolyte strategy, therefore, 
+finding an optimal ratio of electrolytic components has always been of special interest to 
+improve the performance of LIBs. An appropriate selection of the type of ILs, solvent(s) and 
+lithium salt, as well as the ratio between these components, makes possible the realization of 
+electrolytes with optimized properties. For these reasons, the use of ILcarbonate mixtures as 
+LIB electrolytes has become the research interest of many authors. For example, Guerfi et al. 12 obtained an optimum range of conductivity and viscosity for electrolytes containing 30
+40 
+of 
+ILs 
+in

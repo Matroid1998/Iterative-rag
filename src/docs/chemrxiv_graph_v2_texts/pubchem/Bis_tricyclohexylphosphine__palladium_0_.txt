@@ -1,0 +1,23 @@
+Name: Bis(tricyclohexylphosphine) palladium(0)
+Text:
+Properties:safety: Flammable and Irritant
+smiles: C1CCC(CC1)P(C2CCCCC2)C3CCCCC3.C1CCC(CC1)P(C2CCCCC2)C3CCCCC3.[Pd]
+formula: C36H66P2Pd
+chem_properties: Molecular Weight: 667.3 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 6
+Exact Mass: 666.36746 Da
+Monoisotopic Mass: 666.36746 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 39
+Formal Charge: 0
+Complexity: 202
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

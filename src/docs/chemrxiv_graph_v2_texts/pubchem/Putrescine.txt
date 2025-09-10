@@ -1,0 +1,34 @@
+Name: Putrescine
+Text:
+Putrescine is a four-carbon alkane-alpha,omega-diamine. It is obtained by the breakdown of amino acids and is responsible for the foul odour of putrefying flesh. It has a role as a fundamental metabolite and an antioxidant. It is a conjugate base of a 1,4-butanediammonium.
+Putrescine is a toxic diamine formed by putrefaction from the decarboxylation of arginine and ornithine. Putrescine is a solid. This compound belongs to the polyamines. These are compounds containing more than one amine group. Known drug targets of putrescine include putrescine-binding periplasmic protein, ornithine decarboxylase, and S-adenosylmethionine decarboxylase proenzyme.
+Putrescine is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+1,4-Diaminobutane has been reported in Pseudomonas hydrogenovora, Jacobaea carniolica, and other organisms with data available.
+Putrescine is a four carbon diamine produced during tissue decomposition by the decarboxylation of amino acids. Polyamines, including putrescine, may act as growth factors that promote cell division; however, putrescine is toxic at high doses.
+PUTRESCINE is a small molecule drug with a maximum clinical trial phase of III and has 1 investigational indication.
+Putrescine is a uremic toxin.  Uremic toxins can be subdivided into three major groups based upon their chemical and physical characteristics: 1) small, water-soluble, non-protein-bound compounds, such as urea; 2) small, lipid-soluble and/or protein-bound compounds, such as the phenols and 3) larger so-called middle-molecules, such as beta2-microglobulin. Chronic exposure of uremic toxins can lead to a number of conditions including renal damage, chronic kidney disease and cardiovascular disease.
+Putrescine is a polyamine. Putrescine is related to cadaverine (another polyamine). Both are produced by the breakdown of amino acids in living and dead organisms and both are toxic in large doses. Putrescine and cadaverine are largely responsible for the foul odor of putrefying flesh, but also contribute to the odor of such processes as bad breath and bacterial vaginosis. Putrescine is also found in semen. Putrescine attacks s-adenosyl methionine and converts it to spermidine. Spermidine in turn attacks another s-adenosyl methionine and converts it to spermine. Putrescine is synthesized in small quantities by healthy living cells by the action of ornithine decarboxylase. The polyamines, of which putrescine is one of the simplest, appear to be growth factors necessary for cell division. Putrescine apparently has specific role in skin physiology and neuroprotection. Pharmacological interventions have demonstrated convincingly that a steady supply of polyamines is a prerequisite for cell proliferation to occur. Genetic engineering of polyamine metabolism in transgenic rodents has shown that polyamines play a role in spermatogenesis, skin physiology, promotion of tumorigenesis and organ hypertrophy as well as neuronal protection. Transgenic activation of polyamine catabolism not only profoundly disturbs polyamine homeostasis in most tissues, but also creates a complex phenotype affecting skin, female fertility, fat depots, pancreatic integrity and regenerative growth. Transgenic expression of ornithine decarboxylase antizyme has suggested that this unique protein may act as a general tumor suppressor. Homozygous deficiency of the key biosynthetic enzymes of the polyamines, ornithine and S-adenosylmethionine decarboxylase is not compatible with murine embryogenesis. (A3286, A3287).
+Putrescine is a metabolite found in or produced by Saccharomyces cerevisiae.
+A toxic diamine formed by putrefaction from the decarboxylation of arginine and ornithine.
+Properties:safety: Flammable and Corrosive and Acute Toxic and Irritant
+smiles: C(CCN)CN
+formula: C4H12N2
+chem_properties: Molecular Weight: 88.15 g/mol
+XLogP3: -0.9
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 3
+Exact Mass: 88.100048391 Da
+Monoisotopic Mass: 88.100048391 Da
+Topological Polar Surface Area: 52
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 17.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

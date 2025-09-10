@@ -1,0 +1,31 @@
+Name: Vigabatrin
+Text:
+Vigabatrin is a gamma-amino acid having a gamma-vinyl GABA structure. It is an irreversible inhibitor of gamma-aminobutyric 664 acid transaminase It has a role as an anticonvulsant and an EC 2.6.1.19 (4-aminobutyrate--2-oxoglutarate transaminase) inhibitor.
+Vigabatrin is an analog of gamma-aminobutyric acid ([GABA]), the main inhibitory neurotransmitter in the central nervous system, used in the treatment of refractory seizures and infantile spasms. It irreversibly inhibits the enzyme responsible for GABA metabolism, thereby increasing levels of circulating GABA. Although administered as a racemic mixture, only the S(+) enantiomer is pharmacologically active.  It was first introduced as an antiepileptic agent in the United Kingdom in 1989 and was used extensively until 1997, when an association with vision loss became apparent. Its use is now generally reserved for patients who have failed alternative therapies, and its US approval by the FDA in 2009 mandated the creation of a drug registry to monitor patients for visual deficits.
+Vigabatrin is an Anti-epileptic Agent.
+Vigabatrin is a GABA derivative that is used in combination with other agents as therapy of refractory complex partial seizures and as monotherapy for infantile spasms. Vigabatrin is associated with a paradoxical decrease in serum enzyme levels during therapy, explained by its direct inhibition of aminotransferase activity. Vigabatrin has not been convincingly linked to cases of clinically apparent liver injury, but was linked to a fatal case of Reye syndrome in a child with severe developmental delay.
+VIGABATRIN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2009 and has 6 approved and 6 investigational indications. This drug has a black box warning from the FDA.
+Vigabatrin is only found in individuals that have used or taken this drug. It is an analogue of gamma-aminobutyric acid. It is an irreversible inhibitor of 4-aminobutyrate transaminase, the enzyme responsible for the catabolism of gamma-aminobutyric acid. (From Martindale The Extra Pharmacopoeia, 31st ed)It is believed that vigabatrin increases brain concentrations of gamma-aminobutyric acid (GABA), an inhibitory neurotransmitter in the CNS, by irreversibly inhibiting enzymes that catabolize GABA (gamma-aminobutyric acid transaminase GABA-T) or block the reuptake of GABA into glia and nerve endings. Vigabatrin may also work by suppressing repetitive neuronal firing through inhibition of voltage-sensitive sodium channels.
+An analogue of GAMMA-AMINOBUTYRIC ACID. It is an irreversible inhibitor of 4-AMINOBUTYRATE TRANSAMINASE, the enzyme responsible for the catabolism of GAMMA-AMINOBUTYRIC ACID and is used as an anticonvulsant. (From Martindale The Extra Pharmacopoeia, 31st ed)
+Properties:safety: Irritant
+smiles: C=CC(CCC(=O)O)N
+formula: C6H11NO2
+chem_properties: Molecular Weight: 129.16 g/mol
+XLogP3: -2.2
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 4
+Exact Mass: 129.078978594 Da
+Monoisotopic Mass: 129.078978594 Da
+Topological Polar Surface Area: 63.3
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 112
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

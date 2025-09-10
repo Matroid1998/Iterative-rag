@@ -1,0 +1,23 @@
+Description:
+Central nodes of redox biology involved in redox reactions.
+
+Text:
+The highly conserved, 
+upstream oxidoreductases that supply reducing equivalents for these 
+many reaction manifolds are attractive targets as the central nodes of 
+thioldisulfide redox biology particularly the dithioltype redoxins, 
+including 
+the 
+thioredoxinthioredoxin 
+reductase 
+system 
+(TrxTrxR), the glutaredoxinglutathioneglutathione reductase 
+system (GrxGSHGR), and a handful of related proteins.13 
+There are tremendous untapped opportunities for small molecule 
+approaches that are chemocompatible with these dithioldisulfide 
+chemistries (or even selectively address certain oxidoreductases), 
+and that work effectively and noninvasively in live cells. Such 
+reagents may drive basic research into biological redox dynamics and 
+regulation, support translational medicine with redox or 
+metabolicallygated diagnostics and therapeutics, or contribute in 
+many other ways to the broader field of chemical biology.

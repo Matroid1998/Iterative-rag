@@ -1,0 +1,26 @@
+Name: Di((2H3)methyl) sulphoxide
+Text:
+Dimethyl sulfoxide-d6 is a deuterated compound, a sulfoxide and a volatile organic compound. It has a role as a NMR solvent.
+See also: Dimethyl Sulfoxide (annotation moved to).
+Properties:safety: Irritant
+smiles: [2H]C([2H])([2H])S(=O)C([2H])([2H])[2H]
+formula: C2H6OS
+chem_properties: Molecular Weight: 84.17 g/mol
+XLogP3: -0.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 84.05159646 Da
+Monoisotopic Mass: 84.05159646 Da
+Topological Polar Surface Area: 36.3
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 29
+Isotope Atom Count: 6
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

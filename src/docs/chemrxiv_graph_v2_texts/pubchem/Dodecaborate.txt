@@ -1,0 +1,23 @@
+Name: Dodecaborate
+Text:
+Properties:safety: Irritant
+smiles: B([O-])([O-])[O-].B([O-])([O-])[O-].B([O-])([O-])[O-].B([O-])([O-])[O-].B([O-])([O-])[O-].B([O-])([O-])[O-].B([O-])([O-])[O-].B([O-])([O-])[O-].B([O-])([O-])[O-].B([O-])([O-])[O-].B([O-])([O-])[O-].B([O-])([O-])[O-]
+formula: B12O36-36
+chem_properties: Molecular Weight: 705.7 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 36
+Rotatable Bond Count: 0
+Exact Mass: 705.935852 Da
+Monoisotopic Mass: 707.928588 Da
+Topological Polar Surface Area: 830
+Heavy Atom Count: 48
+Formal Charge: -36
+Complexity: 8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 12
+Compound Is Canonicalized: Yes 
+

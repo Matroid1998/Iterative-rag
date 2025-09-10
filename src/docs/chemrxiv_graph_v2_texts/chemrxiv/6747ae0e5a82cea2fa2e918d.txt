@@ -1,0 +1,30 @@
+Description:
+A component of biocompatible, stimuli-responsive polymer systems that degrade under acidic conditions and enzyme exposure.
+
+Text:
+Although IO CAs are not 
+predisposed to stimuliresponsive activity, polymer 
+functionalization has been able to induce tuneable, 
+stimulitriggered 
+relaxivity 
+changes(1). PSs, 
+nanoparticle vesicles formed from the selfassembly 
+of 
+amphiphilic 
+block 
+copolymers, 
+can 
+co
+encapsulate both hydrophilic and hydrophobic 
+drugs(5), which could enable the future addition of 
+therapeutics alongside IO CAs. Previously, our lab has developed highly 
+biocompatible, stimuliresponsive PSs made from 
+hyaluronic acid (HA) and polylactic acid (PLA)(6,7). HAPLA PSs degrade under acidic conditions and 
+upon exposure to enzymes like hyaluronidase or 
+hexosaminidase A. Building on this, we co
+encapsulated ultrasmall IO nanoparticles (USPIONs) 
+into HA(5kDa)PLA(15 kDa) PSs with bovine serum 
+albumin (BSA) as a model protein to enable 
+nanoparticle tracking via MRI. Our work lays the 
+foundation for theranostic PSs for simultaneous 
+protein delivery and disease monitoring.

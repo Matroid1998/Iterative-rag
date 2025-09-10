@@ -1,0 +1,33 @@
+Description:
+Forms sheets in the crystal structure of high entropy diborides.
+
+Text:
+In our previous work, Rosenberg et al. used the stabilization from high mixing entropy to force 
+platinum to alloy into the high entropy boride (HEB) Al0.2Nb0.2Pt0.2Ta0.2Ti0.2B2. This was the highest 
+coordinated platinumboride species reported thus far, a remarkable 12coordinated platinum 
+boride phase.1 Platinum borides prior to the discovery of this HEB, were only boron poor phases 
+with low platinum coordination Pt3B2 (platinum coordinated by 6 borons), PtB (platinum 
+coordinated by 6 borons), and Pt2B (platinum coordinated by 3 borons).24 The fascination with 
+forming a platinum high entropy diboride, comes from its unique crystal structure of alternating 
+borophene sheets and metal (Figure 1). Platinum based catalysts are poisoned by ppm 
+concentrations of sulfur.
+
+
+---
+
+Description:
+Shields platinum from sulfur while maintaining high catalytic activity.
+
+Text:
+Boron contributes sulfurresistivity for poisonresistant catalysis allowing 
+it to avoid sulfur poisoning, even at elevated sulfur concentrations and enable a longer catalyst 
+lifetime.57 What made Al0.2Nb0.2Pt0.2Ta0.2Ti0.2B2 remarkable was its ability to catalytically reduce 
+4nitrothiophenol which contains a thiol group directly functionalized to the substrate. This would 
+have been the worst possible test case for poisonresistant catalysts as the substrate itself is 
+poisonous at 1,000 ppm loadings, far exceeding the sulfur tolerance of previous poisonresistant 
+catalysts. This remarkable tolerance must be derived from the borophene sheets most important 
+function; in that it shields platinum from sulfur, while maintaining its high catalytic activity. httpsdoi.org10.26434chemrxiv2025018jg ORCID httpsorcid.org0000000256776970 Content not peerreviewed by ChemRxiv. License CC BY 4.0
+
+3 
+
+Figure 1.

@@ -1,0 +1,13 @@
+Description:
+A framework used in multiresonant TADF emitters for narrowband emission.
+
+Text:
+At present, commercialized highresolution OLED displays mainly employ a color filter or 
+microcavity to reach the color purity required by broadcasting standards, which is inevitably 
+accompanied by losses in device efficiency and energy utilization.7 Therefore, it would be of great 
+utility to devise an emitter showing narrowband emission. Recently, Hatakeyama et al. introduced a 
+subclass of TADF emitters coined multiresonant TADF (MRTADF), that show the desired 
+narrowband emission. This is due to their rigid polyaromatic hydrocarbon (PAH) framework,8 where 
+the rigid molecular skeleton and the shortrange CT (SRCT) nature of the emissive singlet excited 
+state enable simultaneously narrowband emission and small DES1T1. In this design, the electron 
+densities of the HOMO and LUMO are localized on the adjacent atoms.

@@ -1,0 +1,37 @@
+Description:
+A crystalline, air-stable source of electrophilic fluorine and a remarkable oxidant.
+
+Text:
+Selectfluor (1(chloromethyl)4fluoro1,4
+diazoniabicyclo2.2.2octane bis(tetrafluoroborate)) 
+was developed by Banks and Sharif at the University 
+of Manchester Institute of Science and Technology as 
+a crystalline, airstable source of F, has been 
+commercialized by Air Products, and is now 
+inexpensive and widely available.1, 2 Soon after its 
+discovery, chemists came to appreciate that not only 
+was Selectfluor a manageable source of electrophilic 
+fluorine3, 4 but also that it was a remarkable oxidant, 
+at once strong enough to trigger a variety of 
+interesting reactions but mild enough to be 
+compatible with a range of functional groups.58 One 
+particularly interesting application of Selectfluor as an oxidant has been in its use for siteselective sp3 C
+H functionalization reactions,930 an area of longstanding interest to us.3135 We were particularly attracted 
+to the early work of Banks36 and later improvement by Baran37 on a Rittertype CH functionalization of 
+menthol using a CuBr2Selectfluor manifold (Scheme 1A).
+
+
+---
+
+Description:
+Used alongside CuBr2 and Zn(OTf)2 in the treatment of 4methyl1pentanol.
+
+Text:
+At the outset of this project, it was our intention to adapt Barans protocol for an intramolecular C 
+ H etherification, and we chose 4methyl1pentanol as a convenient optimization substrate. When 4
+methyl1pentanol was treated with CuBr2, Zn(OTf)2, and Selectfluor, none of the desired 2,2
+dimethyltetrahydrofuran formed. A very polar spot was visualized by thinlayer chromatography, and the 
+crude sample had the acrid odor of a carboxylic acid. 1H NMR analysis confirmed that 4methylvaleric acid 
+was the predominant product, an interesting surprise. Mild protocols for the direct oxidation of alcohols to 
+carboxylic acids are especially valuable3842; generally twopot reactions are employed, with aldehydes 
+httpsdoi.org10.26434chemrxiv2023pj66w ORCID httpsorcid.org0000000347057349 Content not peerreviewed by ChemRxiv. License CC BY 4.0

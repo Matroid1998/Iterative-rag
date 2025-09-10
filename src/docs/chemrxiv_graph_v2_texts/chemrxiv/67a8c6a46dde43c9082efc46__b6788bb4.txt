@@ -1,0 +1,39 @@
+Description:
+A two-dimensional material with weak water adsorption due to its nonpolar nature.
+
+Text:
+Within
+this diverse category, carbonbased materials such as activated
+carbon fibres, carbon nanotubes, carbon spheres, graphene,
+graphite, and graphene oxide have shown remarkable potential
+due to their tunable structure and surface reactivity8. Water (H2O) adsorption on twodimensional (2D) materials,
+such as graphene and fullerenebased sheets, plays a crucial
+role in applications ranging from sensing to photocatalysis912. Pristine graphene and related 2D materials exhibit weak water
+adsorption due to its nonpolar nature. In contrast, structural
+modifications like doping with heteroatoms (e.g., B, N, or P)
+significantly enhance its hydrophilicity and adsorption capac
+ity1316. Similarly, fullerenebased 2D networks demonstrate
+improved water interaction upon doping, altering surface charge
+distribution and electronic properties1719.
+
+
+---
+
+Description:
+Carbon-based material that can be functionalized to form distinct derivatives with tailored properties.
+
+Text:
+In this context, functionalized refers to
+incorporating different chemical groups into the graphene struc
+ture, forming distinct GO derivatives with tailored properties. Carbonbased materials, mainly GOmodified with metal oxides,
+have also garnered significant research interest due to their
+improved stability, durability, and enhanced electrocatalytic and
+photocatalytic performance2831. These findings underscore
+the importance of defect engineering and functionalization in
+optimizing carbonbased materials to capture and activate small
+molecules. Using computational modelling and experimental ad
+vances, researchers can design nextgeneration materials capable
+of addressing the challenges posed by climate change32,33. The
+insights gained from these studies contribute to fundamental
+scientific knowledge and pave the way for innovative solutions to
+energy and environmental sustainability3436.

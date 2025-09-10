@@ -1,0 +1,21 @@
+Description:
+Readily available compounds used to incorporate alkyl fragments into heterocyclic cores.
+
+Text:
+Leveraging computational
+tools and machine learning frameworks, combined with
+efficient semiautomated synthesis techniques such as
+highthroughput experimentation (HTE) and latestage
+functionalization (LSF), improves cycle times while re
+ducing material consumption and costs 5, 6. LSF facilitates the direct substitution of CH bonds by
+other functional groups or building blocks in a single
+step, eliminating the need for prefunctionalization of
+complex molecules 7. Consequently, this approach
+can offer higher efficiency in diversifying hit and lead
+structures compared to the traditional multistep syn
+thesis starting from basic building blocks 8. Among
+the available LSF methodologies, 9 Miniscitype C
+H alkylations are of particular interest as they lever
+age readily available carboxylic acids to incorporate
+alkyl fragments into heterocyclic cores 10, such as the
+widely used pyridine motif in medicinal chemistry.

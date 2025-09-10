@@ -1,0 +1,26 @@
+Description:
+A modified Kdo substrate used for metabolic labeling in Gram-negative bacteria.
+
+Text:
+Several studies have used 
+this modified Kdo substrate to metabolically label LPS in a selection of Gramnegative bacteria (Figure 
+1).9,1318 Labeling experiments involve the uptake of Kdo8N3 inside the bacterial cytosol, where it is 
+processed to the nucleotideactivated CMPKdo8N3 form. Next, Kdotransferase adds Kdo8N3 to the 
+growing lipid A structure, after which the glycoconjugate is flipped to the extracellular surface. A 
+subsequent click reaction with a fluorescent label allows the visualization of labeled LPS structures 
+using SDSPAGE gel imaging and fluorescence microscopy on whole cells.
+
+
+---
+
+Description:
+A chemically synthesized compound used to label LPS and visualize bacterial cell membranes using fluorescence microscopy.
+
+Text:
+In the first account in 2012, 
+Kdo8N3 was chemically synthesized and used as a tool to label LPS and to selectively visualize the cell 
+membrane of E. coli K12, Salmonella thyphimurium, and Legionella pneumophila strain Paris using 
+fluorescence microscopy.9 Bacteria were incubated in a minimal medium (M9) with Kdo8N3 and 
+subsequently reacted with a fluorophore through coppercatalyzed click chemistry. This method was 
+further improved by growing the bacterial cells in a richer media (LB) supplemented with lower 
+httpsdoi.org10.26434chemrxiv2023qsgcq ORCID httpsorcid.org0000000311012659 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

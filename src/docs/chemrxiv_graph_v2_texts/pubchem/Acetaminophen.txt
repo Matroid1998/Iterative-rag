@@ -1,0 +1,35 @@
+Name: Acetaminophen
+Text:
+4-hydroxyacetanilide is an odorless white crystalline solid. Bitter taste. pH (saturated aqueous solution) about 6. (NTP, 1992)
+Paracetamol is a member of the class of phenols that is 4-aminophenol in which one of the hydrogens attached to the amino group has been replaced by an acetyl group. It has a role as a cyclooxygenase 2 inhibitor, a cyclooxygenase 1 inhibitor, a non-narcotic analgesic, an antipyretic, a non-steroidal anti-inflammatory drug, a cyclooxygenase 3 inhibitor, a xenobiotic, an environmental contaminant, a human blood serum metabolite, a hepatotoxic agent, a ferroptosis inducer and a geroprotector. It is a member of phenols and a member of acetamides. It is functionally related to a 4-aminophenol.
+Acetaminophen (paracetamol), also commonly known as Tylenol, is the most commonly taken analgesic worldwide and is recommended as first-line therapy in pain conditions by the World Health Organization (WHO). It is also used for its antipyretic effects, helping to reduce fever. This drug was initially approved by the U.S. FDA in 1951 and is available in a variety of forms including syrup form, regular tablets, effervescent tablets, injection, suppository, and other forms.  Acetaminophen is often found combined with other drugs in more than 600 over the counter (OTC) allergy medications, cold medications, sleep medications, pain relievers, and other products. Confusion about dosing of this drug may be caused by the availability of different formulas, strengths, and dosage instructions for children of different ages. Due to the possibility of fatal overdose and liver failure associated with the incorrect use of acetaminophen, it is important to follow current and available national and manufacturer dosing guidelines while this drug is taken or prescribed.
+Acetaminophen is a widely used nonprescription analgesic and antipyretic medication for mild-to-moderate pain and fever. Harmless at low doses, acetaminophen has direct hepatotoxic potential when taken as an overdose and can cause acute liver injury and death from acute liver failure. Even in therapeutic doses, acetaminophen can cause transient serum aminotransferase elevations.
+Acetaminophen has been reported in Streptomyces xiamenensis and Euglena gracilis with data available.
+Acetaminophen is a p-aminophenol derivative with analgesic and antipyretic activities. Although the exact mechanism through which acetaminophen exert its effects has yet to be fully determined, acetaminophen may inhibit the nitric oxide (NO) pathway mediated by a variety of neurotransmitter receptors including N-methyl-D-aspartate (NMDA) and substance P, resulting in elevation of the pain threshold. The antipyretic activity may result from inhibition of prostaglandin synthesis and release in the central nervous system (CNS) and prostaglandin-mediated effects on the heat-regulating center in the anterior hypothalamus.
+Theraflu is any of the commercial combination preparations, by Novartis, containing a combination of any of the following agents: the analgesic antipyretic acetaminophen, an antihistamine (chlorpheniramine maleate, diphenhydramine hydrochloride, doxylamine succinate or pheniramine maleate), the antitussive dextromethorphan maleate and/or a decongestant (phenylephrine hydrochloride or pseudoephedrine hydrochloride). Theraflu preparations are used to relieve symptoms of cold and flu. Acetaminophen exerts its actions by inhibiting prostaglandin synthesis. The antihistamines block the effects of histamine. Dextromethorphan exerts its activity by raising the threshold for coughing in the cough center. The decongestants are sympathomimetic agents that cause vasoconstriction mediated through alpha-adrenergic receptors. This reduces blood flow, decreases swelling and prevents nasal and sinus congestion.
+ACETAMINOPHEN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1968 and has 12 approved and 96 investigational indications. This drug has a black box warning from the FDA.
+Acetaminophen, also known as paracetamol, is commonly used for its analgesic and antipyretic effects. Its therapeutic effects are similar to salicylates, but it lacks anti-inflammatory, antiplatelet, and gastric ulcerative effects. The excellent tolerability of therapeutic doses of paracetamol (acetaminophen) is a major factor in the very wide use of the drug. The major problem in the use of paracetamol is its hepatotoxicity after an overdose. Hepatotoxicity has also been reported after therapeutic doses, but critical analysis indicates that most patients with alleged toxicity from therapeutic doses have taken overdoses. Importantly, prospective studies indicate that therapeutic doses of paracetamol are an unlikely cause of hepatotoxicity in patients who ingest moderate to large amounts of alcohol. (A7820). Single doses of paracetamol are effective analgesics for acute postoperative pain and give rise to few adverse effects. (A7821). Acetaminophen (AAP) overdose and the resulting hepatotoxicity is an important clinical problem. In addition, AAP is widely used as a prototype hepatotoxin to study mechanisms of chemical-induced cell injury and to test the hepatoprotective potential of new drugs and herbal medicines. Because of its importance, the mechanisms of AAP-induced liver cell injury have been extensively investigated and controversially discussed for many years. (A7822).
+Analgesic antipyretic derivative of acetanilide. It has weak anti-inflammatory properties and is used as a common analgesic, but may cause liver, blood cell, and kidney damage.
+See also: Acetaminophen; Hydrocodone Bitartrate (component of); Acetaminophen; Oxycodone Hydrochloride (component of); Acetaminophen; Codeine Phosphate (component of) ... View More ...
+Properties:safety: Irritant
+smiles: CC(=O)NC1=CC=C(C=C1)O
+formula: C8H9NO2
+chem_properties: Molecular Weight: 151.16 g/mol
+XLogP3: 0.5
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 151.063328530 Da
+Monoisotopic Mass: 151.063328530 Da
+Topological Polar Surface Area: 49.3
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 139
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,69 @@
+Description:
+Molecular oxygen that is essential for microbial proliferation and affected by environmental fluctuations.
+
+Text:
+13
+Microbes in natural habitats are exposed to external environmental changes and have evolved strategies
+14
+to adapt to the surrounding conditions1. They proliferate in fluctuating environments on different time
+15
+scales with different parameters, such as the availability of molecular oxygen (O2)2, nutrients3, pH4,
+16
+temperature5, and light6. These fluctuating environmental conditions are pervasive, including the ocean3
+17
+and soil5, as well as in animal hosts, such as in the nasal passage4, lung7 and intestine8. Fluctuating
+18
+environments are also prevalent in biotechnological cultivation setups. Industrial largescale bioreactors,
+19
+for instance, stir large volumes of culture broth, often resulting in inefficient mixing and heterogeneous
+20
+distribution of O2 and nutrients, which could potentially lead to yield losses911.
+
+
+---
+
+Description:
+A primary electron acceptor for aerobic respiration in many microorganisms.
+
+Text:
+Investigating microbial
+21
+behavior in fluctuating environments will therefore improve our understanding of microbial adaptation
+22
+to external environmental changes and may offer insights into how to enhance efficiency in industrial
+23
+biotechnology. 24
+Among the various environmental conditions, the availability of O2 is one of the most critical for
+25
+microbial growth and physiology. O2 is intricately linked with a multitude of microbial processes,
+26
+including iron homeostasis12, oxidative stress13, the development of pathogenic infections14 and biofilm
+27
+growth15. In addition to these microbial processes associated with O2 availability, O2 is also valuable
+28
+as a primary electron acceptor for aerobic respiration in many microorganisms.
+
+
+---
+
+Description:
+A molecule that influences metabolic pathways by enabling aerobic respiration in facultative anaerobes.
+
+Text:
+In particular, facultative
+29
+anaerobes, which are capable of growing under both aerobic and anaerobic conditions, adapt to changing
+30
+O2 environments by switching their metabolic pathways between aerobic respiration and anaerobic
+31
+respirationfermentation16,17. This ability of facultative anaerobes to adapt to different O2 environments
+32
+has been extensively studied under singleshift O2 environments. Previous studies have primarily focused
+33
+on examining intracellular adaptation, such as transcriptome16, protein synthesis18, metabolome19, flux
+34
+balance20, and phenotypic adaptation like growth fitness21. These studies have mostly been conducted in
+35
+conventional cultivation setups, including microtiter plates, shaking flasks, and bioreactors. However, there
+36
+is a lack of understanding regarding the cellular capability to adapt to rapidly fluctuating O2 environments.

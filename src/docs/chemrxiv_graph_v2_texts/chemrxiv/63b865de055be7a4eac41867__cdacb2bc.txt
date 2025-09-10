@@ -1,0 +1,10 @@
+Description:
+A gaseous product formed from the decomposition of SiO2.
+
+Text:
+Depending on 
+temperature and O2 pressure (PO2), etching may be active, or result in passivation by growth of a 
+thin SiO2 layer.26 At higher temperatures, SiO2 surface layers on Si can decompose and desorb 
+by the reaction SiO2  Si  2 SiO(g), and even thick SiO2 can decompose and desorb as SiO, O2, 
+and O at temperatures above 1800 K.7 Silicon carbide (SiC) has similar O2 etching behavior, 
+losing SiO and COCO2, and passivating due to SiO2 layer growth under the right conditions.

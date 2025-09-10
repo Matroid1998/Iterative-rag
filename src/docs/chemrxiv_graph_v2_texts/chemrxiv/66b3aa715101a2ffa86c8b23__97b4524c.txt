@@ -1,0 +1,14 @@
+Description:
+A 2D material that achieves a capacity of 1,000 mAh g1.8 but suffers from irreversibility and poor cycling stability during initial cycles.
+
+Text:
+In our previous work, we demonstrated 
+that 2D MoS2 achieves a capacity of 1,000 mAh g1.8 However, 2D MoS2 electrodes 
+suffered from irreversibility during the first cycles and poor cycling stability. We 
+demonstrated that this was due to activation processes, which consist of physical 
+electrode transformations that led to an evolution of energy storage mechanisms. Conversionintercalation battery processes (first 2 cycles) evolved first into a 
+combination of battery and pseudocapacitive processes, and subsequently, into a state 
+dominated by pseudocapacitive and double layer capacitive processes.8 Importantly, 
+these activation processes were ratedependent and led to a continuously growing 
+capacity during cycling, which, provided that the cycling stability is improved, can be 
+utilized in a high capacityhigh rate energy storage device .

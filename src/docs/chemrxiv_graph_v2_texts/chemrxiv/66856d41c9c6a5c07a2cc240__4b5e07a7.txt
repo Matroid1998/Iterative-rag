@@ -1,0 +1,11 @@
+Description:
+Catalyst with very fast kinetics for hydrogen oxidation and evolution reactions in acidic electrolyte.
+
+Text:
+Alkaline membrane electrolyzer and fuel cell technologies are attractive alternatives to their
+more mature acidic counterparts. Alkaline conditions are advantageous for the electrocatal
+ysis of the oxygen electrode reactions, but the opposite holds for the hydrogen electrode.13
+In acidic electrolyte, the kinetics of the hydrogen oxidation and evolution reactions (HOR
+and HER) on platinum catalyst are very fast, thus enabling ultralow platinum loadings
+2
+httpsdoi.org10.26434chemrxiv20245lh66 ORCID httpsorcid.org0000000190580501 Content not peerreviewed by ChemRxiv. License CC BY 4.0

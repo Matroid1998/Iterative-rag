@@ -1,0 +1,14 @@
+Description:
+Compounds that can be p and n-doped, used in MR TADF emitters with bright, narrowband emission.
+
+Text:
+First reported by Hatakeyama et al., 
+these compounds are p and ndoped polycyclic aromatic hydrocarbons (PAHs).9 By 
+employing this approach, the singlet and triplet excited states possess an alternating 
+pattern of increasing and decreasing electron density compared to the ground state, thus 
+enabling a small exchange integral and consequently a small EST.10 The rigid structure 
+and the short range charge transfer (SRCT) nature of the excited states endow the MR
+TADF compounds with bright, narrowband emission. Since the first report of MR
+TADF emitters used in OLEDs in 2016 there has been intense research focused on 
+expanding the chemical space encompassed by class of emitters.11 In the original works 
+of Hatakeyama, the ndopants were boron atoms.

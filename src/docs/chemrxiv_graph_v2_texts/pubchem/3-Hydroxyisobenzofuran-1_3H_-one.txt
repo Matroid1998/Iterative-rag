@@ -1,0 +1,25 @@
+Name: 3-Hydroxyisobenzofuran-1(3H)-one
+Text:
+O-phthalaldehydic acid is a 2-benzofuran having oxo and hydroxy groups at the 1- and 3-positions respectively. It is a member of 2-benzofurans and a carbon oxoacid.
+Properties:safety: Irritant
+smiles: C1=CC=C2C(=C1)C(OC2=O)O
+formula: C8H6O3
+chem_properties: Molecular Weight: 150.13 g/mol
+XLogP3: 0.6
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 150.031694049 Da
+Monoisotopic Mass: 150.031694049 Da
+Topological Polar Surface Area: 46.5
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 178
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

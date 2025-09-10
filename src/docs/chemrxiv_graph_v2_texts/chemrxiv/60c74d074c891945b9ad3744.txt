@@ -1,0 +1,24 @@
+Description:
+A component with high electron affinity used in the active layer of organic solar cells to surpass exciton binding energy and establish bulk heterojunctions.
+
+Text:
+As a result, the photogenerated 
+charge carriers sustain a strong Columbic interaction, which leads to significant geminate 
+recombination losses in organic solar cells (OSCs).1,2 In OSCs, a second component with high 
+electron affinity such as fullerene is incorporated into the active layer to surpass the exciton 
+binding energy and establish bulk heterojunction (BHJ) between donor and acceptor.3,4 
+Although, the concept of BHJ has been continuously evolved and witnessed a record power 
+conversion efficiency (PCE) of  18 for single junction solar cells, the main disadvantage of 
+BHJ is the morphology domains of donor and acceptor dictates the PCE of device.5,6 The 
+morphology of donoracceptor blend is very sensitive to the numerous parameters such as 
+molecular structure of donor and acceptor, processing solvent, annealing temperature of thin 
+film, spincoating conditions and solvent additives.7,8 To explore the full potential of any 
+newly synthesized polymer donor materials or small molecule acceptor, this ponderous 
+process needs to be optimized.9,10 Despite these tedious efforts, phase separation of donor 
+and acceptor domains is not limited to exciton diffusion length due to inherent 
+thermodynamic instability of the blend.11,12 The difference in tendency of crystallization of 
+donor and acceptor drive them to form microscopic domains larger than exciton diffusion 
+length.1315 These microscopic domains evolve further with the time and leads to spinodal 
+decomposition of blend, resulting in shorter lifetime of OSCs.8,12,15 
+Furthermore, the stringent energy criteria to accomplish efficient exciton dissociation 
+through electronhole transfer at the donoracceptor interface leads to loss in energy.

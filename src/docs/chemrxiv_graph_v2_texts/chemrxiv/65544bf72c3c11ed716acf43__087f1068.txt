@@ -1,0 +1,17 @@
+Description:
+A molecule detected in TPD to analyze the density of edges and adatoms.
+
+Text:
+Raman 
+spectroscopy has been used for the structure characterization of 
+2D graphenes and 1D carbon nanotubes,2024 and it could also be 
+applicable to the curved 3D analogues to provide insights into 
+the structural disorders which breaks the translational symmetry, 
+such as edges, defects, and grain boundaries of graphenerelated 
+materials.2529 The TPD, based on the detection of desorbed mol
+ecules including H2, CO, and CO2, rationalizes the density of 
+edges and adatoms,17 while the XRD and nitrogen physisorption 
+validate the number of graphene layers in the carbon materials.2 
+We found that both the NPCs and NPGs mostly consist of 
+singlelayered graphene with a few single vacancies and Stone
+Wales defects. In addition, a significant healing of the surface

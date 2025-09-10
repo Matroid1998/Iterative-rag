@@ -1,0 +1,43 @@
+Description:
+Used in visible-light-mediated dual catalysis for azidoarylation of alkenes.
+
+Text:
+One of 
+the classical methods is the Meerwein arylation that involves a re
+ductive generation of aryl radicals from highly reactive precursors 
+(aryldiazonium or diaryliodonium salts), followed by radicalpolar 
+crossover and trapping of the resulting carbocation with excess nu
+cleophiles.9 In 2021, the Gaunt group reported an excellent study 
+on the vicinal azidoarylation of alkenes using diaryliodonium salts 
+as aryl radical sources and NaN3 as the heteroatom source, via a 
+visiblelightmediated dual copper catalysis, to access aryl az
+idoalkanes.10 However, the use of these reactive radical precursors 
+presents challenges for the latestage modification of complex bio
+active molecules due to difficulties in accessing them. Conversely, 
+readily available (hetero)arenes, which are prevalent in pharmaceu
+tically relevant molecules, represent ideal aryl radical precursors 
+(Figure 1C).
+
+
+---
+
+Description:
+Used in dual catalysis for bromoarylation and aminoarylation of alkenes through photoredox processes.
+
+Text:
+To 
+overcome this challenge, an elegant indirect approach using arylthi
+anthrenium salts as aryl radical precursors was introduced by Ritter 
+and coworkers in 2019,11 and it has since been widely employed 
+in twocomponent reactions.12 The air and benchstable arylthi
+anthrenium salts can be derived from (hetero)arenes with excellent 
+yield and site selectivity through electrophilic thianthrenation or a 
+complementary Ircatalyzed regioselective borylation followed by 
+Cumediated thianthrenation for latestage functionalization of 
+complex bioactive molecules.11,12b More recently, Ritter and co
+workers extended the application of this strategy to threecompo
+nent reactions, enabling bromoarylation and aminoarylation of al
+kenes through photoredox and copper dual catalysis.13 Despite 
+these recent advances, the development of a unified synthetic plat
+form capable of rapidly assembling diverse 1,2aryl heteroatomic 
+httpsdoi.org10.26434chemrxiv2023gr02g ORCID httpsorcid.org000000029865180X Content not peerreviewed by ChemRxiv.

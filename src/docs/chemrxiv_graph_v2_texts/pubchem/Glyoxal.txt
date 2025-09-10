@@ -1,0 +1,29 @@
+Name: Glyoxal
+Text:
+Glyoxal appears as yellow crystals melting at15 °C. Hence often encountered as a light yellow liquid with a weak sour odor. Vapor has a green color and burns with a violet flame.
+Glyoxal is the dialdehyde that is the smallest possible and which consists of ethane having oxo groups on both carbons. It has a role as a pesticide, an agrochemical, an allergen and a plant growth regulator.
+Glyoxal has been reported in Arabidopsis thaliana and Sesamum indicum with data available.
+A 2-carbon aldehyde with carbonyl groups on both carbons.
+See also: Ethanedial, trimer (annotation moved to).
+Properties:safety: Irritant and Health Hazard
+smiles: C(=O)C=O
+formula: C2H2O2
+chem_properties: Molecular Weight: 58.04 g/mol
+XLogP3: -0.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 58.005479302 Da
+Monoisotopic Mass: 58.005479302 Da
+Topological Polar Surface Area: 34.1
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 25
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

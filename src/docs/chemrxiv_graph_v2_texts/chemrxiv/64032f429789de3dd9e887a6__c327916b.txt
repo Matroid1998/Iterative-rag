@@ -1,0 +1,14 @@
+Description:
+Contains nitrogen vacancy centers that serve as atom-sized quantum sensors for magnetic fields.
+
+Text:
+Diffusionweighted
+imaging further decreases the signal, limiting the achievable resolution to the submillimeter
+regime on applicable measurement time scales. For that reason, measuring diffusion with mi
+crometer resolution within thin lm materials, biological tissue or even for single cells is far out
+of reach. An elegant solution to overcome the sensitivity problem of NMR is the nitrogen vacancy (NV)
+center in diamond which is an atomsized quantum sensor for magnetic elds 15,16. Due to its
+spin statedependent uorescence, optically detected magnetic resonance (ODMR) experiments
+can be performed which translate the local magnetic eld into an optical signal. NVcenters have
+been used to conduct NMR experiments on unprecedented length scales 1720 and allow the
+detection of high spectral resolution NMR signals from picoliter sample volumes 2126.

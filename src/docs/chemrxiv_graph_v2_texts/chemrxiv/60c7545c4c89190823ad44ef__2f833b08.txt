@@ -1,0 +1,73 @@
+Description:
+Commonly used as a propellant in ion thrusters due to its inertness, high molecular weight, and relatively low ionization energy.
+
+Text:
+Ion thrusters are used to propel spacecraft and satellites 1, 2. Xenon is commonly used as a pro
+pellant owing to its inertness, high molecular weight, and relatively low ionization energy 3. To store xenon propellant onboard the spacecraft, xenon is typically compressed and stored at high
+pressures (75300 bar) 47 between 20C and 50C, in a supercritical state 8. The pressure vessel
+must have thick walls to safely contain the xenon at these high pressures, making it heavy. Because
+the cost of launching a payload into Earths orbit is ca. 10 000 USDlb 9, it is desirable to reduce the
+mass of storage materials required to store xenon propellant onboard spacecraft.
+
+
+---
+
+Description:
+A propellant used in space applications.
+
+Text:
+We investigate the feasibility of an alternative xenon storage strategy, with the objective of reduc
+ing the mass of the storage materials required to carry the xenon propellant into space packing
+the pressure vessel with a porous adsorbent material to help densify the xenon (i.e, use an ad
+sorbent in combination with pressurization). Activated carbon has been investigated for adsorbed
+xenon propellant storage, but it does not reduce the mass of the storage system 10.
+
+
+---
+
+Description:
+A gas with high affinity for adsorption in nanoporous materials, used in propellant storage systems.
+
+Text:
+Newer
+classes of nanoporous materials, such as metalorganic frameworks (MOFs) 11, porous organic
+cages (POCs) 12, and covalent organic frameworks (COFs) 13, exhibit very high internal surface
+areas 14, 15 and have demonstrated promise for gas densication in the context of vehicular hy
+drogen and methane storage 16, motivating us to consider these advanced nanoporous materials
+for adsorbed xenon propellant storage. Moreover, several of these nanoporous materials exhibit a
+high anity for xenon, evidenced by their adsorptive selectivity for xenon in the context of separa
+tions 1720. Here, we develop a simple mathematical model of an adsorbed xenon propellant storage system
+that enables us to evaluate and rank adsorbents for adsorbed xenon propellant storage.
+
+
+---
+
+Description:
+A propellant used in storage systems for space missions.
+
+Text:
+Our objec
+tive is to minimize the mass of storage materials required to carry the xenon propellant needed for
+the mission. For conventional, bulk xenon storage, the storage material is comprised of the mate
+rial composing the walls of the pressure vessel. For adsorbed xenon storage, the storage materials
+are comprised of the walls of the pressure vessel and the mass of the adsorbent material. Using
+our model, we nd the optimal storage pressure that minimizes the mass of the storage materials,
+under both bulk and adsorbed xenon storage strategies. The optimized conventional, bulk storage
+system serves as a baseline for evaluating porous materials for adsorbed xenon storage.
+
+
+---
+
+Description:
+A gas used in storage systems where adsorption isotherms and density in nanoporous materials are critical.
+
+Text:
+Our hypothesis is that the optimal storage pressure for the adsorbed xenon storage system is lower
+than that of the bulk xenon storage system, thereby allowing for thinnerwalled and thus lighter
+pressure vessels in the adsorbed storage system. The important question our model addresses is
+whether the reduced mass of the pressure vessel in the adsorbed xenon system compensates for
+the (added) mass of the adsorbent required to store the xenon at a lower pressure. The answer
+to this question depends on the xenon adsorption isotherm in and density of the nanoporous ma
+terial. We assess several nanoporous materials for xenon propellant storage, using experimentally
+reported xenon adsorption isotherms as input to our model. We nd that MOF505 and NiMOF74
+outperform the traditional adsorbent, activated carbon.

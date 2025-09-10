@@ -1,0 +1,224 @@
+The Stille reaction is a chemical reaction widely used in organic synthesis. The reaction involves the coupling of two organic groups, one of which is carried as an organotin compound (also known as organostannanes). A variety of organic electrophiles provide the other coupling partner. The Stille reaction is one of many palladium-catalyzed coupling reactions.
+
+  
+    
+      
+        
+          
+            
+              
+                R
+                
+                  1
+                
+              
+              
+                −
+              
+              Sn
+              
+                
+                  (
+                  Alkyl
+                  )
+                
+                
+                  3
+                
+                
+                  
+                
+              
+            
+          
+        
+        +
+        
+          
+            
+              
+                R
+                
+                  2
+                
+              
+              
+                −
+              
+              X
+            
+          
+        
+         
+        
+          
+            
+              →
+              
+                
+                  ligand set
+                
+              
+              
+                
+                  
+                    
+                      
+                        Pd
+                        
+                          0
+                        
+                      
+                    
+                  
+                
+                
+                   (catalytic)
+                
+              
+            
+          
+        
+         
+        
+          
+            
+              
+                
+                  
+                    
+                      
+                        R
+                        
+                          1
+                        
+                      
+                    
+                  
+                
+                
+                −
+                
+                
+                  
+                    
+                      
+                        R
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+              
+              ⏞
+            
+          
+          
+            c
+            o
+            u
+            p
+            l
+            e
+            d
+             
+            p
+            r
+            o
+            d
+            u
+            c
+            t
+          
+        
+        +
+        
+          
+            
+              X
+            
+          
+        
+        
+        −
+        
+        
+          
+            
+              Sn
+              
+                
+                  (
+                  Alkyl
+                  )
+                
+                
+                  3
+                
+                
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\color {Blue}{\ce {R^{1}-Sn(Alkyl)3}}}+{\color {Red}{\ce {R^{2}-X}}}\ {\ce {->[{\color {Green}{\ce {Pd^{0}}}}{\text{ (catalytic)}}][{\text{ligand set}}]}}\ \overbrace {{\color {Blue}{\ce {R^{1}}}}\!-\!{\color {Red}{\ce {R^{2}}}}} ^{coupled\ product}+{\color {Red}{\ce {X}}}\!-\!{\color {Blue}{\ce {Sn(Alkyl)3}}}}
+  
+
+  
+    
+      
+        
+          
+            
+              
+                R
+                
+                  1
+                
+              
+            
+          
+        
+        
+        ,
+         
+        
+          
+            
+              
+                R
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\color {Blue}{\ce {R^1}}}\!,\ {\color {Red}{\ce {R^2}}}}
+  
+: Allyl, alkenyl, aryl, benzyl, acyl
+
+  
+    
+      
+        
+          
+            
+              X
+            
+          
+        
+      
+    
+    {\displaystyle {\color {Red}{\ce {X}}}}
+  
+: halides (Cl, Br, I), pseudohalides (OTf, OPO(OR)2), OAc
+The R1 group attached to the trialkyltin is normally sp2-hybridized, including vinyl, and aryl groups.
+These organostannanes are also stable to both air and moisture, and many of these reagents either are commercially available or can be synthesized from literature precedent. However, these tin reagents tend to be highly toxic. X is typically a halide, such as Cl, Br, or I, yet pseudohalides such as triflates and sulfonates and phosphates can also be used. Several reviews have been published.

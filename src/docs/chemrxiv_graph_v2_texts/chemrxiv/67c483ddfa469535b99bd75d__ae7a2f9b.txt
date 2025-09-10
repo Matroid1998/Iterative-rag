@@ -1,0 +1,13 @@
+Description:
+Targets Plasmodium vivax, Plasmodium ovale, Plasmodium falciparum, and Plasmodium malariae.
+
+Text:
+Malaria is a significant public health concern in several countries. However, more cases of 
+malaria occur in subSaharan Africa1. Several approaches have been reported to battle this public health 
+concern. These methods include vaccinations, vector control, and widespread medicine administration 
+2. However, high parasite resistance to therapeutics treatments and insecticides a principal challenge 
+when treating malaria 3. Therapeutic approaches such as propoxur sulfalene, primaquine, pyrimethamine, chloroquine, 
+larviciding, and artemisinin target Plasmodium vivax, Plasmodium ovale, Plasmodium falciparum, 
+Anopheles gambiae s.l., and Plasmodium malariae1Artemisinin combined therapies (ACT) are first
+line treatment for a middle case of malaria caused by P. falciparum. Due to their rapid action, 
+unexplainable potency leads to a high patient recovery rate 4.

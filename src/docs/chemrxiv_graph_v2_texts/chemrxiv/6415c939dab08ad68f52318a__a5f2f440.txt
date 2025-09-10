@@ -1,0 +1,9 @@
+Description:
+A Heusler phase where Z can be Al, Si, Ga, or Ge.
+
+Text:
+Except a few Heusler phases (X2YZ, X, and Y are transition elements, Z  pblock elements; e.g. Co2MnZ (Z  Al, Si, Ga, Ge), Co2FeZ (Z  Al, Ga, In, Si, Ge), Cu2NiSn, atomic ordering between the 
+neighbouring elements in ternary intermetallic compounds is very rare and often attracts the 
+interest of structural chemists 13. The degree of ordering can range from complete disorder 
+(random distribution of atoms) to complete order (strict alternation of atoms) and can have a 
+significant impact on the physical and chemical properties of the material.

@@ -1,0 +1,13 @@
+Description:
+Used as a precursor for the synthesis of new potential therapeutic agents such as N4 tetradentate copper ligands.
+
+Text:
+8Aminoquinoline (8AQ) and 8Hydroxyquinoline (8HQ) and their derivatives have found a 
+great variety of applications in chemistry, from dyes to pharmaceuticals.1,2 8AQ has also found 
+application as a precursor for the synthesis of new potential therapeutic agents such as N4
+tetradentate copper ligands named TDMQ or bis8aminoquinoline derivatives38 
+Drug discovery and development is a very complex process demanding the implementation of 
+multiple tools to test biological activity and safety of use. For example, to predict the 
+transformations of drugs in the human body, it is important to investigate the redox activity of 
+these drugs and to find a correlation between oxidation and reduction processes and pH. Typically, 
+voltammetric techniques can be used to track such changes in vitro (e.g.

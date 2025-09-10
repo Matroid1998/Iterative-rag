@@ -1,0 +1,14 @@
+Description:
+An aqueous electrolyte used in the study of birnessite's reaction mechanisms.
+
+Text:
+Pseudocapacitive materials operating in aqueous electrolytes offer the advantages of fast 
+charging and high safety during their charge and discharge cycles, which are two crucial 
+characteristics desired for electrochemical energy storage devices.1,2 Among the most 
+promising pseudocapacitive materials, the birnessite MnO2 stands out due to its abundance, 
+low cost, high theoretical capacity and stable cycling performance in aqueous electrolyte.310 
+Moreover, its reaction mechanisms upon cycling in aqueous electrolytes (1M K2SO4), subject 
+of debate, was recently elucidated by Augustyn et al.11 They demonstrated that birnessite 2D 
+structure, with a large interlayer spacing resulting from the presence of nanoconfined structural 
+water molecules, enables extremely fast and efficient intercalation of partially hydrated alkaline 
+ions, leading to capacitive like electrochemical signature.

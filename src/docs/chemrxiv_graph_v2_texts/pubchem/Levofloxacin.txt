@@ -1,0 +1,34 @@
+Name: Levofloxacin
+Text:
+Levofloxacin is an optically active form of ofloxacin having (S)-configuration; an inhibitor of bacterial topoisomerase IV and DNA gyrase. It has a role as a DNA synthesis inhibitor, an antibacterial drug, a topoisomerase IV inhibitor and an EC 5.99.1.3 [DNA topoisomerase (ATP-hydrolysing)] inhibitor. It is a quinolone antibiotic, a fluoroquinolone antibiotic and a 9-fluoro-3-methyl-10-(4-methylpiperazin-1-yl)-7-oxo-2,3-dihydro-7H-[1,4]oxazino[2,3,4-ij]quinoline-6-carboxylic acid. It is an enantiomer of a dextrofloxacin.
+Levofloxacin is an antibacterial prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of certain bacterial&nbsp;infections, such as community-acquired pneumonia, acute worsening of chronic bronchitis, anthrax, urinary tract infections, acute sinus infections, and others.
+Community-acquired pneumonia, a bacterial respiratory infection, can be an opportunistic infection (OI) of HIV.
+Levofloxacin is a fluoroquinolone antibiotic and the optical S-(-) isomer of racemic [ofloxacin]. It reportedly carries 8 to 128-fold more activity against both gram-negative and gram-positive bacteria compared to R-(+)-ofloxacin and remains stereochemically stable following administration (i.e. it does not invert to the inactive isomer). Levofloxacin, along with other quinolones such as [gatifloxacin] and [moxifloxacin], is a member of the third generation of fluoroquinolones, colloquially referred to as the "respiratory quinolones" due to improved activity against gram-positive bacteria commonly implicated in respiratory infections.  Levofloxacin was first approved by the FDA in 1996, and was approved in Canada and several South American countries soon after.
+Levofloxacin is a third generation fluoroquinolone that is widely used in the treatment of mild-to-moderate respiratory and urinary tract infections due to sensitive organisms. Levofloxacin has been linked to rare instances of clinically apparent hepatic injury marked by a short latency period and a hepatocellular pattern of enzyme elevations, similar to what has been described with ciprofloxacin.
+Levofloxacin is a broad-spectrum, third-generation fluoroquinolone antibiotic and optically active L-isomer of ofloxacin with antibacterial activity. Levofloxacin diffuses through the bacterial cell wall and acts by inhibiting DNA gyrase (bacterial topoisomerase II), an enzyme required for DNA replication, RNA transcription, and repair of bacterial DNA. Inhibition of DNA gyrase activity leads to blockage of bacterial cell growth.
+Levofloxacin Anhydrous is the anhydrous form of levofloxacin, a broad-spectrum, third-generation fluoroquinolone antibiotic and optically active L-isomer of ofloxacin with antibacterial activity. Levofloxacin diffuses through the bacterial cell wall and acts by inhibiting DNA gyrase (bacterial topoisomerase II), an enzyme required for DNA replication, RNA transcription, and repair of bacterial DNA. Inhibition of DNA gyrase activity leads to blockage of bacterial cell growth.
+LEVOFLOXACIN ANHYDROUS is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1996 and has 8 approved and 32 investigational indications. This drug has a black box warning from the FDA.
+Levofloxacin is a synthetic fluoroquinolone antibacterial agent that inhibits the supercoiling activity of bacterial DNA gyrase, halting DNA replication. Levofloxacin is marketed by Ortho-McNeil under the trade name Levaquin. Chemically, levofloxacin is the S-enantiomer (L-isomer) of ofloxacin.
+The L-isomer of Ofloxacin.
+Properties:safety: Irritant and Health Hazard
+smiles: C[C@H]1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O
+formula: C18H20FN3O4
+chem_properties: Molecular Weight: 361.4 g/mol
+XLogP3: -0.4
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 2
+Exact Mass: 361.14378429 Da
+Monoisotopic Mass: 361.14378429 Da
+Topological Polar Surface Area: 73.3
+Heavy Atom Count: 26
+Formal Charge: 0
+Complexity: 634
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

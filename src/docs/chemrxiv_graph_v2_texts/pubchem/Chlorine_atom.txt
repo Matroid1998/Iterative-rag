@@ -1,0 +1,25 @@
+Name: Chlorine atom
+Text:
+Chlorine(.) is a monoatomic chlorine.
+Properties:safety: Oxidizer and Compressed Gas and Acute Toxic and Environmental Hazard
+smiles: [Cl]
+formula: Cl
+chem_properties: Molecular Weight: 35.45 g/mol
+XLogP3: 0.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 34.9688527 Da
+Monoisotopic Mass: 34.9688527 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 1
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

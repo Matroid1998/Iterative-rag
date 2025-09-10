@@ -1,0 +1,35 @@
+Name: Theophylline
+Text:
+Theophylline is an odorless white crystalline powder. Odorless. Bitter taste. (NTP, 1992)
+Theophylline is a dimethylxanthine having the two methyl groups located at positions 1 and 3. It is structurally similar to caffeine and is found in green and black tea. It has a role as a vasodilator agent, a bronchodilator agent, a muscle relaxant, an EC 3.1.4.* (phosphoric diester hydrolase) inhibitor, an anti-asthmatic drug, an anti-inflammatory agent, an immunomodulator, an adenosine receptor antagonist, a drug metabolite, a fungal metabolite and a human blood serum metabolite.
+A methylxanthine derivative from tea with diuretic, smooth muscle relaxant, bronchial dilation, cardiac and central nervous system stimulant activities. Mechanistically, theophylline acts as a phosphodiesterase inhibitor, adenosine receptor blocker, and histone deacetylase activator. Theophylline is marketed under several brand names such as Uniphyl and Theochron, and it is indicated mainly for asthma, bronchospasm, and COPD.
+Theophylline anhydrous is a Methylxanthine.
+Theophylline is an orally administered xanthine derivative that induces relaxation of smooth muscle in the bronchial tree causing bronchodilation. Theophylline is widely used in therapy of asthma and is not believed to cause liver injury.
+Theophylline has been reported in Camellia sinensis, Camellia taliensis, and other organisms with data available.
+Theophylline is a natural alkaloid derivative of xanthine isolated from the plants Camellia sinensis and Coffea arabica.  Theophylline appears to inhibit phosphodiesterase and prostaglandin production, regulate calcium flux and intracellular calcium distribution, and antagonize adenosine. Physiologically, this agent relaxes bronchial smooth muscle, produces vasodilation (except in cerebral vessels), stimulates the CNS, stimulates cardiac muscle, induces diuresis, and increases gastric acid secretion; it may also suppress inflammation and improve contractility of the diaphragm. (NCI04)
+THEOPHYLLINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1940 and has 3 approved and 25 investigational indications.
+A methylxanthine derivative from tea with diuretic, smooth muscle relaxant, bronchial dilation, cardiac and central nervous system stimulant activities. Mechanistically, theophylline acts as a phosphodiesterase inhibitor, adenosine receptor blocker, and histone deacetylase activator. Theophylline is marketed under several brand names such as Uniphyl and Theochron, and it is indicated mainly for asthma, bronchospasm, and COPD.
+A methyl xanthine derivative from tea with diuretic, smooth muscle relaxant, bronchial dilation, cardiac and central nervous system stimulant activities. Theophylline inhibits the 3',5'-CYCLIC NUCLEOTIDE PHOSPHODIESTERASE that degrades CYCLIC AMP thus potentiates the actions of agents that act through ADENYLYL CYCLASES and cyclic AMP.
+See also: Paullinia cupana seed (part of); Oxtriphylline (annotation moved to).
+Properties:safety: Health Hazard
+smiles: CN1C2=C(C(=O)N(C1=O)C)NC=N2
+formula: C7H8N4O2
+chem_properties: Molecular Weight: 180.16 g/mol
+XLogP3: 0
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 180.06472551 Da
+Monoisotopic Mass: 180.06472551 Da
+Topological Polar Surface Area: 69.3
+Heavy Atom Count: 13
+Formal Charge: 0
+Complexity: 267
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

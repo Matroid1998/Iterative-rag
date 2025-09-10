@@ -1,0 +1,12 @@
+Description:
+A catalyst used in asymmetric N,S-acetal formation.
+
+Text:
+used average steric occupancy (ASO) and ESPMAX descriptors to predict highselectivity 
+ligands in asymmetric N,Sacetal formation using chiral phosphoric acid (CPA) catalyst.12, 13 Grzybowski et al. found that Hammett and TSEI descriptors worked well in predicting major regio, site, and diastereoselective 
+products of DielsAlder (DA) reaction.14 They also tried to predict reaction yield (high or low) using simple RDKit 
+and chemicallinguistic descriptors, which gave unsatisfied results.15 Glorius et al. used multiple fingerprint 
+features, the traditional molecular representation used in QSAR studies,16 for different reaction tasks and achieved 
+comparable results.17 Luo et al. combined fingerprint and physicochemical descriptors for reaction prediction.18 
+However, these descriptors are not easy to interpret nor generalize well outside the training reaction space except 
+the Hammett and TSEI descriptors.

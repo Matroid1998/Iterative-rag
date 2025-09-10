@@ -1,0 +1,13 @@
+Description:
+Involves electrochemical leaching of Sr2 with two holes during Sr2 leaching.
+
+Text:
+Finally, the evolution of lattice oxygen 
+modifies the ligand coordination of surface transition metal ions, becoming an additional factor in 
+the degradation of a perovskite.2123 For clarity, we define leaching as an ion deinsertion process 
+that preserves the structural motif of an oxide (i.e., a topochemical reaction involving vacancies), 
+while dissolution is a complete structural disintegration of the surface layer through the solvation 
+of the transition metal ions. Strontium iridate (SrIrO3) has recently attracted attention owing to its exceptionally high 
+OER activity proposed to originate through Sr2 leaching and surface amorphization.3,7,8,10,2428 
+Assuming that Sr2 leaching involves electrochemical deinsertion (Path 1 as opposed to Path 2 in 
+Equations S1), electrochemical leaching of Sr2 from SrIrO3 involves two holes (h).

@@ -1,0 +1,26 @@
+Name: Sodium Methoxide
+Text:
+Sodium methylate is a white amorphous powder. It reacts with water to form sodium hydroxide, a corrosive material, and methyl alcohol, a flammable liquid. The heat from this reaction may be sufficient to ignite surrounding combustible material or the sodium methylate itself if the water is present in only small amounts. It is used to process edible fats and oils, and to make other chemicals.
+A colorless, flammable liquid used in the manufacture of FORMALDEHYDE and ACETIC ACID, in chemical synthesis, antifreeze, and as a solvent. Ingestion of methanol is toxic and may cause blindness.
+See also: Sodium methanolate; sodium methoxide (annotation moved to).
+Properties:safety: Flammable and Corrosive and Irritant
+smiles: C[O-].[Na+]
+formula: CH3ONa
+chem_properties: Molecular Weight: 54.024 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 54.00815900 Da
+Monoisotopic Mass: 54.00815900 Da
+Topological Polar Surface Area: 23.1
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 4.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

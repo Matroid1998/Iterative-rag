@@ -1,0 +1,11 @@
+Description:
+Small molecules detected using SWCNTs.
+
+Text:
+Thus, SWCNTs have already been used for several bioimaging 
+studies18,19 and the detection of numerous analytes such as reactive oxygen species20323, small 
+molecules like nitroaromatics24,25 or neurotransmitters26,27, proteins28330, sugars31, 
+enzymes32 or bacteria33. Due to their fluorescence in the nearinfrared (NIR, 850 3 1700 nm), 
+which shows no bleaching or blinking, they represent stable fluorophores, whose emission falls 
+within the biological transparency window34. Here, reduced scattering and autofluorescence 
+of biological samples allow for increased signaltonoise ratios (SNR) during detection35.

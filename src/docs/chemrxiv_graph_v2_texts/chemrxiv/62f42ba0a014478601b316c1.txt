@@ -1,0 +1,13 @@
+Description:
+Utilized in picoliter Znair batteries working in a neutral aqueous solution to provide high energy density.
+
+Text:
+Thus, there is a pressing need for integrating tiny batteries with the 
+tiny sensors and robots.12 
+In this work, we demonstrate a facile route for fabricating and subsequently releasing microscopic Znair 
+batteries with cleanroom techniques in a massively parallel manner. Utilizing dissolved oxygen, picoliter 
+Znair batteries working in a neutral aqueous solution provided an energy density over 760 Wh L1 (2.75 J 
+pL1) and an areal power density of 0.15 mW cm2, with an open circuit voltage of 1.16 V. This represents 
+the highest energy density for energy storage devices below 1 L in volume. We find that due to the inherent 
+high surfaceareatovolume ratio, picoliter batteries do not require special materials or sophisticated 3D 
+structure to achieve high energy density and power density.

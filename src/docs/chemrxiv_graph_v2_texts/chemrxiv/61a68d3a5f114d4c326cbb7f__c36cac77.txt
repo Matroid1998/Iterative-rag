@@ -1,0 +1,12 @@
+Description:
+An environmentally benign oxidant with diverse industrial applications.
+
+Text:
+Hydrogen peroxide (H2O2) is an environmentally benign oxidant with diverse industrial 
+applications, including paperbleaching, wastewater treatment and chemical manufacturing. While conventionally produced via the anthraquinone process, there is a growing push to 
+generate H2O2 through electrochemical means.1 Doing so would circumvent the necessity of 
+using H2 and volatile H2O2 mixtures, as well as issues with catalyst recyclability. Further, 
+electrochemical H2O2 synthesis would enable a decentralization of its production, given the 
+relative simplicity of the equipment necessary for this. Typically, H2O2 (or HO2 in basic 
+solutions) is produced via the 2e reduction of O2, a process that is in competition with the 
+thermodynamically easier 4e reduction pathway to H2O.

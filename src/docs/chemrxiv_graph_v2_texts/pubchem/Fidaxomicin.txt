@@ -1,0 +1,33 @@
+Name: Fidaxomicin
+Text:
+Fidaxomicin is an antibacterial prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of diarrhea caused by entericinfectionwith the bacteriumClostridioides difficile.
+Certain bacterial enteric infections can be opportunistic infections(OIs) of HIV.
+Fidaxomicin is a novel macrolide antibiotic used in the treatment of diarrhea caused by Clostridioides (formerly Clostridium) difficile in adult and pediatric patients over the age of 6 months. Fidaxomicin is a naturally-occurring 18-member macrocycle derived from fermentation. Because fidaxomicin contains an 18-membered lactone ring in its structure, it is referred to as a macrocyclic lactone antibiotic drug. The antibacterial activity of fidaxomicin is distinct from macrolides and rifamycins, as the bactericidal activity is time-dependent, and not concentration-dependent. Fidaxomicin was the first macrocyclic lactone antibiotic with activity against C. difficile, and it displays a narrow spectrum of activity against gram-positive anaerobes. It mediates its potent bactericidal action on the bacteria by inhibiting the bacterial RNA synthase, thereby disrupting bacterial transcription. The minimum inhibitory concentration (MIC90) for fidaxomicin is four times less than that of [vancomycin], which was the primary drug of choice for C. difficile infection before the approval of fidaxomicin. Unlike vancomycin, however, fidaxomicin has a negligible effect on normal colonic microflora.  The FDA initially approved fidaxomicin in May 2011 for the treatment of C. difficile-associated diarrhea in adult patients over the age of 18. Later that year in December, the drug was also approved by the European Medicine Agency. In June 2012, fidaxomicin was also granted approval by Health Canada. The approved indication of fidaxomicin was expanded by the FDA in January 2020 to include pediatric patients over the age of 6 months in the treatment population.
+Fidaxomicin is a Macrolide Antibacterial.
+Fidaxomicin is a semisynthetic macrolide antibiotic used to treat Clostridium difficile-associated diarrhea in adults. Fidaxomicin has minimal systemic absorption and has not been linked to serum enzyme elevations during therapy or to instances of clinically apparent, acute liver injury.
+Fidaxomicin has been reported in Actinoplanes deccanensis, Dactylosporangium aurantiacum, and Micromonospora echinospora with data available.
+Fidaxomicin is a narrow-spectrum, 18-membered macrolide antibiotic isolated from the actinomycete Dactylosporangium aurantiacum subsp. hamdenensis with potential antibacterial activity. Although the exact mechanism of action has yet to be fully elucidated, fidaxomicin may bind to and inhibit bacterial DNA-dependent RNA polymerase, thereby inhibiting the initiation of bacterial RNA synthesis. When orally administered, this agent is minimally absorbed into the systemic circulation, acting locally in the gastrointestinal tract. Fidaxomicin appears to be active against pathogenic Gram-positive bacteria, such as clostridia, enterococci, and staphylococci, but does not appear to be active against other beneficial intestinal bacteria.
+FIDAXOMICIN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2011 and has 4 approved indications.
+A narrow-spectrum macrolide antibacterial agent that is used in the treatment of diarrhea associated with CLOSTRIDIUM DIFFICILE INFECTION.
+Properties:safety: Irritant
+smiles: CC[C@H]1/C=C(/[C@H](C/C=C/C=C(/C(=O)O[C@@H](C/C=C(/C=C(/[C@@H]1O[C@H]2[C@H]([C@H]([C@@H](C(O2)(C)C)OC(=O)C(C)C)O)O)\C)\C)[C@@H](C)O)\CO[C@H]3[C@H]([C@H]([C@@H]([C@H](O3)C)OC(=O)C4=C(C(=C(C(=C4O)Cl)O)Cl)CC)O)OC)O)\C
+formula: C52H74Cl2O18
+chem_properties: Molecular Weight: 1058.0 g/mol
+XLogP3: 6.4
+Hydrogen Bond Donor Count: 7
+Hydrogen Bond Acceptor Count: 18
+Rotatable Bond Count: 15
+Exact Mass: 1056.4252209 Da
+Monoisotopic Mass: 1056.4252209 Da
+Topological Polar Surface Area: 267
+Heavy Atom Count: 72
+Formal Charge: 0
+Complexity: 1970
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 14
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 5
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

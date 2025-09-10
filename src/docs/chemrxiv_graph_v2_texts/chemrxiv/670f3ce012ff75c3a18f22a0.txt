@@ -1,0 +1,22 @@
+Description:
+An opioid analgesic that binds to Class A G protein-coupled receptors to produce potent analgesic effects.
+
+Text:
+42 
+Opioid analgesics, such as morphine and codeine, are widely used for their potent analgesic effects 
+43 
+that are mediated through binding to a class of opioid receptors known as ClassA Gproteincoupled 
+44 
+receptors (GPCRs).1 However, the clinical use of these analgesics is severely limited by their adverse 
+45 
+side effects, which include dependency, sedation, respiratory depression, constipation, and elevated 
+46 
+tolerance.2 Three main subtypes of opioid receptorsthe opioid receptor (MOR), opioid receptor 
+47 
+(DOR), and opioid receptor (KOR)have been identified, all of which can elicit analgesic effects 
+48 
+through Gioproteinmediated signaling upon activation. While most clinically available opioid analgesics 
+49 
+primarily target the MOR, this receptor subtype is also responsible for the majority of the adverse effects 
+50 
+associated with opioid therapy.

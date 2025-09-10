@@ -1,0 +1,11 @@
+Description:
+Used to make plasticized membranes in low-cost ion-selective electrodes.
+
+Text:
+Analysis of selectivity coefficients, which 
+describe the preference of the sensor towards the primary ion over others, indicates that in complex samples, with many interfering 
+ions the response will be subject to considerable error. The problem can be solved by preparing calibration curves in the sample 
+matrix, however one should expect much narrower linear range (as seen in the Fixed Interference Method)12. Variations in the 
+electrode systems, liquidliquid junctions, calibration and measurement procedures are indicated in the guidelines for the analysis of 
+blood samples as reasons why routine measurements can produce highly precise results, which might be far from being accurate13. In this work we have developed lowcost ionselective electrodes made from 2 mL disposable syringes equipped with plasticized 
+PVC membranes.

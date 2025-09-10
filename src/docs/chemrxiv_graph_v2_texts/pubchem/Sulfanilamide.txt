@@ -1,0 +1,32 @@
+Name: Sulfanilamide
+Text:
+Sulfanilamide is a white powder. pH of 0.5% aqueous solution: 5.8-6.1. (NTP, 1992)
+Sulfanilamide is a sulfonamide in which the sulfamoyl functional group is attached to aniline at the 4-position. It has a role as an EC 4.2.1.1 (carbonic anhydrase) inhibitor, an antibacterial agent and a drug allergen. It is a substituted aniline, a sulfonamide antibiotic and a sulfonamide.
+Sulfanilamide is a molecule containing the sulfonamide functional group attached to an aniline.
+Sulfanilamide has been reported in Streptomyces, Arabidopsis thaliana, and Streptomyces lincolnensis with data available.
+Sulfanilamide is an organic sulfur compound structurally similar to p-aminobenzoic acid (PABA) with antibacterial property. Sulfanilamide competes with PABA for the bacterial enzyme dihydropteroate synthase, thereby preventing the incorporation of PABA into dihydrofolic acid, the immediate precursor of folic acid. This leads to an inhibition of bacterial folic acid synthesis and de novo synthesis of purines and pyrimidines, ultimately resulting in cell growth arrest and cell death.
+SULFANILAMIDE is a small molecule drug with a maximum clinical trial phase of IV that was first approved in 1985 and is indicated for bacterial disease.
+A short-acting sulfonamide used as an anti-infective agent. It has lower anti-bacterial activity than SULFAMETHOXAZOLE.
+See also: Sulfanilamide Sodium (is active moiety of).
+Properties:safety: Irritant
+smiles: C1=CC(=CC=C1N)S(=O)(=O)N
+formula: C6H8N2O2S
+chem_properties: Molecular Weight: 172.21 g/mol
+XLogP3: -0.6
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 1
+Exact Mass: 172.03064868 Da
+Monoisotopic Mass: 172.03064868 Da
+Topological Polar Surface Area: 94.6
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 211
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

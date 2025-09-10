@@ -1,0 +1,47 @@
+Description:
+Used as a solid adsorbent in atmospheric water capture studies within capillaries.
+
+Text:
+32 
+Under humid or aqueous conditions, interfacial water molecules are ubiquitous in nature and 
+33 
+technology. The solidliquid interface is vital in countless physical, chemical, or biological 
+34 
+processes and applications14. One important factor to understand the structural properties 
+35 
+of interfacial water is the hydrogen bond network at the interface, which is notoriously 
+36 
+difficult to probe1,3. Recent studies revealed an exciting way to study the interfacial hydrogen 
+37 
+network within MOFs5,6 and graphene capillaries7 via atmospheric water capture (AWC)810. 38 
+It is now appealing to further broaden the use of this methodology. Firstly, extend AWC 
+39 
+beyond the specific case of MOFs or the perfect graphene plane as the solid adsorbent. These 
+40 
+materials consider special cases which have few technological and natural analogues.
+
+
+---
+
+Description:
+A representative of functionalised carbon.
+
+Text:
+Here, we solve this issue by utilising functionalised 
+50 
+graphene (graphene oxide) as a representative of functionalised carbon. Graphene oxide (GO) 
+51 
+can be readily intercalated with cations which allows probing the interfacial hydrogen 
+52 
+network of functionalised carbon under the presence of cations via AWC. 53 
+Graphene oxide is composed of a graphene plane along with various oxygen functionalities22
+54 
+26. The presence of functionalised areas gives rise to stable dipole sites and development of a 
+55 
+hydrogen bond network with water molecules15,16. Water transport via GO based materials 
+56 
+has been widely studied in experiments and simulations to better understand its surface 
+57 
+interaction with water molecules2734. Yet, direct experimental evidence is still limited for 
+58 
+progressive understanding of the hydrogenbond network on the GO surface.

@@ -1,0 +1,12 @@
+Description:
+A planar molecule that can be mirrored in a crystal structure.
+
+Text:
+It is relevant to observe interconnectedness between solid state and organic domains regarding the 
+chemistry of carbon. Inspired from 2D 1,4cyclohexadiene planar molecule (Fig. 1a) was enclosed 
+in the so called glitter structure with tetragonal hexacarbon C6, thus mirroring the molecule in a 
+crystal 1. The structure shown in Fig. 1b consists of cornersharing tetrahedra of C(sp3) white 
+spheres in the a,b plane, connected by CC double bonds along cdirection. The crystal data 
+detailed in Table 1 point to a distorted tetrahedron with angles departing from the perfect 
+tetrahedron angle CCC  109.47 found, for instance, in methane CH4 or diamond. Due to the 
+two kinds of connectivity (Fig.

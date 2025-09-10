@@ -1,0 +1,11 @@
+Description:
+A polymer that absorbs up to 10 times more water than PLA and experiences significant degradation in flexural modulus when exposed to moisture.
+
+Text:
+In this study, we present the development of an automated experimental setup using a
+collaborative robot, aimed at streamlining and improving the efficiency of polymer material testing. One of the important aspects of polymer material monitoring is its degradation when exposed to moisture along with
+other factors such as temperature, oxidative stress, radiation, etc. Banjo et al1 investigated how common 3D printing
+polymers such as nylon and PLA degrade significantly when exposed to moisture and high temperatures over time,
+affecting their longterm use and recyclability. In their study, nylonbased materials absorbed up to 10 times more water
+than PLA, with nylon experiencing a 60 reduction in flexural modulus after 7 days of immersion, while PLA showed
+negligible degradation at 21C but substantial physical degradation at 70C.

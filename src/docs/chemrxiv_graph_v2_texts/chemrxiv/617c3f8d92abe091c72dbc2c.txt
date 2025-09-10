@@ -1,0 +1,11 @@
+Description:
+A catalyst designed with a more reactive guest element and a more inert host element.
+
+Text:
+The tailored alloy materials might also substitute or reduce the
+use of rare and expensive metal elements in the catalysts while retaining the performance of
+the catalysts. One of the straightforward ways to tailor such catalysts is by coating a host
+material or nanoparticle with a catalytically active guest metal 1618. Often, the catalysts are designed by a more reactive guest element and a more inert host
+element, e.g. PtRu 19,20, PtAu 21, AgRh 22, and PdCu 23. The performance of alloy catalysts
+can be estimated employing descriptors and scaling relations18,24, where the local reactivity
+can be identied by the adsorption energy of probe molecules 6,25,26.

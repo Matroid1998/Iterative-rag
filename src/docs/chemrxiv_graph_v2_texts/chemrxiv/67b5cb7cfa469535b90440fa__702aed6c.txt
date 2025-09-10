@@ -1,0 +1,11 @@
+Description:
+A potent greenhouse gas formed during direct ammonia combustion.
+
+Text:
+The question of dihydrogen, how it is produced, and how it is used is central to sustainability issues 
+and the decarbonization of the industry.1 The reversibility of catalytic hydrogenation and 
+dehydrogenation processes is at the heart of this question, as is the transport of H2 by liquid organic 
+carriers (LOHC).2 This is particularly true in research on Sustainable Aviation Fuels (SAF) and shipping. Ammonia has been proposed as a desirable hydrogen carrier for the latter because of its hydrogen 
+density and also as a direct fuel.3 Still, direct ammonia combustion poses the question of N2O formation, 
+a potent greenhouse gas.4 Catalytic processes that combine the cleavage of H2 and selective transfer 
+to nitrogen are desirable.

@@ -1,0 +1,26 @@
+Name: Isocyanomethane
+Text:
+Isocyanomethane is an isocyanide.
+Methyl isocyanide is an organic compound of cyanide. It is used for the preparation of various heterocycles. It is also a ligand in organometallic chemistry. (L556)
+Properties:safety: Irritant and Health Hazard
+smiles: C[N+]#[C-]
+formula: C2H3N
+chem_properties: Molecular Weight: 41.05 g/mol
+XLogP3: 0
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 41.026549100 Da
+Monoisotopic Mass: 41.026549100 Da
+Topological Polar Surface Area: 4.4
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 29.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

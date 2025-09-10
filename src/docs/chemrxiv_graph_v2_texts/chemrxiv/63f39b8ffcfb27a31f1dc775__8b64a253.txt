@@ -1,0 +1,15 @@
+Description:
+Capturing agents for CO2 in industrial processes.
+
+Text:
+at ambient temperatures.1720 Recent studies have shown small
+scale localized in situ CO2 gas adsorption followed by photocatalytic conversion in homogeneous 
+and colloidal solutions.2123 Nevertheless, sunlightdriven direct capture and utilization processes 
+with industrially relevant aminehydroxide capturing agents is lacking, presumably due to the 
+overwhelming energy barrier to activate the trapped CO2adducts (Figure S1).24 
+Here we report an integrated CO2 capture and solardriven photoelectrochemical (PEC) 
+utilization process to produce syngas (mixture of CO and H2), a precursor for industrial liquid 
+fuels and chemicals syntheses,25 from concentrated CO2 stream, simulated postcombustion flue 
+gas, and atmospheric air. The process operates by combining CO2tofuel reduction with 
+selective oxidation of waste plasticderived ethylene glycol (EG) to glycolic acid (GA), which 
+has applications in pharmaceutical, food and textile industries (Figure 1b).

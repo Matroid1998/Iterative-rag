@@ -1,0 +1,13 @@
+Description:
+A precursor used in the MILD method for Ti3C2Tx synthesis that contributes to F terminations.
+
+Text:
+Recently, minimally intensive layer delamination (MILD) is the most prevalent and highoutput 
+acid etching method for Ti3C2Tx synthesis.14,15 However, Ti3C2Tx produced by the MILD method typically 
+contains numerous F terminations due to the LiF precursor, which is detrimental to electrical conductivity. Therefore, posttreatment following MILD to engineer surface chemistry with desired termination groups 
+is imperative to enhance the performance of lightdriven TMC soft robotics.1618 Common surface 
+termination tailoring methods include heat treatment, solvothermal treatment, and chemical grafting. However, these methods often lack atomiclevel processing precision, uniformity, and scalability for 
+prospective industrial workflows, and are prone to introducing contaminants and defects into the intrinsic 
+Ti3C2 structure.1921 
+Plasma treatment has been demonstrated to effectively alter surface functional groups with high atomic 
+precision.

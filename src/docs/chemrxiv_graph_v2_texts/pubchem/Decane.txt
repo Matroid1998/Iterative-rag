@@ -1,0 +1,29 @@
+Name: Decane
+Text:
+N-decane appears as a colorless liquid. Flash point 115 °F. Less dense than water and insoluble in water. Vapors heavier than air. In high concentrations its vapors may be narcotic. Used as a solvent and to make other chemicals.
+Decane is a straight-chain alkane with 10 carbon atoms.
+Decane has been reported in Aristolochia triangularis, Gymnodinium nagasakiense, and other organisms with data available.
+N-Decane is found in common oregano. Decane is an alkane hydrocarbon with the chemical formula CH3(CH2)8CH3. 75 isomers of decane exist, all of which are flammable liquids. N-Decane belongs to the family of Acyclic Alkanes. These are acyclic hydrocarbons consisting only of n carbon atoms and m hydrogen atoms where m=2*n + 2.
+See also: Alkanes, C10-18 (annotation moved to).
+Properties:safety: Flammable and Health Hazard
+smiles: CCCCCCCCCC
+formula: C10H22
+chem_properties: Molecular Weight: 142.28 g/mol
+XLogP3: 5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 7
+Exact Mass: 142.172150702 Da
+Monoisotopic Mass: 142.172150702 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 40
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

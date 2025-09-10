@@ -1,0 +1,15 @@
+Description:
+A molecule studied for its modeling using ML potentials.
+
+Text:
+It is therefore crucial that ML models ob
+tain good accuracies on both intra and interscales. Numerous studies have demonstrated ML potentials
+for water and aqueous solutions 2933, methane 26,
+ionic liquids 28 and, more recently, electrolyte solu
+tions 3436. The standard approach to modelling
+these molecular systems is to create separate force
+fields for the intra and inter contributions 2, 3739. This approach is inspired by classical force fields and
+neatly solves the problem of scale separation. How
+ever the approximation breaks down in reactive sys
+tems where the molecular identity changes during the
+course of the simulation.

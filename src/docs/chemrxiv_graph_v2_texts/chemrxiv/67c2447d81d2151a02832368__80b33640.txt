@@ -1,0 +1,19 @@
+Description:
+Complexes examined for binding strength, stability, and structure.
+
+Text:
+Strong binding and efficient nucleic acid release must be
+carefully balanced because overly stable polyplexes can hin
+der intracellular release, while weak complexes fail to pro
+tect and transport cargo effectively into cells1214. Previ
+ous studies have predominantly focused on optimizing trans
+fection efficiency only by adjusting molecular weight15,16,
+nitrogentophosphate (NP) ratios17, or complex formation
+conditions1820. Other investigations have examined PEIDNA complex
+ation mechanisms by examining factors such as binding
+strength, stability, and structure. For example, Ketola et
+al.2123 used fluorescence spectroscopy to reveal distinct dif
+ferences in DNA cargo binding for linear and branched PEI
+(LPEI and BPEI, respectively). Other studies suggest that
+BPEI offers better DNA protection than LPEI, but lower de
+livery efficiency24.

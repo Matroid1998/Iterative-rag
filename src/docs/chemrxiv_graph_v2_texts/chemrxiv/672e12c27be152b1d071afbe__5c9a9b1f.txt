@@ -1,0 +1,13 @@
+Description:
+Incorporated into substrates to enable cross coupling reactions.
+
+Text:
+Methods for sp2 CH alkylation, particularly for electron deficient aromatics, are limited with 
+traditional methods such as FriedelCrafts alkylation reacting preferentially with electron rich 
+organic aromatics.1,2 CH alkylation is usually impractical and requires the use of super
+stoichiometric organolithium or toxic organomercury reagents (Fig. 1a).3,4 Instead of using a 
+direct CH functionalisation strategy, a halogen handle is often incorporated into the 
+substrate to enable traditional palladiumbased cross coupling reactions or recently developed 
+photoredox nickel cross coupling (Fig. 1a).58 Minisci coupling does avoid the need for a 
+functional handle and offers a reliable radical based route to CH alkylate pyridines. However, it also exhibits significant limitations such as providing solely C2 selectivity and 
+requiring strong acidic conditions limiting its functional group tolerance (Fig.

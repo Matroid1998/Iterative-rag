@@ -1,0 +1,18 @@
+Description:
+Ligands that can be modified by FeCl3 to form MOF intermediates with bandgaps ranging from 2.12 eV to 0.69 eV.
+
+Text:
+Ligand amino groups were also used for incorporation 
+of transition metal ions for enhanced light absorption and 
+bandgap tuning.61 A type of noncovalent PSM by introducing 
+amine vapor and generating stable radical anions on MOF lig
+ands via photoinduced electron transfer has also been demon
+strated to effectively reduce the bandgap and extend absorption 
+over the entire visible range.45 
+The PSM of polyphenylenebased ligands using oxidative de
+hydrogenation was shown previously to efficiently tune the 
+bandgap of Zrbased MOFs.62 Here, we extend these studies by 
+showing that a simple reagent, FeCl3, can be used to addition
+ally modify nanographene ligands to form MOF intermediates 
+(INT1, INT2, INT3 and INT4) with bandgaps that range 
+from 2.12 eV to 0.69 eVs (Scheme 1).

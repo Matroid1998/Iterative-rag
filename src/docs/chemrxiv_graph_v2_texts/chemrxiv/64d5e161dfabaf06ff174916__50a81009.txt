@@ -1,0 +1,38 @@
+Description:
+Relies on fine lateral resolution for trapping microparticles in microfluidic devices.
+
+Text:
+Their detection is essential for human health, for example, detecting parasite eggs of 
+Schistosoma haematobium in urine,4,5 or for environmental screening, for example, the 
+detection and identification of zooplankton.6 As a result of their low concentration, the 
+sample must be preconcentrated using rounds of centrifugation, filters, or decanting the 
+liquid for days.7 This is simply timeconsuming and impractical during infield analyses. Polydimethylsiloxane (PDMS) microfluidic devices have been used to filter and separate 
+particles of different sizes, especially cells, from various mixtures.812 These microfluidic 
+devices rely on fine lateral (XY) resolution for trapping microparticles. For example, a set of 
+pillars with an inter distance of 25 m will collect particles bigger than 25 m while smaller 
+particles will pass through.
+
+
+---
+
+Description:
+Used to fabricate microfluidic molds through stereolithography or masked stereolithography.
+
+Text:
+For achieving such a lateral resolution (XY), soft lithography must 
+be used.13 This means spin coating a photopolymer, fabricating a mask with high resolution, 
+mask alignment and UV developing, baking, and washing steps to make a PDMS mold. Unfortunately, this fabrication method is too complex and restricted to laboratories with 
+specialized knowhow and fabrication capabilities. To overcome this problem, PDMS microfluidic molds can be fabricated by stereolithography 
+(SLA) or masked stereolithography ((m)SLA) printers, more colloquially called resin 
+printers.14,15 
+These 
+printers 
+use 
+the 
+same 
+concept 
+of 
+stereolithography 
+Photopolymerization of (met)acrylates using either laser (SLA) or UV light and an LCD screen 
+that acts as a mask (m(SLA)). The resin printers are commercially available for home use, 
+cheap, and easy to operate.

@@ -1,0 +1,56 @@
+Description:
+Produced through water splitting, particularly in alkaline environments.
+
+Text:
+In electrocatalysis, they have demonstrated 
+considerable potential for application in the oxygen reduction reaction (ORR), hydrogen evolution 
+reaction 4, oxygen evolution reaction (OER), carbon dioxide reduction reaction (CO2RR), and 
+nitrogen reduction reaction (NRR) 1. Additionally, SACs have been employed in methane 
+conversion, CO oxidation, biomass conversion, and the degradation of environmental pollutants 
+9. The high catalytic activity and selectivity of SACs render them especially appealing for the 
+production of clean hydrogen through water splitting, particularly in alkaline environments 10. The catalytic mechanisms operating at single metal sites remain inadequately understood 14. This lack of clarity complicates the rational design of new SACs and reliance on trialanderror 
+methods prolongs the development process.
+
+
+---
+
+Description:
+Involved in adsorption and desorption processes affecting reaction kinetics and catalytic performance.
+
+Text:
+The specifics surrounding the interactions at the active 
+sites are critical to improving their efficiency and discovering methods to stabilize these catalysts 
+under operational conditions. A clearer understanding of the system perturbation can provide 
+better insights to the reaction mechanism. This is our major focus here. SACs are known to exhibit sensitivity to alterations in the reaction environment, encompassing 
+parameters such as temperature, pressure, and electrolyte composition. 15 Variations in these 
+parameters have been observed to exert an influence on the adsorption and desorption of hydrogen 
+and other reactants on the active sites, consequently resulting in alterations to the overall reaction 
+kinetics and catalytic performance.
+
+
+---
+
+Description:
+Involved in catalytic hydrogen evolution, where catalysts reduce the high activation energy barrier.
+
+Text:
+While the potential of SACs for hydrogen evolution is substantial, it is imperative to confront 
+the challenges pertaining to environmental sensitivity to facilitate the advancement of these 
+catalysts in the realm of renewable energy technologies. 16 In this study, we undertake a 
+thermodynamic examination of a novel highdensity fish patch singleatom catalyst for HER. 2.0 HER and Thermodynamic 
+Thermodynamic considerations play a crucial role in the field of catalytic hydrogen evolution, 
+influencing both catalyst design and reaction efficiency. The activation energy barrier for hydrogen 
+evolution is generally high, necessitating the use of catalysts to reduce this energy threshold 17.
+
+
+---
+
+Description:
+Involved in the hydrogen evolution reaction with a correlation between kinetic exchange current density and thermodynamic adsorption energy.
+
+Text:
+A critical 
+thermodynamic state variable has been identified as a reliable descriptor of catalytic activity, with a 
+universal linear correlation observed between the kinetic exchange current density in hydrogen evolution 
+reaction and the thermodynamic adsorption energy of hydrogen atoms over various catalysts 17. 
+httpsdoi.org10.26434chemrxiv2024255g9 ORCID httpsorcid.org0009000830408433 Content not peerreviewed by ChemRxiv. License CC BY 4.0

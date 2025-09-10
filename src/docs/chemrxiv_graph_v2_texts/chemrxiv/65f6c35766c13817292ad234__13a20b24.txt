@@ -1,0 +1,17 @@
+Description:
+Used with different alkyl chain lengths in LC retention measurements.
+
+Text:
+While de Voogt et al.15,16 
+used perfluoroalkyl carboxylates (PFCAs) and sulfonates (PFSAs) 
+with different alkyl chain lengths, the PFAS of current concern 
+are more diverse and thus an extension of the data set may be 
+warranted. In addition, they performed the LC retention 
+measurement at relatively high MeOH concentrations, primarily 
+at MeOH  0.5, and extrapolated k0 over a long range, which 
+could introduce substantial uncertainty in the derived k0 values. Here, we report C18LC retention factors measured for a 
+vastly extended set of anionic PFAS including alternatives to 
+PFOA or PFOS. Nonfluorinated compounds from three groups of 
+alkyl surfactants (i.e., carboxylates, sulfonates, sulfates) are also 
+tested for comparison. The use of a shorter C18 column than in 
+past studies15,16 allows measurement at MeOH  0.5.

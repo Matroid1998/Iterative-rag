@@ -1,0 +1,29 @@
+Description:
+Participates in a reversible reaction with amine to form imine-type bonds.
+
+Text:
+used boronic acid esters to trigger the release of biological epitopes either using a competitor, 
+or by exploiting pHdepending binding affinities.21 
+Iminetype DCvC (reversible reaction between an aldehyde and amine) has become 
+increasingly popular for tuning the viscoelastic timescales of soft biomaterials.22 The inherent 
+differences in molecular equilibrium and rate constants between different types of crosslinking 
+bonds such as oxime, semicarbazone, or hydrazone allow the engineering of hydrogel properties 
+(i.e. stiffness, stressrelaxation, (bio)printability).2224 Notably, the chemical design space of such 
+dynamic polymeric hydrogels is limited to telechelic synthetic systems or pendentmainchain 
+modifications of natural polymers.
+
+
+---
+
+Description:
+Groups that can be chemically modified via oxidation in natural biopolymers.
+
+Text:
+While some examples of synthetic telechelic systems can be 
+found,22,2527 there remain remarkably few examples of watersoluble, biocompatible, synthetic 
+polymers with pendent aldehyde groups.28,29 On the other hand, the facile chemical modification 
+of natural biopolymers with aldehydes via oxidation makes them popular candidates for 
+DCvC.9,10,23,24,30,31 However, their inherent heterogeneity, dispersity, and propensity to tieup 
+aldehydes as hemiacetals,32 ultimately lead to limited control over composition and batchto
+batch variability. In contrast, synthetic polymers can circumvent some of these drawbacks due to 
+their welldefined chemical composition, molecular weight, and structural simplicity. httpsdoi.org10.26434chemrxiv2024n9p8hv2 ORCID httpsorcid.org0000000252893491 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

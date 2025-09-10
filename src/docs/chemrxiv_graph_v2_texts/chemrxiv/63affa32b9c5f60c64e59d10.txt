@@ -1,0 +1,15 @@
+Description:
+Involved in the lithiation-delithiation process of silicon anodes in batteries.
+
+Text:
+Silicon (Si), owing to its extremely high theoretical capacity (3579 mAhg), is regarded as one 
+of the most attractive anode materials for next generation lithium batteries.1,2 However, practical 
+application of Si anode is severely hampered by its large volume expansionshrinkage during 
+lithiationdelithiation (dischargingcharging). This expansionshrinkage may give rise to anode 
+particle pulverization, breaking the electrical contact between particles, and resulting in rapid 
+capacity attenuation and limited cycle life.15 For better development of Si anode, it is essential to 
+understand the underlying mechanism of the lithiationdelithiation process and the corresponding 
+microstructure evolution. However, the lithiationdelithiation of Si anode involves complex 
+transitions between the crystalline and amorphous phases, making any comprehensive analysis a 
+challenging task. In addition, the stress state of an anode particle depends strongly on the 
+lithiationdelithiation mechanism.

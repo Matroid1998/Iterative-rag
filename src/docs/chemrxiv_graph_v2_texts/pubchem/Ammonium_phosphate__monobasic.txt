@@ -1,0 +1,24 @@
+Name: Ammonium phosphate, monobasic
+Text:
+Ammonium dihydrogen phosphate is the ammonium salt of phosphoric acid (molar ratio 1:1). It has a role as a fertilizer. It contains a dihydrogenphosphate.
+Properties:safety: Irritant
+smiles: [NH4+].OP(=O)(O)[O-]
+formula: H3N.H3O4P
+chem_properties: Molecular Weight: 115.03 g/mol
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 115.00344467 Da
+Monoisotopic Mass: 115.00344467 Da
+Topological Polar Surface Area: 81.6
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 49.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

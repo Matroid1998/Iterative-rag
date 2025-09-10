@@ -1,0 +1,12 @@
+Description:
+A promising solid-state electrolyte for next-generation Li-ion batteries due to its high Li ionic conductivity, nonflammability, and high electrochemical stability.
+
+Text:
+Conventional Liion battery technology based on liquid electrolytes is reaching its limits with
+respect to energy density without compromising safety. Batteries with higher energy densi
+ties are required to accelerate reduction of CO2 emissions. Solidstate ceramic electrolytes
+are inherently safer than volatile and flammable liquid electrolytes and can potentially en
+able batteries with higher energy density. The garnet Li7La3Zr2O12 (LLZO) is a promising
+solidstate electrolyte for nextgeneration Liion batteries due to its high Li ionic conductiv
+ity, nonflammability and high electrochemical stability against Li anodes and high voltage
+cathodes1,2. LLZO is typically synthesized via solidstate reaction or solgel synthesis routes316.

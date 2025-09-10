@@ -1,0 +1,13 @@
+Description:
+An element with a redox potential higher than hydroxyl radicals.
+
+Text:
+A crucial feature of this system is the photocatalytic generation of hydroxyl radicals, released from
+TiOH, TiOH, and TiOH bonds. With a redox potential of 2.8 V (second only to fluorine),
+hydroxyl radicals are highly reactive, yet transient species that drive the organotitanium catalytic
+process. While TiO photocatalysis is known to produce hydroxyl radicals, their synergistic role in
+facilitating complex reaction cascades in this system is unprecedented. Although hydroxyl radicals typically exist on the nanosecond scale, they can persist for up to 600
+seconds in aqueous environments, enabling diverse redox reactions. These include dimerization to
+form HO, oxidation of TiO bonds to peroxotitanium species (TiOO), oxidation of PI ligands to
+NO functionalities, conversion of CO to HCOOH, and condensation or radical coupling involving
+formaldehydederived intermediates.

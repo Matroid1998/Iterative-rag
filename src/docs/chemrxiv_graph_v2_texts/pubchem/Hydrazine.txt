@@ -1,0 +1,34 @@
+Name: Hydrazine
+Text:
+Hydrazines are clear, colorless liquids with an ammonia-like odor. There are many kinds of hydrazine compounds, including hydrazine, 1,1-dimethylhydrazine, and 1,2-dimethylhydrazine. Small amounts of hydrazine occur naturally in plants. Most hydrazines are manufactured for use as rocket propellants and fuels, boiler water treatments, chemical reactants, medicines, and in cancer research. Hydrazines are highly reactive and easily catch fire.
+Hydrazine can cause cancer according to an independent committee of scientific and health experts.
+Hydrazine, anhydrous appears as a colorless, fuming oily liquid with an ammonia-like odor. Flash point 99 °F. Explodes during distillation if traces of air are present. Toxic by inhalation and by skin absorption. Corrosive to tissue. Produces toxic oxides of nitrogen during combustion. Used as a rocket propellant and in fuel cells.
+Hydrazine, aqueous solution, with more than 37% hydrazine appears as a colorless aqueous solution. May have an ammonia-like odor. Corrosive. Irritates skin and eyes; irritation to the eyes is delayed. Toxic by ingestion and skin absorption.
+Hydrazine, aqueous solution, with not more than 37% hydrazine appears as a colorless aqueous solution containing a maximum of 37% hydrazine by mass. Has an ammonia-like odor. Corrosive. Contact may irritate skin and eyes. Toxic by ingestion and skin absorption.
+Hydrazine is an azane and a member of hydrazines. It has a role as an EC 4.3.1.10 (serine-sulfate ammonia-lyase) inhibitor. It is a conjugate base of a hydrazinium(1+). It is a conjugate acid of a hydrazinide.
+Individuals may be exposed to hydrazine in the workplace or to small amounts in tobacco smoke. Symptoms of acute (short-term) exposure to high levels of hydrazine may include irritation of the eyes, nose, and throat, dizziness, headache, nausea, pulmonary edema, seizures, and coma in humans. Acute exposure can also damage the liver, kidneys, and central nervous system in humans. The liquid is corrosive and may produce dermatitis from skin contact in humans and animals. Effects to the lungs, liver, spleen, and thyroid have been reported in animals chronically (long-term) exposed to hydrazine via inhalation. Increased incidences of lung, nasal cavity, and liver tumors have been observed in rodents exposed to hydrazine. EPA has classified hydrazine as a Group B2, probable human carcinogen.
+Hydrazine is a highly reactive base and reducing agent used in many industrial and medical applications.  In biological applications, hydrazine and its derivatives exhibit antidepressant properties by inhibiting monoamine oxidase (MAO), an enzyme that catalyzes the deamination and inactivation of certain stimulatory neurotransmitters such as norepinephrine and dopamine.  In psychiatry, the use of hydrazine derivatives is limited due to the emergence of the tricyclic antidepressants. (NCI04)
+HYDRAZINE is a small molecule drug with a maximum clinical trial phase of I (Early) and has 1 investigational indication.
+Being bifunctional, with two amines, hydrazine is a key building block for the preparation of many heterocyclic compounds via condensation with a range of difunctional electrophiles. With 2,4-pentanedione, it condenses to give the 3,5-dimethylpyrazole. In the Einhorn-Brunner reaction hydrazines react with imides to give triazoles. Hydrazine is a convenient reductant because the by-products are typically nitrogen gas and water. Thus, it is used as an antioxidant, an oxygen scavenger, and a corrosion inhibitor in water boilers and heating systems. It is also used to reduce metal salts and oxides to the pure metals in electroless nickel plating and plutonium extraction from nuclear reactor waste. Hydrazine is an inorganic chemical compound with the formula N2H4. It is a colourless liquid with an ammonia-like odor and is derived from the same industrial chemistry processes that manufacture ammonia. However, hydrazine has physical properties that are more similar to those of water. The propanone azine is an intermediate in the Atofina-PCUK synthesis. Direct alkylation of hydrazines with alkyl halides in the presence of base affords alkyl-substituted hydrazines, but the reaction is typically inefficient due to poor control on level of substitution (same as in ordinary amines). The reduction of hydrazones to hydrazines present a clean way to produce 1,1-dialkylated hydrazines.
+Properties:safety: Flammable and Corrosive and Acute Toxic and Health Hazard and Environmental Hazard
+smiles: NN
+formula: H4N2
+chem_properties: Molecular Weight: 32.046 g/mol
+XLogP3: -1.5
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 32.037448136 Da
+Monoisotopic Mass: 32.037448136 Da
+Topological Polar Surface Area: 52
+Heavy Atom Count: 2
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,45 @@
+Description:
+An HIV drug affected by polymorphism, where a low solubility polymorph led to a drug recall.
+
+Text:
+Crystal packing plays an important but dicultto
+predict role in controlling physical properties of organic
+molecular crystals, including solubility, shelf stability,
+and bioavailability.13 Polymorphism,14 or the poten
+tial to form multiple distinct crystal packing motifs, is
+critically important to the pharmaceutical industry,3,5
+as highlighted by the case of the HIV drug ritonavir,
+where the appearance of a previouslyunknown and low
+solubility polymorph made it impossible to produce the
+original polymorph and forced a drug recall.6 Other phar
+maceutical examples of such disappearing polymorphs
+are known,79 and more recently it has been suggested
+that the thermodynamically stable crystal form has not
+been found experimentally for 1545 smallmolecule
+drugs currently available on the market.10
+Over the past decade, ab initio crystal structure
+prediction has moved from the category of impos
+sible,
+as
+it
+was
+famously
+characterized
+30
+years
+ago,11,12 to merely extremely challenging.1323 Suc
+cessful crystal structure prediction, including quantita
+tive ranking of lowenergy polymorphs, is most feasible
+for smallmolecule species with limited conformational
+exibility.2426 Quantitative prediction of thermodynam
+ically stable polymorphs comes with stringent accuracy
+requirements, as an estimated 50 of polymorph pairs
+dier by less than 2 kJmol and around 95 of the con
+formers dier by less than 8 kJmol.4,27,28
+Dispersioncorrected
+density
+functional
+theory
+(DFTD) had made enormous strides towards making
+crystal structures predictable from rst principles,22,2934
+Present address Dept.

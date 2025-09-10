@@ -1,0 +1,28 @@
+Name: Tetrodotoxin
+Text:
+An aminoperhydroquinazoline poison found mainly in the liver and ovaries of fishes in the order tetraodontiformes, which are eaten. The toxin causes paresthesia and paralysis through interference with neuromuscular conduction. Tetrodotoxin is being investigated by Wex Pharmaceuticals for the treatment of chronic and breakthrough pain in advanced cancer patients as well as for the treatment of opioid dependence.
+Spheroidine has been reported in Takifugu flavidus, Takifugu rubripes, and other organisms with data available.
+Tetrodotoxin is a neurotoxin with potential analgesic activity. Tetrodotoxin binds to the pores of fast voltage-gated fast sodium channels in nerve cell membranes, inhibiting nerve action potentials and blocking nerve transmission. Although found in various species of fish (such as the pufferfish), newts, frogs, flatworms, and crabs, tetrodotoxin, for which there is no known antidote, is actually produced by bacteria such as Vibrio alginolyticus, Pseudoalteromonas tetraodonis, and other vibrio and pseudomonas bacterial species.
+An aminoperhydroquinazoline poison found mainly in the liver and ovaries of fishes in the order TETRAODONTIFORMES, which are eaten. The toxin causes paresthesia and paralysis through interference with neuromuscular conduction.
+Properties:safety: Acute Toxic
+smiles: C([C@@]1([C@H]2[C@@H]3[C@H](N=C(N[C@@]34[C@@H]([C@@H]1O[C@]([C@H]4O)(O2)O)O)N)O)O)O
+formula: C11H17N3O8
+chem_properties: Molecular Weight: 319.27 g/mol
+XLogP3: -5.9
+Hydrogen Bond Donor Count: 8
+Hydrogen Bond Acceptor Count: 9
+Rotatable Bond Count: 1
+Exact Mass: 319.10156451 Da
+Monoisotopic Mass: 319.10156451 Da
+Topological Polar Surface Area: 190
+Heavy Atom Count: 22
+Formal Charge: 0
+Complexity: 561
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 9
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

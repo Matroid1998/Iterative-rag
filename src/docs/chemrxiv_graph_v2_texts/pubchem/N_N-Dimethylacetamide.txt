@@ -1,0 +1,29 @@
+Name: N,N-Dimethylacetamide
+Text:
+N,N-Dimethylacetamide can cause cancer according to California Labor Code. It can cause developmental toxicity and male reproductive toxicity according to an independent committee of scientific and health experts.
+Dimethylacetamide appears as a clear colorless liquid with a faint odor similar to ammonia. About the same density as water. Flash point 145 °F. Vapors heavier than air. May by toxic by skin absorption. May irritate eyes and skin.
+N,N-dimethylacetamide is a member of the class of acetamides that is acetamide in which the hydrogens attached to the N atom have been replaced by two methyl groups respectively. Metabolite observed in cancer metabolism. It has a role as a human metabolite. It is a member of acetamides and a monocarboxylic acid amide. It is functionally related to an acetamide.
+N,N-Dimethylacetamide is a dipolar aprotic solvent and reagent that may be used in the production of fibers and pharmaceuticals, and as a non-aldehyde fixative.
+See also: Hallucinogens (annotation moved to); N,N-Dimethyl acetamide solution (40% OR less) (annotation moved to).
+Properties:safety: Irritant and Health Hazard
+smiles: CC(=O)N(C)C
+formula: C4H9NO
+chem_properties: Molecular Weight: 87.12 g/mol
+XLogP3: -0.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 87.068413911 Da
+Monoisotopic Mass: 87.068413911 Da
+Topological Polar Surface Area: 20.3
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 58.6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

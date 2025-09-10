@@ -1,0 +1,33 @@
+Name: Gabapentin
+Text:
+Gabapentin is a gamma-amino acid that is cyclohexane substituted at position 1 by aminomethyl and carboxymethyl groups. Used for treatment of neuropathic pain and restless legs syndrome. It has a role as an anticonvulsant, a calcium channel blocker, an environmental contaminant and a xenobiotic. It is functionally related to a gamma-aminobutyric acid.
+Gabapentin is a structural analogue of the inhibitory neurotransmitter gamma-aminobutyric acid ([GABA]) that was first approved for use in the United States in 1993. It was originally developed as a novel anti-epileptic for the treatment of certain types of seizures - today it is also widely used to treat neuropathic pain. Gabapentin has some stark advantages as compared with other anti-epileptics, such as a relatively benign adverse effect profile, wide therapeutic index, and lack of appreciable metabolism making it unlikely to participate in pharmacokinetic drug interactions.. It is structurally and functionally related to another GABA derivative, [pregabalin].
+The physiologic effect of gabapentin is by means of Decreased Central Nervous System Disorganized Electrical Activity.
+Gabapentin is a unique anticonvulsant that is used as adjunctive therapy in management of epilepsy and for neuropathic pain syndromes. Therapy with gabapentin is not associated with serum aminotransferase elevations, but several cases of clinically apparent liver injury from gabapentin have been reported.
+Gabapentin is a synthetic analogue of the neurotransmitter gamma-aminobutyric acid with anticonvulsant activity. Although its exact mechanism of action is unknown, gabapentin appears to inhibit excitatory neuron activity. This agent also exhibits analgesic properties. (NCI04)
+GABAPENTIN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1993 and has 5 approved and 61 investigational indications.
+Gabapentin was originally developed as a chemical analogue of gamma-aminobutyric acid (GABA) to reduce the spinal reflex for the treatment of spasticity and was found to have anticonvulsant activity in various seizure models. In addition, it also displays antinociceptive activity in various animal pain models. Clinically, gabapentin is indicated as an add-on medication for the treatment of partial seizures, and neuropathic pain. It was also claimed to be beneficial in several other clinical disorders such as anxiety, bipolar disorder, and hot flashes. The possible mechanisms or targets involved in the multiple therapeutic actions of gabapentin have been actively studied. Since gabapentin was developed, several hypotheses had been proposed for its action mechanisms. They include selectively activating the heterodimeric GABA(B) receptors consisting of GABA(B1a) and GABA(B2) subunits, selectively enhancing the NMDA current at GABAergic interneurons, or blocking AMPA-receptor-mediated transmission in the spinal cord, binding to the L-alpha-amino acid transporter, activating ATP-sensitive K(+) channels, activating hyperpolarization-activated cation channels, and modulating Ca(2+) current by selectively binding to the specific binding site of [(3)H]gabapentin, the alpha(2)delta subunit of voltage-dependent Ca(2+) channels. Different mechanisms might be involved in different therapeutic actions of gabapentin. In this review, we summarized the recent progress in the findings proposed for the antinociceptive action mechanisms of gabapentin and suggest that the alpha(2)delta subunit of spinal N-type Ca(2+) channels is very likely the analgesic action target of gabapentin. (A7831).
+A cyclohexane-gamma-aminobutyric acid derivative that is used for the treatment of PARTIAL SEIZURES; NEURALGIA; and RESTLESS LEGS SYNDROME.
+See also: Gabapentin Enacarbil (active moiety of).
+Properties:safety: Irritant and Health Hazard
+smiles: C1CCC(CC1)(CC(=O)O)CN
+formula: C9H17NO2
+chem_properties: Molecular Weight: 171.24 g/mol
+XLogP3: -1.1
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 3
+Exact Mass: 171.125928785 Da
+Monoisotopic Mass: 171.125928785 Da
+Topological Polar Surface Area: 63.3
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 162
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

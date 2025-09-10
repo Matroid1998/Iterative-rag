@@ -1,0 +1,30 @@
+Description:
+A class of antibiotics that includes Plazomicin.
+
+Text:
+The rise of antimicrobial resistance (AMR) leads to difficultto
+treat nosocomial infections and is thus a threat for health care 
+systems globally.1,2 Particularly some multidrugresistant (MDR) 
+Gramnegative pathogens belonging to the bacterial order of 
+Enterobacterales, such as E. coli, have been ranked as critical 
+priority by the World Health Organization (WHO).1 In some cases, 
+those strains develop resistance towards almost all antibiotics 
+currently used in the clinic, leaving no remaining treatment 
+options.3 Most of the antibacterial drugs recently approved by the 
+FDA derive from known antibiotic classes such as the 
+aminoglycoside 
+Plazomicin,4 
+the 
+tetracycline 
+derivative 
+Eravacycline,5 
+and 
+the 
+lactamlactamase 
+inhibitor 
+combinations 
+MeropenemVaborbactam,6 
+CeftolozaneTazobactam and CeftazidimeAvibactam.7 However, 
+development of resistance to these drugs is highly probable since 
+
+2

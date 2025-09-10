@@ -1,0 +1,14 @@
+Description:
+A fast ion conductor used to study dynamic lithium processes.
+
+Text:
+By using the UFP combined with a machine learning
+model for EFG tensors, we can now extend the capabil
+ities of NMR crystallography to make dynamical simu
+lations on microsecond timescales a reality. Using this
+UFPMLEFG model, we will demonstrate how to cal
+culate the relevant ACF of quadrupolar precession fre
+quencies for SAE experiments in the fast ion conductor
+Li3PS4 (LPS). LPS is the ideal system to study dynamic
+Li processes as it has both a crystalline (LPS) and
+httpsdoi.org10.26434chemrxiv2024k4fbw ORCID httpsorcid.org0000000206990450 Content not peerreviewed by ChemRxiv. License CC BY 4.0

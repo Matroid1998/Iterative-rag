@@ -1,0 +1,29 @@
+Description:
+Less symmetric compounds that exhibit a multiple resonance effect.
+
+Text:
+Differential stabilization of the S1 
+state by double excitations can then lead to a negative ST.1, 2 Such an alternating HOMOLUMO 
+density pattern was also realized in less symmetric boron carbon nitrides, such as DABNA, by 
+Hatakeyama and coworkers and termed multiple resonance effect.21, 22 While the chromophores of 
+Hatakeyama and coworkers are prominent representatives of the thermally activated delayed 
+fluorescence (TADF) mechanism, a negative ST cannot be realized in this class of molecules 
+according to current knowledge.13, 23 
+ These observations indicate that molecular symmetry plays an essential role for the realization of 
+organic chromophores with negative ST.
+
+
+---
+
+Description:
+Explored in computational work for their triangular structure.
+
+Text:
+While the paradigm of triangular carbon nitrides and boron 
+carbon nitrides has extensively been explored in recent computational work,1, 2, 16, 19, 20, 24 we ask in 
+the present computational study whether other white spots may exist in chemical space with hitherto 
+undiscovered symmetryenabled S1T1 inversion. The hexagonal symmetry (D6h) of benzene is the 
+most natural symmetry for aromatic compounds. In benzene, the HOMO as well as the LUMO are 
+doubly degenerate. As is well known, the HOMOLUMO transition in benzene gives rise to the six 
+valence excited states three singlet states and three triplet states with the symmetries B2u, B1u, E1u 
+within the D6h symmetry point group.

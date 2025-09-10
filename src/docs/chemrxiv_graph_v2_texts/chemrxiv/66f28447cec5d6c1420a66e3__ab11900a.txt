@@ -1,0 +1,22 @@
+Description:
+Formed in Fischer-Tropsch synthesis from hydrogen and CO.
+
+Text:
+In future energy supply systems, powertoX (PtX) concepts can 
+be incorporated as a solution for longterm energy storage of 
+fluctuating renewable energy in form of high energy molecules, 
+such as hydrogen, methane, or liquid hydrocarbons.1,2 One 
+possibility for the production of such molecules is the Fischer
+Tropsch (FT) synthesis, where hydrogen from water electrolysis 
+reacts with CO from renewable sources to form a wide spectrum 
+of aliphatic hydrocarbons (see R1  R2).3 
+CO  (2 1)HCH HO 
+R1 
+CO  2HCH HO 
+R2 
+The CO hydrogenation is a heterogeneously catalyzed reaction 
+and is usually carried out on supported transition metals, in 
+particular Co, Fe and Ru, supported on various solid oxides, such 
+as SiO2, TiO2, Al2O3 or CeO2 among others.4,5 Catalytic fixedbed 
+reactors, such as those used for FT synthesis, are usually 
+operated in stationary mode.

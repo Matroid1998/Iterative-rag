@@ -1,0 +1,41 @@
+Description:
+An ion-exchangeable monomer used in water-based photoresins.
+
+Text:
+Following debinding 
+in air and sintering in a reducing atmosphere, the resulting copper 
+architectures exhibit a minimum feature size of approximately 40 
+m, accompanied by a high twin density and substantial copper 
+content 
+(96.2 
+wt). The 
+microstructure 
+of 
+copper 
+is 
+microcrystalline and compact, featuring an average grain size of 
+6.5 m and 4.6  2.2 twins per grain. These findings underscore 
+the powerful capability of this methodology in creating micro
+architected 3D metal structures. A waterbased photoresin was developed, comprising 
+sodium acrylate as an ionexchangeable monomer, polyethylene 
+glycol diacrylate (PEGDA) as a crosslinker, PEGBAPO26 as a 
+highly efficient waterborne photoinitiator, tartrazine as a photo
+blocker to finetune printing resolution27, and cellulose 
+nanocrystals (CNCs) as a toughening agent28 (Figure 1b).
+
+
+---
+
+Description:
+A key active ingredient where Na ions can be replaced by Cu2 ions due to strong coordination.
+
+Text:
+Sodium acrylate was chosen as a key active ingredient, with Na 
+ions being replaced by Cu2 ions due to their strong 
+coordination29. Rheological measurements indicated that the 
+incorporation of CNCs maintains a low resin viscosity, preserving 
+the delay time while concurrently enhancing the elastic modulus 
+after curing (Figure S1). Through the adjustment and optimization 
+of printing parameters (Table S1), the successful fabrication of 
+hydrogel scaffolds with a remarkable degree of design freedom 
+was achieved. The addition of CNCs resulted in a reduction of the

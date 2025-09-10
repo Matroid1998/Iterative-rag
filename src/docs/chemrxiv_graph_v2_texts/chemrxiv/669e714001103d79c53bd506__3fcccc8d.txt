@@ -1,0 +1,11 @@
+Description:
+Used as a chemical fuel in PEMFCs, where it undergoes oxidation at the anode.
+
+Text:
+While BEVs 
+currently dominate the electric vehicle market, PEMFCs offer a viable 
+alternative for applications where BEVs encounter limitations, such 
+as in heavyduty trucks.5 PEMFCs convert hydrogen as a chemical fuel 
+directly into electricity by employing two electrochemical reactions 
+oxidation of hydrogen in the anode (Eq. 1) and reduction of oxygen 
+in cathode (Eq. 2). H2  2H  2e (anode)

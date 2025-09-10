@@ -1,0 +1,11 @@
+Description:
+Has significant emission intensities with bands at 750 nm and 825 nm.
+
+Text:
+The lanthanide(III) ions are characterized by narrow bands in the optical spectra, and by emission ranging from the 
+ultraviolet to the nearinfrared (NIR). While the visible region is characterized by high emission intensities and good 
+instrumentation, spectra including the bands in the NIR suffer from poor data quality.1, 2 A typical example is the two 
+last bands in the Eu(III) spectrum at 750 nm and 825 nm. These are rarely reported, despite having significant 
+intensities.38 Investigating lanthanide(III) ions that only have emission bands in the NIR are further complicated as 
+their bands are weak in regions where only insensitive instrumention with high noise levels are available. Weak 
+emission in the NIR is due to efficient quenching, a fact with a generalised explanation given by the energy gab law.

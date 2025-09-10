@@ -1,0 +1,83 @@
+Description:
+A material suitable for emerging applications due to its isoergic or slightly endergonic singlet fission (SF).
+
+Text:
+Conversely, materials 
+82 
+that feature isoergic or slightly endergonic SF, such as 
+83 
+tetracene, are suitable for emerging applications.42,43 
+84 
+Notably, if SF is isoergic, dissociation of the correlated 
+85 
+triplet pair into free triplet excited states may be hindered 
+86 
+by thermally activated triplettriplet annihilation up
+87 
+conversion (TTAUC), a competitive process that yields a 
+88 
+higherlying singlet excited state.44,45,46,47 
+89 
+TTAUC is the reverse process to SF and involves the 
+90 
+fusion of two lowenergy triplet excited states to provide 
+91 
+one highenergy singlet excited state.48,49,50,51 For TTAUC to 
+92 
+occur, the energy of the singlet excited state of the 
+93 
+annihilator must be lower than twice the energy of the 
+94 
+triplet excited state.
+
+
+---
+
+Description:
+Explored as an annihilator in combination with triplet sensitizers for TTAUC.
+
+Text:
+Based on this parameter, polycyclic 
+95 
+aromatic 
+hydrocarbons, 
+including 
+anthracene,52,53,54 
+96 
+tetracene,55,56,57 perylene,58,59,60 and their derivatives have 
+97 
+been explored as annihilators in combination with triplet 
+98 
+sensitizers 
+that 
+undergo 
+photoexcitation 
+at 
+long 
+99 
+wavelengths. TTAUC is typically a diffusioncontrolled, 
+100 
+bimolecular 
+process, 
+and 
+photosensitized 
+TTAUC 
+101 
+measurements are typically conducted in the high
+102 
+concentration regime. Seminal work on TTAUC using 
+103 
+dimeric and oligomeric annihilators confirms that 
+104 
+intramolecular TTAUC (intraTTAUC) helps to circumvent 
+105 
+the need for high concentrations.54,55,57,61 On the other hand, 
+106 
+a definitive scheme describing the process of intraTTAUC 
+107 
+and how it affects the efficiency of TTAUC is still lacking. 108 
+Intramolecular SF (intraSF) in molecular dimers and 
+109 
+oligomers is at the forefront of recent investigations of this 
+110 
+process.

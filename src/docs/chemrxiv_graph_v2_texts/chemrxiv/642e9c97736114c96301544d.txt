@@ -1,0 +1,13 @@
+Description:
+Lipids including DLPC and DMPC, differing in carbon tails.
+
+Text:
+Notably, their CG representations have remained mostly 
+conserved since the inception of the FF3,18 and do not allow to differentiate between some of the lipids. This 
+is the case, e.g., of phosphatidylcholine (PC) lipids DLPC and DMPC, respectively including 12 and 14 
+carbons per tail and currently represented by identical CG models (Fig. 1c), while their phosphateto
+phosphate bilayer thickness (D) differ by 15 at room temperature19,20. The exclusive usage of big 
+beads for modeling the fatty acids, which are designed to represent 4 heavy atoms and their associated 
+hydrogens, does not provide enough resolution to differentiate between the two lipids. Further refining the 
+CG representation of the models, in principle, will allow to further enhance thermodynamic properties of 
+lipids and lipid mixtures in Martini simulations4,21.

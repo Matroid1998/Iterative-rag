@@ -1,0 +1,14 @@
+Description:
+Associated with gravimetric uptake in activated carbon pores at specific pressures.
+
+Text:
+Computational methods at
+tempt to determine the uptake of the sorptive in an idealised
+sorbent with pores of a single width via DFT or GCMC meth
+ods.5,12,37 Whereas experimental data can be used to perform
+ing linear regressions of uptake at a given pressure against pore
+volume in a certain range (usually all pores below some maxi
+mum).11,13,15,17,35,38 By the latter method, Presser et al deter
+mined (N24) that at 1.0 bar, pores in activated carbons of width
+8  are most strongly associated with gravimetric CO2 uptake,
+while this reduced to 5  for uptake at 0.1 bar.

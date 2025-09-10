@@ -1,0 +1,31 @@
+Name: Omacetaxine Mepesuccinate
+Text:
+Omacetaxine mepesuccinate is a cephalotaxine-derived alkaloid ester obtained from Cephalotaxus harringtonia; used for the treatment of chronic or accelerated phase chronic myeloid leukaemia. It has a role as an antineoplastic agent, a protein synthesis inhibitor, an apoptosis inducer and an anticoronaviral agent. It is an alkaloid ester, a tertiary alcohol, an organic heteropentacyclic compound and an enol ether. It is functionally related to a cephalotaxine.
+Omacetaxine mepesuccinate (formerly known as HHT or Homoharringtonine), is a cephalotaxine ester and protein synthesis inhibitor with established clinical activity as a single agent in hematological malignancies. Omacetaxine mepesuccinate  is synthesized from cephalotaxine, which is an extract from the leaves of the plant, Cephalotaxus species. In October 2005, omacetaxine mepesuccinate received Orphan Drug designation from the EMEA for the treatment of chronic myeloid leukemia (CML). Then in March 2006, it received Orphan Drug status from the FDA for the treatment of CML. In November 2006, omacetaxine mepesuccinate, for the treatment of CML, was granted Fast Track designation by the FDA. Most recently, in October 2012, omacetaxine mepesuccinate was marketed under the brand name Synribo and FDA approved for patients who are intolerant and/or resistant to two or more tyrosine kinase inhibitors used to treat accelerated or chronic phase CML.
+Omacetaxine mepesuccinate has been reported in Cephalotaxus fortunei and Cephalotaxus harringtonia with data available.
+Omacetaxine Mepesuccinate is a semisynthetic formulation of the cytotoxic plant alkaloid homoharringtonine isolated from the evergreen tree Cephalotaxus with potential antineoplastic activity. Omacetaxine binds to the 80S ribosome in eukaryotic cells and inhibits protein synthesis by interfering with chain elongation. This agent also induces differentiation and apoptosis in some cancer cell types.
+OMACETAXINE MEPESUCCINATE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2009 and is indicated for neoplasm and cancer and has 4 investigational indications.
+Semisynthetic derivative of harringtonine that acts as a protein synthesis inhibitor and induces APOPTOSIS in tumor cells. It is used in the treatment of MYELOID LEUKEMIA, CHRONIC.
+See also: Omacetaxine (has active moiety).
+Properties:safety: Acute Toxic
+smiles: CC(C)(CCC[C@@](CC(=O)OC)(C(=O)O[C@H]1[C@H]2C3=CC4=C(C=C3CCN5[C@@]2(CCC5)C=C1OC)OCO4)O)O
+formula: C29H39NO9
+chem_properties: Molecular Weight: 545.6 g/mol
+XLogP3: 0.8
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 10
+Rotatable Bond Count: 11
+Exact Mass: 545.26248182 Da
+Monoisotopic Mass: 545.26248182 Da
+Topological Polar Surface Area: 124
+Heavy Atom Count: 39
+Formal Charge: 0
+Complexity: 968
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

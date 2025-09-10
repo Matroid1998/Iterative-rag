@@ -1,0 +1,32 @@
+Name: Doxorubicin Hydrochloride
+Text:
+Doxorubicin Hydrochloride (Adriamycin) can cause cancer according to an independent committee of scientific and health experts. It can cause developmental toxicity and male reproductive toxicity according to state or federal government labeling requirements.
+Adriamycin hydrochloride appears as orange-red thin needles. Aqueous solutions yellow-orange at acid pHs, orange-red at neutral pHs, and violet blue over pH 9. (NTP, 1992)
+Doxorubicin hydrochloride is an anthracycline.
+Doxorubicin hydrochloride (liposomal) is an antineoplastic prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of certain types of cancer, including ovarian cancer, multiple myeloma, and AIDS-related Kaposi sarcoma.
+Kaposi sarcoma is caused by infection with human herpesvirus-8 (HHV-8). HHV-8 infection can be an opportunistic infection (OI) of HIV.
+Doxorubicin Hydrochloride is the hydrochloride salt of doxorubicin, an anthracycline antibiotic with antineoplastic activity. Doxorubicin, isolated from the bacterium Streptomyces peucetius var. caesius, is the hydroxylated congener of daunorubicin. Doxorubicin intercalates between base pairs in the DNA helix, thereby preventing DNA replication and ultimately inhibiting protein synthesis. Additionally, doxorubicin inhibits topoisomerase II which results in an increased and stabilized cleavable enzyme-DNA linked complex during DNA replication and subsequently prevents the ligation of the nucleotide strand after double-strand breakage. Doxorubicin also forms oxygen free radicals resulting in cytotoxicity secondary to lipid peroxidation of cell membrane lipids; the formation of oxygen free radicals also contributes to the toxicity of the anthracycline antibiotics, namely the cardiac and cutaneous vascular effects.
+DOXORUBICIN HYDROCHLORIDE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1974 and has 22 approved and 81 investigational indications. This drug has a black box warning from the FDA.
+Antineoplastic antibiotic obtained from Streptomyces peucetius. It is a hydroxy derivative of DAUNORUBICIN.
+See also: Doxorubicin (has active moiety).
+Properties:safety: Irritant and Health Hazard
+smiles: C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O.Cl
+formula: C27H29NO11.ClH
+chem_properties: Molecular Weight: 580.0 g/mol
+Hydrogen Bond Donor Count: 7
+Hydrogen Bond Acceptor Count: 12
+Rotatable Bond Count: 5
+Exact Mass: 579.1507385 Da
+Monoisotopic Mass: 579.1507385 Da
+Topological Polar Surface Area: 206
+Heavy Atom Count: 40
+Formal Charge: 0
+Complexity: 977
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 6
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

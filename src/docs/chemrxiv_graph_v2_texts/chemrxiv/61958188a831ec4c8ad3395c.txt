@@ -1,0 +1,10 @@
+Description:
+Desirable solar absorbers with high optical absorption coefficient, defect tolerance, and tunable band gap.
+
+Text:
+Halide perovskites with formula ABX3, where A and B are cations, X is halide, have recently been found 
+as desirable solar absorbers.13 Compared with the most widely commercialised silicon solar cell, 
+solutionprocessable halide perovskite solar cells have several advantages, including high optical 
+absorption coefficient, defect tolerance, and tunable band gap.4 However, the most commonly used 
+Bsite metal, Pb, hinders commercialisation due to the high toxicity and the poor intrinsic air stability 
+of many Pb(II) based perovskites.5 Thus there is motivation to develop leadfree analogues.

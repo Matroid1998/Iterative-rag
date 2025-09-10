@@ -1,0 +1,27 @@
+Name: Spiperone
+Text:
+Spiperone is an azaspiro compound that is 1,3,8-triazaspiro[4.5]decane which is substituted at positions 1, 4, and 8 by phenyl, oxo, and 4-(p-fluorophenyl)-4-oxobutyl groups, respectively. It has a role as a dopaminergic antagonist, a serotonergic antagonist, an alpha-adrenergic antagonist, an antipsychotic agent and a psychotropic drug. It is an organofluorine compound, an azaspiro compound, a member of piperidines, a tertiary amino compound and an aromatic ketone.
+Spiperone is a dopamine antagonist that binds dopamine and serotonin receptors.
+A spiro butyrophenone analog similar to HALOPERIDOL and other related compounds. It has been recommended in the treatment of SCHIZOPHRENIA.
+Properties:safety: Irritant and Health Hazard
+smiles: C1CN(CCC12C(=O)NCN2C3=CC=CC=C3)CCCC(=O)C4=CC=C(C=C4)F
+formula: C23H26FN3O2
+chem_properties: Molecular Weight: 395.5 g/mol
+XLogP3: 3
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 6
+Exact Mass: 395.20090524 Da
+Monoisotopic Mass: 395.20090524 Da
+Topological Polar Surface Area: 52.7
+Heavy Atom Count: 29
+Formal Charge: 0
+Complexity: 577
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

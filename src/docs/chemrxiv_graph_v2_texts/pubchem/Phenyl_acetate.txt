@@ -1,0 +1,29 @@
+Name: Phenyl acetate
+Text:
+Phenol acetate appears as a clear colorless liquid with a sweetish solvent odor. Difficult to ignite. Used as a laboratory reagent and in the production of some organic chemicals.
+Phenyl acetate is an acetate ester obtained by the formal condensation of phenol with acetic acid. It is a member of phenyl acetates and a member of benzenes. It is functionally related to a phenol.
+Phenyl acetate has been reported in Arabidopsis thaliana and Euglena gracilis with data available.
+Phenyl Acetate is an aromatic fatty acid metabolite of phenylalanine with potential antineoplastic activity.  Naturally occurring in mammals, phenylacetate induces differentiation, growth inhibition, and apoptosis in tumor cells.  Implicated mechanisms of action include decreased protein prenylation, activation of the peroxisome proliferation-activated receptors, inhibition of DNA methylation, and depletion of glutamine. (NCI04)
+Phenyl acetate is a metabolite found in or produced by Saccharomyces cerevisiae.
+Properties:safety: Irritant
+smiles: CC(=O)OC1=CC=CC=C1
+formula: C8H8O2
+chem_properties: Molecular Weight: 136.15 g/mol
+XLogP3: 1.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 2
+Exact Mass: 136.052429494 Da
+Monoisotopic Mass: 136.052429494 Da
+Topological Polar Surface Area: 26.3
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 114
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

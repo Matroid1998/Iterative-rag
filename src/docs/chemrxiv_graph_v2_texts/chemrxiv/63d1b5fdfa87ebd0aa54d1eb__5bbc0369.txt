@@ -1,0 +1,22 @@
+Description:
+Exhibit non-piezoelectric behavior due to the existence of an inversion center of symmetry, but piezoelectric behavior can be induced via ordered double-transition metal or chemical doping.
+
+Text:
+For instance, pristine MXenes, Mn1Xn, exhibit a non
+piezoelectric behavior due to the existence of an inversion
+center of symmetry, however, such piezoelectric behav
+ior can be readily induced via ordered doubletransition
+metal andor chemical doping.10
+Piezoelectricity is the ability of noncentrosymmetric
+materials to transform a mechanical field into an elec
+tric field, or vice versa.11 This property becomes ex
+tremely useful in the persistent quest for the fabrica
+tion of nanoscale devices and nanoelectromechanical
+systems (NEMS). Indeed, piezoelectric nanomaterials
+(PNMs) have been employed for the design of many novel
+nanodevices, such as nanogenerators, nanosensors, nan
+odiods, and nanotransistors, among others.1219 Many
+2D materials provide a piezoelectric response, however,
+most of them solely show an inplane piezoelectric ef
+fect, with a very small portion that possesses outofplane
+piezoelectricity.

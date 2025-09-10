@@ -1,0 +1,12 @@
+Description:
+Offers intrinsic advantages as a detector material compared to InGaAs.
+
+Text:
+The (6,5)SWCNTs are characterized by an emission 
+peak at 1000 nm with a fullwidth half maximum (FWHM) of around 30 nm. This emission lies precisely at the 
+spectral boundary where the sensitivity of the silicon (Si) detectors ends (300 nm  1100 nm) and the sensitivity 
+of InGaAs detectors (900 nm  1700 nm) begins. In most studies utilizing the fluorescence of (6,5)SWCNT for 
+biosensing, singlepixel InGaAs photodiodes2431 or InGaAs cameras17,32,33,23 are used for detection. However, 
+silicon offers intrinsic advantages compared to InGaAs as a detector material. Due to the lower bandgap of InGaAs, 
+thermal noise is more prevalent in InGaAs detectors.34,35 Additionally, blackbody radiation becomes a non
+neglectable factor at higher wavelengths.

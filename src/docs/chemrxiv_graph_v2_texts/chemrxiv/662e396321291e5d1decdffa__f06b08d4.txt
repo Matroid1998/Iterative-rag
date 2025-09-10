@@ -1,0 +1,58 @@
+Description:
+A greenhouse gas contributing to rising atmospheric concentrations.
+
+Text:
+The rising concentrations of greenhouse gases, with carbon dioxide as a notorious example, in our 
+atmosphere have propelled sustainable processing and carbon capture and utilization (CCU) to the 
+forefront of both academic and industrial research efforts.15 Tackling the carbon footprint challenge 
+necessitates a collaborative endeavor across various disciplines.
+
+
+---
+
+Description:
+An ideal C1 building block with an inert nature that limits its widespread application in synthetic organic chemistry.
+
+Text:
+Chemistry and chemical engineering, 
+guided by the principles of green chemistry, take on a pivotal role in advancing this overarching goal.6,7 
+This entails a fundamental shift away from conventional fossil fuelbased methodologies towards 
+sustainable alternatives, exemplified by the emergence of photochemical processes and circular 
+chemistry practices.8,9 These approaches leverage milder conditions and, where feasible, harness solar 
+energy as a green and renewable driving force for reactions.1013 Integrating solarpowered or assisted 
+techniques with continuousflow technologies offers enhanced control, scalability, selectivity, as well 
+as superior mass and heat transfer capabilities to processes.1417 
+Although carbon dioxide represents an ideal C1 building block, its inert nature has limited widespread 
+application in synthetic organic chemistry.
+
+
+---
+
+Description:
+Can be reduced through hydrogenation reactions such as the Sabatier reaction and reverse water gas shift reaction.
+
+Text:
+Arguably, a more promising approach involves converting 
+CO2 into diverse C1 building blocks like methane or carbon monoxide.18 Particularly, carbon monoxide 
+serves as an activated C1 building block with abundant associated chemistry. Reduction of CO2 can be 
+achieved through hydrogenation reactions, such as the Sabatier reaction and reverse water gas shift 
+(RWGS) reaction. These reactions have also been investigated as lightassisted processes in 
+photochemical or photothermal systems,1921 thereby lowering energy consumption and enhancing 
+sustainability.2224 
+To date, significant strides have been made in the development and evaluation of catalysts and reactor 
+systems for the hydrogenation of carbon dioxide.2533 However, direct comparison of the performance 
+and efficacy of these catalysts remains challenging due to the absence of standardized operational 
+procedures.
+
+
+---
+
+Description:
+A product of hydrogenation processes in continuous light-assisted systems.
+
+Text:
+The 
+precise control and modularity of this system facilitate the continuous lightassisted production of 
+carbon dioxide hydrogenation products, which can be seamlessly integrated into downstream units. In 
+this study, we leverage the generated carbon monoxide as a reagent in a diverse array of palladium
+httpsdoi.org10.26434chemrxiv2024sz6ng ORCID httpsorcid.org0000000231076927 Content not peerreviewed by ChemRxiv. License CC BY 4.0

@@ -1,0 +1,30 @@
+Name: Belinostat
+Text:
+Belinostat is a hydroxamic acid-type histone deacetylase (HDAC) inhibitor with antineoplastic activity. It has a role as an antineoplastic agent and an EC 3.5.1.98 (histone deacetylase) inhibitor. It is a hydroxamic acid, a sulfonamide and an olefinic compound.
+Belinostat is a novel agent that inhibits the enzyme histone deacetylase (HDAC) with a sulfonamide-hydroxamide structure. It was developed as an orphan drug to target hematological malignancies and solid tumors by TopoTarget. The safety and efficacy of belinostat is currently being evaluated for use in combination with traditional front-line therapies for the treatment of PTCL. Intravenous administration of the agent is available as Beleodaq as monotherapy and the dosing regimen involves a 21-day cycle. It was US-approved in July 2014 as a therapeutic agent for relapsed or refractory peripheral T-cell lymphoma.
+Belinostat is a Histone Deacetylase Inhibitor. The mechanism of action of belinostat is as a Histone Deacetylase Inhibitor.
+Belinostat is an intravenously administered histone deacetylase inhibitor and antineoplastic agent that is approved for use in refractory or relapsed peripheral T cell lymphoma. Belinostat is associated with moderate rate of minor serum enzyme elevations during therapy and has been reported to cause clinically apparent fatal, acute liver injury.
+Belinostat is a novel hydroxamic acid-type histone deacetylase (HDAC) inhibitor with antineoplastic activity. Belinostat targets HDAC enzymes, thereby inhibiting tumor cell proliferation, inducing apoptosis, promoting cellular differentiation, and inhibiting angiogenesis. This agent may sensitize drug-resistant tumor cells to other antineoplastic agents, possibly through a mechanism involving the down-regulation of thymidylate synthase.
+BELINOSTAT is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2014 and has 5 approved and 31 investigational indications.
+Properties:safety: Health Hazard
+smiles: C1=CC=C(C=C1)NS(=O)(=O)C2=CC=CC(=C2)/C=C/C(=O)NO
+formula: C15H14N2O4S
+chem_properties: Molecular Weight: 318.3 g/mol
+XLogP3: 1.7
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 5
+Exact Mass: 318.06742811 Da
+Monoisotopic Mass: 318.06742811 Da
+Topological Polar Surface Area: 104
+Heavy Atom Count: 22
+Formal Charge: 0
+Complexity: 492
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

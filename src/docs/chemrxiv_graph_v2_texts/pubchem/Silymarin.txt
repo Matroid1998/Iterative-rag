@@ -1,0 +1,29 @@
+Name: Silymarin
+Text:
+3,5,7-trihydroxy-2-[3-(4-hydroxy-3-methoxyphenyl)-2-(hydroxymethyl)-2,3-dihydro-1,4-benzodioxin-6-yl]-3,4-dihydro-2H-1-benzopyran-4-one is a flavonolignan.
+Silymarin has been reported in Saururus chinensis, Lycium chinense, and other organisms with data available.
+Silymarin is a mixture of flavonolignans isolated from the milk thistle plant Silybum marianum.  Silymarin may act as an antioxidant, protecting hepatic cells from chemotherapy-related free radical damage. This agent may also promote the growth of new hepatic cells. (NCI04)
+A mixture of flavonoids extracted from seeds of the MILK THISTLE, Silybum marianum. It consists primarily of silybin and its isomers, silicristin and silidianin. Silymarin displays antioxidant and membrane stabilizing activity. It protects various tissues and organs against chemical injury, and shows potential as an antihepatoxic agent.
+See also: Silybin (annotation moved to); Milk Thistle Extract (annotation moved to); Silybin (mixture of Silybin A and Silybin B) (annotation moved to) ... View More ...
+Properties:safety: Irritant
+smiles: COC1=C(C=CC(=C1)C2C(OC3=C(O2)C=C(C=C3)C4C(C(=O)C5=C(C=C(C=C5O4)O)O)O)CO)O
+formula: C25H22O10
+chem_properties: Molecular Weight: 482.4 g/mol
+XLogP3: 2.4
+Hydrogen Bond Donor Count: 5
+Hydrogen Bond Acceptor Count: 10
+Rotatable Bond Count: 4
+Exact Mass: 482.12129689 Da
+Monoisotopic Mass: 482.12129689 Da
+Topological Polar Surface Area: 155
+Heavy Atom Count: 35
+Formal Charge: 0
+Complexity: 750
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 4
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

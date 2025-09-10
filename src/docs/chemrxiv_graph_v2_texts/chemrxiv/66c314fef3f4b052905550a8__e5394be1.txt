@@ -1,0 +1,38 @@
+Description:
+Exhibits diverse properties and holds significant potential for advancing opto and bioelectronics, sensors, and energy conversion and storage technologies.
+
+Text:
+Graphene heterostructures and 3D architectures, intricately patterned and combined with various 
+functional materials, exhibit diverse properties and hold significant potential for advancing opto 
+and bioelectronics, sensors, and energy conversion and storage technologies.1 Current 
+patterning techniques mainly employ wet chemistry, focus on 2D functionalities, and do not 
+allow vertical stacking in desired places.2 Atomic layer deposition (ALD) and molecular layer 
+deposition (MLD) are useful tools to control thin film growth on different surfaces.3 Both 
+methods provide uniform layerbylayer growth over large areas, while MLD uses organic 
+precursors instead of inorganic or metalbased reactants.4 The modularity of these techniques 
+enables their combination into a process known as atomicmolecular layer deposition 
+(ALDMLD).
+
+
+---
+
+Description:
+Chemically inert but can be activated for ZnO deposition using femtosecond laser two-photon oxidation.
+
+Text:
+Selectivity can be enhanced using 
+surface functionalization by selfassembled monolayers,17 electron beam irradiation,18 UV 
+exposure,19 oxygen plasma treatment,20 or by growing lateral superlattices.21 
+Recently, we proposed a way to overcome the chemical inertness of graphene to ALD precursors 
+by locally activating the surface using direct femtosecond laser (fslaser) twophoton oxidation 
+(TPO) for areaselective ZnO deposition.22 This method photochemically attaches oxygen
+containing groups to graphene by exposing it to ultrafast laser pulses under an ambient 
+atmosphere.23 As a result, hydroxyl and epoxy groups form on the graphene surface with 
+moderate laser exposure, while carbonyl and carboxyl groups appear at higher irradiation doses, 
+closer to the ablation threshold.24 TPO provides precise control over the oxidation level of 
+graphene and enables the patterning of complex structures with high spatial resolution (300 
+nm), with the potential to achieve 20 nm resolution using tipenhanced techniques.25 
+Additionally, this is a simple, resistfree ultrafast direct laser writing (UDLW) method,26 and 
+the oxidized graphene surface can be restored to its initial state through thermal annealing in an 
+inert atmosphere.22 
+httpsdoi.org10.26434chemrxiv202481qv0 ORCID httpsorcid.org0000000299536934 Content not peerreviewed by ChemRxiv.

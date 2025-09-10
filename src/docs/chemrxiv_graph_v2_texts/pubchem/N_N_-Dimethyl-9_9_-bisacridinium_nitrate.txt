@@ -1,0 +1,24 @@
+Name: N,N'-Dimethyl-9,9'-bisacridinium nitrate
+Text:
+See also: Lucigenin (annotation moved to).
+Properties:safety: Oxidizer and Irritant
+smiles: C[N+]1=C2C=CC=CC2=C(C3=CC=CC=C31)C4=C5C=CC=CC5=[N+](C6=CC=CC=C64)C.[N+](=O)([O-])[O-].[N+](=O)([O-])[O-]
+formula: C28H22N4O6
+chem_properties: Molecular Weight: 510.5 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 1
+Exact Mass: 510.15393443 Da
+Monoisotopic Mass: 510.15393443 Da
+Topological Polar Surface Area: 134
+Heavy Atom Count: 38
+Formal Charge: 0
+Complexity: 522
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

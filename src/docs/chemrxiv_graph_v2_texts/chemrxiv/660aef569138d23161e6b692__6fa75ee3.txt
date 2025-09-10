@@ -1,0 +1,13 @@
+Description:
+A source of energy whose sustainability depends on a low carbon footprint.
+
+Text:
+Additionally, fuel cell 
+electrical vehicles (FCEV) can be considered an alternative, as they do not cause any direct 
+carbon emission during the oxidation cycle that produces electricity. This latter technology is 
+of particular interest for heavy duty vehicles 3. Several studies discussed in literature the 
+environmental impact of BEV; most of them concluded that these vehicles originate lower 
+GHG emissions over their entire lifecycle than equivalent internal combustion engine vehicles 
+49. However, this assumption is only valid if the source of electricity or H2 is accompanied 
+by a low carbon footprint 10. As the main sources of renewable energy are affected by intrinsic stochastic availability, 
+the sustainability of electrified mobility hangs substantially on the energy supply.

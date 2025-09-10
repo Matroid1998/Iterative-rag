@@ -1,0 +1,40 @@
+Description:
+Helicenes that include heteroatoms such as N, O, and S in their structure.
+
+Text:
+A common feature in many helicenes mentioned above is 
+the inclusion of a heteroatom into the helical backbone.30 This 
+is often highlighted by studies as crucial in influencing the 
+physical and optoelectronic properties of a helicene.13,3133 
+However, there are relatively few studies dedicated solely 
+towards investigating synthetic strategies for making a wider 
+range of heterohelicenes based on N, O, and Sheterocycles. Existing examples include photochemical methodologies as 
+applied to the synthesis of azahelicenes by the Carrona 
+group34,35 and a variety of thiahelicenes synthesised by the 
+Wynberg group.3638 Mallory photocyclisations39 are one of the 
+most common strategies to access heterohelicenes but non
+photochemical methodologies such as the Scholl reaction,4042 
+oxidative couplings,43 and 222 cycloisomerisations4446 have 
+also been reported.
+
+
+---
+
+Description:
+Compounds synthesized using photochemical flow reactors through Mallory photocyclisation.
+
+Text:
+Flow or photoflow methodologies are an oftenoverlooked 
+synthetic strategy for accessing heterohelicenes. In particular, 
+photoflow chemistry may offer advantages over batch 
+chemistry including straightforward scalability and a higher 
+tolerance for the high dilution and potential photodegradation 
+encountered in Mallory photocyclisations.47,48 Some examples 
+of helicenes and heterohelicenes synthesised in flow have been 
+reported such as the 222 cycloisomerisations mentioned 
+above, but only a handful of these explore the preparation of 
+heterohelicenes by photocyclisation.4953 
+In this work, we report the Mallory photocyclisation of a 
+series of heterohelicenes using a photochemical flow reactor. Most substrates were synthesised within a short 100 s 
+residence time by using a powerful 150 W LED 365 nm lamp, 
+enabling throughputs of up to 195 mg of stilbene per hour.

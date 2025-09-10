@@ -1,0 +1,19 @@
+Description:
+Atoms that are covalently attracted to Ni(IV) in charge compensation processes.
+
+Text:
+This has been reported to be due to
+charge compensation where Ni(II) oxidises to Ni(IV) and thus has a greater covalent attraction
+to its surrounding oxygen atoms.2 It is believed that this collapse then requires an additional
+energetic contribution to intercalate lithium back into the structure, consequently increasing
+the stress on the lattice.5 These extensive volume uctuations have been suggested as an origin
+for electrochemically mediated crack formation.6
+Cracking in secondary particles has been proposed to cause reduced performance due to insuf
+cient connection between particles and the conductive architecture in the electrode matrix,7
+as well as fresh surface exposure to electrolyte and subsequent oxygen release accompanied by
+electrolyte oxidation.8 It has been determined that the signicant expansion and contraction of
+the clattice parameter during cycling will induce strains on the cathode secondary particles,
+resulting in the possible development of microcracks.9 As suggested above, the considerable
+changes in lattice parameters are likely to be a cause of cracking and can advance degradation
+severely especially during fast charge cycles that sees substantial changes in crystallographic pa
+2

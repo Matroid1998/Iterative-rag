@@ -1,0 +1,14 @@
+Description:
+Reacts with cysteine residues to form a five-membered ring thiosuccinimide linker.
+
+Text:
+Chemical conjugation based on the maleimidethiol chemistry (1, 2) is still widely used 
+to obtain homogeneous and heterogeneous antibodydrug conjugates (ADCs) (3, 4) and 
+conjugate vaccines (5, 6). Maleimides are characterized by their rapid reaction rates with free cysteine residues 
+under mild conditions (7). The cysteine residue is very attractive for protein conjugation 
+due to its low natural abundance and the excellent nucleophilicity of the thiolate anion 
+(7). In bioconjugates the reaction between species containing a maleimide and a cysteine 
+residue leads to the formation of a fivemembered ring thiosuccinimide linker. The 
+identification of the conjugation site by mass spectrometry is very important because it 
+informs the linkage position(s) between the antigendrug and the carrier protein and 
+shed light on product homogeneity (8, 9).

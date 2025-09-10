@@ -1,0 +1,14 @@
+Description:
+A material used in heteroepitaxy with a critical thickness for strain control on yttria-stabilized zirconia.
+
+Text:
+However, these approaches make 
+it challenging to isolate electronic effects due to confounding factors such as heteroatoms, surface 
+microstructures, and surface orientations, which also influence surface activity by altering reactive 
+sites and surface charge distribution1719. Strain engineering through heteroepitaxy has shown 
+promise in tuning the electronic structure of metals and semiconductors, enhancing activity and 
+carrier mobility2023 while maintaining the surface structure. Yet, precise strain control in 4f 
+systems over a large range remains difficult24,25, with recent study revealing that the critical 
+thickness for CeO2 heteroepitaxy on yttriastabilized zirconia was less than 3 nm26, after which 
+misfit dislocations relieve strain and produce polycrystalline films with varied surface terminations, 
+leading to an inherent discrepancy compared with constructed models for theoretical calculations.

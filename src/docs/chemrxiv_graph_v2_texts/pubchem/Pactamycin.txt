@@ -1,0 +1,26 @@
+Name: Pactamycin
+Text:
+Pactamycin has been reported in Streptomyces and Streptomyces pactum with data available.
+Antibiotic produced by Streptomyces pactum used as an antineoplastic agent. It is also used as a tool in biochemistry because it inhibits certain steps in protein synthesis.
+Properties:safety: Acute Toxic
+smiles: CC1=C(C(=CC=C1)O)C(=O)OC[C@]2([C@H]([C@@H]([C@]([C@@]2(C)O)([C@H](C)O)NC(=O)N(C)C)N)NC3=CC=CC(=C3)C(=O)C)O
+formula: C28H38N4O8
+chem_properties: Molecular Weight: 558.6 g/mol
+XLogP3: 0.9
+Hydrogen Bond Donor Count: 7
+Hydrogen Bond Acceptor Count: 10
+Rotatable Bond Count: 9
+Exact Mass: 558.26896418 Da
+Monoisotopic Mass: 558.26896418 Da
+Topological Polar Surface Area: 195
+Heavy Atom Count: 40
+Formal Charge: 0
+Complexity: 951
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 6
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

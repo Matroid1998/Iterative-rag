@@ -1,0 +1,46 @@
+Description:
+A material used in nanoporous atomically thin membranes for selective gas transport.
+
+Text:
+Highperformance membranes have immense potential to improve carbon capture efficiency1,2 if 
+they can be designed to yield a high CO2 selectivity and a high CO2 permeance.3 Nanoporous 
+atomically thin membranes (NATM), particularly porous graphene, have attracted substantial 
+attention.49 A single translocation event across the zerodimensional pore determines selective 
+transport.1012 Attractive gas separation performance has been observed,7,1319 with selectivity 
+arising from relative mass,8,20 molecular size,15,2128 and binding affinity16,19,29,30 differences. An 
+accurate prediction of capture performance from graphene pores is needed to highlight the true 
+potential of NATM. This will help design improved membranes for carbon capture. Accurate and rapid computation of capture performance from realistic CO2selective pores, 
+mimicking those formed in experiments, is needed.
+
+
+---
+
+Description:
+Material with scale pores prepared by oxidation for CO2 separation.
+
+Text:
+scale pores in graphene for CO2 separation 
+are prepared by oxidation involving controlled lattice gasification.5,22,3137 The resulting pore edges 
+are passivated with O functional groups.3840 These groups evolve from the chemisorption of a single 
+epoxy followed by an organization of epoxies in a cluster (Supplementary Section 1).37 When the 
+cluster size is sufficiently large, strainmediated CC bond cleavage followed by gasification yields a 
+carbon vacancy defect (pore) with ether41 and semiquinones (CO) decorated at the pore edge.40,42
+44 Pores formed in this way have yielded attractive carbon capture performances, however, pores 
+terminated with CO have not been explored by computational studies.
+
+
+---
+
+Description:
+Material with pores studied for gas transport and separation.
+
+Text:
+Extensive computational studies have been conducted to analyze gas transport from graphene 
+pores10,45,46 since attractive gas separation from graphene pores was first predicted in the year 
+2009.4 For simplicity, early studies probed pore edges devoid of functional groups and assumed 
+rigid apertures with a fixed porelimiting diameter.4752 Other studies probed pore edges passivated 
+with atomic H, N, or O, however, gas transport was still investigated, assuming a rigid aperture with 
+a fixed PLD.4,49,5358 When lattice flexibility and vibrational dynamics were included, PLD 
+modulation59 and enlargement60 were predicted, resulting in an increased gas permeance.11 Pores 
+decorated with the CO group have not been studied. One expects the pore edge CO group to 
+interact strongly with polar molecules such as CO2 and even flipflop across the plane of the pore.

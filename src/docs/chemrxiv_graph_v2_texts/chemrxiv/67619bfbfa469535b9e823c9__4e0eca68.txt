@@ -1,0 +1,29 @@
+Description:
+Reduced in the photocatalytic mechanism involving TiOH and hydroxyl radicals.
+
+Text:
+Most artificial photosynthesis (AP) systems, including those at the forefront of research, focus on
+water splitting for hydrogen production or reducing CO to basic hydrocarbons (C1C3). The ability
+to synthesize longchain compounds (up to C17) offers a transformative opportunity to produce
+highervalue chemicals, advancing AP technology scalability. The newly developed TiCl2phenylindole (PI) photocatalytic system uses visible light to convert
+atmospheric CO and HO into multicarbon oxygenated hydrocarbons1. This breakthrough
+integrates Direct Air Capture (DAC) of CO2 with conversion, addressing critical challenges in
+climate change, energy sustainability, and resource efficiency. The mechanism involves forming photoactive TiOH bonds through the hydrolysis of TiCl
+bonds by ambient air humidity. Upon exposure to light and air, these TiOH bonds release
+hydroxyl radicals, facilitating the reduction of the titanium center (Ti TiTi).
+
+
+---
+
+Description:
+Reduced titanium species with increased electron density capture atmospheric CO.
+
+Text:
+The reduced
+titanium species, with increased electron density, effectively capture atmospheric CO, initiating a
+spontaneous and intricate reduction process that produces longchain oxygenated hydrocarbons. This solardriven, autonomous production distinguishes the system from conventional AP methods. Traditional AP approaches primarily target water splitting and CO reduction to small hydrocarbons
+(C1C3) using metal oxide catalysts. These methods often require high CO concentrations and
+separate processes, achieving limited success. In contrast, the novel organotitaniumbased system
+integrates water splitting and CO reduction into a single, continuous process, producing oxygenated
+organics directly from ambient CO (0.04). This capability to convert trace amounts of CO into
+valuable materials represents a significant leap in AP technology.

@@ -1,0 +1,30 @@
+Name: Trioxsalen
+Text:
+Trioxsalen is 7H-Furo[3,2-g]chromen-7-one in which positions 2, 5, and 9 are substituted by methyl groups. Like other psoralens, trioxsalen causes photosensitization of the skin. It is administered orally in conjunction with UV-A for phototherapy treatment of vitiligo. After photoactivation it creates interstrand cross-links in DNA, inhibiting DNA synthesis and cell division, and can lead to cell injury; recovery from the cell injury may be followed by increased melanisation of the epidermis. It has a role as a photosensitizing agent and a dermatologic drug.
+Trioxsalen (trimethylpsoralen, trioxysalen or trisoralen) is a furanocoumarin and a psoralen derivative obtained from several plants, mainly Psoralea corylifolia. Like other psoralens it causes photosensitization of the skin. It is administered either topically or orally in conjunction with UV-A (the least damaging form of ultraviolet light) for phototherapy treatment of vitiligo and hand eczema. The photoactivated form produces interstrand linkages in DNA resulting in cell apoptosis. In research it can be conjugated to dyes for confocal microscopy and used to visualize sites of DNA damage.[3] The compound is has been explored for development of antisense oligonucleotides that can be cross-linked specifically to a mutant mRNA sequence without affecting normal transcripts differing at even a single base pair.
+Trioxsalen is a Psoralen.
+Trioxsalen has been reported in Apium graveolens with data available.
+TRIOXSALEN is a small molecule drug with a maximum clinical trial phase of IV that was first approved in 1964 and is indicated for psoriasis.
+Pigmenting photosensitizing agent obtained from several plants, mainly Psoralea corylifolia. It is administered either topically or orally in conjunction with ultraviolet light in the treatment of vitiligo.
+Properties:safety: Corrosive and Health Hazard
+smiles: CC1=CC(=O)OC2=C1C=C3C=C(OC3=C2C)C
+formula: C14H12O3
+chem_properties: Molecular Weight: 228.24 g/mol
+XLogP3: 3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 228.078644241 Da
+Monoisotopic Mass: 228.078644241 Da
+Topological Polar Surface Area: 39.4
+Heavy Atom Count: 17
+Formal Charge: 0
+Complexity: 374
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,18 @@
+Description:
+A reactive intermediate that abstracts a hydrogen atom from the substrate.
+
+Text:
+This 
+reactive 
+Mn(V)oxo 
+intermediate abstracts a hydrogen atom from the substrate to form 
+Mn(IV)hydroxo intermediate (3), Mn(IV)(OH)(TMP)F, and a 
+radical located on a carbon atom of the substrate (Figure 1). The 
+next step involves the formation of a difluoro intermediate (4), 
+Mn(IV)(TMP)F2, by replacing OH with F in the catalyst in the 
+reaction with AgF (Figure 1). The fluoride in the axial position of 
+the Mn(IV)(TMP)F2 intermediate then combines with the 
+substrate radical to form the fluorinated product. This step is 
+believed to be ratelimiting in the mechanism of the fluorination 
+reaction. After this stage, the catalyst returns to its resting state 
+(Figure 1).

@@ -1,0 +1,36 @@
+Name: Nicotinic acid
+Text:
+Nicotinic acid is an odorless white crystalline powder with a feebly acid taste. pH (saturated aqueous solution) 2.7. pH (1.3% solution) 3-3.5. (NTP, 1992)
+Nicotinic acid is a pyridinemonocarboxylic acid that is pyridine in which the hydrogen at position 3 is replaced by a carboxy group. It has a role as an antidote, an antilipemic drug, a vasodilator agent, a metabolite, an EC 3.5.1.19 (nicotinamidase) inhibitor, an Escherichia coli metabolite, a mouse metabolite, a human urinary metabolite and a plant metabolite. It is a vitamin B3, a pyridinemonocarboxylic acid and a pyridine alkaloid. It is a conjugate acid of a nicotinate.
+Niacin is a B vitamin used to treat vitamin deficiencies as well as hyperlipidemia, dyslipidemia, hypertriglyceridemia, and to reduce the risk of myocardial infarctions.
+Nicotinic acid is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Niacin is a Nicotinic Acid.
+Niacin, also known as nicotinic acid and vitamin B3, is a water soluble, essential B vitamin that, when given in high doses, is effective in lowering low density lipoprotein (LDL) cholesterol and raising high density lipoprotein (HDL) cholesterol, which makes this agent of unique value in the therapy of dyslipidemia. Niacin can cause mild-to-moderate serum aminotransferase elevations and high doses and certain formulations of niacin have been linked to clinically apparent, acute liver injury which can be severe as well as fatal.
+Nicotinic acid has been reported in Umbelopsis vinacea, Codonopsis pilosula, and other organisms with data available.
+Niacin is a water-soluble vitamin belonging to the vitamin B family, which occurs in many animal and plant tissues, with antihyperlipidemic activity. Niacin is converted to its active form niacinamide, which is a component of the coenzymes nicotinamide adenine dinucleotide (NAD) and its phosphate form, NADP. These coenzymes play an important role in tissue respiration and in glycogen, lipid, amino acid, protein, and purine metabolism. Although the exact mechanism of action by which niacin lowers cholesterol is not fully understood, it may act by inhibiting the synthesis of very low density lipoproteins (VLDL), inhibiting the release of free fatty acids from adipose tissue, increasing lipoprotein lipase activity, and reducing the hepatic synthesis of VLDL-C and LDL-C.
+NIACIN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) and has 11 approved and 32 investigational indications.
+Nicotinic acid, also known as niacin or vitamin B3, is a water-soluble vitamin whose derivatives such as NADH, NAD, NAD+, and NADP play essential roles in energy metabolism in the living cell and DNA repair. The designation vitamin B3 also includes the amide form, nicotinamide or niacinamide. Severe lack of niacin causes the deficiency disease pellagra, whereas a mild deficiency slows down the metabolism decreasing cold tolerance. The recommended daily allowance of niacin is 2-12 mg a day for children, 14 mg a day for women, 16 mg a day for men, and 18 mg a day for pregnant or breast-feeding women. It is found in various animal and plant tissues and has pellagra-curative, vasodilating, and antilipemic properties. The liver can synthesize niacin from the essential amino acid tryptophan (see below), but the synthesis is extremely slow and requires vitamin B6; 60 mg of tryptophan are required to make one milligram of niacin. Bacteria in the gut may also perform the conversion but are inefficient.
+A water-soluble vitamin of the B complex occurring in various animal and plant tissues. It is required by the body for the formation of coenzymes NAD and NADP. It has PELLAGRA-curative, vasodilating, and antilipemic properties.
+See also: Niacin sodium (annotation moved to).
+Properties:safety: Irritant
+smiles: C1=CC(=CN=C1)C(=O)O
+formula: C6H5NO2
+chem_properties: Molecular Weight: 123.11 g/mol
+XLogP3: 0.4
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 1
+Exact Mass: 123.032028402 Da
+Monoisotopic Mass: 123.032028402 Da
+Topological Polar Surface Area: 50.2
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 114
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

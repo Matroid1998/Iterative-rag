@@ -1,0 +1,24 @@
+Name: N-Aminopiperidine
+Text:
+Properties:safety: Flammable and Corrosive and Irritant
+smiles: C1CCN(CC1)N
+formula: C5H12N2
+chem_properties: Molecular Weight: 100.16 g/mol
+XLogP3: -0.3
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 100.100048391 Da
+Monoisotopic Mass: 100.100048391 Da
+Topological Polar Surface Area: 29.3
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 48
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

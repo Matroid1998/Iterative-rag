@@ -1,0 +1,13 @@
+Description:
+A framework structure where specific T-sites can be correlated with 27Al NMR spectra.
+
+Text:
+See DOI 00.000000000000
+magnetic resonance (NMR) spectroscopy, particularly 27Al NMR,
+has emerged as a powerful tool for probing the local environments
+of aluminium atoms in zeolites.57 Several studies have attempted
+to correlate experimental 27Al NMR spectra with specific Tsites in
+the zeolite framework.813 However, sizable inconsistencies in the
+calculated chemical shifts reported in these studies illustrate the
+continuing challenges faced by researchers in this field. Interpreting solidstate NMR spectra can be challenging due to
+signal broadening and overlap.

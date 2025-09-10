@@ -1,0 +1,23 @@
+Name: Diisopropylamine, hydrochloride
+Text:
+Properties:safety: Irritant
+smiles: CC(C)NC(C)C.Cl
+formula: C6H16ClN
+chem_properties: Molecular Weight: 137.65 g/mol
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 2
+Exact Mass: 137.0971272 Da
+Monoisotopic Mass: 137.0971272 Da
+Topological Polar Surface Area: 12
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 33.4
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

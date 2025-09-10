@@ -1,0 +1,8 @@
+Description:
+Compounds modeled in roasted coffee beans using hyperspectral imaging.
+
+Text:
+Since coffee flavours have a basis in its chemical constituents, present methodologies typically employ a chemical analytical process on coffee beans, then finding an appropriate 
+mapping to one or more flavour notes, whether directly or indirectly through quantitation of one or more specific compounds such as pyrazines or esters. Caporaso et al. applied hyperspectral imaging in the nearinfrared range on single roasted coffee beans to model the amounts of specific compounds such as aldehydes and pyrazines as 
+determined by gas chromatographymass spectrometry 2. EstebanDez et al. employed nearinfrared spectroscopy to build regression models to infer acidity, mouthfeel, bitterness and 
+aftertaste in roasted coffee successfully 3, but these inferred parameters are not as specific as those described by the flavour wheel. Chang et al.

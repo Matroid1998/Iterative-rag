@@ -1,0 +1,9 @@
+Description:
+An element involved in isotope separation processes.
+
+Text:
+Lithium penetration into solid electrolytes (termed Li intrusion) limits charging rate and poses 
+safety concerns in solidstate batteries1,2 as well as in electrolysis cells for extracting lithium 
+metal3,4 and separating hydrogen isotopes5. In brittle garnet solid electrolytes, mechanical 
+imperfection in solid electrolytes is a key cause of Li intrusions, including surface defects such 
+as nanoscale cracks69 and internal defects such as voids and grain boundaries1015.

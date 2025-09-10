@@ -1,0 +1,27 @@
+Description:
+A versatile bilayered phase capable of hosting various cations like lithium, sodium, manganese, and zinc.
+
+Text:
+The 
+bilayered V2O5 phase (V2O5) is particularly versatile due to its ability to host a variety of 
+cations, such as lithium, sodium, manganese, or zinc.5,6 It can further be synthesized by several 
+wetchemical and hydrothermal methods, yielding a wide variety of attainable morphologies.7 
+Thus, the material is suitable as a model system to explore electrochemical intercalation 
+properties as a function of the host material structure and particularly its interlayer spacing. An emerging concept to reduce kinetic limitations in host materials is the direct tuning of 
+lattice parameters, such as the interlayer spacing of layered and twodimensional materials, 
+thereby modifying the nanoconfinement geometry within the host.
+
+
+---
+
+Description:
+A material where interlayer expansion can be explored via ionic or molecular pillaring approaches.
+
+Text:
+Such tuning can be 
+achieved via different functionalization approaches, including the insertion of pillarsspacer 
+molecules into the host material structure.8,9 It has been hypothesized that the resulting 
+increased interlayer spacing in a layered intercalation host electrode can increase the ionic 
+diffusion due to a reduced activation energy barrier for ion hopping between interstitial 
+vacancy sites,10 thereby allowing increased intercalation rates. In the case of V2O5, interlayer expansion was explored via ionic andor molecular pillaring 
+approaches. Clites et al.

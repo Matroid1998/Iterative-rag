@@ -1,0 +1,19 @@
+Description:
+A polymer that can be doped using Lewis acid doping.
+
+Text:
+See DOI 00.000000000000.
+of the commonly used molecular dopants such as for example
+F4TNCQ (tetracyano2,3,5,6tetrauoroquinodimethane). Lewis
+acid doping was proposed as an alternative that partially over
+comes these limitations in P3HT (poly(3hexylthiophene)).10 As
+recently reported by Yurash et al.,11 the doping of the polymer
+PCPDTBT (poly2,6(4,4bis(2ethylhexyl)4Hcyclopenta 2,1
+b;3,4bdithio phene)alt4,7(2,1,3benzothiadiazole)) with the
+strong Lewis acid BCF (tris(pentauorophenyl)borane) exceeds
+the doping achieved using traditional molecular ptype doping
+with F4TNCQ. As for the origin of doping via BCF a multistep
+mechanism was proposed. First, a Brnstedtype acid BCFH2O
+complex is formed in solution which is then capable of protonat
+ing the polymers backbone and leaves behind a BCFOH counter
+anion.

@@ -1,0 +1,14 @@
+Description:
+Subject to corrosion in concentrated KOH.
+
+Text:
+However, to the best of the 
+authors knowledge, the current trend particularly in mechanistic analysis leans towards the 
+Nyquist plot, attributed to its straightforward distinctive semicircle visualization.1, 13, 14 Taking 
+analyzing aluminum corrosion in concentrated KOH as an example, a series of electrochemical 
+impedance spectroscopy (EIS) data was obtained across various potentials and visualized by 
+Nyquist plot, and the interpretation involves identifying the electrochemical process that best 
+aligns with the loci of experimental impedance spectra, utilizing a set of optimized model 
+parameters.15 Determining the superior data representation in EIS remains an open question, given 
+the diverse features of various formats, and the challenge of statistically evaluating the impact of 
+data representation on manual EIS interpretation further complicates this inquiry.

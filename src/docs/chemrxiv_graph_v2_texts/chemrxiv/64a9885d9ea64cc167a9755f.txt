@@ -1,0 +1,27 @@
+Description:
+A key component in lithium-ion batteries, known for high energy density and operating voltage.
+
+Text:
+Electrochemical energy storage in batteries is crucial for successfully transitioning from fossil
+fuel usage to a sustainable energy economy .1 Lithiumion batteries (LIBs) exhibit a high
+energy density and operating voltage while maintaining a suciently long cycle life. Thus,
+LIBs have established themselves as the prime nonstationary energy storage solution .2
+However, LIBs cannot store the inexorably increasing energy needed for todays society
+for various reasons. Not the least of these reasons is the relative scarcity of lithium in
+the earths crust and its uneven global distribution, combined with the environmentally
+unfriendly mining process.3 It is, therefore, essential to diversify energy storage beyond
+lithium.
+
+
+---
+
+Description:
+Used in batteries and known for its chemically similar behavior to sodium.
+
+Text:
+One of the most promising alternatives to lithium batteries are sodium batteries 4
+which, unlike lithium, do not suer from scarcity issues due to sodiums relative abundance. Based on sodiums chemically similar behavior to lithium, many concepts developed through
+the study of lithium batteries can be applied to sodium batteries .5,6
+One such aspect lies in understanding the solid electrolyte interphase (SEI) formation. Although there are dierences due to dierent kinds of anode materials used between lithium
+2
+httpsdoi.org10.26434chemrxiv20236tsq4 ORCID httpsorcid.org0000000340377331 Content not peerreviewed by ChemRxiv. License CC BY 4.0

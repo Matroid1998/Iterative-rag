@@ -1,0 +1,42 @@
+Description:
+A molecule that can be delivered directly to target tissues to overcome hypoxia-related limitations.
+
+Text:
+In order to overcome hypoxiarelated limitations, the design and development of biocompatible 
+molecular vectors able to deliver O2 directly to the target tissues is gaining significant attention in the 
+pharmacological field.9 In this context, an increasing amount of literature focused on aromatic 
+endoperoxides (EPOs) as suitable OxygenReleasing Agents (ORAs).10 The polycyclic aromatic 
+precursors are cheap, versatile substrates able to reversibly bind and release O2 when properly 
+functionalized and stimulated. The chemistry of these interesting EPOs has been deepened in the 
+past11 and many aspects regarding their preparation and reactivity are now wellknown and 
+established.12 Among others, the group of W. Fudickar and T. Linker was able to produce a remarkable 
+amount of EPOs from both anthracene13,14 and naphthalene15,16 derivatives.
+
+
+---
+
+Description:
+Released effectively from PABAO2 when heated at 90°C.
+
+Text:
+Compared to previously published literature,23 effective improvements were 
+achieved in the photooxygenation of mono and disubstituted anthracene derivatives, namely 4
+(anthracen9yl)benzoic acid, ANBA, and 4(10phenylanthracen9yl)benzoic acid, PABA, respectively, 
+forming more stable EPOs compared to the analogous naphthalenederivatives, 4(naphthalen1
+yl)benzoic acid, NABA, and 4(4phenylnaphthalen1yl)benzoic acid, PNBA. Out of four, only PABAO2 
+was found to release O2 effectively, when heated at 90 C for a prolonged time. Herein, computational and crystallographic data were used to select the most suitable structural 
+features to improve the ORA performances in terms of EPO formation and O2 release. For the first time, 
+the synthesis of anthracenebased EPOs bearing carefully selected substituents was carried out using 
+a continuous flow photochemical reactor allowing to envisage the industrial scale up of the 
+photooxygenation step (Figure S1).
+
+
+---
+
+Description:
+Released in physiologically compatible conditions by EPOs, suggesting potential use as ORAs for relieving hypoxia.
+
+Text:
+Importantly, as anticipated by computational insights, these EPOs 
+release O2 in physiologically compatible conditions thus suggesting the possibility to further explore 
+these molecules as ORAs for relieving hypoxia. httpsdoi.org10.26434chemrxiv20240nf7j ORCID httpsorcid.org0000000213253627 Content not peerreviewed by ChemRxiv. License CC BY 4.0

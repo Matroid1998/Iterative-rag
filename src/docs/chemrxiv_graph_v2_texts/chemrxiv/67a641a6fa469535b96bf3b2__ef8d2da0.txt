@@ -1,0 +1,15 @@
+Description:
+Compounds with unique structural, chemical, and physical properties used in the synthesis of various important materials.
+
+Text:
+. Modern organic synthesis methodologies aim to efficiently construct important molecular frameworks 
+with the fewest possible steps, optimal convergence, minimal functional group transformations, and 
+importantly reliance on simple, divergent, commercially available or readily accessible starting 
+materials, while often favoring transition metalfree approaches and using friendly reagents. With 
+these ambitious goals in mind, our program aims to focus on the synthesis of important arylated 
+molecules, specifically (unsymmetrical) diarylmethanes and diarylketones. 1, 2 
+Diarylmethanes and diarylketones have attracted considerable interest due to their unique structural, 
+chemical, and physical properties. They are essential in the synthesis of natural products, bioactive 
+compounds, pharmaceuticals, agrochemicals, and modern synthetic materials. An important focus in 
+organic synthesis is the modular and efficient construction of these scaffolds, particularly their 
+unsymmetrical variants containing two distinct aryl groups.

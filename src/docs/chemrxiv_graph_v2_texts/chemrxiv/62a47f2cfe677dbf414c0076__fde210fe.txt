@@ -1,0 +1,10 @@
+Description:
+Added in low contents to boost electrode capacity in advanced batteries.
+
+Text:
+Since silicon has recently been added to 
+advanced batteries, few studies have addressed the optimization of the 
+manufacturing steps. Today, much of the silicon added in advanced batteries for 
+electric vehicles is combined with graphite. In particular, Si is added in low 
+contents ( 10 wt) to boost the electrode capacity while buffering silicon volume 
+expansion and benefiting from the wellbehaved graphite cycling.

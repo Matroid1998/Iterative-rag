@@ -1,0 +1,29 @@
+Name: Neon
+Text:
+Neon appears as a colorless odorless noncombustible gas. Chemically inert. The vapors are lighter than air. Nontoxic, but can act as a simple asphyxiant. Exposure of the container to prolonged heat or fire may cause it to rupture violently and rocket. Principal use is to fill lamp bulbs and tubes.
+Neon, refrigerated liquid (cryogenic liquid) appears as a colorless, odorless, extremely cold liquid. Rapidly evolves into neon gas. Nontoxic and chemically inert. May act as an asphyxiate by displacement of oxygen. Contact with the liquid may cause frostbite. Exposure of container to prolonged heat or fire may cause violent rupture and rocket.
+Neon(0) is a monoatomic neon.
+Neon is a chemical element with a chemical symbol Ne and atomic number 10. It is a noble gas that is colorless, odorless, inert and monatomic. It is the fifth most abundant chemical element in the universe by mass but a rare element on Earth. It displays a reddish-orange light, and is commonly used in low-voltage neon glow lamps, high-voltage discharge tubes, and signs with fluorescent lighting. It is also used in vacuum tubes, high-voltage indicators, lightning arresters, wave meter tubes, television tubes, and helium–neon lasers. Neon may be used in the clinical setting as a diagnostic tracer gas in a gas analyzer for a lung diffusion test. Other clinical applications of neon, such as a radiotherapy in various cancers, have been studied.
+neon is a mineral.
+A noble gas with the atomic symbol Ne, atomic number 10, and atomic weight 20.18. It is found in the earth's crust and atmosphere as an inert, odorless gas and is used in vacuum tubes and incandescent lamps.
+Properties:safety: Compressed Gas
+smiles: [Ne]
+formula: Ne
+chem_properties: Molecular Weight: 20.180 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 19.99244018 Da
+Monoisotopic Mass: 19.99244018 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 1
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

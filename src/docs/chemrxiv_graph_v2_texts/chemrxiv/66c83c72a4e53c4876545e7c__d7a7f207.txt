@@ -1,0 +1,13 @@
+Description:
+A gas that can be absorbed by metalorganic frameworks due to their large adsorption capacity.
+
+Text:
+Metalorganic frameworks (MOFs) are a promising class of CO2 absorbents owing to
+their large capacity for the adsorption of gases and their structural and chemical tun
+ability.1 Over 90,000 MOFs have been synthesized,2 and over a trillion structures have
+been predicted in silico.3 High throughput computational screening studies have been
+conducted to find the optimal MOF for a given application.4 Such screening studies use
+molecular simulation to predict the adsorption properties. These simulations rely on
+generic force fields, such as the universal force field (UFF)5 or Dreiding,6 to describe
+the interactions between the adsorbed gas molecules and the atoms of the MOFs.3,7,8
+The generic force fields use one set of LennardJones parameters for each element.

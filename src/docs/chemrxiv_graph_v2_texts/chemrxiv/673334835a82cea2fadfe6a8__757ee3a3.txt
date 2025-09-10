@@ -1,0 +1,28 @@
+Description:
+Hydrocarbon compounds that often suffer from poor stability.
+
+Text:
+The advancement of organic optoelectronics relies heavily on polycyclic aromatic compounds
+(PACs), which act as fundamental components in these devices.13 Unfortunately, their
+hydrocarbon counterparts, polycyclic aromatic hydrocarbons (PAHs), particularly acenes,
+often suffer from poor stability. Major decomposition pathways, such as photooxidation with
+1O2 and oligomerization, are closely linked to the HOMO and LUMO energy levels of
+acenes.4,5 Therefore, finding ideal systems for organic optoelectronic applications with
+tunable energy levels of frontier molecular orbitals, alongside maintaining good stability and
+solubility is a highly challenging task.
+
+
+---
+
+Description:
+Compounds whose stability can be enhanced by substituting carbon atoms with heteroatoms.
+
+Text:
+One of the most effective strategies for enhancing the stability of polycyclic aromatic
+hydrocarbons (PAHs) involves substituting some of their carbon atoms with main group
+element heteroatoms, such as sulfur (S), nitrogen (N), boron (B), or phosphorus (P).6,7 Such
+heteroatom substitution not only significantly improves their stability but also endows the
+resulting polycyclic heteroaromatic compounds with a broad spectrum of properties that are
+unattainable by their purely hydrocarbon analogues. Besides finetuning the electronic
+structure, heteroatoms can improve molecular packing, and processability, opening new
+avenues for material design and application.

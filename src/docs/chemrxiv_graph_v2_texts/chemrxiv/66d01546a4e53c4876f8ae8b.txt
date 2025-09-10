@@ -1,0 +1,11 @@
+Description:
+Involved in the sluggish oxygen evolution reaction at the photoanode surface.
+
+Text:
+To mitigate the effects of climate change, a transition to renewable and clean energy sources is crucial 
+to sustainably meet the escalating global demand for energy.1 Harnessing solar energy to drive 
+photoelectrochemical (PEC) reactions is promising for the sustainable production of energy carriers and 
+chemical fuels, including hydrogen by water splitting.25 PEC water splitting efficiency remains low 
+due predominantly to severe bulk charge recombination and the sluggish oxygen evolution reaction 
+(OER) at the photoanode surface.6 An approach to overcome the constraints is to employ ferroelectric
+based photoanodes.

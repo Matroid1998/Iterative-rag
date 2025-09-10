@@ -1,0 +1,32 @@
+Name: 1,3-Butadiene
+Text:
+1,3-Butadiene is a chemical made from the processing of petroleum. It is the 36th highest volume chemical produced in the United States. It is a colorless gas with a mild gasoline-like odor. About 75% of the manufactured 1,3-butadiene is used to make synthetic rubber. Synthetic rubber is widely used for tires on cars and trucks. 1,3-Butadiene is also used to make plastics including acrylics. Small amounts are found in gasoline.
+1,3-Butadiene can cause cancer according to an independent committee of scientific and health experts. It can cause developmental toxicity, female reproductive toxicity and male reproductive toxicity according to The National Institute for Occupational Safety and Health (NIOSH) and The Environmental Protection Agency (EPA).
+Butadiene is a colorless gas with an aromatic odor. It is shipped as a liquefied gas under its vapor pressure. Contact with the liquid can cause frostbite. It is easily ignited. Its vapors are heavier than air and a flame can flash back to the source of leak very easily. It can asphyxiate by the displacement of air. It must be shipped inhibited as butadiene is liable to polymerization. If polymerization occurs in the container, it may violently rupture. Under prolonged exposure to fire or intense heat the containers may rupture violently and rocket. It is used to make synthetic rubber and plastics, and to make other chemicals.
+Buta-1,3-diene is a butadiene with unsaturation at positions 1 and 3. It has a role as a carcinogenic agent and a mutagen.
+Motor vehicle exhaust is a constant source of 1,3-butadiene. Although 1,3-butadiene breaks down quickly in the atmosphere, it is usually found in ambient air at low levels in urban and suburban areas. Acute (short-term) exposure to 1,3-butadiene by inhalation in humans results in irritation of the eyes, nasal passages, throat, and lungs. Epidemiological studies have reported a possible association between 1,3- butadiene exposure and cardiovascular diseases. Epidemiological studies of workers in rubber plants have shown an association between 1,3-butadiene exposure and increased incidence of leukemia. Animal studies have reported tumors at various sites from 1,3-butadiene exposure. EPA has classified 1,3- butadiene as carcinogenic to humans by inhalation.
+1,3-Butadiene has been reported in Oryza sativa with data available.
+1,3-Butadiene is a synthetic, colorless gas that is practically insoluble in water and soluble in ethanol, ether, acetone and benzene. It is used primarily as a monomer to manufacture many different types of polymers and copolymers and as a chemical intermediate in the production of industrial chemicals. When heated, 1,3-butadiene emits acrid fumes and is flammable. In the presence of air, it oxidizes to form explosive peroxides. The primary route of potential human exposure to this compound is inhalation. Acute exposure to 1,3-butadiene can cause irritation of the eyes, nasal passages and throat. At very high concentrations, inhalation of this gas can result in headache, fatigue, decreased blood pressure and pulse rate, central nervous system damage and unconsciousness. It is known to be a human carcinogen. (NCI05)
+1,3-Butadiene is a simple conjugated diene with the formula C4H6. It is an important industrial chemical used as a monomer in the production of synthetic rubber. When the word butadiene is used, most of the time it refers to 1,3-butadiene. 1,3-Butadiene is inconvenient for laboratory use because it is a flammable gas subject to polymerization on storage. 3-Butadiene cyclic sulfone (sulfolene) is a convenient solid storable source for 1,3-butadiene for many laboratory purposes when the generation of sulfur dioxide byproduct in the reaction mixture is not objectionable. Long-term exposure has been associated with cardiovascular disease, there is a consistent association with leukemia, and weaker association with other cancers. Most butadiene is polymerized to produce synthetic rubber. While polybutadiene itself is a very soft, almost liquid material, copolymers prepared from mixtures of butadiene with styrene and/or acrylonitrile, such as acrylonitrile butadiene styrene (ABS), acrylonitrile butadiene (NBR) and styrene-butadiene (SBR) are tough and elastic. SBR is the material most commonly used for the production of automobile tires. Smaller amounts of butadiene are used to make the nylon intermediate, adiponitrile, by the addition of a molecule of hydrogen cyanide to each of the double bonds in a process called hydrocyanation developed by DuPont. Other synthetic rubber materials such as chloroprene, and the solvent sulfolane are also manufactured from butadiene. Butadiene is used in the industrial production of 4-vinylcyclohexene via a Diels Alder dimerization reaction and the vinylcyclohexene is a common impurity found in butadiene upon storage. Cyclooctadiene and cyclododecatriene are produced via nickel- or titanium-catalyzed dimerization and trimerization reactions, respectively. Butadiene is also useful in the synthesis of cycloalkanes and cycloalkenes, as it reacts with double and triple carbon-carbon bonds through the Diels-Alder reaction. The name butadiene can also refer to the isomer, 1,2-butadiene, which is a cumulated diene. However, this allene is difficult to prepare and has no industrial significance. This diene is also not expected to act as a diene in a Diels-Alder reaction due to its structure. To effect a Diels-Alder reaction only a conjugated diene will suffice.
+Properties:safety: Flammable and Compressed Gas and Health Hazard
+smiles: C=CC=C
+formula: C4H6
+chem_properties: Molecular Weight: 54.09 g/mol
+XLogP3: 2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 1
+Exact Mass: 54.0469501914 Da
+Monoisotopic Mass: 54.0469501914 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 21
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

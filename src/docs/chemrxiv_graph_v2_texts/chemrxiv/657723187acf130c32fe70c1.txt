@@ -1,0 +1,15 @@
+Description:
+Crystalline porous material providing rigid subnanometer channels ideal for ion sieving applications.
+
+Text:
+Selective barriers are essential in nature and technology for controlling the transport of 
+compounds and enabling compartmentalization. In particular, the fabrication of ion sieving 
+membranes is critical for many applications such as nanofluidics,1 flow batteries,23 
+biosensing,4 desalination,5 energy conversion,6 and others. These processes normally 
+involve separations of certain ionic species from complex mixtures, which require membranes 
+with enhanced ion selectivity.7 However, since ions have very similar sizes in the sub
+nanometer (subnm) range, achieving an efficient ion sieving performance remains a great 
+challenge. Crystalline porous materials such as graphenegraphene oxide (GO),8 
+metalcovalent organic frameworks (MOFCOF),910 and porous organic cages (POCs)11 
+provide rigid subnm channels, making them in principle ideal for such applications. However, 
+these membranes are burdensome to prepare, difficult to scaleup, and expensive.

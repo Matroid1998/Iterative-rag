@@ -1,0 +1,29 @@
+Description:
+Isoelectronic with two carbon atoms and exists in four polymorphic modifications: two graphitelike (hexagonal and rhombohedral) and two dense (cubic and wurtzite).
+
+Text:
+An enormous number of polytype crystal structures are known for silicon carbide, SiC, with the 
+most well known being cfc 6H (P63mc) moissanite. The cfc topology is also adopted by 
+hexagonal carbon allotrope C8, called 4C carbon 4, which is used here to create new BN and 
+BC2N structures. BN is isoelectronic with two carbon atoms BN(8e)  2C(8e) (e  electron) and is known to exist in 
+four polymorphic modifications two graphitelike, hexagonal (P63mm) (hBN) and rhombohedral 
+(R3m) (rBN), and two dense, cubic (F43m) (cBN) and wurtzite (P63mc) (wBN), which are close 
+analogs of the main carbon allotropes (hexagonal and rhombohedral graphite, diamond and 
+lonsdaleite). BN it is also isoelectronic with SiC BN(8e)  SiC(8e). The eight electrons belong to 
+the outer shells, i.e.
+
+
+---
+
+Description:
+Includes hexagonal and rhombohedral polytypes with distinct layer stacking sequences.
+
+Text:
+2s2, 2pn for the second period elements B, C, N (n  1, 2 and 3, respectively) 
+and 3s2, 3p2 for the third period element Si. It should be noted that for boron nitride mainly sp2bonded polytypes are known, which are 
+characterized by different layer stacking sequences (e.g. AAAA for hexagonal BN, ABCABC for 
+rhombohedral BN, etc.) 5. In our work results on new hexagonal sp3bonded BN polytypes and 
+BC2N with cfc topology are presented. The studies of the structures of the new phases based on 
+crystallochemical engineering are supported by data on their stability, mechanical and dynamic 
+properties, and structure of electronic bands, all calculated in the quantum mechanics framework of 
+the Density Functional Theory (DFT) 6,7.

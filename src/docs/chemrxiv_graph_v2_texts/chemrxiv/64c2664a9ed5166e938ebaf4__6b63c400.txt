@@ -1,0 +1,14 @@
+Description:
+A component of sodium-ion batteries, which are a promising alternative to lithium-ion batteries due to their use of more abundant resources.
+
+Text:
+Sodiumion batteries (SIBs) are a promising alternative to stateoftheart lithiumion 
+batteries (LIBs). They are particularly beneficial as lowcost alternatives using more 
+abundant resources that can be obtained from less critical economic, social and 
+environmental sources15. The energy density of SIBs can be significantly higher than 
+leadacid or nickel metal hydride batteries, while being close or even onpar with some 
+LIB cell chemistries2. Moreover, SIBs can be assembled using LIB production lines, 
+which means that the manufacturing processes are already accessible at industrial scale 
+6. To reach a competitive level, however, progress in materials development and cycle 
+life are still the most urging SIB research topics. An important strategy to improve the performance of batteries is to understand gas 
+formation during cell cycling.

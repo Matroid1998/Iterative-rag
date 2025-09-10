@@ -1,0 +1,27 @@
+Name: Pyrazole
+Text:
+1H-pyrazole is the 1H-tautomer of pyrazole. It is a conjugate base of a pyrazolium. It is a conjugate acid of a pyrazol-1-ide. It is a tautomer of a 3H-pyrazole and a 4H-pyrazole.
+Pyrazole has been reported in Glycyrrhiza glabra with data available.
+Pyrazole is a heterocyclic organic compound characterized by a ring structure composed of three carbon atoms and two nitrogen atoms in adjacent positions, with the molecular formula C3H4N2.
+Properties:safety: Corrosive and Acute Toxic and Irritant and Health Hazard
+smiles: C1=CNN=C1
+formula: C3H4N2
+chem_properties: Molecular Weight: 68.08 g/mol
+XLogP3: 0.3
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 68.037448136 Da
+Monoisotopic Mass: 68.037448136 Da
+Topological Polar Surface Area: 28.7
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 28.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

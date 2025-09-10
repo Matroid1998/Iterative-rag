@@ -1,0 +1,14 @@
+Description:
+Leading materials in photovoltaic technologies due to their simple solution processibility and excellent optoelectronic functionality.
+
+Text:
+Halide perovskites (HPs) are now leading materials pioneering photovoltaic (PV) 
+technologies, owing to their simple solution processibility and excellent optoelectronic 
+functionality. Among them, inorganic Csbased HPs, where volatile methylammonium 
+is excluded, are anticipated to be advantageous to thermal stability. Also, it offers a 
+relatively wide bandgap of 1.71.8 eV that is desired for front cell in tandem PV 
+applications14, while excluding substantial bromine incorporation that compromises 
+bandgap stability via halide segregation5, 6. However, thermodynamically, the 
+synthesis of photoactive CsPbI3 phase requires high temperatures over 325 oC7, 8. Such high temperature is incompatible with the organicbased holetransport materials 
+(HTMs), thereby realizing pin type PVs  chemically more stable and a conventional 
+architecture for tandem PV application  difficult.

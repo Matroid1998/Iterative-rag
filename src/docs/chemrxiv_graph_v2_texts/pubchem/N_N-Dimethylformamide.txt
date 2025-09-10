@@ -1,0 +1,32 @@
+Name: N,N-Dimethylformamide
+Text:
+N,N-Dimethylformamide can cause cancer according to California Labor Code and the World Health Organization's International Agency for Research on Cancer (IARC).
+N,n-dimethylformamide appears as a water-white liquid with a faint fishy odor. Flash point 136 °F. Slightly less dense than water. Vapors heavier than air. Toxic by inhalation or skin absorption. May irritate eyes.
+N,N-dimethylformamide is a member of the class of formamides that is formamide in which the amino hydrogens are replaced by methyl groups. It has a role as a polar aprotic solvent, a hepatotoxic agent and a geroprotector. It is a volatile organic compound and a member of formamides. It is functionally related to a formamide.
+Dimethylformamide is used as an industrial solvent and in the production of fibers, films, and surface coatings. Acute (short-term) exposure to dimethylformamide has been observed to damage the liver in animals and in humans. Symptoms of acute exposure in humans include abdominal pain, nausea, vomiting, jaundice, alcohol intolerance, and rashes. Chronic (long-term) occupational exposure to dimethylformamide by inhalation has resulted in effects on the liver and digestive disturbances in workers. Human studies suggested a possible association between dimethylformamide exposure and testicular cancer, but further studies failed to confirm this relationship. EPA has not classified dimethylformamide with respect to its carcinogenicity.
+N,N-Dimethylformamide has been reported in Nicotiana tabacum and Cystoseira barbata with data available.
+N,N-Dimethylformamide (DMF) is a clear liquid that has been widely used in industries as a solvent, an additive, or an intermediate because of its extensive miscibility with water and most common organic solvents. Its health effects include hepatotoxicity and male reproductoxicity, possibly linked with mitochondrial DNA (mtDNA) alterations including mtDNA common deletion (delta-mtDNA4977) and mtDNA copy number; during the biotransformation of DMF in the body, free radicals are formed, including hydroxyl radicals. The world-wide consumption of DMF in 2001 was approximately 285,000 metric tonnes and most of that was used as an industrial solvent. Overexposure to DMF could result in hepatotoxicity, alcohol intolerance, possible embryotoxicity and teratogenicity in humans and animals, and decline of human sperm motility. Based on its wide application and a wide range of toxic effects, DMF has been selected as one of the four priority compounds for human field studies by the National Toxicology Program (NTP) of the US National Institute of Environmental Health Sciences (NIEHS). The current permissible exposure limit for DMF in the working environment is 10 ppm in both USA and Taiwan. The concentrations of two major DMF metabolites in urine, N-methylformamide (U-NMF) of 15 mg/L and N-acetyl-S-(N-methylcarbamoyl) cysteine (U-AMCC) of 40 mg/L, were recommended as the biological exposure indices (BEIs) by the American Conference of Governmental Industrial Hygienists for DMF exposure in workplace. (A7735).
+N,N-dimethylformamide is a metabolite found in or produced by Saccharomyces cerevisiae.
+A formamide in which the amino hydrogens are replaced by methyl groups.
+Properties:safety: Irritant and Health Hazard
+smiles: CN(C)C=O
+formula: C3H7NO
+chem_properties: Molecular Weight: 73.09 g/mol
+XLogP3: -1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 73.052763847 Da
+Monoisotopic Mass: 73.052763847 Da
+Topological Polar Surface Area: 20.3
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 33.9
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

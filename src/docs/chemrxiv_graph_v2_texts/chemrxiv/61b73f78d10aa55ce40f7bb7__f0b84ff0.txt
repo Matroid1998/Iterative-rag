@@ -1,0 +1,13 @@
+Description:
+Substituted compounds used in pentacyano (L) ferrates (II) complexes.
+
+Text:
+It was found that there was a linear correlation between the halfwave oxidation potentials E12 
+of the pentacyano (L) ferrates (II) complexes, where L refers to various substituted pyrazoles 
+and indazoles, and pKaH of pyrazolium and indazolium cations respectively 1. In the present 
+article the pKaH data of pyrazolium and indazolium cations is used to make Taft and Hammett 
+plots and using the Taft  and Hammett  values the ReactivitySelectivity Principle is 
+explained in a simple and lucid way. Methods 
+All correlations were done using KaleidaGraph software, Reading, PA, USA. All the chemical 
+structures were drawn using chemdraw. The pKaH data is from reference 1. Reaction constants 
+(Hammett  and Taft ) are to be understood as positive values.

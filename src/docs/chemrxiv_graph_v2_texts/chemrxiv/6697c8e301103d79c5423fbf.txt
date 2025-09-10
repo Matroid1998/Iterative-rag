@@ -1,0 +1,17 @@
+Description:
+A fundamental element involved in metabolic pathways and redirected to desired products in plants.
+
+Text:
+License CC BY 4.0
+
+for the design and implementation of novel metabolic pathways, while precise gene 
+editing tools like CRISPRCas9 enable targeted modifications of existing pathways with 
+minimal unintended effects4. These advancements have the potential to revolutionize 
+agriculture, creating crops that are not only more productive but also more nutritious and 
+better adapted to changing environmental conditions. Researchers can now finetune 
+metabolic fluxes, redirect carbon flow to desired products, and even introduce entirely 
+new biosynthetic capabilities into plants5. This level of control over plant metabolism 
+was unimaginable just a few decades ago and holds immense promise for addressing 
+agricultural challenges. For instance, engineering efforts have successfully increased the 
+vitamin content of staple crops, improved drought tolerance in cereals, and enabled plants 
+to produce valuable pharmaceutical compounds6.

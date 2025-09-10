@@ -1,0 +1,25 @@
+Name: Lithium nitride
+Text:
+Lithium nitride appears as a reddish brown powder. Insoluble in most organic solvents. Used in metallurgy and chemical synthesis.
+Lithium nitride is a lithium salt and a nitride.
+Properties:safety: Flammable and Corrosive
+smiles: [Li+].[Li+].[Li+].[NH2-]
+formula: H2Li3N+2
+chem_properties: Molecular Weight: 36.9 g/mol
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 37.0667344 Da
+Monoisotopic Mass: 37.0667344 Da
+Topological Polar Surface Area: 1
+Heavy Atom Count: 4
+Formal Charge: 2
+Complexity: 3.2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 4
+Compound Is Canonicalized: Yes 
+

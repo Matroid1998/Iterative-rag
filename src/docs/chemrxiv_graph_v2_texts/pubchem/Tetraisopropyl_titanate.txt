@@ -1,0 +1,25 @@
+Name: Tetraisopropyl titanate
+Text:
+Tetraisopropyl titanate appears as a water-white to pale-yellow liquid with an odor like isopropyl alcohol. About the same density as water. Vapors heavier than air.
+Titanium(IV) isopropoxide is a titanium coordination entity consisting of a titanium(IV) cation with four propan-2-olate anions as counterions.
+Properties:safety: Flammable and Corrosive and Irritant
+smiles: CC(C)[O-].CC(C)[O-].CC(C)[O-].CC(C)[O-].[Ti+4]
+formula: C12H28O4Ti
+chem_properties: Molecular Weight: 284.22 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 284.1467000 Da
+Monoisotopic Mass: 284.1467000 Da
+Topological Polar Surface Area: 92.2
+Heavy Atom Count: 17
+Formal Charge: 0
+Complexity: 10.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 5
+Compound Is Canonicalized: Yes 
+

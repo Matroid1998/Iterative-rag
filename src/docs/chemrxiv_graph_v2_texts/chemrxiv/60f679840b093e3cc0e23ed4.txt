@@ -1,0 +1,13 @@
+Description:
+A polymer film that can absorb almost 100% of incident thermal radiation at its primary molecular absorption band.
+
+Text:
+In
+contrast to such relatively broadband coolingdirected applications, chemical sensors require narrowband radiation tuned to a
+particular molecular vibrational mode to enable high selectivity and sensitivity detection. Sensors at the telecommunication
+spectral window at nearIR7 are especially appealing due to capabilities to integrate them into CMOS (complementary metal
+oxidesemiconductor) platform. Hence, development of a thermal radiation emitter with spectral behaviour controlled more
+rigorously than lamp sources, and more affordable and ambient temperature compatible than quantum cascade lasers, is in
+considerable demand8. It is expected that thermal radiation from a thick polymer lm could be used for narrowband thermal emission purposes. It is
+straightforward to experimentally show that a 3 m thick polyimide lm can absorb almost 100 of incident thermal radiation
+at its primary molecular absorption band.

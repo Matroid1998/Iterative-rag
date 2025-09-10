@@ -1,0 +1,63 @@
+Description:
+A compelling low-carbon fuel for the heavy transportation sector due to its high volumetric energy density and facile liquefaction.
+
+Text:
+Owing to its high volumetric energy density and facile liquefaction at moderate 
+temperature and pressure conditions,1 renewablygenerated ammonia is a compelling lowcarbon 
+fuel for the heavy transportation sector.2 
+Fully electrochemical processes for ammonia generation, consuming only nitrogen, water, 
+and renewable electricity, have received a great deal of recent interest in academic research, as 
+they can operate at nearambient conditions and respond dynamically to power supply 
+intermittencies.3,4 Despite labscale reports of fully electrochemical ammonia generation processes 
+of all stripes, including high temperature electrochemical processes,57 ambientcondition 
+processes using aqueous8,9 and nonaqueous electrolytes,1013 batch semielectrochemical 
+processes,14,15 as well as plasmabased processes,16,17 these approaches are nearly universally 
+assessed to lack the efficiency and robustness required to produce ammonia economically at scale 
+in their present form.
+
+
+---
+
+Description:
+Synthesized in a fully electrochemical reactor with partial currents exceeding 400 mA cm2 and energy efficiencies exceeding 30.
+
+Text:
+In this work, we carry out a holistic technoeconomic analysis (TEA) of the 
+costoptimal design and operation of a fully electrochemical ammonia generation process that 
+relies on intermittent renewable energy sources, setting out to identify key productivity metrics 
+that are necessary for economic viability. Specifically, we find that a fully electrochemical reactor 
+capable of synthesizing ammonia at partial currents exceeding 400 mA cm2 and energy 
+efficiencies exceeding 30 can operate costcompetitively, i.e. at costs of 1 kg NH3, with 
+processes using renewable electricitybasedhydrogen coupled with the traditional HaberBosch 
+process.
+
+
+---
+
+Description:
+Synthesized by reacting nitrogen and hydrogen at high temperature and pressure in large, centralized plants.
+
+Text:
+Processes which utilize watersplitting derived hydrogen and traditional HaberBosch 
+reactors report ammonia costs of 0.81.2 kg NH3,1821 though there are reports of ammonia costs 
+in the 0.40.6 kg NH3 as well.22 However, there are several drawbacks to these processes that 
+could make a fully electrical ammonia production approach attractive. HaberBosch ammonia is synthesized by reacting nitrogen and hydrogen at high 
+temperature and pressure in large, centralized plants.4 Typically, the hydrogen is derived from 
+fossil fuels such as coal or natural gas, most commonly via the steam reforming process.
+
+
+---
+
+Description:
+Produced using the Haber-Bosch process, contributing to approximately 1.5% of worldwide CO2 emissions.
+
+Text:
+Utilizing 
+fossil fuels for hydrogen production as well as thermal energy results in significant carbon dioxide 
+emissions, ranging from a theoretical minimum of 1.8 tons CO2 per ton NH3 for natural gas23, to 
+around 3.9 tons CO2 per ton NH3 for coal;21,24 the global average CO2 emissions are approximately 
+2.9 tons CO2 per ton NH3.23 As a result of tremendous worldwide demand driven primarily by the 
+fertilizer and chemicals industry, HaberBosch ammonia produced from fossilfuel derived 
+hydrogen accounts for approximately 1.5 of worldwide CO2 emissions.23 If transportation fuels 
+are to comprise another source of demand for ammonia, it is critical to mitigate the carbon footprint 
+associated with current methods of ammonia production.

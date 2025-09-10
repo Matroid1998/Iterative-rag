@@ -1,0 +1,23 @@
+Name: Lead titanate zirconate
+Text:
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: [O-2].[O-2].[O-2].[O-2].[O-2].[Ti+4].[Zr+4].[Pb+2]
+formula: O5PbTiZr
+chem_properties: Molecular Weight: 426 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 0
+Exact Mass: 425.80386 Da
+Monoisotopic Mass: 425.80386 Da
+Topological Polar Surface Area: 5
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 8
+Compound Is Canonicalized: Yes 
+

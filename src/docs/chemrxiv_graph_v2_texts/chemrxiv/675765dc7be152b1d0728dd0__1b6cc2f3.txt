@@ -1,0 +1,11 @@
+Description:
+A neurotransmitter that includes dopamine and signals by binding to dopamine receptors.
+
+Text:
+The catecholamine neurotransmitter dopamine (DA) signals by binding and activating dopamine 
+receptors (DRs), a family of G proteincoupled receptors (GPCRs). DRs are subcategorized on the 
+basis of signaling and sequence homology into the excitatory D1like receptors, which includes 
+dopamine D1 and D5 receptors (D1R, D5R), and the inhibitory D2like receptors, which includes 
+dopamine D2, D3, and D4 receptors (D2R, D3R, and D4R).1 All D2like receptors share a similar 
+signaling mechanism, coupling to the Gio G proteins and recruiting arrestin.2 They also share 
+substantial amino acid sequence homology in their orthosteric binding sites.

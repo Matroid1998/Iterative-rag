@@ -1,0 +1,30 @@
+Name: Pyridine
+Text:
+Pyridine is a colorless liquid with an unpleasant smell. It can be made from crude coal tar or from other chemicals. Pyridine is used to dissolve other substances. It is also used to make many different products such as medicines, vitamins, food flavorings, paints, dyes, rubber products, adhesives, insecticides, and herbicides. Pyridine can also be formed from the breakdown of many natural materials in the environment.
+Pyridine can cause cancer according to The National Toxicology Program.
+Pyridine appears as a clear colorless to light yellow liquid with a penetrating nauseating odor. Vapors are heavier than air. Toxic by ingestion and inhalation. Combustion produces toxic oxides of nitrogen.
+Pyridine is an azaarene comprising a benzene core in which one -CH group is replaced by a nitrogen atom. It is the parent compound of the class pyridines. It has a role as an environmental contaminant and a NMR chemical shift reference compound. It is a mancude organic heteromonocyclic parent, a monocyclic heteroarene, an azaarene and a member of pyridines.
+Pyridine has been reported in Camellia sinensis, Basella alba, and other organisms with data available.
+See also: Laboratory-grade xylene (impurity of).
+Properties:safety: Flammable and Irritant
+smiles: C1=CC=NC=C1
+formula: C5H5N
+chem_properties: Molecular Weight: 79.10 g/mol
+XLogP3: 0.7
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 79.042199164 Da
+Monoisotopic Mass: 79.042199164 Da
+Topological Polar Surface Area: 12.9
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 30.9
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

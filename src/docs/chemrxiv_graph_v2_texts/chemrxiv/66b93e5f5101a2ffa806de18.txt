@@ -1,0 +1,13 @@
+Description:
+Involved in microstructure growth at the electrodes.
+
+Text:
+In particular, operando cells and methods have been developed to 
+probe gas reactions1315, interfacial phenomena1618, and structural and redox processes within the bulk of 
+the electrodes9,12,19, sometimes concurrently. Among these techniques, electron paramagnetic resonance 
+(EPR) and magnetometry stand out as noninvasive tools that allow one to follow charge storage 
+processes2025, and degradation mechanisms including transition metal dissolution26,27 and Li microstructure 
+growth at the electrodes2,28,29, and radical generation in the electrolyte30,31. EPR is a magnetic resonance technique that probes unpaired electron spin transitions in paramagnetic, 
+radicalcontaining, or metallic substances using low energy microwave radiation. When placed in a 
+magnetic field, electron spin microstates split via the Zeeman effect. The resonance condition is given by 
+ !, where  is the gfactor,  is the applied magnetic field, and ! the Bohr magneton.

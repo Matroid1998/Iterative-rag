@@ -1,0 +1,13 @@
+Description:
+A component of CO2, which remains a net emitter in most process designs.
+
+Text:
+Yet, such post
+combustion capture plants will remove only 8595 of CO2 from the flue gas, with the 
+higher end of that range considered the bestavailable technology 6 and 90 adopted 
+as standard regardless of the technology type 7. Notably, an increase in the design CO2 
+capture rate for the solventbased chemical scrubbing technology from 90 to 95 
+would increase the levelized cost of electricity (LCOE) by 3. A further increase to 99 
+was shown to increase the LCOE by up to 7.4. Consequently, most process designs 
+will consider 90 as the target CO2 capture level; thus, the entire process will remain a 
+net carbon emitter.

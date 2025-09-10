@@ -1,0 +1,14 @@
+Description:
+A small molecule involved in activation processes for production.
+
+Text:
+While virtual highthroughput screening (VHTS) with density functional theory (DFT) and 
+machine learning (ML) has greatly accelerated the in silico design of molecules1216 and 
+materials,1621 discovery of molecular catalysts remains an open area of research,11,22,23 including 
+for smallmolecule activation, such as in the production of hydrogen,2426 ammonia,2730 and 
+methanol.3133 Researchers have carried out extensive computational investigations into ligand 
+effects on catalytic TMCs in various reactions.3440 Indeed, both computational4143 and 
+experimental4446 studies aim to build libraries of ligands10,47 and understand how they influence 
+the properties of derived TMCs.4850 While a number of automated methods exist for ligand 
+design,43,5155 and ML can help target design objectives for the derived TMCs,5457 it is still 
+intractable to perform explicit calculations for the entirety of the TMC design space.

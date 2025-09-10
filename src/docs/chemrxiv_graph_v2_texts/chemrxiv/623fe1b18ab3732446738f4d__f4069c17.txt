@@ -1,0 +1,13 @@
+Description:
+Used in proton exchange membrane fuel cells as a promising technology for green energy.
+
+Text:
+The consumption of nonrenewable fossil fuels has caused severe environmental damage. Correspondingly, the need for alternative green energy sources is more urgent than ever before. 1,2 In this regard, proton exchange membrane fuel cell (PEMFC) based on hydrogen and 
+methanol are very promising technologies.36 By harnessing the controlled conversion of 
+hydrogen into electrical energy, such fuel cells generate power while producing 
+environmentally benign water as by product.7,8 The proton conductivity of proton exchange 
+membrane (PEM) is one of the parameter contributing to the overall efficiency of a PEMFC.9,10 
+The research on materials suitable for use as PEMs is therefore a dynamic field aiming to make 
+PEMFC technologies a reality.11,12 
+Materials being used as PEMs must exhibit high proton conductivity at working 
+conditions of the targeted PEMFC.

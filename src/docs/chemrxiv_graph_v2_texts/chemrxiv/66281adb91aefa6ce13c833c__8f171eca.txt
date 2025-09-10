@@ -1,0 +1,15 @@
+Description:
+Employed as an anode material suitable for lithium and sodium ion storage via electrochemical intercalation and conversion reactions.
+
+Text:
+In the field of electrochemical energy storage, MoS2 has been employed as an anode material 
+suitable for lithium and sodium ion storage, with the possibility to store charge via 
+electrochemical intercalation andor conversion reactions, depending on the utilized voltage 
+window912. When used as an intercalation host, it was found that kinetically favorable 
+intercalation properties are obtained when MoS2 crystallite size is reduced13. For such 
+nanosized MoS2, Cook et al. report the emergence of solidsolution intercalation with 
+pseudocapacitive properties, that is, Faradaic charge storage with a capacitorlike signature 
+over a wide voltage range in absence of kinetic diffusion limitations13, 14. It was also found 
+that the introduction of crystal defects, as well as the increase of the MoS2 dspacing via 
+hexanediamine pillars amplifies the pseudocapacitive electrochemical lithiation response15, 
+16.

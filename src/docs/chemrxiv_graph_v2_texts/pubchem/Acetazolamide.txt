@@ -1,0 +1,33 @@
+Name: Acetazolamide
+Text:
+Acetazolamide can cause developmental toxicity according to state or federal government labeling requirements.
+Acetazolamide appears as white to yellowish-white fine crystalline powder. No odor or taste. (NTP, 1992)
+Acetazolamide is a sulfonamide, a member of thiadiazoles and a monocarboxylic acid amide. It has a role as a diuretic, an anticonvulsant and an EC 4.2.1.1 (carbonic anhydrase) inhibitor. It is a conjugate acid of an acetazolamide(1-). It derives from a hydride of a 1,3,4-thiadiazole.
+One of the carbonic anhydrase inhibitors that is sometimes effective against absence seizures. It is sometimes useful also as an adjunct in the treatment of tonic-clonic, myoclonic, and atonic seizures, particularly in women whose seizures occur or are exacerbated at specific times in the menstrual cycle. However, its usefulness is transient often because of rapid development of tolerance. Its antiepileptic effect may be due to its inhibitory effect on brain carbonic anhydrase, which leads to an increased transneuronal chloride gradient, increased chloride current, and increased inhibition. (From Smith and Reynard, Textbook of Pharmacology, 1991, p337)
+Acetazolamide is a Carbonic Anhydrase Inhibitor. The mechanism of action of acetazolamide is as a Carbonic Anhydrase Inhibitor.
+Acetazolamide is a sulfonamide derivative with diuretic, antiglaucoma, and anticonvulsant properties. Acetazolamide is a non-competitive inhibitor of carbonic anhydrase, an enzyme found in cells in the proximal tube of the kidney, the eye, and glial cells. Inhibition of this enzyme in the kidney prevents excretion of hydrogen, leading to increased bicarbonate and cation excretion and increased urinary volume, which results in an alkaline diuresis. Acetazolamide reduces the concentration of bicarbonate, resulting in a decreased synthesis of aqueous humor in the eye, thereby lowering intraocular pressure. Although its mechanism of action is unknown, acetazolamide has anti-convulsant properties resulting from indirect effects secondary to metabolic acidosis or direct effects on neuronal transmission. Acetazolamide also produces respiratory stimulant effects in response to changes to both carbon dioxide and oxygen tension levels within the lungs.
+ACETAZOLAMIDE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1953 and has 8 approved and 22 investigational indications. This drug has a black box warning from the FDA.
+One of the CARBONIC ANHYDRASE INHIBITORS that is sometimes effective against absence seizures. It is sometimes useful also as an adjunct in the treatment of tonic-clonic, myoclonic, and atonic seizures, particularly in women whose seizures occur or are exacerbated at specific times in the menstrual cycle. However, its usefulness is transient often because of rapid development of tolerance. Its antiepileptic effect may be due to its inhibitory effect on brain carbonic anhydrase, which leads to an increased transneuronal chloride gradient, increased chloride current, and increased inhibition. (From Smith and Reynard, Textbook of Pharmacology, 1991, p337)
+See also: Acetazolamide Sodium (has salt form); Acetazolamide disodium (is active moiety of).
+Properties:safety: Irritant and Health Hazard
+smiles: CC(=O)NC1=NN=C(S1)S(=O)(=O)N
+formula: C4H6N4O3S2
+chem_properties: Molecular Weight: 222.3 g/mol
+XLogP3: -0.3
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 2
+Exact Mass: 221.98813241 Da
+Monoisotopic Mass: 221.98813241 Da
+Topological Polar Surface Area: 152
+Heavy Atom Count: 13
+Formal Charge: 0
+Complexity: 297
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

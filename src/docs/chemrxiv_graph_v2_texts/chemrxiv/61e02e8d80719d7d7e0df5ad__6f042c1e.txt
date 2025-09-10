@@ -1,0 +1,28 @@
+Description:
+A costly electrocatalyst material required in large amounts for proton exchange membrane fuel cells (PEMFCs).
+
+Text:
+Electrification of the transport sector and the transition towards renewable energy 
+solutions is crucial in the race towards cutting the greenhouse gas emissions. While battery 
+electric vehicles are already leading the way, an important part of the electrification puzzle will 
+be fuel cell electric vehicles 1. One of the main barriers preventing mass adoption of proton 
+exchange membrane fuel cell (PEMFC) technology remains the highcost of the electrocatalyst 
+material 2. Due to the inherently sluggish oxygen reduction reaction (ORR), a large amount of 
+platinum (Pt) is required, which would represent over 50 of the total membrane electrode 
+assembly (MEA) manufacturing costs 3 making it also the highest cost contributor to the entire 
+stack 4.
+
+
+---
+
+Description:
+A critical raw material with high activity, high electrochemically active surface area, and high durability, but limited in supply and expensive.
+
+Text:
+In addition, Pt is a low earth abundancy, expensive critical raw material, which is 
+limited in supply. In order to achieve significant cost reductions the amount of Pt in the cathode 
+electrocatalyst must be reduced. High activity, high electrochemically active surface area 
+(ECSA) as well as high durability are all necessary for achieving significant improvements 5,6. While completely eliminating platinum group metals (PGMs) by the use of PGMfree 
+electrocatalysts 7 might seem a rational approach to reduce the costs, achieving sufficient power 
+densities as well as durability of PGMfree electrocatalysts remain a major challenge with 
+currently no clear solution in sight 6,810.

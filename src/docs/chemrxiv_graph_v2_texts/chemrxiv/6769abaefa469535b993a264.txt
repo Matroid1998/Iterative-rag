@@ -1,0 +1,23 @@
+Description:
+A redox-active material used in alkaline redox flow batteries with record capacity retention rates.
+
+Text:
+An aqueous organic redox flow battery (AORFB) is a type of redox flow battery that utilises 
+organic redoxactive material, dissolved in an aqueous electrolyte.16 The battery is comprised of 
+two liquid electrolytes, the anolyte and the catholyte, also known as the negolyte and posolyte, 
+respectively.79 These electrolytes are stored externally in reservoirs and are pumped into an 
+electrochemical cell to be charged, and later discharged.5,8,9 The anolyte and catholyte are 
+separated by an ionselective membrane, which is designed to conduct chargebalancing ions, 
+whilst preventing the mixing of the redoxactive material.7,1013 As the energy is stored in solution, 
+rather than in the electrode, the capacity of these devices is easily scaled to meet the requirements 
+of gridlevel storage.9,14,15 
+Redox flow batteries can be composed from a variety of redoxactive materials.7,8,13 AORFBs 
+are of particular interest because they can be made from lowcost, Earthabundant and nontoxic 
+materials.14,16,17 Alkaline anthraquinoneferrocyanide batteries are a prime example of AORFB, 
+which hold record capacity retention rates within the field.1,2,1720 These batteries are now in the 
+process of being commercialized, though they currently exist on a small scale.14,17,18,20 Two of the 
+main processes limiting the economic viability of anthraquinoneferrocyanide batteries are 
+electrolyte degradation and crossover (i.e., unwanted transport of redoxactive material through 
+the membrane).11,2127 Both the battery materials and charging protocols need to be carefully 
+designed to minimize these degradation processes and improve battery lifetime.12,23,24,2729 
+httpsdoi.org10.26434chemrxiv2024w770q ORCID httpsorcid.org0000000153911623 Content not peerreviewed by ChemRxiv.

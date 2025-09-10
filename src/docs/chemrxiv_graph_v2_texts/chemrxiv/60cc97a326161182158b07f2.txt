@@ -1,0 +1,38 @@
+Description:
+Produced reversibly by hydrogenases using Fe or NiFe active sites.
+
+Text:
+Enzymatic electrochemistry has rapidly expanded into research fields that encompass 
+applications across disciplines from fundamental understanding of enzymology to biosensors, 
+biofuel cells and semiartificial photosynthesis.1,2 Hydrogenases (H2ases) combine protons 
+and electrons to reversibly produce H2 at the thermodynamic potential using Fe or NiFe active 
+sites and have therefore been extensively studied as a model system for reversible 
+electrocatalysis.3,4 Formate dehydrogenases (FDH) have similarly garnered attention due to 
+their ability to reversibly reduce CO2 to formate, with high selectivity when immobilised on an 
+electrode.58 Bioelectrochemistry on thinfilm electrodes has long provided mechanistic and 
+analytical insight into enzyme function, as well as establishing bioelectrolysis as a potential 
+method of product synthesis.1,3,9 Porous electrodes enable higher enzyme loading, and hence 
+higher current densities, improving the overall performance by increasing the consumption or 
+production of desired chemicals.1015 
+Solution assays provide insight into the influence of bulk pH and ionic strength on enzyme 
+activity and the conclusions have informed the choice of electrolyte in electrochemical 
+studies.16,17 However, the high current densities achievable using the latest generation of high 
+surface area electrode scaffolds, usually used as stationary electrodes, presents a 
+significantly different local chemical environment during turnover to that of bulk solution 
+assays.
+
+
+---
+
+Description:
+Involved in the enzymatic H2 evolution reaction (HER).
+
+Text:
+With enzymes operating at a high rate of catalysis, for example D. vulgaris 
+Hildenborough (DvH) NiFeSeH2ase has a turnover frequency (TOF) of 8300 s1 for H2 
+evolution,18 the local proton concentration is likely to change significantly if the enzyme is 
+placed in a porous environment. Therefore, consideration of local concentration gradients, as 
+opposed to the bulk electrolyte solution, appears to be critical to understand and optimise 
+enzymatic activity in such porous electrodes. The precise conditions of the local chemical environment are decisive for enzyme activity and 
+the local environment must therefore be tailored to the nature of the immobilised enzyme for 
+optimal catalysis. Both the enzymatic H2 evolution reaction (HER) (eq. 1) and formate

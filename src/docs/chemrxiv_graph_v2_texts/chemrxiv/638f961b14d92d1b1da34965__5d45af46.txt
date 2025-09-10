@@ -1,0 +1,12 @@
+Description:
+A polymer used in pioneering studies on polymer electrolytes when complexed with alkali metal salts.
+
+Text:
+For example, most of the pioneering studies on polymer electrolytes are based on polyethy
+lene oxide (PEO) complexed with alkali metal salts.6,7 Ionic liquids have been either mixed
+into neutral polymer bases or polymerized into poly(ionic liquid)s (PILs) for engineering
+various electrochemical devices.8,9 Ionic polymer metal composites (IPMC) consisting of a
+polyelectrolyte membrane placed in between two noble metal electrodes have been studied
+to enable large actuation under an applied electric field.10 Continued effort has been made
+to both develop novel ionically conductive polymers and understand fundamental ion con
+ducting mechanisms to enable rational design based on application functional requirements.

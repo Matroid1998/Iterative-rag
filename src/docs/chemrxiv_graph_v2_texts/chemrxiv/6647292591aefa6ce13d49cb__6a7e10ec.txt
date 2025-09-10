@@ -1,0 +1,9 @@
+Description:
+Serves as a reference material in Raman spectra comparisons with graphene and graphene oxide.
+
+Text:
+Recently, we considered how the Raman spectra of graphene and graphene oxide appear when compared to graphite. In the review we mentioned the BreitWignerFano (BWF) line shape, that Ferrari and Robertson, 2000, told suitable 
+to represent the G band of carbonaceous materials. BWF is a modified Lorentzian function used to consider 
+asymmetry and Fano resonance (see please Miroshnichenko et al, 2010, about Fano theory and model). For instance, 
+Hasdeo et al., 2014, used the BreitWignerFano line shapes in Raman spectra of graphene, because of the 
+interference effect between the phonon spectra and the electronhole pair excitation spectra (Hasdeo et al., 2014). Let us stress that asymmetry can be obtained also by using a splitLorentzian function for instance.

@@ -1,0 +1,24 @@
+Description:
+An amphiphilic probe and pharmacophore.
+
+Text:
+35 
+To function within a membrane or cell, small molecules need to be actively or passively 
+36 
+transported into or across biological membranes. The physicochemical properties allowing for 
+37 
+both membrane permeability and aqueous solubility are thought to be tightly confined.13 Strikingly, 
+38 
+nature and medicinal chemistry vary in their approaches for the synthetic design of highly bioactive 
+39 
+molecules (Figure 1). With a few notable exceptions of amphiphilic probes and pharmacophores, 
+40 
+including fingolimod (FTY720),4 eliglustat,5 palmostatin B,6 salmeterol,7 and orlistat,8 synthetic 
+41 
+small molecule probes and pharmacophores rarely exhibit lipid tails. Natural products, on the other 
+42 
+hand commonly exhibit lipid functionalizations that finetune their pharmacokinetic andor 
+43 
+pharmacodynamic properties. Well known examples include bryostatin,9,10 thapsigargin11, 
+44 
+daptomycin,12 and phorbol ester13.

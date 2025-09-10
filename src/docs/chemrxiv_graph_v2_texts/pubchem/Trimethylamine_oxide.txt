@@ -1,0 +1,29 @@
+Name: Trimethylamine oxide
+Text:
+Trimethylamine N-oxide is a tertiary amine oxide resulting from the oxidation of the amino group of trimethylamine. It has a role as an osmolyte, a metabolite and an Escherichia coli metabolite. It is functionally related to a trimethylamine. It is a conjugate base of a hydroxytrimethylaminium.
+Trimethylamine N-Oxide is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Trimethylamine oxide has been reported in Vitis vinifera, Euglena gracilis, and other organisms with data available.
+TMAO is a uremic toxin, an osmolyte and an atherotoxin (causing atherosclerotic plaques). Uremic toxins can be subdivided into three major groups based upon their chemical and physical characteristics: 1) small, water-soluble, non-protein-bound compounds, such as urea; 2) small, lipid-soluble and/or protein-bound compounds, such as the phenols and 3) larger so-called middle-molecules, such as beta2-microglobulin. Chronic exposure of uremic toxins can lead to a number of conditions including renal damage, chronic kidney disease and cardiovascular disease. Trimethylamine N-oxide (TMAO) is an oxidation product of trimethylamine and a common metabolite in animals and humans. In particular, trimethylamine-N-oxide is biosynthesized endogenously from trimethylamine, which is derived from choline, which can be derived from dietary lecithin (phosphatidylcholines) or dietary carnitine. TMAO decomposes to trimethylamine (TMA), which is the main odorant that is characteristic of degrading seafood. TMAO is an osmolyte that the body will use to counteract the effects of increased concentrations of urea (due to kidney failure) and high levels can be used as a biomarker for kidney problems. Fish odor syndrome or trimethylaminuria is a defect in the production of the enzyme flavin containing monooxygenase 3 (FMO3) causing incomplete breakdown of trimethylamine from choline-containing food into trimethylamine oxide. Trimethylamine then builds up and is released in the person's sweat, urine, and breath, giving off a strong fishy odor. The concentration of TMAO in the blood increases after consuming foods containing carnitine or lecithin (phosphatidylcholines), if the bacteria that convert those substances to TMAO are present in the gut. High concentrations of carnitine are found in red meat, some energy drinks, and certain dietary supplements; lecithin is found in eggs and is commonly used as an ingredient in processed food. High levels of TMAO are found in many seafoods. Some types of normal gut bacteria (e.g. species of Acinetobacter) in the human gut convert dietary carnitine and dietary lecithin to TMAO. TMAO alters cholesterol metabolism in the intestines, in the liver and in arterial wall. When TMAO is present, cholesterol metabolism is altered and there is an increased deposition of cholesterol within, and decreased removal of cholesterol from, peripheral cells such as those in the artery wall (1, 2, 3). 
+See also: Amine oxides, C12-16-alkyldimethyl (annotation moved to).
+Properties:safety: Irritant
+smiles: C[N+](C)(C)[O-]
+formula: C3H9NO
+chem_properties: Molecular Weight: 75.11 g/mol
+XLogP3: -0.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 75.068413911 Da
+Monoisotopic Mass: 75.068413911 Da
+Topological Polar Surface Area: 18.1
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 28.4
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

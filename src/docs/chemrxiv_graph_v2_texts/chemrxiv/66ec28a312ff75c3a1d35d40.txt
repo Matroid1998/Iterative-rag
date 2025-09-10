@@ -1,0 +1,13 @@
+Description:
+Identified using 13C CP and DEPT experiments in NMR spectroscopy.
+
+Text:
+Solutionstate nuclear magnetic resonance (NMR) is one of the goto spectroscopic 
+techniques for structural determination of molecules since every spectral feature is a fingerprint 
+of a structural motif. Usually, the workflow for structural determination of small molecules using 
+this technique employs 1D 1H NMR and 1H1H COSY (Correlation Spectroscopy) to identify 
+protons based on chemical shift, multiplicity, and Jcoupling. Further, 13C CP (CrossPolarization) 
+and DEPT (Distortionless Enhancement by Polarization Transfer, specially DEPT90 and 
+DEPT135) experiments are used to identify carbon species. Finally, 1H13C HSQC (Heteronuclear 
+Single Quantum Correlation) and HMBC (Heteronuclear Multiple Quantum Correlation) are 
+acquired to assign carbon species attached to protons and the remaining carbons respectively.

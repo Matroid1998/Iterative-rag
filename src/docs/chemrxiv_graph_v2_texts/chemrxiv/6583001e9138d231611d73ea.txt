@@ -1,0 +1,16 @@
+Description:
+Nonheme iron halogenases selectively halogenate the substrate.
+
+Text:
+For example, nonheme iron 
+halogenases selectively halogenate the substrate even though they also have the potential to carry 
+out hydroxylation.42 Prior experimental studies supported with computations suggested that 
+substrate positioning43 and reactivity of the rebound intermediate44,45 could explain the observed 
+selectivity. Furthermore, computational studies have rationalized the selectivity of these enzymes 
+through various hypotheses including substrate positioning46,47 using spectroscopic indicators 
+derived from hyperfine sublevel correlation (HYSCORE) spectroscopy,4850 isomerization of 
+metaloxohydroxo intermediates,51,52 interactions with the second coordination sphere,53 frontier 
+molecular orbital energetics,54 and OH trapping either through protonation of hydroxo55 or 
+bicarbonate formation.56 A recent computational study57 further demonstrated that the selectivity 
+of halogenases depends on the nature of the substrate radical, with halogen transfer favored for 
+secondary carbon radicals and hydroxo transfer preferred for tertiary carbon radicals.

@@ -1,0 +1,94 @@
+Description:
+Used in the formation of Grignard reagents through its reaction with a halide.
+
+Text:
+Organomagnesium halides, better known as Grignard reagents, 
+are formed by the exothermic reaction of metallic magnesium 
+(usually turnings or powder) with a halide in an anhydrous, 
+etheric solvent. Grignard reagents can be used for the 
+formation of new carboncarbon bonds and are one of the most 
+important intermediates in such reactions.1 Both on a small 
+scale in a glass flask in chemical laboratories, and on a larger 
+scale in stirred vessels in the chemical industry, Grignard 
+reagents are prepared in a dosingcontrolled semi batch process 
+based on placing a certain mass of magnesium together with a 
+small amount of the halide in the solvent in the stirred vessel 
+and then slowly adding the remaining halidesolvent mixture2.
+
+
+---
+
+Description:
+Used in Grignard reagent synthesis, where a high surface area enhances mass transport.
+
+Text:
+Because of the exothermic nature of the reaction, the reaction 
+temperatures must be closely controlled to avoid a thermal 
+runaway and hazardous situations. A challenge of the synthesis 
+of Grignard reagents is the Wurtz coupling product. This 
+byproduct is formed by reaction of alreadyformed Grignard 
+reagent with the halide reactant (figure 1). The formation of this 
+byproduct decreases the yield of the Grignard reagent and the 
+purity of the product obtained. Thus, the formation of the 
+Wurtz coupling product must be avoided as much as possible. The formation of the Wurtz coupling product can be reduced by 
+various means low reaction temperatures, low halide 
+concentrations and low addition rates, as well as a high 
+magnesium surface area and therewith mass transport1.
+
+
+---
+
+Description:
+Used in plug flow reactor systems to control contact times and avoid hotspots in Grignard reactions.
+
+Text:
+Alternatively, 
+continuously operated, magnesiumfilled plug flow reactor 
+systems can be used to ideally keep contact times of the 
+alreadymade Grignard reagent and the not yet reacted halide 
+educt as short as possible. High surfacetovolume ratios, as 
+they can be realized in micro and millistructured reactors, 
+ensure beneficial heat transfer to avoid hotspots within the 
+magnesium bed which would enhance Wurtz coupling. Reaction 
+networks involving consecutive reactions, like the Grignard 
+reaction system, can be controlled by providing the required 
+processing experience to the molecules.6 Thus, controlling the 
+residence time distribution represents a meaningful strategy to 
+achieve high yields and supress undesired byproduct formation.
+
+
+---
+
+Description:
+Used in reactor cartridges filled with metal turnings to influence residence time distribution.
+
+Text:
+Despite the laminar flow conditions in smallsized channels, 
+micro and millistructured reactors frequently possess narrow 
+residence time distributions, potentially approaching plug flow 
+behaviour and the impact of this reactor technology to achieve 
+a high degree of reaction control has been reported earlier.79 
+The residence time distribution in packedbed reactors is more 
+complicated than in empty channels. In part 1 of this 
+contribution, the influence of the pumping characteristics and 
+the properties of magnesium turnings on the residence time 
+distribution in a reactor cartridge filled with metal turnings, has 
+been reported. It was found that application of an oscillating 
+flow influences the residence time distribution and axial 
+a. Fraunhofer IMM, CarlZeissStrasse 1820, 55129 MainzGermany. b. Ulm University, HelmholtzStrasse 16, 89081 UlmGermany.
+
+
+---
+
+Description:
+Reacts with halide RX to form Grignard reagent RMgX.
+
+Text:
+Corresponding authors 
+Gabriele MengesFlanagan, gabriele.mengesflanaganimm.fraunhofer.de 
+Dirk Ziegenbalg, dirk.ziegenbalguniulm.de 
+Electronic Supplementary Information (ESI) available Distribution functions for 
+residence time measurements, pictures of Grignard reagent synthesis in a stirred 
+tank (semicontinuous batch mode). Figure 1 Formation of Grignard reagent RMgX from halide RX and magnesium Mg and 
+subsequent formation of the Wurtz coupling product RR by reaction of Grignard 
+reagent RMgX with halide reactant RX.

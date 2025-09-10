@@ -1,0 +1,21 @@
+Description:
+Part of the conserved histidine brace motif at the active site of LPMOs, ligating mononuclear copper.
+
+Text:
+Lytic polysaccharide monooxygenases 
+(LPMOs) are the representative copperdependent enzyme fam
+ily that play a critical role in the degradation of polysaccharides, 
+particularly in the breakdown of recalcitrant polysaccharides 
+such as cellulose and chitin.111 Structurally, LPMO retains the 
+conserved histidine brace motif at the active site, where the 
+mononuclear copper is ligated to three N sites of two histidine 
+residues (Figure 1A and 1B).6, 1216 LPMOs were initially iden
+tified to be O2dependent oxidases, which can mediate the CH 
+(BDE95 kcalmol) hydroxylation of polysaccharides via the 
+external reductantassisted oxygen activation process (Figure 
+1A).1721 In addition, it was found that LPMOs can use the H2O2 
+cosubstrate to perform preoxygenations on polysaccharides, 
+for which the preactivation of LPMOs by an external reducing 
+agent is required.13, 2225 Interestingly, O2dependent activity of 
+LPMOs can generate the H2O2 intermediate in the presence of 
+reducing agent (e.g.

@@ -1,0 +1,24 @@
+Name: Methylmagnesium chloride
+Text:
+Methylmagnesium chloride is an alkylmagnesium halide and a one-carbon compound.
+Properties:safety: Flammable and Corrosive
+smiles: [CH3-].[Mg+2].[Cl-]
+formula: CH3ClMg
+chem_properties: Molecular Weight: 74.79 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 73.9773695 Da
+Monoisotopic Mass: 73.9773695 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 4.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

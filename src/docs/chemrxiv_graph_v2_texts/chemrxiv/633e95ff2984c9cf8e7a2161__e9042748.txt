@@ -1,0 +1,30 @@
+Description:
+Recognized as the hardest material due to the three-dimensional arrangement of carbon in corner-sharing C4 tetrahedra.
+
+Text:
+Diamond, as natural gem and manmade for applications 1 is recognized as the hardest material. The basic reason for extreme hardness is the threedimensional arrangement of carbon in corner 
+sharing C4 tetrahedra with d(CC)  1.55 , i.e. the sum of two r(C)  0.77  atomic radii, making 
+a perfectly covalent network. In recent decades many research efforts were focused on the 
+identification of new ultrahard carbon allotropes mimicking structure through predicting software 
+such as CALYPSO 2 and USPEX 3 complementarily with first principles calculations carried 
+out mainly within the wellestablished quantum mechanics framework of the density functional 
+theory (DFT) 4,5. In this context the SACADA database (SACADA 3D) 6 regroups all known 
+carbon allotropes thus helping researchers in their endeavor. Recently we reported bodycentered 
+tetragonal C4 (Fig.
+
+
+---
+
+Description:
+Presented as tetC4, a starting building block for novel carbon allotropes.
+
+Text:
+1a) proposed in space group I4m2 as seed to build larger carbon networks and 
+to serve as a template for other original chemical compounds 7. Note that by considering the 
+primitive cell (2 atoms), tetC4 is another expression of cubic diamond whose presentation as tetC4 
+is shown here as a starting building block to propose a novel carbon allotrope. In Table 1 showing 
+the crystal structure parameters of tetC4, the change of twofold carbon (2b) by fourfold position 
+leading to the separation of the C4 tetrahedra along vertical direction keeps the same bodycentered 
+tetragonal space group I4m2 after full geometry relaxation onto ground state structure leading to 
+tetragonal C6 (Fig. 1b). The transformation scheme highlighting the C4 tetrahedra is proposed in 
+Fig. 1c.

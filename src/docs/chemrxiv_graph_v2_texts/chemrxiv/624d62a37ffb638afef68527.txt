@@ -1,0 +1,44 @@
+Description:
+A frequent N-heterocyclic fragment featured in FDA-approved drugs.
+
+Text:
+Enantioenriched indole derivatives are of great interest in pharmaceutical science and organic 
+chemistry.1 Particularly, the indole core is one of the most frequent Nheterocyclic fragment 
+featured in FDAapproved drugs.2 Therefore, different methods have been designed for the 
+construction of chiral indole scaffolds.3 The most typical functionalizations of indoles take place 
+at the C3 positions, due to their innate nucleophilicity.4 In contrast, the development of 
+techniques involving a stereocenter adjacent to the nitrogen, an essential structural motif 
+imbedded in many biologically active molecules (Figure 1A),5 remains a great challenge, 
+presumably owing to the attenuated nucleophilicity of the nitrogen atom (Figure 1B). To this 
+end, a few powerful CN bondforming approaches have been developed to access chiral N
+alkylindoles (Figure 1C).
+
+
+---
+
+Description:
+A substrate often used in enantioselective intramolecular addition reactions.
+
+Text:
+However, these transformations often rely on the enantioselective 
+intramolecular addition of prefunctionalized indole substrates,6 or intermolecular Nalkylation 
+(mostly Nallylation) of indoles with C3blocking substituents7 or electronwithdrawing groups.8 
+Moreover, indirect methods using indole precursors such as indolines or aryl hydrazines were 
+also developed to obtain high regio and enantioselectivity.9 Recently, Buchwald and Vilotijevic 
+demonstrated elegant works using Nmodificated strategy to engage N(benzoyloxy)indoles and 
+Nsilyl indoles in CN bondforming reactions, respectively.10 Despite these remarkable 
+advances, a general, modular and selective synthesis of enantioenriched Nalkylindoles is in 
+crucial demand, particularly if the substrates and catalysts are readily available.11 In sharp 
+contrast to CN bondforming process, we questioned whether a relevant CC bondforging 
+strategy could allow the coupling of indolebased Nalkylmetal intermediates with electrophiles 
+for the enantioselective synthesis of chiral Nalkylindole architectures (Figure 1D).12, 13 
+The catalytic enantioselective hydrocarbonation of alkenes, enabled by an insitu generated 
+alkylmetal intermediate through hydrometallation of double bonds, has currently emerged as an 
+attractive protocol for the construction of CC bonds containing at least a stereogenic sp3 
+carbon.14 However, the alkenes have been classically limited to Csubstituted alkenes (G  C, H; 
+Figure 1D), e.g., styrene derivatives.15 Catalytic asymmetric hydrocarbonations of heteroatom
+substituted alkenes are comparatively underdeveloped (G  B, N, O, F; Figure 1D).16 With 
+respect to readily available Nindolylsubstituted alkenes,17 their catalytic enantioselective 
+hydrocarbonation is yet to be disclosed to our knowledge (G  Nindolyl, Figure 1D ), but it is 
+highly anticipated given that the desired chiral Nalkylindoles and their derivatives could easily 
+be assembled with this strategy.

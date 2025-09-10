@@ -1,0 +1,14 @@
+Description:
+A model peptide used to study the influence of aromatic groups on membrane permeability.
+
+Text:
+of aromatic groups in the peptide 
+backbone to address this limitation. Starting from model peptide Sanguinamide A, we 
+synthesized a series of analogues in which the native thiazole moiety was replaced with 
+various simple aromatic groups. This approach allowed us to systematically investigate how 
+minimal changes in the nature of the aromatic group and the flexibility of the peptide backbone 
+influence membrane permeability. Significant differences in permeability were observed 
+among the analogues, and for those that were permeable, NMR spectroscopy revealed 
+conformational changes in response to environment polarity. In addition to studying 
+permeability, we assessed the impact of these chemical modifications on biological activity 
+using a targetagnostic cell painting assay.

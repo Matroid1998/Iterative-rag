@@ -1,0 +1,30 @@
+Name: Cinnamaldehyde
+Text:
+(E)-cinnamaldehyde is the E (trans) stereoisomer of cinnamaldehyde, the parent of the class of cinnamaldehydes. It has a role as a hypoglycemic agent, an EC 4.3.1.24 (phenylalanine ammonia-lyase) inhibitor, a vasodilator agent, an antifungal agent, a flavouring agent, a plant metabolite and a sensitiser. It is a 3-phenylprop-2-enal and a member of cinnamaldehydes.
+Cinnamaldehyde is a naturally occurring flavonoid that gives the spice cinnamon its flavour and odour. It occurs naturally in the bark of cinnamon trees and other species of the genus Cinnamomum such as camphor and cassia.   Sensitivity to cinnamaldehyde may be identified with a clinical patch test.
+Cinnamaldehyde is a Standardized Chemical Allergen. The physiologic effect of cinnamaldehyde is by means of Increased Histamine Release, and Cell-mediated Immunity.
+Cinnamaldehyde has been reported in Curcuma xanthorrhiza, Alpinia latilabris, and other organisms with data available.
+Cinnamaldehyde is the aldehyde that gives cinnamon its flavor and odor. Cinnamaldehyde occurs naturally in the bark of cinnamon trees and other species of the genus Cinnamomum like camphor and cassia. These trees are the natural source of cinnamon, and the essential oil of cinnamon bark is about 90% cinnamaldehyde. Cinnamaldehyde is also used as a fungicide. Proven effective on over 40 different crops, cinnamaldehyde is typically applied to the root systems of plants. Its low toxicity and well-known properties make it ideal for agriculture. To a lesser extent, cinnamaldehyde is an effective insecticide, and its scent is also known to repel animals like cats and dogs. Cinnamaldehyde is also known as a corrosion inhibitor for steel and other ferrous alloys in corrosive fluids. It can be used in combination with additional components such as dispersing agents, solvents and other surfactants. Concentrated cinnamaldehyde is a skin irritant, and the chemical is toxic in large doses, but no agencies suspect the compound is a carcinogen or poses a long-term health hazard. Most cinnamaldehyde is excreted in urine as cinnamic acid, an oxidized form of cinnamaldehyde.
+Cinnamaldehyde is a metabolite found in or produced by Saccharomyces cerevisiae.
+Properties:safety: Irritant
+smiles: C1=CC=C(C=C1)/C=C/C=O
+formula: C9H8O
+chem_properties: Molecular Weight: 132.16 g/mol
+XLogP3: 1.9
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 2
+Exact Mass: 132.057514874 Da
+Monoisotopic Mass: 132.057514874 Da
+Topological Polar Surface Area: 17.1
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 121
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

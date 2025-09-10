@@ -1,0 +1,16 @@
+Description:
+Compounds that suffer from low molar extinction coefficients in the red spectral region, resulting in slow and inefficient photoswitching.
+
+Text:
+The last decade has witnessed major efforts to 
+overcome these limits, primarily through tetraorthosubstitutions 
+and cyclic azobenzenes.810 However, both approaches suffer from 
+low molar extinction coefficients in the bettertissuepenetrating red 
+spectral region, resulting in slow and inefficient photoswitching; true 
+NIR response is lacking; and both methods require redesigning the 
+photoswitch, which restricts their scope and can result in dramatic 
+losses of potency (for further background, see Supporting Note 1). Two alternative routes to photocontrol azobenzene isomer ratios, 
+with high switching completion and efficient redNIR response, 
+recently emerged in materials sciences photoredox catalysis1114, 
+which we address in this work, and triplet energy transfer11,1518, 
+which we address in a parallel manuscript19.

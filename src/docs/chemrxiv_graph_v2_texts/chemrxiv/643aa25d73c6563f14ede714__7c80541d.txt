@@ -1,0 +1,54 @@
+Description:
+A potent atmospheric pollutant capable of causing severe health and environmental hazards.
+
+Text:
+Sulfur dioxide (SO2) is a toxic, colorless, and irritating gas with
+a strong odor. It is a potent atmospheric pollutant capable of causing
+severe health and environmental hazards and thus is extensively moni
+tored with ongoing efforts to reduce its emissions. However, despite the
+efforts, SO2 pollution remains a persistent issue. On one hand, natural
+processes like volcanic activity, geothermal springs, organic matter de
+composition, and anaerobic bacterial reduction remain constant sources
+of SO2 1, 2. On the other, anthropogenic activities such as power
+generation from fossil fuels, oil refining, and heating via combustion
+of coal and natural gas remain the major contributors to the total emis
+sions 36.
+
+
+---
+
+Description:
+Solubilized in water and slowly oxidized by oxygen, ozone, or Criegee intermediates to form SO3.
+
+Text:
+Typical concentrations of SO2 in the atmosphere range
+from tens to hundreds of ppt in uninhabited regions, through tens of ppb
+in cities, up to hundreds of ppb in industrial areas 7, 8. SO2 released
+into the atmosphere is solubilized in water and slowly oxidized by oxy
+gen, ozone, or Criegee intermediates to SO3, which subsequently leads
+to the formation of sulfuric acid 9, 10. Consequently, precipitations
+in the form of rain, snow, fog, or hail containing sulfuric acid fall to the
+ground, exerting a harmful effect on the environment and infrastructure
+1113. SO2 absorbed through the respiratory system or skin can be
+a threat to human health or even life.
+
+
+---
+
+Description:
+Has low sensitivity in detection by TMD sensing platforms compared to other gases.
+
+Text:
+Similarly to graphene,
+TMD sheets interact in bulk crystals via weak van der Waals (vdW)
+forces and thus can be effectively exfoliated. Atoms within individual
+sheets are covalently bonded and have satisfied valence. This makes
+TMD surfaces chemically inert under most conditions, which limits
+their surface interactions to physisorption. TMDs such as molybdenum disulfide (MoS2), have been shown
+sensing platforms capable of effective detection of nitrogen dioxide
+(NO2) 3235 and ammonia (NH3) 3538. However, their sensi
+tivity toward other gas molecules (including SO2) was reported low
+in comparison. The response of TMD sheets toward selected analytes
+can be enhanced via substitutional doping 3948, or decoration of
+their surfaces with single atoms 49, nanoparticles50, 51, and nan
+otubes 18.

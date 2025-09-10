@@ -1,0 +1,44 @@
+Description:
+A component of polybenzenoid hydrocarbons, forming fused ring structures.
+
+Text:
+Polybenzenoid hydrocarbons (PBHs) are poly
+cyclic aromatic systems (PASs) that contain
+only fused benzene rings. PBHs can be con
+sidered as cutouts from a graphene sheet and
+can be further divided into catacondensed and
+pericondensed PBHs (ccPBHs and pcPBHs,
+respectively; see Figure 1). The difference lies
+in the way the benzene rings are fused to one
+another. While in ccPBHs, any carbon atom
+can be shared by at most two adjacent rings,
+in pcPBHs, a single carbon can be shared by
+up to three rings, which leads to the forma
+tion of 2D structures.
+
+
+---
+
+Description:
+The prototypical aromatic system used as a model for studying aromaticity and reactivity.
+
+Text:
+Because they con
+tain only benzenethe prototypical aromatic
+systemPBHs are sometimes considered the
+prototypical PASs and serve as model systems
+for investigating chemical concepts such as aro
+maticity1 and reactivity.2 In addition to their
+importance for fundamental studies, PBHs are
+pervasive in both the natural and manmade en
+vironments, and play key roles in multiple areas
+of research, including the formation of stars,36
+human health,7 environmental impact,8 and
+more recentlyas promising materials for or
+ganic electronics.9 PASs in general, and PBHs
+in particular, have been used for a variety of
+electronic and optoelectronic technologies, in
+cluding field effect transistors,1014 solar cells,15
+chemical sensors,16 anode and cathode materi
+als,1721 and anolytes22 for redoxflow batteries. 1
+httpsdoi.org10.26434chemrxiv2024hk34t ORCID httpsorcid.org0000000222336854 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

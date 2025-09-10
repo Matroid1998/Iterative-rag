@@ -1,0 +1,26 @@
+Name: Imidazole
+Text:
+1H-imidazole is an imidazole tautomer which has the migrating hydrogen at position 1. It is a conjugate base of an imidazolium cation. It is a conjugate acid of an imidazolide. It is a tautomer of a 4H-imidazole.
+Imidazole has been reported in Lens culinaris and Homo sapiens with data available.
+Properties:safety: Corrosive and Irritant and Health Hazard
+smiles: C1=CN=CN1
+formula: C3H4N2
+chem_properties: Molecular Weight: 68.08 g/mol
+XLogP3: -0.1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 68.037448136 Da
+Monoisotopic Mass: 68.037448136 Da
+Topological Polar Surface Area: 28.7
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 28.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

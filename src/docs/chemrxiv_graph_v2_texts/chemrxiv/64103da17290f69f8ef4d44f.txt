@@ -1,0 +1,44 @@
+Description:
+Undergoes volumetric expansion during discharge in lithium-sulfur batteries.
+
+Text:
+Lithiumsulfur (LiS) batteries are considered as one of the candidates for nextgeneration
+energystorage devices. Despite their very high specific energy, commercialization of LiS bat
+teries is negatively affected by few drawbacks, such as irreversible capacity fade and volumet
+ric expansion of the crystalline sulfur during the discharge. Recently, a huge amount of stud
+ies has been concentrated on using polymeric sulfur cathodes to overcome these problems. In
+particular, sulfurcarbon copolymers such as poly(sulfurn1,3diisopropenylbenzene) (SDIB)
+have attracted much attention. Thanks to a straightforward synthesis procedure,1,2 SDIB
+copolymers could be mass produced relatively easily. In addition, it has been demonstrated
+that SDIB copolymers show a promising performance in alleviating the shuttle effect and
+therefore, can result in a stable cycling performance of a LiS battery.
+
+
+---
+
+Description:
+Forms chains of varying lengths, with short chains showing higher formation probability in certain conditions.
+
+Text:
+Nevertheless, to this day neither the lithiation mechanism of SDIB copolymer cath
+odes has been entirely resolved at an atomistic level, nor their structural evolution during
+the discharge has been fully understood. A first step towards understanding the discharge
+mechanism of the SDIB copolymers is to decipher their structural properties at the fully
+charged state of the battery, where no lithiation reaction has occurred. It has been recently
+found that short Sn chains (n 4) show a higher formation probability compared to other
+sulfur chain lengths.
+
+
+---
+
+Description:
+Forms short chains in sulfur-carbon copolymer materials.
+
+Text:
+It has also been observed that the stability of SDIB copolymers is
+brought about by the formation of short S chains.3 In addition, short S chains have been
+predicted4 and reported5,6 to be more favorable in other sulfurcarbon copolymer materials
+involving organic groups interconnected via sulfur chains. The formation of Lipolysulfides
+during discharge has been shown to be largely hindered in SDIB copolymer cathode involv
+ing short S chains and therefore, they exhibit a much better performance in terms of cycle
+2

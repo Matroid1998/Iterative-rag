@@ -1,0 +1,36 @@
+Description:
+Returns to its ground state after radiative decay and exhibits a fluorescence peak around 490 nm when bound in the active site of the luciferase protein.
+
+Text:
+I4 re
+turns to its ground state (HFOH, I5) after radiative decay.29 Fi
+nally, HFOH can rapidly convert to the oxidized flavin mono
+nucleotide (FMN) species via a dehydration reaction, which can 
+be further transformed to FMNH to initiate another lumines
+cence process.30 
+HFOH exhibits a fluorescence peak around 490 nm when 
+bound in the active site of the luciferase protein.30 However, it 
+is unstable and readily converts to FMN with the loss of one 
+water molecule in solution, as shown in Scheme 1. Conse
+quently, N(5)alkylated 4ahydroxy flavins are commonly used 
+as experimental models to mimic HFOH.
+
+
+---
+
+Description:
+Unstable and readily converts to FMN with the loss of one water molecule in solution.
+
+Text:
+I4 re
+turns to its ground state (HFOH, I5) after radiative decay.29 Fi
+nally, HFOH can rapidly convert to the oxidized flavin mono
+nucleotide (FMN) species via a dehydration reaction, which can 
+be further transformed to FMNH to initiate another lumines
+cence process.30 
+HFOH exhibits a fluorescence peak around 490 nm when 
+bound in the active site of the luciferase protein.30 However, it 
+is unstable and readily converts to FMN with the loss of one 
+water molecule in solution, as shown in Scheme 1. Conse
+quently, N(5)alkylated 4ahydroxy flavins are commonly used 
+as experimental models to mimic HFOH.

@@ -1,0 +1,37 @@
+Description:
+Exhibits open metal site centers in MOFs, facilitating a cooperative carbon monoxide adsorption mechanism via spin transition.
+
+Text:
+Metalorganic frameworks (MOF) are nanoporous materials
+made of metal ion centers coordinated by organic linkers to
+form 3Dstructures 1,2 that have attracted much attention for
+catalysis, 36 sensing 6,7 and gas capture and separation. 8,9 In
+these materials, efficient and selective gas adsorption can be
+achieved due to the large internal surface area and the high
+affinity of the metal centers with certain gas molecules. 10
+The presence of coordinatively unsaturated metal centers, 11
+also called openmetal sites, has resulted in large gas uptake
+at low pressure 12,13 owing to the formation of selectively
+strong 14,15 coordination bonds between the MOF and the
+guest molecules. 16,17 Recently, a cooperative carbon monox
+ide adsorption mechanism via spintransition has been re
+ported in MOFs exhibiting openmetal site Fe centers.
+
+
+---
+
+Description:
+Undergoes a spin-state transition from high spin to low spin as a function of CO partial pressure.
+
+Text:
+18 Ex
+ceptionally large working capacities 19 and low regeneration
+energies were obtained as a result of a stepshaped isotherm
+resulting from a cooperative change in the gas binding prop
+erties upon electronic transition. The spinstate transition
+from high spin (HS) to low spin (LS) occurred as a function
+of the CO partial pressure, as a result of the strong ligand
+field induced by CO upon adsorption. Once the HSLS
+is triggered at all Fe centers, the uptake is shown to in
+crease abruptly as a consequence of the significantly larger
+CO binding energy expected at LS compared to HS.

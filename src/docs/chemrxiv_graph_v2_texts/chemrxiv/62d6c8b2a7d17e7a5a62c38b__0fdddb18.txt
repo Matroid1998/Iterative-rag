@@ -1,0 +1,22 @@
+Description:
+Acts as a pillar in the MOF DUT8.
+
+Text:
+In MOFs, this condition could
+arise from a number of factors as classified by Zhou et
+al.11 MOFs with the same component building units but
+different conformation (i.e. flexible MOFs),12 interpene
+trating structures,13 and MOFs with a specified topology
+but consisting of low symmetry building blocks, such that
+changing the orientation of the building block will create
+another isomer.14, 15
+matthew.addicoatntu.ac.uk (M.A. Addicoat)
+ORCID(s) 0000000326670347 (M. Nurhuda); 0000000314316439
+(Y. Hafidh); 000000031517468X (C.C. Perry); 0000000254067927 (M.A. Addicoat)
+Framework isomerism is interesting to examine in detail,
+either considering each individual isomer or collectively, as
+it has been found to influence properties such as flexibility
+and adsorption.16 Conformational isomerism is reported
+to impact the collective flexibility in DUT8, a MOF with
+Ni2 paddlewheels, dabco pillars and naphthalene dicarboxy
+late (ndc) linkers.

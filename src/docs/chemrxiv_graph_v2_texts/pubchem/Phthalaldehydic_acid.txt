@@ -1,0 +1,25 @@
+Name: Phthalaldehydic acid
+Text:
+2-formylbenzoic acid is an aldehydic acid which consists of benzoic acid substituted by a formyl group at position 2. Metabolite of ampicillin phthalidyl ester. It has a role as a mouse metabolite, a bacterial xenobiotic metabolite and a drug metabolite. It is an aldehydic acid and a member of benzaldehydes. It is a conjugate acid of a 2-formylbenzoate.
+Properties:safety: Irritant
+smiles: C1=CC=C(C(=C1)C=O)C(=O)O
+formula: C8H6O3
+chem_properties: Molecular Weight: 150.13 g/mol
+XLogP3: 1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 2
+Exact Mass: 150.031694049 Da
+Monoisotopic Mass: 150.031694049 Da
+Topological Polar Surface Area: 54.4
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 165
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

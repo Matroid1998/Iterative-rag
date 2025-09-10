@@ -1,0 +1,31 @@
+Description:
+A greenhouse gas that contributes to global warming and is targeted for capture and removal from the atmosphere.
+
+Text:
+Carbondioxide (CO2) emissions account for 76 of total greenhousegas emissions and are 
+currently 50 higher than preindustrial levels. As a result, temperatures are expected to rise at 
+least 2C unless CO2 is captured and removed from the atmosphere.13 Traditional directair
+capture technologies (DAC),4 use alkaline aqueous sorbents (e.g., KOH(aq)) to capture ambient CO2 
+as mixtures of (bi)carbonates, which are thermallydecomposed into a pure CO2 gas stream for 
+permanent removal (Figure 1a).
+
+
+---
+
+Description:
+A gas that is captured and requires significant thermal energy for sorbent regeneration.
+
+Text:
+Unfortunately, this technology is energy intensive and 
+expensive, largely because of the significant thermal energy penalty (150 kJ mol1) required to 
+regenerate the sorbent after it has captured CO2 (Figure 1a, Step 4).5 This thermal energy is often 
+provided by burning natural gas, which results in CO2 emissions that reduce the net amount of 
+CO2 removed from the atmosphere by DAC. chemrxiv 
+
+5 
+
+Figure 1 Process flow diagrams of various carbon capture processes. (a) Carbonate looping with 
+thermal swing desorption. (b) Carbonate looping with electrochemical pH swing desorption via 
+BPM. (c) Direct ocean capture with electrochemical pH swing desorption via BPM. chemrxiv 
+
+6

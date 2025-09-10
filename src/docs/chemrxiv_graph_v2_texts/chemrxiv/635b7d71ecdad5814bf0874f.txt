@@ -1,0 +1,36 @@
+Description:
+A tetradymite with multiple valence and conduction band pockets due to strong band inversion.
+
+Text:
+Band inversion gives rise to unique physical phenomena in topo
+logical insulators, such as the quantum spin Hall effect and the
+emergence of gapless surface states. 1 In the bulk, band inversion
+can lead to highly warped, nonparabolic bands near the kpoint
+at which the inversion occurs, where the concept of valley degen
+eracy (i.e. number of carrier pockets available for charge carrier
+transport) becomes important. In tetradymite Bi2Te3 for example,
+multiple valence and conduction band pockets form around the
+point due to strong band inversion. 27 The valley degeneracy
+can have a crucial impact on the electrical transport properties
+of a material.
+
+
+---
+
+Description:
+A tetradymite system where spin-orbit coupling strength is largely responsible for band inversion.
+
+Text:
+First, it is not clear
+whether warping occurs due to band inversion in systems other
+than rocksalt materials, given our previous analysis was based
+on a k  p model specifically for this system. 18 Second, the pro
+posed mechanisms behind band inversion is inconsistent. While it
+is generally believed that the spinorbit coupling (SOC) strength
+is largely responsible for the degree to which bands are inverted
+in systems such as tetradymite Bi2Te3, 1922 atomic orbital interac
+tions (e.g. sp coupling) have been suggested as a significant con
+aDepartment of Materials Science and Engineering, Northwestern University, Evanston,
+IL 60208. Email MichaelToriyama2024u.northwestern.edu, jeff.snydernorthwestern.edu
+tributing factor towards band inversion in systems such as SnTe 23
+and rocksalt SnSe.

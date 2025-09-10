@@ -1,0 +1,26 @@
+Name: Congressane
+Text:
+Diamantane is a polycyclic cage and a polycyclic alkane.
+A tricyclo bridged hydrocarbon.
+Properties:safety: Irritant
+smiles: C1C2CC3C4C1C5CC(C4)CC3C5C2
+formula: C14H20
+chem_properties: Molecular Weight: 188.31 g/mol
+XLogP3: 4.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 188.156500638 Da
+Monoisotopic Mass: 188.156500638 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 14
+Formal Charge: 0
+Complexity: 205
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

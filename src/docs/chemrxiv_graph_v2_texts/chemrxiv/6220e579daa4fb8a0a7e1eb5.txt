@@ -1,0 +1,49 @@
+Description:
+Element that, along with double bonds, is not acceptable in terpenes for aviation fuel applications.
+
+Text:
+The branched structure of 
+isoprene causes most terpenes to have methyl side 
+chains, which promotes favorable coldweather 
+properties such as low melting points 6. The bio
+synthesis process readily produces rings, including 
+strained rings with carbon numbers as low as three, 
+which gives terpenes high energy densities 6, 7. The biosynthesis process can also functionalize the 
+terpenes by adding hydroxyl groups, carbonyls, 
+ether bridges, etc. (These molecules are often 
+termed terpenoids, but we will include them with 
+terpenes.) For some applications, especially current 
+aviation engines, oxygen and double bonds are not 
+acceptable since they compromise energy density 
+and storage stability; therefore terpenes must be 
+hydrogenated to saturated hydrocarbons before they 
+can be used as fuels 6.
+
+
+---
+
+Description:
+An element that can suppress soot formation in terpenes.
+
+Text:
+The sootiness of terpenes relative to conventional 
+jet fuel is not obvious terpenes are usually not 
+aromatic and they often contain oxygen, which can 
+suppress soot formation 15, but they also contain 
+structural features that enhance soot formation such 
+as double bonds and rings 16. Donoso et al. have 
+demonstrated 
+that 
+turpentinederived 
+terpene 
+mixtures can have lower sooting tendencies than 
+conventional jet fuel, and that hydrogenating them 
+reduces sooting tendency further 2. Zschocke et al. have shown that adding the hydrogenated analogue 
+of 
+the 
+sesquiterpene 
+farnesane 
+(2, 6, 10trimethyldodecane) to Jet A1 reduces 
+sooting tendency 17. The objective of this study is to systematically 
+investigate the sooting behavior of terpenes and 
+their hydrogenated analogues.

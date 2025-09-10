@@ -1,0 +1,33 @@
+Name: Moxifloxacin
+Text:
+Moxifloxacin is a quinolone that consists of 4-oxo-1,4-dihydroquinoline-3-carboxylic acid bearing a cyclopropyl substituent at position 1, a fluoro substitiuent at position 6, a (4aS,7aS)-octahydro-6H-pyrrolo[3,4-b]pyridin-6-yl group at position 7 and a methoxy substituent at position 8. A member of the fluoroquinolone class of antibacterial agents. It has a role as an antibacterial drug. It is a quinolinemonocarboxylic acid, a quinolone, a member of cyclopropanes, a pyrrolidinopiperidine, an aromatic ether, a quinolone antibiotic and a fluoroquinolone antibiotic. It is a conjugate base of a moxifloxacinium(1+).
+Moxifloxacin is a synthetic fluoroquinolone antibiotic agent. Bayer AG developed the drug (initially called BAY 12-8039) and it is marketed worldwide (as the hydrochloride) under the brand name Avelox (in some countries also Avalox) for oral treatment.
+Moxifloxacin is a Fluoroquinolone Antibacterial.
+Moxifloxacin is a fourth generation fluoroquinolone with expanded activity against gram-positive bacteria as well as atypical pathogens. Moxifloxacin has been linked to mild ALT elevations during therapy and to rare instances of idiosyncratic acute liver injury with symptoms and jaundice.
+Moxifloxacin has been reported in Aspergillus austroafricanus with data available.
+Moxifloxacin is a fluoroquinolone antibiotic with antibacterial activity. Moxifloxacin binds to and inhibits the bacterial enzymes DNA gyrase (topoisomerase II) and topoisomerase IV, resulting in inhibition of DNA replication and repair and cell death in sensitive bacterial species.
+MOXIFLOXACIN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1999 and has 7 approved and 82 investigational indications. This drug has a black box warning from the FDA.
+A fluoroquinolone that acts as an inhibitor of DNA TOPOISOMERASE II and is used as a broad-spectrum antibacterial agent.
+See also: Moxifloxacin Hydrochloride (has salt form); Moxifloxacin hydrochloride monohydrate (active moiety of).
+Properties:safety: Irritant
+smiles: COC1=C2C(=CC(=C1N3C[C@@H]4CCCN[C@@H]4C3)F)C(=O)C(=CN2C5CC5)C(=O)O
+formula: C21H24FN3O4
+chem_properties: Molecular Weight: 401.4 g/mol
+XLogP3: 0.6
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 4
+Exact Mass: 401.17508442 Da
+Monoisotopic Mass: 401.17508442 Da
+Topological Polar Surface Area: 82.1
+Heavy Atom Count: 29
+Formal Charge: 0
+Complexity: 727
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

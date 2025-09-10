@@ -1,0 +1,12 @@
+Description:
+Substituting Ni induces a phase transition and increased oxygen vacancy content leading to lower resistivity.
+
+Text:
+However, it is hard to disentangle whether low electrochemical activity stems from high bulk resistivity or 
+poor intrinsic catalytic properties13,14. The intrinsic catalytic properties reflect the ability to lower the 
+kinetic barriers for the electrochemical reaction at the electrolytecatalyst interface, independent of their 
+resistivity and additional stack resistances. For example, substituting Ni into the solidsolution series of 
+La0.7Sr0.3Fe1xNixO3 induces a phase transition and increased oxygen vacancy content leading to an overall 
+lower resistivity that correlates with the OER performance15. Furthermore, LaCoO3 shows comparably low 
+OER activity in experiment, but lowering its resistivity through compressive lattice strain and introducing 
+conductive support layers increases the OER activity16,17. Additionally, contact resistances (induced e.g.

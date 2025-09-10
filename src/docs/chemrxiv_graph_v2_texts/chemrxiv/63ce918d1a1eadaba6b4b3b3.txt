@@ -1,0 +1,10 @@
+Description:
+Forms strong chemical bonds during the capture process.
+
+Text:
+However, the reverse process of CO2 release is energyintensive due to the strong chemical bonds 
+(CN bonds) formed during the capture process.4 In addition, aqueous amine solutions are 
+corrosive, volatile, toxic, and sensitive toward oxidation and SOxNOx contaminants in flue gas.5 
+Pressure swing adsorption (PSA)6 and thermal swing adsorption (TSA)7 are intensively 
+investigated as alternatives to liquid amine solutions. They use the changes in either pressure or 
+temperature to adsorb and release CO2 from a solid sorbent.

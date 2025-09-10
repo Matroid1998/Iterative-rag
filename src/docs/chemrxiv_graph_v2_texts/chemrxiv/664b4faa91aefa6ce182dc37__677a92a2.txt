@@ -1,0 +1,11 @@
+Description:
+Used in spin polarization studies and optical pumping experiments.
+
+Text:
+As an example, the D1 line (52S12 to 52P12
+transition) in 87Rb was used to directly measure the average dwell time of spin polarized
+rubidium atoms on coated glass surfaces.6 The F  1 to F   1, 2 transition (optical pump)
+creates spin polarisation in the Zeeman multiplets (MF) of the ground state F  2 hyperfine
+level. Probe light tuned to the F  2 to F   1, 2 transition (D1 line) probes the population
+in the F  2 state. The spin polarisation is monitored by the rotation of the polarisation
+plane (Faraday rotation) of the probe beam.

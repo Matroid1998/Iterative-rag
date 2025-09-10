@@ -1,0 +1,18 @@
+Description:
+Analyzed in clinical samples using methods like HPLC and mass spectrometry to measure total concentration.
+
+Text:
+Separation methods like highperformance 
+liquid chromatography (HPLC) and inductively coupled plasma 
+mass spectrometry are championed for their multiplexing 
+capabilities and are widely utilized in analysing clinical samples 
+for copper1822. However, these methods are restricted to 
+measuring total copper concentration (free Cu and those bound 
+to proteins) and require multiple sample preparation steps 
+(including sampling, extraction, digestion, and dilution) and 
+longer analysis time. On the other hand, while colorimetric 
+assays23, 24 are costeffective and have a more rapid readout 
+than HPLC25, they are limited by analytechromogen interaction 
+kinetics26. Fluorescent probes have faster response times and 
+have been deployed in cells2730 but rely on complicated 
+fluorophore design and synthesis.

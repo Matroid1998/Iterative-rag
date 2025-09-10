@@ -1,0 +1,71 @@
+[NiFe] hydrogenase is a type of hydrogenase, which is an oxidative enzyme that reversibly converts molecular hydrogen in prokaryotes including Bacteria and Archaea. The catalytic site on the enzyme provides simple hydrogen-metabolizing microorganisms a redox mechanism by which to store and utilize energy via the reaction 
+
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          
+            
+              
+                
+                  
+                    
+                      ↽
+                    
+                    
+                    
+                    
+                      −
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      −
+                    
+                    
+                    
+                    
+                      ⇀
+                    
+                  
+                
+              
+            
+          
+          2
+          
+          
+            H
+            
+              +
+            
+          
+          +
+          2
+          
+          
+            e
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {H2 <=> 2H+ + 2e^-}}}
+  
+
+This is particularly essential for the anaerobic, sulfate-reducing bacteria of the genus Desulfovibrio as well as pathogenic organisms Escherichia coli and Helicobacter pylori. The mechanisms, maturation, and function of [NiFe] hydrogenases are actively being researched for applications to the hydrogen economy and as potential antibiotic targets.

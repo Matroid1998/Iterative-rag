@@ -1,0 +1,25 @@
+Description:
+Reactive intermediates that can be manipulated along divergent pathways.
+
+Text:
+We are interested in applying the ability to shuttle 
+aziridinium ylides along divergent pathways to explore diverse new amine chemical space, 
+particularly in the context of using our new methods for the preparation of DNAencoded libraries 
+(DEL) to explore their potential bioactivity.11ac 
+
+Manipulating the reactivity of aziridinium ylides to achieve a desired reaction outcome can 
+be challenging as compared to their acyclic ammonium counterparts.
+
+
+---
+
+Description:
+Embedded in a highly strained ring, affecting the energy required for pyramidal inversion of nitrogen.
+
+Text:
+Aziridinium ylides are 
+embedded in a highly strained ring, where the bonding constraints of the aziridine increase the 
+energy required for pyramidal inversion of the nitrogen; often this rate is slow enough to measure 
+using variable temperature (VT) or dynamic NMR spectroscopy.12ac The presence of two 
+invertomers hinders the ability to selectively form and engage aziridinium ylides in secondary 
+reactions and has limited their applications in the synthesis of complex Nheterocycles. For

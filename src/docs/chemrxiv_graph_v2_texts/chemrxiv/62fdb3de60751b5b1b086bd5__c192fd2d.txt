@@ -1,0 +1,11 @@
+Description:
+A common high-energy dense oxidizer in many energetic materials with a long history of scientific research.
+
+Text:
+RDX (1,3,5Trinitroperhydro1,3,5triazine) is a common highenergy dense oxidizer in many energetic
+materials (EMs), which is a representative example of the caged polynitroamines, such as HMX and CL201. RDX
+has been used for more than 70 years, and there is a long history of scientific research on the material2. Thermal
+decomposition is a fundamental process for any EMs exposed to external stimuli. It relates to the ignition of
+explosives, the subsequent detonation performance, and their sensitivity from mechanical stimuli to direct heating3. A comprehensive understanding of thermal decomposition mechanisms is essential for the performance and safety
+of EMs. The decomposition mechanism of RDX crystal is widely investigated in abundance by experiments and
+computational simulations.

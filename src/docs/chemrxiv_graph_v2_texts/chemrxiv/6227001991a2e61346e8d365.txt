@@ -1,0 +1,12 @@
+Description:
+Ten coordinated ions analyzed to determine ideal coordination polyhedra resemblance.
+
+Text:
+Here, we use Continuous Symmetry Measure (CSM) to analyze ten
+coordinated lanthanide ions in order to determine which ideal coordination polyhedra they 
+resemble, and to compare between the different experimental coordination geometries. The use 
+of CSM in chemistry was introduced by Zabrodsky, Peleg and Avnir and has since been extended 
+into a Continuous Shape Measure approach (CShM), which has been automated in the SHAPE 
+2.1 program developed by Alvarez, RuizMartnez and Llunell.2642 Numerous studies have used 
+SHAPE to compare symmetries, but we recently found that SHAPE can be inadequate when 
+comparing high coordination number geometries.43 Here we elaborate on this in a series of six

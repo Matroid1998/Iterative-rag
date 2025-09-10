@@ -1,0 +1,27 @@
+Name: 2(5H)-Furanone
+Text:
+But-2-en-4-olide is a butenolide. It is a tautomer of a but-3-en-4-olide.
+2(5H)-Furanone has been reported in Camellia sinensis, Fusarium graminearum, and other organisms with data available.
+See also: Butenolide (annotation moved to).
+Properties:safety: Irritant
+smiles: C1C=CC(=O)O1
+formula: C4H4O2
+chem_properties: Molecular Weight: 84.07 g/mol
+XLogP3: -0.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 84.021129366 Da
+Monoisotopic Mass: 84.021129366 Da
+Topological Polar Surface Area: 26.3
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 93.7
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

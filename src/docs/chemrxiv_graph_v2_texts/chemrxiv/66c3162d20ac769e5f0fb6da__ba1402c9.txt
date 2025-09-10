@@ -1,0 +1,13 @@
+Description:
+Batteries that play a pivotal role in electric vehicles, renewable energy storage, offgrid power systems, and grid stabilization applications.
+
+Text:
+The pursuit of a sustainable future has propelled lithiumion batteries (LIBs) into a pivotal role across 
+diverse technological realms1. Initially confined to consumer electronics, LIBs have become 
+indispensable in electric vehicles, renewable energy storage, offgrid power systems, and grid 
+stabilization applications. A comprehensive understanding of the chemophysical behavior is essential 
+to unlock the full potential of LIBs within complex and multicomponent systems such as electric 
+vehicles and grid storage. The concept of memory effect in batteries has gained widespread recognition in the case of NiCd 
+and Nimetalhydride systems, where traces of prior cycling are retained, distorting the voltage 
+profile24. Interestingly, while this phenomenon has been assumed not to affect LIBs, a pivotal study 
+by Sasaki et al.5 provided first insights that this may not be true.

@@ -1,0 +1,15 @@
+Description:
+A specific polyethylene melt used in molecular dynamics simulations to study crystal nucleation.
+
+Text:
+While there has
+been some work715 probing the molecularlevel details of polymer crystallization using
+simulations, it relied on isothermal simulations, and neglected the role of heat transfer
+during polymer crystallization. It remains an open challenge to characterize the impact of
+heat release on polymer nucleation. The present study addresses this challenge through NPT, NVT, and NVE molecular
+dynamics simulations of crystal nucleation in entangled polyethylene (PE) melts,
+specically nC720H1442 melts. During an isochoric, isothermal NVT simulation, the heat
+released during crystallization is removed nearly instantaneously from the crystallizing
+system (e.g., on picosecond timescales). In an isolated (NVE) simulation, heat is unable
+to escape the system as it crystallizes. NVT and NVE simulations thus represent the two
+extremes that bound experimentally relevant heatdissipation conditions.

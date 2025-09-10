@@ -1,0 +1,33 @@
+Description:
+Couple with nucleofuge-containing molecules under basic conditions.
+
+Text:
+For our first study, we selected the field of aalkylation of 
+carbonyls as it is a central and wellestablished transfor
+mation in organic synthesis that could still benefit from im
+provement (Figure 1).4 Indeed, the coupling of enolates 
+with nucleofugecontaining molecules under basic condi
+tions is extensively employed, but its low atomeconomy 
+makes it often industrially impracticable.5 Similarly, mod
+ern procedures employing a combination of a metalbased 
+catalyst with directing amines have allowed the use of al
+kenes as coupling partners, which circumvent any waste 
+generation.6 However, the expensive catalysts andor rea
+gents employed in these protocols make them difficult to 
+implement on scale.
+
+
+---
+
+Description:
+Alternatives to metal-based systems in carbonyl radical addition reactions.
+
+Text:
+Despite the current limitations associ
+ated with the Mnmediated carbonyl aradical addition to 
+olefins (vide infra), we identified this transformation as a 
+full atomeconomy alternative to existing enolates and 
+metalbased systems. Therefore, we decided to systemati
+cally investigate the parameters that govern this reaction to 
+assemble a general and robust set of conditions that would 
+supplant existing procedures. Figure 1. Introduction to aalkylation of carbonyls.

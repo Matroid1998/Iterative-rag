@@ -1,0 +1,29 @@
+Name: Nadph
+Text:
+NADPH is the reduced form of NADP+; used in anabolic reactions, such as lipid and nucleic acid synthesis, which require NADPH as a reducing agent. It has a role as a fundamental metabolite and a cofactor. It is a NAD(P)H and a NADP. It is a conjugate acid of a NADPH(4-).
+NADPH is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+NADPH has been reported in Homo sapiens, Bos taurus, and Schizosaccharomyces pombe with data available.
+NADPH is a metabolite found in or produced by Saccharomyces cerevisiae.
+Nicotinamide adenine dinucleotide phosphate. A coenzyme composed of ribosylnicotinamide 5'-phosphate (NMN) coupled by pyrophosphate linkage to the 5'-phosphate adenosine 2',5'-bisphosphate. It serves as an electron carrier in a number of reactions, being alternately oxidized (NADP+) and reduced (NADPH). (Dorland, 27th ed)
+Properties:safety: Irritant
+smiles: C1C=CN(C=C1C(=O)N)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)N4C=NC5=C(N=CN=C54)N)OP(=O)(O)O)O)O)O
+formula: C21H30N7O17P3
+chem_properties: Molecular Weight: 745.4 g/mol
+XLogP3: -6.8
+Hydrogen Bond Donor Count: 9
+Hydrogen Bond Acceptor Count: 22
+Rotatable Bond Count: 13
+Exact Mass: 745.09110351 Da
+Monoisotopic Mass: 745.09110351 Da
+Topological Polar Surface Area: 364
+Heavy Atom Count: 48
+Formal Charge: 0
+Complexity: 1410
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 8
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

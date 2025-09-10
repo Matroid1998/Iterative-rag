@@ -1,0 +1,27 @@
+Name: Triethylene Glycol
+Text:
+Triethylene glycol is a colorless liquid with a mild odor. Dense than water. (USCG, 1999)
+Triethylene glycol is a poly(ethylene glycol) that is octane-1,8-diol in which the carbon atoms at positions 3 and 6 have been replaced by oxygen atoms. It has a role as a plasticiser. It is a poly(ethylene glycol), a diol and a primary alcohol.
+Triethylene glycol has been reported in Solanum lycopersicum with data available.
+Properties:safety: Corrosive and Irritant
+smiles: C(COCCOCCO)O
+formula: C6H14O4
+chem_properties: Molecular Weight: 150.17 g/mol
+XLogP3: -1.6
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 7
+Exact Mass: 150.08920892 Da
+Monoisotopic Mass: 150.08920892 Da
+Topological Polar Surface Area: 58.9
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 49.7
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

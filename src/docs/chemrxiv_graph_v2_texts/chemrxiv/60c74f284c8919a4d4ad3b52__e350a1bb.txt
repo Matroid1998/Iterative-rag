@@ -1,0 +1,23 @@
+Description:
+A class of 2D compounds derived from MAX phases via etching of the A-site atoms.
+
+Text:
+MAX phases (M  early transition metal; A 
+ Al, Si, Ga; X  C, N) are a large class of 
+3D layered ternary compounds with the 
+stoichiometry Mn1AXn (1  n  3).14 
+MXenes are a similarly diverse class of 2D 
+compounds derived from MAX phases via 
+etching of the Asite atoms.5 It is well
+established that MXenes are surface
+terminated, and thus better represented by 
+the formula Mn1XnTx (T  termination), 
+however 
+the 
+nature 
+of 
+the 
+surface 
+composition, coordination, and spatial 
+arrangements are exceptionally challenging 
+to ascertain (Figure 1).

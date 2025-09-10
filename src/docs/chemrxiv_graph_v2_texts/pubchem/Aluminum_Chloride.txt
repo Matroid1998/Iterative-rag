@@ -1,0 +1,30 @@
+Name: Aluminum Chloride
+Text:
+Aluminum chloride, anhydrous appears as a white to gray powder with a pungent odor. Corrosive to tissue and toxic by ingestion.
+Aluminium trichloride is an aluminium coordination entity. It has a role as a Lewis acid.
+Aluminum chloride is a chemical compound with the chemical formula AlCl3. When contaminated with iron chloride, it often displays a yellow color compared to the white pure compound. It is used in various chemical applications as a Lewis base, with anhydrous aluminium trichloride being the most commonly used Lewis acid. It may also be found in over-the-counter as an antiperspirant or prescription products as an antihemorrhagic agent. In antiperspirant products, FDA approves the use of aluminum chloride as an active ingredient up to 15%, calculated on the hexahydrate form, in an aqueous solution nonaerosol dosage form.
+ALUMINUM CHLORIDE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) and is indicated for acne and has 1 investigational indication.
+Aluminium chloride is a chloride of aluminum. It is probably the most commonly used Lewis acid and also one of the most powerful. It finds widespread application in the chemical industry as the classic catalyst for Friedel-Crafts reactions, both acylations and alkylations. It also finds use in polymerization and isomerization reactions of hydrocarbons. Aluminium chloride, often in the form of derivatives such as aluminium chlorohydrate, is a common component in antiperspirants at low concentrations. Aluminum is the most abundant metal in the earth's crust and is always found combined with other elements such as oxygen, silicon, and fluorine.  (L739, L740, L751)
+A compound with the chemical formula AlCl3; the anhydrous salt is used as a catalyst in organic chemical synthesis, and hydrated salts are used topically as antiperspirants, and for the management of HYPERHYDROSIS.
+See also: Aluminium chloride (AlCl3) (annotation moved to); aluminium chloride (anhydrous) (annotation moved to); Aluminum chloride, solution (annotation moved to).
+Properties:safety: Corrosive
+smiles: [Al](Cl)(Cl)Cl
+formula: AlCl3
+chem_properties: Molecular Weight: 133.34 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 131.888096 Da
+Monoisotopic Mass: 131.888096 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

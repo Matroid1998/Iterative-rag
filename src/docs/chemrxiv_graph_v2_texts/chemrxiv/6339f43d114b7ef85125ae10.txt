@@ -1,0 +1,32 @@
+Description:
+Forms hydrogen bonds, which are significant in determining the structure of bound complexes and biomolecule folding.
+
+Text:
+through nOe), whilst titration or dilution 
+experiments can provide thermodynamic parameters.29 However, whilst a change in resonant frequency 
+may indicate hydrogenbonding, this represents a consequence, rather than direct observation of, the 
+hydrogenbond. Methods for direct detection of hydrogen bonds in solution are advantageous, as they 
+allow rapid assignment of structures (rather than proximity) in bound complexes, to complement solid 
+state studies. For analyses of biomolecule folding and assembly by NMR, several techniques, (IMPACT
+HMNBC, JNNHNNCOSY, SOFASTHMBC, SOFASTHMQC etc. )3037 have been employed, typically us
+ing 15N isotope enriched samples and some 2D NMR methods have also been shown to be amenable to 
+structural studies at 15N natural abundance.38 Although synthetic 15N isotope enriched supramolecular 
+synthons have been studied using these techniques,39 such analyses are scarce.
+
+
+---
+
+Description:
+Forms hydrogen bonds that can be observed through J coupling in Heteronuclear Multiple Quantum Coherence experiments.
+
+Text:
+In contrast to the ready 
+access to 15N labelled proteins afforded through expression in 15N enriched media, it is more challenging 
+and costly, to incorporate 15N through chemical synthesis. Despite clear advantages, the low abundance 
+of 15N (isotopic abundance  (3.46  4.21)  103 molar fraction) renders development of spectroscopic 
+methods that do not rely on enrichment, desirable for identification of hydrogenbonds. This need is fur
+ther emphasized by the considerable effort currently devoted to the study of multicomponent selfsorting 
+assemblies4045 and systems chemistry,4648 where characterization of speciation is challenging. In this 
+work, we demonstrate that J coupling between hydrogenbonded nitrogen and hydrogen nuclei in Het
+eronuclear Multiple Quantum Coherence (HMQC) experiments, allows observation of intra and intermo
+lecular hydrogen bonds in diverse supramolecular architectures e.g.

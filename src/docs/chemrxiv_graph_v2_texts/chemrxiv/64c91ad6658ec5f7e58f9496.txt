@@ -1,0 +1,15 @@
+Description:
+Molecules with a kinetic diameter of 3.6 Å that do not enter the intrinsic pore network of ZIF glasses at 77 K.
+
+Text:
+sod or lta) do not melt on 
+their own, but can be flux melted in the liquid of a meltable ZIF.14,16,17 The most critical 
+issue, however, is that the gasaccessible porosity of the known meltquenched ZIF 
+glasses is rather low and ranges between 14 and 16 of the bulk glass volume.18 
+Moreover, the pores of the ZIF glasses are very narrow, so that N2 molecules (kinetic 
+diameter 3.6 ) do not enter the intrinsic pore network of the glasses at 77 K, whereas 
+the diffusion of the larger nbutane (kinetic diameter 4.3 ) is kinetically hindered at 
+273 K, resulting in very low gas uptakes and strongly hysteretic sorption behaviour.11 
+This greatly limits their application in gas adsorption and separation, guest molecule 
+loading and transport, so that the development of MOF glasses, especially melt
+quenched MOF glasses with high porosity, remains an important task.

@@ -1,0 +1,14 @@
+Description:
+A naturally occurring actinide element that is radioactive.
+
+Text:
+Actinide compounds are the major constituents of general radioactive waste produced by nuclear 
+power plants and special radioactive waste called fuel debris generated from power plant 
+accidents such as those that occurred in the FukushimaDaiichi Nuclear Power Plant.1 
+Comprehensive understanding of the properties of actinide compounds is important for separating 
+and reusing the actinides from the radioactive waste or to decommission Fukushima Daiichi 
+Nuclear Power Plant safely. However, actinides are artificially synthesized elements (except for 
+uranium) and are inherently hazardous due to their radioactive nature, leading to enormous 
+constraints in experiments aimed at elucidating their properties. For safety and feasibility, it is 
+desirable to perform quantum chemical calculations of actinide compounds to understand their 
+basic electronic structures.

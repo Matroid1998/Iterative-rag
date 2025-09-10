@@ -1,0 +1,16 @@
+Description:
+A class of two-dimensional materials consisting of individual MX2 layers stacked by van der Waals forces.
+
+Text:
+Transition metal dichalcogenides (TMDs, chemical formula MX2, M  transition metal, X  S, 
+Se, Te) are a class of twodimensional materials consisting of individual MX2 layers stacked by 
+van der Waals forces. Among them, molybdenum disulfide (MoS2) has been studied 
+extensively in a wide range of fields such as electrochemical energy storage,1 
+electrocatalysis,2 electrochemical water desalination,3 or tribology4. As a consequence, a 
+large number of synthesis approaches resulting in diverse morphologies andor crystallite 
+sizes are reported in literature.5 
+While exfoliation or gas phase deposition methods like chemical vapor or atomic layer 
+deposition can produce monofewlayered materials with high precision,6 hydrothermal 
+methods can be employed to obtain MoS2 with varying morphology in larger quantities. For 
+the latter, morphology, particlecrystallite size, or crystallinity can be tuned by variation of 
+synthesis parameters.

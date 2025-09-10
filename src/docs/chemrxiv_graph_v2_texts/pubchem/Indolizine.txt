@@ -1,0 +1,26 @@
+Name: Indolizine
+Text:
+Indolizine is a mancude organic heterobicyclic parent and a member of indolizines.
+Indolizine has been reported in Streptomyces antioxidans with data available.
+Properties:safety: Irritant
+smiles: C1=CC2=CC=CN2C=C1
+formula: C8H7N
+chem_properties: Molecular Weight: 117.15 g/mol
+XLogP3: 2.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 117.057849228 Da
+Monoisotopic Mass: 117.057849228 Da
+Topological Polar Surface Area: 4.4
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 101
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

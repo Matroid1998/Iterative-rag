@@ -1,0 +1,39 @@
+Description:
+Used in red and NIR emitters that suffer from low quantum yields due to nonradiative relaxation.
+
+Text:
+Nevertheless, a long
+lasting PhOLED was manufactured exploiting pyrimidine
+modification of the FIrPic emitter with skyblue max475
+nm 16, whereas effective and relatively stable blue PhOLEDs
+were created using triscyclometalated iridium(III) complexes
+with Nheterocyclic carbene ligands 17,18. On the other
+hand, red and NIR iridiumbased emitters suffer from low
+quantum yields owing to nonradiative relaxation of the ex
+cited state due to the energy gap law 19. Increasing the
+rigidity of ligands 20, appropriate choice of substituents and
+their positions 21 and incorporation of peripheral fragments
+with large steric hindrance to eliminate unfavorable stack
+ing interactions 22 may be effective to enhance the intensity
+of lowenergy emission but all these design strategies have
+limitations.
+
+
+---
+
+Description:
+Used in phosphors and emitters with targeted emission characteristics.
+
+Text:
+Overall, the development of efficient iridium phosphors
+requires significant cost and experimental efforts, while the
+predictive power of stateoftheart density functional the
+ory (DFT) calculations for heavy metal complexes still needs
+to be substantially improved to enable rational design of
+iridium emitters with targeted emission characteristics. In
+turn, there is a very large body of experimental photophys
+ical data that can be used for training machine learning
+(ML) algorithms to develop a fast yet relatively accurate
+tool for predicting the photophysical properties of iridium
+complexes based solely on their molecular formula. Application of the ML methods in predicting various molec
+ular properties has become extremely popular in recent years 23,24.

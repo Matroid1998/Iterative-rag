@@ -1,0 +1,15 @@
+Description:
+Used in catalysts, though its reduction can lead to reduced catalytic activity.
+
+Text:
+of Cu and Re along
+with the reduction of Pt in the catalysts gives
+rise to reduced relative cost but also to reduced
+catalytic activity. Each subcluster in the perfor
+mance space can be linearly fitted (illustrated by
+the solid green line in Fig. 2) and corresponds to a
+subcluster in the design space where compositions
+change smoothly in this local region, ensuring a
+continuous Pareto front. It is interesting to compare these results
+with singleobjective BO as the hitherto preva
+lent approach for optimizing HEA compositions. httpsdoi.org10.26434chemrxiv2023d563d ORCID httpsorcid.org0000000208625289 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

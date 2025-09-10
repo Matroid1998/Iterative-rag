@@ -1,0 +1,29 @@
+Description:
+Represents carboxylic acid ligands in the Zr6O4(OH)4(RCOO)12 structure.
+
+Text:
+16
+Metalorganic frameworks (MOFs) hold great potential in catalysis13 as they promise to
+17
+marry the advantages of homogeneous and heterogeneous catalysts.4 Their high metal
+18
+concentrations and nearly fully exposed active sites,5 make them close to ideal single
+19
+site catalysts sought after in heterogeneous catalysis.68 A challenge is controlling the
+20
+metals coordination environment, which in MOFs is often limited by the geometries of
+21
+available secondary building units.9,10 ZrMOFs, composed of hexameric Zroxo cluster
+22
+Zr6O4(OH)4(RCOO)12 (where RCOO represents carboxylic acid ligands), exemplify this
+23
+concept, with clusters functioning as the smallest possible ZrO2 catalyst.11,12 Their reactiv
+24
+ity is not only shaped by the design principle of reticular chemistry but to a great extent by
+25
+defects.3,13,14
+26
+Keeping the analogy to bulk ZrO2 catalysts, the typical Zr6 ( hexameric Zr oxo
+27
+2
+httpsdoi.org10.26434chemrxiv202456r8t ORCID httpsorcid.org0000000349895821 Content not peerreviewed by ChemRxiv.

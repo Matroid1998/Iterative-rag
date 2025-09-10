@@ -1,0 +1,28 @@
+Description:
+Can serve as a host structure in hydrogen titanates for electrochemical applications.
+
+Text:
+They can often serve as host structures for both lithium 
+and sodiumions making them highly versatile.13 
+Hydrogen titanates are a family of metastable materials derived from layered alkali 
+titanates.4,5 They are typically synthesized in acidic solution by etching and topotactic 
+exchange of the alkali ion in the interlayer space by protons andor water.57 This provides 
+them with a high degree of structuralchemical tunability of their nanoconfined interlayer 
+composition, comparable to twodimensional Ti3C2Tx MXenes derived via a similar selective 
+etching approach.8,9 These materials nanoconfinement environment, in turn, can have an 
+effect on their electrochemical ion intercalation properties.1013 
+In the layered hydrogen titanate H2Ti3O7, it was found that confined interlayer protons are the 
+determining structural feature to enable electrochemical H intercalation.14 This is because 
+they separate the titanate layers, allowing to effectively compensate electrochemically 
+induced strain by contractionexpansion without altering intralayer structure.14 Interlayer
+expansion of layered titanate hollow spheres by confined Mg2 ions was demonstrated as a 
+design strategy for electrochemical Na intercalation hosts.15 An investigation into different 
+types of confined alkali ions (Li, Na, K, Cs) within lepidocrocitetype layered titanates 
+revealed that the interlayer spacing is expanded with increasing ion size (0.68 to 0.85 nm).16 
+However, sodiummodified titanate showed the highest capacity for electrochemical Na 
+intercalation hosts (153 mAh g1), even though this material has a smaller interlayer spacing 
+than the cesiummodified titanate (95 mAh g1), demonstrating the importance of 
+nanoconfinement chemistry in addition to just geometrical considerations.16 In the layered 
+hydrogen titanate H2Ti2O5 system, it was found that K intercalation can be accomplished most 
+efficiently, especially at low temperatures (40 C), for the material with confined interlayer 
+httpsdoi.org10.26434chemrxiv2024bh4h4 ORCID httpsorcid.org0000000194753692 Content not peerreviewed by ChemRxiv.

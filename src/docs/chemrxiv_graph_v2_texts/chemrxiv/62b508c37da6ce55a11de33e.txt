@@ -1,0 +1,14 @@
+Description:
+Solvent effects were accounted for within the polarized continuum model (PCM).
+
+Text:
+Computational details
+The quantum chemical calculations based on the density functional theory
+(DFT) done in conjunction with this study employed the GAUSSIAN 16 9
+suite of programs on the bwHPC platform 10. We used the three parameter
+B3LYP hybrid DFTHF exchange correlation functional 11, 12, 13, 14 along
+with the Pople 631G(d,p) basis sets 15, 16. Solvent (specically, methanol)
+eects were accounted for within the polarized continuum model (PCM) 17
+using the integral equation formalism (IEF) 18. For open shell radicals (ATV and ATVwoH, cf. Tables 1, S2, and S3) we
+performed unrestricted (UB3LYP) calculations. Therefore, it is worth mention
+2

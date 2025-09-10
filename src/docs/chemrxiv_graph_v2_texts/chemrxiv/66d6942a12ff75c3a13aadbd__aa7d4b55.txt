@@ -1,0 +1,13 @@
+Description:
+A polymer that can be manipulated using thermophoretic motion.
+
+Text:
+in 2002, who demonstrated the manipulation of DNA by inducing 
+thermophoretic motion through the localized heating of an aqueous solution with a focused near
+infrared laser.4 In principle, a temperature gradient of 105 to 106 K m1 is required to induce the 
+thermophoresis. By focusing laser light with an objective lens, a heating spot with a diameter of 
+approximately 1 m can be achieved,57 readily providing the necessary temperature gradient. A 
+wide range of entities, including DNA,4 polystyrene and silica microparticles,8 plasmonic 
+nanoparticles,6 Janus nanoparticles,911 surfactant micelles,12 polymers such as polyethylene 
+glycol,13 vesicles,14 and E. coli bacteria,15 have been manipulated using MST in liquids. However, a significant challenge in studying MST in liquids is the lack of a comprehensive 
+theoretical framework to fully explain this phenomenon.

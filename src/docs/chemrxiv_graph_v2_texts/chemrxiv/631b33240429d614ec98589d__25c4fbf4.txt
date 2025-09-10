@@ -1,0 +1,18 @@
+Description:
+A polymer with a piezoelectric coefficient of d33 65.3 pCN.
+
+Text:
+Stateoftheart
+polymer piezoelectric materials, attractive for flexible de
+vices such as energy harvesting cantilevers, are based on
+the polymer polyvinylidene fluoride (PVDF). The piezo
+electric coefficient of PVDFcotrifluoroethylene(TrFE)
+is d33  65.3 pCN 17, 18. Although piezoelectrics
+like PZT, AlN, and PVDF have important commercial
+applications, there remain a large parameter spaces be
+tween these known materials where combinations of prop
+erties, such as soft or flexible materials with robust or
+stable piezoelectric responses, are yet to be found. Plastic ionic molecular crystals, which consist of inor
+ganic anions bonded to organic cations, are an emerg
+ing class of ferroelectric and piezoelectrics that could fill
+many gaps in the material property space 1922.

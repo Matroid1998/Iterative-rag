@@ -1,0 +1,12 @@
+Description:
+A fluorophore commonly used in guided surgery.
+
+Text:
+In clinical settings, fluorophores like indocyanine green (ICG) and 
+methylene blue (MB) are commonly used in guided surgery.9,10 Once again, the advantages of the NIR region are 
+evident, as low scattering and absorption are accompanied by weak autofluorescence from proteins, amino acids, 
+vitamins, and other biomolecules present in different tissue compartments.1 For instance, the autofluorescence of 
+blood can serve as a biomarker for various diseases.11 However, in the context of fluorescence sensing with 
+exogenous fluorophores, it produces an interfering background, lowering the SNR and impairing the limit of 
+detection. Therefore, its of great interest to design fluorophores with emission wavelengths in the NIR range.2 Quantum 
+dots12,13, upconversion nanoparticles14 or singlewalled carbon nanotubes (SWCNTs)15 can serve this purpose. SWCNTs can be conceptualized as a rolledup single layer of graphene.

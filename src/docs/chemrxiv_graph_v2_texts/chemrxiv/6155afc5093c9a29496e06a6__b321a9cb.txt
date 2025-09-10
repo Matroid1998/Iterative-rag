@@ -1,0 +1,15 @@
+Description:
+Commonly used in precursors for CVD and ALD processes, though nitrogen-coordinated compounds remain unexplored.
+
+Text:
+Even though operational modes and conditions of MOCVD and ALD 
+processes differ, their complementary and precise applicability for the deposition of a broad 
+range of thin film materials have made them industrially indispensable in fields like 
+microelectronics, optoelectronics and photovoltaics.6 Choosing the right precursor, namely a 
+compound that is volatilized during the process to serve as chemical source for the target 
+material, for a specific application is of crucial importance hereby The precursor needs to meet 
+demanding requirements such as high thermal stability, sufficient volatility, high but 
+controllable reactivity and lastly nonetching behavior.3,4,7 Reviewing the list of commonly 
+used Co precursors, it becomes apparent that allnitrogen or predominantly nitrogen 
+coordinated compounds are widely unexplored in terms of their general suitability as precursors 
+and in terms of actual CVDALD process development.

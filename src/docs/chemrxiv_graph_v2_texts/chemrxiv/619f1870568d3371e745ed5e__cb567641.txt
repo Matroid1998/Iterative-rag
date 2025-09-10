@@ -1,0 +1,15 @@
+Description:
+An electroactive group used as a single electronic active state in tunneling mechanisms.
+
+Text:
+Tunneling mechanism can be modelled 
+based on various suppositions, while the most commonly 
+used is single level model (SLM) in both experimental and 
+theoretical studies. In this model, single electroactive state 
+is sandwiched between two electrodes with energy level 
+offset to the Fermi level of the electrodes and electronic 
+coupling to the electronic states of the electrode (figure 1). Experimentally single state junction has been achieved by 
+attaching electroactive group like ferrocene or conjugate 
+organic molecules as the single electronic active state with 
+alkane molecule as insert molecular linker to adjust the 
+coupling of the electronic state with electrode.

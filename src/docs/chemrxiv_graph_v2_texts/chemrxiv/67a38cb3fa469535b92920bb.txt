@@ -1,0 +1,16 @@
+Description:
+A class of compounds with potential health benefits, including antiinflammatory and anticancer properties.
+
+Text:
+A 
+crucial aspect of designing effective drug delivery systems is multicompartmentalization, which enables 
+the coloading of biological active cargoes with different solubility profiles or functions, ultimately im
+proving their therapeutic efficacy.3 
+One promising approach involves pHresponsive polymeric vesicles that exploit the acidic tumour micro
+environment to trigger drug release, minimizing offtarget effects.2,4 Curcumin, a natural polyphenol with 
+potent antiinflammatory and anticancer properties, holds promise but suffers from poor bioavailability 
+and rapid degradation.5,6 Prior methods, including biodegradable microspheres, hydrogels, polymeric na
+noparticles, and liposomes, have improved its stability. Encapsulation within pHresponsive polymeric 
+vesicles further enhances its therapeutic potential. Furthermore, tumour progression is often driven by 
+excessive extracellular matrix (ECM) components, such as hyaluronic acid and collagen, which hinder 
+drug penetration.

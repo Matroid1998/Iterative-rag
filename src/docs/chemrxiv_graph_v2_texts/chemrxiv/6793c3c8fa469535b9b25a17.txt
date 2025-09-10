@@ -1,0 +1,10 @@
+Description:
+Simulated at the HF level to study its molecular structure.
+
+Text:
+Patrick Huang and Emily A. Carter conducted a reviewed 
+different techniques including the ubiquitous density functional theory (DFT) and its extensions such as DFT 
+ U and hybrid DFT that locally refine the quantum treatment to improve accuracy4. Moreover, research by 
+Ziegler in 1991 underscored the superiority of the DFT approach with the HartreeFockSlater (HFS) method 
+over ab initio HF method in describing molecular structure, as evidenced by lower mean absolute error5. Hence, DFT approximations can represent a refinement of the methodology employed by Gurka and Titus, 
+who simulated nine isomers of Tetrachlorobutadiene (TCBD) at the HF level.

@@ -1,0 +1,11 @@
+Description:
+A group used in cleavable linkers for ON cleavage under nonnucleophilic and nonbasic photolytic conditions.
+
+Text:
+Many of the modified 
+nucleotides are sensitive to such conditions, and thus ONs containing them cannot be synthesized using 
+known synthesis methods. Some existing methods could be considered for the synthesis of ONs containing sensitive nucleotides. However, all of them have limitations. For example, using the phenoxyacetyl based groups for amino 
+protection, ON deprotection can be achieved under milder conditions than using typical acyl groups. However, the conditions such as dilute sodium methoxide in methanol and concentrated ammonium 
+hydroxide at room temperature are still strongly basic and nucleophilic.9 Using cleavable linkers based on 
+nitro benzyl groups, ON cleavage can be achieved under nonnucleophilic and nonbasic photolytic 
+conditions.

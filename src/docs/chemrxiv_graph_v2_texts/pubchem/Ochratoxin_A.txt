@@ -1,0 +1,32 @@
+Name: Ochratoxin A
+Text:
+Ochratoxin A can cause cancer according to The National Toxicology Program.
+Ochratoxin a is a white crystalline powder. (NTP, 1992)
+Ochratoxin A is a phenylalanine derivative resulting from the formal condensation of the amino group of L-phenylalanine with the carboxy group of (3R)-5-chloro-8-hydroxy-3-methyl-1-oxo-3,4-dihydro-1H-2-benzopyran-7-carboxylic acid (ochratoxin alpha). It is among the most widely occurring food-contaminating mycotoxins, produced by Aspergillus ochraceus, Aspergillus carbonarius and Penicillium verrucosum. It has a role as a calcium channel blocker, a mycotoxin, a nephrotoxin, a carcinogenic agent, a teratogenic agent, an Aspergillus metabolite and a Penicillium metabolite. It is a phenylalanine derivative, an organochlorine compound, a member of isochromanes, a monocarboxylic acid amide and a N-acyl-L-phenylalanine. It is functionally related to an ochratoxin alpha. It is a conjugate acid of an ochratoxin A(1-).
+Ochratoxin A has been reported in Glycyrrhiza uralensis, Aspergillus niger, and other organisms with data available.
+Ochratoxin A is a white, crystalline powder that is very unstable in the presence of light but fairly heat resistant. Ochratoxin A is a widespread, naturally occurring mycotoxin that is produced by some fungi, especially by Aspergillus and Penicillium, and is a very common food contaminant found on grains, coffee beans, nuts, decaying vegetation, moldy cereals and animal feeds. This toxin is used in research as an experimental teratogen and carcinogen. Ochratoxin A is reasonably anticipated to be a human carcinogen and may be associated with an increased risk of developing urinary tract tumors. (NCI05)
+Ochratoxin A is found in barley. Mycotoxin. Ochratoxin A is produced by Aspergillus melleus, Aspergillus sulphureus and Penicillium viridicatum.Potential contaminant of foodstuffs, especially cereals. Ochratoxin A is found in stored grain products in UK (1997).Ochratoxin A, a toxin produced by Aspergillus ochraceus and Penicillium verrucosum, is one of the most abundant food-contaminating mycotoxins in the world. Human exposure occurs mainly through consumption of improperly stored food products, particularly contaminated grain and pork products, as well as coffee, wine grapes and dried grapes. The toxin has been found in the tissues and organs of animals, including human blood and breast milk. Ochratoxin A toxicity has large species- and sex-specific differences.
+
+Ochratoxin a belongs to the family of Ochratoxins and related substances. These are compounds containing the ochratoxin skeleton, which is structurally characterized by the presence of a 3-phenylpropanoic acid N-linked to a 8-hydroxy-3-methyl-1-oxo-3,4-dihydro-1H-2-benzopyran-7-carboxamide moiety[1]. (Reference: [1] http://www.inchem.org/documents/ehc/ehc/ehc105.htm).
+Properties:safety: Acute Toxic and Irritant and Health Hazard
+smiles: C[C@@H]1CC2=C(C=C(C(=C2C(=O)O1)O)C(=O)N[C@@H](CC3=CC=CC=C3)C(=O)O)Cl
+formula: C20H18ClNO6
+chem_properties: Molecular Weight: 403.8 g/mol
+XLogP3: 4.7
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 5
+Exact Mass: 403.0822650 Da
+Monoisotopic Mass: 403.0822650 Da
+Topological Polar Surface Area: 113
+Heavy Atom Count: 28
+Formal Charge: 0
+Complexity: 608
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

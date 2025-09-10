@@ -1,0 +1,25 @@
+Name: Cyclopropanol
+Text:
+Cyclopropanol is a cyclopropane in which a hydrogen atom is replaced by a hydroxy group. It is a member of cyclopropanes and an aliphatic alcohol.
+Properties:safety: Corrosive and Acute Toxic
+smiles: C1CC1O
+formula: C3H6O
+chem_properties: Molecular Weight: 58.08 g/mol
+XLogP3: 0.1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 58.041864811 Da
+Monoisotopic Mass: 58.041864811 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 22.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

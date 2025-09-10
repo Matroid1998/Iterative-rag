@@ -1,0 +1,16 @@
+Description:
+A class of dyes where a charge is delocalized over a conjugated skeleton of an odd number of Csp2 atoms.
+
+Text:
+Polymethines are a fascinating class of dyes in which a positive 
+(or negative) charge is delocalized over the conjugated skeleton 
+comprised of an odd number of Csp2 atoms between two electron 
+donating (andor withdrawing) moieties. In the most interested 
+cyanine state (form I, Figure 1), sometimes also called ideal 
+polymethine state, the charge is delocalized over the entire 
+conjugated backbone with vanished bondlength alternation 
+(BLA, i.e. the difference between two adjoining Csp2Csp2 bonds) 
+and results in the distinctive absorption spectrum that has been 
+extensively studied over the last decades. As shown in Figure 1, 
+the absorption spectrum features a sharp, intense absorption 
+band with a characteristic highenergy shoulder.

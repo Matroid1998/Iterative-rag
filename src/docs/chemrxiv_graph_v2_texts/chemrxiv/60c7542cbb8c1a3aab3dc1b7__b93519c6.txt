@@ -1,0 +1,62 @@
+Description:
+Traditional organic macrocycles providing a well-defined host environment for guest molecules inside hydrogels.
+
+Text:
+Introduction 
+Supramolecular gels are fascinating soft materials formed by 
+hierarchical selfassembly of low molecular weight gelators 
+(LMWGs).1 Utilizing noncovalent interaction such as hydrogen 
+bonding, metalligand coordination, hydrophobic or electrostatic 
+interactions, well designed LMWGs selfassemble to form 
+supramolecular networks, which show unique properties for 
+applications in separation, drugdelivery, tissue engineering, 
+sensing and optoelectronic devices.2 Among the efforts to tune 
+the gel structures and properties, endowing supramolecular gels 
+with predefined cavities is expected to imbue these soft materials 
+with additional functionalities based on their potential hostguest 
+chemistry.3 In particular, hydrogels formed from the cavity
+containing LMWGs are of special interest because they offer great 
+promise in biological and environmental applications such as drug 
+delivery and pollutants removal, which can make full use of the 
+cavitybased hostguest chemistry.4 Most examples of cavity
+containing LMWGs reported so far are limited to traditional 
+organic macrocycles, such as cucurbitnurils,5 cyclodextrins6, 
+calixnarenes7 and pillarnarenes.8 Even though these 
+macrocycles provide a welldefined host environment for guest 
+molecules inside hydrogels, chemical synthesis of watersoluble 
+macrocycles with tunable cavity sizes, shapes and surface 
+functionality are still challenging.9 
+Coordinationdriven selfassembly can be used to prepare 
+cavitycontaining 
+molecules 
+with 
+welldefined 
+sizes 
+and 
+shapes.10 Among them, metalorganic cages (MOCs) or metal
+organic polyhedra (MOPs), a class of coordination cages with 
+welldefined internal cavities, are potential precursors to 
+incorporate cavities into hydrogels.11 By designing reactive 
+binding sites on the periphery of cages, MOPs have been 
+employed as building blocks to assemble or crosslink with other 
+molecular units into 2D or 3D extended frameworks.12 
+Specifically, by reacting with polymer linkers, MOPs have been 
+integrated into supramolecular gels with diverse properties, 
+including 
+guest 
+encapsulation, 
+selfhealing 
+and 
+stimuli 
+sensitivity.13 
+Recently, 
+we 
+reported 
+the 
+fabrication 
+of 
+supramolecular gels based on rhodiumbased cuboctahedral 
+MOPs, 
+Rh2(C12bdc)212 
+(C12RhMOP; 
+C12bdc

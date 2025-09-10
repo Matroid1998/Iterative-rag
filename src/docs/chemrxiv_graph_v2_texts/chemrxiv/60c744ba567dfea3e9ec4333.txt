@@ -1,0 +1,15 @@
+Description:
+A crystal with the shortest Cl-Cl distance of 3.65 Å, which exceeds the sum of van der Waals radii according to Bondi.
+
+Text:
+However, it has been noted4,5 that the sum 
+of RvdW for available vdW sets including the most widely used one 
+tabulated by Bondi6 consistently underestimate the position of 
+the energy minimum by as much as 0.30.4 . An illustrative 
+example is the C2Cl6 crystal with the shortest r(ClCl)  3.65  
+that exceeds significantly the 2RvdWBondi (Cl)  3.50 . The latter 
+can only be achieved at a very high pressure of ca. 1.2 GPa.7 
+Moreover, about 2.0  (4 000) of unique organic molecular 
+crystals in the Cambridge Structural Database (CSD)8 do not 
+contain intermolecular contacts shorter than sum of RvdWBondi (see 
+the first section of SI for the details).

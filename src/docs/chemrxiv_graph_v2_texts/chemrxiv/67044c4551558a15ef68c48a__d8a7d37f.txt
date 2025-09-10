@@ -1,0 +1,83 @@
+Description:
+Reactive species in biosynthesis with enhanced reactivity for promoting condensation reactions.
+
+Text:
+Thioesters are ubiquitous and wellstudied reactive species in biosynthesis. For example, 
+the active sites of polyketide synthases and nonribosomal peptide synthetases leverage 
+enhanced thioester reactivity to promote challenging condensation reactions that form new CN, 
+CO and CC bonds. The markedly higher reaction rates of thioesters compared to oxoesters 
+with various nucleophiles has been rationalized by electron delocalization effects.13 By contrast, 
+all extant ribosomes employ oxoesters to support bond forming reactions, despite the 
+observation that thioesters are generally more reactive towards amine nucleophiles.1,2 During 
+translation, thioesters could in principle substitute for oxoesters if tRNA substrates carried an SH 
+in place of OH on the 3terminal ribose.
+
+
+---
+
+Description:
+Exhibit markedly higher reaction rates compared to oxoesters due to electron delocalization effects.
+
+Text:
+Thioesters are ubiquitous and wellstudied reactive species in biosynthesis. For example, 
+the active sites of polyketide synthases and nonribosomal peptide synthetases leverage 
+enhanced thioester reactivity to promote challenging condensation reactions that form new CN, 
+CO and CC bonds. The markedly higher reaction rates of thioesters compared to oxoesters 
+with various nucleophiles has been rationalized by electron delocalization effects.13 By contrast, 
+all extant ribosomes employ oxoesters to support bond forming reactions, despite the 
+observation that thioesters are generally more reactive towards amine nucleophiles.1,2 During 
+translation, thioesters could in principle substitute for oxoesters if tRNA substrates carried an SH 
+in place of OH on the 3terminal ribose.
+
+
+---
+
+Description:
+Generally more reactive towards amine nucleophiles.
+
+Text:
+Thioesters are ubiquitous and wellstudied reactive species in biosynthesis. For example, 
+the active sites of polyketide synthases and nonribosomal peptide synthetases leverage 
+enhanced thioester reactivity to promote challenging condensation reactions that form new CN, 
+CO and CC bonds. The markedly higher reaction rates of thioesters compared to oxoesters 
+with various nucleophiles has been rationalized by electron delocalization effects.13 By contrast, 
+all extant ribosomes employ oxoesters to support bond forming reactions, despite the 
+observation that thioesters are generally more reactive towards amine nucleophiles.1,2 During 
+translation, thioesters could in principle substitute for oxoesters if tRNA substrates carried an SH 
+in place of OH on the 3terminal ribose.
+
+
+---
+
+Description:
+More reactive towards amine nucleophiles than oxo esters.
+
+Text:
+However, substituting a sulfur for an oxygen atom in an 
+acyltRNA could impact translation positively or negatively at multiple steps during, before, or after 
+the translation cycle. Although thioesters are more reactive towards amine nucleophiles than oxo
+esters,1,4 CS bonds are longer than CO bonds, and Satoms more polarizable than Oatoms; 
+thiols and thioethers donate and accept Hbonds differently than alcohols,57 making the overall 
+effect of sulfur substitution on ribosomal protein synthesis challenging to predict.
+
+
+---
+
+Description:
+May have played a key role in the origin of life by generating oligomeric peptides with potential catalytic activity.
+
+Text:
+Steps in 
+translation that could be affected by these differences include tRNA maturation, in which the tRNA 
+3terminal CCA nucleotides are added, tRNA aminoacylation, tRNA delivery to the ribosome 
+during mRNA decoding, and finally peptide bond formation in the ribosomal active site, the 
+peptidyl transferase center (PTC).8 
+Many have theorized that thioesters may have played a key role in the origin of life,912 
+wherein aminoacyl thioesters1315 could have generated oligomeric peptides with potential 
+catalytic activity10, thereby acting as a link between the prebiotic and RNA world.16,17 Prebiotically 
+plausible synthetic routes to nucleosides with 2thiolmodified ribose have been identified and 
+routes to 3thiolmodifications proposed, further strengthening the possibility that short 
+sequences of modified RNAs could have acted as early amino acid transfer reagents as the first 
+RNA protoribosomes evolved.9,13,15 Thus, despite modern peptidyl transfer in the ribosome using 
+exclusively oxoesterlinked aminoacyltRNA, it is possible that thioesters rather than oxoesters 
+acted as early intermediates in ribosomal peptide synthesis.18,19

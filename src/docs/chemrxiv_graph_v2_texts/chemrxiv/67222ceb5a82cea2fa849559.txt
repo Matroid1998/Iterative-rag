@@ -1,0 +1,22 @@
+Description:
+Involved in sequestration processes for subsurface disposal and environmental applications.
+
+Text:
+33 
+Numerical simulations of chemical diffusion coupled with porescale chemical 
+34 
+reactions play a fundamental role in a wide range of applications, including the 
+35 
+development of subsurface disposal of nuclear waste repositories 1, CO2 
+36 
+sequestration 2, assessment of contaminants transport in lakes, rivers, soils, and 
+37 
+marine sediments 3, and hydrocarbon recovery 4. However, under natural 
+38 
+conditions, understanding these processes is particularly challenging due to the 
+39 
+complexity inherent in the system and the difficulty in retrieving or accessing detailed 
+40 
+information. Moreover, these processes can occur over spatial scales ranging from 
+41 
+micrometers to kilometers and temporal scales ranging from (sub)seconds to years.

@@ -1,0 +1,10 @@
+Description:
+A gaseous fuel produced via the reduction of water in the Hydrogen Evolution Reaction (HER).
+
+Text:
+Electrochemical water splitting is a potentially carbonneutral method of splitting 
+water into gaseous H2 fuel and O2 via electrical energy from renewable sources. H2O is 
+oxidized to O2 in the Oxygen Evolution Reaction (OER) at the anode and reduced to H2 in 
+the Hydrogen Evolution Reaction (HER) at the cathode. Electrochemical H2 production is 
+generally performed entirely in alkaline media but HER is much more favorable in acidic 
+media.

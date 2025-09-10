@@ -1,0 +1,60 @@
+Description:
+A positively charged ion formed by the oxidation of water in positive ionmode ESI.
+
+Text:
+In posi
+tive ionmode ESI (ESI), a positively charged capillary in
+duces oxidation of water to form droplets containing H3O, 
+while in negative ionmode ESI (ESI), a negatively charged 
+capillary induces reduction of water to form droplets containing 
+OH. As droplets evaporate, charge is moderated by an equilib
+rium between the electrostatic repulsion of solvated ions and the 
+surface tension of the droplet. If the electrostatic repulsion ex
+ceeds the surface tension, charge carriers such as H3O or OH 
+are ejected. Droplets therefore maintain a charge near the max
+imum stable value, which can be calculated via the Rayleigh 
+limit where max charge is zr, droplet radius is r, 0 is vacuum 
+permittivity, and  is surface tension (eq. 1).
+
+
+---
+
+Description:
+A solvated ion that can carry charge in ionization processes.
+
+Text:
+803 
+(1) 
+Native proteins are thought to ionize primarily via the 
+charged residue model (CRM), where charge is transferred to 
+the protein upon complete droplet desolvation and release into 
+the gasphase.10 This leads to protein ions often adopting charge 
+states near the Rayleigh limit of a proteinsized droplet. nMS is 
+conducted with conditions to maximize the preservation of na
+tivelike structure into the gasphase. While charge can be car
+ried by solvated ions other than H3O or OH, such as metal 
+salts, salts induce severe signal suppression of protein spectra.11 
+ESI of proteins is therefore typically conducted under desalted 
+conditions to form protonated or deprotonated protein ions.
+
+
+---
+
+Description:
+Concentrated during droplet evaporation, leading to acidification.
+
+Text:
+As 
+droplets evaporate, H3O or OH is concentrated, leading to 
+acidification or basification, respectively.12 To counteract this 
+effect and prevent protein denaturation, a volatile buffer, such 
+as ammonium acetate, is often used, resulting in the droplet 
+charge being carried by ammonium or acetate ions as opposed 
+to H3O or OH. Ammonium acetate prevents large shifts in 
+droplet pH and provides ionic strength, both of which maintain 
+nativelike protein structure without degrading the resulting 
+mass spectra.13 Despite widespread use and recognition of na
+tive ESIMS, a molecular perspective of ESI has remained elu
+sive, stemming from the experimental difficulty of characteriz
+ing electrosprayed droplets with sizes and lifetimes in the micro 
+to nanoscale.

@@ -1,0 +1,25 @@
+Name: 2,5-Dihydroxy-1,4-benzoquinone
+Text:
+2,5-Dihydroxy-1,4-benzoquinone has been reported in Aspergillus fumigatus with data available.
+Properties:safety: Irritant
+smiles: C1=C(C(=O)C=C(C1=O)O)O
+formula: C6H4O4
+chem_properties: Molecular Weight: 140.09 g/mol
+XLogP3: -0.3
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 140.01095860 Da
+Monoisotopic Mass: 140.01095860 Da
+Topological Polar Surface Area: 74.6
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 231
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

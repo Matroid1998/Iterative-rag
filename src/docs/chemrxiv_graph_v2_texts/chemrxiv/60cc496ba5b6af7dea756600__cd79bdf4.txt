@@ -1,0 +1,14 @@
+Description:
+Difficult to separate from N2 due to similar physical properties such as kinetic diameter, polarizability, and boiling point.
+
+Text:
+Whilst several MOFs based on firstrow transition metals are 
+known for switchable magnetic characteristics under the influence of guest molecule7, 
+temperature8, and pressure,9 there are only a few reports on high selectivity towards oxygen. The 
+selective adsorption of oxygen over other gases that generate high purity oxygen ( 99) has 
+applications in healthcare, oxyfuel combustion10, ozone generation, semiconductors and other 
+industries. This is a challenging task, as the separation of O2 from the N2 mixture is a hassle due 
+to the similarity in their physical properties11, such as kinetic diameter, polarizability, boiling point, 
+etc. The current industry standard is cryogenic separation, which demands high pressure, 
+temperature and large infrastructure that escalate production costs. Thus, an alternative separation 
+technique based on porous material is in high demand.

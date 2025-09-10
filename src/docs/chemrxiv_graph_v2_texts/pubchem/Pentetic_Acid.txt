@@ -1,0 +1,31 @@
+Name: Pentetic Acid
+Text:
+Pentetic acid is a pentacarboxylic acid. It has a role as a copper chelator. It is a conjugate acid of a pentetate(1-).
+Pentetic acid, also known as diethylenetriaminepentaacetic acid (DTPA), is a synthetic polyamino carboxylic acid with eight coordinate bond forming sites that can sequester metal ions and form highly stable DTPA-metal ion complexes. DTPA, along with its calcium and zinc trisodium salts, are the only FDA approved agents for the treatment of internal contamination by transuranics. It is currently considered, in all the dosage forms, as a member of the list of approved inactive ingredients for drug products by the FDA. DPTA was developed by the pharmaceutical company CIS US and FDA approved on April 14, 2004.
+Pentetic acid is a Lead Chelator. The mechanism of action of pentetic acid is as a Lead Chelating Activity.
+Pentetic Acid is an edetate and a chelating agent used in preparing radiopharmaceuticals. Pentetic acid (DTPA) has strong affinity for iron but also shows affinities for other heavy metals, thereby is used in the treatment of iron-storage disease and poisoning from heavy and radioactive metals. DTPA may chelate metallic moieties of unbound, extracellular radioimmunotherapeutics, thereby aggregating radioimmunotherapeutics locally to higher concentrations, and improving tumor cell radiocytotoxicity, while sparing normal tissues from the radiocytotoxic effects. In addition, DTPA is used in radioimaing procedures when complexes with radioisotopes, ex., Tc 99m or In 111.
+PENTETIC ACID is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2004 and has 4 investigational indications. This drug has a black box warning from the FDA.
+An iron chelating agent with properties like EDETIC ACID. DTPA has also been used as a chelator for other metals, such as plutonium.
+See also: Pentetate Calcium Trisodium (active moiety of); Pentetate Zinc Trisodium (active moiety of); Indium In-111 Pentetate Disodium (active moiety of).
+Properties:safety: Irritant and Health Hazard
+smiles: C(CN(CC(=O)O)CC(=O)O)N(CCN(CC(=O)O)CC(=O)O)CC(=O)O
+formula: C14H23N3O10
+chem_properties: Molecular Weight: 393.35 g/mol
+XLogP3: -8.5
+Hydrogen Bond Donor Count: 5
+Hydrogen Bond Acceptor Count: 13
+Rotatable Bond Count: 16
+Exact Mass: 393.13834394 Da
+Monoisotopic Mass: 393.13834394 Da
+Topological Polar Surface Area: 196
+Heavy Atom Count: 27
+Formal Charge: 0
+Complexity: 481
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

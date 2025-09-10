@@ -1,0 +1,17 @@
+Description:
+Used in vapor deposition techniques to form thin films of copper.
+
+Text:
+Calculated using the PBE0 hybrid
+functional with the inclusion of
+spinorbit coupling (SOC). Plotted
+using SUMO. 34
+(c) Schematic molecular orbital (MO)
+diagram of CuI. Upon the inclusion of
+SOC, further splitting occurs on the
+2 5MOs into light and heavy hole
+channels and a spinorbit splitoff
+band, as seen in (b). Figure 1. Crystal and electronic structure of CuI. In addition to its rather attractive electronic structure, the simplicity of CuI is another strong fac
+tor in its revival in popularity. Good quality thin lms can be deposited via relatively straightforward
+techniques such as vaporising iodine onto thin lms of copper ( la Bdeker), 35 solid and solution
+Willis, J., Claes, R. et al. 2023

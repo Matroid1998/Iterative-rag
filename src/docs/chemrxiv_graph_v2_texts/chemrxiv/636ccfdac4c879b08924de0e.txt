@@ -1,0 +1,13 @@
+Description:
+Elements with electronic structures that feature long-lived excited states and sharp 4f4f emission bands, exhibiting photoluminescence properties.
+
+Text:
+3
+The electronic structure of lanthanides gives place to energy ladders featuring long lived excited 
+states that originate sharp 4f4f emission bands spanning a large range of wavelengths (from the 
+NIR to the UV and visible region).12 This engenders photoluminescence properties that find 
+applications in a wide variety of fields. The latter include medical imaging and bioassays,3 solar 
+energy harvesting,46 data transmission and telecommunications,7 or light emitting devices.8 These 
+Laporte forbidden intraconfigurational 4f4f transitions exhibit long radiative emission lifetimes as 
+well as reduced absorption coefficients, restricting the access to the emitting excited states via 
+direct light absorption.

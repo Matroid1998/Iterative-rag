@@ -1,0 +1,13 @@
+Description:
+A bond connecting the N-terminal amino group and the carboxylic acid side chain in lasso peptides.
+
+Text:
+Lasso peptides involve a 1rotaxane topology with a macrolactam ring 
+threaded by the Cterminal tail.8,17 The ring is held in position by sterically bulky residues above 
+and below the ring, which act as plugs. The ring in the lasso peptide is connected by an 
+isopeptide bond between the Nterminal amino group and the carboxylic acid side chain of an 
+aspartate or glutamate, which can be located at positions 7, 8, or 9 of the amino acid sequence 
+depending on the specific Lasso peptide. Lasso peptides exhibit unique properties, including 
+protease stability, thermostability, and thermal switchability.17 
+Computational modeling can provide valuable insight into the dynamics1824 and non
+covalent interactions2528 of proteins that govern structurefunction relationships.

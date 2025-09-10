@@ -1,0 +1,12 @@
+Description:
+A complex analyzed for metal-metal bonding through high-level computational calculations.
+
+Text:
+The Xray data is available just for the neutral 
+structure. Thus, there is little information regarding the nature of the metalmetal bonding in the oxidized 
+and reduced species from electrochemistry and DFT calculations.6a,b Hight level computational calculations 
+offer fundamental insight into the nature of metalmetal bonding in the neutral, oxidized, and reduced 
+species of the ReTpMePC2011 and the OsTpMePC2011 complexes. However, rationalizing the 
+nature of metalmetal bonding is challengeable from theoretical perspectives.7 
+The most popular computational method is DFT. It has been used for dealing with large systems, in 
+particular, those that contain transition metals.

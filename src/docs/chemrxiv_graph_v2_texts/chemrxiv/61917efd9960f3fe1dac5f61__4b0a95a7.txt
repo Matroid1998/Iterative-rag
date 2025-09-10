@@ -1,0 +1,26 @@
+Description:
+Acts as a pore blocker for Kir channels.
+
+Text:
+Inward rectifier potassium (Kir) channels are expressed in tissues throughout the body where 
+they play central roles in many physiological processes, such as parasympathetic slowing of the 
+heart1, pain perception2, and pancreatic insulin secretion.39 Some mutations in these channels 
+result in improper trafficking that is associated with Andersen syndrome.10 In particular, 
+phosphatidylinositol 4,5bisphosphate (PI(4,5)P2), a minor component of the cytoplasmic 
+leaflet,11 is required for activation of all Kir channels.1215 Kir channels are also regulated by many 
+other molecules including phosphorylation by kinases, sodium, pore blockers (polyamine, Mg2), 
+and ethanol.10, 16, 17 There are seven subfamilies of Kir channels classical Kir channels (Kir2.x) are 
+strong rectifiers that have central roles in cardiac inward rectifier current; Kir3.x channels are 
+unique in that they require G in addition to PIP2 for function with some of these channels 
+modulated by sodium ions; ATPsensitive potassium channels (Kir6.x); and transport potassium 
+channels (Kir1.x, Kir4.x, Kir5.x, and Kir7.x).9, 10, 1821 
+
+All Kir channels form tetrameric complexes composed of similar or different subunits.15, 22, 23 Each 
+subunit encodes two transmembrane domains (TMD), in which the K selectivity filter resides, 
+that is tethered by a short linker to the cytoplasmic domain (CTD).22, 23 Structures have also 
+revealed a PI(4,5)P2 binding pocket located at the interface of the TMD and CTD.15, 23 The binding 
+pocket is a highly conserved region consisting of a set positively charged amino acid residues that 
+engage the phosphorylated headgroup of PI(4,5)P2.15, 23, 24 Mutations in residues important for 
+binding the signaling lipid are associated with Bartter and Andersen syndromes, and other 
+diseases.5, 25, 26 The specific lipid binding site within Kir channels has garnered the attention of 
+computational studies to identify and predict lipidbinding sites on ion channels.2730

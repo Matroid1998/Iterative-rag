@@ -1,0 +1,13 @@
+Description:
+A polyvalent anion that is quite polarizable.
+
+Text:
+One of the earliest results of surfacesensitive vibrational sumfrequency generation
+(VSFG) experiments 1,2 was the observation that soft anions impact the vibrational
+lineshape in the OH stretching region, but that hard anions do not 36. The term soft
+is chosen carefully here, as an alternative to polarizable, and can be roughly interpreted
+as monovalent and polarizable, equivalent to having a low surface charge density 7. (Such ions are sometimes called chaotropic 8.) Although the surface activity of certain
+anions is often discussed in terms of polarizability 917, it should be noted that polyvalent
+anions such as SO2
+4 (aq) are quite polarizable 18, however the presence of such ions in
+solution does not affect the OH lineshape measure in VSFG experiments 19.

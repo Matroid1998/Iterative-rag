@@ -1,0 +1,14 @@
+Description:
+A linear cation used to form a 3D network with dimers of edge-sharing octahedra.
+
+Text:
+For example, in the series of linear cations of general formula NH3(CH2)mNH32 (m 
+ 4, 7, 8, 10, 12), the cations with even carbonchain lengths formed 2D perovskites, while 
+those with odd carbon chain lengths formed a 1D structure.4 Very recently, the structural 
+diversity of systems incorporating a diammonium cations has been further expanded towards 
+3D halide perovskitoids using linear cations such as 1,4butanediamine (1,4BDA), N,N
+dimethyl1,3propanediamine (NMPA), or N,Ndimethylethylenediamine (DMEA) providing a 
+structural motif comprising dimers with edgesharing octahedra which are then connected 
+through cornersharing bond to form a 3D network.5 In these systems, the optical properties are 
+close to traditional 3D MHPs with the bandgap being mainly influenced by standard octahedra 
+distortion parameters.

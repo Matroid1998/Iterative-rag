@@ -1,0 +1,14 @@
+Description:
+Compounds that can generate reactive acyl radicals.
+
+Text:
+This light requirement 
+comes with serious disadvantages, such as known photodegradation of the lightsensing 
+chromophore,23,24 as well as lightpenetration during process scaleupintensification.25 
+Remarkably, some EREDs do not require light to access single electron chemistries with 
+bromoacetophenones, generating reactive acyl radicals that have been shown to react with styrenes.26 
+In the case of prochiral styrenes, such as methyl styrene, the benzylic radical intermediate formed after 
+radical addition to the double bond is terminated via a highly enantioselective hydrogen atom transfer 
+(HAT) from the FMN cofactor; however, larger substituents than methyl or ethyl have been reported to 
+give only traces of conversion.26 Inspired by this reaction, we envisaged that radical addition to prochiral 
+vinyl sulfides followed by enantioselective HAT would generate chiral thioethers (Figure 1E).

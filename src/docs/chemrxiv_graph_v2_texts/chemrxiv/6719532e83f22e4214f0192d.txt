@@ -1,0 +1,16 @@
+Description:
+A residue used to create tritopic ligands for Pd3L4 cage self-assembly.
+
+Text:
+Creating functional, and particularly chiral, 
+cage cavities remains challenging.22,23 
+Figure 1. a. Oligoproline ligand used to assemble a Pd2L4 metal
+peptidic cage in our previous work. Residues on the n and n3 are 
+aligned on the same face of the helix, allowing installation of metal 
+binding groups at the 1st and 10th residue.27,28 b. Additional modi
+fication at the 4th or 7th residues with 4RS hydroxyproline creates 
+tritopic ligands for Pd3L4 cage selfassembly. One way to functionalize the interior of metalorganic cages 
+is to use tritopic, linear, ligands to create differentiated cavities 
+in a single assembly in peanut cages.24, 25 However, the assem
+bly of peanut cages from low symmetry ligands is rare, limit
+ing their anisotropy.

@@ -1,0 +1,25 @@
+Description:
+A metal oxide candidate as an adsorbent for enhancing the decomposition of CWAs.
+
+Text:
+For example, destructionbased methods (typically
+23
+pyrolysis) allow a onestep approach for the complete disposal of CWAs at the expense of
+24
+using specialized equipment under extreme conditions.1,2 On the other hand, neutralization
+25
+methods oer potentially reversible chemical treatments, leading to possible CWA precursors
+26
+under less severe conditions.1
+27
+Recent studies have shown that metal oxides can eectively destroy CWAs due to their
+28
+high surface area, a large number of highly reactive edges, corner defect sites, unusual lattice
+29
+planes, and high surfacetovolume ratios. In particular, metal oxides, such as CaO,3,4
+30
+MgO,5,6 ZnO,79 TiO2,1016 Al2O3,1720 Fe3O4,21 and CuO22 are candidates as adsorbents
+31
+for enhancing the decomposition of CWAs. In Al2O3, Al atoms in the bulk exhibit either a
+32
+tetrahedral or octahedral coordination.

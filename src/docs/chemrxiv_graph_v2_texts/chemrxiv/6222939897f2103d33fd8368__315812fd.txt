@@ -1,0 +1,12 @@
+Description:
+A metal-organic framework whose isomer population affects cluster formation.
+
+Text:
+of ions (Na, F) and the relative population of MIL101(Cr) half
+secondary building unit (halfSBU) isomers has a strong influence on the cluster formation process. In more detail, the shape, 
+size, nucleation and growth rates, crystallinity and short and longrange order largely vary depending on the synthesis con
+ditions. We evaluate these properties as they naturally emerge when interpreting selfassembly of MOF nuclei as the time
+evolution of an undirected graph. Solutioninduced conformational complexity and ionic concentration have a dramatic effect 
+on the morphology of clusters emerging during assembly, such diversity is captured by key features of the graph representa
+tion. More precisely, pure solvent leads to rapid formation of a small number of large clusters, while ions result in slower 
+nucleation through smaller clusters in water.

@@ -1,0 +1,39 @@
+Description:
+Enable light control for the assembly of nanosized building blocks into various dimensional matter.
+
+Text:
+Derivatives of azobenzene enable the use of light as a non
+invasive stimulus to control the properties of matter on var
+ious length scales.13 Among many other applications, pho
+toswitches based on the NN double bond motif hold signif
+icant promise in energy storage technologies,4,5 provide 
+possibilities to steer the target affinity of drug molecules,6,7 
+or allow to control catalyst activity.811 Beyond that, 
+azoarenes enable light control for the assembly of nano
+sized building blocks into one (e.g., supramolecular poly
+mers),1216 two (e.g., interfaces),1719 or threedimensional 
+(e.g., micro or nanoparticle assemblies) matter.20,21 
+In all cases, the underlying concept relies on the activation 
+of the E azo double bond into its Z form,22 which is associ
+ated with significant changes of the molecules shape and 
+dipole moment.
+
+
+---
+
+Description:
+Small molecules that can be activated without synthetic modification through energy transfer processes.
+
+Text:
+Recently, Klajn and coworkers presented a strategy that al
+lows for the activation of small molecule azoarenes without 
+the necessity of their synthetic modification.29 By confining 
+the E photoswitches with a visible light absorbing photo
+sensitizer as heterodimers within a nanopore30 (for the mo
+lecular components, see Fig. 1A), isomerization with ener
+gies corresponding to green, yellow, orange, or red light 
+could be achieved through an energy transfer process.3133 
+Crucially, the Z isomer of the applied switches is sterically 
+more demanding and hence does not form analogous heter
+odimers with the respective sensitizers, preventing ZtoE 
+isomerization and accordingly resulting in its accumulation.

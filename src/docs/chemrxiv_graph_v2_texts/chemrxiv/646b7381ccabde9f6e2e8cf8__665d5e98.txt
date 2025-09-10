@@ -1,0 +1,42 @@
+Description:
+A carbon allotrope known for its superior mechanical and thermal properties.
+
+Text:
+Intensive research efforts are currently underway to identify novel carbon allotropes with the goal 
+of achieving specific mechanical and thermal properties approaching those of diamond. For this 
+purpose, modern materials research programs based on evolutionary crystallography are used to 
+predict novel allotropes 1. Regarding the carbon database, SACADA 2 is recognized as a 
+reliable one available to all researchers. The novel allotropes are subjected to topology analysis 
+using TopCryst software 3 and then published in the Cambridge Structural Database (CCDC). Despite the help provided by AI in generating carbon stoichiometries and structures, the role of the 
+physicist and chemist remains essential, especially in the crystal chemistry that underlies structural 
+engineering.
+
+
+---
+
+Description:
+An allotrope with a body-centered tetragonal structure, characterized by C4 tetrahedra and dia topology.
+
+Text:
+To illustrate this approach, and keeping in mind the C4 tetrahedron building block of diamond, a 
+simple arrangement of 8 C4 tetrahedra at a cube corner and center is shown in Fig. 1a, with both 
+ballandstick and tetrahedral representations exhibiting cornersharing tetrahedra. The resulting 
+bodycentered tetragonal (bct) structure C4 submitted to quantum mechanical calculation within the 
+Density Functional Theory (DFT) 4,5 to obtain the ground state energy and related properties was 
+found to be another formulation of diamond, and the allotrope is qualified with dia topology (Table 
+1) 6. Using bct C4 as a template, we devised novel simple allotropes, such as the latest one hybrid 
+(sp3sp2) C6 with tfa topology, which we called neoglitter (cf. 7 and the works cited therein).
+
+
+---
+
+Description:
+Exhibits ultrahardness and high phonon optical mode frequencies of 40 THz.
+
+Text:
+Within a similar approach, we propose herein two novel carbon allotropes, tetragonal C9 and C12, 
+both characterized by sp3 carbon in original architectures comprising corner and edge sharing 
+tetrahedra. The purpose of this paper is to present their crystal structures and to demonstrate 
+ultrahardness, while also presenting high phonon optical mode frequencies of   40 THz like in 
+diamond and C4, a large electronic band gap, and a temperature evolution of the heat capacity close 
+to that of diamond.

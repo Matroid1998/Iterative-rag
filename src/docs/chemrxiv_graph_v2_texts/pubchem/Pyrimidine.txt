@@ -1,0 +1,31 @@
+Name: Pyrimidine
+Text:
+Pyrimidine is the parent compound of the pyrimidines; a diazine having the two nitrogens at the 1- and 3-positions. It has a role as a Daphnia magna metabolite. It is a member of pyrimidines and a diazine.
+Pyrimidine is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Pyrimidine has been reported in Homo sapiens, Panax ginseng, and other organisms with data available.
+Pyrimidine is one of two classes of heterocyclic nitrogenous bases found in the nucleic acids DNA and RNA: in DNA the pyrimidines are cytosine and thymine, in RNA uracil replaces thymine.
+Pyrimidine Dimer is a pair of pyrimidine bases (thymine or cytosine in DNA or uracil in double-stranded RNA) within a nucleic acid covalently linked by a cyclobutane ring, the formation of which was induced by exposure to ultraviolet radiation. The presence of pyrimidine dimers inhibits DNA replication; improper repair of these lesions promotes DNA mutagenesis.
+PYRIMIDINE is a small molecule drug with a maximum clinical trial phase of III (across all indications) and has 4 investigational indications.
+See also: Thymine (has subclass); Uracil (has subclass); Cytosine (has subclass).
+Properties:safety: Flammable and Corrosive
+smiles: C1=CN=CN=C1
+formula: C4H4N2
+chem_properties: Molecular Weight: 80.09 g/mol
+XLogP3: -0.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 80.037448136 Da
+Monoisotopic Mass: 80.037448136 Da
+Topological Polar Surface Area: 25.8
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 32.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

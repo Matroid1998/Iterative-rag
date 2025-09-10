@@ -1,0 +1,14 @@
+Description:
+Used in the synthesis of InP quantum dots to generate the core.
+
+Text:
+The development of colloidal quantum dot (QD) syntheses has allowed for control over 
+their attractive optoelectronic properties. Many of these synthetic methods begin empirically 
+with a limited understanding of the underlying nucleation and growth mechanisms. InP QDs 
+have emerged as a commercially relevant, emissive material and as such their formation 
+pathways have been the subject of deep investigation. Today, the stateoftheart method for 
+producing InP QDs involves the combination of indium carboxylates (In(O2CR)3) and 
+tris(trimethylsilyl)phosphine (P(SiMe3)3) to generate the core QDs before shelling with ZnS and 
+ZnSe.1,2 While InP QD synthesis has been optimized to the point of commercial production, one 
+of the characteristics that still hinders progress on color purity is the monodispersity of the InP 
+cores.

@@ -1,0 +1,20 @@
+Description:
+Compounds with rich photochemical properties that enable photoassisted catalysis.
+
+Text:
+Transition metal hydrides (TMH) have rich photochemical 
+properties.1 In some cases, these enable photoassisted cataly
+sis. Examples of these key properties include lightinduced M
+H homolysis,2 reductive elimination of H2 from cisdihydrides,3 
+altered chemical properties (e.g., pKa, hydricity, etc. ),4 and pho
+toisomerization (e.g., photoswitch).5 When these processes are 
+chemically reversible, it benefits the system in several ways, 
+one of which is preventing the formation of offpath photogen
+erated thermodynamic sinks. However, designing reversibility 
+into a TMH photocatalyst is not always predictable or straight
+forward. Phenomenologically, the cisdihydride motif is best 
+suited to this end because they tend to exhibit said properties.1 
+During the course of our studies,6 we discovered a Ru al
+cohol dehydrogenation precatalyst (1) with a nominally onpath 
+cisdihydride complex (3) exhibiting reversible photochemical 
+reactivity.

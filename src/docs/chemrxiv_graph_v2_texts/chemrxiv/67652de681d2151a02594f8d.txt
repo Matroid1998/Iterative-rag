@@ -1,0 +1,14 @@
+Description:
+Models expanded with Martini 28 for membrane-related applications.
+
+Text:
+With the release of Martini 28, it became possible not only to expand the library of 
+phospholipid models9, but also to include new lipids such as sterols10 and glycolipids11, 
+12, as well as proteins13, 14, nucleic acids15, 16, carbohydrates17, and other 
+biomolecules18, 19. Over the years, Martini has been used in a wide range of 
+membranerelated applications, including domain formation20, complex membrane 
+compositions21, 22, membrane remodeling23, 24, proteinlipid interactions25, 26, and 
+permeability27, 28. These studies have provided crucial insights into biological 
+processes at the mesoscopic scale, bridging the gap between atomistic simulations 
+and experimental observations and enabling insitu simulations of membranes in the 
+context of a realistic cellular environment29, 30.

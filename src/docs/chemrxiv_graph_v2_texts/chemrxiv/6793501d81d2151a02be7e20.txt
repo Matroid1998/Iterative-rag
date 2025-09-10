@@ -1,0 +1,76 @@
+Description:
+Undergoes hybridization changes from C(sp2) to C(sp3) during phase transitions.
+
+Text:
+and context. The change from 2D Graphiticlike carbon to 3D Diamondlike structure (G2D) involves 
+physical and chemical mechanisms that have been studied both experimentally and at 
+different levels of modeling over the last 25 years. In 1999, Fayos showed that successive 
+contractions of graphite in different directions, accompanied with C(sp2) to C(sp3) 
+hybridization change simulate G2D phase transition 1. Recently we proposed to broaden the 
+G2Dlike changes approach to be initiated by i the puckering of the atomic planar G layers 
+by driving selected carbon atoms into offplane positions on the one hand, and ii a 
+rationalized interlayer insertion of extra C to enforce the 3D structure, on the other hand (cf. 2 and therein cited works).
+
+
+---
+
+Description:
+Forms various allotropes characterized by high hardness.
+
+Text:
+Also, the simultaneous presence of the two types of 
+hybridizations was reported for a series of carbon allotropes characterized with high hardness 
+3. Both last works were based on crystal engineering investigations and supported by 
+quantum mechanics calculations within the Density Functional Theory (DFT) 4, 5. From ab initio random structure search combined with DFT investigations of the ground 
+state properties Mujica et al. 6 proposed body center tetragonal (BCT) tetragonal C16. The 
+structure is documented in the carbon allotropes database SACADA 7 with No. 66 and the 
+topology 45t1. Such a topology analyzer is readily available online with the TopCryst 
+program 8. Fig. 1a shows the C16 structure with space group I41a, No.
+
+
+---
+
+Description:
+Has a body center tetragonal (BCT) structure in the C16 allotrope.
+
+Text:
+Also, the simultaneous presence of the two types of 
+hybridizations was reported for a series of carbon allotropes characterized with high hardness 
+3. Both last works were based on crystal engineering investigations and supported by 
+quantum mechanics calculations within the Density Functional Theory (DFT) 4, 5. From ab initio random structure search combined with DFT investigations of the ground 
+state properties Mujica et al. 6 proposed body center tetragonal (BCT) tetragonal C16. The 
+structure is documented in the carbon allotropes database SACADA 7 with No. 66 and the 
+topology 45t1. Such a topology analyzer is readily available online with the TopCryst 
+program 8. Fig. 1a shows the C16 structure with space group I41a, No.
+
+
+---
+
+Description:
+Forms a trigonal structure in a polyhedral projection when one of two substructures is removed.
+
+Text:
+88, in ballandstick 
+and polyhedral representations of C at 16f 0.0986, 0.34645, 0.02958) with atet 4.474 , and 
+ctet4.500 . By considering the structure in a lower symmetry BCT space group I41 No. 80, 
+the 16 atoms become dispatched over two Wyckoff positions at (8b) with 0.0986, 0.34645, 
+0.02958 as above, and a second 8b with 0.34645,0.901400, 0.97042 and the same lattice 
+constants as above. The structure, with two similar carbon substructures, is shown in Fig. 1b 
+in two different colors of spheres. We then noticed that the removal of one of the two 
+substructures leads to C8 (Fig. 1c) featuring a trigonal carbon structure as shown on the right
+handside RHS polyhedral projection.
+
+
+---
+
+Description:
+Forms trigonal and tetrahedral structures in 3D crystal builds.
+
+Text:
+The structure was found with srs topology (SACADA 
+No.5 9) representing trigonal carbon in a 3D crystal build, i.e., versus G planar trigonal 
+carbon in G2D approach, as discussed above. Consequently, the interconnections of the two 
+trigonallike carbon substructures lead to the tetrahedral structure as shown in this example. Based on these observations aiming to extend the approach trigonal 2D carbon  
+tetrahedral 3D carbon to trigonal 3D carbon  tetrahedral 3D carbon transformations, a 
+novel allotrope BCTC20 is proposed herein with dia topology, close to diamond in all its 
+httpsdoi.org10.26434chemrxiv20258mt3k ORCID httpsorcid.org000000015419358X Content not peerreviewed by ChemRxiv. License CC BY 4.0

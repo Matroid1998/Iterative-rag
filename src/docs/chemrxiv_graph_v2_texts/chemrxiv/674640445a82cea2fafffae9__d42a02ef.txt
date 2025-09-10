@@ -1,0 +1,21 @@
+Description:
+A gasotransmitter used in therapeutic applications for selective ligand release.
+
+Text:
+Transition metal complexes (TMCs) have long been utilized in medicinal chemistry 
+for a variety of therapeutic applications, including anticancer and antimicrobial 
+treatments, due to their rich excitedstate properties.13 Particularly, TMCs that enable 
+selective ligand release have proven highly effective in drug delivery systems.4 One 
+class of these ligands includes gasotransmitterssmall molecules such as nitric oxide 
+(NO) and carbon monoxide (CO).5 Several TMCs have been developed as tools for 
+releasing these small molecules for therapeutic purposes.68 For instance, ruthenium 
+and ironbased complexes are used for NO release,9,10 while rhenium and manganese
+based complexes are employed for CO release.11,12 A major global threat today is 
+antimicrobial resistance (AMR), which is projected to result in 10 million deaths 
+annually by 2050, alongside a reduction in global economy by 2 to 3.5, costing the 
+world up to 100 trillion.1315 One promising approach to combat AMR is through the 
+use of CO, a gasotransmitter with known antimicrobial properties, which has been 
+studied as a potential treatment for infectious diseases.16 Recently, photoactivatable 
+carbon monoxide releasing molecules (PhotoCORMs) have been suggested as a new 
+synthetic class of antimicrobials to fight against AMR, such molecules enable spatial 
+and temporal control of CO release process.17

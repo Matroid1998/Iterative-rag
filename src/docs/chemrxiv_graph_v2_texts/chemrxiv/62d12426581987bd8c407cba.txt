@@ -1,0 +1,13 @@
+Description:
+Key structural constituents of membranes with polar head groups and lipophilic tails.
+
+Text:
+Membranes function as biological barriers that separate cells from the environment and delineate 
+different cellular compartments; they are crucial in maintaining the life sustaining chemical and 
+electrical gradients. The key structural constituents of membranes are phospholipids that form the 
+membrane surface with their polar head groups and the membrane core with their lipophilic tails 
+(Fig 1). In addition to phospholipids, biological membranes contain for example cholesterol, 
+proteins, ions, and oligosaccharides. Lipid bilayers play central role in several biological and 
+pathological processes such as cell division, intracellular membrane trafficking, and formation of 
+lipid rafts (1, 2). To fully understand these processes, atomistic and molecular level understanding 
+of lipids is required (3).

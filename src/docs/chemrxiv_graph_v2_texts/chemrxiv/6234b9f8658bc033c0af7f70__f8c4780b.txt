@@ -1,0 +1,20 @@
+Description:
+Often present in pharmacologically active drugs, particularly in heterocycle rings.
+
+Text:
+While prior studies demonstrate successful fluorination of some 
+substrates, typically without heteroatoms7681, pharmacologically
+active drugs often involve the presence of fluorine in heterocycle 
+rings, steroids (and their derivatives), etc., including N andor O 
+heteroatoms103. In this study, we first aim to understand the ground 
+spin state of the Mnporphyrin intermediates as predicted by 
+hybrid density functional theory (DFT) and its sensitivity to the 
+functional. We then compute reaction energies along the catalytic 
+cycle for substrates used in prior experimental studies76 to estimate 
+a possible role of thermodynamic factors in the control of 
+reactivity 
+and 
+regioselectivity 
+of 
+Mnporphyrincatalyzed 
+fluorination.

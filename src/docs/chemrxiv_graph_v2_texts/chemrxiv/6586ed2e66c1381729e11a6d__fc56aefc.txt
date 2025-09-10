@@ -1,0 +1,37 @@
+Description:
+Molecular oxygen used as the oxidant in redox reactions during contaminant biodegradation.
+
+Text:
+32
+Understanding biodegradation processes of anthropogenic organic contaminants in natural and
+33
+engineered environments including soils, sediments, as well as (waste)water treatment plants is
+34
+a critical step for designing measures that maintain ecosystem services and sustainable access to
+35
+food and water under increasing human impact.15 Contaminant biodegradation routes often
+36
+involve redox reactions with molecular O2 as the oxidant.
+
+
+---
+
+Description:
+Uncoupling phenomenon associated with the release of reactive oxygen species.
+
+Text:
+En
+47
+vironmental microbiomes are continuously exposed to a broad variety of organic contaminants
+48
+that causes microbes to adapt their metabolism to xenobiotic compounds as novel substrates
+49
+and metagenomic information indeed hints at ongoing sequence mutations.10,11,2936
+50
+It is hypothesized that the evolution of oxygenases that can transform new contaminants in
+51
+biodegradation processes is tied to the erroneous handling of activated oxygen and the ensuing
+52
+release of reactive oxygen species (ROS),3739 a phenomenon referred to as O2 uncoupling.4045
+53
+Reactions with ROS can in fact inactivate proteins.

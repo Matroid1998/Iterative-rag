@@ -1,0 +1,28 @@
+Name: Methadone Hydrochloride
+Text:
+Methadone hydrochloride is a hydrochloride. It contains a methadone.
+Methadone Hydrochloride is the hydrochloride salt of methadone, a synthetic opioid with analgesic activity. Similar to morphine and other morphine-like agents, methadone mimics the actions of endogenous peptides at CNS opioid receptors, primarily the mu-receptor, resulting in characteristic morphine-like effects including analgesia, euphoria, sedation, respiratory depression, miosis, bradycardia and physical dependence. Because of the prolonged half-life of methadone compared to other morphine-like agents such as heroin, the onset of opiate withdrawal symptoms is slower, the duration of opiate withdrawal is prolonged, and opiate withdrawal symptoms are less severe.
+METHADONE HYDROCHLORIDE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1947 and has 3 approved and 2 investigational indications. This drug has a black box warning from the FDA.
+A synthetic opioid that is used as the hydrochloride. It is an opioid analgesic that is primarily a mu-opioid agonist. It has actions and uses similar to those of MORPHINE. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1082-3)
+See also: Methadone (has active moiety); Levomethadone hydrochloride (annotation moved to).
+Properties:safety: Acute Toxic and Irritant and Health Hazard
+smiles: CCC(=O)C(CC(C)N(C)C)(C1=CC=CC=C1)C2=CC=CC=C2.Cl
+formula: C21H28ClNO
+chem_properties: Molecular Weight: 345.9 g/mol
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 7
+Exact Mass: 345.1859422 Da
+Monoisotopic Mass: 345.1859422 Da
+Topological Polar Surface Area: 20.3
+Heavy Atom Count: 24
+Formal Charge: 0
+Complexity: 346
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

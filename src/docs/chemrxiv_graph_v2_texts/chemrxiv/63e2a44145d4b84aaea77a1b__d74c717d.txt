@@ -1,0 +1,17 @@
+Description:
+A material used in detectors that are highly sensitive to NO2 even at room temperature.
+
+Text:
+For most TMDs, the sheets can be
+either semiconducting (1H) or metallic (1T) 9, and for the former, the
+size of the bandgap depends on the comprising elements and the num
+ber of sheets stacked 1012. As a result, TMDs offer good chemical
+stability and a versatile set of electronic properties, which have ben
+efited several highperformance electronic devices, notably chemical
+sensors and fieldeffect transistors (FETs). Detectors based on MoS2
+and MoTe2 have been reported as highly sensitive to NO2 even when
+operating at room temperature 1317, despite conventional metal
+oxidesemiconductor (MOS) sensors requiring heating to several hun
+dred C to operate efficiently 1820. Likewise, TMDbased FETs
+have shown improved performance 2123 and low devicetodevice
+variation 24, illustrating the maturity of the processing technology.

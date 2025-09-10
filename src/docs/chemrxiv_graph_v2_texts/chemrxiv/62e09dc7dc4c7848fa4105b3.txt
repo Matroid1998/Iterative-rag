@@ -1,0 +1,14 @@
+Description:
+A perfectly folded helix with three repeat units per turn, stabilized by arenearene interactions.
+
+Text:
+oPhenylenes are simple class of aromatic foldamers.1820 An example of a perfectly folded
+ophenylene heptamer, oP7, is shown in Figure 1. The helix has three repeat units per turn,
+stabilizing the folded conformer through arenearene interactions between every third repeat
+unit. oPhenylenes are conformationally dynamic and their geometries can be studied in
+detail by NMR spectroscopy, making them wellsuited to studying problems in molecular
+folding. In recent work, we have demonstrated the coassembly of ophenylenes and rodshaped
+linkers into macrocycles comprising multiple foldamer subunits as simple examples of folded
+systems with higherorder structure.21,22 However, there is essentially no stereocontrol in
+these systems the product macrocycles comprise both twist senses of the foldamers (M and
+P) in statistical ratios.

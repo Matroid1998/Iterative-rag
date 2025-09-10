@@ -1,0 +1,11 @@
+Description:
+A p-type oxide with low mobility and conductivity due to the polaronic nature of holes bound to Cu states at the valence band maximum.
+
+Text:
+High mobility ptype transparent conducting materials (TCMs) have eluded researchers for decades. The unlikely bedfellows of optical transparency, valence band dispersion and correct point defect
+chemistry prove dicult to unite, with this strict requirement precluding the vast majority of mate
+rials from ever displaying ptype transparent conducting properties. Early efforts focused on the
+development of ptype oxides, such as CuAlO2, 1 attempting to mimic the wide optical band gap
+of the ntype transparent conducting oxides. However, CuAlO2 and other delafossite materials are
+plagued by low mobility and conductivity due to the polaronic nature of the holes generated in
+these systems, which are bound to Cu states at the valence band maximum.

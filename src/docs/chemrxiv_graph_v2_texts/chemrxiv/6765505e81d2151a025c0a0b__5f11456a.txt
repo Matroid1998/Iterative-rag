@@ -1,0 +1,13 @@
+Description:
+A molecule whose deliverable capacity in molecular crystals can be predicted using geometric descriptors such as accessible surface area and pore diameters.
+
+Text:
+Hence, many of the inherently local graphbased deep architectures fail to capture
+globaldriven properties, while traditional ML models that use handcrafted descriptors have proved more
+successful in capturing spatial information in some cases 14, 15. Handcrafted descriptors such as smooth
+overlap of atomic positions (SOAP) 16 and atomcentered symmetry functions (ACSFs) 17 have proven
+effective in predicting properties like lattice energy 12, while geometric descriptors such as accessible
+surface area and pore diameters have been used to predict the methane deliverable capacity of molecular
+crystals 18 as well as other globaldriven properties of porous materials 19. More recently, persistent
+homology 20, 21 has been shown to successfully encode global molecular geometric features into machine
+learned representations 22.

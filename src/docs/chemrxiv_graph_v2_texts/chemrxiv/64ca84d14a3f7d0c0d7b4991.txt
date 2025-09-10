@@ -1,0 +1,29 @@
+Description:
+A Janus Kinase (JAK) inhibitor used for its capacity to suppress inflammation via modulation of JAK-STAT signalling pathways.
+
+Text:
+Janus Kinase (JAK) inhibitors were recently identified as promising drug candidates for 
+repurposing in Alzheimers disease (AD) due to their capacity to suppress inflammation via modulation 
+of JAKSTAT signalling pathways. Besides interaction with primary therapeutic targets, JAK inhibitor 
+drugs frequently interact with unintended, often unknown, biological offtargets, leading to 
+associated effects. Nevertheless, the relevance of JAK inhibitors offtarget interactions in the context 
+of AD remains unclear. Methods Putative offtargets of baricitinib and tofacitinib were predicted using a machine learning 
+(ML) approach. After screening scientific literature, offtargets were filtered based on their relevance 
+to AD. Targets that had not been previously identified as offtargets of baricitinib or tofacitinib were 
+subsequently tested using biochemical or cellbased assays.
+
+
+---
+
+Description:
+Inhibits casein kinase 2 subunit alpha 2 (CK2a2) and dual leucine zipper kinase (MAP3K12) with Kd values of 5.8 M.
+
+Text:
+From those, active concentrations were 
+compared to bioavailable concentrations in the brain predicted by physiologically based 
+pharmacokinetic (PBPK) modelling. Results With the aid of ML and in vitro activity assays, we identified two enzymes previously unknown 
+to be inhibited by baricitinib, namely casein kinase 2 subunit alpha 2 (CK2a2) and dual leucine zipper 
+kinase (MAP3K12), both with Kd values of 5.8 M. Predicted maximum concentrations of baricitinib in 
+brain tissue using PBPK modelling range from 1.3 to 23 nM, which is two to three orders of magnitude 
+below the corresponding binding constant. Conclusion In this study, we extended the list of baricitinib offtargets that are potentially relevant 
+for AD progression and predicted drug distribution in the brain.

@@ -1,0 +1,30 @@
+Description:
+A microporous solid with pores that molecules must navigate to access reaction sites.
+
+Text:
+Previously, we did not consider
+the role of diffusion; in the leadup to the reaction, molecules
+must navigate the zeolite pores to access reaction sites and the
+reaction site becomes accessible for further reactions after prod
+uct molecules diffuse away. At elevated temperatures the reac
+tion potentially becomes diffusion limited, if the ratelimiting step
+shifts to diffusion of reactants in and products out of the reac
+tion site. Many factors affect the diffusion of molecules in mi
+croporous solids, and molecular dynamics (MD) simulations have
+long been used to elucidate the dynamics of organic molecules in
+porous systems.
+
+
+---
+
+Description:
+A material with a flexible framework affecting diffusion properties.
+
+Text:
+Key to this is the flexibility of both the organic
+and inorganic components.11 It is not possible to know a priori
+how zeolite flexibility will affect diffusion, so results with a fixed
+framework cannot be extrapolated to one which is flexible.12
+Compounding this, recent work by Xu et al. has demonstrated
+Journal Name, year, vol.,16  1
+httpsdoi.org10.26434chemrxiv2024r3lpqv2 ORCID httpsorcid.org0000000326590806 Content not peerreviewed by ChemRxiv. License CC BY 4.0

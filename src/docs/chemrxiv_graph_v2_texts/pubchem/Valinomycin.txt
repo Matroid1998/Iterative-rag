@@ -1,0 +1,30 @@
+Name: Valinomycin
+Text:
+Shiny crystalline solid. Used as an insecticide and nematocide. Not registered as a pesticide in the U.S. (EPA, 1998)
+Valinomycin is a twelve-membered cyclodepsipeptide composed of three repeating D-alpha-hydroxyisovaleryl-D-valyl-L-lactoyl-L-valyl units joined in sequence. An antibiotic found in several Streptomyces strains. It has a role as an antiviral agent, an antimicrobial agent, a potassium ionophore and a bacterial metabolite. It is a cyclodepsipeptide and a macrocycle.
+A cyclododecadepsipeptide ionophore antibiotic produced by Streptomyces fulvissimus and related to the enniatins. It is composed of 3 moles each of L-valine, D-alpha-hydroxyisovaleric acid, D-valine, and L-lactic acid linked alternately to form a 36-membered ring. (From Merck Index, 11th ed) Valinomycin is a potassium selective ionophore and is commonly used as a tool in biochemical studies.
+Valinomicin has been reported in Streptomyces tsusimaensis, Streptomyces levoris, and other organisms with data available.
+Valinomycin is a cyclic depsipeptide isolated from the bacterium Streptomyces fulvissimus.  As a potassium-specific ionophore, mould element causes loss of mitochondrial membrane potential, thereby initiating cellular apoptosis. (NCI04)
+A cyclododecadepsipeptide ionophore antibiotic produced by Streptomyces fulvissimus and related to the enniatins. It is composed of 3 moles each of L-valine, D-alpha-hydroxyisovaleric acid, D-valine, and L-lactic acid linked alternately to form a 36-membered ring. (From Merck Index, 11th ed) Valinomycin is a potassium selective ionophore and is commonly used as a tool in biochemical studies.
+Properties:safety: Acute Toxic
+smiles: C[C@H]1C(=O)N[C@H](C(=O)O[C@@H](C(=O)N[C@@H](C(=O)O[C@H](C(=O)N[C@H](C(=O)O[C@@H](C(=O)N[C@@H](C(=O)O[C@H](C(=O)N[C@H](C(=O)O[C@@H](C(=O)N[C@@H](C(=O)O1)C(C)C)C(C)C)C(C)C)C)C(C)C)C(C)C)C(C)C)C)C(C)C)C(C)C)C(C)C
+formula: C54H90N6O18
+chem_properties: Molecular Weight: 1111.3 g/mol
+XLogP3: 9.1
+Hydrogen Bond Donor Count: 6
+Hydrogen Bond Acceptor Count: 18
+Rotatable Bond Count: 9
+Exact Mass: 1110.63116004 Da
+Monoisotopic Mass: 1110.63116004 Da
+Topological Polar Surface Area: 332
+Heavy Atom Count: 78
+Formal Charge: 0
+Complexity: 1910
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 12
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

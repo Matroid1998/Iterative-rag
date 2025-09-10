@@ -1,0 +1,22 @@
+Description:
+A base photocatalyst with relatively poor visible light absorption and quantum efficiency.
+
+Text:
+The past decades have seen a rapid growth of research on the potential applications of
+nanoparticles,1 and their assembly as artificial atoms into increasingly complex structures
+and composite materials.2,3 Motivated by favourable properties, such as the high density of
+active unsaturated atoms residing on their surface,4 and discontinuous effects arising from
+their confined electronic band structure,5 nanoparticles and nanoparticle composites are of
+specific interest to fields ranging from catalysis6 to nanophotonics.7
+One of the more promising aspects of using nanostructured materials is the ability to
+combine mixtures of different nanoparticles to improve the performances of the starting ma
+terials or even observe emergent properties.8,9 This feature has been regularly exploited in
+heterogeneous photocatalysis, where the relatively poor visible light absorption and quan
+tum efficiency of base photocatalysts such as TiO2 can be improved by incorporating co
+catalyst metal nanoparticles.10,11 Typically, materials are functionalised with nanoparticles
+by either synthesising the nanoparticles directly onto the support,12 or by heteroaggregating
+presynthesised metal nanoparticles.13 In this second approach, the size and the geometry of
+the nanoparticles can be predefined, in turn providing greater control over their functional
+ity1416
+However, there are significant hurdles still facing the application of nanoparticles to many
+realworld situations.

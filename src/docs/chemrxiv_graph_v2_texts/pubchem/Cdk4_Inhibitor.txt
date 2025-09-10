@@ -1,0 +1,24 @@
+Name: Cdk4 Inhibitor
+Text:
+Properties:safety: Health Hazard
+smiles: C1=CC=C2C(=C1)C3=C4C(=C5C6=C(C=C(C=C6)Br)NC5=C3N2)C(=O)NC4=O
+formula: C20H10BrN3O2
+chem_properties: Molecular Weight: 404.2 g/mol
+XLogP3: 4.3
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 402.99564 Da
+Monoisotopic Mass: 402.99564 Da
+Topological Polar Surface Area: 77.8
+Heavy Atom Count: 26
+Formal Charge: 0
+Complexity: 657
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

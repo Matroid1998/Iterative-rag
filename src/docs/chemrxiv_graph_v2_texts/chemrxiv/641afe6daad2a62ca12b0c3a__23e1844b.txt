@@ -1,0 +1,11 @@
+Description:
+A type of glass used as a substrate for ITO films in laser patterning processes.
+
+Text:
+Laser Digital Patterning (LDP)15 and Pulsed Laser Deposition 
+(PLD)16 processes for fabrication of ITO electrodes are examples of these kind. A nanosecond Nd YAG infrared laser for indirect 
+laser ablation to pattern ITO on its glass substrate was reported17. Another interesting example is the pattern formation on ITO films 
+coated on borosilicate glass by scanning a linearly polarized nanosecond pulsed laser beam, making use of a selforganization 
+phenomenon named laserinduced periodic surface structures (LIPSS)18. Apart from these examples, there are other reports on laser 
+patterning of ITO using other lasers, such as an UVexcimer laser and femtosecondpulsed laser19, but none of these gives the 
+advantage of being widely available and preferably affordable means of fabrication of microelectrodes.

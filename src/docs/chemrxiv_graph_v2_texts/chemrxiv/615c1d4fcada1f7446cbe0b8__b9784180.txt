@@ -1,0 +1,13 @@
+Description:
+Harmful compounds produced during ozone production in air.
+
+Text:
+Traditionally, ozone is 
+produced in air (or oxygen) via corona discharge, under very high voltages.6 This process is 
+energy intensive, requires a high initial cost, and produces large amounts of heat and also 
+harmful nitrogen oxides (in air).79 In contrast, electrochemical ozone production (EOP) has 
+gained much attention as dissolved ozone can be produced simply by oxidizing water at a 
+suitable anode, with the advantages of a smallscale and robust experimental setup, low 
+voltage operation, high current efficiency and no gas feedstocks.10 
+Efficient EOP requires an anode that electrocatalytically favors EOP over the oxygen 
+evolution reaction (OER).

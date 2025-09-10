@@ -1,0 +1,13 @@
+Description:
+A component of nitrogen-containing moieties prevalent in high-throughput screening libraries.
+
+Text:
+Nitrogencontaining moieties, specifically aryl and heteroaryl amines (e.g. 1), are 
+omnipresent in stateoftheart highthroughput screening (HTS) libraries and bioactive 
+molecules1. The synthetic ease of forming the CN bond with ubiquitous aromatic coupling 
+partners2 has greatly facilitated their prevalence. Recent advancements in medicinal chemistry 
+have shifted focus towards compounds with high fraction of C(sp3)rich, as they exhibit improved 
+physicochemical and pharmacokinetic properties (Figure 1A). This has led to an exploration of 
+methods to access threedimensional chemical spaces3, 4, including novel methods to make caged 
+hydrocarbons, such as bicyclopentanes5 and cubanes6. Despite these advancements, efficient 
+methods to access complex, C(sp3)rich amines (e.g.

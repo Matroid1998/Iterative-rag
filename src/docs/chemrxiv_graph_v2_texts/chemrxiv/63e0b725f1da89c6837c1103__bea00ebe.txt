@@ -1,0 +1,24 @@
+Description:
+A compound involved in sunlight-driven reduction processes for renewable fuel and chemical generation.
+
+Text:
+15
+Photocatalysis offers a pathway for green energy and chemical industry alternatives such
+16
+as sunlightdriven water splitting and CO2 reduction. In such processes, solartochemical
+17
+energy conversion provides the driving force to generate renewable fuels and chemicals as a
+18
+promising solution to the energy and environmental crisis. In short, vastly available sunlight
+19
+in a photocatalytic system is absorbed, followed by photogeneration of separated charge
+20
+carriers in the material valence (VB) and conduction (CB) bands. These charge carriers can
+21
+participate in the desired surface reactions.1,2
+22
+Whether the promise of a photocatalysisbased sustainable future can reach industrial
+23
+plants strongly depends on finding a material that can optimally fulfill requirements for each
+24
+step of a photocatalytic process.

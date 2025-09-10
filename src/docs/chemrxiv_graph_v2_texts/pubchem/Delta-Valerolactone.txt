@@ -1,0 +1,26 @@
+Name: Delta-Valerolactone
+Text:
+5-valerolactone is the simplest member of the class of delta-lactone that is tetrahydro-2H-pyran substituted by an oxo group at position 2. It derives from a hydride of an oxane.
+delta-Valerolactone has been reported in Clerodendrum mandarinorum and Aspalathus linearis with data available.
+Properties:safety: Corrosive
+smiles: C1CCOC(=O)C1
+formula: C5H8O2
+chem_properties: Molecular Weight: 100.12 g/mol
+XLogP3: -0.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 100.052429494 Da
+Monoisotopic Mass: 100.052429494 Da
+Topological Polar Surface Area: 26.3
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 78.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,27 @@
+Name: Cocarboxylase
+Text:
+Thiamine(1+) diphosphate chloride is an organic chloride salt of thiamine(1+) diphosphate. It is an organic chloride salt and a vitamin B1. It contains a thiamine(1+) diphosphate.
+The coenzyme form of Vitamin B1 present in many animal tissues. It is a required intermediate in the pyruvate dehydrogenase complex and the ketoglutarate dehydrogenase complex.
+Thiamine pyrophosphate is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+The coenzyme form of Vitamin B1 present in many animal tissues. It is a required intermediate in the PYRUVATE DEHYDROGENASE COMPLEX and the KETOGLUTARATE DEHYDROGENASE COMPLEX.
+Properties:safety: Irritant
+smiles: CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCOP(=O)(O)OP(=O)(O)O.[Cl-]
+formula: C12H19N4O7P2S.Cl
+chem_properties: Molecular Weight: 460.77 g/mol
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 12
+Rotatable Bond Count: 8
+Exact Mass: 460.0138218 Da
+Monoisotopic Mass: 460.0138218 Da
+Topological Polar Surface Area: 197
+Heavy Atom Count: 27
+Formal Charge: 0
+Complexity: 568
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

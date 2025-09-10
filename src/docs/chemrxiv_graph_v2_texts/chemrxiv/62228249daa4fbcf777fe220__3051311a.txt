@@ -1,0 +1,12 @@
+Description:
+An inorganic species with a relatively small ionization potential used in n-type doping.
+
+Text:
+Doping is essential in achieving any functional organic semiconductor with a high carrier 
+concentration regardless of its pntype categorization. One common method of ntype doping in 
+organic semiconductors is to treat them with inorganic species that have relatively small ionization 
+potentials (e.g. hydrazine vapor, iodine vapor, sodium metal, etc.) or, more commonly, to combine 
+them with other organic compounds with relatively low electron affinity.14 This is typically 
+accomplished by combining the dopant with the host in the solution phase and casting the mixture 
+into thin films. In many instances, the dopants tend to aggregate together and phase segregate from 
+the host, ultimately altering the morphology of the resulting solidstate matrix.

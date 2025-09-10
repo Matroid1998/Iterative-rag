@@ -1,0 +1,15 @@
+Description:
+A complex involved in benchmark interaction energy studies.
+
+Text:
+of the L7127 and S12L55,94 test sets. The L7
+complexes are depicted in Fig. 14, to which we have added a 132atom buckyballinaring system
+(C606CPPA). The latter was taken from a recent study,131 in which several of the complexes
+in Fig. 14 are found to be problematic for methods well beyond DFT, aording disagreements
+amongst the best ab initio benchmarks. For C606CPPA, guaninecytosine on circumcoronene
+(C3GC), and the paralleldisplaced coronene dimer (C2C2PD), benchmark interaction energies
+obtained from xednode diusion Monte Carlo (FNDMC) calculations disagree with CCSD(T)
+CBS results.131 The CCSD(T) calculations were performed using a localorbital approximation, in
+this case localized natural orbital (LNO)CCSD(T),296299 and such approximations are not without
+22
+httpsdoi.org10.26434chemrxiv2023xgr3qv3 ORCID httpsorcid.org0000000216632278 Content not peerreviewed by ChemRxiv. License CC BY 4.0

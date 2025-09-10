@@ -1,0 +1,26 @@
+Name: 2-Naphthol
+Text:
+2-naphthol is a naphthol carrying a hydroxy group at position 2. It has a role as an antinematodal drug, a genotoxin, a human xenobiotic metabolite, a mouse metabolite, a human urinary metabolite and a radical scavenger.
+2-Naphthol is a colorless crystalline solid and an isomer of 1-naphthol, differing by the location of the hydroxyl group on naphthalene. The naphthols are naphthalene homologues of phenol, with the hydroxyl group being more reactive than in the phenols. 2-Naphthol has several different uses including dyes, pigments, fats, oils, insecticides, pharmaceuticals, perfumes, antiseptics, synthesis of fungicides, and antioxidants for rubber. Detection of 2-Naphthol in urine usually results from long-term persistent exposure to pesticides such as chlorpyrifos, but also due to exposure to naphthalene in older types of mothballs, fires that produce polyaromatic hydrocarbons (PAHs), and tobacco smoke.
+Properties:safety: Irritant and Environmental Hazard
+smiles: C1=CC=C2C=C(C=CC2=C1)O
+formula: C10H8O
+chem_properties: Molecular Weight: 144.17 g/mol
+XLogP3: 2.7
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 144.057514874 Da
+Monoisotopic Mass: 144.057514874 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 133
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,32 @@
+Name: Linezolid
+Text:
+Linezolid is an organofluorine compound that consists of 1,3-oxazolidin-2-one bearing an N-3-fluoro-4-(morpholin-4-yl)phenyl group as well as an acetamidomethyl group at position 5. A synthetic antibacterial agent that inhibits bacterial protein synthesis by binding to a site on 23S ribosomal RNA of the 50S subunit and prevents further formation of a functional 70S initiation complex. It has a role as an antibacterial drug and a protein synthesis inhibitor. It is an oxazolidinone, a member of morpholines, an organofluorine compound and a member of acetamides.
+Linezolid is a synthetic antibiotic which is used for the treatment of infections caused by aerobic Gram-positive bacteria. Its effects are bacteriostatic against both enterococci and staphylococci and bactericidal against most isolates of streptococci. Linezolid exerts its antibacterial activity by inhibiting the initiation of bacterial protein synthesis - more specifically, it binds to the 23S ribosomal RNA of the 50S subunit and, in doing so, prevents the formation of the 70S initiation complex which is essential for bacterial reproduction.  Linezolid was initially approved in 2000 and was the first member of the oxazolidinone antibiotic class. A second member of this class, [tedizolid], was approved by the FDA in 2014 and is considered generally more effective and tolerable than its predecessor.
+Linezolid is an Oxazolidinone Antibacterial.
+Linezolid is an oxazolidinone class antibiotic that is used for serious or problematic infections caused by resistant enterococcal or staphylococcal organisms. Prolonged therapy with linezolid has been linked to rare instances of lactic acidosis and liver injury probably as a result of hepatic mitochondrial toxicity.
+Linezolid is a synthetic oxazolidinone derivative, Linezolid selectively inhibits an early step in bacterial protein synthesis and affects blood pressure through monoamine oxidase inhibition. It is effective against Gram-positive organisms, including methicillin-resistant Staphylococcus aureus strains, coagulase-negative Staphylococci, vancomycin-resistant Enterococci, and penicillin-resistant Streptococcus pneumoniae strains. (NCI04)
+LINEZOLID is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2000 and has 5 approved and 17 investigational indications.
+Linezolid is only found in individuals that have used or taken this drug. It is a synthetic antibiotic, the first of the oxazolidinone class, used for the treatment of infections caused by multi-resistant bacteria including streptococcus and methicillin-resistant Staphylococcus aureus (MRSA). Linezolid is a synthetic antibacterial agent of the oxazolidinone class of antibiotics. It has in vitro activity against aerobic Gram positive bacteria, certain Gram negative bacteria and anaerobic microorganisms. It selectively inhibits bacterial protein synthesis through binding to sites on the bacterial ribosome and prevents the formation of a functional 70S-initiation complex. Specifically, linezolid binds to a site on the bacterial 23S ribosomal RNA of the 50S subunit and prevents the formation of a functional 70S initiation complex, which is an essential component of the bacterial translation process. The results of time-kill studies have shown linezolid to be bacteriostatic against enterococci and staphylococci. For streptococci, linezolid was found to be bactericidal for the majority of strains. Linezolid is also a reversible, nonselective inhibitor of monoamine oxidase. Therefore, linezolid has the potential for interaction with adrenergic and serotonergic agents.
+An oxazolidinone and acetamide derived ANTI-BACTERIAL AGENT and PROTEIN SYNTHESIS INHIBITOR that is used in the treatment of GRAM-POSITIVE BACTERIAL INFECTIONS of the skin and respiratory tract.
+Properties:safety: Health Hazard
+smiles: CC(=O)NC[C@H]1CN(C(=O)O1)C2=CC(=C(C=C2)N3CCOCC3)F
+formula: C16H20FN3O4
+chem_properties: Molecular Weight: 337.35 g/mol
+XLogP3: 0.7
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 4
+Exact Mass: 337.14378429 Da
+Monoisotopic Mass: 337.14378429 Da
+Topological Polar Surface Area: 71.1
+Heavy Atom Count: 24
+Formal Charge: 0
+Complexity: 472
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

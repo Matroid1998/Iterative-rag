@@ -1,0 +1,46 @@
+Description:
+A metal with high specific capacity used in solid-state batteries, but prone to void formation at the solid-state electrolyte interface during discharge.
+
+Text:
+The high specific capacity of lithium metal and its compatibility with various solidstate 
+electrolytes (SSEs) has focused efforts on developing lithium metal solidstate batteries (SSBs) (14). However, a critical limitation of lithium metal anodes for SSBs is the loss of contact at the SSE interface 
+during lithium stripping (i.e., battery discharge) due to void formation (1,2,5,6). The formation of voids is 
+detrimental because they cause high interfacial impedance and current focusing during charging, resulting 
+in lithium filament growth, short circuiting, and cell failure (710). The mechanisms governing void formation are complex, and the process is affected by current 
+density, stack pressure, chemomechanics, and other factors (7,9,1115). During stripping, vacancies are 
+formed in the lithium metal at the SSE interface due to Li transfer into the SSE.
+
+
+---
+
+Description:
+A metal with relatively low self-diffusivity and a bulk yield strength of 0.8 MPa.
+
+Text:
+Since lithium metal exhibits 
+relatively low selfdiffusivity (1010 cm2 s1) (1619), the vacancies tend to accumulate to nucleate voids 
+(Fig. 1a). Higher current densities increase the vacancy formation rate and can thus accelerate void 
+formation (9,13,16,20). The application of stack pressure can deform soft lithium metal (bulk yield strength 
+of 0.8 MPa) to promote contact retention during stripping, but stack pressures greatly exceeding the yield 
+strength have been shown to be required at moderate current densities to prevent void formation (7 MPa 
+for 1 mA cm2) (7,9). Moreover, lithium shows heightened yield strength at submicron length scales, which 
+may result in even higher stack pressures needed when using SSE interfaces with nanoscale roughness (21
+24). Critically, stack pressures must be less than 1 MPa for practical applications (2527).
+
+
+---
+
+Description:
+Used in anodes that retain interfacial contact at high current densities and low stack pressures.
+
+Text:
+These factors 
+urgently motivate the development of lithium anodes that retain interfacial contact at high current densities 
+and low stack pressures. A variety of interfacial engineering approaches has been pursued to improve the performance of 
+lithium metal anodes in SSBs. Interlayers comprising other materials, such as carbon or lithium metal 
+alloys, have been shown to enable improved performance. In general, these interlayer or composite 
+materials enhance Li transport toward the SSE interface, homogenize current distributions, and can help 
+maintain interfacial contact (2832). However, these approaches have primarily utilized hard or brittle 
+interlayer materials to passively control Li transport, and some of these materials undergo transformations 
+themselves (3335). These approaches therefore usually require stack pressures similar to that needed for 
+Li metal to maintain interfacial contact (see Fig. S1).

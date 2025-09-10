@@ -1,0 +1,28 @@
+Name: Mimosine
+Text:
+L-mimosine is an L-alpha-amino acid that is propionic acid substituted by an amino group at position 2 and a 3-hydroxy-4-oxopyridin-1(4H)-yl group at position 3 (the 2S-stereoisomer). It a non-protein plant amino acid isolated from Mimosa pudica. It has a role as an EC 1.14.18.1 (tyrosinase) inhibitor and a plant metabolite. It is a non-proteinogenic L-alpha-amino acid and a member of 4-pyridones. It is functionally related to a propionic acid. It is a conjugate acid of a L-mimosine(1-). It is a tautomer of a L-mimosine zwitterion.
+Mimosine is an antineoplastic alanine-substituted pyridine derivative isolated from Leucena glauca.
+L-mimosine has been reported in Arabidopsis thaliana, Euglena gracilis, and Caenorhabditis elegans with data available.
+3-Hydroxy-4-oxo-1(4H)-pyridinealanine. An antineoplastic alanine-substituted pyridine derivative isolated from Leucena glauca.
+Properties:safety: Irritant
+smiles: C1=CN(C=C(C1=O)O)C[C@@H](C(=O)O)N
+formula: C8H10N2O4
+chem_properties: Molecular Weight: 198.18 g/mol
+XLogP3: -3.5
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 3
+Exact Mass: 198.06405680 Da
+Monoisotopic Mass: 198.06405680 Da
+Topological Polar Surface Area: 104
+Heavy Atom Count: 14
+Formal Charge: 0
+Complexity: 321
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

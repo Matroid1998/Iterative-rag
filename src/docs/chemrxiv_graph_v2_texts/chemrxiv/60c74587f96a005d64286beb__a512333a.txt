@@ -1,0 +1,15 @@
+Description:
+Formed by the extraction of a proton by a base, leading to an enol intermediate in aromatic nucleophilic substitution.
+
+Text:
+Clayden et al. published a methodology research of amino acid synthesis in Nature at 
+2018 
+1(Fig.1). The rearrangement reaction (called Clayden rearrangement) in this process has 
+an abnormal Hammet linear free energy relationship. The reaction constant  is significant 
+smaller than the normal aromatic nucleophilic substitution reaction in electronrich area and 
+it is minus in electrondeficiency area. Figure 1 General Formula of Clayden Rearrangement 
+
+Clayden et al. demonstrated the existence of enol anions by experiments. The proton 
+was extracted by the base to obtain an enol intermediate, then subjected to an aromatic 
+nucleophilic substitution to obtain another anion intermediate. The product is obtained by 
+work up.

@@ -1,0 +1,24 @@
+Description:
+Molecules found in many commercially successful drugs.
+
+Text:
+It is a wellknown phenomenon in drug discovery that many bioactive compounds share 
+the same scabold1,2. Among these privileged groups, bicyclic Nheterocycles such as 
+benzimidazoles, benzoxazoles, and (tetrahydro)isoquinolines are overrepresented, 
+making them very important targets for synthetic strategies. Consequently, many of these 
+privileged groups have already been accessed via biocatalytic routes, which are often 
+discussed in the context of sustainable synthesis36. However, enzymatic routes have not 
+been described for all Nheterocyclic groups, such as in the case of indazoles. These 
+molecules are found in many commercially successful drugs, such as granisetron, 
+axitinib, niraparib and pazopanib, which are used to treat nausea and cancer (Figure 1A). The 1Hand 2Htautomers of indazoles are equally important for drug development.
+
+
+---
+
+Description:
+In the case of indazoles without N-substitutions, the 1H tautomer dominates because it is more stable.
+
+Text:
+In the 
+case of indazoles without Nsubstitutions, the 1Htautomer dominates because it is more 
+stable79. httpsdoi.org10.26434chemrxiv20252hs17 ORCID httpsorcid.org0000000284438805 Content not peerreviewed by ChemRxiv. License CC BY 4.0

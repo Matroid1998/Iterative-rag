@@ -1,0 +1,16 @@
+Description:
+An ABA type triblock copolymer with thermogelling properties used in the biomedical field.
+
+Text:
+Typically, reversible thermogelling properties of amphiphilic block copolymers are attributed to the 
+use of a temperaturesensitive block, which enables temperaturedependent reversible formation of 
+a micellar network.1 The nature of the micellar network is contingent upon the nanostructures formed 
+by the underlying amphiphilic block copolymer, which in turn depends on the polymers composition 
+and structure.2, 14, 15 Thus, micellar gel networks of BABtype block copolymers, where A and B signify 
+hydrophilic and hydrophobictemperaturesensitive blocks, respectively, are generally achieved by 
+bridging of flowerlike micelles.14, 1618 AB and ABA polymers, in contrast, typically undergo gelation 
+due to the packing of regular spherical micelles, as is the case with Pluronics F127.14, 19, 20 This ABA type 
+triblock copolymer is arguably the most widely used block copolymer with thermogelling properties 
+in the biomedical field.2124 Being composed of hydrophilic polyethylene glycol (PEG) outer blocks and 
+a thermosensitive polypropylene glycol (PPG) central block, it belongs to the class of Pluronic 
+amphiphiles, also known as poloxamers.

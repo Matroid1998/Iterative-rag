@@ -1,0 +1,17 @@
+Description:
+Often used as dopants in host materials for quantum information storage applications, but can introduce local strain and site inhomogeneity.
+
+Text:
+Materials containing rareearth cations are
+promising quantum information storage (QIS)
+candidates. Their 4f4f optical transitions are
+wellshielded by filled 5s and 5p orbitals, and
+they have long nuclear spin and optical coher
+ence times.14 Often for QIS applications with
+Eu3containing compounds, low Eu3 con
+centrations are introduced as dopants in host
+materials.59 But this introduces local strain,
+increasing Eu3 site inhomogeneity. This inho
+mogeneity broadens transition linewidths and
+prevents the resolution of hyperfine transi
+1

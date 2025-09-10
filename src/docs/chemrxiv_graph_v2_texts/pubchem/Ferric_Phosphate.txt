@@ -1,0 +1,25 @@
+Name: Ferric Phosphate
+Text:
+Iron(3+) phosphate is an inorganic phosphate having Fe(3+) as the counterion. It is an iron molecular entity, an inorganic phosphate and an inorganic phosphate salt. It contains an iron(3+).
+See also: Ferrum Phosphoricum (annotation moved to).
+Properties:safety: Irritant
+smiles: [O-]P(=O)([O-])[O-].[Fe+3]
+formula: FeO4P
+chem_properties: Molecular Weight: 150.82 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 150.888356 Da
+Monoisotopic Mass: 150.888356 Da
+Topological Polar Surface Area: 86.3
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 36.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,13 @@
+Description:
+Strong hydrogen bond donors such as NH and OH are used in anion receptors.
+
+Text:
+Anions, due to their ubiquity and technological and biological relevance, constitute important targets for the construction of molecular 
+receptors capable of their capture, sensing, and transport.1 To ensure efficient binding, anion receptors are typically equipped with strong 
+hydrogen bond donors (NH, OH),2 halogen bond donors (e.g. polarized I atoms),3,4 or positively charged groups,5,6 which are known to 
+strongly interact with anions. CHbased anion receptors are inherently weaker, but offer unique selectivity, high stability, and 
+lipophilicity, which make them appealing for certain applications. 7 , 8 In particular, their lipophilic nature and high resistance to 
+deprotonation make them promising candidates for transmembrane anion carriers.9,10,11 
+
+Figure 1. The previously reported and currently designed CHbased anion receptors (hydrogen atoms engaged in CHanion 
+interactions are marked with green).

@@ -1,0 +1,4 @@
+Nsp12 is a non-structural protein in the Coronavirus genome. Its gene is part of the ORF1ab reading frame and it is part of the pp1ab polyprotein; it is cleaved by 3CLpro.
+Nsp12 is a multi-domain subunit: it consists of an N-terminal nidovirus-specific extension (NiRAN) domain, an interface domain, and a C-terminal RNA-dependent RNA-polymerase domain. The N-terminal portion of SARS-CoV-2 nsp12 additionally contains a β-hairpin which is sandwiched between the NiRAN and RdRp domain.
+
+Coronavirus nsp12 also plays a role in host immune evasion; research has demonstrated that nsp12 inhibits the nuclear translocation of IRF3.

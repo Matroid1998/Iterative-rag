@@ -1,0 +1,9 @@
+Description:
+An element used as an anode in lithium-sulfur batteries, participating in redox reactions.
+
+Text:
+Lithiumsulfur (LiS) batteries are among the most promising nextgeneration energy storage
+systems that have the potential to surpass traditional lithiumion batteries in terms of both
+energy density and cost.13 These batteries are composed of a lithium anode and a sulfur
+cathode and operate through a redox reaction in which lithium ions are transferred between
+the two electrodes.

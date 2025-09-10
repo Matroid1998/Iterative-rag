@@ -1,0 +1,41 @@
+Description:
+Molecular oxygen is critical for aerobic metabolism and is used in luminescent sensing to analyze concentration via photoluminescence.
+
+Text:
+Chemical and biochemical mechanisms of aerobic metabolism 
+largely depend on molecular oxygen.13 Tumor hypoxia is 
+associated with a variety of common diseases4 and therefore 
+the sensing of triplet oxygen has been a recent area of 
+interest.510 The level of molecular oxygen in tumors is a good 
+indicator of metabolic state and can help guide therapy for 
+cancer treatment. Beyond applications in pathology, accurate 
+oxygen sensing with good spatial and temporal resolution is 
+critical for monitoring physiological responses to extreme 
+environments, e.g. subsea, arctic, and outer space.11 
+Luminescent sensing of oxygen is particularly appealing, where 
+the oxygen concentration is analyzed via the color, intensity, 
+andor lifetime of photoluminescence.
+
+
+---
+
+Description:
+Molecular triplet states are efficiently quenched by O2.
+
+Text:
+In principle any 
+phosphorescent compound can serve as an oxygen sensor, 
+since molecular triplet states are efficiently quenched by O2.12 
+However, phosphorescent compounds give a turnoff 
+response to oxygen, so their use requires accurate 
+measurement of absolute luminescence intensity, which is 
+prone to issues with calibration and reproducibility, resulting 
+from variable excitation power, optical path length, and in 
+biological applications heterogeneous cellular environments.13 
+Measurement of the phosphorescence lifetime attenuation 
+works well in principle for sensing oxygen but is more 
+technically complex. Luminescent ratiometric oxygen sensors 
+avoid these limitations by incorporating two emission signals 
+which are differentially modulated by O2, and hence the ratio of 
+the two emission intensities can provide a simple and accurate 
+readout of oxygen concentration.

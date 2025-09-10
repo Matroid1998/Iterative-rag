@@ -1,0 +1,37 @@
+Description:
+A component whose removal during charging causes contraction in the TMO bond length.
+
+Text:
+This has
+presented as an increase in nickel content to the current NMC811 cathode, which exhibits a
+specic capacity of 190  220 mAh.g1.2
+Initial observations of NMC811 by Xray diraction show an expansion in the clattice param
+eter followed by a drastic reduction shortly after 4.1 V vs LiLi, often termed the lattice
+collapse.2,3 Upwards of 4.1 V, delithiation is signicant enough to reduce the interlayer spacing
+between TMoxygen layers to less than that of a fully lithiated lattice.2,4 The evolution in the
+a and clattice parameters coincides with a total unit cell volumetric reduction; during charg
+ing, the removal of lithium causes a contraction in the TMO bond length from 2.87 to 2.81
+, manifesting in a shrinkage of the alattice parameter.
+
+
+---
+
+Description:
+Intercalates into structures, causing stress on the lattice and contributing to electrochemically mediated crack formation.
+
+Text:
+This has been reported to be due to
+charge compensation where Ni(II) oxidises to Ni(IV) and thus has a greater covalent attraction
+to its surrounding oxygen atoms.2 It is believed that this collapse then requires an additional
+energetic contribution to intercalate lithium back into the structure, consequently increasing
+the stress on the lattice.5 These extensive volume uctuations have been suggested as an origin
+for electrochemically mediated crack formation.6
+Cracking in secondary particles has been proposed to cause reduced performance due to insuf
+cient connection between particles and the conductive architecture in the electrode matrix,7
+as well as fresh surface exposure to electrolyte and subsequent oxygen release accompanied by
+electrolyte oxidation.8 It has been determined that the signicant expansion and contraction of
+the clattice parameter during cycling will induce strains on the cathode secondary particles,
+resulting in the possible development of microcracks.9 As suggested above, the considerable
+changes in lattice parameters are likely to be a cause of cracking and can advance degradation
+severely especially during fast charge cycles that sees substantial changes in crystallographic pa
+2

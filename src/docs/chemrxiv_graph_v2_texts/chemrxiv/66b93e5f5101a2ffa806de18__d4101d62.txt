@@ -1,0 +1,10 @@
+Description:
+Forms dendritic and mossy microstructures that can be fully excited by X-band microwave frequencies when thinner than the skin depth of 1.1 m.
+
+Text:
+Li metal2,29 or graphite33), result in a sharp signal centered at . For metallic anodes that are thicker than the penetration depth of the microwave radiation, also called skin 
+depth (), only spins near the surface of the anode are excited and a Dysonian lineshape is observed with a 
+phaseshift that depends on the ratio of the particle size to the skin depth. Prior work has shown that 
+dendritic and mossy Li microstructures that are thinner than the skin depth for Li (  1.1 m) can be fully 
+excited by Xband microwave frequencies and lead to a Lorentzian signal lineshape.29,34,35 
+Magnetometry measures the magnetization of a sample placed in an external magnetic field.

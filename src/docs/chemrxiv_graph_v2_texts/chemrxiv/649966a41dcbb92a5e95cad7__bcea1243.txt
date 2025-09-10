@@ -1,0 +1,14 @@
+Description:
+A spinel where M can be Co, Rh, or Ir.
+
+Text:
+213
+Several other oxides have been considered as ptype transparent conductors with varying de
+grees of success Lidoped NiO can reach hole concentrations on the order of 1  1021 cm3 and
+conductivity up to 11 S cm1, but mobility is less than 0.05 cm2 V1 s1 and transmission drops to
+50 upon doping; 14 SnO is a reasonably good ptype TCM, with mobility around 7 cm2 V1 s1 at
+11017 cm3 carriers, and can also be doped ntype, but incurs stability issues due to the presence of
+Sn(II) (a problem which pervades ternary Sn(II) materials also); 15,16 quasiclosed shell 3 and 6 ma
+terials such as Srdoped LaCrO3 and the ZnM2O4 spinels (M  Co, Rh, Ir); 17,18 and Ba2BiTaO6, which
+shows excellent mobility (up to 30 cm2 V1 s1) due to strong Bi 62  O 2interaction at the valence
+band, but the carrier density is limited to 1  1014 cm3.

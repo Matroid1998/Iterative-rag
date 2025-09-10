@@ -1,0 +1,19 @@
+Description:
+A metal-organic framework with a conductivity of 2.7 x 10^-3 S/cm, classified as a Robin-Day class II mixed valence compound.
+
+Text:
+The orbitals
+of the ligand are energetically matched with transition metal
+3dorbitals, enabling effective metalligand coordination and
+longrange conjugated pathways along the framework struts
+for efficient charge transport 28. The magnetoelectronic properties of three MOFs using
+dhbq as their ligand have been investigated experimentally 29,30. The conductivities of Ti2(Cl2dhbq)3, Fe2(Cl2dhbq)3 and
+V2(Cl2dhbq)3 were found to be 2.7  103 Scm, 1.4  102
+Scm and 0.45 Scm, respectively. These are high values
+compared to other MOFs, especially V2(Cl2dhbq)3 which is
+one of the most conducting frameworks based on oxodonor
+linkers reported to date. Optical spectroscopy indicated
+a high degree of electronic delocalisation in V2(Cl2dhbq)3,
+which led to a classification as a RobinDay class III mixed
+valence compound, whereas Ti2(Cl2dhbq)3 and Fe2(Cl2dhbq)3
+were classified as class II.

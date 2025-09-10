@@ -1,0 +1,12 @@
+Description:
+A conventional superconductor used in proximity coupling with semiconductor nanowires.
+
+Text:
+Majorana Zero Modes (MZMs) are an active area of research into potentially nonAbelian
+quantum states which some authors suggested could offer a degree of protection for de
+coherence in specially designed quantum computing architectures.13 MZMs manifest as
+zeroenergy midgap states localized at boundaries and topological defects within one and
+twodimensional topological superconductors.4 One heavily researched platform for realiz
+ing MZMs involves proximity coupling a conventional superconductor, most commonly Al
+and Nbbased alloys, with a semiconductor nanowire with strong spinorbit coupling (SOC),
+such as InAs or InSb.

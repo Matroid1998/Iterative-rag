@@ -1,0 +1,8 @@
+Description:
+A molecule whose hydrophobic association is sensitive to the choice of force fields.
+
+Text:
+Recent simulation studies from Ganguly et al.32 have shown 
+that hydrophobic association is very sensitive to the choice of the force fields of TMAO molecule. It 
+was found by Tah and Mondal33 that the collapsed form of a hydrophobic polymer is destabilized in 
+mixed ureaTMAO solution.

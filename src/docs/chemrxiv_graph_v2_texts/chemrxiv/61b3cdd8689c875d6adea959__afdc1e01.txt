@@ -1,0 +1,74 @@
+Description:
+A component of metalloenzymes that perform redox chemistry in polysaccharide monooxygenases.
+
+Text:
+Lytic polysaccharide monooxygenases (LPMOs; also designated PMOs) are copper 
+metalloenzymes that perform unique redox chemistry resulting in disruption of polysaccharide chains by 
+oxygen atom insertion at the glycosidic bond.1 The LPMO active site contains a mononuclear Cu2 center 
+within a histidine brace motif in which the copper is coordinated by the Nterminal histidine amino 
+group, the Nd atom of His1 and the Ne atom of a second conserved histidine.2 Of particular commercial 
+and biotechnological interest is the ability of fungal LPMOs to catalyze the oxidative cleavage of 
+recalcitrant crystalline cellulose at the C1 andor C4 position, thereby enhancing polysaccharide 
+depolymerization by increasing glucan access to hydrolytic enzymes via the overall reaction shown in 
+Scheme 1.35 
+
+Scheme 1 Oxidation of the C1C4 carbon in the glycosidic bond catalyzed by LPMOs with oxygen as the 
+cosubstrate.
+
+
+---
+
+Description:
+Involved in the one-electron reduction to Cu1 at the active site, initiating the reaction cycle.
+
+Text:
+H atoms to be abstracted by the reactive oxygen species shown in green. While H2O2 has also been shown to be a LPMO cosubstrate,6 the work presented here focuses on 
+the activation of O2, the first characterized cosubstrate in polysaccharide oxidation and the substrate in 
+the synthesis of H2O2 in absence of substrate.35 Oneelectron reduction of the copper active site to Cu1 
+and binding of the molecular oxygen cosubstrate initiates the reaction cycle with the generally accepted 
+O
+RO
+HO
+OH
+OH
+O
+O
+H
+OH
+O2  2H  2e
+H2O
+C4
+C1
+LPMO
+C1hydroxylating
+C4hydroxylating
+HO
+H
+OH
+OR
+O
+RO
+HO
+OH
+OH
+O
+O
+H
+OH
+HO
+OH
+OR
+O
+RO
+HO
+OH
+OH
+O
+O
+OH
+HO
+H
+OH
+OR
+HO
+OH

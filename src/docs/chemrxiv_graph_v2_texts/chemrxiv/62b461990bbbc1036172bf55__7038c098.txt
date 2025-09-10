@@ -1,0 +1,15 @@
+Description:
+A natural siderophore used by bacteria to acquire iron.
+
+Text:
+The application of natural siderophores as molecular targeting entities is in part 
+hampered by their challenging synthetic access, their chemical lability as well as in some cases 
+by their limited bacterial spectrum.16, 17, 18, 19 Fortunately, much like piracy, prokaryotes seize 
+socalled xenosiderophores (siderophores produced by other organisms or even synthetic 
+siderophore mimetics), to satisfy their iron demand.20 Along those lines, we established 
+enterobactin analogues based on synthetic DOTAM and MECAM scaffolds as robust, readily 
+accessible and variable vectors for bacterial imaging and antibacterial therapy in Gram
+negative and Grampositive bacteria.21, 22, 23 
+TBDTs are composed of a 22 barrel inserted into the outer membrane, a plug domain that 
+closes the channel formed by the barrel, and the TonB box.10,24,25 The incoming ferric 
+siderophore from the extracellular space binds to a specific site on the plug domain, promoting

@@ -1,0 +1,16 @@
+Description:
+Element with low terrestrial abundance, comparable to Pt, and used in thermoelectric materials.
+
+Text:
+To first approximation, S, 
+and el are interrelated through the carrier concentration n such
+that the best balance of a large PF and minimal el is typically
+obtained for heavilydoped semiconductors. On the other hand,
+latt is largely independent of the electrical transport and should
+be minimised to obtain a large ZT. A wide variety of inorganic materials have been explored
+as thermoelectric (TE) materials, including chalcogenides,1014
+metal oxides,1518 clathrates,1922 and skutterudites.2326 The
+current industrystandard TEs are Bi2Te3 (ZTmax 1 from 359 
+450 K) and PbTe (ZTmax  2.2 at 915 K).2729 However, Pb is toxic
+and Te has a low terrestrial abundance of ca. 1 ppb,30 comparable
+to Pt, and is required for other technologies such as photovoltaics.

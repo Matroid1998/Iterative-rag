@@ -1,0 +1,18 @@
+Description:
+Considered in high-throughput searches for wide-gap materials for optoelectronic applications.
+
+Text:
+Recently, stoichiometric lanthanum diselenide (LaSe2) has been highlighted as a poten
+tial stable ptype conductive material with transparency in the near to midinfrared region,
+with its high achievable conductivity and small hole eective mass relative to other ptype
+transparent conducting materials (TCMs) noted as key advantages.6,7 ptype TCMs are
+crucial to the development of more ecient optoelectronic devices including photovoltaics,
+display monitors and especially smart windows, however ptype TCM performance lags well
+behind their ntype counterparts, primarily due to the diculty in engineering band disper
+sion in the valence bands of semiconductors.8 In ptype conductors transparent to visible
+light, hybridization of cation states with oxygen 2p states at the top of the valence band
+has been seen as key to such engineering,9,10 though recent highthroughput searches has
+broadened this towards widegap chalcogenides and phosphides.11,12 With promising initial
+transport measurements, LaSe2 deserves further investigation to understand the origin of its
+optical and electronic behaviour, as well as exploring its optical and transport properties for
+potential integration into future devices.

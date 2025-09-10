@@ -1,0 +1,26 @@
+Name: Sulfuryl fluoride
+Text:
+Sulfuryl fluoride appears as a colorless odorless gas. Shipped as a liquefied gas under its own vapor pressure. Noncombustible. Heavier than air. Very toxic by inhalation. Contact with the unconfined liquid can cause frostbite. Prolonged exposure to heat can cause containers to rupture violently and rocket. Used as an insecticide fumigant in wooden structures to control termites and wood-infesting beetles, and used in organic synthesis.
+Sulfuryl difluoride is a sulfuryl halide. It has a role as a fumigant insecticide.
+Properties:safety: Compressed Gas and Acute Toxic and Health Hazard and Environmental Hazard
+smiles: O=S(=O)(F)F
+formula: F2SO2
+chem_properties: Molecular Weight: 102.06 g/mol
+XLogP3: 0.7
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 101.95870674 Da
+Monoisotopic Mass: 101.95870674 Da
+Topological Polar Surface Area: 42.5
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 85.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

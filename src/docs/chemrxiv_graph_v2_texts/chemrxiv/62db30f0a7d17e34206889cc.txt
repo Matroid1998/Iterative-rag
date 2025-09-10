@@ -1,0 +1,28 @@
+Description:
+A residue required for catalysis in the active site signature motif of protein tyrosine phosphatases.
+
+Text:
+Reversible phosphorylation is a common posttranslational modification seen in over 30 of 
+eukaryotic proteins.15 Phosphatases work in tandem with kinases to regulate this process in a broad 
+spectrum of organisms.3 Among the protein phosphatase families, protein tyrosine phosphatases 
+(PTPs) are defined by the active site signature motif called the Ploop (HCX5R) that includes a 
+cysteine residue required for catalysis. Among the subclass of classical, pTyrspecific PTPs, 
+protein tyrosine phosphatase 1B (PTP1B) and Yersinia outer protein H (YopH) are the most 
+studied.
+
+
+---
+
+Description:
+A nucleophilic residue involved in the dephosphorylation mechanism of PTPs.
+
+Text:
+PTP1B is a human PTP whose bestknown biological role is that of a negative regulator 
+in the insulin signaling pathway,3, 4, 615 while YopH is the virulence factor of Yersinia pestis, 
+responsible for the bubonic plague.8, 9 
+PTPs catalyze dephosphorylation through a twostep mechanism involving the nucleophilic 
+cysteine in the Ploop. Another catalytic residue, an aspartic acid, resides on a different conserved 
+structural loop found among the classical PTPs. This is a mobile loop consisting of about a dozen 
+residues called the WPDloop, defined by the conserved residues tryptophan, proline, and aspartate 
+found near its center. While mobile loops in proteins are common, PTPs are unusual in having a 
+key catalytic residue residing on such a mobile element.

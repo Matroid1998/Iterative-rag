@@ -1,0 +1,22 @@
+Description:
+A component of the solid electrolyte interphase (SEI) that allows lithium transport while protecting the electrolyte from degradation.
+
+Text:
+Understanding and controlling the chemical
+degradation of liquid electrolytes is key to en
+hancing the durability of lithiumion batteries
+(LIBs). Even inside its electrochemical stabil
+ity window, the electrolyte can reduce near the
+anode during charging. This initiates a cas
+cade of reactions and culminates in the irre
+versible growth of a passivation layer, the solid
+electrolyte interphase (SEI).1 This layer is com
+posed of various inorganic and organic species2
+that contain lithium. The resulting capacity
+loss can be 10 in the rst chargedischarge cy
+cle and increases throughout the batterys life
+time.3
+The SEI is electronically insulating but ion
+ically conducting and protects the electrolyte
+from further degradation while allowing lithium
+transport.

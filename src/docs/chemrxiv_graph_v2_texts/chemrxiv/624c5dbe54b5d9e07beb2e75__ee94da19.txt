@@ -1,0 +1,40 @@
+Description:
+A medium used for reactions involving hydrazine.
+
+Text:
+Sutton and coworkers made a breakthrough when they regenerated 
+AB from PBZ by using hydrazine (N2H4) as a reductant in THF 
+medium.12 Unfortunately, N2H4 is produced from ammonia which is 
+synthesized by reacting N2 with H2 through a high energyconsuming 
+HaberBosch process, thus essentially making the regeneration 
+process unsustainable.13 Recent advances made in producing N2H4 
+electrocatalytically from N2 and water with the help of solar or wind 
+generated electricity, may ensure sustainability.14 Advancement in N2 
+activation 
+chemistry 
+can 
+possibly 
+negate 
+this 
+problem.15 
+ Monoboron and bisborane Lewis acid based catalysts have 
+been employed to dehydrogenate AB successfully by Wegner  co
+workers, with bisborane system showing slightly higher efficacy than 
+that of the mono boron system.16 Wegner et. al.
+
+
+---
+
+Description:
+A solvent used in the activation of H2 by bulky Lewis acids.
+
+Text:
+Ashley and coworkers 
+demonstrated for the first time the prospect of H2 activation by the 
+bulky Lewis acids B(C6Cl5)x(C6F5)3x x 0 to 3 in THF solvent which 
+was followed by hydrogenation of imine.5e Herein, we have tried to 
+understand if there is a role of the Lewis basic diglyme solvent as a 
+hidden partner of the Lewis acidic bisborane system in developing a 
+FLP like cooperativity in the catalytic dehydrogenation of AB. Our 
+previous experiences with computational design based monoboron 
+based dehydrogenating systems have shown that action of solvent

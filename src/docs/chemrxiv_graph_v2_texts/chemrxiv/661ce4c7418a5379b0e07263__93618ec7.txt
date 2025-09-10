@@ -1,0 +1,20 @@
+Description:
+A substrate for sialidase with poor cleavage efficiency by AfSA.
+
+Text:
+Moore and coworkers discovered a 
+gene encoding for a putative sialidase (AfSA) in the genome 
+sequence of A. fumigatus.10 In comparison to bacterial SAs, AfSA 
+showed poor efficiency in cleaving the Nacetylneuraminic acid 
+(Neu5Ac) substrates and was also poorly inhibited by the SA 
+transition 
+state 
+inhibitor 
+2deoxy2,3dehydroN
+acetylneuraminic acid (Neu5Ac2en).11 2keto3deoxynononic 
+acid (KDN), a member of the sialic acid family with an hydroxyl 
+group in C5 instead of an acetamide, was shown to be the 
+preferred enzymatic substrate. Subsequent studies confirmed 
+that AfSA is a KDNase (AfKDNase) with a suggested nutritional 
+role in the life cycle of the fungus. While SAs are widely studied 
+virulent factors much less is known about KDNases.

@@ -1,0 +1,18 @@
+Description:
+A 20-membered ring structure found in zampanolide.
+
+Text:
+1) is a marine macrolide that was first isolated in 1996 by Tanaka and 
+Higa from the marine sponge Fasciospongia rimosa collected at cape Zampa off the coast of 
+Okinawa, Japan.1 It features a bicyclic core structure including a 20membered macrolactone 
+ring, which carries an unusually stable linear Nacyl hemiaminalcontaining side chain.1 ()
+Zampanolide (1) is a potent microtubulestabilizing agent (MSA) and it inhibits the growth of 
+human cancer cells with IC50 values in the low nanomolar range (210 nM).2 The antiproliferative 
+effect of 1 is thus based on the same mechanism of action that characterizes the clinical cancer 
+drugs taxol, docetaxel, cabazitaxel, or ixabepilone.3 However, in contrast to the latter, 1 binds to 
+tubulin covalently; attachment to the protein involves 1,4addition of the His229 side chain to 
+C(9) of the enone moiety in the macrocycle.45 The relative and absolute configuration of 1 was 
+established in early synthetic work by Smith and coworkers on ()zampanolide (ent1) in 2001,6 
+which over the years was followed by several total syntheses of the natural product 1.79 Synthetic 
+work has also been expended on a variety of analogs of 1 in the context of structureactivity 
+relationship (SAR) studies.

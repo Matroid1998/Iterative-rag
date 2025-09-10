@@ -1,0 +1,14 @@
+Description:
+Monitored in experiments for transient and two-dimensional electronic spectra in vapor form.
+
+Text:
+Early seminal work in actionbased experiments by Marcus demonstrated the acquisition 
+of transient and twodimensional electronic spectra of Rb vapor by monitoring modulations in the 
+fluorescence signal as a function of the pulse delay times.17,18 More recently, Brixner reported 2D 
+electronic action spectra of neutral species in the gas phase generated in molecular beams and 
+detected with mass spectrometry via photoionization.19,20 Stienkemeier has likewise measured 2D 
+electronic action spectra via photoionization of neutral gasphase species using He nanodroplet 
+techniques.21,22 In related studies, Allison has directly measured electronic transient absorption 
+spectra of neutrals produced in molecular beams using cavity enhancement and frequencycomb 
+laser sources.23,24 Collectively, this impressive growing volume of studies are opening new 
+avenues for unraveling fundamental molecular interactions and dynamics.

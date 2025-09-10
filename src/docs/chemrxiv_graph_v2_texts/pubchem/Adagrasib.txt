@@ -1,0 +1,28 @@
+Name: Adagrasib
+Text:
+Adagrasib (MRTX849) is an oral, small-molecule KRAS inhibitor developed by Mirati Therapeutics. KRAS mutations are highly common in cancer and account for approximately 85% of all RAS family mutations. However, the development of KRAS inhibitors has been challenging due to their high affinity for guanosine triphosphate (GTP) and guanosine diphosphate (GDP), as well as the lack of a clear binding pocket. Adagrasib targets KRASG12C, one of the most common KRAS mutations, at the cysteine 12 residue and inhibits KRAS-dependent signalling. In a phase I/IB clinical study that included patients with KRASG12C-mutated advanced solid tumors (NCT03785249), adagrasib exhibited anti-tumor activity. The phase II of the same study showed that in patients with KRASG12C-mutated non-small-cell lung cancer (NSCLC), adagrasib was efficient without new safety signals.  In February 2022, the FDA accepted a new drug application (NDA) for adagrasib for the treatment of patients with previously treated KRASG12C–positive NSCLC. In December 2022, the FDA granted accelerated approval to adagrasib for the treatment of KRASG12C-mutated locally advanced or metastatic NSCLC who have received at least one prior systemic therapy. Adagrasib joins [sotorasib] as another KRASG12C inhibitor approved by the FDA.
+Adagrasib is a small molecule inhibitor of the KRAS G12C mutant protein which is found in up to 13% of refractory cases of non-small cell lung cancer. Serum aminotransferase elevations are common during therapy with adagrasib, and a proportion of patients develop clinically apparent liver injury that can be severe.
+Adagrasib is an orally available, small molecule inhibitor that targets the oncogenic KRAS substitution mutation, G12C, with potential antineoplastic activity. Upon oral administration adagrasib covalently binds to cytosine 12 within the switch II pocket of GDP-bound KRAS G12C, thereby inhibiting mutant KRAS-dependent signaling. KRAS, a member of the RAS family of oncogenes, serves an important role in cell signaling, division and differentiation. Mutations of KRAS may induce constitutive signal transduction leading to tumor cell growth, proliferation, invasion, and metastasis.
+ADAGRASIB is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2022 and is indicated for neoplasm and non-small cell lung carcinoma and has 5 investigational indications.
+Properties:safety: Irritant
+smiles: CN1CCC[C@H]1COC2=NC3=C(CCN(C3)C4=CC=CC5=C4C(=CC=C5)Cl)C(=N2)N6CCN([C@H](C6)CC#N)C(=O)C(=C)F
+formula: C32H35ClFN7O2
+chem_properties: Molecular Weight: 604.1 g/mol
+XLogP3: 5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 9
+Rotatable Bond Count: 7
+Exact Mass: 603.2524792 Da
+Monoisotopic Mass: 603.2524792 Da
+Topological Polar Surface Area: 88.8
+Heavy Atom Count: 43
+Formal Charge: 0
+Complexity: 1060
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

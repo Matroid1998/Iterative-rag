@@ -1,0 +1,13 @@
+Description:
+Involved in direct air capture.
+
+Text:
+For example, SCUTC19 undergoes 55 BET surface area loss after prolonged exposure 
+to humid air, indicating a dramatic decrease in porosity.10 Such decomposition is often attributed 
+to the disruption of the metallinker bond, which is normally the weakest point of the MOF 
+structure,1113 resulting in linker release through either a hydrolysis or linker displacement 
+mechanism.14 However, various applications of MOFs demand water stability.15, 16 For example, 
+any MOF intended for use that entails exposure to ambient air or industrial gas streams should be 
+able to tolerate humidity. Such applications include water harvesting from air,14, 1721 direct air 
+capture of CO2 and O2,2227 CO2 capture from flue gas,28 and pollutant sensing in air.29 In addition, 
+for some applications, a MOF must be stable even in liquid water.

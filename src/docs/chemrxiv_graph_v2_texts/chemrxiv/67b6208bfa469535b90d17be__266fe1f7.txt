@@ -1,0 +1,22 @@
+Description:
+A catalyst that Ni could replace in the hydrogenation of NB to aniline.
+
+Text:
+In said mechanism, PhN(OH) either reacts with adsorbed hydrogen to form aniline, or PhN(OH) 
+reacts with itself to eliminate water and produce azoxybenzene.5 
+Ideally, hydrogenation of NB to aniline at completion would be carried out in liquidphase at low tempera
+ture over a solid catalyst employing earthabundant and lowcost Ni in place of Pt or Pd. So far, to the 
+best of our knowledge, no such catalyst has been reported.
+
+
+---
+
+Description:
+A component of a catalyst exhibiting excellent activity for hydrogenation.
+
+Text:
+Recently, for example, scholars in China re
+ported a new Ptloaded Nigraphene magnetically separable catalyst (PtNiNG) at a Pt weight loading 
+of 0.3 exhibiting excellent activity for the hydrogenation of NB to aniline achieving a turnover frequency 
+of 27,240 h1 at 1 MPa reaction pressure and room temperature.6 Remarkably, the catalyst retained its 
+selective activity over five consecutive testing cycles.

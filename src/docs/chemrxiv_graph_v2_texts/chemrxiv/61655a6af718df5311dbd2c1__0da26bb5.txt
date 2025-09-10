@@ -1,0 +1,39 @@
+Description:
+The backbone of nucleic acids used in the development of various stacked folded and self-assembled systems.
+
+Text:
+The phosphodiester backbone of nucleic acids provides an 
+attractive platform for the creation of sequencedefined 
+molecules because of the outstanding efficiency of the 
+automated phosphoramidite synthesis which permits creation of 
+polymers of 100 monomer units long.19,20 DA interactions have 
+been integrated into DNA itself,21 and the phosphodiester 
+backbone has been used in development of various stacked 
+folded and selfassembled systems, generating significant 
+complexity from oligomers as short as trimers.2224 Since 
+aromatic donor and acceptor units are complementary in a 
+supramolecular sense, they reflect the hydrogenbonded 
+complementarity of nucleobases, and their sequence in a chain 
+could therefore be used to control selfassembly. We now report 
+that the selfassembly of phosphodiesterlinked trimers of DAN 
+and NDI is sequencedetermined, and moreover can be modified 
+through complementarity of monomer sequences.
+
+
+---
+
+Description:
+A linkage used in the synthesis of trimers such as DAN3, NDI3, DANNDIDAN, and NDIDANNDI.
+
+Text:
+This provides 
+an opportunity to develop polymers in which informationrich 
+sequences control their resultant nanostructures, creating 
+synthetic, bioorthogonal analogues to DNA hybridisation, which 
+could be used in nanoelectronics or light harvesting. Scheme 1. Synthesis of phosphodiester trimers DAN3, NDI3, DAN
+NDIDAN, and NDIDANNDI. Results and Discussion 
+DAN and NDIcontaining phosphodiesterlinked trimers were 
+constructed in a symmetrical buildingoutwards strategy, in four 
+sequences  DAN3, NDI3, DANNDIDAN, and NDIDANNDI 
+(Scheme 1). Monomers were constructed by attaching short 
+spacers at either end of the aromatic units, terminated in

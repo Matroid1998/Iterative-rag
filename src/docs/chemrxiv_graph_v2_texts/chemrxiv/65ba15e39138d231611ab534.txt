@@ -1,0 +1,10 @@
+Description:
+A sequence that can combine different nucleic acid types, such as DNARNA chimeric sequences.
+
+Text:
+The ability 
+to easily synthesize nucleic acids provided by this chemistry is among the most important advances in biological 
+chemistry of the last century and constitutes a core technology underlying much of modern biological research. Consisting of repeated cycles containing coupling, oxidation, and deblocking steps, the chemistry allows for fully 
+automated synthesis using phosphoramidite building blocks. The shared chemistry allows most nucleic acids to be 
+synthesized using similar cycles, and for different nucleic acid types to be combined within an oligonucleotide to 
+yield, for example, DNARNA chimeric sequences, or oligonucleotides labeled via fluorescent phosphoramidites.

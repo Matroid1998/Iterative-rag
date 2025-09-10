@@ -1,0 +1,13 @@
+Description:
+2D materials proposed for advanced humidity sensing.
+
+Text:
+Conventional humidity sensors, which are based, e.g., on conductive polymers,
+ceramics, or metal oxides, often suffer from nonlinearity of their response isotherm, long
+response and recovery time, low sensitivity, and large hysteresis, which are crucial param
+eters for the reliable realtime monitoring of humidity in portable or wearable applications. To overcome these challenges, novel materials have been proposed for advanced humidity
+sensing, such as supramolecular nanoassemblies,4 polymermetal nanoparticle hybrids,5 2D
+materials, e.g., MXenes,6 or carbonbased materials like graphene oxide (GO), or reduced
+GO (rGO).7
+GObased materials are attractive candidates for detecting humidity due to GOs high
+hydrophilicity, large surface area, and flexibility.

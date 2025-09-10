@@ -1,0 +1,94 @@
+Description:
+A catalytic residue in most tyrosine phosphatases responsible for substrate dephosphorylation.
+
+Text:
+Many diseases, including cancers, arise from the 
+dysregulation of tyrosine phosphorylation, and tyrosine phosphatases have been proposed as candidate drug 
+targets for the treatment of these diseases.3 For example, the phosphatase PTP1B has been linked to 
+diabetes and obesity, as it acts as a negative regulator of the insulin receptor signaling pathway by 
+dephosphorylating the insulin receptor and its substrates.4,5 The phosphatase SHP2 has been shown to 
+promote oncogenic signaling downstream of receptor tyrosine kinases.6,7 Both of these enzymes have been 
+the targets of extensive preclinical drug discovery campaigns, and allosteric inhibitors of SHP2 are currently 
+in clinical trials.8,9 Despite their physiological importance, the regulatory mechanisms and biological roles of 
+many PTPs remain poorly defined, in part due to the lack of robust chemical tools to selectively inhibit PTPs 
+or monitor their activity in cells.10 
+Most tyrosine phosphatases have a catalytic cysteine that is directly responsible for substrate 
+dephosphorylation.
+
+
+---
+
+Description:
+A residue located on the P loop.
+
+Text:
+They also have a catalytic arginine on the same loop as the cysteine residue (P loop), as 
+well as conserved aspartic acid and glutamine residues on the WPD and Q loops, respectively.
+
+
+---
+
+Description:
+The catalytic cysteines of most PTPs are susceptible to reversible oxidation by reactive oxygen species.
+
+Text:
+These 
+residues make up the conserved catalytic core of classical PTPs (Figure 1A,B).11,12 The WPD loop can adopt 
+an open or closed conformation that is dependent on substrate or inhibitor binding (Figure 1A, left panel), 
+and it has been suggested that this loop plays a regulatory role.1114 In some phosphatases, such as SHP2, 
+auxiliary noncatalytic domains physically occlude the active site to regulate activity.1518 Furthermore, the 
+catalytic cysteines of most PTPs are susceptible to reversible oxidation by reactiveoxygen species, and 
+oxidation has been proposed as a dynamic regulatory mechanism.1921 Other uncharacterized regulatory 
+mechanisms likely exist for PTPs, making these enzymes an opportune target class for activitybased 
+profiling.22 In this context, it is noteworthy that the catalytic cysteine in PTPs has a characteristically low pKa 
+due to the active site environment,23,24 which should make it a good target for covalent probes.
+
+
+---
+
+Description:
+The catalytic cysteine in PTPs has a characteristically low pKa due to the active site environment.
+
+Text:
+These 
+residues make up the conserved catalytic core of classical PTPs (Figure 1A,B).11,12 The WPD loop can adopt 
+an open or closed conformation that is dependent on substrate or inhibitor binding (Figure 1A, left panel), 
+and it has been suggested that this loop plays a regulatory role.1114 In some phosphatases, such as SHP2, 
+auxiliary noncatalytic domains physically occlude the active site to regulate activity.1518 Furthermore, the 
+catalytic cysteines of most PTPs are susceptible to reversible oxidation by reactiveoxygen species, and 
+oxidation has been proposed as a dynamic regulatory mechanism.1921 Other uncharacterized regulatory 
+mechanisms likely exist for PTPs, making these enzymes an opportune target class for activitybased 
+profiling.22 In this context, it is noteworthy that the catalytic cysteine in PTPs has a characteristically low pKa 
+due to the active site environment,23,24 which should make it a good target for covalent probes.
+
+
+---
+
+Description:
+A residue whose reactivity and ligandability are examined using mass spectrometry proteomics.
+
+Text:
+There has been an exciting revolution in chemical biology to examine the proteomewide reactivity 
+and ligandability of cysteine residues using mass spectrometry proteomics. These studies have served as a 
+starting point for identification of new ligandable protein targets and the development of covalent probes and 
+drugs.25,26 Cysteine reactivity across the proteome is generally assessed by measuring labeling efficiency 
+with a highly reactive iodoacetamide probe.27,28 Cysteine ligandability, on the other hand, is examined by 
+treating the proteome with smallmolecule covalent fragments bearing weaker electrophiles, like 
+chloroacetamide or acrylamide, followed by treatment with an iodoacetamide probe.
+
+
+---
+
+Description:
+Residues that are not very reactive relative to the entire proteome, despite their low pKa values.
+
+Text:
+These datasets can be leveraged for the development of 
+covalent inhibitors, probes, and degraders for a variety of protein targets, particularly for nonactive site 
+cysteine residues.25 However, published proteomewide ligandability screens have not yielded any 
+substantial leads for PTP active site cysteine residues.30 Rather, these screens suggest that PTP catalytic 
+cysteines are not very reactive relative to the entire proteome, despite their low pKa values,23,24 and they are 
+apparently unliganded by most fragments used in existing screens. Consequently, it is difficult to extract 
+information from these global ligandability screens on how different structures impact covalent inhibition of 
+PTPs. In this study, we have taken a targetcentric approach to identify structural leads for the development 
+of covalent PTP inhibitors and probes.

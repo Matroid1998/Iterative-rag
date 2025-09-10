@@ -1,0 +1,17 @@
+Description:
+Used in aqueous solutions to study microheterogeneity.
+
+Text:
+Xray absorption spectroscopy (XAS) provides impeccable insight
+into local solvation structure in the vicinity of the chromophore.1
+SoftXAS has been used as a direct probe of microheterogeneity in
+aqueous acetonitrile solutions2 and has revealed the contrasting
+nature between weak ammoniawater and strong ammonium
+water hydrogen bonds.3,4 Xray absorption nestructure (XAFS)
+spectroscopy was also recently applied to study the hydration
+structure about ions of all of the rst row transition metal ele
+ments.5 As the application of XASrelated methods becomes more
+ubiquitous, it is increasingly important that theoretical methods
+meet the challenge of modeling XAS in liquid phase to aid in spec
+tral assignments and to shed light on the atomistic structural de
+tails that lead to key spectroscopic signatures.

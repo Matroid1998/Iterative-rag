@@ -1,0 +1,29 @@
+Name: Peracetic Acid
+Text:
+Peracetic acid is a colorless liquid with a strong, pungent acrid odor. Used as a bactericide and fungicide, especially in food processing; as a reagent in making caprolactam and glycerol; as an oxidant for preparing epoxy compounds; as a bleaching agent; a sterilizing agent; and as a polymerization catalyst for polyester resins. (EPA, 1998)
+Peracetic acid is a peroxy acid that is acetic acid in which the OH group is substituted by a hydroperoxy group. It is a versatile oxidising agent that is used as a disinfectant. It has a role as an oxidising agent and a disinfectant. It is functionally related to an acetic acid.
+A liquid that functions as a strong oxidizing agent. It has an acrid odor and is used as a disinfectant.
+A liquid that functions as a strong oxidizing agent. It has an acrid odor and is used as a disinfectant.
+See also: Peracetyl radical (annotation moved to).
+Properties:safety: Flammable and Corrosive and Acute Toxic and Environmental Hazard
+smiles: CC(=O)OO
+formula: C2H4O3
+chem_properties: Molecular Weight: 76.05 g/mol
+XLogP3: -0.4
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 1
+Exact Mass: 76.016043985 Da
+Monoisotopic Mass: 76.016043985 Da
+Topological Polar Surface Area: 46.5
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 40.2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

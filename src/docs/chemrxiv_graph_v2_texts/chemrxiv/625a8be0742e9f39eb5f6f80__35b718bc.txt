@@ -1,0 +1,24 @@
+Description:
+Functionalize gate oxides in analytical simulations to calculate surface charge density.
+
+Text:
+METHODOLOGY 
+The analytical simulations are used to calculate the 
+zeta potential (), sensitivity factor () and 
+intrinsic buffer capacity () values for all gate 
+oxides 2. The following methodology is used for a 
+particular gate oxide with or without functionalized 
+with the amino acids. First, the surface charge 
+density is calculated using the GouyChapman
+Stern model and BoltzmannPoisson model (). Where, 
+
+ , 
+   10 , pHB is 
+the bulk pH, o is the surface potential, NS is the 
+total surface states, Ka  Kb are the dissociation 
+constants of the corresponding reactive sites and VT 
+is the thermal voltage. The  is equated and 
+calculated iteratively with the  from the site
+binding model. Bisection method is adopted to find 
+pHpzc and  for a particular surface charge density 
+following the belowmentioned relation.

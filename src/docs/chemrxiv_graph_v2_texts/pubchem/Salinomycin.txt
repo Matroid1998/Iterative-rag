@@ -1,0 +1,28 @@
+Name: Salinomycin
+Text:
+Salinomycin is a polyketide and a spiroketal. It has a role as an animal growth promotant and a potassium ionophore.
+Salinomycin has been reported in Streptomyces albus with data available.
+SALINOMYCIN is a small molecule drug with a maximum clinical trial phase of II.
+See also: Salinomycin Sodium (active moiety of).
+Properties:safety: Acute Toxic
+smiles: CC[C@H]([C@H]1CC[C@@H]([C@@H](O1)[C@@H](C)[C@@H]([C@H](C)C(=O)[C@H](CC)[C@@H]2[C@H](C[C@H]([C@]3(O2)C=C[C@H]([C@@]4(O3)CC[C@@](O4)(C)[C@H]5CC[C@@]([C@@H](O5)C)(CC)O)O)C)C)O)C)C(=O)O
+formula: C42H70O11
+chem_properties: Molecular Weight: 751.0 g/mol
+XLogP3: 5.7
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 11
+Rotatable Bond Count: 12
+Exact Mass: 750.49181304 Da
+Monoisotopic Mass: 750.49181304 Da
+Topological Polar Surface Area: 161
+Heavy Atom Count: 53
+Formal Charge: 0
+Complexity: 1320
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 18
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

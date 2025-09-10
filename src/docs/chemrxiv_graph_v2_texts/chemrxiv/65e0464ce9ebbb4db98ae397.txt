@@ -1,0 +1,24 @@
+Description:
+Forms non-covalent interactions such as hydrogen bonds in peptide assemblies.
+
+Text:
+Molecular selfassembly refers to the spontaneous and reversible organization of molecules into higherorder structures.1, 
+2 This phenomenon is highly prevalent in nature, where assembled entities such as DNA or proteins exhibit distinctive 
+biological functions.3 Peptidebased supramolecular architectures stand out for their biocompatibility, biodegradability, 
+and ease of synthesis.4, 5 Such structures are based on the organization of peptides into secondary structures such as 
+sheet or helix, which can then undergo hierarchical and multiscale assembly processes.68 These structures rely on non
+covalent interactions, such as hydrogen bonds, hydrophobic interactions, van der Waals forces, electrostatic and  
+interactions, respectively.9 
+In aqueous solution, these selfassembled peptide architectures can also yield hydrogels by entrapping large amounts of 
+water.1012 To generate peptide hydrogels, the use of short peptides is particularly appealing as it offers robustness, 
+scalability, and costeffectiveness.4, 7, 1315 Besides the rational design of short peptides, a common strategy to modulate 
+the selfassembling properties involves protection of the N andor Cterminus through use of acetyl or large aromatic 
+groups such as fluorenylmethoxycarbonyl protecting group (Fmoc).14, 1618 This modification reduces charge repulsions 
+and introduces stackinghydrophobic contributions, thereby promoting selfassembly and hydrogel formation.1921 
+Metal ions are frequently employed to trigger peptide assembly, thereby leading to hydrogelation.2225 Such metal ion
+coordinated peptide hydrogels hold significant potential, as they exploit the unique physicochemical characteristics of 
+metals, such as Zn(II), which play essential roles in biological processes and diseaserelated protein assemblies.13, 2629 
+For instance, zinc, known for its antimicrobial and bacteriostatic properties, is beneficial in wound healing and infection 
+prevention applications.22, 3034 Additionally, zinc plays a crucial role in collagen synthesis, imparting tensile strength to 
+the newly formed tissue at the wound site.35 However, a comprehensive understanding of the impact of metal coordination 
+on peptide assembly processes affording hydrogels remains limited.

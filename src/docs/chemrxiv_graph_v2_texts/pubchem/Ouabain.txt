@@ -1,0 +1,32 @@
+Name: Ouabain
+Text:
+Ouabain appears as odorless, white crystals or crystalline powder as an octahydrate. Used to produce rapid digitalization in acute congestive heart failure. Also recommended in treatment of atrial or nodal paroxysmal tachycardia and atrial flutter. (EPA, 1998)
+Ouabain is a steroid hormone that is a multi-hydroxylated alpha-L-rhamnosyl cardenoloide. It binds to and inhibits the plasma membrane Na(+)/K(+)-ATPase (sodium pump). It has been isolated naturally from Strophanthus gratus. It has a role as an EC 3.6.3.9 (Na(+)/K(+)-transporting ATPase) inhibitor, an EC 3.6.3.10 (H(+)/K(+)-exchanging ATPase) inhibitor, an EC 2.3.3.1 [citrate (Si)-synthase] inhibitor, an EC 3.1.3.41 (4-nitrophenylphosphatase) inhibitor, a plant metabolite, a cardiotonic drug, an ion transport inhibitor and an anti-arrhythmia drug. It is a cardenolide glycoside, a steroid hormone, an alpha-L-rhamnoside, a 14beta-hydroxy steroid, a 5beta-hydroxy steroid and an 11alpha-hydroxy steroid. It is a conjugate acid of an ouabain(1-).
+A cardioactive glycoside consisting of rhamnose and ouabagenin, obtained from the seeds of Strophanthus gratus and other plants of the Apocynaceae; used like digitalis. It is commonly used in cell biological studies as an inhibitor of the NA(+)-K(+)-exchanging ATPase.
+Ouabain has been reported in Acokanthera schimperi, Strophanthus gratus, and other organisms with data available.
+OUABAIN is a small molecule drug with a maximum clinical trial phase of IV and is indicated for cardiovascular disease.
+Ouabain is only found in individuals that have used or taken this drug. It is a cardioactive glycoside consisting of rhamnose and ouabagenin, obtained from the seeds of Strophanthus gratus and other plants of the Apocynaceae; used like digitalis. It is commonly used in cell biological studies as an inhibitor of the NA(+)-K(+)-exchanging ATPase. Ouabain inhibits the Na-K-ATPase membrane pump, resulting in an increase in intracellular sodium and calcium concentrations. Increased intracellular concentrations of calcium may promote activation of contractile proteins (e.g., actin, myosin). Ouabain also acts on the electrical activity of the heart, increasing the slope of phase 4 depolarization, shortening the action potential duration, and decreasing the maximal diastolic potential.
+A cardioactive glycoside consisting of rhamnose and ouabagenin, obtained from the seeds of Strophanthus gratus and other plants of the Apocynaceae; used like DIGITALIS. It is commonly used in cell biological studies as an inhibitor of the NA(+)-K(+)-EXCHANGING ATPASE.
+See also: Glycosides (annotation moved to).
+Properties:safety: Acute Toxic and Health Hazard
+smiles: C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@H]2C[C@H]([C@@]3([C@@H]4[C@@H](CC[C@@]3(C2)O)[C@]5(CC[C@@H]([C@]5(C[C@H]4O)C)C6=CC(=O)OC6)O)CO)O)O)O)O
+formula: C29H44O12
+chem_properties: Molecular Weight: 584.7 g/mol
+XLogP3: -1.7
+Hydrogen Bond Donor Count: 8
+Hydrogen Bond Acceptor Count: 12
+Rotatable Bond Count: 4
+Exact Mass: 584.28327683 Da
+Monoisotopic Mass: 584.28327683 Da
+Topological Polar Surface Area: 207
+Heavy Atom Count: 41
+Formal Charge: 0
+Complexity: 1080
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 15
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

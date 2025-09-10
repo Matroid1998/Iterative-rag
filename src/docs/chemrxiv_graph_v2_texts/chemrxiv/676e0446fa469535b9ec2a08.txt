@@ -1,0 +1,12 @@
+Description:
+Molecules that self-assemble to form cell membranes.
+
+Text:
+CG models13 offer the advantage of reduced computational demands compared to 
+traditional allatomic (AA) force fields,46 making them particularly suitable for 
+simulating complex system functionalities. Currently, CG models have been 
+successfully applied to investigate longtimescale functional studies in complex 
+systems, such as conformational changes in proteins,7, 8 selfassembly of cell membrane 
+phospholipids and viral capsids,9 as well as mechanical properties of biomaterials.10 
+Due to the immense potential of CG models in studying complex system functions, they 
+have seen rapid development in the last few decades.

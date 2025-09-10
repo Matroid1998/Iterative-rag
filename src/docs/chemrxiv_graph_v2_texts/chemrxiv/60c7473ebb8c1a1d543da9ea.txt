@@ -1,0 +1,12 @@
+Description:
+Can be generated as singlet oxygen through a photocatalytic pathway.
+
+Text:
+The use of light as a source for the activation of reactants can be a sustainable 
+alternative to the conventional use of thermochemical activation1, for instance for cross
+coupling reactions2. Light can also be used to access reactive intermediates under milder 
+conditions, e.g., the photocatalytic pathway to generate singlet oxygen or trifluoromethyl 
+radicals3. Various studies have already illustrated the potential for the synthesis of fine 
+chemicals and pharmaceuticals through photochemical means46; however, one of the 
+challenges which prevents the ubiquitous use of this technology is that organic molecules 
+tend to only absorb photons in the ultraviolet (UV) region.

@@ -1,0 +1,15 @@
+Description:
+A heavy atom that can induce a large spin-orbit coupling (SOC) in MRTADF molecules.
+
+Text:
+2
+ V  () (1) 
+kRISC is largely dependent on the magnitude of the SOC (V), which is proportional to the atomic 
+nuclear charge 
+ of the atoms involved in the emissive transition. Previous works have shown that 
+introducing heavy atoms such as bromine,9 iodine,10 sulfur,11 and selenium12 can induce a large 
+SOC in MRTADF molecules, thereby accelerating kRISC to greater than 105 s1, and leading to an 
+improve exciton utilization in the device.1a 
+The benzothienocarbazole (BTC) regioisomeric moieties, with their moderately heavy S atom (ZN 16), 
+rigid skeleton, and moderately strong electrondonating strength,13 have been used in DA TADF 
+emitter design.

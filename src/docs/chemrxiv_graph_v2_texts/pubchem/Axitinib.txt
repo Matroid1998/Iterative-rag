@@ -1,0 +1,32 @@
+Name: Axitinib
+Text:
+Axitinib is an indazole substituted at position 3 by a 2-(pyridin-2-yl)vinyl group and at position 6 by a 2-(N-methylaminocarboxy)phenylsulfanyl group. Used for the treatment of advanced renal cell carcinoma after failure of a first line systemic treatment. It has a role as an antineoplastic agent, a tyrosine kinase inhibitor and a vascular endothelial growth factor receptor antagonist. It is a member of indazoles, a member of pyridines, an aryl sulfide and a member of benzamides.
+Axitinib is a second generation tyrosine kinase inhibitor that works by selectively inhibiting vascular endothelial growth factor receptors (VEGFR-1, VEGFR-2, VEGFR-3). Through this mechanism of action, axitinib blocks angiogenesis, tumour growth and metastases. It is reported to exhibit potency that is 50-450 times higher than that of the first generation VEGFR inhibitors. Axitinib is an indazole derivative. It is most commonly marketed under the name Inlyta® and is available in oral formulations.
+Axitinib is a Kinase Inhibitor. The mechanism of action of axitinib is as a Receptor Tyrosine Kinase Inhibitor.
+Axitinib is an oral tyrosine kinase inhibitor selective for vascular endothelial growth factor (VEGF) receptors -1, -2 and -3 that is used in the therapy of advanced renal cell carcinoma. Axitinib therapy is commonly associated with transient elevations in serum aminotransferase that are generally mild and asymptomatic. Axitinib has yet to be linked to instances of clinically apparent acute liver injury.
+Axitinib is an orally bioavailable tyrosine kinase inhibitor. Axitinib inhibits the proangiogenic cytokines vascular endothelial growth factor (VEGF) and platelet-derived growth factor receptor (PDGF), thereby exerting an anti-angiogenic effect.
+AXITINIB is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2012 and has 6 approved and 37 investigational indications.
+A benzamide and indazole derivative that acts as a TYROSINE KINASE inhibitor of the VASCULAR ENDOTHELIAL GROWTH FACTOR RECEPTOR. It is used in the treatment of advanced RENAL CELL CARCINOMA.
+See also:  ... View More ...
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: CNC(=O)C1=CC=CC=C1SC2=CC3=C(C=C2)C(=NN3)/C=C/C4=CC=CC=N4
+formula: C22H18N4OS
+chem_properties: Molecular Weight: 386.5 g/mol
+XLogP3: 4.2
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 5
+Exact Mass: 386.12013238 Da
+Monoisotopic Mass: 386.12013238 Da
+Topological Polar Surface Area: 96
+Heavy Atom Count: 28
+Formal Charge: 0
+Complexity: 557
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

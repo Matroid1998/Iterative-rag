@@ -1,0 +1,13 @@
+Description:
+A layered cathode material widely used in Li-ion batteries.
+
+Text:
+Electrochemical ion insertion of guest species into host structures is widely used in various 
+applications1, including neuromorphic computing2, electrochromic windows3, and, most 
+prominently, energy storage4. The ion insertion rate is a critical determinant for important 
+performance parameters including switching speed, charging rate, and power density. The ion 
+insertion rate strongly depends on two material parameters the solid ion diffusion rate in the bulk, 
+and the reaction rate at the electrodeelectrolyte interface5. Therefore, an accurate understanding 
+of the diffusion and reaction rate is critically important for designing ion insertion devices. Layered Li(Ni,Mn,Co)O2 (NMC) and Li(Ni,Co,Al)O2 (NCA) are the most widely used 
+cathodes for Liion batteries. NMC and NCA secondary particles (10 m) consist of a sintered 
+polycrystalline agglomerate of many primary particles, each 100500 nm.

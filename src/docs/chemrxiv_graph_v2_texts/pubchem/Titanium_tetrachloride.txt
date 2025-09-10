@@ -1,0 +1,26 @@
+Name: Titanium tetrachloride
+Text:
+Titanium tetrachloride is a colorless to pale yellow liquid that has fumes with a strong odor. If it comes in contact with water, it rapidly forms hydrochloric acid, as well as titanium compounds. Titanium tetrachloride is not found naturally in the environment and is made from minerals that contain titanium. It is used to make titanium metal and other titanium-containing compounds, such as titanium dioxide, which is used as a white pigment in paints and other products and to produce other chemicals.
+Titanium tetrachloride appears as a colorless fuming liquid with a pungent odor. Corrosive to metals and tissue. Very toxic by inhalation.
+Environmental exposure to titanium tetrachloride is unlikely because it breaks down rapidly in water. Titanium tetrachloride is highly irritating to the skin, eyes, and mucous membranes in humans. Acute (short-term) exposure may result in surface skin burns and marked congestion and constriction of various sections of the upper respiratory tract in humans. Acute exposure may also damage the eyes. Diseases of the lung (pleural diseases) have been associated with chronic (long-term) occupational exposure of titanium tetrachloride in titanium metal production workers. Chronic inhalation exposure may result in upper respiratory tract irritation, chronic bronchitis, cough, bronchoconstriction, wheezing, chemical pneumonitis, or pulmonary edema in humans. EPA has not classified titanium tetrachloride with respect to carcinogenicity.
+Properties:safety: Corrosive
+smiles: Cl[Ti](Cl)(Cl)Cl
+formula: Cl4Ti
+chem_properties: Molecular Weight: 189.7 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 189.820401 Da
+Monoisotopic Mass: 187.823351 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 19.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

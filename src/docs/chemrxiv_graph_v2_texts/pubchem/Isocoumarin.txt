@@ -1,0 +1,27 @@
+Name: Isocoumarin
+Text:
+Isocoumarin is the simplest member of the class of isocoumarins that is 1H-isochromene which is substituted by an oxo group at position 1. It derives from a hydride of a 1H-isochromene.
+Isocoumarin has been reported in Streptomyces and Tessmannia densiflora with data available.
+Compounds that differ from COUMARINS in having the positions of the ring and ketone oxygens reversed so the keto oxygen is at the 1-position of the molecule.
+Properties:safety: Irritant
+smiles: C1=CC=C2C(=C1)C=COC2=O
+formula: C9H6O2
+chem_properties: Molecular Weight: 146.14 g/mol
+XLogP3: 1.9
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 146.036779430 Da
+Monoisotopic Mass: 146.036779430 Da
+Topological Polar Surface Area: 26.3
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 196
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

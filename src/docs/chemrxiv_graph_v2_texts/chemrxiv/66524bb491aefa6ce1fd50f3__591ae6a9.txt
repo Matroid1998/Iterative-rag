@@ -1,0 +1,37 @@
+Description:
+Quasitype II giant coreshell quantum dots with reduced blinking and increased size.
+
+Text:
+Furthermore, external silica shells 
+can be grown on coreshell QDs to increase the particle size to near 100 nm.17,27 Although silica shells 
+provide a path for deterministic positioning of emissive QDs, the singleparticle PL of silicashelled QDs 
+suffers a high degree of blinking due to additional charged states induced by the CdSSiO2 interface.17,28 
+The largest emissive QDs without silica shells reported in the literature up to now are the traditional 
+quasitype II giant coreshell CdSeCdS QDs, with 1520 CdS monolayers (MLs) and total diameters 
+ranging from 20 to 50 nm.2932 The giant CdS shells not only increase the size of the emissive QDs but 
+also reduce blinking through Auger recombination suppression and isolate the exciton from surface 
+interaction.29,33,34 In these quasitype II coreshell systems, the electron wavefunction is delocalized into 
+the CdS shell, while the hole wavefunction is effectively confined within the CdSe core.
+
+
+---
+
+Description:
+Large core-shell quantum dots grown using SILAR and HTCI methods.
+
+Text:
+This geometric 
+separation of charge carriers results in multiexciton formation that is advantageous for lasing and can 
+affect the singlephoton purity.32,3538 
+The two main methods to grow large coreshell CdSeCdS are successive ionic layer adsorption and 
+reaction (SILAR) and hightemperature continuous injection (HTCI).29,30,39 The differences between the 
+two methods and the correlation between synthetic conditions and QD properties have been rigorously 
+studied by Hollingsworth and coworkers.29,30,40,41 By examining 20 nm, truncated octahedral QDs 
+prepared by the two methods, they showed that while both methods result in nonblinking QDs with high 
+stability, QDs prepared by the HTCI method have significantly higher PL quantum yield (QY) while QDs 
+prepared by the SILAR method have better optical stability at ambient conditions.30 Further indepth 
+analysis revealed that high crystalline quality with high interfacial alloying and low defect concentrations 
+in the CdS shells could be achieved with the HTCI method by postsynthetic annealing and the use of 1
+octanethiol, which acts as both S precursor and growthfacilitating ligand.30 Using the HTCI method but 
+with S dissolved in ODE (SODE) as the sulfur precursor instead of 1octanethiol, Dubertret and 
+httpsdoi.org10.26434chemrxiv2024md0hn ORCID httpsorcid.org0000000298913259 Content not peerreviewed by ChemRxiv.

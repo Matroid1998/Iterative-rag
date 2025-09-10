@@ -1,0 +1,32 @@
+Name: 1,4-Dioxane
+Text:
+1,4-Dioxane is a clear liquid that easily dissolves in water. It is used primarily as a solvent in the manufacture of chemicals and as a laboratory reagent; 1,4-dioxane also has various other uses that take advantage of its solvent properties. 1,4-Dioxane is a trace contaminant of some chemicals used in cosmetics, detergents, and shampoos. However, manufacturers now reduce 1,4-dioxane from these chemicals to low levels before these chemicals are made into products used in the home.
+1,4-Dioxane can cause cancer according to an independent committee of scientific and health experts.
+Dioxane appears as a clear colorless liquid with a faint ethereal odor. Flash point 55 °F. Slightly denser than water and soluble in water. Vapors heavier than air. Susceptible to autooxidation to form peroxides.
+1,4-dioxane is a dioxane with oxygen atoms at positions 1 and 4. It has a role as a non-polar solvent, a carcinogenic agent, a metabolite and a NMR chemical shift reference compound. It is a volatile organic compound and a dioxane.
+1,4-Dioxane is used as a solvent. Acute (short-term) inhalation exposure to high levels of 1,4-dioxane has caused vertigo, drowsiness, headache, anorexia and irritation of the eyes, nose, throat, and lungs in humans. It may also irritate the skin. Damage to the liver and kidneys has been observed in rats chronically (long-term) exposed in their drinking water. In three epidemiologic studies on workers exposed to 1,4-dioxane, the observed number of cancer cases did not differ from the expected cancer deaths. Tumors have been observed in orally exposed animals. EPA has classified 1,4-dioxane as a Group B2, probable human carcinogen.
+Dioxane has been reported in Zingiber mioga and Opuntia ficus-indica with data available.
+1,4-Dioxane is a synthetic, volatile, colorless liquid that is miscible with water, most organic solvents, aromatic hydrocarbons and oils. It is used primarily as a stabilizer in chlorinated solvents. 1,4-Dioxane is also used as a solvent for numerous commercial products and as a wetting/dispersing agent in textile processing. In research, it is used in certain biological procedures such as liquid scintillation counting and the preparation of histological sections for microscopic examination. The primary routes of potential human exposure to 1,4-dioxane are inhalation, ingestion and dermal contact. Acute exposure to low levels of 1,4-dioxane vapors causes eye and nose irritation. Exposure to very high levels of these vapors can result in liver and kidney damage and death. It is reasonably anticipated to be a human carcinogen. (NCI05)
+1,4-Dioxane (commonly referred to as simply ‘dioxane’) is used as a solvent in the manufacture of other chemicals and as a laboratory reagent. It is a trace contaminant of some chemicals used in cosmetics, detergents, and shampoos. (L1189)
+Properties:safety: Flammable and Irritant and Health Hazard
+smiles: C1COCCO1
+formula: C4H8O2
+chem_properties: Molecular Weight: 88.11 g/mol
+XLogP3: -0.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 88.052429494 Da
+Monoisotopic Mass: 88.052429494 Da
+Topological Polar Surface Area: 18.5
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 26.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,18 @@
+Description:
+A version of ICG evaluated for customized imaging properties.
+
+Text:
+However, ICG is known for several clinical performance limitations 
+including chemical instability in aqueous solution,8 which limits its clinical use to six hours after 
+dose reconstitution, and moderate susceptibility to photobleaching.9 In addition, ICG self
+aggregation or albumin association means the spectral properties, including fluorescence 
+quantum yield and electronic excited state lifetime are concentration dependent.10 Efforts to 
+mitigate these drawbacks have included strategies that encapsulate ICG within protective 
+nanocapsules such as liposomes, proteins, or hyperbranched polymers.11 There are also 
+preclinical and clinical protocols that combine ICG with other fluorescent dyes with different 
+wavelengths for multicolor imaging and sensing applications.12 13 14 The feasibility of this 
+approach is enhanced by ongoing advances in camera technology that enables advanced 
+methods of multicolor and lifetime imaging.15 16 
+As part of an ongoing project to develop structural analogues of ICG with customized imaging 
+properties, 9 17 we decided to evaluate the pentamethine version of ICG which we call 
+Indocyanine Blue (ICB, see Scheme 1).

@@ -1,0 +1,24 @@
+Name: Phenyllithium
+Text:
+Phenyllithium is an aryllithium compound.
+Properties:safety: Flammable and Corrosive and Irritant
+smiles: [Li+].C1=CC=[C-]C=C1
+formula: C6H5Li
+chem_properties: Molecular Weight: 84.1 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 84.05512859 Da
+Monoisotopic Mass: 84.05512859 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 95.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

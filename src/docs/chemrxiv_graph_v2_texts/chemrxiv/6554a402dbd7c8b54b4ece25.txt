@@ -1,0 +1,12 @@
+Description:
+Has a strong fluorescence signature in aqueous solution.
+
+Text:
+guanine(13) and isoguanine(14)) may be more photostable
+than the homosubstituted purines (2,6diaminopurine and xanthine(15, 16)), while purines
+with a single ligand (adenine,(17) 2AP,(18) 2oxopurine,(19) and hypoxanthine(20)) appear
+to be more photostable than most purines with two ligands. (13) MartinezFernandez et al. in a thorough computational study on the photostability effects of position and oxoamino
+substitution for purines with a single ligand,(19) found that amino or oxo substitution at C2
+has little effect on the photodynamics, while C6 functionalization leads to photostability. However, these general trends do not include details, such as the role of the solvent. A wellknown example of this structure dependence is the difference between
+adenine (6aminopurine), and its isomer 2aminopurine (2AP). 2AP has a strong
+fluorescence signature in aqueous solution, while adenine does not.

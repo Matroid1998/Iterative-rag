@@ -1,0 +1,36 @@
+Description:
+Enables RT-operable ultrasensitive gas sensors with ppb detection limits and high selectivity.
+
+Text:
+This has led to particular progress in the detection
+of NO2 1623, with the main competing platforms based on Mo
+bearing sheets, i.e., molybdenum disulfide (MoS2), molybdenum dise
+lenide (MoSe2), and molybdenum ditelluride (MoTe2). All three enable
+RToperable ultrasensitive gas sensors with ppb detection limits, high
+selectivity, realtime response, and rapid onoff switching, which is due
+Corresponding author
+Email address maciej.szaryput.poznan.pl (Maciej J. Szary)
+to them sharing the same type of atomic structure. Mobearing TMDs
+favor trigonalparticle geometry with Mo atoms sandwiched between
+two layers of chalcogens. It results in electronic states at the valence
+band maximum (VMB) capable of acting as electron donors upon ad
+sorption of NO2 24.
+
+
+---
+
+Description:
+Applied in sensor applications with gate bias and illumination for gas detection.
+
+Text:
+The comparison becomes further complicated by sub
+sequent attempts to improve the sensing characteristics. The gate bias
+based solution has shown promising results for MoS2 20, MoSe2 21,
+and MoTe2 18, but the voltage used varied between reports. Further
+more, studies with sensor illumination have considered sheets of MoS2
+22, 23 and MoTe2 19. However, they used different light sources
+and intensities. Consequently, it is still unclear which layer holds the
+greatest potential for detecting NO2. Sensor sensitivity is critically dependent on the charge transfer
+(Q) between the analyte and the sensing layer. This process affects
+properties that can be easily and precisely monitored, such as conduc
+tivity and photoluminescence, enabling gas detection.

@@ -1,0 +1,14 @@
+Description:
+A class of compounds with high activity and physicochemical tunability used in CO2 reduction reactions.
+
+Text:
+A carbonneutral, or even 
+negative, cycle demands viable approaches to capture and convert CO2 into compounds with 
+added value.2,3 Consequently, a great deal of research is ongoing toward means to promote the 
+CO2 reduction reaction (CO2RR).4,5 Layered transition metal dichalcogenides (TMDC) of the 
+general formula MX2 (M 4 or 5 metal, XSTe) constitute a class of compounds attracting 
+interest for this purpose thanks to high activity and physicochemical tunability.6 Beyond CO2RR, 
+TMDCs have shown broad catalytic activity towards other reactions, such as oxygen reduction,7 
+hydrodesulfurization,8,9 and hydrogen evolution (HER).10,11 Among TMDCs, MoS2 has the most 
+established track record as a CO2RR electrocatalyst,12,13 thus serving a good model system to 
+uncover fundamental underpinnings of function that may apply to TMDCs as a class of materials.

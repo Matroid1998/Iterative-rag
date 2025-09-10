@@ -1,0 +1,22 @@
+Description:
+Studied for its decomposition at lithium surfaces using ab initio molecular dynamics.
+
+Text:
+To the best of our
+knowledge there is no systematic study so far on the decom
+position and the formation of different possible products for
+varying LiIL ratios employing electronic structure methods. Previous computational studies mainly used ab initio molec
+ular dynamics to study the decomposition of (BMP)TFSI at
+lithium surfaces.1922 In theses studies different decomposi
+tion products were found, including large fragments, such as
+NSO2CF3,19,20,22 but also solely atomic constituents,21 de
+pending on the length of the simulation. In the present study
+we use both density functional theory (DFT) calculations and
+xray photoelectron spectroscopy (XPS) to elucidate possible
+products of the reaction
+BMPTFSIxLi 
+i
+i(Lil(i)Cc(i)Hh(i)Ff(i)Nn(i)Oo(i)Ss(i)),
+(1)
+where the stoichiometry on the righthand side reects the
+atomic constituents of BMPTFSI.

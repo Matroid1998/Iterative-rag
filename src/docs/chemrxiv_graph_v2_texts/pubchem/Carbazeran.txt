@@ -1,0 +1,24 @@
+Name: Carbazeran
+Text:
+Properties:safety: Acute Toxic
+smiles: CCNC(=O)OC1CCN(CC1)C2=NN=CC3=CC(=C(C=C32)OC)OC
+formula: C18H24N4O4
+chem_properties: Molecular Weight: 360.4 g/mol
+XLogP3: 2.1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 6
+Exact Mass: 360.17975526 Da
+Monoisotopic Mass: 360.17975526 Da
+Topological Polar Surface Area: 85.8
+Heavy Atom Count: 26
+Formal Charge: 0
+Complexity: 458
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

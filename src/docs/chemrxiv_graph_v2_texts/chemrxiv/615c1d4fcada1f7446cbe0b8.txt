@@ -1,0 +1,9 @@
+Description:
+Used as an electrolyte in electrochemical processes.
+
+Text:
+Thin film BDD1117 has been used for 
+EOP with either water,13,14,17 sulfuric acid,11,12 or perchloric acid12 as the electrolyte. In water, 
+a Nafion separating membrane is essential, functioning as both a solid electrolyte and as a 
+proton transporter. Perforated freestanding BDD electrodes have also been used in ozone 
+generation,15,16 designed with an aim to maximize contact between BDD, solution and the

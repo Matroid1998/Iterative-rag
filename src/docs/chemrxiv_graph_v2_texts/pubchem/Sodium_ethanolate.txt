@@ -1,0 +1,24 @@
+Name: Sodium ethanolate
+Text:
+Sodium ethoxide is an organic monosodium salt that has ethoxide as the counterion. It has a role as a nucleophilic reagent. It contains an ethoxide.
+Properties:safety: Flammable and Corrosive
+smiles: CC[O-].[Na+]
+formula: C2H5ONa
+chem_properties: Molecular Weight: 68.05 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 68.02380906 Da
+Monoisotopic Mass: 68.02380906 Da
+Topological Polar Surface Area: 23.1
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

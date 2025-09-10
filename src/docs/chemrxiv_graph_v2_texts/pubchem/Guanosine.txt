@@ -1,0 +1,32 @@
+Name: Guanosine
+Text:
+Guanosine is a purine nucleoside in which guanine is attached to ribofuranose via a beta-N(9)-glycosidic bond. It has a role as a fundamental metabolite. It is a purines D-ribonucleoside and a member of guanosines. It is functionally related to a guanine.
+Guanosine is a nucleoside comprising guanine attached to a ribose (ribofuranose) ring via a β-N9-glycosidic bond. Guanosine can be phosphorylated to become GMP (guanosine monophosphate), cGMP (cyclic guanosine monophosphate), GDP (guanosine diphosphate) and GTP (guanosine triphosphate) which are factors in signal transduction pathways.
+Guanosine is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Ribonucleoside is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Guanosine has been reported in Daphnia pulex, Sinocrassula indica, and other organisms with data available.
+Guanosine is a purine nucleoside formed from a beta-N9-glycosidic bond between guanine and a ribose ring and is essential for metabolism.
+Guanosine is a metabolite found in or produced by Saccharomyces cerevisiae.
+A purine nucleoside that has guanine linked by its N9 nitrogen to the C1 carbon of ribose. It is a component of ribonucleic acid and its nucleotides play important roles in metabolism. (From Dorland, 28th ed)
+Properties:safety: Acute Toxic
+smiles: C1=NC2=C(N1[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)N=C(NC2=O)N
+formula: C10H13N5O5
+chem_properties: Molecular Weight: 283.24 g/mol
+XLogP3: -1.9
+Hydrogen Bond Donor Count: 5
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 2
+Exact Mass: 283.09166853 Da
+Monoisotopic Mass: 283.09166853 Da
+Topological Polar Surface Area: 155
+Heavy Atom Count: 20
+Formal Charge: 0
+Complexity: 446
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,36 @@
+Description:
+A compound that can provide oxygen atoms.
+
+Text:
+This
+oxygen atom is provided by either O2 or H2O2.15 Steadily grow
+ing experimental and computational evidence suggests that H2O2
+a Department of Physics, Chemistry, and Pharmacy, University of Southern Denmark,
+Campusvej 55, 5230 Odense, Denmark; Email erdhsdu.dk; ernasdu.dk
+b Department of Chemistry, Lund University, Naturvetarvgen 14, 221 00 Lund, Swe
+den. Supplementary Information available Details regarding the protein setup for
+QMMM calculations and employed QM regions. Additonal data for the Cu state
+1 and the superoxide state 2, the dissociation, and the first, second and internal
+proton transfers.
+
+
+---
+
+Description:
+A product formed either by the release of O2 from the active site or directly at the active site through reduction and protonation.
+
+Text:
+A putative mechanism for H2O2 production is shown in Fig. 1. After the primary reduction of Cu(II), O2 binds to Cu(I), lead
+ing to the formation of a superoxide (O 
+2
+) species bound to
+Cu(II).25 From here, the reaction could proceed in two ways (i)
+O 
+2
+could be released from the activesite and form H2O2 in so
+lution, or (ii) LPMOs could form H2O2 directly at their activesite
+through successive reduction and protonation (cf. Fig. 1). How
+ever, the order of reduction and protonation is unknown. At sev
+eral points during this reductionprotonation one could envisage
+release of a reactive oxygen species into solution that could lead
+to H2O2 formation (shown in light blue in Fig. 1).

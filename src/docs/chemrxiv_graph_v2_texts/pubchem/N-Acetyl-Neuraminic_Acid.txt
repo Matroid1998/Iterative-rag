@@ -1,0 +1,30 @@
+Name: N-Acetyl-Neuraminic Acid
+Text:
+N-acetylneuraminic acid is an N-acylneuraminic acid where the N-acyl group is specified as acetyl. It has a role as an antioxidant, an EC 3.2.1.18 (exo-alpha-sialidase) inhibitor, a bacterial metabolite, a human metabolite and a mouse metabolite. It is a conjugate acid of a N-acetylneuraminate.
+N-Acetylneuraminic acid is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+N-acetylneuraminate is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+N-Acetyl-Neuraminic Acid has been reported in Homo sapiens, Brassica napus, and Trypanosoma brucei with data available.
+An N-acyl derivative of neuraminic acid. N-acetylneuraminic acid occurs in many polysaccharides, glycoproteins, and glycolipids in animals and bacteria. (From Dorland, 28th ed, p1518)
+See also: Aceneuramic Acid (annotation moved to).
+Properties:safety: Irritant
+smiles: CC(=O)N[C@@H]1[C@H](CC(O[C@H]1[C@@H]([C@@H](CO)O)O)(C(=O)O)O)O
+formula: C11H19NO9
+chem_properties: Molecular Weight: 309.27 g/mol
+XLogP3: -3.5
+Hydrogen Bond Donor Count: 7
+Hydrogen Bond Acceptor Count: 9
+Rotatable Bond Count: 5
+Exact Mass: 309.10598118 Da
+Monoisotopic Mass: 309.10598118 Da
+Topological Polar Surface Area: 177
+Heavy Atom Count: 21
+Formal Charge: 0
+Complexity: 403
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 5
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

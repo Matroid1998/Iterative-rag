@@ -1,0 +1,29 @@
+Name: Glycidol
+Text:
+Glycidol can cause cancer according to The National Toxicology Program.
+Glycidol is an odorless clear colorless liquid. (NTP, 1992)
+Glycidol is an epoxide and a primary alcohol. It is functionally related to a 1,2-epoxypropane.
+Glycidol is slightly viscous, colorless and odorless liquid cyclic ether. Glycidol is used as a stabilizer for natural oils and vinyl polymers, as an alkylating agent, a sterilant, a demulsifier, a dye-leveling agent and it is also used as an intermediate in the synthesis of glycerol, glycidyl ethers and amines. Exposure to Glycidol irritates the skin, eyes, and mucous membranes and depresses the central nervous system in humans. Glycidol induces mutations in human lymphocytes and is reasonably anticipated to be a human carcinogen. (NCI05)
+Glycidol is an organic compound that contains both epoxide and alcohol functional groups. Being bifunctional, it has a variety of industrial uses. The compound is a slightly viscous liquid that is slightly unstable and is not often encountered in pure form. Glycidol is an irritant of the skin, eyes, mucous membranes, and upper respiratory tract. Exposure to glycidol may also cause central nervous system depression, followed by central nervous system stimulation.
+Properties:safety: Acute Toxic and Health Hazard
+smiles: C1C(O1)CO
+formula: C3H6O2
+chem_properties: Molecular Weight: 74.08 g/mol
+XLogP3: -0.9
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 74.036779430 Da
+Monoisotopic Mass: 74.036779430 Da
+Topological Polar Surface Area: 32.8
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 35.9
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

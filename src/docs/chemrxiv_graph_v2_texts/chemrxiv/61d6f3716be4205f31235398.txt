@@ -1,0 +1,10 @@
+Description:
+Bridging ligands that facilitate magnetic interactions in Mn12 clusters.
+
+Text:
+If magnetic anisotropy is present in such a system, it shows MNM properties.23, 
+24 An MNM of this type stands behind the success story of the whole field as it was indeed started by the 
+discovery of a dodecanuclear carboxylatebridged cluster Mn12  a highspin molecule (S  10) comprising 
+eight MnIII and four MnIV ions interacting magnetically via the bridging carboxylate ligands.2527 However, 
+the indirect character of these magnetic interactions, based on weak superexchange coupling mechanism, 
+limits the performance of Mn12 to very low temperatures, below the boiling point of liquid helium.

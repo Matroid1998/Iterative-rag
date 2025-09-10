@@ -1,0 +1,23 @@
+Name: Acridine Yellow
+Text:
+Properties:safety: Irritant and Health Hazard
+smiles: CC1=CC2=CC3=C(C=C(C(=C3)C)N)N=C2C=C1N.Cl
+formula: C15H15N3.ClH
+chem_properties: Molecular Weight: 273.76 g/mol
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 273.1032752 Da
+Monoisotopic Mass: 273.1032752 Da
+Topological Polar Surface Area: 64.9
+Heavy Atom Count: 19
+Formal Charge: 0
+Complexity: 278
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

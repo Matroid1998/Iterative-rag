@@ -1,0 +1,10 @@
+Description:
+The most used photocatalyst for wastewater treatment, capable of absorbing UV light.
+
+Text:
+Photocatalysis involves the use of a semiconductor catalyst and light to produce highly reactive 
+species, such as hydroxyl radicals, that can oxidize and degrade organic pollutants into possibly 
+harmless products. Titanium dioxide (TiO2) is a widely used photocatalyst due to its high 
+reactivity and stability, and the most used photocatalyst for wastewater treatment ((S.J. Armakovi, M.M. Savanovi, S. Armakovi, Titanium dioxide as the most used photocatalyst for 
+water purification an overview. Catalysts. 13, 26 (2022).)). However, TiO2 can only absorb UV 
+light, which makes up a small portion of the solar spectrum.

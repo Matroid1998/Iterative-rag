@@ -1,0 +1,15 @@
+Description:
+A gas that can be chemically absorbed by aqueous amine solutions.
+
+Text:
+As 
+such, porous liquids might allow for new, different processes, rather than simply replacing 
+porous solids. There are already excellent examples of what conventional (nonporous) liquid solvents can 
+achieve in industrial processes such as wetscrubbing for CO2 capture, which involves 
+aqueous amine solutions to chemically absorb CO2.23 However, this typically requires large 
+amounts of energy to regenerate the liquid.24 Porous liquids, on the other hand, might be 
+adapted into existing infrastructure that uses conventional flow processes, while also lowering 
+the energy penalty of solvent regeneration by exploiting physisorption rather than 
+chemisorption.25,26 In addition, the incorporation of discrete molecules or frameworks into a 
+liquid also adds the potential for shape and size specificity, allowing porous liquids to be 
+tailored towards target separations and applications.27,28

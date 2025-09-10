@@ -1,0 +1,12 @@
+Description:
+Used in complexes for which intrinsic aqueous solubility is predicted using QSPR modelling.
+
+Text:
+In this respect, insilico estimation of the aqueous solubility for the large number of drug
+candidates typically considered during lead optimization (before synthesis) is essential for streamlining and
+accelerating this traditionally lengthy and costly process. It is currently estimated that 40 of marketed drug
+products, and 7090 of drug candidates in development stages have a low aqueous solubility. This results
+in low bioavailability, which often necessitates higher doses in the final formulations in order to achieve the
+desired therapeutic effect. However, this can also increase the risk of toxicity.2
+In this study, we use quantitative structureproperty relationship (QSPR) modelling to predict the intrinsic
+aqueous solubility of platinum complexes.

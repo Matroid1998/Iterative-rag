@@ -1,0 +1,14 @@
+Description:
+An analog used in the development of SAM-competitive inhibitors.
+
+Text:
+Firstgen
+eration PRMT5 inhibitors engage either the cosubstrate or pep
+tidesubstrate pockets through mechanisms that are either 
+competitive or uncompetitive with SAM. The adenosine ana
+logs LLY283 and PF06939999 represent some of the first de
+scribed SAMcompetitive inhibitors and display high potency 
+and selectivity for PRMT5 over other PRMTs.1215 The peptide
+substrate binding pocket is structurally diverse as PRMTs 
+methylate a range of proteins, affording distinct opportunities 
+for targeting PRMT5.

@@ -1,0 +1,25 @@
+Name: Ceric oxide
+Text:
+Ceric oxide is a metal oxide with formula CeO2. It is used for polishing glass, in coatings for infra-red filters to prevent reflection, and as an oxidant and catalyst in organic synthesis. It is a cerium molecular entity and a metal oxide.
+See also: Cerium oxide (annotation moved to); Cerium (IV) oxide (annotation moved to); Cerium Oxide and Cerium Compounds (annotation moved to) ... View More ...
+Properties:safety: Health Hazard
+smiles: O=[Ce]=O
+formula: CeO2
+chem_properties: Molecular Weight: 172.115 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 171.89528 Da
+Monoisotopic Mass: 171.89528 Da
+Topological Polar Surface Area: 34.1
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 18.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

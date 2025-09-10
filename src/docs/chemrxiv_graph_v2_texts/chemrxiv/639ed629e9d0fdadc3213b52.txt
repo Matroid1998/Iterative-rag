@@ -1,0 +1,10 @@
+Description:
+Formed through electrochemical functionalization of benzylic C(sp3) H bonds.
+
+Text:
+In the recent years, several electrochemical methods for the functionalization of benzylic C(sp3)
+H bonds have been reported to form CN, CO, Chalogen or even CC bonds.1,2 These processes 
+usually involve the oxidation of the benzylic position of 1 directly at the anode via single electron 
+transfers (SET) or via an electromediator. The resulting benzylic radical A could react with a 
+radical acceptor or be further oxidized into a carbocation that could be intercepted by a 
+nucleophile already present in the reaction media to yield 2 (Scheme 1). Scheme 1. Proposed electrochemical benzylic arylation via convergent paired electrolysis.

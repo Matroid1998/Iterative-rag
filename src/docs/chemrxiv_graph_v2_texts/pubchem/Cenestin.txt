@@ -1,0 +1,26 @@
+Name: Cenestin
+Text:
+Equilin sodium sulfate is a steroid sulfate. It is functionally related to an equilin.
+Estrogens and oral contraceptives are both associated with several liver related complications including intrahepatic cholestasis, sinusoidal dilatation, peliosis hepatis, hepatic adenomas, hepatocellular carcinoma, hepatic venous thrombosis and an increased risk of gallstones. These side effects are more common with higher doses of estrogens, as were used in the early high dose estrogen formulation of oral contraceptives, but they have also been described with use of more modern birth control pills and with low dose, estrogen hormonal replacement therapy.
+See also: Estrogens, Conjugated (annotation moved to); Estrogens, Conjugated Synthetic A (annotation moved to).
+Properties:safety: Irritant and Health Hazard
+smiles: C[C@]12CC[C@H]3C(=CCC4=C3C=CC(=C4)OS(=O)(=O)[O-])[C@@H]1CCC2=O.[Na+]
+formula: C18H19NaO5S
+chem_properties: Molecular Weight: 370.4 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 2
+Exact Mass: 370.08508916 Da
+Monoisotopic Mass: 370.08508916 Da
+Topological Polar Surface Area: 91.9
+Heavy Atom Count: 25
+Formal Charge: 0
+Complexity: 682
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 3
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

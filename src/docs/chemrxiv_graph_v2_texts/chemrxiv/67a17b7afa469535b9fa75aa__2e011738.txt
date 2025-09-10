@@ -1,0 +1,13 @@
+Description:
+Studied as plasticizers of solid polymer electrolytes (SPEs) with enhanced ionic conductivity and oxidative stability.
+
+Text:
+For 
+instance, ionic liquids including pyrrolidinium salts,11 alkyl ammonium salts,12 pyridinium salts,13 and 
+imidazolium salts14 have been studied as plasticizers of SPEs and the resulting electrolyte mixtures all 
+demonstrated enhanced ionic conductivity,15, 16 andor oxidative stability.17 However, given the vast 
+range of possible chemical variations of ionic liquids and the complex formulation space, it is uncertain 
+that these intuitionbased designs have achieved the most optimized plasticizer for SPEs (Figure 1a). On the other hand, the sparsity of available data18 and the inconsistency of experimental conditions in 
+the literature19, 20 also prevents a straightforward adoption of machine learning strategies to analyze 
+these materials. Thus, we envisioned that a simpler datadriven approach that establishes quantitative 
+httpsdoi.org10.26434chemrxiv2025mtmkb ORCID httpsorcid.org0000000161373239 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

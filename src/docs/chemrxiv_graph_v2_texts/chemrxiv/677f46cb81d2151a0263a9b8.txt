@@ -1,0 +1,10 @@
+Description:
+Used in the Fischer-Tropsch process to remove oxygen.
+
+Text:
+However, this process 
+is energy intensive and generates carbonaceous deposits (coke), leading to catalyst deactivation.15, 
+16 In addition, the subsequent FischerTropsch process requires either CO or H2 to remove oxygen 
+from CO, reducing the carbon atom utilization efficiency or consuming valuable H2 resources. Thus, direct methane conversion to multicarbon hydrocarbons operating at mild conditions 
+without going through the intermediate syngas production is more economically and 
+environmentally desirable.

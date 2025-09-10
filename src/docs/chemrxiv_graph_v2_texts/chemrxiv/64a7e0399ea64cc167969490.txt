@@ -1,0 +1,29 @@
+Description:
+A mineral micronutrient with low solubility that limits its availability for plants.
+
+Text:
+Essential micronutrients are extremely important for the survival of all living beings, and 
+encompass substances like vitamins, amino acids or minerals. In humans, micronutrient 
+malnutrition causes impaired growth and cognitive development as well as low disease 
+resistance.1 The development of micronutrient rich plant crops is considered the most cost
+effective and sustainable approach to battle this hidden hunger. 2 Thus, understanding the 
+mechanisms involved in plant micronutrient acquisition is a prerequisite for successful plant 
+breeding programs. Even though mineral micronutrients, like Fe, Cu or Zn are abundant in the earths crust, low 
+solubility limits the availability for plants due to differences in soil mineral composition and pH. Thus, plants have established different strategies to increase their uptake of these ions.
+
+
+---
+
+Description:
+Insoluble in its Fe(III) form and requires complexation for uptake by plants.
+
+Text:
+With 
+regard to Fe, two acquisition mechanisms have evolved. All nongramineous plants rely on a 
+multistep process including acidifying the rhizosphere, reducing Fe(III) to Fe(II) via enzymes 
+on the cell wall and complexation of the Fe(II) followed by uptake into the cell (strategy I). 3 
+In contrast, all gramineous plants synthesize socalled phytosiderophores (PS) that are 
+secreted into the surrounding soil (socalled rhizosphere where complexation of insoluble 
+Fe(III) can take place. The metalPS complex is transported back into the cell where the metal 
+ion is liberated. 4 The biosynthesis and secretion of PS is upregulated if the plant experiences 
+micronutrient deficiency.

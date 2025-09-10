@@ -1,0 +1,29 @@
+Name: Ozone
+Text:
+Ozone appears as a colorless to bluish gas that condenses to a dark blue liquid, or blue-black crystals. Has a characteristic odor in concentrations less than 2 ppm. Used as a disinfectant for air and water; used for bleaching waxes, textiles and oils, ozonolysis of unsaturated fatty acids to pelargonic and other acids; manufacture of ink; catalyst; water treatment for taste and odor control; mold and bacteria inhibitor in cold storage; bleaching agent. (EPA, 1998)
+Ozone is an elemental molecule with formula O3. An explosive, pale blue gas (b.p. -112℃) that has a characteristic, pungent odour, it is continuously produced in the upper atmosphere by the action of solar ultraviolet radiation on atmospheric oxygen. It is an antimicrobial agent used in the production of bottled water, as well as in the treatment of meat, poultry and other foodstuffs. It has a role as a member of greenhouse gas, a disinfectant, a tracer, an electrophilic reagent, a mutagen, an oxidising agent and an antiseptic drug. It is a member of reactive oxygen species, an elemental molecule, a triatomic oxygen and a gas molecular entity.
+Ozone has been used in trials studying the treatment of Mild Asthma and Primary Apical Periodontite.
+OZONE is a small molecule drug with a maximum clinical trial phase of III (across all indications) and has 6 investigational indications.
+The unstable triatomic form of oxygen, O3. It is a powerful oxidant that is produced for various chemical and industrial uses. Its production is also catalyzed in the ATMOSPHERE by ULTRAVIOLET RAY irradiation of oxygen or other ozone precursors such as VOLATILE ORGANIC COMPOUNDS and NITROGEN OXIDES. About 90% of the ozone in the atmosphere exists in the stratosphere (STRATOSPHERIC OZONE).
+Properties:safety: Oxidizer and Corrosive and Acute Toxic and Irritant and Health Hazard and Environmental Hazard
+smiles: [O-][O+]=O
+formula: O3
+chem_properties: Molecular Weight: 47.998 g/mol
+XLogP3: -1.7
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 47.984743858 Da
+Monoisotopic Mass: 47.984743858 Da
+Topological Polar Surface Area: 41.1
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 4.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

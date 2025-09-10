@@ -1,0 +1,13 @@
+Description:
+A divalent cation used in metal halide perovskites.
+
+Text:
+Metal halide perovskites are promising candidates in the field of photocatalytic activity, 
+photovoltaics (PV), lightemitting applications, and lasers due to their versatile composition, 
+crystalline structure, and tunable optical properties.13 Generally, the metal halide perovskites 
+(HPs) are expressed in the form of ABX3, where A is a monovalent cation (organic or inorganic), 
+B is a divalent cation (Pb2, Sn2, Ge2), and X is the halide anion (Cl, Br, or I).4 The 
+dimensionality of the perovskite crystalline structure is defined by the connectivity of BX64 
+octahedra (cornerssharing) and classified from zero to threedimension (0D3D), where ABX3 is 
+3D, and A4BX6 is the 0D.3 This variation in the crystalline structure significantly affects the 
+optical properties of the perovskite materials.

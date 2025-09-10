@@ -1,0 +1,37 @@
+Description:
+A salt form used for stabilizing compounds.
+
+Text:
+of 
+a MOMprotecting group and was stable as a TFA or HCl salt. Although acyclic 1 demonstrated 
+poor pharmacokinetics with high in vivo clearance in mice, the cyclic 2 showed improved 
+plasma exposure. The potential use of dihydropyrazolo1,5apyrazin4(5H)ones as prodrugs for 
+the acyclic bamidomethylvinyl sulfone warhead was demonstrated by GSH capture 
+experiments. Graphical Abstract 
+
+HN
+O
+SO2Me
+N
+HN
+OEt
+N
+NH
+N
+OEt
+SO2Me
+O
+pH 7.4
+? RA0002034, 1
+2
+nsP2 protease
+IC50  60 nM
+nsP2 protease
+inactive
+httpsdoi.org10.26434chemrxiv2024wh6tp ORCID httpsorcid.org0000000341818223 Content not peerreviewed by ChemRxiv. License CC BY 4.0
+
+3 
+1. Introduction 
+Alphaviruses, a group of widespread, enveloped, singlestranded positive sense RNA 
+viruses, are transmitted by Aedes aegypti and Aedes albopictus mosquitoes, posing a significant 
+threat to public health 1.

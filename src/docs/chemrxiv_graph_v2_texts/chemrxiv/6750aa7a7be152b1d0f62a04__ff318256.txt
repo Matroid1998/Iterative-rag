@@ -1,0 +1,16 @@
+Description:
+Can be identified in a static location using neutron diffraction.
+
+Text:
+This matters because the movement of 
+electrons in all heme enzymes is invariably linked to the move
+ment of protons, and controlling both is key to the design of 
+bespoke heme catalysts for specific applications in the future.2 
+The availability of neutron structures for some peroxidase en
+zymes3 has meant that the protonation states of active site resi
+dues can now be directly visualized. These neutron structures 
+reveal individual hydrogen bonds, including to active site water 
+molecules. But while neutron diffraction can identify single hy
+drogen atoms (or, more specifically, deuterium atoms) in a 
+static location, it cannot identify their origin, nor can it identify 
+dynamic movements of protons during catalysis.

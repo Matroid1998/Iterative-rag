@@ -1,0 +1,28 @@
+Name: 2-Mercaptoethanol
+Text:
+Thioglycol appears as a water-white liquid. May be toxic by ingestion, inhalation, or skin absorption.
+Mercaptoethanol is a primary alcohol and an alkanethiol. It has a role as a geroprotector.
+A water-soluble thiol derived from hydrogen sulfide and ethanol. It is used as a reducing agent for disulfide bonds and to protect sulfhydryl groups from oxidation.
+See also:  ... View More ...
+Properties:safety: Corrosive and Acute Toxic and Irritant and Health Hazard and Environmental Hazard
+smiles: C(CS)O
+formula: C2H6OS
+chem_properties: Molecular Weight: 78.14 g/mol
+XLogP3: -0.2
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 78.01393598 Da
+Monoisotopic Mass: 78.01393598 Da
+Topological Polar Surface Area: 21.2
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 10
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

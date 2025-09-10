@@ -1,0 +1,29 @@
+Name: Shikimic Acid
+Text:
+Shikimic acid is a cyclohexenecarboxylic acid that is cyclohex-1-ene-1-carboxylic acid substituted by hydroxy groups at positions 3, 4 and 5 (the 3R,4S,5R stereoisomer). It is an intermediate metabolite in plants and microorganisms. It has a role as an Escherichia coli metabolite, a Saccharomyces cerevisiae metabolite and a plant metabolite. It is a cyclohexenecarboxylic acid, a hydroxy monocarboxylic acid and an alpha,beta-unsaturated monocarboxylic acid. It is a conjugate acid of a shikimate.
+Shikimic acid is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Shikimic acid has been reported in Streptomyces nigra, Castanopsis fissa, and other organisms with data available.
+Shikimic acid is a metabolite found in or produced by Saccharomyces cerevisiae.
+A tri-hydroxy cyclohexene carboxylic acid metabolite of the shikimate pathway. It is important in the biosynthesis of aromatic amino acids, flavonoids and alkaloids in plants and microorganisms.
+Properties:safety: Corrosive
+smiles: C1[C@H]([C@@H]([C@@H](C=C1C(=O)O)O)O)O
+formula: C7H10O5
+chem_properties: Molecular Weight: 174.15 g/mol
+XLogP3: -1.7
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 1
+Exact Mass: 174.05282342 Da
+Monoisotopic Mass: 174.05282342 Da
+Topological Polar Surface Area: 98
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 222
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 3
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

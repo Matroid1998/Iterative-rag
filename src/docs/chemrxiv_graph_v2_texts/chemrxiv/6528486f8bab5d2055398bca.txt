@@ -1,0 +1,29 @@
+Description:
+Exhibits a high relative rate for intramolecular ring-opening reactions.
+
+Text:
+A fundamental concept in organic chemistry is ring strain,1,2 which is used to explain 
+the heightened reactivity of threemembered rings due to deviations from ideal bond angles.3 
+Consequently, strain release has been widely employed in organic synthesis as a powerful tactic 
+to increase reaction rates, finding applications in total synthesis,4 polymer science,5,6 
+bioconjugation7,8 bioisosterism;9,10 it is also an important concept in biosynthesis (Figure 1a).11 
+However, despite the common belief that such pentup strain energy fully explains the reactivity of 
+species such as small rings, cycloalkynes and cyclo(E)alkenes, even the simplest of these 
+systems presents a paradox cyclopropanes display markedly heightened ringopening reactivity 
+compared to cyclobutanes (krel(cyclopropane)  104107 for intramolecular ringopening 
+reactions),12 despite having nearly identical strain energies (27.5 and 26.5 kcal mol1 
+respectively).3 
+This puzzle has been the subject of extensive theoretical investigations.
+
+
+---
+
+Description:
+Relieves a larger proportion of angle strain (75) upon ring opening.
+
+Text:
+Stirling et al.13 
+proposed that cyclopropane relieves a larger proportion of angle strain (75) than cyclobutane 
+(50) upon ringopening, while the groups of Hoz14 and Houk15 argued that differences in 
+electronic structure (i.e., bonding) are instead the cause of the reactivity difference. Hoz proposed 
+httpsdoi.org10.26434chemrxiv2021n0xm9v3 ORCID httpsorcid.org0000000260628209 Content not peerreviewed by ChemRxiv. License CC BY 4.0

@@ -1,0 +1,15 @@
+Description:
+An inert gas used in collision-activated dissociation experiments in mass spectrometry.
+
+Text:
+Tandem mass spectrometry (MSMS) is a powerful analyti
+cal tool that is used extensively for the characterization of 
+complex mixtures in many fields, such as proteomics, petrole
+omics, and drug discovery.14 Currently, the most commonly 
+used MSMS technique to obtain structural information for 
+ionized and isolated mixture components is collisionactivated 
+dissociation (CAD).5,6 In these experiments, the analyte ions 
+are accelerated and allowed to collide with an inert gas, such 
+as helium. Upon the collisions, part of the kinetic energy of 
+the ions is converted into their internal energy, resulting in 
+fragmentation.

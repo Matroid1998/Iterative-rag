@@ -1,0 +1,41 @@
+Description:
+Favors presence at higher temperatures during phosphorolysis reactions.
+
+Text:
+Consequently, the 
+formation of the borate ester 1a should be expected to 
+dominate in direct competition during a phosphorolysis 
+reaction, which we could confirm by subjecting phosphorolysis 
+reaction mixtures with increasing borate concentrations to 
+NMR analysis (Fig. S13). Further thermodynamic experiments 
+indicated that this biased esterification is primarily driven by 
+entropic effects. Arrhenius plots of the 1a1a equilibrium 
+obtained by 
+1H NMR revealed a drastic temperature
+dependence, favoring the presence of the free nucleoside at 
+higher temperatures (Fig. S11). In support of these 
+observations, Arrhenius plots for the borate esterification 
+derived from equilibrium shifts in the phosphorolysis reaction 
+indicated an approach to an energetic balance between 1a 
+and Rib1P at higher temperatures (Fig. S5).
+
+
+---
+
+Description:
+Depleted by the dominant borate ester in dilute aqueous solution at room temperature.
+
+Text:
+Collectively, 
+these results describe 1a as the dominant borate ester in this 
+reaction system, responsible for depleting the pool of free 
+nucleoside in dilute aqueous solution at room temperature. Consistent with this conclusion, the 2deoxy nucleoside 
+deoxy1a, incapable of forming 1a or 1a, did not show an 
+equilibrium shift during its phosphorolysis in the presence of 
+borate or any reaction with borate discernible by NMR (Fig. S15). Next, we sought to identify the cause of the apparently 
+reduced reaction rates in the presence of borate by enlisting 
+kinetic studies and molecular dynamics (MD) simulations. This 
+effect was especially prominent with borate concentrations 
+greater than 20 mM and led to decreases in the reaction rate 
+of GtPyNP by more than a factor of four, as illustrated in Figure 
+2D.

@@ -1,0 +1,33 @@
+Name: Arginine
+Text:
+L-arginine is an L-alpha-amino acid that is the L-isomer of arginine. It has a role as a nutraceutical, a biomarker, a micronutrient, an Escherichia coli metabolite and a mouse metabolite. It is a glutamine family amino acid, a proteinogenic amino acid, an arginine and a L-alpha-amino acid. It is a conjugate base of a L-argininium(1+). It is a conjugate acid of a L-argininate. It is an enantiomer of a D-arginine.
+An essential amino acid that is physiologically active in the L-form.
+L-Arginine is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Arginine has been reported in Pinus densiflora, Cyperus aromaticus, and other organisms with data available.
+Arginine is an essential amino acid in juvenile humans, Arginine is a complex amino acid, often found at active site in proteins and enzymes due to its amine-containing side chain. Arginine may prevent or treat heart and circulatory diseases, combat fatigue, and stimulate the immune system. It also boosts production of nitric oxide, relaxing blood vessels, and treating angina and other cardiovascular problems. Arginine is also an important intermediate in the urea cycle and in detoxification of nitrogenous wastes. (NCI04)
+ARGININE is a small molecule drug with a maximum clinical trial phase of III (across all indications) and has 40 investigational indications.
+Arginine is an essential amino acid that is physiologically active in the L-form. In mammals, arginine is formally classified as a semiessential or conditionally essential amino acid, depending on the developmental stage and health status of the individual. Infants are unable to effectively synthesize arginine, making it nutritionally essential for infants. Adults, however, are able to synthesize arginine in the urea cycle. Arginine can be considered to be a basic amino acid as the part of the side chain nearest to the backbone is long, carbon-containing and hydrophobic, whereas the end of the side chain is a complex guanidinium group. With a pKa of 12.48, the guanidinium group is positively charged in neutral, acidic and even most basic environments. Because of the conjugation between the double bond and the nitrogen lone pairs, the positive charge is delocalized. This group is able to form multiple H-bonds. L-arginine is an amino acid that has numerous functions in the body. It helps dispose of ammonia, is used to make compounds such as nitric oxide, creatine, L-glutamate, L-proline, and it can be converted to glucose and glycogen if needed. In large doses, L-arginine also stimulates the release of hormones growth hormone and prolactin. Arginine is a known inducer of mTOR (mammalian target of rapamycin) and is responsible for inducing protein synthesis through the mTOR pathway. mTOR inhibition by rapamycin partially reduces arginine-induced protein synthesis (A13142). Catabolic disease states such as sepsis, injury, and cancer cause an increase in arginine utilization, which can exceed normal body production, leading to arginine depletion. Arginine also activates AMP kinase (AMPK) which then stimulates skeletal muscle fatty acid oxidation and muscle glucose uptake, thereby increasing insulin secretion by pancreatic beta-cells (A13143). Arginine is found in plant and animal proteins, such as dairy products, meat, poultry, fish, and nuts. The ratio of L-arginine to lysine is also important - soy and other plant proteins have more L-arginine than animal sources of protein.
+An essential amino acid that is physiologically active in the L-form.
+See also: Arginine Hydrochloride (active moiety of) ... View More ...
+Properties:safety: Irritant
+smiles: C(C[C@@H](C(=O)O)N)CN=C(N)N
+formula: C6H14N4O2
+chem_properties: Molecular Weight: 174.20 g/mol
+XLogP3: -4.2
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 5
+Exact Mass: 174.11167570 Da
+Monoisotopic Mass: 174.11167570 Da
+Topological Polar Surface Area: 128
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 176
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,12 @@
+Description:
+A fragment of protein used in the MFCC scheme.
+
+Text:
+Figure 1 Illustration of the MFCC scheme for an alanine dipeptide. The protein is cut at
+the peptide bonds. The dangling bonds of the resulting fragments are capped by acetyl
+groups (red) and by Nmethylamide groups (blue). These two caps are joined to form a
+new cap molecule, Nmethylacetamid. One particularly popular fragmentation method for proteins is the Molecular Fraction
+ation with Conjugate Caps (MFCC) method 1517. It allows for the linearscaling
+calculation of, e.g., total energies of proteins, proteinligand and proteinprotein inter
+action energies, as well as electron densities and other properties of proteins 1822. In the simplest case, the protein is partitioned into single amino acids by cutting the
+peptide bonds.

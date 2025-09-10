@@ -1,0 +1,30 @@
+Name: Monensin
+Text:
+Monensin A is a spiroketal, monensin A is the major component of monensin, a mixture of antibiotic substances produced by Streptomyces cinnamonensis. An antiprotozoal, it is used as the sodium salt as a feed additive for the prevention of coccidiosis in poultry and as a growth promoter in cattle. It has a role as a coccidiostat, an antifungal agent and an ionophore. It is a monocarboxylic acid, a cyclic hemiketal, a spiroketal and a polyether antibiotic.
+Monensin is a polyether isolated from Streptomyces cinnamonensis that presents antibiotic properties. It is widely used in ruminant animal feeds.
+Monensin has been reported in Streptomyces glaucescens and Apis cerana with data available.
+MONENSIN is a small molecule drug with a maximum clinical trial phase of II.
+An antiprotozoal agent produced by Streptomyces cinnamonensis. It exerts its effect during the development of first-generation trophozoites into first-generation schizonts within the intestinal epithelial cells. It does not interfere with hosts' development of acquired immunity to the majority of coccidial species. Monensin is a sodium and proton selective ionophore and is widely used as such in biochemical studies.
+See also: Monensin Sodium (has salt form); Bacitracin; Monensin (component of); Avilamycin; Monensin (component of) ... View More ...
+Properties:safety: Acute Toxic
+smiles: CC[C@]1(CC[C@@H](O1)[C@@]2(CC[C@@]3(O2)C[C@@H]([C@H]([C@H](O3)[C@@H](C)[C@H]([C@H](C)C(=O)O)OC)C)O)C)[C@H]4[C@H](C[C@@H](O4)[C@@H]5[C@H](C[C@H]([C@@](O5)(CO)O)C)C)C
+formula: C36H62O11
+chem_properties: Molecular Weight: 670.9 g/mol
+XLogP3: 4.2
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 11
+Rotatable Bond Count: 10
+Exact Mass: 670.42921279 Da
+Monoisotopic Mass: 670.42921279 Da
+Topological Polar Surface Area: 153
+Heavy Atom Count: 47
+Formal Charge: 0
+Complexity: 1110
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 17
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

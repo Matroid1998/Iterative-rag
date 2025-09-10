@@ -1,0 +1,15 @@
+Description:
+A 2D material with a unique electronic structure due to electron gas confinement.
+
+Text:
+2Dmaterials, most 
+famously graphene, have a different electronic structure than their layered analogues due to 
+the confinement of the electron gas to the 2Dcrystal.68 In general, semiconducting 2D 
+materials are expected to suffer less from short channel effects making them uniquely suitable 
+for highly miniaturized field effect transistors.9 
+Graphitic carbon nitrides form a subset of 2D, layered COFs that are semiconductors and can 
+be exfoliated.1014 At present, PTI and its intercalated derivatives are the best characterized 
+graphitic carbon nitrides.1518 They are composed of triazine (C3N3) units that are covalently
+linked inplane by imidebridges into layered materials with high thermal stability up to 
+400 C.15 Because of their high nitrogen content, PTI has a high ionization potential  that 
+means, a high energetic difference between the vacuum level and the highest valence band

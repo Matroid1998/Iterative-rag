@@ -1,0 +1,56 @@
+Description:
+Involved in PHIP-SABRE experiments where its spin order is an important factor.
+
+Text:
+The 
+SABRE method can be used to enhance NMR signals of protons6, 
+7, and insensitive nuclei such as 15N and 13C 815 and to polarize 
+various molecules, notably, biomolecules1618, metabolites19 
+and drugs2022. Both hydrogenative PHIP and SABRE have been successfully 
+applied to hyperpolarize various compounds; however, the 
+optimization of hyperpolarization experiments still remains 
+challenging. Specifically, reaction conditions have to be 
+optimized, as well as polarization transfer efficiency. In this 
+work, we address one more issue, which turns out to be 
+important in both PHIP and SABRE. Specifically, we address the 
+question What is the spin order of H2 in PHIPSABRE 
+experiments?.
+
+
+---
+
+Description:
+Undergoes singlet-triplet conversion when its magnetic or chemical equivalence is broken.
+
+Text:
+At the first glance, this question seems to make 
+no sense, as we always introduce pH2, i.e., two protons in the 
+nuclear singlet spin state, into the chemical reaction. However, 
+this obvious answer holds only in the gas phase, where 
+conversion between pH2 and triplet H2 (orthohydrogen, oH2) is 
+a very slow process. For the actual PHIP and SABRE processes 
+the answer is not so obvious because pH2 binds to a PHIP 
+substrate or SABRE catalyst in such a way that the two protons 
+occupy nonequivalent positions. In this situation, their 
+magnetic or chemical equivalence is broken and singlettriplet 
+conversion in H2 becomes operative.
+
+
+---
+
+Description:
+Can be formed in a strongly nonequilibrium state as hyperpolarized oH2.
+
+Text:
+It is important to note that 
+the conversion is not equivalent to a simple decay of singlet spin 
+order via relaxation, since hyperpolarized oH2 can be formed in 
+a strongly nonequilibrium state, as has been confirmed by 
+several groups2325. The aim of this work is to study in detail spin conversion of H2 
+and to characterize its actual spin state. Here we perform the 
+study for a SABRE system (using an Irbased catalyst) and 
+measure the SABREderived enhancement of 15N spins. By 
+introducing radiofrequency pulses on the proton channel 
+a International Tomography Center and Novosibirsk State University, 
+b NVisionImaging Technologies, Ulm, Germany
+ these authors have contributed equally.

@@ -1,0 +1,12 @@
+Description:
+Used in air to oxidize interferents in catalytic filters, enhancing sensor selectivity.
+
+Text:
+Installing a catalytic lter upstream can mitigate the crosssensitivity of a gas sensor by converting
+(e.g., oxidizing 30, using O2 in air) interferents into species that interact more weakly with its
+recognition element1 29, 33thereby enhancing the selectivity of the sensing device for the
+analyte over the interferent. A catalytic lter can be 29 (i) a tubular reactor packed with
+catalyst particles 20 or (ii) a porous, catalytic lm overlaying the recognition element 30,3440. Several catalytic lters have been experimentally demonstrated for diverse gas sensing tasks
+involving interferents 20,3540. 1Alternatively, a catalytic lter could convert an analyte that interacts weakly with the recognition element
+into a species that interacts more strongly with the recognition element, thereby increasing the sensitivity of the
+sensor device to the analyte 31,32. 2

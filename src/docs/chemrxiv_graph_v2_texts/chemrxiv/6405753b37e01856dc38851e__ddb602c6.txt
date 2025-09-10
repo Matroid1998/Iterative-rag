@@ -1,0 +1,12 @@
+Description:
+A canonical inhibitor of dihydroorotate dehydrogenase.
+
+Text:
+Dihydroorotate dehydrogenase(DHODH) is an enzyme that contains iron and flavin 
+and is located in the inner membrane of mitochondria. 1 Until now, DHODH becomes 
+an attractive target for antimalignance due primarily to its importance in tumorigenesis 
+and metastasis. There are many canonical DHODH inhibitors have being reported, such 
+as leflunomide,2 BRQ,3 teriflunomide,4 ALASN003,5 and BAY2202234.6 
+However, the use of HsDHODH inhibitors may cause some side effects, such as 
+interfering with DNA synthesis and causing apoptosis, which can be harmful to the 
+body. In addition, drug resistance may occur during their use.

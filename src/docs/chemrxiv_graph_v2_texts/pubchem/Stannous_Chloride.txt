@@ -1,0 +1,27 @@
+Name: Stannous Chloride
+Text:
+Stannous chloride, solid appears as crystalline mass or flaky solid with a fatty appearance. Density 3.95 g / cm3. Melting point 247 °C. Burns, but may be difficult to ignite. Toxic by ingestion. Irritates skin and eyes. Used in the manufacture of dyes, pharmaceuticals and as a tanning agent.
+Stannous chloride is used as a source of tin in radiopharmaceutical kits. Tin reduces technetium-99m, the active radiological agent, allowing it to form a complex with phosphate-containing moeities. These complexes localize primarily in bone (40-50%) and infracted myocardium (0.01-0.02%/g of tissue) allowing for imaging of areas of altered osteogenesis or necrotic heart tissue.
+Tin(II) chloride (SnCl2) is a food additive (antioxidant) e.g. for colour retention in canned vegetables such as asparagus.
+See also: Stannous cation (has active moiety); tin (ii) chloride (anhydrous) (annotation moved to); tin (ii) chloride, anhydrous (annotation moved to).
+Properties:safety: Corrosive and Irritant and Health Hazard and Environmental Hazard
+smiles: Cl[Sn]Cl
+formula: Cl2Sn
+chem_properties: Molecular Weight: 189.61 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 189.839908 Da
+Monoisotopic Mass: 189.839908 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 2.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

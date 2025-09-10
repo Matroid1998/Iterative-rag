@@ -1,0 +1,14 @@
+Description:
+Molecules with rotational units that result in unidirectional tilting and propellerlike chirality.
+
+Text:
+For noncage molecules with rotational units such as triphenylamine (TPA) derivatives,
+as studied by Kim et al.,16 the rotations of the aromatic rings are coupled, resulting in
+unidirectional tilting of the rotational units and propellerlike chirality of the molecule
+alone (Fig. 1(a)). These TPA derivative molecules therefore have two isomers with (P)
+or (M)propeller chirality that aggregate to form supramolecular helices with one chirality
+(Fig. 1(b)). This use of supramolecular interactions in the selfassembly of the molecules is
+able to lock in the chirality of the molecules. Similarly, symmetric, achiral cages have been
+known to crystallise with asymmetric, chiral cavities.17,18 Here, the cages can adopt multiple
+different conformers, with density functional theory (DFT) calculations suggesting that the
+most stable conformer is achiral.

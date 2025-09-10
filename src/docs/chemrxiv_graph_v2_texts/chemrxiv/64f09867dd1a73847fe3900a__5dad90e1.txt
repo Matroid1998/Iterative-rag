@@ -1,0 +1,23 @@
+Description:
+Serves as a support material for Pt-based nanoparticles in PEMFC catalysts.
+
+Text:
+The International Energy Agency predicts that for a global net zero emission scenario by 2050, 
+60 Mt of hydrogen will be used for power generation.1 Hydrogenfed fuel cells, specifically low
+temperature polymer electrolyte membrane fuel cells (PEMFCs), are a promising zero CO2 
+emission technology with hightechnology readiness to fulfill sectors of power generation.2 This 
+is due to PEMFCs load flexibility and therefore wide range of applications within stationary and 
+portable power generation, and particularly transportation.2 PEMFCs rising prominence in 
+transportation applications is supported by global Government targets of 2.5 million fuel cell 
+electric vehicles (FCEV) on the road by 2030.3 
+Ptbased nanoparticles on carbon (PtC) catalysts are commonly implemented in commercial 
+PEMFCs to facilitate the electrochemical reactions.4 The reaction kinetics at the cathode, where 
+the oxygen reduction reaction (ORR) occurs, are far more sluggish than at the anode and, as a 
+result, the cathode has previously required 8090 of the total Pt within the PEMFC.5 Hence, Pt
+based cathode catalysts have been projected as the largest single component cost of an 80 kW 
+PEMFC stack at production rates of 500,000 stacks year1.6 The price volatility of Pt and 
+subsequent catalyst cost sensitivity would also heavily impact fuel cell costs, making widerscale 
+commercialization difficult.7 In terms of Pt supply, South Africa provided 6574 and Russia 
+1014 of the worlds Pt between 2017 and 2021.8 Moreover, industrial recycling of Pt has 
+remained low to date (total 30, combustion automotive 55).8,9 This dependency on fresh 
+Pt supplies is unfavorable since highly reliant on global supply chains and trade agreements.

@@ -1,0 +1,29 @@
+Name: Tromethamine
+Text:
+Tris is a primary amino compound that is tert-butylamine in which one hydrogen attached to each methyl group is replaced by a hydroxy group. A compound widely used as a biological buffer substance in the pH range 7--9; pKa = 8.3 at 20 ℃; pKa = 7.82 at 37 ℃. It has a role as a buffer. It is a triol and a primary amino compound. It is a conjugate base of a member of Htris.
+An organic amine proton acceptor. It is used in the synthesis of surface-active agents and pharmaceuticals; as an emulsifying agent for cosmetic creams and lotions, mineral oil and paraffin wax emulsions, as a biological buffer, and used as an alkalizer. (From Merck, 11th ed; Martindale, The Extra Pharmacopoeia, 30th ed, p1424)
+TROMETHAMINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1965 and is indicated for acidosis and has 7 investigational indications.
+An organic amine proton acceptor. It is used in the synthesis of surface-active agents and pharmaceuticals; as an emulsifying agent for cosmetic creams and lotions, mineral oil and paraffin wax emulsions, as a biological buffer, and used as an alkalizer. (From Merck, 11th ed; Martindale, The Extra Pharmacopoeia, 30th ed, p1424)
+See also: Tromethamine hydrochloride (is active moiety of); Potassium chloride; sodium chloride; tromethamine (component of) ... View More ...
+Properties:safety: Irritant
+smiles: C(C(CO)(CO)N)O
+formula: C4H11NO3
+chem_properties: Molecular Weight: 121.14 g/mol
+XLogP3: -2.9
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 3
+Exact Mass: 121.07389321 Da
+Monoisotopic Mass: 121.07389321 Da
+Topological Polar Surface Area: 86.7
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 54
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

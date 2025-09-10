@@ -1,0 +1,17 @@
+Description:
+Forms amorphous carbon deposition during CNT synthesis.
+
+Text:
+Carbon nanotubes (CNTs) have the potential to impact a number of nextgeneration 
+technologies owing to their extraordinary electrical, thermal and chemical properties.1,2 The key 
+to achieving their promise lies in maximizing their yield during synthesis, while at the same time 
+tailoring their structural properties for their intended application.3 A number of approaches have 
+been employed for increasing CNT yield, including the addition of growth promoters,411 feedstock 
+compositional control,1214 and improved catalyst design.15,16 Among all of the synthesis process 
+variables, the growth temperature has arguably the greatest effect on growth behavior; an 
+increase in the growth temperature enhances yield but also results in other issues such as 
+amorphous carbon deposition (sooting), increasing tube diameters and excessive catalyst particle 
+coarsening (Ostwald ripening and coalescence).1719 The temperature is typically treated as a 
+static variable, where a substrate coated with a metal catalyst film is heated in a hot or coldwall 
+furnace up to a predetermined value, followed by a hold time at that temperature while the catalyst 
+is exposed to the hydrocarbon feedstock.

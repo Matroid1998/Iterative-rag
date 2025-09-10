@@ -1,0 +1,37 @@
+Description:
+Used in all-solid-state lithium-ion batteries as part of ion conducting ceramics for electrolytes.
+
+Text:
+Allsolidstate lithiumion batteries that use ion
+conducting ceramics as electrolytes have the potential to
+replace commercial lithiumion cells that use liquid elec
+trolytes, oering improved energy densities and reliabil
+ity 1, 2. A practical solid electrolyte should have a high
+ionic conductivity to allow fast charge and discharge rates
+and high power output. To achieve this goal, consider
+able research eort has been directed towards both the
+discovery of new materials with intrinsically high ionic
+mobilities 36 and to deriving general principles that
+can explain how chemical or structural variations within
+solid electrolytes modulate lithium transport 710.
+
+
+---
+
+Description:
+In lithium ion solid electrolytes, doping can increase the concentration of lithium vacancies or lithium interstitials, affecting ionic conductivity.
+
+Text:
+First, aliovalent doping should preferentially in
+crease the concentrations of chargecarrying mobile de
+fects ahead of competing immobile defects. For lithium
+ion solid electrolytes, doping should preferentially in
+crease the concentration of either lithium vacancies or
+lithium interstitials. Second, any increase in the concen
+tration of chargecarrying defects should produce a corre
+sponding increase in ionic conductivity. This may not be
+the case if the ionic conductivity has some dependence on
+defects other than those being targeted through doping. In solid electrolytes that contain more than one charge
+carrying defect species, increasing the concentration of
+the minority defect species may have little practical eect
+on the overall ionic conductivity.

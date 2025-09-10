@@ -1,0 +1,24 @@
+Name: 1-Hydroxy-7-azabenzotriazole
+Text:
+Properties:safety: Corrosive and Acute Toxic and Irritant
+smiles: C1=CC2=C(N=C1)N(N=N2)O
+formula: C5H4N4O
+chem_properties: Molecular Weight: 136.11 g/mol
+XLogP3: 0.5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 136.03851076 Da
+Monoisotopic Mass: 136.03851076 Da
+Topological Polar Surface Area: 63.8
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 131
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,15 @@
+Description:
+A transition metal carbide with high electrical conductivity and rapid light-responsiveness, particularly in the near-infrared region.
+
+Text:
+Starting with 
+graphene, 2D materials have exhibited great potential as stimuliresponsive soft materials due to their large 
+surfacetovolume ratio, mechanical flexibility, and extraordinary electrical and thermal properties, as well 
+as their capacity to transduce diverse external stimuli into functional responses.7 
+Among 2D materials, the transition metal carbide (TMC, also known as MXene), particularly Ti3C2Tx, has 
+emerged as a promising candidate. Ti3C2Tx exhibits high electrical conductivity due to its metallic nature 
+and high density of free electrons, which positively correlates with its photothermal conversion 
+efficiency.8,9 Proofofconcept Ti3C2Tx actuators have demonstrated rapid lightresponsiveness, particularly 
+in the nearinfrared region, and strong force actuation.3,1013 The conductivity of Ti3C2Tx is significantly 
+influenced by their surface terminations (Tx), which are determined by synthesis and postprocessing 
+methods.

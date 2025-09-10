@@ -1,0 +1,27 @@
+Name: Artemisinin
+Text:
+(+)-artemisinin is a sesquiterpene lactone obtained from sweet wormwood, Artemisia annua, which is used as an antimalarial for the treatment of multi-drug resistant strains of falciparum malaria. It has a role as an antimalarial and a plant metabolite. It is a sesquiterpene lactone and an organic peroxide.
+Artemisinin has been used in trials studying the treatment of Schizophrenia, Malaria, Falciparum, and Plasmodium Falciparum.
+Artemisinin has been reported in Artemisia lancea, Artemisia annua, and other organisms with data available.
+Properties:safety: Flammable and Environmental Hazard
+smiles: C[C@@H]1CC[C@H]2[C@H](C(=O)O[C@H]3[C@@]24[C@H]1CC[C@](O3)(OO4)C)C
+formula: C15H22O5
+chem_properties: Molecular Weight: 282.33 g/mol
+XLogP3: 2.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 0
+Exact Mass: 282.14672380 Da
+Monoisotopic Mass: 282.14672380 Da
+Topological Polar Surface Area: 54
+Heavy Atom Count: 20
+Formal Charge: 0
+Complexity: 452
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 7
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

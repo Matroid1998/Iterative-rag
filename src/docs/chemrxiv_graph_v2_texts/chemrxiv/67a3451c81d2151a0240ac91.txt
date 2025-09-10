@@ -1,0 +1,99 @@
+Description:
+Doped in carbon-based catalysts to enhance oxygen reduction reaction (ORR) activity in fuel cells.
+
+Text:
+Considering the global need to move from fossil fuels to re
+newable sources of energy, fuel cell chemistry and in particular
+the oxygen reduction reaction (ORR) are highly active fields
+of research.14 Iron and nitrogen doped carbonbased (FeNC)
+catalysts show high ORR activity and have thus emerged as a
+promising alternative to platinumbased catalysts in fuel cells.
+
+
+---
+
+Description:
+A single iron ion is coordinated via four nitrogen donors and embedded into a carbon matrix.
+
+Text:
+Due to a pyrolysis step in their preparation, FeNC catalysts are
+amorphous materials with different iron phases, which ham
+pers the structural and electronic decipherment of the active
+site.58 Previous experimental and theoretical studies have de
+duced that the ORR is driven by FeN4 sites, where a single
+iron ion is coordinated via four nitrogen donors and embed
+ded into a carbon matrix.913 However, their exact nature in
+terms of geometry beyond the FeN4coordination and elec
+tronic structure remains unclear.
+
+
+---
+
+Description:
+In FeNC catalysts, iron coordination environment is studied using Mössbauer spectroscopy to determine oxidation state, spin state, and electron density distribution.
+
+Text:
+For instance, FeN4 centres
+where N is bound in fivemembered rings (pyrrolic, often de
+noted as FeN4C12) or in sixmembered rings (pyridinic, often
+denoted as FeN4C10) are discussed.14,15 Many quantum chem
+ical studies have developed models that seek to describe active
+sites and their reaction mechanisms.12,13,1625 Recent quan
+tum chemical work coupled to in situ and operando Mssbauer
+spectroscopy studies on different FeNC preparations has shown
+that pyrrolic FeNC sites form a thermodynamically and spectro
+scopically consistent active site,12,13 in agreement with more
+recent works.14
+Mssbauer spectroscopy provides insights into the iron co
+ordination environment, specifically the oxidation state, spin
+state and more subtle details concerning the asymmetry of the
+electron density distribution.17,2630 In studies of FeNC cata
+lysts, Mssbauer spectroscopy is used to elucidate different iron
+phases in FeNC catalysts as well as the changes of characteris
+tic signatures under in situ and operando conditions.8,12,13,31
+Synthetically, FeN4 sites are easily accessible in small molecu
+lar complexes such as porphyrin,3235 phthalocyanine3638 or
+phenantroline3840 ligand spheres, which lack the extended 
+system expected to be present in the carbon matrix of FeNC ma
+terials.10,11,17 The interpretation of Mssbauer data on FeNC
+catalysts therefore relies on comparisons with such model com
+plexes, or, more recently, on the comparison to predicted data
+from quantum chemical calculations where the extended  sys
+tem can be included in the model.12,13,15,17,19,20 With a novel
+preparation strategy using active site imprinting and trans
+metalation, MNC catalysts with minimal inorganic side phases
+were produced.4144 This results in materials with structurally
+better defined MN4 sites, e.g.
+
+
+---
+
+Description:
+Used in transmetalation processes and heat activation in ZnNC systems.
+
+Text:
+ZnNC systems with a preference
+for pyrrolic sites, which are subjected to transmetalation with
+iron and subsequent heatactivation.45 It is reported that the
+structure of the MN4 environment is conserved to a significant
+degree and that the formation of elemental iron or iron carbide
+side phases is avoided.41,42,45,46
+In
+the
+light
+of
+growing
+evidence
+for
+pyrrolic
+coor
+dination,12,13
+computationally
+developing
+suitable
+and
+representative active site models for such FeN4 materials in
+general, however, remains challenging. Even for the same
+type of nitrogen donor, a wide array of different active site
+models can be constructed and evaluated computationally. Since the introduction of a fivemembered ring necessitates
+the incorporation of an accompanying defect, e.g.

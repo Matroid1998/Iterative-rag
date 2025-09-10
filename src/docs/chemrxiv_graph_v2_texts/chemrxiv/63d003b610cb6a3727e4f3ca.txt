@@ -1,0 +1,9 @@
+Description:
+Forms a neutral radical upon first electron reduction between 0.9 V and 1.2 V vs SCE.
+
+Text:
+These reductions can be intercepted after the first electron transfer, with rapid formation of 
+enzymatically inactive dimers (rate constant for dimerization exceeds 107 M1s1).8 The first one
+electron reduction of NAD occurs between 0.9 V and 1.2 V, and the resulting neutral pyridine 
+radical can be further reduced near 1.6 V to form the enzymatically active 1,4dihydropyridine 
+(all potentials reported vs SCE).8,9

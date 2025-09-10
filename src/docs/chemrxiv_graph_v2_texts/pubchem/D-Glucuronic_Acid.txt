@@ -1,0 +1,28 @@
+Name: D-Glucuronic Acid
+Text:
+D-glucopyranuronic acid is a D-glucuronic acid in cyclic pyranose form. It has a role as an algal metabolite. It is a conjugate acid of a D-glucopyranuronate. It is an enantiomer of a L-glucopyranuronic acid.
+D-Glucuronic acid is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+D-Glucuronic Acid has been reported in Codonopsis pilosula, Streptomyces, and other organisms with data available.
+Glucuronic Acid is a carboxylic acid with structural similarity to glucose with detoxifying activity. The xenobiotic metabolism of various substances such as drugs, pollutants, bilirubin, androgens, estrogens, mineralocorticoids, glucocorticoids, fatty acid derivatives, retinoids, and bile acids involves glucuronidation, a process in which water-soluble, excretable glucuronides of these substances are formed via glycosidic linkages to glucuronic acid. UDP-glucuronic acid, formed in the liver through the linkage of glucuronic acid to uridine diphosphate (UDP) via a glycosidic bond, is an intermediate in the process of glucuronidation.
+Properties:safety: Irritant
+smiles: [C@@H]1([C@@H]([C@H](OC([C@@H]1O)O)C(=O)O)O)O
+formula: C6H10O7
+chem_properties: Molecular Weight: 194.14 g/mol
+XLogP3: -2.3
+Hydrogen Bond Donor Count: 5
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 1
+Exact Mass: 194.04265265 Da
+Monoisotopic Mass: 194.04265265 Da
+Topological Polar Surface Area: 127
+Heavy Atom Count: 13
+Formal Charge: 0
+Complexity: 205
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

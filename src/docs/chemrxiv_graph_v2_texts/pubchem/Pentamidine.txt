@@ -1,0 +1,35 @@
+Name: Pentamidine
+Text:
+Pentamidine is a diether consisting of pentane-1,5-diol in which both hydroxyl hydrogens have been replaced by 4-amidinophenyl groups. A trypanocidal drug that is used for treatment of cutaneous leishmaniasis and Chagas disease. It has a role as a trypanocidal drug, an antifungal agent, a NMDA receptor antagonist, an anti-inflammatory agent, a chemokine receptor 5 antagonist, an EC 2.3.1.48 (histone acetyltransferase) inhibitor, a calmodulin antagonist, a S100 calcium-binding protein B inhibitor and a xenobiotic. It is a carboxamidine, a diether and an aromatic ether. It is a conjugate base of a pentamidinium(2+).
+Pentamidine isethionate is an antifungal prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment and prevention of Pneumocystis pneumonia (PCP). &nbsp;The FDA-approved uses for pentamidine isethionate depend on the dosage form of the drug. Specifically, pentamidine isethionate injection is approved to treat PCP, and pentamidine isethionate inhalant is approved to prevent PCP in people with HIV who are at high risk of developing PCP.
+PCP can be an opportunistic infection (OI) of HIV.
+Antiprotozoal agent effective in trypanosomiasis, leishmaniasis, and some fungal infections; used in treatment of pneumocystis pneumonia in HIV-infected patients. It may cause diabetes mellitus, central nervous system damage, and other toxic effects.
+Pentamidine is an Antiprotozoal.
+Pentamidine is a potent, broad spectrum antiinfective agent with activity against several parasitic worms, protozoa and fungi that has been used mainly in the treatment and the prophylaxis of Pneumocystis jiroveci (formerly carinii) infection in immunocompromised persons. Pentamidine is relatively toxic and therapy requires careful monitoring. Pentamidine has been associated with transient serum aminotransferase elevations during therapy and with rare instances of clinically apparent liver injury.
+Pentamidine is a synthetic derivative of amidine with antiprotozoal and antifungal activities.  Although the precise mode of action of pentamidine is unclear, it appears to interact directly with the pathogen genome by binding to AT-rich regions of duplex DNA and the minor groove of DNA, thereby interfering with DNA replication. (NCI04)
+PENTAMIDINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1984 and has 4 approved and 15 investigational indications.
+Pentamidine is only found in individuals that have used or taken this drug. It is an antiprotozoal agent effective in trypanosomiasis, leishmaniasis, and some fungal infections; used in treatment of pneumocystis pneumonia in HIV-infected patients. It may cause diabetes mellitus, central nervous system damage, and other toxic effects. [PubChem] The mode of action of pentamidine is not fully understood. It is thought that the drug interferes with nuclear metabolism producing inhibition of the synthesis of DNA, RNA, phospholipids, and proteins.
+Antiprotozoal agent effective in trypanosomiasis, leishmaniasis, and some fungal infections; used in treatment of PNEUMOCYSTIS pneumonia in HIV-infected patients. It may cause diabetes mellitus, central nervous system damage, and other toxic effects.
+See also: Pentamidine Isethionate (has salt form); Pentamidine Mesylate (is active moiety of); Pentamidine monomesylate (is active moiety of) ... View More ...
+Properties:safety: Irritant
+smiles: C1=CC(=CC=C1C(=N)N)OCCCCCOC2=CC=C(C=C2)C(=N)N
+formula: C19H24N4O2
+chem_properties: Molecular Weight: 340.4 g/mol
+XLogP3: 2.6
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 10
+Exact Mass: 340.18992602 Da
+Monoisotopic Mass: 340.18992602 Da
+Topological Polar Surface Area: 118
+Heavy Atom Count: 25
+Formal Charge: 0
+Complexity: 376
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,31 @@
+Name: Theobromine
+Text:
+Theobromine is an odorless white crystalline powder. Bitter taste. pH (saturated solution in water): 5.5-7. (NTP, 1992)
+Theobromine is a dimethylxanthine having the two methyl groups located at positions 3 and 7. A purine alkaloid derived from the cacao plant, it is found in chocolate, as well as in a number of other foods, and is a vasodilator, diuretic and heart stimulator. It has a role as an adenosine receptor antagonist, a food component, a plant metabolite, a human blood serum metabolite, a mouse metabolite, a vasodilator agent and a bronchodilator agent.
+Theobromine (3,7-dimethylxanthine) is the principle alkaloid in Theobroma cacao (the cacao bean) and other plants. A xanthine alkaloid that is used as a bronchodilator and as a vasodilator. It has a weaker diuretic activity than theophylline and is also a less powerful stimulant of smooth muscle. It has practically no stimulant effect on the central nervous system. It was formerly used as a diuretic and in the treatment of angina pectoris and hypertension. (From Martindale, The Extra Pharmacopoeia, 30th ed, pp1318-9)
+Theobromine has been reported in Camellia sinensis, Ilex perado, and other organisms with data available.
+THEOBROMINE is a small molecule drug with a maximum clinical trial phase of III (across all indications) and has 3 investigational indications.
+3,7-Dimethylxanthine. The principle alkaloid in Theobroma cacao (the cacao bean) and other plants. A xanthine alkaloid that is used as a bronchodilator and as a vasodilator. It has a weaker diuretic activity than THEOPHYLLINE and is also a less powerful stimulant of smooth muscle. It has practically no stimulant effect on the central nervous system. It was formerly used as a diuretic and in the treatment of angina pectoris and hypertension. (From Martindale, The Extra Pharmacopoeia, 30th ed, pp1318-9)
+See also: Paullinia cupana seed (part of).
+Properties:safety: Irritant and Health Hazard
+smiles: CN1C=NC2=C1C(=O)NC(=O)N2C
+formula: C7H8N4O2
+chem_properties: Molecular Weight: 180.16 g/mol
+XLogP3: -0.8
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 180.06472551 Da
+Monoisotopic Mass: 180.06472551 Da
+Topological Polar Surface Area: 67.2
+Heavy Atom Count: 13
+Formal Charge: 0
+Complexity: 267
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,59 @@
+Description:
+A gas whose affinity increases uptake but also increases the heat of adsorption, affecting regeneration energy demands.
+
+Text:
+This has driven an intense effort on 
+advancing sorbent materials to reduce process costs, 
+including 
+increasing 
+CO2 
+capacity,14, 
+15 
+reducing 
+regeneration energy requirements,1618 and increasing 
+sorbent stability.19, 20 
+However, many of these sorbent properties are 
+interconnected, 
+often 
+in 
+inverse 
+relationships. For 
+example, increasing the CO2 affinity increases the CO2 
+uptake, but it also increases the CO2 heat of adsorption, 
+thus increasing regeneration energy demands. Similarly, 
+increasing the desorption temperature can improve the 
+working capacity, but it may also accelerate the 
+degradation rate and shorten the sorbent lifetime. Without 
+the guidance of an economic model tailored to DAC, it is 
+challenging to determine whether improving one property 
+actually reduces overall process costs when considering 
+other properties.
+
+
+---
+
+Description:
+A gas that binds with amines to form various compounds such as carbamate and carbonate.
+
+Text:
+Aminebased sorbents are a common choice in DAC 
+technologies due to their high affinity for CO2, even at low 
+concentrations.30 Amines bind CO2 through chemical 
+bonds to form carbamate, carbamic acid, hydronium 
+carbamate, carbonate, or bicarbonate; the endproduct 
+depends on the amine surface coverage, presence of water, 
+and aminesolid support interactions.18, 3134 This results in 
+steep adsorption isotherms (strong Type I) that lead to 
+significant CO2 uptakes at low CO2 partial pressures  a 
+critical feature for DAC applications.3537 Implementing 
+amines in structured contactors can enable a lower 
+pressure drop, indirect heating, and thermal management 
+(i.e., cooling) during adsorption.38 Temperature or 
+temperaturevacuum swing adsorption are the process 
+modes typically coupled with amine sorbents, as the high 
+uptake at low partial pressures makes adsorption based 
+on pressure swing alone a challenging option.39 
+Polymeric or oligomeric amines (polyamines) are a 
+particularly promising form of amine due to their high 
+density of amine sites and lower volatility compared to 
+smaller amine molecules.

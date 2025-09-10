@@ -1,0 +1,13 @@
+Description:
+A unique reactive amino acid residue used for covalent attachment in bioconjugation.
+
+Text:
+To synthesise ArMs, researchers have used many different approaches from simply 
+leveraging native metalbinding activity found in certain proteins 14 to combining synthetic 
+chemistry and proteins, including using variants of natural cofactors, such as the ironbinding 
+protoporphyrin IX, with alternative transition metals 15,16. More synthetic approaches to site
+specific incorporation of metal complexes include the utilisation of supramolecular binding, 
+with several different tethered transition metal complex systems explored to date, the most 
+notable being the biotinstreptavidin (Sav) system 17. Bioconjugation of metal complexes via 
+covalent attachment with unique reactive amino acid residues such as cysteine or 
+azidophenylalanine is another widely used approach to prepare ArMs18.

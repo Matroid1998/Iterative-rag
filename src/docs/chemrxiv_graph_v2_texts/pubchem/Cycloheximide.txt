@@ -1,0 +1,30 @@
+Name: Cycloheximide
+Text:
+Cycloheximide can cause developmental toxicity according to state or federal government labeling requirements.
+Cycloheximide appears as colorless crystals. Used as a fungicide and as a anticancer drug. (EPA, 1998)
+Cycloheximide is a dicarboximide that is 4-(2-hydroxyethyl)piperidine-2,6-dione in which one of the hydrogens attached to the carbon bearing the hydroxy group is replaced by a 3,5-dimethyl-2-oxocyclohexyl group. It is an antibiotic produced by the bacterium Streptomyces griseus. It has a role as a bacterial metabolite, a protein synthesis inhibitor, a neuroprotective agent, an anticoronaviral agent and a ferroptosis inhibitor. It is a member of piperidones, a piperidine antibiotic, an antibiotic fungicide, a dicarboximide, a secondary alcohol and a cyclic ketone. It is functionally related to a piperidine-2,6-dione.
+Cycloheximide has been reported in Streptomyces, Streptomyces pulveraceus, and Streptomyces griseus with data available.
+CYCLOHEXIMIDE is a small molecule drug with a maximum clinical trial phase of II.
+Antibiotic substance isolated from streptomycin-producing strains of Streptomyces griseus. It acts by inhibiting elongation during protein synthesis.
+Properties:safety: Acute Toxic and Health Hazard and Environmental Hazard
+smiles: C[C@H]1C[C@@H](C(=O)[C@@H](C1)[C@@H](CC2CC(=O)NC(=O)C2)O)C
+formula: C15H23NO4
+chem_properties: Molecular Weight: 281.35 g/mol
+XLogP3: 0.5
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 3
+Exact Mass: 281.16270821 Da
+Monoisotopic Mass: 281.16270821 Da
+Topological Polar Surface Area: 83.5
+Heavy Atom Count: 20
+Formal Charge: 0
+Complexity: 404
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

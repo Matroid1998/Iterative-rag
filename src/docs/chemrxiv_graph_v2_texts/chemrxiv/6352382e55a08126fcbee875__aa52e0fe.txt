@@ -1,0 +1,13 @@
+Description:
+Used as a propellant with a broad working temperature range, though less effective than some derivatives.
+
+Text:
+In addition, these fuels possess a broader working 
+temperature range than hydrazine propellants, rendering a safe use in harsh environments such as low 
+temperature and heat. Despite these excellent properties, boronbased HILs holistic propellant performance 
+is still inferior to hydrazine derivatives, restricting their widespread applications as rocket propellants. To 
+boost the propellant performance of boronbased HILs, constantly engineering their chemical structures is 
+highly necessary. Along this direction, the conventional approaches modify the anions and cations of the 
+ionic liquids based on experiences and heuristics,9 and then experimentally verify the physicochemical 
+properties of the synthesized compounds. However, such a trialanderror design cycle is biased by 
+practitioners preferences and the variations of experimental conditions. Meanwhile, it is expensive and

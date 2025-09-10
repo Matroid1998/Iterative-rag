@@ -1,0 +1,12 @@
+Description:
+A precursor for GaN ALD, undergoing gas-phase decomposition via hydride elimination.
+
+Text:
+The surface chemistry for ALD of GaN from TMG has been extensively investigated using a 
+variety of surface sensitive experimental and theoretical techniques5,9,10,11,12. In contrast, ALD of GaN from TEG has been less studied. Stegmuller et al,13 have presented a 
+quantum chemical study on the gasphase decomposition pathways of TEG using density 
+functional theory (DFT). They concluded that hydride elimination, i.e., replacing one ethyl 
+ligand with a hydrogen on the gallium center while forming ethylene, is the dominant gas
+phase decomposition pathway for TEG in a thermal CVD process. In surface chemistry studies 
+with TEG, ethyl groups are found to deposit onto the surface by the decomposition of TEG, 
+followed by desorption at higher temperatures as ethylene (C2H4) andor ethane (C2H6).

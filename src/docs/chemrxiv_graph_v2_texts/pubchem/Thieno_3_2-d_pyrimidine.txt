@@ -1,0 +1,24 @@
+Name: Thieno[3,2-d]pyrimidine
+Text:
+Properties:safety: Irritant
+smiles: C1=CSC2=CN=CN=C21
+formula: C6H4N2S
+chem_properties: Molecular Weight: 136.18 g/mol
+XLogP3: 1.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 136.00951931 Da
+Monoisotopic Mass: 136.00951931 Da
+Topological Polar Surface Area: 54
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 107
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

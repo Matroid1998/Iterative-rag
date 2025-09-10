@@ -1,0 +1,27 @@
+Description:
+Considered as an operation condition in the evaluation of PEM fuel cells.
+
+Text:
+The experimentally resulted data shows the performance of a PEMFC at several percent of 
+membrane compression, different applied voltages, different pressure of H2O2 gas, and various 
+humidity conditions of cathode and air, which can be used to study behavior of PEMFC that is 
+necessary to research and development of fuel cells. In other words, the dataset help researchers 
+and specialists who investigate and work on PEM fuel cells 1. Polarization and Impedance curves have obtained from specific empirical operation 
+condition. MEA structure defines as composition of anode, membrane and cathode. Temperature 
+of anode, cathode and cell, pressure and flow rate of H2O2 (ml.min1) have been considered as 
+operation condition during the evaluation.
+
+
+---
+
+Description:
+Used in impedance analysis at different pressures during activation procedures.
+
+Text:
+In Polarization curves, cell voltage (V) per current 
+density (mA.cm2) and cell power density (mW.cm2) per current density (mA.cm2) has been 
+obtained at various relative humidity, gas pressure and membrane compression. Impedance 
+analysis were done at the end of the each activation set and procedure at different cell voltages, 
+relative humidity and H2O2 pressure. Also, in each activation procedure, analysis has been 
+accomplished by repeat of activation sets 2. Obtained data can be useful for simulation of PEMFC and simulation has important role in 
+scientific and applied studies.

@@ -1,0 +1,11 @@
+Description:
+Can act as a counterion in aqueous electrolytes.
+
+Text:
+However, the influence of (H2O)6 clusters, which are prevalent within the defec
+tive structure, has been debated, with some work concluding that these sites can inhibit ion insertion into the channels, while others 
+deducing that K sits within the (H2O)6 cluster itself (Scheme 1b).15,21 The complications in understanding K ion location have resulted in 
+ambiguity when assigning the chargebalancing species during framework redox processes, with suggestions that in aqueous electrolytes 
+H3O or K can act as counterions.15,22,23 Indeed, similar uncertainty is also observed for other cations that can be incorporated into the 
+structure, such as Mg2.24 
+Another challenge in utilizing PB for energy storage applications is its varied stability over repeated cycling.

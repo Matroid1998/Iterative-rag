@@ -1,0 +1,31 @@
+Description:
+A planar aromatic ring structure widely used in a vast array of bioactive compounds.
+
+Text:
+In recent years, chemists have been captivated by the concept of escaping from 
+flatland1,2. The utilization of C(sp3)rich threedimensional (3D) scaffolds as bioisosteres 
+for planar aromatic ring structures has provided practical solutions to various 
+developability challenges encountered in drug discovery3,4. This bioisosteric substitution 
+often leads to enhanced potency, solubility, and metabolic stability58. In this context, the 
+invention and synthesis of benzene bioisosteres have been actively explored in organic 
+synthesis4,9, primarily due to the widespread use of benzene in a vast array of bioactive 
+compounds (Fig. 1a)10. Through these efforts, a diverse range of bicyclic or polycyclic 
+hydrocarbon scaffolds has been synthesized5,7,11, enabling the precise mimic of ortho1218, 
+meta1925, and paradisubstituted benzenes2632.
+
+
+---
+
+Description:
+A common six-membered aromatic compound.
+
+Text:
+In sharp contrast, the bioisosteres of pyridine, the second most common aromatic ring 
+appearing in drugs10,33, have received less attention and surprisingly encountered trivial 
+success. A notable example was recently disclosed by Mykhailiuk, wherein a novel type of 
+3azabicyclo3.1.1heptanes was synthesized through the reduction of spirocyclic 
+oxetanyl nitrile. The resulting fragment was proposed to mimic 3,5disubstituted 
+pyridines (Fig. 1a)34. As the most common sixmembered aromatics, pyridine and benzene should, in principle, 
+share a similar strategy for 3D bioisosterism. However, it is crucial to bear in mind that 
+the basicity of the sp2N in pyridine plays a vital role in ligandprotein recognition35. The 
+complete saturation of pyridine would alter the hybridization of the nitrogen atom

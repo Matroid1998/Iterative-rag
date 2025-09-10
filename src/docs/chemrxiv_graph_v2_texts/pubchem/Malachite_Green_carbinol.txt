@@ -1,0 +1,25 @@
+Name: Malachite Green carbinol
+Text:
+Malachite Green carbinol is a benzenoid aromatic compound.
+Properties:safety: Irritant
+smiles: CN(C)C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=C(C=C3)N(C)C)O
+formula: C23H26N2O
+chem_properties: Molecular Weight: 346.5 g/mol
+XLogP3: 4.5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 5
+Exact Mass: 346.204513457 Da
+Monoisotopic Mass: 346.204513457 Da
+Topological Polar Surface Area: 26.7
+Heavy Atom Count: 26
+Formal Charge: 0
+Complexity: 386
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

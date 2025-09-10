@@ -1,0 +1,33 @@
+Name: Glutathione
+Text:
+Glutathione is a tripeptide compound consisting of glutamic acid attached via its side chain to the N-terminus of cysteinylglycine. It has a role as a skin lightening agent, a human metabolite, an Escherichia coli metabolite, a mouse metabolite, a geroprotector, an antioxidant and a cofactor. It is a tripeptide, a thiol and a L-cysteine derivative. It is a conjugate acid of a glutathionate(1-).
+A tripeptide with many roles in cells. It conjugates to drugs to make them more soluble for excretion, is a cofactor for some enzymes, is involved in protein disulfide bond rearrangement and reduces peroxides.
+Glutathione is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Glutathione has been reported in Zea mays, Drosophila melanogaster, and other organisms with data available.
+Glutathione is a tripeptide comprised of three amino acids (cysteine, glutamic acid, and glycine) present in most mammalian tissue. Glutathione acts as an antioxidant, a free radical scavenger and a detoxifying agent. Glutathione is also important as a cofactor for the enzyme glutathione peroxidase, in the uptake of amino acids, and in the synthesis of leukotrienes. As a substrate for glutathione S-transferase, this agent reacts with a number of harmful chemical species, such as halides, epoxides and free radicals, to form harmless inactive products. In erythrocytes, these reactions prevent oxidative damage through the reduction of methemoglobin and peroxides. Glutathione is also involved in the formation and maintenance of disulfide bonds in proteins and in the transport of amino acids across cell membranes.
+GLUTATHIONE is a small molecule drug with a maximum clinical trial phase of III (across all indications) and has 9 investigational indications.
+Glutathione is a compound synthesized from cysteine, perhaps the most important member of the body's toxic waste disposal team. Like cysteine, glutathione contains the crucial thiol (-SH) group that makes it an effective antioxidant. There are virtually no living organisms on this planet-animal or plant whose cells don't contain some glutathione. Scientists have speculated that glutathione was essential to the very development of life on earth. Glutathione has many roles; in none does it act alone. It is a coenzyme in various enzymatic reactions. The most important of these are redox reactions, in which the thiol grouping on the cysteine portion of cell membranes protects against peroxidation; and conjugation reactions, in which glutathione (especially in the liver) binds with toxic chemicals in order to detoxify them. Glutathione is also important in red and white blood cell formation and throughout the immune system. glutathione's clinical uses include the prevention of oxygen toxicity in hyperbaric oxygen therapy, treatment of lead and other heavy metal poisoning, lowering of the toxicity of chemotherapy and radiation in cancer treatments, and reversal of cataracts. Glutathione participates in leukotriene synthesis and is a cofactor for the enzyme glutathione peroxidase. It is also important as a hydrophilic molecule that is added to lipophilic toxins and waste in the liver during biotransformation before they can become part of the bile. Glutathione is also needed for the detoxification of methylglyoxal, a toxin produced as a by-product of metabolism. This detoxification reaction is carried out by the glyoxalase system. Glyoxalase I (EC 4.4.1.5) catalyzes the conversion of methylglyoxal and reduced glutathione to S-D-Lactoyl-glutathione. Glyoxalase II (EC 3.1.2.6) catalyzes the hydrolysis of S-D-Lactoyl-glutathione to glutathione and D-lactate. GSH is known as a substrate in both conjugation reactions and reduction reactions, catalyzed by glutathione S-transferase enzymes in cytosol, microsomes, and mitochondria. However, it is also capable of participating in non-enzymatic conjugation with some chemicals, as in the case of n-acetyl-p-benzoquinone imine (NAPQI), the reactive cytochrome P450-reactive metabolite formed by acetaminophen, that becomes toxic when GSH is depleted by an overdose (of acetaminophen). Glutathione in this capacity binds to NAPQI as a suicide substrate and in the process detoxifies it, taking the place of cellular protein thiol groups which would otherwise be covalently modified; when all GSH has been spent, NAPQI begins to react with the cellular proteins, killing the cells in the process. The preferred treatment for an overdose of this painkiller is the administration (usually in atomized form) of N-acetylcysteine, which is used by cells to replace spent GSSG and renew the usable GSH pool.  It conjugates to drugs to make them more soluble for excretion, is a cofactor for some enzymes, is involved in protein disulfide bond rearrangement and reduces peroxides.
+A tripeptide with many roles in cells. It conjugates to drugs to make them more soluble for excretion, is a cofactor for some enzymes, is involved in protein disulfide bond rearrangement and reduces peroxides.
+See also: Glutathione sodium (is active moiety of); Glutathione; nonapeptide-1 (component of) ... View More ...
+Properties:safety: Health Hazard
+smiles: C(CC(=O)N[C@@H](CS)C(=O)NCC(=O)O)[C@@H](C(=O)O)N
+formula: C10H17N3O6S
+chem_properties: Molecular Weight: 307.33 g/mol
+XLogP3: -4.5
+Hydrogen Bond Donor Count: 6
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 9
+Exact Mass: 307.08380644 Da
+Monoisotopic Mass: 307.08380644 Da
+Topological Polar Surface Area: 160
+Heavy Atom Count: 20
+Formal Charge: 0
+Complexity: 389
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

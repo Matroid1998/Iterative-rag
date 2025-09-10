@@ -1,0 +1,15 @@
+Description:
+A reference point in the Standard Hydrogen Electrode (SHE) used in electrochemical potential measurements.
+
+Text:
+The Computational Hydrogen
+Electrode (CHE) approach considers entirely protoncoupled electron transfer (PCET) steps
+and derives these electrochemical potentials simply from reference to the Standard Hydrogen
+Electrode (SHE) at which these are in equilibrium with Hydrogen gas.19,20 By again con
+sidering scaling and BEP relations for PCET steps,21 the full potential and pH dependence
+of all intermediates formation energies is accessible from often only a single or two forma
+tion energies.22 Again, this descriptorbased approach has been used from highthroughput
+screening using machine learning2325 or interpretation of experimental ndings.22
+Due to the origination of this approach from surface science, the formation energies of
+reaction intermediates even in electrochemistry have been calculated on simple solid surface
+2

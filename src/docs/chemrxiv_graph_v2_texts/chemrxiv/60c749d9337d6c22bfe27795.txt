@@ -1,0 +1,13 @@
+Description:
+Important synthons in organic chemistry used for a variety of chemical transformations.
+
+Text:
+The results from ML models are helpful in building 
+a chemical library that is otherwise tedious to explore by screening each reaction to check substrate 
+feasibility under certain reaction conditions. To date, there is limited literature precedence for 
+prospective prediction of desired chemical reactions and interpreting its reactivity using machine 
+learning methods.10,11 We provide a first report, to the best of our knowledge, of a fast and onepot 
+multicomponent reaction to explore heterogenous reactivity of Nsulfonylimines by training a human
+interpretable machine learning model that identifies chemical patterns of reactivity to predict and test 
+new reactions prospectively. We selected Nsulfonylimines as our model substrate because Nsulfonylimines are one of the important 
+synthons in organic chemistry that are being used for a variety of chemical transformations.

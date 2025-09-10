@@ -1,0 +1,27 @@
+Name: 2-Methylfuran
+Text:
+2-methylfuran appears as a clear colorless liquid with an ethereal odor. Flash point -22 °F. Less dense than water and insoluble in water. Hence floats on water. Vapors heavier than air.
+2-methylfuran is a member of the class of furans that is furan in which the hydrogen at position 2 is replaced by a methyl group. It has a role as a human urinary metabolite, a hepatotoxic agent, a fuel, a flavouring agent and a plant metabolite. It is a member of furans and a volatile organic compound.
+2-Methylfuran has been reported in Fusarium poae, Panax ginseng, and other organisms with data available.
+Properties:safety: Flammable and Acute Toxic and Irritant and Environmental Hazard
+smiles: CC1=CC=CO1
+formula: C5H6O
+chem_properties: Molecular Weight: 82.10 g/mol
+XLogP3: 1.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 82.041864811 Da
+Monoisotopic Mass: 82.041864811 Da
+Topological Polar Surface Area: 13.1
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 43.2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,23 @@
+Name: Yttrium oxide
+Text:
+Properties:safety: Irritant
+smiles: [O-2].[O-2].[O-2].[Y+3].[Y+3]
+formula: O3Y2
+chem_properties: Molecular Weight: 225.810 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 225.796420 Da
+Monoisotopic Mass: 225.796420 Da
+Topological Polar Surface Area: 3
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 5
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,34 @@
+Name: Cholecalciferol
+Text:
+Vitamin d3 appears as fine colorless crystals. Water insoluble. (NTP, 1992)
+Calciol is a hydroxy seco-steroid that is (5Z,7E)-9,10-secocholesta-5,7,10(19)-triene in which the pro-S hydrogen at position 3 has been replaced by a hydroxy group. It is the inactive form of vitamin D3, being hydroxylated in the liver to calcidiol (25-hydroxyvitamin D3), which is then further hydroxylated in the kidney to give calcitriol (1,25-dihydroxyvitamin D3), the active hormone. It has a role as a human metabolite and a geroprotector. It is a seco-cholestane, a hydroxy seco-steroid, a member of D3 vitamins, a secondary alcohol and a steroid hormone.
+Vitamin D, in general, is a secosteroid generated in the skin when 7-dehydrocholesterol located there interacts with ultraviolet irradiation - like that commonly found in sunlight. Both the endogenous form of vitamin D (that results from 7-dehydrocholesterol transformation), vitamin D3 (cholecalciferol), and the plant-derived form, vitamin D2 (ergocalciferol), are considered the main forms of vitamin d and are found in various types of food for daily intake. Structurally, ergocalciferol differs from cholecalciferol in that it possesses a double bond between C22 and C23 and has an additional methyl group at C24. Finally, ergocalciferol is pharmacologically less potent than cholecalciferol, which makes vitamin D3 the preferred agent for medical use.  Appropriate levels of vitamin D must be upheld in the body in order to maintain calcium and phosphorus levels in a healthy physiologic range to sustain a variety of metabolic functions, transcription regulation, and bone metabolism. However, studies are also ongoing to determine whether or not cholecalciferol may also play certain roles in cancer, autoimmune disorders, cardiovascular disease, and other medical conditions that may be associated with vitamin D deficiency.
+Cholecalciferol is a Vitamin D.
+Cholecalciferol has been reported in Cestrum diurnum, Solanum tuberosum, and other organisms with data available.
+Cholecalciferol is a steroid hormone produced in the skin when exposed to ultraviolet light or obtained from dietary sources. The active form of cholecalciferol, 1,25-dihydroxycholecalciferol (calcitriol) plays an important role in maintaining blood calcium and phosphorus levels and mineralization of bone. The activated form of cholecalciferol binds to vitamin D receptors and modulates gene expression. This leads to an increase in serum calcium concentrations by increasing intestinal absorption of phosphorus and calcium, promoting distal renal tubular reabsorption of calcium and increasing osteoclastic resorption.
+CHOLECALCIFEROL is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1999 and has 3 approved and 101 investigational indications.
+Cholecalciferol is only found in individuals that have used or taken this drug. It is a derivative of 7-dehydroxycholesterol formed by ultraviolet rays breaking of the C9-C10 bond. It differs from ergocalciferol in having a single bond between C22 and C23 and lacking a methyl group at C24. [PubChem]The first step involved in the activation of vitamin D3 is a 25-hydroxylation which is catalysed by the 25-hydroxylase in the liver and then by other enzymes. The mitochondrial sterol 27-hydroxylase catalyses the first reaction in the oxidation of the side chain of sterol intermediates. The active form of vitamin D3 (calcitriol) binds to intracellular receptors that then function as transcription factors to modulate gene expression. Like the receptors for other steroid hormones and thyroid hormones, the vitamin D receptor has hormone-binding and DNA-binding domains. The vitamin D receptor forms a complex with another intracellular receptor, the retinoid-X receptor, and that heterodimer is what binds to DNA. In most cases studied, the effect is to activate transcription, but situations are also known in which vitamin D suppresses transcription. Calcitriol increases the serum calcium concentrations by: increasing GI absorption of phosphorus and calcium, increasing osteoclastic resorption, and increasing distal renal tubular reabsorption of calcium. Calcitriol appears to promote intestinal absorption of calcium through binding to the vitamin D receptor in the mucosal cytoplasm of the intestine. Subsequently, calcium is absorbed through formation of a calcium-binding protein.
+Derivative of 7-dehydroxycholesterol formed by ULTRAVIOLET RAYS breaking of the C9-C10 bond. It differs from ERGOCALCIFEROL in having a single bond between C22 and C23 and lacking a methyl group at C24.
+See also: Vitamin D (is active moiety of); Alendronate Sodium; Cholecalciferol (component of); Cholecalciferol; retinol (component of) ... View More ...
+Properties:safety: Acute Toxic and Health Hazard
+smiles: C[C@H](CCCC(C)C)[C@H]1CC[C@@H]\2[C@@]1(CCC/C2=C\C=C/3\C[C@H](CCC3=C)O)C
+formula: C27H44O
+chem_properties: Molecular Weight: 384.6 g/mol
+XLogP3: 7.9
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 6
+Exact Mass: 384.339216023 Da
+Monoisotopic Mass: 384.339216023 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 28
+Formal Charge: 0
+Complexity: 610
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 5
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 2
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,20 @@
+Description:
+A ternary metal oxide whose polymorphs can be predicted using computational approaches.
+
+Text:
+In this study, we remap the problem of iden
+tifying polymorphs of the ternary metal oxide
+Bi2Sn2O7 from a search over atom positions in
+real space to collective atomic displacements in
+phonon space.9 This results in an ecient and
+unbiased computational approach to predicting
+the polymorphs of the ternary oxide Bi2Sn2O7,
+which is generally applicable to other complex
+systems where conventional approaches such as
+random searching or genetic algorithms are not
+practical.1014
+Crystal chemistry of bismuth stannate
+The ideal A2B2O6O pyrochlore structure in the
+Fd3m spacegroup has eight formula units in
+the unit cell. The four unique atomic sites,
+viz.

@@ -1,0 +1,36 @@
+Name: Niacinamide
+Text:
+Nicotinamide is a white powder. (NTP, 1992)
+Nicotinamide is a pyridinecarboxamide that is pyridine in which the hydrogen at position 3 is replaced by a carboxamide group. It has a role as an EC 2.4.2.30 (NAD(+) ADP-ribosyltransferase) inhibitor, a metabolite, a cofactor, an antioxidant, a neuroprotective agent, an EC 3.5.1.98 (histone deacetylase) inhibitor, an anti-inflammatory agent, a Sir2 inhibitor, a Saccharomyces cerevisiae metabolite, an Escherichia coli metabolite, a mouse metabolite, a human urinary metabolite and a geroprotector. It is a vitamin B3, a pyridinecarboxamide and a pyridine alkaloid. It is functionally related to a nicotinic acid.
+An important compound functioning as a component of the coenzyme NAD. Its primary significance is in the prevention and/or cure of blacktongue and pellagra. Most animals cannot manufacture this compound in amounts sufficient to prevent nutritional deficiency and it therefore must be supplemented through dietary intake.
+Niacinamide is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Nicotinamide has been reported in Lactarius subplinthogalus, Taraxacum formosanum, and other organisms with data available.
+Niacinamide is the active form of vitamin B3 and a component of the coenzyme nicotinamide adenine dinucleotide (NAD). Niacinamide acts as a chemo- and radio-sensitizing agent by enhancing tumor blood flow, thereby reducing tumor hypoxia.  This agent also inhibits poly(ADP-ribose) polymerases, enzymes involved in the rejoining of DNA strand breaks induced by radiation or chemotherapy.
+NIACINAMIDE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) and has 4 approved and 30 investigational indications.
+Nicotinamide is a uremic toxin.  Uremic toxins can be subdivided into three major groups based upon their chemical and physical characteristics: 1) small, water-soluble, non-protein-bound compounds, such as urea; 2) small, lipid-soluble and/or protein-bound compounds, such as the phenols and 3) larger so-called middle-molecules, such as beta2-microglobulin. Chronic exposure of uremic toxins can lead to a number of conditions including renal damage, chronic kidney disease and cardiovascular disease. 
+Niacinamide or vitamin B3 is an important compound functioning as a component of the coenzyme NAD. Its primary significance is in the prevention and/or cure of blacktongue and pellagra. Most animals cannot manufacture this compound in amounts sufficient to prevent nutritional deficiency and it therefore must be supplemented through dietary intake. Niacinamide is used to increase the effect of radiation therapy on tumor cells. Niacin (nicotinic acid) and niacinamide, while both labeled as vitamin B3 also have different applications. Niacinamide is useful in arthritis and early-onset type I diabetes while niacin is an effective reducer of high cholesterol levels.
+Niacinamide is a metabolite found in or produced by Saccharomyces cerevisiae.
+An important compound functioning as a component of the coenzyme NAD. Its primary significance is in the prevention and/or cure of blacktongue and PELLAGRA. Most animals cannot manufacture this compound in amounts sufficient to prevent nutritional deficiency and it therefore must be supplemented through dietary intake.
+See also: Niacinamide ascorbate (is active moiety of); Dapsone; niacinamide (component of); Adenosine; Niacinamide (component of) ... View More ...
+Properties:safety: Irritant
+smiles: C1=CC(=CN=C1)C(=O)N
+formula: C6H6N2O
+chem_properties: Molecular Weight: 122.12 g/mol
+XLogP3: -0.4
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 122.048012819 Da
+Monoisotopic Mass: 122.048012819 Da
+Topological Polar Surface Area: 56
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 114
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,10 @@
+Description:
+Forms singlesite complexes that react with alkenes, often with irreversible coordination.
+
+Text:
+Our ability to selectively activate and functionalize CH bonds in organic molecules is fundamental 
+to countless chemical processes.1 Despite notable advances in this field, strategies for the selective 
+functionalization of sp2 CH bonds of alkenes are underdeveloped.29 This limitation can be traced 
+back to fundamental selectivity issues that emerge on reaction of alkenes with singlesite transition 
+metal complexes. Coordination of the alkene to the metal is often kinetically accessible and non
+reversible (Figure 1).

@@ -1,0 +1,27 @@
+Name: Rhodamine B
+Text:
+D&C Red No. 19 can cause cancer according to The Food and Drug Administration (FDA).
+C.i. food red 15 appears as green crystals or reddish-violet powder. Used as a dye, especially for paper, as a metal chelating reagent, and in drugs and cosmetics.
+Rhodamine B is an organic chloride salt having N-[9-(2-carboxyphenyl)-6-(diethylamino)-3H-xanthen-3-ylidene]-N-ethylethanaminium as the counterion. An amphoteric dye commonly used as a fluorochrome. It has a role as a fluorochrome, a fluorescent probe and a histological dye. It is an organic chloride salt and a xanthene dye. It contains a rhodamine B(1+).
+Rhodamine is a class of xanthene derivatives with fluorescent properties that are used as tracer dyes in a wide variety of industrial and laboratory applications.
+Properties:safety: Corrosive and Irritant
+smiles: CCN(CC)C1=CC2=C(C=C1)C(=C3C=CC(=[N+](CC)CC)C=C3O2)C4=CC=CC=C4C(=O)O.[Cl-]
+formula: C28H31N2O3.Cl
+chem_properties: Molecular Weight: 479.0 g/mol
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 7
+Exact Mass: 478.2023205 Da
+Monoisotopic Mass: 478.2023205 Da
+Topological Polar Surface Area: 52.8
+Heavy Atom Count: 34
+Formal Charge: 0
+Complexity: 811
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

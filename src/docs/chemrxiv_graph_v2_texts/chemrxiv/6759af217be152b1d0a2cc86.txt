@@ -1,0 +1,52 @@
+Description:
+Can be captured using electrochemical technologies powered by renewable electricity.
+
+Text:
+Developing sustainable and energyefficient CO2 capture approaches is crucial for realizing netzero targets 
+(1). Electrochemical CO2 capture technologies can be powered by renewable electricity as the sole energy 
+source and are emerging as energyefficient alternatives to traditional CO2 capture processes that rely on 
+thermal or pressure swings (2). Recent studies have shown that CO2 can be captured from simulated flue gases 
+using simple supercapacitors through an effect known as supercapacitive swing adsorption (SSA) (3, 4). The 
+device configuration typically features a symmetric supercapacitor cell consisting of two identical porous 
+activated carbon electrodes and an aqueous electrolyte, with one electrode partially exposed to a CO2
+containing gas and the other fully immersed in the electrolyte (Fig. 1A).
+
+
+---
+
+Description:
+A gas that can dissolve in water to form carbonic acid.
+
+Text:
+The CO2 capture mechanism likely involves 
+chargingdriven perturbations to the below equilibria, though more detailed mechanistic studies are needed at 
+the molecular level (21) 
+(1) CO2 (g)  CO2 (aq) 
+(2) CO2 (aq)  H2O (l)  H2CO3
+ (aq) 
+(3) H2CO3
+ (aq)  H2O (l)  HCO3
+ (aq)  H3O (aq) 
+(4) HCO3
+ (aq)  H2O (l)  CO3
+2 (aq)  H3O (aq) 
+When the gasexposed carbon electrode obtains electrons either during the negative charging of pristine 
+states or the discharging of positively charged states, CO2derived (bi)carbonate ions (e.g., HCO3) migrate 
+away from the gasexposed carbon electrode, leading to a local depletion of CO2 which drives CO2 capture 
+(Fig. 1A) (21, 22).
+
+
+---
+
+Description:
+Involved in capture and release processes at electrodes in supercapacitors.
+
+Text:
+However, our groups recent mechanistic studies on SSA suggested that there are competing 
+CO2 capture and release processes at the two electrodes in supercapacitors, with the competition becoming 
+apparent at slow charging conditions or during long voltage holds (15, 22). Specifically, we proposed that CO2 
+capture at the gasexposed carbon electrode is accompanied by CO2 release at the electrolyteimmersed carbon 
+electrode, reducing the overall CO2 adsorption capacities of the device (22). In pursuit of enhanced CO2 capture 
+performance, strategies to reduce the competing processes are needed. Here we therefore employed nonporous metallic zinc as the electrolyteimmersed counter electrode to 
+break the supercapacitor symmetry (Fig. 1B) and to suppress the competing processes in conventional 
+symmetric supercapacitors.

@@ -1,0 +1,12 @@
+Description:
+Used in cryogenic single particle trapping experiments to measure adsorption kinetics of Ar atoms.
+
+Text:
+reported a 
+cryogenic single particle trapping experiment in which the kinetics for adsorption of Ar atoms on 
+silica NP was measured.15 These experiments detected the particles, and measured their motion 
+in the trap optically, using either light scattering for large particles, or laserinduced fluorescence 
+(LIF) for small particles. Recently we became interested in using NPMS as a method to measure 
+kinetics for surface reactions of single NPs at high temperature, where NPs are detected, and 
+their motion monitored, by measuring the thermal (blackbody) emission from the NPs, and 
+fitting the emission spectra to determine the NP temperature (TNP).16, 17

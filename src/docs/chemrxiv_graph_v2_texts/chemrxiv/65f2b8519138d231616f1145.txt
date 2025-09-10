@@ -1,0 +1,13 @@
+Description:
+Interacts with cosmic rays resulting in secondary UV photons from deexcitation.
+
+Text:
+In cold shielded regions such as molecular clouds, external UV photons are
+shielded; however, the interaction of H2 with cosmic rays results in secondary UV
+photons from the deexcitation of H2 molecules (Ly radiation) 31. As a result, Ly
+ radiation is a dominant source of energy and the photochemical processing of ice
+is hypothesized to play an important role in the large variety of organic molecules
+observed in these areas 8, 23. An important example is the formation of O(1D) as a result of photolysis of water
+(H2O) and carbon dioxide (CO2) ice (with efficiencies of 10 and 100, respectively.) Thus, the chemistry of O(1D) insertion reactions is a possible source of many organic
+2
+httpsdoi.org10.26434chemrxiv2024pddc0 ORCID httpsorcid.org0000000331552273 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

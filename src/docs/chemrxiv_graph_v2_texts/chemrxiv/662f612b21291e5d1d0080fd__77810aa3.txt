@@ -1,0 +1,14 @@
+Description:
+Porous materials that provide a confinement effect leading to transition state stabilization in reactions.
+
+Text:
+The methanol to DME reaction is promoted by the unique
+porous structure of zeolites, this provides a confinement effect
+that leads to transition state stabilisation.26 This work focuses
+on the MFI framework type structure (commonly known as ZSM
+5), shown in fig. 1. This framework has orthorhombic symmetry
+(Pnma) within a large range of operating temperatures, and is
+composed of straight parallel pores (fig. 1a) intersected by sinu
+soidal pores (fig. 1b). These ordered pores provide large inter
+a Centre for Computational Chemistry, School of Chemistry, University of Bristol, Bris
+tol, BS8 1TS, UK. b European Spallation Source, Ole Maales vej 3, 2200 Kbenhavn N, DK. c Diamond Light Source, Harwell Campus, Didcot, OX11 0DE, UK.

@@ -1,0 +1,34 @@
+Name: Estradiol
+Text:
+17beta-estradiol is the 17beta-isomer of estradiol. It has a role as an estrogen, a human metabolite, an EC 1.2.3.1 (aldehyde oxidase) inhibitor, a Daphnia magna metabolite, a mouse metabolite and a geroprotector. It is a 17beta-hydroxy steroid and an estradiol.
+Estradiol is a naturally occurring hormone circulating endogenously in females. It is commercially available in several hormone therapy products for managing conditions associated with reduced estrogen, such as vulvovaginal atrophy and hot flashes. Some available forms of estradiol include oral tablets, injections, vaginal rings, transdermal patches, sprays, gels, and creams.   When used for oral or IM administration, estradiol is commonly synthesized as a pro-drug ester (such as [DB13952], [DB13953], [DB13954], [DB13955], and [DB13956]). Because it has a low oral bioavailability on its own, estradiol is commonly formulated with an ester side-chain. [DB00977] (EE) is a synthetic form of estradiol commonly used as the estrogenic component of most combination oral contraceptive pills (OCPs). Ethinyl estradiol is different from estradiol due to its higher biovailability and increased resistance to metabolism, rendering it more suitable for oral administration.
+Estradiol is an Estrogen. The mechanism of action of estradiol is as an Estrogen Receptor Agonist.
+Estradiol has been reported in Locusta migratoria, Dalbergia sissoo, and other organisms with data available.
+Therapeutic Estradiol is a synthetic form of estradiol, a steroid sex hormone vital to the maintenance of fertility and secondary sexual characteristics in females, that may be used as hormone replacement therapy. Typically esterified, estradiol derivatives are formulated for oral, intravaginal, transdermal, or parenteral administration. As the primary, most potent estrogen hormone produced by the ovaries, estradiol binds to and activates specific nuclear receptors. Estradiol exhibits mild anabolic and metabolic properties, and increases blood coagulability. It may play a role in immune and inflammatory processes.
+Estradiol is the most potent form of the naturally occurring steroid sex hormone in humans, produced by ovary, placenta, testis, and in small amount by adrenal cortex. Estradiol binds to a specific intracellular estrogen receptor located in female organs, breasts, hypothalamus and pituitary. The receptor-ligand complex promotes gene expression necessary for the maintenance of fertility and secondary sexual characteristics in females. In addition, estradiol exhibits mild anabolic and metabolic properties, and increases blood coagulability. Estradiol, the principal intracellular human estrogen, is substantially more active at the cellular level than its metabolites, estrone and estriol.
+ESTRADIOL is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1975 and has 13 approved and 39 investigational indications. This drug has a black box warning from the FDA.
+Generally refers to the 17-beta-isomer of estradiol, an aromatized C18 steroid with hydroxyl group at 3-beta- and 17-beta-position. Estradiol-17-beta is the most potent form of mammalian estrogenic steroids. In humans, it is produced primarily by the cyclic ovaries and the placenta. It is also produced by the adipose tissue of men and postmenopausal women. The 17-alpha-isomer of estradiol binds weakly to estrogen receptors (receptors, estrogen) and exhibits little estrogenic activity in estrogen-responsive tissues. Various isomers can be synthesized.
+The 17-beta-isomer of estradiol, an aromatized C18 steroid with hydroxyl group at 3-beta- and 17-beta-position. Estradiol-17-beta is the most potent form of mammalian estrogenic steroids.
+See also: Estradiol Valerate (active moiety of); Estradiol Cypionate (active moiety of); Estradiol Benzoate (active moiety of) ... View More ...
+Properties:safety: Health Hazard and Environmental Hazard
+smiles: C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)O
+formula: C18H24O2
+chem_properties: Molecular Weight: 272.4 g/mol
+XLogP3: 4
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 272.177630004 Da
+Monoisotopic Mass: 272.177630004 Da
+Topological Polar Surface Area: 40.5
+Heavy Atom Count: 20
+Formal Charge: 0
+Complexity: 382
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 5
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

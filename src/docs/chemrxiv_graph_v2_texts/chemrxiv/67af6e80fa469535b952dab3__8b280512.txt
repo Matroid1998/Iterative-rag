@@ -1,0 +1,14 @@
+Description:
+A handle for bioorthogonal chemistry in functionalised linkers.
+
+Text:
+This is problematic, as owing to resistance issues, there is 
+a need for novel targets, to prevent risk of crossresistance to current medications and those 
+in clinical trials, and to provide combination therapies. Although new targets can and will be 
+identified from phenotypic screening of diversity libraries followed by target deconvolution, 
+more direct target identification approaches are now required to expand the number of 
+chemically validated targets. The use of Fully Functionalised Fragments (FFF), as described by Cravatt and colleagues,4 
+represents an alternative route to the identification of new and druggable targets. Each FFF 
+consists of a fragment moiety attached to a functionalised linker containing both a photo
+affinity group (typically a diazirine) and a handle for bioorthogonal chemistry (typically an 
+alkyne) (Figure 1).

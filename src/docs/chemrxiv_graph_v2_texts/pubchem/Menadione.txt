@@ -1,0 +1,31 @@
+Name: Menadione
+Text:
+Menadione is a member of the class of 1,4-naphthoquinones that is 1,4-naphthoquinone which is substituted at position 2 by a methyl group. It is used as a nutritional supplement and for the treatment of hypoprothrombinemia. It has a role as a nutraceutical, a human urinary metabolite, an angiogenesis inhibitor, an EC 3.4.22.69 (SARS coronavirus main proteinase) inhibitor and an antineoplastic agent. It is a member of 1,4-naphthoquinones and a vitamin K.
+A synthetic naphthoquinone without the isoprenoid side chain and biological activity, but can be converted to active vitamin K2, menaquinone, after alkylation in vivo.
+Menadione has been reported in Thermoplasma acidophilum, Asplenium indicum, and other organisms with data available.
+MENADIONE is a small molecule drug with a maximum clinical trial phase of IV and is indicated for hemorrhage.
+Menadione is a synthetic naphthoquinone without the isoprenoid side chain and biological activity, but can be converted to active vitamin K2, menaquinone, after alkylation in vivo. Despite the fact that it can serve as a precursor to various types of vitamin K, menadione is generally not used as a nutritional supplement. Large doses of menadione have been reported to cause adverse outcomes including hemolytic anemia due to G6PD deficiency, neonatal brain or liver damage, or neonatal death in some cases. Moreover, menadione supplements have been banned by the FDA because of their high toxicity. It is sometimes called vitamin K3, although derivatives of naphthoquinone without the sidechain in the 3-position cannot exert all the functions of the K vitamins. Menadione is a vitamin precursor of K2 which utilizes alkylation in the liver to yield menaquinones (MK-n, n=1-13; K2 vitamers), and hence, is better classified as a provitamin.
+A synthetic naphthoquinone without the isoprenoid side chain and biological activity, but can be converted to active vitamin K2, menaquinone, after alkylation in vivo.
+See also:  ... View More ...
+Properties:safety: Irritant and Environmental Hazard
+smiles: CC1=CC(=O)C2=CC=CC=C2C1=O
+formula: C11H8O2
+chem_properties: Molecular Weight: 172.18 g/mol
+XLogP3: 2.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 172.052429494 Da
+Monoisotopic Mass: 172.052429494 Da
+Topological Polar Surface Area: 34.1
+Heavy Atom Count: 13
+Formal Charge: 0
+Complexity: 288
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

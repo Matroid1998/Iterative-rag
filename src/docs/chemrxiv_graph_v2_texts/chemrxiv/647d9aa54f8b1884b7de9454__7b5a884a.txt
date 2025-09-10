@@ -1,0 +1,36 @@
+Description:
+Involved in the catalytic cycle of histidine kinases via a phosphorylated histidyl residue.
+
+Text:
+Histidine kinases catalytic cycle proceeds via a phosphorylated 
+histidyl residue in the active site (Figure 1a).11 The kinetic sta
+bility of KSTA compounds ensures that the chemical potential 
+held within the molecule is not dissipated in deleterious side re
+actions. This is exemplified by the kinetic stability of ATP 
+which has a hydrolysis halflife of 2 years at 25 C and pH 8.12 
+This strategy of using KSTA compounds with enzyme catalysts 
+is key to directing reaction outcomes in cellular biochemical 
+networks. We recently reported a prebiotically plausible kinetically sta
+ble and thermodynamically activated ATP analogue in the form 
+of imidazole phosphate.13 Imidazole phosphate forms under the 
+mildest of conditions (pH 7.3, 22 C) from a solution of cyanate, 
+orthophosphate and imidazole.
+
+
+---
+
+Description:
+May ligate metals such as Zn2 to form complexes that catalyse depsipeptide oligomerisation.
+
+Text:
+peptide bond formation between an 
+amino acid ester and an amino acid.2022 This was exploited to 
+drive vesicle growth via SerHis localising inside the membrane 
+of vesicles and catalysing the formation of a hydrophobic di
+peptide.23 SerHis can catalyse the formation of oligonucleo
+tides starting from imidazoleactivated nucleotides.24 Histidyl 
+containing cyclic peptides catalyse also the hydrolysis of pyro
+phosphate.25 Histidine may also ligate metals e.g. Zn2 to form 
+complexes that catalyse depsipeptide oligomerisation.26 In our 
+aforementioned physicochemical orthophosphate cycle, we hy
+pothesized that a histidyl peptide could serve as a catalyst for

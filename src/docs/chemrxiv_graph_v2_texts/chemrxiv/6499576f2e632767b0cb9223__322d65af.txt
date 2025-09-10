@@ -1,0 +1,19 @@
+Description:
+Highly reactive precursors used in the reductive generation of aryl radicals.
+
+Text:
+One of 
+the classical methods is the Meerwein arylation that involves a re
+ductive generation of aryl radicals from highly reactive precursors 
+(aryldiazonium or diaryliodonium salts), followed by radicalpolar 
+crossover and trapping of the resulting carbocation with excess nu
+cleophiles.9 In 2021, the Gaunt group reported an excellent study 
+on the vicinal azidoarylation of alkenes using diaryliodonium salts 
+as aryl radical sources and NaN3 as the heteroatom source, via a 
+visiblelightmediated dual copper catalysis, to access aryl az
+idoalkanes.10 However, the use of these reactive radical precursors 
+presents challenges for the latestage modification of complex bio
+active molecules due to difficulties in accessing them. Conversely, 
+readily available (hetero)arenes, which are prevalent in pharmaceu
+tically relevant molecules, represent ideal aryl radical precursors 
+(Figure 1C).

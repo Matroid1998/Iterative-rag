@@ -1,0 +1,12 @@
+Description:
+Involved in reduction processes and can be split into CO and O.
+
+Text:
+As 
+one example, many functionals strongly overbind CO at the hollow site on TM surfaces.5 Such uncertainty 
+hampers the informative and predictive nature of theoretical studies on CO2 reduction. How CO initially 
+binds to the substrate is an essential component in the initial step for processes such as CO2 splitting into 
+CO and O. If already the site preference of the initial step of the reaction process cannot be resolved to 
+the required accuracy, modeling the entire reaction process remains in doubt. That being said, even while 
+we find DFT energies are not reliable, we will show that DFT predictions of the structure (bond lengths) 
+are much less variable between functionals, and align much better with available experimental data.

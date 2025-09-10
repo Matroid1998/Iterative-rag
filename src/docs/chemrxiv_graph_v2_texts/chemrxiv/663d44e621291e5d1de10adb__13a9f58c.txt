@@ -1,0 +1,81 @@
+Description:
+A reagent used in the synthesis of aryl fluorosulfates from phenols.
+
+Text:
+On the other hand, aryl fluorosulfates, 
+first described more than four decades ago,19 have thus 
+become increasingly popular as coupling partners, all the 
+more so given the range of processes that now exist for 
+their generation from phenolic starting materials (Scheme 
+1). Hence, a new process that fulfills all of these criteria 
+may represent a breakthrough in the common utilization 
+of phenolbased electrophiles in crosscoupling research in 
+modern synthetic chemistry.2026 
+Scheme 1. Approaches to aryl fluorosulfates from phe
+nols. OH
+R
+Et3N or K2CO3
+SO2F2
+OSO2F
+R
+HSO3F
+A.
+
+
+---
+
+Description:
+Used in MeCN at room temperature in the synthesis of fluorosulfates.
+
+Text:
+Traditional methods to synthesize aryl fluorosulfates
+CH2Cl2, rt
+1
+2
+ClSO2F
+Pyridine, 40 oC
+DIPEA, CH2Cl2, 78 oC
+FO2S O SO2F
+3
+4
+B. Synthesis of aryl fluorosulfates using SDI
+OH
+R
+N
+N S
+O
+N
+O
+N
+Cs2CO3, THF, rt
+O S N
+O
+O
+N
+R
+AgF
+MeCN, 80 oC
+OSO2F
+R
+SDI
+C. Synthesis of fluorosulfates using SuFEx reagents
+OH
+R
+N
+N S
+O
+F
+O
+OTf
+OSO2F
+R
+FSIT
+Et3N, MeCN, rt
+N
+N S
+O
+F
+O
+OTf
+desmethyl SuFEx  IT
+httpsdoi.org10.26434chemrxiv20242zw90 ORCID httpsorcid.org0000000345662721 Content not peerreviewed by ChemRxiv. License CC BY 4.0

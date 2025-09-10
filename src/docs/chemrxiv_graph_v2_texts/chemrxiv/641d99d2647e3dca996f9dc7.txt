@@ -1,0 +1,11 @@
+Description:
+In rocksalt ZnO, oxygen is in an octahedral environment, allowing for the introduction of a variety of cations.
+
+Text:
+At ambient conditions ZnO has hexagonal wurtzite (w) structure (space group P63mc) which 
+transforms into cubic rocksalt (rs) structure (space group Fm3m) at pressures above 6 GPa 1. 
+rsZnO and ZnObased cubic solid solutions with different ions seem to be promising for 
+optoelectronic and spintronics applications due to ability to incorporate much higher dopants 
+concentrations as compared with the wurtzite phase. The octahedral oxygen environment in rock
+salt ZnO removes the crystallochemical limitations for the introduction of a variety of cations. Hence, the properties of the solid solution can be tuned over a wide range of dopant concentrations 
+while remaining within the field of its phase stability.

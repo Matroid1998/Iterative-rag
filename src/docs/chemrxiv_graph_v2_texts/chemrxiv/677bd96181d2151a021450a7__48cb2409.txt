@@ -1,0 +1,26 @@
+Description:
+A component of CALF20, a zinc-based MOF known for its hydrophobicity and robust structural integrity.
+
+Text:
+MOFs are a class of hybrid nanoporous crystalline materials that are constructed of metal ions or clusters connected 
+by organic linkers using modular building principles.13 MOFs have attracted much attention as potential 
+adsorbents for CO2 capture due to their high surface area, tuneable pore size and shape, adjustable functionality, 
+and structural diversity.1416 Different approaches are proposed for enhancing CO2 capture in MOFs including the 
+introduction of coordinative unsaturated metal sites, amine functionalization, modulation of hydrophobicity of the 
+pores, and the mixture thereof.14,1618 At the forefront of this strive is CALF20 (Zn), a zincbased MOF, first 
+reported by Shimizu et al.,19 distinguished by its hydrophobicity, high scalability, and robust structural integrity. With a surface area of ca.
+
+
+---
+
+Description:
+Demonstrates a remarkable capacity and selective CO2 adsorption.
+
+Text:
+530 mg19,20 and an average pore size of 67 2022, CALF20 (Zn) demonstrates a 
+remarkable capacity and selective CO2 adsorption23 at desired conditions.21 Its unique framework, composed of 
+1,2,4triazole and oxalate ligands confers stability in harsh environments.21 The necessity of capturing CO2 under 
+fluctuating conditions is emphasized by the varying concentrations of CO2 found in diverse industrial emissions 
+and atmospheric contexts. CALF20 (Zn) exhibits exceptional versatility in maintaining operational efficacy 
+across a range of temperatures and pressures, positioning it as an indispensable tool in global efforts to mitigate 
+httpsdoi.org10.26434chemrxiv20251xc9h ORCID httpsorcid.org0000000277590315 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

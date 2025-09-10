@@ -1,0 +1,57 @@
+Description:
+A material with weak spin-orbit coupling, long spin coherence length, high electrical mobility, and gate-tunable carrier concentration, promising for long-distance spin transport.
+
+Text:
+Graphene is considered, a very promising candidate for
+longdistance spin transport due to its weak spinorbit coupling, long spin coherence length, high electrical mobility,
+and gatetunable carrier concentration.1115 For example, Kamalakar et al. have demonstrated spin transport in a
+graphene channel over a channel length of 16 m with a spin lifetime of 1.2 ns and 6 m diffusion length at room
+temperature.16
+However, the zero band gap nonmagnetic semimetal nature of pure graphene restricts its use in spintronics. Therefore, changes to graphenes electrical and magnetic characteristics are needed in order to utilize it in spintronics
+device applications. In graphene, significant progress has been made in achieving a suitable band gap.
+
+
+---
+
+Description:
+A zero band gap nonmagnetic semimetal, requiring modifications for use in spintronics.
+
+Text:
+Graphene is considered, a very promising candidate for
+longdistance spin transport due to its weak spinorbit coupling, long spin coherence length, high electrical mobility,
+and gatetunable carrier concentration.1115 For example, Kamalakar et al. have demonstrated spin transport in a
+graphene channel over a channel length of 16 m with a spin lifetime of 1.2 ns and 6 m diffusion length at room
+temperature.16
+However, the zero band gap nonmagnetic semimetal nature of pure graphene restricts its use in spintronics. Therefore, changes to graphenes electrical and magnetic characteristics are needed in order to utilize it in spintronics
+device applications. In graphene, significant progress has been made in achieving a suitable band gap.
+
+
+---
+
+Description:
+A material whose band gap can be widened by creating 1D graphene nanoribbons from 2D sheets.
+
+Text:
+One of the
+effective methods for widening the band gap of graphene is the creation of 1D graphene nanoribbons (GNRs) from 2D
+graphene sheets.1719 GNRs with different shapes and widths can be experimentally synthesized using lithography and
+bottomup chemical synthesis using molecular precursors.2024 The Band gap engineering and magnetic properties
+of GNRs have been extensively studied.2529 The zigzag graphene nanoribbons (ZGNRs) are lowbandgap magnetic
+semiconductors with antiferromagnetic coupling between the opposite edges. Recently, Xu et al. have experimentally
+demonstrated the edgeinduced Kondo resonance in nonplanar zigzag edge termini on bare Au(111).30 The antifer
+romagnetic coupling and spindegenerate energy levels result in the poor magnetic moment of ZGNR, which limits
+its application in spintronics. Son et al.
+
+
+---
+
+Description:
+Can exhibit spin-polarized quantum interference antiresonances in nanoflakes with zigzag edges.
+
+Text:
+have demonstrated that edge magnetism and QI can result in spin
+polarized QI antiresonances in graphene nanoflakes with zigzag edges.44,45 Adsorption of the magnetic molecule on
+the surface of ZGNRs is another strategy to break the spindegeneracy of ZGNRs. Hou et al. observed that the
+gapped ferromagnetic (FM) ZGNRs can be obtained by edge functionalization with a magnetic molecule.46 Cho et
+al. reported that ZGNRs can have a ferromagnetic ground state when both edges of ZGNRs are functionalized with
+different radicals.47 Nam et al.

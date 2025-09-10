@@ -1,0 +1,14 @@
+Description:
+Traditional cathode material with an average discharge voltage of 2.2 V.
+
+Text:
+Various strategies have been deployed to enhance performance, such as 
+refining the nanostructures,6 embedding the silicon particles within a carbon matrix,7 
+developing specifically tailored binders,8 and enhancing the electrolytes.9 In contrast, a 
+sulfurized polyacrylonitrile (SPAN) was exploited by Wang at 2002,10 which employs a 
+solidsolid conversion mechanism that effectively addresses the dissolution of polysulfides, 
+commonly associated with the shuttle effect. Although this material has a voltage loss 
+(average discharge voltage at 1.8 V) compared to the traditional sulfur cathode (average 
+discharge voltage at 2.2 V), it still potentially afford a high energy density. The 
+compatibility of carbonate electrolyte makes SPAN a good applicant to match graphite or 
+silicon anodes.

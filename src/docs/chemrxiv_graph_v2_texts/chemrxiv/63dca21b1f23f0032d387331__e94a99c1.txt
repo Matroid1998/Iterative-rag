@@ -1,0 +1,61 @@
+Description:
+An inert gas that poses a challenge to fixation despite being thermodynamically feasible for conversion to NH3.
+
+Text:
+The artificial fixation of nitrogen by 
+Haber and Bosch had ushered in sustenance of the 
+everincreasing population by facilitating production 
+of NH3 as a chemical feedstock for fertilizer synthesis 
+from aerial N2 1. Although it is hailed as one of the 
+greatest discoveries of mankind, over the past few 
+decades researchers had invested their efforts to 
+unearth 
+more 
+benign 
+routes 
+through 
+solar, 
+electrochemical for N2 conversion to NH3 2 as the 
+commercial production of NH3 is associated with 
+significant carbon footprint3. The inertness of N2 
+poses an unassailable challenge to its fixation 
+regardless of the fact that N2 conversion to NH3 is a 
+thermodynamically feasible process (Gof (298 K) of 
+NH3 (from N2 and H2) is 16.4 kJmol).
+
+
+---
+
+Description:
+Reduced to N2H4 as the only nitrogenous product by Ni3S82.
+
+Text:
+was the first to reverse the 
+trend, forming N2H4NH3 in the ratio of 241 19. Of 
+late a remarkable finding was reported by Dey and co
+workers wherein they have developed the first 
+molecular complex Ni3S82 which reduces N2 to 
+N2H4 
+as 
+the 
+only 
+nitrogenous 
+product 
+electrochemically 20. The intermediates involved in the catalytic mechanism 
+have not been identified and the underlying 
+mechanism 
+was 
+unclear 
+from 
+the 
+reported 
+experimental findings. Furthermore, there are hardly 
+any precedents of NRR by Ni. The situation is 
+complicated due to competing NRR and HER 
+(Hydrogen evolution reaction) at similar reduction 
+potentials 21. Hence it presents a wonderful 
+opportunity for theoretical comprehension of the 
+mechanistic roadmap of this intriguing and unique 
+Scheme 1 Reaction studied in this work. 2
+N
+ PhOH

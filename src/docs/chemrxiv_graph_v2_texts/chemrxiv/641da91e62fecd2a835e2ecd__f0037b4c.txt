@@ -1,0 +1,35 @@
+Description:
+Induces a strong ligand field upon adsorption, affecting spin-state transitions.
+
+Text:
+18 Ex
+ceptionally large working capacities 19 and low regeneration
+energies were obtained as a result of a stepshaped isotherm
+resulting from a cooperative change in the gas binding prop
+erties upon electronic transition. The spinstate transition
+from high spin (HS) to low spin (LS) occurred as a function
+of the CO partial pressure, as a result of the strong ligand
+field induced by CO upon adsorption. Once the HSLS
+is triggered at all Fe centers, the uptake is shown to in
+crease abruptly as a consequence of the significantly larger
+CO binding energy expected at LS compared to HS.
+
+
+---
+
+Description:
+Efficiently adsorbs and desorbs due to large gas-induced ligand field splittings.
+
+Text:
+12
+The change in the affinity of the adsorbent material for
+the gas reported by Long and coworkers 18,19 arises from the
+change in the occupation of the antibonding dz2. This idea
+had already been shown in general terms by some of the
+present authors using ab initio electronic structure calcula
+tions 15 and will be leveraged here to demonstrate the feasi
+bility of a more general spincrossover induced gas release. In point of fact, the efficient CO adsorptiondesorption pro
+cess discussed above relies on the stepshaped adsorption
+isotherms that may be possible only for large gasinduced
+ligand field splittings such as for CO, and thus cannot be
+applied for most gases.

@@ -1,0 +1,15 @@
+Description:
+A domain used for directional transport of molecules across phases.
+
+Text:
+In this work, we demonstrate the transport of molecules from an 
+aqueous sender phase to an aqueous receiver phase across a centi
+metersized chloroform domain (Fig. 1B, C). The transport takes 
+place directionally and against a concentration gradient. The non
+equilibrium process operates by transducing highchemicalpoten
+tial fuel in the sender phase into a waste molecule with low chemical 
+potential. Notably, we achieve active and directed transport without 
+complex machinery but simply by transiently changing the partition
+ing coefficient of the transporter molecule by a carbodiimidedriven 
+chemical reaction cycle. Despite relatively poor fuel efficiency, repet
+itive fueling fills the receiver phase while the sender phase empties.

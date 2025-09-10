@@ -1,0 +1,13 @@
+Description:
+An elastomeric polymer used in blends to reduce elastic modulus.
+
+Text:
+2, 3 Semiconducting polymers utilise 
+conjugation along the polymer backbone to allow delocalised charge carriers to travel between electrodes in a 
+device, however they still exhibit a high elastic modulus when compared to the most flexible parts of skin (MPa 
+vs kPa).4, 5 Many approaches have been successfully carried out to circumvent this issue,6 and one proven 
+strategy is blending the semiconducting polymer with an elastomeric polymer that exhibits a lower elastic 
+modulus.7 Notable examples are blends with polymer systems such as crosslinked poly(dimethylsiloxane) 
+(PDMS),8, 9 paraffin,10 poly(methyl methacrylate) PMMA,11 poly(styreneethylenebutylenestyrene) (SEBS),12, 13 
+and butyl rubber.14 The best performing blends, that exhibit high charge carrier mobility when submitted to high 
+strain, show large phase separation due to incompatibility between the two polymer systems.

@@ -1,0 +1,24 @@
+Description:
+An organic semiconductor molecule that exhibits conformational polymorphism.
+
+Text:
+of Chemistry, Stanford University, Stan
+ford, CA 94305 USA
+herbertchemistry.ohiostate.edu
+but this success is mitigated in certain cases by over
+stabilization of delocalized electron systems,26,28,35,36
+which is a consequence of selfinteraction error (SIE).37
+This issue is thought to impact polymorph predic
+tion in wellknown examples such as the anticancer
+drug axitnib,26
+the organic semiconductor molecule
+rubrene,38 the wellstudied ROY molecule,26,28,35,39,40
+molecule X26,41 from the third blind test of crystal
+structure prediction,42 as well as other systems.26,36,43
+Structures for several of these molecules are shown in
+Fig. 1. Each of these molecules exhibits conformational
+polymorphism whereby changes in intramolecular con
+formation access dierent intermolecular crystal packing
+motifs. Notably, in each of these molecules the extent of
+electron delocalization changes as a function of one or
+more intramolecular torsional coordinates.

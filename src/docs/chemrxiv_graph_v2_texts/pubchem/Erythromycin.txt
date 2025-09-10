@@ -1,0 +1,36 @@
+Name: Erythromycin
+Text:
+Erythromycin stearate appears as fluffy colorless powder or fine white powder. (NTP, 1992)
+Erythromycin A is an erythromycin that consists of erythronolide A having 2,6-dideoxy-3-C-methyl-3-O-methyl-alpha-L-ribo-hexopyranosyl and 3,4,6-trideoxy-3-(dimethylamino)-beta-D-xylo-hexopyranosyl residues attahced at positions 4 and 6 respectively. It is an erythromycin and a cyclic ketone. It is functionally related to an erythronolide A. It is a conjugate base of an erythromycin A(1+).
+Erythromycin is a bacteriostatic antibiotic drug produced by a strain of Saccharopolyspora erythraea (formerly Streptomyces erythraeus) and belongs to the macrolide group of antibiotics which consists of [Azithromycin], [Clarithromycin], [Spiramycin] and others. It was originally discovered in 1952. Erythromycin is widely used for treating a variety of infections, including those caused by gram-positive and gram-negative bacteria. It is available for administration in various forms, including intravenous, topical, and eye drop preparations.
+Erythromycin is a Macrolide and Macrolide Antimicrobial. The physiologic effect of erythromycin is by means of Decreased Sebaceous Gland Activity.
+Erythromycin is an oral macrolide antibiotic that has been in common use since the 1950s. Erythromycin has been linked to rare instances of acute liver injury that are usually self-limited, but can result in severe injury and death.
+Erythromycin has been reported in Bacillus subtilis, Streptomyces albidoflavus, and other organisms with data available.
+Erythromycin is a broad-spectrum, macrolide antibiotic with antibacterial activity. Erythromycin diffuses through the bacterial cell membrane and reversibly binds to the 50S subunit of the bacterial ribosome. This prevents bacterial protein synthesis. Erythromycin may be bacteriostatic or bactericidal in action, depending on the concentration of the drug at the site of infection and the susceptibility of the organism involved.
+Erythromycin Stearate is the stearate salt form of erythromycin, a broad-spectrum, topical macrolide antibiotic with antibacterial activity. Erythromycin stearate diffuses through the bacterial cell membrane and reversibly binds to the 50S subunit of the bacterial ribosome. This prevents bacterial protein synthesis. Erythromycin stearate may be bacteriostatic or bactericidal in action, depending on the concentration of the drug at the site of infection and the susceptibility of the organism involved.
+ERYTHROMYCIN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1964 and has 5 approved and 18 investigational indications.
+Erythromycin is a macrolide antibiotic produced by Streptomyces erythreus. It inhibits bacterial protein synthesis by binding to bacterial 50S ribosomal subunits; binding inhibits peptidyl transferase activity and interferes with translocation of amino acids during translation and assembly of proteins.  Erythromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration. 
+A bacteriostatic antibiotic macrolide produced by Streptomyces erythreus. Erythromycin A is considered its major active component. In sensitive organisms, it inhibits protein synthesis by binding to 50S ribosomal subunits. This binding process inhibits peptidyl transferase activity and interferes with translocation of amino acids during translation and assembly of proteins.
+See also: Erythromycin Ethylsuccinate (active moiety of); Erythromycin Stearate (has salt form); Erythromycin Estolate (has salt form) ... View More ...
+Properties:safety: Irritant and Health Hazard
+smiles: CC[C@@H]1[C@@]([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)O)C)C)O)(C)O
+formula: C37H67NO13
+chem_properties: Molecular Weight: 733.9 g/mol
+XLogP3: 2.7
+Hydrogen Bond Donor Count: 5
+Hydrogen Bond Acceptor Count: 14
+Rotatable Bond Count: 7
+Exact Mass: 733.46124119 Da
+Monoisotopic Mass: 733.46124119 Da
+Topological Polar Surface Area: 194
+Heavy Atom Count: 51
+Formal Charge: 0
+Complexity: 1180
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 18
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

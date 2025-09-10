@@ -1,0 +1,14 @@
+Description:
+A compound involved in reduction reactions in solid oxide electrochemical reactors.
+
+Text:
+8 
+Achieving a sustainable, carbonneutral society requires innovative strategies that integrate 
+9 
+environmental sustainability with economic viability. Despite various initiatives to enhance carbon dioxide 
+0 
+capture and recycling efficiency, cost remains a significant barrier.1,2 Solid oxide electrochemical reactors 
+1 
+(SOERs) offer dual functionalities within a single system,13 enabling simultaneous electrochemical half
+2 
+reactions for water splitting,46 CO2 reduction,79 and alkane conversion to olefins3,1017 (Table S1).

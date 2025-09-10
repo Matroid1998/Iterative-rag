@@ -1,0 +1,15 @@
+Description:
+Groups that enhance spin-orbit coupling, facilitating intersystem crossing in organic RTP materials.
+
+Text:
+Organic roomtemperature phosphorescence (RTP) is most relevant to a wide range of 
+applications, including bioimaging1,2, anticounterfeiting3,4, organic lightemitting diode5,6, X
+ray scintillator7,8 and information storage technologies9,10. The key attributes of such systems 
+is flexible structural design and tunable optical performance. Generally, two main principles 
+are operative in organic RTP materials9,1114. The first involves intersystem crossing (ISC) by 
+singlet excitons conversion to triplet excitons. As the dominant driving force of ISC, strong 
+and efficient spinorbit coupling (SOC) can be realized by introducing aromatic carbonyl 
+groups, deuterated carbon atoms, halogens, and heteroatoms with lonepair electrons. (The 
+second principle relates to radiative migration of triplet excitons to the ground state, which is 
+usually achieved by rigidifying the chromophores via crystallization, polymerization and 
+matrix solidification.

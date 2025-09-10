@@ -1,0 +1,32 @@
+Name: Cytosine
+Text:
+Cytosine is an aminopyrimidine that is pyrimidin-2-one having the amino group located at position 4. It has a role as a human metabolite, an Escherichia coli metabolite, a Saccharomyces cerevisiae metabolite and a mouse metabolite. It is a pyrimidine nucleobase, a pyrimidone and an aminopyrimidine.
+Cytosine is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Cytosine has been reported in Camellia sinensis, Glycine max, and other organisms with data available.
+Cytosine is a pyrimidine base found in DNA and RNA that pairs with guanine.
+CYTOSINE is a small molecule drug with a maximum clinical trial phase of II (across all indications) and has 3 investigational indications.
+Cytosine is a metabolite found in or produced by Saccharomyces cerevisiae.
+A pyrimidine base that is a fundamental unit of nucleic acids.
+See also: Pyrimidine (subclass of).
+Properties:safety: Irritant
+smiles: C1=C(NC(=O)N=C1)N
+formula: C4H5N3O
+chem_properties: Molecular Weight: 111.10 g/mol
+XLogP3: -1.7
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 111.043261792 Da
+Monoisotopic Mass: 111.043261792 Da
+Topological Polar Surface Area: 67.5
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 170
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

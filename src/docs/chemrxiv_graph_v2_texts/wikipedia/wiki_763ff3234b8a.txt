@@ -1,0 +1,47 @@
+In chemistry, hydrogen atom abstraction, or hydrogen atom transfer (HAT), refers to a class of chemical reactions where a hydrogen free radical (a neutral hydrogen atom) is removed from a substrate, another molecule. This process follows the general equation:
+
+  
+    
+      
+        
+          
+            X
+            
+              ∙
+            
+          
+          
+
+          
+          +
+          H
+          
+            −
+          
+          Y
+          ⟶
+          X
+          
+            −
+          
+          H
+          
+
+          
+          +
+          
+            Y
+            
+              ∙
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {X^{\bullet }{}+H-Y->X-H{}+Y^{\bullet }}}}
+  
+
+HAT reactions are common in various redox reactions, hydrocarbon combustion, and interactions involving cytochrome P450 that contain an Fe(V)O unit. The entity removing the hydrogen atom, known as the abstractor (X•), is often a radical itself, though in some instances, it may be a species with a closed electron shell, such as chromyl chloride. Hydrogen atom transfer can occur via a mechanism known as proton-coupled electron transfer. An illustrative synthetic instance of HAT is observed in iron zeolites, which facilitate the stabilization of alpha-oxygen.
+
+
+== References ==

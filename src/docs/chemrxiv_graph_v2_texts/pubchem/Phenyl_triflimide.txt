@@ -1,0 +1,24 @@
+Name: Phenyl triflimide
+Text:
+Properties:safety: Irritant
+smiles: C1=CC=C(C=C1)N(S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F
+formula: C8H5F6NO4S2
+chem_properties: Molecular Weight: 357.3 g/mol
+XLogP3: 3.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 11
+Rotatable Bond Count: 3
+Exact Mass: 356.95641896 Da
+Monoisotopic Mass: 356.95641896 Da
+Topological Polar Surface Area: 88.3
+Heavy Atom Count: 21
+Formal Charge: 0
+Complexity: 518
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

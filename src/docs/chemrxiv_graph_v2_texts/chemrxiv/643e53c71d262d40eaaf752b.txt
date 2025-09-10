@@ -1,0 +1,13 @@
+Description:
+A ligand with relatively weak binding strength and stability gain.
+
+Text:
+However, the binding strengths of typical 
+ligands, such as oleic acid or oleylamine, as well as their stability gain are relatively weak8 , which 
+has motivated the search for other methods of stabilization, such as encapsulation9,10, doping11 or 
+the use of ligands with a higher binding strength.12,13 Krieg et al.14 have demonstrated the 
+advantages of using zwitterionic ligands, which bind strongly to LHP NCs and provide a 
+significantly higher stabilization. However, these ligands contain long alkylchains which  just 
+like the aforementioned encapsulation strategies  lead to electrically mostly insulating LHP NCs, 
+severely hindering their application in LEDs. We hypothesize that this issue may be resolved by replacing the long alkylchains with 
+conjugated systems, which should increase the electrical conductivity of the NCs. To this end, a

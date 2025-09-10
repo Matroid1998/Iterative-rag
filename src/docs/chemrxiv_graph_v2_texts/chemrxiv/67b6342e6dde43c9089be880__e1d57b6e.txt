@@ -1,0 +1,21 @@
+Description:
+Part of the reductive citric acid cycle used in carbon fixation.
+
+Text:
+29 
+The reverse tricarboxylic acid (rTCA) cycle, also known as the reductive citric acid cycle, is an 
+30 
+important metabolic pathway found in several anaerobic bacteria and archaea to fix carbon 
+31 
+dioxide.1 This cycle has been proposed as a possible prebiotic pathway for uncatalyzed carbon 
+32 
+fixation, owing to both its simplicity and its presence in phylogenetically ancient organisms.25 
+33 
+However, evolutionary history makes it challenging to infer prebiotic chemical pathways from 
+34 
+modern biochemical processes, as these pathways may have been substantially changed. 35 
+Consequently, prebiotic chemistry may have been fundamentally distinct from the biochemistry 
+36 
+observed in extant organisms.6 While the rTCA cycle offers a plausible route for early autotrophic 
+37 
+metabolism, its prebiotic role remains unclear.

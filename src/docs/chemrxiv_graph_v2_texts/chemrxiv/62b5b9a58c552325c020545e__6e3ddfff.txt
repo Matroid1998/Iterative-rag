@@ -1,0 +1,14 @@
+Description:
+A highly conductive solid electrolyte.
+
+Text:
+While lithiumion batteries with liquid electrolytes entered the market in 1991, allsolid
+state lithiumion batteries (ASSLIBs), although investigated for decades, are still not widely
+in use.16 ASSLIBs promise several advantages in comparison to liquid electrolyte batter
+ies higher power density, minimized safety and re hazards, longer cycle lifetimes, more
+comprehensive temperature ranges, and enhanced energy density by potential usage of Li
+metal anodes.1,7,8 Solid electrolytes of the Li2SP2S5 material class have gained substantial
+attention due to their favorable properties.6 First, they possess high conductivities of up
+to 102 Scm1, which ranks them among the most conductive solid electrolytes such as
+Li10GeP2S12 or Li1.3Al0.3Ti1.7(PO4)3.9,10 Secondly, they are composed of the earthabundant
+elements sulfur and phosphorous enabling sustainable applications at large scales.

@@ -1,0 +1,12 @@
+Description:
+A polar solvent commonly used in electrospray ionization mass spectrometry.
+
+Text:
+The electrospray ionization mass spectrometry (ESIMS) process involves a solution of ions 
+passing through a charged capillary. The solution emerges into an atmospheric pressure chamber 
+filled with warm nitrogen gas, and creates a fine spray of droplets.1 These droplets carry an excess 
+of one charge or another, dependent on the ion mode under study, and the excess charge is 
+generated through electrochemical processes (oxidation in the positive ion mode, reduction in the 
+negative ion mode).2,3 Electrochemistry is favoured in polar solvents,4 which is why ESIMS is 
+nearly always conducted in such solvents, with wateracetonitrile and methanol being particularly 
+popular.

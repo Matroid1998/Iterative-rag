@@ -1,0 +1,18 @@
+Description:
+Forms large crystalline domains at ambient temperature resulting in relatively low ionic conductivity.
+
+Text:
+For example, the electrolyte mixture of PEO (molecular 
+weight, MW  600,000) and lithium bis(trifluoromethanesulfonyl) imide (LiTFSI) forms large crystalline 
+domains at ambient temperature,45, 79 resulting in relatively low ionic conductivity (105 S cm1, about 3 
+orders of magnitude lower than the commonly used electrolytes consisting of organic carbonates and 
+lithium salts).5 
+To solve this problem, there have been efforts spent on changing the polymer architectures to reduce 
+the crystallinity of PEObased electrolytes and to increase their ionic conductivity at room temperature.10
+20 In particular, starshaped polymers with a core and several polymeric arms have been demonstrated to be 
+effective (Figure 1).10, 12 Some recent developments of star polymer electrolytes include a study 
+demonstrating the impact of polymer architectures (linear to comblike to bottlebrush star) on the thermal 
+and conduction properties of PEObased electrolytes,15 an allsolid electrolyte composite for lithium metal 
+batteries consists of PEO and polycaprolactone star copolymers,11 a hyperbranched PEOderived star 
+polymer with improved ionic conductivity and mechanical strength,14 a star block copolymer with comb
+like arms showing improved ionic conductivity,13 and many other examples.

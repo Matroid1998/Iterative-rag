@@ -1,0 +1,12 @@
+Description:
+An isomer of vinylidene involved in a 1,2-hydrogen shift reaction.
+
+Text:
+Vinylidene (H2CC) is a highenergy isomer of acetylene (HCCH), and isomerization between 
+the two species represents the simplest example of a 1,2hydrogen shift reaction.1 Vinylidene has 
+been the focus of many theoretical211 and experimental1218 studies owing to its very low barrier 
+for isomerization to acetylene (0.1 eV),19 which opens the possibility for coupling between 
+vibrational states of vinylidene and highly excited acetylene. Because of the low isomerization 
+barrier, the vibration of vinylidene can be strongly anharmonic, especially for modes related to the 
+isomerization coordinate. In fact, such departures from the harmonic limit encode the 
+isomerization dynamics.

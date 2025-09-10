@@ -1,0 +1,15 @@
+Description:
+Materials with formation energies well below 30 kJ (mol Si)1, varying with framework density.
+
+Text:
+Zeolites are microporous solids that are often synthesized using organic
+and inorganic structuredirecting agents (OSDAs and ISDAs, respectively). Over 200 unique zeolite frameworks have been synthesized 1, while over
+300,000 more have been hypothesized as possible based on SiO4 tetrahedron
+connectivity geometries and estimated formation energies 2, 3, 4, 5, 6. No
+tably, these hypothetical frameworks are filtered based on having a formation
+energy below 30 kJ (mol Si)1. More recent work has noted that pure sil
+ica frameworks have formation energies well below this threshold (619 kJ
+(mol Si)1) and that the range of formation energies of existing silica mate
+rials changes with the density of the framework 7; as such, many of these
+materials may be difficult or impossible to synthesize in (alumino)silicate
+form.

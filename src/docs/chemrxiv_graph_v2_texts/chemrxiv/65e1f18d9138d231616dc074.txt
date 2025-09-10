@@ -1,0 +1,15 @@
+Description:
+Have critical roles in energy metabolism, membrane fluidity regulation, and signaling pathways.
+
+Text:
+Lipidomics is a growing field that aims to characterize the complete set of all lipids 
+in a biological matrix1. Lipids are a diverse group of biomolecules and serve a wide variety 
+of functions in living organisms. The LIPID MAPS Structure Database2,3 represents the 
+largest repository of lipid structures, housing 48,205 structures as of 2023, both from 
+curated and computationally generated sources. Glycerophospholipids and sphingolipids 
+are commonly associated with membrane structure, lipidprotein interactions and cell 
+signaling events4. Neutral lipid classes, such as triacylglycerols (TG), diacylglycerols (DG) 
+and cholesterol esters (CE) have critical roles in energy metabolism, membrane fluidity 
+regulation and signaling pathways5. Liquid chromatography mass spectrometry (LCMS) 
+platforms are the primary tool for lipidomics applications, due to their sensitivity, qualitative 
+and quantitative data insights and highthroughput capabilities6.

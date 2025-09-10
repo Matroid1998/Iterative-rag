@@ -1,0 +1,54 @@
+Description:
+A MOF known for its exceptional chemical and thermal stability due to a strong ZrO bond and high coordination number of Zr.
+
+Text:
+2D MOFs are synthesized in lamellar sheets, where it has been shown that these layers can be exfoliated into monolayers which are 
+attractive as a building block of thin films.13, 18, 19 
+UiO66, named after the University of Oslo,20 is one of the most studied MOFs thanks to its exceptional chemical and thermal 
+stability attributed to a strong ZrO bond and a high coordination number of Zr.21, 22 UiO66 is formed by the coordination of zirco
+niumoxo cluster with terephthalic acid where an octahedral cage shares its eight triangular faces with eight tetrahedral cages (Figure 
+S1), each featuring a scale triangular aperture. The pore size of UiO66 is attractive to differentiate molecules and ions.
+
+
+---
+
+Description:
+A highly stable material, including in water, explored for gas separation, desalination, and ion separation.
+
+Text:
+Thanks to 
+its high stability including in water, UiO66 films have been explored for gas separation,23, 24 desalination,25, 26 and ionion separa
+tion.2729 
+UiO66 possesses a 3D structure. Its synthesis in 2D morphology has not been reported mainly because of the challenges from the 
+isotropic robust bonds in its structure. While an emerging class of nonvan der Waals (nonvdW) quasi2D materials has been syn
+thesized from nonlayered 3D crystals,3033 they have been predominantly demonstrated for transition metal oxides. Extending this 
+concept to MOFs, and in particular UiO66, is highly attractive to prepare 2D morphologies and ultrathin films for advancing thin 
+film applications for highly stable MOFs. A potential approach is anisotropic 2D growth of UiO66, however, this has not been 
+reported.
+
+
+---
+
+Description:
+A metal-organic framework observed to have a crystallographic registry with graphene.
+
+Text:
+As a result, the stateoftheart UiO66 films are 23 orders of magnitude thicker than the desired 2D film (Figure S2 and 
+Table S1). Herein, we report the first nonvdW 2D MOF in the form of 2D UiO66NH2 film by developing conditions leading to anisotropic 
+2D growth. Briefly, the composition of the precursor solution was screened to develop growth conditions that delay homogeneous 
+nucleation of UiO66NH2 in the bulk solution, promote inplane growth of 2D nuclei, and slow outofplane growth. This was further 
+facilitated by the use of atomically smooth graphitic substrates. A crystallographic registry between the graphene superstructure and 
+the 2D lattice of UiO66 along the aoutofplane direction was observed. The thickness of the film could be tuned from 0.5 to 2 unit 
+cells.
+
+
+---
+
+Description:
+A framework with high stability, maintaining integrity in 0.1 M salt solutions for more than one month.
+
+Text:
+Pinholefree sub10nmthick films could be prepared, evident from KMg2 selectivity. Thanks to the high stability of the 
+UiO66 framework, unitcellthick films were stable in 0.1 M salt solutions for more than one month. The chemistry for the synthesis 
+of the film is green (water as opposed to organic solvent) and userfriendly involving room temperature synthesis reaction time that 
+is only a few minutes.

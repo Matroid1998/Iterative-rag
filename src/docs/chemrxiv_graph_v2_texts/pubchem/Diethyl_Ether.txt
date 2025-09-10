@@ -1,0 +1,32 @@
+Name: Diethyl Ether
+Text:
+Diethyl ether appears as a clear colorless liquid with an anesthetic odor. Flash point -49 °F. Less dense than water and slightly soluble in water. Hence floats on water. Vapors are heavier than air. Used as a solvent and to make other chemicals.
+Diethyl ether is an ether in which the oxygen atom is linked to two ethyl groups. It has a role as an inhalation anaesthetic, a non-polar solvent and a refrigerant. It is a volatile organic compound and an ether.
+Diethyl Ether has been reported in Basella alba and Acca sellowiana with data available.
+Ether is an organic compound in which two carbon atoms are linked through an oxygen atom (C-O-C).  An ether may be a product of the condensation of alcohols.  Ether also refers loosely to diethyl-ether, a colorless, volatile, highly inflammable liquid used in industry and biomedical research, and historically important as an anesthetic agent.  In vivo, ether acts similarly to alcohol and chloroform, but its stimulant action on the heart is much more marked.  Ether is a rapidly diffusible stimulant. (NCI04)
+ETHER is a small molecule drug with a maximum clinical trial phase of II (across all indications) and has 2 investigational indications.
+Diethyl ether, also known as ether and ethoxyethane, is a clear, colorless, and highly flammable liquid with a low boiling point and a characteristic odor. It is the most common member of a class of chemical compounds known generically as ethers. Diethyl ether is used as a common solvent and has been used as a general anesthetic. It can also be found in recreational drug use. (L1660)
+A mobile, very volatile, highly flammable liquid used as an inhalation anesthetic and as a solvent for waxes, fats, oils, perfumes, alkaloids, and gums. It is mildly irritating to skin and mucous membranes.
+See also: Alcohols, C14-26, ethoxylated (annotation moved to).
+Properties:safety: Flammable and Irritant
+smiles: CCOCC
+formula: C4H10O
+chem_properties: Molecular Weight: 74.12 g/mol
+XLogP3: 0.9
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 2
+Exact Mass: 74.073164938 Da
+Monoisotopic Mass: 74.073164938 Da
+Topological Polar Surface Area: 9.2
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 11.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

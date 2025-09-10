@@ -1,0 +1,25 @@
+Name: 4-Nitrobenzaldehyde
+Text:
+4-nitrobenzaldehyde is a C-nitro compound that is benzaldehyde substituted at the para-position with a nitro group. It is a C-nitro compound and a member of benzaldehydes.
+Properties:safety: Irritant
+smiles: C1=CC(=CC=C1C=O)[N+](=O)[O-]
+formula: C7H5NO3
+chem_properties: Molecular Weight: 151.12 g/mol
+XLogP3: 1.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 1
+Exact Mass: 151.026943022 Da
+Monoisotopic Mass: 151.026943022 Da
+Topological Polar Surface Area: 62.9
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 156
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

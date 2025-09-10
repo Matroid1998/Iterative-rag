@@ -1,0 +1,9 @@
+Description:
+Used as an anode material in lithium-ion batteries (LIBs), but faces issues such as pulverization.
+
+Text:
+All these issues cause major problems for the 
+performance and lifetime of LIBs using Si as anode. Some of these issues, such as the pulverization 
+of the Si particles, can be solved through nanosizing 10, but much of the other problems that 
+hinder the applicability of these anodes remain. Therefore, alternative strategies to incorporate Si 
+in LIB anodes are currently being developed.

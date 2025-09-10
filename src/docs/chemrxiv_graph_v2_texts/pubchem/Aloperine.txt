@@ -1,0 +1,25 @@
+Name: Aloperine
+Text:
+Aloperine has been reported in Sophora jaubertii, Thinicola incana, and other organisms with data available.
+Properties:safety: Irritant
+smiles: C1CCN2C[C@H]3C[C@@H]([C@H]2C1)C=C4[C@H]3NCCC4
+formula: C15H24N2
+chem_properties: Molecular Weight: 232.36 g/mol
+XLogP3: 1.6
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 232.193948774 Da
+Monoisotopic Mass: 232.193948774 Da
+Topological Polar Surface Area: 15.3
+Heavy Atom Count: 17
+Formal Charge: 0
+Complexity: 336
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,8 @@
+Description:
+A component of the binuclear copper center in the CuA site, functioning as an efficient electron transfer site.
+
+Text:
+The biological CuA site is a binuclear copper center that has been found in cytochrome c oxidase (CcO) and nitrous oxide reductase (NOR) where it 
+functions as a highly efficient electron transfer (ET) site, similar to the mononuclear type 1 copper centers in other proteins.1 Each Cu ion in the 
+CuA site is ligated by one histidine and by two bridging thiolateS from two cysteine residues, forming an almost trigonal planar coordination 
+geometry. This is complemented by a weakly bound fourth ligand in axial position, either a methionineS or a backbone carbonyl group of a glutamate

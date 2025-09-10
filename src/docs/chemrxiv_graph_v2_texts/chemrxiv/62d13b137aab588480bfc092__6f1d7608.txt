@@ -1,0 +1,12 @@
+Description:
+A framework assembled from silica and alumina tetrahedra linked through apical oxygen atoms.
+
+Text:
+Zeolites are crystalline, microporous materials renowned for their molecular sieving and catalytic 
+applications. 1,2 The aluminosilicate framework is assembled from silica and alumina tetrahedra 
+linked through apical oxygen atoms. Chargecompensating cations reside in the zeolite pores to 
+render an overall neutral framework. Existing zeolite materials are often modified to optimise their 
+performance in many applications. For example, cation exchange can be used to tailor the pore 
+architecture of a zeolite to significantly improve its selectivity, adsorption and diffusion properties. We have previously shown that changing the nature of the extraframework cations in zeolites A 
+(LTA) and Y (FAU) can cause structural modifications, such as altering the size of the unitcell and 
+pore windows and changing the local environment of aluminium atoms in the framework.

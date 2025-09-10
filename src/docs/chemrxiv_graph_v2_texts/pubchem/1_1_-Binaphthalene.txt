@@ -1,0 +1,24 @@
+Name: 1,1'-Binaphthalene
+Text:
+Properties:safety: Irritant
+smiles: C1=CC=C2C(=C1)C=CC=C2C3=CC=CC4=CC=CC=C43
+formula: C20H14
+chem_properties: Molecular Weight: 254.3 g/mol
+XLogP3: 6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 1
+Exact Mass: 254.109550447 Da
+Monoisotopic Mass: 254.109550447 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 20
+Formal Charge: 0
+Complexity: 288
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

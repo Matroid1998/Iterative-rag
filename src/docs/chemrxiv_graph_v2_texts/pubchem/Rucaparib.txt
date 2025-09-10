@@ -1,0 +1,31 @@
+Name: Rucaparib
+Text:
+Rucaparib is a member of the class of azepinoindoles that is 1,3,4,5-tetrahydro-6H-azepino[5,4,3-cd]indol-6-one carrying additional 4-[(methylamino)methyl]phenyl and fluoro substituents at positions 2 and 8 respectively. It is an inhibitor of poly (ADP-ribose) polymerase and is used (as the camsylate salt) as monotherapy for advanced ovarian cancer and deleterious germline or somatic BRCA mutation. It has a role as an EC 2.4.2.30 (NAD(+) ADP-ribosyltransferase) inhibitor and an antineoplastic agent. It is an azepinoindole, a member of caprolactams, an organofluorine compound and a secondary amino compound. It is a conjugate base of a rucaparib(1+).
+Rucaparib is an anticancer drug and poly (ADP-ribose) polymerase (PARP) inhibitor. PARP is an enzyme that plays an essential role in DNA repair. Rucaparib is proposed to work in several PARP-dependent and PARP-independent mechanisms of action; however, it causes a unique effect of synthetic lethality. By targeting the genetically-mutated cancer cells that lack a DNA repair mechanism, rucaparib causes cancer cell death and reduces tumour growth.  Rucaparib was granted FDA Breakthrough Therapy designation in April 2015 and accelerated approval in December 2016. The drug was later approved by the European Commission in May 2018. It is currently used to treat recurrent ovarian and prostate cancer in adults.
+Rucaparib is a Poly(ADP-Ribose) Polymerase Inhibitor. The mechanism of action of rucaparib is as a Poly(ADP-Ribose) Polymerase Inhibitor.
+Rucaparib is a small molecule inhibitor of poly ADP-ribose polymerase that is used in the therapy of selected patients with refractory and advanced ovarian carcinoma. Rucaparib therapy is associated with a moderate rate of transient elevations in serum aminotransferase during therapy, but has not been linked to instances of clinically apparent liver injury.
+Rucaparib is an orally bioavailable tricyclic indole and inhibitor of poly(ADP-ribose) polymerases (PARPs) 1 (PARP1), 2 (PARP2) and 3 (PARP3), with potential chemo/radiosensitizing and antineoplastic activities. Upon administration, rucaparib selectively binds to PARP1, 2 and 3 and inhibits PARP-mediated DNA repair. This enhances the accumulation of DNA strand breaks, promotes genomic instability and induces cell cycle arrest and apoptosis. This may enhance the cytotoxicity of DNA-damaging agents and reverse tumor cell resistance to chemotherapy and radiation therapy. PARPs are enzymes activated by single-strand DNA breaks that catalyze the post-translational ADP-ribosylation of nuclear proteins, which induces signaling and the recruitment of other proteins to repair damaged DNA. The PARP-mediated repair pathway plays a key role in DNA repair and is dysregulated in a variety of cancer cell types.
+RUCAPARIB is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2016 and has 5 approved and 19 investigational indications.
+See also: Rucaparib Camsylate (has salt form).
+Properties:safety: Irritant and Health Hazard
+smiles: CNCC1=CC=C(C=C1)C2=C3CCNC(=O)C4=C3C(=CC(=C4)F)N2
+formula: C19H18FN3O
+chem_properties: Molecular Weight: 323.4 g/mol
+XLogP3: 2.5
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 3
+Exact Mass: 323.14339037 Da
+Monoisotopic Mass: 323.14339037 Da
+Topological Polar Surface Area: 56.9
+Heavy Atom Count: 24
+Formal Charge: 0
+Complexity: 466
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

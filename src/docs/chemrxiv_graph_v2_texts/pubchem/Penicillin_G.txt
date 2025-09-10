@@ -1,0 +1,34 @@
+Name: Penicillin G
+Text:
+Benzylpenicillin is a penicillin in which the substituent at position 6 of the penam ring is a phenylacetamido group. It has a role as an antibacterial drug, an epitope and a drug allergen. It is a penicillin allergen and a penicillin. It is a conjugate acid of a benzylpenicillin(1-).
+Penicillin G (potassium or sodium) is an antibacterial prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of certain serious bacterial infections, such as pneumonia, meningitis, gonorrhea, syphilis, and others.
+Pneumonia and syphilis can be opportunistic infections (OI) of HIV.
+Benzylpenicillin (Penicillin G) is narrow spectrum antibiotic used to treat infections caused by susceptible bacteria. It is a natural penicillin antibiotic that is administered intravenously or intramuscularly due to poor oral absorption. Penicillin G may also be used in some cases as prophylaxis against susceptible organisms.   Natural penicillins are considered the drugs of choice for several infections caused by susceptible gram positive aerobic organisms, such as *Streptococcus pneumoniae*, groups A, B, C and G streptococci, nonenterococcal group D streptococci, viridans group streptococci, and non-penicillinase producing staphylococcus. Aminoglycosides may be added for synergy against group B streptococcus (*S. agalactiae*), *S. viridans*, and *Enterococcus faecalis*. The natural penicillins may also be used as first or second line agents against susceptible gram positive aerobic bacilli such as *Bacillus anthracis*, *Corynebacterium diphtheriae*, and *Erysipelothrix rhusiopathiae*. Natural penicillins have limited activity against gram negative organisms; however, they may be used in some cases to treat infections caused by *Neisseria meningitidis* and *Pasteurella*. They are not generally used to treat anaerobic infections. Resistance patterns, susceptibility and treatment guidelines vary across regions.
+Penicillin g is a Penicillin-class Antibacterial.
+Penicillin G has been reported in Sarocladium strictum, Hohenbuehelia grisea, and other organisms with data available.
+Penicillin G is a broad-spectrum, beta-lactam naturally occurring penicillin antibiotic with antibacterial activity. Penicillin G binds to and inactivates the penicillin binding proteins (PBPs) located inside the bacterial cell wall. Inactivation of PBPs interferes with the cross-linkage of peptidoglycan chains necessary for bacterial cell wall strength and rigidity. This interrupts bacterial cell wall synthesis and results in the weakening of the bacterial cell wall and eventually causing cell lysis.
+BENZYLPENICILLIN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1947 and has 3 approved and 18 investigational indications. This drug has a black box warning from the FDA.
+A penicillin derivative commonly used in the form of its sodium or potassium salts in the treatment of a variety of infections. It is effective against most gram-positive bacteria and against gram-negative cocci. It has also been used as an experimental convulsant because of its actions on GAMMA-AMINOBUTYRIC ACID mediated synaptic transmission.
+See also: Penicillin G Potassium (has salt form); Penicillin G Procaine (active moiety of); Penicillin G Sodium (has salt form) ... View More ...
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)CC3=CC=CC=C3)C(=O)O)C
+formula: C16H18N2O4S
+chem_properties: Molecular Weight: 334.4 g/mol
+XLogP3: 1.8
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 4
+Exact Mass: 334.09872823 Da
+Monoisotopic Mass: 334.09872823 Da
+Topological Polar Surface Area: 112
+Heavy Atom Count: 23
+Formal Charge: 0
+Complexity: 530
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 3
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

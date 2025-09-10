@@ -1,0 +1,23 @@
+Description:
+Compounds used in Suzuki-Miyaura cross-coupling reactions with arenediazonium tetrafluoroborate.
+
+Text:
+Pd(2pymo)2n (2pymo  2pyrimidinolate) is the 
+only currently known MOF using these kind of nodes and was first 
+reported by Navarro et al.27 Its catalytic performance has already 
+been studied on the olefin hydrogenation of 1octene and 
+cyclodecene,2830 the oxidation of alcohols,3133 for the Suzuki
+Miyaura 
+crosscoupling 
+reaction 
+of 
+arenediazonium 
+tetrafluoroborate salts with arylboronic acids34 and for 
+phenylacetylene semihydrogenation in water.18 The reported 
+data show promising results especially for the selective catalytic 
+hydrogenation but also the possibility of the reduction of Pd2 to 
+Pd0 under reductive conditions, resulting in the collapse of the 
+structure.2829 In this work, we explore the outstanding 
+performance of the Pd(2pymo)2n MOF for the selective catalytic 
+hydrogenation of acetylene under industrially relevant reaction 
+conditions.

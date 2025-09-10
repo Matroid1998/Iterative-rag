@@ -1,0 +1,19 @@
+Description:
+Central to maintaining cellular redox homeodynamics.
+
+Text:
+INTRODUCTION 
+The thioredoxinthioredoxin reductase (TrxTrxR) and the 
+glutaredoxinglutathioneglutathione reductase (GrxGSHGR) 
+systems are central to maintaining cellular redox homeodynamics.1 
+These relay systems use NADPH to balance many arms of redox 
+chemistry via the redoxin (Trxfold) family of proteins2,3 
+controlling metabolic processes including nucleic acid synthesis, 
+as well as thiol redox proteome switches, and antioxidant defense.4 
+Despite their key roles in biology, the Trx and Grx systems have 
+long lacked highquality probes that could monitor and decrypt 
+their activity in living cells. Conceptually, a suitable turnover probe 
+could feature an artificial redox substrate that is selectively reduced 
+by a specific vicinal dichalcogenide redoxin (Grxs, Trxs, TrxRs), 
+then fragments irreversibly to accumulate a noninvasive readout 
+(e.g., release a fluorophore).

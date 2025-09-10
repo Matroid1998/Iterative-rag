@@ -1,0 +1,9 @@
+Description:
+A fluorophore used in fluorescence imaging and sensing to visualize cells and proteins.
+
+Text:
+Labelfree detection methods like NIR spectroscopy can identify spectral fingerprints of 
+molecules4 and can even penetrate the skull for brainfunctional NIR spectroscopy.5 However, this technique still 
+faces challenges in being established in clinical practice.6 Fluorescence imaging and sensing, on the other hand, 
+have been used for a long time, employing fluorophores such as fluorescein7 (fluorescein isothiocyanate  FITC) 
+and DAPI8 to visualize cells and proteins.

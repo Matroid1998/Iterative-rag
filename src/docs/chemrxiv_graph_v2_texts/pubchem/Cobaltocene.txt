@@ -1,0 +1,25 @@
+Name: Cobaltocene
+Text:
+Cobaltocene appears as black-purple crystals or black solid. Sublimes at 104 °F and 0.1 mmHg. (NTP, 1992)
+Cobaltocene is a chemical compound of cobalt. Cobalt is a metallic element with the atomic number 27. It is found naturally in rocks, soil, water, plants, and animals. In small amounts cobalt is an essential element for life, as it is part of vitamin B12. However, excess exposure is known to exhibit toxic effects. (L29, L30)
+Properties:safety: Flammable and Irritant and Health Hazard
+smiles: [CH-]1C=CC=C1.[CH-]1C=CC=C1.[Co+2]
+formula: C10H10Co
+chem_properties: Molecular Weight: 189.12 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 189.011444 Da
+Monoisotopic Mass: 189.011444 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 11.6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

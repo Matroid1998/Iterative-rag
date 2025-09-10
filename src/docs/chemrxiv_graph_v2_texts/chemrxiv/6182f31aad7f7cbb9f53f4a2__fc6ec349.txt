@@ -1,0 +1,12 @@
+Description:
+An atmospheric contaminant that affects the performance of nonaqueous lithium-air batteries.
+
+Text:
+Furthermore, the catalysts used in nonaqueous lithiumair batteries are sensitive 
+to atmospheric contaminants such as water and CO2. Some have proposed to enclose a metalair 
+battery in a sealed pressure vessel to mitigate the contaminant problem. However, in this case the 
+energy density is significantly limited and may not be competitive compared to even current 
+lithiumion batteries 3. With such a large array of problems associated with room temperature metalair batteries, 
+interest has increased in elevated temperature metalair batteries. For example, lithiumair 
+batteries have been reported to function at temperatures of 100C using a molten nitrate 
+electrolyte 45.

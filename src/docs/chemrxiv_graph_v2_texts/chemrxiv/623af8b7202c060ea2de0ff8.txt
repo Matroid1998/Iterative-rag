@@ -1,0 +1,12 @@
+Description:
+Involved in electrochemical reduction reactions.
+
+Text:
+High entropy alloy particles are often made by melting mixtures of metals or metal salt precursors
+at high temperatures ( 1000C).1114 It is generally assumed that at such high temperatures the different
+elements are randomly distributed at the lattice sites in both bulk and at surfaces and that quenching the
+temperature can keep the elements in place.13 However, it is possible that some local order still exist at
+high temperatures, especially at surfaces, and that heating therefore will not produce randomized
+surfaces. The AgAuCuPdPt high entropy alloy is catalytically active for the electrochemical CO2 and CO
+reduction reactions.15,16 We therefore choose equimolar fcc AgAuCuPdPt and study the local order in
+the bulk and at the (111), (100) and (533) surfaces.

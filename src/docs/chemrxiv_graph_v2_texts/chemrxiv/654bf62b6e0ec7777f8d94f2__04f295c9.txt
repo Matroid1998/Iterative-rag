@@ -1,0 +1,14 @@
+Description:
+Used as an alkaline electrolyte that hinders hydrogen evolution reactions (HER) and facilitates ECH reactions.
+
+Text:
+(31) A notable example is the ECH of acetonitrile, where 
+a FE of 8090 was achieved at 100500 mA cm2 in 1 M aqueous NaOH, in contrast to the 
+dominant HER under acidic or neutral conditions. (18) 
+While hindering HER to the advantage of ECH reactions, the use of alkaline electrolytes poses 
+important requirements due to the change in the sourcing hydrogen under these conditions ECH 
+sources H atoms from protons present in the acidic electrolyte, whereas H atoms are mainly 
+sourced through water dissociation on the electrode surface in alkaline solution (Fig 1B). (32) In 
+addition, the adsorbed H atoms must exhibit a moderate binding strength at the operating applied 
+potential in order to facilitate the ECH of the organic substrate, according to the Sabatiers 
+principle.

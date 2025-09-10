@@ -1,0 +1,15 @@
+Description:
+A polymer substrate that enables middle to high throughput fabrication in microfluidics.
+
+Text:
+1
+5 Traditionally, microfluidic devices made of silicon and glass have provided 
+geometrical precision and reusability, but they are expensive to scale. Polymer 
+substrates like thermoplastics and PDMS are moderate in cost and enable middle
+tohighthroughput fabrication. However, recent trends in microfluidic pointofcare 
+diagnostics have sought to use inexpensive disposable materials such as paper and 
+thread to improve scalability and ease of use. 38 Paperbased analytical substrates 
+have been used since the 1940s for chromatography and electrophoresis. Nitrocellulose membrane emerged as a platform for the home pregnancy test in the 
+1980s and has since remained the gold standard for lateral flow assays and 
+commercial diagnostics. 912 Since then, there has been a surge of interest in paper
+based diagnostics research.

@@ -1,0 +1,27 @@
+Description:
+A model alkene used in temperature programmed desorption experiments.
+
+Text:
+In particular, carbon deposition (coking) under hydrocarbonrich conditions is a 
+degradation mechanism that affects many catalysts, and for subnano clusters the high temperatures 
+where coking tends to occur also are likely to drive sintering. The focus of this study is understanding 
+the mechanisms by which Ge addition stabilizes subnano Pt clusters against both sintering and coking 
+when the clusters are saturated by a model alkene (ethylene), and heated. We previously examined deactivation of subnano Ptnalumina (n  4,7,8) and Ptnsilica (n  
+4,7) model catalysts by a combination of sintering and coking, during repeated ethylene temperature
+programmed desorption (TPD) experiments.
+
+
+---
+
+Description:
+Binds to cluster structures affecting their stability and fluxionality.
+
+Text:
+Density functional theory (DFT) with PBE functional11 
+and PAW pseudopotentials12 was used to examine ethylene binding and its effects on cluster structure, 
+stability, and fluxionality.13, 14 The clusters were found to deactivate rapidly, as shown by the loss of 
+strong ethylene chemisorption sites, with effects from both carbon deposition and sintering. In addition, 
+sintering was found to be sizedependent for Ptnalumina, with Pt4 and Pt7 showing enhanced (but still 
+imperfect) stability at temperatures to 750 K, compared to neighboring cluster sizes.15 
+In those experiments, sintering was inferred from changes in both numbers of exposed Pt 
+httpsdoi.org10.26434chemrxiv2024n3np0 ORCID httpsorcid.org0000000199858178 Content not peerreviewed by ChemRxiv. License CC BY 4.0

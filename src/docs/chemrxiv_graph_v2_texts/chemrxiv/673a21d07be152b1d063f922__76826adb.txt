@@ -1,0 +1,63 @@
+Description:
+Decomposes with the production of oxygen.
+
+Text:
+3
+Variables
+4
+Equipment
+7
+Chemicals
+7
+Equipment
+7
+Methodology  Procedures
+7
+SetUp
+7
+Risk Assessment
+8
+Chemical Hazards
+8
+Physical Hazards
+8
+Equipment Hazards
+8
+Safety Precautions
+8
+Procedure
+9
+Data Analysis
+9
+Discussion
+17
+Further Studies  Broader Implications
+17
+Conclusion
+18
+Bibliography
+19
+httpsdoi.org10.26434chemrxiv20245pdjx ORCID httpsorcid.org0009000624992149 Content not peerreviewed by ChemRxiv. License CC BY 4.0
+
+Introduction
+This research papers hypothesis is that the rate of decomposition of hydrogen peroxide (H2O2) will
+increase with the use of the catalysts of MnO2, PbO2, and Fe2O3, with MnO2 having the highest
+catalytic activity and inhibiting the fastest rate of decomposition of Hydrogen peroxide, measured with
+the fastest rate of oxygen production.
+
+
+---
+
+Description:
+Decomposes naturally into water and oxygen gas.
+
+Text:
+The increase of temperature from 0C to 90C will enhance the rate
+of decomposition for each catalyst, with the most significant increase observed at 60C and 90C,
+observed in each catalyst. Hydrogen peroxide (H2O2) is a chemical compound commonly used as a disinfectant and bleaching
+agent. It decomposes naturally into water (H2O) and oxygen gas (O2), as shown in the reaction
+2H2O2(aq)2H2O(l)O2(g)
+This decomposition reaction is generally slow at room temperature over an extended period1, but can be
+significantly accelerated by the presence of catalysts and increased temperatures. A catalyst is a substance that increases the rate of a chemical reaction without being consumed in the
+process. Catalysts work by providing an alternative reaction pathway with a lower activation energy, thus
+increasing the reaction rate.

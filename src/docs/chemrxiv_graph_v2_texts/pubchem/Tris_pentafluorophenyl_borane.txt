@@ -1,0 +1,23 @@
+Name: Tris(pentafluorophenyl)borane
+Text:
+Properties:safety: Acute Toxic and Irritant
+smiles: B(C1=C(C(=C(C(=C1F)F)F)F)F)(C2=C(C(=C(C(=C2F)F)F)F)F)C3=C(C(=C(C(=C3F)F)F)F)F
+formula: C18BF15
+chem_properties: Molecular Weight: 512.0 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 15
+Rotatable Bond Count: 3
+Exact Mass: 511.9853526 Da
+Monoisotopic Mass: 511.9853526 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 34
+Formal Charge: 0
+Complexity: 566
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

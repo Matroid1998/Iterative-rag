@@ -1,0 +1,31 @@
+Name: Posaconazole
+Text:
+Posaconazole is an N-arylpiperazine that consists of piperazine carrying two 4-substituted phenyl groups at positions 1 and 4. A triazole antifungal drug. It has a role as a trypanocidal drug. It is a member of triazoles, a N-arylpiperazine, an organofluorine compound, a member of oxolanes, an aromatic ether, a conazole antifungal drug and a triazole antifungal drug.
+Posaconazole is a triazole antifungal drug that is used to treat invasive infections by Candida species and Aspergillus species in severely immunocompromised patients.
+Posaconazole is an Azole Antifungal.
+Posaconazole is a potent triazole antifungal agent used in the prevention of invasive fungal infections due to aspergillosis and candida in high risk patients. Posaconazole therapy is associated with transient, asymptomatic serum aminotransferase elevations and is a suspected but rare cause of clinically apparent acute drug induced liver injury.
+Posaconazole is a broad-spectrum, second generation, triazole compound with antifungal activity. Posaconazole strongly inhibits 14-alpha demethylase, a cytochrome P450-dependent enzyme. Inhibition of 14-alpha-demethylase prevents the conversion of lanosterol to ergosterol, an important component of the fungal cell wall. Inhibition of ergosterol synthesis changes the fungal cell membrane composition and integrity, alters membrane permeability and eventually leads to fungal cell lysis. Compared to other azole antifungals, posaconazole is a significantly more potent inhibitor of sterol 14-alpha demethylase.
+POSACONAZOLE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2005 and has 5 approved and 9 investigational indications.
+See also: Mometasone Furoate; Orbifloxacin; posaconazole (component of) ... View More ...
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: CC[C@@H]([C@H](C)O)N1C(=O)N(C=N1)C2=CC=C(C=C2)N3CCN(CC3)C4=CC=C(C=C4)OC[C@H]5C[C@](OC5)(CN6C=NC=N6)C7=C(C=C(C=C7)F)F
+formula: C37H42F2N8O4
+chem_properties: Molecular Weight: 700.8 g/mol
+XLogP3: 4.6
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 11
+Rotatable Bond Count: 12
+Exact Mass: 700.32970817 Da
+Monoisotopic Mass: 700.32970817 Da
+Topological Polar Surface Area: 112
+Heavy Atom Count: 51
+Formal Charge: 0
+Complexity: 1170
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

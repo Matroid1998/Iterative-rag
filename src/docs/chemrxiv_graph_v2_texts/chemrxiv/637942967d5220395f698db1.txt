@@ -1,0 +1,55 @@
+Description:
+Elemental iron is quantified in ferrous sulfate supplements using cyclic voltammetry.
+
+Text:
+of cyclic voltammetry to upperlevel undergraduate chemistry 
+students. This work presents a simple bufferfree cyclic voltammetry experiment for the quantification of elemental 
+iron in ferrous sulfate supplements using standard addition to a single solution. The various student learning 
+outcomes highlighted in this work include the introduction to the basic principles of cyclic voltammetry, the 
+construction of a calibration curve based on the RandlesSevcik equation, obtaining a linear regression equation 
+using Microsoft excel, acid digestion of drug supplements, and quality assurance through a statistical evaluation of 
+experimental data. This laboratory experiment also emphasizes the advantages of using the method of a standard 
+addition to a single solution.
+
+
+---
+
+Description:
+Involved in critical metabolic processes such as hemoglobin and myoglobin synthesis, cell proliferation and regulation, and DNA synthesis.
+
+Text:
+INTRODUCTION 
+The role of elemental iron in living organisms is implicated in critical metabolic processes such as hemoglobin and 
+myoglobin synthesis, cell proliferation and regulation, and DNA synthesis.
+
+
+---
+
+Description:
+An essential element stored primarily in hemoglobin and ferritin, crucial for preventing iron deficiency anemia.
+
+Text:
+13 About onefifth of iron in the body is 
+stored in an intracellular protein called ferritin, with seventy percent stored in hemoglobin.3,4 Chronically low iron 
+levels either through blood loss, pregnancy, or inadequate iron intake can cause iron depletion over time, resulting 
+in iron deficiency anemia.5,6 Iron intake through food fortification or medicinal supplementation has been shown to 
+be effective in preventing and treating iron deficiency anemia.57 Excess iron intake, on the other hand, has been 
+linked to the etiology of a variety of chronic diseases, including cancer, diabetes, and cardiovascular disease.8 Ferrous 
+sulfate supplements are often prescribed to prevent or treat iron deficiency anemia.912 It is administered orally as a 
+liquid, tablet, or capsule.13 In the context of possible low iron intake or overload, the validation of the actual amount 
+of iron contained in ferrous sulfate supplements is imperative.
+
+
+---
+
+Description:
+A metal commonly analyzed in trace element analysis using various analytical techniques.
+
+Text:
+Trace element analysis of metals including iron has been an integral part of most undergraduate chemistry 
+laboratory experiments.1315 These experiments exploit a myriad of analytical techniques and instrumentation, also 
+providing students the opportunity to work with reallife samples. Cyclic voltammetry offers a versatile 
+electroanalytical technique for both qualitative and quantitative studies of redox active specie.1620 It can be used to 
+determine the diffusional coefficient and reduction potentials of an analyte for qualitative purposes.1718 The 
+concentration of a redox active specie in a Nernstian system is proportional to peak current (Equation 1) allowing 
+for the quantitative determination of analyte concentration. 17,18

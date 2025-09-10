@@ -1,0 +1,26 @@
+Description:
+Can plate at the negative electrode at low temperatures, potentially leading to short circuiting.
+
+Text:
+At low temperatures slow intercalation 
+kinetics can lead to lithium plating at the negative electrode which could lead to the short 
+circuiting of the cell.4 At higher temperatures, a whole host of degradation processes are 
+accelerated, such as dissolution of transition metals, breakdown of the solid electrolyte 
+interphase, and stored lithium leaching from the graphitic electrode.5,6 These effects can 
+severely damage the cell, limiting the cycle life and, in extreme cases, lead to thermal runaway, 
+uncontrollable overheating, and eventually potential explosion.7
+
+
+---
+
+Description:
+Leaches from the graphitic electrode at higher temperatures, contributing to cell degradation.
+
+Text:
+At low temperatures slow intercalation 
+kinetics can lead to lithium plating at the negative electrode which could lead to the short 
+circuiting of the cell.4 At higher temperatures, a whole host of degradation processes are 
+accelerated, such as dissolution of transition metals, breakdown of the solid electrolyte 
+interphase, and stored lithium leaching from the graphitic electrode.5,6 These effects can 
+severely damage the cell, limiting the cycle life and, in extreme cases, lead to thermal runaway, 
+uncontrollable overheating, and eventually potential explosion.7

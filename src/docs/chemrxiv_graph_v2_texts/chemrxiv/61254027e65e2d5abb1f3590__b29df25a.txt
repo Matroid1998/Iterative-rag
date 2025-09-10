@@ -1,0 +1,29 @@
+Description:
+The most common nitrogen precursor in chemical vapor deposition.
+
+Text:
+The growth of InN is problematic due to its low thermal stability; InN decomposes to In 
+metal and nitrogen gas at about 550 C.8 This has also been manifested by its high equilibrium 
+pressure with nitrogen, which has led to attempts at depositing InN at very high nitrogen 
+pressures.9,10,11 Due to slow decomposition kinetics of ammonia (NH3),12 the most common 
+nitrogen precursor in chemical vapor deposition (CVD), NIn ratios in the order of 104 has 
+often been used in CVD of InN.13 Alternative N precursors, such as dimethylhydrazine and 
+tertiarybuthylhydrazine, has been shown ineffective for the growth of InN.14 To allow more 
+reactive N species, plasmaassisted approach has been adapted in various growth techniques, 
+such as molecule beam epitaxy,15,16,17 sputtering18 and metalorganic CVD19 for the growth of 
+InN.
+
+
+---
+
+Description:
+Used in plasma form for the ALD of crystalline InN films.
+
+Text:
+We have previously hypothesized that steering the deposition chemistry fully to the surface 
+could be an alternative route for low temperature CVD of InN as it could circumvent the 
+problem of the slow kinetics in the gas phase decomposition of NH3. A CVD approach fully 
+relying on surface chemistry is atomic layer deposition (ALD), which uses a sequential supply 
+of the precursor gases to make the deposition chemistry surface controlled.20 ALD of 
+crystalline InN films has been demonstrated using trimethyl indium (TMI) and either nitrogen 
+plasma21,22 or NH3 plasma.23 In addition, complex precursors with chelating ligands with InN

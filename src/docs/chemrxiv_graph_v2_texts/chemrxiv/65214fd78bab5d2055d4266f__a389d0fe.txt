@@ -1,0 +1,13 @@
+Description:
+A mineral used in solid phase adsorption to remove radioactive iodine.
+
+Text:
+Current methods for removing radioactive iodine from different industrial waste 
+streams include wet scrubbing (using alkaline solutions like NaOH or Hg(NO3)2 as well 
+as solid phase adsorption (using silver salts, zeolites, minerals containing bismuth 
+oxyiodide, activated carbon and others).9,10 However, these methods have drawbacks 
+such as the need for complex equipment, hazardous byproduct generation, poor 
+absorption capacities, and high cost because of the need for expensive sorbents.7,1113 
+For these reasons, the development of alternative, chemically stable materials that can 
+collect iodine at low concentrations in aqueous environments, remains a key challenge. To address this problem, researchers have begun to explore the vast library of porous 
+organic materials as highperformance adsorbents for iodine pollution.

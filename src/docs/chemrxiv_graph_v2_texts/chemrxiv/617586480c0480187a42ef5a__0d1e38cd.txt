@@ -1,0 +1,15 @@
+Description:
+An amorphous solid electrolyte studied for its role and impact on filament formation and growth.
+
+Text:
+In addition to this, interphase formation
+in unstable anode  SE interphases leads to large area specic resistances that cause strong
+electric and stress elds leading to the fracture of the solid electrolyte23,24. For metastable
+interfaces, microstructuredriven, Grithlike cracking processes are also identied over and
+above the mass transport limitation mechanism22. Additionally, local deposition of Li metal
+due to trace electrical conductivities of material is also identied as a potential failure mech
+anism for the solid electrolytes12,13. Understanding the role and impact of heterogenities
+in the interface, interphase, and SE on lament formation and growth is vital. While a lot
+of work has been done on assessing these interplay for amorphous solid electrolytes (like
+Li3PS6)25,4,26,27,28,29, relatively much less work is carried out for polycrystalline solid elec
+trolytes.

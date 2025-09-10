@@ -1,0 +1,10 @@
+Description:
+Used as an adhesive layer between Au and dielectric layers in MIM structures.
+
+Text:
+We have realized a perfectabsorberemitter using MIM structures by intricate tune of
+absorbtion via scattering of MIM structures by increasing abs in respect to sca8,9. This was achieved by increasing a thickness
+of Cr lm used as an adhesive layer between the Au and dielectric layers, hence, favoring the absorbance contribution. For thermal emitters at a designed IRband, choice of materials for MIM patterns becomes important since more emission
+can be obtained at elevated temperatures. In this regard, when Au and Cr are stacked and heated, Cr will quickly diffuse into
+Au, destroying the MIM structure and degrading optical properties. Therefore, we focused on searching for homogeneous
+metallic materials with strong absorption.

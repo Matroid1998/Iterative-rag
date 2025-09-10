@@ -1,0 +1,21 @@
+Description:
+A compound studied for ultrafast molecular dynamics using UV pump probe and ionization techniques.
+
+Text:
+The choice of especially rst row transition metal carbonyls for these studies
+30
+is motivated by their relative simplicity in terms of electronic structure and chemistry, due to
+31
+the small number of electrons and limited relativistic eects. Of these systems, ironpentacar
+32
+bonyl Fe(CO)5 has been one of the most thoroughly investigated systems 7, in particular
+33
+the processes initiated by photoinduced metaltoligand charge transfer (MLCT). This in
+34
+cludes attempts to study the ultrafast molecular dynamics (MD) using UV pump probe and
+35
+ionization techniques 2, 8. Trushin and coworkers established, in their femtosecond dynam
+36
+ics study, the sequential dissociation of carbonmonoxide (CO) from Fe(CO)5 into Fe(CO)4
+37
+and subsequently Fe(CO)3, with the rst step happening within 100 fs 8.

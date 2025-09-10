@@ -1,0 +1,26 @@
+Name: Nickelocene
+Text:
+Nickelocene can cause cancer according to California Labor Code.
+Nickelocene is a dark liquid in an 8-10% solution in toluene. Insoluble in water. (NTP, 1992)
+Nickelocene is a dark green colored, crystalline, inorganic compound that produces toxic gases upon heating. Nickelocene is used as a catalyst and as a complexing agent. Exposure to this substance can cause severe dermatitis, skin and asthma-like allergies and affects the lungs, kidneys, gastrointestinal tract and neurological system. Nickelocene is a known carcinogen and is associated with an increased risk of developing lung and nasal cancers. (NCI05)
+Properties:safety: Flammable and Irritant and Health Hazard
+smiles: [CH-]1C=CC=C1.[CH-]1C=CC=C1.[Ni+2]
+formula: C10H10Ni
+chem_properties: Molecular Weight: 188.88 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 188.013592 Da
+Monoisotopic Mass: 188.013592 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 11.6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

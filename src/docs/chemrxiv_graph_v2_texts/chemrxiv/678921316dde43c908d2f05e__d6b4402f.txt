@@ -1,0 +1,24 @@
+Description:
+The gold standard in the treatment of Parkinson's disease.
+
+Text:
+One big analytical challenge is the detection of levodopa within human blood serum.38 The drug levodopa is the 
+gold standard in the treatment of Parkinsons disease.39,40 Up to now, monitoring of levodopa blood levels has not 
+really been implemented, due to timeconsuming and complex laboratory methods like liquid chromatography
+mass spectrometry.41 Nonetheless, measuring levodopa blood levels can be a crucial step to get the best treatment 
+for an individual patient and decrease the risk of levodopainduced side effects like dyskinesias.38,41 Dyskinesias 
+exhibit a direct correlation with the levodopa plasma concentration and are absent within a precise therapeutic 
+window.41 The complex milieu present in human blood demands high selectivity and high sensitivity sensors to 
+obtain accurate and reliable measurements.
+
+
+---
+
+Description:
+A compound detected using SWCNT sensor barcodes in biosensing applications.
+
+Text:
+Simultaneously, for a final device one needs to consider requirements 
+for onsite monitoring of patients. To address this challenge, we wanted to construct a portable and lowcost reader for levodopa detection based on 
+SWCNTsensor barcodes. We start by simulating the SNR for NIR fluorescence detection in typical scenarios and 
+with different detectors. We compare Si and InGaAs PIN photodiodes for SWCNT biosensing and detect levodopa. httpsdoi.org10.26434chemrxiv20259lf2t ORCID httpsorcid.org0000000306389822 Content not peerreviewed by ChemRxiv. License CC BY 4.0

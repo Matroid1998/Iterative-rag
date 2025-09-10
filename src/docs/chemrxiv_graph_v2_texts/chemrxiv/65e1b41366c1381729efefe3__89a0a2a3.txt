@@ -1,0 +1,32 @@
+Description:
+An electron blocking layer that promotes hole-selective transfer.
+
+Text:
+of the interfacial PEI layer and the hybrid PEITiO2 not only mitigates this 
+energetic misalignment but also promotes holeselective transfer, facilitated by the electron
+blocking nature of the PEI and the introduction of new defect states within the hybrid PEITiO2 
+layer (Fig. 6b and Supplementary Fig 28). Conclusion 
+In summary, we investigated hybrid PEITiO2 as a protection layer for metal oxide photoanodes 
+that significantly enhances the stability of these materials for solar water oxidation. The hybrid 
+TiO2 layer was formed on the interfacial PEI layer during the ALD process, and we observed 
+distinct energetics associated with a new defect state resulting from the partial reduction of Ti4 
+Fig. 6. Schematic illustration of proposed band energetics. a,b, The band energetics for 
+metal oxideTiO2 (a) and metal oxidePEITiO2 (b).
+
+
+---
+
+Description:
+A layer that prevents unfavorable band bending and facilitates selective hole transfer.
+
+Text:
+The band positions of the metal oxide are 
+based on a BiVO4 photoanode. The Fermi level of semiconductors and defect band position 
+were obtained by DWE, KFPM, and valence state XPS analysis. httpsdoi.org10.26434chemrxiv2024n216n ORCID httpsorcid.org0000000275421147 Content not peerreviewed by ChemRxiv. License CC BY 4.0
+
+17 
+in TiO2. Furthermore, the unique properties of the PEI layer (e.g., preventing unfavorable band 
+bending) facilitated selectivehole transfer between the metal oxide and TiO2 layer. Addressing 
+the challenges related to unfavorable holeselective contact, the metal oxide photoanode 
+modified with the hybrid TiO2 demonstrated feasibility in solar water oxidation with longterm 
+stability.

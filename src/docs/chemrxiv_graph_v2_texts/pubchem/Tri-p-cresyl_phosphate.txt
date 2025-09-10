@@ -1,0 +1,27 @@
+Name: Tri-p-cresyl phosphate
+Text:
+Tri-p-tolyl phosphate is a crystalline solid. (NTP, 1992)
+A mixture of isomeric tritolyl phosphates. Used in the sterilization of certain surgical instruments and in many industrial processes.
+See also: TRI-o-CRESYL PHOSPHATE (annotation moved to).
+Properties:safety: Irritant and Environmental Hazard
+smiles: CC1=CC=C(C=C1)OP(=O)(OC2=CC=C(C=C2)C)OC3=CC=C(C=C3)C
+formula: C21H21O4P
+chem_properties: Molecular Weight: 368.4 g/mol
+XLogP3: 5.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 6
+Exact Mass: 368.11774614 Da
+Monoisotopic Mass: 368.11774614 Da
+Topological Polar Surface Area: 44.8
+Heavy Atom Count: 26
+Formal Charge: 0
+Complexity: 392
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

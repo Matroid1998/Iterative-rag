@@ -1,0 +1,28 @@
+Name: Thiocyanate
+Text:
+Thiocyanate is a pseudohalide anion obtained by deprotonation of the thiol group of thiocyanic acid. It has a role as a human metabolite. It is a pseudohalide anion and a sulfur molecular entity. It is a conjugate base of an isothiocyanic acid and a thiocyanic acid.
+Thiocyanate is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Thiocyanate is a metabolite found in or produced by Saccharomyces cerevisiae.
+See also: Thallium thiocyanate (annotation moved to).
+Properties:safety: Irritant
+smiles: C(#N)[S-]
+formula: CNS-
+chem_properties: Molecular Weight: 58.08 g/mol
+XLogP3: 0.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 57.97514518 Da
+Monoisotopic Mass: 57.97514518 Da
+Topological Polar Surface Area: 24.8
+Heavy Atom Count: 3
+Formal Charge: -1
+Complexity: 31.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

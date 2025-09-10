@@ -1,0 +1,14 @@
+Description:
+Defined at various physiological levels, influencing biological responses such as hypoxia-inducible factors and DNA damage response.
+
+Text:
+Notably, cycling or intermittent changes in oxygen levels also occurs in tumors 
+and can be exacerbated during therapy.3 Typically, physiological levels of oxygen (physoxia) are defined as 37 
+O2, tumor hypoxia is defined as 2 O2, and extreme levels of hypoxia (0.1 O2) termed radiobiological 
+hypoxia, are those most associated with resistance to radiotherapy.4,5 Importantly, the biological response differs 
+in an oxygendependent manner, for example while the hypoxiainducible factors (HIFs) are induced at both 2 
+and 0.1 O2, the DNA damage response or unfolded protein response is restricted to the lower oxygen tension.6 
+There is an unmet need for imaging tools that not only detect hypoxia but also inform on the level of oxygen 
+present, because median oxygen concentrations within a tumor can range from 4.20.1 O2.4 
+One biological response to hypoxia is the production reductase enzymes (cytochrome P450 reductase and 
+nitroreductase) that catalyze oxygensensitive bioreductive reactions.

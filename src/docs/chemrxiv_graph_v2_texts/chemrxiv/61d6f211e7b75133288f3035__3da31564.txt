@@ -1,0 +1,27 @@
+Description:
+Involved in a triangle of closely located ions, including T3 and T2 sites coordinated by histidine residues.
+
+Text:
+The TNC contains a triangle of closely located copper 
+ions including a pair of T3 copper ions coordinated by three histidine residues each and one T2 
+copper ion coordinated by two histidine residues. Electrons are accepted from substrate at the T1 
+copper site. Via an electrontransfer chain the electrons are transferred to the TNC where 
+molecular oxygen reduction reaction O2  4e  4H  2H2O occurs (Solomon et al., 1996; 
+Jones and Solomon, 2015). The TNC is connected to surrounding solvent via the T3 and T2 
+channels clearly observed in structures as chains of water molecules (Fig 1 in Polyakov et al., 
+2017). Molecular oxygen gets to the TNC through the T3 channel.
+
+
+---
+
+Description:
+Involved in oxidation to Cu(II) and forms part of a triangle with oxygen ligands.
+
+Text:
+The T2 and one of T3 
+copper ions are oxidized to Cu(II) and there is oxygen ligand near the T2 copper ion involved. In 
+the native intermediate (NI) state all three copper ions are oxidized to charge 2e and there are 
+three oxygen ligands involved. One is the oxygen ligand near ion T2, one in the center of the 
+copper ions triangle and one between two copper ions T3. The last two appear from peroxide 
+when the OO bond is broken. Each of T3 copper ions is fivecoordinated by three nitrogen 
+atoms of histidine residues and by two oxygen ligands between the T3 copper ions in the TNC.

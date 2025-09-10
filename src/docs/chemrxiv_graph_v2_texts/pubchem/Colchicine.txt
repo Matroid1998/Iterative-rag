@@ -1,0 +1,35 @@
+Name: Colchicine
+Text:
+Colchicine can cause developmental toxicity and male reproductive toxicity according to state or federal government labeling requirements.
+Colchicine appears as odorless or nearly odorless pale yellow needles or powder that darkens on exposure to light. Used to treat gouty arthritis, pseudogout, sarcoidal arthritis and calcific tendinitis. (EPA, 1998)
+(S)-colchicine is a colchicine that has (S)-configuration. It is a secondary metabolite, has anti-inflammatory properties and is used to treat gout, crystal-induced joint inflammation, familial Mediterranean fever, and many other conditions. It has a role as a mutagen, an anti-inflammatory agent and a gout suppressant. It is a colchicine and an alkaloid. It is an enantiomer of a (R)-colchicine.
+Colchicine is an alkaloid drug derived from a plant belonging to the Lily family, known as Colchicum autumnale, or "autumn crocus." Its use was first approved by the FDA in 1961. Colchicine is used in the treatment of gout flares and Familial Mediterranean fever, and prevention of major cardiovascular events. It has also been investigated in other inflammatory and fibrotic conditions.
+Colchicine is an Alkaloid.
+Colchicine is a plant alkaloid that is widely used for treatment of gout. Colchicine has not been associated with acute liver injury or liver test abnormalities except with serious overdoses.
+Colchicine has been reported in Colchicum arenarium, Humulus lupulus, and other organisms with data available.
+Colchicine is an alkaloid isolated from Colchicum autumnale with anti-gout and anti-inflammatory activities. The exact mechanism of action by which colchicines exerts its effect has not been completely established. Colchicine binds to tubulin, thereby interfering with the polymerization of tubulin, interrupting microtubule dynamics, and disrupting mitosis. This leads to an inhibition of migration of leukocytes and other inflammatory cells, thereby reducing the inflammatory response to deposited urate crystals.  Colchicine may also interrupt the cycle of monosodium urate crystal deposition in joint tissues, thereby also preventing the resultant inflammatory response. Overall, colchicine decreases leukocyte chemotaxis/migration and phagocytosis to inflamed areas, and inhibits the formation and release of a chemotactic glycoprotein that is produced during phagocytosis of urate crystals.
+COLCHICINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1961 and is indicated for gout and familial mediterranean fever and has 40 investigational indications.
+A major alkaloid from Colchicum autumnale L. and found also in other Colchicum species. Its primary therapeutic use is in the treatment of gout, but it has been used also in the therapy of familial Mediterranean fever (PERIODIC DISEASE).
+See also: Colchicine; probenecid (component of); Colchicine salicylate (is active moiety of).
+Properties:safety: Acute Toxic and Health Hazard
+smiles: CC(=O)N[C@H]1CCC2=CC(=C(C(=C2C3=CC=C(C(=O)C=C13)OC)OC)OC)OC
+formula: C22H25NO6
+chem_properties: Molecular Weight: 399.4 g/mol
+XLogP3: 1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 5
+Exact Mass: 399.16818752 Da
+Monoisotopic Mass: 399.16818752 Da
+Topological Polar Surface Area: 83.1
+Heavy Atom Count: 29
+Formal Charge: 0
+Complexity: 740
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

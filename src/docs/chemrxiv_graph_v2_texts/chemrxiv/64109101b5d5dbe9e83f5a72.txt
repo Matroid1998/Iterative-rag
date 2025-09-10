@@ -1,0 +1,19 @@
+Description:
+A thermoelectric material that utilizes toxic elements, making it unfit for many uses.
+
+Text:
+Indeed, some of the highest performance thermoelectric
+materials utilize toxic elements, such as PbTe, making them
+unfit for many uses. New highefficiency and lowcost thermo
+electric materials will need to be discovered to enable broader
+device applications. Unfortunately, discovering new highefficiency materials
+has proven challenging. Device efficiency scales with zT,
+which can be calculated using the relation
+zT  S2
+ T
+(1)
+where S is the Seebeck coefficient,  is electrical conductivity,
+ is thermal conductivity, and T is temperature. From this we
+can see that the ideal thermoelectric is electrically conductive
+but thermally resistive. The challenge is that these properties
+are interrelated, making the maximization of zT nontrivial.

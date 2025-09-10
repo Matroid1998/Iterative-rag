@@ -1,0 +1,26 @@
+Description:
+A key component in lithium-ion batteries, serving as ions transported between electrodes.
+
+Text:
+Lithiumion batteries (LIBs) are the main research interest for electrochemical and materials 
+applications because of their excellent energy storage capability 1. LIBS have good cycle life 
+and can be manufactured in various forms that are better suited for a particular application 2. Electrolytes are the key component of lithium ion battery that serve as a medium for transporting 
+lithium (Li) ions between electrodes during the chargedischarge process 3. Conventional 
+electrolytes used in LIBs are usually composed of an organic solvent (e.g., ethylene carbonate, 
+dimethyl carbonate and propylene carbonate) and Li salt (e.g., lithium hexafluorophosphate) 4. These organic based electrolytes possess favorable features such as high ionic conductivities. However, carbonates are flammable which pose safety concerns and this limits their operative 
+temperature range 5.
+
+
+---
+
+Description:
+Used in electrolytes based on mixtures of ionic liquids and organic electrolytes to optimize properties.
+
+Text:
+Although ionic liquids possess desirable features as electrolyte components 11, further 
+developments have been hindered by their high viscosity which induces low wettability of the 
+electrode surface and low ionic conductivity. The most recent strategy employed to overcome 
+this problem has been the use of electrolytes based on mixtures of ILs and organic electrolytes 
+12. An appropriate selection of the type of ILs, solvent(s) and lithium salt, as well as the ratio 
+between these components, makes possible the realization of electrolytes with optimized 
+properties. For these reasons, the use of ILcarbonate mixtures has become a popular and a viable

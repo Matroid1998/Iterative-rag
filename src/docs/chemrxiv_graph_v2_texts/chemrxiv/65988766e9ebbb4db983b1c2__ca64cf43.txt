@@ -1,0 +1,15 @@
+Description:
+A material with a predicted maximum dimensionless figure of merit (ZT) of 2.76 at 900 K.
+
+Text:
+of Scd orbitals dramatically increases conduction band degeneracy in 
+Sc2Si2Te6, yielding a significantly improved Seebeck coefficient relative to Sb2Si2Te6. As a result, Sc2Si2Te6 is predicted to achieve an extraordinary dimensionless figure of 
+merit (ZT) of 3.51 at 1000 K, which significantly surpasses the predicted maximum ZT 
+of 2.76 for Sb2Si2Te6 at 900 K. This work suggests that engineering band degeneracy 
+through compositional variation is an effective strategy for improving the 
+thermoelectric performance of layered materials. Keywords layered thermoelectric materials, band degeneracy, enhanced Seebeck 
+coefficient, firstprinciples calculation, momentum relaxation time approximation 
+
+httpsdoi.org10.26434chemrxiv2024hm6vh ORCID httpsorcid.org0000000240783148 Content not peerreviewed by ChemRxiv. License CC BY 4.0
+
+ 3  25

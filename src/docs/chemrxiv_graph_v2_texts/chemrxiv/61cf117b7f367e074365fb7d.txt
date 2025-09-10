@@ -1,0 +1,13 @@
+Description:
+Components of DNA that interact with low-energy electrons (LEE) affecting DNA damage mechanisms.
+
+Text:
+The outcome of DEA process highly depends
+on the energy and lifetime of the attached electron, i.e., it determines fragmentation or
+nondissociative relaxation mechanism.810 To get a better understanding of the mechanisms
+responsible for DNA damage by LEE via DEA, we need to acquire more knowledge on the in
+teraction of LEE with nucleobases.11 Studying the mechanism causing DNA damage has been
+of great interest in the experimental and theoretical science communities, however, showing
+various processes with very dierent energy values.1218 Therefore, an abinitio treatment is
+needed. Such a treatment can help to explain the interaction of resonances with light (as it
+is necessary to calculate complex transition dipole in order to understand such interaction).

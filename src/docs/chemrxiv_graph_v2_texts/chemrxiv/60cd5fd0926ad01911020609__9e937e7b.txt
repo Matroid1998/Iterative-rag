@@ -1,0 +1,14 @@
+Description:
+An RNA nucleobase analog used as an antiviral drug.
+
+Text:
+The development of therapeutic medicines against the newly pathogenic severe acute 
+respiratory syndrome coronavirus 2 (SARSCoV2) is desired considering the current COVID19 
+pandemic.1 However, developing a highly efficient antiviral drug against a new virus in which 
+virustype mutations occur frequently or whose characteristics are unknown properties is 
+difficult. Therefore, using existing antiviral drugs with a broad spectrum and certain 
+effectiveness for various viruses is currently the first choice for effective drug therapy. To 
+identify a promising candidate drug to treat viral infection, especially for influenza, hepatitis C, 
+and now COVID19, several RNA nucleobase analogs such as remdesivir,2,3 ribavirin,4 
+brincidofovir,5 and favipiravir 6fluoro3hydroxypyrazine2carboxamide (favipiravir, T705), 
+sold under the brand name avigan,6 have been developed.

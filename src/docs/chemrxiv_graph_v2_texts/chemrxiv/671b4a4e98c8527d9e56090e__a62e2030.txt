@@ -1,0 +1,41 @@
+Description:
+Offer much higher reactivity than nucleotide triphosphates and enable primer extension reactions.
+
+Text:
+One of the first successful examples of nonenzymatic RNA
+selfreplication was demonstrated by Lohrmann and Orgel in
+1980 16, in which they used guanosine5phosphoroimidazo
+lides to synthesize oligoguanylic acids on the poly(C) tem
+plate. Unlike nucleotide triphosphates, phosphoroimida
+zolides proved to offer much higher reactivity and enabled the
+socalled primer extension reaction with the catalytic support
+of Pb2 and Zn2 cations 16. This process was improved
+a year later by applying a more reactive 2methylimidazole
+activating group instead of imidazole 17,18. However, this
+improvement did not resolve the original challenge of copy
+ing adenosine and uridine, which almost completely blocked
+further RNA strand synthesis. Enzymefree replication of nu
+cleic acids has been extensively studied by numerous groups
+since then.
+
+
+---
+
+Description:
+Used in nonenzymatic primer extension of nucleic acids on heterogeneous templates.
+
+Text:
+These efforts included further developments of
+nonenzymatic primer extension of canonical and alternative
+nucleic acids with phosphoroimidazolides on different hetero
+geneous templates 1922 or immobilization of RNA 23 and
+other or other forms of activation, like adenine derivatives 24. It included also various approaches to templated ligation
+of RNA oligonucleotides, involving condensing agents and
+organocatalysis 2528. The computational work presented
+here focused on several variants of nonenzymatic template
+copying involving phosphoroimidazolides, hence, we offer
+more background on the associated scenarios below. The rate and fidelity of RNA selfreplication based on
+nucleotide phosphoroimidazolides was further improved by
+the consideration of short helper oligonucleotides, which
+could bind downstream of the activated nucleotide monomers
+which take part in the primer extension reaction 21,29.

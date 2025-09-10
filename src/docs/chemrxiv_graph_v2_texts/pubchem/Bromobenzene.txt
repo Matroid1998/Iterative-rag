@@ -1,0 +1,28 @@
+Name: Bromobenzene
+Text:
+Mobile clear colorless liquid with a pungent odor. Flash point 124 °F. Denser than water and insoluble in water. Hence sinks in water. Vapors are heavier than air. A skin irritant.
+Bromobenzene is the simplest member of the class of bromobenzenes, that is benzene in which a single hydrogen has been substituted by a bromine. A liquid at room temperature (m.p. -30℃; b.p.760 156℃), it is used as a solvent, particularly for large-scale crystallisations, and for the introduction of phenyl groups in organic synthesis. It has a role as a non-polar solvent, a hepatotoxic agent and a mouse metabolite. It is a member of bromobenzenes, a bromoarene and a volatile organic compound.
+Bromobenzene has been reported in Oecophylla smaragdina and Euglena gracilis with data available.
+Bromobenzene is used for organic synthesis, especially in the production of the synthetic intermediate phenyl magnesium bromide (a Grignard reagent). Bromobenzene is also used as an additive to motor oils and as a crystallizing solvent. Release of bromobenzene to the environment may occur during its production and the production of phenyl magnesium bromide, as well as in its use as a solvent and as an additive in motor oil (HSDB, 2003). It has been detected at low frequencies and at low concentrations in samples of food, ambient air, and finished water.
+Properties:safety: Flammable and Irritant and Environmental Hazard
+smiles: C1=CC=C(C=C1)Br
+formula: C6H5Br
+chem_properties: Molecular Weight: 157.01 g/mol
+XLogP3: 3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 155.95746 Da
+Monoisotopic Mass: 155.95746 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 46.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

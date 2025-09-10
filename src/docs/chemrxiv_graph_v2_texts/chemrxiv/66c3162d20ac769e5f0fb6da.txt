@@ -1,0 +1,14 @@
+Description:
+LiCoO2 undergoes a solid-solution lithiation path with uniform Li diffusion.
+
+Text:
+For the active 
+materials that (de)lithiate following a solidsolution path, such as LiCoO2 (LCO) and LiNixCoyMn1x
+yO2 (NMC), Li diffuses inside the particles uniformly such that, when the current is stopped, the 
+concentration inside the particles quickly equilibrates. Thus, the system evolves without substantial 
+intra or interparticle heterogeneities, relying solely on the particles size distribution and position with 
+respect to the electrodes depth as a source of heterogeneities. In contrast, LiFePO4 (LFP) and Li4Ti5O12 
+(LTO) undergo phase separation during the (de)lithiation process due to their physiomechanical 
+properties. At a given state of charge, even under equilibrium conditions, these particles exhibit 
+coexisting Lipoor and Lirich phases. This fundamental difference in reaction behavior, evident in a 
+flat voltage plateau and a voltage hysteresis 8, is intricately linked to interparticle heterogeneities.

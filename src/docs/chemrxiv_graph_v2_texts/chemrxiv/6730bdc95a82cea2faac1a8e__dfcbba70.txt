@@ -1,0 +1,15 @@
+Description:
+A Grignard reagent formed from an organic halide and magnesium.
+
+Text:
+Mg. 15 
+Several complex electrolyte solutions resulting from reactions of Lewis bases 
+(Grignard reagents like RMgX or MgR2, X  halide, mostly Cl and R  organic ligand, 
+alkyl or aryl) with Lewis acids (such BX3nRn or AlX3nRn, n  1 3) in ethereal solvents 
+(mostly THF or glymes) demonstrated reversible Mg depositiondissolution and 
+electrochemical windows wider than 3V. A few of these systems were proven as 
+promising via experiments with rechargeable Mg battery prototypes.69 The 
+electrodes in such cells were usually Mg foil anodes and Chevrel phase cathodes 
+(mostly the cluster compound MgxMo6S8, 0x2).10 However, Grignardbased 
+electrolytes in ethereal solutions may suffer from low anodic stability and high chemical 
+reactivity because of their strong nucleophilic and basic character.

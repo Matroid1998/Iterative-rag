@@ -1,0 +1,30 @@
+Name: Thiophene
+Text:
+Thiophene appears as a colorless liquid with an unpleasant odor. Insoluble in water and slightly denser than water. Flash point 30 °F. Vapors heavier than air. Irritates the skin, eyes, and mucous membranes. Used to make pharmaceuticals and dyes.
+Thiophene is a monocyclic heteroarene that is furan in which the oxygen atom is replaced by a sulfur. It has a role as a non-polar solvent. It is a mancude organic heteromonocyclic parent, a member of thiophenes, a monocyclic heteroarene and a volatile organic compound.
+Thiophene has been reported in Solanum lycopersicum, Coffea arabica, and other organisms with data available.
+Thiophene is a metabolite found in or produced by Saccharomyces cerevisiae.
+A monocyclic heteroarene furan in which the oxygen atom is replaced by a sulfur.
+See also: Laboratory-grade xylene (impurity of); Polythiophene (annotation moved to).
+Properties:safety: Flammable and Corrosive and Acute Toxic and Irritant
+smiles: C1=CSC=C1
+formula: C4H4S
+chem_properties: Molecular Weight: 84.14 g/mol
+XLogP3: 1.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 84.00337130 Da
+Monoisotopic Mass: 84.00337130 Da
+Topological Polar Surface Area: 28.2
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 22.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

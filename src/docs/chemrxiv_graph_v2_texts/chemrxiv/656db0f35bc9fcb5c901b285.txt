@@ -1,0 +1,26 @@
+Description:
+Atoms in the P(V) oxidation state important to chemistry, biology, and medicine.
+
+Text:
+Compounds containing one or more phosphorus atoms in the P(V) oxidation state are important to chemistry, biology, and 
+medicine (Scheme 1A).1,2 These include marketed antiviral drugs such as such as Tenofovir alafenamide3 and Remdesivir, the 
+latter being an effective treatment for the Ebola virus4 which was also approved for use against SARSCoV2.5,6 Other relevant 
+compounds include Fosinopril,7 a compound used to treat hypertension and heart failure and WHO essential medicines listed 
+chemotherapy agent Cyclophosphamide.8 In addition to being common APIs, P(V) containing compounds are also highly 
+relevant motifs in agrochemistry.9 A representative example is the herbicide Zytron developed by Dow.10 As such, the 
+development of efficient methods for the preparation of enantioenriched P(V) containing compounds is crucial.
+
+
+---
+
+Description:
+A central atom in enantioselective desymmetrization reactions involving prochiral groups differentiated by a chiral catalyst.
+
+Text:
+The final strategy is an enantioselective desymmetrization by which prochiral groups linked to a 
+phosphorus center are differentiated by a chiral catalyst (Scheme 1B, v). Multiple reactions have been developed using this 
+strategy, however, until recently none have involved chemistry occurring at the P atom directly, but rather generate the P 
+stereocenter indirectly (through manipulation of enantiotopic side chains) inherently limiting their scope.93145 
+A strategically distinct enantioselective desymmetrization of P(V) species would involve an enantioselective nucleophilic 
+substitution of enantiotopic leaving groups. By judicious choice of leaving group, nucleophile, and catalyst the desired 
+enantioenriched species could be obtained in high yield and with excellent enantioselectivity (stage 1).

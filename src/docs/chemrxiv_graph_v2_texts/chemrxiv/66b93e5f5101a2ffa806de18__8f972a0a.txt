@@ -1,0 +1,14 @@
+Description:
+Conduction electrons present in carbon conductive additives used in the formulation of composite electrodes.
+
+Text:
+The position 
+of this signal gives the gfactor averaged over all EPRobservable paramagnetic transition metals in the 
+system, while its linewidth depends on the strength of the magnetic exchange (J couplings) and dipolar 
+interactions between the transition metals, and on the distribution of paramagnetic environments.32 In 
+general, the effect of these interactions on the EPR signal linewidth increases in the order of exchange 
+coupling, distribution of environments, electronelectron dipolar, to zerofield splitting. In an operando 
+EPR experiment, the intensity, gfactor and linewidth of the EPR signal will evolve due to the continuously 
+evolving electronic and atomic structure of the cathode during electrochemical cycling. Additionally, 
+conduction electrons present in carbon conductive additives used in the formulation of composite 
+electrodes, and in metallic anodes (e.g.

@@ -1,0 +1,15 @@
+Description:
+Visualized using fluorescent calcium sensitive dyes to indirectly interrogate neuronal activity.
+
+Text:
+Recording the electrical transients that accompany sig
+nal transduction within neuronal cells is a key tool in ex
+perimental neuroscience but remains a great challenge. The standard method for recording changes in membrane 
+potential relies on whole cell electrophysiology, which is, 
+however, invasive and low throughput.1,2 More recently, 
+optical methods to interrogate signal transduction in neu
+rons have emerged as a viable alternative to patchclamp 
+techniques.3,4 Visualizing calcium transients with fluores
+cent calcium sensitive dyes, both synthetic58 and protein
+based,911 have become a highly popular optical approach 
+to indirectly interrogate neuronal activity.

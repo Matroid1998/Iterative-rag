@@ -1,0 +1,16 @@
+Description:
+A synthetic polymer that is hydrophilic and used in various applications.
+
+Text:
+Poly(ethylene oxide) (PEO)poly(ethylene glycol) (PEG) is a synthetic polymer that is 
+hydrophilic and has a wide range of applications in various fields, including energy harvesting 
+devices, everyday consumables, and specialized medical treatments.14 Researchers have 
+shown an interest in functionalized PEO that possesses both the desirable characteristics of 
+PEO and functional molecules. For example, the attachment of biologically relevant molecules 
+at the ends of PEG chains, known as PEGylation, has been used to impact medicines such as 
+the recent COVID19 vaccines.57 
+Connecting functional molecules to PEO presents a synthetic challenge (Scheme 
+1).810 While copolymerization of ethylene oxide and functional epoxide has been pursued to 
+introduce functionality on PEO chains (Scheme 1A), the inherent steric and electronic 
+difference between unsubstituted ethylene oxide (EO) and substituted epoxide makes efficient 
+copolymerizations difficult.

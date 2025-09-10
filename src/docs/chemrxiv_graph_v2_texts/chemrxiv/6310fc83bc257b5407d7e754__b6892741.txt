@@ -1,0 +1,45 @@
+Description:
+Sourced mainly from primary mining of ore deposits and secondary mining from sources like printed circuit boards.
+
+Text:
+Copper (Cu) is the first metal to be manipulated by man 1. In previous years, Cu has been 
+used in domestic tools such as axes, military weaponry, and alloy of other metals such as brass, 
+bronze, and others 2. In recent times and a more pronounced sense, Cu is used in building 
+materials, jewelry, electrical contacts and conductors, industrial machinery, nutritional 
+supplements, fungicides in agriculture, and making alloys 3. Although Cu is sourced mainly 
+from primary mining of ore deposits, secondary mining from sources like printed circuit boards 
+(PCBs) is gaining attention as it is a more environmentally friendly option than primary mining 
+4. Popular methods employed for secondary Cu recovery include pyrometallurgy 5, 
+hydrometallurgy 6, biohydrometallurgy 7, and electrochemical recovery 8.
+
+
+---
+
+Description:
+Recovered from ores, concentrates, and scrap materials using aqueous solutions in hydrometallurgy.
+
+Text:
+Hydrometallurgy is most favoured because compared to other methods listed above, it is a 
+relatively cheaper process, it is easier to set up, and it requires lower energy input. Hydrometallurgy is the recovery of Cu from ores, concentrates, and scrap materials using 
+aqueous solutions (also known as leach solution). Hydrometallurgical processes fundamentally 
+consist of three major stages. The first stage, known as leaching, is undertaken to transfer Cu 
+from the PCB into the leach solution. The second stage, known as concentration, is aimed at 
+the reduction of the amount of leach solution thereby increasing the concentration of Cu. The 
+third stage, known as recovery is carried out to separate the Cu from the leach solution 9.
+
+
+---
+
+Description:
+Recovered using sulfuric acid and basic leaching agents.
+
+Text:
+Of these leaching agents, sulfuric acid is the favoured solvent 
+predominantly because its market price is lower than the other acids and it has been proven to 
+be an efficient solvent, especially for the recovery of Cu 16. Ammoniacal mixtures and NaOH 
+are examples of basic leaching agents for Cu recovery. The ammoniacal lixiviant is generally 
+comprised of ammonia in combination with ammonium salts such as carbonates 17, chlorides 
+18, or sulfates 19. The ammonia leaching process is more suitable for Cu extraction than 
+acidic systems as these lixiviants show higher selectivity for Cu, leaving metals such as iron 
+(Fe) and aluminium (Al) undissolved. However, it has been shown that nickel (Ni) and zinc 
+(Zn) are also dissolved in the ammoniabased lixiviant. Most metals present in PCBs are

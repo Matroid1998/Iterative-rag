@@ -1,0 +1,12 @@
+Description:
+A two-dimensional material with a graphenelike structure partially modified with oxygen functional groups.
+
+Text:
+This method is wellknown as metal
+assisted chemical etching (MacEtch)6,7. Although MacEtch is facile and less expensive than 
+dry etching, there are still some issues to be solved for its practical use. First, residual noble 
+metals may produce deeplevel traps in semiconductors and adversely affect device 
+performance8. In order to replace noble metals in the wet process, there have been several 
+reports about the assisted chemical etching of semiconductors with nonnoble metals9,10,11,12 
+and nanocarbon materials13,14,15,16 as catalysts. Graphene oxide (GO) is a twodimensional 
+material that has a graphenelike structure partially modified with oxygen functional groups. Kubota et al. successfully applied GO as a catalyst for the etching of silicon17,18,19, and InP20.

@@ -1,0 +1,12 @@
+Description:
+Denotes a metal nitrosyl complex with an Enemark-Feltham electron count of 7.
+
+Text:
+Fifty years ago, in a master stroke, Enemark and Feltham chose to sidestep the problem of local 
+oxidation states by assigning an effective d electron count n to metal nitrosyls.9 Now known as 
+the EnemarkFeltham electron count, n refers to the number of metal d electrons plus the 
+number of NO p electrons; thus Fe(II)  NO corresponds to n  6  1  7 and is denoted as 
+FeNO7. Despite the popularity of the notation, chemists have retained a strong interest in the 
+oxidation state problem and have sought to assign oxidation states to both the metal and NO 
+fragments in nitrosyl complexes. Unfortunately, density functional theory, the major 
+theoretical tool for such studies,10,11,12,13,14,15 suffers from several pitfalls.

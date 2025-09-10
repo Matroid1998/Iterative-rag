@@ -1,0 +1,23 @@
+Name: Rhenium trioxide
+Text:
+Properties:safety: Irritant
+smiles: O=[Re](=O)=O
+formula: O3Re
+chem_properties: Molecular Weight: 234.205 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 234.940496 Da
+Monoisotopic Mass: 234.940496 Da
+Topological Polar Surface Area: 51.2
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 61.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

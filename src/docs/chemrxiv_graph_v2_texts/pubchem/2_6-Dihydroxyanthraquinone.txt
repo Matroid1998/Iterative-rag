@@ -1,0 +1,26 @@
+Name: 2,6-Dihydroxyanthraquinone
+Text:
+Anthraflavic acid is a dihydroxyanthraquinone that is anthracene substituted by hydroxy groups at C-3 and C-7 and oxo groups at C-9 and C-10. It has a role as an antimutagen and a plant metabolite. It derives from a hydride of an anthracene.
+2,6-Dihydroxyanthraquinone has been reported in Senna obtusifolia and Rubia tinctorum with data available.
+Properties:safety: Irritant
+smiles: C1=CC2=C(C=C1O)C(=O)C3=C(C2=O)C=C(C=C3)O
+formula: C14H8O4
+chem_properties: Molecular Weight: 240.21 g/mol
+XLogP3: 2.2
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 240.04225873 Da
+Monoisotopic Mass: 240.04225873 Da
+Topological Polar Surface Area: 74.6
+Heavy Atom Count: 18
+Formal Charge: 0
+Complexity: 342
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,58 @@
+Description:
+Plays a crucial role in both the central and peripheral nervous system, affecting mental and physical health.
+
+Text:
+26
+
+5hydroxytryptamine (5HT), more commonly known as serotonin, is a signaling biochemical involved 
+27
+
+in many of the human physiology but most notably in the brain function. It is involved in the regulation 
+28
+
+of many physiological signaling including sleep, hunger, and mood control 1. It plays a crucial role 
+29
+
+in both the central as well as the peripheral nervous system 2,3. In particular, the role of serotonin in 
+30
+
+mental and physical health such as depression 4,5 and cancer 69 have been well documented 
+31
+
+10,11. As a result, there has been a high demand of medical diagnostics based on serotonin detection 
+32
+
+from biological fluids 1214.
+
+
+---
+
+Description:
+A neurotransmitter involved in neurological disorders.
+
+Text:
+Furthermore, accurate monitoring of serotonin in continuous time scale 
+33
+
+with high temporal resolution can help advance our understanding of the role of serotonin in many 
+34
+
+neurological disorders. 35
+
+36
+
+Various analytical methods including fluorimetry 15, radio immunoassay 16, enzyme immunoassay 
+37
+
+17, chemiluminescence 18 and mass spectrometry 19 have been used for the detection of 5HT. 38
+
+Although many of these techniques achieve high sensitivity and specificity in detection, they are not 
+39
+
+ideal for in situ continuous and realtime measurement of an analyte from neurons or tissue samples 
+40
+
+due to many factors including bulkiness of the instrument, long measurement time, and a requirement 
+41
+
+for sampling and offline analysis to name a few.

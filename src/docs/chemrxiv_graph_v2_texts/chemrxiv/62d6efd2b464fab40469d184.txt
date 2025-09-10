@@ -1,0 +1,10 @@
+Description:
+Serves as a hydrogen bond acceptor in type III deep eutectic solvents (DES).
+
+Text:
+For 
+example, type III DES have a quaternary ammonium salt as HBA, and the HBD is an organic 
+molecule, type V DES have organic molecules as the HBA and HBD, and types I, II, and IV have 
+metal chlordies.1,2 Many recent studies in the literature involve type III DES with choline chloride 
+((2hydroxyethyl)trimethylammonium chloride) or tetrabutylammonium chloride as the 
+HBA,6,18,19,2330 but there has also been an increase in the study of type V DES.14,31,32 Given the

@@ -1,0 +1,25 @@
+Name: 2-(Cyanosulfanyl)-1-(3,4-dihydroxyphenyl)ethan-1-one
+Text:
+2-(3,4-dihydroxyphenyl)-2-oxoethyl thiocyanate is a member of the class of thiocyanates that is 3,4-dihydroxyacetophenone in which one of the methyl hydrogens has been replaced by the sulfur of a cyanosulfanediyl (-SC#N) group. It has been found to induce the expression of the endoplasmic reticulum chaperone protein GRP78 (78 kDa glucose-regulated protein, BiP, a highly conserved member of the 70 kDa heat shock protein family) leading to an attenuation of the unfolded protein response. It protects neuronal cells and retinal cells from endoplasmic reticulum (ER)-stress induced cell death. It is a member of thiocyanates, an aromatic ketone and a member of catechols.
+Properties:safety: Irritant
+smiles: C1=CC(=C(C=C1C(=O)CSC#N)O)O
+formula: C9H7NO3S
+chem_properties: Molecular Weight: 209.22 g/mol
+XLogP3: 1.6
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 3
+Exact Mass: 209.01466426 Da
+Monoisotopic Mass: 209.01466426 Da
+Topological Polar Surface Area: 107
+Heavy Atom Count: 14
+Formal Charge: 0
+Complexity: 260
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

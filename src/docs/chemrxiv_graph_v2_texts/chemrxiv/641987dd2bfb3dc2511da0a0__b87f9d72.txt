@@ -1,0 +1,12 @@
+Description:
+Contains linear C(sp1) triple CC bonds.
+
+Text:
+In 3C and 2H diamond, as well as in the extended lattice polytypes, the valence 4 electrons (2s2, 2p2) 
+arrange in tetrahedra with sp3like hybridization; note that this term, as well as other carbon 
+hybridizations (sp2 and sp1), are common in organic chemistry, and less so in the solid state 
+chemistry; nevertheless, they are useful for establishing the chemical description of the bonding and 
+the resulting physical and chemical properties. For applications such as electronics, the physical properties of diamond can be modified by 
+introducing trigonal C(sp2)  double CC bonds as in ethene  and linear C(sp1)  triple CC bonds as 
+in acetylene  on the one hand, and by working on the particle size as in nanodiamonds, on the other 
+hand.

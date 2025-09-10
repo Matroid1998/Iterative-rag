@@ -1,0 +1,24 @@
+Name: SYBR Green I
+Text:
+Properties:safety: Health Hazard
+smiles: CCCN(CCCN(C)C)C1=[N+](C2=CC=CC=C2C(=C1)/C=C/3\N(C4=CC=CC=C4S3)C)C5=CC=CC=C5
+formula: C32H37N4S+
+chem_properties: Molecular Weight: 509.7 g/mol
+XLogP3: 8.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 9
+Exact Mass: 509.27389337 Da
+Monoisotopic Mass: 509.27389337 Da
+Topological Polar Surface Area: 38.9
+Heavy Atom Count: 37
+Formal Charge: 1
+Complexity: 734
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

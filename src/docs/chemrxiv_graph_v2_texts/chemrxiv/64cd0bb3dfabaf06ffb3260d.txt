@@ -1,0 +1,13 @@
+Description:
+Used in peptide chemistry for isosteric replacement with SO2.
+
+Text:
+The scientific introduction of the term isostere by Langmuir in 1919 1 and its application to 
+biological activity by Friedman in 1951 2 is one of the cornerstone concepts in modern MedChem 
+3. Despite the seeming simplicity of the concept, its practical using sometimes seriously limited by 
+synthetic accessibility of corresponding speculatively generated isosterestructures. As an example 
+of the statement the benzene isosteres story could be highlighted 4. Therefore, the generating of 
+isosteric structures, which could be easily obtained by the changing of readily accessible starting 
+materials using the general approach to parent structure is promising for modern MedChem. For 
+example, the isosteric replacement of CO with SO2 was widely used in peptide chemistry via 
+exchanging of the corresponding amino acids to sulpha analogues 5,6.

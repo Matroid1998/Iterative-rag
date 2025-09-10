@@ -1,0 +1,52 @@
+Description:
+Used in the direct electrosynthesis of H2O2 through the two-electron oxygen reduction reaction.
+
+Text:
+51 
+Hydrogen peroxide (H2O2), renowned for its green and environmentally friendly 
+52 
+properties, has catalyzed extensive research efforts aimed at developing synthetic 
+53 
+methods, largely fueled by its diverse industrial applications, including textile 
+54 
+bleaching1, chemical synthesis2, papermaking3, pharmaceuticals4, and water 
+55 
+purification5. Currently, industrial H2O2 production primarily depends on the costly and 
+56 
+polluting RiedlPfleiderer process, involving alkyl anthraquinone oxidation and 
+57 
+hydrogenation.69 Fortunately, the direct electrosynthesis of H2O2 from H2 and O2 
+58 
+through the twoelectron oxygen reduction reaction (2e ORR) presents a promising 
+59 
+alternative. This strategy offers lower energy consumption, environmental friendliness, 
+60 
+and reduced transportation and storage risks, making it suitable for smallscale and even 
+61 
+in situ production.1012 Despite larger development (e.g.
+
+
+---
+
+Description:
+Activation relies on metal site backdonation for the ORR process.
+
+Text:
+noblemetal,1315 metal oxide,16
+62 
+18 carbon material19, 20 and so on) regarding the rational design of electrocatalysts for 
+63 
+2e ORR, however, available electrocatalysts for 2e ORR suffer from limited activity 
+64 
+and selectivity, hindering widespread commercial adoption. Thus, finding a high
+65 
+performance electrocatalyst for 2e ORR is crucial as an alternative to the Riedl
+66 
+Pfleiderer method. 67 
+Essentially, H2O2 is partially produced from O2 through the ORR process on the 
+68 
+cathode. O2 activation relies on metal site backdonation; higher backdonation yields 
+69 
+two adsorbed oxygen, while lower levels fail to activate O2. Hence, optimizing back
+70 
+donation of metal site is crucial for catalyst design to enhance H2O2 performance.

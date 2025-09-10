@@ -1,0 +1,34 @@
+Name: Glutamic Acid
+Text:
+L-glutamic acid is an optically active form of glutamic acid having L-configuration. It has a role as a nutraceutical, a micronutrient, an Escherichia coli metabolite, a mouse metabolite, a ferroptosis inducer and a neurotransmitter. It is a glutamine family amino acid, a proteinogenic amino acid, a glutamic acid and a L-alpha-amino acid. It is a conjugate acid of a L-glutamate(1-). It is an enantiomer of a D-glutamic acid.
+A peptide that is a homopolymer of glutamic acid.
+L-Glutamate is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+L-Glutamic acid is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Glutamic Acid has been reported in Streptomyces akiyoshiensis, Pinus densiflora, and other organisms with data available.
+Glutamic Acid is a non-essential alpha-amino acid and excitatory neurotransmitter. Glutamic acid can serve as a precursor for the synthesis of the inhibitory neurotransmitter gamma-aminobutyric acid (GABA).
+GLUTAMIC ACID is a small molecule drug with a maximum clinical trial phase of III and has 1 investigational indication.
+Glutamic acid (Glu), also referred to as glutamate (the anion), is one of the 20 proteinogenic amino acids. It is not among the essential amino acids. Glutamate is a key molecule in cellular metabolism. In humans, dietary proteins are broken down by digestion into amino acids, which serves as metabolic fuel or other functional roles in the body. Glutamate is the most abundant fast excitatory neurotransmitter in the mammalian nervous system. At chemical synapses, glutamate is stored in vesicles. Nerve impulses trigger release of glutamate from the pre-synaptic cell. In the opposing post-synaptic cell, glutamate receptors, such as the NMDA receptor, bind glutamate and are activated. Because of its role in synaptic plasticity, it is believed that glutamic acid is involved in cognitive functions like learning and memory in the brain. Glutamate transporters are found in neuronal and glial membranes. They rapidly remove glutamate from the extracellular space. In brain injury or disease, they can work in reverse and excess glutamate can accumulate outside cells. This process causes calcium ions to enter cells via NMDA receptor channels, leading to neuronal damage and eventual cell death, and is called excitotoxicity. The mechanisms of cell death include: * Damage to mitochondria from excessively high intracellular Ca2+. * Glu/Ca2+-mediated promotion of transcription factors for pro-apoptotic genes, or downregulation of transcription factors for anti-apoptotic genes. Excitotoxicity due to glutamate occurs as part of the ischemic cascade and is associated with stroke and diseases like amyotrophic lateral sclerosis, lathyrism, and Alzheimer's disease. glutamic acid has been implicated in epileptic seizures. Microinjection of glutamic acid into neurons produces spontaneous depolarization around one second apart, and this firing pattern is similar to what is known as paroxysmal depolarizing shift in epileptic attacks. This change in the resting membrane potential at seizure foci could cause spontaneous opening of voltage activated calcium channels, leading to glutamic acid release and further depolarization.
+A non-essential amino acid naturally occurring in the L-form. Glutamic acid is the most common excitatory neurotransmitter in the CENTRAL NERVOUS SYSTEM.
+See also: Monosodium Glutamate (active moiety of); Glutamic Acid Hydrochloride (has salt form); Glatiramer Acetate (monomer of) ... View More ...
+Properties:safety: Corrosive
+smiles: C(CC(=O)O)[C@@H](C(=O)O)N
+formula: C5H9NO4
+chem_properties: Molecular Weight: 147.13 g/mol
+XLogP3: -3.7
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 4
+Exact Mass: 147.05315777 Da
+Monoisotopic Mass: 147.05315777 Da
+Topological Polar Surface Area: 101
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 145
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

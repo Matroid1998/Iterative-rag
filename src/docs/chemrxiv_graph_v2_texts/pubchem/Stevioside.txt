@@ -1,0 +1,27 @@
+Name: Stevioside
+Text:
+Stevioside is a diterpene glycoside that is rubusoside in which the hydroxy group at position 2 of the allylic beta-D-glucoside has been converted to the corresponding beta-D-glucoside. It is a natural herbal sweetener that is 250-300 times sweeter than sucrose (though with a bitter aftertaste), extracted from the Stevia rebaudiana plant native to South America. It has a role as a sweetening agent, an antioxidant, an antineoplastic agent, a hypoglycemic agent, an anti-inflammatory agent and a plant metabolite. It is a diterpene glycoside, an ent-kaurane diterpenoid, a beta-D-glucoside, a tetracyclic diterpenoid and a bridged compound. It is functionally related to a steviol and a rubusoside.
+Stevioside has been reported in Bos taurus, Asteraceae, and Stevia rebaudiana with data available.
+See also: Stevia rebaudiuna Leaf (part of).
+Properties:safety: Irritant
+smiles: C[C@@]12CCC[C@@]([C@H]1CC[C@]34[C@H]2CC[C@](C3)(C(=C)C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)(C)C(=O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O
+formula: C38H60O18
+chem_properties: Molecular Weight: 804.9 g/mol
+XLogP3: -1.2
+Hydrogen Bond Donor Count: 11
+Hydrogen Bond Acceptor Count: 18
+Rotatable Bond Count: 10
+Exact Mass: 804.37796506 Da
+Monoisotopic Mass: 804.37796506 Da
+Topological Polar Surface Area: 295
+Heavy Atom Count: 56
+Formal Charge: 0
+Complexity: 1450
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 21
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

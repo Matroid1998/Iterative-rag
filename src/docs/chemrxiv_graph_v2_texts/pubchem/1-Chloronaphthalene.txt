@@ -1,0 +1,25 @@
+Name: 1-Chloronaphthalene
+Text:
+1-chloronaphthalene is a clear colorless to amber oily viscous liquid. (NTP, 1992)
+Properties:safety: Irritant
+smiles: C1=CC=C2C(=C1)C=CC=C2Cl
+formula: C10H7Cl
+chem_properties: Molecular Weight: 162.61 g/mol
+XLogP3: 4.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 162.0236279 Da
+Monoisotopic Mass: 162.0236279 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 133
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

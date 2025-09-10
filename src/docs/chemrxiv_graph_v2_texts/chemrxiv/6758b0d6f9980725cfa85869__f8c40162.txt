@@ -1,0 +1,17 @@
+Description:
+Metals that form alkyl derivatives with high polarization and electropositive character.
+
+Text:
+Alkyl derivatives of alkaline earth (AE) and rare earth metals (RE) are highly desirable 
+synthons of great utility in synthetic transformations and as organometallic starting materials.1
+4 The chemistry of AE and RE alkyl is dominated by the high polarization of the MC 
+interaction, which makes the carbanion extremely nucleophilic.1,4,5 This aspect, combined with 
+the high electropositive character of the AE and RE metals, has a detrimental effect on the 
+stability of alkyl derivatives, leading often to facile decomposition via inter and intra
+molecular CH activation,  and hydride elimination, solvent degradation and more.1,5 To 
+counter these drawbacks, several strategies can be employed, which include 1) kinetic 
+saturation of the metal coordination sphere; 2) chelation; 3) hyperconjugation to stabilize the 
+methanide carbanion, CR3.6 Iminophosphoranomethanide ligands of the type (R
+NP(Ph)2)2CH (RBIPMH, R  trimethylsilyl, isopropyl, cyclohexyl, aryl) combine all of 
+these aspects, and as a result have been used extensively to prepare alkaline earth (AE)715 and 
+rare earth (RE) methanide complexes (Figure 1),16 e.g.

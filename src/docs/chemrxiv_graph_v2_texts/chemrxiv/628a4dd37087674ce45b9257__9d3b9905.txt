@@ -1,0 +1,13 @@
+Description:
+A perovskite material with a black phase that is prone to stability and reproducibility issues due to crystallization challenges.
+
+Text:
+A wide range of processing methodologies and additives have been explored to synthe
+size the black perovskite phase with the primary goal to make a good quality defectfree
+blackFAPbI3 and avoid the formation of the yellow phase. However, perovskite electronics
+often suffer from the problem of stability and reproducibility. This is mainly due to the
+lack of control over the crystallization process where several fundamental questions yet re
+main unanswered, such as (a) why a direct conversion of yellow to black phase by heating
+results in low efficiencies and less stable PSCs, (b) how and what kind of polytypes, stacking
+faults and defects are formed during the crystallization of FAPbI3, (c) what is the atomic
+structure of grain boundaries.

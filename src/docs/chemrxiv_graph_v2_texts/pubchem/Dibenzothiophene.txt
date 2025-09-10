@@ -1,0 +1,27 @@
+Name: Dibenzothiophene
+Text:
+Dibenzothiophene is a mancude organic heterotricyclic parent that consists of a thiophene ring flanked by two benzene rings ortho-fused across the 2,3- and 4,5-positions. It has a role as a keratolytic drug. It is a member of dibenzothiophenes and a mancude organic heterotricyclic parent.
+Dibenzothiophene has been reported in Rosa with data available.
+Dibenzothiophene is a sulfur-containing polycyclic aromatic hydrocarbon (PAH) derivate consisting of 3 fused rings with keratolytic activity. Dibenzothiophene is a component of petroleum oils.
+Properties:safety: Acute Toxic and Irritant and Environmental Hazard
+smiles: C1=CC=C2C(=C1)C3=CC=CC=C3S2
+formula: C12H8S
+chem_properties: Molecular Weight: 184.26 g/mol
+XLogP3: 4.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 184.03467143 Da
+Monoisotopic Mass: 184.03467143 Da
+Topological Polar Surface Area: 28.2
+Heavy Atom Count: 13
+Formal Charge: 0
+Complexity: 170
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

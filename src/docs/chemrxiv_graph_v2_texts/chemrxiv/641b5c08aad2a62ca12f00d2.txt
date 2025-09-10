@@ -1,0 +1,12 @@
+Description:
+Can be recovered by stripping after shifting the pH of the solution towards the alkaline side.
+
+Text:
+ANSOL is usually sold to mining industries, but there 
+is an inconsistent demand and the existing methods involve thermal degradation of ANSOL, 
+which is inefficient and not environmentally friendly. NH3 can be recovered from ANSOL by 
+stripping after shifting the pH of the solution towards the alkaline side. This results in a large 
+concentration of NO3 stream that is environmentally hazardous and it needs to be treated. In this study, we focus on coreducing NO3 and CO2 electrochemically to synthesize urea. Direct 
+electrochemical coreduction of NO3 and CO2 is attractive as green urea can be produced in a 
+decentralized manner with lower capital costs. Also, this study would help us provide insights 
+into the electrochemical CN coupling, which is not explored extensively in the literature.

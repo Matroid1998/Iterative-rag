@@ -1,0 +1,13 @@
+Description:
+Ions that move and are stored in electrodes within lithium-ion batteries.
+
+Text:
+Also, LIBs serve as the main energy source for an increasing number 
+of electric cars and portable electronics.1 While research in LIBs have progressed to a great 
+extent, the basic idea for the research remains the same decrease in the size of the battery, 
+making the battery affordable and safe to use, and to increase the cyclic durability.2 Typically, 
+an anode, a cathode, a porous separating membrane and an electrolyte form the constituents of 
+an LIB. The electrodes (cathode and anode) facilitate the movement and storage of the lithium 
+ions through the conducting electrolyte. The porous separating membrane acts as a physical 
+barrier to avoid contact between the cathode and anode while allowing movement of ions to 
+prevent thermal runway.

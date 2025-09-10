@@ -1,0 +1,10 @@
+Description:
+A gas that can cause massive explosions when ignited, particularly in nuclear accidents.
+
+Text:
+However, if 
+there is a loss in coolant due to excessive heat, melting of the fuel rods and ignition of radiolytically generated 
+hydrogen may occur. These massive hydrogen explosions following meltdown events are the primary source of 
+structural damage in major nuclear accidents such as the Chernobyl and Fukushima disasters. As part of the fourth generation of nuclear reactors (Gen IV), more robust fuels, and coolants with higher 
+condensed phase ranges are being investigated. This design ethos was presumably chosen to mitigate meltdown 
+possibilities present in Gen II and III reactors.

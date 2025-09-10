@@ -1,0 +1,26 @@
+Name: Ketene
+Text:
+Ketene appears as a colorless highly reactive gas with a penetrating odor. mp: -150 °C, bp: -56 °C. Reacts violently with water. Soluble in diethyl ether and acetone. Severely irritates the eyes, the skin and the respiratory tract. Used is the manufacture of acetic anhydride, sorbic acid, cinnamic acids, chloroacetyl chloride and other materials. Readily polymerizes and cannot be shipped or stored. Is obtained instead as needed from diketene.   DIKETENE (CAS: 674-82-8; Formula: C4H2O2 ) is a colorless liquid with a pungent odor. mp: -6.5 °C; bp: 127 °C. Density 1.08 g/cm3. Reacts violently with water. Is obtained from the dimerization of ketene and can be stored and transported under refrigeration. A severe lachrymator (irritates the eyes, the respiratory tract, and the skin as well). Depolymerizes at 650 °C to give ketene.
+Ethenone is a ketene.
+Properties:safety: Flammable and Corrosive and Acute Toxic and Irritant
+smiles: C=C=O
+formula: C2H2O
+chem_properties: Molecular Weight: 42.04 g/mol
+XLogP3: 0.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 42.010564683 Da
+Monoisotopic Mass: 42.010564683 Da
+Topological Polar Surface Area: 17.1
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 25.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: No 
+

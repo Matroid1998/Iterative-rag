@@ -1,0 +1,20 @@
+Description:
+Present in the aromatic fraction obtained by SPE in petroleum analysis.
+
+Text:
+Traditionally, petroleum analysis is based on prefractionation using silica 
+58 
+chromatography or solidphase extraction (SPE) cartridges followed by GCMSn.2023 SPE is 
+59 
+a lowefficiency separation technique, depending on chemical selectivity. This allows crude 
+60 
+isolation of the aromatics fraction, but not separation of the compounds within it. Thus, an 
+61 
+aromatic fraction obtained by SPE contains both the benzenes, naphthalenes and larger rings. 62 
+Here, a typical crude oil will have a high abundance of monoaromatics, with diminishing 
+63 
+concentrations with increasing ring size. The appropriate GC oncolumn concentration of the 
+64 
+naphthalenes typically results in the larger ring systems being below the limit of detection 
+65 
+(LOD).

@@ -1,0 +1,15 @@
+Description:
+Represent diastereomerism with E and Z configurations.
+
+Text:
+Nonsuperimposable structures of the same molecular 
+formula can be enantiomers, diastereomers, conformers and 
+constitutional isomers (structural isomers). As energies of 
+enantiomers are identical, they are excluded from our 
+investigation. For the other three types of isomerism, E and Z 
+configurations in AA compounds and halocyclopropanes 
+represent diastereomerism, gauche and anti conformers in AA 
+compounds represent conformational isomerism and ortho, 
+meta and para structures in halobenzenes represent 
+constitutional isomerism. 2. Materials and methods 
+2.1.

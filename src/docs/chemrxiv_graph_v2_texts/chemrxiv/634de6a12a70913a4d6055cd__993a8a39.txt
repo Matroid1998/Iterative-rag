@@ -1,0 +1,21 @@
+Description:
+Doped into carbon materials to create durable, low-cost, high-activity catalysts for oxygen reduction.
+
+Text:
+In light of the burgeoning availability of low cost solar electricity, a particularly timely 
+challenge is the generation of materials that competently catalyze fuelforming small molecule 
+transformations which enable the storage of electricity as chemical energy.16 This chemical 
+energy subsequently requires a corresponding set of materials to catalyze the conversion of this 
+chemical energy back into electricity in a device known as a fuel cell.79 One of these reactions, 
+the reduction of oxygen to water, is essential to proton exchange membrane fuel cell 
+technologies, but significant research efforts are still required to make these technologies a 
+reality.10 Platinum remains the bestinclass catalyst for O2 reduction, but its relatively high cost 
+and low abundance are prohibitive to widespread adoption.10 In its place, various firstrow 
+transition metal and metalfree alternatives have been considered.1113 
+Among these alternative catalyst paradigms, nitrogendoped carbon materials stand out as 
+durable, lowcost, highactivity and highefficiency catalysts for oxygen reduction.14,15 These 
+structures come in various forms, including nitrogendoped fullerenes, carbon nanotubes, and 
+graphene.16,17 Regardless of type, though, these materials are intrinsically heterogeneous, 
+featuring mixtures of pyridinelike, pyrrolelike and graphiticquaternary nitrogen sites.18 This has 
+complicated the study of active sites in these catalysts, rendering the rational iteration and 
+improvement of these materials more difficult.

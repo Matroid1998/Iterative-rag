@@ -1,0 +1,15 @@
+Description:
+Divalent anions that form part of the BX64 octahedra in halide perovskites.
+
+Text:
+Twodimensional (2D) halide perovskites (HPs) have become an emerging semiconductor 
+platform because of their intriguing optoelectronic features originating from the distinctive 
+structurescompositions as well as synthetic feasibility. The large organic cations, called 
+spacers, confine the inorganic lattice  a BX64 octahedra (B and X are divalent metal cations 
+and halides, respectively) as a unit cell  into a monolayer thickness as a RuddlesdenPopper 
+(RP) structure (chemical formula of L2BX4)1. The distinctive organicinorganic hybrid structure, 
+where the organic cations serve as a dielectric barrier, renders a quantumwell electronic 
+structure manifesting in sharp and strong excitonic emissions that are not observed in 3D HP 
+counterparts1, 2. The feasibility of synthesizing 2D HPs via solution processing at low 
+temperatures presents significant advantages compared to conventional 2D materials that 
+require energyconsuming synthetic conditions3, 4.

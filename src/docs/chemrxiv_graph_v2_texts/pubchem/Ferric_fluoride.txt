@@ -1,0 +1,24 @@
+Name: Ferric fluoride
+Text:
+Ferric fluoride is a green crystalline solid. It is slightly soluble in water. The primary hazard is the threat to the environment. Immediate steps should be taken to limit its spread to the environment. It is used in ceramics.
+Properties:safety: Corrosive and Acute Toxic and Irritant
+smiles: F[Fe](F)F
+formula: F3Fe
+chem_properties: Molecular Weight: 112.84 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 112.930145 Da
+Monoisotopic Mass: 112.930145 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

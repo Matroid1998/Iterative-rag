@@ -1,0 +1,26 @@
+Description:
+Elemental basis for novel allotropes with specific mechanical and thermal properties.
+
+Text:
+Intensive research efforts are currently underway to identify novel carbon allotropes with the goal 
+of achieving specific mechanical and thermal properties approaching those of diamond. For this 
+purpose, modern materials research programs based on evolutionary crystallography are used to 
+predict novel allotropes 1. Regarding the carbon database, SACADA 2 is recognized as a 
+reliable one available to all researchers. The novel allotropes are subjected to topology analysis 
+using TopCryst software 3 and then published in the Cambridge Structural Database (CCDC). Despite the help provided by AI in generating carbon stoichiometries and structures, the role of the 
+physicist and chemist remains essential, especially in the crystal chemistry that underlies structural 
+engineering.
+
+
+---
+
+Description:
+Characterized by sp3 hybridization in novel allotropes with original architectures.
+
+Text:
+Within a similar approach, we propose herein two novel carbon allotropes, tetragonal C9 and C12, 
+both characterized by sp3 carbon in original architectures comprising corner and edge sharing 
+tetrahedra. The purpose of this paper is to present their crystal structures and to demonstrate 
+ultrahardness, while also presenting high phonon optical mode frequencies of   40 THz like in 
+diamond and C4, a large electronic band gap, and a temperature evolution of the heat capacity close 
+to that of diamond.

@@ -1,0 +1,13 @@
+Description:
+A metal used in alloying or doping with PGMs to enhance catalytic properties.
+
+Text:
+In these 
+approaches, PGMs are alloyed or doped with other metals (e.g., Fe, Co, Ni, Mo) 5,6, or are 
+deposited onto an oxide surface to create a strong metalsupport interaction (e.g., PdCeOx, Ru
+TiO2)7,8. Despite these efforts, few materials outperform the benchmark PtRu alloy in terms of 
+both mass activity and intrinsic activity9. The interfacial water has recently been identified as an important factor that influence the kinetics 
+of HORHER. Yet there is a debate on the effects of different interfacial water structures. Wang et 
+al. suggested the weakly hydrogenbonded water formed an ordered structure with cations under 
+biased potential, which facilitated the electron transfer and resulted in higher HER rates 10. Huang 
+et al.

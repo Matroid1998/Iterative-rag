@@ -1,0 +1,14 @@
+Description:
+A layered MOF studied for its electrochemical interface in supercapacitors.
+
+Text:
+The welldefined structures of MOFs would also help to test 
+general design principles for supercapacitors more widely. Design principles for improved supercapacitors should be underpinned by a fundamental 
+understanding of charging mechanisms. Such understanding provides deeper insights into why certain 
+electrode and electrolyte combinations perform better than others, and could inspire new routes to 
+increased performance. To date, only a few computationallyfocussed studies have examined the 
+charging mechanisms of MOFbased supercapacitors, with the first such study modelling the double
+layer structure and charging process of Nibased layered MOFs with a variety of pore sizes using 
+molecular dynamics (MD) simulations.29 More recently, Walsh et al. expanded on this by studying the 
+electrochemical interface of the layered MOF 
+Cu3(HHTP)2 (HHTP

@@ -1,0 +1,26 @@
+Name: 1,3-Dibromopropane
+Text:
+1,3-Dibromopropane is an organobromide compound. Bromine is a halogen element with the symbol Br and atomic number 35. Diatomic bromine does not occur naturally, but bromine salts can be found in crustal rock. (L625)
+See also: 1,3-Dibromo(2-~13~C)propane (annotation moved to).
+Properties:safety: Flammable and Irritant and Environmental Hazard
+smiles: C(CBr)CBr
+formula: C3H6Br2
+chem_properties: Molecular Weight: 201.89 g/mol
+XLogP3: 2.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 2
+Exact Mass: 201.88158 Da
+Monoisotopic Mass: 199.88363 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 12.4
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

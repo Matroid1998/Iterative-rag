@@ -1,0 +1,32 @@
+Description:
+Improves hydrogen poisoning and enhances activity in RuCaH22xOx.
+
+Text:
+of oxygen improved hydrogen poisoning and enhanced activity. It is evidenced by the larger reaction order of 
+hydrogen as the oxygen content increased in RuCaH22xOx. However, excessive oxygen caused the lower 
+electron donation and decreased the activity found in RuCaH1.12O0.44, indicated by the high appEa. It matches 
+that the N2 order is high, and N2 dissociation is more difficult when the oxygen content is x  0.44. Therefore, 
+RuCaH22xOx had the plateau of catalytic activity against the oxygen amount. 0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+0
+10
+20
+30
+40
+50
+Reaction rate (mol h1 g1)
+Oxigen content (mol against Ca)
+(a)
+20
+30
+40
+50
+60
+Intensity (arb. u.)

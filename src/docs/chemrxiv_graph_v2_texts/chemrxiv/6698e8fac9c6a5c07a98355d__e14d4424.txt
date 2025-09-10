@@ -1,0 +1,19 @@
+Description:
+A moiety used in COFs that contributes to photocatalytic hydrogen evolution.
+
+Text:
+In this context, welldefined crystalline covalent organic frameworks10 (COFs) composed of organic building 
+units linked by covalent bonds can act as promising photocatalysts for hydrogen evolution with tunable 
+photophysical and optoelectronic properties.1115 COFs can show light harvesting properties with broad absorption 
+and effective electron transfer to the catalyst surface with enhanced charge mobility.16,17 
+ 2DCOFs contain planar layered framework which can be chemically tuned with diverse functionalities based 
+on varied synthetic modulation.18 Different molecular design strategies involving donoracceptor moieties, 
+photosensitizing entities and pconjugated extended backbone in the building blocks have been explored to 
+synthesize photocatalytic COFs.1,13,1923 Beside these, the interplay of several factors including band gaps, charge 
+carrier generation, transportation and separation, stability, surface area and morphology also affect the 
+photocatalytic performance.24 
+ Different COFs based on numerous moieties such as hydrazone, sulfone, azine, thiophene, cyano, imine, and 
+diacetylene have been reported and showed growing photocatalytic hydrogen evolution rates over the recent 
+years.2330 However, as COFs are built from reversible linkages there are concerns about their longterm stability 
+under photocatalytic conditions.31 Thus, an innovative design approach that can offer functionality, high stability 
+as well as potential for practical applicability is needed.

@@ -1,0 +1,14 @@
+Description:
+Hosts a hypervalent Bi square lattice and is a binary bismuth superconductor.
+
+Text:
+Bi is known to form several stable hypervalent polyan
+ions, such as Bi square network found in LiBi and NaBi but not 
+observed in the isoelectronic NaSb14. Similarly, CaBi2 and the 
+recently reported SrBi2 both host a hypervalent Bi square lattice 
+5,6, which is missing in the isoelectronic CaSb2 7. A number of binary bismuth superconductors are known, in
+cluding Ca11Bi10x 8, CaBi2 9,10, SrBi3 11,12, BaBi3 13, Ba2Bi3 14, 
+LiBi 4,15, NaBi 3, KBi2 1618, RbBi2 18, and CsBi2 19. The latter 
+three compounds are cubic Laves phases, crystallizing in a re
+latively simple MgCu2type structure in which Bi atoms form a 
+pyrochlore (vertex sharing tetrahedral) network (Fig. 1).

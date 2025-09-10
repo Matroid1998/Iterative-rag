@@ -1,0 +1,32 @@
+Name: Nifurtimox
+Text:
+Nifurtimox is a nitrofuran antibiotic.
+Nifurtimox is an antiprotozoal prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of Chagas disease (American Trypanosomiasis), caused by Trypanosoma cruzi, in children who are less than 18 years of age and weigh at least 5.5 lbs. (2.5 kg).
+Chagas disease can be an opportunistic infection (OI) of HIV.
+Chagas disease, caused by a parasite known as Trypanosoma cruzi (T.cruzi), is a vector-transmitted disease affecting animals and humans in the Americas. It is commonly known as American Trypanosomiasis.  The CDC estimates that approximately 8 million people in Central America, South America, and Mexico are infected with T. cruzi, without symptoms. If Chagas disease is left untreated, life-threatening sequelae may result.  Nifurtimox, developed by Bayer, is a nitrofuran antiprotozoal drug used in the treatment of Chagas disease. On August 6 2020, accelerated FDA approval was granted for its use in pediatric patients in response to promising results from phase III clinical trials. Continued approval will be contingent upon confirmatory data. A convenient feature of Bayer's formulation is the ability to divide the scored tablets manually without the need for pill-cutting devices.
+Nifurtimox is a nitrofuran antimicrobial agent used to treat Chagas disease (American trypanosomiasis), a chronic protozoal infection due to Trypanosoma cruzi that can lead to severe disability and death from gastrointestinal and cardiac disease. Nifurtimox is rarely associated with serum aminotransferase elevations during therapy and has not been linked to cases of clinically apparent liver injury.
+Nifurtimox is a nitrofuran derivative with antiprotozoal and potential antineoplastic activities. Nifurtimox is reduced by cytosol enzymes or flavin-containing microsomal enzymes to a highly reactive nitro anion free radical; autooxidation of the nitro anion free radical generates cytotoxic superoxide anion (02-). In addition, nifurtimox-derived nitro anion free radicals may alkylate macromolecules such as nucleic acids and proteins, resulting in the disruption of their structure and function.
+NIFURTIMOX is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2020 and has 4 approved and 2 investigational indications.
+A nitrofuran thiazine that has been used against TRYPANOSOMIASIS.
+Properties:safety: Health Hazard
+smiles: CC1CS(=O)(=O)CCN1/N=C/C2=CC=C(O2)[N+](=O)[O-]
+formula: C10H13N3O5S
+chem_properties: Molecular Weight: 287.29 g/mol
+XLogP3: 1.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 2
+Exact Mass: 287.05759170 Da
+Monoisotopic Mass: 287.05759170 Da
+Topological Polar Surface Area: 117
+Heavy Atom Count: 19
+Formal Charge: 0
+Complexity: 467
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

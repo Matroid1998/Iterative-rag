@@ -1,0 +1,11 @@
+Description:
+Its LJ parameters were optimized to reproduce hydration free energies and molar volume in mixtures with CH4.
+
+Text:
+The LJ parameters of uorine
+were optimized to reproduce the hydration free energies of CF4
+and the molar volume of a 50 mix of CF4 and CH4; subse
+quently, those of HF were optimized to reproduce the hydra
+tion free energy and the molar volume of CHF3. Atomic par
+tial charges were obtained following the GAFF (small molecules)
+1

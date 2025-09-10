@@ -1,0 +1,29 @@
+Name: Thorium
+Text:
+Thorium is a naturally occurring, radioactive substance. In the environment, thorium exists in combination with other minerals, such as silica. Small amounts of thorium are present in all rocks, soil, water, plants, and animals. Soil contains an average of about 6 parts of thorium per million parts of soil (6 ppm). More than 99% of natural thorium exists in the form of thorium-232. It breaks down into two parts-a small part called "alpha" radiation and a large part called the decay product. The decay product is also not stable and continues to break down through a series of decay products until a stable product is formed. During these decay processes, radioactive substances are produced. These include radium and radon. These substances give off radiation, including alpha and beta particles, and gamma radiation. Some rocks in underground mines contain thorium in a more concentrated form. After these rocks are mined, thorium is usually concentrated and changed into thorium dioxide or other chemical forms. After most of the thorium is removed, the rocks are called "depleted" ore or tailings. Thorium is used to make ceramics, gas lantern mantles, and metals used in the aerospace industry and in nuclear reactions. Thorium can also be used as a fuel for generating nuclear energy.
+Thorium is an actinoid atom and a f-block element atom.
+Thorium has been reported in Paris polyphylla var. chinensis with data available.
+thorium is a mineral.
+Thorium is a natural radioactive chemical element with the symbol Th and atomic number 90. In nature, virtually all thorium is found as thorium-232, and it decays by emitting an alpha particle, and has a half-life of about 14.05 billion years (other, trace-level isotopes of thorium are short-lived intermediates of decay chains). It is estimated to be about four times more abundant than uranium in the Earth's crust and is a by-product of the extraction of rare earths from monazite sands. -- Wikipedia.
+A radioactive element of the actinide series of metals. It has an atomic symbol Th, atomic number 90, and atomic weight 232.04. It is used as fuel in nuclear reactors to produce fissionable uranium isotopes. Because of its radioopacity, various thorium compounds are used to facilitate visualization in roentgenography.
+Properties:safety: Oxidizer and Irritant and Health Hazard
+smiles: [Th]
+formula: Th
+chem_properties: Molecular Weight: 232.038 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 232.03805 Da
+Monoisotopic Mass: 232.03805 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 1
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

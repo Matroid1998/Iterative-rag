@@ -1,0 +1,15 @@
+Description:
+Involved in the kinetically sluggish oxygen evolution reaction at the anode of proton exchange membrane water electrolyzers.
+
+Text:
+Protonexchangemembrane water electrolyzers (PEMWEs) provide an attractive solution for 
+producing hydrogen from carbonneutral energy sources. 1 However, the kinetically sluggish 
+oxygen evolution reaction (OER) occurring at the anode causes severe energy losses, requiring 
+the development of active and stable electrocatalysts. 2 The strongly acidic and oxidizing anode 
+environment restricts the choice of catalyst materials to the oxides of platinumgroup metals 
+(PGM), with iridium oxides being the current stateoftheart. 2 Due to the scarcity and cost of 
+httpsdoi.org10.26434chemrxiv202431vk9 ORCID httpsorcid.org0000000238571162 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0
+
+3 
+iridium, largescale deployment of PEMWE technologies could face an iridium supply 
+bottleneck.

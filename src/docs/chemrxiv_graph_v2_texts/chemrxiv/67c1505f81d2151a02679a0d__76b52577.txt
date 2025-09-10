@@ -1,0 +1,12 @@
+Description:
+A rare earth element involved in the redox properties of rare earth oxides.
+
+Text:
+The ability to manipulate electronic structures in functional materials has dramatically advanced 
+their use in energy conversion, catalysis, and environmental applications1,2. Among these, 
+reducible rare earth oxides (REO2x, where RE  Ce, Pr, Tb) exhibit unique surface redox 
+properties, which play a crucial role in heterogeneous catalysis3, solid oxide fuel cells4, and solar
+driven fuel generation5. Central to these redox properties is the formation and annihilation of 
+oxygen vacancies, which serve as reactive sites for adsorption, charge transfer, and mass transport. These processes are intricately linked to the electronic structure of 4f bands in rare earth oxides, 
+where charge transfer between surface oxygen (O 2p) and the adjacent rare earth (RE 4f) orbitals 
+drives redox activity10.

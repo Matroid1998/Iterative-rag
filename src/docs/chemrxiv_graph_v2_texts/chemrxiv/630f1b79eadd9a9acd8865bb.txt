@@ -1,0 +1,30 @@
+Description:
+Involved in reversible addition to metal sites, fundamental in catalysis.
+
+Text:
+The reversible addition of H2 to metal sites is a fundamental step in catalysis. The importance 
+of the reversibility of this step is perhaps most clearly illustrated in hydrogenfordeuterium 
+(HD) exchange reactions. In its simplest form, HDexchange involves the selective isotopic 
+labelling of molecules through reaction with D2. Catalysts which promote this type of HD
+exchange must be capable of reversible activation of H2 (and its isotopomers). 2 
+In recent years, there has been growing interest in the use of transition metal complexes 
+bearing main group ligands for small molecule activation. Several systems incorporating B,1
+8 AlIn,912, Zn1315 and Sn16 ligands have been reported for H2 activation.17 A number of 
+potential mechanisms for H2 activation, some of which involve cooperative behaviour of the 
+main group Scheme 1.
+
+
+---
+
+Description:
+Involved in reversible reactions with various metal complexes.
+
+Text:
+Reversible reaction of 1 with H2 to form PdMg and 22 ligand, have 
+been discussed.18 Defined examples of reversible behaviour are more limited, the majority of 
+these involve boronbased ligands. For example, SaboEtienne and coworkers reported the 
+reversible addition of H2 to a ruthenium complex supported by a borylene ligand.19 Peters and 
+coworkers documented reversible reactions of H2 to a nickelborane, ironborane, and cobalt
+borane complexes.2,46 More recently, Okuda and coworkers reported the reversible reaction 
+of H2 with a GaZn compound, mediated by changes in solvent polarity.20 Reversible 
+dihydrogen activation by these systems offers a potential approach to catalytic HDexchange. However, reports of such reactivity are limited.

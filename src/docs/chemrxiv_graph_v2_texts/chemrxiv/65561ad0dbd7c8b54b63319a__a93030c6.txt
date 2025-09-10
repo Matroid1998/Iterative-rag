@@ -1,0 +1,13 @@
+Description:
+A greenhouse gas that requires high energy to activate its strong CH bonds.
+
+Text:
+. Methane, the secondmost prominent greenhouse gas (GHG), contributes to approximately 
+1620 of global GHG emissions1. Converting methane to valuable chemicals (e.g., methanol) is 
+seen as a key strategy to reduce methane emissions and therefore has great environmental 
+significance and potential economic value. However, the direct conversion of methane to methanol 
+is particularly challenging due to the high energy required to activate the strong CH bonds of 
+methane, which requires an efficient catalyst to lower the energy barrier, together with the 
+thermodynamic favorability of methanol overoxidation to CO22, 3. The optimal catalysts for 
+methanetomethanol conversion need to satisfy numerous criteria, driving an exhaustive search 
+of catalytic materials4, 5.

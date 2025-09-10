@@ -1,0 +1,11 @@
+Description:
+Compounds used in DAC technologies for their strong affinity for CO2.
+
+Text:
+To date, DAC technologies have predominantly relied on chemisorption of CO2 using amines and solid 
+alkali hydroxides, due to their strong affinity for CO2.5,6 However, the regeneration of adsorbents is the 
+dominant source of the total operational costs.7,8 To mitigate these issues, physisorptionbased materials 
+with weaker CO2 interactions have been explored to reduce regeneration costs with repeated usage.9 
+Among these, metalorganic frameworks (MOFs) stand out due to their high surface area and remarkable 
+tunable properties.10,11 However, the chemical space for forming MOFs is vast due to the large number of 
+possible chemical building blocks and topologies.

@@ -1,0 +1,34 @@
+Description:
+Used as an iron precursor in CVD processes.
+
+Text:
+The chemical 
+process from precursor to thin film always involves surface reactions and often also gas phase 
+reactions.2 CVD processes of elemental electropositive metals, such as Al, Fe, and Ti, typically 
+requires high deposition temperatures to overcome the thermodynamical barrier associated with 
+reducing them from a positive valance in the precursor molecule to a zero valent state in the 
+film.3 An alternative to high thermal energy is to supply the energy partly by a plasma discharge, 
+utilizing free electrons, ions, photons, radicals and excited species to enable alternative 
+reactions paths.4 
+We have recently presented a CVD process where we used the metallocenes ferrocene, FeCp2, 
+cobaltocene, CoCp2, and nickelocene, NiCp2, as iron, cobalt, and nickel precursors, 
+respectively, and utilized the free electrons in an argon (Ar) plasma as reducing agents to deposit 
+iron, cobalt, and nickel films without external heating.5 We refer to the process as electron CVD 
+(eCVD).
+
+
+---
+
+Description:
+A precursor used in plasma CVD processes, with its plasma chemistry and decomposition paths being crucial for film growth.
+
+Text:
+This is 
+supported by our recent QCM findings where we saw a mass increase after the plasma pulse.7 
+For the eCVD process, it is a vital step to understand the plasma chemistry of FeCp2 in order 
+to in the future connect the plasma chemistry to the film growth. For plasma CVD processes 
+using FeCp2 as a precursor and especially those also utilizing electrons, this paper can therefore 
+give insight into the plasma chemistry and plasma decomposition paths for FeCp2. FeCp2 decomposition has so far not been studied in eCVD, i.e., Ar plasma in the pressure range 
+of 3050 Pa but there are a few reports using other conditions. For example, FeCp2 
+decomposition have previously been studied by photolytic,8 femtosecondnanosecond laser 
+httpsdoi.org10.26434chemrxiv20244kl15v2 ORCID httpsorcid.org0000000222484291 Content not peerreviewed by ChemRxiv.

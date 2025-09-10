@@ -1,0 +1,13 @@
+Description:
+Produced in the cathodic hydrogen evolution reaction (HER).
+
+Text:
+It consists of two halfreactions, 
+anodic oxygen evolution reaction (OER) and cathodic hydrogen evolution reaction (HER). OER involves sluggish kinetics4, which takes place at a theoretical potential of 1.23 V under 
+standard conditions. OER has a high activation energy barrier for OO bond formation that is a 
+significant bottleneck in the efficiency of many energies storage technologies5, like 
+rechargeable metalair batteries and hydrogen production from electrocatalytic water splitting 
+reaction. The problem of efficiency of the water splitting reaction can be solved by tuning anodic water 
+oxidation with the simultaneous oxidation of other more readily oxidizable species like 
+alcohol6,7. Owing to the good electrochemical activity, availability, and biodegradability of 
+CH3OH and C2H5OH, both are beneficial as an alternative source of energy8.

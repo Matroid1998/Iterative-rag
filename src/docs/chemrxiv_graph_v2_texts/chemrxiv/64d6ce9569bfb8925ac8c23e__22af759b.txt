@@ -1,0 +1,13 @@
+Description:
+A cathode material used in lithium-ion batteries.
+
+Text:
+Lithiumion batteries have been the gold standard and ubiquitous driving force behind almost
+all electronic devices for over two decades.1,2 A typical lithiumion battery consist of a
+graphite anode, a transition metal oxide cathode, and an electrically insulating and ionically
+conducting nonaqueous organic electrolyte that acts as an ionic path between the two.3,4
+One key to understanding a batterys electrochemistry is its electrodeelectrolyte interface,
+which controls critical aspects of performance and is thus a target for improvement.5,6 The
+decomposition of organic electrolyte molecules at the electrode surface yields a passivation
+2
+httpsdoi.org10.26434chemrxiv2023d4mq1v2 ORCID httpsorcid.org0000000224890090 Content not peerreviewed by ChemRxiv. License CC BY 4.0

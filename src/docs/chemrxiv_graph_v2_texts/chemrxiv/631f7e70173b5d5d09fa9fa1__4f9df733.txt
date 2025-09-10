@@ -1,0 +1,12 @@
+Description:
+Forms single atoms in Pt-containing catalysts, creating a favorable interfacial water structure.
+
+Text:
+Comparing to the carbon blacksupported counterparts, the 
+PGMpNC catalysts exhibited much higher HOR activity. Microscopic, spectroscopic, and 
+electrochemical investigations revealed the multiple roles of the the pNC support. In particular, 
+this support leads to the formation of Pt single atoms (SAs) for Ptcontaining catalysts. These Pt 
+SAs creates a favorable interfacial water structure. The optimized catalyst, PtRupNC, has the 
+highest reported intrinsic activity and mass activity in alkaline condition. An HEMFC with a low 
+loading of this PtRupNC HOR catalyst (0.16 mgPGMcm2) and a commercial FeNC ORR 
+catalyst achieves a peak power density of 1.46 Wcm2.

@@ -1,0 +1,18 @@
+Description:
+A hyperpolarized compound used in MRI to detect early stages of prostate and breast cancer.
+
+Text:
+Dynamic nuclear polarization (DNP)6,7 is the most elaborate 
+HP method with applications from proteomics8 to realtime in 
+vivo metabolomics.9,10 The rapid development of dissolution 
+DNP (dDNP) was triggered by the discovery of fast in vivo 
+conversion of hyperpolarized 113Cpyruvate (113CPyr) to 1
+13Clactate (113CLac) in some malignant tumors and 
+inflammations, known as the Warburg effect.11 Administration 
+of hyperpolarized 113CPyr and monitoring metabolic 
+conversion by MRI in vivo is considered to be a promising 
+modality to detect early stages of prostate and breast cancer.12 
+However, the main drawback of dDNP (disregard the high price) 
+is its relatively low hyperpolarization throughput, which for 
+commercial systems is 1 hour per sample while the lifetime of 
+HP 113Cpyruvate is only 1 minute.

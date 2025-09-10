@@ -1,0 +1,36 @@
+Description:
+An ionic liquid with a melting point lower than 100°C, known for enhanced electrochemical stability.
+
+Text:
+Owing
+to the complexity of battery systems and because many ana
+lytical methods are not applicable for (in situ) studies of elec
+trochemical systems, there is a demand for studies on well
+dened model systems in order to understand the interactions
+and reactions at different interfaces. In recent years, the use of ionic liquids (ILs) as elec
+trolytes has attracted increasing attention.24 Ionic liquids,
+which are dened as salts with a melting point lower than
+100C, offer a variety of advantages, including an en
+hanced electrochemical stability. Nevertheless, there are
+reports that ILs decompose at low electrode potentials.57
+One of the most studied ILs is N,Nbutylmethylpyrrolidinum
+bis(triuoromethylsulfonyl)imide (BMPTFSI).
+
+
+---
+
+Description:
+A compound studied for its interaction with metallic Li on a HOPG substrate.
+
+Text:
+We rst present and discuss the results of systematic XPS
+measurements on the interaction of a multilayer lm of molec
+ularly adsorbed BMPTFSI lm a HOPG substrate with in
+creasing amounts of metallic Li evaporated on top of it (sec
+tion II A). Next we apply DFT calculations to explore the
+thermodynamic stability of possible decomposition products
+and kinetic barriers for their formation (section II B and sec
+tion II C). Subsequently, we compute core level binding en
+ergies of probable reaction products and compare these with
+the experimental ndings in the XPS experiments to unam
+biguously identify the products and longliving intermediates

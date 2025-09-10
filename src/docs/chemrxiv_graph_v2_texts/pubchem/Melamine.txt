@@ -1,0 +1,28 @@
+Name: Melamine
+Text:
+Melamine appears as colorless to white monoclinic crystals or prisms or white powder. Sublimes when gently heated. (NTP, 1992)
+Melamine is a trimer of cyanamide, with a 1,3,5-triazine skeleton. It has a role as a xenobiotic metabolite. It is functionally related to a cyanamide. It is a conjugate base of a melamine(1+).
+Melamine has been reported in Apis cerana, Euglena gracilis, and Aeromonas veronii with data available.
+Melamine is an organic base and a trimer of cyanamide, with a 1,3,5-triazine skeleton. Like cyanamide, it contains 66% nitrogen by mass and, if mixed with resins, has fire retardant properties due to its release of nitrogen gas when burned or charred, and has several other industrial uses. Melamine is also a metabolite of cyromazine, a pesticide. It is formed in the body of mammals who have ingested cyromazine. It has been reported that cyromazine can also be converted to melamine in plants. Melamine is described as Harmful if swallowed, inhaled or absorbed through the skin. Chronic exposure may cause cancer or reproductive damage. Eye, skin and respiratory irritant. However, the short-term lethal dose is on a par with common table salt with an LD50 of more than 3 grams per kilogram of bodyweight.[15] U.S. Food and Drug Administration (FDA) scientists explained that when melamine and cyanuric acid are absorbed into the bloodstream, they concentrate and interact in the urine-filled renal tubules, then crystallize and form large numbers of round, yellow crystals, which in turn block and damage the renal cells that line the tubes, causing the kidneys to malfunction.
+Properties:safety: Health Hazard
+smiles: C1(=NC(=NC(=N1)N)N)N
+formula: C3H6N6
+chem_properties: Molecular Weight: 126.12 g/mol
+XLogP3: -1.4
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 0
+Exact Mass: 126.06539422 Da
+Monoisotopic Mass: 126.06539422 Da
+Topological Polar Surface Area: 117
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 63.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

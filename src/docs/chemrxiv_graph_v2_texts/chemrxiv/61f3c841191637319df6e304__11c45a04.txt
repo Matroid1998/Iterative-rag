@@ -1,0 +1,11 @@
+Description:
+Crystals that become inactive when crosslinked with glutaraldehyde via soaking.
+
+Text:
+CLECs of various enzymes have previously been reported to display high 
+stability regarding temperature and pH, also in extreme conditions, and have been applied for 
+biocatalytic reactions in nonconventional reaction media.2022 The most common crosslinker used 
+for CLEC formation is glutaraldehyde, which reacts primarily with amino groups of lysines, but is also 
+able to crosslink arginine and tyrosine side chains.23 Previous attempts, however, to crosslink HheG 
+crystals with glutaraldehyde via soaking resulted only in inactive CLECs. The high excess of 
+glutaraldehyde during crosslinking likely also resulted in crosslinking of Tyr165 and Arg169 of the

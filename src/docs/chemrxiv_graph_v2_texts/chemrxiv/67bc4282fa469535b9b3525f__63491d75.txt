@@ -1,0 +1,12 @@
+Description:
+A solvent that plays a significant role in the hyperfine coupling constants of EPR spectra.
+
+Text:
+An early example of the 
+sensitivity of 1 EPR spectra is Riegers computational study, who demonstrated that the solvent, in this 
+case dimethylformamide and acetonitrile, plays a significant role in the hyperfine coupling constants 
+(HFCs) of 1.29 Some years later, Geske and Maki reported the in situ electrochemical formation and EPR 
+characterisation of 1 via cathodic reduction in acetonitrile with nPr4NClO4 as buffer in a mercury pool 
+electrode.30 They were able to model the EPR spectra considering a monoradical ( 2.0032) 
+experiencing HFCs to one nitrogen, and two ortho, two meta and one para hydrogen atoms (  10.32, 
+  3.39,   1.09,   3.97 Gauss, respectively  see Equation 1 and Table S1).

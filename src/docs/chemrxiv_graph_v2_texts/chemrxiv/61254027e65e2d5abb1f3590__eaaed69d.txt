@@ -1,0 +1,10 @@
+Description:
+A semiconductor material important for optoelectronic applications.
+
+Text:
+IIInitrides (AlN, GaN, and InN) and their alloys are prominent semiconductor materials. AlN and GaN are highly important for optoelectronic applications and form the backbone in 
+modern light emitting diode technology. The revised band gap of InN to 0.7 eV 1 and its high 
+electron mobility2,3 open up new opportunities; such as IR emitters, sensors4, solar cells,5 thin
+film transistors6, and highelectron mobility transistors7. As all such applications are based on 
+heterostructures with homogeneous coverage of nanoscale active layers, highly controlled InN 
+epitaxy is paramount to realize any application.

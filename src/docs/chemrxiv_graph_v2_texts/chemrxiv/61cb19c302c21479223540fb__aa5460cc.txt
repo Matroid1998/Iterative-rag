@@ -1,0 +1,34 @@
+Description:
+Molecularly chemisorbed on Pt(111) and dissociates at higher temperatures.
+
+Text:
+On Pt(111), molecular
+chemisorbed O2 molecules dissociate at higher tempera
+tures with the oxygen atoms being preferentially to lat
+tice sites apart from each other 8 which has also been
+explained by a hot atom mechanism and conrmed in
+kinetic Monte Carlo simulations 16. However, the direct identication of hot atom dynam
+ics in reactions on surfaces by a combination of experi
+ment and theory is hard to achieve. From an experimen
+tal point of view this is due to the fact that the lifetime
+of dynamical hot atom events is typically so short that
+these events can not be directly detected.
+
+
+---
+
+Description:
+Molecules that interact with stepped Pt surfaces.
+
+Text:
+As far as simu
+lations are concerned, in recent years signicant progress
+has been made by performing dynamical simulations that
+include the coupling either to a phonon bath 15, 1721
+or to electronhole pairs 2224. Such simulations have
+provided very valuable insights into hot atom dynamics
+in reactions Gambardella2001 at surfaces. Still it is fair
+to say that there is not yet a general understanding about
+the factors promoting hot atom reactions at surfaces. In this study, I will demonstrate that hot atom dynam
+ics plays a critical role in the interaction of O2 molecules
+with stepped Pt surfaces.

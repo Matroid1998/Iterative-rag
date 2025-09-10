@@ -1,0 +1,31 @@
+Name: Gallic Acid
+Text:
+Gallic acid is an odorless white solid. Sinks in water. (USCG, 1999)
+Gallic acid is a trihydroxybenzoic acid in which the hydroxy groups are at positions 3, 4, and 5. It has a role as an astringent, a cyclooxygenase 2 inhibitor, a plant metabolite, an antioxidant, an antineoplastic agent, a human xenobiotic metabolite, an EC 1.13.11.33 (arachidonate 15-lipoxygenase) inhibitor, an apoptosis inducer and a geroprotector. It is a conjugate acid of a gallate.
+Gallic acid is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Gallic Acid has been reported in Persicaria muricata, Camellia sinensis, and other organisms with data available.
+Gallic acid is a metabolite found in or produced by Saccharomyces cerevisiae.
+A colorless or slightly yellow crystalline compound obtained from nutgalls. It is used in photography, pharmaceuticals, and as an analytical reagent.
+See also: Gallic acid monohydrate (active moiety of); Paeonia lactiflora root (part of); Galium aparine whole (part of) ... View More ...
+Properties:safety: Corrosive and Irritant
+smiles: C1=C(C=C(C(=C1O)O)O)C(=O)O
+formula: C7H6O5
+chem_properties: Molecular Weight: 170.12 g/mol
+XLogP3: 0.7
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 1
+Exact Mass: 170.02152329 Da
+Monoisotopic Mass: 170.02152329 Da
+Topological Polar Surface Area: 98
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 169
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,14 @@
+Description:
+Involved in the hydrogen evolution reaction, a key process in electrochemistry.
+
+Text:
+While applications
+of semiempirical methods8,9 and machine learning10,11 could
+soon alleviate this limitation in some domains, the ongoing chal
+lenges in simulating electrochemical dynamics even for simple
+systems (e.g. the hydrogen evolution reaction)12 suggest that
+PES exploration remains unsuitable for studies of complex elec
+trochemistry. When PES exploration is not used, CRNs are most commonly
+constructed based on human chemical intuition. By applying
+reaction templates to include only commonly observed mecha
+Journal Name, year, vol.,115  1

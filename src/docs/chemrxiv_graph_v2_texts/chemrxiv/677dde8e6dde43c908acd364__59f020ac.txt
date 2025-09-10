@@ -1,0 +1,12 @@
+Description:
+Groups often present in chiral natural products that are not included in final products.
+
+Text:
+Deconstructive transformations in organic synthesis are valuable approaches to utilizing 
+chiral pool materials that include functional groups that can be removed in a synthetic route. Performing deconstruction of Csp3Csp2 species can be particularly useful in terpenebased 
+frameworks, as these chiral natural products often contain isopropenyl groups that are often not 
+included in the final products. Hydrodealkenylation is a deconstructive transformation that enables 
+the usage of chiral pool starting materials containing excess alkenyl functionality for the overall 
+synthetic route. The ability to remove such groups without interfering with other functional groups 
+already in place in the molecule is a challenge that has been explored briefly wherein ozonolysis 
+is followed by Fe (II)induced fragmentation to generate a number of derivatives (Fig. 1A,B)1.

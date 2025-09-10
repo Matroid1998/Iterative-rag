@@ -1,0 +1,15 @@
+Description:
+A material used in perovskite solar cells with two phases: a photoinactive hexagonal phase and a photoactive black phase.
+
+Text:
+Formamidinium lead iodide (FAPbI3)1,2 based perovskite solar cell (PSC)38 have emerged
+as the most promising cheaper photovoltaic technology with certified solar to power con
+version efficiencies for singlejunction 25911 and perovskitesilicon tandem solar cells
+reaching 30.8,1214 There are two commonly known phases of this material black phase
+and hexagonal yellow phase. Among these, thermodynamically stable hexagonalFAPbI3 is
+a photoinactive material and consists of facesharing PbI octahedral chains surrounded by
+1
+
+FA cations. Alternatively, the metastable blackFAPbI3 is made of cornersharing PbI
+octahedra and a champion photoactive material commonly used to make highly efficient
+and stable PSCs.

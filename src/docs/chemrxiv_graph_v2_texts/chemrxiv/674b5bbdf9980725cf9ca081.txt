@@ -1,0 +1,16 @@
+Description:
+A side product of photosynthesis.
+
+Text:
+The most relevant process of lightenergy conversion in nature is photosynthesis, which takes place 
+within the thylakoid membrane of cyanobacteria and chloroplasts. The thylakoid membrane is a 
+lipid bilayer that assembles multiple protein supercomplexes in a transmembrane fashion to absorb 
+light and transfer electrons across the membrane to generate highenergy products such as NADPH 
+(nicotinamide adenine dinucleotide phosphate hydrogen) and carbohydrates as well as oxygen as a 
+side product.1 The benefit of transmembrane electron transfer is that the oxidation site is physically 
+separated from the reduction site and that such compartmentalization can finetune local reaction 
+conditions to prevent detrimental recombination.2,3 Additionally, the transmembrane charge 
+transfer generates a proton gradient which fuels the ATP synthase (ATP  adenosine triphosphate, 
+see Figure 1a).4,5 
+
+Figure 1. Lightdriven transmembrane in electron transfer.

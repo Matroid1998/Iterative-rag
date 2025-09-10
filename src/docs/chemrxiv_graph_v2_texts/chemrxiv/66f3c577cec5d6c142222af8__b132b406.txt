@@ -1,0 +1,10 @@
+Description:
+A biomolecular system analyzed in MD simulations.
+
+Text:
+In the following sections, we present a comprehensive analysis of the MD simulations conducted for each sys
+tem studied in the TEA challenge. These systems include two biomolecular systems (Alanine tetrapeptide and
+Nacetylphenylalanylpentaalanyllysine), a 1,8Naphthyridinegraphene interface, and a Methylammonium Lead Io
+dide perovskite. The starting point of each of the 12 MD trajectories simulated in each experiment can be found in
+the Zenodo archive 10.5281zenodo.13832725.From their analyses, we extract key insights into the applicability and
+reliability of MLFF models, and identify opportunities for further development and improvement. httpsdoi.org10.26434chemrxiv2024jhm5l ORCID httpsorcid.org0000000198536775 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

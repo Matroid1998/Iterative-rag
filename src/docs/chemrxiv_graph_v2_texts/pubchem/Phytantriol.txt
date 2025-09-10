@@ -1,0 +1,25 @@
+Name: Phytantriol
+Text:
+Phytantriol is a triol that consists of 3,7,11,15-tetramethylhexadecane bearing three hydroxy substituents at positions 1, 2 and 3.
+Properties:safety: Irritant
+smiles: CC(C)CCCC(C)CCCC(C)CCCC(C)(C(CO)O)O
+formula: C20H42O3
+chem_properties: Molecular Weight: 330.5 g/mol
+XLogP3: 5.9
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 14
+Exact Mass: 330.31339520 Da
+Monoisotopic Mass: 330.31339520 Da
+Topological Polar Surface Area: 60.7
+Heavy Atom Count: 23
+Formal Charge: 0
+Complexity: 280
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 4
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

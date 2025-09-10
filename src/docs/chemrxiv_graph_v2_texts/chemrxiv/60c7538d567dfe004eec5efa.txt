@@ -1,0 +1,13 @@
+Description:
+The rate limiting substrate for de novo glutathione synthesis.
+
+Text:
+The elevated expression of system xC
+ in a wide range of cancer types can be targeted by
+radiotracers specific to this transporter to provide high contrast images of tumors 7, 11, 1618. Clinically, 18FFSPG has been evaluated in hepatocellular carcinoma, nonsmall cell lung
+cancer, prostate cancer and intracranial malignancies 9, 15, 18, 19. Interest in noninvasively imaging system xC
+ has increased as its central role in modulating
+cellular redox homeostasis has emerged 17, 2022. System xC
+ transports extracellular cystine
+into the cell in exchange for intracellular glutamate 23. Once transported into the cell, cystine is
+quickly reduced to cysteine, the rate limiting substrate for de novo glutathione synthesis 24.

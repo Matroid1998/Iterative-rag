@@ -1,0 +1,12 @@
+Description:
+An antiretroviral therapy that acts as a fusion inhibitor to prevent viral entry into cells.
+
+Text:
+The surface of the HIV virus contains a protein known as the envelope protein (Figure 1), 
+which plays an important role for viral entry into the cells. This protein exists in two 
+conformations open and closed. The envelope protein has two components known as gp120 and 
+gp41. The gp120 protein contains a subprotein known as HT1 (shown in grey color in Figure 1), 
+which binds to the CD4 receptor (shown in orange color in Figure 1) to gain entry into the cell.3 
+If the interaction between the viral protein (HT1) and human cell receptor (CD4) can be prevented, 
+viral entry can be inhibited. An example of a medication exhibiting this mechanism of action is 
+enfuvirtide, which belongs to a new class of antiretroviral therapies known as fusion inhibitors.

@@ -1,0 +1,31 @@
+Description:
+Multiple bonds notable for their rich electronic structure and unique spectroscopic properties.
+
+Text:
+The concept of multiple bonding between metals dates back to the late 1920s with the rst struc
+tural conrmation in 1964.1 Over the last 60 years, multiple bonds between a wide variety of
+transition metals have been assigned bond orders ranging from single to sextuple.24 Nowadays,
+synthetic chemists seek out new metalmetal bonds for as catalysts, building blocks in metal
+organic frameworks, photosensitizers, and molecular conductors.3,58 Group 6 metalmetal bonds
+have been broadly studied for their interesting bonding and unique photophysical properties.9,10
+Of these, CrCr multiple bonds are notable because of their rich electronic structure and unique
+spectroscopic properties.
+
+
+---
+
+Description:
+The bond is composed of multiple partial bonds and its bond order often does not correlate with bond distance.
+
+Text:
+The concept of an eective bond order (EBO), that accounts
+for partial occupation of lowlying antibonding orbitals, has been used to quantify the nature of
+the overall CrCr bond that is composed of multiple partial bonds.19,20 Furthermore, these com
+putations highlight that the multicongurational electronic structure of Cr2 bonds is more nuanced
+compared to Mo2 and W2 analogues.20 As a result, the CrCr bond order often does not correlate
+with bond distance.1922 Note that for some particularly short CrCr distances, density functional
+theory (DFT) has been used successfully since the electronic structure can be represented by fully
+occupied bonding orbitals.23
+The lack of correlation between bond distance and bond order motivated a number of vibra
+tional studies of these compounds; diraction studies alone cannot be used to predict bonding or,
+in turn, vibrational force constants.

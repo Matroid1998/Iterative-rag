@@ -1,0 +1,10 @@
+Description:
+An important photoredox catalyst with differences in ground and excited-state dipole moments depending on counterion identity.
+
+Text:
+While many reports note spectral changes due
+to ionpairing in common photoredox catalysts,30,3236 there are currently no direct quantitative methods that can probe the
+ground and excitedstate electron density distribution to understand how ion pairing inuences the excited state structure
+and evolution. Here, we introduce a modern implementation of timeresolved dielectricloss spectroscopy (TRDL) to in
+vestigate how counterion identity inuences the excitedstate charge distribution within an important photoredox catalyst,
+IrdF(CF3)ppy2(dtbpy)X.3739 We nd large differences in both the ground and excitedstate dipole moments depending on

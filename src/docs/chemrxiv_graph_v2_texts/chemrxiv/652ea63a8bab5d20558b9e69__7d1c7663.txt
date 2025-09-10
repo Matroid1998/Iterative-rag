@@ -1,0 +1,16 @@
+Description:
+A high-valent species that engages in hydrogen atom transfer from a substrate C-H bond.
+
+Text:
+The ubiquity of oxidized aliphatic frameworks in molecules of biological and pharmaceutical 
+interest makes the conversion of C(sp3)H into C(sp3)O bonds a preferential transformation in 
+modern synthetic organic chemistry.1,2 Among the numerous complexes able to perform catalytic C
+H bond oxidations, homogeneous catalysts based on firstrow transition metals, that in the presence 
+of hydrogen peroxide mimic the mode of action of oxygenases, represent an efficient way to 
+perform these transformations.1a,2,3 CH bond oxidations executed by enzymes and bioinspired 
+catalysts proceed through wellestablished radical mechanisms, where a highvalent metaloxo 
+species engages in hydrogen atom transfer (HAT) from a substrate CH bond to give a carbon 
+radical that is then most commonly trapped by hydroxyl ligand transfer (OH rebound) to form the 
+hydroxylated product (Scheme 1, path I).4,5,6 
+
+Scheme 1.

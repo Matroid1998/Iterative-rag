@@ -1,0 +1,29 @@
+Description:
+A small molecule involved in binding to the histamine H1 receptor.
+
+Text:
+We find that these characteristics enhance the 
+predictive ability of machine learning methods to predict molecular properties. The MACAW 
+generative approach, based on these embeddings, can provide molecules with prespecified 
+properties without the need for the expertise and time needed to train neural networks. The application of MACAW is demonstrated for property prediction, virtual screening, and 
+inverse molecular design. MACAW embeddings are used for the prediction of complex 
+properties, including research octane number (RON), cetane number (CN), melting point (MP) 
+and flash point (FP) of molecules, as well as the binding of small molecules to the histamine 
+H1 receptor and the muscarinic M2 receptor. These properties are demonstrative of both 
+biofuel and medicinal applications.
+
+
+---
+
+Description:
+A molecule that binds strongly to the histamine H1 receptor.
+
+Text:
+We also demonstrate the use of MACAW embeddings in 
+virtual screening the rapid embedding and prediction of properties for tens of thousands of 
+molecules enables the identification of molecules that bind strongly to the histamine H1 
+receptor but weakly to the muscarinic M2 receptor. Furthermore, MACAW embeddings can 
+help recommend molecules with prespecified properties (inverse design problem). For this, 
+we propose a directed evolution strategy in silico that involves a novel probabilistic molecular 
+generator. This inverse design method avoids the need for the expertise and time to train a 
+complex decoder network and is wellsuited to the dynamic nature of MACAW embeddings.

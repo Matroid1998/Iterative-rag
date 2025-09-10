@@ -1,0 +1,12 @@
+Description:
+Compounds used to mediate the coupling of nucleophilic reactants through two-electron oxidations.
+
+Text:
+Iodine(III) 
+compounds have been used in this context to mediate the coupling of the two nucleophilic reactants through two
+electron oxidations, thereby inverting the polarity of one of the reagents.5 This strategy has recently been termed 
+crossnucleophile coupling.6 This area has evolved significantly7 since the first report. 8 When it comes to 
+heteroatomic nucleophiles, the reaction usually requires a Lewis acid, as well as a low reaction temperature, in a 
+onepot twostep procedure, to avoid formation of byproducts (Figure 1a).9 First the I(III) reagent and the enol 
+derivative react at low temperature to form an enolonium intermediate.9a This ensures that the enol nucleophile is 
+consumed before the second nucleophile is added at higher temperature (Figure 1a).

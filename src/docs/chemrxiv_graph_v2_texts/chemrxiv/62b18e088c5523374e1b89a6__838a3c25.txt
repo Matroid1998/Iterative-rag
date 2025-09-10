@@ -1,0 +1,15 @@
+Description:
+A thiol-reactive compound used in protein profiling with an alkyne handle for enrichment.
+
+Text:
+of 
+unbiased computational search approaches39. For ease of discussion, we refer to the two different 
+approaches as activitybased and reactionbased, respectively and outline modern platforms 
+from both categories below. Although previous platformsmethods like oxidative isotopecoded 
+affinity tags (OxICAT), resinassisted capture (RAC) and biotin switch technique (BST) serve 
+historical importance in the redox biology field, they are considered inefficient by todays standard 
+and their pitfalls have been thoroughly discussed4042. Fig. 4 Chemical biology workflows used to profile redoxsensitive cysteines. a Differential 
+alkylationreduction also termed activitybased. b Reactionbased. Ostensible issues are listed in 
+red boxes. The isotopic tandem orthogonal proteolysisactivitybased protein profiling (ISOTOPABBP) 
+platform utilizes an IAalkyne probe, consisting of a thiolreactive iodoacetamide moiety and a 
+clickable alkyne handle for enrichment43.

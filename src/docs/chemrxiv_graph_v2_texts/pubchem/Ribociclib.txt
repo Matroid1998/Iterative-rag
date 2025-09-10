@@ -1,0 +1,31 @@
+Name: Ribociclib
+Text:
+Ribociclib is a member of piperazines and a member of pyridines.
+Ribociclib is a selective cyclin-dependent kinase inhibitor, a class of drugs that help slow the progression of cancer by inhibiting two proteins called cyclin-dependent kinase 4 and 6 (CDK4/6). These proteins, when over-activated, can enable cancer cells to grow and divide too quickly.   Ribociclib was approved by the FDA in March 2017 under the brand name Kisqali.
+Ribociclib is a Kinase Inhibitor. The mechanism of action of ribociclib is as a Kinase Inhibitor, and Cytochrome P450 3A Inhibitor.
+Ribociclib is a unique cyclin-dependent kinase inhibitor that is used in combination with aromatase inhibitors in the treatment of postmenopausal women with metastatic breast cancer. Ribociclib is associated with a moderate rate of serum aminotransferase elevations during therapy, and to clinically apparent liver injury in a proportion of these.
+Ribociclib is an orally available inhibitor of the cyclin-dependent kinases (CDKs) 4 and 6, with antineoplastic activity. Upon oral administration, ribociclib specifically targets, binds to and inhibits CDK4 and CDK6. This inhibits the cyclin D1/CDK4 and cyclin D3/CDK6 cell cycle pathway, which inhibits phosphorylation of the retinoblastoma (Rb) protein. Inhibition of Rb phosphorylation prevents CDK-mediated G1-S phase transition, thereby arresting the cell cycle in the G1 phase, suppressing DNA synthesis and inhibiting cancer cell growth. Overexpression of CDK4/6, as seen in certain types of cancer, causes cell cycle dysregulation.
+RIBOCICLIB is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2017 and has 4 approved and 34 investigational indications.
+See also: Ribociclib Succinate (active moiety of).
+Properties:safety: Health Hazard and Environmental Hazard
+smiles: CN(C)C(=O)C1=CC2=CN=C(N=C2N1C3CCCC3)NC4=NC=C(C=C4)N5CCNCC5
+formula: C23H30N8O
+chem_properties: Molecular Weight: 434.5 g/mol
+XLogP3: 2.2
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 5
+Exact Mass: 434.25425761 Da
+Monoisotopic Mass: 434.25425761 Da
+Topological Polar Surface Area: 91.2
+Heavy Atom Count: 32
+Formal Charge: 0
+Complexity: 635
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,29 @@
+Description:
+A compound used in electrochemical conversion to store energy in chemical bonds.
+
+Text:
+Electrochemical conversion of carbon dioxide (CO2R) is such 
+65 
+a technology, offering a means to store energy from intermittent renewable sources in the form of 
+66 
+chemical bonds and to produce carbonneutral fuels and chemicals.1,2 Despite significant research 
+67 
+efforts aimed at increasing the activity of (electro)catalysts for forming valuable products such as 
+68 
+carbon monoxide, formic acid, ethylene, and ethanol while limiting selectivity to the parasitic hydrogen 
+69 
+evolution reaction (HER), further advances are needed.3,4 
+70 
+
+71 
+Beyond modifying the composition and structure of catalytic active sites, it is now clear that changes 
+72 
+to the environment in which the reaction occurs including the local pH, selection of electrolyte ions, 
+73 
+and solvent  result in significant differences in measured (electro)catalytic activity.511 For CO2R, the 
+74 
+magnitude of rate enhancements observed by changing electrolyte composition is as large as those 
+75 
+achieved through active site modification.12 Significant work has been done to describe the physical 
+76 
+phenomena behind these electrolyte effects in aqueous media.

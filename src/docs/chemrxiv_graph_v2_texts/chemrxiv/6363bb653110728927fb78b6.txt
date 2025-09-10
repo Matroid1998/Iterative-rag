@@ -1,0 +1,11 @@
+Description:
+A conventional material used in solar photovoltaic cells.
+
+Text:
+In recent years, the production of renewable energy, particularly using solar photovoltaic 
+(PV) technology, has increased significantly.1,2 Advances in alternative devices and materials to 
+conventional silicon cells, such as perovskite,3,4 thin film,5 and organic PV,6 have been 
+accompanied by growing interest in adjunct technologies that are able to enhance the 
+performance of PV cells, or even just enable their use in nonstandard situations. In the built 
+environment, widespread integration of standard PV panels is challenging, as their bulk and 
+superior performance under direct light limits their installation to rooftops.

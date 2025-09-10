@@ -1,0 +1,14 @@
+Description:
+Short single-stranded DNA sequences used in aptamers.
+
+Text:
+DNA aptamers are short (10100 residues) singlestranded nucleotide (ssDNA) sequences. One 
+popular use for DNA aptamers is as sensors or aptasensors for a wide variety of molecular 
+ligands including antibiotics1, neurotransmitters2,3, steroids4, metals5, proteins6, 
+nucleosides, including most famously ATP 7,8, and other small molecules 911. The 
+advantage of aptasensors that makes them particularly attractive is the demonstrated potential for 
+stable and selective sensing in crowded biochemical environments, e.g., in blood or in polluted 
+water. The difficulty lies in designing sequences which reliably and selectively bind a desired 
+target analyte. Promising aptasensor candidates are selected using the Systematic Evolution of 
+Ligands by Exponential Enrichment (SELEX) protocol which iteratively enriches DNA libraries 
+with sequences exhibiting preferential affinity toward a target ligand.

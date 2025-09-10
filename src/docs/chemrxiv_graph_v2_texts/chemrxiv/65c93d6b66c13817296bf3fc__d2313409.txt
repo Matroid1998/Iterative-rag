@@ -1,0 +1,20 @@
+Description:
+A component of LMR layered oxide materials used as positive electrodes in lithium-ion batteries.
+
+Text:
+Irreversible oxygen loss is a wellknown challenge in Li and Mnrich (LMR) layered 
+oxide materials, which are promising positive electrodes for lithiumion batteries1. This 
+phenomenon, written in KrgerVink notation in Eq. (1), involves transition metal (TM) 
+reduction, oxygen vacancy (V
+) formation, and the irreversible loss of oxygen from the 
+crystalline lattice 
+O
+  2TM,
+  V 2TM,
+. 1
+2 O0(g) (1) 
+
+In general terms, we use O2 in Eq. (1) to represent any oxygen lost from the crystalline 
+lattice that is unable to return to its original O2 state. Most intuitively, it would include 
+molecular gaseous oxygen which has been observed directly during the first delithiation of LMR 
+electrodes25.

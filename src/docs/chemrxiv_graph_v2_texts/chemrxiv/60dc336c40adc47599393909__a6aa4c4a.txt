@@ -1,0 +1,11 @@
+Description:
+A cluster used by enzymes to reductively cleave Sadenosylmethionine.
+
+Text:
+For example, radical Sadenosylmethionine (rSAM) enzymes make use of 
+a 4Fe4S cluster to reductively cleave Sadenosylmethionine (SAM) into methionine and 5
+deoxyadenosyl radical, the latter of which is used to initiate a variety of radical reactions that have 
+been reviewed previously.10,11,12,13 In some cases, electron transfer may be an intermediate step rather 
+than the complete function of an enzyme, such as the case of the biotin synthase rSAM mechanism 
+where the FeS clusters mediate the donation of a sulfur atom.14 
+Redox activity is an important property in enzymes.

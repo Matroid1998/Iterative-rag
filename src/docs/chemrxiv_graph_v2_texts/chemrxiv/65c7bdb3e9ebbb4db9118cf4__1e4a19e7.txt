@@ -1,0 +1,12 @@
+Description:
+Compounds with zincblende structures characterized by sp3-like cornersharing tetrahedra.
+
+Text:
+The structures of the currently known zincblende boron pnictides (BN, BP and BAs), have dia 
+topology (as cubic diamond) 18, which is characterized by the spatial arrangement of BN4, BP4 or 
+BAs4 perfect (angle 109.47) sp3like cornersharing tetrahedra in threedimensional 3D nets (cf. Fig. 1a). Recently, we discovered a significant structural densification of zincblende BN and BP by 
+adopting a quartzderived structure (qtz topology) characterized by distorted cornersharing BN4 
+and BP4 tetrahedra 19,20. In this context, the present work extends our investigation to boron pnictides with heavier elements 
+(As, Sb, and Bi). As in previous works 19,20, the studies are based on quantum mechanics 
+calculations of the groundstate energy structures and derived properties in the framework of the 
+density functional theory (DFT) 21,22.

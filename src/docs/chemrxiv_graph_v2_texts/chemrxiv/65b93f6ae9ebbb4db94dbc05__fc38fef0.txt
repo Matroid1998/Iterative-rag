@@ -1,0 +1,16 @@
+Description:
+A chemical compound with a purity of 98%.
+
+Text:
+of TmPyPB as an additional electron transport layer 
+enhances charge carrier confinement and reduces nonradiative losses, as evidenced by both 
+optical measurements and electronic device analysis. Our work culminates in the successful 
+demonstration of solution processed PeLEDs with ultraviolet emission below 400 nm, surpassing 
+the spectral limitations of previously reported devices while achieving reasonable EQE values. These findings not only highlight the potential of 2D perovskites in nextgeneration 
+optoelectronics but also pave the way for further exploration into novel device architectures and 
+material compositions, with the ultimate goal of realizing highly efficient, stable, and 
+commercially viable ultraviolet electroluminescent devices. Methods 
+
+Materials 
+Phenethylammonium chloride (PEACl, 98), phenethylammonium bromide (PEABr, 98), 
+and lead(II) bromide (PbBr2, 99.999) were purchased from SigmaAldrich.

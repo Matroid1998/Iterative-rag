@@ -1,0 +1,10 @@
+Description:
+Used in cross-coupling reactions with nickel-bound anilines.
+
+Text:
+Milder and more costeffective alkyl amines present a promising alternative but often lack sufficient basicity for effective 
+deprotonation.44 To tackle this, Buchwald and coworkers elegantly designed an electrondeficient ligand that allows the 
+deprotonation of nickelbound anilines with triethylamine for crosscoupling with aryl triflates.45 Notably, using the more 
+nucleophilic base, DBU, inhibits the reaction due to its preferential coordination to nickel, demonstrating the additional layer 
+of complexity in achieving the optimal balance between ligands and bases when working with weakly nucleophilic coupling 
+partners.

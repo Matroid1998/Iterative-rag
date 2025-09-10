@@ -1,0 +1,11 @@
+Description:
+A material used in proton exchange membranes that requires hydration to function effectively.
+
+Text:
+The importance of proton transport can be seen in the significant advance
+ments made in hydrogen fuel cell technology. One of the most successful fuel
+cell types, the proton exchange membrane fuel cell (PEMFC), has been com
+mercialized for use in both residential 1 and transportation applications 2. This success is due in part to the highpower density and efficiency of PEM
+FCs. Almost all commercial PEMFCs employ a Nafionbased proton exchange
+membrane 3. However, Nafion membranes require appropriate hydration to
+operate because Nafion is not an intrinsic proton conducting material.

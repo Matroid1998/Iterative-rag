@@ -1,0 +1,13 @@
+Description:
+Well-defined molecular catalysts used in water oxidation.
+
+Text:
+This problem could be only partially overcome by using, for example, 
+ultrasmall (12 nm) CoO(OH)x nanoparticles that exhibit a larger bandgap and correspondingly better 
+transparency in the visible range due to quantum size effects.24 This led us to hypothesize that, in 
+contrast to conventional bulk metal oxidebased water oxidation catalysts, a molecularscale catalyst 
+might be favorable for preventing the undesired light absorption by the catalyst and enabling also 
+more controllable cocatalyst deposition. With this motivation in mind, we turned our attention to 
+water oxidation catalysts based on welldefined molecular polyoxometalates (POMs), such as 
+Co4(H2O)2(PW9O34)210  CoPOM, a tetracobaltdoped polyoxometalate, that have attracted much 
+attention with regards to catalytic applications,4044 and have been previously utilized as cocatalysts

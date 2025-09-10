@@ -1,0 +1,25 @@
+Name: Chloroform-D
+Text:
+Deuterated chloroform is a deuterated compound that is an isotopologue of chloroform in which the hydrogen atom is replaced with deuterium. Commonly used as a solvent in proton NMR spectroscopy. It has a role as a non-polar solvent, a NMR solvent and a NMR chemical shift reference compound. It is a deuterated compound and a member of chloromethanes.
+Properties:safety: Acute Toxic and Irritant and Health Hazard
+smiles: [2H]C(Cl)(Cl)Cl
+formula: CHCl3
+chem_properties: Molecular Weight: 120.38 g/mol
+XLogP3: 2.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 118.920660 Da
+Monoisotopic Mass: 118.920660 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 8
+Isotope Atom Count: 1
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

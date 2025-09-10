@@ -1,0 +1,13 @@
+Description:
+A chromophore commonly found in proteins that harvests light energy in natural systems.
+
+Text:
+Previous studies revealed the possibility 
+of generating photocurrents using the PS protein111 and of utilizing the protein in photovoltaic 
+devices12,13 and solar cells.1417 The use of the PS protein in such devices requires a deposition 
+process of the PS, resulting in a monolayer or a multilayer film, and thus, it has to be formed on a 
+surface, such as an electrode or gold nanoparticle.1 Furthermore, in most studies the photocurrent 
+generation was achieved in an electrochemical setup, i.e., in an aqueous solution, which can be a 
+limiting factor. In natural systems, the light energy is harvested by a myriad of chromophores 
+situated within proteins, one of the most common ones of which is the chlorophyll (Chl) 
+chromophore.

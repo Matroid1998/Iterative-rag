@@ -1,0 +1,28 @@
+Name: Dihydrofolic Acid
+Text:
+Dihydrofolic acid is a folic acid derivative acted upon by dihydrofolate reductase to produce tetrahydrofolic acid. It interacts with bacteria during cell division and is targeted by various drugs to prevent nucleic acid synthesis. It has a role as an Escherichia coli metabolite and a mouse metabolite. It is a conjugate acid of a dihydrofolate(2-).
+Dihydrofolic acid is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Dihydrofolic acid has been reported in Arabidopsis thaliana, Homo sapiens, and Phaseolus vulgaris with data available.
+Dihydrofolic acid is a metabolite found in or produced by Saccharomyces cerevisiae.
+Properties:safety: Irritant
+smiles: C1C(=NC2=C(N1)N=C(NC2=O)N)CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O
+formula: C19H21N7O6
+chem_properties: Molecular Weight: 443.4 g/mol
+XLogP3: -0.9
+Hydrogen Bond Donor Count: 7
+Hydrogen Bond Acceptor Count: 10
+Rotatable Bond Count: 9
+Exact Mass: 443.15533142 Da
+Monoisotopic Mass: 443.15533142 Da
+Topological Polar Surface Area: 208
+Heavy Atom Count: 32
+Formal Charge: 0
+Complexity: 889
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

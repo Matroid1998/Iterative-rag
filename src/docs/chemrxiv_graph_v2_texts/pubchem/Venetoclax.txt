@@ -1,0 +1,31 @@
+Name: Venetoclax
+Text:
+Venetoclax is a member of the class of pyrrolopyridines that is a potent inhibitor of the antiapoptotic protein B-cell lymphoma 2. It is used for treamtment of chronic lymphocytic leukemia with 17p deletion. It has a role as an apoptosis inducer, an antineoplastic agent and a B-cell lymphoma 2 inhibitor. It is a member of oxanes, a N-sulfonylcarboxamide, an aromatic ether, a pyrrolopyridine, a member of monochlorobenzenes, a N-arylpiperazine, a N-alkylpiperazine and a C-nitro compound.
+Venetoclax is a BCL-2 inhibitor that was initially approved by the FDA in April 2016. Proteins in the B cell CLL/lymphoma 2 (BCL-2) family are important regulators of the apoptotic (programmed cell death) process,.  Venetoclax is used to treat chronic lymphocytic leukemia (CLL) and certain types of small lymphocytic lymphoma. CLL is the most prevalent leukemia diagnosed in Western countries. Venetoclax was developed through reverse engineering of the BCL-2 protein family inhibitor, navitoclax. Venetoclax is approximately 10 times more potent than navitoclax with regard to induction of apoptosis in CLL cells. A new indication was approved in 2018 for the treatment patients with chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL), with or without 17p deletion, who have received at least one prior therapy.  Previously, this drug was indicated only for patients with 17p gene deletion.
+Venetoclax is a BCL-2 Inhibitor. The mechanism of action of venetoclax is as a P-Glycoprotein Inhibitor. The physiologic effect of venetoclax is by means of Increased Cellular Death.
+Venetoclax is an oral selective BCL-2 inhibitor and antineoplastic agent used in the therapy of refractory chronic lymphocytic leukemia (CLL). Venetoclax is associated with a low rate of transient serum enzyme elevations during therapy, but has not been implicated in cases of clinically apparent acute liver injury with jaundice. Venetoclax has potent immunosuppressive activity and may be capable of causing reactivation of hepatitis B.
+Venetoclax is an orally bioavailable, selective small molecule inhibitor of the anti-apoptotic protein Bcl-2, with potential antineoplastic activity. Venetoclax mimics BH3-only proteins, the native ligands of Bcl-2 and apoptosis activators, by binding to the hydrophobic groove of Bcl-2 proteins thereby repressing Bcl-2 activity and restoring apoptotic processes in tumor cells. Bcl-2 protein is overexpressed in some cancers and plays an important role in the regulation of apoptosis; its expression is associated with increased drug resistance and tumor cell survival. Compared to the Bcl-2 inhibitor navitoclax, this agent does not inhibit bcl-XL and does not cause bcl-XL-mediated thrombocytopenia.
+VENETOCLAX is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2016 and has 3 approved and 40 investigational indications.
+See also: Abbv-167 (is active moiety of); Bcl-2 Inhibitor (subclass of).
+Properties:safety: Irritant and Health Hazard
+smiles: CC1(CCC(=C(C1)C2=CC=C(C=C2)Cl)CN3CCN(CC3)C4=CC(=C(C=C4)C(=O)NS(=O)(=O)C5=CC(=C(C=C5)NCC6CCOCC6)[N+](=O)[O-])OC7=CN=C8C(=C7)C=CN8)C
+formula: C45H50ClN7O7S
+chem_properties: Molecular Weight: 868.4 g/mol
+XLogP3: 8.2
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 11
+Rotatable Bond Count: 12
+Exact Mass: 867.3180958 Da
+Monoisotopic Mass: 867.3180958 Da
+Topological Polar Surface Area: 183
+Heavy Atom Count: 61
+Formal Charge: 0
+Complexity: 1640
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,17 @@
+Description:
+Used in CMOS interconnect structures as a conducting metal, benefiting from atomically thin diffusion barriers to maximize interconnect volume.
+
+Text:
+For example, metals
+which wet a surface and can be deposited in a flat,
+nonisland morphology, are needed as conducting metals
+for interconnects in semiconductor devices 42. This
+is particularly relevant as TMDs have shown promise
+as diffusion barriers for Cu in CMOS interconnect
+structures, allowing for atomically thin barriers which
+can maximise the volume of the interconnect metal in
+vias. This is important for next generation technology
+nodes such as GateAllAround and Complementary
+Field Effect Transistors, as it would keep line resistance
+low while allowing downscaling of CMOS structures
+4347.

@@ -1,0 +1,33 @@
+Name: Aripiprazole
+Text:
+Aripiprazole is an N-arylpiperazine that is piperazine substituted by a 4-[(2-oxo-1,2,3,4-tetrahydroquinolin-7-yl)oxy]butyl group at position 1 and by a 2,3-dichlorophenyl group at position 4. It is an antipsychotic drug used for the treatment of Schizophrenia, and other mood disorders. It has a role as a H1-receptor antagonist, a serotonergic agonist, a second generation antipsychotic and a drug metabolite. It is a quinolone, a N-arylpiperazine, a N-alkylpiperazine, a dichlorobenzene, an aromatic ether and a delta-lactam.
+Aripiprazole is an atypical antipsychotic orally indicated for the treatment of schizophrenia, bipolar I, major depressive disorder, irritability associated with autism, and Tourette's. It is also indicated as an injection for agitation associated with schizophrenia or bipolar mania. Aripiprazole exerts its effects through agonism of dopaminergic and 5-HT1A receptors and antagonism of alpha-adrenergic and 5-HT2A receptors. Aripiprazole was given FDA approval on November 15, 2002.
+Aripiprazole is an Atypical Antipsychotic.
+Aripiprazole is an atypical antipsychotic used in the treatment of schizophrenia and bipolar illness. Aripiprazole therapy has not been associated consistently with serum aminotransferase elevations and has yet to be linked to cases of clinically apparent acute liver injury.
+Aripiprazole is a quinoline derivate and atypical anti-psychotic agent. Aripiprazole has partial agonistic activity at dopamine D2 receptors and serotonin 5-HT1A receptors, as well as potent antagonistic activity on serotonin 5-HT2A receptors. This drug stabilizes dopamine and serotonin activity in the limbic and cortical system. Aripiprazole is used in managing symptoms of schizophrenia and of acute manic and mixed episodes associated with bipolar I disorders.
+ARIPIPRAZOLE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2002 and has 12 approved and 16 investigational indications. This drug has a black box warning from the FDA.
+Aripiprazole is an atypical antipsychotic medication used for the treatment of schizophrenia. It has also recently received FDA approval for the treatment of acute manic and mixed episodes associated with bipolar disorder. Aripiprazole appears to mediate its antipsychotic effects primarily by partial agonism at the D2 receptor. In addition to partial agonist activity at the D2 receptor, aripiprazole is also a partial agonist at the 5-HT1A receptor, and like the other atypical antipsychotics, aripiprazole displays an antagonist profile at the 5-HT2A receptor. Aripiprazole has moderate affinity for histamine and alpha adrenergic receptors, and no appreciable affinity for cholinergic muscarinic receptors.
+A piperazine and quinolone derivative that is used primarily as an antipsychotic agent. It is a partial agonist of SEROTONIN RECEPTOR, 5-HT1A and DOPAMINE D2 RECEPTORS, where it also functions as a post-synaptic antagonist, and an antagonist of SEROTONIN RECEPTOR, 5-HT2A. It is used for the treatment of SCHIZOPHRENIA and BIPOLAR DISORDER, and as an adjunct therapy for the treatment of depression.
+See also: Aripiprazole Lauroxil (is active moiety of); Aripiprazole Cavoxil (is active moiety of); Aripiprazole monohydrate (annotation moved to).
+Properties:safety: Acute Toxic and Irritant and Health Hazard
+smiles: C1CC(=O)NC2=C1C=CC(=C2)OCCCCN3CCN(CC3)C4=C(C(=CC=C4)Cl)Cl
+formula: C23H27Cl2N3O2
+chem_properties: Molecular Weight: 448.4 g/mol
+XLogP3: 4.6
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 7
+Exact Mass: 447.1480325 Da
+Monoisotopic Mass: 447.1480325 Da
+Topological Polar Surface Area: 44.8
+Heavy Atom Count: 30
+Formal Charge: 0
+Complexity: 559
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

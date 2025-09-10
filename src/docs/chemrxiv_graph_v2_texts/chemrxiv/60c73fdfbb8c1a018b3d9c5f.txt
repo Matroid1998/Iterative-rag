@@ -1,0 +1,13 @@
+Description:
+Compositions that can preferentially distort to form rosetteicosahedral structures instead of Mackay icosahedral structures.
+
+Text:
+A small number of
+PtAu compositions will preferentially distort to form
+rosetteicosahedral instead of the Mackay icosahedral
+structures.30 The GA locates these structures in a num
+ber of cases, though as structure optimization is not the
+focus of these benchmarks, when the rosette distortion
+occurs, the calculations are prevented from entering the
+population preserving the template structure. The excess energy is used to assign tness within the
+GA, as in Equation 1.

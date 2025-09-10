@@ -1,0 +1,16 @@
+Description:
+Oxidizes to Ni4 at an average potential of 4.7 V vs. LiLi.
+
+Text:
+Spinel LiNi0.5Mn1.5O4 (LNMO) is one of the most promising and 
+costeffective candidates for nextgeneration positive electrode 
+materials for Liion batteries. This material offers a high capacity 
+of 147 mAh.g1 due to the oxidation of Ni2 to Ni4 at an average 
+potential of 4.7 V vs. LiLi, which results in an appealing energy 
+density of 650 Whkg.1,2 However, some issues still prevent its im
+plementation in commercial devices. Limited stability of electro
+lytes at such high potentials leads to secondary reactions at the elec
+trodeelectrolyte interface involving Mn dissolution into the elec
+trolyte and cathode electrolyte interphase growth.3 A deep compre
+hension and adjustment of its intrinsic properties are necessary to 
+make LNMObased batteries available.

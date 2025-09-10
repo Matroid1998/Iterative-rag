@@ -1,0 +1,7 @@
+Description:
+A shell material with uniform thickness used in nanowires, encompassing a GaN core.
+
+Text:
+1, each NW is
+composed of an Al0.3Ga0.7N shell with uniform thickness, t, encompassing a GaN core of side length c (from sim
+ple geometry, the shell side length, s, is related to t and c via the expressions s  2t

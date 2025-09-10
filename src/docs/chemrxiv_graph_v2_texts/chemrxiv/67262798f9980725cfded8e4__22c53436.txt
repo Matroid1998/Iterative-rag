@@ -1,0 +1,17 @@
+Description:
+Displays significant overlap in XANES spectra with Cu23CB, indicating no notable changes in electronic states.
+
+Text:
+The Xray absorption 
+nearedge structure (XANES) spectra at the Cu Kedge for 
+both the pristine Cu23 NC and the loaded catalysts (Cu23CB) 
+showed significant overlap, indicating no notable changes 
+in their electronic states (Figure S10). Both samples 
+displayed a peak 8992 eV, confirming the presence of a 
+mixture of Cu(I) and Cu(0) species, as this peak lies between 
+the characteristic energies of Cu(0) and Cu(I) species. Further insights were gained from the Fourier transform
+extended Xray absorption fine structure (FTEXAFS) 
+spectra at the Cu Kedge. The spectra revealed a similar 
+geometric arrangement in both the pristine and loaded 
+catalysts, with an identical peak observed at 1.8 , which 
+is attributed to CuP or CuS bonding (Figure 4a).

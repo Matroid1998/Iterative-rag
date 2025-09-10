@@ -1,0 +1,25 @@
+Description:
+Used in supercritical CO2 technique for activation and purification processes.
+
+Text:
+In general, the purification and activation 
+process often face some difficulties due to the potential for 
+structural collapse and loss of crystallinity.1 Typically, the 
+commonly used techniques for activation include thermal 
+treatment, 
+solventexchange 
+(prior 
+to 
+evacuation 
+evaporation), freeze drying, and supercritical CO2 
+technique.1,2 In addition, there are some methods that are 
+less common such as microwave heating,3 ultrasound,4 and 
+ultravioletvisible (UVvis) irradiation.5 The most widely 
+used method amongst all of these techniques is solvent
+exchange, which entails replacing an evacuating solvent 
+with another one that can easily be evacuated and 
+evaporated without incurring permeant damages to the 
+material.6 
+As such, it is very crucial to understand the relationship 
+between the properties of MOFs and the structural collapse 
+during solvent removal. Intrinsic structural factors (e.g.

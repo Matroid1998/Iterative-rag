@@ -1,0 +1,49 @@
+Description:
+An element used as a cathode in lithium-sulfur batteries, participating in redox reactions.
+
+Text:
+Lithiumsulfur (LiS) batteries are among the most promising nextgeneration energy storage
+systems that have the potential to surpass traditional lithiumion batteries in terms of both
+energy density and cost.13 These batteries are composed of a lithium anode and a sulfur
+cathode and operate through a redox reaction in which lithium ions are transferred between
+the two electrodes.
+
+
+---
+
+Description:
+An element with insulating nature that poses challenges in lithium-sulfur battery performance.
+
+Text:
+This reaction allows lithiumsulfur batteries to store more energy per
+unit weight than lithiumion batteries, making them an attractive option for a wide range of
+applications.4,5 However, despite their potential advantages, LiS batteries have faced several
+challenges in terms of their performance and stability, such as the insulating nature of the
+elemental sulfur6 and the shuttle effect of dissolvable lithium polysulfides.7
+Conjugated polymers is a class of polymeric materials that exhibits alternating single and
+double bonds in their main chain, which gives them unique electrical, optical, and mechanical
+properties.811 In the context of LiS batteries, conjugated polymers can be used as cathode
+material to improve the electrical conductivity of the sulfur cathode and to prevent the dis
+solution of the active materials by forming strong chemical bonds with sulfur.1218 Among
+these, thiolcontaining polymers are one example where the SH groups can be crosslinked
+with sulfur via covalent bonding.1921
+In a recent study, we presented a new fabrication strategy to construct a binder and carbon
+additivefree organosulfur cathode based on a thiolcontaining conducting polymer poly(4
+(thiophene3yl)benzenethiol) (PTBT).21 The PTBT features the polythiophene main chain
+as a highly conducting framework and the benzenethiol side chain to copolymerize22,23 with
+sulfur and form a crosslinked organosulfur polymer.
+
+
+---
+
+Description:
+Species that have a significant fixing effect in operando X-ray imaging.
+
+Text:
+We have been able to show the sig
+nificant fixing effect of sulfur species by operando Xray imaging. This synthesis approach
+maintains the conductivity and flexibility of the polymer framework and therefore seems
+promising to overcome typical drawbacks of LiS batteries. In a further study, we used a
+combination of firstprinciples computational methods and statistical mechanics to explore
+the structural characteristics of the initial state of a vulcanized PTBT polymer.24 Our calcu
+3

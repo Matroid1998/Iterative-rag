@@ -1,0 +1,117 @@
+Description:
+Used in solid state electrolytes to potentially replace flammable liquid electrolytes in batteries.
+
+Text:
+19
+To satisfy the evergrowing need for durable and safe bat
+20
+tery materials, lithium solid state electrolytes (SSEs) are
+21
+believed to revolutionise the battery industry by substitut
+22
+ing the liquid electrolyte in todays batteries (which are
+23
+flammable and unstable under temperature extremes) with a
+24
+solid inflammable material.1 However, interfacial instability
+25
+and resistance are among the most difficult challenges facing
+26
+SSEs2 This includes synthesis conditions and sample pu
+27
+rity that contribute to the formation of the Liresistant solid
+28
+electrolyte interphase layer and the growth of lithium den
+29
+drites. The most critical challenge against the broad adop
+30
+tion of SSEs is interfacial instability at the lithium metal in
+31
+terface.
+
+
+---
+
+Description:
+Forms a resistant solid electrolyte interphase layer and dendrites that challenge solid state electrolyte adoption.
+
+Text:
+19
+To satisfy the evergrowing need for durable and safe bat
+20
+tery materials, lithium solid state electrolytes (SSEs) are
+21
+believed to revolutionise the battery industry by substitut
+22
+ing the liquid electrolyte in todays batteries (which are
+23
+flammable and unstable under temperature extremes) with a
+24
+solid inflammable material.1 However, interfacial instability
+25
+and resistance are among the most difficult challenges facing
+26
+SSEs2 This includes synthesis conditions and sample pu
+27
+rity that contribute to the formation of the Liresistant solid
+28
+electrolyte interphase layer and the growth of lithium den
+29
+drites. The most critical challenge against the broad adop
+30
+tion of SSEs is interfacial instability at the lithium metal in
+31
+terface.
+
+
+---
+
+Description:
+A metal whose diffusion in solid structures can be simulated using ab initio molecular dynamics.
+
+Text:
+The thermodynamics of a number of SSE materials
+32
+at the lithium metal interface were examined by Zhu et al.3
+33
+Several works, such as the seminal work by Mo et al.,4
+34
+s.abbasdeakin.edu.au
+have established the utility of ab initio molecular dynamics
+35
+(AIMD) in simulating the diffusion of lithium in solid struc
+36
+tures.
+
+
+---
+
+Description:
+Diffuses in liquid and polymer electrolytes.
+
+Text:
+The key to the capability of AIMD in such simula
+37
+tions is that it applies density functional theory (DFT) for the
+38
+computation of the atomic forces, rather than using empirical
+39
+force fields in classical molecular dynamics approaches that
+40
+have traditionally been the workhorse simulators of lithium
+41
+diffusion in liquid and polymer electrolytes.5
+42
+However, the accuracy advantage brought by AIMD is ac
+43
+companied by a scalability disadvantage there is a harsh
+44
+limit to the system size that can be simulated, given that DFT
+45
+computations scale as N 3 where N is the system size (such
+46
+as the number of atoms), making it infeasible to model sim
+47
+ulation cells with more than 500 atoms for a few hundred
+48
+picoseconds.

@@ -1,0 +1,26 @@
+Name: Chloric acid
+Text:
+Chloric acid is a colorless liquid. It will accelerate the burning of combustible materials and can ignite most on contact. It is corrosive to metals and tissue. It is used as a reagent in chemical analysis and to make other chemicals.
+Chloric acid is a chlorine oxoacid. It is a conjugate acid of a chlorate.
+Properties:safety: Oxidizer and Corrosive
+smiles: OCl(=O)=O
+formula: ClHO3
+chem_properties: Molecular Weight: 84.46 g/mol
+XLogP3: 2.1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 83.9614216 Da
+Monoisotopic Mass: 83.9614216 Da
+Topological Polar Surface Area: 54.4
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 46.2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

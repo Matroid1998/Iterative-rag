@@ -1,0 +1,21 @@
+Description:
+Nanocrystals with potential for optoelectronic applications such as deep-blue LEDs and UV photodetectors.
+
+Text:
+)24 One such material, Cs3Cu2I5 nanocrystals,
+has exhibited a large potential for a broad range of optoelectronic applications, such as deepblue lightemitting
+diodes (LEDs), ultraviolet (UV) photodetectors or as fluorescent inks for encryption technologies.57 While
+several syntheses have been developed for these exciting nanocrystals, scalability and morphological control
+over the reaction products are still major obstacles for this material class.1,8,9 Reaction temperature has
+been determined to influence the nanocrystal geometry in hotinjection syntheses, with a transition from small
+spheres to larger anisotropic nanorods with increasing temperature.10 In the first implementation of a fully
+autonomous and self optimizing continuousflow based synthesis, the CuIprecursor concentration and reaction
+temperature were determined to be the most influential parameters for the synthesis.11 While the 0D crystal
+structure of the material precludes quantum confinement effects due to nanocrystal size, a dependency of the
+PLQY on the size of the nanocrystals was previously observed and attributed to the number of surface defects,
+highlighting the need for controlled surface coordination by ligands.9 Employing continuous flow systems for the
+fabrication of semiconductor nanocrystals has the dual advantage of having more precise control over reaction
+parameters and being able to screen reaction conditions significantly faster, employ more moderate reaction
+conditions and lower precursor concentration due to increased heat and masstransfer as well as easily scale up
+the material production due to the continuous nature of the procedure.12 In the following, we present a facile
+and lowcost singlephase continuous flow approach for the synthesis of Cs3Cu2I5 nanocrystals.

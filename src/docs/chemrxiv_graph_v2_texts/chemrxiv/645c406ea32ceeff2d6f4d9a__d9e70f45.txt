@@ -1,0 +1,20 @@
+Description:
+A class of nucleophiles used in transition metal-free C(sp3)H amidation.
+
+Text:
+Coppercatalyzed platforms, including var
+iants of the original KaraschSosnocky reaction6 as well as more 
+recent developments by Stahl, Liu, and others have proven most 
+versatile, enabling CH (sulfonyl)amidation,713 azolation,14 
+and azidation.15,16 Alternatively, transition metalfree platforms 
+for C(sp3)H (sulfonyl)amidation1719 and C(sp3)H azolation20
+23 exist, but each method and reaction conditions is confined to 
+a single nucleophile class (amides, sulfonamides, or azoles, but 
+never all three within one protocol). Moreover, many still re
+quire stoichiometric strong oxidants such as Selectfluor, NFSI, 
+or DDQ, which limit the scope of the methods. Thus, 
+identification of reagents and catalysts that can enable selective 
+activation of a wider array of C(sp3)H partners, under more 
+practical and functional grouptolerant conditions, and with 
+greater generality with respect to NHnucleophile identity 
+would be of broad value.

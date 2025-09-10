@@ -1,0 +1,31 @@
+Description:
+A lattice structure on which carbon atoms are connected in single walled carbon nanotubes.
+
+Text:
+CNTs have demonstrated to be superior 
+additives to matrix composites and could play an important role in CO2 fixation and 
+carbon cycles.13 In shielding materials, CNTs have been used due their high tensile 
+strength and electrical conductivity at low density.4 Research on thermal properties 
+point towards a isotropic thermal expansion of CNTs.5 And their high thermal 
+conductivity has made CNTs attractive for electronic devices, optoelectronic devices 
+and energy storage.68 Another remarkable discovery was in the optical properties of 
+CNTs, as their absorption and fluorescence is linked to their diameter.911 Among them, 
+single walled carbon nanotubes (SWCNTs) have the most promising properties and 
+they come in different structures (chiralities). The chirality is described with a roleup 
+vector (n,m), that indicates connected carbon atoms on a graphene lattice (Figure 1).
+
+
+---
+
+Description:
+A sheet-like structure used in the formation of carbon nanotubes.
+
+Text:
+Figure 1 Structure and properties of carbon nanotubes. a) Rollupvector (n,m) on a graphene sheet and how 
+the vector translates to a rolled up SWCNT. b) absorption spectra of SWCNTs with different chiralities. c) Photography of purified SWNCT species with various chiralities. b)  c) reprinted with permission from 12. Besides the diameter and color, this also impacts the metallic character. Roleup 
+vectors that have n  m  0 correspond to metallic SWCNTs, semimetallic SWCNTs fit 
+ n  m  3j ( j    0) and all other chiralities are semiconducting.13 In semimetallic 
+materials, the conduction and valence bands slightly overlap in energy. This overlap 
+httpsdoi.org10.26434chemrxiv2024ch1qj ORCID httpsorcid.org0000000306389822 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0
+
+3

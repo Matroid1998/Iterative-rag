@@ -1,0 +1,32 @@
+Description:
+Ligands used in ligand exchange with carboxylate-capped nanoplates.
+
+Text:
+of surface compressive stresses and can even remove atoms from 
+the material.42 These surface effects impact not only the primary surface atoms, but cause 
+distortions propagating inwards two to four atomic layers (Figure 4).42 To probe this effect, we 
+collected selected area electron diffraction (SAED) data of undeformed single nanoplates before 
+and after ligand exchange (Figure 4b, Table S4). Since surface atoms make up a nonnegligible 
+percentage of thin nanoplates (10), lattice measurements from electron diffraction patterns for 
+an entire particle should show deviations from the expected value if large surface reorganizations 
+exist. Correlated lattice measurements were obtained for nine individual nanoplates capped first 
+with carboxylate ligands (black) and then exchanged to thiol ligands (red, Figure 4b). On average, 
+carboxylatecapped nanoplates exhibited a lattice contraction of 6.7.
+
+
+---
+
+Description:
+Ligands that can mediate lattice expansions and result in compressive surface stresses.
+
+Text:
+This value is consistent 
+with minor relaxation of surface stress by a weaklybound physiosorbed ligand since bare metal 
+surfaces are known to have lattice contractions of up to 15, resulting in tensile surface stresses 
+of approximately 4 N m1.35, 40, 42 Once exchanged with thiol ligands, the nanoplates have an 
+average lattice expansion of 11.8, which is in good agreement with literature studies that have 
+seen thiolmediated expansions of up to 19 and resulting compressive surface stresses of 5 N 
+m1.15, 39 While the orientation of the electron beam with respect to the nanoplate in SAED 
+measurements can only capture the inplane lattice distortions, outofplane stresses of the same 
+
+11

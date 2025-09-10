@@ -1,0 +1,12 @@
+Description:
+A natural product analogue used in the design of selective inhibitors.
+
+Text:
+FT895 is a hydroxamic acid based 
+HDAC11 selective inhibitor that was reported by Forma Therapeutics 9 and could significantly reduce 
+nonsmall cell lung cancer cells viability 10. Recently, Bai et al. reported the development of PB94, 
+which also bears a hydroxamic acid moiety as zinc binding group and demonstrated beneficial effect in a 
+neuropathic pain mouse model 11. Since the defattyacylase activity of HDAC11 is confirmed 12, 13, 
+the ability of HDAC11 to accommodate longer alkyl chain was exploited for the design and development 
+of selective inhibitors as the alkyl hydrazide derivative SIS17 which bears a 16 carbon long alkyl chain 
+14 and the natural product trapoxin A analogue TD034 15. Currently, there is no crystal structure reported for HDAC11.

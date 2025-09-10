@@ -1,0 +1,20 @@
+Description:
+A heterogeneous transition metal catalyst used in the Fischer-Tropsch process.
+
+Text:
+Owing to environmental and economic reasons, the transformation and valorization of abundant and 
+readily available chemical feedstock such as CO and CO2 are very topical goals.1 Carbon monoxide is a C1 
+gas that is used in the industrial production of organic feedstock molecules such as methanol2 and acetic 
+acid.3 Synthesis gas (syngas COH2) is converted into liquid hydrocarbons and oxygenates on industrial 
+scales by using the FischerTropsch (FT) process.4 As the CO triple bond is one of the strongest chemical 
+bonds (bond dissociation energy of 1075 kJ.mol1),5 this process typically operates under harsh 
+temperature and pressure conditions (200350 C, 2045 bars) using heterogeneous transition metal 
+catalysts (Fe, Co).6 The precise mechanism in the formation of FT products is still under debate and, to 
+gain more insight into the elementary steps involved, several organometallic complexes have been used 
+as soluble models.7 Similarly, recent advances in transitionmetalfree FT chemistry have been reported, 
+describing formation of growing carbon chains.8 
+Although CO homologation has been observed by the coupling between two or more fragments 
+upon insertion of CO into metalalkyl,9 aryl,10 hydride,11 imide12 or boryl bonds,13 the direct reductive 
+coupling of CO molecules has only been achieved by a very limited number of systems, typically involving 
+lowvalent oxophilicmetallic or nonmetallicelements.14 For example, homogeneous p15, and dblock 
+compounds16 have been used to promote CO reductive coupling.

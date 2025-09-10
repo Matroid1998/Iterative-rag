@@ -1,0 +1,16 @@
+Description:
+Used for radiolytic shielding via graphene membranes in liquid-phase transmission electron microscopy.
+
+Text:
+Liquidphase transmission electron microscopy (LPTEM) emerged as a cuttingedge in situ 
+technique for investigation of processes at the nanoscale.1,2 Particularly in the fields of 
+catalysis,3,4 energy materials and storage,57 softmatter studies,8,9 or virology,10,11 LPTEM 
+has been enabling unprecedented insights into fundamental processes, such as nonclassical 
+crystallization pathways1214 and nanostructure selfassembly.15 
+However, inherent inelastic electronmatter interactions influence the Gibbs free energy 
+landscape.16,17 To enable LPTEM becoming a standard characterization method this needs to 
+be accounted for appropriately. Besides electron beaminduced heating,18,19 radiolysis is a 
+crucial factor during LPTEM,2023 even when radical scavengers are utilized24,25 or radiolytic 
+shielding via graphene membranes is harnessed.26,27 Moreover, radiochemistry has been 
+identified as a prime driving force to study both reductive formation,2830 and oxidative 
+etching3135 of metallic nanostructures.

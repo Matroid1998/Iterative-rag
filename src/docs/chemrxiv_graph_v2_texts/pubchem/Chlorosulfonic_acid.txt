@@ -1,0 +1,25 @@
+Name: Chlorosulfonic acid
+Text:
+Chlorosulfonic acid appears as a colorless to yellow colored fuming liquid with a pungent odor. Density 14.7 lb / gal. Causes severe burns. Very toxic by inhalation. Corrosive to metals.
+Properties:safety: Corrosive and Irritant
+smiles: OS(=O)(=O)Cl
+formula: ClHO3S
+chem_properties: Molecular Weight: 116.53 g/mol
+XLogP3: -0.1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 115.9334928 Da
+Monoisotopic Mass: 115.9334928 Da
+Topological Polar Surface Area: 62.8
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 92.6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,25 @@
+Name: Bismuth telluride
+Text:
+Bismuth telluride appears as gray or black hexagonal platelets with a metallic luster or gray powder. mp: 586 °C. Density: 7.8 g/cm3. An alloy of two metallic elements. Sometimes this is doped with selenium sulfide. The selenium sulfide (SeS) dopant alters the electrical properties, but has too low a concentration to affect the chemical properties.
+Tetradymite is a mineral with formula of Bi3+2Te2-2S2- or Bi2Te2S. The IMA symbol is Ttd.
+Properties:safety: Irritant
+smiles: [Te].[Te]=[Bi].[Te]=[Bi]
+formula: Bi2Te3
+chem_properties: Molecular Weight: 800.8 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 805.67770 Da
+Monoisotopic Mass: 807.67947 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 6.9
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

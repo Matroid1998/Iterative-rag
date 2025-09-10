@@ -1,0 +1,12 @@
+Description:
+Simple tetrahedral building blocks that connect by their edges to form zeolite topologies.
+
+Text:
+Metastable phases of SiO2, also known as siliceous zeolites, are typically formed by crys
+tallisation in the presence of templating agents.1 This produces nanoporous structures that
+have applications in adsorption, separation and gas storage.2 More than 200 unique zeolite
+topologies have been observed from simple tetrahedral SiO4 building blocks connected by
+their edges, though much less have been obtained as pure silica compounds. This structural diversity of zeolitic frameworks induces a wide variety of their properties,
+including geometric characteristics (e.g. channel dimensionality, connectivity and pore space)
+which are directly relevant for adsorptionrelated applications, but also in physical proper
+ties such as mechanical behaviour.

@@ -1,0 +1,13 @@
+Description:
+A catalyst that can function in gas-fed flow cells.
+
+Text:
+In contrast, hydrophobicity is advantageous for catalysts applied in gas diffusion 
+electrodes, which feed CO2 to the catalyst directly from the gas phase and the reaction largely 
+occurs at a gasliquidsolid interphase.11 In this context, rationally incorporated hydrophobic 
+elements have greatly boosted the performance of heterogeneous catalysts in GDEbased 
+reactors.12,13 However, these efforts to date have only been limited to heterogeneous catalysts. Molecular CO2R catalysts have indeed been integrated with gasfed flow cells and initial results 
+have demonstrated that phthalocyaninesporphyrins,1417 Co quaterpyridine18 and Ni cyclam19 
+catalysts can also function in this geometry. However, most of these molecular systems have been 
+metal complexes that possess an extended conjugated system that facilitates their ease of 
+adsorption onto the carbon surfaces in a GDE.

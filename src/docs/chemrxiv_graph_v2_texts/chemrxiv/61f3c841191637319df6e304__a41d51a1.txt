@@ -1,0 +1,10 @@
+Description:
+A product formed from the dehalogenation of vicinal haloalcohols by halohydrin dehalogenases.
+
+Text:
+Halohydrin dehalogenases (HHDHs) (E.C. 4.5.1.) are bacterial lyases belonging to the superfamily of 
+shortchain dehydrogenasesreductases. While their natural function is the dehalogenation of vicinal 
+haloalcohols with concomittant epoxide formation,1 they are also able to catalyze the reverse 
+reaction, i.e. epoxidering opening, with a range of different nucleophiles enabling formation of CC, 
+CN, CO and CS bonds.2 This has made HHDHs attractive for application in biocatalysis and various 
+examples, e.g.

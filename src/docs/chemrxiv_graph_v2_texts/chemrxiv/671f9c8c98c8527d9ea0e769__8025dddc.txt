@@ -1,0 +1,32 @@
+Description:
+Formed from the breakdown of fuel molecules through thermooxidation and polymerization.
+
+Text:
+Transportation is currently the sector with the highest reliance on fossil fuels and accounts
+for more than a third of global CO2 emissions.1 Despite increasing electrification of the
+transport fleet, the vast majority of vehicles still use fossil fuelpowered internal combustion
+engines (ICEs).2 It is therefore crucial to increase the efficiency of ICEs to ensure that fuel
+consumption and the subsequent CO2 emissions are minimised.3 A major issue affecting
+the efficiency of modern ICEs are deposits that form on metal surfaces inside the engine,
+particularly those on the fuel injectors.4 These deposits have long been recognised as a
+problem in dieselpowered compression ignition ICEs, where recent attention has focused
+on internal injector deposits.5 Historically, injector deposits have been less of an issue for
+gasolinepowered spark ignition ICEs with port fuel injection.4 The majority of new spark
+ignition engines now use gasoline direct ignition technology, which can deliver higher power
+output and better fuel economy than the port fuel technology, but at the expense of increased
+particulate matter emissions.6 Another related problem with the widespread adoption of
+gasoline direct ignition technology is that it has led to an increase in depositrelated issues
+for gasolinepowered ICEs.4
+It is well known that deposits can lead to a decrease in power and fuel economy, as well
+as an increase in CO2 and pollutant emissions from ICEs.79 Recent studies have confirmed
+that polyaromatic hydrocarbons (PAHs) are major components of engine deposits formed in
+diesel and gasoline direct injection engines.10,11 PAHs are formed from the breakdown of fuel
+molecules through thermooxidation, which is followed by polymerization of the degradation
+products.12,13 The PAH molecules, acting as deposit precursors, grow up to 800 Da10 and
+agglomerate in the fuel until they become insoluble and are deposited onto metal surfaces.14
+Likewise, the degradation processes can be accelerated by these surfaces within the engine.15
+It is worth noting that the size of the PAH molecules is similar to those found in soot (239838
+Da).16 Deposits contain a significant amount of oxygen when initially formed, which decreases
+with time while their aromatic content and porosity increases.17
+3
+httpsdoi.org10.26434chemrxiv20244tdgm ORCID httpsorcid.org0000000218249504 Content not peerreviewed by ChemRxiv.

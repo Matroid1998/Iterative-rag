@@ -1,0 +1,11 @@
+Description:
+A compound that can be electrocatalytically reduced to produce useful products such as methanol or ethanol.
+
+Text:
+Technological advances have increased the competitiveness of solargenerated electricity 
+compared to electricity generated from fossil fuels. Similar advances are necessary to improve 
+the direct conversion of sunlight to fuels as a storage medium.13 Important solar fuels reactions 
+include water electrolysis (solartohydrogen, STH) or electrocatalytic CO2 reduction to produce 
+useful products such as methanol or ethanol.49 A fundamental limit to the energy storage 
+efficiency of these processes is the choice of reaction on the anode. In water, the anodic reaction 
+is generally water oxidation, where the cathodic products are kept and the O2 is discarded.

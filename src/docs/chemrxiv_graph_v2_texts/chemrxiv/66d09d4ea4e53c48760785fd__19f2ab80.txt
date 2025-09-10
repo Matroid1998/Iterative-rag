@@ -1,0 +1,12 @@
+Description:
+Increases capacity in active materials but makes them more prone to aging.
+
+Text:
+As the nickel content in the active material
+increases, so does the capacity, but this also makes the material significantly more prone
+to aging.3 Common aging mechanisms for Nirich cathode active materials (CAM) include
+gassing and cracking, both of which heavily impact battery safety and capacity.4,5 Among
+these, oxygen release is particularly concerning as it is the primary driver for safety haz
+ards such as thermal runaway.6 Oxygen release typically occurs at high voltages, which are
+applied at the end of charge.7 The interface between different phases in cathode materials
+also plays a critical role in determining their performance and longevity.

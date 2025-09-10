@@ -1,0 +1,52 @@
+Description:
+A prototypical chromophore with nonKasha emission from a higher state.
+
+Text:
+6, 7 
+Pyrene (see Figure 1) is a prototypical chromophore with nonKasha emission from a higher state.8
+12 Consider, for instance, the results for lowpressure pyrene vapor reported by Baba et al.9 After a low
+energy excitation into the S2 state (3.86 eV; see Figure 1), pyrene fluorescence has a single band at 3.26 
+eV (380 nm), assigned to S1 emission. However, if a higher excited state is promoted with absorption at 
+5.32 eV, a shoulder at 3.65 eV (340 nm) appears in the emission spectrum. This new feature is commonly 
+assigned to a nonKasha S2 emission. Similar features and assignments were also reported for pyrene in a 
+supersonic jet10 and lowpressure vapor.8, 12 
+
+Figure 1. Top absorption spectrum of pyrene in the gas phase (150C) from Ref.
+
+
+---
+
+Description:
+Exhibits fluorescence in low-pressure vapor after excitation at specific energy levels (3.86 eV, 4.66 eV, and 5.32 eV).
+
+Text:
+13. Bottom fluorescence of 
+pyrene in the lowpressure vapor after excitation at 3.86 eV (left), 4.66 eV (middle), and 5.32 eV (right) from Ref. 9. 3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+2.5
+3.0
+3.5
+2.5
+3.0
+3.5
+2.5
+3.0
+3.5
+Absorption
+Energy (eV)
+pyrene
+Emission
+3.86 eV
+S1
+Energy (eV)
+4.66 eV
+S1
+5.32 eV
+S1
+S2
+
+3

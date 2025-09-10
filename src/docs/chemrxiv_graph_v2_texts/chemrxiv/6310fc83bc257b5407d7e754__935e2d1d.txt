@@ -1,0 +1,11 @@
+Description:
+Used for base metal extraction in leach solutions.
+
+Text:
+Since the success of the leaching stage depends on the choice of the leach solution and leach 
+conditions, investigations to develop new leach solutions and optimization of leach parameters 
+is being undertaken. Leach solutions employed for Cu recovery include acids, bases, salts, and 
+ionic liquids. Typical acids used for base metal extraction are sulfuric acid 10, nitric acid 11, 
+hydrochloric acid 12, trifluoromethanesulfonic acid 11, and mixtures of acids 13. These 
+acids have often been used in combination with oxidants such as oxygen, H2O2, ferric salts, and 
+chlorine gas 14, 15.

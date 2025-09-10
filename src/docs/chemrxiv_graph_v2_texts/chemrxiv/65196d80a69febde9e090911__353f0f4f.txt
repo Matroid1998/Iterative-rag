@@ -1,0 +1,73 @@
+Description:
+An anion of interest in chloride ion batteries.
+
+Text:
+The interaction of halides with metal anodes is of gen
+eral interest in electrochemistry, as halides are typical
+anions present in electrolytes 13. Understanding the
+interaction between adsorbates and metal surfaces is es
+sential for designing efficient electrode materials for en
+ergy storage and conversion applications 4. Recently
+the interaction of chloride with lithium and magnesium
+electrodes has become of interest in the context of chlo
+ride ion batteries (CIBs) 57 in which lithium and mag
+nesium can be used as the anode material 8.
+
+
+---
+
+Description:
+An anion used in batteries as an alternative to lithium ion batteries, based on more abundant materials.
+
+Text:
+Batteries
+based on anions such as chloride represent an alternative
+to the widely used Liion batteries as they are typically
+based on more abundant materials and also exhibit the
+oretical energy densities which can be higher than those
+of current lithium ion batteries 9, 10. Thus they con
+tribute to more sustainable and environmentally friendly
+energy storage technologies. Yet, the interaction of halides with metal surfaces is
+also interesting from a surface science point of view. It
+has been known for a long time that the adsorption of
+halogen atoms on metal surfaces can lead to an anoma
+lous decrease in the work function 1114.
+
+
+---
+
+Description:
+A salt formed during the conversion of a metal anode in Cl-ion batteries.
+
+Text:
+These com
+putational studies found that Cl preferentially adsorbs
+in the threefold hollow positions on Mg(0001) associ
+ated with a slight increase in the workfunction. Upon
+the operation of a Clion batteries, the metal anode will
+be converted to a chloride salt which provides the ther
+modynamical driving force for the discharge of a Clion
+battery. The energy gain upon this conversion does in
+fact represent the driving force in the Clion battery op
+eration 5, 6. This means that the adsorption of chlorine
+on the metal anode does only correspond to the first step
+in the anode conversion upon discharge.
+
+
+---
+
+Description:
+A salt formed from the conversion of a metal anode in Clion batteries.
+
+Text:
+Still, it is in
+teresting from a fundamental as well as from an applied
+point of view how the overall conversion of the metal an
+ode on Clion batteries from a bulk metal to a chloride
+salt proceeds. It is wellknown that metals can form socalled surface
+oxides, i.e. thin adsorbed films with an oxidelike struc
+ture, upon the exposure of metals to an oxygen atmo
+sphere as a function of the oxygen concentration 21, 22. Hence the question arises whether metal surfaces upon
+the exposure to halogen species might form equivalent
+structure corresponding to a surface salt, i.e., thin films
+with metalhalide like structures.

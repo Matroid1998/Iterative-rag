@@ -1,0 +1,32 @@
+Name: Oxalic Acid
+Text:
+Oxalic acid is an odorless white solid. Sinks and mixes with water. (USCG, 1999)
+Oxalic acid is an alpha,omega-dicarboxylic acid that is ethane substituted by carboxyl groups at positions 1 and 2. It has a role as a human metabolite, a plant metabolite and an algal metabolite. It is a conjugate acid of an oxalate(1-) and an oxalate.
+Oxalic acid is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Oxalic Acid has been reported in Camellia sinensis, Microchloropsis, and other organisms with data available.
+OXALIC ACID is a small molecule drug that was first approved in 2018.
+Oxalic acid is a dicarboxylic acid. It is a colorless crystalline solid that dissolves in water to give colorless, acidic solutions. In terms of acid strength, it is much stronger than acetic acid. Oxalic acid, because of its di-acid structure can also act as a chelating agent for metal cations. About 25% of produced oxalic acid is used as a mordant in dyeing processes. It is also used in bleaches, especially for pulpwood. Oxalic acid's main applications include cleaning (it is also found in baking powder) or bleaching, especially for the removal of rust. Oxalic acid is found in a number of common foods with members of the spinach family being particularly high in oxalates. Beat leaves, parsley, chives and cassava are quite rich in oxalate. Rhubarb leaves contain about 0.5% oxalic acid and jack-in-the-pulpit (Arisaema triphyllum) contains calcium oxalate crystals. Bacteria naturally produce oxalates from the oxidation of carbohydrates. At least two pathways exist for the enzyme-mediated formation of oxalate in humans. In one pathway, oxaloacetate (part of the citric acid cycle) can be hydrolyzed to oxalate and acetic acid by the enzyme oxaloacetase. Oxalic acid can also be generated from the dehydrogenation of glycolic acid, which is produced by the metabolism of ethylene glycol. Oxalate is a competitive inhibitor of lactate dehydrogenase (LDH). LDH catalyses the conversion of pyruvate to lactic acid oxidizing the coenzyme NADH to NAD+ and H+ concurrently. As cancer cells preferentially use aerobic glycolysis, inhibition of LDH has been shown to inhibit tumor formation and growth. However, oxalic acid is not particularly safe and is considered a mild toxin.  In particular, it is a well-known uremic toxin.  In humans, ingested oxalic acid has an oral lowest-published-lethal-dose of 600 mg/kg. It has been reported that the lethal oral dose is 15 to 30 grams. The toxicity of oxalic acid is due to kidney failure caused by precipitation of solid calcium oxalate, the main component of kidney stones. Oxalic acid can also cause joint pain due to the formation of similar precipitates in the joints.
+A strong dicarboxylic acid occurring in many plants and vegetables. It is produced in the body by metabolism of glyoxylic acid or ascorbic acid. It is not metabolized but excreted in the urine. It is used as an analytical reagent and general reducing agent.
+See also: Oxalic acid dihydrate (active moiety of); Sodium Oxalate (is active moiety of) ... View More ...
+Properties:safety: Irritant
+smiles: C(=O)(C(=O)O)O
+formula: C2H2O4
+chem_properties: Molecular Weight: 90.03 g/mol
+XLogP3: -0.3
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 1
+Exact Mass: 89.99530854 Da
+Monoisotopic Mass: 89.99530854 Da
+Topological Polar Surface Area: 74.6
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 71.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

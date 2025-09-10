@@ -1,0 +1,11 @@
+Description:
+Found to be unstable during OER due to Sr leaching and oxygen vacancy formation.
+
+Text:
+Ba0.5Sr0.5Co0.8Fe0.2O3 (BSCF), was proposed to be extremely active based on its optimal eg electron 
+count of around unity5, but was later found to be unstable during OER9. Large proportions of the surface 
+and eventually parts of the bulk amorphized via Srleaching and oxygenvacancy formation forming an 
+highly OER active Co(Fe)OxHy surface phase,9 similar to that made by other methods such as 
+electrodeposition10. In a related study, a surface CoFe spinel oxide minority species on the underlying 
+BSCF perovskite was determined to be responsible for dynamic, reversible conversion to an 
+oxyhydroxide11.

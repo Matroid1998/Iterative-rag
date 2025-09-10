@@ -1,0 +1,13 @@
+Description:
+Probably forms a spinel (Fd3m) phase observed in X-ray diffraction patterns.
+
+Text:
+At higher temperatures they decompose into an 
+equilibrium mixture of two solid solutions cubic (depleted ZnO) and wurtzite (enriched ZnO). In 
+the case of solid solutions with low (x  0.2, 0.1) ZnO content, a more complicated behavior is 
+observed 8. Due to the thermodynamic instability of cubic FeO (wstite) at temperatures below 
+843 K, weak lines of Fe and spinel (Fd3m) phase (probably of Zn1yFeyFe2O4 composition) 
+appear in the Xray diffraction patterns when these solid solutions are heated above 700 K. Then the 
+intensity of these lines decreases and at temperatures above 900 K they disappear completely 8. At 
+the same time, the formation of solid solutions with wurtzite structure is not observed up to 1100 K 
+(the maximum temperature reached in the experiment).

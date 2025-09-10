@@ -1,0 +1,26 @@
+Name: N-(4-Hydroxyphenyl)glycine
+Text:
+N-(p-hydroxyphenyl)glycine is a phenol that is the N-(4-hydroxyphenyl) derivative of glycine. Synthesised by reaction of p-aminophenol with chloracetic acid, it is used as a photographic developing agent. It has a role as an allergen. It is a glycine derivative, a member of phenols and a non-proteinogenic alpha-amino acid.
+See also: 4-Hydroxyphenylglycine, D-(-)- (annotation moved to).
+Properties:safety: Irritant
+smiles: C1=CC(=CC=C1NCC(=O)O)O
+formula: C8H9NO3
+chem_properties: Molecular Weight: 167.16 g/mol
+XLogP3: 0.3
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 3
+Exact Mass: 167.058243149 Da
+Monoisotopic Mass: 167.058243149 Da
+Topological Polar Surface Area: 69.6
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 152
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

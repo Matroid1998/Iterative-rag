@@ -1,0 +1,28 @@
+Description:
+A bioavailable form of nitrogen produced from dinitrogen by nitrogen-fixing microorganisms.
+
+Text:
+Nitrogen fixation, a critical process for sustaining life on Earth, plays an essential role in the
+global nitrogen cycle, and provides bioavailable nitrogen for the growth and development
+of all living organisms. Although the atmosphere is composed of approximately 78
+nitrogen, its inert nature renders it inaccessible to most life forms. Nature has evolved an
+intricate mechanism to overcome this barrier, primarily through the activity of nitrogen
+fixing microorganisms capable of reducing dinitrogen (N2) into bioavailable forms such
+as ammonia (NH3). Nitrogen fixation driven by transition metal complexes offers a
+less energy intensive alternative to the conventional HaberBosch process 1. These
+complexes can effectively catalyze the conversion of N2 to NH3 under similar conditions
+as the nitrogenase enzymes in nature.
+
+
+---
+
+Description:
+The product of dinitrogen reduction using molybdenum-based complexes.
+
+Text:
+A key breakthrough was Schrocks discovery of
+molybdenumbased complexes capable of binding and reducing dinitrogen to ammonia
+under ambient conditions. His work led to the development of the first welldefined,
+homogeneous catalyst containing a single metal site for nitrogen fixation, known as the
+1
+httpsdoi.org10.26434chemrxiv2023t73mw ORCID httpsorcid.org0000000214651010 Content not peerreviewed by ChemRxiv. License CC BY 4.0

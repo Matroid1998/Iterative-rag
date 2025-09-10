@@ -1,0 +1,29 @@
+Name: Butane
+Text:
+Butane is a colorless gas with a faint petroleum-like odor. For transportation it may be stenched. It is shipped as a liquefied gas under its vapor pressure. Contact with the liquid can cause frostbite. It is easily ignited. Its vapors are heavier than air. Any leak can be either liquid or vapor. Under prolonged exposure to fire or intense heat the containers may rupture violently and rocket. It is used as a fuel, an aerosol propellant, in cigarette lighters, and to make other chemicals.
+Butane is a straight chain alkane composed of 4 carbon atoms. It has a role as a food propellant and a refrigerant. It is a gas molecular entity and an alkane.
+Butane has been reported in Calendula officinalis and Stemona tuberosa with data available.
+BUTANE is a small molecule drug with a maximum clinical trial phase of I and has 1 investigational indication.
+n-Butane is a hydrocarbon and one of two isomers of butane. Butanes are highly flammable, colorless, odorless, easily liquefied gases. They are components of gasoline and can also be used as refrigerants and propellants in aerosol sprays. Butane gas is sold bottled as a fuel for cooking and camping and is also found in cigarette lighters. Butane is a simple asphyxiant and commonly used substance of abuse that is responsible for a large number of "solvent related" deaths. (L1283, L1284)
+Properties:safety: Flammable and Compressed Gas
+smiles: CCCC
+formula: C4H10
+chem_properties: Molecular Weight: 58.12 g/mol
+XLogP3: 2.9
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 1
+Exact Mass: 58.078250319 Da
+Monoisotopic Mass: 58.078250319 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

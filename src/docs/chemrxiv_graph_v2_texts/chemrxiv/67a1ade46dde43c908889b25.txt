@@ -1,0 +1,25 @@
+Description:
+An NMR active spin 1/2 nucleus used in protein dynamics analysis.
+
+Text:
+The dynamic exchange of conformational states is crucial to 
+protein function.1,2 Modern NMR spectroscopy provides an 
+extensive array of techniques to analyse protein dynamics, 
+interactions and structure of proteins in solution.39 The majority 
+of these experiments require the insertion of NMR active spin 12 
+nuclei like carbon13 and nitrogen15 orand the replacement of 
+protons with deuterons to reduce spectral complexity, increase 
+resolution and optimize magnetization transfer pathways.1013 
+While many experiments exclusively focus on the protein 
+backbone, it becomes more and more evident that the full 
+potential of protein NMR can only be released when selective 
+isotope patterns, which are tailored to pulse sequences aiming for 
+side chain detection, are considered.1419 Especially, the 
+functional groups at the end of longer side chains display 
+additional 
+conformational 
+dynamics, 
+which 
+are 
+largely 
+independent from backbone motion.

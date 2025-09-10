@@ -1,0 +1,12 @@
+Description:
+Used in labeling water to distinguish hydride stretching modes.
+
+Text:
+For multifunctional substrates, linear IR
+and Raman spectroscopy can provide an immediate survey over competing hydrogen bond dock
+ing sites due to the simplicity and intensity of the vibrational ngerprint of the OH group13,14. Double resonance techniques allow for rigorous size and conformational distinction15, relaxation
+experiments can identify the most stable conformation16, and 18O labelling of water can un
+ambiguously discriminate from other hydride stretching modes in the vicinity17. The spectral
+position of the OH stretching vibration is very sensitive to the strength of the hydrogen bond,
+spanning about two orders of magnitude in relation to the typical spectral width of an isolated
+vibrational transition.

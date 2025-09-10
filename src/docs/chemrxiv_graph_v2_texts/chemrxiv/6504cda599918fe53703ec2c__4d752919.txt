@@ -1,0 +1,13 @@
+Description:
+Has an NCl bond length of 1.69 Å.
+
+Text:
+Although anomeric amide chlorinat
+ing reagent 6 and Palauchlor have the same NCl bond length (both 
+1.73 , longer than 1.66  for TCCA49 and 1.69  for NCS50), the con
+version of 14 to 14Cl is calculated to be more energetically favorable by 
+a factor of 102.7 (G  3.75 kcalmol) using 6 (Figure 3A), which 
+is in accord with experimental findings. To gain deeper insight into this 
+higher reactivity, DFT calculations of the NCl bond breaking energy 
+(from the ground state to the corresponding anion and Cl) for both re
+agents was performed.

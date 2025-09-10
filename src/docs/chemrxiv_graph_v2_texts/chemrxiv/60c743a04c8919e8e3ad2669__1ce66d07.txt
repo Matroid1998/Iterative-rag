@@ -1,0 +1,27 @@
+Description:
+Similar in structure to hexagonal boron nitride, with a two-dimensional hexagonal pattern.
+
+Text:
+This includes the 
+voltammetric behavior at inlaid microdisk electrodes, put forth by Feldberg, who predicted 
+peculiar deviations of the steadystate voltammograms from the commonlyused ButlerVolmer 
+model of electrochemical kinetics.5 
+Hexagonal boron nitride (hBN) is arranged into twodimensional (2D) layers, in which 
+boron and nitrogen atoms are covalently bound in an alternating hexagonal pattern, similar to 
+graphene. These layers are held together by van der Waals (vdW) forces in bulk hBN.
+
+
+---
+
+Description:
+Exhibits increased carrier mobility when supported or encapsulated by hBN due to atomic flatness and lack of dangling bonds.
+
+Text:
+The lattice 
+mismatch between hBN and graphene is only 1.5,67 their bulk interlayer spacing is nearly 
+identical (3.33.4 ),78 and its polar nature renders hBN insulating, with a wide band gap of 6 
+eV.910 These characteristics lead to an increased carrier mobility in graphene supported or 
+encapsulated by hBN, owing to the atomic flatness, lack of dangling bonds, and suppression of 
+charge doping at the graphenehBN interface.1113 It transpires from the present work that hBN is 
+a suitable medium to study longrange electron tunneling, which leads to the observation of the 
+MarcusHush behavior.

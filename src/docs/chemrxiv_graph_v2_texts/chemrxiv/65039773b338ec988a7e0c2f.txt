@@ -1,0 +1,27 @@
+Description:
+A metal involved in the active sites of nonheme iron halogenases and hydroxylases.
+
+Text:
+For nonheme 
+iron halogenases in particular2830, e.g., SyrB231, 32, CytC333, 34, WelO535, and BesD,36 the active 
+sites are similar to other nonheme iron enzymes with only one major change. In comparison to 
+more well understood nonheme iron hydroxylases,3739 the halogenases have a halide coordinating 
+the metal center, i.e., native chloride or nonnative bromide. This halide is bound in place of a 
+carboxylate of the 2His1carboxylate facial triad of the hydroxylases4042 because in the 
+halogenases there is no carboxylatebearing aspartate or glutamate residue present and instead a 
+noncoordinating alanine residue is typically present to create a hydrophobic pocket for halide 
+binding.
+
+
+---
+
+Description:
+Nonheme iron halogenases natively carry out CH chlorination and CH bromination has been observed in vitro in SyrB2.
+
+Text:
+Despite this understanding of halogenases, it is extremely hard43 to develop selective 
+processes for CH halogenation using synthetic methods due to the inertness44 of CH bonds and 
+their high bond dissociation energy. Nonheme iron halogenases natively carry out CH chlorination28, 32, 35, and CH 
+bromination has been observed in vitro in SyrB2 but with lower efficiency23, 45 than chlorination. This is corroborated by the abundance13, 46, 47 of chlorinated and brominated natural products. On 
+the contrary, CH fluorination has never been observed23, 46, 48, 49 in any of the nonheme iron 
+httpsdoi.org10.26434chemrxiv2023v4p8q ORCID httpsorcid.org0000000193420191 Content not peerreviewed by ChemRxiv. License CC BY 4.0

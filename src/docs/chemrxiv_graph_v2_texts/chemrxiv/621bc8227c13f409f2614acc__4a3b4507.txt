@@ -1,0 +1,18 @@
+Description:
+Units that stabilize the diradical state, leading to magnetic bistability at room temperature.
+
+Text:
+In a 
+subsequent optimization of Kubos system, Feringa and co
+workers introduced additional steric bulk in the fjord
+region and thiaxanthylidene units that stabilize the 
+diradical state, which eventually lead to absolute magnetic 
+bistability at room temperature. However, the stabilization 
+of spin states states that is dominantly based on 
+conformational changes could be a conceptual limitation for 
+the future demand of tuned bistability of molecular 
+magnetic switches. Hence, switching mechanisms based on 
+photochemical reactions that involve the making and 
+breaking of chemical bonds is a motivating alternative 
+concept to achieve amplified bistability among the magnetic 
+states.

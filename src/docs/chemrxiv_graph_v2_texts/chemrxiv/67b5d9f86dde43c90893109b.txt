@@ -1,0 +1,16 @@
+Description:
+A compound studied in the 1950s for its role in molecular magnetism.
+
+Text:
+Polymetallic complexes of CuII represented the gateway to the field of molecular magnetism, beginning with 
+studies of copper acetate1 in the 1950s through to the development of magnetostructural correlations in 
+hydroxide and halidebridged dimers in the 1970s and 80s.2 Later research revealed the presence of spin 
+frustration in equilateral CuII triangles and prompted detailed studies into the mechanisms of magnetic 
+exchange.3 Indeed, high symmetry molecules are often ideal model complexes to examine geometric spin
+frustration, and for larger nuclearity cages this can lead to some exotic behaviour including enhanced ground
+state degeneracy, lowlying singlets, noncollinear ground states and unusual magnetisation 
+plateausjumps.4 The synthesis of high symmetry molecules is however not trivial.5 One approach is to build 
+small nuclearity, high symmetry complexes such as triangles or squares, since these are the building blocks 
+of certain Archimedean and Platonic (or Keplerate) polyhedra, and assemble them into larger species often 
+at high temperatures and pressures.6 An additional challenge comes in designing an organic ligand capable 
+of stabilising such building blocks, and an excellent candidate is ptertbutylthiacalix4arene (H4TC4A, Fig.

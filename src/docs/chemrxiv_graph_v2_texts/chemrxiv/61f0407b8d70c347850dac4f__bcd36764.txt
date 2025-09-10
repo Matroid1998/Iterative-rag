@@ -1,0 +1,19 @@
+Description:
+Compounds such as azCA47 and redazCA48 are photoswitchable ligands for TRPV1.
+
+Text:
+The twentyeight Transient Receptor Potential (TRP) 
+channels have crucial roles in sensing and integrating a 
+wide range of stimuli.1 Betterknown members include 
+TRPV1 (heat) and TRPM8 (cold) for which a 2021 Nobel 
+Prize was awarded, and TRPA1 (electrophiles). As these 
+channels are expressed in many tissues but play different 
+biological roles in these tissues,2 potentially with time
+dependent aspects, a range of photoswitchable ligands 
+have been actively developed to elucidate their tissue and 
+timespecific roles through spatiotemporally precise 
+modulation.3 Notable photoswitchable TRP ligands 
+include analogues of diacylglycerols (PhoDAGs)4,5 and of 
+small polar GSK ligands6 for TRPC2,3,6; azovanilloids 
+(azCA47, redazCA48) for TRPV1; and TRPswitch9 for 
+TRPA1.

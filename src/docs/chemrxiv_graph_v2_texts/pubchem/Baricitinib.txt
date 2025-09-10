@@ -1,0 +1,31 @@
+Name: Baricitinib
+Text:
+Baricitinib is a pyrrolopyrimidine that is 7H-pyrrolo[2,3-d]pyrimidine substituted by a 1-[3-(cyanomethyl)-1-(ethanesulfonyl)azetidin-3-yl]-1H-pyrazol-4-yl group at position 5. It is an FDA approved selective Janus Kinase 1 and 2 (JAK1 and JAK2) inhibitor used for the treatment of rheumatoid arthritis. It has a role as an antirheumatic drug, an EC 2.7.10.2 (non-specific protein-tyrosine kinase) inhibitor, an anti-inflammatory agent, an immunosuppressive agent and an antiviral agent. It is a pyrrolopyrimidine, a member of pyrazoles, a member of azetidines, a sulfonamide and a nitrile.
+Baricitinib is a Janus kinase (JAK) inhibitor. JAKs are tyrosine protein kinases that play an important role in pro-inflammatory signaling pathways. Overactive JAKs have been implicated in autoimmune disorders, such as rheumatoid arthritis. By inhibiting the actions of JAK1 and JAK2, baricitinib attenuates JAK-mediated inflammation and immune responses.  Baricitinib was first approved by the European Commission (EC) in February 2017 for the treatment of rheumatoid arthritis in adults and was later approved by the FDA in 2018. The EC later approved baricitinib for the treatment of atopic dermatitis, making it the first JAK inhibitor used for this indication in Europe. While baricitinib was granted emergency use as a treatment for COVID-19 in combination with [remdesivir] under the Emergency Use Authorization (EUA) in November 2020, the FDA fully approved the use of baricitinib for the treatment of COVID-19 in May 2022.
+Baricitinib is a Janus Kinase Inhibitor. The mechanism of action of baricitinib is as a Janus Kinase Inhibitor.
+Baricitinib is an orally available small molecule inhibitor of Janus kinases that is used to treat moderate-to-severe rheumatoid arthritis, severe alopecia areata, and, in combination with remdesivir, severe COVID-19 in hospitalized patients requiring supplementary oxygen. Baricitinib is associated with transient and usually mild elevations in serum aminotransferase levels during therapy but has yet to be linked to cases of clinically apparent acute liver injury.
+Baricitinib is an orally bioavailable inhibitor of Janus kinases 1 and 2 (JAK1/2), with potential anti-inflammatory, immunomodulating and antineoplastic activities. Upon administration, baricitinib binds to JAK1/2, which inhibits JAK1/2 activation and leads to the inhibition of the JAK-signal transducers and activators of transcription (STAT) signaling pathway. This decreases the production of inflammatory cytokines and may prevent an inflammatory response. In addition, baricitinib may induce apoptosis and reduce proliferation of JAK1/2-expressing tumor cells. JAK kinases are intracellular enzymes involved in cytokine signaling, inflammation, immune function and hematopoiesis; they are also upregulated and/or mutated in various tumor cell types.
+BARICITINIB is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2017 and is indicated for rheumatoid arthritis and immune system disease and has 27 investigational indications. This drug has a black box warning from the FDA.
+See also: Baricitinib phosphate (is active moiety of).
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: CCS(=O)(=O)N1CC(C1)(CC#N)N2C=C(C=N2)C3=C4C=CNC4=NC=N3
+formula: C16H17N7O2S
+chem_properties: Molecular Weight: 371.4 g/mol
+XLogP3: -0.5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 5
+Exact Mass: 371.11644398 Da
+Monoisotopic Mass: 371.11644398 Da
+Topological Polar Surface Area: 129
+Heavy Atom Count: 26
+Formal Charge: 0
+Complexity: 678
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

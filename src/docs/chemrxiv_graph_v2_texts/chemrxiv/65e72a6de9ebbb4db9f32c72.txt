@@ -1,0 +1,14 @@
+Description:
+A state-of-the-art catalyst for nitrogen reduction reactions.
+
+Text:
+HEAs have been shown to hold great potential for catalyst dis
+covery,3037,4150 having been investigated for many different re
+actions,48,5163 including electrocatalytic nitrogen reduction.6466
+However, previous investigations for N2RR on HEAs have either
+been experimental or have not calculated the dissociation barriers
+for the reaction. Knowing the activation energy is of utmost impor
+tance for properly evaluating activity compared to stateoftheart
+catalysts like Fe and Ru. The aim of this paper is to investigate highentropy alloys as a
+discovery platform for N2RR catalysts using theory and simula
+tions.

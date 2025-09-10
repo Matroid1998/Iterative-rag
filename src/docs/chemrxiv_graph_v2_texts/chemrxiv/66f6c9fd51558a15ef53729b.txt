@@ -1,0 +1,12 @@
+Description:
+Copolymerized with (meth)acrylates to improve mechanical properties in vat photopolymerized objects.
+
+Text:
+The mechanical properties of printed parts are 
+currently not only limited by the material properties but also by the layerbylayer printing technique, which 
+typically causes earlier material failure compared to bulkcured parts without this layering effect. In a first step towards better material properties for vat photopolymerized objects, epoxides or oxetanes 
+were copolymerized with (meth)acrylates.69 While the reactivity of pure epoxide resins was originally too 
+low to be printed, partial substitution of (meth)acrylates with ringopening monomers was already a first 
+step towards less shrinkage stress and concurring better mechanical performance.10, 11 With the advent of 
+Hot Lithography, a stereolithographic printing method, which utilizes a precisely heated vat and building 
+platform of up to 140 C, the possibility arose to broaden the material chemistry horizon.

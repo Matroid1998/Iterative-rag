@@ -1,0 +1,35 @@
+Name: Diazepam
+Text:
+Diazepam can cause developmental toxicity according to state or federal government labeling requirements.
+Diazepam is an off-white to yellow crystalline powder. Practically odorless. Tasteless at first with a bitter aftertaste. (NTP, 1992)
+Diazepam is a 1,4-benzodiazepinone that is 1,3-dihydro-2H-1,4-benzodiazepin-2-one substituted by a chloro group at position 7, a methyl group at position 1 and a phenyl group at position 5. It has a role as a xenobiotic, an environmental contaminant, an anxiolytic drug, an anticonvulsant and a sedative. It is a 1,4-benzodiazepinone and an organochlorine compound.
+Diazepam is a DEA Schedule IV controlled substance. Substances in the DEA Schedule IV have a low potential for abuse relative to substances in Schedule III. It is a Depressants substance.
+A benzodiazepine with anticonvulsant, anxiolytic, sedative, muscle relaxant, and amnesic properties and a long duration of action. Its actions are mediated by enhancement of gamma-aminobutyric acid activity. It is used in the treatment of severe anxiety disorders, as a hypnotic in the short-term management of insomnia, as a sedative and premedicant, as an anticonvulsant, and in the management of alcohol withdrawal syndrome. (From Martindale, The Extra Pharmacopoeia, 30th ed, p589)  Given diazepam's storied history as a commonly used and effective medication for a variety of indications, contemporary advancements in the formulation and administration of the agent include the development and US FDA approval of an auto-injectable formulation for the rapid treatment of uncontrolled seizures in 2015-2016. Combining diazepam, a proven effective therapy for acute repetitive seizures, with an auto-injector designed for subcutaneous administration that is quickly and easily administered offers the potential for complete, consistent drug absorption and rapid onset of effect. This current development is subsequently an important addition to the rescue therapy tool chest for patients with epilepsy.
+Diazepam is a Benzodiazepine.
+Diazepam has been reported in Solanum tuberosum, Glycine max, and other organisms with data available.
+Diazepam is a benzodiazepine derivative with anti-anxiety, sedative, hypnotic and anticonvulsant properties. Diazepam potentiates the inhibitory activities of gamma-aminobutyric acid (GABA) by binding to the GABA receptor, located in the limbic system and the hypothalamus. This increases the frequency of chloride channel opening, allowing the flow of chloride ions into the neuron and ultimately leading to membrane hyperpolarization and a decrease in neuronal excitability.
+DIAZEPAM is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1963 and has 6 approved and 11 investigational indications. This drug has a black box warning from the FDA.
+Diazepam is a benzodiazepine with anticonvulsant, anxiolytic, sedative, muscle relaxant, and amnesic properties and a long duration of action. Its actions are mediated by enhancement of gamma-aminobutyric acid activity. It is used in the treatment of severe anxiety disorders, as a hypnotic in the short-term management of insomnia, as a sedative and premedicant, as an anticonvulsant, and in the management of alcohol withdrawal syndrome. (From Martindale, The Extra Pharmacopoeia, 30th ed, p589).
+A benzodiazepine with anticonvulsant, anxiolytic, sedative, muscle relaxant, and amnesic properties and a long duration of action. Its actions are mediated by enhancement of GAMMA-AMINOBUTYRIC ACID activity.
+Properties:safety: Acute Toxic
+smiles: CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3
+formula: C16H13ClN2O
+chem_properties: Molecular Weight: 284.74 g/mol
+XLogP3: 3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 284.0716407 Da
+Monoisotopic Mass: 284.0716407 Da
+Topological Polar Surface Area: 32.7
+Heavy Atom Count: 20
+Formal Charge: 0
+Complexity: 403
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

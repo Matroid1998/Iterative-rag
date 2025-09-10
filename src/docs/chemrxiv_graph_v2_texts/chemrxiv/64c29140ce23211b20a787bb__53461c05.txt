@@ -1,0 +1,15 @@
+Description:
+Exhibits weak n-type semiconducting behavior when undoped and degenerate conductivity when doped with La or F.
+
+Text:
+Its defect chemistry has been studied previ
+ously with hybrid density functional theory (DFT), indicating weak ntype semiconducting
+behaviour when undoped, and degenerate conductivity when doped with La or F.1316
+However, computational investigation into its ptype defect chemistry have thus far been
+overlooked. The combination of optical transparency and bipolar conductivity in a single material,
+implying the possibility of a transparent pn homojunction, is a lucrative prospect, as it
+would simplify deposition and minimise strain at the interface between the p and ntype
+layers within a device (compared to a pn heterojunction such as SnOSnO2).17 Achieving
+bipolarity in BaSnO3 is particularly appealing due to its perovskite structure, which could
+enable a transparent pn homojunction as part of a larger perovskite oxide device with
+relative ease.

@@ -1,0 +1,43 @@
+Description:
+A component in NMC cathode materials, with increasing content in each iteration for improved performance.
+
+Text:
+Decarbonisation of the automotive industry has highlighted battery technologies as a viable suc
+cessor to petroleumbased travel. With increasing performance of stateoftheart Liion battery
+materials comes a tendency to initiate degradative mechanisms more rapidly than acceptable
+for commercially viable products. Even with the greatest gravimetric and volumetric density,
+promising transition metal (TM) oxide cathode materials can suer from limited cycle life, high
+cost, and reduced performance. NMC (Li1Ni1xy Mnx CoyO2) based Liion batteries have
+emerged as the most promising successor to LiCoO2 chemistry and could potentially facilitate
+ubiquitous adoption of Liion in mobile and transport devices.1 High specic capacities, high
+rate capability, and longterm cycling abilities are driving extensive research into these cathode
+materials, forcing a greater nickel content with each iteration.
+
+
+---
+
+Description:
+Has redox capability making it attractive for Li-ion operation.
+
+Text:
+The redox capability of nickel
+makes it highly attractive for Liion operation, being able to cycle between Ni(II) and Ni(III)
+as well as Ni(III) to Ni(IV) without a signicant deviation in operational voltage.
+
+
+---
+
+Description:
+An element that increases the specific capacity of NMC811 cathodes.
+
+Text:
+This has
+presented as an increase in nickel content to the current NMC811 cathode, which exhibits a
+specic capacity of 190  220 mAh.g1.2
+Initial observations of NMC811 by Xray diraction show an expansion in the clattice param
+eter followed by a drastic reduction shortly after 4.1 V vs LiLi, often termed the lattice
+collapse.2,3 Upwards of 4.1 V, delithiation is signicant enough to reduce the interlayer spacing
+between TMoxygen layers to less than that of a fully lithiated lattice.2,4 The evolution in the
+a and clattice parameters coincides with a total unit cell volumetric reduction; during charg
+ing, the removal of lithium causes a contraction in the TMO bond length from 2.87 to 2.81
+, manifesting in a shrinkage of the alattice parameter.

@@ -1,0 +1,10 @@
+Description:
+A compound involved in electrocatalytic reduction processes.
+
+Text:
+One of the current most pressing scientific challenges is the development of selective 
+catalysts for the reduction of CO2, which would enable us to process CO2 more efficiently and 
+at smaller costs.13 Electrocatalytic CO2 reduction seems to be the most promising direction4
+6 and many catalysts are currently being developed.712 Optimization of their structures has 
+led to impressively improved properties,1317 but the low selectivity with regard to undesired 
+side reactions, such as hydrogen evolution, remains problematic.

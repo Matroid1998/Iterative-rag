@@ -1,0 +1,12 @@
+Description:
+Forms species such as CO or CHx fragments that interact with transition metals like Cu and Ni.
+
+Text:
+The chemical potentials of reactants, products, and intermediates affect the architectures
+of catalysts,13 however, the dynamics under reaction conditions remain poorly understood. Tracking these changes requires using complex operando techniques, the results of which are
+often difficult to obtain and to interpret due to the average nature of the signals, or the
+presence of spectators.2,4 To give an example, structural rearrangements were inferred from
+changes in kinetic regimes when using microkinetics for CO2 hydrogenation to methanol
+with CuZnO.1 However, models that elucidate the implications of dynamic catalysts on
+performance are currently unavailable. Catalytic systems based on firstrow transition metals like Cu and Ni undergo surface
+rearrangements in the presence of carbon species, such as CO or CHx fragments.

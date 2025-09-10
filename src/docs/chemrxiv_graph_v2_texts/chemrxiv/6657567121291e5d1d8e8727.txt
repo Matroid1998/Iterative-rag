@@ -1,0 +1,18 @@
+Description:
+Compounds used in cancer therapy that destabilize microtubules.
+
+Text:
+This is perhaps most clearly seen in 
+the drastic MT reorganizations needed for spindle formation 
+during cell division, which render MTs a prime target for antimitotic 
+drugs.5 Indeed, many MTdestabilising and MTstabilising 
+compounds (vinca alkaloids, maytansines, taxanes, epothilones) 
+have been developed for cancer therapy.6 As MTs are highly 
+conserved, such small molecule drugs are also easily applicable 
+across eukaryotic cell biology as tool compounds for cytoskeleton 
+research. However, since so many different processes depend on 
+MT architecture and dynamics, but all are modified at the same 
+time by drug application, their practical utility for resolving MT
+dependent biology is limited since they lack any spatiotemporal 
+precision of action. Photopharmacology aims to develop photoresponsive drugs 
+for just such spatiotemporally resolved studies.

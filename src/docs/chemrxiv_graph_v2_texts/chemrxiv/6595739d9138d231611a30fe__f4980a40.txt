@@ -1,0 +1,44 @@
+Description:
+Synthetic chemicals known for their significant toxicity and persistence in the environment.
+
+Text:
+30 
+Per and polyfluoroalkyl substances (PFAS) are synthetic chemicals used since the 1940s.1 Their 
+31 
+ubiquitous presence in the environment, significant toxicity, and persistence have raised growing 
+32 
+public concerns.2 Aqueous filmfoaming foam (AFFF) was identified as the major culprit 
+33 
+responsible for the elevated PFAS concentration in the receiving water and soil of manufacturing 
+34 
+sites, airports, and military fire training areas.35 
+35 
+The most urgently needed proactive solution to curb new PFAS contamination from using 
+36 
+AFFF is the disposal of the existing chemical stockpile.
+
+
+---
+
+Description:
+Chemicals that are targeted for removal due to their structurally dependent reactivity.
+
+Text:
+46 
+The past investigations of PFAS defluorination were heavily invested in the treatment of model 
+47 
+PFAS, with only a few studies that used electrochemical oxidation, plasma, advanced oxidation, 
+48 
+and UVsulfite photoreduction to treat diluted AFFF with total fluorine (TF) ranging between 0.1
+49 
+27 mg FL.1317 All these technologies demonstrated structurally dependent reactivity in removing 
+50 
+target PFAS, and none achieved nearcomplete defluorination. To date, only hydrothermal alkaline 
+51 
+treatment realized 100 defluorination of AFFF but demands high temperature (170350C), 
+52 
+pressurized reactors (222 MPa), and alkaline addition (5 M of NaOH).18 
+53 
+Ball milling (BM) is an emerging technology for destroying PFAS chemicals at ambient 
+54 
+conditions.

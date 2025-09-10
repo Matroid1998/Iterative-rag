@@ -1,0 +1,32 @@
+Description:
+Candidate molecules for redox flow battery electrolytes and electrochemical CO2 capture.
+
+Text:
+Quinone and hydroquinonebased molecules have gathered attention as candidate molecules
+for a variety of purposes  redox ow battery electrolytes,19 electrochemical CO2 capture,10
+uorescence and colorimetric sensors,11,12 and pharmaceutical products,13 among other ap
+plications.14 Recently, eutectic mixtures of small organic molecules have also gained attention
+as candidate materials for ow battery electrolytes.1518 In order to identify promising ma
+terials for eutectic electrolytes, determining the melting temperatures of the quinone and
+hydroquinone molecules is essential.19 With an eective approximation of the regular solu
+tion model,20,21 the melting points of the singlecomponent quinones and hydroquinones can
+be used to predict the melting point of a eutectic mixture.
+
+
+---
+
+Description:
+An organic molecule for which melting point prediction is desirable.
+
+Text:
+However, melting data is not
+readily available for all the quinones and hydroquinones of interest, so having a model that
+predicts the melting points of quinone and hydroquinone molecules is highly desirable.22
+Various approaches are employed to predict organic compound melting points.2325 Many
+models employ group contribution methods (GCMs).26,27 These are additive methods that
+sum the contributions from all of the functional groups within a molecule. However, these
+methods do not account for intermolecular interactions between functional groups on dier
+ent molecules.28 Treating molecules as isolated species neglects eects such as Van der Waals
+(VdW) and hydrogen bonding, which are key contributors to macroscopic properties such
+as melting point. Karthikeyan et al.29 recognized this in their machinelearning (ML) based
+approach to predicting melting points of organic chemicals.

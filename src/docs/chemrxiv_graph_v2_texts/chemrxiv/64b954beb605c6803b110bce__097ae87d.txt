@@ -1,0 +1,14 @@
+Description:
+A molecular dopant with a LUMO at 5.24 eV used as a p-type dopant.
+
+Text:
+Thus, a detailed under
+standing of evolution of electronic interactions during the doping process is paramount. In ptype doping, the molecular dopant is often chosen such that its lowest unoccu
+pied molecular orbital (LUMO) is lower in energy than the highest occupied molecular or
+bital (HOMO) of the conjugated polymer. The molecular dopant 2,3,5,6tetrafluoro7,7,8,8
+tetracyanoquinodimethane (F4TCNQ) with LUMO at 5.24 eV is popularly used as p
+type dopant for the prototypical polymer system, poly(3hexylthiophene) (P3HT) with the
+HOMO at 5 eV.6 The molecular structures of the mentioned molecular systems are shown
+in Fig. 1(a). Via integer charge transfer, the P3HTF4TCNQ system forms an ionpair (IP)
+of dopant anion and polymer cation with accompanying nuclear reorganization around the
+charge separated state, i.e. polaron formation.

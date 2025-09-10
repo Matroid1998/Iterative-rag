@@ -1,0 +1,35 @@
+Description:
+A gas that TMD-based sensors exhibit exceptional sensitivity toward, even at room temperature.
+
+Text:
+TMDs
+have unique physicochemical properties 1620, which enable rapid
+desorption of analyte molecules and high charge transfers between sheets
+and selected species. The latter is further emphasized by an excep
+tional surfacetovolume ratio, which makes TMDs highly sensitive to
+molecule adsorption. This sensitivity allows for notable changes in
+their electronic and optical signals, making them ideal platforms for
+gas detection. For instance, recent studies have shown that TMDbased
+sensors exhibit exceptional sensitivity toward NO2, even at room tem
+perature 2123. Furthermore, subsequent works have demonstrated
+that the sensitivity and recovery of such devices can be further en
+hanced by using gate bias 24, 25 and light illumination 2628. All of these aspects make TMDs compelling materials to use for
+sensing layers, especially in the case of monitoring NO2.
+
+
+---
+
+Description:
+The gas with the highest response in selectivity measurements relative to other gases.
+
+Text:
+Still, among
+the unresolved issues, the selectivity of detection remains a persistent
+challenge that needs to be addressed to fully unlock their potential for
+IoT integration. Although a degree of selectivity was mentioned in pre
+vious reports 23, 26, it should be noted that the reported selectivity
+means the highest response toward NO2, relative to other gases, thus
+the greatest change in the measured parameters between the analytes
+tested at the same concentrations. The difference reported is quite sub
+stantial. Hence, TMDs could improve the poor selectivity of chemire
+sistors.

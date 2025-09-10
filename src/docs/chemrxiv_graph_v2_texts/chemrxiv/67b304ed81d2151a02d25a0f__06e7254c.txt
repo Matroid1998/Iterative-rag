@@ -1,0 +1,18 @@
+Description:
+Produced in water electrolysis, with efficiency influenced by OER catalysts.
+
+Text:
+The generation of green hydrogen as a renewable energy carrier 
+via water electrolysis is pivotal in addressing the interconnected 
+challenges posed by fossil fuels.13 To date, two main 
+techniques, namely alkaline water electrolysis (AWE) and 
+proton exchange membrane water electrolysis (PEMWE), stand 
+out as the most viable options for industrialscale clean 
+hydrogen production.4,5,6 AWE typically offers higher material 
+compatibility, enabling the use of earthabundant transition 
+metals to reduce capital expenses. Meanwhile, the unique 
+character of AWE also contributes to a longer electrolyzer 
+lifetime of up to 10 years.3 However, the ongoing request for 
+highly effective OER catalysts to improve the overall H2 
+production efficiency remains a limiting factor for transition 
+metalbased AWE systems.

@@ -1,0 +1,30 @@
+Description:
+An amino acid that crystallises in two polymorphs at ambient pressure.
+
+Text:
+The amino acid lcysteine (Figure 1) is known to crystallise in two polymorphs at ambient
+pressure. Form I is orthorhombic (P212121)1 with one molecule in the asymmetric unit and
+Form II is monoclinic (P21)2 with two molecules in the asymmetric unit. The crystal structures
+of both forms have been studied at ambient temperatures; Form I by Xray1 and neutron
+diffraction3 and Form II by Xray diffraction.2,4 An Xray diffraction study of Form I at 30 K
+has also been reported.5 In all these studies lcysteine is found as a zwitterion (see Figure 1).
+
+
+---
+
+Description:
+A zwitterion with a thiol group that can form hydrogen bonds.
+
+Text:
+Figure 1 Molecular structure of the lcysteine zwitterion
+O
+O
+NH
+3
+SH
+A low temperature study (30 K) of Form I5 showed that the thiol group is ordered with regular S
+H...S bonds and a NCCS gauche (g) dihedral angle of 70.6. However, a neutron diffraction
+study at room temperature3 showed disorder in the Form I lattice that can be modelled as
+either involving just the thiol hydrogens or modelled using both sulfur and hydrogen atoms. The disorder arises because the hydrogen of the thiol group can form a hydrogen bond with
+either another thiol group (as in the Form I 30 K crystal structure) or with an oxygen of the
+carboxylate anion as shown in Figure 2.

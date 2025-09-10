@@ -1,0 +1,28 @@
+Description:
+Oxidized using NH2OH generated in situ, requiring elevated temperatures and high pH.
+
+Text:
+More specifically, the 
+hydrogenation route is limited by the requirements of pressurized H2 gas, strong acidic 
+conditions, as well as precious metal catalysts. Moreover, transportation and storage of 
+concentrated NH2OH also faces challenges, including the risk of explosion.7 On the other hand, 
+NH3 oxidation utilizes NH2OH generated insitu as needed.4 Yet, this synthetic route still 
+demands elevated temperatures, high pH, and an excess of H2O2 as oxidant, which also has 
+transportation and storage issues.8, 9 Hence, there is a strong desire for an alternative strategy 
+to produce cyclohexanone oxime under mild conditions.
+
+
+---
+
+Description:
+A byproduct of NO3R reactions.
+
+Text:
+formic acid or CO) to produce 
+formamide.30, 31 Despite these distinctive methods, current studies on CN bond formation via 
+NO3R mainly focus on coupling NO3R intermediates with C1C2 molecules (e.g. CO2, CO, 
+formic acid, oxalic acid). There are a few recent reports on electrochemical NO3R systems 
+which can build CN bonds in larger organic molecules (i.e. C3 compounds), such as amino 
+acid32, 33 and oxime.3437 However, NO3R can make a variety of Ncontaining byproducts (e.g. N2, NH3, N2O, NO2), and therefore the understanding of the complicated NO3R reaction 
+pathways and the controlling of N selectivity towards the desired organonitrogen products 
+remain elusive.

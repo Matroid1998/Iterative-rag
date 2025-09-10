@@ -1,0 +1,26 @@
+Name: Caprolactone
+Text:
+Hexano-6-lactone is a epsilon-lactone that is oxepane substituted by an oxo group at position 2.
+See also: Poliglecaprone 25 (monomer of); Poliglecaprone 90 (monomer of); Polycaprolactone (annotation moved to).
+Properties:safety: Irritant
+smiles: C1CCC(=O)OCC1
+formula: C6H10O2
+chem_properties: Molecular Weight: 114.14 g/mol
+XLogP3: 0
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 114.068079557 Da
+Monoisotopic Mass: 114.068079557 Da
+Topological Polar Surface Area: 26.3
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 88.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,10 @@
+Description:
+Compounds that can reversibly store lithium through a conversion-type reaction.
+
+Text:
+Since the discovery that transition metal oxides can reversibly store lithium through a 
+reaction mechanism termed conversiontype reaction1, a large body of work has been 
+accumulated on metal salts and their derivative compounds largely due to the possibility of 
+exploiting multipleelectron transfers per redox centers that these metals can offer27. Furthermore, if a reliable recycling program becomes available for current lithiumion battery 
+(LIB) cathode materials, this can easily be applied to these transition metal salt electrodes. However, these materials have not yet lived up to their expectations. They still suffer significant 
+capacity fade and low power density, especially micrometersize particles1,8,9.

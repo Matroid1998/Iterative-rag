@@ -1,0 +1,43 @@
+Description:
+A conjugate with a thioester linkage used to evaluate bioavailability and efficacy in vitro.
+
+Text:
+The conjugates linker,
+designed to be sensitive to thiolcysteine, reacts with the thiol groups of cysteine residues
+present in various biomolecules, such as proteins or glutathione, which act as reducing
+agents.This approach can take advantage of the thiol sensitivity of the conjugate, as well as
+cysteines facile redox chemistry, which can enhance drug bioavailability and efficacy by
+increasing stability and cell permeability.7 In this study, we investigate the role of
+thiolsensitivity in modulating the bioavailability and efficacy of drug candidates using an
+aspirincysteine conjugate with a thioester linkage. We synthesized the conjugate using a
+thiolcleavable linker and evaluated its bioavailability and efficacy in vitro. Our results
+demonstrate the potential of thioesterbased thiol switch approaches for drug development
+and provide insight into the molecular mechanisms underlying thiolcysteine sensitivity. 3.
+
+
+---
+
+Description:
+A conjugate synthesized using EDC and NHS as coupling agents.
+
+Text:
+Experimental Methods
+a. Synthesis of AspirinCysteine
+The
+synthesis
+of
+the
+aspirincysteine
+conjugate
+was
+performed
+using
+N(3dimethylaminopropyl)Nethylcarbodiimide
+hydrochloride
+(EDC)
+and
+Nhydroxysuccinimide (NHS) as coupling agents. First, cysteine and aspirin were activated
+in separate reactions by reacting it with EDC and NHS in dimethyl sulfoxide (DMSO) at
+room temperature for 2 hours. The activated cysteine and aspirin were then combined in
+DMSO and stirred at room temperature for 24 hours under nitrogen atmosphere. The EDC
+method creates a thioester bond between the carboxyl group of the aspirin and the thiol group

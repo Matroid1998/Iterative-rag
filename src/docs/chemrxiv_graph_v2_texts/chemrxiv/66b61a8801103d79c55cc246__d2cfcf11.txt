@@ -1,0 +1,15 @@
+Description:
+A nanocluster synthesized by controlling reaction conditions, with HER activity similar to Au24Pt(C6)180.
+
+Text:
+The new NC, Au24Pt(TBBT)180 (TBBT  4
+tertbutylbenzenethiolate; Figure S1d; 2; Table 1),26,27 were 
+synthesized by controlling the reaction temperature, reaction 
+time, and TBBTH (4tertbutylbenzenethiol) concentration. However, the HER activity of this new material is similar to 
+those previously reported for Au24Pt(C6)180. This outcome is 
+attributed to the similar Au24PtS18 frame structures of the cata
+lysts and the similar length of the ligands (C6 and TBBT). These ligands stabilize Au24Pt NCs but restrict the access of 
+protons (H) to the Au12Pt metal cores serving as the active sites 
+for the HER. To improve the HER activity of SRprotected 
+Au24Pt NCs, the access of H to the Au12Pt core has to be in
+creased by tuning the structure.

@@ -1,0 +1,10 @@
+Description:
+A self-immolative prodrug used as a therapeutic photosensitizer in photodynamic therapy.
+
+Text:
+of a competitive guest 
+molecule 1adamantylamine triggers the removal of the supramolecular CB capping group from the CBSIE2 complex, revealing the 
+nascent selfimmolative structure. This decomplexation initiates a rapid cyclizationelimination cascade that releases the loaded cargo 
+molecules from SIE2. As a proofofconcept, we capped a selfimmolative methylene blue prodrug SIE5 with CB. The subsequent 
+addition of 1adamantylamine reactivated the selfimmolation, initiating the controlled release of the therapeutic photosensitizer and 
+ondemand activating photodynamic therapy for cell killing.

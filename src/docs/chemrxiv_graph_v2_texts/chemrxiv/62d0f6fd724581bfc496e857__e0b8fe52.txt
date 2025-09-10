@@ -1,0 +1,14 @@
+Description:
+Enhances opposite resonance effect when para-substituted with nitrogen, significantly separating the HOMO-LUMO.
+
+Text:
+In the last couple of decades, a large number of developments happened in the field 
+of efficient organic TADFbased chromophores and their synthesis. With such burgeoning, 
+alternative approaches to DA systems have been scanned. Hatakeyama et al. have shown 
+that nitrogen is manifests a opposite resonance effect than boron and relative para
+substitution of boron and nitrogen can enhance such opposite resonance effect which can 
+significantly separate the HOMOLUMO.4 Devising coplanar system with high oscillator 
+strength with low EST have been shown by Chen et al.5 Even the theoretical studies 
+involving spinvibronic coupling or hyperfine coupling has made a significant impact 
+explaining rISC pathways in TADF systems.68 Samanta et al. have shown the effect of LE 
+characteristics in triplet manifolds for a better rISC rate.9

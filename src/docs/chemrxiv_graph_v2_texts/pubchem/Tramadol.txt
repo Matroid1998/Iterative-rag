@@ -1,0 +1,32 @@
+Name: Tramadol
+Text:
+(R,R)-tramadol is a 2-[(dimethylamino)methyl]-1-(3-methoxyphenyl)cyclohexanol in which both stereocentres have R-configuration; the (R,R)-enantiomer of the racemic opioid analgesic tramadol, it exhibits ten-fold higher analgesic potency than the (S,S)-enantiomer. It has a role as a delta-opioid receptor agonist, a kappa-opioid receptor agonist, a mu-opioid receptor agonist, an adrenergic uptake inhibitor, an antitussive, a capsaicin receptor antagonist, a muscarinic antagonist, a nicotinic antagonist, a NMDA receptor antagonist, an opioid analgesic, a serotonergic antagonist, a serotonin uptake inhibitor and a metabolite. It is a conjugate base of a (R,R)-tramadol(1+). It is an enantiomer of a (S,S)-tramadol.
+Tramadol is a centrally acting synthetic opioid analgesic and SNRI (serotonin/norepinephrine reuptake-inhibitor) that is structurally related to [codeine] and [morphine]. Due to its good tolerability profile and multimodal mechanism of action, tramadol is generally considered a lower-risk opioid option for the treatment of moderate to severe pain. It is considered a Step 2 option on the World Health Organization's pain ladder and has about 1/10th of the potency of [morphine].   Tramadol differs from other traditional opioid medications in that it doesn't just act as a μ-opioid agonist, but also affects monoamines by modulating the effects of neurotransmitters involved in the modulation of pain such as serotonin and norepinpehrine which activate descending pain inhibitory pathways. Tramadol's effects on serotonin and norepinephrine mimic the effects of other SNRI antidepressants such as [duloxetine] and [venlafaxine].  Tramadol exists as a racemic mixture consisting of two pharmacologically active enantiomers that both contribute to its analgesic property through different mechanisms and are also themselves metabolized into active metabolites: (+)-tramadol and its primary metabolite (+)-O-desmethyl-tramadol (M1) are agonists of the μ opioid receptor while (+)-tramadol inhibits serotonin reuptake and (-)-tramadol inhibits norepinephrine reuptake. These pathways are complementary and synergistic, improving tramadol's ability to modulate the perception of and response to pain.   Tramadol has also been shown to affect a number of other pain modulators within the central nervous system as well as non-neuronal inflammatory markers and immune mediators. Due to the broad spectrum of targets involved in pain and inflammation, it's not surprising that the evidence has shown that tramadol is effective for a number of pain types including neuropathic pain, post-operative pain, lower back pain, as well as pain associated with labour, osteoarthritis, fibromyalgia, and cancer. Due to its SNRI activity, tramadol also has anxiolytic, antidepressant, and anti-shivering effects which are all frequently found as comorbidities with pain.  Similar to other opioid medications, tramadol poses a risk for development of tolerance, dependence and abuse. If used in higher doses, or with other opioids, there is a dose-related risk of overdose, respiratory depression, and death. However, unlike other opioid medications, tramadol use also carries a risk of seizure and serotonin syndrome, particularly if used with other serotonergic medications.
+Tramadol is an Opioid Agonist. The mechanism of action of tramadol is as a Full Opioid Agonist.
+Tramadol is an opioid analgesic used for the therapy of mild-to-moderate pain. Tramadol overdose can cause acute liver failure. Pharmacologic doses of tramadol has not been associated with cases of clinically apparent drug induced liver disease.
+Tramadol is a synthetic codeine analogue, Tramadol has central analgesic properties with effects similar to opioids, such as morphine and codeine, acting on specific opioid receptors. Used as a narcotic analgesic for severe pain, it can be addictive and weakly inhibits norepinephrine and serotonin reuptake. (NCI04)
+A narcotic analgesic proposed for moderate to severe pain. It may be habituating. Tramadol is also prepared as a variable release capsules, marketed under the brand name ConZip. For example, a 150 mg capsule will contain 37.5 mg of the immediate release form and 112.5 mg of the extended release form. Tramadol is only found in individuals that have used or taken this drug. It is a narcotic analgesic proposed for moderate to severe pain. It may be habituating. Tramadol and its O-desmethyl metabolite (M1) are selective, weak OP3-receptor agonists. Opiate receptors are coupled with G-protein receptors and function as both positive and negative regulators of synaptic transmission via G-proteins that activate effector proteins. As the effector system is adenylate cyclase and cAMP located at the inner surface of the plasma membrane, opioids decrease intracellular cAMP by inhibiting adenylate cyclase. Subsequently, the release of nociceptive neurotransmitters such as substance P, GABA, dopamine, acetylcholine and noradrenaline is inhibited. The analgesic properties of Tramadol can be attributed to norepinephrine and serotonin reuptake blockade in the CNS, which inhibits pain transmission in the spinal cord. The (+) enantiomer has higher affinity for the OP3 receptor and preferentially inhibits serotonin uptake and enhances serotonin release. The (-) enantiomer preferentially inhibits norepinephrine reuptake by stimulating alpha(2)-adrenergic receptors.
+A narcotic analgesic proposed for severe pain. It may be habituating.
+See also: Tramadol Hydrochloride (has salt form); Celecoxib tramadol hydrochloride CO-crystal (is active moiety of).
+Properties:safety: Acute Toxic and Irritant
+smiles: CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O
+formula: C16H25NO2
+chem_properties: Molecular Weight: 263.37 g/mol
+XLogP3: 2.6
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 4
+Exact Mass: 263.188529040 Da
+Monoisotopic Mass: 263.188529040 Da
+Topological Polar Surface Area: 32.7
+Heavy Atom Count: 19
+Formal Charge: 0
+Complexity: 282
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

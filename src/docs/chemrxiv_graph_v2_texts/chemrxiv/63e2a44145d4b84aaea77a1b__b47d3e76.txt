@@ -1,0 +1,13 @@
+Description:
+Materials with a structure comprising a transition metal layer sandwiched between two chalcogen layers.
+
+Text:
+Twodimensional (2D) transition metal dichalcogenide (TMD) lay
+ers are among the most widely studied materials for potential applica
+tions in electronic devices 18. The interest stems from the intrinsic
+properties of TMDs, which arise due to their characteristic structure. Each TMD sheet comprises one transitionmetal layer (Mo, W, Pt, etc.) sandwiched between two chalcogen layers (S, Se, Te). The elements
+within these three layers bond covalently, adopting either trigonal pris
+matic (1H, 2H for multilayer) or octahedral symmetry (1T), leaving no
+coordinatively unsaturated surface sites. Consequently, the basal planes
+of TMD are often chemically inactive, with external interactions lim
+ited to van der Waals (vdW) forces.

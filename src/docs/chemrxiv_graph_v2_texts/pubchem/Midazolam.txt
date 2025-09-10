@@ -1,0 +1,34 @@
+Name: Midazolam
+Text:
+Midazolam is an imidazobenzodiazepine that is 4H-imidazo[1,5-a][1,4]benzodiazepine which is substituted by a methyl, 2-fluorophenyl and chloro groups at positions 1, 6 and 8, respectively. It has a role as a GABAA receptor agonist, an anticonvulsant, an anxiolytic drug, an apoptosis inducer, an antineoplastic agent, a muscle relaxant, a sedative, a general anaesthetic and a central nervous system depressant. It is an organochlorine compound, an imidazobenzodiazepine and a member of monofluorobenzenes.
+Midazolam is a DEA Schedule IV controlled substance. Substances in the DEA Schedule IV have a low potential for abuse relative to substances in Schedule III. It is a Depressants substance.
+Midazolam is a short-acting hypnotic-sedative drug with anxiolytic, muscle relaxant, anticonvulsant, sedative, hypnotic, and amnesic properties. It belongs to a class of drugs called benzodiazepines. This drug is unique from others in this class due to its rapid onset of effects and short duration of action. Midazolam is available by oral, rectal, intranasal, intramuscular (IM), and intravenous (IV) routes and has been used in various biomedical applications, including dentistry, cardiac surgery, and endoscopic procedures as pre-anesthetic medication, and as an adjunct to local anesthesia.  This drug was initially approved by the US FDA in 1985, and has been approved for various indications since. In late 2018, the intramuscular preparation was approved by the FDA for the treatment of status epilepticus in adults. In May 2019, the nasal spray of midazolam was approved for the acute treatment of distinctive intermittent, stereotypic seizure episodes in patients 12 years of age and older. Midazolam is considered a schedule IV drug in the United States due to the low potential for abuse and low risk of dependence.
+Midazolam is a Benzodiazepine.
+Midazolam is an intravenously administered benzodiazepine used as an anesthetic for conscious sedation for minor procedures and as an adjunct for general anesthesia. Midazolam has not been associated with serum aminotransferase elevations during therapy and has not been linked to cases of clinically apparent liver injury.
+Midazolam is a short-acting benzodiazepine derivative with an imidazole structure and with anxiolytic, amnestic, hypnotic, anticonvulsant and sedative properties. Midazolam exerts its effect by binding to the benzodiazepine receptor at the gamma-aminobutyric acid (GABA) receptor-chloride ionophore complex in the central nervous system (CNS). This leads to an increase in the opening of chloride channels, membrane hyperpolarization and increases the inhibitory effect of GABA in the CNS. Midazolam may also interfere with the reuptake of GABA, thereby causing accumulation of GABA in the synaptic cleft.
+MIDAZOLAM is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1985 and has 3 approved and 112 investigational indications. This drug has a black box warning from the FDA.
+A short-acting hypnotic-sedative drug with anxiolytic and amnestic properties. It is used in dentistry, cardiac surgery, endoscopic procedures, as preanesthetic medication, and as an adjunct to local anesthesia. The short duration and cardiorespiratory stability makes it useful in poor-risk, elderly, and cardiac patients.  It is water-soluble at pH less than 4 and lipid-soluble at physiological pH. [PubChem] Midazolam is a schedule IV drug in the United States.
+A short-acting hypnotic-sedative drug with anxiolytic and amnestic properties. It is used in dentistry, cardiac surgery, endoscopic procedures, as preanesthetic medication, and as an adjunct to local anesthesia. The short duration and cardiorespiratory stability makes it useful in poor-risk, elderly, and cardiac patients. It is water-soluble at pH less than 4 and lipid-soluble at physiological pH.
+See also: Midazolam Hydrochloride (has salt form); Midazolam Maleate (is active moiety of).
+Properties:safety: Acute Toxic and Irritant and Health Hazard and Environmental Hazard
+smiles: CC1=NC=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4F
+formula: C18H13ClFN3
+chem_properties: Molecular Weight: 325.8 g/mol
+XLogP3: 2.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 1
+Exact Mass: 325.0782033 Da
+Monoisotopic Mass: 325.0782033 Da
+Topological Polar Surface Area: 30.2
+Heavy Atom Count: 23
+Formal Charge: 0
+Complexity: 471
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

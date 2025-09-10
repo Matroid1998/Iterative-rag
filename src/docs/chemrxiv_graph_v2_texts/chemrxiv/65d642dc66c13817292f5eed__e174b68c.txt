@@ -1,0 +1,10 @@
+Description:
+Chemically synthesized molecules typically purified with HPLC and gel electrophoresis.
+
+Text:
+Chemically synthesized oligodeoxynucleotides (oligos or ODNs) are typically purified with HPLC 
+and gel electrophoresis. However, these methods have drawbacks such as the need of intense labor, and 
+expensive or impossible to scale up. In addition, HPLC cannot purify oligos longer than 60mer, and gel 
+electrophoresis also has limitations in cases where the target long oligos are in a complex mixture. Many 
+efforts have been made to address one or more of these problems, and various alternative methods have 
+been reported.

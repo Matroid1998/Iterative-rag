@@ -1,0 +1,13 @@
+Description:
+The deprotonated form of a carboxylic acid group in proteins.
+
+Text:
+The pHdependent charge distribution of proteins affects interactions that span the entire gamut
+of length scales in chemistry, from the hydration state (1) to gelation (2). The isoelectric point
+(pI), where the protein has zero net charge, plays important roles in selective extraction (3),
+separation and identification (4, 5) of proteins. Estimating protein pI values from amino acid
+(AA) sequences can be done by simple optimization schemes that obtain approximate constants
+used to calculate the protonation state of the seven basic and acidic AAs, as well as the
+carboxylate and ammonium termini (6, 7). Such estimates of only nine dissociation constants
+ignore all environmental effects of the primary, secondary and tertiary protein structures on
+individual acid dissociation constants.

@@ -1,0 +1,17 @@
+Description:
+A well-studied metalorganic cage.
+
+Text:
+Due to the organic nature of the linkers, metalorganic cages are often stable in organic 
+solvents, although some can also be stable in polar solvents such as water.7 The identity of the 
+coordinating metal and linker molecules that form the cage walls can be modified to change the 
+solubility or electronic properties of the cage.7,8 Particularly wellstudied cages include the 
+Pd6L412,9 Co4L28,10 Pd2L44,11 In4L612 ,8 and Ga4L612 cages.12 Numerous other examples 
+of cages with octahedral,13 cubic,14 and tetrahedral geometries exist,15 with increasing diversity in 
+other cage topologies.16 
+As more examples of cages emerge in the literature, computational studies have become 
+central to understand the physical principles behind hostguest recognition,1720 predict the 
+assembly of novel cage architectures,16,21,22 and identify opportunities for cagemediated catalytic 
+rate enhancement.8,23 Experimental and computational efforts to understand the physics driving 
+hostguest recognition have identified electrostatics,24 guest size,25 properties of counterions26, 
+and solvent effects20 as factors that strongly influence hostguess affinity.

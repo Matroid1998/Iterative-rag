@@ -1,0 +1,11 @@
+Description:
+Studied as oxygen evolution reaction catalysts due to their high activity and use of relatively abundant transition metals.
+
+Text:
+Perovskite oxides have been studied as oxygen evolution reaction (OER) catalysts for decades due 
+to their high activity and use of relatively abundant transition metals1. Early reports to rationalize the 
+activity of these catalysts made use of activity correlations with bulk thermodynamic concepts such as lower 
+to higher enthalpy of oxidation and delectron count on the Bsite metal cation2. More recently, descriptors 
+such as the extent of transition metaloxygen hybridization (covalency)3, O2p band position band position 
+relative to the Fermi energy4, and eg electron count of the transition metal cation5 have been used to connect 
+the activity of perovskite oxides to their electronic structures.

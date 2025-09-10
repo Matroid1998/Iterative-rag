@@ -1,0 +1,31 @@
+Description:
+Nanoparticles that can undergo oxidation at high temperatures.
+
+Text:
+Oxidation of carbon nanoparticles (NPs) at high temperatures is 
+relevant to many applications of carbon nanomaterials, but there 
+are also interesting fundamental questions relating reactivity to NP 
+surface structure, which can vary dramatically for different carbon 
+materials (graphitic, diamond, fullerene, etc. ).12 Even for a 
+particular type of carbon NP, there can be large NPtoNP 
+variations in the number and types of exposed surface sites, 
+strongly affecting the rates of processes such as sublimation or 
+oxidation.3 Finally, even for a single NP, the surface structure may 
+evolve during reaction, resulting in large rate variations.
+
+
+---
+
+Description:
+A key element in various forms, including graphite, that undergoes oxidation.
+
+Text:
+Surprisingly, it was also found that graphitic NPs eventually 
+evolved to be essentially inert to O2 in the 1200 to 1900 K range, 
+implying that the number of exposed reactive sites dropped to near 
+zero. It was speculated that his evolution to O2 inertness resulted 
+from a transformation of at least the surface layer, to nanoonion 
+(multiwall fullerene) structure. This interpretation of the previous results, as well as results 
+presented below, relies on extensive literature on oxidation of 
+various forms of carbon, particularly graphite, some of which is 
+discussed in the SI.

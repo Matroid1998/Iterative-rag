@@ -1,0 +1,28 @@
+Name: Trichostatin A
+Text:
+Trichostatin A is an antibiotic antifungal agent, a trichostatin and a hydroxamic acid. It has a role as a bacterial metabolite, a geroprotector and an EC 3.5.1.98 (histone deacetylase) inhibitor. It is functionally related to a (R)-trichostatic acid.
+trichostatin A has been reported in Streptomyces, Streptomyces sioyaensis, and other organisms with data available.
+Trichostatin A is a natural derivative of dienohydroxamic acid isolated from species of the bacterial genus Streptomyces.  Trichostatin A (TSA) reversibly and specifically inhibits histone deacetylases, resulting in hyperacetylation of core histones which modulate chromatin structure.  The increase in histone acetylation promotes selective gene transcription and the inhibition of tumor growth.  This agent is a potent inducer of tumor cell growth arrest, differentiation and apoptosis in a variety of transformed cells in culture and in tumor-bearing animals. (NCI04)
+TRICHOSTATIN is a small molecule drug with a maximum clinical trial phase of I and has 1 investigational indication.
+Properties:safety: Irritant
+smiles: C[C@H](/C=C(\C)/C=C/C(=O)NO)C(=O)C1=CC=C(C=C1)N(C)C
+formula: C17H22N2O3
+chem_properties: Molecular Weight: 302.37 g/mol
+XLogP3: 2.7
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 6
+Exact Mass: 302.16304257 Da
+Monoisotopic Mass: 302.16304257 Da
+Topological Polar Surface Area: 69.6
+Heavy Atom Count: 22
+Formal Charge: 0
+Complexity: 447
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 2
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

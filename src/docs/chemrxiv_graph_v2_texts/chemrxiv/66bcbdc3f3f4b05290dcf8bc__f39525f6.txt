@@ -1,0 +1,13 @@
+Description:
+An element used in 13C detected solid-state NMR experiments and 13C13C mixing.
+
+Text:
+We first evaluate the approach by performing 13C detected solidstate NMR 
+experiments on a 13C15N labelled methionineleucinephenylalanine (MLF) powder sample in 
+combination with simulations of polarization transfer dynamics. Next, we show that by using DIPSI3 
+for 13C13C mixing in triple sensitivityenhanced 4D hCXCANH and hCXCAcoNH experiments (CX 
+represents aliphatic carbon sidechains) we can obtained high quality spectra suitable for side chain 
+assignments in a challenging 30 kDa membrane protein sample, fulllength GlpG, in a few days. GlpG 
+is a rhomboid protease that cleaves its substrates within the cell membrane. We have previously 
+investigated the structure and dynamics related to the gating mechanism and inhibitor binding in a 
+truncated version of GlpG (GlpGN)1720, where the cytosolic domain has been removed.

@@ -1,0 +1,27 @@
+Description:
+A chromophore involved in the photoisomerization process.
+
+Text:
+While the computational cost for solving the time
+dependent Schrdinger equation numerically exactly scales exponentially with the number of degrees of freedom, the
+problem can be mitigated with suitable choices of sparse grids and associated basis sets for purely quantum techniques
+or by introducing a classicallike description of the nuclei while maintaining a quantum perspective on the electronic
+degrees of freedom. The purpose of the present work is to focus on some of those methods, discussing their performance, their limitations
+and their advantages, by applying them to the simulation of the photoisomerization process of a retinal chromophore
+model 17 including the eect of an environment of growing complexity 18.
+
+
+---
+
+Description:
+Undergoes photoinduced 11cis to alltrans isomerization in rhodopsin.
+
+Text:
+The model Hamiltonian of the system
+represents the photoinduced 11cis to alltrans isomerization of retinal in rhodopsin 17 (a simplied, and well
+established, precursor of the model 19 studied in Ref. 20) using two electronic states and two eective nuclear
+modes. The eect of the environment is accounted for by including secondary Ramanactive modes 18, 21 represented
+by a bath of harmonic oscillators coupled to the electronic states. Our quantum molecular dynamics simulations are performed by propagating vibronic wavepackets and classicallike
+trajectories. For the former, we will focus on the use of dierent ideas to dene the timeindependent grid, i.e., direct
+product versus Smolyak 22, 23 grids, in order to be able to include eciently at a reasonable computational cost
+the secondary modes representing the environment.

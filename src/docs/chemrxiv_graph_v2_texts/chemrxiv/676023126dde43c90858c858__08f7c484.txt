@@ -1,0 +1,26 @@
+Description:
+A reducing agent used in enzymatic reductive amination by imine reductases and reductive aminases.
+
+Text:
+Enzymatic reductive amination has long been limited to the 
+preparation of amino acids from keto acids using amino acid 
+dehydrogenases and the synthesis of chiral primary amines from 
+ketones using transaminases (the latter being a reversible group 
+transfer process).916 Recently, however, the scope of biocatalytic re
+ductive amination has been significantly expanded with the discov
+ery that imine reductases (IREDs)  and in particular a subclass of 
+this enzyme family termed reductive aminases (RedAms)  are able 
+to perform this reaction with a broad range of amine and carbonyl 
+substrates using NADPH as the reducing agent.1722
+Following the initial discovery of asymmetric reductive ami
+nation by IREDs and RedAms,2325 sequencebased and metagen
+omic enzyme discovery efforts have rapidly generated extensive 
+libraries of these biocatalysts,2630 and protein engineering has been 
+used to tailor them to specific target reactions.3141 Within a decade, 
+IREDcatalysed reductive amination has progressed from proof of 
+concept to industrial application,19 including the recent syntheses of 
+a lysinespecific demethylase1 (LSD1) inhibitor,31 a Janus kinase 1 
+(JAK1) inhibitor,32 and a cyclindependent kinase inhibitor on a 
+kilogramton scale.36,37 Despite these advances, the scope and limi
+tations of asymmetric reductive amination catalysed by IREDs and 
+RedAms need to be further explored.

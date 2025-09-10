@@ -1,0 +1,14 @@
+Description:
+The study aims to determine its structure and properties and relate them to other crystalline phases within the LiPSe system.
+
+Text:
+Furthermore, it has been theoretically proposed that Li3PSe4 may exist in the system, but
+this has yet to be confirmed experimentally.10
+The energetic hypersurface of existing structures can be explored through a combination
+of quantum chemical energy calculations and search algorithms like Monte Carlo or
+genetic algorithm.1113 Such structure prediction techniques provide insights into the
+stability of different crystalline phases by probing the convex hull of all known and
+hypothesized crystalline structures. Moreover, they allow identification of competing
+structures for a given composition and estimations of their relative formation energies. The purpose of this study is to determine the structure and properties of Li4P2Se6 and to
+relate them to other crystalline phases within the LiPSe system. 223
+httpsdoi.org10.26434chemrxiv202510rgz ORCID httpsorcid.org000000032294796X Content not peerreviewed by ChemRxiv.

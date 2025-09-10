@@ -1,0 +1,27 @@
+Name: Azelnidipine
+Text:
+Azelnidipine is an isopropyl ester.
+Azelnidipine is a dihydropyridine calcium channel blocker. It is marketed by Daiichi-Sankyo pharmaceuticals, Inc. in Japan.  It has a gradual onset of action and produces a long-lasting decrease in blood pressure, with only a small increase in heart rate, unlike some other calcium channel blockers. It is currently being studied for post-ischemic stroke management.
+AZELNIDIPINE is a small molecule drug with a maximum clinical trial phase of III.
+Properties:safety: Corrosive and Irritant
+smiles: CC1=C(C(C(=C(N1)N)C(=O)OC2CN(C2)C(C3=CC=CC=C3)C4=CC=CC=C4)C5=CC(=CC=C5)[N+](=O)[O-])C(=O)OC(C)C
+formula: C33H34N4O6
+chem_properties: Molecular Weight: 582.6 g/mol
+XLogP3: 6
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 9
+Rotatable Bond Count: 10
+Exact Mass: 582.24783482 Da
+Monoisotopic Mass: 582.24783482 Da
+Topological Polar Surface Area: 140
+Heavy Atom Count: 43
+Formal Charge: 0
+Complexity: 1080
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

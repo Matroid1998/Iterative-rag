@@ -1,0 +1,14 @@
+Description:
+A bridge whose conductance is decreased by several orders of magnitude due to destructive quantum interference.
+
+Text:
+Quantum interference (QI) effects have been invoked as an important mechanism to control 
+chargespin transport properties in molecular electronics.1,2 For conduction pathways connected 
+by alternant hydrocarbons, subtle variations in bond connectivity can impact conditions that lead 
+to constructive or destructive quantum interference (CQI and DQI, respectively).3,4 The classic 
+example involves comparing transport between 1,3phenylene (13Ph) and 1,4phenylene (14Ph) 
+bridges, where the conductance of the 13Ph bridge is decreased by several orders of magnitude 
+due to DQI.5,6 Graphical models have been established to predict molecular bridges that yield DQI 
+and CQI as they pertain to phasecoherent charge transport through frontier molecular orbitals 
+(FMOs) in conjugated systems.7,8 This method involves drawing a continuous path from one 
+connection point to the other, and pairing up atoms in the alternate path.

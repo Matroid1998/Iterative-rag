@@ -1,0 +1,26 @@
+Description:
+A physiological coagonist of the Nmethyl Daspartate (NMDA) type of glutamate receptor.
+
+Text:
+Dserine is a physiological coagonist of the Nmethyl Daspartate (NMDA) type of glutamate receptor, a key 
+excitatory neurotransmitter receptor in the brain. DSerine in the brain is synthesized from its Lisomer by serine 
+racemase and is metabolized by the Damino acid oxidase (DAO, DAAO), a flavoenzyme that catalyzes the 
+oxidative degradation of Damino acids including Dserine to the corresponding keto acids. The function of the 
+NMDA receptor requires the presence of both the agonist (glutamate) and the coagonist (Dserine, glycine, andor 
+Dalanine).
+
+
+---
+
+Description:
+The predominant NMDA coagonist in the forebrain linked to schizophrenia.
+
+Text:
+Importantly, Dserine has been reported to be the predominant NMDA coagonist in the forebrain and 
+linked directly to schizophrenia.1 Dserine concentrations in serum and cerebrospinal fluid have been reported to be 
+decreased in schizophrenia patients,2 and oral administration of Dserine improved symptoms of schizophrenia when 
+used as an adjuvant to typical and atypical antipsychotics.3 Thus, it is plausible to explore pharmaceutical inhibition 
+of DAO function as putative novel therapeutics to treat the positive (psychotic), negative and cognitive symptoms in 
+schizophrenia. The simplest DAO inhibitor benzoic acid (1) was reported in 1956.4 Since the early 2000s, many small molecule 
+DAO inhibitors have been reported in the literature (Figure 1).5 They all mimic the substrate Dserine and bind to 
+the catalytic site of DAO.

@@ -1,0 +1,30 @@
+Name: Givinostat
+Text:
+Givinostat is a member of the class of naphthalenes that is naphthalene substituted by ({[4-(hydroxycarbamoyl)phenyl]carbamoyl}oxy)methyl and (diethylamino)methyl groups at positions 2 and 6, respectively. It is a histone deacetylase inhibitor indicated for individuals diagnosed with Duchenne muscular dystrophy. It has a role as an EC 3.5.1.98 (histone deacetylase) inhibitor, an anti-inflammatory agent, an angiogenesis inhibitor, an antineoplastic agent and an apoptosis inducer. It is a carbamate ester, a member of naphthalenes, a tertiary amino compound, a hydroxamic acid and a member of benzenes. It is a conjugate base of a givinostat(1+).
+Givinostat is a small molecule histone deacetylase (HDAC) inhibitor. It has been investigated as a treatment for a variety of inflammatory diseases, like Crohn's disease and juvenile idiopathic arthritis, cancers like leukemia and lymphoma, as well as several muscular dystrophies. In the context of muscular dystrophy, inhibitors of HDAC appear to exert their therapeutic effects by targeting pathogenic processes that cause inflammation and muscle loss.  Givinostat was granted FDA approval in March 2024 for the treatment of patients ≥6 years of age with Duchenne muscular dystrophy (DMD). It is the first non-steroidal drug approved to treat patients with all genetic variants of DMD.
+Givinostat is a Histone Deacetylase Inhibitor. The mechanism of action of givinostat is as a Histone Deacetylase Inhibitor, and Cytochrome P450 3A4 Inhibitor, and Organic Cation Transporter 2 Inhibitor.
+Givinostat is an orally bioavailable hydroxymate inhibitor of histone deacetylase (HDAC) with potential anti-inflammatory, anti-angiogenic, and antineoplastic activities. Givinostat inhibits class I and class II HDACs, resulting in an accumulation of highly acetylated histones, followed by the induction of chromatin remodeling and an altered pattern of gene expression. At low, nonapoptotic concentrations, this agent inhibits the production of pro-inflammatory cytokines such as tumor necrosis factor- (TNF-), interleukin-1 (IL-1), IL-6 and interferon-gamma. Givinostat has also been shown to activate the intrinsic apoptotic pathway, inducing apoptosis in hepatoma cells and leukemic cells. This agent may also exhibit anti-angiogenic activity, inhibiting the production of angiogenic factors such as IL-6 and vascular endothelial cell growth factor (VEGF) by bone marrow stromal cells.
+GIVINOSTAT is a small molecule drug with a maximum clinical trial phase of III (across all indications) and has 10 investigational indications.
+See also: Givinostat hydrochloride (annotation moved to).
+Properties:safety: Irritant
+smiles: CCN(CC)CC1=CC2=C(C=C1)C=C(C=C2)COC(=O)NC3=CC=C(C=C3)C(=O)NO
+formula: C24H27N3O4
+chem_properties: Molecular Weight: 421.5 g/mol
+XLogP3: 3.6
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 9
+Exact Mass: 421.20015635 Da
+Monoisotopic Mass: 421.20015635 Da
+Topological Polar Surface Area: 90.9
+Heavy Atom Count: 31
+Formal Charge: 0
+Complexity: 575
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,32 @@
+Name: Erlotinib
+Text:
+Erlotinib is a quinazoline compound having a (3-ethynylphenyl)amino group at the 4-position and two 2-methoxyethoxy groups at the 6- and 7-positions. It has a role as an antineoplastic agent, a protein kinase inhibitor and an epidermal growth factor receptor antagonist. It is a member of quinazolines, a terminal acetylenic compound, an aromatic ether and a secondary amino compound.
+Erlotinib is an inhibitor of the epidermal growth factor receptor (EGFR) tyrosine kinase that is used in the treatment of non-small cell lung cancer, pancreatic cancer and several other types of cancer. It is typically marketed under the trade name Tarceva. Erlotinib binds to the epidermal growth factor receptor (EGFR) tyrosine kinase in a reversible fashion at the adenosine triphosphate (ATP) binding site of the receptor. Recent studies demonstrate that erlotinib is also a potent inhibitor of JAK2V617F, which is a mutant form of tyrosine kinase JAK2 found in most patients with polycythemia vera (PV) and a substantial proportion of patients with idiopathic myelofibrosis or essential thrombocythemia. This finding introduces the potential use of erlotinib in the treatment of JAK2V617F-positive PV and other myeloproliferative disorders.
+Erlotinib is a Kinase Inhibitor. The mechanism of action of erlotinib is as a Protein Kinase Inhibitor.
+Erlotinib is a tyrosine kinase receptor inhibitor that is used in the therapy of advanced or metastatic pancreatic or non-small cell lung cancer. Erlotinib therapy is associated with transient elevations in serum aminotransferase levels during therapy and rare instances of clinically apparent acute liver injury.
+Erlotinib is a quinazoline derivative with antineoplastic properties.  Competing with adenosine triphosphate, erlotinib reversibly binds to the intracellular catalytic domain of epidermal growth factor receptor (EGFR) tyrosine kinase, thereby reversibly inhibiting EGFR phosphorylation and blocking the signal transduction events and tumorigenic effects associated with EGFR activation.
+ERLOTINIB is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2004 and is indicated for non-small cell lung carcinoma and has 105 investigational indications.
+A quinazoline derivative and ANTINEOPLASTIC AGENT that functions as a PROTEIN KINASE INHIBITOR for EGFR associated tyrosine kinase. It is used in the treatment of NON-SMALL CELL LUNG CANCER.
+See also: Erlotinib Hydrochloride (has salt form).
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: COCCOC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=CC(=C3)C#C)OCCOC
+formula: C22H23N3O4
+chem_properties: Molecular Weight: 393.4 g/mol
+XLogP3: 3.3
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 11
+Exact Mass: 393.16885622 Da
+Monoisotopic Mass: 393.16885622 Da
+Topological Polar Surface Area: 74.7
+Heavy Atom Count: 29
+Formal Charge: 0
+Complexity: 525
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,23 @@
+Description:
+Can be absorbed as interstitial ions in hexagonal manganites below 400°C, making them promising oxygen storage materials.
+
+Text:
+4,5,16 
+Hexagonal manganites, RMnO3 (R  Sc, Y, HoLu), can reversibly absorb large amounts of oxygen as 
+interstitial ions below 400 C,1721 and are thus promising oxygen storage materials (OSMs) for oxygen 
+separation, e.g. through chemical looping air separation (CLAS).
+
+
+---
+
+Description:
+Has a high reversible oxygen storage capacity (OSC) and is involved in oxygen surface exchange rates.
+
+Text:
+Such applications require materials with a 
+high reversible oxygen storage capacity (OSC), fast bulk ion transport and oxygen surface exchange rates.22
+24 However, the oxidation kinetics of these materials are generally slow, with time to full oxidation on the scale 
+of several hours.25 This implies a smaller available OSC when using short dwell times or fast heating and 
+cooling rates,20,2530 which are both necessary for efficient O2 gas production by cyclic processes like CLAS.23 
+Both the OSC and oxidation kinetics of RMnO3 are known to improve with larger R3 cations, either as the 
+sole Rsite cation or as a substituted element in YMnO3,19,25,26,2833 or through aliovalent doping, e.g.

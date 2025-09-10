@@ -1,0 +1,34 @@
+Description:
+A scarce and costly element that could pose a supply bottleneck for large-scale deployment of proton exchange membrane water electrolyzers.
+
+Text:
+Protonexchangemembrane water electrolyzers (PEMWEs) provide an attractive solution for 
+producing hydrogen from carbonneutral energy sources. 1 However, the kinetically sluggish 
+oxygen evolution reaction (OER) occurring at the anode causes severe energy losses, requiring 
+the development of active and stable electrocatalysts. 2 The strongly acidic and oxidizing anode 
+environment restricts the choice of catalyst materials to the oxides of platinumgroup metals 
+(PGM), with iridium oxides being the current stateoftheart. 2 Due to the scarcity and cost of 
+httpsdoi.org10.26434chemrxiv202431vk9 ORCID httpsorcid.org0000000238571162 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0
+
+3 
+iridium, largescale deployment of PEMWE technologies could face an iridium supply 
+bottleneck.
+
+
+---
+
+Description:
+A metal whose loading needs to be reduced to improve material performance without compromising lifetime.
+
+Text:
+3 To avoid this, anodic iridium loading needs to be reduced from 2.0 mgIr cm2 to 
+0.4 mgIr cm2 or lower without compromising the lifetime and performance of these materials. 3 
+
+Previous efforts to enhance the utilization of iridium have largely focused on (hydrous) 
+amorphous iridium oxides (IrOx) 4 that are commonly considered to be more active towards 
+the OER than crystalline rutiletype iridium dioxide (IrO2). 5 Amorphous IrOx typically has a 
+mixture of the formal Ir34 oxidation states and a significantly disordered structure. While 
+amorphous IrOx provides a higher Irmassspecific electrocatalytic activity, stability is often 
+insufficient, thus jeopardizing the strategy for decreased iridium loading under longterm 
+operation in a PEMWE. Such an inverse correlation between catalyst activity and stability has 
+widely been observed in OER electrocatalysis. 6

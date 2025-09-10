@@ -1,0 +1,43 @@
+Description:
+A metal that mainly produces HCOO during CO2 electroreduction.
+
+Text:
+New discoveries of improved catalysts, guided by a detailed understanding of structureactivity 
+relationships, are needed in order to progress toward these targets. The selectivity of CO2 electroreduction (CO2ER) is strongly dependent on the nature of the catalyst. Among the 
+single metals which show CO2ER activity10, In and Sn are mainly HCOO producers, while Cu shows a unique 
+ability to reduce CO2 into a wide range of products including C1 compounds (CO, HCOO and CH4) and C2 
+hydrocarbons (C2H4, C2H5OH, and others), typically as an undesirable mixture. 6, 11 A variety of approaches, 
+including surface nanostructuring1214, and tuning the electronic structure by modifying with a second metal, 
+have been introduced to direct the selectivity of Cu towards a specific product.
+
+
+---
+
+Description:
+Used to modulate Cu surfaces to tune selectivity towards CO or HCOO.
+
+Text:
+11, 15, 16Several recent studies 
+revealed that modulating the Cu surface with another metal, such as In or Sn, is an effective strategy to tune 
+selectivity towards either CO or HCOO at relatively low overpotentials. 17, 18 Luo et al. 19, Rasul et al. 20 and Zhu 
+et al. 18 reported high CO faradaic efficiency (85 CO FE) at Cu surfaces modified with In nanoparticles. On 
+the other hand, other researchers18, 21 developed CuIn bimetallic electrocatalysts with high FE for HCOO 
+(85). Many other studies revealed a similar behavior for CuSn systems, where researchers reported Cu
+Sn catalysts with high FE towards either CO or HCOO. 9, 17, 22 For instance, Li et al.
+
+
+---
+
+Description:
+Exhibits Sn-like activity with high HCOO selectivity when used in thicker shells on CuSnO2 nanoparticles.
+
+Text:
+23 investigated CO2ER on 
+CuSnO2 coreshell nanoparticles with various Sn shell thickness, finding the selectivity to strongly depend on 
+said thickness, with thicker Sn shells showing Snlike activity with high HCOO selectivity (FE 90), while 
+thinner shell exhibited a high CO selectivity (FE 93). Moreover, our recently published work17 reported a 
+similar behavior for Cu nanowires coated with ultrathin SnOx layers grown using atomic layer deposition, and 
+detailed Xray spectroscopic investigation revealed differing Sn speciation (i.e. oxidation state) between the CO 
+and HCOOselective catalysts. In those previous studies, the general trend is that CuIn and CuSn catalysts with low In and Sn contents (Cu
+rich catalysts) are COselective, while those with high Sn and In contents (Cupoor catalysts) showed a higher 
+tendency toward HCOO.

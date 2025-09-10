@@ -1,0 +1,41 @@
+Description:
+Used in the form of a polycrystalline plug for bit contact regions in DRAM nodes.
+
+Text:
+Heavy scaling of DRAM nodes requires unique 
+propositions to improve electrical performances 1. Bit 
+contact region is one of the most heavily affected regions 
+due to the scaling down of DRAM nodes. The resistance 
+increases exponentially with smaller critical dimensions 
+(CDs) 13. The current junction for BC is made with a 
+polycrystalline Si plug, followed by metallic silicidation 
+using Ti deposition and rapid thermal annealing 4,5. This 
+technique, called poly bit con (PBC) has been the standard 
+processstructure for making BCs 47. A. Fundamentals of Metal bit contact (MBC) 
+Bit contact forms a crucial part of the DRAM module, 
+providing connections to the digit line of the DRAM access 
+transistor. This contact has shrunk significantly since 1 
+DRAM, thereby creating significant burden for the BC 
+resistance.
+
+
+---
+
+Description:
+A structure on which polysilicon is deposited.
+
+Text:
+The usual BC step consists of four parts 1) 
+Deposition of polysilicon on Si structure and 2) Deposition 
+of Ti on polysilicon 3) Anneal to form silicide (TiSix) at the 
+interface 4) Metal deposition, which connects the contact to 
+the digit line. Prior technology nodes used a thick 
+Polysilicon as the silicon material for creating the silicide 
+and forming the contact 1,2. This Polysilicon occupied 
+majority of the contact structure and region. In metal bit 
+contact (MBC), the majority of the contact structure is made 
+of metal (step 4), instead of traditional polysilicon (step 1) 
+structure, which helps lower the overall resistance of the 
+contact. This change from majoritypoly to majoritymetal 
+is highly disruptive but is necessary to enable low resistance 
+contacts at very small dimensions.

@@ -1,0 +1,12 @@
+Description:
+A standard semiconductor material used for comparison with wideband gap materials.
+
+Text:
+Semiconductors with band gap greater 
+than 2 eV are classified as wideband gap (WBG) materials notable for properties of elevated thermal conductivity and high 
+dielectric strength for high power applications along with high optical absorptivity and visible light emission for 
+optoelectronic applications in comparison to standard semiconductor materials such as silicon or germanium. Band gap refers 
+to the minimum energy required for electron transition from valence to conduction band in a material, higher band gap of 
+WBG semiconductors is responsible for operational utility at higher temperatures and visible light spectrum range of 
+emission utilized by photonics technology. Using the Quantum Espresso DFT package, optoelectronic properties of BeSeO3 
+such as band gap, density of states, refractive index and absorption coefficient are calculated.

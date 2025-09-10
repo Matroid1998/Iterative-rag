@@ -1,0 +1,33 @@
+Name: Fingolimod
+Text:
+Fingolimod is an aminodiol that consists of propane-1,3-diol having amino and 2-(4-octylphenyl)ethyl substituents at the 2-position. It is a sphingosine 1-phosphate receptor modulator used for the treatment of relapsing-remitting multiple sclerosis. A prodrug, fingolimod is phosphorylated by sphingosine kinase to active metabolite fingolimod-phosphate, a structural analogue of sphingosine 1-phosphate. It has a role as an immunosuppressive agent, a prodrug, an antineoplastic agent, a sphingosine-1-phosphate receptor agonist and a CB1 receptor antagonist. It is an aminodiol and a primary amino compound. It is a conjugate base of a fingolimod(1+).
+Multiple sclerosis, or MS, is a devastating inflammatory disease that often progresses and causes severe neurological, physical, and cognitive effects. Fingolimod is a sphingosine 1-phosphate receptor modulator for the treatment of relapsing-remitting multiple sclerosis. It was developed by Novartis and initially approved by the FDA in 2010. Fingolimod was also studied for the treatment of COVID-19, the disease caused by infection with the SARS-CoV-2 virus.
+Fingolimod is a Sphingosine 1-phosphate Receptor Modulator. The mechanism of action of fingolimod is as a Sphingosine 1-Phosphate Receptor Modulator.
+Fingolimod is an orally available immunomodulatory drug used to treat relapsing multiple sclerosis. Fingolimod is associated with transient serum enzyme elevations during therapy and with rare instances of clinically apparent, acute liver injury that can be severe and even fatal.
+Fingolimod has been reported in Isaria sinclairii with data available.
+Fingolimod is an orally available derivate of myriocin and sphingosine-1-phosphate receptor 1 (S1PR1, S1P1) modulator, with potential anti-inflammatory and immunomodulating activities. Upon oral administration, fingolimod, as a structural analogue of sphingosine, selectively targets and binds to S1PR1 on lymphocytes and causes transient receptor activation followed by S1PR1 internalization and degradation. This results in the sequestration of lymphocytes in lymph nodes. By preventing egress of lymphocytes. fingolimod reduces both the amount of circulating peripheral lymphocytes and the infiltration of lymphocytes into target tissues. This prevents a lymphocyte-mediated immune response and may reduce inflammation. S1PR1, a G-protein coupled receptor, plays a key role in lymphocyte migration from lymphoid tissues. Fingolimod also shifts macrophages to an anti-inflammatory M2 phenotype, and modulates their proliferation, morphology, and cytokine release via inhibition of the transient receptor potential cation channel, subfamily M, member 7 (TRPM7).
+FINGOLIMOD is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2010 and is indicated for immune system disease and multiple sclerosis and has 18 investigational indications.
+A sphingosine-derivative and IMMUNOSUPPRESSIVE AGENT that blocks the migration and homing of LYMPHOCYTES to the CENTRAL NERVOUS SYSTEM through its action on SPHINGOSINE 1-PHOSPHATE RECEPTORS. It is used in the treatment of MULTIPLE SCLEROSIS.
+See also: Fingolimod Hydrochloride (has salt form); Fingolimod Lauryl Sulfate (active moiety of).
+Properties:safety: Irritant and Health Hazard
+smiles: CCCCCCCCC1=CC=C(C=C1)CCC(CO)(CO)N
+formula: C19H33NO2
+chem_properties: Molecular Weight: 307.5 g/mol
+XLogP3: 4.2
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 12
+Exact Mass: 307.251129295 Da
+Monoisotopic Mass: 307.251129295 Da
+Topological Polar Surface Area: 66.5
+Heavy Atom Count: 22
+Formal Charge: 0
+Complexity: 258
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

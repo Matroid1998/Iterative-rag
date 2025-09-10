@@ -1,0 +1,40 @@
+Description:
+Compounds for which transition metal-catalyzed N-arylation remains relatively underdeveloped.
+
+Text:
+Narylsulfonamides represent an important class of or
+ganosulfur compounds, as exemplified by their presence 
+among various FDAapproved drugs spanning multiple dis
+ease indications.1 This motif is prevalent in drug discovery 
+due to its polarity, geometry, hydrogen bonding properties, 
+and tunable NH pKa (Figure 1A).2 Classically, Narylsulfona
+mides can be synthesized via addition of anilines to sulfonyl 
+chlorides; however, this approach is not always conducive 
+to synthesis of druglike molecules due to the water sensi
+tivity of sulfonyl chloride reagents and attenuated nucleo
+philicity of electronpoor anilines. Furthermore, the poten
+tial genotoxicity of both anilines and sulfonyl chlorides has 
+inspired the development of alternate approaches.3,4 
+Despite the recent emergence of numerous catalysts and 
+synthetic methods for CN coupling, transition metalcata
+lyzed Narylation of primary sulfonamides remains rela
+tively underdeveloped.
+
+
+---
+
+Description:
+Compounds with attenuated nucleophilicity, making them recalcitrant in cross-coupling reactions.
+
+Text:
+To the best of our knowledge, fewer 
+than 40 reports have studied the direct Narylation of pri
+mary sulfonamides, most of which feature high catalyst 
+loadings andor high temperatures, with relatively limited 
+scope examples.530 This may be, in part, due to the attenu
+ated nucleophilicity of sulfonamides, which renders them 
+recalcitrant in crosscoupling reactions. Selectivity poses 
+an additional challenge for the coupling of primary sulfon
+amides, given the possibility that the desired Narylated 
+product can undergo further reaction to generate the unde
+sired N, Ndiarylated product. httpsdoi.org10.26434chemrxiv202422jrq ORCID httpsorcid.org0000000266410833 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

@@ -1,0 +1,12 @@
+Description:
+A unit that forms part of the structure of borazine, replacing the CC unit of benzene.
+
+Text:
+B and N are elements in the periodic table adjacent to C. The substitution of each 
+two C atoms in benzene by a pair of B and N atoms obtains an isoelectronic analogue 
+of benzene. These isoelectronic molecules have the same 6 electrons as benzene, 
+suggesting that, according to the Hckels rule, they should all be aromatic. However, 
+the fact is not so simple. As early as 1926, Stock et al.4 succeeded in experimentally synthesizing an 
+isoelectronic species of benzene, B3N3H6, named borazine and popularly known as 
+inorganic benzene, which is formally a product of the complete substitution of the CC 
+unit of benzene by BN, as shown in Scheme 1.

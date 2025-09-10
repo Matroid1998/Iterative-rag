@@ -1,0 +1,29 @@
+Name: Benzofuran
+Text:
+2,3-Benzofuran is a colorless, sweet-smelling, oily liquid made by processing coal into coal oil. It may also be formed during other uses of coal or oil. 2,3-Benzofuran is not used for any commercial purposes, but the part of the coal oil that contains 2,3-benzofuran is made into a plastic called coumarone-indene resin. This resin resists corrosion and is used to make paints and varnishes. The resin also provides water resistance and is used in coatings on paper products and fabrics. It is used as an adhesive in food containers and some asphalt floor tiles. The resin has been approved for use in food packages and as a coating on citrus fruits. We do not know how often the resin is used or whether any 2,3-benzofuran in the coating or packaging gets into the food.
+Benzofuran can cause cancer according to The National Toxicology Program.
+2,3-benzofuran is a clear oily yellow liquid with an aromatic odor. (NTP, 1992)
+1-benzofuran is a benzofuran consisting of fused benzene and furan rings. It is the parent compound of the class of 1-benzofurans. It is a benzofuran and a member of 1-benzofurans.
+Benzofuran has been reported in Curcuma aromatica, Curcuma wenyujin, and Vitex agnus-castus with data available.
+Properties:safety: Flammable and Health Hazard
+smiles: C1=CC=C2C(=C1)C=CO2
+formula: C8H6O
+chem_properties: Molecular Weight: 118.13 g/mol
+XLogP3: 2.7
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 118.041864811 Da
+Monoisotopic Mass: 118.041864811 Da
+Topological Polar Surface Area: 13.1
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 101
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

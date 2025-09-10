@@ -1,0 +1,22 @@
+Description:
+A dense impermeable layer that prevents calcium ion diffusion into the pore solution.
+
+Text:
+In the model of GoetzNeunhoeffner 10, a dense im
+37
+permeable Al(OH)x(H2O)y layer is proposed which prevents the calcium ion diffusion into the pore
+38
+solution. Bertrandie and Barret 31 postulated the transformation of AlO 
+2 sites on the CA particle
+39
+surface into Al(OH)4 ions. This process would form an inert, superficially hydroxylated layer with
+40
+the composition CaAl(OH)42 immediately after water addition around the CA grain (CAsh). The
+41
+renewed CAdissolution and precipitation of hydrate phases mark the end of the dormant period and
+42
+the beginning of the CAC main reaction. After reaching its maximum, the deceleration period sets in,
+43
+mainly characterized by the hydration of dicalcium monoaluminate (CA2), the second hydraulic CAC
+44
+phase. Using synthetic CACA2mixes, Klaus et al.

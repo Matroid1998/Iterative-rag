@@ -1,0 +1,15 @@
+Description:
+A material whose intrusion pressure increases significantly with a concentrated LiCl solution.
+
+Text:
+For instance,
+it was shown that intrusion of a highly concentrated LiCl solution (20 M) in silicalite1
+increases intrusion pressure from 96 MPa (for pure water) to 280 MPa, resulting in an in
+crease of stored energy from 10 Jg to 31 Jg. Since this pioneering work, the influence of
+the nature of the electrolyte and its concentration on the energetic properties of zeosils has
+been widely investigated.2137
+In a previous study, we have reported a computational investigation of the effect of the
+electrolyte solution (nature and concentration) on their intrusion pressure in defectfree pure
+silica zeolites.38 We found that due to poorer ion solvation in the pores than in the bulk,
+intrusion of electrolyte solutions starts with only intrusion of pure water (and exclusion of
+the ions).

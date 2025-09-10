@@ -1,0 +1,8 @@
+Description:
+Formed through oxime formation reactions.
+
+Text:
+These include hydrazone and oxime formation and the 
+inverse electron demand DielsAlder reaction.3134 However, this does not solve the aforementioned problem because the 
+rate of these processes is fast enough that much of the coupling occurs outside the cell to create a large PROTAC. Instead, we are interested in exploring the use of rapidly reversible covalent reactions for the construction of PROTACs. As mentioned above, potent PROTACs mediate the formation of a ternary complex in which there are significant neoPPIs. Therefore, if TP and E3 Ub ligase ligands were equipped with the appropriate reversibly reactive moieties, the coupled 
+equilibria shown in Figure 1 might funnel the molecules into the thermodynamic sink of the ternary complex.

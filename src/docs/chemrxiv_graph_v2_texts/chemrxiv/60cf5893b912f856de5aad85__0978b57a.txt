@@ -1,0 +1,37 @@
+Description:
+Codoped with BiCuSeO to enhance its thermoelectric performance.
+
+Text:
+ptype BiCuSeO is one of the most promising thermoelectric (TE)
+materials for midtemperature applications,1 reaching a maxi
+mum TE gure of merit (zT) of 1.5 at 823 K when codoped
+with Ca and Pb.2 The high zT is, in part, due to the high ther
+mopower (350 VK at room temperature)1 as well as the in
+trinsically low lattice thermal conductivity ( 1 WmK) arising
+from its low Youngs modulus3,4 and strong anharmonicity.5 As a
+result, BiCuSeO has attracted, and continues to inspire, a myriad
+of studies to further improve its TE performance.1,68
+Tuning of the charge carrier (hole, electron) concentrations is
+needed to optimize the p or ntype TE performance of materi
+als.9 For BiCuSeO, doping efforts have almost exclusively been
+limited to optimizing the hole carrier concentration because the
+asgrown material is natively ptype.
+
+
+---
+
+Description:
+A group 2 element used in doping to optimize p-type BiCuSeO.
+
+Text:
+Doping with group2 ele
+ments (Ca, Sr, and Ba) has been successful in optimizing ptype
+BiCuSeO.1013 Other efforts to optimize ptype BiCuSeO have in
+cluded doping with group1 elements such as Na,1416 K,17,18
+and Cs,19 converging the light and heavy hole bands through al
+loying with La,20 and increasing the electrical conductivity via
+isovalent Ag doping.2123 The widespread success of ptype Bi
+CuSeO begs the question of whether BiCuSeO can be doped n
+type and if it performs equally well as a TE material. We address
+these questions in this study by computing the formation energies
+of native defects and 23 dopants in BiCuSeO.

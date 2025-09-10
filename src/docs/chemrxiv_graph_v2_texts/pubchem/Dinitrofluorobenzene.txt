@@ -1,0 +1,28 @@
+Name: Dinitrofluorobenzene
+Text:
+2,4-dinitrofluorobenzene appears as clear yellow crystals or yellow crystalline solid. (NTP, 1992)
+1-fluoro-2,4-dinitrobenzene is the organofluorine compound that is benzene with a fluoro substituent at the 1-position and two nitro substituents in the 2- and 4-positions. It has a role as an agrochemical, a protein-sequencing agent, an EC 2.7.3.2 (creatine kinase) inhibitor, an allergen, a chromatographic reagent and a spectrophotometric reagent. It is a C-nitro compound and an organofluorine compound.
+Dinitrofluorobenzene is an aromatic hydrocarbon composed of a benzene ring linked to two nitro groups and one fluoride group that is used for N-terminal amino acid sequencing by the Sanger method. In vitro, dinitrofluorobenzene (DNFB) reacts with the amine group in amino acids to produce dinitrophenyl (DNP)-amino acids. Then the sample is subjected to acid hydrolysis. Under these conditions, the peptide bonds are broken but the DNP-amino acid bonds remain intact. The DNP-amino acids can be recovered and their identities can be determined through the use of various chromatography techniques. This reagent can also be used to distinguish the reduced and oxidized forms of glutathione and cysteine.
+Irritants and reagents for labeling terminal amino acid groups.
+Properties:safety: Corrosive and Acute Toxic and Irritant and Health Hazard
+smiles: C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])F
+formula: C6H3FN2O4
+chem_properties: Molecular Weight: 186.10 g/mol
+XLogP3: 1.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 0
+Exact Mass: 186.00768474 Da
+Monoisotopic Mass: 186.00768474 Da
+Topological Polar Surface Area: 91.6
+Heavy Atom Count: 13
+Formal Charge: 0
+Complexity: 224
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

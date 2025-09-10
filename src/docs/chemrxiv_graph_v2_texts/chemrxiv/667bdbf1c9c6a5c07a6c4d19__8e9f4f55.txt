@@ -1,0 +1,12 @@
+Description:
+A metalsilicon precursor with specific hydrolysis and polycondensation rates under aqueous conditions.
+
+Text:
+However, there are two major limitations in this method when water is used as a 
+solvent.3 First, different metalsilicon precursors (e.g., Si(OR)4 vs. Ti(OR)4 or Si(OR)4 vs. 
+RxSi(OR)4x) may have significantly different hydrolysis as well as polycondensation rates 
+under aqueous conditions leading to phase separation or heterogeneity. Second, due to high 
+surface tension of water, the pore structures of wet gel may collapse during the drying process 
+resulting in materials with poor textural properties. To overcome the limitations of the HSG mentioned above, the nonhydrolytic solgel (NHSG) 
+can be seen as an alternative method where the solgel processes take place in waterfree 
+environments.

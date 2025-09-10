@@ -1,0 +1,13 @@
+Description:
+Used as the photoanode material in n-type dye-sensitized solar cells.
+
+Text:
+The eective and ecient conversion of solar energy into electrical energy is challenging but
+might enable a signicant reduction of the carbon emission in the world which will even have
+a benecial economic impact.1 The market of solar cells is still dominated by siliconbased
+photovoltaic devices.24 However, dye sensitized solar cells (DSSC)5 have the potential to
+become an alternative to siliconbased solar cells, as they are associated with a very low
+weight, low costs, ease of production, and can be used in a more exible manner than the
+conventional siliconbased technology.610
+In general, there are two kinds of DSSCs, i.e. ntype and ptype. In ntype DSSCs,
+the electrons are injected from the dye to the photoanode (mainly TiO2).

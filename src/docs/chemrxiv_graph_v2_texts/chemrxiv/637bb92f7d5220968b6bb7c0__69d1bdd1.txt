@@ -1,0 +1,71 @@
+Description:
+Known for its reactivity as an electrophile with multiple allotropes.
+
+Text:
+Elemental sulfur and polysulfides play a major role in organic synthesis, 1, 2 biochemistry, 3, 4 materials science5 and 
+other fields of chemistry. Due to its rather unique catenation behavior, elemental sulfur has multiple allotropes with 
+the most stable being cyclooctasulfur (S8). 6 Sulfur is mostly known for its reactivity as an electrophile, but the 
+types of products obtained vary based on the nature of the nucleophile. Strong nucleophiles like phosphines, 79 
+sulfite, 10, 11 or cyanide12, 13 provide monosulfide products exclusively.
+
+
+---
+
+Description:
+Incorporates into products through reactions with carbon-based nucleophiles.
+
+Text:
+Similarly, carbonbased nucleophiles usually 
+provide products with the incorporation of a single sulfur atom, for example in the Gewald1416 or Willgerodt
+Kindler17 reactions.18 Nitrogenbased nucleophiles are often proposed to open S8 as part of complex mechanisms, 
+1, 2 oxygen bases generate sulfur radical anions19, 20 or thiosulfate, 21 while hydrogen sulfide and thiols react with 
+sulfur to form complex mixtures of polysulfides. 2226 In most cases, opening of S8 by the nucleophile is believed to 
+be ratedetermining, therefore the productdetermining steps are kinetically invisible and thus still poorly 
+characterized. Indeed, experimental investigations of polysulfide mechanisms are complicated by their 
+thermodynamic instability2730 and recent evidence shows that they interconvert faster than they are trapped by 
+chemical probes.
+
+
+---
+
+Description:
+Involved in reactions with cyanide and phosphines to form monosulfide products.
+
+Text:
+3133 As such, computational investigations seem uniquelypositioned to provide key mechanistic 
+information to understand the seemingly unpredictable reactivity of sulfur and polysulfides under various 
+conditions. The precise determination of the mechanism of these reactions would allow for greater predictability in 
+the design of reactions involving sulfur and polysulfides and facilitate the study of biochemical polysulfides. 3436 
+To tackle this problem, we decided to focus on the simple but representative reactions of sulfur with cyanide 
+and phosphines, which generate the monosulfide products R3PS (phosphine sulfides) or SCN (thiocyanate) 
+quantitatively. The reaction of sulfur with phosphines was first reported in 18377 and the formation of the phosphine 
+sulfide was shown to be almost instantaneous.
+
+
+---
+
+Description:
+Elemental sulfur participates in reactions involving nucleophilic attacks.
+
+Text:
+8 From 1955, Bartlett and coworkers reported kinetic studies on the 
+reaction of elemental sulfur with triarylphosphines9 and cyanide, 12, 13 where they provided strong evidence that the 
+ratedetermining step for the formation of the observed products is the bimolecular opening of the S8 ring by the 
+nucleophile. They proposed the mechanism shown in (Scheme 1 path A) which was first formulated by Foss. 11 
+In this proposal, the thiocyanate or phosphine sulfide is displaced by nucleophilic attacks on the adjacent sulfur of 
+the progressively shrinking polysulfides, starting with the octasulfide 1.
+
+
+---
+
+Description:
+Elemental form can be detected in complex biochemical settings.
+
+Text:
+Another proposal for the decomposition of 
+the polysulfides came from Schmidt who argued, based on claims of resonance between sulfur atoms in polysulfide 
+chains, that the negativelycharged terminal sulfur was in fact the most electrophilic position and could be 
+abstracted by the nucleophile (Scheme 1 path B). 37 Due to limited experimental support for either mechanism, 
+over the following decades both the FossBartlett3841 and Schmidt42 mechanisms were presented as correct in books 
+and reviews of the topic. Since these reactions have fast rates and clean product profiles, they have found 
+applications for the titration 12 or detection of elemental sulfur43, 44 in complex biochemical settings.

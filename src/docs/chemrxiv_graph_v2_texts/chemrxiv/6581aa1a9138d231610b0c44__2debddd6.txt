@@ -1,0 +1,14 @@
+Description:
+Motifs often substituted with an aromatic group in bioactive compounds.
+
+Text:
+Natures secondary metabolites as well as de novo designed small molecule probes are 
+significantly populated with nitrogen atoms. HIV inhibitors1, ion channel modulators2, 
+opioids3,4 and endogenous neurotransmitters5 (Figure 1a) are representative examples of 
+relevant bioactive compounds showcasing Ncontaining motifs, many of which feature amines 
+substituted with an aromatic group in position. Access to these prominent chemical blueprints 
+in enantiomerically pure form is crucial, not only for accurate target engagement studies, but 
+also for the optimization of their pharmacological profiles. A representative example is R()
+dinapsoline, a selective and efficient D1 dopamine agonist5, which was found to be 161fold 
+more potent than its S()enantiomer. The asymmetric synthesis of arylethylamines has typically relied on additions610 or 
+hydrogenations of alkenes11,12 as well as on ring opening1315 and condensation reactions16.

@@ -1,0 +1,33 @@
+Name: Cumene
+Text:
+Cumene can cause cancer according to The National Toxicology Program.
+Cumene appears as a clear colorless liquid with an aromatic odor. Less dense than water and insoluble in water. Vapors heavier than air. May be moderately toxic by inhalation, ingestion and skin absorption.
+Cumene is an alkylbenzene that is benzene carrying an isopropyl group.
+Cumene is used in a variety of petroleum products. Acute (short-term) inhalation exposure to cumene may cause headaches, dizziness, drowsiness, slight incoordination, and unconsciousness in humans. Cumene has a potent central nervous system (CNS) depressant action characterized by a slow induction period and long duration of narcotic effects in animals. Cumene is a skin and eye irritant. No information is available on the chronic (long-term), reproductive, developmental, or carcinogenic effects of cumene in humans. Animal studies have reported increased liver, kidney, and adrenal weights from inhalation exposure to cumene. EPA has classified cumene as a Group D, not classifiable as to human carcinogenicity.
+Cumene has been reported in Camellia sinensis, Saxifraga stolonifera, and other organisms with data available.
+Isopropylbenzene is found in ceylan cinnamon. Isopropylbenzene is a trace constituent of ginger oil (Zingiber officinale) Cumene is the common name for isopropylbenzene, an organic compound that is an aromatic hydrocarbon. It is a constituent of crude oil and refined fuels. It is a flammable colorless liquid that has a boiling point of 152 C. Nearly all the cumene that is produced as a pure compound on an industrial scale is converted to cumene hydroperoxide, which is an intermediate in the synthesis of other industrially important chemicals such as phenol and acetone.
+
+Isopropylbenzene has been shown to exhibit catabolic function (A7843).
+See also: 2-Phenyl-2-propyl radical (annotation moved to) ... View More ...
+Properties:safety: Flammable and Irritant and Health Hazard and Environmental Hazard
+smiles: CC(C)C1=CC=CC=C1
+formula: C9H12
+chem_properties: Molecular Weight: 120.19 g/mol
+XLogP3: 3.7
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 1
+Exact Mass: 120.093900383 Da
+Monoisotopic Mass: 120.093900383 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 68.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

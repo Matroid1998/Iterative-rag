@@ -1,0 +1,31 @@
+Name: Tacrine
+Text:
+Tacrine is a member of the class of acridines that is 1,2,3,4-tetrahydroacridine substituted by an amino group at position 9. It is used in the treatment of Alzheimer's disease. It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor. It is a member of acridines and an aromatic amine. It is a conjugate base of a tacrine(1+).
+A centerally active cholinesterase inhibitor that has been used to counter the effects of muscle relaxants, as a respiratory stimulant, and in the treatment of Alzheimer's disease and other central nervous system disorders. Tacrine has been discontinued for the United States market.
+Tacrine is a Cholinesterase Inhibitor. The mechanism of action of tacrine is as a Cholinesterase Inhibitor.
+Tacrine is an oral acetylcholinesterase inhibitor previously used for therapy of Alzheimer disease. Tacrine therapy is associated with a very high rate of serum aminotransferase elevations during therapy and has been linked to several instances of clinically apparent, acute liver injury.
+TACRINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1993 and is indicated for dementia and has 1 investigational indication.
+Tacrine is only found in individuals that have used or taken this drug. It is a centerally active cholinesterase inhibitor that has been used to counter the effects of muscle relaxants, as a respiratory stimulant, and in the treatment of Alzheimer's disease and other central nervous system disorders. The mechanism of tacrine is not fully known, but it is suggested that the drug is an anticholinesterase agent which reversibly binds with and inactivates cholinesterases. This inhibits the hydrolysis of acetylcholine released from functioning cholinergic neurons, thus leading to an accumulation of acetylcholine at cholinergic synapses. The result is a prolonged effect of acetylcholine.
+A cholinesterase inhibitor that crosses the blood-brain barrier. Tacrine has been used to counter the effects of muscle relaxants, as a respiratory stimulant, and in the treatment of Alzheimer's disease and other central nervous system disorders.
+Properties:safety: Acute Toxic and Irritant and Health Hazard
+smiles: C1CCC2=NC3=CC=CC=C3C(=C2C1)N
+formula: C13H14N2
+chem_properties: Molecular Weight: 198.26 g/mol
+XLogP3: 2.7
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 198.115698455 Da
+Monoisotopic Mass: 198.115698455 Da
+Topological Polar Surface Area: 38.9
+Heavy Atom Count: 15
+Formal Charge: 0
+Complexity: 229
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

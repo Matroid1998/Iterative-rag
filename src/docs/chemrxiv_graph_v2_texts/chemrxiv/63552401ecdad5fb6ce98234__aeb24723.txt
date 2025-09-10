@@ -1,0 +1,28 @@
+Description:
+Used in lithium-ion batteries and poses interfacial stability challenges in solid electrolytes for all-solid-state batteries.
+
+Text:
+Conventional lithiumion batteries are reaching their theoretical limits in term of energy density and rely 
+on flammable liquid electrolytes.1 2 A promising alternative for the next generation of energy storage 
+device are allsolidstate batteries (ASSBs), which may enable the next stepup in terms of energy density 
+and safety required for the ongoing energy transition and the electrification of transport.2 3 
+Numerous solid electrolytes (SEs) have been developed, reaching Liion conductivities of up to 102 S cm
+1, are comparable with liquid electrolytes. 4 5 However, the interfacial stability of SEs with both lithium 
+metal (LM) and common highvoltage cathodes remains a tremendous challenge and hampers their 
+application in ASSBs.
+
+
+---
+
+Description:
+Can form dendrites during plating, leading to cell short-circuiting.
+
+Text:
+(ii) If the SE is thermodynamically 
+instable against LM, chemical stability can be achieved if it decomposes into an electronically insulating 
+and ion conducting interphase, selflimiting further decomposition and thus effectively serving as a 
+passivation layer 4 8 Such interphases, however, may lead to inhomogeneous Li plating which favors the 
+growth of lithium dendrites and cell shortcircuiting. Additionally, volume changes during decomposition 
+may incite contact losses.6 It was previously believed that SEs could inhibit the growth of Li dendrites due 
+to their high stiffness (large elastic moduli) compared to LM.9 This assumption has now been refuted 
+theoretically10 and experimentally.

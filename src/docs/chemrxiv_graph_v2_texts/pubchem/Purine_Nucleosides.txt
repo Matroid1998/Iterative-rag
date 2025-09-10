@@ -1,0 +1,27 @@
+Name: Purine Nucleosides
+Text:
+Nebularine is a purine ribonucleoside that is 9H-purine attached to a beta-D-ribofuranosyl residue at position 9 via a glycosidic (N-glycosyl) linkage. It has a role as a fungal metabolite. It is a purine ribonucleoside and a purines D-ribonucleoside. It is functionally related to a beta-D-ribose.
+Purine nucleoside is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Nebularine has been reported in Phellinus igniarius, Medicago sativa, and other organisms with data available.
+Properties:safety: Irritant
+smiles: C1=C2C(=NC=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O
+formula: C10H12N4O4
+chem_properties: Molecular Weight: 252.23 g/mol
+XLogP3: -0.7
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 2
+Exact Mass: 252.08585488 Da
+Monoisotopic Mass: 252.08585488 Da
+Topological Polar Surface Area: 114
+Heavy Atom Count: 18
+Formal Charge: 0
+Complexity: 308
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

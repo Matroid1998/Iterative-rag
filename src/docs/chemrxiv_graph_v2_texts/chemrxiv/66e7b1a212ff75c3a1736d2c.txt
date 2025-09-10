@@ -1,0 +1,12 @@
+Description:
+An anion whose reduced flow through epithelial cell membranes in the lungs is associated with cystic fibrosis.
+
+Text:
+Anion transport is an essential cellular function facilitated by membranebound ion channels.1 Diseases in which genetic 
+problems affect the structure of ion channels and hence reduce or stop the flow of anions through the membrane are known as 
+channelopathies and include cystic fibrosis (CF).2,3 In CF, reduction in the flow of chloride and bicarbonate through epithelial 
+cell membranes in the lungs limits water osmosis, which leads to the formation of sticky mucus and continual lung infections, 
+reducing the life expectancy of CF patients.4,5 It has been proposed that small molecules which can facilitate anion transport 
+through cell membranes, known as a channel replacement therapy, may ameliorate the symptoms of CF and other 
+channelopathies by replacing the function of faulty channels.6 
+Small molecule anion transporters can dissipate pH gradients across lipid bilayer membranes.

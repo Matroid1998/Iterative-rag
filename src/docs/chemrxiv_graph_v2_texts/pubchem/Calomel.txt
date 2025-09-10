@@ -1,0 +1,28 @@
+Name: Calomel
+Text:
+Mercurous chloride is an odorless white solid. Sinks in water. (USCG, 1999)
+Dimercury dichloride is a mercury coordination entity.
+Calomel is a mineral with formula of HgCl. The IMA symbol is Clo.
+Mercury(I) chloride is a chloride of mercury that occurs naturally as the mineral calomel. It is used primarily for reference electrodes in electrochemistry. Mercury is a heavy, silvery d-block metal and one of six elements that are liquid at or near room temperature and pressure. It is a naturally occuring substance, and combines with other elements such as chlorine, sulfur, or oxygen to form inorganic mercury compounds (salts). Mercury also combines with carbon to make organic mercury compounds. (L1, L429)
+See also: Dimercury dichloride; mercurous chloride; calomel (annotation moved to) ... View More ...
+Properties:safety: Acute Toxic and Irritant and Environmental Hazard
+smiles: Cl[Hg].Cl[Hg]
+formula: Cl2Hg2
+chem_properties: Molecular Weight: 472.09 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 471.876676 Da
+Monoisotopic Mass: 473.87899 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 4
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

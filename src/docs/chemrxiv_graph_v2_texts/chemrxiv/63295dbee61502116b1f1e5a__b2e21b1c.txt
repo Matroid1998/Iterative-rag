@@ -1,0 +1,14 @@
+Description:
+Has an ionic conductivity of 7.2 x 10^-3 S/cm at room temperature.
+
+Text:
+The ASSB with this electrolyte 
+possessing a 2103 Scm ionic conductivity and a 4.71010 Scm electronic conductivity, 
+reached 3000 cycles at 80 capacity retention when cycled between 2.8  4.3V vs. LiLi using 
+LiNi0.85Co0.1Mn0.05O2 as cathode (6.21 mgcm2) at 3C3. Considering these promising results, 
+further improvements and fundamental understanding of such electrolytes may accelerate the 
+development of practical ASSBs. A strategy that has been successfully employed to tune the ionic conductivity of Li3M(III)X6 
+materials is halogen substitution49. Specifically for the compositional tieline between Li3YCl6 
+and Li3YBr6, the Li3YBr3Cl3 composition was shown to have a 7.2 103 Scm ionic 
+conductivity at room temperature (compared to the 1 103 Scm of the full 
+Li3YCl6Li3YBr62). Based on thermodynamic phase equilibrium calculations it has been

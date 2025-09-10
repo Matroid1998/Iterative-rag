@@ -1,0 +1,24 @@
+Description:
+Compounds that have served as important sources for the production of nitrogen-containing chemicals.
+
+Text:
+Nitroaromatics have served as important sources for the production of nitrogencontaining chemicals during the 
+past century.5 Recently, the nitrogroup on these compounds had been resurrected as a leaving group by the metal
+catalyzed crosscoupling reactions, enriching the chemistry of nitroaromatics.6 However, on another main branch 
+of the modern synthesis, these substrates showed an unfavored features for prevailing CH activation in that 1) 
+the low electrodensity retards the CH activation, and 2) the weak coordinating ability makes the preactivation 
+intermediate unstable.
+
+
+---
+
+Description:
+Compounds that have undergone rare cases of direct deuteration.
+
+Text:
+Despite the recent achievements of their CH functionalizations,7 only rare cases of direct 
+deuteration of nitroaromatics have been reported.8 For instance, apart from the first direct deuteration of 
+nitroaromatics catalyzed by electronrich Iridium complex (Scheme 1A),9 a recent mechanistic study indicated the 
+potential of higher deuteration activity of AgO than Pd(OAc)2.8b The subsequent test with K2CO3 suggested that the 
+exchange may happen via a SNAr pathway. This interesting finding encouraged us to hypothesize the electronrich 
+silvercomplex could facilitate the HIE of electrodeficient nitroaromatics. Noticeably, similar strategy of silver

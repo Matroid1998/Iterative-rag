@@ -1,0 +1,9 @@
+Description:
+A metal center that can participate in electron donation and backbonding with ligands.
+
+Text:
+If the Ltype ligand is electron donating to the Ni metal center then there will be a propagated effect 
+for donation to the CO ligands through backbonding, which results in weakening the CO bond strength 
+and decreasing the TEP value. Conversely, if the Ltype ligand is electron withdrawing to the Ni metal 
+center then there will be less donation to the CO ligands through backbonding resulting in a larger TEP 
+value. httpsdoi.org10.26434chemrxiv2023wjnpj ORCID httpsorcid.org0000000156899762 Content not peerreviewed by ChemRxiv. License CC BY 4.0

@@ -1,0 +1,27 @@
+Name: Aluminum Hydroxide
+Text:
+Aluminum hydroxide is an inorganic salt used as an antacid. It is a basic compound that acts by neutralizing hydrochloric acid in gastric secretions. Subsequent increases in pH may inhibit the action of pepsin. An increase in bicarbonate ions and prostaglandins may also confer cytoprotective effects.
+Aluminum Hydroxide is an inorganic compound containing aluminum.  Used in various immunologic preparations to improve immunogenicity, aluminum hydroxide adjuvant consists of aluminum hydroxide gel in a saline solution.  In vaccines, this agent binds to the protein conjugate, resulting in improved antigen processing by the immune system. (NCI04)
+A compound with many biomedical applications: as a gastric antacid, an antiperspirant, in dentifrices, as an emulsifier, as an adjuvant in bacterins and vaccines, in water purification, etc.
+See also: Potassium Alum (active moiety of); Algeldrate (active moiety of); Aluminum hydroxide; magnesium trisilicate (component of) ... View More ...
+Properties:safety: Irritant
+smiles: [OH-].[OH-].[OH-].[Al+3]
+formula: AlH3O3
+chem_properties: Molecular Weight: 78.004 g/mol
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 77.9897574 Da
+Monoisotopic Mass: 77.9897574 Da
+Topological Polar Surface Area: 3
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 4
+Compound Is Canonicalized: Yes 
+

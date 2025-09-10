@@ -1,0 +1,11 @@
+Description:
+A 3D halide perovskite with a band gap of about 2.35 eV and bright green photoluminescent emission at 527 nm.
+
+Text:
+For instance, the band gap value of the 3D CsPbBr3 
+is about 2.35 eV, and that of 0D C4PbBr6 is 3.90 eV.5 Also, while the 3D CsPbBr3 possesses a 
+bright green photoluminescent (PL) emission ( 527 nm), the PL emission from the 0D Cs4PbBr6 
+is debatable. Some studies state that the green emission from the 0D C4PbBr6 is an inherent 
+property of the materials, whereas others attribute this emission to the contamination by the 3D 
+CsPbBr3 phase and structural defects.58 Since the halide perovskitenanocrystals (HPNCs) 
+have highly active sites, it is favorable for carrying out photocatalytic reactions.

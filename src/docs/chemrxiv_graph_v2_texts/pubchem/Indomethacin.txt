@@ -1,0 +1,35 @@
+Name: Indomethacin
+Text:
+Crystals. (NTP, 1992)
+Indometacin is a member of the class of indole-3-acetic acids that is indole-3-acetic acid in which the indole ring is substituted at positions 1, 2 and 5 by p-chlorobenzoyl, methyl, and methoxy groups, respectively. A non-steroidal anti-inflammatory drug, it is used in the treatment of musculoskeletal and joint disorders including osteoarthritis, rheumatoid arthritis, gout, bursitis and tendinitis. It has a role as an EC 1.14.99.1 (prostaglandin-endoperoxide synthase) inhibitor, an analgesic, a gout suppressant, a drug metabolite, a xenobiotic metabolite, a xenobiotic, an environmental contaminant and a non-steroidal anti-inflammatory drug. It is a N-acylindole, a member of monochlorobenzenes, an aromatic ether and a member of indole-3-acetic acids.
+Indometacin, or indomethacin, is a non-steroidal anti-inflammatory drug (NSAID) with anti-inflammatory, analgesic, and antipyretic properties. NSAIDs consist of agents that are structurally unrelated; the NSAID chemical classification of indometacin is an indole-acetic acid derivative with the chemical name 1- (p-chlorobenzoyl)25-methoxy-2-methylindole-3-acetic acid. The pharmacological effect of indometacin is not fully understood, however, it is thought to be mediated through potent and nonselective inhibition of the enzyme cyclooxygenase (COX), which is the main enzyme responsible for catalyzes the rate-limiting step in prostaglandin and thromboxane biosynthesis via the arachidonic acid (AA) pathway. Indometacin was first discovered in 1963 and it was first approved for use in the U.S. by the Food and Drug Administration in 1965, along with other acetic acid derivatives such as [diclofenac] and [sulindac] that were also developed during the 1960s. Since then, indometacin has been extensively studied in clinical trials as one of the most potent NSAIDs in blocking prostaglandin synthesis and was among the first NSAIDs to be used in the symptomatic treatment of migraine and for headaches that eventually became known as “indomethacin-responsive” headache disorders.   Most commonly used in rheumatoid arthritis, ankylosing spondylitis, osteoarthritis, acute shoulder pains, and acute gouty arthritis, indometacin is currently available as oral capsules as well as other methods of administration, including rectal and intravenous formulations. Intravenous indometacin is administered to close a hemodynamically significant patent ductus arteriosus, as indicated by clinical evidence, in premature infants. Ophthalmic indometacin has been studied and used in the symptomatic treatment of postoperative ocular inflammation and pain and/or complications after cataract surgery. Although deemed effective in reducing ocular inflammation in clinical studies, topical NSAIDs were also associated with a potential reduction in corneal sensitivity accompanied by an increased risk of superficial punctate keratitis and subjective symptoms of discomfort, including pain, burning or pricking, or a tingling sensation after instillation into the cul‐de‐sac.
+Indomethacin is a Nonsteroidal Anti-inflammatory Drug. The mechanism of action of indomethacin is as a Cyclooxygenase Inhibitor.
+Indomethacin is a potent nonsteroidal antiinflammatory drug (NSAID) typically used for chronic inflammatory arthritis. Indomethacin has been associated with rare cases of idiosyncratic drug induced liver disease.
+Indomethacin has been reported in Alpinia officinarum, Penicillium chrysogenum, and other organisms with data available.
+Indomethacin is a synthetic nonsteroidal indole derivative with anti-inflammatory activity and chemopreventive properties. As a nonsteroidal anti-inflammatory drug (NSAID), indomethacin inhibits the enzyme cyclooxygenase, thereby preventing cyclooxygenase-mediated DNA adduct formation by heterocyclic aromatic amines. This agent also may inhibit the expression of multidrug-resistant protein type 1, resulting in increased efficacies of some antineoplastic agents in treating multi-drug resistant tumors. In addition, indomethacin activates phosphatases that inhibit the migration and proliferation of cancer cells and downregulates survivin, which may result in tumor cell apoptosis. (NCI04)
+INDOMETHACIN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1965 and has 12 approved and 23 investigational indications. This drug has a black box warning from the FDA.
+Indomethacin is a non-steroidal antiinflammatory agent (NSAIA) with antiinflammatory, analgesic and antipyretic activity. Its pharmacological effect is thought to be mediated through inhibition of the enzyme cyclooxygenase (COX), the enzyme responsible for catalyzes the rate-limiting step in prostaglandin synthesis via the arachidonic acid pathway. 
+A non-steroidal anti-inflammatory agent (NSAID) that inhibits CYCLOOXYGENASE, which is necessary for the formation of PROSTAGLANDINS and other AUTACOIDS. It also inhibits the motility of POLYMORPHONUCLEAR LEUKOCYTES.
+See also: Indomethacin Sodium (has salt form); Indomethacin diethylamino ethyl ester (is active moiety of).
+Properties:safety: Corrosive and Acute Toxic and Irritant and Health Hazard
+smiles: CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O
+formula: C19H16ClNO4
+chem_properties: Molecular Weight: 357.8 g/mol
+XLogP3: 4.3
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 4
+Exact Mass: 357.0767857 Da
+Monoisotopic Mass: 357.0767857 Da
+Topological Polar Surface Area: 68.5
+Heavy Atom Count: 25
+Formal Charge: 0
+Complexity: 506
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

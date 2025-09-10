@@ -1,0 +1,32 @@
+Name: Cyclohexane
+Text:
+Cyclohexane appears as a clear colorless liquid with a petroleum-like odor. Used to make nylon, as a solvent, paint remover, and to make other chemicals. Flash point -4 °F. Density 6.5 lb / gal (less than water) and insoluble in water. Vapors heavier than air.
+Cyclohexane is an alicyclic hydrocarbon comprising a ring of six carbon atoms; the cyclic form of hexane, used as a raw material in the manufacture of nylon. It has a role as a non-polar solvent. It is a cycloalkane and a volatile organic compound.
+Cyclohexane has been reported in Manilkara zapota, Helichrysum odoratissimum, and other organisms with data available.
+Cyclohexane is found in kohlrabi. Diluent in colour additive mixtures for food use
+
+Cyclohexane has been shown to exhibit beta-oxidant, anti-nociceptive and antibiotic functions (A7840, A7841, A7842).
+
+Cyclohexane belongs to the family of Cycloalkanes. These are alkanes containing one or more rings of carbon atoms.
+Properties:safety: Flammable and Irritant and Health Hazard and Environmental Hazard
+smiles: C1CCCCC1
+formula: C6H12
+chem_properties: Molecular Weight: 84.16 g/mol
+XLogP3: 3.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 84.093900383 Da
+Monoisotopic Mass: 84.093900383 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 15.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

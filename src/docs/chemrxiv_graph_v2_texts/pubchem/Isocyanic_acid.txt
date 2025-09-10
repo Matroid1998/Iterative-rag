@@ -1,0 +1,27 @@
+Name: Isocyanic acid
+Text:
+Isocyanic acid is a colourless, volatile, poisonous inorganic compound with the formula HNCO; the simplest stable chemical compound that contains carbon, hydrogen, nitrogen, and oxygen, the four most commonly-found elements in organic chemistry and biology. It is a hydracid and a one-carbon compound. It is a conjugate acid of a cyanate. It is a tautomer of a cyanic acid.
+Isocyanic acid has been reported in Homo sapiens with data available.
+Isocyanic acid is a chemical compound of cyanide.
+Properties:safety: Corrosive and Irritant and Health Hazard
+smiles: C(=N)=O
+formula: CHNO
+chem_properties: Molecular Weight: 43.025 g/mol
+XLogP3: 1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 43.005813655 Da
+Monoisotopic Mass: 43.005813655 Da
+Topological Polar Surface Area: 40.9
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 27.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: No 
+

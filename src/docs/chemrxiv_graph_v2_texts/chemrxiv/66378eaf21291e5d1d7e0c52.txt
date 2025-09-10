@@ -1,0 +1,20 @@
+Description:
+A drug discovered using computer-aided drug design (CADD) methods.
+
+Text:
+The 
+adoption of CADD methods is rapidly increased due to their 
+potential to significantly reduce the cost and time of a new 
+drug development.22 CADD can be used in both purposes 
+including searching for new inhibitors and repurposing for 
+existing drugs.2325 CADD has been donating to the discovery 
+of severally available drugs such as dorzolamide,2627 
+saquinavir, ritonavir, and indinavir.21 
+In this work, we aim to use a combination of computa
+tional and experimental approaches to find potential inhibi
+tors for inhibiting neuraminidase. In particular, the trained 
+machine learning (ML) model was employed to predict the 
+ligandbinding affinity of ca. 2 million compounds of 
+ChEMBL database to neuraminidase. The experimental stud
+ies were then carried out to validate the ML outcomes. The 
+shortlist of potential candidates were obtained.

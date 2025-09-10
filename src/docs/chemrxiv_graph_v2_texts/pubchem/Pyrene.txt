@@ -1,0 +1,28 @@
+Name: Pyrene
+Text:
+Pyrene is a colorless solid, solid and solutions have a slight blue fluorescence. Used in biochemical research. (EPA, 1998)
+Pyrene is an ortho- and peri-fused polycyclic arene consisting of four fused benzene rings, resulting in a flat aromatic system. It has a role as a fluorescent probe and a persistent organic pollutant.
+Pyrene is a parent class of polycyclic aromatic hydrocarbons containing four fused rings. (IUPAC 1998)
+Pyrene is a polycyclic aromatic hydrocarbon (PAH) consisting of four fused benzene rings, resulting in a flat aromatic system. The chemical formula is C16H10. This colourless solid is the smallest peri-fused PAH (one where the rings are fused through more than one face). Pyrene forms during incomplete combustion of organic compounds. Although it is not as problematic as benzopyrene, animal studies have shown pyrene is toxic to the kidneys and the liver.
+Properties:safety: Irritant and Environmental Hazard
+smiles: C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)C=C2
+formula: C16H10
+chem_properties: Molecular Weight: 202.25 g/mol
+XLogP3: 4.9
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 202.078250319 Da
+Monoisotopic Mass: 202.078250319 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 16
+Formal Charge: 0
+Complexity: 217
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

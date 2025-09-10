@@ -1,0 +1,13 @@
+Description:
+An oxide ion conductor used in solid oxide fuel cells with high ionic conduction at 923 K.
+
+Text:
+Anionicconducting materials, especially oxide ion conductors, have been the focus of continued
+research efforts over the past decades due to their potential use in renewable energy applications,
+such as oxygenpermeable membranes and solid oxide fuel cells (SOFCs).13 A crucial parameter
+holding back their widespread implementation is the undesirably high temperature at which they
+show sufciently high ionic conduction, which even for currently used, bestinclass materials
+(such as yttriastabilised zirconia, YSZ) is 923 K.4 There is still very much a need to discover
+and develop novel ionic conducting materials that operate at lower temperatures and to characterise
+the connection between structure and conductivity in order to move towards rational design of
+2

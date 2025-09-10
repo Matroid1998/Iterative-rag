@@ -1,0 +1,24 @@
+Name: Benzyl carbamate
+Text:
+Properties:safety: Irritant
+smiles: C1=CC=C(C=C1)COC(=O)N
+formula: C8H9NO2
+chem_properties: Molecular Weight: 151.16 g/mol
+XLogP3: 1.2
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 3
+Exact Mass: 151.063328530 Da
+Monoisotopic Mass: 151.063328530 Da
+Topological Polar Surface Area: 52.3
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 130
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,13 @@
+Description:
+Functional groups commonly used in radical crosscoupling reactions.
+
+Text:
+The use of radical crosscoupling in retrosynthetic analysis has experienced a renaissance 
+over the past decade (14). This is due to the simple, convergent disconnections of challenging C
+C bonds leading back to everpresent functional groups such as halides, acids, amines, alcohols, 
+and olefins (Figure 1A) (412). In practice, all of these widely employed radical precursors require 
+some sort of exogenous redox activation mode. Regardless of the choice of oxidative or reductive 
+activation, this generally requires stoichiometric chemical additives, catalysts to facilitate photo
+induced electron transfer, or electrochemistry (5, 8, 13). A simpler means to achieve radical cross
+coupling without the use of exogenous redox methods would be highly attractive based on first 
+principles reasoning as it would reduce cost and the complexity of reaction setup.

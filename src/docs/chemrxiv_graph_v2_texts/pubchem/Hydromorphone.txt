@@ -1,0 +1,33 @@
+Name: Hydromorphone
+Text:
+Hydromorphone is a morphinane alkaloid that is a hydrogenated ketone derivative of morphine. A semi-synthetic drug, it is a centrally acting pain medication of the opioid class. It has a role as an opioid analgesic and a mu-opioid receptor agonist. It is a morphinane alkaloid and an organic heteropentacyclic compound. It derives from a hydride of a morphinan.
+Hydromorphone is a DEA Schedule II controlled substance. Substances in the DEA Schedule II have a high potential for abuse which may lead to severe psychological or physical dependence.
+Hydromorphone is a pure opioid, a semi-synthetic hydrogenated ketone derivative of [morphine] that has been available clinically since 1920. Structurally, hydromorphone derived from [morphine] in the modification of the hydroxyl group in the carbon 6 to a carbonyl and the absence of a double bond between the carbon 7 and 8. Due to these modifications, it presents a very high potency and comparable side effect profile to the parent compound. Even though hydromorphone does not present a 6-hydroxyl group, it is categorized under the family of phenanthrenes and it is considered a chemical under the schedule II (medical purposes with high addiction potential).  The first reported approved product containing hydromorphone in the form of hydromorphone hydrochloride was developed by Fresenius Kabi USA and FDA approved in 1984.
+Hydromorphone is an Opioid Agonist. The mechanism of action of hydromorphone is as a Full Opioid Agonist.
+Hydromorphone is the hydrogenated ketone of morphine, a semi-synthetic opioid with analgesic effects. Hydromorphone selectively binds the mu-opioid receptor which is linked through G-proteins. Binding stimulates the exchange of guanosine triphosphate (GTP) for guanosine diphosphate (GDP) on the G-protein complex and interacts with and inhibits adenylate cyclase located at the inner surface of the plasma membrane. This leads to a reduction in intracellular cyclic 3',5'-adenosine monophosphate (cAMP). Further, voltage-gated potassium channels are activated, thereby causing hyperpolarization and reducing neuronal excitability. In addition, the opening of voltage-gated calcium channels is inhibited, thereby leading to an inhibition of calcium entry and a reduction in the release of various neurotransmitters, including GABA, vasopressin, somatostatin, insulin and glucagons.
+HYDROMORPHONE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) and is indicated for drug dependence and pain and has 16 investigational indications.
+Hydromorphone is only found in individuals that have used or taken this drug. It is an opioid analgesic derived from morphine and used mainly as an analgesic. It has a shorter duration of action and is more potent than morphine. Hydromorphone is a narcotic analgesic; its principal therapeutic effect is relief of pain. Hydromorphone interacts predominantly with the opioid mu-receptors. These mu-binding sites are discretely distributed in the human brain, with high densities in the posterior amygdala, hypothalamus, thalamus, nucleus caudatus, putamen, and certain cortical areas. They are also found on the terminal axons of primary afferents within laminae I and II (substantia gelatinosa) of the spinal cord and in the spinal nucleus of the trigeminal nerve. In clinical settings, Hydromorphone exerts its principal pharmacological effect on the central nervous system and gastrointestinal tract. Hydromorphone also binds with kappa-receptors which are thought to mediate spinal analgesia, miosis and sedation.
+An opioid analgesic made from MORPHINE and used mainly as an analgesic. It has a shorter duration of action than morphine.
+See also: Hydromorphone Hydrochloride (has salt form).
+Properties:safety: Acute Toxic and Irritant and Health Hazard
+smiles: CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)O)O[C@H]3C(=O)CC4
+formula: C17H19NO3
+chem_properties: Molecular Weight: 285.34 g/mol
+XLogP3: 1.8
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 285.13649347 Da
+Monoisotopic Mass: 285.13649347 Da
+Topological Polar Surface Area: 49.8
+Heavy Atom Count: 21
+Formal Charge: 0
+Complexity: 494
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,14 @@
+Description:
+A potential solid-state electrolyte (SSE) with good electrochemical stability and high room temperature Li ion conductivity.
+
+Text:
+Over the last few decades, various potential SSEs have
+been investigated, including LISICON68, NASICON9, 10, perovskites11, garnet12,
+ThioLISICON13, argyrodite14 and antiperovskites15. However, of all the
+systems reported, the lithium garnet systems are among the few which
+encompass both good electrochemical stability and high room temperature Li
+ion conductivity. Hence the garnet solidstate electrolytes are envisaged as
+promising candidates for allsolidstate batteries. The ideal garnet has a general formula A3B2C3O12 where A, B and C are 8, 6
+and 4 oxygen coordinated metal ions. The garnet has a cubic structure (Ia
+
+3d), which contains a framework of cornerlinked tetrahedra and octahedra

@@ -1,0 +1,13 @@
+Description:
+Used as a replacement for the aryl group in predictive models.
+
+Text:
+have developed a predictive
+model based on DFTcomputed electrostatic and orbital properties of the neutral or cationic
+alkenecatalyst complexes which they test on eight dierent alkenes. They use a very simpli
+ed model of the Pd catalyst (PdIPH3 and Pd(PH3)2 for the neutral and cationic pathway,
+respectively) and the aryl group is replaced by ethene, but still they get a good agreement
+with the experimentally observed regioselectivities. Bcktorp and Norrby investigated the entire reaction paths for both the neutral and
+cationic mechanisms of styrene and phenyl chloride catalysed by Pd(PPh3)2, including the
+two neutral paths depending on whether the chloride is cis or trans to the phenyl ring (Ph)
+when complexed with the catalyst (Figure 2).

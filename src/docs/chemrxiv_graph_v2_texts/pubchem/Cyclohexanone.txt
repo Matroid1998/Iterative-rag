@@ -1,0 +1,29 @@
+Name: Cyclohexanone
+Text:
+Cyclohexanone appears as a colorless to pale yellow liquid with a pleasant odor. Less dense than water. Flash point 111 °F. Vapors heavier than air. Used to make nylon, as a chemical reaction medium, and as a solvent.
+Cyclohexanone is a cyclic ketone that consists of cyclohexane bearing a single oxo substituent. It has a role as a human xenobiotic metabolite.
+Cyclohexanone (also known as oxocyclohexane, pimelic ketone, ketohexamethylene, cyclohexyl ketone or ketocyclohexane) is a six-carbon cyclic molecule with a ketone functional group. It is a colorless, oily liquid with an acetone-like smell.
+Cyclohexanone has been reported in Gymnodinium nagasakiense, Zingiber mioga, and other organisms with data available.
+See also: Cyclohexanone, homopolymer (annotation moved to).
+Properties:safety: Flammable and Irritant
+smiles: C1CCC(=O)CC1
+formula: C6H10O
+chem_properties: Molecular Weight: 98.14 g/mol
+XLogP3: 0.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 98.073164938 Da
+Monoisotopic Mass: 98.073164938 Da
+Topological Polar Surface Area: 17.1
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 68.2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

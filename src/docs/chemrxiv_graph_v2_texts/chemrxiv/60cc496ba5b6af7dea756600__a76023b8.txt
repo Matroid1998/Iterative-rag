@@ -1,0 +1,14 @@
+Description:
+A MOF that exhibits very high selectivity for oxygen over hydrogen and nitrogen.
+
+Text:
+Long et al. recently reported 
+Cr3(Cr4Cl)3(BTT)82 (BTT3 1,3,5benzenetristetrazolate)12 MOF, which exhibits very high 
+selectivity for oxygen over hydrogen and nitrogen. Despite the structural similarity of this MOF 
+to other metal ion MOFs reported, this shows high selectivity towards O2 compared to N2 and is 
+currently one among the best MOFs for O2 selective separations.12 While multiple factors can 
+influence gas adsorption in MOFs, the origin of very high selectivity for O2 is perplexing because 
+structurally similar metal ion MOFs are unselective. Though the role of spin state and spin coupling 
+in selective gas binding is not well studied in MOFs, there are reports on the magnetic separation 
+of small molecules.13 The spin statesbased selectivity of gas in MOF14 needs to be addressed in 
+detail.

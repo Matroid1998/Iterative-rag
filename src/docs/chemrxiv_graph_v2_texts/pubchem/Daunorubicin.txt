@@ -1,0 +1,36 @@
+Name: Daunorubicin
+Text:
+Daunomycin can cause cancer according to an independent committee of scientific and health experts.
+Anthracycline antibiotic. An anticancer agent.
+Daunorubicin is a natural product found in Actinomadura roseola. It has a role as an antineoplastic agent and a bacterial metabolite. It is an anthracycline, a member of tetracenequinones, a member of p-quinones and an aminoglycoside antibiotic. It is a conjugate base of a daunorubicin(1+). It derives from a hydride of a tetracene.
+A very toxic anthracycline aminoglycoside antineoplastic isolated from Streptomyces peucetius and others, used in treatment of leukemia and other neoplasms.
+Daunorubicin is an Anthracycline Topoisomerase Inhibitor. The mechanism of action of daunorubicin is as a Topoisomerase Inhibitor.
+Daunorubicin is an anthracycline antibiotic that has antineoplastic activity and is used in the therapy of acute leukemia and AIDS related Kaposi sarcoma. Daunorubicin is associated with a low rate of transient serum enzyme and bilirubin elevations during therapy, but has not been implicated in cases of clinically apparent acute liver injury with jaundice.
+Daunorubicin has been reported in Streptomyces, Brassica napus, and other organisms with data available.
+Daunorubicin is an anthracycline antineoplastic antibiotic with therapeutic effects similar to those of doxorubicin.  Daunorubicin exhibits cytotoxic activity through topoisomerase-mediated interaction with DNA, thereby inhibiting DNA replication and repair and RNA and protein synthesis.
+DAUNORUBICIN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1979 and has 3 approved and 41 investigational indications. This drug has a black box warning from the FDA.
+Daunorubicin is only found in individuals that have used or taken this drug. It is a very toxic anthracycline aminoglycoside antineoplastic isolated from Streptomyces peucetius and others, used in treatment of leukemia and other neoplasms. [PubChem]Daunorubicin has antimitotic and cytotoxic activity through a number of proposed mechanisms of action: Daunorubicin forms complexes with DNA by intercalation between base pairs, and it inhibits topoisomerase II activity by stabilizing the DNA-topoisomerase II complex, preventing the religation portion of the ligation-religation reaction that topoisomerase II catalyzes.
+A very toxic anthracycline aminoglycoside antineoplastic isolated from Streptomyces peucetius and others, used in treatment of LEUKEMIA and other NEOPLASMS.
+See also: Daunorubicin Hydrochloride (annotation moved to) ... View More ...
+Properties:safety: Acute Toxic and Health Hazard
+smiles: C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)C)O)N)O
+formula: C27H29NO10
+chem_properties: Molecular Weight: 527.5 g/mol
+XLogP3: 1.8
+Hydrogen Bond Donor Count: 5
+Hydrogen Bond Acceptor Count: 11
+Rotatable Bond Count: 4
+Exact Mass: 527.17914612 Da
+Monoisotopic Mass: 527.17914612 Da
+Topological Polar Surface Area: 186
+Heavy Atom Count: 38
+Formal Charge: 0
+Complexity: 960
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 6
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

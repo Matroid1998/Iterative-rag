@@ -1,0 +1,39 @@
+Description:
+Known as an anhydrous crystalline solid and forms a crystal containing one water for every three units.
+
+Text:
+6, 37077
+Goettingen, Germany. EmailORCID tfische1gwdg.de0000000320503628,
+msuhmgwdg.de0000000188417705
+ Electronic Supplementary Information (ESI) available Synthetic, computational
+and measurement details. See DOI 10.1039cXCP00000x
+TEMPO radical10 (T) or some of its derivatives,11 which have
+shown to be relevant in many fields of molecular science such as
+controlled radical polymerisation,12 spin labeling,13 and redox
+reactions.14 T can accept an OHO hydrogen bond from its asso
+ciated hydroxylamine TEMPOH (TH). This complex THT (Fig. 1,
+top) undergoes hydrogen atom transfer to the formally equivalent
+THT structure through a barrier which is expected to be rather
+high15 due to the steric hindrance of T and TH. The sterically hindered hydroxylamine TH is known as an anhy
+drous crystalline solid16 and as a crystal containing one water for
+every three TH units17.
+
+
+---
+
+Description:
+Adopts a conformation where hydrogen points to the open side of a sterically hindered substituted nitroxyl unit and prefers to bind to the oxygen of a neighbouring hydroxylamine or water.
+
+Text:
+In both cases, there are closed hydrogen
+bond networks, involving three TH units for the anhydrous struc
+ture and six for the trient or 0.33hydrate. In these structures,
+the hydroxylamine adopts a conformation where the hydrogen
+points to the open side (o) of the sterically hindered substituted
+nitroxyl unit and prefers to bind to the oxygen of a neighbouring
+hydroxylamine or water. To close the strained trimeric ring in the
+anhydrous crystal, the last TH binds to the N atom (instead of O)
+of the first unit. In the 0.33hydrate, the Nbinding is taken over
+by water molecules. There is thus a clear numerical preference for
+OHO coordination and closed ring structures among TH units
+in the solid state.

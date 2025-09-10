@@ -1,0 +1,31 @@
+Description:
+A dispersion-dominated complex that challenges generalized gradient approximations in density functional theory.
+
+Text:
+The description of noncovalent inter
+actions within density functional theory (DFT) has im
+proved dramatically over the past two decades, rela
+tive to a starting point where generalized gradient ap
+proximations (GGAs) predict interaction potentials that
+are unbound for dispersiondominated complexes such
+raregas dimers or even (C6H6)2.1 The rst function
+als to deal with this problem in a generally eective
+way were those with empirical atomatom dispersion po
+tentials added ad hoc.1,2 These dispersioncorrected or
+DFTD methods remain tremendously important in
+contemporary DFT,13 and modern versions of the dis
+persion corrections resemble proper atomic C6 coe
+cients in the separatedatom limit.4,5 (Doublecounting
+of correlation eects at van der Waals contact distances
+does remain an issue, however.1,6,7) Early versions of
+the DFTD approach8 were quickly followed by semi
+empirical metaGGA functionals that signicantly out
+performed GGAs for van der Waals complexes,912 al
+though not always for the right reasons.1315 Rather, be
+cause the semilocal metaGGA framework has a much
+longer range in real space, due to its dependence on the
+density Laplacian and the kinetic energy density, meta
+GGAs aord nonvanishing interactions in the region of
+nonbonded close contacts (unlike typical GGAs), and
+noncovalent interactions may therefore emerge upon suf
+cient parameterization.

@@ -1,0 +1,14 @@
+Description:
+An AIDF emitter containing a 1,8 naphthalimide acceptor.
+
+Text:
+Although these selfassembled 
+NPs show good biocompatibility, photostability, and water dispersibility, the authors did not 
+demonstrate their TADF properties nor provide any TRFI studies. 3) Aggregationinduced delayed 
+fluorescence (AIDF).7 The quenching of the emission by oxygen can be suppressed due to its limited 
+ability to make physical contact with the emitter in the aggregated state. Qi et al. reported the use of 
+three AIDF emitters, PXZNI, PTZNI and lysosometargeting LysoPXZNI, each containing a 1,8
+naphthalimide (NI) acceptor.7b In aqueous solutions that produced the aggregated form, all three 
+TADF materials demonstrated markedly enhanced delayed fluorescence when concentrations were 
+increased. Subsequently, confocal fluorescence and lifetime imaging studies were performed using 
+laser scanning microscopy and TRFI.

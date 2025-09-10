@@ -1,0 +1,27 @@
+Name: Rupatadine
+Text:
+Rupatadine is a benzocycloheptapyridine.
+Rupatadine is a dual histamine H1 receptor and platelet activating factor receptor antagonist that is used for symptomatic relief in seasonal and perennial rhinitis as well as chronic spontaneous urticaria. It was approved for marketing in Canada under the tradename Rupall and comes in tablet formulation for adult use and liquid formulation for pediatric use.
+RUPATADINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2001 and has 5 investigational indications.
+Properties:safety: Irritant
+smiles: CC1=CC(=CN=C1)CN2CCC(=C3C4=C(CCC5=C3N=CC=C5)C=C(C=C4)Cl)CC2
+formula: C26H26ClN3
+chem_properties: Molecular Weight: 416.0 g/mol
+XLogP3: 5.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 2
+Exact Mass: 415.1815255 Da
+Monoisotopic Mass: 415.1815255 Da
+Topological Polar Surface Area: 29
+Heavy Atom Count: 30
+Formal Charge: 0
+Complexity: 609
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

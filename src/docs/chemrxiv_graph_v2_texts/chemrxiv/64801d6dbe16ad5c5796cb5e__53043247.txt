@@ -1,0 +1,16 @@
+Description:
+Made more susceptible to nucleophilic attack when carboxylic acids are activated.
+
+Text:
+In the 
+activation step, stoichiometric amounts of coupling reagents are used to activate the carboxylic 
+acids, thus making the carbonyl group more susceptible to a nucleophilic attack from the 
+amine molecules. Although highly efficient, this approach yields large amounts of solvent 
+waste and poor atom economy. Alternatively, solutionbased direct catalysed amidation 
+protocols with the frequently used boron810 and group (IV) metal catalysts1114 are more 
+favourable from the green chemistry perspective. Yet, catalysed amidations still face a few 
+challenges, for example, problems with catalyst loadings and recyclability as well as limited 
+substrate scopes, not to mention that such reactions remain developed in solution, which does 
+not help to reduce waste production.15 
+
+Fig. 1 Overview of the main strategies for the amidation of carboxylic acids and amines.

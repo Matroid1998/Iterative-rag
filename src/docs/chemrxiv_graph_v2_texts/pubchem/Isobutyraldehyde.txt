@@ -1,0 +1,28 @@
+Name: Isobutyraldehyde
+Text:
+Isobutyl aldehyde appears as a clear colorless liquid with a pungent odor. Flash point of -40 °F. Less dense than water and insoluble in water. Hence floats on water. Vapors are heavier than air. Used to make other chemicals.
+Isobutyraldehyde is a member of the class of propanals that is propanal substituted by a methyl group at position 2. It has a role as a Saccharomyces cerevisiae metabolite. It is a member of propanals and a 2-methyl-branched fatty aldehyde.
+Isobutyraldehyde has been reported in Angelica gigas, Tuber melanosporum, and other organisms with data available.
+isobutyraldehyde is a metabolite found in or produced by Saccharomyces cerevisiae.
+Properties:safety: Flammable and Irritant
+smiles: CC(C)C=O
+formula: C4H8O
+chem_properties: Molecular Weight: 72.11 g/mol
+XLogP3: 0.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 1
+Exact Mass: 72.057514874 Da
+Monoisotopic Mass: 72.057514874 Da
+Topological Polar Surface Area: 17.1
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 30.6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

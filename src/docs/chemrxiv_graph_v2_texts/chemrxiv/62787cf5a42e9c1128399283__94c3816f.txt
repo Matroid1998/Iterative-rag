@@ -1,0 +1,13 @@
+Description:
+Achieves a ZT of 2.5 at 973 K, indicating high thermoelectric performance.
+
+Text:
+The best performing materials
+thus far have achieved ZT  2 in a laboratory setting, including PbTe (2.5 at 973 K) and SnSe (2.6 at 973 K).1,2
+Ideally, to compete with traditional energy conversion methods, materials with ZT  3 are needed to achieve a
+2030 thermaltoelectrical energy conversion eciency. Maximising ZT is a complex task due to the interconnected nature of its components. A high Seebeck coef
+cient is achieved by at, nondisperse electronic bands with large chargecarrier eective masses. Conversely,
+a high electrical conductivity requires high chargecarrier mobility and relatively disperse band edges. At the
+same time, high electrical conductivity leads to high electronic thermal conductivity (e T). Lattice thermal
+conductivity is often the limiting factor in candidates that could otherwise challenge the current bestperforming
+thermoelectric materials.

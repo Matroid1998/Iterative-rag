@@ -1,0 +1,12 @@
+Description:
+A lighter element with an atomic number of 6, whose contribution can be significant when supporting small Pt particles.
+
+Text:
+In the case of carbonsupported Pt catalysts, the contribution of carbon can 
+usually be ignored, because the number of electrons per atom (atomic number) is far 
+greater for Pt than for carbon (78 vs. 6, the scattering intensity is proportional to the square 
+of the atomic number). However, if only a small number of Pt particles exist on carbon, 
+the contribution of carbon cannot be ignored. This situation could result in erroneous 
+estimation of particle size distributions, especially when the carbon has mesopores with 
+sizes similar to those of Pt catalysts. One way to overcome this problem would be through the use of anomalous SAXS 
+(ASAXS, e.g., 1012).

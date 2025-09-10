@@ -1,0 +1,15 @@
+Description:
+Excellent persistent surface ligands for metallic nanoparticles, forming strong and inert bonds to the NP surfaces.
+
+Text:
+In this 
+context, gold nanoparticles (AuNPs), being biocompatible and featuring distinct (photo) physical properties, are one of the most 
+common motifs.1 Stateoftheart AuNP systems decorated with selective targeting vectors allow highprecision detection of bio
+molecules but often lack straightforward preparation and longterm stability in complex analytes.2 To improve stability in biological 
+media and simplify target vector installation, robust and versatile postsynthetically modifiable AuNP platforms are desired.3 
+Nitrogen (N) heterocyclic carbenes (NHCs) have been found to be excellent persistent surface ligands for metallic NPs, forming strong 
+and inert bonds to the NP surfaces.4 Furthermore, the synthetic versatility of NHC precursors facilitates the synthesis of highly stable 
+and multifunctional NHCAuNPs.5 The synthesis of such stable NHCAuNPs can be achieved by two major pathways 1) bottom
+up (BU) by the reduction of NHCAu complexes or goldcontaining imidazolium (IMZ) salts6 and 2) topdown (TD) via the exchange of 
+weaklycoordinated ligands with activated NHCs or the deposition of NHCAu complexes.7 The bottomup approach benefits from a 
+single reduction step but often lacks precise control over the final size of the resulting AuNPs.

@@ -1,0 +1,13 @@
+Description:
+A material studied for its wetting properties with water and polymer resins.
+
+Text:
+MD has been used to study the wetting 
+properties of water and polymer resins on graphite and metallic surfaces 1725. Recently, 
+Bamane et. al. 26 used MD to study the wettability of highperformance polymer systems on 
+aromatic carbon surfaces to determine relative levels of processibility of carbon nanotube 
+composites. Thus far, wetting properties of polymer resin systems on BNNT surfaces have not 
+been computationally studied. Therefore, to take full advantage of the excellent properties of 
+BNNT in nanocomposites, and establish the most compatible resins with BNNTs, MDbased 
+procedures to predict the wettability of various resin systems on BNNT surfaces need to be 
+developed and validated.

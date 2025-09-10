@@ -1,0 +1,58 @@
+Description:
+A small family of dimeric tryptophan alkaloids isolated from marine Streptomyces species.
+
+Text:
+The spiroindimicins (SPMs) are a small family of dimeric tryptophan alkaloids isolated from 
+various marine Streptomyces species (18, Figure 1).
+
+
+---
+
+Description:
+Bear a central spirocyclic core constructed through Pd-catalyzed spirocyclization.
+
+Text:
+Their structures are characterized, as their name might 
+suggest, by a spirocyclic indoline or indolenine motif, around which additional pyrrole and indole rings are 
+structured, with at least one chlorine atom present in the naturally occurring members.1 Aside from 
+representing rather unique topologies within the dimeric tryptophan alkaloids,2 these natural products were 
+found to display moderate cytotoxicity against several cancer cell lines.1 
+Our group has recently developed an 
+approach to the spiroindimicins bearing a 
+central 56spirocyclic core, completing the 
+first syntheses of spiroindimicin A (1) and its 
+congener 
+spiroindimicin 
+H 
+(5).3 
+These 
+syntheses relied on a key Pdcatalyzed 
+spirocyclization 
+to 
+construct 
+their 
+core 
+skeletons and small suite of analogues, 
+screening of which revealed promising 
+antiparasitic activity.
+
+
+---
+
+Description:
+Spirocyclic compounds synthesized via early-stage construction of the spiroindoline.
+
+Text:
+In continuation of our 
+interest in this family, we aimed to develop a 
+concise route to the more prevalent 55
+spirocyclic 
+members 
+(i.e., 
+24, 
+68), 
+representing the remainder of the class. To date, two total syntheses of the 55spirocyclic spiroindimicins have been reported (Scheme 
+1A).4 The first, by Sperry and Blair in 2015, provides access to racemic spiroindimicins B (2) and C (3) in 
+1516 steps from commercial materials via earlystage construction of the spiroindoline via a Heck 
+reaction, followed by installation of the remaining indole and pyrrole rings via Fisher indolization and 
+SchllkopfMagnusBartonZard (SMBZ) reaction, respectively.5a Very recently, Xu et al.

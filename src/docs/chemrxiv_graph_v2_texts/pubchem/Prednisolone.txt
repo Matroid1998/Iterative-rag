@@ -1,0 +1,31 @@
+Name: Prednisolone
+Text:
+Prednisolone is a glucocorticoid that is prednisone in which the oxo group at position 11 has been reduced to the corresponding beta-hydroxy group. It is a drug metabolite of prednisone. It has a role as an adrenergic agent, an anti-inflammatory drug, an antineoplastic agent, an immunosuppressive agent, a drug metabolite, an environmental contaminant and a xenobiotic. It is a glucocorticoid, an 11beta-hydroxy steroid, a 21-hydroxy steroid, a 17alpha-hydroxy steroid, a 20-oxo steroid, a 3-oxo-Delta(1),Delta(4)-steroid, a primary alpha-hydroxy ketone, a tertiary alpha-hydroxy ketone and a C21-steroid. It is functionally related to a Delta(1)-progesterone.
+Prednisolone is a glucocorticoid similar to [cortisol] used for its anti-inflammatory, immunosuppressive, anti-neoplastic, and vasoconstrictive effects.  Prednisolone was granted FDA approval on 21 June 1955.
+Prednisolone is a Corticosteroid. The mechanism of action of prednisolone is as a Corticosteroid Hormone Receptor Agonist.
+Prednisolone is a synthetic glucocorticoid with anti-inflammatory and immunomodulating properties.  After cell surface receptor attachment and cell entry, prednisolone enters the nucleus where it binds to and activates specific nuclear receptors, resulting in an altered gene expression and inhibition of proinflammatory cytokine production.  This agent also decreases the number of circulating lymphocytes, induces cell differentiation, and stimulates apoptosis in sensitive tumor cells populations. (NCI04)
+PREDNISOLONE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1955 and has 58 approved and 99 investigational indications.
+A glucocorticoid with the general properties of the corticosteroids. It is the drug of choice for all conditions in which routine systemic corticosteroid therapy is indicated, except adrenal deficiency states.
+See also: Prednisolone Acetate (active moiety of); Prednisolone Sodium Phosphate (active moiety of); Prednisolone hemisuccinate (is active moiety of) ... View More ...
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)CO)O)CCC4=CC(=O)C=C[C@]34C)O
+formula: C21H28O5
+chem_properties: Molecular Weight: 360.4 g/mol
+XLogP3: 1.6
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 2
+Exact Mass: 360.19367399 Da
+Monoisotopic Mass: 360.19367399 Da
+Topological Polar Surface Area: 94.8
+Heavy Atom Count: 26
+Formal Charge: 0
+Complexity: 724
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 7
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

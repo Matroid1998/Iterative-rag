@@ -1,0 +1,28 @@
+Name: Acetylene
+Text:
+Acetylene appears as a colorless gas with a faint garlic-like odor. Easily ignited and burns with a sooty flame. Gas is lighter than air. Flame may flash back to the source of a leak very easily. Under prolonged exposure to fire or heat the containers may rupture violently and rocket.
+Acetylene is a terminal acetylenic compound, a gas molecular entity and an alkyne.
+The simplest two carbon alkyne with the formula HCCH.
+See also: Ethynyl radical (annotation moved to).
+Properties:safety: Flammable and Compressed Gas
+smiles: C#C
+formula: C2H2
+chem_properties: Molecular Weight: 26.04 g/mol
+XLogP3: 0.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 26.0156500638 Da
+Monoisotopic Mass: 26.0156500638 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 2
+Formal Charge: 0
+Complexity: 8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

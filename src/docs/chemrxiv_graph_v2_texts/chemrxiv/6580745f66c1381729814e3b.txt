@@ -1,0 +1,12 @@
+Description:
+A component of human adenosine receptors, which are G protein-coupled receptors with experimentally resolved structures.
+
+Text:
+Structurebased drug design (SBDD) against G proteincoupled receptors (GPCRs) has benefited from the 
+rapid accumulation of experimentally resolved structures of ligandGPCR complexes. Moreover, ligand
+based drug design (LBDD) has been developed with the evolution of database and artificial intelligence 
+technology. 16 The experimental structures of GPCRs in combination with the application of molecular 
+dynamics (MD) simulations 16 and enhanced sampling methods, 4,7 that enables protein flexibility, helps 
+towards understanding their conformational heterogeneity 8 and ligand binding. 4,7 Examples of SBDD and 
+LBDD and application of MD simulations to understand ligands binding against GPCRs are cited in ref. 4. Experimental structures have been resolved for three out of the four subtypes of human adenosine 
+receptors (hARs).

@@ -1,0 +1,31 @@
+Description:
+Incorporated in drug development to modify absorption, distribution, metabolism, and excretion properties.
+
+Text:
+13 In the area of pharmaceuticals, the substitution of CH 
+with CD bonds in drug molecules presents a simple way 
+of modifying a drugs absorption, distribution, metabo
+lism, and excretion (ADME) properties, while maintain
+ing the interaction with target and selectivity.34 There
+fore, deuterium incorporation in drug development has 
+gained significant attention, leading to the FDA approval 
+of the first deuterated drug, deutetrabenazine, in 2017, 
+and the first de novo deuterated drug, deucravacitinib, in 
+2022 (Figure 1A).57 Moreover, more than 15 candidate 
+drugs with deuterium are currently undergoing evalua
+tion in clinical trials.8 In addition, they also play an im
+portant role in mechanistic investigation via kinetic iso
+tope effect (KIE) studies, as standards for mass spectros
+copy, and in developing materials with improved prop
+erties.13 
+Hydrogen isotope exchange (HIE) permits the most 
+ideal, sustainable, and facile access to latestage isotopic 
+labelling and avoids cumbersome multistep de novo syn
+thesis or functional group interconversion.919 Directed 
+HIE catalyzed by transitionmetal complexes, especially 
+Irbased catalysts like Crabtrees catalyst, Kerrs catalyst, 
+and Tamms catalyst, has been well established for tar
+geting specifically ortho CH bonds adjacent to directing 
+groups (Figure 1B).2025 However, alternative ap
+proaches which do not require the presence of directing 
+groups are in high demand.

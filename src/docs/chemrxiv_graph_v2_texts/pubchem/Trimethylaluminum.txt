@@ -1,0 +1,24 @@
+Name: Trimethylaluminum
+Text:
+Trimethylaluminium (TMA) is an organoaluminium compound. It is used in the production of methylaluminoxane and Tebbe's reagent, as well as in semiconductor fabrication to grow thin film, high-k dielectrics. Aluminum is the most abundant metal in the earth's crust and is always found combined with other elements such as oxygen, silicon, and fluorine.  (L739, L740, L782)
+Properties:safety: Flammable and Corrosive
+smiles: C[Al](C)C
+formula: C3H9Al
+chem_properties: Molecular Weight: 72.09 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 72.0519637 Da
+Monoisotopic Mass: 72.0519637 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

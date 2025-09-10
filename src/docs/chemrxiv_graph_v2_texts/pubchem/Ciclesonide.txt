@@ -1,0 +1,28 @@
+Name: Ciclesonide
+Text:
+Ciclesonide is an organic molecular entity.
+Ciclesonide is a glucocorticoid used to treat obstructive airway diseases. It is marketed under the brand name Alvesco.
+Ciclesonide is a nonhalogenated, synthetic, inhaled corticosteroid (ICS) with anti-inflammatory and potential antiviral activities. Upon administration by oral inhalation into the lungs, ciclesonide (CIC) is converted by local esterases to its active metabolite desisobutyryl-ciclesonide (des-CIC), which binds to intracellular glucocorticoid receptors (GRs). The ligand-bound GRs regulate gene expressions, which lead to inhibitory activities against multiple cell types, such as mast cells, eosinophils, basophils, lymphocytes, macrophages and neutrophils, and various mediators associated with inflammation, such as histamine, eicosanoids, leukotrienes and cytokines. In addition, ciclesonide may suppress the replication of human coronavirus by targeting viral nonstructural protein 15 (NSP15).
+CICLESONIDE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2006 and has 6 approved and 4 investigational indications.
+Properties:safety: Health Hazard
+smiles: CC(C)C(=O)OCC(=O)[C@@]12[C@@H](C[C@@H]3[C@@]1(C[C@@H]([C@H]4[C@H]3CCC5=CC(=O)C=C[C@]45C)O)C)O[C@H](O2)C6CCCCC6
+formula: C32H44O7
+chem_properties: Molecular Weight: 540.7 g/mol
+XLogP3: 5.3
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 6
+Exact Mass: 540.30870374 Da
+Monoisotopic Mass: 540.30870374 Da
+Topological Polar Surface Area: 99.1
+Heavy Atom Count: 39
+Formal Charge: 0
+Complexity: 1100
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 9
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,25 @@
+Name: Phthalazine
+Text:
+Phthalazine is an azaarene that is the 2,3-diaza analogue of naphthalene. The parent of the class of phthalazines. It is a mancude organic heterobicyclic parent, a member of phthalazines, an azaarene and an ortho-fused heteroarene.
+Properties:safety: Health Hazard
+smiles: C1=CC=C2C=NN=CC2=C1
+formula: C8H6N2
+chem_properties: Molecular Weight: 130.15 g/mol
+XLogP3: 0.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 130.053098200 Da
+Monoisotopic Mass: 130.053098200 Da
+Topological Polar Surface Area: 25.8
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 99.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

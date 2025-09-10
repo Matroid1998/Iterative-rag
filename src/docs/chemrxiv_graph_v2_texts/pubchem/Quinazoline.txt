@@ -1,0 +1,27 @@
+Name: Quinazoline
+Text:
+Quinazoline is a mancude organic heterobicyclic parent that is naphthalene in which the carbon atoms at positions 1 and 3 have been replaced by nitrogen atoms. It is a mancude organic heterobicyclic parent, a member of quinazolines, an azaarene and an ortho-fused heteroarene.
+Quinazoline has been reported in Nicotiana tabacum with data available.
+A group of aromatic heterocyclic compounds that contain a bicyclic structure with two fused six-membered aromatic rings, a benzene ring and a pyrimidine ring.
+Properties:safety: Irritant
+smiles: C1=CC=C2C(=C1)C=NC=N2
+formula: C8H6N2
+chem_properties: Molecular Weight: 130.15 g/mol
+XLogP3: 1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 130.053098200 Da
+Monoisotopic Mass: 130.053098200 Da
+Topological Polar Surface Area: 25.8
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 114
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

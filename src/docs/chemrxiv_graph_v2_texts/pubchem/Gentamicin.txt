@@ -1,0 +1,33 @@
+Name: Gentamicin
+Text:
+Gentamicin is an antibacterial prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of several infections caused by certain types of bacteria, such as meningitis, infection of the blood, and serious urinary tract infections.
+Some bacterial infections can be opportunistic infections (OIs) of HIV.
+Gentamicin is a bactericidal aminoglycoside that was discovered and isolated from Micromonospora purpurea in 1963. It is one of the most frequently prescribed aminoglycosides due to its spectrum of activity, low cost, and availability. Gentamicin is effective against both gram-positive and gram-negative organisms but is particularly useful for the treatment of severe gram-negative infections including those caused by Pseudomonas aeruginosa. There is the added benefit of synergy when gentamicin is co-administered with other antibacterials such as beta-lactams. This synergistic activity is not only important for the treatment of complex infections, but can also contribute to dose optimization and reduced adverse effects.  Although gentamicin is well-established and may be used in a variety of clinical applications, it is also associated with severe adverse effects including nephrotoxicity and ototoxicity which may limit its use.
+Gentamicin is a parenterally administered, broad spectrum aminoglycoside antibiotic typically used for moderate to severe gram negative infections. Despite its wide use, gentamicin has not been definitively linked to instances of clinically apparent liver injury.
+Gentamicin has been reported in Allium sativum, Micromonospora, and Swertia punicea with data available.
+Gentamicin is a broad-spectrum aminoglycoside antibiotic produced by fermentation of Micromonospora purpurea or M. echinospora. Gentamicin is an antibiotic complex consisting of four major (C1, C1a, C2, and C2a) and several minor components. This agent irreversibly binds to the bacterial 30S ribosomal subunit. Specifically, this antibiotic is lodged between 16S rRNA and S12 protein within the 30S subunit. This leads to interference with translational initiation complex, misreading of mRNA, thereby hampering protein synthesis and resulting in bactericidal effect. Aminoglycosides are mostly ineffective against anaerobic bacteria, fungi and viruses.
+Gentamicin Sulfate is the sulfate salt form of gentamycin, a broad-spectrum aminoglycoside antibiotic complex produced by the fermentation of Micromonospora purpurea or M. echinospora, with antibacterial activity. Gentamicin is a thermostable complex containing the gentamicins C1, C1a, C2, C2a and C2b.
+A complex of closely related aminoglycosides obtained from MICROMONOSPORA purpurea and related species. They are broad-spectrum antibiotics, but may cause ear and kidney damage. They act to inhibit PROTEIN BIOSYNTHESIS.
+See also: Gentamicin Sulfate (active moiety of); Gentamicin C1 (annotation moved to) ... View More ...
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: CC(C1CCC(C(O1)OC2C(CC(C(C2O)OC3C(C(C(CO3)(C)O)NC)O)N)N)N)NC
+formula: C21H43N5O7
+chem_properties: Molecular Weight: 477.6 g/mol
+XLogP3: -4.1
+Hydrogen Bond Donor Count: 8
+Hydrogen Bond Acceptor Count: 12
+Rotatable Bond Count: 7
+Exact Mass: 477.31624873 Da
+Monoisotopic Mass: 477.31624873 Da
+Topological Polar Surface Area: 200
+Heavy Atom Count: 33
+Formal Charge: 0
+Complexity: 636
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 13
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

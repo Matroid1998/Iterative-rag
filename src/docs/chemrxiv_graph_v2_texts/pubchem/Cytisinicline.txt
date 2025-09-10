@@ -1,0 +1,29 @@
+Name: Cytisinicline
+Text:
+Cytisine is an organic heterotricyclic compound that is the toxic principle in Laburnum seeds and is found in many members of the Fabaceae (legume, pea or bean) family. An acetylcholine agonist, it is widely used throughout Eastern Europe as an aid to giving up smoking. It has a role as a nicotinic acetylcholine receptor agonist, a phytotoxin and a plant metabolite. It is an alkaloid, an organic heterotricyclic compound, a secondary amino compound, a lactam and a bridged compound.
+Cytisine is an alkaloid naturally derived from the Fabaceae family of plants including the genera Laburnum and Cytisus. Recent studies have shown it to be a more effective and significantly more affordable smoking cessation treatment than nicotine replacement therapy. Also known as baptitoxine or sophorine, cytisine has been used as a smoking cessation treatment since 1964, and is relatively unknown in regions outside of central and Eastern Europe. Cytisine is a partial nicotinic acetylcholine agonist with a half-life of 4.8 hours. Recent Phase III clinical trials using Tabex (a brand of Cytisine marketed by Sopharma AD) have shown similar efficacy to varenicline, but at a fraction of the cost.
+Cytisine has been reported in Aphis cytisorum, Maackia tenuifolia, and other organisms with data available.
+CYTISINICLINE is a small molecule drug with a maximum clinical trial phase of III (across all indications) and has 3 investigational indications.
+See also: Cytisus scoparius flowering top (part of); Thermopsis lanceolata whole (part of).
+Properties:safety: Acute Toxic and Irritant
+smiles: C1[C@H]2CNC[C@@H]1C3=CC=CC(=O)N3C2
+formula: C11H14N2O
+chem_properties: Molecular Weight: 190.24 g/mol
+XLogP3: 0.2
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 190.110613074 Da
+Monoisotopic Mass: 190.110613074 Da
+Topological Polar Surface Area: 32.3
+Heavy Atom Count: 14
+Formal Charge: 0
+Complexity: 332
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,36 @@
+Description:
+An anticoagulant with a lethal dosage LD50 at 16.5 mg/kg.
+
+Text:
+Worldwide rodenticide resistance among rat populations (Rattus, sp) 
+have been increasingly detected, most probably due to the intensive use of 
+anticoagulants 1, 2 . For instance, resistance to warfarin (lethal dosage LD50 at 58 
+mgKg) or coumatetralyl (16.5 mgKg), and both resistance and baitdeath 
+association learning when using stronger difenacoum (1.8 mgKg), bromadiolone 
+(1.1 mgKg), difethialone (0.56 mgKg), flocoumafen (0.46 mgKg) or brodifacoum 
+(0.26 mgKg)3, 4 anticoagulants, have been reported. Together with the 
+anticoagulantderived toxic residues found on several offtarget biological species 
+1, 3, 57, which may even include humans, genetic resistances constitute one of the 
+main actual concerns to the use of actual rodenticide anticoagulants. Future 
+anticoagulant rodenticides that could maximize ontarget rat lethality while 
+minimizing offtarget ecological impacts would be convenient 8 .
+
+
+---
+
+Description:
+Shares a hydroxycoumarin head with brodifacoum and other related compounds.
+
+Text:
+The here named evolutionary docking belongs to selfsupervised 
+generation methodologies that bypass the screening of large chemical data banks 
+to detect new protein ligands. In the present particular case, evolutionary docking 
+was used to augment the repertoire of specific ligands by targeting a defined 
+dockingcavity. Specificity was theoretically increased by adding low molecular 
+weight and hydrophobic criteria aiming to reduce offtarget effects. The 
+brodifacoum chemotype was selected as the initial parent molecule from which 
+randomly generate multiple children derivatives, because is among the most potent 
+rodenticides due to its highly hydrophobic tail (LogP  8.0, penetrating the 
+VKORC1 binding central cavity). Additionally, the brodifacoum chemotype shares 
+hydroxycoumarin heads similarly common to warfarine, coumatetralyl, 
+bromadiolone, difenacoum, difethialone, and flocoumafen.

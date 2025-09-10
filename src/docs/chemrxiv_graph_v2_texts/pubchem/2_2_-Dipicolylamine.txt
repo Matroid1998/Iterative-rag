@@ -1,0 +1,24 @@
+Name: 2,2'-Dipicolylamine
+Text:
+Properties:safety: Acute Toxic and Irritant
+smiles: C1=CC=NC(=C1)CNCC2=CC=CC=N2
+formula: C12H13N3
+chem_properties: Molecular Weight: 199.25 g/mol
+XLogP3: 0.7
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 4
+Exact Mass: 199.110947427 Da
+Monoisotopic Mass: 199.110947427 Da
+Topological Polar Surface Area: 37.8
+Heavy Atom Count: 15
+Formal Charge: 0
+Complexity: 154
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

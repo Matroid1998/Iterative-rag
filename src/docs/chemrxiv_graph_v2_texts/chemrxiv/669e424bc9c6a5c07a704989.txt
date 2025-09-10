@@ -1,0 +1,13 @@
+Description:
+Part of the AI2ZnAIVS4 metalsulfide photocatalyst active for hydrogen evolution.
+
+Text:
+Funatsu and coauthors 
+investigated alternative composite materials27. However, in the field of materials development, data bias presents 
+difficulties when building prediction models using machine learning. Recently, photocatalytic water splitting has attracted attention as a promising technology for producing lowcost 
+green hydrogen2830. The development of visiblelightresponsive photocatalysts is important for the efficient utilization 
+of solar light. A number of metalsulfide photocatalysts have been developed for hydrogen evolution from aqueous 
+solutions containing sacrificial reagents under visible light irradiation3032. In particular, Kudo et al., who is one of the 
+authors, have developed many metalsulfide photocatalysts such as ZnSCuInS2AgInS233, AI2ZnAIVS4(AICu, Ag; 
+AIVSn, Ge)34, ZnSCuGaS235, Cu3MS4(MV, Nb, Ta)36 being active for sacrificial hydrogen evolution under visible 
+light irradiation.

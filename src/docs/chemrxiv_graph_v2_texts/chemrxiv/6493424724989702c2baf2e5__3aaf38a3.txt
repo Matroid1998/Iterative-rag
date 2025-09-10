@@ -1,0 +1,44 @@
+Description:
+A group of substances of high environmental and toxicological concern known for bioaccumulation and persistence.
+
+Text:
+Per and polyfluoroalkyl substances (PFAS) are a group of substances of high environmental and 
+toxicological concern gaining increasing attention due to bioaccumulation and a growing reputation as 
+forever chemicals  so much so that there is now a drive to treat PFAS as a class for environmental 
+regulation1. The 2011 definition of PFAS by Buck et al.2 included substances as PFAS if they contained two 
+(or more) connected saturated CF2 groups. In 2021, the Organisation for Economic Cooperation and 
+Development (OECD) revised the definition of PFAS in ENVCBCMONO(2021)253 as follows PFAS are 
+defined as fluorinated substances that contain at least one fully fluorinated methyl or methylene carbon 
+atom (without any HClBrI atom attached to it), i.e.
+
+
+---
+
+Description:
+Chemicals that include at least a perfluorinated methyl or methylene group.
+
+Text:
+with a few noted exceptions, any chemical with at 
+least a perfluorinated methyl group (CF3) or a perfluorinated methylene group (CF2) is a PFAS. While early research efforts focused mainly on a very limited list of PFAS, the number of documented 
+PFAS are increasing. With the emergence of high resolution mass spectrometry (HRMS) and the potential 
+for socalled suspect screening for contaminants of interest using nontarget analytical techniques4,5, 
+more extensive lists of PFAS became available. The first PFAS list hosted by the NORMAN Suspect List 
+Exchange6,7 (hereafter NORMANSLE) was the 2015 list contributed by Trier et al.8, which became the basis 
+for the OECD list of 4700 PFAS released in 20179,10. The NORMANSLE currently (June 2023) contains 
+twelve PFAS lists6,7.
+
+
+---
+
+Description:
+A group of fluorinated compounds frequently listed in chemical databases for suspect screening.
+
+Text:
+The United States Environmental Protection Agency (US EPA) CompTox Chemistry 
+Dashboard11 also hosts chemical lists12 and presently (June 2023) hosts 424 lists, including 51 lists 
+matching the PFAS search term13,14, of which 41 contain exclusively fluorinated content. The National 
+Institute of Standards and Technology (NIST) recently coordinated a list (hereafter the NIST PFAS Suspect 
+List) of 4,948 entries, including expanded homologues and expert contributions15. Several other research 
+efforts describe PFAS lists, with various degrees of availability. The OECD PFAS collection of 4700 PFAS9,10 
+and the US EPA PFASMASTER list (10,000 PFAS in 2020, currently 12,034 entries in June 2023)16 are two 
+of the most frequently used PFAS lists in suspect screening.

@@ -1,0 +1,27 @@
+Name: Calcium metasilicate
+Text:
+Wollastonite appears as white or slightly cream-colored powder. pH (aqueous slurry) 8.0 to 10.0. (NTP, 1992)
+Okenite is a mineral with formula of Ca10Si18O46·18H2O. The IMA symbol is Oke.
+Wollastonite is a mineral with formula of CaSiO3. The corresponding IMA (International Mineralogical Association) number is IMA1962 s.p.. The IMA symbol is Wo.
+See also: Calcium Silicate (annotation moved to).
+Properties:safety: Irritant
+smiles: [O-][Si](=O)[O-].[Ca+2]
+formula: CaO3Si
+chem_properties: Molecular Weight: 116.16 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 115.9242612 Da
+Monoisotopic Mass: 115.9242612 Da
+Topological Polar Surface Area: 63.2
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 18.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

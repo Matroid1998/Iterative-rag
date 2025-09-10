@@ -1,0 +1,12 @@
+Description:
+Used as the interconnect metal in CMOS devices, facing challenges in highspeed ultralarge scale integrated circuits.
+
+Text:
+Cu is used as the interconnect metal in CMOS devices, but is facing into significant challenges in its 
+continued use in highspeed ultralarge scale integrated circuits. A diffusion barrier and liner layer are 
+needed for Cu deposition to ensure that it remains conducting but there are significant challenges in Cu 
+deposition in highaspect ratio structures of vias and trenches.14 As device dimensions shrink and more 
+complex structures emerge, the volume available for copper interconnect at the transistor levels becomes 
+correspondingly smaller and must still accommodate the barrier, the liner and copper. One solution to 
+these critical issues is to replace copper with alternative metals with low resistivity at the nanoscale that 
+suffer less from these challenges.

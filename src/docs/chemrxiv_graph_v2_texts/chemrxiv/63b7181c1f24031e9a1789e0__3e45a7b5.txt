@@ -1,0 +1,25 @@
+Description:
+A 2D material with a hexagonal structure and wide band gap.
+
+Text:
+Notable examples include modeling vacancy for
+33
+mation enthalpy using a simple handderived or machine learn
+34
+ing (ML) model based on hypothesized important features1721
+35
+and descriptor derived properties to train ML regression models
+36
+for defect property prediction in semiconductors.22,23 For 2D ma
+37
+terials consisting of TMDs, hexagonal boron nitride, and other
+38
+selected wide band gap 2D materials, similar utilization of hand
+39
+engineered features and random forests predicted vacancy de
+40
+fect formation enthalpies.24 These examples provide highly use
+41
+ful models in specic situations by capitalizing on physical intu
+42
+ition regarding important material descriptors.

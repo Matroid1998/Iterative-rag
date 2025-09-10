@@ -1,0 +1,14 @@
+Description:
+Involved in the competitive hydrogen evolution reaction during CO2 reduction.
+
+Text:
+The electrochemical reduction of carbon dioxide (eCO2RR) using renewable 
+electricity has emerged as a promising avenue to address anthropogenic CO2 
+emissions and combat the global energy crisis.13 Considering the cost of electricity 
+and separation, and the potential value in downstream synthesis through Fisher
+Tropsch chemistry, carbon monoxide (CO) is regarded as an economically viable 
+choice among the potential eCO2RR products.4,5 However, the formidable activation 
+barrier of the CO bond in CO2, alongside the competitive hydrogen evolution 
+reaction (HER), hinder its practical application.5,6 Hence, the quest for a catalyst 
+displaying both suitable activity and selectivity becomes pivotal for the practical 
+realization of CO2toCO conversion.

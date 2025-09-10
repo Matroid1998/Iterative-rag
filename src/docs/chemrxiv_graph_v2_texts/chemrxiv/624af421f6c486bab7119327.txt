@@ -1,0 +1,13 @@
+Description:
+A key component in next-generation lithium-ion batteries.
+
+Text:
+Solidstate batteries are currently considered as nextgeneration lithiumion batteries, the goal 
+being to replace flammable organic lithium conducting electrolytes with solidstate ionic 
+conductors.1 A variety of material classes are being considered, but sulfide electrolytes have 
+attracted substantial interest due to their high ionic conductivity and favorable mechanical 
+properties. Here, the families of Li10(GeSn)P2S12 and Li6(PSb)S5X (X  Cl, Br, I) are, so far, the 
+only Li compounds exceeding 10 mS cm1 at room temperature.24 The structure and transport of 
+these materials have been widely investigated, and the ionic conductivities have been pushed 
+continually higher, reaching values reasonable for solidstate battery operation. While both are 
+excellent ionic conductors, they have fundamentally different crystal structures.

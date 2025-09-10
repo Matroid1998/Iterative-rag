@@ -1,0 +1,17 @@
+Description:
+A composition with chemical ordering optimized for a 147 atom Mackay icosahedral template structure.
+
+Text:
+catalytic activity.26,27 Fur
+ther, the optimal composition may vary with the size of
+the nanoparticle. Therefore, the accurate description of
+chemical ordering is important; where, for certain mo
+tifs, the ordering is very complex.28 Focus is placed on
+expediting a fast unbiased homotop search by reducing
+the number of energy evaluations needed to explore the
+PES and locate the putative global minimum (GM) for
+a given template structure. II. RESULTS AND DISCUSSION
+The chemical ordering of atoms is optimized for a 147
+atom Mackay icosahedral template structure.29 Searches
+elucidate the full convex hull of possible PtxAu147x
+for x 1, 146 compositions.

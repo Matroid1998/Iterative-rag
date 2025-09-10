@@ -1,0 +1,17 @@
+Description:
+A two-dimensional material used in optoelectronic devices and catalysis.
+
+Text:
+Transition metal dichalcogenides (TMDCs), such as MoS2, are twodimensional materials with 
+exciting perspectives for application in (opto)electronic devices1 or catalysis.2 Within the 
+three known polytypes (1T, 2H, and 3R)3 of this material, 2HMoS2 is of particular interest 
+due to its semiconducting nature and thicknessdependent band gap.4 Apart from the 
+established synthetic pathways toward 2HMoS2 with defined layer thickness, including 
+mechanical5 or liquid6 based exfoliation and chemical7 as well as physical vapor 
+deposition,8 wetchemical techniques affording colloidally stable TMDCs have recently 
+emerged,912 which are based on principles originally developed for the synthesis of colloidal 
+quantum dots.13 Some advantages of wetchemically synthesized TMDCs are their scalability, 
+relative ease of purification and solutionprocessability, which render them particularly suitable 
+for application in LEDs14 or solar cells.15 For these applications, detailed knowledge of the 
+electronic structure, such as the exact position of the band edges, is crucial to design efficient 
+device stacks, in which the layers of several materials, e.g.

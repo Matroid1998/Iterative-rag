@@ -1,0 +1,31 @@
+Name: Voriconazole
+Text:
+Voriconazole is a triazole-based antifungal agent used for the treatment of esophageal candidiasis, invasive pulmonary aspergillosis, and serious fungal infections caused by Scedosporium apiospermum and Fusarium spp. It is an inhibitor of cytochrome P450 2C9 (CYP2C9) and CYP3A4. It has a role as a P450 inhibitor. It is a member of pyrimidines, a difluorobenzene, a tertiary alcohol, a triazole antifungal drug and a conazole antifungal drug.
+Voriconazole (Vfend, Pfizer) is a triazole antifungal medication used to treat serious fungal infections. It is used to treat invasive fungal infections that are generally seen in patients who are immunocompromised. These include invasive candidiasis, invasive aspergillosis, and emerging fungal infections. The increased affinity of voriconazole for 14-alpha sterol demethylase makes it useful against some [fluconazole]-resistant organisms.  Voriconazole was approved by the FDA under the trade name Vfend on May 24, 2002.
+Voriconazole is an Azole Antifungal. The mechanism of action of voriconazole is as a Cytochrome P450 3A4 Inhibitor, and Cytochrome P450 2C19 Inhibitor, and Cytochrome P450 2C9 Inhibitor.
+Voriconazole is a triazole antifungal agent used primarily in the treatment or prevention of aspergillosis and candidal infections. Voriconazole therapy is associated with transient, asymptomatic serum aminotransferase elevations and is a known cause of clinically apparent acute drug induced liver injury.
+Voriconazole is a synthetic triazole with antifungal activity. Voriconazole selectively inhibits 14-alpha-lanosterol demethylation in fungi, preventing the production of ergosterol, an essential constituent of the fungal cell membrane, and resulting in fungal cell lysis. (NCI04)
+VORICONAZOLE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2002 and has 6 approved and 15 investigational indications.
+A triazole antifungal agent that specifically inhibits STEROL 14-ALPHA-DEMETHYLASE and CYTOCHROME P-450 CYP3A.
+Properties:safety: Acute Toxic and Health Hazard and Environmental Hazard
+smiles: C[C@@H](C1=NC=NC=C1F)[C@](CN2C=NC=N2)(C3=C(C=C(C=C3)F)F)O
+formula: C16H14F3N5O
+chem_properties: Molecular Weight: 349.31 g/mol
+XLogP3: 1.5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 5
+Exact Mass: 349.11504457 Da
+Monoisotopic Mass: 349.11504457 Da
+Topological Polar Surface Area: 76.7
+Heavy Atom Count: 25
+Formal Charge: 0
+Complexity: 448
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,17 @@
+Description:
+A compound whose selectivity is correlated with catalyst activity in vanadium-based oxidation reactions.
+
+Text:
+We start from 
+a consistent experimental set of clean data, containing nine 
+vanadiumbased oxidation catalysts (Fig. 1A). Here, the term 
+clean data refers to the fact that these materials were carefully 
+synthesized and tested in catalysis according to standardized 
+protocols. 12 Importantly, these nine catalysts were also 
+characterized in detail, resulting in more than forty measured 
+properties per material. To this data set, we applied the 
+compressedsensing symbolicregression sureindependence
+screeningandsparsifyingoperator (SISSO)
+13, 14 approach (Fig. 1B). We thus identified the few most relevant parameters that are 
+correlated, in a possibly complicated way, with the selectivity 
+towards acrylic acid and with catalyst activity.

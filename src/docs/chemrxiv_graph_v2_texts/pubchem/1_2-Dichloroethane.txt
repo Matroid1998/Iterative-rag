@@ -1,0 +1,33 @@
+Name: 1,2-Dichloroethane
+Text:
+1,2-Dichloroethane, also called ethylene dichloride, is a manufactured chemical that is not found naturally in the environment. It is a clear liquid and has a pleasant smell and sweet taste. The most common use of 1,2-dichloroethane is in the production of vinyl chloride which is used to make a variety of plastic and vinyl products including polyvinyl chloride (PVC) pipes, furniture and automobile upholstery, wall coverings, housewares, and automobile parts. It is also used to as a solvent and is added to leaded gasoline to remove lead.
+Ethylene dichloride (1,2-Dichloroethane) can cause cancer according to an independent committee of scientific and health experts.
+Ethylene dichloride appears as a clear colorless liquid with a chloroform-like odor. Flash point 56 °F. Denser than water and insoluble in water. Vapors are heavier than air. Density 10.4 lb / gal.
+1,2-dichloroethane is a member of the class of chloroethanes substituted by two chloro groups at positions 1 and 2. It has a role as a non-polar solvent, a hepatotoxic agent and a mutagen.
+Exposure to low levels of ethylene dichloride can occur from breathing ambient or workplace air. Inhalation of concentrated ethylene dichloride vapor can induce effects on the human nervous system, liver, and kidneys, as well as respiratory distress, cardiac arrhythmia, nausea, and vomiting. Chronic (long-term) inhalation exposure to ethylene dichloride produced effects on the liver and kidneys in animals. No information is available on the reproductive or developmental effects of ethylene dichloride in humans. Decreased fertility and increased embryo mortality have been observed in inhalation studies of rats. Epidemiological studies are not conclusive regarding the carcinogenic effects of ethylene dichloride, due to concomitant exposure to other chemicals. Following treatment by gavage (experimentally placing the chemical in the stomach), several tumor types were induced in rats and mice. EPA has classified ethylene dichloride as a Group B2, probable human carcinogen.
+Ethylene Dichloride is a clear, colorless, oily, synthetic, flammable liquid chlorinated hydrocarbon with a pleasant chloroform-like smell that emits toxic fumes of hydrochloric acid when heated to decomposition. Ethylene dichloride is primarily used to produce vinyl chloride. Inhalation exposure to this substance induces respiratory distress, nausea and vomiting and affects the central nervous system, liver and kidneys. It is mutagenic in animals and is reasonably anticipated to be a human carcinogen. (NCI05)
+1,2-Dichloroethane is a solvent used in food processing.The chemical compound 1,2-dichloroethane, commonly known by its old name of ethylene dichloride (EDC), is a chlorinated hydrocarbon, mainly used to produce vinyl chloride monomer (VCM, chloroethene), the major precursor for PVC production. It is a colourless liquid with a chloroform-like odour. 1,2-Dichloroethane is also used generally as an intermediate for other organic chemical compounds, and as a solvent.
+
+1,2-Dichloroethane belongs to the family of Organochlorides. These are organic compounds containing a chlorine atom.
+Properties:safety: Flammable and Irritant and Health Hazard
+smiles: C(CCl)Cl
+formula: C2H4Cl2
+chem_properties: Molecular Weight: 98.96 g/mol
+XLogP3: 1.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 1
+Exact Mass: 97.9690055 Da
+Monoisotopic Mass: 97.9690055 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

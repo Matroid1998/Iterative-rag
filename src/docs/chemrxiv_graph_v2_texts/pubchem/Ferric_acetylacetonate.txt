@@ -1,0 +1,23 @@
+Name: Ferric acetylacetonate
+Text:
+Properties:safety: Corrosive and Acute Toxic and Irritant
+smiles: C/C(=C/C(=O)C)/[O-].C/C(=C/C(=O)C)/[O-].C/C(=C/C(=O)C)/[O-].[Fe+3]
+formula: C15H21FeO6
+chem_properties: Molecular Weight: 353.17 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 3
+Exact Mass: 353.068749 Da
+Monoisotopic Mass: 353.068749 Da
+Topological Polar Surface Area: 120
+Heavy Atom Count: 22
+Formal Charge: 0
+Complexity: 90.4
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 3
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 4
+Compound Is Canonicalized: Yes 
+

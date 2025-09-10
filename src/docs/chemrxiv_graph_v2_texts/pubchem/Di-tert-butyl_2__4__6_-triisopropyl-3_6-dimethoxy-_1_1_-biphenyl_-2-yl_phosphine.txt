@@ -1,0 +1,24 @@
+Name: Di-tert-butyl(2',4',6'-triisopropyl-3,6-dimethoxy-(1,1'-biphenyl)-2-yl)phosphine
+Text:
+Properties:safety: Irritant
+smiles: CC(C)C1=CC(=C(C(=C1)C(C)C)C2=C(C=CC(=C2P(C(C)(C)C)C(C)(C)C)OC)OC)C(C)C
+formula: C31H49O2P
+chem_properties: Molecular Weight: 484.7 g/mol
+XLogP3: 8.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 9
+Exact Mass: 484.34701780 Da
+Monoisotopic Mass: 484.34701780 Da
+Topological Polar Surface Area: 18.5
+Heavy Atom Count: 34
+Formal Charge: 0
+Complexity: 582
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

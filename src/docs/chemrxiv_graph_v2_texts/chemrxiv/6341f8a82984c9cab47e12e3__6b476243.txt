@@ -1,0 +1,12 @@
+Description:
+Reactive derivatives of carboxylic acids used in organic synthesis.
+
+Text:
+Virtually every textbook on introductory organic chemistry discusses reductions of carboxylic acids and their 
+derivatives, such as esters, acid halides, and (mixed) anhydrides, focuses on hydridecontaining reducing agents, 
+most notably LAH and DIBAL.1 The former was introduced to organic synthesis back in 1947, while the latter was 
+initially used for olefin polymerization starting in 1960. And while their extensive service to organic synthesis over 
+decades is secure, their intolerance to air and moisture along with reactivityselectivity issues are also wellknown 
+limitations. Moreover, as seen today through green glasses, there is considerable room for approaches that, while 
+equally effective, are not only more functional group tolerant but also in line with the times where the overall 
+impact on the environment is also kept in mind.

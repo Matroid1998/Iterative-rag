@@ -1,0 +1,39 @@
+Description:
+A material with a high absorption coefficient and excellent optoelectronic properties used in photovoltaic and photoelectrochemical cells.
+
+Text:
+Photovoltaic (PV) and photoelectrochemical (PEC) cells based on Sb2Se3 have seen a rapid rise in 
+interest in recent years and significant progress has been made in their power conversion 
+efficiencies,1,2 which is primarily due to its high absorption coefficient and excellent 
+optoelectronic properties. However, a major challenge for Sb2Se3 is the low photovoltage obtained 
+from such devices.
+
+
+---
+
+Description:
+A compound whose defect passivation can be enhanced by sulfur treatment, improving charge carrier dynamics and reducing recombination.
+
+Text:
+Several strategies have been presented in the literature such as Te incorporation 
+for defect passivation,5 sulfurization treatment for improved photovoltage6 and gradient sulfur 
+doping in Sb2Se3.7 More fundamental insights into the basic optoelectronic properties for defect 
+passivationsuppression for Sb2Se3, however, have not yet been reported. In this work, we employed time resolved microwave conductivity (TRMC) and photoluminescence 
+(PL) spectroscopy to gain fundamental understanding of the defect passivation mechanism in 
+Sb2Se3 by sulfur treatment. We investigated the charge carrier dynamics of Sb2Se3 before and after 
+sulfur treatment using TRMC and observed the passivation of deep defects in Sb2Se3 as evidenced 
+by longer carrier lifetimes. We also show that the passivation of deep defects reduces not only 
+surface recombination, but also bulk recombination using a wavelength dependent TRMC study.
+
+
+---
+
+Description:
+A semiconductor thin film with increased long-range order upon sulfur treatment.
+
+Text:
+Furthermore, we demonstrate increased radiative recombination efficiency by suppression of non
+radiative recombination pathways in sulfurtreated Sb2Se3 using PL spectroscopy. In addition to 
+this, low frequency Raman spectroscopy (LFRS) showed increased longrange order in the Sb2Se3 
+semiconductor thin films upon sulfur treatment. These results explain the improved photovoltage 
+of Sb2Se3 upon sulfur treatment, which presents a simple and efficient defect passivation strategy.

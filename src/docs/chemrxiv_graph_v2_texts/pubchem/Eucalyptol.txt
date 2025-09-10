@@ -1,0 +1,31 @@
+Name: Eucalyptol
+Text:
+1,8-cineol is a colorless liquid with a camphor-like odor. Spicy cooling taste. (NTP, 1992)
+1,8-cineole is a cineole. It has a role as a flavouring agent.
+Eucalyptol is naturally produced cyclic ether and monoterpenoid. Eucalyptol is an ingredient in many brands of mouthwash and cough suppressant. It controls airway mucus hypersecretion and asthma via anti-inflammatory cytokine inhibition. Eucalyptol is an effective treatment for nonpurulent rhinosinusitis. Eucalyptol reduces inflammation and pain when applied topically. It kills leukaemia cells in vitro.
+Eucalyptol has been reported in Curcuma xanthorrhiza, Baeckea frutescens, and other organisms with data available.
+EUCALYPTOL is a small molecule drug with a maximum clinical trial phase of III and has 1 investigational indication.
+A monoterpene and cyclohexanol derivative that is the major component of EUCALYPTUS OIL. It is used in mouthwash, insect repellent, and as a cough suppressant, and also is widely used as a flavoring agent and solvent. It has antimicrobial properties.
+See also: Eucalyptus Oil (part of); Paeonia lactiflora root (part of); Peumus boldus leaf (part of) ... View More ...
+Properties:safety: Flammable and Irritant
+smiles: CC1(C2CCC(O1)(CC2)C)C
+formula: C10H18O
+chem_properties: Molecular Weight: 154.25 g/mol
+XLogP3: 2.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 154.135765193 Da
+Monoisotopic Mass: 154.135765193 Da
+Topological Polar Surface Area: 9.2
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 164
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

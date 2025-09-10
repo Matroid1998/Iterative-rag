@@ -1,0 +1,13 @@
+Description:
+Produced in the oxygen evolution reaction (OER) during PEC water splitting.
+
+Text:
+Photoelectrochemical (PEC) water splitting is a promising technology to generate and store 
+green energy as it directly converts solar energy into chemical energy by splitting water into 
+hydrogen and oxygen. The PEC water splitting process consists of two halfreactions the oxygen 
+evolution reaction (OER), occurring through a fourelectron process in the photoanode, and the 
+hydrogen evolution reaction (HER), occurring through a twoelectron process in the photocathode 
+2. The OER is the key limiting step in the PEC water splitting since it is mechanistically more 
+complex and associated with higher overpotentials than the HER. Therefore, a lot of scientific 
+effort has been devoted to developing more efficient photoanode materials 35. Tungsten trioxide (WO3) is a widely used photoanode material in PEC water splitting, 
+recognized for its exceptional properties.

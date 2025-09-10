@@ -1,0 +1,24 @@
+Description:
+Anions that perform poorly in catalytic transfer alumination, leading to the formation of new fluorinated compounds.
+
+Text:
+Pleasingly, the catalytic CH metalation of 2a using 8 
+and 10 mol (Et3N)HB(C6F5)4 proceeded cleanly to give aryl aluminum 9a as the major product on heating to 80 C 
+(Table 3, entry 1). Importantly, in the absence of (Et3N)HB(C6F5)4 no CH alumination was observed (entry 2). This 
+process thus represents the first report of catalytic transfer alumination. A comparison study then was performed using 
+the two (R3N)HAnion salts that performed best as activators in CH zincation. With 8, better conversions were again 
+achieved using (Et3N)HB(C6F5)4 compared to the (DMT)H salt. The poor performance of salts with B(ArCF3)4 
+anions (entry 4 and 5) in this case is notable, with insitu reaction monitoring revealing the formation of several new 
+fluorinated compounds (by 19F NMR spectroscopy).
+
+
+---
+
+Description:
+Used in CH alumination and involves fluoride abstraction.
+
+Text:
+The difference in CH alumination using B(ArCF3)4 and 
+B(C6F5)4, is consistent with the considerable fluorophilicity of aluminum cations that presumably leads to AlF bond 
+formation by fluoride abstraction from the sp3CF3containing anion (note, this is not observed with the zinc congeners 
+at 80 C, consistent with the lower fluorophilicity of Zn relative to Al). Table 3. CH alumination of 2methylthiophene.a

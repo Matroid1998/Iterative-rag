@@ -1,0 +1,12 @@
+Description:
+A ligand with 8-carbon alkyl connectivity and substituents at the aromatic ring.
+
+Text:
+reported a pair of Mn(III)Schiff base complexes with the general formula
+Mn(R sal2323) (Figure 1).7 The spin crossover property of this class of complexes was
+characterized by Morgan et al. in 2006.3 The roles of substituents, counter ion, and solvent
+on spin crossover and other physical phenomena were also investigated.813
+Figure 1 The molecular structures of Mn(R sal2323). Ligand structure is denoted
+R sal2323, where R represents the substituents at the aromatic ring and 323 denotes the
+8carbon alkyl connectivity in the ligand. Only amine hydrogen atoms are shown for clarity. Computational methods can predict spin crossover, provided that both the molecular
+2

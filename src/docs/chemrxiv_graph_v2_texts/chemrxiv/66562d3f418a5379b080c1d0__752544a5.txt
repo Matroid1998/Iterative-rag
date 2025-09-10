@@ -1,0 +1,26 @@
+Description:
+Compounds with a unique hexacyclic ring system posing synthetic challenges.
+
+Text:
+To the best of our knowledge, this renders 2 one of only five natural MIAs (out of 3,000) to 
+contain a cyclopropane.6 From a synthetic perspective, its unique 656635 hexacyclic ring system presents challenges not 
+readily addressed via existing approaches to the sarpagine alkaloids. In addition, preliminary biological testing has shown 
+rauvomine B (2) to be among the most active of its congeners in antiinflammatory screens, displaying inhibition of RAW 
+264.7 macrophages (IC50  39.6 M; positive control, celecoxib IC50  34.3 M).1 Inspired by the unique structure of 
+rauvomine B (2) and seeking to develop a new synthetic entry to the sarpagine family for further biological screening, we 
+embarked upon a total synthesis of 2.
+
+
+---
+
+Description:
+Alkaloids with challenging structures and diverse biological properties.
+
+Text:
+The sarpagine alkaloids, as well as their biosynthetically related macroline and ajmaline congeners, have proven 
+popular targets for the synthetic community based on their challenging structures and diverse biological properties. Such 
+studies began with early (semi)syntheses by Sakai7 and Magnus,8 and were significantly expanded by numerous total 
+syntheses reported by the Cook group and others over the subsequent three decades.918 Continued interest in the family has 
+been showcased in a series of creative approaches developed in the past five years.1926 Despite this rich body of work, 
+synthetic approaches capable of addressing the particular structural challenges presented by rauvomines AC (13) are yet 
+to be developed.

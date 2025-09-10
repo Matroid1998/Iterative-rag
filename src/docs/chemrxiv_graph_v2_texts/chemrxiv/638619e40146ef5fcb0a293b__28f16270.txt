@@ -1,0 +1,12 @@
+Description:
+A metal used in lithium-ion batteries, known for its poor abundance and uneven distribution.
+
+Text:
+Even though lithiumion batteries (LIBs) have achieved unprecedented commercial success 
+in the previous decades, uneven distribution and poor abundance of lithium lead to raw material 
+supply tensions that pose a severe challenge for their use in largescale applications.1,2 In this regard, 
+sodiumion batteries (NIB) are an attractive complementary technology that shares a similar working 
+principle and cell engineering to LIBs.3,4 Sodium has numerous advantages over Li in terms of 
+abundance (23,000 ppm vs. 20 ppm in the earths crust), distribution, and cost, offering economic 
+sustainability.5 However, one of the significant drawbacks of NIBs is their lower energy density than 
+LIBs.

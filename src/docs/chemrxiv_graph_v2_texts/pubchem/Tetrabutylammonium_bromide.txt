@@ -1,0 +1,24 @@
+Name: Tetrabutylammonium bromide
+Text:
+Tetrabutylammonium bromide is a tetrabutylammonium salt with bromide as the anionic counterpart. It is an organic bromide salt and a tetrabutylammonium salt.
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: CCCC[N+](CCCC)(CCCC)CCCC.[Br-]
+formula: C16H36N.Br
+chem_properties: Molecular Weight: 322.37 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 12
+Exact Mass: 321.20311 Da
+Monoisotopic Mass: 321.20311 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 18
+Formal Charge: 0
+Complexity: 116
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

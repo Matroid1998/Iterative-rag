@@ -1,0 +1,13 @@
+Description:
+An insulator that can be represented by small unit cells with only a few atoms.
+
+Text:
+As a result, studying electronic excitations in complex disordered systems
+remains a challenge for ab initio methods. ManyBody Greens Functions Theory in the GW approximation and BetheSalpeter
+Equation (BSE) has often been considered the method of choice for the calculation
+of electronically excited states (both charged and neutral) in hard condensed matter
+systems 1, 2, 3, starting from a meanfield groundstate reference often obtained
+from densityfunctional theory 4, 5 (DFT). Early studies in the late 1990s of inorganic
+crystals such as elementary semiconductors, or insulators such as magnesium oxide
+or lithium fluoride have been tractable because the atomic structure of these materials
+can be represented by small unit cells with only a few atoms 6.

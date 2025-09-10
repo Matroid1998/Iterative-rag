@@ -1,0 +1,13 @@
+Description:
+A common nitrogen precursor used with or without plasma activation.
+
+Text:
+The reactor is then 
+purged before introducing the subsequent precursor onto the substrate to deposit a layer of a 
+second type of atoms4. The most common gallium precursors are the trialkyl metal molecules, 
+trimethylgallium (TMG), and triethylgallium (TEG)5,6, and Ammonia (NH3), with or without 
+plasma activation, or nitrogen plasma, are common nitrogen precursors. It has been shown that 
+GaN deposited using TMG exhibits better optical and structural properties than GaN deposited 
+using TEG.7 The very high vapor pressure of TMG makes it challenging to use in ALD, where 
+the precursor vapor is typically drawn by low pressure in the reactor.8 Therefore, the use of 
+TMG requires either valves that can open for a very short time or cooling of the TMG container.

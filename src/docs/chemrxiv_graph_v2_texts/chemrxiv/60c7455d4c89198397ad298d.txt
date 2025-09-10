@@ -1,0 +1,13 @@
+Description:
+Forms hydrogen bonds that are crucial for intermolecular interactions and structures.
+
+Text:
+Due to the rapid developments of technologies related to terahertz (THz) spectroscopy, quick 
+and precise measurements have become possible in the THz frequency region (0.1  10 THz or 3 
+ 333 cm1), in which organic materials show characteristic spectra (socalled fingerprint 
+spectra).1,2 Since those absorption bands are mainly due to the intermolecular vibrational 
+motion,3,4 THz spectroscopy provides detailed information about intermolecular structures and 
+intermolecular interactions such as hydrogen bondings.58 Especially for macromolecules, THz 
+spectra give direct information about higher order conformation and hydrogen bonding networks, 
+all of which play an important role for their physical and chemical properties. Therefore, THz 
+spectroscopy is poised to become a powerful tool for research in polymer science.

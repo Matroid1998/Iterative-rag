@@ -1,0 +1,17 @@
+Description:
+An emitter used in green OLEDs with a maximum EQE of 37.8 and an electroluminescence maximum of 528 nm.
+
+Text:
+Indeed, the first commercialized TADF OLED devices are now on the 
+market.3 For instance, one of the best red TADF OLED, which uses TPAPZCN as the emitter, 
+has realized a record high maximum EQE (EQEmax) of 28.1 with an electroluminescence 
+maximum, lEL, of 648 nm.4 For green OLEDs, the use of CzDBA as the emitter resulted in a 
+device with an EQEmax of 37.8 with the lEL at 528 nm.5 Blue OLED employing TDBADI 
+as the emitter showed a comparable high EQEmax of 38.2 with CIE coordinates of (0.15, 
+0.28),6 and an OLED using a multiple resonance TADF (MRTADF) emitter, DABNA, 
+achieved an EQEmax of 34.4 with a lEL at 469 nm and a fullwidth at halfmaximum (FWHM) 
+of only 18 nm.7 
+
+3 
+
+Figure 1.

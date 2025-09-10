@@ -1,0 +1,28 @@
+Description:
+A gas that poses storage challenges at operational temperatures, impacting its commercial viability in applications like transportation.
+
+Text:
+Storing hydrogen at operational temperatures poses a significant challenge to its commercial
+viability, particularly in applications such as transportation. The U.S. Department of Energy
+(DOE) has set ambitious targets for hydrogen storage by 2025, including achieving 5.5 weight
+percent (wt ) and 40 g L1 at 233358 K, with an ultimate target of 6.5 wt  and 50 g
+L1.1 Additionally, during the DOEs Hydrogen Shot summit in 2021, a further goal was
+announced to reduce the cost of clean hydrogen to 1 per 1 kg within the next decade.2
+To achieve these targets, it is evident that materialsbased approaches are preferred.
+
+
+---
+
+Description:
+A gas that can be stored using adsorbents like MetalOrganic Frameworks (MOFs) and CovalentOrganic Frameworks (COFs) to improve gas uptakes.
+
+Text:
+Rather
+than attempting to compress or cryogenically cool hydrogen storage tanks, adsorbents such
+as MetalOrganic Frameworks (MOFs) and CovalentOrganic Frameworks (COFs) can be
+introduced to the vessel, improving gas uptakes without incurring high utility costs. Of these
+adsorbents, COFs show particular promise due to their high surface area and composition
+of lighter, more abundant elements compared to MOFs.35
+While many MOFs can offer high uptakes, operating at cryogenic temperature (77 K)
+swings to ambient conditions (298 K) is often prohibitively expensive. To make the process
+more economical, it is preferable to perform the adsorption process at ambient conditions.

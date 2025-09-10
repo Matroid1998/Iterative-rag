@@ -1,0 +1,13 @@
+Description:
+Undergoes thermal decomposition influenced by manybody deformations.
+
+Text:
+In this paper, we propose a new computational approach to characterize MBMC designed to 
+capture the conditions experienced in condensed matter via the application fourbody external 
+potentials that affects torsional (proper dihedrals) and outofplane deformations (improper 
+dihedrals). Our approach demonstrates the importance of manybody deformations on the 
+activation energy of mechanophore isomerization (spiropyran) and the thermal decomposition of 
+1,3,5trinitro2,4,6triaminobenzene (TATB). In the first example, we couple a fourbody 
+deformation around the spiro atom and apply the widely used CoGEF31 method to load the 
+mechanophore. We show that straining the central torsional angle by 50 reduces the energy 
+barrier associated with the mechanical activation of the mechanophore by a factor of two.

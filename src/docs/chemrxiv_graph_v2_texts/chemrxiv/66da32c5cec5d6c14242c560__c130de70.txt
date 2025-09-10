@@ -1,0 +1,13 @@
+Description:
+Representative radiosensitizers that share structural analogies with thymine and are commonly substituted for thymine in DNA strands.
+
+Text:
+Upon absorption of UV photons or attachment of an excess electron, radiosensitizers generate 
+highly reactive photoproducts that damage or destroy the cancer cell.7, 8 Halogenated uracils have been 
+widely recognized as representative radiosensitizers, sharing structural analogies with thymine (Thy, 
+Scheme 1), and are commonly substituted for Thy in DNA strands.914 This substitution does not 
+significantly alter biological structure but exhibits a potent radiosensitizing effect. Despite the considerable 
+importance of halogenated uracils, a fundamental understanding of photochemical processes in these 
+molecules remains incomplete. Notably, the influence of solvation on the excited state relaxation process 
+has been relatively overlooked, despite its anticipated significant impact on relaxation dynamics compared 
+to those in an isolated environment.

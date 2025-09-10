@@ -1,0 +1,11 @@
+Description:
+Shows anomalous fluorescence from its second singlet excited state (S2) instead of the more generally observed fluorescence from the lowest singlet excited state (S1).
+
+Text:
+A corollary of this rule, i.e., the Kasha
+Vavilov rule, states that the quantum yield of luminescence is independent of the wavelength of 
+exciting radiation.3 However, there are exceptions to both the Kashas and the KashaVavilovs 
+rules.4 The first exception was reported for the azulene molecule (see 1a in Scheme 1), which 
+shows anomalous fluorescence from its second singlet excited state (S2) instead of the more 
+generally observed Kashalike fluorescence from the lowest singlet excited state (S1).5,6 Since then, 
+many other molecular entities have been reported to behave in an antiKasha manner.

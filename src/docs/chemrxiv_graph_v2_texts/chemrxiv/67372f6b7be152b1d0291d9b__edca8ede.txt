@@ -1,0 +1,30 @@
+Description:
+The element forming the basis of materials like graphene and graphynes, known for its structural and electronic properties.
+
+Text:
+Carbonbased materials such as graphene and graphynes (GYs) have garnered considerable 
+interest as potential candidates for gas separation, energy storage materials, isotope separation, 
+catalysis, water purification, and optoelectronic devices, owing to their distinctive structural 
+and electronic properties.16 Numerous studies have shown that GYs, in particular, hold 
+promise as electrode materials in lithiumion batteries.6, 7 GYs are carbon allotropes akin to 
+graphene, first proposed by Baughman and coworkers in 1987.8 They can be theoretically 
+derived from graphene by introducing acetylenic linkages (CC) between the CC bonds of 
+graphene. GYs can be classified into various forms based on the arrangement and number of 
+their acetylenic linkages. These include types like , , , and rhombicGY, as well as 
+subclasses such as GY1, GY2, etc.
+
+
+---
+
+Description:
+Forms unique frameworks with sp and sp hybridization in GYs.
+
+Text:
+For instance, in the GY series, GY1 represents a 
+structure with one acetylenic linkage, while GY2 represents a structure with two acetylenic 
+linkages, and so forth. Although first theoretically predicted by Baughman and coworkers, 
+several of these forms have since been successfully synthesized.911 Notably, GYs were the 
+first form to be synthesized and are, therefore, the most characterized and explored.1215 The 
+unique combination of sp and sp hybridized carbon atoms in GYs provides a distinctive 
+framework that allows for more efficient accommodation of lithium ions compared to the 
+traditional carbonbased materials like graphite.

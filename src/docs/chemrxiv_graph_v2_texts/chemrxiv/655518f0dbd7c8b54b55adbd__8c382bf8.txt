@@ -1,0 +1,11 @@
+Description:
+Increased use of sp3 hybridized carbon atoms correlates with a drug's effectiveness and safety.
+
+Text:
+In drug discovery, the 3D structure of proteins is crucial for the success of drugs. The increased use of 
+sp3hybridized carbon atoms (Fsp3) is key, as it correlates with a drugs effectiveness and safety.1 This 
+trend, known as Escape from Flatland,2 involves increasing Fsp3 in drugs for better alignment with 
+protein structures, enhancing selectivity and efficacy.3 This strategy improves target interaction and 
+reduces side effects, balancing effective treatment with minimal negative effects. Historically, classical crosscoupling reactions have been a linchpin in synthetic chemistry, enabling 
+the straightforward construction of C(sp2)C(sp2) bonds and thereby propelling the production of 
+planar, biaryl structures.

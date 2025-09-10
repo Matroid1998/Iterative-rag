@@ -1,0 +1,25 @@
+Description:
+Offers a viable approach with a large storage capacity of 142 MJ/kg.
+
+Text:
+Clean and sustainable energy production and storage is the major challenge for mankind today 14. Although clean energy can be produced economically from aeolian, hydro, solar, etc., only a minor 
+part is stored, since as yet, there is no perfect energy storage technology 5. Hydrogen offers a viable 
+approach with a large storage capacity of 142 MJkg. At present, more than 95 of the hydrogen 
+produced is obtained by steam methane reforming. Although this is the most efficient technology 
+known at present ( 70 efficiency 6), this way of producing hydrogen is far from being clean or 
+sustainable, since for every ton of hydrogen produced, 2 to 9 tons of CO2 are emitted depending on 
+the details of the process.
+
+
+---
+
+Description:
+Produced via water electrolysis using electricity from renewable sources.
+
+Text:
+Water dissociation into H2 and O2 through electrolysis, offers an alternative 
+for hydrogen production, particularly when using electricity from renewable sources. An important 
+amount of external electrical energy input is mandatory to overcome the water redox potential of 1.23 
+V (1.6 V if we consider overpotentials at the electrodes). As an example, an industrial electrolyser 
+producing 750 Nm3h consumes an electrical energy of approx. 5 kWh for each Nm3 of H2 produced 
+7.

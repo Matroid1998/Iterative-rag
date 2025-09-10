@@ -1,0 +1,13 @@
+Description:
+Functional groups in enzymes that can bind heavy metals, altering catalytic activity.
+
+Text:
+We chose selenium oxide 
+nanoparticles as the nanomaterial for our biosensor because of their high binding affinity with heavy 
+metals such as mercury, which facilitates the detection process16. We also chose protease enzyme as 
+the biorecognition element for our biosensor because of its wide availability and low cost. Protease 
+enzyme is an enzyme that catalyzes the hydrolysis of peptide bonds in proteins17. Heavy metals can 
+affect the structure and function of protease enzyme by binding to its thiol groups or other active sites, 
+which results in changes in its catalytic activity and heat production18,19.In pursuit of sustainability and 
+costeffectiveness, we innovatively synthesized a crude protease enzyme extracted from chicken 
+intestine.

@@ -1,0 +1,13 @@
+Description:
+A metal with limited natural abundance, used in rechargeable Li-ion batteries.
+
+Text:
+The growing demand for portable electronic devices, electric vehicles, and increasing concerns 
+about climate change have driven the development of sustainable energy storage technologies.1,2 
+Renewable energy sources are being utilized to alter fossil fuels, addressing these concerns by 
+generating energy without producing greenhouse gas emissions.3 Rechargeable Liion batteries 
+dominate the global power market due to their superior energy density and extensive technological 
+and industrial development.46 However, adopting LIBs as a longterm energy storage solution will 
+be hindered by issues with the limited natural abundance of lithium (only 0.002), cost, and 
+safety.7 Hence, to achieve the sustainable energy shift away from LIBs, different metal ion 
+candidates such as Na, K, Mg, Ca, Zn2, Al3 etc.

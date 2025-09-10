@@ -1,0 +1,53 @@
+Description:
+A greenhouse gas with significant emissions from the oil and gas sector.
+
+Text:
+Reducing anthropogenic methane emissions will greatly increase the feasibility of the
+1.5 degree temperature goal from the 2015 Paris Climate Agreement (Collins et al,
+2018; Schleussner et al, 2016). The oil and gas sector provides a promising avenue
+for emissions reduction as it accounts for 22 of global anthropogenic methane emis
+sions (ORourke et al, 2021; Crippa et al, 2021) and 32 within the U.S. (EPA,
+2022). Methane emissions from the oil and gas sector exhibit high temporal variability
+(Allen et al, 2017; Wang et al, 2022), and infrequent, shortlived super emitter events
+represent a large portion of overall emissions (Brandt et al, 2016; Cusworth et al,
+2021).
+
+
+---
+
+Description:
+A gas whose atmospheric transport can be simulated to infer emission source information.
+
+Text:
+Therefore, continuous monitoring systems (CMS) will likely play an increasing
+role in emissions monitoring as they provide frequent measurements that are neces
+sary for capturing signals from emissions with high temporal variability (Bell et al,
+2023; Daniels et al, 2023). Rather than directly measuring emission rates (Riddick
+et al, 2022), most CMS measure ambient methane concentrations at sensor locations
+(for pointinspace sensor networks) (Daniels et al, 2024), integrated concentrations
+along an openpath (for scanning laser systems) (Alden et al, 2019), or 2D images of
+concentration enhancements (for IR cameras) (AbdelMoati et al, 2015). For pointinspace sensors, inferring emission source information (i.e. location and
+rate) from concentration measurements can be framed as an inverse problem which
+requires a forward model to simulate the atmospheric transport of methane.
+
+
+---
+
+Description:
+A contaminant whose concentration is modeled for atmospheric transport and leak detection.
+
+Text:
+In some
+form, a forward model for this problem provides a solution for the advectiondiffusion
+partial differential equation (PDE), given by
+c
+t   (cu)  (Kc)  s.
+(1)
+Here, u is the wind vector, K is a diagonal matrix whose elements are the diffusion
+coefficients, and s is a source term. This PDE models the atmospheric transport of
+the concentration of some contaminant c as a function of time and space. Solving
+this equation gives a concentration field that can be used in conjunction with CMS
+measurements to detect methane leaks. The traditional methods used to solve this
+PDE are gridbased CFD methods that couple (1) with the NavierStokes equations
+and, potentially, a turbulence model. These conventional methods pose two problems
+for this application.

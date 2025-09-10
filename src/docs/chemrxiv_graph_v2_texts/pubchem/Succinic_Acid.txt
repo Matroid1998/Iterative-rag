@@ -1,0 +1,33 @@
+Name: Succinic Acid
+Text:
+Succinic acid appears as white crystals or shiny white odorless crystalline powder. pH of 0.1 molar solution: 2.7. Very acid taste. (NTP, 1992)
+Succinic acid is an alpha,omega-dicarboxylic acid resulting from the formal oxidation of each of the terminal methyl groups of butane to the corresponding carboxy group. It is an intermediate metabolite in the citric acid cycle. It has a role as a nutraceutical, a radiation protective agent, an anti-ulcer drug, a micronutrient and a fundamental metabolite. It is an alpha,omega-dicarboxylic acid and a C4-dicarboxylic acid. It is a conjugate acid of a succinate(1-).
+A water-soluble, colorless crystal with an acid taste that is used as a chemical intermediate, in medicine, the manufacture of lacquers, and to make perfume esters. It is also used in foods as a sequestrant, buffer, and a neutralizing agent. (Hawley's Condensed Chemical Dictionary, 12th ed, p1099; McGraw-Hill Dictionary of Scientific and Technical Terms, 4th ed, p1851)
+Succinic acid is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Succinic Acid has been reported in Camellia sinensis, Phomopsis velata, and other organisms with data available.
+SUCCINIC ACID is a small molecule drug with a maximum clinical trial phase of III and has 1 investigational indication.
+Succinic acid is a dicarboxylic acid. The anion, succinate, is a component of the citric acid cycle capable of donating electrons to the electron transfer chain. Succinic acid is created as a byproduct of the fermentation of sugar. It lends to fermented beverages such as wine and beer a common taste that is a combination of saltiness, bitterness and acidity.  Succinate is commonly used as a chemical intermediate, in medicine, the manufacture of lacquers, and to make perfume esters. It is also used in foods as a sequestrant, buffer, and a neutralizing agent. Succinate plays a role in the citric acid cycle, an energy-yielding process and is metabolized by succinate dehydrogenase to fumarate. Succinate dehydrogenase (SDH) plays an important role in the mitochondria, being both part of the respiratory chain and the Krebs cycle. SDH with a covalently attached FAD prosthetic group, binds enzyme substrates (succinate and fumarate) and physiological regulators (oxaloacetate and ATP). Oxidizing succinate links SDH to the fast-cycling Krebs cycle portion where it participates in the breakdown of acetyl-CoA throughout the whole Krebs cycle. Succinate can readily be imported into the mitochondrial matrix by the n-butylmalonate- (or phenylsuccinate-) sensitive dicarboxylate carrier in exchange with inorganic phosphate or another organic acid, e.g. malate. (A3509) Mutations in the four genes encoding the subunits of succinate dehydrogenase are associated with a wide spectrum of clinical presentations (i.e.: Huntington's disease. (A3510).  Succinate also acts as an oncometabolite.  Succinate inhibits 2-oxoglutarate-dependent histone and DNA demethylase enzymes, resulting in epigenetic silencing that affects neuroendocrine differentiation.
+A water-soluble, colorless crystal with an acid taste that is used as a chemical intermediate, in medicine, the manufacture of lacquers, and to make perfume esters. It is also used in foods as a sequestrant, buffer, and a neutralizing agent. (Hawley's Condensed Chemical Dictionary, 12th ed, p1099; McGraw-Hill Dictionary of Scientific and Technical Terms, 4th ed, p1851)
+See also: Wormwood (annotation moved to).
+Properties:safety: Corrosive and Irritant
+smiles: C(CC(=O)O)C(=O)O
+formula: C4H6O4
+chem_properties: Molecular Weight: 118.09 g/mol
+XLogP3: -0.6
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 3
+Exact Mass: 118.02660867 Da
+Monoisotopic Mass: 118.02660867 Da
+Topological Polar Surface Area: 74.6
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 92.6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

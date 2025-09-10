@@ -1,0 +1,44 @@
+Description:
+A precursor dye used in primary brain tumor surgery that exhibits high water-solubility.
+
+Text:
+The established treatment of primary brain tumors includes an initial tumor resection in a surgical 
+procedure using fluorescencesupported tumor tissue visualization (8). For this purpose, the patient is 
+administered a fluorescent dye, capable of passing the disrupted bloodbrainbarrier that selectively 
+accumulates in the cancerous tissue. Precise tumor removal is then aided by the use of intermittent dye
+specific illumination, which allows better contrast between healthy and cancerous brain tissue (9). The 
+application of 5aminolevulinic acid (5ALA), as a precursor dye, is currently considered the gold 
+standard for primary brain tumor surgery (10, 11). This molecule exhibits high watersolubility, which 
+facilitates its implementation as pharmaceutical formulation, and thus its administration to the patient.
+
+
+---
+
+Description:
+Enzymatically transformed into Protoporphyrin IX in brain tumors.
+
+Text:
+After accumulating in the brain tumor, 5ALA is enzymatically transformed into Protoporphyrin IX (PPIX) 
+(12), which is the fluorophore used for tumor visualization. The brain tumor surgery is followed by 
+radiochemotherapy to reduce residual tissue and thus improve the overall tumor removal (13, 14). However, these therapies do not selectively affect cancerous tissue and result in collateral damage of 
+healthy, surrounding brain cells. A recent therapeutic approach, with the goal of establishing a tumor specific therapeutic alternative to 
+chemo or radiotherapy, focuses on enhancing the functionality of the already administered fluorescent 
+dye used for tumor visualization to additionally act as a photosensitizing agent in photodynamic therapy 
+(PDT) (15).
+
+
+---
+
+Description:
+Can pass the disturbed blood-brain barrier and allows for effective ROS formation.
+
+Text:
+Like 5ALA, it can pass the disturbed blood
+brain barrier and additionally exhibits a high triplet quantum yield that allows for an effective ROS 
+formation (23, 24). A direct comparison between hypericin and 5ALA revealed a significantly higher 
+photocytotoxicity of hypericin (22). Hypericin was shown to accumulate in the perinuclear region in 
+various tumor cell lines with main enrichment sites in the endoplasmic reticulum (ER), the Golgi 
+apparatus, mitochondria and lysosomes (2527). This accumulation behavior has a major influence on 
+PDT progression and might affect the actual cell death mechanism. Hypericin uptake and distribution 
+was further studied in tumor spheroid models (28) followed by hypericin PDT (29). To understand hypericin PDT, the mechanistical steps of the damaging and dying process need to be 
+revealed.

@@ -1,0 +1,30 @@
+Description:
+Combines with carbon to form a plethora of structures and chemical environments.
+
+Text:
+Carbon (C), one of the most abundant elements in nature, displays various types of hy
+bridized bonds, contributing to a rich energy landscape and a diverse range of properties
+across different structural phases.13 This inherent versatility, combined with boundless pos
+sibilities of its combination with hydrogen (H) leads to a plethora of structures and chemical
+environments, ranging from simple hydrocarbons like CH4 to complex organic molecules like
+carotenes (C40H56).49 The investigation of the hydrocarbons and other CH systems at atom
+istic level is crucial for understanding chemical interactions and advancing materials design,
+thereby, attracting significant attention from researchers.
+
+
+---
+
+Description:
+Involved in hydrogen storage advancements.
+
+Text:
+For instance, the advancements
+in Cbased materials have revolutionized fields like hydrogen storage1015 and the capture of
+polycyclic aromatic hydrocarbons pollutants.1618
+Recent advancements in theoretical and computational methodologies, particularly those
+based on quantum mechanics (QM), such as density functional theory (DFT)19,20 have sig
+nificantly enhanced our ability to study and explore materials at the atomic scale. While
+QM methods provide accurate understanding into material behavior, the computational cost
+of them increases with the system size,21,22 hindering their applications for exploring exten
+sive energy landscapes or largescale simulations. Therefore, we need a tradeoff between
+accuracy and computational cost in modeling materials at atomic scale.

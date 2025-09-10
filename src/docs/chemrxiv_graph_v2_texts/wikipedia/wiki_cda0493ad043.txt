@@ -1,0 +1,4 @@
+Systems modeling or system modeling is the interdisciplinary study of the use of models to conceptualize and construct systems in business and IT development.
+A common type of systems modeling is function modeling, with specific techniques such as the Functional Flow Block Diagram and IDEF0. These models can be extended using functional decomposition, and can be linked to requirements models for further systems partition.
+Contrasting the functional modeling, another type of systems modeling is architectural modeling which uses the systems architecture to conceptually model the structure, behavior, and more views of a system.
+The Business Process Modeling Notation (BPMN), a graphical representation for specifying business processes in a workflow, can also be considered to be a systems modeling language.

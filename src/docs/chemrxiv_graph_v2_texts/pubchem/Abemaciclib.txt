@@ -1,0 +1,30 @@
+Name: Abemaciclib
+Text:
+Abemaciclib is an antitumor agent and dual inhibitor of cyclin-dependent kinases 4 (CDK4) and 6 (CDK6) that are involved in the cell cycle and promotion of cancer cell growth in case of unregulated activity. On September 28, 2017, FDA granted approval of abemaciclib treatment under the market name Verzenio for the treatment of HR-positive and HER2-negative advanced or metastatic breast cancer that has progressed after unsuccessful endocrine therapy. It is either given alone in patients who has undergone endocrine therapy and chemotherapy after the metastasis of cancer, or in combination with [DB00947]. Following oral treatment in patients with HR-positive, HER2-negative breast cancer, abemaciclib demonstrated increased progression-free survival rates and objective response rates. Abemaciclib has been used in trials studying the treatment of melanoma, lymphoma, neoplasm, solid tumor, and glioblastoma.
+Abemaciclib is a Kinase Inhibitor. The mechanism of action of abemaciclib is as a Kinase Inhibitor.
+Abemaciclib is a unique cyclin-dependent kinase inhibitor that is used in combination with an antiestrogen in the treatment of postmenopausal women with metastatic breast cancer. Abemaciclib is associated with a moderate rate of serum aminotransferase elevations during therapy and is suspected to be a rare cause of clinically apparent liver injury.
+Abemaciclib is an orally available cyclin-dependent kinase (CDK) inhibitor that targets the CDK4 (cyclin D1) and CDK6 (cyclin D3) cell cycle pathway, with potential antineoplastic activity. Abemaciclib specifically inhibits CDK4 and 6, thereby inhibiting retinoblastoma (Rb) protein phosphorylation in early G1. Inhibition of Rb phosphorylation prevents CDK-mediated G1-S phase transition, thereby arresting the cell cycle in the G1 phase, suppressing DNA synthesis and inhibiting cancer cell growth. Overexpression of the serine/threonine kinases CDK4/6, as seen in certain types of cancer, causes cell cycle deregulation.
+ABEMACICLIB is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2017 and has 6 approved and 48 investigational indications.
+See also: Abemaciclib Mesylate (is active moiety of).
+Properties:safety: Health Hazard and Environmental Hazard
+smiles: CCN1CCN(CC1)CC2=CN=C(C=C2)NC3=NC=C(C(=N3)C4=CC5=C(C(=C4)F)N=C(N5C(C)C)C)F
+formula: C27H32F2N8
+chem_properties: Molecular Weight: 506.6 g/mol
+XLogP3: 3.8
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 9
+Rotatable Bond Count: 7
+Exact Mass: 506.27179938 Da
+Monoisotopic Mass: 506.27179938 Da
+Topological Polar Surface Area: 75
+Heavy Atom Count: 37
+Formal Charge: 0
+Complexity: 723
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

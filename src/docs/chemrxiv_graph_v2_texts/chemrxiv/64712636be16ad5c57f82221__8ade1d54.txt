@@ -1,0 +1,14 @@
+Description:
+A chemical fuel used in fuel cells for electricity generation.
+
+Text:
+Given its abundance, atmospheric molecular oxygen is an attractive 
+oxidant for the generation of electricity from chemical fuels (such as H2 or methanol in fuel 
+cells14 or metals like Zn, Fe, or Al in metalair batteries58) or for the distributed onsite 
+electrochemical production of hydrogen peroxide.9,10 In aqueous systems at room temperature, 
+these separate applications require different selectivity in the terminal product of oxygen 
+reduction, where generating hydrogen peroxide terminates at a net 2electron2proton 
+reduction (hydrogen peroxide production reaction, HPPR O2  2H  2e  H2O2, E0  0.695 V 
+vs. SHE) and fuel cell or metalair battery applications ideally reduce oxygen to water through a 
+net 4electron4proton process (oxygen reduction reaction, ORR O2  4H  4e  2H2O, E0  
+1.23 V vs. SHE).

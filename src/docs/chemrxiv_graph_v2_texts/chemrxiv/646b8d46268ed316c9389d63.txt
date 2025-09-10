@@ -1,0 +1,13 @@
+Description:
+A weakly bound messenger tag molecule used in cryogenic ion vibrational spectroscopy.
+
+Text:
+Towards this goal, we recently demonstrated the collection of linear 
+cryogenic ion vibrational spectra28 using an ultrafast IR pulse pair by monitoring photodissociation 
+of a weaklybound N2 messenger tag molecule.2933 The Fourier transform of the timedomain 
+tagloss interferogram, which derived from interferences in the excited vibrational coherences, 
+yielded the linear frequencydomain spectrum. We also demonstrated the presence of detectable 
+nonlinear signal, but did not frequencyresolve the response. Herein, we present the acquisition of ultrafast nonlinear vibrational action spectroscopy on 
+cryogenically cooled, dilute molecular ion ensembles. Using a pulse shaper to control the ultrafast 
+pulse sequence and isolate the desired nonlinear signal, we observe relatively strong bleaching 
+signals in the CO stretch region of the metalcarbonyl complex facRe(CO)3(CH3CN)3 tagged

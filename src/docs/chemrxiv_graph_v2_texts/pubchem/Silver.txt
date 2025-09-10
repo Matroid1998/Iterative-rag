@@ -1,0 +1,31 @@
+Name: Silver
+Text:
+Silver is a naturally occurring element. It is found in the environment combined with other elements such as sulfide, chloride, and nitrate. Pure silver is "silver" colored, but silver nitrate and silver chloride are powdery white and silver sulfide and silver oxide are dark-gray to black. Silver is often found as a by-product during the retrieval of copper, lead, zinc, and gold ores. Silver is used to make jewelry, silverware, electronic equipment, and dental fillings. It is also used to make photographs, in brazing alloys and solders, to disinfect drinking water and water in swimming pools, and as an antibacterial agent. Silver has also been used in lozenges and chewing gum to help people stop smoking.
+Silvery metallic solid. (NTP, 1992)
+Silver(0) is an elemental silver. It has a role as an Escherichia coli metabolite.
+Silver (Ag) is a chemical element that belongs in the family of transition metals in the periodic table. It has a high electrical conductivity, thermal conductivity, and reflectivity. Silver exists as a pure elemental form, alloy with other metals, and mineral. Having critical roles in various applications inducing chemical and industrial fields, silver compounds have also been used in the field of medicine for centuries due to their broad-spectrum biological actions. Silver nanoparticles especially have been widely used in industrial, household, and healthcare-related products due to their potent antimicrobial activity. [DB11080] and [DB05245] have been used as topical antibacterial agents for the treatment of skin infections, while [DB05245] has also been valued for topical burn treatment. Silver and its compounds have been used in trials studying the management of dental caries since the 1800s, and they may be found in dental pastes as an active ingredients. However, some drawbacks of dental use of silver compounds include tooth discolouration and pulp irritation.
+Silver is a metallic element with atomic symbol Ag, atomic number 47, and atomic weight 107.8682.
+Silver is a mineral with formula of Ag. The IMA symbol is Ag.
+An element with the atomic symbol Ag, atomic number 47, and atomic weight 107.87. It is a soft metal that is used medically in surgical instruments, dental prostheses, and alloys. Long-continued use of silver salts can lead to a form of poisoning known as ARGYRIA.
+See also: Silver, bullion (annotation moved to); Silver (metal dust and soluble compounds, as Ag) (annotation moved to); SILVER, METAL & SOLUBLE COMPOUNDS (as Ag) (annotation moved to).
+Properties:safety: Health Hazard
+smiles: [Ag]
+formula: Ag
+chem_properties: Molecular Weight: 107.868 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 106.90509 Da
+Monoisotopic Mass: 106.90509 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 1
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

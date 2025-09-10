@@ -1,0 +1,28 @@
+Description:
+A metal used in solid electrolytes and electrolysis cells.
+
+Text:
+Lithium penetration into solid electrolytes (termed Li intrusion) limits charging rate and poses 
+safety concerns in solidstate batteries1,2 as well as in electrolysis cells for extracting lithium 
+metal3,4 and separating hydrogen isotopes5. In brittle garnet solid electrolytes, mechanical 
+imperfection in solid electrolytes is a key cause of Li intrusions, including surface defects such 
+as nanoscale cracks69 and internal defects such as voids and grain boundaries1015.
+
+
+---
+
+Description:
+Metallic lithium formed during electroplating builds up stress and propagates cracks.
+
+Text:
+Metallic 
+lithium formed during electroplating at these defects builds up stress and propagates cracks once 
+the electrolyte fracture strength is exceeded.79 Electronic conductivity and trapped electrons at 
+these defects can further promote metallic lithium nucleation and growth inside of the solid 
+electrolyte.1315 Conceptually, three key components contribute to the Li intrusion process 
+defects, which serve as the active sites for Li intrusion initiation; local current density at these 
+defects, which acts as the driving force for electrochemical stress accumulation; and the solid 
+electrolytes fracture strength, which determines the critical current density at which an intrusion 
+is initiated. In brittle solid electrolytes, nanoscale defects (particularly nanocracks) form easily during 
+processing and handling due to the brittle nature of oxide ceramics, even for high density 
+samples.

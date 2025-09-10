@@ -1,0 +1,14 @@
+Description:
+A material known for its high chemical inertia, hardness, and temperature stability, used in protective coatings.
+
+Text:
+Polycrystalline silicon carbide (SiC) is a protective coating of choice in many industries due 
+to its high chemical inertia, hardness and temperature stability. Among SiC polytypes, cubic 
+SiC, also known as 3C or SiC, is the most used in refractory applications due to its relatively 
+low formation temperature. One of the techniques frequently adopted for the synthesis of 
+polycrystalline 3CSiC is chemical vapor deposition (CVD)1. In a SiC CVD process, 
+multicomponent precursors, e.g. methyl trichlorosilane, can assure unity of CSi ratio in the 
+gas phase, whereas singecomponent precursors containing only C or Si can grant the process 
+extra degrees of freedom in choosing different Si and Csource precursors2. Chlorinated 
+silanes, especially silicon tetrachloride (SiCl4) are widely used precursors in many SiC 
+processes.

@@ -1,0 +1,45 @@
+Description:
+Reduced to water in the catalytic process of laccases.
+
+Text:
+Laccases are multicopper oxidases which catalyze oxidation of different substrates such as, 
+e.g., pdiphenols, simultaneously reducing molecular oxygen to water. Laccases have been found 
+in bacteria, fungi, plants, and insects. Starting from the 1990s, laccases have been studied by 
+spectroscopic methods (Solomon et al., 1996) and then structures of laccases were determined by 
+Xray crystallography (review of results up to 2015 in (Hakulinen  Rouvinen, 2015)). Laccases are globular proteins comprised of two or three domains of cupredoxin fold 
+(Hakulinen  Rouvinen, 2015). Their active site includes four copper ions arranged in two 
+separated centers the T1 copper site and the trinuclear copper cluster (TNC). Three types of 
+copper ions (Abriata, 2012) in laccases were well established in earlier spectroscopic studies 
+(Solomon et al., 1996; Cole et al., 1990).
+
+
+---
+
+Description:
+Undergoes reduction at the TNC in the reaction O2  4e  4H  2H2O.
+
+Text:
+The TNC contains a triangle of closely located copper 
+ions including a pair of T3 copper ions coordinated by three histidine residues each and one T2 
+copper ion coordinated by two histidine residues. Electrons are accepted from substrate at the T1 
+copper site. Via an electrontransfer chain the electrons are transferred to the TNC where 
+molecular oxygen reduction reaction O2  4e  4H  2H2O occurs (Solomon et al., 1996; 
+Jones and Solomon, 2015). The TNC is connected to surrounding solvent via the T3 and T2 
+channels clearly observed in structures as chains of water molecules (Fig 1 in Polyakov et al., 
+2017). Molecular oxygen gets to the TNC through the T3 channel.
+
+
+---
+
+Description:
+Involved in a two-electron reduction process at the TNC.
+
+Text:
+The molecular oxygen reduction at the TNC was considered in works by Solomon and 
+coworkers (Cole et al., 1990; Jones and Solomon, 2015) based on spectroscopy and early Xray 
+studies of ascorbat oxidase (Messerschmidt et al., 1992). It includes a couple of twoelectron 
+reduction stages. Among the TNC states at the oxygen reduction, the following ones can be 
+distinguished. In the fully reduced state of the TNC all three copper ions are reduced to charge 
+1 and two oxygen ligands are involved (one between two T3 copper ions outside TNC and 
+other one near the T2 copper ion in channel T2). The peroxy intermediate (PI) state includes 
+deprotonated hydrogen peroxide located inside the copper ion triangle.

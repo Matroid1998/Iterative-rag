@@ -1,0 +1,16 @@
+Description:
+Organic compounds that can be oxidized to carboxylic acids by aldehyde dehydrogenases.
+
+Text:
+Aldehyde dehydrogenases (ALDHs) are a family of NAD(P)dependant enzymes that catalyse the 
+oxidation of aldehydes to carboxylic acids.1 Endogenous aldehydes can be produced as a result of 
+metabolism of amino acids, alcohols, lipids and vitamins, while exogenous aldehydes can derive 
+from the metabolism of cytotoxic drugs and environmental factors.26 Currently 19 ALDH isoforms 
+have been characterised in humans,7 and ALDH1 isoforms (ALDH1A1, ALDH1A2, ALDH1A3) are 
+considered to be of particular interest due to their role in the detoxification of anticancer drugs.8 
+
+ALDH1A1 expression has been correlated with poor overall survival in a range of cancers, including 
+ovarian cancer.9, 10 Resistance to chemotherapy represents a significant challenge in the treatment 
+of ovarian cancer, with a high proportion of women ultimately succumbing to recurrent disease.11 
+Tumour recurrence arises from drugresistant tumour cells able to repopulate the tumour niche 
+and seed new lesions.

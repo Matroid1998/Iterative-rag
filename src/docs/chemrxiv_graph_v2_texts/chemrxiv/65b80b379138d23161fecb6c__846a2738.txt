@@ -1,0 +1,39 @@
+Description:
+Refers to the carbon atom in lactols that bears a hydrogen substituent.
+
+Text:
+Kinetic resolution is a widely developed process 
+that has been extensively used for industrial and academic 
+applications to allow the effective preparation of enantiomerically 
+pure compounds.1 Despite its widespread use, a recognised 
+inherent drawback is that the theoretical maximum yield of a 
+single product enantiomer from a racemate is 50. This limitation 
+can be overcome by a using a dynamic kinetic resolution (DKR) 
+approach, that necessitates the individual enantiomers of the 
+racemic starting material to interconvert (enantiomerization) at a 
+timescale compatible with a subsequent enantioselective 
+derivatization event (such as acylation).1v Current stateofthe art 
+DKRs commonly use secondary alcohols or trisubstituted lactols 
+(that contain a Hsubstituent at the carbinol carbon), with 
+enantiomerization 
+promoted 
+through 
+reversible 
+dehydrogenationhydrogenation (Fig 1AB) or intramolecular ring 
+closurering opening (Fig 1CD).
+
+
+---
+
+Description:
+Requires C(3)perfluorinated substituents for reactivity in the described methodology.
+
+Text:
+To the best of our knowledge only a single report from 
+Ye and coworkers utilising NHC catalysed enantioselective 
+acylative DKR of benzosultam derived trifluoromethyl substituted 
+hemiaminols has been reported in this area to date.4 Although 
+excellent enantioselectivity was observed, this methodology was 
+limited by the need for C(3)perfluorinated substituents at the 
+carbinol centre, and requires a stoichiometric oxidant (3,3,5,5
+tetratertbutyldiphenoquinone, DQ) for reactivity (Fig 1D).

@@ -1,0 +1,23 @@
+Name: Lithium sulfide
+Text:
+Properties:safety: Flammable and Corrosive and Acute Toxic and Environmental Hazard
+smiles: [Li+].[Li+].[SH-]
+formula: HLi2S+
+chem_properties: Molecular Weight: 47.0 g/mol
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 47.01190307 Da
+Monoisotopic Mass: 47.01190307 Da
+Topological Polar Surface Area: 1
+Heavy Atom Count: 3
+Formal Charge: 1
+Complexity: 2.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

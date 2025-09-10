@@ -1,0 +1,26 @@
+Name: Nitrosobenzene
+Text:
+Nitrosobenzene is a nitroso compound that is the nitroso derivative of benzene; a diamagnetic hybrid of singlet O2 and azobenzene. It has a role as a xenobiotic metabolite. It is a nitroso compound and a member of benzenes. It is functionally related to a benzene.
+Nitrosobenzene has been reported in Euglena gracilis with data available.
+Properties:safety: Acute Toxic and Irritant
+smiles: C1=CC=C(C=C1)N=O
+formula: C6H5NO
+chem_properties: Molecular Weight: 107.11 g/mol
+XLogP3: 2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 107.037113783 Da
+Monoisotopic Mass: 107.037113783 Da
+Topological Polar Surface Area: 29.4
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 76.6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,13 @@
+Description:
+Involved in ferroptosis, a regulatory cell death process dependent on iron accumulation.
+
+Text:
+Cell death is a key player in various cellular processes, including the regulation of tissue growth, 
+embryogenesis, cell turnover, immune response, and numerous other biological activities. Among 
+the various cell death processes, apoptosis and ferroptosis have shown remarkable efficacy and 
+hold great potential for clinical applications within the domain of nanomedicine1,2. Apoptosis is a 
+programmed cell death and occurs on demand by the physiological requirement to clean the waste 
+material. On the other hand, ferroptosis is a regulatory cell death process that results from the iron
+dependent accumulation of lipid peroxides connected with reactive oxygen species3,4. It is known 
+that the dead cell is an indicator of various diseases such as traumatic brain injury, heart attack, 
+and autoimmune response.

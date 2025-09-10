@@ -1,0 +1,27 @@
+Description:
+A class of compounds that includes isoniazid, used as inhibitors in TB treatment.
+
+Text:
+Tuberculosis, a disease caused by Mycobacterium
+tuberculosis, constitutes a substantial health concern
+that affects 10.3 million of the global population. Throughout the latent phase of infection,
+My
+cobacterium tuberculosis bacilli can endure within
+granulomas for extended durations as they are
+exhibiting low metabolic activity and are therefore
+slow or nonreplicating. Isoniazid (INH), a hydrazide which acts as a
+tightbinding inhibitor of enoyl reductase (InhA),
+is the main component of current TB drugs. INH
+is activated by the KatG catalaseperoxidase to
+inhibit bacterial cell wall synthesis. Another hy
+drazine compound used against TB, thiacetazone
+(TAC), undergoes activation through the action
+of
+monooxygenase
+EthA
+and
+hydroxymycolate
+synthase (MmaA4). This activation process alters
+the structure of hydroxylacyldehydratases (HadAB,
+HadBC), prominent enzymes which catalyze Mtbs
+mycolic acid biosynthesis and elongation pathway.

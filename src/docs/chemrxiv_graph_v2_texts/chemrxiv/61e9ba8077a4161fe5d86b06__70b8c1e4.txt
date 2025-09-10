@@ -1,0 +1,11 @@
+Description:
+A convenient fuel that can be produced by the electrolysis of water.
+
+Text:
+The transition to a society based on renewable energy re
+quires new ways to store electricity from intermittent energy
+sources, e.g. in the form of chemical fuels. H2 is a convenient
+fuel in this respect, as it can be produced by the electrolysis
+of water.1 The eciency of this process is however limited
+by the poor kinetics of the oxygen evolution reaction (OER)
+at the anode.

@@ -1,0 +1,14 @@
+Description:
+In the presence of oxygen, a self-passivating 0.72 nm thick gallium oxide layer forms spontaneously at the exposed interface.
+
+Text:
+Eutectic GalliumIndium metal alloy (EGaIn) is a nontoxic liquid at room temperature
+with a unique combination of rheological, thermal, and electrical properties that makes it
+attractive for applications in soft electronics,13 catalysis,4 energy storage5,6 plasmonics,7,8
+2Dmaterials synthesis,9 and molecular electronics.1013 In the presence of oxygen, a self
+passivating 0.72 nm thick gallium oxide layer forms spontaneously at the exposed interface,
+endowing EGaIn with nonNewtonian rheological properties;14,15 as a result, liquid EGaIn
+can be molded into various geometries (e.g., micronanosized spheres,15,16 rods,17 and
+cones,10 or injected into microchannels11). To incorporate EGaIn into devices, dierent methods have been developed to spatially
+manipulate and position EGaIn (e.g., using magnetic elds,1820 microuidics, and conven
+tional patterningfabrication techniques11,21,22).

@@ -1,0 +1,11 @@
+Description:
+Mixed oxide (MOX) fuel used in nuclear fission reactors.
+
+Text:
+The current generation of nuclear fission reactors, Generation III (Gen III), primarily use UO2, PuO2, or U,PuO2 
+(MOX) fuel clad in aluminum, steel, and zirconium alloys with light (H2O), or heavy (D2O) water used as coolant. While Gen III reactors are safer than the previous generation, they are not without their disadvantages. The oxide 
+fuel is most commonly in the form of a solid rod covered by the cladding and requires a fine temperature balance. httpsdoi.org10.26434chemrxiv2024n9tjc ORCID httpsorcid.org0000000252089129 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0
+
+2 
+The reactor becomes more efficient as the operating temperature increases, but if the operating temperature is too 
+high, the reactor can undergo a meltdown event. Reactor temperature is controlled with the coolant.

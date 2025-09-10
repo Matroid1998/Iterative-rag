@@ -1,0 +1,16 @@
+Description:
+Predicted to show the highest energy barriers to magnetic reversal in axial complexes.
+
+Text:
+Raising the temperatures at which singlemolecule magnets (SMMs) exhibit magnetic remanence is key to 
+unlocking their potential applications in highdensity data storage, as the liquid helium cooling currently 
+required is expensive.13 For the last two decades lanthanide (Ln) SMMs have shown the most promise to 
+achieve this goal,47 with axial dysprosium complexes predicted to show the highest energy barriers to 
+magnetic reversal (Ueff).810 As the isolation of an ideal axial twocoordinate linear Dy(III) complex is a 
+major synthetic challenge, pentagonal bipyramidal Dy complexes with strongly donating apical alkoxides 
+and five weak equatorial donor ligands were the first SMMs to achieve Ueff values  1000 K.11 Salts with 
+axial dysprosocenium cations Dy(CpR)2 (CpR  substituted cyclopentadienyl) and related derivatives 
+subsequently raised 100 s magnetic blocking temperatures (TB) evercloser to the boiling point of liquid 
+nitrogen (77 K);1222 this was attributed to the rigidity of the coordinated aromatic ligands hindering Raman 
+magnetic relaxation pathways.12,23 The current recordholding SMM Dy2(C5iPr5)2(I)3 contains a 1e 
+DyDy bond, and has Ueff  2345(36) K and TB  72 K.19

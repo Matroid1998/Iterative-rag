@@ -1,0 +1,22 @@
+Description:
+A compound applicable to a multitude of systems under various conditions.
+
+Text:
+have demonstrated its ap
+plicability to a multitude of systems, including carbon diox
+ide, nalkanes, and poly(ethylene glycol) dimethyl ethers, for
+a wide variety of conditions.18 As demonstrated by Yeh
+and Hummer, determining true system size independent self
+diffusion coefcients D0 from MD simulations with PBCs re
+quire either the knowledge of the shear viscosity, or a series
+of MD simulations with varying box lengths.17
+Recently, we have shown, that this problem can be turned
+on its head, and even be transformed into an alternative ap
+proach for determining system size independent transport
+properties by performing MD simulations of orthorhombic
+systems with magic box length ratios of LzLx LzLy 
+2.7933596497, the effect of the hydrodynamic interactions
+on the diffusion in x and ydirection cancel out each other,
+and the selfdiffusion coefcients Dx and Dy in x and y
+direction always represent the true system size independent
+selfdiffusion coefcient D0  (Dx  Dy)2.

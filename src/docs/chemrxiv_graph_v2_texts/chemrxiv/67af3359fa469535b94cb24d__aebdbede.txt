@@ -1,0 +1,28 @@
+Description:
+A unique family of nitrogen-rich aromatic fused tricyclic aza arenes with remarkable photocatalytic properties and efficient emitters for OLEDs.
+
+Text:
+Heptazines (see Scheme 1) are a unique family of nitrogenrich aromatic fused tricyclic aza
+arenes. They are of interest because of their remarkable photocatalytic properties,17 but also 
+because they have been shown to be efficient emitters for organic light emitting diodes 
+(OLEDs).810 Their high electron deficiency situates them between triazines11 and tetrazines,12
+14 the two most investigated classes of nitrogenrich heterocycles.
+
+
+---
+
+Description:
+Polymeric materials consisting of heptazine monomers have been extensively studied as photocatalytically active materials.
+
+Text:
+Compared with these 
+families, heptazines (Hz) received less attention in organic synthesis so far, despite a recent 
+regain of interest in molecular Hz.1, 10, 1518 Various types of polymeric materials consisting of 
+Hz momomers also have been extensively studied as photocatalytically active materials.5, 1921 
+
+Scheme 1 Generic structure of trisubstituted heptazines (R, are substituents of various kinds) 
+
+For many years, the search for efficient emitters for OLEDs was focussed on chromophores 
+exhibiting the socalled reverse intersystem crossing (RISC) from the lowest triplet state to the 
+lowest singlet state.2223 This kinetic process is possible if the energy gap EST  ES  ET is in the 
+range of the thermal energy kBT, where kB is the Boltzmann constant and T is the temperature.

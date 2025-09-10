@@ -1,0 +1,29 @@
+Name: Allicin
+Text:
+Allicin is a sulfoxide and a botanical anti-fungal agent. It has a role as an antibacterial agent.
+Allicin has been used in trials studying the treatment of Follicular Lymphoma.
+Allicin has been reported in Allium ursinum, Allium ampeloprasum, and other organisms with data available.
+ALLICIN is a small molecule drug with a maximum clinical trial phase of II and has 1 investigational indication.
+See also: Garlic (part of).
+Properties:safety: Irritant
+smiles: C=CCSS(=O)CC=C
+formula: C6H10OS2
+chem_properties: Molecular Weight: 162.3 g/mol
+XLogP3: 1.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 5
+Exact Mass: 162.01730729 Da
+Monoisotopic Mass: 162.01730729 Da
+Topological Polar Surface Area: 61.6
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 120
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

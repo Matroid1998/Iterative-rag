@@ -1,0 +1,17 @@
+Description:
+Present in the C2 cut during the acetylene removal process.
+
+Text:
+Ethylene is one of the most important bulk platform chemicals with 
+an annual global production of 214 million tons in 2021.1 The 
+industrially established primary production method is steam 
+cracking of hydrocarbon feedstock, followed by separation and 
+purification.23 In the C2 product stream after the deethanizer 
+column it is necessary to reduce the acetylene content down to 
+below 1 ppmv on the industrial scale by selective hydrogenation 
+to ethylene.34 Such an acetylene removal unit (ARU) can be 
+integrated directly after the deethanizer, where the C2cut 
+contains excess hydrogen and methane (frontend) or after the 
+subsequent demethanizer (tailend).2, 56 Currently the tailend 
+process is more commonly applied as reaction control is more 
+convenient due to control of the hydrogenacetylene ratio.

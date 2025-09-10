@@ -1,0 +1,10 @@
+Description:
+A sulfide used in sodium-based solid electrolytes with a narrow electrochemical stability window.
+
+Text:
+The design of SEs must balance various 
+properties, such as superionic conductivities (103 Scm), electrochemical stability against both 
+electrodes and processability.810 Traditional inorganic Nabased SE families include oxide ceramics 
+(NASICONtype oxides11,12, Al2O313) and sulfides (Na3PS4,14 Na2.9Sb0.9W0.1S4,15,16 Na11Sn2PS12type17,18). However, both have drawbacks oxide ceramics have high interfacial impedance and require high 
+sintering temperatures. At the same time, sulfides exhibit a narrow electrochemical stability window, 
+making them incompatible with highvoltage cathodes and sodium metal.19

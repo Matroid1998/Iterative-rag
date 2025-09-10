@@ -1,0 +1,14 @@
+Description:
+A substrate in the RutA enzyme-catalyzed degradation process.
+
+Text:
+Modeling the interaction of proteins with small ligands, in particularly, for the goals of 
+drug design is traditionally performed using molecular mechanics or classical molecular 
+dynamics methods with force field parameters. Application of quantumbased simulation tools 
+is also growing,1,2 but is still far from the routine use. In this work, we describe quantum
+based simulations for a molecular system, which can hardly be handled at the classical level. Specifically, we characterize a reactant complex of a flavindependent enzyme RutA from 
+Escherichia coli with the molecular oxygen and uracil. The RutA enzyme catalyzes a first step of uracil degradation in hydroxypropionate, 
+ammonia, and carbon dioxide, allowing bacteria to use pyrimidine rings as nitrogen source3,4 
+and belongs to a large family of flavoprotein monooxygenases (FMOs) widely spread across 
+
+2

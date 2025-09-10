@@ -1,0 +1,37 @@
+Name: Hexachlorocyclohexane
+Text:
+Hexachlorocyclohexane (HCH) is a manufactured chemical that exists in eight chemical forms called isomers. One of these forms, gamma-HCH (or γ-HCH, commonly called lindane) is produced and used as an insecticide on fruit, vegetables, and forest crops. It is a white solid that may evaporate into the air as a colorless vapor with a slightly musty odor. It is also available as a prescription (lotion, cream, or shampoo) to treat head and body lice, and scabies. Lindane has not been produced in the United States since 1976, but is imported for insecticide use. Technical-grade HCH was used as an insecticide in the United States and typically contained 10-15% gamma-HCH as well as the alpha (α), beta (β), delta (δ), and epsilon (ε) forms of HCH. Virtually all the insecticidal properties resided in gamma-HCH. Technical-grade HCH has not been produced or used in the United States in over 20 years.
+Hexachlorocyclohexane (all isomers including lindane) can cause cancer according to an independent committee of scientific and health experts.
+Hexachlorocyclohexane (all isomers) appears as white to yellow powder or flakes. Musty odor. The gamma isomer is known as lindane, a systemic insecticide. Toxic by ingestion or inhalation.
+Beta-hexachlorocyclohexane is the beta-isomer of hexachlorocyclohexane. It has a role as a persistent organic pollutant. It is an organochlorine pesticide and a hexachlorocyclohexane.
+a-Hexachlorocyclohexane is a brownish-white colored, sand-like powder with a phosgene-like odor that emits toxic fumes of phosgene gas, hydrochloric acid and other chlorinated compounds when heated to decomposition. a-Hexachlorocyclohexane is the alpha-isomer of hexachlorocyclohexane and is used as an insecticide to treat lice and scabies. Inhalation exposure to this substance causes severe irritation of the nose, throat and lungs; causes anemia, and affects the liver, kidneys, nervous system, cardiovascular system and immune system. a-Hexachlorocyclohexane is reasonably anticipated to be a human carcinogen. (NCI05)
+b-Hexachlorocyclohexane is a colorless, sand-like powder that emits toxic fumes of phosgene gas, hydrochloric acid and other chlorinated compounds when heated to decomposition. b-Hexachlorocyclohexane is the beta-isomer of hexachlorocyclohexane and is used as an insecticide. Inhalation exposure to this substance causes severe irritation of the nose, throat, and lungs; causes anemia, and affects the liver, kidneys, nervous system, cardiovascular system and immune system. b-Hexachlorocyclohexane is reasonably anticipated to be a human carcinogen. (NCI05)
+LINDANE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1974 and is indicated for parasitic infection and has 1 investigational indication. It was withdrawn in at least one region. This drug has a black box warning from the FDA.
+An organochlorine insecticide that has been used as a pediculicide and a scabicide. Lindane has been banned in California, United Kingdom, Australia, and many western countries due to concerns about neurotoxicity and adverse effects on the environment. In Canada, Lindane is not recommmended as a first-line therapy due to reports of resistance, neurotoxicity, and bone marrow suppression, but has been approved by the FDA as a second-line therapy for topical treatment of pediculosis capitis (head lice), pediculosis pubis (pubic lice), or scabies in patients greater than two years of age who cannot tolerate or have failed first-line treatment. 
+Beta Hexachlorocyclohexane(beta-HCH) is one of eight isoforms of the commercially manufactured chemical hexachlorocyclohexane. It is used as an insecticide on fruit, vegetables, and forest crops and is also available as a prescription (lotion, cream, or shampoo) to treat head and body lice, and scabies. (L108). beta-HCH causes nonestrogenic immune function changes in the adult mouse without gross changes in lymphoid organ weight, histology, or cellularity.
+Hexachlorocyclohexane, Delta- is one of eight isoforms of the commercially manufactured chemical hexachlorocyclohexane. It is used as an insecticide on fruit, vegetables, and forest crops and is also available as a prescription (lotion, cream, or shampoo) to treat head and body lice, and scabies. (L108)
+Hexachlorocyclohexane, Alpha- is one of eight isoforms of the commercially manufactured chemical hexachlorocyclohexane. It is used as an insecticide on fruit, vegetables, and forest crops and is also available as a prescription (lotion, cream, or shampoo) to treat head and body lice, and scabies. (L108)
+Technical grade hexachlorocyclohexane is a manufactured chemical that typically consists of the alpha, beta, delta, epsilon, and gamma isomers of hexachlorocyclohexane. It is used as an insecticide on fruit, vegetables, and forest crops and is also available as a prescription (lotion, cream, or shampoo) to treat head and body lice, and scabies. (L108)
+See also: Lindane (has subclass); delta-Hexachlorocyclohexane (has subclass); Beta-Hexachlorocyclohexane (has subclass) ... View More ...
+Properties:safety: Acute Toxic and Irritant and Health Hazard and Environmental Hazard
+smiles: C1(C(C(C(C(C1Cl)Cl)Cl)Cl)Cl)Cl
+formula: C6H6Cl6
+chem_properties: Molecular Weight: 290.8 g/mol
+XLogP3: 3.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 289.857116 Da
+Monoisotopic Mass: 287.860066 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 104
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

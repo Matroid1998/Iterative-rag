@@ -1,0 +1,12 @@
+Description:
+Nirich cathode material developed for high energy density in lithium-ion batteries.
+
+Text:
+Lithiumion batteries have become the leading technology to make the worldwide adoption of electric 
+vehicles (EVs) realized due to their high voltage, high energy density, and long cycle life. To attain further 
+gains in energy density, Nirich, LiNi1xTMxO2 (TM  transition metal, x  0.2), cathode materials have 
+been developed. LiNi0.8Co0.15Al0.05O2 (LiNCA) and LiNi0.8Co0.1Mn0.1O2 (LiNMC811) offer a high 
+reversible capacity around 200 mAh g1 at relatively low cost.1 Unfortunately, these cathode compositions 
+suffer from poor thermal stability from oxygen release at highly delithiated states.24 Oxygen release at 
+the cathode surface form impeding surface layers, inhibiting Liion diffusion, which is further aggravated 
+by microcrack evolution.

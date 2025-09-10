@@ -1,0 +1,14 @@
+Description:
+Used in interlayers to enable improved performance in lithium metal anodes.
+
+Text:
+These factors 
+urgently motivate the development of lithium anodes that retain interfacial contact at high current densities 
+and low stack pressures. A variety of interfacial engineering approaches has been pursued to improve the performance of 
+lithium metal anodes in SSBs. Interlayers comprising other materials, such as carbon or lithium metal 
+alloys, have been shown to enable improved performance. In general, these interlayer or composite 
+materials enhance Li transport toward the SSE interface, homogenize current distributions, and can help 
+maintain interfacial contact (2832). However, these approaches have primarily utilized hard or brittle 
+interlayer materials to passively control Li transport, and some of these materials undergo transformations 
+themselves (3335). These approaches therefore usually require stack pressures similar to that needed for 
+Li metal to maintain interfacial contact (see Fig. S1).

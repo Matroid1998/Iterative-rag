@@ -1,0 +1,17 @@
+Description:
+A first-generation EGFR tyrosine kinase inhibitor used in targeted therapies for nonsmall cell lung cancer.
+
+Text:
+Activating mutations within the epidermal growth factor receptor 
+(EGFR) kinase domain, most prevalently L858R and exon19del, are common causes of 
+nonsmall cell lung cancer (NSCLC) and often serve as predictive markers for the 
+selection of EGFR tyrosine kinase inhibitors (TKIs) as effective targeted therapies.12 
+Prolonged efficacy of firstgeneration TKIs (gefitinib and erlotinib) is eventually made 
+limited due to drug resistance as a result of patients acquiring a second T790M 
+gatekeeper mutation.3 To produce a viable treatment option for T790Mpositive NSCLC 
+
+tumors, drug development efforts have yielded the clinicallyapproved drug AZD9291 
+(osimertinib), which is selective for T790Mcontaining EGFR and made potent by forming 
+an irreversible covalent bond to C797.45 Despite promising indications, drug resistance 
+to osimertinib is inevitable and caused in part by the acquisition of a third kinase domain 
+mutation C797S that prevents formation of the potencyenabling covalent bond.

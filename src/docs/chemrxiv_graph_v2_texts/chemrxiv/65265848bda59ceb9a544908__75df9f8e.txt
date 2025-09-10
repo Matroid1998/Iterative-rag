@@ -1,0 +1,12 @@
+Description:
+A type of oxide explored for high entropy compositions.
+
+Text:
+High entropy chemical compositions is a rapidly emerging approach to design functional oxides. Following 
+early studies of mechanical properties of metal alloys with 5 or more elements in single phase solid solution, 
+1,2 high entropy has later been explored for oxides and ceramics,39 e.g. rock salts,10 perovskites,11,12 
+oxyfluorides,13 and carbides.14 High entropy compounds are usually defined by having a configurational 
+entropy, Sconfig, larger than 1.5R, where R is the universal gas constant, which is achieved by 5 or more 
+equimolar elements on the same sublattice.15 High configurational entropy can stabilize singlephase materials 
+even if the compositional end members are unstable.2,10 High ionic conductivity is a prominent example of 
+enhanced properties in high entropy oxides.

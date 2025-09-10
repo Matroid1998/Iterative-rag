@@ -1,0 +1,78 @@
+Description:
+Molecules that weakly interact with most surfaces below room temperature and remain physisorbed.
+
+Text:
+Therefore, many works have been developed to increase the 
+efficiency of the dissociation of NN bond, mostly by using 
+heterogeneous catalysts, such as reactive metallic surfaces. 3,4 
+Dissociation of N2 molecules is usually carried out at high 
+temperature and high pressure because N2 molecules weakly 
+interact with most surfaces below room temperature (RT), and 
+remains physisorbed (i.e. nondissociated). The development of 
+new strategies to dissociate N2 molecule under mild conditions 
+is of critical interest.
+
+
+---
+
+Description:
+Dissociates via hyperthermal collision on metal surfaces.
+
+Text:
+Moleculesurface collisions represent an 
+interesting alternative because these collisional processes 
+induce mechanochemical or electrontransfer reactions that 
+promotes dissociation of reactants at low pressure and low 
+temperature.5 The conversion of kinetic energy into vibrational 
+excitation following the collision of molecules with a surface 
+was mainly investigated for hydrocarbonbased species5ab, 
+even if few examples of the dissociation of N2 using a supersonic 
+molecular beam to overcome the dissociation barrier via an 
+hyperthermal collision were also investigated on metal 
+surfaces.5ef These vibrational excitations can lead to 
+dissociative states of the incident molecules, and result into the 
+adsorption of dissociated fragments.
+
+
+---
+
+Description:
+An inert molecule for which no dissociation study using activated electron transfer on nonmetallic surfaces has been reported.
+
+Text:
+One of the main interests 
+of this mechanochemical reactivity is to be carried out at low 
+pressure, typically in ultrahigh vacuum, which allows the use of 
+scanning probe microscopies to identify the adsorbed products 
+resulting from the collisions. In the case of electrontransfer 
+induced by molecular collision, a recent study showed that CO 
+bond of CO2 molecules can be cleaved by a nonuniform charge 
+transfer from the substrate to CO2 molecules due to the 
+conversion of kinetic energy of incident CO2 molecules into 
+molecular deformation.5i However, no study has been reported 
+for the dissociation of inert molecules like N2 using a similar 
+activated 
+electrontransfer 
+mechanism 
+on 
+nonmetallic 
+surfaces.
+
+
+---
+
+Description:
+An inert molecule whose collisional dissociation is achieved at very low pressure and room temperature on the Si(111)7x7 surface.
+
+Text:
+Here, we demonstrate that the collisional dissociation 
+of N2 is successfully achieved at very low pressure and at room 
+temperature on the Si(111)7x7 surface. The dissociation of N2 
+was investigated by scanning tunnelling microscopy (STM), X
+ray photoelectron spectroscopy (XPS) and density functional 
+theory (DFT) calculations. This is the first report demonstrating 
+that the Si(111)7x7 surface can be used for a facile dissociation 
+of inert molecules, paving the way for the development of new 
+surface chemistry. Results and discussion 
+The choice of the surface plays a crucial role when seeking for 
+an efficient approach to dissociate inert molecule like N2.

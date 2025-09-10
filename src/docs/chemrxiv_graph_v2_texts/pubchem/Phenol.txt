@@ -1,0 +1,39 @@
+Name: Phenol
+Text:
+Phenol is both a manufactured chemical and a natural substance. It is a colorless-to-white solid when pure. The commercial product is a liquid. Phenol has a distinct odor that is sickeningly sweet and tarry. You can taste and smell phenol at levels lower than those that are associated with harmful effects. Phenol evaporates more slowly than water, and a moderate amount can form a solution with water. Phenol can catch fire. Phenol is used primarily in the production of phenolic resins and in the manufacture of nylon and other synthetic fibers. It is also used in slimicides (chemicals that kill bacteria and fungi in slimes), as a disinfectant and antiseptic, and in medicinal preparations such as mouthwash and sore throat lozenges.
+Phenol solution, [aqueous] is a white crystalline mass dissolved in an aqueous solution. Solution may be colorless to slightly pink in color with a distinctive phenol odor; sharp burning taste. Aqueous solution will be acidic and act as such. Toxic by ingestion, inhalation and skin absorption; strong irritant to tissues.
+Phenol, liquid appears as a colorless liquid when pure, otherwise pink or red. Combustible. Flash point 175 °F. Must be heated before ignition may occur easily. Vapors are heavier than air. Corrosive to skin but because of anesthetic qualities will numb rather than burn. Upon contact skin may turn white. May be lethal by skin absorption. Does not react with water. Stable in normal transportation. Reactive with various chemicals and may be corrosive to lead, aluminum and its alloys, certain plastics, and rubber. Freezing point about 105 °F. Density 8.9 lb / gal. Used to make plastics, adhesives and other chemicals.
+Phenol, molten is the white crystalline solid shipped at an elevated temperature to form a semi-solid. It is very hot and may cause burns from contact and also may cause the ignition of combustible materials. It is toxic by ingestion, and inhalation of its fumes, and skin absorption. It may also be very irritating to skin and eyes. It is used to make other chemicals.
+Phenol, solid appears as a solid melting at 110 °F. Colorless if pure, otherwise pink or red. Flash point 175 °F. Density 9.9 lb / gal. Vapors are heavier than air Corrosive to the skin (turning skin white) but because of its anesthetic quality numbs rather than burn. Lethal amounts can be absorbed through the skin. Used to make plastics and adhesives.
+Phenol is an organic hydroxy compound that consists of benzene bearing a single hydroxy substituent. The parent of the class of phenols. It has a role as a disinfectant, an antiseptic drug, a human xenobiotic metabolite and a mouse metabolite. It is a conjugate acid of a phenolate.
+Phenol is an antiseptic and disinfectant. It is active against a wide range of micro-organisms including some fungi and viruses, but is only slowly effective against spores. Phenol has been used to disinfect skin and to relieve itching. Phenol is also used as an oral analgesic or anesthetic in products such as Chloraseptic to treat pharyngitis. Additionally, phenol and its related compounds are used in surgical ingrown toenail treatment, a process termed phenolization. Research indicates that parental exposure to phenol and its related compounds are positively associated with spontaneous abortion. During the second world war, phenol injections were used as a means of execution by the Nazis. Phenol is a toxic compound whose vapours are corrosive to the skin, eyes, and respiratory tract.
+Phenol is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Exposure to phenol may occur from the use of some medicinal products (including throat lozenges and ointments). Phenol is highly irritating to the skin, eyes, and mucous membranes in humans after acute (short-term) inhalation or dermal exposures. Phenol is considered to be quite toxic to humans via oral exposure. Anorexia, progressive weight loss, diarrhea, vertigo, salivation, a dark coloration of the urine, and blood and liver effects have been reported in chronically (long-term) exposed humans. Animal studies have reported reduced fetal body weights, growth retardation, and abnormal development in the offspring of animals exposed to phenol by the oral route. EPA has classified phenol as a Group D, not classifiable as to human carcinogenicity.
+Phenol has been reported in Aspergillus violaceofuscus, Scrophularia buergeriana, and other organisms with data available.
+Phenol is hydroxybenzene; Carbolic Acid. Used as a germicidal agent and as an intermediate in chemical synthesis.  Highly toxic; corrosive to the skin.
+PHENOL is a small molecule drug with a maximum clinical trial phase of IV (across all indications) and has 4 approved and 4 investigational indications.
+Phenol, is a toxic, colourless crystalline solid with a sweet tarry odor that resembles a hospital smell. It is commonly used as an antiseptic and disinfectant. It is active against a wide range of micro-organisms including some fungi and viruses, but is only slowly effective against spores. It has been used to disinfect skin and to relieve itching. Phenol is also used in the preparation of cosmetics including sunscreens, hair dyes, and skin lightening preparations. It is also used in the production of drugs (it is the starting material in the industrial production of aspirin), weedkillers, and synthetic resins. Phenol can be found in areas with high levels of motor traffic, therefore, people living in crowded urban areas are frequently exposed to traffic-derived phenol vapor. The average (mean +/- SD) phenol concentration in urine among normal individuals living in urban areas is 7.4 +/- 2.2 mg/g of creatinine. Exposure of the skin to concentrated phenol solutions causes chemical burns which may be severe; in laboratories where it is used, it is usually recommended that polyethylene glycol solution is kept available for washing off splashes. Notwithstanding the effects of concentrated solutions, it is also used in cosmetic surgery as an exfoliant, to remove layers of dead skin (Wikipedia). In some bacteria phenol can be directly synthesized from tyrosine via the enzyme tyrosine phenol-lyase [EC:4.1.99.2].
+An antiseptic and disinfectant aromatic alcohol.
+See also: Hydroquinone (active moiety of); Chloroxylenol (active moiety of); Phenolate Sodium (is active moiety of) ... View More ...
+Properties:safety: Corrosive and Acute Toxic and Health Hazard
+smiles: C1=CC=C(C=C1)O
+formula: C6H6O
+chem_properties: Molecular Weight: 94.11 g/mol
+XLogP3: 1.5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 94.041864811 Da
+Monoisotopic Mass: 94.041864811 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 46.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

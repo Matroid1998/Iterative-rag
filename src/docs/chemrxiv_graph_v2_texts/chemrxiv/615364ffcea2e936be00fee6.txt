@@ -1,0 +1,12 @@
+Description:
+Involved in the hydrolysis reaction catalyzed by ATPases or motor proteins.
+
+Text:
+Specifically, the dynamics in synthetic examples either result from a 
+change in the overall environment (e.g., by changing pH, ionic 
+strength), thereby irreversibly driving the system into a new global 
+minimum, or, in the case of light, lifts the system to a different energy 
+landscape. Conversely, natural molecular machines, such as ATPases 
+or motor proteins, couple the catalysis of a chemical reaction, e.g., the 
+hydrolysis of nucleotide triphosphates, to their conformational 
+change they incessantly consume fuel to drive their motion30.

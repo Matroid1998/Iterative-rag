@@ -1,0 +1,15 @@
+Description:
+Used as a molecular tag in various messenger-tagging methods.
+
+Text:
+Infrared (IR) spectroscopy is one of the important physicochemical methods in the chemists arsenal.1 This spec
+troscopic technique observes intra and intermolecular vibrational motions, as their resonant excitation energies lie
+in the IR region, i.e., approximately from 100 to 104 cm1 (wavelengths from 0.1 mm to 780 nm).1, 2 In addition
+to simple absorptionemission IR spectroscopy,3 there are other techniques, such as vibrational circular dichroism
+(VCD), which is sensitive to molecular chirality,4, 5 vibrational Raman spectroscopy,6 inelastic neutron scatter
+ing (INS),68 infraredultraviolet (IRUV) ion dip spectroscopy,9 infrared multiple photon dissociation (IRMPD)
+spectroscopy,1014 various messengertagging methods (such as helium, nitrogen, or hydrogen molecular tag),1520
+that allow measuring spectra of ions, and vibrational sum frequency generation (VSFG) spectroscopy, that allows
+to probe molecular motions at the phase interfaces.21, 22 All these vibrational spectroscopy methods allow us to
+inspect the properties of molecules, ions, and molecular aggregates in the gas, liquid, and solid phases and at the
+interfaces between phases.

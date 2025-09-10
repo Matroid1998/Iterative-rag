@@ -1,0 +1,13 @@
+Description:
+Used as a component in electrolytes.
+
+Text:
+Here, it is investigated if there is a more systematic correlation between lithium
+concentration in the electrolyte and the observed T1 relaxation time constant in the
+solid using a concentration series of the electrolyte salt. The observed results are
+modeled using a simple twophase equilibrium for lithium, the limits of this model are
+discussed, and an approach for a more quantitative model is suggested. 2 Sample and Experiment Details
+All preparation steps were done in a glove box with argon atmosphere. For each
+experiment a Youngtype NMR tube was filled with 100 mg of nanoLTO powder
+from SigmaAldrich, and 1.5 mL of an electrolyte was added. Electrolytes con
+sisted of dimethylcarbonate (DMC) and lithium bis(trifluoromethanesulfonyl)imide.

@@ -1,0 +1,24 @@
+Description:
+The most common types of plastics, made entirely of inert C-C single bonds.
+
+Text:
+The soaring, largescale production of singleuse plastics creates huge amount of non
+degradable waste that severely threats the environment.1, 2 The inefficacy of existing approaches 
+for plastic waste processing, such as recycling and incineration,3 leads to the demands for chemical 
+routes that upcycle plastics into valuable chemicals. Besides environmental benefits, upcycling 
+plastics also compensates for the oil consumption by their production4 through circular economy. Polyolefins, including polypropylene (PP) and polyethylene (PE), are the most common types of 
+plastics, making up  50 of the annual production,3 and also the most difficult to convert because 
+they are entirely made of inert CC single bonds. As a result, the upcycling of polyolefins requires 
+either high temperature in pyrolysis,57 which causes high energy consumption and low selectivity, 
+or effective catalytic processes.
+
+
+---
+
+Description:
+Substrates that often behave very differently from small alkanes.
+
+Text:
+Despite initial success, the catalyst development for both routes is at a very preliminary 
+stage. Meanwhile, polyolefins substrates often behave very differently from small alkanes,1214 and 
+fundamental understanding specific to them is lacking. For hydrogenolysis, most studies used

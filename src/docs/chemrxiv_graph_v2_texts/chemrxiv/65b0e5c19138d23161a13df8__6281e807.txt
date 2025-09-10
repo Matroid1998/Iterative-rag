@@ -1,0 +1,30 @@
+Description:
+N-type organic compounds showing promising performance in monovalent and divalent metal-ion batteries.
+
+Text:
+The rise of intermittent energy technologies (solar and wind) demands sustainable energy 
+storage devices based on earthabundant elements, improved cycle life, and higher energy 
+density with environmental benignity.1 This motivated the development of sodiumion batteries 
+(SIBs) due to their potentially low cost and the large natural abundance of Na (by 23 orders 
+of magnitude more than Li).2,3 In the quest for more efficient and sustainable energy storage 
+technologies, organic electrode materials have come into focus as a potentially greener 
+alternative to transition metal oxides (TMOs) and polyanions, such as NaxMy(XO4)n (X  S, P, 
+Si, As, Mo, and W).4 As analogs to TMOs and metal cationinserting materials, ntype organic 
+compounds such as quinones,5 imides,6 carboxylates,7,8 and polymeric Schiff9 bases have 
+shown promising performance both in monovalent4,8,1012 and divalent13 metalion batteries.
+
+
+---
+
+Description:
+Macrocyclic quinones possess a cavity and intrinsic porosity, improving ion diffusion in the electrode.
+
+Text:
+Their structures are adjustable and their electrochemical properties are tunable, they can have a 
+high energy density and long cycling stability, and the solidstate diffusion of ions is not 
+relevant in their performance. Among the quinonebased redoxactive organic electrode 
+materials, pillarquinones and calixquinones are particularly attractive due to their high 
+theoretical specific capacity (446 mAh g1) and ease of synthesis.5 Each parabenzoquinone 
+panel in these macrocycles can be reduced by up to two electrons with concurrent uptake of 
+metal cations from the electrolyte. In addition, these macrocyclic quinones possess a cavity and 
+thus have intrinsic porosity, which can improve ion diffusion in the electrode.

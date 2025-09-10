@@ -1,0 +1,35 @@
+Name: Retinol
+Text:
+Vitamin a appears as yellow crystals or orange solid. Practically water insoluble. (NTP, 1992)
+All-trans-retinol is a retinol in which all four exocyclic double bonds have E- (trans-) geometry. It has a role as a human metabolite, a mouse metabolite and a plant metabolite. It is a retinol and a vitamin A.
+Retinol and derivatives of retinol that play an essential role in metabolic functioning of the retina, the growth of and differentiation of epithelial tissue, the growth of bone, reproduction, and the immune response. Dietary vitamin A is derived from a variety of carotenoids found in plants. It is enriched in the liver, egg yolks, and the fat component of dairy products.
+Retinol is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Retinol has been reported in Glycine max, Artemia salina, and other organisms with data available.
+Retinol is the fat soluble vitamin retinol. Vitamin A binds to and activates retinoid receptors (RARs), thereby inducing cell differentiation and apoptosis of some cancer cell types and inhibiting carcinogenesis. Vitamin A plays an essential role in many physiologic processes, including proper functioning of the retina, growth and differentiation of target tissues, proper functioning of the reproductive organs, and modulation of immune function.
+Vitamin A Compound is a compound containing vitamin A, a natural, fat-soluble vitamin that plays a vital role in a variety of physiologic processes including immune function, vision, reproduction, and cellular growth and differentiation. Upon administration, the various forms of vitamin A are solubilized into micelles in the intestinal lumen and absorbed by duodenal mucosal cells.
+RETINOL is a small molecule drug with a maximum clinical trial phase of IV (across all indications) and has 3 approved and 16 investigational indications.
+Vitamin A (retinol) is a yellow fat-soluble, antioxidant vitamin important in vision and bone growth. It belongs to the family of chemical compounds known as retinoids. Retinol is ingested in a precursor form; animal sources (milk and eggs) contain retinyl esters, whereas plants (carrots, spinach) contain pro-vitamin A carotenoids. Hydrolysis of retinyl esters results in retinol while pro-vitamin A carotenoids can be cleaved to produce retinal. Retinal, also known as retinaldehyde, can be reversibly reduced to produce retinol or it can be irreversibly oxidized to produce retinoic acid. Retinol and derivatives of retinol that play an essential role in metabolic functioning of the retina, the growth of and differentiation of epithelial tissue, the growth of bone, reproduction, and the immune response. Dietary vitamin A is derived from a variety of carotenoids found in plants. It is enriched in the liver, egg yolks, and the fat component of dairy products.
+Retinol and derivatives of retinol that play an essential role in metabolic functioning of the retina, the growth of and differentiation of epithelial tissue, the growth of bone, reproduction, and the immune response. Dietary vitamin A is derived from a variety of CAROTENOIDS found in plants. It is enriched in the liver, egg yolks, and the fat component of dairy products.
+See also: Vitamin A Palmitate (annotation moved to).
+Properties:safety: Irritant and Health Hazard
+smiles: CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/CO)/C)/C
+formula: C20H30O
+chem_properties: Molecular Weight: 286.5 g/mol
+XLogP3: 5.7
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 5
+Exact Mass: 286.229665576 Da
+Monoisotopic Mass: 286.229665576 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 21
+Formal Charge: 0
+Complexity: 496
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 4
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

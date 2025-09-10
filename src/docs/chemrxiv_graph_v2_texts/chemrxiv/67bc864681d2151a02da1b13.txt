@@ -1,0 +1,14 @@
+Description:
+An electrolyte for which the Pitzer and Bromley approaches fail to describe activity coefficients.
+
+Text:
+Fried
+man, Pitzer and coworkers extended the description to more complex electrolyte
+mixtures such as seawater.14 A special issue of the Journal of Fluid Phase
+Equilibria15 celebrates the 100th anniversary of the findings by Debye and Huckel
+and provides a summary of recent developments on the topic. In that issue Simonin
+and Bernard16 compare several simple activity models including DebyeHuckel,
+the mean spherical approximation and the Pitzer approach. Earlier, Khan et al.17
+compared four physical descriptions of ln . While the Pitzer and Bromley ap
+proaches describe the activity coefficients of the 11 electrolytes well, the methods
+fail for several important 12 electrolytes such as CaCl2 and MgCl2.

@@ -1,0 +1,25 @@
+Name: Scandium triflate
+Text:
+Slotoxin is a peptide from Centruroides noxius Hoffmann scorpion venom. It belongs to the short scorpion toxin superfamily. Slotoxin reversibly blocks the high conductance calcium-activated potassium channels composed of only ‘±-subunits (Kd = 1.5 nM). Unreversibly blocks the high conductance calcium-activated potassium channels composed of ‘±- and beta1-subunits. Unreversibly and weakly blocks the high conductance calcium-activated potassium channels composed of ‘±- and beta4-subunits. It shows no activity on other potassium channels.
+See also: Slotoxin (annotation moved to).
+Properties:safety: Irritant
+smiles: C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Sc+3]
+formula: C3F9O9S3Sc
+chem_properties: Molecular Weight: 492.2 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 18
+Rotatable Bond Count: 0
+Exact Mass: 491.811981 Da
+Monoisotopic Mass: 491.811981 Da
+Topological Polar Surface Area: 197
+Heavy Atom Count: 25
+Formal Charge: 0
+Complexity: 145
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 4
+Compound Is Canonicalized: Yes 
+

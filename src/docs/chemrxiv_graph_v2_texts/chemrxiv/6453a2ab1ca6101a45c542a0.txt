@@ -1,0 +1,12 @@
+Description:
+A compound that undergoes functionalization in electrochemical transformations.
+
+Text:
+Over the past decade, organic electrosynthesis has emerged as a transformative platform for sustainable molecular 
+synthesis enabling electric current as a sustainable alternative to stoichiometric amounts of chemical redox 
+reagents.1 Thus, diverse electrochemical transformations have been developed, such as radical cyclization,2 cross
+coupling reactions,3 olefin functionalization,4 and CH activation.5 Despite indisputable advances, achieving 
+full selectivity control in terms of enantioselective electrosynthesis continues to be challenging. Recently, 
+stereocontrol strategies including transition metal catalysis, organocatalysis, and enzymatic catalysis have been 
+gradually applied to this area.6 Although systems of enantioselective electrocatalysis are described,7,8 its 
+application to the synthesis of axially chiral compounds,9 especially with CN axial chirality,10 is in its infancy. This might be attributed to the major challenges associated with atroposelective manifolds, including a) the poor

@@ -1,0 +1,20 @@
+Description:
+React with 1,2,4,5tetrazines in bioorthogonal chemistry for fast and efficient ligation.
+
+Text:
+Bioorthogonal chemistry has revolutionized the field of chemical 
+biology by offering unparalleled precision in initiating and 
+controlling molecular transformations within complex biological 
+matrices.1 Among the most impactful of these methods is the 
+inverse electron demand DielsAlder (IEDDA)initiated reaction 
+between 1,2,4,5tetrazines (Tz) and transcyclooctenes (TCO, 
+Fig. 1a).2 Due to its exceptional reaction kinetics, TzTCO click 
+chemistry facilitates fast and efficient ligation even at minimal 
+reactant concentrations, making it indispensable for time
+sensitive in vivo applications.3 
+Over the last decade, the scope of bioorthogonal chemistry has 
+broadened significantly to encompass not only ligation reactions 
+but also innovative strategies for bondcleavage.4 This concept 
+has seen substantial development, providing reactions to trigger 
+the controlled release and activation of therapeutics in targeted 
+locations.

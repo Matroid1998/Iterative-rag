@@ -1,0 +1,25 @@
+Name: Triphenylmethane
+Text:
+Triphenylmethane is a triarylmethane in which the three aryl groups are phenyl. It forms the basic skeleton of several synthetic dyes. It has a role as a xenobiotic and an environmental contaminant.
+Properties:safety: Irritant
+smiles: C1=CC=C(C=C1)C(C2=CC=CC=C2)C3=CC=CC=C3
+formula: C19H16
+chem_properties: Molecular Weight: 244.3 g/mol
+XLogP3: 5.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 3
+Exact Mass: 244.125200510 Da
+Monoisotopic Mass: 244.125200510 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 19
+Formal Charge: 0
+Complexity: 196
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

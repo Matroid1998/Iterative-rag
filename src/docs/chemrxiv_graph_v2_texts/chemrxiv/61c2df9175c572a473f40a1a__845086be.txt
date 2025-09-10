@@ -1,0 +1,11 @@
+Description:
+Investigated as a bimetallic alloy to improve catalytic activity of Pt catalysts.
+
+Text:
+Pt and Ptbased alloys have demonstrated catalytic responses for AOR1014. Katan and 
+Galiotto evaluated Pt black for anodic AOR, where they observed the current efficiency of nearly 
+100  for N2 production10. VidalIglesias et al. analyzed structure sensitivity of polycrystalline 
+Pt12, where they found that Pt (100) facet showed strong NH3 oxidation peak at 0.57 VRHE, while 
+relatively small oxidation peaks were observed at potentials higher than 0.8 VRHE and lower than 
+0.6 VRHE for (110) and (111), respectively. To further improve the catalytic activity of Pt 
+catalysts, Vitse et al. investigated bimetallic alloys of PtIr and PtRu,13 where they observed a

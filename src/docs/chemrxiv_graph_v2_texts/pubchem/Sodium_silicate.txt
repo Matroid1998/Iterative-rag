@@ -1,0 +1,26 @@
+Name: Sodium silicate
+Text:
+Sodium silicate appears as a powdered or flaked solid substance. Strong irritant to skin, eyes, and mucous membranes. May be toxic by ingestion. Concentrated aqueous solutions used as a glue.
+Sodium silicate is an inorganic sodium salt having silicate as the counterion. It contains a silicate ion.
+See also: sodium metasilicate (anhydrous) (annotation moved to).
+Properties:safety: Corrosive and Irritant
+smiles: [O-][Si](=O)[O-].[Na+].[Na+]
+formula: Na2O3Si
+chem_properties: Molecular Weight: 122.063 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 121.94120896 Da
+Monoisotopic Mass: 121.94120896 Da
+Topological Polar Surface Area: 63.2
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 18.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

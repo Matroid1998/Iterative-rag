@@ -1,0 +1,13 @@
+Description:
+Has a van der Waals radius that contributes to a separation distance of 3.4 Å when stacked in conjugated molecules.
+
+Text:
+Over the past few decades, many studies have been conducted on conjugated molecules, which 
+have unique electronic properties based on an effective electron delocalization.1,2 Since conjugated 
+molecules with rigid and planar structures, in general, have porbitals overhanging perpendicular to the 
+molecular plane, stacking of two or more molecular planes can affect the molecular orbitals themselves, 
+leading to significant changes in physical properties such as absorption properties.3,4 Therefore, when 
+two conjugated units are close to a separation distance of 3.4  (the sum of van der Waals (vdW) radii 
+of carbon atoms) or less by a stacked structure that can induce an interaction between their molecular 
+orbitals by forming new orbitals through linear combination of the components, it is expected that they 
+could exhibit unprecedented properties that are not seen with monomeric conjugated units.

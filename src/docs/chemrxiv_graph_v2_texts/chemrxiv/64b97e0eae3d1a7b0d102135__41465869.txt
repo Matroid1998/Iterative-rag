@@ -1,0 +1,24 @@
+Description:
+Salts with a common structure of N2ArylR, used as surface modifiers due to their simplicity of functionalization and characterization.
+
+Text:
+MoS2, which is similar to graphene in terms of structure, is a layered transition metal 
+dichalcogenide (TMD). Compared to some other TMDs, MoS2 is naturally abundant and 
+relatively cheap and thus has attracted increasing attention 1. It has been widely 
+investigated for applications in electronics, photonics, sensing, energy storage etc. 2. Exfoliated MoS2 can be obtained through mechanical exfoliation, liquid phase exfoliation, 
+electrochemical exfoliation, and chemical exfoliation 36. Aryl diazonium salts, which have a common structure of N2ArylR, stand out as surface 
+modifiers due to their simplicity of functionalization and characterization. In addition, R 
+can be replaced by other type of functional groups according to the desired application. They are therefore widely used to modify the surfaces of materials for sensors, electrodes, 
+catalysts and others 7, 8.
+
+
+---
+
+Description:
+Salts used for the functionalization of MoS2.
+
+Text:
+reported functionalization of MoS2 for 
+applications in HER by firstly changing the phase of MoS2 from 2H to 1T through chemical 
+exfoliation using nbutyllithium, followed by a functionalisation with aryl diazonium salts 
+httpsdoi.org10.26434chemrxiv2023vz994v2 ORCID httpsorcid.org0000000289087960 Content not peerreviewed by ChemRxiv. License CC BY 4.0

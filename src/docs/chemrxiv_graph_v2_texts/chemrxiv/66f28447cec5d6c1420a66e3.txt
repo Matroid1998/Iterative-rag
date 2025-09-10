@@ -1,0 +1,18 @@
+Description:
+Participates in hydrogenation reactions requiring dynamic simulation models.
+
+Text:
+However, we have already shown that 
+conventional kinetics, derived under steadystate conditions, may 
+fail to describe the CO hydrogenation under transient 
+conditions.10 Hence, transient kinetic models have to be 
+developed, which consider processes such as addesorption 
+steps or surface reactions.9,11 Microkinetic models, which take 
+precisely these aspects into account, have already been used for 
+the simulation of dynamic CO and CO2 hydrogenation. However, 
+these models require profound knowledge of the underlying 
+reaction mechanism and sufficient experimental data for model 
+parameterization.1114 
+For this purpose, sophisticated transient experimental methods 
+are necessary, which carry respective information on the 
+dynamics of the involved reactions.

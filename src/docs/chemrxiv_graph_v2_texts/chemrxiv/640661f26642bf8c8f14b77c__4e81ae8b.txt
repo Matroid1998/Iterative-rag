@@ -1,0 +1,15 @@
+Description:
+A residue in HS that can bear a 3Osulfo or 6Osulfo group, cleaved by HPSE.
+
+Text:
+HPSE is the only known enzyme that cleaves the internal 
+glycosidic bond between a glucuronic acid (GlcUA) residue and an Nsulfoglucosamine 
+(GlcN(NS)) residue bearing a 3Osulfo or a 6Osulfo group 7. HS is a series of 
+repeating disaccharides consisting of specific patterns of glucuronic acid and D
+glucosamine that have been Nsulfated or Nacetylated, allowing HPSE to recognize 
+and cleave. By releasing active carbohydrate framents by cleaving HS, HPSE changes 
+the functionality of HSPGs, leads to ECM remodeling, and impacts downstream 
+pathways activated by free HS. HPSE plays an essential role in cancer development, 
+and has been suggested to be a potent driver of all hallmarks of cancers 8. The elevated 
+activity of HPSE is also reported in various inflammatory diseases, autoimmune 
+disorders 9.

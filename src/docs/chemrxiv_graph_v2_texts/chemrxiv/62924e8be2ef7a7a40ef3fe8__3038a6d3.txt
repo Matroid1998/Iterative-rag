@@ -1,0 +1,26 @@
+Description:
+An abundant element in the earth's crust, used in sodium-ion batteries.
+
+Text:
+One of the efficient ways to store energy is through electrochemical cells, and among
+various choices, rechargeable lithiumion batteries (LIBs) are at the forefront due to their high
+energy efficiency and low maintenance cost.25 However, the major drawback of LIBs is the
+unequal distribution of their raw materials over the globe and the limited availability of lithium in
+the earths crust, leading to geopolitical tensions. While there are several alternatives to LIBs,612 sodiumion batteries (NIBs) have gained
+considerable attention since sodium is abundant in the earths crust (sixth most abundant
+element).
+
+
+---
+
+Description:
+Has a reduction potential of 2.71 V.
+
+Text:
+Its resources are distributed nearly equally throughout the world, and it has a lower
+cost of extraction.13 Further, since Li and Na are located in the same group of the periodic table
+and since they both possess only one electron in their valence shell, it is expected that the
+nature of the electrochemical halfcell reactions would be the same. Also, the reduction potential
+of sodium is just 0.33 V above the lithium (E0
+NaNa  2.71 V and E0
+LiLi  3.04 V).

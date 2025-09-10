@@ -1,0 +1,16 @@
+Description:
+A material that can be doped with phosphorus to alter its electronic properties.
+
+Text:
+Point defects are used to control a variety of electronic and optical
+properties of materials, in which the concept of a charge state
+of a defect is oftentimes useful. The charge state of a defect is
+the relative charge that is localized at the defect site. Analogous
+to KrgerVink notation,1 we say that the defect has a negative
+charge state when additional electrons are localized at the defect
+site (i.e., an acceptor), a positive charge state when electrons are
+delocalized from the defect site (i.e., a donor), and a neutral 0
+charge state otherwise. In phosphorusdoped silicon for example,
+it is typically understood that a P dopant (5 valence e) donates
+an electron to the electron reservoir when substituting for Si (4
+valence e).

@@ -1,0 +1,41 @@
+Description:
+The positively charged side chain is an important interaction partner in binding to other proteins, nucleic acids, or small molecules.
+
+Text:
+The positively charged 
+arginine side chain is an important interaction partner in the 
+binding to other proteins, nucleic acids or small molecules.2024 
+The guanidinium moiety of arginine contributes to cation and 
+ interactions, contains up to five hydrogen bond donors and is 
+frequently involved in stabilizing salt bridges.25,26 Unlike other 
+positively charged residues, such as lysine or histidine, arginine 
+retains its ionized state even in the hydrophobic core of folded 
+proteins under all biologically relevant pH values due to the 
+stabilizing mesomeric effect of the guanidinium group.27,28 Fast 
+solventhydrogen exchange and the resulting line broadening 
+often impedes the application of routine 1H15N HSQC spectra 
+when probing the arginine side chain.20,21,29 Unlike in the case of 
+many aliphatic (Ile, Leu, Val)18,19 or aromatic residues (Phe, Tyr, 
+Trp),17,30,31 the bacterial biosynthesis of arginine features no 
+direct ketoacid precursor.32 Therefore, adding a more simple, 
+achiral labelled compound from the biosynthetic pathway to the 
+medium of a bacterial overexpression system for selective 
+labelling of the target amino acid is not possible.
+
+
+---
+
+Description:
+An amino acid used in the overexpression of the model protein ubiquitin.
+
+Text:
+We implemented a synthetic route to access 13C2H15N 
+arginine 12 (Figure 1). To investigate the incorporation efficiency, 
+we used this isotopelabelled Arg in the E. coli based 
+overexpression of the model protein ubiquitin. Moreover, we 
+showed the utility of our approach by studying the interaction of 
+ubiquitin and the third Src homology 3 domain (SH3) of the 
+cytoskeletal protein binding domain Sla1.33 Our method is a 
+general approach to explore, for example, dynamics and 
+interaction of arginine side chains, taking advantage of well
+resolved 1H13C or 13C15N correlations in future studies.

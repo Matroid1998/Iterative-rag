@@ -1,0 +1,17 @@
+Description:
+Conducts in solid electrolytes Na1xZr2Px Si3xO12 as a function of content and temperature.
+
+Text:
+Notably, Deng et al.28
+used kMC to estimate the conductivity of Na in solid elec
+trolytes Na1xZr2Px Si3xO12, as a function of Na content and
+temperature, eventually sampling a vast compositional, spa
+tial, and temporal scale. kMC can also be used to examine the
+structural evolution of nanoparticles as well, as demonstrated
+by Li et al.35. kMC is based on a stochastic algorithm which randomly
+samples various microstates of a given system, utilizing the
+ergodic principle to arrive at statisticallyaveraged transport
+properties. Thus, the chief advantage of kMC over MD is the
+ability of kMC to access long timescales (ms) and large
+lengthscales (m) compared to what is usually possible in
+MD (s, nm)40.

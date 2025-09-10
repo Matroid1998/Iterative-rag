@@ -1,0 +1,27 @@
+Name: Benzamide
+Text:
+Benzamide is a white powder. (NTP, 1992)
+Benzamide is an aromatic amide that consists of benzene bearing a single carboxamido substituent. The parent of the class of benzamides.
+Benzamide has been reported in Streptomyces, Colchicum autumnale, and other organisms with data available.
+Properties:safety: Irritant and Health Hazard
+smiles: C1=CC=C(C=C1)C(=O)N
+formula: C7H7NO
+chem_properties: Molecular Weight: 121.14 g/mol
+XLogP3: 0.6
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 1
+Exact Mass: 121.052763847 Da
+Monoisotopic Mass: 121.052763847 Da
+Topological Polar Surface Area: 43.1
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 105
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

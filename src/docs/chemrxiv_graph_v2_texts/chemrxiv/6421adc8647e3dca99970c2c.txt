@@ -1,0 +1,16 @@
+Description:
+An element in the carboxylate anion that can form hydrogen bonds with the thiol group.
+
+Text:
+Figure 1 Molecular structure of the lcysteine zwitterion
+O
+O
+NH
+3
+SH
+A low temperature study (30 K) of Form I5 showed that the thiol group is ordered with regular S
+H...S bonds and a NCCS gauche (g) dihedral angle of 70.6. However, a neutron diffraction
+study at room temperature3 showed disorder in the Form I lattice that can be modelled as
+either involving just the thiol hydrogens or modelled using both sulfur and hydrogen atoms. The disorder arises because the hydrogen of the thiol group can form a hydrogen bond with
+either another thiol group (as in the Form I 30 K crystal structure) or with an oxygen of the
+carboxylate anion as shown in Figure 2.

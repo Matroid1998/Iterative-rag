@@ -1,0 +1,19 @@
+Description:
+The simplest representative of arynes, known for its highly reactive and short-lived nature.
+
+Text:
+Arynes are highly reactive, shortlived intermediates that can 
+undergo a variety of chemical transformations.1 The simplest 
+representative is 1,2didehydrobenzene also known as benzyne 
+(figure 1). The central structural motif of arynes is a bent triple
+bond that is part of a strained aromatic (poly)cycle.2,3 This 
+special bonding situation results in a lowenergy LUMO,4 
+leading to significant electrophilic reactivity.5 Consequently, 
+arynes are captured efficiently by arynophiles in diverse 
+reactions, like nucleophilic additions, pericyclic reactions, 
+insertions or multicomponent processes.6 Due to this broad 
+applicability, arynebased transformations are a powerful toolbox 
+in chemical synthesis, underlined by their use in complex 
+synthetic sequences towards natural products.7,8 
+Figure 1. Aryne generation relying on Kobayashis approach. Because of their high reactivity and short lifetime, 9 arynes are 
+commonly generated in situ from stable precursors.

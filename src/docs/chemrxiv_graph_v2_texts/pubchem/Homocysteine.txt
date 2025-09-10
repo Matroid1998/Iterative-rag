@@ -1,0 +1,31 @@
+Name: Homocysteine
+Text:
+L-homocysteine is a homocysteine that has L configuration. It has a role as a mouse metabolite. It is a homocysteine and a serine family amino acid. It is a conjugate acid of a L-homocysteinate. It is a tautomer of a L-homocysteine zwitterion.
+Homocysteine is a thiol-containing amino acid formed by a demethylation of methionine.
+L-Homocysteine is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Homocysteine is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+L-Homocysteine has been reported in Homo sapiens and Caenorhabditis elegans with data available.
+Homocysteine is an amino acid derivative and homolog of cysteine containing an additional methylene bridge. Homocysteine is a product of methionine metabolism and elevated plasma levels are associated with cardiovascular disease, Alzheimer disease and several metabolic diseases.
+A thiol-containing amino acid formed by a demethylation of METHIONINE.
+Properties:safety: Irritant
+smiles: C(CS)[C@@H](C(=O)O)N
+formula: C4H9NO2S
+chem_properties: Molecular Weight: 135.19 g/mol
+XLogP3: -3.4
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 3
+Exact Mass: 135.03539970 Da
+Monoisotopic Mass: 135.03539970 Da
+Topological Polar Surface Area: 64.3
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 86.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

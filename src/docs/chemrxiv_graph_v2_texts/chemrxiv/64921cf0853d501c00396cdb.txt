@@ -1,0 +1,12 @@
+Description:
+A small molecule probe used in mapping protein surfaces.
+
+Text:
+There exist various computational methods to enable cryptic site dis
+covery,15 One common approach is probe mapping.3,57 Briey, this technique maps small
+molecule probes (e.g. benzene, phenol, methane) to the entire surface of a given protein target. Sites with a variety of probes are binding hot spots, or regions of the surface with major con
+tributions to the ligand binding free energy.8 While this method enables relatively fast cryptic
+site discovery, uncovering smallmolecules that bind to the identied site in a highthroughput
+manner remains a problem. Virtual screening aims to speed up the drug discovery process by computationally searching
+through a library of potential organic molecules in order to identify a number of hits that can
+be tested in the laboratory for their activity against the desired target.

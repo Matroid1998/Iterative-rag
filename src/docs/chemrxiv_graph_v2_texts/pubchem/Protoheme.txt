@@ -1,0 +1,29 @@
+Name: Protoheme
+Text:
+Hemin (trade name Panhematin) is an iron-containing porphyrin. More specifically, it is protoporphyrin IX containing a ferric iron ion (heme B) with a chloride ligand.
+Heme is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Heme is a metabolite found in or produced by Saccharomyces cerevisiae.
+Protoheme IX is a metabolite found in or produced by Saccharomyces cerevisiae.
+The color-furnishing portion of hemoglobin. It is found free in tissues and as the prosthetic group in many hemeproteins.
+See also:  ... View More ...
+Properties:safety: Irritant and Health Hazard
+smiles: CC1=C(C2=CC3=C(C(=C([N-]3)C=C4C(=C(C(=N4)C=C5C(=C(C(=N5)C=C1[N-]2)C)C=C)C)C=C)C)CCC(=O)O)CCC(=O)O.[Fe+2]
+formula: C34H32FeN4O4
+chem_properties: Molecular Weight: 616.5 g/mol
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 8
+Exact Mass: 616.177291 Da
+Monoisotopic Mass: 616.177291 Da
+Topological Polar Surface Area: 102
+Heavy Atom Count: 43
+Formal Charge: 0
+Complexity: 1010
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

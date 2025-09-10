@@ -1,0 +1,9 @@
+Description:
+Undergoes oxidation to its corresponding aldehyde using TEMPOpolyCAT.
+
+Text:
+TEMPOpolyCAT shows significantly broadened peaks compared to TEMPOCL, indicative of strong spinspin interactions 
+resulting from spatially localized TEMPO molecules. d, The oxidation of 3phenyl1propanol (1) to its corresponding aldehyde (2) using 
+TEMPOpolyCAT. e, Comparison of the rate of oxidation of TEMPOCL free in solution (black) and TEMPOpolyCAT gel (red). f, 
+Cycling of the oxidation using TEMPOpolyCAT. Conversions are calculated based on 1H NMR integration vs. an internal standard. g, 
+Deswelling, storage, and swelling of the material does not diminish the catalytic activity.

@@ -1,0 +1,26 @@
+Name: Phosphorus oxychloride
+Text:
+Phosphorus oxychloride appears as a colorless fuming liquid with a pungent odor. Density 14.0 lb / gal. Very toxic by inhalation and corrosive to metals and tissue. Used in gasoline additives and hydraulic fluids.
+Phosphoryl trichloride is a phosphorus coordination entity.
+Properties:safety: Corrosive and Acute Toxic and Health Hazard
+smiles: O=P(Cl)(Cl)Cl
+formula: Cl3OP
+chem_properties: Molecular Weight: 153.33 g/mol
+XLogP3: 1.7
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 151.875235 Da
+Monoisotopic Mass: 151.875235 Da
+Topological Polar Surface Area: 17.1
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 53
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,14 @@
+Description:
+A transparent conductive oxide used in optical applications.
+
+Text:
+In addition to being electrically conductive, some oxides are also 
+transparent, and so they are called Transparent Conductive Oxides (TCOs).11 This 
+makes them particularly useful in optical applications.12 Some TCOs such as AlZnO, 
+FSnO2 (FTO) and SnIn2O3 (ITO) have been recently used as conductive oxides in 
+transparent PZTbased piezoelectrics.1316 High transmittance values can been 
+achieved but, depending on thickness and orientation, the formation of large 
+ferroelectric domains might lead to optical dispersion. One successful way to 
+improve the transparency is by AC cyclical poling.17 Another way is to reduce the 
+size of the crystallites, which makes them invisible to visible wavelengths. Unfortunately, the last option might cause a decrease in the remnant Pr of 
+conventional ferroelectrics.

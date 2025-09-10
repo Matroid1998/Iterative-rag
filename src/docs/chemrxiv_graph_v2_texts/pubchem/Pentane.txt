@@ -1,0 +1,33 @@
+Name: Pentane
+Text:
+N-pentane appears as a clear colorless liquid with a petroleum-like odor. Flash point 57 °F. Boiling point 97 °F. Less dense than water and insoluble in water. Hence floats on water. Vapors are heavier than air.
+Pentane is a straight chain alkane consisting of 5 carbon atoms. It has a role as a non-polar solvent and a refrigerant. It is a volatile organic compound and an alkane.
+Pentane has been reported in Calendula officinalis and Allium ampeloprasum with data available.
+Pentane is found in alcoholic beverages. Pentane is present in hop oil.Pentane is any or one of the organic compounds with the formula C5H12. This alkane is a component of some fuels and is employed as a specialty solvent in the laboratory. Its properties are very similar to those of butane and hexane. It exists in three structural isomers, the branched isomers are called isopentane and neopentane. Pentane is one of the primary blowing agents used in the production of polystyrene foam.
+
+Pentane has been shown to exhibit radical scavenger function (A7839).
+
+Pentane belongs to the family of Acyclic Alkanes. These are acyclic hydrocarbons consisting only of n carbon atoms and m hydrogen atoms where m=2*n + 2.
+See also: Alkanes, C4-5 (annotation moved to); Hydrocarbons, C4-6, C5-rich (annotation moved to); Hydrocarbons, C5-rich (annotation moved to) ... View More ...
+Properties:safety: Flammable and Irritant and Health Hazard and Environmental Hazard
+smiles: CCCCC
+formula: C5H12
+chem_properties: Molecular Weight: 72.15 g/mol
+XLogP3: 3.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 2
+Exact Mass: 72.093900383 Da
+Monoisotopic Mass: 72.093900383 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 7.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

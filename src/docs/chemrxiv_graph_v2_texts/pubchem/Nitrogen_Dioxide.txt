@@ -1,0 +1,27 @@
+Name: Nitrogen Dioxide
+Text:
+Nitrogen dioxide appears as a reddish brown gas or yellowish-brown liquid when cooled or compressed. Shipped as a liquefied gas under own vapor pressure. Vapors are heavier than air. Toxic by inhalation (vapor) and skin absorption. Noncombustible, but accelerates the burning of combustible materials. Cylinders and ton containers may not be equipped with a safety relief device.
+Nitrogen Dioxide is found in the atmosphere as a key ingredient in photochemical formation of smog and acid rain, Nitrogen Dioxide is a poisonous gas that forms during combustion. Toxic at high concentrations, it reacts with moisture in the air to form nitric acid, highly corrosive and hazardous to plants and animals. (NCI04)
+Nitrogen oxide (NO2). A highly poisonous gas. Exposure produces inflammation of lungs that may only cause slight pain or pass unnoticed, but resulting edema several days later may cause death. (From Merck, 11th ed) It is a major atmospheric pollutant that is able to absorb UV light that does not reach the earth's surface.
+Properties:safety: Oxidizer and Compressed Gas and Corrosive and Acute Toxic
+smiles: N(=O)[O]
+formula: NO2
+chem_properties: Molecular Weight: 46.006 g/mol
+XLogP3: -0.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 45.992903243 Da
+Monoisotopic Mass: 45.992903243 Da
+Topological Polar Surface Area: 30.4
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 7.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

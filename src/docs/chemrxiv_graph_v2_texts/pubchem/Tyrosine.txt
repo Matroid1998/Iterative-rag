@@ -1,0 +1,33 @@
+Name: Tyrosine
+Text:
+L-tyrosine is an optically active form of tyrosine having L-configuration. It has a role as an EC 1.3.1.43 (arogenate dehydrogenase) inhibitor, a nutraceutical, a micronutrient and a fundamental metabolite. It is an erythrose 4-phosphate/phosphoenolpyruvate family amino acid, a proteinogenic amino acid, a tyrosine and a L-alpha-amino acid. It is functionally related to a L-tyrosinal. It is a conjugate base of a L-tyrosinium. It is a conjugate acid of a L-tyrosinate(1-). It is an enantiomer of a D-tyrosine. It is a tautomer of a L-tyrosine zwitterion.
+Tyrosine is a non-essential amino acid. In animals it is synthesized from [phenylalanine]. It is also the precursor of [epinephrine], thyroid hormones, and melanin.
+L-Tyrosine is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Tyrosine has been reported in Pinus densiflora, Cyperus aromaticus, and other organisms with data available.
+L-Tyrosine is the levorotatory isomer of the aromatic amino acid tyrosine. L-tyrosine is a naturally occurring tyrosine and is synthesized in vivo from L-phenylalanine. It is considered a non-essential amino acid; however, in patients with phenylketonuria who lack phenylalanine hydroxylase and cannot convert phenylalanine into tyrosine, it is considered an essential nutrient. In vivo, tyrosine plays a role in protein synthesis and serves as a precursor for the synthesis of catecholamines, thyroxine, and melanin.
+TYROSINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) and is indicated for type 2 diabetes mellitus and has 2 investigational indications.
+Tyrosine is an essential amino acid that readily passes the blood-brain barrier. Once in the brain, it is a precursor for the neurotransmitters dopamine, norepinephrine and epinephrine, better known as adrenalin. These neurotransmitters are an important part of the body's sympathetic nervous system, and their concentrations in the body and brain are directly dependent upon dietary tyrosine. Tyrosine is not found in large concentrations throughout the body, probably because it is rapidly metabolized. Folic acid, copper and vitamin C are cofactor nutrients of these reactions. Tyrosine is also the precursor for hormones, thyroid, catecholestrogens and the major human pigment, melanin. Tyrosine is an important amino acid in many proteins, peptides and even enkephalins, the body's natural pain reliever. Valine and other branched amino acids, and possibly tryptophan and phenylalanine may reduce tyrosine absorption. A number of genetic errors of tyrosine metabolism occur. Most common is the increased amount of tyrosine in the blood of premature infants, which is marked by decreased motor activity, lethargy and poor feeding. Infection and intellectual deficits may occur. Vitamin C supplements reverse the disease. Some adults also develop elevated tyrosine in their blood. This indicates a need for more vitamin C. More tyrosine is needed under stress, and tyrosine supplements prevent the stress-induced depletion of norepinephrine and can cure biochemical depression. However, tyrosine may not be good for psychosis. Many antipsychotic medications apparently function by inhibiting tyrosine metabolism. L-dopa, which is directly used in Parkinson's, is made from tyrosine. Tyrosine, the nutrient, can be used as an adjunct in the treatment of Parkinson's. Peripheral metabolism of tyrosine necessitates large doses of tyrosine, however, compared to L-dopa. 
+A non-essential amino acid. In animals it is synthesized from PHENYLALANINE. It is also the precursor of EPINEPHRINE; THYROID HORMONES; and melanin.
+See also: Nicotine (component of); Niacinamide; pyridoxine hydrochloride; tyrosine (component of); Poly-L-tyrosine (annotation moved to).
+Properties:safety: Irritant
+smiles: C1=CC(=CC=C1C[C@@H](C(=O)O)N)O
+formula: C9H11NO3
+chem_properties: Molecular Weight: 181.19 g/mol
+XLogP3: -2.3
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 3
+Exact Mass: 181.07389321 Da
+Monoisotopic Mass: 181.07389321 Da
+Topological Polar Surface Area: 83.6
+Heavy Atom Count: 13
+Formal Charge: 0
+Complexity: 176
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,25 @@
+Name: 2-Bromopyridine
+Text:
+2-bromopyridine is a monobromopyridine.
+Properties:safety: Flammable and Acute Toxic and Irritant
+smiles: C1=CC=NC(=C1)Br
+formula: C5H4BrN
+chem_properties: Molecular Weight: 158.00 g/mol
+XLogP3: 1.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 156.95271 Da
+Monoisotopic Mass: 156.95271 Da
+Topological Polar Surface Area: 12.9
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 56
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

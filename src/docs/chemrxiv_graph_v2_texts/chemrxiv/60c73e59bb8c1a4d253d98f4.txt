@@ -1,0 +1,18 @@
+Description:
+A component of pentapeptide sequences that can vary except for proline.
+
+Text:
+ELPs constitute a particularly nice model system as they
+can be expressed by bacteria in a strictly monodisperse fash
+ion with different repeating sequences.1518 It is possible, for
+instance, to synthesize pentapeptide sequences of the generic
+form (VPGXG)n, where X stays for any amino acid except
+proline.19,20 One can thus easily modulate the hydrophilic,
+hydrophobic, and charged character of the ELPs20 together
+with their LCST.18,21 Saltspecific effects were studied not only
+for few neutral ELPs (e.g., V120),17,22,23 but also for the
+weakly positively charged KV6120,8,24 and the weakly nega
+tively charged DV2F64.9
+For completely neutral polymers, e.g., pure PNIPAM or neu
+tral ELPs, only two regimes of salt action were reported in the
+literature,17,25 see Figure 1 (a).

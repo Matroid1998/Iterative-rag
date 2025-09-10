@@ -1,0 +1,32 @@
+Description:
+An anode material for Li batteries with the highest theoretical capacity at 3860 mAh g1 and the lowest possible electrochemical potential, 3.04 V vs. standard hydrogen electrode.
+
+Text:
+Lithium metal has been the holy grail of anode materials for Li batteries, since the first usage in the 
+1960s, boasting the highest theoretical capacity at 3860 mAh g1, the lowest possible electrochemical 
+potential, 3.04 V vs. standard hydrogen electrode, and a low mass density.14 Despite its desirable 
+parameters, safety issues stemming from dendritic growth of lithium, short circuiting and subsequent 
+ignition of the liquid electrolyte, have led to its replacement by the graphite anode in commercial 
+lithium ion batteries.14 Through the usage of nonflammable solid electrolytes which are compatible 
+with lithium metal, such as the oxide garnet Li7La3Zr2O12 (LLZO), safety concerns can be remedied and 
+a resurgence of the lithium metal anode is possible.5,6 
+The problem of dendritic growth remains though, still present in solid electrolytes, which are prone 
+to being cracked by lithium dendrites, even when the material is mechanically stronger than lithium 
+metal.
+
+
+---
+
+Description:
+Plating can lead to dendrite formation, causing mechanical stress and potential fracture in solid electrolytes.
+
+Text:
+This can happen at current densities as low as 0.1 mAcm at room temperature. 79 The precise 
+mechanism of dendrite formation in solid electrolytes is far from fully explored but one explanation is 
+that inhomogeneous current distribution, sometimes named current focusing, leads to preferential 
+lithium plating, accelerating the buildup of mechanical stress in the ceramic until it is released in 
+fracture of the material.1013 
+Recently it was found that directed stresses in the material allow for guiding the growing crack in a 
+certain direction. With increasing in plane compressive stress, the path of the growing crack aligns 
+more and more with the stress direction, depending on the initial crack angle, as the path of least 
+resistance from the mechanical perspective diverges from the electrochemical one.

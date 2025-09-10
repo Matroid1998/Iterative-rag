@@ -1,0 +1,13 @@
+Description:
+A target for reduction in selective catalytic reduction (SCR) reactions.
+
+Text:
+Typical commercial metal oxide catalysts extensively applied in the industry usually consist
+of a catalytic layer on a support. The catalytic performance of the oxide layer can be
+further improved by mixing a certain portion of guest elements into the host oxide through
+doping, which leads to changes in the electronic structures and chemical bonds within the
+catalyst.1 One of the most widely employed dopants in commercial catalysts for the selective
+catalytic reduction (SCR) reaction to reduce nitrogen oxide emission is tungsten, as realized
+in WO3V2O5TiO2 (anatase).2,3 The role of tungsten doping in improving the catalytic
+performance is still controversially discussed. Based on spectroscopy experiments, Peng et
+al.

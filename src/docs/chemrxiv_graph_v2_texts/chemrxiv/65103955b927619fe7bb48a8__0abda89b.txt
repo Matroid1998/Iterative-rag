@@ -1,0 +1,18 @@
+Description:
+Compounds used in the double reductive amination to synthesize disubstituted heterocycles.
+
+Text:
+Traditionally, this transformation has been per
+formed using low temperature lithiation chemistry,9 but more 
+modern methods have achieved it under preferable conditions 
+by utilizing transition metal1012 and photoredox catalysis.13,14 
+Although synthesis of disubstituted heterocycles has been 
+achieved through the double reductive amination of diketone 
+compounds,15 with key examples described in total and imino
+sugar syntheses,16,17 no general asymmetric catalytic platform 
+has yet been demonstrated. Instead, strategies that prioritise re
+dox neutral cyclisation chemistry (i.e. PaalKnorr) followed by 
+a global reduction are often preferred,18 despite the challenges 
+in stereocontrol afforded by the simultaneous generation of 
+multiple stereocentres. In recent years, biocatalysis has emerged as a robust platform 
+for synthesis.

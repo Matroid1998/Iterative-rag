@@ -1,0 +1,13 @@
+Description:
+Atoms are chemically similar to both boron and nitrogen.
+
+Text:
+The exponential increase in crystal structures deposited in databases such as the inorganic 
+crystal structure database (ICSD 1) and Cambridge structural database (CSD 2) continually 
+expands our exploration of a multidimensional structurecomposition (SC) space. The 
+arrangement of atoms and their types defined within this SC space is intrinsically linked to all 
+physical properties of a material; if two materials are proximate in SC space, their properties 
+are similar. For example, diamond and cubic boron nitride both adopt a cubic diamond 
+structure, and carbon atoms are chemically similar to both boron and nitrogen. As a result, 
+both materials are superhard. 3 In contrast, diamond and graphite are compositionally 
+identical but structurally distinct, giving very different properties for these polymorphs.

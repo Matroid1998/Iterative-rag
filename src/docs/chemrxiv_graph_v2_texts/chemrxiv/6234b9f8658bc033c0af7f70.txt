@@ -1,0 +1,20 @@
+Description:
+Part of catalysts that show comparable or better reactivity than late transition metal catalysts.
+
+Text:
+While late transition metals like 
+palladium have been frequently used in experimental studies in the 
+past6067, recent studies are shifting towards the use of catalysts 
+containing manganese, iron, cobalt, nickel68, etc. as they show 
+comparable or even better reactivity than the late transition metal 
+catalysts60, 6971. Of the midrow 3d metal catalysts, manganese 
+catalysts for CH fluorination look particularly attractive due to 
+the nontoxicity of manganese, its relatively low cost, and 
+environment friendly characteristics60, 
+67, 
+7274. Manganese 
+enzymes75 found in nature can activate CH bonds with high 
+dissociation energy, which led to development of bioinspired 
+molecular catalysts60. Several experimental studies and few computational studies 
+considered Mnporphyrin catalysts and Mnsalen catalysts to carry 
+out CH halogenation, in particular, CH fluorination12, 7677.

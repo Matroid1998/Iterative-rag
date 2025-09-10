@@ -1,0 +1,38 @@
+Description:
+Metal used in device interconnects, requiring a diffusion barrier to prevent atom diffusion into the surrounding dielectric.
+
+Text:
+6, 7 Even with a move away from Moores
+Law, device interconnects will continue to provide stern challenges. Several layers of interconnect lines are needed to connect all the transistors in a device. The closer the intercon
+nect is to the transistors the smaller it must be, resulting in extremely high aspect ratio structures at the lowest
+device levels. Currently, interconnects are made with Cu metal. To create a functioning interconnect, a diffusion
+barrier and a seed layer or liner (also referred to as adhesion promoter) need to be deposited in the interconnect via. As the name suggests, the role of the diffusion barrier is to prevent the diffusion of Cu atoms into the surrounding
+dielectric, while the liner material promotes deposition of smooth, conductive Cu films.
+
+
+---
+
+Description:
+Used in interconnects for electronic devices.
+
+Text:
+Current diffusion barriers,
+such as TaN, are unable to promote the deposition of conductive Cu without the addition of the liner material. Common liner materials include Ta and Ru. The barrier and liner materials take up the limited available volume
+in the interconnect via, to the point that even with modern deposition methods such as Atomic Layer Deposition
+(ALD) they cannot be thinned further without compromising their efficiency and this means that insufficient volume
+remains in the via to deposit the amount of Cu needed for a functioning interconnect. 8, 9 New developments in
+interconnects are clearly needed in order to drive further advances in electronic devices.
+
+
+---
+
+Description:
+Exhibits wettability and adhesion properties crucial for barrier liner materials.
+
+Text:
+The following properties are crucial in developing efficient barrierliner materials
+ Wettability and adhesion of Cu
+ Reduced material thickness
+ Thermal stability
+ Low overall resistivity
+2

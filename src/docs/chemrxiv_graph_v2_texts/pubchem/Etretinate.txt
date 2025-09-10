@@ -1,0 +1,30 @@
+Name: Etretinate
+Text:
+Etretinate can cause developmental toxicity according to an independent committee of scientific and health experts.
+Etretinate is a retinoid, an enoate ester and an ethyl ester. It has a role as a keratolytic drug.
+Etretinate is a medication used to treat severe psoriasis. It is a synthetic aromatic retinoid. The mechanism of action of etretinate is still incompletely understood although, like retinoic acid, it is thought to interfere with the terminal differentiation of keratinocytes. It is thought to bind to the retinoic acid receptors. Etretinate is also believed to enhance the binding of cAMP to the regulatory RI subunit of cAMP dependent protein kinases. Etretinate was taken off the market in Canada in 1996 and America in 1998 due to the risk of birth defects. Etretinate is now used to treat T-cell lymphomas. It also appears to inhibit NADH oxidase activity.
+Etretinate is a synthetic oral retinoid that is a prodrug of acitretin.  Etretinate activates retinoid receptors, causing an induction of cell differentiation, inhibition of cell proliferation, and inhibition of tissue infiltration by inflammatory cells.  Etretinate is no longer commercially available in the U.S. due to the extended potential for teratogenic effects related to its long half-life. (NCI04)
+ETRETINATE is a small molecule drug with a maximum clinical trial phase of IV that was first approved in 1986 and is indicated for psoriasis. It was withdrawn in at least one region.
+An oral retinoid used in the treatment of keratotic genodermatosis, lichen planus, and psoriasis. Beneficial effects have also been claimed in the prophylaxis of epithelial neoplasia. The compound may be teratogenic.
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: CCOC(=O)/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C(=C(C=C1C)OC)C)C
+formula: C23H30O3
+chem_properties: Molecular Weight: 354.5 g/mol
+XLogP3: 6.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 8
+Exact Mass: 354.21949481 Da
+Monoisotopic Mass: 354.21949481 Da
+Topological Polar Surface Area: 35.5
+Heavy Atom Count: 26
+Formal Charge: 0
+Complexity: 568
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 4
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

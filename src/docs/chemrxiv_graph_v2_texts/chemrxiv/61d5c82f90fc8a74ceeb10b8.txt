@@ -1,0 +1,12 @@
+Description:
+A compound studied for its interaction energy and effect on mobility shifts.
+
+Text:
+of SR depend, not only on the ion masses, but on the interaction energies of the 
+ionSR adducts. In this study, we introduced five different SRs using ESIIMSMS to study the effect of the 
+interaction energy and size on mobility shifts. The mobility shifts showed a decreasing trend as the molecular 
+weight increased for the series of compounds ethanolamine, valinol, serine, threonine, phenylalanine, 
+tyrosine, tributylamine, tryptophan, desipramine, and tribenzylamine. It was proved that the decreasing trend 
+was partially due to the inverse relation between the mobility and drift time and hence, the shift in drift time 
+better reflects the pure effect of SR on the mobility of analytes. Yet the drift time shift exhibited a mild 
+decrease with the mass of ions.

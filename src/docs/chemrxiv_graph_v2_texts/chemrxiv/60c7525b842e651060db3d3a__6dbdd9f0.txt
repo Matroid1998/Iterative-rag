@@ -1,0 +1,27 @@
+Description:
+A cofactor in PSI and PSII, coordinated by magnesium ions.
+
+Text:
+In PSI, the inner pair of cofactors is formed by Chl a
+and its C132epimer (Chl a), which are called PB and PA, respectively. Similar to the
+case of PSII, the pair of accessory PSI pigments is composed of Chl a molecules (denoted
+as A1A and A1B), whereas pheophytins and plastoquinones are replaced by Chl a co
+factors (A0A and A0B) and phylloquinones (A1A and A1B), respectively. In both PSI and
+PSII, magnesium ions of innerpair Chls are coordinated by histidine (His) aminoacid
+residues, whereas those of accessory pigments are coordinated by water molecules.
+
+
+---
+
+Description:
+A monomeric accessory chlorophyll involved in the primary electron donor P680 in photosystem II.
+
+Text:
+Despite these structural similarities, the redox potentials of the primary electron donors
+P700 in PSI and P680 in PSII (the numbers within their names refer to the absorption
+maxima) dier by about 0.7 V and are equal to 0.5 V and 1.2 V, respectively 3. This
+makes the donors P700 and P680 the strongest reducing and oxidation agents, respectively,
+known in living matter. These electron donors are composed of dierent cofactors 4
+P700 consist of the inner pair Chls, while P680 is a monomeric accessory Chl a. Addi
+tionally, it is known that after photoexcitation PSII performs onesided electron transfer
+(ET) along the protein subunit D1 57, while a twosided ET is observed in PSI 8,9.

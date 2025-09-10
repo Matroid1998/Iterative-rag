@@ -1,0 +1,36 @@
+Description:
+Exists as cis and trans rotational isomers with a high barrier to interconversion in the gas phase.
+
+Text:
+In ambient conditions, both CH3ONO cis and trans 
+rotational isomers can be spectroscopically observed and distinguished from one another using a 
+variety of techniquesgas and liquid 1H NMR, UVVis absorption, as well as rotational and 
+vibrational spectroscopymaking conformerspecific studies possible.3,17,20,23,27 
+The barrier to cistrans interconversion in the gas phase is relatively high at 45 kJmol 
+due to contribution of resonance structures with planar CONO atoms.5,33 The relative energies 
+of the two stable conformers differ by 5 kJmol, with cisCH3ONO being the more stable of the 
+two.1,3,17,20,23 Other RONO molecules can exhibit steric repulsions that result in larger differences 
+between conformer energies and thus abundances.1113,24 In the case of CH3ONO, the cisCH3ONO 
+conformer is stabilized via internal hydrogen bonding, orienting the NO portion of the CONO 
+dihedral towards the methyl group, resulting in a smaller van der Waals diameter than trans
+CH3ONO.3,17,20,23,24,34,36 
+The determination of conformer abundance of CH3ONO becomes increasingly 
+complicated when moving away from the gasphase into complex environments such as those 
+found in matrixisolation spectroscopy.
+
+
+---
+
+Description:
+A compound whose conformer abundance is affected by the bath gas and deposition angle.
+
+Text:
+We performed a study on the effects of a given bath gas and the angle of deposition on the 
+conformer abundance of CH3ONO during deposition in a lowtemperature matrix using three 
+different inert bath gases nitrogen (N2), argon (Ar), and xenon (Xe). Our observations indicate a 
+change in conformer abundance that occurs between the gas and matrix phases. Changes to 
+deposition angle were additionally found to alter conformer abundances in a N2 bath gas, while 
+conformer abundances in Ar showed no angular dependence. We investigate the competition 
+between effects of surface morphology and energetic stabilization on the trapping of the two 
+conformers by analyzing the angular dependence of the abundances and performing quantum 
+chemistry calculations of the gasCH3ONO complexes.

@@ -1,0 +1,14 @@
+Description:
+A key component in Lithium-Ion Batteries (LIBs) known for high energy density and extended lifespan.
+
+Text:
+Electrochemical energy cells (EECs) are devices that work through a redox (reductionoxidation) 
+reaction. Between them we have energy storage devices, like LithiumIon Batteries (LIBs) cells, and energy 
+conversion devices, like Proton Exchange Membrane Fuel Cells (PEMFCs). Both applications play a 
+crucial role towards the green transition needed to mitigate climate change. Given the intermittent 
+production of renewable energy sources and an ondemand consumption requirement, EECs can help to 
+better integrate these energy sources into the energy matrix. On one side, LIBs present a high energy 
+density, extended lifespan, and low selfdischarge that has significantly impacted various industries, 
+including electronics and telecommunications, and served as key components in portable devices.1 2 LIBs 
+are also contributing to the electrification of the transportation industry by being used in electric vehicles 
+(EVs).

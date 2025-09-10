@@ -1,0 +1,30 @@
+Name: Furan
+Text:
+Furan can cause cancer according to The National Toxicology Program.
+Furan appears as a clear colorless liquid with a strong odor. Flash point below 32 °F. Less dense than water and insoluble in water. Vapors heavier than air.
+Furan is a monocyclic heteroarene with a structure consisting of a 5-membered ring containing four carbons and one oxygen, with formula C4H4O. It is a toxic, flammable, low-boiling (31℃) colourless liquid. It has a role as a carcinogenic agent, a hepatotoxic agent and a Maillard reaction product. It is a mancude organic heteromonocyclic parent, a member of furans and a monocyclic heteroarene.
+Furan has been reported in Perilla frutescens, Solanum lycopersicum, and Coffea arabica with data available.
+Furan is a clear, colorless, flammable liquid cyclic ether with an ethereal odor. Furan is used as an intermediate in the production of tetrahydrofuran, pyrrole and thiophene. Inhalation exposure to this substance causes eye and skin irritation and central nervous system depression. Furan is mutagenic in animals and is reasonably anticipated to be a human carcinogen based on evidence of carcinogenicity in experimental animals. (NCI05)
+Furan is a colorless, flammable, highly volatile liquid with a boiling point close to room temperature. It is soluble in common organic solvents, including alcohol, ether and acetone, but is insoluble in water. It is toxic and may be carcinogenic. Furan is used as a starting point to other specialty chemicals. Furan is a heterocyclic organic compound, consisting of a five-membered aromatic ring with four carbon atoms and one oxygen. The class of compounds containing such rings are also referred to as furans. Furan is aromatic because one of the lone pairs of electrons on the oxygen atom is delocalized into the ring, creating a 4n+2 aromatic system (see Huckel's rule) similar to benzene. Because of the aromaticity, the molecule is flat and lacks discrete double bonds. The other lone pair of electrons of the oxygen atom extends in the plane of the flat ring system. The sp2 hybridization is to allow one of the lone pairs of oxygen to reside in a p orbital and thus allow it to interact within the pi-system. The Feist-Benary synthesis is a classic way to synthesize furans, although many syntheses have been developed. One of the simplest synthesis methods for furans is the reaction of 1,4-diketones with phosphorus pentoxide (P2O5) in the Paal-Knorr Synthesis. The thiophene formation reaction of 1,4-diketones with Lawesson's reagent also forms furans as side products. 2,4-Disubstituted furans can be synthesized by sulfone-mediated cyclization of 1,3-diketones
+Properties:safety: Flammable and Irritant and Health Hazard
+smiles: C1=COC=C1
+formula: C4H4O
+chem_properties: Molecular Weight: 68.07 g/mol
+XLogP3: 1.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 68.026214747 Da
+Monoisotopic Mass: 68.026214747 Da
+Topological Polar Surface Area: 13.1
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 22.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

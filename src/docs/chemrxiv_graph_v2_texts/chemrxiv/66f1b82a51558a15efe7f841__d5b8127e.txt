@@ -1,0 +1,31 @@
+Description:
+An ion important for research in nuclear waste management, environmental remediation, and heavy element separations.
+
+Text:
+Solution chemistry involving the uranyl ion (UO22) and its interactions with the 
+surrounding molecules in aqueous environments is important for research in nuclear waste 
+management, environmental remediation, and heavy element separations1. Speciation effects on 
+UO22 in solution is a multifaceted problem that is still not completely understood. The 
+complexation of UO22 in nitric acid solution has been explored 2, 3 where the lowpH 
+environment results in the formation of UO22nitrate complexes. However, the equilibrium of 
+these complexes in solution can be impacted by many factors. The introduction of additional 
+molecules, both as electrolytes and coordinating ligands in solution leads to a variety of physical 
+and chemical interactions with UO22 that are difficult to predict.
+
+
+---
+
+Description:
+Forms insoluble hydroxide salts under alkaline conditions.
+
+Text:
+To effectively use uranyl luminescence for monitoring 
+processes we must understand the mechanisms by which UO22 interacts with other solute 
+molecules, particularly cations that may facilitate the formation of ionpairs or other ionion 
+interactions. Tetramethylammonium (TMA) has been shown to uniquely modify UO22 speciation in 
+solution, presumably through the formation of ionpair complexes. Hydrolysis experiments of 
+UO22 can be challenging to perform because, under alkaline conditions, insoluble uranyl 
+hydroxide salts begin to form. However, TMA was found to be an effective supporting 
+electrolyte in solution as its presence inhibited the formation of insoluble uranyl salts6. Clark et 
+al. used this interaction between UO22 and TMA to spectroscopically characterize larger uranyl 
+hydroxide species (UO2(OH)n2n(n  4, 5))7.

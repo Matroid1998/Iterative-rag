@@ -1,0 +1,15 @@
+Description:
+Used in 3D printing to fabricate vessels for electrochemical fluorination.
+
+Text:
+Cronin and coworker used 3D printing to fabricate 
+reactionware for use in flow chemistry.2 Similarly, Lennox printed polytetrafluoroethylene 
+vessels for use in electrochemical fluorination while others have printed custom 
+electrochemical and photochemical reactors.3 More recent work has sought to develop printed 
+materials capable of catalytic reactions, for example a polysiloxane polymer impregnated with 
+Pd metal and another printed material with single site catalytic centers.2a,4 We hypothesized 
+that one of the most common 3D printing materials, copoly(acrylonitrilebutadienestyrene) 
+(ABS), could produce an excellent solid acidcatalyst for synthetic conversions. With the 
+capabilities of 3D printing to allow the precise design of reaction spaces, we sought to print a 
+solid support suitable for use as a solid phase catalyst in flow chemistry. We report the results 
+of these studies in this manuscript.

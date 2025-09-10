@@ -1,0 +1,19 @@
+Description:
+Porous materials whose solid state structures can be analyzed using NMR spectroscopy.
+
+Text:
+Traditional NMR spectroscopy approaches provide structural information via 
+8 
+chemical shift analysis, and are regularly applied to inform the solid state structures of porous 
+9 
+materials, including oxides 13, 14, zeolites 15, 16, and porous coordination frameworks and 
+10 
+polymers (such as metalorganic and covalentorganic frameworks) 1719. However, for liquids 
+11 
+confined within the pore structures of such materials, chemical shift resolution is usually significantly 
+12 
+limited by linebroadening effects (especially for standard 1H NMR spectra, which typically exhibit 
+13 
+narrow chemical shift ranges), which occur due to local magnetic field distortions caused by magnetic 
+14 
+susceptibility differences at the solidliquid interface 20, 21.

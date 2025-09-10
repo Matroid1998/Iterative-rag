@@ -1,0 +1,10 @@
+Description:
+Grown using thermal NH3 and trimethyl aluminum.
+
+Text:
+Plasma ALD has successfully been used to deposit InN with both N2 57 and NH3 8 
+plasma together with TMI at temperatures below the thermal decomposition of InN. Precursors with chelating ligands forming NIn bonds have also been used successfully to 
+deposit InN with NH3 plasma.9,10 However, a thermal ALD process has not been shown 
+experimentally. This is in contrast to the other group 13N semiconductors AlN and GaN 
+which both has been grown using thermal NH3 and trimethyl aluminum (TMA, Al(CH3)3) 
+11,12 and trimethyl gallium (TMG, Ga(CH3) 3) 13,14 respectively.

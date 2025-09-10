@@ -1,0 +1,12 @@
+Description:
+A stable isotope of hydrogen used in isotope-labeled compounds for various applications in biomedical and material fields.
+
+Text:
+Deuteriumlabelled compounds consist of an important class of stable isotopelabelled chemicals, which have 
+received a bunch of attention from both academic and industrial communities. Due to deuteriums 
+interchangeability with protium (1H) and doubled mass, the labelled compounds have found multiple applications 
+in biomedical and material fields,1 such as monitoring the metabolism of bioactive compounds,2 adjusting the 
+pharmacokinetics of drugs,3 elucidating the mechanism of chemical transformations,4 and improving the lifetime 
+of OLED devices.5 
+Among the deuteration strategy developed,6 hydrogen isotope exchange (HIE) is a unique route for labelling,7 in 
+which the protium at its original position was replaced by deuterium directly. This translation of hydrogens is

@@ -1,0 +1,62 @@
+Description:
+A metal that can at least double the overall battery gravimetric energy density when used in place of graphite in batteries.
+
+Text:
+Developing batteries with higher energy densities is vital for electric transportation and a renewable
+powered electric grid.1 Replacing graphite anode (in current lithiumion batteries) with lithium metal can 
+at least double the overall battery gravimetric energy density.2 Hence, there has been fervent research to 
+develop rechargeable lithium metal batteries.
+
+
+---
+
+Description:
+A metal used in rechargeable batteries, known for its high energy density.
+
+Text:
+However, prior efforts to commercialize rechargeable lithium 
+metal batteries failed primarily because of the volatile, flammable liquid electrolytes, and the inability to 
+prevent lithium dendrite growth upon metal deposition.3 Designing solid state lithium metal batteries can 
+alleviate these safety and morphological challenges, while maintaining high energy density.35 Solid state 
+electrolytes (SSEs) should support high ion conductivity ( 103 Scm), be mechanically flexible and thin 
+( 25 m), and have a wide electrochemical stability window (04.5 V vs LiLi).3 Currently, inorganic 
+SSEs such as phosphates (e.g., LATP), oxides (LLZO),6 and sulfides7 have been studied heavily.3,4 
+Although inorganics such as sulfides have ion conductivities on the order of 102  103 Scm,8 no single 
+class of inorganic electrolytes meets all the requirements.9,10 
+Polymer electrolytes are easy to process as a standalone SSE, as part of an inorganicpolymer hybrid 
+electrolyte,11,12 or as a binder for the cathode composite.13,14 Furthermore, they can be mechanically flexible 
+and fabricated in thin form factors.
+
+
+---
+
+Description:
+Exhibits higher transference number in the perfluoroether backbone indicating weaker coordination compared to traditional PEG.
+
+Text:
+Polycarbonates such as polyethylene carbonate have been explored, but still suffer from low room 
+temperature ionic conductivity and poor oxidative stability.2022 
+Recently, we synthesized a new class of fluorinatedether smallmoleculeelectrolytes that show high ionic 
+conductivity and high oxidative stability.2325 This finding prompted us to explore solid perfluoropolyether 
+(PFPE) as a polymer electrolyte. While polycarbonates have been extensively studied,2022,26 there has been 
+limited work on solid PFPE.18,27 Previous work27 has shown that crosslinked PFPE can support ion 
+transport, albeit still with low conductivities (105 Scm). And previous solution state work done by some 
+of us23 and Balsara and coworkers28,29 have shown higher lithium transference number in the perfluoroether 
+backbone indicating weaker lithium coordination of the polymer backbone compared to the traditional PEG.
+
+
+---
+
+Description:
+A cation in salt-in-polymer electrolytes with typically lower mobility compared to the anion.
+
+Text:
+Saltinpolymer electrolytes involve a lithium 
+salt dissolved in a polymer and usually suffer from low lithium transference numbers (with higher mobility 
+of the anion compared to the cation under an electric field).13 To improve the transference number, single
+ionpolyelectrolytes have been developed that immobilize the salt anion within the polymer backbone 
+making the lithium ion the only mobile species, leading to a lithium transference number close to unity.30,31 
+In this work, we fabricated singleion and saltinpolymer PFPE, with the tethered TFSI anion and LiTFSI 
+salt dissolved (Figure 1), respectively. Magic angle spinning (MAS) NMR was used to study polymer 
+environment, the lithium ion solvation structure and activation barrier for ion transport.32 MAS NMR 
+provides high chemical shift resolution for these solid polymers and enables an understanding of ion

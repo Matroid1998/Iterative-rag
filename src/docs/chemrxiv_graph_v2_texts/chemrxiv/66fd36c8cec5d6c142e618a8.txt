@@ -1,0 +1,13 @@
+Description:
+Interacts with ATP to form Dluciferyl adenylate in the bioluminescence reaction.
+
+Text:
+Bioluminescence is the ability of living organisms to emit light, a property widely used in 
+biotechnology and biomedicine 1. Firefly is not only the most efficient bioluminescent system 
+known today 2, but also the most intensively studied both experimentally and theoretically 3. Despite this, there is still a lack of understanding of the exact mechanism behind the firefly 
+bioluminescence. The bioluminescence reaction is catalyzed by the enzyme called luciferase (FLuc). The 
+generally accepted mechanism for this enzymatic reaction involves the following stages (Fig. 1) 
+1) interaction of Dluciferin with ATP to form Dluciferyl adenylate and its subsequent 
+deprotonation; 2) oxidation of the resulting intermediate by oxygen leading to dioxetanone; 3) 
+dioxetanone decomposition, leading to excited oxyluciferin, the lightemitting molecule in firefly 
+bioluminescence.

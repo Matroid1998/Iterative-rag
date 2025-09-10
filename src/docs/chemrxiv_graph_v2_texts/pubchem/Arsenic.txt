@@ -1,0 +1,35 @@
+Name: Arsenic
+Text:
+Arsenic is a naturally occurring element widely distributed in the earth's crust. In the environment, arsenic is combined with oxygen, chlorine, and sulfur to form inorganic arsenic compounds. Arsenic in animals and plants combines with carbon and hydrogen to form organic arsenic compounds. Inorganic arsenic compounds are mainly used to preserve wood. Copper chromated arsenic (CCA) is used to make "pressure-treated" lumber. CCA is no longer used in the U.S. for residential uses; it is still used in industrial applications. Organic arsenic compounds are used as pesticides, primarily on cotton plants.
+Arsenic (inorganic arsenic compounds) can cause cancer according to California Labor Code.
+Arsenic appears as a grayish metallic solid that turns black upon exposure to air. Insoluble in water. Toxic by ingestion.
+Arsenic atom is a pnictogen and a metalloid atom. It has a role as a micronutrient.
+Arsenic, a naturally occurring element, is found throughout the environment. For most people, exposure to arsenic, including to inorganic arsenic compounds, occurs through their diet. Acute (short-term), high-level inhalation exposure to inorganic arsenic has resulted in respiratory effects (cough, dyspnea, chest pain), gastrointestinal effects (nausea, diarrhea, abdominal pain), and central and peripheral nervous system effects. Chronic (long-term) inhalation exposure to inorganic arsenic in humans is associated with skin, cardiovascular, and neurological effects. Acute oral exposure to inorganic arsenic has resulted in effects on the digestive tract, respiratory tract, central nervous system (CNS), cardiovascular system, liver, and blood and has resulted in death. Chronic oral exposure to elevated levels of inorganic arsenic has resulted in gastrointestinal effects, anemia, peripheral neuropathy, skin lesions, hyperpigmentation, and liver and kidney damage in humans. EPA has concluded that inorganic arsenic is a human carcinogen. Evidence from human studies suggests that exposure to inorganic arsenic by inhalation may result in lung cancer, while exposure by ingestion may result in nonmelanoma skin cancer and bladder, kidney, liver, and lung cancers.
+Arsenic is a nonessential trace element that is widely distributed in nature. Arsenic was used in medicinal agents in the 19th and early 20th centuries, but has been replaced by safer and more effective agents and has not been in use for over 50 years. Nevertheless, arsenic is found widely in nature and accidental or intentional acute or chronic exposures to moderate or high levels of arsenic can cause liver injury, sometimes presenting long after the exposure.
+Arsenic has been reported in Lucensosergia lucens and Buccinum striatissimum with data available.
+Arsenic is a naturally occurring allotropic pnictogen and metalloid trace element with atomic symbol As, atomic number 33, and atomic weight 74.92 that is found in water, air, food, and soil, and has a role as a micronutrient. Arsenic, which is highly toxic with acute or chronic exposure to moderate or high levels through an unknown mechanism of action, is used in many industrial processes, as well as in pharmaceuticals, feed additives, and pesticides. It is characterized as a white, yellow, gray metallic, or black solid that is odorless. Exposure occurs by inhalation, ingestion, or contact.
+Arsenic is a mineral with formula of As. The IMA symbol is As.
+Arsine is a highly toxic gas formed when arsenic-containing materials react with hydrogen in water or acids. It is nonirritating and colorless, with a slight garlic odor. (L11)
+A shiny gray element with atomic symbol As, atomic number 33, and atomic weight 75. It occurs throughout the universe, mostly in the form of metallic arsenides. Most forms are toxic. According to the Fourth Annual Report on Carcinogens (NTP 85-002, 1985), arsenic and certain arsenic compounds have been listed as known carcinogens. (From Merck Index, 11th ed)
+See also: Arsine (annotation moved to).
+Properties:safety: Acute Toxic and Environmental Hazard
+smiles: [As]
+formula: As
+chem_properties: Molecular Weight: 74.92159 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 74.921595 Da
+Monoisotopic Mass: 74.921595 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 1
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

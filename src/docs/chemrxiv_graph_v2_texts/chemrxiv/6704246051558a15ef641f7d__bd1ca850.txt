@@ -1,0 +1,17 @@
+Description:
+Species whose binding energies correlate linearly with the binding energies of O atoms on various surfaces.
+
+Text:
+For instance, Pallassana and
+Neurock (2000) demonstrated linear relationships between activa
+tion energies and reaction energies, as well as between activation
+energies and binding energies in CH bond breaking.5 Further work
+by Nrskov et al. (2002) revealed a universal linear trend between
+binding energies and activation energies for several types of disso
+ciation reactions.6
+A second class of linear relationships was proposed by Abild
+Pedersen et al. (2007), who showed that the binding energies of
+CHx, NHx, OHx, and SHx species on various closedpacked and
+stepped surfaces correlate linearly with the corresponding binding
+energies of C, N, O, and S atoms, respectively.7 A similar analy
+sis by Jones et al.

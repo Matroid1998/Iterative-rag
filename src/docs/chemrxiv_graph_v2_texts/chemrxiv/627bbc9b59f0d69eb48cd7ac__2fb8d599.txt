@@ -1,0 +1,119 @@
+Description:
+Has a kcat/KM value of 24 M^-1s^-1.
+
+Text:
+Despite decades of 
+intense research on the HDAC family, HDAC10 has received 
+
+2 
+
+Good HDAC10
+Substrates
+H
+N
+O
+N
+H
+O
+OH
+N
+H
+O
+OH
+N
+N
+O
+H
+N
+H2N
+N
+H
+OH
+tubastatin A (1)
+7fold HDAC106
+selectivity
+10
+N
+H
+H
+N
+H2N
+H
+N
+N
+H
+O
+H2N
+N
+H
+N
+H
+O
+N
+H
+O
+OH
+N
+N
+DKFZ480 (2)
+40fold HDAC106
+selectivity
+HDAC106
+inhibitors
+O
+H2N
+N
+H
+O
+H2N
+N
+H
+O
+N8acetylspermidine (3)
+kcatKM
+  2900 M1s1
+Nacetylputrescine (4)
+kcatKM
+  2100 M1s1
+Nacetylcadaverine (5)
+kcatKM
+  1300 M1s1
+N
+H
+O
+N1acetylspermidine (6)
+kcatKM
+  24 M1s1
+Nbutylacetamide (8)
+kcatKM
+  22 M1s1
+K(Ac)peptides (7)
+kcatKM
+  100 M1s1
+O
+N
+H
+O
+Poor HDAC10
+Substrates
+SAHA (9)
+
+N
+N
+H
+O
+OH
+O
+N
+H
+n
+m
+azaSAHA derivatives (11)
+Design
+Concept
+R1
+Zincbinding
+group
+linker
+cap group
+R2

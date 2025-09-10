@@ -1,0 +1,17 @@
+Description:
+Effectively solubilize biological membranes into nanodiscs, allowing for simpler protein isolation without the use of detergents.
+
+Text:
+An interesting approach from synthetic biology is the produc
+tion of complex synthetic organisms that perform useful func
+tions13. The use of articial molecules to mimic or to interfere
+with cellular properties and behaviours has helped to understand
+the working mechanisms of a cell14. In particular, styrenemaleic
+acid copolymers (SMACs) have shown remarkable capabilities to
+effectively solubilize biological membranes into nanodiscs, allow
+ing for simpler protein isolation directly from their native envi
+ronment without the use of detergents15,16. Therefore, they have
+become an interesting tool for the study and characterization of
+membrane proteins1719 with already promising results2023. Inspired by the natural proteinmediated processes known for
+fusion pore stabilization7,8,10,24,25, we describe here an articial
+alternative.

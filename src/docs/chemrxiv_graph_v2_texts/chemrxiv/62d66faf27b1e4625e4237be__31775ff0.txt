@@ -1,0 +1,37 @@
+Description:
+Electron rich compounds used in nucleophilic phosphine catalysis.
+
+Text:
+Lewis base catalysis1 with tertiary phosphines, often referred to as nucleophilic phosphine catalysis, 
+relies on the conjugate addition of a sufficiently electron rich tertiary phosphine to an electron deficient 
+multiple bond forming an energetically disfavoured zwitterionic species. This zwitterion can then be 
+trapped with nucleophiles, electrophiles or a combination of both, resulting in manifold applications of 
+this methodology in preparative chemistry.2 A special case of a reaction with an electrophile is the proton 
+transfer of an acidic proton from another reagent, e.g. an alcohol, to the zwitterion. This reaction results 
+in the formation of an ion pair consisting of the corresponding phosphonium cation and the corresponding 
+base of the acidic reagent as the newly formed anion, e.g. an alkoxide (Figure 1).
+
+
+---
+
+Description:
+Commonly used as Lewis base catalysts.
+
+Text:
+In such cases, a Lewis base catalyst 
+might be the better choice. Commonly used 
+Lewis 
+base 
+catalysts 
+are 
+tertiary 
+phosphines,3,12 amines like 4dimethylamino
+pyridine13 and Nhetereocyclic carbenes.14 
+Highly reactive nucleophiles such as trialkyl
+phosphines or NHCs often suffer from poor air 
+and moisture stability or require a strong base 
+to be formed from their precursors. Therefore, the quest for an air and moisture insensitive Lewis base 
+catalyst with high activity is ongoing. Recently, we have reported a step towards this direction by showing 
+that the electron rich tris(4methoxyphenyl)phosphine (TMPP, Fig. 1) is more active in converting poor and 
+intermediate Michael acceptors than triphenylphosphine (TPP).15 Regrettably, the improvement in activity 
+was not that pronounced that TMPP could rival the performance of phosphazene bases.

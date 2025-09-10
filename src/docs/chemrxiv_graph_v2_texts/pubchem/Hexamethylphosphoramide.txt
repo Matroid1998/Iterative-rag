@@ -1,0 +1,30 @@
+Name: Hexamethylphosphoramide
+Text:
+Hexamethylphosphoramide can cause cancer according to an independent committee of scientific and health experts. It can cause male reproductive toxicity according to The Environmental Protection Agency (EPA).
+Hexamethylphosphoramide is a clear colorless to light amber liquid with a spicy odor. (NTP, 1992)
+Hexamethylphosphoric triamide is a phosphoramide. It has a role as a mutagen and an insect sterilant.
+Hexamethylphosphoramide is no longer used in large quantities in the United States. No information is available on the acute (short-term), chronic (long-term), reproductive, developmental, or carcinogenic effects of hexamethylphosphoramide in humans. Acute animal studies have reported effects on the kidneys and lungs from oral exposure to hexamethylphosphoramide, while chronic oral studies in animals have reported an increased incidence of lung disease. An increased incidence of nasal tumors from inhalation exposure to hexamethylphosphoramide was reported in rats. EPA has not classified hexamethylphosphoramide for carcinogenicity; however, the International Agency for Research on Cancer (IARC) has classified it as a Group 2B, possible human carcinogen.
+Hexamethylphosphoramide is a clear, colorless liquid with an aromatic odor that emits toxic fumes of phosphorous oxides and nitrogen oxides when heated to decomposition. Hexamethylphosphoramide is used as a stabilizer against thermal degradation in polystyrene and is used as a solvent in research laboratories. Exposure to this substance irritates the eyes, skin and respiratory-tract. Hexamethylphosphoramide is reasonably anticipated to be a human carcinogen based on evidence of carcinogenicity in experimental animals. (NCI05)
+A chemosterilant agent that is anticipated to be a carcinogen.
+Properties:safety: Health Hazard
+smiles: CN(C)P(=O)(N(C)C)N(C)C
+formula: C6H18N3OP
+chem_properties: Molecular Weight: 179.20 g/mol
+XLogP3: 0.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 3
+Exact Mass: 179.11874920 Da
+Monoisotopic Mass: 179.11874920 Da
+Topological Polar Surface Area: 26.8
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 139
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,14 @@
+Description:
+A traditional semiconductor material used in electronics.
+
+Text:
+Due to their exceptional versatility, organic semiconductors (OSCs) are a very attractive 
+alternative to traditional silicon and GaAsbased semiconductors. OSC properties can be 
+tuned to enable their use in fieldeffect transistors (FETs),14 photovoltaics,58 sensors,911 and 
+flexible electronics.1214 However, rational design of OSCs for a particular purpose is still 
+very challenging, requiring a combination of synthesis, analytical techniques, and 
+modelling.15 On the modelling side, calculations based on density functional theory (DFT) 
+with periodic boundary conditions are being increasingly used to investigate the 
+optoelectronic properties of OSCs. Recently, hybrid DFT and its timedependent formulation 
+(TDDFT) have been employed to study periodic porphyrin nanostructures,16 polyacenes,1719 
+as well as polythiophenes and polypyrroles,20,21 exploring the changes in the band gap (Eg)

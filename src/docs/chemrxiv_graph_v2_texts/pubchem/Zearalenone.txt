@@ -1,0 +1,28 @@
+Name: Zearalenone
+Text:
+Zearalenone appears as white microcrystals or white powder. (NTP, 1992)
+Zearalenone is a macrolide comprising a fourteen-membered lactone fused to 1,3-dihydroxybenzene; a potent estrogenic metabolite produced by some Giberella species. It has a role as a fungal metabolite and a mycoestrogen. It is a macrolide and a member of resorcinols.
+Zearalenone has been reported in Fusarium graminearum, Fusarium equiseti, and other organisms with data available.
+(S-(E))-3,4,5,6,8,10-Hexahydro-14,16-dihydroxy-3-methyl-1H-2-benzoxacyclotetradecin-1,7(8H)-dione. One of a group of compounds known under the general designation of resorcylic acid lactones. Cis, trans, dextro and levo forms have been isolated from the fungus Gibberella zeae (formerly Fusarium graminearum). They have estrogenic activity, cause toxicity in livestock as feed contaminant, and have been used as anabolic or estrogen substitutes.
+Properties:safety: Corrosive and Health Hazard
+smiles: C[C@H]1CCCC(=O)CCC/C=C/C2=C(C(=CC(=C2)O)O)C(=O)O1
+formula: C18H22O5
+chem_properties: Molecular Weight: 318.4 g/mol
+XLogP3: 3.6
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 0
+Exact Mass: 318.14672380 Da
+Monoisotopic Mass: 318.14672380 Da
+Topological Polar Surface Area: 83.8
+Heavy Atom Count: 23
+Formal Charge: 0
+Complexity: 445
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

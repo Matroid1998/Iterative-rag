@@ -1,0 +1,34 @@
+Name: Salicylic Acid
+Text:
+Salicylic acid is an odorless white to light tan solid. Sinks and mixes slowly with water. (USCG, 1999)
+Salicylic acid is a monohydroxybenzoic acid that is benzoic acid with a hydroxy group at the ortho position. It is obtained from the bark of the white willow and wintergreen leaves. It has a role as an antiinfective agent, an antifungal agent, a keratolytic drug, an EC 1.11.1.11 (L-ascorbate peroxidase) inhibitor, a plant metabolite, an algal metabolite and a plant hormone. It is a conjugate acid of a salicylate.
+A compound obtained from the bark of the white willow and wintergreen leaves, and also prepared synthetically. It has bacteriostatic, fungicidal, and keratolytic actions. Its salts, the salicylates, are used as analgesics.
+Salicylic acid is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Salicylic Acid has been reported in Camellia sinensis, Dischidia formosana, and other organisms with data available.
+Salicylic Acid is a beta hydroxy acid that occurs as a natural compound in plants. It has direct activity as an anti-inflammatory agent and acts as a topical antibacterial agent due to its ability to promote exfoliation.
+SALICYLIC ACID is a small molecule drug with a maximum clinical trial phase of IV (across all indications) and has 12 approved and 15 investigational indications.
+A compound obtained from the bark of the white willow and wintergreen leaves, and also prepared synthetically. It has bacteriostatic, fungicidal, and keratolytic actions. Its salts, the salicylates, are used as analgesics.
+A compound obtained from the bark of the white willow and wintergreen leaves. It has bacteriostatic, fungicidal, and keratolytic actions.
+See also: Benzoic Acid (has active moiety); Methyl Salicylate (active moiety of); Benzyl salicylate (is active moiety of) ... View More ...
+Properties:safety: Corrosive and Irritant and Health Hazard
+smiles: C1=CC=C(C(=C1)C(=O)O)O
+formula: C7H6O3
+chem_properties: Molecular Weight: 138.12 g/mol
+XLogP3: 2.3
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 1
+Exact Mass: 138.031694049 Da
+Monoisotopic Mass: 138.031694049 Da
+Topological Polar Surface Area: 57.5
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 133
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

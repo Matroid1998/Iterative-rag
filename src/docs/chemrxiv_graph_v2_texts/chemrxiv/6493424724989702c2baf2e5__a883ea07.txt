@@ -1,0 +1,28 @@
+Description:
+A saturated group that is part of the definition of PFAS.
+
+Text:
+Per and polyfluoroalkyl substances (PFAS) are a group of substances of high environmental and 
+toxicological concern gaining increasing attention due to bioaccumulation and a growing reputation as 
+forever chemicals  so much so that there is now a drive to treat PFAS as a class for environmental 
+regulation1. The 2011 definition of PFAS by Buck et al.2 included substances as PFAS if they contained two 
+(or more) connected saturated CF2 groups. In 2021, the Organisation for Economic Cooperation and 
+Development (OECD) revised the definition of PFAS in ENVCBCMONO(2021)253 as follows PFAS are 
+defined as fluorinated substances that contain at least one fully fluorinated methyl or methylene carbon 
+atom (without any HClBrI atom attached to it), i.e.
+
+
+---
+
+Description:
+A perfluorinated methylene group.
+
+Text:
+with a few noted exceptions, any chemical with at 
+least a perfluorinated methyl group (CF3) or a perfluorinated methylene group (CF2) is a PFAS. While early research efforts focused mainly on a very limited list of PFAS, the number of documented 
+PFAS are increasing. With the emergence of high resolution mass spectrometry (HRMS) and the potential 
+for socalled suspect screening for contaminants of interest using nontarget analytical techniques4,5, 
+more extensive lists of PFAS became available. The first PFAS list hosted by the NORMAN Suspect List 
+Exchange6,7 (hereafter NORMANSLE) was the 2015 list contributed by Trier et al.8, which became the basis 
+for the OECD list of 4700 PFAS released in 20179,10. The NORMANSLE currently (June 2023) contains 
+twelve PFAS lists6,7.

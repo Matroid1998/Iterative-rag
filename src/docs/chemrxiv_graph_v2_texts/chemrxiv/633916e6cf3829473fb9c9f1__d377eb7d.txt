@@ -1,0 +1,13 @@
+Description:
+Traditional polymer with stronger lithium coordination compared to perfluoroether.
+
+Text:
+Polycarbonates such as polyethylene carbonate have been explored, but still suffer from low room 
+temperature ionic conductivity and poor oxidative stability.2022 
+Recently, we synthesized a new class of fluorinatedether smallmoleculeelectrolytes that show high ionic 
+conductivity and high oxidative stability.2325 This finding prompted us to explore solid perfluoropolyether 
+(PFPE) as a polymer electrolyte. While polycarbonates have been extensively studied,2022,26 there has been 
+limited work on solid PFPE.18,27 Previous work27 has shown that crosslinked PFPE can support ion 
+transport, albeit still with low conductivities (105 Scm). And previous solution state work done by some 
+of us23 and Balsara and coworkers28,29 have shown higher lithium transference number in the perfluoroether 
+backbone indicating weaker lithium coordination of the polymer backbone compared to the traditional PEG.

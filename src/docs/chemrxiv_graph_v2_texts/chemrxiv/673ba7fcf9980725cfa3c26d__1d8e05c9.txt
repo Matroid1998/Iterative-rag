@@ -1,0 +1,9 @@
+Description:
+A type of fullerene with solubilities in different solvents used to estimate partitioning between solvents.
+
+Text:
+In the case of C60 fullerene, solubilities in different solvents are 
+available, and these can be used to estimate the partitioning between solvents and 
+therefore to develop a coarsegrained model compatible with the Martini framework. However, in version 2 of the force field, no available particle type could reproduce 
+fullerene partitioning in a satisfactory way, and we resorted to the use of an optimized 
+httpsdoi.org10.26434chemrxiv20246s1wj ORCID httpsorcid.org0000000263524595 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

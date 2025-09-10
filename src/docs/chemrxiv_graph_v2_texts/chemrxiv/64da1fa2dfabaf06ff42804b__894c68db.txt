@@ -1,0 +1,11 @@
+Description:
+Legacy PFAS that are being phased out.
+
+Text:
+Most individual toxicity studies of PFASs were designed for 
+legacy PFAS that are already or will be phased out, mostly C4C12 perfluoroalkyl carboxylic 
+acids (PFCA) and perfluoroalkyl sulfonic acids (PFOS), instead of the emerging PFAS with 
+unclear structure or property, mostly commercial15. On the other hand, the PFASs having high
+throughput screening activity data available in public databases (i.e., PubChem and ChemBL) are 
+actually druglike small molecules that contains aromatic groups and no more than three CF3 or 
+CF2 groups, which are not the typical PFAS with high persistence and bioaccumulation.

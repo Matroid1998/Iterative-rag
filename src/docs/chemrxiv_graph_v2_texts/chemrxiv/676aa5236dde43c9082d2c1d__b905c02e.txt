@@ -1,0 +1,9 @@
+Description:
+Used in lithium-ion battery electrodes for its ability to transport ions or charge.
+
+Text:
+One widely used approach to relate a materials porosity to its ability to transport ions or charge 
+is the Bruggeman equation, which has been widely used to link porosity to transport properties 
+in materials such as lithiumion battery graphite electrodes24,25. However, its assumptions of 
+uniform particle distribution and isotropic pores are inadequate for nanoporous carbons, which 
+httpsdoi.org10.26434chemrxiv2024rjgwdv2 ORCID httpsorcid.org0000000191334310 Content not peerreviewed by ChemRxiv. License CC BY 4.0

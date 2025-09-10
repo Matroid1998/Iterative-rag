@@ -1,0 +1,16 @@
+Description:
+Hosts that can collapse during simulations with certain force fields.
+
+Text:
+Results and discussion 
+Cucurbit8uril and drugs of abuse Gibbs energies of binding 
+Curcurubituril8 is a host with only a few conformers accessible 
+thus enabling a fast sampling of host conformations.15 However, 
+with certain force fields, cucurbituril hosts have been observed 
+to collapse during simulations. CB8 and guest molecules form 
+11 complexes with experimental Gibbs energies of binding in a 
+range between 7.05 (for G1) and 14.07 kcalmol (for G6).14 
+High affinity measurements have attributed this to an 
+interaction between the guests ammonium group interacting 
+and the carbonyl oxygen of CB8. Figure 1. CB8 host and guest structures G1  G9. Figure 2 shows the deviation of calculated Gibbs energies of 
+binding of CB8 to ligands G1G9 from experiment.

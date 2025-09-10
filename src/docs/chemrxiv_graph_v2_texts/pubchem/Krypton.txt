@@ -1,0 +1,28 @@
+Name: Krypton
+Text:
+Krypton, compressed, is a colorless, odorless gas. It is shipped as a liquid under its own vapor pressure. Contact with the liquid may cause frostbite to unprotected skin. It can asphyxiate by displacement of air. Exposure of the container to prolonged heat or fire may cause it to rupture violently and rocket.
+Krypton, refrigerated liquid, is a colorless, odorless gas. It is shipped as a liquid under its own vapor pressure. Contact with the liquid may cause frostbite to unprotected skin. It can asphyxiate by displacement of air. Exposure of the container to prolonged heat or fire may cause it to rupture violently and rocket.
+Krypton(0) is a monoatomic krypton.
+krypton is a mineral.
+A noble gas that is found in the atmosphere. It has the atomic symbol Kr, atomic number 36, atomic weight 83.80, and has been used in electric bulbs.
+Properties:safety: Compressed Gas
+smiles: [Kr]
+formula: Kr
+chem_properties: Molecular Weight: 83.80 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 83.91149773 Da
+Monoisotopic Mass: 83.91149773 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 1
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

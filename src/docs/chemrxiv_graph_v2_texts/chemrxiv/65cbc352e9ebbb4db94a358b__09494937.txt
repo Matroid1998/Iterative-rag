@@ -1,0 +1,16 @@
+Description:
+Only one in four structures had a random distribution of linkers in space.
+
+Text:
+Other methods to introduce complexity into MOFs include 
+multiple metalations of metalcontaining building blocks12, 
+postsynthetic modification13, or vacancy creation14. Ini
+tially, scientists presumed that metals or linkers in these 
+materials were evenly distributed in space, but solidstate 
+NMR experiments combined with DFT calculations revealed 
+that only one in four MTVMOF5 structures had a random 
+distribution of linkers in space15. Atom probe tomography 
+also demonstrated that the metals (Co, Cd, Pb, Mn) in metal
+oxide rods of MOF74 chains had heterogeneous spatial se
+quences.16 Both reports indicate that homogeneous distri
+bution of metals or functional groups is rather rare.

@@ -1,0 +1,15 @@
+Description:
+Used as a model substrate in density functional theory calculations.
+
+Text:
+To gain insight into the detailed reaction mechanism and the or
+igins of chirality control of the extremely bulky DTBANIPE lig
+and, we obtained the Xray crystal structure of Pd(L7)(3cin)Cl 
+(Figure 2C). Based on this Xray crystal structure, density func
+tional theory (DFT) calculations were performed using 2
+chloronaphthalene 1a and benzylic zinc reagent 2a as model sub
+strates (see the Supporting Information for the computational de
+tails). The DFTcomputed free energy profile is elaborated in Fig
+ure 2D. Based on previous theoretical studies14,15, the reaction ini
+tiates with the coordination of 1a to PdL7, resulting in the com
+plex int1.

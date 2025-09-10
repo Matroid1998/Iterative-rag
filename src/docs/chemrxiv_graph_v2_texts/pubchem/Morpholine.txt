@@ -1,0 +1,26 @@
+Name: Morpholine
+Text:
+Morpholine appears as a colorless liquid with a fishlike odor. Flash point 100 °F. Corrosive to tissue. Less dense than water and soluble in water. Vapors heavier than air. Used to make other chemicals, as a corrosion inhibitor, and in detergents.
+Morpholine is an organic heteromonocyclic compound whose six-membered ring contains four carbon atoms and one nitrogen atom and one oxygen atom that lies opposite to each other; the parent compound of the morpholine family. It has a role as a NMR chemical shift reference compound. It is a saturated organic heteromonocyclic parent and a member of morpholines. It is a conjugate base of a morpholinium.
+Properties:safety: Flammable and Corrosive and Irritant
+smiles: C1COCCN1
+formula: C4H9NO
+chem_properties: Molecular Weight: 87.12 g/mol
+XLogP3: -0.9
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 87.068413911 Da
+Monoisotopic Mass: 87.068413911 Da
+Topological Polar Surface Area: 21.3
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 34.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

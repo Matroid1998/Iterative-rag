@@ -1,0 +1,14 @@
+Description:
+An industrystandard fluorocarbon membrane used in fuel cells.
+
+Text:
+License CC BYNC 4.0
+
+3 
+permeability of industrystandard fluorocarbon membranes such as Nafion 115, leading to 
+high methanol crossover, and (ii) the need for a more efficient catalyst for oxygen reduction. The loss of fuel cell performance due to slow O2 reduction kinetics can be minimised to a 
+certain extent by reducing the thickness of the membrane to lower its ionic resistance, but this 
+also increases methanol crossover. Higher concentrations of methanol fuel can increase power 
+density and reduce fuel volume, but in general a high concentration of methanol in the aqueous 
+feed leads to excessive swelling of the membrane. Furthermore, unoxidised methanol 
+concentrates at the anode and will again cross over to the cathode.

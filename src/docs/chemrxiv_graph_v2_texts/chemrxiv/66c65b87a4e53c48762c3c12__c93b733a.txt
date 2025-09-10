@@ -1,0 +1,17 @@
+Description:
+Used in the mechanistic interpretation of multielectron reactions such as HORHER on polycrystalline surfaces.
+
+Text:
+43 
+In this contribution, we first elucidate the use of the BV expressions within the context of multistep multielectron reactions while 
+44 
+highlighting prevailing misconceptions and their profound impact on the interpretation of electrochemical processes in general. 45 
+We continue with a detailed discussion of the HORHER kinetics, one of the simplest multielectron reactions, and its mechanistic 
+46 
+interpretation on polycrystalline (pc) Pt in particular. We perform an extensive experimental survey of the HORHER in the 
+47 
+micropolarization, Tafel, and Hupd regions, concluding with the formulation of a new mechanistic description that accounts for 
+48 
+all the distinctive features observed. To avoid inconsistencies from literature, we start by deriving the ButlerVolmer expression 
+49 
+from commonly accepted principles. 50

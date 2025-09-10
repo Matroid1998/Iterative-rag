@@ -1,0 +1,18 @@
+Description:
+Used in steam reforming to obtain hydrogen gas.
+
+Text:
+First developed in the early 20th century, the HaberBosch 
+process to make ammonia has been instrumental in supporting 
+the growth of approximately half of the world population via 
+nitrogenbased fertilisers.1 Ammonia has further potential as a 
+carbon free, readily liquified, and energy dense fuel.2 Howev
+er, while efficient and welloptimised, the HaberBosch pro
+cess is both extremely energy and carbon intensive. Haber
+Bosch ammonia plants primarily rely on methane steam re
+forming to obtain hydrogen gas, resulting in approximately 1.4 
+ of global CO2 emissions and the use of 1  of global ener
+gy requirements.1 Furthermore, the reaction requires extreme 
+operation conditions (400C, 200 bar) to improve reaction 
+kinetics3 , restricting HaberBosch ammonia production to 
+large, centralised plants due to economies of scale.

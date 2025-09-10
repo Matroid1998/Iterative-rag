@@ -1,0 +1,20 @@
+Description:
+Commonly found in enzymes.
+
+Text:
+Over onethird of all proteins in the Protein Data Bank (PDB) and half of all classified enzymes contain metal ions.123 These 
+metalloenzymes are a part of crucial processes such as cellular respiration, nitrogen fixation, protein degradation and DNA 
+replication.45 The most common metal ions found in enzymes are magnesium, zinc, sodium, calcium, iron, and manganese.246 
+For instance, over 20 of all transferases, lyases, isomerases and ligases contain magnesium in the binding site, whereas zinc is 
+found in at least 10 of all enzymes in each Enzyme Commission class.2 
+Since metalloenzymes are involved in so many important processes, their inhibition is sought for the treatment of different 
+diseases and conditions, such as hepatitis C, cancer, hypertension, arthritis, and infections.35 For instance, the angiotensin
+converting enzyme (ACE, EC 3.4.15.1) plays a pivotal role in regulating blood pressure and fluid balance.789 ACE contains a Zn2 
+as cofactor, which is involved in catalyzing the hydrolysis of several peptides, such as the hydrolyzation of the hormone angiotensin I 
+to the active vasoconstrictor angiotensin II.78910 ACE inhibitors, such as captopril and enalapril, are used in the treatment of 
+medical conditions like hypertension, heart failure, diabetic nephropathy, and type 2 diabetes mellitus.10 The binding affinity of ACE 
+inhibitors is partially driven by the interaction with the zinc ion in the active site, e. g. enalapril contains a carboxyl group that chelates 
+the metal ion, while captopril contains a thiol group that interacts with the ion.10 
+A large database and analysis platform for metalloenzymes, the Metalloenzyme Data Bank and Analysis (MeDBA) platform has 
+also been published.611 MeDBA contains information about metalloenzymes, their ligands and metalloenzymeligand interactions 
+derived from the Protein Data Bank.

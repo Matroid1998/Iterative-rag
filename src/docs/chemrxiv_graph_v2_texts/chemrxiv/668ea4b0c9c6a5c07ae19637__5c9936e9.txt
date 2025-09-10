@@ -1,0 +1,15 @@
+Description:
+A material known for its exceptional coordination and dissociation ability towards Li salt, excellent interfacial stability with Li metal, and high mechanical strength.
+
+Text:
+Poly(ethylene oxide) (PEO) has become the leading material for SPEs since the 1970s because 
+of its exceptional coordination and dissociation ability towards Li salt, excellent interfacial 
+stability with Li metal, and high mechanical strength to form flexible membranes.7,8,9 
+Specifically, high molecular weight PEO shows the advantages of preventing Li dendrites and 
+improved cycling stability due to its prominent mechanical property compared to lower 
+molecular weight PEO.10 However, PEObased SPEs are often criticized for their limited 
+electrochemical stability window (ESW) primarily owing to the low oxidative stability of ether 
+oxygen and limited room temperature ionic conductivity (up to 106 S cm1) due to their 
+crystallization tendency that restricts polymer segmental motion for ion transport.9 These 
+limitations significantly restrict their operational voltage range ( 4V) and fast cycling 
+capability in solidstate LMBs.

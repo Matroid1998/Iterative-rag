@@ -1,0 +1,21 @@
+Description:
+Acts as a quenching agent for triplet excitons in phosphorescence emissions.
+
+Text:
+One is to promote the intersystem crossing (ISC) from the lowest 
+excited singlet state (S1) to a triplet state (Tn).10 The other one is to suppress the non
+radiative deactivation of the triplet excitons under ambient conditions.11 Therefore, 
+besides the small probability of ISC ruled by quantum mechanics, the challenge to 
+achieving longlived and bright RTP in purely organic materials is to suppress 
+nonradiative decay, including thermal motion and oxygen quenching, etc.1213 
+For small molecules, their phosphorescence emissions are usually stabilized by 
+crystallization, namely, the rigid crystal lattice could prevent vibrational dissipation and 
+avoid contacting with oxygenmoisture quenching sites.1416 However, the poor 
+reproducibility and processability of crystalline small molecules tremendously limit 
+their practical applications. By comparison, polymeric materials possess good 
+mechanical 
+properties 
+and 
+ease 
+of 
+processing.

@@ -1,0 +1,16 @@
+Description:
+A compound synthesized using electride catalysts.
+
+Text:
+Electrides are materials in which the electrons detach from 
+the valence shell of ions and reside in the crystal structure, 
+acting as anions.1,2 Because these anionic electrons are not 
+bound to a nucleus, they are easier to migrate and extract 
+compared to electrons in conventional materials, leading to 
+relatively low work functions and high conductivities.1 These 
+properties are desirable for several important technological 
+applications to which it is expected that electrides can be 
+successfully applied. For example electron emitters,3 light 
+emitting diodes (LED) devices.4 nonlinear optical switchers,5 
+superconductors,6 and catalysts,7,8 for e.g. the synthesis of 
+ammonia,9 are all areas of active investigation for electrides.

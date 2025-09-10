@@ -1,0 +1,10 @@
+Description:
+A binary compound with different phases called polytypes distinguished by the stacking of layers.
+
+Text:
+Diamond, known mainly in the cubic form, has a less common hexagonal form called lonsdaleite. Such structures are also observed in binary SiC, and the different phases are called polytypes, which 
+are distinguished by the stacking of layers, usually labeled ABC AB in 2H (2 layers; hexagonal 
+system), ABC in 3C (3 layers; cubic system), ABCB in 4H (4 layers; hexagonal system), etc. 1. Silicon and carbon are isoelectronic with respect to the valence shell, and diamond has analogous 
+polytypes, with the best known being 3C, which corresponds to cubic diamond, and 2H, which 
+corresponds to lonsdaleite. Other diamond polytypes 4H, 8H, 9R to 21R (R for rhombohedral) have 
+been identified with calculated Xray diffraction data published by Ownby et al. in 1992 2.

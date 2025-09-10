@@ -1,0 +1,14 @@
+Description:
+An electron-donating group embedded within planar and rigid fused polycyclic aromatic structures.
+
+Text:
+Multiresonant thermally activated delayed fluorescence (MRTADF) emitters have garnered 
+considerable attention due to their potential to deliver wide color gamut and highresolution displays 
+based on organic lightemitting diode (OLED) technology.1 These molecules have a distinct molecular 
+structure characterized by the incorporation of alternativelypositioned electronaccepting (e.g., boron 
+or ketone) and electrondonating (e.g., nitrogen or oxygen) groups that are embedded within planar and 
+rigid fused polycyclic aromatic structure.2 This distinctive framework effectively separates the frontier 
+molecular orbitals (FMOs) involved in the emissive excited state, relying on complementary mesomeric 
+behavior of the electron acceptor and electron donor motifs.1d, 3 Consequently, there is a moderately 
+small singlettriplet splitting energy (EST) to trigger the reverse intersystem crossing (RISC) process 
+that enables TADF.

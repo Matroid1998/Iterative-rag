@@ -1,0 +1,17 @@
+Description:
+A wurtzite material that can be engineered via alloying and straining.
+
+Text:
+One is to further engineer
+known wurtzite materials like AlN and ZnO via al
+loying and straining4, 7, 8, 10, 12, while the other
+is to explore and develop new wurtzite(type) mate
+rials that have lower coercive fields11, 13, 14. Ul
+timately, the goal is to identify the underlying po
+larization switching mechanisms and the structure
+property relationships that control Ec. In this pa
+per, we focus on pathways for polarization reversal;
+in other words, what deviations from the baseline
+wurtzite structure are involved in the transition from
+a positivepolarity wurtzite (wz) to the equivalent
+negativepolarity wurtzite (wz)?

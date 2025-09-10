@@ -1,0 +1,13 @@
+Description:
+An anion tethered in single-ion polyelectrolytes to improve lithium transference number.
+
+Text:
+Saltinpolymer electrolytes involve a lithium 
+salt dissolved in a polymer and usually suffer from low lithium transference numbers (with higher mobility 
+of the anion compared to the cation under an electric field).13 To improve the transference number, single
+ionpolyelectrolytes have been developed that immobilize the salt anion within the polymer backbone 
+making the lithium ion the only mobile species, leading to a lithium transference number close to unity.30,31 
+In this work, we fabricated singleion and saltinpolymer PFPE, with the tethered TFSI anion and LiTFSI 
+salt dissolved (Figure 1), respectively. Magic angle spinning (MAS) NMR was used to study polymer 
+environment, the lithium ion solvation structure and activation barrier for ion transport.32 MAS NMR 
+provides high chemical shift resolution for these solid polymers and enables an understanding of ion

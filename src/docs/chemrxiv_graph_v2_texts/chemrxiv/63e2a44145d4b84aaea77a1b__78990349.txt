@@ -1,0 +1,18 @@
+Description:
+High-quality gate oxide layers are required for many applications but are hindered by the lack of unsaturated surface sites on TMD surfaces.
+
+Text:
+Still, despite the advantages, the intrinsic properties of TMDs have
+also resulted in several technological bottlenecks. The low chemical
+activity of the basal plane often results in a high contact resistance at
+TMDmetal (electrode) interfaces, which can lower the performance
+of TMDbased electronic devices 2527. Furthermore, the lack of
+unsaturated surface sites hinders the growth of metal oxides on TMD
+surfaces, despite many applications requiring highquality gate oxide
+layers 2831. Limited surface interactions also reduce the number
+Corresponding author
+Email address maciej.szaryput.poznan.pl (Maciej J. Szary)
+of analytes that TMDs can efficiently detect, restricting the applica
+tion perspectives 3234. As a result, significant effort has been put
+into overcoming those limitations, notably employing substitutional
+doping 3539.

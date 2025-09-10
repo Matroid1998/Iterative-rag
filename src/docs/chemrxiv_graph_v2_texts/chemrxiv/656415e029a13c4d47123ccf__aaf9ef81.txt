@@ -1,0 +1,12 @@
+Description:
+A five-membered ring that reduces sterical hindrance in AAPs.
+
+Text:
+In AAPs the sterical hindrance between 
+the two aromatic rings is reduced due to its less bulky fivemembered pyrazole ring instead of a second 
+phenyl ring in ABs. An optimized orthogonal Zconformation can be achieved by adding two methyl 
+groups at the orthopositions of the pyrazole. These dimethylpyrazoleAAPs therefore have improved 
+backswitching performance compared to their AB counterparts, showing photoconversion yields as 
+high as  98  in the photostationary state (PSS)57. Due to the growing use of AAPs as photoswitches, 
+the question arises if the ultrafast dynamics of AAPs resemble that of AB. To the best of our knowledge, 
+we report the first study on the ultrafast photoswitching dynamics of AAPs.

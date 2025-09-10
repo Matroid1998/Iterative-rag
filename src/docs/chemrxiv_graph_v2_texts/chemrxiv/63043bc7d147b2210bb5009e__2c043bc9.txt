@@ -1,0 +1,11 @@
+Description:
+A multi-walled porous material used in flexible resistive pressure sensors.
+
+Text:
+Highly sensitive flexible pressure sensors can be 
+obtained by constructing flexible porous materials that are sensitive to pressure changes, 
+and their pressure detection range can be enhanced by adjusting their porous 
+structures.2e The resistive pressure sensor based on a flexible graphenepolyurethane 
+(PU) porous sponge with a fracture microstructure was capable of detecting pressures 
+from 9 Pa to 10 kPa.8 The reported flexible resistive pressure sensor based on a multi
+walled carbon nanotubepolydimethylsiloxane (PDMS) porous material was capable of

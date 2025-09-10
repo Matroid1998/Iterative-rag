@@ -1,0 +1,42 @@
+Description:
+A component of the Martian atmosphere used in propellant production.
+
+Text:
+A 
+16 
+reasonable and planned step is ISRU in the case of propellant production on Mars from CO2 of the 
+17 
+Martian atmosphere and H2 from water electrolysis of water ice from the Martian surface 5. However, 
+18 
+some highperformance materials cannot be produced on site. In these cases, the shippedin resources 
+19 
+should be recyclable in order to cease the costly transport as efficient as possible 6, which makes the 
+20 
+choice of stable and unreactive Fluoropolymers reasonable. 21 
+Reaction engineering is crucial in designing highly integrated and efficient processes for optimal 
+22 
+utilization of weight, resources and time. The unique challenges of extraterrestrial sites like Mars or 
+23 
+permanent space stations equally pose unique opportunities to reevaluate reaction engineering of already 
+24 
+well understood reactions.
+
+
+---
+
+Description:
+Converted to methane in low-temperature polymeric reactors.
+
+Text:
+Thus, the implementation of polymeric reactors for applications 
+32 
+beyond earth comes with the challenge of suitable and robust catalysts. 33 
+We have recently demonstrated the viability of a polymeric reactor 9 for use in the lowtemperature 
+34 
+conversion of CO2 to Methane, as well as identified RuTiO2 as the most active catalyst at mild process 
+35 
+conditions 10. In this study, we expand our previous work by using a RuTiO2 catalyst in both a PTFE 
+36 
+and PFA based reactor and measure the activity and temperature throughout a wide range of process 
+37 
+httpsdoi.org10.26434chemrxiv202451pdl ORCID httpsorcid.org0000000201739910 Content not peerreviewed by ChemRxiv. License CC BY 4.0

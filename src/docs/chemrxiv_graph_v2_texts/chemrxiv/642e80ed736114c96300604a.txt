@@ -1,0 +1,13 @@
+Description:
+Produced as a gas in water electrolysis cells.
+
+Text:
+In conventional water electrolysis cells, hydrogen and oxygen gas are produced from liquid 
+water on the electrodes, in the form of bubbles. Gas bubble formation involves a process of 
+nucleation and growth, followed by detachment of the bubble from the electrode surface. During that process, the bubbles create a socalled bubble curtain that covers the surface of 
+the electrode, blocking electrolyte access by the liquid electrolyte and increasing the resistance 
+between the electrodes.14 As a consequence, the energy efficiency of the electrolysis cell is 
+decreased. To minimize the negative effect of gas bubbles, many conventional alkaline and 
+polymer electrolyte membrane (PEM) electrolysers continuously pump liquid electrolyte over 
+
+3

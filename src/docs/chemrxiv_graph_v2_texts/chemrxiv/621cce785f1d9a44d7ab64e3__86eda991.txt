@@ -1,0 +1,34 @@
+Description:
+An anion that forms part of the close-packed system in spinel structures.
+
+Text:
+The spinel
+structure (shown in Figure 1) consists of a closepacked system of
+anions (X  O, S, Se) with onehalf of octahedral and oneeighth
+of tetrahedral sites occupied by cations giving a reduced formula
+of AB2X4 where A is a divalent cation and B trivalent. Spinels can be disordered over cationic sites by having some of
+the B3 cations in tetrahedral rather that octahedral sites. The de
+gree of inversion of a spinel describes the extent to which A2 and
+a Department of Chemistry, University of Liverpool, Crown Street, L69 7ZD Liverpool,
+UK
+b Johnson Matthey Technology Centre, Sonning Common, Reading RG4 9NH, UK
+msd30liverpool.ac.uk
+Fig. 1 Spinel structure of normal ZnFe2O4 in cubic unit cell.
+
+
+---
+
+Description:
+Anions in the spinel structure.
+
+Text:
+(a) Front
+view of spinel with tetrahedral Zn atoms (grey) between layers of oc
+tahedral Fe atoms (orange) and O anions (red). (b) 3D view of cubic
+spinel. (c) Layers of closepacked O atoms with A (green) B (yellow) and
+C (blue) layers highlighted. The view in (a) is transformed to the view
+in (c) by rotation of 45 around the caxis followed by a rotation of 55
+around the bisection of the aaxis and baxis perpendicular to the caxis. B3 cations occupy octahedral and tetrahedral sites respectively
+with the two extremities shown in Figure 2. A fully normal struc
+ture has all occupied tetrahedral sites consisting of A2 cations
+and all occupied octahedral sites consisting of B3 cations.

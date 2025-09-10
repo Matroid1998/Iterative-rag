@@ -1,0 +1,40 @@
+Description:
+A component of ternary C2H2C2H6C2H4 mixtures, important for industrial purification.
+
+Text:
+Because of the difficulty in designing and 
+synthesizing materials that preferentially trap C2H2 and C2H6, 
+simultaneous removal of both C2H2 and C2H6 from ternary 
+C2H2C2H6C2H4 mixtures in a onestep process is still under
+explored. Besides, the reported MOF and HOF adsorbents 
+generally suffer from poor chemical stability, high cost and 
+unscalable products, which hamper their practical applications. Thus, 
+developing 
+inexpensive 
+and 
+chemically 
+robust 
+adsorbents with excellent C2gases mixture separation 
+properties is urgently needed for the industrial purification of 
+C2H4.
+
+
+---
+
+Description:
+A component of binary C2 gases mixtures that can be purified using covalent organic frameworks.
+
+Text:
+Covalent organic frameworks (COFs) are an emerging class 
+of organic porous crystalline materials based on light elements 
+interconnected through covalent bonds.2125 Attributed to their 
+predictable structures, high porosity, tunable pore sizes and 
+high chemical stability, COFs have shown unique properties 
+and great potential in gas storage and separation applica
+tions.2630 Many experiments have been devoted to purity 
+C2H4 from C2gases mixtures. In 2018, Zhu and coworkers 
+used imidelinked COFs (PAF110) to purity C2H4 from bina
+ry C2H2C2H4 mixtures.31 Recently, our group reported that 
+threedimensional (3D) COFs with bcu topology could effi
+ciently remove C2H6 from binary C2H2C2H4 mixtures to pro
+duce polymergrade C2H4.

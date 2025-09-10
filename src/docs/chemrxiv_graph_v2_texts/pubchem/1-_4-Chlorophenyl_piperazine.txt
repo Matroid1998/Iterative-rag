@@ -1,0 +1,24 @@
+Name: 1-(4-Chlorophenyl)piperazine
+Text:
+Properties:safety: Irritant
+smiles: C1CN(CCN1)C2=CC=C(C=C2)Cl
+formula: C10H13ClN2
+chem_properties: Molecular Weight: 196.67 g/mol
+XLogP3: 1.8
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 196.0767261 Da
+Monoisotopic Mass: 196.0767261 Da
+Topological Polar Surface Area: 15.3
+Heavy Atom Count: 13
+Formal Charge: 0
+Complexity: 149
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,18 @@
+Description:
+Catalyst that usually avoids hydride elimination compared to palladium.
+
+Text:
+In this context, the generation of palladium carbene 
+intermediates combined with crosscoupling with 
+organic halides has been highly successful for olefin 
+synthesis in the past, but often results in the formation 
+of alkene products through hydride elimination, with 
+few notable exceptions.2b,3 An interesting approach first 
+reported by Van Vranken and coworkers, employing 
+vinylhalides as coupling partners allows to conserve an 
+allylic stereocenter and to introduce at the same time a 
+heteroatom nucleophile (Figure 1B).7 Nevertheless, the 
+reaction proceeds via a allyl palladium species, 
+resulting into a 1,3 relationship between nucleophile 
+and vinyl group. In comparison to palladium as catalyst, 
+rhodium usually allows to avoid hydride elimination.

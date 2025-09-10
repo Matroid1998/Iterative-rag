@@ -1,0 +1,16 @@
+Description:
+A compound involved in electrochemical conversion to higher-value products to mitigate climatic impact.
+
+Text:
+In recent years, the electrochemical conversion of CO2 into highervalue products has been 
+introduced as a promising and technologically feasible approach for mitigating the negative 
+climatic impact of the steadily increasing levels of atmospheric CO2.13 The CO2 reduction 
+reaction (CO2RR) may become not only economically feasible but also truly sustainable if the 
+surplus of renewable energy originating from solar radiation, wind power, and hydroelectric 
+sources is used as energy input to drive the highly endergonic and kinetically hindered CO2 
+conversion. The overall electrolysis reaction relies on an oxidative splitting of water (i.e., oxygen 
+evolution reaction, OER) through 
+O2  4e 4H 2H2O (acidic) Eq. 1 
+or 
+O2  2H2O  4e4OH (alkaline) Eq. 2 
+which is coupled to the reductive conversion of CO2 (denoted hereafter CO2RR).

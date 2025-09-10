@@ -1,0 +1,23 @@
+Name: Ir(ppy)3
+Text:
+Properties:safety: Irritant
+smiles: C1=CC=C([C-]=C1)C2=CC=CC=N2.C1=CC=C([C-]=C1)C2=CC=CC=N2.C1=CC=C([C-]=C1)C2=CC=CC=N2.[Ir+3]
+formula: C33H24IrN3
+chem_properties: Molecular Weight: 654.8 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 3
+Exact Mass: 655.15995 Da
+Monoisotopic Mass: 655.15995 Da
+Topological Polar Surface Area: 38.7
+Heavy Atom Count: 37
+Formal Charge: 0
+Complexity: 836
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 4
+Compound Is Canonicalized: Yes 
+

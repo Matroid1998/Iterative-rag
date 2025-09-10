@@ -1,0 +1,27 @@
+Name: Trifluoroacetic acid
+Text:
+Trifluoroacetic acid appears as a colorless fuming liquid with a pungent odor. Soluble in water and denser than water. Corrosive to skin, eyes and mucous membranes. Used to make other chemicals and as a solvent.
+Trifluoroacetic acid is a monocarboxylic acid that is the trifluoro derivative of acetic acid. It has a role as a reagent, a human xenobiotic metabolite and a NMR chemical shift reference compound. It is functionally related to an acetic acid. It is a conjugate acid of a trifluoroacetate.
+A very strong halogenated derivative of acetic acid. It is used in acid catalyzed reactions, especially those where an ester is cleaved in peptide synthesis.
+Properties:safety: Corrosive and Irritant
+smiles: C(=O)(C(F)(F)F)O
+formula: C2HF3O2
+chem_properties: Molecular Weight: 114.02 g/mol
+XLogP3: 0.9
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 0
+Exact Mass: 113.99286376 Da
+Monoisotopic Mass: 113.99286376 Da
+Topological Polar Surface Area: 37.3
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 83.4
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

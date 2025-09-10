@@ -1,0 +1,12 @@
+Description:
+Forms hydrogen bonds, which are weak, subtle intermolecular interactions affecting molecular crystal packing.
+
+Text:
+Molecular crystals have diverse applications including pharmaceuticals 1, organic electronics 2, optical
+materials 3, and materials for gas storage and separation 46. In all cases, the properties of molecular
+crystals depend on the crystal packing. For example, pharmaceutical molecules can have widely different
+solubilities depending on the crystalline form, and in organic electronics, charge transport is critically
+dependent on crystal packing. However, molecular crystal packing is notoriously difficult to predict because
+it is dictated by a range of weak, subtle intermolecular interactions, such as van der Waals forces, aromatic
+pistacking, and hydrogen bonds 7. This is a major hurdle for digital material design because if we cannot
+predict crystal structure then we cannot, by definition, predict the functional properties of the crystal.

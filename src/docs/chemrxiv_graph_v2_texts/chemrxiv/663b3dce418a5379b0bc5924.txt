@@ -1,0 +1,12 @@
+Description:
+Amorphous TiO2 is used as a protection layer against corrosion in multilayer photoelectrochemical devices.
+
+Text:
+Understanding underlying processes behind the performance of multilayer photoelectrochemical (PEC) 
+devices is crucial to their continued development. As an operando technique, electrochemical 
+impedance spectroscopy (EIS) is uniquely positioned to detect processes not only within individual 
+layers, but also interactions between the layers themselves during device operation. These devices 
+commonly employ amorphous TiO2 (aTiO2) as a protection layer against corrosion, because many 
+established and emerging semiconductors themselves are unstable during photoelectrocatalysis.1,2 
+Here, we resolve the appropriate model to describe operating photocathodes performing the hydrogen 
+httpsdoi.org10.26434chemrxiv20240bdn8 ORCID httpsorcid.org0000000275421147 Content not peerreviewed by ChemRxiv.

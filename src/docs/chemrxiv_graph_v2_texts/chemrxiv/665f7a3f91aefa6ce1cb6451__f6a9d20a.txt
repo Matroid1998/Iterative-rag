@@ -1,0 +1,12 @@
+Description:
+Contains divacancy centers that are of interest for their optical and spin properties in quantum applications.
+
+Text:
+Color centers are single photon emitting unpaired electrons localized in crystal lattice defects induced by 
+impurities, substitutions and vacancies in a material. Interest in the application of color centers in fields such as 
+quantum computing, communication and sensing is due to optical spin coupling that can be isolated and 
+measured in these defects via techniques such as optical detection of magnetic resonance (ODMR) that operates 
+by examining spin dependency in optically excited states. Recent research has focused on finding color centers 
+in wide band gap semiconductors due to reduced phononlattice interactions as well as defined excitation levels 
+inducing room temperature spin coherence with optical addressability in materials such as diamond nitrogen
+vacancy and silicon carbide divacancy centers1,2,3.

@@ -1,0 +1,11 @@
+Description:
+Monomers used in ring-opening polymerization (ROP) to synthesize polymers.
+
+Text:
+A versatile approach to synthesize sustainable sequence
+defined polymers is to conjoin ringopening polymerization (ROP) of lactones and ring
+opening copolymerization (ROCOP) of epoxideheteroallene.1119 As an example, Williams 
+and coworkers developed a stateoftheart switch catalysis strategy whereby a unimodal 
+catalyst can switch between ROP and ROCOP to deliver block copolymers from mixed 
+monomers.2023 The key is to construct robust catalysts capable of simultaneously adapting to 
+the different mechanisms of ROP and ROCOP.

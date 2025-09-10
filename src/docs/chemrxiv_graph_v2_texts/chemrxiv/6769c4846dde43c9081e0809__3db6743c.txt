@@ -1,0 +1,13 @@
+Description:
+A receptor kinase involved in glucose homeostasis and metabolism.
+
+Text:
+IR is a receptor tyrosine kinase that plays a crucial role in 
+several biochemical processes in mammalian cells, including glucose homeostasis and protein, 
+carbohydrate, and lipid metabolism. The IR is a homodimeric () glycoprotein composed of 
+extracellular, transmembrane, and intracellular parts. The binding of insulin to the extracellular 
+part (ectodomain) brings about conformational changes that are subsequently transduced to the 
+intracellular kinasesignaling domain.11 The dysfunction of the IR in humans has been linked to 
+an increased risk of diabetes mellitus or cancer.12 The IR ectodomain is composed of multiple 
+domains; leucinerich repeat domain (L1), cysteinerich region (CR), a second leucinerich repeat 
+domain (L2), followed by three fibronectin type III domains (FnIII1, FnIII2, FnIII3).

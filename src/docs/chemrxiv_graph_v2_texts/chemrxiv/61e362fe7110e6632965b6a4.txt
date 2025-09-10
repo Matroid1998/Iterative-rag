@@ -1,0 +1,12 @@
+Description:
+A narrow-gap semiconductor with strong spin-orbit coupling leading to topologically protected gaps.
+
+Text:
+Reactions in molten fluxes can lead to such kineticallytrapped metastable
+phases unobtainable by direct combination of elements,1 and these methods have proven
+to be prolific in producing new chalcogenide materials in particular.2 These compounds are
+typically narrowgap semiconductors and heavy elements lead to strong spinorbit coupling,
+which can lead to topologically protected gaps, such as in TlBiS2 3 and Bi2Se3.4 Given the
+nascent field of crystal growth for nontrivial topology, the identification and highquality
+growth of these materials is invaluable. Unfortunately, the reaction vessels obscure the progression of phase nucleation, growth,
+and transformation.

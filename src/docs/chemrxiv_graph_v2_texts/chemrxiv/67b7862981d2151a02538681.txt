@@ -1,0 +1,11 @@
+Description:
+Used in ecofriendly fuel cells and produced via water electrolysis.
+
+Text:
+The key to a sustainable future lies in developing materials that can be used to generate and store 
+energy 1. A crucial aspect of this pertains to the progress of ecofriendly hydrogen fuel cells and 
+the production of hydrogen fuel via water electrolysis 2, 3, 4. This necessitates the engineering of a 
+proficient catalyst for the hydrogen evolution reaction (HER). Nevertheless, the sustainability of 
+HER is hindered by the high cost of the most efficient noble metal catalysts5, 6. Therefore, to design 
+costeffective HER catalysts, it is imperative to focus on developing catalysts that are scalable, 
+effective, and reliable. Tungsten (W) is relatively abundant in the earths crust, compared to noble metals7, 8.

@@ -1,0 +1,25 @@
+Description:
+Acts as a substrate for LPMOs to generate H2O2 through oxidase reactivity.
+
+Text:
+is the preferred (and possibly only1618) cosubstrate, making LP
+MOs the first copper enzymes known to carry out a peroxygenase
+reaction.14
+A complicating factor for the elucidation of the LPMO mech
+anism has been that LPMOs, in absence of polysaccharide sub
+strate, can generate H2O2 from O2 (oxidase reactivity).19,20 Only
+a reductant must be present as any LPMO activity requires an
+initial priming reduction of the activesite Cu(II) to Cu(I).21
+The oxidase activity is commonly measured in experimental stud
+ies, showing that multiple LPMO families with different substrate
+specificity generate H2O2 and that the rates of H2O2 production
+can differ considerably between LPMO families but even within
+the same family.22 Under typical experimental conditions where
+no exogenous H2O2 is added, substrate oxidation may rely on
+this in situ generation of H2O2, and it is thus possible that the
+H2O2 production may be rate determining.15,22,23 However, ex
+cess H2O2 can lead to oxidative damage and inactivation of LP
+MOs, especially when the substrate is absent or only present
+in low concentrations.15 Therefore, understanding the detailed
+mechanism of H2O2 generation is crucial for controlling LPMO
+activity and avoiding enzyme inactivation.

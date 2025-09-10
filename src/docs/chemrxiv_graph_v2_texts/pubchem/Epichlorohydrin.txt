@@ -1,0 +1,31 @@
+Name: Epichlorohydrin
+Text:
+Epichlorohydrin can cause cancer according to an independent committee of scientific and health experts. It can cause male reproductive toxicity according to The Environmental Protection Agency (EPA).
+1-chloro-2,3-epoxypropane appears as a clear colorless liquid with an irritating chloroform-like odor. Density 9.8 lb / gal. Flash point 87 °F. Polymerizable. If polymerization takes place inside a closed container, the container is subject to violent rupture. Irritates the skin and respiratory system. Toxic by ingestion. A confirmed carcinogen. Vapors heavier than air. Used to make plastics and as a solvent.
+Epichlorohydrin is an epoxide that is 1,2-epoxypropene in which one of the methyl hydrogens is substituted by chlorine. It is an organochlorine compound and an epoxide. It is functionally related to a 1,2-epoxypropane.
+Epichlorohydrin is mainly used in the production of epoxy resins. Acute (short-term) inhalation exposure to epichlorohydrin in the workplace has caused irritation to the eyes, respiratory tract, and skin of workers. At high levels of exposure, nausea, vomiting, cough, labored breathing, inflammation of the lung, pulmonary edema, and renal lesions may be observed in humans. Chronic (long-term) occupational exposure of humans to epichlorohydrin in air is associated with high levels of respiratory tract illness and hematological effects. Damage to the nasal passages, respiratory tract and kidneys have been observed in rodents exposed to epichlorohydrin by inhalation for acute or chronic duration. An increased incidence of tumors of the nasal cavity has been observed in rats exposed by inhalation. EPA has classified epichlorohydrin as a Group B2, probable human carcinogen.
+Epichlorohydrin is a volatile and flammable, clear, colorless, liquid, chlorinated cyclic ether with an irritating, chloroform-like odor that emits toxic fumes of hydrochloric acid and other chlorinated compounds when heated to decomposition. Epichlorohydrin is used in the manufacture of epoxy resins, synthetic glycerin and elastomers. Exposure to epichlorohydrin irritates the eyes, skin and respiratory tract, and can cause chemical pneumonitis, pulmonary edema, and renal lesions.  This substance also affects the blood. Epichlorohydrin is reasonably anticipated to be a human carcinogen and may be associated with an increased risk of developing respiratory cancer. (NCI05)
+A chlorinated epoxy compound used as an industrial solvent. It is a strong skin irritant and carcinogen.
+See also: Colestipol Hydrochloride (monomer of); Colestipol (monomer of); Bixalomer (monomer of) ... View More ...
+Properties:safety: Flammable and Corrosive and Acute Toxic and Health Hazard
+smiles: C1C(O1)CCl
+formula: C3H5ClO
+chem_properties: Molecular Weight: 92.52 g/mol
+XLogP3: 0.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 1
+Exact Mass: 92.0028925 Da
+Monoisotopic Mass: 92.0028925 Da
+Topological Polar Surface Area: 12.5
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 37.9
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

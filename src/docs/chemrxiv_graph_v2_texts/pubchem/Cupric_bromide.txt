@@ -1,0 +1,26 @@
+Name: Cupric bromide
+Text:
+Copper(ii) bromide is an odorless black solid. Sinks and mixes with water. (USCG, 1999)
+Copper(II) bromide is a bromide of copper. It is used in photographic processing as an intensifier and as a brominating agent in organic synthesis. Copper is a chemical element with the symbol Cu and atomic number 29. Copper is an essential elements in plants and animals as it is required for the normal functioning of more than 30 enzymes. It occurs naturally throughout the environment in rocks, soil, water, and air. Bromine is a halogen element with the symbol Br and atomic number 35. Diatomic bromine does not occur naturally, but bromine salts can be found in crustal rock. (L625, L277, L278, L297)
+See also: Cupric Cation (has active moiety).
+Properties:safety: Corrosive and Irritant and Environmental Hazard
+smiles: [Cu](Br)Br
+formula: Br2Cu
+chem_properties: Molecular Weight: 223.35 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 222.76422 Da
+Monoisotopic Mass: 220.76627 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 2.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,27 @@
+Name: Choline Chloride
+Text:
+Choline chloride appears as white crystals. Practically neutral aqueous solution. (NTP, 1992)
+Choline chloride is a quaternary ammonium salt with choline cation and chloride anion. It has a role as an animal growth promotant. It is a chloride salt and a quaternary ammonium salt. It contains a choline.
+CHOLINE CHLORIDE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2012 and is indicated for prostate cancer and prostate adenocarcinoma and has 5 investigational indications.
+A basic constituent of lecithin that is found in many plants and animal organs. It is important as a precursor of acetylcholine, as a methyl donor in various metabolic processes, and in lipid metabolism.
+Properties:safety: Irritant
+smiles: C[N+](C)(C)CCO.[Cl-]
+formula: C5H14NO.Cl
+chem_properties: Molecular Weight: 139.62 g/mol
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 2
+Exact Mass: 139.0763918 Da
+Monoisotopic Mass: 139.0763918 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 46.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

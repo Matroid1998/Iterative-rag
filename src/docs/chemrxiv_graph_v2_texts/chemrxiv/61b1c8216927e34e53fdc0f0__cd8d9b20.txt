@@ -1,0 +1,19 @@
+Description:
+A key component of the dodecanuclear cluster Mn12O12(OAc)16(H2O)4 2MeCO2H4H2O, which is an archetypal Single Molecule Magnet.
+
+Text:
+Molecular nanomagnets (MNMs) are a research focus of 
+scientists due to a variety of potential applications14, including 
+molecular spintronics1, 5, 6, highdensity information storage79 , 
+quantum information processing or sensing.1016 These systems 
+display magnetic hysteresis below their blocking temperature 
+(TB) and are magnetically bistable, exhibiting an energy barrier 
+to spin reversal (Ueff)1722, ultimately manifested by macroscopic 
+quantum tunneling and slow relaxation of magnetization. The 
+archetypal Single Molecule Magnet (SMM) is a dodecanuclear 
+manganese cluster, Mn12O12(OAc)16(H2O)4 2MeCO2H4H2O, 
+magnetically characterized by R. Sessoli, D. Gatteschi et al., 
+exhibiting Ueff  60 K and TB3K.23 That discovery led to the 
+quest for SMMs with a TB above room temperature. More 
+recently, research concentrates on monometallic Single Ion 
+Magnets (SIMs) based on the f2427 and d block28, 29 ions.

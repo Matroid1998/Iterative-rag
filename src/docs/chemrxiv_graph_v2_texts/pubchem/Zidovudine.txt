@@ -1,0 +1,39 @@
+Name: Zidovudine
+Text:
+Zidovudine (AZT) can cause cancer according to California Labor Code.
+3'-azido-3'-deoxythymidine is a slightly off-white odorless powdery solid. (NTP, 1992)
+Zidovudine is a pyrimidine 2',3'-dideoxyribonucleoside compound having a 3'-azido substituent and thymine as the nucleobase. It has a role as an antiviral drug, an antimetabolite and a HIV-1 reverse transcriptase inhibitor. It is a pyrimidine 2',3'-dideoxyribonucleoside and an azide.
+Zidovudine (brand name: Retrovir) is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the following uses:
+To treat HIV infection in adults,&nbsp;children, and infants.&nbsp;When zidovudine is used to treat HIV infection, the medicine is always used in combination with other HIV medicines.
+To prevent mother-to-child transmission (perinatal transmission) of HIV. When used to prevent mother-to-child transmission, zidovudine is given to women with HIV&nbsp;during pregnancy and childbirth and to their infants after birth.&nbsp;
+Although zidovudine is FDA-approved, it is no longer commonly used or recommended as an HIV treatment in adults and adolescents. The Guidelines for the Use of Antiretroviral Agents in Adults and Adolescentswith HIV no longer contain detailed or updated information on the use of zidovudine. Please refer to the FDA drug labels (capsule, oral solution, injection [solution]; tablet) for additional information regarding the use of zidovudine in people with HIV.
+Zidovudine is a Human Immunodeficiency Virus Nucleoside Analog Reverse Transcriptase Inhibitor. The mechanism of action of zidovudine is as a Nucleoside Reverse Transcriptase Inhibitor.
+Zidovudine is a nucleoside analogue and reverse transcriptase inhibitor used in combination with other agents in the therapy and prophylaxis of the human immunodeficiency virus (HIV) infection and the acquired immunodeficiency syndrome (AIDS). Zidovudine is a rare, but well established cause of clinically apparent acute and chronic liver injury.
+Zidovudine has been reported in Daphne genkwa, Stachybotrys chartarum, and Ecklonia cava with data available.
+Zidovudine is a synthetic dideoxynucleoside. After intracellular phosphorylation to its active metabolite, zidovudine inhibits DNA polymerase, resulting in the inhibition of DNA replication and cell death. This agent also decreases levels of available pyrimidines. (NCI04)
+ZIDOVUDINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1987 and has 4 approved and 17 investigational indications. This drug has a black box warning from the FDA.
+A dideoxynucleoside compound in which the 3&#39;-hydroxy group on the sugar moiety has been replaced by an azido group. This modification prevents the formation of phosphodiester linkages which are needed for the completion of nucleic acid chains. The compound is a potent inhibitor of HIV replication, acting as a chain-terminator of viral DNA during reverse transcription. It improves immunologic function, partially reverses the HIV-induced neurological dysfunction, and improves certain other clinical abnormalities associated with AIDS. Its principal toxic effect is dose-dependent suppression of bone marrow, resulting in anemia and leukopenia. 
+A dideoxynucleoside compound in which the 3'-hydroxy group on the sugar moiety has been replaced by an azido group. This modification prevents the formation of phosphodiester linkages which are needed for the completion of nucleic acid chains. The compound is a potent inhibitor of HIV replication, acting as a chain-terminator of viral DNA during reverse transcription. It improves immunologic function, partially reverses the HIV-induced neurological dysfunction, and improves certain other clinical abnormalities associated with AIDS. Its principal toxic effect is dose-dependent suppression of bone marrow, resulting in anemia and leukopenia.
+See also: Lamivudine; zidovudine (component of); Abacavir Sulfate; LAmivudine; Zidovudine (component of); Lamivudine; zidovudine; nevirapine (component of) ... View More ...
+Properties:safety: Health Hazard
+smiles: CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CO)N=[N+]=[N-]
+formula: C10H13N5O4
+chem_properties: Molecular Weight: 267.24 g/mol
+XLogP3: 0
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 3
+Exact Mass: 267.09675391 Da
+Monoisotopic Mass: 267.09675391 Da
+Topological Polar Surface Area: 93.2
+Heavy Atom Count: 19
+Formal Charge: 0
+Complexity: 484
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 3
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

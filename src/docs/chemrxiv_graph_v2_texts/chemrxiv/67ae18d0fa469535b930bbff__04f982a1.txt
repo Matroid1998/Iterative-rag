@@ -1,0 +1,11 @@
+Description:
+Complexes with high molar extinction coefficients used as photosensitizers for photocatalytic hydrogen generation.
+
+Text:
+Cyclometalated iridium complexes with the general formula Ir(CN)2(NN) have been 
+shown to have high molar extinction coefficients.13 This property makes them desirable 
+candidates as photosensitizers (PS) for the photocatalytic hydrogen generation.49 While these 
+catalysts can show turnover numbers (TONs) as high as 17,000, they are typically short
+lived,10 as the catalysts tend to degrade over prolonged periods.1112 This is due to metal
+ligand bonds rupturing in the presence of unstable radicals and anions, causing the cationic 
+ligand moiety of the complex to dissociate.1214

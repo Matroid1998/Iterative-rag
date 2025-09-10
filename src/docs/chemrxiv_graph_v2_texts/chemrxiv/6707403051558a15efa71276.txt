@@ -1,0 +1,21 @@
+Description:
+Used in glycosylation to fix the stereoisomer form of Dglucose.
+
+Text:
+28 
+Organogelators include low molecularweight organogelators (LMG) and polymeric organogelators. 29 
+LMGs express their functions by creating threedimensional supramolecular structures, such as self
+30 
+assembled fibrous structures, through noncovalent bonds, such as van der Waals interactions,  
+31 
+interactions, solvophobic effects, and hydrogen bonding. Various sugar derivatives have been 
+32 
+developed as LMGs.1 Dglucose has been the most well studied among the sugars, and various 
+33 
+derivatives have been developed as organogelators.26 However, synthesizing various organogelators 
+34 
+derived from Dglucose inevitably requires multiple steps. This is because the anomeric position of 
+35 
+Dglucose can form two stereoisomers,  and forms, and methyl glycosylation is often performed 
+36 
+first to fix either one of them.

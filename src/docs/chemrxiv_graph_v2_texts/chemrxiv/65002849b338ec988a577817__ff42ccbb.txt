@@ -1,0 +1,16 @@
+Description:
+Have solute descriptors determined by Goss et al.
+
+Text:
+The lowercase letters are referred to 
+as system parameters, are calibrated by leastsquares multiple 
+linear regression (MLR) with typically 50 or more calibration data, 
+and reflect the complementary interaction properties of the two 
+phases. The terms with S, A, and B describe the polar 
+interactions, while those with V and L describe the nonspecific 
+cavity formation and nonpolar interactions. The PPLFERs can conveniently predict a variety of partition 
+coefficients for a given compound. While solute descriptors are 
+available for several thousand compounds,10 they are rarely 
+available for PFAS. In the past, Goss et al.11 determined solute 
+descriptors for four fluorotelomer alcohols (FTOHs) and four 
+fluorotelomer olefins (FTOs).

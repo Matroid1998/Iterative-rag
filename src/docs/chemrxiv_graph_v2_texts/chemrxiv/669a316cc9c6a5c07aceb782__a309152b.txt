@@ -1,0 +1,14 @@
+Description:
+Main product under lower temperatures in the Reverse Water Gas Shift process.
+
+Text:
+However, these phenomena have only been investigated from the perspective of
+Surface Science, without considering farther the implications of the observed changes on the
+reactivity of the catalyst.3,5,13
+Among the reactions that generate CO, the Reverse Water GasShift (RWGS; Equation
+1), that recycles CO2 and uses (preferentially green) hydrogen is receiving considerable
+attention of late as it can effectively balance industrial feeds.9,1416 The process is endothermic
+(H042 kJ mol1; S42 J mol1 K1)14,15,1721 and, under lower temperatures, methane
+becomes the main product (H0165 kJ mol1, Equation 2). This reduces the process
+efficiency,14,17 and decreases the yield of other possible minor byproducts such as methanol,22
+Equation 3.

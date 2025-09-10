@@ -1,0 +1,26 @@
+Description:
+React with amines in direct amidation reactions to form amides.
+
+Text:
+The direct amidation reaction between carboxylic acids and amines is one of the most common processes 
+employed in the synthesis of organic molecules in both academic and industrial organisations. It remains a 
+highly inefficient reaction, however, due to the widespread use of stoichiometric activating agents that leads 
+to the generation of high molecular weight byproducts as well as increased solvent use during both workup 
+and purification.1 There has consequently been considerable interest in recent years in the development of 
+catalytic direct amidation reactions which enable amides to be produced from carboxylic acids and amines 
+with a molecule of water as the only stoichiometric byproduct.
+
+
+---
+
+Description:
+Polar functionalized compounds that are not effectively solubilized by relatively nonpolar solvents.
+
+Text:
+For larger scale reactions, DeanStark water removal is employed as this is considerably more 
+efficient in terms of solvent usage and scalability, and there are a few reports of direct amidation reactions 
+catalysed by boric acid or simple boronic acids being employed on an industrial scale.7 The solvents used for 
+catalytic amidation reactions are typically aromatic hydrocarbons (toluene,2a,3a fluorobenzene2b), chlorinated 
+solvents (1,2dichloroethane2i) or ethers (Et2O,5d THF,4a4b CPME,3e TAME3g3h), and these are often sub
+optimal from a safety andor sustainability perspective.8 In addition, these relatively nonpolar solvents do 
+not effectively solubilise many polar functionalised carboxylic acids or amines.

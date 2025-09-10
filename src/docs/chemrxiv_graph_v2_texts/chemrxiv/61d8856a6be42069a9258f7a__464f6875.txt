@@ -1,0 +1,68 @@
+Description:
+An amide functional group derived from carboxylic acids.
+
+Text:
+N
+Ts
+CONH2
+H
+H
+HN N
+E
+E
+strain release
+synchronized aromaticity
+N
+Ts
+CONH2
+H
+HN N
+E
+E
+X
+X
+heteroatomic 1,5dienes 3,3s
+favorable (G   0)
+1,5diene
+unfavorable (G  0)
+O
+O
+productively decorated 1,5dienes
+favorable (G   0)
+unproductively decorated 1,5dienes
+unfavorable (G  0)
+B
+C
+MeO
+OMe
+O
+H
+H
+O
+OMe
+OMe
+H
+H
+anion acceleration
+E  
+CO2Et
+(1)
+(2)
+(3)
+A
+O
+Me
+Me
+Eu
+R
+H
+N
+H
+Ph
+HN
+H
+O
+P
+O
+RO
+OR

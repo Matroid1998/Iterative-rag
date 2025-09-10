@@ -1,0 +1,24 @@
+Name: Cyclobutanone
+Text:
+Properties:safety: Flammable
+smiles: C1CC(=O)C1
+formula: C4H6O
+chem_properties: Molecular Weight: 70.09 g/mol
+XLogP3: 0
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 70.041864811 Da
+Monoisotopic Mass: 70.041864811 Da
+Topological Polar Surface Area: 17.1
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 50.7
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

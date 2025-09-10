@@ -1,0 +1,13 @@
+Description:
+Frequently used acceptors due to their excellent electron transport and good energy alignment with commonly used donors.
+
+Text:
+Up until recently, fullerenes were the most frequently used acceptor due to their excellent elec
+tron transport and good energy alignment with commonly used donors5. They have drawbacks
+when acting as acceptors, however, including weak light absorption, complex synthesis, limited
+tunability, and poor photostability6,7. As an alternative, nonfullerene small molecules emerged,
+showing highly tunable optical and electronic properties, strong absorption of visible and near
+infrared (NIR) light, and low production cost68. The most common design for NFAs is joining
+electronwithdrawing units and electron donating units, due to their pushpull effect and en
+hanced intramolecular charge transfer (ICT). This effect has been shown to improve the PCE by
+broadening the absorption spectrum and improving charge mobility9,10.

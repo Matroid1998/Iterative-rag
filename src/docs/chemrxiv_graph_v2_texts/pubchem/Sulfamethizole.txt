@@ -1,0 +1,32 @@
+Name: Sulfamethizole
+Text:
+Sulfamethizole is a white powder. (NTP, 1992)
+Sulfamethizole is a sulfonamide consisting of a 1,3,4-thiadiazole nucleus with a methyl substituent at C-5 and a 4-aminobenzenesulfonamido group at C-2. It has a role as an antimicrobial agent, an EC 2.5.1.15 (dihydropteroate synthase) inhibitor, an antiinfective agent and a drug allergen. It is a sulfonamide, a member of thiadiazoles and a sulfonamide antibiotic.
+A sulfathiazole antibacterial agent.
+Sulfamethizole has been reported in Apis cerana with data available.
+Sulfamethizole is a broad-spectrum sulfanilamide and a synthetic analog of para-aminobenzoic acid (PABA) with antibacterial property. Sulfamethizole competes with PABA for the bacterial enzyme dihydropteroate synthase, thereby preventing the incorporation of PABA into dihydrofolic acid, the immediate precursor of folic acid. This leads to an inhibition of bacterial folic acid synthesis and de novo synthesis of purines and pyrimidines, ultimately resulting in cell growth arrest and cell death.
+SULFAMETHIZOLE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1953 and is indicated for eye infection and bacterial disease and has 1 investigational indication.
+A sulfathiazole antibacterial agent.
+See also: Methenamine Mandelate; Sulfamethizole (component of).
+Properties:safety: Irritant
+smiles: CC1=NN=C(S1)NS(=O)(=O)C2=CC=C(C=C2)N
+formula: C9H10N4O2S2
+chem_properties: Molecular Weight: 270.3 g/mol
+XLogP3: 0.5
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 3
+Exact Mass: 270.02451792 Da
+Monoisotopic Mass: 270.02451792 Da
+Topological Polar Surface Area: 135
+Heavy Atom Count: 17
+Formal Charge: 0
+Complexity: 348
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

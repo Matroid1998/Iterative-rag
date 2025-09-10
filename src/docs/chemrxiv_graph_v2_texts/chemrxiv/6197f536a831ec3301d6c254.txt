@@ -1,0 +1,10 @@
+Description:
+Used in a vast array of synthetic methods involving catalysis.
+
+Text:
+A vast array of synthetic methods involving nickel catalysis has been developed in recent years.1 
+Methods that involve exogeneous reductants often are best accomplished with airstable Ni(II) catalysts,1d,1e 
+which are desirable compared with more airsensitive Ni(0) counterparts. While processes involving 
+phosphine and pyridine ligand frameworks often perform well with Ni(II) precursors,2 reactions that 
+involve Nheterocyclic carbene ligands are more commonly performed with Ni(COD)2 as the precatalyst. This choice is due to inefficiencies in the catalyst reduction and formation of catalytically active Ni(0) 
+species.

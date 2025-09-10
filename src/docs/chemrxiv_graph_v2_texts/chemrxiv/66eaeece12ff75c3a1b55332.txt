@@ -1,0 +1,29 @@
+Description:
+Elemental sulfur has a remarkable theoretical specific capacity of 1675 mA hg and is ecofriendly and abundant.
+
+Text:
+The remarkable theoretical specific capacity of elemental sulfur (1675 mA hg), its
+ecofriendly nature, and its abundance make lithiumsulfur (LiS) batteries an attractive
+alternative to current lithiumion batteries.1,2 Nevertheless, their cycle life has so far been
+limited due to certain drawbacks. A notable challenge is the formation of longchain, soluble
+lithium polysulfides during the discharge and their shuttling through the conventional elec
+trolytes,3,4 which leads to a depletion of the active material and formation of an insulating
+layer around the anode. All these processes result in an irreversible capacity fade in LiS
+batteries.5,6 To tackle these issues, numerous studies have focused on structural optimization
+of sulfur cathodes including utilization of sulfurcarbon copolymers.
+
+
+---
+
+Description:
+Used in inverse vulcanization reactions to control sulfur content.
+
+Text:
+In order to synthesize
+SC copolymers, many researchers have employed the inverse vulcanization reaction as a
+facile synthesis method which provides a straightforward way for controlling sulfur content. Among others, sulfurn1,3diisopropenylbenzene (SDIB) copolymer has shown a promising
+performance as an active cathode material for LiS batteries.7,8
+Structural characterization of SDIB copolymers has been the subject of several studies
+so far.6,911 For example, similar to other SC copolymers involving sulfur chains,1218
+2
+httpsdoi.org10.26434chemrxiv2024q6ssd ORCID httpsorcid.org0009000934031570 Content not peerreviewed by ChemRxiv. License CC BY 4.0

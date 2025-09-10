@@ -1,0 +1,14 @@
+Description:
+Monomer with a specific dipole strength used in polymer chains and solvents.
+
+Text:
+, we rst probed the inuence of anion type
+and nanoparticle volume fraction on conductivity. Our coarsegrained model distinguishes
+ions only on the basis of their size, neglecting the specic inuence of their chemistry. Ac
+cordingly, we consider two dierent anion sizes, anion  2.0  and 1.5 , where  denotes
+the size of the monomer both in the polymer chains and in the oligomeric solvent. The
+cation size (cat) for this set of results was chosen to be 0.5  to represent Li.18 To mimic
+polyethylene oxide and tetraglyme as the functionalized polymer chains and oligomeric sol
+vent host,15,16 the strength of the embedded dipole in their respective monomers was xed
+to be that of an ethylene oxide (EO) monomer (  EO) at 373 K.
+5

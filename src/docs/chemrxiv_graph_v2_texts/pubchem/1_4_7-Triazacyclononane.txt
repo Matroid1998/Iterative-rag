@@ -1,0 +1,25 @@
+Name: 1,4,7-Triazacyclononane
+Text:
+1,4,7-triazonane is a saturated organic heteromonocyclic parent, a crown amine and an azacycloalkane.
+Properties:safety: Corrosive
+smiles: C1CNCCNCCN1
+formula: C6H15N3
+chem_properties: Molecular Weight: 129.20 g/mol
+XLogP3: -1.9
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 129.126597491 Da
+Monoisotopic Mass: 129.126597491 Da
+Topological Polar Surface Area: 36.1
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 45.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

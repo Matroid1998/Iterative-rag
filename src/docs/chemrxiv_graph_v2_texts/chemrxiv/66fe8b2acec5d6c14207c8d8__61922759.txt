@@ -1,0 +1,34 @@
+Description:
+A product of the nitrogen photofixation reaction enhanced by gC3N4 heterojunctions.
+
+Text:
+of foreign elements such as metals (e.g., Fe, Co) or nonmetals (e.g., S, P) into the g
+C3N4 matrix effectively enhanced its electronic properties and improve charge separation.1618 For the 
+nitrogen photofixation reaction the combination of gC3N4 with other materials, such as metal oxides 
+or conducting polymers, through the realization of heterojunctions, can synergistically enhance 
+photocatalytic activity and stability promoting good ammonia production rates.6,16,1921 Among other 
+approaches, the generation of nitrogen vacancies in carbon nitride shows to be a good strategy to 
+boost the nitrogen photofixation as demonstrated in recent times.
+
+
+---
+
+Description:
+Produced via photoproduction using a metal halide perovskite-based heterojunction.
+
+Text:
+While the abovereported materials represent wellestablished photocatalysts, in the last years 
+metal halide perovskites (MHPs) have demonstrated to be efficient and promising materials for 
+various photocatalytic applications thanks to their unique features such as tunable band gap, high 
+absorption coefficient, and long charge carrier lifetime and diffusion lengths, which are crucial for 
+reducing recombination rates and enhancing photocatalytic efficiency.2225 While MHPs have been 
+extensively explored for several solarrelated applications, such as photocatalytic H2 generation, 
+photoreduction of CO2, and synthesis of organic molecules, their exploitation in the field of nitrogen 
+photofixation is in its newborn era, with the first example, reporting the Cs2AgBiCl6gC3N4 
+heterojunction, recently published by our group, where it was proved that such system is capable, by 
+properly tuning the heterojunction composition, to carry out both H2 photogeneration and N2 
+photofixation with active sites for this reaction present on the carbon nitride and with the perovskite 
+acting to improve charge carrier management.26 While this paper represents the first demonstration 
+of a MHPsbased heterojunction for ammonia photoproduction, the obtained rates were relatively low 
+and the full exploitation of the potential of such systems for nitrogen photofixation has still to be 
+demonstrated.

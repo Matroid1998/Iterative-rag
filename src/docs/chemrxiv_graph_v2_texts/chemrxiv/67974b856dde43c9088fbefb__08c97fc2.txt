@@ -1,0 +1,12 @@
+Description:
+A hyperpolarized probe used in DNPMRI to capture multiple biological parameters, including enzymatic activities.
+
+Text:
+The realization of 
+dissolution dynamic nuclear polarization (DNP) coupled MRI (DNPMRI), which employs 13Clabeled 
+hyperpolarized molecular probes to achieve highly sensitive MRI measurements in vivo, has raised ex
+pectations for in vivo realtime imaging of enzymatic activities22,23. In 2010, Wilson et al. demonstrated that copolarized four DNPMRI probes, 113Cpyruvate, 1,4
+13C2fumarate, 13Curea, and 13Cbicarbonate enabled simultaneous detection of multiple enzymatic ac
+tivities and physiological parameters in mice24. More recently, the coinjection of hyperpolarized 1
+13Cpyruvate and 13C,15N2urea into patients has been in progress, attracting attention for the potential of 
+DNPMRI to simultaneously capture multiple biological parameters, including enzymatic activities25. httpsdoi.org10.26434chemrxiv2025wcbc3 ORCID httpsorcid.org0000000302757237 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

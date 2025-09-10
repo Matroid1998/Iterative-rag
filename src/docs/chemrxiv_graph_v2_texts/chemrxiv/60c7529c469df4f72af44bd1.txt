@@ -1,0 +1,18 @@
+Description:
+An atomic perovskite that drives piezo and ferroelectricity through second-order Jahn-Teller distortions or stereoactive lone pairs.
+
+Text:
+Molecular perovskites, perovskites of composition AMX3 where
+at least one of A, M or X is molecular, have additional degrees of
+freedom which can produce orderings impossible in atomic per
+ovskites.1 These new orderings provide novel routes for materi
+als to respond to external stimuli. One area of particular interest
+is using the molecular components to create electrical polarisa
+tion, without the need for the secondorder JahnTeller distortions
+or stereoactive lone pairs that drive piezo and ferroelectricity in
+atomic perovskites, e.g. BaTiO3 or Pb(Zr, Ti)O3.2 Molecular per
+ovskites now possess polarisations and transition temperatures
+which approach those of inorganic perovskites.3 However, their
+polarity is typically produced by the orientational order of po
+lar Asite cations.4 The functionality often bestowed by the MX3
+framework, e.g.

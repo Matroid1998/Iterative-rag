@@ -1,0 +1,28 @@
+Name: Methyl tert-butyl ether
+Text:
+Methyl tert-butyl ether (MTBE) is a flammable liquid with a distinctive, disagreeable odor. It is made from blending chemicals such as isobutylene and methanol, and has been used since the 1980s as an additive for unleaded gasolines to achieve more efficient burning.MTBE is also used to dissolve gallstones. Patients treated in this way have MTBE delivered directly to their gall bladders through special tubes that are surgically inserted.
+Methyl tert-butyl ether appears as a colorless liquid with a distinctive anesthetic-like odor. Vapors are heavier than air and narcotic (cause drowsiness when inhaled). This liquid has a flash point lower than most ambient temperatures, so it will readily ignite under most conditions. It is less dense than water and moderately soluble in water. Used as a octane booster in gasoline.
+Methyl tert-butyl ether is an ether having methyl and tert-butyl as the two alkyl components. It has a role as a non-polar solvent, a fuel additive and a metabolite.
+Methyl tert-butyl ether is used as a gasoline additive. Exposure may occur by breathing air contaminated with auto exhaust or gasoline fumes while refueling autos. Respiratory irritation, dizziness, and disorientation have been reported by some motorists and occupationally exposed workers. Acute (short- term) exposure of humans to methyl tert-butyl ether also has occurred during its use as a medical treatment to dissolve cholesterol gallstones. Chronic (long-term) inhalation exposure to methyl tert-butyl ether has resulted in central nervous system (CNS) effects, respiratory irritation, liver and kidney effects, and decreased body weight gain in animals. Developmental effects have been reported in rats and mice exposed via inhalation. EPA has not classified methyltert-butyl ether with respect to potential carcinogenicity.
+Properties:safety: Flammable and Irritant
+smiles: CC(C)(C)OC
+formula: C5H12O
+chem_properties: Molecular Weight: 88.15 g/mol
+XLogP3: 0.9
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 1
+Exact Mass: 88.088815002 Da
+Monoisotopic Mass: 88.088815002 Da
+Topological Polar Surface Area: 9.2
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 33.7
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

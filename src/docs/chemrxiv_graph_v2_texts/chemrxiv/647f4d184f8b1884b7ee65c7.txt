@@ -1,0 +1,74 @@
+Description:
+A surfactant that can lead to interfacial electric fields as large as 1 V/nm.
+
+Text:
+The ability of surfactant molecules to selfassemble
+into monolayers at the airwater interface (AWI) is
+wellunderstood in terms of the thermodynamics associ
+ated with their amphiphilic character.1,2 An amphiphilic
+molecule, which is defined by a hydrophilic head group
+covalently bound to a hydrophobic tail group, is par
+ticularly suited for selfassembly in aqueous solution due
+to the balancing of the hydrophobic effect310 between
+tail groups with the high watersolubility of the head
+groups.1,2,11
+While many general features of this phenomenon are
+understood, the enormous variety of possible combi
+nations of head and tail groups bound within a sin
+gle surfactant, compounded with the even greater va
+riety of possible surfactant mixtures, opens questions
+about how one might optimize a surfactant system for
+a particular application.12 Recently, as part of a team
+of researchers looking to use soap bubbles for artifi
+cial photosynthesis12, we have shown that surfactant
+interfaces including C12E6 can lead to interfacial elec
+tric fields as large as 1Vnm.13 These magnitude and
+lengthscales of these fields are finely tuned by both the
+length of the surfactant and oriented water structure.
+
+
+---
+
+Description:
+A polar, charge-neutral surfactant that enhances the interfacial binding affinity of sodium dodecyl sulfate at the air-water interface.
+
+Text:
+In a recent study on mixtures of the ionic surfac
+tant, sodium dodecyl sulfate (SDS), with the polar (but
+chargeneutral) surfactant, C12E6, surfacesensitive vi
+a)Electronic mail colineganprotonmail.com
+b)Electronic mail ahassanaictp.it
+brational sum frequency generation spectroscopic mea
+surements demonstrated that the presence of a C12E6
+monolayer at the AWI enhances the interfacial binding
+affinity of SDS compared to that of SDS binding to the
+bare AWI.12 Umbrella sampling (US)24,25 molecular dy
+namics (MD) simulations corroborated this interpreta
+tion, showing a twofold enhancement of the free energy
+of DS(the surfactant part of SDS) binding to the air
+C12E6water interface (ACWI) compared to the free en
+ergy of binding to the AWI.
+
+
+---
+
+Description:
+Forms a monolayer that exhibits cooperative interfacial adsorption with DS, demonstrating a synergistic effect.
+
+Text:
+This result demonstrates
+the inadequacy of the Langmuir adsorption model in de
+scribing mixed surfactant monolayer selfassembly due
+to a combination of adsorbateadsorbate interactions as
+well as collective effects between DS, C12E6, and the
+interfacial water. Here we employ free energy decompositions (FEDs)
+to gain a more detailed understanding of the observed
+cooperative interfacial adsorption between DSand the
+C12E6 monolayer, which we refer to as the synergistic
+effect. As is typical in FEDs with the thermodynamic
+integration1416,18 and free energy perturbation6,16,18,19
+techniques, we utilize socalled alchemical intermediate
+states to extract components of the binding free energy
+due to specific interactions. In particular, the difference
+between the free energy profile of DSand that of the
+corresponding hydrophobic limit, DS0 (i.e.

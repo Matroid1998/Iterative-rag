@@ -1,0 +1,26 @@
+Name: Thiocarbohydrazide
+Text:
+Thiocarbazide appears as crystalline needles and plates. Used in electron microscopy to produce electron-opaque deposits for ultra structural analysis. (EPA, 1998)
+Thiocarbohydrazide is a thiocarbonyl compound.
+Properties:safety: Acute Toxic
+smiles: C(=S)(NN)NN
+formula: CH6N4S
+chem_properties: Molecular Weight: 106.15 g/mol
+XLogP3: -1
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 106.03131738 Da
+Monoisotopic Mass: 106.03131738 Da
+Topological Polar Surface Area: 108
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 45.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

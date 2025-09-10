@@ -1,0 +1,8 @@
+Description:
+Used in microfluidic structures prototyping without a replication template using a CO2 laser.
+
+Text:
+Currently, CO2 lasers, emitting infrared radiation at a wavelength of 10.6 m, are the highest power continuous wave lasers available. With their high efficiency they are commonly used in laser cutting, welding, drilling and surface treatment20. But they are also used in 
+applications for processing of components for microfluidic systems. A novel laser through cutting and pattern transfer process was 
+introduced for rapidly prototyping polydimethylsiloxane (PDMS) microfluidic structures without a replication template using a CO2 
+laser that significantly decreases the time and amount of equipment and consumables needed for microchannel processing21.

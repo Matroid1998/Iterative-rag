@@ -1,0 +1,67 @@
+Description:
+A photoswitch that undergoes reversible photoisomerization upon irradiation with light.
+
+Text:
+Light is a very attractive stimulus, owing 
+to its high temporal and spatial resolution, as well as the 
+possibility to apply it externally. Most often, photoresponse is 
+achieved by switching between two isomers of a molecular 
+photoswitch through a reversible photoisomerization upon 
+irradiation with light of a certain wavelength.2125 A 
+wellstudied example is the photoswitch azobenzene which 
+has been implemented in various photoresponsive BCPs.2629 
+The related arylazopyrazoles (AAPs) have not yet been 
+integrated in BCPs, despite their unique photophysical 
+properties.
+
+
+---
+
+Description:
+A compound with high photostationary states and long thermal halflives of the metastable Z isomer.
+
+Text:
+Compared to azobenzene, AAPs show high 
+photostationary states (PSS) and long thermal halflives of the 
+metastable Z isomer.23,30,31 Upon irradiation with UV light, 
+AAPs undergo a change in configuration to the bent Z isomer, 
+which has an increased dipole moment and a lower 
+hydrophobicity as compared to the linear E isomer.32 
+Many photoresponsive BCPs exhibit a shape transition in 
+the solid state3335 or their transitions in solution are based on 
+supramolecular interactions, such as hostguest complexes.36
+39 In comparison, less examples exist on the selfassembly of 
+BCPs with photoresponsive blocks in solution. In one 
+prominent example, Wang et al.
+
+
+---
+
+Description:
+A component in copolymers that can be disassembled and reassembled by irradiation.
+
+Text:
+studied an alternating azo 
+copolymer that can undergo a photoinduced deformation.40 
+The amphiphilic epoxybased alternating azo copolymer can 
+assemble in water into colloidal spheres which deform into 
+ellipsoids under irradiation with an Ar laser at 488 nm. It has 
+also been reported that assembled alternating copolymers or 
+BCP structures containing azobenzene can be disassembled 
+and reassembled by irradiation.28,4144 
+In this study, we report AAPbearing amphiphilic BCPs 
+capable of forming different assemblies in solution upon 
+photoisomerization of the AAP. To this end, a library of 
+different 
+amphiphilic 
+poly(oligo(ethylene 
+glycol) 
+methacrylateblockpoly(arylazopyrazole 
+tetra(ethylene 
+glycol) 
+methacrylate) 
+(POEGMAbPAAPMA) 
+was 
+synthesized with AAPs incorporated into the hydrophobic 
+block. The configuration of the AAP can be altered by green 
+light (520 nm, E isomer) and UV light (365 nm, Z isomer).

@@ -1,0 +1,12 @@
+Description:
+Involved in atom transfer reactions influenced by CH bond dissociation energies.
+
+Text:
+From a thermodynamic perspective, the reactivity trend operating in hydrogen atom transfer (HAT) 
+reactions mediated by radical and radicallike reagents such as metaloxo species is greatly influenced by 
+the CH bond dissociation energies (BDEs) that typically follow the order tertiary  secondary  primary 
+(Scheme 1A)14. In contrast, in precious metals mediated C(sp3)H bond functionalization proceeding 
+through the formation of an organometallic intermediate, an opposite reactivity trend is observed, dictated 
+by the strength of the resultant MC bond (Scheme 1B)1518. The tertbutyl group is a common molecular motif used to implement steric hindrance and structural rigidity 
+in organic and organometallic molecules19. However, in terms of reactivity, the tertbutyl CH bonds 
+represent a special case.

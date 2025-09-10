@@ -1,0 +1,13 @@
+Description:
+A metal oxide used in thin films for its dielectric properties.
+
+Text:
+By adjusting the composition, size, and loading of inclusions, materials with desired
+properties such as static dielectric permittivities, breakdown voltages, and dielectric losses
+can be fabricated. This can be accomplished while maintaining favorable properties of the
+matrix, such as processability and interfacial fit with other device components. Matrixinclusion composites have long been investigated for energy storage applications. Polymer matrices with ceramic inclusions, combine the high breakdown voltages and
+processability of polymers with the large polarizabilities of ceramics.3, 6, 7 In addition,
+the inclusion of metallic nanoparticles has been shown to increase the permittivities of both
+polymer and metal oxide (ZnO, Al2O3, HfO2, VO2, etc.) thin films.5, 8, 9, 10, 11, 6, 12, 13,
+14 The latter combinations show potential for integrating dielectricallyenhanced composites
+with existing semiconductor technologies.

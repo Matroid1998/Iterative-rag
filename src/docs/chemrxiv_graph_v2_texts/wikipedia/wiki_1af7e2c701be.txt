@@ -1,0 +1,14 @@
+In molecular biology, RNA polymerase (abbreviated  RNAP or  RNApol), or more specifically DNA-directed/dependent RNA polymerase (DdRP), is an enzyme that catalyzes the chemical reactions that synthesize RNA from a DNA template.
+Using the enzyme helicase, RNAP locally opens the double-stranded DNA so that one strand of the exposed nucleotides can be used as a template for the synthesis of RNA, a process called transcription. A transcription factor and its associated transcription mediator complex must be attached to a DNA binding site called a promoter region before RNAP can initiate the DNA unwinding at that position. RNAP not only initiates RNA transcription, it also guides the nucleotides into position, facilitates attachment and elongation, has intrinsic proofreading and replacement capabilities, and termination recognition capability. In eukaryotes, RNAP can build chains as long as 2.4 million nucleotides.
+RNAP produces RNA that, functionally, is either for protein coding, i.e. messenger RNA (mRNA); or non-coding (so-called "RNA genes"). Examples of four functional types of RNA genes are:
+
+Transfer RNA (tRNA)
+Transfers specific amino acids to growing polypeptide chains at the ribosomal site of protein synthesis during translation;
+Ribosomal RNA (rRNA)
+Incorporates into ribosomes;
+Micro RNA (miRNA)
+Regulates gene activity; and, RNA silencing
+Catalytic RNA (ribozyme)
+Functions as an enzymatically active RNA molecule.
+RNA polymerase is essential to life, and is found in all living organisms and many viruses. Depending on the organism, a RNA polymerase can be a protein complex (multi-subunit RNAP) or only consist of one subunit (single-subunit RNAP, ssRNAP), each representing an independent lineage. The former is found in bacteria, archaea, and eukaryotes alike, sharing a similar core structure and mechanism. The latter is found in phages as well as eukaryotic chloroplasts and mitochondria, and is related to modern DNA polymerases. Eukaryotic and archaeal RNAPs have more subunits than bacterial ones do, and are controlled differently.
+Bacteria and archaea only have one RNA polymerase. Eukaryotes have multiple types of nuclear RNAP, each responsible for synthesis of a distinct subset of RNA:

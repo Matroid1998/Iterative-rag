@@ -1,0 +1,13 @@
+Description:
+A conducting polymer known for its chemical and environmental stability, redox reversibility, and ease of synthesis.
+
+Text:
+Polyaniline (PANI) is one of the most widely studied conducting polymers due to its 
+many interesting properties like chemical and environmental stability, redox reversibility, and 
+ease of synthesis 1. The conducting or semiconducting nature of PANI has been used in various 
+applications, like biosensors 2,3, supercapacitors 4, metalsemiconductor devices 5, 
+actuators 6, secondary batteries 7,8, light emitting diodes 9, photovoltaic devices 10, field 
+effect transistors 11, laser printing 12, anticorrosion coating 1315, etc. However, the main 
+drawback of PANI is its poor solubility in water 16. Till date, the most common method to 
+improve the solubility, and hence processability of PANI in water is sulfonation, in which the 
+emeraldine salt form of PANI is treated with chlorosulfonic acid in an inert solvent 1721.

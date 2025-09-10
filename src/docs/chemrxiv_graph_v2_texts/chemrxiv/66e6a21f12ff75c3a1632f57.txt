@@ -1,0 +1,16 @@
+Description:
+Forms complexes with tetradentate ligands that can oxidize strong CH bonds in a stereospecific manner.
+
+Text:
+In this context, 
+the most promising candidates to develop enantioselective CH oxidation reactions are iron and 
+manganese complexes containing tetradentate ligands due to their ability to oxidize strong CH bonds 
+in a stereospecific manner.1720 
+Traditional optimization protocols in stereoselective oxidation reactions often mimic aspects 
+of highthroughput experimentation (HTE) techniques, a resourceintensive and timeconsuming 
+method. In this regard, systematic modification of the properties of the species involved in the system 
+can be regarded as an alternative strategy for reaction optimization whichusing a simple trial and 
+error approachhas found use in asymmetric epoxidation21 and CH oxidation reactions22 developed 
+with this type of catalysts. While in some instances satisfactory performance has been achieved from 
+these approaches, limited mechanistic information regarding the factors controlling the activity and 
+selectivity has been attained.

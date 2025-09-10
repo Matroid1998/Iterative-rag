@@ -1,0 +1,13 @@
+Description:
+Involved in the sluggish oxygen reduction reaction (ORR) in fuel cells.
+
+Text:
+Electrification of the transport sector and the transition towards renewable energy 
+solutions is crucial in the race towards cutting the greenhouse gas emissions. While battery 
+electric vehicles are already leading the way, an important part of the electrification puzzle will 
+be fuel cell electric vehicles 1. One of the main barriers preventing mass adoption of proton 
+exchange membrane fuel cell (PEMFC) technology remains the highcost of the electrocatalyst 
+material 2. Due to the inherently sluggish oxygen reduction reaction (ORR), a large amount of 
+platinum (Pt) is required, which would represent over 50 of the total membrane electrode 
+assembly (MEA) manufacturing costs 3 making it also the highest cost contributor to the entire 
+stack 4.

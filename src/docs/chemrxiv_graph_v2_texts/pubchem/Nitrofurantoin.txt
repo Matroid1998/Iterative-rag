@@ -1,0 +1,34 @@
+Name: Nitrofurantoin
+Text:
+Nitrofurantoin can cause male reproductive toxicity according to The National Toxicology Program.
+Nitrofurantoin appears as odorless lemon yellow crystals or fine yellow powder. Bitter taste. (NTP, 1992)
+Nitrofurantoin is an imidazolidine-2,4-dione that is hydantoin substituted at position 1 by a [(5-nitro-2-furyl)methylene]amino group. An antibiotic that damages bacterial DNA. It has a role as a hepatotoxic agent, an antiinfective agent and an antibacterial drug. It is an organonitrogen heterocyclic antibiotic, an organooxygen heterocyclic antibiotic, a nitrofuran antibiotic and an imidazolidine-2,4-dione. It is functionally related to a semicarbazide.
+Nitrofurantoin is a nitrofuran antibiotic used to treat uncomplicated urinary tract infections. Nitrofurantoin is converted by bacterial nitroreductases to electrophilic intermediates which inhibit the citric acid cycle as well as synthesis of DNA, RNA, and protein. This drug is more resistant to the development of bacterial resistance because it acts on many targets at once. Nitrofurantoin is a second line treatment to [trimethoprim]/[sulfamethoxazole].  Nitrofurantoin was granted FDA approval on 6 February 1953.
+Nitrofurantoin is a Nitrofuran Antibacterial.
+Nitrofurantoin is an oral antibiotic widely used either short term to treat acute urinary tract infections or long term as chronic prophylaxis against recurrent infections. Nitrofurantoin is one of the most common causes of drug induced liver disease and can cause either an acute or a chronic hepatitis-like syndrome that can be severe and lead to liver failure or cirrhosis.
+Nitrofurantoin is a synthetic derivative of imidazolidinedione, Nitrofurantoin inhibits bacterial DNA, RNA, and cell wall protein synthesis. Activated by bacterial flavoproteins to intermediates that inactivate bacterial ribosomal proteins, Nitrofurantoin is used prophylactically as a urinary anti-infective agent against most gram-positive and gram-negative organisms and for long-term suppression of infections. (NCI04)
+NITROFURANTOIN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1953 and has 3 approved and 1 investigational indication.
+A urinary anti-infective agent effective against most gram-positive and gram-negative organisms. Although sulfonamides and antibiotics are usually the agents of choice for urinary tract infections, nitrofurantoin is widely used for prophylaxis and long-term suppression.
+See also: Nitrofurantoin Monohydrate (active moiety of); Nitrofurantoin Sodium (has salt form); Nitrofurantoin; nitrofurantoin, macrocrystalline (component of) ... View More ...
+Properties:safety: Irritant and Health Hazard
+smiles: C1C(=O)NC(=O)N1/N=C/C2=CC=C(O2)[N+](=O)[O-]
+formula: C8H6N4O5
+chem_properties: Molecular Weight: 238.16 g/mol
+XLogP3: -0.5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 2
+Exact Mass: 238.03381930 Da
+Monoisotopic Mass: 238.03381930 Da
+Topological Polar Surface Area: 121
+Heavy Atom Count: 17
+Formal Charge: 0
+Complexity: 390
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

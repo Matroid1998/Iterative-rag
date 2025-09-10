@@ -1,0 +1,10 @@
+Description:
+Forms insulating passivating layers due to instability of the Li dopant in high concentrations.
+
+Text:
+These materials, however, form a poorly conductive tetragonal phase at high Li 
+content (as outlined below) and suffer from atmospheric HLi exchange (which ultimately forms 
+insulating Li2CO3 passivating layers due to instability of the Li dopant in high concentrations)4144. This 
+is in addition to the common SSE problems of high interfacial resistance and timeconsuming 
+synthesis. An ideal garnet has the formula; A3B2X3O12, where A, B and X are eight, six and four coordinated cation 
+sites, respectively, which crystallise in a facecentred cubic structure (e.g. A  Mg, Fe, B  Al, Cr, Fe, and

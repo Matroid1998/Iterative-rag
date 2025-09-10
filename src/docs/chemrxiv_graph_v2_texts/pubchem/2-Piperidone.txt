@@ -1,0 +1,27 @@
+Name: 2-Piperidone
+Text:
+Grayish-black irregular lump solid. Used to make acetylene and in steel manufacture.
+Piperidin-2-one is a delta-lactam that is piperidine which is substituted by an oxo group at position 2. It has a role as an EC 1.2.1.88 (L-glutamate gamma-semialdehyde dehydrogenase) inhibitor. It is a member of piperidones and a delta-lactam.
+2-Piperidone has been reported in Streptomyces antioxidans, Dichilus gracilis, and other organisms with data available.
+Properties:safety: Flammable
+smiles: C1CCNC(=O)C1
+formula: C5H9NO
+chem_properties: Molecular Weight: 99.13 g/mol
+XLogP3: -0.5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 99.068413911 Da
+Monoisotopic Mass: 99.068413911 Da
+Topological Polar Surface Area: 29.1
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 80.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

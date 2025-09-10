@@ -1,0 +1,13 @@
+Description:
+A class of antibiotics that are among the most prominent macrocyclic compounds.
+
+Text:
+Macrocycles occupy a unique segment of drugrelevant chemical space, yet they are relatively 
+underexplored compared to acyclic small molecules.1 They represent a privileged class of 
+molecules for the modulation of proteinprotein interactions,2, 3 and interest in macrocyclic 
+peptides as a class has been growing in both academic and industrial circles.36 Natural 
+compounds have been the main source of macrocycles with relevance for therapeutic purposes. While there are over 100 marketed macrocyclic drugs derived from natural sources,7 they are for 
+the vast majority either the actual natural compounds, or their modifications. Between 2014 and 
+2021, nineteen of the FDA approved drugs are macrocycles,8 which represents roughly 1 in 20 
+FDA approvals. Macrolide antibiotics9, 10 such as actinomycin11 and polyene antifungal compounds12 are among 
+the most prominent classes of compounds.

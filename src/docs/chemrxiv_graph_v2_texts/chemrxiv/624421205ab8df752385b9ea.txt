@@ -1,0 +1,12 @@
+Description:
+Involved in methanation reactions with a focus on catalyst surface interactions.
+
+Text:
+A possible pathway to implement transient, intrinsic processes on the 
+micro scale was most recently presented by Kreitz et al. for CO2 methanation reaction with 
+focus on the catalyst surface 14,15. Focusing on the micro scale, studies typically use forced input temperatures or concentrations 
+of the reactants to observe the kinetic processes at the catalyst surface by measuring the 
+transient response via mass spectrometry (MS) 16. There are different input signals and 
+several experimental techniques available to evaluate the dynamic processes of a reaction 
+system, which usually use ramp, step and periodic changes of a state variable with time 16. SteadyState Isotopic Transient Kinetics Analysis (SSITKA) combines steadystate and 
+transient techniques by step or pulsewise injecting an isotopically labeled species into the

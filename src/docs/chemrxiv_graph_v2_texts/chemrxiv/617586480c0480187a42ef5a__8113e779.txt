@@ -1,0 +1,14 @@
+Description:
+A metal that forms filaments in solid electrolytes, affecting battery performance.
+
+Text:
+A fundamental understanding of in
+terfacial design with regards to these physical processes by characterizing the structure and
+diagnosing the material responses are pivotal towards design of highperformance battery
+system in terms of driving range, safety, power, and durability12. One key challenge with solid electrolytes (SEs) is their compatibility with Li metal anode. Achieving morphological control over repeated plating and stripping of Li metal is crucial for
+enabling durable SSBs12,13,14. Early modeling eorts by Monroe and Newman had proposed
+that high shear strength of solid electrolytes can potentially mitigate the development of
+unstable Li metal morphologies and prevent lament formation in batteries15,16. Extensive
+experimental results on a wide range of materials including garnets17, thiophosphates18, ar
+gyrodites19, antiperovskites20, have conclusively shown the propensity of lithium to form
+laments.

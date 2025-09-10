@@ -1,0 +1,57 @@
+Description:
+A material with impressive thermoelectric performance and high valley degeneracy, used for Peltier cooling of optoelectronics.
+
+Text:
+The impressive thermoelectric (TE) performance of Bi2Te3 is
+indisputable. 1 Equipped with a valley degeneracy of NV  6 or
+more, 2 Bi2Te3based materials have recorded some of the high
+est zTs near room temperature to date and have long been the
+material of choice for applications such as Peltier cooling of opto
+electronics. The high valley degeneracy in particular has been at
+tributed to topological properties of the material; namely, the bulk
+band structure becomes warped due to the strong band inversion,
+causing the band edges to be offset to lowsymmetry kpoints in
+the Brillouin zone.
+
+
+---
+
+Description:
+A topological insulator with warped, inverted bands and high valley degeneracy.
+
+Text:
+The bands in the
+TI material Bi2Se3, for example, are not warped as evidenced by
+the singlevalleyed electronic structure (NV  1, Figure 1b). In
+contrast, the bands are sufficiently inverted in Bi2Te3, giving rise
+to a comparatively higher valley degeneracy of NV  6 (Figure
+aDepartment of Materials Science and Engineering, Northwestern University, Evanston,
+IL 60208. Email MichaelToriyama2024u.northwestern.edu, jeff.snydernorthwestern.edu
+Bi2Te3
+(Inverted, warped)
+Bi2Se3
+(Inverted, not warped)
+(a)
+(b)
+(c)
+Warped
+Inverted
+Fig. 1 Band inversion and bulk band structure. (a) Illustration of
+band inversiondriven warping in topological insulators. Stronger band
+inversion generally leads to warped bands after a critical inversion
+strength and, as a result, high valley degeneracy. The concept is
+exemplified by (b) Bi2Se3 and (c) Bi2Te3.
+
+
+---
+
+Description:
+A topological insulator with sufficiently inverted bands resulting in warped bands and high valley degeneracy.
+
+Text:
+Both compounds are
+topological insulators and have inverted bands; yet, the bands are not
+sufficiently inverted in Bi2Se3 resulting in a single valley (NV  1),
+whereas the bands are sufficiently inverted in Bi2Te3 resulting in warped
+bands and high valley degeneracy (NV  6). 110  1
+httpsdoi.org10.26434chemrxiv20233nvl3 ORCID httpsorcid.org0000000225301390 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

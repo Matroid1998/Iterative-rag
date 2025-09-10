@@ -1,0 +1,12 @@
+Description:
+A central metal in reactions affected by steric congestion from bulky groups.
+
+Text:
+of a 6phenyl ring to 
+the pyridine motif of L3 boosted the e.e. value to 40 (entry 4). Replacing the phenyl ring with a bulkier 
+9anthracenyl group greatly enhanced the e.e. value to 77 (entry 5) and further switching to a non
+symmetrically bulky 2indolyl group ultimately gave excellent enantioselectivity (entry 6). Nonetheless, 
+the reaction efficiency was generally low with these tested ligands (entries 16) likely due to the steric 
+congestion around the copper center caused by the bulky tertbutyl group on the oxazoline ring (see 
+Supplementary Figs. 1 and 2 for Xray structures of L6 and L7). Accordingly, a phenyl ring in place of this 
+tertbutyl group resulted in substantially increased yield with almost unaltered enantioselectivity (entry 7).

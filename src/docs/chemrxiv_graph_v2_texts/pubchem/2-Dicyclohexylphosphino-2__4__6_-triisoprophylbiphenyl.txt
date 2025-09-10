@@ -1,0 +1,24 @@
+Name: 2-Dicyclohexylphosphino-2',4',6'-triisoprophylbiphenyl
+Text:
+Properties:safety: Irritant
+smiles: CC(C)C1=CC(=C(C(=C1)C(C)C)C2=CC=CC=C2P(C3CCCCC3)C4CCCCC4)C(C)C
+formula: C33H49P
+chem_properties: Molecular Weight: 476.7 g/mol
+XLogP3: 10.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 7
+Exact Mass: 476.35718856 Da
+Monoisotopic Mass: 476.35718856 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 34
+Formal Charge: 0
+Complexity: 545
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

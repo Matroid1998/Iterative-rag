@@ -1,0 +1,26 @@
+Description:
+Used in direct borohydride fuel cells as a solution on the cathode.
+
+Text:
+The electrochemical catalysts have attracted enormous attention with the increasing demand for 
+renewable energy storage and conversion.1,2 The hydrogen produced by water splitting from a 
+renewable energy source is regarded as one of the clean energy technologies without CO2 emission. The green hydrogen from the renewable electrolysis of water could be utilized in the fuel cell for 
+supplying electricity and heat. Liquid fuelbased fuel cells have been looked into for use in portable 
+devices due to the simple recharging of fuel.3 The direct borohydride fuel cells (DBFCs) are 
+operated by sodium borohydride solution and hydrogen peroxide solution on the anode and cathode, 
+respectively.
+
+
+---
+
+Description:
+Involved in reduction reactions at the cathode of DBFCs.
+
+Text:
+Anode BH4  8OH  BO2  6H2O  8e (E0,a  1.24 V vs. SHE) (1) 
+Cathode 4H2O2  8H  8e  8H2O (E0,c  1.77 V vs. SHE) (2) 
+Overall BH4  4H2O2  8H  8OH  BO2  14H2O (E0  3.01 V) (3) 
+The modeling of mixed potential in hydrogen peroxide solution was demonstrated by Zhao et al.6 
+The open circuit potential of DBFC contributed by the cathode needs to be considered with the 
+mixed potential of PRR, POR, and ORR (equations 4, 5, and 6).7 The reduction reactions (PRR and 
+ORR) and oxidation reaction (POR) can be spontaneously established at the cathode of DBFCs. As

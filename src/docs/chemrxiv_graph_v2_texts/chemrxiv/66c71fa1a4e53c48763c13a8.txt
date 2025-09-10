@@ -1,0 +1,61 @@
+Description:
+Captured CO2 is transported at high pressure above the critical pressure for effective pipeline transport.
+
+Text:
+When captured CO2 from e.g. post combustion cap
+ture 1 is to be transported from the capture site to a
+final destination be it for injection into subsurface reser
+voirs for long term storage, for offsite utilisation into var
+ious efuels such as emethanol, emethane or Sustainable
+Aviation Fuels (SAF), for Enhanced Oil Recovery (EOR)
+or other means of storage or reuse, high pressure pipeline
+transport above the critical pressure is found to be the
+most effective method 2, 3. To achieve such high pres
+sure, the captured CO2 needs to be pressurised often by
+a factor of 100 or more. When CO2 is captured, it exits
+the capture facility in a gaseous state, typically at 12 bar
+pressure for postcombustion capture.
+
+
+---
+
+Description:
+Exits the capture facility in a gaseous state, typically at 12 bar pressure for postcombustion capture.
+
+Text:
+When captured CO2 from e.g. post combustion cap
+ture 1 is to be transported from the capture site to a
+final destination be it for injection into subsurface reser
+voirs for long term storage, for offsite utilisation into var
+ious efuels such as emethanol, emethane or Sustainable
+Aviation Fuels (SAF), for Enhanced Oil Recovery (EOR)
+or other means of storage or reuse, high pressure pipeline
+transport above the critical pressure is found to be the
+most effective method 2, 3. To achieve such high pres
+sure, the captured CO2 needs to be pressurised often by
+a factor of 100 or more. When CO2 is captured, it exits
+the capture facility in a gaseous state, typically at 12 bar
+pressure for postcombustion capture.
+
+
+---
+
+Description:
+A compound involved in postcombustion capture and compression processes from power plants.
+
+Text:
+Finding the optimal pressurisa
+tion pathway has been addressed in several investigations
+4, 5, 6, 7. Witkowski and Majkut 4 investigated 13 different
+CO2 compression concepts for postcombustion capture
+from a 900 MW pulverised coalfired power plant includ
+ing heat integration. All cases considered compression
+from 1.51 bar to 153 bar. Some of their findings include
+a reduction in power by increasing the number of com
+pression stages, increasing power with higher interstage
+temperatures, and also that a compression path from the
+initial pressure to an intermediate pressure followed by
+liquefaction and pumping to the final pressure offers sig
+nificant reduction in compression power. However, the au
+thors do not include a quantification of the compression
+power required for the refrigeration cycle. Martynov et al.

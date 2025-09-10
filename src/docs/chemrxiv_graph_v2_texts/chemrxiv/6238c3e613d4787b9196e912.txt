@@ -1,0 +1,20 @@
+Description:
+A metal used as an anode in high-energy density batteries.
+
+Text:
+The glassy lithium phosphorus oxynitride LixPOyNz
+(with unknown stoichiometry), termed as LiPON, is
+one of the few Liion solid electrolytes considered to
+be electrochemically stable against lithium(Li)metal
+anode.1420 The chemical composition of LiPON, let
+aside its structure,
+has been the subject of many
+studies.15, 19, 20 A cycle life of 10,000 with 90 ca
+pacity retention has been claimed for ASSBs incorpo
+rating LiPON electrolyte paired with highenergy den
+sity Limetal anode and a spinel LiNi0.5Mn1.5O4 cath
+ode. 21 Despite the good interfacial stability indicated
+by the device performance, rstprinciples calculations
+have shown that the decomposition of LiPON and the
+consequent formation of LiLiPON SEIs are thermody
+namically favorable.9, 11, 13 LiPON reacts with Li and

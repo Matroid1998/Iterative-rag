@@ -1,0 +1,31 @@
+Name: Phenothiazine
+Text:
+Phenothiazine is a light green to steel-blue powder. Acquires a greenish-brown tint under exposure to sunlight. (NTP, 1992)
+10H-phenothiazine is the 10H-tautomer of phenothiazine. It has a role as a plant metabolite, a radical scavenger and a ferroptosis inhibitor. It is a tautomer of a 4aH-phenothiazine, a 1H-phenothiazine and a 3H-phenothiazine.
+Phenothiazine (PTZ) is an organic thiazine compound.
+Phenothiazine has been reported in Mimosa pudica with data available.
+Phenothiazine is a class of agents exhibiting antiemetic, antipsychotic, antihistaminic, and anticholinergic activities.  Phenothiazines antagonize the dopamine D2-receptor in the chemoreceptor trigger zone (CTZ) of the brain, potentially preventing chemotherapy-induced emesis.  In addition, these agents have peripherally or centrally antagonistic activity against alpha adrenergic, serotonergic, histaminic, and muscarinic receptors. (NCI)
+PHENOTHIAZINE is a small molecule drug with a maximum clinical trial phase of II.
+See also: Promethazine (has subclass); Chlorpromazine (has subclass); Trifluoperazine (has subclass) ... View More ...
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: C1=CC=C2C(=C1)NC3=CC=CC=C3S2
+formula: C12H9NS
+chem_properties: Molecular Weight: 199.27 g/mol
+XLogP3: 4.2
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 199.04557046 Da
+Monoisotopic Mass: 199.04557046 Da
+Topological Polar Surface Area: 37.3
+Heavy Atom Count: 14
+Formal Charge: 0
+Complexity: 186
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

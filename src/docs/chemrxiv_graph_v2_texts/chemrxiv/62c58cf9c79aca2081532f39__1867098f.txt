@@ -1,0 +1,13 @@
+Description:
+A complex where the capped square antiprismatic form dominates in crystal structures.
+
+Text:
+The nine
+coordinated complex is present as four diasteromeric forms. Two capped square antiprismatic cSAP enantiomers, and two capped 
+twisted square antiprismatic cTSAP enantiomers. In Gd.DOTA and Eu.DOTA the cSAP form dominates, and most crystal structures 
+are for this form of the complex.2730 
+In solution all eight forms must be considered,21 and all experiments must be considered to be reporting on all forms.31, 32 Thus, 
+building direct structureproperty relationships requires studies of crystalline systems. To relate the crystal structures of complexes 
+from different compounds, a measure of the actual site symmetry must be used. We recently introduced the symmetry deviation 
+value, ideal,33, 34 that compares coordination geometries between compounds and relate the coordination geometry to idealised 
+polyhedra. Here, we expand the idealvalue for use with ninevertex coordination geometries.

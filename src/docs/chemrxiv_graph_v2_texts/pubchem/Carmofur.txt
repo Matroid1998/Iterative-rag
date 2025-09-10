@@ -1,0 +1,28 @@
+Name: Carmofur
+Text:
+Carmofur is an organohalogen compound and a member of pyrimidines.
+Carmofur is a derivative of fluorouracil, and is an antineoplastic agent that has been used in the treatment of breast and colorectal cancer. Carmofur has been known to induce leukoencephalopathy.
+Carmofur is an antimetabolite (pyrimidine analogue) antineoplastic derivative of 5-fluorouracil. (NCI)
+CARMOFUR is a small molecule drug with a maximum clinical trial phase of II and has 1 investigational indication.
+Properties:safety: Acute Toxic and Health Hazard
+smiles: CCCCCCNC(=O)N1C=C(C(=O)NC1=O)F
+formula: C11H16FN3O3
+chem_properties: Molecular Weight: 257.26 g/mol
+XLogP3: 2.6
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 5
+Exact Mass: 257.11756954 Da
+Monoisotopic Mass: 257.11756954 Da
+Topological Polar Surface Area: 78.5
+Heavy Atom Count: 18
+Formal Charge: 0
+Complexity: 382
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

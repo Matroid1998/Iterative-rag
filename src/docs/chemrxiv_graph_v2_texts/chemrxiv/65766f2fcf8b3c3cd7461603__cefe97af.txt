@@ -1,0 +1,12 @@
+Description:
+A post-translational modification of arginine with reduced hydrogen bonding capacity.
+
+Text:
+However, a subsequent experimental study involving 
+different peptides and RNA suggested that hydrogen bonds between peptides and RNA may be 
+more important than cation interactions in regulating condensate formation and guest peptide 
+diffusion19. Niu et al. showed that the ability of peptides to form condensates with RNA is impaired 
+when the ability of the side chain to form hydrogen bonds is reduced without altering net charge. These workers observed that replacing Arg with residues resulting from a common post
+translational modification, asymmetric dimethyl arginine (ADMA), led to a loss of capacity to 
+form condensates with RNA. At neutral pH, both the Arg and ADMA side chains bear a net 
+positive charge, but the hydrogen bonding capacity of the ADMA residue is lower.

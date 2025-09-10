@@ -1,0 +1,15 @@
+Description:
+A rectangular-shaped hcp lattice surface consisting of three layers of gold atoms.
+
+Text:
+The potential energy of the system is written as
+V  Vgold Vform Vint
+(1)
+where Vgold, Vform, and Vint represent the potential energies
+of the gold surface, formaldehyde, and the interaction be
+tween gold surface and formaldehyde respectively. We used a
+rectangularshaped hcp lattice of Au(111) surface which con
+sisted of three layers of gold atoms, with a total (ng) of 1045
+atoms. The manybody semiempirical SuttonChen (SC) in
+teraction potential17 was used to represent the bulk of gold
+httpsdoi.org10.26434chemrxiv2023bm5qcv2 ORCID httpsorcid.org0000000255509694 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

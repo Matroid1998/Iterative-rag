@@ -1,0 +1,25 @@
+Name: Difenacoum
+Text:
+Difenacoum is a ring assembly, a member of benzenes and a member of naphthalenes.
+Properties:safety: Acute Toxic and Health Hazard and Environmental Hazard
+smiles: C1C(CC2=CC=CC=C2C1C3=C(C4=CC=CC=C4OC3=O)O)C5=CC=C(C=C5)C6=CC=CC=C6
+formula: C31H24O3
+chem_properties: Molecular Weight: 444.5 g/mol
+XLogP3: 6.9
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 3
+Exact Mass: 444.17254462 Da
+Monoisotopic Mass: 444.17254462 Da
+Topological Polar Surface Area: 46.5
+Heavy Atom Count: 34
+Formal Charge: 0
+Complexity: 757
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 2
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

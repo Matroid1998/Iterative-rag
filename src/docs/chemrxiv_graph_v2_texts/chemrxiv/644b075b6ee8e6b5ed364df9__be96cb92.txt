@@ -1,0 +1,42 @@
+Description:
+Reacts with graphite by dissociative adsorption at undercoordinated carbon sites.
+
+Text:
+We recently reported studies of O2 etching of individual carbon nanoparticles (NPs) in the 
+temperature (TNP) range from 1200 to 2400 K, with several unexpected results.1, 2 O2 reaction 
+with graphite in this temperature range proceeds by O2 dissociative adsorption at under
+coordinated carbon sites (C), at exposed basal plane edges and defects,39 creating oxidized 
+surface sites (C(O)) that can decay by desorption of oxygen, resulting in no net reaction, or by 
+COCO2 desorption, etching the surface.10 The mechanisms are not as well established for other 
+forms of carbon, but almost certainly involve O2 dissociative adsorption at undercoordinated 
+sites, followed by desorption of oxygen or COx.
+
+
+---
+
+Description:
+Under etching conditions, causes graphitic and carbon black nanoparticles to eventually passivate.
+
+Text:
+Graphite, graphene, graphene oxide, carbon 
+black, and diamond NPs all were found to have initial reactivities in the same order of 
+magnitude, with significant NPtoNP variation attributed to differences in the NP structures and 
+surface site distributions. The initial reactivity for graphitic and carbon black NPs was high and 
+roughly TNP independent below 1600 K, then fell gradually at higher TNP. One surprise was that under O2 etching conditions, with TNP  1600 K, all graphitic and carbon 
+black NPs eventually passivated, i.e., became inert toward further O2 attack, implying that the 
+NP surfaces had transformed to be nearly free of reactive, undercoordinated sites.
+
+
+---
+
+Description:
+Can react with defects in graphite basal planes, leading to etching.
+
+Text:
+This was 
+attributed to evolution of the NPs to have surface layers with fullycoordinated, nanoonion 
+(fullerenelike) structures, which are known to form when carbon NPs are annealed.1114 
+Experiments with carbon nanoonion NPs found, as expected, that some were initially inert to 
+O2, while others had nonzero initial reactivity due to contamination by nononion carbon, but 
+passivated rapidly as this contamination etched away. O2 attack at defects in graphite basal planes results in etching at increasing rates as carbon 
+removal enlarges the defects into etch pits.59 Thus, we might expect that NPs with passivated

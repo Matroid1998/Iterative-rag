@@ -1,0 +1,15 @@
+Description:
+More activated monomers that require cyclic ketene acetals to be fed in excess during copolymerizations.
+
+Text:
+The radical ringopening polymerization (RROP) of suitable cyclic monomers provides access 
+to (co)polymers featuring heteroatom backbone functionality including cleavable groups.1, 2 
+RROP unfolds its full potential in combination with the architectural control offered by reversible 
+deactivation radical polymerization (RDRP) methods. Especially the combination of cyclic ketene 
+acetals3 with RAFT polymerization4 has been exploited to prepare materials with high functional 
+group tolerance, stimulus responsiveness, tailored architectures, and predictable backbone 
+degradability.5 However, cyclic ketene acetals have disadvantages. They show slow 
+copolymerization behavior due to the high energy of the intermediate acetal carbonbased radical 
+and usually need to be fed in excess to force incorporation during copolymerizations of more
+activated (meth)acrylic monomers. Furthermore, the resulting backbone ester groups require 
+harsh, nonselective degradation conditions.

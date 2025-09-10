@@ -1,0 +1,25 @@
+Name: Tempo
+Text:
+TEMPO is a member of the class of aminoxyls that is piperidine that carries an oxidanediyl group at position 1 and methyl groups at positions 2, 2, 6, and 6, respectively. It has a role as a ferroptosis inhibitor, a catalyst and a radical scavenger. It is a member of piperidines and a member of aminoxyls.
+Properties:safety: Corrosive
+smiles: CC1(CCCC(N1[O])(C)C)C
+formula: C9H18NO
+chem_properties: Molecular Weight: 156.25 g/mol
+XLogP3: 1.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 156.138839198 Da
+Monoisotopic Mass: 156.138839198 Da
+Topological Polar Surface Area: 4.2
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 136
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

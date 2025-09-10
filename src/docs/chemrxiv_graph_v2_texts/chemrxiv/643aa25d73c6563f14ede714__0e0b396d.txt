@@ -1,0 +1,16 @@
+Description:
+2D-layered materials with a sizeable band gap, making them suitable for gas sensing applications.
+
+Text:
+Corresponding author
+Email address maciej.szaryput.poznan.pl (Maciej J. Szary)
+The successful exfoliation of graphene from graphite and the sub
+sequent discovery of its unique chemical, physical, and electronic prop
+erties have attracted much attention to 2Dlayered materials 19, 20. One of the particularly promising areas of their application is gas sens
+ing due to their atomic thinlayered structure and large surfacetovolume
+ratio. Although graphene shows excellent gassensing capabilities, its
+application in gas sensors is limited by its zeroband gap resulting in
+poor switching characteristics 21. However, other 2Dlayered mate
+rials, such as transitionmetaldichalcogenide (TMD) sheets, possess
+a sizeable band gap and thus are free of this inherent limitation of
+graphene 1921.

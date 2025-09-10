@@ -1,0 +1,20 @@
+Description:
+Can exist in the supercritical or dense phase region depending on pressure and temperature conditions.
+
+Text:
+Pressurisation via
+gas compression is a straightforward choice. Provided suf
+ficient compression stages with applied intercooling, the
+pressure eventually reaches the desired value for trans
+port above the critical point. Depending on the available
+cooling utility and the achievable temperature, this will
+either result in CO2 in the supercritical or dense phase
+region. Another option for pressurisation is gas compres
+sion to a pressure below the critical pressure, followed by
+Corresponding author anraramboll.com
+coolingliquefaction and liquid pumping until the final
+pressure is reached (in the dense phase region). A variant
+of this is gas compression to a pressure above the critical
+point, yet below the final pressure, followed by cooling
+below the critical temperature and dense phase pump
+ing to the final pressure.

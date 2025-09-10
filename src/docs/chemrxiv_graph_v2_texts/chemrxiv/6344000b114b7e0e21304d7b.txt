@@ -1,0 +1,16 @@
+Description:
+A substrate in Mycobacterium tuberculosis isopropylmalate synthase where the rate-limiting step changes upon allosteric inhibition.
+
+Text:
+the alteration of reaction rate andor substrate 
+affinity upon ligand binding to, mutation of, or posttranslational modification at a site 
+remote from the active site, is a fundamental regulatory mechanism of biochemical 
+reactions.11,12 It finds applications in drug discovery to facilitate drugtarget selectivity as 
+allosteric sites tend to be less conserved than active sites across homologous proteins,13,14 and 
+in enzyme engineering and synthetic biology, where allosteric control may need to be 
+introduced or, more often, eliminated.15,16 While enzymes subject to allosteric regulation by 
+ligand binding can be broadly classified as Ktype, those where substrate affinity is altered, 
+and Vtype, those where the steadystate catalytic rate constant (kcat) is altered, the specific 
+kinetic steps affected can vary depending on the enzyme.13,1719 For instance, in 
+Mycobacterium tuberculosis isopropylmalate synthase, the ratelimiting step changes from 
+product release to chemistry upon allosteric inhibition by leucine.17 The role of protein

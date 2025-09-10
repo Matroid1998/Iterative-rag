@@ -1,0 +1,12 @@
+Description:
+A carbide material for which few ALD processes have been reported.
+
+Text:
+The premier film deposition technique for conformal films is atomic 
+layer deposition (ALD) which is based on selflimiting surface reactions of gas phase 
+precursors separated by inert gas, which enables conformal coverage of high surface area 
+features.13 However, only a few ALD processes have been reported for carbide materials, 
+mainly due to the lack of a suitable carbon precursor; the few examples are TaCx14, 
+TiCx15, WCx16 and FeCx17. Since BxC films can easily be deposited by thermal chemical 
+vapor deposition (CVD) with a continuous gas flow,18,19,20,21 it is of great interest to 
+develop conformal CVD processes for BxC films.

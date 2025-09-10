@@ -1,0 +1,11 @@
+Description:
+A hydrophobic material used in gas diffusion layers with a metal catalyst coating.
+
+Text:
+While strategies for managing the gasliquidsolid boundary of the reactant 
+stream, electrolyte, and catalyst are less mature than those of MEAs, considerable progress has been 
+made in GDE systems by employing a hydrophobic gas diffusion layer (GDL), such as 
+polytetrafluoroethylene (PTFE), with a metal catalyst coating on the electrolytefacing side.3 
+
+The manual assembly and operation of GDEs into electrochemical cells present an opportunity 
+to accelerate experimentation via automation.

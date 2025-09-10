@@ -1,0 +1,17 @@
+Description:
+Demonstrates a strong preference for cofacial stacking.
+
+Text:
+The benzene dimer has long been studied by quantum
+chemists as an example of a  stacking interaction,111
+although its archetypal status in that regard has been
+questioned,10 because complexes of larger polycyclic
+aromatic hydrocarbons, starting already with naphtha
+lene dimer, demonstrate a much stronger preference for
+cofacial stacking as compared to the Tshaped or
+CH    geometry that is similar in energy in the case of
+(benzene)2 but much less stable for larger acene dimers.10
+All of the acene dimers exhibit oset stacking, in which
+the centertocenter coordinate of the aromatic rings is
+paralleldisplaced, e.g., by 1.8 A in the case of benzene
+dimer.

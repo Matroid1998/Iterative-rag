@@ -1,0 +1,25 @@
+Name: Rhodamine 6G
+Text:
+C.i. basic red 1 appears as bright bluish-pink crystals or reddish purple powder. (NTP, 1992)
+Rhodamine 6G is a rhodamine 6G(1+), an organic chloride salt and a xanthene dye. It has a role as a fluorochrome.
+Properties:safety: Corrosive and Acute Toxic and Environmental Hazard
+smiles: CCNC1=CC2=C(C=C1C)C(=C3C=C(C(=[NH+]CC)C=C3O2)C)C4=CC=CC=C4C(=O)OCC.[Cl-]
+formula: C28H31N2O3.Cl
+chem_properties: Molecular Weight: 479.0 g/mol
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 7
+Exact Mass: 478.2023205 Da
+Monoisotopic Mass: 478.2023205 Da
+Topological Polar Surface Area: 61.5
+Heavy Atom Count: 34
+Formal Charge: 0
+Complexity: 823
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

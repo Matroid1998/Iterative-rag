@@ -1,0 +1,16 @@
+Description:
+Reversibly formed and split by diiron and NiFe centers.
+
+Text:
+Enzymes often use two or more metal sites to catalyze difficult oxidative, reductive, and redoxneutral 
+transformations. For example, nature uses diiron and dicopper sites to activate O2 and oxygenate substrates,1,2 
+as well as diiron and NiFe centers to reversibly form and split H2.3,4 Two metal cations can also work jointly 
+to increase the electrophilicity and nucleophilicity of reaction partners, such as in the hydrolysis of phosphate 
+ester and amide bonds.5,6 We have been interested in translating these bioinspired concepts to a heterogeneous 
+platform, to leverage the greater stability, 
+recyclability, and unique microenvironments 
+found in porous materials. An ideal heterogeneous scaffold would, like 
+enzymes, offer precise control over the active site 
+nuclearity and metalmetal distance, as well as the 
+identity and flexibility of the primary coordination 
+sphere.

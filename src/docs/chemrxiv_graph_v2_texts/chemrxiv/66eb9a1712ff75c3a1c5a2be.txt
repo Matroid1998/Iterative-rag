@@ -1,0 +1,14 @@
+Description:
+A solvent used in the frozen solution for spectrum analysis at 170 K.
+
+Text:
+At 
+170 K, the spectrum of cg2 in the frozen toluened8 solution shows resonance signals composed of 
+two components zerofield splitting (ZFS) from a triplet (S  1) component and central peaks from a 
+doublet (S  12) component, which can be readily separated by simulation (Fig. 4c, simulation 
+parameters are attached in the Supplementary Information). A forbidden transition (s  2 ) 
+signal is also observed (ms refers to magnetic quantum number). The characteristic ZFS and halffield 
+absorption provide solid evidence49 for the existence of triplet state in Clars goblet and rule out the 
+possibility that the two spins are weakly interacted. Furthermore, ZFS parameters of   114.5 
+MHz and   15.7 MHz are obtained from simulations. Using the equation D  1.39 
+104(3

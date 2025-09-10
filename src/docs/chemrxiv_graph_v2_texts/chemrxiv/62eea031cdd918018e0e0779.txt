@@ -1,0 +1,11 @@
+Description:
+Forms carbon nanotubes, which are used as recognition elements in gas sensors.
+
+Text:
+Gas sensors are useful for monitoring chemical processes 1, air quality 2,3, automotive emissions
+4, food quality 5, agricultural greenhouses 6, and human health 7 and detecting safety and
+security threats (e.g. explosives, nerve agents) 8. For the Internet of Things 9, gas sensors
+will play a vital role in diverse contexts, ranging from agriculture to human tness 10. A solidstate gas sensor functions by its recognition element exhibiting changes in a given property
+in response to changes in the concentration of an analyte in the gas phase. Common examples
+of recognition elements are metal oxides 11, polymers 12, carbon nanotubes 13, and metal
+organic frameworks 14.

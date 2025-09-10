@@ -1,0 +1,34 @@
+Description:
+A stable perovskite structure with slight distortions, used in solar cell applications with efficiencies over 20%.
+
+Text:
+Perovskite solar cell (PSC) materials have garnered significant attention in the 
+field of PV due to their exceptional lightabsorbing properties and ease of fabrication.2
+10 The inception of PSCs dates back to the early 2000s, when researchers began 
+exploring organicinorganic hybrid PSCs as potential candidates for converting sunlight 
+into electricity.11 Currently, the maximum efficiency reported for PSCs is 26.7 
+.3,1214 
+One of the main issues with organicinorganic PSCs is their decomposition due to volatile 
+organic cations.15,16 One of the strategies to solve this problem is the use of inorganic 
+cations to improve the PSC stability.17,18 CsPbI3 perovskites emerged as promising 
+materials for solar cell applications,1921 demonstrating chargecarrier mobilities 
+comparable to those of organicinorganic PSCs, presenting efficiencies over 20.22 
+Additionally, with a Goldshmidt tolerance factor favorable for cubic perovskites,2326 
+CsPbI3 is a stable perovskite structure with slight distortions that prone to some degree of 
+structural deformation.
+
+
+---
+
+Description:
+Perovskites that exhibit various defects including vacancies, uncoordinated cations, and antisite defects on their surfaces and interfaces.
+
+Text:
+The presence of defects 
+is commonly related to the nonradiative recombination of the electronhole pair, mainly 
+due to the formation of trap states, prompting a decay in the PSCs performance.2836 
+CsPbI3 perovskites exhibit various defects including vacancies, uncoordinated cations, 
+and antisite defects on their surfaces and interfaces.3742 Vacancies occur when an ion 
+is missing from its lattice site, interstitial defects occur when an ion occupies an interstitial 
+position, and antisite defects are generated when an atom or ion takes the place of another 
+httpsdoi.org10.26434chemrxiv2024vvh0lv2 ORCID httpsorcid.org0000000347019860 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

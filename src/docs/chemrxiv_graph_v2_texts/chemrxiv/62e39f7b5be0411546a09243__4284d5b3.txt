@@ -1,0 +1,36 @@
+Description:
+The radical cation of allene is governed by complex nonBornOppenheimer dynamics and relaxes by a JahnTeller distortion into a chiral D2 symmetry energy minimum.
+
+Text:
+The radical cation of allene is an oftstudied system, in part be
+cause the vertical structure constitutes one of the simplest D2d
+symmetry conical intersections.16 Processes relating to the re
+moval of an electron from allene are thus governed by complex
+nonBornOppenheimer dynamics.79 The vertical cation relaxes
+by a JahnTeller (JT) distortion into a chiral D2 symmetry energy
+minimum.1013 The radical cation of spiropentadiene is a simi
+lar case,14 and we shall elaborate on their neutral and cationic
+electronic structures in terms of their helical orbitals. The system of allene can be represented in two different
+ways by its canonical frontier molecular orbitals (MOs).1521 The
+degenerate highest occupied MO (HOMO) and HOMO1 can be
+symmetry adapted to the different symmetry operations of the
+D2d point group.
+
+
+---
+
+Description:
+Has rectilinear molecular orbitals that are symmetry-adapted to mirror operations.
+
+Text:
+The two mirror plane elements and the two off
+axis C2 rotation axes are shown in Figure 1a. The conventional
+rectilinear MOs of allene are symmetryadapted to the mirror
+operations. If we instead symmetryadapt the MOs to the two
+rotation operations we get the two helical orbitals shown in Fig
+ure 1a. The choice between these two pictures is arbitrary.2022
+The mixing of the systems is mediated by the porbitals on the
+central carbon, which forms a basis with continuous overlap be
+a, Laboratory for Computational Molecular Design, Institute of Chemical Sciences
+and Engineering, Ecole Polytechnique federale de Lausanne (EPFL), 1015 Lausanne,
+Switzerland; Email clemence.corminboeufep.ch

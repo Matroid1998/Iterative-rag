@@ -1,0 +1,27 @@
+Name: beta-CARYOPHYLLENE OXIDE
+Text:
+Caryophyllene oxide is an epoxide. It has a role as a metabolite.
+Caryophyllene oxide has been reported in Camellia sinensis, Artemisia thuscula, and other organisms with data available.
+See also: Cannabis sativa subsp. indica top (part of).
+Properties:safety: Irritant and Environmental Hazard
+smiles: C[C@@]12CC[C@@H]3[C@H](CC3(C)C)C(=C)CC[C@H]1O2
+formula: C15H24O
+chem_properties: Molecular Weight: 220.35 g/mol
+XLogP3: 3.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 220.182715385 Da
+Monoisotopic Mass: 220.182715385 Da
+Topological Polar Surface Area: 12.5
+Heavy Atom Count: 16
+Formal Charge: 0
+Complexity: 330
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

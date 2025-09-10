@@ -1,0 +1,14 @@
+Description:
+Used as a membrane material in protein macroarrays for proteomic studies.
+
+Text:
+Protein arrays are a wellestablished proteomic tool for the simultaneous analysis of thousands of 
+interaction partners, generally manufactured in an microarray format through immobilization of 
+purified proteins on chemically modified microscope slides 1. An alternative to the microarray 
+format are protein macroarrays produced by printing of annotated libraries of E.coli clones, 
+expressing recombinant human protein, on large 2222cm polyvinylidene fluoride (PVDF) 
+membranes 2, 3. Since their introduction in the early 2000 the protein macroarrays have been 
+frequently used with around 100 published studies in a wide range of applications from protein
+protein 4, 5, peptideprotein 6, 7, enzymesubstrate 8, 9 and posttranslational modification 
+interaction studies 10, 11, to antibody specificity validation 12, 13, antibody target discovery 
+14, 15, antibody isotyping 1618 and clinical autoantibody screening 11, 16, 19.

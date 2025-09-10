@@ -1,0 +1,31 @@
+Name: Nicardipine
+Text:
+Nicardipine is a racemate comprising equimolar amounts of (R)- and (S)-nicardipine. It is a calcium channel blocker which is used to treat hypertension. It has a role as an antihypertensive agent, a calcium channel blocker, a vasodilator agent and an autophagy inhibitor. It contains a (S)-nicardipine and a (R)-nicardipine.
+Nicardipine is a Dihydropyridine Calcium Channel Blocker. The mechanism of action of nicardipine is as a Calcium Channel Antagonist, and Cytochrome P450 3A4 Inhibitor, and Cytochrome P450 2D6 Inhibitor, and Cytochrome P450 2C8 Inhibitor, and Cytochrome P450 2C19 Inhibitor.
+Nicardipine is a second generation calcium channel blocker used in the treatment of hypertension and stable angina pectoris. Nicardipene therapy has been associated with a low rate of transient serum enzyme elevations, but has not been linked convincingly to instances of clinically apparent liver injury with jaundice.
+Nicardipine is a synthetic derivative of nitrophenyl-pyridine and potent calcium channel blocker, Nicardipine (Nifedipine Family) blocks calcium ions from certain cell walls and inhibits contraction of coronary and peripheral arteries, resulting in lowered oxygen requirements for heart muscle and decreased arterial contraction and spasm. It is used clinically as a cerebral and coronary vasodilator.
+NICARDIPINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1988 and is indicated for cardiovascular disease and hypertension and has 12 investigational indications.
+A potent calcium channel blockader with marked vasodilator action. It has antihypertensive properties and is effective in the treatment of angina and coronary spasms without showing cardiodepressant effects. It has also been used in the treatment of asthma and enhances the action of specific antineoplastic agents.
+See also: Nicardipine Hydrochloride (has salt form).
+Properties:safety: Irritant
+smiles: CC1=C(C(C(=C(N1)C)C(=O)OCCN(C)CC2=CC=CC=C2)C3=CC(=CC=C3)[N+](=O)[O-])C(=O)OC
+formula: C26H29N3O6
+chem_properties: Molecular Weight: 479.5 g/mol
+XLogP3: 3.8
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 10
+Exact Mass: 479.20563565 Da
+Monoisotopic Mass: 479.20563565 Da
+Topological Polar Surface Area: 114
+Heavy Atom Count: 35
+Formal Charge: 0
+Complexity: 856
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

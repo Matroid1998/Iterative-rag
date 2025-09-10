@@ -1,0 +1,12 @@
+Description:
+A factor that affects the sensitivity of certain materials.
+
+Text:
+The latter has to date still proven more challenging due to their sensitivity towards 
+moisture,5 oxygen,6 light,7 temperature8 and electrical bias,9 among other factors. Ruddlesden
+Popper perovskites (RPPs) are a related material class that has shown some promise to be more 
+resilient to environmental stress then conventional ABX3 perovskites. In this work, we study 
+RPPs with the general formula R2(MA)n1BnX3n1, where the R stands for a large cation(s) 
+which typically does not satisfy the GTF rule, methylammonium cation (MA), B2 metal 
+cation, and halide anion (X). The quasi2D structure of RPPs is shown schematically in Figure 
+1. Due to their large size, the R cation cannot be incorporated into the 3D perovskite lattice.

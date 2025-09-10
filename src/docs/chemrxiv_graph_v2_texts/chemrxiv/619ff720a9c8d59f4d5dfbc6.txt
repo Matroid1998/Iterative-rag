@@ -1,0 +1,91 @@
+Description:
+Examined in the context of high harmonic generation (HHG) using an atom-centered Gaussian representation of the Kohn-Sham orbitals.
+
+Text:
+These include abovethreshold ionization, nonsequential
+ionization, multiphoton ionization, delayed photoemis
+sion, and HHG.1113 Attosecond experiments are ex
+pected to provide fundamental probes of electron correla
+tion and ultrafast charge migration in both molecules and
+materials.1316 Theoretical description of this emergent
+physics promises to push the envelope of computational
+quantum chemistry.17
+In the context of timedependent density functional
+theory (TDDFT),18,19 strongeld phenomena cannot
+be described within the linearresponse approximation20
+that has become essentially synonymous (in quantum
+chemistry, at least) with the moniker of TDDFT.21 In
+principle, an exact theory can still be formulated even
+in the strongeld or nonperturbative regime, based
+on direct solution of the timedependent KohnSham
+equation.12,22 This approach is often called realtime
+TDDFT,23 although we prefer the term timedependent
+KohnSham (TDKS) theory.24,25 In practice, however,
+there are signicant questions as to whether existing
+herbertchemistry.ohiostate.edu
+exchangecorrelation functionals that invoke the adia
+batic approximation are up to the task,12,23 although
+improving the description of the derivative discontinu
+ity improves the description of ionization, even within
+the adiabatic approximation.26
+In the present work, we examine the HHG phe
+nomenon in a simple test case,
+H2
+molecule,
+us
+ing an atomcentered Gaussian representation of the
+KohnSham orbitals.
+
+
+---
+
+Description:
+Involved in high harmonic generation (HHG) simulations emphasizing the importance of using an exchange-correlation functional with correct asymptotic behavior.
+
+Text:
+Previous TDKS simulations of
+HHG in H2 have emphasized the importance of using
+an exchangecorrelation functional with correct asymp
+totic behavior.2730 In some calculations, this has been
+achieved in practice by using either timedependent
+HartreeFock (TDHF) theory or else the closelyrelated
+timedependent conguration interaction singles (TD
+CIS) method.29,3133 Functionals with an explicit self
+interaction correction have also been employed,27,28 as
+this helps with the aforementioned derivative disconti
+nuity.
+
+
+---
+
+Description:
+A small molecule considered for simulation of high harmonic generation (HHG).
+
+Text:
+Recently, the use of rangeseparated, longrange
+corrected (LRC) hybrid functionals3439 has been con
+sidered for simulation of HHG in H2 and other small
+molecules.33 As compared to either generalized gradi
+ent approximations or even global hybrid functionals,
+LRC functionals do a much better job of approximating
+the derivative discontinuity.40 The simulations presented
+herein will be based upon the LRCPBE functional,37
+which was also used to simulate HHG in Ref. 33. Rather than using a gridbased algorithm to solve the
+TDKS equations,22,27,28 we follow the path established
+by Saalfrank, Luppi, and others,2933,41 using atom
+centered Gaussian basis sets to represent the density.
+
+
+---
+
+Description:
+A molecule for which both Gaussian and grid-based quantum chemistry representations are feasible.
+
+Text:
+This makes TDKS simulations accessible with widely
+available, general purpose quantum chemistry codes, and
+the compactness of the Gaussian representation oers
+the possibility to extend TDKS calculations to larger
+molecules than are feasible in gridbased representations. Even for H2, where both approaches are feasible, the
+Gaussian representation is found to be at least an order
+of magnitude more ecient,30 and only that approach

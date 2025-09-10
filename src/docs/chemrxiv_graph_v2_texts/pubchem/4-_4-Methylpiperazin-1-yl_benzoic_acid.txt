@@ -1,0 +1,24 @@
+Name: 4-(4-Methylpiperazin-1-yl)benzoic acid
+Text:
+Properties:safety: Irritant
+smiles: CN1CCN(CC1)C2=CC=C(C=C2)C(=O)O
+formula: C12H16N2O2
+chem_properties: Molecular Weight: 220.27 g/mol
+XLogP3: -0.9
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 2
+Exact Mass: 220.121177757 Da
+Monoisotopic Mass: 220.121177757 Da
+Topological Polar Surface Area: 43.8
+Heavy Atom Count: 16
+Formal Charge: 0
+Complexity: 241
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

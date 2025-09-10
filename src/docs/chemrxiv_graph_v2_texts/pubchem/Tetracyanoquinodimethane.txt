@@ -1,0 +1,26 @@
+Name: Tetracyanoquinodimethane
+Text:
+Tetracyanoquinodimethane is a quinodimethane that is p-quinodimethane in which the methylidene hydrogens are replaced by cyano groups. It is an alicyclic compound, a nitrile and a quinodimethane. It is functionally related to a p-quinodimethane.
+Tetracyanoquinodimethane is an organic compound of cyanide. It is an electron-acceptor that is used to prepare charge transfer salts, which are of interest in the area of molecular electronics. (L614)
+Properties:safety: Acute Toxic and Irritant
+smiles: C1=CC(=C(C#N)C#N)C=CC1=C(C#N)C#N
+formula: C12H4N4
+chem_properties: Molecular Weight: 204.19 g/mol
+XLogP3: 1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 204.043596145 Da
+Monoisotopic Mass: 204.043596145 Da
+Topological Polar Surface Area: 95.2
+Heavy Atom Count: 16
+Formal Charge: 0
+Complexity: 535
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

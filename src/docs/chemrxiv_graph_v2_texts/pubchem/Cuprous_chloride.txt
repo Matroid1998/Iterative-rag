@@ -1,0 +1,25 @@
+Name: Cuprous chloride
+Text:
+Copper(I) chloride is an inorganic chloride of copper in which the metal is in the +1 oxidation state. It has a role as a molluscicide and an agrochemical. It is an inorganic chloride and a copper molecular entity. It contains a copper(1+).
+Copper(I) chloride is a chloride of copper that occurs naturally as the rare mineral nantokite. The main use of copper(I) chloride is as a precursor to the fungicide copper oxychloride. It is also used in organic and polymer chemistry. Copper is a chemical element with the symbol Cu and atomic number 29. Copper is an essential elements in plants and animals as it is required for the normal functioning of more than 30 enzymes. It occurs naturally throughout the environment in rocks, soil, water, and air. (L277, L278, L292)
+Properties:safety: Irritant and Environmental Hazard
+smiles: Cl[Cu]
+formula: ClCu
+chem_properties: Molecular Weight: 99.00 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 97.898450 Da
+Monoisotopic Mass: 97.898450 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 2
+Formal Charge: 0
+Complexity: 2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

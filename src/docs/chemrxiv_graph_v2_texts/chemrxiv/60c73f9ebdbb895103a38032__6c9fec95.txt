@@ -1,0 +1,38 @@
+Description:
+Building blocks of proteins that can be mutated to control the hydrophobic effect.
+
+Text:
+The preferential interaction between apolar solutes in water 
+the hydrophobic effect  is a key factor driving protein fold
+ing1,2, structural stability with respect to changes in tempera
+ture3,4 (thermal stability) and interactions with other proteins
+and ligands5,6. The hydrophobic effect reects the balance be
+tween solutewater interactions and direct, predominantly dis
+persive, solutesolute interactions7,8. Understanding how to use
+amino acid mutations to control the hydrophobic effect is crit
+ical to develop new proteinbased drugs, biodevices and mate
+rials913. Simultaneously, minimizing changes in solutesolute
+packing upon mutations is desirable to ensure that protein struc
+ture  and thus function  is preserved14,15. This is, however, dif
+cult with the limited pool of canonical hydrophobic amino acids
+because their side chains differ in structure and volume.
+
+
+---
+
+Description:
+Characterized by hydration free energies and electrostatic potential in the vicinity of their side chains.
+
+Text:
+Fax 49 (0)331 5679602; Tel 49 (0)331
+5679608; Email ana.vilaverdempikg.mpg.de
+ Electronic Supplementary Information (ESI) available Description of force elds
+and simulation details, hydration free energies, electrostatic potential in the vicin
+ity of amino acid side chains, linear models to reproduce the calculated hydration
+free energies, radial distribution functions, conformational changes in uorinated
+side chains. AMBERformat force elds for mono and diuorinated amino acids
+available upon request. bic effect involving uorinated amino acids? The answer is, sim
+ply, that we do not. Here we focus on one factor contributing to
+the hydrophobic effect solutewater interactions, for simplicity
+referred to as solute hydrophobicity. The hydrophobicity of so
+lutes is usually characterized by their hydration free energies8.

@@ -1,0 +1,19 @@
+Description:
+A polymer used in combination with fillers like carbon nanotubes for nanocomposite processing.
+
+Text:
+Ordered polymer nanocomposites provide a route to highperformance lightweight 
+structural materials with applications including aircraft and spacecraft structures, sporting 
+equipment, and filtration membranes.1 Research and development on nanocomposite processing 
+has been devoted to the combination of fillers such as highcrystallinity natural2,3 or synthetic4,5 
+polymer fibers or carbon nanotubes (CNTs)6,7 with polymers such as poly(vinyl alcohol)3,8,9 or 
+commercial resin systems.10 The molecular organization and potential ordering of the polymer at 
+the surface of the nanofillers has also been a particular center of attention as a mean to affect 
+overall composite performance.6 
+Due to their outstanding mechanical and electrical properties and low mass density, the 
+composites of CNTs with engineered polymers offer great potential as nextgeneration lightweight 
+structural materials.11 CNTpolymer composites have most commonly been made by resin 
+infiltration of CNT mats or fibers, thereby translating manufacturing techniques widely used for 
+carbonfiber composites.6 Nevertheless, as the size of the reinforcement fibers reduces to the 
+nanoscale, the complex interplay among transportlimited polymer infiltration, curing kinetics, and 
+CNTpolymer molecular interaction greatly impacts the local polymer content and properties, and

@@ -1,0 +1,9 @@
+Description:
+A biosourced and biodegradable material used in FDM 3D printing filaments.
+
+Text:
+The most common types of 3D printers are FDM (Fusion Deposition Modelling) and SLA (Stereolithography) or (m)SLA (masked 
+Stereolithography). FDM printers melt a plastic filament and deposit it layer by layer, forming the final 3D structure. Stereolithography printers, instead, use a laser (SLA) or UVLED ((m)SLA) to photo crosslink a liquid resin to solid objects layer 
+by layer (1). Arguably, in a time when the world is trying to reduce the use of plastic materials, 3D printing seems counterintuitive 
+in terms of green materials. More sustainable and biodegradable materials are available nowadays (4), but mostly regarding 
+FDM and filaments consisting of recycled PETG and biosourced PLA (5).

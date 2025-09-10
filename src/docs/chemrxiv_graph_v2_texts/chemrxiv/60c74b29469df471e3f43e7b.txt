@@ -1,0 +1,14 @@
+Description:
+Used in chemical vapor deposition for depositing epitaxial films of AlN.
+
+Text:
+Aluminium nitride (AlN) is a widely used semiconductor material in several electronic devices1 
+due to its direct wide bandgap of 6.2 eV2. The conventional method for depositing epitaxial 
+films of AlN is chemical vapor deposition (CVD) using trimethylaluminium (TMA), Al2(CH3)6 
+and ammonia, NH3, at temperatures, typically, above 1000 C3. This limits the applications for 
+AlN to substrates and underlying film materials that can withstand such temperatures. An 
+alternative low temperature deposition route is atomic layer deposition (ALD), which is a time
+resolved form of CVD where the Al and N precursors are pulsed into the deposition chamber 
+sequentially, separated by inert gas pulses. This gas pulsing makes the process solely depend 
+on surface chemical reactions and omits gas phase chemical reactions, which typically need 
+high temperatures.

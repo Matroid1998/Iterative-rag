@@ -1,0 +1,14 @@
+Description:
+Atoms that are sp3 hybridized and break the conjugation between donor and acceptor.
+
+Text:
+The proper choice of the linker is 
+crucial for TADF as well as the selection of D and A units because its role on regulating the 
+HOMOLUMO overlap. Moreover, the conjugated linker is also involved in possible stack
+ing that would lead to a reduced efficiency through the aggregationcaused quenching phenom
+enon.21,22 Suitable system for TADF are often containing spirocarbon atoms, e.g., sp3hy
+bridized atoms that breaks the conjugation between donor and acceptor.23 Among the large 
+number of employed spiro compounds 9,9spirobifluorene (SBF) is one of the first used as 
+core20 and lately as sidechain group taking advantage of the threedimensional crossshape 
+structure as a mean to limit stacking and increase the stiffness of the system.20,2428 It has been 
+httpsdoi.org10.26434chemrxiv2024481l3 ORCID httpsorcid.org0000000340452653 Content not peerreviewed by ChemRxiv.

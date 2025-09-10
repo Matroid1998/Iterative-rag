@@ -1,0 +1,15 @@
+Description:
+A compound related to ethane by the transformation of OH to H.
+
+Text:
+3 
+Drug design routinely involves modification of chemical structure to improve molecular 
+properties. Over decades, large structureproperty datasets have been generated at great expense, 
+but translating such data into solutions for drug design problems is a challenge. To translate large 
+volumes of raw structureproperty data into humanreadable insights, computational platforms 
+for matched molecular pair analysis have been developed.13 Matched molecular pair (MMP) is 
+defined as two structures related by a defined transform in structure,1 such as ethane (CH3CH3) 
+and ethanol (CH3CH2OH) being related by transform of H to OH. MMPs and their transforms 
+can be found automatically via unsupervised MMP identification algorithms,410 which can 
+identify useful transforms that a human might not have thought of, but which will also find many 
+irrelevant transforms to a given problem.

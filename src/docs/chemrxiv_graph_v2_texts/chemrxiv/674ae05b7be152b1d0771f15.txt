@@ -1,0 +1,14 @@
+Description:
+A substituent group in the complex designed by Qu et al.
+
+Text:
+These rigid, heterocycles contribute to 
+suppressing nonradiaTve intramolecular decay modes, aording complexes with higher FPL and 
+showing relaTvely narrowband emission, which ulTmate leads to OLEDs showing greater color 
+saturaTon and higher eciency (Figure 1).7 
+For instance, Qu et al. designed a methyl and tertbutyldecorated iCzpyridyl containing complex 
+bearing an ancillary nonchromophoric 2,2,6,6tetramethyl3,5heptanedione (tdm) ligand Ir(py
+iCz)2(tdm) (Figure 1).8 This yellowemiPng complex (PL  567 nm in DCM) shows reasonably 
+narrowband emission (FWHM  42 nm in DCM). AddiTonally, parasubsTtuTon on the pyridyl moiety 
+of the ligand permits facile color tuning to the orange (R  CF3, PL  577 nm in DCM) and red (R  TMS, 
+PL  620 nm in DCM).

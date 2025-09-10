@@ -1,0 +1,11 @@
+Description:
+Equipped with an acid-labile dimethoxytrityl (DMTr) 5OH protecting group that is removed in the deblocking step.
+
+Text:
+In their original form, the phosphoramidites are equipped with an acidlabile dimethoxytrityl (DMTr) 5OH 
+protecting group that is removed in the deblocking step to allow for the next coupling reaction, but beginning in 
+the 1990s, researchers developed largescale parallel synthesis of DNA by replacing the DMTr group with a 
+photolabile equivalent to allow for spatially selective deprotection. In particular, Affymetrix combined 
+photolithographic techniques adapted from the semiconductor industry with the use of photolabile protecting 
+groups for both peptide and DNA microarray synthesis810. DNA microarray synthesis became the first ultralarge
+httpsdoi.org10.26434chemrxiv2024j4c90 ORCID httpsorcid.org0000000280391341 Content not peerreviewed by ChemRxiv. License CC BY 4.0

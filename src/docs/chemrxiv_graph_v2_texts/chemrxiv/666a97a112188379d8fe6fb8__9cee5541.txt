@@ -1,0 +1,15 @@
+Description:
+Compounds with unique photophysical properties not yet integrated in BCPs.
+
+Text:
+Light is a very attractive stimulus, owing 
+to its high temporal and spatial resolution, as well as the 
+possibility to apply it externally. Most often, photoresponse is 
+achieved by switching between two isomers of a molecular 
+photoswitch through a reversible photoisomerization upon 
+irradiation with light of a certain wavelength.2125 A 
+wellstudied example is the photoswitch azobenzene which 
+has been implemented in various photoresponsive BCPs.2629 
+The related arylazopyrazoles (AAPs) have not yet been 
+integrated in BCPs, despite their unique photophysical 
+properties.

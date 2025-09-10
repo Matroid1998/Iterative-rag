@@ -1,0 +1,13 @@
+Description:
+Involved in the oxygen reduction reaction (ORR) where its adsorption energy affects catalytic activity.
+
+Text:
+Pt is the best catalyst for oxygen reduction reaction (ORR).13 It can be explained by the well
+known Sabatier Principle for catalysis the binding energy between the reactant and the catalyst 
+should be neither too strong nor too weak. It should be strong enough so that the bonds in the 
+reactant are activated, but not too strong to block the subsequent desorption of products.45 For 
+ORR, this principle can be expressed as a volcano curve, obtained by plotting the ORR catalytic 
+activity against the adsorption energy of oxygenated species calculated by density functional 
+theory (DFT).6 Among metal catalysts, Pt indeed occupies the central position, with moderate 
+adsorption energy for oxygenated species and the highest catalytic activity, which is consistent 
+with the Sabatier Principle.

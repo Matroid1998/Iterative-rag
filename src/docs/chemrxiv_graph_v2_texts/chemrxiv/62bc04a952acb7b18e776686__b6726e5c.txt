@@ -1,0 +1,12 @@
+Description:
+Undergoes reduction on the electrode surface, facilitating SECM imaging.
+
+Text:
+When the probe was scanned over the location of biomarkers, the currents 
+would increase due to the reduction of the FcMeOH on the electrode surface and thus, 
+generating an SECM image according to the current recorded at different locations on 
+the sample surface.28 Afterward, the electrochemical images were merged with optical 
+microscopic images to enhance the quality of the SECM images. The merged images 
+have clear tissue boundaries and provide information on the distribution of cancer 
+biomarkers in oral cancer from different human body. However, by changing the parameters of the image fusion process, thousands of 
+fused images were generated, which was confusing and annoying to the researchers.

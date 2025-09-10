@@ -1,0 +1,27 @@
+Name: Hexylamine
+Text:
+Hexylamine appears as a water-white liquid with an amine-like odor. Less dense than water and poorly soluble in water. Hence floats on water. May be toxic by inhalation, ingestion or skin absorption.
+1-hexanamine is a 6-carbon primary aliphatic amine. It has a role as a metabolite. It is a conjugate base of a hexan-1-aminium.
+Hexylamine has been reported in Apis cerana and Euglena gracilis with data available.
+Properties:safety: Flammable and Corrosive and Acute Toxic and Irritant and Environmental Hazard
+smiles: CCCCCCN
+formula: C6H15N
+chem_properties: Molecular Weight: 101.19 g/mol
+XLogP3: 2.1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 4
+Exact Mass: 101.120449483 Da
+Monoisotopic Mass: 101.120449483 Da
+Topological Polar Surface Area: 26
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 27.4
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

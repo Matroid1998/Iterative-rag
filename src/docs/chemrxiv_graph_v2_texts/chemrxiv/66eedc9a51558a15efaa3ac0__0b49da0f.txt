@@ -1,0 +1,65 @@
+Description:
+A product of CO or CO2 hydrogenation using Cu-based catalysts.
+
+Text:
+This process can yield various products, ranging from CO, via the so
+3 
+called Reverse Water Gas Shift (RWGS) reaction,1, 2 to methane by the Sabatier reaction.3 It can also 
+4 
+yield intermediate compounds like methanol or even higher hydrocarbon or alcohol products via the 
+5 
+FischerTropsch process.47 However, the hydrogenation of CO2 towards valueadded chemicals like 
+6 
+methanol is notoriously more challenging when compared to the hydrogenation of CO, despite both 
+7 
+processes sharing common catalytically active materials, reaction conditions and similar reaction 
+8 
+mechanisms.8, 9 The most prominent example is the hydrogenation of CO or CO2 using Cubased 
+9 
+catalysts, which favor methanol synthesis via formate and methoxy intermediates, while hardly 
+10 
+producing methane under a wide range of conditions.10 Aiming at improving the catalytic performance, 
+11 
+large research efforts have been directed at identifying socalled promoters to improve product 
+12 
+selectivity.
+
+
+---
+
+Description:
+Selectivity is enhanced by Zn and Ga in Cu-based catalysts.
+
+Text:
+In Cubased materials, Zn is wellknown to greatly enhance methanol selectivity.10, 11 Other 
+13 
+reducible elements, in particular Ga, have also been shown to enhance methanol selectivity of Cu
+14 
+based catalysts.1214 Additionally, Ga is able to switch the general reaction outcome.
+
+
+---
+
+Description:
+Produced at low pressure in the presence of Ga and formed with exceptional activity by Pd and Pt with Ga.
+
+Text:
+For instance, Ni
+15 
+catalysts, which under CO2 hydrogenation conditions are very wellknown for their selectivity towards 
+16 
+methane, produce methanol at low pressure in the presence of Ga.1517 More recently, Ga was reported 
+17 
+to even switch the RWGS activity of noble metals like Pd and Pt to methanol formation with exceptional 
+18 
+activity.1821 Detailed investigations for the PdGa and PtGasystems using Surface Organometallic 
+19 
+Chemistry (SOMC) have shown that redox dynamics involving MGaGaOx (M  Pd or Pt) interfaces 
+20 
+are responsible for promoting methanol formation with high activity.20, 21 
+21 
+Considering the wellknown methanation activity of group 89 transition metals (Ru, Os, Rh, and 
+22 
+Ir), 2225 we thus reasoned, that it was worth exploring how Ga would affect the reactivity patterns and 
+23 
+the structure of these metals.

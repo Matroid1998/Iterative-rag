@@ -1,0 +1,8 @@
+In chemistry, a reducing agent (also known as a reductant, reducer, or electron donor) is a chemical species that "donates" an electron to an electron recipient (called the oxidizing agent, oxidant, oxidizer, or electron acceptor).
+Examples of substances that are common reducing agents include hydrogen, carbon monoxide, the alkali metals, formic acid, oxalic acid, and sulfite compounds.
+In their pre-reaction states, reducers have extra electrons (that is, they are by themselves reduced) and oxidizers lack electrons (that is, they are by themselves oxidized). This is commonly expressed in terms of their oxidation states. An agent's oxidation state describes its degree of loss of electrons, where the higher the oxidation state then the fewer electrons it has. So initially, prior to the reaction, a reducing agent is typically in one of its lower possible oxidation states; its oxidation state increases during the reaction while that of the oxidizer decreases.
+Thus in a redox reaction, the agent whose oxidation state increases, that "loses/donates electrons", that "is oxidized", and that "reduces" is called the reducer or reducing agent, while the agent whose oxidation state decreases, that "gains/accepts/receives electrons", that "is reduced", and that "oxidizes" is called the oxidizer or oxidizing agent.
+For example, consider the overall reaction for aerobic cellular respiration:
+
+C6H12O6(s) + 6O2(g)  →  6CO2(g) + 6H2O(l)
+The oxygen (O2) is being reduced, so it is the oxidizing agent. The glucose (C6H12O6) is being oxidized, so it is the reducing agent.

@@ -1,0 +1,26 @@
+Name: Divinyl sulfone
+Text:
+Divinyl sulfone is a clear colorless liquid. (NTP, 1992)
+Divinyl sulfone is a sulfone compound having two S-vinyl substituents. It has a role as a cross-linking reagent.
+Properties:safety: Corrosive and Acute Toxic and Irritant and Health Hazard
+smiles: C=CS(=O)(=O)C=C
+formula: C4H6O2S
+chem_properties: Molecular Weight: 118.16 g/mol
+XLogP3: 0.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 2
+Exact Mass: 118.00885060 Da
+Monoisotopic Mass: 118.00885060 Da
+Topological Polar Surface Area: 42.5
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 145
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,16 @@
+Description:
+A cAMP derivative that triggers PKA and activates the cAMP-related signaling pathway.
+
+Text:
+One commonly used and commercially available13 cAMP 
+derivative is 8(4chlorophenylthio)cAMP (8CPTcAMP), which 
+is lipophilic enough to penetrate the cell membrane.14 Inside the 
+cell, it mimics cAMP, triggers the PKA, and activates the cAMP
+related signaling pathway.14 Adding this cAMP derivative to the 
+culture medium is typically sufficient to induce the signaling 
+cascade, but this method has significant drawbacks. Firstly, 
+adding the 8CPTcAMP to the bulk prevents precise spatial 
+targeting of individual cells or cell clusters in a tissuelike cell 
+culture model. Secondly, activation of the signaling cascade is 
+permanent unless the substance is hydrolyzed or manually 
+washed out from the cells under study.

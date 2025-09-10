@@ -1,0 +1,21 @@
+Description:
+Dissolvable compounds that contribute to the shuttle effect in lithium-sulfur batteries.
+
+Text:
+This reaction allows lithiumsulfur batteries to store more energy per
+unit weight than lithiumion batteries, making them an attractive option for a wide range of
+applications.4,5 However, despite their potential advantages, LiS batteries have faced several
+challenges in terms of their performance and stability, such as the insulating nature of the
+elemental sulfur6 and the shuttle effect of dissolvable lithium polysulfides.7
+Conjugated polymers is a class of polymeric materials that exhibits alternating single and
+double bonds in their main chain, which gives them unique electrical, optical, and mechanical
+properties.811 In the context of LiS batteries, conjugated polymers can be used as cathode
+material to improve the electrical conductivity of the sulfur cathode and to prevent the dis
+solution of the active materials by forming strong chemical bonds with sulfur.1218 Among
+these, thiolcontaining polymers are one example where the SH groups can be crosslinked
+with sulfur via covalent bonding.1921
+In a recent study, we presented a new fabrication strategy to construct a binder and carbon
+additivefree organosulfur cathode based on a thiolcontaining conducting polymer poly(4
+(thiophene3yl)benzenethiol) (PTBT).21 The PTBT features the polythiophene main chain
+as a highly conducting framework and the benzenethiol side chain to copolymerize22,23 with
+sulfur and form a crosslinked organosulfur polymer.

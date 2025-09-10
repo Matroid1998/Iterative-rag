@@ -1,0 +1,26 @@
+Name: Isopropylamine
+Text:
+Isopropylamine appears as a clear colorless liquid with an ammonia-like odor. Flash point -35 °F. Boiling point 90 °F. Less dense than water Vapors heavier than air. Produces toxic oxides of nitrogen during combustion. Used as a solvent and to make other chemicals.
+Isopropylamine is a member of the class of alkylamines that is propane carrying an amino group at position 2. It is a member of alkylamines and a primary aliphatic amine. It is a conjugate base of an isopropylaminium.
+Properties:safety: Flammable and Irritant
+smiles: CC(C)N
+formula: C3H9N
+chem_properties: Molecular Weight: 59.11 g/mol
+XLogP3: 0.1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 59.073499291 Da
+Monoisotopic Mass: 59.073499291 Da
+Topological Polar Surface Area: 26
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 10.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,27 @@
+Description:
+Materials with structural and chemical diversity that can be tuned for macroscopic material behavior.
+
+Text:
+Conceptually, the 
+use of molecular A and Xsite species enhances the structural and chemical diversity in these 
+perovskites, leading to new opportunities for tuning macroscopic material behaviour.6 Examples 
+are tiltandshift engineering to impart ferroelectric properties,7, 8 tunability of hydrogen bonding 
+interactions9 between the Asite cation and the 3D BX3 network with ramifications on the 
+mechanical response,10, 11 adjustable phase transition thermodynamics,12, 13 and varying 
+structural complexities14 amongst others.
+
+
+---
+
+Description:
+Materials whose mechanical properties can be tailored based on chemical and physical principles.
+
+Text:
+Some studies24, 25 have reported trends 
+such as a relationship between size and chemistry of the divalent Bsite metal and the bulk 
+modulus, which agree with chemical intuition. Furthermore, the impact of Bsite metal defects 
+has been studied by comparing C(NH2)3Mn(HCOO)3 with its defective analogue 
+C(NH2)3Fe2313(HCOO)3, (  vacancy), which exhibits a bulk modulus that is nearly 30 
+lower.26 This body of work demonstrates the immense potential for tailoring the mechanical 
+properties in hybrid and molecular perovskites, depending on a solid understanding of the 
+chemical and physical principles that affect them.

@@ -1,0 +1,11 @@
+Description:
+SiO2 polymorphs used in various classical force fields for molecular dynamics simulations.
+
+Text:
+While DFT calculations are feasible on 
+relatively small zeolitic systems, their high CPU cost makes them unsuitable for applications at large 
+time or length scales, or in highthroughput computational workflows (for example, identifying 
+materials with a specific property by screening a database). In the specific case of pure silica zeolites, i.e. SiO2 polymorphs, a large number of classical force 
+fields have been used in the literature, with different functional forms or parameterization. Combariza 
+et al. reviewed various existing interatomic potentials1, and highlighted that accurate atomistic 
+molecular dynamics simulations have to account for a delicate balance of interactions.

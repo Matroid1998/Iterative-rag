@@ -1,0 +1,21 @@
+Description:
+Small molecules that can change oxidation states under biological conditions.
+
+Text:
+These molecules include proteins 
+(e.g., cytochromes, oxidoreductases) and small molecules (e.g., 
+quinones, flavins, phenazines) and all have the ability to change 
+oxidation states under biological conditions.2 Oxygen is the most 
+common TEA and is used by all aerobic organisms; however, 
+many microorganisms have evolved to utilize insoluble TEAs, 
+such as metal oxides.3,4 Utilization of insoluble TEAs requires 
+passing electrons through cellular membranes and is commonly 
+referred to as extracellular electron transfer (EET).4,5 There are 
+three main mechanisms to accomplish EET 1) direct contact of 
+redox proteins located in the cell envelope with the TEA, 2) 
+secretion of cytochrome containing nanowires or outer membrane 
+vesicles, or 3) use of small molecule redox mediators, also known 
+as extracellular electron shuttles.6 Of all the EET mechanisms, 
+mediated EET is the least understood with little known about the 
+physicochemical properties of the mediators that drive EET 
+activity.

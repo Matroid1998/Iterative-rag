@@ -1,0 +1,39 @@
+Description:
+Involved in the hydrogen evolution reaction (HER) in water electrolysis.
+
+Text:
+Hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) are the two 
+key reactions in a water electrolyser. Understanding the mechanisms of HER and OER is 
+necessary to improve the energy efficiency of green hydrogen production via water splitting.
+
+
+---
+
+Description:
+Involved in HER activity, dependent on metal-hydrogen binding strength.
+
+Text:
+The differences in the catalytic activities of metals towards HER in an acidic medium (0.5M 
+H2SO4) is assumed to be explainable via the Sabatier Principle.1 According to the Sabatier 
+principle, HER activity depends on metalhydrogen (EMH) binding strength, which leads to 
+a volcano type plot when using EMH as a descriptor of the activity of metals for HER.2 In 
+this scenario, metals like Pt or Ptgroup metals are excellent electrocatalysts for HER due to 
+their thermoneutrality for hydrogen adsorption (optimum metalhydrogen binding energy 
+leads to EMH 0 eV).3 But this reasoning cannot be extended to the alkaline HER, 
+particularly it fails to explain the sluggish reaction kinetics of HER on Pt in alkaline media.
+
+
+---
+
+Description:
+Can be present as under potential or over potential deposited hydrogen in alkaline medium.
+
+Text:
+One can observe under potential (HUPD) or over potential deposited (HOPD) hydrogen 
+presence in alkaline medium too by applied potential controlled surface enhanced 
+spectroscopy with surfaces like Pt.4,5 Due to the limited availability of protons in low acidic 
+conditions, water is a more likely source of adsorbed hydrogen, and the dissociation energy 
+of water adds an extra contribution to the Gibbs free energy of the Volmer step (H2O  e 
+H OH). Hence, the rate determining steps of HER are different in alkaline and acidic 
+electrolytes, and a clear understanding of the mechanism is essential for the designing of next 
+generation cost effective catalysts for this process.

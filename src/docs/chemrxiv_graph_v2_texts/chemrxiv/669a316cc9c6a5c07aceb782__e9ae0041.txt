@@ -1,0 +1,30 @@
+Description:
+A reactant in hydrogenation to methanol with CuZnO.
+
+Text:
+The chemical potentials of reactants, products, and intermediates affect the architectures
+of catalysts,13 however, the dynamics under reaction conditions remain poorly understood. Tracking these changes requires using complex operando techniques, the results of which are
+often difficult to obtain and to interpret due to the average nature of the signals, or the
+presence of spectators.2,4 To give an example, structural rearrangements were inferred from
+changes in kinetic regimes when using microkinetics for CO2 hydrogenation to methanol
+with CuZnO.1 However, models that elucidate the implications of dynamic catalysts on
+performance are currently unavailable. Catalytic systems based on firstrow transition metals like Cu and Ni undergo surface
+rearrangements in the presence of carbon species, such as CO or CHx fragments.
+
+
+---
+
+Description:
+Recycled in the Reverse Water Gas Shift reaction.
+
+Text:
+However, these phenomena have only been investigated from the perspective of
+Surface Science, without considering farther the implications of the observed changes on the
+reactivity of the catalyst.3,5,13
+Among the reactions that generate CO, the Reverse Water GasShift (RWGS; Equation
+1), that recycles CO2 and uses (preferentially green) hydrogen is receiving considerable
+attention of late as it can effectively balance industrial feeds.9,1416 The process is endothermic
+(H042 kJ mol1; S42 J mol1 K1)14,15,1721 and, under lower temperatures, methane
+becomes the main product (H0165 kJ mol1, Equation 2). This reduces the process
+efficiency,14,17 and decreases the yield of other possible minor byproducts such as methanol,22
+Equation 3.

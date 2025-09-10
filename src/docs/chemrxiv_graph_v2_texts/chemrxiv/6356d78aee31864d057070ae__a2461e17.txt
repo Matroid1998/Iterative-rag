@@ -1,0 +1,16 @@
+Description:
+A substrate where thiol-induced reconstruction is associated with the formation of atomic vacancies and gold adatom-thiolate complexes.
+
+Text:
+The evolution and geometry of these structures are driven mainly by 
+the stabilization resulting from van der Waals (vdW) interactions between 
+adjacent adsorbed molecules.1,2 However, in addition to the molecular 
+phenomenon of selforganization, it has also been demonstrated that, on some 
+surfaces, the adsorption of thiol molecules can cause considerable 
+reorganization or reconstruction of the surface itself. On Au(111), for example, thiolinduced reconstruction is associated with 
+formation of atomic vacancies (VAu) and corresponding gold adatomthiolate 
+complexes ((RS)xAuad, x  1  4), where the Auad species is generally bonded 
+to threefold hollow sites on the underlying Au(111) substrate.11 Increasing 
+coverage () of the thiol promotes increasing degrees of surface reconstruction.12 
+For linear alkanethiolatebased SAMs, (RS)2Auad species are mainly formed, 
+with a thiolate saturation surface coverage of 0.33.

@@ -1,0 +1,31 @@
+Name: Enfuvirtide
+Text:
+Enfuvirtide is a synthetic 36-amino acid peptide consisting of N-acetyltyrosyl, threonyl, seryl, leucyl, isoleucyl, histidyl, seryl, leucyl, isoleucyl, alpha-glutamyl, alpha-glutamyl, seryl, glutaminyl, asparaginyl, glutaminyl, glutaminyl, alpha-glutamyl, lysyl, asparaginyl, alpha-glutamyl, alpha-glutamyl, alpha-glutamyl, leucyl, leucyl, alpha-glutamyl, leucyl, alpha-aspartyl, lysyl, tryptophyl, alanyl, seryl, leucyl, tryptophyl, asparaginyl, tryptophyl, and phenylalaninamide residues joined in sequence. An HIV fusion inhibitor, it was the first of a novel class of antiretroviral drugs used in combination therapy for the treatment of HIV-1 infection. It interferes with entry of HIV into cells by binding to the gp41 sub-unit of the viral envelope glycoprotein, so inhibiting fusion of viral and cellular membranes. It has a role as a HIV fusion inhibitor.
+Enfuvirtide (brand name: Fuzeon) is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in adults and in children 6 years of age and older weighing at least 24 lb (11 kg) whose infection is not well-controlled by ongoing treatment with other HIV medicines. Enfuvirtide is always used in combination with other HIV medicines.
+Enfuvirtide is a 36 amino acid biomimetic peptide that is structurally similar to the HIV proteins that are responsible for the fusion of the virus to cell membranes and subsequent intracellular uptake. The first agent in the novel class of antiretroviral drugs called HIV fusion inhibitors, enfuvirtide works by inhibiting HIV-1 fusion with CD4 cells.
+Enfuvirtide is an HIV fusion inhibitor, the first of this class of agents active against the human immunodeficiency virus (HIV). Enfuvirtide has not been associated with serum aminotransferase elevations during therapy or episodes of acute, clinically apparent liver injury.
+Enfuvirtide is a short polypeptide with activity against human immunodeficiency virus (HIV). Enfuvirtide binds to the first heptad-repeat (HR1) in the gp41 viral envelope glycoprotein, thereby preventing conformational changes required for fusion of viral and cellular membranes and preventing the virus from entering a host cell.
+ENFUVIRTIDE is a Protein drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2003 and has 3 approved and 1 investigational indication.
+A synthetic 36-amino acid peptide that corresponds to the heptad repeat sequence of HIV-1 gp41. It blocks HIV cell fusion and viral entry and is used with other anti-retrovirals for combination therapy of HIV INFECTIONS and AIDS.
+Properties:safety: Irritant
+smiles: CC[C@H](C)[C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)N[C@@H](C)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC3=CNC4=CC=CC=C43)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CC5=CNC6=CC=CC=C65)C(=O)N[C@@H](CC7=CC=CC=C7)C(=O)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CO)NC(=O)[C@H](CC8=CN=CN8)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CC9=CC=C(C=C9)O)NC(=O)C
+formula: C204H301N51O64
+chem_properties: Molecular Weight: 4492 g/mol
+XLogP3: -14.7
+Hydrogen Bond Donor Count: 63
+Hydrogen Bond Acceptor Count: 67
+Rotatable Bond Count: 151
+Exact Mass: 4491.1933541 Da
+Monoisotopic Mass: 4489.1866445 Da
+Topological Polar Surface Area: 1900
+Heavy Atom Count: 319
+Formal Charge: 0
+Complexity: 11200
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 39
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,14 @@
+Description:
+Produced by the partial oxidation of n butane.
+
+Text:
+Heterogeneously catalyzed gas phase reactions are commonly carried out in fixed
+bed reactors throughout the chemical processing industry (Eigenberger and Ruppel
+(2012)). Slender tubes with only a few particles along the tube diameter are required
+for highly endothermic and exothermic reactions, such as the partial oxidation of n
+butane to maleic anhydride (MA) (Muller et al. (2022)), to efficiently supply or remove
+the heat while keeping the pressure drop at a moderate level. Due to the pronounced
+effect of the tube wall on the particle arrangement, the small tubetoparticle diameter
+ratio (Dtdp  10) results in an inhomogeneous packed bed morphology (Zio lkowska
+and Zio lkowski (1988)), affecting fluid flow, heat and species mass transport (Dixon
+(2021a)), as well as chemical reactions (Wehinger, Eppinger, and Kraume (2015)).

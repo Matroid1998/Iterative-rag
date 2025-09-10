@@ -1,0 +1,24 @@
+Description:
+A MOF where smaller crystal size increases the gate opening penalty and decreases system flexibility.
+
+Text:
+Gas adsorption in MOFs can be accompanied by unique 
+and often counterintuitive structural changes within the porous framework due to a complex 
+interplay of inter and intramolecular interactions of both, the adsorbate as well as the 
+adsorbent.4,5 This flexibility also sets them apart from other classes of porous materials such as 
+porous carbons or zeolites and lead to a variety of analytic methods providing deep insights in the 
+underlying mechanisms on a molecular scale.59 
+Besides these molecular level construction and interactions, crystal size has shown to have an 
+impact on the adsorption behaviour of MOFs as well.1014 In many cases, the decrease in crystal 
+size and thereby the decreased ratio of inner surface compared to the crystals outer surface leads 
+to a stabilization of a metastable open pore phase due to a lack of nucleation sites required for the 
+phase transition.15 This influences the thermodynamics and kinetics of the physisorption process 
+and the possibly underlying flexible transitions.11,15 Various groups have found that smaller 
+crystal size in ZIF8 increases the gate opening penalty and therefore overall decreases the 
+flexibility of this system.13,16,17 On the other hand larger crystals oftentimes show more internal 
+strain due to a larger number of differently oriented domains within the crystal.11,18 This is also 
+reflected by computational studies which suggest that the flexible breathing transition of MIL
+53(Al) can occur via a layerbylayer mechanism as well as one involving multiple discrete 
+nucleation points, depending also on external pressure.14 This leads to altered kinetics of the phase 
+transition as in MIL53(Al) a slower breathing transition with increasing crystal size but also a 
+httpsdoi.org10.26434chemrxiv2025s2qt4 ORCID httpsorcid.org0000000298515031 Content not peerreviewed by ChemRxiv.

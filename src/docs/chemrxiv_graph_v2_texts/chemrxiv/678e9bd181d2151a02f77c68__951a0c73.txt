@@ -1,0 +1,16 @@
+Description:
+Oxidizing redox mediators used in anodic oxidations.
+
+Text:
+Despite significant progress in the field of electrosynthesis, advances in anodic oxidations 
+far outpace advances in cathodic reductions.13 In part, this disparity can be attributed to the wide 
+array of oxidizing redox mediators (i.e., cyclopropeniums,4 Noxyl radicals,5 triarylamines,6 
+halogenide salts,7 and metal salts8) that are available compared to reducing redox mediators, which 
+are generally limited to Nisalen,9 Cosalen,10 fullerenes,11 and aromatic hydrocarbons.12 Anodic 
+oxidations are also conveniently paired with the hydrogen evolution reaction (HER) as the 
+supporting half reaction, while cathodic reductions typically make use of a sacrificial anode, a 
+component that is susceptible to passivation or results in the introduction of unwanted chemical 
+species.3, 13, 14 In addition, cathodic reductions often require electrode potentials far beyond the 
+formal potential for proton and water reduction, requiring dry organic solvents and maintaining a 
+moisturefree environment.3, 15 This report offers a simple electroorganic synthesis strategy to 
+address all of these concerns.

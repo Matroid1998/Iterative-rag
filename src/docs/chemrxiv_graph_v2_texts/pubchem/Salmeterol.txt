@@ -1,0 +1,32 @@
+Name: Salmeterol
+Text:
+2-(hydroxymethyl)-4-(1-hydroxy-2-{[6-(4-phenylbutoxy)hexyl]amino}ethyl)phenol is a phenol having a hydroxymethyl group at C-2 and a 1-hydroxy-2-{[6-(4-phenylbutoxy)hexyl]amino}ethyl group at C-4; derivative of phenylethanolamine. It is a member of phenols, an ether, a secondary alcohol, a primary alcohol and a secondary amino compound. It is functionally related to a phenylethanolamine.
+Salmeterol is a long-acting beta-2 adrenergic receptor agonist drug that is currently prescribed for the treatment of asthma and chronic obstructive pulmonary disease COPD. It has a longer duration of action than the short-acting beta-2 adrenergic receptor agonist, [salbutamol]. Salmeterol was first described in the literature in 1988. Salmeterol's structure is similar to salbutamol's with an aralkyloxy-alkyl substitution on the amine.  Salmeterol was granted FDA approval on 4 February 1994.
+Salmeterol is a beta2-Adrenergic Agonist. The mechanism of action of salmeterol is as an Adrenergic beta2-Agonist.
+Salmeterol is a highly selective, long-acting beta-2 adrenergic agonist with bronchodilatory activity. Salmeterol's benzene moiety resembles the structure of catecholamines, and occupies the active site of beta-2 adrenergic receptor, while the long, lipophilic side chain of salmeterol, binds to the so called 'exosite' near the beta-2 adrenergic receptors. The binding at the exosite allows the active portion of the molecule to remain at the receptor site and continually engage and disengage with the receptor, therefore providing a long duration of action. This agent stimulates intracellular adenyl cyclase to catalyze the conversion of adenosine triphosphate to cyclic-3',5'-adenosine monophosphate (cAMP). Increased cAMP levels result in relaxation of bronchiolar smooth muscle, bronchodilation and increased bronchial airflow.
+SALMETEROL is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1994 and has 5 approved and 7 investigational indications. This drug has a black box warning from the FDA.
+Salmeterol is a long-acting beta2-adrenergic receptor agonist drug that is currently prescribed for the treatment of asthma and chronic obstructive pulmonary disease COPD.
+A selective ADRENERGIC BETA-2 RECEPTOR agonist that functions as a BRONCHODILATOR when administered by inhalation. It is used to manage the symptoms of ASTHMA and CHRONIC OBSTRUCTIVE PULMONARY DISEASE.
+See also: Salmeterol Xinafoate (has salt form).
+Properties:safety: Irritant
+smiles: C1=CC=C(C=C1)CCCCOCCCCCCNCC(C2=CC(=C(C=C2)O)CO)O
+formula: C25H37NO4
+chem_properties: Molecular Weight: 415.6 g/mol
+XLogP3: 3.9
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 16
+Exact Mass: 415.27225866 Da
+Monoisotopic Mass: 415.27225866 Da
+Topological Polar Surface Area: 82
+Heavy Atom Count: 30
+Formal Charge: 0
+Complexity: 403
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

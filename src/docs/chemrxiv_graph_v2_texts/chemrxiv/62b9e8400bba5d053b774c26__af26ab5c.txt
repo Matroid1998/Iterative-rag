@@ -1,0 +1,12 @@
+Description:
+Used in metal anodes for All-Solid-State Batteries due to its potential to prevent dendrite formation.
+
+Text:
+Liion batteries (LIBs) constitute a technological breakthrough with a largescale impact on our 
+societies.1 The current state of the art LIB is highly optimized and its density is close to the theoretical 
+one, however, a next generation battery with higher capabilities can constitute a step further towards 
+decreasing the reliance on fossil fuels. AllSolidState Battery (ASSB) resembles a potential candidate 
+for the upcoming energy storage devices. ASSBs may not just be superior with larger energy density 
+and power performance because it also hinders (theoretically) dendrite formation giving the possibility 
+of using Li metal anodes. They also provide higher safety aspects since the inflammable carbonate
+based liquid electrolyte is not used.

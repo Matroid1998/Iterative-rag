@@ -1,0 +1,38 @@
+Description:
+A vital chemical primarily used to produce fertilizer for agriculture.
+
+Text:
+Ammonia is a vital chemical that is primarily used to produce fertilizer for agriculture, but 
+also has uses in the chemical industry as a commodity chemical.1,2 Globally, more than 
+180 million metric tons of ammonia are produced annually by the HaberBosch process3 
+which is responsible for around 1  of global carbon dioxide emission and requires large, 
+centralized facilities to be operated continuously. Developing an alternative process to 
+produce ammonia with less environmental impact and in localizable devices would 
+enable onsite and ondemand production that can be coupled to the evergrowing 
+renewable 
+energy 
+sector. Alkalimetal 
+mediated 
+electrochemical 
+processes, 
+predominantly the lithium mediated system has proven to be the best candidate for 
+activating dinitrogen (N2) since its revival in 2019.4 Initially developed by Tsuneto et al.
+
+
+---
+
+Description:
+Produced in lithium-mediated processes with low yield rate due to low surface area electrodes.
+
+Text:
+5 In conjunction 
+with lithium metal, a solid electrolyte interphase forms which moderates the access of 
+reagents to enable selective N2 reduction.6,7 
+Vast improvements in the Faradaic efficiencies of lithium mediated N2 reduction have 
+resulted primarily from research focused on optimising the electrolyte813 or employing 
+more industrially relevant cells such as a flow cell with gas diffusion electrodes.12,14,15 
+There have been a limited number of studies focused on the cathode material, most 
+employ metal electrodes such as molybdenum9,10 or stainless steel.12,14 These electrodes 
+exhibit low current density and electrochemical performance in terms of yield rate (nmol 
+s1 cm2geo) towards ammonia due to their low surface area. In the stateoftheart flow cell, 
+Figure 1. Schematic showing a flow cell for lithium mediated ammonia synthesis with a carbon cathode.

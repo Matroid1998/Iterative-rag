@@ -1,0 +1,37 @@
+Name: Trichloroethylene
+Text:
+Trichloroethylene (TCE) is a nonflammable, colorless liquid with a somewhat sweet odor and a sweet, burning taste. It is used mainly as a solvent to remove grease from metal parts, but it is also an ingredient in adhesives, paint removers, typewriter correction fluids, and spot removers. Trichloroethylene is not thought to occur naturally in the environment. However, it has been found in underground water sources and many surface waters as a result of the manufacture, use, and disposal of the chemical.
+Trichloroethylene can cause cancer according to an independent committee of scientific and health experts. It can cause developmental toxicity and male reproductive toxicity according to The Environmental Protection Agency (EPA).
+Trichloroethylene appears as a clear colorless volatile liquid having a chloroform-like odor. Denser than water and is slightly soluble in water. Noncombustible. Used as a solvent, fumigant, in the manufacture of other chemicals, and for many other uses.
+Trichloroethene is a member of the class of chloroethenes that is ethene substituted by chloro groups at positions 1, 1 and 2. It has a role as an inhalation anaesthetic and a mouse metabolite.
+Trichloroethylene is a halocarbon commonly used as an industrial solvent, not to be confused with the similar 1,1,1-trichloroethane, also known as chlorothene. It has been sold under a variety of trade names including Trimar and Trilene and used as a volatile anesthetic and as an inhaled obstetrical analgesic. Environmental exposure, particularly groundwater and drinking water contamination from industrial discharge, is a major concern for human health and has been the subject of numerous incidents and lawsuits.
+Most of the trichloroethylene used in the United States is released into the atmosphere from industrial degreasing operations. Acute (short-term) and chronic (long-term) inhalation exposure to trichloroethylene can affect the human central nervous system (CNS), with symptoms such as dizziness, headaches, confusion, euphoria, facial numbness, and weakness. Liver, kidney, immunological, endocrine, and developmental effects have also been reported in humans. A recent analysis of available epidemiological studies reports trichloroethylene exposure to be associated with several types of cancers in humans, especially kidney, liver, cervix, and lymphatic system. Animal studies have reported increases in lung, liver, kidney, and testicular tumors and lymphoma. The Agency is currently reassessing the cancer classification of trichloroethylene.
+Trichloroethylene has been reported in Bos taurus and Caenorhabditis elegans with data available.
+Trichloroethylene is a synthetic, light sensitive, volatile, colorless, liquid that is miscible with many non-polar organic solvents. Trichloroethylene is used mainly as a degreaser for metal parts. Upon combustion, it produces irritants and toxic gases. Occupational exposure to trichloroethylene is associated with excess incidences of liver cancer, kidney cancer and non-Hodgkin lymphoma. It is reasonably anticipated to be a human carcinogen. (NCI05)
+TRICHLOROETHYLENE is a small molecule drug with a maximum clinical trial phase of IV.
+Trichloroethylene is a solvent and extractive in the manufacture of foods. One recent review of the epidemiology of kidney cancer rated cigarette smoking and obesity as more important risk factors for kidney cancer than exposure to solvents such as trichloroethylene. In contrast, the most recent overall assessment of human health risks associated with trichloroethylene states, [t]here is concordance between animal and human studies, which supports the conclusion that trichloroethylene is a potential kidney carcinogen. The evidence appears to be less certain at this time regarding the relationship between humans and liver cancer observed in mice, with the NAS suggesting that low-level exposure might not represent a significant liver cancer risk in the general population. The chemical compound trichloroethylene is a chlorinated hydrocarbon commonly used as an industrial solvent. It is a clear non-flammable liquid with a sweet smell. The first known report of TCE in groundwater was given in 1949 by two English public chemists who described two separate instances of well contamination by industrial releases of TCE. Based on available federal and state surveys, between 9% to 34% of the drinking water supply sources tested in the U.S. may have some TCE contamination, though EPA has reported that most water supplies are in compliance with the Maximum Contaminant Level (MCL) of 5 ppb. In addition, a growing concern in recent years at sites with TCE contamination in soil or groundwater has been vapor intrusion in buildings, which has resulted in indoor air exposures, such is in a recent case in the McCook Field Neighborhood of Dayton, Ohio. Trichloroethylene has been detected in 852 Superfund sites across the United States, according to the Agency for Toxic Substances and Disease Registry (ATSDR). Under the Safe Drinking Water Act of 1974, and as amended annual water quality testing is required for all public drinking water distributors. The EPA'S current guidelines for TCE can be found here. It should be noted that the EPA's table of TCE Releases to Ground is dated 1987 to 1993, thereby omitting one of the largest Superfund Cleanup sites in the nation, the NIBW in Scottsdale, Arizona. The TCE released here occurred prior to its appearance in the municipal drinking wells in 1982. This reaction can be catalyzed by a variety of substances. The most commonly used catalyst is a mixture of potassium chloride and aluminum chloride. However, various forms of porous carbon can also be used. This reaction produces tetrachloroethylene as a byproduct, and depending on the amount of chlorine fed to the reaction, tetrachloroethylene can even be the major product. Typically, trichloroethylene and tetrachloroethylene are collected together and then separated by distillation.Trichloroethylene: Parkinsonism and complex 1 mitochondrial neurotoxicity). Trichloroethylene is an effective solvent for a variety of organic materials.
+
+Trichloroethylene belongs to the family of Organochlorides. These are organic compounds containing a chlorine atom.
+A highly volatile inhalation anesthetic used mainly in short surgical procedures where light anesthesia with good analgesia is required. It is also used as an industrial solvent. Prolonged exposure to high concentrations of the vapor can lead to cardiotoxicity and neurological impairment.
+Properties:safety: Irritant and Health Hazard
+smiles: C(=C(Cl)Cl)Cl
+formula: C2HCl3
+chem_properties: Molecular Weight: 131.38 g/mol
+XLogP3: 2.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 129.914383 Da
+Monoisotopic Mass: 129.914383 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 42.9
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

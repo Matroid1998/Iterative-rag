@@ -1,0 +1,6 @@
+A frustrated Lewis pair (FLP)  is a compound or mixture containing a Lewis acid and a Lewis base that, because of steric hindrance, cannot combine to form a classical adduct. Many kinds of FLPs have been devised, and many simple substrates exhibit activation.
+The discovery that some FLPs split H2 triggered a rapid growth of research into FLPs. Because of their "unquenched" reactivity, such systems are reactive toward substrates that can undergo heterolysis.  For example, many FLPs split hydrogen molecules.  
+Thus, a mixture of tricyclohexylphosphine (PCy3) and tris(pentafluorophenyl)borane reacts with hydrogen to give the respective phosphonium and borate ions:
+
+PCy3 + B(C6F5)3 + H2  →  [HPCy3]+ [HB(C6F5)3]−
+This reactivity has been exploited to produce FLPs which catalyse hydrogenation reactions.

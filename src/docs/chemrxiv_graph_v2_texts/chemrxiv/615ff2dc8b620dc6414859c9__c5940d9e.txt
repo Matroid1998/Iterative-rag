@@ -1,0 +1,13 @@
+Description:
+An efficient photosensitizer building block in transition metal complexes.
+
+Text:
+Artificial photosynthesis aims to develop photocatalytic systems for lightdriven water splitting.1 
+Promising structures are molecular assemblies combining a lightharvesting and a redoxactive 
+catalytic unit, which are chemically linked by a molecular bridge.2 Such molecularly defined systems 
+offer the opportunity for detailed, mechanistic investigations upon structural modifications. From 
+various studies, transition metal complexes, i.e., based on RuII, IrIII, OsII or ReI emerged as efficient 
+photosensitizer buildingbocks.2,3 However, to strive for sustainable photocatalysis it is mandatory to 
+
+replace noblemetal sensitizers by lowcost and easy to derivatize organic chromophores such as 
+oligothiophene4,5 and rylene6,7 dyes.

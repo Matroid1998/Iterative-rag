@@ -1,0 +1,11 @@
+Description:
+Replaces plastoquinones in PSI.
+
+Text:
+In PSI, the inner pair of cofactors is formed by Chl a
+and its C132epimer (Chl a), which are called PB and PA, respectively. Similar to the
+case of PSII, the pair of accessory PSI pigments is composed of Chl a molecules (denoted
+as A1A and A1B), whereas pheophytins and plastoquinones are replaced by Chl a co
+factors (A0A and A0B) and phylloquinones (A1A and A1B), respectively. In both PSI and
+PSII, magnesium ions of innerpair Chls are coordinated by histidine (His) aminoacid
+residues, whereas those of accessory pigments are coordinated by water molecules.

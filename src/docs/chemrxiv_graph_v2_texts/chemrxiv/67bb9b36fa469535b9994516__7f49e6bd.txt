@@ -1,0 +1,30 @@
+Description:
+An epitranscriptomic modification of cytidine found in RNAs.
+
+Text:
+Acetylation of the nucleoside cytidine, which gives the N4acetylcytidine (ac4C, Figure 1) 
+epitranscriptomic modification, has been observed in RNAs including tRNAs, rRNAs, mRNAs and various 
+regulatory RNAs. It plays a wide range of roles in biological systems. Errors related to the modification 
+have been found to be associated with many human diseases 1, 2. More recently, acetylation of 
+deoxycytidine, which gives the N4acetyldeoxycytidine (4acC, Figure 1) epigenetic modification, has also 
+been discovered in the DNA of Arabidopsis, rice, maize, mouse, and human. It is mainly located around 
+transcription start sites and positively correlates with gene expression levels 3. Several studies using 
+synthetic oligodeoxynucleotides (ODNs) and oligoribonucleotides (ORNs) have shown that acetylation of 
+cytosine can increase the UV melting temperature of duplex oligonucleotides (ONs) by 1  8 C 46.
+
+
+---
+
+Description:
+Plays roles such as enhancing protein synthesis efficiency in biological systems.
+
+Text:
+The 
+knowledge sheds a light on the mechanisms by which ac4C plays roles such as enhancing protein synthesis 
+efficiency in the biological system 7. This shows the significance of the synthesis of ONs containing 
+sensitive modifications such as ac4C and 4acC as well as numerous others 8. However, standard ON 
+synthesis methods requires deprotection and cleavage under strongly basic and nucleophilic conditions, 
+under which ac4C, 4acC and other sensitive groups are unstable. Although several reported methods may 
+be used for the purpose, they have various limitations as discussed earlier 912. For example, some 
+methods can only synthesize ONs that contain thymidine or uridine only and thus do not need nucleobase 
+protection 4, 6. Some require UV irradiation for cleavage, which can damage ON 5.

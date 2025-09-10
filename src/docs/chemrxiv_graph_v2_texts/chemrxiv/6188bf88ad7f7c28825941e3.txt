@@ -1,0 +1,35 @@
+Description:
+Involves a competition of entropic and enthalpic driving forces in its solvation structure.
+
+Text:
+Furthermore, the structural
+predictions of MQC simulations of e
+aq can depend quite
+sensitively on the pseudopotential,8,9,11,12 which one of
+us found recently to arise from a competition of entropic
+and enthalpic driving forces in the solvation structure of
+e
+aq.13
+A rstprinciples description of e
+aq is thus preferred,
+and several ab initio molecular dynamics (AIMD) strate
+gies have emerged recently, including Quantum Mechan
+icsMolecular Mechanics (QMMM),14,15 periodic plane
+wave Density Functional Theory (DFT),16,17 periodic
+secondorder MollerPlesset theory (MP2),18 and Path
+Integral Molecular Dynamics (PIMD) with Machine
+Learned (ML) potentials.19
+Given the computational cost of ab initio methods, ex
+plorations of the equilibrium dynamics of e
+aq have so far
+been limited, although the initial localization dynamics
+has received attention.14,16,18,20 An exception is the very
+recent PIMD study of e
+aq with ML potentials, which af
+forded extensive sampling due to the forceeldlike cost
+of ML potentials.19 Of the AIMD methods, QMMM is
+particularly ecient, since most of the solvent molecules
+far from the electron can be treated with a cheap MM
+forceeld, and only the rst few solvent shells around
+e
+aq need to be treated at a QM level.

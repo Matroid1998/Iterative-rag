@@ -1,0 +1,9 @@
+Description:
+Undergoes lithiation-delithiation with different stress distributions in amorphous and crystalline forms.
+
+Text:
+For example, McDowell et al.6,7 pointed out that amorphous Si 
+(aSi) and crystalline Si (cSi) have different stresses during lithiation. The stress distribution in a
+Si particles is uniform and shows compressive hoop stress, which is beneficial to structural stability. In contrast, the core of cSi is under compressive stress and the surface layer is under tensile stress, 
+and this may lead to electrode cracks. Experimental as well as theoretical efforts have been made in the past to understand the 
+lithiationdelithiation of Si anode and to characterize the intermediate phases3,4,8.

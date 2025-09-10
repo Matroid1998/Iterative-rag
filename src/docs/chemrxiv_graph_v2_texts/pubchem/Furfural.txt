@@ -1,0 +1,30 @@
+Name: Furfural
+Text:
+Furfural appears as colorless or reddish-brown mobile liquids with a penetrating odor. Flash points 140 °F. Denser than water and soluble in water. Vapors heavier than air. May be toxic by ingestion, skin absorption or inhalation.
+Furfural is an aldehyde that is furan with the hydrogen at position 2 substituted by a formyl group. It has a role as a Maillard reaction product and a metabolite. It is a member of furans and an aldehyde. It is functionally related to a furan.
+Furfural has been reported in Francisella tularensis, Angelica gigas, and other organisms with data available.
+2-furancarboxaldehyde is a metabolite found in or produced by Saccharomyces cerevisiae.
+A heterocyclic compound consisting of a furan where the hydrogen at position 2 is substituted by a formyl group.
+See also: Chamomile (part of).
+Properties:safety: Acute Toxic and Health Hazard
+smiles: C1=COC(=C1)C=O
+formula: C5H4O2
+chem_properties: Molecular Weight: 96.08 g/mol
+XLogP3: 0.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 96.021129366 Da
+Monoisotopic Mass: 96.021129366 Da
+Topological Polar Surface Area: 30.2
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 70.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,33 @@
+Name: Pentaerythritol Tetranitrate
+Text:
+Pentaerythrite tetranitrate appears as white crystals. Density 1.75 g / cm3. Melting point 138-140 °C. Detonates at 210 °C. An extremely dangerous explosive, particularly when dry. Especially sensitive to shock and heat. Primary hazard is blast of an instantaneous explosion, not flying projectiles or fragments.
+Pentaerythrite tetranitrate with >= 7 % wax appears as white crystals mixed with more than 7% wax. The pure compound is a dangerous explosive, particularly when dry, and is especially sensitive to shock and heat. The admixture of wax reduces sensitivity. May explode under exposure to heat or fire. Primary hazard is blast of an instantaneous explosion, not flying projectiles or fragments.
+Pentaerythrite tetranitrate, [wet with >= 25 % water or desensitized with >= 15 % phlegmatizer] appears as a thick slurry of white crystals. The pure compound is a dangerous explosive, particularly when dry. Addition of water or phlegmatizer reduces sensitivity to shock and heat. May explode under exposure to heat or fire. Primary hazard is blast of an instantaneous explosion, not flying projectiles or fragments.
+Pentaerythritol tetranitrate is a pentaerythritol nitrate in which all four hydroxy groups of pentaerythritol have been converted to the corresponding nitrate ester. It is a vasodilator with properties similar to those of glyceryl trinitrate, but with a more prolonged duration of action, and is used for treatment of angina pectoris. It is also one of the most powerful high explosives known and is a component of the plastic explosive known as Semtex. It has a role as an explosive and a vasodilator agent.
+Pentaerythritol tetranitrate is the nitrate ester of pentaerythritol that possesses explosive properties. When mixed with a plasticizer, this chemical forms a plastic explosive. It is recognized by the FDA to be a coronary vasodilator in the treatment of heart conditions such as angina.  It is a pentaerythritol nitrate in which all four hydroxy groups of pentaerythritol have been converted to the corresponding nitrate ester. It is a vasodilator with properties that are quite similar to those of glyceryl trinitrate, however, with a more prolonged duration of action. It is also one of the most powerful high explosives known and is a component of the plastic explosive known as Semtex.  PETN has the chemical formula C5H8N4O12. It is formed by reacting pentaerythritol (C5H12O4), an alcohol commonly used in paints and varnishes, with nitric acid (HNO2). The reacting solution is chilled to precipitate the PETN.  It is then filtered out, washed, dried, and recrystallized to produce a colorless crystalline material that is stored and shipped as a mixture with water and alcohol.  Interestingly, this drug was studied for potential benefits in chronic ischemic heart failure patients.  PETN targeting reactive oxygen species generation halted the changes of mitochondrial antioxidant enzymes and progressive fibrotic remodeling, leading to amelioration of cardiac functional performance in rats with ischemic heart failure.
+Pentaerythritol Tetranitrate is the lipid soluble polyol ester of nitric acid belonging to the family of nitrovasodilators that exhibit vasodilatory property. Pentaerythritol tetranitrate releases free nitric oxide (NO) after denitration reaction, which triggers NO-dependent signaling transduction involving soluble guanylate cyclase (sGC). NO binds reversibly to the ferrous-heme center of sGC, thereby causes conformational change and activates the enzyme. Activation results in increasing cellular levels of cyclic guanosine monophosphate (cGMP) within vascular smooth muscle, which results in vasodilation mediated by cGMP-dependent protein kinases. Furthermore, this agent causes arterial and venous bed dilation in a dose-dependent manner.
+PENTAERYTHRITOL TETRANITRATE is a small molecule drug with a maximum clinical trial phase of IV and is indicated for cardiovascular disease.
+Pentaerythritol tetranitrate (PETN), also known as PENT, PENTA, TEN, corpent, penthrite is the nitrate ester of pentaerythritol, and is structurally very similar to nitroglycerin. PETN is best known as an explosive. It is one of the most powerful high explosives known. PETN mixed with a plasticizer forms a plastic explosive. It is also used as a vasodilator drug to treat certain heart conditions, such as for management of angina. PETN works by releasing the signaling gas nitric oxide in the body. The heart medicine Lentonitrat is nearly pure PETN. Monitoring of oral usage of the drug by patients can be performed by determination of plasma levels of several of its hydrolysis products, pentaerythritol dinitrate, pentaerythritol mononitrate and pentaerythritol, in plasma using gas chromatography-mass spectrometry.
+A vasodilator with general properties similar to NITROGLYCERIN but with a more prolonged duration of action. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1025)
+Properties:safety: Explosive
+smiles: C(C(CO[N+](=O)[O-])(CO[N+](=O)[O-])CO[N+](=O)[O-])O[N+](=O)[O-]
+formula: C5H8N4O12
+chem_properties: Molecular Weight: 316.14 g/mol
+XLogP3: 1.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 12
+Rotatable Bond Count: 8
+Exact Mass: 316.01387170 Da
+Monoisotopic Mass: 316.01387170 Da
+Topological Polar Surface Area: 220
+Heavy Atom Count: 21
+Formal Charge: 0
+Complexity: 311
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

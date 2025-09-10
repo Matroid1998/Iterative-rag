@@ -1,0 +1,26 @@
+Description:
+A polymer that can form midchain radicals through hydrogen abstraction at high temperatures.
+
+Text:
+The experimental determination of rate
+constants is constrained by the operating capabilities of
+laboratoryscale reactors and diagnostics, thus inhibiting
+the exploration of wider ranges of temperatures (T
+ 400 K) and limiting the combinations of solvents
+and mixture composition typical of (de)polymerization
+processes. The
+main
+reaction
+classes
+involved
+in polymerization processes are well known to be
+propagations and terminations of end chain radicals
+(ECR) by recombination or disproportionate. ECRs are
+formed starting from the reaction of a radical initiator
+(usually a peroxide) with a monomer. In addition, at
+increasing temperatures, a large proportion of polymer
+chains (polyethylene, polystyrene, polybutyl acrylate,
+etc.) exhibit a high propensity to form midchain
+radicals (MCRs) through intramolecular (or less likely
+intermolecular) hydrogen abstraction, also known as
+backbiting.

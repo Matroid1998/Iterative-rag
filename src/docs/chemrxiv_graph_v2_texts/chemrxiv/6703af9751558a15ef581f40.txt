@@ -1,0 +1,48 @@
+Description:
+Transitions from the black phase to the yellow phase via a direct onestep pathway requiring a barrier of 68 meVatom, which can be reduced to 31 meVatom through a multistep process.
+
+Text:
+Density functional theory (DFT) calculation stud
+ies have been predicted that CsPbI3 transitioning from the black phase to the yellow phase via a
+direct onestep pathway requires overcoming a barrier of 68 meVatom12, which can be reduced
+to 31 meVatom through a multistep process involving four transition states and three metastable
+states13. Classical molecular dynamics (MD) simulations have predicted a different transition
+mechanism that the yellow phase of CsPbI3 transforms into a liquidlike disordered structure at
+high temperatures before recrystallizing into the black phase14. Experimental validation of the
+atomiclevel transition mechanism is currently infeasible, leaving the underlying mechanism un
+clear. Water plays a crucial role in the BY phase transition in MHPs1521.
+
+
+---
+
+Description:
+The yellow phase transforms into a liquidlike disordered structure at high temperatures before recrystallizing into the black phase.
+
+Text:
+Density functional theory (DFT) calculation stud
+ies have been predicted that CsPbI3 transitioning from the black phase to the yellow phase via a
+direct onestep pathway requires overcoming a barrier of 68 meVatom12, which can be reduced
+to 31 meVatom through a multistep process involving four transition states and three metastable
+states13. Classical molecular dynamics (MD) simulations have predicted a different transition
+mechanism that the yellow phase of CsPbI3 transforms into a liquidlike disordered structure at
+high temperatures before recrystallizing into the black phase14. Experimental validation of the
+atomiclevel transition mechanism is currently infeasible, leaving the underlying mechanism un
+clear. Water plays a crucial role in the BY phase transition in MHPs1521.
+
+
+---
+
+Description:
+Exhibits a phase transition from black to yellow, sensitive to environmental humidity.
+
+Text:
+Under dry conditions,
+rapid cooling can maintain the material in the metastable black  and  phases without transi
+tioning to the yellow phase4,16,22. Experimental evidence suggests that without water molecules,
+defect introduction via laser irradiation is insufficient to induce the BY phase transition16. How
+ever, under humid conditions, water molecules in the air trigger the nucleation process of the BY
+transition, and the transition is highly sensitive to environmental humidity1719. As humidity in
+creases from 53 to 73, the nucleation barrier of yellowCsPbI3 decreases from 1.34 to 0.57
+eV9. Additionally, the rate of the BY phase transition in CsPbI3 nanowires exhibits an instan
+taneous response to environmental humidity, enabling realtime control of the transition rate by
+regulating environmental humidity20.

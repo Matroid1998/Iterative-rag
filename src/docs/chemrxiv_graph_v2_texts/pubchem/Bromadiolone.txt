@@ -1,0 +1,26 @@
+Name: Bromadiolone
+Text:
+Yellowish powder. Used as an anticoagulant rodenticide. (EPA, 1998)
+Bromadiolone is a diarylheptanoid.
+Properties:safety: Acute Toxic and Health Hazard and Environmental Hazard
+smiles: C1=CC=C(C=C1)C(CC(C2=CC=C(C=C2)C3=CC=C(C=C3)Br)O)C4=C(C5=CC=CC=C5OC4=O)O
+formula: C30H23BrO4
+chem_properties: Molecular Weight: 527.4 g/mol
+XLogP3: 6.1
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 6
+Exact Mass: 526.07797 Da
+Monoisotopic Mass: 526.07797 Da
+Topological Polar Surface Area: 66.8
+Heavy Atom Count: 35
+Formal Charge: 0
+Complexity: 743
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 2
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,11 @@
+Description:
+A carbon-free energy carrier for molecular hydrogen with high volumetric energy density.
+
+Text:
+The increasing demand for energy carriers from sustainable sources drives the search for fossil fuelfree alterna
+tives. Ammonia is a carbonfree energy carrier for molecular hydrogen and has significant practical benefits such 
+as liquefaction under mild conditions and high volumetric energy density.1 NH3 has also been proposed as a medium 
+for energy storage to directly power fuel cells.2,3 
+Realizing NH3 as a carbonfree alternative fuel requires the development of efficient catalytic conversion strategies 
+between ammonia and molecular hydrogen in both directions. With a potential of 0.092 V (vs. NHE, pH0) for 
+ammonia oxidation (AO) in water, it is relatively mild in comparison to water oxidation. One of the main challenges is the optimization of the selectivity and reduction of the required overpotential.

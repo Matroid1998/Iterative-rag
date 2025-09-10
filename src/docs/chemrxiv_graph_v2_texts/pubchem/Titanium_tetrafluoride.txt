@@ -1,0 +1,23 @@
+Name: Titanium tetrafluoride
+Text:
+Properties:safety: Corrosive and Irritant
+smiles: F[Ti](F)(F)F
+formula: F4Ti
+chem_properties: Molecular Weight: 123.861 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 123.9415533 Da
+Monoisotopic Mass: 123.9415533 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 19.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

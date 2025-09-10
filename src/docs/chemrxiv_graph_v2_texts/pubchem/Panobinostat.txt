@@ -1,0 +1,33 @@
+Name: Panobinostat
+Text:
+Panobinostat is a hydroxamic acid obtained by formal condensation of the carboxy group of (2E)-3-[4-({[2-(2-methylindol-3-yl)ethyl]amino}methyl)phenyl]prop-2-enoic acid with the amino group of hydroxylamine. A histone deacetylase inhibitor used (as its lactate salt) in combination with bortezomib and dexamethasone for the treatment of multiple myeloma. It has a role as an EC 3.5.1.98 (histone deacetylase) inhibitor, an antineoplastic agent and an angiogenesis modulating agent. It is a hydroxamic acid, a member of cinnamamides, a secondary amino compound and a methylindole. It is a conjugate base of a panobinostat(1+).
+Panobinostat is a drug that was previously approved by the U.S. Food and Drug Administration (FDA) under the brand name Farydak for the treatment of a certain type of cancer.&nbsp;Panobinostat&nbsp;is currently being studied as an investigational drug as part of a strategy to cure HIV infection. As an investigational HIV therapy, panobinostat belongs to a group of drugs called latency-reversing agents.
+Panobinostat is an oral deacetylace (DAC) inhibitor approved on February 23, 2015 by the FDA for the treatment of multiple myeloma. The approval was accelerated based on progression-free survival, therefore confirmatory trials by the sponsor to demonstrate clinical efficacy in multiple myeloma treatment are in progress of being conducted. Panobinostat is marketed by Novartis under the brand name Farydak. Panobinostat acts as a non-selective histone deacetylase inhibitor (pan-HDAC inhibitor) and it is the most potent DAC inhibiting agent available on the market.
+Histone deacetylase (hdac) inhibitor is a Histone Deacetylase Inhibitor. The mechanism of action of histone deacetylase (hdac) inhibitor is as a Histone Deacetylase Inhibitor, and Cytochrome P450 2D6 Inhibitor.
+Panobinostat is an oral histone deacetylase inhibitor and antineoplastic agent that is approved for use in combination with other agents in refractory or relapsed multiple myeloma. Panobinostat is associated with modest rate of minor serum enzyme elevations during therapy, but has not been linked to cases of clinically apparent liver injury.
+Panobinostat is a cinnamic hydroxamic acid analogue with potential antineoplastic activity. Panobinostat selectively inhibits histone deacetylase (HDAC), inducing hyperacetylation of core histone proteins, which may result in modulation of cell cycle protein expression, cell cycle arrest in the G2/M phase and apoptosis. In addition, this agent appears to modulate the expression of angiogenesis-related genes, such as hypoxia-inducible factor-1alpha (HIF-1a) and vascular endothelial growth factor (VEGF), thus impairing endothelial cell chemotaxis and invasion. HDAC is an enzyme that deacetylates chromatin histone proteins.
+PANOBINOSTAT is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2015 and has 3 approved and 49 investigational indications. This drug has a black box warning from the FDA.
+An indole and hydroxamic acid derivative that acts as a HISTONE DEACETYLASE inhibitor. It is used as an antineoplastic agent in combination with BORTEZOMIB and DEXAMETHASONE for the treatment of MULTIPLE MYELOMA.
+See also: Panobinostat Lactate (active moiety of).
+Properties:safety: Corrosive and Acute Toxic and Irritant and Health Hazard
+smiles: CC1=C(C2=CC=CC=C2N1)CCNCC3=CC=C(C=C3)/C=C/C(=O)NO
+formula: C21H23N3O2
+chem_properties: Molecular Weight: 349.4 g/mol
+XLogP3: 3
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 7
+Exact Mass: 349.17902698 Da
+Monoisotopic Mass: 349.17902698 Da
+Topological Polar Surface Area: 77.2
+Heavy Atom Count: 26
+Formal Charge: 0
+Complexity: 474
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

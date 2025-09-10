@@ -1,0 +1,46 @@
+Description:
+An intermediate of fine chemicals used in the preparation of poly (phenyleneimine).
+
+Text:
+Therefore, its highly desired to find a 
+suitable strategy that can increase the dipole moments and, hence, strengthen the IEF 
+over the long range throughout whole bulk, in order to improve the efficiency of the CST 
+process and the related photocatalytic performance in polymeric photocatalysts.10 
+Inspired by the lattice distortion strategy, which was shown to be highly effective in 
+enhancing IEF in the bulk TiO2 and BiPO4 system,11 the present study applied a similar 
+lattice symmetrybreaking strategy on the typical crystalline conjugated polymers, poly
+(phenyleneimine) (PPI). These faciletoprepare PPIs from the intermediates of fine 
+chemicals (phenylenediamine and phthalaldehyde) possess identical functional groups, 
+weak DA moieties, and quite different lattice symmetries.
+
+
+---
+
+Description:
+Selected as a monomer to build PPIs.
+
+Text:
+The PPIs were synthesized via acetic acid catalyzed Schiff base reaction in the mixed 
+solvents (see Supporting Information). pmphenylenediamine (PDAMDA) and pm
+phthalaldehyde (PAHMAH) were selected as the monomers to build the PPIs, and three 
+copolymers were referred to as PDAPAH, PDAMAH, and MDAMAH, respectively (Figure 
+S1). As shown in the Fourier transform infrared (FTIR) spectra (Figure S2), the identical 
+bands of the three PPIs samples at 1640 cm1 clearly demonstrated that the imine (CN) 
+bonds had formed by the Schiffbase condensation. The formation of CN bonds was 
+further confirmed by Xray photoelectron spectroscopy (XPS) as N1s peaked at around 
+398.8 eV in all the spectra (Figure S3 and S4).
+
+
+---
+
+Description:
+Contains benzene rings with C atoms resonating during 100-160 ppm in 13C NMR spectra.
+
+Text:
+The resonances during 100160 ppm in 13C 
+crosspolarization (CP) magicangle spinning (MAS) NMR spectra corresponded to the C 
+atoms on the benzene rings from the phthalaldehyde and phenylenediamine moieties 
+(Figure S5), confirming the substitution relationships on the benzene ring of the respective 
+three PPIs. Noting that the resonances at around 150 ppm were attributed to the C atoms 
+in the imine groups. To distinguish the bulk phase structures, three PPIs were characterized by powder Xray 
+diffraction (PXRD). Both PDAPAH and PDAMAH were highly crystalline while MDAMAH

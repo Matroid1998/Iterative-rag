@@ -1,0 +1,29 @@
+Name: Rimegepant
+Text:
+Rimegepant is an oral antagonist of the CGRP receptor developed by Biohaven Pharmaceuticals. It received FDA approval on February 27, 2020 for the acute treatment migraine headache, and was subsequently approved by the European Commission in April 2022 for both the treatment and prevention of migraines. While several parenteral antagonists of CGRP and its receptor have been approved for migraine therapy (e.g. [erenumab], [fremanezumab], [galcanezumab]), rimegepant and [ubrogepant] were the only CGRP antagonists that possessed oral bioavailability until the approval of [atogepant] in 2021.  The current standard of migraine therapy involves abortive treatment with "triptans", such as [sumatriptan], but these medications are contraindicated in patients with pre-existing cerebrovascular and cardiovascular disease due to their vasoconstrictive properties. Antagonism of the CGRP pathway has become an attractive target for migraine therapy as, unlike the triptans, oral CGRP antagonists have no observed vasoconstrictive properties and are therefore safer for use in patients with contraindications to standard therapy.
+Rimegepant is a Calcitonin Gene-related Peptide Receptor Antagonist. The mechanism of action of rimegepant is as a Calcitonin Gene-related Peptide Receptor Antagonist.
+Rimegepant is an orally available, small molecule inhibitor of the calcitonin gene-related peptide (CGRP) receptor that blocks the action of CGRP, a potent vasodilator believed to play a role in migraine headaches. Rimegepant is approved for both treatment and prevention of acute migraine attacks. In clinical trials, rimegepant was generally well tolerated with only rare instances of transient serum aminotransferase elevations during therapy and with no reported instances of clinically apparent liver injury.
+RIMEGEPANT is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2020 and is indicated for migraine disorder and has 6 investigational indications.
+See also: Rimegepant Sulfate (active moiety of).
+Properties:safety: Health Hazard
+smiles: C1C[C@H](C2=C(C=CC=N2)[C@H]([C@@H]1C3=C(C(=CC=C3)F)F)N)OC(=O)N4CCC(CC4)N5C6=C(NC5=O)N=CC=C6
+formula: C28H28F2N6O3
+chem_properties: Molecular Weight: 534.6 g/mol
+XLogP3: 2.3
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 4
+Exact Mass: 534.21909510 Da
+Monoisotopic Mass: 534.21909510 Da
+Topological Polar Surface Area: 114
+Heavy Atom Count: 39
+Formal Charge: 0
+Complexity: 891
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 3
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

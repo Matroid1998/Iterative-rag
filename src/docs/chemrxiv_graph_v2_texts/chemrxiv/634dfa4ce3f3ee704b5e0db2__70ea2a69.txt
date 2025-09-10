@@ -1,0 +1,44 @@
+Description:
+An important prebiotic reactant in the production of RNA and protein precursors.
+
+Text:
+8
+While molecular reaction modeling has assisted in generating plausible transition states for some
+9
+of the involved conversions, predictive explorations of prebiotic reactions are still in their infancy
+10
+due to a combination of the computational cost and limited accuracy of contemporary reaction
+11
+network exploration algorithms. 12
+Over the past few decades, molecular modeling has provided details on plausible intermediates
+13
+and transition states associated with producing a variety of RNA and protein precursors (Fig. 14
+1a). The history of computational modeling leading to focusing on HCN as an important prebiotic
+15
+reactant is illustrative of the slow process of ad hoc reaction pathway proposals and characteriza
+16
+tions. In 2007, Debjani et al.
+
+
+---
+
+Description:
+Used in reaction pathways to synthesize a formamide trimer.
+
+Text:
+reported a pathway for synthesizing an HCN pentamer, adenine,
+17
+from the HCN tetramer, AICN.16 This observation triggered a search for even simpler reactants. 18
+Among the important milestones along the way, Sponer et al. derived the reaction pathway for
+19
+adenine formation from a simple formamide dimer, N(Aminohydroxymethyl) formamide,17 and
+20
+later Wang et al. used formamide as an even simpler starting point using watercatalyzed and
+21
+autocatalyzed reaction mechanisms (orange box in Fig. 1a).18,19 Finally in 2016, Kua et al re
+22
+ported reaction pathways starting from HCN, NH3 and H2O to synthesize a formamide trimer,
+23
+1,3,5triazinane2,4,6triol (blue box in Fig. 1a).20 This abbreviated history, spanning 10years
+24
+2

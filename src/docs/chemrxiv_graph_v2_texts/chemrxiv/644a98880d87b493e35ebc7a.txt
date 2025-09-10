@@ -1,0 +1,13 @@
+Description:
+Used to create micropatterns on surfaces of polymers and rigid dielectrics through laser activation and chemical reduction.
+
+Text:
+Methods of maskless direct laser writing are considered as a promising 
+alternative to the traditional lithography and other existing technologies for production of the 
+microelectronic components, sensors and other devices 24. Laserassisted methods can be 
+divided into two groups. The first group includes technologies, in which laser radiation is used as 
+a preliminary activation or sensitization of the surface. For example, selective surface activation 
+induced by laser (SSAIL) is among these methods, in which it is possible to create copper 
+micropatterns on almost any surface of polymers and rigid dielectrics using laser activation by ps 
+pulses and subsequent chemical reduction process 57. Another example from the first group 
+is laser activation with simultaneous chemical sensibilization of the surface using organic

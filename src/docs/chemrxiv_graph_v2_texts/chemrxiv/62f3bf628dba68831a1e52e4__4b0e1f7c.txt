@@ -1,0 +1,27 @@
+Description:
+A noble metal used as an additive to enhance the performance of catalysts.
+
+Text:
+of donoracceptor interactions,24 by increased conjugation between building blocks,5 and by 
+exfoliation of bulk catalysts to more accessible nanosheets with rates of hydrogen evolved 
+exceeding 300 mmol h1 g1.6,7 Ideally, a sustainable catalyst should function without the addition 
+of noblemetal cocatalysts, but the majority of current materials performs significantly worse 
+without platinum additives. Previously, we have shown that organic photocatalysts retain a high 
+hydrogen evolution activity in the absence of platinum only when strong intramolecular donor
+acceptor interactions ensure an efficient separation of photoexcited electronhole pairs.2 In these 
+examples, we achieved strong DA interactions by direct coupling of thiophenebased donors and 
+triazinebased acceptors.
+
+
+---
+
+Description:
+Used as a co-catalyst in polymer photocatalysts.
+
+Text:
+In addition, we found that highly conjugated, ordered polymer 
+photocatalysts benefit less from coadded platinum than glassy, disordered polymers systems.5 
+Considering the rapid development of the field, the variety of electronaccepting building blocks 
+commonly employed is surprisingly small. The electrondeficient triazine (C3N3) ring is widely 
+used as an acceptor in organic photocatalysts, light emitters, and sensors, due to its ubiquitous 
+derivatives that can be obtained easily e.g. by the acidcatalyzed trimerization of aromatic

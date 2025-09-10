@@ -1,0 +1,108 @@
+Description:
+Acts as a hydrogen carrier and is used in the electrochemical ammonia oxidation reaction for applications like low-temperature fuel cells and high-purity hydrogen production.
+
+Text:
+To meet the energy demands of our modern society, which
+seeks sustainable alternatives to fossil fuels, the transition to
+sustainable energy sources is inevitable. Hydrogen energy is
+promising as its only byproduct is water, however, because
+of extreme difficulties with safe and cost effective storage
+and transportation, focus is shifting towards hydrogen car
+riers such as ammonia. 1,2 The electrochemical ammonia
+oxidation reaction (AOR) is gaining attention due to its po
+tential in various applications such as lowtemperature fuel
+cells, highpurity hydrogen production, and the treatment
+of ammoniacontaining wastewater. 36 These processes are
+sustainable as they convert ammonia into energy or value
+added products, without forming noxious byproducts such
+as NOx gases.
+
+
+---
+
+Description:
+A hydrogen carrier advantageous for its ease of liquefaction at room temperature and superior energy density.
+
+Text:
+1,79 As a hydrogen carrier, ammonia is ad
+vantageous over liquid hydrogen because of its ease of liq
+uefaction at room temperature, superior volumetric and en
+ergy density, and established global transportation and stor
+age infrastructure. 1,10 Ammonia is also a preferred hydro
+gen carrier to water as it requires only approximately 16
+of the energy to produce 1 mol of hydrogen (66 kJ versus
+360 kJ for ammonia and water, respectively). 1
+Apart form energy generation, AOR is applicable in treat
+ing ammonia containing wastewater.
+
+
+---
+
+Description:
+A nitrogen-rich compound contributing to eutrophication in wastewater.
+
+Text:
+Nitrogenrich fertiliz
+B. J. R. Laframboise, S. J. Johnston, Prof. L. D. Chen
+Electrochemical Technology Centre, Department of Chemistry,
+University of Guelph, Guelph, Ontario, Canada
+Email leanne.chenuoguelph.ca
+ers (typically as ammonia and urea) are becoming increas
+ingly popular, seeing a 40 global increase in use from 2000
+to 2020. 11,12 Their use has led to excessive ammonia being
+present in domestic and industrial wastewater, contribut
+ing to eutrophication, which produces algal blooms that are
+toxic to aquatic life. 4,12,13 Methods to remediate ammonia
+rich wastewater include bacterial degradation, breakpoint
+chlorination, and air stripping, with bacterial degradation
+being the most commonly employed technique.
+
+
+---
+
+Description:
+Used as a hydrogen carrier in aqueous alkaline electrolytes.
+
+Text:
+1 AOR for
+treating ammonia in wastewater poses many benefits over
+current methods because it requires less energy, does not
+produce NOx gases, and is more costeffective than typical
+bacterial degradation. 1,14,15
+The utility of ammonia as a hydrogen carrier in an aque
+ous alkaline electrolyte stems from the conversion of ammo
+nia molecules into dinitrogen, water, and electrons at the
+anode Eq. 1, and the reduction of water to form hydroxide
+ions and hydrogen at the cathode Eq. 2. 1,16
+Anode 2NH3(g)6OH(aq) N2(g)6H2O(l)6e(1)
+Cathode 6H2O(l)  6e6OH(aq)  3H2(g)
+(2)
+Overall 2NH3(g) N2(g)  3H2(g)
+(3)
+This is the inverse of the well known electrochemical nitro
+gen reduction reaction (NRR), a sustainable alternative for
+ammonia synthesis without the high pressure and temper
+ature demands of the HaberBosch process.
+
+
+---
+
+Description:
+Used as a fuel for solid oxide fuel cells, where it is oxidized into hydrogen and dinitrogen.
+
+Text:
+6,17 AOR has
+several practical usecases such as ammonia as a fuel for
+solid oxide fuel cells, where ammonia is oxidized into hy
+drogen and dinitrogen, then hydrogen oxidized to water. 18
+Another implementation, which we will focus on, is het
+erogeneously electrocatalyzed AOR at ambient conditions
+using an alkaline aqueous electrolyte. 5,6 While promising
+for various applications, industrial implementation of AOR
+is limited by the current electrocatalysts facing a range of
+drawbacks including sluggish kinetics, high overpotentials,
+catalyst poisoning, and high costs. 1,19
+An experimental study by De Vooys et al. investigated
+AOR on transition metal surfaces, showing steadystate ac
+tivity towards selective N2(g) formation on Pt and Ir, while
+other metals showed transient N2(g) formation at best.

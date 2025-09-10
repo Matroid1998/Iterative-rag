@@ -1,0 +1,13 @@
+Description:
+Utilized in Cu(0)-mediated controlled radical polymerizations to minimize star-star coupling.
+
+Text:
+The CRP methods mainly include 
+nitroxide mediated polymerization (NMP), atom transfer radical polymerization (ATRP), or reversible 
+addition fragmentation polymerization (RAFT).8, 9 In 2019 Hawker et al. reported on minimizing starstar 
+coupling in Cu(0)mediated controlled radical polymerizations. They synthesized different starshaped 
+homo and block copolymers using a variety of acrylates resulting in conversions up to 95 and dispersities 
+() below 1.2 and investigated critical factors like the influence of arm length, the number of arms, or the 
+monomer side chain used.10 Later in 2020 Lin et al. reported starshaped double hydrophilic copolymers 
+containing pHresponsive blocks describing the synthesis and the dual pHresponsive behavior of star
+shaped poly(4vinyl pyridine)blockpoly(acrylic acid) (P4VPbPAA) diblock copolymers.

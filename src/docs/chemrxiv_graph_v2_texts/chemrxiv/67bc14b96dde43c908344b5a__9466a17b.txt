@@ -1,0 +1,13 @@
+Description:
+Recognized as the smallest bicyclic structures with high strain energy, used in cycloaddition reactions to create novel bridged bicyclic or polycyclic 3D scaffolds.
+
+Text:
+Bicyclo1.1.0butanes (BCBs), recognized as the smallest bicyclic structures, have considerable 
+synthetic value due to their high strain energy (64 kcalmol).1420 In recent years, they have found 
+extensive use in cycloaddition reactions, leading to a diverse array of novel bridged bicyclic2134 or 
+polycyclic 3D scaffolds.3547 These scaffolds serve as bioisosteric replacements for flat aromatic 
+rings. The rigidity of these frameworks allows for precise orientation of their peripheral 
+substituents, enabling the imitation of disubstitution or polysubstitution patterns found in 
+monocyclic aromatic structures such as benzene or pyridine derivatives. However, innovation in 
+new scaffolds to mimic other polycyclic aromatics using BCB chemistry has received far less 
+attention. Bicyclo3.1.1heptane (BCHep), in particular, has recently gained significant interest for its

@@ -1,0 +1,31 @@
+Name: Nitrous Acid
+Text:
+Nitrous acid is a nitrogen oxoacid. It is a conjugate acid of a nitrite.
+Nitrous acid (as sodium nitrite) is used as part of an intravenous mixture with sodium thiosulfate to treat cyanide poisoning. It is on the World Health Organization's List of Essential Medicines, a list of the most important medications needed in a basic health system. There is also research to investigate its applicability towards treatments for heart attacks, brain aneurysms, pulmonary hypertension in infants, and Pseudomonas aeruginosa infections.
+Nitrous acid has been reported in Homo sapiens, Leonurus sibiricus, and Apis cerana with data available.
+NITROUS ACID is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2011 and is indicated for poisoning and has 17 investigational indications. This drug has a black box warning from the FDA.
+Nitrous acid is a weak and monobasic acid known only in solution and in the form of nitrite salts. It is prepared by adding any mineral acid to sodium nitrite and is used in chemical synthesis. Nitrite is a toxic compound known to cause methemoglobinemia. (L1137, L1615)
+Nitrous acid (HNO2). A weak acid that exists only in solution. It can form water-soluble nitrites and stable esters. (From Merck Index, 11th ed)
+See also: Nitrogen Dioxide (annotation moved to); Nitrite Ion (annotation moved to).
+Properties:safety: Corrosive and Acute Toxic and Environmental Hazard
+smiles: N(=O)O
+formula: HNO2
+chem_properties: Molecular Weight: 47.014 g/mol
+XLogP3: -0.3
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 47.000728275 Da
+Monoisotopic Mass: 47.000728275 Da
+Topological Polar Surface Area: 49.7
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 10.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

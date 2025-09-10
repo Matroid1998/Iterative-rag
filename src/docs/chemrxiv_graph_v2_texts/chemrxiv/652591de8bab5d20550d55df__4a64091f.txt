@@ -1,0 +1,9 @@
+Description:
+An isotope mainly studied using Mössbauer spectroscopy (MS).
+
+Text:
+It can be applied at brilliant synchrotrons such as Petra III, ESRF, 
+Spring8 or APS.2634 In contrast to MS, which is mainly used to study Fe57 and Sn119 isotopes, NFS 
+can also be applied to a wide range of elements of interest for electrocatalysis or battery research, e.g. Ni6130, Ru9928 and Ir19335. Since NFS is not yet widely used in the electrochemistry community, we 
+first present the similarities and differences compared to MS as a baseline for the discussion of the 
+specific results on the HER catalyst. httpsdoi.org10.26434chemrxiv2023sk5sr ORCID httpsorcid.org0000000208841459 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

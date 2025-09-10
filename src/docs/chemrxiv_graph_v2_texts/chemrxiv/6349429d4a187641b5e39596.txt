@@ -1,0 +1,12 @@
+Description:
+Compound class whose intrinsic properties can be affected by charge carrying species.
+
+Text:
+Here, structural information is provided in the 
+form of collisional cross sections (CCS), which correspond to the size and shape of a given ion 
+and can be compared to values computed from candidate geometries. For MS and IMMS experiments, neutral sample molecules require added chargecarrying 
+species, AA, in order to be studied. The occurrence of different adduct ions M  A and 
+M  A can be tuned by using AA containing solutions andor by changing ion source 
+conditions.1 These charge carrying species can also affect intrinsic properties of the sample 
+molecules, as previously reported for a range of compound classes such as carbohydrates,2 
+steroids,3 fullerenes,4 and macrocycles.4,5 For example, Kellner et al.

@@ -1,0 +1,13 @@
+Description:
+A component of the tripeptide glutathione.
+
+Text:
+Biological thiols, such as glutathione (GSH), cysteine (Cys), and homocysteine (Hcy), are essential 
+for preserving the proper redox state of biological processes. GSH, a tripeptide of glutamate, 
+cysteine, and glycine, is the main nonprotein thiol in living cells. For healthy individuals, cellular 
+concentrations of GSH range from 0.5 to 10 mM, and its concentrations in physiological fluids are 
+approximately 2 to 12 M1. GSH has several important cellular functions related to metabolism, 
+antioxidant defense, regulation of intracellular redox status, protein glutathionylation, as well as 
+mitochondrial function and integrity2. Abnormal concentration levels of GSH are associated to 
+various diseases including oxidative stress resulting in cancer3, neurotoxicity4, heart problems5, 
+Alzheimers6, aging related deseases7.

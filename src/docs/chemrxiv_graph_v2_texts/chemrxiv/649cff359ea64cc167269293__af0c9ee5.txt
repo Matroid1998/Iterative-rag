@@ -1,0 +1,19 @@
+Description:
+A natural steroidal hormone with nanomolar affinities for ERa and potent agonist activity.
+
+Text:
+These nonsteroidal estrogens were able to 
+mimic the natural steroidal hormone 17bestradiol (E2) with nanomolar affinities for ERa and 
+potent agonist activity in reporter gene assays.1 Surprisingly, the Xray cocrystal structure of 
+thieno2,3dpyrimidine (1) bound to ERa showed only a single hydrogen bond between the 
+phenolic oxygen and E353 of the receptor (see Figure 2A).1 In contrast the phenolic oxygen of 
+E2 forms an intricate network of hydrogen bonds with E353, R394, and a water molecule in the 
+ERa ligand pocket that is essential for molecular recognition of steroidal estrogens.2 Initial 
+analysis of the binding site suggested that the isomeric metaphenol (2) would be an improved 
+estrogen mimetic, however it was shown to be much weaker for both receptor binding and 
+agonist activity.1 The result was especially surprising since the 2isomer of the steroidal 
+estrogen (Figure 1) that places a phenol in the same position in the ligand binding pocket as 
+paraphenol (1) has been shown to have a 5fold weaker affinity for ERa.3 To resolve this 
+puzzle and to further our understanding of how thieno2,3dpyrimidines function as nonsteroidal 
+estrogens we performed a series of structurefunction, physiochemical, and computational 
+studies to probe the interaction of the phenol pharmacophore with the receptor.

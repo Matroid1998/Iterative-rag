@@ -1,0 +1,15 @@
+Description:
+Two protons in the nuclear singlet spin state.
+
+Text:
+At the first glance, this question seems to make 
+no sense, as we always introduce pH2, i.e., two protons in the 
+nuclear singlet spin state, into the chemical reaction. However, 
+this obvious answer holds only in the gas phase, where 
+conversion between pH2 and triplet H2 (orthohydrogen, oH2) is 
+a very slow process. For the actual PHIP and SABRE processes 
+the answer is not so obvious because pH2 binds to a PHIP 
+substrate or SABRE catalyst in such a way that the two protons 
+occupy nonequivalent positions. In this situation, their 
+magnetic or chemical equivalence is broken and singlettriplet 
+conversion in H2 becomes operative.

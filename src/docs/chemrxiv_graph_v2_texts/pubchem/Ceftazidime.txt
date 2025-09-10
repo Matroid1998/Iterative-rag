@@ -1,0 +1,32 @@
+Name: Ceftazidime
+Text:
+Ceftazidime is a third-generation cephalosporin antibiotic bearing pyridinium-1-ylmethyl and {[(2Z)-2-(2-amino-1,3-thiazol-4-yl)-2-{[(2-carboxypropan-2-yl)oxy]imino}acetamido groups at positions 3 and 7, respectively, of the cephem skeleton. It has a role as an antibacterial drug, an EC 2.4.1.129 (peptidoglycan glycosyltransferase) inhibitor and a drug allergen. It is a cephalosporin and an oxime O-ether. It is a conjugate acid of a ceftazidime(1-).
+Bacteria possess a cell wall comprising a glycopeptide polymer commonly known as peptidoglycan, which is synthesized and remodelled through the action of a family of enzymes known as "penicillin-binding proteins" (PBPs). β-lactam antibiotics, including cephalosporins, are PBP inhibitors that, through inhibition of essential PBPs, result in impaired cell wall homeostasis, loss of cell integrity, and ultimately bacterial cell death. Ceftazidime is a third-generation cephalosporin with broad-spectrum antibacterial activity, including against some treatment-resistant bacteria such as Pseudomonas aeruginosa.  Ceftazidime was approved by the FDA on July 19, 1985, and is currently available either alone or in combination with the non-β-lactam β-lactamase inhibitor [avibactam] to treat a variety of bacterial infections.
+Ceftazidime has been reported in Apis cerana with data available.
+Ceftazidime is a beta-lactam, third-generation cephalosporin antibiotic with bactericidal activity. Ceftazidime binds to and inactivates penicillin-binding proteins (PBP) located on the inner membrane of the bacterial cell wall. PBPs participate in the terminal stages of assembling the bacterial cell wall, and in reshaping the cell wall during cell division. Inactivation of PBPs interferes with the cross-linkage of peptidoglycan chains necessary for bacterial cell wall strength and rigidity. This results in the weakening of the bacterial cell wall and causes cell lysis. Compared to the second and first generation cephalosporins, ceftazidime is more active against gram-negative bacteria and less active against gram-positive bacteria. Ceftazidine also crosses the blood-brain barrier and reaches therapeutic concentrations in the central nervous system (CNS).
+Ceftazidime Anhydrous is an anhydrous form of ceftazidime, a third-generation, beta-lactam, cephalosporin antibiotic with bactericidal activity.
+CEFTAZIDIME is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1985 and has 7 approved and 7 investigational indications. This drug has a black box warning from the FDA.
+Semisynthetic, broad-spectrum antibacterial derived from CEPHALORIDINE and used especially for Pseudomonas and other gram-negative infections in debilitated patients.
+See also: Avibactam sodium; ceftazidime (component of).
+Properties:safety: Acute Toxic and Irritant and Health Hazard
+smiles: CC(C)(C(=O)O)O/N=C(/C1=CSC(=N1)N)\C(=O)N[C@H]2[C@@H]3N(C2=O)C(=C(CS3)C[N+]4=CC=CC=C4)C(=O)[O-]
+formula: C22H22N6O7S2
+chem_properties: Molecular Weight: 546.6 g/mol
+XLogP3: 0.4
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 12
+Rotatable Bond Count: 8
+Exact Mass: 546.09913941 Da
+Monoisotopic Mass: 546.09913941 Da
+Topological Polar Surface Area: 245
+Heavy Atom Count: 37
+Formal Charge: 0
+Complexity: 1020
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

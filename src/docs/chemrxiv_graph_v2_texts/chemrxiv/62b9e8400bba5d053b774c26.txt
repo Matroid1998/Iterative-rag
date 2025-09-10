@@ -1,0 +1,11 @@
+Description:
+Solid electrolytes that can work as a medium for ionic diffusion and as separators in SSBs.
+
+Text:
+There are several types of solid electrolytes (SE) that can work as a medium for ionic (lithium ion) 
+diffusion and as separators in SSBs. These types can be categorized into polymers, oxides, sulfides, 
+hydrides, halides, borates, and thin films.2 SSBs are not sufficiently mature and still under 
+development. Composite electrodes made of blends of active material (AM) and SE particles give the 
+promise of SSBs with high energy density. Still, there are many issues to overcome. One issue is the 
+limited contact surface area between AM and SE particles, which blocks the lithium ions from reaching 
+the AM through SE. Another one is the short ionic and electronic percolation pathways within the

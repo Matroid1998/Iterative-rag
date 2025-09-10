@@ -1,0 +1,30 @@
+Name: Colforsin
+Text:
+Forskolin is a labdane diterpenoid isolated from the Indian Coleus plant. It has a role as a plant metabolite, an anti-HIV agent, a protein kinase A agonist, an adenylate cyclase agonist, an antihypertensive agent and a platelet aggregation inhibitor. It is a labdane diterpenoid, an acetate ester, an organic heterotricyclic compound, a triol, a cyclic ketone and a tertiary alpha-hydroxy ketone.
+Potent activator of the adenylate cyclase system and the biosynthesis of cyclic AMP. From the plant Coleus forskohlii. Has antihypertensive, positive inotropic, platelet aggregation inhibitory, and smooth muscle relaxant activities; also lowers intraocular pressure and promotes release of hormones from the pituitary gland.
+Forskolin has been reported in Plectranthus, Apis cerana, and Plectranthus barbatus with data available.
+COLFORSIN is a small molecule drug with a maximum clinical trial phase of II.
+Potent activator of the adenylate cyclase system and the biosynthesis of cyclic AMP. From the plant Coleus forskohlii. Has antihypertensive, positive ionotropic, platelet aggregation inhibitory, and smooth muscle relaxant activities; also lowers intraocular pressure and promotes release of hormones from the pituitary gland. 
+Potent activator of the adenylate cyclase system and the biosynthesis of cyclic AMP. From the plant Coleus forskohlii. Has antihypertensive, positive inotropic, platelet aggregation inhibitory, and smooth muscle relaxant activities; also lowers intraocular pressure and promotes release of hormones from the pituitary gland.
+Properties:safety: Irritant
+smiles: CC(=O)O[C@H]1[C@H]([C@@H]2[C@]([C@H](CCC2(C)C)O)([C@@]3([C@@]1(O[C@@](CC3=O)(C)C=C)C)O)C)O
+formula: C22H34O7
+chem_properties: Molecular Weight: 410.5 g/mol
+XLogP3: 1
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 3
+Exact Mass: 410.23045342 Da
+Monoisotopic Mass: 410.23045342 Da
+Topological Polar Surface Area: 113
+Heavy Atom Count: 29
+Formal Charge: 0
+Complexity: 747
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 8
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

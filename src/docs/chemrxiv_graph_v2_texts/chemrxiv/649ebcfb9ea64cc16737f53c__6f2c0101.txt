@@ -1,0 +1,28 @@
+Description:
+A compound whose protonation and N-alkylation allow control of charge transfer, emission energy, and photoluminescence quantum yield.
+
+Text:
+Charge transfer in organic fluorophores is a fundamental photophysical process that can be either 
+beneficial, e.g., facilitating thermally activated delayed fluorescence,1, 2 or detrimental, e.g., mediating 
+emission quenching.3 It has been previously shown that both protonation4 and Nalkylation5, 6 of 
+quinoline containing compounds allows straightforward synthetic control of the charge transfer, 
+emission energy and photoluminescence quantum yield (PLQY) (Scheme 1a), with the effect of 
+alkylation mirroring those of protonation while being necessarily more permanent.5 Control of 
+photoluminescence and photophysical properties in organic molecules has significant appeal for a 
+range of applications from organic lightemitting diodes (OLEDs) to biological imaging and sensing.
+
+
+---
+
+Description:
+Compounds whose protonation and N-alkylation significantly affect charge transfer states.
+
+Text:
+Given the importance of the charge transfer (CT) process in influencing key photophysical parameters 
+developing structureactivity relationships (SARs) to describe CT formation will be of interest to a wide 
+range of stakeholders. In medicinal chemistry the development of SARs is standard practice, but a 
+similarly detailed understanding of the structural properties controlling charge transfer has yet to be 
+fully developed. Since protonation and Nalkylation have a significant and predictable effect on CT 
+states in quinolinecontaining compounds these provide a good starting point for exploring these vital 
+fundamental processes and developing effective SARs. One prominent set of quinoline containing compounds are the cinchona alkaloids, in particular the 
+historically important antimalarial quinine.

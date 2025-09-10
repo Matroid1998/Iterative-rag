@@ -1,0 +1,12 @@
+Description:
+Used as a cathode in lithium-sulfur batteries.
+
+Text:
+LithiumSulfur (LiS) batteries, with sulfur as cathode and Li metal as an anode, with a theoretical capacity 
+of 1667 mAhg, will satisfy the demand from the aviation industry and accelerate the commercialization of battery
+based aircraft 5. Besides its energy density, rate performance for batterybased aircraft also plays an important role 
+as good rate performance of LiS batteries will accelerate its wide adoption within batterybased aircraft. However, 
+the community recognizes that operating temperature plays an important role for LIBs and LiS batteries 6. Moreover, 
+Previous studies revealed significant heating effects of LIBs under higher charging rates and higher operating 
+temperatures would deteriorate the solid electrolyte interphase (SEI) interphase formed on the anode and shorten the 
+cycle life.

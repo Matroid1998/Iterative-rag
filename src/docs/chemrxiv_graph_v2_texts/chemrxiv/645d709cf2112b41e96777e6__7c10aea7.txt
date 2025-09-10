@@ -1,0 +1,35 @@
+Description:
+Indispensable in medicinal chemistry, with a significant presence in FDA-approved new molecular entities.
+
+Text:
+Sulfonamides are indispensable in medicinal chemistry. 25  of all FDAapproved new molecular entities from the 
+first half of 2022 contained a sulfonamide motif.1 Moreover, 
+sulfonamide analogs, especially the O to NR exchanged 
+sulfonimidamides (see Fig. 1) and sulfoximines, have gained 
+substantial momentum13 and first successful examples 
+show the potential of these modalities.47 Notably, the new 
+exit vector enabled by sulfonimidamides may open unprec
+edented opportunities for structurebased design of sulfon
+amide analogs, but structurally welldocumented examples 
+for this are still lacking. 1 www.accessdata.fda.govscriptscderdafindex.cfm?eventreports
+Search.processrptName2reportSelectMonth6re
+portSelectYear2022navnavigation 
+2 httpswww.rcsb.org  advanced search  Chemical 
+Similarity  Query Type Descriptor; Descriptor Type  
+
+Figure 1. Structural motif of a sulfonamide and its analogs.
+
+
+---
+
+Description:
+Compounds with a sulfonamide motif, often found in cocrystal structures.
+
+Text:
+In line with the prevalence of sulfonamides, over 1,000 
+cocrystal structures are available in the PDB harboring sul
+fonamidecontaining ligands.2 However, the contribution of 
+the sulfonamide motif to affinity is usually poorly defined 
+and little is known regarding the interaction energies re
+sulting from the sulfonamide oxygenprotein contacts. SMILES; Match Type Substructure (including Stereoiso
+mers)  Search CS(N)(O)O.

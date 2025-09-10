@@ -1,0 +1,28 @@
+Name: Myricetin
+Text:
+Myricetin is a hexahydroxyflavone that is flavone substituted by hydroxy groups at positions 3, 3', 4', 5, 5' and 7. It has been isolated from the leaves of Myrica rubra and other plants. It has a role as a cyclooxygenase 1 inhibitor, an antineoplastic agent, an antioxidant, a plant metabolite, a food component, a hypoglycemic agent and a geroprotector. It is a hexahydroxyflavone and a 7-hydroxyflavonol. It is a conjugate acid of a myricetin(1-).
+Myricetin has been reported in Caragana frutex, Camellia sinensis, and other organisms with data available.
+Myricetin is a metabolite found in or produced by Saccharomyces cerevisiae.
+See also: Quercetin (subclass of).
+Properties:safety: Irritant
+smiles: C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O
+formula: C15H10O8
+chem_properties: Molecular Weight: 318.23 g/mol
+XLogP3: 1.2
+Hydrogen Bond Donor Count: 6
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 1
+Exact Mass: 318.03756727 Da
+Monoisotopic Mass: 318.03756727 Da
+Topological Polar Surface Area: 148
+Heavy Atom Count: 23
+Formal Charge: 0
+Complexity: 506
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

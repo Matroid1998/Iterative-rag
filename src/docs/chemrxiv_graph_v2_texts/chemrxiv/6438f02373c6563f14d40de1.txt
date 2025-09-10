@@ -1,0 +1,11 @@
+Description:
+Forms thin sheets of 5 nm thickness through electrochemical growth into graphene layers.
+
+Text:
+Early trials with 
+electrochemical growth of Pd into graphene layers yielded promising results with thin Pd sheets 
+of 5 nm thickness.39 It is thus compelling to wonder which thickness can be achieved in 
+bottomup electrochemical synthesis of 2D nonvdW materials via space confinement. Here, we firstly report a controlled electrochemical method to obtain (sub) unit cell thick 2D 
+transition metal oxides, like Cr2O3, Fe2O3, by using the angstromconfinement of stacked 
+reduced graphene oxide (rGO) layers. The 2D holey polycrystalline network of Cr2O3 and 
+Fe2O3 is only 4.5  and 5.4  thick respectively.

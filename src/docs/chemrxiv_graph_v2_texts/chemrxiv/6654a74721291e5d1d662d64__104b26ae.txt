@@ -1,0 +1,42 @@
+Description:
+Contains the Tyr C6toTrp N1 linkage.
+
+Text:
+To date, among the natural products isolated, only 
+four are known to contain the Tyr C6toTrp N1 linkage 
+lapparbin (1), neopetromin (2), tryptorubins, and nocapeptin A.3, 4 
+Notably, the total synthesis of lapparbin (1), neopetromin (2), and 
+nocapeptin A has not yet been reported. The sole reported 
+instance for constructing the Tyr C6toTrp N1 linkage and the 
+total synthesis of tryptorubins was reported by Baran et al. in 2020, 
+utilizing intramolecular Ullmann coupling with CuI catalyst as the 
+key reaction.5 Additionally, although some biological activity 
+assays for lapparbin (1) have been conducted, its definitive 
+biological activity remains unidentified.3 
+ The synthetic plan for lapparbin (1) is depicted in Figure 1A.
+
+
+---
+
+Description:
+A compound synthesized with a highly strained atropTyr C6toTrp N1 linkage.
+
+Text:
+The most challenging aspect of the total synthesis of lapparbin (1) 
+is the construction of the highly strained atropTyr C6toTrp N1 
+linkage, composed of three amino acid residues, inclucing L
+tyrosine, Lproline, and Ltryptophan. Recently, we reported the 
+total synthesis of cihunamide B, which features a highly strained 
+atropTrpTrp linkage.6 In this synthesis, the application of an 
+SNAr 
+reaction 
+followed 
+by 
+atroposelective 
+Larock 
+macrocyclization enabled the construction of the highly strained 
+atropTrpTrp linkage. Hence, we hypothesized that this 
+atroposelective Larock macrocyclization could be applied to the 
+total synthesis of lapparbin (1).7 
+ Additionally, the efficient introduction of biaryl moieties is a 
+critical objective in this study.

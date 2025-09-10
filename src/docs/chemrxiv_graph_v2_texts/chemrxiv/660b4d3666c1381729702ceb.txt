@@ -1,0 +1,16 @@
+Description:
+Involved in hydrogen bonding capacities related to selectivity in RPLC stationary phases.
+
+Text:
+This model can be considered a datadriven model, in that the solute and 
+74 
+stationary phase parameters are derived from retention measurements, rather than externally 
+75 
+calculated or measured physicochemical parameters. The HSM1 provides descriptive parameters 
+76 
+for RPLC stationary phases that relate to their hydrophobicities, hydrogen bonding capacities, 
+77 
+capacities for involvement in ionic interactions, and the contributions of steric effects to their 
+78 
+overall selectivities. These characteristics are obtained from the following equation. 79 
+httpsdoi.org10.26434chemrxiv2024mt2fp ORCID httpsorcid.org0000000240709132 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

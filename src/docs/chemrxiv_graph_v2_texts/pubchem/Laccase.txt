@@ -1,0 +1,25 @@
+Name: Laccase
+Text:
+A copper-containing oxidoreductase enzyme that catalyzes the oxidation of 4-benzenediol to 4-benzosemiquinone. It also has activity towards a variety of O-quinols and P-quinols. It primarily found in FUNGI and is involved in LIGNIN degradation, pigment biosynthesis and detoxification of lignin-derived products.
+Properties:safety: Health Hazard
+smiles: CCN1C(=CC(=C1C)C=O)C
+formula: C9H13NO
+chem_properties: Molecular Weight: 151.21 g/mol
+XLogP3: 1.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 2
+Exact Mass: 151.099714038 Da
+Monoisotopic Mass: 151.099714038 Da
+Topological Polar Surface Area: 22
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 146
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

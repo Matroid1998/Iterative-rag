@@ -1,0 +1,28 @@
+Name: Bifenthrin
+Text:
+Bifenthrin is an off-white to pale tan waxy solid with a very faint slightly sweet odor. Used as a broad spectrum insecticide.
+Bifenthrin is a carboxylic ester obtained by formal condensation of cis-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylic acid and [(2-methyl-1,1'-biphenyl)-3-yl]methanol. It has a role as a pyrethroid ester insecticide and a pyrethroid ester acaricide. It is an organochlorine compound, an organofluorine compound and a cyclopropanecarboxylate ester. It is functionally related to a cis-chrysanthemic acid.
+Bifenthrin is under investigation in clinical trial NCT01560247 (Percutaneous Recanalization in Ischemic Stroke Management in Europe Observational Registry).
+See also:  ... View More ...
+Properties:safety: Acute Toxic and Health Hazard and Environmental Hazard
+smiles: CC1=C(C=CC=C1C2=CC=CC=C2)COC(=O)[C@@H]3[C@@H](C3(C)C)/C=C(/C(F)(F)F)\Cl
+formula: C23H22ClF3O2
+chem_properties: Molecular Weight: 422.9 g/mol
+XLogP3: 6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 6
+Exact Mass: 422.1260421 Da
+Monoisotopic Mass: 422.1260421 Da
+Topological Polar Surface Area: 26.3
+Heavy Atom Count: 29
+Formal Charge: 0
+Complexity: 622
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

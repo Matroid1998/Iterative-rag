@@ -1,0 +1,30 @@
+Name: Pyridoxal
+Text:
+Pyridoxal is a pyridinecarbaldehyde that is pyridine-4-carbaldehyde bearing methyl, hydroxy and hydroxymethyl substituents at positions 2, 3 and 5 respectively. The 4-carboxyaldehyde form of vitamin B6, it is converted into pyridoxal phosphate, a coenzyme for the synthesis of amino acids, neurotransmitters, sphingolipids and aminolevulinic acid. It has a role as a cofactor, a human metabolite, a Saccharomyces cerevisiae metabolite, an Escherichia coli metabolite and a mouse metabolite. It is a vitamin B6, a pyridinecarbaldehyde, a member of methylpyridines, a monohydroxypyridine and a hydroxymethylpyridine. It is a conjugate base of a pyridoxal(1+).
+Pyridoxal is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Pyridoxal has been reported in Daphnia pulex, Glycine max, and other organisms with data available.
+PYRIDOXAL is a small molecule drug with a maximum clinical trial phase of III.
+Pyridoxal is a metabolite found in or produced by Saccharomyces cerevisiae.
+The 4-carboxyaldehyde form of VITAMIN B 6 which is converted to PYRIDOXAL PHOSPHATE which is a coenzyme for synthesis of amino acids, neurotransmitters (serotonin, norepinephrine), sphingolipids, aminolevulinic acid.
+Properties:safety: Irritant
+smiles: CC1=NC=C(C(=C1O)C=O)CO
+formula: C8H9NO3
+chem_properties: Molecular Weight: 167.16 g/mol
+XLogP3: 0
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 2
+Exact Mass: 167.058243149 Da
+Monoisotopic Mass: 167.058243149 Da
+Topological Polar Surface Area: 70.4
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 162
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

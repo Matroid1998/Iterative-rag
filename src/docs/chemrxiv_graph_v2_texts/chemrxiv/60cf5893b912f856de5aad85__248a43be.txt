@@ -1,0 +1,18 @@
+Description:
+A halogen used in doping that undergoes an anomalous p-n-p transition in carrier type with increasing temperature.
+
+Text:
+We calculate a hole mobility of 6 cm2Vs, which is in agreement
+with the range of experimentallymeasured Hall mobilities (4 
+22 cm2Vs).1,28 While m
+DOS is higher for ptype BiCuSeO sug
+gesting higher thermopower, the combination of lower band ef
+fective mass (m
+b), corresponding to a higher carrier mobility, and
+higher band degeneracy (Nb) predicts a higher TE performance
+for ntype BiCuSeO. While previous experimental studies have attempted to synthe
+size ntype BiCuSeO,2932 none have been able to successfully
+demonstrate stable ntype conductivity. In particular, doping with
+halogens (Cl, Br, and I) is found to undergo an anomalous p
+np transition in the carrier type with increasing temperature,
+19  1

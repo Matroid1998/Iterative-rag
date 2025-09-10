@@ -1,0 +1,28 @@
+Description:
+The least soluble calcium phosphate in aqueous solution at near-neutral pH.
+
+Text:
+The equilibrium constant for a precipitation reaction is the solubility product (Ksp). In the expression of Ksp, 
+the activity of the pure solid is considered as 1. Amorphous calcium phosphate (ACP) and hydroxyapatite 
+(HAP) nanoparticles frequently appear in precipitation reactions. Is each of the two kinds of precipitates a 
+pure solid? HAP is the least soluble calcium phosphate in the aqueous solution at a nearneutral pH. Eqn (1) and (2) 
+show its formation and the relevant Ksp expression, respectively; where the formula Ca10(OH)2(PO4)6 
+represents the chemical composition of one crystallographic cell. The number of unit cells (u) must be 
+sufficiently large for the material to be solid. To indicate the multiple units of the crystalline particle, we 
+rewrite eqn (1) as eqn (3).
+
+
+---
+
+Description:
+The solubility of its crystals is affected by size.
+
+Text:
+Taking this into account, a HAP 
+nanoparticle is a mixture of the surface phase and the bulk phase, rather than a pure solid. The effect of size 
+on the solubility of calcium phosphate crystals has been analyzed.14 As Best noted in 1959 Under such 
+circumstances the solubility product will not be defined, a conclusion in agreement with the discrepant 
+results of the various attempts to measure such a quantity experimentally.9 
+10Ca2  2OH  6PO43  Ca10(OH)2(PO4)6 (1) 
+Ksp  Ca210OH2PO436 (2) 
+10Ca2  2OH  6PO43

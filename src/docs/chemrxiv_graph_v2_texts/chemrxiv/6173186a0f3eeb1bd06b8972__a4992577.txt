@@ -1,0 +1,12 @@
+Description:
+A polymer used to modify gold-coated QCM quartz surfaces for DNA hybridization studies.
+
+Text:
+These results confirm that the majority of the signal 
+comes from specific DNA hybridization, while some residual nonspecific adsorption of ONs 
+occurs. The changes in dissipation values (0.02x106 and 0.027x106) after introducing 10 M and 50 
+M CON solutions, respectively (Figure 1(B)), mirror the quartz crystal frequency changes. The changes in dissipation after exposing the film to the solution of CON reflect the formation 
+of a more rigid layer of dsDNA, upon hybridization of the CON to the surfacebound ON probe 
+4041. Figure 1. (A) The change in QCM frequency of poly(PyPhEGcoPyPhON) (101)modified gold
+coated QCM quartz surface upon introducing 10 M and 50 M CON target into the detection 
+chamber. (B) Dissipation shifts (the data were smoothed using the SavitzkyGolay method).

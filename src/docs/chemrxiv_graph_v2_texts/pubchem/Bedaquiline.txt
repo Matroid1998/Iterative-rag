@@ -1,0 +1,31 @@
+Name: Bedaquiline
+Text:
+Bedaquiline is a quinoline-based antimycobacterial drug used (as its fumarate salt) for the treatment of pulmonary multi-drug resistant tuberculosis by inhibition of ATP synthase, an enzyme essential for the replication of the mycobacteria. It has a role as an antitubercular agent and an ATP synthase inhibitor. It is a member of quinolines, a member of naphthalenes, an organobromine compound, an aromatic ether, a tertiary alcohol and a tertiary amino compound. It is a conjugate base of a bedaquiline(2+).
+Bedaquiline is a bactericidal antimycobacterial drug belonging to the class of diarylquinoline. The quinolinic central heterocyclic nucleus with alcohol and amine side chains is responsible for bedaquiline-mediated antimycobacterial activity. Although it is closely related to fluoroquinolones, bedaquiline does not affect DNA gyrase; instead, bedaquiline inhibits the c subunit of ATP synthase responsible for synthesizing ATP. Consequently, bedaquiline can be used to treat mycobacterial infection, particularly tuberculosis (TB). Although the current standard of TB treatment of anti-TB drugs for 2 months, including 2 key drugs [isoniazid] and [rifampin], is highly effective, the emergence of multidrug-resistant TB (MDR-TB) to [isoniazid] and [rifampin] has substantially worsened patients outcome.  Bedaquiline was approved by the FDA on December 28, 2012, to treat pulmonary MDR-TB, following favorable results in multiple pre-clinical and clinical studies. It is the first drug that was approved in the last 40 years by the FDA for TB unresponsive to current treatments on the market. Currently, bedaquiline is the last-line anti-TB drug and must only be used in an appropriate combination regimen.
+Bedaquiline is a Diarylquinoline Antimycobacterial.
+Bedaquiline is a diarylquinoline antimycobacterial drug used in combination with other antituberculosis medications in the treatment of multidrug resistant tuberculosis. The addition of bedaquiline to antituberculosis drug regimens has been linked to an increased rate of transient serum liver test abnormalities during treatment and to several instances of clinically apparent liver injury.
+Bedaquiline is an orally bioavailable diarylquinoline antimycobacterial agent, that can be used in the treatment of pulmonary multi-drug resistant tuberculosis (MDR-TB). Upon oral administration, bedaquiline specifically binds to subunit c of Mycobacterium tuberculosis (M. tuberculosis) adenosine 5'-triphosphate (ATP) synthase, thereby preventing ATP synthase activity. This inhibits ATP synthesis in M. tuberculosis, thereby blocking its energy metabolism and killing M. tuberculosis.
+BEDAQUILINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2012 and is indicated for tuberculosis and multidrug-resistant tuberculosis and has 6 investigational indications. This drug has a black box warning from the FDA.
+See also: Bedaquiline Fumarate (active moiety of).
+Properties:safety: Acute Toxic and Health Hazard and Environmental Hazard
+smiles: CN(C)CC[C@@](C1=CC=CC2=CC=CC=C21)([C@H](C3=CC=CC=C3)C4=C(N=C5C=CC(=CC5=C4)Br)OC)O
+formula: C32H31BrN2O2
+chem_properties: Molecular Weight: 555.5 g/mol
+XLogP3: 7.2
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 8
+Exact Mass: 554.15689 Da
+Monoisotopic Mass: 554.15689 Da
+Topological Polar Surface Area: 45.6
+Heavy Atom Count: 37
+Formal Charge: 0
+Complexity: 715
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

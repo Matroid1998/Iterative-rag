@@ -1,0 +1,21 @@
+Description:
+A mineral whose metastability zone width is affected by the saturation increase rate in diffusion-controlled systems.
+
+Text:
+112 
+The impact of the saturation increase rate on the width of the metastability zone for 
+113 
+gypsum, barite, and some carbonate phases (witherite, strontianite) where previously determined 
+114 
+for diffusioncontrolled systems at ambient temperatures (Prieto et al., 1994). These experiments 
+115 
+found a dependency between the rate of saturation increase and the oversaturation at which the 
+116 
+nucleation occurs. However, due to the slow rate of diffusion and subsequent long induction times 
+117 
+(weeks to months) compared to the duration of fluid transport and induction during energy 
+118 
+production (typically up to a couple of hours) these results are not directly applicable to energy 
+119 
+production scenarios. 120 
+httpsdoi.org10.26434chemrxiv2024bhlvj ORCID httpsorcid.org0000000311091844 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

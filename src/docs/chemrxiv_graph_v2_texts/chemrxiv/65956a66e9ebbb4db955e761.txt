@@ -1,0 +1,11 @@
+Description:
+Compounds that can achieve chemoselectivity in acylations.
+
+Text:
+Most dendrimers reported have simple structures with one type of branch cell and one type of surface group or a statistical distribution of 
+surface groups, while welldefined dendrimers with a welldefined heterogenous surface are mainly limited to peptide dendrimers made by 
+solid phase peptide synthesis (SPPS) 2326. There are two different strategies that can be applied for synthesizing dendrimers with a welldefined surface chemistry; symmetrybreak
+ing reactions on a preformed symmetrical dendrimer (which in essence is a protective groupfree synthesis) or synthesis by convergent 
+synthesis involving suitably protected building blocks. Symmetrybreaking reactions on preformed dendrimers such as aminoterminated 
+dendrimers reflects the fact, that it is possible to achieve chemoselectivity in acylations on polyamines (see for example reference 2729 
+and references therein).

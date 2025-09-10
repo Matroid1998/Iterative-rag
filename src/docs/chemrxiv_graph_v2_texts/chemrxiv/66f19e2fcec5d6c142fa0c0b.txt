@@ -1,0 +1,12 @@
+Description:
+Insoluble in most organic and aqueous solvents, typically combined with PSS to enhance processability.
+
+Text:
+These properties enable many applications in organic 
+electronics, such as sensors, supercapacitors, and solar cells.512 Poly(3,4ethylenedioxythiophene) (PEDOT) has 
+emerged as a promising candidate due to its superior electronic and ionic conductivities, desirable optical 
+properties, and resistance to humidity and oxidants.13 However, PEDOT is insoluble in most organic and aqueous 
+solvents, so it is typically combined with PSS, allowing PEDOT to be dispersed in aqueous solutions to enhance 
+its processability.14 Additionally, PSS serves as a dopant, and the presence of PSS has been shown to result in a 
+more crystalline PEDOT structure.15,16 
+Unfortunately, PSS also has its drawbacks.

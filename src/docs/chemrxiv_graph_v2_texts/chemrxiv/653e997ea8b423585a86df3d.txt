@@ -1,0 +1,13 @@
+Description:
+A component of carbon nanotubes, which are cylindrical 1D materials with exceptional optoelectronic properties.
+
+Text:
+Such a method would require minimal adaption of assays as the signal amplifier could be 
+added during the readout step. Carbon nanotubes are cylindrical 1D materials with 
+exceptional optoelectronic properties. Semiconducting singlewalled carbon nanotubes 
+(SWCNTs) do not photobleach and fluoresce in the nearinfrared region (NIR, 870
+2400 nm).20 In this spectral window, the absorption, scattering and autofluorescence of 
+biological samples is reduced.21,22 Depending on the application, different spectral ranges are 
+advantageous.23 Moreover, the fluorescence of SWCNTs is sensitive to the chemical 
+environment.24 As such, they present an interesting building block for fundamental studies2527 
+and have been used in a variety of optical24,2830 and electrochemical18,31 biosensing formats.

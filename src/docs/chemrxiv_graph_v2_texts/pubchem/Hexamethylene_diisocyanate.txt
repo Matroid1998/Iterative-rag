@@ -1,0 +1,29 @@
+Name: Hexamethylene diisocyanate
+Text:
+Hexamethylene diisocyanate is a pale yellow liquid with a strong odor. It is an industrial chemical that is not known to occur naturally. It is also commonly known as HDI, 1,6-hexamethylene diisocyanate, 1,6-diisocyanatohexane, Mondur HX, and Desmodur H. Hexamethylene diisocyanate is mainly used to make polyurethane foams and coatings. It is also used as a hardener in automobile and airplane paints.
+Hexamethylene diisocyanate appears as a colorless crystalline solid. Toxic by ingestion and is strongly irritating to skin and eyes. It is used to make nylon.
+Hexamethylene diisocyanate is a diisocyanate compound with the two isocyanates linked by a hexane-1,6-diyl group. It has a role as a hapten and an allergen.
+Hexamethylene diisocyanate is used as a polymerizing agent in polyurethane paints and coatings. Acute (short-term) exposure to high concentrations of hexamethylene diisocyanate in humans can cause pulmonary edema, coughing, and shortness of breath. Hexamethylene diisocyanate is also extremely irritating to the eyes, nose, and throat. Human studies have suggested that chronic (long-term) exposure to hexamethylene diisocyanate may cause chronic lung problems. Animal studies have reported respiratory effects from chronic inhalation exposure and skin irritation and sensitization from dermal exposure to hexamethylene diisocyanate. No information is available on the reproductive, developmental, or carcinogenic effects of hexamethylene diisocyanate in humans. EPA has not classified hexamethylene diisocyanate for carcinogenicity.
+Hexamethylene diisocyanate, also known as HDI, is a chemical compound of cyanide and an aliphatic diisocyanate. Aliphatic diisocyanates are used in special applications, such as enamel coatings which are resistant to abrasion and degradation from ultraviolet light. These properties are particularly desirable in, for instance, the exterior paint applied to aircraft. (L574)
+Properties:safety: Acute Toxic and Health Hazard
+smiles: C(CCCN=C=O)CCN=C=O
+formula: C8H12N2O2
+chem_properties: Molecular Weight: 168.19 g/mol
+XLogP3: 3.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 7
+Exact Mass: 168.089877630 Da
+Monoisotopic Mass: 168.089877630 Da
+Topological Polar Surface Area: 58.9
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 169
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

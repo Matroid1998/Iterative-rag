@@ -1,0 +1,12 @@
+Description:
+Undergoes intersystem crossing within 2.0 ps after ultrafast internal conversion.
+
+Text:
+The interest in intersystem crossings (ISC) or spin crossovers has been intensified by the advent of
+femtosecond timeresolved spectroscopic studies showing that ISC may occur at the picosecond
+timescale. In the case of xanthone,1 the 1n3ISC takes place within 2.0 ps right
+after an ultrafast 11ninternal conversion (IC). Wolf et al. 2 have also obtained a
+circumstantial experimental evidence of the population transfer to triplet states on the timescale
+of 3.50.3 ps in the photodynamics of thymine. ElSayeds rule forbids ISC between singlet
+and triplet (doublet and quartet, triplet and quintet, etc.) states with the same occupation scheme. For instance, the 13and 1n3nconversions are forbidden due to the lack of
+orientational changes of spatial orbitals.

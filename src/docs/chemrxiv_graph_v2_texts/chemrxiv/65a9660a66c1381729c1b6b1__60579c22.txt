@@ -1,0 +1,14 @@
+Description:
+A flammable gas detectable at ppm or ppb concentrations.
+
+Text:
+The growing concerns about the impact of the harmful gas emissions on the 
+human health and the environment, as pointed out by the World Health Organization 
+reports 1, has stimulated the research for solidstate gas sensing devices with better 
+sensitivity and low production costs. Thus, new systems are searched for being sensitive 
+in detecting ppm or ppb concentrations of flammable (H2, ethanol, hydrocarbons) and 
+toxic (H2S, CO, NO2) gases. Additionally, they also must present selectivity in the 
+presence of interferent gases 24, and be able to operate at temperatures closer to 
+environmental conditions. Recently, it has been shown that the increased concentration 
+of NO2 may have some influence on SARSCoV2 infections 5,6. Such facts highlight 
+the urgency of developing new sensors that are simple and affordable for monitoring.

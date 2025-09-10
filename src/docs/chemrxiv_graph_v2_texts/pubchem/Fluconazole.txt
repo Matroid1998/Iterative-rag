@@ -1,0 +1,39 @@
+Name: Fluconazole
+Text:
+Fluconazole is a member of the class of triazoles that is propan-2-ol substituted at position 1 and 3 by 1H-1,2,4-triazol-1-yl groups and at position 2 by a 2,4-difluorophenyl group. It is an antifungal drug used for the treatment of mucosal candidiasis and for systemic infections including systemic candidiasis, coccidioidomycosis, and cryptococcosis. It has a role as a P450 inhibitor, an environmental contaminant and a xenobiotic. It is a difluorobenzene, a conazole antifungal drug, a triazole antifungal drug and a tertiary alcohol. It is functionally related to a 1,3-difluorobenzene. It derives from a hydride of a 1H-1,2,4-triazole.
+Fluconazole is an antifungal prescription medicine approved by the U.S. Food and Drug Administration (FDA) to:
+Treat mucocutaneouscandidiasis, including esophageal candidiasis (infection of the esophagus), oropharyngeal candidiasis (infection of part of the throat), and vulvovaginal candidiasis
+Prevent candidiasis in people undergoing bone marrow transplantation who are receiving chemotherapy and/or radiation
+Treat cryptococcal meningitis
+Mucocutaneous candidiasis and cryptococcal meningitis can be opportunistic infections (OIs) of HIV.
+Fluconazole, commonly known as Diflucan, is an antifungal drug used for the treatment of both systemic and superficial fungal infections in a variety of tissues.  It was initially approved by the FDA in 1990. This drug is an azole antifungal, in the same drug family as [ketoconazole] and [itraconazole]. Fluconazole has many advantages over the other antifungal drugs including the option of oral administration. The side effect profile of this drug is minimal. It has been demonstrated as an efficacious treatment for vaginal yeast infections in one single dose.
+Fluconazole is an Azole Antifungal. The mechanism of action of fluconazole is as a Cytochrome P450 2C19 Inhibitor, and Cytochrome P450 3A4 Inhibitor, and Cytochrome P450 2C9 Inhibitor.
+Fluconazole is a triazole fungistatic agent used in the treatment of systemic and superficial fungal infections. Fluconazole therapy can cause transient mild-to-moderate serum aminotransferase elevations and is a known cause of clinically apparent acute drug induced liver injury.
+Fluconazole has been reported in Ganoderma gibbosum, Mirabilis jalapa, and other organisms with data available.
+Fluconazole is a synthetic triazole with antifungal activity. Fluconazole preferentially inhibits fungal cytochrome P-450 sterol C-14 alpha-demethylation, resulting in the accumulation of fungal 14 alpha-methyl sterols, the loss of normal fungal sterols, and fungistatic activity. Mammalian cell demethylation is much less sensitive to fluconazole inhibition.
+FLUCONAZOLE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1990 and has 4 approved and 33 investigational indications.
+Fluconazole is only found in individuals that have used or taken this drug. It is a triazole antifungal agent that is used to treat oropharyngeal candidiasis and cryptococcal meningitis in AIDS. Fluconazole interacts with 14-&alpha; demethylase, a cytochrome P-450 enzyme necessary to convert lanosterol to ergosterol. As ergosterol is an essential component of the fungal cell membrane, inhibition of its synthesis results in increased cellular permeability causing leakage of cellular contents. Fluconazole may also inhibit endogenous respiration, interact with membrane phospholipids, inhibit the transformation of yeasts to mycelial forms, inhibit purine uptake, and impair triglyceride and/or phospholipid biosynthesis.
+Triazole antifungal agent that is used to treat oropharyngeal candidiasis and cryptococcal meningitis in AIDS.
+See also: Fosfluconazole (is active moiety of); Fluconazole; ibuprofen; itraconazole; terbinafine (component of); Ciclopirox; fluconazole; terbinafine (component of).
+Properties:safety: Irritant and Health Hazard
+smiles: C1=CC(=C(C=C1F)F)C(CN2C=NC=N2)(CN3C=NC=N3)O
+formula: C13H12F2N6O
+chem_properties: Molecular Weight: 306.27 g/mol
+XLogP3: 0.4
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 5
+Exact Mass: 306.10406535 Da
+Monoisotopic Mass: 306.10406535 Da
+Topological Polar Surface Area: 81.7
+Heavy Atom Count: 22
+Formal Charge: 0
+Complexity: 358
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

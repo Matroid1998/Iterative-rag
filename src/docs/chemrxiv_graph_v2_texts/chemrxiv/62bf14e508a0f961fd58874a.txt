@@ -1,0 +1,26 @@
+Description:
+A compound used in batteries with a theoretical energy density among the highest for battery chemistries.
+
+Text:
+LiO2 batteries have been widely investigated due to their theoretical energy density being 
+among the highest possible for different battery chemistries.1,2 However, parasitic reactions, poor 
+cycling stability, and the insulating nature of their discharge productsmainly Li2O2have all 
+proven to be large hurdles for the practical implementation and commercialization of these cells.3
+8 Two primary pathways forming Li2O2 have been identified in conventional liquid aprotic 
+electrolyte LiO2 cells. These are commonly referred to as surfacemediated and solutionmediated 
+mechanisms.9 The former proceeds by sustained growth of a film on the cathode surface until a 
+limiting thickness is reached.
+
+
+---
+
+Description:
+A novel solid state electrolyte architecture that offers higher operating temperatures and avoids parasitic reactions found with organic electrolytes.
+
+Text:
+In the present contribution we investigate a novel solid state electrolyte (SSE)based 
+architecture for LiO2 that could offer two significant benefits when compared to typical liquid 
+electrolyte cells (i) access to much higher operating temperatures promotes depth of discharge 
+through thermalenhancement of ionic and electronic conductivities of the discharge product, and 
+(ii) the absence of carbonin either electrolyte or electrodecircumvents the parasitic reactions 
+commonly found with organic electrolytes and graphitic electrodes. Additionally, because

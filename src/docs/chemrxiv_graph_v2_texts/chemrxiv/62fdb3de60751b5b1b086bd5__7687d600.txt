@@ -1,0 +1,13 @@
+Description:
+Involved in elimination and autocatalytic decomposition processes.
+
+Text:
+The first theoretical
+analysis of the decomposition mechanism for RDX was conducted by Melius and Binkley8 at the MP4 level of
+theory. They found that the NN homolytic cleavage in an RDX molecule is the primary decomposition pathway
+with a dissociation energy of 48 kcalmol. Harris and Lammertsma9 calculated the potential energy surface at the
+B3LYP631G level of theory and identified that the NNO2 and CH bonds in RDX are fragile. A mechanism is
+proposed to initiate the decomposition by NN bond cleavage and propagate by H atom transfer. A detailed
+decomposition mechanism was established by Patidar et al.10, including HONO elimination, NNO2 homolysis,
+reactions with NO, autocatalytic decomposition via HONO and ONNO2 addition, and hydrogen abstraction via
+NO.

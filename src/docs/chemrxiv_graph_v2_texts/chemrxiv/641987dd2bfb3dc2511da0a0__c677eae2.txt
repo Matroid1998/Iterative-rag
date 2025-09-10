@@ -1,0 +1,42 @@
+Description:
+Known mainly in the cubic form with a less common hexagonal form called lonsdaleite.
+
+Text:
+Diamond, known mainly in the cubic form, has a less common hexagonal form called lonsdaleite. Such structures are also observed in binary SiC, and the different phases are called polytypes, which 
+are distinguished by the stacking of layers, usually labeled ABC AB in 2H (2 layers; hexagonal 
+system), ABC in 3C (3 layers; cubic system), ABCB in 4H (4 layers; hexagonal system), etc. 1. Silicon and carbon are isoelectronic with respect to the valence shell, and diamond has analogous 
+polytypes, with the best known being 3C, which corresponds to cubic diamond, and 2H, which 
+corresponds to lonsdaleite. Other diamond polytypes 4H, 8H, 9R to 21R (R for rhombohedral) have 
+been identified with calculated Xray diffraction data published by Ownby et al. in 1992 2.
+
+
+---
+
+Description:
+In 3C and 2H diamond, the valence 4 electrons arrange in tetrahedra with sp3like hybridization.
+
+Text:
+In 3C and 2H diamond, as well as in the extended lattice polytypes, the valence 4 electrons (2s2, 2p2) 
+arrange in tetrahedra with sp3like hybridization; note that this term, as well as other carbon 
+hybridizations (sp2 and sp1), are common in organic chemistry, and less so in the solid state 
+chemistry; nevertheless, they are useful for establishing the chemical description of the bonding and 
+the resulting physical and chemical properties. For applications such as electronics, the physical properties of diamond can be modified by 
+introducing trigonal C(sp2)  double CC bonds as in ethene  and linear C(sp1)  triple CC bonds as 
+in acetylene  on the one hand, and by working on the particle size as in nanodiamonds, on the other 
+hand.
+
+
+---
+
+Description:
+Characterized by ultrahardness and semimetallic electronic structure due to the presence of C(sp2).
+
+Text:
+Indeed, recent works have shown that nanodiamonds with mixed C(sp2)C(sp3) hybridization 
+play an important role in designing advanced electronic materials 5. Zhai et al. highlighted 
+electrochemical applications of hybrid diamondsp2C nanostructures 6. Furthermore, regarding 
+other mixed carbon hybridizations, sp3sp1 were recently identified in superhard socalled yne
+diamond, which is classified as semimetallic 7. In this context, we considered the reduction of the sp2sp3 extended stoichiometries allotropes, and 
+C10, C14 and C18 were proposed as derived respectively from 4H, 6H and 8H diamond polytypes, 
+respectively, and also characterized by ultrahardness close to diamond, and semimetallic electronic 
+structure due to the presence of C(sp2) 8.

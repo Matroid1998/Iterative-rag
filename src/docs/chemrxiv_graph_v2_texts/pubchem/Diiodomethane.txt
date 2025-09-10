@@ -1,0 +1,25 @@
+Name: Diiodomethane
+Text:
+Diiodomethane has been reported in Ascophyllum nodosum and Mastocarpus stellatus with data available.
+Properties:safety: Corrosive and Irritant
+smiles: C(I)I
+formula: CH2I2
+chem_properties: Molecular Weight: 267.835 g/mol
+XLogP3: 2.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 267.82460 Da
+Monoisotopic Mass: 267.82460 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 2.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

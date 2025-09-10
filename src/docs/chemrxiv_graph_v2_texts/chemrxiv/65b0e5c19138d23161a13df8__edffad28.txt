@@ -1,0 +1,14 @@
+Description:
+A type of polyanion used in energy storage technologies, where X can be S, P, Si, As, Mo, or W.
+
+Text:
+The rise of intermittent energy technologies (solar and wind) demands sustainable energy 
+storage devices based on earthabundant elements, improved cycle life, and higher energy 
+density with environmental benignity.1 This motivated the development of sodiumion batteries 
+(SIBs) due to their potentially low cost and the large natural abundance of Na (by 23 orders 
+of magnitude more than Li).2,3 In the quest for more efficient and sustainable energy storage 
+technologies, organic electrode materials have come into focus as a potentially greener 
+alternative to transition metal oxides (TMOs) and polyanions, such as NaxMy(XO4)n (X  S, P, 
+Si, As, Mo, and W).4 As analogs to TMOs and metal cationinserting materials, ntype organic 
+compounds such as quinones,5 imides,6 carboxylates,7,8 and polymeric Schiff9 bases have 
+shown promising performance both in monovalent4,8,1012 and divalent13 metalion batteries.

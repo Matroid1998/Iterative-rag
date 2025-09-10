@@ -1,0 +1,25 @@
+Name: Farnesane
+Text:
+Farnesane is a sesquiterpene that is dodecane substituted by methyl groups at positions 2, 6 and 10. It has a role as a plant metabolite. It is a sesquiterpene and an alkane.
+Properties:safety: Health Hazard
+smiles: CCC(C)CCCC(C)CCCC(C)C
+formula: C15H32
+chem_properties: Molecular Weight: 212.41 g/mol
+XLogP3: 7.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 9
+Exact Mass: 212.250401021 Da
+Monoisotopic Mass: 212.250401021 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 15
+Formal Charge: 0
+Complexity: 126
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 2
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

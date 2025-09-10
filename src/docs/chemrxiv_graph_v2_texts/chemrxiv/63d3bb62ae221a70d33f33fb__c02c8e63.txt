@@ -1,0 +1,14 @@
+Description:
+A solvent that influences proton chemical shifts in NMR spectroscopy.
+
+Text:
+In macrocyclic systems with NH functional groups, each proton signal is shifted 
+upfield upon changing the solvent from toluene to cyclohexane 5. In chloroform, shifts of 
+about 1 ppm are seen upon changing the solvent from cyclohexane to benzene 6. A plethora 
+of experimental and theoretical research has already been carried out on such solvent induced 
+changes in NMR spectroscopy 711. These chemical shifts have been attributed to solute
+solvent clustering or the formation of solvation spheres which gives rise to solvated solute sites 
+or cavities where the electrical activity is rich and is called the reaction field 3,12. Hydrogen 
+bonding, anisotropy in the solvent molecules, weak van der Waals interactions, unspecific 
+shielding effects such as intrasolvent or solventsolute  weak interactions 13,14 also play 
+a role.

@@ -1,0 +1,14 @@
+Description:
+Acts as an antigen triggering the immune system to activate macrophages and lymphocytes.
+
+Text:
+Inflammation is a physiologic response of the body to eliminate unwanted antigens and 
+prevent further tissue damage (Hung and Suzuki, 2017). However, insufficient or excessive 
+inflammatory response can be pathologic (Biswas and Bagchi, 2016; Fujiwara and Kobayashi, 
+2005; Hung and Suzuki, 2017). In a bacteriainduced infection, inflammation is mediated by 
+lipopolysaccharide (LPS) that acts as an antigen triggering the immune system to activate 
+macrophages and lymphocytes to produce proinflammatory mediators (prostaglandins and nitric 
+oxide) and cytokines (TNFa, IL1, IL2, IL6, IL8 and IL12) (Fujiwara and Kobayashi, 2005; 
+Hung and Suzuki, 2017; Liu et al., 2017). At the molecular level, these processes are regulated by 
+the proinflammatory molecule NFB which can either be a homodimer or heterodimer with p50, 
+p52 or p65 subunits.

@@ -1,0 +1,28 @@
+Name: Benzyl Chloride
+Text:
+Benzyl Chloride can cause cancer according to The World Health Organization's International Agency for Research on Cancer (IARC).
+Benzyl chloride appears as a colorless liquid with an irritating odor. Toxic by inhalation and skin absorption. Flash point 153 °F. Slightly soluble in water. Corrosive to metals and tissue. A lachrymator. Density 9.2 lb /gal.
+Benzyl chloride is a member of the class of benzyl chlorides that is toluene substituted on the alpha-carbon with chlorine.
+Benzyl chloride is used as a chemical intermediate in the manufacture of certain dyes and pharmaceutical products and as a photographic developer. The acute (short-term) effects of benzyl chloride from inhalation exposure in humans consist of severe irritation of the upper respiratory tract, skin, eyes, and mucous membranes, and lung damage along with pulmonary edema (fluid in lungs). Exposure to high concentrations also causes effects on the central nervous system (CNS). Animal data indicate that long- term exposure to benzyl chloride by gavage (placing it experimentally in the stomachs of mice) increased the incidence of benign and malignant tumors at multiple sites and resulted in a significant increase in thyroid tumors in female rats. EPA has classified benzyl chloride as a Group B2, probable human carcinogen.
+Properties:safety: Corrosive and Acute Toxic and Health Hazard
+smiles: C1=CC=C(C=C1)CCl
+formula: C7H7Cl
+chem_properties: Molecular Weight: 126.58 g/mol
+XLogP3: 2.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 1
+Exact Mass: 126.0236279 Da
+Monoisotopic Mass: 126.0236279 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 55.4
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

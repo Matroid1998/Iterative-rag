@@ -1,0 +1,50 @@
+Description:
+A commercial material used in lithium-ion batteries with a theoretical capacity of 372 mAh/g.
+
+Text:
+Lithiumion batteries (LiBs) have increased over the last three decades, being 
+today the best choice for energy storage due to their cyclability, larger capacity, 
+and high power. Numerous challenges need to be tackled given the increasing 
+use of electric vehicle applications, such as achieving higher energy density and 
+power densities.13 Active materials that accommodate further Liions could 
+improve the LiB energy density. Silicon is a promising active material due to its 
+almost ten times higher theoretical capacity (3576 mAhg) than commercial 
+graphite (372 mAhg). Nevertheless, silicon undergoes a significant volume 
+change upon cycling that provokes electric connectivity loss from the current 
+collector and increased strain, reducing cycle life.
+
+
+---
+
+Description:
+Mixed with silicon to develop composites that enhance aging behavior and capacity retention in LiBs.
+
+Text:
+Improving silicon cycling 
+issues has become crucial for advanced electric vehicles LiBs.4,5 Several 
+strategies can improve silicon cycling problematics, such as carboncoated 
+nanostructured electrodes, which have demonstrated a bettercycled life and 
+improved pulverization by avoiding direct contact with the electrolyte and 
+forming a wellbehaved solid electrolyte interphase (SEI).69 Furthermore, mixing 
+silicon with graphite to develop composites has improved aging behavior and 
+capacity retention by creating a conductive matrix that sustains silicon volume 
+expansion.1012 
+A growing interest in improving LiBs cycle life is also linked to optimizing the 
+battery manufacturing process. This process includes multiple steps, such as 
+the slurry preparation and the coating, solvent drying, electrode calendering, and 
+cell assembly. Optimizing the fabrication steps aims to improve the energy 
+density, cycling rate, and stability.
+
+
+---
+
+Description:
+Combined with silicon in advanced batteries to buffer silicon volume expansion.
+
+Text:
+Since silicon has recently been added to 
+advanced batteries, few studies have addressed the optimization of the 
+manufacturing steps. Today, much of the silicon added in advanced batteries for 
+electric vehicles is combined with graphite. In particular, Si is added in low 
+contents ( 10 wt) to boost the electrode capacity while buffering silicon volume 
+expansion and benefiting from the wellbehaved graphite cycling.

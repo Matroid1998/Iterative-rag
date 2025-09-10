@@ -1,0 +1,29 @@
+Name: Calcium Phosphate
+Text:
+Calcium phosphate is an odorless white solid. Sinks and mixes with water. (USCG, 1999)
+Tricalcium bis(phosphate) is a calcium phosphate.
+Calcium phosphate is typically available as an over the counter supplement, antacid, or as an added ingredient in some toothpastes.
+Calcium Phosphate is the calcium salt of phosphoric acid with widely used applications. This agent can be used as a countermeasure for exposure to strontium and radium radionuclides. Upon oral uptake, calcium phosphate competes for and blocks the absorption of radium (Ra-226) and strontium (Sr-90) in the gastrointestinal (GI) tract.
+CALCIUM PHOSPHATE, TRIBASIC is a small molecule drug with a maximum clinical trial phase of II and has 1 investigational indication.
+See also: Tribasic Calcium Phosphate (annotation moved to).
+Properties:safety: Corrosive
+smiles: [O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Ca+2].[Ca+2].[Ca+2]
+formula: Ca3(PO4)2
+chem_properties: Molecular Weight: 310.18 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 0
+Exact Mass: 309.7946135 Da
+Monoisotopic Mass: 309.7946135 Da
+Topological Polar Surface Area: 173
+Heavy Atom Count: 13
+Formal Charge: 0
+Complexity: 36.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 5
+Compound Is Canonicalized: Yes 
+

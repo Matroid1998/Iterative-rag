@@ -1,0 +1,34 @@
+Description:
+Involved in hydrogen atom transfer reactions pivotal in chemical and biochemical processes.
+
+Text:
+Hydrogen atom transfer (HAT) reactions are pivotal in 
+chemical and biochemical processes.12 In contrast to elec
+tron transfer and energy transfer mechanisms, HAT offers 
+a distinctive advantage by overcoming the constraints of 
+redox potentials, thereby activating substrates under mild 
+conditions in organic transformations.
+
+
+---
+
+Description:
+Involved in hydrogen atom transfer processes in photocatalysis.
+
+Text:
+HAT in photocataly
+sis has two approaches indirect hydrogen atom transfer 
+(iHAT) and direct hydrogen atom transfer (dHAT).1, 3 In 
+the iHAT process, a photocatalyst is excited upon light 
+absorption to generate radical or radical ion species as 
+hydrogen abstractors through electron transfer events, for 
+example, reduction of persulfate (S2O82) to a sulfate radi
+cal anion (SO4)4 and oxidation of thiol (RSH) to thiyl rad
+ical (RS).56 In comparison, the dHAT process directly 
+abstracts a hydrogen atom from a substrate molecule by an 
+excited photocatalyst, forming a radical intermediate and 
+the Hdoped form of the photocatalyst (PCH) (Figure 
+1a). The prevalent structural motif in dHAT photocatalysts 
+features an oxo group, endowing them with a distinctive 
+oxygencentered radical character in their reactive excited 
+states for hydrogen abstraction.

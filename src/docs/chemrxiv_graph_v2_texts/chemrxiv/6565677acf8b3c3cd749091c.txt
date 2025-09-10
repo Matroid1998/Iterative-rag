@@ -1,0 +1,27 @@
+Description:
+A material used in nanoporous membranes for applications such as desalination and virus filtration.
+
+Text:
+In recent decades,
+a wide variety of nanoporous membranes based on
+materials such as graphene,36 polymers,79silicon,10,11
+alumina,12,13 and metal organic frameworks1420 have
+been demonstrated to exhibit promising performance
+in a range of applications such as desalination,3,4,6,8,9
+virus
+filtration,7
+power
+generation,10,21
+biomolecule
+separation,12 molecule detection,13 gas storage,14,1820
+catalysis,15 and drug delivery.16,17
+In designing membranes for separation applications,
+it is essential to maximize the permeability of desired
+species while maintaining a satisfactory level of selectiv
+ity against undesirable species. As an example, take re
+verse osmosis (RO) desalination, a critical technology for
+sustainable and accessible freshwater supply.2225 An ef
+fective RO membrane must have high water permeabil
+Electronic address amir.hajiakbaribalouyale.edu
+ity and strong selectivity against small ionic and molec
+ular solutes.

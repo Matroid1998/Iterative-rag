@@ -1,0 +1,42 @@
+Description:
+Disc-like molecules used in the formation of homochiral helices in copolymers.
+
+Text:
+In the realm of supramolecular polymers, it is 
+achieved with lower synthetic efforts by the coassembly of 
+complementary monomers interacting through noncovalent 
+interactions upon selecting the convenient solvent that triggers 
+the aggregation process.1,2 It comes with additional challenges 
+associated with lack of control of polymerization reaction and the 
+difficulty 
+to 
+characterize the structure of the 
+resulting 
+copolymers.35 Better control of the microstructure was achieved 
+recently by triggering the assembly of kineticallytrapped 
+species,68 but achieving structural control under thermodynamic 
+equilibrium is also necessary for many applications.9 In the latter 
+case, the degree of association and the length of the copolymers 
+will strongly depend on the various equilibrium constants at work 
+in the system as well as the mechanism of polymerization.10,11 
+Mixing achiral monomers (the soldiers) and chiral monomers 
+(the sergeants) is the most widespread strategy to generate 
+homochiral helices, and probe the structure and stability of the 
+resulting copolymers.1214 Thanks to the socalled sergeants
+andsoldiers effect,15 a few percent of sergeant molecules are 
+usually enough to get singlehanded helices, notably for 
+copolymers derived from disclike molecules such as benzene
+1,3,5tricarboxamides (BTAs).16,17 In most of these systems, 
+chiral and achiral monomers have roughly similar (co)equilibrium 
+constants leading to copolymers with a presumably random 
+distribution of the monomers.18 However, recent studies5 
+demonstrated that subtle differences in these constants for 
+cooperative supramolecular polymer assembly are key to 
+manipulate the length and degree of association,1924 as well as 
+the composition and monomer sequence2528 in the copolymers, 
+with deep consequences on their rheological20 and catalytic 
+properties.24 Recording the variation of the copolymer structural 
+parameters under various conditions, e. g. temperature and 
+concentration, fitted with thermodynamic massbalance models, 
+may allow to determine the role of the sergeant a posteriori,23 
+but no design of the sergeant can be made a priori.

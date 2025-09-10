@@ -1,0 +1,13 @@
+Description:
+Atomic oxygen used to passivate pore edges in graphene studies.
+
+Text:
+Extensive computational studies have been conducted to analyze gas transport from graphene 
+pores10,45,46 since attractive gas separation from graphene pores was first predicted in the year 
+2009.4 For simplicity, early studies probed pore edges devoid of functional groups and assumed 
+rigid apertures with a fixed porelimiting diameter.4752 Other studies probed pore edges passivated 
+with atomic H, N, or O, however, gas transport was still investigated, assuming a rigid aperture with 
+a fixed PLD.4,49,5358 When lattice flexibility and vibrational dynamics were included, PLD 
+modulation59 and enlargement60 were predicted, resulting in an increased gas permeance.11 Pores 
+decorated with the CO group have not been studied. One expects the pore edge CO group to 
+interact strongly with polar molecules such as CO2 and even flipflop across the plane of the pore.

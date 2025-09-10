@@ -1,0 +1,14 @@
+Description:
+Materials with a 2D structure exhibiting a wide bandgap and cooperative magnetic properties.
+
+Text:
+Among the many materials with a 2D structure, the family of transition metal chalcogenophosphates (MPX3; where M  V, Cr, Mn, 
+Fe, Co, Ni, Cu, Zn and Cd and X  S, Se, Te) has recently attracted the growing attention of the research community.1 This interest 
+arises from its extensive variety of electronic and magnetic properties.2,3 Thus, for example, these materials exhibit a wide bandgap 
+(up to 3.5 eV)4 that broaden their potential application in optoelectronics;5 In addition, these materials exhibit cooperative 
+magnetic properties, in particular antiferromagnetism,6 which has been proven to persist even in the 2D limit.7,8 Interestingly, the 
+reliance between structural, electronic and magnetic properties boosts their potential in spintronics.6 Furthermore, these 
+materials have also been studied as promising candidates for electrocatalytic applications.9 
+Notice that most of the works focused on the fundamental characterization of ultrathin layers use dry approaches to obtain these 
+layers, either topdown, using the scotchtape method for exfoliating large crystals,10 or bottomup strategies for synthesizing 
+nanosheets in a controlled way.11 These methods give rise to high quality single or few layers MPX3 with a low degree of defects.

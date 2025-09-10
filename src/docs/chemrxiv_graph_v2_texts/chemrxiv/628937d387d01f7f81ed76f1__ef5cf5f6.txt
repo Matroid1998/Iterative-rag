@@ -1,0 +1,21 @@
+Description:
+Forms a defected Th3P4 structure type due to valence imbalance.
+
+Text:
+Since mate
+rials with low  are desired, many studies have been dedicated
+to discovering novel low materials for TE applications.210
+Zhu et al.10 combined graph neural networks and random for
+est approaches to identify rareearth chalcogenides as materials
+with low lattice thermal conductivity (L), in agreement with
+known highperforming TE materials.1113 La3xTe4, which has
+been extensively studied for hightemperature TE applications,
+forms a defected Th3P4 structure type due to the valence imbal
+ance of stoichiometric La3Te4.1417 The high TE performance of
+La3xTe4 partly stems from synergistic effects of light and heavy
+bands leading to overall advantageous electrical transport prop
+erties,18 as well as enhanced phonon scattering from La vacan
+cies.19 Similar materials, such as Pr3xTe4,20,21 Nd3xTe4,22 and
+La3xS4 23,24 also exhibit low  and high TE performance, likely
+due to the high degree of phonon scattering from the cation
+vacancies.

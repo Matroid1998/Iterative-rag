@@ -1,0 +1,40 @@
+Description:
+Established as a stable support to avoid degradation in catalytic applications.
+
+Text:
+However, the low dissolution 
+stability of the alloying elements is a concern considering both catalyst durability and membrane poisoning.17 Using support materials for 
+iridium catalysts instead can introduce a high dispersion of the iridium phase, thus increasing the amount of reaction sites. However, the 
+electrical connection of the iridium sites must be ensured to render them active for the OER. To achieve this, several conductive supports 
+have been tested, for example antimonydoped tin oxide (ATO)18 and tantalumdoped TiO219 showing high conductivity. But once more, the 
+dissolution stability of these materials is questionable; illustratively, a high antimony dissolution from ATO has been shown in threeelectrode 
+electrochemical tests.20 
+To avoid support degradation, TiO2 is established as a stable support, both in academic research13,2125 and industry.
+
+
+---
+
+Description:
+Regarded as an insulator due to its low electrical conductivity.
+
+Text:
+Nevertheless, the 
+electrical conductivity of TiO2 is so low that it is regarded as insulator for the application in PEMWE.22 Therefore, the conductivity of TiO2
+supported iridium catalysts must be ensured solely by the iridium phase. To guarantee a percolating pathway from particle to particle, a 
+coreshell structure is usually aimed for.13,21,2426 
+Here, a delicate balance must be found between reducing the iridium content on the one hand and achieving sufficient conductivity on the 
+other hand. Generally, to ultimately decrease the iridium content, an iridium shell as thin as possible is desirable, which, however, reduces 
+the electric conductivity.
+
+
+---
+
+Description:
+A semiconducting particle used in photodeposition synthesis.
+
+Text:
+Additionally, choosing support particles with a low specific surface area can decrease the required amount of 
+iridium, because less surface needs to be covered for a closed shell, as pointed out by Bernt et al.13 
+In this regard, photodeposition is a suitable method to produce coreshell particles. During photodeposition synthesis, a mixture of 
+semiconducting particles (e.g., TiO2) and metal ions (e.g., IrX) is exposed to electromagnetic radiation with an energy exceeding the band 
+httpsdoi.org10.26434chemrxiv2024kld98 ORCID httpsorcid.org0000000289278214 Content not peerreviewed by ChemRxiv. License CC BY 4.0

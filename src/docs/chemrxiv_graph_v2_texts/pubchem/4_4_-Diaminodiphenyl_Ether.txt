@@ -1,0 +1,28 @@
+Name: 4,4'-Diaminodiphenyl Ether
+Text:
+4,4'-Diaminodiphenyl ether (4,4'-Oxydianiline) can cause cancer according to an independent committee of scientific and health experts.
+4,4'-diaminodiphenyl ether appears as odorless colorless crystals or an odorless fine, beige powder. (NTP, 1992)
+4-Aminophenyl ether is an aromatic ether.
+4,4-Oxydianiline is a colorless, odorless, combustible aromatic amine that emits toxic fumes of nitrogen oxides when heated to decomposition. 4,4'-Oxydianiline is used in industry in the manufacture of polyimide and polyester resins. Exposure to this substance is irritating to the eyes, skin and respiratory-tract. 4,4'-Oxydianiline is reasonably anticipated to be a human carcinogen. (NCI05)
+Properties:safety: Acute Toxic and Health Hazard and Environmental Hazard
+smiles: C1=CC(=CC=C1N)OC2=CC=C(C=C2)N
+formula: C12H12N2O
+chem_properties: Molecular Weight: 200.24 g/mol
+XLogP3: 1.4
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 2
+Exact Mass: 200.094963011 Da
+Monoisotopic Mass: 200.094963011 Da
+Topological Polar Surface Area: 61.3
+Heavy Atom Count: 15
+Formal Charge: 0
+Complexity: 162
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

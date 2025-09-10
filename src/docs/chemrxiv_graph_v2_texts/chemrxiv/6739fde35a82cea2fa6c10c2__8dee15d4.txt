@@ -1,0 +1,55 @@
+Description:
+The product of CO2 hydrogenation using transition metal catalysts.
+
+Text:
+For instance, transitionmetal
+catalysts can enable the hydrogenation of CO2 to methanol
+via thermal processes.1620 Currently, CuZnOAl2O3 is the
+stateoftheart catalyst for performing this reaction.21 How
+ever, this catalyst experiences deactivation in the presence of
+high concentrations of water within the reaction mixture.2022
+Hence, developing new, watertolerant catalysts is crucial to
+achieve industrial CO2 utilization. Pdbased CO2 hydrogenation catalysts are more water
+tolerant than those based on Cu.
+
+
+---
+
+Description:
+The desired product whose selectivity can be increased by alloying Pd with Zn or Ga.
+
+Text:
+Nevertheless, these systems
+favor the reverse watergas shift reaction and produce signif
+icant amounts of carbon monoxide.17,18 It has been shown
+that the selectivity to the desired methanol product can be in
+creased by alloying Pd with a second metal, such as Zn or
+Ga.20,23 Therefore, alloy materials offer a promising strategy
+for improving the performance of CO2 hydrogenation cata
+lysts. Singleatom catalysts are a frontline approach in catalysis
+research.24,25 In these materials, isolated atoms of a metal
+are dispersed and stabilized on a host material. If the sub
+strates are metals, we identify these materials as singleatom
+alloys (SAAs).
+
+
+---
+
+Description:
+A product of CO2 conversion modeled in DFT studies.
+
+Text:
+Theoretical approaches like those based on density func
+tional theory (DFT),38 can elucidate specific processes re
+lated to reactivity, such as surface reaction elementary steps.39
+For instance, it is possible to model the CO2 activation, the
+key initial step for converting the molecule into valuable
+products.40,41 Several DFT studies model the full reaction
+path for the CO2 conversion, on SAAs, to different products
+like methanol and Ethylene.42,43
+Artificial Intelligence (AI) can accelerate the discovery of
+promising materials by identifying correlations and patterns in
+data.44 Nonetheless, only few SAAs might present the prop
+erties required for them to be useful in a specific application. This is often the case in catalysis, where only a handful of
+compounds are known as efficient catalysts (active, selective,
+and stable during operation).

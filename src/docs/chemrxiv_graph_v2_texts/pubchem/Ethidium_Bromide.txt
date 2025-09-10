@@ -1,0 +1,25 @@
+Name: Ethidium Bromide
+Text:
+Ethidium bromide is the organic bromide salt of ethidium. It has a role as a trypanocidal drug, a geroprotector and an intercalator. It contains an ethidium.
+A trypanocidal agent and possible antiviral agent that is widely used in experimental cell biology and biochemistry. Ethidium has several experimentally useful properties including binding to nucleic acids, noncompetitive inhibition of nicotinic acetylcholine receptors, and fluorescence among others. It is most commonly used as the bromide.
+Properties:safety: Acute Toxic and Health Hazard
+smiles: CC[N+]1=C2C=C(C=CC2=C3C=CC(=CC3=C1C4=CC=CC=C4)N)N.[Br-]
+formula: C21H20N3.Br
+chem_properties: Molecular Weight: 394.3 g/mol
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 2
+Exact Mass: 393.08406 Da
+Monoisotopic Mass: 393.08406 Da
+Topological Polar Surface Area: 55.9
+Heavy Atom Count: 25
+Formal Charge: 0
+Complexity: 419
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,12 @@
+Description:
+Constructed through 22 cycloadditions, which are photochemical reactions.
+
+Text:
+Perhaps the most prominent class of photochemical reactions are 22
+cycloadditions, which construct cyclobutanes, oxetanes and azetidines.911 In contrast to the analogous 
+DielsAlder 42cycloadditions, 22cycloadditions are thermally forbidden due to incompatible 
+ground state orbital symmetries (Figure 1A). The key stages of EnT photocatalysis are shown in Figure 
+1B. Light energy is used to promote a triplet sensitiser from the ground state (S0) to a singlet excited 
+state (S1), which then undergoes intersystem crossing to a triplet state (T1). Since relaxation from T1 to 
+S0 is spinforbidden, triplet intermediates are relatively longlived compared with singlet excited states. Commonly employed triplet photosensitisers include conjugated aromatic ketones such as 
+benzophenone, xanthone, and thioxanthone, which display high quantum efficiencies for population of

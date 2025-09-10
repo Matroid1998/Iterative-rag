@@ -1,0 +1,26 @@
+Name: Dimethyl carbonate
+Text:
+Dimethyl carbonate appears as a clear, colorless liquid with a pleasant odor. Denser than water and slightly soluble in water. Vapors are heavier than air. Used to make other chemicals and as a special purpose solvent.
+Dimethyl carbonate is a carbonate ester that is carbonic acid in which both hydrogens are replaced by methyl groups. A flammable, colourless liquid (m.p. 2-4℃, b.p. 90℃) with a characterstic ester-like odour, it is used as a 'green' methylating agent and as a solvent. It has a role as a solvent and a reagent.
+Properties:safety: Flammable
+smiles: COC(=O)OC
+formula: C3H6O3
+chem_properties: Molecular Weight: 90.08 g/mol
+XLogP3: 0.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 2
+Exact Mass: 90.031694049 Da
+Monoisotopic Mass: 90.031694049 Da
+Topological Polar Surface Area: 35.5
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 44
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

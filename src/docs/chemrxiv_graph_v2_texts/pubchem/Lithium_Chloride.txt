@@ -1,0 +1,27 @@
+Name: Lithium Chloride
+Text:
+Lithium chloride appears as colorless crystals or powder. Low toxicity.
+Lithium chloride is a metal chloride salt with a Li(+) counterion. It has a role as an antimanic drug and a geroprotector. It is an inorganic chloride and a lithium salt.
+A salt of lithium that has been used experimentally as an immunomodulator.
+See also: Lithium Cation (has active moiety) ... View More ...
+Properties:safety: Irritant
+smiles: [Li+].[Cl-]
+formula: ClLi
+chem_properties: Molecular Weight: 42.4 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 41.9848561 Da
+Monoisotopic Mass: 41.9848561 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 2
+Formal Charge: 0
+Complexity: 2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

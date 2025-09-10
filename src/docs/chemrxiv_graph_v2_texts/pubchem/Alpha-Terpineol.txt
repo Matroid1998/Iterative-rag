@@ -1,0 +1,28 @@
+Name: Alpha-Terpineol
+Text:
+Alpha-terpineol is a terpineol that is propan-2-ol substituted by a 4-methylcyclohex-3-en-1-yl group at position 2. It has a role as a plant metabolite.
+alpha-TERPINEOL has been reported in Camellia sinensis, Callistemon citrinus, and other organisms with data available.
+2-(4-Methyl-3-cyclohexen-1-yl)-2-propanol is a metabolite found in or produced by Saccharomyces cerevisiae.
+See also: Coriander Oil (part of); Peumus boldus leaf (part of); Cannabis sativa subsp. indica top (part of) ... View More ...
+Properties:safety: Irritant
+smiles: CC1=CCC(CC1)C(C)(C)O
+formula: C10H18O
+chem_properties: Molecular Weight: 154.25 g/mol
+XLogP3: 1.8
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 1
+Exact Mass: 154.135765193 Da
+Monoisotopic Mass: 154.135765193 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 168
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

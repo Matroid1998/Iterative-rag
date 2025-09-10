@@ -1,0 +1,12 @@
+Description:
+The chemically intuitive Clars sextet rule states that more aromatic sextets result in a larger optical gap and higher stability.
+
+Text:
+For example, 
+triangular GQDs of varying size exhibit a progressive redshift of their ultranarrow absorption 
+and emission bands with increasing size.3 Nanographene sizeshape can also be utilized to tune 
+their optical properties (and chemical stability) and is best described by the chemically intuitive 
+Clars sextet rule of polycyclic aromatic hydrocarbons which states that the more aromatic 
+sextets (that is, the more benzenelike subunits) in the molecule, the larger the optical gap and 
+higher the stability.4 Computational results confirm the sextet rule when comparing armchair 
+and zigzagedged nanographenes.

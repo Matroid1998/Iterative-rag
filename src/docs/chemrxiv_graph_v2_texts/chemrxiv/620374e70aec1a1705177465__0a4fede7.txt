@@ -1,0 +1,12 @@
+Description:
+A material whose electrical conductivity is controlled by film stoichiometry and enhanced by substituting In atoms with Sn.
+
+Text:
+Indium oxide (In2O3) is a material of high interest due to its high electrical conductivity 
+and optical transparency, making it a key material for transparent and optoelectronics1 
+e.g. microelectronic displays on touch screens. The electrical conductivity of In2O32 is 
+controlled by the stoichiometry of the film3 and is typically enhanced by substituting the 
+In atoms with 510 atomic  Sn4,5. All applications of In2O3 as transparent conducting 
+layers require the deposition of highquality thin films of In2O3. This requirement is the 
+driving force for extensive studies by sputtering6, thermal evaporation7, chemical vapor 
+deposition8, and atomic layer deposition (ALD)9.

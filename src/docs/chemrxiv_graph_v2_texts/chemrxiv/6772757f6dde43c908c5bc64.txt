@@ -1,0 +1,13 @@
+Description:
+A heavy atom that enhances spin-orbit coupling in fluorophores, improving phosphorescence efficiency.
+
+Text:
+However, studies on organic fluorescent dyes have shown that introducing heavy atoms, such as 
+iodine (I), into the fluorophore enhances spinorbit coupling (the internal heavyatom effect), which 
+increases the rate constant for intersystem crossing (ISC) from Sn to Tm, thereby improving the 
+efficiency of phosphorescence.13 Similarly, encapsulating a heavy atom into AgS clusters may 
+enhance the phosphorescence quantum yield. However, to date, there are limited reports on the 
+internal heavyatom effect of ligandprotected metal clusters.14 
+In this study, we successfully synthesized ligandprotected AgS clusters with central cavities 
+encapsulating anions Xz, where Xz  S2 (sulfide) or I (iodide), which significantly differ in atomic 
+number each other (Scheme 1).

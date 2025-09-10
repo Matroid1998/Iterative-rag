@@ -1,0 +1,33 @@
+Description:
+Inserted into the CH bonds of glycosidic linkages during oxidative cleavage by LPMOs.
+
+Text:
+The natural substrates of LPMOs are
+different polysaccharides such as cellulose, chitin, starch and
+pectin.1,2,5,9,10 Strikingly, the only structural motif that is strictly
+conserved across all eight families is the activesite histidine
+brace,13 which consists of two histidine residues that coordinate
+a single copper atom. In most LPMOs, the histidine brace is
+located on a flat and solventexposed surface that enables the
+enzymes to be active on their polysaccharide substrates.14
+LPMOs boost polysaccharide degradation by catalyzing the ox
+idative cleavage of the different polysaccharides, by inserting an
+oxygen atom into the CH bonds of the glycosidic linkages.
+
+
+---
+
+Description:
+An element that can be provided by either O2 or H2O2.
+
+Text:
+This
+oxygen atom is provided by either O2 or H2O2.15 Steadily grow
+ing experimental and computational evidence suggests that H2O2
+a Department of Physics, Chemistry, and Pharmacy, University of Southern Denmark,
+Campusvej 55, 5230 Odense, Denmark; Email erdhsdu.dk; ernasdu.dk
+b Department of Chemistry, Lund University, Naturvetarvgen 14, 221 00 Lund, Swe
+den. Supplementary Information available Details regarding the protein setup for
+QMMM calculations and employed QM regions. Additonal data for the Cu state
+1 and the superoxide state 2, the dissociation, and the first, second and internal
+proton transfers.

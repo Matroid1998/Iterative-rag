@@ -1,0 +1,32 @@
+Name: Tetracycline
+Text:
+Tetracycline (internal use) can cause developmental toxicity according to state or federal government labeling requirements.
+Tetracycline is a broad-spectrum polyketide antibiotic produced by the Streptomyces genus of actinobacteria. It has a role as an antimicrobial agent, an antibacterial drug, an antiprotozoal drug, a protein synthesis inhibitor and an Escherichia coli metabolite. It is a tertiary alpha-hydroxy ketone and a member of tetracyclines. It is a conjugate acid of a tetracycline(1-) and a tetracycline zwitterion.
+Tetracycline is a broad spectrum polyketide antibiotic produced by the Streptomyces genus of Actinobacteria. It exerts a bacteriostatic effect on bacteria by binding reversible to the bacterial 30S ribosomal subunit and blocking incoming aminoacyl tRNA from binding to the ribosome acceptor site. It also binds to some extent to the bacterial 50S ribosomal subunit and may alter the cytoplasmic membrane causing intracellular components to leak from bacterial cells.  The FDA withdrew its approval for the use of all liquid oral drug products formulated for pediatric use containing tetracycline in a concentration greater than 25 mg/ml. Other formulations of tetracycline continue to be used.
+Tetracycline is a Tetracycline-class Antimicrobial.
+Tetracycline is a broad-spectrum naphthacene antibiotic produced semisynthetically from chlortetracycline, an antibiotic isolated from the bacterium Streptomyces aureofaciens. In bacteria, tetracycline binds to the 30S ribosomal subunit, interferes with the binding of aminoacyl-tRNA to the mRNA-ribosome complex, thereby inhibiting protein synthesis.
+TETRACYCLINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2006 and has 9 approved and 13 investigational indications.
+A naphthacene antibiotic that inhibits AMINO ACYL TRNA binding during protein synthesis.
+See also: Tetracycline Hydrochloride (has salt form); Tetracycline Phosphate Complex (is active moiety of); Tetracycline Phosphate (is active moiety of) ... View More ...
+Properties:safety: Irritant
+smiles: C[C@@]1([C@H]2C[C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O
+formula: C22H24N2O8
+chem_properties: Molecular Weight: 444.4 g/mol
+XLogP3: -2
+Hydrogen Bond Donor Count: 6
+Hydrogen Bond Acceptor Count: 9
+Rotatable Bond Count: 2
+Exact Mass: 444.15326573 Da
+Monoisotopic Mass: 444.15326573 Da
+Topological Polar Surface Area: 182
+Heavy Atom Count: 32
+Formal Charge: 0
+Complexity: 971
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 5
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

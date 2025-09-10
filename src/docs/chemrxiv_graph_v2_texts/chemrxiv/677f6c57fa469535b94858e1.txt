@@ -1,0 +1,15 @@
+Description:
+Added to NdFeB magnets to increase the Curie temperature.
+
+Text:
+Neodymiumironboron permanent magnets, commonly abbreviated as NdFeB magnets consist of an alloy 
+mainly made of 6070 wt of Fe, 2030 wt of Nd, and 0.31 wt of B, as well as 0.57 wt of Pr.1 Small 
+amounts of other metals such as Al, Ga, Co, Cu, Dy and Tb are added to NdFeB magnets to adjust their 
+properties.2 For example, Dy and Tb are typically added to increase the coercivity of a magnet at high 
+temperatures.2,3 The addition of up to 5 of Co increases the Curie temperature of the magnet, a 
+temperature in which the magnet retains its permanent magnetic properties,4 whereas Ga and Al improve 
+the thermal stability of the magnet.5 Therefore, the used NdFeB magnets are not only a potential secondary 
+source for rare earth elements (REE) but also for other critical elements such as Co, Al, or Ga.6 
+Largersized wind turbine and electric car magnets can be recycled as they are, but smaller magnets 
+from electric appliances and hard disk drives (HDDs) must be separated from the other components 
+including plastic or metal parts either by manual7,8 or automatic9,10 dismantling.

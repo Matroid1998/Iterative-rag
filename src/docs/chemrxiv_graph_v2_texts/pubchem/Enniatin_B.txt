@@ -1,0 +1,27 @@
+Name: Enniatin B
+Text:
+Enniatin B is an enniatin obtained from formal cyclocondensation of three N-[(2R)-2-hydroxy-3-methylbutanoyl]-N-methyl-L-valine units. It has a role as an antimicrobial agent.
+Enniatin B has been reported in Fusarium lateritium, Fusarium acuminatum, and other organisms with data available.
+Enniatins are mycotoxins that appear in nature as a mixture of cyclohexadepsipeptides produced by bacteria, fungi, and plants. They may be found in contaminated cereal crops. Enniatins have various biological activities and can act as enzyme inhibitors, antifungal and antibacterial agents, and immunomodulatory substances. (L1965, A3055)
+Properties:safety: Acute Toxic
+smiles: CC(C)[C@H]1C(=O)O[C@@H](C(=O)N([C@H](C(=O)O[C@@H](C(=O)N([C@H](C(=O)O[C@@H](C(=O)N1C)C(C)C)C(C)C)C)C(C)C)C(C)C)C)C(C)C
+formula: C33H57N3O9
+chem_properties: Molecular Weight: 639.8 g/mol
+XLogP3: 6.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 9
+Rotatable Bond Count: 6
+Exact Mass: 639.40948040 Da
+Monoisotopic Mass: 639.40948040 Da
+Topological Polar Surface Area: 140
+Heavy Atom Count: 45
+Formal Charge: 0
+Complexity: 952
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 6
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

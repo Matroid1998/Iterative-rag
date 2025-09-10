@@ -1,0 +1,29 @@
+Description:
+A key component in lithium-ion batteries used for powering electric vehicles.
+
+Text:
+Electrication of the transportation industry is now taking place at an increasingly rapid pace,
+enabling signicant strides towards a carbon neutral future. Fundamental to this transition has been
+the development of the lithiumion battery, which powers the majority of electric vehicles on the
+road today. Notwithstanding the environmental benets of this transition, reliance on the lithium
+ion battery poses novel challenges, with consumer concerns including range anxiety, fear of battery
+failure and charging time. Easing these concerns demands the ability to accurately forecast battery
+performance, and specically when usage conditions are variable. The key challenge is the heterogeneity of the battery. Each user uses their car dierently, and
+even across a single battery pack not all cells are necessarily charged or discharged with identical
+current 13.
+
+
+---
+
+Description:
+Involved in plating processes and can contribute to electrode degradation in batteries.
+
+Text:
+These dierences mean that each cells internal state, including the extent of lithium
+plating or electrode cracking, can vary signicantly both at an intrapack and interpack level 4, 5. To quantify the extent of degradation within cells, and to identify cells that have reached their
+End of Life, the scalar State of Health (SoH) metric is typically adopted, measured using previous
+cycle discharge capacity or internal resistance 6, 7. The problem with this approach is that batteries
+with the same numerical SoH do not necessarily exhibit identical levels of each degradation process
+(for example, lithium plating or electrode cracking), yet the impact of future cell usage on the cells
+future performance and degradation pathway depends signicantly on the type of degradation that
+has already occurred 810.

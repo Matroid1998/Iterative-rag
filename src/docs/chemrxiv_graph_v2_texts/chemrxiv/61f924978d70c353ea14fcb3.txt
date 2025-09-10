@@ -1,0 +1,40 @@
+Description:
+Prebiotically relevant molecules that can form coacervate protocells by liquid-liquid phase separation.
+
+Text:
+Compartmentalization of reagents can increase 
+36 
+local concentrations and create distinct chemical microenvironments, and might have therefore been an 
+37 
+important step in gaining sufficiently high reaction rates and selectivity at the origins of life.1013 
+38 
+Compartmentalization through selfassembly of amphiphiles into vesicles has long been 
+39 
+considered as the general mechanism for the formation of the first protocells.14 However, this 
+40 
+encapsulation was likely inefficient without the presence of active exchange of components by complex 
+41 
+transport machineries, limiting the local concentrations that could be reached inside these protocells.15 
+42 
+Since the discovery that membraneless organelles in modern cells can form by liquidliquid phase 
+43 
+separation (LLPS), the analogous formation of protocells by LLPS has received increasing interest.1618 
+44 
+Multiple weak associative interactions, such as chargecharge and cation interactions, between 
+45 
+molecules can drive LLPS to form (complex) coacervates, which are droplets of a soluterich phase 
+46 
+dispersed in a dilute continuous phase.19, 20 These coacervate protocells have been shown to 
+47 
+spontaneously concentrate reagents and increase reaction rates,21, 22 and recently it has been shown that 
+48 
+they can even be formed by prebiotically relevant mononucleotides and short homopeptides containing 
+49 
+just five residues.23, 24 Moreover, droplets made from peptides with prebiotically relevant low molecular 
+50 
+weight were found to be more effective at generating distinct pH microenvironments, accumulating RNA 
+51 
+and stabilizing its secondary structure, than coacervates formed by high molecular weight 
+52 
+polyelectrolytes.24 
+53

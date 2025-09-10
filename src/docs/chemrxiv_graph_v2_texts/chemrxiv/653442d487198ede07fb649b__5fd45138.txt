@@ -1,0 +1,46 @@
+Description:
+Used in tandem copolymerization with an oxanorbornene comonomer for circular HDPE-like polyester.
+
+Text:
+Several notable recent advances were made towards circular HDPElike polymers with closed
+loop chemical recyclability through incorporation of cleavable linkages such as ester bonds into 
+the PE backbones. In 2021, longchain alkyl polyester produced via polycondensation of diol 
+or diester monomers26,27 was reported to possess HDPElike thermomechanical properties23.In 
+2022, another approach to circular HDPElike polyester was developed using the diester end
+capped PE obtained via tandem dehydrogenationmetathesis of postconsumer HDPE24 or 
+tandem ethylene copolymerization with an oxanorbornene comonomer, retroDielsAlder 
+reaction, and metathesis25 (Fig. 1b).
+
+
+---
+
+Description:
+A feedstock used in the copolymerization with olefins to produce copolymers.
+
+Text:
+As compared to HDPE, ethyleneolefin copolymers 
+produced atscale by direct copolymerization of ethylene and olefins have a broader range of 
+applications as well as highvalue polyolefin elastomer (POE) and robust olefin block 
+copolymer (OBC) thermoplastic elastomer (plastomer) materials, but chemical or mechanical 
+recycling of such copolymers is considerably more challenging due to their chemical and 
+structural heterogeneity. Hence, there is a pressing need to render such materials chemically 
+circular but achieving such a desirable goal presents a particular challenge, due to difficulties 
+in introducing controllable branches, while simultaneously installing chemical circularity, and 
+also in primarily using industrially abundant and inexpensive feedstocks, ethylene and olefins 
+such as 1hexene or 1octene.
+
+
+---
+
+Description:
+A compound used in coordination (co)polymerization in the plastics industry.
+
+Text:
+We reasoned that an effective and scalable approach should be an innovative dropin 
+process based on the widely practiced coordination (co)polymerization of ethylene and 
+olefins in the current plastics industry28.To realize this strategy, we first synthesize ABtype 
+telechelic PE building blocks endcapped with alcohol (OH) functionality (A) at one end and 
+ester (CO2Et) functionality (B) at the other by coordinative chaintransfer polymerization 
+(CCTP) of ethylene and 1octene with suitable chaintransfer and chainend capping reagents. We further hypothesized that the advantage of AB telechelic building blocks over A2  B2 ones 
+in polycondensation, especially concerning precise stoichiometric control, should allow for 
+LEGOtype modular assembly of AB building blocks into ondemand PE materials.

@@ -1,0 +1,19 @@
+Description:
+A quasihexagonal-phase 2D carbon material with a semiconducting bandgap.
+
+Text:
+The allure of metalfree semiconductors with narrow bandgaps
+has captured significant attention in recent decades, proving
+exceptionally versatile for various electronic applications such
+as infrared devices, lightemitting diodes, electrocatalysts, and
+thermophotovoltaics. This interest has been further fueled by
+the emergence of twodimensional nanomaterials in material sci
+ence and engineering following the groundbreaking discovery of
+graphene by a collaborative effort in the past decade14. Recently, a breakthrough occurred with the experimental realiza
+tion of a singlecrystal 2D carbon material, termed monolayer
+quasihexagonalphase fullerene (C60), boasting a semiconduct
+ing bandgap of approximately 1.6 eV5. This achievement ad
+dresses the issue of null bandgaps observed in other 2D carbon
+based materials. Using an organic cation slicing strategy, re
+searchers exfoliated quasihexagonal bulk single crystals to ob
+tain monolayer polymeric C60.

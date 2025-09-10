@@ -1,0 +1,26 @@
+Name: Clomazone
+Text:
+Clomazone is an isoxazolidinone that is 1,2-oxazolidin-3-one substituted by a 2-chlorobenzyl group at position 2 and two methyl groups at position 4. It has a role as an environmental contaminant, a xenobiotic, a herbicide, an agrochemical and a carotenoid biosynthesis inhibitor. It is a member of monochlorobenzenes and an isoxazolidinone.
+Clomazone, a white solid compound, is an agricultural herbicide, and has been the active ingredient of products named. The molecule consists of a 2-chlorobenzyl group bound to a N-O heterocycle called Isoxazole.
+Properties:safety: Irritant and Environmental Hazard
+smiles: CC1(CON(C1=O)CC2=CC=CC=C2Cl)C
+formula: C12H14ClNO2
+chem_properties: Molecular Weight: 239.70 g/mol
+XLogP3: 2.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 2
+Exact Mass: 239.0713064 Da
+Monoisotopic Mass: 239.0713064 Da
+Topological Polar Surface Area: 29.5
+Heavy Atom Count: 16
+Formal Charge: 0
+Complexity: 280
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,24 @@
+Name: Ferrocene
+Text:
+Ferrocene appears as orange crystalline solid or orange-yellow powder. Sublimes above 212 °F. Camphor odor. (NTP, 1992)
+Properties:safety: Flammable and Irritant and Health Hazard and Environmental Hazard
+smiles: C1=C[CH]C=C1.C1=C[CH]C=C1.[Fe]
+formula: C10H10Fe
+chem_properties: Molecular Weight: 186.03 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 186.013186 Da
+Monoisotopic Mass: 186.013186 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 38.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

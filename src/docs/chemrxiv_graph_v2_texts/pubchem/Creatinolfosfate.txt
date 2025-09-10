@@ -1,0 +1,27 @@
+Name: Creatinolfosfate
+Text:
+Creatinolfosfate is a phosphoethanolamine.
+COP is under investigation for the treatment of Rheumatoid Arthritis, Mature B-Cell Lymphoma, and Noninflammatory Degenerative Joint Disease. COP has been investigated for the treatment of Diabetic Retinopathy.
+CREATINOLFOSFATE is a small molecule drug with a maximum clinical trial phase of II and has 1 investigational indication.
+Properties:safety: Irritant
+smiles: CN(CCOP(=O)(O)O)C(=N)N
+formula: C4H12N3O4P
+chem_properties: Molecular Weight: 197.13 g/mol
+XLogP3: -2.5
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 5
+Exact Mass: 197.05654287 Da
+Monoisotopic Mass: 197.05654287 Da
+Topological Polar Surface Area: 120
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 202
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

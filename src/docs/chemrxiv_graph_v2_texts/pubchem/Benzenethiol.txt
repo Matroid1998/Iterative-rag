@@ -1,0 +1,27 @@
+Name: Benzenethiol
+Text:
+Phenyl mercaptan appears as a clear liquid with a repulsive odor. Boiling point 168.3 °C. Insoluble in water and denser than water. Very toxic by ingestion, skin absorption, and by inhalation. Used as a chemical intermediate and in mosquito control.
+Thiophenol is a thiol in which the sulfanyl group is attached to a phenyl group.
+See also: Phenylthio radical (annotation moved to).
+Properties:safety: Flammable and Corrosive and Acute Toxic and Irritant and Environmental Hazard
+smiles: C1=CC=C(C=C1)S
+formula: C6H6S
+chem_properties: Molecular Weight: 110.18 g/mol
+XLogP3: 2.5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 110.01902136 Da
+Monoisotopic Mass: 110.01902136 Da
+Topological Polar Surface Area: 1
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 46.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,33 @@
+Name: Calcifediol
+Text:
+Calcidiol is a hydroxycalciol that is calciol in which the hydrogen at position 25 has been replaced by a hydroxy group. A prehormone resulting from the oxidation of calciol in the liver, it is further hydroxylated in the kidney to give calcitriol, the active form of vitamin D3. It has a role as a bone density conservation agent, a nutraceutical, a metabolite, a human metabolite and a mouse metabolite. It is a hydroxycalciol, a member of D3 vitamins and a diol.
+The major circulating metabolite of vitamin D3 (cholecalciferol). It is produced in the liver and is the best indicator of the body's vitamin D stores. It is effective in the treatment of rickets and osteomalacia, both in azotemic and non-azotemic patients. Calcifediol also has mineralizing properties.
+Calcifediol anhydrous is a Vitamin D3 Analog.
+Calcifediol has been reported in Solanum glaucophyllum and Homo sapiens with data available.
+Calcifediol is an orally available synthetic form of the calcitriol prohormone calcifediol (25-hydroxyvitamin D), which can be used for vitamin D supplementation, and with potential immunomodulating activity. Upon oral administration, calcifediol is taken up by the body and converted, in the kidneys, to the active form calcitriol (1,25-dihydroxyvitamin D or 1,25(OH)2D). This form increases and normalizes vitamin D plasma levels, which, in turn, regulates calcium plasma levels, and normalizes elevated parathyroid hormone (PTH) levels by suppressing both PTH synthesis, and secretion. Vitamin D modulates and enhances the innate and adaptive immune responses. This may improve unregulated inflammation and prevents the production of pro-inflammatory cytokines. Specifically, vitamin D binds to its receptor vitamin D receptor (VDR) which is widely expressed on immune cells and epithelial cells. This stimulates neutrophils, macrophages, and natural killer (NK) cells, and activates epithelial cells to produce antimicrobial peptides (AMPs). In addition, upon infection, vitamin D promotes the migration of myeloid dendritic cells (mDCs) to lymphoid organs where they activate B- and T-lymphocytes.
+Calcifediol Anhydrous is the anhydrous form of calcifediol, an orally available synthetic form of the calcitriol prohormone calcifediol (25-hydroxyvitamin D), which can be used for vitamin D supplementation, and with potential immunomodulating activity. Upon oral administration, calcifediol is taken up by the body and converted, in the kidneys, to the active form calcitriol (1,25-dihydroxyvitamin D or 1,25(OH)2D). This form increases and normalizes vitamin D plasma levels, which, in turn, regulates calcium plasma levels, and normalizes elevated parathyroid hormone (PTH) levels by suppressing both PTH synthesis, and secretion. Vitamin D modulates and enhances the innate and adaptive immune responses. This may improve unregulated inflammation and prevents the production of pro-inflammatory cytokines. Specifically, vitamin D binds to its receptor vitamin D receptor (VDR) which is widely expressed on immune cells and epithelial cells. This stimulates neutrophils, macrophages, and natural killer (NK) cells, and activates epithelial cells to produce antimicrobial peptides (AMPs). In addition, upon infection, vitamin D promotes the migration of myeloid dendritic cells (mDCs) to lymphoid organs where they activate B- and T-lymphocytes.
+CALCIFEDIOL ANHYDROUS is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1980 and has 3 approved and 5 investigational indications.
+The major circulating metabolite of vitamin D3 (cholecalciferol).  It is produced in the liver and is the best indicator of the body's vitamin D stores. It is effective in the treatment of rickets and osteomalacia, both in azotemic and non-azotemic patients. Calcifediol also has mineralizing properties.
+The major circulating metabolite of VITAMIN D3. It is produced in the LIVER and is the best indicator of the body's vitamin D stores. It is effective in the treatment of RICKETS and OSTEOMALACIA, both in azotemic and non-azotemic patients. Calcifediol also has mineralizing properties.
+Properties:safety: Acute Toxic and Health Hazard
+smiles: C[C@H](CCCC(C)(C)O)[C@H]1CC[C@@H]\2[C@@]1(CCC/C2=C\C=C/3\C[C@H](CCC3=C)O)C
+formula: C27H44O2
+chem_properties: Molecular Weight: 400.6 g/mol
+XLogP3: 6.2
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 6
+Exact Mass: 400.334130642 Da
+Monoisotopic Mass: 400.334130642 Da
+Topological Polar Surface Area: 40.5
+Heavy Atom Count: 29
+Formal Charge: 0
+Complexity: 655
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 5
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 2
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

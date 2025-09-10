@@ -1,0 +1,13 @@
+Description:
+Forms nanocrystals used in mechanical property studies.
+
+Text:
+The mechanical properties of substratesupported thin films are commonly studied by nanoindentation
+tests.15,16 However, this method has a lower limit on the film thickness, which should exceed 10 times
+the indentation depth to avoid interference from the substrate. As an alternative approach, microbulge
+tests have been used to probe the mechanical properties of freestanding membranes from different ma
+terials, such as carbon nanosheets,17 titania nanocrystals (TNCs),18 and gold nanoparticles.19 Using
+bulge experiments, the elastic properties are sampled nondestructively over a larger area compared to
+local nanoindentation tests. In a recent study, we applied microbulge tests to measure the elastic prop
+2
+httpsdoi.org10.26434chemrxiv202413mrc ORCID httpsorcid.org0009000069008236 Content not peerreviewed by ChemRxiv. License CC BY 4.0

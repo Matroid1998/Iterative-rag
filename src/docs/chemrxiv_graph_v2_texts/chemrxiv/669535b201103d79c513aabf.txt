@@ -1,0 +1,11 @@
+Description:
+A molecule that reacts with luciferin in the bioluminescence process.
+
+Text:
+Firefly bioluminescence is a spectacular phenomenon of light emission by living 
+organisms that is wellstudied experimentally 1,2 and has a theoretical interpretation 3. The firefly bioluminescence originates from the interaction of the organic chromophore D
+luciferin and luciferase protein, the generally accepted scheme is presented in Figure 1. Figure 1. The generally accepted scheme of mechanism of firefly bioluminescence 4. The stages that precede reaction with the dioxygen molecule imply Dluciferin reaction 
+with the ATP forming protonated luciferyl adenylate (DLH2AMP) and its C4 carbon 
+deprotonation resulting in a formal carbanion that is stabilized by the charge delocalization in 
+the conjugated system of the heterocycles. The C4 deprotonation process requires a proton 
+acceptor and lacks complete understanding.

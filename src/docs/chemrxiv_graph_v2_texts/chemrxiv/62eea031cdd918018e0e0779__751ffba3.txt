@@ -1,0 +1,14 @@
+Description:
+A material used in membranes that selectively adsorbs gases, requiring regeneration or replacement when saturated.
+
+Text:
+Approaches to overcome the crosssensitivity of a sensor include (1, materials engineering) tune
+the chemistry of its recognition element to enhance its selectivity for the analyte; (2, sensor
+array) include additional sensors harboring dierent recognition elements, to construct a sensor
+array 22 whose response pattern provides more information about the gas; (3, preltering)
+lter the gas before it is exposed to the sensor, to prevent the interferent from reaching and
+interacting with its recognition element. Approach (1) is most fundamentally dicult. Approach
+(2) necessitates machine learning algorithms to interpret the response pattern 23. In approach
+(3), a lter that selectively (physi or chemi)adsorbs the interferent 2429such as a zeolite
+membrane 27will eventually saturate with gas and thus require regeneration or replacement
+20.

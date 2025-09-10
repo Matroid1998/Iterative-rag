@@ -1,0 +1,27 @@
+Description:
+Functionalized lysophosphatidylcholine lipid that undergoes native chemical ligation.
+
+Text:
+While several 
+studies have observed stabilizing effects using mixed membranes (1621 , an intriguing alternative is that chemical 
+reactions between simple and abundant molecules could have led to the generation of more complex amphiphilic 
+species. In this scenario, a nonenzymatic protometabolism would be required to generate lipid species that would then 
+spontaneously assemble to form a closed membranebound protocell. However, to date there are no robust examples 
+of chemistries that can lead to well characterized celllike membranes from shortchain precursors. Previously, we had reported that a cysteine (Cys functionalized lysophosphatidylcholine lipid undergoes native 
+chemical ligation (NCL with sodium 2mercaptoethane sulfonate (MESNA thioesters to produce noncanonical 
+phospholipids (22, 23 .
+
+
+---
+
+Description:
+An amino acid that may undergo native chemical ligation in the presence of acyl thioesters.
+
+Text:
+Interestingly, it was also observed that the remaining thiol group of the diacylated product can 
+further react with additional thioesters to generate phospholipids containing three alkyl chains. Inspired by these findings, 
+we hypothesized that cysteine itself may undergo NCL in the presence of acyl thioesters followed by substrate reloading, 
+leading to the production of diacylcysteine species. Both cysteine and shortchain thioesters have been shown to be 
+synthesized by prebiotically plausible routes, and both can be produced in abundance, the latter through derivatization 
+of shortchain fatty acids (24, 25 . Furthermore, recent studies have highlighted the significance of cysteine in prebiotic 
+metabolism, for instance as a catalyst for peptide bond formation (24 .

@@ -1,0 +1,18 @@
+Description:
+Important intermediates for the formation of new carbon-carbon bonds in synthetic chemistry.
+
+Text:
+Organomagnesium halides, also known as Grignard reagents, 
+are important intermediates for the formation of new carbon
+carbonbonds in synthetic chemistry. In the pharmacy sector 
+they became especially useful for the formation of active 
+pharmaceutical ingredients, e.g. painreliever ibuprofen and 
+breast cancer drug tamoxifen.1 Grignard reagents originate 
+from an exothermic reaction of metallic magnesium (mostly 
+powder or turnings) and a halide in a water free ethereal 
+solvent. Side product formation due to the Wurtz coupling 
+reaction can occur, in which a Grignard reagent molecule 
+(product) reacts with a halide molecule (educt), diminishing the 
+yield of the Grignard reagent.2 Therefore, reducing the contact 
+between the formed Grignard reagent and the halide educt 
+would prevent Wurtz coupling.

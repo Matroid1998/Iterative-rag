@@ -1,0 +1,23 @@
+Description:
+In oxygen ion conductors, oxygen defects such as vacancies and interstitials determine ionic conductivity.
+
+Text:
+Mixed ionicelectronic conductivity has been identified as one of the important properties of 
+materials to be used as electrodes in solid oxide fuel cells (SOFCs) and electrolysers (SOECs), 
+collectively termed Solid Oxide Cells (SOCs). As such ionic conductivity plays an important 
+role in determining the performance of oxygen ion conductors as electrodes in SOCs. Ionic 
+conductivity is the movement of an ion from one site to another through defects in the crystal. In oxygen ion conductors such as the RuddlesdenPopper (RP) phase materials where the 
+composition is An1BnO3n1, A Ln and B  transition metals (n  13), it is the oxygen defects 
+(vacancies andor interstitials) which determine the ionic conductivity because ionic 
+conductivity of a material is directly proportional to the concentration of lattice defects.
+
+
+---
+
+Description:
+Has a sizeable neutron scattering length of 5.8050.004 fm1, making it easily detectable by neutron powder diffraction.
+
+Text:
+In this 
+context, the investigation of the oxygen defects in these materials assumes importance. It is here that neutron powder diffraction (NPD) plays a crucial role because the neutron 
+scattering length of an oxygen atom is sizeable, 5.8050.004 fm1 and thus easily detectable by

@@ -1,0 +1,35 @@
+Description:
+A reactive oxygen species whose formation in microdroplets is influenced by electric fields and partial solvation.
+
+Text:
+Some of the im
+portant variables driving the water microdroplet chemistry 
+have been identified to be i) high intrinsic electric fields (up 
+to 109 Vm) at the droplet surface,5, 22, 3236 ii) orientation of 
+reactant(s) at the droplet surface,15 iii) partial solvation of 
+reactant(s) at the airwater interface,3738 iv) droplet surface 
+polarity or pH (aciditybasicity),1, 3944 v) confinement of re
+actantsreagents in small volumes,4, 41, 4546 vi) evaporation 
+of droplet and thereby sizes and associated lifetimes.4, 4756 
+Besides the preceding factors, impurities like ozone or other 
+reactive oxygen species at the microdroplet interface have 
+been suggested to influence the interfacial chemistry in mi
+crodroplets.5760 The origin of these impurities and reactive 
+oxygen species, including H2O2, remains a topic of intense 
+debate.57, 6068 Studies by Mishra and coworkers found no 
+role of interfacial electric fields (IEF) in the formation of 
+H2O2.57, 63 Instead, they suggested the origins of HO in wa
+ter microdroplets is closely linked to the use of ultrasonic 
+humidifiers, ambient ozone57 or dissolved oxygen.64 Zare 
+and coworkers later affirmed that H2O2 can be formed in 
+microdroplets in the absence of ozone, however, the quan
+tity of H2O2 drops by two orders of magnititude.61 Besides, 
+Colussi proposed that HO, consequently H2O2, are formed 
+when partially hydrated HO and H ions at the surface of 
+colliding charged microdroplets undergo exothermic elec
+tron transfer.67 The HeadGordon group provided theoreti
+cal supports to the role of electric field, partial solvation, 
+and charges in microdroplet H2O2 chemistry.6566 
+Several theoretical and computational works have 
+shown the presence of large IEFs at the airwater interface 
+httpsdoi.org10.26434chemrxiv2024wwgs1v2 ORCID httpsorcid.org0000000196765734 Content not peerreviewed by ChemRxiv.

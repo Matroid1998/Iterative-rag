@@ -1,0 +1,13 @@
+Description:
+Nanoparticles initially oxygen saturated, affecting etching and passivation behavior.
+
+Text:
+We 
+previously reported a study of sublimation and O2 etching of individual Si and SiC nanoparticles 
+(NPs), and interestingly, it was found that under etching conditions, the NPs eventually passivated, 
+even though the temperature (TNP) and PO2 conditions examined were in the range where bulk Si 
+passivation is not observed. This difference in passivation was attributed to the limited volume of 
+the NPs, affecting surfacetosubsurface oxygen diffusion. Silica NPs, where the NP volume is 
+initially oxygen saturated, provide a different perspective on the etching and passivation behavior 
+for Sirich materials, and particularly on the role of subsurface oxygen, and that is the focus of this 
+work. There is considerable interest in ultrahigh temperature ceramics (e.g.

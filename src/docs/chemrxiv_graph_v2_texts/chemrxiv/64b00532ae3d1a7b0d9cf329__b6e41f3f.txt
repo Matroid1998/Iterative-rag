@@ -1,0 +1,15 @@
+Description:
+A shell material used in colloidal quantum dots to influence their optical properties.
+
+Text:
+. InP colloidal quantum dots (CQDs) have raised 
+considerable interest for photonic technologies operating in the 
+visible and nearinfrared, because of their tunable band gap in 
+the range of 1.3  3 eV, strong light absorption, efficient lumi
+nescence and compliance with European safety regulations on 
+electronic products (ROHS).1 However, the size dependent op
+tical properties of InP CQDs have not been reported to the level 
+of detail that is common for other CQDs. This is due to difficul
+ties in synthesizing luminescent samples of various sizes with 
+narrow size distributions free of dopants (e.g. Zn) or shells (e.g. ZnSe1xSx). In this regard, considerable progress has been re
+cently achieved. On one hand the works of Won et al., Li et al. and Xu et al.

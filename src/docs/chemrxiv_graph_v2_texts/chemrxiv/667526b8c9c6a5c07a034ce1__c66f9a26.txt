@@ -1,0 +1,26 @@
+Description:
+Compounds containing silicon and hydrogen, often used in catalysis.
+
+Text:
+The coordination of silanes and boranes to transition metal centers is of fundamental interest to 
+catalysis.
+
+
+---
+
+Description:
+Key intermediates in dehydrocoupling and polymerization, and involved in hydrosilylation of unsaturated bonds.
+
+Text:
+For example, addition of silanes to transition metals has the potential to lead to the formation 
+of silane complexes which are key intermediates in dehydrocoupling and polymerization of 
+silanes,13 along with hydrosilylation of unsaturated carboncarbon and carbonheteroatom bonds.4 
+Similarly, borane complexes, derived from addition of boranes to transition metals, are widespread 
+and underpin catalytic hydroboration and CH borylation methodologies.58 
+
+In the past few years, the complex concept has expanded to include the coordination of molecular 
+zinc hydride complexes to other transition metal centers (TM) creating new heterometallic TMHZn 
+motifs.911 These species have recently been invoked as intermediates in the catalytic CH zincation 
+of aromatic and heteroaromatic substrates.12 Despite notable advances in this area, all the reported 
+complexes described to date are welldefined closedshell species based on 16 or 18electron count 
+at the transition metal.

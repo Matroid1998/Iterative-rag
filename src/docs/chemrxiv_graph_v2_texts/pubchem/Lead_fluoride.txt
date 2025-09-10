@@ -1,0 +1,25 @@
+Name: Lead fluoride
+Text:
+Lead fluoride is an odorless white solid. Sinks in water. (USCG, 1999)
+Lead(II) fluoride is a fluoride of lead. It is used in certain types of glass, in phosphors for television-tube screens, and as a catalyst for the manufacture of picoline. Lead is a heavy metal and stable element with the symbol Pb and the atomic number 82, existing in metallic, organic, and inorganic forms. It is mainly found in nature as the mineral galena (PbS), cerussite (PbCO3) or anglesite (PbSO4), usually in ore with zinc, silver, or copper. (L21, L401)
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: F[Pb]F
+formula: F2Pb
+chem_properties: Molecular Weight: 245 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 245.97346 Da
+Monoisotopic Mass: 245.97346 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 2.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

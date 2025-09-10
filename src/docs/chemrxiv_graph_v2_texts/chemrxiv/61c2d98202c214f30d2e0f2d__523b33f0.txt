@@ -1,0 +1,24 @@
+Description:
+When positioned in PAHs with boron, it contributes to thermally activated delayed fluorescence with narrow emission FWHM.
+
+Text:
+Nowadays, the synthesis of BNdoped arenes has 
+become one of the most popular topics in organic chemistry and 
+material chemistry, and numerous new BNdoped aromatic 
+compounds have been synthesized and demonstrated to have 
+very 
+distinct 
+properties 
+in 
+optoelectronic 
+materials.4 
+Representative applications of Bdoped polycyclic aromatic 
+hydrocarbons (PAHs) have been demonstrated in organic field
+effect transistor (OFETs)5 and organic light emitting diodes 
+(OLEDs).6 Particularly, since PAHs decorated by parapositioned 
+boron and nitrogen atoms has been reported to show thermally 
+activated delayed fluorescence (TADF) with narrow fullwidth at 
+halfmaximum (FWHM) of emission based on efficient HOMO
+LUMO separation by the multiple resonance effect in 2016,6a 
+BNdoped PAHs have been extensively studied for next
+generation OLEDs.

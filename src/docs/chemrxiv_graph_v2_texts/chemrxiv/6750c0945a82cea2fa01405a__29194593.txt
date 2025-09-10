@@ -1,0 +1,16 @@
+Description:
+Materials whose framework phases are directed by OSDAs during synthesis.
+
+Text:
+More recent work using support vector machines has indicated that
+formation energies of siliceous frameworks alone are insufficient for identify
+ing synthesis targets from hypothetical frameworks 8. Instead, accounting
+for the most likely feasible composition of hypothetical frameworks can in
+crease the likelihood of identifying synthesis targets. OSDAs are molecules
+that template the void spaces of these zeolite materials during synthesis, thus
+directing the formation of distinct framework phases. OSDAs are typically
+composed primarily of C, N, and H, where the N atoms in these molecules
+are often quaternary cations. While other synthesis parameters can be tuned
+to affect the final zeolite phase that forms, the selection of an OSDA (when
+used) is vital in controlling the zeolite framework that forms during synthe
+sis.

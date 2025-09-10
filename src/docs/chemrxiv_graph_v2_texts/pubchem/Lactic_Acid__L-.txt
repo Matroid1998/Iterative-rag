@@ -1,0 +1,32 @@
+Name: Lactic Acid, L-
+Text:
+(S)-lactic acid is an optically active form of lactic acid having (S)-configuration. It has a role as an Escherichia coli metabolite and a human metabolite. It is a 2-hydroxypropanoic acid and a (2S)-2-hydroxy monocarboxylic acid. It is a conjugate acid of a (S)-lactate. It is an enantiomer of a (R)-lactic acid.
+L-Lactic acid is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+L-Lactic acid has been reported in Arabidopsis thaliana, Homo sapiens, and other organisms with data available.
+Lactic Acid, L- is the levorotatory isomer of lactic acid, the biologically active isoform in humans.  Lactic acid or lactate is produced during fermentation from pyruvate by lactate dehydrogenase. This reaction, in addition to producing lactic acid, also produces nicotinamide adenine dinucleotide (NAD) that is then used in glycolysis to produce energy source adenosine triphosphate (ATP).
+Lactic acid plays a role in several biochemical processes and is produced in the muscles during intense activity. Lactate measurement in the critically ill has been traditionally used to stratify patients with poor outcome. However, plasma lactate levels are the result of a finely tuned interplay of factors that affect the balance between its production and its clearance. When the oxygen supply does not match its consumption, organisms such as man who are forced to produce ATP for their integrity adapt in many different ways up to the point when energy failure occurs. Lactate, being part of the adaptive response, may then be used to assess the severity of the supply/demand imbalance. In such a scenario, the time to intervention becomes relevant: early and effective treatment may allow the cell to revert to a normal state, as long as the oxygen machinery (i.e. mitochondria) is intact. Conversely, once the mitochondria are deranged, energy failure occurs even in the presence of normoxia. The lactate increase in critically ill patients may therefore be viewed as an early marker of a potentially reversible state.  A number of studies have demonstrated that malignant transformation is associated with an increase in glycolytic flux and in anaerobic and aerobic cellular lactate excretion. Using quantitative bioluminescence imaging in various primary carcinomas in patients (uterine cervix, head and neck, colorectal region) at first diagnosis of the disease, lactate concentrations in tumors in vivo could be relatively low or extremely high (up to 40 micromol/g) in different individual tumors or within the same lesion. In all tumor entities investigated, high molar concentrations of lactate were correlated with a high incidence of distant metastasis already in an early stage of the disease. Low lactate tumors (< median of approximately 8 micromol/g) were associated with both a longer overall and disease free survival compared to high lactate lesions (lactate > approximately 8 micromol/g). Lactate dehydrogenase was found to be upregulated in most of these tumors compared to surrounding normal tissue.  (A3333, A3334).
+L-Lactic acid is a metabolite found in or produced by Saccharomyces cerevisiae.
+A normal intermediate in the fermentation (oxidation, metabolism) of sugar. The concentrated form is used internally to prevent gastrointestinal fermentation. (From Stedman, 26th ed)
+See also: Polylactide, L- (monomer of); Arnica montana; lactic acid, L-; zinc oxide (component of); Lactic Acid (annotation moved to) ... View More ...
+Properties:safety: Corrosive and Irritant
+smiles: C[C@@H](C(=O)O)O
+formula: C3H6O3
+chem_properties: Molecular Weight: 90.08 g/mol
+XLogP3: -0.7
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 1
+Exact Mass: 90.031694049 Da
+Monoisotopic Mass: 90.031694049 Da
+Topological Polar Surface Area: 57.5
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 59.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

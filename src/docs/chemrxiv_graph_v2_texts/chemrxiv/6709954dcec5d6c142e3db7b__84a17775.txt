@@ -1,0 +1,13 @@
+Description:
+Atoms whose configurations in a lattice can be rapidly explored using Bayesian optimization to affect phonon transport.
+
+Text:
+At present, determination of the stable atomistic configurations of doped atoms 
+and protons is a difficult and timeconsuming task since the initial configurations of the doping 
+atoms and protons can change depending on the size of the simulation cell and the number of 
+doped atoms. In addition, relaxation calculations using the density functional theory (DFT) 
+approach are required for each initial configuration, thereby rendering it impossible to perform 
+relaxation calculations for all possible initial configurations and to find stable structures using such 
+approaches. Using machine learning to optimize atomistic configurations, Ju et al.11 demonstrated that the 
+configurations of silicon and germanium atoms in a lattice could be rapidly explored by means of 
+Bayesian optimization to maximize or minimize phonon transport.

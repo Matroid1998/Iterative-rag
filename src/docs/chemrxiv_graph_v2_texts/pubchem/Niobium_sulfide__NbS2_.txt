@@ -1,0 +1,24 @@
+Name: Niobium sulfide (NbS2)
+Text:
+See also: Niobium Disulfide (annotation moved to).
+Properties:safety: Irritant
+smiles: S=[Nb]=S
+formula: NbS2
+chem_properties: Molecular Weight: 157.04 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 156.85052 Da
+Monoisotopic Mass: 156.85052 Da
+Topological Polar Surface Area: 64.2
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 18.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

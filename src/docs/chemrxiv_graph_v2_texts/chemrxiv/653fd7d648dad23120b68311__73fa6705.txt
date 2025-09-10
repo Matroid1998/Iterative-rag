@@ -1,0 +1,42 @@
+Description:
+A core structure modified in spirolactone variants like thiofluorescein and carbofluorescein.
+
+Text:
+of a 
+strongly electrondeficient bridging group has been previously 
+demonstrated to shift the absorption and emission maxima, 
+mainly by lowering the LUMO energy level of the fluoro
+phore,1a into the red range (600 nm) preferred for higher light 
+penetration depth and lower phototoxicity. Unlike the spirolac
+tone variants with modified xanthene core (thiofluorescein,2 
+carbofluorescein3, Sifluorescein4 and their halogenated ver
+sions5), only the derivatives with 2alkyl or 2alkoxyphenyl 
+pendant ring have been reported for borafluorescein6 and phos
+phafluorescein,1 while sulfonebridged fluorone7 analogues of 
+fluorescein remain unknown outside of patent literature.8 
+A concise synthetic strategy to access sulfonefluoresceins 
+would involve nucleophilic addition of aryllithium or aryl
+magnesium reagents to the keto group of appropriately substi
+tuted 9Hthioxanthen9one 10,10dioxides.
+
+
+---
+
+Description:
+A component of fluorescein analogues with modified bridging groups.
+
+Text:
+These heterocy
+cles have found use in organic electronics as acceptor units9 in 
+building blocks for thermally activated delayed fluorescence 
+emitters, in particular in challenging recent applications such as 
+phosphorescent10 and circularly polarized OLEDs.11 
+
+Scheme 1. (a) Fluorescein Analogues with Xanthene Ring Modified by Varying Bridging Groups and (b) Modular Synthetic 
+Approach to Thioxanthone 10,10Dioxides. method a PhI(OAc)2 (2 equiv. ), Ru(pcymene)Cl22 (2.5 mol), TFAA, TFA, 80 C, 16 h; method b Cu(OAc)2 (2 equiv. ), CpRhCl22 (4 
+mol), DMF, 80 C, 1821 h; method c Cu(OAc)2 (2 equiv. ), Rh(CO)2(acac) (5 mol), Na2CO3 (2 equiv. ), DMF, 120 C, 24 h.
+httpsdoi.org10.26434chemrxiv2023pr52z ORCID httpsorcid.org0000000298856434 Content not peerreviewed by ChemRxiv. License CC BY 4.0
+
+2 
+
+Scheme 2.

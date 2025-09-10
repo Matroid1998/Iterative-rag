@@ -1,0 +1,12 @@
+Description:
+Forms bonds that play an important role in intermolecular forces affecting viscosity.
+
+Text:
+This was confirmed by atomic force microscopy9. We speculated that this force 
+might cause a measurable depression in the kinematic viscosity of a racemic mixture. There is to date 
+no fully quantitative theory of liquid viscosity10,11, but attractive intermolecular forces, especially 
+hydrogen bonds, clearly play an important role. For example, 2hydroxypropionic acid (lactic acid) is 
+at least fifty times more viscous than propionic acid. One would therefore expect viscosity to be 
+steeply dependent on hydrogen bond strength. Here we report that racemic lactic acid is less viscous 
+than its enantiomers. Classical molecular dynamics viscosity simulations of lactic acid enantiomers 
+show no such viscosity difference, consistent with it being a quantum effect.

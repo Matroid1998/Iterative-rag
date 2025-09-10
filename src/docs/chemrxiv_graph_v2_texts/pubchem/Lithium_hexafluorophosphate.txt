@@ -1,0 +1,24 @@
+Name: Lithium hexafluorophosphate
+Text:
+Lithium hexafluorophosphate is an inorganic lithium salt having hexafluorophosphate(1-) as the counterion. It is an electrolyte used in lithium-ion batteries. It contains a hexafluorophosphate(1-).
+Properties:safety: Corrosive and Acute Toxic and Irritant and Health Hazard
+smiles: [Li+].F[P-](F)(F)(F)(F)F
+formula: F6P.Li
+chem_properties: Molecular Weight: 151.9 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 0
+Exact Mass: 151.98018440 Da
+Monoisotopic Mass: 151.98018440 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 67.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

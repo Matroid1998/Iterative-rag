@@ -1,0 +1,39 @@
+Description:
+Hydrogenated towards methane using H2 produced with electrolysis of water.
+
+Text:
+The methanation reaction set the basis for similar reactions based on COx 
+10 
+hydrogenation, which involve the formation of higher hydrocarbons 1012 or alcohols 13,14. 11 
+In the overarching concept hydrogenation of CO2 or CO towards methane is performed utilizing 
+12 
+H2 produced with electrolysis of water. In a broader perspective, the PtG process can be 
+13 
+extended to the production of various hydrocarbons relevant for the use in the energy sector 
+14 
+or in the chemical value chain via the more general PowertoX approach 15. Already in 1902 
+15 
+Sabatier et al. discovered that methane is formed on Ni based catalysts according to the 
+16 
+stoichiometric eqs. (1) and (2) 16.
+
+
+---
+
+Description:
+Involved in hydrogenation reactions and can react with water to form CO2 and H2.
+
+Text:
+Besides these benefits for Fe based catalysts, additional watergasshift 
+24 
+(WGS, (3)) activity has to be considered as a competing reaction in CO2 hydrogenation 23, 
+25 
+while solid carbon formation via Boudouard reaction (4) and the formation of ethylene (5) as 
+26 
+major byproduct plays a potential role for CO hydrogenation under low temperature and 
+27 
+pressure conditions 24. 28 
+CO  H2O  CO2  H2 
+Ro   41 kJ mol1 
+(3) 
+2 CO  CO2  C()

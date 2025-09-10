@@ -1,0 +1,19 @@
+Description:
+Superconductors that are not traditional metals but doped oxides behaving like bad metals.
+
+Text:
+As explained in 5, the superconducting cuprates are
+very different from conventional superconductors, in the fact
+that they are not traditional metals, but instead doped oxides
+that behave like bad metals. Often, the pairing for supercon
+duction does not happen with electrons, but instead with the
+doped holes  which act as quasiparticles that pair up and
+behave like the Cooper pairs, but with opposite charge. It
+is still not fully known what drives the pairing mechanism
+to get superconductivity in these materials. Materials with
+these properties are deemed in the category of a typeII
+superconductor. Other types of superconductors have since
+been discovered beyond the cuprate family such as heavy
+fermionbased, buckminsterfullerinebased, carbonallotrope,
+ironpnictogenbased, nickelbased, and strontiumruthenate
+superconductors among others.

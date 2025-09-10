@@ -1,0 +1,14 @@
+Description:
+Ligands with donor properties that influence the stability and reactivity of transition metal complexes.
+
+Text:
+Phosphines represent a ubiquitous and extremely important class of ligands in organometallic 
+chemistry, and their donor properties greatly affect the coordination, thermodynamic stability, and 
+reactivity of transition metal complexes. Phosphines have been shown to significantly modulate the 
+reactivity of many organometallic catalyzed reactions, such as hydroformylation,13 crosscoupling,49 and 
+hydrogenation.10, 11 To develop new organometallic catalytic reactions where stability and reactivity is 
+modulated by phosphines it would be desirable to have extremely fast methods to calculate and explore 
+phosphine properties. In this general effort, Gensch, Sigman, and AspuruGuzik recently reported the 
+Kraken database that consists of over 300,000 mostly hypothetical phosphine ligands created based on a 
+combination of experimentally known phosphines.12 Along with structures, Kraken contains several 
+calculated steric and electronic descriptors.

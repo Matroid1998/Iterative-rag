@@ -1,0 +1,46 @@
+Description:
+A family of dyes used in SWIR imaging that are hydrophobic and prone to aggregation.
+
+Text:
+A growing suite of SWIR imaging agents have re
+cently been developed,5 with notable examples coming 
+from the cyanines,610 xanthenes,11, 12 and BODIPY fam
+ilies.13 However, these examples are hydrophobic and 
+intrinsically prone to aggregation. While nanoparticle 
+formulations can potentially offset these drawbacks, it 
+is preferable to develop complementary SWIR dyes 
+that do not require encapsulation for in vivo imaging. In 
+this study, we strategically remodeled the hemicyanine 
+dye (HD)14, 15 (a common NIR platform) for multimodal 
+SWIR FL and PA imaging.
+
+
+---
+
+Description:
+Truncated molecules that are blue shifted by 100 nm due to loss of conjugation.
+
+Text:
+Of note, complementary re
+modeling efforts have yielded PA and NIRII analogs.16, 
+17 However, in the present study, we selected this plat
+form owing to its relatively small size and ease of con
+version into activitybased sensing probes.16, 1823 Un
+fortunately, these favourable properties come at a cost 
+because HDs are essentially truncated cyanines which 
+are blue shifted by 100 nm. To compensate for the 
+loss of conjugation, we introduced two key structural 
+modifications using a modular synthetic route. Im
+portantly, the best dye (SWIRHD) we prepared, 
+Visible
+NIR
+SWIR
+Si
+N
+N
+Si
+N
+N
+O
+N
+N

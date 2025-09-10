@@ -1,0 +1,30 @@
+Description:
+Contains F0 centers which are neutral oxygen vacancies in the bulk crystal.
+
+Text:
+F centers can trap one or two electrons within the anion vacancy, resulting in
+the formation of F and F0 centers respectively. The electrostatic stabilization effectively
+retains these electrons within the vacancy due to the large Madelung constant of the ionic
+crystal.4
+In this study, we focus specifically on the neutral oxygen vacancy, the F0 center in the
+bulk of MgO crystal, and aim to understand the optical transitions involved. The F0 center
+in MgO has been extensively investigated.
+
+
+---
+
+Description:
+Electronically complex with disagreement between molecular quantum chemical and solid-state calculations on electronic states involved in optical absorption and emission spectra.
+
+Text:
+The optical absorption energy has been computed
+using quantum chemical embedded cluster approaches,5,6 periodic boundary conditions us
+ing equation of motion coupled cluster theory,7 quantum Monte Carlo8 and manybody
+perturbation theory methods.9,10 Despite their seemingly simple nature, MgO F0 centers are
+electronically complex, and there is disagreement between the molecular quantum chemical
+and solidstate calculations on the nature of the electronic states involved in the optical ab
+sorption and emission spectra. The absorption maxima has been experimentally determined
+to occur at 5.03 eV.11 The absorption process involving the midgap state can occur in two
+ways (i) an electron is promoted to the conduction band minimum (CBM), known in liter
+ature as photoionization, or (ii) defect localized excitation to one of the higher energy triply
+degenerate states.

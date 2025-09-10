@@ -1,0 +1,11 @@
+Description:
+Used as a bioorthogonal handle in click chemistry for immobilization.
+
+Text:
+In this approach the FFFs are used as the compound set in a 
+chemoproteomicenabled phenotypic screen.4 Any fragments eliciting the desired phenotype 
+are then incubated in the assay system (usually cultured cells) and irradiated with UV light. This results in the formation of a covalent adduct between the FFF and its molecular target. Interacting targets are enriched from the assay system using the bioorthogonal handle. In 
+the Cravatt approach, the bioorthogonal handle is an acetylene; click chemistry allows 
+immobilisation to a bead either directly or through a high affinity tag such as biotin. The 
+specificity of any interaction can be assured by carrying out a competitive control (FFF co
+incubated with a nonphotoaffinity analogue, in this case an acetamide analogue).

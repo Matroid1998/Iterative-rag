@@ -1,0 +1,29 @@
+Description:
+Involved in the oxygen evolution reaction (OER) as part of various renewable energy technologies.
+
+Text:
+The oxygen evolution reaction (OER) is a critical process in various renewable energy technologies, 
+including water splitting, metalair batteries, and fuel cells. It involves a complex fourelectron transfer 
+mechanism, which renders it kinetically sluggish and a significant bottleneck in overall system efficiency 
+1, 2. The electrochemistry of the OER encompasses several proposed mechanisms, including the adsorbate 
+evolution mechanism (AEM), the lattice oxygen mechanism (LOM), and the oxide path mechanism (OPM) 
+3.The AEM is the most widely accepted, involving the formation of various oxygencontaining 
+intermediates on the catalyst surface. The LOM suggests the participation of lattice oxygen atoms in the 
+reaction, while the OPM proposes the formation of higher oxidation state metaloxo species 3, 2 
+Interestingly, recent studies have revealed a correlation between pseudocapacitive behavior and OER 
+performance.
+
+
+---
+
+Description:
+Involved in the final desorption step of the classical OER mechanism, potentially rate-limiting or inhibiting.
+
+Text:
+For instance, the final oxygen desorption step has been identified as potentially ratelimiting 
+or even inhibiting in the classical OER mechanism, particularly on benchmark catalysts like IrO2 5 leading 
+to the proposal of novel reaction mechanisms to circumvent this bottleneck, emphasizing the need for a 
+clearer understanding of OER kinetics. Several strategies have been explored to enhance OER rates and overall catalytic performance. These 
+include structural regulation of catalysts through size engineering, defect engineering, field manipulation, 
+phase engineering, and heterojunction engineering 6. Additionally, doping of singleatom substrates with 
+single atom has shown promise in improving OER performance 6.
