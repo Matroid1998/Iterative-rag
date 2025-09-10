@@ -1,0 +1,7 @@
+Description:
+Involved in the oxygen evolution reaction (OER) in water electrolysis.
+
+Text:
+Hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) are the two 
+key reactions in a water electrolyser. Understanding the mechanisms of HER and OER is 
+necessary to improve the energy efficiency of green hydrogen production via water splitting.

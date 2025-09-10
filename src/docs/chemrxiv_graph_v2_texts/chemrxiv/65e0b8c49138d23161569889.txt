@@ -1,0 +1,15 @@
+Description:
+Binds to the conserved cofactor pocket of Smyd isoforms.
+
+Text:
+Smyd1 belongs to the SET (Suppressor of variegation, En
+hancer of Zeste, Trithorax) and MYND (MyeloidNervyDEAF1) domaincontaining protein
+family (SMYD), consisting of five members (Smyd15), which are methyltransferases whose
+catalytic SET domain is split by an MYND domain..5 In 2019, Edoardo et al. reported 11
+Smyd2 inhibitors and 6 Smyd3 inhibitors.6 To date, no published inhibitor targeted to the
+substrate pocket of Smyd1 is available. Only Sinefungin (SFG), which is similar to the en
+dogenous molecules SadenosylLmethionine (SAM) or SadenosylLhomocysteine (SAH),
+is known to bind to the conserved cofactor pocket of the three isoforms.7
+As shown in Figure 1.a, the Smyd1 protein includes three main domains8 The SET
+2
+httpsdoi.org10.26434chemrxiv2024qg66r ORCID httpsorcid.org000000023760580X Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

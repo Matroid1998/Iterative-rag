@@ -1,0 +1,17 @@
+Description:
+A full cubic unit cell with 24 cations distributed across 16 octahedral and 8 tetrahedral sites in a fully inverse spinel structure.
+
+Text:
+A
+fully inverse spinel structure has onehalf of occupied octahedral
+sites lled with A2 cations while the other half is lled with B3
+cations and all occupied tetrahedral sites are lled with B3. It is
+of note that due to the two different species across the octahedral
+sites in the inverse spinel structure, that there are many possi
+ble cation congurations for a fully inverse spinel whereas there
+is only a single normal conguration. The inversion in spinels
+results in a very large number of possible congurations. For a full cubic unit cell with formula A8B16O32, 24 cations are
+distributed across 16 octahedral and 8 tetrahedral sites. Using
+combinatorics there are total of
+24! 8!16! 735,471 possible cationic
+congurations.

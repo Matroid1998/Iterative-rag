@@ -1,0 +1,13 @@
+Description:
+A biocompatible conducting polymer known for its remarkable resistance to oxidation, low intrinsic cytotoxicity, and good mechanical strength, making it suitable for tissue engineering scaffolds.
+
+Text:
+Since their discovery in 1977, conducting polymers (CPs) have become highly 
+appealing materials for a wide range of uses. These applications span across diverse fields 
+including sensors1, capacitators2, solar cells3, drug delivery4, and wound dressing5. Especially, 
+biocompatible CPs such as polyaniline (PANI)6, polypyrrole7, polythiophene8, and poly (3,4
+ethylenedioxythiophene) (PEDOT)9, 10 displayed promising features for biomedical utilizations. This is primarily due to their optical transparency, chemical stability, and cytocompatibility. Among the stated CPs, particularly, PEDOT based materials have gained considerable 
+attention in recent the decade due to their remarkable resistance to oxidation, low intrinsic 
+cytotoxicity, and good mechanical strength11. These distinctive features have positioned 
+PEDOTs as an attractive candidate for the fabrication of biodegradable and electroconductive 
+polymers, particularly in the field of tissue engineering (TE) scaffolds1217.

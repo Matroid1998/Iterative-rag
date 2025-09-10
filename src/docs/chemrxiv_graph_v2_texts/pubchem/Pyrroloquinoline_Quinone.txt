@@ -1,0 +1,28 @@
+Name: Pyrroloquinoline Quinone
+Text:
+Pyrroloquinoline quinone is a pyrroloquinoline having oxo groups at the 4- and 5-positions and carboxy groups at the 2-, 7- and 9-positions. It has a role as a water-soluble vitamin (role), a cofactor, an antioxidant and an anti-inflammatory agent. It is a member of orthoquinones, a tricarboxylic acid and a pyrroloquinoline cofactor. It is a conjugate acid of a pyrroloquinoline quinone(3-).
+Pyrroloquinoline quinone is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Pyrroloquinoline quinone has been reported in Hyphomicrobium with data available.
+A pyrrolo-quinoline having two adjacent keto-groups at the 4 and 5 positions and three acidic carboxyl groups. It is a coenzyme of some DEHYDROGENASES.
+Properties:safety: Irritant
+smiles: C1=C(C2=C(C(=O)C(=O)C3=C2NC(=C3)C(=O)O)N=C1C(=O)O)C(=O)O
+formula: C14H6N2O8
+chem_properties: Molecular Weight: 330.21 g/mol
+XLogP3: -0.1
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 9
+Rotatable Bond Count: 3
+Exact Mass: 330.01241515 Da
+Monoisotopic Mass: 330.01241515 Da
+Topological Polar Surface Area: 175
+Heavy Atom Count: 24
+Formal Charge: 0
+Complexity: 647
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

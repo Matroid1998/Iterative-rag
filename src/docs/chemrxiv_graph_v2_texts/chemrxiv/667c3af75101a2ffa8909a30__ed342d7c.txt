@@ -1,0 +1,59 @@
+Description:
+An important probe molecule in infrared spectroscopy for describing local electrostatic and chemical environments.
+
+Text:
+CO is an important probe molecule in infrared spectroscopy1, which describes local electrostatic and 
+chemical environments in heterogeneous catalysis and in electrochemical characterization2 of transition 
+metal (TM) active sites (COstripping voltammetry). Moreover, CO is a key reactantproduct in CO2 
+reduction to lowcarbon fuels and high value products such as alcohols, acids, and hydrocarbons and in 
+carbon sequestration for reducing greenhouse gases.3, 4 However, our theoretical understanding of CO 
+adsorbed on a TM surface is fragmented. This is largely because our main tool to model such systems
+density functional theory (DFT) even with functionals tuned for catalysislacks sufficient fidelity to 
+reliably describe either the total energy or spectral properties, as we show in some detail in this work.
+
+
+---
+
+Description:
+A key reactant in CO2 reduction to low-carbon fuels and high-value products such as alcohols, acids, and hydrocarbons.
+
+Text:
+CO is an important probe molecule in infrared spectroscopy1, which describes local electrostatic and 
+chemical environments in heterogeneous catalysis and in electrochemical characterization2 of transition 
+metal (TM) active sites (COstripping voltammetry). Moreover, CO is a key reactantproduct in CO2 
+reduction to lowcarbon fuels and high value products such as alcohols, acids, and hydrocarbons and in 
+carbon sequestration for reducing greenhouse gases.3, 4 However, our theoretical understanding of CO 
+adsorbed on a TM surface is fragmented. This is largely because our main tool to model such systems
+density functional theory (DFT) even with functionals tuned for catalysislacks sufficient fidelity to 
+reliably describe either the total energy or spectral properties, as we show in some detail in this work.
+
+
+---
+
+Description:
+Binds to the hollow site on transition metal surfaces.
+
+Text:
+As 
+one example, many functionals strongly overbind CO at the hollow site on TM surfaces.5 Such uncertainty 
+hampers the informative and predictive nature of theoretical studies on CO2 reduction. How CO initially 
+binds to the substrate is an essential component in the initial step for processes such as CO2 splitting into 
+CO and O. If already the site preference of the initial step of the reaction process cannot be resolved to 
+the required accuracy, modeling the entire reaction process remains in doubt. That being said, even while 
+we find DFT energies are not reliable, we will show that DFT predictions of the structure (bond lengths) 
+are much less variable between functionals, and align much better with available experimental data.
+
+
+---
+
+Description:
+Adsorbs on TM surfaces and is studied using DFT and QSGW calculations.
+
+Text:
+In a study of the FeMgO magnetic tunnel junction (a 
+system with some similarities to the present work), it gave an excellent description of the transmission 
+probability.9 For benchmarking adsorption of CO on TM surfaces, we take structures of the adsorbed 
+molecule using DFT, and perform QSGW calculations on them. We compare to photoemission data for CO 
+on Cu (111)1012 and Pt (111)13, 14. Pt (111) as they remain the best characterized experimental studies of CO 
+preferentially adsorbing on an atomic site, whereas Cu (111) is an experimentally relevant catalyst for 
+httpsdoi.org10.26434chemrxiv20240kn9q ORCID httpsorcid.org0000000291372621 Content not peerreviewed by ChemRxiv. License CC BY 4.0

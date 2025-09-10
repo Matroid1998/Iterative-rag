@@ -1,0 +1,12 @@
+Description:
+Forms a thixotropic supramolecular hydrogel with UCST behavior and self-healing ability at low concentrations.
+
+Text:
+Polymers with UCST behavior reversibly phase 
+separate upon cooling, typically leading to precipitation. In some cases, precipitation does not 
+occur, instead a gel is formed. UCSTtype behavior can be observed in solvent mixtures and, 
+though much more rarely, in water.58 Already in 1979, Wellinghoff et al. described a 
+poly(styrene) and poly(dimethylphenylene oxide) system which forms gels in organic solvents 
+upon rapid cooling.9 In 2015 a thixotropic poly(glycerol sebacate)based supramolecular 
+structure with UCST behavior was reported to form a hydrogel at rather low concentrations (5.2 
+) with selfhealing ability with a storage modulus of 100 kPa.

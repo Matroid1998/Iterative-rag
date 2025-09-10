@@ -1,0 +1,54 @@
+Description:
+The bond is portrayed as a quantum mechanical bound state of two electrons in the spin-singlet configuration.
+
+Text:
+. A fully quantitative under
+standing of the covalent bond nature is fun
+damentally important for describing various
+chemical, physical, and biological systems. In
+the canonical case of H2 molecule, the bond
+is portrayed as a quantum mechanical bound
+state of two electrons in the spinsinglet con
+figuration, marginally affected by the proton
+nuclear spins. Heitler and London estab
+lished the initial quantitative description of
+the H2 molecule1 within the essentially single
+particle (HartreeFock) approximation of the
+twoelectron state.
+
+
+---
+
+Description:
+A homopolar molecule discussed in the context of bond covalency and ionicity.
+
+Text:
+Such a unique so
+lution was possible to achieve with the help of
+the invented earlier Exact Diagonalization Ab
+Initio (EDABI) method by incorporating into a
+single scheme the first (wavefunction) and sec
+ond (particle)quantization aspects of the prob
+lem at hand into a single coherent scheme.10,11
+These results enabled a revision of the concepts
+of the bond covalency and ionicity, along with
+the introducting the degree of atomicity 7,8 per
+sistent upon the bond formation, which in turn
+opens up a new path to the complementary
+bond characterization via its eigenenergy.2,3,12
+Here we demonstrate that the previously de
+fined atomicity and true covalency,68 based
+on the ideas of the MottHubbard localiza
+tion taken from condensed matter13,14 and
+nanophysics,10 can be quantitatively related to
+the von Neumann entropy for the interacting
+and entangled twoelectron states.1517 Essen
+tially, we name this entropy as the entangle
+ment correlation between the true covalent and
+ionic counterparts, thus complementing in the
+precise manner the previously introduced con
+cepts of atomicity and true covalency.7,8 From
+this perspective, our findings extend essentially
+the energybased quantum mechanical descrip
+tion of the bond, here elaborated in detail for
+the homopolar molecule H2.

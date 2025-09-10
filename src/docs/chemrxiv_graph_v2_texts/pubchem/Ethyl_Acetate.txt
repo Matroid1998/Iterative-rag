@@ -1,0 +1,28 @@
+Name: Ethyl Acetate
+Text:
+Ethyl acetate appears as a clear colorless liquid with a fruity odor. Flash point 24 °F. Less dense than water. Vapors heavier than air.
+Ethyl acetate is the acetate ester formed between acetic acid and ethanol. It has a role as a polar aprotic solvent, an EC 3.4.19.3 (pyroglutamyl-peptidase I) inhibitor, a metabolite and a Saccharomyces cerevisiae metabolite. It is an acetate ester, an ethyl ester and a volatile organic compound.
+Ethyl Acetate has been reported in Angelica gigas, Plumeria rubra, and other organisms with data available.
+Ethyl acetate is a metabolite found in or produced by Saccharomyces cerevisiae.
+Properties:safety: Flammable and Irritant
+smiles: CCOC(=O)C
+formula: C4H8O2
+chem_properties: Molecular Weight: 88.11 g/mol
+XLogP3: 0.7
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 2
+Exact Mass: 88.052429494 Da
+Monoisotopic Mass: 88.052429494 Da
+Topological Polar Surface Area: 26.3
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 49.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

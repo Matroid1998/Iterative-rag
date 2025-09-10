@@ -1,0 +1,34 @@
+Name: Pyridoxine
+Text:
+Pyridoxine is a hydroxymethylpyridine with hydroxymethyl groups at positions 4 and 5, a hydroxy group at position 3 and a methyl group at position 2. The 4-methanol form of vitamin B6, it is converted intoto pyridoxal phosphate which is a coenzyme for synthesis of amino acids, neurotransmitters, sphingolipids and aminolevulinic acid. It has a role as a cofactor, a human metabolite, a Saccharomyces cerevisiae metabolite, an Escherichia coli metabolite and a mouse metabolite. It is a monohydroxypyridine, a vitamin B6, a member of methylpyridines and a hydroxymethylpyridine.
+Pyridoxine is the 4-methanol form of vitamin B6, an important water-soluble vitamin that is naturally present in many foods. As its classification as a vitamin implies, Vitamin B6 (and pyridoxine) are essential nutrients required for normal functioning of many biological systems within the body. While many plants and microorganisms are able to synthesize pyridoxine through endogenous biological processes, animals must obtain it through their diet.   More specifically, pyridoxine is converted to pyridoxal 5-phosphate in the body, which is an important coenzyme for synthesis of amino acids, neurotransmitters (serotonin, norepinephrine), sphingolipids, and aminolevulinic acid. It's important to note that Vitamin B6 is the collective term for a group of three related compounds, pyridoxine, pyridoxal, and pyridoxamine, and their phosphorylated derivatives, pyridoxine 5'-phosphate, pyridoxal 5'-phosphate and pyridoxamine 5'-phosphate. Although all six of these compounds should technically be referred to as vitamin B6, the term vitamin B6 is commonly used interchangeably with just one of them, pyridoxine.   Vitamin B6, principally in its biologically active coenzyme form pyridoxal 5'-phosphate, is involved in a wide range of biochemical reactions, including the metabolism of amino acids and glycogen, the synthesis of nucleic acids, hemogloblin, sphingomyelin and other sphingolipids, and the synthesis of the neurotransmitters serotonin, dopamine, norepinephrine and gamma-aminobutyric acid (GABA).   Pyridoxine is used medically for the treatment of vitamin B6 deficiency and for the prophylaxis of isoniazid-induced peripheral neuropathy (due to [DB00951]'s mechanism of action which competitively inhibits the action of pyridoxine in the above-mentioned metabolic functions). It is also used in combination with [DB00366] (as the commercially available product Diclectin) for the treatment of nausea and vomiting in pregnancy.
+Pyridoxine is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Pyridoxine is a Vitamin B6 Analog. The chemical classification of pyridoxine is Vitamin B 6, and Analogs/Derivatives.
+Pyridoxine has been reported in Cyberlindnera jadinii, Glycine max, and other organisms with data available.
+PYRIDOXINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1985 and has 8 approved and 21 investigational indications.
+Pyridoxine is the 4-methanol form of vitamin B6 and is converted to pyridoxal 5-phosphate in the body. Pyridoxal 5-phosphate is a coenzyme for synthesis of amino acids, neurotransmitters (serotonin, norepinephrine), sphingolipids, aminolevulinic acid.  Although pyridoxine and vitamin B6 are still frequently used as synonyms, especially by medical researchers, this practice is erroneous and sometimes misleading. Pyridoxine is one of the compounds that can be called vitamin B6. Pyridoxine assists in the balancing of sodium and potassium as well as promoting red blood cell production. It is linked to cancer immunity and helps fight the formation of homocysteine. It has been suggested that Pyridoxine might help children with learning difficulties, and may also prevent dandruff, eczema, and psoriasis. In addition, pyridoxine can help balance hormonal changes in women and aid in immune system. Lack of pyridoxine may cause anemia, nerve damage, seizures, skin problems, and sores in the mouth. Deficiency, though rare because of widespread distribution in foods, leads to the development of peripheral neuritis in adults and affects the central nervous system in children.
+Pyridoxine is a metabolite found in or produced by Saccharomyces cerevisiae.
+The 4-methanol form of VITAMIN B 6 which is converted to PYRIDOXAL PHOSPHATE which is a coenzyme for synthesis of amino acids, neurotransmitters (serotonin, norepinephrine), sphingolipids, aminolevulinic acid. Although pyridoxine and Vitamin B 6 are still frequently used as synonyms, especially by medical researchers, this practice is erroneous and sometimes misleading (EE Snell; Ann NY Acad Sci, vol 585 pg 1, 1990).
+See also: Pyridoxine Hydrochloride (has salt form); Vitamin B6 (subclass of); Pyridoxine dipalmitate (is active moiety of) ... View More ...
+Properties:safety: Irritant
+smiles: CC1=NC=C(C(=C1O)CO)CO
+formula: C8H11NO3
+chem_properties: Molecular Weight: 169.18 g/mol
+XLogP3: -0.8
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 2
+Exact Mass: 169.07389321 Da
+Monoisotopic Mass: 169.07389321 Da
+Topological Polar Surface Area: 73.6
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 142
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

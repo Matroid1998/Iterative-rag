@@ -1,0 +1,97 @@
+Description:
+A widely used chemical in industry known to be toxic and a carcinogen.
+
+Text:
+Benzene is a widely used chemical in indus
+try, but it is known to be toxic and a car
+cinogen.1 In addition to regulating industrial
+occupational exposure,2 benzene content in
+gasoline and its emission from traffic are con
+cerns for public health.3 In addition to time
+spent in a car or in traffic, personal exposure
+is affected by sources such as tobacco smoke
+and residential garages.46 The current per
+missible occupation exposure limit is around
+1 ppm or below, depending on the regulatory
+body. The recommended exposure level by
+the US National Institute for Occupational
+Safety and Health is significantly lower at
+100 ppb and the Committee for Risk Assess
+ment of the European Chemical Agency has
+recommended an occupation exposure limit
+of only 50 ppb.
+
+
+---
+
+Description:
+A compound for which high sensitivity trace gas detectors are in high demand for accurate monitoring with a subppb detection limit needed.
+
+Text:
+For ambient exposure, the
+European commission has set a target limit
+value of 1.5 ppb, evaluated as a yearly aver
+age. High sensitivity trace gas detectors for
+benzene are thus in high demand and for ac
+curate monitoring a subppb detection limit
+is needed for accurate quantification. High sensitivities well below 1 ppb can be
+reached with gas chromatography techniques,7
+but the measurements can be time consum
+ing and the best performance often requires
+offline or offsite analysis with a separate sam
+pling step.8 Optical methods based on spec
+troscopic detection are an appealing alterna
+tive.
+
+
+---
+
+Description:
+Detected using spectroscopic detectors with high sensitivity and selectivity.
+
+Text:
+Optical spectrometers are often more
+compact and more readily develop into field
+capable instruments and autonomous onsite
+detectors for continuous monitoring.9 Some
+chemical sensors, such as metal oxide sensors,
+photoionization detectors and electrochemi
+cal sensors, are starting to reach high sensi
+tivities for benzene,10 but spectroscopic de
+tectors offer better selectivity and longterm
+stability. Various spectroscopic benzene detectors have
+achieved detection limits down to ppblevels. However, many use the strong absorption band
+at the wavelength of approximately 3 m for
+detection,1114 which has significant overlap
+with many other organic compounds, most
+notably other simple aromatic combounds,
+e.g. toluene and xylenes.
+
+
+---
+
+Description:
+Detected at ppb levels using cantilever enhanced photoacoustic spectroscopy (CEPAS).
+
+Text:
+These are com
+mon interferents in benzene measurements
+and the requirement to properly account for
+their presence can degrade the performance
+of the detector substantially.14 Another strong
+absorption band at 14.8 m has also been
+used for ppblevel benzene detection,15,16 but
+previously a long preconcentration time of
+40 min was required for single digit ppb mea
+surements.15
+In our previous publication, we were able
+to reach a subppb detection limit without
+preconcentration, but only with a long aver
+aging times of approximately 20 min.17 The
+high sensitivity was reached using cantilever
+enhanced photoacoustic spectroscopy (CEPAS)
+for detection.18 In CEPAS, the photoacoustic
+signal is recorded with an opticallyread can
+tilever microphone, which leads to increased
+sensitivity compared to conventional diaphragm
+microphones.

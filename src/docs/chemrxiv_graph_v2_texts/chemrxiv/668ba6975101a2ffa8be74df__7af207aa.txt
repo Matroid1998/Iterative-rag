@@ -1,0 +1,14 @@
+Description:
+A small molecule involved in reactions where kinetics cannot always be represented by simple rate determining steps.
+
+Text:
+Third, the high 
+computational cost of building datasets involving such larger reaction intermediates 
+like cyclic hydrocarbons precludes the use of dataheavy approaches like deep 
+learning20. Fourth, the reaction kinetics cannot always be represented by one or two 
+rate determining steps as is done for reactions involving small molecules like N2 and 
+O2. Instead, reaction kinetics can only be calculated after knowing the energetics of all 
+reaction intermediates. To overcome these four challenges, a new machine learning 
+paradigm is required that employs minimalistic training datasets, is transferable across 
+different active site motifs in structurally and chemically complex systems and is 
+efficient to deploy across large cyclic hydrocarbons.

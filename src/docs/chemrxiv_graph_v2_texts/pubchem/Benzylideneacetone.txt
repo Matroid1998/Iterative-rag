@@ -1,0 +1,29 @@
+Name: Benzylideneacetone
+Text:
+Trans-benzylideneacetone is the trans-isomer of benzylideneacetone. It acts as an inhibitor of the enzyme phospholipase A2 (EC 3.1.1.4) of insects like diamond back moth. It has a role as a flavouring agent, a fragrance, a bacterial metabolite and an EC 3.1.1.4 (phospholipase A2) inhibitor.
+Benzylideneacetone has been reported in Basella alba and Polygala senega with data available.
+Benzylideneacetone is a flavouring ingredient. Benzylideneacetone is present in hydrolysed soy protein
+
+Benzylideneacetone belongs to the family of Phenylpropenes. These are compounds containing a phenylpropene moeity, which consists of a propene substituent bound to a phenyl group.
+Properties:safety: Irritant
+smiles: CC(=O)/C=C/C1=CC=CC=C1
+formula: C10H10O
+chem_properties: Molecular Weight: 146.19 g/mol
+XLogP3: 2.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 2
+Exact Mass: 146.073164938 Da
+Monoisotopic Mass: 146.073164938 Da
+Topological Polar Surface Area: 17.1
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 152
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

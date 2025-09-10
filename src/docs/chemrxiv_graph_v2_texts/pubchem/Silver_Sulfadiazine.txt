@@ -1,0 +1,31 @@
+Name: Silver Sulfadiazine
+Text:
+Silver(1+) sulfadiazinate is a silver salt, a sulfonamidate and a member of pyrimidines. It has a role as an antimicrobial agent and an antibacterial drug. It contains a sulfadiazinate.
+Silver sulfadiazine is a sulfa derivative topical antibacterial used primarily on second- and third-degree burns.
+Silver sulfadiazine is a Sulfonamide Antibacterial.
+Silver Sulfadiazine is a sulfonamide-based topical agent with antibacterial and antifungal activity. Silver sulfadiazine may act through a combination of the activity of silver and sulfadiazine. When this agent interacts with sodium chloride-containing body fluids, silver ions are released slowly and sustainably into wounded areas. Ionized silver atoms catalyze the formation of disulfide bonds leading to protein structural changes and inactivating thiol-containing enzymes; silver ions may also intercalate DNA thereby interfering with replication and transcription of bacteria. As a competitive inhibitor of para-aminobenzoic acid (PABA), sulfadiazine inhibits bacterial dihydropteroate synthase, thereby resulting in disruption of folic acid metabolism and ultimately DNA synthesis.
+SULFADIAZINE, SILVER is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1973 and has 3 investigational indications.
+Silver sulfadiazine is only found in individuals that have used or taken this drug. It is a sulfa derivative topical antibacterial used primarily on second- and third-degree burns. [Wikipedia] Studies utilizing radioactive micronized silver sulfadiazine, electron microscopy, and biochemical techniques have revealed that the mechanism of action of silver sulfadiazine on bacteria differs from silver nitrate and sodium sulfadiazine. Silver sulfadiazine acts only on the cell membrane and cell wall to produce its bactericidal effect. A specific mechanism of action has not been determined, but silver sulfadiazine's effectiveness may possibly be from a synergistic interaction, or the action of each component. Silver is a biocide, which binds to a broad range of targets. Silver ions bind to nucleophilic amino acids, as well as sulfhydryl, amino, imidazole, phosphate, and carboxyl groups in proteins, causing protein denaturation and enzyme inhibition. Silver binds to surface membranes and proteins, causing proton leaks in the membrane, leading to cell death. Sulfadiazine is a competitive inhibitor of bacterial para-aminobenzoic acid (PABA), a substrate of the enzyme dihydropteroate synthetase. The inhibited reaction is necessary in these organisms for the synthesis of folic acid.
+Antibacterial used topically in burn therapy.
+See also: Sulfadiazine (has active moiety); Silver cation (has active moiety); Enrofloxacin; Silver sulfadiazine (component of).
+Properties:safety: Irritant
+smiles: C1=CN=C(N=C1)[N-]S(=O)(=O)C2=CC=C(C=C2)N.[Ag+]
+formula: C10H9AgN4O2S
+chem_properties: Molecular Weight: 357.14 g/mol
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 3
+Exact Mass: 355.94971 Da
+Monoisotopic Mass: 355.94971 Da
+Topological Polar Surface Area: 95.3
+Heavy Atom Count: 18
+Formal Charge: 0
+Complexity: 327
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

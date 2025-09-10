@@ -1,0 +1,11 @@
+Description:
+A core structure found in natural products and lead molecules.
+
+Text:
+Chiral molecules with their defined 3D structures are of paramount importance for the study of chemical biology and drug 
+discovery. Natures ability of rapid assembly of molecules with structural diverse at various levels of complexity has inspired 
+numerous development of efficient synthetic methodologies.1,2 In practice, chiral architectures are usually prepared from 
+organometallic and organocatalytic processes where transition metals or enzymes or organocatalysts are operated for a desired 
+reaction. Whereas enzymatic catalysis sets a high standard for the stereoselectivity, organometallic and organocatalysis have an 
+advantage for a more diverse scope of reactions.3,4 
+Figure 1 Natural Products and Lead molecules possessing a spiroimidazolidinone core.

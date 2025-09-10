@@ -1,0 +1,25 @@
+Name: Zeolites
+Text:
+Zeolites. A group of crystalline, hydrated alkali-aluminum silicates. They occur naturally in sedimentary and volcanic rocks, altered basalts, ores, and clay deposits. Some 40 known zeolite minerals and a great number of synthetic zeolites are available commercially. (From Merck Index, 11th ed)
+See also: Pumice (annotation moved to); Aluminum Silicate, Natural (annotation moved to); Aluminatesilicate (annotation moved to) ... View More ...
+Properties:safety: Irritant and Health Hazard
+smiles: O=[Al]O[Al]=O.O=[Si]=O
+formula: Al2O5Si
+chem_properties: Molecular Weight: 162.05 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 0
+Exact Mass: 161.914576 Da
+Monoisotopic Mass: 161.914576 Da
+Topological Polar Surface Area: 77.5
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 52.4
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

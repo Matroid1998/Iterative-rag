@@ -1,0 +1,12 @@
+Description:
+Require activation for use as substrates in some Ni-catalyzed electrochemical reactions.
+
+Text:
+For example, Sevov and coworkers reported an overcharge protection method using redoxactive 
+shuttles and a dynamic ligand exchange method using a mixture of Nligand and Pligand to 
+control the Ni redox states in the XEC reactions between aryl halides and secondarytertiary alkyl 
+halides.3133 Recently, Weix and coworkers reported a dualligand strategy to optimize the 
+selectivity of Nicatalyzed electrochemical XEC reactions at high temperatures.3435 Some Ni
+catalyzed electrochemical XEC reactions using conventional catalysts and under mild conditions 
+were also reported, but these methods require activated alkyl halide substrates, such as 
+httpsdoi.org10.26434chemrxiv2023pdw1d ORCID httpsorcid.org0000000236981096 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

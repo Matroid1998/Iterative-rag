@@ -1,0 +1,14 @@
+Description:
+A chemically inert noble metal useful as an electrode material because it is not easily corroded and is mechanically robust.
+
+Text:
+Over the past decade, the field of synthetic organic electrochemistry has expanded 
+dramatically due to new realms of reactivity that it enables as well as sustainable 
+alternatives to known transformations.14 Electrochemistry is particularly attractive 
+due to the lowcost and ease with which reactions can be scaled up as electrons are 
+often the primary reagent. In terms of reaction design, the finetuning of reactivity 
+can be achieved by modulated parameters such as electrolyte, solvent, catalyst, 
+current, and potential.5 Since electron transfer occurs at an electrode interface, the 
+choice of electrode material is one of the most influential parameters to consider 
+(Figure 1A).6,7 Chemically inert electrodes, such as noble metals (e.g. platinum), are 
+particularly useful because they are not easily corroded and mechanically robust.

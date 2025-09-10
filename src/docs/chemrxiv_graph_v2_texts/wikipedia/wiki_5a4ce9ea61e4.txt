@@ -1,0 +1,19 @@
+In chemistry, an electron donor is a chemical entity that transfers electrons to another compound. It is a reducing agent that, by virtue of its donating electrons, is itself oxidized in the process.  An obsolete definition equated an electron donor and a Lewis base.
+In contrast to traditional reducing agents, electron transfer from a donor to an electron acceptor may be only fractional. The electron is not completely transferred, which results in an electron resonance between the donor and acceptor. This leads to the formation of charge transfer complexes, in which the components largely retain their chemical identities. The electron donating power of a donor molecule is measured by its ionization potential, which is the energy required to remove an electron from the highest occupied molecular orbital (HOMO).
+The overall energy balance (ΔE), i.e., energy gained or lost, in an electron donor-acceptor transfer is determined by the difference between the acceptor's electron affinity (A) and the ionization potential (I):
+
+  
+    
+      
+        
+          Δ
+        
+        E
+        =
+        A
+        −
+        I
+        
+      
+    
+    {\displaystyle {\Delta }E=A-I\,}

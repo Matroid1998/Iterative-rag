@@ -1,0 +1,34 @@
+Description:
+Reacts with Rh(II) to form Rh(III)H and a silyl radical.
+
+Text:
+Terres
+trial chemical transformations thus generally proceed via 
+successive uni and bimolecular reaction steps.4, 5 In the 
+case of catalytic radical hydrosilylation reaction, an initial 
+encounter between catalyst and silane leads to the for
+mation of a free silyl radical, which then reacts with an ole
+fin in a separate reaction step (Figure 1B). For Rh(II) por
+phyrin catalysis, the difference in Gibbs free energy be
+tween the reagents (silane and Rh(II)) and the products 
+(Rh(III)H and silyl radical) is calculated to be 25.5 
+kcalmol1 (Figure S69).
+
+
+---
+
+Description:
+Can be assembled with an olefin into a transition state for direct radical transfer.
+
+Text:
+However, for hydrogen atom trans
+fer (HAT) to take place, two molecules need to associate into 
+a transition structure which results in energy penalty due to 
+the loss of translational and rotational degrees of freedom 
+that corresponds to approximately 10 kcalmol1.68 A cata
+lyst that is able to assemble a silane and an olefin into a tran
+sition state for direct radical transfer with an energy input 
+of less than 25.5  10  35.5 kcalmol1 would thus permit a 
+more energyefficient transformation. Such a transition 
+state would need to be assembled in a stepwise fashion to 
+limit the entropic penalty.

@@ -1,0 +1,125 @@
+Description:
+Known for its optical transparency, biocompatibility, chemical inertness, mechanical rigidity, and electrical insulation.
+
+Text:
+Silica (quartz) is one of the most commonly used substrates for a variety of applications. The prop
+erties such as optical transparency, biocompatibility, chemical inertness, mechanical rigidity, and
+electrical insulation make it suitable for various applications 1 such as optical devices, microelec
+tromechanical (MEMS) systemsdevices 2,3, microfluidic platforms 4, and solar cells. Typically,
+silica has high transmittance in the visible region with low reflectance, which can be modulated by
+surface texturing and exploited in optical devices. Surface texturing improves the scattering and
+reduces the reflection of the incident light. 5 Wet chemical etching of silica films is extensively
+used in integrated circuit (IC) technology for device dielectric isolation.
+
+
+---
+
+Description:
+Has high transmittance in the visible region with low reflectance, which can be modulated by surface texturing.
+
+Text:
+Silica (quartz) is one of the most commonly used substrates for a variety of applications. The prop
+erties such as optical transparency, biocompatibility, chemical inertness, mechanical rigidity, and
+electrical insulation make it suitable for various applications 1 such as optical devices, microelec
+tromechanical (MEMS) systemsdevices 2,3, microfluidic platforms 4, and solar cells. Typically,
+silica has high transmittance in the visible region with low reflectance, which can be modulated by
+surface texturing and exploited in optical devices. Surface texturing improves the scattering and
+reduces the reflection of the incident light. 5 Wet chemical etching of silica films is extensively
+used in integrated circuit (IC) technology for device dielectric isolation.
+
+
+---
+
+Description:
+Used in wet chemical etching for device dielectric isolation in integrated circuit technology.
+
+Text:
+Silica (quartz) is one of the most commonly used substrates for a variety of applications. The prop
+erties such as optical transparency, biocompatibility, chemical inertness, mechanical rigidity, and
+electrical insulation make it suitable for various applications 1 such as optical devices, microelec
+tromechanical (MEMS) systemsdevices 2,3, microfluidic platforms 4, and solar cells. Typically,
+silica has high transmittance in the visible region with low reflectance, which can be modulated by
+surface texturing and exploited in optical devices. Surface texturing improves the scattering and
+reduces the reflection of the incident light. 5 Wet chemical etching of silica films is extensively
+used in integrated circuit (IC) technology for device dielectric isolation.
+
+
+---
+
+Description:
+Used for the fabrication of MEMS devices due to its excellent piezoelectric properties, optical transmission, electrical insulation, and stability.
+
+Text:
+6 Silica is also used for the
+fabrication of MEMS devices such as resonators 7,8, tuning fork probes 9, and gyros 10 due to its
+excellent piezoelectric properties, optical transmission, electrical insulation, and stability. 11 The
+surface morphology affects the performance of these devices. Mechanical polishing is not an effective
+route to acquire textured surface structures and therefore, a controlled fabrication route is necessary. The fabrication of surface structures on silica includes techniques such as wet, dry 12, 13,
+and vapor etching. 14,15 Waferscale processing methods such as reactive ion etching and litho
+graphically defined wetdry etching can be adapted for silica. 1 Recently, dry etching followed
+by HFbased wet etching is used to produce highquality optical surfaces.
+
+
+---
+
+Description:
+Used as a substrate for etching processes and deposition of metal nanoparticles.
+
+Text:
+16, 17 Wet etching
+based on dilute ammonium fluoride solutions has also been used to tune the thickness of oriented
+mesoporous silica films. 18 However, dry etching methods require expensive instruments and
+highselectivity masking materials. Masking materials such as chromium (Cr) 19, photoresists,
+polysilicon, amorphous silicon, aluminum, silicon nitride, and chromiumgold (CrAu) 20 have
+been reported for the etching of silica. These are typically patterned on the substrate using standard
+lithography techniques. Metalpolymeric nanoparticles (NPs) could replace these masking materials
+for the etching process. A combination of solidstate dewetting and annealing of thin metallic films
+on the silica surfaces resulted in the deposition of different metal NPs which acts as an etchant
+mask.
+
+
+---
+
+Description:
+Forms nanostructures on surfaces through plasma etching.
+
+Text:
+Further, the plasma etching of NPmasked substrate resulted in the formation of silica
+nanostructures on the surface. 21 The metal film thickness and dewetting conditions were used to
+tune the size and shape of the NPs which in turn influenced the optical reflection properties of the
+etched surface structures. This method required vacuum equipment for thin film deposition and
+hightemperature annealing for dewetting. Also, dewetting does not provide precise control over
+the size and shape of the NPs, which in turn can affect the features of the surface structures. In
+this context, the use of preformed NPs (with controlled size and shape) can replace the dewetting
+and annealing steps in the silica nanostructure fabrication process.
+
+
+---
+
+Description:
+Used to fabricate super hydrophilic transparent nanopillar structures.
+
+Text:
+22,23
+Super hydrophilic transparent nanopillar structures on silica have been fabricated via the
+combination of nanosphere lithography and plasma etching which has been shown to prevent
+bacterial growth on the surfaces. 24 Silicon nanostructures were fabricated through metalassisted
+etching in which a thin layer of metal such as Au, Ag, Cu, and Pt, deposited on the Si surface,
+catalyzed the etching of Si in various mixtures of hydrofluoric acid (HF)oxidantsolvent. 2528
+Expensive requirements such as vacuum, plasma generation, or ion optics are inevitable in dry
+etching and sidewall damage is an undesirable effect associated with it. 26 Therefore, wet chemical
+etching is considered a less expensive method to fabricate surface structures at higher etch rates on
+planes of different orientations.
+
+
+---
+
+Description:
+A substrate that can be etched using HF in the presence of a metal NP etchant mask.
+
+Text:
+A thin monolayer of preformed metal NPs is suitable as an efficient
+etchant mask for the fabrication of silica structures via wet chemical etching using HF. In this work, a comprehensive study on the wet chemical etching of silica substrates is presented. A thin monolayer of preformed Au NPs is dipcoated on the surface and used as an etchant mask. The effect of etching time, the size of the coated NPs, and the concentration of the etching solution
+on the obtained surface structures are evaluated. The effect of different etching parameters is
+investigated for both bare and Au NPcoated silica. The optical transmittance is measured and
+related to the formed surface structures obtained under different experimental conditions.

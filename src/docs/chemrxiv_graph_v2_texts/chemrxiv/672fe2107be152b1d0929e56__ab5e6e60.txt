@@ -1,0 +1,28 @@
+Description:
+Prime candidates for radical precursors used in organic synthesis.
+
+Text:
+Alkyl diazenes 
+are a prime candidate for radical precursors that could achieve such an objective (14, 15). These 
+species have been invoked since the late 1930s (16, 17) yet their use in organic synthesis has been 
+sporadic and mainly relegated to 2edefunctionalization methods such as the classic Wolff
+Kishner reduction and related reactions (1721) (Figure 1B, left). A provocative report on the use 
+of in situ derived diazenes from sulfonyl hydrazides was reported by Taber in 1993 wherein the 
+radical cyclization of ketone 1 to octahydroindane 2 was achieved (Figure 1B, right) (22). Building 
+on this precedent, we wondered if free radicals derived without redoxinitiation from these 
+intermediates could be enlisted in metal catalyzed crosscoupling events.
+
+
+---
+
+Description:
+Derived in situ to drive redox-neutral radical cross-couplings for forging CC bonds.
+
+Text:
+Herein we disclose a 
+remarkably general platform for redoxneutral radical crosscouplings driven by in situ derived 
+alkyl diazenes to forge a variety of CC bonds. Alkyl sulfonyl hydrazides are easily derived from 
+carbonyl compounds and alcohols (Nsulfonyl regioisomers can be used interchangeably); these 
+stable, crystalline substances can now be employed to generate a variety of useful sp3sp3, sp3sp2, 
+and sp3sp linkages in a practical, dump and stir fashion, obviating the need for any external 
+redoxactivation.

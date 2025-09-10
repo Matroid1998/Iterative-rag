@@ -1,0 +1,33 @@
+Description:
+A phenoxazine derivative used in conjunction with Ir(ppy)3 to generate a Ni centered excited state.
+
+Text:
+Ir(ppy)3 and a phenoxazine (PhenO) PC; ppy 
+ 2phenylpyridine and PhenO  3,7di(1,1biphenyl4yl)
+10(naphthalen1yl)10Hphenoxazine) to a Ni complex to 
+generate a Ni centered excited state that was crucial for catalysis 
+(Fig. 1B). Based on these reports, we hypothesized that energy 
+transfer would also be the mode of activation of Ni in our 
+unified Cheteroatom coupling system as these same PCs are 
+used.
+
+
+---
+
+Description:
+A photocatalyst with an excited state reduction potential of 1.73 V vs SCE.
+
+Text:
+However, the reduction of Ni(II) to Ni(I) by the excited 
+state PC (either Ir(ppy)3 or PhenO; Ered  1.66 and 1.73 V vs 
+SCE respectively) is thermodynamically feasible based on 
+reported cyclic voltammetry data of relevant nickel bipyridine 
+complexes (EredNi(II)Ni(I)  1.01.3 V vs SCE).1112 
+Furthermore, in our study with SCF3 nucleophiles, product 
+yield was found to increase as the excited state reduction 
+potential of the PC became more negative, while the triplet 
+energy of the PCs was found to have no correlation with yield. These considerations taken together suggest that the alternate 
+hypothesis of an oxidative quenching cycle (Fig. 1D) should be 
+considered seriously in these systems, motivating a mechanistic 
+study to distinguish between electron transfer and energy 
+transfer as the mode of quenching of the Ir(ppy)3 excited state.

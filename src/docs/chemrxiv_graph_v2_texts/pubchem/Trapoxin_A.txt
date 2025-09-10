@@ -1,0 +1,27 @@
+Name: Trapoxin A
+Text:
+Trapoxin A is a homodetic cyclic tetrapeptide constructed from L-phenylalanyl (x2), D-pipecolinyl and L-2-amino-8-oxo-9,10-epoxydecanoyl residues. It has a role as an EC 3.5.1.98 (histone deacetylase) inhibitor, an antineoplastic agent and a fungal metabolite. It is a homodetic cyclic peptide, an epoxide and a ketone.
+trapoxin A has been reported in Helicoma ambiens with data available.
+Trapoxin is an epoxide-containing cyclotetrapeptide with antitumor activity.  It is an irreversible inhibitor of histone deacetylase.
+Properties:safety: Acute Toxic
+smiles: C1CCN2[C@H](C1)C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C2=O)CC3=CC=CC=C3)CC4=CC=CC=C4)CCCCCC(=O)[C@@H]5CO5
+formula: C34H42N4O6
+chem_properties: Molecular Weight: 602.7 g/mol
+XLogP3: 3.4
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 11
+Exact Mass: 602.31043507 Da
+Monoisotopic Mass: 602.31043507 Da
+Topological Polar Surface Area: 137
+Heavy Atom Count: 44
+Formal Charge: 0
+Complexity: 1020
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 5
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

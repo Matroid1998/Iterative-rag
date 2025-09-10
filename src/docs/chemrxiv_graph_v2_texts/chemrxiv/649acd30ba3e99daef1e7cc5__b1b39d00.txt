@@ -1,0 +1,13 @@
+Description:
+Can form reactive metabolites which covalently bind to liver proteins and cause hepatotoxicity.
+
+Text:
+In the history of drug discovery, the development of covalent inhibitors was for a long time
+neglected due to safety concerns. This apprehension mostly came from studies revealing that
+certain compounds, such as bromobenzene or acetaminophen, can form reactive metabolites
+which covalently bind to liver proteins and cause hepatotoxicity.1,2 In spite of these con
+cerns, covalent drugs such as aspirin, betalactam antibiotics, or protonpump inhibitors
+have proven to be safe and effective.3,4 The strength of the covalent interaction between
+the ligand and the target reduces the offrate and increases the residence time of the ligand
+in its target. Therefore, covalent drugs offer certain advantages over classical noncovalent
+ones.

@@ -1,0 +1,13 @@
+Description:
+A cathode material with a capacity of 200 mAh g1.
+
+Text:
+On the cathode side in particular, the industry has moved from Lithium Cobalt 
+Oxide (LCO, 140 mAh g1) to LiNi0.33Mn0.33Co0.33O2 (NMC111, 160 mAh g1) to 
+LiNi0.8Mn0.1Co0.1O2 (NMC811, 200 mAh g1).2 Olivine phosphate materials (such as 
+LiFePO4, LFP with 170 mAh g1) have also been widely studied academically and adopted 
+commercially, particularly for applications which value lowcost, high safety and long lifetime. They had historically, however, been unable to compete with NMC layered oxides in terms of 
+energy density, and thus their impact within the rapidly growing EV sector was secondary.3 
+This paradigm has been broken in recent years due to impressive developments in cell and 
+system design, whereby cellautomotive manufacturers (such as BYD) have taken 
+httpsdoi.org10.26434chemrxiv2024nsm2qv2 ORCID httpsorcid.org0000000229361083 Content not peerreviewed by ChemRxiv. License CC BY 4.0

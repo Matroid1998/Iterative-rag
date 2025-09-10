@@ -1,0 +1,26 @@
+Name: Azoxybenzene
+Text:
+Azoxybenzene appears as bright yellow crystals or yellowish-brown solid. (NTP, 1992)
+Azoxybenzene is an azoxy compound.
+Properties:safety: Irritant
+smiles: C1=CC=C(C=C1)N=[N+](C2=CC=CC=C2)[O-]
+formula: C12H10N2O
+chem_properties: Molecular Weight: 198.22 g/mol
+XLogP3: 3.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 2
+Exact Mass: 198.079312947 Da
+Monoisotopic Mass: 198.079312947 Da
+Topological Polar Surface Area: 41.1
+Heavy Atom Count: 15
+Formal Charge: 0
+Complexity: 216
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

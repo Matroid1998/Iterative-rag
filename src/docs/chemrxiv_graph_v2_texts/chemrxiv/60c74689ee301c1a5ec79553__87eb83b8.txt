@@ -1,0 +1,15 @@
+Description:
+An acid gas effectively absorbed by tributyl phosphate.
+
+Text:
+In these highpressure CO2containing streams, one wellestablished approach to removing acid 
+gases (CO2 and H2S) from the syngas stream is the use of physical solvents.1 
+The physical solvents used in precombustion capture of CO2 from coalgasified power plants are 
+typically more effective at high pressures than chemical solvents.2 Physical solvents that have 
+been studied for CO2 absorption include Nmethyl2pyrrolidone (NMP  Purisol), propylene 
+carbonate (Fluor solvent),3 methanol (Rectisol),4 and dimethyl ethers of polyethylene glycol 
+(Selexol).5,6 
+One physical solvent that had been studied earlier, but was then seemingly neglected, is tributyl 
+phosphate (TBP), originally identified in the Estasolvan process.7 This solvent was used for 
+natural gas purification and while it showed only moderate capacity to absorb CO2, it was an 
+excellent solvent for absorbing H2S and SO2.8,9 The inclusion of etheric side chains in the form

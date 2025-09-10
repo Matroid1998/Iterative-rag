@@ -1,0 +1,45 @@
+Description:
+Involved in oxidative addition for transition metal-catalyzed asymmetric hydrogenation.
+
+Text:
+Asymmetric hydrogenation of olefins is 
+among the most widely used transformations to prepare chiral mol
+ecules from prochiral substrates,1 with classic methods for transition 
+metalcatalyzed asymmetric hydrogenation based on the oxidative 
+addition of H2 (Scheme 1a).2 While these reactions are high per
+forming and widely used, they historically require substrates with co
+ordinating functional groups for chelating, twopoint metal binding 
+to facilitate enantioinduction3 with limited exceptions.4 Further, the 
+highest enantioselectivity is observed with electronpoor olefins 
+(activated olefins), as interactions between the substrate and the 
+metal are best promoted by substituents on the olefin that are typi
+cally electronwithdrawing.5 Recently, hydrogenation of electron
+neutral, electronrich (unactivated), and minimally functionalized 
+olefins has seen growing improvement and success; however, lower 
+enantioselectivity is commonly observed, and fewer methods are 
+available.6 
+In this context, radical hydrofunctionalization enabled by metal
+catalyzed hydrogen atom transfer (mHAT, Scheme 1b) reactions 
+have particular promise as they do not require metal coordination of 
+the olefin for reactivity.7 Mechanistically, mHAT involves a metal
+hydride intermediate that transfers H to the olefin to generate an 
+alkyl radical that may be trapped under mild conditions.
+
+
+---
+
+Description:
+Involved in typical transition metal-catalyzed hydrogenations of olefins.
+
+Text:
+mHAT 
+chemistry has been used for olefin hydrofunctionalizations8 with in
+expensive Fe, Co, and Mn catalysts and exhibits excellent functional 
+group tolerance, permitting latestage functionalizations in total syn
+thesis.9 
+In 2014, the Shenvi and Herzon groups independently published 
+olefin hydrogenation by manganese and cobaltcatalyzed mHAT 
+respectively, trapping the transient alkyl radical with a second HAT 
+step.8b, e, f mHAT has some advantages over typical transition metal
+catalyzed hydrogenations of olefins, which proceed by additions of 
+H2.

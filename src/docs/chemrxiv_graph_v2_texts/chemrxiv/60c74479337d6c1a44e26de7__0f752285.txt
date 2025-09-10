@@ -1,0 +1,22 @@
+Description:
+A spin isomer of hydrogen used in parahydrogen induced polarization (PHIP) for hyperpolarization.
+
+Text:
+There 
+are three significant drawbacks to this technique (1) it is 
+prohibitively 
+expensive, 
+(2) 
+complex 
+cryogenic 
+equipment is required to reach 1.4 K, and (3) the 
+hyperpolarized material is delivered in batchmode, with 
+tens of minutes of preparation time required between 
+sample deliveries. PHIP (parahydrogen induced polarization) is an 
+alternative hyperpolarization modality which involves 
+chemical addition of hydrogen gas enriched in the para 
+spin isomer to a substrate molecule 2,12. PHIP is 
+approximately 12 orders of magnitude less expensive 
+than dDNP, and can produce hyperpolarized products 
+with a much higher duty cycle because it only requires 
+chemical reaction with hydrogen gas.

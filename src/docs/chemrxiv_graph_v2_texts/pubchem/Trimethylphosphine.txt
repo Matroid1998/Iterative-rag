@@ -1,0 +1,25 @@
+Name: Trimethylphosphine
+Text:
+Trimethylphosphine is a tertiary phosphine.
+Properties:safety: Flammable and Irritant
+smiles: CP(C)C
+formula: C3H9P
+chem_properties: Molecular Weight: 76.08 g/mol
+XLogP3: -0.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 76.044187285 Da
+Monoisotopic Mass: 76.044187285 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,32 @@
+Description:
+Antibiotics that disrupt the Gram-negative envelope by interacting with lipopolysaccharide.
+
+Text:
+Polymyxin antibiotics, specifically colistin, are agents of last resort for treating infections by these 
+species4 and, despite toxicity concerns5, their use has increased in recent years6. Polymyxins disrupt 
+the Gramnegative envelope by a sequential process that remains incompletely understood7 initial 
+interaction with outer membrane lipopolysaccharide (LPS) is followed by uptake into the bacterial 
+periplasm and effects upon the inner membrane that may include interference with LPS before or 
+during trafficking to the outer membrane andor direct permeabilization. In consequence, 
+modifications to LPS that disrupt polymyxin interactions are determinants of polymyxin resistance; 
+specifically, these reduce negative charges on the lipid A disaccharide by covalent modification of 
+phosphate groups, thereby preventing electrostatic interactions with cationic components of the 
+polymyxin peptide.
+
+
+---
+
+Description:
+An antibiotic to which resistance can be conferred by the addition of phosphoethanolamine or 4amino4deoxylarabinose to lipid A.
+
+Text:
+Such modifications most commonly involve addition of phosphoethanolamine 
+(PEtN) (Scheme 1A) or 4amino4deoxyLarabinose (LAra4N) to the 1 or 4 phosphates8. Lipid A phosphoethanolamine transferases are widely distributed in Gramnegative bacteria, and are 
+constitutively expressed in some species, including Neisseria meningitidis9 and Moraxella catarrhalis10, 
+that in consequence are intrinsically polymyxinresistant. In others, including Acinetobacter 
+baumannii11, acquired polymyxin resistance can arise from upregulation of chromosomal PEtN 
+transferases, but in E. coli this has remained rare. In 2015 however, a plasmidborne polymyxin 
+resistance determinant, the Mobile Colistin Resistance (MCR)1 PEtN transferase, was identified in 
+China in an E. coli isolate of porcine origin12, since when multiple MCR isoforms have been discovered 
+in multiple species worldwide13. In E. coli MCR production remains the dominant polymyxin resistance 
+mechanism.

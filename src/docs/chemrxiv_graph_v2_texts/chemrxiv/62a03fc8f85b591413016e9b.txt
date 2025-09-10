@@ -1,0 +1,21 @@
+Description:
+An amino acid with unique nucleophilicity and low natural abundance, used for selective protein modifications.
+
+Text:
+The development of bioconjugation techniques has be
+come a cornerstone for the advancement of chemical prote
+omics1, biomaterial synthesis2, biomolecular imaging3, 
+singlemolecule analysis4, singlecell multiomics5 and 
+multispecific drugs6. Despite the emergence of bioconjuga
+tion reactions that utilize different natural and unnatural 
+amino acids in protein molecules7, cysteine (Cys)specific 
+conjugation remains the most widely used strategy for na
+tive protein modification8. This is due to the unique nucle
+ophilicity and the low natural abundance of Cys residues, 
+which provides opportunities for rapid and selective pro
+tein modifications9. Various types of reactions have been 
+reported to specifically label Cys in proteins, including al
+kylation10, arylation11 and Michael additions12. Among 
+these, Michael addition appears a more favorable chemistry 
+in application due to its fast reaction kinetics in aqueous 
+buffer.

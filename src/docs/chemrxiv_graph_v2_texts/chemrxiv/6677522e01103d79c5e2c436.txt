@@ -1,0 +1,22 @@
+Description:
+A component of OCT media used for embedding tissues.
+
+Text:
+48 
+Freshfrozen (FF) tissue preparations have been the longstanding gold standard for the 
+49 
+analysis of nucleic acids and proteins.1 This also carries over to various forms of biomolecular 
+50 
+imaging, including spatial metabolomics and lipidomics.2, 3 However, tissues that have 
+51 
+undergone extensive clinical studies are often not preserved in a manner that is directly 
+52 
+compatible with newer multiomics assays, such as mass spectrometry (MS) or MS imaging 
+53 
+(MSI). A common approach for preserving morphology and anatomical features of FF tissues 
+54 
+postsurgical dissection or resection is embedding within optimal cutting temperature (OCT) 
+55 
+media.4 OCT media is a mixture of various molecular weight polyvinyl alcohol (PVA) and 
+56 
+polyethylene glycol (PEG) polymers.

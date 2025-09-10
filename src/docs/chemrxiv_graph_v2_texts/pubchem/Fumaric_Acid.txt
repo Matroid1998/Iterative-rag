@@ -1,0 +1,31 @@
+Name: Fumaric Acid
+Text:
+Fumaric acid appears as a colorless crystalline solid. The primary hazard is the threat to the environment. Immediate steps should be taken to limit spread to the environment. Combustible, though may be difficult to ignite. Used to make paints and plastics, in food processing and preservation, and for other uses.
+Fumaric acid is a butenedioic acid in which the C=C double bond has E geometry. It is an intermediate metabolite in the citric acid cycle. It has a role as a food acidity regulator, a fundamental metabolite and a geroprotector. It is a conjugate acid of a fumarate(1-).
+Fumaric acid is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Fumaric acid has been reported in Phomopsis velata, Tropicoporus linteus, and other organisms with data available.
+FUMARIC ACID is a small molecule drug with a maximum clinical trial phase of IV (across all indications) and is indicated for psoriasis and has 1 investigational indication.
+Fumaric acid is a precursor to L-malate in the Krebs tricarboxylic acid cycle. It is formed by the oxidation of succinate by succinate dehydrogenase. Fumarate is converted by fumarase to malate. A fumarate is a salt or ester of the organic compound fumaric acid, a dicarboxylic acid. Fumarate has recently been recognized as an oncometabolite. (A15199). As a food additive, fumaric acid is used to impart a tart taste to processed foods. It is also used as an antifungal agent in boxed foods such as cake mixes and flours, as well as tortillas. Fumaric acid is also added to bread to increase the porosity of the final baked product. It is used to impart a sour taste to sourdough and rye bread. In cake mixes, it is used to maintain a low pH and prevent clumping of the flours used in the mix. In fruit drinks, fumaric acid is used to maintain a low pH which, in turn, helps to stabilize flavor and color. Fumaric acid also prevents the growth of E. coli in beverages when used in combination with sodium benzoate. When added to wines, fumaric acid helps to prevent further fermentation and yet maintain low pH and eliminate traces of metallic elements. In this fashion, it helps to stabilize the taste of wine. Fumaric acid can also be added to dairy products, sports drinks, jams, jellies and candies. Fumaric acid helps to break down bonds between gluten proteins in wheat and helps to create a more pliable dough. Fumaric acid is used in paper sizing, printer toner, and polyester resin for making molded walls.
+See also: Maleic acid-2,3-13C2 (annotation moved to).
+Properties:safety: Irritant
+smiles: C(=C/C(=O)O)\C(=O)O
+formula: C4H4O4
+chem_properties: Molecular Weight: 116.07 g/mol
+XLogP3: -0.3
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 2
+Exact Mass: 116.01095860 Da
+Monoisotopic Mass: 116.01095860 Da
+Topological Polar Surface Area: 74.6
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 119
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

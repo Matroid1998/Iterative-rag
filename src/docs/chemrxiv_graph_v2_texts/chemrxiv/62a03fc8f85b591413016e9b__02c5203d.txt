@@ -1,0 +1,17 @@
+Description:
+Adducts are not resistant to biochemical nucleophiles and decompose in clinically relevant samples.
+
+Text:
+Notably, seven of twelve FDAapproved antibody
+drug conjugates (ADC) are constructed via the Michael ad
+dition reactions between Cys and maleimide13. Although maleimide has been widely used in protein label
+ing since the discovery in the 1950s14, the thiolmaleimide re
+action is limited by several drawbacks. First, maleimide may 
+react with amine at higher pH to generate heterogenous mix
+tures of conjugates, which links to the residue of Cys or Lysine 
+(Lys)12. Second, the hydrolysis of maleimide in alkaline solu
+tion results in an unreactive maleamic acid, which requires 
+strict storage conditions for maleimide reagents15. Most im
+portantly, thiolmaleimide adducts are not resistant to bio
+chemical nucleophiles, and easily decompose in clinically rele
+vant samples16.

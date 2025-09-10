@@ -1,0 +1,30 @@
+Name: Pomalidomide
+Text:
+Pomalidomide is an aromatic amine that is thalidomide substituted at position 4 on the isoindole ring system by an amino group. Used for the treatment of multiple myeloma in patients who failed to respond to previous therapies. It has a role as an antineoplastic agent, an immunomodulator and an angiogenesis inhibitor. It is a dicarboximide, a member of isoindoles, a member of piperidones and an aromatic amine. It is functionally related to a thalidomide.
+Pomalidomide, an analogue of thalidomide, is an immunomodulatory antineoplastic agent. FDA approved on February 8, 2013.
+Pomalidomide is a Thalidomide Analog.
+Pomalidomide is an immunomodulatory and antineoplastic agent that is used in the therapy of multiple myeloma. Pomalidomide, like the structurally related agents thalidomide and lenalidomide, is associated with a low rate of serum aminotransferase elevations during therapy and has been implicated in causing rare instances of clinically apparent liver injury which can be severe.
+Pomalidomide is an orally bioavailable derivative of thalidomide with potential immunomodulating, antiangiogenic and antineoplastic activities. Although its exact mechanism of action has yet to be fully elucidated, pomalidomide appears to inhibit TNF-alpha production, enhance the activity of T cells and natural killer (NK) cells and enhance antibody-dependent cellular cytotoxicity (ADCC). In addition, pomalidomide may inhibit tumor angiogenesis, promote cell cycle arrest in susceptible tumor cell populations, and stimulate erythropoeisis.
+POMALIDOMIDE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2013 and is indicated for multiple myeloma and immune system disease and has 28 investigational indications. This drug has a black box warning from the FDA.
+Properties:safety: Health Hazard
+smiles: C1CC(=O)NC(=O)C1N2C(=O)C3=C(C2=O)C(=CC=C3)N
+formula: C13H11N3O4
+chem_properties: Molecular Weight: 273.24 g/mol
+XLogP3: 0.2
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 1
+Exact Mass: 273.07495584 Da
+Monoisotopic Mass: 273.07495584 Da
+Topological Polar Surface Area: 110
+Heavy Atom Count: 20
+Formal Charge: 0
+Complexity: 504
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

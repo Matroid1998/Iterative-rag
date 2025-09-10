@@ -1,0 +1,29 @@
+Name: Tolfenamic acid
+Text:
+Tolfenamic acid is an aminobenzoic acid that is anthranilic acid in which one of the hydrogens attached to the nitrogen is replaced by a 3-chloro-2-methylphenyl group. Tolfenamic acid is used specifically for relieving the pain of migraine. It also shows anticancer activity. It has a role as a non-steroidal anti-inflammatory drug, a non-narcotic analgesic, an EC 1.14.99.1 (prostaglandin-endoperoxide synthase) inhibitor and an EC 2.7.1.33 (pantothenate kinase) inhibitor. It is an aminobenzoic acid, an organochlorine compound and a secondary amino compound. It is functionally related to an anthranilic acid.
+Tolfenamic acid, with the formula N-(2-methyl-3-chlorphenyl)-anthranilic acid, is a nonsteroidal anti-inflammatory agent. It was discovered by scientists at Medica Pharmaceutical Company in Finland. It is used in the UK as a treatment for migraine under the name of Clotam. In the US, it presents a Status class I by the FDA. By the European Medicine Agency, it was granted in 2016 with the status of orphan for the treatment of supranuclear palsy.
+Tolfenamic Acid is an orally available, benzoic acid derivative and a non-steroidal anti-inflammatory drug (NSAID) with anti-inflammatory, antipyretic, analgesic and potential anti-neoplastic activities. Tolfenamic acid inhibits the activity of the enzymes cyclooxygenase (COX) I and II, resulting in a decreased formation of precursors of prostaglandins and thromboxanes. The decrease in prostaglandin synthesis results in the therapeutic effects of this agent. Tolfenamic acid also inhibits thromboxane A2 synthesis, by thromboxane synthase, which decreases platelet aggregation. In addition, this agent exerts anti-tumor effects through COX-dependent and independent pathways. Specifically, this agent induces the production of reactive oxygen species, causes DNA damage, increases nuclear factor-kappa B (NF-kB) activation and the expression of activating transcription factor 3 (ATF3) and NSAID-activated gene-1 (NAG1), and inhibits the expression of specificity proteins (Sp), which reduces the expression of Sp-dependent anti-apoptotic and growth-promoting proteins. Altogether, this enhances tumor cell apoptosis, and reduces tumor cell growth and angiogenesis.
+TOLFENAMIC ACID is a small molecule drug with a maximum clinical trial phase of IV (across all indications) and is indicated for rheumatic disease and has 2 investigational indications.
+See also: 2-((4-Chloro-3-methylphenyl)amino)benzoic acid (annotation moved to).
+Properties:safety: Acute Toxic
+smiles: CC1=C(C=CC=C1Cl)NC2=CC=CC=C2C(=O)O
+formula: C14H12ClNO2
+chem_properties: Molecular Weight: 261.70 g/mol
+XLogP3: 5.2
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 3
+Exact Mass: 261.0556563 Da
+Monoisotopic Mass: 261.0556563 Da
+Topological Polar Surface Area: 49.3
+Heavy Atom Count: 18
+Formal Charge: 0
+Complexity: 298
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,14 @@
+Description:
+A homonuclear diatomic molecule whose dissociation involves a delicate interplay between weak and strong correlation.
+
+Text:
+For example, upon dissociation of H2, DM21 gets the region around equilibrium right (weak
+correlation) as well as the dissociation limit (strong correlation) as it has been trained on
+its dissociation limit.13 However, describing homonuclear diatomics at intermediate bond
+distances (e.g., about 3 for H2) can be even more challenging than the dissociation limit
+due to the delicate interplay between weak (dynamical) and strong (static) correlation.14 For
+the intermediate distances, DM21 displays a large unphysical bump in the H2 dissociation
+curve.13 This deciency of DM21 can be xed by symmetry breaking or fractional KS occu
+pations, but the two approaches would also x e.g., B3LYPs H2 dissociation curves.15,16 The
+challenge is thus to build an XC approximation capturing strong correlation in the standard
+2

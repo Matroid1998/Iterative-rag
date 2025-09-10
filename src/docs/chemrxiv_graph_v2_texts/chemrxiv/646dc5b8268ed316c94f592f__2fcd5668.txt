@@ -1,0 +1,14 @@
+Description:
+A piezoelectric material with a positive longitudinal strain piezo coefficient, d33, that expands along the polar axis under an applied electric field.
+
+Text:
+Many modern devices such as resonators for radio fre
+quency filtering, medical ultrasound, fuel injectors, sonar,
+and vibrationpowered electronics rely on the piezoelec
+tric property of materials that can convert mechanical
+to electrical energy and vice versa. The piezoelectric
+coefficients dij and eij, quantify the strength of the
+piezoresponse. Usually the longitudinal strain piezo
+coefficient, d33 of common piezoelectrics, e.g. PbTiO3,
+is positive as the material expands along the polar axis
+under an applied electric field in the same direction.

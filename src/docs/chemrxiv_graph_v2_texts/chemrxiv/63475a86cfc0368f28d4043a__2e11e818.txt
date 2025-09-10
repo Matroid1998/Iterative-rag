@@ -1,0 +1,12 @@
+Description:
+A cofeed that helps prevent coke formation by favoring desorption of alkenes.
+
+Text:
+The formation of coke, or carbonaceous deposits, is a persistent problem for dehydrogena
+tion catalysts, as it results in their rapid deactivation. Deactivation is typically attributed
+to physical blocking of active sites on the catalyst. Coke formation on Ptbased alkane de
+hydrogenation catalysts originates from the lack of selectivity of the catalyst; side reactions
+for deeper dehydrogenation past alkenes and CC cracking contribute to coke formation. Approaches to preventing coke formation include cofeeding H2,1 changing Pt nanoparticle
+size,2 and dopants or promoters such as Sn,35 Ge,6,7 Si,8 Ga,911 Zn,12 and B.1315 These
+approaches all favor desorption of the desired alkenes over deeper dehydrogenation (or crack
+ing) reactions.

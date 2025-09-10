@@ -1,0 +1,19 @@
+Description:
+A chemotherapy drug used in the treatment of glioblastoma.
+
+Text:
+Gliomas represent 40 of all brain tumors, which makes them the
+most common and deadly human primary brain tumors About half of all newly diagnosed
+gliomas correspond to glioblastoma (GBM), which is the most malignant type of brain cancer
+(grade IV) with a median overall survival of approximately 14 17 months in current clinical
+trials2 3 and around 12 months in populationbased studies.1 3 4 Because of the heterogeneous
+nature of GBM, its treatment includes maximally safe surgical resection with subsequently
+parallel chemotherapy (Temozolomide) and fractionated radiotherapy.5 Consistently low tumor
+oxygenation (1 O2), also known as chronic hypoxia, is the main concern for GBM patients
+since it promotes cancer cells spreading into healthy brain tissues to evade the adverse hypoxic
+microenvironment.6 Although resection can achieve a reduction of the primary tumor burden, the
+observation that more than 80 of the recurrences are situated adjacent to the resection cavity
+suggests some utility for therapeutic platforms targeting this region.7 Previously, it has been
+shown that due to the weakly differentiated neoplastic astrocytes that do not release factors vital
+for the brainblood barrier (BBB) function, leaky interendothelial tight junctions exist in human
+glioma.

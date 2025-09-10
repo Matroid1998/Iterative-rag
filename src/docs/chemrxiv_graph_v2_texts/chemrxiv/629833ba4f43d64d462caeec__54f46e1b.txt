@@ -1,0 +1,19 @@
+Description:
+Catalyst offering a general platform for C(sp3)C(sp2) cross-electrophile coupling reactions.
+
+Text:
+Extensive pro
+gress has been made in developing C(sp3)C(sp2) crosselectro
+phile coupling reactions, with Ni catalysis offering a particu
+larly general platform.2 Mechanistic studies on select Nicata
+lyzed reactions have revealed that distinct, hybridizationde
+pendent activation mechanisms give rise to the crossselectivity 
+with C(sp2) and C(sp3) electrophiles.3,4 In contrast, methods for 
+selective coupling of two C(sp3) electrophiles remain underde
+veloped, owing to the more subtle differences in reactivity be
+tween the two reaction partners (Figure 1A).5 Nevertheless, 
+there has been important recent progress made in this area using 
+Ni6 or Cu catalysis7 with chemical reductants and electrochem
+ical methods.8 These approaches typically rely on substrate stoi
+chiometry, differences in (pseudo)halide identities or differ
+ences in substitution at the carbon center to achieve selectivity.

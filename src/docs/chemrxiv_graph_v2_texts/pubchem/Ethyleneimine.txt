@@ -1,0 +1,29 @@
+Name: Ethyleneimine
+Text:
+Ethyleneimine can cause cancer according to an independent committee of scientific and health experts.
+Ethyleneimine, stabilized appears as a clear colorless liquid with an ammonia-like odor. Flash point 12 °F. Less dense than water. Flammable over a wide range of vapor-air concentrations. Vapors irritate the skin, eyes, nose, and throat. May be toxic by prolonged inhalation, skin absorption, or ingestion. Carcinogenic. Vapors heavier than air. May polymerize exothermically if heated or contaminated. If the polymerization takes place inside a container, the container may rupture violently.
+Aziridine is a saturated organic heteromonocyclic parent, a member of aziridines and an azacycloalkane. It has a role as an alkylating agent. It is a conjugate base of an aziridinium.
+Ethyleneimine has many uses, including in polymerization products and in adhesives and binders. Acute (short-term) inhalation exposure to ethyleneimine causes severe respiratory tract irritation and inflammation in humans, but symptoms may be delayed for several hours. Some symptoms of acute inhalation exposure in humans include tearing and burning of the eyes, sore throat, nasal secretion, bronchitis, shortness of breath, and edema of the lungs. Ethyleneimine is a severe blistering agent, causing third degree chemical burns of the skin. It is also corrosive to eye tissue and may cause permanent corneal opacity and conjunctival scarring. At low levels, chronic (long-term) inhalation exposure has been reported to result in effects on the blood in humans. EPA has not classified ethyleneimine for carcinogenicity.
+Ethyleneimine is a monofunctional alkylating agent with potential antineoplastic activity.  Reacting with DNA mainly at guanine and adenine residues, ethylenimine alkylates DNA, thereby producing DNA interstrand crosslinks and DNA breaks, and interfering with DNA replication and cell division. (NCI04)
+Properties:safety: Flammable and Corrosive and Acute Toxic and Health Hazard and Environmental Hazard
+smiles: C1CN1
+formula: C2H5N
+chem_properties: Molecular Weight: 43.07 g/mol
+XLogP3: -0.4
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 43.042199164 Da
+Monoisotopic Mass: 43.042199164 Da
+Topological Polar Surface Area: 21.9
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 10.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

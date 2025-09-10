@@ -1,0 +1,32 @@
+Description:
+A semiconductor nanowire with strong spin-orbit coupling used in research on Majorana Zero Modes.
+
+Text:
+Majorana Zero Modes (MZMs) are an active area of research into potentially nonAbelian
+quantum states which some authors suggested could offer a degree of protection for de
+coherence in specially designed quantum computing architectures.13 MZMs manifest as
+zeroenergy midgap states localized at boundaries and topological defects within one and
+twodimensional topological superconductors.4 One heavily researched platform for realiz
+ing MZMs involves proximity coupling a conventional superconductor, most commonly Al
+and Nbbased alloys, with a semiconductor nanowire with strong spinorbit coupling (SOC),
+such as InAs or InSb.
+
+
+---
+
+Description:
+A semiconductor used in hybrid nanowire systems to improve electron mobility.
+
+Text:
+The realization of MZMs typically requires external magnetic field or
+another form of broken symmetry.58 Recently, advancements have been made in material
+selection and experimental techniques in such semiconductornanowiresuperconductor sys
+tems, addressing challenges identified during initial experimental efforts that did not yield
+a clear evidence of MZMs.911 Approaches include investigating different combinations of
+semiconductors such as InAs and InSb and superconductors, such as Pb, Sn, Nb, which aim
+to improve electron mobility and harness larger superconducting gaps and higher critical
+magnetic fields.1216
+A challenge of the semiconductorsuperconductor hybrid nanowire configuration is that
+excessive coupling between the superconducting metal and semiconductor can lead to the
+metallization of the semiconductor, which could hinder achieving the desired topological
+phase in experimental setups.

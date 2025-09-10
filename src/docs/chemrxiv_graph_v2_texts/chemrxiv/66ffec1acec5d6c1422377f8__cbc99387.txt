@@ -1,0 +1,16 @@
+Description:
+A superconductor employed to enhance superconducting properties in semiconductor-superconductor systems.
+
+Text:
+The realization of MZMs typically requires external magnetic field or
+another form of broken symmetry.58 Recently, advancements have been made in material
+selection and experimental techniques in such semiconductornanowiresuperconductor sys
+tems, addressing challenges identified during initial experimental efforts that did not yield
+a clear evidence of MZMs.911 Approaches include investigating different combinations of
+semiconductors such as InAs and InSb and superconductors, such as Pb, Sn, Nb, which aim
+to improve electron mobility and harness larger superconducting gaps and higher critical
+magnetic fields.1216
+A challenge of the semiconductorsuperconductor hybrid nanowire configuration is that
+excessive coupling between the superconducting metal and semiconductor can lead to the
+metallization of the semiconductor, which could hinder achieving the desired topological
+phase in experimental setups.

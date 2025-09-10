@@ -1,0 +1,18 @@
+Description:
+Limited pool of canonical hydrophobic types with side chains differing in structure and volume.
+
+Text:
+The preferential interaction between apolar solutes in water 
+the hydrophobic effect  is a key factor driving protein fold
+ing1,2, structural stability with respect to changes in tempera
+ture3,4 (thermal stability) and interactions with other proteins
+and ligands5,6. The hydrophobic effect reects the balance be
+tween solutewater interactions and direct, predominantly dis
+persive, solutesolute interactions7,8. Understanding how to use
+amino acid mutations to control the hydrophobic effect is crit
+ical to develop new proteinbased drugs, biodevices and mate
+rials913. Simultaneously, minimizing changes in solutesolute
+packing upon mutations is desirable to ensure that protein struc
+ture  and thus function  is preserved14,15. This is, however, dif
+cult with the limited pool of canonical hydrophobic amino acids
+because their side chains differ in structure and volume.

@@ -1,0 +1,118 @@
+Description:
+An oxygenate with lower volatility, lower hydroscopicity, and higher energy density than ethanol, providing similar knock resistance.
+
+Text:
+In June 2018, the U. S. Environmental Protection Agency ap
+proved the large scale blending of bioderived isobutanol into
+gasoline at concentrations up to 16.1,2 This newly approved
+oxygenate has multiple advantages over ethanol, such as lower
+volatility,3 lower hydroscopicity,4 and higher energy density,3
+while providing similar knock resistance.5 Relative to larger
+alcohol additives, isobutanol also shows longer ignition delay
+times with lower CO and NOx emissions,6 indicating it could
+help boost the octane numbers of fuel while lowering other
+emissions. With this approval, isobutanol could become a
+major component of transportation fuel in the United States. While extensive experimental testing was necessary prior to
+the approval,4 detailed isobutanol combustion models are still
+inaccurate at enginerelevant conditions, indicating a gap in
+our understanding of isobutanol combustion.
+
+
+---
+
+Description:
+Shows longer ignition delay times with lower CO and NOx emissions compared to larger alcohol additives.
+
+Text:
+In June 2018, the U. S. Environmental Protection Agency ap
+proved the large scale blending of bioderived isobutanol into
+gasoline at concentrations up to 16.1,2 This newly approved
+oxygenate has multiple advantages over ethanol, such as lower
+volatility,3 lower hydroscopicity,4 and higher energy density,3
+while providing similar knock resistance.5 Relative to larger
+alcohol additives, isobutanol also shows longer ignition delay
+times with lower CO and NOx emissions,6 indicating it could
+help boost the octane numbers of fuel while lowering other
+emissions. With this approval, isobutanol could become a
+major component of transportation fuel in the United States. While extensive experimental testing was necessary prior to
+the approval,4 detailed isobutanol combustion models are still
+inaccurate at enginerelevant conditions, indicating a gap in
+our understanding of isobutanol combustion.
+
+
+---
+
+Description:
+Involves peroxy radical chemistry important in combustion regimes.
+
+Text:
+Detailed isobu
+tanol mechanisms typically deviate more from experiments
+than do models of nbutanol, tertbutanol and secbutanol.7,8
+Multiple intermodel comparisons using detailed isobutanol
+models have showed that at lean, lowtemperature conditions
+the models yield a wide range of ignition timings that devi
+ate from experimental ignition delay measurements in homo
+geneous charge compression9 and shock tube setups.10 One
+mechanism shows the largest deviations from experiments be
+low 850 K and at fuel lean conditions, indicating that the
+dependence on O2 might be incorrectly described.11
+Such shortcomings of isobutanol combustion indicate a
+need for an improved understanding of isobutanol combus
+tion in combustion regimes in which peroxy radical chemistry
+is often important.12 The dominant degradation pathway of
+peroxy radicals at various temperatures and pressures impacts
+overall ignition properties such as the negative temperature
+coecient region, in which ignition slows with increasing tem
+OH
+OO
+RO2
+OH
+OO
+OH
+OO
+RO2
+RO2
+Figure 1 The three peroxy isomers derived from isobutanol
+correspond to the three main sites for hydrogen abstraction
+from isobutanol.
+
+
+---
+
+Description:
+A fuel whose combustion chemistry is sensitive to equivalence ratio and pressure.
+
+Text:
+perature. While several aspects of isobutanol combustion chemistry
+have been studied in detail, such as the initial hydrogen ab
+straction by OH13 and the oxidation of its smaller oxidation
+products,14 accurate pressuredependent kinetics of peroxy
+radicals formed in isobutanol combustion has not been fully
+developed nor incorporated into detailed models. This is in
+spite of some isobutanol studies showing that ignition delay
+is sensitive to peroxy radical reactions.8,10 Given the sensi
+tivity of this fuel to equivalence ratio and pressure,5 the for
+mation and fate of peroxy radicals can signicantly impact
+ignition timing and multistage heat release.12,15 Peroxy rad
+ical chemistry is also expected to control the environmental
+fate of isobutanol emitted into the environment, since peroxy
+radicals are also key intermediates in atmospheric degradation
+processes.
+
+
+---
+
+Description:
+Undergoes hydrogen abstraction leading to the formation of peroxy radicals.
+
+Text:
+Figure 1 shows the peroxy radicals studied in this work,
+which correspond to the three most predominant hydrogen
+abstractions that isobutanol can undergo. The alkoxy radical
+formed from hydrogen abstraction of isobutanol by OH is ex
+pected to be much less common13 and is not included in this
+work. For each of the three isomers studied, various unimolec
+ular reactions can occur, as shown in Figure 2. The peroxy
+radicals (RO2) can isomerize through intramolecular hydro
+1

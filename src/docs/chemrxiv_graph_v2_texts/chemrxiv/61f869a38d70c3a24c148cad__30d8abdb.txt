@@ -1,0 +1,26 @@
+Description:
+A material whose hydrophobicity can be enhanced by texturizing the substrate surface and depositing hydrocarbons.
+
+Text:
+So, the nature of the hydrophobicity of CeO2 still remains unclear. The goal of the current study is to investigate which factors control the wetting behavior of CeO2. We report how to 
+enhance hydrophobicity of CeO2 by texturizing the substrate surface and depositing hydrocarbons. The clear 
+understanding of the parameters governing hydrophobicity and their relationship might accelerate research and 
+implementation of the material in reallife applications. 2. Experimental details 
+The principal way to achieve the superhydrophobic state with WCA above 150 is through the creation of surface 
+roughness by surface texturization 12. It should be mentioned that besides helping to achieve the superhydrophobic 
+condition, the advanced surface morphology reduces reflection from the material and therefore makes it advantageous 
+for use in PV applications.
+
+
+---
+
+Description:
+Used in the production of superhydrophobic films through sputter deposition.
+
+Text:
+The procedure for producing CeO2based superhydrophobic films utilized in this work consists of 3 consequent steps 
+Fig. 1 1) texturization of the substrate by chemical etching; 2) sputter deposition of the CeO2 thin film; 3) controlled 
+adsorption of organic molecules by placing the CeO2coating in a saturated environment of organic materials. The substates used to obtain the superhydrophobic condition for CeO2 were monocrystalline (100) ntype silicon 
+wafers with initial thickness d100 m. In order to get even texturization of ceria thin films, the Siwafers were 
+chemically etched with a KOH wet process 15. The KOH concentration was maintained at a level of 2 wt. during 
+etching. The etching was carried out at 80C for 20 min.

@@ -1,0 +1,25 @@
+Name: N-(2-Acetamido)Iminodiacetic Acid
+Text:
+2,2'-[(2-amino-2-oxoethyl)imino]diacetic acid is a tricarboxylic acid amide that is a Good's buffer substance, pKa = 6.6 at 20 ℃. It is a dicarboxylic acid, a tricarboxylic acid amide and an ADA. It is functionally related to a nitrilotriacetic acid. It is a conjugate acid of a 2,2'-[(2-amino-2-oxoethyl)imino]diacetate(1-).
+Properties:safety: Irritant
+smiles: C(C(=O)N)N(CC(=O)O)CC(=O)O
+formula: C6H10N2O5
+chem_properties: Molecular Weight: 190.15 g/mol
+XLogP3: -3.9
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 6
+Exact Mass: 190.05897142 Da
+Monoisotopic Mass: 190.05897142 Da
+Topological Polar Surface Area: 121
+Heavy Atom Count: 13
+Formal Charge: 0
+Complexity: 211
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

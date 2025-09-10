@@ -1,0 +1,31 @@
+Name: Quinone
+Text:
+Benzoquinone appears as a yellowish-colored crystalline solid with a pungent, irritating odor. Poisonous by ingestion or inhalation of vapors. May severely damage skin, eyes and mucous membranes. Used to make dyes and as a photographic chemical.
+1,4-benzoquinone is the simplest member of the class of 1,4-benzoquinones, obtained by the formal oxidation of hydroquinone to the corresponding diketone. It is a metabolite of benzene. It has a role as a cofactor, a human xenobiotic metabolite and a mouse metabolite.
+Quinone is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Occupational exposure to quinone may occur in the dye, textile, chemical, tanning, and cosmetic industries. Acute (short-term) exposure to high levels of quinone, via inhalation in humans, results in irritation of the eyes, consisting of discoloration of the conjunctiva and cornea, and causes dermatitis from dermal exposure. Chronic (long-term) inhalation exposure to quinone in humans may result in visual disturbances, and chronic dermal contact causes skin ulceration. No information is available on the reproductive, developmental, or carcinogenic effects of quinone in humans. The results of available animal studies are insufficient to evaluate the carcinogenicity of quinone. EPA has not evaluated quinone for carcinogenicity.
+1,4-Benzoquinone has been reported in Blaps lethifera, Uloma tenebrionoides, and other organisms with data available.
+Quinone is also called 1,4-benzoquinone or cyclohexadienedione. Quinones are oxidized derivatives of aromatic compounds and are often readily made from reactive aromatic compounds with electron-donating substituents such as phenols and catechols, which increase the nucleophilicity of the ring and contributes to the large redox potential needed to break aromaticity. Derivatives of quinones are common constituents of biologically relevant molecules. Some serve as electron acceptors in electron transport chains such as those in photosynthesis (plastoquinone, phylloquinone), and aerobic respiration (ubiquinone). Quinone is a common constituent of biologically relevant molecules (e.g. Vitamin K1 is phylloquinone). A natural example of quinones as oxidizing agents is the spray of bombardier beetles. Hydroquinone is reacted with hydrogen peroxide to produce a fiery blast of steam, a strong deterent in the animal world.
+Quinone is a metabolite found in or produced by Saccharomyces cerevisiae.
+Properties:safety: Acute Toxic and Environmental Hazard
+smiles: C1=CC(=O)C=CC1=O
+formula: C6H4O2
+chem_properties: Molecular Weight: 108.09 g/mol
+XLogP3: 0.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 108.021129366 Da
+Monoisotopic Mass: 108.021129366 Da
+Topological Polar Surface Area: 34.1
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 149
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

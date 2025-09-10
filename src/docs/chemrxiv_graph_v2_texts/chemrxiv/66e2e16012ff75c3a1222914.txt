@@ -1,0 +1,12 @@
+Description:
+A drug that has shown clinical success in treating certain hematologic malignancies by targeting Bruton's tyrosine kinase (BTK).
+
+Text:
+Interleukin2inducible Tcell kinase (ITK) and Brutons tyrosine kinase (BTK) play pivotal 
+roles in the immune system and have been implicated in human diseases1. ITK, primarily 
+expressed in Tcells, regulates Tcell activation and differentiation. Dysregulation of ITK has 
+been associated with various cancers2, highlighting its potential as a therapeutic target in cancer 
+immunotherapy. On the other hand, BTK, predominantly expressed in B cells, is a key 
+component of Bcell receptor signaling. Aberrant BTK activity has been linked to Bcell 
+malignancies, such as Bcell lymphomas and leukemia3. Targeting BTK, as demonstrated by 
+drugs like Ibrutinib, has shown clinical success in treating certain hematologic malignancies4.

@@ -1,0 +1,24 @@
+Name: Diethylene glycol ethyl methyl ether
+Text:
+Properties:safety: Irritant
+smiles: CCOCCOCCOC
+formula: C7 H16 O3
+chem_properties: Molecular Weight: 148.20 g/mol
+XLogP3: 0
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 7
+Exact Mass: 148.109944368 Da
+Monoisotopic Mass: 148.109944368 Da
+Topological Polar Surface Area: 27.7
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 56.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

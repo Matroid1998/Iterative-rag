@@ -1,0 +1,37 @@
+Description:
+Adsorption on magnesium can lead to the corrosion of Mg metals.
+
+Text:
+Typically, one
+would expect that the adsorption of negatively charged
+species such as anions on a surface would lead to a dipole
+moment at the surface that would increase the work
+function of the metal surface. Results of firstprinciples
+electronic structure calculations using density functional
+theory have demonstrated that this anomalous behavior
+can be attributed to a strong polarization of the halogen
+atoms upon adsorption 1517. To the best of our knowledge, the adsorption of chlo
+rine on magnesium has not been intensively studied yet
+from a computational point of view. The existing studies
+were motivated by the fact that chlorine adsorption could
+lead to the corrosion of Mg metals 1820.
+
+
+---
+
+Description:
+Adsorbs on metal anodes as the first step in anode conversion upon discharge in Cl-ion batteries.
+
+Text:
+These com
+putational studies found that Cl preferentially adsorbs
+in the threefold hollow positions on Mg(0001) associ
+ated with a slight increase in the workfunction. Upon
+the operation of a Clion batteries, the metal anode will
+be converted to a chloride salt which provides the ther
+modynamical driving force for the discharge of a Clion
+battery. The energy gain upon this conversion does in
+fact represent the driving force in the Clion battery op
+eration 5, 6. This means that the adsorption of chlorine
+on the metal anode does only correspond to the first step
+in the anode conversion upon discharge.

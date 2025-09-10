@@ -1,0 +1,12 @@
+Description:
+A compound that binds to p38 MAP kinase and leukotriene A4 hydrolase.
+
+Text:
+Figure 1 (a) 3(benzyloxy)pyridin2amine (3BPA). (b) Bound to p38 MAP kinase (PDB
+1W7H).1 (c) Bound to leukotriene A4 hydrolase (PDB 3FTY).2
+The interplay of the intramolecular, or internal, energy of a molecule and the nonbonded
+energetics that determine its interactions with its environment play a crucial role in simu
+lations of protein folding,3 crystal structure prediction,4 proteinligand binding,5 and many
+more. In particular, oral drugs are typically exible, containing on average 5.4 rotatable
+bonds,6 and are therefore capable of populating many free energy minima both in solution
+and also when bound to their target.

@@ -1,0 +1,14 @@
+Description:
+A substrate used in hydrogenolysis and hydrocracking for upcycling.
+
+Text:
+Two of the most promising routes for catalytic polyolefin upcycling are hydrogenolysis 
+and hydrocracking. They require no additional feedstocks as metathesis or alkylation,8, 9 and are 
+less susceptible to deactivation than pyrolysis or HaagDessau cracking on monofunctional acidic 
+catalysts.6, 10, 11 Besides, these two reactions have been crucial parts of the oil refining industry and 
+thus extensively studied with small alkane substrates, with established operation infrastructure and 
+fundamental understanding partially applicable to polyolefin substrates. Both hydrogenolysis and 
+hydrocracking refer to CC bond cleavage under H2 on supported metal catalysts, but the former 
+cleaves CC bonds on the metal, while the latter cleaves CC bonds (and isomerizes substrates) 
+on Brnsted acid sites after dehydrogenation on the metal, thus requiring metalacid bifunctional 
+catalysts.

@@ -1,0 +1,32 @@
+Name: Methyl Chloride
+Text:
+Chloromethane is also known as methyl chloride. It is a clear, colorless gas. It has a faint, sweet odor that is noticeable only at levels that may be toxic. It is heavier than air, and it is extremely flammable.
+Methyl Chloride can cause developmental toxicity according to The National Institute for Occupational Safety and Health (NIOSH). It can cause male reproductive toxicity according to The Environmental Protection Agency (EPA).
+Methyl chloride appears as a colorless gas with a faint sweet odor. Shipped as a liquid under its vapor pressure. A leak may either be liquid or vapor. Contact with the liquid may cause frostbite by evaporative cooling. Easily ignited. Vapors heavier than air. Can asphyxiate by the displacement of air. Under prolonged exposure to fire or intense heat the containers may rupture violently and rocket. Used to make other chemicals and as a herbicide.
+Chloromethane is a one-carbon compound that is methane in which one of the hydrogens is replaced by a chloro group. It has a role as a refrigerant, a mutagen and a marine metabolite. It is a member of methyl halides and a member of chloromethanes.
+Low levels of methyl chloride occur naturally in the environment. Higher levels may occur at chemical plants where it is made or used. Acute (short-term) exposure to high concentrations of methyl chloride in humans has caused severe neurological effects. Methyl chloride has also caused effects on the heart rate, blood pressure, liver, and kidneys in humans. Chronic (long-term) animal studies have shown liver, kidney, spleen, and central nervous system (CNS) effects. Inhalation studies have demonstrated that methyl chloride causes reproductive effects in male rats, with effects such as testicular lesions and decreased sperm production. Human cancer data are limited. EPA has classified methyl chloride as a Group D carcinogen (not classifiable as to human carcinogenicity).
+Chloromethane has been reported in Biflustra perfragilis with data available.
+Methyl Chloride is a colorless, flammable, toxic gas that was used widely as a refrigerant and has many current industrial applications, including use as a local anesthetic, a chemical intermediate in silicone polymer production and drug manufacturing, an extractant for oils and resins, a solvent in butyl rubber and petroleum refining, a propellant in polystyrene foam production, a methylating and chlorinating agent in organic chemistry and an herbicide. Exposure to methyl chloride can cause a wide variety of issues from frostbite, drowsiness and dizziness to paralysis, seizures and coma depending on the route and level (concentration and duration) of exposure.
+A hydrocarbon used as an industrial solvent. It has been used as an aerosal propellent, as a refrigerant and as a local anesthetic. (From Martindale, The Extra Pharmacopoeia, 31st ed, p1403)
+Properties:safety: Flammable and Compressed Gas and Health Hazard
+smiles: CCl
+formula: CH3Cl
+chem_properties: Molecular Weight: 50.49 g/mol
+XLogP3: 0.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 49.9923278 Da
+Monoisotopic Mass: 49.9923278 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 2
+Formal Charge: 0
+Complexity: 2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

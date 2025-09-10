@@ -1,0 +1,11 @@
+Description:
+Atoms that can be visualized using MicroED and neutron crystallography, unlike with X-ray crystallography.
+
+Text:
+This contrasts with Xray freeelectron laser (XFEL) serial 
+crystallography and serial synchrotron crystallography (SSX), which require hundreds of 
+thousands of crystals, with the crystals needing to be larger than 1 m and 5 m, 
+respectively.4,5 Ultimately, crystallographic techniques that use electrons, Xrays, or neutrons 
+are complementary because the beams interacting with the sample have different 
+sensitivities for various elements. Moreover, MicroED and neutron crystallography can 
+visualize hydrogen atoms, which are often not possible with Xray crystallography due to

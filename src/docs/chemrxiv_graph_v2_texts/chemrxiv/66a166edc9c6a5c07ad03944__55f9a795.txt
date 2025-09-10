@@ -1,0 +1,23 @@
+Description:
+A key element involved in carbon capture applications.
+
+Text:
+48
+Metalorganic frameworks (MOFs) are a well developed and studied class of material for carbon
+49
+capture applications;1116 in particular, hydroxidebased MOFs have been demonstrated to achieve
+50
+high capacities17,18 and high stabilities.11,15,16,19 In most cases a metalbound hydroxide will react
+51
+with CO2 to from a chemisorbed metalbicarbonate species (equation 1). However, in systems with
+52
+unreacted adjacent andor labile hydroxide anions, successive capture (eq. 2) and deprotonation
+53
+(eq. 3) steps may occur to from free bicarbonatecarbonate chemisorbed species. The interplay of
+54
+bicarbonate and carbonate species in hydroxide capture is well discussed in the context of humidity
+55
+swing sorbents.2022
+Most notably  for all hydroxidebased sorbents  there is the fundamental
+56
+stoichiometric difference between bicarbonate (eq. 2) and carbonate (eq.

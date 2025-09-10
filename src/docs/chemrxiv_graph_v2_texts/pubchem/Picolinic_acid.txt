@@ -1,0 +1,28 @@
+Name: Picolinic acid
+Text:
+Picolinic acid is a pyridinemonocarboxylic acid in which the carboxy group is located at position 2. It is an intermediate in the metabolism of tryptophan. It has a role as a MALDI matrix material and a human metabolite. It is a conjugate acid of a picolinate.
+PCL-016  or Picolinic acid drug substance is a pyridine carboxylate metabolite of tryptophan. It acts as an anti-infective and immunomodulator and is produced in approximately 25-50 mg quantities by the body on a daily basis through the breakdown of tryptophan. PCL-016 plays a key role in zinc transport. As a therapeutic agent, the molecule works by binding to zinc finger proteins (ZFPs) in a way that changes their structures and disrupts zinc binding, inhibiting function. ZFPs are involved in viral replication and packaging as well as normal cell homeostatic functions. Picolinic acid has been shown to be an anti-viral in vitro and in vivo, and sometimes works in conjunction with other cytokines such as interferon gamma to affect immune responses. Acne vulgaris, herpes and other viral infections therefore pose potential therapeutic targets of PCL-016.
+Picolinic acid has been reported in Fusarium lateritium, Aloe africana, and other organisms with data available.
+See also: Niacinamide (annotation moved to).
+Properties:safety: Corrosive and Irritant
+smiles: C1=CC=NC(=C1)C(=O)O
+formula: C6H5NO2
+chem_properties: Molecular Weight: 123.11 g/mol
+XLogP3: 0.8
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 1
+Exact Mass: 123.032028402 Da
+Monoisotopic Mass: 123.032028402 Da
+Topological Polar Surface Area: 50.2
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 114
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

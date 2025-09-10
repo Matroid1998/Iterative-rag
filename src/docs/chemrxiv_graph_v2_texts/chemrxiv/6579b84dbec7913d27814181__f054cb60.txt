@@ -1,0 +1,54 @@
+Description:
+The basal planes are generally chemically inert with interactions driven by van der Waals forces.
+
+Text:
+This tunability directly stems from their hexagonal symmetry
+structure, where each Mo atom is intricately coordinated by six neigh
+boring chalcogen atoms (S, Se, or Te), forming strong covalent bonds
+and adopting a trigonalprismatic geometry through the hybridization
+of molybdenums sd5 orbitals. This structural arrangement results in
+a lack of coordinatively unsaturated surface sites, rendering the basal
+planes of materials like MoS2, MoSe2, and MoTe2 generally chemi
+cally inert, with most external interactions primarily driven by van der
+Waals (vdW) forces. Moreover, the distinctive bonding configuration in
+these sheets results in the outwardprojecting pz orbitals of chalcogen
+atoms contributing to the valence band maximum (VBM). This feature
+enables effective charge transfers, even in cases where surface interac
+tions are relatively weak 18, 19.
+
+
+---
+
+Description:
+Exhibits remarkable sensitivity to NO2, facilitating excellent detection limits even under room temperature conditions.
+
+Text:
+As a result, the electronic properties
+of TMDs are highly susceptible to surface interactions, further expand
+ing their potential use in various applications. Corresponding author
+Email address maciej.szaryput.poznan.pl (Maciej J. Szary)
+One such promising application of TMDs capitalizes on their sensi
+tivity to surface interactions and low chemical reactivity is gas sensing. Thanks to their exceptional surfacetovolume ratio, TMDs hold the po
+tential for robust responses, even at room temperature (RT), provided
+that the permolecule transfer rates are sufficiently high for the target
+analyte. As a result, materials such as MoS2, MoSe2, and MoTe2 have
+exhibited remarkable sensitivity to NO2, facilitating excellent detection
+limits even under RT conditions 2023.
+
+
+---
+
+Description:
+A material with a narrow bandgap, making it suitable for detecting NO2 at room temperature and enhancing recovery through illumination.
+
+Text:
+In response to this challenge, researchers have demonstrated that rapid
+recovery can be achieved by employing gate bias and light illumina
+tion techniques 20, 22, 24 In this context, all Mobearing TMDs offer
+distinct advantages. However, among them, MoTe2 appears to hold the
+greatest potential for detecting NO2 at room temperature. This is due
+to its narrow bandgap, which also makes it wellsuited for recovery
+enhancement through illumination. Another pertinent issue relates to selectivity. Mobearing TMDs
+exhibit exceptionally high sensitivity specifically to NO2. While this
+attribute enhances their selectivity for NO2, it simultaneously restricts
+the broader utility of TMDbased sensors in gas sensing applications.

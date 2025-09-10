@@ -1,0 +1,19 @@
+Description:
+A III-V photoabsorber used in photovoltaic applications and photoelectrochemical water splitting.
+
+Text:
+Due to their promising photovoltaic performances, III
+V photoabsorbers such as InP gain a lot of attraction
+with respect to their application in the field of photo
+electrochemical water splitting 1, 2. However, the role
+of surface defects, especially in contact with the liquid
+electrolyte, is still not fully understood, impeding fur
+ther efficiency improvement of the photoelectrode. For
+that reason, the focus was redirected to the electrochem
+ical interface of the semiconducting photoabsorber and
+the liquid electrolyte in the last decade 35. Further
+more, the interaction of InP as photoabsorber with water
+is also of high relevance when depositing conductive ox
+ides as electrochemical buffer layer using atom layer de
+position (ALD) where water frequently is used as oxide
+precursor 6, 7.

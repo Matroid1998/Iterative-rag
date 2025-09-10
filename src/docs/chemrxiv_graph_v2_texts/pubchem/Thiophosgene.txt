@@ -1,0 +1,26 @@
+Name: Thiophosgene
+Text:
+Thiophosgene appears as a reddish liquid. Boiling point 73.5 °C. A severe eye irritant. May severely burn skin on contact. Very toxic by inhalation and by skin absorption.
+Thiophosgene is a thiocarbonyl compound and a one-carbon compound.
+Properties:safety: Acute Toxic
+smiles: C(=S)(Cl)Cl
+formula: CCl2S
+chem_properties: Molecular Weight: 114.98 g/mol
+XLogP3: 2.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 113.9097766 Da
+Monoisotopic Mass: 113.9097766 Da
+Topological Polar Surface Area: 32.1
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 29
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

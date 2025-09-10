@@ -1,0 +1,13 @@
+Description:
+A structure that is typically nonluminescent due to non-radiative decay pathways upon excitation.
+
+Text:
+Synthetic organic chromophores are commonly featured with extended conjugation and 
+closedshell structure, but their synthesis could be tedious and challenging9. Most of the 
+radicals with openshell structure are not stable, and diligent efforts have been made to stabilize 
+the unpaired electron by delicate structure design10,11. Yet they typically relax via a non
+radiative decay pathway upon excitation, thereby showing nonluminescent property5. Since 
+the first reported case in 200612, luminescent radicals have been widely investigated from 
+excitedstates dynamicsmechanisms13,14 to applications1517. Nevertheless, luminescence from 
+stable radicals remains a sporadic phenomenon and most of the structures are limited to 
+triphenyl methyl radical derivatives and their analogues7,1821.

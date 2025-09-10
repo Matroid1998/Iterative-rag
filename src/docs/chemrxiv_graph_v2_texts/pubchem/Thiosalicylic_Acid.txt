@@ -1,0 +1,25 @@
+Name: Thiosalicylic Acid
+Text:
+Thiosalicylic acid is a sulfanylbenzoic acid that is the 2-sulfanyl derivative of benzoic acid. It has a role as a non-narcotic analgesic and an antipyretic. It is a conjugate acid of a thiosalicylate(1-).
+Properties:safety: Irritant
+smiles: C1=CC=C(C(=C1)C(=O)O)S
+formula: C7H6O2S
+chem_properties: Molecular Weight: 154.19 g/mol
+XLogP3: 2.4
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 1
+Exact Mass: 154.00885060 Da
+Monoisotopic Mass: 154.00885060 Da
+Topological Polar Surface Area: 38.3
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 136
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,30 @@
+Description:
+An inorganic host matrix with low phonon energies used to reduce phonon-assisted nonradiative relaxation.
+
+Text:
+With their tunable optical properties and 
+precise nanoscale size control, UCNPs have been used for applications such as biological 
+imaging,1 nanothermometry,2 superresolution microscopy,3 lithography,4 optical computing,5 
+and photodetection.6 
+
+The most common way to achieve efficient UCL from lanthanide ions is to embed them in 
+inorganic host matrices such as NaYF4 and K2Pb2Cl5, whose low phonon energies reduce phonon
+assisted nonradiative relaxation.7,8 UCL efficiency can be further enhanced by growing an 
+undoped, epitaxial shell made of the same material, allowing the active lanthanide ions to be 
+httpsdoi.org10.26434chemrxiv2024lt67p ORCID httpsorcid.org0000000161538611 Content not peerreviewed by ChemRxiv. License CC BY 4.0
+
+optically and chemically isolated from their environments.
+
+
+---
+
+Description:
+A host material for UCNPs with optimized chemistry for growing high-quality epitaxial shells.
+
+Text:
+However, while the chemistry for 
+growing highquality epitaxial shells has been optimized for some UCNP host materials (e.g., 
+NaYF4),9 the growth of epitaxial shells for other host materials (e.g., K2Pb2Cl5) can be more 
+challenging and remains an active area of research. Nonepitaxial oxide shells have been grown 
+around UCNPs, leading to increased thermal stability;10 however, their high phonon energies 
+typically do not enhance UCL and may even reduce it.

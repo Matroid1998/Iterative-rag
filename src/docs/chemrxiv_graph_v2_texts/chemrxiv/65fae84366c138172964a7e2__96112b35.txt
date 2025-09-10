@@ -1,0 +1,9 @@
+Description:
+A material used as a base for membranes in sensors, where its properties are influenced by plasticizers.
+
+Text:
+The potentiometric response is a function of the activity of the free, uncomplexed ions in the solution. The selectivity of the sensors 
+originates from doping of the membrane with ionophore but it will also depend on other components, such as the lipophilic salt which 
+provides the ionic sites and the type of plasticizer if the membrane is based on poly(vinyl chloride). Even optimized membranes based 
+on the most selective ionophores, such as valinomycin, are not specific. No perturbation, such as current or voltage sweep is applied 
+to the system and due to the steady state nature of the measurement, each sample can be characterized by only one, unique data point. The signal is an average of all the processes taking place at the membranesample interface.

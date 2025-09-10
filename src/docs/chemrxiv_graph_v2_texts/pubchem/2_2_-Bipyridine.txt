@@ -1,0 +1,27 @@
+Name: 2,2'-Bipyridine
+Text:
+2,2'-bipyridine is a bipyridine in which the two pyridine moieties are linked by a bond between positions C-2 and C-2'. It has a role as a ferroptosis inhibitor and a chelator.
+2,2'-Bipyridine has been reported in Dichilus gracilis, Dichilus lebeckioides, and other organisms with data available.
+A reagent used for the determination of iron.
+Properties:safety: Acute Toxic and Irritant
+smiles: C1=CC=NC(=C1)C2=CC=CC=N2
+formula: C10H8N2
+chem_properties: Molecular Weight: 156.18 g/mol
+XLogP3: 1.7
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 156.068748264 Da
+Monoisotopic Mass: 156.068748264 Da
+Topological Polar Surface Area: 25.8
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 120
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

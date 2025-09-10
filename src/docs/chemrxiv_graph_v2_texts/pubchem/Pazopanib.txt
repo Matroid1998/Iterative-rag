@@ -1,0 +1,31 @@
+Name: Pazopanib
+Text:
+Pazopanib is a pyrimidine that is 5-(pyrimidin-2-yl}amino-2-methylbenzenesulfonamide substituted at position 4 by a (2,3-dimethylindazol-6-yl)(methyl)amino group. Used as its hydrochloride salt for treatment of kidney cancer. It has a role as an antineoplastic agent, a tyrosine kinase inhibitor, a vascular endothelial growth factor receptor antagonist and an angiogenesis modulating agent. It is a member of indazoles, an aminopyrimidine and a sulfonamide. It is a conjugate base of a pazopanib(1+).
+Pazopanib is a small molecule inhibitor of multiple protein tyrosine kinases with potential antineoplastic activity. It is developed by GlaxoSmithKline and was FDA approved on October 19, 2009.
+Pazopanib is a Kinase Inhibitor. The mechanism of action of pazopanib is as a Protein Kinase Inhibitor, and Cytochrome P450 3A4 Inhibitor, and Cytochrome P450 2D6 Inhibitor, and Cytochrome P450 2C8 Inhibitor.
+Pazopanib is a multi-kinase inhibitor active against vascular endothelial growth factor receptors-1, -2 and -3 that is used in the therapy of advanced renal cell carcinoma and soft tissue sarcomas. Pazopanib therapy is commonly associated with transient elevations in serum aminotransferase during therapy and has been linked to rare, but occasionally severe and even fatal cases of clinically apparent acute liver injury.
+Pazopanib is a small molecule inhibitor of multiple protein tyrosine kinases with potential antineoplastic activity. Pazopanib selectively inhibits vascular endothelial growth factor receptors (VEGFR)-1, -2 and -3, c-kit and platelet derived growth factor receptor (PDGF-R), which may result in inhibition of angiogenesis in tumors in which these receptors are upregulated.
+PAZOPANIB is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2009 and has 7 approved and 66 investigational indications. This drug has a black box warning from the FDA.
+See also: Pazopanib Hydrochloride (has salt form).
+Properties:safety: Irritant
+smiles: CC1=C(C=C(C=C1)NC2=NC=CC(=N2)N(C)C3=CC4=NN(C(=C4C=C3)C)C)S(=O)(=O)N
+formula: C21H23N7O2S
+chem_properties: Molecular Weight: 437.5 g/mol
+XLogP3: 3.1
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 5
+Exact Mass: 437.16339418 Da
+Monoisotopic Mass: 437.16339418 Da
+Topological Polar Surface Area: 127
+Heavy Atom Count: 31
+Formal Charge: 0
+Complexity: 717
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

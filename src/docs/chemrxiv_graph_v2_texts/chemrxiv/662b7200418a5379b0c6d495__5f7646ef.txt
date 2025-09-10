@@ -1,0 +1,28 @@
+Description:
+Characterized by ultrahigh hardness.
+
+Text:
+In recent years, significant efforts in the search for novel phases with advanced properties have 
+benefited from structure prediction programs such as USPEX 1 and CALYPSO 2, and more 
+recently from the crystallographic machine learning platform CrystalMELA 3. The topic of 
+carbon research, especially regarding periodic structures, shows a sustained interest in the search 
+for new allotropes, especially those characterized by ultrahigh hardness close to that of diamond. In view of the large number of carbon structures claimed as novel, a database SACADA 4 has 
+been created to group all known carbon allotropes, thus helping researchers in their endeavors on 
+the one hand, and avoiding claims of known phases as novel allotropes on the other.
+
+
+---
+
+Description:
+An insulating material with potential for metallic-like behavior in electronics.
+
+Text:
+However, such pentacarbon should be unstable because it has 
+some negative elastic constants. Later, in 2020, cubic pentadiamond was reported as a novel 
+allotrope with mechanical properties close to diamond, but the paper was retracted due to serious 
+errors in the optimized structure of pentadiamond under mechanical deformation admitted by 
+the authors themselves 9. Such interest in 5 allotropes with mixed carbon hybridization arises 
+from the possible change of the electronic structure of insulating diamond, leading to metallic
+like behavior with potential applications in electronics 10. In the present work, starting from tetC4 5, we construct novel tetragonal carbon allotrope C5 
+by crystal chemistry modifications followed by full geometry relaxations using calculations 
+based on the quantum mechanics density functional theory DFT 11,12.

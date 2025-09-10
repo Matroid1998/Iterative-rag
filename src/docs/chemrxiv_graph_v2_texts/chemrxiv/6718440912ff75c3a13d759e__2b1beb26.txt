@@ -1,0 +1,17 @@
+Description:
+Used as a negative electrode material in solid-state batteries.
+
+Text:
+Disentangling parallel capacity loss mechanisms at solidsolid interfaces in solidstate batteries
+(SSBs) remains a key bottleneck to adoption of this highdensity energy storage technology.1 Lay
+ered oxide positive electrodes such as LiNixMnyCozO2 (NMC) and LiNixCoyAlzO2 pair well with
+mechanically soft solid electrolytes (SEs) to facilitate conformal contact upon compaction.2 Sulfur
+containing SEs, such as Li3PS4, Li10GeP2S12, and Li6PS5Cl (LPSC), are mechanically compliant
+and chemically abundant; however, sulfide SEs suffer from oxidative instability with layered oxides
+at the positive electrode interface.3 This reactivity, in combination with constriction of ionic and
+electronic pathways at solidsolid interfaces, leads to high overpotential,4 parasitic capacity loss,5
+and particle disconnection.2 Decoupling parallel loss mechanisms enables deterministic evaluation
+of material modifications, as has been shown in the Si negative electrode of SSBs .6 This work aims
+to study the positive electrode and systematically quantify the relative capacity loss contributions
+of apparent (kinetically hindered) irreversibility, such as sluggish SE and NMC redox, and true
+(permanent) irreversibility, such as particle disconnection or pathdependent interfacial reactions.

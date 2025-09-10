@@ -1,0 +1,31 @@
+Name: Hexachloroethane
+Text:
+Hexachloroethane is a colorless solid that gradually evaporates when it is exposed to air. It is also called HCE, perchloroethane, and carbon hexachloride. Its vapors smell like camphor. In the United States, about half of the hexachloroethane is used by the military for smoke-producing devices. It is also used to remove air bubbles in melted aluminum. Hexachloroethane may be present as an ingredient in some fungicides, insecticides, lubricants, and plastics. Hexachloroethane does not occur naturally in the environment. It is no longer made in the United States, but it is formed as a by-product in the production of some chemicals. Some hexachloroethane can be formed by incinerators when materials containing chlorinated hydrocarbons are burned. Hexachloroethane itself does not catch fire easily. Some hexachloroethane can also be formed when chlorine reacts with carbon compounds in drinking water.
+Hexachloroethane can cause cancer according to The National Institute for Occupational Safety and Health (NIOSH) and The National Toxicology Program.
+Hexachloroethane is a colorless, crystalline solid with a camphor-like odor. It may cause illness from inhalation or ingestion and may irritate skin, eyes and mucous membranes. When heated to high temperatures it may emit toxic fumes. The primary hazard is the threat to the environment. Immediate steps should be taken to limit its spread to the environment. It is used to make other chemicals.
+Hexachloroethane is a member of the class of chloroethanes that is ethane in which all the hydrogens are replaced by chloro groups. It has a role as a carcinogenic agent and a refrigerant. It is a chlorocarbon and a member of chloroethanes.
+Hexachloroethane is used by the military for smoke-producing devices, in metal and alloy production, and as an ingredient in insecticides. Hexachloroethane acts primarily as a central nervous system (CNS) depressant in humans acutely (short-term) exposed to it. Hexachloroethane is also moderately irritating to the skin, mucous membranes, and liver in humans. Neurological, liver, and kidney effects have been observed in animals exposed to hexachloroethane. No information is available on the chronic (long-term), reproductive, developmental, or carcinogenic effects of hexachloroethane in humans. Hepatocellular carcinomas (liver tumors) were observed in mice following oral exposure to hexachloroethane. EPA has classified hexachloroethane as a Group C, possible human carcinogen.
+Hexachloroethane has been reported in Aegle marmelos with data available.
+Hexachloroethane is a crystalline, colorless, toxic, solid chlorinated hydrocarbon with a camphor-like odor and emits toxic and irritating fumes when heated to decomposition. Hexachloroethane was used as an anthelmintic to treat fascioliasis in cattle and sheep, in refining aluminum alloys, in smoke bombs and pyrotechnic and as a degassing agent and polymer additive. Exposure to this substance irritates the skin and mucous membranes, causes liver damage and acts as a central nervous system depressant. Hexachloroethane is reasonably anticipated to be a human carcinogen. (NCI05)
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: C(C(Cl)(Cl)Cl)(Cl)(Cl)Cl
+formula: C2Cl6
+chem_properties: Molecular Weight: 236.7 g/mol
+XLogP3: 4.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 235.810166 Da
+Monoisotopic Mass: 233.813116 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 61.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

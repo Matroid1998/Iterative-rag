@@ -1,0 +1,17 @@
+Description:
+Used in electrocatalysts for CO2 reduction with attractive catalytic rates and low overpotentials.
+
+Text:
+climate change.46 CO2 can be reduced to C1 
+products and lighter Cn hydrocarbons using water gas shift reaction and other direct hydrogenation 
+methods which are require expensive H2 andor high temperatures and pressures.712 Alternatively, 
+notable reports on efficient electrocatalysts or photocatalysts for the reduction of CO2 has appeared 
+in the past few years which uses electrical or light energy for the reduction of CO2 akin to natural 
+photosynthesis.1318 Out of these several electrocatalysts are based on easily available first row 
+transition metals and have attractive catalytic rates and low overpotentials.16,1921 An persistent 
+problem with CO2 reduction is the possibility of forming multiple products as CO2 can be reduced to 
+COHCOOH (by 2e2H), HCHO (by 4e4H), CH3OH (by 6e6H) and CH4 (by 8e8H).2,22 Even though 
+these products require different number of electrons and protons, their standard potentials vary over 
+a narrow range of 0.24 to 0.61 V vs NHE at pH 7 (Figure 1).2 The fact that the competing proton 
+reduction also entails similar potential (Figure 1), jeopardizes the selectivity of the reduction process 
+i.e.

@@ -1,0 +1,27 @@
+Name: Tributyl Phosphate
+Text:
+Tributyl phosphate is an odorless colorless to yellow liquid. Toxic by ingestion and inhalation.
+Tributyl phosphate is a trialkyl phosphate that is the tributyl ester of phosphoric acid.
+Tri-N-butyl Phosphate is tri-n-butyl phosphate, Bu3-P, TBP.  Industrial chemical; used as a plasticizer, in hydraulic fluid, as a solvent and extractant for metal ions, and as a heat exchange agent.
+Properties:safety: Irritant and Health Hazard
+smiles: CCCCOP(=O)(OCCCC)OCCCC
+formula: C12H27O4P
+chem_properties: Molecular Weight: 266.31 g/mol
+XLogP3: 2.9
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 12
+Exact Mass: 266.16469634 Da
+Monoisotopic Mass: 266.16469634 Da
+Topological Polar Surface Area: 44.8
+Heavy Atom Count: 17
+Formal Charge: 0
+Complexity: 175
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

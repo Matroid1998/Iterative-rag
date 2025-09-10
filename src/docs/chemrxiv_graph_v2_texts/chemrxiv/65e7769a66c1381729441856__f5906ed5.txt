@@ -1,0 +1,24 @@
+Description:
+A gas that can be captured and concentrated using electrochemical methods.
+
+Text:
+Electrochemical methods for CO2 capture and concentration have emerged as potentially safer, energy 
+efficient, modular and scalable alternative to traditional thermochemical methods which tend to be 
+energyintensive, and frequently use toxic, and corrosive chemicals such as amines, and hydroxides.
+
+
+---
+
+Description:
+Captured through electrochemical modulation of proton concentration or electrochemically mediated amine regeneration.
+
+Text:
+Unlike thermochemical methods, electrochemical methods can be done isothermally, which avoids 
+the energy penalty associated with temperature changes.14 Most electrochemical capture methods 
+are based on redox reactions, that capture CO2 either through electrochemical modulation of proton 
+concentration (pH swing),5,6 electrochemical generation of nucleophiles by reducing redoxactive 
+organic molecules,79 or electrochemically mediated amine regeneration (EMAR).1012 The current 
+challenges with redoxbased techniques revolve around oxygen sensitivity, high materials cost, cycle 
+stability, and energy losses due the overpotentials associated with the redox process.13 The presence 
+of oxygen significantly lowers the coulombicenergy efficiencies either by deactivating the redox 
+active compound or by directly participating in redox reactions.

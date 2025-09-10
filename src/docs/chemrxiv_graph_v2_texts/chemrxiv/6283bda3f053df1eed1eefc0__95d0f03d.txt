@@ -1,0 +1,13 @@
+Description:
+Used as a layer in TEM grids.
+
+Text:
+Transmission electron microscopy (TEM) is a powerful analytical tool for 
+characterizing nanomaterials at the atomic level.13 TEM can also be used in combination with 
+other TEM related techniques such as diffraction, to solve crystal structures, and electron 
+energy loss spectroscopy (EELS), to determine bonding and oxidation states.4 For the imaging 
+of nanomaterials, a TEM grid coated with a continuous or partial thin film of an electron beam 
+transparent material is often used. Thin films (3  30 nm) of carbon floated over a support 
+substrate are particularly popular due to carbon being low electron scattering and electronically 
+conductive. Here the carbon is typically an amorphous carbon film, although graphene oxide5 
+and graphene6 layers have also been used.

@@ -1,0 +1,16 @@
+Description:
+A dye used in DSSCs that can be functionalized for electron injection.
+
+Text:
+Numerical modeling of the kinetics of a WSDSPEC 
+containing all of these optimized components suggested a 
+limiting IPCE of ca. 17 in simulated sunlight.20 In that case, 
+the key limiting factors were the spectral overlap of the dye 
+with sunlight and the initial electron injection efficiency. The latter was shown to be only about 30 in aqueous buff
+ered solutions at pH 6.8,6,21 the optimized pH for water oxi
+dation catalysis. In contrast, DSSCs functionalized with the 
+ruthenium bipyridyl dye N719, using an acetonitrile elec
+trolyte solution with an iodide redox mediator and other ad
+ditives, exhibit an electron injection efficiency of ca. 84.22 
+However, the injection efficiencies for DSSCs with dyes 
+other than N719 are often lower at TiO2 electrodes.

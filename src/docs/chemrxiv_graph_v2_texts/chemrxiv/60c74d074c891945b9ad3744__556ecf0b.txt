@@ -1,0 +1,14 @@
+Description:
+A donor material used in nonfullerene acceptor based organic solar cells.
+
+Text:
+For 
+instance, it was suggested that, the offset larger than 0.3 eV is imperative between the 
+lowest unoccupied molecular orbital (LUMO) of acceptor with highest occupied molecular 
+orbital (HOMO) level of donor, and thus leads to major loss in opencircuit voltage (VOC).16 
+However, recent studies based on nonfullerene acceptor (NFA) based organic solar cells 
+(OSC) have shown that excitons can be decoupled with a negligible energy offsets as low as 
+0.050.2 eV, and thus, small VOC loss is achieved.17,18 For example, NFA based OSCs 
+comprising P3TEA as donor and a small molecule, SFPDI2 as nonfullerene acceptor with a 
+PCE of 9.5 exhibited only 0.05 eV energy offset and 0.61 eV energy loss.17 This has led to 
+remarkable improvement in overall PCE of OSCs, albeit, still lower than the ShockleyQueisser

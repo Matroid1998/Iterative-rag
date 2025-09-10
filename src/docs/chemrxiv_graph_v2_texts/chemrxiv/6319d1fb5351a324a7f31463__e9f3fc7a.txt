@@ -1,0 +1,61 @@
+Description:
+A clinically-approved drug that forms an irreversible covalent bond to C797 in T790M-containing EGFR, used in the treatment of T790M-positive NSCLC tumors.
+
+Text:
+Activating mutations within the epidermal growth factor receptor 
+(EGFR) kinase domain, most prevalently L858R and exon19del, are common causes of 
+nonsmall cell lung cancer (NSCLC) and often serve as predictive markers for the 
+selection of EGFR tyrosine kinase inhibitors (TKIs) as effective targeted therapies.12 
+Prolonged efficacy of firstgeneration TKIs (gefitinib and erlotinib) is eventually made 
+limited due to drug resistance as a result of patients acquiring a second T790M 
+gatekeeper mutation.3 To produce a viable treatment option for T790Mpositive NSCLC 
+
+tumors, drug development efforts have yielded the clinicallyapproved drug AZD9291 
+(osimertinib), which is selective for T790Mcontaining EGFR and made potent by forming 
+an irreversible covalent bond to C797.45 Despite promising indications, drug resistance 
+to osimertinib is inevitable and caused in part by the acquisition of a third kinase domain 
+mutation C797S that prevents formation of the potencyenabling covalent bond.
+
+
+---
+
+Description:
+A third-generation EGFR inhibitor used as a frontline therapy for EGFR L858R and exon19del mutant tumors.
+
+Text:
+More 
+recently, osimertinib has been shown effective, and clinicallyapproved, as a frontline 
+therapy in untreated patients harboring EGFR L858R and exon19del activating 
+mutations.6 
+
+Figure 1. Chemical Structures of thirdgeneration EGFR inhibitors osimertinib and 
+lazertinib. As osimertinib is the only approved thirdgeneration EGFR TKI for L858R and 
+exon19del EGFR mutant tumors, development efforts from Yuhan and Janssen biotech 
+sought to produce a drug with improved medicinal chemistry properties. These efforts 
+resulted in YH25448 (lazertinib), which is structurally related to osimertinib comprising an 
+aminopyrimidine core and acrylamide warhead but is distinct with respect to the 
+substituted pyrazole as well as morpholine groups (Figure 1).7 Preclinical headtohead 
+N
+N
+N
+N
+H
+HN
+O
+N
+N
+O
+N
+N
+N
+N
+H
+HN
+O
+N
+O
+N
+O
+N
+Osimertinib
+Lazertinib

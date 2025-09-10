@@ -1,0 +1,14 @@
+Description:
+Valuable for investigating the electronic structures of transition metal complexes.
+
+Text:
+The key requirements include the strong correlation in openshell electrons and the dy
+namic correlation especially in chargetransfer states such as metaltoligandligandtometal
+charge transfer (MLCTLMCT) states. In addition, obtaining spin eigenstates is essential
+for accurately modeling the intersystem crossing. To date, various computational methods have been developed to account for strong and
+dynamic correlation in a balanced way. A widely adopted approach is the multireference
+perturbation theory (MRPT) and its variants,79 . This method utilizes a multiconfiguration
+(e.g. complete active space, CAS) reference state to address strong correlation, and typically
+includes a secondorder perturbative correction (MRPT2) for dynamic correlation. The com
+putational complexity of MRPT2 scales as O(N 5) with the basisset size of N, making it
+valuable for investigating the electronic structures of transition metal complexes.

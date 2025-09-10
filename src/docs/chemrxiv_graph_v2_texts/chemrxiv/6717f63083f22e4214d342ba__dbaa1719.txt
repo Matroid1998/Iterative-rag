@@ -1,0 +1,11 @@
+Description:
+A conducting polymer used in bioelectronics for its electronic and ionic charge transport capabilities.
+
+Text:
+Conducting polymers such as polyaniline (PANI), polypyrrole (PPy), and poly(3,4ethylene 
+dioxythiophene)poly(styrene sulfonate) (PEDOTPSS) are versatile materials across bioelectronic 
+applications. They have gained significant attention for their relative softness compared with 
+inorganic materials, ability to transport both electronic and ionic charges, and ease of fabrication 
+via solution processing.1 Particularly, their deployment as scaffolds and hydrogels has enabled 
+unique interpenetration and integration with biological systems,24 through the formation of 
+electricallyconductive materials with properties typically only achievable in insulating polymers.

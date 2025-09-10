@@ -1,0 +1,10 @@
+Description:
+A compound that undergoes phase transformations during Li intercalation.
+
+Text:
+This is an advantage over 
+other methods which often require further processing, e.g. the use of binders and conductive 
+polymer pastes22 to form an electrical contact and improve the adhesion of the particles to the 
+collector surface. During Li intercalation, bulk crystalline V2O5 undergoes a sequence of transformations with 
+the phases         , each accommodating an increasing number of intercalated 
+ions.23, 24 In the absence of Li, the starting, phase V2O5 structure is comprised of chains of

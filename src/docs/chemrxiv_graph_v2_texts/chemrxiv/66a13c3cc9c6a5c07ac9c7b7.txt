@@ -1,0 +1,16 @@
+Description:
+A molecular system used to study dipole self energy in quantum electrodynamics.
+
+Text:
+While scQED utilizes the exact form of the
+dipole self energy operator in a given orbital basis, the
+projected dipole self energy that arises in pQED is inex
+act except for in a complete orbital and manyelectron
+basis. We present numerical results highlighting this dis
+parity and its resolution in a particularly simple molecu
+lar system of helium hydride cation, where it is possible
+to approach these two complete basis limits simultane
+ously. In this same helium hydride system, we examine
+and compare the practical issue of computational cost re
+quired to converge each approach towards the complete
+httpsdoi.org10.26434chemrxiv20244xc02v3 ORCID httpsorcid.org0000000188144444 Content not peerreviewed by ChemRxiv. License CC BY 4.0

@@ -1,0 +1,49 @@
+Description:
+Used in microelectronic and optoelectronic applications due to its wide bandgap, high dielectric constant, high electrical resistivity, good thermal conductivity, and piezoelectric properties.
+
+Text:
+AlN is one example of such a material 
+used in microelectronic and optoelectronic applications because of its wide bandgap (6.2 eV)5, 
+high dielectric constant (9)6, high electrical resistivity (10111013 cm)7, a good thermal 
+conductivity (2.85 WKcm)8 and piezoelectric properties9. AlN also has good miscibility with other nitrides, making it interesting to many ternary 
+materials with e.g., Ga10, In11, Ti12 or Hf13, thereby increasing the range of its possible 
+applications. One such ternary material is metastable AlxTi1xN where the cubic rock salt 
+structure of TiN is preserved while varying Al content. AlxTi1xN primarily finds use as a hard 
+material in protective coatings, often on cemented carbide tool inserts due to its excellent 
+resistance against corrosion and oxidation, and high hardness.1416 These properties can be 
+tuned with the chemical composition.
+
+
+---
+
+Description:
+Has good miscibility with other nitrides, making it interesting for ternary materials.
+
+Text:
+AlN is one example of such a material 
+used in microelectronic and optoelectronic applications because of its wide bandgap (6.2 eV)5, 
+high dielectric constant (9)6, high electrical resistivity (10111013 cm)7, a good thermal 
+conductivity (2.85 WKcm)8 and piezoelectric properties9. AlN also has good miscibility with other nitrides, making it interesting to many ternary 
+materials with e.g., Ga10, In11, Ti12 or Hf13, thereby increasing the range of its possible 
+applications. One such ternary material is metastable AlxTi1xN where the cubic rock salt 
+structure of TiN is preserved while varying Al content. AlxTi1xN primarily finds use as a hard 
+material in protective coatings, often on cemented carbide tool inserts due to its excellent 
+resistance against corrosion and oxidation, and high hardness.1416 These properties can be 
+tuned with the chemical composition.
+
+
+---
+
+Description:
+Increases oxidation resistance of AlxTi1xN film by converting to an Al2O3 layer.
+
+Text:
+The synthesis of nitrides in the form of metastable high Alcontent AlxTi1xN by CVD, where 
+the cubic structure of TiN is preserved while adding AlN, i.e., increasing x, up to at least 0.9,17 
+has gained increasing interest in recent years18,19. The presence of AlN increases oxidation 
+resistance of the formed AlxTi1xN film by converting to an Al2O3 layer as the coating heats up 
+resulting in increased oxidation resistance.20 Different techniques such as PVD that include 
+reactive sputtering21,22, ion plating23, and cathodic arc evaporation24, and CVD22,25,26 have been 
+employed in deposition of AlxTi1xN as a wear resistant coating. Albeit none of these techniques 
+can combine precise film thickness control, high conformality and high uniformity in film 
+quality and composition over large areas.

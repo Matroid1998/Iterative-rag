@@ -1,0 +1,17 @@
+Description:
+Used in adsorbent beds as a less energy-intensive prepurification system.
+
+Text:
+Cryogenic liquefaction or distillation is currently the mainstream tech
+nique to achieve industrial gas separation, while adsorbent beds made of nanoporous materi
+als (activated alumina or zeolites) are mostly used as a less energyintensive prepurification
+system.1
+A wider use of nanoporous materials could reduce the energy consumption of current
+separation processes since adsorption is way less energy intensive than liquefaction.2 For
+instance, some prototypes involving beds of nanoporous materials have been developed for
+xenonkrypton separation to avoid employing cryogenic distillation.3 For the process to be
+viable, materials need to perform even better and many studies focus on synthesizing ever
+more selective materials by leveraging all chemical intuitions around noble gas adsorption
+properties.46 In order to speed the discovery process of novel materials with key proper
+ties, computational screening can identify factors explaining the performance and preselect
+candidates for further experimental studies.

@@ -1,0 +1,25 @@
+Name: Perfluorohexanesulfonic Acid
+Text:
+Perfluorohexanesulfonic acid is a perfluoroalkanesulfonic acid that is hexane-1-sulfonic acid in which all thirteen of the hydrogens that are attached to carbons have been replaced by fluorines.
+Properties:safety: Corrosive and Irritant
+smiles: C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)F
+formula: C6F13SO3H
+chem_properties: Molecular Weight: 400.12 g/mol
+XLogP3: 3.7
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 16
+Rotatable Bond Count: 5
+Exact Mass: 399.9438812 Da
+Monoisotopic Mass: 399.9438812 Da
+Topological Polar Surface Area: 62.8
+Heavy Atom Count: 23
+Formal Charge: 0
+Complexity: 553
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

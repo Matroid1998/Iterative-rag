@@ -1,0 +1,13 @@
+Description:
+A gas that can be stored using metalorganic frameworks.
+
+Text:
+Metalorganic frameworks (MOFs) are a class of crystalline nanomaterials known for
+their high internal surface areas, tunable chemistries, and wide range of pore sizes1. The variety of features makes MOFs promising materials for a wide range of applica
+tions like carbon capture2, methane storage3, hydrogen storage4, photocatalysis5,
+drug delivery6, conductivity7, and so on. To date, there are more than 100,000
+experimentally reported MOF structures810 and millions of MOF structures that
+have been predicted in silico2, 1118. From the perspective of material chemists, the holy grail is to design the most
+promising materials for a given application19. Currently, the most commonly used
+strategy is to find the best materials through brute force screening of these materials
+library.

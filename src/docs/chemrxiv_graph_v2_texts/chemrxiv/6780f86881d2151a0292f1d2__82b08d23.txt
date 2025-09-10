@@ -1,0 +1,14 @@
+Description:
+Induces oxidative stress within cardiac cells by generating excessive ROS, leading to mitochondrial dysfunction and activation of apoptotic pathways.
+
+Text:
+DOX induces oxidative stress within cardiac cells by generating excessive ROS. This oxidative 
+stress damages cellular components, leading to mitochondrial dysfunction and activation of 
+apoptotic (programmed cell death) pathways. The resultant cell death contributes to the 
+deterioration of cardiac function, which can manifest as acute heart failure 11. Consequently, 
+the mortality rate following DOX therapy ranges from 10 to 38 after a single or cumulative 
+dose of 525 mgkg, and increases significantly to 50 within two years after chemotherapy 
+12. To overcome DOXinduced cardiotoxicity, researchers are exploring strategies to counter 
+DOXinduced cardiotoxicity, including using antioxidants 13,14, nanotechnology 15, gene 
+therapies 16,17, mitochondrial protection strategies 18,19, and adjusting chemotherapy regimens 
+20 to reduce cardiac risk, thereby enhancing cardiac defenses.

@@ -1,0 +1,23 @@
+Name: Niobium pentachloride
+Text:
+Properties:safety: Corrosive and Irritant
+smiles: Cl[Nb](Cl)(Cl)(Cl)Cl
+formula: Cl5Nb
+chem_properties: Molecular Weight: 270.2 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 269.74769 Da
+Monoisotopic Mass: 267.75064 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 37.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

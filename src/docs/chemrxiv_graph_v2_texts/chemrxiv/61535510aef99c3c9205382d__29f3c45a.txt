@@ -1,0 +1,19 @@
+Description:
+A radical initiator used in optimized radical cyclization conditions.
+
+Text:
+Vicinal 
+difunctionalization with a vinyl cuprate nucleophile and enolate trapping with HC(OMe)3 provided 
+20 
+19. Adduct 19 underwent a Robinson annulation with ethyl vinyl ketone (EVK) to afford 20. An 
+
+7 
+
+enoneselective Pdcatalyzed hydrosilylation of 20 (27) provided 21. These newly developed 
+conditions were necessary as Pt, Cu, and Rh catalysts provided inferior results. Treatment of the 
+enoxysilane 21 with PhSeCl provided the radical precursor 22 as an inconsequential mixture of 
+diastereomers. When 22 was subjected to optimized radical cyclization conditions (AIBN, nBu3SnH), 
+5 
+clovan2,9dione (1) was produced in 45 yield. This result is in excellent agreement with the 
+predicted yield of 46. Since the literature examples used to train the NNET model are generally 
+optimized yields, the predictions are for optimized yields as well.

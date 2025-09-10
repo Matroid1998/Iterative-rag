@@ -1,0 +1,26 @@
+Name: Potassium Sulfate
+Text:
+Potassium sulfate is a potassium salt and an inorganic potassium salt.
+POTASSIUM SULFATE is a small molecule drug with a maximum clinical trial phase of IV that was first approved in 2010.
+See also: Sulfate Ion (has active moiety); Potassium Cation (has active moiety) ... View More ...
+Properties:safety: Corrosive
+smiles: [O-]S(=O)(=O)[O-].[K+].[K+]
+formula: K2SO4
+chem_properties: Molecular Weight: 174.26 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 173.87914262 Da
+Monoisotopic Mass: 173.87914262 Da
+Topological Polar Surface Area: 88.6
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 62.2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

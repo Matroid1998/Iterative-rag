@@ -1,0 +1,42 @@
+Description:
+A metal known for its low density and high specific strength, making it suitable for aerospace and automotive applications.
+
+Text:
+Metal Matrix Composites (MMCs) can be considered lightweight structural materials that 
+were developed in the 1990s for meeting the requirements in aerospace applications 13. They have strong potential to replace cast iron and other materials in brakes and engines due 
+to their high strength to weight ratio, low density, high fatigue, wear and creep resistance, and 
+at last hightemperature strength retention 45. Magnesium and its alloys have attracted 
+much attention in scientific development and as well as in various commercial applications 
+because of their low density and high specific strength in comparison to other structural 
+metals. In aerospace and automotive applications these properties order to reduce weight, 
+greenhouse emission, and fuel consumption 68.
+
+
+---
+
+Description:
+Limited in application due to poor creep resistance at high temperatures.
+
+Text:
+But due to their poor creep resistance 
+
+behavior at high temperatures, the application of magnesium and its alloys are limited. So in 
+order to overcome these limitations and to improve the properties, reinforcements are 
+incorporated 910. Dinaharan et al. 11 reinforced titanium particles (0, 7, 14, and 21 vol 
+) into an AZ31 magnesium alloy by friction stir processing method. The obtained results 
+showed enhanced tensile strength and good ductility in the manufactured composite. Say et 
+al. 12 investigated the corrosion resistance and mechanical properties of AZ91 and AZ61 
+magnesium matrix composites reinforced with 01, 0.2, and 0.5 wt carbon nanotubes 
+(CNTs). It was observed that with the increasing amount of carbon nanotubes, the strength of 
+composites increases.
+
+
+---
+
+Description:
+Used as a base metal in the fabrication of Metal Matrix Composites (MMCs).
+
+Text:
+In recent work, the squeeze casting process has been used for fabricating the magnesium
+based Metal Matrix Composites (MMCs). In the next sections, the experimental procedure 
+and results obtained will be further discussed.

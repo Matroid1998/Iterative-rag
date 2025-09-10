@@ -1,0 +1,32 @@
+Name: P,P'-dde
+Text:
+DDE (Dichlorodiphenyldichloroethylene) can cause cancer according to an independent committee of scientific and health experts. It can cause developmental toxicity and male reproductive toxicity according to The Environmental Protection Agency (EPA).
+P,p'-dde appears as white crystalline solid or white powder. (NTP, 1992)
+DDE is a chlorophenylethylene that is ethylene substituted by two 4-chlorophenyl groups at position 1 and two chlorine atoms at position 2. It has a role as a persistent organic pollutant and a human xenobiotic metabolite. It is a member of monochlorobenzenes and a chlorophenylethylene.
+1,1-Dichloro-2,2-bis(p-chlorophenyl) ethylene (DDE) is a breakdown product of DDT, which was used in the past as an insecticide. No information is available on the acute (short-term) or chronic (long-term) effects of DDE. Acute, oral exposure to high doses of DDT in humans results in central nervous system (CNS) effects, such as headaches, nausea, and convulsions. The only effect noted in epidemiologic studies of workers exposed to DDT and other pesticides was an increase in activity of liver enzymes. Animal studies have reported effects on the liver, immune system, and CNS from chronic oral exposure to DDT. Human studies are inconclusive regarding DDE and cancer. Animal studies have reported an increased incidence of liver tumors in mice and hamsters, and thyroid tumors in female rats from oral exposure to DDE. EPA has classified DDE as a Group B2, probable human carcinogen.
+p,p'-DDE has been reported in Euglena gracilis with data available.
+DDE, P,P'- is an isomer of dichlorodiphenyldichloroethylene, an organochlorine insecticide. It is one of the components of commercial mixtures of DDT. DDT was once a widely used pesticide, but today its agricultural use has been banned worldwide due to its toxicity and tendency to bioaccumulate. However, it still has limited use in disease vector control. (L84)
+An organochlorine pesticide, it is the ethylene metabolite of DDT.
+See also:  ... View More ...
+Properties:safety: Acute Toxic and Irritant and Health Hazard and Environmental Hazard
+smiles: C1=CC(=CC=C1C(=C(Cl)Cl)C2=CC=C(C=C2)Cl)Cl
+formula: C14H8Cl4
+chem_properties: Molecular Weight: 318.0 g/mol
+XLogP3: 7
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 2
+Exact Mass: 317.935061 Da
+Monoisotopic Mass: 315.938011 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 18
+Formal Charge: 0
+Complexity: 269
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

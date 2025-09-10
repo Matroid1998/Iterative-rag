@@ -1,0 +1,27 @@
+Name: Pyrrolidine
+Text:
+Pyrrolidine appears as a colorless to pale yellow liquid with an ammonia-like odor. Vapors heavier than air. Produces toxic oxides of nitrogen during combustion.
+Pyrrolidine is a cyclic amine whose five-membered ring contains four carbon atoms and one nitrogen atom; the parent compound of the pyrrolidine family. It is a saturated organic heteromonocyclic parent, a member of pyrrolidines and an azacycloalkane. It is a conjugate base of a pyrrolidinium ion.
+Pyrrolidine has been reported in Cannabis sativa, Vitis vinifera, and other organisms with data available.
+Properties:safety: Flammable and Corrosive and Irritant
+smiles: C1CCNC1
+formula: C4H9N
+chem_properties: Molecular Weight: 71.12 g/mol
+XLogP3: 0.5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 71.073499291 Da
+Monoisotopic Mass: 71.073499291 Da
+Topological Polar Surface Area: 12
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 22.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

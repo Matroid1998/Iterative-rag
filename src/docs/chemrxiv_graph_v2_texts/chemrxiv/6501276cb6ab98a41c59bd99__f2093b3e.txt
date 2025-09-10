@@ -1,0 +1,60 @@
+Description:
+Tools that face limitations in binary photoswitching and operation with red-NIR light.
+
+Text:
+Typically, a small 
+molecule photoswitch is extended from or incorporated into a drug 
+pharmacophore, such that light can spatiotemporally pattern its 
+bioactivity by photoisomerising it.2 Azobenzenes are the dominant 
+photoswitch class, and besides their many uses in photoresponsive 
+materials, they are driving the frontiers of photopharmacology from 
+cellular applications in neuroscience, cytoskeleton, and signaling, to 
+therapeutic clinical trials in vivo.37 Nevertheless, two major limits on 
+the performance of azobenzene tools remain (1) populationlevel 
+photoswitching is not binary (allEallZ) but is incomplete, 
+especially in the ZE direction (that also is less photonefficient); 
+(2) no broadly applicable strategy to operate azobenzenes with well
+penetrating redNIR light is known (typically, () are significant 
+only below 530 nm).
+
+
+---
+
+Description:
+A compound used in materials sciences photoredox catalysis to control isomer ratios with high switching completion and efficient red-NIR response.
+
+Text:
+The last decade has witnessed major efforts to 
+overcome these limits, primarily through tetraorthosubstitutions 
+and cyclic azobenzenes.810 However, both approaches suffer from 
+low molar extinction coefficients in the bettertissuepenetrating red 
+spectral region, resulting in slow and inefficient photoswitching; true 
+NIR response is lacking; and both methods require redesigning the 
+photoswitch, which restricts their scope and can result in dramatic 
+losses of potency (for further background, see Supporting Note 1). Two alternative routes to photocontrol azobenzene isomer ratios, 
+with high switching completion and efficient redNIR response, 
+recently emerged in materials sciences photoredox catalysis1114, 
+which we address in this work, and triplet energy transfer11,1518, 
+which we address in a parallel manuscript19.
+
+
+---
+
+Description:
+Undergoes ZE isomerisation using triplet photoredox catalysts via transient photooxidation to the radical cation or photoreduction to the radical anion.
+
+Text:
+Hecht showed excellent 
+azobenzene ZE isomerisation using triplet photoredox catalysts, 
+via transient photooxidation to the radical cation11 (electronrich 
+azobenzenes; e.g. AOMB, Fig 1ab) or photoreduction to the 
+radical anion12,13 (if electronpoor). This arises as the radicals 
+isomerise to their thermodynamically preferred E isomer ca. 1013 
+times faster than do the neutral forms, so a 100E population 
+accumulates after backelectron transfer. However, these systems 
+are not applicable to biology. Among the many challenges, (i) with 
+one exception,13 they are intermolecular concepts, so are unlikely to 
+work at M levels needed for biocompatible reagents; (ii) as triplet 
+systems, they require O2 exclusion to work efficiently, and with O2 
+they also produce reactive species that photobleach the catalyst and 
+are too toxic for use in biology (discussed in Supporting Note 1).

@@ -1,0 +1,26 @@
+Name: Geranylgeraniol
+Text:
+Geranylgeraniol is a diterpenoid that is hexadeca-2,6,10,14-tetraene substituted by methyl groups at positions 3, 7, 11 and 15 and a hydroxy group at position 1. It has a role as a plant metabolite, a volatile oil component and an antileishmanial agent. It is a diterpenoid and a polyprenol.
+Geranylgeraniol has been reported in Pellia epiphylla, Ectatomma ruidum, and other organisms with data available.
+Properties:safety: Irritant
+smiles: CC(=CCC/C(=C/CC/C(=C/CC/C(=C/CO)/C)/C)/C)C
+formula: C20H34O
+chem_properties: Molecular Weight: 290.5 g/mol
+XLogP3: 6.6
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 10
+Exact Mass: 290.260965704 Da
+Monoisotopic Mass: 290.260965704 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 21
+Formal Charge: 0
+Complexity: 390
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 3
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

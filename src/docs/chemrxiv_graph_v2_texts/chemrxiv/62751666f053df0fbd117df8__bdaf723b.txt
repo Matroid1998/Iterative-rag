@@ -1,0 +1,35 @@
+Description:
+Involved in the oxygen reduction reaction in proton exchange fuel cells.
+
+Text:
+A significant con
+tributor is the transport of people and goods, which in a hydrogen 
+economy with fuel cell electric vehicles would be shifted from fossil 
+resources to green energy.1 While today, platinum group metal 
+catalysts are used in fuel cell chemistry, metal and nitrogen doped 
+carbon (MNC) catalysts play an increasingly important role as 
+cheap and earth abundant substitutes in different types of fuel cell,2
+5 and other energy conversion reactions such as water splitting and 
+carbon dioxide reduction or in metal air batteries.612 For the oxy
+gen reduction reaction (ORR) in proton exchange fuel cells 
+(PEFC), FeNC catalysts reach activities comparable to low
+platinum content PtC catalysts.2, 45 
+FeNC catalysts are typically prepared by pyrolysis, e.g.
+
+
+---
+
+Description:
+Can be bound end-on or side-on in FeN4 sites during ORR activity.
+
+Text:
+Such a detailed understand
+ing is a prerequisite for the systematic optimization of the prepara
+tion methodology, targeting catalysts with high active site densities 
+and turnover frequencies while avoiding catalyst degradation. According to Chung et al.,2 the ORR active sites are FeN4 centers 
+at the edges of graphene layers and OHadsorbed intermediates are 
+formed spontaneously at relevant potentials. Zitolo et al.27 attribute 
+the ORR activity to two FeN4 sites based on fits to Kedge XAS 
+data (EXAFS, XANES) albeit without firm assignment to Mss
+bauer signatures one featuring two endon bound oxygen mole
+cules, the other a sideon bound oxygen molecule.

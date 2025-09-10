@@ -1,0 +1,15 @@
+Description:
+A promising class of cationic polymers with low cytotoxicity, high transfection capacity, and a biodegradable profile.
+
+Text:
+Among the nonviral gene delivery vectors, poly(aminoester)s (pBAEs), a promising class of 
+cationic polymers, oer low cytotoxicity, high transfection capacity, and biodegradable prole, 
+the attributes desirable for an ideal vector 3,4. pBAEs display outstanding encapsulation and 
+transfection eciency, which is provided by a balanced combination of hydrophobicity and 
+functional groups with protonation capacity. Electrostatic interactions with oligonucleotides, in 
+addition to a netuned hydrophobicity, enables pBAEs to oer enhanced encapsulation ability 
+5. The protonation of tertiary amines by the lower pH of endosomal compartment builds up 
+osmotic pressure that eventually leads to endosomal escape. Moreover, pBAEs can be 
+functionalized at terminal acrylates with cationic oligopeptides such as arginine (R), lysine (K), 
+and histidine (H) via a thiaMichael addition reaction to form oligopeptide endmodied pBAEs 
+(OMpBAEs).

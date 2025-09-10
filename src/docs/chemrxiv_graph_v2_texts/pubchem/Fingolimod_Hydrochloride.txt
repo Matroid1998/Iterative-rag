@@ -1,0 +1,28 @@
+Name: Fingolimod Hydrochloride
+Text:
+Fingolimod hydrochloride is the hydrochloride salt of 2-amino-2-[2-(4-octylphenyl) ethyl]-1,3-propanediol (fingolimod). It has a role as a sphingosine-1-phosphate receptor agonist, an immunosuppressive agent and a prodrug. It contains a fingolimod(1+).
+Fingolimod Hydrochloride is the hydrochloride salt form of fingolimod, an orally available derivate of myriocin and sphingosine-1-phosphate receptor 1 (S1PR1, S1P1) modulator, with potential anti-inflammatory and immunomodulating activities. Upon oral administration, fingolimod, as a structural analogue of sphingosine, selectively targets and binds to S1PR1 on lymphocytes and causes transient receptor activation followed by S1PR1 internalization and degradation. This results in the sequestration of lymphocytes in lymph nodes. By preventing egress of lymphocytes. fingolimod reduces both the amount of circulating peripheral lymphocytes and the infiltration of lymphocytes into target tissues. This prevents a lymphocyte-mediated immune response and may reduce inflammation. S1PR1, a G-protein coupled receptor, plays a key role in lymphocyte migration from lymphoid tissues. Fingolimod also shifts macrophages to an anti-inflammatory M2 phenotype, and modulates their proliferation, morphology, and cytokine release via inhibition of the transient receptor potential cation channel, subfamily M, member 7 (TRPM7).
+FINGOLIMOD HYDROCHLORIDE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2010 and is indicated for multiple sclerosis and has 3 investigational indications.
+A sphingosine-derivative and IMMUNOSUPPRESSIVE AGENT that blocks the migration and homing of LYMPHOCYTES to the CENTRAL NERVOUS SYSTEM through its action on SPHINGOSINE 1-PHOSPHATE RECEPTORS. It is used in the treatment of MULTIPLE SCLEROSIS.
+See also: Fingolimod (has active moiety).
+Properties:safety: Irritant and Health Hazard
+smiles: CCCCCCCCC1=CC=C(C=C1)CCC(CO)(CO)N.Cl
+formula: C19H34ClNO2
+chem_properties: Molecular Weight: 343.9 g/mol
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 12
+Exact Mass: 343.2278070 Da
+Monoisotopic Mass: 343.2278070 Da
+Topological Polar Surface Area: 66.5
+Heavy Atom Count: 23
+Formal Charge: 0
+Complexity: 258
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

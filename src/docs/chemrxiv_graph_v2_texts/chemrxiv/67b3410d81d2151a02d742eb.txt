@@ -1,0 +1,14 @@
+Description:
+Electroactive organic molecules screened for high-performance candidates in advanced aqueous organic redox flow batteries.
+
+Text:
+Redox flow batteries (RFBs) are an emerging energy storage technology characterized
+by decoupled power and energy components, rendering them particularly suitable for
+longduration storage 13. However, the availability, cost, and environmental burden
+associated with mining of the metal ore have impelled the search of new electroactive
+energy storage materials 4. Electroactive organic molecules, like quinones, alloxazines,
+and phenazines, have been extensively screened for highperformance candidates in
+advanced aqueous organic redox flow batteries (AORFBs) due to their advantages for
+achieving lowcost synthesis at scale, structural diversity, and tailorability 57. Datadriven workflows, empowered by algorithms, computational tools, and
+machine learning (ML) models, have been comprehensively applied in material dis
+covery 810.

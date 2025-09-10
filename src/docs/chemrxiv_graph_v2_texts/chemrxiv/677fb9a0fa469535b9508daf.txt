@@ -1,0 +1,12 @@
+Description:
+Nanoparticles used in breast cancer cell uptake optimization.
+
+Text:
+Recent advances in artificial intelligence (AI) have sparked excitement across many scientific disciplines. Part
+of this excitement is due to the potential to revolutionize the fields of medicine and laboratory sciences. Ma
+chine learning (ML), a subset of AI where computers are capable of adapting without explicit programming
+based on algorithms and statistical models, is particularly suitable for nanoparticle production and formulation
+development 15. Indeed, in preliminary examples, ML has been used to engineer multifunctional peptides
+to boost the melanin binding rates in ocular delivery 6, optimize the uptake of poly(lacticcoglycolic acid)
+polyethylene glycol (PLGAPEG) nanoparticles in breast cancer cells 7, and predict the transfection efficiency
+of lipid nanoparticles deploying nucleic acids 8.

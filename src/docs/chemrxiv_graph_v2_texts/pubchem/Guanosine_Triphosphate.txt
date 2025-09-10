@@ -1,0 +1,30 @@
+Name: Guanosine Triphosphate
+Text:
+GTP is a guanosine 5'-phosphate and a purine ribonucleoside 5'-triphosphate. It has a role as an Escherichia coli metabolite, a mouse metabolite and an uncoupling protein inhibitor. It is a conjugate acid of a GTP(3-).
+Guanosine triphosphate is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Guanosine-5'-triphosphate has been reported in Helianthus tuberosus, Arabidopsis thaliana, and other organisms with data available.
+Guanosine Triphosphate is a purine nucleotide triphosphate comprised of a guanine and a triphosphate moiety bound to a ribose moiety at its 1' and 5' sites, respectively. Guanosine triphosphate (GTP) can be utilized as a substrate for nucleic acid (DNA and RNA) synthesis, as an energy source for protein synthesis and gluconeogenesis, and as a signaling molecule.
+GTP is a metabolite found in or produced by Saccharomyces cerevisiae.
+Guanosine 5'-(tetrahydrogen triphosphate). A guanine nucleotide containing three phosphate groups esterified to the sugar moiety.
+Properties:safety: Irritant
+smiles: C1=NC2=C(N1[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N
+formula: C10H16N5O14P3
+chem_properties: Molecular Weight: 523.18 g/mol
+XLogP3: -5.7
+Hydrogen Bond Donor Count: 8
+Hydrogen Bond Acceptor Count: 16
+Rotatable Bond Count: 8
+Exact Mass: 522.99066119 Da
+Monoisotopic Mass: 522.99066119 Da
+Topological Polar Surface Area: 295
+Heavy Atom Count: 32
+Formal Charge: 0
+Complexity: 927
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

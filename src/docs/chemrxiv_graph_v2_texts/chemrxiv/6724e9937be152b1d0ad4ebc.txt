@@ -1,0 +1,57 @@
+Description:
+Involved in the oxygen reduction reaction, requiring the transfer of four electrons per molecule.
+
+Text:
+4 
+The oxygen reduction reaction (ORR, Eq. 1) is one of the most studied electrochemical processes, both experimentally and 
+5 
+theoretically. 6 
+
+7 
+! 4  4 2! (1) 
+
+8 
+During the ORR, four electrons per oxygen molecule must be transferred. At the same time, several chemical bonds rearrange, 
+9 
+making it comparatively slow even on the most catalytically active surfaces, such as platinum and its alloys. Thus, understanding 
+0 
+the mechanism of the ORR to improve and develop catalysts has been the focus of many studies for many decades.
+
+
+---
+
+Description:
+A molecule that can be activated by electron transfer or split chemically in different reaction pathways.
+
+Text:
+During this 
+1 
+time, the scientific community has converged towards two mechanisms that differ in the initial activation of the oxygen molecule 
+2 
+In the associative path, the oxygen molecule is activated by the transfer of an electron, followed by cleaving the OO bond during 
+3 
+second electron transfer (Eq. 2a, b). 4 
+
+5 
+! (2a) 
+
+ ! (2b) 
+
+6 
+In contrast, the molecular oxygen bond is chemically split in the dissociative path without an electron transfer (Eq. 3). 7 
+
+8 
+! 2  2 
+
+(3) 
+
+9 
+Subsequently, both paths continue in the same manner where the O intermediate is electrochemically reduced to water (Eq. 4a, 
+0 
+b). 1 
+
+2 
+
+(4a) 
+
+      !

@@ -1,0 +1,16 @@
+Description:
+Compounds that dissolve and cause the shuttle effect in lithium-sulfur batteries.
+
+Text:
+The urgent global shift towards sustainable energy systems necessitates advancements in 
+energy storage technologies, particularly in the face of dwindling nonrenewable fossil fuel 
+resources and escalating energy demands.1 Lithiumion batteries (LIBs), which currently 
+dominate the commercial battery market, are approaching their theoretical limits in energy 
+density, typically ranging from 100 to 265 Wh kg1.2 This limitation has spurred research 
+into alternative highenergydensity systems, notably lithiumsulfur (LiS) batteries, 
+recognized for their potential ultrahigh theoretical energy density of 2500 Wh kg1 and 
+environmental advantages.3 However, LiS technologies face significant challenges, such as 
+the shuttle effect due to polysulfide dissolution and dendrite growth on lithium metal anodes, 
+which hinder their practical application.4 On the anode front, siliconbased materials are 
+considered a prime candidate for highenergydensity batteries due to their impressive 
+capacity of 3579 mA h g1, second only to lithium metal.

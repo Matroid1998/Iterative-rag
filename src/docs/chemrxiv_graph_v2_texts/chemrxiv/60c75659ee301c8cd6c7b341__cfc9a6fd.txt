@@ -1,0 +1,10 @@
+Description:
+A complex with coordination spheres showing similar geometry and bond lengths in both high-spin and low-spin models.
+
+Text:
+The 
+coordination spheres of the de novo HS and LS models of Co(1)2 each agree remarkably well, both in terms of geometry and bond 
+lengths (RMSD  0.05 and 0.04  respectively, see Table S10), with one of the isomeric structures observed by SCXRD (Figure 1B for 
+the HS structure), supporting this proposal. Furthermore, a relatively small energetic preference for the HS configuration was predicted 
+computationally for both the de novo structures (5.9 kJmol) and models of Co(1)2 derived from the corresponding SCXRD geometries 
+(2.7 kJmol, see ESI for details). Predicting accurate energy gaps of multiconfigurational complexes is a challenge for DFT modelling.

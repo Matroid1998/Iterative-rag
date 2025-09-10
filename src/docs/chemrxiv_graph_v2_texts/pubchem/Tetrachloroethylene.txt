@@ -1,0 +1,32 @@
+Name: Tetrachloroethylene
+Text:
+Tetrachloroethylene is a manufactured chemical that is widely used for dry cleaning of fabrics and for metal-degreasing. It is also used to make other chemicals and is used in some consumer products.
+Tetrachloroethylene (Perchloroethylene) can cause cancer according to an independent committee of scientific and health experts.
+Perchloroethylene appears as a clear colorless volatile liquid having an ether-like odor. Noncombustible. Insoluble in water. Vapors heavier than air. Density approximately 13.5 lb / gal. Used as dry cleaning solvent, a degreasing solvent, a drying agent for metals, and in the manufacture of other chemicals.
+Tetrachloroethene is a chlorocarbon that is tetrachloro substituted ethene. It has a role as a nephrotoxic agent. It is a chlorocarbon and a member of chloroethenes.
+Tetrachloroethylene has been reported in Gossypium hirsutum with data available.
+Tetrachloroethylene is a colorless, volatile, nonflammable, liquid, chlorinated hydrocarbon with an ether-like odor that may emit toxic fumes of phosgene when exposed to sunlight or flames. Tetrachloroethylene is mainly used as a cleaning solvent in dry cleaning and textile processing and in the manufacture of fluorocarbons. Exposure to this substance irritates the upper respiratory tract and eyes and causes neurological effects as well as kidney and liver damage. Tetrachloroethylene is reasonably anticipated to be a human carcinogen and may be linked to an increased risk of developing skin, colon, lung, esophageal, and urogenital tract cancer as well as lymphosarcoma and leukemia. (NCI05)
+Tetrachloroethylene, also known under the systematic name tetrachloroethene, or perchloroethylene ('perc'), and many other names, is a chlorocarbon with the formula Cl2C=CCl2. It is a colorless liquid widely used for dry cleaning of fabrics, hence it is sometimes called 'dry-cleaning fluid.' It has a sweet odor detectable by most people at a concentration of 1 part per million (1 ppm). Worldwide production was about one million metric tons in 1985. Animal studies and a study of 99 twins by Dr. Samuel Goldman and researchers at the Parkinson's Institute in Sunnyvale, California determined there is a 'lot of circumstantial evidence' that exposure to tetrachloroethene increases the risk of developing Parkinson's disease ninefold. The International Agency for Research on Cancer has classified tetrachloroethene as a Group 2A carcinogen, which means that it is probably carcinogenic to humans. Like many chlorinated hydrocarbons, tetrachloroethene is a central nervous system depressant and can enter the body through respiratory or dermal exposure. Tetrachloroethene dissolves fats from the skin, potentially resulting in skin irritation. This reaction can be catalyzed by a mixture of potassium chloride and aluminium chloride or by activated carbon.
+A chlorinated hydrocarbon used as an industrial solvent and cooling liquid in electrical transformers. It is a potential carcinogen.
+Properties:safety: Health Hazard and Environmental Hazard
+smiles: C(=C(Cl)Cl)(Cl)Cl
+formula: C2Cl4
+chem_properties: Molecular Weight: 165.8 g/mol
+XLogP3: 3.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 165.872461 Da
+Monoisotopic Mass: 163.875411 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 55.6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

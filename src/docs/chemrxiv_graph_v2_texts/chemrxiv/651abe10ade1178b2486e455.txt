@@ -1,0 +1,11 @@
+Description:
+The multiplicity discrimination of carbon signals depends on the length of the delay set to 11JCH, allowing partial multiplicity editing with different signal polarities for Cq, CH2, CH, and CH3 signals.
+
+Text:
+The APT experiment belongs to the family of SpinEcho (SE) based experiments, 
+like SEFT,810 and SEMUT,11 which exploits heteronuclear Overhauser enhancement 
+for improving the sensitivity. Due to their simplicity these experiments are very robust, 
+thus ideal for routine spectroscopy and for educational purposes to introduce the concept 
+of pulse sequences to undergraduate students. For the APT experiment, the multiplicity discrimination of carbon signals depends 
+on the length of the delay  which is set to 11JCH. This setting allows a partial multiplicity 
+editing, with positive Cq and CH2 signals and negative CH and CH3 signals, respectively. With  set to 0.51JCH only Cq signals will be detected (Cqonly spectrum).

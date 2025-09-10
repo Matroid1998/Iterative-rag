@@ -1,0 +1,13 @@
+Description:
+An HIV protease inhibitor.
+
+Text:
+Since it has been reported 
+that the several existing drug showed potential against COVID19 including oseltamivir,6 
+lopinavir,7 ritonavir,7 remdesivir,8 favipiravir,9 ribavirin,9 chloroquine and 
+hydroxychloroquine.10 Since most of the drugs are HIV protease inhibitors11 we have 
+performed their docking with COVID19 main protease downloaded from protein data 
+bank (PDB ID 7BRP). Some of the Potential Therapeutic Target Against SARSCoV and 
+SARSCoV2 Several similarities between SARSCoV2 and SARSCoV have been 
+reported. Since the sequencing of SARSCoV2 has been done,12 it has given rise to 
+various molecular modeling experiments to find the potential candidate against novel

@@ -1,0 +1,17 @@
+Description:
+A fluorinated proton permeable membrane used to isolate electrodes from the electrolyte.
+
+Text:
+In the cell containing the WE, the 
+acidity is regulated by a voltage bias applied respect to the reference 
+cell, which controls the release or adsorption of protons by 
+molecules functionalized in the WE. The electrodes are isolated from 
+the electrolyte using a fluorinated proton permeable membrane 
+(Nafion)14. The diffusion barriers assure that the number of protons 
+in each cell is stable for periods much longer than the dissociation 
+dynamics, while the small dimensions of the cell assure a rapid 
+feedback of the reactions in the cell. The electrochemically 
+generated acid released protons, free of counter ions and free to 
+interact with the elements of the electrolyte. Thanks to these 
+characteristics, the acidity can be controlled and estimated by the 
+faradaic currents.

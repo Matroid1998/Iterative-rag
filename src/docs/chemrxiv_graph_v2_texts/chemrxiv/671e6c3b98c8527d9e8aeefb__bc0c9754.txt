@@ -1,0 +1,29 @@
+Description:
+Products of 22 cycloadditions with alkenes in photooxidations.
+
+Text:
+Modern sustainability criteria in chemical synthesis have spurred the development of energy and 
+resourceconservative methodologies. Photooxygenations, which rely exclusively on abundant 
+oxygen and visible light irradiation, have gained tremendous attention as one of the most atom
+economic and sustainable reactions. Among the wide diversity of photooxidations, 22
+cycloadditions and the Schenck ene reaction use alkenes to provide 1,2dioxetanes and allyl 
+hydroperoxides, respectively. Both these reactions are endowed with a perfect atom economy and 
+yield versatile synthetic precursors and chemical biology tools (Figure 1).
+
+
+---
+
+Description:
+Strained heterocycles important for bioanalytical and diagnostic applications as functional subunits of chemiluminescent probes.
+
+Text:
+1,2Dioxetanes are strained 
+heterocycles with an increasing importance for bioanalytical and diagnostic applications as functional 
+subunits of chemiluminescent probes.1,2 Similarly, allyl hydroperoxides are useful precursors to 
+functionalized C3 units including natural products and drugs.3 
+Both reactions are promoted by singlet oxygen (1O2) that is formed via dyesensitized photoexcitation 
+of triplet oxygen (3O2).4 1O2 is an attractive reactive oxygen species and it has been used for the 
+synthesis of natural products, fragrances and drugs.5,6 Photochemical singlet oxygenations can be 
+problematic under conventional batch conditions. Especially at large scale, light penetration remains 
+superficial and the presence of an oxygenrich headspace in the presence of flammable organic 
+solvents rises significant safety issues.

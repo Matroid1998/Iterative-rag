@@ -1,0 +1,24 @@
+Name: 3,4-Dimethylpyridine
+Text:
+Properties:safety: Flammable and Acute Toxic and Irritant
+smiles: CC1=C(C=NC=C1)C
+formula: C7H9N
+chem_properties: Molecular Weight: 107.15 g/mol
+XLogP3: 1.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 107.073499291 Da
+Monoisotopic Mass: 107.073499291 Da
+Topological Polar Surface Area: 12.9
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 70.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

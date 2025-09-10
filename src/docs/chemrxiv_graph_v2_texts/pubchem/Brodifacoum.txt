@@ -1,0 +1,25 @@
+Name: Brodifacoum
+Text:
+Brodifacoum is a member of benzenes, a ring assembly and a member of naphthalenes.
+Properties:safety: Acute Toxic and Health Hazard and Environmental Hazard
+smiles: C1C(CC2=CC=CC=C2C1C3=C(C4=CC=CC=C4OC3=O)O)C5=CC=C(C=C5)C6=CC=C(C=C6)Br
+formula: C31H23BrO3
+chem_properties: Molecular Weight: 523.4 g/mol
+XLogP3: 7.6
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 3
+Exact Mass: 522.08306 Da
+Monoisotopic Mass: 522.08306 Da
+Topological Polar Surface Area: 46.5
+Heavy Atom Count: 35
+Formal Charge: 0
+Complexity: 791
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 2
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

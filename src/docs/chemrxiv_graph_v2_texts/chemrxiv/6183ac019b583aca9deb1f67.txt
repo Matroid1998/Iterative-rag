@@ -1,0 +1,20 @@
+Description:
+A metal oxide etched using thermal ALE.
+
+Text:
+Thermal 
+ALE relies on temperature and thermochemically favourable reactions to remove surface 
+species4 and etches at the same rate in all directions.5 Many technologically important 
+metal oxides have been etched using thermal ALE including HfO2,69 ZrO2,6,9 SiO2,10 
+Al2O3,9,1117 TiO2,18 VO2,19 WO3,20 ZnO,21 Ga2O3,22 as well as metal nitrides such as 
+
+3 
+
+Si3N4,23 AlN,24 TiN,25,26 and GaN.27,28 Thermal ALE of amorphous Al2O3 has also been 
+reported using NbF5 to replace HF as the fluorination agent and CCl4 for the halide
+exchange reaction.29 As well as fluorination and ligandexchange, thermal ALE can also 
+be performed by other processes such as conversion,21 oxidation25 oxidationchlorination30 
+and chlorinefluorine ligand exchange.31 Advantages of ALE include high uniformity, the 
+ability to etch highaspectratio features, selectivity, and smoothing.32 
+
+Figure 1.

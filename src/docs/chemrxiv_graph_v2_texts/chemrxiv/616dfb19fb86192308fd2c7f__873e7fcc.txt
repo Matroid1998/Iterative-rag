@@ -1,0 +1,50 @@
+Description:
+Used in nanostructured materials for catalysis, particularly in automobile exhausts and fuel cells.
+
+Text:
+Nanostructured materials based on ceria (CeO2) and Pt have a wide range of 
+applications in catalysis, such as in the threeway conversion in automobile exhausts,1 in 
+anode2 or cathode3 materials of fuel cells, or for mediating the water gas shift reaction,4 
+among others.5 CeO2 is typically used in such materials as a noninert support for the 
+more active Pt phase, leading to intricate metalsupport interactions that affect the 
+electronic structure and chemical properties of both the metal and the oxide.4,68 These 
+electronic metalsupport interactions further complicate the already challenging task of 
+characterizing the properties of nanostructured catalytic materials, which are typically 
+structurally complex.
+
+
+---
+
+Description:
+Serves as a substrate for atomically dispersed Pt, enhancing specific activity for various reactions.
+
+Text:
+Their size, structure, and oxidation state not only depend on 
+preparation conditions, but also often undergo significant transformations under reaction 
+conditions, as revealed by in situ or operando spectroscopic techniques.911 These 
+structural and environmental complexities therefore hinder the straightforward 
+computational modelling of working heterogeneous catalysts by means of first principles
+based approaches.12,13 
+For systems based on Pt and ceria, Pt can be found in the form of nano or subnano 
+particles of varying size,4,7,14,15 or as single atoms either anchored to the ceria surface2,16
+18 or inserted in the ceria lattice.1921 Atomically dispersed Pt on ceria substrates has been 
+studied extensively by means of combined experiment and computational approaches 
+during the last decade because they allow to significantly increase specific activity for 
+different reactions.2,17,22 In such composites, Pt is often found in cationic form (i.e.
+
+
+---
+
+Description:
+A substrate that can accept or donate electrons by varying the occupation of the Ce4f states and the amount of O in its lattice.
+
+Text:
+Ptn 
+species with n 1, 2, or 4) either occupying Ce positions of the ceria lattice or deposited 
+on undercoordinated sites of ceria substrates. The oxidation state of Pt atoms depends on 
+their coordination environment and on the stoichiometry of ceria substrate, which can 
+either accept or donate electrons by varying the occupation of the Ce4f states (reducing 
+Ce4 cations to Ce3 and vice versa) andor the amount of O in the ceria lattice. Atomically dispersed Pt has often been distinguished from metallic nano or 
+subnano Pt particles by the characteristic shifts of cationic Pt in XRay Photoemission 
+Spectroscopy (XPS).2,23,24 Nevertheless, recent studies report the formation of small 
+oxidized Pt particles (i.e.

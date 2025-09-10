@@ -1,0 +1,10 @@
+Description:
+A compound studied in complex with GtPyNP using MD simulations based on a crystal structure.
+
+Text:
+Indeed, MD simulations (using 
+GROMACS59,60 with the CHARMM3661 force field) based on 
+our recently disclosed crystal structure of GtPyNP in complex 
+with uridine (PDB ID 7m7k,4 see the SI for details) yielded 
+several insights in support of the proposed model. First, an 
+analysis of the clustered states over 50 ns simulation time

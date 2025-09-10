@@ -1,0 +1,27 @@
+Name: Deuterium
+Text:
+Deuterium is an isotope of hydrogen but it is chemically identical. It is a colorless, odorless gas. It is easily ignited. Once ignited it burns with a pale blue, almost invisible flame. The vapors are lighter than air. It is flammable over a wide range of vapor/air concentrations. Under prolonged exposure to fire or intense heat the containers may rupture violently and rocket. It is not toxic but is a simple asphyxiate by the displacement of oxygen in the air.
+Dideuterium is a dihydrogen.
+The stable isotope of hydrogen. It has one neutron and one proton in the nucleus.
+Properties:safety: Flammable and Compressed Gas
+smiles: [2H][2H]
+formula: H2
+chem_properties: Molecular Weight: 4.0282035557 g/mol
+XLogP3: 0
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 4.0282035557 Da
+Monoisotopic Mass: 4.0282035557 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 0
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 2
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

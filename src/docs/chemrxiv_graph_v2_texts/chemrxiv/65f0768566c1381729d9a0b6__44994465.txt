@@ -1,0 +1,103 @@
+Description:
+Polymethine dyes with seven methine units, known for favorable near-infrared excitation and emission properties suitable for in vivo imaging.
+
+Text:
+Polymethine dyes, characterized by two heterocycles 
+connected by odd numbers of methine units, are a major 
+family of dyes with more than 150 years of history.1 In 
+particular, heptamethine fluorophores, which are the 
+polymethine dyes with seven methine units (Figure 1), 
+have gained significant interest due to their favorable 
+nearinfrared (NIR, 7001000 nm) excitation and emission 
+properties that enable deeper penetration and reduced 
+background than visible fluorophores, making them high
+ly suitable for in vivo imaging applications.
+
+
+---
+
+Description:
+Dyes with planar conjugated systems that tend to aggregate nonemissively and have little solubility in water.
+
+Text:
+In particular, the planar conjugated sys
+tems in heptamethine dyes result in strong tendency to
+wards nonemissive aggregation with little solubility in 
+water, which requires the modification with hydrophilic 
+groups andor steric bulk to allow their imaging in aque
+ous conditions.912 Additionally, the stability of heptame
+thine dyes can introduce complexity in their imaging ap
+plications. For example, heptamethine dyes are photo
+bleached relatively fast under illumination compared to 
+other family of fluorophores,13,14 and many, including ICG, 
+have been reported to degrade in the presence of physio
+logical nucleophiles or even in simple aqueous solu
+tions.1012,15,16 While these limitations can be partially over
+come by using formulation methods, the heterogeneous 
+nature of formulation brings about batchtobatch varia
+tions as well as potential in vivo instability.
+
+
+---
+
+Description:
+Dyes that are photobleached relatively fast under illumination compared to other fluorophores.
+
+Text:
+In particular, the planar conjugated sys
+tems in heptamethine dyes result in strong tendency to
+wards nonemissive aggregation with little solubility in 
+water, which requires the modification with hydrophilic 
+groups andor steric bulk to allow their imaging in aque
+ous conditions.912 Additionally, the stability of heptame
+thine dyes can introduce complexity in their imaging ap
+plications. For example, heptamethine dyes are photo
+bleached relatively fast under illumination compared to 
+other family of fluorophores,13,14 and many, including ICG, 
+have been reported to degrade in the presence of physio
+logical nucleophiles or even in simple aqueous solu
+tions.1012,15,16 While these limitations can be partially over
+come by using formulation methods, the heterogeneous 
+nature of formulation brings about batchtobatch varia
+tions as well as potential in vivo instability.
+
+
+---
+
+Description:
+Dyes that require structural modification to enhance their physical and chemical properties for biological applications.
+
+Text:
+Therefore, 
+structural modification of heptamethine fluorophores is 
+often essential to enhance their physical and chemical 
+properties for reliable biological applications in physio
+logical conditions. Despite the necessity of heptamethine dye modifica
+tions, the limited scope of modification methods remains 
+as a hurdle to even broader utilization of these fluoro
+phores.
+
+
+---
+
+Description:
+Dyes that focus on the replacement of the center chloride.
+
+Text:
+In this context, latestage functionalization of 
+existing heptamethine dyes primarily focuses on the re
+placement of center chloride in the popular 4chloro hep
+tamethine scaffold, which is synthesized from the con
+densation between two heterocyclic salt moiety and an 
+accessible Schiff base bearing the chloride (Figure 1).58,17 
+Such replacement can take place via the substitution reac
+tion with N, O or S nucleophiles, whose products can be 
+labile under physiological conditions,1823 or coupling re
+actions to form robust CC bonds, although the conver
+sion usually requires high temperature and prolonged 
+reaction time that can be harmful to the fluorophore 
+(Figure 1).24,25 On the other hand, more complex modifica
+tion on the polymethine chain, including bulky 4
+substitutions or substitutions on other positions, requires 
+the bottomup synthesis of the fluorophore core, such as 
+httpsdoi.org10.26434chemrxiv2024z8l9r ORCID httpsorcid.org0000000162858959 Content not peerreviewed by ChemRxiv.

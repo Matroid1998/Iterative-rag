@@ -1,0 +1,13 @@
+Description:
+Used in solid-state batteries as a potential alternative to lithium-ion batteries due to its abundance and cost-effectiveness.
+
+Text:
+Lithiumion batteries (LIBs) have been successfully applied in electric vehicles, portable devices, and 
+energy storage solutions.13 However, safety concerns, the scarcity of lithium resources, and the 
+resulting fluctuating prices remain the Achilles heel of LIBs.4 Sodium solidstate batteries (SSBs) have 
+attracted enormous attention and are regarded as a potential alternative to LIBs. Ideally, sodium SSBs 
+offer reduced costs due to the abundance of sodium on Earth and improved safety because of the use 
+of inflammable solidstate components.5 One of the perspectives of sodium SSBs is applying them in 
+largescale energy storage systems owing to their excellent costeffectiveness and to the similar 
+manufacturing process to LIBs.6,7 The key component that significantly impacts solidstate batteries 
+properties and performance is the solidstate electrolyte (SE).

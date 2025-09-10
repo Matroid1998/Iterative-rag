@@ -1,0 +1,13 @@
+Description:
+Materials with exceptional optical and electronic properties used in photovoltaics, optoelectronics, and photocatalysis.
+
+Text:
+Metalhalide perovskites (MHPs) have emerged as highly promising materials due to their 
+exceptional properties and versatile applications in photovoltaics, optoelectronics, and 
+photocatalysis.1,2 These compounds possess exceptional optical and electronic properties, 
+including a high absorption coefficient, a direct and tunable bandgap, long carrier diffusion 
+lengths, high charge mobility, and low recombination losses.3 The general crystal structure of 
+MHPs is ABX3, where A is typically an organic or inorganic cation (Methylammonium, Cs or 
+Rb), B is a metal cation (Pb or Sn), and X is a halide anion (Br, I, or Cl).3 The structure consists 
+of BX octahedra, with the B cation at the center and the A cation occupying a 12fold 
+coordinated site.

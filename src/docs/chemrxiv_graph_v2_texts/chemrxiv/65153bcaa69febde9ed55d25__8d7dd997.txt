@@ -1,0 +1,28 @@
+Description:
+The hardest known material with a Vickers hardness of 100 GPa and density of 3.635 g/cm³, formed by sp3-hybridized carbon atoms.
+
+Text:
+Diamond is the hardest known material with a Vickers hardness (HV) at the level of 100 GPa and 
+density   3.635 gcm3 1. Its structure (space group Fm3m) is formed by cornersharing tetrahedra 
+of sp3hybridized carbon atoms with CCC  109.47 and is characterized by the highest atomic 
+density (i.e., the number of atoms per unit cell volume) and the highest density per valence electron 
+2. A rare hexagonal form of diamond (lonsdaleite) (space group P63mmc) with virtually the same 
+density has been claimed to be stronger and stiffer than diamond 3. The network topologies of diamond and lonsdaleite are dia and lon, respectively, and many 
+theoretically predicted carbon allotropes have been identified with these topologies (see 4 and 
+references therein).
+
+
+---
+
+Description:
+Has superior atomic density, elastic moduli, and hardness.
+
+Text:
+The topology determination for the new phases is now made easy with the 
+TopCryst program 5. Information on all carbon allotropes extracted from the literature is indexed in 
+the SACADA database 6, which currently contains 703 allotropes. Diamond (both cubic and hexagonal) is still considered to have superior atomic density, elastic moduli 
+and hardness 1. Recently, however, several superdense (  3.635 gcm3) carbon allotropes have 
+been predicted from the firstprinciples studies 7,8, and hexagonal (space group P6222) C3 with 
+assigned quartz topology (SACADA qtz 11) has even been claimed to have a hardness of 113 GPa 
+8, i.e., 15 harder than diamond. Also, very recently superdense (  3.666 gcm3) ultrahard (HV  
+102 GPa) hexagonal C6 (space group P6522) allotrope with qtz topology was proposed by us 9.

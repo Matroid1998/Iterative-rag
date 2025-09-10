@@ -1,0 +1,25 @@
+Name: Tert-Butyl hypochlorite
+Text:
+Tert-butyl hypochlorite appears as a slightly yellowish liquid with a pungent odor. Water insoluble. Corrosive to the skin, eyes, and mucous membranes.
+Properties:safety: Flammable and Oxidizer and Corrosive and Health Hazard
+smiles: CC(C)(C)OCl
+formula: C4H9ClO
+chem_properties: Molecular Weight: 108.57 g/mol
+XLogP3: 1.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 108.0341926 Da
+Monoisotopic Mass: 108.0341926 Da
+Topological Polar Surface Area: 9.2
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 37.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

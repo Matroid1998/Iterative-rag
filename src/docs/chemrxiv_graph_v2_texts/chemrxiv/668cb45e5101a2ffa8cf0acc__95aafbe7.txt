@@ -1,0 +1,24 @@
+Description:
+Explored as nonprecious catalysts for the hydrogen evolution reaction (HER).
+
+Text:
+Electrocatalytic hydrogen evolution reaction (HER), serving as a fundamental step in 
+water splitting and a model reaction for exploring proton coupled electron transfer (PCET) 
+processes, offers a sustainable approach to store intermittent renewable energy sources in the form 
+of chemical fuels.13 The key to realizing this vision is the development of costeffective and 
+efficient catalyst capable of minimizing energy loss in HER, thereby replacing the noble Pt 
+catalyst.4 Among a wide variety of nonprecious catalysts explored, such as transition metal 
+phosphides,5, 6 MoS2,7, 8 and gC3N4,9 twodimensional (2D) MXene, including transition metal 
+carbides, nitrides, and carbonitrides, have emerged as a particularly promising class of HER 
+catalysts due to their good metallic conductivity, hydrophilic nature, and tunable surface 
+reactivity.1015 Recently, several experiments have reported the excellent HER activity of these 2D 
+layered materials, such as Mo2C and Ti2C.1618 
+Experimentally, 2D MXenes are usually prepared by selective etching of the A group 
+element atoms from their parent MAX phases, using strong etching solutions such as HF or 
+NH4HF2.19 Here, M, A, and X represent the early transition metal, the main group IIIA or IVA 
+element, and the carbon andor nitrogen atom, respectively.20 These preparation methods typically 
+lead to the basal plane of assynthesized 2D MXenes being terminated by F, OH, and O 
+species.21 However, as HER takes place in a reducing environment, these adsorbed species might 
+undergo reduction to form HF or H2O through coupling with protons and electrons.22, 23 This 
+suggests that the surface structures of 2D MXenes could become rather complicated under HER 
+turnover conditions.

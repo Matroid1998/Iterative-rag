@@ -1,0 +1,13 @@
+Description:
+Involved in the shuttle effect that negatively impacts the electrochemical performance of LiS cells.
+
+Text:
+Significant research has been undertaken to increase 
+the active material loading of LiS cells 6, however this often results in poor 
+electrochemical performance due to low sulfur utilisation and an increase in the 
+polysulfide shuttle effect 7. Furthermore, the electrochemical performance can be 
+improved by the addition of an excessive mass of conductive carbon to the positive 
+electrode composite and substrate 8,9. In some instances, as little as 20 wt sulfur 
+is incorporated into the positive electrode, resulting in a gravimetric capacity too 
+low for practical applications 10. Additionally, most LiS cell research is conducted using coin cells which use a Li 
+metal foil as the negative electrode.

@@ -1,0 +1,12 @@
+Description:
+A common host lattice for upconversion nanoparticles (UCNPs).
+
+Text:
+There are many possible host lattices for UCNPs, 1013 with NaYF4 
+being most common.14 The longlived excited states of the lanthanide ions (typically 100 s to 10 ms)15 
+enables multiphoton absorption and subsequent upconversion process, where multiple lowenergy photons 
+are absorbed and converted into a higher energy photon.16 UCNPs can absorb and emit light at various 
+wavelengths, primarily dependent on the choice of photoactive dopants hosted within the UCNP lattice 
+structure. Sensitizers include Yb3 (976 nm), Nd3 (808 nm) and Er3 (1532 nm).17,18 Er3 and Tm3 are 
+common emissive activator ions, enabling emission from UV to visible at discrete linelike wavebands.1921 
+httpsdoi.org10.26434chemrxiv2024hbhs1v3 ORCID httpsorcid.org0000000281510525 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

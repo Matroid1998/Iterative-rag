@@ -1,0 +1,10 @@
+Description:
+Compounds oxidized by tyrosinase.
+
+Text:
+Human tyrosinase (hsTYR, EC 1.14.18.1) is a type3 coppercontaining metalloenzyme char
+acterized by a coupled binuclear active site that performs both the orthohydroxylation of 
+monophenols and the oxidation of catechols.1 Especially, hsTYR carries out the hydroxylation 
+of Ltyrosine to LDOPA and the subsequent oxidation of LDOPA to dopaquinone, thereby 
+initiating the spontaneous synthesis of melanin pigments in specialized skin cells, i.e. the mel
+anocytes.2 Melanin plays a crucial role in cell protection against UV radiations and free radicals. Nonetheless, the production of these pigments, i.e.

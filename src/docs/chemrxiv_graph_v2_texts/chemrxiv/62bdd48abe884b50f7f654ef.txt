@@ -1,0 +1,15 @@
+Description:
+A metal used in experiments involving evaporation on BMPTFSI films.
+
+Text:
+We rst present and discuss the results of systematic XPS
+measurements on the interaction of a multilayer lm of molec
+ularly adsorbed BMPTFSI lm a HOPG substrate with in
+creasing amounts of metallic Li evaporated on top of it (sec
+tion II A). Next we apply DFT calculations to explore the
+thermodynamic stability of possible decomposition products
+and kinetic barriers for their formation (section II B and sec
+tion II C). Subsequently, we compute core level binding en
+ergies of probable reaction products and compare these with
+the experimental ndings in the XPS experiments to unam
+biguously identify the products and longliving intermediates

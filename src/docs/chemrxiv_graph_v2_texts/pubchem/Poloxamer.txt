@@ -1,0 +1,27 @@
+Name: Poloxamer
+Text:
+Poloxamer is an epoxide.
+Poloxamer is a non-ionic triblock copolymer comprised of a hydrophobic core of polyoxypropylene flanked by two hydrophilic side chains of polyoxyethylene, that may be used as a fixative and as solubilizer, emulsifier and stabilizer in drug delivery systems.
+A nonionic polyoxyethylene-polyoxypropylene block co-polymer with the general formula HO(C2H4O)a(-C3H6O)b(C2H4O)aH. It is available in different grades which vary from liquids to solids. It is used as an emulsifying agent, solubilizing agent, surfactant, and wetting agent for antibiotics. Poloxamer is also used in ointment and suppository bases and as a tablet binder or coater. (Martindale The Extra Pharmacopoeia, 31st ed)
+See also: Poloxalene (annotation moved to); Poloxamer 188 (annotation moved to); Poloxamer 331 (annotation moved to) ... View More ...
+Properties:safety: Irritant
+smiles: CC1CO1.C1CO1
+formula: C5H10O2
+chem_properties: Molecular Weight: 102.13 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 102.068079557 Da
+Monoisotopic Mass: 102.068079557 Da
+Topological Polar Surface Area: 25.1
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 36.7
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

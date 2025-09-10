@@ -1,0 +1,13 @@
+Description:
+Has a larger ionic radius (1.02 Å) than the Li ion (0.76 Å), affecting its insertion and extraction from host materials.
+
+Text:
+However, the
+larger ionic radius of the Na ion (1.02 ) than the Li ion (0.76 ) makes it difficult to insert or
+extract the sodium ions from the host material, affecting the mass transport, storage, and overall
+kinetics.14,15 Therefore, finding suitable electrode materials with superior electrochemical
+properties is crucial for making NIBs with commercial applications. Several recent studies have
+made progress on both cathode and anode materials of NIBs.1619 However, significant efforts
+are still required to find new anode materials with high specific charge capacities and lower
+redox potentials (closer to the NaNa redox couple). In a recent study,20 Jinxing et al. discovered a new class of materials called antiMXenes,
+with promising electrochemical and catalytic applications.

@@ -1,0 +1,10 @@
+Description:
+Used in single-junction solar cells with a power conversion efficiency capped at the detailed balance limit of 33.7%.
+
+Text:
+Solar cells are a cornerstone in transitioning from fossil
+based to CO2neutral energy production, with the power
+conversion efficiency constituting an essential performance
+parameter. 1 Unfortunately, the efficiency of the predomi
+nant singlejunction silicon solar cells is capped at the de
+tailed balance limit of 33.7.

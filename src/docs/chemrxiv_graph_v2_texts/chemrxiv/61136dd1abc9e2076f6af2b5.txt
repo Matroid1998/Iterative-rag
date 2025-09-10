@@ -1,0 +1,12 @@
+Description:
+Natural compounds investigated as potential inhibitors of the main protease (Mpro) of SARS-CoV-2.
+
+Text:
+Additionally, an in silico attempt has been reported to find inhibitors of main protease (MPro) by taking 
+only six alkaloids from Vasaka tree (16). In this study, we have done a detailed computational investigation on natural quinazoline 
+alkaloids by constructing an adequate library of 41 samples from two natural product databases in the 
+search for potential inhibitors of the main protease (Mpro) of SARSCoV2. After two rounds of 
+screenings based on rigid docking, flexible docking and ADMET profiling, we identified three 
+quinazoline alkaloids as promising hit compounds. Furthermore, the stereoelectronic features of hit 
+alkaloids were further investigated through additional structurebased Epharmacophore mapping and 
+DFT based calculations.

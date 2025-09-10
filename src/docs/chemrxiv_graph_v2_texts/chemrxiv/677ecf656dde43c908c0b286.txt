@@ -1,0 +1,14 @@
+Description:
+Has a large atomic radius in cysteine.
+
+Text:
+1
+Cysteine is unique among the twenty proteogenic amino acids due to the large atomic radius
+2
+of its sulfur atom and the relative weakness of the corresponding SH bond. This imbues it
+3
+with remarkable nucleophilicity, facilitating spontaneous reactions even under mild conditions.1
+4
+The inherent nucleophilicity of a given cysteine is governed by its pKa, a value that implies the
+5
+favorability of the ionization state of the thiol.

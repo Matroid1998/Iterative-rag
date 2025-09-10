@@ -1,0 +1,27 @@
+Name: Fucoxanthin
+Text:
+Fucoxanthin is an epoxycarotenol that is found in brown seaweed and which exhibits anti-cancer, anti-diabetic, anti-oxidative and neuroprotective properties. It has a role as an algal metabolite, a CFTR potentiator, a food antioxidant, a neuroprotective agent, a hypoglycemic agent, an apoptosis inhibitor, a hepatoprotective agent, a marine metabolite and a plant metabolite. It is an epoxycarotenol, an acetate ester, a secondary alcohol, a tertiary alcohol and a member of allenes.
+Fucoxanthin is under investigation in clinical trial NCT03613740 (Effect of Fucoxanthin on the Components of the Metabolic Syndrome, Insulin Sensitivity and Insulin Secretion). Fucoxanthin isis a marine carotenoid mainly found in brown algae, giving them a brown or olive-green color. Fucoxanthin is investigated for its anti-inflammatory, antinociceptive and anti-cancer effects. In vivo studies have demonstrated that oral administration of fucoxanthin inhibited carcinogenesis in an animal model of duodenal, skin, colon and liver cancer. Fucoxanthin causes antitumor and anticarcinogenic effects by inducing G1 cell-cycle arrest and apoptosis by modulating expression of various cellular molecules and cellular signal transduction pathways, but the exact mechanism of anti-cancer action of fucoxanthin is not fully elucidated. Fucoxanthin regulates lipids metabolism, the effect most likely mediated by AMK-activated protein kinase. A clinical trial of fucoxanthin against non-alcoholic fatty liver disease is ongoing.
+Fucoxanthin has been reported in Jania, Corbicula sandai, and other organisms with data available.
+Properties:safety: Irritant
+smiles: C/C(=C\C=C\C=C(/C)\C=C\C=C(/C)\C(=O)C[C@]12[C@](O1)(C[C@H](CC2(C)C)O)C)/C=C/C=C(\C)/C=C=C3[C@](C[C@H](CC3(C)C)OC(=O)C)(C)O
+formula: C42H58O6
+chem_properties: Molecular Weight: 658.9 g/mol
+XLogP3: 8.1
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 12
+Exact Mass: 658.42333957 Da
+Monoisotopic Mass: 658.42333957 Da
+Topological Polar Surface Area: 96.4
+Heavy Atom Count: 48
+Formal Charge: 0
+Complexity: 1530
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 5
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 7
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: No 
+

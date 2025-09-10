@@ -1,0 +1,12 @@
+Description:
+A material with a wide bandgap of 6.0 eV used in the semiconductor industry.
+
+Text:
+The group 13 nitrides (13Ns), aluminum (AlN), gallium (GaN) and indium nitride (InN) are 
+important materials in the semiconductor industry 1. They range in bandgap from the wide 
+gap of 6.0 eV for AlN 2, to the narrow 0.7 eV for InN 3 with GaN at an intermediate gap of 
+3.4 eV 4. This bandgap range covers ultraviolet to infrared and thus contains the full visible 
+spectrum making the 13Ns well suited for optoelectronics such as LEDs 5,6. InN has also a 
+very high electron mobility and electron saturation velocity making it suited for high frequency 
+transistors 7,8. To use the 13Ns in these applications they need to form thin films with high crystalline quality, 
+conformity, and low impurity levels.

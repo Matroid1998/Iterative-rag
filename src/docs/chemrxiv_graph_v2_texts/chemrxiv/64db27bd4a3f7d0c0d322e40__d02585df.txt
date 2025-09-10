@@ -1,0 +1,79 @@
+Description:
+Carbene precursors known for their unique electronic and structural properties.
+
+Text:
+Diazo compounds (i.e., (R1)(R2)CN2 where R1 and R2
+indicate functional groups) are wellknown carbene (i.e.,
+(R1)(R2)C) precursors that have garnered significant at
+tention in organic synthesis because of their unique elec
+tronic and structural properties 110. The generated
+carbenes from diazo are highly reactive intermediates
+that participate in a variety of chemical processes, includ
+ing XH insertion (where X  C, O, N, S) 1118, cyclo
+propanation 1924, and tandem crosscoupling 2528. The N2 gas is released to the atmosphere from diazo to
+carbene transformation (Scheme 1). Thus, if the activa
+tion energy barrier for breaking the carbonnitrogen bond
+in a diazo compound is crossed, the reaction becomes ir
+reversible. In other words, regardless of whether the reac
+tion is thermodynamically exothermic or endothermic, it
+is governed by kinetics.
+
+
+---
+
+Description:
+A group involved in the release of N2 from diazo compounds in the presence of a catalyst.
+
+Text:
+For instance, Ariafard et al.31 ex
+plored the R2 substitution impact, whereas the R1 site
+is decorated by a few phenyl derivatives. In this case,
+the activation barriers ranged from 26.7 to 35.1 kcalmol. Clearly, the direct attachment of electronwithdrawing or
+electrondonating functional groups to the carbon carry
+ing the diazo group, i.e. R1 site, will result in a more
+pronounced electronic effect and, subsequently, can ex
+ert a greater influence on the stability of the transition
+structure. Moreover, a substantial portion of the stud
+ies is devoted to the mechanism underlying the release of
+N2 from diazo compounds in the presence of a catalyst,
+particularly a metal complex catalyst 33, 3741.
+
+
+---
+
+Description:
+Compounds examined for optimizing N2 gas release through DFT and machine learning approaches.
+
+Text:
+Taken
+together, the community still needs a thorough exami
+nation of a larger range of diazo compounds to pave the
+way for a more effective N2 gas release process. The abovesimplified description prompted us to con
+duct a DFTbased investigation, examining a database
+of diazo compounds consisting of 4 common backbones
+decorated with 14 functional groups (Scheme 2). Such a
+database allows us to discover leading features and opti
+mize them in order to design an efficient diazo compound
+for N2 release. To this end, we also used a machine learn
+ing (ML) approach to analyze DFT results and identify
+relevant chemical descriptors. The accuracy of ML has
+now reached a level comparable to that of DFT 42.
+
+
+---
+
+Description:
+Compounds whose reactivity and stability provide information on N2 gas release.
+
+Text:
+It is
+important to note that DFT is an accurate approxima
+tion, but scales with system size, whereas ML is fast but
+limited by database size and reliability. By combining
+these two approaches, we can uncover previously unseen
+correlations and gain a deeper understanding of chemical
+reactions. We aim to address the following questions i) How
+does the structural modification affect the kinetics of the
+N2 gas release? It provides us with information on both
+the reactivity and stability of the diazo compounds. ii)
+httpsdoi.org10.26434chemrxiv2023h67fz ORCID httpsorcid.org0000000208631136 Content not peerreviewed by ChemRxiv. License CC BY 4.0

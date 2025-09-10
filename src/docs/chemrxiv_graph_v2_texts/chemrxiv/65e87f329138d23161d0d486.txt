@@ -1,0 +1,32 @@
+Description:
+Rare earth ions that can be moved between bulk liquid and liquid-vapor interface using X-rays.
+
+Text:
+Control over this transport, from bulk to interface and 
+46 
+back, can lead to the triggering of interfacial processes as demonstrated by electrochemical methods 
+47 
+for the liquidliquid interface between two immiscible electrolyte solutions.12,13 Here, we 
+48 
+demonstrate that exposure to Xrays provides a method to move rare earth lanthanide ions between 
+49 
+bulk liquid and its liquidvapor interface. This method utilizes complexants and extractants like those 
+50 
+used in solvent extraction processes to separate and purify lanthanides and actinides.
+
+
+---
+
+Description:
+Extracted into the organic phase during separation processes involving complexants like DTPA.
+
+Text:
+This has been used to 
+61 
+advance the separation of actinides and lanthanides, where complexants such as DTPA hold back 
+62 
+actinides in the aqueous phase while lanthanides are extracted into the organic phase.21,22 
+63 
+The competing effects of extractants and complexants contribute to the equilibrium 
+64 
+distribution of ions in bulk and interfacial liquids.

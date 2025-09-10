@@ -1,0 +1,14 @@
+Description:
+Exhibit self-healing capabilities under energetic bombardment.
+
+Text:
+Due to its high hardness of about 35 GPa 1, rhombohedral boron carbide , commonly denoted B4C or 
+B13C2, here referred to as rBxC (4  x 10.5), is mainly used as a super hard material in applications 
+such as abrasive or plate armour.2 Additionally, owing to the selfhealing capabilities of the boron 
+icosahedra under energetic bombardment3 and due to the high neutron crosssection of the isotope 
+10B, it is a promising material for boronbased neutron detectors.4 Interestingly, and less explored, is 
+that rBxC is a semiconductor with electronic properties which can be tuned with the BC 
+stoichiometry.57 Its bandgap, for instance, ranges from 0.48 to 2.1 eV with increasing boron content.5
+7 Semiconducting rBxC could be used in combination with the wide bandgap materials boron 
+subphosphide (B12P2)8 and boron subarsenide (B12As2)9, with which it shares structural similarities, and 
+would enable the fabrication of novel radiation resistant heterostructures.

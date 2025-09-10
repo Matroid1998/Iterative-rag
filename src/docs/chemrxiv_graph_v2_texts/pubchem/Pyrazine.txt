@@ -1,0 +1,28 @@
+Name: Pyrazine
+Text:
+Pyrazine is a diazine that is benzene in which the carbon atoms at positions 1 and 4 have been replaced by nitrogen atoms. It has a role as a Daphnia magna metabolite. It is a member of pyrazines and a diazine.
+Pyrazine has been reported in Nicotiana tabacum, Coffea arabica, and Daphnia magna with data available.
+PYRAZINE is a small molecule drug with a maximum clinical trial phase of III and has 1 investigational indication.
+A heterocyclic aromatic organic compound with the chemical formula C4H4N2.
+Properties:safety: Flammable and Irritant
+smiles: C1=CN=CC=N1
+formula: C4H4N2
+chem_properties: Molecular Weight: 80.09 g/mol
+XLogP3: -0.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 80.037448136 Da
+Monoisotopic Mass: 80.037448136 Da
+Topological Polar Surface Area: 25.8
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 26.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

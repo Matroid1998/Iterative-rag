@@ -1,0 +1,17 @@
+Description:
+A compound where ionic conductivity increases exponentially with increasing interlayer distance.
+
+Text:
+Recently, we developed an
+interatomic potential model for a family of fast ion
+conductorsA2M2TeO6 (A  Li, Na, or K ; M  Ni,
+Zn, Co, or Mg) 37, 38to perform MD studies that
+represent the structural and dynamical properties re
+ported in the experiments and present several interest
+ing behaviors such as energydriven or entropydriven
+diusion depending on the concentration of the mobile
+ions. Our previous work on A2Ni2TeO6 (A  Li, Na, or
+K) 38 showed how cationic distribution and the energy
+landscape vary with increasing interlayer distance. The
+study also showed that ionic conductivity increases expo
+nentially with increasing interlayer distance. Moreover,

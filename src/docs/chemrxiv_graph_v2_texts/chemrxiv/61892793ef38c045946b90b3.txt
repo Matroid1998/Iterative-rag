@@ -1,0 +1,10 @@
+Description:
+A nonpolar solvent used as a stand-in for gas-phase measurements in electronic absorption spectra studies.
+
+Text:
+The quality of the excitation energy calculation is usually evaluated by
+comparing emb to the maxima of measured electronic absorption spectra, whereas the shift
+is compared to the shift in the chromophores absorption maximum between the solvent of
+interest and the maximum in a nonpolar solvent such as nhexane, where the nonpolar
+solvent measurement acts as a standin for the more demanding gasphase measurements. Singlereference quantum chemical methods, such as timedependent Density Functional
+2

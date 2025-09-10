@@ -1,0 +1,25 @@
+Name: Salen
+Text:
+Salcomine appears as a solid complex between the cobalt(II) ion and the condensation product of salicylaldehyde and ethylenediamine. Such condensation products are called "Schiff's bases." Complexation with cobalt nullifies their basic properties. Used as a catalyst for various oxidation reactions in which it behaves as an oxygen carrier.
+Properties:safety: Irritant
+smiles: C1=CC=C(C(=C1)C=NCCN=CC2=CC=CC=C2O)O
+formula: C16H16N2O2
+chem_properties: Molecular Weight: 268.31 g/mol
+XLogP3: 2.1
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 5
+Exact Mass: 268.121177757 Da
+Monoisotopic Mass: 268.121177757 Da
+Topological Polar Surface Area: 65.2
+Heavy Atom Count: 20
+Formal Charge: 0
+Complexity: 298
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

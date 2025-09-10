@@ -1,0 +1,26 @@
+Description:
+A topology assigned to hexagonal C3 and C6 carbon allotropes.
+
+Text:
+The topology determination for the new phases is now made easy with the 
+TopCryst program 5. Information on all carbon allotropes extracted from the literature is indexed in 
+the SACADA database 6, which currently contains 703 allotropes. Diamond (both cubic and hexagonal) is still considered to have superior atomic density, elastic moduli 
+and hardness 1. Recently, however, several superdense (  3.635 gcm3) carbon allotropes have 
+been predicted from the firstprinciples studies 7,8, and hexagonal (space group P6222) C3 with 
+assigned quartz topology (SACADA qtz 11) has even been claimed to have a hardness of 113 GPa 
+8, i.e., 15 harder than diamond. Also, very recently superdense (  3.666 gcm3) ultrahard (HV  
+102 GPa) hexagonal C6 (space group P6522) allotrope with qtz topology was proposed by us 9.
+
+
+---
+
+Description:
+A topology observed in binary and ternary compounds.
+
+Text:
+The quartz topology is also observed in binary (ZnTe) and ternary (GaAsO4, FePO4) compounds. In 
+particular, under pressure, in addition to the cubic sphalerite structure (space group F43m) 
+characteristic of zinc chalcogenides, ZnTe also exhibits a trigonal HgStype structure (space group 
+P3121) 10 with qtz topology. This may be because the Pauling electronegativity ()of the chalcogen 
+decreases from oxygen ((O)  3.44) to tellurium ((Te)  2.10). Knowing (Zn)  1.65, ZnO is an 
+ionic compound (ZnO1.79), while ZnTe is already a covalent compound (ZnTe  0.45).

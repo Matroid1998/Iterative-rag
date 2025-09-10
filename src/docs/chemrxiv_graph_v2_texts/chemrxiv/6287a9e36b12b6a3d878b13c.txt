@@ -1,0 +1,12 @@
+Description:
+Large conjugated compounds whose aromaticity cannot be reliably assessed using B3LYP due to delocalization errors.
+
+Text:
+In addition, we employ the GMTKN55 database to test the performance of BLYP35. These
+new results conrm cP6b6  T66 is either weakly aromatic or nonaromatic and provide computational
+evidence that only two of the molecules studied in Ref. 4 can be considered aromatic. Level of theory
+The size of these molecules severely constraints the computational methods that can be used to study
+molecular nanorings and, for this reason, we are limited to DFAs and singlepoint wavefunction calcu
+lations. At this stage, we believe it is rmly established that B3LYP suers from large delocalization
+errors and it cannot be used to assess the aromaticity of large conjugated porphyrins.3,4 The open ques
+tion is which DFA is more reliable to study these compounds.

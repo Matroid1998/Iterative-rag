@@ -1,0 +1,26 @@
+Description:
+A factor that inhibits radical polymerization in DLP printing.
+
+Text:
+Digital light processing (DLP) of photopolymerizable inks and hydrogels typically uses 
+(meth)acrylated formulations crosslinked via the chaingrowth process of photoinitiated radical 
+polymerization (Figure 1A). A limitation of radical polymerization for DLP printing is its oxygen 
+sensitivity.1, 2 To counteract oxygen inhibition, higher photoinitiator concentrations and higher 
+light doses are typically applied, which can lead to phototoxicity in bioprinting contexts.1 
+Photopolymerizable precursors based on radical thiolene photopolymerization are interesting 
+alternatives to radical (meth)acrylate polymers. The radical thiolene reaction involves the addition 
+of a thiyl radical to a vinyl group to form a thioether (Figure 1B).
+
+
+---
+
+Description:
+Not sensitive to the radical thiolene reaction as the generated peroxy radical readily abstracts a hydrogen atom.
+
+Text:
+The polymerization proceeds 
+via a stepgrowth mechanism and the resulting networks show higher homogeneity than 
+(meth)acrylate networks polymerized by radical polymerization (Figure 1C).1, 3, 4 The radical 
+thiolene reaction is not sensitive to oxygen as the generated peroxy radical readily abstracts a 
+hydrogen atom from a thiol which can then proceed in the thiolene reaction. Moreover, the kinetics 
+httpsdoi.org10.26434chemrxiv2024bcdl6v2 ORCID httpsorcid.org0000000157252135 Content not peerreviewed by ChemRxiv. License CC BY 4.0

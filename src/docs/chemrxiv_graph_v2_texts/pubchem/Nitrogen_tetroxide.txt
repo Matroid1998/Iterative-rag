@@ -1,0 +1,27 @@
+Name: Nitrogen tetroxide
+Text:
+Nitrogen tetroxide appears as red-brown liquid with a sharp, unpleasant chemical odor. Low-boiling (boiling point 21.15 °C) and held as a liquid by compression. Density 1.448 g / cm3. Consists of an equilibrium mixture of brown NO2 (nitrogen dioxide) and colorless N2O4 (dinitrogen tetroxide). Evolves poisonous brown vapors. Cylinders and ton containers may not be equipped with a safety relief device. Prolonged exposure of the containers to fire or heat may result in their violent rupturing and rocketing.
+Dinitrogen tetraoxide is a nitrogen oxide. It has a role as an oxidising agent.
+Dinitrogen tetroxide is a chemical compound that is a powerful oxidizer, highly toxic, and corrosive. It is used mainly as a rocket propellant. Nitrite is a toxic compound known to cause methemoglobinemia. (L1137,  L1625)
+Properties:safety: Oxidizer and Compressed Gas and Corrosive and Acute Toxic
+smiles: [N+](=O)([N+](=O)[O-])[O-]
+formula: N2O4
+chem_properties: Molecular Weight: 92.011 g/mol
+XLogP3: 0.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 91.98580649 Da
+Monoisotopic Mass: 91.98580649 Da
+Topological Polar Surface Area: 91.6
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 60.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

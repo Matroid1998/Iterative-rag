@@ -1,0 +1,18 @@
+Description:
+An electrode material studied for ionic transport in battery applications.
+
+Text:
+Forces acting on atoms
+in a MD simulation is accessed from accurate (but expensive)
+rst principles calculations, or inexpensive (and less accurate)
+interatomic potentials (i.e., force elds). An alternative to MD is kinetic Monte Carlo (kMC, also
+known as dynamic Monte Carlo)2224, which has been exten
+sively applied to study materials kinetics including, recharge
+able batteries2528, solidoxide fuel cells29,30, catalysis31,32,
+a)msedznus.edu.sg
+b)pcanepanus.edu.sg
+crystal growth33, vacancy diffusion in alloys34,35, thin lm
+growth36, and uid ow37. kMC is particularly useful in
+quantifying ionic transport in battery materials, as demon
+strated by van der Ven et al. in electrode materials, such as
+LixCoO225, LixTiS238, Li1xTi2O439.

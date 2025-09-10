@@ -1,0 +1,13 @@
+Description:
+A conserved binding site component in carbohydrate recognition domains of C-type lectin receptors.
+
+Text:
+To detect pathogens and thus potential danger, antigen presenting cells of our immune system 
+possess a battery of receptors, called pathogen recognition receptors (PRRs), that are dedicated to their 
+surveillance and identification1. Among PRRs, Ctype lectin receptors (CLRs) are dedicated to the 
+recognition of carbohydrate molecular patterns associated to pathogens, and can then contribute to shape 
+an immune response. This family of receptors shares a common domain, known as the Carbohydrate 
+Recognition Domain (CRD), containing a conserved calcium binding site used for the recognition of 
+carbohydrates. The diverse CLRs differ in size, oligomerization state and signaling pathways, and will 
+therefore have a different impact on the immune system depending on the panels of glycans they 
+recognize2,3.

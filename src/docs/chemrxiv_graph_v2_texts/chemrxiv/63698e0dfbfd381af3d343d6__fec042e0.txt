@@ -1,0 +1,14 @@
+Description:
+Ligands that can cap nanoplates, causing lattice contraction.
+
+Text:
+of surface compressive stresses and can even remove atoms from 
+the material.42 These surface effects impact not only the primary surface atoms, but cause 
+distortions propagating inwards two to four atomic layers (Figure 4).42 To probe this effect, we 
+collected selected area electron diffraction (SAED) data of undeformed single nanoplates before 
+and after ligand exchange (Figure 4b, Table S4). Since surface atoms make up a nonnegligible 
+percentage of thin nanoplates (10), lattice measurements from electron diffraction patterns for 
+an entire particle should show deviations from the expected value if large surface reorganizations 
+exist. Correlated lattice measurements were obtained for nine individual nanoplates capped first 
+with carboxylate ligands (black) and then exchanged to thiol ligands (red, Figure 4b). On average, 
+carboxylatecapped nanoplates exhibited a lattice contraction of 6.7.

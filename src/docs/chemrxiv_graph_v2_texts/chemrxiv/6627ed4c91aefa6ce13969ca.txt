@@ -1,0 +1,13 @@
+Description:
+A nucleoside inhibitor of DNMT methylation approved by the FDA to treat myelodysplastic syndrome.
+
+Text:
+Although the physical samples (compound material) of the 
+compounds are readily available for experimental screening in, for example, highthroughput or medium
+throughput mode, the chemical structures are publicly accessible and can be used for benchmarking 
+computational studies. DNA methyltransferases (DNMTs) are one of the main epigenetic target families with clinical relevance 
+79. DNMTs include two de novo methyltransferases, DNMT3A and DNMT3B, and the maintenance 
+methyltransferase DNMT1 (the most abundant DNMT), which is in charge of duplicating the pattern of DNA 
+methylation during replication, and it is necessary for adequate mammalian development. Two nucleoside 
+inhibitors of DNMT methylation, azacitidine and decitabine, have been approved by the FDA to treat 
+myelodysplastic syndrome 10.

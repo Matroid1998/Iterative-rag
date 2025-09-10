@@ -1,0 +1,12 @@
+Description:
+Experimentally difficult to accurately determine the positions of hydrogen atoms.
+
+Text:
+Most databases used in computational studies source their data from the CSD Database. In most cases, a structure deposed in the CSD Database cannot be used directly in a compu
+tational study. The CIF files deposited in the CSD are not aimed to be used by computational
+studies. For example, experimentally, it is diicult to accurately determine the positions of
+hydrogen atoms. It is common practice to report atomic occupancies that are not equal
+to one as overlapping atoms. In addition, the structures are often reported to have solvent
+molecules in the pores. The CoReMOF databases aimed to address these issues and provide
+the community with a computationalready version of the MOF structures reported in the
+CSD. One should not underestimate the complexity of cleaning these experimental structures.

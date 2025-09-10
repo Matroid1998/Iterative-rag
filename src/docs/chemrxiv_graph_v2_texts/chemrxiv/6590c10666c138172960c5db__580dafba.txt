@@ -1,0 +1,44 @@
+Description:
+Detected using TOP assay as surfactants.
+
+Text:
+27 
+The study of per and polyfluoroalkyl substance (PFAS) pollutants has been extended from 
+28 
+the early focus on allcarbon perfluorocarboxylates (PFCAs, CnF2n1COO) and perfluoroalkane 
+29 
+sulfonates (PFSAs, CnF2n1SO3) to a large variety of novel structures with various heteroatoms, 
+30 
+branching patterns, and chain lengths.13 For example, many fluorinated ether structures have been 
+31 
+detected in water and soil worldwide47 and shown various toxicities.813 The belated attention to 
+32 
+these structures is primarily attributed to (1) the information gap between fluorine chemistry and 
+33 
+environmental chemistry and (2) the lack of analytical standards for targeted analysis.14 
+34 
+For the detection of telomer (CnF2n1(CH2)mX, Xhighly diverse organic functional 
+35 
+groups) and sulfonamide (CnF2n1SO2NHX) surfactants, total oxidizable precursor (TOP) assay 
+36 
+has been widely applied.14 The H atoms in the precursor molecules allow oxidation by hydroxyl 
+37 
+radicals (HO, generated from persulfate at pH12 at 85), yielding one or multiple PFCAs for 
+38 
+targeted analysis.15, 16 Our lab further modified the reaction condition (e.g., NaOHK2S2O851 
+39 
+and 120 ), extended the substrate scope (e.g., CnF2n1(CH2)2COO, CnF2n1(CH2)2SO3, 
+40 
+and HCnF2nCOO with variable n), and quantified shortchain products (e.g., CF3COO, 
+41 
+C2F5COO, and OOCCF2COO).17, 18 Notably, structures with only one CH bond in HCF2 
+42 
+and multiple CH bonds in (CH2)2 showed distinct transformation patterns.18 A previous TOP 
+43 
+assay of various fluoro ether structures by Zhang et al.19 found that only Hcontaining structures 
+44 
+could be converted by HO, but the product information remained largely unknown.20 
+45 
+The above findings reflect several limitations (but not necessarily disadvantages) of the 
+46 
+current TOP assay.

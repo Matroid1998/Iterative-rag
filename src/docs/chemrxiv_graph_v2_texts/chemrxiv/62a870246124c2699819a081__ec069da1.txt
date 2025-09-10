@@ -1,0 +1,27 @@
+Description:
+A product formed from the reduction of CO2 with protons and electrons.
+
+Text:
+the products of multiproton multielectron CO2 reduction are mostly not pure.2325 
+
+Reactions 
+E
+o (V at pH 7) 
+Products 
+H
+
+  e
+
+   H2 
+0.41 
+H2 
+CO2  2H
+
+  2e
+
+  HCOOH 
+0.61 
+HCOOH 
+CO2  2H
+
+  2e

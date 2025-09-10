@@ -1,0 +1,9 @@
+Description:
+A molecular perovskite inspired by oxide perovskites with molecular units in its structure.
+
+Text:
+ABX3 molecular perovskites, where A andor X are molecular moieties, have attracted increased 
+attention in recent years.1 Research on molecular perovskites such as (NH2)2CHMn(HCOO)3,2 
+N(CH3)4Cd(N3)3,3 and (NH2)3CMn(H2POO)3,4 has drawn inspiration from decades of research 
+in the oxide perovskites, but with the additional benefit of the chemical space as offered by the 
+inclusion of molecular units in the crystal structure,5 as illustrated in Figure 1.

@@ -1,0 +1,9 @@
+Description:
+Observed experimentally in small molecule electrolytes.
+
+Text:
+In addition, Lee et al.18 used density functional theory to show that PFPE has a higher oxidation potential 
+and a higher electrochemical stability window compared to PEO, which was also observed experimentally 
+in small molecule perfluoroether electrolytes.2325 However, little is known about the lithium ion solvation 
+structure, mobility, and transport mechanism in solid PFPE electrolytes. There are two classes of polymer electrolytes with different ion transport mechanisms single
+ionpolyelectrolyte and saltinpolymer (see Figure 1a).

@@ -1,0 +1,30 @@
+Name: Sparteine
+Text:
+Sparteine is a quinolizidine alkaloid and a quinolizidine alkaloid fundamental parent.
+Sparteine is a plant alkaloid derived from Cytisus scoparius and Lupinus mutabilis which may chelate calcium and magnesium. It is a sodium channel blocker, so it falls in the category of class 1a antiarrhythmic agents. Sparteine is not currently FDA-approved for human use, and its salt, sparteine sulfate, is one of the products that have been withdrawn or removed from the market for reasons of safety or effectiveness.
+Sparteine has been reported in Thermopsis lanceolata, Anabasis aphylla, and other organisms with data available.
+SPARTEINE is a small molecule drug with a maximum clinical trial phase of IV and is indicated for cardiac arrhythmia.
+A quinolizidine alkaloid isolated from several FABACEAE including LUPINUS; SPARTIUM; and CYTISUS. It has been used as an oxytocic and an anti-arrhythmia agent. It has also been of interest as an indicator of CYP2D6 genotype.
+See also: sparteine sulfate anhydrous (is active moiety of); Cytisus scoparius flowering top (part of).
+Properties:safety: Irritant
+smiles: C1CCN2C[C@@H]3C[C@H]([C@H]2C1)CN4[C@H]3CCCC4
+formula: C15H26N2
+chem_properties: Molecular Weight: 234.38 g/mol
+XLogP3: 2.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 234.209598838 Da
+Monoisotopic Mass: 234.209598838 Da
+Topological Polar Surface Area: 6.5
+Heavy Atom Count: 17
+Formal Charge: 0
+Complexity: 263
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

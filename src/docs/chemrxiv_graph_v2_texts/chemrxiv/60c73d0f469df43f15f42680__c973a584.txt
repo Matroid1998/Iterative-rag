@@ -1,0 +1,8 @@
+Description:
+Unsubstituted and electron-deficient benzenes require sound judgment of chemists to evaluate their reactivity.
+
+Text:
+Conversely, DFT calculations
+are timeconsuming for larger compounds and cannot be performed by nonexpert users and there is a certain degree of
+subjectiveness in predicting the regioselectivity based on the HOMO orbitals. Finally, the sound judgment of chemists was
+required to evaluate the reactivity of unsubstituted and electrondecient benzenes, and the method failed for 1,2,4triazoles.

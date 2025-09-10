@@ -1,0 +1,41 @@
+Description:
+A material that can be nanomilled to produce nanodiamonds, which are biocompatible and can be functionalized for targeting specific cells or proteins.
+
+Text:
+Due to their large surface area, NVrich, fluorescent nanodiamonds (NDs) are promising 
+candidates for such applications 7,15,21. Moreover, NDs are biocompatible, and their surface 
+can be functionalized to target specific cells or proteins 2931. NDs can be internalized by living 
+cells, thus probing the microenvironment in subcellular compartments 32,33. Furthermore, 13C 
+enrichment of NDs is desirable to improve the hyperpolarization efficiency for contrast agents, 
+quantum sensing and magnetic resonance signal enhancement 34. Several techniques have been proposed for the production of NDs, including nanomilling 35 of 
+bulk diamond, detonation diamond 36,37 and highpower laser ablation 38,39. Detonation 
+NDs tend to be small (510 nm) and rich in impurities 36.
+
+
+---
+
+Description:
+A material that can be nanomilled to control concentration of defects and NV centers, as well as particle size, with good production yield.
+
+Text:
+Highpower laser ablation can produce 
+fluorescent NDs in a singlestep process 38,39, but the yield is insufficient for practical 
+application. Conversely, nanomilling of bulk diamond makes it possible to control concentration 
+of defects and NV centers, as well as particle size, with good production yield 40. Increasing the surface area of the material by nanomilling can improve exposure of shallow NV 
+centers to the external environment. However, it inevitably affects NV charge stability 41, as 
+surface effects tend to favor the NV0 charge state, which does not present useful spin properties 
+1113. As a result, NDs present larger relative concentration of NV0 in NDs compared to the 
+starting material.
+
+
+---
+
+Description:
+Contains NV centers that undergo photoconversion influenced by nitrogen defects and surface acceptor states.
+
+Text:
+Laser light used to polarize and interrogate NV centers can also induce charge switching between 
+NV and its neutral form NV0 27,4247. Photoconversion depends on the presence of nitrogen 
+defects and surface acceptor states, and thus both NV  NV0 and NV0  NV photoconversion 
+routes have been observed in different diamond samples. Recently, we have shown that 
+increasing laser power can substantially increase the availability of shallow NV produced by

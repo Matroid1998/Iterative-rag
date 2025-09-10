@@ -1,0 +1,56 @@
+Description:
+Accumulates in waterways, soil, or certain tissues, especially in the thyroid gland.
+
+Text:
+Iodine pollution from nuclear and medical waste (129I and 131I) is a problem for both 
+humans and the environment due to its ability to accumulate in waterways, soil or in 
+certain tissues, especially in the thyroid gland. Radioactive iodine is a major pollutant in 
+nuclear accidents such as the Fukushima ,1 and Chernobyl nuclear power plant disasters 
+as well as regular nuclear waste disposal from power generation facilities.24 In fact, after 
+1986, thyroid cancer cases spiked tremendously among the people living in vicinity of 
+the Chernobyl power plant.5 The biomagnification of radioactive iodine species among the 
+local population, particularly children1, was determined to be the cause of disease 
+proliferation.
+
+
+---
+
+Description:
+Can potentially cause thyroid problems, including cancer, when consumed excessively.
+
+Text:
+Additionally, excessive iodine consumption (1.1 mgday) on a regular basis 
+can potentially cause thyroid problems, including cancer.6 In addition to its ability to 
+affect human health, 129I has a very long halflife of 10 million years.7,8 Therefore, it is 
+vital and necessary to develop new materials for iodine capture given the detrimental 
+impacts.
+
+
+---
+
+Description:
+Has a very long half-life of 10 million years.
+
+Text:
+Additionally, excessive iodine consumption (1.1 mgday) on a regular basis 
+can potentially cause thyroid problems, including cancer.6 In addition to its ability to 
+affect human health, 129I has a very long halflife of 10 million years.7,8 Therefore, it is 
+vital and necessary to develop new materials for iodine capture given the detrimental 
+impacts.
+
+
+---
+
+Description:
+A radioactive element that requires removal from industrial waste streams.
+
+Text:
+Current methods for removing radioactive iodine from different industrial waste 
+streams include wet scrubbing (using alkaline solutions like NaOH or Hg(NO3)2 as well 
+as solid phase adsorption (using silver salts, zeolites, minerals containing bismuth 
+oxyiodide, activated carbon and others).9,10 However, these methods have drawbacks 
+such as the need for complex equipment, hazardous byproduct generation, poor 
+absorption capacities, and high cost because of the need for expensive sorbents.7,1113 
+For these reasons, the development of alternative, chemically stable materials that can 
+collect iodine at low concentrations in aqueous environments, remains a key challenge. To address this problem, researchers have begun to explore the vast library of porous 
+organic materials as highperformance adsorbents for iodine pollution.

@@ -1,0 +1,14 @@
+Description:
+Polymers with anionic groups in their backbones used in single ion conducting solid polymer electrolytes.
+
+Text:
+. Solid polymer electrolytes (SPEs) have been studied since the early 1980s as a promising 
+alternative to conventional liquid electrolytes for nextgeneration batteries.1,2 SPEs composed of high 
+molecular weight polymers (typically 5,000 gmol) have nearly zero vapor pressure and much higher 
+autoignition points than common liquid electrolytes, rendering them potentially safer.2 A subclass of solid 
+polymer electrolytes referred to as single ion conducting (SIC) polymers feature anionic groups within the 
+polymer sidechains (i.e., ionomers) or backbones (i.e., ionenes).3 SIC SPEs often display higher cation 
+transference numbers (the fraction of charge carried by the cations), than conventional SPEs, which can 
+increase battery power4,5 and suppress dendrite growth.6 Nevertheless, dry SIC SPEs typically show low 
+ionic conductivities due to their large energy barriers for polymer segmental motion andor cation 
+dissociation.

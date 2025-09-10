@@ -1,0 +1,27 @@
+Name: Potassium Permanganate
+Text:
+Potassium permanganate appears as a purplish colored crystalline solid. Noncombustible but accelerates the burning of combustible material. If the combustible material is finely divided the mixture may be explosive. Contact with liquid combustible materials may result in spontaneous ignition. Contact with sulfuric acid may cause fire or explosion. Used to make other chemicals and as a disinfectant.
+Potassium permanganate is a chemical compound of manganese prepared from manganese dioxide. It is a powerful oxidizing agent and used a fixative, disinfectant, and as a reagent in organic synthesis. Manganese is a naturally occurring metal with the symbol Mn and the atomic number 25. It does not occur naturally in its pure form, but is found in many types of rocks in combination with other substances such as oxygen, sulfur, or chlorine. Manganese occurs naturally in most foods and small amounts are needed to stay healthy, as manganese ions act as cofactors for a number of enzymes. (L228, L229, L242)
+Permanganic acid (HMnO4), potassium salt. A highly oxidative, water-soluble compound with purple crystals, and a sweet taste. (From McGraw-Hill Dictionary of Scientific and Technical Information, 4th ed)
+See also: Permanganate Ion (has active moiety).
+Properties:safety: Oxidizer and Irritant and Health Hazard and Environmental Hazard
+smiles: [O-][Mn](=O)(=O)=O.[K+]
+formula: KMnO4
+chem_properties: Molecular Weight: 158.034 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 157.881408 Da
+Monoisotopic Mass: 157.881408 Da
+Topological Polar Surface Area: 74.3
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 118
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,26 @@
+Name: 1,1'-Azobis(cyclohexanecarbonitrile)
+Text:
+1,1'-azodi-(hexahydrobenzonitrile) appears as a white to light colored solid substance. Insoluble in water and more dense that water. May cause irritation to skin, eyes, and mucous membranes. May be toxic by ingestion. If exposed to high temperatures or flames this material may ignite and burn with an intense flame. Dust may form an explosive mixture in air.
+1,1'-Azobis(cyclohexanecarbonitrile) is a chemical compound of cyanide.
+Properties:safety: Flammable and Irritant
+smiles: C1CCC(CC1)(C#N)N=NC2(CCCCC2)C#N
+formula: C14H20N4
+chem_properties: Molecular Weight: 244.34 g/mol
+XLogP3: 3.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 2
+Exact Mass: 244.16879665 Da
+Monoisotopic Mass: 244.16879665 Da
+Topological Polar Surface Area: 72.3
+Heavy Atom Count: 18
+Formal Charge: 0
+Complexity: 368
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

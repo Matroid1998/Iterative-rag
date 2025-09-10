@@ -1,0 +1,35 @@
+Description:
+Forms alkoxide intermediates that prevent S8PO ring-opening copolymerization.
+
+Text:
+1822,2226 Although linear 
+thermoplastics can be prepared via different (typically 
+polycondensation) methods, these often require 
+expensive 
+or 
+highly 
+reactive 
+reagents, 
+only 
+incorporate 
+low 
+amounts 
+of 
+sulfur 
+or 
+yield 
+oligomers.27 Given the cyclic structure of S8, one 
+might imagine that ringopening polymerisation 
+would be suitable to produce polysulfur Sn, however 
+this process is thermodynamically unfavourable at 
+ambient condition (floor temperature 159 C) and 
+requires copolymerisation techniques to obtain stable 
+polymers.28 
+
+Figure 1 (a) Conceptual scheme concerning the production and 
+use of S8. (b1) Ringopening copolymerisation (ROCOP) of S8 with 
+propylene sulfide (PS) via thiolate intermediates. (b2) Alkoxide 
+intermediates from propylene oxide (PO) ringopening prevent 
+S8PO ROCOP; C denotes catalyst, Rn denotes polymer chain. (b3) 
+In situ thiolate formation during CS2PO ROCOP. (c) Key finding of 
+the presented work.

@@ -1,0 +1,13 @@
+Description:
+A molecule whose loading is underestimated by UFF in MOFs with open metal sites and overestimated in fully coordinated AlMOFs.
+
+Text:
+However, MOFs have a much richer local chemical environment than those used to
+fit the UFF force field. Open metal sites are a wellknown example where the UFF
+fails to capture the chemical environment accurately, typically leading to a significant
+underestimation of the CO2 loading.9,10 Also, for CO2 adsorption in fully coordinated
+AlMOFs, UFF substantially overestimates the isotherms.7
+To improve the predictions of the adsorption properties for those systems where
+UFF fails, researchers have refitted the force field parameters against experimental
+isotherms or quantum mechanical (QM) calculations for specific MOFs.1014 For ex
+ample, PerezPellitero et al.

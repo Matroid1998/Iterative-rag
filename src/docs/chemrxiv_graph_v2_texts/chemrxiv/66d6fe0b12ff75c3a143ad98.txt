@@ -1,0 +1,27 @@
+Description:
+A widely used plastic in the textile fiber and packing industries, known for its mechanical recycling challenges.
+
+Text:
+Plastics are good examples of the takemakewaste production model, with the vast ma
+jority of its production coming from fossil petrochemical feedstocks and most of its disposal
+relying on landfilling or incineration.1 These practices lead to severe, negative environmental
+and economic impacts due to their accumulation and biodegradation recalcitrance.13 Due to
+the nonrenewable origin of plastics, such a paradigm also raises questions about its scarcity
+and potential impact on production chains worldwide in the near future.4
+Polyethylene terephthalate (PET) is one of the most singleused plastics produced world
+wide,5,6 with wide applicability in the textile fiber and packing industries.7 The most common
+recycling process applied to PET is mechanical grinding followed by melting and reforming.8
+Such processes lead to a downcycling each cycle produces a material with fewer mechanical
+properties of interest, which eventually hampers further recycling.8
+In recent years, plastic recycling research has gained new momentum with the iden
+tification of a PET hydrolase isolated from I. sakaiensis capable of degrading PET close
+to room temperature.9 Many other PET hydrolases have been characterized since then,
+improving catalysis rates, enzyme thermostability, and reaction conditions.1015 Still, most
+enzymatic protocols struggle with degrading highcrystallinity substrate or performing well
+under lowpH conditions,5 which are the main challenges in reducing the cost of enzymatic
+PET degradation.7
+More recently, molecular dynamics (MD) simulations have provided many structural
+insights into the interactions between PET and many different esterases.13,1619 In addition,
+other studies have modeled the interaction between carbohydratebinding modules and PET
+2
+httpsdoi.org10.26434chemrxiv2024dwhb8 ORCID httpsorcid.org0000000166618653 Content not peerreviewed by ChemRxiv.

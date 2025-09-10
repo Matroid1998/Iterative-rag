@@ -1,0 +1,12 @@
+Description:
+A thermo-responsive block copolymer of PSS with poly(N-isopropylacrylamide) used as a matrix for polyelectrolyte complexes.
+
+Text:
+Recently, Pappa and coworkers reported an example of 
+crosslinkerfree gelation using a mixture of chitosan, gelatin, and PEDOTPSS.16 However, these 
+blends are liquid at physiological temperature which limits their applicability in in vivo and in 
+vitro bioelectronics. Here, we achieved a reversible solgel transition in conductive polymers just below physiological 
+temperature (35 C) through a fundamentally different approach that does not rely on covalent 
+crosslinkers nor composite blends. The key molecular design was the synthesis of a thermo
+responsive block copolymer of PSS with poly(Nisopropylacrylamide) (PSSbPNIPAM) that was 
+then used as a matrix to prepare PEDOTPSSbPNIPAM polyelectrolyte complexes (Fig. 1a).

@@ -1,0 +1,27 @@
+Description:
+Metals with 38 isotopes, commonly used as labeling metals in mass cytometry.
+
+Text:
+While a vast range of antibodies or specific biological markers can 
+be easily provided to target a large number of proteins of interest in 
+various cellular cultures, limitations in both multiplicity and 
+sensitivity still exist because of the lack of available metal isotopes. Consequently, investigations are now focused on finding new stable 
+isotopes applicable for mass cytometry to increase the number of 
+channels, and thus, the number of analysable biomarkers. To be 
+viable for mass cytometry, i.e. within the detection range of the 
+instrument, metals should preferably belong to exogenous post
+transition elements or to the rareearth family. Lanthanides, with 
+their 38 isotopes, are currently the most used labelling metals.
+
+
+---
+
+Description:
+Elements that form oxides which can interfere with heavier lanthanides by generating contamination.
+
+Text:
+They 
+possess similar chemical properties enabling conjugation to 
+antibodies through a unique protocol.4 However, they have the 
+disadvantage to form oxides that interfere with the heavier 
+lanthanides by generating a contamination in the 16 channel.4

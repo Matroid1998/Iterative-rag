@@ -1,0 +1,37 @@
+Description:
+An ammonium ion formed by the protonation of an amine.
+
+Text:
+This is governed by the equilibrium constants and their
+temperature dependence for the involved underlying reactions, which may be represented by
+2
+
+the following set
+RNH
+3  H2O
+
+RNH2  H3O
+(R1)
+RNHCO
+2  H2O
+
+RNH2  HCO
+3
+(R2)
+CO2  2H2O
+
+HCO
+3  H3O
+(R3)
+H2O  HCO
+3
+
+CO2
+3
+ H3O
+(R4)
+2H2O
+
+H3O  OH
+(R5)
+CO2

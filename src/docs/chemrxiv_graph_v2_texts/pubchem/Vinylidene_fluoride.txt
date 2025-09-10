@@ -1,0 +1,26 @@
+Name: Vinylidene fluoride
+Text:
+1,1-Difluoroethylene (or vinylidene fluoride) is a colorless gas which is flammable in the ranges of 5.5 to 21%. It is toxic by inhalation and contact. It is slightly soluble in water and soluble in alcohol and ether. Under prolonged exposure to fire or intense heat the containers may rupture violently and rocket.
+Vinylidene fluoride is an organofluorine compound and an olefinic compound.
+Properties:safety: Flammable and Compressed Gas and Health Hazard
+smiles: C=C(F)F
+formula: C2H2F2
+chem_properties: Molecular Weight: 64.03 g/mol
+XLogP3: 1.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 64.01245639 Da
+Monoisotopic Mass: 64.01245639 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 27
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

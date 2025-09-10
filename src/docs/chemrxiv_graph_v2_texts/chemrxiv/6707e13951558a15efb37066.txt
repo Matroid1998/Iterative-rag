@@ -1,0 +1,17 @@
+Description:
+Involved in vibrational modes described by constrained nuclear-electronic orbital density functional theory within multicomponent quantum chemistry.
+
+Text:
+For instance, proton delocal
+ization and proton tunneling substantially influence structure and dynamics of water.12,14
+In enzymes, strong hydrogen bonds and associated NQEs play a crucial role in lowering
+activation barriers and facilitating rapid and efficient chemical transformations.15
+Many theoretical methods have been developed to incorporate NQEs, mainly including
+quantum dynamics methods,16,17 pathintegral approaches,18,19 and multicomponent quan
+tum chemistry methods.2022 Recently, constrained nuclearelectronic orbital density func
+tional theory23 (CNEODFT) was developed within the multicomponent quantum chemistry
+framework and has been shown to efficiently and accurately describe vibrational modes in
+volving hydrogen atoms.24 Unlike other multicomponent quantum chemistry methods, the
+CNEO framework is based on the key physical fact that, while quantum nuclei have density
+distributions in space similar to electrons, yet they are much more localized than those of
+electrons.

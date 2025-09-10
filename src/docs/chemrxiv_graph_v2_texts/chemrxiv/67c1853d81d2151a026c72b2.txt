@@ -1,0 +1,70 @@
+Description:
+A greenhouse gas whose levels have increased due to fossil fuel combustion, impacting ecosystems.
+
+Text:
+The sustained combustion of fossil fuels required to fulfill the energy requests of our societies has 
+led to a drastic increase in the anthropogenic CO2 levels, causing devastating effects on the 
+environment and life of many ecosystems. Although a transition to green energies would be 
+desirable, it is still not feasible to cover all energy demands exclusively with green energies 1. CO2 valorization emerges as an appealing strategy to counteract the current situation and represents 
+a carbon neutral route for the generation of valueadded energy carriers, while simultaneously 
+reducing the anthropogenic CO2 levels 2. Currently, different strategies are used for CO2 
+conversion, which include thermo 310, photo 1114 and electrocatalysis 1523, among 
+others.
+
+
+---
+
+Description:
+Can be valorized as a carbon neutral route for generating value-added energy carriers.
+
+Text:
+The sustained combustion of fossil fuels required to fulfill the energy requests of our societies has 
+led to a drastic increase in the anthropogenic CO2 levels, causing devastating effects on the 
+environment and life of many ecosystems. Although a transition to green energies would be 
+desirable, it is still not feasible to cover all energy demands exclusively with green energies 1. CO2 valorization emerges as an appealing strategy to counteract the current situation and represents 
+a carbon neutral route for the generation of valueadded energy carriers, while simultaneously 
+reducing the anthropogenic CO2 levels 2. Currently, different strategies are used for CO2 
+conversion, which include thermo 310, photo 1114 and electrocatalysis 1523, among 
+others.
+
+
+---
+
+Description:
+Involved in the electrocatalytic CO2 reduction reaction under mild conditions.
+
+Text:
+Interestingly, CO2 conversion via the electrocatalytic CO2 reduction reaction (CO2RR) is a 
+very interesting process as it is carried out under mild operating conditions, usually at room 
+temperature and moderate pressures. In addition, renewable energy resources can provide the 
+required electricity for electrolysis, making the electrochemical pathway also environmentally 
+attractive. The electrochemical CO2RR is mainly limited by its selectivity challenge. On the one hand, 
+the formation of H2(g) from the hydrogen evolution reaction (HER) (i.e., equation 1) is observed for 
+cathodic polarization, which is a competing side reaction under CO2RR conditions 24. On the 
+other hand, there is the possibility of forming multiple C1 products (i.e., equations 2  5) or 
+multicarbon products (i.e., C2) 25.
+
+
+---
+
+Description:
+A gaseous molecule that can be reduced to form carbon monoxide, formic acid, methanol, or methane.
+
+Text:
+2H  2e  H2(g), 
+
+U0  0 V vs. RHE (reversible hydrogen electrode) (1) 
+CO2(g)  2H  2e  CO(g)  H2O(l) 
+U0  0.10 V vs. RHE 
+
+(2) 
+CO2(g)  2H  2e  HCOOH(aq) 
+
+U0  0.12 V vs. RHE at pH  0 
+(3) 
+CO2(g)  6H  6e  CH3OH(aq)  H2O(l) 
+U0  0.03 V vs. RHE 
+
+(4) 
+CO2(g)  8H  8e  CH4(g)  2H2O(l) 
+U0  0.17 V vs. RHE

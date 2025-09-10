@@ -1,0 +1,19 @@
+Description:
+A carbon-free fuel generated through photoelectrochemical water splitting.
+
+Text:
+The carbon dioxide (CO2) emission produced from fossil fuel combustion has been identified 
+as a primary contributor to global warming. It is urgent to develop efficient methods for 
+generating 
+renewable 
+and 
+clean 
+energy 
+while 
+eliminating 
+CO2 
+emissions.1 
+Photoelectrochemical (PEC) water splitting is regarded as a promising strategy for converting 
+intermittent sunlight into carbonfree hydrogen fuel.2,3 In PEC systems, semiconducting 
+materials are employed as photoelectrodes, absorbing photons to generate electronhole pairs, 
+thereby driving the hydrogen reduction or oxygen oxidation reactions.

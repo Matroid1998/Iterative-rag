@@ -1,0 +1,63 @@
+Description:
+Molecular oxygen is used in optical sensors that rely on quenching of luminescence.
+
+Text:
+Widely applied optical oxygen sensors rely on quenching of the luminescence of an indicator by 
+molecular oxygen.1 Although the stateoftheart sensors are well suited for most applications and 
+some are commercially available, there is still considerable interest for further improvements in 
+applications like trace or ultratrace sensing2 or measurements under harsh conditions (high pressures, 
+temperatures, presence of organic solvents etc. ).3,4 Conventional sensors are made in the form of 
+planar foils or of fibreoptic setups and are commonly prepared by immobilization of molecular 
+indicators into an oxygenpermeable matrix that acts as a support and solvent for the dye and a 
+permeationselective membrane. This is also true for nanoparticlebased oxygen probes used in 
+biological and medical research,5 but indicators conjugated to proteins6 and peptides7,8 proved very 
+successful alternatives.
+
+
+---
+
+Description:
+A gas whose permeability in matrices affects the sensitivity of optical sensors.
+
+Text:
+The performance of matriximmobilized sensors is mainly determined by the 
+properties of the indicator (spectral properties, photostability, luminescence decay time) and the 
+matrix (chemical stability, oxygen permeability, permeation selectivity). Compatibility of both 
+materials is important since aggregation of the indicator negatively affects the sensor performance. The sensitivity of optical oxygen sensors is mainly governed by two parameters luminescence decay 
+time of the indicator and oxygen permeability of the matrix.9 Considerably long decay times are 
+required to achieve sufficient sensitivities in common matrices which explains why fluorescent dyes, 
+popular in the early era of oxygen sensor development,1,10 are rarely used nowadays.
+
+
+---
+
+Description:
+Molecular oxygen interacts with dyes when adsorbed or immobilized on porous materials.
+
+Text:
+In a different approach, the indicators are physically adsorbed16 or 
+covalently13 immobilized onto the surface of porous materials such as silicagel13 or mesoporous 
+silica17,18 where the dye is fully accessible to the interaction with molecular oxygen. Another promising way to construct in first sight matrixfree indicators is to incorporate the dyes 
+into metalorganic frameworks (MOFs).
+
+
+---
+
+Description:
+A gas that can be quantified using MOFs due to their high porosity and accessibility to gases.
+
+Text:
+MOFs are typically crystalline materials that generally 
+consist of metal nodes and organic linkers and are usually characterized by an extremely high 
+porosity.19 The great variety of organic linkers and metal nodes enables a huge structural diversity of 
+MOFs, including the synthesis of luminescent variants.20 Due to the permanent porosity and high 
+accessibility to gases in the framework, these materials are promising for sensing applications21 
+including oxygen quantification.22 The oxygen sensingunit can be either a structural element of the 
+porous network or, alternatively, be incorporated into the pores during synthesis23 or via post
+synthetic incubation.24 Incorporation into the pores during synthesis does not allow for much control 
+over the distribution of the indicator dye within the framework that is reflected in distinctly nonlinear 
+SternVollmer plots due to different oxygen accessibilities within the crystal.23 Additionally, such 
+materials may be prone to leaching of the indicator out of the pores although it can be minimized via 
+design of the pore structure.25 On the other hand, incorporation of a sensing element as a MOF 
+building block not only eliminates leaching but also potential aggregation of dyes that may negatively 
+affect the luminescent and sensing properties.

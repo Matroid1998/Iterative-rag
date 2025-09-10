@@ -1,0 +1,34 @@
+Name: Penicillamine
+Text:
+Penicillamine can cause developmental toxicity according to state or federal government labeling requirements.
+D-penicillamine is an optically active form of penicillamine having D-configuration. Pharmaceutical form (L-form is toxic) of chelating agent used to treat heavy metal poisoning. It has a role as a chelator, an antirheumatic drug, a drug allergen and a copper chelator. It is a penicillamine and a non-proteinogenic alpha-amino acid. It is an enantiomer of a L-penicillamine.
+Penicillamine is a pharmaceutical of the chelator class. The pharmaceutical form is D-penicillamine, as L-penicillamine is toxic (it inhibits the action of pyridoxine). It is an α-amino acid metabolite of penicillin, although it has no antibiotic properties.
+Penicillamine is an Antirheumatic Agent.
+Penicillamine is chelating agent used to decrease copper stores in Wilson disease, which also has immunomodulatory activity in rheumatic diseases such as rheumatoid arthritis, scleroderma and systemic lupus erythematosus. Penicillamine is capable of causing hypersensitivity reactions, some of which are accompanied by liver injury which is typically cholestatic.
+Penicillamine has been reported in Caenorhabditis elegans with data available.
+Penicillamine is a beta dimethyl analog of the amino acid cysteine.  As a degradation product of penicillin antibiotics, penicillamine chelates with heavy metals and increases their urinary excretion.  Possessing antineoplastic properties, penicillamine induces apoptosis by a p53-mediated mechanism and inhibits angiogenesis by chelating with copper, a cofactor for angiogenesis. (NCI04)
+PENICILLAMINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1970 and has 7 approved and 1 investigational indication. This drug has a black box warning from the FDA.
+3-Mercapto-D-valine. The most characteristic degradation product of the penicillin antibiotics. It is used as an antirheumatic and as a chelating agent in Wilson's disease.
+See also: Penicillamine hydrochloride (is active moiety of).
+Properties:safety: Irritant
+smiles: CC(C)([C@H](C(=O)O)N)S
+formula: C5H11NO2S
+chem_properties: Molecular Weight: 149.21 g/mol
+XLogP3: -1.8
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 2
+Exact Mass: 149.05104977 Da
+Monoisotopic Mass: 149.05104977 Da
+Topological Polar Surface Area: 64.3
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 124
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

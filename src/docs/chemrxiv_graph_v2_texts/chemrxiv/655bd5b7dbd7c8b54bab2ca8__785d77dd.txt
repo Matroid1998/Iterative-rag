@@ -1,0 +1,13 @@
+Description:
+An inert bath gas used in low-temperature matrix deposition with no angular dependence on conformer abundance.
+
+Text:
+We performed a study on the effects of a given bath gas and the angle of deposition on the 
+conformer abundance of CH3ONO during deposition in a lowtemperature matrix using three 
+different inert bath gases nitrogen (N2), argon (Ar), and xenon (Xe). Our observations indicate a 
+change in conformer abundance that occurs between the gas and matrix phases. Changes to 
+deposition angle were additionally found to alter conformer abundances in a N2 bath gas, while 
+conformer abundances in Ar showed no angular dependence. We investigate the competition 
+between effects of surface morphology and energetic stabilization on the trapping of the two 
+conformers by analyzing the angular dependence of the abundances and performing quantum 
+chemistry calculations of the gasCH3ONO complexes.

@@ -1,0 +1,12 @@
+Description:
+A reactant in conversion to formic acid, formaldehyde, and methanol.
+
+Text:
+One approach is to screen large libraries of molecules that are structurally similar to the known
+catalyst. For example Nandy et al. combined machine learning (ML) and density functional theory (DFT)
+methods to screen a library of 16 million candidates for the catalysis of the methane to methanol oxidation.1
+Another recent example of computationally driven catalyst optimization from Cramer et al. used mech
+anistic information of three intertwined catalytic cycles for CO2 conversion to formic acid, formaldehyde
+and methanol to generate theoretically founded rules for predicting catalytic activity and selectivity.2 The
+theoretical framework was used to predict a catalyst that optimizes selectivity towards formaldehyde, which
+was verified experimentally with an 81 yield. Das et al.

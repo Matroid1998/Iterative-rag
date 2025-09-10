@@ -1,0 +1,15 @@
+Description:
+Amorphous iridium oxides with a mixture of formal Ir34 oxidation states and a disordered structure, providing higher Ir-mass-specific electrocatalytic activity.
+
+Text:
+3 To avoid this, anodic iridium loading needs to be reduced from 2.0 mgIr cm2 to 
+0.4 mgIr cm2 or lower without compromising the lifetime and performance of these materials. 3 
+
+Previous efforts to enhance the utilization of iridium have largely focused on (hydrous) 
+amorphous iridium oxides (IrOx) 4 that are commonly considered to be more active towards 
+the OER than crystalline rutiletype iridium dioxide (IrO2). 5 Amorphous IrOx typically has a 
+mixture of the formal Ir34 oxidation states and a significantly disordered structure. While 
+amorphous IrOx provides a higher Irmassspecific electrocatalytic activity, stability is often 
+insufficient, thus jeopardizing the strategy for decreased iridium loading under longterm 
+operation in a PEMWE. Such an inverse correlation between catalyst activity and stability has 
+widely been observed in OER electrocatalysis. 6

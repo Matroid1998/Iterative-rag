@@ -1,0 +1,35 @@
+Name: Azathioprine
+Text:
+Azathioprine can cause cancer according to California Labor Code. It can cause developmental toxicity according to state or federal government labeling requirements.
+Azathioprine appears as pale yellow crystals or yellowish powder. Decomposes at 243-244 °C. Used for the treatment of rheumatoid arthritis. A known carcinogen.
+Azathioprine is a thiopurine that is 6-mercaptopurine in which the mercapto hydrogen is replaced by a 1-methyl-4-nitroimidazol-5-yl group. It is a prodrug for mercaptopurine and is used as an immunosuppressant, prescribed for the treatment of inflammatory conditions and after organ transplantation and also for treatment of Crohn's didease and MS. It has a role as an antineoplastic agent, an antimetabolite, an immunosuppressive agent, a prodrug, a carcinogenic agent, a DNA synthesis inhibitor and a hepatotoxic agent. It is a thiopurine, a C-nitro compound, a member of imidazoles and an aryl sulfide.
+Azathioprine is a prodrug of 6-mercaptopurine, first synthesized in 1956 by Gertrude Elion, William Lange, and George Hitchings in an attempt to produce a derivative of 6-mercaptopurine with a better therapeutic index. Azathioprine is used to treat inflammatory conditions like rheumatoid arthritis and as an immunosuppressant in the prevention of renal transplant rejection.  Azathiprine was granted FDA approval on 20 March 1968.
+Azathioprine is a Purine Antimetabolite. The mechanism of action of azathioprine is as a Nucleic Acid Synthesis Inhibitor.
+Azathioprine is a purine analogue and prodrug of mercaptopurine that is used as an immunosuppressive agent in organ transplantation to prevent rejection and in autoimmune diseases as a corticosteroid sparing agent. Azathioprine is associated with minor, usually transient and asymptomatic elevations in serum aminotransferase levels during therapy and with rare instances of acute, cholestatic liver injury and, with long term use, noncirrhotic portal hypertension as a result of nodular regenerative hyperplasia or sinusoidal obstruction syndrome.
+Azathioprine is a purine analogue with cytotoxic and immunosuppressive activity. Azathioprine is a prodrug that is converted by hepatic xanthine oxidase to its active metabolite 6-mercaptopurine (6-MP). 6-MP is further metabolized by hypoxanthine-guanine phosphoribosyltransferase (HGPRT) into 6-thioguanosine-5'-phosphate (6-thio-GMP) and 6-thioinosine monophosphate (6-thio-IMP), both inhibit nucleotide conversions and de novo purine synthesis. This leads to inhibition of DNA, RNA, and protein synthesis. As a result, cell proliferation may be inhibited, particularly in lymphocytes and leukocytes.
+AZATHIOPRINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1968 and is indicated for rheumatoid arthritis and immune system disease and has 36 investigational indications. This drug has a black box warning from the FDA.
+Azathioprine is only found in individuals that have used or taken this drug. It is an immunosuppressive pro-drug. It is converted into 6-mercaptopurine in the body where it blocks purine metabolism and DNA synthesis.Azathioprine antagonizes purine metabolism and may inhibit synthesis of DNA, RNA, and proteins. It may also interfere with cellular metabolism and inhibit mitosis. Its mechanism of action is likely due to incorporation of thiopurine analogues into the DNA structure, causing chain termination and cytotoxicity.
+An immunosuppressive agent used in combination with cyclophosphamide and hydroxychloroquine in the treatment of rheumatoid arthritis. According to the Fourth Annual Report on Carcinogens (NTP 85-002, 1985), this substance has been listed as a known carcinogen. (Merck Index, 11th ed)
+See also: Azathioprine Sodium (active moiety of).
+Properties:safety: Irritant and Health Hazard
+smiles: CN1C=NC(=C1SC2=NC=NC3=C2NC=N3)[N+](=O)[O-]
+formula: C9H7N7O2S
+chem_properties: Molecular Weight: 277.27 g/mol
+XLogP3: 0.1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 2
+Exact Mass: 277.03819367 Da
+Monoisotopic Mass: 277.03819367 Da
+Topological Polar Surface Area: 143
+Heavy Atom Count: 19
+Formal Charge: 0
+Complexity: 354
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

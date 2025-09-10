@@ -1,0 +1,16 @@
+Description:
+Used as an environmentally benign photocatalyst.
+
+Text:
+In 2017, the Weiss and Weix groups demonstrated 
+that cadmium chalcogenide QDs were capable of driving carboncarbon coupling reactions.3,4 
+Since then, QDs have also been shown to catalyse alcohol oxidation,5 dehalogenation,6 lignin 
+depolymerisation,7,8 nitro reduction,9 transfer hydrogenation,10 and various polymerisation 
+reactions.11 There have also been examples using more environmentally benign and lower energy
+absorbing InPZnS12 and CuInS2 as photocatalysts.13 There is much motivation to continue 
+developing such catalysts as chemical manufacturing now accounts for 10 of total global energy 
+consumption and 7 of greenhouse emissions.14 
+In order to extract charge carriers from photocatalysts, charge transfer must outcompete 
+native radiative and nonradiative recombination pathways.15 To this end, QDs can be engineered 
+such that there is minimal overlap of electron and hole wavefunctions, thereby extending the 
+excited state lifetime and preventing recombination.

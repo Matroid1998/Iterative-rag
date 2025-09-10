@@ -1,0 +1,9 @@
+Description:
+Used as a cathode material in lithium-ion batteries.
+
+Text:
+Thus, the EV recharge times are not 
+comparable to refueling times of gasolinepowered internal combustion engine vehicles. Consequently, there is a global push to enable extreme fast charging (XFC)3 that would reduce 
+LIB charging times to 1015 minutes for 80 of the pack capacity, increase the charging power 
+to 400 kW, and enable 20 miles min1 charging or faster. Current LIB technology containing graphite anodes, transition metal oxide cathodes, and liquid 
+electrolytes cannot achieve these XFC goals without significant capacity loss over battery cycling.

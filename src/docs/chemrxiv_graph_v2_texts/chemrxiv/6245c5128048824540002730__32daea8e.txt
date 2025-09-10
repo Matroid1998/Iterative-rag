@@ -1,0 +1,10 @@
+Description:
+Nanocrystals used in a nanocomposite with amorphous Nb2O5x37 for superior capacity retention in EC devices.
+
+Text:
+However, since all dualband EC devices developed thus far include a polaronic 
+component, their capacity may be substantially reduced after a few hundred cycles (Table 1). Among those reported, the composite of ITO with NbOx glass made by Llordes et al.5 and a 
+nanocomposite of WO2.72 nanocrystals with amorphous Nb2O5x37 showed the best capacity 
+retention after 2000 cycles (Figure 5b). However, for application as smart windows in buildings, 
+EC devices should withstand at least 50,000 cycles, as well as strenuous thermal cycling, without 
+much degradation.

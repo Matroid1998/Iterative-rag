@@ -1,0 +1,88 @@
+Description:
+A compound used in a frequency sweep comparison with an unfunctionalized ligand.
+
+Text:
+b, Comparison of a control gel (black) with an unfunctionalized ligand to the TEMPOpolyCAT (red) using a frequency sweep in a 
+3270
+3300
+3330
+3360
+3390
+Field Strength (G)
+1
+0.5
+0
+0.5
+1
+Intensity (a.u.) TEMPOCL
+TEMPOMOC
+TEMPOpolyCAT
+a
+PEGPL
+(1 equiv)
+
+TEMPOCL
+(20 equiv)
+Pd(MeCN)4BF42
+(20 equiv)
+DMSO
+60 C, 4 h
+TEMPOpolyCAT
+b
+c
+d
+TEMPOpolyCAT
+PhI(OAc)2
+CDCl3
+25 C, 9 h
+control gel 204
+TEMPOpolyCAT
+O
+O
+O
+N
+N
+N
+O
+g
+Remove
+solvent
+Store in
+freezer
+(3 weeks)
+Reswell
+Run
+reaction
+Swollen
+Dry
+Swollen
+O
+ 95 conversion
+10 mm
+10 mm
+10 mm
+OH
+O
+TEMPOpolyCAT
+TEMPOCL
+1
+2
+e
+f
+
+6 
+sheer rheometer. c, EPR spectra showing TEMPOCL (CHCl3), TEMPOCL assembled as MOCs (TEMPOMOC, CHCl3) and TEMPO
+polyCAT.
+
+
+---
+
+Description:
+Shows significantly broadened peaks indicative of strong spin-spin interactions resulting from spatially localized TEMPO molecules.
+
+Text:
+TEMPOpolyCAT shows significantly broadened peaks compared to TEMPOCL, indicative of strong spinspin interactions 
+resulting from spatially localized TEMPO molecules. d, The oxidation of 3phenyl1propanol (1) to its corresponding aldehyde (2) using 
+TEMPOpolyCAT. e, Comparison of the rate of oxidation of TEMPOCL free in solution (black) and TEMPOpolyCAT gel (red). f, 
+Cycling of the oxidation using TEMPOpolyCAT. Conversions are calculated based on 1H NMR integration vs. an internal standard. g, 
+Deswelling, storage, and swelling of the material does not diminish the catalytic activity.

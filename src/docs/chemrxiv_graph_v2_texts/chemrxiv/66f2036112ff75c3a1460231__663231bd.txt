@@ -1,0 +1,25 @@
+Description:
+A transition metal used to mediate CO and CN bonds in drug discovery.
+
+Text:
+The use of transition 
+metals, such as palladium, to mediate CO and CN bonds is now a wellestablished tool in drug 
+discovery.1 Although SNAr, a metalfree reaction, is also routinely used to form such bonds, there are 
+inherent mechanistic limitations to the scope of this reaction.2 The chemistry of hypervalent iodine is often 
+described as metallike and indeed the ligand coupling pathway for arylation with diaryliodonium salts 
+bears a striking similarity to nucleophilearyl reductive elimination from palladium(II) (Scheme 1a).35 Both 
+the geometry and size of the central atom (Pd and I) are almost identical, though a key difference are the 
+frontier orbitals that are used to bond to ligands and participate in the reductive elimination or ligand 
+coupling mechanisms (Scheme 1a).
+
+
+---
+
+Description:
+Involved in early mechanistic interpretations of reductive elimination.
+
+Text:
+The frontier orbitals of palladium were included in early mechanistic 
+interpretations (ca. 1980) of reductive elimination.6 However, a reanalysis of the frontier orbitals on iodine 
+have only recently been included in a comparison of ligand coupling from diarylhalonium salts,7 but not 
+specifically in the context of the full mechanism of nucleophile arylation with diaryliodonium salts.

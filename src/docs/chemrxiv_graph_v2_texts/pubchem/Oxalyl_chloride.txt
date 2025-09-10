@@ -1,0 +1,24 @@
+Name: Oxalyl chloride
+Text:
+Properties:safety: Flammable and Corrosive and Acute Toxic and Irritant
+smiles: C(=O)(C(=O)Cl)Cl
+formula: C2Cl2O2
+chem_properties: Molecular Weight: 126.92 g/mol
+XLogP3: 1.7
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 125.9275346 Da
+Monoisotopic Mass: 125.9275346 Da
+Topological Polar Surface Area: 34.1
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 75.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

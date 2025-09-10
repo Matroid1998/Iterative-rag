@@ -1,0 +1,14 @@
+Description:
+Commonly used as an anode material in lithium-ion batteries.
+
+Text:
+Improvements are still needed to enable lithium (Li)ion batteries to meet the 500 Whkg 
+target for batterypack level energy density set for electric vehicles.1 Replacing the graphite anode 
+with Li metal in stateoftheart Liion batteries is a promising approach, but practical 
+implementation is challenging due to insufficient Li Coulombic efficiency (CE) in liquid 
+electrolytes, which must be 99.98 for 80 capacity retention at 1000 cycles.2 Over the past 
+decade, considerable improvements have been made to Li CE using diverse electrolyte design 
+strategies,3 including switching from carbonatebased4 to more cathodicallystable conventional5,6 
+and fluorinated7,8 ethers; and promoting pairing of Li with anions beneficial for the solid 
+electrolyte interphase (SEI), such as in highconcentration electrolytes (HCEs)911 and localized 
+HCEs (LHCEs)1214.

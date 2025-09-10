@@ -1,0 +1,27 @@
+Name: Dicyclopentadiene
+Text:
+Dicyclopentadiene appears as a liquid with an acrid odor. Flash point 90 °F. The vapors are irritating to the eyes and respiratory system. Subject to polymerization if subjected to heat for prolonged periods or if contaminated. If the polymerization takes place inside a container, the container may violently rupture. Insoluble in water. Density 8.2 lb / gal. Used in paints, varnishes, as an intermediate in insecticides, as a flame retardant in plastics.
+Dicyclopentadiene is a cyclic olefin.
+See also:  ... View More ...
+Properties:safety: Flammable and Irritant and Environmental Hazard
+smiles: C1C=CC2C1C3CC2C=C3
+formula: C10H12
+chem_properties: Molecular Weight: 132.20 g/mol
+XLogP3: 2.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 132.093900383 Da
+Monoisotopic Mass: 132.093900383 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 212
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 4
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,21 @@
+Description:
+Reacts with peroxidase and cytochrome P450 enzymes to form the critical Compound I intermediate.
+
+Text:
+Whilst there 
+have been computational studies on the reactivity of peroxidase 
+and cytochrome P450 enzymes with H2O2, the focus has mainly 
+been on formation of the critical Compound I intermediate and 
+effects of water molecules.4, 5 From this perspective, one could 
+argue that the understanding of the dynamics involved in 
+substratemediated proton delivery in peroxidases has barely 
+moved on since early ideas were presented 30 or so years ago.6 
+The challenge of identifying proton channels is compounded by 
+the fact that all peroxidases are capable of binding and oxidising 
+several types of substrate, that the substrate binding locations in 
+many peroxidases are not known, and that most peroxidases 
+probably have more than one binding location for the same sub
+strate.7 
+Here, we apply several computational molecular modelling and 
+simulation approaches to gain mechanistic insights into the pro
+ton delivery mechanisms of peroxidases.

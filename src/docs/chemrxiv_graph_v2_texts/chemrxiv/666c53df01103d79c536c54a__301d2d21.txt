@@ -1,0 +1,13 @@
+Description:
+Used to create materials through dynamic systems.
+
+Text:
+The relationships between molecular parameters such as RECs and macroscopic mechanics is 
+general to dynamic systems,9,1416 and has been used to create materials from boronic acid esters,9 
+supramolecular hostguest cucurbiturils,12,15,17 and dynamic covalent imine formation.18,19 In addition to 
+the utility in controlling formation kinetics ( k1), bulk stiffness ( Keq), flow ( k1, Keq), and longevity 
+( k1, Keq),8 dynamic binding has important implications in celladhesive ligand interactions and 
+biomolecule presentation for biomedical applications.20,21 The fields of tissue engineering7,22,23 and 
+mechanobiology21,24 have also incorporated dynamic chemistry into soft (bio)materials to overcome the 
+oftenconflicting25,26 mechanical properties required for hydrogel processing and targeting a 
+biomechanical niche.

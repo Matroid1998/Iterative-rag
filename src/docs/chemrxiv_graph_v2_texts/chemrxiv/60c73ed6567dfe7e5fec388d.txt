@@ -1,0 +1,9 @@
+Description:
+A 5-coordinate atom that is unlikely to occur in druglike molecules.
+
+Text:
+These validity problems can be broken down into those related to the semantics of SMILES strings, 
+versus those that involve invalid syntax. Typically, the former refer to atom valences that are unlikely 
+to occur, or indeed never occur, in druglike molecules; for example, a 5coordinate carbon. Here we 
+focus instead on the problem of invalid syntax, the majority of which involve either parenthesis 
+notation for branches or ring closure notation.

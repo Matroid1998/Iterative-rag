@@ -1,0 +1,11 @@
+Description:
+A late transition metal where adsorption is generally weakened when moving right in the periodic table.
+
+Text:
+Scaling and BEP relations have had an immense impact on catalysis theory.14 The observation that 
+adsorption in general is weakened by moving right (from Mn to Cu) and down from 3d to 5d 
+among the late transition metals can be rationalized by the dband model.5,6 Since any molecule 
+binds weaker going right and down in the periodic table, the binding of the different molecules must 
+all be correlated. It turns out that there often are linear relations between adsorption energies of 
+different molecules, the socalled scaling relations.7,8 Scaling and BEP relations relate the energies 
+for the states along the reaction path to each other. This means that if you want a low barrier for e.g.

@@ -1,0 +1,13 @@
+Description:
+A nucleophile that initiates the catalytic cycle in the P loop motif.
+
+Text:
+Specifically, the P
+loop motif (HCX5R) contains a cysteine nucleophile that initiates the catalytic cycle (Figure 1A), 
+as well as a conserved arginine that positions the substrate and stabilizes the transition state. A 
+second conserved loop, the WPDloop, undergoes substantial (10 ) conformational transitions 
+between catalytically inactive closed and catalytically active open conformations. In doing so, the 
+WPDloop optimally positions a key aspartic sidechain (D356 in YopH) in the active site where 
+it can act as an acidbase catalyst during the twostep cleavagehydrolysis mechanism common to 
+all PTPs. (Zhang, 1998) Other proximal loops such as the Q and Eloops are less conformationally 
+mobile but also play important roles in catalysis (Figure 1D, (Crean et al., 2021)).

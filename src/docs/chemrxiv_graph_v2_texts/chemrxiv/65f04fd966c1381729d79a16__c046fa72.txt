@@ -1,0 +1,12 @@
+Description:
+A substrate for dehalogenation by thermostabilized HheC enzyme.
+
+Text:
+on the thermostabilization 
+of HheC by combinatorial directed evolution, mutation F12Y was found to increase the enzymes thermostability 
+and yielded a 1.5fold gain in specific activity in the dehalogenation of 1,3dichloropropanol.24 Similarly, mutations 
+at the structurally equivalent position Y15 in AbHheG from Acidimicrobiia bacterium yielded variants with improved 
+enantioselectivity in the ring opening of styrene oxide with cyanate quite recently.14 Both examples directly hint at 
+the hitherto underexplored possibility to steer the catalytic properties of HHDHs via targeted mutagenesis of 
+sequence motif 1. Building on these precedents, we therefore set out to systematically engineer the conserved motif 1 
+residues in two representative HHDHs, HheC from A. radiobacter as well as HheG from Ilumatobacter coccineus.

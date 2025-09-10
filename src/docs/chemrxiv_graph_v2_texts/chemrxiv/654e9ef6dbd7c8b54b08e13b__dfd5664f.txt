@@ -1,0 +1,10 @@
+Description:
+An electron-deficient arene that produced a low yield in azolation reactions.
+
+Text:
+To access such high oxidation potentials 
+other concepts are required (Scheme 1B). Wickens and coworkers developed arene azolation 
+reactions using an organic photocatalyst utilizing the consecutive Photoinduced Electron Transfer 
+(conPET) mechanism,3 which was also exploited by Wagenknecht for challenging oxidations.4 
+The method was effective for benzene or methylated arenes, whereas the oxidation of electron
+deficient arenes, such as PhCl, produced a low yield of only 22 of the azolated product.

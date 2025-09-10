@@ -1,0 +1,15 @@
+Description:
+A ring structure used as the core scaffold in therapeutics and other bioactive molecules due to its easy accessibility, rich substitutional patterns, and structural rigidity.
+
+Text:
+The function of a molecule is closely related to its threedimensional architecture.1 This is 
+especially true in medicinal chemistry, wherein the precise orientation of each 
+pharmacophore is key for determining the strength and selectivity of proteinligand 
+interaction.2 In this regard, the benzene ring, due to its easy accessibility, rich 
+substitutional patterns and structural rigidity, has been ubiquitously used as the core 
+scaffold in therapeutics and other bioactive molecules.3 Nevertheless, to avoid the 
+potential undesirable metabolic instability under physiological conditions, the search for 
+stable alternatives to replace the benzene ring is of great interest for improved lead 
+identification and 
+therapeutic 
+success.

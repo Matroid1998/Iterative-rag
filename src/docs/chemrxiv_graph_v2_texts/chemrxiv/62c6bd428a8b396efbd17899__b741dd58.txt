@@ -1,0 +1,59 @@
+Description:
+Redox-active organic compounds used as CO2 carriers with high binding affinities towards CO2.
+
+Text:
+Conventional carbon
+capture technology involves wet chemical scrubbing us
+ing aqueous amines to absorb CO2 at industrial sources
+or directly from the air for further sequestration.4 This
+strategy, however, has many limitations including low ca
+pacities, poor oxidative stability, degradation in presence
+of contaminants and large thermal energy demand for
+absorbent regeneration.46 In the search for new mate
+rials and technologies for carbon capture, electrochemi
+cally mediated CO2 capture has emerged as a promising
+a)Electronic mail btb32cam.ac.uk
+b)Electronic mail nah48cam.ac.uk
+c)Electronic mail ajwt3cam.ac.uk
+d)Electronic mail acf50cam.ac.uk
+approach.710 A popular strategy is to use redoxactive
+organic compounds as CO2 carriers, with quinones being
+the most representative class of compounds.11 Electro
+chemical reduction of quinones generates oxyanion nu
+cleophiles, which have high binding affinities towards
+CO2 and have been reported to concentrate and selec
+tively separate CO2.1116 The biggest advantage is that
+quinones can be electrochemically regenerated, leading to
+energy savings over traditional temperature or pressure
+swing processes.
+
+
+---
+
+Description:
+Can be reoxidised in the presence of oxygen while O2 is reduced.
+
+Text:
+While
+the
+recently
+reported
+use
+of
+quinone
+functionalised
+electrodes
+is
+promising,17
+questions
+remain about the molecular mechanism of this process
+and whether it is possible to increase its oxidative
+stability by carefully tuning the electron density of the
+quinones. In the presence of oxygen (O2), it is observed
+that there is a loss in CO2 capture ability17 as reduced
+quinones can be reoxidised while O2 is reduced.18 If
+quinone structures are tuned to have sufficiently positive
+reduction potentials by substitution of functional groups
+on the aromatic rings, it may be possible to avoid the
+sidereactions with O2. However, by tuning the redox
+potentials, one will also change the CO2 capturing

@@ -1,0 +1,12 @@
+Description:
+A cathode material with a capacity of 280 mAhg.
+
+Text:
+suggested that the capacity 
+could be even higher due to incorporation of more than three Li.4 The use of such materials, 
+is thus an attractive replacement for existing, lower capacity cathodes such as LiCoO2 (240 
+mAhg) and LiNixCoyMn1xyO2 (280 mAhg).5 Progress in this field requires an atomicscale 
+understanding of structural changes such as conversion, insertion, etc of the cathode that occur 
+during Li ion intercalation and deintercalation. Furthermore, defining the sites that act as 
+either host(s) for ion insertion and extraction, or facilitate the process, can be crucial to 
+optimising performance of the material.

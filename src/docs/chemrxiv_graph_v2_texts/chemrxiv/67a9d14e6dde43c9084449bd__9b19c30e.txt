@@ -1,0 +1,25 @@
+Description:
+Involved in nonclassical crystallization pathways with solubility and dynamic nature.
+
+Text:
+However, in the past decade, this theory has been challenged by the emergence of the so
+called nonclassical crystallization pathway (NCP) due to the observation of stable solute transient 
+species that form in solution before nucleation.2 In the context of biomineralization, such PNS have 
+been reported for calcium phosphates,3,4 carbonates5,6 and oxalates.7,8 The characterization of these 
+PNS is particularly challenging due to their solubility, nanometric size, dynamic nature, and short 
+lifespan.
+
+
+---
+
+Description:
+Monitored for formation and evolution in fast mineralizing solutions using dissolution DNP.
+
+Text:
+Indeed, dissolution DNP (dDNP) allows the acquisition of NMR spectra on a very short time scale 
+(0.5 s1) and has been successfully used to monitor the formation and the evolution of PNS for calcium 
+phosphates19,20 and carbonates21,22 in fast mineralizing solutions. The rates of formation, aggregation 
+and kinetic exchange with free ions involving PNS can be determined using this approach.19 However, 
+limitations exist as dDNP equipment is rare, and 2D experiments cannot be recorded with dDNP (unless 
+by combining with singlescan methodologies). Thus, ideally, it would be beneficial to stop the reaction and characterize the system at 
+specific time points as long as needed to record 1D and 2D NMR spectra.

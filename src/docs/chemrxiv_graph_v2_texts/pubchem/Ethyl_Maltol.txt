@@ -1,0 +1,26 @@
+Name: Ethyl Maltol
+Text:
+Ethyl maltol is a pyranone.
+Ethyl maltol has been reported in Mangifera indica with data available.
+Properties:safety: Irritant
+smiles: CCC1=C(C(=O)C=CO1)O
+formula: C7H8O3
+chem_properties: Molecular Weight: 140.14 g/mol
+XLogP3: 0.8
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 1
+Exact Mass: 140.047344113 Da
+Monoisotopic Mass: 140.047344113 Da
+Topological Polar Surface Area: 46.5
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 213
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,33 @@
+Name: Aniline
+Text:
+Aniline is a clear to slightly yellow liquid with a characteristic odor. It does not readily evaporate at room temperature. Aniline is slightly soluble in water and mixes readily with most organic solvents. Aniline is used to make a wide variety of products such as polyurethane foam, agricultural chemicals, synthetic dyes, antioxidants, stabilizers for the rubber industry, herbicides, varnishes and explosives
+Aniline can cause cancer according to The Environmental Protection Agency (EPA).
+Aniline appears as a yellowish to brownish oily liquid with a musty fishy odor. Melting point -6 °C; boiling point 184 °C; flash point 158 °F. Denser than water (8.5 lb / gal) and slightly soluble in water. Vapors heavier than air. Toxic by skin absorption and inhalation. Produces toxic oxides of nitrogen during combustion. Used to manufacture other chemicals, especially dyes, photographic chemicals, agricultural chemicals and others.
+Aniline is a primary arylamine in which an amino functional group is substituted for one of the benzene hydrogens. It is a primary arylamine and a member of anilines.
+Aniline, phenylamine or aminobenzene is an organic compound with the formula C6H5NH2. Consisting of an amine attached to a benzene ring, aniline is the prototypical aromatic amine. Being a precursor to many industrial chemicals, its main use is in the manufacture of precursors to polyurethane. Like most volatile amines, it possesses the somewhat unpleasant odour of rotten fish. Aniline is colorless, but it slowly oxidizes and resinifies in air, giving a red-brown tint to aged samples.
+Exposure to aniline may occur from breathing contaminated outdoor air, smoking tobacco, or working or being near industries where it is produced or used. The acute (short-term) and chronic (long-term) effects of aniline in humans consist mainly of effects on the lung, such as upper respiratory tract irritation and congestion. Chronic exposure may also result in effects on the blood. Human cancer data are insufficient to conclude that aniline is a cause of bladder tumors while animal studies indicate that aniline causes tumors of the spleen. EPA has classified aniline as a Group B2, probable human carcinogen.
+Aniline has been reported in Camellia sinensis and Trigonella foenum-graecum with data available.
+Aniline is an organic chemical compound, specifically a primary aromatic amine. It consists of a benzene ring attached to an amino group. Aniline is oily and, although colorless, it can be slowly oxidized and resinified in air to form impurities which can give it a red-brown tint. Its boiling point is 184 degree centigrade and its melting point is -6 degree centegrade. It is a liquid at room temperature. Like most volatile amines, it possesses a somewhat unpleasant odour of rotten fish, and also has a burning aromatic taste; it is a highly acrid poison. It ignites readily, burning with a large smoky flame. Aniline reacts with strong acids to form salts containing the anilinium (or phenylammonium) ion (C6H5-NH3+), and reacts with acyl halides (such as acetyl chloride (ethanoyl chloride), CH3COCl) to form amides. The amides formed from aniline are sometimes called anilides, for example CH3-CO-NH-C6H5 is acetanilide, for which the modern name is N-phenyl ethanamide. Like phenols, aniline derivatives are highly reactive in electrophilic substitution reactions. For example, sulfonation of aniline produces sulfanilic acid, which can be converted to sulfanilamide. Sulfanilamide is one of the sulfa drugs which were widely used as antibacterial in the early 20th century. Aniline was first isolated from the destructive distillation of indigo in 1826 by Otto Unverdorben. In 1834, Friedrich Runge isolated from coal tar a substance which produced a beautiful blue color on treatment with chloride of lime; this he named kyanol or cyanol. In 1841, C. J. Fritzsche showed that by treating indigo with caustic potash it yielded an oil, which he named aniline, from the specific name of one of the indigo-yielding plants, Indigofera anil, anil being derived from the Sanskrit, dark-blue.
+See also: Aniline hydrochloride (is active moiety of) ... View More ...
+Properties:safety: Corrosive and Acute Toxic and Health Hazard and Environmental Hazard
+smiles: C1=CC=C(C=C1)N
+formula: C6H7N
+chem_properties: Molecular Weight: 93.13 g/mol
+XLogP3: 0.9
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 93.057849228 Da
+Monoisotopic Mass: 93.057849228 Da
+Topological Polar Surface Area: 26
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 46.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

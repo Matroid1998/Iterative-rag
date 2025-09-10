@@ -1,0 +1,16 @@
+Description:
+Characterized by a soft lattice and large anharmonicity due to high multiphonon scattering probabilities.
+
+Text:
+teractions in the structural stabilization4, carrier thermalization5,
+carrier recombination6,7, carrier transport8,9 and dephasing dy
+namics10,11 are widely reported. The acoustic modes, on the
+other hand, determine the thermal properties of the material, in
+cluding thermal conductivity, molar specic heat, and thermal ex
+pansion of the lattice. At rst glance, these appear to be clear
+manifestations of the anharmonicity of the lattice, models for
+which are available in any basic textbook for solidstate physics
+such as Ref. 12. The distinction of metalhalide perovskites from
+classical semiconductors lies, however, in the softness of the lat
+tice and rather large anharmonicity induced by substantially high
+multiphonon scattering probabilities1,13.

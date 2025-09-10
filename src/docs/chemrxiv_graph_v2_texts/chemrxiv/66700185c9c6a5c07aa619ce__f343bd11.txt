@@ -1,0 +1,21 @@
+Description:
+Compounds that are converted into unsaturated analogues via the Wittig reaction.
+
+Text:
+Seventy years ago, Georg Wittig reported a groundbreaking reaction that revolutionized synthetic 
+organic chemistry the Wittig olenation.13 This reaction, which converts carbonyl compounds into their 
+unsaturated analogues via a 22 pericyclic mechanism, remains one of the most fundamental and 
+extensively utilized transformations for the synthesis of functional alkenes.36 Despite numerous 
+adaptations, the classical Wittig reaction continues to be crucial in modern synthetic chemistry, with 
+applications ranging from polymer chemistry79 and material sciences10,11 to drug and natural product 
+synthesis.1217 Even on an industrial scale, the Wittig reaction is frequently pivotal; a prominent example 
+is BASFs tonscale synthesis of vitamin A and its derivatives.5,1823 
+In light of growing environmental concerns, there is an urgent need for more sustainable and greener 
+modications of this widely used reaction.23 Recent eorts have focused on developing catalytic versions 
+of the Wittig reaction, using strategies to regenerate phosphine via chemical or electrochemical 
+reduction of the resulting phosphine oxide.2428 Although these methods can recycle byproducts, they 
+often generate wasteful byproducts themselves, for example when using chemical reductants like 
+phenyl silane (PhSiH3).24 Additionally, attempts to use water as a reaction medium have been made,2934 
+but the energyintensive process of treating aqueous chemical waste often mitigates any environmental 
+and cost benets.35,36 Thus, the development of more sustainable and environmentally benign 
+olenation processes remains a signicant challenge.

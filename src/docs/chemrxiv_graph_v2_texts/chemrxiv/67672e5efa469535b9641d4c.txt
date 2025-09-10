@@ -1,0 +1,16 @@
+Description:
+Measured as intracellular content in living magnetotactic bacteria using X-ray nanobeam scanning fluorescence microscopy.
+
+Text:
+Although the field of liquid cell transmission electron 
+microscopy (TEM) is well developed, its use is limited to the 
+study of thin materials (i.e., only a few hundred nm in 
+thickness).15A few studies have imaged individual biological 
+cells in liquid using Xray microscopy,1619 but do not follow 
+biological processes in situ. As a result, there are few suitable 
+liquid cell environments known to be interfaced with Xray 
+microscopy techniques to enable nativestate imaging and in 
+situ experimentation of biological systems. In this work, Xray nanobeamscanning fluorescence 
+microscopy (nanoXRF) is employed to measure the intracellular 
+iron content of living magnetotactic bacteria (MTB) in a liquid 
+cell environment.

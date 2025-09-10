@@ -1,0 +1,10 @@
+Description:
+A light element used as a building block in COFs with strong covalent bonds.
+
+Text:
+COFs are polymeric porous materials that form extended network structures connected by organic linkers. These materials
+enable the integration of organic, lightelement (e.g. C, H, N, B, O) building blocks with strong covalent bondswhich
+would typically result in amorphous solidshowever, due to the dynamic covalent chemistry and slower reaction kinetics, one
+can obtain 2D or 3D crystalline periodic materials.1,2 In COFs, the faces and edges of their monomer units are exposed to
+pores, resulting in high surface area. Their structural, physical, and chemical features include tunable porosity, low density,
+high crystallinity, and strong covalent bonds.

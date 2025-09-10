@@ -1,0 +1,26 @@
+Name: Bialaphos
+Text:
+Bilanafos is a tripeptide comprising one L-phosphinothricyl and two L-alanyl units joined in sequence. It has a role as a bacterial metabolite and an antimicrobial agent. It is a tripeptide and a member of phosphinic acids.
+Bialaphos has been reported in Streptomyces hygroscopicus and Streptomyces viridochromogenes with data available.
+Properties:safety: Irritant
+smiles: C[C@@H](C(=O)N[C@@H](C)C(=O)O)NC(=O)[C@H](CCP(=O)(C)O)N
+formula: C11H22N3O6P
+chem_properties: Molecular Weight: 323.28 g/mol
+XLogP3: -4.9
+Hydrogen Bond Donor Count: 5
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 8
+Exact Mass: 323.12462243 Da
+Monoisotopic Mass: 323.12462243 Da
+Topological Polar Surface Area: 159
+Heavy Atom Count: 21
+Formal Charge: 0
+Complexity: 455
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 3
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

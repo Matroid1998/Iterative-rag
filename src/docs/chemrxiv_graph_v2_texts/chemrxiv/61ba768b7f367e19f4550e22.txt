@@ -1,0 +1,11 @@
+Description:
+An organic semiconductor molecule that exhibits cooperative transitions leading to fast switching of electronics and large recoverable crystal shape change.
+
+Text:
+A key distinction from nucleation and growth rises from interactions with defects within the 
+crystal, which results in avalanche behavior due to pinning of the phase boundary4,1114. While cooperative 
+behavior has been well documented in metal alloy based martensitic transitions, it has rarely been 
+reported in molecular crystals. As such, the fundamental origin of cooperativity in organic crystals is not 
+well understood and the molecular design inducing this behavior is still unknown. Recently, cooperative transitions have been observed in key organic semiconductor molecules such as 
+6,13bis(triisopropylsilylethnyl) pentacene (TIPSP), among other ptype semiconductors9,15,16. Cooperativity in TIPSP led to fast switching of the electronics17 coupled with large recoverable crystal 
+shape change15, resulting in super and ferroelastic mechanical effects18.

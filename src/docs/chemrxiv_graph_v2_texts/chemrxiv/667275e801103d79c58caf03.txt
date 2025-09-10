@@ -1,0 +1,19 @@
+Description:
+Molecular architectures used to achieve radical stabilization.
+
+Text:
+Synthetic molecular machines have opened up avenues for 
+dynamically controlling the functions of molecular materials.1 
+These controls are achieved by carefully programming the 
+molecular system with suitable switchable moieties connected to 
+functional units that can activate and deactivate specific functions 
+on demand. Remarkable control of various molecular functions, 
+such as lightpowered molecular motors, has become possible. 2 
+
+The quest to stabilize free radicals has been a focal point of 
+scientific exploration for decades, driven by their crucial roles in 
+various domains, including molecular magnetism 3, organic 
+spintronics 4, organic semiconductors 5 and memory devices.6 
+Diverse molecular architectures have been developed to achieve 
+radical stabilization by incorporating multiple electron sinks,79 or 
+poly aromatic hydrocarbons (PAHs) 1012 among others.

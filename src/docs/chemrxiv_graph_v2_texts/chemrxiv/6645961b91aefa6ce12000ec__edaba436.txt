@@ -1,0 +1,11 @@
+Description:
+Used in hydrogen fuel cells where the oxygen reduction reaction is current-limiting.
+
+Text:
+The oxygen reduction reaction (ORR) is a crucial biological process and a critical component of
+developing technologies such as metalair batteries and hydrogen fuel cells. For hydrogen fuel
+cells, the ORR is currentlimiting, and cathodes generally contain platinum catalysts to produce
+the current needed for industrial applications.1 The broader commercialization of these devices
+relies on developing catalysts that are cheap, abundant, and active relative to the current state of
+the art. Computational studies aid the design of novel catalysts in part by defining the factors that limit
+theoretical catalyst activity.

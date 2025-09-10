@@ -1,0 +1,10 @@
+Description:
+Used in glassy carbon macroelectrodes for cyclic voltammetry studies.
+
+Text:
+15, 
+involving the generation of SO4 (eqs. 13) followed by its reaction either with Ru(NH3)62 (eq. 4) or by direct reduction at the electrode (eq. 5).10 Eqs. 4 and 5 represent quenching reactions, 
+preventing SO4 from participating in the intended oxidation of the alcohol substrate. Cyclic 
+voltammetry (CV) studies performed using glassy carbon macroelectrodes, along with finite
+difference simulations, were employed to estimate the rate constants of eq. 2 as  2  105 M1s1 
+and provided lower limits for eq. 3 ( 1  106 s1), and eq.

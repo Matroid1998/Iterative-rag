@@ -1,0 +1,15 @@
+Description:
+Materials that exhibit fluctuations close to a Mott metal-insulator transition.
+
+Text:
+There is no literature consensus about what exactly it means for a manyelectron system to
+be strongly correlated.24 Leading notions include the following
+1. The wavefunction cannot qualitatively be described by a single Slater determinant, and
+is multiconfigurational. A chemical example is when two states of different character
+ e.g., ionic and covalent configurations that can be nonorthogonal along much of a dis
+sociation coordinate  are of competing significance (energetically nearly degenerate).5
+Another example from physics of such an intermediate regime involves fluctuations in
+materials such as transition metal oxides close to a Mott metalinsulator transition6
+or fblock compounds,7 in which electrons hesitate between delocalized (wavelike)
+and localized (particlelike) character.4
+2. The twobody interaction is large relative to onebody terms in the Hamiltonian.

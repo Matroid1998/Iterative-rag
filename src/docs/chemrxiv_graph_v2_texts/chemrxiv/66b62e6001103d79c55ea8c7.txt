@@ -1,0 +1,22 @@
+Description:
+Light nuclei where nuclear quantum effects are significant even at room temperature.
+
+Text:
+Nuclear quantum eects (NQEs) play an impor
+tant role in quantum chemistry, becoming par
+ticularly signicant in scenarios such as coni
+cal intersections, molecular vibrations, and low
+temperature atomic coherence and exchange ef
+fects.1 This is especially true for light nuclei
+like hydrogen, where even at room tempera
+ture NQEs cannot be overlooked. Traditional
+quantum chemical calculations often rely on the
+BornOppenheimer (BO) approximation to sep
+arate electronic and nuclear degrees of freedom. While this allows for classical propagation of
+nuclei on the electronic potential energy surface
+or the use of approximations to extract dynamic
+nuclear information, it fails to capture the sub
+stantial coupling between nuclear and electronic
+wave functions that directly inuence chemical
+phenomena. To address these challenges, various method
+ologies have been developed.

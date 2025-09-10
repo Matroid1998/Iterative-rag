@@ -1,0 +1,11 @@
+Description:
+Part of the nitrogen vacancy (NV) center in diamond, used to detect NMR signals.
+
+Text:
+Nuclear magnetic resonance (NMR) spectroscopy is a powerful chemical characterization tool 
+widely used in disciplines ranging from materials to biomedical sciences. However, it is limited 
+by low sensitivity, typically requiring a substantial amount of material for analysis1. One promising 
+way to overcome this limitation is via the use of nanoscale spin defects in solids, which can be 
+brought in close contact with the sample26. The most promising system is the nitrogen vacancy 
+(NV) center in diamond, which has been used to detect NMR signals from a few zeptoliters of 
+material, single molecules or even nuclear spins under ambient conditions7,8. The NVcenter (Fig. 1 A) is a spin defect in the lattice of a diamond.

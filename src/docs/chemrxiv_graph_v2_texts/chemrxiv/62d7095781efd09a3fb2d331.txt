@@ -1,0 +1,8 @@
+Description:
+Displays activity against a broad panel of bacteria with varying minimum inhibitory concentrations.
+
+Text:
+Myxovalargin (Myx) was described in 1983 from Myxococcus fulvus strain Mx f65 as 
+displaying activity against a broad panel of bacteria, exhibiting minimum inhibitory concentrations 
+(MICs) between 0.35 gmL for Grampositive and 6100 gml for Gramnegative bacteria, 
+respectively6. Myxovalargins comprise some congeners with Myxovalargin A (MyxA) as the

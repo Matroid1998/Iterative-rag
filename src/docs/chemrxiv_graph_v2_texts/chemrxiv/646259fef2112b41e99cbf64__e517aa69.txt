@@ -1,0 +1,8 @@
+Description:
+A common anion used in battery electrolytes.
+
+Text:
+The previously reported decoupled SPEs tend to use anionic groups (e.g., carboxylates and sulfonates) 
+that are more Lewis basic, i.e., less dissociative, than common anions used in battery electrolytes such as 
+bis(trifluoromethanesulfonyl)imide (TFSI, 7).21 Even when softer, more dissociative anions such as 
+sulfonimides are employed for polyanion designs, the linkers required to conjugate these anions to

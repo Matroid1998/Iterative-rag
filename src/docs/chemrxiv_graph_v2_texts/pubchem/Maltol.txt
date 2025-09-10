@@ -1,0 +1,29 @@
+Name: Maltol
+Text:
+Maltol is a white crystalline powder with a fragrant caramel-butterscotch odor. pH (5% aqueous solution) 5.3. (NTP, 1992)
+3-hydroxy-2-methyl-4-pyrone is a member of 4-pyranones. It has a role as a metabolite.
+Maltol has been reported in Bolbostemma paniculatum, Streptomyces, and other organisms with data available.
+MALTOL is a small molecule drug with a maximum clinical trial phase of III (across all indications) and has 3 investigational indications.
+3-Hydroxy-2-methyl-4-pyrone is a metabolite found in or produced by Saccharomyces cerevisiae.
+Properties:safety: Irritant
+smiles: CC1=C(C(=O)C=CO1)O
+formula: C6H6O3
+chem_properties: Molecular Weight: 126.11 g/mol
+XLogP3: 0.4
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 126.031694049 Da
+Monoisotopic Mass: 126.031694049 Da
+Topological Polar Surface Area: 46.5
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 200
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

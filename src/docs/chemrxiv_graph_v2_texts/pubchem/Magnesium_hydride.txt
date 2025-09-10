@@ -1,0 +1,24 @@
+Name: Magnesium hydride
+Text:
+Magnesium hydride is a white crystalline solid. It reacts violently with water and may ignite upon contact with air. It is used to make other chemicals.
+Properties:safety: Flammable and Irritant
+smiles: [H-].[H-].[Mg+2]
+formula: H2Mg
+chem_properties: Molecular Weight: 26.321 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 26.0006918 Da
+Monoisotopic Mass: 26.0006918 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 1
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

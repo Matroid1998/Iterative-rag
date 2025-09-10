@@ -1,0 +1,12 @@
+Description:
+The current anode material with a specific capacity of 372 mAh/g.
+
+Text:
+Lithiumion batteries have become a norm for energy storage these days. Many advances
+to increase their efficiency have been proposed. In the realm of material science, electrode,
+electrolyte, and separator are interesting design elements. Specifically focusing on anodes,
+several materials are being explored such as graphitic materials, metals, metal oxides, and
+metal phosphide.1 A key material explored is silicon. The obvious reason for silicon being
+a promising candidate is its high theoretical specific capacity (4200 mAhg for Li22Si5 2)
+compared to the current graphite anode (372 mAhg3). Furthermore, silicon is the second
+most abundant element in the earths crust, making it a readily available material.

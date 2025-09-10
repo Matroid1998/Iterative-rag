@@ -1,0 +1,28 @@
+Description:
+A functional group that can form hydrogen bonds with either another thiol group or an oxygen of the carboxylate anion.
+
+Text:
+Figure 1 Molecular structure of the lcysteine zwitterion
+O
+O
+NH
+3
+SH
+A low temperature study (30 K) of Form I5 showed that the thiol group is ordered with regular S
+H...S bonds and a NCCS gauche (g) dihedral angle of 70.6. However, a neutron diffraction
+study at room temperature3 showed disorder in the Form I lattice that can be modelled as
+either involving just the thiol hydrogens or modelled using both sulfur and hydrogen atoms. The disorder arises because the hydrogen of the thiol group can form a hydrogen bond with
+either another thiol group (as in the Form I 30 K crystal structure) or with an oxygen of the
+carboxylate anion as shown in Figure 2.
+
+
+---
+
+Description:
+Groups that undergo an ordering transition at 76 K.
+
+Text:
+Heat
+capacities of Form I8 showed that there is actually a sharp transition at 76 K consistent with
+an ordering transition of the thiol groups. In order to model the data it was necessary to use a
+2

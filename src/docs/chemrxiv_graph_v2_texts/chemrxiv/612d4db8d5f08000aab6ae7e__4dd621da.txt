@@ -1,0 +1,43 @@
+Description:
+A protein-binding membrane used in assays to assess ligand binding.
+
+Text:
+One of the most successful experimental approaches suitable for 
+screening of a large number of candidate receptors for binding with candidate small 
+ligand is the differential radial capillary action of ligand assay (DRaCALA), which 
+does not require purification of the expressed protein, but uses whole bacterial cell 
+lysates containing plasmidexpressed candidate gene products 36. Thereby, small 
+ligand binding to a protein is assessed by the spot intensity and diameter upon 
+spotting the protein extract containing ligand onto a proteinbinding nitrocellulose 
+membrane. Binding of the radioactive ligand to the macromolecule creates a small 
+intensive spot reflecting the protein location, while, upon nonbinding, the ligand 
+signal is more extended, but overall equally intensive reflecting the free ligand 
+distribution over a larger spot area created by capillary forces.
+
+
+---
+
+Description:
+A membrane used in binding assays for detecting ligand-protein interactions.
+
+Text:
+A radioactive ligand, as in the originally described approach, needs to be prepared and 
+labeling is not necessarily readily applicable to every small molecular compound. However, MALDITOF MS or imaging mass spectrometry can be used to detect 
+binding of a ligand to a protein receptor on the nitrocellulose membrane. Thereby, 
+assessment of binding can be achieved by measuring the ligand concentration at the 
+application spot and at the edge of the larger spot area that the liquid reached by 
+capillary action (Fig. 1).
+
+
+---
+
+Description:
+A membrane material used for spotting and drying samples.
+
+Text:
+18 l cell lysate and 2 l 10 M cdiGMP were 
+mixed, incubated 10 min at room temperature and 2 l were spotted on a 
+nitrocellulose membrane (Schleicher  Schuell ProtanTM, BA85). After the 
+membrane had completely dryed, equally sized membrane pieces at the application 
+spot and the edge of the diffused liquid were cut out with a scalpel. 2 l 5 mgml 
+alphacyano4hydroxycinnamic acid matrix in 50 acetonitrile and 0.05

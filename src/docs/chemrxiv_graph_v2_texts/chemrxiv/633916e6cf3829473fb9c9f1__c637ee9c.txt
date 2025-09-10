@@ -1,0 +1,8 @@
+Description:
+Used as an anode material in current lithium-ion batteries.
+
+Text:
+Developing batteries with higher energy densities is vital for electric transportation and a renewable
+powered electric grid.1 Replacing graphite anode (in current lithiumion batteries) with lithium metal can 
+at least double the overall battery gravimetric energy density.2 Hence, there has been fervent research to 
+develop rechargeable lithium metal batteries.

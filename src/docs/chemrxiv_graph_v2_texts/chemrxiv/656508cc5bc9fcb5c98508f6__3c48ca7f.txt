@@ -1,0 +1,15 @@
+Description:
+Used stoichiometrically in the NozakiHiyamaKishi reaction.
+
+Text:
+The NozakiHiyamaKishi (NHK) 
+reaction, first discovered in 19777 and formalized in 19868 
+usually involves the crosscoupling of an alkenyl halide with 
+an aldehyde through the use of stoichiometric Cr and cata
+lytic Ni to afford an allylic alcohol product.9 The correspond
+ing alkylvariant of this reaction is seldom employed with a 
+variety of alkyl nucleophile surrogates being disclosed over 
+the years such as alkyl iodides,10 carboxylic acids via redox
+active esters (RAEs),11 olefins,12 or even unactivated CH 
+bonds13 (Figure 1B). Those variants, however, have not been 
+employed in a catalytic, highly enantioselective fashion.

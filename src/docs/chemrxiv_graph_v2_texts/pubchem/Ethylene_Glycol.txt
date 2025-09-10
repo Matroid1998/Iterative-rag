@@ -1,0 +1,36 @@
+Name: Ethylene Glycol
+Text:
+Ethylene glycol is a synthetic liquid substance that absorbs water. It is odorless, but has a sweet taste. Ethylene glycol is used to make antifreeze and de-icing solutions for cars, airplanes, and boats. It is also used in hydraulic brake fluids and inks used in stamp pads, ballpoint pens, and print shops.
+Ethylene glycol (ingested) can cause developmental toxicity according to The National Toxicology Program.
+Ethylene glycol is a clear, colorless syrupy liquid. The primary hazard is the threat to the environment. Immediate steps should be taken to limit its spread to the environment. Since it is a liquid it can easily penetrate the soil and contaminate groundwater and nearby streams.
+Ethylene glycol is a 1,2-glycol compound produced via reaction of ethylene oxide with water. It has a role as a metabolite, a toxin, a solvent and a mouse metabolite. It is a glycol and an ethanediol.
+Ethylene glycol is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Ethylene glycol has many uses, including as antifreeze in cooling and heating systems, in hydraulic brake fluids, and as a solvent. Acute (short-term) exposure of humans to ethylene glycol by ingesting large quantities causes three stages of health effects: central nervous system (CNS) depression, followed by cardiopulmonary effects, and later renal damage. The only effects noted in one study of individuals exposed to low levels of ethylene glycol by inhalation for about a month were throat and upper respiratory tract irritation. Rats and mice chronically (long-term) exposed to ethylene glycol in their diet exhibited signs of kidney toxicity and liver effects. Several studies of rodents exposed orally or by inhalation showed ethylene glycol to be fetotoxic. An epidemiologic study on renal cancer mortality did not find an increased risk for workers exposed to ethylene glycol. EPA has not classified ethylene glycol for carcinogenicity.
+Ethylene Glycol has been reported in Vitis vinifera with data available.
+MACROGOL is a small molecule drug with a maximum clinical trial phase of IV (across all indications) and is indicated for constipation and has 1 investigational indication.
+Ethylene glycol (monoethylene glycol (MEG), IUPAC name: ethane-1,2-diol) is an alcohol with two -OH groups (a diol), a chemical compound widely used as an automotive antifreeze. Ethylene glycol is toxic, and its accidental ingestion should be considered a medical emergency. (L1023)
+Ethylene glycol is a metabolite found in or produced by Saccharomyces cerevisiae.
+A colorless, odorless, viscous dihydroxy alcohol. It has a sweet taste, but is poisonous if ingested. Ethylene glycol is the most important glycol commercially available and is manufactured on a large scale in the United States. It is used as an antifreeze and coolant, in hydraulic fluids, and in the manufacture of low-freezing dynamites and resins.
+See also: Pegoterate (monomer of); Polyethylene Glycol 3350 (annotation moved to); Polyethylene Glycol 400 (annotation moved to) ... View More ...
+Properties:safety: Irritant
+smiles: C(CO)O
+formula: C2H6O2
+chem_properties: Molecular Weight: 62.07 g/mol
+XLogP3: -1.4
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 62.036779430 Da
+Monoisotopic Mass: 62.036779430 Da
+Topological Polar Surface Area: 40.5
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,28 @@
+Name: Ziconotide
+Text:
+Ziconotide (also known as SNX-111) is a neurotoxic peptide derived from the cone snail Conus magus comprising 25 amino acids with three disulphide bonds. Other such peptides, collectively termed conotoxins, exist, and some have shown efficacy in binding specific subsets of calcium channels; ziconotide is used in part because it can be synthesized without loss of proper bond formation or structural elements. Ziconotide is used to manage severe chronic pain refractory to other methods, through its ability to inhibit N-type calcium channels involved in nociceptive signalling.  Ziconotide was granted FDA approval on December 28, 2004 for marketing by TerSera therapeutics LLC. under the name Prialt. To date, ziconotide is the only calcium channel blocking peptide approved for use by the FDA.
+Ziconotide is a synthetic, nonopiod, twenty-five amino acid polybasic peptide analogue of an omega-conotoxin derived from the marine snail Conus magus with analgesic activity. Ziconotide appears to block neuronal N-type voltage-sensitive calcium channels (NCCB), inhibiting transmission from pain-sensing primary nociceptors. This agent may exhibit significant analgesic activity in refractory pain.
+ZICONOTIDE is a Protein drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2004 and has 2 investigational indications.
+See also: Ziconotide Acetate (has salt form).
+Properties:safety: Acute Toxic
+smiles: C[C@H]1C(=O)N[C@H](C(=O)N[C@H]2CSSC[C@H]3C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)NCC(=O)N1)CCCCN)CCCCN)N)C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N3)CO)[C@@H](C)O)NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC2=O)CO)CCCNC(=N)N)CC(C)C)CCSC)CC4=CC=C(C=C4)O)CC(=O)O)C(=O)N)CCCCN)CO)CCCNC(=N)N)CCCCN
+formula: C102H172N36O32S7
+chem_properties: Molecular Weight: 2639.2 g/mol
+XLogP3: -14
+Hydrogen Bond Donor Count: 42
+Hydrogen Bond Acceptor Count: 46
+Rotatable Bond Count: 40
+Exact Mass: 2638.1016905 Da
+Monoisotopic Mass: 2637.0983357 Da
+Topological Polar Surface Area: 1310
+Heavy Atom Count: 177
+Formal Charge: 0
+Complexity: 5480
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 22
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,13 @@
+Description:
+Used as a low-cost ceramic filler to enhance thermal conductivity in epoxy composites.
+
+Text:
+The high integration and power density of electronic devices can lead to heat accumulation, 
+which can negatively impact their performance and lifespan.1,2 Thermal interface materials 
+(TIMs) are used to transfer heat from a heat source to a heat sink.3,4 Epoxy resins are commonly 
+used in microelectronics because of their ease of use, excellent chemical stability and low cost, 
+but they often have low thermal conductivity ranging from 0.1 to 0.5 Wm1K1 at room 
+temperature.5,6 Despite the widespread use of lowcost ceramic fillers such as alumina (Al2O3)7, 
+silicon nitride (Si3N4)8, aluminium nitride (AlN)9, and silicon carbide (SiC)10 as thermally 
+conductive fillers, the resulting epoxy composites still demonstrate a low thermal conductivity, 
+which remains below 2.0 W m1 K1.

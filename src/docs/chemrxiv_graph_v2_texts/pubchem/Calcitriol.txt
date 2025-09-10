@@ -1,0 +1,33 @@
+Name: Calcitriol
+Text:
+Calcitriol is a hydroxycalciol that is calcidiol in which the pro-S hydrogen of calcidiol is replaced by a hydroxy group. It is the active form of vitamin D3, produced fom calciol via hydoxylation in the liver to form calcidiol, which is subsequently oxidised in the kidney to give calcitriol. It has a role as a bone density conservation agent, an antipsoriatic, an immunomodulator, an antineoplastic agent, a calcium channel modulator, a nutraceutical, a calcium channel agonist, a metabolite, a hormone, a human metabolite and a mouse metabolite. It is a hydroxycalciol, a member of D3 vitamins and a triol.
+Calcitriol is an active metabolite of vitamin D with 3 hydroxyl (OH) groups and is commonly referred to as 1,25-dihydroxycholecalciferol, or 1alpha,25-dihydroxyvitamin D3, 1,25-dihydroxyvitamin D3. It is produced in the body after series of conversion steps of 7-dehydrocholesterol from exposure to UV light. 7-dehydrocholesterol is converted to [DB00169] (vitamin D3) in the skin, which is then converted to [DB00146] in the liver and kidneys. [DB00146] undergoes hydroxylation to form calcitriol via 1α-hydroxylase (CYP27B1) activity. Calcitriol is considered to be the most potent metabolite of vitamin D in humans. Renal production of calcitriol is stimulated in response to PTH, low calcium and low phosphate. Calcitriol plays a role in plasma calcium regulation in concert with parathyroid hormone (PTH) by enhancing absorption of dietary calcium and phosphate from the gastrointestinal tract, promoting renal tubular reabsorption of calcium in the kidneys, and stimulating the release of calcium stores from the skeletal system. In addition to promoting fatty acid synthesis and inhibiting lipolysis, calcitriol has been demonstrated to increase energy efficiency by suppressing UCP2 expression, which is modulated by signaling pathways of classical nuclear receptors (nVDR), where calcitriol acts as a natural ligand. There is also evidence that calcitriol modulates the action of cytokines and may regulate immune and inflammatory response, cell turnover, cell differentiation.   Administered orally and intravenously, calcitriol is commonly used as a medication in the treatment of secondary hyperparathyroidism and resultant metabolic bone disease, hypocalcemia in patients undergoing chronic renal dialysis, and osteoporosis. It is also available in topical form for the treatment of mild to moderate plaque psoriasis in adults. Calcitriol is marketed under various trade names including Rocaltrol (Roche), Calcijex (Abbott) and Decostriol (Mibe, Jesalis).
+Calcitriol is a Vitamin D3 Analog.
+Calcitriol has been reported in Solanum glaucophyllum, Homo sapiens, and Trypanosoma brucei with data available.
+Calcitriol is a synthetic physiologically-active analog of vitamin D, specifically the vitamin D3 form.  Calcitriol regulates calcium in vivo by promoting absorption in the intestine, reabsorption in the kidneys, and, along with parathyroid hormone, regulation of bone growth.  A calcitriol receptor-binding protein appears to exist in the mucosa of human intestine. Calcitriol also induces cell cycle arrest at G0/G1 phase of the cell cycle, cell differentiation, and apoptosis, resulting in inhibition of proliferation of some tumor cell types.  This agent may be chemopreventive for colon and prostate cancers. (NCI04)
+DN-101 is an oral high dose formulation of calcitriol, the biologically active form of Vitamin D.  Acting as a ligand for the Vitamin D receptor (VDR), DN-101 binds to the VDR inhibiting VDR-regulated gene transcription involved in cell proliferation, differentiation and apoptosis. (NCI)
+CALCITRIOL is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1978 and has 5 approved and 32 investigational indications.
+Calcitriol or 1,25-dihydroxycholecalciferol (abbreviated 1,25-(OH)<sub>2</sub>-D3) is the active form of vitamin D found in the body (vitamin D3). Calcitriol is marketed under various trade names including Rocaltrol (Roche), Calcijex (Abbott) and Decostriol (Mibe, Jesalis). It is produced in the kidneys via 25-hydroxyvitamin D-1 &alpha;-hydroxylase by conversion from 25-hydroxycholecalciferol (calcidiol). This is stimulated by a decrease in serum calcium, phosphate (PO<sub>4</sub><sup>3-</sup>) and parathyroid hormone (PTH) levels. It regulates calcium levels by increasing the absorption of calcium and phosphate from the gastrointestinal tract, increasing calcium and phosphate reabsorption in the kidneys and inhibiting the release of PTH. Calcitriol is also commonly used as a medication in the treatment of hypocalcemia and osteoporosis.
+The physiologically active form of vitamin D. It is formed primarily in the kidney by enzymatic hydroxylation of 25-hydroxycholecalciferol (CALCIFEDIOL). Its production is stimulated by low blood calcium levels and parathyroid hormone. Calcitriol increases intestinal absorption of calcium and phosphorus, and in concert with parathyroid hormone increases bone resorption.
+Properties:safety: Acute Toxic and Health Hazard
+smiles: C[C@H](CCCC(C)(C)O)[C@H]1CC[C@@H]\2[C@@]1(CCC/C2=C\C=C/3\C[C@H](C[C@@H](C3=C)O)O)C
+formula: C27H44O3
+chem_properties: Molecular Weight: 416.6 g/mol
+XLogP3: 5.1
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 6
+Exact Mass: 416.32904526 Da
+Monoisotopic Mass: 416.32904526 Da
+Topological Polar Surface Area: 60.7
+Heavy Atom Count: 30
+Formal Charge: 0
+Complexity: 688
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 6
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 2
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

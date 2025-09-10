@@ -1,0 +1,11 @@
+Description:
+A compound used as a proton donor with altered acid-base properties upon excitation.
+
+Text:
+In this study, we chose 7hydroxycoumarinyl4acetic acid (7HC) as the PA 
+D and 6aminoquinoline (6AQ) as the PB A, respectively (Fig. 1c), which were designed to have 
+similar excitation energies to initiate the PT process in a controlled manner (2224). Upon 
+excitation, the acidbase properties of PAs and PBs are altered, resulting in a giant excitedstate 
+pKa gap (pKa11, see below), which serves as the PMF for the PT across the bridge (Fig. 1c). Here, we synthesized unnatural amino acids (UAAs) containing the PA and PB, thus enabling the 
+use of solidphase peptide synthesis (SPPS) to incorporate the proton D and A at desired positions 
+within peptides.

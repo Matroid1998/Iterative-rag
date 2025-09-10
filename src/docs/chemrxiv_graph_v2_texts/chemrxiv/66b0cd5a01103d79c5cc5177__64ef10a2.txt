@@ -1,0 +1,39 @@
+Description:
+A class of compounds investigated as candidates for singlet fission in photovoltaics.
+
+Text:
+4,5
+The implementation of SF in photovoltaics is however
+hampered by the lack of suitable materials fulfilling the
+requirements for SF (a) an energy of the lowest singlet
+state ES1 at least twice the one of the lowest triplet state
+ET1 (ES12T1  ES1 2ET1 0); 4 (b) a delocal
+ized or chargetransfer singlet exciton to promote direct
+or chargetransfer mediated singlet fission mechanisms, re
+spectively; 6 (c) triplets of sufficiently high energy for in
+jection into the conduction band of a semiconductor cell
+(ET1 Egap); 7 (d) synthesizability; and (e), photo and
+chemical stability. 8 Experimentally investigated SF can
+didate materials can be broadly classified as acene deriva
+tives, rylenediimides, diketopyrrolopyrroles and conjugated
+polymers.
+
+
+---
+
+Description:
+Derivatives are the most studied SF materials.
+
+Text:
+8 Acene derivatives are the most studied SF ma
+terials, and while their analysis has pushed the mechanis
+tic understanding of SF, 9 they do not constitute desirable
+materials for photovoltaic applications as they possess ei
+ther too low triplet energies for injection into common semi
+conductors (pentacenes) or slightly endothermic ES12T1
+(tetracenes and anthracenes). 8,10 Therefore, expanding the
+pool of SF materials is essential for realizing its potential in
+solar cell applications. Previous attempts at discovering molecules suitable for
+SF focused on modifications of known systems, such as
+tuning their diradical character, adjusting conjugation,
+or modifying heteroatom oxidation.

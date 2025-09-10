@@ -1,0 +1,14 @@
+Description:
+Precious metal used in phosphorescent complexes for applications like OLEDs and bioimaging.
+
+Text:
+Roomtemperature phosphorescence (RTP) from metalfree or
+ganic molecules has been an area of intense research.1 Although clas
+sical RTP materials has been used for diverse applications, including 
+organic lightemitting diodes (OLEDs) and bioimaging, they are 
+mainly preciousmetal complexes of Ir or Pt.2 Therefore, costeffec
+tive, lesstoxic, and sustainable metalfree alternatives are needed. However, intrinsic molecular RTP of metalfree phosphors has not 
+rivaled metal complexes. Organic RTP must overcome several challenges stemming from 
+the absence of heavymetal atoms. The most severe is the inherently 
+small phosphorescence transition probability (i.e., rate constant kp), 
+causing poor RTP quantum yields (p).

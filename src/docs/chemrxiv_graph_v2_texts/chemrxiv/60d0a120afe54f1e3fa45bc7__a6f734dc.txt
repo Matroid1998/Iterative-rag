@@ -1,0 +1,39 @@
+Description:
+A layered cathode material used in lithium-ion batteries.
+
+Text:
+The cathode is a critical component for lithiumion batteries
+(LIBs) to achieve high energy density, safe operation, and eco
+nomical viability. Despite many technological advances in LIBs,
+the cathode materials have barely evolved in the last 15 years. Those found in commercialised LIBs are still based on one of
+the three systems layered LiCoO2
+1, spinel LiMn2O4
+2 and olivine
+LiFePO4
+3, all of which were rst proposed more than two decades
+ago. Ironbased cathode materials are very attractive as Fe is one
+of the most abundant transition metal in the upper crust with
+very low production costs. LIBs with olivine LiFePO4 cathodes
+a Department of Chemistry, University College London, 20 Gordon St, Bloomsbury, Lon
+don WC1H 0AJ, United Kingdom. Email bonan.zhuucl.ac.uk, d.scanlonul.ac.uk.
+
+
+---
+
+Description:
+Only half of the Li can be extracted.
+
+Text:
+The use of largersized polyanion groups,
+however, places an upperlimit on the energy density, which in
+turn offsets some of the benets of the low cost. On the other
+hand, ironoxide based cathodes suffer from the low voltage due
+to the Fe2Fe3 redox10, while attempts to utilize the Fe3Fe4
+redox often leads to decomposition into other phases upon charg
+ing1113. Substituting one element with another has been a fruitful
+strategy for increasing the performance of cathode materials. Over the years, most of the research interests have been fo
+cusing on cationic substitution, and materials such as layered
+LiNixMnyCozO2
+14 have been reported to have improved re
+versible capacity over LiCoO2  only half of the Li can be extracted
+in the latter.

@@ -1,0 +1,26 @@
+Name: Sulfuryl chloride
+Text:
+Sulfuryl chloride appears as a colorless fuming liquid with a pungent odor. Very toxic by inhalation. Corrosive to metals and tissue.
+Sulfuryl dichloride is a sulfuryl halide.
+Properties:safety: Corrosive and Irritant
+smiles: O=S(=O)(Cl)Cl
+formula: Cl2O2S
+chem_properties: Molecular Weight: 134.97 g/mol
+XLogP3: 1.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 133.8996058 Da
+Monoisotopic Mass: 133.8996058 Da
+Topological Polar Surface Area: 42.5
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 85.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

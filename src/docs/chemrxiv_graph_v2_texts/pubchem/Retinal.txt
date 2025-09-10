@@ -1,0 +1,29 @@
+Name: Retinal
+Text:
+All-trans-retinal is a retinal in which all four exocyclic double bonds have E- (trans-) geometry. It has a role as a gap junctional intercellular communication inhibitor, a human metabolite and a mouse metabolite. It is a retinal and a vitamin A.
+Retinal is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Retinal has been reported in Suberites domuncula, Homo sapiens, and other organisms with data available.
+A diterpene derived from the carotenoid VITAMIN A which functions as the active component of the visual cycle. It is the prosthetic group of RHODOPSIN (i.e., covalently bonded to ROD OPSIN as 11-cis-retinal). When stimulated by visible light, rhodopsin transforms this cis-isomer of retinal to the trans-isomer (11-trans-retinal). This transformation straightens-out the bend of the retinal molecule and causes a change in the shape of rhodopsin triggering the visual process. A series of energy-requiring enzyme-catalyzed reactions convert the 11-trans-retinal back to the cis-isomer.
+See also: 13-cis-Retinal (annotation moved to); 9-Cis-Retinal (annotation moved to).
+Properties:safety: Irritant and Health Hazard
+smiles: CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C=O)/C)/C
+formula: C20H28O
+chem_properties: Molecular Weight: 284.4 g/mol
+XLogP3: 6.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 5
+Exact Mass: 284.214015512 Da
+Monoisotopic Mass: 284.214015512 Da
+Topological Polar Surface Area: 17.1
+Heavy Atom Count: 21
+Formal Charge: 0
+Complexity: 522
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 4
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

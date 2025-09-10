@@ -1,0 +1,25 @@
+Description:
+Involved in Pd-catalyzed carbon-halogen insertion reactions.
+
+Text:
+This 
+32 
+fundamental importance has led to the use of BDE (and its free energy counterpart) values across 
+33 
+multiple domains in chemistry, ranging from the determination of possible reaction mechanisms 
+34 
+to computational mass spectroscopy.1 For example, BDE values have been used to assess the 
+35 
+difference in bond strengths of primary, secondary, and tertiary CH bonds,2 to quantify the 
+36 
+geometric deformation necessary to reach the transition structures for Pdcatalyzed carbon
+37 
+halogen insertion,3 for the prediction of likely molecular fragments observed in the mass spectra 
+38 
+of short peptides4, breakdown of large biomass such as lignin5, comparing the stability of organic 
+39 
+radicals6 and design of de novo radicals for organic redox flow batteries.7 Due to the broad utility 
+40 
+and applicability of BDE values, significant effort has been invested in obtaining quantitative 
+41 
+measurements.

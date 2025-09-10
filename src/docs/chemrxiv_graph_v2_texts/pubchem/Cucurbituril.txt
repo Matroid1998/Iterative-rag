@@ -1,0 +1,25 @@
+Name: Cucurbituril
+Text:
+Cucurbit[6]uril is a cucurbituril.
+Properties:safety: Irritant
+smiles: C1N2C3C4N(C2=O)CN5C6C7N(C5=O)CN8C9C2N(C8=O)CN5C8C%10N(C5=O)CN5C%11C%12N(C5=O)CN5C%13C(N1C5=O)N1CN3C(=O)N4CN6C(=O)N7CN9C(=O)N2CN8C(=O)N%10CN%11C(=O)N%12CN%13C1=O
+formula: C36H36N24O12
+chem_properties: Molecular Weight: 996.8 g/mol
+XLogP3: -6.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 12
+Rotatable Bond Count: 0
+Exact Mass: 996.29445268 Da
+Monoisotopic Mass: 996.29445268 Da
+Topological Polar Surface Area: 283
+Heavy Atom Count: 72
+Formal Charge: 0
+Complexity: 2140
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,24 @@
+Name: Calcium Silicate
+Text:
+See also: Calcium Cation (has active moiety) ... View More ...
+Properties:safety: Irritant
+smiles: [O-][Si]([O-])([O-])[O-].[Ca+2].[Ca+2]
+formula: Ca2O4Si
+chem_properties: Molecular Weight: 172.24 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 171.8817667 Da
+Monoisotopic Mass: 171.8817667 Da
+Topological Polar Surface Area: 92.2
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 19.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

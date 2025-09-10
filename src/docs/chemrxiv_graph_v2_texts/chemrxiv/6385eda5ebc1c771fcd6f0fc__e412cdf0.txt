@@ -1,0 +1,21 @@
+Description:
+A one-dimensional chain SBU in MIL53(Sc) with a labile bridging 2OH ligand.
+
+Text:
+Kinetically labile bonds between metals and ligands can allow access to coordinatively unsaturated 
+metal sites24 that endow MOFs with catalytic properties,57 enhance their interactions with sorbates 
+such as H2,811 and offer potential sensing mechanisms.1214 Dynamic SBU solvent substitution can 
+facilitate structural flexibility15,16 and metalion exchange,17,18 while also offering routes to pore 
+functionalisation through linker exchange,1822 linker incorporationgrafting,2326 and defect 
+substitution.2733 Coordinative exchange reactions may also be responsible for MOF degradation, for 
+example through hydrolysis.34 To date, most studies on such reactions within MOFs focus on either 
+binding and removal of neutral solvent molecules,35 or direct exchange of carboxylate andor 
+pyridylbased ligands, despite the fact that a significant number of commonly observed SBUs 
+contain bridging oxo or hydroxo ligands.36 Some of us have recently developed solidstate (and in 
+particular 17O) NMR spectroscopy as a valuable analytical tool to study structural and chemical 
+changes in microporous materials such as MOFs and zeolites.3740 In doing so, we have shown that 
+the bridging 2OH ligand in the onedimensional chain SBU of MIL53(Sc), ScOH(BDC)n (BDC 
+ 1,4benzenedicarboxylate), is labile, observing up to 25 enrichment with 17O by reaction with 
+H217O (90 17O) under hydrothermal conditions (200 C, 72 h).38 Allied to the fact that MIL53 
+analogues are known with alternative anionic4143 and neutral4446 bridging ligands, this suggests a 
+rich potential reactivity at this particular SBU.

@@ -1,0 +1,7 @@
+Description:
+A material for which electronic density of states (eDOS) can be predicted using a sparse Gaussian process regression model.
+
+Text:
+Mahmoud et al.30 proposed a sparse Gaussian process regression model to predict 
+the electronic density of states (eDOS) of silicon structures. In this research, we present a sophisticated deep learning model developed for DOS calculations. The model incorporates essential 
+structural information, pair distribution function, and atomic embedding representations as its input parameters. By combining these

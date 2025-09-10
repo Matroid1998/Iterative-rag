@@ -1,0 +1,15 @@
+Description:
+Applied in photothermal therapy, drug delivery, and sensing due to strong light absorption from Localized Surface Plasmon Resonance.
+
+Text:
+Nanoparticles (NPs) have been extensively studied over the past decades due to their unique 
+chemical and physical properties.1 Their intrinsic optical properties, in particular, have been 
+widely exploited in biomedical applications.2 For example, fluorescent nanoparticles such as 
+quantum dots (QD) and carbon dots (CD) are used in bioimaging.3,4 Additionally, plasmonic 
+nanoparticles, such as gold nanoparticles (AuNPs) and silver nanoparticles (AgNPs), are 
+applied in photothermal therapy5, drug delivery6 and sensing,7 owing to their strong light 
+absorption, with extinction coefficients exceeding 108 M1 cm1, arising from their Localized 
+Surface Plasmon Resonance (LSPR).8 Other nanoparticles, including dyedoped latex beads, 
+cellulose nanobeads, and magnetic iron oxide nanoparticles (IONPs), are also used in various 
+biomedical applications and can exhibit interesting, though more limited, optical properties.9 
+For biomedical applications, nanoparticles must possess several key features.

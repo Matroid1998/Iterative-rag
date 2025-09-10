@@ -1,0 +1,9 @@
+Description:
+Acts as a ligand in the formation of a homoleptic, 6-coordinate complex with Co(1)(ClO4)2.
+
+Text:
+It is important to note that attempts to synthesize a noninterlocked equivalent to Co(1)(ClO4)2 results in formation of a 
+homoleptic, 6coordinate complex incorporating two pyridine bistriazole ligands, whereas the rotaxane framework enforces the 
+formation of a pseudoheteroleptic complex and prevents binding of additional ligands, to give a predictable, if relatively rare, 5 
+coordinate allneutral Ndonor distorted squarebased pyramidal (sbpy) binding mode. Two independent molecular structures with different bond lengths (RMSD  0.12 , Table S1) were observed in the asymmetric 
+unit of Co(1)(ClO4)2, leading us to suspect that high spin (HS) and low spin (LS) configurations coexist in the solid state.

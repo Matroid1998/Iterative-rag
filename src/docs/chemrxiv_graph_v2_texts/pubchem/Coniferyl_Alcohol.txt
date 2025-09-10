@@ -1,0 +1,27 @@
+Name: Coniferyl Alcohol
+Text:
+Coniferol is a phenylpropanoid that is one of the main monolignols, produced by the reduction of the carboxy functional group in cinnamic acid and the addition of a hydroxy and a methoxy substituent to the aromatic ring. It has a role as a monolignol, a mouse metabolite, a pheromone, an animal metabolite, a plant metabolite and a volatile oil component. It is a phenylpropanoid and a member of guaiacols. It is functionally related to an (E)-cinnamyl alcohol.
+Coniferyl alcohol has been reported in Magnolia officinalis, Paecilomyces fulvus, and other organisms with data available.
+See also: Polignate Sodium (monomer of); Ammonium lignosulfonate (monomer of); Calcium lignosulfonate (20000 MW) (monomer of) ... View More ...
+Properties:safety: Irritant
+smiles: COC1=C(C=CC(=C1)/C=C/CO)O
+formula: C10H12O3
+chem_properties: Molecular Weight: 180.20 g/mol
+XLogP3: 1.4
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 3
+Exact Mass: 180.078644241 Da
+Monoisotopic Mass: 180.078644241 Da
+Topological Polar Surface Area: 49.7
+Heavy Atom Count: 13
+Formal Charge: 0
+Complexity: 168
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,26 @@
+Description:
+Used in metal-organic batteries and lithium-ion batteries.
+
+Text:
+In addition, 
+some organic electrodes can be obtained from biomass and 
+recycled.12 However, one of the main limitations of organic 
+electrode materials (especially small organic molecules) is their 
+high solubility in the electrolyte, resulting in rapid capacity 
+fading.9 An efficient strategy to overcome such solubility issues 
+is to covalently bind electroactive monomers to form organic 
+polymers, which are normally insoluble in aqueous and organic 
+electrolytes.13,14 
+After their discovery in the late 1970s,15 many conductive 
+polymers were explored as electrodes in lithium metalorganic 
+batteries, and even some companies (BridgestoneSeiko and 
+VartaBASF) developed commercial batteries based on 
+poly(pyrrole) and poly(aniline) as active electrode materials.14 
+Nevertheless, such polymerbased batteries were quickly 
+discontinued due to selfdischarge issues and poor performance 
+compared to lithiumion batteries, which were commercialised 
+by Sony in 1991.16 After a period where organic electrodes 
+received less attention, the discovery of organic radical 
+batteries17,18 and the bright future for organic batteries 
+vaticinated by Armand and Tarascon in 20083 revived the field 
+with a remarkable progress in the last 15 years.

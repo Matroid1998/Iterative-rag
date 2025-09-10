@@ -1,0 +1,18 @@
+Description:
+A proposed electrolyte solution for magnesium-ion batteries.
+
+Text:
+These benefits are reflected in the exponentially increasing number 
+of publications that have recently been dedicated to the topic of MIBs, as shown in Figure 1 
+from the publication by Li et al.11 On the other hand, a great deal of effort is required to find 
+suitable electrolytes that allow reversible magnesium deposition while at the same time 
+providing a broad electrochemical window.9,12 Conventional carbonate electrolytes cannot be 
+used for rechargeable MIBs because the solid electrolyte interface (SEI) formed by 
+decomposition products of the electrolyte is not permeable to magnesium, in contrast to 
+lithiumcations.10,13 Proposed solutions are electrolytes based on Grignard reagents, 
+Mg(TFSI)2 salts or ionic liquids, as well as the use of polymeric interlayers as artificial SEI.13,14 
+Nevertheless, the structure and growth mechanism of SEI formation remains poorly 
+understood due to its high complexity, highlighting the need for adequate theoretical modeling 
+on different time and length scales.15 
+The second controversial issue is whether dendrite formation is possible on metallic 
+magnesium anodes.

@@ -1,0 +1,19 @@
+Description:
+An isotope of hydrogen used in deuterated buffers for HD exchange in proteins.
+
+Text:
+In HDX
+63 
+MS, a protein is diluted into a deuterated buffer enabling HD exchange of its labile backbone amide 
+64 
+hydrogens. This reaction is quenched at different time intervals by dropping pH and temperature to 2.5 
+65 
+and 0 C, respectively. The quenched protein sample is then digested by an acidlabile protease (e.g. pepsin) 
+66 
+into peptides and the incorporation of deuterium measured by liquid chromatography (LC)MS analysis. 67 
+Post deuterium labeling, however, lipids can cause manifold issues in the bottomup HDXMS workflow15. 68 
+These problems range from a reduced protein digestion efficiency due to potential interference with the 
+69 
+protease, to fouling of the liquid chromatography system, peptidelipid coelution that adds to spectral 
+70 
+complexity, and peptide ion suppression. 71

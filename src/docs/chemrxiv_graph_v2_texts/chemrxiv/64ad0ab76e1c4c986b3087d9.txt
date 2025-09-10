@@ -1,0 +1,10 @@
+Description:
+A molecule involved in an exothermic gas-phase reaction with the cyano radical.
+
+Text:
+The gasphase reaction between the cyano radical and the ethane molecule presents some 
+interesting points for theoretical study i) It is an exothermic reaction, with a low barrier 
+height (even barrierless), which appears early on the reaction path, i.e., close to the 
+reactants; ii) It presents a heavylightheavy mass combination (HLH) with a linear 
+transition state, and a small skew angle,  15.2,  being the angle between the entrance 
+and exit channels in massweighted coordinates.

@@ -1,0 +1,27 @@
+Description:
+Its content in MnxFe3xO4 affects magnetic properties such as anisotropy and saturation magnetization.
+
+Text:
+Manganese ferrite nanoparticles (MnxFe3xO4 MNPs) have attracted considerable attention for their 
+potential applications in magnetic hyperthermia therapy (MHT) and magnetic resonance imaging 
+(MRI)1. The substitution of Fe2 by Mn2 in the spinel structure can significantly alter their magnetic 
+anisotropy, saturation magnetization (Ms), heating, and contrast efficiency due to the changes in their 
+structural properties, including crystal structure, crystallite size, and lattice parameter2,3,4. While the 
+impact of the Mn2 content on the magnetic properties has been investigated in recent years using 
+many different MnxFe3xO4 MNPs,5,6,7,8 a direct correlation between the Mn2 content and the magnetic 
+properties is not yet clear.
+
+
+---
+
+Description:
+Content that influences lattice parameters and crystallite size in MnxFe3xO4 nanoparticles.
+
+Text:
+For instance, a broad range of MnxFe3xO4 MNPs (0  x 1) prepared by the coprecipitation method 
+showed a monotone increase of lattice parameters and heating capacity as the Mn2 content increased, 
+although these results could not be exclusively attributed to the Mn2 content due to the size dispersion 
+between samples9. Conversely, other authors did not find a correlation between Mn2 content and their 
+magnetic properties7,10,11 or reported that the net Ms values did not follow an increasing tendency as 
+Mn2 content increased5, even when a correlation between crystallite size and Mn2 content was 
+observed.

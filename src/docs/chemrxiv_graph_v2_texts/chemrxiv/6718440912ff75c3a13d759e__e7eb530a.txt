@@ -1,0 +1,21 @@
+Description:
+Intermediate products typically accompanying decomposition reactions.
+
+Text:
+One loss mechanism, often classified as a true irreversibility, is cyclinginduced (electrochemical)
+SE oxidation at the positive electrode interface.5, 7 During charging, the SE is susceptible to
+oxidation as the voltage of NMC surpasses 2.3 V vs. LiLi.5, 8 Specifically, a simplified LPSC
+reaction pathway includes
+Li6PS5Cl LiCl  Li3PS4  S  2Li  2e
+(1)
+Li3PS4 1
+2P2S5 3
+2S  3Li  3e
+(2)
+Although not explicitly included, these decomposition reactions are typically accompanied by inter
+mediate polysulfide products.911 Electrochemically, this SE oxidation is thought to be associated
+with a 25 mAh g1
+NMC shoulder in the voltage vs. capacity curve at the onset of firstcycle charging
+(between 3.03.6V vs. LiLi).12 While evidence shows the relationship between this shoulder
+and electrode area,13, 14 there is not definitive understanding whether the shoulder results from
+SE oxidation or from other processes that depend on electrode area.

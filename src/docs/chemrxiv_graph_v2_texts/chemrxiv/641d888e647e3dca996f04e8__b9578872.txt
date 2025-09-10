@@ -1,0 +1,12 @@
+Description:
+Introduced between layers in zeolite precursors to increase the number of Si members in the ring limiting the pores.
+
+Text:
+While zeolites typically crystallize as threedimensional (3D) fully connected framework materials,4 
+called tectosilicates when silica based,5 there exist examples of layered zeolite precursors that only 
+form the final zeolite by a postsynthetic 2D3D topotactic condensation.6,7 The 2D layered precursors 
+have been shown to also offer the opportunity to produce expanded versions of the corresponding 
+zeolite by an intralayer expansion reaction of the layered precursor with a silylating agent.8,9,10 This 
+reaction introduces Si atoms between the layers, thus increasing the number of Si members in the ring 
+limiting the pores.11 The obtained materials are called Interlayered Expanded Zeolites (IEZ), although
+we propose to use a different acronym, ILEZ, for reasons that will be obvious below.

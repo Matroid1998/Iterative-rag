@@ -1,0 +1,13 @@
+Description:
+A covalent crosslinking strategy used in chemical reactions.
+
+Text:
+Systems with reaction rates that are tunable by small changes 
+in pH, temperature, or buffer concentration are particularly interesting because they can be 
+adapted to facilitate handling in different processing scenarios. Ideally, the crosslinking reaction 
+should also be bioorthogonal, render stable bonds in physiological millieau and use cost
+effective precursors. The most popular covalent crosslinking strategies are radicalmediated 
+acrylic2 and thiolene3 polymerizations, Schiffbase formation,4 cycloadditions5, and thiol
+mediated Michaeltype additions, which exhibit some but not all of these desirable features.6 
+Developing a crosslinking platform that brings all the favorable characteristics together remains 
+a challenge and motivates researchers to expand the present chemical toolkit.

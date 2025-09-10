@@ -1,0 +1,31 @@
+Name: Vanillin
+Text:
+Vanillin appears as white or very slightly yellow needles.
+Vanillin is a member of the class of benzaldehydes carrying methoxy and hydroxy substituents at positions 3 and 4 respectively. It has a role as a plant metabolite, an anti-inflammatory agent, a flavouring agent, an antioxidant and an anticonvulsant. It is a member of phenols, a monomethoxybenzene and a member of benzaldehydes.
+Vanilla allergenic extract is used in allergenic testing.
+Vanillin has been reported in Humulus lupulus, Ficus erecta var. beecheyana, and other organisms with data available.
+Vanillin is the primary component of the extract of the vanilla bean. Synthetic vanillin, instead of natural vanilla extract, is sometimes used as a flavouring agent in foods, beverages, and pharmaceuticals. It is used by the food industry as well as ethylvanillin.Artificial vanilla flavoring is a solution of pure vanillin, usually of synthetic origin. Because of the scarcity and expense of natural vanilla extract, there has long been interest in the synthetic preparation of its predominant component. The first commercial synthesis of vanillin began with the more readily available natural compound eugenol. Today, artificial vanillin is made from either guaiacol or from lignin, a constituent of wood which is a byproduct of the paper industry. (Wiki).
+Vanillin is a metabolite found in or produced by Saccharomyces cerevisiae.
+See also: Oils, vanilla (annotation moved to).
+Properties:safety: Irritant
+smiles: COC1=C(C=CC(=C1)C=O)O
+formula: C8H8O3
+chem_properties: Molecular Weight: 152.15 g/mol
+XLogP3: 1.2
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 2
+Exact Mass: 152.047344113 Da
+Monoisotopic Mass: 152.047344113 Da
+Topological Polar Surface Area: 46.5
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 135
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

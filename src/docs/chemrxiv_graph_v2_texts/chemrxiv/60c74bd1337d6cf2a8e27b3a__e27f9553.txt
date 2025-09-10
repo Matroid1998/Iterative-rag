@@ -1,0 +1,19 @@
+Description:
+Radicals that significantly impact ignition timing and multistage heat release in isobutanol combustion.
+
+Text:
+perature. While several aspects of isobutanol combustion chemistry
+have been studied in detail, such as the initial hydrogen ab
+straction by OH13 and the oxidation of its smaller oxidation
+products,14 accurate pressuredependent kinetics of peroxy
+radicals formed in isobutanol combustion has not been fully
+developed nor incorporated into detailed models. This is in
+spite of some isobutanol studies showing that ignition delay
+is sensitive to peroxy radical reactions.8,10 Given the sensi
+tivity of this fuel to equivalence ratio and pressure,5 the for
+mation and fate of peroxy radicals can signicantly impact
+ignition timing and multistage heat release.12,15 Peroxy rad
+ical chemistry is also expected to control the environmental
+fate of isobutanol emitted into the environment, since peroxy
+radicals are also key intermediates in atmospheric degradation
+processes.

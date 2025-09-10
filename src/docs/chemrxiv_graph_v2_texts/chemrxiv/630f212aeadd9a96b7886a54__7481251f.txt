@@ -1,0 +1,12 @@
+Description:
+Reactive molecules that interact with nitric oxide to mediate its oxidation-nitration effects.
+
+Text:
+Nitric oxide (NO) is one of the major prooxidant molecules, necessary for multiple physiological 
+processes (Kaludercic et al., 2016; Radi, 2018). Its functions are mediated mainly by its nitrosylating 
+effects for specific proteins or the oxidationnitration of others following NO interactions with various 
+reactive oxygen species (ROS) (Williams et al., 2011; Lee et al., 2020). Triplenegative breast cancer 
+(TNBC) is a highly aggressive type of cancer with a high risk of recurrence, mainly within a few years of 
+treatment (van Roozendaal et al., 2016). A correlation has been reported between the overexpression 
+of inducible nitric oxide synthase (iNOS) in patients with TNBC and its progression (Heinecke et al., 
+2014; Basudhar et al., 2017).

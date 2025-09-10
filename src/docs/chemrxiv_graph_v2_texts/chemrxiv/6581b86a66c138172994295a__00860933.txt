@@ -1,0 +1,19 @@
+Description:
+Shows a negative correlation between ionic conductivity and pressure.
+
+Text:
+7, 8 In 
+42 
+addition, the application of pressure can have an impact on the ionic conductivity of solid 
+43 
+electrolytes since compression results in a lowering of the accessible volume for ions. A 
+44 
+representative example for the effect on crystal structure on the pressure dependence of ionic 
+45 
+conductivity is (Li, Na, K)Al2O3. While the conductivity of LiAl2O3 has a positive correlation 
+46 
+with pressure, the mobility of larger Naions in Al2O3 is mostly indifferent to pressure 
+47 
+changes. On the contrary, increasing the ionic radius as in KAl2O3 results in a negative 
+48 
+correlation with pressure.

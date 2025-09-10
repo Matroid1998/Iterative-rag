@@ -1,0 +1,26 @@
+Name: 3-Hydroxycoumarin
+Text:
+3-hydroxy-1-benzopyran-2-one is a hydroxycoumarin.
+3-Hydroxycoumarin has been reported in Laggera pterodonta, Petchia erythrocarpa, and other organisms with data available.
+Properties:safety: Irritant
+smiles: C1=CC=C2C(=C1)C=C(C(=O)O2)O
+formula: C9H6O3
+chem_properties: Molecular Weight: 162.14 g/mol
+XLogP3: 1.8
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 162.031694049 Da
+Monoisotopic Mass: 162.031694049 Da
+Topological Polar Surface Area: 46.5
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 232
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,10 @@
+Description:
+A small monovalent cation used in the composition of halide perovskites.
+
+Text:
+The favourable optoelectronic properties of halide perovskite nanocrystals (NCs), such as their energetic 
+tunability,1,2 fast radiative rates,3 and high photoluminescence quantum yields (PLQYs)4 make them 
+attractive for a variety of optoelectronic applications.5 Those include lightemitting diodes,6 lasers,7 
+photovoltaics,8 photodetectors,9 photocatalysis,10,11 and quantum light sources.1214 In general, halide 
+perovskites are of ABX3 composition, where A is a small monovalent cation, such as Cs, B is a divalent 
+metal cation, most commonly Pb2, and X is a halide, (Cl, Br, or I).

@@ -1,0 +1,16 @@
+Description:
+A complex metal oxide studied for its cation release mechanism and lattice stability using DFT Thermodynamics.
+
+Text:
+of
+these materials into the environment. Outside of sealed operational conditions, it has
+been demonstrated that complex metal oxides can transform in the environment, and
+cause negative biological impact through leaching of cations into aqueous phases. Using
+a combined DFT  Thermodynamics analysis, insights into the mechanism and driving
+forces of cation release can be studied at the molecularlevel. Here, we describe design
+principles that can be drawn from previous collaborative research on complex metal
+oxide dissoltuion of the Li(NiyMnzCo1yz)O2 family of materials, and go on to posit
+ternary complex metal oxides in the delafossite structure type with controlled release
+behavior. Using equistoichiometric formulations, we use DFT  Thermodynamics to
+model cation release. The trends are discussed in terms of lattice stability, solution
+chemistrysolubility limits, and electronicmagnetic properties.

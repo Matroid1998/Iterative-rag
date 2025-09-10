@@ -1,0 +1,34 @@
+Description:
+A ring motif featured in bioactive molecules.
+
+Text:
+Direct functionalization of the extensive existing library of lead compounds with unconventional ring motifs opens 
+up exciting new chemical space for medicinal chemists (Figure 1A).1 However, introducing such rings is often 
+more challenging than synthesizing the lead compounds themselves. In this context, several elegant 
+approaches have emerged for directly attaching unique ring motifs, such as bicyclopentanes,2 cubanes,3 
+cyclobutanes,2ac,4 oxetanes,5 and azetidines,2a,2b,6 to biorelevant structures, allowing practitioners to refocus 
+on the challenge of synthesizing molecular scaffolds rather than the difficulties posed by these unique ring 
+systems. 2a,2b 
+
+As a class of privileged ring motifs, azetidines, small and strained nitrogencontaining heterocycles, offer various 
+desirable attributes for drug development, such as innate rigidity, enhanced solubility, and improved metabolic 
+stability.1a,7 Figure 1B showcases some representative bioactive molecules featuring the azetidine ring.
+
+
+---
+
+Description:
+Can serve as bioisosteric replacements for pyrrolidine, piperidine, and the phenyl ring.
+
+Text:
+Furthermore, the azetidine can serve as bioisosteric replacements for pyrrolidine,8 piperidine,9 and the phenyl 
+ring.10 For instance, in the study of the 5HT2C agonist (Figure 1B, last example), replacing piperidine with 
+azetidine led to enhanced potency.11 However, despite these advantages, azetidine remains relatively 
+underexplored in drug discovery campaigns compared to its ubiquitous congeners, pyrrolidine and piperidine, 
+likely due to the significant synthetic challenges.12 
+httpsdoi.org10.26434chemrxiv20244kzrn ORCID httpsorcid.org0000000229630378 Content not peerreviewed by ChemRxiv. License CC BY 4.0
+
+2 
+
+Figure 1. Introduction. (A) Direct installation of unconventional ring motifs onto lead compounds opens up exciting new chemical space. (B) Representative bioactive functionalized azetidines. (C) Stateoftheart methods for the direct installation of azetidine rings onto lead 
+compounds and this work.

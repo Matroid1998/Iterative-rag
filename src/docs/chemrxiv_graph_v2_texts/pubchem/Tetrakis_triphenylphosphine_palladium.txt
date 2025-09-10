@@ -1,0 +1,24 @@
+Name: Tetrakis(triphenylphosphine)palladium
+Text:
+Tetrakis(triphenylphosphine)palladium(0) is a coordination complex of palladium. It is widely used as a catalyst for coupling reactions. Palladium is a chemical element with the chemical symbol Pd and an atomic number of 46. It is found as a free metal alloyed with gold and other platinum group metals and in the rare minerals cooperite and polarite. (L794, L806)
+Properties:safety: Irritant
+smiles: C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.[Pd]
+formula: C72H60P4Pd
+chem_properties: Molecular Weight: 1155.6 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 12
+Exact Mass: 1154.26803 Da
+Monoisotopic Mass: 1154.26803 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 77
+Formal Charge: 0
+Complexity: 202
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 5
+Compound Is Canonicalized: Yes 
+

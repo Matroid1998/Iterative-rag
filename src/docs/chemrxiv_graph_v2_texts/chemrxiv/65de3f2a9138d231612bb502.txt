@@ -1,0 +1,13 @@
+Description:
+Materials composed of a transition metal atom covalently connected to two chalcogen atoms in a hexagonal lattice.
+
+Text:
+Transition metal dichalcogenides (TMDs) are a group of materials that are composed of a 
+transition metal atom M from Group III or IV covalently connecting to two chalcogen atoms X in 
+a hexagonal lattice. 1 The layered structure exhibits weak interlayer van der Walls interaction, 
+which reduces the electrostatic screening and thereby gives rise to novel manybody interactions 
+between charge carriers2. At the monolayer limit, the reduced dimensionality, combined with 
+the reduction of screening for Coulomb interactions, leads to the emergence of various robust 
+quasiparticles even at room temperature. These includes excitons3, trions4 and biexciton5, 
+several of which are unattainable in other systems6,7. Trions, for instance, are one such charged 
+excitons, i.e. one exciton bounded with an additional charge carrier.

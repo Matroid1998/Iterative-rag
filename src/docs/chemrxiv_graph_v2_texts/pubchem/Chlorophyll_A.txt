@@ -1,0 +1,26 @@
+Name: Chlorophyll A
+Text:
+Chlorophyll is a porphyrin derivative conjugated with a magnesium ion that is found in plant chloroplasts, algae and cyanobacteria. Chlorophyll is essential to the process of photosynthesis. It absorbs light in the blue and red parts of the visible spectrum and transfers the absorbed photon energy to an electron, which is used to produce ATP.
+A form of chlorophyll that absorbs light in the violet to red spectrum (approximately 400-700 nm wavelength range) and reflects green light (500-570 nm wavelength), which imparts the characteristic green color to land plants. It is essential for oxygenic PHOTOSYNTHESIS.
+See also: Chlorophyll (annotation moved to).
+Properties:safety: Health Hazard
+smiles: CCC1=C(C2=NC1=CC3=C(C4=C([N-]3)C(=C5[C@H]([C@@H](C(=N5)C=C6C(=C(C(=C2)[N-]6)C=C)C)C)CCC(=O)OC/C=C(\C)/CCC[C@H](C)CCC[C@H](C)CCCC(C)C)[C@H](C4=O)C(=O)OC)C)C.[Mg+2]
+formula: C55H72MgN4O5
+chem_properties: Molecular Weight: 893.5 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 9
+Rotatable Bond Count: 22
+Exact Mass: 892.5353131 Da
+Monoisotopic Mass: 892.5353131 Da
+Topological Polar Surface Area: 96.4
+Heavy Atom Count: 65
+Formal Charge: 0
+Complexity: 2130
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 5
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

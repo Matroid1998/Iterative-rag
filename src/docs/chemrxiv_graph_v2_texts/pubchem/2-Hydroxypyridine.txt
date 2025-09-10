@@ -1,0 +1,26 @@
+Name: 2-Hydroxypyridine
+Text:
+Pyridin-2-ol is a monohydroxypyridine that is pyridine substituted by a hydroxy group at position 2. It has a role as a plant metabolite.
+2-Hydroxypyridine has been reported in Perilla frutescens, Lotus burttii, and other organisms with data available.
+Properties:safety: Acute Toxic and Irritant
+smiles: C1=CC(=O)NC=C1
+formula: C5H5NO
+chem_properties: Molecular Weight: 95.10 g/mol
+XLogP3: -0.6
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 95.037113783 Da
+Monoisotopic Mass: 95.037113783 Da
+Topological Polar Surface Area: 29.1
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 135
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

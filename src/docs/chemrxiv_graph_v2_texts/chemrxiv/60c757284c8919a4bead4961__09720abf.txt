@@ -1,0 +1,10 @@
+Description:
+An early transition metal atom represented by M in the chemical formula of MXene.
+
+Text:
+The twodimensional (2D) materials have become very popular as reliable electrode materials for energy storage. Their
+large specic surface areas offer a higher number of electrochemically active sites to store ions compared to that of bulk
+counterparts. This allows 2D electrodes to have enhanced capacities. Due to the reduced distance between those active
+sites in the nanosheets, fast charging and discharging rates can be achieved 6, 7 while good power densities can be
+also be obtained. MXene is a large family of 2D materials with a general chemical formula of Mn1XnTx where M is
+an early transition metal atom, X represents C orand N atom, and T indicates the surface termination 8, 9.

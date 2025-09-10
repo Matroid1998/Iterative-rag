@@ -1,0 +1,20 @@
+Description:
+A transition metal layer in TMD sheets, adopting trigonal-prismatic or octahedral coordination.
+
+Text:
+Motivated by the novel properties and emerging appli
+cation possibilities, twodimensional materials (2DM)
+have been extensively investigated, with discoveries
+surging in recent years16. Among them, transition
+metal dichalcogenide (TMD) layers have gained par
+ticular interest because of their unique properties, fa
+cilitated by different elements and stacking polytypes. Each TMD sheet consists of a transitionmetal layer
+(Mo, W, etc.) stacked between two chalcogen layers
+(S, Se, or Te). Atoms within the sheet form strong
+ioniccovalent bonds, with transition metals adopting
+trigonalprismatic (2H) or octahedral (1T) coordina
+tion. In contrast, the interactions between individual
+threelayer sheets are limited to van der Waals (vdW)
+attraction, which has allowed micromechanical exfolia
+tion and intercalation of foreign species into the vdW
+gaps of the TMD sheets.

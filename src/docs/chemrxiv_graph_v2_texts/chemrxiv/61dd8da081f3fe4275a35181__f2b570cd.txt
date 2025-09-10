@@ -1,0 +1,18 @@
+Description:
+A polymorph of TiO2 with a surface energy of 1.0 J/m².
+
+Text:
+The values of the surface energies of the three polymorphs of TiO2 are given in Table 1. Table 1. Values of Surface energies of the three polymorphs of TiO2 
+Polymorphs of TiO2 
+Surface energyJm2 
+TiO2 (Rutile) 
+TiO2 (Brookite) 
+TiO2 (Anatase) 
+2.2  0.2 
+1.0  0.2 
+0.4  0.1 
+Coreshell model 
+A few remarks on this system are appropriate. These are 
+20 
+(1) The core shell structure possibly alters the relative electronic structure of the system so as to be facile for photocatalytic reaction and 
+for charge separation and transfer. (2) The thickness of the shell (Anatase) may be optimum so as to provide adequate amount of surface adsorption and activation sites.

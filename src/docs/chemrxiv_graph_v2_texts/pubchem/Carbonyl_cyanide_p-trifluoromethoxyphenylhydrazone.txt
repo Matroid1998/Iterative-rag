@@ -1,0 +1,28 @@
+Name: Carbonyl cyanide p-trifluoromethoxyphenylhydrazone
+Text:
+Carbonyl cyanide p-trifluoromethoxyphenylhydrazone is a hydrazone that is hydrazonomalononitrile in which one of the hydrazine hydrogens is substituted by a p-trifluoromethoxyphenyl group. It has a role as an ionophore, an ATP synthase inhibitor and a geroprotector. It is a hydrazone, a nitrile, an organofluorine compound and an aromatic ether. It is functionally related to a hydrazonomalononitrile.
+Carbonyl cyanide p-trifluoromethoxyphenylhydrazone has been reported in Purpureocillium lilacinum and Microcoleus autumnalis with data available.
+Carbonyl cyanide-p-trifluoromethoxyphenylhydrazone is a chemical compound of cyanide.
+A proton ionophore that is commonly used as an uncoupling agent in biochemical studies.
+Properties:safety: Acute Toxic and Irritant
+smiles: C1=CC(=CC=C1NN=C(C#N)C#N)OC(F)(F)F
+formula: C10H5F3N4O
+chem_properties: Molecular Weight: 254.17 g/mol
+XLogP3: 3.7
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 3
+Exact Mass: 254.04154528 Da
+Monoisotopic Mass: 254.04154528 Da
+Topological Polar Surface Area: 81.2
+Heavy Atom Count: 18
+Formal Charge: 0
+Complexity: 388
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

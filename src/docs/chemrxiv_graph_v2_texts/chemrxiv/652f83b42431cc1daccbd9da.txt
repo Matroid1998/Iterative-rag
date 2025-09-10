@@ -1,0 +1,50 @@
+Description:
+A chemically diverse set of compounds that play a role in cell membrane composition and function.
+
+Text:
+Cell membranes comprise a chemically diverse set of phos
+pholipids.1 In bacteria and eukaryotes, cell membranes are 
+made predominantly of complex phospholipids bearing 2
+amino alcohol motifs (e.g. choline, ethanolamine, and serine), 
+the compositional and functional diversity of which influence 
+their properties, including protein binding, substrate transport, 
+and cell signalling.2 Due to their ubiquitous role in compart
+mentalization, phospholipids are thought to have appeared on 
+Earth before the advent of cells capable of Darwinian evolu
+tion.3,4 Still, prebiotic synthetic pathways that could have led to 
+the diverse array of phospholipids present in modern mem
+branes remain largely unexplored.
+
+
+---
+
+Description:
+Enhance the stability of fatty acid-based membranes to pH and divalent cations.
+
+Text:
+Mixtures of singlechain amphiphiles (e.g., fatty acids, alco
+hols, and aldehydes) form membranebound compartments un
+der prebiotically plausible conditions.57 However, their sensi
+tivity to metal ions8 restricts their ability to host Mg2driven 
+RNA polymerisation9 and Fedriven protometabolic pro
+cesses,10,11 and suggests that complex phospholipids were likely 
+needed for the emergence of robust primitive cells.3,4 Notably, 
+phospholipids enhance the stability of fatty acidbased mem
+branes to pH and divalent cations,1214 but such blended mem
+branes do not host the compositional diversity of phospholipids 
+nor mirror the functional capabilities exhibited by modern 
+membranes.
+
+
+---
+
+Description:
+Compounds that can be synthesized prebiotically and include self-assembling (lyso)phosphatidic acids.
+
+Text:
+Only a few routes have been described for the prebiotic syn
+thesis of phospholipids.15 For instance, activation of mixtures of 
+fatty acids and glycerol phosphates gives rise to selfassembling 
+(lyso)phosphatidic acids, the simplest of phospholipids.3,6,1618 
+However, pathways leading to more complex phospholipids 
+(e.g., phosphatidylcholines) remain scarce.

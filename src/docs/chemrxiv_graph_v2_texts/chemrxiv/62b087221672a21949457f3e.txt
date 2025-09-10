@@ -1,0 +1,25 @@
+Description:
+A post-transition metal that can activate dihydrogen, mimicking the reactivity of a main group center.
+
+Text:
+The activation of dihydrogen is a phenomenon that, until recent years, was associated primarily with 
+transition metals.1,2 Significant developments have seen main group complexes reported for the 
+activation of dihydrogen,36 and applications of these systems in catalytic hydrogenation.710 The 
+activation of dihydrogen using zinc compounds has received little attention. Zinc, as a posttransition 
+metal, does not employ its delectrons and so its reactivity is likely to mimic that of a main group center. Dihydrogen activation at zinc is an unusual observation. Although there have been previous reports of 
+the use of zincbased catalysts for hydrogenation, the fundamental understanding of this process has 
+received limited attention.
+
+
+---
+
+Description:
+Used as a catalyst for the hydrogenation of imines and ketones.
+
+Text:
+For example, Beller and coworkers reported the use of zinc triflate, Zn(OTf)2, 
+as a precatalyst for the hydrogenation of imines.11 Stephan and coworkers also used a zincbased 
+catalyst for the hydrogenation of imines and ketones.12,13 Milstein and coworkers provided an example 
+of zinc catalyzed hydrogenation of imines and ketones, using a PNP pincer ligand to facilitate dihydrogen 
+activation through metalligand cooperation.14 Despite these reports, the application of zinc to 
+hydrogenation catalysis remains understudied, with substrates limited to highly polarized species. Furthermore, the issue of selective hydrogenation with these types of catalysts is yet to be addressed.

@@ -1,0 +1,35 @@
+Description:
+Positioning within the zeolite framework significantly influences catalytic behavior.
+
+Text:
+Zeolite ZSM5 stands out as one
+of the most extensively used zeolites in the petrochemical industry,
+where it can serve as an efficient catalyst for hydrocarbon trans
+formations.1,2 The catalytic activity of zeolites is primarily gov
+erned by their chemical composition, with structural features such
+as channel shape, accessible pore volume, and the positioning of
+aluminium atoms within the framework significantly influencing
+their catalytic behaviour.24
+Accurately determining the position of aluminium atoms within
+the zeolite framework is useful for understanding and optimizing
+catalytic properties.2,4 However, traditional techniques like Xray
+crystallography have inadequate sensitivity for distinguishing be
+tween aluminium and silicon atoms and thus it cannot be used for
+the determination of the aluminium siting.
+
+
+---
+
+Description:
+Atoms in zeolites can be probed using 27Al NMR spectroscopy.
+
+Text:
+See DOI 00.000000000000
+magnetic resonance (NMR) spectroscopy, particularly 27Al NMR,
+has emerged as a powerful tool for probing the local environments
+of aluminium atoms in zeolites.57 Several studies have attempted
+to correlate experimental 27Al NMR spectra with specific Tsites in
+the zeolite framework.813 However, sizable inconsistencies in the
+calculated chemical shifts reported in these studies illustrate the
+continuing challenges faced by researchers in this field. Interpreting solidstate NMR spectra can be challenging due to
+signal broadening and overlap.

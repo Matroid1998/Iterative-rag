@@ -1,0 +1,12 @@
+Description:
+Chemistry heavily relied upon for nonintuitive disconnections.
+
+Text:
+Disconnections are often nonintuitive and derived on a casebycase basis, with a 
+heavy reliance on carbonyl and olefin chemistry (Figure 1B). Meanwhile, enzymatic CH 
+oxidation facilitated by directed evolution techniques is now recognized as one of the most 
+powerful methods to scalably and sitespecifically install a functional group onto unactivated Csp3
+H bonds.1719 In some sense this is analogous to triedandtrue functionalizations that are routine 
+on pyridines, such as electrophilic aromatic substitution. Radical crosscoupling has also recently 
+emerged as a versatile platform to couple common Csp3 bearing functional groups such as acids20 
+and alcohols21 in the same vein that Suzuki and related couplings are employed on pyridines.

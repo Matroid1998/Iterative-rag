@@ -1,0 +1,13 @@
+Description:
+Poisons platinum-based catalysts at ppm concentrations.
+
+Text:
+In our previous work, Rosenberg et al. used the stabilization from high mixing entropy to force 
+platinum to alloy into the high entropy boride (HEB) Al0.2Nb0.2Pt0.2Ta0.2Ti0.2B2. This was the highest 
+coordinated platinumboride species reported thus far, a remarkable 12coordinated platinum 
+boride phase.1 Platinum borides prior to the discovery of this HEB, were only boron poor phases 
+with low platinum coordination Pt3B2 (platinum coordinated by 6 borons), PtB (platinum 
+coordinated by 6 borons), and Pt2B (platinum coordinated by 3 borons).24 The fascination with 
+forming a platinum high entropy diboride, comes from its unique crystal structure of alternating 
+borophene sheets and metal (Figure 1). Platinum based catalysts are poisoned by ppm 
+concentrations of sulfur.

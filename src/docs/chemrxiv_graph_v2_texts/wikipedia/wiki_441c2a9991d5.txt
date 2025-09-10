@@ -1,0 +1,6 @@
+Triose-phosphate isomerase (TPI or TIM) is an enzyme (EC 5.3.1.1) that catalyzes the reversible interconversion of the triose phosphate isomers dihydroxyacetone phosphate and D-glyceraldehyde 3-phosphate.
+
+Compound C00111 at KEGG Pathway Database.Enzyme 5.3.1.1 at KEGG Pathway Database.Compound C00118 at KEGG Pathway Database.
+TPI plays an important role in glycolysis and is essential for efficient energy production. TPI has been found in nearly every organism searched for the enzyme, including animals such as mammals and insects as well as in fungi, plants, and bacteria. However, some bacteria that do not perform glycolysis, like ureaplasmas, lack TPI.
+In humans, deficiencies in TPI are associated with a progressive, severe neurological disorder called triose phosphate isomerase deficiency.  Triose phosphate isomerase deficiency is characterized by chronic hemolytic anemia.  While there are various mutations that cause this disease, most include the replacement of glutamic acid at position 104 with an aspartic acid.
+Triose phosphate isomerase is a highly efficient enzyme, performing the reaction billions of times faster than it would occur naturally in solution. The reaction is so efficient that it is said to be catalytically perfect:  It is limited only by the rate the substrate can diffuse into and out of the enzyme's active site.

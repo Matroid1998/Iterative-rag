@@ -1,0 +1,8 @@
+Description:
+Captures an electron from the electrode in an outer sphere reaction during ORR in alkaline solution.
+
+Text:
+For ORR in alkaline solution, it has been suggested that the initial 
+and the rate determining step (RDS) is an outer sphere reaction, with O2 capturing an electron from 
+the electrode.2122 For ORR on Au(100), such an outer sphere process has been examined 
+systematically.2326 Nonetheless, the overall mechanism remains unclear and disputed.2728

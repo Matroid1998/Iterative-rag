@@ -1,0 +1,13 @@
+Description:
+Improves capacity in NMC structures.
+
+Text:
+LiNixMnyCozO2 (NMC) compounds are declared as potential candidates due to their 
+appealing merits, such as high specific capacity, average voltage, environmental friendliness, and stable 
+working voltage. 811, 622, 532, 442, and 333 are different variants of the NMC structures. In these 
+configurations, improved capacity, structural stability, and capacity retention are provided by the Ni, Mn, 
+and Co contents, respectively.12 Meanwhile, LiNi mixing causes a fading in thermal stability and the 
+creation of impurities on the cathode surface. Therefore, a coating modification procedure is suggested 
+to form a protective layer on the NMC compound, which is able to avoid direct electrodeelectrolyte 
+contact and boost the stability, durability, and safety where the cathode is subjected to repeated 
+charging and discharging cycles.

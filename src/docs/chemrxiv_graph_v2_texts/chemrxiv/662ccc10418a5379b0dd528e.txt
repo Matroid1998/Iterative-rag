@@ -1,0 +1,29 @@
+Description:
+A chemical energy carrier produced from solar energy and water.
+
+Text:
+The conversion of solar energy and water into chemical energy via the production of hydrogen is a 
+topic that has attracted substantial interest for years. Many different technologies have been 
+investigated so far to produce hydrogen from sunlight and water. To reach maturity, such technologies 
+should be at the same time i) efficient (in terms of solartohydrogen (STH) efficiency), ii) stable 
+under intermittent operation and over years of operation, and iii) scalable, which means that they 
+should rely on Earthabundant materials and cost and energyeffective processes. (1) The main 
+challenge is to achieve high STH efficiency with low cost materials (light absorbers, catalysts, 
+membranes) and to overcome barriers that limit the scalability and the stability of such new 
+technologies.
+
+
+---
+
+Description:
+A renewable fuel that can be produced without drawing electricity from the grid.
+
+Text:
+(5) 
+However, there is a consensus that the demand for electricity will increase in the coming years. All 
+scenarii promote electrification, whenever possible, to decarbonize our economy. (7) Therefore, 
+competition for electricity availability and greater constraints on the grid stability are expected to 
+emerge. With this perspective, producing renewable fuels, such as hydrogen, without drawing 
+electricity from the grid, seems particularly relevant. (8) In order to advance the deployment of these 
+systems, and subsequently refine the cost analysis, it is important to carry out practical 
+demonstrations, whether they involve scalability validations or preliminary tests in real environment. This will provide a clearer knowledge of the concrete issues that need to be overcome.

@@ -1,0 +1,29 @@
+Name: Acrylic acid
+Text:
+Acrylic acid is a alpha,beta-unsaturated monocarboxylic acid that is ethene substituted by a carboxy group. It has a role as a metabolite. It is a conjugate acid of an acrylate.
+A α,β-unsaturated monocarboxylic acid that is ethene substituted by a carboxy group.
+Acrylic acid is used in the manufacture of plastics, paint formulations, and other products. Exposure occurs primarily in the workplace. It is a strong irritant to the skin, eyes, and mucous membranes in humans. No information is available on the reproductive, developmental, or carcinogenic effects of acrylic acid in humans. Animal cancer studies have reported both positive and negative results. EPA has not classified acrylic acid for carcinogenicity.
+Acrylic acid has been reported in Cocos nucifera, Gynerium sagittatum, and other organisms with data available.
+See also: Calcium Polycarbophil (monomer of); Polycarbophil (monomer of); Polyquaternium-53 (monomer of) ... View More ...
+Properties:safety: Flammable and Corrosive and Irritant and Environmental Hazard
+smiles: C=CC(=O)O
+formula: C3H4O2
+chem_properties: Molecular Weight: 72.06 g/mol
+XLogP3: 0.3
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 72.021129366 Da
+Monoisotopic Mass: 72.021129366 Da
+Topological Polar Surface Area: 37.3
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 55.9
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

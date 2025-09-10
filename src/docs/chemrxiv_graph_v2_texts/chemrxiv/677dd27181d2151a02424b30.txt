@@ -1,0 +1,28 @@
+Description:
+A molecule reduced to either water or hydroxide ions in the ORR process.
+
+Text:
+The ORR, a cornerstone electrochemical process, underpins the functionality of various energy 
+conversion and storage technologies, including protonexchange membrane fuel cells (PEMFCs) 
+and metalair batteries 4. ORR encompasses a kinetically complex multielectron transfer 
+process, reducing molecular oxygen to either water or hydroxide ions, depending on the electrolyte 
+medium. Its inherently sluggish kinetics, attributed to the high activation barrier required to cleave 
+the OO bond and coordinate protonelectron transfers, represents a formidable challenge to 
+achieving optimal energy efficiency and operational performance in these systems 5. The role of ORR in energy technology is both pivotal and multifaceted. In PEMFCs, the cathodic 
+ORR is the ratedetermining step that directly influences the overall power density and energy 
+efficiency of the system 6.
+
+
+---
+
+Description:
+Intermediates stabilized by complexes with catalytic activity in ORR.
+
+Text:
+These complexes exhibit remarkable catalytic activity attributed to their distinctive 
+electronic configurations, facile redox cycling, and capability to stabilize oxygen intermediates. Their relatively low synthesis cost, combined with their tunable electronic and steric properties, 
+positions them as viable alternatives to noble metals for sustainable ORR catalysis. Despite these advancements, significant challenges persist in enhancing catalytic turnover 
+frequency and operational stability under realworld conditions. The intrinsic sluggish kinetics of 
+ORR demands the design of catalysts with optimized active sites capable of reducing activation 
+energy and facilitating efficient oxygen adsorption, activation, and bond dissociation 9. Furthermore, many catalysts experience performance degradation due to insufficient 
+electrochemical and structural stability in harsh operational environments.

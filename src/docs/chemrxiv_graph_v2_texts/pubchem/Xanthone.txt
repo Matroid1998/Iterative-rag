@@ -1,0 +1,26 @@
+Name: Xanthone
+Text:
+Xanthone is the parent compound of the xanthone class consisting of xanthene bearing a single oxo substituent at position 9. It has a role as an insecticide.
+Xanthone has been reported in Rhachidosorus mesosorus, Harungana madagascariensis, and other organisms with data available.
+Properties:safety: Acute Toxic
+smiles: C1=CC=C2C(=C1)C(=O)C3=CC=CC=C3O2
+formula: C13H8O2
+chem_properties: Molecular Weight: 196.20 g/mol
+XLogP3: 3.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 196.052429494 Da
+Monoisotopic Mass: 196.052429494 Da
+Topological Polar Surface Area: 26.3
+Heavy Atom Count: 15
+Formal Charge: 0
+Complexity: 237
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

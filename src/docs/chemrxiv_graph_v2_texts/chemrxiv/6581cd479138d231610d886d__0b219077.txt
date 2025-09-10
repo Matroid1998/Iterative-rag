@@ -1,0 +1,21 @@
+Description:
+A compound that can undergo ring expansion to form complex N-heterocycles via aziridinium ylide intermediates.
+
+Text:
+Their fourmembered azetidine counterparts have also shown promise in medicinal 
+chemistry, but strategies for their preparation have been significantly underexplored compared to 
+5 and 6membered Nheterocycles.5,6 Given the overall importance of Nheterocycles in bioactive 
+molecules, modular methods to rapidly generate diverse libraries of these compounds with high 
+diastereo and enantiopurity from readily available precursors are highly sought.1,712 
+ Onium ylides are reactive intermediates that contain a negatively charged carbon atom located 
+adjacent to a positively charged heteroatom.13 Aziridinium ylides comprise a subset of onium 
+ylides which, in contrast to wellstudied ammonium ylides, have been underexplored in terms of 
+their utility for the synthesis of complex heterocycles.14 The reasons for this lack of utility range 
+from unwanted cheletropic extrusion of the ylide nitrogen to regenerate the original alkene,15,16 
+decomposition pathways17 or the existence of aziridine invertomers that complicate reaction 
+outcomes.18 However, we were able to successfully achieve ring expansion of simple aziridines19
+30,3133 to complex Nheterocycles via aziridinium ylide intermediates using four key design 
+features 1) steric accessibility of the nitrogen lone pair, 2) the presence of an sp3 nitrogen that 
+does not bind irreversibly to the catalyst, 3) the ability to form only one ylide stereoisomer, and 4) 
+restricted pyramidal inversion by employing a bicyclic aziridine.34 Application of these design 
+httpsdoi.org10.26434chemrxiv2023g8srr ORCID httpsorcid.org000000031329950X Content not peerreviewed by ChemRxiv.

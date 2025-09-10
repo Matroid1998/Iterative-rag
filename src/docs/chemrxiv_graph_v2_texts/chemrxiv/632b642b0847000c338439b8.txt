@@ -1,0 +1,27 @@
+Description:
+A volatile organic compound that poses exposure risks in operating rooms.
+
+Text:
+It is wellknown that electrosurgery produces VOCs (volatile organic compounds) including 
+formaldehyde and various particulate matter,1 exposing operating room personnel to harmful substances 
+throughout the procedure. Developing methods and devices to combat exposure to formaldehyde and 
+other harmful chemical agents will improve the environment of care.
+
+
+---
+
+Description:
+Classified as carcinogenic to humans by the International Agency for Research on Cancer (IARC).
+
+Text:
+ASHRAE 170 indicates minimum 
+ventilation requirements for healthcare facilities (currently 20 ACH and positive pressure), however this 
+specification does not indicate limits on air contamination levels and does not contain requirements that 
+are adequate for all situations.2 There is a large interest in reducing formaldehyde exposure due to a 
+number of associated health concerns including coughing, irritation and asthmalike symptoms.3,4 The 
+International Agency for Research on Cancer (IARC) has classified formaldehyde as carcinogenic to 
+
+2 
+
+humans.5 OSHA has specified a permissible exposure limit of 0.75 ppm as an 8 h timeweighted average 
+as well as a shortterm exposure limit of 2 ppm over a 15minute period.6

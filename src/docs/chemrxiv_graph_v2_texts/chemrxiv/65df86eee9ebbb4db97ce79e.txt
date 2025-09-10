@@ -1,0 +1,18 @@
+Description:
+An element used in training DM21 to ensure accurate H2 dissociation limit without breaking spin symmetry.
+
+Text:
+Trained on fractional spin (FS) DM21 can capture
+some multireference effects in main group chemistry,
+such as stretching covalent bonds, though it encounters
+difficulties at intermediate bond distances. For exam
+ple, training DM21 on the hydrogen atom with zero
+polarization ensures the accurate H2 dissociation limit
+without breaking spin symmetry. Focusing on dimers,
+maingroup dimers primarily exhibit multireference ef
+fects when their bonds are stretched, whereas transition
+metal dimers display these effects even at their equi
+librium geometries. Thus, the difference in the nature
+of multireference effects between maingroup and TMC
+raises the question of whether DM21s ability to capture
+such effects in the former can extend to the latter.

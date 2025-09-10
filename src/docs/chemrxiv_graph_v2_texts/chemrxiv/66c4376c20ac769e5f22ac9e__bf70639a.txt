@@ -1,0 +1,12 @@
+Description:
+The standard lithium salt for commercial lithium ion batteries with higher ionic conductivity and excellent anti-corrosion nature toward aluminum.
+
+Text:
+Lithium hexafluorophosphate (LiPF6) is the standard lithium salt for the stateoftheart 
+commercial lithium ion batteries (LIBs). LiPF6 is the obvious winner over other lithium salts 
+due to the virtue of its higher ionic conductivity (102 Scm1 at 25C), excellent anti
+corrosion nature toward aluminum, and good anodic stability ( 4.2V vs. LiLi) 1. Nevertheless, there remains longstanding concerns over the safety of LiPF6 based lithium 
+salts for LIB applications particularly at higher temperatures. LiPF6 is unstable and moisture 
+sensitive at higher temperatures (60 C), which degrades to other decomposition products, 
+and this eventually results in capacity fading and thermal runaway of the corresponding LIBs 
+2.

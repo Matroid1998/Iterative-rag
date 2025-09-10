@@ -1,0 +1,15 @@
+Description:
+Forms dihydrogen bonds, a type of weak interaction with longer action distance and lower energy compared to chemical bonds.
+
+Text:
+Interactions in chemical systems can be divided into two main categories 
+chemical bonds and weak interactions. Chemical bonds have a short interaction 
+distance and usually have a large strength. They can generally be classified into 
+covalent bonds (including coordination bonds and metallic bonds in specific situations) 
+and ionic bonds, and the interaction energy is generally several hundred kJmol. Weak 
+interactions have a much longer action distance and are about one order of magnitude 
+weaker than chemical bonds. They contain a wide variety of types, such as ordinary 
+van der Waals (vdW) interactions,1,2 hydrogen bonds (Hbonds),35 halogen 
+bonds,68 chalcogen bonds,9,10 pnicogen bonds,11,12 tetrel bonds,13,14 dihydrogen 
+bonds,15 regium bonds,16,17  interactions,18,19 and their interaction energy is 
+generally several to tens of kJmol.

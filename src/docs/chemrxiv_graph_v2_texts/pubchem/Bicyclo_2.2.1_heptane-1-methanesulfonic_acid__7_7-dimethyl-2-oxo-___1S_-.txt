@@ -1,0 +1,26 @@
+Name: Bicyclo[2.2.1]heptane-1-methanesulfonic acid, 7,7-dimethyl-2-oxo-, (1S)-
+Text:
+Camphorsulfonic acid is a sulfonic acid containing the camphorsulfonate anion. It is functionally related to a camphor. It is a conjugate acid of a camphorsulfonate anion.
+See also: D-Camphorsulfonic Acid (annotation moved to).
+Properties:safety: Corrosive
+smiles: CC1(C2CCC1(C(=O)C2)CS(=O)(=O)O)C
+formula: C10H16O4S
+chem_properties: Molecular Weight: 232.30 g/mol
+XLogP3: 0.5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 2
+Exact Mass: 232.07693016 Da
+Monoisotopic Mass: 232.07693016 Da
+Topological Polar Surface Area: 79.8
+Heavy Atom Count: 15
+Formal Charge: 0
+Complexity: 404
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 2
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,17 @@
+Description:
+1J values are suggested to serve as structural constraints.
+
+Text:
+In the latter regard, 2JCCC values depend strongly on the rotameric properties of the C
+O bond involving the central carbon, and less so on the rotameric properties of the CO bonds 
+involving the coupled carbons.1113 Direct (onebond) Jcouplings (1Jab) have a strong 
+dependence on bond length, with larger values corresponding to shorter bond lengths (greater s
+character).1,1416 Despite suggestions that 1J values could serve as valuable structural 
+constraints in saccharides,1718 detailed conformational interpretations of them have proven 
+challenging.1924 
+Experimental determinations of saccharide conformation often rely on computational 
+methods such as density functional theory (DFT) or molecular dynamics (MD) simulations.2529 
+Current approaches combine experimental parameters with appropriately restrained calculations 
+to derive a model that best matches the experimental data.2934 While this approach has proven 
+valuable, it is not without limitations stemming from limited experimental validations of the 
+computational methods.

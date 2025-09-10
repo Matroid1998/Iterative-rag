@@ -1,0 +1,14 @@
+Description:
+Generates hydroxyl and hydroperoxyl radicals from H2O2 via a Fenton reaction.
+
+Text:
+Ferroptosis is an atypical oxidative form of regulated ne
+crotic cell death that is characterized by the peroxidation 
+of membrane phospholipids which contain polyunsaturat
+ed fatty acids.1 This process is dependent on Fe2 which 
+generates hydroxyl (OH) and hydroperoxyl (OOH) radi
+cals from H2O2 via a Fenton reaction.2 If the production of 
+these reactive oxygen species (ROS) exceeds beyond the 
+antioxidant capacity of a cell, accumulated lipid peroxides 
+initiate an autoxidation cascade that results in the rupture 
+of the membrane.

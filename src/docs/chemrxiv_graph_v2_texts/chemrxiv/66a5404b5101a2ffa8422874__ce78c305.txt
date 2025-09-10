@@ -1,0 +1,10 @@
+Description:
+Involved in charge migration with the CC triple bond in HCCI.
+
+Text:
+In the 
+present computational study, we examine the ground and excited states of a series of haloacetylene cations, 
+HCCX (X  F, Cl, Br, I), in preparation for future studies on the formation of coherent superpositions and 
+the simulation of charge migration in these systems. Charge migration in HCCI has been studied extensively, both experimentally and computationally.4, 
+1016 Strong field ionization of HCCI produces a coherent superposition of the X and A states of HCCI.4 
+This results in charge migration between the CC triple bond and the iodine with a period of 1.87 fs.

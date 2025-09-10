@@ -1,0 +1,19 @@
+Description:
+Materials explored for their potential in singlet fission mechanisms in photovoltaics.
+
+Text:
+4,5
+The implementation of SF in photovoltaics is however
+hampered by the lack of suitable materials fulfilling the
+requirements for SF (a) an energy of the lowest singlet
+state ES1 at least twice the one of the lowest triplet state
+ET1 (ES12T1  ES1 2ET1 0); 4 (b) a delocal
+ized or chargetransfer singlet exciton to promote direct
+or chargetransfer mediated singlet fission mechanisms, re
+spectively; 6 (c) triplets of sufficiently high energy for in
+jection into the conduction band of a semiconductor cell
+(ET1 Egap); 7 (d) synthesizability; and (e), photo and
+chemical stability. 8 Experimentally investigated SF can
+didate materials can be broadly classified as acene deriva
+tives, rylenediimides, diketopyrrolopyrroles and conjugated
+polymers.

@@ -1,0 +1,14 @@
+Description:
+Traditional gate layer material in transistors with thickness limitations due to leakage currents.
+
+Text:
+Materials with high permittivities are important research and development targets, as
+gate components in metaloxide semiconductor transistors 1, 2 and high energy density
+capacitors.3, 4 Industry demands everincreasing performance in these devices, with
+capacitance increased most often by decreasing dielectric layer thicknesses. However, the
+thicknesses of traditional SiO2 gate layers can not be decreased below 1 nm,2 because
+increasing leakage currents negate capacitance improvements. Using thicker dielectrics with
+larger permittivities allows device footprints to continue to shrink while maintaining low
+leakage currents. One way to increase the permittivity of a dielectric is to add highly polarizable
+inclusions.3, 5 As with other composites, the properties of the mixed material are potentially
+tunable.

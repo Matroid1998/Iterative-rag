@@ -1,0 +1,12 @@
+Description:
+Related to parahydrogen-induced polarization (PHIP) and the Monday morning effect at liquid nitrogen temperatures.
+
+Text:
+The correct mechanism responsible for CIDNP 
+was independently proposed by Closs 4 and Kaptein in 1969 5,6 and it is based on the concept 
+of a radical pair. Curiously, parahydrogeninduced polarization (PHIP) was also initially 
+misinterpreted this time, as CIDNP 7. It took several years to understand that the Monday 
+morning effect, as it was once called, has something to do with parahydrogen (pH2) at liquidN2 
+temperatures 8. Today, DNP, CIDNP, and PHIPbased approaches are well understood and are 
+widely used for material characterization, drug screening, and molecular imaging among a diverse 
+range of various applications.

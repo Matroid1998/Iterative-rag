@@ -1,0 +1,15 @@
+Description:
+A compound for which no trace of dimers is observed by NMR due to highly disfavored formal 5 charge.
+
+Text:
+Although 
+an analogous sixmembered ester (and potentially its dimers) 
+between the 3 and 5hydroxyl groups would introduce similar 
+configurational changes to those ascribed to 1a, DFT 
+calculations revealed that its formation is much less 
+exothermic and consequently disfavored. Similarly, the 
+analogous fivemembered borate ester of Rib1P is less 
+favored than 1a (which is requisite for the observed 
+equilibrium shift), as supported by DFT and NMR data (Figs. 1F and S10). Additionally, we observed no trace of dimers of 
+Rib1P by NMR, which is likely a result of the highly disfavored 
+formal 5 charge of these species.

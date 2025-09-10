@@ -1,0 +1,11 @@
+Description:
+Its OSC and oxidation kinetics improve with larger R3 cations or through aliovalent doping.
+
+Text:
+Such applications require materials with a 
+high reversible oxygen storage capacity (OSC), fast bulk ion transport and oxygen surface exchange rates.22
+24 However, the oxidation kinetics of these materials are generally slow, with time to full oxidation on the scale 
+of several hours.25 This implies a smaller available OSC when using short dwell times or fast heating and 
+cooling rates,20,2530 which are both necessary for efficient O2 gas production by cyclic processes like CLAS.23 
+Both the OSC and oxidation kinetics of RMnO3 are known to improve with larger R3 cations, either as the 
+sole Rsite cation or as a substituted element in YMnO3,19,25,26,2833 or through aliovalent doping, e.g.

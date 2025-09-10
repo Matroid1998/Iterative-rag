@@ -1,0 +1,11 @@
+Description:
+A component of a dodecanuclear cluster with an S 10 ground state, exhibiting sizable zero-field splitting and slow relaxation at low temperatures.
+
+Text:
+Several decades ago, the idea arose that paramagnetic molecules could replace the magnetic parti
+cles used in hard disk storage devices, which could allow data densities that were orders of magni
+tude higher than the state of the art at the time. These investigations started with a dodecanuclear
+manganese cluster with an S  10 ground state.1 This ground state possesses a sizable zerofield
+splitting (ZFS), resulting in an energy barrier towards inversion of the magnetic moment, and
+concurrent slow relaxation at low temperatures.1 Molecules that possess this property have been
+named singlemolecule magnets (SMMs).

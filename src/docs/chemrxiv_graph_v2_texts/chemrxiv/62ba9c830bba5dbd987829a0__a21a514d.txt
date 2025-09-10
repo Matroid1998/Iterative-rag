@@ -1,0 +1,22 @@
+Description:
+A herbicide that can be decarboxylated by fatty-acid photodecarboxylases.
+
+Text:
+Although the direct excitation of organic compounds by light to facilitate chemical 
+reactions has been known for more than a century, the recent rise of photoredox catalysis has 
+significantly expanded the scope of photochemistry in the synthesis of organic molecules.13 Apart 
+from enabling new reaction pathways not accessible by thermal control, the use of photon energy 
+is also considered a sustainable approach.4,5 Akin to photocatalysis, biocatalysis has been shown 
+to enable sustainable reaction methodologies due to its generally mild reaction conditions, use 
+of aqueous media, high stereo and chemoselectivity, and everincreasing substrate and reaction 
+scope.613 
+At the interface of these two fields of catalysis, photobiocatalysis arose, whereby either 
+the enzyme itself requires light (naturally or by promiscuity) or photoinduced electrons are 
+transferred to it.1417 The scope of photobiocatalytic transformations was significantly expanded 
+following the discovery of fattyacid photodecarboxylases in 2017.18 This class of natural 
+photoenzymes has subsequently shown great promise for the production of biofuels,1922 and 
+apart from its natural substrates, fatty acids, the wildtype enzyme or its variants have been 
+demonstrated to decarboxylate hydroxy and aminosubstituted fatty acids,23,24 dicarboxylic 
+acids,25 substituted carboxylic acids26 and the herbicide phosphinothricin.27 
+According to the BeerLambert law, the penetration of visible light into a medium 
+decreases exponentially with increasing path length.

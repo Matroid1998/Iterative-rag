@@ -1,0 +1,29 @@
+Name: Chlorobenzene
+Text:
+Chlorobenzene is a colorless, flammable liquid with an aromatic, almond-like odor. Some of it will dissolve in water, but it readily evaporates into air. It does not occur naturally in the environment. Chlorobenzene production in the United States has declined by more than 60% from its peak in 1960. It was used in the past to make other chemicals, such as phenol and DDT. Now chlorobenzene is used as a solvent for some pesticide formulations, to degrease automobile parts, and as a chemical intermediate to make several other chemicals.
+Chlorobenzene appears as a colorless to clear, yellowish liquid with a sweet almond-like odor. Flash point 84 °F. Practically insoluble in water and somewhat denser than water (9.2 lb / gal). Vapors heavier than air. Used to make pesticides, dyes, and other chemicals.
+Chlorobenzene is the simplest member of the class of monochlorobenzenes, that is benzene in which a single hydrogen has been substituted by a chlorine. It has a role as a solvent.
+Chlorobenzene is used primarily as a solvent, a degreasing agent, and a chemical intermediate. Limited information is available on the acute (short-term) effects of chlorobenzene. Acute inhalation exposure of animals to chlorobenzene produced narcosis, restlessness, tremors, and muscle spasms. Chronic (long- term) exposure of humans to chlorobenzene affects the central nervous system (CNS). Signs of neurotoxicity in humans include numbness, cyanosis, hyperesthesia (increased sensation), and muscle spasms. No information is available on the carcinogenic effects of chlorobenzene in humans. EPA has classified chlorobenzene as a Group D, not classifiable as to human carcinogenicity.
+Chlorobenzene is an aromatic organic compound with the chemical formula C6H5Cl. This colorless, flammable liquid is a common solvent and a widely used intermediate in the manufacture of other chemicals. Rhodococcus phenolicus is a bacterium species able to degrade chlorobenzene as sole carbon sources. Chlorobenzene exhibits low to moderate toxicity as indicated by its LD50 of 2.9 g/kg. Chronic (long-term) exposure of humans to chlorobenzene affects the central nervous system (CNS).  Signs of neurotoxicity in humans include numbness, cyanosis, hyperesthesia (increased sensation), and muscle spasms.
+Properties:safety: Flammable and Irritant and Environmental Hazard
+smiles: C1=CC=C(C=C1)Cl
+formula: C6H5Cl
+chem_properties: Molecular Weight: 112.55 g/mol
+XLogP3: 2.9
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 112.0079779 Da
+Monoisotopic Mass: 112.0079779 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 46.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

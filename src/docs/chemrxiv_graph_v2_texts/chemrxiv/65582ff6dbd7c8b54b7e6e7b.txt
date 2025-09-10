@@ -1,0 +1,13 @@
+Description:
+Materials with high specific surface, pore volumes, and unique pore sizes used in catalysis, adsorption, and drug delivery.
+
+Text:
+Mesoporous silica materials (MSMs) have gained tremendous success in various applications 
+recently, mainly due to their interesting and unique textural and structural features. These features 
+include high specific surface, pore volumes, and unique pore sizes, which allow their use in 
+processes such as catalysis, adsorption, separation of target molecules, drug delivery devices, 
+chemosensors, and biosensors 1,2. They exhibit greater capacity for drugs loading and ensure a 
+controlled bioactive compound release if they are functionalized, in comparison with amorphous 
+colloidal silica 3. They are usually prepared from the selfassembly of surfactants, such as 
+pluronic polymers in solvents, followed by rapid condensation of silica precursors around the 
+micelle. The silicate condenses and forms an outer shell around the selfassembly.

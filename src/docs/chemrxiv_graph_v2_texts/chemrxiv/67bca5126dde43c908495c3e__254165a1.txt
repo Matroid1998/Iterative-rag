@@ -1,0 +1,15 @@
+Description:
+Cellular compounds that can add consecutively in redox reactions.
+
+Text:
+Cyclic dichalcogenide 
+redox substrates can be used to avoid reduction by millimolar 
+cellular monothiols (two consecutive monothiol additions) while 
+selecting for micromolar vicinal dithiols (bimolecular reaction).6 
+This arises since their onethioladducts have high effective 
+molarity for intramolecular retroaddition kT1 that leads to 
+expulsion of the initial attacking thiol before a second resolving 
+thiol can add intermolecularly (Figure 1b, I).7 Yet, with a single 
+equivalent of a vicinal dithiol, retroaddition kR1 can be out
+competed by intramolecular resolution kR2 to complete the 
+reduction and trigger a readout (c.f.

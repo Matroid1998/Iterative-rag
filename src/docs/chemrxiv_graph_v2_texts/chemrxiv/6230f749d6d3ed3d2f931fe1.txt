@@ -1,0 +1,39 @@
+Description:
+Derived from fossil fuels such as coal or natural gas, most commonly via the steam reforming process.
+
+Text:
+Processes which utilize watersplitting derived hydrogen and traditional HaberBosch 
+reactors report ammonia costs of 0.81.2 kg NH3,1821 though there are reports of ammonia costs 
+in the 0.40.6 kg NH3 as well.22 However, there are several drawbacks to these processes that 
+could make a fully electrical ammonia production approach attractive. HaberBosch ammonia is synthesized by reacting nitrogen and hydrogen at high 
+temperature and pressure in large, centralized plants.4 Typically, the hydrogen is derived from 
+fossil fuels such as coal or natural gas, most commonly via the steam reforming process.
+
+
+---
+
+Description:
+Used in ammonia production, contributing to significant carbon dioxide emissions when derived from fossil fuels.
+
+Text:
+Utilizing 
+fossil fuels for hydrogen production as well as thermal energy results in significant carbon dioxide 
+emissions, ranging from a theoretical minimum of 1.8 tons CO2 per ton NH3 for natural gas23, to 
+around 3.9 tons CO2 per ton NH3 for coal;21,24 the global average CO2 emissions are approximately 
+2.9 tons CO2 per ton NH3.23 As a result of tremendous worldwide demand driven primarily by the 
+fertilizer and chemicals industry, HaberBosch ammonia produced from fossilfuel derived 
+hydrogen accounts for approximately 1.5 of worldwide CO2 emissions.23 If transportation fuels 
+are to comprise another source of demand for ammonia, it is critical to mitigate the carbon footprint 
+associated with current methods of ammonia production.
+
+
+---
+
+Description:
+Produced from water electrolysis using renewable energy for decarbonization.
+
+Text:
+The most conceptually straightforward 
+route for decarbonization is to use hydrogen produced from water electrolysis using renewable 
+energy as a feedstock to the HaberBosch process. This approach is appealing due to the declining 
+costs of water electrolyzer technology,25 and has seen growing interest in the academic

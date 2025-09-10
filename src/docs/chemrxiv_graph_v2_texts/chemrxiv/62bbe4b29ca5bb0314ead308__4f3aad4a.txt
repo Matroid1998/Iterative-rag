@@ -1,0 +1,10 @@
+Description:
+A rheumatoid arthritis drug proposed as a repurposed drug for COVID-19 treatment and approved by the FDA for emergency use in combination with remdesivir.
+
+Text:
+The development of a drug requires on average more than two billion dollars and can take up to 1015 years. 8 This is why drug 
+repurposing was considered a valuable strategy to deal with the pandemic caused by SARSCoV2 in a reasonable time. 9 In addition, 
+computational discovery of repurposed drugs helps avoid costly trialanderror experiments, which require cell cultures, biochemical 
+screening, and living systems. 10 Thus, baricitinib (rheumatoid arthritis drug) was proposed, using artificial intelligence techniques, 
+as a repurposed drug11 and was subsequently approved as an emergency treatment by the FDA (US Food and Drug Administration) 
+for the treatment of COVID19 in combination with redemsivir.

@@ -1,0 +1,26 @@
+Description:
+Cations where X can be F, Cl, Br, or I, studied for charge migration.
+
+Text:
+In the 
+present computational study, we examine the ground and excited states of a series of haloacetylene cations, 
+HCCX (X  F, Cl, Br, I), in preparation for future studies on the formation of coherent superpositions and 
+the simulation of charge migration in these systems. Charge migration in HCCI has been studied extensively, both experimentally and computationally.4, 
+1016 Strong field ionization of HCCI produces a coherent superposition of the X and A states of HCCI.4 
+This results in charge migration between the CC triple bond and the iodine with a period of 1.87 fs.
+
+
+---
+
+Description:
+Challenges in electronic structure calculations due to same electronic state symmetry of X and A states.
+
+Text:
+The 
+coherent superposition and charge migration decay in 15  20 fs because the vibrational wavepackets on 
+the X and A potential energy surfaces move in opposite directions.1215 Charge migration has also been 
+studied in a number of other systems, including some closely related molecules, HCCBr, H(CC)nBr and 
+H(CC)nI cations,1719 but not in HCCCl and HCCF. One of the challenges for calculating the electronic structure of HCCX cations is that the X and A states 
+have the same electronic state symmetry. Consequently, calculations of the A state with conventional 
+density functional methods and single reference correlated wavefunctions such as coupled clusters (CC) 
+would collapse to the X state.

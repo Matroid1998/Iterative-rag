@@ -1,0 +1,16 @@
+Description:
+A molecule that can be part of a noninteracting supersystem with water, affecting ionization energy predictions.
+
+Text:
+An average pooling model
+will correctly predict that the IE remains constant for a
+noninteracting supersystem consisting of two separated
+water molecules. However, for a noninteracting super
+system consisting of one water and one CO2 molecule,
+this model would predict that the IE is the average of the
+corresponding water and CO2 values, which is clearly in
+correct. The problem here is that the model fails to take
+into account that an ionization of this supersystem is lo
+calized on the water molecule, since it has the lower IE. While this is a somewhat artificial example, many real
+chemical systems also display ionizations, excitations or
+orbitals that are spatially localized.

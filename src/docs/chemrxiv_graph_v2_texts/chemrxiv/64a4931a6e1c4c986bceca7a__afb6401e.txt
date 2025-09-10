@@ -1,0 +1,28 @@
+Description:
+An ion involved in ion-binding molecular complexes with size-dependent binding preferences.
+
+Text:
+of a large ion into a smaller cage creates repulsive forces, resulting in strain that 
+depends on the flexibility of the complex. In summary, a datadriven approach provided physical insights into the mechanisms of ion 
+selectivity in ionbinding molecular complexes. By studying the energetic preferences of a curated 
+dataset of 563 molecular complexes binding to K, Na, and Li using DFT, we found that binding 
+preferences are related to ion size. Complexes prefer to exchange to an adjacent ion in the size 
+sequence K  Na  Li rather than to the species that is more dissimilar in size.
+
+
+---
+
+Description:
+Disfavored in binding compared to Li in compounds with large ring sizes.
+
+Text:
+While this 
+observation follows intuition, we identified unique complexes which deviate from this trend and 
+hold significant promise for distinctive forms of selectivity in materials, namely those with planar 
+coordinating atoms that could preferentially bind K and Li over Na, compounds with large ring 
+sizes despite small coordination numbers that would disfavor Li binding in comparison to Na or 
+K, and complexes with N coordinating atoms which favor Li over Na or K. Additionally, we 
+showed that the majority of the differential binding energy originates from chemical interaction 
+rather than molecular reorganization. Our trained ML models revealed that both electronic and 
+geometric features play critical roles in predicting the differential binding energy, and neither 
+category strongly dominates the prediction.

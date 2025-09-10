@@ -1,0 +1,81 @@
+Description:
+Generated under prebiotically plausible conditions and found in certain meteorites.
+
+Text:
+Thus, it is unlikely that diacyl phospholipids were the primary constituents of the earliest membranes found in protocells. Instead, the first protocell membranes could have formed from substances that were either abundant on the early Earth 
+or were derived from much simpler precursors through spontaneous chemical reactions (47 . Fatty acids have been shown to be generated under prebiotically plausible conditions and have also been found in 
+certain meteorites, suggesting that fatty acids were likely present on the early Earth (811 . Nonenzymatic fatty acid 
+synthesis results in predominantly shortchain species, with chain lengths below 10 carbons (1012 . However, due to 
+the presence of a single hydrophobic tail, only longchain fatty acids (C12 can assemble into membrane structures at 
+low millimolar concentrations (1315 .
+
+
+---
+
+Description:
+Nonenzymatic synthesis results in predominantly short-chain species with chain lengths below 10 carbons.
+
+Text:
+Thus, it is unlikely that diacyl phospholipids were the primary constituents of the earliest membranes found in protocells. Instead, the first protocell membranes could have formed from substances that were either abundant on the early Earth 
+or were derived from much simpler precursors through spontaneous chemical reactions (47 . Fatty acids have been shown to be generated under prebiotically plausible conditions and have also been found in 
+certain meteorites, suggesting that fatty acids were likely present on the early Earth (811 . Nonenzymatic fatty acid 
+synthesis results in predominantly shortchain species, with chain lengths below 10 carbons (1012 . However, due to 
+the presence of a single hydrophobic tail, only longchain fatty acids (C12 can assemble into membrane structures at 
+low millimolar concentrations (1315 .
+
+
+---
+
+Description:
+Only long-chain fatty acids (C12) can assemble into membrane structures at low millimolar concentrations.
+
+Text:
+Thus, it is unlikely that diacyl phospholipids were the primary constituents of the earliest membranes found in protocells. Instead, the first protocell membranes could have formed from substances that were either abundant on the early Earth 
+or were derived from much simpler precursors through spontaneous chemical reactions (47 . Fatty acids have been shown to be generated under prebiotically plausible conditions and have also been found in 
+certain meteorites, suggesting that fatty acids were likely present on the early Earth (811 . Nonenzymatic fatty acid 
+synthesis results in predominantly shortchain species, with chain lengths below 10 carbons (1012 . However, due to 
+the presence of a single hydrophobic tail, only longchain fatty acids (C12 can assemble into membrane structures at 
+low millimolar concentrations (1315 .
+
+
+---
+
+Description:
+Precursors for shortchain thioesters through derivatization.
+
+Text:
+Interestingly, it was also observed that the remaining thiol group of the diacylated product can 
+further react with additional thioesters to generate phospholipids containing three alkyl chains. Inspired by these findings, 
+we hypothesized that cysteine itself may undergo NCL in the presence of acyl thioesters followed by substrate reloading, 
+leading to the production of diacylcysteine species. Both cysteine and shortchain thioesters have been shown to be 
+synthesized by prebiotically plausible routes, and both can be produced in abundance, the latter through derivatization 
+of shortchain fatty acids (24, 25 . Furthermore, recent studies have highlighted the significance of cysteine in prebiotic 
+metabolism, for instance as a catalyst for peptide bond formation (24 .
+
+
+---
+
+Description:
+Single-chain compounds with similar tail lengths to diacylcysteines but higher critical aggregate concentration.
+
+Text:
+Considering the smaller head group size of the 
+diacylcysteines compared to conventional phospholipids, and the presence of two hydrophobic tails, we suspected that 
+diacylcysteines would have a much lower critical aggregate concentration (cac compared to singlechain fatty acids of 
+similar tail lengths, which may enable vesicle formation even with very shortchain thioester precursors. Here we report the spontaneous diacylation of Cys with shortchain choline thioesters (CTs , forming celllike giant 
+membrane vesicles (Figure 1A . Diacylcysteine compounds with very short C) hydrophobic tails form lamellar vesicle 
+structures at submillimolar concentrations, likely because the compact head group has a comparable crosssectional 
+area to the two short hydrophobic tails.
+
+
+---
+
+Description:
+Unlike fatty acids, the head group of the lipid can be varied by diacylation of N-terminal Cys-containing peptides.
+
+Text:
+We find that the formation of diacylcysteine protocells was facilitated by silica 
+substrates, supporting previous models of primordial membrane assembly (26 . We propose a simple electrostatic 
+mechanism for substratetemplated membrane formation and describe several experiments that support our hypothesis. Unlike fatty acids, and even phospholipids, the head group of the lipid can be varied dramatically by diacylation of N
+terminal Cyscontaining peptides. This suggests the potential for significant structural diversity and functionality in 
+httpsdoi.org10.26434chemrxiv2024fkcf8 ORCID httpsorcid.org0000000288026007 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

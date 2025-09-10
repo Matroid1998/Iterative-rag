@@ -1,0 +1,12 @@
+Description:
+Undergoes epoxidation with increased rates when the density of (SiOH)x increases.
+
+Text:
+For example, rates of 1octene 
+epoxidation increase 100fold when the density of (SiOH)x increases from 0 to 5 per unit cell within Ti
+BEA,5 because the disruption of H2O clusters near Ti active sites greatly increases the entropy of the 
+system.5,6 Conversely, glucose isomerization rates are 5  50fold greater in hydrophobic Ti and SnBEA 
+than hydrophilic analogues, because H2O colocalized near active sites forms HB structures with glucose 
+and decreases the entropy of relevant transition states.20,3335 In both of these examples, the dependence of 
+epoxidation and glucose isomerization turnover rates on (SiOH)x density reflect changes in the 
+thermodynamic stability of transition states via the H2O structures occluded within the BEA pores.

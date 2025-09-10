@@ -1,0 +1,11 @@
+Description:
+A molecule where the protons are in a singlet spin state with vanishing total spin.
+
+Text:
+For the majority of practical 
+applications the preferred option is PHIP transfer from protons to lowgamma nuclei (13C, 15N, and others) 
+912 since they are less prone to polarization losses since their relaxation is significantly slower compared 
+to protons, and since one can record backgroundfree NMR and MRI signals. NMR signal enhancement in PHIP arises from the nonequilibrium populations of proton spin states in 
+parahydrogen (pH2), i.e., dihydrogen where the protons are in a singlet spin state with vanishing total 
+spin. The two most popular PHIP approaches today are hydrogenative PHIP and Signal Amplification by 
+Reversible Exchange (SABRE).

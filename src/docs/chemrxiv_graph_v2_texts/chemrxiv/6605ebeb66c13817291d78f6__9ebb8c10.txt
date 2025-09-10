@@ -1,0 +1,18 @@
+Description:
+A compound that serves as a valuable building block for generating sp3-rich carbocycles and heterocycles.
+
+Text:
+21 
+Since its first synthesis in 19591, bicyclo1.1.0butane (BCB) has captured the imagination of chemists 
+22 
+due to its innate strain energy and relative ease of assembly and handling2,3. The highly diverse reactivity 
+23 
+of BCBcontaining compounds, facilitated by the release of strain upon breaking the bridging C1C3 bond, 
+24 
+has allowed such structures to become valuable building blocks for the generation of sp3rich carbocycles 
+25 
+and heterocycles25. Perhaps the most prominent reactivity mode that has been utilised in this context is 
+26 
+the addition of nucleophiles and nucleophilic radicals to the bridgehead of electrondeficient BCB 
+27 
+compounds (Fig.

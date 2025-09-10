@@ -1,0 +1,27 @@
+Name: Nogalamycin
+Text:
+Nogalamycin is an anthracycline antibiotic isolated from Streptomyces nogalater. It is a DNA intercalator and exhibits anticancer properties. It has a role as an antineoplastic agent, a cardiotoxic agent, a bacterial metabolite and an intercalator. It is a methyl ester, a polyketide, an anthracycline antibiotic, a tertiary amino compound, a monosaccharide derivative, an organic heterohexacyclic compound and a tetrol.
+Nogalamycin is an anthracycline antineoplastic antibiotic isolated from the bacterium Streptomyces nogalater.  Nogalamycin intercalates into DNA and interacts with topoisomerase I, thereby inhibiting DNA replication and repair and RNA and protein synthesis. (NCI04)
+An anthrocycline from a Streptomyces nogalater variant. It is a cytolytic antineoplastic that inhibits DNA-dependent RNA synthesis by binding to DNA.
+Properties:safety: Irritant and Health Hazard
+smiles: C[C@H]1[C@@H]([C@@]([C@H]([C@@H](O1)O[C@H]2C[C@]([C@@H](C3=CC4=C(C(=C23)O)C(=O)C5=C(C=C6C(=C5C4=O)O[C@H]7[C@H]([C@@H]([C@H]([C@@]6(O7)C)O)N(C)C)O)O)C(=O)OC)(C)O)OC)(C)OC)OC
+formula: C39H49NO16
+chem_properties: Molecular Weight: 787.8 g/mol
+XLogP3: 1.1
+Hydrogen Bond Donor Count: 5
+Hydrogen Bond Acceptor Count: 17
+Rotatable Bond Count: 8
+Exact Mass: 787.30513448 Da
+Monoisotopic Mass: 787.30513448 Da
+Topological Polar Surface Area: 229
+Heavy Atom Count: 56
+Formal Charge: 0
+Complexity: 1530
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 13
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

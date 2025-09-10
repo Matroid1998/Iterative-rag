@@ -1,0 +1,27 @@
+Name: Ethynylbenzene
+Text:
+Ethynylbenzene is a member of benzenes.
+Phenylacetylene has been reported in Solanum lycopersicum and Tuber borchii with data available.
+See also: Benzene, ethenyl-, trimer (annotation moved to).
+Properties:safety: Flammable and Irritant and Health Hazard
+smiles: C#CC1=CC=CC=C1
+formula: C8H6
+chem_properties: Molecular Weight: 102.13 g/mol
+XLogP3: 2.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 1
+Exact Mass: 102.0469501914 Da
+Monoisotopic Mass: 102.0469501914 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 98.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

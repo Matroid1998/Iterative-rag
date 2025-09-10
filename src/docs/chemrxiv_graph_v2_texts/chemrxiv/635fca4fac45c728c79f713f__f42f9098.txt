@@ -1,0 +1,17 @@
+Description:
+Contains an enolic unit that can undergo epoxidation reactions.
+
+Text:
+of the 
+enolic unit on the cyclopentenone part of the molecule, we first 
+tried an epoxidationopening reaction. Despite the different 
+oxidants screened (H2O2, tBuO2H, DMDO) and in the presence of 
+different base (NaOH, Triton B, K2CO3) at different temperatures, 
+the desired product 7 was not obtained. We then decided to 
+promote the epoxydation step by reducing the carbonyl function 
+of 4f to the corresponding allylic alcohol 5 (Scheme 3). It is 
+noteworthy that this alcohol is not stable on silica gel and it is 
+directly transformed into the corresponding diene. Consequently, 
+the crude allylic alcohol 5 was directly treated with mCPBA, 
+resulting in a 41 ratio of overoxidized ,dihydroxy ketone 6 
+and the epoxide ring opening hydroxy ketone 6.

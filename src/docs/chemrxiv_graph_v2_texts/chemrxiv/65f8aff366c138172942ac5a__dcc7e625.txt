@@ -1,0 +1,13 @@
+Description:
+Undergoes huge volumetric expansion after lithiation, causing stress and material pulverization.
+
+Text:
+However,
+its practical implementation is limited by a main bottleneck, the huge volumetric expansion
+after lithiation (310 for Li22Si5 4) which causes a large buildup of stress, resulting in the
+pulverization of the material and immediate capacity loss during cycling.59 An example is
+the loss of 70 of the capacity of silicon anode made from 10 m silicon powder within the
+first five cycles.10 There has been a surge in research output to tackle this bottleneck over
+the past decade.11 Specifically, one focus of research is on using micronano sized particle
+silicon anodes as they have been shown to resist cracking and accommodate the volumetric
+change.1113 However, the improvement is still not sufficient for practical application.

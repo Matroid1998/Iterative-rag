@@ -1,0 +1,35 @@
+Description:
+Element forming the backbone of polystannanes.
+
+Text:
+Polystannanes are main group polymers with a conjugated backbone of tin atoms prepared from the reductive coupling 
+of dihalido or dihydrido diorganostannane monomers.1,2 Sodium (Wurtz)35 or electrochemical coupling6,7 of X2SnRR 
+leads directly to the desired materials, while conversion of such materials to diorganostannanes, H2SnRR followed by 
+transition metal catalyzed dehydropolymerization810 affords the target polystannanes. Key to both approaches is 
+access to both homo and heterodiorganostannanes.
+
+
+---
+
+Description:
+A tetracoordinated element involved in the redistribution of organo and halogen substituents.
+
+Text:
+This is traditionally achieved by the Kocheshkov reaction, a 
+solventless redistribution of organo and halogen substituents at tetracoordinated tin centers to afford the required 
+organohalo (R4nSnCln) tin species.1 Experimentally, alkyl substituents have been more difficult to selectively 
+interchange than aryl ones (nBu  Me  Ph  Mes).1 Interestingly, an increase of coordination number at tin from four 
+to six has a notable impact on these redistribution reactions.
+
+
+---
+
+Description:
+An element whose coordination number can increase from four to six, affecting redistribution reactions.
+
+Text:
+This is traditionally achieved by the Kocheshkov reaction, a 
+solventless redistribution of organo and halogen substituents at tetracoordinated tin centers to afford the required 
+organohalo (R4nSnCln) tin species.1 Experimentally, alkyl substituents have been more difficult to selectively 
+interchange than aryl ones (nBu  Me  Ph  Mes).1 Interestingly, an increase of coordination number at tin from four 
+to six has a notable impact on these redistribution reactions.

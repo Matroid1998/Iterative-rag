@@ -1,0 +1,27 @@
+Description:
+A reactant that poses challenges due to unproductive polymerization or oxidation compared to aliphatic alkenes.
+
+Text:
+In this context, transition metal catalyzed direct 
+trifluoromethylation has been employed for a long time to forge Cfluoroalkyl bonds.1b More recently, 
+photocatalysis4 has turned out to be an interesting alternative to leverage the orthogonality of transition 
+metal catalysis through the selective generation of a fluoroalkyl radical, which, in the presence of an 
+appropriate reactant, will yield to the desired product.5 Although a plethora of methodologies have been 
+developed in the last decade for the selective fluoroalkylation of aliphatic alkenes and alkynes under 
+photoredox conditions6, the use of styrene reactants turns out to be particularly challenging. Indeed, 
+unproductive polymerization or oxidation is favored in the latter compared to aliphatic alkenes, which 
+constitutes a major hurdle towards more elaborate functionalization based on radical additions.
+
+
+---
+
+Description:
+A compound used in nucleophilic trapping and hydrotrifluoromethylation reactions.
+
+Text:
+While 
+nucleophilic trapping has been used for the functionalization of styrene, the hydrotrifluoromethylation of 
+styrene derivatives has been scarcely studied. This challenge has been addressed by Choi et al.7 who used 
+inorganic electride as a radical generator (3 equivalents) in their procedure to achieve this transformation. More recently, the group of Nol8 used an iridium based photocatalyst in the presence of 4
+hydroxythiophenol as an external hydrogen donor in batch or continuous flow. It should be mentioned 
+that both procedures made use of gaseous trifluoromethyl iodide. Figure 1. Reactivity of fluoroalkyl radicals with styrene and scope of this study.

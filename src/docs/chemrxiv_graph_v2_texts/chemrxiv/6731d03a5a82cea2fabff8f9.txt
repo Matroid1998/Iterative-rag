@@ -1,0 +1,12 @@
+Description:
+A small substituent accepted by the enzyme.
+
+Text:
+The enzyme has been used for the asymmetric synthesis of nonsteroidal profen antiinflammatory 
+drugs such as (S)flurbiprofen and (S)naproxen, aheterocyclic propionic acids, and aalkenylcarboxylic 
+acids that are building blocks for natural products and pesticides.3 The substrate scope of the enzyme 
+is on the one hand very wide in respect of the larger substituent, with the main requirement that it should 
+bear a pelectron system. In contrast, the size of the smaller substituent is limited; H, CH3, Cl, Br, OH, 
+and NH2 groups are accepted, but 2aryl2ethyl malonates are not converted.2c Another challenge for 
+the application of AMDase lies in the spontaneous decarboxylation of aarylmalonate substrates during 
+their synthesis from the corresponding dialkyl esters.

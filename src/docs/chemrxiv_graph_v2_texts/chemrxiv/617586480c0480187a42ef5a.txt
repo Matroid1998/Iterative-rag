@@ -1,0 +1,31 @@
+Description:
+Involved in filament growth in solid electrolytes, influenced by mass transport limitations and electrodissolution.
+
+Text:
+In addition Several mechanisms are proposed for pathways for Li lament growth
+in solid electrolytes. These mechanisms can be distinguished by the nature of the anode  SE
+interface which can be (i) thermodynamically stable, (ii) unstable, and (iii) metastable based
+on the chemical makeup of the SE4. A key underlying mechanism for all these types of inter
+faces pertains to the limitations in mass transport of Li metal. Highrate electrodissolution
+of the anode can lead to formation of pores at the anode  SE interface21,14. On a subse
+quent electrodeposition step, the pores act as magniers of electric eld leading to localized,
+nonplanar deposition resulting in laments22,5.
+
+
+---
+
+Description:
+Local deposition of Li metal due to trace electrical conductivities of material is identified as a potential failure mechanism for solid electrolytes.
+
+Text:
+In addition to this, interphase formation
+in unstable anode  SE interphases leads to large area specic resistances that cause strong
+electric and stress elds leading to the fracture of the solid electrolyte23,24. For metastable
+interfaces, microstructuredriven, Grithlike cracking processes are also identied over and
+above the mass transport limitation mechanism22. Additionally, local deposition of Li metal
+due to trace electrical conductivities of material is also identied as a potential failure mech
+anism for the solid electrolytes12,13. Understanding the role and impact of heterogenities
+in the interface, interphase, and SE on lament formation and growth is vital. While a lot
+of work has been done on assessing these interplay for amorphous solid electrolytes (like
+Li3PS6)25,4,26,27,28,29, relatively much less work is carried out for polycrystalline solid elec
+trolytes.

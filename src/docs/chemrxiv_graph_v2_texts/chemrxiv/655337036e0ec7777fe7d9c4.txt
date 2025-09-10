@@ -1,0 +1,13 @@
+Description:
+The hydrogen atom's bound energy levels and wave functions are key to understanding the level structures of heavier atoms.
+
+Text:
+In undergraduate courses of Chemistry, quantum mechanics of onedimensional systems 
+occupy a prominent position. Quantum states of a particle in a onedimensional potential well, 
+rigid rotator on a plane, harmonic oscillator, etc. are taught to demonstrate the techniques of 
+arriving at solutions of the Schrodinger equation (SE) posed as a boundary value problem, 
+emphasizing at the same time the importance of all mathematical conditions imposed on the 
+wavefunctions. It is almost mandatory in all such courses to venture a little beyond and discuss 
+quantum mechanics of the hydrogen atom in three dimensions. The bound energy levels and 
+wave functions of the hydrogen atom are key to the development of general ideas and 
+understanding of the level structures of heavier atoms.

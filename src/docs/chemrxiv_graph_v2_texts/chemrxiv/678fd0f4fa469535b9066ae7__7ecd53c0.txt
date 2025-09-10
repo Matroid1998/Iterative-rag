@@ -1,0 +1,43 @@
+Description:
+A high-energy isomer of acetylene with a very low barrier for isomerization.
+
+Text:
+Vinylidene (H2CC) is a highenergy isomer of acetylene (HCCH), and isomerization between 
+the two species represents the simplest example of a 1,2hydrogen shift reaction.1 Vinylidene has 
+been the focus of many theoretical211 and experimental1218 studies owing to its very low barrier 
+for isomerization to acetylene (0.1 eV),19 which opens the possibility for coupling between 
+vibrational states of vinylidene and highly excited acetylene. Because of the low isomerization 
+barrier, the vibration of vinylidene can be strongly anharmonic, especially for modes related to the 
+isomerization coordinate. In fact, such departures from the harmonic limit encode the 
+isomerization dynamics.
+
+
+---
+
+Description:
+A highly reactive transient species subject to nonadiabatic effects.
+
+Text:
+Moreover, the ground and lowlying electronic states of vinylidene are 
+subject to nonadiabatic effects including intersystem crossings, conical intersections, and 
+HerzbergTeller (HT) coupling.17, 20 While neutral vinylidene is a highly reactive transient species 
+and thus difficult to study directly, its anionic counterpart H2CC is stable and straightforward to 
+produce in the gas phase. Previous experimental studies on vinylidene have taken advantage of the 
+stability of the anion by using anion photoelectron spectroscopy (PES) to measure the effect 
+isomerization plays on the neutral vibrational structure.12, 17, 2022 In this paper, we aim to further 
+study the vinylidene system by infrared (IR) vibrational excitation of cryogenically cooled anions 
+paired with slow electron velocitymap imaging (IR cryoSEVI).
+
+
+---
+
+Description:
+Neutral molecules formed upon photodetachment that are stable up to a few microseconds.
+
+Text:
+However, later Coulomb explosion imaging experiments from the Vager 
+group showed that neutral vinylidene molecules formed upon photodetachment were stable up to 
+a few microseconds.14 More recently, our group used cryoSEVI to measure the ! ! PES at higher resolution than the original work and found no evidence of anomalous lifetime 
+broadening.17 That study did however find nominally forbidden transitions involving the 5 
+(antisymmetric CH2 stretch) and 6 (CH2 rock) modes that could gain intensity through HT 
+httpsdoi.org10.26434chemrxiv2025mcbt4 ORCID httpsorcid.org0000000215592112 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

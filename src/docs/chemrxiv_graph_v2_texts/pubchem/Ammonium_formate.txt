@@ -1,0 +1,25 @@
+Name: Ammonium formate
+Text:
+Ammonium formate is a white solid with a weak odor of ammonia. Sinks and mixes slowly with water. (USCG, 1999)
+Ammonium formate is the ammonium salt of formic acid. It has a role as a buffer. It is functionally related to a formic acid.
+Properties:safety: Irritant
+smiles: C(=O)[O-].[NH4+]
+formula: CH2O2.H3N
+chem_properties: Molecular Weight: 63.056 g/mol
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 63.032028402 Da
+Monoisotopic Mass: 63.032028402 Da
+Topological Polar Surface Area: 41.1
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 7.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

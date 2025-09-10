@@ -1,0 +1,28 @@
+Name: Indocyanine Green
+Text:
+Indocyanine green is a cyanine dye, a benzoindole and a 1,1-diunsubstituted alkanesulfonate.
+Indocyanine Green is a nontoxic, fluorescent, tricarbocyanine dye with a peak spectral absorption at 790 nm, with application in determining cardiac output, hepatic function, liver blood flow, as well as ophthalmic angiography. Upon administration, indocyanine green (ICG) rapidly binds to its principle carrier, plasma protein, and is thereby confined to the vascular space. This agent, with a half-life of 150 to 180 seconds, is removed exclusively by the liver from circulation to bile juice. Furthermore, due to poor uptake, ICG is not suitable for angiography or functional output analysis of kidney, lung, cerebro-spinal, or peripheral tissues.
+INDOCYANINE GREEN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1959 and has 24 investigational indications.
+A tricarbocyanine dye that is used diagnostically in liver function tests and to determine blood volume and cardiac output.
+See also: indocyanine green acid form (has active moiety).
+Properties:safety: Irritant
+smiles: CC1(C(=[N+](C2=C1C3=CC=CC=C3C=C2)CCCCS(=O)(=O)[O-])/C=C/C=C/C=C/C=C\4/C(C5=C(N4CCCCS(=O)(=O)[O-])C=CC6=CC=CC=C65)(C)C)C.[Na+]
+formula: C43H47N2NaO6S2
+chem_properties: Molecular Weight: 775.0 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 12
+Exact Mass: 774.27732385 Da
+Monoisotopic Mass: 774.27732385 Da
+Topological Polar Surface Area: 137
+Heavy Atom Count: 54
+Formal Charge: 0
+Complexity: 1520
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 4
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

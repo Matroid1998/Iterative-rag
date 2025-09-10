@@ -1,0 +1,30 @@
+Description:
+An element with relative abundance, low cost, and favorable geographic distribution.
+
+Text:
+Energy storage devices with improved volumetric and gravimetric energy densities 
+beyond Liion batteries are essential to mitigate the effects of climate change 1. One promising candidate is the lithiumsulfur (LiS) chemistry due to its high 
+theoretical capacity (1,675 mAh g1) as well as the relative abundance, low cost and 
+favourable geographic distribution of sulfur 2,3 compared to materials used in Li
+ion positive electrodes. However, while advances in this technology have been 
+made, widespread commercialisation has been hampered by a range of challenges. The insulating nature of sulfur and Li2S necessitates a greater proportion of 
+conductive additives than is required for Liion batteries. These typically comprise 
+around 30 wt of the positive electrode composite, which in turn reduces the 
+energy density of the cell 4,5.
+
+
+---
+
+Description:
+A key active material in LiS cells, often resulting in low utilization and poor electrochemical performance.
+
+Text:
+Significant research has been undertaken to increase 
+the active material loading of LiS cells 6, however this often results in poor 
+electrochemical performance due to low sulfur utilisation and an increase in the 
+polysulfide shuttle effect 7. Furthermore, the electrochemical performance can be 
+improved by the addition of an excessive mass of conductive carbon to the positive 
+electrode composite and substrate 8,9. In some instances, as little as 20 wt sulfur 
+is incorporated into the positive electrode, resulting in a gravimetric capacity too 
+low for practical applications 10. Additionally, most LiS cell research is conducted using coin cells which use a Li 
+metal foil as the negative electrode.

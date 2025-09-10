@@ -1,0 +1,15 @@
+Description:
+Chemically reduced at the Mg anode in carbonate-containing solvents, forming a solid-electrolyte interface.
+
+Text:
+have shown that the salt anion ClO4 is chemically
+reduced at the Mg anode in carbonatecontaining solvents, forming a solidelectrolyte inter
+face (SEI) consisting of Mghalides, MgO, Mg(OH)2, MgCO3, and Mg(ROCO2)2.11
+Second, short circuits are induced by nonuniform Mg growth, which can be further sub
+divided into hemispherical,12 porous13 or dendritic14 growth morphologies.9 Hemispherical
+3D particles with different shapes have been detected in TFSIbased electrolytes as a function
+of the applied current density.12 In an Mg(TFSI)2 salt electrolyte with MgCl2 as additive,
+continuous stripping and plating leads to fracturing and reformation of the SEI layer, re
+sulting in large effective current densities at the respective fracture sites and inhomogeneous
+Mg deposition.13 Through this mechanism, hemispherical deposits are further degraded to
+porous morphologies and trapped sediments that are irreversibly lost for cycling.

@@ -1,0 +1,32 @@
+Description:
+Traditionally harnessed as carbonyl electrophiles with Mg or Li-based organometallic species.
+
+Text:
+Consequently, the quest for alternative strategies that circumvent these limitations while 
+facilitating the construction of threedimensional molecular structures persists as an imperative in 
+medicinal chemistry research.7 
+In recent years, nickelmediated crosselectrophile (XEC) coupling has emerged as a potent strategy for 
+constructing C(sp3)C(sp3) bonds, utilizing various native and benchstable aliphatic coupling entities, 
+thus circumventing the use of moisturesensitive organometallic species.815 Despite substantial strides 
+within this sphere, exploiting varied, ubiquitous functional groups such as aldehydes as coupling 
+partners has lingered in a state of underdevelopment. Traditionally, aldehydes have been harnessed as 
+carbonyl electrophiles with Mg or Libased organometallic species or within NozakiHiyamaKishi 
+(NHK) type reactivity to yield alcohols,16,17 yet their employment to forge C(sp3)C(sp3) bonds via a 
+reductive deoxygenative pathway remains, to our knowledge, uncharted.
+
+
+---
+
+Description:
+Electrophiles that can undergo direct coupling with sp2 and sp3 electrophiles.
+
+Text:
+A pioneering approach, that 
+enables the direct coupling of sp2 and sp3 electrophiles, such as aldehydes and carboxylic acids, heralds 
+an unprecedented disconnection in the crosselectrophile coupling domain (Figure 1A). Aryl sulfonyl 
+hydrazones are considered as a benchstable, activated form of aldehydes due to their known propensity 
+to undergo both radical and polar addition, ultimately yielding deoxygenated, crosscoupled products 
+upon thermal decomposition of alkylated hydrazide intermediates (Figure 1B).1827 Utilizing abundant 
+aliphatic carboxylic acids activated as NHPIbased redoxactive esters (RAEs) to serve as sp3 
+electrophiles, and employing visible lightmediated decarboxylation to yield carboncentered 
+httpsdoi.org10.26434chemrxiv2023fcl2j ORCID httpsorcid.org0000000231076927 Content not peerreviewed by ChemRxiv. License CC BY 4.0

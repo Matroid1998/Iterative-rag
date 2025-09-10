@@ -1,0 +1,20 @@
+Description:
+A redox-active species that shuttles electrons or holes between immobilized electrocatalysts and an electrode.
+
+Text:
+One approach to imparting conductivity 
+is to tether redoxactive moieties, such as ferrocene (Fc), to 
+MOF nodes, and then rely upon electron or hole exchange be
+tween neighboring neutral and oxidized, or reduced and neutral 
+forms of the tethered species.2327 This mechanism of charge 
+propagation is often termed redox hopping and can be con
+trasted with approaches that instead impart conductivity by in
+troducing bandlike electronic properties.2830 It also can be con
+trasted with approaches that rely upon permeation of MOF 
+channels with a solution containing dissolved redoxactive spe
+cies (for example, methylviologen dications (MV2)) that phys
+ically shuttle electrons or holes between immobilized electro
+catalysts and an underlying electrode.31 
+Here we return to the notion of conduction via repetitive 
+charge hopping between MOF tetheredimmobilized redox spe
+cies.

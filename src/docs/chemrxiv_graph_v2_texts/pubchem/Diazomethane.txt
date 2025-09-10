@@ -1,0 +1,28 @@
+Name: Diazomethane
+Text:
+Diazomethane is a yellow gas with a musty odor that is shipped as a liquid under pressure. (NIOSH, 2024) Highly toxic by inhalation.
+Diazomethane is the simplest diazo compound, in which a diazo group is attached to a methylene group. It has a role as an alkylating agent, an antineoplastic agent, a carcinogenic agent and a poison.
+The major source of exposure to diazomethane is occupational. Diazomethane is a strong respiratory irritant. Acute (short-term) inhalation exposure of humans to diazomethane may cause irritation of the eyes, cough, wheezing, asthmatic symptoms, pulmonary edema, pneumonia, dizziness, weakness, headache, and chest pains. No information is available on the chronic (long-term), reproductive, developmental, or carcinogenic effects of diazomethane in humans. Increased incidences of lung tumors have been observed in rats and mice exposed to diazomethane by inhalation and in dermally exposed mice. EPA has not classified diazomethane with respect to its potential carcinogenicity.
+A diazonium compound with the formula CH2N2.
+Properties:safety: Health Hazard
+smiles: C=[N+]=[N-]
+formula: CH2N2
+chem_properties: Molecular Weight: 42.040 g/mol
+XLogP3: 1.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 42.021798072 Da
+Monoisotopic Mass: 42.021798072 Da
+Topological Polar Surface Area: 2
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 25.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,32 @@
+Description:
+A class of compounds that includes glyphosate, used as herbicides.
+
+Text:
+The organophosphate glyphosate (GP) is the active ingredient in herbicide products such as 
+RoundUp, and is the most used herbicide in the world.13 GP persistence in soil has been 
+shown to range from days to months, and the halflife increases if the compound reaches water 
+sources through erosion or leaching.48 Due to its environmental persistence and widespread use 
+in agricultural and urban settings, GP has been detected in groundwater and surface water, as 
+well as in human urine samples.811 While not as lethal as the phosphoric acid ester compounds 
+used as chemical warfare agents and pesticides, GP has been shown to cause damage to human 
+cells, and exposure has been linked to an increased risk of nonHodgkins lymphoma and 
+multiple myeloma.1215 Moreover, GP exposure through drinking water has been shown to cause 
+developmental defects in animals.16,17 Therefore, GP contamination of water supplies poses a 
+serious environmental and human health concern, leading the Environmental Protection Agency 
+(EPA) to set a Maximum Contaminant Level Goal (MCLG) for GP of 700 ppb.1720 
+Environmental degradation of GP occurs primarily through the enzymatic activity of bacteria in 
+soil and proceeds via two main pathways.21,22 The first involves cleavage of the CN bond by 
+GP oxidoreductase (GOX), resulting in the formation of glyoxylate and aminomethylphosphonic 
+acid (AMPA).2123 The formation of AMPA is undesirable, as it exhibits similar toxicity and a 
+longer halflife than GP, has been shown to interfere with DNA synthesis and repair in fish and 
+amphibians, which can also have adverse effects on human blood cells.2428 The second pathway 
+involves the cleavage of the CP bond by CP lyase, leading to the formation of phosphate and 
+sarcosine.2326 The CP lyase pathway is more desirable, as its degradation products are benign 
+and can be used as nutrients by soil microorganisms.29,30 Several bacterial and fungal species 
+have been studied for biodegradation of GP in water.21,31 Enzymatic degradation has the 
+advantage of control over degradation products.21,32 However, the performance of 
+microorganisms for GP remotion depends on factors such as pH, temperature, and GP 
+concentration.30 Furthermore, expression of the GPdegrading enzymes by microorganisms 
+relies on cellular deficits of nitrogen and phosphorus, representing conditions which are not 
+typical in natural environments polluted by GP.30 
+Adsorption is the simplest and most costeffective method for GP removal.

@@ -1,0 +1,33 @@
+Name: Chlorpromazine
+Text:
+Chlorpromazine is a substituted phenothiazine in which the ring nitrogen at position 10 is attached to C-3 of an N,N-dimethylpropanamine moiety. It has a role as a phenothiazine antipsychotic drug, an antiemetic, a dopaminergic antagonist, an EC 3.4.21.26 (prolyl oligopeptidase) inhibitor and an anticoronaviral agent. It is a member of phenothiazines, an organochlorine compound and a tertiary amine.
+The prototypical phenothiazine antipsychotic drug. Like the other drugs in this class, chlorpromazine's antipsychotic actions are thought to be due to long-term adaptation by the brain to blocking dopamine receptors. Chlorpromazine has several other actions and therapeutic uses, including as an antiemetic and in the treatment of intractable hiccup.
+Chlorpromazine is a Phenothiazine.
+Chlorpromazine is a phenothiazine that was once the most commonly prescribed antipsychotic agent, but that is now rarely used. Chlorpromazine can cause mild and transient serum enzyme elevations and is also a well known cause of clinically apparent acute and chronic cholestatic liver injury.
+Chlorpromazine is a phenothiazine and traditional antipsychotic agent with anti-emetic activity. Chlorpromazine exerts its antipsychotic effect by blocking postsynaptic dopamine receptors in cortical and limbic areas of the brain, thereby preventing the excess of dopamine in the brain. This leads to a reduction in psychotic symptoms, such as hallucinations and delusions. Chlorpromazine appears to exert its anti-emetic activity by blocking the dopamine receptors in the chemical trigger zone (CTZ) in the brain, thereby relieving nausea and vomiting.
+CHLORPROMAZINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1957 and has 6 approved and 5 investigational indications. This drug has a black box warning from the FDA.
+The prototypical phenothiazine antipsychotic drug. Like the other drugs in this class, chlorpromazine's antipsychotic actions are thought to be due to long-term adaptation by the brain to blocking dopamine receptors. Chlorpromazine has several other actions and therapeutic uses, including as an antiemetic and in the treatment of intractable hiccup.
+The prototypical phenothiazine antipsychotic drug. Like the other drugs in this class chlorpromazine's antipsychotic actions are thought to be due to long-term adaptation by the brain to blocking DOPAMINE RECEPTORS. Chlorpromazine has several other actions and therapeutic uses, including as an antiemetic and in the treatment of intractable hiccup.
+See also: Phenothiazine (subclass of); Chlorpromazine Hydrochloride (has salt form); Chlorpromazine Hibenzate (is active moiety of) ... View More ...
+Properties:safety: Acute Toxic and Environmental Hazard
+smiles: CN(C)CCCN1C2=CC=CC=C2SC3=C1C=C(C=C3)Cl
+formula: C17H19ClN2S
+chem_properties: Molecular Weight: 318.9 g/mol
+XLogP3: 5.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 4
+Exact Mass: 318.0957475 Da
+Monoisotopic Mass: 318.0957475 Da
+Topological Polar Surface Area: 31.8
+Heavy Atom Count: 21
+Formal Charge: 0
+Complexity: 339
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

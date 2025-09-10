@@ -1,0 +1,15 @@
+Description:
+Undergoes a three-electron reaction with Li and is used as a cathode material in Li metal batteries.
+
+Text:
+High energy density batteries are needed to meet ever expanding energy demands. Li metal 
+batteries (LMBs) containing conversion cathode materials are a promising route for achieving 
+this goal due to large working voltages,1, 2 multielectron reactions,1, 2 and the exceptional 
+theoretical capacity of Li metal (3860 mAh g1).3, 4 For example, the threeelectron reaction 
+that FeF3 undergoes with Li,1 paired with a 2.7 V LiFeF3 potential difference,2 confers a 
+theoretical energy density of 1922 Wh kg1.1 High energy density, along with environmental 
+
+3 
+
+benignity and rich natural abundance, has spurred interest in FeF3 as an LMB cathode 
+material.1, 2, 57

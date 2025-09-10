@@ -1,0 +1,13 @@
+Description:
+Undergoes phase transformations in lithium ion batteries, producing Bi metal and LiF.
+
+Text:
+Despite the common concern that large volume changes of CAMs observed for conversion
+based phase transformation (recrystallization) lead to loss of contact and poor capacity 
+retention upon cycling, the detailed phase transformations occurring upon chargedischarge 
+processes are only little understood. In the case of BiF3, previous investigations on reaction 
+mechanism were mostly carried out on LIBs (BiF3  3 Li  3 e  3 LiF  Bi) andor FIBs (BiF3 
+ 3 e  Bi  3 F) based on liquid electrolytes2025. Konishis group proposed that the poor 
+cycling performance of BiF3 electrode in Lithium ion batteries (LIBs) could be attributed to 
+insufficient discharge reactions as well as the production of Bi metal and organic electrolyte 
+impeding surface charge reactions 22.

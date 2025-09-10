@@ -1,0 +1,24 @@
+Name: Bis(trichloromethyl) carbonate
+Text:
+Properties:safety: Corrosive and Acute Toxic
+smiles: C(=O)(OC(Cl)(Cl)Cl)OC(Cl)(Cl)Cl
+formula: C3Cl6O3
+chem_properties: Molecular Weight: 296.7 g/mol
+XLogP3: 4.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 2
+Exact Mass: 295.794910 Da
+Monoisotopic Mass: 293.797860 Da
+Topological Polar Surface Area: 35.5
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 150
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

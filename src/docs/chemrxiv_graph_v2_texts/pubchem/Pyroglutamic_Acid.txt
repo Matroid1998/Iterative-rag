@@ -1,0 +1,33 @@
+Name: Pyroglutamic Acid
+Text:
+5-oxo-L-proline is an optically active form of 5-oxoproline having L-configuration. It has a role as an algal metabolite. It is a L-proline derivative, a non-proteinogenic L-alpha-amino acid and a 5-oxoproline. It is a conjugate acid of a 5-oxo-L-prolinate. It is an enantiomer of a 5-oxo-D-proline.
+Pidolic acid is a naturally occurring but little-studied amino acid derivative that can be formed enzymatically or non-enzymatically and participates as a biological intermediate with unique pharmacodynamics in various chemical pathways. Elevations of the acid in blood levels may be associated with problems of glutamine or glutathione metabolism. Pidolic acid, in general, is found in large quantities in brain tissue and other tissues in bound form, like skin.  There are currently little to no medicines available that are clinically approved or marketed for employing pidolic acid as an active ingredient for any particular formal indication. Although pidolic acid is included in some over-the-counter, non-prescription dietary supplements for the proposed purpose of facilitating cognitive or memory enhancement, most available research suggest exercising caution in their recommendation as much more research is necessary.
+Pyrrolidonecarboxylic acid is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+L-Pyroglutamic acid has been reported in Trichoderma asperellum, Rehmannia glutinosa, and other organisms with data available.
+Pidolic Acid is a keto derivative of the amino acid proline.
+PIDOLIC ACID is a small molecule drug with a maximum clinical trial phase of II (across all indications) and has 2 investigational indications.
+Pyroglutamic acid, or 5-oxoproline, is a cyclized derivative of L-glutamic acid. It is an uncommon amino acid derivative in which the free amino group of glutamic acid cyclizes to form a lactam. It is formed nonenzymatically from glutamate, glutamine, and gamma-glutamylated peptides, but it can also be produced by the action of gamma-glutamylcyclotransferase on an L-amino acid. Elevated blood levels may be associated with problems of glutamine or glutathione metabolism. This compound is found in substantial amounts in brain tissue and other tissue in bound form, especially skin. Also present in plant tissues. It is sold, over the counter, as a smart drug for improving blood circulation in the brain.
+Pyroglutamic acid is a metabolite found in or produced by Saccharomyces cerevisiae.
+A cyclized derivative of L-GLUTAMIC ACID. Elevated blood levels may be associated with problems of GLUTAMINE or GLUTATHIONE metabolism.
+Properties:safety: Corrosive and Irritant
+smiles: C1CC(=O)N[C@@H]1C(=O)O
+formula: C5H7NO3
+chem_properties: Molecular Weight: 129.11 g/mol
+XLogP3: -0.8
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 1
+Exact Mass: 129.042593085 Da
+Monoisotopic Mass: 129.042593085 Da
+Topological Polar Surface Area: 66.4
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 154
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

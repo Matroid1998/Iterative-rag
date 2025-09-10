@@ -1,0 +1,16 @@
+Description:
+A prototypical compound studied for its excited state landscape using transient optical absorption spectroscopy and transient X-ray emission spectroscopy.
+
+Text:
+Such hot CT chromophores have been demonstrated
+with highZ (Cotic2024) and to a lesser extent, with lowZ TMC (Sinha2022, Zhang2023),
+for bimolecular chemical reactions and shortrange CT to surfaces. However, both design
+and optimization remain highly challenging due to the complexities associated with the
+experimental and theoretical mapping of competing pathways in multidimensional energy
+landscapes. Elucidating the mechanisms of deactivation in benchmark systems lays a solid
+ground for devising innovative strategies capable of harnessing the underlying processes in
+rationally tailored systems. In this work, multitechnique probing with transient optical absorption spectroscopy (trOAS)
+and transient Xray emission spectroscopy (trXES) are combined with Fulldimensional
+Trajectory Surface Hopping (TSH) dynamics simulations to establish a clear correlation
+between CT and bifurcation in the excited state landscape of a prototypical Ni(II) porphyrin
+(NiP).

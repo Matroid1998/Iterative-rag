@@ -1,0 +1,36 @@
+Name: Paclitaxel
+Text:
+Paclitaxel can cause developmental toxicity, female reproductive toxicity and male reproductive toxicity according to state or federal government labeling requirements.
+Taxol appears as needles (from aqueous methanol) or fine white powder. An anti-cancer drug.
+Paclitaxel is a tetracyclic diterpenoid isolated originally from the bark of the Pacific yew tree, Taxus brevifolia. It is a mitotic inhibitor used in cancer chemotherapy. Note that the use of the former generic name 'taxol' is now limited, as Taxol is a registered trade mark. It has a role as a microtubule-stabilising agent, a metabolite, a human metabolite and an antineoplastic agent. It is a tetracyclic diterpenoid and a taxane diterpenoid. It is functionally related to a baccatin III.
+Paclitaxel is a chemotherapeutic agent marketed under the brand name Taxol among others. Used as a treatment for various cancers, paclitaxel is a mitotic inhibitor that was first isolated in 1971 from the bark of the Pacific yew tree which contains endophytic fungi that synthesize paclitaxel. It is available as an intravenous solution for injection and the newer formulation contains albumin-bound paclitaxel marketed under the brand name Abraxane.
+Paclitaxel is a Microtubule Inhibitor. The physiologic effect of paclitaxel is by means of Microtubule Inhibition.
+Paclitaxel is an antineoplastic agent which acts by inhibitor of cellular mitosis and which currently plays a central role in the therapy of ovarian, breast, and lung cancer. Therapy with paclitaxel has been associated with a low rate of serum enzyme elevations, but has not been clearly linked to cases of clinically apparent acute liver injury.
+Paclitaxel has been reported in Aspergillus ochraceopetaliformis, Aspergillus versicolor, and other organisms with data available.
+Paclitaxel is a compound extracted from the Pacific yew tree Taxus brevifolia with antineoplastic activity.  Paclitaxel binds to tubulin and inhibits the disassembly of microtubules, thereby resulting in the inhibition of cell division.  This agent also induces apoptosis by binding to and blocking the function of the apoptosis inhibitor protein Bcl-2 (B-cell Leukemia 2). (NCI04)
+PACLITAXEL is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1992 and has 12 approved and 146 investigational indications. This drug has a black box warning from the FDA.
+A cyclodecane isolated from the bark of the Pacific yew tree, TAXUS brevifolia. It stabilizes microtubules in their polymerized form leading to cell death.  ABI-007 (Abraxane) is the latest attempt to improve upon paclitaxel, one of the leading chemotherapy treatments. Both drugs contain the same active agent, but Abraxane is delivered by a nanoparticle technology that binds to albumin, a natural protein, rather than the toxic solvent known as Cremophor. It is thought that delivering paclitaxel with this technology will cause fewer hypersensitivity reactions and possibly lead to greater drug uptake in tumors. Paclitaxel is a mitotic inhibitor used in cancer chemotherapy. It was discovered in a US National Cancer Institute program at the Research Triangle Institute in 1967 when Monroe E. Wall and Mansukh C. Wani isolated it from the bark of the Pacific yew tree, Taxus brevifolia and named it taxol. Later it was discovered that endophytic fungi in the bark synthesize paclitaxel.
+A cyclodecane isolated from the bark of the Pacific yew tree, TAXUS BREVIFOLIA. It stabilizes MICROTUBULES in their polymerized form leading to cell death.
+See also: Paclitaxel Ceribate (is active moiety of); Paclitaxel Poliglumex (is active moiety of); 7-Acetyltaxol (annotation moved to) ... View More ...
+Properties:safety: Corrosive and Irritant and Health Hazard
+smiles: CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)C6=CC=CC=C6)O)O)OC(=O)C7=CC=CC=C7)(CO4)OC(=O)C)O)C)OC(=O)C
+formula: C47H51NO14
+chem_properties: Molecular Weight: 853.9 g/mol
+XLogP3: 2.5
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 14
+Rotatable Bond Count: 14
+Exact Mass: 853.33095530 Da
+Monoisotopic Mass: 853.33095530 Da
+Topological Polar Surface Area: 221
+Heavy Atom Count: 62
+Formal Charge: 0
+Complexity: 1790
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 11
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

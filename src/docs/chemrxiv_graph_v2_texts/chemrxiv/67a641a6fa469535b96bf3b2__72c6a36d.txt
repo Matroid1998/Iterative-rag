@@ -1,0 +1,31 @@
+Description:
+Requires development of methodologies for site-selective and substrate-oriented synthesis of unsymmetrical frameworks.
+
+Text:
+Considerable efforts have been dedicated to the synthesis of diarylmethanes and diarylketones using 
+methods such as FriedelCraftstype reactions, Grignardtype reactions, and transition metalcatalyzed 
+crosscoupling reactions, including SuzukiMiyaura, Negishi, Kumada, and Fukuyama couplings (see 
+Figure 1). While these elegant methods play a pivotal role in chemical transformations, they are often 
+limited by challenges such as regioselectivity, air and moisture sensitivity, and the use of excess 
+amounts of reagents which associated with the use of additives. Additionally, these reactions are 
+frequently incompatible with unprotected functional groups. Although several promising stateoftheart approaches have been introduced, there remains a need 
+for the development of a simple, complementary, and comprehensive methodology for the site
+selective and substrateoriented synthesis of unsymmetrical diarylmethane and diarylketone 
+frameworks.
+
+
+---
+
+Description:
+A type of diarylated compound used in bioactive compound synthesis.
+
+Text:
+As part of our overarching strategies to synthesize a diverse range of diarylatedbased bioactive 
+compounds (18, Figure 1B), encompassing diarylmethane and diarylketone derivatives, we identified 
+organophosphonium salts (i.e., 11) as versatile core scaffolds for these molecules (Figure 1).1, 2 
+Organophosphonium salts, characterized by the presence of CP moieties, particularly 
+organophosphorusbased Wittig salts, are among the most widely utilized reagents in organic synthesis 
+for constructing CC double bonds.1, 2 In recent years, innovative methods for functionalizing the C
+P bond have emerged, employing organophosphonium compounds in novel ways to enable the 
+formation of new chemical bonds such as CO, CN, CS, and CC bonds.2 These advancements 
+httpsdoi.org10.26434chemrxiv2025d9zv4 ORCID httpsorcid.org0000000169925595 Content not peerreviewed by ChemRxiv. License CC BY 4.0

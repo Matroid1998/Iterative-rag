@@ -1,0 +1,40 @@
+Description:
+A redox active metal that can be toxic when concentrations exceed what can be properly handled by the cell.
+
+Text:
+66 
+Copper (Cu) is a redox active metal, which makes it suitable for various essential cellular 
+67 
+processes such electron transport in photosynthesis and respiration,1,2 the breakdown of reactive 
+68 
+oxygen species,3,4 and uptake of iron.5 However, the same redox properties that make Cu 
+69 
+beneficial can be toxic when concentrations exceed what can be properly handled by the cell, 
+70 
+resulting in decreased cell growth and ultimately leading to cell death.69 The most bioavailable 
+71 
+and toxic form of Cu is the cupric ion (Cu2).5,6,10 The toxicity threshold for especially sensitive 
+72 
+microbes, such as cyanobacteria,6,11 can be as low as 1013 M, which is within the range of 
+73 
+environmental Cu2 concentrations in seawater (1015 to 1012 M).12,13 One strategy microbes 
+74 
+employ to mitigate the toxicity of Cu2 is to produce organic ligands that complex Cu to make it 
+75 
+less (or not at all) bioavailable.14,15 For example, phytochelatins (oligomers of glutathione) and 
+76 
+metallothioneins (a family of low molecular weight proteins) form strong complexes with Cu2 
+77 
+and have been shown to be produced in response to Cu toxicity.1618 
+78 
+In seawater, dissolved Cu is almost entirely complexed by organic ligands (CuL).19 
+79 
+Remobilization of the ligandbound Cu is governed by the structure of the ligand which plays a 
+80 
+role in determining the strength of complexation, influencing its photoreactivity and ultimately 
+81 
+the bioavailability of Cu.20 The detection and identification of CuLs in seawater has been 
+82 
+plagued by analytical challenges common to marine samples  high concentrations of salts, low 
+83 
+concentrations of individual CuLs, and an ultracomplex background organic matrix.

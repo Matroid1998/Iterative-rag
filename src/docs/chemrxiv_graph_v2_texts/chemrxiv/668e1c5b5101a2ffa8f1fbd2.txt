@@ -1,0 +1,66 @@
+Description:
+A gas that can be reduced into value-added products to produce synthetic fuels or commodity synthetic hydrocarbon molecules.
+
+Text:
+35 
+Renewable energy is increasingly abundant and future investment will allow it to meet the growing energy 
+36 
+demand in the world14. A critical component for replacing fossil fuels with renewable energy is converting 
+37 
+electrical power obtained from renewable sources into synthetic fuels that can be used in transportation 
+38 
+or stored to be used ondemand5,6. Reducing CO2 into valueadded products would produce synthetic 
+39 
+fuels or commodity synthetic hydrocarbon molecules, while simultaneously contributing to reduce 
+40 
+atmospheric CO2 through carbon capture and utilization 79. 41 
+Electrochemical CO2 reduction (CO2 ER) is an efficient and clean process to convert CO2 into liquid fuels 
+42 
+and other reduced carbonbased compounds 913.
+
+
+---
+
+Description:
+Can be converted into liquid fuels and other reduced carbon-based compounds through electrochemical reduction.
+
+Text:
+35 
+Renewable energy is increasingly abundant and future investment will allow it to meet the growing energy 
+36 
+demand in the world14. A critical component for replacing fossil fuels with renewable energy is converting 
+37 
+electrical power obtained from renewable sources into synthetic fuels that can be used in transportation 
+38 
+or stored to be used ondemand5,6. Reducing CO2 into valueadded products would produce synthetic 
+39 
+fuels or commodity synthetic hydrocarbon molecules, while simultaneously contributing to reduce 
+40 
+atmospheric CO2 through carbon capture and utilization 79. 41 
+Electrochemical CO2 reduction (CO2 ER) is an efficient and clean process to convert CO2 into liquid fuels 
+42 
+and other reduced carbonbased compounds 913.
+
+
+---
+
+Description:
+Can be hydrogenated or used in electroreduction processes under ambient conditions.
+
+Text:
+In contrast with conventional commercial methods, 
+43 
+such as CO2 hydrogenation or the FisherTropsch processes, CO2 ER can be conducted under ambient 
+44 
+temperatures and pressures using modular, scalable and decentralized units14. Copperbased catalysts are 
+45 
+the most selective materials known to unlock CO2 ER towards C2 compounds, such as ethanol and 
+46 
+ethylene10,1517 and other multicarbon hydrocarbons. And compared to other metal catalysts, copper 
+47 
+exhibits a relatively lower selectivity towards hydrogen evolution, leading to unmatched Faradaic 
+48 
+efficiencies for CO2 ER18. 49 
+In the last two decades, numerous studies1921 attempted to optimize the catalytic activity, the energy 
+50 
+efficiency, and the selectivity of copper.

@@ -1,0 +1,23 @@
+Description:
+A cathode material commonly used in modern Li-ion batteries.
+
+Text:
+Over the past two decades, several insertionbased 
+cathode materials such as LiCoO2, LiMn2O4, and LiFePO4 have been developed, and are commonly 
+used in modern Liion batteries.4,5 However, in order to meet the energy requirements for allelectric 
+vehicles (EVs) and grid energy storage, there is an urgent need to develop alternative cathode materials 
+which can offer a significant increase in energy density and capacity, while also reducing costs and 
+environmental detrimental footprints of current cathode materials.4,6 
+Sulfur, which is the 5th most abundant element on Earth, has gained special attention as a promising 
+cathode material owing to its theoretical specific capacity of 1675 mA h g1, which is the highest among 
+solid elements, and around tenfold the capacity traditional cathodes offer.79 In addition to the high 
+specific capacity of sulfur, transitioning from traditional insertion cathodes to sulfurbased counterparts 
+offers several additional benefits, namely, low operating voltage of 2.15 V vs LiLi, which enhances 
+overall safety of the cell, along with a great difference in price and environmental impact between sulfur 
+and costly toxic transition metals such as cobalt, nickel and manganese.8,10,11 The aforementioned 
+increase in capacity over conventional insertion compound cathodes can enable the assembly of 
+LithiumSulfur batteries (LSBs) with a high energy density of 400600 Wh kg1, which is two to three 
+times greater than that of current Liion batteries, and can potentially achieve the coveted target range 
+of 500 km between charges for EVs.12,13 The low cost and high energy density also make sulfur cathodes 
+appealing for grid energy storage for renewable energies such as solar and wind, provided that high 
+system efficiency and long cycle life can be achieved.

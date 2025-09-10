@@ -1,0 +1,30 @@
+Name: Ibrutinib
+Text:
+Ibrutinib is a member of the class of acrylamides that is (3R)-3-[4-amino-3-(4-phenoxyphenyl)pyrazolo[3,4-d]pyrimidin-1-yl]piperidine in which the piperidine nitrogen is replaced by an acryloyl group. A selective and covalent inhibitor of the enzyme Bruton's tyrosine kinase, it is used for treatment of B-cell malignancies. It has a role as an EC 2.7.10.2 (non-specific protein-tyrosine kinase) inhibitor and an antineoplastic agent. It is a pyrazolopyrimidine, an aromatic amine, an aromatic ether, a member of acrylamides, a N-acylpiperidine and a tertiary carboxamide.
+Ibrutinib is a small molecule that acts as an irreversible potent inhibitor of Burton's tyrosine kinase. It is designated as a targeted covalent drug and presented as a promising activity in B-cell malignancies in clinical trials. Ibrutinib was developed by Pharmacyclics Inc and was first approved by the FDA in November 2013 for the treatment of mantle cell lymphoma (MCL) under accelerated approval; however, in April 2023, the drug manufacturer withdrew the accelerated approvals for ibrutinib in the US.  Ibrutinib was approved by the EMA in October 2014 and by Health Canada in November 2014. It is currently approved for the treatment of various conditions, such as chronic lymphocytic leukemia (CLL), Waldenström's Macroglobulinemia, and chronic graft versus host disease (cGVHD) in August 2017. Notably, ibrutinib became the first FDA-approved cGVHD treatment for children in August 2017.
+Ibrutinib is a Kinase Inhibitor. The mechanism of action of ibrutinib is as a Protein Kinase Inhibitor.
+Ibrutinib is an oral inhibitor of Bruton’s tyrosine kinase that is used in the therapy of refractory chronic lymphocytic leukemia (CLL) and mantle cell lymphoma. Ibrutinib has not been associated with serum enzyme elevations during therapy, but has been linked to rare cases of clinically apparent acute liver injury and to reactivation of hepatitis B.
+Ibrutinib is an orally bioavailable, small-molecule inhibitor of Bruton's tyrosine kinase (BTK) with potential antineoplastic activity. Upon oral administration, ibrutinib binds to and irreversibly inhibits BTK activity, thereby preventing both B-cell activation and B-cell-mediated signaling. This leads to an inhibition of the growth of malignant B cells that overexpress BTK. BTK, a member of the src-related BTK/Tec family of cytoplasmic tyrosine kinases, is required for B cell receptor signaling, plays a key role in B-cell maturation, and is overexpressed in a number of B-cell malignancies. The expression of BTK in tumor cells is also associated with increased proliferation and survival.
+IBRUTINIB is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2013 and has 6 approved and 42 investigational indications.
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: C=CC(=O)N1CCC[C@H](C1)N2C3=NC=NC(=C3C(=N2)C4=CC=C(C=C4)OC5=CC=CC=C5)N
+formula: C25H24N6O2
+chem_properties: Molecular Weight: 440.5 g/mol
+XLogP3: 3.6
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 5
+Exact Mass: 440.19607403 Da
+Monoisotopic Mass: 440.19607403 Da
+Topological Polar Surface Area: 99.2
+Heavy Atom Count: 33
+Formal Charge: 0
+Complexity: 678
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,27 @@
+Name: Azulene
+Text:
+Azulene is a mancude carbobicyclic parent consisting of a cycloheptatriene and cyclopentadiene rings. It has a role as a plant metabolite and a volatile oil component. It is an ortho-fused bicyclic arene, a member of azulenes and a mancude carbobicyclic parent.
+Azulene has been reported in Achillea asiatica, Basella alba, and other organisms with data available.
+Azulene is one of over 100 different polycyclic aromatic hydrocarbons (PAHs). PAHs are chemicals that are formed during the incomplete burning organic substances, such as fossil fuels. They are usually found as a mixture containing two or more of these compounds. (L10)
+Properties:safety: Environmental Hazard
+smiles: C1=CC=C2C=CC=C2C=C1
+formula: C10H8
+chem_properties: Molecular Weight: 128.17 g/mol
+XLogP3: 3.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 128.062600255 Da
+Monoisotopic Mass: 128.062600255 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 94.6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

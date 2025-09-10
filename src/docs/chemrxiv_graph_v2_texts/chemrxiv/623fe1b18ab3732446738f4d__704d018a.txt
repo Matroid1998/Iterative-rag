@@ -1,0 +1,10 @@
+Description:
+Used as membrane materials with acidic functionality for high proton conductivity.
+
+Text:
+To date, Nafion and Nafionlike polymers with acidic 
+functionality are widely used as membrane materials due to their high proton conductivity in 
+the range of 101 to 102 S cm1 at higher relative humidity.13,14 However, these materials suffer 
+from high costs, hazardous production process, and poor performance at high temperature, 
+limiting their versatility.15 For further developments of PEMFC a broader range of materials is 
+needed to extent the scope of their applications.

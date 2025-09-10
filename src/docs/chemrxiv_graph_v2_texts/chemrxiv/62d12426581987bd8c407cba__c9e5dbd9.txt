@@ -1,0 +1,15 @@
+Description:
+A lipid molecule used in the study of lipid bilayers.
+
+Text:
+Such understanding can be obtained through computational tools, but it is 
+important that tools used depict the structure, dynamics, and function of lipid bilayers accurately. Accurate lipid models allow the reliable study of, for example, membranebound proteins, 
+transport through membranes, and pharmacokinetics of drugs (4). Figure 1. Chemical structure of 1palmitoyl2oleylphosphatidylcholine (POPC) 
+Why accurate force field parameters are important 
+
+4 
+Force field accuracy is of key importance in atomistic molecular dynamics (MD) simulation 
+methods. Atomistic MD enables studying systems of interest in life sciences by a balance between 
+computing power and precision instead of the computationally heavy methods needed to describe 
+quantum mechanical behavior, MD uses typically classical mechanics approximation (called force 
+field) to reproduce molecular behavior.

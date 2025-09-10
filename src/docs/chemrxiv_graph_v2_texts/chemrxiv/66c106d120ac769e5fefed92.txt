@@ -1,0 +1,28 @@
+Description:
+Involved in the oxygen reduction reaction (ORR) and the oxygen evolution reaction (OER) which are crucial for the efficiency of zinc-air batteries.
+
+Text:
+The 
+development 
+of 
+costeffective, 
+sustainable 
+and 
+environmentalfriendly energy conversion and storage devices is 
+a key path towards carbon neutrality.13 Rechargeable zincair 
+batteries (ZABs) are amongst the most promising battery 
+technologies as they combine high energy density (theoretical 
+limit 1086 Wh kg1), economic viability and feasible scaleup.46 
+However, the sluggish kinetics of the oxygen reduction reaction 
+(ORR) and the oxygen evolution reaction (OER) result in high 
+overpotentials and unsatisfactory efficiency, thereby causing 
+major roadblocks in the development of ZABs.7,8 While noble 
+metalbased catalysts might address some of these issues, their 
+scarcity and high cost prohibit largescale commercialization.9,10 
+Thus, the development of highly efficient and robust bifunctional 
+ORROER electrocatalysts based on earthabundant elements is 
+a grand challenge in sustainable energy research.11 
+Recently, single atom catalysts (SACs) have emerged as 
+promising alternatives to noble metal catalysts.12,13 In SACs, 
+transition metal atoms (especially Fe, Co, Ni and Mn) are 
+anchored on electroactive matrices, e.g.

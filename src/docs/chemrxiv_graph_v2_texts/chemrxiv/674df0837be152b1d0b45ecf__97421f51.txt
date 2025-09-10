@@ -1,0 +1,22 @@
+Description:
+Molecules that exhibit low-energy absorption bands and good thermal bistability, used in applications like molecular machines and photopharmacology.
+
+Text:
+Notable examples of photoswitchdriven 
+nanodevices and molecular machines include the lightcontrol of surface wettability,4,5 
+optoelectronics such as lightpowered electrical switches,6 chemical sensing,7,8 and 
+photosensitive medicine.911 Especially for biological and material science 
+applications that do not tolerate highenergy input, the absorption of visible light by the 
+photoswitchable chromophores is particularly desirable.9,1217 
+Apart from the longknown azobenzenes, a recently emerging class of photoswitches 
+is given by indigoids18,19 and particularly hemithioindigo (HTI) (Scheme 1).20 These 
+compounds feature such desired lowenergy absorption bands for electronic 
+excitations together with a good thermal bistability, and chemical durability along the 
+switching process.20,21 Consequentially, HTIs have found their way into a plethora of 
+applications including molecular machines such as motors,3,22,23 gears,24,25 or 
+tweezers,26 as well as photoresponsive catalysis,27 supramolecular chemistry,2830 
+molecular computing,31,32 or photopharmacology.3336 Further chemical modifications 
+have been employed to enable HTI attachment to metal surfaces,37 or to tailor self
+assembly.38,39 
+The photoreactions of hemithioindigobased molecules were extensively studied in the 
+past by both, experimental4047 and theoretical investigations4851.

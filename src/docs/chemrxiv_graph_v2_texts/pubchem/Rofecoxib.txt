@@ -1,0 +1,29 @@
+Name: Rofecoxib
+Text:
+Rofecoxib is a butenolide that is furan-2(5H)-one substituted by a phenyl group at position 3 and by a p-(methylsulfonyl)phenyl group at position 4. A selective cyclooxygenase 2 inhibitor, it was used from 1999 to 2004 for the treatment of ostoarthritis, but was withdrawn following concerns about an associated increased risk of heart attack and stroke. It has a role as a cyclooxygenase 2 inhibitor, a non-steroidal anti-inflammatory drug and an analgesic. It is a sulfone and a butenolide.
+Rofecoxib is used for the treatment of osteoarthritis, rheumatoid arthritis, acute pain in adults, and primary dysmenorrhea, as well as acute treatment of migraine attacks with or without auras. Rofecoxib is a solid. This compound belongs to the stilbenes. These are organic compounds containing a 1,2-diphenylethylene moiety. Stilbenes (C6-C2-C6 ) are derived from the common phenylpropene (C6-C3) skeleton building block. The introduction of one or more hydroxyl groups to a phenyl ring lead to stilbenoids. Rofecoxib has a half-life of 17 hours and its mean oral bioavailability at therapeutically recommended doses of 125, 25, and 50 mg is approximately 93%. The proteins that rofecoxib target include elastin and prostaglandin G/H synthase 2. Cytochrome P450 1A2, Cytochrome P450 3A4, Cytochrome P450 2C9, Cytochrome P450 2C8, and Prostaglandin G/H synthase 1 are known to metabolize rofecoxib. On September 30, 2004, Merck voluntarily withdrew rofecoxib from the market because of concerns about increased risk of heart attack and stroke associated with long-term, high-dosage use.
+Rofecoxib is a nonsteroidal antiinflammatory drug (NSAID) that selectively inhibits cyclooxgenase-2 (Cox-2), which was used in the therapy of chronic arthritis and mild-to-moderate musculoskeletal pain. Rofecoxib was withdrawn in 2004 because of an association with an increase in cardiovascular events with its long term use. Rofecoxib had also been linked transient serum aminotransferase elevations during therapy and to rare instances of idiosyncratic drug induced liver disease.
+Rofecoxib is a synthetic, nonsteroidal derivative of phenyl-furanone with antiinflammatory, antipyretic and analgesic properties and potential antineoplastic properties.  Rofecoxib binds to and inhibits the enzyme cyclooxygenase-2 (COX-2), resulting in an inhibition of the conversion of arachidonic acid to prostaglandins.  COX-related metabolic pathways may represent key regulators of cell proliferation and neo-angiogenesis. Some epithelial tumor cell types overexpress pro-angiogenic COX-2. (NCI04)
+ROFECOXIB is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1999 and is indicated for rheumatic disease and has 12 investigational indications. It was withdrawn in at least one region. This drug has a black box warning from the FDA.
+Properties:safety: Irritant
+smiles: CS(=O)(=O)C1=CC=C(C=C1)C2=C(C(=O)OC2)C3=CC=CC=C3
+formula: C17H14O4S
+chem_properties: Molecular Weight: 314.4 g/mol
+XLogP3: 2.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 3
+Exact Mass: 314.06128010 Da
+Monoisotopic Mass: 314.06128010 Da
+Topological Polar Surface Area: 68.8
+Heavy Atom Count: 22
+Formal Charge: 0
+Complexity: 556
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,14 @@
+Description:
+A compound involved in oxidative functionalization to replace the CH bond with a CN bond.
+
+Text:
+Photoredox catalysis employing metalbased as well as organic photocatalysts 
+has developed into a modern, powerful toolbox for synthetic organic chemistry.1 The direct 
+oxidative functionalization of benzene and its derivatives to replace the CH bond by a CN bond 
+is a challenging and synthetically highly useful reaction. It represents a shortcut to the widely 
+utilized BuchwaldHartwig amination which requires prefunctionalized starting materials and 
+transition metal catalysts. Nicewicz and coworkers developed the oxidative amination of 
+electronrich arenes utilizing acridinium based photocatalysts in combination with oxygen and 
+TEMPO as an additional additive (Scheme 1A).2 Initially, the transformation was limited to 
+electronrich arenes such as anisole but was not performed with benzene or electrondeficient 
+derivatives, since the oxidation potentials are too high.

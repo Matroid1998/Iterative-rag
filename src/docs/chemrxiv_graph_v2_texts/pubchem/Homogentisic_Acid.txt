@@ -1,0 +1,28 @@
+Name: Homogentisic Acid
+Text:
+Homogentisic acid is a dihydroxyphenylacetic acid having the two hydroxy substituents at the 2- and 5-positions. It has a role as a human metabolite and a plant metabolite. It is a dihydroxyphenylacetic acid and a member of hydroquinones. It is functionally related to a phenylacetic acid. It is a conjugate acid of a homogentisate.
+Homogentisic acid has been reported in Penicillium commune, Penicillium simplicissimum, and other organisms with data available.
+Homogentisic acid is an intermediate of the metabolic breakdown of tyrosine and phenylalanine; it occurs in the urine in cases of alkaptonuria. (OMIN 203500) Homogentisic acid is the primary precursor of melanin synthesis in Vibrio cholerae.
+Dihydroxyphenylacetic acid with hydroxyls at the 2 and 5 positions of the phenyl ring.
+Properties:safety: Irritant
+smiles: C1=CC(=C(C=C1O)CC(=O)O)O
+formula: C8H8O4
+chem_properties: Molecular Weight: 168.15 g/mol
+XLogP3: 0.5
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 2
+Exact Mass: 168.04225873 Da
+Monoisotopic Mass: 168.04225873 Da
+Topological Polar Surface Area: 77.8
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 168
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

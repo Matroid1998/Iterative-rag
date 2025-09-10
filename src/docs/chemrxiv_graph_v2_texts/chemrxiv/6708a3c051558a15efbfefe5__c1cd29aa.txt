@@ -1,0 +1,14 @@
+Description:
+Studied for water dissociation energies on its surface planes.
+
+Text:
+To advance our understanding of corrosion mechanisms at the atomic level and to develop 
+corrosion mitigation strategies, computational approaches, particularly density functional 
+theory (DFT), have become valuable tools.3,710 DFT enables researchers to probe atomic
+scale interactions, providing insight into the energetics, adsorption behaviour, reaction 
+mechanisms, and electronic properties of materials in corrosive environments.1116 
+In the last two decades, numerous DFT studies have been conducted to investigate iron 
+oxidation processes at the atomic scale. Since water and oxygen are the main corrosive agents, 
+most studies have focused on how these agents interact with the crystallographic surface planes 
+of iron. For example, Eder et al. investigated the water dissociation energies on Fe(100) and 
+httpsdoi.org10.26434chemrxiv2024wdkmm ORCID httpsorcid.org0000000265840516 Content not peerreviewed by ChemRxiv. License CC BY 4.0

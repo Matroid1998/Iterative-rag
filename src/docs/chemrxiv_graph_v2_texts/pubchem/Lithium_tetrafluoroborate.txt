@@ -1,0 +1,23 @@
+Name: Lithium tetrafluoroborate
+Text:
+Properties:safety: Corrosive and Irritant
+smiles: [Li+].[B-](F)(F)(F)F
+formula: BF4Li
+chem_properties: Molecular Weight: 93.8 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 0
+Exact Mass: 94.0189212 Da
+Monoisotopic Mass: 94.0189212 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 23
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,29 @@
+Description:
+Used as C-source precursors in SiC CVD processes.
+
+Text:
+The addition of Cl to the SiC CVD processes has been reported to not only increase 
+the growth rate but also prevent the formation of Si droplets in the gas phase. The stronger 
+SiCl bonds (400 kJmol)3 can suppress the formation of weaker SiSi bonds (226 kJmol)3,4. In 
+terms of the Csource precursor, branched and small hydrocarbons such as ethylene or 
+propane are often used since they can produce highquality SiC coatings and are available at 
+high purities. As in many polycrystalline materials, the physical and chemical properties of 3CSiC 
+coatings are dependent on the crystalline orientation. It has been shown that the Vickers 
+microhardness of 111oriented 3CSiC films, i.e. films in which the (111) planes were 
+aligned parallel to the surface, was higher than those 110oriented5.
+
+
+---
+
+Description:
+Compounds used in CVD processes affecting the growth orientation of 3CSiC coatings.
+
+Text:
+The (110) and (111) 
+planes are the two planes in 3CSiC with the lowest surface energy; 3.4 Jm2 and 4.2 Jm2, 
+respectively 6. In the SiCl4based 3CSiC CVD processes, the preferred growth orientation of 
+resultant coatings varies with the selection of hydrocarbons as well as the deposition 
+conditions. It was reported that using CH4 as carbon source, highly 111oriented 3CSiC can 
+be produced either at T  1200 , ptot  4 kPa7 or at 1200  T  1500 , ptot  40 kPa8. On the 
+other hand, at T 1450 , ptot  1 kPa or at T  1450 , ptot  10 kPa, highly 110oriented 
+3CSiC was obtained8.

@@ -1,0 +1,61 @@
+Description:
+An atom that can bind to metal surfaces in heterogeneous catalysis.
+
+Text:
+These
+scaling relations result in the volcano relationships be
+tween ratesselectivities and descriptors that are used ex
+tensively in heterogeneous catalysis. It provides a theo
+retical basis for the heuristic Sabatier principle,11 which
+suggests that the optimal catalyst is one with an optimal
+bond energies for relevant intermediate(s). The scaling
+relations show which intermediate(s) are relevant and the
+optimal value(s) for the binding energy of these interme
+diate(s). Linear or piecewise linear scaling relationships are ob
+served when two adsorbates bind to the metal through
+the same atom such as C, CH, CH
+2 and CH
+3,12,13
+where denotes the surface.
+
+
+---
+
+Description:
+Has chemisorption energies that do not scale with oxygen.
+
+Text:
+The model demonstrates that the root
+cause of lack of scaling between two adsorbed species lies
+in differences of their renormalised adsorbate valence en
+ergies. For instance, Op states are considerably lower
+in energy than Cp states. Through this analysis, we
+identify the conditions under which carbon and oxygen
+do scale with each other. II. CHEMISORPTION ENERGIES OF CARBON AND
+OXYGEN DO NOT SCALE
+In this section, we discuss the lack of linear scaling re
+lations between the chemisorption energies of C and O. We use DFT calculations to obtain these chemisorption
+energies (see Section VI for computational details).
+
+
+---
+
+Description:
+An adsorbate whose chemisorption energy is plotted against that of O.
+
+Text:
+In
+general, for any adsorbate A, the chemisorption energy
+EA is defined as,
+EA  EAEEA
+where Arepresents A adsorbed on the surface, is the
+free surface and A is the adsorbate in vacuum. Figure 1a
+shows the chemisorption energies of O plotted against
+that of C. It is evident that there is a significant amount
+of scatter and no linear scaling relations are observed. Despite the lack of linear scaling, there is, broadly, an
+increasing trend for both C and O energies in Figure
+1a. Metals that bind C strongly (for example, Fe) also
+bind O strongly and those that bind C weakly (Au,
+Ag) also bind O weakly. However, due to the noticeable
+amount of scatter, this general rule does not always
+hold.

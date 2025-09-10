@@ -1,0 +1,30 @@
+Name: Dichlorphenamide
+Text:
+Dichlorphenamide can cause developmental toxicity according to state or federal government labeling requirements.
+Diclofenamide is a sulfonamide that is benzene-1,3-disulfonamide in which the hydrogens at positions 4 and 5 are substituted by chlorine. An oral carbonic anhydrase inhibitor, it partially suppresses the secretion (inflow) of aqueous humor in the eye and so reduces intraocular pressure. It is used for the treatment of glaucoma. It has a role as an EC 4.2.1.1 (carbonic anhydrase) inhibitor, an antiglaucoma drug and an ophthalmology drug. It is a sulfonamide and a dichlorobenzene.
+A carbonic anhydrase inhibitor that is used in the treatment of glaucoma.
+Dichlorphenamide is a Carbonic Anhydrase Inhibitor. The mechanism of action of dichlorphenamide is as a Carbonic Anhydrase Inhibitor.
+DICHLORPHENAMIDE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1958 and is indicated for glaucoma and has 3 investigational indications.
+A carbonic anhydrase inhibitor that is used in the treatment of glaucoma.
+Properties:safety: Irritant and Health Hazard
+smiles: C1=C(C=C(C(=C1S(=O)(=O)N)Cl)Cl)S(=O)(=O)N
+formula: C6H6Cl2N2O4S2
+chem_properties: Molecular Weight: 305.2 g/mol
+XLogP3: 0.3
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 2
+Exact Mass: 303.9146044 Da
+Monoisotopic Mass: 303.9146044 Da
+Topological Polar Surface Area: 137
+Heavy Atom Count: 16
+Formal Charge: 0
+Complexity: 452
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

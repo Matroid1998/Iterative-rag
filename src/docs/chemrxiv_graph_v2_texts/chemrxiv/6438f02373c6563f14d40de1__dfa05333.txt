@@ -1,0 +1,27 @@
+Description:
+A 2D transition metal oxide with a polycrystalline network that is 4.5 Å thick.
+
+Text:
+Early trials with 
+electrochemical growth of Pd into graphene layers yielded promising results with thin Pd sheets 
+of 5 nm thickness.39 It is thus compelling to wonder which thickness can be achieved in 
+bottomup electrochemical synthesis of 2D nonvdW materials via space confinement. Here, we firstly report a controlled electrochemical method to obtain (sub) unit cell thick 2D 
+transition metal oxides, like Cr2O3, Fe2O3, by using the angstromconfinement of stacked 
+reduced graphene oxide (rGO) layers. The 2D holey polycrystalline network of Cr2O3 and 
+Fe2O3 is only 4.5  and 5.4  thick respectively.
+
+
+---
+
+Description:
+A high performing oxygen evolution reaction (OER) catalyst in its 2D form.
+
+Text:
+The material is homogenously distributed 
+within the 2.5 cm2 x 500 nm rGO film.37,38 As an example of the unexpected properties of 
+these electrochemically synthesised 2D materials, we find that the 2D form of Cr2O3 is a high 
+performing oxygen evolution reaction (OER) catalyst, in contrast to its low performing bulk 
+form4042. Although this class of 2D nonvdW materials is still vastly unexplored due to 
+limited synthesis routes,26,43,44 2D metal oxides are expected to hold a wide range of 
+interesting properties and possible applications. With that a new and easily accessible route for 
+obtaining subunit cell thick 2D metaloxides is unlocked.

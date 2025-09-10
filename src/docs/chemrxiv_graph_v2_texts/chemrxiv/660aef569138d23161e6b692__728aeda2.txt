@@ -1,0 +1,29 @@
+Description:
+A key factor in the carbon intensity of transportation affecting GHG emissions.
+
+Text:
+The reduction of CO2 emissions in the society cannot prescind from a drastic reduction of 
+the emissions caused by transportation. Currently, in the European Union (EU), the 
+transportation activities (passenger cars and goods transportation) cause more than 20  of the 
+total greenhouse gas (GHG) emissions 1. This makes the reduction of the carbon intensity of 
+transportation a key factor to reach the netzero GHG emissions. The electrification of 
+transportation is envisaged as the most promising option for the reduction of such emissions 
+and several countries declared the intention to phaseout combustion engine vehicles 2. This 
+will mainly be achieved by using battery electric vehicles (BEV).
+
+
+---
+
+Description:
+A chemical element that is not emitted directly during the oxidation cycle in fuel cell electrical vehicles.
+
+Text:
+Additionally, fuel cell 
+electrical vehicles (FCEV) can be considered an alternative, as they do not cause any direct 
+carbon emission during the oxidation cycle that produces electricity. This latter technology is 
+of particular interest for heavy duty vehicles 3. Several studies discussed in literature the 
+environmental impact of BEV; most of them concluded that these vehicles originate lower 
+GHG emissions over their entire lifecycle than equivalent internal combustion engine vehicles 
+49. However, this assumption is only valid if the source of electricity or H2 is accompanied 
+by a low carbon footprint 10. As the main sources of renewable energy are affected by intrinsic stochastic availability, 
+the sustainability of electrified mobility hangs substantially on the energy supply.

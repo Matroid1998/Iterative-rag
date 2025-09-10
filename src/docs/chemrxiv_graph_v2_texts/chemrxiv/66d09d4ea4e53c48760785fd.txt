@@ -1,0 +1,29 @@
+Description:
+Release is a primary driver for safety hazards such as thermal runaway.
+
+Text:
+As the nickel content in the active material
+increases, so does the capacity, but this also makes the material significantly more prone
+to aging.3 Common aging mechanisms for Nirich cathode active materials (CAM) include
+gassing and cracking, both of which heavily impact battery safety and capacity.4,5 Among
+these, oxygen release is particularly concerning as it is the primary driver for safety haz
+ards such as thermal runaway.6 Oxygen release typically occurs at high voltages, which are
+applied at the end of charge.7 The interface between different phases in cathode materials
+also plays a critical role in determining their performance and longevity.
+
+
+---
+
+Description:
+Released during undesirable side reactions at the cathode interface, contributing to material degradation.
+
+Text:
+Nirich materials,
+in particular, suffer from the formation of secondary phases such as spinel and rock salt
+at the interface between cathode and electrolyte.8 These phases can disrupt the materials
+structure and degrade its electrochemical performance. Moreover, the presence of Ni4 at
+the interface is problematic as it can act as a catalytic site for undesirable side reactions,
+leading to increased oxygen release and degradation.9 Mitigating oxygen release is a key
+focus in cathode design, with doping and coating being typical countermeasures.1013
+Both can stabilize the interface by altering the local electronic structure and reducing the
+formation of Ni4 ions.

@@ -1,0 +1,24 @@
+Name: Furan-2,3-dicarboxylic Acid
+Text:
+Properties:safety: Irritant
+smiles: C1=COC(=C1C(=O)O)C(=O)O
+formula: C6H4O5
+chem_properties: Molecular Weight: 156.09 g/mol
+XLogP3: 0.4
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 2
+Exact Mass: 156.00587322 Da
+Monoisotopic Mass: 156.00587322 Da
+Topological Polar Surface Area: 87.7
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 187
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

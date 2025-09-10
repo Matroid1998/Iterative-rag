@@ -1,0 +1,27 @@
+Name: Sodium Benzoate
+Text:
+Sodium benzoate is an organic sodium salt resulting from the replacement of the proton from the carboxy group of benzoic acid by a sodium ion. It has a role as an antimicrobial food preservative, a drug allergen, an EC 1.13.11.33 (arachidonate 15-lipoxygenase) inhibitor, an EC 3.1.1.3 (triacylglycerol lipase) inhibitor, an algal metabolite, a human xenobiotic metabolite and a plant metabolite. It contains a benzoate.
+SODIUM BENZOATE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1987 and has 2 investigational indications.
+The sodium salt of BENZOIC ACID. It is used as an antifungal preservative in pharmaceutical preparations and foods. It may also be used as a test for liver function.
+See also: Benzoic Acid (has active moiety); Sodium benzoate; sodium phenylacetate (component of) ... View More ...
+Properties:safety: Irritant
+smiles: C1=CC=C(C=C1)C(=O)[O-].[Na+]
+formula: C7H5O2Na
+chem_properties: Molecular Weight: 144.10 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 144.01872368 Da
+Monoisotopic Mass: 144.01872368 Da
+Topological Polar Surface Area: 40.1
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 108
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

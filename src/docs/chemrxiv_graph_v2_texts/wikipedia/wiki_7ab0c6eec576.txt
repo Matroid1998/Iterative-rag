@@ -1,0 +1,9 @@
+In physics, the terms order and disorder designate the presence or absence of some symmetry or correlation in a many-particle system.
+In condensed matter physics, systems typically are ordered at low temperatures; upon heating, they undergo one or several phase transitions into less ordered states.
+Examples for such an order-disorder transition are:
+
+the melting of ice: solid–liquid transition, loss of crystalline order;
+the demagnetization of iron by heating above the Curie temperature: ferromagnetic–paramagnetic transition, loss of magnetic order.
+The degree of freedom that is ordered or disordered can be translational (crystalline ordering), rotational (ferroelectric ordering), or a spin state (magnetic ordering).
+The order can consist either in a full crystalline space group symmetry, or in a correlation. Depending on how the correlations decay with distance, one speaks of long range order or short range order.
+If a disordered state is not in thermodynamic equilibrium, one speaks of quenched disorder. For instance, a glass is obtained by quenching (supercooling) a liquid. By extension, other quenched states are called spin glass, orientational glass. In some contexts, the opposite of quenched disorder is annealed disorder.

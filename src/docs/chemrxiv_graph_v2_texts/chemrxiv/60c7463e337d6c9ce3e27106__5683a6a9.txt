@@ -1,0 +1,35 @@
+Description:
+A product of the reduction of CO2 by molecular electrocatalysts.
+
+Text:
+The steadily increasing market share of electricity from renewable sources continues 
+to generate interest in developing electrochemical transformations for storing energy in 
+chemical bonds.1 One compelling approach is to direct energy from these sources towards 
+electrochemical transformations of CO2, a byproduct of fossil fuel usage and a greenhouse 
+gas, into useful fuel precursors and commodity chemicals.1, 2 In comparison to molecular 
+electrocatalysts developed for the reduction of CO2 to CO, relatively few catalysts have 
+been developed which selectively produce formate.35 Formate is currently utilized as an 
+organic hydride source,6 directly in a fuel cells,7 and as a H2 storage material.8 
+Previously, we identified a molecular Fe(III) chloride complex based upon 6,6di(3,5di
+tertbutyl2hydroxybenzene)2,2bipyridine 
+(Fe(tbudhbpy)Cl, 
+Figure 
+1, 
+1) 
+which 
+produced formate (HCO2) with a FE of 684 from CO2 in the presence of 0.5 M phenol 
+(PhOH) with an Ecat2 of 2.45 V vs FcFc.9 Mechanistic studies suggested that a non
+catalytic electrochemical reaction was vital to the observed reactivity the Febound 
+oxygen atoms underwent protonation upon the Fe(III)(II) reduction, a type of multisite 
+electron and proton transfer (MSEPT) reaction.912 MSEPT mechanisms involving ligand 
+protonation upon metal redox changes in the primary coordination sphere are generally 
+invoked for metal oxime and dithiolene complexes which catalytically generate hydrogen 
+(H2)1317; similar mechanisms are underdeveloped for other substrates.3 MSEPT has been 
+explored broadly in photochemical and chemical systems, including the photosynthetic 
+oxidation of tyrosineZ,18 rutheniumbased model compounds for phenol oxidation,19 and 
+
+3 
+
+mixed TEMPOHorganic basechemical oxidant systems.20 Under electrochemical 
+conditions, MSEPT has also been studied as an oxidant for tyrosine by M(bpy)332 
+systems (M  Os, Ru, Fe, bpy  2,2bipyridine).21

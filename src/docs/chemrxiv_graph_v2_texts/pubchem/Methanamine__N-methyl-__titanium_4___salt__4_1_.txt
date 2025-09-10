@@ -1,0 +1,23 @@
+Name: Methanamine, N-methyl-, titanium(4+) salt (4:1)
+Text:
+Properties:safety: Flammable and Corrosive and Acute Toxic and Irritant
+smiles: C[N-]C.C[N-]C.C[N-]C.C[N-]C.[Ti+4]
+formula: C8H24N4Ti
+chem_properties: Molecular Weight: 224.17 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 224.1480375 Da
+Monoisotopic Mass: 224.1480375 Da
+Topological Polar Surface Area: 4
+Heavy Atom Count: 13
+Formal Charge: 0
+Complexity: 24.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 5
+Compound Is Canonicalized: Yes 
+

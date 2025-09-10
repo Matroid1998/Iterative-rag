@@ -1,0 +1,13 @@
+Description:
+Reactive oxygen species (ROS) can cause damage to DNA.
+
+Text:
+DNA holds all of the genetic information required for development and survival for every liv
+ing species and therefore is crucially important to protect from damage. Unfortunately, DNA
+is constantly exposed to harmful sources such as radiation, reactive oxygen species (ROS),
+and other chemical agents. In response, our cells have developed ecient mechanisms for
+recognizing and repairing various DNA defects. These mechanisms are of prime signicance
+as damage to the genome can lead to the development of diseases such as neurodegenerative
+disorders and cancer. A substantial fraction of these lesions are defect bases originating from the interaction of
+DNA with ROS and ionizing radiation 13 and the majority among these concern oxidative
+derivatives of guanine (G).

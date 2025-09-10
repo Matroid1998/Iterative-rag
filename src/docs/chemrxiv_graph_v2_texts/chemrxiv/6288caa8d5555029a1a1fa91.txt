@@ -1,0 +1,14 @@
+Description:
+A promising alternative fuel with over twice the gravimetric energy density of common fossil fuels.
+
+Text:
+Solar energy has been highlighted as
+one of the most favorable sources of renewable energy.1,2 Additionally, hydrogen gas (H2) is a
+promising alternative fuel, having over twice the gravimetric energy density of common fossil
+fuels.3 Photocatalytic H2 evolution can integrate solar light harvesting and H2 generation
+into a single particulate system to a high degree, oering a potential reduction in the costs of
+producing H2 compared to alternative methods such as electrolysis.46 In water splitting by
+a photocatalyst, light is absorbed by the photocatalyst to liberate electrons and holes that
+migrate to the particle surface, where they drive the reduction of H to H2 and oxidation
+of water to O2. A current limitation on the photocatalytic evolution of H2 is the eciency
+of H2 production under solar light.

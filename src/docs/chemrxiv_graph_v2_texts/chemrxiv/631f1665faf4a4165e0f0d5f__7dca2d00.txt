@@ -1,0 +1,12 @@
+Description:
+Receptors whose calcium permeability depends on their composition.
+
+Text:
+Ionotropic glutamate receptors are cationpermeable ion channels responsible for fast excita
+tory signal transmission in vertebrate neurons.1 Upon glutamate binding, the transmembrane
+channel pore adopts an open conguration that is nonselective for monovalent cations. In
+amino3hydroxy5methyl4isoxazolepropionic acid receptors (AMPAR), the permeabil
+ity for calcium depends exquisitely on their composition. The GluA2 subunit gene encodes
+a Gln at residue 586, but posttranscriptional RNA editing yields an Arg residue (QR site)
+at about 96 2 of subunits in the brain. If they lack the edited GluA2(R) subunit, AMPAR
+2

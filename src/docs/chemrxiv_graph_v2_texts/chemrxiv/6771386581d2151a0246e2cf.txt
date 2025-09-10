@@ -1,0 +1,10 @@
+Description:
+Used in nanoporous electrodes for electrochemical capacitors, influencing the electrochemical double layer structure.
+
+Text:
+Additionally, the compatibility of ionic radii and carbon pore size in electrochemical 
+capacitor electrodes governs ion desolvation, influencing the electrochemical double layer 
+(EDL) structure.1015 There is a lack of fundamental knowledge regarding ion electrosorption 
+of waterinsalt electrolytes and their corresponding EDL structure within nanoporous carbon 
+electrodes. The concept of the EDL began with Helmholtz in 1879,16,17 who described it as a simple 
+capacitor formed by ions in the electrolyte aligning near a charged surface.

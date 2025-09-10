@@ -1,0 +1,25 @@
+Name: Sodium Cholate
+Text:
+Sodium cholate is a cholate salt and an organic sodium salt.
+A trihydroxy bile salt that is used as a digestive aid in dietary supplements. It is used in culture media and in conjunction with PAPAIN and PANCREATIN.
+Properties:safety: Irritant
+smiles: C[C@H](CCC(=O)[O-])[C@H]1CC[C@@H]2[C@@]1([C@H](C[C@H]3[C@H]2[C@@H](C[C@H]4[C@@]3(CC[C@H](C4)O)C)O)O)C.[Na+]
+formula: C24H39NaO5
+chem_properties: Molecular Weight: 430.6 g/mol
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 4
+Exact Mass: 430.26951862 Da
+Monoisotopic Mass: 430.26951862 Da
+Topological Polar Surface Area: 101
+Heavy Atom Count: 30
+Formal Charge: 0
+Complexity: 643
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 11
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

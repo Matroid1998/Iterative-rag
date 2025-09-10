@@ -1,0 +1,19 @@
+Description:
+Contaminants for which predictive and reliable quantitative-structure activity relationship (QSAR) models are essential to assess bioactivities.
+
+Text:
+53 
+ Due to the sheer number of PFAS species, in vivo and in vitro biological experiments are 
+54 
+both timeconsuming and costly. As such, the construction of predictive and reliable 
+55 
+quantitativestructure activity relationship (QSAR) models68 is essential for assessing the 
+56 
+bioactivities of these contaminants (even for PFAS species that are yet to be made). Specifically, 
+57 
+a QSAR model that can accurately predict the bioactivities of PFASs can be harnessed to screen 
+58 
+several of these contaminants, saving immense time and experimental resources. While there 
+59 
+have been prior machine learning studies on PFAS molecules,9,10 most of these approaches 
+60

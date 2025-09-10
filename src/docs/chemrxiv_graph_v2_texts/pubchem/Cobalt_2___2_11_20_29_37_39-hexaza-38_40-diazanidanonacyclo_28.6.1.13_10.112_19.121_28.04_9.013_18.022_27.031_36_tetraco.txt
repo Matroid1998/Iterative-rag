@@ -1,0 +1,24 @@
+Name: Cobalt(2+);2,11,20,29,37,39-hexaza-38,40-diazanidanonacyclo[28.6.1.13,10.112,19.121,28.04,9.013,18.022,27.031,36]tetraconta-1,3,5,7,9,11,13,15,17,19(39),20,22,24,26,28,30(37),31,33,35-nonadecaene
+Text:
+See also: Cobalt phthalocyanine (preferred).
+Properties:safety: Health Hazard
+smiles: C1=CC=C2C(=C1)C3=NC4=NC(=NC5=C6C=CC=CC6=C([N-]5)N=C7C8=CC=CC=C8C(=N7)N=C2[N-]3)C9=CC=CC=C94.[Co+2]
+formula: C32H16CoN8
+chem_properties: Molecular Weight: 571.5 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 571.082986 Da
+Monoisotopic Mass: 571.082986 Da
+Topological Polar Surface Area: 76.2
+Heavy Atom Count: 41
+Formal Charge: 0
+Complexity: 983
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

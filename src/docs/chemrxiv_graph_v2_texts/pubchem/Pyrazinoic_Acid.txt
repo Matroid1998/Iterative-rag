@@ -1,0 +1,27 @@
+Name: Pyrazinoic Acid
+Text:
+Pyrazine-2-carboxylic acid is the parent compound of the class of pyrazinecarboxylic acids, that is pyrazine bearing a single carboxy substituent. The active metabolite of the antitubercular drug pyrazinamide. It has a role as a drug metabolite and an antitubercular agent. It is a conjugate acid of a pyrazine-2-carboxylate.
+Pyrazinic acid is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Pyrazine-2-carboxylic acid has been reported in Trypanosoma brucei with data available.
+Properties:safety: Irritant
+smiles: C1=CN=C(C=N1)C(=O)O
+formula: C5H4N2O2
+chem_properties: Molecular Weight: 124.10 g/mol
+XLogP3: 0.1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 1
+Exact Mass: 124.027277375 Da
+Monoisotopic Mass: 124.027277375 Da
+Topological Polar Surface Area: 63.1
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 116
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

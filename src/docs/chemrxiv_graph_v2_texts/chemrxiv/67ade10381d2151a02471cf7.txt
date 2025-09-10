@@ -1,0 +1,12 @@
+Description:
+An abundant and low-cost element used in sodium-ion batteries.
+
+Text:
+The global demand for efficient, sustainable, and affordable energy storage systems has intensified 
+the search for alternatives to traditional lithiumion batteries.1 Consequently, sodiumion batteries 
+(SIB) have garnered considerable attention as a viable solution due to the abundance and low cost 
+of sodium resources, along with the potential for safe, largescale deployment. Another advantage 
+of the Naion battery is that aluminiun (lighter and cheaper) can be used as a current collector. More importantly, they can be stored at low state of charge, which is unlike detrimental to the life 
+of Liion batteries.2 However, Naion battery performance is often limited by challenges associated 
+with sluggish ion diffusion and lower energy density compared to lithiumbased systems.3 To 
+overcome these limitations, many approaches are being adapted.

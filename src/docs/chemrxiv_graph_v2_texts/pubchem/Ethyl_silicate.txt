@@ -1,0 +1,24 @@
+Name: Ethyl silicate
+Text:
+Ethyl silicate appears as a clear colorless liquid with a faint odor. Flash point 125 °F. Less dense than water. Vapors are heavier than air.
+Properties:safety: Flammable and Irritant
+smiles: CCO[Si](OCC)(OCC)OCC
+formula: C8H20O4Si
+chem_properties: Molecular Weight: 208.33 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 8
+Exact Mass: 208.11308565 Da
+Monoisotopic Mass: 208.11308565 Da
+Topological Polar Surface Area: 36.9
+Heavy Atom Count: 13
+Formal Charge: 0
+Complexity: 91.2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

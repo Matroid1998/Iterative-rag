@@ -1,0 +1,28 @@
+Name: trans-1,2-Diphenylethylene
+Text:
+Trans-stilbene appears as off-white crystals. Melting point of 122-124 °C. Shows blue fluorescence. (NTP, 1992)
+Stilbene is an olefinic compound and a member of benzenes.
+trans-Stilbene has been reported in Alnus firma, Paeonia rockii, and other organisms with data available.
+Organic compounds that contain 1,2-diphenylethylene as a functional group.
+Properties:safety: Irritant and Environmental Hazard
+smiles: C1=CC=C(C=C1)/C=C/C2=CC=CC=C2
+formula: C14H12
+chem_properties: Molecular Weight: 180.24 g/mol
+XLogP3: 4.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 2
+Exact Mass: 180.093900383 Da
+Monoisotopic Mass: 180.093900383 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 14
+Formal Charge: 0
+Complexity: 148
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

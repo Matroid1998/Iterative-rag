@@ -1,0 +1,12 @@
+Description:
+Crystallises in the cubic zincblende structure below 643 K and possesses an optical band gap of around 3 eV.
+
+Text:
+19,20 Therefore, research into nonoxides
+has taken centre stage in recent years, 2126 in the hope that greater valence band delocalisation
+and bond covalency can improve hole mobility while simultaneously generating enough carriers
+to enable degenerate conductivity. One such material is copper iodide, CuI, rst discovered in 1907 by the father of transparent
+conductors Karl Bdeker, 27 and now enjoying somewhat of a renaissance. It crystallises in the
+cubic zincblende structure below 643 K (Figure 1a), possesses an optical band gap of around 3 eV,
+displays native ptype conductivity, and consistently shows one of the highest gures of merit, ,1
+for any ptype transparent conductor (over 60 000 M1 for Sdoped CuI).

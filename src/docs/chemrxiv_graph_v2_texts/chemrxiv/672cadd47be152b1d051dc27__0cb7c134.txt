@@ -1,0 +1,27 @@
+Description:
+Involved in CH bonds where its s-character affects donor ability.
+
+Text:
+The theoretical study 
+of these descriptors has proven to be very useful in establishing the electronic 
+properties of carbenes or confirming the relevance of these descriptors,15 as 
+illustrated by the work of Gusev16 and of Nolan and Cavallo.17 
+Recently, the magnitude of the 1JCH coupling constants in azoliumtype NHC precursors 
+(as well as the 1JCSe coupling constants in NHCSe complexes) has been proposed by 
+Ganter as a promising measure of the donation of NHCs.18 This descriptor is 
+assumed to be strongly related to the scharacter of the carbon involved in the CH 
+bond,1922 with larger 1JCH value indicating weaker donor ability.
+
+
+---
+
+Description:
+A divalent ligand whose donation can be estimated using NMR spectra.
+
+Text:
+It is particularly 
+attractive for estimating the donation of divalent carbon ligand, as it only requires 
+the 13C or 1H NMR spectrum of the readily available NHC precursor azolium salt.23 On 
+the other hand, the 1JCSe coupling constant has been shown to provide valuable 
+information on NHC ligands; however, its measurement is hindered by the low natural 
+httpsdoi.org10.26434chemrxiv2023wq2c1v3 ORCID httpsorcid.org0000000256773569 Content not peerreviewed by ChemRxiv. License CC BY 4.0

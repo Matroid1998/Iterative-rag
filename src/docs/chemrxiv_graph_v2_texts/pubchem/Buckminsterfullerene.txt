@@ -1,0 +1,30 @@
+Name: Buckminsterfullerene
+Text:
+C60 fullerene is a fullerene. It has a role as a geroprotector.
+Buckyball is a nanoparticle characterized by a spherical geometry and hollow interior that is comprised of 60 carbon atoms. This configuration is the most common type of fullerene.
+buckminsterfullerene is a mineral.
+Fullerite is a mineral with formula of C60.
+A polyhedral CARBON structure composed of around 60-80 carbon atoms in pentagon and hexagon configuration. They are named after Buckminster Fuller because of structural resemblance to geodesic domes. Fullerenes can be made in high temperature such as arc discharge in an inert atmosphere.
+See also: Fullerene (annotation moved to); 5,6Fullerene-C60-Ih (annotation moved to); Fullerenes C60/C70 (annotation moved to).
+Properties:safety: Irritant
+smiles: C12=C3C4=C5C6=C1C7=C8C9=C1C%10=C%11C(=C29)C3=C2C3=C4C4=C5C5=C9C6=C7C6=C7C8=C1C1=C8C%10=C%10C%11=C2C2=C3C3=C4C4=C5C5=C%11C%12=C(C6=C95)C7=C1C1=C%12C5=C%11C4=C3C3=C5C(=C81)C%10=C23
+formula: C60
+chem_properties: Molecular Weight: 720.6 g/mol
+XLogP3: 18.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 720 Da
+Monoisotopic Mass: 720 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 60
+Formal Charge: 0
+Complexity: 2030
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

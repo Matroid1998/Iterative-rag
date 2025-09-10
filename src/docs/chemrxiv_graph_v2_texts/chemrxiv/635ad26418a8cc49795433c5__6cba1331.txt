@@ -1,0 +1,22 @@
+Description:
+A conjugated polymer frequently utilized as an active material for electrodes in organic batteries.
+
+Text:
+Conjugated polymers (CPs) have driven innovations in a variety of energy conversion and 
+storage fields including organic photovoltaics (OPVs),1,2 supercapacitors,3 transistors,2 
+thermoelectrics,2 lithium ion batteries (LIBs),35 and other metal cation battery systems.3,4 
+Recently, CP research has increasingly focused on developing novel, simplified reaction schemes 
+as an alternative to costly multistep synthetic procedures with traditionally catalyzed cross
+coupling reactions that may be difficult to implement at scale.6 For example, previous reports have 
+demonstrated that OPV cost scales directly with the number of synthetic steps,7 and significant 
+effort has been dedicated towards developing new, comparatively simple polymerization methods 
+such as direct heteroarylation to produce conjugated polymers.6,8 
+
+Within the LIB field, polyaniline is frequently utilized as a CP active material for electrodes 
+to produce organic batteries.3,4 Similarly, iminebased covalent organic frameworks (COFs) have 
+received significant interest as a new class of materials for energy storage applications, including 
+as promising LIB electrode materials.9 These materials are typically synthesized using a 
+combination of condensation reactions,913 acidcatalyzed conditions,9,1113 autoclavebased 
+methods,14,15 or microwaveassisted synthetic procedures,12 which are often not compatible with 
+other fragile nanoscale materials that may be susceptible to oxidation or degradation in harsh 
+synthetic conditions.

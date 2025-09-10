@@ -1,0 +1,19 @@
+Description:
+A radical that reacts with methanol in an oxidative process.
+
+Text:
+The reaction of methanol with the hydroxyl radical is an oxidative process of great 
+importance in cold interstellar space, atmosphere and combustion (i.e., verylow, low and 
+high temperatures)25 and has been widely studied from different perspectives 
+mechanism, kinetics and dynamics, using experimental and theoretical tools. With respect 
+to the mechanism, this reaction proceeds through a common reactant complex (RC) and 
+from here two paths appear (R1 and R2), with their respective saddle points (SP) and 
+product complexes (PC), to finish in the respective products, CH2OH  H2O and CH3O 
+ H2O, respectively, 
+
+SP1  PC1  CH2OH  H2O 
+
+(R1) 
+OH  CH3OH  RC 
+
+SP2  PC2  CH3O  H2O

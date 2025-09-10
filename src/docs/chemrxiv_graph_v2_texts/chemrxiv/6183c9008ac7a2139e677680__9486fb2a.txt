@@ -1,0 +1,18 @@
+Description:
+Two-dimensional materials that are chemically inert and require high energy for covalent functionalization.
+
+Text:
+Functionalization of twodimensional (2D) materials, such as 
+graphene or transition metal dichalcogenides, is an important 
+feature to tune the physical properties of 2D materials, from 
+stability to processability, with the aim of improving their 
+properties. The most common way to successfully functionalize 
+a 2D material is arguably through reactions occurring in 
+solution.1,2 However, as typical 2D materials are very inert 
+compounds from a chemical point of view, the covalent 
+functionalization process requires a lot of energy. Therefore, it 
+is normally an uncontrolled step, thus causing defects, low 
+degree of functionalization and attachment of molecules in 
+random positions. Noncovalent functionalization is also an 
+alternative approach, but it typically lacks longrange order, 
+thus resulting in a material more similar to a composite.

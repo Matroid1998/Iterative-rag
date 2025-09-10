@@ -1,0 +1,12 @@
+Description:
+A high potential active site involved in electron transfer pathways in proteins.
+
+Text:
+Electron transfer (ET) reactions are key steps in various biological processes such as photosyn
+thesis and respiration 2. One finds many examples of protein networks consisting of Tyr and
+Trp residues in branched chains in 3; the path of electron flow leads from a high potential heme
+active site through various residues at fixed potential, and terminates at a lowest potential residue
+situated at the exterior of the protein. A computer implementation of an ET network in generic
+form first appears in 4 where the matrix exponential solver is used to provide concentrationtime
+solutions to arbitrary firstorder chemical reaction networks, one of which is an ET network. Warren 7 modeled a twostep electron transfer kinetic system as a reversibly coupled chain of
+three species.

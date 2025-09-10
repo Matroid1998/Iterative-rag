@@ -1,0 +1,47 @@
+Description:
+The metal of choice for interconnects in semiconductor chips.
+
+Text:
+Copper is the current metal of choice for interconnects between devices in semiconductor 
+chips. The copper interconnects are formed by filling recessed features in lowk oxides with 
+copper using either atomic layer deposition (ALD) for the smallest features, or 
+electrochemical deposition (ECD) for larger features.1 ECD requires an electrically 
+conducting surface, and ALD is often used to make a seed layer for the ECD process.2 While 
+ECD has become the most widely used method for Cu deposition for interconnects due to its 
+ability to deposit highly conformal films with excellent step coverage in highaspectratio 
+structures, wetchemical techniques cannot be easily integrated in vacuumcluster tools.
+
+
+---
+
+Description:
+Reduced on the cathode surface using electrons in the electrodeposition process.
+
+Text:
+ECD 
+is also associated with the generation of large volumes of wastewater contaminated with metal 
+ions that must be managed.3 A transition from wetchemical electrodeposition to vacuum
+based techniques is therefore desired. The working principle behind ECD is reduction of copper ions on the cathode surface using 
+electrons supplied by a power supply. We have recently presented a vacuumbased chemical 
+vapor deposition (CVD) technique that mimics this process and is referred to as electron CVD 
+(eCVD).4 The eCVD process uses free electrons in a plasma discharge to reduce metal 
+centres in chemisorbed precursor molecules.4 By applying a positive bias to the substrate 
+surface, it attracts the plasma electrons, enabling them to reduce metal precursors on the 
+substrate surface.
+
+
+---
+
+Description:
+Explored in eCVD using betadiketonate precursors.
+
+Text:
+The eCVD process can thus be regarded as a dry form of ECD with the 
+potential to replace the wetchemical methods, allowing for integration in vacuum cluster 
+tools. The eCVD has been demonstrated with iron, cobalt and nickel,4 but not yet for copper. In 
+this study we explore eCVD of copper using the betadiketonate precursors Cu(hfac)2 and 
+Cu(acac)2. Previous eCVD studies indicate that alternating the supply of the metal precursor 
+and plasma electrons tends to yield higherquality films.6 By experimenting with pulse and 
+purge times while studying the deposition in situ by a quartz crystal microbalance (QCM) 
+sensor, we find conditions where the deposition chemistry seems to be selflimiting. We thus 
+propose that we have demonstrated eALD of copper.

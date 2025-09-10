@@ -1,0 +1,13 @@
+Description:
+Derived from Mn1AXn precursors and includes surface chemical functionalities like O, F, OH, Cl.
+
+Text:
+On the other hand, MXenes, another family of 2D nanomaterials, has emerged as a 
+candidate for Liion storage. MXenes, Mn1XnTx, are derived from Mn1AXn 
+precursors (termed MAX), where n  14, M is an early transition metal (Ti, V, Mo, 
+Ta, Nb, etc), A is an element of the group IIIA or IVA (e.g. Al, Ga, Si, Ge, etc), X is 
+C andor N and Tx describes surface chemical functionalities (O, F, OH, Cl).9, 10 
+Particularly, Ti3C2Tx has been investigated in the context of LIB anode 
+applications.1113 It stores Li in a 30.01 V vs LiLi electrochemical window and 
+theoretically predicted capacities are 320449 mAh g1 for Ti3C2Li2.14, 15 However, its 
+httpsdoi.org10.26434chemrxiv2024fpx1z ORCID httpsorcid.org0000000279538836 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

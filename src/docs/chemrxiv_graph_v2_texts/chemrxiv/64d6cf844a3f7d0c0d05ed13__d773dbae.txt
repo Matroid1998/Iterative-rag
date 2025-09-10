@@ -1,0 +1,18 @@
+Description:
+A substrate material used in NanoSIMS experiments.
+
+Text:
+This process ejects secondary ions, which are then 
+separated by a mass analyzer, allowing for up to seven 
+individual species to be detected simultaneously. The high 
+sensitivity and mass precision of the NanoSIMS 50L allows for 
+compositional information of individual bilayers to be 
+obtained34,35. For the experiments reported here, GUVs formed 
+via either gentle hydration or electroformation were exposed to 
+NanoSIMS substrates (10 nm SiO2 coated Si) where they 
+rupture to form supported bilayer patches whose area reflects 
+the surface area of the parent GUV. This process is depicted in 
+Figure 1. In parallel, continuous supported bilayers (SLBs) 
+were formed by conventional small vesicle fusion. SIMS can 
+then be used to examine the compositional variability of the 
+resulting SLBs formed via different methods.

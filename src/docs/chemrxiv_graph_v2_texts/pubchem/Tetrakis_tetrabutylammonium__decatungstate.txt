@@ -1,0 +1,23 @@
+Name: Tetrakis(tetrabutylammonium) decatungstate
+Text:
+Properties:safety: Irritant
+smiles: CCCC[N+](CCCC)(CCCC)CCCC.CCCC[N+](CCCC)(CCCC)CCCC.CCCC[N+](CCCC)(CCCC)CCCC.CCCC[N+](CCCC)(CCCC)CCCC.[O-][W](=O)(=O)[O-].[O-][W](=O)(=O)[O-]
+formula: C64H144N4O8W2
+chem_properties: Molecular Weight: 1465.5 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 48
+Exact Mass: 1467.00372 Da
+Monoisotopic Mass: 1465.00028 Da
+Topological Polar Surface Area: 161
+Heavy Atom Count: 78
+Formal Charge: 0
+Complexity: 178
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 6
+Compound Is Canonicalized: Yes 
+

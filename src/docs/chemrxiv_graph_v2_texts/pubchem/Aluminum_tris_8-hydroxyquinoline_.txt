@@ -1,0 +1,24 @@
+Name: Aluminum tris(8-hydroxyquinoline)
+Text:
+Tris(8-hydroxyquinolinato)aluminium is a coordination complex of aluminum. It is  common component of organic light-emitting diodes. Aluminum is the most abundant metal in the earth's crust and is always found combined with other elements such as oxygen, silicon, and fluorine.  (L739, L740, L783)
+Properties:safety: Irritant
+smiles: C1=CC2=C(C(=C1)O[Al](OC3=CC=CC4=C3N=CC=C4)OC5=CC=CC6=C5N=CC=C6)N=CC=C2
+formula: C27H18AlN3O3
+chem_properties: Molecular Weight: 459.4 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 6
+Exact Mass: 459.1163549 Da
+Monoisotopic Mass: 459.1163549 Da
+Topological Polar Surface Area: 66.4
+Heavy Atom Count: 34
+Formal Charge: 0
+Complexity: 571
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

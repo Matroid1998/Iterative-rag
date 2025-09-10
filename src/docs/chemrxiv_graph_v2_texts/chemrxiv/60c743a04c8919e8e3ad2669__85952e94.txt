@@ -1,0 +1,11 @@
+Description:
+Covalently bound with nitrogen in hexagonal boron nitride.
+
+Text:
+This includes the 
+voltammetric behavior at inlaid microdisk electrodes, put forth by Feldberg, who predicted 
+peculiar deviations of the steadystate voltammograms from the commonlyused ButlerVolmer 
+model of electrochemical kinetics.5 
+Hexagonal boron nitride (hBN) is arranged into twodimensional (2D) layers, in which 
+boron and nitrogen atoms are covalently bound in an alternating hexagonal pattern, similar to 
+graphene. These layers are held together by van der Waals (vdW) forces in bulk hBN.

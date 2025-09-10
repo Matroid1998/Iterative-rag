@@ -1,0 +1,12 @@
+Description:
+A binary compound with complex defect chemistry and deep defect states detrimental to PVPEC performance.
+
+Text:
+Originally it was thought that Sb2Se3 would exhibit low defect concentration as 
+it is a binary compound (better stoichiometric control) with benign grain boundaries.3 However, 
+recent computational studies have shown the complex defect chemistry of Sb2Se3 and the formation 
+of deep defect states that are detrimental to PVPEC performance.4 Cationanion antisite defects 
+have been shown to have a low formation energy and are energetically positioned close to the mid 
+gap, serving as deep recombination centers. Therefore, the understanding and the 
+suppressionpassivation of such deep defects is crucial for the further development of Sb2Se3 as a 
+PVPEC material.

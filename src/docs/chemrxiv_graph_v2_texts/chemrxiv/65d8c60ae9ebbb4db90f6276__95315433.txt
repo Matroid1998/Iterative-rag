@@ -1,0 +1,17 @@
+Description:
+A material from which polybenzenoid hydrocarbons can be considered as cutouts.
+
+Text:
+Polybenzenoid hydrocarbons (PBHs) are poly
+cyclic aromatic systems (PASs) that contain
+only fused benzene rings. PBHs can be con
+sidered as cutouts from a graphene sheet and
+can be further divided into catacondensed and
+pericondensed PBHs (ccPBHs and pcPBHs,
+respectively; see Figure 1). The difference lies
+in the way the benzene rings are fused to one
+another. While in ccPBHs, any carbon atom
+can be shared by at most two adjacent rings,
+in pcPBHs, a single carbon can be shared by
+up to three rings, which leads to the forma
+tion of 2D structures.

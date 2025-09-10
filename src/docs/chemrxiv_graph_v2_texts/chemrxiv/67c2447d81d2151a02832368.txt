@@ -1,0 +1,42 @@
+Description:
+A polymer that interacts with nucleic acid cargo through electrostatic and potentially other binding modes.
+
+Text:
+Their studies suggest that the ability of these deliv
+ery systems to robustly accommodate and deliver these dif
+ferent types of cargoes is facilitated by their ability to bind
+them through multiple mechanisms, including electrostatic,
+stacking, and hydrogen bonding interactions14,25,26. This
+insight opens new avenues for investigating similar phenom
+ena in PEIbased systems, whose interactions with nucleic
+acid cargo have historically been assumed to be merely elec
+trostatic in nature. Interestingly, a few computational studies
+have predicted that branched PEI (BPEI) might engage in ad
+ditional binding modes beyond electrostatics27,28. However,
+there has not been any experimental evidence to confirm this. To address this gap, we investigated the binding modes
+and macromolecular structure of PEIDNA polyplexes us
+ing infrared (IR) spectroscopy and transmission electron
+microscopy (TEM).
+
+
+---
+
+Description:
+Used in gene delivery systems, interacting with DNA through complexation and binding mechanisms.
+
+Text:
+IR spectroscopy probes vibrations that
+report on bondspecific interactions and conformational
+changes, while TEM provides insights into polyplex mor
+phology. Together, these methods offer a comprehensive
+molecularlevel perspective of PEIDNA dynamics. Using TEM, we first examine the morphologies of LPEI
+and BPEI polyplexes, followed by UVVis absorbance spec
+troscopy to analyze the complexation kinetics of these poly
+mers to DNA. We then apply Fourier Transform IR (FTIR)
+spectroscopy with Multivariate Curve Resolution (MCR)
+analysis to differentiate between the binding modes of LPEI
+and BPEI polyplexes. Our comprehensive approach eluci
+dates new insights into the molecularlevel binding mecha
+nisms of PEI systems to DNA, which we anticipate will help
+guide the development of more efficient and versatile PEI
+based gene delivery systems.

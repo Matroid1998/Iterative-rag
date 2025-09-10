@@ -1,0 +1,18 @@
+Description:
+Hybrid organic-inorganic compounds of the form AB2X3, with only a subset considered stable for further calculations.
+
+Text:
+Common constraints on materials do
+mains include synthesizability, unwanted phase behavior, instabil
+ity, and toxicity. For example, when surveying a polymer library for
+enzymestabilizing candidates, Tamasi et al. encountered phase
+separating or aggregating polymers unsuitable for physical assays
+with the target enzyme9. Likewise, Krbel et al. surveyed 1,276
+hybrid organicinorganic halide perovskites of the form AB2X
+3 ,
+from which only 203 compounds were considered stable for fur
+ther density functional theory calculations16. An et al. sought to
+find peptide sequences that would form condensed phases and
+disparate dynamical properties7, yet no phaseseparating systems
+were identified in an initial survey of 1,266 peptides listed in the
+DisProt database17.

@@ -1,0 +1,23 @@
+Name: Morpholine, 4-(2-chloroethyl)-, hydrochloride (1:1)
+Text:
+Properties:safety: Corrosive and Acute Toxic and Irritant and Health Hazard
+smiles: C1COCCN1CCCl.Cl
+formula: C6H12ClNO.ClH
+chem_properties: Molecular Weight: 186.08 g/mol
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 2
+Exact Mass: 185.0374194 Da
+Monoisotopic Mass: 185.0374194 Da
+Topological Polar Surface Area: 12.5
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 73.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

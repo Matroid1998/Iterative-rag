@@ -1,0 +1,14 @@
+Description:
+Increases the electron-donating strength of the substrate, lowering its oxidation potential.
+
+Text:
+7, 8, 9, 10 and with phenol 11
+It has been shown both experimentally and theoretically that an increase in the electrondonating
+strength of the substrate lowers its oxidation potential, which, in turn, lowers the barrier of the PCET
+reaction on the S1 potential energy surface of the complex. 12, 13 Nonadiabatic dynamic simulations
+performed for such complexes support this observation, too. 12, 14 A similar experiment, performed
+on hexaazatrinaphthylene (HATN) dissolved in water and in methanol, confirms the relation between
+the electrondonating strength of the substrate and the yield of the PCET reaction. 15
+The photooxidation of alcohols is generally representative of the photooxidation of organic mat
+ter, 16, 17 with potential applications in various fields, such as organic synthesis and renewable energy
+conversion.

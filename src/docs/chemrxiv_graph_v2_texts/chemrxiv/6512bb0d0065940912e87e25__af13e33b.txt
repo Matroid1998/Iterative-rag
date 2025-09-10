@@ -1,0 +1,41 @@
+Description:
+The very first discovered FeNHC photosensitiser.
+
+Text:
+Despite the remarkable progress made in the coordination chem
+istry and photophysics of Fecarbene complexes, consistent mech
+anistic understanding of the undergoing excitedstate dynamics
+is often still lacking; this profound knowledge could in fact also
+be the key for reallife applications for solar cells and photocata
+lysts. Inconsistencies may typically be rooted in discrepancies in
+interpretations, stemming from the complexity of data acquired
+by timeresolved (pumpprobe) experiments andor approxima
+tions made in theoretical models for excitedstate simulations. For
+FeNHCs, the scenario is best illustrated by the case of the very
+first discovered FeNHC photosensitiser, Fe(bmip)22 (bmip 
+2,6bis(3methylimidazole1ylidine)pyridine), shown in Figure
+1, right.
+
+
+---
+
+Description:
+A complex whose excited-state dynamics are fully resolved using full-dimensional hybrid quantum-classical excited-state simulations.
+
+Text:
+Clearly, there is a significant difference
+in these experimental assignments, i.e., TOAS (485 nm excitation)
+vs XES (400 nm excitation), as well as the XES data vs theory
+in the appearance of the 100 fs 3MC component. This ultra
+fast 3MLCT quenching channel could in fact have a vital role as it
+challenges the general picture of Fecarbenes possessing longlived
+MLCT states and potentially weakens the complexs photosensing
+ability. Crucially, using fulldimensional hybrid quantumclassical
+excitedstate simulations, we herein clarify and explain all impor
+tant aspects and ambiguities of Fe(bmip)22, fully resolving its
+excitedstate dynamics. . 2
+Results and discussion
+2.1
+Theory overview
+In the following, we address the ultrafast (subps) quenching
+of 3MLCT states by 3MC, observed by fsresolved XES.

@@ -1,0 +1,30 @@
+Description:
+A chiral guest used in complexation with porphyrins for ECD spectra analysis.
+
+Text:
+Thus, in 
+flexible molecules with multiple chiral centers this becomes a 
+complicated and timedemanding 
+task.2a 
+Moreover, 
+the 
+corresponding conformational search, determination of conformer 
+populations, and ECD spectra simulation have their limits of 
+accuracy.2a,4 
+Porphyrins7 
+have 
+featured 
+widely 
+in 
+studies 
+on 
+chirogenesis and sensing1,4 and are suitable test beds for 
+validating analytical tools. In this work the ECD spectra of a 
+sterically 
+hindered 
+hexacationic 
+P 
+(5,10,15,20tetrakis(2
+aminiumphenyl)2,3,7,8,12,13,17,18octaethylporphyrin) 
+complex with two enantiomers of camphorsulfonic acid (CSA) as 
+chiral guests (Figure 1), were experimentally and computationally

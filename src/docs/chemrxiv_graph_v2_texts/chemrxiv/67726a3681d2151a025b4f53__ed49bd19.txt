@@ -1,0 +1,14 @@
+Description:
+Selectively produced by Cu NCs at lower overpotentials.
+
+Text:
+The pioneering work in this 
+field, initiated by Tang et al., demonstrated that Cu NCs exhibit formic acid (HCOOH) selectively at 
+lower overpotentials.10 However, as the applied potential increases, the selectivity shifts towards 
+the hydrogen evolution reaction (HER). They further identified that the presence of lattice hydrides 
+in Cu NCs plays a crucial role in promoting product selectivity. However, Li et al. identified another 
+Cu NC containing the highest metaltohydride ratio that predominately produces HCOOH.11 On the 
+other side, Liu et al. synthesized three distinct hydrides free Cu8 NCs by systematically varying the 
+surfaceprotecting ligands.12 These variations in ligands altered the arrangement of the metal ions, 
+resulting in two distinct geometric structures. They discovered that twistedcubic Cu8 NCs favored 
+the HER, whereas ditetrahedronshaped Cu8 NCs predominantly produced HCOOH.

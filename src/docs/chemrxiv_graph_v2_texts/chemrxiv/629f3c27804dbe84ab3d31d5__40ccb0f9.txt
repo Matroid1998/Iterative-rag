@@ -1,0 +1,30 @@
+Description:
+Involved in electrochemical adsorption on catalyst surfaces during the HER process.
+
+Text:
+The process of the catalytic HER is often regarded as the VolmerTafel and the VolmerHeyrovsky 
+mechanism. Both mechanisms involve electrochemical hydrogen adsorption, hydrogen atoms were 
+adsorbed on active atoms of the catalyst to form adsorbed H Volmer reaction (Equation 1), then 
+followed by the combination of two adsorbed hydrogen atoms to produce H2 molecule Tafel 
+reaction (Equation 2) or the reaction between one adsorbed hydrogen and a solvated proton from the 
+water layer to form a H2 molecule Heyrovsky reaction (Equation 3).1 
+       Volmer (1) 
+2  2  2 Tafel (2) 
+       2 Heyrovsky (3) 
+MHads signifies a H atom adsorbed on the surfaceactive atoms of the catalysts.
+
+
+---
+
+Description:
+The bond length of the hydrogen molecule is 0.74 Å.
+
+Text:
+VolmerTafel mechanism Platinum, as a wellknown catalyst for HER, is thought to follow the this 
+process2, which requires the combination of two MHads species. The observed bond length of the 
+hydrogen molecule is just 0.74,3 but the distance between two neighbouring atoms in pure platinum 
+(cubic, space group Fm3m) is 2.774.4 This demonstrates that the distance between nearby platinum 
+atoms is 3.74 times the length of the hydrogen bond, and that extra energy is required for atomic 
+hydrogen transfer across a long distance. In the VolmerHeyrovsky mechanism, the MHads is formed 
+during the first Volmer stage, there is no obvious and persuasive procedure to explain adsorbing 
+another H atom from water to form a H2 molecule.

@@ -1,0 +1,10 @@
+Description:
+A pollutant influenced by local and global meteorological factors.
+
+Text:
+While it is known that air pollutants are mostly driven by emission from a diversity of sources, such as traffic (Colvile et al.,
+2001), residential (Bari et al., 2011) and industrial combustion (Bing Chen and Zhang, 2011) there is also a significant con
+15
+tribution driven by local and global meteorological factors such as temperature (Hassan et al., 2020), wind (Munir et al.,
+2017), pressure and humidity (Speranza and Caggiano, 2023) for, e.g., PM10 and PM2.5 (particulate matter with aerodynamic
+diameters 10 m and 2.5 m, respectively) but also for pollutants such as NO2 and carbon fractions (imic et al., 2020).

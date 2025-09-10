@@ -1,0 +1,11 @@
+Description:
+A less expensive 3d transition metal used in Ptalloy nanoparticles for PEMFCs.
+
+Text:
+On the other hand, dealloyed Ptalloy (PtM) 
+nanoparticles (NPs) with less expensive 3d transition metals (M  Ni, Cu, Co) supported on 
+high surface area carbon supports, are currently the stateoftheart (SoA) solution to reach the 
+production phase in PEMFCs 11,12  resulting from their facile and already at scale preparation. Cost reduction using Ptalloys is possible due to two key features (i) Ptalloys dilute Ptatoms 
+inside the nanoparticles core and thus improve Pt overall utilisation 1316 and (ii) they exhibit 
+a higher kinetic activity towards the ORR due to a combination of a ligand, strain, coordination 
+number andor surface disorder effects 1723.

@@ -1,0 +1,28 @@
+Name: Triethylamine
+Text:
+Triethylamine appears as a clear colorless liquid with a strong ammonia to fish-like odor. Flash point 20 °F. Vapors irritate the eyes and mucous membranes. Less dense (6.1 lb / gal) than water. Vapors heavier than air. Produces toxic oxides of nitrogen when burned.
+Triethylamine is a tertiary amine that is ammonia in which each hydrogen atom is substituted by an ethyl group.
+Acute (short-term) exposure of humans to triethylamine vapor causes eye irritation, corneal swelling, and halo vision. People have complained of seeing "blue haze" or having "smoky vision." These effects have been reversible upon cessation of exposure. Acute exposure can irritate the skin and mucous membranes in humans. Chronic (long-term) exposure of workers to triethylamine vapor has been observed to cause reversible corneal edema. Chronic inhalation exposure has resulted in respiratory and hematological effects and eye lesions in rats and rabbits. No information is available on the reproductive, developmental, or carcinogenic effects of triethylamine in humans. EPA has not classified triethylamine with respect to potential carcinogenicity.
+See also: Amines, tri-C14-18-alkyl (related).
+Properties:safety: Flammable and Corrosive and Acute Toxic
+smiles: CCN(CC)CC
+formula: C6H15N
+chem_properties: Molecular Weight: 101.19 g/mol
+XLogP3: 1.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 3
+Exact Mass: 101.120449483 Da
+Monoisotopic Mass: 101.120449483 Da
+Topological Polar Surface Area: 3.2
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 25.7
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,14 @@
+Description:
+A nanomaterial with continuous nanonetworks used for immobilizing enzymes at transducer surfaces.
+
+Text:
+As a direct electron transfer between enzyme and electrode may be 
+challenging, and highly depending on the enzyme used, the use of redox mediators to facilitate the 
+electron transfer can prove to be more effective.5 
+ To date, a series of approaches have been developed to immobilize enzymes at transducer 
+surfaces while achieving efficient electron transfer processes. 6 Nanomaterials with continuous 
+nanonetworks are promising candidates, such as graphene, carbon nanotubes (CNTs) and metal 
+oxides. 79 However, the electrode fabrication processes are inefficient, which often adopt 
+bottomtop approaches, leading to timeconsuming synthetic and doping steps for the 
+bioelectrodes. In addition, health effects about employing these nanomaterials have been reported, 
+in particular, the biocompatibility and the carcinogenicity of CNTs.

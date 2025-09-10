@@ -1,0 +1,14 @@
+Description:
+Modified NIR fluorescent dyes applied in biological studies.
+
+Text:
+Fluorescent materials are important building blocks in many applications. For example, they 
+can be used as labels or sensors for biological samples. In particular, nearinfrared (NIR) 
+fluorescence offers several advantages for the study of biological systems1,2. Many 
+biomolecules show autofluorescence, which can interfere with a specific fluorescence signature. In the NIR, this autofluorescence is significantly reduced. Absorption and scattering of radiation 
+in the NIR are also significantly lower compared to visible light2. Therefore, signals in the 
+NIR have higher tissue penetration, resulting in better signaltonoise ratios and substantially 
+lower phototoxicity1. Organic NIR fluorescent dyes such as cyanines3,4 and modified boron 
+dipyrromethenes (BODIPYs)5,6 have been successfully applied for a number of biological 
+studies, but they may have disadvantages such as fast bleaching, low quantum yield or 
+biocompatibility.

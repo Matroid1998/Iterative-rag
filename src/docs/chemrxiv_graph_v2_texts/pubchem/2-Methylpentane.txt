@@ -1,0 +1,30 @@
+Name: 2-Methylpentane
+Text:
+Watery liquid with a gasoline-like odor, Floats on water. Produces an irritating vapor. (USCG, 1999)
+Methyl pentane appears as colorless liquid. Isomers (2-methyl, 3-methyl) are possible and present in technical mixtures or singly for research purposes. Used in organic synthesis and as a solvent.
+2-Methylpentane is an alkane.
+2-Methylpentane has been reported in Solanum lycopersicum and Vitis rotundifolia with data available.
+2-Methylpentane is an isomer of hexane. Hexane is a chemical made from crude oil. It is highly flammable, and its vapors can be explosive. Pure hexane is used in laboratories. Most of the hexane used in industry is mixed with similar chemicals called solvents. The major use for solvents containing hexane is to extract vegetable oils from crops such as soybeans. These solvents are also used as cleaning agents in the printing, textile, furniture, and shoemaking industries. Certain kinds of special glues used in the roofing and shoe and leather industries also contain hexane. Several consumer products contain hexane, such as gasoline, quick-drying glues used in various hobbies, and rubber cement. (L175) 
+See also: Hexanes (annotation moved to).
+Properties:safety: Flammable and Irritant and Health Hazard and Environmental Hazard
+smiles: CCCC(C)C
+formula: C6H14
+chem_properties: Molecular Weight: 86.18 g/mol
+XLogP3: 3.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 2
+Exact Mass: 86.109550447 Da
+Monoisotopic Mass: 86.109550447 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 21.2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,35 @@
+Name: Warfarin
+Text:
+Warfarin can cause developmental toxicity according to an independent committee of scientific and health experts.
+Warfarin is an odorless and colorless solid. Used as a rodenticide for Norway rats and for house mice. (EPA, 1998)
+4-hydroxy-3-(3-oxo-1-phenylbutyl)-1-benzopyran-2-one is a member of the class of coumarins that is 4-hydroxycoumarin which is substituted at position 3 by a 1-phenyl-3-oxo-1-butyl group. It is a methyl ketone, a hydroxycoumarin and a member of benzenes.
+Warfarin is an anticoagulant drug normally used to prevent blood clot formation as well as migration. Although originally marketed as a pesticide (d-Con, Rodex, among others), Warfarin has since become the most frequently prescribed oral anticoagulant in North America. Warfarin has several properties that should be noted when used medicinally, including its ability to cross the placental barrier during pregnancy which can result in fetal bleeding, spontaneous abortion, preterm birth, stillbirth, and neonatal death. Additional adverse effects such as necrosis, purple toe syndrome, osteoporosis, valve and artery calcification, and drug interactions have also been documented with warfarin use. Warfarin does not actually affect blood viscosity, rather, it inhibits vitamin-k dependent synthesis of biologically active forms of various clotting factors in addition to several regulatory factors.
+Warfarin is a Vitamin K Antagonist. The mechanism of action of warfarin is as a Vitamin K Inhibitor.
+Warfarin is a commonly used oral anticoagulant with anti-vitamin K activity. Warfarin therapy is associated with rare instances of idiosyncratic, clinically apparent liver injury that are usually mild and rapidly reversible on stopping.
+Warfarin is a synthetic anticoagulant. Warfarin inhibits the regeneration of vitamin K1 epoxide and so the synthesis of vitamin K dependent clotting factors, which include Factors II, VII, IX and X, and the anticoagulant proteins C and S. This inhibition results in a sequential depression of Factors VII, IX, X and II activities. Vitamin K is an essential cofactor for the post ribosomal synthesis of the vitamin K dependent clotting factors. The vitamin promotes the biosynthesis of gamma-carboxyglutamic acid residues in these proteins which are essential for biological activity.
+WARFARIN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1954 and has 9 approved and 60 investigational indications. This drug has a black box warning from the FDA.
+Warfarin is an anticoagulant drug normally used to prevent blood clot formation as well as migration. Although originally marketed as a pesticide (d-Con, Rodex, among others), Warfarin has since become the most frequently prescribed oral anticoagulant in North America. Warfarin has several properties that should be noted when used medicinally, including its ability to cross the placental barrier during pregnancy which can result in fetal bleeding, spontaneous abortion, preterm birth, stillbirth, and neonatal death. Additional adverse effects such as necrosis, purple toe syndrome, osteoporosis, valve and artery calcification, and drug interactions have also been documented with warfarin use. Warfarin does not actually affect blood viscosity, rather, it inhibits vitamin-k dependent synthesis of biologically active forms of various clotting factors in addition to several regulatory factors. 
+An anticoagulant that acts by inhibiting the synthesis of vitamin K-dependent coagulation factors. Warfarin is indicated for the prophylaxis and/or treatment of venous thrombosis and its extension, pulmonary embolism, and atrial fibrillation with embolization. It is also used as an adjunct in the prophylaxis of systemic embolism after myocardial infarction. Warfarin is also used as a rodenticide.
+See also: Warfarin Sodium (has salt form); Warfarin Potassium (has salt form) ... View More ...
+Properties:safety: Acute Toxic and Irritant and Health Hazard and Environmental Hazard
+smiles: CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O
+formula: C19H16O4
+chem_properties: Molecular Weight: 308.3 g/mol
+XLogP3: 2.7
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 4
+Exact Mass: 308.10485899 Da
+Monoisotopic Mass: 308.10485899 Da
+Topological Polar Surface Area: 63.6
+Heavy Atom Count: 23
+Formal Charge: 0
+Complexity: 501
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

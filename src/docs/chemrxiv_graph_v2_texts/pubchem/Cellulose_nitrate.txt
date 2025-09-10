@@ -1,0 +1,27 @@
+Name: Cellulose nitrate
+Text:
+Nitrocellulose is a (1->4)-beta-D-glucan compound formed by nitrating cellulose through exposure to nitric acid or another powerful nitrating agent. It has a role as a tissue adhesive and an explosive. It is functionally related to a (1->4)-beta-D-glucan.
+A nitrocellulose solution in ether and alcohol. Collodion has a wide range of uses in industry including applications in the manufacture of photographic film, in fibers, in lacquers, and in engraving and lithography. In medicine it is used as a drug solvent and a wound sealant.
+See also: Pyroxylin (annotation moved to); Nitrocellulose membrane filters (annotation moved to); Nitrocellulose with alcohol (annotation moved to) ... View More ...
+Properties:safety: Explosive and Flammable
+smiles: C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-])CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-])O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]
+formula: C18H21N11O38
+chem_properties: Molecular Weight: 999.4 g/mol
+XLogP3: 3.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 38
+Rotatable Bond Count: 18
+Exact Mass: 999.0048952 Da
+Monoisotopic Mass: 999.0048952 Da
+Topological Polar Surface Area: 652
+Heavy Atom Count: 67
+Formal Charge: 0
+Complexity: 1820
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 15
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

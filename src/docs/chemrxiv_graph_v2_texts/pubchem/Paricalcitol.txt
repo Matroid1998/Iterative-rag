@@ -1,0 +1,29 @@
+Name: Paricalcitol
+Text:
+Paricalcitol is a seco-cholestane and a hydroxy seco-steroid. It has a role as an antiparathyroid drug. It is functionally related to a vitamin D2.
+Paricalcitol is a synthetic vitamin D analog. Paricalcitol has been used to reduce parathyroid hormone levels. Paricalcitol is indicated for the prevention and treatment of secondary hyperparathyroidism associated with chronic renal failure.
+Paricalcitol is a Vitamin D2 Analog and Vitamin D Analog.
+Paricalcitol is a synthetic noncalcemic, nonphosphatemic vitamin D analogue.  Paricalcitol binds to the vitamin D receptor and has been shown to reduce parathyroid hormone (PTH) levels. This agent also increases the expression of PTEN ('Phosphatase and Tensin homolog deleted on chromosome Ten'), a tumor-suppressor gene, in leukemic cells and cyclin-dependent kinase inhibitors, resulting in tumor cell apoptosis and tumor cell differentiation into normal phenotypes. (NCI04)
+PARICALCITOL is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1998 and has 3 approved and 18 investigational indications.
+Properties:safety: Acute Toxic and Health Hazard
+smiles: C[C@H](/C=C/[C@H](C)C(C)(C)O)[C@H]1CC[C@@H]\2[C@@]1(CCC/C2=C\C=C3C[C@H](C[C@@H](C3)O)O)C
+formula: C27H44O3
+chem_properties: Molecular Weight: 416.6 g/mol
+XLogP3: 5
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 5
+Exact Mass: 416.32904526 Da
+Monoisotopic Mass: 416.32904526 Da
+Topological Polar Surface Area: 60.7
+Heavy Atom Count: 30
+Formal Charge: 0
+Complexity: 676
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 7
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 2
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

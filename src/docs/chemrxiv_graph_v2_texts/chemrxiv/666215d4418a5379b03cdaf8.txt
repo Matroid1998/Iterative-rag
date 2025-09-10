@@ -1,0 +1,13 @@
+Description:
+Once limited to describing the bonding interactions of the hydrogen molecule.
+
+Text:
+Since its inception in the 1920s, computational chemistry has had a revolutionary impact on the way 
+chemists perform research.1 Once limited to describing the bonding interactions of the hydrogen 
+molecule,2 modern computational chemistry can accurately predict a multitude of molecular 
+properties for systems containing hundreds or thousands of atoms,36 including molecular orbitals and 
+their energies, molecular vibrations, electronic excited states, transition states, nuclear magnetic 
+resonance (NMR) shielding and coupling constants, and reaction pathways. Much of this explosion 
+in scale was driven by the seminal works of Hohenberg, Kohn, and Sham,7,8 building upon the works 
+of many others,912 in developing the fast but accurate methodology that is known as density 
+functional theory (DFT). Today, a plethora of computational models are available to the theoretician.

@@ -1,0 +1,13 @@
+Description:
+Passivation at zigzag edges can induce halfmetallicity in ZGNRs.
+
+Text:
+showed that an external inplane electric field can break the spin degeneracy
+of ZGNRs resulting in halfmetallic ZGNRs.31 Jaiswal et al. reported that fluorine passivation at zigzag edges can
+induce halfmetallicity in ZGNRs.32
+Afterward, various schemes have been proposed in order to modulate ZGNRs magnetic properties for different
+device applications, such as chemical functionalizations and substitutions, and exploiting quantum interference (QI)
+effects to control spinpolarized electron transmission.3342 SaraivaSouza et al. reported the observation of destructive
+quantum interference (DQI) features in the electron transmission spectrum, by adding an imidazole donor group to
+the polyacetylene chain connected with the ZGNR electrodes.43 The observed DQI features can be further controlled
+by the application of gate voltage. Valli et al.

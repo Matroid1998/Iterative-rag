@@ -1,0 +1,32 @@
+Name: Adenosine cyclic phosphate
+Text:
+3',5'-cyclic AMP is a 3',5'-cyclic purine nucleotide having having adenine as the nucleobase. It has a role as a human metabolite, an Escherichia coli metabolite and a mouse metabolite. It is an adenyl ribonucleotide and a 3',5'-cyclic purine nucleotide. It is a conjugate acid of a 3',5'-cyclic AMP(1-).
+Cyclic adenosine monophosphate (cAMP, cyclic AMP or 3'-5'-cyclic adenosine monophosphate) is a molecule that is important in many biological processes; it is derived from adenosine triphosphate (ATP).
+Cyclic AMP is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Cyclic AMP has been reported in Ziziphus jujuba, Secale cereale, and other organisms with data available.
+Cyclic AMP is a second messenger molecule comprised of an adenine ribonucleotide bearing a phosphate group bound to the oxygen molecules at the 3' and 5' positions of the sugar moiety. Cyclic AMP, which is synthesized from ATP by the intracellular enzyme adenylate cyclase, modulates the activity of several hormone-dependent signal transduction pathways.
+3',5'-cyclic AMP is a metabolite found in or produced by Saccharomyces cerevisiae.
+An adenine nucleotide containing one phosphate group which is esterified to both the 3'- and 5'-positions of the sugar moiety. It is a second messenger and a key intracellular regulator, functioning as a mediator of activity for a number of hormones, including epinephrine, glucagon, and ACTH.
+See also: Jujube fruit (part of) ... View More ...
+Properties:safety: Corrosive and Irritant
+smiles: C1[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=NC4=C(N=CN=C43)N)O)OP(=O)(O1)O
+formula: C10H12N5O6P
+chem_properties: Molecular Weight: 329.21 g/mol
+XLogP3: -2.6
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 10
+Rotatable Bond Count: 1
+Exact Mass: 329.05252012 Da
+Monoisotopic Mass: 329.05252012 Da
+Topological Polar Surface Area: 155
+Heavy Atom Count: 22
+Formal Charge: 0
+Complexity: 498
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

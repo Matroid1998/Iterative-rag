@@ -1,0 +1,19 @@
+Description:
+A toxic component of rocket fuel with high reactivity leading to numerous transformation products.
+
+Text:
+26 
+Due to the rising amount of new chemicals released to the environment nontargeted analysis using 
+27 
+mass spectrometry (MS) coupled to liquidgas chromatography (LCGC) have risen as a new approach in 
+28 
+analytical chemistry to detect, identify and eventually quantify chemicals in environmental samples 1,2. 29 
+Especially nontargeted analysis is prevalent when working with unsymmetrical dimethylhydrazine 
+30 
+(UDMH), which is a toxic component of rocket fuel. The particular complexity of UDMH as a research 
+31 
+object lies in its high reactivity, which leads to the formation of a large number of transformation products 
+32 
+3,4. Establishing the structure of new UDMH transformation products is a challenging task as standard 
+33 
+samples are in most cases unavailable.

@@ -1,0 +1,12 @@
+Description:
+Involved in the hydrogen evolution reaction, a major process for energy conversion and storage.
+
+Text:
+The hydrogen evolution reaction (HER) is a major process for energy conversion and 
+storage, motivating considerable interest in improving the costeffectiveness of electrolyzers.15 
+To lower the high cost of the electrocatalysts, which are currently made of expensive metals like 
+platinum4,6 and iridium7, the precious metal concentration must be decreased. Dispersing the 
+metals on supports as single atoms or subnanometer clusters can help lower the metal content by 
+ensuring that every metal atom is accessible throughout the catalytic process. Due to their unique 
+topologies and electronic properties, which are crucial to understanding their chemisorption 
+properties, small nanoclusters are also interesting from a fundamental perspective.

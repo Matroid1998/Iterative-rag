@@ -1,0 +1,11 @@
+Description:
+Used in nanocapillaries to study high pressure values and unusual behavior of water under confinement.
+
+Text:
+Moreover, reported high pressure 
+values within graphene nanocapillaries and computational studies suggesting unusual 
+behaviour of water under such confinement make graphene nanocapillaries an intriguing vessel 
+for new synthesis routines.3336 It is thus highly desirable to extend angstromconfined 
+synthesis strategies to transform conventional nonvdW materials, such as TMO, into 2D form. This will enable us to explore unexpected properties of these 2D nonvdW materials.18 
+A classic bottomup technique to grow thin nonvdW materials is electrochemical synthesis. However, it is yet illusive to limit the thickness of the grown material to (sub) unit cell 
+thickness.18,37,38 In this case, space confinement might help to solve the issue.

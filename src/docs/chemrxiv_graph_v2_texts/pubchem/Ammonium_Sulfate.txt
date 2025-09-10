@@ -1,0 +1,28 @@
+Name: Ammonium Sulfate
+Text:
+Ammonium sulfate is a white odorless solid. Sinks and dissolves in water. (USCG, 1999)
+Ammonium sulfate is an inorganic sulfate salt obtained by reaction of sulfuric acid with two equivalents of ammonia. A high-melting (decomposes above 280℃) white solid which is very soluble in water (70.6 g/100 g water at 0℃; 103.8 g/100 g water at 100℃), it is widely used as a fertilizer for alkaline soils. It has a role as a fertilizer. It is an ammonium salt and an inorganic sulfate salt.
+Mascagnite is a mineral with formula of (N3-H4)2S6+O4 or (NH4)2(SO4). The IMA symbol is Msc.
+Sulfuric acid diammonium salt. It is used in CHEMICAL FRACTIONATION of proteins.
+See also:  ... View More ...
+Properties:safety: Irritant
+smiles: [NH4+].[NH4+].[O-]S(=O)(=O)[O-]
+formula: H8N2O4S
+chem_properties: Molecular Weight: 132.14 g/mol
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 132.02047791 Da
+Monoisotopic Mass: 132.02047791 Da
+Topological Polar Surface Area: 90.6
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 62.2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

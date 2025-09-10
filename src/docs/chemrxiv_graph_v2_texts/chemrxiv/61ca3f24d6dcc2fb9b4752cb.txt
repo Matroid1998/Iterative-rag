@@ -1,0 +1,28 @@
+Description:
+Produced via the hydrogen evolution reaction (HER) as a clean and renewable energy source.
+
+Text:
+Faced with the global energy crisis, we strive to reduce fossil fuel consumption and increase 
+the usage of renewable energy sources 13. The electrochemical production of hydrogen via 
+hydrogen evolution reaction (HER) is a promising way for obtaining clean and renewable energy 4. In alkaline solutions the HER mechanism involves water dissociation and subsequent hydrogen 
+reduction and adsorption (H2O  e  Hads  OH), in the Volmer step, which is followed by, either 
+the Heyrovsky step (Hads  H2O  e  H2  OH) or by the Tafel step (2Hads H2) 5. Recent 
+improvements in the cost and performance of electrochemical water splitting technologies point 
+towards a more economically viable future for their application at an industrial scale 6.
+
+
+---
+
+Description:
+Produced via proton exchange membrane electrolysis and alkaline water electrolysis.
+
+Text:
+Currently, 
+the two prevalent methods for obtaining hydrogen are protonexchange membrane (PEM) electrolysis 
+7 and alkaline water electrolysis (AWE) 8. The hydrogen production efficiency of PEM 
+electrolyzers is higher but requires Ptbased catalysts 9. In the case of AWE, the key goal is high 
+catalytic activity and stability under intermittent polarization in alkaline media 10. It is well known 
+that the HER rate in alkaline media is inferior to that in acidic ones 11, 12 because of the additional 
+water dissociation step 13, precedes the discharge step, but also due to the blockage of active sites 
+by adsorbed hydroxyl ions, but also partly due to hydroxyl ion adsorption resulting in the blockage of 
+active sites 5.

@@ -1,0 +1,30 @@
+Name: Phosgene
+Text:
+Phosgene is a colorless nonflammable gas that has the odor of freshly cut hay. It is a manufactured chemical, but small amounts occur naturally from the break down of chlorinated compounds. Phosgene is used in the manufacture of other chemicals such as dyestuffs, isocyanates, polycarbonates and acid chlorides; it is also used in the manufacture of pesticides and pharmaceuticals. Phosgene can also be used to separate ores. Phosgene is a gas at room temperature, but is sometimes stored as a liquid under pressure or refrigeration.
+Phosgene appears as a chemical warfare choking agent. Extremely toxic. A colorless gas or very low-boiling, volatile liquid with an odor of new-mown hay or green corn. Warning properties of the gas inhaled are slight, death may occur within 36 hours (Lewis, 3rd ed., 1993, p. 1027). Prolonged exposure of the containers to intense heat may result in their violent rupturing and rocketing.  Rate of onset: Immediate & Delayed (Lungs)  Persistence: Minutes - hours  Odor threshold: 0.5 ppm  Source/use/other hazard: Dye, pesticide, and other industries; history as war gas, corrosive/irritating.
+Phosgene is an acyl chloride obtained by substitution of both hydrogens of formaldehyde by chlorine. It is functionally related to a formaldehyde.
+Phosgene is used as a chemical intermediate; in the past, it was used as a chemical warfare agent. Phosgene is extremely toxic by acute (short-term) inhalation exposure. Severe respiratory effects, including pulmonary edema, pulmonary emphysema, and death have been reported in humans. Severe ocular irritation and dermal burns may result following eye or skin exposure. Chronic (long-term) inhalation exposure to phosgene has been shown to result in some tolerance to the acute effects noted in humans, but may also cause irreversible pulmonary changes of emphysema and fibrosis. Limited human studies indicate no increase in the incidence of cancer among workers chronically exposed to phosgene. EPA has classified phosgene as a Group D compound, not classifiable as to human carcinogenicity.
+Phosgene is a synthetic formaldehyde derivative with both hydrogens substituted by chlorine. Phosgene is used in the manufacture of other chemicals, pesticides, and pharmaceuticals. It can also be used to separate ores, and has been used as a chemical warfare agent. It is characterized as a colorless to light yellow gas at room temperature and normal pressure or as a liquid under pressure or with refrigeration, with an odor of freshly cut hay. Exposure occurs by inhalation, ingestion, or contact.
+A highly toxic gas that has been used as a chemical warfare agent. It is an insidious poison as it is not irritating immediately, even when fatal concentrations are inhaled. (From The Merck Index, 11th ed, p7304)
+Properties:safety: Compressed Gas and Corrosive and Acute Toxic
+smiles: C(=O)(Cl)Cl
+formula: CCl2O
+chem_properties: Molecular Weight: 98.91 g/mol
+XLogP3: 1.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 97.9326200 Da
+Monoisotopic Mass: 97.9326200 Da
+Topological Polar Surface Area: 17.1
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 29
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

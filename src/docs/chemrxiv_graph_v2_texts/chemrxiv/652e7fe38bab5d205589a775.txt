@@ -1,0 +1,38 @@
+Description:
+Subject to novel mediated reductions to avoid metallic residues.
+
+Text:
+I) metal catalysts face the issue of metallic 
+deuterium atom transfers (mDAT);34 II) an organomediator to 
+avoid any metallic residues in reference to the development of 
+novel mediated styrene reductions; III) providing a general, 
+economical and environmentalfriendly approach in reference to 
+their developed method. A solvent screen revealed DMF to be the 
+solvent of choice (a few examples of our method were run in DMF), 
+however no MeCN was tested which works best for the reductions 
+developed by Cheng and Li28 and Werz.33 The authors claim of 
+a careful optimization is hence not fitting. It is worth mentioning 
+that the scope of both reactions presented in Scheme 2b share 
+one example (d)28a in equal yields of 81. The scope presented 
+by Qiu et al.
+
+
+---
+
+Description:
+Undergoes hydrogenation starting with cathodic reduction and subsequent protonation to form a benzylic radical.
+
+Text:
+also contains examples which were successfully 
+converted without a mediator present. The mechanism of styrene hydrogenation is believed to 
+start by cathodic reduction of 27 and subsequent protonation 
+delivering a benzylic radical which undergoes the same process 
+again to furnish products 28 (Scheme 3c).27,33 The difference in 
+Qius concept is that the radical anion of TPPO (29) transfers an 
+electron to styrene 27 which then leads to intermediates of the 
+direct pathway. The mediator TPPO (29) formed is in situ by 
+anodic oxidation of TPP (30), a molecule which unlikely acts as a 
+reductive mediator. The authors declare TPP (30) as the mediator 
+and only clarify its role in the mechanistic part which concludes 
+their manuscript11  we find this misleading especially to readers 
+unfamiliar with mediated electrolysis.

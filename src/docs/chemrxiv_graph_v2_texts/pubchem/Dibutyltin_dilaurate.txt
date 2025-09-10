@@ -1,0 +1,25 @@
+Name: Dibutyltin dilaurate
+Text:
+Dibutyltin dilaurate is a clear yellow viscous liquid. (NTP, 1992)
+Dibutyltin dilaurate is an organotin compound. Tin is a chemical element with the symbol Sn and atomic number 50. It is a natural component of the earth's crust and is obtained chiefly from the mineral cassiterite, where it occurs as tin dioxide. (L307, L309)
+Properties:safety: Health Hazard
+smiles: CCCCCCCCCCCC(=O)O[Sn](CCCC)(CCCC)OC(=O)CCCCCCCCCCC
+formula: C32H64O4Sn
+chem_properties: Molecular Weight: 631.6 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 30
+Exact Mass: 632.382663 Da
+Monoisotopic Mass: 632.382663 Da
+Topological Polar Surface Area: 52.6
+Heavy Atom Count: 37
+Formal Charge: 0
+Complexity: 477
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

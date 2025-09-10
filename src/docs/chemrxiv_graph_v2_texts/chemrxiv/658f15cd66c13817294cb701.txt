@@ -1,0 +1,12 @@
+Description:
+Random AB-type copolyimides that produce sequence-dependent 1H NMR complexation shifts.
+
+Text:
+We have recently shown that highly sequencedependent 1H NMR complexationshifts are produced 
+in the spectra of certain random ABtype copolyimides based on 1,4,5,8naphthalene tetracarboxylic 
+diimide (NDI) on complexation by an aromatic probe molecule such as pyrene or perylene 1517. This phenomenon arises from cumulative ringcurrent shielding 19, 20 of the central residue in an 
+NDIcentred sequence, produced by the probemolecules complexing to NDI residues by 
+electronically complementary ppstacking 21, 22. Such shielding results not only from the probe
+molecule binding directly at the central observed NDI residue, but also from complexation to NDI 
+residues at neighbouring (and nextneighbouring, and nextnextneighbouring etc.) positions viewed 
+in both directions from the centre of the sequence.

@@ -1,0 +1,11 @@
+Description:
+An electron-rich building block used in donor-acceptor interactions with triazine cores in polymers.
+
+Text:
+One further strategy to 
+tune the optical bandgap of a conjugated polymer is the incorporation of heteroatomcontaining 
+donoracceptor (DA) motifs into its backbone.1415 Recently, we have introduced a family of 
+sulfur and nitrogencontaining porous polymers (SNPs) that make use of DA interactions 
+between neighboring electrondeficient triazine (C3N3) cores and electronrich aryl thiophene 
+building blocks of the polymer to achieve control over the bandgap energy without large changes 
+to the pore structure.16 In addition, incorporation of aromatic spacers between the donor and the

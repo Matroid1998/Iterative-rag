@@ -1,0 +1,20 @@
+Description:
+Used for engineering metasurfaces and conventional nanofabrication of single-particle plasmon resonance nanoparticles.
+
+Text:
+MetalInsulatorMetal
+(MIM)
+nanomicrostructure
+metasur
+faces have been utilized as highly efficient lightabsorbing ma
+terials, i.e., as a new platform for photothermal energy conver
+sion116. In particular, this new method to engineer materials is
+attracting attention to realise radiative cooling, radiation sources
+and detectors at the midinfrared (mIR) wavelengths range. Met
+als such as gold, silver, copper, and aluminum have been used for
+engineering metasurfaces and for conventional nanofabricaiton
+of singleparticle plasmon resonance nanoparticles. However,
+these materials have a considerably large time constant of free
+electron oscillation, i.e. the resonance between the metalbase
+plate of MIM and nanomicrostructures persists for a long time. As a result, there is low reflection, but also a nonnegligible com
+ponent of reradiated power as scattering.

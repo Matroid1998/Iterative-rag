@@ -1,0 +1,35 @@
+Description:
+Formed from aniline in a reaction mechanism.
+
+Text:
+In the vapor phase process NB is fed 
+with hydrogen into a tubular reactor containing a supported Cu catalyst at 270 290 C and 15 bar in the 
+presence of a 91 (H2NB) excess of hydrogen.2 In the liquid phase process, the capability for utilization of 
+reaction heat (more than 500 kJ mol1) is much higher due to higher heat transfer coefficient, and supported 
+noble metals (palladium and platinum) are employed.3 
+Given the industrial and economic relevance of the process, plentiful academic and industrial research is 
+still conducted today to improve the existing processes.4 In 2005, Jackson in collaboration with catalysis 
+industrys researchers demonstrated that the Habers threestep reaction mechanism (aniline converted to 
+nitrosobenzene, the latter to phenylhydroxylamine, and phenylhydroxylamine to aniline) is wrong.5 The 
+newly suggested reaction mechanism indicates formation of PhN(OH) (nitrobenzene) as surface interme
+diate.
+
+
+---
+
+Description:
+A strongly adsorbed intermediate in the formation of aniline.
+
+Text:
+In another attempt, a catalyst comprised of 3.7 nm 
+Ni nanoparticles dispersed on silica, though more active than Raney Ni, required 90 C because formation 
+of aniline only begins when the conversion of the strongly adsorbed nitrosobenzene intermediate is higher 
+than 90.7 
+In the following, we describe the high and stable activity in the NB reduction to aniline of the reduced form 
+(RGONi) of NiGraf, a newly developed metal organic alloy (MORAL) comprised of graphene oxide en
+trapped within Ni nanoparticles (GONi).8 Actually consisting of Ni nanoparticles encapsulating GO plate
+lets,9 this new class of Nibased catalysts is reproducibly and efficiently obtained through the MORAL 
+approach first introduced by Avnir in 2002.10 Since then, widely different molecularly doped metals were 
+applied as enhanced catalysts to numerous catalytic conversions.11 Yet, their uptake in catalysis science 
+and technology in the subsequent two decades remained surprisingly low, even though metal species 
+httpsdoi.org10.26434chemrxiv2025fhf4r ORCID httpsorcid.org000000025096329X Content not peerreviewed by ChemRxiv.

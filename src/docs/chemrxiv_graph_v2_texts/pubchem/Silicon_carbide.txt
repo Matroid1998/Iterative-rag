@@ -1,0 +1,25 @@
+Name: Silicon carbide
+Text:
+Silicon carbide appears as yellow to green to bluish-black, iridescent crystals. Sublimes with decomposition at 2700 °C. Density 3.21 g cm-3. Insoluble in water. Soluble in molten alkalis (NaOH, KOH) and molten iron.
+Silicon carbide is an organosilicon compound.
+Properties:safety: Health Hazard
+smiles: [C-]#[Si+]
+formula: CSi
+chem_properties: Molecular Weight: 40.096 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 39.976926534 Da
+Monoisotopic Mass: 39.976926534 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 2
+Formal Charge: 0
+Complexity: 10
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

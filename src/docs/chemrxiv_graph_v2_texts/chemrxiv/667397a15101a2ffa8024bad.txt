@@ -1,0 +1,47 @@
+Description:
+A promising energy carrier that yields only water as a chemical byproduct when used in fuel cells or combustion.
+
+Text:
+In todays world, where environmental concerns are growing and human impact on climate change is 
+undeniable, shifting from traditional fossil fuels to renewable energy sources has become not just a 
+preference but an essential need.1,2 Exploring efficient and sustainable approaches to store and transport 
+environmentally benign fuel sources is becoming crucial. We now face the reality that our historical 
+reliance on hydrocarbons extracted from below the ground is unsustainable and ecologically harmful. In 
+turn, hydrogen, with its energy stored in HH bonds, is a promising energy carrier since its use in either 
+fuel cells or even combustion is itself harmless to the environment, yielding only water as a chemical 
+byproduct.
+
+
+---
+
+Description:
+Requires extremely high pressures or very low cryogenic temperatures for liquefaction and storage.
+
+Text:
+As a specific example involving an economically vital application, adapting heavyduty 
+transport to run on hydrogen fuel is an attractive, ecofriendly solution.3,4 
+However, moving towards a hydrogenbased economy brings several challenges. Physicalbased 
+storage of hydrogen typically requires either extremely high pressures (350700 bar) or very low, cryogenic 
+temperatures for hydrogen liquefaction (252.8 C at 1 atm).58 These processes consume a lot of energy, 
+both for compressing the hydrogen and maintaining low temperatures.9a Additionally, storing highly 
+flammable gas under more than 350 bar pressure raises risk concerns, especially in the context of daily 
+transportation, while boil off from liquid hydrogen can lead to significant losses for longer periods of 
+storage.9b,9c 
+A promising approach for hydrogen storage at moderate pressures is through the use of adsorbents.
+
+
+---
+
+Description:
+A gas whose gravimetric uptake increases with greater surface area but volumetric uptake decreases, important for hydrogen-fueled transportation.
+
+Text:
+Furthermore, 
+theory could offer insights into the electronic structure of the material, providing further pathways for 
+subsequent optimizations.14 
+Although MOFs are wellknown for their porosity, the strategy for optimizing a MOF for hydrogen 
+storage must go beyond merely increasing its surface area.13 While it is true that the gravimetric uptake 
+of hydrogen increases with greater surface area, the volumetric uptake, crucially important for hydrogen
+fueled transportation, decreases.15,16 In addition, relying solely on weak physisorption, characterized by 
+binding enthalpies around 5 kJmol, is inadequate for attaining substantial usable capacities at room 
+temperature and results in unsatisfactorily low hydrogen densities.

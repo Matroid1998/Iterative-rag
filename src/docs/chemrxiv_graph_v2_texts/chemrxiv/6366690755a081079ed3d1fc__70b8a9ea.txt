@@ -1,0 +1,24 @@
+Description:
+Involves electron transfer between CuCu2 and a surface Fe3 species in its dissolution.
+
+Text:
+Copper is the noblest of the 3rd transition metals. It can form two stable passivating oxides at 
+neutral pHs, depending on the potential (Parsons, 1967). The fabrication of copper oxides and 
+copper ions in different morphologies has attracted increasing attention in recent years due to their 
+potential application in so many fields such as energy conversion, electrode materials, catalysis, 
+etc (Gawande et al., 2016; Zhang et al., 2014). The main feature of the copperenhanced 
+mechanism for the dissolution of synthetic magnetite is the electron transfer between CuCu2 
+and a surface Fe3 species (Zeng et al., 2012).
+
+
+---
+
+Description:
+A major corrosion product formed under high temperatures and pressure on reactor coolant system surfaces.
+
+Text:
+Several metal oxides including magnetite, nickel ferrite, and chromite can be deposited on the 
+surfaces of structures like pipes and other equipment, especially when they come into contact with 
+the reactor coolant (Lee et al., 2020). Of the various metal oxides formed in NPPs, magnetite is 
+one of the major corrosion products. Magnetite is formed under high temperatures (270C) and 
+pressure (around 16 MPa) on the surfaces of the reactor coolant system. Magnetite dissolution and

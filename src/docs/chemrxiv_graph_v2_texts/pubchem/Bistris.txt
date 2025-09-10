@@ -1,0 +1,26 @@
+Name: Bistris
+Text:
+Bis-tris is a buffer substance useful for calibration of glass electrodes and for the preparation of the biochemical and biological buffer solutions; pKa = 6.46 at 25 ℃. It has a role as a buffer. It is functionally related to a member of tris.
+See also: 2,2-Bis(hydroxymethyl)-2,2',2"-nitrilotriethanol (annotation moved to).
+Properties:safety: Corrosive and Irritant
+smiles: C(CO)N(CCO)C(CO)(CO)CO
+formula: C8H19NO5
+chem_properties: Molecular Weight: 209.24 g/mol
+XLogP3: -3.3
+Hydrogen Bond Donor Count: 5
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 8
+Exact Mass: 209.12632271 Da
+Monoisotopic Mass: 209.12632271 Da
+Topological Polar Surface Area: 104
+Heavy Atom Count: 14
+Formal Charge: 0
+Complexity: 125
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

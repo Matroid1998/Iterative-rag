@@ -1,0 +1,32 @@
+Name: Guanidine
+Text:
+Guanidine is an aminocarboxamidine, the parent compound of the guanidines. It is a one-carbon compound, a member of guanidines and a carboxamidine. It is a conjugate base of a guanidinium.
+A strong organic base existing primarily as guanidium ions at physiological pH. It is found in the urine as a normal product of protein metabolism. It is also used in laboratory research as a protein denaturant. (From Martindale, the Extra Pharmacopoeia, 30th ed and Merck Index, 12th ed) It is also used in the treatment of myasthenia and as a fluorescent probe in HPLC.
+Guanidine is an Acetylcholine Releasing Agent. The physiologic effect of guanidine is by means of Increased Acetylcholine Activity.
+Guanidine has been reported in Liparis formosana, Citrus reticulata, and other organisms with data available.
+GUANIDINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1939 and has 3 approved and 2 investigational indications.
+Guaniidine is a uremic toxin.  Uremic toxins can be subdivided into three major groups based upon their chemical and physical characteristics: 1) small, water-soluble, non-protein-bound compounds, such as urea; 2) small, lipid-soluble and/or protein-bound compounds, such as the phenols and 3) larger so-called middle-molecules, such as beta2-microglobulin. Chronic exposure of uremic toxins can lead to a number of conditions including renal damage, chronic kidney disease and cardiovascular disease. 
+Guanidine is a polyamine that can function as a strong organic base existing primarily as guanidium ions at physiological pH. With a pKa of 12.5, guanidine is protonated, with a charge of +1 in physiological conditions. It is found in the urine as a normal product of protein metabolism. It is also used in laboratory research as a protein denaturant. (From Martindale, the Extra Pharmacopoeia, 30th ed and Merck Index, 12th ed). Guanidine is a crystalline compound of strong alkalinity formed by the oxidation of guanine. It is used in the manufacture of plastics and explosives.
+A strong organic base existing primarily as guanidium ions at physiological pH. It is found in the urine as a normal product of protein metabolism. It is also used in laboratory research as a protein denaturant. (From Martindale, the Extra Pharmacopoeia, 30th ed and Merck Index, 12th ed) It is also used in the treatment of myasthenia and as a fluorescent probe in HPLC.
+Properties:safety: Flammable and Corrosive and Acute Toxic and Irritant and Health Hazard
+smiles: C(=N)(N)N
+formula: CH5N3
+chem_properties: Molecular Weight: 59.07 g/mol
+XLogP3: -1.3
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 59.048347172 Da
+Monoisotopic Mass: 59.048347172 Da
+Topological Polar Surface Area: 75.9
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 26.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

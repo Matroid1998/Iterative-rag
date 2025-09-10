@@ -1,0 +1,59 @@
+Description:
+The smallest nitrogen-containing heterocyclic compounds, extensively found in natural products and pharmaceuticals.
+
+Text:
+Aziridines, recognized as the smallest nitrogencontaining 
+heterocyclic compounds, are a privileged scaffold 
+extensively found in natural products and pharmaceuticals, 
+such as Mitomycin A (antitumor agents), Azicemicin A 
+(antimicrobial antibiotic) and FR66979 (antitumor 
+antibiotic) (Scheme 1a).16 Notably, as a crucial building 
+block, various methods for synthesizing aziridines have 
+emerged.510 These primarily include 1) intramolecular 
+cyclization of amino or azido alcohols. 2) addition of 
+carbene equivalent to imine.8 3) addition of nitrene 
+equivalent to olefin.9 Transforming simple olefins into high
+valueadded aziridines, given that the significance of olefins 
+as a chemical feedstock, represents a challenging and 
+significant task.
+
+
+---
+
+Description:
+Produced from alkenes through transient oxaziridines.
+
+Text:
+Conversely, the synthesis of free NH 
+aziridines has garnered relatively less attention, probably 
+due to the scarcity of suitable nitrene precursors and 
+approaches.1116 In a seminal study in 2014, the Krti, Falck, 
+and Ess group reported a rhodiumcatalyzed NH 
+aziridination 
+of 
+alkenes 
+utilizing 
+O(2,4
+dinitrophenyl)hydroxylamines (DPHs) as the aminating 
+reagent (Scheme 1c, left).13 They later extended this 
+approach to include both NH and Nalkyl aziridination of 
+olefins, using hydroxylamineOsulfonic acids (HOSA) as 
+nitrene precursors alongside Rhodium(II) dimer catalyst 
+and pyridine as base.14a Subsequently, Krtis group has 
+advanced the field by demonstrating enantioselective 
+aziridination 
+using 
+commercially 
+available 
+()3
+(trifluoroacetyl)camphor as a chiral catalyst, producing 
+aziridines 
+from 
+simple 
+alkenes 
+through 
+transient 
+oxaziridines formed in situ from HOSA and electron
+deficient ketones aziridination of alkenes, (Scheme 1c, 
+middle).15 Most recently, the Jat and Tiwari groups also 
+reported a metalfree intermolecular NH using

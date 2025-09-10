@@ -1,0 +1,26 @@
+Name: Diisopropyl methylphosphonate
+Text:
+Diisopropyl methylphosphonate is a chemical by-product resulting from the manufacture of Sarin (GB), a nerve gas that was produced by the Army in the 1950s. A chemical by-product is a chemical that is formed while making another substance. Sarin was produced and stored only in the Rocky Mountain Arsenal outside of Denver, Colorado. Production of Sarin in the United States was discontinued in 1957. Diisopropyl methylphosphonate is not known to occur naturally in the environment. It is not likely to be produced in the United States in the future because of the signing of a chemical treaty that bans the use, production, and stockpiling of poison gases. Diisopropyl methylphosphonate is a colorless liquid. Other names for it are DIMP, diisopropyl methane-phosphonate, phosphonic acid, and methyl-bis-(1-methylethyl)ester.
+Diisopropyl methylphosphonate is an organic phosphonate that is the diisopropyl ester of methylphosphonic acid. It is functionally related to a methylphosphonic acid.
+Properties:safety: Irritant
+smiles: CC(C)OP(=O)(C)OC(C)C
+formula: C7H17O3P
+chem_properties: Molecular Weight: 180.18 g/mol
+XLogP3: 0.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 4
+Exact Mass: 180.09153140 Da
+Monoisotopic Mass: 180.09153140 Da
+Topological Polar Surface Area: 35.5
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 140
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

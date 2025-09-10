@@ -1,0 +1,39 @@
+Description:
+A semiconducting transition-metal dichalcogenide with a direct band gap.
+
+Text:
+The successful isolation of graphene from graphite along with the
+discovery of its distinctive properties has attracted considerable inter
+est in 2Dlayered materials 1. In recent years, remarkable progress
+has been made in the exploration of these materials, evolving from fun
+damental research to advanced materials engineering and the develop
+ment of innovative technologies 25. A special place among 2D
+layered materials belongs to semiconducting transitionmetal dichalco
+genides (TMDs) containing molybdenum (Mo) such as MoS2, MoSe2,
+and MoTe2 with the general formula MoX2, where X refers to a chalco
+gen element. MoX2 monolayers possess a direct band gap in contrast
+to graphene and offer unique physicochemical characteristics, paving
+the way for their application in (opto)electronics, spintronics, electro
+catalysis, sensing, and energy storage 415.
+
+
+---
+
+Description:
+A 2D material that has garnered attention as an electrocatalyst due to its greater availability.
+
+Text:
+These electrocatalytic processes include,
+most notably, the hydrogen evolution reaction (HER), along with re
+duction reactions of carbon dioxide (CRR), nitrogen (NRR), and oxy
+gen (ORR) 3542. In terms of catalyst performance, the sheets of
+MoX2 are generally regarded comparable owning apparent structural
+and chemical similarities. Consequently, among these, 2D MoS2 has
+garnered particular attention as an electrocatalyst, largely due to its
+greater availability compared to other TMDs 4244. However, while
+this perspective holds to some extent, it is incomplete and reflects a
+common misconception about the physicochemical properties of MoX2
+sheets. This misconception arises from the many wellknown similarities
+shared by MoS2, MoSe2 and MoTe2. These materials have a common
+structure, bonding configuration, and general surface interaction mech
+anism 1627.

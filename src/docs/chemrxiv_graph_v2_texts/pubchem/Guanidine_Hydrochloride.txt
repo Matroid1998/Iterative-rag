@@ -1,0 +1,27 @@
+Name: Guanidine Hydrochloride
+Text:
+Guanidine Hydrochloride is the hydrochloride salt form of guanidine, a strong basic compound with parasympathomimetic activity. Guanidine hydrochloride enhances the release of acetylcholine following a nerve impulse and potentiates acetylcholine actions on muscarinic and nicotinic receptors. It also appears to slow the rates of depolarization and repolarization of muscle cell membranes. (NCI05)
+GUANIDINE HYDROCHLORIDE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1939 and has 3 approved indications.
+A strong organic base existing primarily as guanidium ions at physiological pH. It is found in the urine as a normal product of protein metabolism. It is also used in laboratory research as a protein denaturant. (From Martindale, the Extra Pharmacopoeia, 30th ed and Merck Index, 12th ed) It is also used in the treatment of myasthenia and as a fluorescent probe in HPLC.
+See also: Guanidine (has active moiety).
+Properties:safety: Irritant
+smiles: C(=N)(N)N.Cl
+formula: CH5N3.ClH
+chem_properties: Molecular Weight: 95.53 g/mol
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 95.0250249 Da
+Monoisotopic Mass: 95.0250249 Da
+Topological Polar Surface Area: 75.9
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 26.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

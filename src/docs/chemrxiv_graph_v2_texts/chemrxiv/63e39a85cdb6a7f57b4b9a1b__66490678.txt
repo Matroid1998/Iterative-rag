@@ -1,0 +1,17 @@
+Description:
+An acid-stable protecting group used in peptide synthesis.
+
+Text:
+Once the octadeca(glyco)peptides were prepared, we fo
+cused on the removal of the two acidstable protecting groups, 
+namely neopentyl (Np) at the 2Tyr(SO3Np) and acetyl groups 
+at the 16Hyp(2,3,5OAc)Ara03 . For the nonarabinosylated 
+control peptide PSY1 16Hyp 20 only Np removal in 2M am
+monium acetate solution fulfills the complete synthesis of this 
+peptide resulting in Brassica PSY1 16Hyp 1. However, for 
+glycopeptides 2123 the order of deprotection was found im
+portant to maintain pure PSY1 peptide in complete sequence. Specifically, starting with Np removal from acetylated glyco
+peptide 21 using a 2M ammonium acetate solution resulted in 
+multiple peaks in liquid chromatography trace (Figure 3). Sub
+sequent deacetylation did not provide the correct mass of the 
+desired glycopeptide.

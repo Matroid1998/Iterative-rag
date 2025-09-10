@@ -1,0 +1,15 @@
+Description:
+The multicongurational electronic structure is more nuanced compared to Mo2 and W2 analogues.
+
+Text:
+The concept of an eective bond order (EBO), that accounts
+for partial occupation of lowlying antibonding orbitals, has been used to quantify the nature of
+the overall CrCr bond that is composed of multiple partial bonds.19,20 Furthermore, these com
+putations highlight that the multicongurational electronic structure of Cr2 bonds is more nuanced
+compared to Mo2 and W2 analogues.20 As a result, the CrCr bond order often does not correlate
+with bond distance.1922 Note that for some particularly short CrCr distances, density functional
+theory (DFT) has been used successfully since the electronic structure can be represented by fully
+occupied bonding orbitals.23
+The lack of correlation between bond distance and bond order motivated a number of vibra
+tional studies of these compounds; diraction studies alone cannot be used to predict bonding or,
+in turn, vibrational force constants.

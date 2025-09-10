@@ -1,0 +1,29 @@
+Description:
+The most used anode material in lithium ion batteries due to its low price and good cycling stability.
+
+Text:
+Lithium ion batteries (LIBs) are already an important part of our everyday life that have enabled 
+the rise of portable electronics. Looking in the short, middleterm, LIBs also hold tremendous 
+potential to substitute the use of fossil fuels in transportation, with the still incipient Electric 
+Vehicle (EV) market expansion 13. They have also found applications in decentralizing energy 
+storage in residential areas, and they are being adopted for partially solving gridunbalance issues 
+caused by fluctuations in energy generation of renewable power sources 4,5. However, 
+increasing the energy density of LIBs remains a primary challenge for enabling some of the 
+aforementioned applications. Focusing on the anode side, graphite is the most used material, 
+thanks to its low price and good cycling stability 6.
+
+
+---
+
+Description:
+Has a maximum theoretical specific capacity of 372 mAhg.
+
+Text:
+Nevertheless, the maximum specific capacity 
+that can be theoretically reached with graphite is 372 mAhg, which limits the range of use cases 
+for LIBs. In these regards, alloy negative electrodes, and in particular silicon (Si) 7, stands out 
+as a promising candidate for next generation LIB anodes. When fully lithiated, Si forms the Li15Si4 
+alloy, showing a high theoretical specific capacity of 3579 mAhg, ten times larger than graphite. It also shows an appropriate voltage (0.4 V) for being adopted as an anode. However, Si 
+undergoes a 300 volume expansion upon charging, which induces Si particle pulverization, 
+unstable solid electrolyte interphase (SEI) formation and contact loss between Si and conductive 
+additives because of internal stresses 8,9.

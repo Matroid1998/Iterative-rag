@@ -1,0 +1,12 @@
+Description:
+A crucial intermediate in CEC reactions, acting as the catalyst resting state and capturing free alkyl radicals.
+
+Text:
+Specifically, in CEC reactions between aryl and alkyl halides, complexes of 
+the type LNiII(Ar)X (X  Cl, Br, or I) are proposed to be crucial intermediates, as they are both the 
+catalyst resting state and responsible for capturing free alkyl radicals (Figure 1b).7a In an ideal 
+CEC reaction, the LNiII(Ar)X intermediate would be stable and the rate at which radicals are 
+generated would be controlled relative to the concentration of LNiII(Ar)X to facilitate effective 
+radical capture (Figure 2). However, the rate of alkyl radical generation by a NiI halide 
+intermediate cannot be tuned separately from the concentration of LNiII(Ar)X because both 
+complexes are intermediates on the same catalytic cycle.

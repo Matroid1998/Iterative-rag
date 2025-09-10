@@ -1,0 +1,14 @@
+Description:
+Particles used in detection systems for biological samples such as yeast cells and red blood cells.
+
+Text:
+One 
+example uses an applied electric field of 60 V to drive the sample flow for the detection 
+of bacteria.32 Similar designs have coupled syringe pumps with lower voltages for the 
+detection of yeast cells,28 polystyrene particles21,33, DNA33, red blood cells25 and 
+algae.34 Another advantage of controlling convection and the design of the sensing 
+zone is the ability to force the analyte through a series of RPS sensing regions. Zhang 
+et al.25 presented such a device where five identical sensing regions were arranged in 
+series. As the analyte travelled through the device it generated five pulses, allowing 
+each analyte to be measured multiple times, whilst providing a regular signal pattern 
+to be identified against random background fluctuations.

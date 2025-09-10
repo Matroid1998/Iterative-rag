@@ -1,0 +1,25 @@
+Name: 1,8-Naphthyridine
+Text:
+1,8-naphthyridine is a naphthyridine in which the nitrogens are situated at positions 1 and 8.
+Properties:safety: Irritant
+smiles: C1=CC2=C(N=C1)N=CC=C2
+formula: C8H6N2
+chem_properties: Molecular Weight: 130.15 g/mol
+XLogP3: 1.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 130.053098200 Da
+Monoisotopic Mass: 130.053098200 Da
+Topological Polar Surface Area: 25.8
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 102
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,25 @@
+Name: Potassium Phosphate, Tribasic
+Text:
+Tripotassium phosphate is an inorganic potassium salt that is the tripotassium salt of phosphoric acid. It is an inorganic phosphate salt and an inorganic potassium salt.
+See also: Monobasic potassium phosphate (annotation moved to).
+Properties:safety: Irritant
+smiles: [O-]P(=O)([O-])[O-].[K+].[K+].[K+]
+formula: K3O4P
+chem_properties: Molecular Weight: 212.266 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 211.8445399 Da
+Monoisotopic Mass: 211.8445399 Da
+Topological Polar Surface Area: 86.3
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 36.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 4
+Compound Is Canonicalized: Yes 
+

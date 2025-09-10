@@ -1,0 +1,10 @@
+Description:
+Generated alongside hydrogen during water electrolysis.
+
+Text:
+Water dissociation into H2 and O2 through electrolysis, offers an alternative 
+for hydrogen production, particularly when using electricity from renewable sources. An important 
+amount of external electrical energy input is mandatory to overcome the water redox potential of 1.23 
+V (1.6 V if we consider overpotentials at the electrodes). As an example, an industrial electrolyser 
+producing 750 Nm3h consumes an electrical energy of approx. 5 kWh for each Nm3 of H2 produced 
+7.

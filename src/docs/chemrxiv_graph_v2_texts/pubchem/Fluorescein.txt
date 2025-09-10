@@ -1,0 +1,32 @@
+Name: Fluorescein
+Text:
+Fluorescein appears as yellow amorphous solid or orange-red crystals. Latter have greenish-yellow fluorescence by reflected light. Insoluble in water. Soluble in dilute aqueous bases. Very dilute alkaline solutions exhibit intense, greenish-yellow fluorescence by reflected light. Low toxicity. May be sensitive to prolonged exposure to light.
+Fluorescein (lactone form) is a xanthene dye that is highly fluorescent, detectable even when present in minute quantities. Used forensically to detect traces of blood, in analytical chemistry as an indicator in silver nitrate titrations and in microscopy. It has a role as a radioopaque medium and a fluorescent dye. It is a xanthene dye, a gamma-lactone, a polyphenol, an oxaspiro compound, a member of 2-benzofurans and an organic heteropentacyclic compound. It is functionally related to a fluorescein (acid form).
+A phthalic indicator dye that appears yellow-green in normal tear film and bright green in a more alkaline medium, such as the aqueous humor, and is used therapeutically as a diagnostic aid in corneal injuries and corneal trauma. It has been approved by FDA for use in externally applied drugs and cosmetics. (From Merck Index, 12th ed; American Medical Association Drug Evaluations; 1995, p2275)
+Fluorescein is a Diagnostic Dye. The mechanism of action of fluorescein is as a Dye.
+Fluorescein is an organic compound that has wide use as a synthetic coloring agent. It is prepared by heating phthalic anhydride and resorcinol over a zinc catalyst, and it crystallizes as a deep red powder. This agent emits an intense green fluorescence in the presence of alkaline solutions and therefore is used as a label when conjugated to antibodies or as a contrast agent for ophthalmic angiography.
+A phthalic indicator dye that appears yellow-green in normal tear film and bright green in a more alkaline medium, such as the aqueous humor, and is used therapeutically as a diagnostic aid in corneal injuries and corneal trauma. It has been approved by FDA for use in externally applied drugs and cosmetics.
+A phthalic indicator dye that appears yellow-green in normal tear film and bright green in a more alkaline medium such as the aqueous humor.
+See also: Fluorescein Sodium (active moiety of); Fluorescein dipotassium (is active moiety of); Fluorescein Lisicol (has subclass).
+Properties:safety: Irritant
+smiles: C1=CC=C2C(=C1)C(=O)OC23C4=C(C=C(C=C4)O)OC5=C3C=CC(=C5)O
+formula: C20H12O5
+chem_properties: Molecular Weight: 332.3 g/mol
+XLogP3: 3.4
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 0
+Exact Mass: 332.06847348 Da
+Monoisotopic Mass: 332.06847348 Da
+Topological Polar Surface Area: 76
+Heavy Atom Count: 25
+Formal Charge: 0
+Complexity: 522
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

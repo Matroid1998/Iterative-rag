@@ -1,0 +1,26 @@
+Name: Glycolide
+Text:
+ABH001 is under investigation in clinical trial NCT01749306 (A Study of the Efficacy and Safety of ABH001 in the Treatment of Patients With Epidermolysis Bullosa Who Have Wounds That Are Not Healing).
+See also: Polyglactin 370 (monomer of); Polyglactin 910 (monomer of); Poliglecaprone 25 (monomer of) ... View More ...
+Properties:safety: Corrosive and Irritant
+smiles: C1C(=O)OCC(=O)O1
+formula: C4H4O4
+chem_properties: Molecular Weight: 116.07 g/mol
+XLogP3: -0.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 116.01095860 Da
+Monoisotopic Mass: 116.01095860 Da
+Topological Polar Surface Area: 52.6
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 112
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

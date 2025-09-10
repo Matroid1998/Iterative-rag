@@ -1,0 +1,29 @@
+Description:
+A material used as a surface for interfacial Li ion transfer studies, particularly in its highly oriented pyrolytic form.
+
+Text:
+The Li ion energetics is governed by the local molecular environments of Li ions, 
+which are dependent on the composition and the concentration of the electrolyte, and the electrode 
+facets and potential.6 Here, we focus on the adsorption of Li ions at the electrified interface from 
+the bulk electrolyte as its molecular processes and energetics are poorly understood but essential 
+to control the intercalationdeintercalation kinetics.9,16 
+Few experimental investigations1725 and computational studies8,9,26,27 have attempted to obtain an 
+understanding of the Li ion adsorption process, which includes its dependence on various factors 
+such as the electric double layer (EDL) structure,16 cationanion and cationsolvent dissociation 
+energies,28 and solvation environments.29 Using AC impedance spectroscopy, Yamada et al.17 
+showed that the activation energy of the interfacial Li ion transfer on a highly oriented pyrolytic 
+graphite surface is proportional to the solvation energy of Li ions, which is a proxy for the energy 
+required for the desolvation of Li ions from the solvent molecules.
+
+
+---
+
+Description:
+A material into which Li ions are adsorbed from the electrolyte.
+
+Text:
+In another study, using Raman 
+spectroscopy and AC impedance spectroscopy, Uchida et al.30 reported that increasing the 
+association between Li ions and anions in the electrolyte reduces the activation energy for Li ion 
+adsorption from the electrolyte into the graphite. Using enhanced sampling molecular dynamics 
+httpsdoi.org10.26434chemrxiv2024hn926 ORCID httpsorcid.org0000000233426484 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

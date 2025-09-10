@@ -1,0 +1,34 @@
+Description:
+A greenhouse gas that contributes to climate change and is targeted for removal by DAC technologies.
+
+Text:
+Direct air capture (DAC) technologies are projected to 
+play a crucial role in addressing climate change by 
+removing carbon dioxide (CO2) from the atmosphere, 
+allowing us to mitigate the longterm consequences of 
+existing atmospheric carbon dioxide and achieve netzero 
+emissions.1, 2 The key component in DAC technologies is 
+the material used to capture and separate CO2 from the air.
+
+
+---
+
+Description:
+A target for capture in the DAC process to reduce carbon footprint.
+
+Text:
+Our prior analysis of a 
+bioenergy with carbon capture and storage (BECCS) 
+process revealed that incorporating a sorbents capacity 
+fade into the economic model significantly increases the 
+predicted process cost and alters the recommended 
+sorbent replacement times.29 These findings indicate that 
+the details of a sorbents degradation, specifically the rate 
+and form of capacity fade over time, are crucial to include 
+when evaluating competing properties and comparing 
+process costs for different sorbents. These gaps lead to the first two questions addressed in 
+this work (1) How does sorbent degradation affect the 
+DAC carbon footprint and cost of CO2 capture? (2) Do the 
+capacity fade (loss) rate and form (e.g., linear, exponential) 
+affect the optimal replacement time? To answer these, we 
+developed a capacity fade economic model for DAC.

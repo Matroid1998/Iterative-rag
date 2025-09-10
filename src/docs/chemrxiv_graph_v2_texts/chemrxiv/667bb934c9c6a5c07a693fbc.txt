@@ -1,0 +1,14 @@
+Description:
+A polyelectrolyte used on surfaces in microfluidic channels for binding and releasing protons.
+
+Text:
+Strategies to rationally encode, process and integrate chemical signals akin regulatory networks in a living 
+cell, however, remains elusive.8 
+Theory suggests that placing components of CRNs on a surface could create local feedback loops 
+capable of dynamic and spatial aspects of intracellular communication.911 Among other approaches that 
+focus on surfacedriven methods to engineer chemical communication,12 we recently reported a 
+microfluidic strategy that could bestow an acidbase network with the capacity of signal transduction.13 
+Briefly, fixating a polyelectrolyte (or more specifically, polyLlysine, PLL) on a surface in a microfluidic 
+channel allowed us to work under flow so that the lysine residues can bind and release protons at the 
+liquidsurface interface. The introduction of polyelectrolyte multilayers (PEMs)14,15 enhanced the rate of 
+httpsdoi.org10.26434chemrxiv2024fpp7lv2 ORCID httpsorcid.org0000000164849087 Content not peerreviewed by ChemRxiv.

@@ -1,0 +1,28 @@
+Description:
+An amphiphilic spin probe widely used in EPR-based studies of LCST-type polymers.
+
+Text:
+Nuclear magnetic resonance (NMR) spectroscopy, dynamic light scattering (DLS), optical 
+transmission measurements, and electron paramagnetic resonance (EPR) spectroscopy are 
+among the key techniques used to study thermal transitions in LCSTtype polymers. Continuous 
+Wave (CW) Electron Paramagnetic Resonance (EPR) spectroscopy, as demonstrated in our 
+studies on various thermoresponsive synthetic and bioinspired polymers, 23, 5, 1213 is 
+particularly effective to predict and monitor pretransition temperatures. Utilizing EPR 
+spectroscopy, one detects paramagnetic centers, such as persistent or shortlived organic 
+radicals, or paramagnetic transition metal ions. Nitroxylbased compounds, particularly those 
+derived from 2,2,6,6tetramethylpiperidine1oxyl (TEMPO), have proven to be of high use in 
+soft matter research. Such, TEMPO itself has been widely used as an amphiphilic spin probe in 
+EPRbased studies of LCSTtype polymers, by us and others.
+
+
+---
+
+Description:
+Can dissolve to some extent in water, where it predominantly resides in hydrophilic regions of the sample.
+
+Text:
+With a high octanolwater 
+partition coefficient of POW90, 14, 15 TEMPO can dissolve to some extent in water, where it 
+predominantly resides in hydrophilic regions of the sample. However, it also sensitively detects 
+more hydrophobic regions, such as the collapsed, waterdepleted areas of the polymer, as 
+illustrated in Scheme 1. 5, 13, 1618

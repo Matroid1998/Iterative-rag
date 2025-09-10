@@ -1,0 +1,25 @@
+Name: Toceranib Phosphate
+Text:
+TOCERANIB PHOSPHATE is a small molecule drug that was first approved in 2009.
+See also: Toceranib (has active moiety).
+Properties:safety: Health Hazard
+smiles: CC1=C(NC(=C1C(=O)NCCN2CCCC2)C)/C=C\3/C4=C(C=CC(=C4)F)NC3=O.OP(=O)(O)O
+formula: C22H28FN4O6P
+chem_properties: Molecular Weight: 494.5 g/mol
+Hydrogen Bond Donor Count: 6
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 5
+Exact Mass: 494.17304979 Da
+Monoisotopic Mass: 494.17304979 Da
+Topological Polar Surface Area: 155
+Heavy Atom Count: 34
+Formal Charge: 0
+Complexity: 713
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

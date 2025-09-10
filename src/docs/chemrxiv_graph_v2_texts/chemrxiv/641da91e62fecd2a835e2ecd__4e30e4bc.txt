@@ -1,0 +1,16 @@
+Description:
+A Hoffmantype MOF with a formula involving pyrazine and a metal center.
+
+Text:
+The former is the total energy difference between the
+two spin states and represents the dominant contribution
+to enthalpy change upon spin transition. By assuming the
+entropic contributions as those reported previously, 23,24 we
+estimate the target values of adiabatic energy differences be
+tween 0.2 and 0.6 eV for a spin crossover near room temper
+ature. The calculations are performed using seven porous ma
+terials belonging to three MOF families with different
+metal choice or local environment of the openmetal cen
+ter. Two are the Hoffmantype family 2527 with formula
+Fe(pz)M(CN)4 and Fe(bpac)M(CN)4, where M  Fe(II),
+Mn(II) and Ni(II) exhibits a square planar coordination. The pz  pyrazine and the bpac  (bis(4pyridyl)acetylene).

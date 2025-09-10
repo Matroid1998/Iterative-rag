@@ -1,0 +1,21 @@
+Description:
+Does not produce any reactive oxygen species in metal base pairs.
+
+Text:
+The expansion of the genetic alphabet with additional, artificial base pairs is a long standing goal in 
+synthetic biology.12 The design of these artificial base pairs mainly relies on complementary hydrogen 
+bonding,34 hydrophobic interactions5 or geometric complementarity.67 Expanded genetic systems have 
+served as foundation of semi synthetic organisms able to store and retrieve increased information in their 
+DNA which in turn could allow the creation of proteins with new properties and structures.810 This 
+increased chemical diversity has also been used to develop modified aptamers with improved affinity 
+and selectivity.1114 Metal ion coordination has lately emerged as an alternative strategy for the creation 
+of UBPs.1527 Such artificial metal base pairs are indeed orthogonal to the natural WatsonCrick base 
+pairs, are water soluble, possess a high thermal stability and do not cause perturbation to the canonical 
+duplex structures.2829 Moreover, unlike cyclic conjugated analogs which can be photoactivated by 
+nearvisible light, metal base pairs do not necessarily absorb ultraviolet light and thus do not produce 
+any reactive oxygen species which are highly toxic for DNA and cells.3031 The presence of a metal also 
+offers the possibility of constructing novel devices such as metal nanowires or DNAbased logic gates.32
+34 Yet, most metal base pairs are incorporated into synthetic oligonucleotides and surprisingly, very little 
+is known about their enzymatic formation.1718, 3537 
+In this context, we have recently investigated the enzymatic construction of two imidazole containing 
+nucleotides (Fig.

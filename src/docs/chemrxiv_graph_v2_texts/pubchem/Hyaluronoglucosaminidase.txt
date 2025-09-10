@@ -1,0 +1,25 @@
+Name: Hyaluronoglucosaminidase
+Text:
+An enzyme that catalyzes the random hydrolysis of 1,4-linkages between N-acetyl-beta-D-glucosamine and D-glucuronate residues in hyaluronate. (From Enzyme Nomenclature, 1992) There has been use as ANTINEOPLASTIC AGENTS to limit NEOPLASM METASTASIS.
+See also: Hyaluronidase (annotation moved to).
+Properties:safety: Health Hazard
+smiles: CC1(C(=C)N(C2=CC=CC=C21)CCCCCC(=O)O)C.Br
+formula: C17H24BrNO2
+chem_properties: Molecular Weight: 354.3 g/mol
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 6
+Exact Mass: 353.09904 Da
+Monoisotopic Mass: 353.09904 Da
+Topological Polar Surface Area: 40.5
+Heavy Atom Count: 21
+Formal Charge: 0
+Complexity: 375
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

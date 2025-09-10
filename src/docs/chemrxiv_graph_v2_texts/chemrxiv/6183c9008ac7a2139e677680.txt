@@ -1,0 +1,49 @@
+Description:
+A two-dimensional material that is chemically inert and requires high energy for covalent functionalization.
+
+Text:
+Functionalization of twodimensional (2D) materials, such as 
+graphene or transition metal dichalcogenides, is an important 
+feature to tune the physical properties of 2D materials, from 
+stability to processability, with the aim of improving their 
+properties. The most common way to successfully functionalize 
+a 2D material is arguably through reactions occurring in 
+solution.1,2 However, as typical 2D materials are very inert 
+compounds from a chemical point of view, the covalent 
+functionalization process requires a lot of energy. Therefore, it 
+is normally an uncontrolled step, thus causing defects, low 
+degree of functionalization and attachment of molecules in 
+random positions. Noncovalent functionalization is also an 
+alternative approach, but it typically lacks longrange order, 
+thus resulting in a material more similar to a composite.
+
+
+---
+
+Description:
+A material that can be derived from fluorographene through nucleophilic substitution with a high degree of conversion.
+
+Text:
+To overcome this problem, the use of functionalized 
+precursors can be an appropriate solution.8 For this reason, 
+fluorographene (FG), a perfluorinated hydrocarbon, took 
+interest in the community due to its reactivity and the 
+possibility to form several graphene derivatives through 
+nucleophilic substitution with high degree of conversion.9 
+In this context, coordination chemistry, and reticular design 
+in particular, has given rise to a new route for the 
+functionalization of 2D materials thanks to its greater chemical 
+versatility and tunability, yielding to higher degrees of 
+functionalization, if compared with those achieved in purely 
+inorganic materials.10 Thus, the interest in finding 2D molecular 
+analogues has increased, as they can be chemically tuned by the 
+proper chemical design.11 The molecular nature of layered 
+coordination 
+polymers 
+(LCPs) 
+permits, 
+a 
+priori, 
+the 
+incorporation of different functionalization onto the 2D 
+molecular material.

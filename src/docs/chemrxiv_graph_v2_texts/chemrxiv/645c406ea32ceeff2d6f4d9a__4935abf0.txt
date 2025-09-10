@@ -1,0 +1,20 @@
+Description:
+Used in CN bond formation as a derivative.
+
+Text:
+Likewise, Mu
+sacchio and coworkers reported only a single example of CN 
+bond formation using a pyrazole derivative;25 they have since 
+expanded this catalyst platform to include secondary benzylic 
+and tertiary benzylic and aliphatic C(sp3)H azolations.23 
+In our original report, inclusion of NEt33HF was necessary 
+in order to obtain high yields of C(sp3)H functionalization 
+(even for nonfluoride nucleophiles), likely because this addi
+tive accelerated singleelectron reduction and decarboxylation 
+of Nacyloxyphthalimide with excitedstate Ir(pFppy)3, af
+fording higher concentrations of the HAT reagent (methyl rad
+ical). However, we found that NHnucleophiles such as sulfon
+amides and amides were deactivated by competitive hydrogen 
+bonding with the NEt33HF additive. Hydrogen bonding to the 
+NHnucleophile also inhibited methyl radical generation from 
+Nacyloxyphthalimide, NEt33HF and Ir(pFppy)3.

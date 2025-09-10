@@ -1,0 +1,33 @@
+Name: Vorinostat
+Text:
+Vorinostat is a dicarboxylic acid diamide comprising suberic (octanedioic) acid coupled to aniline and hydroxylamine. A histone deacetylase inhibitor, it is marketed under the name Zolinza for the treatment of cutaneous T cell lymphoma (CTCL). It has a role as an EC 3.5.1.98 (histone deacetylase) inhibitor, an apoptosis inducer and an antineoplastic agent. It is a hydroxamic acid and a dicarboxylic acid diamide. It is functionally related to a suberic acid, a hydroxylamine and an aniline.
+Vorinostat is a drug that has been approved by the U.S. Food and Drug Administration (FDA) under the brand name Zolinza for the treatment of a certain type of cancer.Vorinostat is also being studied as an investigational drug as part of a strategy to cure HIV infection.As an investigational HIV drug, vorinostat belongs to a group of drugs called latency-reversing agents.
+Vorinostat (rINN) or suberoylanilide hydroxamic acid (SAHA), is a drug currently under investigation for the treatment of cutaneous T cell lymphoma (CTCL), a type of skin cancer, to be used when the disease persists, gets worse, or comes back during or after treatment with other medicines. It is the first in a new class of agents known as histone deacetylase inhibitors.  A recent study suggested that vorinostat also possesses some activity against recurrent glioblastoma multiforme, resulting in a median overall survival of 5.7 months (compared to 4 - 4.4 months in earlier studies). Further brain tumor trials are planned using combinations of vorinostat with other drugs.
+Vorinostat is a Histone Deacetylase Inhibitor. The mechanism of action of vorinostat is as a Histone Deacetylase Inhibitor.
+Vorinostat is an oral histone deacetylase inhibitor and antineoplastic agent that is approved for use in refractory or relapsed cutaneous T cell lymphoma. Vorinostat is associated with modest rate of minor serum enzyme elevations during therapy, but has not been linked to cases of clinically apparent liver injury.
+Vorinostat has been reported in Humicola fuscoatra and Campanularia with data available.
+Vorinostat is a synthetic hydroxamic acid derivative with antineoplastic activity. Vorinostat, a second generation polar-planar compound, binds to the catalytic domain of the histone deacetylases (HDACs). This allows the hydroxamic moiety to chelate zinc ion located in the catalytic pockets of HDAC, thereby inhibiting deacetylation and leading to an accumulation of both hyperacetylated histones and transcription factors. Hyperacetylation of histone proteins results in the upregulation of the cyclin-dependant kinase p21, followed by G1 arrest. Hyperacetylation of non-histone proteins such as tumor suppressor p53, alpha tubulin, and heat-shock protein 90 produces additional anti-proliferative effects. This agent also induces apoptosis and sensitizes tumor cells to cell death processes. Vorinostat crosses the blood-brain barrier.
+VORINOSTAT is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2006 and has 4 approved and 85 investigational indications.
+A hydroxamic acid and anilide derivative that acts as a HISTONE DEACETYLASE inhibitor. It is used in the treatment of CUTANEOUS T-CELL LYMPHOMA and SEZARY SYNDROME.
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: C1=CC=C(C=C1)NC(=O)CCCCCCC(=O)NO
+formula: C14H20N2O3
+chem_properties: Molecular Weight: 264.32 g/mol
+XLogP3: 1.9
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 8
+Exact Mass: 264.14739250 Da
+Monoisotopic Mass: 264.14739250 Da
+Topological Polar Surface Area: 78.4
+Heavy Atom Count: 19
+Formal Charge: 0
+Complexity: 276
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

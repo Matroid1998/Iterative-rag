@@ -1,0 +1,16 @@
+Description:
+A metal-organic framework with pores that contribute to high internal surface areas.
+
+Text:
+In fact, the IUPAC 
+definition of a MOF is a coordination network with organic ligands containing potential voids.2 
+These voids (pores) range in diameter from approximately 0.3 nm to greater than 2 nm.3 An 
+example is given in Figure 2, which shows the pores of the MOF Cu2(btc)3 (commonly termed 
+HKUST1; btc  1,3,5benzene tricarboxylate).4 The presence of empty pores leads to very high 
+internal surface areas (SAs)  MOFs with SA greater than 7000 m2g have been reported 
+(approximately the area of 1.3 American football fields! ).56 MOFs have the highest surface areas 
+of any known materials. Inorganic Unit
+Metal ion or cluster (node)
+Organic Unit
+Ligand (linker)
+MetalOrganic Framework

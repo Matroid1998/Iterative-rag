@@ -1,0 +1,27 @@
+Name: Malononitrile
+Text:
+Malononitrile appears as a white-colored crystalline solid. Denser than water and soluble in water. Toxic by ingestion and may severely irritate skin and eyes. May polymerize violently if exposed to temperatures above 266 °F. Used to make other chemicals.
+Malononitrile is a dinitrile that is methane substituted by two cyano groups. It is a dinitrile and an aliphatic nitrile.
+Malononitrile is a chemical compound of cyanide.
+Properties:safety: Acute Toxic and Environmental Hazard
+smiles: C(C#N)C#N
+formula: C3H2N2
+chem_properties: Molecular Weight: 66.06 g/mol
+XLogP3: -0.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 66.021798072 Da
+Monoisotopic Mass: 66.021798072 Da
+Topological Polar Surface Area: 47.6
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 82.6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

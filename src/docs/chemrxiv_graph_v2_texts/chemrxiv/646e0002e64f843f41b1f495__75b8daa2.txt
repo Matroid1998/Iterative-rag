@@ -1,0 +1,8 @@
+Description:
+Exhibits absorptions only in the UV region when neutral.
+
+Text:
+While neutral dibromoazaheptalene 3 exhibited absorptions only in the UV region, radical cation 
+3 showed broad absorptions over the visible and nearinfrared (NIR) regions (Figure 4a,b and Table 1). For neutral 3, the first band was assigned to the n transition, and the UV spectrum was almost identical 
+regardless of the presence or absence of bromine atom. In the case of radical cation 3, a NIR absorption 
+band extending to 1600 nm was observed, which mainly arises from the SOMONHOMO transition. These results were supported by timedependent (TD)DFT calculations (Figure S9). Table 1. UVVisNIR and CD spectral data measured in CH2Cl2.

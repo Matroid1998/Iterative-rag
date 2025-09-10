@@ -1,0 +1,14 @@
+Description:
+Used as a trigger for controlled drug activation via chemical decaging.
+
+Text:
+The strategy of linking signalresponsive prodrugs to a carrier material is a promising approach 
+to improve the selectivity of chemotherapy drugs.13 Besides the improved water solubility, it 
+enables controlled drug release profiles via temporal, or local activation.4 Prodrugs or caged 
+drugs are chemically modified therapeutics that are inactive until their activation via stimulus
+induced removal of the cage group.5 In cancer therapy models, a variety of stimuli have been 
+used as triggers for controlled drug activation via chemical decaging, including pH6,7, 
+glutathione (GSH)8,9, reactive oxygen species (ROS)10,11, hypoxia12 or enzymes1315, amongst 
+others1618. A common feature found in many prodrug systems to obtain controlled response, is their 
+dependency on linker units such as selfimmolative spacers4 or a metabolically cleavable 
+connection.

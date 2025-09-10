@@ -1,0 +1,16 @@
+Description:
+An atom that, when substituted for oxygen in nucleobases, increases reactivity upon photoexcitation by enhancing relaxation to the triplet manifold.
+
+Text:
+The photophysics of natural nucleobases have been studied extensively owing to their 
+biological significance and the role that fast nonadiabatic relaxation plays in their high 
+photostability.18 In contrast, single atom substitutions, such as the replacement of one or both 
+nucleobase oxygens with sulfur atoms, have been shown to have profound impacts on relaxation 
+pathways following photoexcitation.917 These nucleobase derivatives are of interest owing to their 
+potential for pharmacological applications such as phototherapy where they can act as 
+photosensitizers.911, 18, 19 For example, upon photoexcitation of sulfur substituted nucleobases, the 
+quantum yield for relaxation to the triplet manifold nears unity, resulting in increased reactivity 
+compared to canonical nucleobases that undergo rapid relaxation to their ground electronic states.7, 
+9, 11, 14, 17 It is also of interest to contrast the interactions of natural and thiosubstituted nucleobases 
+with low energy electrons, since this interaction is also important in radiation chemistry and 
+biology.

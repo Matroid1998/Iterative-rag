@@ -1,0 +1,36 @@
+Description:
+Used in self-assembled monolayers (SAMs) for modifying surface properties and reactivity.
+
+Text:
+Metallic substrates modified by thiolatebased selfassembled monolayers 
+(SAMs) have been used in diverse technological applications including molecular 
+electronics, biotechnology, and for modification of various surface properties.1,2 
+They have also been used to modify reactivity and selectivity toward thermo and 
+electrochemical catalyzed surface reactions.39 Thiolate SAMs can be deposited 
+on different metallic surfaces by gasphase or liquidphase adsorption of 
+precursors such as thiols, disulfides, or thioalkoxide salt solutions. It has been 
+shown that the final (equilibrium) saturation coverage and corresponding SAM 
+structure do not depend on the preparation method.10 Thus, on a perfectly flat 
+and defectfree surface, the configuration of a SAM tends toward a dense, 
+organized upright arrangement as the thiol concentrationdose or adsorption time 
+increases.
+
+
+---
+
+Description:
+Forms gold adatom-thiolate complexes on Au(111) with a saturation surface coverage of 0.33 for linear alkanethiolate-based SAMs.
+
+Text:
+The evolution and geometry of these structures are driven mainly by 
+the stabilization resulting from van der Waals (vdW) interactions between 
+adjacent adsorbed molecules.1,2 However, in addition to the molecular 
+phenomenon of selforganization, it has also been demonstrated that, on some 
+surfaces, the adsorption of thiol molecules can cause considerable 
+reorganization or reconstruction of the surface itself. On Au(111), for example, thiolinduced reconstruction is associated with 
+formation of atomic vacancies (VAu) and corresponding gold adatomthiolate 
+complexes ((RS)xAuad, x  1  4), where the Auad species is generally bonded 
+to threefold hollow sites on the underlying Au(111) substrate.11 Increasing 
+coverage () of the thiol promotes increasing degrees of surface reconstruction.12 
+For linear alkanethiolatebased SAMs, (RS)2Auad species are mainly formed, 
+with a thiolate saturation surface coverage of 0.33.

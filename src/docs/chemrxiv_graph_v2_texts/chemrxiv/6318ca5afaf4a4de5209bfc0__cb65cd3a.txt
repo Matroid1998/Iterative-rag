@@ -1,0 +1,15 @@
+Description:
+A chromophore used in systems with photocleaving wavelengths around 365 nm.
+
+Text:
+Photodynamic hydrogels take advantage of lights 
+spatiotemporal control to trigger photoinduced material softening20,21, biochemical release2224, 
+and species uncagingactivation for in vivo material modification25. Despite the early promise of phototunable gels, chemistry and materialbased limitations have 
+precluded the full power of these platforms from being realized2. Reliance on organic 
+chromophores to encode photodegradability within hydrogels has historically confined the 
+photocleaving wavelengths to highenergy light  ranging from 365 nm for orthonitrobenzyl 
+(oNB)based systems up to 450 nm for some reported photolabile coumarins and bimanes2628. While some of these chromophores have been highly characterized and are cytocompatible 
+throughout photolysis, the utilization of UV light irradiation has traditionally confined these 
+materials to solely in vitro use as highenergy light is poorly penetrant through complex 
+
+3

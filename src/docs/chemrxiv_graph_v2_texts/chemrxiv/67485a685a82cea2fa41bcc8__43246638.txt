@@ -1,0 +1,17 @@
+Description:
+Used in plasma form as a reducing agent in CVD processes.
+
+Text:
+The chemical 
+process from precursor to thin film always involves surface reactions and often also gas phase 
+reactions.2 CVD processes of elemental electropositive metals, such as Al, Fe, and Ti, typically 
+requires high deposition temperatures to overcome the thermodynamical barrier associated with 
+reducing them from a positive valance in the precursor molecule to a zero valent state in the 
+film.3 An alternative to high thermal energy is to supply the energy partly by a plasma discharge, 
+utilizing free electrons, ions, photons, radicals and excited species to enable alternative 
+reactions paths.4 
+We have recently presented a CVD process where we used the metallocenes ferrocene, FeCp2, 
+cobaltocene, CoCp2, and nickelocene, NiCp2, as iron, cobalt, and nickel precursors, 
+respectively, and utilized the free electrons in an argon (Ar) plasma as reducing agents to deposit 
+iron, cobalt, and nickel films without external heating.5 We refer to the process as electron CVD 
+(eCVD).

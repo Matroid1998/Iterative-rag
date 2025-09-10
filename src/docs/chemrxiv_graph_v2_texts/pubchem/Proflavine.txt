@@ -1,0 +1,29 @@
+Name: Proflavine
+Text:
+3,6-diaminoacridine is an aminoacridine that is acridine that is substituted by amino groups at positions 3 and 6. A slow-acting bacteriostat that is effective against many Gram-positive bacteria (but ineffective against spores), its salts were formerly used for treatment of burns and infected wounds. It has a role as an antiseptic drug, a carcinogenic agent, an antibacterial agent, a chromophore and an intercalator. It is a conjugate base of a 3,6-diaminoacridine(1+).
+3,6-Diaminoacridine. Topical antiseptic used mainly in wound dressings.
+Proflavine Hemisulfate is the hemisulfate salt form of proflavine, an acridine-derived fluorescent contrast and disinfectant agent that can potentially be used for cellular imaging and antiseptic purposes. Upon topical application of proflavine hemisulfate, proflavine diffuses into cells and intercalates into DNA, thereby accumulating in and staining the nucleus. During fluorescence imaging, the cell nuclei can be visualized. This allows nuclear morphometry and the identification of cancer cells. In addition, proflavine exerts its antibacterial effect by binding to bacterial DNA, thereby disrupting DNA synthesis and halting bacterial cell growth.
+PROFLAVINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) and has 7 investigational indications.
+Topical antiseptic used mainly in wound dressings.
+Properties:safety: Irritant
+smiles: C1=CC(=CC2=NC3=C(C=CC(=C3)N)C=C21)N
+formula: C13H11N3
+chem_properties: Molecular Weight: 209.25 g/mol
+XLogP3: 1.8
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 209.095297364 Da
+Monoisotopic Mass: 209.095297364 Da
+Topological Polar Surface Area: 64.9
+Heavy Atom Count: 16
+Formal Charge: 0
+Complexity: 232
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

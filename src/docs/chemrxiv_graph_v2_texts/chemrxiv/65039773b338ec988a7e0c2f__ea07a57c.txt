@@ -1,0 +1,13 @@
+Description:
+A halide that coordinates the metal center in nonheme iron halogenases.
+
+Text:
+For nonheme 
+iron halogenases in particular2830, e.g., SyrB231, 32, CytC333, 34, WelO535, and BesD,36 the active 
+sites are similar to other nonheme iron enzymes with only one major change. In comparison to 
+more well understood nonheme iron hydroxylases,3739 the halogenases have a halide coordinating 
+the metal center, i.e., native chloride or nonnative bromide. This halide is bound in place of a 
+carboxylate of the 2His1carboxylate facial triad of the hydroxylases4042 because in the 
+halogenases there is no carboxylatebearing aspartate or glutamate residue present and instead a 
+noncoordinating alanine residue is typically present to create a hydrophobic pocket for halide 
+binding.

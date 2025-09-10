@@ -1,0 +1,10 @@
+Description:
+A material for which accurate predictions of adsorption isotherms can be made using a specific force field derived from ab initio calculations.
+
+Text:
+12 introduced empirical scaling factors of 0.69 for UFF
+and 0.95 for UFF in the UFF force field to improve the predictions of the adsorption
+isotherms in ZIF8 and showed that these parameters could be transferred to ZIF76. McDaniel et al. 15 argued that different scaling parameters could give similar results,
+hence questioning its transferability. McDaniel et al. 15 developed a framework to de
+rive a specific force field for each ZIF using ab initio calculations and showed that
+accurate predictions of the adsorption isotherms could be made for ZIF8 and ZIF71.

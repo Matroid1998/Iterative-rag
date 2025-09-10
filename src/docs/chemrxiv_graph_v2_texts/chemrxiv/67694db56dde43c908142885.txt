@@ -1,0 +1,14 @@
+Description:
+A nucleus targeting ligand used in fluorescent probes for visualizing subcellular organelles.
+
+Text:
+The prodigious development in the field of fluorescent probes and imaging techniques has 
+enabled researchers to visualize specific subcellular organelles and characteristic cellular 
+processes in living cells.1 Among the various organelles, the nucleus stocks all the genetic 
+material and controls most of the cellular events comprising DNA replication, mRNA synthesis 
+and processing. 2 Most nucleus targeting sensors have been designed by incorporating nucleus
+targeting ligands, like Hoechst or peptides,3 but even slight structural modifications lower their 
+targeting ability drastically and thus require longer incubation times for localizing. Existing 
+methods for monitoring mitotic division often involve cell fixation or genetic engineering of 
+fluorescent cellcycle reporters,4 which is a tedious process, requires skilled professionals and 
+thus limits their applicability for realtime studies of live cells.

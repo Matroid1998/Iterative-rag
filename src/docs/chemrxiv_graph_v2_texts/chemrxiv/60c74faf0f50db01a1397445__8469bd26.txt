@@ -1,0 +1,18 @@
+Description:
+Species involved in iodine-based electrochemical energy storage devices, detectable by in situ Raman spectroscopy.
+
+Text:
+The 
+16 
+rather slow selfdischarge of iodinebased electrochemical energy storage devices is currently attributed to 
+17 
+immobile I3 and I5 confined in the narrow carbon pores of below 1 nm diameter7,8,18. However, based on the 
+18 
+known reaction mechanism on planar platinum electrodes16,17 and the use of battery electrodes with physically 
+19 
+impregnated I26,7, alternative electrodeposition of solid I2 in carbon nanopores ought to be considered. 20 
+Resolving the mechanism requires in situ techniques with chemical and structural sensitivity for all involved 
+21 
+species in the nanoporous carbon. In situ Raman spectroscopy probes species in electrochemical cells2123 and 
+22 
+is sensitive to polyiodides (I3, I5)2427.

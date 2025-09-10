@@ -1,0 +1,36 @@
+Description:
+A flavonoid that inhibited MERSCoV Mpro and SARSCoV1 Mpro.
+
+Text:
+After reports about the crystal structure of 
+Mpro from SARSCoV2 with an inhibitor 3,4, many attempts to evaluate inhibitors, 
+including natural chemicals, have proceeded in in silico study. 55 
+Food is a good source for health promotion; it can supply beneficial 
+phytochemicals to humans. Thus, the daily consumption of phytochemicals could help 
+strengthen our body against diseases, such as COVID19. Formerly, experimental studies 
+for the inhibitory effect of flavonoids on the recombinant protease from SARSCoV1 
+(classic) or MERSCoV have been reported; some flavonoids, including herbacetin and 
+60 
+quercetin 3Oglucoside, inhibited MERSCoV Mpro 5. SARSCoV1 Mpro was 
+inhibited by flavonoids and flavones, such as herbacetin, rhoifolin, pectolinarin, apigenin, 
+luteolin, quercetin, and amentoflavone 6,7.
+
+
+---
+
+Description:
+Shows inhibitory effects on SARS-CoV-2 Mpro enzyme in vitro.
+
+Text:
+Concerning SARSCoV2 Mpro, 
+epigallocatechin gallate (EGCG) 8,9, theaflavin 8, myricetin 10, quercetin 11, 
+herbacetin, pectolinarin, baicalin 12, rutin, baicalein 13, and cyanidin3glucoside 
+65 
+14 shows inhibitory effects on the enzyme in vitro. Most research was performed by 
+fluorescence resonance energy transfer (FRET) assay, which sometimes results in false 
+negatives or positives due to the interference of fluorescence signals derived from test 
+chemicals 15; a competitive binding assay using the fluorescent probe 8
+anilinonaphthalene1sulfonate is also reported 13. 70 
+The study examines the inhibitory effect of food phytochemicals by directly 
+measuring the digested peptide substrate after highperformance liquid chromatography 
+(HPLC) separation.

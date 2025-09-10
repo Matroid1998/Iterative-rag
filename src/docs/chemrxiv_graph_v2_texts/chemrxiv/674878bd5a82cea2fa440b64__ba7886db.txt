@@ -1,0 +1,42 @@
+Description:
+An alkali metal cation with the smallest size and highest electronegativity among the given alkali metals.
+
+Text:
+Its understanding has 
+a pivotal role in understanding and tailoring materials in 
+electrocatalytic systems. At the EDL, the surface of the OER 
+active phase is in contact with the electrolyte. The precise 
+structure of this EDL is influenced by the detailed surface 
+structure of the catalyst, the kind of ions including solvation shells 
+in the electrolyte as well as adsorbed at the electrode, and the 
+interfacial pH, which can deviate from the bulk pH.6 In this study, 
+we focus on the contribution of different alkali metal cations, 
+whose effect on the EDL has been probed in various experimental 
+and theoretical works.711 In the order Li  Na  K  Cs, the 
+cation size increases, the electronegativity decreases, the 
+hydration 
+energy 
+decreases12, 
+and 
+the 
+Lewis 
+acidity 
+decreases13.
+
+
+---
+
+Description:
+Has a solvation shell built from stronger noncovalent bonds and a hydration enthalpy of 519 kJ/mol.
+
+Text:
+These properties have implications on the hydration 
+shell of these cations in the alkaline electrolyte. Taking Cs and 
+Li for comparison, the solvation shell of Li is built from stronger 
+noncovalent bonds. Cs, as a softer cation, on the other hand, is 
+less solvated and is, therefore, expected to adsorb in larger 
+quantities on the electrode surface.6,14,15 Their hydration 
+enthalpies range from 519 kJmol for Li to 409, 322, and 264 
+kJmol for Na, K, and Cs, respectively.16 The surface of the 
+catalyst, that is in our case the surface of a NiOOH, OER active 
+phase, varies depending on the conditions.

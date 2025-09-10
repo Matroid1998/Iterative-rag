@@ -1,0 +1,23 @@
+Name: Cobalt oxide (Co2O3)
+Text:
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: O=[Co]O[Co]=O
+formula: Co2O3
+chem_properties: Molecular Weight: 165.865 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 165.851131 Da
+Monoisotopic Mass: 165.851131 Da
+Topological Polar Surface Area: 43.4
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 34.2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

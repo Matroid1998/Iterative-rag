@@ -1,0 +1,10 @@
+Description:
+A reactive species formed in the presence of oxygen and organochloride.
+
+Text:
+Based on the proposed reaction network, we have developed 
+a kinetic model using previously developed ChemFit software.18 By numerically solving the 
+system of ODEs, we simulated the yield of peroxyradical at different starting concentrations 
+of oxygen and organochloride (Scheme 1). The simulation suggested that, at a fixed 
+concentration of organochloride, the yield of ROS increased with decreasing concentration 
+httpsdoi.org10.26434chemrxiv2025cq53z ORCID httpsorcid.org0000000226266371 Content not peerreviewed by ChemRxiv. License CC BY 4.0

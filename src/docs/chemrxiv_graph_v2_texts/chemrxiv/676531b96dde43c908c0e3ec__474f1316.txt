@@ -1,0 +1,12 @@
+Description:
+The current metal of choice for device interconnects.
+
+Text:
+As the size of transistors continue to shrink in size, following Moores Law, the ability to downscale 
+the lowest level device interconnects has become a bottleneck in further device miniaturisation.1,2 The 
+current metal of choice for the interconnects is copper (Cu), however as the interconnect size shrinks, 
+the resistivity of Cu increases, limiting its use at the smallest scales.3,4 This problem is increased as Cu 
+needs a diffusion barrier to hinder it from contaminating the dielectric and a liner (or glue layer) to make 
+httpsdoi.org10.26434chemrxiv2024q9zjf ORCID httpsorcid.org0000000252248580 Content not peerreviewed by ChemRxiv. License CC BY 4.0
+
+2

@@ -1,0 +1,29 @@
+Name: Dimethyl Sulfide
+Text:
+Dimethyl sulfide appears as a clear colorless to straw colored liquid with a disagreeable odor. Flash point less than 0 °F. Less dense than water and slightly soluble in water. Vapors are heavier than air.
+Dimethyl sulfide is a methyl sulfide in which the sulfur atom is substituted by two methyl groups. It is produced naturally by some marine algae. It has a role as a bacterial xenobiotic metabolite, a marine metabolite, an EC 3.5.1.4 (amidase) inhibitor, an algal metabolite and an Escherichia coli metabolite.
+Dimethyl sulfide is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Dimethyl sulfide has been reported in Tuber melanosporum, Solanum tuberosum, and other organisms with data available.
+Dimethyl sulfide is a metabolite found in or produced by Saccharomyces cerevisiae.
+Properties:safety: Flammable and Corrosive and Acute Toxic and Irritant
+smiles: CSC
+formula: C2H6S
+chem_properties: Molecular Weight: 62.14 g/mol
+XLogP3: 0.9
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 62.01902136 Da
+Monoisotopic Mass: 62.01902136 Da
+Topological Polar Surface Area: 25.3
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 2.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

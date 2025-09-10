@@ -1,0 +1,24 @@
+Description:
+Used in derivatives for catalytic systems.
+
+Text:
+Common catalytic systems include those 
+based around boronic acids,2 boric acid derivatives3 or boron heterocycles,4 as well as salts of the group(IV) 
+metals titanium, zirconium or hafnium.5 However, to date these catalytic amidation methods have failed to 
+become widely adopted.6 This is partly due to the fact that they cannot often be applied to common amide 
+targets which incorporate polar functional groups such as heterocyclic rings.
+
+
+---
+
+Description:
+Catalyzes direct amidation reactions on an industrial scale.
+
+Text:
+For larger scale reactions, DeanStark water removal is employed as this is considerably more 
+efficient in terms of solvent usage and scalability, and there are a few reports of direct amidation reactions 
+catalysed by boric acid or simple boronic acids being employed on an industrial scale.7 The solvents used for 
+catalytic amidation reactions are typically aromatic hydrocarbons (toluene,2a,3a fluorobenzene2b), chlorinated 
+solvents (1,2dichloroethane2i) or ethers (Et2O,5d THF,4a4b CPME,3e TAME3g3h), and these are often sub
+optimal from a safety andor sustainability perspective.8 In addition, these relatively nonpolar solvents do 
+not effectively solubilise many polar functionalised carboxylic acids or amines.

@@ -1,0 +1,23 @@
+Name: Zirconium diboride
+Text:
+Properties:safety: Irritant
+smiles: [B].[B].[Zr]
+formula: B2Zr
+chem_properties: Molecular Weight: 112.85 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 111.923309 Da
+Monoisotopic Mass: 111.923309 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

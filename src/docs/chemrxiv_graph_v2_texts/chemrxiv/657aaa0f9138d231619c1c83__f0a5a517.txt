@@ -1,0 +1,13 @@
+Description:
+Probes that can covalently label lysine residues in various protein kinases.
+
+Text:
+For 
+example, Taunton et al. developed a class of sulfonyl fluoride 
+probes that can covalently label lysine residues in various protein 
+kinases7, and they recently reported reversible covalent kinase 
+probes based on a salicylaldehyde for in vivo studies8. Campos et al. reported an active ester probe which can produce selective and 
+irreversible inhibition of PI3K by targeting a catalytic lysine in the 
+protein kinase9. Yao et al. reported the use of oboronic acid 
+benzaldehyde, SuFEx and salicylaldehyde to afford BCRABL 
+kinase inhibitors which target the conserved lysine residues10,11.

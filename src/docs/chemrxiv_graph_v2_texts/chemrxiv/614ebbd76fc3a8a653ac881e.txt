@@ -1,0 +1,17 @@
+Description:
+A material used in resistive pulse sensing sensors.
+
+Text:
+Increasingly known as resistive 
+pulse sensing sensors (RPS), devices based on this principle have now been created 
+from a range of materials from graphene,13 to polymers,4,5 silicon nitride6 and glass.7
+11 The sensing process is simple, by monitoring the temporary changes in current 
+caused by the translocation of an analyte through a narrow constriction, termed a 
+sensing region or pore, RPS can characterise analytes according to size,12 
+concentration,13 shape1417 and charge.18 The transport of an analyte through the pore 
+is controlled by tuning the applied electric field, charge on the pore wall, electrophoretic 
+mobility of the analyte, supporting electrolyte concentration and induced 
+convection.19,20 To maintain sensitivity the pore size must be of comparable 
+dimensions as the analyte.5 Therefore, whilst a smaller sensing region can detect 
+smaller analytes, the drawback is an increases the likelihood of blockages, and a 
+decreased translocation frequency.

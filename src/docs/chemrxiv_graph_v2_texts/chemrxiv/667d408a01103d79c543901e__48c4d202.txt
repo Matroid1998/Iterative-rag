@@ -1,0 +1,57 @@
+Description:
+A clathrate forming molecule that easily forms clathrates with a large number of guests.
+
+Text:
+Clathrates are crystalline materials consisting of a porous
+framework, built up by discrete molecules, that adsorb guest
+molecules in their pores (13). The framework acts as a host
+for the relatively weakly bound gaseous guests. In the absence of directional interactions between molecules,
+and disregarding lattice vibrations, the densest crystal struc
+ture of any given composition is the most stable one (4, 5). Consequently, the empty host frameworks are generally un
+stable and clathrates are rare (6, 7). Hydroquinone is one of the few widely known clathrate
+forming molecules (8). It has been extensively studied both
+experimentally and computationally. Hydroquinone easily
+forms clathrates with a large number of guests, including
+CO2 under mild pressure (9).
+
+
+---
+
+Description:
+Forms clathrates that exhibit fast and reversible adsorption of hydrogen gas at room temperature.
+
+Text:
+The hydroquinone H2 clathrate
+was found experimentally only after a computational study
+predicted that such clathrates can form and that they may
+have more than one H2 molecule in each pore (10), obviously
+of great interest for gas storage applications. The computa
+tional predictions have since been conrmed; the clathrate
+exhibits fast and reversible adsorption of hydrogen gas at
+room temperature and has double and triple occupancy of H2
+at elevated pressures (11, 12). In addition, the demonstrated
+separation of ethanemethane and CO2N2 gas mixtures by
+hydroquinone clathrate is another example of a potential in
+dustrial application (13, 14).
+
+
+---
+
+Description:
+Forms clathrates with guest molecules, affecting vibrational frequencies and adsorption properties.
+
+Text:
+(29) performed lat
+tice dynamics on hydroquinone clathrates with several guest
+molecules and compared the computationally obtained vibra
+tional frequencies to experimental data. Conventional lat
+tice dynamics does however rest on an assumption that the
+molecules are xed in the crystal structures and only vibrate
+harmonically around their equilibrium positions, which is of
+ten an adequate approximation for closepacked molecular
+crystals (30, 31), but probably less so for clathrates, as the
+guest molecules have a rattling motion in the cavities, rather
+than a vibrational one (3234). The adsorption of gases in clathrates depend on both an en
+thalpic (static) binding energy, and an entropic part that de
+pends on the guest molecules motion, and how the pres
+ence of the guest affects the motion of the host framework.

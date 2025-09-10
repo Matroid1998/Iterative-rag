@@ -1,0 +1,48 @@
+Description:
+Leads to poisoning of Ziegler-Natta catalysts in polymerization reactions.
+
+Text:
+Multi
+41 
+unsaturated impurities such as acetylene lead to poisoning of ZieglerNatta catalysts in 
+42 
+polymerization reactions.35 Therefore, the generation of ethylenerich streams with acetylene 
+43 
+concentrations lower than 1 ppm are necessary.37 
+44 
+Industrially, two main operating methods are commonly used for acetylene removal, tailend and 
+45 
+frontend operation. In the first case, the acetylene removal unit is located after the deethanizer. 46 
+The feed contains only C2fractions and stoichiometrically added hydrogen.610 The low hydrogen 
+47 
+concentration guarantees a high selectivity for conversion of acetylene to ethylene avoiding the 
+48 
+overhydrogenation to ethane. However, it favors increased oligomer and green oil formation 
+49 
+leading to shorter catalyst lifetimes in the acetylene hydrogenation.
+
+
+---
+
+Description:
+Requires concentrations lower than 1 ppm for ethylene-rich streams.
+
+Text:
+Multi
+41 
+unsaturated impurities such as acetylene lead to poisoning of ZieglerNatta catalysts in 
+42 
+polymerization reactions.35 Therefore, the generation of ethylenerich streams with acetylene 
+43 
+concentrations lower than 1 ppm are necessary.37 
+44 
+Industrially, two main operating methods are commonly used for acetylene removal, tailend and 
+45 
+frontend operation. In the first case, the acetylene removal unit is located after the deethanizer. 46 
+The feed contains only C2fractions and stoichiometrically added hydrogen.610 The low hydrogen 
+47 
+concentration guarantees a high selectivity for conversion of acetylene to ethylene avoiding the 
+48 
+overhydrogenation to ethane. However, it favors increased oligomer and green oil formation 
+49 
+leading to shorter catalyst lifetimes in the acetylene hydrogenation.

@@ -1,0 +1,19 @@
+Description:
+Involved in the hydrogen abstraction acetylene addition (HACA) growth mechanism.
+
+Text:
+Physical nucleation of PAHs is only possible for 
+large PAHs (667 Da), but these species fail to be 
+observed in experimental studies due to their low 
+concentrations 10. Chemical nucleation is a process 
+where reactive sites on PAHs are chemically combined 
+to form a stable structure. These reactive sites can be 
+connected by acetylene, which refers to the wellknown 
+hydrogen abstraction acetylene addition (HACA) 
+growth mechanism 9. Another chemical pathway is 
+the formation of a bonding network where radicals 
+directly react with PAH radicals without the 
+requirement of hydrogen abstraction 11. These 
+radicals can be stabilized due to delocalization, also 
+known as longlived resonantly stabilized radicals 
+(RSRs).

@@ -1,0 +1,11 @@
+Description:
+A heteroleptic compound with tunable HOMO and LUMO levels via ligand architecture, affecting photoredox activity.
+
+Text:
+Heteroleptic compounds incorporating (CN) and (NN) ligands, as in Ir(ppy)2(bpy) complexes,
+benet from independent tunability of HOMO and LUMO levels via ligand architecture.920 Yet, the relationship between
+structuralenvironmental perturbations and changes in the intricate excitedstate manifold of Ir(ppy)2(bpy) complexes are
+hard to capture with existing spectroscopies, making it commensurately difcult to understand all the factors that modulate
+their photoredox activity. Tuning of the redox potentials, absorption energy, excitedstate lifetime, and quantum yield, are
+well known criteria, but other factors can play an important role.2124 For instance, recent work suggests that the size and
+polarity of the counterion effects the efciency of the catalytic cycle,2531.

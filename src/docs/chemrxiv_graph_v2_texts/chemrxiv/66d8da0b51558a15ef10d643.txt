@@ -1,0 +1,17 @@
+Description:
+A component of syngas used by acetogenic bacteria to produce biofuels and biochemicals.
+
+Text:
+Semiartificial photosynthesis merges synthetic and biological approaches to produce sustainable fuels using 
+sunlight, particularly excelling in selective multicarbon product formation via biocatalysis.1,2 A hybrid solar water 
+splittingbiosynthetic system has been reported, where intermediate green H is used as a reductant to fix CO
+and efficiently produce biomass and fuels using Cupriavidus necator.3 Coupling a synthetic photocatalyst with She
+wanella oneidensis resulted in selective hydrogenation of CC and CO bonds.4 The photosensitization of Moorella 
+thermoacetica with extracellular CdS or intracellular gold nanoclusters established a novel pathway for photocata
+lytic CO utilization, integrating microbial systems with nanomaterials to enhance photosynthetic efficiency.5,6
+Gas fermenting acetogenic bacteria, particularly Clostridium species, have emerged as versatile platforms for 
+producing biofuels and biochemicals from syngas, a mixture of H, CO and CO2.79 These Clostridium strains utilize 
+the WoodLjungdahl pathway, which consists of two branches (Figure 1A) to produce the C2 compounds the 
+methyl branch, reducing CO to formate and further to a methyl group, and the carbonyl branch, which forms an 
+acetyl group from CO. Clostridium ljungdahlii (Cl) has shown promise in fermenting these gases into valuable prod
+ucts, underscoring the economic viability of this approach in biotechnology.

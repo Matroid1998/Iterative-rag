@@ -1,0 +1,60 @@
+Description:
+A metal used in solid-state batteries to increase energy density and form anodes in situ.
+
+Text:
+Solidstate batteries (SSBs) could provide higher energy density than conventional lithium
+ion batteries by enabling the use of the lithium metal anode15. Lithium metal SSBs with anode
+free architectures have recently attracted attention due to the advantages of eliminating excess 
+lithium metal (Fig. 1a)6,7. In an anodefree (or zerolithiumexcess) SSB, the cell is initially 
+assembled without active material at the anode, and the anode is formed in situ by plating lithium 
+prestored in the cathode611. Key advantages are the reduction in cell stack volume by 15, 
+resulting in a large increase in energy density (Fig. 1a), as well as the removal of the need to 
+handle airsensitive lithium metal in a manufacturing environment7,11.
+
+
+---
+
+Description:
+A metal that can deform to contact the solid-state electrolyte, enabling initial plating at high current densities.
+
+Text:
+Anodefree SSB 
+architectures could therefore increase energy density while also simplifying manufacturing and 
+lowering cell costs. While there is great interest in anodefree SSBs6,7, achieving stable cycling in these cells 
+is challenging12,13. One reason is that it is difficult to create uniform physical contact (i.e., without 
+voids) between the solidstate electrolyte (SSE) and metal current collectors to enable initial 
+lithium plating at high current densities, in contrast to soft lithium metal which can deform to 
+contact the SSE. Poor interfacial contact will increase the local current density in some regions14
+17, promoting the growth of lithium filaments that can short circuit the cell1822.
+
+
+---
+
+Description:
+Used in metal anodes for SSBs and liquid electrolytes, exhibiting relatively low Coulombic efficiencies.
+
+Text:
+Additionally, the 
+Coulombic efficiency (CE) of anodefree cells must be very high since there is no excess lithium 
+to compensate for lithium loss due to side reactions. Lithium metal anodes in both SSBs and liquid 
+electrolytes have been observed to exhibit relatively low CEs23,24, making this challenge difficult 
+to solve. Designing viable anodefree SSBs therefore requires a detailed understanding of contact 
+evolution, lithium filament growth, and capacity retention during plating and stripping at current 
+collectorSSE interfaces. Despite growing interest, there has been relatively little work studying the mechanisms of 
+plating and stripping in anodefree SSBs. Some studies have plated and stripped lithium on 
+current collectors to measure Coulombic efficiency2527, but they did not investigate the underlying 
+mechanisms at these interfaces.
+
+
+---
+
+Description:
+Used in electrodeposition in anodefree cells.
+
+Text:
+Anodefree cells have also been used to observe lithium 
+electrodeposition2832, but these configurations were generally chosen to avoid the challenges of 
+probing buried interfaces. Recently, Wang et. al demonstrated that  3 mAh cm2 of Li could be 
+cycled at interfaces between current collectors and the garnet Li7La3Zr2O12 (LLZO) SSE12. However, these cells operated at relatively low current densities ( 0.3 mA cm2) and required hot 
+pressing current collectors onto LLZO at temperatures  900 C for fabrication. Other work has 
+investigated anodefree SSBs using the softer Li6PS5Cl (LPSC) SSE13, finding that performance

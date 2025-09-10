@@ -1,0 +1,9 @@
+Description:
+A photocleavable group used to prevent binding of inhibitors.
+
+Text:
+reported a caged PROTAC 
+approach whereby photocleavable 4,5dimethoxy2nitrobenzyl (DMNB) group was introduced to prevent 
+binding of panbromodomain inhibitor JQ1 to BRD4.20 The same caging moiety was also attached to the 
+immunomodulatory drug thalidomide to block the recruitment of E3 ligase cereblon for Brutons tyrosine 
+kinase (BTK) degradation. In both cases, proteolysis was observed only after uncaging of the PROTAC.

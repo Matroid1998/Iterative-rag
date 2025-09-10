@@ -1,0 +1,27 @@
+Name: Glycidyl methacrylate
+Text:
+Glycidyl Methacrylate can cause cancer according to California Labor Code.
+Glycidyl methacrylate is a colorless liquid with a fruity odor. Floats on water. (USCG, 1999)
+Glycidyl methacrylate is an enoate ester obtained by formal condensation of the carboxy group of methacrylic acid with the hydroxy group of glycidol. It is an enoate ester and an epoxide. It is functionally related to a methacrylic acid and a glycidol.
+Properties:safety: Corrosive and Acute Toxic and Health Hazard
+smiles: CC(=C)C(=O)OCC1CO1
+formula: C7H10O3
+chem_properties: Molecular Weight: 142.15 g/mol
+XLogP3: 0.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 4
+Exact Mass: 142.062994177 Da
+Monoisotopic Mass: 142.062994177 Da
+Topological Polar Surface Area: 38.8
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 162
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

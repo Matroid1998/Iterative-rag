@@ -1,0 +1,11 @@
+Description:
+The fluorophore used for tumor visualization.
+
+Text:
+After accumulating in the brain tumor, 5ALA is enzymatically transformed into Protoporphyrin IX (PPIX) 
+(12), which is the fluorophore used for tumor visualization. The brain tumor surgery is followed by 
+radiochemotherapy to reduce residual tissue and thus improve the overall tumor removal (13, 14). However, these therapies do not selectively affect cancerous tissue and result in collateral damage of 
+healthy, surrounding brain cells. A recent therapeutic approach, with the goal of establishing a tumor specific therapeutic alternative to 
+chemo or radiotherapy, focuses on enhancing the functionality of the already administered fluorescent 
+dye used for tumor visualization to additionally act as a photosensitizing agent in photodynamic therapy 
+(PDT) (15).

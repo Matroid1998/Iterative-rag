@@ -1,0 +1,15 @@
+Description:
+A component in colloidal nanoparticles used for selforganization into functional materials.
+
+Text:
+The selforganization of colloidal nanoparticles (gold, silica, polystyrene) into intricate andor 
+periodical structure is a crucial area in colloidal sciences due to their potential to make new 
+functional material.1,2 Selfassemblies can be broadly classified into equilibrium and outof
+equilibrium types. Equilibrium assemblies form thermodynamically stable, highly periodic 
+structures that can be used in functional materials like colloidal photonic crystals,3,4 metamaterials5
+7 exhibiting high (n  3) or negative refractive indices,814 and optoelectronic metamaterials based 
+on quantum dot superlattices showing superfluorescence.15,16 On the other hand, outof
+equilibrium, or active, selfassemblies respond dynamically to external stimuli (chemical, 
+electrical, optical, magnetic) and offer the advantage of being reconfigurable. In both types of 
+colloidal selfassembly, understanding the interactions between individual components is essential 
+for controlling their spatial arrangement and engineering these materials.

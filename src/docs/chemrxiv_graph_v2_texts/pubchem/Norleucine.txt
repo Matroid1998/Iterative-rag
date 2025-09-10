@@ -1,0 +1,29 @@
+Name: Norleucine
+Text:
+L-norleucine is a non-proteinogenic L-alpha-amino acid comprising hexanoic acid carrying an amino group at C-2. It does not occur naturally. It is a 2-aminohexanoic acid and a non-proteinogenic L-alpha-amino acid. It is a conjugate acid of a L-2-aminohexanoate. It is an enantiomer of a D-norleucine. It is a tautomer of a L-2-aminohexanoic acid zwitterion.
+Norleucine is under investigation in clinical trial NCT00081952 (Amino Acid Therapy for Hot Flashes in Postmenopausal Women).
+L-Norleucine has been reported in Daphnia pulex, Arabidopsis thaliana, and other organisms with data available.
+NORLEUCINE is a small molecule drug with a maximum clinical trial phase of I (across all indications) and has 2 investigational indications.
+An unnatural amino acid that is used experimentally to study protein structure and function. It is structurally similar to METHIONINE, however it does not contain SULFUR.
+Properties:safety: Irritant
+smiles: CCCC[C@@H](C(=O)O)N
+formula: C6H13NO2
+chem_properties: Molecular Weight: 131.17 g/mol
+XLogP3: -1.5
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 4
+Exact Mass: 131.094628657 Da
+Monoisotopic Mass: 131.094628657 Da
+Topological Polar Surface Area: 63.3
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 93.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

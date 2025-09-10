@@ -1,0 +1,23 @@
+Description:
+Used in dynamic kinetic resolution processes for enantioselective derivatization.
+
+Text:
+Kinetic resolution is a widely developed process 
+that has been extensively used for industrial and academic 
+applications to allow the effective preparation of enantiomerically 
+pure compounds.1 Despite its widespread use, a recognised 
+inherent drawback is that the theoretical maximum yield of a 
+single product enantiomer from a racemate is 50. This limitation 
+can be overcome by a using a dynamic kinetic resolution (DKR) 
+approach, that necessitates the individual enantiomers of the 
+racemic starting material to interconvert (enantiomerization) at a 
+timescale compatible with a subsequent enantioselective 
+derivatization event (such as acylation).1v Current stateofthe art 
+DKRs commonly use secondary alcohols or trisubstituted lactols 
+(that contain a Hsubstituent at the carbinol carbon), with 
+enantiomerization 
+promoted 
+through 
+reversible 
+dehydrogenationhydrogenation (Fig 1AB) or intramolecular ring 
+closurering opening (Fig 1CD).

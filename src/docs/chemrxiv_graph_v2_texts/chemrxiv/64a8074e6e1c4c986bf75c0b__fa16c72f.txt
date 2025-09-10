@@ -1,0 +1,16 @@
+Description:
+A 1,2-diketone that exhibits room temperature phosphorescence (RTP) with narrowband emission.
+
+Text:
+Considering 
+the luminescence of the same quantum efficiency, highcolorpurity 
+emission has a sharp and intense spectral peak that is visible, distin
+guishable, and vivid. These are essential feature for OLED displays 
+and bioimaging.13 However, organic RTP is usually broad with 80
+120nm fullwidths at halfmaxima (FWHM)(Figure 1b, Table S1). Moreover, because of an inefficient intersystem crossing (ISC) from 
+singlet to triplet states, organic phosphors often exhibit both RTP 
+and fluorescence, further impairing color purity. As a longknown 
+exception, 1,2diketones, such as biacetyl and benzil, exhibit RTP 
+with small FWHM values (i.e., narrowband RTP).14 However, the 
+RTP is feeble in solution. Thus, simultaneously achieving a high p 
+and color purity in organic RTP remains a tremendous challenge.

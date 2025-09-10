@@ -1,0 +1,32 @@
+Name: Cytidine
+Text:
+Cytidine is a white crystalline powder. (NTP, 1992)
+Cytidine is a pyrimidine nucleoside in which cytosine is attached to ribofuranose via a beta-N(1)-glycosidic bond. It has a role as a human metabolite, a Saccharomyces cerevisiae metabolite, an Escherichia coli metabolite and a mouse metabolite. It is functionally related to a cytosine.
+Cytidine is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Cytidine has been reported in Castanopsis fissa, Fritillaria thunbergii, and other organisms with data available.
+Cytidine is a pyrimidine nucleoside comprised of a cytosine bound to ribose via a beta-N1-glycosidic bond. Cytidine is a precursor for uridine. Both cytidine and uridine are utilized in RNA synthesis.
+CYTIDINE is a small molecule drug with a maximum clinical trial phase of III (across all indications) and has 5 investigational indications.
+Cytidine is a metabolite found in or produced by Saccharomyces cerevisiae.
+A pyrimidine nucleoside that is composed of the base CYTOSINE linked to the five-carbon sugar D-RIBOSE.
+Properties:safety: Irritant
+smiles: C1=CN(C(=O)N=C1N)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O
+formula: C9H13N3O5
+chem_properties: Molecular Weight: 243.22 g/mol
+XLogP3: -2.1
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 2
+Exact Mass: 243.08552052 Da
+Monoisotopic Mass: 243.08552052 Da
+Topological Polar Surface Area: 129
+Heavy Atom Count: 17
+Formal Charge: 0
+Complexity: 383
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

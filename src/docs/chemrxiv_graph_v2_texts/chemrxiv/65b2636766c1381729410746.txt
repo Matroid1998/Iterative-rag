@@ -1,0 +1,44 @@
+Description:
+Has a high theoretical specific capacity of 3860 mAh g-1, low density of 0.534 g cm-3, and the lowest reduction potential of 3.04 V vs SHE.
+
+Text:
+44 
+Among the energy storage technologies, lithiumion batteries (LIBs) have been the leading 
+45 
+technology in terms of research and industrial application 1. LIBs offer high energy density due 
+46 
+to the high theoretical specific capacity of lithium (3860 mAh g1), low density (0.534 g cm3) 
+47 
+along with the lowest reduction potential (3.04 V vs SHE). In addition numerous high voltage 
+48 
+high capacity cathodes, including Nirich transition metal oxides (LiNi0.8Co0.1Mn0.1O2, 
+49 
+LiNi0.8Co0.15Al0.05O2, etc..), Lirich (Li1.2Mn0.54Ni0.13Co0.13O2) and high spinel (LiMn1.5Ni0.5O4) 
+50 
+electrode materials were developed but still some of them raise safety issues and show 
+51 
+extreme capacity fading or have lower energy density 25.
+
+
+---
+
+Description:
+Prone to dendrite growth, which reduces safety in batteries.
+
+Text:
+In addition, LIBs suffer from critical 
+52 
+issues like lithium dendrite growth leading to reduced safety due to the use of flammable 
+53 
+organic electrolytes. Further, limited availability of elemental resources such as Li can pose a 
+54 
+supply risk in the future. Hence, it is important to investigate the alternative energy storage 
+55 
+technologies to keep up with the upcoming increased demand. 56 
+Fluoride ion batteries are interesting candidates for energy storage applications owing to the 
+57 
+highest oxidation potential of FF2 redox couple (2.87 V vs SHE) and thus redox stability of 
+58 
+the fluoride ion F, low atomic mass of F (18.998 g mol1) along with the abundance of fluorine 
+59 
+itself 6 .

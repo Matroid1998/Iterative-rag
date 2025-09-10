@@ -1,0 +1,14 @@
+Description:
+Involved in methanation reactions on Ni(111).
+
+Text:
+RMG is a wellestablished tool to construct gasphase mechanisms for complex systems, e.g.,
+the pyrolysis of jet fuel.10 Functionalities for heterogeneous catalysts, in contrast, have been
+added relatively recently.11 Previous studies on the catalysis branch of RMG have focused on
+expanding the thermophysical adsorbate database,12,13 improving kinetics databases and rate
+rules of surface reaction families,13,14 and developing important features such as linear scaling
+relations.15 With these advancements, RMG has successfully generated microkinetic models
+for CO2 methanation on Ni(111)14,16,17 and oxidation of light hydrocarbons.12,13,15 It was
+also possible to include rigorous quantification of correlated uncertainties in the generation
+2
+httpsdoi.org10.26434chemrxiv2023vsmbm ORCID httpsorcid.org0000000301589147 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

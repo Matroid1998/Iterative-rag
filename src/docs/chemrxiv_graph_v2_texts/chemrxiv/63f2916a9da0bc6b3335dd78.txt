@@ -1,0 +1,29 @@
+Description:
+Involved in the reduction reaction to water, releasing energy for electricity generation.
+
+Text:
+The oxygen reduction reaction (ORR) is the reduction of oxygen to water, which releases energy 
+that can be used to generate electricity.1 In terms of the efficiency of electricity generation, 
+electrochemical fuel cells containing an appropriate catalyst are more efficient than burning H2 
+and O2 to generate heat to run a turbine. The best catalysts for ORR contain platinum,1,2 and while 
+alternative materials have been considered,35 it has proven quite challenging to optimize the 
+efficiency of ORR electrocatalysts.6,7 
+In terms only of the efficiency of ORR, articulating the effect of this ideal electrocatalyst on the 
+catalytic cycle is easy, but rather difficult to actualize. The ideal electrocatalyst would harvest the 
+same amount of energy per electron transferred in each step of the overall electrochemical 
+reaction 4H!
+
+
+---
+
+Description:
+An element that forms species such as O2H and OH, which are involved in forming and breaking bonds with catalysts.
+
+Text:
+e R  HO, which is caused by the fact that active sites that bind one oxygen 
+species strongly, such as O2H, are likely to strongly bind to other oxygen species, such as OH.6 
+This is especially apparent for these two steps because they each involve forming and breaking 
+bonds between the catalyst and an oxygen species. Within the framework of understanding provided by scaling relations, ORR catalyst design 
+strategies can be classified as either seeking to modify an existing catalyst to push the new 
+catalyst closer to the optimal oxygen binding strength along the scaling relations, or to favorably 
+break these scaling relations. Although the latter would be necessary to obtain the ideal catalyst

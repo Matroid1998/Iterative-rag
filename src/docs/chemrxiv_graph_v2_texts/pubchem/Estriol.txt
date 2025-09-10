@@ -1,0 +1,32 @@
+Name: Estriol
+Text:
+Estriol is a 3-hydroxy steroid that is estra-1,3,5(10)-trien-3-ol substituted by additional hydroxy groups at positions 16 and 17 (16alpha,17beta-stereoisomer). It has a role as an estrogen, a human metabolite, a human xenobiotic metabolite and a mouse metabolite. It is a 3-hydroxy steroid, a 16alpha-hydroxy steroid and a 17beta-hydroxy steroid. It derives from a hydride of an estrane.
+A hydroxylated metabolite of estradiol or estrone that has a hydroxyl group at C3-beta, 16-alpha, and 17-beta position. Estriol is a major urinary estrogen. During pregnancy, large amount of estriol is produced by the placenta. Isomers with inversion of the hydroxyl group or groups are called epiestriol. Though estriol is used as part of the primarily North American phenomenon of bioidentical hormone replacement therapy, it is not approved for use by the FDA or Health Canada. It is however available in the United States by prescription filled only by compounding pharmacies. It has also been approved and marketed throughout Europe and Asia for approximately 40 years for the treatment of post-menopausal hot flashes.
+Estriol has been reported in Arabidopsis thaliana, Homo sapiens, and Sarcophaga bullata with data available.
+Estriol is a synthetic form of the endogenous human estriol, a weak oestrogen and natural metabolite of estradiol, that can be used for hormone replacement. Upon administration, estriol maintains adequate levels of estrogen, binds to estrogen receptors, and relieves symptoms caused by estrogen deficiency.
+ESTRIOL is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2000 and has 6 investigational indications.
+A hydroxylated metabolite of estradiol or estrone that has a hydroxyl group at C3-beta, 16-alpha, and 17-beta position. Estriol is a major urinary estrogen. During pregnancy, large amount of estriol is produced by the placenta. Isomers with inversion of the hydroxyl group or groups are called epiestriol. Though estriol is used as part of the primarily North American phenomenon of bioidentical hormone replacement therapy, it is not approved for use by the FDA or Health Canada. It is however available in the United States by prescription filled only by compounding pharmacies. It has also been approved and marketed throughout Europe and Asia for approximately 40 years for the treatment of post-menopausal hot flashes.
+A hydroxylated metabolite of ESTRADIOL or ESTRONE that has a hydroxyl group at C3, 16-alpha, and 17-beta position. Estriol is a major urinary estrogen. During PREGNANCY, a large amount of estriol is produced by the PLACENTA. Isomers with inversion of the hydroxyl group or groups are called epiestriol.
+See also: Estriol Succinate (is active moiety of); Estradiol; estriol (component of) ... View More ...
+Properties:safety: Health Hazard and Environmental Hazard
+smiles: C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@@H]2O)O)CCC4=C3C=CC(=C4)O
+formula: C18H24O3
+chem_properties: Molecular Weight: 288.4 g/mol
+XLogP3: 2.5
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 288.17254462 Da
+Monoisotopic Mass: 288.17254462 Da
+Topological Polar Surface Area: 60.7
+Heavy Atom Count: 21
+Formal Charge: 0
+Complexity: 411
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 6
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

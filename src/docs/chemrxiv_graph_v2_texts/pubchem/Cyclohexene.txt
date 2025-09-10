@@ -1,0 +1,27 @@
+Name: Cyclohexene
+Text:
+Cyclohexene appears as a colorless liquid. Insoluble in water and less dense than water. Flash point 20 °F. Vapors heavier than air. Inhalation of high concentrations may have a narcotic effect. Used to make other chemicals.
+Cyclohexene is a cycloalkene that is cylohexane with a single double bond.
+Cyclohexene has been reported in Rattus rattus, Tetradium ruticarpum, and Tapirira guianensis with data available.
+Properties:safety: Flammable and Acute Toxic and Irritant and Health Hazard and Environmental Hazard
+smiles: C1CCC=CC1
+formula: C6H10
+chem_properties: Molecular Weight: 82.14 g/mol
+XLogP3: 2.9
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 82.078250319 Da
+Monoisotopic Mass: 82.078250319 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 45.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

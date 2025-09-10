@@ -1,0 +1,26 @@
+Name: Propyne
+Text:
+1-propyne appears as a colorless liquefied gas with a sweet odor. mp: -104 °C, bp: -23.1 °C. Insoluble in water, soluble in ethanol, chloroform and benzene. Moderately toxic by inhalation. Used as a specialty fuel. Denser than air. Vapors may ignite at distant sources of ignition and flash back.
+Propyne is an alkyne, a terminal acetylenic compound and a gas molecular entity.
+Properties:safety: Flammable and Compressed Gas and Irritant
+smiles: CC#C
+formula: C3H4
+chem_properties: Molecular Weight: 40.06 g/mol
+XLogP3: 0.9
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 40.0313001276 Da
+Monoisotopic Mass: 40.0313001276 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 26.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

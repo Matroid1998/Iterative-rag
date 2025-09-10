@@ -1,0 +1,11 @@
+Description:
+A large polymer that does not mix ideally with lipids at low compositions.
+
+Text:
+Early work on the properties hybrid PBdPEO giant unilamellar vesicles (GUVs) 
+investigated the large PBd46PEO30 polymer mixed with POPC.13, 14 Mixing between these 
+components was not ideal at low lipid composition, where it was assumed that a high energy cost for 
+insertion of these larger polymers into a thin lipid membrane frustrated hybrid vesicle formation, and 
+no GUVs were observed at intermediate compositions.13 The GUV membranes that were formed in 
+this study were, however, homogeneous, but biotinylation of either the lipid or polymer and cross
+linking by addition of the multivalent neutravidin protein did result in microscopic domain formation.

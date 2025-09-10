@@ -1,0 +1,28 @@
+Description:
+Concentration in film increased with higher flow rate, reaching nearly 15 at at 60 sccm.
+
+Text:
+A detailed analysis of the Raman spectra of SiCN deposited 
+with a temperature variation as well as of carbon nitride with nitrogen flow rate has been published 
+previously 1, 2, 3 
+A flow rate of 5 sccm was maintained for C2H2 while flow of nitrogen was varied as 5, 15, 30 and 60 sccm. The deposition chamber was pumped down to 105 mbar by turbo molecular pump prior to inletting the 
+precursor gases. The chemical composition of the deposited films was done by EDS. The concentration 
+of nitrogen in film increased with the increase in nitrogen flow and reached nearly 15 at at a nitrogen 
+flow rate of 60 sccm. Increase of nitrogen percentage in the films leads to increase in clustering of sp2 
+carbon.
+
+
+---
+
+Description:
+No further clustering takes place for more than 20 nitrogen atoms, indicating system saturation.
+
+Text:
+However, for more than 20 nitrogen, no further clustering takes place and the system attains 
+saturation. Below 20 nitrogen, the fraction of sp2 carbon is 25 to 30 similar as N free taC H 1. 2. Raman Spectroscopy 
+The Raman spectra (Almega, USA using HeNe laser) of the films consisted of mainly three features, a G 
+(graphite) peak at around 1580 cm1 due to optical zone center vibrations (E2g mode) of pairs of sp2C 
+atoms in aromatic rings or olefinic chains; a D (disordered) peak around 1360 cm1, which arises from the 
+limitations in the graphite domain size induced by grain boundaries or imperfections i.e. substitutional N 
+
+2

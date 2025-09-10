@@ -1,0 +1,32 @@
+Name: Diclofenac
+Text:
+Diclofenac is a monocarboxylic acid consisting of phenylacetic acid having a (2,6-dichlorophenyl)amino group at the 2-position. It has a role as a non-narcotic analgesic, an antipyretic, an EC 1.14.99.1 (prostaglandin-endoperoxide synthase) inhibitor, a xenobiotic, an environmental contaminant, a drug allergen and a non-steroidal anti-inflammatory drug. It is a secondary amino compound, an amino acid, a dichlorobenzene, an aromatic amine and a monocarboxylic acid. It is functionally related to a phenylacetic acid and a diphenylamine. It is a conjugate acid of a diclofenac(1-).
+Diclofenac is a phenylacetic acid derivative and non-steroidal anti-inflammatory drug (NSAID). NSAIDs inhibit cyclooxygenase (COX)-1 and-2 which are the enzyme responsible for producing prostaglandins (PGs). PGs contribute to inflammation and pain signalling. Diclofenac, like other NSAIDs, is often used as first line therapy for acute and chronic pain and inflammation from a variety of causes. Diclofenac was the product of rational drug design based on the structures of [phenylbutazone], [mefenamic acid], and [indomethacin]. The addition of two chlorine groups in the ortho position of the phenyl ring locks the ring in maximal torsion which appears to be related to increased potency. It is often used in combination with [misoprostol] to prevent NSAID-induced gastric ulcers. Diclofenac was first approved by the FDA in July 1988 under the trade name Voltaren, marketed by Novartis (previously Ciba-Geigy).
+Diclofenac is a Nonsteroidal Anti-inflammatory Drug. The mechanism of action of diclofenac is as a Cyclooxygenase Inhibitor. The physiologic effect of diclofenac is by means of Decreased Prostaglandin Production.
+Diclofenac is a commonly used nonsteroidal antiinflammatory drug (NSAID) used for the therapy of chronic forms of arthritis and mild-to-moderate acute pain. Therapy with diclofenac in full doses is frequently associated with mild serum aminotransferase elevations and, in rare instances, can lead to serious clinically apparent, acute or chronic liver disease.
+Diclofenac is a nonsteroidal benzeneacetic acid derivative with anti-inflammatory activity.  As a nonsteroidal anti-inflammatory drug (NSAID), diclofenac binds and chelates both isoforms of cyclooxygenase (COX-1 and-2), thereby blocking the conversion of arachidonic acid to pro-inflammatory-proprostaglandins.  This agent also may inhibit COX-2-mediated tumor angiogenesis.  When inhibiting COX-2, diclofenac may be effective in relieving pain and inflammation; when inhibiting COX-1, it may produce unacceptable gastrointestinal side effects.  This agent may be more active against COX-2 than several other carboxylic acid-containing NSAIDs. (NCI04)
+DICLOFENAC is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1988 and has 16 approved and 35 investigational indications. This drug has a black box warning from the FDA.
+A non-steroidal anti-inflammatory agent (NSAID) with antipyretic and analgesic actions. It is primarily available as the sodium salt. 
+A non-steroidal anti-inflammatory agent (NSAID) with antipyretic and analgesic actions. It is primarily available as the sodium salt.
+Properties:safety: Acute Toxic and Irritant
+smiles: C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl
+formula: C14H11Cl2NO2
+chem_properties: Molecular Weight: 296.1 g/mol
+XLogP3: 4.4
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 4
+Exact Mass: 295.0166840 Da
+Monoisotopic Mass: 295.0166840 Da
+Topological Polar Surface Area: 49.3
+Heavy Atom Count: 19
+Formal Charge: 0
+Complexity: 304
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

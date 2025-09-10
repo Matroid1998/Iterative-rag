@@ -1,0 +1,25 @@
+Description:
+An inorganic friction modifier that adsorbs and decomposes to form low-friction lamellar molybdenum disulphide films on steel.
+
+Text:
+The adsorption and selfassembly of surfactants at solidliquid interfaces plays a key role in
+a wide range of technological processes, from nanoparticle stabilisation to ore otation.1 In
+tribology, the adsorption of polar lubricant additives from nonpolar base oils onto solid sur
+faces is critical to their eective operation.2 For example, organic friction modiers (OFMs),
+such as stearic acid (SA), adsorb and form thin (2 nm) selfassembled monolayers (SAMs)
+on steel surfaces, which signicantly reduce friction and wear.3 Similarly, inorganic friction
+modiers, such as molybdenum dialkyldithiocarbamate (MoDTC), adsorb and decompose to
+form thin (1 nm), lowfriction lamellar molybdenum disulphide lms on steel.4 Moreover,
+antiwear additives, such as zinc dialkyldithiophosphate (ZDDP), adsorb, form SAMs,5 and
+decompose on steel surfaces to form thick (100 nm) protective tribolms, composed mostly
+of metal phosphates.6
+Modern lubricant formulations contain at least ten dierent types of additive dissolved in
+a blend of base oils.7 Combinations of dierent additives often behave antagonistically, that
+is the additive blend gives poorer performance than any of the individual additives alone at
+equal concentration.8 Prominent examples of antagonistic lubricant additive combinations
+include overbased calcium sulphonate detergents with ZDDP,9 succinimide dispersants with
+ZDDP,10 and MoDTC with ester OFMs.11 Many of these antagonistic interactions are due
+to competitive adsorption processes, whereby the most surfaceactive component occupies
+the majority of surface sites and inhibits the action of the other additives.8 Therefore, it is
+important to understand the relative adsorption strength of the various lubricant additives
+from base oils on steel surfaces.

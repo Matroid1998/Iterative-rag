@@ -1,0 +1,12 @@
+Description:
+A polymer that can phase separate in water to form aqueous two-phase systems.
+
+Text:
+This was first observed when 
+forming OW droplets stabilized by amphiphilic polymers that also contained salts, dispersed 
+in oil, which contributed to the formation of small aqueous droplets within oil 17, 18, 2234. Another alternative method under study would be to produce double emulsions 
+starting from waterinwater emulsions. These later are made of mixtures of for instance 2 
+segregative polymers, e.g., polyethylene glycol (PEG) and Dextran (Dex) that phase separate 
+at a given concentration in water 3541. Depending on the concentration and the molecular 
+weight of both polymers, one can form Dexrich droplets in a continuous PEGrich 
+continuous phase. Such systems are also known as aqueous twophase systems (ATPS).

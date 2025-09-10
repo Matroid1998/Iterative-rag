@@ -1,0 +1,14 @@
+Description:
+A molecule that can undergo reduction in photoelectrochemical cells.
+
+Text:
+The development of an efficient dyesensitized photoelectrochemical (DSPEC) cell can 
+contribute to mitigating energy and environmental challenges via converting and storing solar 
+energy into chemical bonds.15 However, the overall efficiency of the DSPEC cell is limited by 
+severe charge recombination at the photocathode, which has a substantially lower performance 
+than the photoanode.67 In a dyesensitized photocathode, a monolayer of a molecular dye is 
+anchored onto the surface of a ptype semiconductor and functions as the light absorber. A 
+catalyst for proton or CO2 reduction can be linked to the dye, coadsorbed on the semiconductor 
+or even dissolved into the electrolyte. 811 Lightinduced charge separation by hole injection from 
+the dye into the valence band of the semiconductor should be followed by electron transfer to 
+the catalyst.

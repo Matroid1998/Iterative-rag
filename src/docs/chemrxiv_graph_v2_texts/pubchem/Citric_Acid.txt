@@ -1,0 +1,34 @@
+Name: Citric Acid
+Text:
+Citric acid appears as colorless, odorless crystals with an acid taste. Denser than water. (USCG, 1999)
+Citric acid is a tricarboxylic acid that is propane-1,2,3-tricarboxylic acid bearing a hydroxy substituent at position 2. It is an important metabolite in the pathway of all aerobic organisms. It has a role as a food acidity regulator, a chelator, an antimicrobial agent and a fundamental metabolite. It is a conjugate acid of a citrate(1-) and a citrate anion.
+A key intermediate in metabolism. It is an acid compound found in citrus fruits. The salts of citric acid (citrates) can be used as anticoagulants due to their calcium-chelating ability.  Citric acid is one of the active ingredients in Phexxi, a non-hormonal contraceptive agent that was approved by the FDA on May 2020. It is also used in combination with magnesium oxide to form magnesium citrate, an osmotic laxative.
+Citric acid is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Anhydrous citric acid is a Calculi Dissolution Agent and Anti-coagulant. The mechanism of action of anhydrous citric acid is as an Acidifying Activity and Calcium Chelating Activity. The physiologic effect of anhydrous citric acid is by means of Decreased Coagulation Factor Activity.
+Citric Acid has been reported in Camellia sinensis, Diplachne fusca, and other organisms with data available.
+Anhydrous Citric Acid is a tricarboxylic acid found in citrus fruits. Citric acid is used as an excipient in pharmaceutical preparations due to its antioxidant properties.  It maintains stability of active ingredients and is used as a preservative. It is also used as an acidulant to control pH and acts as an anticoagulant by chelating calcium in blood.
+CITRIC ACID is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1982 and has 6 investigational indications.
+A key intermediate in metabolism. It is an acid compound found in citrus fruits. The salts of citric acid (citrates) can be used as anticoagulants due to their calcium chelating ability.
+See also: Citric Acid Monohydrate (narrower).
+Properties:safety: Irritant
+smiles: C(C(=O)O)C(CC(=O)O)(C(=O)O)O
+formula: C6H8O7
+chem_properties: Molecular Weight: 192.12 g/mol
+XLogP3: -1.7
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 5
+Exact Mass: 192.02700259 Da
+Monoisotopic Mass: 192.02700259 Da
+Topological Polar Surface Area: 132
+Heavy Atom Count: 13
+Formal Charge: 0
+Complexity: 227
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

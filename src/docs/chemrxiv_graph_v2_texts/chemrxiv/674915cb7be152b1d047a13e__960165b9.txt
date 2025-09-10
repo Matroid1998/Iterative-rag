@@ -1,0 +1,15 @@
+Description:
+A top-ranked compound identified in a high throughput screen for selectively killing ICC cell lines with IDH1 mutations.
+
+Text:
+To find synthetic 
+lethal sensitivities present in cells harboring IDH12 mutations, we executed a systematic high
+throughput screen of approved and experimental therapeutics libraries to identify compounds that 
+selectively kill ICC cell lines harboring IDH1 mutations.2 To that end, a collection of 7,988 
+compounds with annotated mechanisms of action andor pharmacological targets was screened in 
+8point dose response against the RBE and SNU1079 biliary tract cancer cell lines that contain 
+the common R132H and R132C IDH1 mutations, respectively. Counterscreening against biliary 
+tract cell lines CCLP1 and HUCCT1 containing wild type (wt) IDH1 was done to deprioritize 
+cytotoxic compounds towards cells with wt IDH1. A topranked compound that emerged from 
+these screening efforts was 3(5hydroxymethyl2furyl)1benzyl indazole (YC1; lificiguat), 
+httpsdoi.org10.26434chemrxiv2024m8wth ORCID httpsorcid.org0000000242657620 Content not peerreviewed by ChemRxiv.

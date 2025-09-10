@@ -1,0 +1,11 @@
+Description:
+Materials with excellent optoelectronic properties used in film-based devices.
+
+Text:
+Organometal halide perovskites (MHPs) have emerged as a promising group of materials with excellent 
+optoelectronic properties. Consequently, filmbased perovskite devices have undergone rapid development.16 
+Currently, the most commonly used methods for preparing MHP films include spincoating, spraycoating, slotdie 
+coating, blade coating, and inkjet coating. While the specific techniques for depositing the precursor solutions onto 
+the substrate might differ, all typically involve a subsequent thermal annealing step. This crucial annealing step aims 
+at eliminating any residual solvents or additives present in the film and at fully crystallizing the black perovskite 
+phase. Consequently, achieving a comprehensive understanding of the annealing process is paramount.

@@ -1,0 +1,13 @@
+Description:
+Has a lower theoretical volumetric capacity compared to Mg and is surpassed by Mg in terms of dendrite formation during battery cycling.
+
+Text:
+Among the emerging 
+alternatives, the Mgion battery has received significant attention due to the abundance of Mg, the 
+high theoretical volumetric capacity of Mg compared to Li (3833 vs. 2046 mAhcm3), low cost, 
+and environmental friendliness7,8. In addition, Mg metal demonstrates reduced dendrite formation 
+during battery cycling, surpassing that of both Li and Zn, due to its low diffusion barrier and unique 
+planar hexagonal growth during electrochemical deposition8. Hence, Mgion batteries hold the 
+promise as a viable and sustainable energy storage technology, capable of meeting the escalating 
+energy demands while mitigating environmental impacts. Recent advancements in Mgion batteries have been primarily centered on solidstate 
+rechargeable batteries7,9.

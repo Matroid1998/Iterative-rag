@@ -1,0 +1,31 @@
+Name: Chlorhexidine
+Text:
+Chlorhexidine is a bisbiguanide compound with a structure consisting of two (p-chlorophenyl)guanide units linked by a hexamethylene bridge. It has a role as an antiinfective agent and an antibacterial agent. It is a member of biguanides and a member of monochlorobenzenes. It is functionally related to a biguanide.
+Chlorhexidine is a broad-spectrum antimicrobial biguanide used as a topical antiseptic and in dental practice for the treatment of inflammatory dental conditions caused by microorganisms. It is one of the most common skin and mucous membrane antiseptic agents in use today. The molecule itself is a cationic bis-guanide consisting of two 4-chlorophenyl rings and two biguanide groups joined by a central hexamethylene chain. Topical chlorhexidine for disinfection, as well as oral rinses for dental use, carries activity against a broad range of pathogens including bacteria, yeasts, and viruses.  Chlorhexidine was developed in the UK by Imperial Chemical Industries in the early 1950s and was introduced to the US in the 1970s. The FDA withdrew its approval for the use of chlorhexidine gluconate topical tincture 0.5%, due to a significant number of reports concerning chemical and thermal burns associated with the use of this product. Other formulations of chlorhexidine continue to be available.
+The physiologic effect of chlorhexidine is by means of Decreased Cell Wall Integrity.
+Chlorhexidine is a biguanide compound used as an antiseptic agent with topical antibacterial activity. Chlorhexidine is positively charged and reacts with the negatively charged microbial cell surface, thereby destroying the integrity of the cell membrane. Subsequently, chlorhexidine penetrates into the cell and causes leakage of intracellular components leading to cell death. Since gram positive bacteria are more negatively charged, they are more sensitive to this agent.
+CHLORHEXIDINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1976 and has 5 approved and 32 investigational indications.
+A disinfectant and topical anti-infective agent used also as mouthwash to prevent oral plaque.
+See also: Chlorhexidine Gluconate (active moiety of); Chlorhexidine Acetate (active moiety of); Alcohol; Chlorhexidine (component of) ... View More ...
+Properties:safety: Corrosive and Irritant and Health Hazard and Environmental Hazard
+smiles: C1=CC(=CC=C1N/C(=N/C(=NCCCCCCN=C(/N=C(/NC2=CC=C(C=C2)Cl)\N)N)N)/N)Cl
+formula: C22H30Cl2N10
+chem_properties: Molecular Weight: 505.4 g/mol
+XLogP3: 0.1
+Hydrogen Bond Donor Count: 6
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 13
+Exact Mass: 504.2031964 Da
+Monoisotopic Mass: 504.2031964 Da
+Topological Polar Surface Area: 178
+Heavy Atom Count: 34
+Formal Charge: 0
+Complexity: 648
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 2
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

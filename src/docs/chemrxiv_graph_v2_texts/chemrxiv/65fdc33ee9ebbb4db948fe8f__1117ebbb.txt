@@ -1,0 +1,13 @@
+Description:
+Poses a major challenge for electrode materials discovery in potassium-ion batteries due to its large size.
+
+Text:
+These properties have made MoS2 highly desirable in many 
+research domains including heterojunction solar cells,3,4 electrophotocatalysis,5,6 strain 
+sensors7 and thermoelectric devices.8 Particularly, the layered structure composed of SMo
+S slabs provides highly accessible sites, resulting in MoS2 being a promising electrode material 
+for battery applications.912 In the area of potassiumion batteries (PIBs) where the large size 
+of Kion poses a major challenge for electrode materials discovery, the wide interlayer spacing 
+(0.62 nm) and weak Van der Waals interaction between the SMoS slabs can effectively 
+accommodate Kions and lower the energy barrier of Kion diffusion. The capability to transfer 
+up to four electrons per MoS2 formula indicates a high theoretical capacity (670 mAh g1).

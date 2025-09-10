@@ -1,0 +1,13 @@
+Description:
+Activates the precatalyst in Ziegler-Natta systems, often used with an external donor.
+
+Text:
+The heterogeneous ZieglerNatta (ZN) catalyst has detained the monopoly over industrial 
+polypropylene (PP) production owing to its high activity and stereospecificity. It facilitates the 
+production of a significant quantity of highquality PP under mild reaction conditions and at a 
+low cost. In its modern form, the catalyst consists of a precatalyst that involves TiCl4 supported 
+on nanosized MgCl2, along with an organic Lewis basic modifier referred to as the internal 
+donor (ID). This precatalyst becomes active with the introduction of alkylaluminum, often 
+accompanied by an additional Lewis base called the external donor (ED).1 The inclusion of 
+these donors marked a significant advancement in PP production, owing to a substantial 
+improvement in both the stereospecificity and activity of the catalyst.

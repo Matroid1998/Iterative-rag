@@ -1,0 +1,27 @@
+Name: Allyl alcohol
+Text:
+Allyl alcohol appears as a clear colorless liquid with a mustard-like odor. Flash point 70 °F. Very toxic by inhalation and ingestion. Less dense than water (7.1 lb / gal). Vapors are heavier than air. Prolonged exposure to low concentrations or short exposure to high concentrations may have adverse health effects from inhalation.
+Allyl alcohol is a propenol in which the C=C bond connects C-2 and C-3. It is has been found in garlic (Allium sativum). Formerly used as a herbicide for the control of various grass and weed seeds. It has a role as an insecticide, a herbicide, an antibacterial agent, a fungicide and a plant metabolite. It is a primary allylic alcohol and a propenol.
+Allyl alcohol has been reported in Bos taurus, Allium sativum, and Vitis vinifera with data available.
+Properties:safety: Flammable and Acute Toxic and Environmental Hazard
+smiles: C=CCO
+formula: C3H6O
+chem_properties: Molecular Weight: 58.08 g/mol
+XLogP3: 0.2
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 1
+Exact Mass: 58.041864811 Da
+Monoisotopic Mass: 58.041864811 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 17.2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

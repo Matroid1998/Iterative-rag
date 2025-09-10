@@ -1,0 +1,23 @@
+Description:
+An atom from which hydrogen is abstracted in reactions with hydroxyl radicals.
+
+Text:
+The theoretical study of the reaction between the hydroxyl (OH) radical and the 
+methanethiol (CH3SH) presents some exciting points i) A fulldimensional potential 
+energy surface is not available for this gasphase reaction; ii) Its interest in tropospheric 
+chemistry, related with adverse effects, such as acid rain, climate changes or visibility 
+reduction.13 Thus, the reaction with OH represents one of its important sinks in the 
+atmosphere, 
+
+OH  CH3SH  Products 
+iii) It proceeds by two different paths, which are hydrogen abstraction reactions from the 
+methyl group, R1, and from the sulphur atom, R2, 
+
+SP1  PC1  CH2SH  H2O 
+
+(R1) 
+OH  CH3SH  RC 
+
+SP2  PC2  CH3S  H2O 
+
+(R2)

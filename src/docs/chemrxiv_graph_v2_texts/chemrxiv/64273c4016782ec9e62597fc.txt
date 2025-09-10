@@ -1,0 +1,47 @@
+Description:
+Reacts at the surface of the secondary particle and diffuses into the particle through the bulk and possibly the grain boundaries.
+
+Text:
+The lithium insertion 
+and removal rates are critical factors for power density68 and battery modeling. The standard 
+model for ion insertion states that lithium reacts at the surface of the secondary particle617, and 
+then diffuses into the particle through the bulk and possibly the grain boundaries18,19. Under this 
+model, smaller particles would charge and discharge faster than larger particles due to shorter 
+diffusion lengths and higher surfaceareatovolume ratios617. In this work, we evaluate the accuracy of this intuitive and widespread assumption that 
+smaller particles charge and discharge faster. Inspired by the field of neuroscience20, we designed 
+and developed a multielectrode array that enables highthroughput electrochemical cycling of 
+many individual battery particles.
+
+
+---
+
+Description:
+Involved in electrochemical cycling and transport within particles.
+
+Text:
+In contrast to previous works using microneedle 
+contacts6,7,10,21,22 or scanning micropipettes2325 with limited numbers of particles analyzed, we 
+conduct full electrochemical cycling and analysis on over 20 individual particles under identical 
+conditions. We thereby generate a statistically significant dataset on reaction and diffusion times 
+for many particles. To our surprise, neither the diffusion nor the reaction times depend on the diameter (size) 
+of the secondary particle, in stark contraction to the standard particle model of lithium transport 
+within a particle617. Instead, our singleparticle electrochemistry data shows that the characteristic 
+diffusion length is essentially independent of the secondary particle size26,27.
+
+
+---
+
+Description:
+Facilitates transport by making the diffusion length independent of and much shorter than the secondary particle diameter.
+
+Text:
+We propose that our 
+results may arise from intergranular cracking, which causes the electrolyte to penetrate into the 
+secondary particle28,29, thereby facilitating lithium transport by making the diffusion length 
+independent of and much shorter than the secondary particle diameter. Our work shows that the 
+standard description of intraparticle lithium transport, whereby lithium enters the secondary 
+particle surface and diffuses into the bulk, is not accurate for this material. As a result, the widely
+used DoyleFullerNewman electrochemical model9 should be revised for polycrystalline NMC 
+particles. This work has substantial implications towards the design of cathode materials. It further 
+shows the potential of highthroughput, singleparticle measurements to unveil the kinetics of 
+electrochemical systems and other energy materials at the micro to nanoscale.

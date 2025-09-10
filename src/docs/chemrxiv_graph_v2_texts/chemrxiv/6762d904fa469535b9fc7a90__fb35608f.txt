@@ -1,0 +1,14 @@
+Description:
+Produced in state-of-the-art synthetic catalyst systems for solar fuel production.
+
+Text:
+Hence, the solar energy 
+conversion efficiency of OPV devices has increased sixfold, reaching 20 over the past two 
+decades17. Their early onset potentials and high photocurrents18,19, especially in neutral pH 
+solutions20, have attracted substantial interest towards solar fuel production, with stateoftheart 
+synthetic catalyst systems sustaining H2 and syngas production for days. However, effectively 
+interfacing OSCs with enzymes remains challenging18. Early works21,22 on the electrochemical wiring 
+of enzymes to electrodes have focused on (photoinactive) redox polymer mediators comprising of 
+viologen or osmiumbased moieties tethered to a nonconjugated backbone2325. Despite being 
+nondiffusional, they remain limited by slow electron hopping23 and the polymeric mediator that 
+controls the driving force (potential) available for the enzyme26.

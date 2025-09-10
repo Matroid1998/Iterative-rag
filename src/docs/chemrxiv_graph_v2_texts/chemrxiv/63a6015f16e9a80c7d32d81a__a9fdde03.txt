@@ -1,0 +1,12 @@
+Description:
+Used in lithium batteries.
+
+Text:
+Although several multiscale models
+and advanced computational methods have been developed in the last decades, further
+work is required to expand their implementations in systems like lithium batteries.9
+One of the top promising materials considered for lithium battery anodes is silicon,
+mainly due to its large theoretical capacity (3579 mAhg) and natural abundance.10,11 The
+main drawback of this electrode is the large volume expansion it suffers during charge,
+which provokes fractures and loss of electrical contact with the corresponding hindrance
+in performance and useful life.

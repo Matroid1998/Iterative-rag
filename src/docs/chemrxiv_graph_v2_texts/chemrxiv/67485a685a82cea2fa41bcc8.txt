@@ -1,0 +1,11 @@
+Description:
+Known to form carbides and have an affinity for carbon.
+
+Text:
+However, the eCVD of iron, cobalt, and nickel films were heavily contaminated by 
+carbon,5 most likely emanating from the cyclopentadienyl (C5H5, Cp) ligands. While these 
+metals are known to form carbides and have an affinity for carbon,6 preventing carbon 
+containing species from the metallocene decomposition to interact with the film surface is likely 
+the key to reduce the carbon contamination when using metallocenes as the precursor. We 
+envision that the carbon contamination originates from incomplete FeCp2 decomposition on the 
+film surface, redeposition of byproducts andor from plasma volume decomposition.

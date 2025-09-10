@@ -1,0 +1,19 @@
+Description:
+Highly paramagnetic cation used in magnetic resonance imaging (MRI).
+
+Text:
+Complexes of the highly 
+paramagnetic Gd(III) cation are wellestablished in 
+magnetic resonance imaging (MRI), and 177Lu(III) is well
+established for ultrasensitive radioimaging as well as 
+radiotherapy.5c,6d 
+However, a major challenge with applications of 
+lanthanide luminescence is the darkness of the 4f4f 
+transition that gives rise to the emissive excited state. Since 
+the transition is Laporte forbidden, it can only be 
+significantly populated via intersystem crossing from a 
+separate chromophore  an antenna.7 This wellknown 
+antenna effect can at the same time be viewed as a limitation 
+and an opportunity; while the strict distance dependence is 
+a limiting factor in probe emitter design, it can also be used 
+to construct dynamic and switchable sensors.

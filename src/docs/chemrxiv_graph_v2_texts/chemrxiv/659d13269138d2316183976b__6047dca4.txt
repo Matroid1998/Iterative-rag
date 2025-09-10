@@ -1,0 +1,42 @@
+Description:
+A metal that is a component of zinc-dependent histone deacetylases, which are enzymes involved in chromatin remodeling.
+
+Text:
+Histone deacetylases (HDACs) are enzymes that catalyze the removal of the acetyl group from the lysine 
+residue of histone protein leading to condensed chromatin structures, a process that suppresses 
+transcription 1. The histone deacetylase family is classified into four classes. Eleven zinc dependent 
+HDACs have been identified so far and constitute class I, class II and class IV of the family with 
+HDAC11 being the only member of class IV 2. There is growing evidence that HDAC11 is implicated 
+in various pathophysiological processes 3, 4 including various carcinomas 48. These findings 
+establish HDAC11 as a potential target for anticancer therapeutics. Few selective HDAC11 inhibitors have been reported in literature.
+
+
+---
+
+Description:
+An element that can bind with hydroxamic acid moieties in inhibitors.
+
+Text:
+FT895 is a hydroxamic acid based 
+HDAC11 selective inhibitor that was reported by Forma Therapeutics 9 and could significantly reduce 
+nonsmall cell lung cancer cells viability 10. Recently, Bai et al. reported the development of PB94, 
+which also bears a hydroxamic acid moiety as zinc binding group and demonstrated beneficial effect in a 
+neuropathic pain mouse model 11. Since the defattyacylase activity of HDAC11 is confirmed 12, 13, 
+the ability of HDAC11 to accommodate longer alkyl chain was exploited for the design and development 
+of selective inhibitors as the alkyl hydrazide derivative SIS17 which bears a 16 carbon long alkyl chain 
+14 and the natural product trapoxin A analogue TD034 15. Currently, there is no crystal structure reported for HDAC11.
+
+
+---
+
+Description:
+An ion used in the optimization of the HDAC11 AlphaFold model.
+
+Text:
+However, AlphaFold models demonstrated worse performance in several studies when assessed for 
+docking or virtual screening in comparison to their corresponding crystal structures 2226 which 
+suggests that further refinement is required for AlphaFold models prior to utilization for the aim of drug 
+design and discovery. We previously optimized the HDAC11 AlphaFold model 16 by docking the zinc ion into the protein 
+model followed by minimization in presence of HDAC11 inhibitors which were also found co
+crystallized with HDAC8. Moreover, we showed that the optimized model could be successfully used for 
+docking of HDAC11 selective inhibitors as FT895 and SIS17.

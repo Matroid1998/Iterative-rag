@@ -1,0 +1,39 @@
+Description:
+A type of base that pairs with purine bases in Watson-Crick base pairing within RNA structures.
+
+Text:
+While proteins are made mostly of Lamino ac
+ids, nucleic acids often contain Dribose sugars.12 Many of the 
+hypothesis that address this predominance stems from the the
+ories of the origin of life.35 One such hypothesis states that in 
+the RNA world, preceding the modern protein world, chiral 
+amino acids worked as chaperons for RNA folding and func
+tions.68 It is also assumed that in the evolution of amino acid 
+and proteinbased biological machinery that succeeded RNA 
+world, the interaction of amino acids and RNA motifs could 
+also play a role in the above chiral predominance.89 
+RNA tetraloop hairpins are a special type of treedimensional 
+motifs where the majority of bases in an RNA structure belong 
+to the paired regions (Watson  Crick base pairing between pu
+rine and pyrimidine bases in a given sequence) forming the 
+stem part of RNA while the unpaired region having a specific 
+sequence forms the loop part of the RNA.10 The stability, sim
+ilarity, structural features and probable interactions between 
+different hairpin structures are studied and compared using var
+ious experimental techniques such as NMR and various other 
+absorption spectroscopic studies.1115 The significant feature of 
+these types of motifs involves spontaneous transitions between 
+native folded states to form various misfolded and elongated 
+singlestranded structures.1619 The role and dynamics of these 
+structural motifs in various recognition processes are exten
+sively evaluated by various experimental methods for 
+understanding various transition states and RNA folding path
+ways.10, 2025 The recent FRET experimental studies26 on GAAA 
+tetraloop structures show that the kinetics and thermodynamics 
+of events associated with foldingunfolding equilibria is highly 
+influenced by various complexities of amino acids.2728 The ar
+guments based on theories related to chiral amino acidbased 
+origin of life are validated to an extent by various studies that 
+specify that the energetics and kinetics are altered in the pres
+ence of amino acids from the secondary to tertiary level of in
+teractions in RNA motifs27.

@@ -1,0 +1,35 @@
+Name: Amphotericin B
+Text:
+Amphotericin b is a bright yellow powder. (NTP, 1992)
+Amphotericin B is a macrolide antibiotic used to treat potentially life-threatening fungal infections. It has a role as an antiprotozoal drug, a bacterial metabolite and an antiamoebic agent. It is a macrolide antibiotic, a polyene antibiotic and an antibiotic antifungal drug.
+Amphotericin B is an antifungal prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of several types of fungal infections, such as histoplasmosis and cryptococcosis. Amphotericin B is also FDA-approved for the treatment of leishmaniasis, which is a parasitic infection. The FDA-approved uses for amphotericin B vary depending on the formulation of the drug.
+Many of the infections for which amphotericin B treatment is FDA-approved can be opportunistic infections (OIs) of HIV.
+Amphotericin B shows a high order of in vitro activity against many species of fungi. Histoplasma capsulatum, Coccidioides immitis, Candida species, Blastomyces dermatitidis, Rhodotorula, Cryptococcus neoformans, Sporothrix schenckii, Mucor mucedo, and Aspergillus fumigatus are all inhibited by concentrations of amphotericin B ranging from 0.03 to 1.0 mcg/mL in vitro. While Candida albicans is generally quite susceptible to amphotericin B, non-albicans species may be less susceptible. Pseudallescheria boydii and Fusarium sp. are often resistant to amphotericin B. The antibiotic is without effect on bacteria, rickettsiae, and viruses.
+Amphotericin b is a Lipid-based Polyene Antifungal and Polyene Antifungal.
+Amphotericin b has been reported in Trichoderma brevicompactum, Trichoderma virens, and other organisms with data available.
+Amphotericin B is a polyene antifungal antibiotic produced by Streptomyces nodosus, with antifungal activity. Amphotericin B binds to ergosterol, an essential component of the fungal cell membrane, thereby causing depolarization of the membrane and altering cell membrane permeability. This leads to leakage of important intracellular components, cell rupture, and eventually cell death. This agent may also induce oxidative damage in fungal cells and has been reported to stimulate host immune cells.
+Liposomal Amphotericin B is a liposome-encapsulated formulation of the polyene antifungal antibiotic amphotericin B produced by the bacterium Streptomyces nodosus with antifungal activity. Amphotericin B binds to ergosterol, an essential component of the fungal cell membrane, and alters cell membrane integrity, resulting in leakage of intracellular components and cell rupture. This agent may also induce oxidative damage in fungal cells and has been reported to stimulate host immune cells. Compared to amphotericin B alone, liposomal delivery of amphotericin B allows for a greater drug concentration in target tissues while decreasing systemic side effects.
+AMPHOTERICIN B is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1964 and has 10 approved and 19 investigational indications. This drug has a black box warning from the FDA.
+Macrolide antifungal antibiotic produced by Streptomyces nodosus obtained from soil of the Orinoco river region of Venezuela.
+Properties:safety: Irritant
+smiles: C[C@H]1/C=C/C=C/C=C/C=C/C=C/C=C/C=C/[C@@H](C[C@H]2[C@@H]([C@H](C[C@](O2)(C[C@H](C[C@H]([C@@H](CC[C@H](C[C@H](CC(=O)O[C@H]([C@@H]([C@@H]1O)C)C)O)O)O)O)O)O)O)C(=O)O)O[C@H]3[C@H]([C@H]([C@@H]([C@H](O3)C)O)N)O
+formula: C47H73NO17
+chem_properties: Molecular Weight: 924.1 g/mol
+XLogP3: 0
+Hydrogen Bond Donor Count: 12
+Hydrogen Bond Acceptor Count: 18
+Rotatable Bond Count: 3
+Exact Mass: 923.48784986 Da
+Monoisotopic Mass: 923.48784986 Da
+Topological Polar Surface Area: 320
+Heavy Atom Count: 65
+Formal Charge: 0
+Complexity: 1670
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 19
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 7
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,14 @@
+Description:
+A hexagonal structure type related to the ordered ZrNiAl.
+
+Text:
+The equiatomic ternary phases represent one of the most populated 
+intermetallic structural family, with the orthorhombic TiNiSi (ordered 
+Co2Si) and the hexagonal ZrNiAl (ordered Fe2P) structure types as the 
+most prolific structures, encompassing over 69 of all reported 
+equiatomic phases regardless of the compositions.1 In particular, 
+some representatives with the TiNiSi type structure can be described 
+as electron precise Zintl phase like CaMgGe, EuMgGe and CaAgSb 
+with 8 valence electron per formula unit (8 ve f.u). 24 In contrast, 
+the electron poorer analogue CaMgGa (7 ve f.u) adopts rather the 
+ZrNiAl type structure.

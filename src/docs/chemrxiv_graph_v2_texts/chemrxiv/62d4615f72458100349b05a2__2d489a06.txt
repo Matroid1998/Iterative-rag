@@ -1,0 +1,31 @@
+Description:
+Undergoes photooxidation to benzaldehyde in the photocatalytic production of hydrogen peroxide.
+
+Text:
+Heterogeneous photocatalysis represents a vibrant research field13 with possible applications 
+ranging from water detoxification4 to solar fuel generation5 and chemical synthesis.68 Due to 
+its simplicity, selective photooxidation of benzyl alcohols is often employed in photocatalysis 
+as a model reaction for evaluation of the performance of various photocatalysts.915 A 
+prominent example is the photocatalytic production of hydrogen peroxide, an attractive high
+value compound that can be employed as a fuel or a versatile and nontoxic oxidizing agent 
+in various industrial processes, via reduction of dioxygen with concomitant photooxidation of 
+benzyl alcohol to benzaldehyde.1618 As a rule, a blank test intended to confirm the 
+photocatalytic nature of the reaction is performed by irradiating the solution of benzyl alcohol 
+or other electron donor in the absence of photocatalyst, thus ruling out possible photochemical 
+reactions which the substrate might undergo.
+
+
+---
+
+Description:
+Undergoes oxidation to benzaldehyde in the presence of a TiO2 photocatalyst and irradiation.
+
+Text:
+The same experiments performed in the 
+presence of a TiO2 photocatalyst showed that benzaldehyde was produced immediately upon 
+starting irradiation; however, when the TiO2 photocatalysts was extracted after a certain time 
+interval, the benzyl alcohol oxidation clearly proceeded further and the benzaldehyde 
+concentration continued to grow. In other words, one can assume that the formed 
+benzaldehyde initiated a photochemical reaction with benzyl alcohol leading to the oxidation 
+of the latter according to the mechanism adapted from Bradshaw21, Heyes22 and Pavan20 and 
+shown in Scheme 1.

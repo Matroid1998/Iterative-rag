@@ -1,0 +1,11 @@
+Description:
+Redox-active compounds that tend to be oxygen-sensitive.
+
+Text:
+quinones, redoxactive amines).15,20,21 Redoxtechniques tend to have a more limited cyclelife, and frequently 
+involve high cost materials such as carbon nanotubebased electrodes, redoxactive specialty polymers, copper, special 
+amines, and ionic liquids. Quinones and amines tend to be oxygensensitive. Electrochemical methods based on pHswings, 
+e.g. membranecapacitive deionization (MCDI),22 electrolysis,23 and bipolar membrane electrodialysis (BPMED),24 have also 
+been reported. However, MCDI require expensive materials such as cation and anionexchange membranes. Electrolysis and 
+BPMED capture methods also require cation and anion exchange membranes and have high energy consumption (300 
+kJ.mol1).5,15

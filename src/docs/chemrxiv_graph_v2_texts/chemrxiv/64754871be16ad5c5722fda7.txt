@@ -1,0 +1,8 @@
+Description:
+Has a lower boiling point compared to other similar molecules, possibly due to its smaller molecular weight.
+
+Text:
+It is experimentally known that the boiling point of trimethylamine 
+is lower than that of the other two molecules. Readers with a background in chemistry may intuitively 
+conclude that the lower boiling point of trimethylamine is due to its smaller molecular weight. However, for readers without a background in chemistry or AI algorithms, identifying the factors that 
+determine boiling points from merely three data points would be challenging. One could posit that the

@@ -1,0 +1,32 @@
+Description:
+A ternary halide with ionic conductivity of 1 x 10^-3 S/cm.
+
+Text:
+Solidstate electrolytes for allsolidstate batteries (ASSBs) are intensively researched in recent 
+years, due to the improved safety they offer compared to liquid electrolytes and because they 
+may enable alternative electrodes1. In 2018, Asano et al.2 reported that the ternary halides 
+Li3YCl6 and Li3YBr6 have ionic conductivities of 1 103 Scm and showcased ASSBs with 
+coulombic efficiencies of 94 using (uncoated) LiCoO2 as the active material in the cathode 
+composite. Since then, the material family Li3M(III)X6 (M(III) Y, In, Sc, Lanthanides; XCl, 
+Br, I)) and other halide solid electrolytes have gained renewed interest in the scientific 
+community due to their favorable combination of ionic conductivity (mScm) and 
+highvoltage cathode compatibility. More recently, Zhou et al.3 reached a milestone in the 
+development of ASSBs using a Li2InxSc0.66xCl4 electrolyte.
+
+
+---
+
+Description:
+Part of a compositional tieline with Li3YBr6, used to enhance ionic conductivity.
+
+Text:
+The ASSB with this electrolyte 
+possessing a 2103 Scm ionic conductivity and a 4.71010 Scm electronic conductivity, 
+reached 3000 cycles at 80 capacity retention when cycled between 2.8  4.3V vs. LiLi using 
+LiNi0.85Co0.1Mn0.05O2 as cathode (6.21 mgcm2) at 3C3. Considering these promising results, 
+further improvements and fundamental understanding of such electrolytes may accelerate the 
+development of practical ASSBs. A strategy that has been successfully employed to tune the ionic conductivity of Li3M(III)X6 
+materials is halogen substitution49. Specifically for the compositional tieline between Li3YCl6 
+and Li3YBr6, the Li3YBr3Cl3 composition was shown to have a 7.2 103 Scm ionic 
+conductivity at room temperature (compared to the 1 103 Scm of the full 
+Li3YCl6Li3YBr62). Based on thermodynamic phase equilibrium calculations it has been

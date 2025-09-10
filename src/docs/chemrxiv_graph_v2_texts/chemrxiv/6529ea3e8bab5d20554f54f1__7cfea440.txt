@@ -1,0 +1,46 @@
+Description:
+Involved in transition metal-catalyzed transfer to transform structural moieties into nitrogen-containing building blocks.
+
+Text:
+The presence of nitrogen functional groups in pharmaceuticals, agrochemicals, and natural products is essential 
+to their beneficial physiochemical and biological properties.1,2 This importance of the carbonnitrogen bond has 
+long inspired organic chemists to devise new methods for expedited and precise installation of nitrogen into 
+compounds, advancements with significant potential to contribute to the identification and expansion of new 
+chemical space. Toward this goal, transition metalcatalyzed nitrene transfer (NT) has emerged as an elegant 
+strategy that directly transforms ubiquitous structural moieties, including olefins and CH bonds, into valuable 
+nitrogencontaining building blocks.
+
+
+---
+
+Description:
+Inserts into alkenes to form aziridines.
+
+Text:
+Chief among these are aziridines, resulting from nitrene insertions into alkenes, 
+which are wellknown for their frequent occurrence in natural products and bioactive molecules, as well as their 
+synthetic utility.3,4 The reactivity of these smallest Nheterocycles is mainly attributed to their strained nature that 
+leads to a high propensity to undergo ringopening and ringexpansion processes, often with excellent regiocontrol 
+and stereochemical integrity of the newly created stereogenic center(s).37 Therefore, aziridines are exceptionally 
+versatile and efficient intermediates for olefin difunctionalization, as well as the construction of higher order 
+heterocyclic scaffolds that feature prominently among medicinal chemists most desirable synthetic targets.819 
+ Due to the potential of alkene aziridination to introduce structural and stereochemical complexity from feedstock 
+starting materials, the development of enantioselective aziridination strategies via NT is of key importance in 
+organic synthesis.
+
+
+---
+
+Description:
+Precursors used in catalytic systems for asymmetric aziridinations.
+
+Text:
+Early work by Evans and Jacobsen reported asymmetric intermolecular aziridinations with 
+copper salts supported by chiral bis(oxazoline) (BOX)20 and chiral diaminebased ligands21, respectively (Scheme 
+1A). Although satisfactory yields and ee were observed with only a few select substrates, these results stimulated 
+the discovery of several catalytic systems for both asymmetric inter and intramolecular aziridinations that employ 
+a variety of other metals, ligand scaffolds, and nitrene precursors.7,2224 Despite remarkable advances in both 
+generality and efficiency, most of these methods, especially for intermolecular reactions, give the best results for 
+terminal, styrenebased, and other conjugated olefins. In contrast, intramolecular aziridinations via NT exhibit 
+superior reactivity and stereoselectivity with internal and unactivated olefins, yet have received much less attention 
+(Scheme 1B).

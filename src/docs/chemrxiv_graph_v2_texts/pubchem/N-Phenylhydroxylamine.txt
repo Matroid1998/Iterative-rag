@@ -1,0 +1,26 @@
+Name: N-Phenylhydroxylamine
+Text:
+N-phenylhydroxylamine appears as tan to brown crystals. (NTP, 1992)
+N-phenylhydroxylamine is an N-substituted amine that is a derivative of aniline in which one of the amino hydrogen atoms is replaced with a hydroxy substituent.
+Properties:safety: Acute Toxic
+smiles: C1=CC=C(C=C1)NO
+formula: C6H7NO
+chem_properties: Molecular Weight: 109.13 g/mol
+XLogP3: 0.8
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 109.052763847 Da
+Monoisotopic Mass: 109.052763847 Da
+Topological Polar Surface Area: 32.3
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 59.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

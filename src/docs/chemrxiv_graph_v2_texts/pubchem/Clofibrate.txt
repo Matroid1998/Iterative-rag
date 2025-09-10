@@ -1,0 +1,34 @@
+Name: Clofibrate
+Text:
+Clofibrate can cause cancer according to state or federal government labeling requirements.
+Clofibrate is the ethyl ester of clofibric acid. It has a role as an anticholesteremic drug, an antilipemic drug, a geroprotector and a PPARalpha agonist. It is an aromatic ether, a member of monochlorobenzenes and an ethyl ester. It is functionally related to a clofibric acid.
+A fibric acid derivative used in the treatment of hyperlipoproteinemia type III and severe hypertriglyceridemia. (From Martindale, The Extra Pharmacopoeia, 30th ed, p986)
+Clofibrate is a fibric acid derivative used in the therapy of hypertriglyceridemia and dyslipidemia. Clofibrate therapy is associated with mild and transient serum aminotransferase elevations and with rare instances of acute liver injury.
+Clofibrate has been reported in Camellia sinensis with data available.
+Clofibrate is an aryloxyisobutyric acid derivate with antihyperlipidemic activity. Although the exact mechanism of action has not been fully characterized, clofibrate may enhance the conversion of very-low-density lipoprotein (VLDL) to low-density lipoprotein (LDL), decreasing the production of hepatic VLDL, inhibiting cholesterol production, and increasing fecal excretion of neutral sterols.
+CLOFIBRATE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1967 and is indicated for cardiovascular disease and has 2 investigational indications.
+A fibric acid derivative used in the treatment of hyperlipoproteinemia type III and severe hypertriglyceridemia.
+A fibric acid derivative used in the treatment of HYPERLIPOPROTEINEMIA TYPE III and severe HYPERTRIGLYCERIDEMIA. (From Martindale, The Extra Pharmacopoeia, 30th ed, p986)
+See also: Clofibric Acid (has active moiety).
+Properties:safety: Corrosive and Irritant
+smiles: CCOC(=O)C(C)(C)OC1=CC=C(C=C1)Cl
+formula: C12H15ClO3
+chem_properties: Molecular Weight: 242.70 g/mol
+XLogP3: 3.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 5
+Exact Mass: 242.0709720 Da
+Monoisotopic Mass: 242.0709720 Da
+Topological Polar Surface Area: 35.5
+Heavy Atom Count: 16
+Formal Charge: 0
+Complexity: 232
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

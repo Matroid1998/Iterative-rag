@@ -1,0 +1,25 @@
+Name: N,N-Diisopropylethylamine
+Text:
+N,N-Diisopropylethylamine (DIPEA) is a tertiary amino compound.
+Properties:safety: Flammable and Corrosive and Acute Toxic and Irritant
+smiles: CCN(C(C)C)C(C)C
+formula: C8H19N
+chem_properties: Molecular Weight: 129.24 g/mol
+XLogP3: 2.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 3
+Exact Mass: 129.151749610 Da
+Monoisotopic Mass: 129.151749610 Da
+Topological Polar Surface Area: 3.2
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 59
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

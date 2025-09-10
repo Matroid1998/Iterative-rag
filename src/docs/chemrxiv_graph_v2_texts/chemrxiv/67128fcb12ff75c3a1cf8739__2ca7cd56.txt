@@ -1,0 +1,13 @@
+Description:
+Involved in electrocatalytic hydrogen evolution reactions.
+
+Text:
+Electrification of the petrochemical industry has the potential to significantly reduce greenhouse 
+gas emissions in the manufacturing of commodity chemicals; however, electrification on a global scale 
+is only achievable using earthabundant materials for electrocatalysis in place of stateoftheart catalysts 
+made from precious metals. Nickel phosphide (Ni2P) is a promising earthabundant catalyst that has 
+been used for industrial hydrodesulfurization,1,2 as well as electrocatalytic hydrogen evolution,3,4 nitrate 
+reduction,5 carbon dioxide reduction,6 and oxygen evolution.7,8 Ni2P and other transition metal 
+phosphides benefit from active site ensembles that moderate the binding of reaction intermediates 
+compared to their pure metal counterparts.3,9 This makes metal phosphides promising electrocatalysts 
+for reactions beyond those listed, especially for other hydrogenation reactions.

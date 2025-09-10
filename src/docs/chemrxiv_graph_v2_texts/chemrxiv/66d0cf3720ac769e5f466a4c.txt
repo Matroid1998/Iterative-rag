@@ -1,0 +1,15 @@
+Description:
+Parts of the target in DNA used to decompose binding energy.
+
+Text:
+The latter includes molecular dock
+ing, molecular dynamics simulations (MD),1 and molecular mechanics in combination with
+PoissonBoltzmann or generalized Born surface area methods (MMPBSA and MMGBSA,
+respectively). Molecular docking is employed to propose molecular complexes between lig
+ands and a biological target, while MD is used to simulate the time evolution of the system
+and to sample the conformations of each ligand within the target.2 From the sampled con
+formations, MMPBSA or MMGBSA are used to estimate the binding free energy between
+the ligands and the target and to decompose the binding energy into separate contributions
+from each part of the target, like amino acids or nucleotides in the case of proteins and DNA,
+respectively. Interaction fingerprints (IFPs) are used to condense the information from the ligand
+binding.

@@ -1,0 +1,39 @@
+Description:
+Forms structures such as the glitter structure with tetragonal hexacarbon C6.
+
+Text:
+It is relevant to observe interconnectedness between solid state and organic domains regarding the 
+chemistry of carbon. Inspired from 2D 1,4cyclohexadiene planar molecule (Fig. 1a) was enclosed 
+in the so called glitter structure with tetragonal hexacarbon C6, thus mirroring the molecule in a 
+crystal 1. The structure shown in Fig. 1b consists of cornersharing tetrahedra of C(sp3) white 
+spheres in the a,b plane, connected by CC double bonds along cdirection. The crystal data 
+detailed in Table 1 point to a distorted tetrahedron with angles departing from the perfect 
+tetrahedron angle CCC  109.47 found, for instance, in methane CH4 or diamond. Due to the 
+two kinds of connectivity (Fig.
+
+
+---
+
+Description:
+A simple dense allotrope with 3D periodicity.
+
+Text:
+1c obtained after geometry optimization onto the ground state with quantum 
+mechanical calculations based on the density functional theory DFT 3 is described in the 
+tetragonal system (cf. Table 1). However, such tetrahedron was found less cohesive, explained by 
+the lack of 3D periodicity. Additional carbon at 0,0,0 (corner positions, Fig. 1d) let gain 3D 
+periodicity with cornersharing tetrahedra in all directions. The resulting tetC4 was found as 
+cohesive as diamond 4 and equally characterized with unique interatomic distance and angle as 
+shown in Table 1. Our proposition of a very simple dense carbon allotrope, i.e.
+
+
+---
+
+Description:
+Forms allotropes with large stoichiometries such as C16, C24, and C36.
+
+Text:
+with four atoms in a bodycentered 
+tetragonal unit cell (Z2), knowing that diamond has facecentered cubic unit cell (Z4), is 
+challenging in view of the recently predicted carbon allotropes of large stoichiometries (C16, C24 
+and C36 57).

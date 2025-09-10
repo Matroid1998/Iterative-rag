@@ -1,0 +1,29 @@
+Name: Opicapone
+Text:
+Opicapone is a ring assembly and an oxadiazole.
+Opicapone is a potent, reversible, and peripherally-acting third-generation inhibitor of catechol-o-methyltransferase (COMT), an enzyme involved in the breakdown of various catecholamines including dopamine. Many patients with Parkinson’s disease treated with levodopa plus a dopa decarboxylase (DDC) inhibitor (eg carbidopa) experience motor complications over time, which calls for the management of these symptoms through the use of a dopamine agonist, a monoamine oxidase B inhibitor (selegiline, rasagiline), a catechol-O-methyl transferase (COMT) inhibitor, or amantadine, or using a modified-release formulation of levodopa.   Opicapone is used for adjunct therapy to levodopa and carbidopa in adult patients with Parkinson's disease and end-of-dose motor fluctuations. Opicapone was approved for use by the European Commission in June 2016 and the FDA in April 2020. It is marketed under the brand name Ongentys as once-daily oral capsules. Exhibiting a long duration of action that exceeds 24 hours, opicapone can be administered once-daily and demonstrates the lowest risk for cytotoxicity compared to other catechol-O-methyltransferase inhibitors.
+Opicapone is a Catechol-O-Methyltransferase Inhibitor. The mechanism of action of opicapone is as a Catechol O-Methyltransferase Inhibitor.
+Opicapone is a catechol-O-methyltransferase inhibitor that is used as adjunctive therapy to levodopa/carbidopa in patients with Parkinson disease experiencing difficulty with “off” episodes when motor symptoms breakthrough on treatment. Opicapone has been associated with a minimal rate of serum enzyme elevations during therapy and has not been linked to cases of clinically apparent liver injury with jaundice.
+OPICAPONE is a small molecule drug with a maximum clinical trial phase of IV that was first approved in 2020 and is indicated for parkinson disease.
+Properties:safety: Flammable
+smiles: CC1=C(C(=[N+](C(=C1Cl)C)[O-])Cl)C2=NOC(=N2)C3=CC(=C(C(=C3)O)O)[N+](=O)[O-]
+formula: C15H10Cl2N4O6
+chem_properties: Molecular Weight: 413.2 g/mol
+XLogP3: 3.4
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 2
+Exact Mass: 411.9977394 Da
+Monoisotopic Mass: 411.9977394 Da
+Topological Polar Surface Area: 151
+Heavy Atom Count: 27
+Formal Charge: 0
+Complexity: 557
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

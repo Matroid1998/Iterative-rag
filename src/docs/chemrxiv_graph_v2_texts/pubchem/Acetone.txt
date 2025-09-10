@@ -1,0 +1,31 @@
+Name: Acetone
+Text:
+Acetone is a manufactured chemical that is also found naturally in the environment. It is a colorless liquid with a distinct smell and taste. It evaporates easily, is flammable, and dissolves in water. It is also called dimethyl ketone, 2-propanone, and beta-ketopropane. Acetone is used to make plastic, fibers, drugs, and other chemicals. It is also used to dissolve other substances. It occurs naturally in plants, trees, volcanic gases, forest fires, and as a product of the breakdown of body fat. It is present in vehicle exhaust, tobacco smoke, and landfill sites. Industrial processes contribute more acetone to the environment than natural processes.
+Acetone appears as a clear colorless liquid with a sweetish odor. Flash point 0 °F. Less dense than water. Vapors are heavier than air. Used as a solvent in paint and nail polish removers.
+Acetone is a methyl ketone that consists of propane bearing an oxo group at C2. It has a role as a polar aprotic solvent, a human metabolite and an EC 3.5.1.4 (amidase) inhibitor. It is a methyl ketone, a ketone body, a volatile organic compound and a member of propanones.
+Acetone has been reported in Humulus lupulus, Angelica dahurica var. formosana, and other organisms with data available.
+Acetone is a colorless, volatile, flammable organic solvent.  Acetone occurs naturally in plants, trees, forest fires, vehicle exhaust and as a breakdown product of animal fat metabolism.  This agent may be normally present in very small quantities in urine and blood; larger amounts may be found in the urine and blood of diabetics.  Acetone is toxic in high doses. (NCI04)
+Acetone is one of the ketone bodies produced during ketoacidosis. Acetone is not regarded as a waste product of metabolism. However, its physiological role in biochemical machinery is not clear. A model for the role of acetone metabolism is presented that orders the events occurring in acetonemia in sequence: in diabetic ketosis or starvation, ketone body production (b-hydroxy-butyrate, acetoacetate) provides fuel for vital organs (heart, brain .) raising the chance of survival of the metabolic catastrophe. However, when ketone body production exceeds the degrading capacity, the accumulating acetoacetic acid presents a new challenge to the pH regulatory system. Acetone production and its further degradation to C3 fragments fulfill two purposes: the maintenance of pH buffering capacity and provision of fuel for peripheral tissues. Since ketosis develops under serious metabolic circumstances, all the mechanisms that balance or moderate the effects of ketosis enhance the chance for survival. From this point of view, the theory that transportable C3 fragments can serve as additional nutrients is a novel view of acetone metabolism which introduces a new approach to the study of acetone degradation, especially in understanding its physiological function and the interrelationship between liver and peripheral tissues. (A7724). Acetone is typically derived from acetoacetate through the action of microbial acetoacetate decarboxylases found in gut microflora. In chemistry, acetone is the simplest representative of the ketones. Acetone is a colorless, mobile, flammable liquid readily soluble in water, ethanol, ether, etc., and itself serves as an important solvent. Acetone is an irritant and inhalation may lead to hepatotoxic effects (causing liver damage).
+A colorless liquid used as a solvent and an antiseptic. It is one of the ketone bodies produced during ketoacidosis.
+Properties:safety: Flammable and Irritant
+smiles: CC(=O)C
+formula: C3H6O
+chem_properties: Molecular Weight: 58.08 g/mol
+XLogP3: -0.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 58.041864811 Da
+Monoisotopic Mass: 58.041864811 Da
+Topological Polar Surface Area: 17.1
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 26.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

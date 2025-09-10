@@ -1,0 +1,107 @@
+Description:
+Compounds that can be reduced via catalytic hydrogenation using molecular hydrogen to synthesize amine compounds.
+
+Text:
+Amines are key intermediates in the 
+chemical industry. Due to their nucleophilic 
+properties, they impart high reactivity1. Various amines, including primary, secondary, 
+and tertiary amines, are widely used to produce 
+agrochemicals, pharmaceuticals, dyes, and 
+polymers2. Primary amines, in particular, are 
+important raw materials for manufacturing 
+drugs, 
+pesticides, 
+emulsifiers, 
+and 
+plasticizers3. Currently, the methods for 
+synthesizing primary amines include reductive 
+amination 
+of 
+carbonyl 
+compounds4, 
+hydrogenation 
+of 
+nitro 
+compounds5, 
+amination of alcohols6, reduction of nitrile 
+compounds7, and Nalkylation of halogenated 
+compounds8. Among them, the catalytic 
+hydrogenation of nitrile compounds using 
+molecular hydrogen as a reducing agent has the 
+advantages of high atom economy9 and 
+a simple process and is a popular choice for the 
+industrial synthesis of amine compounds10. However, nitrile hydrogenation also has 
+disadvantages.
+
+
+---
+
+Description:
+Compounds involved in hydrogenation reduction using precious metals.
+
+Text:
+The hydrogenation mechanism 
+is complex as shown in Fig 1. The byproducts 
+include 
+partially 
+hydrogenated 
+nitrile 
+compounds, also known as imines, and 
+condensation 
+side 
+reactions 
+with 
+other 
+nucleophilic substances such as substrates in 
+the hydrogenation system to form secondary 
+and tertiary amines11, resulting in the problem 
+of low selectivity of the amination product in 
+the reaction12. It is still a huge challenge to 
+obtain primary amines with high selectivity. Precious metals such as Ru13, Pd14, Pt15, 
+Re16, etc. are more commonly used in nitrile 
+hydrogenation 
+reduction 
+and 
+some 
+heterogeneous 
+catalysts 
+have 
+superior 
+conversion effects17. However, the scarcity 
+and high cost of precious metals hinder their 
+widespread 
+industrial 
+application, 
+while 
+transition metals18, which are more abundant 
+in earth resources and have lower costs, have 
+come into the public eye19.
+
+
+---
+
+Description:
+Compounds that are usually hydrogenated by metal catalysts such as Ni and Co under harsh conditions.
+
+Text:
+However, metal contamination and 
+recycling issues of these catalytic systems limit 
+their commercial development and largescale 
+utilization. In heterogeneous catalytic systems, 
+metal catalysts such as Ni23 and Co24 usually 
+hydrogenate nitrile compounds under harsh 
+conditions25. From the perspective of green 
+chemistry and sustainable development, it is of 
+great significance to develop nonprecious 
+metal catalysts that can show high activity 
+under mild conditions.26 
+Recently, much more fit for the above 
+requirements 
+of 
+green 
+chemistry 
+and 
+sustainable development, the advanced flow 
+synthesis methodology attracted more and 
+more 
+attention.

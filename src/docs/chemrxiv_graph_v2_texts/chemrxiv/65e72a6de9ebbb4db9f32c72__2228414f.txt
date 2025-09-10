@@ -1,0 +1,66 @@
+Description:
+Converted into ammonia through the Haber-Bosch process requiring high temperature and pressure.
+
+Text:
+Ammonia (NH3) is one of the most produced chemicals in the
+world, with over 150 million metric tons being produced each year.1
+It is essential for the manufacturing of fertilizer needed to feed the
+growing world population.2,3 NH3 is also a potential carbonfree
+energy carrier, capable of storing surplus energy from renewable
+energy sources, a possible hydrogen carrier, and fuel.416
+The HaberBosch process is by far the most prevalent method for
+converting nitrogen (N2) into ammonia, but requires high temper
+ature (400650C) and pressure (200400atm) for industrial
+scale production of NH3.2,3,17,18 Finding a catalyst capable of
+producing ammonia more efficiently, or under more ambient con
+ditions, would be a major boon for the worlds population and cli
+mate, and could potentially even allow for decentralized, smaller
+scale production of fertilizer close to the point of use, reducing
+transportation costs and the need for distribution infrastructure.19
+The N2 molecule is especially inert, with a very stable triple
+bond, no dipole moment and very low polarizability.4 The N2
+dissociation to 2N is therefore often the ratelimiting step (RLS)
+in the chemical synthesis of NH3 from nitrogen via the dissocia
+tive pathway (see Fig.
+
+
+---
+
+Description:
+Requires a very reactive catalyst material and high temperature for activation in the nitrogen reduction reaction (N2RR).
+
+Text:
+1 for reaction scheme).5,6,2029 Hence, the
+a O. Christensen, A. Hutu, Dr. H. Kristoffersen, Prof. J. Ross
+meisl
+Center for High Entropy Alloy Catalysis(CHEAC), Department
+of Chemistry,University of Copenhagen, Universitetsparken 5,
+2100, Copenhagen (Denmark)
+Email jan.rossmeislchem.ku.dk
+main challenge for the nitrogen reduction reaction (N2RR) is to
+more easily activate nitrogen. The current industrial catalyst for
+HaberBosch is Febased. To activate nitrogen requires a very re
+active catalyst material and high temperature. This in turn requires
+high pressure, so the adsorbates stick to the surface long enough
+to react. However, the use of such highly reactive catalyst sur
+faces makes desorption of the products more difficult, leading to
+a compromise between the efficiency of the activation and desorp
+tion step of the N2RR process.
+
+
+---
+
+Description:
+Involved in electrocatalytic nitrogen reduction reactions.
+
+Text:
+HEAs have been shown to hold great potential for catalyst dis
+covery,3037,4150 having been investigated for many different re
+actions,48,5163 including electrocatalytic nitrogen reduction.6466
+However, previous investigations for N2RR on HEAs have either
+been experimental or have not calculated the dissociation barriers
+for the reaction. Knowing the activation energy is of utmost impor
+tance for properly evaluating activity compared to stateoftheart
+catalysts like Fe and Ru. The aim of this paper is to investigate highentropy alloys as a
+discovery platform for N2RR catalysts using theory and simula
+tions.

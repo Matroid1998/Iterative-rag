@@ -1,0 +1,15 @@
+Description:
+A light-driven molecular motor system.
+
+Text:
+To date, a number of lightdriven rotary motor types has been 
+introduced, most eminently overcrowded alkenes from the Feringa group,18, 37, 38 iminebased 
+motors from Greb and Lehn,39, 40 and hemithioindigo (HTI)based systems from our group.4148 
+More recent additions to lightdriven molecular motors inherit biomimetic chromophores49 or 
+heterocyclic alkenes.50, 51 Currently, incorporation of light driven molecular motors into larger 
+molecular setups is pursued in order to utilize the work that they can produce and to fulfill a specific 
+task.52 In this context the active disentanglement of polymer strands,53, 54 transmission of motor 
+rotation to remote entities,55 active acceleration of remote passive rotary motions,56 controlled 
+motor motion restrictions,57 or energy storage and subsequent triggered reverse motor rotation58 
+represent important steps to realize the full potential of molecular motors for driving advanced 
+nanomachinery.

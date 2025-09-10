@@ -1,0 +1,21 @@
+Description:
+Derived from cyclohexadiene with a 1-ring structure.
+
+Text:
+Aqueous redox flow batteries (ARFBs) have emerged as one of the most promising technologies for 
+lowcost and longterm storage of renewable energy as their unique design allows for independent 
+scaling of peak power and energy storage.1,2 Even though there are, mostly metalbased, ARFBs that 
+are commercially available today, the technology still faces obstacles that impede a widespread 
+deployment.36 ARFBs with organic active materials are progressively being investigated because of 
+their rich structural diversity that relate to tunable properties and raw material abundance that relate to 
+production scaleup.7,8 A promising family of electroactive materials for ARFBs is the quinonelike 
+cyclic dione compounds,913 which possess high electrochemical and chemical tunability11,14 as well 
+as rapid redox kinetics.911,15 Quinones are found to occur naturally16 and are also mass produced for 
+application in the chemical and pharmaceutical industries.17,18 
+The battery relevant properties of quinones, including redox potential, solubility, and stability, 
+need improvements for the future commercial use of these compounds.8,19,20 To this end, a number of 
+recent studies have employed highthroughput virtual screening (HTVS) methods to partially explore 
+the vast chemical space of quinones, which were derived mostly from cyclohexadiene and its fused 
+derivatives, such as benzoquinones (1ring), naphthoquinones (2rings), anthraquinones (3rings),2125 
+or from naturally occurring quinones.26 The HTVS approach generally begins with creation of a 
+comprehensive virtual library of candidate molecules.

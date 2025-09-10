@@ -1,0 +1,19 @@
+Description:
+A skeleton used in the development of blue-light-emitting multiple resonance thermally activated delayed fluorescence materials.
+
+Text:
+Encouragingly, the 
+advent of B,Ncontaining multiple resonance thermally activated delayed fluorescence (MR
+TADF) materials with rigid skeletons shows great prospects for UHD displays.3 The highest 
+occupied molecular orbital (HOMO) and lowest unoccupied molecular orbital (LUMO) of MR
+TADF molecules are alternately distributed on atoms of the rigid skeletons, forming MR 
+transitions with shortrange charge transfer (SRCT) states,4 coupled with bondingantibonding 
+characteristics, which suppress highfrequency vibrational coupling and relaxation, and 
+ultimately generate highefficiency and highcolorpurity TADF, fundamentally solving the 
+problem of narrowband emission.5 
+Early research on MRTADF materials focused on bluelightemitting analogsderivatives 
+derived from DABNA skeleton, while the exploration of longwavelength emitting materials 
+lagged behind, hindering the progress of panchromatic image displays.6 Later, with the birth 
+of skybluelightemitting star MR emitter BNCz (PL  481 nm, FWHM  22 nm),7 it bears a 
+highly tunable chemical structure and has become an important carrier for the development of 
+longwavelength MRTADF materials.

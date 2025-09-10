@@ -1,0 +1,20 @@
+Description:
+A substrate containing an amino group used in hyperpolarization studies.
+
+Text:
+SABREbased hyperpolar
+ization can be generated quickly (buildup of hyperpolariza
+tion in seconds compared to minuteshours for DNP) and,
+importantly, in situ inside NMR spectrometers 23,24. SABRE is based on spinorder transfer from parahydro
+gen (pH2)a nuclear spin isomer of hydrogen gas 25to
+a substrate of interest that can undergo reversible associ
+ation with a polarization transfer catalyst (PTC), see Fig
+ure 1a. For this study, we chose four substrates (with natu
+ral isotopic abundance of 13C and 15N nuclei) containing
+aminogroups
+benzylamine, phenylethylamine (phenethy
+lamine), 4aminopyridine, and ammonia (Fig. 1b). These
+molecules are present in various biological and industri
+ally important samples and their hyperpolarization and in
+situ detection by benchtop NMR spectroscopy would signif
+icantly accelerate the analysis.

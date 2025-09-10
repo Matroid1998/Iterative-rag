@@ -1,0 +1,20 @@
+Description:
+A gas that can be absorbed by liquid phase solvents like monoethanolamine or adsorbed by solid adsorbents.
+
+Text:
+Absorption technologies involve the absorption of CO2 by a liquid
+phase solvent,17 such as monoethanolamine (MEA),15 or ionic liquids.68,16 Adsorption 
+technologies use solid adsorbents to sequester CO2 by physically adsorbing it to the surface, i.e., 
+by Van der Waals interactions, or chemically adsorbing it to the surface, as is common in amine
+functionalized solids.914 
+One adsorbent material, Calgary Framework 20 (CALF20), is a MOF with excellent thermal 
+and hydrolytic stability, high CO2 capacity, and selectivity for CO2 over H2O and N2.1 CALF20 
+is stable to steam for more than 450,000 cycles1 and does not lose surface area after adsorbing 
+water at 175 C and 672 kPa.2 These features make it an attractive alternative to aminebased CO2 
+adsorbents, and as such, it has garnered significant attention in the literature.113 Specifically, 
+CALF20 is a Znbased MOF Zn2(1,2,4triazolate)2(oxalate), which is commercially scalable,1 
+and the hydrophobic nature of the surface eliminates the need for a drying step before CO2 
+capture.14 CALF20 adsorbs CO2 weakly, with a binding energy of around 35 kJmol,1 which in 
+many cases is lower than the binding energies of aminefunctionalized, chemisorptive MOFs (
+130 to 180 kJmol)15 thereby providing an energetic advantage during desorption when compared 
+httpsdoi.org10.26434chemrxiv2024x8shp ORCID httpsorcid.org0000000233936038 Content not peerreviewed by ChemRxiv.

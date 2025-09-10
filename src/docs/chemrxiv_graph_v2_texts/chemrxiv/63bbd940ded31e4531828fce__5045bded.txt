@@ -1,0 +1,15 @@
+Description:
+Explored as a cathode material in sodium-ion batteries.
+
+Text:
+Naion batteries (NIBs) are a technological analogue to Liion batteries (LIBs) but with several 
+competitive benefits,1 including economic benefits stemming from the low cost of sodium 
+resources and the possibility of employing Al as the anode current collector and chemical 
+benefits of the lower desolvation energy of Na in polar solvents and the better interfacial 
+kinetics at the electrodeelectrolyte interface, compared with Li.24 The large size of Na poses 
+a challenge for developing NIB cathodes that allow reversible Na intercalation and fast Na 
+diffusion.5, 6 Prussian blue analogues (PBAs) have been explored as a family of NIB cathodes.7
+9 The framework of Nafilled PBAs (NaPBAs), with a general formula NaxMFe(CN)61
+yzH2O (0  x  2, 0  y  1, z  2, M  transition metal), has large interstitial sites to 
+accommodate Na and directional channels for fast Na diffusion, as well as the structural 
+openness to realize small lattice strain during repetitive Na intercalation.

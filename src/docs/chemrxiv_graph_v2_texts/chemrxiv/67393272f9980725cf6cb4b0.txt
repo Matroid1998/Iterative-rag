@@ -1,0 +1,22 @@
+Description:
+Catalyst materials that demonstrate selectivity toward N2 formation in the ammonia oxidation reaction.
+
+Text:
+Chen)
+ORCID(s) 000000029810657X (R.M. Choueiri);
+0000000267060046 (S.W. Tatarchuk); 000000019700972X (L.D. Chen)
+1These authors contributed equally. N2(g)6 H2O(l)6 e2 NH3(g)6 OH(aq) (1)
+NO2
+(aq)5 H2O(l)6 eNH3(g)7 OH(aq) (2)
+NO3
+(aq)6 H2O(l)6 eNH3(g)9 OH(aq) (3)
+On the other hand, the ammonia oxidation reaction
+(AOR) allows us to electrochemically convert captured
+ammonia into NH4NO3 salts, providing the opportunity to
+increase gross profits and sustainability of the process.5
+Since some AOR catalysts materials, including Ptbased cat
+alysts and nickel oxides and hydroxides, have demonstrated
+selectivity toward N2 formation through reaction 1,6,7 it
+becomes critical to understand how the nature of the catalyst
+surface controls selectivity in order to design an AOR
+catalyst to convert ammonia into fertilizer.

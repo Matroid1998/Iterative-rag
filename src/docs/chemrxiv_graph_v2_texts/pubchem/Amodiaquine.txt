@@ -1,0 +1,31 @@
+Name: Amodiaquine
+Text:
+Amodiaquine is a quinoline having a chloro group at the 7-position and an aryl amino group at the 4-position. It has a role as an antimalarial, a non-steroidal anti-inflammatory drug, a drug allergen, a prodrug, an EC 2.1.1.8 (histamine N-methyltransferase) inhibitor and an anticoronaviral agent. It is a member of phenols, an aminoquinoline, a secondary amino compound, a tertiary amino compound and an organochlorine compound. It is a conjugate base of an amodiaquine(1+).
+A 4-aminoquinoquinoline compound with anti-inflammatory properties.
+Amodiaquine is an aminoquinoline used for the therapy of malaria. Amodiaquine has been linked to severe cases of acute hepatitis which can be fatal, for which reason it is recommended for use only as treatment and not for prophylaxis against malaria.
+Amodiaquine is an orally active 4-aminoquinoline derivative with antimalarial and anti-inflammatory properties. Similar in structure and activity to chloroquine, amodiaquine is effective against some chloroquine-resistant strains, particularly Plasmodium falciparum, the most deadly malaria parasite. Although the mechanism of plasmodicidal action has not been fully elucidated, like other quinoline derivatives, amodiaquine likely is able to inhibit heme polymerase activity in the body. This results in accumulation of free heme, which is toxic to the parasites.
+Amodiaquine Hydrochloride is the hydrochloride salt of amodiaquine, an orally active 4-aminoquinoline derivative with antimalarial and anti-inflammatory properties. Similar in structure and activity to chloroquine, amodiaquine is effective against some chloroquine-resistant strains, particularly Plasmodium falciparum, the most deadly malaria parasite. Although the mechanism of plasmodicidal action has not been fully elucidated, like other quinoline derivatives, amodiaquine likely is able to inhibit heme polymerase activity in the body. This results in accumulation of free heme, which is toxic to the parasites.
+AMODIAQUINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1982 and is indicated for malaria and has 5 investigational indications.
+A 4-aminoquinoline compound with anti-inflammatory properties.
+Properties:safety: Irritant
+smiles: CCN(CC)CC1=C(C=CC(=C1)NC2=C3C=CC(=CC3=NC=C2)Cl)O
+formula: C20H22ClN3O
+chem_properties: Molecular Weight: 355.9 g/mol
+XLogP3: 2.6
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 6
+Exact Mass: 355.1451400 Da
+Monoisotopic Mass: 355.1451400 Da
+Topological Polar Surface Area: 48.4
+Heavy Atom Count: 25
+Formal Charge: 0
+Complexity: 406
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

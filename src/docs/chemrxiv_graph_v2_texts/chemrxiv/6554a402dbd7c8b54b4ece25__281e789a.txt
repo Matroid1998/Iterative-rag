@@ -1,0 +1,85 @@
+Description:
+A purine with a single ligand that appears to be more photostable.
+
+Text:
+guanine(13) and isoguanine(14)) may be more photostable
+than the homosubstituted purines (2,6diaminopurine and xanthine(15, 16)), while purines
+with a single ligand (adenine,(17) 2AP,(18) 2oxopurine,(19) and hypoxanthine(20)) appear
+to be more photostable than most purines with two ligands. (13) MartinezFernandez et al. in a thorough computational study on the photostability effects of position and oxoamino
+substitution for purines with a single ligand,(19) found that amino or oxo substitution at C2
+has little effect on the photodynamics, while C6 functionalization leads to photostability. However, these general trends do not include details, such as the role of the solvent. A wellknown example of this structure dependence is the difference between
+adenine (6aminopurine), and its isomer 2aminopurine (2AP). 2AP has a strong
+fluorescence signature in aqueous solution, while adenine does not.
+
+
+---
+
+Description:
+In the gas phase, it has an excited-state lifetime of the order of single picoseconds or less.
+
+Text:
+Adenine in the gas
+phase has an excitedstate lifetime of the order of single picoseconds or less depending on
+the exact measurement technique,(4, 2125) with similar lifetimes reported in solution. (26)
+The lowest excited singlet state of adenine exhibits n character and significant 1n1
+mixing after initial excitation. (2631) Adenine undergoes aromatic ring puckering
+associated with C2H tilting and outofplane deformation at the C2N3 position to reach an
+S1S0 conical intersection (CI) with a barrier of about 0.1 eV, enabling relaxation to the
+electronic ground state. In contrast, Lobsiger et al. found isolated 2AP to have an
+excitedstate lifetime of 150 ps when excited near the excitation threshold, which is
+significantly longer than in the case of isolated adenine.
+
+
+---
+
+Description:
+The lowest excited singlet state exhibits n character and significant 1n1 mixing after initial excitation.
+
+Text:
+Adenine in the gas
+phase has an excitedstate lifetime of the order of single picoseconds or less depending on
+the exact measurement technique,(4, 2125) with similar lifetimes reported in solution. (26)
+The lowest excited singlet state of adenine exhibits n character and significant 1n1
+mixing after initial excitation. (2631) Adenine undergoes aromatic ring puckering
+associated with C2H tilting and outofplane deformation at the C2N3 position to reach an
+S1S0 conical intersection (CI) with a barrier of about 0.1 eV, enabling relaxation to the
+electronic ground state. In contrast, Lobsiger et al. found isolated 2AP to have an
+excitedstate lifetime of 150 ps when excited near the excitation threshold, which is
+significantly longer than in the case of isolated adenine.
+
+
+---
+
+Description:
+Undergoes aromatic ring puckering associated with C2H tilting and out-of-plane deformation at the C2N3 position to reach an S1S0 conical intersection with a barrier of about 0.1 eV.
+
+Text:
+Adenine in the gas
+phase has an excitedstate lifetime of the order of single picoseconds or less depending on
+the exact measurement technique,(4, 2125) with similar lifetimes reported in solution. (26)
+The lowest excited singlet state of adenine exhibits n character and significant 1n1
+mixing after initial excitation. (2631) Adenine undergoes aromatic ring puckering
+associated with C2H tilting and outofplane deformation at the C2N3 position to reach an
+S1S0 conical intersection (CI) with a barrier of about 0.1 eV, enabling relaxation to the
+electronic ground state. In contrast, Lobsiger et al. found isolated 2AP to have an
+excitedstate lifetime of 150 ps when excited near the excitation threshold, which is
+significantly longer than in the case of isolated adenine.
+
+
+---
+
+Description:
+Can relax via NH bond breaking at higher excitation energies.
+
+Text:
+(18) Furthermore, these authors
+observed another decay component with a lifetime of more than 2 s, attributed to a triplet
+state populated by intersystem crossing. The lifetime increases significantly upon
+microhydration near the amino group in the C2 position, i.e., up to a hundredfold compared
+to the isolated molecule. This increase presumably corresponds to the fluorescence decay
+noted for solvated 2AP. (3235)
+The excitedstate dynamics also depends on the irradiation wavelength, especially
+near excitation threshold (origin transition) where dynamics can be slow. In that case the
+dynamics can be hypersensitive to any barriers, which can modulate competing relaxation
+pathways. For instance, at higher excitation energies, adenine can also relax via NH bond
+breaking, which occurs in the 1 state.

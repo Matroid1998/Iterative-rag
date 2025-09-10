@@ -1,0 +1,24 @@
+Name: Oxetane-2-carboxylic acid
+Text:
+Properties:safety: Corrosive
+smiles: C1COC1C(=O)O
+formula: C4H6O3
+chem_properties: Molecular Weight: 102.09 g/mol
+XLogP3: -0.2
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 1
+Exact Mass: 102.031694049 Da
+Monoisotopic Mass: 102.031694049 Da
+Topological Polar Surface Area: 46.5
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 88.9
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

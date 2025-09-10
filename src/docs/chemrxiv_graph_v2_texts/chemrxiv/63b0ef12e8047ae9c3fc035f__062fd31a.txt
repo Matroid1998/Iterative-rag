@@ -1,0 +1,10 @@
+Description:
+Compounds formed through carbon-carbon bond-forming reactions with cyanoalkyl species.
+
+Text:
+Metalcyanomethyl complexes are the simplest examples of cyanoalkyl ligands and 
+are therefore a fundamental category of organometallic species. They can be formally viewed 
+as deprotonated acetonitrile complexes, and they have been shown to react as nucleophiles in 
+carboncarbon bondforming reactions to form nitrile compounds, but these uses are 
+hampered by the difficulty in forming the active cyanoalkyl species through direct CH bond 
+cleavage.1 While the robustness of acetonitrile towards CH activation hinders the use of this

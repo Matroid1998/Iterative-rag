@@ -1,0 +1,27 @@
+Description:
+A nonproteinogenic amino acid that is a reversible inhibitor of DNA replication and has antimicrobial, antifungal, antiviral, anticancer, and anti-inflammatory properties.
+
+Text:
+Mimosine, or bN(3hydroxy4oxypyridyl)aaminopropionic acid, is a nonproteinogenic amino
+acid found in the members of Mimosoideae clade.1 It has been found to be a reversible inhibitor
+of DNA replication because of its ability to strongly bind to metals in the active site of many
+enzymes.2 Based on this activity, mimosine has been reported to have antimicrobial, antifungal3
+and antiviral properties.4 Moreover, it has also found its way on therapeutic applications, showing
+anticancer activity5 and antiinammatory properties.6
+One of us recently proposed mimosine containing peptides as decorporation agents of Al(III),
+a recognized neurotoxin.7 This proposal is based on the structural similarity of mimosine to de
+feriprone (DFP), a drug used for Fe(II) removal that has also shown promising results on treating
+the accumulation of highvalent metal cations,8 such as Al(III) and Fe(III).
+
+
+---
+
+Description:
+A nonprotein amino acid studied for its influence on polypeptides using molecular dynamics simulations.
+
+Text:
+In this work we have studied the properties of mimosine and its inuence on polypeptides con
+taining it using atomistic molecular dynamics (MD) simulations. MD has become a standard tool
+for the characterization of structural propensities of peptides and disordered proteins in aqueous
+solution.11 However, for nonprotein amino acids like mimosine, parameters for running simula
+2

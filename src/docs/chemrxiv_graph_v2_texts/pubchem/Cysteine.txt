@@ -1,0 +1,34 @@
+Name: Cysteine
+Text:
+L-cysteine is an optically active form of cysteine having L-configuration. It has a role as a flour treatment agent, a human metabolite and an EC 4.3.1.3 (histidine ammonia-lyase) inhibitor. It is a serine family amino acid, a proteinogenic amino acid, a cysteine and a L-alpha-amino acid. It is a conjugate base of a L-cysteinium. It is a conjugate acid of a L-cysteinate(1-). It is an enantiomer of a D-cysteine. It is a tautomer of a L-cysteine zwitterion.
+A thiol-containing non-essential amino acid that is oxidized to form cystine.
+L-Cysteine is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Cysteine has been reported in Indigofera hirsuta, Punica granatum, and other organisms with data available.
+Cysteine is a non-essential sulfur-containing amino acid in humans, related to cystine, Cysteine is important for protein synthesis, detoxification, and diverse metabolic functions. Found in beta-keratin, the main protein in nails, skin, and hair, Cysteine is important in collagen production, as well as skin elasticity and texture. Also required in the manufacture of amino acid taurine, Cysteine is a component of the antioxidant glutathione, and plays a role in the metabolism of essential biochemicals such as coenzyme A, heparin, and biotin. (NCI04)
+CYSTEINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1986 and is indicated for liver disease and has 3 investigational indications.
+Cysteine is a uremic toxin.  Uremic toxins can be subdivided into three major groups based upon their chemical and physical characteristics: 1) small, water-soluble, non-protein-bound compounds, such as urea; 2) small, lipid-soluble and/or protein-bound compounds, such as the phenols and 3) larger so-called middle-molecules, such as beta2-microglobulin. Chronic exposure of uremic toxins can lead to a number of conditions including renal damage, chronic kidney disease and cardiovascular disease.
+Cysteine is a naturally occurring, sulfur-containing amino acid that is found in most proteins, although only in small quantities. Cysteine is unique amongst the twenty natural amino acids as it contains a thiol group. Thiol groups can undergo oxidation/reduction (redox) reactions; when cysteine is oxidized it can form cystine, which is two cysteine residues joined by a disulfide bond. This reaction is reversible: as reduction of this disulphide bond regenerates two cysteine molecules. The disulphide bonds of cystine are crucial to defining the structures of many proteins. Cysteine is often involved in electron-transfer reactions, and help the enzyme catalyze its reaction. Cysteine is also part of the antioxidant glutathione. N-acetyl-L-cysteine (NAC) is a form of cysteine where an acetyl group is attached to cysteine's nitrogen atom and is sold as a dietary supplement. Cysteine is named after cystine, which comes from the Greek word kustis meaning bladder - cystine was first isolated from kidney stones. As cysteine contains a sulphydryl group, it can undergo redox reactions. Oxidation of cysteine can produce a disulfide bond with another thiol, or further oxidation can produce sulphfinic or sulfonic acids. The cysteine thiol group is also a nucleophile and can undergo addition and substitution reactions. Thiol groups become much more reactive when they are ionized, and cysteine residues in proteins have pKa values close to neutrality, so are often in their reactive thiolate form in the cell. The thiol group also has a high affinity for heavy metals and proteins containing cysteine will bind metals such as mercury, lead and cadmium tightly. Due to this ability to undergo redox reactions, cysteine has antioxidant properties. Cysteine is an important source of sulfur in human metabolism, and although it is classified as a non-essential amino acid, cysteine may be essential for infants, the elderly, and individuals with certain metabolic disease or who suffer from malabsorption syndromes. Cysteine may at some point be recognized as an essential or conditionally essential amino acid. Cysteine is important in energy metabolism. As cystine, it is a structural component of many tissues and hormones. Cysteine has clinical uses ranging from baldness to psoriasis to preventing smoker's hack. In some cases, oral cysteine therapy has proved excellent for treatment of asthmatics, enabling them to stop theophylline and other medications. Cysteine also enhances the effect of topically applied silver, tin and zinc salts in preventing dental cavities. In the future, cysteine may play a role in the treatment of cobalt toxicity, diabetes, psychosis, cancer and seizures.
+A thiol-containing non-essential amino acid that is oxidized to form CYSTINE.
+See also: Cysteine Hydrochloride (has salt form) ... View More ...
+Properties:safety: Irritant
+smiles: C([C@@H](C(=O)O)N)S
+formula: C3H7NO2S
+chem_properties: Molecular Weight: 121.16 g/mol
+XLogP3: -2.5
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 2
+Exact Mass: 121.01974964 Da
+Monoisotopic Mass: 121.01974964 Da
+Topological Polar Surface Area: 64.3
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 75.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

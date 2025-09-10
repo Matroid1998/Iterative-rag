@@ -1,0 +1,36 @@
+Description:
+Molecules that can undergo posttranslational modifications such as phosphorylation, acetylation, and methylation.
+
+Text:
+While public implementations are avail
+16
+able for specific encoding methods (e.g.,15,16), bringing
+17
+them together into a single project often requires depen
+18
+dency alignment and possible incompatibility hurdles. 19
+Here, we introduce peptidy  a lightweight Python li
+20
+brary that implements various peptide representations for
+21
+machine learning. Key features of peptidy are the fol
+22
+lowing
+23
+ it has no external dependency and integrates smoothly
+24
+into all modern Python environments;
+25
+ it encompasses a range of strategies for peptide en
+26
+coding, useful for predictive and generative machine
+27
+learning applications;
+28
+ it supports several posttranslational modifications to
+29
+amino acids e.g., phosphorylation, acetylations, and
+30
+methylation, extending the capabilities of existing
+31
+Python packages.

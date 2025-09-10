@@ -1,0 +1,13 @@
+Description:
+Used in lithium ion batteries, which have safety concerns related to their electrolytes based on organic carbonates.
+
+Text:
+The limited safety of the present day lithium ion battery (LIB) technology represents the 
+major drawbacks of commercially available LIBs. Current commercial LIBs use electrolytes 
+based on organic carbonates which pose serious safety concerns and strongly reduce the 
+battery operative temperature range 1,2. For these reasons, there has been considerable 
+research interest to either partially andor totally replace the organic solvents (in the 
+electrolytes) with a new type of fluid materials, acting as poorly flammable andor flame 
+retardant components, called ionic liquids (ILs) 3,4. ILs instead of organic carbonates, 
+appear to be promising electrolytes for LIBs because they generally have negligible vapour 
+pressure, high chemical and thermal stability 57.

@@ -1,0 +1,24 @@
+Name: Gallium chloride
+Text:
+Gallium trichloride appears as colorless needles. Used as a raw material in the production of metallic gallium and in the processing of mono crystal semiconductor compounds. (EPA, 1998)
+Properties:safety: Corrosive
+smiles: Cl[Ga](Cl)Cl
+formula: Cl3Ga
+chem_properties: Molecular Weight: 176.08 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 173.83213 Da
+Monoisotopic Mass: 173.83213 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

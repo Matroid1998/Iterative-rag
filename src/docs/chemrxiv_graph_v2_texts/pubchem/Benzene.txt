@@ -1,0 +1,34 @@
+Name: Benzene
+Text:
+Benzene is a colorless liquid with a sweet odor. It evaporates into the air very quickly and dissolves slightly in water. It is highly flammable and is formed from both natural processes and human activities. Benzene is widely used in the United States; it ranks in the top 20 chemicals for production volume. Some industries use benzene to make other chemicals which are used to make plastics, resins, and nylon and synthetic fibers. Benzene is also used to make some types of rubbers, lubricants, dyes, detergents, drugs, and pesticides. Natural sources of benzene include volcanoes and forest fires. Benzene is also a natural part of crude oil, gasoline, and cigarette smoke.
+Benzene can cause cancer according to California Labor Code. It can cause developmental toxicity and male reproductive toxicity according to an independent committee of scientific and health experts.
+Benzene appears as a clear colorless liquid with a petroleum-like odor. Flash point less than 0 °F. Less dense than water and slightly soluble in water. Hence floats on water. Vapors are heavier than air.
+Benzene is a six-carbon aromatic annulene in which each carbon atom donates one of its two 2p electrons into a delocalised pi system. A toxic, flammable liquid byproduct of coal distillation, it is used as an industrial solvent. Benzene is a carcinogen that also damages bone marrow and the central nervous system. It has a role as a non-polar solvent, a carcinogenic agent and an environmental contaminant. It is an aromatic annulene, a volatile organic compound and a member of benzenes.
+Benzene is found in the air from emissions from burning coal and oil, gasoline service stations, and motor vehicle exhaust. Acute (short-term) inhalation exposure of humans to benzene may cause drowsiness, dizziness, headaches, as well as eye, skin, and respiratory tract irritation, and, at high levels, unconsciousness. Chronic (long-term) inhalation exposure has caused various disorders in the blood, including reduced numbers of red blood cells and aplastic anemia, in occupational settings. Reproductive effects have been reported for women exposed by inhalation to high levels, and adverse effects on the developing fetus have been observed in animal tests. Increased incidence of leukemia (cancer of the tissues that form white blood cells) have been observed in humans occupationally exposed to benzene. EPA has classified benzene as known human carcinogen for all routes of exposure.
+Benzene has been reported in Swertia japonica, Basella alba, and other organisms with data available.
+Benzene is a clear, colorless, highly flammable and volatile, liquid aromatic hydrocarbon with a gasoline-like odor. Benzene is found in crude oils and as a by-product of oil-refining processes. In industry benzene is used as a solvent, as a chemical intermediate, and is used in the synthesis of numerous chemicals. Exposure to this substance causes neurological symptoms and affects the bone marrow causing aplastic anemia, excessive bleeding and damage to the immune system. Benzene is a known human carcinogen and is linked to an increased risk of developing lymphatic and hematopoietic cancers, acute myelogenous leukemia, as well as chronic lymphocytic leukemia. (NCI05)
+Benzene is a toxic, volatile, flammable liquid hydrocarbon biproduct of coal distillation. Chronic benzene exposure produces hematotoxicity, bone marrow dysplasia (Displasia is a pre-neoplastic or pre-cancerous change). (A7669). It is used as an industrial solvent in paints, varnishes, lacquer thinners, gasoline, etc. Benzene causes central nervous system damage acutely and is carcinogenic. It was formerly used as parasiticide.
+Toxic, volatile, flammable liquid hydrocarbon byproduct of coal distillation. It is used as an industrial solvent in paints, varnishes, lacquer thinners, gasoline, etc. Benzene causes central nervous system damage acutely and bone marrow damage chronically and is carcinogenic. It was formerly used as parasiticide.
+See also: Benzene, toluene and xylene (component of); Benzene, toluene, ethylbenzene and xylene (component of); Phenyl (annotation moved to) ... View More ...
+Properties:safety: Flammable and Irritant and Health Hazard
+smiles: C1=CC=CC=C1
+formula: C6H6
+chem_properties: Molecular Weight: 78.11 g/mol
+XLogP3: 2.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 78.0469501914 Da
+Monoisotopic Mass: 78.0469501914 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 15.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

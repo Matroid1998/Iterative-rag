@@ -1,0 +1,19 @@
+Description:
+Used as working electrodes for reductive and oxidative EMAS measurements.
+
+Text:
+A potent strategy for detecting such small absorption changes 
+is the application of a periodically modulating potential and 
+tuning a lockin amplifier onto the frequency of the modulation. With such potentialmodulated absorption spectroscopy 
+(EMAS), even weak signals can be distinguished from a 
+prominent background. In this work, we apply HIn2O3 (IHO) silica glass substrates as 
+working electrodes (WE) for reductive and oxidative EMAS 
+measurements of four different PbS QD samples with excitonic 
+transitions between 1474 nm and 1729 nm. We demonstrate 
+successful hole and electron injection and find evidence for 
+shallow ingap density of states. Results 
+Optical and (spectro)electrochemical properties of the IHO 
+electrodes 
+In Figure 1a, we compare the optical transmittance of IHOfilms 
+on glass used here as working electrodes to commercially 
+available FTO substrates.

@@ -1,0 +1,14 @@
+Description:
+Used in ultralow loading platinum group metal catalysts for the oxygen reduction reaction.
+
+Text:
+The widespread commercialization of low temperature fuel cell technologies depends on the 
+stack production and materials costs, to which the cathode catalyst contributes up to 40.1 
+Cheaper catalysts for the oxygen reduction reaction at the cathode are either obtained by a 
+reduction of the platinum content with ultralow loading platinum group metal (PGM) catalysts2, 
+or by eliminating the PGM costs with platinum group metal free (PGMfree) catalysts.3 The 
+activity of FeNC catalysts, the best performing representative of latter catalyst class, improved 
+tremendously in both acidic and alkaline pH environment.4,5 Despite the progress, the 
+volumetric activity of less bulk dense FeNC catalysts is still significantly inferior to that of 
+commercial PtC catalysts due to the low active site density of FeNC catalysts.6 Consequently, 
+high loadings of FeNC catalysts are applied compared to PtC cathodes.

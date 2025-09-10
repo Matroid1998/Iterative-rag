@@ -1,0 +1,30 @@
+Name: Acridine
+Text:
+Small colorless needle-like crystalline solid. Slightly soluble in hot water. Slightly denser than water. Contact may irritate skin, eyes, and mucous membranes. Sublimes before melting when heated. May be toxic by ingestion.
+Acridine is a polycyclic heteroarene that is anthracene in which one of the central CH groups is replaced by a nitrogen atom. It has a role as a genotoxin. It is a mancude organic heterotricyclic parent, a polycyclic heteroarene and a member of acridines.
+Acridine is a polycyclic aromatic dye with antineoplastic, antimicrobial and imaging activities. Acridine and its derivatives intercalate within DNA and RNA by forming hydrogen-bonds and stacking between base pairs resulting in DNA crosslinks and strand breaks. In addition, acridine and its derivatives are a potent inhibitor of topoisomerase II enzyme. This results in the inhibition of DNA and RNA synthesis, predominantly occurring during S phase of the cell cycle and ultimately leads to cell death.
+ACRIDINE is a small molecule drug with a maximum clinical trial phase of II (across all indications) and has 2 investigational indications.
+Acridine is one of over 100 different polycyclic aromatic hydrocarbons (PAHs). PAHs are chemicals that are formed during the incomplete burning organic substances, such as fossil fuels. They are usually found as a mixture containing two or more of these compounds. (L10)
+Compounds that include the structure of acridine.
+Properties:safety: Irritant
+smiles: C1=CC=C2C(=C1)C=C3C=CC=CC3=N2
+formula: C13H9N
+chem_properties: Molecular Weight: 179.22 g/mol
+XLogP3: 3.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 179.073499291 Da
+Monoisotopic Mass: 179.073499291 Da
+Topological Polar Surface Area: 12.9
+Heavy Atom Count: 14
+Formal Charge: 0
+Complexity: 181
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

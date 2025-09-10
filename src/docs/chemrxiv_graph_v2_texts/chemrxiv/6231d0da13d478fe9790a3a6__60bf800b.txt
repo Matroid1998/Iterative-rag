@@ -1,0 +1,19 @@
+Description:
+Forms paddlewheel metal nodes in MOFs used in computational screening.
+
+Text:
+Furthermore, there are few works that relied on the 
+computed mechanical properties to elucidate the collapse 
+events for certain MOFs.9,10 
+In our present work, computational screening was 
+conducted to evaluate the activation status of MOFs with 
+copper paddlewheel metal nodes (the scheme of the work 
+is illustrated in Figure 1). Based on our observation, many 
+of the MOFs that have been previously reported to collapse 
+have Cu metal nodes, and as a case study, only those with 
+the Cu paddlewheel type were selected in this work. The 
+structure of this paper is as follow; in the Methods section, 
+we described how the activation data was collected and 
+prepared for the analysis. In the Result and Discussion 
+section, the relationship between the collapse and 
+geometricalmechanical properties are presented.

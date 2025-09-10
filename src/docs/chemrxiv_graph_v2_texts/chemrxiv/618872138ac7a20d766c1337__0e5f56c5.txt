@@ -1,0 +1,13 @@
+Description:
+A unit capable of serving as a two-electron storage unit.
+
+Text:
+of stronger electrondonating bithiophene linker. The peaktopeak separation (Epp) for 
+each wave is ca. 60 mV, indicating their good reversibility. In Figure 3b, the differential pulse 
+voltammograms (DPV) further confirm the fourelectron reduction processes of 1 and 2, and the 
+patterns are consistent with the CV. The CV of 3 is almost identical with that of 2 (Figure S9). In 
+addition, a negligible loss of signal is observed in both cases after 10 continuous CV cycles at a scan 
+rate of 100 mVs, suggesting their excellent electrochemical stability. Overall, each carbonyl 
+pyridinium unit can serve as twoelectron storage unit. As such, compounds 1 and 2 can store up to 
+four electrons per molecule. To make it more intuitive, the fourelectron transfer processes are depicted 
+in Figure 3c.

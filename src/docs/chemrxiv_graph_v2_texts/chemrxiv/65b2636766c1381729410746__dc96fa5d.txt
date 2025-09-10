@@ -1,0 +1,17 @@
+Description:
+Used as the conversion-type electrode material within FIBs.
+
+Text:
+FIBs have the potential of reaching both superior gravimetric and volumetric energy 
+60 
+density than LIBs, which is of interest for electric vehicles and other largescale energy storage 
+61 
+applications 7. Hence, considering F as a stable ion for the charge transfer in the battery is a 
+62 
+viable promising alternative. 63 
+The research on FIBs focused strongly on conversiontype cathode chemistries, i.e. 64 
+metalmetal fluorides (MeMeFx) 810 which offer the highest theoretical capacities due to the 
+65 
+possibility of taking part in a multielectron conversion process. For example, Fichtner et al.11 
+66 
+reported on the use of CuF2 as the conversiontype electrode material within the FIBs.

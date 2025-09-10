@@ -1,0 +1,41 @@
+Description:
+NCs have garnered significant attention as catalysts for electrochemical CO2RR due to their high reactivity and unique structural architecture.
+
+Text:
+section 
+that Cu NCs have garnered significant attention as catalysts 
+for electrochemical CO2RR due to their high reactivity and 
+unique structural architecture, which can selectively tune 
+product formation. In this work, we aim to explore the 
+potential of a uniquely designed Cu23 NC as a catalyst for 
+CO2RR. To perform the electrochemical measurements, a 
+thin film electrode was fabricated using a spray coating 
+technique. This involved depositing a slurry of the Cu23 NCs 
+and carbon black (CB) onto a carbon paper substrate. It is 
+crucial to maintain the geometric and electronic structure 
+of the NCs during this loading process to preserve their 
+electrocatalytic properties. The stability of the Cu23 NCs 
+during this process was assessed using Xray absorption 
+fine structure (XAFS) spectroscopy.
+
+
+---
+
+Description:
+Maintains structural integrity as confirmed by TEM image after electrocatalysis.
+
+Text:
+Notably, 
+the current density remained stable over this extended 
+period, showing no discernible degradation. Following this 
+prolonged electrochemical catalysis, we further assessed 
+the stability of the Cu NCs outside the electrochemical 
+environment after electrocatalysis. TEM image confirmed 
+the structural integrity of the NCs, evidenced by the 
+consistent size of the individual clusters (Figure S14). However, the Cu Kedge XANES spectra revealed a 
+significant change in spectral features in respect to the 
+before catalysis, however the electronic structure still 
+maintains the Cu(I) environment from the similar peak top 
+8994 eV (Figure S15). The shift in FTEXAFS spectra for 
+changing CuS or P bond clarifies such drastic shift in the 
+httpsdoi.org10.26434chemrxiv2024gtqwh ORCID httpsorcid.org0000000339651399 Content not peerreviewed by ChemRxiv. License CC BY 4.0

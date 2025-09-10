@@ -1,0 +1,13 @@
+Description:
+A compound used to identify molecular features contributing to the octanol-water partition (logP) and solubility.
+
+Text:
+To speed up the identification of biodegradable materials and their substitutes, filtering of large 
+sets for highthroughput molecular discovery is an attractive option.2 
+Chemical prediction with quantitative structureactivity relationships (QSAR) uses descriptorbased statistical 
+analysis to derive relationships, and have been used to identify molecular features contributing to the octanol
+water partition (logP) and solubility.3 Unlike physicochemical properties with relatively consistent pathways and 
+activating structures, properties such as bioavailability and toxicity are dependent on a combination of molecular 
+mechanisms. Thus, a small group of descriptors is not sufficient to characterise such properties. A concept of note 
+in the field is the applicability domain (AD)4, where the predictions of a model fall into a threshold of certain 
+related compounds.

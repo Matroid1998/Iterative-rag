@@ -1,0 +1,13 @@
+Description:
+Incorporated into fluorescence probes to detect hypoxia.
+
+Text:
+Our research group has focused on the reductive cleavage of azo groups under hypoxia and developed 
+NIR probes based on fluorescence resonance energy transfer (FRET) between dicarbocyanines and 
+Black Hole Quencher (BHQ).22 Although these probes are selectively activated in severe hypoxia, they 
+are not optimal for in cellulo and in vivo applications due to their large molecular size and susceptibility 
+to photobleaching. As another strategy, we have recently developed fluorescence probes that detect 
+hypoxia by incorporating an azo group into an O rhodamine or Si rhodamine (SiR) scaffold.21,23 For 
+example, we have developed greenemitting MAR,23 redemitting MASR23 and NIRemitting 
+azoSiR640 (2,6diMe azoSiR640),21 and confirmed that they can detect hypoxia in cultured cells and 
+mouse models.

@@ -1,0 +1,41 @@
+Description:
+Experiences substantial volume expansions during charge-discharge cycles, which can lead to particle fracture and decreased battery capacity.
+
+Text:
+Their abundance and environmental 
+friendliness further augment their suitability as an alternative in battery technologies.5 
+However, these materials are challenged by substantial volume expansions during 
+chargedischarge cycles, exceeding 300 particularly when high ratios of silicon are used in 
+the electrodes. This expansion can cause the silicon particles to fracture under mechanical 
+stress, leading to a loss of contact with the current collector and a subsequent decrease in 
+battery capacity.
+
+
+---
+
+Description:
+Particles can be embedded within a carbon matrix to enhance performance.
+
+Text:
+Various strategies have been deployed to enhance performance, such as 
+refining the nanostructures,6 embedding the silicon particles within a carbon matrix,7 
+developing specifically tailored binders,8 and enhancing the electrolytes.9 In contrast, a 
+sulfurized polyacrylonitrile (SPAN) was exploited by Wang at 2002,10 which employs a 
+solidsolid conversion mechanism that effectively addresses the dissolution of polysulfides, 
+commonly associated with the shuttle effect. Although this material has a voltage loss 
+(average discharge voltage at 1.8 V) compared to the traditional sulfur cathode (average 
+discharge voltage at 2.2 V), it still potentially afford a high energy density. The 
+compatibility of carbonate electrolyte makes SPAN a good applicant to match graphite or 
+silicon anodes.
+
+
+---
+
+Description:
+Used in the anode of a novel full cell system for LiS batteries.
+
+Text:
+Addressing these limitations, our research focuses on the development of a novel full cell 
+system (Figure 1a) utilizing silicon coated by triazinebased graphdiyne (TzG) at the anode 
+and SPAN at the cathode to overcome the traditional barriers associated with LiS batteries. The TzGSi anode benefits from the incorporation of silicon particles into a conjugated 
+httpsdoi.org10.26434chemrxiv20248fd43 ORCID httpsorcid.org0000000265363537 Content not peerreviewed by ChemRxiv. License CC BY 4.0

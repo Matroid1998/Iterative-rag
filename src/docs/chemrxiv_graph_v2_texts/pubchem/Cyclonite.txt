@@ -1,0 +1,28 @@
+Name: Cyclonite
+Text:
+Hexolite appears as a mixture of cyclotrimethylenetrinitramine (RDX) and trinitrotoluene (TNT). Also includes "composition B". May explode under prolonged exposure to heat. The primary hazard is the blast effect of an instantaneous explosion, and not flying projectiles and fragments. Mixed with up to 15% water. The water is used to deactivate the mixture to lessen the explosion hazard.
+1,3,5-trinitro-1,3,5-triazinane is an N-nitro compound that is 1,3,5-triazinane in which all three of the hydrogens attached to the nitrogens have been replaced by nitro groups. It is widely used in both industrial and military explosives. It has a role as an explosive. It is a member of 1,3,5-triazinanes and a N-nitro compound.
+Cyclotrimethylenetrinitramine is a chemical compound also called RDX, which stands for Royal Demolition Explosive. It is also known as cyclonite or hexogen. The chemical name for RDX is 1,3,5-trinitro-1,3,5-triazine and it is a very explosive white powder that creates fumes when it is burned with other substances. As such, it is used as an explosive and it is also used in combination with other ingredients in explosives. RDX is a synthetic product that does not occur naturally in the environment. (L259)
+See also: Cyclonite (rdx) (annotation moved to); Cyclotrimethylene trinitramine, (desensitized) (annotation moved to); Hexahydro-1,3,5-trinitro-1,3,5-triazine (RDX) (annotation moved to) ... View More ...
+Properties:safety: Explosive and Acute Toxic and Irritant and Health Hazard
+smiles: C1N(CN(CN1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
+formula: C3H6N6O6
+chem_properties: Molecular Weight: 222.12 g/mol
+XLogP3: 1.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 9
+Rotatable Bond Count: 0
+Exact Mass: 222.03488193 Da
+Monoisotopic Mass: 222.03488193 Da
+Topological Polar Surface Area: 147
+Heavy Atom Count: 15
+Formal Charge: 0
+Complexity: 229
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

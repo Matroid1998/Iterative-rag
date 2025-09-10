@@ -1,0 +1,13 @@
+Description:
+Involved in the reduction reaction with photogenerated electrons in photocatalytic processes.
+
+Text:
+In general, the complexity of various factors influencing the performance of photocatalysts 
+modified with cocatalyst can be well exemplified on TiO2based photocatalysts for lightdriven 
+aerobic oxidative degradation of organic pollutants. It has been suggested by Gerischer and 
+Heller already more than thirty years ago3b, 16 and later confirmed by detailed mechanistic 
+studies17 that the kinetics of photocatalytic oxidation of organic molecules at TiO2 particles is 
+typically limited by the rate of oxygen reduction by photogenerated electrons which is 
+significantly slower (by several orders of magnitude) than the oxidation of organic molecules 
+by photogenerated holes. A faster consumption of photogenerated electrons by catalytically 
+enhancing the rate of their reaction with dioxygen reduction is therefore expected to lead to

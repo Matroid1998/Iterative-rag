@@ -1,0 +1,29 @@
+Description:
+Formed at 0.8 V with increased selectivity as potential becomes more negative.
+
+Text:
+The formation of HCOOH and a small amount of 
+CO was first observed at 0.8 V. As the potential became 
+more negative (from 1.0 V to 1.4 V), the selectivity for 
+HCOOH 
+increased 
+significantly, 
+reaching 
+saturation 
+(FEHCOOH 26) at 1.2 V, where hydrogen evolution 
+reaction (HER) was nearly at constant. Beyond 1.2 V, the 
+formation of CO is increasing with the increasing potential 
+where the HER and FEHCOOH are almost constant. To evaluate 
+the 
+stability 
+of 
+the 
+material 
+under 
+the 
+applied 
+electrochemical conditions, we identified the constant 
+current densities at each voltage for one hour duration 
+(Figure 4e). Chronoamperometric measurements were 
+then conducted at 1.0 V for a period of 6 hours to determine 
+the materials practical applicability (Figure S13).

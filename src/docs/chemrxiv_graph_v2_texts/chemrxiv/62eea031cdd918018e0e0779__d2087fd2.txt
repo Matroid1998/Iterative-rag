@@ -1,0 +1,10 @@
+Description:
+Strongly interferes with the response of a chemoresistive SiWO3 sensor to acetone.
+
+Text:
+Variance
+in the concentration of an interferent, if uncorrelated with that of the analyte, breaksweak
+enscorruptsconfounds the correlation between the response of the crosssensitive sensor with
+the concentration of the analyte. For example, isoprene strongly interferes with the response of
+a chemoresistive SiWO3 sensor to acetone 20, making it impossible to use such a sensor to
+distinguish between increases in acetone vs. isoprene in human breath 21.

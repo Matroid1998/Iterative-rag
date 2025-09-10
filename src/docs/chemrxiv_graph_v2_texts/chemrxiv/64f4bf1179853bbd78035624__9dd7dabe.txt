@@ -1,0 +1,8 @@
+Description:
+A compound with signals in the 11B NMR spectrum that are 64.7 ppm apart, with B2 resonating at the highest field and B1 at the lowest field.
+
+Text:
+For example, the signals from B1 and B2 
+in the 11B NMR spectrum of nB9H15 are  64.7 ppm apart, such that B2 resonates at the highest field and B1 at 
+the lowest field in the aforementioned 11B NMR spectrum,6 in spite of both B1 and B2 in nB9H15 exhibiting 
+identical connectivity, hybridisation and even immediate bonding environment (Fig. 1).

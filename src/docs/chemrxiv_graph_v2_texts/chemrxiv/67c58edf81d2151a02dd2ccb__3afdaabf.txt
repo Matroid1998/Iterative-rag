@@ -1,0 +1,23 @@
+Description:
+An amphiphilic derivative that shows different photocatalytic proton reduction activity depending on its morphology.
+
+Text:
+Developing systems capable of generating solar fuels is becoming imperative due to the 
+increasing global energy demand.1 Inspired by natural photosynthesis, a viable path towards 
+sustainable chemical productions is to design artificial processes that convert solar light into 
+chemical energy.2 Another point to take inspiration from natural photosynthesis is also the 
+organization of photofunctional chromophores and catalysts into light harvesting systems.37 
+In this context, the selfassembly of synthetic chromophores into organic semiconductors is 
+gaining momentum for the development of photocatalytic systems for solar fuels 
+production.4,819 The appealing properties of selfassembled organic semiconductors originate 
+both from the monomers chemical structures, which give molecular precision and allow the 
+customization of the desired properties through molecular design, and from nanostructures 
+arising from their selfassembly,2024 in which molecular packing can aid exciton 
+delocalization upon light irradiation.25 
+Since different molecular packing in organic semiconductors alters their lightharvesting 
+properties, several studies have explored the relationship between molecular aggregation, the 
+resulting nanostructures, and photocatalytic activity.26 For example, an amphiphilic perylene 
+monoimide (PMI) derivative showed different photocatalytic proton reduction activity 
+depending on its morphology.27 The more active morphology was associated with the 
+formation of chargetransfer excitons, with the separation of electrons and holes over stacked 
+molecules making more efficient electrons transfer to a proton reduction catalyst.

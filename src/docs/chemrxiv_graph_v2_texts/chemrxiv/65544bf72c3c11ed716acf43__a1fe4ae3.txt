@@ -1,0 +1,75 @@
+Description:
+Forms a 3D continuous architecture in nanoporous carbon materials.
+
+Text:
+Nanoporous graphene (NPG) materials16 enjoy the high electro
+chemical stability, high electrical conductivity, and flexibility of 
+the continuous threedimensional (3D) graphene architecture, 
+with high surface area and nanoporosity. NPGs are synthesized 
+by (i) chemical vapor deposition (CVD) of methane (CH4) using 
+nanoparticles of nontransitionmetal oxides such as alumina 
+(Al2O3)7 and MgO8 as the template, (ii) the subsequent acid 
+etching for removing the metal oxides, and (iii) the annealing of 
+the obtained nanoporous carbon (NPC) materials to give the 3D 
+continuous architecture (Fig. 1).
+
+
+---
+
+Description:
+A gaseous source used for kinetically achieving the formation of monolayered carbon.
+
+Text:
+The mechanism of the initial 
+NPCs formation at the earlystage CH4CVD reactions has been 
+welldocumented based on the reaction kinetics and quantum 
+chemistry.1,3 The use of relatively inert CH49 as the gaseous car
+bon source is crucial for kinetically achieving the formation of 
+monolayered carbon.1 
+We also revealed that the thermal treatment1016 of NPCs at 
+high temperatures under an inert atmosphere affords the corre
+sponding NPGs by fusing the Hterminated edges,2,17 and this is 
+the origin of the electrochemical stability of NPGs.
+
+
+---
+
+Description:
+A key component in the development of continuous porous materials based on NPGs chemistry.
+
+Text:
+This anneal
+ing following the CH4CVD synthesis will also improve the in
+tegrity of the graphene architecture by reducing the defect con
+centration, which is helpful to develop stable electrochemical de
+vices using NPGs such as longlived airmetal batteries etc.18 
+The quantitative evaluation of the defect type and concentration 
+beforeafter annealing will be a starting point for the 
+development of stateoftheart continuous porous carbon mate
+rials based on NPGs chemistry,1,2 but recent investigations on the 
+structural changes upon annealing by changing the size of tem
+plates16,19 gave us a qualitative picture. In this work, we carefully revisited the Raman spectra of 
+NPCs and NPGs to quantitatively analyze the surface defects 
+with aids of temperatureprogrammed desorption (TPD), Xray 
+diffraction (XRD), and nitrogen physisorption analysis.
+
+
+---
+
+Description:
+Forms 1D nanotubes and is a component of graphene-related materials.
+
+Text:
+Raman 
+spectroscopy has been used for the structure characterization of 
+2D graphenes and 1D carbon nanotubes,2024 and it could also be 
+applicable to the curved 3D analogues to provide insights into 
+the structural disorders which breaks the translational symmetry, 
+such as edges, defects, and grain boundaries of graphenerelated 
+materials.2529 The TPD, based on the detection of desorbed mol
+ecules including H2, CO, and CO2, rationalizes the density of 
+edges and adatoms,17 while the XRD and nitrogen physisorption 
+validate the number of graphene layers in the carbon materials.2 
+We found that both the NPCs and NPGs mostly consist of 
+singlelayered graphene with a few single vacancies and Stone
+Wales defects. In addition, a significant healing of the surface

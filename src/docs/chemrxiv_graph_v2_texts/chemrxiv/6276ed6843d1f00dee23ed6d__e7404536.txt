@@ -1,0 +1,52 @@
+Description:
+Deactivated electrophiles that can be employed in catalysis with high levels of efficiency.
+
+Text:
+Additionally, they 
+also can stabilize the unsaturated metal center via interactions 
+with the phosphines psystem (a pseudobidentate binding 
+mode).11,12,14,15 Most members of this ligand class are also 
+characterized by a high degree of conformational flexibility, 
+resulting in a wide range of attainable steric environments 
+around the metal center (Figure 1B),12,13 which can be limited 
+by introducing groups on the A ring or increasing the size of the 
+alkyl groups bound to phosphorus.13,16 Overall, the design 
+elements of these ligands promote challenging elementary steps 
+while minimizing offcycle speciation,9,10 and allow for 
+deactivated electrophiles such as aryl chlorides to be employed 
+in catalysis with high levels of efficiency.
+
+
+---
+
+Description:
+Involved in Suzuki-Miyaura Coupling reactions using Buchwald-type phosphines.
+
+Text:
+Over the past decade, Buchwaldtype phosphines have also 
+found successful application in a limited number of Ni
+catalyzed crosscoupling reactions (Figure 1C).1725 One of the 
+first reports came from our lab in 2011 with the development of 
+a Nicatalyzed crosscoupling of styrenyl epoxides and boronic 
+acids, where BrettPhos was identified to be the most effective 
+ligand in the transformation.18 The Watson and Crudden labs 
+have also reported the use of Buchwaldtype phosphines in Ni
+catalyzedcross 
+coupling 
+reactions 
+of 
+naphthylic 
+pseudohalides.19,20 More recently, researchers at Bristol Myers 
+Squibb identified CyJohnPhos as the most effective ligand for 
+the Nicatalyzed borylation of aryl halides, with other examples 
+of the ligand class amongst the top performers.21 Additionally, 
+in a recent collaborative project carried out by our lab, the 
+Sigman lab, and Merck  Co., Inc., we identified certain 
+Buchwaldtype phosphines as top performing among 90 diverse 
+monophosphines for several SuzukiMiyaura Coupling 
+reactions (SMC) of aryl chlorides.25 
+While these examples illustrate that Buchwald ligands are 
+capable of imparting desirable reactivity in Nicatalyzed 
+methodologies, little is known about their SRRs in Ni catalysis, 
+or how their unique structure and binding modes interface with 
+Ni more generally.

@@ -1,0 +1,13 @@
+Description:
+An epitranscriptomic modification observed in various RNAs.
+
+Text:
+Acetylation of the nucleoside cytidine, which gives the N4acetylcytidine (ac4C, Figure 1) 
+epitranscriptomic modification, has been observed in RNAs including tRNAs, rRNAs, mRNAs and various 
+regulatory RNAs. It plays a wide range of roles in biological systems. Errors related to the modification 
+have been found to be associated with many human diseases 1, 2. More recently, acetylation of 
+deoxycytidine, which gives the N4acetyldeoxycytidine (4acC, Figure 1) epigenetic modification, has also 
+been discovered in the DNA of Arabidopsis, rice, maize, mouse, and human. It is mainly located around 
+transcription start sites and positively correlates with gene expression levels 3. Several studies using 
+synthetic oligodeoxynucleotides (ODNs) and oligoribonucleotides (ORNs) have shown that acetylation of 
+cytosine can increase the UV melting temperature of duplex oligonucleotides (ONs) by 1  8 C 46.

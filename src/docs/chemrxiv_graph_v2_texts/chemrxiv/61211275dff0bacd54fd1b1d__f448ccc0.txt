@@ -1,0 +1,25 @@
+Description:
+Has an essentially infinitely large exciton Bohr radius in its bulk form.
+
+Text:
+Nanographenes, such as graphene quantum dots (GQDs) and nanoribbons (GNRs), are light
+harvesting chromophores that exhibit desirable excitonic properties for application in 
+photocatalysis. The relative size of GQDs and GNRs constrain their excitons to a size that is 
+smaller than the essentially infinitely large exciton Bohr radius of bulk graphene. Consequentially, excitons in these systems are quantumconfined, enabling size tunable energy 
+gaps.1 Sizedependent tunability of the energy gap has been shown both theoretically2 and 
+experimentally,3 demonstrating the versatility of lightharvesting in nanographenes.
+
+
+---
+
+Description:
+Used in 0D2D van der Waals heterojunctions for photocatalytic reactions.
+
+Text:
+Zigzag derivatives contain more nodes and less sextets than 
+their armchair analogs, which results in the destabilization of their HOMO levels and a 
+narrowing of their energy gaps.5 Chemical functionalization with electrondonating groups have 
+also been used to systematically engineer the energy gap of GQDs for application in 
+photocatalytic water splitting and CO2 reduction.6 These photocatalytic reactions have also been 
+demonstrated for GQDs used in 0D2D van der Waals heterojunctions with graphene.7 GQDs 
+can also selfassemble into stacked structures that efficiently harvest light along the stack810.

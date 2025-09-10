@@ -1,0 +1,36 @@
+Description:
+Compounds that require electron-withdrawing N-activators for addition reactions.
+
+Text:
+Synthetic strategies towards bbranched amino acids 
+A breakthrough was reached upon recognition that the bbranched 
+amino acid motifs for both 3 and 4 could, in principle, be derived 
+from aziridine ring openings (Figure 1). While addition to aziridines 
+has previously been demonstrated as a useful strategy for the 
+synthesis of bbranched amino acids,21 very few examples exist for 
+comparable additions to acarbonyl, baryl aziridines as was 
+necessitated in the case of 2. In general, addition to aziridines 
+requires the use of electronwithdrawing Nactivators (such as tosyl 
+or nosyl protecting groups), which could potentially introduce 
+further synthetic issues.
+
+
+---
+
+Description:
+Used in direct addition into free-NH aziridines.
+
+Text:
+For instance, cleavage of Ntosyl is 
+incompatible with use of an aryl bromide,2223 preliminary 
+experiments indicated difficulties in controlling the reactivity for N
+nosyl,24 and rearrangement is a known issue for carbamatebased 
+protecting groups.2526 For these reasons, a more efficient approach 
+was developed based on direct addition into freeNH aziridines. The 
+bbranched motif of 4 could thus be traced back to addition of 
+histidine into chiral aziridine 9 to forge the NC39 bond of 2. To 
+mitigate the risk of imidazole eliminating from tyrosine to form the 
+corresponding paraquinone methide (QM) (Figure 1, highlighted 
+in red), bromide was chosen as a stable surrogate for hydroxyl group 
+of the natural tyrosine with the intention to introduce the requisite 
+phenol moiety at a late stage.

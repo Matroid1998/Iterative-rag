@@ -1,0 +1,34 @@
+Name: Uridine
+Text:
+Uridine is a ribonucleoside composed of a molecule of uracil attached to a ribofuranose moiety via a beta-N(1)-glycosidic bond. It has a role as a human metabolite, a fundamental metabolite and a drug metabolite. It is functionally related to a uracil.
+RG2417 is a proprietary formulation of uridine, a biological compound essential for the synthesis of DNA and RNA, the basic hereditary material found in all cells, and numerous other factors essential for cell metabolism. Uridine is synthesized by the mitochondria, the power plant of the human cell responsible for energy metabolism. The rationale for uridine therapy in neuropsychiatric disorders is supported by preclinical and clinical research. Recent reports indicate that certain genes that encode for mitochondrial proteins are significantly down regulated in the brains of bipolar patients. This new insight suggests that the symptoms of bipolar disorder may be linked to dysregulation of energy metabolism of the brain.
+Uridine is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Uridine is a Pyrimidine Analog. The chemical classification of uridine is Pyrimidines, and Analogs/Derivatives.
+Uridine has been reported in Nigrospora oryzae, Rehmannia glutinosa, and other organisms with data available.
+Uridine is a nucleoside consisting of uracil and D-ribose and a component of RNA.  Uridine has been studied as a rescue agent to reduce the toxicities associated with 5-fluorouracil (5-FU), thereby allowing the administration of higher doses of 5-FU in chemotherapy regimens. (NCI04)
+URIDINE is a small molecule drug with a maximum clinical trial phase of III (across all indications) and has 6 investigational indications.
+Uridine is a metabolite found in or produced by Saccharomyces cerevisiae.
+A ribonucleoside in which RIBOSE is linked to URACIL.
+See also: Uridine Triacetate (active moiety of).
+Properties:safety: Irritant
+smiles: C1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O
+formula: C9H12N2O6
+chem_properties: Molecular Weight: 244.20 g/mol
+XLogP3: -2
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 2
+Exact Mass: 244.06953611 Da
+Monoisotopic Mass: 244.06953611 Da
+Topological Polar Surface Area: 119
+Heavy Atom Count: 17
+Formal Charge: 0
+Complexity: 370
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

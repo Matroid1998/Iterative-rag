@@ -1,0 +1,104 @@
+Description:
+An important resource that can have a significant impact on our climate if released into the atmosphere.
+
+Text:
+Natural gas consists mainly of methane,1 an important resource that can unfortunately have a 
+significant impact on our climate if released into the atmosphere.2 Methane can, however, be used 
+to produce another important base chemical methanol.
+
+
+---
+
+Description:
+Used in the synthesis of methanol through the creation of syngas.
+
+Text:
+Methanol is currently synthesized from 
+methane through the creation of syngas, a thermodynamically inefficient process, as it requires 
+high temperatures and pressures to overcome the reaction energy of 206 kJmol in steam 
+reforming.3,4 Due to the need for intermediate syngas creation, the onsite usage of methane at 
+smaller and remote sources of methane is greatly hindered, and the methane at such remote sites 
+is often simply flared, as its transport to other locations is not easily achieved.4,5 Methanol, 
+however, can be stored and transported with much less effort, as it is a liquid under ambient 
+conditions.
+
+
+---
+
+Description:
+Often flared at remote sites due to difficulties in transport.
+
+Text:
+Methanol is currently synthesized from 
+methane through the creation of syngas, a thermodynamically inefficient process, as it requires 
+high temperatures and pressures to overcome the reaction energy of 206 kJmol in steam 
+reforming.3,4 Due to the need for intermediate syngas creation, the onsite usage of methane at 
+smaller and remote sources of methane is greatly hindered, and the methane at such remote sites 
+is often simply flared, as its transport to other locations is not easily achieved.4,5 Methanol, 
+however, can be stored and transported with much less effort, as it is a liquid under ambient 
+conditions.
+
+
+---
+
+Description:
+A hydrocarbon that can be converted to methanol with high selectivity challenges.
+
+Text:
+A direct and selective pathway from methane to methanol, usable at small and large 
+scales, would therefore greatly decrease the environmental impact of remote methane sources, 
+as well as methanolderived substances and methanolbased fuels. A key challenge is achieving 
+high selectivity in the direct methane to methanol reaction. Burning methane is easy, stopping at 
+methanol is not.6,7 
+Recently, many advances in the field of methane activation have been made. Inspired by 
+enzymes, many biomimetic, homogeneous catalysts have been designed811 to achieve the goal 
+of high selectivity combined with high yield. However, industrially, heterogeneous catalysts 
+provide many advantages.
+
+
+---
+
+Description:
+A compound whose CH bond can be activated by metal oxo centers.
+
+Text:
+Two 
+important design goals for a MOF catalyst for the selective conversion of methane to methanol 
+are suggested by economics and prior work 1) the catalyst should be active under mild 
+conditions16 and 2) the obtained methanol should be protected to prevent overoxidation.6 Metal
+oxo centers are active species for the activation of the CH bond of methane and other alkanes10,17
+22 and can be designed into a variety of MOF structures.
+
+
+---
+
+Description:
+Involved in activation mechanisms in zeolites with metaloxo centers.
+
+Text:
+Also, the secondary interactions23,24 and 
+geometric effects of the host system (sometimes called secondsphere effects) can be exploited 
+to control reaction mechanisms in nanoporous materials as recently shown by Snyder et al.25 The 
+mobility of the CH3 radical involved in many mechanisms for methane activation proved to be a 
+key factor in the activity of zeolites incorporating metaloxo centers, which have already been 
+shown to be active for continuous methane oxidation using N2O and H2O.26 
+In MOFs, ironoxo centers (FeO) have been successfully incorporated into the Fe2(dobdc) family 
+(FeMOF74, dobdc42,5dioxido1,4benzenedicarboxylate) and have been shown to be 
+catalytically active towards CH bond cleavage in experiment and theory.27,28 For the case of 
+ethane to ethanol conversion, this MOF exhibited a high selectivity due to the strong binding of 
+the product to the open metal sites, resulting, however, in a low yield27,29 in both flowthrough and 
+batch operation modes as the reactive sites become blocked by the strongly bound product.
+
+
+---
+
+Description:
+A compound investigated for oxidation by metaloxo centers.
+
+Text:
+Many 
+other systems incorporating metaloxo centers have since then been investigated for the oxidation 
+of methane by computational means.3034 Also, our group recently investigated metaloxo species 
+in MOFs for the activation of the CH bond by identifying structureactivity relationships in MOFs 
+based on DFT calculations,35,36 screening a MOF database to identify promising MOF systems,37 
+and investigating triazolate based MOFs with varying metals and anions theoretically.38,39

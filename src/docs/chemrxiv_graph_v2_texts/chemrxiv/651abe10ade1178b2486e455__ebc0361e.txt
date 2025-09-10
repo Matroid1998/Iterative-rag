@@ -1,0 +1,12 @@
+Description:
+Different carbon types can be identified using 13C NMR spectroscopy, which distinguishes Cq, CH, CH2, and CH3 groups.
+
+Text:
+In 13C NMR spectra, the socalled multiplicity, which is the number n of 
+magnetically equivalent nuclei I bound to spin S, (InS group) is of special interest. Multiplicity supplies valuable information to unequivocally identify the signals of Cq, CH
+, CH2 and CH3 groups and thus to obtain the number of the different carbon types for 
+the molecule under study. Correspondingly designed 1D 13CNMR experiments such as 
+APT,1,2 INEPT3 or DEPT4 have been introduced many years ago for this purpose. The option for multiplicity discrimination has also been incorporated into 2D 
+experiments such as 2D HSQC5,6 and 3D protein NMR experiments.7 However, 1D 13C 
+DEPT or APT are still the most common experiments for assigning 13C signals and for 
+the elucidation of molecular structures on a routine level.

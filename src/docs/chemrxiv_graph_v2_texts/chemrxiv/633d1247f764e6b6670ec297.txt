@@ -1,0 +1,27 @@
+Description:
+A substrate that can undergo alkylation reactions multiple times but stops selectively after a given number of iterations.
+
+Text:
+Selectivity plays a crucial role in organic synthesis. Selective reactions are most commonly categorized 
+as chemoselective,1,2 regioselective,1,3 and stereoselective.1,4 There is, however, one type of selectivity 
+commonly encountered in various reactions (e.g. substitutions, polymerizations, etc.) that does not fit 
+in these three categories. The purpose of this work is to present the selectivity observed when a given 
+reaction can occur at least twice on a substrate (e.g. the alkylation of ethylene glycol, see Figure 1A) 
+but stops selectively after a given number of iterations i. This is distinct from selectivity imposed 
+through sequential reactions,5 and applies only to onepot reactions.
+
+
+---
+
+Description:
+A compound that can undergo iterative alkylation reactions.
+
+Text:
+In 2014, we proposed to name 
+this selectivity iteroselectivity6 (Figure 1B) and, since then, this term was used in various articles.715 
+To the best of our knowledge, the concepts arising from this type of selectivity have not been yet 
+properly named and defined in the literature. Herein, we propose to define properly this type of selectivity and related concepts, to compare it to 
+the three main types of selectivity in organic synthesis (see Figure 2 for an overview of the comparison), 
+and to list some concrete examples from the literature. Figure 1. Iterative reactions that may show iteroselectivity. (A) The alkylation of ethylene glycol is a simple 
+example of iterative reaction. (B) Substrates bearing several identical functions can react iteratively in a 
+single pot.

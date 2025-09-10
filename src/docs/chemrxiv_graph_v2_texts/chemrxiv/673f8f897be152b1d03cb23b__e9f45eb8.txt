@@ -1,0 +1,66 @@
+Description:
+Known as fischesserite, it shares the chiral cubic I4132 space group and has a melting point around 730 C.
+
+Text:
+The exploration for precious metals in natural sources
+led to the discovery of Ag3AuSe2 (fischesserite) and
+Ag3AuTe2 (petzite) in the nature in the early 1900s.1,2
+They were identified to have stoichiometric compositions
+and share the chiral cubic I4132 space group, as deter
+mined by Xray diffraction. Ag3AuS2 crystallizes in a
+centrosymmetric trigonal structure3 and is not the focus
+of this study. Early research on Ag3AuSe2 and Ag3AuTe2 explored
+structural transitions at high temperatures using dif
+ferential thermal analysis (DTA) and Xray diffraction
+(XRD).47 Both compounds have similar melting points
+around 730 C and undergo multiple phase transitions at
+elevated temperatures. Although synthesis of Ag3AuSe2
+and Ag3AuTe2 have been reported,58 experimental data
+on the physical and chemical properties of the synthetic
+samples remain limited.
+
+
+---
+
+Description:
+Predicted to have a narrow and direct band gap that can be tuned through strain application.
+
+Text:
+Theoretical work on Ag3AuSe2 and Ag3AuTe2 pre
+dicted narrow and direct gaps at the  point.8,16,17 Re
+cent density functional theory (DFT) calculations ex
+amined their potential applications in dark matter de
+tection and highlighted the tunable band gaps through
+strain application.17 Simulated band structures with
+reduced lattice parameters demonstrated gapopening
+for Ag3AuSe2 and gapclosing for Ag3AuTe2.17 Specif
+ically, a full gap closure was predicted at 4 strain
+for Ag3AuTe2.17 Our recent DFT simulations using
+the PerdewBurkeErnzerhof (PBE) functional predicted
+zero gap for the selenide at 3 tensile strain.18,19 These
+findings suggest that alloying Ag3AuSe2 and Ag3AuTe2
+may induce gapnarrowing and potentially metallic be
+havior at an intermediate strain between 3strained
+Ag3AuSe2 and 4strained Ag3AuTe2.
+
+
+---
+
+Description:
+A compound whose band gap can be tuned by substituting Se with Te.
+
+Text:
+In this study, we explore band gap tuning by chemical
+substitution of Se2with larger Te2anions in Ag3AuSe2
+to expand the unit cell. We investigated the synthesis
+of Ag3Au(Se1xTex)2 with x from 0 to 1 and examined
+their electrical and optical properties experimentally. II. METHODS
+Ag3Au(Se1xTex)2 alloys with the tellurium fraction
+x  0, 0.1, 0.25, 0.4, 0.5, 0.6, 0.75, 0.9, and 1 were syn
+thesized from elemental powders of Ag (99.9 metals
+basis), Au (99.98 metals basis), Se (99.9999 metals
+basis) and Te (99.8 metals basis). Powders were mixed
+together in respective stoichiometric ratios and sealed in
+evacuated silica ampules. Sealed ampules were annealed
+at 800 C for 24 hours, followed by a slow cooling to room
+temperature over 24 hours.

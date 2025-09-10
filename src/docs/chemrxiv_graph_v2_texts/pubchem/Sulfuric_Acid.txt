@@ -1,0 +1,31 @@
+Name: Sulfuric Acid
+Text:
+Sulfuric acid is a colorless oily liquid. It is soluble in water with release of heat. It is corrosive to metals and tissue. It will char wood and most other organic matter on contact, but is unlikely to cause a fire. Density 15 lb / gal. Long term exposure to low concentrations or short term exposure to high concentrations can result in adverse health effects from inhalation. It is used to make fertilizers and other chemicals, in petroleum refining, in iron and steel production, and for many other uses.   Rate of onset: Immediate  Persistence: Hours, days  Odor threshold:   Source/use/other hazard: Battery/dyes/paper/glue/metals industries; volcanic gas; toxic fumes when heated.
+Sulfuric acid, spent appears as a black oily liquid. Corrosive to metals and tissue. Density 15 lb /gal.
+Sulfuric acid is a sulfur oxoacid that consists of two oxo and two hydroxy groups joined covalently to a central sulfur atom. It has a role as a catalyst. It is a conjugate acid of a hydrogensulfate.
+NA has been reported in Arabidopsis thaliana, Homo sapiens, and other organisms with data available.
+Sulfuric acid is a highly corrosive strong mineral acid with the molecular formula H2SO4. It is a pungent-ethereal, colorless to slightly yellow viscous liquid which is soluble in water at all concentrations. Sometimes, it is dyed dark brown during production to alert people to its hazards. The historical name of this acid is oil of vitriol.
+Concentrated sulfuric acid is 98% pure and shows different properties depending upon its concentration. For instance battery acid is 30% sulfuric acid. Because the hydration reaction of sulfuric acid is highly exothermic, dilution should always be performed by adding the acid to the water rather than the water to the acid. Pure sulfuric acid is not encountered naturally on Earth in its anhydrous form, due to its great affinity for water. Dilute sulfuric acid is a constituent of acid rain, which is formed by atmospheric oxidation of sulfur dioxide in the presence of water – i.e., oxidation of sulfurous acid. Sulfur dioxide is the main byproduct produced when sulfur-containing fuels such as coal or oil are burned. Most sulfuric acid (~60%) is consumed for fertilizers, particularly superphosphates, ammonium phosphate and ammonium sulfates. About 20% is used in chemical industry for production of detergents, synthetic resins, dyestuffs, pharmaceuticals, petroleum catalysts, insecticides and antifreeze, as well as in various processes such as oil well acidicizing, aluminium reduction, paper sizing, water treatment.
+See also: Phenolsulfonic acid; sulfuric acid (component of); Sulfate Ion (annotation moved to) ... View More ...
+Properties:safety: Corrosive
+smiles: OS(=O)(=O)O
+formula: H2O4S
+chem_properties: Molecular Weight: 98.08 g/mol
+XLogP3: -1.4
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 97.96737971 Da
+Monoisotopic Mass: 97.96737971 Da
+Topological Polar Surface Area: 83
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 81.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

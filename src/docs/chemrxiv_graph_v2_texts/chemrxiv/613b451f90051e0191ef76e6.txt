@@ -1,0 +1,18 @@
+Description:
+A two-dimensional material with novel physical and chemical properties.
+
+Text:
+The discovery of graphene1 opens up the eld of two
+dimensional (2D) materials such as hBN2, 3, 4, SiC5, 6,
+phosphorene7, transitional metal dichalcogenides (TMDs)8,
+and MXenes9 for both theoretical and experimental re
+search. These materials have drawn considerable inter
+est due to their novel physical and chemical properties
+compared to their threedimensional (3D) bulk counter
+parts. Depending upon the crystal structure, most of the
+TMDs exhibit substantial mechanical strength10 with
+direct bandgap11, higher carrier mobility12, 13, and
+strong spinorbit coupling (SOC)14. Unlike graphene and
+many other 2D materials, the inplane asymmetry in TMDs
+provides them with extraordinary thermoelectric and opto
+electronic properties15, 16.

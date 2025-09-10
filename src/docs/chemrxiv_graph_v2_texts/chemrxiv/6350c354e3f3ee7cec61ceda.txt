@@ -1,0 +1,12 @@
+Description:
+Exhibits sublimation and O2 oxidative etching kinetics that vary with temperature and feedstock.
+
+Text:
+For example, in experiments using single NP 
+mass spectrometry to study kinetics for individual carbon NPs in the 1200 to 2100 K range, we 
+found that both sublimation1 and O2 oxidative etching23 kinetics varied substantially for NPs from 
+different feedstocks (graphitic, graphene oxide, carbon black, diamond, nanoonion), but that even 
+for NPs from the same feedstock, the initial rates varied by up to an order of magnitude. More 
+surprisingly, the etching rates varied over time, with rates oscillating by orders of magnitude. All 
+types of carbon NPs were found to evolve to become essentially inert to O2 etching, but the time 
+required for this evolution varied strongly for different carbon materials and for different NPs.

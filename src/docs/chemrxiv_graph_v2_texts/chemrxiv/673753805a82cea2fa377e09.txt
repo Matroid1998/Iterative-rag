@@ -1,0 +1,13 @@
+Description:
+Used as a conductive additive in battery porous electrodes.
+
+Text:
+Alkaliion batteries are comprised of porous electrodes infiltrated with liquid electrolytes. Typical battery 
+porous electrodes are constructed by slurry casting a composite of redoxactive particles, carbon conductive 
+additives, and polymer binders onto a metal current collector1. While porous electrodes are widely used due 
+to their manufacturability and practicality, their heterogeneity has limited the ability to interpret the 
+electrochemical signature. Sources of heterogeneity include uneven current distribution leading to different 
+states of charge among battery particles26, interactions between binder and active materials affecting cycle 
+life7,8, and electrode tortuosity limiting the rate performance of the battery911. Moreover, discerning signals 
+from individual redoxactive particles is exceedingly challenging because the electrochemical signatures 
+contain average information from an ensemble of many individual particles.

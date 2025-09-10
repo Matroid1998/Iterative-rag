@@ -1,0 +1,11 @@
+Description:
+A molecule whose intracellular levels are tracked using fluorescent probes.
+
+Text:
+Molecular imaging based on fluorescent probes is assumed to be a sensitive technique providing 
+online fluorescence sensing of GSH. Although these probes have made great progress, there are 
+still a number of challenges, including water solubility and aggregationcaused quenching (ACQ), 
+which limits the longterm tracking of the intracellular GSH levels8,9. Due to the limitations of 
+fluorescent probes, most of the reported works related to the recognition of intraocular GSH 
+concentration are based on qualitative evaluation, and longterm tracking of intracellular GSH 
+level has not been considered in these studies.

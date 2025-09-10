@@ -1,0 +1,32 @@
+Description:
+A metal used as an anode material in energy storage systems due to its high theoretical specific capacity, low redox potential, and low gravimetric density.
+
+Text:
+Lithium metal is one of the most frequently used elements for the anode material in post
+lithium ion energy storage systems due to its very high theoretical specic capacity (3860 mAhg1),
+the lowest redox potential (3.04 V vs. SHE) and a low gravimetric density (0.534 g cm3).1,2
+Among these technologies, we can mention LiS and LiAir.3,4 However, one of the main
+issues under study with this electrode is the growth of metal dendrites on its surface
+during deposition. Such formations introduce safety and cyclability concerns, decreasing
+coulombic eciency and provoking capacity fading.5,6 Extensive research has been done
+to propose dierent strategies to control dendrite growth,7,8 while trying to character
+ize the conditions under which dendrites occur.
+
+
+---
+
+Description:
+Studied for its metal interface during electrodeposition using coarse-grained models.
+
+Text:
+Computational studies are progressively
+contributing to these eorts.913 Coarsegrained models are of great interest for studying
+the lithium metal interface during electrodeposition, as they allow exploration of longer
+space and time scales compared to full atomistic approaches. Given the mismatch between
+dendrite dimensions (approximately m) and molecular size, the simplied representa
+tion of this system also becomes necessary to make the problem manageable.14 Neverthe
+less, these models require further development to better represent the system and enable
+quantitative comparisons with experimental observations. Longer time scales are desired
+to properly describe experiments while maintaining the level of detail that the simula
+tion allows. This detail is of great interest for the proper understanding of the nanoscale
+processes that lead to the onset of dendrite formation.

@@ -1,0 +1,13 @@
+Description:
+A material with anticipated magnetic properties, particularly in armchair graphene nanoribbons (AGNRs).
+
+Text:
+Edge or end states in graphene nanoribbons (GNRs), and in particular armchair 
+GNRs (AGNRs) have attracted very much interest lately,18 due to their anticipated magnetic 
+properties,910 although their presence in finite nanographenes (NGRs) has been predicted long time 
+ago.11 However, the significance and importance of end states for AGNRs was recognized only 
+recently18, after the pioneering bottomup synthesis of atomically precise AGNRs of finite lengths 
+L with short zigzag ends, and their characterization by scanning tunnelling microscopy (STM) and 
+spectroscopy (STS). 316 Clearly no end states appear in the common infinite AGNRs fabricated by 
+the usual topbottom techniques, which are theoretically described by periodic boundary conditions 
+at their two ends1.

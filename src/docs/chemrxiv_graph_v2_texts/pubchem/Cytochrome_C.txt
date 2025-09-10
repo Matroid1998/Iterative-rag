@@ -1,0 +1,25 @@
+Name: Cytochrome C
+Text:
+Cytochrome C is a hemeprotein that plays a role in the mitochondrial electron-transport chain.
+Cytochromes of the c type that are found in eukaryotic MITOCHONDRIA. They serve as redox intermediates that accept electrons from MITOCHONDRIAL ELECTRON TRANSPORT COMPLEX III and transfer them to MITOCHONDRIAL ELECTRON TRANSPORT COMPLEX IV.
+Properties:safety: Irritant
+smiles: CC1=C(C2=CC3=C(C(=C([N-]3)C=C4C(=C(C(=N4)C=C5C(=C(C(=N5)C=C1[N-]2)C)C(C)SCC(C(=O)NC)N)C)C(C)SCC(C(=O)NC)N)C)CCC(=O)O)CCC(=O)O.[Fe+2]
+formula: C42H52FeN8O6S2
+chem_properties: Molecular Weight: 884.9 g/mol
+Hydrogen Bond Donor Count: 6
+Hydrogen Bond Acceptor Count: 14
+Rotatable Bond Count: 16
+Exact Mass: 884.280059 Da
+Monoisotopic Mass: 884.280059 Da
+Topological Polar Surface Area: 263
+Heavy Atom Count: 59
+Formal Charge: 0
+Complexity: 1420
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 4
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

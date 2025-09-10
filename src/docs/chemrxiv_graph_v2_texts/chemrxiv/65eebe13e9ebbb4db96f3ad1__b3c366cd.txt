@@ -1,0 +1,100 @@
+Description:
+Limited by scarcity, affecting the widespread and large-scale implementation of PEMWE.
+
+Text:
+Although alternative materials such as ruthenium can show superior OER activity in acidic media compared to iridium, the higher dissolution 
+rate of Ru under PEMWE conditions strongly constrains its longterm stability.2,3 However, the scarcity of iridium still limits the widespread 
+and largescale implementation of PEMWE.4,5 
+A scaleup of the annual implementation of PEMWE to 10 GW using stateoftheart electrolyzers with loadings of 2 mgIr cm2, would require 
+7.5 t of iridium,5 whereas the global iridium supply in 2022 only amounted to 6.8 t per year.6 Calculations considering the scarcity of iridium 
+and the projected scaleup to the GWscale reveal that an iridiumspecific power density of 50  100 kW gIr1 is required for a successful 
+adoption of PEMWE.79 The iridiumspecific power density in recent publications ranges between 9  16 kW gIr1.5,8,10 Thus, the iridium 
+utilization must be ultimately enhanced for a future scaleup of PEMWE.
+
+
+---
+
+Description:
+Requires an iridium-specific power density of 50-100 kW gIr⁻¹ for successful adoption of PEMWE.
+
+Text:
+Although alternative materials such as ruthenium can show superior OER activity in acidic media compared to iridium, the higher dissolution 
+rate of Ru under PEMWE conditions strongly constrains its longterm stability.2,3 However, the scarcity of iridium still limits the widespread 
+and largescale implementation of PEMWE.4,5 
+A scaleup of the annual implementation of PEMWE to 10 GW using stateoftheart electrolyzers with loadings of 2 mgIr cm2, would require 
+7.5 t of iridium,5 whereas the global iridium supply in 2022 only amounted to 6.8 t per year.6 Calculations considering the scarcity of iridium 
+and the projected scaleup to the GWscale reveal that an iridiumspecific power density of 50  100 kW gIr1 is required for a successful 
+adoption of PEMWE.79 The iridiumspecific power density in recent publications ranges between 9  16 kW gIr1.5,8,10 Thus, the iridium 
+utilization must be ultimately enhanced for a future scaleup of PEMWE.
+
+
+---
+
+Description:
+Used in electrodes with reduced loadings to maintain high PEMWE performance.
+
+Text:
+This is only achievable by designing electrodes with strongly reduced 
+iridium loadings while simultaneously maintaining a high PEMWE performance. Decreasing the loading, however, usually involves a reduction of catalyst layer thickness. Importantly, it was shown that below a certain 
+threshold of layer thickness or loading (e.g., for Umicore Elyst Ir75 0480  2 m or  0.5 mgIr cm2),8 the structural integrity and, thus, the 
+inplane electrical connectivity within the layer is disrupted. Additionally, cracks can form during operation in these thin catalyst layers. In 
+combination with the comparably large pore size of the porous transport layers (PTLs), these cracks result in disconnected and therefore 
+inactive catalyst islands.
+
+
+---
+
+Description:
+Used in catalyst powders, often alloyed with more abundant elements to reduce content.
+
+Text:
+This decreased catalyst utilization comes along with significant performance losses.1012 
+To overcome the problems associated with too thin catalyst layers, the iridium content in the catalyst powder should be decreased to enable 
+the fabrication of sufficiently thick catalyst layers with low iridium loadings. In other words, advanced electrode architectures require a high 
+electrode thickness factor, which per definition is the electrode thickness as a function of catalyst loading. 1,8,13 
+Common strategies to reduce the iridium content in the catalyst powder are either to alloy iridium with more abundant elements or to 
+support the iridium. Alloying has been shown with many different elements, such as Fe14, Cr15, and Ni14,16.
+
+
+---
+
+Description:
+Used in catalysts with high dispersion to increase reaction sites for the OER.
+
+Text:
+However, the low dissolution 
+stability of the alloying elements is a concern considering both catalyst durability and membrane poisoning.17 Using support materials for 
+iridium catalysts instead can introduce a high dispersion of the iridium phase, thus increasing the amount of reaction sites. However, the 
+electrical connection of the iridium sites must be ensured to render them active for the OER. To achieve this, several conductive supports 
+have been tested, for example antimonydoped tin oxide (ATO)18 and tantalumdoped TiO219 showing high conductivity. But once more, the 
+dissolution stability of these materials is questionable; illustratively, a high antimony dissolution from ATO has been shown in threeelectrode 
+electrochemical tests.20 
+To avoid support degradation, TiO2 is established as a stable support, both in academic research13,2125 and industry.
+
+
+---
+
+Description:
+Used in catalysts where its phase ensures conductivity in TiO2 supported systems.
+
+Text:
+Nevertheless, the 
+electrical conductivity of TiO2 is so low that it is regarded as insulator for the application in PEMWE.22 Therefore, the conductivity of TiO2
+supported iridium catalysts must be ensured solely by the iridium phase. To guarantee a percolating pathway from particle to particle, a 
+coreshell structure is usually aimed for.13,21,2426 
+Here, a delicate balance must be found between reducing the iridium content on the one hand and achieving sufficient conductivity on the 
+other hand. Generally, to ultimately decrease the iridium content, an iridium shell as thin as possible is desirable, which, however, reduces 
+the electric conductivity.
+
+
+---
+
+Description:
+Used in photodeposition to produce coreshell particles.
+
+Text:
+Additionally, choosing support particles with a low specific surface area can decrease the required amount of 
+iridium, because less surface needs to be covered for a closed shell, as pointed out by Bernt et al.13 
+In this regard, photodeposition is a suitable method to produce coreshell particles. During photodeposition synthesis, a mixture of 
+semiconducting particles (e.g., TiO2) and metal ions (e.g., IrX) is exposed to electromagnetic radiation with an energy exceeding the band 
+httpsdoi.org10.26434chemrxiv2024kld98 ORCID httpsorcid.org0000000289278214 Content not peerreviewed by ChemRxiv. License CC BY 4.0

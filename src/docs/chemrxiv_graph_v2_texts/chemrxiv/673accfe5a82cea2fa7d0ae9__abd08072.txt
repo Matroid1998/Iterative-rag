@@ -1,0 +1,14 @@
+Description:
+Adsorbs weakly on low-index planes of copper surfaces and has a high activation barrier for dissociation.
+
+Text:
+On
+the lowindex planes of copper surfaces, CO2 only adsorbs weakly and has a high activation
+barrier for dissociation, with Cu(110) being the most active.1 Nakamura and Campbell have
+reported the activation energy for dissociation of CO2 on Cu(110) to be 0.64 eV, with an
+initial dissociative chemisorption probability (S0) of the order of 109 at room temperature
+conditions.7 These studies were performed by exposing a clean Cu(110) single crystal to high
+pressure (few mbar) CO2, and measuring the Oatom coverage (resulting from dissociation)
+using Auger electron spectroscopy (AES) under ultrahigh vacuum (UHV) conditions. The
+activation energy was determined by studying the rate of Oatom coverage buildup at dif
+ferent temperatures.

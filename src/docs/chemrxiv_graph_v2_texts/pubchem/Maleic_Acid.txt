@@ -1,0 +1,30 @@
+Name: Maleic Acid
+Text:
+Maleic acid is a colorless crystalline solid having a faint odor. It is combustible though it may take some effort to ignite. It is soluble in water. It is used to make other chemicals and for dyeing and finishing naturally occurring fibers.
+Maleic acid is a butenedioic acid in which the double bond has cis- (Z)-configuration. It has a role as a plant metabolite, an algal metabolite and a mouse metabolite. It is a conjugate acid of a maleate(1-) and a maleate.
+Maleic acid has been reported in Populus tremula, Psychotria punctata, and other organisms with data available.
+Maleic Acid is an organic salt or ester of maleic acid that could be conjugated to free base compounds/drugs to improve the physiochemical properties including stability, solubility and dissolution rate. (NCI)
+Maleic acid is an industrial raw material for the production of glyoxylic acid by ozonolysis. Maleic acid is an organic compound which is a dicarboxylic acid (molecule with two carboxyl groups). The molecule consists of an ethylene group flanked by two carboxylic acid groups. Maleic acid is the cis isomer of butenedioic acid, whereas fumaric acid is the trans isomer. The cis isomer is the less stable one of the two; the difference in heat of combustion is 22.7 kJ/mol. The physical properties of maleic acid are very different from that of fumaric acid. Maleic acid is soluble in water whereas fumaric acid is not and the melting point of maleic acid (130 - 131 degree centigrade) is also much lower than that of fumaric acid (287 degree centigrade). Both properties of maleic acid can be explained on account of the intramolecular hydrogen bonding that takes place at the expense of intermolecular interactions. Maleic acid is converted into maleic anhydride by dehydration, to malic acid by hydration, and to succinic acid by hydrogenation. It reacts with thionyl chloride or phosphorus pentachloride to give the maleic acid chloride (it is not possible to isolate the mono acid chloride). Maleic acid is a reactant in many Diels-Alder reactions.
+See also: Surfomer (monomer of); Ferropolimaler (monomer of) ... View More ...
+Properties:safety: Irritant
+smiles: C(=C\C(=O)O)\C(=O)O
+formula: C4H4O4
+chem_properties: Molecular Weight: 116.07 g/mol
+XLogP3: -0.3
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 2
+Exact Mass: 116.01095860 Da
+Monoisotopic Mass: 116.01095860 Da
+Topological Polar Surface Area: 74.6
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 119
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

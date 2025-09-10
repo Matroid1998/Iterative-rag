@@ -1,0 +1,12 @@
+Description:
+Designed to be highly selective for epidermal growth factor receptor (EGFR).
+
+Text:
+Identifying candidate compounds with high selectivity for a drug target protein is an essential
+factor for avoiding development failures related to pharmacokinetics and toxicity issues.1
+For example, epidermal growth factor receptor (EGFR) inhibitors such as erlotinib and
+gefitinib were designed to be highly selective for EGFR and much less potent for other
+EGFR family kinases, such as receptor proteintyrosine kinase erbB2 (HER2ERBB2) and
+erbB4.2,3 Additionally, various properties, such as pharmacokinetics endpoints4 and drug
+likeness indices,5 should be optimized to suitable criteria intended for lead compounds or
+clinical candidates.

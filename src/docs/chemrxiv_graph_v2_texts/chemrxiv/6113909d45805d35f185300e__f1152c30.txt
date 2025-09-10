@@ -1,0 +1,28 @@
+Description:
+A gas enriched in the para spin isomer used in the generation of nuclear hyperpolarization.
+
+Text:
+Long
+lived nuclear singlet order plays a central role in the gen
+eration of nuclear hyperpolarization from hydrogen gas
+enriched in the para spin isomer4459. The
+relaxation
+mechanisms
+of
+LLS
+have
+been
+extensively
+studied3,6,15,6071. Most
+attention
+has
+been given to the dipoledipole (DD), chemical shift
+anisotropy (CSA) and random eld relaxation mecha
+nisms3,6,60,61,64,68. More unusual relaxation mechanisms
+such as nuclear spinrotation and scalar relaxation of the
+second kind have also been identied4,15,6567,69. Gen
+erally speaking, the eciency of a relaxation mechanism
+is roughly proportional to the rotational correlation time
+c for the random tumbling of the molecules in solution. This suggests that small molecules, which tumble more
+rapidly in solution and have small values of c, tend to
+have the longest LLS lifetimes.

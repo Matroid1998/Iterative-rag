@@ -1,0 +1,26 @@
+Name: Ferric Chloride
+Text:
+Ferric chloride is an orange to brown-black solid. It is slightly soluble in water. It is noncombustible. When wet it is corrosive to aluminum and most metals. Pick up and remove spilled solid before adding water. It is used to treat sewage, industrial waste, to purify water, as an etching agent for engraving circuit boards, and in the manufacture of other chemicals.
+Iron trichloride is an iron coordination entity. It has a role as a Lewis acid and an astringent.
+See also: Ferric cation (has active moiety); Ferric chloride, solution (annotation moved to).
+Properties:safety: Corrosive and Irritant
+smiles: Cl[Fe](Cl)Cl
+formula: Cl3Fe
+chem_properties: Molecular Weight: 162.20 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 160.841494 Da
+Monoisotopic Mass: 160.841494 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

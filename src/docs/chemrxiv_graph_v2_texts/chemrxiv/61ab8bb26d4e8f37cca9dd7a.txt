@@ -1,0 +1,15 @@
+Description:
+An important class of glycosyl donors.
+
+Text:
+Carbohydrates are crucial to a broad array of biological processes relevant to human health and 
+wellbeing.1 Research in this area is complicated by the broad diversity of possible structures 2 and the 
+heterogeneity of carbohydrates in biological systems.3 This understanding of the crucial role of carbohydrate 
+building blocks has led to a surge in demand for enabling tools, answered by significant advances in mass 
+spectrometry of complex mixtures4 and labeling approaches to image or detect carbohydrates expressed on cell 
+surfaces.5 Various perspectives6 and funding agencies7 have recognized that the synthesis of complex 
+carbohydrates is a limiting step for advancement in the glycosciences due to difficulties in controlling regio8 and 
+diastereoselectivity9 as well as challenges in preparing the appropriately protected building blocks.10 
+A recent focus of our lab is the development of efficient catalytic methods for glycosylation, using the 
+combination of glycosyl fluorides as the glycosyl donor and silyl ethers as the glycosyl acceptor.11 Glycosyl 
+fluorides are an important class of glycosyl donors12 for which a wide variety of acid activators have been

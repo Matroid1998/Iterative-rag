@@ -1,0 +1,17 @@
+Description:
+A bond formed by the coupling of amino acid building blocks.
+
+Text:
+Automated synthesis of complex biomolecules has had a major impact in the fields of chemistry, 
+21 
+biochemistry, medicine, and healthcare. Indeed, the development of strategies based on iterative coupling 
+of amino acid and nucleotide building blocks heralded the proteomic and genomic revolution.1,2 Substantial 
+advancement has also been made towards automated polysaccharide synthesis.3,4 Iteration has been the 
+24 
+
+1 School of Chemistry, University of Bristol, Cantocks Close, Bristol, BS8 1TS, U.K. 
+2 These authors contributed equally. Email v.aggarwalbristol.ac.uk. 2 
+
+cornerstone of all these successful automated synthesis technologies (Fig. 1A), with the building blocks 
+being connected together by a single coupling reaction (e.g., amide, phosphonate, or glycosidic bond 
+formation).

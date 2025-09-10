@@ -1,0 +1,13 @@
+Description:
+A gas mixture relevant for separations in polymer gas-separation membranes.
+
+Text:
+Increasing gas permeability and selectivity in these membranes would allow for 
+more efficient industrial processes by increasing the process throughput, reducing energy costs, 
+and achieving a purer product810. However, there is a wellknown permeabilityselectivity trade
+off for polymer gasseparation membranes7, which is defined by the Robeson upper bound11. Over 
+time, advancements in polymer designs have pushed the Robeson upper bound from 1991 values 
+to updated 2008 values (and most recently 2015 values for O2N2 separations and 2019 values for 
+CO2CH4 and CO2N2 separations12,13) that reflect improved membrane performance. Identifying 
+new materials that break this upper bound has driven and continues to drive materials discovery 
+efforts for membranes1417.

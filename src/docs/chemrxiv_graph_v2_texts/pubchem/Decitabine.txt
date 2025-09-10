@@ -1,0 +1,33 @@
+Name: Decitabine
+Text:
+5-aza-2'-deoxycytidine is a fine white crystalline powder. Used as a drug.
+5-aza-2'-deoxycytidine is a 2'-deoxyribonucleoside.
+Myelodysplastic syndromes (MDS) are a heterogeneous group of hematopoietic neoplasms with variable underlying etiology and presentation, including neutropenia and thrombocytopenia. Further mutations leading to increased proliferation of cancerous cells can eventually lead to secondary acute myeloid leukemia, which has a poor prognosis. Among treatment options, nucleoside analogues such as decitabine and [azacitidine] integrate into cellular DNA and inhibit the action of DNA methyltransferases, leading to global hypomethylation and related downstream therapeutic benefits.  Decitabine was developed by MGI Pharma/SuperGen Inc. and was approved by the FDA for the treatment of MDS on February 5, 2006. It was first marketed under the name Dacogen®. It is also available as an oral combination product together with the cytidine deaminase inhibitor [cedazuridine].
+Decitabine is a Nucleoside Metabolic Inhibitor. The mechanism of action of decitabine is as a Nucleic Acid Synthesis Inhibitor.
+Decitabine is a cytosine analogue and an intravenously administered antineoplastic agent used in the therapy of myelodysplastic syndromes. Decitabine is associated with a low rate of transient serum enzyme elevations during therapy, but has not been implicated in causing clinically apparent liver injury with jaundice.
+Decitabine is a cytidine antimetabolite analogue with potential antineoplastic activity. Decitabine incorporates into DNA and inhibits DNA methyltransferase, resulting in hypomethylation of DNA and intra-S-phase arrest of DNA replication. (NCI04)
+DECITABINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2006 and has 7 approved and 54 investigational indications.
+An azacitidine derivative and antineoplastic antimetabolite. It inhibits DNA methyltransferase to re-activate silent genes, limiting METASTASIS and NEOPLASM DRUG RESISTANCE. Decitabine is used in the treatment of MYELODISPLASTIC SYNDROMES, and ACUTE MYELOID LEUKEMIA.
+See also: Cedazuridine; decitabine (component of).
+Properties:safety: Irritant and Health Hazard
+smiles: C1[C@@H]([C@H](O[C@H]1N2C=NC(=NC2=O)N)CO)O
+formula: C8H12N4O4
+chem_properties: Molecular Weight: 228.21 g/mol
+XLogP3: -1.2
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 2
+Exact Mass: 228.08585488 Da
+Monoisotopic Mass: 228.08585488 Da
+Topological Polar Surface Area: 121
+Heavy Atom Count: 16
+Formal Charge: 0
+Complexity: 356
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 3
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

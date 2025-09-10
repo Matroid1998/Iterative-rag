@@ -1,0 +1,23 @@
+Description:
+A fluorescent molecular rotor used for DNA sensing with low intrinsic fluorescence in the unbound state and increased emission upon DNA binding.
+
+Text:
+Fluorescent probes are critical tools for detecting and 
+sensing 
+the 
+structure, 
+dynamics, 
+and 
+binding 
+interactions of nucleic acids.13 Fluorescent molecular 
+rotors (FMRs), such as thioflavinT (ThT),4 and cyanine 
+dye types,5 are extensively utilized for DNA sensing 68 
+because they possess segmental mobility, with low 
+intrinsic fluorescence in the unbound state, with large 
+emission intensity upon DNA binding due to enhanced 
+dye rigidity.9,10 They are commercially available, or 
+readily synthesized, making them simple to employ.11 
+However, because they are free in solution, they can 
+suffer from false readouts, slow response times, and 
+do not provide sitespecific information. Internal FMRs remediate labelfree drawbacks due to 
+sitespecific attachment to nucleic acids.

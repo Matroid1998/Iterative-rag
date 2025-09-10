@@ -1,0 +1,12 @@
+Description:
+Conversion is influenced by the structure of the support and catalyst, affecting the active catalytic surface area and flow dynamics.
+
+Text:
+Particles are generally deposited 
+onto the support by capillary solvent adsorption or vapor deposition techniques.1922 The 
+structure of the support and catalyst has been shown to influence the overall CO2 conversion by 
+affecting the true active catalytic surface area, the flow dynamics of reactant gases, and the 
+electric field inside the discharge region.9,2325 
+While the use of chemically synthesized, particulate catalysts may allow for convenient control 
+during synthesis, the heterogeneity of the distribution can have significant effects on the process. It is difficult to separate catalytic effects from those derived from mass transport or interactions 
+with the plasma in the reactor.

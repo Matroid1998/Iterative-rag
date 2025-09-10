@@ -1,0 +1,26 @@
+Name: L-2-Amino-3-methylbutan-1-ol
+Text:
+2-Amino-3-methyl-1-butanol is an amino alcohol.
+See also: L-Valinol (annotation moved to).
+Properties:safety: Irritant
+smiles: CC(C)C(CO)N
+formula: C5H13NO
+chem_properties: Molecular Weight: 103.16 g/mol
+XLogP3: 0
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 2
+Exact Mass: 103.099714038 Da
+Monoisotopic Mass: 103.099714038 Da
+Topological Polar Surface Area: 46.3
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 45.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

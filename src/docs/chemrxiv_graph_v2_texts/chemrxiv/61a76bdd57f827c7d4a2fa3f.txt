@@ -1,0 +1,12 @@
+Description:
+Mediates ion uptake through ECF transporters.
+
+Text:
+The heterodimeric ATPases 
+(ECFA and ECFA) are represented in light and dark red color, while the Tcomponent is shown 
+in blue. The Scomponents belonging to the ECFgroup I and II are colored in light green and 
+yellow, respectively. Specifically, in group I a dedicated EcfAAT interacts with a single Scomponent and in this 
+class, both EcfAAT and Scomponent are encoded in the same operon. For instance, both 
+CbiMNQO and NikMNQO belong to group I of ECF transporters that mediate cobalt and nickel 
+ion uptake, respectively.2 Regarding group II, a single shared EcfAAT interacts with various S
+components, and is responsible for the import of various micronutrients.

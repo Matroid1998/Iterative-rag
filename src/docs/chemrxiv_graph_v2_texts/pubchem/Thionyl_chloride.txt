@@ -1,0 +1,26 @@
+Name: Thionyl chloride
+Text:
+Thionyl chloride appears as a colorless to yellow fuming liquid with a suffocating pungent odor. Boiling point 79 °C. A lachrymator. Highly corrosive and toxic. Long-term inhalation of low concentrations or short-term inhalation of high concentrations has adverse health effects.
+Thionyl chloride is a sulfinyl halide in which both of the halide atoms are chorines. It is a sulfinyl halide and a chlorine molecular entity.
+Properties:safety: Corrosive and Irritant
+smiles: O=S(Cl)Cl
+formula: Cl2OS
+chem_properties: Molecular Weight: 118.97 g/mol
+XLogP3: 1.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 117.9046912 Da
+Monoisotopic Mass: 117.9046912 Da
+Topological Polar Surface Area: 36.3
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 29
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

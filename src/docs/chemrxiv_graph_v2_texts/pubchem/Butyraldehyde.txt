@@ -1,0 +1,29 @@
+Name: Butyraldehyde
+Text:
+Butyraldehyde appears as a clear liquid with a pungent odor. Less dense than water and insoluble in water. Vapors heavier than air.
+Butanal is a member of the class of butanals that consists of propane bearing a formyl substituent at the 1-position. The parent of the class of butanals. It has a role as a biomarker, an Escherichia coli metabolite and a mouse metabolite.
+Butanal is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Butyraldehyde has been reported in Gossypium hirsutum, Ligusticum striatum, and other organisms with data available.
+See also: Arctium lappa Root (part of).
+Properties:safety: Flammable
+smiles: CCCC=O
+formula: C4H8O
+chem_properties: Molecular Weight: 72.11 g/mol
+XLogP3: 0.9
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 2
+Exact Mass: 72.057514874 Da
+Monoisotopic Mass: 72.057514874 Da
+Topological Polar Surface Area: 17.1
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 24.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

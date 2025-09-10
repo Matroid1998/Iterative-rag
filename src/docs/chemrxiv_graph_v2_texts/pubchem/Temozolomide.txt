@@ -1,0 +1,32 @@
+Name: Temozolomide
+Text:
+Temozolomide is an imidazotetrazine that is 3,4-dihydroimidazo[5,1-d][1,2,3,5]tetrazine which is substituted at positions 3, 4, and 8 by methyl, oxo, and carboxamide groups, respectively. A prodrug for MTIC (5-(3-methyltriaz-1-en-1-yl)-1H-imidazole-4-carboxamide, formed by spontaneous hydrolysis of temozolomide in the body), it is used as an oral alkylating agent for the treatment of newly diagnosed malignant glioblastoma multiforme (concomitantly with radiotherapy) and malignant melanoma. It has a role as an antineoplastic agent, a prodrug and an alkylating agent. It is an imidazotetrazine, a monocarboxylic acid amide and a triazene derivative.
+Refractory anaplastic astrocytoma (WHO grade III) and Glioblastoma multiforme (WHO grade IV) are primary malignant brain tumours with poor prognosis and limited treatment options. Despite considerable genetic heterogeneity, these tumours often have impaired DNA repair systems, rendering them initially sensitive to alkylating agents, although they invariably develop resistance to these agents over time. Temozolomide is an imidazotetrazine prodrug that is stable at acidic pH but undergoes spontaneous nonenzymatic hydrolysis at neutral or slightly basic pH; these properties allow for both oral and intravenous administration. Following initial hydrolysis, further reactions liberate a highly reactive methyl diazonium cation capable of methylating various residues on adenosine and guanine bases leading to DNA lesions and eventual apoptosis. Temozomolide as an adjunct to radiotherapy followed by maintenance dosing remains the standard of care for both Glioblastoma and refractory anaplastic astrocytoma.  Temozolomide was granted FDA approval on August 11, 1999, as an oral capsule and subsequently on February 27, 2009, as an intravenous injection. It is currently marketed under the trademark TEMODAR® by Merck.
+Temozolomide is an Alkylating Drug. The mechanism of action of temozolomide is as an Alkylating Activity.
+Temozolomide is an orally administered alkylating agent used largely in the therapy of malignant brain tumors including glioblastoma and astrocytoma. Temozolomide has been associated with a low rate of serum enzyme elevations during treatment and with rare instances of clinically apparent cholestatic liver injury.
+Temozolomide has been reported in Taiwanofungus camphoratus with data available.
+Temozolomide is a triazene analog of dacarbazine with antineoplastic activity.  As a cytotoxic alkylating agent, temozolomide is converted at physiologic pH to the short-lived active compound, monomethyl triazeno imidazole carboxamide (MTIC). The cytotoxicity of MTIC is due primarily to methylation of DNA at the O6 and N7 positions of guanine, resulting in inhibition of DNA replication. Unlike dacarbazine, which is metabolized to MITC only in the liver, temozolomide is metabolized to MITC at all sites. Temozolomide is administered orally and penetrates well into the central nervous system. (NCI04)
+TEMOZOLOMIDE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1999 and has 7 approved and 71 investigational indications. This drug has a black box warning from the FDA.
+A dacarbazine derivative that is used as an alkylating antineoplastic agent for the treatment of MALIGNANT GLIOMA and MALIGNANT MELANOMA.
+Properties:safety: Acute Toxic and Irritant and Health Hazard
+smiles: CN1C(=O)N2C=NC(=C2N=N1)C(=O)N
+formula: C6H6N6O2
+chem_properties: Molecular Weight: 194.15 g/mol
+XLogP3: -1.1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 1
+Exact Mass: 194.05522346 Da
+Monoisotopic Mass: 194.05522346 Da
+Topological Polar Surface Area: 106
+Heavy Atom Count: 14
+Formal Charge: 0
+Complexity: 315
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

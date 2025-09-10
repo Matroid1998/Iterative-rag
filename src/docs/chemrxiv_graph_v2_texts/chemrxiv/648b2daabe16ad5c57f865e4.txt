@@ -1,0 +1,10 @@
+Description:
+An early transition metal used in the formation of MXenes.
+
+Text:
+MXenes are a large family of 2D materials, with more than 50 stoichiometric MXenes 
+experimentally synthesized, hundreds of computationally predicted compositions, and an infinite 
+number of solidsolution MXenes (Figure 1).1,2 The general formula of MXenes can be expressed 
+as Mn1XnTx where M is an early transition metal (Ti, Nb, Ta, Mo, V, etc. ), X is carbon andor 
+nitrogen, and n is an integer 1  4. Tx represents the surface termination groups (typically OH, 
+O, and F)3 and will not be continually expressed for clarity.

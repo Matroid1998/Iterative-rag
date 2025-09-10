@@ -1,0 +1,31 @@
+Name: Lactic Acid
+Text:
+Lactic acid appears as a colorless to yellow odorless syrupy liquid. Corrosive to metals and tissue. Used to make cultured dairy products, as a food preservative, and to make chemicals.
+2-hydroxypropanoic acid is a 2-hydroxy monocarboxylic acid that is propanoic acid in which one of the alpha-hydrogens is replaced by a hydroxy group. It has a role as a Daphnia magna metabolite and an algal metabolite. It is functionally related to a propionic acid. It is a conjugate acid of a lactate.
+A normal intermediate in the fermentation (oxidation, metabolism) of sugar. The concentrated form is used internally to prevent gastrointestinal fermentation. (From Stedman, 26th ed) Sodium lactate is the sodium salt of lactic acid, and has a mild saline taste. It is produced by fermentation of a sugar source, such as corn or beets, and then, by neutralizing the resulting lactic acid to create a compound having the formula NaC3H5O3.  Lactic acid was one of active ingredients in Phexxi, a non-hormonal contraceptive agent that was approved by the FDA on May 2020.
+Lactic Acid has been reported in Drosophila melanogaster, Sambucus ebulus, and other organisms with data available.
+Lactic Acid, DL- is the racemic isomer of lactic acid, the biologically active isoform in humans.  Lactic acid or lactate is produced during fermentation from pyruvate by lactate dehydrogenase. This reaction, in addition to producing lactic acid, also produces nicotinamide adenine dinucleotide (NAD) that is then used in glycolysis to produce energy source adenosine triphosphate (ATP).
+LACTIC ACID is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2006 and has 2 investigational indications.
+A normal intermediate in the fermentation (oxidation, metabolism) of sugar. The concentrated form is used internally to prevent gastrointestinal fermentation. (From Stedman, 26th ed)
+Properties:safety: Corrosive and Irritant
+smiles: CC(C(=O)O)O
+formula: C3H6O3
+chem_properties: Molecular Weight: 90.08 g/mol
+XLogP3: -0.7
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 1
+Exact Mass: 90.031694049 Da
+Monoisotopic Mass: 90.031694049 Da
+Topological Polar Surface Area: 57.5
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 59.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

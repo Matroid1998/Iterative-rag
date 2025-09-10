@@ -1,0 +1,63 @@
+Description:
+Undergo bC(sp2)H sulfonylation with sulfinate salts mediated by copper.
+
+Text:
+and removal. Here we report the first use of a transient directing group in 
+combination with copper to effect CH functionalization. The copper 
+mediated bC(sp2)H sulfonylation of aldehydes with sulfinate salts is 
+accomplished using alanine, in catalytic quantities, to form a 
+transient imine. A broad range of sulfonylated benzaldehydes are 
+prepared using copper fluoride as both copper source and oxidant, 
+involving a 5,6 cupracyclic intermediate. The transient directing 
+group provides exclusive regioselectivity in CH functionalization, 
+even in the presence of other strongly coordinating Lewis basic 
+groups. In addition, g(peri)sulfonylation of napthyl and phenanthrene 
+carboxaldehydes is achieved through 6,6 cupracyclic intermediates. Further derivatisation of the aldehyde products is demonstrated.
+
+
+---
+
+Description:
+Common valuable functional groups used in transient directing groups for CH functionalisation reactions.
+
+Text:
+Recently transient directing groups (TDGs) have been developed, 
+notably for arylation processes, whereby the directing group is 
+formed and removed within the CH functionalisation reaction by 
+taking advantage of common valuable functional groups such as 
+aldehydes (Figure 1a).3 Transient directing groups formed as 
+imines have been used in particular to selectively functionalize 
+aldehyde or amine components, though in a limited range of 
+transformations to date.
+
+
+---
+
+Description:
+Undergo benzylic and sp3 CH functionalization using cocatalytic palladium acetate and glycine.
+
+Text:
+A transient directing group approach was 
+first described by Jun for the alkylation of aldehydic CH bonds.4 
+In 2016, Yu reignited interest in this field by demonstrating 
+powerful benzylic and sp3 CH functionalization of aldehydes and 
+ketones respectively using cocatalytic palladium acetate and 
+glycine to form a transient coordinating imine.5 In 2017, Yu 
+reported 
+the 
+palladium 
+catalyzed 
+transient 
+orthoCH 
+functionalization 
+of 
+benzaldehydes, 
+achieving 
+arylation, 
+bromination and chlorination with imines derived from anilines 
+(Figure 1b).6 Contemporaneously, Sorensen developed C(sp2)
+H hydroxylation, fluorination and methylation processes.7 
+Noticeably there are no examples of CS bond formation using 
+transient CH functionalization. Furthermore, the majority of 
+transient directing groups use precious metal catalysis, mainly 
+palladium, but also rhodium, ruthenium and iridium.3,8,9

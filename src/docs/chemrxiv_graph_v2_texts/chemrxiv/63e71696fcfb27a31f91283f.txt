@@ -1,0 +1,13 @@
+Description:
+Forms dots that exhibit hypsochromic shift under hydrostatic pressure.
+
+Text:
+Although 
+some mechanisms have been proposed, the relationship between fluorescent properties and various stimuli still 
+remains ambiguous. Thus, making a clear picture for the underlying mechanism will be of significance for 
+rational molecular design in the solid state. From previous works, it is found that most of the reported MC materials present a bathochromicshifted 
+and reduced photoluminescence (PL) intensity with increasing pressure 1821, which is mainly due to generate 
+a lowenergy emission species with a narrow bandgap. To date, only scattered cases on hypsochromicshifted 
+emission have been reported upon mechanical stimuli 2227. For example, Zou and coworkers prepared 
+several carbon dots showing obvious hypsochromicshift under hydrostatic pressure 2224. However, due to 
+no clear structural information, their structureproperty relationship is quite difficult to investigate at molecular

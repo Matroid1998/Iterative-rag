@@ -1,0 +1,16 @@
+Description:
+A species produced during surface reactions that can interact with materials and induce local restructuring.
+
+Text:
+Heterogeneous catalysis is governed by a concerted and
+intricate interplay of several processes that take place at
+multiple time and length scales.14 The chemical envi
+ronment that exists during catalyst operation as well as
+the kinetics of structural changes create configurations of
+typically unknown local geometries and chemistry. While
+surface reactions that break and make chemical bonds
+occur at time scales of picoseconds, they produce species
+such as carbon, hydrogen, or oxygen, that interact with
+the material initially placed in the reactor and may in
+duce its local restructuring along with changes in the
+reactivity in the scale of hours, days, or even longer.

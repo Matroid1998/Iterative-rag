@@ -1,0 +1,13 @@
+The Kolbe electrolysis or Kolbe reaction is an organic reaction named after Hermann Kolbe. The Kolbe reaction is formally a decarboxylative dimerisation of two carboxylic acids (or carboxylate ions). The overall reaction is:
+
+If a mixture of two different carboxylates are used, all combinations of them are generally seen as the organic product structures:
+
+3 R1COO− + 3 R2COO− → R1−R1 + R1−R2 + R2−R2 + 6 CO2 + 6 e−
+The reaction mechanism involves a two-stage radical process: electrochemical decarboxylation gives a radical intermediate, which combine to form a covalent bond. As an example, electrolysis of acetic acid yields ethane and carbon dioxide:
+
+CH3COOH → CH3COO− → CH3COO· → CH3· + CO2
+2CH3· → CH3CH3
+Another example is the synthesis of 2,7-dimethyl-2,7-dinitrooctane from 4-methyl-4-nitrovaleric acid:
+
+The Kolbe reaction has also been occasionally used in cross-coupling reactions.
+In 2022, it was discovered that the Kolbe electrolysis is enhanced if an alternating square wave current is used instead of a direct current.

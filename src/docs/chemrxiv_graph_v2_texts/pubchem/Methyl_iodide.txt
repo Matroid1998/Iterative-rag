@@ -1,0 +1,29 @@
+Name: Methyl iodide
+Text:
+Methyl Iodide can cause cancer according to an independent committee of scientific and health experts.
+Methyl iodide appears as a colorless liquid that turns brown on exposure to light. Denser than water. Contact may irritate skin, eyes and mucous membranes. Very toxic by ingestion, inhalation and skin absorption.
+Iodomethane is a member of the class of iodomethanes that is methane in which one of the hydrogens is replaced by iodine. It has a role as a fumigant insecticide. It is a member of methyl halides and a member of iodomethanes.
+Methyl iodide is used as an intermediate in the manufacture of some pharmaceuticals and pesticides, in methylation processes, and in the field of microscopy. In humans, acute (short-term) exposure to methyl iodide by inhalation may depress the central nervous system (CNS), irritate the lungs and skin, and affect the kidneys. Massive acute inhalation exposure to methyl iodide has led to pulmonary edema. Acute inhalation exposure of humans to methyl iodide has resulted in nausea, vomiting, vertigo, ataxia, slurred speech, drowsiness, skin blistering, and eye irritation. Chronic (long-term) exposure of humans to methyl iodide by inhalation may affect the CNS and cause skin burns. EPA has not classified methyl iodide for potential carcinogenicity.
+See also: Methyl, iodo- (annotation moved to).
+Properties:safety: Acute Toxic and Health Hazard
+smiles: CI
+formula: CH3I
+chem_properties: Molecular Weight: 141.939 g/mol
+XLogP3: 1.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 141.92795 Da
+Monoisotopic Mass: 141.92795 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 2
+Formal Charge: 0
+Complexity: 2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

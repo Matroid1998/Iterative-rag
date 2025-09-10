@@ -1,0 +1,18 @@
+Description:
+A fundamental element in organic molecules, often forming the backbone of molecular structures.
+
+Text:
+A reliable MLbased prediction of  could ll exactly
+this gap  providing signicant speedups for the assess
+ment of thousands of molecules while potentially allowing
+for the extraction of robust chemical rules by explainable
+AI.32 MLbased approaches were indeed recently success
+ful for the prediction of  for rigid molecules,33 while ex
+ible molecules still pose a signicant challenge,34 likely
+because  simultaneously depends on two potential en
+ergy surfaces (see Fig. 1). In this contribution we therefore critically study the
+ML prediction of  (specically for hole conduction) as
+a challenging problem for chemical machine learning. To this end, we present a new dataset of hybrid DFT
+level reorganization energies for 10.900 carbon and hy
+drogen containing molecules consisting of up to sixty
+atoms and ve rotatable bonds.

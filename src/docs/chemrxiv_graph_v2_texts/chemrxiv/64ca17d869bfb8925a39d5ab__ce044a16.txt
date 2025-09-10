@@ -1,0 +1,13 @@
+Description:
+A compound involved in decomposition on lithium imide surfaces for hydrogen production.
+
+Text:
+Here, we unravel the complex dynamic behaviour of a catalytic process in
+operando conditions by investigating the ammonia decomposition on a lithium
+imide (Li2NH) surface, a process that has received much attention for its pos
+sible role in a future sustainable hydrogenbased economy9,10,11,12,13,14 We
+perform state of the art simulations in which the interatomic forces are calcu
+lated with an accuracy close to that of ab initio molecular dynamics15. Our
+simulations reveal that the reactive process induces a change of state of the
+interface. Such a modified interfacial state is the actual catalytic medium, and
+one does not need to invoke any special stable arrangement of atoms.

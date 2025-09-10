@@ -1,0 +1,30 @@
+Description:
+An important aromatic compound involved in the atmospheric chemistry of Titan.
+
+Text:
+Toluene has been suggested as an important aromatic compound in the 
+atmosphere of Titan.13 The reaction of toluene with cyano radical (CN) is 
+a crucial channel to incorporate nitrogen into Titans molecular weight 
+growth model,4 which ultimately leads to the brown appearance of Titans 
+atmosphere.57 Previous studies have shown very fast rate coefficients 
+between CN and unsaturated compounds including aromatics at low 
+temperatures.8, 9 Recently, Messinger et al.10 investigated this reaction by 
+the pulsed laser photolysislaserinduced fluorescence (PLPLIF) technique 
+and quantum chemical calculations, indicating that the rate constants of CN 
+ toluene between 15 and 294 K are independent of temperature, with an 
+average value of (4.1  0.2)  1010 cm3 molecule1 s1, at the total gas 
+density from 2.7 to 10.5  1016 cm3.
+
+
+---
+
+Description:
+A compound whose reaction products with CN were detected using tunable synchrotron VUV photoionization mass spectrometry.
+
+Text:
+Trevitt et al.11 have measured the rate 
+coefficients of toluene  CN to be 1.31010 cm3 molecule1 s1 using a 
+pulsed Laval nozzle expansion in conjunction with laserinduced 
+fluorescence (LIF) at 105 K and 4 Torr. In addition, the reaction products 
+of CN with toluene were detected by using tunable synchrotron VUV 
+photoionization mass spectrometry. The experimental results also revealed

@@ -1,0 +1,14 @@
+Description:
+Involved in photosensitization as a reactant in nonradiative bimolecular energy transfer reactions.
+
+Text:
+While photosensitization has been the sub
+ject of several theoretical studies 1017, a detailed mechanistic understanding of the process is
+still lacking. Our aim, in this study, is to better understand photosensitization, using thiothymines
+as the photosensitizers, since all three thiothymines (shown in Fig. 1)  2thiothymine (2tThy),
+4thiothymine (4tThy) and 2,4dithiothymine (dtThy)  are known to have signicant singlet oxy
+gen yields 18. Moreover, the thiothymines are known to have ultrafast intersystem crossing
+(ISC) lifetimes 18 and near unity triplet yields with long long triplet lifetimes, of the order of
+microseconds 19, 20, making them excellent photosensitizers. Specically, we wish to calculate
+the rate constant at which they photosensitize O2, and thereby obtain physical and mechanistic
+insights into photosensitization. Generally, photosensitization is a nonradiative bimolecular energy transfer reaction (Eq.

@@ -1,0 +1,31 @@
+Description:
+A fluorescent probe used as a molecular rotor to monitor mitochondrial viscosity.
+
+Text:
+The local viscosity is the vital pa
+rameter for perceiving realtime mitochondrial activity.7,8 
+Conventional methods to measure the viscosity are applicable 
+for the bulk solvent and cannot be utilized for the local viscos
+ity at the microscopic level. The scientific community has 
+exploited molecular probes to monitor the realtime, non
+invasive, and spatialtemporal changes of viscosity.911 
+Recently, fluorescent probes based on hemicyanine, pyridine, 
+BODIPY, triphenylphosphonium (TPP), and rhodamine as 
+molecular rotors to account for mitochondrial viscosity have 
+been reported.1222 The highly negative potential inside the 
+mitochondria 
+matrix 
+attracts 
+the 
+lipophilic 
+cations. Lipophilicity 
+allows 
+molecules 
+to 
+permeate 
+the 
+cell 
+membranes, and most of them contain delocalized cations that 
+drive them into the mitochondrial matrix. Localization 
+controlled by the reporter itself can create complications in 
+interpreting fluorescent profiles.

@@ -1,0 +1,86 @@
+Description:
+A promising alternative energy source due to its high energy density and water as its only byproduct.
+
+Text:
+As the global community faces mounting challenges related to finite fossil fuel supply and 
+climate change driven by greenhouse gas emissions, the transition toward sustainable energy 
+sources has become imperative. Hydrogen is a promising alternative due to its high energy density, 
+scalability and water as its only byproduct. It supports diverse energy needs, including hydrogen
+powered fuel cells for reliable backup power in remote, gridunstable area, and can replace natural 
+gas for heating or participate in industrial reactions, simplifying the transition to cleaner industrial 
+energy systems1,2. Reports suggest that a fivefold increase in hydrogen production and utilization 
+by 2050 could reduce U.S greenhouse gas emissions by approximately 10 from 2005 levels and 
+potentially create 100,000 new jobs3.
+
+
+---
+
+Description:
+Has low volumetric energy density necessitating high pressures for effective storage.
+
+Text:
+Despite these promising prospects, the widespread 
+deployment of hydrogen technology faces a critical challenge effective and economical hydrogen 
+storage solutions. Traditional storage methods such as highpressure compression or cryogenic 
+liquefaction cannot scale on a physical or cost basis to meet emerging uses of hydrogen including 
+long duration energy storage and industry scale decarbonization. Hydrogens low volumetric 
+energy density necessitates extremely high pressures (typically 350 to 700 bar) for effective storage, 
+requiring expansive compression and storage tank materials, and posing safety concerns4. Liquid 
+hydrogen storage involves cooling hydrogen gas to a cryogenic temperature of 253 C, demands 
+significant energy and infrastructure costs and has high boiloff rates5. Physisorption or 
+chemisorption of hydrogen within solid state materials provides an alternative to traditional 
+physically based hydrogen storage methods611.
+
+
+---
+
+Description:
+Requires cooling to a cryogenic temperature of 253 C for liquid storage.
+
+Text:
+Despite these promising prospects, the widespread 
+deployment of hydrogen technology faces a critical challenge effective and economical hydrogen 
+storage solutions. Traditional storage methods such as highpressure compression or cryogenic 
+liquefaction cannot scale on a physical or cost basis to meet emerging uses of hydrogen including 
+long duration energy storage and industry scale decarbonization. Hydrogens low volumetric 
+energy density necessitates extremely high pressures (typically 350 to 700 bar) for effective storage, 
+requiring expansive compression and storage tank materials, and posing safety concerns4. Liquid 
+hydrogen storage involves cooling hydrogen gas to a cryogenic temperature of 253 C, demands 
+significant energy and infrastructure costs and has high boiloff rates5. Physisorption or 
+chemisorption of hydrogen within solid state materials provides an alternative to traditional 
+physically based hydrogen storage methods611.
+
+
+---
+
+Description:
+Physisorption or chemisorption within solid state materials offers an alternative storage method.
+
+Text:
+Despite these promising prospects, the widespread 
+deployment of hydrogen technology faces a critical challenge effective and economical hydrogen 
+storage solutions. Traditional storage methods such as highpressure compression or cryogenic 
+liquefaction cannot scale on a physical or cost basis to meet emerging uses of hydrogen including 
+long duration energy storage and industry scale decarbonization. Hydrogens low volumetric 
+energy density necessitates extremely high pressures (typically 350 to 700 bar) for effective storage, 
+requiring expansive compression and storage tank materials, and posing safety concerns4. Liquid 
+hydrogen storage involves cooling hydrogen gas to a cryogenic temperature of 253 C, demands 
+significant energy and infrastructure costs and has high boiloff rates5. Physisorption or 
+chemisorption of hydrogen within solid state materials provides an alternative to traditional 
+physically based hydrogen storage methods611.
+
+
+---
+
+Description:
+A gas that can be released from liquid organic hydrogen carriers and metal hydrides through chemisorption methods requiring heat.
+
+Text:
+Liquid organic hydrogen carrier (LOHC) and 
+metal hydrides (MHs) based chemisorption methods typically require a large amount of heat to 
+release the hydrogen and can suffer from slow discharging kinetics1,12. In contrast, physisorption 
+methods offer fast kinetics during discharge at moderate temperatures and pressures. Among various physisorption materials, metalorganic frameworks (MOFs) are of great 
+interest due to their porous structure, fast kinetics, and good cyclability13,14. They have high 
+porosity and enormous internal surface areas, which, together with their extraordinary degree of 
+tunability and variability for both the organic and inorganic components of their structures15,16, 
+make them of great interest for gas storage.

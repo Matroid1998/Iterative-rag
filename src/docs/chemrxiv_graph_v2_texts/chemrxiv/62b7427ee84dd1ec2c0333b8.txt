@@ -1,0 +1,22 @@
+Description:
+Fundamental components of biological membranes, forming bilayers and lyotropic phases.
+
+Text:
+As fundamental 
+46 
+components of the biological membrane, lipids and their mesoscale structures have informed our 
+47 
+understanding of the structure and activity of the bilayers in which they reside, and have been used 
+48 
+extensively as the basis of bottomup bioinspired systems.1 
+49 
+The most structurally exotic of these lyotropic lipid phases are the bicontinuous cubic phases, in 
+50 
+which a bilayer separates two interconnecting water channels, and can adopt geometries that are 
+51 
+based on the diamond (
+), the primitive (
+) and the gyroid (
+) minimal surfaces, with 
+52 
+crystallographic space groups Pn3m, Im3m and Ia3d respectively (Figure 1).

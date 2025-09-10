@@ -1,0 +1,32 @@
+Description:
+Used as anodic material in high-performance lithium ion batteries.
+
+Text:
+Stateoftheart lithium ion batteries (LIBs) dominate the energy storage
+market due to their high energy density and long cycle life compared to other
+energy storage systems1. However, commercial LIBs often use liquid
+electrolytes (such LiPF6 in ECDEC organic solvent), which have a variety of
+safety, thermal and toxicity concerns, some of which are uniquely problematic
+in the emerging electric vehicle market2, 3. It is thought these concerns can be
+addressed by use of an allsolidstate battery (ASSB), where the flammable
+electrolyte is replaced with an inorganic solidstate electrolyte (SSE). Additionally, ASSBs would also allow higher energy density cells by enabling
+use of highperformance cathode materials and anodic lithium metal. Therefore SSEs have attracted considerable attention in the field of next
+generation LIBs4, 5.
+
+
+---
+
+Description:
+A component of lithium garnet systems known for good electrochemical stability and high room temperature Li ion conductivity.
+
+Text:
+Over the last few decades, various potential SSEs have
+been investigated, including LISICON68, NASICON9, 10, perovskites11, garnet12,
+ThioLISICON13, argyrodite14 and antiperovskites15. However, of all the
+systems reported, the lithium garnet systems are among the few which
+encompass both good electrochemical stability and high room temperature Li
+ion conductivity. Hence the garnet solidstate electrolytes are envisaged as
+promising candidates for allsolidstate batteries. The ideal garnet has a general formula A3B2C3O12 where A, B and C are 8, 6
+and 4 oxygen coordinated metal ions. The garnet has a cubic structure (Ia
+
+3d), which contains a framework of cornerlinked tetrahedra and octahedra

@@ -1,0 +1,29 @@
+Name: Furfuryl alcohol
+Text:
+Furfuryl Alcohol can cause cancer according to The Environmental Protection Agency (EPA).
+Furfuryl alcohol appears as a clear colorless liquid. Flash point 167 °F. Boiling point 171 °F. Denser than water. Contact may irritate skin, eyes and mucous membranes. May be toxic by ingestion and skin contact and moderately toxic by inhalation.
+Furfuryl alcohol is a furan bearing a hydroxymethyl substituent at the 2-position. It has a role as a Maillard reaction product. It is a primary alcohol and a member of furans.
+Furfuryl alcohol has been reported in Perilla frutescens, Zea mays, and other organisms with data available.
+See also: Furfural (annotation moved to).
+Properties:safety: Acute Toxic and Health Hazard
+smiles: C1=COC(=C1)CO
+formula: C5H6O2
+chem_properties: Molecular Weight: 98.10 g/mol
+XLogP3: 0.3
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 98.036779430 Da
+Monoisotopic Mass: 98.036779430 Da
+Topological Polar Surface Area: 33.4
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 54
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

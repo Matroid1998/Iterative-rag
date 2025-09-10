@@ -1,0 +1,12 @@
+Description:
+An n-type semiconductor used in nDSCs.
+
+Text:
+Moreover, the theoretical photovoltage (cumulative in a series design) of 
+the liquid pn tandem DSC is also limited by the energy difference between the conduction 
+band (CB) of ntype semiconductor, such as TiO2, used in nDSCs and the valence band (VB) 
+of ptype semiconductor, such as NiO, used in pDSCs, typically ca. 1 V (Figure 1A).9,10 To 
+overcome these hurdles, we previously proposed the concept and design principle of pn tandem 
+solidstate dyesensitized solar cells (tssDSCs)17 in which a hole transport material (HTM) and 
+electron transport material (ETM) are used to replace the liquid electrolyte to extract holes and 
+electrons from dyesensitized photoanode and dyesensitized photocathode, respectively.

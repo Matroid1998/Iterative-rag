@@ -1,0 +1,10 @@
+Description:
+An oxygen donor used in nonhydrolytic polycondensation reactions to form metalsilicon oxides.
+
+Text:
+The NHSG method relies on nonhydrolytic polycondensation reactions 
+between metalsilicon precursors and oxygen donors other than water under nonaqueous 
+conditions and leads to the formation of metalsilicon oxides.3 These reaction rates are usually 
+lower and level off compared to ones under aqueous environments, leading to the formation of 
+materials with wellcontrolled properties such as homogeneity, composition, morphology, 
+texture, and surface chemistry.

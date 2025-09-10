@@ -1,0 +1,11 @@
+Description:
+Undergoes photoisomerization governed by the microenvironment of opsin proteins in the first step of vision.
+
+Text:
+The environment around a molecule can have a pronounced effect on its excited state and is 
+frequently used in nature to control and manipulate photophysical outcomes. One example is the 
+first step of vision, where the photoisomerization of retinal is governed by the microenvironment of 
+opsin proteins.1,2 Another example is the fluorophore of green fluorescent protein that is only 
+emissive when packaged inside of the folded protein.3,4 Because photochemistry is a zerosum 
+competition of the rates of different excited state processes, the manipulation of those rates by the 
+environment can select which pathway is dominant.

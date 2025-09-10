@@ -1,0 +1,18 @@
+Description:
+Used in a high purity hydrogen containing argon atmosphere to mitigate oxidation.
+
+Text:
+Radiative rates are extracted from 
+photoluminescence (PL) transients recorded using timecorre
+lated singlephoton counting, and single dot PL linewidths are 
+measured by singledot spectroscopy. Finally, powerdepend
+ent charge carrier recombination is investigated using transient 
+absorption spectroscopy which allows to extract biexciton life
+times and Auger constants. Results and discussion. A size series of InP CQDs is prepared 
+following reported procedures but conducting the syntheses un
+der a hydrogen containing argon atmosphere of high purity in 
+order to mitigate oxidation.6 While bulk InP has a band gap of 
+ca. 1.33 eV, the InP CQDs studied in this work exhibit first
+absorptionpeakenergies (E1s) in the range of 2.0 to 2.7 eV (620 
+to 460 nm), and thus cover a considerable portion of the visible 
+spectrum.

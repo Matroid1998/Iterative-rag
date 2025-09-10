@@ -1,0 +1,27 @@
+Name: Herbacetin
+Text:
+Herbacetin is a pentahydroxyflavone that is kaempferol substituted by a hydroxy group at position 8. It is a natural flavonoid from flaxseed which exerts antioxidant, anti-inflammatory and anticancer activities. It has a role as an EC 4.1.1.17 (ornithine decarboxylase) inhibitor, an antineoplastic agent, an apoptosis inducer, an angiogenesis inhibitor, a plant metabolite, an antilipemic drug, an anti-inflammatory agent and an EC 3.4.22.69 (SARS coronavirus main proteinase) inhibitor. It is a pentahydroxyflavone and a 7-hydroxyflavonol. It is functionally related to a kaempferol.
+Herbacetin has been reported in Sinocrassula indica, Rhodiola crenulata, and other organisms with data available.
+See also: Larrea tridentata whole (part of).
+Properties:safety: Acute Toxic
+smiles: C1=CC(=CC=C1C2=C(C(=O)C3=C(O2)C(=C(C=C3O)O)O)O)O
+formula: C15H10O7
+chem_properties: Molecular Weight: 302.23 g/mol
+XLogP3: 2.2
+Hydrogen Bond Donor Count: 5
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 1
+Exact Mass: 302.04265265 Da
+Monoisotopic Mass: 302.04265265 Da
+Topological Polar Surface Area: 127
+Heavy Atom Count: 22
+Formal Charge: 0
+Complexity: 480
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

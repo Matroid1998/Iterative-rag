@@ -1,0 +1,31 @@
+Description:
+An important organic acid involved in the metabolic cycle of animals and used in various industries.
+
+Text:
+Glyoxylic acid (GA) is an important organic acid in the chemical, cosmetic, 
+pharmaceutical, and food industries. It is found in plants and involved in the 
+metabolic cycle of animals. Glyoxylic acid is produced in several ways; by nitric 
+acid oxidation of glyoxal, by catalytic oxidation of ethylene or acetaldehyde, and by 
+electrochemical reduction of oxalic acid 1. The determination of glyoxylic acid in its electrochemical synthesis reaction mixture 
+is a difficult process because this mixture contains carboxylic acids with convergent 
+acidic dissociation constants and other compounds carrying organic groups that can 
+undergo oxidation or reduction such as ethylene glycol, glyoxal and glycolic acid.
+
+
+---
+
+Description:
+Reacts with tryptophan to form a crimson-violet color that absorbs at 540-545 nm.
+
+Text:
+Thus, it is expected that glyoxylic acid will be very difficult to determine 
+quantitatively using traditional analytical methods such as acidbase or redox 
+titrations, separation, or precipitation 2, 3. This paper provides a simple, reliable, and inexpensive spectrophotometric method 
+for determination of glyoxylic acid in such reaction mixtures directly without the 
+need of separation. The method depends on a colored chromogen product formation 
+
+between glyoxylic acid and tryptophan when they react according to a reaction 
+discovered in 1901 by Hopkins and Cole 4, see eq. (1). They suggested that one 
+molecule of glyoxylic acid can react with two molecules of tryptophan to give a 
+crimsonviolet color that absorbs at 540545 nm. This reaction ideally occurs in an 
+anhydrous medium pledged by concentrated sulphuric acid 58.

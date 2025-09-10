@@ -1,0 +1,21 @@
+Description:
+An alloy studied for its potential to increase valley degeneracy through band inversion.
+
+Text:
+Engineering high valley degeneracy is a common design strat
+egy for achieving high thermoelectric performance, as it en
+ables high electrical conductivity while simultaneously maintain
+ing high thermopower.16 In the absence of intervalley scattering,
+the thermoelectric quality factor, which determines the maximum
+thermoelectric gure of merit zT, is directly proportional to the
+valley degeneracy NV .7 Improving zT by increasing the valley de
+generacy has been a focus of many studies; for example, converg
+ing the valence bands of PbTe at the Lpoint (NV  4) and along
+the line (NV  12) has been shown to improve the thermoelec
+tric performance of ptype PbTe.813
+Recently, nontrivial electronic structure topologies have also at
+tracted interest as a strategy for increasing the valley degeneracy
+in materials such as rocksalt SnSe,14,15 PbTeSnTeGeTe alloys,16
+and Bi2Te3.1719 In these systems, it is often discussed that band
+inversion leads to highlycorrugated Fermi surfaces with multiple
+carrier pockets near the band edge.

@@ -1,0 +1,27 @@
+Name: Eribulin Mesylate
+Text:
+Eribulin mesylate is a methanesulfonate salt obtained by reaction of eribulin with one equivalent of methanesulfonic acid. A fully synthetic macrocyclic ketone analogue of marine sponge natural products. Inhibits growth phase of microtubules via tubulin-based antimitotic mechanism, which leads to G2/M cell-cycle block, disruption of mitotic spindles, and, ultimately, apoptotic cell death after prolonged mitotic blockage. It has a role as an antineoplastic agent and a microtubule-destabilising agent. It contains an eribulin(1+).
+Eribulin Mesylate is the mesylate salt of a synthetic analogue of halichondrin B, a substance derived from a marine sponge (Lissodendoryx sp.) with antineoplastic activity. Eribulin binds to the vinca domain of tubulin and inhibits the polymerization of tubulin and the assembly of microtubules, resulting in inhibition of mitotic spindle assembly, induction of cell cycle arrest at G2/M phase, and, potentially, tumor regression.
+ERIBULIN MESYLATE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2010 and has 4 approved and 18 investigational indications.
+See also: Eribulin (has active moiety).
+Properties:safety: Health Hazard and Environmental Hazard
+smiles: C[C@@H]1C[C@@H]2CC[C@H]3C(=C)C[C@@H](O3)CC[C@]45C[C@@H]6[C@H](O4)[C@H]7[C@@H](O6)[C@@H](O5)[C@@H]8[C@@H](O7)CC[C@@H](O8)CC(=O)C[C@H]9[C@H](C[C@H](C1=C)O2)O[C@@H]([C@@H]9OC)C[C@@H](CN)O.CS(=O)(=O)O
+formula: C41H63NO14S
+chem_properties: Molecular Weight: 826.0 g/mol
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 15
+Rotatable Bond Count: 4
+Exact Mass: 825.39692686 Da
+Monoisotopic Mass: 825.39692686 Da
+Topological Polar Surface Area: 209
+Heavy Atom Count: 57
+Formal Charge: 0
+Complexity: 1470
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 19
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

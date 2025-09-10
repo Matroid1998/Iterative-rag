@@ -1,0 +1,18 @@
+Description:
+Substrates used in coupling reactions with aryl halides.
+
+Text:
+Nicatalyzed crosselectrophile coupling (CEC) reactions to generate new C(sp2)C(sp3) 
+bonds have received significant attention over the last decade due to the prevalence of these 
+linkages in natural products and pharmaceuticals, and the limitations of current synthetic methods 
+to form these bonds (Figure 1a).1 Despite the widespread interest, reaction development has relied 
+heavily on the empirical screening of reaction parameters, such as the identity of the ancillary 
+ligand and presence of pyridine and alkali halide additives.2 Consequently, reaction conditions 
+developed using this strategy are often specific to a limited range of substrates.3 For example, 
+typical reaction conditions for the coupling of aryl halides with primary alkyl bromides, primary 
+alkyl iodides, or primary benzyl chlorides utilize different ligand sets, additives, solvents, and 
+reductants.1a,1b,2,4 Further, even within a particular substrate class, for instance nitrogen
+containing heteroaryl halides, significant changes are often required depending on the exact 
+identity of the substrates.5 Unfortunately, it is often unclear why a given alteration of reaction 
+conditions or the presence of an additive results in the desired reactivity, which complicates the 
+translation of the method to other substrates.

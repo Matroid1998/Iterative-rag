@@ -1,0 +1,27 @@
+Description:
+A cofactor in proteins that catalyzes reactions like hydroxylation and halogenation.
+
+Text:
+Enzymes are versatile catalysts that enable the biosynthesis of complex chemical 
+compounds with high chemo, regio, and stereospecificity under mild conditions.1 The growing 
+need for green catalysts has sparked interest in applying computational approaches and directed 
+evolution to engineer nonnative enzymes with enhanced reactivity and the capability to perform 
+novel chemical transformations.27 Heme proteins, which contain a protoporphyrin IX cofactor 
+typically with a coordinated iron cation, are of particular interest as they catalyze a remarkable 
+array of challenging reactions, including hydroxylation,8 halogenation,9 peroxidation,10 
+sulfoxidation,11 and CC bond cleavage12, and can be tuned by modifying the protein scaffold and 
+the coordinating environment of the reactive highvalent metal center.13 The tunability of the 
+protein and metal environments has served as inspiration for an array of de novo designed enzymes 
+that display equivalent or superior reactivities to their natural counterparts and can carry out 
+reactions not found in nature.1417 However, despite successes, the complexity of natural enzymes 
+has made it difficult to extract design principles from structurefunction relationships and quantify 
+the core requirements for catalytic activity.18 To facilitate the investigation of the requirements for 
+the protein environment in enzymatic heme catalysis, several miniaturized hemebased enzyme 
+systems have been developed.1924 
+Exemplary of an miniaturized metalloenzyme system, the family of de novo minienzymes 
+known as mimochromes consist of a fivecoordinate heme iron consisting of a deuteroporphyrin 
+covalently bound to two nonapeptides with the proximal peptide coordinating iron through an axial 
+histidine (Figure 1).25 Due to the simplicity of the protein environment, the reactivity of the 
+mimochrome family has been successfully tuned and optimized over several generations through 
+principles of rational design.26 There are three main catalytically active mimochromes exhibiting 
+httpsdoi.org10.26434chemrxiv2024xhlgh ORCID httpsorcid.org0000000193420191 Content not peerreviewed by ChemRxiv.

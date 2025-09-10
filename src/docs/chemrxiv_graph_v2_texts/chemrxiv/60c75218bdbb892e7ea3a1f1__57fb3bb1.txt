@@ -1,0 +1,11 @@
+Description:
+A tetrahedrally coordinated atom that can be part of zeolite frameworks.
+
+Text:
+Double fourring cages (d4r units, face symbol 46, tcub tile in the nomenclature of natural til
+ings1) are a prototypical building unit of zeolites and zeotypes. A recent statistical analysis of the 
+zeolite frameworks included in the IZA (International Zeolite Association) Database of Zeolite 
+Structures2 showed that the tcub tile is the second most frequent tile, occurring in 36 out of 239 
+zeolite frameworks.3 As d4r units consist of fourmembered rings, the TOT angles (where T  
+tetrahedrally coordinated atom such as Si, Ge, Al, P, ) along the edges are relatively small, typi
+cally below 140 degrees.

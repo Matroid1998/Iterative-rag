@@ -1,0 +1,16 @@
+Description:
+Used as a bond donor group in designing anionophores for transmembrane anion transport.
+
+Text:
+The discovery of transmembrane anion transporters continues 
+apace1 driven by the potential application of these compounds 
+in the treatment of diseases such as cancer2 and cystic fibrosis.3 
+A successful strategy to design anionophores is to append 
+hydrogen bond donor groups to a lipophilic scaffold. Examples 
+include cholapods,4 orthophenylenes,5 transdecalins,6 and 
+anthracenes.7 We have previously shown that there is an 
+optimal log P for each class of anion transporter.8,9 Compounds 
+with a low log P value may not be able to efficiently partition 
+into a lipid bilayer whilst compounds with a high log P may not 
+be deliverable and instead need to be preincorporated into a 
+lipid bilayer to study their transport properties.

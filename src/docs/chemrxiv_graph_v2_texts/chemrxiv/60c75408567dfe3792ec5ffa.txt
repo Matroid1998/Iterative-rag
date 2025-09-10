@@ -1,0 +1,18 @@
+Description:
+Essential for CO2 electrolysis, requiring a plentiful supply and facile diffusion pathway to enhance GDE performance.
+
+Text:
+The CO2 electrolysis field has grown 
+considerably in the past years, and by using the GDE 
+architecture has been able to increase operational current 
+densities above 1 A cm2.25 
+The high performance of GDE devices has emphasized the 
+importance of a plentiful supply of CO2 via a facile diffusion 
+pathway. This has encouraged a CO2centric perspective on 
+assessing and improving CO2R GDE performance. Here, we give 
+an indepth explanation of the role of water in a CO2R GDE, in 
+particular how water and solute activities likely regulate CO2R 
+activity and equilibrium potentials in the CL, and what further 
+computational and experimental work is needed to understand 
+and further optimize the activity of this important chemical 
+reaction.

@@ -1,0 +1,16 @@
+Description:
+Inserts in ring expansion reactions after decarbonylative coupling.
+
+Text:
+Dong and coworkers used 2aminopyridine 
+as a transient directing group to achieve a decarbonylative 
+SuzukiMiyaura coupling between indanone and aromatic 
+boronic acid esters, as well as ring expansion reactions in
+volving the insertion of ethylene and alkynes.2931 This 
+method represents an excellent technique for catalytically 
+transforming ketones without directing groups; however, it 
+is restricted to cyclic ketones, and only ethylene and alkynes 
+can form bonds with aromatic compounds after deacylation. Dai and colleagues reported a sequential transformation 
+method. This technique involves the conversion of aromatic 
+ketones into oxime esters, followed by a coupling with nu
+cleophiles using a Pd catalyst.

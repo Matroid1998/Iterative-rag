@@ -1,0 +1,11 @@
+Description:
+A C1 feedstock in syngas to methanol processes.
+
+Text:
+CO2 hydrogenation to methanol using green H2 offers an attractive route to mitigate CO2 
+emissions and store excess electricity obtained from intermittent renewable energy.13 Extensive efforts 
+have focused on using Cubased catalysts to convert CO2 to methanol, since similar catalysts are already 
+commercially implemented in established syngas (COH2)tomethanol processes.48 However, when 
+CO2 is used in place of CO as a C1 feedstock, the Cubased catalysts suffer from limited activity, 
+methanol selectivity and rapid deactivation as a consequence of the additional water produced.9 Thus, 
+httpsdoi.org10.26434chemrxiv20244j2gwv2 ORCID httpsorcid.org0000000242878941 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

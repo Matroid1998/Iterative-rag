@@ -1,0 +1,19 @@
+Description:
+A key element in the DAC carbon footprint and cost of CO2 capture.
+
+Text:
+Our prior analysis of a 
+bioenergy with carbon capture and storage (BECCS) 
+process revealed that incorporating a sorbents capacity 
+fade into the economic model significantly increases the 
+predicted process cost and alters the recommended 
+sorbent replacement times.29 These findings indicate that 
+the details of a sorbents degradation, specifically the rate 
+and form of capacity fade over time, are crucial to include 
+when evaluating competing properties and comparing 
+process costs for different sorbents. These gaps lead to the first two questions addressed in 
+this work (1) How does sorbent degradation affect the 
+DAC carbon footprint and cost of CO2 capture? (2) Do the 
+capacity fade (loss) rate and form (e.g., linear, exponential) 
+affect the optimal replacement time? To answer these, we 
+developed a capacity fade economic model for DAC.

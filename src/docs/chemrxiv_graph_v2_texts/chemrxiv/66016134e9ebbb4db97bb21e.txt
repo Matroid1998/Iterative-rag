@@ -1,0 +1,16 @@
+Description:
+Hybrid perovskites used in solar cells with high efficiency and VOC.
+
+Text:
+Currently, the area of photovoltaics become revolutionized by newly emerging solar cells, 
+organometal halide hybrid perovskites solar cell with its most recent efficiency jumps 
+from 231 into 29.15.2 Remarkably, CH3NH3PbI3based perovskites have very long 
+electron and hole carrier diffusion lengths, high optical absorption, unique defect 
+properties.34 Furthermore, recent theoretical and experimental results have shown that 
+CH3NH3PbI3 exhibits ambipolar selfdoping properties both good ptype and ntype 
+conductivities can be realized by manipulating the growth conditions.5 Beside the 
+exceptional high efficiency and VOC, lead halide perovskites are also capable of bandgap 
+tuning from about 1.5 eV (CH3NH3PbI3) to 2.2 eV (CH3NH3PbBr3) by changing the 
+compositions of perovskites.6 This capability makes lead halide perovskites as ideal 
+candidates for all perovskites thinfilm tandem cell and other optoelectronic device 
+applications.

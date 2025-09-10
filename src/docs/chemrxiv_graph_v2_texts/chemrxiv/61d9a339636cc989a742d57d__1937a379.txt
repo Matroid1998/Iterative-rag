@@ -1,0 +1,48 @@
+Description:
+Used for methanation in the PowertoGas process.
+
+Text:
+1 
+With the PowertoX technology the possibility arises to convert surplus fluctuating renewable 
+2 
+electricity into chemical energy. Especially the storage of electrical energy in synthetic natural gas 
+3 
+(SNG) via the PowertoGas process (PtG) is a promising option for temporal decoupling of energy 
+4 
+availability and demand.13 Therefore, H2 is produced from electrical energy via water electrolysis, 
+5 
+which is subsequently used for methanation of carbon oxides available from various sources. For 
+6 
+instance, by utilizing industrial exhaust gases as carbon sources the potential to convert highly 
+7 
+concentrated CO2 into CH4 directly at the emitting spot reduces the effort for CO2 separation prior 
+8 
+to hydrogenation. However, these exhaust gases may also contain CO, i.e.
+
+
+---
+
+Description:
+Can be hydrogenated into CH4 using solid catalysts.
+
+Text:
+blast furnace or 
+9 
+converter gas in steel making.4 Both carbon oxides can be hydrogenated into CH4 using solid 
+10 
+catalysts (e.g. NiAl2O3) via the stoichiometric reactions (1) and (2).5 
+11 
+CO2  4H2 CH4  2 H2O 
+(1) 
+CO  3H2 CH4  H2O 
+(2) 
+From an economic viewpoint the implementation of decentralized smallscale methanation 
+12 
+plants in proximity of carbon point sources associated with available renewable energy sources is 
+13 
+advantageous.2 Such units, however, require minimal upstream buffer capacities to be cost
+14 
+effective. This consequently leads to a propagation of fluctuations in reactant availability and 
+15 
+composition into the reactor, which is the case for both H2 and the COCO2 source. Hence, the 
+16

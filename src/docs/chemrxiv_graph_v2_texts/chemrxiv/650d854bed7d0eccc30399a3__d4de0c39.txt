@@ -1,0 +1,9 @@
+Description:
+An active element in NiMn based layered cathode materials that provides capacity and can trigger oxygen redox above 4.1 V.
+
+Text:
+NiMn based layered cathode materials have attracted much attention in both LIBs and SIBs 
+due to the high operating voltage of the Ni redox and its multiple electron couples 
+(Ni2Ni3Ni4). In these materials, Ni is not only an active element that provides capacity, 
+but it can also trigger oxygen redox when the voltage is above 4.1 V. This has been found for 
+a variety of different NiMn ratios, e.g.

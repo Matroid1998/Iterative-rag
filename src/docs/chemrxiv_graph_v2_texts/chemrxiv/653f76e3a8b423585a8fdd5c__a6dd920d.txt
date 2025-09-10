@@ -1,0 +1,15 @@
+Description:
+A metal-binding unnatural amino acid used in genetic code expansion technologies for enzyme engineering.
+
+Text:
+In vivo ligand 
+incorporation offers an attractive alternative where metalbinding unnatural amino acids such 
+as (2,2bipyridin5yl)alanine (BpyAla) can be selectively introduced to the protein scaffold 
+directly using genetic code expansion technologies, allowing for more streamlined enzyme 
+engineering 19,20. Within these different approaches to ArM design, several scaffolds have been repeatedly used 
+with various attachment strategies for transformation into novel catalysts. These scaffolds 
+have been described as privileged scaffolds, in a manner analogous with privileged ligands in 
+homogeneous catalysis. The most prominent examples are the LmrR scaffold, which allows 
+supramolecular, bioconjugation, and incorporation of unnatural amino acids 21, and Sav, which 
+has been explored in dative coordination 22, alongside the more common supramolecular 
+approach 17.

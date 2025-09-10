@@ -1,0 +1,26 @@
+Description:
+Ternary compounds that are relatively unexplored due to the toxic nature of beryllium.
+
+Text:
+Ternary Metal Oxides (TMO) have received recent investigation for application in photonics due to properties of 
+enhanced conductivity, tuneable optoelectronic behaviour and multiple oxidation state of oxygen inducing functional 
+diversity such as spinel metalcobalt oxides for high performance supercapacitors or nitrogen doped TMOs inducing adjusted 
+band structures for enhanced photocatalytic activity via bandgap reduction for increased optical absorption 1,2. Although 
+TMO research has grown, ternary beryllium oxides have been relatively unexplored due to the toxic nature of beryllium 
+inducing the chronic lung disease berylliosis and regulatory procedures for material access.
+
+
+---
+
+Description:
+Ternary compounds investigated for optoelectronics applications.
+
+Text:
+Despite aforementioned 
+challenges, beryllium has been ubiquitous in industries such as nuclear, aerospace, medical and manufacturing due to small 
+atomic (112 pm) and ionic radii (45 pm) inducing strong covalent bond resultant material properties of low density (1.85 
+gcm3), tensile strength exceeding 700 MPa, high melting point (1560 K), modulus of elasticity (303 GPa), neutron 
+reflectivity and oxidative resistance. Motivated by the potential of ternary beryllium oxides for optoelectronics applications, 
+BeSeO3 is investigated via Density Functional Theory (DFT) calculations that operate by approximation of manyelectron 
+wavefunction systems via electron density computation (Eq.1) with an associated local density approximation of the 
+exchangecorrelation correction to account for electronelectron interactions 3,4,5.

@@ -1,0 +1,27 @@
+Name: Acetic Anhydride
+Text:
+Acetic anhydride appears as a clear colorless liquid with a strong odor of vinegar. Flash point 129 °F. Corrosive to metals and tissue. Density 9.0 lb /gal. Used to make fibers, plastics, pharmaceuticals, dyes, and explosives.
+Acetic anhydride is an acyclic carboxylic anhydride derived from acetic acid. It has a role as a metabolite and a reagent.
+Acetic Anhydride has been reported in Vitis vinifera with data available.
+Properties:safety: Flammable and Corrosive and Irritant
+smiles: CC(=O)OC(=O)C
+formula: C4H6O3
+chem_properties: Molecular Weight: 102.09 g/mol
+XLogP3: -0.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 2
+Exact Mass: 102.031694049 Da
+Monoisotopic Mass: 102.031694049 Da
+Topological Polar Surface Area: 43.4
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 83.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

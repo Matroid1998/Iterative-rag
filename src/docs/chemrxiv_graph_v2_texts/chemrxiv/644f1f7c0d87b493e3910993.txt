@@ -1,0 +1,42 @@
+Description:
+A critical element whose concentration is crucial in conditions such as hypoxia, ischemia, chronic kidney disease, and cancer.
+
+Text:
+Hypoxia, generally considered as an oxygen concentration of 2,1 is found in various diseases such 
+as ischemia,2,3 chronic kidney disease4,5 and cancer.69 Indeed, oxygen concentrations as low as around 
+1 may occur in ischemia1012 and cancer,13,14 and selective in vivo visualization of such severe 
+hypoxia is especially important for monitoring and understanding these diseases. To analyze hypoxia 
+in cellulo and in vivo, various fluorescence probes have been developed.1519 However, existing near
+infrared (NIR) small molecular probes that can be effectively used in vivo are also activated at oxygen 
+concentrations around 5.15,1921 Therefore, there is a need for the development of NIR fluorescence 
+probes able to selectively detect severe hypoxia as in vivo analytical and diagnostic tools.
+
+
+---
+
+Description:
+A factor affecting the fluorescence activation threshold of rhodamine-based hypoxia probes.
+
+Text:
+These fluorescence probes initially have no fluorescence due to fluorescence 
+quenching by the azobenzene moiety incorporated in the fluorophore. Upon cleavage of the azo group 
+by reductasecatalyzed reactions that are accelerated in hypoxia, corresponding fluorescent 
+rhodamines are produced, enabling selective detection of hypoxia. However, the oxygen concentration 
+threshold of these rhodaminebased hypoxia probes varies depending on the fluorescent scaffold. For 
+example, MASR and 2,6diMe azoSiR640 switched on at around 0.1 and 5 oxygen concentration, 
+respectively.21,23 These characteristics may be due to differences in the rate of reverse oxidation of the 
+azo moiety depending on the fluorescent scaffold (Figure S1). Thus, we considered that the 
+development of NIR probes to selectively detect severe hypoxia of around 1 oxygen concentration 
+might be achieved by using different fluorophores.
+
+
+---
+
+Description:
+A molecule whose concentration affects the responsiveness of the synthesized probe, TazoJSiR640, for detecting hypoxia.
+
+Text:
+The monojulolidinefused analog of SiR (JSiR) is widely used as a NIR fluorophore for biological 
+imaging.24 In this study, we therefore examined JSiR as the scaffold fluorophore of a NIR fluorescence 
+probe for hypoxia. We also evaluated the responsiveness of the synthesized probe, TazoJSiR640, to 
+oxygen concentration and confirmed its utility to selectively detect severe hypoxia in vivo.

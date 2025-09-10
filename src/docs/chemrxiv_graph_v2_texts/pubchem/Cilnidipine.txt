@@ -1,0 +1,27 @@
+Name: Cilnidipine
+Text:
+Cilnidipine is a diesterified 1,4-dihydropyridine-3,5-dicarboxylic acid. A calcium channel blocker, it is used as an antihypertensive. It has a role as a calcium channel blocker, an antihypertensive agent and a cardiovascular drug. It is a dihydropyridine, a 2-methoxyethyl ester and a C-nitro compound.
+Cilnidipine is a dihydropyridine calcium antagonist. It was jointly developed by Fuji Viscera Pharmaceutical Company, Japan and Ajinomoto, Japan and approved in 1995. Compared with other calcium antagonists, cilnidipine can act on the N-type calcium channel that existing sympathetic nerve end besides acting on L-type calcium channel that similar to most of the calcium antagonists. This drug is approved in China, Japan, Korea, India, and several countries in the European Union.
+CILNIDIPINE is a small molecule drug with a maximum clinical trial phase of III (across all indications) and has 3 investigational indications.
+Properties:safety: Corrosive
+smiles: CC1=C(C(C(=C(N1)C)C(=O)OC/C=C/C2=CC=CC=C2)C3=CC(=CC=C3)[N+](=O)[O-])C(=O)OCCOC
+formula: C27H28N2O7
+chem_properties: Molecular Weight: 492.5 g/mol
+XLogP3: 4.4
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 11
+Exact Mass: 492.18965124 Da
+Monoisotopic Mass: 492.18965124 Da
+Topological Polar Surface Area: 120
+Heavy Atom Count: 36
+Formal Charge: 0
+Complexity: 896
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

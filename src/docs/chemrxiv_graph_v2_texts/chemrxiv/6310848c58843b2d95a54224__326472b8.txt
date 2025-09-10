@@ -1,0 +1,15 @@
+Description:
+A scaffold inspired from the ring system database GDB4c, representing a new heteroatom variation of the MF of the known angular triquinane.
+
+Text:
+We compared MFs of GDB13s molecules with those derived from 885 
+million commercially available screening compounds from the ZINC database,10 from 100 million 
+molecules up to 50 nonhydrogen atoms (heavy atom count HAC  50) in the public database 
+PubChem,11 and from 400 thousand natural products and natural productlike molecules in the 
+COCONUT database.12 
+MFs define molecular series by their constitutive ring systems and linker bonds compatible 
+with any number of variations in substituents and heteroatoms, and lead to a more demanding definition 
+of novelty.13,14 For example, our recently reported triquinazine scaffold 1, inspired from the ring system 
+database GDB4c,15 represents a new heteroatom variation of the MF of the known angular triquinane 2, 
+but is not a new MF per se, however the derived Janus kinase inhibitor 3 features an unprecedented MF 
+4 occurring only in 7 molecules recorded in PubChem which correspond to the record of 3 and related

@@ -1,0 +1,22 @@
+Description:
+A nucleotide analogue effective in the treatment of COVID-19 by binding to RdRp and stopping viral replication.
+
+Text:
+Recently one such drug 
+Remdesivir, which is a nucleotide analogue has proved effective in 
+treatment of COVID19 in some clinical trials. Remdesivir binds to RdRp 
+and 
+stops 
+viral 
+replication 
+thereby 
+preventing 
+replication 
+and 
+multiplication of virus inside host cells 6, 7, 8 . RdRp of SARS CoV2 has 
+several nonstructured proteins like NSP12, NSP 7 and NSP8 9, 16. Remdesivir binds to active site residues located in NSP12 molecule of 
+RdRp 10 . Earlier by docking studies we investigated several Remdesivir 
+analogues that can be used as potential drug target in treatment of 
+COVID19 11. In this study, we analyzed CHEMBL3120791 12 and performed 
+Molecular dynamic simulations of protein drug complex using GROMACS 
+13 .

@@ -1,0 +1,30 @@
+Name: Remdesivir
+Text:
+Remdesivir is a carboxylic ester resulting from the formal condensation of the carboxy group of N-[(S)-{[(2R,3S,4R,5R)-5-(4-aminopyrrolo[2,1-f][1,2,4]triazin-7-yl)-5-cyano-3,4-dihydroxytetrahydrofuran-2-yl]methoxy}(phenoxy)phosphoryl]-L-alanine with the hydroxy group of 2-ethylbutan-1-ol. A broad-spectrum antiviral prodrug with potent in vitro antiviral activity against a diverse panel of RNA viruses such as Ebola virus, MERS-CoV and SARS-CoV. It is currently in Phase III clinical trials for the treatment of Covid-19 in adults. It has a role as an antiviral drug, a prodrug and an anticoronaviral agent. It is a carboxylic ester, a pyrrolotriazine, a nitrile, a phosphoramidate ester, a C-nucleoside and an aromatic amine. It is functionally related to a GS-441524.
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the causative agent of coronavirus disease 2019 (COVID-19), which is a respiratory disease that is capable of progressing to viral pneumonia and acute respiratory distress syndrome (ARDS); COVID-19 can be fatal. Like other RNA viruses, SARS-CoV-2 depends on an RNA-dependent RNA polymerase (RdRp) enzyme complex for genomic replication, which can be inhibited by a class of drugs known as nucleoside analogues.  Remdesivir (GS-5734) is an adenosine triphosphate analogue first described in the literature in 2016 as a potential treatment for Ebola. Broad antiviral activity of remdesivir is suggested by its mechanism of action, and to date, it has demonstrated in vitro activity against the Arenaviridae, Flaviviridae, Filoviridae, Paramyxoviridae, Pneumoviridae, and Coronaviridae viral families. Remdesivir activity against the Coronaviridae family was first demonstrated in 2017, leading to considerable interest in remdesivir as a possible treatment for COVID-19. Remdesivir was confirmed as a non-obligate chain terminator of RdRp from SARS-CoV-2 and the related SARS-CoV and MERS-CoV, and has been investigated in multiple COVID-19 clinical trials.  After initially being granted an FDA Emergency Use Authorization (EUA) on May 1st, 2020, remdesivir was fully approved by the FDA for the treatment of COVID-19 on October 22, 2020. Remdesivir is currently marketed under the trademark name VEKLURY by Gilead Sciences Inc. Remdesivir was also approved by the European Commission on July 3, 2020. Remdesivir in combination with [baricitinib] for the treatment of COVID-19, was granted an FDA Emergency Use Authorization on November 19, 2020.
+Remdesivir is a SARS-CoV-2 Nucleotide Analog RNA Polymerase Inhibitor.
+Remdesivir is an antiviral nucleotide analogue used for therapy of severe novel coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome (SARS) coronavirus 2 (CoV-2) infection. Remdesivir therapy is given intravenously for 3 to 10 days and is frequently accompanied by transient, reversible mild-to-moderate elevations in serum aminotransferase levels but has been only rarely linked to instances of clinically apparent liver injury, its hepatic effects being overshadowed by the systemic effects of COVID-19.
+Remdesivir is a prodrug of an adenosine triphosphate (ATP) analog, with potential antiviral activity against a variety of RNA viruses. Upon administration, remdesivir, being a prodrug, is metabolized into its active form GS-441524. As an ATP analog, GS-441524 competes with ATP for incorporation into RNA and inhibits the action of viral RNA-dependent RNA polymerase. This results in the termination of RNA transcription and decreases viral RNA production.
+REMDESIVIR is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2020 and has 4 approved and 3 investigational indications. This drug has a black box warning from the FDA.
+Properties:safety: Irritant and Health Hazard
+smiles: CCC(CC)COC(=O)[C@H](C)N[P@](=O)(OC[C@@H]1[C@H]([C@H]([C@](O1)(C#N)C2=CC=C3N2N=CN=C3N)O)O)OC4=CC=CC=C4
+formula: C27H35N6O8P
+chem_properties: Molecular Weight: 602.6 g/mol
+XLogP3: 1.9
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 13
+Rotatable Bond Count: 14
+Exact Mass: 602.22539909 Da
+Monoisotopic Mass: 602.22539909 Da
+Topological Polar Surface Area: 204
+Heavy Atom Count: 42
+Formal Charge: 0
+Complexity: 1010
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 6
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

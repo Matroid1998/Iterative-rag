@@ -1,0 +1,59 @@
+Description:
+A compound whose redox properties are enhanced via coordination to Sc(OTf)3.
+
+Text:
+Photoredox catalysis requires a catalyst that is both 
+photochemically and redox activetypically a 
+compound derived from an organic dye or a complex 
+of a redoxactive metal, such as ruthenium or iridium 
+(see 
+Fig. 1a).710 
+Conversely, 
+redox
+inactiveinnocent metals, such as scandium, which 
+have a predominantly trivalent redoxstable state, are 
+not directly involved in photoredox reactions.1113 
+Nevertheless, 
+these 
+metals, 
+and 
+particularly 
+Sc(OTf)3, can serve as Lewis acids (LA) that activate 
+substratesorganophotocatalysts by altering their 
+redox characteristics, thereby facilitating their 
+participation in photoredox and photosensitisation 
+reactions (Figs. 1b and 1c).1215 For instance, the 
+redox properties of a flavin derivative (Fl) were 
+significantly enhanced via their coordination to 
+Sc(OTf)3.
+
+
+---
+
+Description:
+Participates in a SET process with electron-deficient substrates in an excited Fl2Sc3 complex.
+
+Text:
+This alteration enabled the oxidation of 
+some electrondeficient substrates via a SET process 
+between the substrate and flavin in excited Fl2Sc3 
+complex (Fig. 1c, right); such reaction cannot be 
+achieved without Sc(OTf)3.16,17 
+Notably, the oxophilicity of some Mn cations 
+facilitates their binding to superoxide radical anion 
+(O2) 
+to 
+form 
+superoxidemetal 
+complexes 
+(MnO2) that have been recognised within the 
+reductive activation of dioxygen by metalloenzymes 
+in numerous biological redox reactions that employ 
+O2 as an oxidant.1821 This process has been 
+mimicked in the dioxygen activation cycle during 
+photoredox transformations, commencing with the 
+photoinduced single electron transfer (PET) from a 
+lightabsorbing, redoxactive compound to O2 and 
+followed by the generation of MnO2 complexes 
+(Fig. 1d, upper part). Binding of Mn to oxygen 
+enhances its ability to accept an electron.

@@ -1,0 +1,39 @@
+Description:
+A mineral whose pit dissolution at the (001) surface shows no preference among 110, 010, and 100 step edges.
+
+Text:
+Both the mechanism (order
+31
+of bond breakage, changes to coordination environment, etc) and the barriers can be highly sensitive to cleavage
+32
+planes, surface termination, defects, and pitting (e.g. the type of exposed step edges) (Trindade Pedrosa et al., 2019,
+33
+Brandt et al., 2003, Bickmore et al., 2001, Kuwahara, 2011). Consider that prior scanning tunneling microscopy (STM)
+34
+studies have reported dissolution rates for galena (PbS) that are much faster along the 110 direction instead of the
+35
+100 direction on the (001) surface under acidic conditions (Higgins and Hamers, 1996). In contrast, atomic force
+36
+microscopy (AFM) studies of pit dissolution at the (001) surface of gibbsite does not indicate any preference amongst
+37
+110, 010 and 100 step edges(Peskleway et al., 2003).
+
+
+---
+
+Description:
+Its solubility in aqueous solutions highly depends on the pH condition.
+
+Text:
+Yet the solution pH alters the surface termination of
+38
+cleavage planes and influence barriers for bond breaking, e.g., gibbsite solubility in aqueous solutions highly depends
+39
+on the pH condition (May et al., 1979). 40
+Surface imaging probes do not often have atomiclevel resolution and as such key details of the molecular
+41
+mechanism are lacking. Subtle variations as a function of surface morphology, protonation state, or other aspects
+42
+of surface termination are not readily apparent. There is thus a significant need for molecularlevel details provided
+43
+by molecular simulations. These techniques are not without their challenges.

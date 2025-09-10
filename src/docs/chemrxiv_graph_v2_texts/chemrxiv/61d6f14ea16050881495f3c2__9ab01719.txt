@@ -1,0 +1,16 @@
+Description:
+Metal ions with fast ligand exchange.
+
+Text:
+This description works well for organic molecules, where the 
+solvent acts only as a solvent shell. For metal ions, especially 
+those with fast ligand exchange such as the lanthanides,8 this 
+description becomes problematic as the distinctions between 
+the coordination spheres and solvent shells are inconsistent. For 
+example, the water molecules in close contact to a metal ion are 
+typically regarded as ligands and not as a solvent shell. Further, 
+the solvent separated ion pair used by Marcus  Hefter is iden
+tical to two complex ions in close contact. In order to avoid con
+fusion, we have categorized the metalanion interactions into 
+four Types (see Figure 1). In Type I, there is direct coordination 
+of the anion to the metal ion.

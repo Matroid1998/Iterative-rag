@@ -1,0 +1,38 @@
+Description:
+Formed as a competing side reaction in the hydrogen evolution reaction under CO2RR conditions.
+
+Text:
+Interestingly, CO2 conversion via the electrocatalytic CO2 reduction reaction (CO2RR) is a 
+very interesting process as it is carried out under mild operating conditions, usually at room 
+temperature and moderate pressures. In addition, renewable energy resources can provide the 
+required electricity for electrolysis, making the electrochemical pathway also environmentally 
+attractive. The electrochemical CO2RR is mainly limited by its selectivity challenge. On the one hand, 
+the formation of H2(g) from the hydrogen evolution reaction (HER) (i.e., equation 1) is observed for 
+cathodic polarization, which is a competing side reaction under CO2RR conditions 24. On the 
+other hand, there is the possibility of forming multiple C1 products (i.e., equations 2  5) or 
+multicarbon products (i.e., C2) 25.
+
+
+---
+
+Description:
+A gaseous molecule formed by the reduction of protons with electrons.
+
+Text:
+2H  2e  H2(g), 
+
+U0  0 V vs. RHE (reversible hydrogen electrode) (1) 
+CO2(g)  2H  2e  CO(g)  H2O(l) 
+U0  0.10 V vs. RHE 
+
+(2) 
+CO2(g)  2H  2e  HCOOH(aq) 
+
+U0  0.12 V vs. RHE at pH  0 
+(3) 
+CO2(g)  6H  6e  CH3OH(aq)  H2O(l) 
+U0  0.03 V vs. RHE 
+
+(4) 
+CO2(g)  8H  8e  CH4(g)  2H2O(l) 
+U0  0.17 V vs. RHE

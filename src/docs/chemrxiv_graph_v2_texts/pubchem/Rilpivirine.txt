@@ -1,0 +1,33 @@
+Name: Rilpivirine
+Text:
+Rilpivirine is an aminopyrimidine that is pyrimidine-2,4-diamine in which the amino groups at positions 2 and 4 are substituted by 4-cyanophenyl and 4-[(E)-2-cyanovinyl]-2,6-dimethylphenyl groups respectively. Used for treatment of HIV. It has a role as a HIV-1 reverse transcriptase inhibitor and an EC 2.7.7.49 (RNA-directed DNA polymerase) inhibitor. It is a nitrile and an aminopyrimidine. It is a conjugate base of a rilpivirine(1+).
+Rilpivirine is non-nucleoside reverse transcriptase inhibitor (NNRTI) which is used for the treatment of HIV-1 infections in treatment-naive patients. It is a diarylpyrimidine derivative. The internal conformational flexibility of rilpivirine and the plasticity of it interacting binding site gives it a very high potency and reduces the chance of resistance compared to other NNRTI's. Rilpivirine was developed by Tilbotec, Inc. and FDA approved on May 20, 2011. On November 21, 2017, Rilpivirine, in combination with [dolutegravir], was approved as part of the first complete treatment regimen with only two drugs for the treatment of adults with HIV-1 named Juluca. Rilpivirine in combination with [cabotegravir] was granted FDA approval on 21 January 2021. While previously administered once-monthly only, this combination product was granted FDA approval for dosing every two months on February 01, 2022 and without the need for an oral lead-in period prior.
+Rilpivirine is a Human Immunodeficiency Virus 1 Non-Nucleoside Analog Reverse Transcriptase Inhibitor. The mechanism of action of rilpivirine is as a Non-Nucleoside Reverse Transcriptase Inhibitor. The chemical classification of rilpivirine is Non-Nucleoside Analog.
+Rilpivirine is a Human Immunodeficiency Virus 1 Non-Nucleoside Analog Reverse Transcriptase Inhibitor. The mechanism of action of rilpivirine is as a Non-Nucleoside Reverse Transcriptase Inhibitor.
+Rilpivirine is a nonnucleoside reverse transcriptase inhibitor used in combination with other antiretroviral agents in the therapy of human immunodeficiency virus (HIV) infection. Rilpivirine is associated with a low rate of transient serum aminotransferase elevations during therapy and has been implicated in rare cases of clinically apparent acute liver injury.
+Rilpivirine is a second-generation non-nucleoside reverse transcriptase inhibitor. Rilpivirine is a diarylpyrimidine.
+RILPIVIRINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2011 and has 3 approved and 3 investigational indications.
+A diarylpyrimidine derivative and REVERSE TRANSCRIPTASE INHIBITOR with antiviral activity against HIV-1 that is used in the treatment of HIV INFECTIONS. It is also used in combination with other ANTI-HIV AGENTS, since ANTIVIRAL DRUG RESISTANCE emerges rapidly when it is used alone.
+See also: Rilpivirine Hydrochloride (active moiety of); Cabotegravir; rilpivirine (component of); Dolutegravir; rilpivirine (component of) ... View More ...
+Properties:safety: Irritant and Environmental Hazard
+smiles: CC1=CC(=CC(=C1NC2=NC(=NC=C2)NC3=CC=C(C=C3)C#N)C)/C=C/C#N
+formula: C22H18N6
+chem_properties: Molecular Weight: 366.4 g/mol
+XLogP3: 4.5
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 5
+Exact Mass: 366.15929460 Da
+Monoisotopic Mass: 366.15929460 Da
+Topological Polar Surface Area: 97.4
+Heavy Atom Count: 28
+Formal Charge: 0
+Complexity: 607
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

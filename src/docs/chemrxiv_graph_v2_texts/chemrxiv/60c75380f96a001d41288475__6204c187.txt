@@ -1,0 +1,10 @@
+Description:
+Forms the basis of motors that generate robust unidirectional rotation with a central double bond between two carbons.
+
+Text:
+The same fundamental principles also apply to nonbiological
+molecules, and indeed, exciting progress has also been made in the design and synthesis of articial
+molecular motors that may mimic or even surpass their biological counterparts 4, 1, 5. In particular, the overcrowded alkenebased motors 6, 7 (abbreviated here as alkene motors)
+generate robust unidirectional rotation, which has been harnessed in several demonstration applications
+8, 9, 10, 11. The alkene motors have a central double bond between two carbons (Fig 1), which divides
+the molecule into a lower part, referred to as the stator, and an upper part, referred to as the rotor.

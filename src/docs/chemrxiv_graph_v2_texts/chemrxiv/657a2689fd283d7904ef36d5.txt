@@ -1,0 +1,12 @@
+Description:
+Hosts used in aqueous host-guest systems for binding affinity studies.
+
+Text:
+If 
+the free energy changes associated with these dehydration events is erroneous, it will be difficult to 
+compute an accurate binding affinity. Simple problems also require less conformational sampling, by e.g., 
+molecular dynamics and Monte Carlo methods, so they maximize the precision of the results and are 
+relatively inexpensive to compute, enabling broader participation and testing of more methodologies. In the spirit of assigning simple but informative computational challenges, SAMPL has, since 2012, 
+challenged computational chemists to predict the affinities of aqueous hostguest systems(6,8), for hosts 
+that include cucurbiturils(913), deep cavity cavitands(14,15), cyclodextrins(1618) (CDs), and derivatives 
+thereof.

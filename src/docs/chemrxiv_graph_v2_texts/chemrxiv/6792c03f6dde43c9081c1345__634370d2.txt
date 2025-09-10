@@ -1,0 +1,16 @@
+Description:
+Protective groups for amines activated by CpRu(IV) catalysts in biological environments.
+
+Text:
+Kitamura and colleagues originally developed cyclopentadienyl (Cp) Ru(IV) complexes 
+featuring 2quinolinecarboxylato ligands for the catalytic dehydrative allylation of alcohols.1,2 
+Subsequently, Meggers adapted this class of catalysts for activating amines protected with 
+allyloxycarbonyl (alloc) groups in biological environments, including intracellularly,3 and further 
+enhanced their performance by incorporating 8hydroxyquinoline as a chelating group (Figure 1).4 
+Following Meggers breakthrough, several research groups utilized CpRu(IV)quinoline catalysts 
+for incell applications.5,6 Notably, Mascareas developed a triphenylphosphoniumfunctionalized 
+a Ruquinoline catalyst that preferentially accumulated in the mitochondria of mammalian cells 
+while retaining its ability to cleave an allocprotected prouorescent substrate.7 The Ward group 
+conjugated one of these Ru catalysts to biotin, enabling its binding to streptavidin, and 
+demonstrated that such an articial metalloenzyme could catalyze the deallylation of Nalloc
+containing dyes.

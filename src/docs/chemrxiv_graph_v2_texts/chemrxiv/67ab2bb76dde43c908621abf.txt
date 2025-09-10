@@ -1,0 +1,50 @@
+Description:
+Crystalline inorganic materials with a tetrahedral framework structure used in drug delivery applications.
+
+Text:
+Among many other 
+classes of porous materials, zeolites, crystalline inorganic materials with a tetrahedral 
+framework structure, have received considerable attention as materials for drug delivery 
+applications.2,4,5 In aluminosilicate zeolites, the tetrahedral framework sites are occupied by Si 
+and Al atoms, with a general framework composition Si1xAlxO2 (x  0.5).6 The SiAl ratio 
+determines the framework charge and, consequently, the amount of positively charged species 
+that are required for charge neutrality. Out of the variety of known zeolite frameworks types, 
+zeolites having the FAU (faujasite) topology are particularly widely used in industrial 
+processes, especially in catalysis and separation.7 Due to their good availability, large pore 
+size, and the possibility to incorporate various species as extraframework cations, they have 
+also been the focus of many drug delivery investigations.
+
+
+---
+
+Description:
+FAU-type zeolites with SiAl ratios below 1.5 are used for drug storage and delivery.
+
+Text:
+FAUtype zeolites with SiAl ratios 
+below 1.5 are dubbed zeolite X. Zeolite X samples exchanged with different cations were 
+investigated for the storage and delivery of the anticancer drug cyclophosphamide,8 the anti
+inflammatory and cytostatic 6mercaptopurine,9 the antiosteoporosis drugs risedronate and 
+zoledronate,10 and the antibiotic ciprofloxacin,11 among other species. More siliconrich FAU
+type zeolites are labelled zeolite Y, they were studied, for example, as host materials for the 
+nonsteroidal antiinflammatory drug ibuprofen12 and for the antibiotics sulfadiazine13 and 
+isoniazid.14 Looking beyond drug delivery, highly siliceous zeolite Y, which possesses 
+hydrophobic properties, could find use as adsorbent for the removal of pharmaceuticals and 
+other organic contaminants from wastewaters.1518 
+5fluorouracil (C4H3FN2O2, CAS No.
+
+
+---
+
+Description:
+Materials investigated for 5FU storage and release.
+
+Text:
+51218, Figure 1, abbreviated 5FU in the following) is 
+a cytostatic drug that is used in the treatment of various types of cancer; it is typically 
+administered intravenously. Due to its limited bioavailability and low absorption, high doses 
+are required, often resulting in severe side effects. Moreover, high dosages can promote the 
+development of chemoresistance to 5FU, reducing its therapeutic efficacy.19 In order to 
+mitigate these drawbacks, the potential applicability of various materials as 5FU carriers has 
+been investigated.20,21 The first investigation of 5FU storage and release using zeolites was 
+published by Datt et al.

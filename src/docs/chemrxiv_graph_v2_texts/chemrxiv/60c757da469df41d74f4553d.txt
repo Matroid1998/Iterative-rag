@@ -1,0 +1,7 @@
+Description:
+A component of atmospheric gases that may dissociate to oxygen atoms under high temperatures.
+
+Text:
+Temperatures on the 
+outer face of a heat shield can exceed 2000 C under hypersonic entry conditions 4 and oxygen
+containing atmospheric gases (e.g., O2, CO2) may dissociate to oxygen atoms in the boundary

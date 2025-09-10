@@ -1,0 +1,34 @@
+Name: Dapsone
+Text:
+4,4'-sulfonyldianiline appears as odorless white or creamy white crystalline powder. Slightly bitter taste. (NTP, 1992)
+Dapsone is a sulfone that is diphenylsulfone in which the hydrogen atom at the 4 position of each of the phenyl groups is substituted by an amino group. It is active against a wide range of bacteria, but is mainly employed for its actions against Mycobacterium leprae, being used as part of multidrug regimens in the treatment of all forms of leprosy. It has a role as an antimalarial, a leprostatic drug, an antiinfective agent and an anti-inflammatory drug. It is a sulfone and a substituted aniline. It is functionally related to a diphenyl sulfone.
+A sulfone active against a wide range of bacteria but mainly employed for its actions against mycobacterium leprae. Its mechanism of action is probably similar to that of the sulfonamides which involves inhibition of folic acid synthesis in susceptible organisms. It is also used with pyrimethamine in the treatment of malaria. (From Martindale, The Extra Pharmacopoeia, 30th ed, p157-8)
+Dapsone is a Sulfone.
+Dapsone is a sulfonamide related drug used for the therapy of leprosy and dermatitis herpetiformis. Dapsone has been linked with rare cases of idiosyncratic liver injury, similar to that seen with the sulfonamides.
+Dapsone is a synthetic derivative of diamino-sulfone with anti-inflammatory and anti-bacterial properties. As a structural analog of p-aminobenzoic acid (PABA), dapsone inhibits dihydropteroate synthase (DHPS), an enzyme important in folate synthesis, resulting in a depletion of the folate pool and a reduction in the amount of thymidylate available for DNA synthesis. Although the exact mechanism through which dapsone exerts its anti-inflammatory activity has yet to be fully elucidated, this agent interferes with the activation and oxidative damage of myeloperoxidase in neutrophils and inhibits the integrin-mediated adherence and chemotaxis of neutrophils. Dapsone's anti-inflammatory activities may contribute to the effects seen upon topical administration.
+DAPSONE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1979 and has 3 approved and 14 investigational indications.
+A sulfone active against a wide range of bacteria but mainly employed for its actions against mycobacterium leprae. Its mechanism of action is probably similar to that of the sulfonamides which involves inhibition of folic acid synthesis in susceptible organisms. It is also used with pyrimethamine in the treatment of malaria. (From Martindale, The Extra Pharmacopoeia, 30th ed, p157-8)
+A sulfone active against a wide range of bacteria but mainly employed for its actions against MYCOBACTERIUM LEPRAE. Its mechanism of action is probably similar to that of the SULFONAMIDES which involves inhibition of folic acid synthesis in susceptible organisms. It is also used with PYRIMETHAMINE in the treatment of malaria. (From Martindale, The Extra Pharmacopoeia, 30th ed, p157-8)
+See also: Dapsone; niacinamide (component of); Dapsone; niacinamide; tretinoin (component of); Dapsone; niacinamide; spironolactone (component of) ... View More ...
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: C1=CC(=CC=C1N)S(=O)(=O)C2=CC=C(C=C2)N
+formula: C12H12N2O2S
+chem_properties: Molecular Weight: 248.30 g/mol
+XLogP3: 1
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 2
+Exact Mass: 248.06194880 Da
+Monoisotopic Mass: 248.06194880 Da
+Topological Polar Surface Area: 94.6
+Heavy Atom Count: 17
+Formal Charge: 0
+Complexity: 306
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

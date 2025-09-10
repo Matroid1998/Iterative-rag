@@ -1,0 +1,11 @@
+Description:
+A polyimide used in combination with MOFs for helium upgrading.
+
+Text:
+MOFbased membranes have been developed and were tested for Heupgrading, but they significantly 
+suffer from the large pore sizes, grain boundaries causing insufficient molecular sieving capabilities. Approaches have been made to combine ZIF8 (Zeolitic Imidazolate Framework 8) and fullerenes, with 
+one of the best results for Heupgrading so far, reaching a selectivity (HeCH4)  9.2 with a permeance 
+of 210 GPU at only 3.5 wt. loading of C70.15 Thus far, MOF materials could not show to be better 
+than existing carbon membranes.16 Using MOFs in polymers for Heupgrading, such as HKUST1 
+(Cu3BTC2 with BTC3 1,3,5Benzenetricarboxylate) in Matrimid  (a polyimide), has shown highly 
+promising results.17 Loading Matrimide  membranes with 40 wt.

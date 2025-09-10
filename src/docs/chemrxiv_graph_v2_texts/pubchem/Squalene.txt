@@ -1,0 +1,31 @@
+Name: Squalene
+Text:
+Trans-squalene is a clear, slightly yellow liquid with a faint odor. Density 0.858 g / cm3.
+Squalene is a triterpene consisting of 2,6,10,15,19,23-hexamethyltetracosane having six double bonds at the 2-, 6-, 10-, 14-, 18- and 22-positions with (all-E)-configuration. It has a role as a human metabolite, a plant metabolite, a Saccharomyces cerevisiae metabolite and a mouse metabolite.
+Squalene is originally obtained from shark liver oil. It is a natural 30-carbon isoprenoid compound and intermediate metabolite in the synthesis of cholesterol. It is not susceptible to lipid peroxidation and provides skin protection. It is ubiquitously distributed in human tissues where it is transported in serum generally in association with very low density lipoproteins. Squalene is investigated as an adjunctive cancer therapy.
+Squalene has been reported in Erythrophleum fordii, Amaranthus hybridus, and other organisms with data available.
+squalene is a metabolite found in or produced by Saccharomyces cerevisiae.
+A natural 30-carbon triterpene.
+See also: Olive Oil (part of); Shark Liver Oil (part of).
+Properties:safety: Health Hazard
+smiles: CC(=CCC/C(=C/CC/C(=C/CC/C=C(/CC/C=C(/CCC=C(C)C)\C)\C)/C)/C)C
+formula: C30H50
+chem_properties: Molecular Weight: 410.7 g/mol
+XLogP3: 11.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 15
+Exact Mass: 410.391251595 Da
+Monoisotopic Mass: 410.391251595 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 30
+Formal Charge: 0
+Complexity: 578
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 4
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

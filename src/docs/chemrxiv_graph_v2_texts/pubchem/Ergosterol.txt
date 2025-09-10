@@ -1,0 +1,30 @@
+Name: Ergosterol
+Text:
+Ergosterol is a phytosterol consisting of ergostane having double bonds at the 5,6-, 7,8- and 22,23-positions as well as a 3beta-hydroxy group. It has a role as a fungal metabolite and a Saccharomyces cerevisiae metabolite. It is a 3beta-sterol, an ergostanoid, a 3beta-hydroxy-Delta(5)-steroid and a member of phytosterols.
+A steroid of interest both because its biosynthesis in FUNGI is a target of ANTIFUNGAL AGENTS, notably AZOLES, and because when it is present in SKIN of animals, ULTRAVIOLET RAYS break a bond to result in ERGOCALCIFEROL.
+Ergosterol has been reported in Agaricus blazei, Gymnopilus spectabilis, and other organisms with data available.
+ergosterol is a metabolite found in or produced by Saccharomyces cerevisiae.
+A steroid occurring in FUNGI. Irradiation with ULTRAVIOLET RAYS results in formation of ERGOCALCIFEROL (vitamin D2).
+See also: Reishi (part of); 24,25-Iminolanosterol (annotation moved to).
+Properties:safety: Acute Toxic
+smiles: C[C@H](/C=C/[C@H](C)C(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3C2=CC=C4[C@@]3(CC[C@@H](C4)O)C)C
+formula: C28H44O
+chem_properties: Molecular Weight: 396.6 g/mol
+XLogP3: 7.4
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 4
+Exact Mass: 396.339216023 Da
+Monoisotopic Mass: 396.339216023 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 29
+Formal Charge: 0
+Complexity: 712
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 8
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

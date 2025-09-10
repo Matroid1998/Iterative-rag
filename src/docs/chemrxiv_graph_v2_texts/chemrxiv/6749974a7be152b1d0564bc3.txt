@@ -1,0 +1,24 @@
+Description:
+A product of the electrochemical splitting of water and involved in the oxygen evolution reaction.
+
+Text:
+The electrochemical splitting of water into 
+hydrogen and oxygen is a pivotal process for 
+achieving carbonneutral energy production. When coupled with renewably green electricity 
+sources, this approach can form the basis of a 
+fully sustainable energy scheme.1,2 However, 
+significant challenges remain, including the 
+highly oxidative conditions, slow kinetics of 
+protoncoupled 
+multielectron 
+transfer, 
+and 
+substantial 
+energetic 
+activation 
+barriers 
+associated with the indispensable oxygen 
+evolution reaction (OER).35 Traditionally, noble 
+metal oxides such as RuO26 and IrO2,7 known 
+for their high activity toward OER, have been the 
+benchmark electrocatalysts.

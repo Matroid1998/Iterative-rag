@@ -1,0 +1,11 @@
+Description:
+Operates by plating and stripping during battery charge and discharge.
+
+Text:
+Electroplating metal is the ultimate electrode charge storage process for rechargeable batteries 
+with respect to their energy density, cost, processability, and sustainability. Irrespective of 
+chemistry (be it based on M Li, Na, Ca, Zn, Al, or Fe, etc. ), metal electrodes operate simply 
+by plating (reducing) Mn and stripping (oxidizing) the corresponding metal M during battery 
+charge and discharge, respectively. Despite their immense promise, metal electrodes in 
+rechargeable batteries still face multiple challenges that need to be more deeply understood and 
+overcome before successful practical realization.

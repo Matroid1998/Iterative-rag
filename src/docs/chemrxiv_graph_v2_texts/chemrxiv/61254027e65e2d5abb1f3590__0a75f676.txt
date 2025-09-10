@@ -1,0 +1,11 @@
+Description:
+Used as a precursor in the ALD of crystalline InN films.
+
+Text:
+We have previously hypothesized that steering the deposition chemistry fully to the surface 
+could be an alternative route for low temperature CVD of InN as it could circumvent the 
+problem of the slow kinetics in the gas phase decomposition of NH3. A CVD approach fully 
+relying on surface chemistry is atomic layer deposition (ALD), which uses a sequential supply 
+of the precursor gases to make the deposition chemistry surface controlled.20 ALD of 
+crystalline InN films has been demonstrated using trimethyl indium (TMI) and either nitrogen 
+plasma21,22 or NH3 plasma.23 In addition, complex precursors with chelating ligands with InN

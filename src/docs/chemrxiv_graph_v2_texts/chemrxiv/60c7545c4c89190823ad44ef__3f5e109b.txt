@@ -1,0 +1,26 @@
+Description:
+Used in the form of activated carbon for adsorbed xenon propellant storage.
+
+Text:
+We investigate the feasibility of an alternative xenon storage strategy, with the objective of reduc
+ing the mass of the storage materials required to carry the xenon propellant into space packing
+the pressure vessel with a porous adsorbent material to help densify the xenon (i.e, use an ad
+sorbent in combination with pressurization). Activated carbon has been investigated for adsorbed
+xenon propellant storage, but it does not reduce the mass of the storage system 10.
+
+
+---
+
+Description:
+A traditional adsorbent used in storage systems, often in the form of activated carbon.
+
+Text:
+Our hypothesis is that the optimal storage pressure for the adsorbed xenon storage system is lower
+than that of the bulk xenon storage system, thereby allowing for thinnerwalled and thus lighter
+pressure vessels in the adsorbed storage system. The important question our model addresses is
+whether the reduced mass of the pressure vessel in the adsorbed xenon system compensates for
+the (added) mass of the adsorbent required to store the xenon at a lower pressure. The answer
+to this question depends on the xenon adsorption isotherm in and density of the nanoporous ma
+terial. We assess several nanoporous materials for xenon propellant storage, using experimentally
+reported xenon adsorption isotherms as input to our model. We nd that MOF505 and NiMOF74
+outperform the traditional adsorbent, activated carbon.

@@ -1,0 +1,12 @@
+Description:
+An essential nucleophilic target in Mpro, crucial for its catalytic activity.
+
+Text:
+A notable therapeutic strategy 
+for COVID19 is to design inhibitors with an electrophilic reactive group (warhead) that binds 
+to the nucleophilic target cysteine 145 (Cys145) in Mpro. Cys145 is essential for the catalytic 
+activity of Mpro, so blockage or modification of this residue is detrimental to the virus.1519 
+Nirmatrelvir is a new FDAapproved medication developed for the treatment of COVID1920 that 
+has a nitrile warhead and binds covalently and reversibly to Cys145 . There are several known 
+derivatives of nirmatrelvir21, some of which are reversible, while others lead to irreversible 
+catalytic reactions.

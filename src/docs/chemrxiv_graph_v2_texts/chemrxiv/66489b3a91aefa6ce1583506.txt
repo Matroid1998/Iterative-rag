@@ -1,0 +1,14 @@
+Description:
+A polymer whose properties vary greatly depending on the degree of polymerization.
+
+Text:
+Polymer melts have many unique characteristics, such as viscoelasticity and entanglement, 
+which are not observed in lowmolecularweight compounds. The properties of polymer melts 
+vary greatly depending on the degree of polymerization in addition to their chemical species 
+(polyethylene, polyacetylene, polysiloxane, etc.). Largemolecularweight polymer melts 
+generally show high viscosity and take a long time to relax their molecules conformation and 
+mechanical response. In particular, those above around the critical molecular weight (Mc) exhibit 
+significant nonNewtonian properties owing to the molecular entanglement.13 Polymer melts are 
+not only used as materials on their own but are often used in combination with other solid materials, 
+such as for lubrication or fabrication of composite materials. In these applications, the interfaces 
+between polymer melts and solids play crucial roles.

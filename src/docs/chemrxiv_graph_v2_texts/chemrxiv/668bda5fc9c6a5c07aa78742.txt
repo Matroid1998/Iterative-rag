@@ -1,0 +1,15 @@
+Description:
+Used in the form of dye-doped silica nanoparticles for biological applications due to its biocompatibility.
+
+Text:
+Other inorganic LNPs such as upconverting 
+nanoparticles (UCNPs)911 have also attracted a lot of attention. Similarly to QDs, they 
+combine excellent photostability, narrowband emission and long luminescence lifetimes, 
+which allows for timegated detection. UNCPs are also major players in the currently 
+blooming field of triplettriplet annihilation. While these advantages are powerful ways 
+to discriminate the fluorescent signal of interest from the endogenous autofluorescence 
+of biological materials, it is a limitation for dynamic imaging of fast events. Moreover, 
+the brightness of UCNPs is currently limited and their potential toxicity remains an 
+issue.12 Comparatively, the acknowledged biocompatibility of hybrid nanoparticles such 
+as dyedoped silica nanoparticles has made this class of LNPs extremely popular tools 
+for biological applications.

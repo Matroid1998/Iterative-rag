@@ -1,0 +1,27 @@
+Name: Trifluoroethanol
+Text:
+2,2,2-trifluoroethanol is a fluoroalcohol. It is functionally related to an ethanol.
+A non-aqueous co-solvent that serves as tool to study protein folding. It is also used in various pharmaceutical, chemical and engineering applications.
+A non-aqueous co-solvent that serves as tool to study protein folding. It is also used in various pharmaceutical, chemical and engineering applications.
+Properties:safety: Flammable and Corrosive and Acute Toxic and Irritant and Health Hazard
+smiles: C(C(F)(F)F)O
+formula: C2H3F3O
+chem_properties: Molecular Weight: 100.04 g/mol
+XLogP3: 0.4
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 100.01359920 Da
+Monoisotopic Mass: 100.01359920 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 38.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

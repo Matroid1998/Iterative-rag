@@ -1,0 +1,23 @@
+Name: tetrakis(acetonitrile)copper(I) hexafluorophosphate
+Text:
+Properties:safety: Irritant
+smiles: CC#N.CC#N.CC#N.CC#N.F[P-](F)(F)(F)(F)F.[Cu+]
+formula: C8H12CuF6N4P
+chem_properties: Molecular Weight: 372.72 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 11
+Rotatable Bond Count: 0
+Exact Mass: 371.999974 Da
+Monoisotopic Mass: 371.999974 Da
+Topological Polar Surface Area: 95.2
+Heavy Atom Count: 20
+Formal Charge: 0
+Complexity: 92
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 6
+Compound Is Canonicalized: Yes 
+

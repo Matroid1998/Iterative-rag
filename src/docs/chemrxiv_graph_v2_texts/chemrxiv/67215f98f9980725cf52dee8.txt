@@ -1,0 +1,30 @@
+Description:
+A family of natural and artificial porous aluminosilicates used in catalysis, adsorption, and ion exchange.
+
+Text:
+Zeolites are a family of natural and artificial porous aluminosilicates that rank among the most 
+widelyproduced crystalline nanoporous materials in the chemical industry, where they are used in 
+particular for their active role in catalysis, adsorption, and ion exchange. Computational modelling 
+plays a key role in understanding their fundamental properties, linking their physical and chemical 
+behaviour at the macroscopic scale to their structure and dynamics at the atomic scale. With this goal, 
+different levels of chemical description have been used in molecular dynamics (MD) simulations of 
+zeolites, ranging from classical interatomic potentials  with low accuracy but high transferability  
+to firstprinciples or ab initio schemes based on Density Functional Theory (DFT)  which feature 
+high accuracy along with high computational expense.
+
+
+---
+
+Description:
+Materials whose properties arise from the interplay between the motions of the framework and external constraints such as temperature changes, mechanical stress, or adsorption of guest molecules.
+
+Text:
+Yet, at the 
+same time, it is known that a detailed description of the framework dynamics is key in the 
+understanding of the macroscopic behaviour of zeolites many of their properties arise from the 
+interplay between the motions of the framework with an external constraint, which can be a change 
+in temperature, the application of a mechanical stress, or the adsorption of guest molecules (in the gas 
+or liquid phase). Computational studies have shown that systematic DFT calculations in the linear 
+response regime under the application of pressure,2 or in the quasiharmonic approximation (QHA),3 
+allow the calculation of mechanical and thermal properties of puresilica zeolites. However, these 
+httpsdoi.org10.26434chemrxiv2024np8wfv2 ORCID httpsorcid.org0000000153183910 Content not peerreviewed by ChemRxiv. License CC BY 4.0

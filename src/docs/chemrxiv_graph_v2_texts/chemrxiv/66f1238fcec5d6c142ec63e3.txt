@@ -1,0 +1,73 @@
+Description:
+Highly versatile microporous aluminosilicate materials widely employed in various industrial applications, including catalysis, adsorption, and separation.
+
+Text:
+Zeolites are highly versatile microporous aluminosilicate materials
+widely employed in various industrial applications, including catal
+ysis, adsorption and separation.
+
+
+---
+
+Description:
+Catalytic activity is governed by chemical composition and structural features like channel shape and pore volume.
+
+Text:
+Zeolite ZSM5 stands out as one
+of the most extensively used zeolites in the petrochemical industry,
+where it can serve as an efficient catalyst for hydrocarbon trans
+formations.1,2 The catalytic activity of zeolites is primarily gov
+erned by their chemical composition, with structural features such
+as channel shape, accessible pore volume, and the positioning of
+aluminium atoms within the framework significantly influencing
+their catalytic behaviour.24
+Accurately determining the position of aluminium atoms within
+the zeolite framework is useful for understanding and optimizing
+catalytic properties.2,4 However, traditional techniques like Xray
+crystallography have inadequate sensitivity for distinguishing be
+tween aluminium and silicon atoms and thus it cannot be used for
+the determination of the aluminium siting.
+
+
+---
+
+Description:
+Materials whose aluminium local environments can be studied using 27Al NMR.
+
+Text:
+See DOI 00.000000000000
+magnetic resonance (NMR) spectroscopy, particularly 27Al NMR,
+has emerged as a powerful tool for probing the local environments
+of aluminium atoms in zeolites.57 Several studies have attempted
+to correlate experimental 27Al NMR spectra with specific Tsites in
+the zeolite framework.813 However, sizable inconsistencies in the
+calculated chemical shifts reported in these studies illustrate the
+continuing challenges faced by researchers in this field. Interpreting solidstate NMR spectra can be challenging due to
+signal broadening and overlap.
+
+
+---
+
+Description:
+Materials with large unit cells that often require simplifications in computational models due to their complexity.
+
+Text:
+Theoretical calculations of NMR
+parameters, including those derived from firstprinciples meth
+ods, can provide valuable insights.5,10,1317 However, the compu
+tational demands of these methods, especially for the large unit
+cells typical of zeolites, often require adoption of various simpli
+fications, such as disregarding water molecules andor charge
+compensating cations in the models, or representing the system
+using a single structure (putative global minimum) forgoing the
+dynamical temperature effects.9,10
+Machine learning (ML) methods offer a promising alternative
+to firstprinciples methods by significantly accelerating either the
+structure sampling via machine learning potentials1823 or the
+property predictions.2426 In particular, various ML methods have
+been tested and adopted for the prediction of NMRrelated prop
+erties with regression techniques such as least absolute shrinkage
+and selection operator regression, kernel ridge regression, and
+Journal Name, year, vol.,
+112  1
+httpsdoi.org10.26434chemrxiv2024x7qx6 ORCID httpsorcid.org0000000194647769 Content not peerreviewed by ChemRxiv.

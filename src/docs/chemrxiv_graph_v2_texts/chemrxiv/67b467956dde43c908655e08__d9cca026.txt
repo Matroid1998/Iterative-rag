@@ -1,0 +1,19 @@
+Description:
+A lanthanide cation that can be excited to emit in the near-infrared region of the electromagnetic spectrum.
+
+Text:
+The lanthanide ion series has attractive 
+luminescence properties, namely narrow emission bands, 
+large Stokes shifts, long luminescence lifetime and 
+resistance to photobleaching.4 Furthermore, the long 
+lifetimes of the Ln(III) excited states lead to luminescence 
+in the ms range, which can be exploited in combination with 
+timegating methodologies to give low detection limits and 
+also eliminate interfering cellular autofluorescence from 
+biological molecules during bioimaging.5 Coordination 
+complexes of lanthanide cations are found in many 
+applications, particularly as cellular imaging agents and 
+responsive bioprobes.6 They are highly tuneable, and 
+Ln(III) cations may be excited so that they emit in the visible 
+(e. g. LnEu, Tb) or nearinfrared (e. g. LnNd, Yb) regions 
+of the electromagnetic spectrum.

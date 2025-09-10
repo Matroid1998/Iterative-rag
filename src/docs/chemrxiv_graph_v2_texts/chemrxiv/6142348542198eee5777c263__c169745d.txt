@@ -1,0 +1,35 @@
+Description:
+Has a high activation energy for direct dissociation.
+
+Text:
+For industrial ammonia synthesis, it is 
+widely recognized that Rubased catalysts work better than Febased 
+catalysts under milder reaction conditions 11,12. However, the high 
+activation energy for direct N2 dissociation and the severe poisoning 
+effect of hydrogen on conventional Ru metal catalyst renders 
+efficient NH3 synthesis under lower temperatures ( 623 K) and lower 
+pressures ( 50 bar) unattainable13. Therefore, many attempts to 
+develop new catalysts for efficiently catalyzing N2H2 to NH3 under 
+mild conditions1417. Recently discovered, a new class of ammonia 
+catalysts  the ternary ruthenium complex hydrides18 is a 
+breakthrough in this endeavor.
+
+
+---
+
+Description:
+Activated selectively by ternary ruthenium complex hydrides to produce NH3.
+
+Text:
+In this paper, we present the reaction mechanism facilitating ternary 
+ruthenium complex hydrides to successfully produce NH3 at low 
+temperature (448 K  T  573 K) by selective N2 activation and 
+escaping H2 oversaturation. This work shows the unique ability of 
+the RuH64 catalytic center in the ternary ruthenium hydride to shift 
+its ratedetermining intermediate states and transition states of the 
+N2H2 to NH3 reaction path in response to the lowering of the 
+reaction temperature, which brings a significant change in reaction 
+order of hydrogen and ammonia. This variation in the kinetics as a 
+function of operating conditions (temperature, reactant partial 
+pressures, etc.) is not a common phenomenon in catalysis but is 
+observed in some cases 1923.

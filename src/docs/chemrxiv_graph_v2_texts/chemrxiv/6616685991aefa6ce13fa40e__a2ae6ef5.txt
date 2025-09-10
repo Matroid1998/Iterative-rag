@@ -1,0 +1,16 @@
+Description:
+Derivatives are used in the formation of diglycidyl ethers for epoxy compounds.
+
+Text:
+Epoxy molding compounds used to protect semiconductor circuits from 
+environmental factors such as moisture, heat, and shock are typically based on 
+diglycidyl ethers of various bisphenol A derivatives and socalled phenolaralkyl 
+resins, which are products of the condensation reaction between aldehydes and 
+alkylphenols, as hardeners. In addition, additives and fillers are used, and an 
+important component is the socalled accelerator, which accelerates the curing of 
+the resin typically at temperatures above 150 C and increases the number of 
+molding cycles for mass production 1,2,3,4,5. In particular, triarylphosphine 
+accelerated formulations have optimal physical properties when cured, which 
+subsequently improves the reliability of the encapsulated semiconductors 
+6,7,8,9 and recent work is attempting to further improve their properties 
+10,11,12.

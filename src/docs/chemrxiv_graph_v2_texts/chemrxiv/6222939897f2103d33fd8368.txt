@@ -1,0 +1,14 @@
+Description:
+A target for capture and storage applications using Metal-Organic Frameworks (MOFs) due to its presence in greenhouse gases.
+
+Text:
+Finally, we use Principal Component Analysis (PCA) on graph properties to 
+successfully deconvolute MOF selfassembly into a small number of molecular descriptors, such as the average coordination 
+number between halfSBUs and fractal dimension, which can be followed by timeresolved spectroscopy. We conclude that 
+graph theory can be used to understand complex processes such as MOF nucleation through providing molecular descriptors 
+accessible by both simulation and experiment. INTRODUCTION 
+MetalOrganic Frameworks (MOFs) constitute a class of po
+rous materials that thanks to their high porosity and surface 
+area, have ignited interest in a plethora of applications in
+cluding carbon capture and storage1, 2, separations3, extrac
+tion of water from air4, electrodes5 and drug delivery6.

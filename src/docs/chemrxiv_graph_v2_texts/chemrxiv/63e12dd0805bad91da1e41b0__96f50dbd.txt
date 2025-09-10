@@ -1,0 +1,16 @@
+Description:
+A compound that can be reduced electrochemically into fuels and important chemicals.
+
+Text:
+Electrochemical carbon dioxide reduction (CO2R) has attracted a wide amount of attention 
+as a potential means to reduce reliance on fossil fuels by converting CO2 into fuels and societally 
+important chemicals.1,2 In particular, this technology has the potential to contribute to a closed 
+carbon cycle when powered by lowcarbon renewable energy sources.3,4 Amongst key challenges 
+in advancing CO2R systems towards practical use is the development of nonprecious metal 
+catalysts that can selectively reduce CO2 into a single desired fuel and integrating them into a 
+functional device.5,6 
+Molecular catalysts have long been studied as model systems for extracting important 
+structureactivity relationships in CO2R because binding site, functional ligands and reaction 
+environment can all be precisely defined.7,8 This offers particular advantages over heterogeneous 
+catalysts which often have a diversity of possible active sites in generating fundamental insights 
+that can later be translated to functional systems.

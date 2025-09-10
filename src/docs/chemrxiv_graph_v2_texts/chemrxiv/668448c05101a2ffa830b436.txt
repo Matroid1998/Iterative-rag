@@ -1,0 +1,54 @@
+Description:
+Serves as the cathode active material in LiS batteries with a theoretical capacity of 1675 mAh/g, surpassing traditional cathode materials.
+
+Text:
+With a 
+4 
+remarkable combination of high theoretical energy density, costeffectiveness, and the 
+5 
+widespread availability of sulfur, LiS batteries stand out as a promising contender for the next 
+6 
+generation of energy storage solutions.14 The theoretical energy density of LiS batteries have a 
+7 
+fivefold increase compared to that of conventional LIBs, positioning them as an optimal choice 
+8 
+for both electric vehicles and gridscale energy storage applications.5 The exceptional energy 
+9 
+density of LiS batteries is predominantly attributed to sulfur serving as the cathode active 
+10 
+material, boasting a theoretical capacity of 1675 mAhgsulfur, significantly surpassing traditional 
+11 
+cathode materials like cobalt, nickel, and manganese oxides used in LIBs.5 Furthermore, sulfurs 
+12 
+nontoxic nature and abundant supply make it an attractive and sustainable choice for energy 
+13 
+storage applications.1, 6 In essence, the remarkable energy density inherent in LiS batteries 
+14 
+confers practical viability to their integration into energy storage systems.
+
+
+---
+
+Description:
+Elemental sulfur has low conductivity and is involved in volume expansions during lithiation and delithiation processes in LiS batteries.
+
+Text:
+Meanwhile, their 
+15 
+abundant natural availability concurrently establishes a resilient basis for the expansive 
+16 
+commercialization prospects of LiS batteries on a large scale.1, 2 
+17 
+Despite the substantial merits offered by LiS batteries in terms of their elevated 
+18 
+theoretical energy density and costeffectiveness, the realization of their commercial potential 
+19 
+necessitates the resolution of formidable technical challenges. These challenges encompass the 
+20 
+low conductivity of elemental sulfur, parasitic reactions on the anode, and the volume expansions 
+21 
+during lithiation and delithiation processes.1, 2, 7, 8 Within this spectrum, two primary concerns 
+22 
+have been scrutinized extensively within the domains of chemistry and electrochemistry. Firstly, 
+23 
+httpsdoi.org10.26434chemrxiv2024gdbgq ORCID httpsorcid.org0000000173284786 Content not peerreviewed by ChemRxiv. License CC BY 4.0

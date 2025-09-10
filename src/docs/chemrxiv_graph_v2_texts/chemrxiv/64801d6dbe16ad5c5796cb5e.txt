@@ -1,0 +1,35 @@
+Description:
+Undergo condensation with amines to form amides.
+
+Text:
+The formation of the amide bond is of utmost importance in chemical synthesis. Amidebased 
+compounds find their application in pharmaceuticals,1 agrochemicals,2 polymers,3 etc. For 
+example, around a quarter of marketed drugs contain an amide bond,1 and amide coupling is 
+the most prevalent chemical transformation in drug discovery.4 At the same time, academic 
+and industrial researchers call for improvement in the sustainability of chemical processes that 
+
+lead to amides as a top priority,5 in line with the principles of green chemistry and sustainable 
+development.6 Among different strategies for the preparation of amides, the most 
+straightforward is the amidation of carboxylic acids and amines (Figure 1). Their condensation 
+using coupling reagents is the goto approach for the largescale preparation of amides.7 
+However, such an approach suffers from considerable sustainability drawbacks.
+
+
+---
+
+Description:
+Activated by coupling reagents to make the carbonyl group more susceptible to nucleophilic attack.
+
+Text:
+In the 
+activation step, stoichiometric amounts of coupling reagents are used to activate the carboxylic 
+acids, thus making the carbonyl group more susceptible to a nucleophilic attack from the 
+amine molecules. Although highly efficient, this approach yields large amounts of solvent 
+waste and poor atom economy. Alternatively, solutionbased direct catalysed amidation 
+protocols with the frequently used boron810 and group (IV) metal catalysts1114 are more 
+favourable from the green chemistry perspective. Yet, catalysed amidations still face a few 
+challenges, for example, problems with catalyst loadings and recyclability as well as limited 
+substrate scopes, not to mention that such reactions remain developed in solution, which does 
+not help to reduce waste production.15 
+
+Fig. 1 Overview of the main strategies for the amidation of carboxylic acids and amines.

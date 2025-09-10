@@ -1,0 +1,18 @@
+Description:
+A molecule with inversion symmetry, often used to study the effects of symmetry rules in chemical processes.
+
+Text:
+Thus symmetry se
+lection rules play a pivotal role in the formation of a
+RIXS spectrum, and can be analyzed both in terms of
+dipole transition moments and point group symmetry. Often if V E0V Eiis forbidden as a direct tran
+sition, the corresponding RIXS channel may be allowed
+in the three level scattering process10, 11. This opens
+up an avenue to observe optical dark states. However
+the purely electronic symmetry selection and propensity
+rules can be broken in the presence of vibronic couplings
+as has been extensively discussed earlier 6. The eect
+of breakage and restoration of these symmetry rules are
+most interesting and profound in molecules having inver
+sion symmetry, of which SF6 is a particularly interesting
+example.12, 13.

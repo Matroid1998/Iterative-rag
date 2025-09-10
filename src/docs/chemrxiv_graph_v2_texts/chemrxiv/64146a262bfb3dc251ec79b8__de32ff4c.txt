@@ -1,0 +1,8 @@
+Description:
+A material used in photocathodes for studying photodynamics.
+
+Text:
+30 So far, it is 
+unknown whether, and if so how, the external bias potential affects the charge separation and 
+recombination dynamics in an aqueous electrolyte. In this work, we investigate the effect of external bias potential on the photodynamics of a NiO
+based photocathode in phosphate buffer solution (PBS) by timeresolved photoluminescence

@@ -1,0 +1,14 @@
+Description:
+A component of peptide nucleic acid probes, replacing the sugar phosphate backbone with a peptide backbone.
+
+Text:
+For these reasons, it is 
+essential to further improve technologies that allow the direct detection of miRNAs and 
+the detection of isomiRs. In response to these challenges, in recent years, we have focused our efforts on 
+developing Dynamic Chemistry Labelling (DCL) as a methodology for miRNA detection 
+with singlebase resolution. DCL serves as an enzymefree and versatile isomiR detection 
+method that can be applied to several biological samples, including serum, plasma, cell 
+lysates and fixed cells1720. DCL is based on the use of abasic peptide nucleic acid (PNA) 
+probes. These PNA probes are known mimics of nucleic acids, but instead of a sugar
+phosphate backbone, they have a peptide backbone composed of N(2
+aminoethyl)glycine units21.

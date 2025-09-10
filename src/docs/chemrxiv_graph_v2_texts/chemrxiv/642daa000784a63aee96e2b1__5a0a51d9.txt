@@ -1,0 +1,32 @@
+Description:
+Considered as an alternative to lithium in alkaline batteries.
+
+Text:
+One wellestablished
+method is the electrochemical storage of energy in rechargeable batteries, with lithiumbased
+batteries, in particular, having revolutionized energy storage for all sorts of electronic de
+vices.1,2 Lithiumbased batteries alone, however, will not solve todays energy storage prob
+lems as they face a variety of challenges, ranging from limited resource availability3 of crucial
+battery components over limited battery lifetimes4 to serious safety concerns.5 To combat
+the increasing resource shortages associated with lithium batteries and provide affordable
+and environmentally sustainable energy storage for the foreseeable future, research efforts
+with regards to alternative battery types have increased tremendously.613 Alternatives to
+the current generation of lithium batteries include other alkaline batteries, replacing lithium
+with sodium or potassium, as well as batteries using magnesium, calcium, or aluminum.
+
+
+---
+
+Description:
+Used in alternative alkaline batteries.
+
+Text:
+Especially for alternative alkaline batteries employing sodium or potassium, some very sim
+ilar challenges remain compared to those known for lithium batteries.14,15 Commonly used
+electrolyte components like ethylene carbonate (EC), propylene carbonate (PC), dimethyl
+carbonate (DMC), and dimethoxyethane (DME), LiPF6, LiBF4, and LiTFSI, are known to
+be unstable in the presence of lithiumbased battery anodes, leading to the formation of a
+passivation layer known as the solid electrolyte interphase (SEI).16 The SEI formation poses
+one of the main limitations in the insufficient cycling stability of the battery, leading either
+to a reduced battery capacity or, in the worst case, a catastrophic thermal runaway.10 At
+2

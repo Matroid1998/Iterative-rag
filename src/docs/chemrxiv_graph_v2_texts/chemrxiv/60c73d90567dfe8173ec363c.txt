@@ -1,0 +1,19 @@
+Description:
+An FDA approved, renewable, biodegradable, thermoplastic material.
+
+Text:
+Alternative methods to 
+photolithography have been reported to add flexibility 
+Abstract Biodegradable polymer microneedle (MN) 
+arrays are an emerging class of transdermal drug 
+delivery devices that promise a painless and sanitary 
+alternative to syringes; however, prototyping bespoke 
+needle architectures is expensive and requires 
+production of new master templates. Here, we present 
+a new microfabrication technique for MNs using fused 
+deposition modeling (FDM) 3D printing using polylactic 
+acid, an FDA approved, renewable, biodegradable, 
+thermoplastic material. We show how this natural 
+degradability can be exploited to overcome a key 
+challenge of FDM 3D printing, in particular the low 
+resolution of these printers.

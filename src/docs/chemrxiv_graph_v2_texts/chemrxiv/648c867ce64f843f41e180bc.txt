@@ -1,0 +1,28 @@
+Description:
+Produced under significantly lower temperature and pressure conditions through mechanochemistry.
+
+Text:
+Shockwave induced reactions are a prime example of the latter,19,25,27 where the shock
+heats the material hundreds to thousands of kelvin and can induce large intramolecular
+strains.23,28,29
+Mechanochemistry is becoming widely relevant in engineering and industrial applica
+tions30 such as force responsive materials31 and mechanochemical green engineering.32 In fun
+damental chemistry, mechanochemistry is utilized for a wide variety of purposes such as for
+driving exotic andor forbidden reactions,12,33,34 for developing new synthesis routes,20,3539
+and for minimizing the amount of energy andor eliminating solvent needs to incur reac
+tions.8,32,40,41 A striking example of this is mechanochemistry allowing for ammonia produc
+tion under significantly lower temperature and pressure conditions.36,42,43 Significant theoret
+ical work has explained experimental trends,12,44,45 yet there is still a significant knowledge
+gap in the fundamentals of strain influenced reactions, especially in batch processes and
+condensed matter.46,47
+In condensed matter cases, manybody mechanochemistry comes into play, where the
+strains are nonlinear, characterized by bending and twisting of functional groups.23,48 It is
+critical to understand how these deformations map their strain energy back onto the reaction
+coordinate, as the amount in which the strain drives the system towards the transition state
+can well determine the effective activation energy of the deformed system.11,48 A simplified
+formulation for how mechanical strain can lower the activation barrier considered the force
+applied on some reaction coordinate49 k  e
+(EaF x)
+RT
+, in this work we seek to formalize this
+equation to generally apply to a wide range of complex molecular strains.

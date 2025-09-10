@@ -1,0 +1,14 @@
+Description:
+A gas for which high-quality force fields accurately reproduce adsorption isotherms in all-silica zeolites.
+
+Text:
+Other authors have employed FFbased 
+molecular dynamics (MD) simulations to study the diffusion of pharmaceuticals through zeolite 
+structures in the context of drug delivery investigations.1416 
+A crucial aspect in this regard is the suitability of the FF parameters to represent the relevant 
+interatomic interactions in the system, especially the interactions between zeolite host and 
+adsorbed molecules. For gas phase adsorption, a validation against experimental adsorption 
+data is relatively straightforward, and highquality FFs that accurately reproduce adsorption 
+isotherms for gases like CO2, CH4, N2, or O2 in allsilica zeolites have been developed.2326 
+For larger organics that are adsorbed from the liquid phase, the situation is more complex, as 
+httpsdoi.org10.26434chemrxiv2022nz7rzv2 ORCID httpsorcid.org0000000151331537 Content not peerreviewed by ChemRxiv. License CC BY 4.0

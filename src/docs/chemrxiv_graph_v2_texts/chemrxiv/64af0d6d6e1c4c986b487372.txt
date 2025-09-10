@@ -1,0 +1,19 @@
+Description:
+Drives the dynamic assembly of tubulin into microtubules.
+
+Text:
+The ATPdriven ATPase pump and GTP
+driven dynamic assembly of tubulin into microtubules are 
+prototypical examples.13 Inspired by such biomolecular 
+machinery, reaction cycles that catalytically convert fuels 
+into waste have been devised to power synthetic 
+molecular machineries like dynamic assembly fibers 
+driven by the hydrolysis of methylating agents4 or the 
+rotation of a molecular motor catalyzed by the hydration 
+of carbodiimides.56 In these reaction cycles, two chemical 
+reactions operate simultaneously (1) an activation 
+reaction is the reaction between the high chemical 
+potential (which we call fuel) and a catalyst, which 
+activates the catalyst, and (2) a deactivation reaction that 
+reverts the activated catalyst to its original state (Scheme 
+1A).

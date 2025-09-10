@@ -1,0 +1,26 @@
+Name: Apilimod
+Text:
+Apilimod (STA 5326) is a potent IL-12/IL-23 inhibitor, and strongly inhibits IL-12 in IFNg/SAC-stimulated human PBMCs and SAC-treated monkey PBMCs. Apilimod is a potent and highly selective PIKfyve inhibitor.
+APILIMOD is a small molecule drug with a maximum clinical trial phase of II (across all indications) and has 3 investigational indications.
+Properties:safety: Irritant
+smiles: CC1=CC(=CC=C1)/C=N/NC2=CC(=NC(=N2)OCCC3=CC=CC=N3)N4CCOCC4
+formula: C23H26N6O2
+chem_properties: Molecular Weight: 418.5 g/mol
+XLogP3: 3.8
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 8
+Exact Mass: 418.21172409 Da
+Monoisotopic Mass: 418.21172409 Da
+Topological Polar Surface Area: 84.8
+Heavy Atom Count: 31
+Formal Charge: 0
+Complexity: 544
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

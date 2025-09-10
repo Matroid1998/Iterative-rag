@@ -1,0 +1,19 @@
+Description:
+A metal that binds C and O strongly.
+
+Text:
+In
+general, for any adsorbate A, the chemisorption energy
+EA is defined as,
+EA  EAEEA
+where Arepresents A adsorbed on the surface, is the
+free surface and A is the adsorbate in vacuum. Figure 1a
+shows the chemisorption energies of O plotted against
+that of C. It is evident that there is a significant amount
+of scatter and no linear scaling relations are observed. Despite the lack of linear scaling, there is, broadly, an
+increasing trend for both C and O energies in Figure
+1a. Metals that bind C strongly (for example, Fe) also
+bind O strongly and those that bind C weakly (Au,
+Ag) also bind O weakly. However, due to the noticeable
+amount of scatter, this general rule does not always
+hold.

@@ -1,0 +1,16 @@
+Description:
+Involved in nitrogen oxidation to form nitric oxide (NO) in the presence of nonthermal plasma and a catalyst.
+
+Text:
+The ability of a nonthermal plasma (NTP) and heterogeneous catalyst combination to
+achieve reaction yields that exceed the contributions of the individual components is well
+documented.1,2 Often reactions are explored at conditions at which background NTP yields
+are nonnegligible. Disentangling the gain achieved by combining NTP and catalyst from the
+background contributions of NTP and catalyst alone, and inferring the origins of yield en
+hancements, are thus signicant practical challenges.35 Here, we demonstrate NTPcatalytic
+nitrogen oxidation
+N2(g)  O2(g) 2 NO(g)
+(1)
+in a reactor conguration and at conditions in which neither catalyst nor NTP yields sig
+nicant product. Observed product yields are thus the result of the mutual action of NTP
+and catalyst.

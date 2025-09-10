@@ -1,0 +1,36 @@
+Description:
+A guest molecule that forms clathrates with hydroquinone under mild pressure.
+
+Text:
+Clathrates are crystalline materials consisting of a porous
+framework, built up by discrete molecules, that adsorb guest
+molecules in their pores (13). The framework acts as a host
+for the relatively weakly bound gaseous guests. In the absence of directional interactions between molecules,
+and disregarding lattice vibrations, the densest crystal struc
+ture of any given composition is the most stable one (4, 5). Consequently, the empty host frameworks are generally un
+stable and clathrates are rare (6, 7). Hydroquinone is one of the few widely known clathrate
+forming molecules (8). It has been extensively studied both
+experimentally and computationally. Hydroquinone easily
+forms clathrates with a large number of guests, including
+CO2 under mild pressure (9).
+
+
+---
+
+Description:
+A gas that can be captured from flue gas or separated from biogas using clathrate hydrates.
+
+Text:
+More recently, additives that induce the formation
+of clathrate hydrates have been studied as a means to cap
+ture CO2 from ue gas or for separating CO2 from biogas
+precombustion (20). Computational studies of clathrates have mainly focused on
+the calculation of guest adsorption energies by traditional
+force eld methods. The adsorption energy is calculated ei
+ther from the static lattice energy (21, 22), or with methods
+that consider the dynamics and generate a thermodynamic
+ensemble, such as molecular dynamics or Monte Carlo (MC)
+simulations (2325). Lattice dynamics is an alternative to
+these methods, and can be performed with more accurate
+force elds (26, 27), and at a moderate computational cost. Lattice dynamics studies of clathrates are rare, but Dang
+and Pettitt (28) and Belosludov et al.

@@ -1,0 +1,12 @@
+Description:
+A highly conductive active material.
+
+Text:
+Minimizing overpotentials in battery electrodes is necessary to improve performance metrics such as
+rate capability or accessible capacity.1 Depending on whether or not electronic transport contributes
+meaningfully to the overpotential,210 the engineering strategies for particle morphology, coating, or
+conductive additives widely differ.11 In one extreme where the electrochemically active material is elec
+tronically insulating, such as in LiFePO4, enabling electronic transport1215 is recognized as a critical
+step in the electrode design. In highly conductive active materials such as LiCoO2 (LCO),16 optimiza
+tion for electronic transport is generally not of high priority.17 Meanwhile, ternary layered oxides such
+1

@@ -1,0 +1,22 @@
+Description:
+Material used in the design of electrocatalysts for 2e ORR.
+
+Text:
+noblemetal,1315 metal oxide,16
+62 
+18 carbon material19, 20 and so on) regarding the rational design of electrocatalysts for 
+63 
+2e ORR, however, available electrocatalysts for 2e ORR suffer from limited activity 
+64 
+and selectivity, hindering widespread commercial adoption. Thus, finding a high
+65 
+performance electrocatalyst for 2e ORR is crucial as an alternative to the Riedl
+66 
+Pfleiderer method. 67 
+Essentially, H2O2 is partially produced from O2 through the ORR process on the 
+68 
+cathode. O2 activation relies on metal site backdonation; higher backdonation yields 
+69 
+two adsorbed oxygen, while lower levels fail to activate O2. Hence, optimizing back
+70 
+donation of metal site is crucial for catalyst design to enhance H2O2 performance.

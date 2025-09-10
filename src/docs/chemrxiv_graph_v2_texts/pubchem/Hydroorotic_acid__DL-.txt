@@ -1,0 +1,27 @@
+Name: Hydroorotic acid, DL-
+Text:
+Dihydroorotic acid is a pyrimidinemonocarboxylic acid that results from the base-catalysed cyclisation of N(alpha)-carbethoxyasparagine. It is a secondary amide, a monocarboxylic acid, a pyrimidinemonocarboxylic acid and a N-acylurea. It is functionally related to an orotic acid. It is a conjugate acid of a dihydroorotate.
+4,5-Dihydroorotic acid is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Dihydroorotic acid has been reported in Homo sapiens with data available.
+Properties:safety: Irritant
+smiles: C1C(NC(=O)NC1=O)C(=O)O
+formula: C5H6N2O4
+chem_properties: Molecular Weight: 158.11 g/mol
+XLogP3: -1.5
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 1
+Exact Mass: 158.03275668 Da
+Monoisotopic Mass: 158.03275668 Da
+Topological Polar Surface Area: 95.5
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 225
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

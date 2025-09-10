@@ -1,0 +1,14 @@
+Description:
+A bond that is hydrolyzed by protease to generate a carboxylic acid and amine.
+
+Text:
+Once the polypeptide is bound within the active site of the protease, the scissile amide 
+bond is hydrolyzed to generate a carboxylic acid and amine (Figure 1A). The binding pockets of a 
+protease are referred to as subsites, denoted by S. Typically, each subsite interacts with a specific side 
+chain of the polypeptide substrate, denoted by P. The position at which the polypeptide substrate is 
+cleaved determines the assignment of prime or noprime notation. Prime notation refers to the Cterminal 
+side and noprime notation refers to the Nterminal side of the polypeptide and corresponding pockets 
+(Figure 1B). 3 
+
+Figure 1. A Amide bond hydrolysis by a protease enzyme. B Binding of a protease to a polypeptide 
+substrate. The side chains of the protein (P1, P2, P3, etc.

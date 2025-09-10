@@ -1,0 +1,26 @@
+Description:
+Forms the framework of conjugated pathways in organic semiconductors.
+
+Text:
+Organic semiconductors (OSCs), composed of conjugated molecules, polymers, or combi
+nations thereof offer distinctive tunability of their electrical and optical properties and have
+garnered significant attention due to their diverse applications in electronics, photonics, and
+energy storage.17 Different from drug molecule design, the performance of OSCs can be
+optimized not only in the molecule level like altering the length or aromatic character of the
+conjugated pathways of the carbon framework,814 but also in the aggregation morphology
+level.1518 For example, the molecular orientations are crucial to determine the outcoupling
+efficiency of OLED,19 and preventing the  aggregation can also increase the electron
+mobility of OPV.20
+Over the past few decades, progress in computational approaches such as density func
+tion theory (DFT)21,22 and molecular dynamics (MD)23 has enabled the investigation of the
+electronic, redox, and optical properties at the molecule level2427 and detecting the solid
+state ordering or evaluating transport properties at the aggregation morphology level for
+OSCs.19,20,28,29 However, the bulk properties are only well studied through MD simulation in
+systems whose force field parameters are supported by existing force fields.19,3032 As conju
+gated molecules or polymers consist of multiple heterocyclic or benzene rings, their chemical
+environment are significantly more complex than those of drug molecules or small organic
+molecules.33 Consequently, the force filed parameters for parts of conjugated molecules can
+not be matched with existing parameter libraries such as GAFF34 and CGenFF.35 Fur
+thermore, owing to the distinctive electrondeficient nature, Boron atoms are commonly
+2
+httpsdoi.org10.26434chemrxiv2024bl6f9 ORCID httpsorcid.org000000032737606X Content not peerreviewed by ChemRxiv.

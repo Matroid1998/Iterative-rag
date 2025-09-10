@@ -1,0 +1,25 @@
+Description:
+Plays a central role in DNA photochemistry and is a hot spot in DNA photosensitization.
+
+Text:
+Thymine plays a central role in DNA photochemistry. Indeed, direct absorption of UVlight
+leads to thymine dimerization, producing either cyclobutane pyrimidine dimers (CPD) or 64
+photoproduct (64PP) as the most common lesions.13 The former damages are also toxic
+when they accumulate, as they are either repair resistant or highly mutagenic and are cor
+related to the development of malignant skin cancers as the result of unprotected exposure
+to sunlight.47 Furthermore, thymine is also an hot spot in DNA photosensitization.810. Indeed, its triplet state, the lowest among the natural nucleobases, can be populated via
+triplettriplet energy transfer from the excited sensitizer. This process can also be facili
+tated by the additional stabilization of thymine triplet (3T) due to stacking, and the
+related multichromophoric coupling in the DNA helical structure.
+
+
+---
+
+Description:
+Involved in photochemistry and triplet-triplet energy transfer mechanisms.
+
+Text:
+Thymine photochem
+istry has been explored as early as 1960s11, but the presence of 3T12 has triggered renewed
+attention, notably for delineating the mechanism of triplettriplet energy transfer with ex
+2

@@ -1,0 +1,13 @@
+Description:
+Formed through the hydrolysis of TiCl bonds by ambient air humidity and releases hydroxyl radicals upon exposure to light and air.
+
+Text:
+Most artificial photosynthesis (AP) systems, including those at the forefront of research, focus on
+water splitting for hydrogen production or reducing CO to basic hydrocarbons (C1C3). The ability
+to synthesize longchain compounds (up to C17) offers a transformative opportunity to produce
+highervalue chemicals, advancing AP technology scalability. The newly developed TiCl2phenylindole (PI) photocatalytic system uses visible light to convert
+atmospheric CO and HO into multicarbon oxygenated hydrocarbons1. This breakthrough
+integrates Direct Air Capture (DAC) of CO2 with conversion, addressing critical challenges in
+climate change, energy sustainability, and resource efficiency. The mechanism involves forming photoactive TiOH bonds through the hydrolysis of TiCl
+bonds by ambient air humidity. Upon exposure to light and air, these TiOH bonds release
+hydroxyl radicals, facilitating the reduction of the titanium center (Ti TiTi).

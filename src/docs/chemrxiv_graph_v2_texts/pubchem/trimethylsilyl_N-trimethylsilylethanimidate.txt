@@ -1,0 +1,24 @@
+Name: trimethylsilyl N-trimethylsilylethanimidate
+Text:
+See also: N,O-bis(trimethylsilyl)acetamide (annotation moved to).
+Properties:safety: Flammable and Corrosive and Irritant
+smiles: CC(=N[Si](C)(C)C)O[Si](C)(C)C
+formula: C8H21NOSi2
+chem_properties: Molecular Weight: 203.43 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 3
+Exact Mass: 203.11616736 Da
+Monoisotopic Mass: 203.11616736 Da
+Topological Polar Surface Area: 21.6
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 176
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 1
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

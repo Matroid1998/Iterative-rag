@@ -1,0 +1,23 @@
+Description:
+A material used in thin-film solar cells with a bandgap similar to GaAs, achieving conversion efficiencies of up to 22%.
+
+Text:
+While CdTe thinfilm solar cells have achieved
+impressive conversion efficiencies of  22,1 there
+is a growing interest in the research community and
+industry to reach practical efficiency limits approach
+ing 28, which has been achieved by GaAs solar
+cells with a similar bandgap, while retaining mar
+ket leading cost.2, 3 There are several materials fac
+tors that limit device efficiencies, including carrier
+recombination in the bulk,4, 5 grain boundaries,
+and interfaces.6 Studies indicate reducing carrier
+recombination at the CdTe interface with the con
+tact layers presents a significant opportunity to ul
+timately increase device performance beyond 25 
+efficiency.6, 7 Back contact optimization is likely to
+enable further improvements in device efficiencies.8
+Figure 1 shows the typical architecture of a super
+strate CdTe solar cell with a transparent top (front)
+contact, ntype emitter, and a holeselective back
+contact to ptype CdTe.

@@ -1,0 +1,15 @@
+Description:
+A promising candidate as a turbine material due to its high melting point, low density, high room temperature ductility, and low ductile to brittle temperature.
+
+Text:
+Among these, niobium is a promising candidate as a turbine material due to its 
+high melting point, low density, high room temperature ductility, and low ductile to brittle 
+temperature 2. Hightemperature, highstrength Nbbased alloys can be realized by adding 
+suitable alloying elements which can provide a solid solution, dispersion, and multiphase 
+strengthening, as well known in the physical metallurgy of refractory alloys 3,4. However, 
+these alloying elements yield a huge compositional design space. Suppose we have fourteen 
+alloying elements, excluding the base element niobium, and each alloying elements 
+composition varies from 1 weight percent to 20 weight percent with a step size of 1 weight 
+percent. In that case, the total number of possible alloy combinations can be expressed as 
+
+!

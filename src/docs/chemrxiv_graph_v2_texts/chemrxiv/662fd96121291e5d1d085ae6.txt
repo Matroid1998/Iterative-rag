@@ -1,0 +1,117 @@
+Description:
+Consumed in aerobic respiration and produced in oxygenic photosynthesis.
+
+Text:
+Measuring O2 concentration is a key component in many environmental, physiological or ecological 
+studies, as it is i) consumed in aerobic respiration, ii) produced in oxygenic photosynthesis, and iii) used 
+for reoxidation of reduced products from anaerobic processes. It thus plays an essential role for im
+portant physiological and biogeochemical processes in the biosphere (1,2). The solubility of O2 in water 
+is relatively low, i.e., 1 liter of air contains ca. 30 times more O2 than a liter of airsaturated water. At 
+the same time, the O2 transport by diffusion is about 10000 times slower in water than in air.
+
+
+---
+
+Description:
+Used for reoxidation of reduced products from anaerobic processes.
+
+Text:
+Measuring O2 concentration is a key component in many environmental, physiological or ecological 
+studies, as it is i) consumed in aerobic respiration, ii) produced in oxygenic photosynthesis, and iii) used 
+for reoxidation of reduced products from anaerobic processes. It thus plays an essential role for im
+portant physiological and biogeochemical processes in the biosphere (1,2). The solubility of O2 in water 
+is relatively low, i.e., 1 liter of air contains ca. 30 times more O2 than a liter of airsaturated water. At 
+the same time, the O2 transport by diffusion is about 10000 times slower in water than in air.
+
+
+---
+
+Description:
+Has relatively low solubility in water compared to air.
+
+Text:
+Measuring O2 concentration is a key component in many environmental, physiological or ecological 
+studies, as it is i) consumed in aerobic respiration, ii) produced in oxygenic photosynthesis, and iii) used 
+for reoxidation of reduced products from anaerobic processes. It thus plays an essential role for im
+portant physiological and biogeochemical processes in the biosphere (1,2). The solubility of O2 in water 
+is relatively low, i.e., 1 liter of air contains ca. 30 times more O2 than a liter of airsaturated water. At 
+the same time, the O2 transport by diffusion is about 10000 times slower in water than in air.
+
+
+---
+
+Description:
+Transport by diffusion is about 10000 times slower in water than in air.
+
+Text:
+Measuring O2 concentration is a key component in many environmental, physiological or ecological 
+studies, as it is i) consumed in aerobic respiration, ii) produced in oxygenic photosynthesis, and iii) used 
+for reoxidation of reduced products from anaerobic processes. It thus plays an essential role for im
+portant physiological and biogeochemical processes in the biosphere (1,2). The solubility of O2 in water 
+is relatively low, i.e., 1 liter of air contains ca. 30 times more O2 than a liter of airsaturated water. At 
+the same time, the O2 transport by diffusion is about 10000 times slower in water than in air.
+
+
+---
+
+Description:
+A molecule involved in photosynthesis, respiration, and transport processes in aquatic environments.
+
+Text:
+Conse
+quently, aquatic habitats and organisms can undergo strong shifts in their O2 regime ranging from super
+saturated (hyperoxic) conditions over normal air saturated conditions (normoxia) to critical low concen
+trations (hypoxia) or even anoxia depending on the balance between O2 formation (via photosynthesis), 
+consumption (via respiration) and transport via diffusion and advection. Excess loading of organic car
+bon in coastal waters can e.g. lead to strong O2 depletion via microbial biomass breakdown, causing 
+mortality of marine animals and formation of benthic or planktonic death zones, where O2 is deprived. Currently, climate change is driving an ongoing ocean deoxygenation (3), which already has led to in
+creasing prevalence of hypoxia and its harmful effects in many marine habitats (4).
+
+
+---
+
+Description:
+A molecule essential for respiration and involved in coral metabolism and tissue-level concentration regulation.
+
+Text:
+Albeit overlooked for many years, ocean deoxygenation is now also recognized as a substantial 
+threat to coral reefs (5,6), but how corals are able to regulate their internal O2 levels in response to 
+changes in external O2 remains poorly understood (7). A key limitation is our ability to link the O2 
+concentration in the surrounding water to the tissuelevel O2 concentration, which is affected by 
+coral morphology and metabolism but also O2 transfer across the tissuewater and tissueskeleton 
+interface. Colonies of tropical reefbuilding corals are composed of hundreds to thousands of simple, calci
+fying polyp animals that harbor photosynthetic microalgae in their tissues, and the photosynthates 
+translocated from the microalgal symbionts to the surrounding host cells are the major source of 
+organic carbon for the animal.
+
+
+---
+
+Description:
+Supersaturating levels build up during daytime due to photosynthesis by microalgal symbionts, while hypoxic conditions occur at night due to respiration and limited transfer from seawater.
+
+Text:
+Point measurements with electrochemical and fiberoptic microsensors (9,10) showed that the O2 
+status of corals undergoes strong dynamics during daynight cycles, where supersaturating O2 lev
+els build up during daytime due to the photosynthesis by their microalgal symbionts, while hypoxic 
+(or even anoxic) conditions are observed during nighttime due to respiration and limited O2 trans
+fer from the surrounding seawater. However, such point measurements in tissue can be invasive 
+and are not representative of the complex 3D morphology and compartmentalization of corals (11), 
+which also includes intricate ciliadriven external and internal flow patterns at the tissue surface 
+and in the gastric cavity of corals (12,13). Chemical imaging with optical sensor particles (e.g. 14,15) 
+offer an interesting alternative to such measurements.
+
+
+---
+
+Description:
+A molecule involved in concentration and dynamics mapping in corals and aquatic plants.
+
+Text:
+While O2sensitive sensor particles have previously been applied for mapping the O2 concentration 
+and dynamics over the external tissue surface of corals (11,16,17) and aquatic plants (18), the map
+ping of internal O2 concentration in living coral tissue and gastric cavities has so far not been real
+ized. External application of sensor particles has the following complications in corals (i) the re
+sponse to changes in O2 can be rather slow particularly for larger particles 5 10 m); (ii) mucus 
+production can bind and slowly remove the particles from the coral surface and may also influence 
+httpsdoi.org10.26434chemrxiv2024m6kj8 ORCID httpsorcid.org0000000217924790 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

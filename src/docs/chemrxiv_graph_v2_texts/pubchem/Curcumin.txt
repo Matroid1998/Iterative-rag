@@ -1,0 +1,32 @@
+Name: Curcumin
+Text:
+Curcumin appears as orange-yellow needles. (NTP, 1992)
+Curcumin is a beta-diketone that is methane in which two of the hydrogens are substituted by feruloyl groups. A natural dyestuff found in the root of Curcuma longa. It has a role as a metabolite, an anti-inflammatory agent, an antineoplastic agent, a hepatoprotective agent, a flavouring agent, a biological pigment, a nutraceutical, an antifungal agent, a dye, a lipoxygenase inhibitor, a ligand, a radical scavenger, a contraceptive drug, an EC 3.5.1.98 (histone deacetylase) inhibitor, an immunomodulator, an iron chelator, a neuroprotective agent, a food colouring, an EC 1.1.1.21 (aldehyde reductase) inhibitor, an EC 1.1.1.25 (shikimate dehydrogenase) inhibitor, an EC 1.1.1.205 (IMP dehydrogenase) inhibitor, an EC 1.6.5.2 [NAD(P)H dehydrogenase (quinone)] inhibitor, an EC 1.8.1.9 (thioredoxin reductase) inhibitor, an EC 2.7.10.2 (non-specific protein-tyrosine kinase) inhibitor and a geroprotector. It is a polyphenol, a beta-diketone, an enone, a diarylheptanoid and an aromatic ether. It is functionally related to a ferulic acid.
+Curcumin, also known as diferuloylmethane, is an active component in the golden spice turmeric (Curcuma longa) and in [Curcuma xanthorrhiza oil]. It is a highly pleiotropic molecule that exhibits antibacterial, anti-inflammatory, hypoglycemic, antioxidant, wound-healing, and antimicrobial activities. Due to these properties, curcumin has been investigated for the treatment and supportive care of clinical conditions including proteinuria, breast cancer, multiple myeloma, depression, and Non Small Cell Lung Cancer (NSCLC). Despite proven efficacy against numerous experimental models, poor bioavailability due to poor absorption, rapid metabolism, and rapid systemic elimination have been shown to limit the therapeutic efficacy of curcumin. Curcumin is under investigation for the treatment and supportive care of various clinical conditions including mucositis, rectal cancer, prostate cancer, chronic schizophrenia, and Mild Cognitive Impairment (MCI).
+curcumin is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Curcumin has been reported in Aspergillus versicolor, Curcuma xanthorrhiza, and other organisms with data available.
+Curcumin is a phytopolylphenol pigment isolated from the plant Curcuma longa, commonly known as turmeric, with a variety of pharmacologic properties.  Curcumin blocks the formation of reactive-oxygen species, possesses anti-inflammatory properties as a result of inhibition of cyclooxygenases (COX) and other enzymes involved in inflammation; and disrupts cell signal transduction by various mechanisms including inhibition of protein kinase C.  These effects may play a role in the agent's observed antineoplastic properties, which include inhibition of tumor cell proliferation and suppression of chemically induced carcinogenesis and tumor growth in animal models of cancer. (NCI04)
+A yellow-orange dye obtained from tumeric, the powdered root of CURCUMA longa. It is used in the preparation of curcuma paper and the detection of boron. Curcumin appears to possess a spectrum of pharmacological properties, due primarily to its inhibitory effects on metabolic enzymes.
+See also:  ... View More ...
+Properties:safety: Irritant
+smiles: COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O
+formula: C21H20O6
+chem_properties: Molecular Weight: 368.4 g/mol
+XLogP3: 3.2
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 8
+Exact Mass: 368.12598835 Da
+Monoisotopic Mass: 368.12598835 Da
+Topological Polar Surface Area: 93.1
+Heavy Atom Count: 27
+Formal Charge: 0
+Complexity: 507
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 2
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

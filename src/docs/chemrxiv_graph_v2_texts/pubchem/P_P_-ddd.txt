@@ -1,0 +1,29 @@
+Name: P,P'-ddd
+Text:
+DDD (Dichlorodiphenyldichloroethane) can cause cancer according to an independent committee of scientific and health experts.
+Dichlorodiphenyldichloroethane appears as a colorless crystalline solid. Insoluble in water and sinks in water. Toxic by inhalation, skin absorption or ingestion. Used as a pesticide.
+DDD is a chlorophenylethane that is 2,2-bis(p-chlorophenyl)ethane substituted by two chloro groups at position 1. It is a metabolite of the organochlorine insecticide, DDT. It has a role as a xenobiotic metabolite. It is an organochlorine insecticide, a member of monochlorobenzenes and a chlorophenylethane.
+DDD, P,P'- is an isomer of dichlorodiphenyldichloroethane, an organochlorine insecticide. It is a component of commercial mixtures of DDT. DDT was once a widely used pesticide, but today its agricultural use has been banned worldwide due to its toxicity and tendency to bioaccumulate. However, it still has limited use in disease vector control. (L84)
+An organochlorine insecticide that is slightly irritating to the skin. (From Merck Index, 11th ed, p482)
+Properties:safety: Acute Toxic and Irritant and Health Hazard and Environmental Hazard
+smiles: C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(Cl)Cl)Cl
+formula: C14H10Cl4
+chem_properties: Molecular Weight: 320.0 g/mol
+XLogP3: 6.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 3
+Exact Mass: 319.950711 Da
+Monoisotopic Mass: 317.953661 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 18
+Formal Charge: 0
+Complexity: 218
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

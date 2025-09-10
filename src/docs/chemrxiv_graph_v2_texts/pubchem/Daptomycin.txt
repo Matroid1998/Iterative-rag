@@ -1,0 +1,30 @@
+Name: Daptomycin
+Text:
+Daptomycin is a cyclic lipopeptide antibacterial agent with a broad spectrum of activity against Gram-positive bacteria, including methicillin-susceptible and -resistant Staphylococcus aureus (MSSA/MRSA) and vancomycin-resistant Enterococci (VRE). Chemically, daptomycin comprises 13 amino acids, including several non-standard and D-amino acids, with the C-terminal 10 amino acids forming an ester-linked ring and the N-terminal tryptophan covalently bonded to decanoic acid. Daptomycin was first discovered in the early 1980s by researchers at Eli Lilly in soil samples from Mount Ararat in Turkey. Early work on developing daptomycin was abandoned due to observed myopathy but was resumed in 1997 when Cubist Pharmaceuticals Inc. licensed daptomycin; it was found that a once-daily dosing scheme reduced side effects while retaining efficacy.  Daptomycin was approved by the FDA on September 12, 2003, and is marketed under the name CUBICIN® by Cubist Pharmaceuticals LLC (Merck & Co.).
+Daptomycin is a Lipopeptide Antibacterial.
+Daptomycin is an intravenously administered, broad spectrum antibiotic used to treat complex skin and tissue infections, endocarditis and bacteremia. Daptomycin is associated with a low to modest rate of serum enzyme elevations during therapy, but is a very rare cause of clinically apparent liver injury.
+Cidecin has been reported in Streptomyces filamentosus with data available.
+Daptomycin is a semi-synthetic cyclic lipopeptide antibiotic isolated form the bacterium Streptomyces roseosporus with broad-spectrum antibiotic activity against Gram-positive bacteria. Daptomycin has a distinct mechanism of action, in which it binds to bacterial membrane and causes rapid depolarization of the cell membrane due to calcium-dependant potassium efflux; the loss of membrane potential leads to inhibition of DNA, RNA and protein synthesis, resulting in bacterial cell death. This agent does not penetrate the outer membrane of gram-negative bacteria.
+A cyclic lipopeptide antibiotic that inhibits GRAM-POSITIVE BACTERIA.
+Properties:safety: Health Hazard
+smiles: CCCCCCCCCC(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)N[C@H](CC(=O)N)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@H]3[C@H](OC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](NC(=O)CNC(=O)[C@@H](NC(=O)[C@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)CNC3=O)CCCN)CC(=O)O)C)CC(=O)O)CO)[C@H](C)CC(=O)O)CC(=O)C4=CC=CC=C4N)C
+formula: C72H101N17O26
+chem_properties: Molecular Weight: 1620.7 g/mol
+XLogP3: -5.1
+Hydrogen Bond Donor Count: 22
+Hydrogen Bond Acceptor Count: 28
+Rotatable Bond Count: 35
+Exact Mass: 1619.71036639 Da
+Monoisotopic Mass: 1619.71036639 Da
+Topological Polar Surface Area: 702
+Heavy Atom Count: 115
+Formal Charge: 0
+Complexity: 3480
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 13
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

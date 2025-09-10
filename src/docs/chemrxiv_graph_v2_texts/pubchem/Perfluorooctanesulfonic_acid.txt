@@ -1,0 +1,27 @@
+Name: Perfluorooctanesulfonic acid
+Text:
+Perfluorooctane sulfonate (PFOS) can cause cancer according to an independent committee of scientific and health experts. It can cause developmental toxicity according to The Environmental Protection Agency (EPA).
+Perfluorooctane-1-sulfonic acid is a perfluoroalkanesulfonic acid that is octane-1-sulfonic acid in which all seventeen of the hydrogens that are attached to carbons hvae been replaced by fluorines. It has a role as an antilipemic drug and a persistent organic pollutant. It is functionally related to an octane-1-sulfonic acid.
+Perfluorooctanesulfonic acid or perfluorooctane sulfonate (PFOS), is a man-made fluorosurfactant and global pollutant. PFOS was the key ingredient in Scotchgard, a fabric protector made by 3M, and numerous stain repellents. It was added to Annex B of the Stockholm Convention on Persistent Organic Pollutants in May 2009. PFOS can form from the degradation of precursors in addition to industrial production. The PFOS levels that have been detected in wildlife are considered high enough to affect health parameters, and recently higher serum levels of PFOS were found to be associated with increased risk of chronic kidney disease in the general US population, consistent with earlier animal studies. This association was independent of confounders such as age, sex, race/ethnicity, body mass index, diabetes, hypertension, and serum cholesterol level.
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F
+formula: C8F17SO3H
+chem_properties: Molecular Weight: 500.13 g/mol
+XLogP3: 5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 20
+Rotatable Bond Count: 7
+Exact Mass: 499.9374938 Da
+Monoisotopic Mass: 499.9374938 Da
+Topological Polar Surface Area: 62.8
+Heavy Atom Count: 29
+Formal Charge: 0
+Complexity: 727
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

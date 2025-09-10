@@ -1,0 +1,32 @@
+Name: Leflunomide
+Text:
+Leflunomide is a monocarboxylic acid amide obtained by formal condensation of the carboxy group of 5-methyl-1,2-oxazole-4-carboxylic acid with the anilino group of 4-(trifluoromethyl)aniline. The prodrug of teriflunomide. It has a role as a non-steroidal anti-inflammatory drug, an antineoplastic agent, an antiparasitic agent, an EC 1.3.98.1 [dihydroorotate oxidase (fumarate)] inhibitor, a hepatotoxic agent, a prodrug, a pyrimidine synthesis inhibitor, an immunosuppressive agent, an EC 3.1.3.16 (phosphoprotein phosphatase) inhibitor and a tyrosine kinase inhibitor. It is a monocarboxylic acid amide, a member of isoxazoles and a member of (trifluoromethyl)benzenes.
+Leflunomide is a pyrimidine synthesis inhibitor belonging to the DMARD (disease-modifying antirheumatic drug) class of drugs, which are chemically and pharmacologically very heterogeneous. Leflunomide was approved by FDA and in many other countries (e.g., Canada, Europe) in 1999.
+Leflunomide is an Antirheumatic Agent.
+Leflunomide is an immunomodulatory agent used in the therapy of rheumatoid arthritis and psoriatic arthritis. Leflunomide therapy is associated with frequent elevations in serum aminotransferase levels and with rare instances of clinically apparent acute liver injury which can be severe and even fatal.
+Leflunomide is a derivative of isoxazole used for its immunosuppressive and anti-inflammatory properties.  As a prodrug, leflunomide is converted to an active metabolite, A77 1726, which blocks dihydroorotate dehydrogenase, a key enzyme of de novo pyrimidine synthesis, thereby preventing the expansion of activated T lymphocytes.  This agent also inhibits various protein tyrosine kinases, such as protein kinase C (PKC), thereby inhibiting cell proliferation. (NCI04)
+LEFLUNOMIDE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1998 and has 3 approved and 19 investigational indications. This drug has a black box warning from the FDA.
+An isoxazole derivative that inhibits dihydroorotate dehydrogenase, the fourth enzyme in the pyrimidine biosynthetic pathway. It is used an immunosuppressive agent in the treatment of RHEUMATOID ARTHRITIS and PSORIATIC ARTHRITIS.
+See also: Teriflunomide (has active moiety).
+Properties:safety: Acute Toxic and Irritant
+smiles: CC1=C(C=NO1)C(=O)NC2=CC=C(C=C2)C(F)(F)F
+formula: C12H9F3N2O2
+chem_properties: Molecular Weight: 270.21 g/mol
+XLogP3: 2.5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 2
+Exact Mass: 270.06161202 Da
+Monoisotopic Mass: 270.06161202 Da
+Topological Polar Surface Area: 55.1
+Heavy Atom Count: 19
+Formal Charge: 0
+Complexity: 327
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

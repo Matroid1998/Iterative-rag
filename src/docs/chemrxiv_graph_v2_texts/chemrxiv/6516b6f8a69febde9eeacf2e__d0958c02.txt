@@ -1,0 +1,17 @@
+Description:
+Investigated as an oxide coating material to address interfacial degradation in solid-state batteries.
+
+Text:
+However, there 
+are significant challenges associated with the energy density, rate capability, and capacity 
+retention of solidstate batteries employing LPSCl4. These challenges arise from the 
+interfacial contactloss during electrochemical cycling as a consequence of volumetric 
+changes in electrodes and the electrochemical stability limitations in the preferred 
+operation voltage range causing undesirable side reactions with highvoltage Nirich 
+cathodes, giving rise to fast capacity fade, thus impeding their ultimate commercial 
+realization 5. To mitigate the challenges associated with interfacial degradation caused by 
+detrimental secondary reactions, the application of a protective coating on the surface of 
+cathode particles is regarded as a productive mitigation strategy6.Considerable amount of 
+research has been performed to explore suitable coating materials, such as oxides, e.g., 
+ZrO27, HfO28, Li2ZrO39 and, LiNbO310, and phosphates, e.g., Li3PO411, and 
+LiZr2(PO4)312.

@@ -1,0 +1,12 @@
+Description:
+An acidic medium used in the study of catalytic activities of metals towards HER.
+
+Text:
+The differences in the catalytic activities of metals towards HER in an acidic medium (0.5M 
+H2SO4) is assumed to be explainable via the Sabatier Principle.1 According to the Sabatier 
+principle, HER activity depends on metalhydrogen (EMH) binding strength, which leads to 
+a volcano type plot when using EMH as a descriptor of the activity of metals for HER.2 In 
+this scenario, metals like Pt or Ptgroup metals are excellent electrocatalysts for HER due to 
+their thermoneutrality for hydrogen adsorption (optimum metalhydrogen binding energy 
+leads to EMH 0 eV).3 But this reasoning cannot be extended to the alkaline HER, 
+particularly it fails to explain the sluggish reaction kinetics of HER on Pt in alkaline media.

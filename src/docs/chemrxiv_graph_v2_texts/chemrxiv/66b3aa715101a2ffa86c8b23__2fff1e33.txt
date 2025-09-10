@@ -1,0 +1,32 @@
+Description:
+Used as an anode in commercial Li-ion batteries with a limited theoretical capacity of 372 mAh g-1 and a related thermal runaway issue.
+
+Text:
+Improving the performance of commercial energy storage devices in terms of energy 
+density, power density, cycling stability, safety and cost in a sustainable manner is 
+the grand challenge of energy storage technology. No current device complies with 
+all these requirements. Current commercial Liion batteries (LIBs) offer limited 
+capacity, low power density and have problems of cycling instability, in addition to 
+well known safetyrelated issues.1 Supercapacitors are high power density and long 
+cycling life devices but have much lower energy density than batteries.2, 3 Current 
+commercial LIBs use graphite as anode with a limited theoretical capacity of 372 
+mAh g1 and a wellknown related thermal runaway issue.1 
+Nanostructured materials have demonstrated a high potential in energy storage 
+applications1, 4, 5.
+
+
+---
+
+Description:
+Used as a standard anode material in LIBs.
+
+Text:
+New chemistries and geometries have opened up new horizons in 
+energy storage. Transition metal dichalcogenides (TMDs) have been investigated for 
+applications as LIB anode, where they offer a higher capacity than graphite.6 TMDs 
+have a generalized formula of MX2, where M is a metal from groups 410, i.e., M  Ti, 
+V, Nb, Mo, W, and X is a chalcogen XS, Se, Te.7 Semiconducting 2H MoS2 is active 
+in a 30.01 V vs LiLi electrochemical window, where energy storage takes place via 
+ion intercalation and conversion processes delivering a joint theoretical capacity of 
+669 mA h g1 (Equations 24).6 However, experimentally and under suitable 
+nanostructuring, the capacity can be higher.

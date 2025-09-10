@@ -1,0 +1,20 @@
+Description:
+Undergoes reduction to form H2O in the oxygen reduction reaction.
+
+Text:
+The oxygen reduction reaction (ORR) taking
+place at the cathode of a fuel cell is consid
+ered to play a major role in the energy loss
+in such systems.1 Desirably, the reduction of
+O2 proceeds to form H2O.24 However, an in
+direct path that involves the formation of hy
+drogen peroxide (H2O2), which can further re
+act to H2O, is equally possible. Pt is the most
+active pure elementary metal catalyst for the
+ORR,4 and, therefore, also the most intensively
+studied one for this reaction, including a vast
+number of studies on welldefined singlecrystal
+model electrodes and Ptbased materials.1,58
+Much less is known about the reaction path
+ways on metals that bind reaction intermedi
+ates stronger than Pt.

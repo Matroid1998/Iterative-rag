@@ -1,0 +1,28 @@
+Description:
+Extending reactivity to unactivated alkyl boronates in PBM reactions has been a challenge.
+
+Text:
+Among these, the threecomponent PBM reaction, first reported 
+in 1993 19, has been an attractive method for medicinal chemists due to its ability to use widely 
+available building blocks including amines, aldehydes, and aromatic boronic acids to rapidly 
+access diverse C(sp2)rich chemical space17. However, PBM reaction remained underutilized 
+because the substrate scope has been mainly restricted to activated aldehydes with adjacent 
+heteroatoms as directing groups and aryl or alkenyl boronic acids. As most reactions of this class 
+are mediated by a 2e mechanism where alkyl migration is unlikely to happen20, extending this 
+reactivity to unactivated alkyl boronates, to escaping from the flatland 3, has been a challenge.
+
+
+---
+
+Description:
+Coupling partners used in PBM reactions through radical addition processes.
+
+Text:
+A strategy that combines the diversity of a general PBM reaction with alkyl boronic coupling 
+partners exponentially increases the accessibility of C(sp3)rich alkyl amines (Figure 1C, mnp 
+hypothetical products in a 3D library). Such a method would enable holistic structural diversity 
+coverage for complex aliphatic amines that could facilitate the comprehensive SAR probing and 
+the development of drug candidates13. Despite some recent advance of PBM reaction with alkyl 
+boronates have been achieved through radical addition process, where stabilized imine 
+intermediate is often required11, a more general alkyl Petasis boronMannich (APBM) reaction is 
+highly desirable.

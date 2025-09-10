@@ -1,0 +1,24 @@
+Name: Aluminum calcium oxide (Al2CaO4)
+Text:
+See also: Calcium aluminate (annotation moved to).
+Properties:safety: Corrosive and Irritant
+smiles: [O-][Al]=O.[O-][Al]=O.[Ca+2]
+formula: Al2CaO4
+chem_properties: Molecular Weight: 158.04 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 157.905326 Da
+Monoisotopic Mass: 157.905326 Da
+Topological Polar Surface Area: 80.3
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 7.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,32 @@
+Name: Hydrocortisone
+Text:
+Cortisol is a 17alpha-hydroxy-C21-steroid that is pregn-4-ene substituted by oxo groups at positions 3 and 20 and hydroxy groups at positions 11, 17 and 21. Cortisol is a corticosteroid hormone or glucocorticoid produced by zona fasciculata of the adrenal cortex, which is a part of the adrenal gland. It is usually referred to as the "stress hormone" as it is involved in response to stress and anxiety, controlled by corticotropin-releasing hormone (CRH). It increases blood pressure and blood sugar, and reduces immune responses. It has a role as an anti-inflammatory drug, an anti-allergic agent, an anti-asthmatic drug, a human metabolite, a mouse metabolite and a drug allergen. It is a 21-hydroxy steroid, an 11beta-hydroxy steroid, a 20-oxo steroid, a 3-oxo-Delta(4) steroid, a primary alpha-hydroxy ketone, a tertiary alpha-hydroxy ketone, a 17alpha-hydroxy-C21-steroid and a glucocorticoid. It derives from a hydride of a pregnane.
+Hydrocortisone, or cortisol, is a glucocorticoid secreted by the adrenal cortex. Hydrocortisone is used to treat immune, inflammatory, and neoplastic conditions. It was discovered in the 1930s by Edward Kendall and named Compound F, or 17-hydroxycorticosterone.  Hydrocortisone was granted FDA approval on 5 August 1952.
+Hydrocortisone is a Corticosteroid. The mechanism of action of hydrocortisone is as a Corticosteroid Hormone Receptor Agonist.
+Hydrocortisone has been reported in Ganoderma boninense, Homo sapiens, and Phlomoides rotata with data available.
+Therapeutic Hydrocortisone is a synthetic or semisynthetic analog of natural hydrocortisone hormone produced by the adrenal glands with primary glucocorticoid and minor mineralocorticoid effects. As a glucocorticoid receptor agonist, hydrocortisone promotes protein catabolism, gluconeogenesis, capillary wall stability, renal excretion of calcium, and suppresses immune and inflammatory responses. (NCI04)
+HYDROCORTISONE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1952 and has 35 approved and 62 investigational indications.
+The main glucocorticoid secreted by the ADRENAL CORTEX. Its synthetic counterpart is used, either as an injection or topically, in the treatment of inflammation, allergy, collagen diseases, asthma, adrenocortical deficiency, shock, and some neoplastic conditions.
+See also: Acetic acid, glacial; hydrocortisone (annotation moved to); Hydrocortisone Acetate (annotation moved to); Hydrocortisone; polymyxin B sulfate (annotation moved to) ... View More ...
+Properties:safety: Health Hazard
+smiles: C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)CO)O)C)O
+formula: C21H30O5
+chem_properties: Molecular Weight: 362.5 g/mol
+XLogP3: 1.6
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 2
+Exact Mass: 362.20932405 Da
+Monoisotopic Mass: 362.20932405 Da
+Topological Polar Surface Area: 94.8
+Heavy Atom Count: 26
+Formal Charge: 0
+Complexity: 684
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 7
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

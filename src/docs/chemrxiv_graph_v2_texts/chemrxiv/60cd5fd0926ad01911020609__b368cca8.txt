@@ -1,0 +1,19 @@
+Description:
+A structure recognized by viral RNA polymerase as a purine nucleotide, preventing virus multiplication.
+
+Text:
+Pyrazine derivatives such as T705,79 3hydroxypyrazine2carboxamide (T1105),10,11 and 
+3,4dihydro3oxo4dribofuranosyl2pyrazinecarboxamide (T1106),12 blocks the replication 
+of many RNA viruses, including arenaviruses (Junin, Machupo, and Pichinde), and are expected 
+to be an effective antiviral drug for COVID19. The selective inhibition of viral RNAdependent 
+RNA polymerase (RdRp) is assumed to be the mechanism of action for their antiSARSCoV
+
+3
+2.13,14 Their antiviral effects are based on the fact that the viral RNA polymerase mistakenly 
+recognizes 
+3hydroxypyrazine2carboxamideribofuranosyl5triphosphate 
+(pyrazineRTP) 
+structure as a purine nucleotide (adenosine and guanosine). Thus, they prevent virus 
+multiplication with purine analog effects as RdRp inhibitors. Since RdRp domains are not 
+present in human cells and are conserved among RNA viruses, this distinct specific mechanism 
+targeting RNA viral polymerases makes pyrazine derivatives an attractive drug candidate. Chart 1.

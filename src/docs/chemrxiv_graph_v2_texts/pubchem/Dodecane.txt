@@ -1,0 +1,28 @@
+Name: Dodecane
+Text:
+N-dodecane is a clear colorless liquid. (NTP, 1992)
+Dodecane is a straight-chain alkane with 12 carbon atoms. It has been isolated from the essential oils of various plants including Zingiber officinale (ginger). It has a role as a plant metabolite.
+Dodecane has been reported in Camellia sinensis, Aristolochia triangularis, and other organisms with data available.
+See also: Alkanes, C10-14 (annotation moved to).
+Properties:safety: Irritant and Health Hazard
+smiles: CCCCCCCCCCCC
+formula: C12H26
+chem_properties: Molecular Weight: 170.33 g/mol
+XLogP3: 6.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 9
+Exact Mass: 170.203450829 Da
+Monoisotopic Mass: 170.203450829 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 56.4
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

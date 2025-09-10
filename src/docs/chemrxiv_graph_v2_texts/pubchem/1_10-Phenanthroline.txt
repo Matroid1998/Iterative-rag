@@ -1,0 +1,26 @@
+Name: 1,10-Phenanthroline
+Text:
+1,10-phenanthroline is a phenanthroline. It has a role as an EC 3.4.19.3 (pyroglutamyl-peptidase I) inhibitor and an EC 2.7.1.1 (hexokinase) inhibitor.
+Phenanthroline is a heterocyclic organic compound. 1,10-Phenanthroline is an inhibitor of metallopeptidases, especially carboxypeptidase A. Inhibition of the enzyme occurs by removal and chelation of the metal ion required for catalytic activity, leaving an inactive apoenzyme. 1,10-Phenanthroline targets mainly zinc metallopeptidases, with a much lower affinity for calcium metallopeptidases.
+Properties:safety: Acute Toxic and Environmental Hazard
+smiles: C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1
+formula: C12H8N2
+chem_properties: Molecular Weight: 180.20 g/mol
+XLogP3: 1.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 180.068748264 Da
+Monoisotopic Mass: 180.068748264 Da
+Topological Polar Surface Area: 25.8
+Heavy Atom Count: 14
+Formal Charge: 0
+Complexity: 182
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

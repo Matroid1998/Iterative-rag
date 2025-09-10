@@ -1,0 +1,18 @@
+Description:
+A catalyst used in oxidation reactions, though less effective than gold in resisting oxygen deactivation.
+
+Text:
+The selective oxidation of alcohols to their corresponding 
+aldehydes and ketones is a pervasive process within the realm of 
+synthetic organic chemistry.14 This reaction remains a focal 
+point of extensive investigation, driven in part by the prevalence 
+of these components in pharmaceuticals, vitamins, and 
+fragrances.1,58 The use of stoichiometric amounts of oxidants 
+often leads to uncontrolled overoxidation, resulting in the 
+formation of the unwanted carboxylic acid13,5 accompanied by 
+the generation of toxic or environmentally harmful waste. To 
+counteract this, alternatives based on homogeneous and 
+heterogeneous catalysis are being researched.9,10 Gold catalysts 
+demonstrate superior performance over Pd, Pt, and Ru, showing 
+enhanced resistance to oxygen deactivation and higher selectivity 
+for the oxidation of primary over secondary alcohols.11,12,13.

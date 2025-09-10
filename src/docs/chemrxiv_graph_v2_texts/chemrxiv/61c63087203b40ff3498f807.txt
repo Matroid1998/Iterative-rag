@@ -1,0 +1,16 @@
+Description:
+A compound that is reduced by formate dehydrogenase enzymes.
+
+Text:
+Metalloenzymes are proteins that catalyze key chemical transformations under mild 
+conditions.1,2 Understanding the structure and function of these enzymes can enable design 
+strategies for molecular catalysts with high activity and selectivity necessary for industrial use.36 
+CO2 reduction remains a challenging chemical reaction that is not industrially viable710 but is 
+carried out efficiently and selectively by formate dehydrogenase (FDH) enzymes.1114 MoW
+containing FDHs convert CO2 reversibly to formate (HCOO), a chemical fuel and H2 storage 
+compound.1518 Although MoW ions frequently appear in nature for the interconversion of CO2 
+and HCOO, only a few examples of MoWbased homogeneous catalysts1923 have been 
+proposed for reduction of CO2 in comparison to costly noble metal catalysts2427 or earth 
+abundant nontoxic metal catalysts.2830 Therefore, understanding the active site of MoW 
+dependent FDH to better isolate the geometric and electronic environment effects is valuable for 
+designing novel bioinspired MoWbased molecular catalysts.

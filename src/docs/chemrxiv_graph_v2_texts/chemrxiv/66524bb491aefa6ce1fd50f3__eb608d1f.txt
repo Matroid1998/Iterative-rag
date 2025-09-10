@@ -1,0 +1,14 @@
+Description:
+Used to grow external shells on quantum dots to increase particle size.
+
+Text:
+Furthermore, external silica shells 
+can be grown on coreshell QDs to increase the particle size to near 100 nm.17,27 Although silica shells 
+provide a path for deterministic positioning of emissive QDs, the singleparticle PL of silicashelled QDs 
+suffers a high degree of blinking due to additional charged states induced by the CdSSiO2 interface.17,28 
+The largest emissive QDs without silica shells reported in the literature up to now are the traditional 
+quasitype II giant coreshell CdSeCdS QDs, with 1520 CdS monolayers (MLs) and total diameters 
+ranging from 20 to 50 nm.2932 The giant CdS shells not only increase the size of the emissive QDs but 
+also reduce blinking through Auger recombination suppression and isolate the exciton from surface 
+interaction.29,33,34 In these quasitype II coreshell systems, the electron wavefunction is delocalized into 
+the CdS shell, while the hole wavefunction is effectively confined within the CdSe core.

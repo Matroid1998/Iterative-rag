@@ -1,0 +1,27 @@
+Name: N-Methylaniline
+Text:
+N-methylaniline appears as a colorless to brown viscous liquid. Insoluble in water and denser than water. Contact may irritate skin, eyes and mucous membranes. May be toxic by ingestion. Used to make other chemicals.
+N-methylaniline is a methylaniline that is aniline carrying a methyl substituent at the nitrogen atom. It is a phenylalkylamine, a secondary amine and a methylaniline. It is functionally related to an aniline.
+N-Methylaniline has been reported in Camellia sinensis and Lupinus albus with data available.
+Properties:safety: Acute Toxic and Health Hazard and Environmental Hazard
+smiles: CNC1=CC=CC=C1
+formula: C7H9N
+chem_properties: Molecular Weight: 107.15 g/mol
+XLogP3: 1.7
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 1
+Exact Mass: 107.073499291 Da
+Monoisotopic Mass: 107.073499291 Da
+Topological Polar Surface Area: 12
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 55.4
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

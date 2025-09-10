@@ -1,0 +1,30 @@
+Name: Acetoin
+Text:
+Acetyl methyl carbinol appears as a light-yellow colored liquid that can form a crystalline solid when it dimerizes. Slightly denser than water. Hence sinks in water. Used to make other chemicals.
+Acetoin is a methyl ketone that is butan-2-one substituted by a hydroxy group at position 3. It has a role as a metabolite. It is a methyl ketone and a secondary alpha-hydroxy ketone.
+Acetoin is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Acetoin has been reported in Francisella tularensis, Camellia sinensis, and other organisms with data available.
+A product of fermentation. It is a component of the butanediol cycle in microorganisms. In mammals it is oxidized to carbon dioxide.
+See also: 3-Hydroxy-2-butanon, Dimer (annotation moved to).
+Properties:safety: Flammable and Irritant
+smiles: CC(C(=O)C)O
+formula: C4H8O2
+chem_properties: Molecular Weight: 88.11 g/mol
+XLogP3: -0.3
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 88.052429494 Da
+Monoisotopic Mass: 88.052429494 Da
+Topological Polar Surface Area: 37.3
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 58.6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

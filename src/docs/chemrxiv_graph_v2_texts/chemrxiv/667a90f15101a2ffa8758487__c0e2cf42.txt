@@ -1,0 +1,14 @@
+Description:
+Complex molecules formed through quenching by water in terpene synthesis.
+
+Text:
+Quenching by water to give specific, complex terpene alcohols requires a 
+high level of molecular choreography in order to make water available whilst avoiding premature 
+quenching of reactive intermediates, since the presence of trapped water is likely ubiquitous 
+within the closed active site conformation.2225 Numerous studies have shown that 
+(sesqui)terpene synthases are highly promiscuous in nature and slight changes in the active site 
+pocket could lead to drastic changes in the product distribution, including formation of 
+hydroxylated sesquiterpenes.2530 Engineering of sesquiterpene synthases to create novel and 
+highfidelity enzymes supports the establishment of biotechnological processes for 
+manufacturing of highly valuable sesquiterpenoids.20,3133 However, predictive engineering of 
+these enzymes to make specific products remains a major challenge.

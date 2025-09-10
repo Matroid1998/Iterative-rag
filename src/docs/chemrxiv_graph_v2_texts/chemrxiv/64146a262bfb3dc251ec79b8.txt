@@ -1,0 +1,14 @@
+Description:
+Requires an aqueous electrolyte for reduction processes.
+
+Text:
+1718 The composition of the electrolyte may also 
+play an important role here. Ultrafast spectroscopy is highly useful to investigate the lightinduced processes in photoactive 
+materials. Notably, most ultrafast spectroscopy studies on dyesensitized photocathodes have 
+been carried out in air or in an organic solvent instead of under operating conditions.8, 1923 Though, 
+some femtosecond transient absorption studies on dyesensitized NiO photocathodes showed 
+that a negative potential could increase the hole injection efficiency and slow down charge 
+recombination.2427 However, these studies were carried out in an acetonitrilebased electrolyte, 
+while for proton or CO2 reduction an aqueous electrolyte is needed. 2829 Moreover, we recently 
+observed that the working environment of a NiObased photocathode plays an important role 
+in both the lightinduced hole injection and charge recombination dynamics.

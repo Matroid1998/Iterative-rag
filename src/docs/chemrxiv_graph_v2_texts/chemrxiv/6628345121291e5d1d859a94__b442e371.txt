@@ -1,0 +1,15 @@
+Description:
+Undergoes a highly efficient and rapid bioorthogonal Diels-Alder cycloaddition with 1,2,4,5tetrazines.
+
+Text:
+The DielsAlder cycloaddition between 1,2,4,5tetrazines and transcyclooctenes is a highly 
+eicient and rapid bioorthogonal reaction.1 After an initial inverse electron demand DielsAlder 
+reaction, which is the rate limiting step, a retroDielsAlder with loss of N2 gives a 
+dihydropyridazine (Figure 1).2 Owing to its biocompatibility and high reactivity, this reaction is 
+used in in vivo applications such as pretargeted radiolabeling3 and targeted drug release.4 In these 
+applications, high reactivity is the most crucial property. The kinetics of such reactions have been 
+the focus of intensive investigation in numerous experimental and computational studies, aimed 
+at understanding and improving reactivity.510 
+
+Figure 1 Mechanism of the bioorthogonal 1,2,4,5tetrazinetranscyclooctene reaction. In the past decade, computational approaches in reaction optimization, based on large datasets, 
+have become increasingly common.

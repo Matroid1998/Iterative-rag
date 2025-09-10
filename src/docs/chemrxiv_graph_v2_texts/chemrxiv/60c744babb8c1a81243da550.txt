@@ -1,0 +1,32 @@
+Description:
+A semiconductor material used in the growth and characterization of nanostructures.
+
+Text:
+One key parameter in 
+electrochemical deposition is the applied potential, a fine 
+tuning knob for stoichiometry, crystal structure and growth rate 
+that does not exist in any other synthetic method. In this work we report the growth and characterisation of InAs 
+nanostructures as a platform to understand the macroscopic 
+electrochemically mediated growth of IIIV semiconductors. We 
+use Raman spectroscopy as means to probe the crystal quality 
+and grain size as a function of deposition potential. We find that 
+the average InAs grain size systematically decreases with 
+increasing the cathodic voltage (from 30 to 10 nm), 
+particularly after a certain critical potential. We explain our 
+findings by the interplay between selfdiffusion in the solid
+state reaction rate, the voltagedependent deposition rate and 
+activation of spurious electrochemical reactions.
+
+
+---
+
+Description:
+A platform used for optimizing optoelectronic properties in III-V bimetallic compounds.
+
+Text:
+This finding 
+opens up the possibility to control the crystal grain size with 
+potential to optimize the optoelectronic properties for specific 
+applications. Even though we have used InAs as platform, our 
+results can be used as guideline for the optimization of other III
+V bimetallic compounds.

@@ -1,0 +1,13 @@
+Description:
+An MRTADF dimer with photoluminescence at 515 nm in toluene.
+
+Text:
+Our group reported 
+the first example of a dimeric MRTADF emitter by connecting two DiKTa units (aka QAO or 
+QAD)2123 through a single bond in DDiKTa (Scheme S1).24 The photoluminescence (PL) was 
+observed to redshift from 451 nm for DiKTa to 470 nm for DDiKTa in toluene. Yasuda and co
+workers reported another two isomeric MRTADF dimers formed by tethering two MRTADF 
+fragments with different regiochemistry, paraBpB for pCzB and paraNpN for mCzB, as 
+shown in Scheme S1.25 Compared to DtBuCzB (lPL  489 nm), pCzB and mCzB emit at 504 
+and 515 nm in toluene, representing a modest redshift of their PL.26 The devices with pCzB and 
+mCzB showed EQEmax of 20.2 and 23.5, respectively.

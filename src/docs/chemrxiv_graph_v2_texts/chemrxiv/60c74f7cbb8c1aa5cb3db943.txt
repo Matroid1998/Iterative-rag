@@ -1,0 +1,18 @@
+Description:
+A gas enriched in the para nuclear spin isomer used in chemical reactions.
+
+Text:
+A molecular precursor is chemically reacted 
+with hydrogen gas enriched in the para nuclear spin 
+isomer, and this is followed by a magnetic field cycle22,23 to 
+transfer the para spin order from the hydrogen nuclei to the 
+13C nucleus in fumarate. It is necessary to polarize the 13C 
+nucleus for in vivo imaging because the hyperpolarized 13C 
+nuclei relax back to thermal equilibrium slower than 1H 
+nuclei, and have a large chemical shift dispersion which 
+allows chemical selectivity. The drawback to producing 
+hyperpolarized fumarate via PHIP is that, in addition to the 
+desired fumarate product, the reaction solutions contain a 
+plethora of additional chemicals; most notably the 
+ruthenium catalyst, unreacted reagents, and reaction side 
+product molecules.

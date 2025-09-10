@@ -1,0 +1,26 @@
+Name: Mitragynine
+Text:
+Mitragynine is a monoterpenoid indole alkaloid.
+Mitragynine has been reported in Mitragyna speciosa with data available.
+Properties:safety: Irritant
+smiles: CC[C@@H]1CN2CCC3=C([C@@H]2C[C@@H]1/C(=C\OC)/C(=O)OC)NC4=C3C(=CC=C4)OC
+formula: C23H30N2O4
+chem_properties: Molecular Weight: 398.5 g/mol
+XLogP3: 3.4
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 6
+Exact Mass: 398.22055744 Da
+Monoisotopic Mass: 398.22055744 Da
+Topological Polar Surface Area: 63.8
+Heavy Atom Count: 29
+Formal Charge: 0
+Complexity: 624
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 3
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,9 @@
+Description:
+A valuable metal recovered through pyrometallurgy.
+
+Text:
+Pyrometallurgy utilises 
+high temperatures to smelt batteries to form an alloy, which is then treated to recover valuable metals such as Co, Cu and Ni. An 
+advantage of the technique is that the batteries do not have to be sorted before undergoing the smelting process. However, the 
+process has some disadvantages, such as the loss of volatile and critical materials (e.g. Li, graphite and phosphorus), and toxic 
+emissions. Furthermore, the use of high temperatures is energy intensive and allows limited volumes (i.e.

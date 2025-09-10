@@ -1,0 +1,29 @@
+Name: M-Cresol
+Text:
+M-cresol is a colorless liquid with a sweet tarry odor. Sinks and mixes slowly with water. (USCG, 1999)
+M-cresol is a cresol with the methyl substituent at position 3. It is a minor urinary metabolite of toluene. It has a role as a human xenobiotic metabolite.
+m-Cresol has been reported in Geosmithia langdonii, Daphne odora, and other organisms with data available.
+m-Cresol is an isomer of p-cresol and o-cresol. Cresols are organic compounds which are methylphenols. They are a widely occurring natural and manufactured group of aromatic organic compounds which are categorized as phenols (sometimes called phenolics). Depending on the temperature, cresols can be solid or liquid because they have melting points not far from room temperature. Like other types of phenols, they are slowly oxidized by long exposure to air and the impurities often give cresols a yellowish to brownish red tint. Cresols have an odor characteristic to that of other simple phenols, reminiscent to some of a medicine smell. Cresol solutions are used as household cleaners and disinfectants, perhaps most famously under the trade name Lysol. In the past, cresol solutions have been used as antiseptics in surgery, but they have been largely displaced in this role by less toxic compounds. Lysol was also advertised as a disinfecting vaginal douche in mid-twentieth century America. Cresols are found in many foods and in wood and tobacco smoke, crude oil, coal tar, and in brown mixtures such as creosote and cresylic acids, which are wood preservatives. Small organisms in soil and water produce cresols when they break down materials in the environment. Most exposures to cresols are at very low levels that are not harmful. When cresols are breathed, ingested, or applied to the skin at very high levels, they can be very harmful. Effects observed in people include irritation and burning of skin, eyes, mouth, and throat; abdominal pain and vomiting; heart damage; anemia; liver and kidney damage; facial paralysis; coma; and death. Breathing high levels of cresols for a short time results in irritation of the nose and throat. Aside from these effects, very little is known about the effects of breathing cresols, for example, at lower levels over longer times. Ingesting high levels results in kidney problems, mouth and throat burns, abdominal pain, vomiting, and effects on the blood and nervous system. Skin contact with high levels of cresols can burn the skin and damage the kidneys, liver, blood, brain, and lungs. (wikipedia).
+m-Cresol is a metabolite found in or produced by Saccharomyces cerevisiae.
+Properties:safety: Corrosive and Acute Toxic
+smiles: CC1=CC(=CC=C1)O
+formula: C7H8O
+chem_properties: Molecular Weight: 108.14 g/mol
+XLogP3: 2
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 108.057514874 Da
+Monoisotopic Mass: 108.057514874 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 70.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

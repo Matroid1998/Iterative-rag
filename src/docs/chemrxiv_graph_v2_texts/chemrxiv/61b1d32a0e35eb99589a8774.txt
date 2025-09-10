@@ -1,0 +1,11 @@
+Description:
+Acts by binding to the subunit of the RNA polymerase, preventing the extension of the RNA.
+
+Text:
+Tuberculosis is a difficult disease to treat; the standard regimen is four antibiotics, rifampicin, 
+isoniazid, pyrazinamide and ethambutol, for six months. An infection that is resistant to both 
+rifampicin and isoniazid is called multidrug resistant tuberculosis (MDRTB) and the treatment 
+regimen recommended by the World Health Organization (WHO) is complex but always includes 
+levofloxacin or moxifloxacin, which are fluoroquinolones1. Rifampicin acts by binding to the subunit of the RNA polymerase (RNAP, encoded by the rpoB 
+gene), preventing the extension of the RNA (Fig. 1a). The most common resistanceconferring 
+mutation is rpoB S450L, however a wide range of mutations have been observed clinically25.

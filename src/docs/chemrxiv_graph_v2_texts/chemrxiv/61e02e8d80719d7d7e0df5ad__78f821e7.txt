@@ -1,0 +1,13 @@
+Description:
+A transition metal cation recognized as a contributor to poor PEMFC performance.
+
+Text:
+This class of electrocatalysts has reached 
+significant development as part of past Department of Energy (DoE) projects (in particularly 
+dealloyed PtCoC and PtNiC electrocatalysts) 2426 and resulted in record inMEA activities 
+that exceed the DoE performance targets 27 of 0.44 AmgPt with 40 activity loss after 30k 
+voltage cycles in the RDE and MEAs 28. For this class of electrocatalysts, alloying is usually 
+obtained via hightemperature thermal annealing 29. In addition to the importance of the bulk crystal structure of the Ptalloy NPs, dealloying 
+(activation) step of the electrocatalyst also holds a crucial importance 30,31. Relatively recently, 
+transition metal cation (e.g. Ni, Co, Cu, Fe, ) contamination in the PEMFC has been 
+recognised as another probable major contributor towards poor HCD performance when using

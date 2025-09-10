@@ -1,0 +1,17 @@
+Description:
+A transition metal used in molecular devices.
+
+Text:
+Transition metal based molecular systems have long been
+recognised as promising candidates for molecular devices. 13
+Possible applications include lightharvesting systems, 4 data
+storage devices 5,6 and molecular switches. Current research
+trends aim at replacing the originally employed transition
+metals (e.g. Ru, Os, Rh, Ir) with more abundant, less
+expensive and less toxic alternatives, such as iron. Light
+induced switching between the singlet ground state and
+the metastable quintet excited state has been demonstrated
+for several Fe(II) complexes at low temperature. 7,8. Un
+fortunately, in the complexes investigated so far the short
+room temperature lifetime of the quintet state makes their
+application in practical switching devices impossible.

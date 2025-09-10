@@ -1,0 +1,11 @@
+Description:
+A gas captured from flue gas and air, used in direct air capture technologies.
+
+Text:
+They efficiently capture CO2 
+from flue gas at ambient pressure813 and are also promising for direct capture of CO2 from air 
+(a.k.a. direct air capture or DAC)14, 15. However, as with all DAC technologies, DESs face 
+significant challenges due to the relatively low (from a separations standpoint) concentration 
+of CO2 in air, especially when compared with the other components in air. In particular, the 
+significantly higher concentrations of water and oxygen in air impact the performance of DAC 
+technologies16, 17.

@@ -1,0 +1,30 @@
+Description:
+Interacts with supported Ru catalysts in hydrogenation reactions.
+
+Text:
+demonstrated that the activity of this catalyst could be enhanced significantly by a strongly 
+reductive treatment in the reaction gas mixture 9. The authors explained this by the formation 
+of Lewis basic sites on the support, which could stabilize more active flat Ru nanoparticles 
+(NPs), resulting in strong metalsupport interactions (MSIs). While the performance and activity of supported Ru catalysts in the CO2 hydrogenation 
+reactions 1016 and on mechanistic aspects of these reactions 8, 1722 were investigated 
+in numerous studies, the interaction of CO2 with these catalysts under different reaction 
+conditions has received much less attention so far, in spite of its crucial importance for these 
+reactions.
+
+
+---
+
+Description:
+Leads to the deposition of Oact species on the Ru surface.
+
+Text:
+A subsequent O2 multipulse sequence 
+led to the formation of CO2, which was assigned to an O2induced decomposition of surface 
+carbonate species. Similar experiments performed with CO2 or CO2containing gas mixtures 
+such as COCO2 or H2CO2 revealed that also these gases lead to the deposition of Oact species 
+on the Ru surface, with the amount the amount of Oact deposition (after 1000 pulses) increasing 
+in the order COCO2  CO2  H2CO2  O2. To further test the interaction between CO2 and the 
+catalyst surface, we also performed preliminary isotope labelling experiments, sending marked 
+C18O2 pulses over the reduced catalyst surface. These measurements revealed significant 
+formation of C16O18O and C16O2 species, indicative of oxygen exchange between C18O2 and 
+the catalyst surface. Details about mechanistic aspects etc. remained, however, unresolved.

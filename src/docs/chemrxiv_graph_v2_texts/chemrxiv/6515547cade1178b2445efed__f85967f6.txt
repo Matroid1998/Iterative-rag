@@ -1,0 +1,44 @@
+Description:
+Easily stored in aqueous form and used as a fuel in direct methanol fuel cells (DMFC).
+
+Text:
+The directmethanol fuel cell (DMFC) using a polymer electroyte membrane (PEM) has 
+significant potential as a portable power source,16 as a result of (i) simple design (Figure 1); 
+(ii) high efficiency; (iii) low emissions to the environment; (iv) easy storage of aqueous 
+methanol; (v) low operating temperatures; (vi) no need for a fuel vaporiser or reformer; and 
+(vii) no membranehumidification or thermal management requirements. However, the large
+scale introduction of DMFC is challenged by a number of issues, notably (i) high methanol 
+
+ Current Address Redwave Labs Ltd., Harwell Innovation Centre, Building 173, Curie Avenue, Harwell, 
+OX11 0QG, UK. httpsdoi.org10.26434chemrxiv202313r7h ORCID httpsorcid.org0000000237254085 Content not peerreviewed by ChemRxiv.
+
+
+---
+
+Description:
+A fuel that can increase power density but causes excessive swelling of membranes.
+
+Text:
+License CC BYNC 4.0
+
+3 
+permeability of industrystandard fluorocarbon membranes such as Nafion 115, leading to 
+high methanol crossover, and (ii) the need for a more efficient catalyst for oxygen reduction. The loss of fuel cell performance due to slow O2 reduction kinetics can be minimised to a 
+certain extent by reducing the thickness of the membrane to lower its ionic resistance, but this 
+also increases methanol crossover. Higher concentrations of methanol fuel can increase power 
+density and reduce fuel volume, but in general a high concentration of methanol in the aqueous 
+feed leads to excessive swelling of the membrane. Furthermore, unoxidised methanol 
+concentrates at the anode and will again cross over to the cathode.
+
+
+---
+
+Description:
+Undergoes parasitic oxidation to CO2 and H2 at the cathode in DMFCs.
+
+Text:
+Methanol crossover can 
+poison the cathode catalyst, leading to increased cellheating, lower oxygen activity, reduced 
+cell voltage and power density, and loss of DMFC efficiency as a result of parasitic oxidation 
+of methanol to CO2 and H2, at the cathode.710 Present DMFC technology thus uses a dilute 
+aqueous methanol feed, at 1M to 3M concentration, to limit the extent of methanol crossover.

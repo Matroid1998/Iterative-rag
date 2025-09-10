@@ -1,0 +1,12 @@
+Description:
+Building blocks used in the three-component PBM reaction to access diverse C(sp2)rich chemical space.
+
+Text:
+Among these, the threecomponent PBM reaction, first reported 
+in 1993 19, has been an attractive method for medicinal chemists due to its ability to use widely 
+available building blocks including amines, aldehydes, and aromatic boronic acids to rapidly 
+access diverse C(sp2)rich chemical space17. However, PBM reaction remained underutilized 
+because the substrate scope has been mainly restricted to activated aldehydes with adjacent 
+heteroatoms as directing groups and aryl or alkenyl boronic acids. As most reactions of this class 
+are mediated by a 2e mechanism where alkyl migration is unlikely to happen20, extending this 
+reactivity to unactivated alkyl boronates, to escaping from the flatland 3, has been a challenge.

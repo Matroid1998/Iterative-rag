@@ -1,0 +1,30 @@
+Description:
+The most widely used photoswitch from materials sciences to chemical biology.
+
+Text:
+Photoswitchable small molecules are powerful tools for highprecision manipulations of a range of biological 
+processes in live animals (in vivo) or in live cells.1,2 They may even be irreplaceable as tools to properly 
+address systems in which spatiotemporal patterning of biological activity on the subcellularcellular or tissue 
+level is crucial e.g. microtubule and actin dynamics in cytoskeletonsupported motion (subcellularcellular 
+level)3,4, or firing of retinal neurons for vision restoration (tissue level)5,6. Hartley first characterised azobenzene as an EZ photoswitch in 19377. After Erlangers pioneering 
+applications in protein and neuron control,8,9 azobenzenes became the most widelyused photoswitch from 
+materials sciences10 to chemical biology.2,11 Recently though, a range of other photoswitches with distinct 
+features are emerging, for better photocontrol of specific biological systems12,13.
+
+
+---
+
+Description:
+Photoswitches that do not provide efficient 405 nm excitation, no photoresponse to imaging lines, self-reporting fluorescence, good solubility, and relaxation on biologically relevant timescales.
+
+Text:
+Often, these are 
+differentiated in their kinetics of relaxation to the thermodynamically more stable isomer,14 and on shifting 
+their photoisomerisation action spectra either to the nearUV, to avoid photoresponse during imaging while 
+permitting photoactivation with the common 405 nm laser;15 to the midvisible, for efficient patterning with 
+imaging laser lines;16 or towards the red, for photoresponse to light that penetrates more deeply through 
+complex environments such as tissues.17 
+Here, we desired to explore scaffolds that are asyet untested for cellular photopharmacology, but which offer 
+a desirable balance of properties that neither azobenzenes nor other photoswitches such as heterostilbenes 
+provide chiefly, efficient 405 nm excitation, no photoresponse to imaging lines, selfreporting fluorescence, 
+good solubility, and relaxation on biologically relevant timescales.

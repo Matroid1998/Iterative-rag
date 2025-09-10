@@ -1,0 +1,14 @@
+Description:
+Involved in O-linked glycosylation at the side chains of serine or threonine residues.
+
+Text:
+Glycosylation is an important and prevalent posttranslational modification that plays a role in 
+diverse biological functions including protein folding, intracellular signaling, and immune 
+response.1 Glycosylation occurs when glycan chains become covalently attached to side chains 
+of proteins and leads to increased structural heterogeneity.2 In response to physiological 
+changes, the structure and distribution of glycans at a particular glycosite (microheterogeneity) 
+and the presence or absence of a glycan at a glycosite (macroheterogeneity) can be altered.3,4 
+The two most common types of protein glycosylation are Olinked glycosylation, which occurs at 
+the oxygen of serine or threonine residues, and Nlinked glycosylation, which occurs at the 
+amide nitrogen of the asparagine residues side chain in the predictable sequence Asparagine
+XSerineThreonine (NXS or NXT), where X is any amino acid except proline.5,6

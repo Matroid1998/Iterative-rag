@@ -1,0 +1,11 @@
+Description:
+A lithium salt used in lithium-ion battery electrolytes.
+
+Text:
+Lithiumion batteries (LIBs) are the main research interest for electrochemical and materials 
+applications because of their excellent energy storage capability 1. LIBS have good cycle life 
+and can be manufactured in various forms that are better suited for a particular application 2. Electrolytes are the key component of lithium ion battery that serve as a medium for transporting 
+lithium (Li) ions between electrodes during the chargedischarge process 3. Conventional 
+electrolytes used in LIBs are usually composed of an organic solvent (e.g., ethylene carbonate, 
+dimethyl carbonate and propylene carbonate) and Li salt (e.g., lithium hexafluorophosphate) 4. These organic based electrolytes possess favorable features such as high ionic conductivities. However, carbonates are flammable which pose safety concerns and this limits their operative 
+temperature range 5.

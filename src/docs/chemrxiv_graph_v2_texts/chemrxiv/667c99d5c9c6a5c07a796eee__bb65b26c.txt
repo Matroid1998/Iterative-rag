@@ -1,0 +1,11 @@
+Description:
+The most efficient electrocatalyst for the hydrogen evolution reaction in acidic media.
+
+Text:
+The excessive reliance on fossil fuels has led to severe environmental pollution and global 
+warming, creating an urgent need for renewable and clean energy sources as alternatives1,2. Hydrogen has emerged as a promising energy carrier for meeting clean energy demands due to 
+its high energy density and environmentally benign properties3. Electrocatalytic hydrogen 
+production offers an economical and efficient approach to achieving a closed carbon cycle4. Currently, platinum (Pt) stands as the most efficient electrocatalyst for the hydrogen evolution 
+reaction (HER) in acidic media due to its favorable electronic structure, which facilitates 
+moderate binding energy with hydrogen ions, a crucial attribute for achieving efficient catalytic 
+performance5,6.

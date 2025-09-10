@@ -1,0 +1,19 @@
+Description:
+A material involved in challenging dispersion-driven interactions with water molecules.
+
+Text:
+In this paper, we investigate the performance of regularized
+MP2like methods for some prototypical periodic systems,
+which each constitute known issues for canonical MP2. In
+particular, we consider the homogeneous electron gas (a metal
+prototype), the onedimensional Hubbard model (a strongly
+correlated system) and the interaction of graphene with a
+water molecule (a challenging dispersiondriven interaction). We also propose a new, nonempirical regularization method
+based on secondorder BrillouinWigner perturbation theory. II. THEORY
+In the following we use indices i, j,k,l for occupied and
+a,b,c,d for unoccupied spinorbitals , respectively. Anti
+symmetrized twoelectron repulsion integrals in this basis are
+denoted as ijab. Using this notation, the MP2 correlation
+energy can be written as
+EMP2
+c

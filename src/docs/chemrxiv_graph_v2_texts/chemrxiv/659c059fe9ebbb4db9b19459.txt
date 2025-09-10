@@ -1,0 +1,15 @@
+Description:
+Involved in hydrogen atom transfer reactions in proteins.
+
+Text:
+This leads to a vir
+tually infinite number of possible reaction scenarios, in which re
+actants represent instances within a vast chemical and conforma
+tional space. As a consequence, directly computing this amount
+of radical reactions by ab initio calculations is computationally
+not feasible. Instead, machine learning can leverage quantum
+chemical calculations by predicting reactivity based on an initial
+quantum chemical data set. We here set out to predict the en
+ergy barriers of hydrogen atom transfer reactions in proteins us
+ing Graph Neural Networks that are trained on computed energy
+barriers.

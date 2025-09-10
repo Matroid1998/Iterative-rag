@@ -1,0 +1,29 @@
+Description:
+A compound that can be electrochemically reduced into valuable fuels and chemicals using renewable electricity.
+
+Text:
+Electrocatalytic reduction of CO2 into valuable fuels and chemicals using renewable 
+electricity offers a promising approach to sustainable production of fuels and chemicals. In 
+1985, Hori et al. discovered Cus unique catalytic activity in electrochemically reducing CO2 
+to hydrocarbons.1 Later, in 2012, Kuhl et al. found that copper under CO2 reduction 
+conditions could produce at least 16 different products including CO, C1, C2, and C3 
+products.2 However, the nature of the formation of this extensive range of products has been a 
+subject of intense debate. Unraveling this mystery is critical to the designing of a reaction 
+system with superior efficiency and selectivity towards desired products.
+
+
+---
+
+Description:
+Involves forming a CO2 anion via initial electron transfer in reduction processes.
+
+Text:
+Jordan and Smith suggested in 1960 that the initial step of CO2 reduction involves 
+forming a CO2 anion via initial electron transfer.3 However, the standard potential for 
+(CO2) formation is exceptionally highat1.90 V in an aqueous electrolyte.4 If Jordans 
+proposal is correct, the potential for CO2 reduction to useful products must be 1.90 V or 
+more negative. Yet, most products can be generated at comparatively lower potentials in a 
+common aqueous electrolyte. For instance, Kuhl et al. discovered that 16 different products 
+can be created at an applied potential of 1V in a 0.1 M KHCO3 aqueous electrolyte.2 This 
+finding suggests that the actual process of reducing CO2 into various valuable products may 
+not necessitate the formation of (CO2). httpsdoi.org10.26434chemrxiv20233z3gc ORCID httpsorcid.org0000000289600533 Content not peerreviewed by ChemRxiv.

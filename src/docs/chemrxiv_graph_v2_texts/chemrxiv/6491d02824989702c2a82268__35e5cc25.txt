@@ -1,0 +1,10 @@
+Description:
+Reactivity is related to the availability of the nucleophilic thiolate.
+
+Text:
+As the thiol reactivity is related to the availability of the nucleophilic
+thiolate,16,17 accurate pK a prediction tools such as the GPUaccelerated continuous con
+stant pH molecular dynamics simulations18 can be used to assess cysteine reactivities
+in drug targets.19,20 In principle, the intrinsic reactivity of a Michael acceptor can be pre
+3
+httpsdoi.org10.26434chemrxiv2023lh0qpv2 ORCID httpsorcid.org0000000232340769 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

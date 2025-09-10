@@ -1,0 +1,24 @@
+Description:
+An amino acid that acts as a nucleophile in cysteine proteases, facilitating proteolysis.
+
+Text:
+One of the possible strategies to fight against COVID19 is the development of compounds 
+able to inhibit the activity of one of the essential enzymes of the SARSCoV2 virus. In this 
+sense, one of the most attractive targets is the main protease of the virus, also known as 
+3CLpro. This enzyme is a cysteine protease in charge of the proteolysis of the polyproteins 
+produced after translation of its genome in the infected cells.1 Inhibition of this essential 
+enzyme results in the inability of the virus to produce its nonstructural proteins, interrupting 
+its replication cycle.
+
+
+---
+
+Description:
+A catalytic amino acid residue involved in the activity of certain proteases.
+
+Text:
+As an additional advantage, this protease uses a recognition sequence 
+not known in any of the human proteases, decreasing the risk of side effects after the 
+administration of these compound.2 Some of the compounds reported to have inhibitory 
+capacity against SARSCoV2 3CLpro are covalent inhibitors that contain an electrophilic site 
+able to react with the catalytic cysteine, Cys145.37

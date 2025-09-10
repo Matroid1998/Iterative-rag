@@ -1,0 +1,15 @@
+Description:
+A component of lithium-ion battery systems involved in electrolyte decomposition and degradation reactions at the anode-electrolyte interface.
+
+Text:
+Abinitio molecular dynamics (AIMD) are in principle wellsuited for this task
+but they have a major limitation with respect to the accessible simulation timescale.911
+It is therefore of interest to seek an efficient, physically motivated and simple framework to
+incorporate chemical reactions to classical MD simulations.12,13 The aim of this work is to
+demonstrate the use of the reactive step MD (rsmd)14,15 framework in the context of mod
+eling electrolyte decomposition and degradation reactions occurring at the anodeelectrolyte
+interface of Lithiumion battery systems (LIBs).1,2 rsmd is a framework aimed for enabling
+the occurrence of bondbreaking and formation within classical MD simulations by means
+of timedependent modifications of classical forcefields. This framework was introduced in
+2
+httpsdoi.org10.26434chemrxiv2024bd6mh ORCID httpsorcid.org0000000194072782 Content not peerreviewed by ChemRxiv. License CC BY 4.0

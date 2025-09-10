@@ -1,0 +1,27 @@
+Name: Tetralin
+Text:
+Tetrahydronaphthalene appears as a light colored liquid. May be irritating to skin, eyes and mucous membranes.
+Tetralin is an ortho-fused bicyclic hydrocarbon that is 1,2,3,4-tetrahydro derivative of naphthalene. It is an ortho-fused bicyclic hydrocarbon and a member of tetralins. It derives from a hydride of a naphthalene.
+See also:  ... View More ...
+Properties:safety: Irritant and Environmental Hazard
+smiles: C1CCC2=CC=CC=C2C1
+formula: C10H12
+chem_properties: Molecular Weight: 132.20 g/mol
+XLogP3: 3.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 132.093900383 Da
+Monoisotopic Mass: 132.093900383 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 92.6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

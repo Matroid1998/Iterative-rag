@@ -1,0 +1,25 @@
+Name: Tetrahydropyran
+Text:
+Oxane is a saturated organic heteromonocyclic parent that is cyclohexane in which one of the carbon atoms has been replaced by an oxygen atom. It is a saturated organic heteromonocyclic parent and a member of oxanes.
+Properties:safety: Flammable and Irritant
+smiles: C1CCOCC1
+formula: C5H10O
+chem_properties: Molecular Weight: 86.13 g/mol
+XLogP3: 0.9
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 86.073164938 Da
+Monoisotopic Mass: 86.073164938 Da
+Topological Polar Surface Area: 9.2
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 30.9
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

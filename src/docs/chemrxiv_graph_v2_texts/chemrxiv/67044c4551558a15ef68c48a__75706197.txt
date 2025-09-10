@@ -1,0 +1,13 @@
+Description:
+Used by ribosomes to support bond forming reactions.
+
+Text:
+Thioesters are ubiquitous and wellstudied reactive species in biosynthesis. For example, 
+the active sites of polyketide synthases and nonribosomal peptide synthetases leverage 
+enhanced thioester reactivity to promote challenging condensation reactions that form new CN, 
+CO and CC bonds. The markedly higher reaction rates of thioesters compared to oxoesters 
+with various nucleophiles has been rationalized by electron delocalization effects.13 By contrast, 
+all extant ribosomes employ oxoesters to support bond forming reactions, despite the 
+observation that thioesters are generally more reactive towards amine nucleophiles.1,2 During 
+translation, thioesters could in principle substitute for oxoesters if tRNA substrates carried an SH 
+in place of OH on the 3terminal ribose.

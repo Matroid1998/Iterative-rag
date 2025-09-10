@@ -1,0 +1,21 @@
+Description:
+An important class of organosulfur compounds prevalent in drug discovery due to their polarity, geometry, hydrogen bonding properties, and tunable NH pKa.
+
+Text:
+Narylsulfonamides represent an important class of or
+ganosulfur compounds, as exemplified by their presence 
+among various FDAapproved drugs spanning multiple dis
+ease indications.1 This motif is prevalent in drug discovery 
+due to its polarity, geometry, hydrogen bonding properties, 
+and tunable NH pKa (Figure 1A).2 Classically, Narylsulfona
+mides can be synthesized via addition of anilines to sulfonyl 
+chlorides; however, this approach is not always conducive 
+to synthesis of druglike molecules due to the water sensi
+tivity of sulfonyl chloride reagents and attenuated nucleo
+philicity of electronpoor anilines. Furthermore, the poten
+tial genotoxicity of both anilines and sulfonyl chlorides has 
+inspired the development of alternate approaches.3,4 
+Despite the recent emergence of numerous catalysts and 
+synthetic methods for CN coupling, transition metalcata
+lyzed Narylation of primary sulfonamides remains rela
+tively underdeveloped.

@@ -1,0 +1,13 @@
+Description:
+A compound with intricate molecular structure affecting its chemical behaviour and reaction mechanisms in combustion and pyrolysis.
+
+Text:
+The intricate molecular structure of JP10 necessitates a deeper understanding of its chemical 
+behaviour and reaction mechanisms, particularly in the context of electronic structure, 
+combustion, thermal decomposition, and pyrolysis. ExoTCD, the primary component of JP
+10, has two significant conformations exochair and exoboat. These conformations differ in 
+their stability and reactivity, which, in turn, affect JP10s ignition and combustion properties. Previous studies have revealed that the exochair isomer is the more energetically favourable 
+conformation, with an energy difference of approximately 2.062.10 kcalmol relative to the 
+exoboat isomer 46 . The energy barrier for converting between these isomers, especially 
+under the hightemperature conditions required for JP10s combustion, underscores the 
+importance of understanding their structural and energetic differences 7.

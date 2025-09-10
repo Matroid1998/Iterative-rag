@@ -1,0 +1,12 @@
+Description:
+A chemical element that can modulate compounds' potency, physicochemical parameters, and metabolic stability.
+
+Text:
+It is widely recognized that fluorination has become a mainstream design approach in discovery of medicines, agrochemicals, 
+and other biologically active compounds 110. Fluorinated motifs can modulate the compounds potency, physicochemical 
+parameters, and metabolic stability. Among other properties affected by Fluorine, lipophilicity (typically measured through 1octanol  
+water partition coefficient logarithm, LogP) is one of the most complex phenomena, and despite numerous studies in this area 
+11,12,21,1320, we are still far from its comprehensive understanding. It is generally accepted that monofluorination of aromatic 
+compounds results in a slight increase of their lipophilicity (HanschLeo lipophilicity parameter   0.14 22) (Figure 1, A), albeit 
+there are exceptions to this rule 9. In the case of aliphatic counterparts, both decrease and increase of the LogP values upon the 
+fluorination are common 14,23,24.

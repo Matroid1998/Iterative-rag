@@ -1,0 +1,84 @@
+Description:
+A two-dimensional material with a honeycomb lattice of sp2-bonded carbon atoms, known for its exceptional electrical, optical, and mechanical properties.
+
+Text:
+32
+Graphene, a twodimensional material with a honeycomb lattice of sp2bonded
+33
+carbon atoms, has garnered significant scientific and industrial attentions due to its
+34
+exceptional electrical, optical, and mechanical properties.14 Heteroatom doping can
+35
+further regulate the electronic states and properties of graphene,5,6 thereby facilitating
+36
+its applications in various fields. Currently, the annual global production of graphene
+37
+surpasses 23,000 metric tons.
+
+
+---
+
+Description:
+Used in products such as tires, concrete, and asphalt to enhance their properties.
+
+Text:
+Industries are planning to add graphene in products such
+38
+as tires, concrete, and asphalt to enhance their properties, which are currently hot
+39
+areas of commercial investment in graphene.7 Costeffective mass production is
+40
+crucial for achieving the largescale industrial application of graphene.8 However,
+41
+traditional graphene production methods, such as chemical vapor deposition,9
+42
+reduction of graphene oxide,10 and graphite exfoliation,1113 are complex and
+43
+timeconsuming, resulting in high costs.
+
+
+---
+
+Description:
+Production methods include chemical vapor deposition, reduction of graphene oxide, and graphite exfoliation.
+
+Text:
+Industries are planning to add graphene in products such
+38
+as tires, concrete, and asphalt to enhance their properties, which are currently hot
+39
+areas of commercial investment in graphene.7 Costeffective mass production is
+40
+crucial for achieving the largescale industrial application of graphene.8 However,
+41
+traditional graphene production methods, such as chemical vapor deposition,9
+42
+reduction of graphene oxide,10 and graphite exfoliation,1113 are complex and
+43
+timeconsuming, resulting in high costs.
+
+
+---
+
+Description:
+A material produced from solid carbon using the flash Joule heating method, with a production capacity of 1.1 kg in 1.5 hours.
+
+Text:
+44
+Since 2020, the flash Joule heating (FJH) method has regarded as an effective
+45
+approach to convert solid carbon into turbostratic flash graphene in seconds under the
+46
+combined action of high temperature and electric field.1417 In the FJH process, the
+47
+capacitor tank can discharge instantaneously at approximately 400 V and 1000 A,
+48
+delivering 400 kW of power to heat a 1.0gram solid carbon sample to over 3000 C
+49
+in milliseconds.14 By 2023, a smallbatch automatic FJH system capable of loading
+50
+5.7 grams of metallurgical coke per batch had been designed, with a production
+51
+capacity of 1.1 kg of graphene in 1.5 hour.18 Scaling up this automatic FJH system to
+52
+produce larger batches of graphene requires additional capacitors.

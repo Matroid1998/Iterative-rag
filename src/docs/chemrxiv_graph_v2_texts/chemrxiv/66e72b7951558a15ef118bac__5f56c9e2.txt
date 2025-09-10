@@ -1,0 +1,22 @@
+Description:
+Enhances photoelectrical, electrical, thermal, and mechanical properties of CNTs.
+
+Text:
+However, CNT membranes are also susceptible to environmental degradation, such 
+as plasma induced damage, chemical degradation, or microbial growth which can compromise 
+their performance and durability, especially in harsh environments.13,14,15 Degradation can lead 
+to a changes in the effective pore size, or changes to other properties of the membrane.13,15 
+One possible way to protect CNTs from external damage and improve their performance is to 
+coat various materials onto CNTs that can enhance their durability and functionality in harsh 
+environments.13,14,16,17 For example, costing with metal oxides such as TiO2, Al2O3, ZnO, or 
+NiCoO2 onto CNTs can enhance their antifouling and antioxidation capabilities, as well as 
+impart photocatalytic, hydrophobic or electrochemical properties.18,19,20,21,22,23 Depositing 
+polymer layers can modify the electrical and thermoelectric properties, and it also holds promise 
+for biotechnological applications.24,25,26 Deposition of nanomaterials, such as graphene, gold, 
+nanodiamond, or fullerene, can enhance the photoelectrical, electrical, thermal, and mechanical 
+properties of CNTs, and enable new applications, such as sensors, electromagnetic shields, 
+electrodes, or electrochemical material.27,28,29,30 
+Although capping or surface modification of CNTs with thin films or nanoparticles of various 
+materials has been proposed to protect and functionalize CNTs, depositing materials uniformly 
+around CNTs in a freestanding membrane structure is challenging due to their highly complex 
+3D morphology.

@@ -1,0 +1,20 @@
+Description:
+A Li-rich electrode material developed for high capacity cathodes.
+
+Text:
+44 
+Among the energy storage technologies, lithiumion batteries (LIBs) have been the leading 
+45 
+technology in terms of research and industrial application 1. LIBs offer high energy density due 
+46 
+to the high theoretical specific capacity of lithium (3860 mAh g1), low density (0.534 g cm3) 
+47 
+along with the lowest reduction potential (3.04 V vs SHE). In addition numerous high voltage 
+48 
+high capacity cathodes, including Nirich transition metal oxides (LiNi0.8Co0.1Mn0.1O2, 
+49 
+LiNi0.8Co0.15Al0.05O2, etc..), Lirich (Li1.2Mn0.54Ni0.13Co0.13O2) and high spinel (LiMn1.5Ni0.5O4) 
+50 
+electrode materials were developed but still some of them raise safety issues and show 
+51 
+extreme capacity fading or have lower energy density 25.

@@ -1,0 +1,29 @@
+Description:
+A historically important antimalarial compound.
+
+Text:
+Given the importance of the charge transfer (CT) process in influencing key photophysical parameters 
+developing structureactivity relationships (SARs) to describe CT formation will be of interest to a wide 
+range of stakeholders. In medicinal chemistry the development of SARs is standard practice, but a 
+similarly detailed understanding of the structural properties controlling charge transfer has yet to be 
+fully developed. Since protonation and Nalkylation have a significant and predictable effect on CT 
+states in quinolinecontaining compounds these provide a good starting point for exploring these vital 
+fundamental processes and developing effective SARs. One prominent set of quinoline containing compounds are the cinchona alkaloids, in particular the 
+historically important antimalarial quinine.
+
+
+---
+
+Description:
+Relatively inflexible due to its isolation from a natural source.
+
+Text:
+However, both the chromophore and overall architecture 
+of quinine is relatively inflexible due to its isolation from a natural source, limiting the application of 
+such species in the development of SARs. Further, while methods for the synthesis of cinchona 
+alkaloids exist,7, 8 they are often insufficiently modular to permit significant structural variation. We 
+therefore considered whether structural analogues of quinine might demonstrate similar PL 
+properties while being accessible via a more modular synthetic strategy. This would provide easy 
+access to families of compounds possessing both variable chromophores and intramolecular 
+distances, thus enabling the unpacking of the fundamental processes of throughspace charge transfer 
+httpsdoi.org10.26434chemrxiv2023pn532v2 ORCID httpsorcid.org0000000151104131 Content not peerreviewed by ChemRxiv. License CC BY 4.0

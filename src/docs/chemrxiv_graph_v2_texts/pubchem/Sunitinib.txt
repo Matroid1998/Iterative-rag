@@ -1,0 +1,33 @@
+Name: Sunitinib
+Text:
+Sunitinib is a member of pyrroles and a monocarboxylic acid amide. It has a role as an angiogenesis inhibitor, an antineoplastic agent, an EC 2.7.10.1 (receptor protein-tyrosine kinase) inhibitor, a vascular endothelial growth factor receptor antagonist, an immunomodulator and a neuroprotective agent. It is functionally related to a 3-methyleneoxindole.
+Sunitinib is a small-molecule multi-targeted receptor tyrosine kinase (RTK) inhibitor. On January 26, 2006, the agent was formally approved by the US FDA for the indications of treating renal cell carcinoma (RCC) and imatinib-resistant gastrointestinal stromal tumor (GIST). For these purposes, sunitinib is generally available as an orally administered formulation. Sunitinib inhibits cellular signaling by targeting multiple RTKs. These include all platelet-derived growth factor receptors (PDGF-R) and vascular endothelial growth factor receptors (VEGF-R). Sunitinib also inhibits KIT (CD117), the RTK that drives the majority of GISTs. In addition, sunitinib inhibits other RTKs including RET, CSF-1R, and flt3.
+Sunitinib is a Kinase Inhibitor. The mechanism of action of sunitinib is as a Protein Kinase Inhibitor.
+Sunitinib is multi-specific tyrosine kinase receptor inhibitor that is used in the therapy of gastrointestinal stromal tumors and advanced renal cell carcinoma. Sunitinib therapy is associated with transient elevations in serum aminotransferase and bilirubin levels and rare instances of clinically apparent acute liver injury.
+Sunitinib has been reported in Penicillium terrestre and Penicillium solitum with data available.
+Sunitinib is an indolinone derivative and tyrosine kinase inhibitor with potential antineoplastic activity. Sunitinib blocks the tyrosine kinase activities of vascular endothelial growth factor receptor 2 (VEGFR2), platelet-derived growth factor receptor b (PDGFRb), and c-kit, thereby inhibiting angiogenesis and cell proliferation.  This agent also inhibits the phosphorylation of Fms-related tyrosine kinase 3 (FLT3), another receptor tyrosine kinase expressed by some leukemic cells.
+SUNITINIB is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2006 and has 8 approved and 86 investigational indications. This drug has a black box warning from the FDA.
+An indole and pyrrole derivative that inhibits VEGFR-2 and PDGFR BETA RECEPTOR TYROSINE KINASES. It is used as an antineoplastic agent for the treatment of GASTROINTESTINAL STROMAL TUMORS, and for treatment of advanced or metastatic RENAL CELL CARCINOMA.
+See also: Sunitinib Malate (has salt form); Sunitinib maleate (is active moiety of).
+Properties:safety: Health Hazard and Environmental Hazard
+smiles: CCN(CC)CCNC(=O)C1=C(NC(=C1C)/C=C\2/C3=C(C=CC(=C3)F)NC2=O)C
+formula: C22H27FN4O2
+chem_properties: Molecular Weight: 398.5 g/mol
+XLogP3: 2.6
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 7
+Exact Mass: 398.21180428 Da
+Monoisotopic Mass: 398.21180428 Da
+Topological Polar Surface Area: 77.2
+Heavy Atom Count: 29
+Formal Charge: 0
+Complexity: 636
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

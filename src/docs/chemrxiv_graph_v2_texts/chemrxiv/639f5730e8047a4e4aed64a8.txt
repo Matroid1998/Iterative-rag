@@ -1,0 +1,28 @@
+Description:
+Showed a Faradaic efficiency of 5 in an early study of cobalt phthalocyanine.
+
+Text:
+Graphene and MoS2 are good candidates for strain 
+engineering because they are relatively large (mm) in size. However, strain induction for sub2 
+nm materials is challenging due to the mismatch of lateral size with supports and difficulties in 
+material transfer. Molecular complexes such as metalloporphyrins and metallophthalocyanines are efficient CO2 
+reduction reaction (CO2RR) catalysts because of their electronic structures and the tunable ligand 
+environments surrounding the active sites5. However, these molecules along with most other 
+molecular catalysts primarily reduce CO2 to CO; catalysts that selectively reduce CO2 beyond CO 
+are scarcely reported6,7. An early study of cobalt phthalocyanine (CoPc) in 19848 showed a 
+methanol (MeOH) Faradaic efficiency (FE) of 5.
+
+
+---
+
+Description:
+A product that can be generated from CO reduction reaction.
+
+Text:
+This work did not receive much attention until 
+recently when the Wang9 and Robert10 groups separately reported improved FEMeOH with CoPc 
+deposited on multiwalled carbon nanotubes (MWCNTs). In the paper from the Robert group, it 
+was emphasized that only small amount of methanol could be obtained from CO2RR, while larger 
+amount could be generated from CO reduction reaction (CORR). In stark contrast, the Wang group 
+claimed that a FEMeOH as high as 44 could be obtained with CoPc deposited on MWCNT. However, most studies have been unable to obtain the improved FEMeOH observed by the Wang 
+group, instead finding CO to be the prevailing product even with monodispersed CoPc1115.

@@ -1,0 +1,37 @@
+Description:
+An energy-dense molecule used for storing electricity from intermittent renewable sources such as wind and solar.
+
+Text:
+The task of optimization is prevalent in any scientific discipline. Material optimization and discovery, in particular, have 
+propelled technological advancements, creating a materially 
+different generation compared to previous ones. The current 
+climate crisis poses a severe threat to the wellbeing of 
+humanity, where innovation in energy materials is needed to 
+tackle a monumental challenge of this scale. Establishing a 
+renewable energy landscape is of utmost importance to secure 
+a sustainable energy supply while maintaining current living 
+standards in the near future. Electricity from wind and solar is 
+intermittent, necessitating its storage into energydense 
+molecules such as hydrogen to cover energy demands at any 
+time, even during downtimes of renewable electricity 
+production.
+
+
+---
+
+Description:
+Generated as green hydrogen in polymer electrolyte membrane water electrolysis.
+
+Text:
+Polymer electrolyte membrane water electrolysis (PEMWE) will 
+be a cornerstone in the future energy transition, generating 
+green hydrogen to end the reliance on current fossilbased 
+energy carriers.1, 2 Here, the oxygen evolution reaction (OER) is 
+profoundly more sluggish than the hydrogen evolution reaction 
+(HER). Given that anodic and cathodic reactions proceed 
+simultaneously, the slower reaction ultimately determines the 
+total device efficiency, making the improvement of OER kinetics 
+a main target of many research endeavors in the water splitting 
+community. Electrocatalysts build the heart of electrochemical 
+devices and act as reaction promoters. So far, IrOx has become 
+the stateoftheart OER catalyst for PEMWEs.

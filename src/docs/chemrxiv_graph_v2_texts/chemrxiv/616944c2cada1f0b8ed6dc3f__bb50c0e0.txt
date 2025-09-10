@@ -1,0 +1,19 @@
+Description:
+A compound used as a side chain in polymers.
+
+Text:
+We further
+demonstrate that the doping induced charges oscillate
+in space upon geometry displacement along the vibra
+tional normal modes with highest intensities in the IR
+spectrum.25 The nearinfrared optical absorption spec
+trum of the complex contains the typical features of intra
+molecular polaron excitations which in our calculations
+are distinct from the lowintensity intermolecular charge
+transfer excitations also observed. II. SYSTEM AND METHODS
+The OSC studied in this work is a bithiophene
+thienothiophene copolymer p(g42TTT) for which double
+doping was recently demonstrated experimentally.16 To
+reduce the computational cost, the tetraethylene glycol
+side chains are replaced by methoxy groups (Figure 1a). In the present study the OSC is described by a nite
+length oligomer consisting of three repeat units.

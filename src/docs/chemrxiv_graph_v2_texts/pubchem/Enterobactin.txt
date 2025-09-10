@@ -1,0 +1,28 @@
+Name: Enterobactin
+Text:
+Enterobactin is a macrotriolide produced by certain members of Enterobacteriaceae, e.g. Escherichia coli and Salmonella. It has a role as a bacterial metabolite and a siderophore. It is a crown compound, a member of catechols, a polyphenol and a macrotriolide. It is a conjugate acid of an enterobactin(6-) and an enterobactin(1-).
+Enterochelin is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Enterobactin has been reported in Streptomyces wadayamensis, Bos taurus, and Streptomyces albidoflavus with data available.
+An iron-binding cyclic trimer of 2,3-dihydroxy-N-benzoyl-L-serine. It is produced by E COLI and other enteric bacteria.
+Properties:safety: Irritant and Health Hazard
+smiles: C1[C@@H](C(=O)OC[C@@H](C(=O)OC[C@@H](C(=O)O1)NC(=O)C2=C(C(=CC=C2)O)O)NC(=O)C3=C(C(=CC=C3)O)O)NC(=O)C4=C(C(=CC=C4)O)O
+formula: C30H27N3O15
+chem_properties: Molecular Weight: 669.5 g/mol
+XLogP3: 2.3
+Hydrogen Bond Donor Count: 9
+Hydrogen Bond Acceptor Count: 15
+Rotatable Bond Count: 6
+Exact Mass: 669.14421716 Da
+Monoisotopic Mass: 669.14421716 Da
+Topological Polar Surface Area: 288
+Heavy Atom Count: 48
+Formal Charge: 0
+Complexity: 1060
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 3
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

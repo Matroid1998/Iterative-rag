@@ -1,0 +1,14 @@
+Description:
+Polar functional groups preferred in CC bond cleavage methods.
+
+Text:
+Although enormous progress has been achieved in recent decades, 
+the current methods for the cleavage of CC bonds primarily rely on transitionmetalcatalyst and 
+Substrates that possess a high degree of ring strain andor feature polar functional groups, such as 
+carbonyls, nitriles, and imines are preferred. Conversely, the cleavage of unstrained and nonpolar 
+CC bonds is still in its early stages of development6. In particular, cases of catalytic approaches 
+to realize C(sp2)C(sp3) bond activation have been rare7. Jiao et al. developed oxidative reactions 
+to scissor C(sp2)C(sp3) bonds using 2,3dichloro5,6dicyano1,4benzoquinone (DDQ) as the 
+oxidant, demonstrating the feasibility of selective cleavage of nonpolar unstrained CC bonds, 
+despite the arguably drawbacks of DDQs toxicity, high cost, and difficulty in the removal of 
+DDQH2 waste8.

@@ -1,0 +1,13 @@
+Description:
+A polymer whose crystallinity decreases and ionic conductivity increases when crosslinked with LiClO4.
+
+Text:
+investigated the impact of C3mpyrTFSI ionic liquid on the ionic 
+conductivity of PEObased ternary polymer electrolytes, and demonstrated that the inclusion 
+of highly conductive room temperature ILs significantly enhances ionic conductivity, 
+surpassing the limits previous observed in ILfree electrolytes.12 Crosslinking, as a versatile 
+polymerization technique, is often used to improve the mechanical property and hinder polymer 
+crystallization of plasticized SPEs.10,13 Watanabe et al. first studied the crosslinked PEO
+LiClO4 systems which showed decreased PEO crystallinity by decreasing Tg from 22 to 30C 
+and enhanced ionic conductivity from 109 to 105 S cm1 at 30C compared to linear PEO 
+system (EOLi mole ratio  20).14 Joost et al.

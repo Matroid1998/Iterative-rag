@@ -1,0 +1,13 @@
+Description:
+Involved in electron transfer coupled spin transitions.
+
+Text:
+Switching is central to modern computer logic, displays and memory. Thus, the quest
+for greater miniaturization and efficiency often focuses on switches, e.g., transistors. The
+majority of the worlds data is currently stored in 600 hyperscale data centers, which each
+consume hundreds of megawatts of electricity annually.1 So developing smaller, more efficient,
+switches is an environmental, as well as a technological, priority. Several molecular switches have been explored including single molecule magnets,2 valance
+tautomerism,3 electron transfer coupled spin transitions4 (in, e.g., Prussian blue analogues,5
+molecular systems,6 and coordination polymers7), and spin crossover (SCO) materials.8 SCO
+complexes display two spinstates; and are intrinsically multifunctional as changes in spin
+state simultaneously lead to changes in electronic and magnetic properties, size and color.

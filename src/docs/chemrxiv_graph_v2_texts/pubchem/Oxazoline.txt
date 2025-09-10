@@ -1,0 +1,24 @@
+Name: Oxazoline
+Text:
+Properties:safety: Irritant
+smiles: C1COC=N1
+formula: C3H5NO
+chem_properties: Molecular Weight: 71.08 g/mol
+XLogP3: -0.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 71.037113783 Da
+Monoisotopic Mass: 71.037113783 Da
+Topological Polar Surface Area: 21.6
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 50.9
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

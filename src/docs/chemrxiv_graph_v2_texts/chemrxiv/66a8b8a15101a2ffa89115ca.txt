@@ -1,0 +1,12 @@
+Description:
+Atoms involved in bonds that are often treated as rigid, eliminating the highest frequency motions.
+
+Text:
+For instance,
+bonds involving hydrogen atoms are often treated as rigid, which eliminates the highest fre
+quency motions.1,2 Also, the repartitioning of masses from heavy atoms to bonded hydrogen
+atoms has long been found to stabilize the time integration and make the use of longer time
+steps possible.3 Such schemes, known as hydrogen mass repartitioning (HMR), were system
+atically applied to hydrogen atoms in proteins4 and lipids,5 allowing stable simulations using
+4 fs time steps. The statistical mechanical basis of all these schemes is wellestablished, as
+configuration space averages are independent of the masses in classical statistical mechanics. Walser et al. 6 rescaled the water masses to systematically modify the solvent viscosity.

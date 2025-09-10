@@ -1,0 +1,27 @@
+Name: Cyanogen
+Text:
+Cyanogen appears as a colorless gas with an odor of almonds. Freezes at -28 °C and boils at -20.7 °C. Shipped as a liquid confined under its vapor pressure. The gas is heavier than air and a flame can travel back to the source of leak very easily. Prolonged exposure to fire or intense heat may cause the containers to violently rupture and rocket. Used to make other chemicals, as a fumigant, and as a rocket propellant.
+Oxalonitrile is a dinitrile that is ethane substituted by two cyano groups. It is a pseudohalogen and a dinitrile.
+Cyanogen is a chemical compound of cyanide.
+Properties:safety: Flammable and Compressed Gas and Acute Toxic and Environmental Hazard
+smiles: C(#N)C#N
+formula: C2N2
+chem_properties: Molecular Weight: 52.03 g/mol
+XLogP3: 0.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 52.006148008 Da
+Monoisotopic Mass: 52.006148008 Da
+Topological Polar Surface Area: 47.6
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 71.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

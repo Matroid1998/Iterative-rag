@@ -1,0 +1,13 @@
+Description:
+An allosteric agonist of adenylyl cyclases (ACs).
+
+Text:
+Humans encode 
+nine membranebound ACs that are organized into four groups based on their regulatory 
+mechanisms to various intracellular stimuli.2,3 Group 1 ACs include AC1, AC3, and AC8 and are 
+characterized by their positive modulation by Ca2Calmodulin (CaM) although AC3 is 
+conditionally stimulated by this complex and requires the presence of additional G protein 
+subunits.4 Group 2 ACs include AC2, AC4, and AC7 and are conditionally activated by G protein 
+ (G) subunits.5 Group 3 ACs include AC5 and AC6 and are negatively modulated by Ca2.6 
+Finally, Group 4 contains only AC9, which is the lone isoform relatively insensitive to forskolin, 
+an allosteric agonist of ACs.

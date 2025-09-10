@@ -1,0 +1,31 @@
+Name: Granisetron
+Text:
+Granisetron is a monocarboxylic acid amide resulting from the formal condensation of the carboxy group of 1-methyl-1H-indazole-3-carboxylic acid with the primary amino group of (3-endo)-9-methyl-9-azabicyclo[3.3.1]nonan-3-amine. A selective 5-HT3 receptor antagonist, it is used (generally as the monohydrochloride salt) to manage nausea and vomiting caused by cancer chemotherapy and radiotherapy, and to prevent and treat postoperative nausea and vomiting. It has a role as a serotonergic antagonist and an antiemetic. It is a member of indazoles, a monocarboxylic acid amide and a tertiary amino compound.
+A serotonin receptor (5HT-3 selective) antagonist that has been used as an antiemetic and antinauseant for cancer chemotherapy patients.
+Granisetron is a Serotonin-3 Receptor Antagonist. The mechanism of action of granisetron is as a Serotonin 3 Receptor Antagonist.
+Granisetron is an indazole derivative with antiemetic properties. As a selective serotonin receptor antagonist, granisetron competitively blocks the action of serotonin at 5-hydroxytryptamine3 (5-HT3) receptors, resulting in the suppression of chemotherapy- and radiotherapy-induced nausea and vomiting.
+APF530 is a controlled-release formulation of a biodegradable poly(ortho ester) polymer, encapsulating the indazole derivative granisetron, with antiemetic activity. Upon administration of APF530, the polymer slowly erodes and releases the active ingredient granisetron. As a selective serotonin receptor antagonist, granisetron competitively blocks the action of serotonin at 5-hydroxytryptamine3 (5-HT3) receptors, resulting in the suppression of nausea and vomiting over a sustained period of time.
+A serotonin receptor (5HT-3 selective) antagonist that has been used as an antiemetic for cancer chemotherapy patients.
+See also: Granisetron (annotation moved to).
+Properties:safety: Irritant
+smiles: CN1[C@@H]2CCC[C@H]1CC(C2)NC(=O)C3=NN(C4=CC=CC=C43)C
+formula: C18H24N4O
+chem_properties: Molecular Weight: 312.4 g/mol
+XLogP3: 2.8
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 2
+Exact Mass: 312.19501140 Da
+Monoisotopic Mass: 312.19501140 Da
+Topological Polar Surface Area: 50.2
+Heavy Atom Count: 23
+Formal Charge: 0
+Complexity: 442
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

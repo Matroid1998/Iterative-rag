@@ -1,0 +1,43 @@
+Description:
+Used as a reference potential in the standard hydrogen electrode (SHE).
+
+Text:
+The key is to identify the reaction
+pathway that alters the chemistry, whether it is a decou
+pled electron transfer (ET) and proton transfer (PT) or
+a coupled (simultaneous) protonelectron transfer (PET)
+15, 16. Cyclic voltammetry (CV) is one of the most widely
+used techniques for characterizing redoxactive systems
+arsalan.hashemiaalto.fi
+ kari.laasonenaalto.fi
+1720. This involves applying a potential to an elec
+trode relative to a fixed reference potential, such as the
+standard hydrogen electrode (SHE) 21. The potential
+varies linearly over time within the electrochemical po
+tential window of the electrolyte. As an indicator of the
+number of electrons transferred, the current is measured
+simultaneously. Therefore, it is possible to determine the
+number of oxidation states and their stability, reaction
+rates, redox potentials, and concentrations of redoxactive
+species 22.
+
+
+---
+
+Description:
+Used as a computational standard hydrogen electrode (SHE) in simulating electrochemical environments.
+
+Text:
+In the prediction of a combined redox and
+acidbase reaction, three potential mechanisms, ET, PT,
+and PET, are systematically diagrammed along the sides
+and diagonal of a square, forming a representation known
+as an electrochemical scheme of square 2628. This di
+agram effectively elucidates the mechanistic pathways
+and redox potentials for multielectron and multiproton
+transfer reactions as functions of the applied electrode
+potential and the electrolyte pH. Density functional theory (DFT) approach 29, 30 in
+combination with implicit solvation models 31 and a
+computational standard hydrogen electrode (SHE) 32
+are frequently used to simulate electrochemical environ
+ments.

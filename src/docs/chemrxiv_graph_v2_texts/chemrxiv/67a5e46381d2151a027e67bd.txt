@@ -1,0 +1,30 @@
+Description:
+A product of PET cleavage by PETase.
+
+Text:
+In the last years, an environmentally friendly and sustainable alternative to conventional 
+methods has been offered by enzymatic degradation.9 Several bacterial enzymes were discovered able to 
+cleave the polymeric plastic chains, including cutinases, lipases, and esterases, and grouped in the family 
+of PEThydrolyzing enzymes (PHEs).10,11 A breakthrough in this field occurred in 2016 with the discovery 
+of a bacterium, named Ideonella Sakaiensis 201F6 that used PET as a major nutrient thanks to the 
+secretion of two hydrolases PETase and MHETase.12 Working synergistically, PETase cleaves the PET 
+chains mainly into mono(hydroxyethyl terephthalate) (MHET), bis(hydroxyethyl terephthalate) (BHET), 
+terephthalic acid (TPA), and ethylene glycol (EG; Figure 1A), whereas MHETase completes the process, 
+converting MHET and BHET into their minimal chemical moieties.
+
+
+---
+
+Description:
+A product of the depolymerization of polyester by PETase.
+
+Text:
+Remarkably, PETase has also 
+demonstrated significant hydrolytic activity against PEF,13 depolymerizing this semiaromatic polyester into 
+mono(2hydroxyethyl furanoate) (MHEF), bis(2hydroxyethyl furanoate) (BHEF) and 25 furandicarboxylic 
+acid (FDCA) and ethylene glycol (EG; Figure 1B).14 
+From a structural point of view, PETase resembles the folding of an  hydrolase, characterized by a 
+central ninestranded twisted strand, surrounded by seven helices.13,1517 The catalysis is exerted by a 
+catalytic triad composed of serine, histidine, and aspartate residues (S160, H237, and D206) in the active 
+site, which encompasses also the residues tryptophane, tyrosine, methionine and isoleucine (W185, Y87, 
+M161, and I208) to support the substrate recognition and binding15 (Figure 1C).

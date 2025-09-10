@@ -1,0 +1,20 @@
+Description:
+An aromatic compound with absorption overlap at approximately 3 µm wavelength.
+
+Text:
+Optical spectrometers are often more
+compact and more readily develop into field
+capable instruments and autonomous onsite
+detectors for continuous monitoring.9 Some
+chemical sensors, such as metal oxide sensors,
+photoionization detectors and electrochemi
+cal sensors, are starting to reach high sensi
+tivities for benzene,10 but spectroscopic de
+tectors offer better selectivity and longterm
+stability. Various spectroscopic benzene detectors have
+achieved detection limits down to ppblevels. However, many use the strong absorption band
+at the wavelength of approximately 3 m for
+detection,1114 which has significant overlap
+with many other organic compounds, most
+notably other simple aromatic combounds,
+e.g. toluene and xylenes.

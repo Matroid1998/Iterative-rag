@@ -1,0 +1,51 @@
+Description:
+Ions possessing unique photophysical and magnetic properties, used in magnetic and optical technologies.
+
+Text:
+Lanthanide ions (Ln) possess unique photophysical and 
+magnetic properties, finding application in magnetic1620 
+and optical technologies, both at bulk and molecular 
+scales.2124 While bulk systems offer scalability and high 
+stability, molecular systems allow exquisite structural and 
+electronic control, leading to extraordinarily effective 
+molecules. Molecular design has produced record breaking 
+molecular magnets and highly emissive complexes.1921 
+Combining multiple, different Ln in a molecular species is 
+desirable to design multimetallic systems for sensing, 
+optics, and quantum information science.111, 25 However, 
+the ionic bonding of Ln and their resultant chemical 
+similarity makes selective synthesis of heteromultimetallic 
+molecules challenging. Strategies that have been used to overcome the 
+challenges of Ln heterobimetallic synthesis can be grouped 
+into two broad categories thermodynamic and kinetic 
+control.
+
+
+---
+
+Description:
+Elements that form heterometallic complexes with selective coordination based on ionic radius differences.
+
+Text:
+Thermodynamic control involves ligands which 
+use variation in ionic radius across the period to 
+statistically assemble selective heterometallic complexes. Ln with large differences in ionic radius therefore 
+selectively coordinate at different ligand sites. Early 
+studies using this approach achieved high selectivity,26, 27 
+and 
+complete 
+selectivity 
+has 
+been 
+achieved 
+in 
+paddlewheellike multimetallic systems (Figure 1a).9, 10 
+Kinetic control uses ligands which form kinetically inert 
+complexes under reaction conditions, with high binding 
+constants (typically K  1012) so that redistribution is 
+inaccessible.28 Individual kinetically inert complexes are 
+then linked to construct multimetallic architectures (Figure 
+Figure 1 Examples of heterometallic lanthanide complexes
+prepared via (a) thermodynamic control;10 (b) kinetic control;2, 4
+or (c) combined thermodynamic selectivity of kinetically inert 
+moieties to an asymmetric bridging ligand (this work).

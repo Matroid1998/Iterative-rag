@@ -1,0 +1,23 @@
+Description:
+Participates in quenching reactions with SO4.
+
+Text:
+15, 
+involving the generation of SO4 (eqs. 13) followed by its reaction either with Ru(NH3)62 (eq. 4) or by direct reduction at the electrode (eq. 5).10 Eqs. 4 and 5 represent quenching reactions, 
+preventing SO4 from participating in the intended oxidation of the alcohol substrate. Cyclic 
+voltammetry (CV) studies performed using glassy carbon macroelectrodes, along with finite
+difference simulations, were employed to estimate the rate constants of eq. 2 as  2  105 M1s1 
+and provided lower limits for eq. 3 ( 1  106 s1), and eq.
+
+
+---
+
+Description:
+Participates in the reduction of SO4 with a free energy change based on E0 values.
+
+Text:
+4 ( 1  107 M1s1).10 Density functional 
+theory (DFT) and molecular dynamics computational analysis, however, suggest that S2O83 
+fragmentation occurs on time scales of  1012 s.10 Similarly, the free energy change for the 
+homogeneous reduction of SO4 by Ru(NH3)62, based on E0 values of eqs. 1 and 5, DG  2.4 
+httpsdoi.org10.26434chemrxiv2023bq4fv ORCID httpsorcid.org0000000250530996 Content not peerreviewed by ChemRxiv. License CC BY 4.0

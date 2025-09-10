@@ -1,0 +1,28 @@
+Description:
+A framework material that can experience temperature transients due to vibrational relaxation.
+
+Text:
+The use of CW lasers to simply heat zeolites has been 
+explored, 2022 but the ability to synchronously collect time
+resolved spectra on the evolution of the sample was not 
+implemented.2022 
+Similarly, 
+picosecond 
+pulsedIR 
+investigations of zeolites have demonstrated how the 
+relaxation of excited OH and OD vibrations induces heating of 
+the 
+zeolite 
+framework, 
+and 
+quantified 
+the 
+resulting 
+temperature transients, but only considered the heating as an 
+unwanted background to the relaxation behaviour on 
+picosecond timeframes.23,24 The ability to heat solid materials 
+and monitor their evolution from nanoseconds to seconds with 
+timeresolved IR remains unexplored. In this paper we describe 
+experiments to do exactly this with an approach of pulsedlaser 
+Tjumping and timeresolved IR probing for investigating laser 
+a.

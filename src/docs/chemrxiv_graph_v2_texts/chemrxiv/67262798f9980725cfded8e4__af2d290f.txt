@@ -1,0 +1,18 @@
+Description:
+Used as an atmosphere in control experiments to verify the origin of CO2RR products.
+
+Text:
+Our results indicated that hydrogen (H2), carbon monoxide 
+(CO), and formic acid (HCOOH) were the products 
+generated during the CO2RR (Figure 4d and Figure S11). To 
+verify that these products originated from the flowing CO2, 
+a control experiment was carried out using constant
+potential electrolysis in an argon (Ar) atmosphere instead 
+of CO2. The absence of CO2RR products at all tested 
+potentials in the Ar atmosphere confirmed that the detected 
+products were indeed derived from CO2 and not from any 
+other source (Figure S12). The Faradaic efficiency (FE) data 
+demonstrated a significant increase in total efficiency with 
+increasing potential, rising from 8 at 0.6 V to 74 at 1.4 
+V (Figure 4d). Initially, at 0.6 V, no CO2RR products were 
+obtained.

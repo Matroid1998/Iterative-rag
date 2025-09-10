@@ -1,0 +1,14 @@
+Description:
+Natural alkynes frequently lack carboxylic acids.
+
+Text:
+However, CuAAC is generally applicable only to terminal alkynes or to
+specially designed, highlystrained internal alkynes.12 Many naturally derived alkynes are
+internal alkynes with no ring strain, and are thus not amenable to CuAAC. According to
+the Human Metabolome Database,13 at least 173 unique internal alkyne structures are, or
+have the potential to be, a component of human metabolomes. These 173 internal alkynes
+account for 80 of the 216 alkynecontaining structures in the HMDB. More than 70 of
+the 173 are derived from plants or fungi. A large fraction of these come from a structurally
+related family of 1,3diynes (Figure 1). Natural alkynes, especially the structural clade
+highlighted in Figure 1b, are often derived from fatty acids, and frequently lack moieties
+(amines, amides, carboxylic acids, etc.)

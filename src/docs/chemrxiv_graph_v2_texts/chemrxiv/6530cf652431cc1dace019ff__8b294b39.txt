@@ -1,0 +1,12 @@
+Description:
+A high-value chemical produced from CO2 electrolysis.
+
+Text:
+The chemical sector accounts for a significant share of the total greenhouse gas emissions as the production requires 
+tremendous amounts of energy, and the vast majority of commercially available organic chemicals are sourced from fossil 
+fuelderived feedstock.1 Electrochemical CO2 reduction reaction is a promising approach for sequestering CO2 while 
+producing highvalue chemicals like ethylene (C2H4), which currently contributes to 862 Mt of the annual CO2 emissions.2 
+However, for CO2 electrolysis to be an economically feasible production method for e.g. C2H4, the energy efficiencies must 
+reach levels beyond 50 while exhibiting operating lifetimes of thousands of hours.2,3 One of the most promising 
+engineering configurations is the membrane electrode assembly (MEA) due to its relatively low ohmic loss and easy 
+scalability.

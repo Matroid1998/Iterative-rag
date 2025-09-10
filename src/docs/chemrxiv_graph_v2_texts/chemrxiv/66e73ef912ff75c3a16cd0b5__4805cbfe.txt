@@ -1,0 +1,11 @@
+Description:
+A solvent used in the study, providing a deaerated environment for luminescence.
+
+Text:
+To achieve these properties, several strategies have been developed 1) TADF emitters capped 
+with human serum albumin (HSA) or bovine serum albumin (BSA).5 Xiong et al. were the first to 
+report a TADF emitter, DCFMPYM (Figure S1a), that was used in conjunction with BSA. This 
+adduct was employed as the contrast agent in the TRLI of MCF7 cells, and showed longlived 
+luminescence (d  22.11 s in deaerated ethanol) at PL of 649 nm.5a, 5b The BSA protein provides a 
+hydrophobic cavity and a reductive environment that shields the emitter from oxygen, thus permitting 
+the longlived delayed emission of DCFMPYM to persist in the cells.

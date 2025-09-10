@@ -1,0 +1,20 @@
+Description:
+Achieved at the end of charge with Ni nominally in the 4 oxidation state.
+
+Text:
+In the drive to remove Co from these cathodes, it is critical to understand the behaviour of 
+the ultimate Nirich archetype, LiNiO2.15 At high states of charge, LiNiO2 exhibits Oloss, a contraction 
+in interlayer spacing, particle cracking and poor cycling stability.512 Substantial efforts have been 
+made to understand these phenomena and the structural transitions that take place when Li is 
+extracted from LiNiO2, but there remains considerable debate over the extent of Ni oxidation and O
+redox in LiNiO2, particularly across the voltage plateau at 4.2 V.1316 Despite reaching a composition 
+close to NiO2 at the end of charge with Ni nominally in the 4 oxidation state, bulk sensitive Xray 
+absorption spectroscopy (XAS) appears to show incomplete oxidation of Ni3 to Ni4 when the edge 
+position is compared to other Ni4containing oxides.14,15 Some argue that this reflects the change in 
+covalency of the NiO bond with the electronhole density shifting more towards O than Ni when Ni is 
+highly oxidised,8,1719 while others argue O oxidation is invoked.1315,20 
+Recent research into O oxidation in Lirich cathodes, such as Li1.2Ni0.13Co0.13Mn0.54O2, has indicated that 
+oxidised oxygen takes the form of molecular O2, which is trapped within vacancy clusters in the 
+cathode structure.2125 However, in the case of stoichiometric materials like LiNiO2, it has been argued 
+that this same mechanism cannot apply due to the lack of transition metal vacancies in the fully dense 
+httpsdoi.org10.26434chemrxiv2023n6tx4 ORCID httpsorcid.org0000000167483084 Content not peerreviewed by ChemRxiv.

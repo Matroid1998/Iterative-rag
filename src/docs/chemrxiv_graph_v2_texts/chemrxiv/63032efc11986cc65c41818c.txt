@@ -1,0 +1,12 @@
+Description:
+Used in batteries that provide higher voltages but pose safety hazards due to flammable organic electrolytes.
+
+Text:
+Electronic thermometer, portable blood glucose
+meter, portable ultrasound equipment, wearable electrocardiograph, cardiac pacemaker and so on. All of these portable
+devices require stable power supply and small battery volume. Compared with flow batteries or cylindrical dry batteries,
+coin battery with small volume is suitable to be applied in small precision device. Coin batteries come in many sizes
+and vary greatly in diameter and thickness. Among the commercial coin batteries, the largest market share is the lithium
+battery. Although lithium batteries can provide higher voltages, nonaqueous organic electrolytes in lithium batteries
+have always been a safety hazard. Due to the flammability of organic electrolytes, lithium batteries can cause explosions
+or fires during production, transportation and use.

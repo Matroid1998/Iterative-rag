@@ -1,0 +1,28 @@
+Description:
+Compounds that participate in Suzuki coupling to form carbon-carbon bonds.
+
+Text:
+A reaction of critical
+importance in this domain is the Suzuki coupling because
+of its ability to synthesize carboncarbon bonds via the cou
+pling of organohalides with boronic acids.1, 2 The perfor
+mance and specicity of this reaction are largely inuenced
+by the ligand selection in palladium (Pd)based catalytic
+systems.3
+The traditional approaches to ligand discovery have been
+characterized by intensive experimental screening processes
+that are both timeintensive and demand signicant re
+sources.46 Computational methodologies for identifying
+ecient catalysts have evolved, predominantly involving
+the screening of extensive enumerated libraries, typically
+ranging from 1035 catalysts.7 These virtual screenings
+are executed through (semiempirical) quantum mechan
+ics (QM) calculations which limits the size of the screen
+library due to the computational cost.8, 9 In response to
+this challenge, researchers have turned to machine learning
+(ML) models, trained on preexisting data, to screen more
+extensive libraries, which may include up to 106 catalysts or
+more.1012 While ML models have proven valuable within
+their trained domains, their ecacy often diminishes when
+applied to scenarios outside their original scope, particu
+larly in the context of true de novo generation.

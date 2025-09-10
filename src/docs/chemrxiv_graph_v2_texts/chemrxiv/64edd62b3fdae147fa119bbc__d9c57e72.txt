@@ -1,0 +1,11 @@
+Description:
+A monovalent cation involved in the exchange with protons across cellular membranes.
+
+Text:
+NaH exchangers (NHEs) are vital for controlling the intracellular pH by shuffling protons 
+(H) across the cellular membranes in exchange for monovalent cations, such as sodium (Na), 
+lithium (Li) and potassium (K).1, 2 There are 10 isoforms of NHEs (NHE1  NHE10).1, 3 hNHE1 
+(the human form of NHE1) is a ubiquitously expressed integral transmembrane (TM) glycoprotein 
+present in all cells. It controls the electroneutral exchange of a single intracellular H for an 
+extracellular Na ion (11 stoichiometry) across the plasma membrane, acting to elevate 
+intracellular pH (pHi).

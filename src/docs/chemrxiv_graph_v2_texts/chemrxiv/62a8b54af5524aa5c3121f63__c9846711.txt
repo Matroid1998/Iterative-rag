@@ -1,0 +1,14 @@
+Description:
+Used in preclinical studies as an indicator of hypoxia.
+
+Text:
+These enzymes have been exploited to 
+develop hypoxia sensing prodrugs714 and imaging agents, including pimonidazole and EF5 that are routinely 
+used in preclinical studies as indicators of hypoxia (Figure 1).1517 Both pimonidazole and EF5 contain 
+nitroimidazole groups that are reduced by reductases in hypoxia to generate products that are covalently trapped 
+and can be detected using immunostaining. In contrast, hypoxia sensing fluorescent probes18 are powerful tools 
+that allow the detection and imaging of hypoxia with high sensitivity and spatiotemporal resolution, but no need 
+for subsequent detection steps involving immunostaining. In general, such probes function by having their 
+emission properties suppressed by addition of a bioreductive group, examples of which include nitroarenes,8,18 
+quinones,19 azo,2023 or azide24 groups, which undergo reductasecatalyzed reactions to reveal the fluorophore in 
+an oxygendependent manner.

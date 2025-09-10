@@ -1,0 +1,28 @@
+Description:
+An inert noble gas used as a filler gas for lamps, insulation in multiple-pane windows, and gain medium for lasers.
+
+Text:
+The inert, noble gases xenon (Xe), krypton (Kr), and argon (Ar) have several industrial applications,
+such as ller gas for lamps (Xe, Kr, Ar), insulation in multiplepane windows (Xe, Kr, Ar), anaesthetic
+and imaging agent in medicine (Xe), propellant for ion thrusters on spacecraft (Xe), gain medium for
+lasers (Xe, Kr, Ar), and medium to detect and measure ionizing radiation (Ar, Xe). Ar is used in bulk
+quantities, as a protective gas, during the production of metals and semiconductors. 1,2
+Xe, Kr, and Ar naturally occur in the atmosphere of the earth at 0.0000086 mol , 0.000114 mol , and
+0.9300 mol , respectively (troposphere, dry conditions) 1.
+
+
+---
+
+Description:
+A fission product that evolves from spent nuclear fuel during reprocessing.
+
+Text:
+1
+The task of capturing dilute Xe andor Kr from air is encountered in (i) the reprocessing and recycling
+of spent nuclear fuel (SNF) 46 and (ii) the detection of nuclear explosions from (banned) nuclear
+weapons tests 3, 7. Expanding on (i), reprocessing and recycling the large US inventory of SNF 8
+would recover unused ssile material for new fuel assemblies and reduce the volume of radioac
+tive waste to sequester 9,10. However, radioactive isotopes of xenon (Xe) and krypton (Kr) (ssion
+products) evolve from the SNF during reprocessing (400 ppm 127Xe, 40 ppm 85Kr in the ogases),
+which must be captured and (particularly, 85Kr) sequestered as opposed to released into the atmo
+sphere 6.

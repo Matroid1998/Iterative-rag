@@ -1,0 +1,27 @@
+Name: Carbonyl sulfide
+Text:
+Carbonyl sulfide is a colorless, poisonous, flammable gas with a distinct sulfide odor. The gas is toxic and narcotic in low concentrations and presents a moderate fire hazard. Under prolonged exposure to fire or intense heat the container may rupture violently or rocket. It is used in the synthesis of organic thio compounds.
+Carbonyl sulfide is a one-carbon compound in which the carbon atom is attached to an oxygen and a sulfur atom via double bonds. It is a one-carbon compound and an organosulfur compound.
+Carbonyl sulfide is used as an intermediate in organic compound synthesis. Limited information is available on the health effects of carbonyl sulfide. Acute (short-term) inhalation of high concentrations of carbonyl sulfide may cause narcotic effects in humans. Carbonyl sulfide may also irritate the eyes and skin in humans. No information is available on the chronic (long-term), reproductive, developmental, or carcinogenic effects of carbonyl sulfide in humans. EPA has not classified carbonyl sulfide with respect to potential carcinogenicity.
+Properties:safety: Flammable and Compressed Gas and Acute Toxic and Irritant
+smiles: C(=O)=S
+formula: COS
+chem_properties: Molecular Weight: 60.08 g/mol
+XLogP3: 1.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 59.96698579 Da
+Monoisotopic Mass: 59.96698579 Da
+Topological Polar Surface Area: 49.2
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 27.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: No 
+

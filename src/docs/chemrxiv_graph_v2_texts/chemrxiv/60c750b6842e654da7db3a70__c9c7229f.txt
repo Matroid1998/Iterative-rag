@@ -1,0 +1,18 @@
+Description:
+Used in the form of nanoparticles in microporous layers for current collection in gas diffusion electrodes.
+
+Text:
+In a system design where the electrolyte is saturated with dissolved CO2,
+mass transport limits the achievable CO2 reduction current density to below 50 mAcm2
+irrespective of the nature of the catalyst employed.111 For the process to be economically
+feasible, current densities in the order of 200 mAcm2 and greater are estimated to be
+required in addition to the selectivity, overpotential and stability targets.1214 Gas diusion
+electrodes (GDE) based cell designs have been demonstrated to successfully overcome this
+mass transfer limitation in CO2 electrochemical reduction (eCO2R) systems.1521
+The classical GDEbased eCO2R systems studied in literature are owcells or microuidic
+cells following a general setup as shown in Figure 1a for the cathode half of the reactor.2231
+The GDE cathode itself is typically composed of 3 layers 1) the gas diusion layer (GDL)
+which acts as a gas distribution network for the incoming CO2 and outgoing gaseous prod
+ucts to and from the catalyst, 2) a thin microporous layer (MPL) of carbon nanoparticles
+deposited on the GDL which acts as the current collector and 3) the electrocatalyst layer
+2

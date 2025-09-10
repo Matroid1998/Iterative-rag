@@ -1,0 +1,11 @@
+Description:
+An orange-red emitter used in SPOLEDs with an emission wavelength of 592 nm.
+
+Text:
+Zhang et al. reported an orangered emitter 4tBuCzTTR by using thianthrene 5,5,10,10tetraoxide as the 
+acceptor, 3,6ditertbutyl9Hcarbazole (tCz) as the donor and the resulting SPOLEDs 
+emitted at lEL 592 nm and showed an EQEmax of 6.2, which dropped to around 4.0 at 
+1000 cd m2 (EQE1000).23 A deep red wedgeshaped organic fluorophore, 2TPAPPDC, was 
+reported by Zhang et al., whose SPOLEDs emitted at lEL 670 nm and showed an EQEmax of 
+3.2.24 A similar red emitter, DDTPACzDCPP, containing carbazole donors that are 
+httpsdoi.org10.26434chemrxiv202393jq8 ORCID httpsorcid.org0000000171836022 Content not peerreviewed by ChemRxiv. License CC BY 4.0

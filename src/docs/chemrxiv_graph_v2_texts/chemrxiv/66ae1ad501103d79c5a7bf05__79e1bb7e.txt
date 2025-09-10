@@ -1,0 +1,12 @@
+Description:
+Reactive intermediates that can form from aryl halides.
+
+Text:
+Flash flow chemistry is a subset of flow chemistry pioneered by Yoshida and Nagaki.1, 2 The technique is
+suited to fast chemical processes in which reactive intermediates are generated. A flash flow synthesis utilises
+residence times on the order of seconds, meaning that slower side reactions can often be outcompeted by a
+faster dominant and desired process, provided sufficient inreactor mixing has been achieved. The flash flow
+approach has been most successfully applied to the generation of aryllithiums from aryl halides, followed by
+trapping with an electrophile (Scheme 1) and has facilitated the clean lithiation and trapping of aryl halides
+that are liable to aryne formation,3 which bear esters,2 nitriles,4 and even ketones;5 feats which are
+difficult if not impossible to achieve using in flask (batch) chemistry.

@@ -1,0 +1,12 @@
+Description:
+Typically used as the A layer in the synthesis of MXenes from MAX phases.
+
+Text:
+MXenes have attracted significant 
+attention due to their coupled high volumetric capacitance4 and high electronic conductivity,5 
+biocompatibility,6 electrochromic behavior,7 and optical absorption peaks in the UVNIR range;8 
+this has led to their use in applications including electrochemical energy storage,9 biomedicine,10 
+optoelectronics,11 and many others.12,13 
+MXenes are commonly synthesized through selective chemical etching from precursor 
+MAX phases, which have the general formula Mn1AXn, where the A layer is comprised of group 
+1314 elements (typically, Al for MXene synthesis).

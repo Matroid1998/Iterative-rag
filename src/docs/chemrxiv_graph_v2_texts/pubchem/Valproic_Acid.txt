@@ -1,0 +1,36 @@
+Name: Valproic Acid
+Text:
+Valproate (Valproic acid) can cause developmental toxicity according to an independent committee of scientific and health experts.
+Valproic acid is a clear colorless liquid. (NTP, 1992)
+Valproic acid is a branched-chain saturated fatty acid that comprises of a propyl substituent on a pentanoic acid stem. It has a role as an anticonvulsant, a GABA agent, an EC 3.5.1.98 (histone deacetylase) inhibitor, a teratogenic agent, a psychotropic drug, a neuroprotective agent and an antimanic drug. It is a branched-chain saturated fatty acid and a branched-chain fatty acid. It is functionally related to a valeric acid. It is a conjugate acid of a valproate.
+Valproic acid, or valproate, is an fatty acid derivative and anticonvulsant originally synthesized in 1881 by Beverly S. Burton. It enjoyed use as a popular organic solvent in industry and pharmaceutical manufacturing for nearly a century. In 1963, a serendipitous discovery was made by George Carraz during his investigations into the anticonvulsant effects of khelline when he found that all of his samples, dissolved in valproic acid, exerted a similar degree of anticonvulsive activity. It first received approval on February 28, 1978 from the FDA under the trade name Depakene.  Since then, it has been investigated for neuroprotective, anti-manic, and anti-migraine effects. It is currently a compound of interest in the field of oncology for its anti-proliferative effects and is the subject of many clinical trials in a variety of cancer types.
+Valproic acid is an Anti-epileptic Agent and Mood Stabilizer. The physiologic effect of valproic acid is by means of Decreased Central Nervous System Disorganized Electrical Activity.
+Valproate or valproic acid is a branched chain organic acid that is used as therapy of epilepsy, bipolar disorders and migraine headaches and is a well known cause of several distinctive forms of acute and chronic liver injury.
+Valproic acid has been reported in Valeriana officinalis with data available.
+Valproic Acid is a synthetic derivative of propylpentanoic acid with antiepileptic properties and potential antineoplastic and antiangiogenesis activities.  In epilepsy, valproic acid appears to act by increasing the concentration of gamma-aminobutyric acid (GABA) in the brain. This agent's antitumor and antiangiogenesis activities may be related to the inhibition of histone deacetylases and nitric oxide synthase, which results in the inhibition of nitric oxide synthesis. (NCI04)
+VALPROIC ACID is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1978 and has 13 approved and 84 investigational indications. This drug has a black box warning from the FDA.
+Valproic acid (VPA) is considered to be a drug of first choice and one of the most frequently-prescribed antiepileptic drugs worldwide for the therapy of generalized and focal epilepsies, including special epileptic. It is a broad-spectrum antiepileptic drug and is usually well tolerated. Rarely, serious complications may occur in some patients, including hemorrhagic pancreatitis, coagulopathies, bone marrow suppression, VPA-induced hepatotoxicity and encephalopathy, but there is still a lack of knowledge about the incidence and occurrence of these special side effects. VPA has been approved for stabilization of manic episodes in patients with bipolar disorder. It is also used to treat migraine headaches and schizophrenia. As the use of VPA increases, the number of both accidental and intentional exposures increases. This is paralleled by more reports of VPA-induced toxicity. VPA is relatively contraindicated in pregnancy due to its teratogenicity. It is a known folate antagonist, which can cause neural tube defects. Thus, folic acid supplements may alleviate teratogenic problems. Women who become pregnant whilst taking valproate should be counselled as to its risks. VPA is an inhibitor of the enzyme histone deacetylase 1 (HDAC1). HDAC1 is needed for HIV to remain in infected cells. Patients treated with valproic acid in addition to highly active antiretroviral therapy (HAART) showed a median 75% reduction in latent HIV infection. VPA is believed to affect the function of the neurotransmitter GABA (as a GABA transaminase inhibitor) in the human brain. Valproic Acid dissociates to the valproate ion in the gastrointestinal tract. (A7818, A7819).
+A fatty acid with anticonvulsant and anti-manic properties that is used in the treatment of EPILEPSY and BIPOLAR DISORDER. The mechanisms of its therapeutic actions are not well understood. It may act by increasing GAMMA-AMINOBUTYRIC ACID levels in the brain or by altering the properties of VOLTAGE-GATED SODIUM CHANNELS.
+See also: Valproate Sodium (has salt form); Divalproex Sodium (active moiety of); Magnesium Valproate (has salt form) ... View More ...
+Properties:safety: Corrosive and Irritant and Health Hazard
+smiles: CCCC(CCC)C(=O)O
+formula: C8H16O2
+chem_properties: Molecular Weight: 144.21 g/mol
+XLogP3: 2.8
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 5
+Exact Mass: 144.115029749 Da
+Monoisotopic Mass: 144.115029749 Da
+Topological Polar Surface Area: 37.3
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 93.4
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

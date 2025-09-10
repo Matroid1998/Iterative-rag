@@ -1,0 +1,13 @@
+Description:
+Produced from water and renewable electrical energy via electrolysis.
+
+Text:
+The PowertoX process is a promising technology to tackle the challenge of the storage of surplus 
+fluctuating renewable electricity by converting it into chemical energy. During the PowertoGas (PtG) 
+process, H2 is produced from water and renewable electrical energy via electrolysis and subsequently 
+converted with the carbon oxides CO or CO2 into CH4 (synthetic natural gas) by the Sabatier reactions 
+(Gtz et al., 2016; Rnsch et al., 2016; Kalz et al., 2017). In short and midterm, the most promising 
+carbon oxide sources are industrial exhaust gases, such as blastfurnace and converter gas from steel 
+industry, gases from cement production or biomass gasification, which potentially consist of COCO2 
+(COx) mixtures of variable composition over time (Sutton et al., 2001; Sch et al., 2014; UribeSoto et 
+al., 2017).

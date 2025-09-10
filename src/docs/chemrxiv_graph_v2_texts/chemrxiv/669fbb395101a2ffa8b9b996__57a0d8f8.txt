@@ -1,0 +1,27 @@
+Description:
+Compounds of ABX3 composition, where A is a small monovalent cation, B is a divalent metal cation, and X is a halide.
+
+Text:
+The favourable optoelectronic properties of halide perovskite nanocrystals (NCs), such as their energetic 
+tunability,1,2 fast radiative rates,3 and high photoluminescence quantum yields (PLQYs)4 make them 
+attractive for a variety of optoelectronic applications.5 Those include lightemitting diodes,6 lasers,7 
+photovoltaics,8 photodetectors,9 photocatalysis,10,11 and quantum light sources.1214 In general, halide 
+perovskites are of ABX3 composition, where A is a small monovalent cation, such as Cs, B is a divalent 
+metal cation, most commonly Pb2, and X is a halide, (Cl, Br, or I).
+
+
+---
+
+Description:
+Highly ionic compounds resulting in rapid reactions compared to covalently bound NCs.
+
+Text:
+Here, the 
+reaction temperature impacts the resultant NC size, but the highly ionic nature of halide perovskites results 
+in a much more rapid reaction compared to more covalently bound IIVI or IIIV NCs, and thus the 
+nucleation and growth processes cannot be temporally separated.1,21 Further, strongly confined NCs cannot 
+be synthesised by simply lowering the temperature, as  140 C, mixtures of cubic NCs and nanoplatelets 
+can be observed.22 Recently, strongly confined undoped NCs have been reported and obtained either 
+directly via precursor modification23,24 or through postsynthetic purification processes.25 To this point, no 
+generalisable synthesis method exists for doped NCs that allows for the same size control and NC 
+monodispersity as their undoped counterparts.

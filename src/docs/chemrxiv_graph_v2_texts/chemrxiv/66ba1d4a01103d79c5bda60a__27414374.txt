@@ -1,0 +1,48 @@
+Description:
+Undergoes ring hydrolysis when conjugated to cysteine in ADCs.
+
+Text:
+The released payload 
+components from ADC are subject to small molecule 
+metabolism by enzymes in the liver such as CYP450s.3 Another 
+scenario is when linkerpayload is still conjugated to the 
+antibody, but has been modified. Typically, conjugated linker
+payload remain quite stable in circulation because ADCs reside 
+in the extracellular environment and have limited exposure to 
+metabolizing enzymes. However, biotransformation can still 
+occur on the linkerpayload. One reported example is 
+maleimide ring hydrolysis commonly observed on cysteine 
+conjugated ADCs.
+
+
+---
+
+Description:
+Undergoes hydrolysis to prevent nonspecific deconjugation.
+
+Text:
+Once maleimide is hydrolyzed, the linker
+payload is no longer subject to elimination through retro
+Michael 
+reaction 
+and 
+thus 
+prevents 
+nonspecific 
+deconjugation.4,5 Another reported biotransformation is 
+hydrolysis on the payload structure.6 Other observed changes to 
+linkerpayload are cleavages or partial loss, such as hydrazone 
+cleavage, peptide bond cleavage, carbamate cleavage, and 
+disulfide cleavage, etc.3 In summary, the biotransformation of 
+conjugated payload is very different from released payload or 
+small molecules. Assessing biotransformation of conjugated payload is 
+important for evaluating efficacy because the payload 
+component may be still active depending on the change.7 
+Overall, ADC biotransformation information is valuable for 
+understanding in vivo stability and pharmacokinetics for 
+guiding drug design. Traditional 
+bioanalysis 
+supporting 
+pharmacokinetic 
+assessments involves monitoring surrogate analytes (peptides 
+or payload) via targeted bottomup based approach.

@@ -1,0 +1,25 @@
+Description:
+Used as a plasma source for depositing InN and as a thermal source for growing AlN and GaN.
+
+Text:
+Plasma ALD has successfully been used to deposit InN with both N2 57 and NH3 8 
+plasma together with TMI at temperatures below the thermal decomposition of InN. Precursors with chelating ligands forming NIn bonds have also been used successfully to 
+deposit InN with NH3 plasma.9,10 However, a thermal ALD process has not been shown 
+experimentally. This is in contrast to the other group 13N semiconductors AlN and GaN 
+which both has been grown using thermal NH3 and trimethyl aluminum (TMA, Al(CH3)3) 
+11,12 and trimethyl gallium (TMG, Ga(CH3) 3) 13,14 respectively.
+
+
+---
+
+Description:
+A molecule that is stable during ALD processes due to slow decomposition kinetics.
+
+Text:
+Since plasma ALD of InN gives films with TMI, and since the plasma discharge is 
+not activated when TMI is exposed to the NHx covered InN surface, it is reasonable to 
+assume that the limitation to a thermal ALD process for InN is found in the interaction 
+between NH3 and the In(CH3)x covered InN surface. Although it is thermodynamically 
+favorable for NH3 to decompose into N2 and H2 at the temperatures in the ALD processes, 
+the decomposition is limited by very slow kinetics at these temperatures, making NH3 
+stable during the residence time in ALD.15 The majority of the NH3 molecules are therefore

@@ -1,0 +1,20 @@
+Description:
+Nucleophiles used in the Suzuki-Miyaura reaction for carbon-carbon bond formation.
+
+Text:
+Transition metalcatalyzed crosscoupling reactions have 
+revolutionized the construction of CC bonds, as demon
+strated in several name reactions.1 Among these cross
+coupling processes, the SuzukiMiyaura reaction is one 
+of the most utilized methods for carboncarbon bond 
+formation owing to its extensive reaction scope, broad 
+functional group tolerance, mild reaction conditions, as 
+well as the stability and availability of organoboron rea
+gents (Scheme 1a).2 Despite the Suzuki reaction being 
+commonly used for constructing C(sp2)C(sp2) bonds, 
+extending this process to form C(sp3)C(sp2) bonds using 
+alkylboron nucleophiles still presents a significant chal
+lenge.3 The utilization of C(sp3) coupling partners in 
+transition metalcatalyzed reactions is hampered by slow 
+metal transmetalation and the susceptibility of alkyl lig
+ands to undergo hydride elimination.

@@ -1,0 +1,43 @@
+Description:
+A stable compound with a wide HOMO-LUMO gap and four stable C-H bonds, used for hydrogen production.
+
+Text:
+Earth is home to rich reserves of methane, making it an attractive feedstock and a foremost
+competitor for the production of green fuel. 1 The myriad occurrence of methane can be
+attributed to its stable nature. Higher symmetry (Td) along with close shell electronic con
+ guration, wide HOMOLUMO gap (8.9 eV), and four stable CH bonds (Ebd 4.5 eV),
+makes it thermodynamically and kinetically stable at room temperature. Given the signi 
+cant mass percentage of hydrogen (25.13) in methane, it is widely used for hydrogen pro
+duction.2 Steam Methane Reforming (SMR) and FischerTropsch (FT) synthesis are widely
+used processes for conversion of methane to hydrogen as well as to valueadded products like
+methanol, formic acid, formaldehyde, higher hydrocarbons, and FT fuels.
+
+
+---
+
+Description:
+A stable compound resistant to electrophilic and nucleophilic attacks, with CH bond cleavage as the rate-limiting step in conversion reactions.
+
+Text:
+However, stability
+of methane makes it resistant to electrophilic and nucleophilic attacks. For most methane
+conversion reactions, the rst CH bond cleavage is the primary and the ratelimiting step. This motivates the rational design of a catalyst aiming at reducing the activation barrier for
+CH bond dissociation. Planar and stepped nickel surfaces are goto catalysts used industrially in the aforemen
+tioned processes, primarily because Ni is procured at cheap rates and portrays excellent
+reactivity towards methane. The drawback of Ni catalysts is that they can completely dehy
+drogenate methane into carbon and hydrogen, which causes coking. Nullifying or preventing
+coking in methane conversion reactions is challenging area of current research.
+
+
+---
+
+Description:
+A compound investigated for activation on various catalysts.
+
+Text:
+3,4 The lit
+erature cites multiple studies in both theoretical and experimental verticals across various
+catalyst classes discussing methane activation. For example, it has been investigated on
+supported metal clusters,5 noble metal surfaces,69 mixedmetal alloys,10 zeolites,11 metal
+organic frameworks(MOFs),12 metal oxides,1315 perovskite,16 and supported singleatom
+2

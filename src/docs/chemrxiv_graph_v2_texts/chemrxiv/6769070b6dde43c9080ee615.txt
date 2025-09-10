@@ -1,0 +1,15 @@
+Description:
+Used in battery electrode materials.
+
+Text:
+The
+DigCat online platform then leverages its repository of knowledge and models to execute an
+autonomous workow for catalyst design. This design process involves ve key steps. First, the system utilizes LLMs combined with
+experimental performance and structural databases of catalytic materials. By analyzing ex
+isting material compositions and structures, it generates potential material structure and
+composition schemes. In addition to analyzing catalystspecic databases, the platform also
+integrates databases from other material domains, such as solid electrolytes, thermoelectric
+materials, and lithium battery electrode materials. By leveraging stability and fundamen
+tal performance insights from these broader material databases, the platform signicantly
+2
+httpsdoi.org10.26434chemrxiv2024jsqqn ORCID httpsorcid.org0000000163479344 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

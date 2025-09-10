@@ -1,0 +1,11 @@
+Description:
+A reference electrode used to measure oxidative stability.
+
+Text:
+Polyethylene oxide or glycol (PEOPEG) is the archetypal polymer 
+electrolyte and has been studied for over four decades.1517 However, PEO still suffers from low room 
+temperature ionic conductivity (105 Scm)17 and poor oxidative stability (4 V vs LiLi)18, preventing its 
+use either as a standalone SSE or as part of a cathode composite where voltages cutoffs typically exceed 4 
+VLi (e.g., with LiCoO2, LiNixMnyCozO2). The oxidative challenges facing PEO also plague small ether 
+molecules.19 New polymer backbone chemistries that do not require the ether group for ion conduction are 
+needed.

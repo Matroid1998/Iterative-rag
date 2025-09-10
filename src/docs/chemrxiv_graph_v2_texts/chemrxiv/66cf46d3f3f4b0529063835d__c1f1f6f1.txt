@@ -1,0 +1,15 @@
+Description:
+Materials with remarkable optoelectronic properties, used as photovoltaic absorbers.
+
+Text:
+Xray photoelectron spectroscopy (XPS) is one of the most widely used surface analysis techniques, 
+and has become particularly important in analysis of metal halide perovskites.1 This class of 
+materials has been of intense interest for over a decade because of potential applications as 
+photovoltaic absorbers, rivalling well established technologies owing to their remarkable 
+optoelectronic properties, facile processing routes and commerciallyrelevant PCEs.2 An important 
+focus of current perovskite research is the substitution of lead for less toxic tin.3 Sn(II) has a 5s2 
+valence electron configuration, analogous to the 6s2 configuration of Pb(II).4 Tin based perovskites 
+typically display narrower band gaps and may avoid the need for encapsulation, which is necessary 
+for Pbbased perovskites.5 
+Sn based perovskites have shown a significant increase in photovoltaic efficiency in the past decade, 
+but one of the key challenges is control of oxidation state.

@@ -1,0 +1,29 @@
+Name: Triclocarban
+Text:
+Triclocarban appears as fine white plates or white powder. (NTP, 1992)
+Triclocarban is a member of the class of phenylureas that is urea substituted by a 4-chlorophenyl group and a 3,4-dichlorophenyl group at positions 1 and 3 respectively. It has a role as a disinfectant, an antiseptic drug, an antimicrobial agent, an environmental contaminant and a xenobiotic. It is a dichlorobenzene, a member of monochlorobenzenes and a member of phenylureas. It is functionally related to a 1,3-diphenylurea.
+Triclocarban, with the chemical formula C13H9Cl3N2O is an antibacterial agent that is particularly effective against Gram-positive bacteria such as *Staphylococcus aureus*. It is a bacteriostatic compound that has been found in antibacterial soaps and other personal care products. In 2017, the US FDA prohibited the marketing of over-the-counter (OTC) consumer antiseptic wash products containing triclocarban due to negative health effects such as bacterial resistance or hormonal effects,.
+Triclocarban is a triclosan analogue with an antibacterial property. Triclocarban exerts its effect by inhibiting the activity of enoyl-(acyl-carrier protein) (ACP) reductase, widely distributed in bacteria, fungi and plants. ACP reductase catalyses the last step in each cycle of fatty acid elongation in the type II fatty acid synthase systems. As a result, this agent interrupts cell membrane synthesis and leads to bacterial growth inhibition.
+TRICLOCARBAN is a small molecule drug with a maximum clinical trial phase of IV.
+Properties:safety: Environmental Hazard
+smiles: C1=CC(=CC=C1NC(=O)NC2=CC(=C(C=C2)Cl)Cl)Cl
+formula: C13H9Cl3N2O
+chem_properties: Molecular Weight: 315.6 g/mol
+XLogP3: 5.3
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 2
+Exact Mass: 313.978046 Da
+Monoisotopic Mass: 313.978046 Da
+Topological Polar Surface Area: 41.1
+Heavy Atom Count: 19
+Formal Charge: 0
+Complexity: 308
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

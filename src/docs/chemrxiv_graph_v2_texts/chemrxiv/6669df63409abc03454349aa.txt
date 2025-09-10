@@ -1,0 +1,15 @@
+Description:
+A building block used in palladium-based supramolecular cages.
+
+Text:
+For instance, the majority of metal sites in palladiumbased 
+supramolecular cages are derivatives of the tetrakis(pyridine)palladium(II) building block.8 
+Various methodologies have been used to model metalcontaining systems, including quantum 
+mechanics (QM),912 molecular mechanics (MM) such as molecular dynamics (MD) and Monte 
+Carlo (MC) simulations,12 and hybrid QMMM.11,12 These techniques have been applied to 
+model metalloproteins,13,14 metalloorganic cages,15,16 and MOFs.1719 MM approaches, in 
+particular, offer a significant advantage over QM methods in terms of computational costs.12 
+MM based approaches for deriving forcefield parameters for metal ions, include the non
+bonded,20,21,3032,2229 cationic dummy,3342 and covalent models (Figure 1b).4347 Nonbonded 
+models describe metal centers as van der Waals spheres with integer charge, describing ligand
+metal interactions through electrostatic Coulombic and LennardJones (LJ) terms.

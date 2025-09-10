@@ -1,0 +1,12 @@
+Description:
+Utilized as a natural electron acceptor in oxidase-based sensors.
+
+Text:
+The most ubiquitous interference is molecular oxygen, which is difficult to avoid in pointof
+use sensing due to measurements being conducted in ambient air or oxygenrich media such as 
+blood (10). Oxygen can interfere with all types of oxidoreductasebased electrochemical 
+biosensors through various mechanisms. For reductasebased sensors (1116), enzymatic 
+analyte reduction typically requires applied electrode potentials that are more negative than the 
+potential for the O2 reduction reaction. As a result, O2 is reduced directly at the electrode, 
+leading to an overestimation of the analyte concentration (1216). In contrast, in oxidasebased 
+sensors, the oxidase intrinsically utilize O2 as a natural electron acceptor (2).

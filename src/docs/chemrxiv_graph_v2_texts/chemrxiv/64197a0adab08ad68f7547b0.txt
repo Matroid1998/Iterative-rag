@@ -1,0 +1,14 @@
+Description:
+Used as active triggers in signal-amplified responsive synthetic materials.
+
+Text:
+Traditionally, chemosensors allow for sensitive detection by amplification of a 
+reporter signal via a signal detection event, which is frequently coupled with 
+photoluminescence or colorimetry to obtain an optical readout.3 A variety of chemical signals 
+have been used as active triggers to initiate the selfpropagating amplification reaction on 
+reagents, including hydrogen peroxide7, thiols6,17 and fluoride5,1821, amongst others4,8,22. So far, studies on signalamplified responsive synthetic materials using small molecule 
+reagents23,24 or selfimmolative polymers2527 have been limited due to their challenging 
+synthetic procedures to access reagents or polymers, and issues with background 
+interference.3,10,28 An alternative approach to achieve bioinspired amplified response in 
+synthetic soft materials is the mercaptoethanol (BME) or dithiothreitol (DTT)mediated 
+amplification cascade based on Meldrums acid conjugated polymeric materials15,28.

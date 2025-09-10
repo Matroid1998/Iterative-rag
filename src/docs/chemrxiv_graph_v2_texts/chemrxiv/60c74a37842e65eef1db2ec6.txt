@@ -1,0 +1,17 @@
+Description:
+Used in two-step hydrogenation of an unsaturated precursor molecule.
+
+Text:
+In 
+ZULF NMR experiments, enhanced signals can be 
+observed if there is a heteronuclear spin present in the 
+molecule which renders the parahydrogenderived protons 
+magnetically inequivalent 31. In this work we study twostep hydrogenation of an 
+unsaturated 
+precursor 
+molecule 
+with 
+paraenriched 
+hydrogen gas using ZULF NMR. This is done by 
+continuously bubbling the hydrogen gas into samples 
+containing dissolved dimethyl acetylenedicarboxylate

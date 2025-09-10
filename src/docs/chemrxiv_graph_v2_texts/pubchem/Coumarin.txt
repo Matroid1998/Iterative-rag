@@ -1,0 +1,31 @@
+Name: Coumarin
+Text:
+Coumarin appears as colorless crystals, flakes or colorless to white powder with a pleasant fragrant vanilla odor and a bitter aromatic burning taste. (NTP, 1992)
+Coumarin is a chromenone having the keto group located at the 2-position. It has a role as a fluorescent dye, a plant metabolite and a human metabolite.
+Coumarin has been reported in Caragana frutex, Eupatorium japonicum, and other organisms with data available.
+Coumarin is o hydroxycinnamic acid. Pleasant smelling compound found in many plants and released on wilting. Has anticoagulant activity by competing with Vitamin K.
+COUMARIN is a small molecule drug with a maximum clinical trial phase of IV.
+Coumarin is a chemical compound/poison found in many plants, notably in high concentration in the tonka bean, woodruff, and bison grass. It has a sweet scent, readily recognised as the scent of newly-mown hay. It has clinical value as the precursor for several anticoagulants, notably warfarin. --Wikipedia. Coumarins, as a class, are comprised of numerous naturally occurring benzo-alpha-pyrone compounds with important and diverse physiological activities. The parent compound, coumarin, occurs naturally in many plants, natural spices, and foods such as tonka bean, cassia (bastard cinnamon or Chinese cinnamon), cinnamon, melilot (sweet clover), green tea, peppermint, celery, bilberry, lavender, honey (derived both from sweet clover and lavender), and carrots, as well as in beer, tobacco, wine, and other foodstuffs. Coumarin concentrations in these plants, spices, and foods range from <1 mg/kg in celery, 7000 mg/kg in cinnamon, and up to 87,000 mg/kg in cassia. An estimate of human exposure to coumarin from the diet has been calculated to be 0.02 mg/kg/day. Coumarin is used as an additive in perfumes and fragranced consumer products at concentrations ranging from <0.5% to 6.4% in fine fragrances to <0.01% in detergents. An estimate for systemic exposure of humans from the use of fragranced cosmetic products is 0.04 mg/kg BW/day, assuming complete dermal penetration. The use of coumarin as a food additive was banned by the FDA in 1954 based on reports of hepatotoxicity in rats. Due to its potential hepatotoxic effects in humans, the European Commission restricted coumarin from naturals as a direct food additive to 2 mg/kg food/day, with exceptions granting higher levels for alcoholic beverages, caramel, chewing gum, and certain 'traditional foods'. In addition to human exposure to coumarin from dietary sources and consumer products, coumarin is also used clinically as an antineoplastic and for the treatment of lymphedema and venous insufficiency. Exposure ranges from 11 mg/day for consumption of natural food ingredients to 7 g/day following clinical administration. Although adverse effects in humans following coumarin exposure are rare, and only associated with clinical doses, recent evidence indicates coumarin causes liver tumors in rats and mice and Clara cell toxicity and lung tumors in mice. The multiple effects as well as the ongoing human exposure to coumarin have resulted in a significant research effort focused on understanding the mechanism of coumarin induced toxicity/carcinogenicity and its human relevance. These investigations have revealed significant species differences in coumarin metabolism and toxicity such that the mechanism of coumarin induced effects in rodents, and the relevance of these findings for the safety assessment of coumarin exposure in humans are now better understood. In October 2004, the European Food Safety Authority (EFSA, 2004) reviewed coumarin to establish a tolerable daily intake (TDI) in foods. EFSA issued an opinion indicating that coumarin is not genotoxic, and that a threshold approach to safety assessment was most appropriate. EFSA recommended a TDI of 0 to 0.1 mg/kg BW/day. Including dietary contributions, the total human exposure is estimated to be 0.06 mg/kg/day. As a pharmaceutical, coumarin has been used in diverse applications with a wide variety of dosing regimens. Unlike coumadin and other coumarin derivatives, coumarin has no anti-coagulant activity. However, at low doses (typically 7 to 10 mg/day), coumarin has been used as a 'venotonic' to promote vein health and small venule blood flow. Additionally, coumarin has been used clinically in the treatment of high-protein lymphedema of various etiologies. (A7913).
+See also: Cinnamon (part of); Chinese Cinnamon (part of); Peumus boldus leaf (part of) ... View More ...
+Properties:safety: Acute Toxic and Irritant
+smiles: C1=CC=C2C(=C1)C=CC(=O)O2
+formula: C9H6O2
+chem_properties: Molecular Weight: 146.14 g/mol
+XLogP3: 1.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 146.036779430 Da
+Monoisotopic Mass: 146.036779430 Da
+Topological Polar Surface Area: 26.3
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 196
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

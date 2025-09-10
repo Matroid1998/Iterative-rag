@@ -1,0 +1,27 @@
+Name: Doramapimod
+Text:
+Doramapimod is a member of the class of pyrazoles that is an immunomodulator used for treatment of rheumatoid arthritis, Crohn's disease and psoriasis. It has a role as an immunomodulator and an EC 2.7.11.24 (mitogen-activated protein kinase) inhibitor. It is a member of morpholines, a member of pyrazoles, a member of naphthalenes, a member of ureas and an aromatic ether.
+Doramapimod is a P38 MAP kinase inhibitor.
+DORAMAPIMOD is a small molecule drug with a maximum clinical trial phase of II (across all indications) and has 2 investigational indications.
+Properties:safety: Irritant
+smiles: CC1=CC=C(C=C1)N2C(=CC(=N2)C(C)(C)C)NC(=O)NC3=CC=C(C4=CC=CC=C43)OCCN5CCOCC5
+formula: C31H37N5O3
+chem_properties: Molecular Weight: 527.7 g/mol
+XLogP3: 5.7
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 8
+Exact Mass: 527.28964006 Da
+Monoisotopic Mass: 527.28964006 Da
+Topological Polar Surface Area: 80.7
+Heavy Atom Count: 39
+Formal Charge: 0
+Complexity: 777
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

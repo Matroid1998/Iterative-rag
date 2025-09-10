@@ -1,0 +1,15 @@
+Description:
+React with carboxylic acids in amidation to form amides.
+
+Text:
+The formation of the amide bond is of utmost importance in chemical synthesis. Amidebased 
+compounds find their application in pharmaceuticals,1 agrochemicals,2 polymers,3 etc. For 
+example, around a quarter of marketed drugs contain an amide bond,1 and amide coupling is 
+the most prevalent chemical transformation in drug discovery.4 At the same time, academic 
+and industrial researchers call for improvement in the sustainability of chemical processes that 
+
+lead to amides as a top priority,5 in line with the principles of green chemistry and sustainable 
+development.6 Among different strategies for the preparation of amides, the most 
+straightforward is the amidation of carboxylic acids and amines (Figure 1). Their condensation 
+using coupling reagents is the goto approach for the largescale preparation of amides.7 
+However, such an approach suffers from considerable sustainability drawbacks.

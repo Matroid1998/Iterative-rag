@@ -1,0 +1,14 @@
+Description:
+A moiety that quenches fluorescence in fluorophores and can be cleaved by reductase-catalyzed reactions.
+
+Text:
+These fluorescence probes initially have no fluorescence due to fluorescence 
+quenching by the azobenzene moiety incorporated in the fluorophore. Upon cleavage of the azo group 
+by reductasecatalyzed reactions that are accelerated in hypoxia, corresponding fluorescent 
+rhodamines are produced, enabling selective detection of hypoxia. However, the oxygen concentration 
+threshold of these rhodaminebased hypoxia probes varies depending on the fluorescent scaffold. For 
+example, MASR and 2,6diMe azoSiR640 switched on at around 0.1 and 5 oxygen concentration, 
+respectively.21,23 These characteristics may be due to differences in the rate of reverse oxidation of the 
+azo moiety depending on the fluorescent scaffold (Figure S1). Thus, we considered that the 
+development of NIR probes to selectively detect severe hypoxia of around 1 oxygen concentration 
+might be achieved by using different fluorophores.

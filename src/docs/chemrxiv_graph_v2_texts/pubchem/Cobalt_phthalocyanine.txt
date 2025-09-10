@@ -1,0 +1,23 @@
+Name: Cobalt phthalocyanine
+Text:
+Properties:safety: Health Hazard
+smiles: C1=CC=C2C(=C1)C3=NC4=NC(=NC5=C6C=CC=CC6=C([N-]5)N=C7C8=CC=CC=C8C(=N7)N=C2[N-]3)C9=CC=CC=C94.[Co+2]
+formula: C32H16CoN8
+chem_properties: Molecular Weight: 571.5 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 0
+Exact Mass: 571.082986 Da
+Monoisotopic Mass: 571.082986 Da
+Topological Polar Surface Area: 79.3
+Heavy Atom Count: 41
+Formal Charge: 0
+Complexity: 709
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

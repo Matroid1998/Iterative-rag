@@ -1,0 +1,34 @@
+Name: Cholic Acid
+Text:
+Cholic acid is a bile acid that is 5beta-cholan-24-oic acid bearing three alpha-hydroxy substituents at position 3, 7 and 12. It has a role as a human metabolite and a mouse metabolite. It is a bile acid, a C24-steroid, a 3alpha-hydroxy steroid, a 7alpha-hydroxy steroid, a 12alpha-hydroxy steroid and a trihydroxy-5beta-cholanic acid. It is a conjugate acid of a cholate.
+Cholic acid is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Cholic acid is a Bile Acid.
+Cholic acid is a naturally occurring bile acid that is used to treat patients with genetic deficiencies in the synthesis of bile acids. When given in high doses, cholic acid replacement therapy has been linked to minor elevations in serum aminotransferase levels, but it has not been linked to instances of clinically apparent acute liver injury with jaundice.
+Cholic acid has been reported in Bufo bufo, Homo sapiens, and Caenorhabditis elegans with data available.
+Cholate is an ester or salt of the bile acid cholic acid that is synthesized in the liver from cholesterol, with surfactant and signaling activities in the liver and intestine. In the intestine, cholate acts as a surfactant that promotes the absorption of dietary lipids and fat-soluble vitamins. In the liver, cholate's surfactant activity facilitates biliary excretion of xenobiotics and metal cations. Cholate binds to nuclear receptors, including farnesoid X receptor (FXR), pregnane X receptor (PXR), and the vitamin D receptor (VDR), which directly modulate gene transcription. Cholate may also be used as a biomarker for hepatotoxicity.
+CHOLIC ACID is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2013 and has 4 approved and 2 investigational indications.
+Cholic acid is a major primary bile acid produced in the liver and usually conjugated with glycine or taurine. It facilitates fat absorption and cholesterol excretion. Bile acids are steroid acids found predominantly in bile of mammals. The distinction between different bile acids is minute, depends only on presence or absence of hydroxyl groups on positions 3, 7, and 12. Bile acids are physiological detergents that facilitate excretion, absorption, and transport of fats and sterols in the intestine and liver. Bile acids are also steroidal amphipathic molecules derived from the catabolism of cholesterol. They modulate bile flow and lipid secretion, are essential for the absorption of dietary fats and vitamins, and have been implicated in the regulation of all the key enzymes involved in cholesterol homeostasis. Bile acids recirculate through the liver, bile ducts, small intestine and portal vein to form an enterohepatic circuit. They exist as anions at physiological pH and, consequently, require a carrier for transport across the membranes of the enterohepatic tissues. The unique detergent properties of bile acids are essential for the digestion and intestinal absorption of hydrophobic nutrients. Bile acids have potent toxic properties (e.g., membrane disruption) and there are a plethora of mechanisms to limit their accumulation in blood and tissues.  (A3407, A3408, A3409, A3410).
+A major primary bile acid produced in the liver and usually conjugated with glycine or taurine. It facilitates fat absorption and cholesterol excretion.
+See also: Cholic acid; ferrous gluconate; honey (component of).
+Properties:safety: Irritant
+smiles: C[C@H](CCC(=O)O)[C@H]1CC[C@@H]2[C@@]1([C@H](C[C@H]3[C@H]2[C@@H](C[C@H]4[C@@]3(CC[C@H](C4)O)C)O)O)C
+formula: C24H40O5
+chem_properties: Molecular Weight: 408.6 g/mol
+XLogP3: 3.6
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 4
+Exact Mass: 408.28757437 Da
+Monoisotopic Mass: 408.28757437 Da
+Topological Polar Surface Area: 98
+Heavy Atom Count: 29
+Formal Charge: 0
+Complexity: 637
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 11
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

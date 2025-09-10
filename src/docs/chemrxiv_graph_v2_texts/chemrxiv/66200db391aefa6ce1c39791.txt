@@ -1,0 +1,32 @@
+Description:
+A chiral building block used in asymmetric synthetic methodologies.
+
+Text:
+The epoxide, (R)1,2epoxyhex5ene (1) is an important chiral building block. It has been 
+used in a number of asymmetric synthetic methodologies, including the syntheses of chiral 
+isothiazolidine1,1dioxides,1 
+benzoxathiazepine1,1dioxides,2 
+butanolides,3 
+hydroxy 
+morpholine amides,4 and varied alcohols. Several natural product syntheses have also utilized 
+compound 1, such as in the syntheses of ()gigantecin and ()14deoxy9oxygigantecin,5 
+pyragonicin,6 amphidinolides C and F,7,8 and Sch725674 macrolactones.9 Biologically active 
+compounds and pharmaceutical substances have also been prepared as single enantiomers from 
+this chiral epoxide.
+
+
+---
+
+Description:
+A chiral compound that reacts with catalytic lithium 2,2,6,6tetramethylpiperidide to insert into an olefin group.
+
+Text:
+For example, compound 1 is used in the synthesis of the C20C26 fragment of 
+the anticancer drug  Halaven.10,11 A kgscale synthesis of the bicyclic ketone, (1R,5S)
+bicyclo3.1.0hexan2one (3), has been reported and this synthetic method begins with the chiral 
+epoxide 1 (Scheme 1).12 In this transformation, the chiral epoxide is reacted with catalytic lithium 
+2,2,6,6tetramethylpiperidide (TMP) which allows insertion into the olefin group to provide the 
+httpsdoi.org10.26434chemrxiv2024fj7mp ORCID httpsorcid.org0009000980362004 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0
+
+3
+bicyclic alcohol (2). Oxidation of the alcohol gives compound 3 as the single enantiomer.

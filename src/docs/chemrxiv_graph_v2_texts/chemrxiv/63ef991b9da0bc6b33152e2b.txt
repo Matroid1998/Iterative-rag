@@ -1,0 +1,21 @@
+Description:
+Ions have a long diffusion path within composite cathodes, limiting rate capability and specific power.
+
+Text:
+While such composite cathodes can provide 
+high energies, the long diffusion path of lithium ions within the composite cathode limits their 
+rate capability, and thus their specific power 5 with record values up to 2.6 kWkg1.6 In 
+addition, capacity fading and lithium dendrite growth at high rates is an ongoing challenge and 
+poses a significant limitation and safety risk when combined with flammable organic liquid 
+electrolytes.79 
+Solidstate batteries (SSBs) have attracted great interest for their ability to increase safety at 
+high chargingdischarging rates.10 However, the specific energy and power of SSBs lag behind 
+that of conventional Liion batteries because current solid separators are significantly thicker 
+than the separators used in Liion batteries with organic liquid electrolytes.11,12 
+Vacuumbased methods enable the fabrication of thinfilm SSBs with electrode thicknesses on 
+the order of micrometers in combination with (sub)micrometersthick separators and current 
+collectors.13,14 In contrast to wetchemical methods, solidstate thin films prepared by vacuum
+based methods such as sputtering are dense and homogeneous and offer precise control of film 
+thickness and composition.15 Due to the short diffusion paths, thinfilm SSBs offer more than 
+ten times higher chargingdischarging rates than composite cathodes16,17, enabling high powers 
+yet with limited energy due to low areal capacities.

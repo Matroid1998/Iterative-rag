@@ -1,0 +1,31 @@
+Description:
+A molecule that can bind to enzymes but may not convert substrates.
+
+Text:
+If GtPyNP could bind but not convert 1a, we 
+reasoned that the position of the equilibrium between 1a and 
+1a would determine the ratio of potentially active enzyme (1a 
+bound to GtPyNP) versus inactive enzyme (1a bound to 
+GtPyNP), assuming that catalysis is a ratelimiting step. Given 
+the highly solventexposed active site of pyrimidine nucleoside 
+phosphorylases in the open state, we expected that GtPyNP 
+should be able to accommodate the slightly twisted and 
+sterically more demanding borate ester 1a and allow its 
+equilibration with the free nucleoside substrate 1a while bound 
+to the enzyme. Phenomenologically, such a process would 
+resemble a classical noncompetitive inhibition, consistent 
+with our kinetic data.
+
+
+---
+
+Description:
+A compound studied in complex with uridine using MD simulations based on a crystal structure.
+
+Text:
+Indeed, MD simulations (using 
+GROMACS59,60 with the CHARMM3661 force field) based on 
+our recently disclosed crystal structure of GtPyNP in complex 
+with uridine (PDB ID 7m7k,4 see the SI for details) yielded 
+several insights in support of the proposed model. First, an 
+analysis of the clustered states over 50 ns simulation time

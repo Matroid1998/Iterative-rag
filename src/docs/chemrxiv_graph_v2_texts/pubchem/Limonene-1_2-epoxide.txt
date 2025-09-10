@@ -1,0 +1,26 @@
+Name: Limonene-1,2-epoxide
+Text:
+Limonene 1,2-epoxide is an epoxide resulting from the formal epoxidation of the cyclic double bond of limonene. It has a role as a plant metabolite. It is a limonene monoterpenoid and an epoxide.
+See also: Limonene oxide, cis-(-)- (annotation moved to); Limonene oxide, (+)- (annotation moved to).
+Properties:safety: Irritant
+smiles: CC(=C)C1CCC2(C(C1)O2)C
+formula: C10H16O
+chem_properties: Molecular Weight: 152.23 g/mol
+XLogP3: 2.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 1
+Exact Mass: 152.120115130 Da
+Monoisotopic Mass: 152.120115130 Da
+Topological Polar Surface Area: 12.5
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 197
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 3
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

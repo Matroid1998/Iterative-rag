@@ -1,0 +1,30 @@
+Name: Olaparib
+Text:
+Olaparib is a member of the class of N-acylpiperazines obtained by formal condensation of the carboxy group of 2-fluoro-5-[(4-oxo-3,4-dihydrophthalazin-1-yl)methyl]benzoic acid with the free amino group of N-(cyclpropylcarbonyl)piperazine; used to treat advanced ovarian cancer. It has a role as an antineoplastic agent, an EC 2.4.2.30 (NAD(+) ADP-ribosyltransferase) inhibitor and an apoptosis inducer. It is a N-acylpiperazine, a member of cyclopropanes, a member of monofluorobenzenes and a member of phthalazines.
+Olaparib is a selective and potent inhibitor of poly (ADP-ribose) polymerase (PARP) enzymes, PARP1 and PARP2. PARP inhibitors represent a novel class of anti-cancer therapy and they work by taking advantage of a defect in DNA repair in cancer cells with BRCA mutations and inducing cell death.   Olaparib is used to treat a number of BRCA-associated tumours, including ovarian cancer, breast cancer, pancreatic cancer, and prostate cancer. It was first approved by the FDA and EU in December 2014, and by Health Canada in April 2016.
+Olaparib is a Poly(ADP-Ribose) Polymerase Inhibitor. The mechanism of action of olaparib is as a Poly(ADP-Ribose) Polymerase Inhibitor.
+Olaparib is a small molecule inhibitor of poly ADP-ribose polymerase and is used as an antineoplastic agent in the therapy of refractory and advanced ovarian carcinoma. Olaparib therapy is associated with a low rate of transient elevations in serum aminotransferase during therapy and has not been linked to instances of clinically apparent liver injury.
+Olaparib is a small molecule inhibitor of the nuclear enzyme poly(ADP-ribose) polymerase (PARP) with potential chemosensitizing, radiosensitizing, and antineoplastic activities. Olaparib selectively binds to and inhibits PARP, inhibiting PARP-mediated repair of single strand DNA breaks; PARP inhibition may enhance the cytotoxicity of DNA-damaging agents and may reverse tumor cell chemoresistance and radioresistance. PARP catalyzes post-translational ADP-ribosylation of nuclear proteins and can be activated by single-stranded DNA breaks.
+OLAPARIB is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2014 and has 5 approved and 63 investigational indications.
+Properties:safety: Acute Toxic and Irritant and Health Hazard and Environmental Hazard
+smiles: C1CC1C(=O)N2CCN(CC2)C(=O)C3=C(C=CC(=C3)CC4=NNC(=O)C5=CC=CC=C54)F
+formula: C24H23FN4O3
+chem_properties: Molecular Weight: 434.5 g/mol
+XLogP3: 1.9
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 4
+Exact Mass: 434.17541877 Da
+Monoisotopic Mass: 434.17541877 Da
+Topological Polar Surface Area: 82.1
+Heavy Atom Count: 32
+Formal Charge: 0
+Complexity: 790
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

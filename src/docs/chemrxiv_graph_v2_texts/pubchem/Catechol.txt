@@ -1,0 +1,31 @@
+Name: Catechol
+Text:
+Catechol can cause cancer according to The World Health Organization's International Agency for Research on Cancer (IARC).
+Solid; white; odorless. Sinks and mixes with water. (USCG, 1999)
+Catechol is a benzenediol comprising of a benzene core carrying two hydroxy substituents ortho to each other. It has a role as a genotoxin, an allelochemical and a plant metabolite. It is a conjugate acid of a catecholate(1-).
+Pyrocatechol is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Exposure to catechol may occur during its manufacture and use. Skin contact with catechol causes eczematous dermatitis in humans. In humans, absorption through the skin results in an illness resembling that induced by phenol, except convulsions are more pronounced. Large doses of catechol can cause depression of the central nervous system (CNS) and a prolonged rise of blood pressure in animals. Due to the lack of information regarding the duration of exposure in the above studies, it is not clear whether these health effects were observed following acute (short-term) or chronic (long-term) exposure. Tumors in the glandular stomach were observed in orally exposed rats. The International Agency for Research on Cancer (IARC) has classified catechol as a Group 2B, possible human carcinogen. EPA has not classified catechol with respect to potential carcinogenicity.
+Catechol has been reported in Pinus densiflora, Illicium simonsii, and other organisms with data available.
+Pyrocatechol, often known as catechol or benzene-1,2-diol, is a benzenediol, with formula C6H4(OH)2. It was first prepared in 1839 by H. Reinsch by distilling catechin (the juice of Mimosa catechu). This colourless compound occurs naturally, but about 20000 tons are manufactured each year, mainly as precursors to pesticides, flavors, and fragrances. Its sulfonic acid is often present in the urine of many mammals. Small amounts of catechol occur naturally in fruits and vegetables, along with the enzyme polyphenol oxidase. Upon mixing the enzyme with the substrate and exposure to oxygen (as when a potato or apple is cut), the colorless catechol oxidizes to reddish-brown benzoquinone derivatives. The enzyme is inactivated by adding an acid, such as lemon juice, or by refrigeration. Excluding oxygen also prevents the browning reaction. Catechol melts at 28 oC and boils at 250 oC. It is employed in medicine as an expectorant. The dimethyl ether or veratrol is also used in medicine. Many other pyrocatechin derivatives have been suggested for therapeutic application.
+Properties:safety: Acute Toxic and Health Hazard
+smiles: C1=CC=C(C(=C1)O)O
+formula: C6H6O2
+chem_properties: Molecular Weight: 110.11 g/mol
+XLogP3: 0.9
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 110.036779430 Da
+Monoisotopic Mass: 110.036779430 Da
+Topological Polar Surface Area: 40.5
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 62.9
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

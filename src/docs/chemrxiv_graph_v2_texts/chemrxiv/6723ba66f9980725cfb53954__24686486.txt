@@ -1,0 +1,13 @@
+Description:
+A base used in conjunction with HATU for chemical reactions.
+
+Text:
+Orthogonal deprotection and decoration of 6,7
+spiroacetal scaffold 21a 
+
+aReaction conditions (i) H2, 10 PdC, THFH2O 41, rt, 18 h, 
+85 yield; (ii) 4methyloxazole5carboxylic acid, HATU, i
+Pr2NEt, CH2Cl2, 0 Crt, 16 h, 79; or 2,4difluoro1isocyanato
+benzene, Et3N, CH2Cl2, rt, 2 h, 89; or pyridine3sulfonyl chlo
+ride, Et3N, CH2Cl2, 0 Crt, 16 h 89. HCl (4 M), 1,4dioxane, rt, 
+34 h.

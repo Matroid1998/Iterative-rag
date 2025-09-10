@@ -1,0 +1,26 @@
+Description:
+A sterically hindered but reactive compound used in de novo construction of axially chiral biaryls.
+
+Text:
+In prior studies, a sterically hindered but reactive aryl halide has been typically employed toward 
+de novo construction of axially chiral biaryls (Scheme 1a). Early studies took advantage of the 
+Suzuki reactions for atroposelective synthesis of CC biaryls.5a,10 The Song group11 further 
+developed threecomponent Suzuki reactions between aryl halide, alkyne, and aryl boronic acid, 
+affording axially chiral olefins. The same group also extended the reaction pattern to CB axially 
+chiral products via a Miyaura reaction.12 By retorting to amidetethered isocyanide as a reactive 
+coupling reagent, the Zhu group13 realized Pdcatalyzed atroposelective synthesis of 
+diarylquinazolinone via CC coupling. The Taguchi14 group and our group15 addressed 
+atroposelective synthesis of CN biaryls via BuchwaldHartwig coupling of two sterically hindered 
+substrates.
+
+
+---
+
+Description:
+Electrophilic compounds explored in the Catellani reaction.
+
+Text:
+The electrophilic nature of sterically hindered aryl halide has also been explored in the 
+Catellani reaction by the groups of Zhou,16 Gu,10k Shi,17 and Cheng.18. Besides these redox
+neutral synthesis of biaryls or related olefins, the groups of Yang19 and Watson20 succeeded in 
+reductive coupling of two aryl (pseudo)halides under cobalt or nickel catalysis, respectively.

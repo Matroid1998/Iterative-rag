@@ -1,0 +1,33 @@
+Name: Phorbol 12-myristate 13-acetate
+Text:
+12-o-tetradecanoylphorbol-13-acetate appears as white crystals. (NTP, 1992)
+Phorbol 13-acetate 12-myristate is a phorbol ester that is phorbol in which the hydroxy groups at the cyclopropane ring juction (position 13) and the adjacent carbon (position 12) have been converted into the corresponding acetate and myristate esters. It is a major active constituent of the seed oil of Croton tiglium. It has been used as a tumour promoting agent for skin carcinogenesis in rodents and is associated with increased cell proliferation of malignant cells. However its function is controversial since a decrease in cell proliferation has also been observed in several cancer cell types. It has a role as a protein kinase C agonist, an antineoplastic agent, a reactive oxygen species generator, a plant metabolite, a mitogen, a carcinogenic agent and an apoptosis inducer. It is an acetate ester, a tetradecanoate ester, a diester, a tertiary alpha-hydroxy ketone and a phorbol ester.
+Phorbol 12-myristate 13-acetate diester is an inducer of neutrophil extracellular traps (NETs).
+Phorbol 12-myristate 13-acetate has been reported in Iris tectorum, Phormidium tenue, and other organisms with data available.
+Tetradecanoylphorbol Acetate is a phorbol ester with potential antineoplastic effects.  Tetradecanoylphorbol acetate (TPA) induces maturation and differentiation of hematopoietic cell lines, including leukemic cells. This agent may induce gene expression and protein kinase C (PKC) activity.  In addition to potential antineoplastic effects, TPA may exhibit tumor promoting activity. (NCI04)
+Phorbol Ester is polycyclic compound isolated from croton oil in which two hydroxyl groups on neighboring carbon atoms are esterified to fatty acids. The commonest of these derivatives is phorbol myristoyl acetate (PMA). Potent co carcinogens or tumor promotors, they are diacyl glycerol analogs and activate protein kinase C irreversibly.
+PHORBOL MYRISTATE ACETATE is a small molecule drug with a maximum clinical trial phase of II (across all indications) and has 3 investigational indications.
+A phorbol ester found in CROTON OIL with very effective tumor promoting activity. It stimulates the synthesis of both DNA and RNA.
+See also:  ... View More ...
+Properties:safety: Irritant
+smiles: CCCCCCCCCCCCCC(=O)O[C@@H]1[C@H]([C@]2([C@@H](C=C(C[C@]3([C@H]2C=C(C3=O)C)O)CO)[C@H]4[C@@]1(C4(C)C)OC(=O)C)O)C
+formula: C36H56O8
+chem_properties: Molecular Weight: 616.8 g/mol
+XLogP3: 6.5
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 17
+Exact Mass: 616.39751874 Da
+Monoisotopic Mass: 616.39751874 Da
+Topological Polar Surface Area: 130
+Heavy Atom Count: 44
+Formal Charge: 0
+Complexity: 1150
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 8
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

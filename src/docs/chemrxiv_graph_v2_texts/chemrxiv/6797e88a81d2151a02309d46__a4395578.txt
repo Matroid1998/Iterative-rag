@@ -1,0 +1,12 @@
+Description:
+Upregulation in tumor tissue is connected with increased lysophosphatidyl acyltransferases expression.
+
+Text:
+recently 
+showed that upregulation of phosphatidylcholine (PC) 181160 in tumor tissue is indeed connected 
+with the increased lysophosphatidyl acyltransferases1 (LPCAT1) expression compared to surrounding 
+healthy material showcasing the need of structurally resolved lipidomics workflows.5 
+For this reason, multiple new methods have been developed that that track lipid structure changes, 
+mainly relying on mass spectrometry (MS).3 Sensitive detection with direct infusion methods, or 
+shotgun MS, of lipids has been implemented on multiple stateoftheart mass spectrometric 
+platforms.

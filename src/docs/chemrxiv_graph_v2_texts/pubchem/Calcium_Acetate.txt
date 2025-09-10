@@ -1,0 +1,28 @@
+Name: Calcium Acetate
+Text:
+Calcium acetate is the calcium salt of acetic acid. It is used, commonly as a hydrate, to treat hyperphosphataemia (excess phosphate in the blood) in patients with kidney disease: the calcium ion combines with dietary phosphate to form (insoluble) calcium phosphate, which is excreted in the faeces. It has a role as a chelator. It contains an acetate.
+The chemical compound calcium acetate is the calcium salt of acetic acid. It has been commonly referred to as the acetate of lime. The anhydrous form is very hygroscopic, therefore the monohydrate is the common form.
+Calcium Acetate is a calcium salt of acetic acid. Calcium is a mineral essential for many cellular functions including nerve impulse transmission, muscle contraction, cardiac function, bone formation, and capillary and cell membrane permeability. Calcium acetate is administered orally to prevent or treat calcium deficiency and to treat hyperphosphatemia due to its phosphate-binding properties.
+CALCIUM ACETATE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1982 and has 3 approved indications.
+See also: Calcium (has active moiety); Calcium Cation (has active moiety) ... View More ...
+Properties:safety: Irritant
+smiles: CC(=O)[O-].CC(=O)[O-].[Ca+2]
+formula: C4H6O4.Ca
+chem_properties: Molecular Weight: 158.17 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 157.9891995 Da
+Monoisotopic Mass: 157.9891995 Da
+Topological Polar Surface Area: 80.3
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 25.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

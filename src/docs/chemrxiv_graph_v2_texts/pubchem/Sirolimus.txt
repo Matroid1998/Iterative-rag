@@ -1,0 +1,33 @@
+Name: Sirolimus
+Text:
+Sirolimus is a macrolide lactam isolated from Streptomyces hygroscopicus consisting of a 29-membered ring containing 4 trans double bonds, three of which are conjugated. It is an antibiotic, immunosupressive and antineoplastic agent. It has a role as an immunosuppressive agent, an antineoplastic agent, an antibacterial drug, a mTOR inhibitor, a bacterial metabolite, an anticoronaviral agent and a geroprotector. It is a cyclic acetal, a cyclic ketone, an ether, a secondary alcohol, an organic heterotricyclic compound, an antibiotic antifungal drug and a macrolide lactam.
+Sirolimus, also known as rapamycin, is a macrocyclic lactone antibiotic produced by bacteria Streptomyces hygroscopicus, which was isolated from the soil of the Vai Atari region of Rapa Nui (Easter Island). It was first isolated and identified as an antifungal agent with potent anticandida activity; however, after its potent antitumor and immunosuppressive activities were later discovered, it was extensively investigated as an immunosuppressive and antitumour agent. Its primary mechanism of action is the inhibition of the mammalian target of rapamycin (mTOR), which is a serine/threonine-specific protein kinase that regulates cell growth, proliferation, and survival. mTOR is an important therapeutic target for various diseases, as it was shown to regulate longevity and maintain normal glucose homeostasis. Targeting mTOR received more attention especially in cancer, as mTOR signalling pathways are constitutively activated in many types of human cancer.  Sirolimus was first approved by the FDA in 1999 for the prophylaxis of organ rejection in patients aged 13 years and older receiving renal transplants. In November 2000, the drug was recognized by the European Agency as an alternative to calcineurin antagonists for maintenance therapy with corticosteroids. In May 2015, the FDA approved sirolimus for the treatment of patients with lymphangioleiomyomatosis. In November 2021, albumin-bound sirolimus for intravenous injection was approved by the FDA for the treatment of adults with locally advanced unresectable or metastatic malignant perivascular epithelioid cell tumour (PEComa). Sirolimus was also investigated in other cancers such as skin cancer, Kaposi’s Sarcoma, cutaneous T-cell lymphomas, and tuberous sclerosis. The topical formulation of sirolimus, marketed as HYFTOR, was approved by the FDA in April 2022: this marks the first topical treatment approved in the US for facial angiofibroma associated with tuberous sclerosis complex.
+Sirolimus is a mTOR Inhibitor Immunosuppressant and Kinase Inhibitor. The mechanism of action of sirolimus is as a mTOR Inhibitor and Protein Kinase Inhibitor. The physiologic effect of sirolimus is by means of Decreased Immunologic Activity.
+Sirolimus is macrocyclic antibiotic with potent immunosuppressive activity that is used alone or in combination with calcineurin inhibitors and corticosteroids to prevent cellular rejection after renal transplantation. Sirolimus therapy can be associated with mild serum enzyme elevations and it has been linked to rare instances of clinically apparent cholestatic liver injury.
+Sirolimus has been reported in Streptomyces iranensis, Streptomyces rapamycinicus, and other organisms with data available.
+Sirolimus is a natural macrocyclic lactone produced by the bacterium Streptomyces hygroscopicus, with immunosuppressant properties. In cells, sirolimus binds to the immunophilin FK Binding Protein-12 (FKBP-12) to generate an immunosuppressive complex that binds to and inhibits the activation of the mammalian Target Of Rapamycin (mTOR), a key regulatory kinase. This results in inhibition of T lymphocyte activation and proliferation that occurs in response to antigenic and cytokine (IL-2, IL-4, and IL-15) stimulation and inhibition of antibody production. (NCI04)
+SIROLIMUS is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1999 and has 5 approved and 138 investigational indications. This drug has a black box warning from the FDA.
+A macrolide compound obtained from Streptomyces hygroscopicus that acts by selectively blocking the transcriptional activation of cytokines thereby inhibiting cytokine production. It is bioactive only when bound to IMMUNOPHILINS. Sirolimus is a potent immunosuppressant and possesses both antifungal and antineoplastic properties.
+See also: Sirolimus Albumin-bound Nanoparticles (annotation moved to).
+Properties:safety: Health Hazard
+smiles: C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)O)C)/C)O)OC)C)C)/C)OC
+formula: C51H79NO13
+chem_properties: Molecular Weight: 914.2 g/mol
+XLogP3: 6
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 13
+Rotatable Bond Count: 6
+Exact Mass: 913.55514157 Da
+Monoisotopic Mass: 913.55514157 Da
+Topological Polar Surface Area: 195
+Heavy Atom Count: 65
+Formal Charge: 0
+Complexity: 1760
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 15
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 4
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,57 @@
+Description:
+A Lewis acid that activates substrates by altering their redox characteristics.
+
+Text:
+Photoredox catalysis requires a catalyst that is both 
+photochemically and redox activetypically a 
+compound derived from an organic dye or a complex 
+of a redoxactive metal, such as ruthenium or iridium 
+(see 
+Fig. 1a).710 
+Conversely, 
+redox
+inactiveinnocent metals, such as scandium, which 
+have a predominantly trivalent redoxstable state, are 
+not directly involved in photoredox reactions.1113 
+Nevertheless, 
+these 
+metals, 
+and 
+particularly 
+Sc(OTf)3, can serve as Lewis acids (LA) that activate 
+substratesorganophotocatalysts by altering their 
+redox characteristics, thereby facilitating their 
+participation in photoredox and photosensitisation 
+reactions (Figs. 1b and 1c).1215 For instance, the 
+redox properties of a flavin derivative (Fl) were 
+significantly enhanced via their coordination to 
+Sc(OTf)3.
+
+
+---
+
+Description:
+Functions as a sole photoredox catalyst facilitating aerobic oxidation of benzylic CH bonds and direct oxidative cyanation of arenes.
+
+Text:
+For 
+example, Fukuzumi24 recorded the EPR spectrum of 
+the (HMPA)3Sc3O2 complex stabilised by three 
+equivalents of hexamethylphosphoramide (HMPA) 
+ligand, formed via PET from the singlet excited state 
+of 
+1benzyl1,4dihydronicotinamide 
+dimer 
+1(BNA)2, to O2. This procedure was accompanied 
+by fast cleavage of the CC bond in the formed 
+(BNA)2 (Fig. 1d, bottom part). Our present study is the first report to demonstrate 
+the 
+activity 
+of 
+Sc(OTf)3 
+functioning 
+as 
+a sole photoredox catalyst. Sc(OTf)3 is shown to 
+facilitate aerobic oxidation of a benzylic CH bond 
+and direct oxidative cyanation of arenes as examples 
+of CH activation and CC coupling reactions (Fig. 1e).

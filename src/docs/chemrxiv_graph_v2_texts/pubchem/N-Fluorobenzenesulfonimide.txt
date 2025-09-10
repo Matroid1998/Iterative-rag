@@ -1,0 +1,24 @@
+Name: N-Fluorobenzenesulfonimide
+Text:
+Properties:safety: Irritant
+smiles: C1=CC=C(C=C1)S(=O)(=O)N(F)S(=O)(=O)C2=CC=CC=C2
+formula: C12H10FNO4S2
+chem_properties: Molecular Weight: 315.3 g/mol
+XLogP3: 2.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 4
+Exact Mass: 315.00352831 Da
+Monoisotopic Mass: 315.00352831 Da
+Topological Polar Surface Area: 88.3
+Heavy Atom Count: 20
+Formal Charge: 0
+Complexity: 461
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

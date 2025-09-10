@@ -1,0 +1,14 @@
+Description:
+Amino acid engineered into a sequence for maleimide coupling.
+
+Text:
+of the protein into the 
+embryo and its live visualisation (Figure 4a).23 First, we injected embryos with F2 dye labelled 
+actin protein and observed fluorescence at cellular margins likely to be cell junctions (Figure 
+4b). To exclude the possibility that the protein localisation was not merely an artefact of being 
+labelled with the compound, we chose to label and observe a protein targeted to another 
+cellular location, namely the nucleus. For this, we designed a construct that contained the 
+SUMO tag for ease of purification, fused to two SV40 nuclear localisation signals (NLS) and 
+three cysteines were engineered into this cysteine light NLS amino acid sequence for 
+maleimide coupling.24 We purified and coupled this protein with compound F2 and injected it 
+into embryos.

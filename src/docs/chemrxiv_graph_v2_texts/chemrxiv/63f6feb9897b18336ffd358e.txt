@@ -1,0 +1,13 @@
+Description:
+Inhibitors discovered by Bristol-Myers Squibb that target the PDL1 dimer and have shown strong activity in binding assays (10 nM or lower).
+
+Text:
+Despite the promising clinical benefits of antibody drugs targeting PD1PDL1 
+immune checkpoints in cancer treatment, there are still major limitations such as poor 
+patient tolerance1519, significant adverse reactions, insufficient oral bioavailability, and 
+low response rates in most solid tumors20. One major challenge in the development of 
+small molecule inhibitors of PD1PDL1 is the lack of a deep cavity in the PD1PD
+L1 interaction surface, leading to slow progress in this field (Table S1). However, recent 
+research has reported several promising compounds, including biphenylmethyl phenyl 
+ether inhibitors discovered by BristolMyers Squibb, which target the PDL1 dimer and 
+have shown strong activity in binding assays (10 nM or lower) 911.

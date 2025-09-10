@@ -1,0 +1,18 @@
+Description:
+A compound with high CH bond dissociation energy, making selective partial oxidation challenging.
+
+Text:
+While the abundance of natural gas has motivated the valorization of methane as an energy 
+feedstock,1 direct use of methane for the production of highervalue chemicals like methanol is 
+limited by the lack of successful strategies for selective partial methane oxidation.1, 2 A limiting 
+factor is the high CH bond dissociation energy in methane compared to the partially oxidized 
+products, which leads to overoxidation.36 Instead, energyintensive routes that first produce 
+syngas from methane at very high operating temperatures and pressures are customarily used in 
+industry.710 Living systems leverage metalloenzymes such as soluble methane monooxygenase 
+(sMMO) to convert methane selectively into methanol under ambient conditions using molecular 
+oxygen as the oxidant1113 by forming, for example, a mononuclear Fe(IV)O species that activates 
+methane.1416 These metalloenzymes have inspired the design of synthetic homogeneous and 
+heterogeneous catalysts for the direct conversion of methane to methanol via more energyefficient 
+methods.1725 Nevertheless, no synthetic catalyst to date is capable of simultaneously achieving 
+high conversions and selectivities as enzymes have, motivating a wider search of candidate 
+catalysts.

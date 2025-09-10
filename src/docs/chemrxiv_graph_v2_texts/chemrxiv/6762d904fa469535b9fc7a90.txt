@@ -1,0 +1,14 @@
+Description:
+Involved in stoichiometric evolution during fuel production.
+
+Text:
+These components are not only expensive11, but are also often non
+innocent as they can be easily oxidised at low overpotentials by the photoanode12, which precludes 
+the coupling of fuel production with stoichiometric O2 evolution. Moreover, existing enzymatic 
+biohybrid PEC devices are based on photoactive materials such as silicon10,13, perovskite6,7 and Cu
+chalcogenide14, often limited by either insufficient photovoltages for constructing biasfree devices, 
+moisture degradation, material toxicity or high costs. Organic semiconductors (OSCs) composed of earthabundant elements are promising 
+biocompatible materials for assembling lightdriven enzymatic biohybrid systems. Solution 
+processable conjugated OSCs exhibit bandgap tuneability at the molecular level15,16, and the bulk 
+heterojunction (BHJ) design supported by a builtin electric field for organic photovoltaic (OPV) 
+applications facilitates efficient charge separation at the nanoscale.

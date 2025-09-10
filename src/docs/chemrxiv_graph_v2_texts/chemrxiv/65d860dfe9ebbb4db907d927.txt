@@ -1,0 +1,13 @@
+Description:
+A classic covalent solid.
+
+Text:
+In this context, the development
+of extensions such as SelfConsistent Charge (SCC) DFTB (also known as DFTB2)7 and DFTB389
+have been highly influential. Recently, the development of hybrid functionals and machine learning
+(ML) approaches in DFTB have further expanded its domain of applicability1011. However, being a
+semiempirical method, the availability of general parameterizations remains a bottleneck towards more
+widespread adoption. Historically, more or less systemspecific parameterizations have typically been used. Prominent ex
+amples are the MIO7, 12, OB2,13 and 3OB8 parameters for organic and biomolecules, developed by
+Elstner and coworkers. For solids and materials, the PBC14 and MATSCI15, 16 parameters can be
+used for classic covalent solids like C and Si, as well as several important oxides and minerals.

@@ -1,0 +1,13 @@
+Description:
+A component of the usable inventory in batteries that can be depleted due to irreversible loss of active materials.
+
+Text:
+Nanoscale inhomogeneities build up in electrode particles during cycling, and decrease the 
+reversibility of the battery reactions1,2. Both the irreversible structural damage in individual 
+electrode particles, for example the fracturing of Si negative electrodes35, and the formation of 
+electrochemically inactive species, for example the formation of the solidelectrolyte interphase 
+(SEI)6,7, lead to the irreversible loss of active materials and depletion of the usable lithium 
+inventory and electrolyte8. Resolving the three dimensional (3D) spatial distribution of 
+heterogeneous degradation at the single electrode particle level with nanometer resolution can shed 
+light into battery degradation pathways and their reaction kinetics, leading to the development of 
+new materials and strategies for improved battery performance.

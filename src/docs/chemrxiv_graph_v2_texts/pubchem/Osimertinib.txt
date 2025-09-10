@@ -1,0 +1,31 @@
+Name: Osimertinib
+Text:
+Osimertinib is a member of the class of aminopyrimidines that is 4-(1-methylindol-3-yl)pyrimidin-2-amine in which one of the amino hydrogens is replaced by a 2-methoxy-4-[2-(dimethylamino)ethyl](methyl)amino-5-acrylamidophenyl group. Used (as the mesylate salt) for treatment of EGFR T790M mutation positive non-small cell lung cancer. It has a role as an antineoplastic agent and an epidermal growth factor receptor antagonist. It is a member of indoles, an aminopyrimidine, a biaryl, a secondary amino compound, a tertiary amino compound, a monomethoxybenzene, a member of acrylamides, a substituted aniline and a secondary carboxamide. It is a conjugate base of an osimertinib(1+).
+Osimertinib is an oral, third-generation epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor (TKI) drug developed by AstraZeneca Pharmaceuticals. Its use is indicated for the treatment of metastatic non-small cell lung cancer (NSCLC) in cases where tumour EGFR expression is positive for the T790M mutation as detected by FDA-approved testing and which has progressed following therapy with a first-generation EGFR tyrosine kinase inhibitor. Approximately 10% of patients with NSCLC have a rapid and clinically effective response to EGFR-TKIs due to the presence of specific activating EGFR mutations within the tumour cells. More specifically, deletions around the LREA motif in exon 19 and exon 21 L858R point mutations are correlated with response to therapy.  Development of third-generation EGFR-TKIs, such as osimertinib, has been in response to altered tumour resistance patterns following treatment and toxic side effects that impact patient quality of life. Treatment with first-generation EGFR-TKIs (gefitinib and erlotinib) has been associated with the development of resistance through activating mutations in the EGFR gene. Second-generation EGFR-TKIs (afatinib and dacomitinib) were then developed to be more potent inhibitors, although their use is associated with increased toxicity through nonspecific targeting of wild-type EGFR. In contrast, third-generation inhibitors are specific for the gate-keeper T790M mutations which increases ATP binding activity to EGFR and result in poor prognosis for late-stage disease. Furthermore, osimertinib has been shown to spare wild-type EGFR during therapy, thereby reducing non-specific binding and limiting toxicity.
+Osimertinib is a Kinase Inhibitor. The mechanism of action of osimertinib is as a Kinase Inhibitor, and Cytochrome P450 3A Inhibitor, and Cytochrome P450 3A4 Inducer, and Cytochrome P450 1A2 Inducer, and Breast Cancer Resistance Protein Inhibitor.
+Osimertinib is a small molecule tyrosine kinase receptor inhibitor and antineoplastic agent that is used in the therapy of selected forms of advanced non-small cell lung cancer (NSCLC). Osimertinib is associated with a moderate rate of serum aminotransferase elevations during therapy and rare instances of clinically apparent acute liver injury.
+Osimertinib is a third-generation, orally available, irreversible, mutant-selective, epidermal growth factor receptor (EGFR) inhibitor, with potential antineoplastic activity. Upon oral administration, osimertinib covalently binds to and inhibits the activity of numerous mutant forms of EGFR, including the secondarily-acquired resistance mutation T790M, L858R, and exon 19 deletions, thereby preventing EGFR-mediated signaling. This may both induce cell death and inhibit tumor growth in EGFR-overexpressing tumor cells. EGFR, a receptor tyrosine kinase mutated in many tumor cell types, plays a key role in tumor cell proliferation and tumor vascularization. As this agent is selective towards mutant forms of EGFR, its toxicity profile may be reduced when compared to non-selective EGFR inhibitors which also inhibit wild-type EGFR.
+OSIMERTINIB is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2015 and has 3 approved and 11 investigational indications.
+See also: Osimertinib Mesylate (is active moiety of).
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: CN1C=C(C2=CC=CC=C21)C3=NC(=NC=C3)NC4=C(C=C(C(=C4)NC(=O)C=C)N(C)CCN(C)C)OC
+formula: C28H33N7O2
+chem_properties: Molecular Weight: 499.6 g/mol
+XLogP3: 3.7
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 10
+Exact Mass: 499.26957332 Da
+Monoisotopic Mass: 499.26957332 Da
+Topological Polar Surface Area: 87.6
+Heavy Atom Count: 37
+Formal Charge: 0
+Complexity: 752
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

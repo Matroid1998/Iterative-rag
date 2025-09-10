@@ -1,0 +1,30 @@
+Name: Gentian Violet
+Text:
+Gentian Violet can cause cancer according to an independent committee of scientific and health experts.
+Hexamethyl-p-rosaniline chloride is a green to dark green powder. (NTP, 1992)
+Crystal violet is an organic chloride salt that is the monochloride salt of crystal violet cation. It has been used in creams for the topical treatment of bacterial and fungal infections, being effective against some Gram-positive bacteria (notably Staphylococcus species) and some pathogenic fungi (including Candida species) but use declined following reports of animal carcinogenicity. It has also been used for dying wood, silk, and paper, as well as a histological stain. It has a role as a histological dye, an antiseptic drug, an antibacterial agent, an antifungal agent and an anthelminthic drug. It contains a crystal violet cation.
+Gentian Violet is a blue, aniline-derived dye with antifungal and antimitotic properties. Gentian violet (GV) dissociates into positive (GV+) and negative ions (Cl-) that penetrate both gram-positive and gram-negative bacterial cells. The GV+ ions interact with negatively charged components of the bacterial cell wall including lipopolysaccharide, peptidoglycan and DNA. This agent is also a mutagen and mitotic poison. GV elicits a photodynamic action mediated by a free-radical mechanism. Furthermore, this agent dissipates the action potential on prokaryotic or eukaryotic membranes by inducing permeability, thereby leading to respiratory inhibition and subsequent cell death.
+GENTIAN VIOLET is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1982 and has 3 investigational indications. It was withdrawn in at least one region.
+A dye that is a mixture of violet rosanilinis with antibacterial, antifungal, and anthelmintic properties.
+See also: Gentian violet cation (has active moiety); Brilliant green; cod liver oil; gentian violet (component of); Acriflavine; Gentian Violet; Sodium Propionate (component of) ... View More ...
+Properties:safety: Corrosive and Irritant and Health Hazard and Environmental Hazard
+smiles: CN(C)C1=CC=C(C=C1)C(=C2C=CC(=[N+](C)C)C=C2)C3=CC=C(C=C3)N(C)C.[Cl-]
+formula: C25H30N3.Cl
+chem_properties: Molecular Weight: 408.0 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 4
+Exact Mass: 407.2128257 Da
+Monoisotopic Mass: 407.2128257 Da
+Topological Polar Surface Area: 9.5
+Heavy Atom Count: 29
+Formal Charge: 0
+Complexity: 542
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

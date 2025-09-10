@@ -1,0 +1,24 @@
+Description:
+Catalyst surface enhanced through electron withdrawing effects by fluoride ions for effective catalytic sites in electrochemical water oxidation.
+
+Text:
+In our previous works, we showed that the oxyfluoride catalyst surface, enhanced through 
+electron withdrawing effects imparted by the fluoride ions, gives rise to highly effective catalytic sites for 
+electrochemical water oxidation.22, 23, 25 We reasoned that the inductive effect of the electronegative fluorine 
+anions incorporated in the metal oxide network would also modulate the activity of the Cubased materials 
+for NO3R. With the above criteria in mind, we prepared a new oxyfluoride, Cu3Al2OF10, via precipitation and 
+annealing of the corresponding hydrated fluorides Cu3Al2F12(H2O)12. This mixed metal cations CuAl 
+oxyfluoride will add to the few cases reported in the literature such as CuWO3F226 and Ca2CuO2F2.527 
+prepared through either solid state chemistry or via reaction of the corresponding oxides with F2.
+
+
+---
+
+Description:
+The first material of its kind applied towards NO3R.
+
+Text:
+Remarkably, Cu3Al2OF10 is highly active for the 8electron NO3R, attaining upwards of 57 Faradaic 
+Efficiency (FE) and 1220 A.g1 mass activity. As such, this is the first oxyfluoride material applied towards 
+NO3R. A complementary set of electroanalytical and operando spectroscopic investigations were carried 
+out to elucidate that the Cu sites are indeed the active sites for the reaction and that the rate limiting step is

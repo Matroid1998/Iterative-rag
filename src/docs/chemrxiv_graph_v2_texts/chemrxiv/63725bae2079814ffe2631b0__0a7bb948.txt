@@ -1,0 +1,26 @@
+Description:
+A component of biogas fuel streams where removing CO2 increases combustion power.
+
+Text:
+The concentration of greenhouse gases such as carbon dioxide (CO2) and methane (CH4) in the 
+Earths atmosphere are continuously increasing, being the main cause of global warming and 
+climate change.1 In this sense, the use of renewable energies has become a recurring topic in order 
+to reduce the emission of greenhouse gases and, at the same time, to meet the increasing worldwide 
+energy demands.2 However, such technologies are still far from coping with such needs, and other 
+options need to be considered in the meantime. Within this context, one way of reducing the CO2 emissions is optimizing the energy efficiency 
+of existing processes. For instance, removing CO2 from CH4 biogas fuel streams ensures an 
+increase in the combustion power.
+
+
+---
+
+Description:
+A chemically stable molecule used as fuel requiring purity higher than 95%.
+
+Text:
+Here, the sought purity of CH4 required for its use as fuel has 
+to be higher than 95 (vv).3 However, the extracted biogas streams feature 5075 (vv) of 
+methane purity admixed with 2550 CO2,3 which makes necessary the biogas upgrading process 
+separating CO2 form CH4 prior to its use as fuel. Actually, the chemical resolution i.e., chemical separation of CO2 from CH4 is quite an 
+intricate problem, mostly due to the fact that both molecules are chemically stable, and, 
+consequently, quite inactive, ultimately complicating their selective chemical resolution.

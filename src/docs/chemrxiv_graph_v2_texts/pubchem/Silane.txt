@@ -1,0 +1,28 @@
+Name: Silane
+Text:
+Silane is a colorless, flammable and poisonous gas, with a strong repulsive odor. It is easily ignited in air, reacts with oxidizing agents, is very toxic by inhalation, and is a strong irritant to skin, eyes and mucous membranes. Silane is lighter than air. Under prolonged exposure to fire or heat the containers may rupture violently and rocket. It is used in the production of amorphous silicon.
+Silane is the simplest silane, consisting of a single silicon atom carrying four hydrogens. It is a member of silanes and a mononuclear parent hydride.
+Silane has been reported in Curcuma longa with data available.
+Compounds similar to hydrocarbons in which a tetravalent silicon atom replaces the carbon atom. They are very reactive, ignite in air, and form useful derivatives.
+See also: Silicon (annotation moved to).
+Properties:safety: Flammable and Compressed Gas
+smiles: [SiH4]
+formula: H4Si
+chem_properties: Molecular Weight: 32.117 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 32.008226662 Da
+Monoisotopic Mass: 32.008226662 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 1
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

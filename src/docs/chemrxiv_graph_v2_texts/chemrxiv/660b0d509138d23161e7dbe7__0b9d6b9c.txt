@@ -1,0 +1,15 @@
+Description:
+Used in single-ion conducting polymer electrolytes to enhance ionic conductivity.
+
+Text:
+Inorganic electrolytes can present fast ion 
+conductivity in concert with high modulus and thermal stability.4 Nonetheless, difficulties in 
+manufacturing, sensitivity to moisture, and brittleness have slowed their application.2 Alternatively, 
+singleion conducting polymer electrolytes have better compatibility with electrodes and are amenable for 
+lowcost industrialscale processing.1,5,6 However, dry singleion conducting polymer electrolytes 
+demonstrated thus far have ionic conductivity that is too low for most applications, with the best reported 
+values of Li conductivity of 1  104 Scm at 6090  achieved with ionomers containing highly 
+dissociable bound anions in contact with poly(ethylene oxide) (PEO) chain segments through either 
+copolymerization or blending.1,5,7 The ionic conductivity in these PEObased singleion conducting 
+polymers is dependent upon the segmental relaxation rate of the polymer chains solvating Li, the ion pair 
+binding energy, and the interaction of the bound anionic site with the cationsolvating PEO.

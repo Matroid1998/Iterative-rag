@@ -1,0 +1,12 @@
+Description:
+Reacts with photosensitizers to form highly reactive oxygen species (ROS).
+
+Text:
+In PDT, photosensitizers are optically excited followed by a transition to the triplet state, 
+which further reacts with biological substrate or surrounding oxygen to form highly reactive oxygen 
+species (ROS) (16). These species induce a high oxidative stress and a pronounced level of 
+photodamage inside the tumor cells, resulting in cell death. As 5ALA and thus PPIX are specifically 
+enriched in brain tumors, their application in PDT was expected to be a promising approach. Several 
+studies were performed to investigate the potential of 5ALAPDT for PDT applications (1719). Eskiler 
+et al. demonstrated the effectiveness of 5ALAPDT in the treatment of breast cancer (20), whereas its 
+photodamaging capabilities on rhabdomyosarcoma were shown by Atif et al. (21). Hypericin is a promising alternative photosensitizer for PDT.

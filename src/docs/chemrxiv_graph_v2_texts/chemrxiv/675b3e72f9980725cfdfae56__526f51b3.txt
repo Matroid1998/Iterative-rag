@@ -1,0 +1,13 @@
+Description:
+Exhibits intense free carrier absorption from the near to mid-infrared.
+
+Text:
+The extensively studied MXene Ti3C2Tx exhibits intense freecarrier absorption from the near
+to midinfrared (IR) (15). Notably, a distinct nearIR absorption peak at around 800 nm (1.5
+eV) has been widely reported for Ti3C2Tx (13,16). However, the assignment of this absorption
+peak is still under debate. Two possible origins have been proposed interband transition (IBT)
+or localized surface plasmon resonance (LSPR) (13,17). Densityfunctional theory (DFT) cal
+culations demonstrated that this peak is an optically active IBT (18,19), which can vary with the
+surface termination type. This was indirectly corroborated by our previous work (16), which
+showed that this peak lacked strong anisotropic properties, typically seen in anisotropic plas
+monic nanomaterials (2022).

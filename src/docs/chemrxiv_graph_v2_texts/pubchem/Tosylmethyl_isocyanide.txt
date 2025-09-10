@@ -1,0 +1,25 @@
+Name: Tosylmethyl isocyanide
+Text:
+Toluenesulfonylmethyl isocyanide is a chemical compound of cyanide.
+Properties:safety: Acute Toxic and Health Hazard
+smiles: CC1=CC=C(C=C1)S(=O)(=O)C[N+]#[C-]
+formula: C9H9NO2S
+chem_properties: Molecular Weight: 195.24 g/mol
+XLogP3: 1.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 2
+Exact Mass: 195.03539970 Da
+Monoisotopic Mass: 195.03539970 Da
+Topological Polar Surface Area: 46.9
+Heavy Atom Count: 13
+Formal Charge: 0
+Complexity: 298
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

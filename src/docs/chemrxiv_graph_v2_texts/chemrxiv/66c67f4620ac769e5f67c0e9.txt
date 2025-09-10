@@ -1,0 +1,14 @@
+Description:
+A reaction used for its specificity, selectivity, and fast kinetics in bioconjugation and polymer synthesis.
+
+Text:
+Thiolmaleimide conjugation is a highly popular reaction due to its specificity, selectivity and 
+fast kinetics.1 In recent decades, this reaction has been used in various fields, including 
+biomolecule labelling2 and synthesis of novel polymeric materials.3 One of the most important 
+applications of the thiolmaleimide reaction is the bioconjugation between linkerpayload and 
+antibody backbone, to generate antibodydrug conjugates (ADCs).4, 5 Comparing to well
+developed small molecule drugs, ADC shows promise as a new class of therapeutics, with the 
+first ADC approved in 2001. As of October 2023, there are 15 different ADCs approved, and 10 
+of them utilize thiolmaleimide reaction during their syntheses.6 
+There are mainly two competitive biotransformation processes occurring at the thiosuccinimide 
+site from linker.

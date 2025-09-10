@@ -1,0 +1,25 @@
+Description:
+Used in alkaline water electrolysis and can operate under mild alkaline conditions.
+
+Text:
+Earthabundant transition metal (TM)based materials have attracted much attention 
+as alternative electrocatalysts, especially in alkaline electrolytes.5 However, chemical 
+modulation strategies of catalysts and economically viable synthesis routes to generate 
+nanostructured materials with durable and enhanced catalytic performances are still required 
+especially for the green hydrogen production, especially at an industrial scale.4, 6 
+A major process bottleneck, when operating in alkaline media, is the reduced kinetics due to 
+the waterdissociation energy barrier.7 However, alkaline water electrolysis allows the 
+utilization of TMbased materials, which serve as PGMfree alternatives with better HER 
+kinetics.8 Emerging technologies such as anionexchange membrane water electrolysis, for 
+industrial scale water splitting, require electrocatalysts that are capable to even operate under 
+mild alkaline conditions (less or equal to 1M KOH) or pure water.9 To enhance the kinetics 
+of the reduction reaction, the chemical environment of TMbased catalysts can be tailored by 
+incorporating nonmetals and metalloid elements such as phosphorus, sulfur, nitrogen, 
+selenium, and boron.10 Engineering of the materials morphology, crystal structure, and 
+catalyst support are leveraged to improve extrinsic catalytic activity of complete electrodes.3 
+A careful choice of the substrate material and the design of the substratecatalyst interface 
+especially for highly conductive substrates is also important.11 This enables strong adhesion 
+and enhanced charge transfer due to extended exposure of more catalytic active sites to 
+adsorbates promoting the HER activity and lifecycle of the electrocatalysts.12 By combining 
+the above strategies, earthabundant transition metalbased catalysts are developed with high 
+activity comparable to precious metalbased catalysts.

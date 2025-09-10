@@ -1,0 +1,26 @@
+Name: Gingko lactone
+Text:
+Ginkgolide B has been reported in Ginkgo and Ginkgo biloba with data available.
+See also: Ginkgolide B (annotation moved to).
+Properties:safety: Irritant
+smiles: CC1C(=O)OC2C1(C34C(=O)OC5C3(C2O)C6(C(C5)C(C)(C)C)C(C(=O)OC6O4)O)O
+formula: C20H24O10
+chem_properties: Molecular Weight: 424.4 g/mol
+XLogP3: -0.4
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 10
+Rotatable Bond Count: 1
+Exact Mass: 424.13694696 Da
+Monoisotopic Mass: 424.13694696 Da
+Topological Polar Surface Area: 149
+Heavy Atom Count: 30
+Formal Charge: 0
+Complexity: 925
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 11
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,31 @@
+Name: Sapropterin
+Text:
+Sapropterin is a tetrahydropterin that is 2-amino-5,6,7,8-tetrahydropteridin-4(3H)-one in which a hydrogen at position 6 is substituted by a 1,2-dihydroxypropyl group (6R,1'R,2'S-enantiomer). It has a role as a coenzyme, a diagnostic agent, a human metabolite and a cofactor.
+Sapropterin (tetrahydrobiopterin or BH4) is a cofactor in the synthesis of nitric oxide. It is also essential in the conversion of phenylalanine to tyrosine by the enzyme phenylalanine-4-hydroxylase; the conversion of tyrosine to L-dopa by the enzyme tyrosine hydroxylase; and conversion of tryptophan to 5-hydroxytryptophan via tryptophan hydroxylase.
+L-erythro-tetrahydrobiopterin is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Sapropterin is a Phenylalanine Hydroxylase Activator. The mechanism of action of sapropterin is as a Phenylalanine Hydroxylase Activator, and Breast Cancer Resistance Protein Inhibitor, and P-Glycoprotein Inhibitor.
+Tetrahydrobiopterin is a cofactor that is essential for the activity of aromatic amino acid hydroxylases. Tetrahydrobiopterin degrades phenylalanine, and facilitates the biosynthesis of several neurotransmitters and the production of nitric oxide.
+SAPROPTERIN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2007 and is indicated for hyperphenylalaninemia and phenylketonuria and has 20 investigational indications.
+See also: Sapropterin Dihydrochloride (has salt form); Sapropterin sesquihydrochloride (is active moiety of).
+Properties:safety: Irritant
+smiles: C[C@@H]([C@@H]([C@H]1CNC2=C(N1)C(=O)NC(=N2)N)O)O
+formula: C9H15N5O3
+chem_properties: Molecular Weight: 241.25 g/mol
+XLogP3: -1.9
+Hydrogen Bond Donor Count: 6
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 2
+Exact Mass: 241.11748936 Da
+Monoisotopic Mass: 241.11748936 Da
+Topological Polar Surface Area: 132
+Heavy Atom Count: 17
+Formal Charge: 0
+Complexity: 405
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 3
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,44 @@
+Description:
+A carotenoid involved in the light-harvesting process of diatoms.
+
+Text:
+Diatoms are marine algae that produce about 4050 of the marine biomass with a 2025
+contribution to the global primary production via photosynthesis for the entire food web
+on earth. They also contribute to the atmospheric carbon fixation13. Like higher plants,
+the lightharvesting (LH) process within diatoms is performed by proteinpigment complexes
+embedded within thylakoid membranes. The major LH complex of the photosystem II (PSII)
+of diatoms is a fucoxanthin and chlorophyll binding protein (FCP) containing fucoxanthin
+carotenoids in the place of the xanthophylls present in higher plants4. Although the LH
+complexes of higher plants and diatoms belong to similar protein classes with comparable
+sequences, their absorption differs substantially due to the presence of different pigment
+types5.
+
+
+---
+
+Description:
+Carotenoids that enable the absorption of sunlight in the bluegreen region for photosynthesis in marine environments.
+
+Text:
+The large amount of fucoxanthin carotenoids contained in the FCP complexes en
+ables the absorption of sunlight in the bluegreen region, which allows diatoms to perform
+photosynthesis in a marine environment6. Furthermore, the presence of chlorophyllc (Chlc)
+molecules in the diatom FCP complexes, as opposed to the Chlb present in higher plants,
+adds towards this goal. The first crystallographic structure of an FCP complex belongs to the diatom Phaeodacty
+lum tricornutum and shows a dimeric unit7 whereas later studies on the organism Chaetoceros
+gracilis found different tetrameric as well as monomeric units near the PSII core of those
+diatoms8,9. Although the polypeptide structures of these FCP complexes are quite similar,
+they differ in the chlorophyll (Chl) and carotenoid content.
+
+
+---
+
+Description:
+A pigment found in the monomeric FCP unit from P. tricornutum.
+
+Text:
+The monomeric FCP unit from
+P. tricornutum contains nine chlorophylls (seven Chla and two Chlc), seven fucoxanthin
+(Fx) and one diadinoxanthin (Ddx) molecule. In the case of the diatom C. gracilis, the
+PSII core is surrounded by two homotetramers and three dissimilar FCP monomers. The
+2

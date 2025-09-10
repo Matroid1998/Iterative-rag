@@ -1,0 +1,20 @@
+Description:
+A bench-stable catalyst used in aryl eamination reactions with amino acids, oligopeptides, and nucleosides.
+
+Text:
+Aryl amination C(sp2)N crosscoupling reactions are highly valuable and widely used in 
+organic synthesis as anilinetype functional groups are ubiquitously present in drugs and natural 
+products.14 In 2017, Baran and coworkers reported Nicatalyzed electrochemical aryl amination 
+reactions (eamination) between (hetero)aromatic halidetriflate electrophiles and aliphatic amine 
+nucleophiles in the presence of a NiBr2.DME precatalyst and 4,4ditertbutyl2,2dipyridyl 
+(dtbbpy) ligand (Scheme 1).5 Later, Baran advanced this aryl eamination to amino acid, 
+oligopeptides, and nucleoside nucleophiles by using benchstable Ni(bpy)3Br2 catalyst and DBU 
+base.6 More recently, Ruepings group further extended the substrate scope of this aryl eamination 
+to electronrich aryl halidetriflate electrophiles and weak Nnucleophiles such as aniline, 
+sulfonamide, sulfoximine, carbamate, and imine through adjusting the strength of the base.7 
+Mechanistic studies by Baran and coworkers using UVVis spectroscopy, electrochemical studies, 
+and DFT calculations suggested a NiIIII catalytic pathway outlined in Scheme 1.6 In this proposed 
+catalytic cycle, a cathodic reduction generated a LNiIBr species that directly undergoes oxidative 
+addition with the aryl halide to form a NiIII aryl intermediate, LNiIII(Ar)Br2, which is rapidly 
+transformed into a stable LNiII(Ar)Br intermediate via facile comproportionation with NiI 
+species or through cathodic reduction.

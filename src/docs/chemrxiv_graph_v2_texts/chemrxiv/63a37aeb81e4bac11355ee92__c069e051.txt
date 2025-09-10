@@ -1,0 +1,24 @@
+Description:
+An inert gas used to purge reaction vessels to prevent unwanted reactions.
+
+Text:
+Although the IC50 values are lower compared to other active 
+255 
+antineoplastic compounds on the market the treatment of Pancreatic cancer is still evolving and 
+256 
+the need to produce antineoplastics is pertinent. Continued SAR and analogs studies are currently 
+257 
+being conducted to increase bioavailability and increase IC50 values from micromolar to 
+258 
+nanomolar concentrations. 259 
+
+260 
+Experimental Section 
+261 
+General Hydrogenation Conditions A 20L flask equipped with a reflux condenser and an 
+262 
+addition funnel was purged with argon for 10 minutes at 1 bar. PdC (0.1 molar ) was added to 
+263 
+the reaction slowly using a powder funnel under argon. The flask was then purged with argon for 
+264 
+10 minutes at 1 bar. Ethanol (1L) was added slowly to avoid sparking the solvent.

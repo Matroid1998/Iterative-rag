@@ -1,0 +1,22 @@
+Description:
+Reactive dimerization can be analyzed using ab initio molecular dynamics simulations.
+
+Text:
+Ab initio 
+molecular dynamics (AIMD) simulations have been 
+widely applied to reveal the atomic insights of complex 
+reactive systems based on fundamental equations of 
+quantum and classical mechanics. Although AIMD has 
+been successfully used for polyyne inception 17 and 
+PAH reactive dimerization 16, AIMD calculations of 
+large PAH moleculesradicals are still challenging due 
+to the high computational cost despite impressive 
+progress in computing hardware and software in recent 
+decades. Over the past decade, many empirical 
+potentials (or force fields) have been developed to 
+mimic electronic structure calculations potential 
+energy surface (PES). Such empirical potentials, 
+including ReaxFF 18,19 and REBO 20, trade 
+accuracy for a lower computational expense, making it 
+possible to extend simulation scales to orders of 
+magnitude beyond AIMD methods.

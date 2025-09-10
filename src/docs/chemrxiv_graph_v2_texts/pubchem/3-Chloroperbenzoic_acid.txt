@@ -1,0 +1,26 @@
+Name: 3-Chloroperbenzoic acid
+Text:
+This solid peroxide is sensitive to heat. Storage of this material must be done so with stringent temperature control measures. Its explosion hazard is also mitigated by mixing the peroxide in a solvent slurry.
+3-chloroperbenzoic acid is a peroxy acid and a member of monochlorobenzenes.
+Properties:safety: Flammable and Oxidizer and Corrosive and Irritant
+smiles: C1=CC(=CC(=C1)Cl)C(=O)OO
+formula: C7H5ClO3
+chem_properties: Molecular Weight: 172.56 g/mol
+XLogP3: 2.4
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 2
+Exact Mass: 171.9927217 Da
+Monoisotopic Mass: 171.9927217 Da
+Topological Polar Surface Area: 46.5
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 149
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

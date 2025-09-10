@@ -1,0 +1,36 @@
+Name: Morphine
+Text:
+Morphine is a morphinane alkaloid that is a highly potent opiate analgesic psychoactive drug. Morphine acts directly on the central nervous system (CNS) to relieve pain but has a high potential for addiction, with tolerance and both physical and psychological dependence developing rapidly. Morphine is the most abundant opiate found in Papaver somniferum (the opium poppy). It has a role as an opioid analgesic, a mu-opioid receptor agonist, a plant metabolite, an environmental contaminant, a xenobiotic, a vasodilator agent, an anaesthetic, a drug allergen and a geroprotector. It is an organic heteropentacyclic compound, a tertiary amino compound and a morphinane alkaloid. It is a conjugate base of a morphine(1+). It derives from a hydride of a morphinan.
+Morphine is a DEA Schedule II controlled substance. Substances in the DEA Schedule II have a high potential for abuse which may lead to severe psychological or physical dependence.
+Morphine, the main alkaloid of opium, was first obtained from poppy seeds in 1805. It is a potent analgesic, though its use is limited due to tolerance, withdrawal, and the risk of abuse. Morphine is still routinely used today, though there are a number of semi-synthetic opioids of varying strength such as [codeine], [fentanyl], [methadone], [hydrocodone], [hydromorphone], [meperidine], and [oxycodone].  Morphine was granted FDA approval in 1941.
+Morphine is an Opioid Agonist. The mechanism of action of morphine is as a Full Opioid Agonist.
+Morphine is one of the natural plant alkaloids found in opium and is the prototype opiate, against which other derivatives are measured in terms of analgesic effects and side effects. Morphine has not been linked to serum enzyme elevations during therapy or to clinically apparent liver injury.
+Morphine has been reported in Papaver rhoeas, Papaver armeniacum, and other organisms with data available.
+Morphine is an opiate alkaloid isolated from the plant Papaver somniferum and produced synthetically. Morphine binds to and activates specific opiate receptors (delta, mu and kappa), each of which are involved in controlling different brain functions. In the central nervous and gastrointestinal systems, this agent exhibits widespread effects including analgesia, anxiolysis, euphoria, sedation, respiratory depression, and gastrointestinal system smooth muscle contraction. (NCI04)
+Morphine Sulfate is the sulfate salt of morphine, an opiate alkaloid isolated from the plant Papaver somniferum and produced synthetically. Morphine binds to and activates specific opiate receptors (delta, mu and kappa), each of which are involved in controlling different brain functions. In the central nervous and gastrointestinal systems, this agent has widespread effects including analgesia, anxiolysis, euphoria, sedation, respiratory depression, and gastrointestinal system smooth muscle contraction.
+MORPHINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1984 and has 5 approved and 50 investigational indications. This drug has a black box warning from the FDA.
+Morphine is only found in individuals that have used or taken this drug. It is the principal alkaloid in opium and the prototype opiate analgesic and narcotic. Morphine has widespread effects in the central nervous system and on smooth muscle. The precise mechanism of the analgesic action of morphine is unknown. However, specific CNS opiate receptors have been identified and likely play a role in the expression of analgesic effects. Morphine first acts on the mu-opioid receptors. The mechanism of respiratory depression involves a reduction in the responsiveness of the brain stem respiratory centers to increases in carbon dioxide tension and to electrical stimulation.It has been shown that morphine binds to and inhibits GABA inhibitory interneurons. These interneurons normally inhibit the descending pain inhibition pathway. So, without the inhibitory signals, pain modulation can proceed downstream.
+The principal alkaloid in opium and the prototype opiate analgesic and narcotic. Morphine has widespread effects in the central nervous system and on smooth muscle.
+See also: Morphine Sulfate (has salt form); Morphine Hydrochloride (has salt form); Nicomorphine (is active moiety of) ... View More ...
+Properties:safety: Irritant and Health Hazard
+smiles: CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)O)O[C@H]3[C@H](C=C4)O
+formula: C17H19NO3
+chem_properties: Molecular Weight: 285.34 g/mol
+XLogP3: 0.8
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 285.13649347 Da
+Monoisotopic Mass: 285.13649347 Da
+Topological Polar Surface Area: 52.9
+Heavy Atom Count: 21
+Formal Charge: 0
+Complexity: 494
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 5
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

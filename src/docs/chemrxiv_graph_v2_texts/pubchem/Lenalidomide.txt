@@ -1,0 +1,32 @@
+Name: Lenalidomide
+Text:
+Lenalidomide is a dicarboximide that consists of 1-oxoisoindoline bearing an amino substituent at position 4 and a 2,6-dioxopiperidin-3-yl group at position 2. Inhibits the secretion of TNF-alpha. It has a role as an angiogenesis inhibitor, an antineoplastic agent and an immunomodulator. It is a member of isoindoles, a dicarboximide, a member of piperidones and an aromatic amine.
+Lenalidomide (previously referred to as CC-5013) is an immunomodulatory drug with potent antineoplastic, anti-angiogenic, and anti-inflammatory properties. It is a 4-amino-glutamyl analogue of [thalidomide] and like thalidomide, lenalidomide exists as a racemic mixture of the active S(-) and R(+) forms. However, lenalidomide is much safer and potent than thalidomide, with fewer adverse effects and toxicities. Thalidomide and its analogues, including lenalidomide, are referred to as immunomodulatory imide drugs (also known as cereblon modulators), which are a class of immunomodulatory drugs that contain an imide group. Lenalidomide works through various mechanisms of actions that promote malignant cell death and enhance host immunity. Available as oral capsules, lenalidomide is approved by the FDA and EU for the treatment of multiple myeloma, myelodysplastic syndromes, mantle cell lymphoma, follicular lymphoma, and marginal zone lymphoma in selected patients. Due to severe teratogenicity, pregnancy must be excluded before the start of treatment and patients must enroll in the lenalidomide Risk Evaluation and Mitigation Strategy (REMS) program to ensure contraception adherence.
+Lenalidomide is a Thalidomide Analog.
+Lenalidomide is an immunomodulatory and antineoplastic agent that is used in the therapy of multiple myeloma. Lenalidomide is associated with a low rate of serum aminotransferase elevations during therapy and has been implicated in causing rare instances of clinically apparent liver injury which can be severe.
+Lenalidomide is a thalidomide analog with potential antineoplastic activity.  Lenalidomide inhibits TNF-alpha production, stimulates T cells, reduces serum levels of the cytokines vascular endothelial growth factor (VEGF) and basic fibroblast growth factor (bFGF), and inhibits angiogenesis.  This agent also promotes G1 cell cycle arrest and apoptosis of malignant cells.
+LENALIDOMIDE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2005 and has 6 approved and 82 investigational indications. This drug has a black box warning from the FDA.
+A phthalimide and piperidone derivative that has immunomodulatory and antiangiogenic properties. It is used for the treatment of transfusion-dependent anemia in MYELODYSPLASTIC SYNDROMES, and for the treatment of MULTIPLE MYELOMA, and relapsed or refractory MANTLE CELL LYMPHOMA.
+See also: Lenalidomide hemihydrate (is active moiety of); Lenalidomide hydrochloride (is active moiety of); Lenalidomide hydrochloride hydrate (is active moiety of).
+Properties:safety: Acute Toxic and Irritant and Health Hazard
+smiles: C1CC(=O)NC(=O)C1N2CC3=C(C2=O)C=CC=C3N
+formula: C13H13N3O3
+chem_properties: Molecular Weight: 259.26 g/mol
+XLogP3: -0.5
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 1
+Exact Mass: 259.09569129 Da
+Monoisotopic Mass: 259.09569129 Da
+Topological Polar Surface Area: 92.5
+Heavy Atom Count: 19
+Formal Charge: 0
+Complexity: 437
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,16 @@
+Description:
+Low coordinate species supported on silica that activate CH bonds in alkanes by a sigma bond metathesis reaction.
+
+Text:
+Polymeric hydrocarbon waste is an abundant and inexpensive 
+source of carbon for a future sustainable chemical industry.1 Chem
+ical modification of polymeric hydrocarbons face similar chal
+lenges to those encountered in the chemistry of light alkanes; these 
+contain unpolarized sp3 hybridized CH and CC bonds that are 
+thermodynamically stable and kinetically inert. Reactive catalysts 
+are necessary to activate these unreactive bonds.2 An example is 
+the mixture of low coordinate zirconium hydrides supported on sil
+ica shown in Figure 1a.3 The ZrH sites activate a CH bond in an 
+alkane by a sbond metathesis reaction4 that follows the 4centered 
+transition state shown in Figure 1b to generate the organozirconium 
+product.

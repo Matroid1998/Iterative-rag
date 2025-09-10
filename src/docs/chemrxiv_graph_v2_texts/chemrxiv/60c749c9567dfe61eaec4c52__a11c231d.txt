@@ -1,0 +1,25 @@
+Description:
+A chlorinated methane with an adsorption energy of 25 to 40 kJ mol in DUT8(Ni).
+
+Text:
+We recently presented
+the possibility to perform molecular dynamics
+(MD) simulations of DUT8(Ni) by employing
+Ligand Field Molecular Mechanics (LFMM) for
+the description of the metal nodes.25 Alzahrani
+and Deeth lately also conrmed the applicabil
+ity of LFMM for the description of exibility in
+MOFs.29
+Experimental adsorption energies of chlori
+nated methanes (CHxCl4x, x
+
+0 to 3)
+in DUT8(Ni) (25 to 40 , 35 to 50 ,
+30 to 40 and 20 to 40 kJ mol1 for CCl4
+to CH3Cl respectively, see Figure 2b)26,30 sug
+gest, in agreement with chemical intuition, a
+signicant impact of the guests dipole mo
+ment on the adsorption energy. From the ex
+perimental data, a trend relating the adsorp
+tion energies with the electrostatic interactions
+1

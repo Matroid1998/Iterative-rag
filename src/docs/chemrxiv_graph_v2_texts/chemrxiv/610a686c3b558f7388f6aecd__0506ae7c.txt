@@ -1,0 +1,10 @@
+Description:
+Anions used in bottom-up chemical synthesis with divalent metallic cations.
+
+Text:
+However, for largescale applications they suffer from an important lack of scalability. From a different point of view, we find 
+methods in solution, like bottomup chemical synthesis from thiohypophosphate (P2S6)4 anions and divalent metallic cations M2,12 
+and the topdown liquidphase exfoliation (LPE) approach. These strategies provide much higher versatility and processability, 
+making them perfect candidates for developing 2Dcrystalbased functional inks.13,14 Regarding LPE approach, it is a 
+straightforward method but with a low degree of control over the quality of the layers. Even so, very few works have tried to 
+exfoliate MPX3 through sonicationassisted exfoliation.

@@ -1,0 +1,23 @@
+Description:
+Forms complexes with bond distances ranging from 1.7 to 2.3 Å, exhibiting multicongurational electronic structures.
+
+Text:
+Starting with Cottons work in the 1970s, a variety of dichromium com
+plexes have been synthesized; characterization by diraction has shown that the bond distances
+range from 1.7 to 2.3 .4,1118 Although in the early days formal bond orders were estimated
+based on distances, computational work using multicongurational methods has established that
+the electronic structure of these complexes is multicongurational due to the small energy splitting
+between the , , and  orbitals.
+
+
+---
+
+Description:
+Complexes that present unique challenges in empirical force constants and bond distances.
+
+Text:
+Da Re et al. emphasize the unique challenges in dichromium
+complexes by comparing the empirical force constants and bond distances for rst and second
+row transition metals. For example, Mo(II)Mo(II) bond distances empirically correlate to their
+vibrational frequencies, as expected, with force constants increasing monotonically with decreas
+2

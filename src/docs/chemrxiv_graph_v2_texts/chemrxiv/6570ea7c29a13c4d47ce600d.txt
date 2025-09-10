@@ -1,0 +1,20 @@
+Description:
+Two-dimensional material that can bind biological macromolecules such as proteins and DNA.
+
+Text:
+Complex surface structures are responsible for the 
+remarkable degree of biomolecular selectivity found in nature. Macromolecules bind to these biointerfaces through multiple 
+weak interactions, with electrostatic and hydrophobic 
+interactions 
+critical 
+in 
+determining 
+selectivity.1 Two
+dimensional materials represent promising artificial mimics due 
+to their high specific surface areas and accessible functional 
+groups.2,3 A wide range of nanomaterials including transition 
+metal dichalcogenides, MXenes and graphene have displayed 
+an ability to bind biological macromolecules such as proteins 
+and DNA.46 However, the simple inorganic structure of these 
+surfaces leads to stochastic functionalization with different 
+binding groups, therefore limiting their selectivity.

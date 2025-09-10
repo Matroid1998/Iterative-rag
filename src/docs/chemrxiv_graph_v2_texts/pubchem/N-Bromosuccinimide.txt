@@ -1,0 +1,27 @@
+Name: N-Bromosuccinimide
+Text:
+N-bromosuccinimide is a five-membered cyclic dicarboximide compound having a bromo substituent on the nitrogen atom. It has a role as a reagent. It is a dicarboximide, a pyrrolidinone and an organobromine compound. It is functionally related to a succinimide.
+n-Bromosuccinimide (NBS) is a organobromide compound used in a variety of bromination reactions for chemical synthesis.  It can be used to donate bromine to alkenes, to allylic or benzyl compounds, to carbonyl-containing compounds as well as aromatic compounds such as phenols, anilines, and various aromatic heterocycles. NBS will decompose over time giving off bromine. Pure NBS is white, but it is often found to be off-white or brown colored by bromine. NBS can be used as a protein modification agent that targets tryptophan and histidine residues.  
+A brominating agent that replaces hydrogen atoms in benzylic or allylic positions. It is used in the oxidation of secondary alcohols to ketones and in controlled low-energy brominations. (From Miall's Dictionary of Chemistry, 5th ed; Hawley's Condensed Chemical Dictionary, 12th ed,).
+Properties:safety: Oxidizer and Corrosive and Irritant and Environmental Hazard
+smiles: C1CC(=O)N(C1=O)Br
+formula: C4H4BrNO2
+chem_properties: Molecular Weight: 177.98 g/mol
+XLogP3: -0.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 176.94254 Da
+Monoisotopic Mass: 176.94254 Da
+Topological Polar Surface Area: 37.4
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 129
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

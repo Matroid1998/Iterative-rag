@@ -1,0 +1,30 @@
+Name: N-Nitroso-N-Methylurea
+Text:
+N-Nitroso-N-methylurea can cause cancer according to an independent committee of scientific and health experts.
+N-nitroso-n-methylurea appears as pale yellow crystals or light yellow moist powder. (NTP, 1992)
+N-methyl-N-nitrosourea is a member of the class of N-nitrosoureas that is urea in which one of the nitrogens is substituted by methyl and nitroso groups. It has a role as a carcinogenic agent, a mutagen, a teratogenic agent and an alkylating agent.
+N-Nitroso-n-methylurea has been studied in mutagenicity and genetics studies and for use as a cancer chemotherapy agent. No commercial use of N-nitroso-n-methylurea is known. Acute (short-term) exposure toN-nitroso-n-methylurea in humans causes dermatitis. No information is available on the chronic (long-term), reproductive, developmental, or carcinogenic effects of N-nitroso-n-methylurea in humans or animals. Tumors have been reported in the offspring of animals treated with N-nitroso-n- methylurea during their pregnancy. Animal studies have reported tumors of the brain, spinal cord, nerves, stomach, pancreas, and kidneys from oral exposure to N-nitroso-n-methylurea. EPA has classified N- nitroso-n-methylurea as a Group B2, probable human carcinogen.
+Methylnitrosourea is a pale yellow, crystalline nitrosourea that is sensitive to light and moisture and emits toxic fumes of nitrogen oxides when heated to decomposition. Methylnitrosourea is an alkylating agent that is primarily used for research purposes to induce tumors and has also been studied as a chemotherapy agent for cancer treatment. Exposure to methylnitrosourea causes dermatitis. Methylnitrosourea is reasonably anticipated to be a human carcinogen. (NCI05)
+A nitrosourea compound with alkylating, carcinogenic, and mutagenic properties.
+Properties:safety: Flammable and Acute Toxic and Health Hazard
+smiles: CN(C(=O)N)N=O
+formula: C2H5N3O2
+chem_properties: Molecular Weight: 103.08 g/mol
+XLogP3: 0
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 103.038176411 Da
+Monoisotopic Mass: 103.038176411 Da
+Topological Polar Surface Area: 75.8
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 90.9
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

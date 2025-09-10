@@ -1,0 +1,12 @@
+Description:
+Used in electrochemical deposition for forming interconnects in semiconductor devices.
+
+Text:
+Copper is the current metal of choice for interconnects between devices in semiconductor 
+chips. The copper interconnects are formed by filling recessed features in lowk oxides with 
+copper using either atomic layer deposition (ALD) for the smallest features, or 
+electrochemical deposition (ECD) for larger features.1 ECD requires an electrically 
+conducting surface, and ALD is often used to make a seed layer for the ECD process.2 While 
+ECD has become the most widely used method for Cu deposition for interconnects due to its 
+ability to deposit highly conformal films with excellent step coverage in highaspectratio 
+structures, wetchemical techniques cannot be easily integrated in vacuumcluster tools.

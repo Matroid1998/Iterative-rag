@@ -1,0 +1,15 @@
+Description:
+A solvent in which the metastable Z-isomer of azobenzene has a half-life of 2 days at room temperature.
+
+Text:
+Azobenzene requires ultraviolet light 
+(320 nm) to promote the E  Z isomerization, limiting its utility in vivo due to undesired light
+promoted dimerizations, destruction of living tissue from UVlight, and low light penetrability in 
+living tissue.11, 2223 Further, the metastable Zisomer thermally reverts to the E isomer and has a 
+halflife (t12) of 2 days at room temperature in acetonitrile. This relatively short halflife results in 
+an unstable photostationary state (PSS), thus limiting photoswitch efficacy where bistability is 
+neded.8 As such, an ideal photoswitch features a longlived t12 (e.g., weeks to months), an Eisomer 
+
+1 
+max in the visible range, and wellseparated max values for the E and Z isomers to prevent bimodal 
+isomerization. Scheme 1. The azobenzene photoswitch reaction.

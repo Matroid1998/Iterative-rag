@@ -1,0 +1,24 @@
+Description:
+Involved in combustion mechanisms.
+
+Text:
+24 implemented an NNbased 
+model to reveal the mechanisms of methane 
+combustion. In addition to developing PES models, many other 
+methods have been developed to accelerate AIMD 
+calculations. The nanoreactor is a recently introduced 
+AIMDaccelerating simulation method 25. The rate 
+of reactions can be highly accelerated with a virtual 
+piston periodically pushing molecules toward the 
+center of the simulation. Several new pathways for 
+glycine synthesis from primitive compounds proposed 
+to exist on early Earth have been successfully revealed 
+26. Nanoreactors would provide new insights into 
+complicated 
+chemical 
+processes 
+and 
+discover 
+elementary steps suitable for complex systems such as 
+soot. Here, we develop an NNbased model to explore the 
+soot formation mechanism with ab initio accuracy.

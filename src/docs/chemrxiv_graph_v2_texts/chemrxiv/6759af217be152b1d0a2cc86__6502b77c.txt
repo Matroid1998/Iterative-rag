@@ -1,0 +1,28 @@
+Description:
+A molecule involved in electrochemical capture approaches and adsorption processes.
+
+Text:
+Compared with other batterytype 
+electrochemical CO2 capture approaches based on electrochemicallydriven pH swings (57), redoxactive 
+CO2binding molecules (811) and electrochemically mediated amine regeneration (1214), the SSAbased 
+technology exhibits outstanding energy efficiency and stability (15). Recent works have optimized electrode 
+materials (15, 16), electrolyte compositions (17, 18), and charging protocols (1921) for SSA. Even with this 
+progress, there is still a lack of a clear pathway to enhance the relatively low CO2 adsorption capacities of SSA 
+(approximately 100 mmol CO2 per kg of the active mass of the working electrode) owing in part to the 
+incomprehensive mechanistic understanding of SSA (21).
+
+
+---
+
+Description:
+A gas with adsorption capacity that increases with decreasing applied current in a Zn-ion hybrid capacitor.
+
+Text:
+Our asymmetric supercapacitorbattery hybrid system (i.e., Znion hybrid 
+capacitor) exhibited an increasing trend in the CO2 adsorption capacity with a decreasing applied current (208 
+mmolCO2 kg1 at 1 mA g1), surpassing that of the symmetric supercapacitor which showed decreased CO2 
+adsorption capacities under slow charging conditions. Our approach introduces an entirely new supercapacitor
+battery hybrid system for electrochemical CO2 capture and provides insights into the competing processes in 
+symmetric supercapacitors for SSA. Furthermore, this work shows that the concept of asymmetric 
+supercapacitors for SSA can be generally extended using other counter electrode materials (e.g., microporous 
+httpsdoi.org10.26434chemrxiv2024qf2nx ORCID httpsorcid.org0000000193897993 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

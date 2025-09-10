@@ -1,0 +1,13 @@
+Description:
+A substrate on which edge-induced Kondo resonance in nonplanar zigzag edge termini has been demonstrated.
+
+Text:
+One of the
+effective methods for widening the band gap of graphene is the creation of 1D graphene nanoribbons (GNRs) from 2D
+graphene sheets.1719 GNRs with different shapes and widths can be experimentally synthesized using lithography and
+bottomup chemical synthesis using molecular precursors.2024 The Band gap engineering and magnetic properties
+of GNRs have been extensively studied.2529 The zigzag graphene nanoribbons (ZGNRs) are lowbandgap magnetic
+semiconductors with antiferromagnetic coupling between the opposite edges. Recently, Xu et al. have experimentally
+demonstrated the edgeinduced Kondo resonance in nonplanar zigzag edge termini on bare Au(111).30 The antifer
+romagnetic coupling and spindegenerate energy levels result in the poor magnetic moment of ZGNR, which limits
+its application in spintronics. Son et al.

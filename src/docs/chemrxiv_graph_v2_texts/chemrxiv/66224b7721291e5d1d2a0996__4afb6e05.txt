@@ -1,0 +1,15 @@
+Description:
+A metal reductant traditionally used in reductive cross coupling reactions.
+
+Text:
+Synergistic photoredoxtransition metal catalysis, commonly referred to as metallaphotoredox, has 
+emerged as a reliable strategy for designing and developing new transformations under mild conditions.1 
+Compared to single catalytic systems, metallaphotoredox catalysis combines the unrivaled capability of 
+transition metal catalysis for bond formation with the broad utility of photoinduced electron or energy
+transfer processes, which facilitates the success of challenging chemical transformations.2 Among the 
+various established metallaphotoredox catalytic systems, the reductive crosscoupling reactions have 
+been extensively studied that afford a straightforward and modular approach to access valuable complex 
+targets from two readily available electrophiles.3 In contrast to traditional reductive cross coupling 
+reactions, this photoredoxassisted reductive strategy not only avoids the use of superstoichiometric metal 
+reductants (e.g., Zn, Mn, ZnEt2), but also improves the catalysts performance as well as enables precise 
+control over multiple selectivities via modulation of two independent catalytic cycles.

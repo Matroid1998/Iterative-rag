@@ -1,0 +1,32 @@
+Name: Rivaroxaban
+Text:
+Rivaroxaban is a monocarboxylic acid amide obtained by formal condensation of the carboxy group of 5-chlorothiophene-2-carboxylic acid with the amino group of 4-{4-[(5S)-5-(aminomethyl)-2-oxo-1,3-oxazolidin-3-yl]phenyl}morpholin-3-one. An anticoagulant used for prophylaxis of venous thromboembolism in patients with knee or hip replacement surgery. It has a role as an anticoagulant and an EC 3.4.21.6 (coagulation factor Xa) inhibitor. It is a member of thiophenes, an organochlorine compound, an oxazolidinone, a member of morpholines, a lactam, an aromatic amide and a monocarboxylic acid amide.
+Rivaroxaban is an anticoagulant and the first orally active direct factor Xa inhibitor. Unlike warfarin, routine lab monitoring of INR is not necessary. However there is no antidote available in the event of a major bleed. Only the 10 mg tablet can be taken without regard to food. The 15 mg and 20 mg tablet should be taken with food. FDA approved on July 1, 2011.
+Rivaroxaban is a Factor Xa Inhibitor. The mechanism of action of rivaroxaban is as a Factor Xa Inhibitor.
+Rivaroxaban is an oral anticoagulant and direct factor Xa inhibitor which is used in the prevention of stroke and venous embolism in patients with chronic atrial fibrillation, as well as treatment and prevention of deep venous thromboses and pulmonary embolism. Rivaroxaban has been associated with a low rate of serum enzyme elevations during treatment and with rare instances of clinically apparent liver injury with jaundice.
+Rivaroxaban is an orally bioavailable oxazolidinone derivative and direct inhibitor of the coagulation factor Xa with anticoagulant activity. Upon oral administration, rivaroxaban selectively binds to both free factor Xa and factor Xa bound in the prothrombinase complex. This interferes with the conversion of prothrombin (factor II) to thrombin and eventually prevents the formation of cross-linked fibrin clots. Rivaroxaban does not affect existing thrombin levels.
+RIVAROXABAN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2008 and has 8 approved and 30 investigational indications. This drug has a black box warning from the FDA.
+A morpholine and thiophene derivative that functions as a FACTOR XA INHIBITOR and is used in the treatment and prevention of DEEP-VEIN THROMBOSIS and PULMONARY EMBOLISM. It is also used for the prevention of STROKE and systemic embolization in patients with non-valvular ATRIAL FIBRILLATION, and for the prevention of atherothrombotic events in patients after an ACUTE CORONARY SYNDROME.
+See also: Rivaroxaban, Xarelto, BAY 59-7939 (narrower).
+Properties:safety: Environmental Hazard
+smiles: C1COCC(=O)N1C2=CC=C(C=C2)N3C[C@@H](OC3=O)CNC(=O)C4=CC=C(S4)Cl
+formula: C19H18ClN3O5S
+chem_properties: Molecular Weight: 435.9 g/mol
+XLogP3: 2.5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 5
+Exact Mass: 435.0655696 Da
+Monoisotopic Mass: 435.0655696 Da
+Topological Polar Surface Area: 116
+Heavy Atom Count: 29
+Formal Charge: 0
+Complexity: 645
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

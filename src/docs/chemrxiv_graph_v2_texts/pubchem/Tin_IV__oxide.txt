@@ -1,0 +1,28 @@
+Name: Tin(IV) oxide
+Text:
+Tin(iv) oxide appears as white or off-white crystalline solid or powder. mp: 1127 °C, Sublimes: 1800-1900 °C, density: 6.95 g/cm3 Insoluble in water. Soluble in concentrated sulfuric acid, hydrochloric acid. Occurs in nature as the mineral cassiterite. Used as a catalyst, in putty, as a polishing powder for steel and glass, in ceramic glazes and colors. "Flowers of tin" refers to the material collected as the result of condensation after sublimation.
+Tin dioxide is a tin oxide compound consisting of tin(IV) covalently bound to two oxygen atoms.
+Cassiterite is a mineral with formula of Sn4+O2 or SnO2. The IMA symbol is Cst.
+Tin oxide is an inorganic compound of tin found naturally as the mineral cassiterite. It is used in the synthesis of other chemicals, as pigment in the manufacture of glasses, enamels, and ceramic glazes, and as a polishing powder. Tin is a chemical element with the symbol Sn and atomic number 50. It is a natural component of the earth's crust and is obtained chiefly from the mineral cassiterite, where it occurs as tin dioxide. (L307, L309, L317)
+See also: Stannic oxide (annotation moved to); Tin(IV) oxide (as Sn) (annotation moved to).
+Properties:safety: Irritant
+smiles: O=[Sn]=O
+formula: SnO2
+chem_properties: Molecular Weight: 150.71 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 151.892032 Da
+Monoisotopic Mass: 151.892032 Da
+Topological Polar Surface Area: 34.1
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 18.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,91 @@
+Description:
+Unique among amino acids due to the large atomic radius of its sulfur atom and the relative weakness of the SH bond.
+
+Text:
+1
+Cysteine is unique among the twenty proteogenic amino acids due to the large atomic radius
+2
+of its sulfur atom and the relative weakness of the corresponding SH bond. This imbues it
+3
+with remarkable nucleophilicity, facilitating spontaneous reactions even under mild conditions.1
+4
+The inherent nucleophilicity of a given cysteine is governed by its pKa, a value that implies the
+5
+favorability of the ionization state of the thiol.
+
+
+---
+
+Description:
+Exhibits remarkable nucleophilicity, facilitating spontaneous reactions even under mild conditions.
+
+Text:
+1
+Cysteine is unique among the twenty proteogenic amino acids due to the large atomic radius
+2
+of its sulfur atom and the relative weakness of the corresponding SH bond. This imbues it
+3
+with remarkable nucleophilicity, facilitating spontaneous reactions even under mild conditions.1
+4
+The inherent nucleophilicity of a given cysteine is governed by its pKa, a value that implies the
+5
+favorability of the ionization state of the thiol.
+
+
+---
+
+Description:
+Residues play functional roles in redox and nucleophilic catalysis, metal binding, environmental sensing, and structural formation.
+
+Text:
+Solventexposed cysteines have values near 8,2,3
+6
+while buried cysteines or those located in a unique protein microenvironment can range from 3
+7
+to 12.4,5 Given their variable pKa values and unique properties, cysteine residues play various
+8
+functional roles in redox and nucleophilic catalysis,6 metal binding,7 environmental sensing,8 and
+9
+structural formation.9,10
+10
+In recent years, interest has grown in targeting cysteine residues with covalent inhibitors.11
+11
+To overcome poor target selectivity and drug resistance, an electrophilic warhead moiety may be
+12
+incorporated into a reversible submicromolar inhibitor to covalently bind a nucleophilic residue this
+13
+modification can dramatically increase therapeutic potency.12,13 Members of this class of reactive
+14
+molecules are commonly referred to as targeted covalent inhibitors (TCIs) and predicting their
+15
+affinity and reversibility is particularly desirable.14
+16
+A key step in a TCI binding and reaction landscape is the deprotonation of the cysteine thiol
+17
+and the formation of the nucleophilic thiolate.
+
+
+---
+
+Description:
+A side chain whose protonation rate and pKa are correlated, influencing its reactivity and propensity for covalent modification.
+
+Text:
+Experimental exchangerate studies have shown
+18
+that the equilibrium between the protonated and deprotonated states of solventexposed cysteine
+19
+side chains is fast15 (i.e., 1012  M1s1) and that the protonation rate and pKa are well corre
+20
+lated.15,16 That is to say, the pKa of a particular cysteine provides the relevant information about
+21
+the energy required to form the nucleophilic thiolate and, by extension, the propensity for covalent
+22
+modification. 23
+Experimental methods for determining the pKa value of a cysteine can involve kinetic assays,
+24
+spectrophotometric titrations, or NMR spectroscopy; however, in a purely computational in silico
+25
+screen of potential covalent modifiers, the ability to rapidly and accurately probe the reactivity of
+26
+a target cysteine under various conditions is highly desirable.

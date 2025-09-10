@@ -1,0 +1,30 @@
+Description:
+Form membrane-bound compartments under prebiotically plausible conditions.
+
+Text:
+Mixtures of singlechain amphiphiles (e.g., fatty acids, alco
+hols, and aldehydes) form membranebound compartments un
+der prebiotically plausible conditions.57 However, their sensi
+tivity to metal ions8 restricts their ability to host Mg2driven 
+RNA polymerisation9 and Fedriven protometabolic pro
+cesses,10,11 and suggests that complex phospholipids were likely 
+needed for the emergence of robust primitive cells.3,4 Notably, 
+phospholipids enhance the stability of fatty acidbased mem
+branes to pH and divalent cations,1214 but such blended mem
+branes do not host the compositional diversity of phospholipids 
+nor mirror the functional capabilities exhibited by modern 
+membranes.
+
+
+---
+
+Description:
+Components that, when activated with glycerol phosphates, contribute to the formation of phospholipids.
+
+Text:
+Only a few routes have been described for the prebiotic syn
+thesis of phospholipids.15 For instance, activation of mixtures of 
+fatty acids and glycerol phosphates gives rise to selfassembling 
+(lyso)phosphatidic acids, the simplest of phospholipids.3,6,1618 
+However, pathways leading to more complex phospholipids 
+(e.g., phosphatidylcholines) remain scarce.

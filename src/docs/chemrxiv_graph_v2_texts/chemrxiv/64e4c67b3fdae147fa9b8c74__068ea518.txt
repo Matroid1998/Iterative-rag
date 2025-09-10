@@ -1,0 +1,12 @@
+Description:
+A compound used as a dopant in DNP juice to enhance polarization transfers.
+
+Text:
+We present a comprehensive theory of polarization transfers by FIRE. We then 
+demonstrate polarizations up to 17 in the liquid state after only 10 min of DNP for 13Cformate and 313C
+pyruvate in DNP juice doped with 50 mM TEMPOL. Finally, we propose routes to extend the applicability of 
+the method to molecules with weak J couplings such as 113Cpyruvate, which is highly relevant to in vivo 
+imaging. Theory 
+FIRE makes use of an adiabatic magnetic field inversion to transfer Zeeman order between heteronuclear spins 
+via their J coupling. A quantum adiabatic process is a transformation that is slow enough to allow the system to 
+remain in its eigenstates.

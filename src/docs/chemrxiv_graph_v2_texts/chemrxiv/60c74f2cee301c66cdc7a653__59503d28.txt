@@ -1,0 +1,14 @@
+Description:
+A semiconductor material suitable for thin film synthesis via chemical vapor deposition.
+
+Text:
+Given a bandgap in UV (5.9 eV), the sp2hybridized forms of boron nitride 
+(sp2BN) 1, hexagonal BN (hBN) and rhombohedral BN (rBN) are promising thin 
+film materials for application in UVoptoelectronics. As for the other 1315 
+semiconductor materials AlN, GaN, and InN, chemical vapor deposition (CVD) is a 
+suitable thin film synthesis route for sp2BN. However, deposition of crystalline sp2
+BN films by thermal CVD often requires deposition temperatures above 1200 C.29 
+This limits the choice of substrate materials for epitaxy seen from demonstrated 
+growth on 3CSiC(111), 4H and 6HSiC(0001) and Al2O3(0001). From this perspective zirconium diboride ZrB2 with a hexagonal AlB2type 
+structure10 is an interesting alternative seen from a melting point of 3245 C that is 
+favorable in hightemperature CVD processes.

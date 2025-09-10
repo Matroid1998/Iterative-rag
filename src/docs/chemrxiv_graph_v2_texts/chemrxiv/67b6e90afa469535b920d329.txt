@@ -1,0 +1,13 @@
+Description:
+Additives ensuring good electrical conductivity in lithium-ion battery electrodes.
+
+Text:
+Energy storage technologies, such as LithiumIon Batteries (LIBs), play a major role in the 
+ongoing global energy transition. LIBs play a very important role in our societies, as illustrated by 
+the wide variety of their successful applications, from portable electronics to transportation 1 
+LIB cells are made of two porous electrodes supported on current collectors, and a porous 
+separator. The electrodes are composites made of Active Material (AM) ensuring lithiation and 
+delithiation electrochemical reactions, carbon additives ensuring good electrical conductivity, and 
+polymeric binders ensuring mechanical integrity. The pores within the electrodes and the 
+separators are filled with liquid electrolyte in order to ensure lithiumion exchange between the 
+electrodes upon the electrochemical cycling of the LIB cells.

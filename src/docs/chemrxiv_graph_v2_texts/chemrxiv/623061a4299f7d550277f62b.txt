@@ -1,0 +1,15 @@
+Description:
+An organic electrolyte used in proton quantification and acidity control.
+
+Text:
+To monitor the proton activity in our cell, we used the fluorescent dye 
+carboxyfluorescein (FAM). FAM allowed a calibration using an 
+external titration that coincided with the proton concentration 
+calculated using the Faradaic currents. We also calibrated the 
+system using a special tautomerization process that FAM undergoes 
+at a particular pH, and we used the proton quantification to control 
+the acidity in acetonitrile (ACN). We used the fluorescence to 
+calibrate the proton activity of acids in an organic electrolyte, 
+observing the formation of superacids due to the influence of proton 
+carrier salts in the electrolyte. Finally, we used our electrochemical 
+cell for the deprotection of acid labile groups.

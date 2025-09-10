@@ -1,0 +1,29 @@
+Name: Lead oxide
+Text:
+Litharge appears as odorless gray or yellow green or red-brown solid. Sinks in water. (USCG, 1999)
+Litharge is a mineral with formula of Pb2+O or PbO. The IMA symbol is Lit.
+Massicot is a mineral with formula of Pb2+O or PbO. The IMA symbol is Msi.
+Lead oxides are a group of inorganic compounds with formulas including lead (Pb) and oxygen (O). It occurs in both a red and yellow form. It occurs naturally as the minerals litharge (red form) and massicot (yellow form).  Lead oxide is found in paints and is used extensively in the manufacturing of lead glasses, ceramic glazes, and batteries. Lead is a heavy metal and stable element with the symbol Pb and the atomic number 82, existing in metallic, organic, and inorganic forms. It is mainly found in nature as the mineral galena (PbS), cerussite (PbCO3) or anglesite (PbSO4), usually in ore with zinc, silver, or copper. (L21, L412)
+Lead tetroxide is an oxide of lead the occurs naturally as the mineral minium. It is most often used in the production of batteries, pigments and lead glass. Lead is a heavy metal and stable element with the symbol Pb and the atomic number 82, existing in metallic, organic, and inorganic forms. It is mainly found in nature as the mineral galena (PbS), cerussite (PbCO3) or anglesite (PbSO4), usually in ore with zinc, silver, or copper. (L21, L414)
+See also: Lead(II) oxide red (annotation moved to).
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: O=[Pb]
+formula: OPb
+chem_properties: Molecular Weight: 223 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 223.97157 Da
+Monoisotopic Mass: 223.97157 Da
+Topological Polar Surface Area: 17.1
+Heavy Atom Count: 2
+Formal Charge: 0
+Complexity: 2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,11 @@
+Description:
+A halogenated uracil radiosensitizer studied for its photorelaxation dynamics in aqueous solution.
+
+Text:
+In this study, we investigate the photorelaxation dynamics of 5bromouracil and 5bromo2
+deoxyuridine (BrU and BrUrd, Scheme 1), two prototypical halogenated uracil radiosensitizers, in aqueous 
+solution by means of extreme ultraviolet (XUV) timeresolved photoelectron spectroscopy. Previous 
+theoretical investigations on gasphase BrU proposed that UV photoexcitation to the first bright 1 state 
+is followed primarily by rapid decay to the electronic ground state (S0) through a 1S0 conical intersection 
+(CI).15, 16 Alternatively, CBr dissociation via nonadiabatic coupling to the optically dark 1 state is 
+feasible.

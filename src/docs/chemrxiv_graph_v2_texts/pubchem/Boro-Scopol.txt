@@ -1,0 +1,34 @@
+Name: Boro-Scopol
+Text:
+Scopolamine hydrobromide appears as colorless crystals or white powder or solid. Has no odor. pH (of 5% solution): 4-5.5. Slightly efflorescent in dry air. Bitter, acrid taste. (NTP, 1992)
+Scopolamine is a tropane alkaloid that is the (S)-tropic acid ester of 6beta,7beta-epoxy-1alphaH,5alphaH-tropan-3alpha-ol. It has a role as a muscarinic antagonist, an antiemetic, an adjuvant, a mydriatic agent, an antispasmodic drug, an anaesthesia adjuvant, an antidepressant and a metabolite. It is a propanoate ester, an epoxide, a tertiary amino compound and a tropane alkaloid. It is functionally related to a (S)-tropic acid. It is a conjugate base of a scopolamine(1+).
+Scopolamine is a tropane alkaloid isolated from members of the Solanaceae family of plants, similar to [atropine] and [hyoscyamine], all of which structurally mimic the natural neurotransmitter [acetylcholine]. Scopolamine was first synthesized in 1959, but to date, synthesis remains less efficient than extracting scopolamine from plants. As an acetylcholine analogue, scopolamine can antagonize muscarinic acetylcholine receptors (mAChRs) in the central nervous system and throughout the body, inducing several therapeutic and adverse effects related to alteration of parasympathetic nervous system and cholinergic signalling. Due to its dose-dependent adverse effects, scopolamine was the first drug to be offered commercially as a transdermal delivery system, Scopoderm TTS®, in 1981. As a result of its anticholinergic effects, scopolamine is being investigated for diverse therapeutic applications; currently, it is approved for the prevention of nausea and vomiting associated with motion sickness and surgical procedures.  Scopolamine was first approved by the FDA on December 31, 1979, and is currently available as both oral tablets and a transdermal delivery system.
+Scopolamine is an Anticholinergic. The mechanism of action of scopolamine is as a Cholinergic Antagonist.
+Hyoscine has been reported in Scopolia parviflora, Duboisia leichhardtii, and other organisms with data available.
+Scopolamine Hydrobromide is the hydrobromide salt form of scopolamine, a tropane alkaloid derived from plants of the nightshade family (Solanaceae), specifically Hyoscyamus niger and Atropa belladonna, with anticholinergic, antiemetic and antivertigo properties. Structurally similar to acetylcholine, scopolamine antagonizes acetylcholine activity mediated by muscarinic receptors located on structures innervated by postganglionic cholinergic nerves as well as on smooth muscles that respond to acetylcholine but lack cholinergic innervation. The agent is used to cause mydriasis, cycloplegia, to control the secretion of saliva and gastric acid, to slow gut motility, and prevent vomiting.
+Scopolamine is a tropane alkaloid derived from plants of the nightshade family (Solanaceae), specifically Hyoscyamus niger and Atropa belladonna, with anticholinergic, antiemetic and antivertigo properties. Structurally similar to acetylcholine, scopolamine antagonizes acetylcholine activity mediated by muscarinic receptors located on structures innervated by postganglionic cholinergic nerves as well as on smooth muscles that respond to acetylcholine but lack cholinergic innervation. The agent is used to cause mydriasis, cycloplegia, to control the secretion of saliva and gastric acid, to slow gut motility, and prevent vomiting.
+SCOPOLAMINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1979 and has 4 approved and 14 investigational indications.
+An alkaloid from SOLANACEAE, especially DATURA and SCOPOLIA. Scopolamine and its quaternary derivatives act as antimuscarinics like ATROPINE, but may have more central nervous system effects. Its many uses include an anesthetic premedication, the treatment of URINARY INCONTINENCE and MOTION SICKNESS, an antispasmodic, and a mydriatic and cycloplegic.
+See also: Scopolamine (annotation moved to).
+Properties:safety: Acute Toxic
+smiles: CN1[C@@H]2CC(C[C@H]1[C@H]3[C@@H]2O3)OC(=O)[C@H](CO)C4=CC=CC=C4
+formula: C17H21NO4
+chem_properties: Molecular Weight: 303.35 g/mol
+XLogP3: 0.9
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 5
+Exact Mass: 303.14705815 Da
+Monoisotopic Mass: 303.14705815 Da
+Topological Polar Surface Area: 62.3
+Heavy Atom Count: 22
+Formal Charge: 0
+Complexity: 418
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 5
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

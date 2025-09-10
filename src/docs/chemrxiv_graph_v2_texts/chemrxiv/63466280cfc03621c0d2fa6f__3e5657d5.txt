@@ -1,0 +1,48 @@
+Description:
+An antineoplastic agent that covalently inhibits acid ceramidase, leading to apoptosis.
+
+Text:
+49 
+Fluorinated bioactive small molecules have a remarkable role in modern medicinal 
+50 
+chemistry, as the incorporation of fluorine into drug candidates enhances their bioavailablility, 
+51 
+metabolic stability, binding affinity to target proteins, and provides a variety of beneficial 
+52 
+pharmacological properties14. One such compound is 5fluorouracil (5FU), a fluoropyrimidine 
+53 
+antimetabolite commonly used to treat colorectal cancer. A lipophilicmasked analog of 5FU, 
+54 
+carmofur, was developed as an antineoplastic agent which covalently inhibits acid ceramidase, 
+55 
+leading to ceramidaseinduced apoptosis58. Through recent drug repurposing efforts, carmofur 
+56 
+has been identified as a potent covalent inhibitor of SARSCoV2 main protease (Mpro) activity, 
+57 
+suggesting carmofur might be a novel antiviral lead for SARSCoV2 911 (Fig. 1b).
+
+
+---
+
+Description:
+Contains a fluorine atom that serves as a spectroscopic handle for reaction monitoring by 19F NMR spectroscopy.
+
+Text:
+58 
+
+59 
+Carmofur and its analogs have been previously synthesized from 5fluorouracil with phosgene 
+60 
+and hexylamine in pyridine, or through direct nucleophilic addition of 5fluorouracil to nhexyl 
+61 
+isocyanate in pyridine12,13 (Fig. 2). However, previously recorded synthetic procedures have 
+62 
+suffered from low yields and inefficient reaction times5,6. Additionally, due to the limited 
+63 
+solubility of 5fluorouracil in most organic solvents, this reaction must be performed in 
+64 
+exceptionally polar, nonvolatile solvents such as pyridine, making it inconvenient to monitor by 
+65 
+thinlayer chromatography14. Serendipitously, carmofurs fluorine atom serves as a spectroscopic 
+66 
+handle for reaction monitoring by 19F nuclear magnetic resonance (NMR) spectroscopy.

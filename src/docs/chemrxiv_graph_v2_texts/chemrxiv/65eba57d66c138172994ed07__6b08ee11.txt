@@ -1,0 +1,29 @@
+Description:
+Compounds used in reductive amination to synthesize amines.
+
+Text:
+24) remain rare.7 Conventional two
+component methods for their synthesis include transition metalcatalyzed CN crosscoupling 
+reaction 7, reductive amination of aldehydes or ketones8, Nalkylation of amines9, and imine 
+addition10,11 (Figure 1B). While these methods offer access to simple alkyl amines, they pose 
+challenges in rapidly synthesizing more complex aliphatic amines and constructing amine libraries 
+for structure activity relationship (SAR) studies12. In recent decades, the versatility of imines has 
+led to a significant progress in the development of multicomponent reactions as flexible routes to 
+amine synthesis13, 14, such as azaMoritaBaylisHillman15, Mannich16, Petasis boronMannich 
+(PBM)17 and Strecker18 reacion.
+
+
+---
+
+Description:
+Building blocks used in the three-component PBM reaction, mainly restricted to activated aldehydes with adjacent heteroatoms as directing groups.
+
+Text:
+Among these, the threecomponent PBM reaction, first reported 
+in 1993 19, has been an attractive method for medicinal chemists due to its ability to use widely 
+available building blocks including amines, aldehydes, and aromatic boronic acids to rapidly 
+access diverse C(sp2)rich chemical space17. However, PBM reaction remained underutilized 
+because the substrate scope has been mainly restricted to activated aldehydes with adjacent 
+heteroatoms as directing groups and aryl or alkenyl boronic acids. As most reactions of this class 
+are mediated by a 2e mechanism where alkyl migration is unlikely to happen20, extending this 
+reactivity to unactivated alkyl boronates, to escaping from the flatland 3, has been a challenge.

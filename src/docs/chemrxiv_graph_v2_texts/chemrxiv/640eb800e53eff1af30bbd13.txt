@@ -1,0 +1,14 @@
+Description:
+Involved in many bonds vibrations where anharmonicity is significant.
+
+Text:
+NQEs often include zeropoint effects and tunneling effects, both
+of which are related to the quantum delocalized nature of nuclei. NQEs are closely related
+to many anomalous properties of water systems11,12 and some other hydrogenbonded sys
+tems.8,13 For instance, the quantum delocalization of protons in the active site of the enzyme
+ketosteroid isomerase (KSI) significantly stabilizes the deprotonated form of an activesite ty
+rosine residue, resulting in its anomalous acidity.14 Additionally, NQEs can be manifested in
+vibrational spectra, where a good description of NQEs will naturally describe anharmonicity,
+which is significant in many bonds vibrations involving hydrogen atoms.1518
+There have been many methods developed to incorporate NQEs and anharmonicities in
+theoretical calculations.

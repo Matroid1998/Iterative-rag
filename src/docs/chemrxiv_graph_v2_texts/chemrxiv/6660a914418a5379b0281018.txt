@@ -1,0 +1,15 @@
+Description:
+Atomically thin two-dimensional semiconducting materials used in electronic and optoelectronic applications.
+
+Text:
+Atomically thin twodimensional (2D) transition metal dichalcogenides (TMDs) have emerged 
+as a new generation of semiconducting materials for electronic and optoelectronic 
+applications.15 Despite their extraordinary application potential, challenges persist in 
+harnessing their full capabilities. 2D TMDs are predisposed to form atomic defects, such as 
+chalcogenide vacancies, that cause charge carrier trapping in defectinduced potentials and 
+result in nonradiative recombination pathways, thereby reducing charge carrier mobility.68 
+Additionally, the strong electrostatic interactions in 2D TMDs enable the formation of trions, 
+quasiparticles composed of an exciton and free charges, even at room temperature.912 The 
+existence of trions and defects strongly influence the intrinsic optical and electronic properties 
+of TMDs. Despite extensive research focused on improving the semiconducting quality of 2D 
+TMDs, the challenge remains in mitigating the defects within these materials.1320

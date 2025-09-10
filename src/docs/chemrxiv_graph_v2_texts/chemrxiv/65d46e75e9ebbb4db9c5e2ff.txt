@@ -1,0 +1,14 @@
+Description:
+Semiconducting materials that offer a wide array of electronic properties, allowing customization of band gap and energy level alignment for electrochemical applications.
+
+Text:
+In this configuration, the semiconductors key role involves absorbing incident
+photons, creating electronhole pairs, and easing their separation and transportation.5 De
+pending on the application, the semiconductor can be employed as particles ranging from
+micrometer to nanometer dimensions in a solution or as a photoelectrode.6 The latter setup
+typically involves a transparent and conducting oxide material with the semiconductor de
+posited as a thin film.6,7 To accomplish practicalscale photoelectrochemical (PEC) reactions,
+the photoelectrode should comprise of lowcost as well as abundant and nontoxic materi
+als.2 Semiconducting transition metal oxides provide a wide array of electronic properties,
+enabling the possibility of customizing each electrodes band gap and absolute energy level
+alignment according to the specific electrochemical requirements.

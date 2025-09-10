@@ -1,0 +1,25 @@
+Name: Flocoumafen
+Text:
+Flocoumafen is a ring assembly, a member of naphthalenes and a member of benzenes.
+Properties:safety: Acute Toxic and Health Hazard and Environmental Hazard
+smiles: C1C(CC2=CC=CC=C2C1C3=C(C4=CC=CC=C4OC3=O)O)C5=CC=C(C=C5)OCC6=CC=C(C=C6)C(F)(F)F
+formula: C33H25F3O4
+chem_properties: Molecular Weight: 542.5 g/mol
+XLogP3: 7.7
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 5
+Exact Mass: 542.17049376 Da
+Monoisotopic Mass: 542.17049376 Da
+Topological Polar Surface Area: 55.8
+Heavy Atom Count: 40
+Formal Charge: 0
+Complexity: 915
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 2
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

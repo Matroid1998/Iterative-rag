@@ -1,0 +1,21 @@
+In organic chemistry, imidic acids are organic compounds with the structure RC(−OH)=NR'. They are tautomeric to non-tertiary amides (RC(=O)−NHR') and isomeric to oximes (RR'C=N−OH).
+The term "imino acid" is an obsolete term for this group that should not be used in this context because it has a different molecular structure.
+Imidic acids can be formed by metal-catalyzed dehydrogenation of geminal amino alcohols. For example, methanolamine, the parent compound of the amino alcohols, can be dehydrogenated to methanimidic acid, the parent compound of the imidic acids.
+
+H2NCH2OH → HNCHOH + H2 (tautomer of formamide)
+Geminal amino alcohols with side chains similarly form imidic acids with the same side chains:
+
+H2NCHROH → HNCROH + H2
+Another way to form imidic acids is the reaction of carboxylic acids with azanone. For example, the reaction for carbamic acid:
+
+H2NCOOH + HNO → H2NCNHOH + O2 (tautomer of urea)
+And the general reaction for substituted imidic acids:
+
+RCOOH + R'NO → RCNR'OH + O2
+Another mechanism is the reaction of carboxylic acids with diazene or other azo compounds, forming azanone.
+
+RCOOH + HNNH → RCNHOH + HNO
+Imidic acids tautomerize to amides by a hydrogen shift from the oxygen to the nitrogen atom. Amides are more stable in an environment with oxygen or water, whereas imidic acids dominate the equilibrium in solution with ammonia or methane.
+
+HNCHOH ⇌ HCONH2
+RNCR'OH ⇌ R'CONHR

@@ -1,0 +1,9 @@
+Description:
+Reagents used in generating organolithium species through various methods such as lithiation and deprotonation.
+
+Text:
+Organolithium reagents play an important role in organic synthesis due to their high 
+reactivity that warrants versatile applications.1 Accordingly, many methods have been 
+developed for generating organolithium species, including lithiation at carbonheteroatom 
+bonds, deprotonation at acidic CH bonds, and addition of lithium reagents across unsaturated 
+bonds.

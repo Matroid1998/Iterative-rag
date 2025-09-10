@@ -1,0 +1,15 @@
+Description:
+A class of polymers known for their thermal stability, low glass transition temperatures, and biocompatibility, used in industrial and medical applications.
+
+Text:
+Polysiloxanes, a class of polymers with the general formula R2SiOn, where R can be a vari
+ety of organic groups, are renowned for their unique properties of thermal stability, low glass
+transition temperatures, and biocompatibility. These properties render them indispensable
+in a wide range of industrial and medical applications, including sealants, adhesives, and
+medical implants.16 To enhance the performance of polysiloxanebased materials and to
+tailor their properties for specific applications, a detailed understanding of their physical
+properties is essential. Traditionally, these properties are determined experimentally, which
+can be timeconsuming and costly. Computational methods, particularly molecular simula
+tions, offer an attractive alternative, providing a means of predicting properties under a wide
+2
+httpsdoi.org10.26434chemrxiv2024mcxcn ORCID httpsorcid.org0000000328624432 Content not peerreviewed by ChemRxiv. License CC BY 4.0

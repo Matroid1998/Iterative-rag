@@ -1,0 +1,36 @@
+Name: Quercetin
+Text:
+Quercetin appears as yellow needles or yellow powder. Converts to anhydrous form at 203-207 °F. Alcoholic solutions taste very bitter. (NTP, 1992)
+Quercetin is a pentahydroxyflavone having the five hydroxy groups placed at the 3-, 3'-, 4'-, 5- and 7-positions. It is one of the most abundant flavonoids in edible vegetables, fruit and wine. It has a role as an antibacterial agent, an antioxidant, a protein kinase inhibitor, an antineoplastic agent, an EC 1.10.99.2 [ribosyldihydronicotinamide dehydrogenase (quinone)] inhibitor, a plant metabolite, a phytoestrogen, a radical scavenger, a chelator, an Aurora kinase inhibitor and a geroprotector. It is a pentahydroxyflavone and a 7-hydroxyflavonol. It is a conjugate acid of a quercetin-7-olate.
+Quercetin is a flavonol widely distributed in plants. It is an antioxidant, like many other phenolic heterocyclic compounds. Glycosylated forms include RUTIN and quercetrin.
+Quercetin is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Quercetin is a flavonoid found in many foods and herbs and is a regular component of a normal diet. Extracts of quercetin have been used to treat or prevent diverse conditions including cardiovascular disease, hypercholesterolemia, rheumatic diseases, infections and cancer but have not been shown to be effective in clinical trials for any medical condition. Quercetin as a nutritional supplement is well tolerated and has not been linked to serum enzyme elevations or to episodes of clinically apparent liver injury.
+Quercetin has been reported in Salvia miltiorrhiza, Hydrangea serrata, and other organisms with data available.
+Quercetin is a polyphenolic flavonoid with potential chemopreventive activity. Quercetin, ubiquitous in plant food sources and a major bioflavonoid in the human diet, may produce antiproliferative effects resulting from the modulation of either EGFR or estrogen-receptor mediated signal transduction pathways. Although the mechanism of action of action is not fully known, the following effects have been described with this agent in vitro: decreased expression of mutant p53 protein and p21-ras oncogene, induction of cell cycle arrest at the G1 phase and inhibition of heat shock protein synthesis. This compound also demonstrates synergy and reversal of the multidrug resistance phenotype, when combined with chemotherapeutic drugs, in vitro. Quercetin also produces anti-inflammatory and anti-allergy effects mediated through the inhibition of the lipoxygenase and cyclooxygenase pathways, thereby preventing the production of pro-inflammatory mediators.
+QUERCETIN is a small molecule drug with a maximum clinical trial phase of III (across all indications) and has 20 investigational indications.
+Quercetin is a flavonoid widely distributed in many plants and fruits including red grapes, citrus fruit, tomato, broccoli and other leafy green vegetables, and a number of berries, including raspberries and cranberries. Quercetin itself (aglycone quercetin), as opposed to quercetin glycosides, is not a normal dietary component. Quercitin glycosides are converted to phenolic acids as they pass through the gastrointestinal tract. Quercetin has neither been confirmed scientifically as a specific therapeutic for any condition nor been approved by any regulatory agency. The U.S. Food and Drug Administration has not approved any health claims for quercetin. Nevertheless, the interest in dietary flavonoids has grown after the publication of several epidemiological studies showing an inverse correlation between dietary consumption of flavonols and flavones and reduced incidence and mortality from cardiovascular disease and cancer. In recent years, a large amount of experimental and some clinical data have accumulated regarding the effects of flavonoids on the endothelium under physiological and pathological conditions. The meta-analysis of seven prospective cohort studies concluded that the individuals in the top third of dietary flavonol intake are associated with a reduced risk of mortality from coronary heart disease as compared with those in the bottom third, after adjustment for known risk factors and other dietary components. A limited number of intervention studies with flavonoids and flavonoid containing foods and extracts has been performed in several pathological conditions. (A7896)
+Quercetin is a metabolite found in or produced by Saccharomyces cerevisiae.
+A flavonol widely distributed in plants. It is an antioxidant, like many other phenolic heterocyclic compounds. Glycosylated forms include RUTIN and quercetrin.
+See also: Rutin (has subclass); Myricetin (has subclass); Ginkgo (part of) ... View More ...
+Properties:safety: Acute Toxic
+smiles: C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O
+formula: C15H10O7
+chem_properties: Molecular Weight: 302.23 g/mol
+XLogP3: 1.5
+Hydrogen Bond Donor Count: 5
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 1
+Exact Mass: 302.04265265 Da
+Monoisotopic Mass: 302.04265265 Da
+Topological Polar Surface Area: 127
+Heavy Atom Count: 22
+Formal Charge: 0
+Complexity: 488
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

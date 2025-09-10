@@ -1,0 +1,13 @@
+Description:
+Used in selective deposition for tone inversion and resist hardening in ASALD processes.
+
+Text:
+2.c,d).8 In 2021, TSMC demonstrated the use of 
+ASALD to achieve such a via with the goal of interconnect expansion beyond 3 nm nodes.12 As 
+a different target application, the possibility to deposit material in complex 3D structures is 
+providing opportunities for ASALD, e.g., in modern memory devices.15 
+Beyond microelectronic technology, (AS)ALD is used in fields like catalysis, solar cells or battery 
+research.9,1621 Furthermore, ASALD has been combined with topdown patterning approaches, 
+e.g. in the case of TiO2 where the selective deposition is used for tone inversion and resist 
+hardening.22 The major challenge in ASALD is achieving (near)perfect selectivity for a high 
+number of ALD cycles.

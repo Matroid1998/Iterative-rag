@@ -1,0 +1,14 @@
+Description:
+Molecular oxygen can be sensitized by an energetic triplet state.
+
+Text:
+Furthermore, the accessible triplet state should be 
+energetic enough to allow sensitization of the molecular 
+oxygen. Obviously, intense absorption in the visible, or even 
+near infrared portion of the electromagnetic spectrum, 
+together with a high bioavailability are also necessary to 
+increase the global efficiency. Unfortunately, the last two 
+properties are usually conflicting, since redshifting the 
+absorption spectrum usually requires the inclusion of large p
+conjugated moieties, which in turn diminish solubility in 
+aqueous media and biological conditions.

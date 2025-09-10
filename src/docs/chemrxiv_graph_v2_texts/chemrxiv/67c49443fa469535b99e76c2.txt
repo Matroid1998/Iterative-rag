@@ -1,0 +1,18 @@
+Description:
+Interacts with excited triplet states of dye molecules, causing photobleaching.
+
+Text:
+Organic chromophores, including fluorescent proteins, and
+organic fluorophores, have emerged as vital components in
+a wide range of applications, such as organic solar cells 13,
+lightemitting diodes (LEDs)46, photodetectors79, and bio
+logical imaging and sensing10,11. These chromophores play
+a crucial role in harvesting and converting light energy into
+electrical signals, owing to their unique optical and electronic
+properties1214. However, a significant challenge associated with organic
+chromophores is their susceptibility to photonoxidation and
+subsequent photobleaching, which can lead to degradation of
+their performance and hinder overall device efficiency1517. Photobleaching, primarily caused by the interaction between
+excited triplet states of dye molecules and atmospheric triplet
+oxygen, can significantly reduce the effectiveness of dyes in
+longterm applications.

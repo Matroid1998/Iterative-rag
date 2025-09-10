@@ -1,0 +1,14 @@
+Description:
+Groups on PSS that act as ion-transporting moieties.
+
+Text:
+Several previous studies have successfully used these devices to 
+monitor heartbeat, brain activity, and electrophysiology in real time.1416 
+An important aspect of aqueous operation is the stability of the film, and the dissolution or 
+delamination of OMIEC films must be avoided. Owing to the nature of OMIECs, the ion 
+transport moieties are located in the hydrophilic part basically. For example, in the well
+known mixed conductor poly(3,4ethylenedioxythiophene)poly(styrene sulfonate) 
+(PEDOTPSS), the sulfonate (SO3) groups on the PSS act as iontransporting moieties, 
+which stabilize the colloidal particles in commercially available PEDOTPSS water 
+dispersions.1719 Crosslinkers are commonly used to stabilize these films against 
+dissolution and delamination of the films by a chemical reaction.

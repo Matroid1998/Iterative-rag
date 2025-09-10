@@ -1,0 +1,30 @@
+Description:
+A compound that can be valorized to small molecules and monomers.
+
+Text:
+In case of descrip
+tors the main requirements are low computational cost,
+distinguishability between similar structures and ability to
+encode both spatial and information, electronic structure
+and composition. Graphbased neural network architectures
+found to be eective across large molecular and materials
+datasets due to substatial number of learnable parameters,
+while descriptorbased approaches are
+One of the main applications of such models is a discov
+ery and optimization of both heterogeneous 9 and homoge
+neous catalysts 5. Novel catalysts can solve many environ
+mental and energy challenges including solar fuels synthesis,
+moving to more atomeconomic processes and valorization of
+atmospheric CO2 to small molecules and monomers.
+
+
+---
+
+Description:
+A compound that can be valorized through electrochemical reduction to prevent emissions.
+
+Text:
+Compared to photochemical and thermal processes electro
+chemical CO2 reduction (CO2R) found to be one of several
+promising strategies to valorize CO2 and prevent emissions. Electrochemical reactions usually operate at mild temper
+atures and pressure. They can be tuned to selective prod

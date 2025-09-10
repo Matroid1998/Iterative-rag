@@ -1,0 +1,11 @@
+Description:
+A gas used in NMR experiments to study CO2 adsorption.
+
+Text:
+However, different CO2 adsorption products often give rise to very 
+similar signals in the NMR spectrum and assigning these signals to specific CO2 binding 
+modes remains very challenging.8,1720 
+The most common experiment with the NMR approach is to dose the candidate adsorbent 
+with 13CO2 gas and perform 13C magic angle spinning (MAS) NMR experiments. These 
+experiments are relatively straightforward to perform, but often lead to ambiguous 
+identification of the adsorption products.

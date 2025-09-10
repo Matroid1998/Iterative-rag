@@ -1,0 +1,14 @@
+Description:
+A clean, energy-dense fuel that does not produce greenhouse gases when produced or burned.
+
+Text:
+Green hydrogen offers a promising alternative to fossil fuels, since it is clean, energydense,
+and does not produce any greenhouse gases when produced or when burned.1 However,
+green hydrogens economic viability depends on the discovery of cheaper and more efficient
+catalysts.2 A large challenge in discovering these novel catalysts lies in the enormous chemical
+space of potential candidates.3 Conventional experimental methods require the synthesis,
+characterization, and assessment of new structures, which is a very timeintensive process
+that is neither able to completely cover the vast chemical space nor do so in a reasonable
+amount of time.4 To overcome this challenge, computational approaches have been employed
+since certain material properties, like electronic energy, can be correlated with catalytic
+activity.

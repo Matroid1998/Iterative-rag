@@ -1,0 +1,18 @@
+Description:
+Used in biomimetic catalysts to generate high-valent metal-oxo species capable of abstracting hydrogen atoms.
+
+Text:
+Direct hydroxylation of CH bonds presents a promising strategy 
+for the late stage diversification of diverse compounds in a step
+economical fashion. Despite the challenges associated with the 
+ubiquity and inertness of CH bonds, numerous transition metal 
+catalysts have been reported to catalyze this transformation1. A 
+significant proportion of them are biomimetic, relying on iron or 
+manganesebased catalysts to generate a highvalent metaloxo 
+species that is capable of abstracting a hydrogen atom1hr. The 
+resulting carboncentered radical can engage in the formation of 
+CO bonds, either through a rebound mechanism or by utilizing 
+an alternative source of oxygen atoms2. Within the green 
+chemistry paradigm, regio and stereoselective hydrocarbon 
+oxidation should proceed under mild conditions and produce 
+minimal waste.

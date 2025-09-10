@@ -1,0 +1,14 @@
+Description:
+Used in porous electrodes for lithium-sulfur batteries.
+
+Text:
+In other words, the length of 
+time needed for a typical GITT experiment essentially pre
+cludes its use in operando methods, and hence the cou
+pling of operando methods with diffusion coefficient meas
+urements. In this work, an efficient and nondisruptive alternative 
+to the GITT is proposed the intermittent current interrup
+tion (ICI) method. Our group first developed the ICI 
+method for characterizing the porous carbon electrodes in 
+lithiumsulfur batteries,79 and the method has more re
+cently been applied more widely for different battery cell

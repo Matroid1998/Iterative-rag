@@ -1,0 +1,58 @@
+Description:
+Reveals a wealth of vibronic structure throughout the three lowest-lying electronic states through high-resolution anion photoelectron spectra of cryogenically cooled samples.
+
+Text:
+Nickel oxides are an important class of catalytic materials with a wide range of industrial 
+applications including the formation of syngas,1, 2 oxidative dehydrogenation of alkanes,3, 4 and 
+carbon monoxide oxidation.5 Therefore, understanding their properties is of both technological 
+and fundamental importance. While much of the emphasis of nickel oxide catalysis involves 
+condensed phase experiments, the gas phase study of isolated massselected metal oxide clusters 
+provides a complementary molecularlevel understanding of the structure and reactivity of these 
+species.6, 7 Here, we report highresolution anion photoelectron spectra of cryogenically cooled 
+NiO2, revealing a wealth of vibronic structure throughout the three lowestlying electronic 
+states of NiO2.
+
+
+---
+
+Description:
+Neutral NiO2 was first studied in ideal gas matrices.
+
+Text:
+There are relatively few experimental studies concerning the structure812 and reactivity of 
+NiO20.1316 Neutral NiO2 was first studied in ideal gas matrices, where three isomers were 
+identified in an Ar matrix9 cyclic Ni(O2), bent NiOO, and linear ONiO (referred to as NiO2 
+hereafter). Subsequent work in Ne matrices found preferential formation of NiO2 with trace 
+Ni(O2), allowing for the extraction of two and three vibrational frequencies for these species, 
+respectively.12 In the gas phase, anion photoelectron spectroscopy (PES) has been used to probe 
+the geometric and electronic structure of these species.
+
+
+---
+
+Description:
+Has an electron affinity of 3.05(1) eV and shows partially resolved vibrational structure with a frequency of 750 cm-1.
+
+Text:
+The first PES study of NiO2 was 
+performed by Wu and coworkers,10 who observed photodetachment from both the bent Ni(O2) 
+and linear NiO2 anions, finding the electron affinity (EA) of Ni(O2) to be 0.82(3) eV, 
+considerably lower than that of NiO2 at 3.05(1) eV. The NiO2 band showed partially resolved 
+vibrational structure with a frequency of 750 cm1. This work also found transitions to two low
+lying electronic states of NiO2 with term energies of 0.40(2) and 0.77(3) eV. Subsequent anion 
+PES work performed by Ramond et al.11 reexamined the ground state spectrum of NiO2 with 
+improved resolution, yielding a refined EA of 3.043(5) eV as well as the v1 symmetric stretch 
+frequency of 745(30) cm1 from a progression in this mode.
+
+
+---
+
+Description:
+A compound with a challenging electronic and vibrational structure due to its multireference nature.
+
+Text:
+The electronic and vibrational structure of NiO2 pose a considerable challenge to theory owing to 
+its multireference nature.17, 18 Treatments using density functional theory,9, 12, 1921 coupled cluster 
+methods,21 and multireference methods22 have found a 
+1
+g

@@ -1,0 +1,32 @@
+Name: Quinoline
+Text:
+Quinoline and its strong acid salts can cause cancer according to an independent committee of scientific and health experts.
+Quinoline appears as a colorless liquid with a peculiar odor. Slightly denser than water. Contact may irritate to skin, eyes, and mucous membranes. May be toxic by ingestion. Used to make other chemicals.
+Quinoline is the simplest member of the quinoline class of compounds, comprising a benzene ring ortho fused to C-2 and C-3 of a pyridine ring. It is a mancude organic heterobicyclic parent, a member of quinolines, an azaarene and an ortho-fused heteroarene.
+Quinoline is used mainly as an intermediate in the manufacture of other products. Potential exposure to quinoline may occur from the inhalation of cigarette smoke. Quinoline breaks down quickly in the atmosphere and water. Acute (short-term) inhalation exposure to quinoline vapors irritates the eyes, nose, and throat and may cause headaches, dizziness, and nausea in humans. Information on the chronic (long- term), reproductive, developmental, or carcinogenic effects of quinoline in humans is not available. Liver damage has been observed in rats chronically exposed to quinoline by ingestion. An increased incidence of liver vascular tumors has been observed in rats and mice orally exposed to quinoline. EPA has provisionally classified quinoline as a Group C, possible human carcinogen
+Quinoline has been reported in Gymnodinium nagasakiense, Averrhoa carambola, and other organisms with data available.
+Quinoline is found in alcoholic beverages. Quinoline is an alkaloid from various plant species including Mentha species. Also present in cocoa, black tea and scotch whiskey. Quinoline is a flavouring ingredient Quinoline is a heterocyclic aromatic organic compound. It has the formula C9H7N and is a colourless hygroscopic liquid with a strong odour. Aged samples, if exposed to light, become yellow and later brown. Quinoline is only slightly soluble in cold water but dissolves readily in hot water and most organic solvents. Quinoline is mainly used as a building block to other specialty chemicals. Approximately 4 tonnes are produced annually according to a report published in 2005.[citation needed] Its principal use is as a precursor to 8-hydroxyquinoline, which is a versatile chelating agent and precursor to pesticides. Its 2- and 4-methyl derivatives are precursors to cyanine dyes. Oxidation of quinoline affords quinolinic acid (pyridine-2,3-dicarboxylic acid), a precursor to the herbicide sold under the name Assert.
+
+Quinoline has been shown to exhibit catabolic, anti-microbial, anti-tumor, anti-fungal and anti-cancer functions (A7755, A7756, A7757, A7759, A7760).
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: C1=CC=C2C(=C1)C=CC=N2
+formula: C9H7N
+chem_properties: Molecular Weight: 129.16 g/mol
+XLogP3: 2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 129.057849228 Da
+Monoisotopic Mass: 129.057849228 Da
+Topological Polar Surface Area: 12.9
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 111
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,9 @@
+In organic chemistry, the Knoevenagel condensation (pronounced [ˈknøːvənaːɡl̩]) reaction is a type of chemical reaction named after German chemist Emil Knoevenagel. It is a modification of the aldol condensation.
+A Knoevenagel condensation is a nucleophilic addition of an active hydrogen compound to a carbonyl group followed by a dehydration reaction in which a molecule of water is eliminated (hence condensation). The product is often an α,β-unsaturated ketone (a conjugated enone).
+
+In this reaction the carbonyl group is an aldehyde or a ketone. The catalyst is usually a weakly basic amine. The active hydrogen component has the forms:
+
+Z−CH2−Z or Z−CHR−Z for instance diethyl malonate, Meldrum's acid, ethyl acetoacetate or malonic acid, or cyanoacetic acid.
+Z−CHRR', for instance nitromethane.
+where Z is an electron withdrawing group. Z must be powerful enough to facilitate deprotonation to the enolate ion even with a mild base. Using a strong base in this reaction would induce self-condensation of the aldehyde or ketone.
+The Hantzsch pyridine synthesis, the Gewald reaction and the Feist–Benary furan synthesis all contain a Knoevenagel reaction step. The reaction also led to the discovery of CS gas.

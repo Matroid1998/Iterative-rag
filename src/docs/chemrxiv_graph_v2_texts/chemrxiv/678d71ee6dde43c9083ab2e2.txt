@@ -1,0 +1,49 @@
+Description:
+Molecules in the reaction center of Photosystem II that convert visible light to electron flow.
+
+Text:
+Photosystem II
+(PSII) of oxygenic photosynthesis1 is one of the most
+important potential blueprints for artificial lightdriven
+chargeseparating devices.24
+The four chlorophyll
+and two pheophytin molecules that comprise the
+reaction center (RC) of PSII (Figure 1) are able to
+convert with ultimate efficiency visible light to electron
+flow, powering water oxidation and plastoquinone
+reduction.57 Three main factors need to be elucidated
+for understanding the function of the PSII RC,
+each factor representing a substantial challenge for
+both
+experiment
+and
+theory
+a)
+the
+electronic
+structure of the pigments themselves, b) the influence
+of the protein environment in terms of structure
+and electrostatics,
+and c) the role that dynamic
+motion plays in modulating the electronic structure,
+absorption properties, and function of RC pigments.
+
+
+---
+
+Description:
+Pigments comprising the reaction center of PSII.
+
+Text:
+Since the initial charge separation is intimately tied to
+the light absorption process, the electronic structure
+analysis must encompass the ground state and the
+spectrum of lowlying excited states. Figure 1 The chlorophyll and pheophytin pigments comprising
+the reaction center of PSII. Important additional cofactors of
+PSII are also indicated. The primary charge separation occurs
+among pigments of the D1 protein, initiated either within
+the ChlD1PheoD1 or the PD1PD2 pairs, following direct light
+absorption or excitation energy transfer from intrernal and
+external light harvesting complexes. The arrows depict the
+flow of electrons from the donor side (water oxidation) to the
+acceptor side (plastoquinone reduction).

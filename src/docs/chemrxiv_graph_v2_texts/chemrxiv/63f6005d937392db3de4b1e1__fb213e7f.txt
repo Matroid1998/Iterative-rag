@@ -1,0 +1,33 @@
+Description:
+An unsaturated compound that can coordinate with nickel(0) in catalytic processes.
+
+Text:
+Mechanistically, the underlying nickelcatalyzed C(sp2)H bond activation process operates 
+via a ligandtoligand hydrogen transfer (LLHT)29 instead of the typical oxidative addition 
+process30. The C(sp2)C(sp3)reductive elimination is considered as the rate determining step 
+(Figure 1b). Based on these findings, we hypothesized that an extension of this concept could 
+help to address the C(sp3)H bond of ketones under comparable conditions and open new 
+catalysis manifold for ketone functionalizations (Fig. 1c). This pivotal step could be either 
+envisaged by coordination of the ketone and acceptor olefin to the nickel(0) triggering a LLHT 
+of the carbonyl C(sp3)H. The LLHT would involve a 7membered transition state and lead 
+to a favorable oxaallyl nickel(II) species. Alternatively, one could formulate a C(sp3)H 
+oxidative addition forming oxaallyl nickel(II) hydride.
+
+
+---
+
+Description:
+A compound that can insert into alkyl nickel intermediates.
+
+Text:
+Subsequent insertion of the olefin 
+would lead to the same alkyl nickel intermediate. The energy barrier of a straight C(sp3)C(sp3) 
+reductive elimination leading to direct 1,2hydroalkylation product is higher than a 
+corresponding C(sp2)C(sp3) reductive elimination31. We thus hypothesized that the enhanced 
+lifetime of the alkyl nickel intermediate would allow to trigger complexitygenerating 
+downstream reactions. For instance, alkyl Ni(II) species can engage in chainwalking processes 
+32,33,34,35,36,37. In the present context such increased molecular complexity comes together with 
+challenges of controlling regio, diastereo, and ultimately enantioselectivity. Capitalizing on 
+our longstanding experience in the design and application of chiral NHC ligands for Ni(0)
+catalyzed CH functionalizations,38,39,40,41,42 we initiated the development of a competent 
+catalyst system to address these challenges and channel.

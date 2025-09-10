@@ -1,0 +1,14 @@
+Description:
+Materials with disordered nanoporous structures that pose challenges in characterizing ionic transport.
+
+Text:
+Efficient ionic transport is crucial for maintaining performance at high 
+chargedischarge rates6,7, particularly in thick electrodes that can be used to increase 
+supercapacitor energy density810. Mesoporosity (i.e. pores with diameter 250 nm) is often suggested as a critical component 
+for efficient ionic transport, serving as a bridge between micropores (where charge storage 
+occurs) and the bulk electrolyte1116. Ordered mesoporosity, in particular, has been suggested 
+to enhance rate capability by reducing diffusion limitations under high current densities17,810. However, mesopores dont necessarily enhance ionic transport in carbon materials18,19, and 
+the relationship between mesoporosity and rate capability remains insufficiently understood, 
+as characterizing ionic transport within disordered nanoporous carbons poses significant 
+challenges. Several techniques have been employed to analyze the pore structures of nanoporous carbon 
+materials, each with inherent limitations.

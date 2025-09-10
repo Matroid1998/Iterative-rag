@@ -1,0 +1,14 @@
+Description:
+Electron-deficient aromatics used in the synthesis of mechanically interlocked molecules.
+
+Text:
+Mechanically interlocked molecules (MIMs) such as rotaxanes, catenanes and molecular knots have 
+long been considered challenging synthetic targets.1 Most synthetic routes towards MIMs rely on non
+covalent interactions to preorganize the individual components before establishing the mechanical 
+bond. However, this introduces extraneous functional groups such as ligands for metals 
+(phenanthrolines, bipyridines), or electrondeficient aromatics (naphthalene diimides, viologens) which 
+ depending on the aim for which they are synthesized  add potentially undesired functionality to the 
+final MIMs.1a As an alternative, covalent templates have also been used for constructing MIMs and 
+typically display higher robustness and directionality than noncovalent interactions.2 This means 
+mechanical bonds can be formed under more challenging conditions, and broader scope and synthetic 
+versatility is often observed with covalent templates as compared to noncovalent.

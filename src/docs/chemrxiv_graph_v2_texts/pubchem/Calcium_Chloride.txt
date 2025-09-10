@@ -1,0 +1,30 @@
+Name: Calcium Chloride
+Text:
+Calcium chloride is a white to off-white solid. Sinks and mixes with water. (USCG, 1999)
+Calcium dichloride is a calcium salt, an inorganic chloride and an inorganic calcium salt. It has a role as a fertilizer.
+Calcium chloride is an ionic compound of calcium and chlorine. It is highly soluble in water and it is deliquescent. It is a salt that is solid at room temperature, and it behaves as a typical ionic halide. It has several common applications such as brine for refrigeration plants, ice and dust control on roads, and in cement. It can be produced directly from limestone, but large amounts are also produced as a by-product of the Solvay process. Because of its hygroscopic nature, it must be kept in tightly-sealed containers.
+Calcium Chloride is a crystalline, white substance, soluble in water, Calcium Chloride is the chloride salt of calcium, a bivalent metallic element with many crucial biological roles. Calcium is a major constituent of the skeleton but plays many roles as an intracellular and plasma ion as well. In medicine, calcium chloride is also used as a 10% solution in injection, for calcium replenishment. (NCI04)
+CALCIUM CHLORIDE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) and is indicated for hypocalcemia and has 7 investigational indications.
+A salt used to replenish calcium levels, as an acid-producing diuretic, and as an antidote for magnesium poisoning.
+See also: Chloride Ion (has active moiety); Calcium Cation (has active moiety) ... View More ...
+Properties:safety: Irritant
+smiles: [Cl-].[Cl-].[Ca+2]
+formula: CaCl2
+chem_properties: Molecular Weight: 110.98 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 109.9002962 Da
+Monoisotopic Mass: 109.9002962 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

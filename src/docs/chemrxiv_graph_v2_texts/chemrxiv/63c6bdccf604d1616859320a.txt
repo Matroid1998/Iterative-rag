@@ -1,0 +1,14 @@
+Description:
+Semiconductors known for high indoor power conversion efficiency due to exceptional defect tolerance.
+
+Text:
+The boom of the InternetofThings (IoT) urges to address the compelling need of powering an 
+evergrowing number of ubiquitous sensors in a costeffective, sustainable, and energy
+efficient way. Indoor photovoltaics (IPVs) are acknowledged as a key technology to fulfill 
+these requirements, in turn enabling the promised further development of IoT.1 However, no 
+IPVs have been yet identified that combine high indoor power conversion efficiency (PCE(i)) 
+and reasonable air stability while comprising lowtoxicity and abundant constituents. Among 
+the most promising IPV contenders, halide perovskite semiconductors have so far led to the 
+highest PCE(i) thanks to their exceptional defect tolerance, particularly towards intrinsic point 
+defects.2 Nevertheless, the water solubility and bioaccumulation of lead (Pb)2 cation of halide 
+perovskite compositions pose serious toxicity and recycling concerns.

@@ -1,0 +1,14 @@
+Description:
+An alkali atom used in atomic magnetometers for sensing small magnetic fields.
+
+Text:
+Atomic magnetometers are used for sensing very small magnetic fields (down to 1
+femto Tesla), where applications include biological imaging, geology, global positioning and
+fundamental experiments.1,2 An alloptical atomic magnetometer operates as follows1 i) A
+vapour of alkali atoms (K, Rb or Cs) within a glass vapour cell have randomly orientated
+atomic spins; ii) Circularly polarised pump light aligns the spins with the pump beam and
+when a small magnetic field is applied the spins precess in the magnetic field; iii) The
+orientated spins rotate the polarization of linearly polarised probe light (Faraday rotation);
+and iv) The intensity or polarization of the transmitted probe light measures the magnetic
+field strength. An antirelaxation coat on the cell walls preserves the spin polarization
+(lifetime) of the alkali atoms.

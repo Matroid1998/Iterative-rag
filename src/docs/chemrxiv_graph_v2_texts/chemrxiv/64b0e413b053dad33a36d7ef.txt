@@ -1,0 +1,25 @@
+Description:
+A tetrahedral semiconductor that can be integrated with wurtzite-type ferroelectrics.
+
+Text:
+These two key features make ferroelectrics
+promising materials for energyefficient data storage in compar
+ison to dynamic random access memory6 and for neuromor
+phic computing and related memorylogic hybrids, which need
+simultaneous and colocated data storage and information pro
+cessing.79 Recently discovered tetrahedral (wurtzitetype) fer
+roelectrics are of particular interest because of the relative ease
+of direct and highquality integration with existing and emerging
+tetrahedral semiconductors (e.g., Si, GaAs, GaN, SiC, AlN).6,10
+aColorado School of Mines, Golden, CO 80401. bNational Renewable Energy Labora
+tory, Golden, CO 80401. Email clee2mines.edu, pgoraimines.edu
+softer
+bonds
+more
+ionic
+P
+P
+lowering switching barrier in wurtzitetype ferroelectrics
+Fig. 1 Emerging design principles for discovery and engineering of
+multinary tetrahedral (wurtzitetype) ferroelectrics with lower coercive
+fields.

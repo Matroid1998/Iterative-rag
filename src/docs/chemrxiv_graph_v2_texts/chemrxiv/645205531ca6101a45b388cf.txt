@@ -1,0 +1,70 @@
+Description:
+An important base chemical produced from methane.
+
+Text:
+Natural gas consists mainly of methane,1 an important resource that can unfortunately have a 
+significant impact on our climate if released into the atmosphere.2 Methane can, however, be used 
+to produce another important base chemical methanol.
+
+
+---
+
+Description:
+Currently synthesized from methane through the creation of syngas.
+
+Text:
+Methanol is currently synthesized from 
+methane through the creation of syngas, a thermodynamically inefficient process, as it requires 
+high temperatures and pressures to overcome the reaction energy of 206 kJmol in steam 
+reforming.3,4 Due to the need for intermediate syngas creation, the onsite usage of methane at 
+smaller and remote sources of methane is greatly hindered, and the methane at such remote sites 
+is often simply flared, as its transport to other locations is not easily achieved.4,5 Methanol, 
+however, can be stored and transported with much less effort, as it is a liquid under ambient 
+conditions.
+
+
+---
+
+Description:
+Can be stored and transported with much less effort as it is a liquid under ambient conditions.
+
+Text:
+Methanol is currently synthesized from 
+methane through the creation of syngas, a thermodynamically inefficient process, as it requires 
+high temperatures and pressures to overcome the reaction energy of 206 kJmol in steam 
+reforming.3,4 Due to the need for intermediate syngas creation, the onsite usage of methane at 
+smaller and remote sources of methane is greatly hindered, and the methane at such remote sites 
+is often simply flared, as its transport to other locations is not easily achieved.4,5 Methanol, 
+however, can be stored and transported with much less effort, as it is a liquid under ambient 
+conditions.
+
+
+---
+
+Description:
+A substance derived from methane used in fuels and various chemical applications.
+
+Text:
+A direct and selective pathway from methane to methanol, usable at small and large 
+scales, would therefore greatly decrease the environmental impact of remote methane sources, 
+as well as methanolderived substances and methanolbased fuels. A key challenge is achieving 
+high selectivity in the direct methane to methanol reaction. Burning methane is easy, stopping at 
+methanol is not.6,7 
+Recently, many advances in the field of methane activation have been made. Inspired by 
+enzymes, many biomimetic, homogeneous catalysts have been designed811 to achieve the goal 
+of high selectivity combined with high yield. However, industrially, heterogeneous catalysts 
+provide many advantages.
+
+
+---
+
+Description:
+A product of methane conversion that should be protected to prevent overoxidation.
+
+Text:
+Two 
+important design goals for a MOF catalyst for the selective conversion of methane to methanol 
+are suggested by economics and prior work 1) the catalyst should be active under mild 
+conditions16 and 2) the obtained methanol should be protected to prevent overoxidation.6 Metal
+oxo centers are active species for the activation of the CH bond of methane and other alkanes10,17
+22 and can be designed into a variety of MOF structures.

@@ -1,0 +1,27 @@
+Description:
+The primary contributor to global warming and climate change.
+
+Text:
+Anthropogenic carbon dioxide (CO2) emissions are the primary contributor to global warming 
+and climate change, posing significant challenges to our world.1 Traditional CO2 capture 
+methods using aminebased solvents or solid sorbents require energyintensive temperature 
+swing regeneration processes, which suffer from low energy efficiencies and short material 
+lifetimes.2 Electrochemical CO2 capture is an emerging decarbonization approach that uses the 
+charging and discharging of an electrochemical cell to drive CO2 capture and release.3 This 
+approach employs electricity as the sole driving force and has the potential to become an 
+energyefficient and lowcost method to capture CO2 at room temperature.3 A range of 
+electrochemical CO2 capture technologies are under development including those based on 
+electrochemicallydriven pH swings,46 redoxactive CO2binding molecules,710 and 
+electrochemically mediated amine regeneration.1113 Key challenges for these electrochemical 
+approaches include the use of critical materials,14 cell degradation,6 O2 sensitivity,10 and low 
+CO2 capture capacities and rates.15 
+Among the various electrochemical CO2 capture technologies, aqueous supercapacitors 
+appear promising due to their use of lowcost, abundant and sustainable materials, long cycle 
+lifetimes, high energy efficiencies and fast charging kinetics.16 These devices reversibly capture 
+CO2 when charged through an effect known as supercapacitive swing adsorption (SSA).16 The 
+device configuration features a symmetric supercapacitor cell with two identical porous 
+activated carbon electrodes and an aqueous electrolyte, and the cell is contacted with a CO2
+containing gas at one electrode (Figure 1).17 While the exact molecular mechanism of CO2 
+capture by these systems remains under investigation, the mechanism of capture likely involves 
+chargingdriven perturbations to the below equilibria17 
+CO2 (g)  CO2 (aq.)

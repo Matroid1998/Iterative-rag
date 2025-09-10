@@ -1,0 +1,13 @@
+Description:
+Incorporated abnormally into DNA due to TS inhibition.
+
+Text:
+The component of cell death produced by TS inhibition is abnormal uracil incorporation into DNA 
+resulting from buildup of the cytotoxic nucleotide intermediate dUTP and the dUTP pools 
+accumulate. DNA polymerases use dUTP in place of TTP during DNA synthesis and activating 
+repeated rounds of uracil repair due to continue dTTP depletion, resulting in extensive DNA damage 
+and cell death. The enzyme deoxyuridine triphosphate nucleotidohydrolase (dUTPase), encoded by 
+the DUT gene, which hydrolysing dUTP to dUMP, thereby eliminating dUTP from the DNA 
+biosynthetic pathway. Even though the depletion of dTMP and the accumulation of dUMP is 
+common in cancer cell lines undergoing TS inhibition(Wilson et al., 2012),the ability to accumulate 
+dUTP varies definitely.

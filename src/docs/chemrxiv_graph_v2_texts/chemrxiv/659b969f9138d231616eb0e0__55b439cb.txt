@@ -1,0 +1,39 @@
+Description:
+Undergoes CH sulfenylation with electrophilic sulfenyl chlorides.
+
+Text:
+Typically, general 
+bioconjugation reactions on Cys utilize alkylation of the nucleophilic thiol2 or metalcatalyzed 
+coupling of the thiol with aryl halides.3 Umpolung strategies of the nucleophilic thiol have also become 
+an alternative coupling format.4 In terms of Trpmodification, a variety of indoleselective reactions 
+have been utilized that include transition metal,5 metal carbenoid,6 or radicalmediated reaction.7,8 
+The CH sulfenylation of indole with electrophilic sulfenyl chlorides,9 such as Schlorocysteine or its 
+congener, represents an interresidue selective conjugation between Trp and Cys residues, that requires 
+the oxidative umpolung to the Schlorocysteine using harmful chlorination agents such as sulfuryl 
+chloride (SO2Cl2).10 Accordingly, these reactions are not compatible with the presence of Trp. Recently, 
+we have developed interresidue selective reactions between Cys and Trp residues.
+
+
+---
+
+Description:
+Participates in aromatic electrophilic substitution reactions.
+
+Text:
+In these reactions, 
+the 
+Spmethoxybenzyl 
+or 
+Sacetamidomethyl 
+cysteine 
+sulfoxide 
+(Cys(MBzl)(O) 
+or 
+Cys(Acm)(O))11,12 moieties are converted to the corresponding Schlorocysteine under acidic 
+conditions using trifluoroacetic acid (TFA) as solvent in the presence of guanidine hydrochloride 
+(GnHCl) or diisopropylamine hydrochloride (DAHCl). The resulting electrophilic species 
+participate in aromatic electrophilic substitution (SEAr) reactions with indole to achieve the CH 
+sulfenylation of the Trp (Figure 1).12 Here, GnHCl or DAHCl is indispensable for the reaction, 
+because they function as cation scavengers (amine part) and chloride anion source. TFA activates the 
+sulfoxide to a sulfonium cation and assists in liberating the protecting group (P) as a cation from the 
+resulting sulfonium intermediate. The use of sulfoxide enables the oxidantfreeacidmediated

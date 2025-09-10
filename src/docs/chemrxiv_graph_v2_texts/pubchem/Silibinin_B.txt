@@ -1,0 +1,29 @@
+Name: Silibinin B
+Text:
+Silybin B is a flavonolignan.
+Silibinin B has been reported in Aspergillus iizukae, Anastatica hierochuntica, and other organisms with data available.
+Silymarin is a mixture of flavonolignans isolated from the milk thistle plant Silybum marianum.  Silymarin may act as an antioxidant, protecting hepatic cells from chemotherapy-related free radical damage. This agent may also promote the growth of new hepatic cells. (NCI04)
+The major active component of silymarin flavonoids extracted from seeds of the MILK THISTLE, Silybum marianum; it is used in the treatment of HEPATITIS; LIVER CIRRHOSIS; and CHEMICAL AND DRUG INDUCED LIVER INJURY, and has antineoplastic activity; silybins A and B are diastereomers.
+See also: Milk Thistle (part of); Silybin (annotation moved to).
+Properties:safety: Health Hazard
+smiles: COC1=C(C=CC(=C1)[C@H]2[C@@H](OC3=C(O2)C=C(C=C3)[C@@H]4[C@H](C(=O)C5=C(C=C(C=C5O4)O)O)O)CO)O
+formula: C25H22O10
+chem_properties: Molecular Weight: 482.4 g/mol
+XLogP3: 2.4
+Hydrogen Bond Donor Count: 5
+Hydrogen Bond Acceptor Count: 10
+Rotatable Bond Count: 4
+Exact Mass: 482.12129689 Da
+Monoisotopic Mass: 482.12129689 Da
+Topological Polar Surface Area: 155
+Heavy Atom Count: 35
+Formal Charge: 0
+Complexity: 750
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

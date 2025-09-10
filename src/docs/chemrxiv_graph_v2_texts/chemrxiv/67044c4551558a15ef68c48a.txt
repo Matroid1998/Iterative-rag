@@ -1,0 +1,10 @@
+Description:
+Atoms are more polarizable than oxygen atoms.
+
+Text:
+However, substituting a sulfur for an oxygen atom in an 
+acyltRNA could impact translation positively or negatively at multiple steps during, before, or after 
+the translation cycle. Although thioesters are more reactive towards amine nucleophiles than oxo
+esters,1,4 CS bonds are longer than CO bonds, and Satoms more polarizable than Oatoms; 
+thiols and thioethers donate and accept Hbonds differently than alcohols,57 making the overall 
+effect of sulfur substitution on ribosomal protein synthesis challenging to predict.

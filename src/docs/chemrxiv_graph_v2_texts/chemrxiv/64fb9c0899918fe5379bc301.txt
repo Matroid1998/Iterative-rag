@@ -1,0 +1,22 @@
+Description:
+A factor in the variation of physicochemical properties of acylCoAs due to chain length.
+
+Text:
+52 
+Developing chromatographic methods for acylCoAs is challenging due to their structural 
+53 
+complexity. These compounds exhibit significant variations in their physicochemical properties 
+54 
+by factors such as carbon chain length, degree of saturation, and the presence of functional 
+55 
+groups1517. Additionally, acylCoAs have low endogenous levels and are highly unstable 
+56 
+in aqueous solutions. Due to these reasons they are susceptible to hydrolysis, making sample 
+57 
+preparation challenging and resulting in poor recovery and low signal intensity15,18. The 
+58 
+quantification of acylCoAs has previously been accomplished using a variety of analytical 
+59 
+techniques, such as gas chromatography, capillary electrophoresis, and reversed phase liquid 
+60 
+chromatography (RPLC) coupled to UV or fluorescence detection1922.

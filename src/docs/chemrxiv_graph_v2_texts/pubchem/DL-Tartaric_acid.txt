@@ -1,0 +1,27 @@
+Name: DL-Tartaric acid
+Text:
+2,3-dihydroxybutanedioic acid is a tetraric acid that is butanedioic acid substituted by hydroxy groups at positions 2 and 3. It has a role as a human xenobiotic metabolite and a plant metabolite. It is a conjugate acid of a 3-carboxy-2,3-dihydroxypropanoate.
+Tartaric acid has been reported in Camellia sinensis, Catunaregam spinosa, and other organisms with data available.
+See also: L-Tartaric acid (annotation moved to); D-tartaric acid (annotation moved to); Tartrate (annotation moved to).
+Properties:safety: Irritant
+smiles: C(C(C(=O)O)O)(C(=O)O)O
+formula: C4H6O6
+chem_properties: Molecular Weight: 150.09 g/mol
+XLogP3: -1.9
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 3
+Exact Mass: 150.01643791 Da
+Monoisotopic Mass: 150.01643791 Da
+Topological Polar Surface Area: 115
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 134
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 2
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

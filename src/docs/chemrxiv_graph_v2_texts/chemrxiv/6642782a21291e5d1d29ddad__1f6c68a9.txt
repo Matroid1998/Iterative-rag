@@ -1,0 +1,18 @@
+Description:
+Exhibit stability and selectivity due to hydrogen bonding in catalytic conditions.
+
+Text:
+Over the past decade, sulfonyl fluoride exchange (SuFEx) 
+chemistry has seen an increase in popularity owing to its use as 
+a biocompatible click reaction.1 First introduced in 2014, SuFEx 
+chemistry relies upon the exchange of an incoming nucleophile 
+with fluoride on a hexavalent sulfur forming an irreversible, 
+covalent bond.1c This exchange, however, must occur under 
+catalytic conditions whereby both the sulfonyl group and 
+departing fluoride group are stabilized by hydrogen bonding. This 
+imparts a degree of stability and selectivity on sulfonyl fluorides 
+(SFs) not seen with other electrophilic groups such as sulfonyl 
+chlorides, epoxides, and acrylamides. When placed in the context 
+of an enzyme active site, this catalytic condition is the hydrogen 
+bonding associated with donor residues surrounding the 
+nucleophilic residue of interest.

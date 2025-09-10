@@ -1,0 +1,24 @@
+Name: Bis(pinacolato)diboron
+Text:
+Bis(pinacolato)diboron is a 1,3,2-dioxaborolane that is 4,4,5,5-tetramethyl-1,3,2-dioxaborolane in which the boron hydrogen at position 2 is replaced by a 4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl group. It is a reagent used in organic synthesis to synthesise pinacol boronic esters. It has a role as an EC 3.4.24.24 (gelatinase A) inhibitor.
+Properties:safety: Corrosive and Irritant
+smiles: B1(OC(C(O1)(C)C)(C)C)B2OC(C(O2)(C)C)(C)C
+formula: C12H24B2O4
+chem_properties: Molecular Weight: 253.9 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 1
+Exact Mass: 254.1860696 Da
+Monoisotopic Mass: 254.1860696 Da
+Topological Polar Surface Area: 36.9
+Heavy Atom Count: 18
+Formal Charge: 0
+Complexity: 286
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

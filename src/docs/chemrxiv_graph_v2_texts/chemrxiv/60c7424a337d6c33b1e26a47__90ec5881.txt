@@ -1,0 +1,14 @@
+Description:
+Subject to unequal antibody affinity resulting in a negative bias in immunoassays.
+
+Text:
+Although inactive, 25OHD circulates at the highest serum concentrations and is 
+unaffected by homeostatic control; therefore, it is the most common target of analytical 
+assays8. Immunoassay accounts for most testing due to its high throughput and ease 
+of automation9; however, it suffers from poor accuracy, especially at low 
+concentrations10. Unequal antibody affinity for 25OHD2 and 25OHD3 results in a 
+negative bias, and cross reactions with other vitamin D metabolites such as 24,25
+dihydroxyvitamin D result in a positive bias10,11. Using liquid chromatographymass 
+spectrometry (LCMS), these biases can be avoided, since LCMS can differentiate the 
+vitamin D metabolites, but these methods require extensive chromatography times to 
+separate interference from the stereoisomer 3epi25hydroxyvitamin D (epi25OHD)12.

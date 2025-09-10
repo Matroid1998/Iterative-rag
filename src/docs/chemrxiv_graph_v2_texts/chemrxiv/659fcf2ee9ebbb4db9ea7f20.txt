@@ -1,0 +1,12 @@
+Description:
+Materials with amorphous and disordered structures used in nanoporous electrodes.
+
+Text:
+One design criterion that has not yet been optimised for layered MOF supercapacitors is the electrolyte 
+ion size to electrode pore size ratio. Previous studies have attempted to answer this question for 
+nanoporous carbon electrodes, although differences and difficulties in analysing the pore structure of 
+carbon materials, which have amorphous and disordered structures, have led to conflicting and 
+confusing results.1926 One effect observed in some studies on this topic is porosity saturation of the 
+porous carbon electrode.27 This involves the complete filling of the electrolyte accessible surface area 
+of the electrode during charging, and occurs when using electrolytes with larger ion sizes and carbons 
+with low relative porosities.

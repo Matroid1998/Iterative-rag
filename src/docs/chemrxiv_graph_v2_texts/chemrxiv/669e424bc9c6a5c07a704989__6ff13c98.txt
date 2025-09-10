@@ -1,0 +1,30 @@
+Description:
+Photocatalysts developed for hydrogen evolution from aqueous solutions under visible light.
+
+Text:
+Funatsu and coauthors 
+investigated alternative composite materials27. However, in the field of materials development, data bias presents 
+difficulties when building prediction models using machine learning. Recently, photocatalytic water splitting has attracted attention as a promising technology for producing lowcost 
+green hydrogen2830. The development of visiblelightresponsive photocatalysts is important for the efficient utilization 
+of solar light. A number of metalsulfide photocatalysts have been developed for hydrogen evolution from aqueous 
+solutions containing sacrificial reagents under visible light irradiation3032. In particular, Kudo et al., who is one of the 
+authors, have developed many metalsulfide photocatalysts such as ZnSCuInS2AgInS233, AI2ZnAIVS4(AICu, Ag; 
+AIVSn, Ge)34, ZnSCuGaS235, Cu3MS4(MV, Nb, Ta)36 being active for sacrificial hydrogen evolution under visible 
+light irradiation.
+
+
+---
+
+Description:
+A photocatalyst used for efficient hydrogen evolution.
+
+Text:
+It is necessary to develop a novel metalsulfide photocatalyst for efficient hydrogen evolution at the 
+present stage because the activities of the developed photocatalysts are still low. Therefore, MI is expectedto efficiently 
+develop novel photocatalytic materials. This research topic is challenging because numerous and reliable data on various 
+photocatalysts are necessary to construct a prediction model utilizing MI. Here, we have a large amount of original 
+experimental data on the activities of sacrificial hydrogen evolution over metalsulfide photocatalysts. The hydrogen 
+evolution reaction (HER) over photocatalysts is strongly influenced by experimental conditions, such as synthesis 
+conditions, reaction conditions, and chemical composition28,37,38. Specifically, their HER activities varied by 103 orders 
+of magnitude depending on the experimental conditions, even if the chemical compositions of the photocatalysts were 
+identical.

@@ -1,0 +1,31 @@
+Name: Crizotinib
+Text:
+Crizotinib is a 3-[1-(2,6-dichloro-3-fluorophenyl)ethoxy]-5-[1-(piperidin-4-yl)pyrazol-4-yl]pyridin-2-amine that has R configuration at the chiral centre. The active enantiomer, it acts as a kinase inhibitor and is used for the treatment of patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) It has a role as an antineoplastic agent, a biomarker and an EC 2.7.10.1 (receptor protein-tyrosine kinase) inhibitor. It is an enantiomer of an ent-crizotinib.
+Crizotinib is a tyrosine kinase receptor inhibitor used for the treatment of anaplastic lymphoma kinase (ALK) or ROS1-positive non-small cell lung cancer (NSCLC) tumors, as well as ALK-positive anaplastic large cell lymphoma (ALCL) and inflammatory myofibroblastic tumor (IMT). By targeting the echinoderm microtubule-associated protein-like 4 (EML4)-ALK fusion protein, crizotinib offers robust effectiveness in treating NSCLC in patients with this type of rearrangement. Crizotinib was the first-in-class drug used to treat ALK-positive tumors. Second- and third-generation ALK-tyrosine kinase-inhibitors have overcome many of the pharmacodynamic and genetic resistance mechanisms crizotinib is prone to. Crizotinib was approved by the FDA in 2011, and its use is accompanied by FDA-approved tests used to detect ALK and ROS1 rearrangements.
+Crizotinib is a Kinase Inhibitor. The mechanism of action of crizotinib is as a Cytochrome P450 3A Inhibitor, and Receptor Tyrosine Kinase Inhibitor, and Cytochrome P450 2B6 Inhibitor, and P-Glycoprotein Inhibitor, and Organic Cation Transporter 1 Inhibitor, and Organic Cation Transporter 2 Inhibitor.
+Crizotinib is a selective tyrosine kinase receptor inhibitor used in the therapy of selected cases of advanced non-small cell lung cancer. Crizotinib is associated with transient elevations in serum aminotransferase levels during treatment and rare instances of clinically apparent acute liver injury that can be severe and even fatal.
+Crizotinib is an orally available aminopyridine-based inhibitor of the receptor tyrosine kinase anaplastic lymphoma kinase (ALK) and the c-Met/hepatocyte growth factor receptor (HGFR) with antineoplastic activity. Crizotinib, in an ATP-competitive manner, binds to and inhibits ALK kinase and ALK fusion proteins. In addition, crizotinib inhibits c-Met kinase, and disrupts the c-Met signaling pathway. Altogether, this agent inhibits tumor cell growth. ALK belongs to the insulin receptor superfamily and plays an important role in nervous system development. ALK dysregulation and gene rearrangements are associated with a series of tumors.
+CRIZOTINIB is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2011 and has 4 approved and 18 investigational indications.
+A piperidine and aminopyridine derivative that acts as an inhibitor of RECEPTOR PROTEIN-TYROSINE KINASES, including ANAPLASTIC LYMPHOMA KINASE (ALK) and HEPATOCYTE GROWTH FACTOR RECEPTOR (HGFR; c-Met). It is used in the treatment of NON-SMALL CELL LUNG CANCER.
+Properties:safety: Corrosive and Irritant and Health Hazard and Environmental Hazard
+smiles: C[C@H](C1=C(C=CC(=C1Cl)F)Cl)OC2=C(N=CC(=C2)C3=CN(N=C3)C4CCNCC4)N
+formula: C21H22Cl2FN5O
+chem_properties: Molecular Weight: 450.3 g/mol
+XLogP3: 3.7
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 5
+Exact Mass: 449.1185439 Da
+Monoisotopic Mass: 449.1185439 Da
+Topological Polar Surface Area: 78
+Heavy Atom Count: 30
+Formal Charge: 0
+Complexity: 557
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

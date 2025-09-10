@@ -1,0 +1,14 @@
+Description:
+A compound used in selective Diels-Alder cycloaddition with dienophiles.
+
+Text:
+Several routes to biomassderived aromatics have been reported. Among those, one important 
+pathway is the selective DielsAlder cycloaddition of furanic compounds, especially furan 
+derivatives, with dienophiles such as bioethylene.5 High costs associated with the production of 
+furan and its derivatives from biomass are currently the biggest drawback.6 Another fundamental 
+route is the depolymerization of lignin by (catalytic) fast pyrolysis which yields a biooil, a 
+complex mixture of oxygenated aromatic compounds.7 These require extensive purification, 
+separation, and deoxygenation to obtain alkyl aromatics suitable for downstream processing. A 
+more selective but less explored pathway is the selfcondensation of alkyl ketones. The CC
+coupling reaction of alkanones via robust acidbasecatalyzed condensation is an efficient way to 
+achieve deoxygenated aromatics from existing biorefinery streams, e.g., acetone from ABE

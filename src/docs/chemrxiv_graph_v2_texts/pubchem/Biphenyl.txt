@@ -1,0 +1,33 @@
+Name: Biphenyl
+Text:
+Biphenyl appears as a clear colorless liquid with a pleasant odor. Flash point 180 °F. Insoluble in water. Vapors are heavier than air. Used to manufacture other chemicals and as a fungicide.
+Biphenyl is a benzenoid aromatic compound that consists of two benzene rings connected by a single covalent bond. Biphenyl occurs naturally in coal tar, crude oil, and natural gas. Formerly used as a fungicide for citrus crops. It has a role as an antimicrobial food preservative and an antifungal agrochemical. It is a member of benzenes, an aromatic fungicide and a member of biphenyls.
+Biphenyl is used in organic syntheses, heat transfer fluids, dye carriers, food preservatives, as an intermediate for polychlorinated biphenyls, and as a fungistat in the packaging of citrus fruits. In workers, acute (short-term) exposure to high levels of biphenyl has been observed to cause eye and skin irritation and toxic effects on the liver, kidneys, and central and peripheral nervous systems. Kidney effects have been observed in chronically (long-term) exposed animals. EPA has classified biphenyl as a Group D, not classifiable as to human carcinogenicity.
+Biphenyl has been reported in Swertia japonica, Zea mays, and other organisms with data available.
+Biphenyl is found in alcoholic beverages. Fungistat, especially for citrus fruits. Biphenyl is used as food preservative and flavouring agent. Biphenyl is detected in bilberry, wine grape, carrot, peas, rum, potato, bell pepper, tomato, butter, milk, smoked fatty fish, cocoa, coffee, roast peanuts, olive, buckwheat and tamarind. Generally, the fruit packaging is impregnated with biphenyl, which evaporates into the air space surrounding the fruit. Some biphenyl is absorbed by the fruit skins
+
+Biphenyl has been shown to exhibit anti-coagulant and catabolic functions (A7741, A7742).
+
+Biphenyl belongs to the family of Biphenyls and Derivatives. These are organic compounds containing to benzene rings linked together by a C-C bond.
+Properties:safety: Irritant and Environmental Hazard
+smiles: C1=CC=C(C=C1)C2=CC=CC=C2
+formula: C12H10
+chem_properties: Molecular Weight: 154.21 g/mol
+XLogP3: 4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 1
+Exact Mass: 154.078250319 Da
+Monoisotopic Mass: 154.078250319 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 100
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

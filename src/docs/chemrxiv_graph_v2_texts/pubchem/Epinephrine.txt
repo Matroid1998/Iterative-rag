@@ -1,0 +1,33 @@
+Name: Epinephrine
+Text:
+Epinephrine appears as white to nearly-white microcrystalline powder or granules. Odorless. Melting point 211-212 °C. Aqueous solutions are slightly alkaline. Slightly bitter, numbing taste.
+(R)-adrenaline is the R-enantiomer of adrenaline. It is a hormone secreted by the adrenal glands resulting in the 'fight-or-flight' response. It has a role as a hormone, an adrenergic agonist, a vasodilator agent, an alpha-adrenergic agonist, a bronchodilator agent, a vasoconstrictor agent, a beta-adrenergic agonist, a sympathomimetic agent, a mydriatic agent and a mouse metabolite. It is a conjugate base of a (R)-adrenaline(1+). It is an enantiomer of a (S)-adrenaline.
+Epinephrine, also known as adrenaline, is a hormone and neurotransmitter and produced by the adrenal glands that can also be used as a drug due to its various important functions. Though it has long been used in the treatment of hypersensitivity reactions, epinephrine in the auto-injector form (EpiPen) has been available since 1987 in the USA. Many new products/biosimilars and dosage routes have been approved under various names over the last several decades,,.  On August 16, 2018, Teva Pharmaceuticals USA gained approval to market its generic epinephrine auto-injector in 0.3 mg and 0.15 mg strengths. Dosage delivery routes for epinephrine include intravenous, inhalation, nebulization, intramuscular injection, and subcutaneous injection.  In general, the most common uses of parenteral epinephrine are to relieve respiratory distress due to bronchospasm, to provide rapid relief of hypersensitivity (anaphylactic or anaphylactoid) reactions to drugs, animal serums and other allergens, and to prolong the action of infiltration anesthetics. In addition to the above functions, epinephrine is the primary drug administered during cardiopulmonary resuscitation (CPR) to reverse cardiac arrest,.  It can be used in severe cases of croup.
+Epinephrine is an alpha-Adrenergic Agonist, and beta-Adrenergic Agonist, and Catecholamine. The mechanism of action of epinephrine is as an Adrenergic alpha-Agonist, and Adrenergic beta-Agonist.
+Epinephrine has been reported in Hemidesmus indicus, Portulaca grandiflora, and other organisms with data available.
+Therapeutic Epinephrine is the synthetic form of the naturally occurring sympathomimetic amine with vasoconstricting, intraocular pressure-reducing, and bronchodilating activities. By stimulating vascular alpha-adrenergic receptors, epinephrine causes vasoconstriction, thereby increasing vascular resistance and blood pressure. When administered in the conjunctiva, this agent binds to alpha-adrenergic receptors in the iris sphincter muscle, resulting in vasoconstriction, a decrease in the production of aqueous humor, and a lowering of intraocular pressure. Through its beta1 receptor-stimulating actions, epinephrine increases the force and rate of myocardial contraction and relaxes bronchial smooth muscle, resulting in bronchodilation.
+EPINEPHRINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1976 and has 19 approved and 34 investigational indications.
+The active sympathomimetic hormone from the ADRENAL MEDULLA. It stimulates both the alpha- and beta- adrenergic systems, causes systemic VASOCONSTRICTION and gastrointestinal relaxation, stimulates the HEART, and dilates BRONCHI and cerebral vessels. It is used in ASTHMA and CARDIAC FAILURE and to delay absorption of local ANESTHETICS.
+See also: Epinephrine Bitartrate (is active moiety of); Epinephrine Hydrochloride (active moiety of); Epinephrine; procaine hydrochloride (component of) ... View More ...
+Properties:safety: Acute Toxic
+smiles: CNC[C@@H](C1=CC(=C(C=C1)O)O)O
+formula: C9H13NO3
+chem_properties: Molecular Weight: 183.20 g/mol
+XLogP3: -1.4
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 3
+Exact Mass: 183.08954328 Da
+Monoisotopic Mass: 183.08954328 Da
+Topological Polar Surface Area: 72.7
+Heavy Atom Count: 13
+Formal Charge: 0
+Complexity: 154
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

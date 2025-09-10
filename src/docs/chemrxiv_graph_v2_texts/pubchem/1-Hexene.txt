@@ -1,0 +1,28 @@
+Name: 1-Hexene
+Text:
+1-hexene appears as a clear colorless liquid with a petroleum like odor. Flash point -9 °F. Less dense than water and insoluble in water. Vapors heavier than air. Used as a solvent, paint thinner, and chemical reaction medium.
+1-hexene is an alkene that is hexane carrying a double bond at position 1.
+1-Hexene has been reported in Lonicera japonica and Oryza sativa with data available.
+See also: Hydrogenated poly(C6-14 olefin; 2 cst) (monomer of); Hydrogenated poly(C6-14 olefin; 4 cst) (monomer of); Hydrogenated poly(C6-14 olefin; 6 cst) (monomer of) ... View More ...
+Properties:safety: Flammable and Irritant and Health Hazard
+smiles: CCCCC=C
+formula: C6H12
+chem_properties: Molecular Weight: 84.16 g/mol
+XLogP3: 3.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 3
+Exact Mass: 84.093900383 Da
+Monoisotopic Mass: 84.093900383 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 29
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

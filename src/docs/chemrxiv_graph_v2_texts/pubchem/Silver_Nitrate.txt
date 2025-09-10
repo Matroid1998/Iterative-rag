@@ -1,0 +1,31 @@
+Name: Silver Nitrate
+Text:
+Silver nitrate appears as a colorless or white crystalline solid becoming black on exposure to light or organic material.
+Silver(1+) nitrate is a silver salt and an inorganic nitrate salt. It has a role as an astringent and a NMR chemical shift reference compound.
+Silver nitrate is an inorganic compound with the chemical formula AgNO3. In its solid form, silver nitrate is coordinated in a trigonal planar arrangement. It is often used as a precursor to other silver-containing compounds. It is used in making photographic films, and in laboratory setting as a staining agent in protein visualization in PAGE gels and in scanning electron microscopy.
+Silver Nitrate is an inorganic chemical with antiseptic activity. Silver nitrate can potentially be used as a cauterizing or sclerosing agent.
+SILVER NITRATE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) and has 5 investigational indications.
+Silver nitrate is a nitrate of silver. It is a versatile precursor to many other silver compounds, such as those used in photography, and is commonly used in inorganic chemistry to abstract halides. Silver nitrate is also used in organic synthesis and for silver staining of proteins and nucleic acids, such as in PAGE gels and scanning electron microscopy. Silver is a metallic element with the chemical symbol Ag and atomic number 47. It occurs naturally in its pure, free form, as an alloy with gold and other metals, and in minerals such as argentite and chlorargyrite. Nitrite is a toxic compound known to cause methemoglobinemia. (L1137, L808, L809, L823)
+A silver salt with powerful germicidal activity. It has been used topically to prevent OPHTHALMIA NEONATORUM.
+See also: Silver cation (has active moiety); Gold; silver nitrate (component of); Potassium Nitrate; Silver Nitrate (component of) ... View More ...
+Properties:safety: Oxidizer and Corrosive and Environmental Hazard
+smiles: [N+](=O)([O-])[O-].[Ag+]
+formula: AgNO3
+chem_properties: Molecular Weight: 169.873 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 168.89291 Da
+Monoisotopic Mass: 168.89291 Da
+Topological Polar Surface Area: 62.9
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 18.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

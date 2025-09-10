@@ -1,0 +1,40 @@
+Description:
+Reduces the catalytic activities of electrocatalytic and photocatalytic systems for N2O decomposition.
+
+Text:
+It is well known that N2O has a global warming potential approximately 300 times greater than that of 
+CO2 on a permass basis. Additionally, N2O is a significant contributor to stratospheric ozone 
+depletion.13 Emissions of N2O from industries that use fossil fuels, burn biomass, and chemical 
+plants that produce nitric and adipic acids are increasing annually.4 Without global mitigation efforts, 
+N2O emissions are expected to nearly double by 2050.5 Consequently, effective catalytic post
+treatment technologies must be developed to treat the N2O emissions from stationary systems and 
+vehicles burning transportation fuels. Various methods exist for decomposing N2O into harmless N2, such as thermal, 
+electrocatalytic, and photocatalytic systems.612 Although electrocatalytic and photocatalytic systems 
+can operate at ambient temperatures, their catalytic activities are reduced in the presence of O2.
+
+
+---
+
+Description:
+Present during the decomposition of N2O through thermal catalysis.
+
+Text:
+Processes based on thermal catalysis can decompose N2O even in the presence of O2 through direct 
+decomposition (2N2O  2N2  O2)1321 or selective catalytic reduction2228 methods but both of these 
+require high temperatures, typically above 300 C. Therefore, it is essential to devise methods that 
+can efficiently decompose N2O even in the presence of O2, especially at low temperatures.
+
+
+---
+
+Description:
+Present in waste gases and does not inhibit the chemical absorption of CO2.
+
+Text:
+In recent years, chemical looping has been increasingly recognized as an effective technique 
+for various chemical transformations, particularly those associated with CO2 utilization.29,30 For 
+instance, a chemicallooping system for CO2 utilization employs CO2 adsorbents and CO2 reduction 
+materials that can operate in various reactors.3133 This process can be used for CO2 transformation 
+in the presence of O2 because the chemical absorption of CO2 is not inhibited by O2, and H2 as a 
+reductant is not simultaneously introduced into the same reactor as O2. This is advantageous from a 
+practical viewpoint because O2 is often present in waste gases containing CO2.

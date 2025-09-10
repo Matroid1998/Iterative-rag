@@ -1,0 +1,30 @@
+Description:
+A core structure derived from the lipooligosaccharide of pathogenic bacterium Moraxella catarrhalis.
+
+Text:
+Glycoscience is an important emerging area with potential applications from personalized 
+medicines and food security, to biofuels and advanced biomaterials.2 Key to the rational design 
+of carbohydratebased compounds is the ability to accurately understand their conformational 
+behavior.3 Achieving this, however, can be challenging as carbohydrates can exhibit subtle 
+conformational preferences. In this regard, the use of computational methods have proven useful; 
+in particular, the application of molecular dynamics (MD) simulations is capable of providing 
+conformational landscapes in atomistic detail not readily accessible via experimental approaches. For example, conformational analysis of the core pentasaccharide derived from the 
+lipooligosaccharide of pathogenic bacterium Moraxella catarrhalis was recently performed 
+using molecular simulation and NMR.
+
+
+---
+
+Description:
+A core structure whose conformation changes with the addition of glucosyl units.
+
+Text:
+It was shown that the addition of one glucosyl unit to each 
+of the (14) and (12) branches of this core pentasaccharide led to a significant change in 
+conformation, into a more folded compact structure,4 with significant potential implications for 
+the minimum epitope to target in vaccine design. In another recent study, Blaum et al.5 examined the pentasaccharide glycan component of 
+ganglioside GM1, a membranebound ligand for a range of proteins, including those of viruses 
+and bacteria. In their work, they identified an alternative conformation of GM1, exhibited in its 
+complex with a 155 kDa protein, Factor H. Subsequent long time scale MD simulations (10 s) 
+of GM1 in explicit solvent identified this structure as a secondary lowlying minimum on the 
+free energy surface.

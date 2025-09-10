@@ -1,0 +1,10 @@
+Description:
+Forms linear molecules with molecular orbitals that can exhibit helical topology.
+
+Text:
+Molecular orbitals (MOs) have long been an essential tool in the toolbox of chemists. While
+they are not physical observables, they have nonetheless been used to develop intuition for
+and predict physical properties.15 Recently, the MOs of some linear carbon molecules
+have received increased attention due to their helical topology.616 An example of such a
+proclaimed helical orbital is shown in Figure 1. This is the HOMO of S1,5Me4cumulene
+and it is clearly shaped like a helix.

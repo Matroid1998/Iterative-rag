@@ -1,0 +1,34 @@
+Description:
+Molecular oxygen can be converted to singlet oxygen (1O2) through energy transfer from photosensitizers in photodynamic therapy.
+
+Text:
+From a 
+photophysical point of view PDT golden standard relies on the 
+activation of the photosensitizers (PS) using a specific light 
+wavelength to produce singlet oxygen (1O2) and other reactive 
+oxygen species (ROS) that can disrupt cellular macromolecular 
+systems, such as nucleic acids, proteins and lipid membranes, 
+and thus initiate cancer cell death. Interestingly, PDT is not only 
+restricted to cancer treatment and can find useful applications 
+also for antibacterial or antiviral purposes, or for food 
+processing.810 To assure 1O2 efficient production, the PS should 
+usually show a facile intersystem crossing leading to a high 
+population of its triplet manifold and the subsequent energy 
+transfer to the molecular oxygen to produce 1O2 or other ROS.
+
+
+---
+
+Description:
+Molecular oxygen is activated in photodynamic therapy, but its efficiency is limited under hypoxic conditions in solid tumors.
+
+Text:
+Furthermore, PDT is relying on the 
+activation of molecular oxygen and thus its efficiency is strongly 
+limited in the case of solid tumors under hypoxia.1921 
+Therefore, alternative cancer treatments need to be explored. In this context lightactivated chemotherapy (LAC) is a 
+a. Universit Paris Cit and CNRS, ITODYS, F75006 Paris, France. b. Universidad de La Rioja, Departamento de Qumica, Centro de Investigacin en 
+Sntesis Qumica, 26006 Logroo, Spain 
+c. Universit de Lorraine CNRS, L2CM UMR 7053, F54000 Nancy, France. Corresponding author Antonio.monariuparis.fr . Electronic Supplementary Information (ESI) available Radial distribution function, 
+membrane thickness, evolution of the collective variable during SDM, RMSD for 
+different concentration of E and ZCCBu. See DOI 10.1039x0xx00000x

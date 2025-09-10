@@ -1,0 +1,12 @@
+Description:
+Complexes that undergo light-induced low-spin to high-spin transitions, important for molecular data storage.
+
+Text:
+This is showcased by the lightinduced lowspin
+(LS) highspin (HS) transition in Fe(II) polypyridyl complexes, which have attracted
+grand attention due to its potential importance in new technologies, e.g., molecular data
+storage.3,4 From femtosecond transient optical absorption5 (TOAS), Xray absorption6,7
+and Xray emission spectroscopy8,9 (XES) investigations, it is known that irradiation of
+the prototypical Fe(bipy)32 complex (bipy  2,2bipyridine) by visible light promotes
+the system from the LS ground state (1GS) into singlet metaltoligand charge transfer
+states (1MLCT), which in turn leads to conversion into the quintet HS state in 200 fs.

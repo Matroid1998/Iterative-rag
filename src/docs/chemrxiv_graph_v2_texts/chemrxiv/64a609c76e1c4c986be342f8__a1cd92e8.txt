@@ -1,0 +1,12 @@
+Description:
+Compounds with F centers that have distinct electronic structures due to new local energy levels within their optical gap.
+
+Text:
+F centers are point defects commonly observed in metal oxides, arising from anion vacancies. They possess distinct electronic states, including a singlet ground state and a triplet excited
+state. The optical properties of the F centers are highly tunable, making them suitable for
+a wide range of colorcenter laser applications.1 In particular, magnesium oxide (MgO), an
+ionic oxide, exhibits F centers that significantly influence the materials chemical properties,
+thus making it a promising candidate for optoelectronic and catalytic applications.2,3 The
+interesting properties of F centers in alkaline earth oxides can be attributed to their distinct
+electronic structure which results from the emergence of new local energy levels within their
+optical gap.

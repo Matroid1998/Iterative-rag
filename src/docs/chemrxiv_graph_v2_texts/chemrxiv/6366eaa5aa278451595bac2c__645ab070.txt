@@ -1,0 +1,13 @@
+Description:
+A semiconductor used in the photoinduced dehydrogenation of methanol.
+
+Text:
+Photocatalytic nonoxidative dehydrogenation of anhydrous methanol can simultaneously obtain 
+hydrogen and add the value of oxidation halfreaction, as compared with water splitting 1, 2. This 
+strategy can also avoid the catalyst degradation that occurs at high temperature in conventional 
+catalytic reaction 24. Like the common hole extraction occurred on picosecondnanosecond 
+timescale 5, 6, photoinduced dehydrogenation of methanol over the semiconductors like TiO2 can 
+also be efficient 7, 8. Despite of promising prospect, hydrogen evolution (HE), which is generally 
+believed to be sufficiently fast in water splitting, however, slows the overall reaction 911. Photocatalytic HE mainly contains interfacial transfer of photogenerated electrons from 
+semiconductor to cocatalyst and electrochemical transfer of these chargers to solution that are 
+connected in series 1214.

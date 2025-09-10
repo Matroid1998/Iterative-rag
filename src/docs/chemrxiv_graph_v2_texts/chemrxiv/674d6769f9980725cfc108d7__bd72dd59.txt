@@ -1,0 +1,14 @@
+Description:
+Used in three-component Suzuki reactions with aryl halide and alkyne to afford axially chiral olefins.
+
+Text:
+In prior studies, a sterically hindered but reactive aryl halide has been typically employed toward 
+de novo construction of axially chiral biaryls (Scheme 1a). Early studies took advantage of the 
+Suzuki reactions for atroposelective synthesis of CC biaryls.5a,10 The Song group11 further 
+developed threecomponent Suzuki reactions between aryl halide, alkyne, and aryl boronic acid, 
+affording axially chiral olefins. The same group also extended the reaction pattern to CB axially 
+chiral products via a Miyaura reaction.12 By retorting to amidetethered isocyanide as a reactive 
+coupling reagent, the Zhu group13 realized Pdcatalyzed atroposelective synthesis of 
+diarylquinazolinone via CC coupling. The Taguchi14 group and our group15 addressed 
+atroposelective synthesis of CN biaryls via BuchwaldHartwig coupling of two sterically hindered 
+substrates.

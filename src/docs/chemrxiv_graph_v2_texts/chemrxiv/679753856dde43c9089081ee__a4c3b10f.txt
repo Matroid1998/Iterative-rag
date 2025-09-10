@@ -1,0 +1,14 @@
+Description:
+Used as an acceptor group in NIR TADF molecules.
+
+Text:
+For most of the 
+reported NIR TADF molecules, derivatives of pyrazine,4 boronnitrogen compounds,3d, 5 and 
+difluoroboron compounds,6 have been used as acceptor groups, whereas derivatives of 
+triarylamine moieties,7 phenazine,8 phenothiazine,9 and phenoxazine (PXZ)10 have been 
+employed as donors. Among several reported nitrogendoped polycyclic aromatic 
+hydrocarbons (NPAHs), dibenzoa,cphenazine (BP) has been one of the most popular for 
+achieving orangetored emission (Figure S1). Zhao et al. first reported a BP based TADF compound by combining one to three 9,9
+dimethylacridan (DMAC) donors to produce a family of red TADF emitters. A distinct TADF 
+character was observed particularly in 3DMACBP, an emitter with three DMAC donors, 
+which showed a PL at 605 nm (in toluene) and 590 nm (in 20 wt doped films in mCBP).

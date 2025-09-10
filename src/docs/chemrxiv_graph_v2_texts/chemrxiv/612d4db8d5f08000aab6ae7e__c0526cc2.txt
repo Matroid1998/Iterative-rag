@@ -1,0 +1,12 @@
+Description:
+A sugar used to induce protein expression in bacterial cultures.
+
+Text:
+To perform this assay, a single colony of the E. coli strains (in case of the control with 
+the vector containing a cloned cyclic diGMP binding protein (YcgR or BcsE) and its 
+relevant nonbinding mutant) were inoculated 1100 from an overnight culture in LB 
+medium with the relevant antibiotic. After induction with 0.1 Larabinose at 30C 
+for four hours, cells were harvested by resuspension in binding buffer (10 mM Tris 
+pH 8.0, 100 mM NaCl, 5 mM MgCl2, in Chromasolv H2O; 11 with 100 l lysozyme 
+(500 gml) per OD6003 (4, 12). Cells were disrupted by two freezethaw cycles of 
+1h at room temperature and at 80C.

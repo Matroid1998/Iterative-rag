@@ -1,0 +1,14 @@
+Description:
+A pyrochlore phase that forms easily and is detrimental to LLZO electrolyte performance.
+
+Text:
+Syn
+thesis of phasepure LLZO is challenging due to easy formation of secondary phases, such
+as the pyrochlore La2Zr2O7 and carbonates, that are detrimental to the performance of a
+LLZO electrolyte. Furthermore, to prepare highperformance LLZO electrolytes, the fast
+ionconducting cubic phase must be stabilized over the tetragonal phase at ambient temper
+ature. The synthesis method and conditions, such as temperature, atmosphere, excess Li, and
+type of precursors, govern the evolution of LLZO and potential competing phases such as
+pyrochlore and carbonates. Hightemperature calcination is necessary to stabilize the cubic
+phase of LLZO, but causes evaporation and loss of Li which might lead to decomposition
+of LLZO and formation of La2Zr2O7 17,18.

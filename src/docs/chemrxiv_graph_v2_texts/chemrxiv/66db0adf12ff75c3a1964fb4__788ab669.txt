@@ -1,0 +1,11 @@
+Description:
+Used as an atomically smooth substrate to facilitate the growth of 2D UiO66NH2 films.
+
+Text:
+As a result, the stateoftheart UiO66 films are 23 orders of magnitude thicker than the desired 2D film (Figure S2 and 
+Table S1). Herein, we report the first nonvdW 2D MOF in the form of 2D UiO66NH2 film by developing conditions leading to anisotropic 
+2D growth. Briefly, the composition of the precursor solution was screened to develop growth conditions that delay homogeneous 
+nucleation of UiO66NH2 in the bulk solution, promote inplane growth of 2D nuclei, and slow outofplane growth. This was further 
+facilitated by the use of atomically smooth graphitic substrates. A crystallographic registry between the graphene superstructure and 
+the 2D lattice of UiO66 along the aoutofplane direction was observed. The thickness of the film could be tuned from 0.5 to 2 unit 
+cells.

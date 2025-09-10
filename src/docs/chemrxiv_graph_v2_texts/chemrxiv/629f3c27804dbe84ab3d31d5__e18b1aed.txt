@@ -1,0 +1,11 @@
+Description:
+Superior to Ag as a catalyst for hydrogen evolution reaction (HER).
+
+Text:
+In both reaction mechanisms, on the other hand, the differences in catalytic behaviour of various 
+catalysts toward HER are not stated, such as the rationale for Pt being superior to Ag. The defect of 
+these mechanisms arising from this indiscrimination appears most evidently in the designing future 
+catalysts for HER, so far, all of effective catalysts were developed by empirical method, so that, both 
+catalytic mechanisms are of no use for predicting the catalytic activity of various catalysts for HER. Reported result of metals catalysts for HER 
+Table 1 presents the selection of previous experimental values of exchange current density for the 
+electrolytic evolution of hydrogen on pure metal catalysts.5 It is obvious that reduced exchange

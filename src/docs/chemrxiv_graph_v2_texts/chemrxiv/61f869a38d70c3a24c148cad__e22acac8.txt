@@ -1,0 +1,24 @@
+Description:
+Exhibits a large bandgap between 3.0-3.6 eV.
+
+Text:
+In the current glass market, there is a great need for inorganic materials that are mechanically strong with respect to 
+mechanical wearing, can withstand high temperature processing, and possess enhanced wettability with large water 
+contact angles. Such materials are interesting for applications in photovoltaic panels installed in rainy or high humidity 
+areas, windows of buildings, automobiles, etc. RareEarth metal oxides (REOs) possess hydrophobic properties 1. Cerium dioxide (ceria), which cation is the most 
+abundant lanthanide in the Earths crust 2, exhibits a large bandgap between 3.03.6 eV 35 which makes this 
+material promising for the abovementioned applications. The original explanation of the ceria wetting behavior was 
+based on its electronic structure 1.
+
+
+---
+
+Description:
+A material deposited on substrates after cleaning.
+
+Text:
+To terminate the etch and remove any etchant remaining on 
+the Sisurface, the wafers were immersed in a 5 HCl solution for 120 seconds and subsequently rinsed and dried 
+using N2 gas. The mass loss from the wafers was found to be roughly 6 of the initial value. Before deposition of 
+ceria, Sisubstrates were cleaned by ultrasonication in isopropanol for 10 minutes, rinsed with deionized water and 
+dried in N2 gas at room temperature. For the reference samples, we utilized nontreated flat Siwafers as substrates.

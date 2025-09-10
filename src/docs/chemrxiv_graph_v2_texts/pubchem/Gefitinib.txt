@@ -1,0 +1,32 @@
+Name: Gefitinib
+Text:
+Gefitinib is a member of the class of quinazolines that is quinazoline which is substituted by a (3-chloro-4-fluorophenyl)nitrilo group, 3-(morpholin-4-yl)propoxy group and a methoxy group at positions 4,6 and 7, respectively. An EGFR kinase inhibitor used for the treatment of non-small cell lung cancer. It has a role as an epidermal growth factor receptor antagonist and an antineoplastic agent. It is an aromatic ether, a member of monochlorobenzenes, a member of monofluorobenzenes, a secondary amino compound, a tertiary amino compound, a member of quinazolines and a member of morpholines.
+Gefitinib (originally coded ZD1839) is a drug used in the treatment of certain types of cancer. Acting in a similar manner to erlotinib (marketed as Tarceva), gefitinib selectively targets the mutant proteins in malignant cells. It is marketed by AstraZeneca under the trade name Iressa.
+Gefitinib is a Kinase Inhibitor. The mechanism of action of gefitinib is as a Protein Kinase Inhibitor.
+Gefitinib is a selective tyrosine kinase receptor inhibitor used in the therapy of non-small cell lung cancer. Gefitinib therapy is associated with transient elevations in serum aminotransferase levels and rare instances of clinically apparent acute liver injury.
+Gefitinib has been reported in Penicillium brocae with data available.
+Gefitinib is an anilinoquinazoline with antineoplastic activity. Gefitinib inhibits the catalytic activity of numerous tyrosine kinases including the epidermal growth factor receptor (EGFR), which may result in inhibition of tyrosine kinase-dependent tumor growth. Specifically, this agent competes with the binding of ATP to the tyrosine kinase domain of EGFR, thereby inhibiting receptor autophosphorylation and resulting in inhibition of signal transduction. Gefitinib may also induce cell cycle arrest and inhibit angiogenesis. (NCI04)
+GEFITINIB is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2003 and has 3 approved and 45 investigational indications.
+A selective tyrosine kinase inhibitor for the EPIDERMAL GROWTH FACTOR RECEPTOR (EGFR) that is used for the treatment of locally advanced or metastatic NON-SMALL CELL LUNG CANCER.
+Properties:safety: Corrosive and Irritant and Health Hazard and Environmental Hazard
+smiles: COC1=C(C=C2C(=C1)N=CN=C2NC3=CC(=C(C=C3)F)Cl)OCCCN4CCOCC4
+formula: C22H24ClFN4O3
+chem_properties: Molecular Weight: 446.9 g/mol
+XLogP3: 4.1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 8
+Exact Mass: 446.1520965 Da
+Monoisotopic Mass: 446.1520965 Da
+Topological Polar Surface Area: 68.7
+Heavy Atom Count: 31
+Formal Charge: 0
+Complexity: 545
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

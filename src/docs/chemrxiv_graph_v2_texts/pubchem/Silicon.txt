@@ -1,0 +1,29 @@
+Name: Silicon
+Text:
+Silicon powder, amorphous appears as a dark brown powder. Insoluble in water and denser than water. Burns readily when exposed to heat or flames, and may be difficult to extinguish. Water may not be effective in extinguishing flames. Used to make computer microchips.
+Silicon atom is a carbon group element atom, a nonmetal atom and a metalloid atom.
+Silicon is under investigation in clinical trial NCT00103246 (Photodynamic Therapy Using Silicon Phthalocyanine 4 in Treating Patients With Actinic Keratosis, Bowen's Disease, Skin Cancer, or Stage I or Stage II Mycosis Fungoides).
+Silicon is a mineral with formula of Si. The corresponding IMA (International Mineralogical Association) number is IMA1982-099. The IMA symbol is Si.
+A trace element that constitutes about 27.6% of the earth's crust in the form of SILICON DIOXIDE. It does not occur free in nature. Silicon has the atomic symbol Si, atomic number 14, and atomic weight [28.084; 28.086].
+See also: Silane (annotation moved to).
+Properties:safety: Flammable
+smiles: [Si]
+formula: Si
+chem_properties: Molecular Weight: 28.085 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 27.976926534 Da
+Monoisotopic Mass: 27.976926534 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 1
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

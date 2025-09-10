@@ -1,0 +1,47 @@
+Description:
+Atoms that can be abstracted from electron-rich CH bonds by electrophilic open-shell species.
+
+Text:
+The selective functionalisation of short 
+alkanes such as methane, available in natural gases, is a 
+topic of current interest.14 Processes have been developed 
+to convert gaseous hydrocarbons into highly valuable 
+chemicals that serve as platform substrates for further ap
+plications.2 However, due to their nonpolar and volatile 
+nature, the specific activation of CH bonds remains a chal
+lenging task. To address this challenge, hydrogen atom 
+transfer (HAT) processes have emerged as a powerful 
+tool.35 Small molecules such as chlorine radicals or oxy
+gencentred alcoholate radicals act as electrophilic open
+shell species with a high propensity for abstraction of hy
+drogen atoms from electronrich CH bonds within the 
+range of their bonddissociation energy.610 The resulting 
+carboncentred radicals undergo subsequent transfor
+mations and functionalisation reactions.
+
+
+---
+
+Description:
+Atoms are selectively abstracted by electrophilic species from complex molecules.
+
+Text:
+Re
+cently, the groups of Schelter and Zuo have developed ce
+riumbased photosensitizers13, 14 and impressive method
+ologies involving the formation of coloured Ce4ligand 
+complexes through the reaction of CeCl3 and chloride salts 
+or alcoholate ligands, respectively.9, 1518 Upon excitation by 
+visible or near UVlight, these complexes undergo oxidative 
+accumulation, yielding chlorine or alkoxy radicals.19, 20 
+These electrophilic species selectively abstract hydrogen at
+oms from complex molecules, and the resulting nucleophilic 
+carboncentred radicals are successfully trapped by deriva
+tives of ditertbutyl (azodicarboxylate), hypothesized to 
+close the catalytic cycle of Ce3Ce4.21 However, in some 
+conditions where both CeCl3 and short alcohols were used 
+as the catalytic system, the nature of the eventual active hy
+drogen atom transfer (HAT) species remains unresolved 
+and is still under discussion despite numerous mechanistic 
+investigations conducted by both groups (Scheme 1).10, 17, 
+20

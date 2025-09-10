@@ -1,0 +1,13 @@
+Description:
+Reacts with a Michael acceptor to release proline.
+
+Text:
+A distinct 
+feature of natural shunts is that they offer control over product speciation in response to external 
+stimuli or the organisms internal needs.710 Although the field of Systems Chemistry has 
+developed numerous artificial reaction networks of various complexity,1120 shunts are 
+exceedingly rare in synthetic reaction cycles. Here we show how two alternative pathways in an artificial reaction cycle (i.e., shunts) can be 
+accessed depending on the oxidant strength (Figure 1). The reaction cycle starts from a Michael 
+acceptor (MA) that reacts with a thiol to release proline. The thiol adduct is subsequently oxidized 
+to the sulfoxide and further to the sulfone, allowing the proline to reattack and recover the original 
+MA species. Strong oxidants provide access to all oxidation states of the sulfur species, i.e., sulfide,

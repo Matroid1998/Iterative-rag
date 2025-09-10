@@ -1,0 +1,28 @@
+Description:
+A greenhouse gas contributing to climate change and ocean acidification.
+
+Text:
+CO2 emissions increase drastically due to the fastgrowing global fossilbased energy demand, 
+leading to urgent environmental crises such as climate change and ocean acidification. To 
+mitigate CO2 emissions, technologies related to the capture and reuse of CO2 from the 
+atmosphere or point sources are moving to the fore. Figure 1 The Tandem Electrolyzer concept coupling a CO2 to CO electrolyzer (cell 1) directly to a CO to 
+C2 electrolyzer (cell 2) to close the CO2 cycle using valueadded C1C3 products. Efficient CO2 use is 
+enabled by a Tandem Electrolysis Cell concept powered by renewables to produce chemicals and fuels. The 
+Tandem Cell concept offers maximal materials and operational flexibility for Cell 1 and Cell 2.
+
+
+---
+
+Description:
+A compound involved in electrochemical reduction reactions to convert it into valorized products.
+
+Text:
+In cell 1, the 
+captured CO2 will be converted to high purity COrich feeds that enter cell 2 for the electrochemical CC coupling. State of art design suffer from low molar CO concentrations in the exit feed. Relevant performance indicators 
+emphasized in the red hexagonal scheme are the partial CO current densities (JCO), Faradaic CO efficiency (FE), 
+Cell potential (E), energy efficiency (EE), stoichiometric excess of CO2 () and single pass CO2toCO conversion 
+(SP) (Supplementary Table 1). Direct electrochemical CO2 reduction reaction (CO2RR) is a process route to convert CO2 into 
+valorized products via multiple electrontransfer reaction steps, with renewable electricity as 
+the driving force.111 Catalyzing multielectron reaction cascades at one and the same electrode, 
+catalyst, or even molecular active site results in compromised, usually suboptimal overall 
+reactivities.

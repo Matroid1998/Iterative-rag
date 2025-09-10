@@ -1,0 +1,32 @@
+Name: Glyphosate
+Text:
+Glyphosate is the active ingredient in weed killer products such as RoundUpâ¢. Glyphosate products are one of the most widely used weed killers worldwide in farms and in home gardens and lawns. These products typically contain glyphosate in combination with other ingredients that help improve the absorption of the glyphosate into the plant. Glyphosate-based formulations (GBFs) are easily bought in most stores. These products can have different combinations of other ingredients or different concentrations of glyphosate.
+Glyphosate can cause cancer according to California Labor Code and the World Health Organization's International Agency for Research on Cancer (IARC).
+Glyphosate is an odorless white powder. Decomposition begins at approximately 419 °F (darkens). pH (1% solution in water) 2.5. (NTP, 1992)
+Glyphosate is a phosphonic acid resulting from the formal oxidative coupling of the methyl group of methylphosphonic acid with the amino group of glycine. It is one of the most commonly used herbicides worldwide, and the only one to target the enzyme 5-enolpyruvyl-3-shikimate phosphate synthase (EPSPS). It has a role as an agrochemical, an EC 2.5.1.19 (3-phosphoshikimate 1-carboxyvinyltransferase) inhibitor and a herbicide. It is a phosphonic acid and a glycine derivative. It is a conjugate acid of a glyphosate(2-) and a glyphosate(1-).
+Glyphosate has been reported in Glycine max and Phaseolus vulgaris with data available.
+Glyphosate is a synthetic organophosphate compound that blocks the activity of enolpyruvylshikimate-3-phosphate (EPSP) synthase and is used as a broad-spectrum pesticide. It is characterized as a volatile, moderately toxic, colorless, odorless crystalline solid or powder, and exposure occurs by inhalation, ingestion, or contact.
+Active compound in herbicidal formulations that inhibits 3-PHOSPHOSHIKIMATE 1-CARBOXYVINYLTRANSFERASE.
+See also:  ... View More ...
+Properties:safety: Corrosive and Environmental Hazard
+smiles: C(C(=O)O)NCP(=O)(O)O
+formula: C3H8NO5P
+chem_properties: Molecular Weight: 169.07 g/mol
+XLogP3: -4.6
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 4
+Exact Mass: 169.01400935 Da
+Monoisotopic Mass: 169.01400935 Da
+Topological Polar Surface Area: 107
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 162
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

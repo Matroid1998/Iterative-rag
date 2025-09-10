@@ -1,0 +1,12 @@
+Description:
+Identified by its specific spectral fingerprint in Raman spectroscopy.
+
+Text:
+For the carbonbased materials, the Raman spectroscopy is a particularly wellsuited technique (Zhang et al., 
+2022), due to the longrange crystalline vibrations and shortrange molecular vibrations of carbon species, which 
+are producing, for the different materials, their characteristic spectral fingerprints. According to Zhang and 
+coworkers, these fingerprints allow identifying the specific carbon materials including graphite, diamond, graphene, 
+carbon nanotubes, fullerene, and amorphous carbon. To these materials, we must also add the recent studies on 
+graphene, bilayer graphene, and twodimensional graphene heterostructures (Zhang et al., 2022, Mu and Sun, 
+2020, Cui and Sun, 2021). We have already discussed diamond and graphite Raman spectra in the framework of their decomposition in q
+Gaussian Tsallis functions.

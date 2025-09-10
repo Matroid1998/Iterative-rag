@@ -1,0 +1,21 @@
+Description:
+Undergo photopolymerization using either laser or UV light in stereolithography processes.
+
+Text:
+For achieving such a lateral resolution (XY), soft lithography must 
+be used.13 This means spin coating a photopolymer, fabricating a mask with high resolution, 
+mask alignment and UV developing, baking, and washing steps to make a PDMS mold. Unfortunately, this fabrication method is too complex and restricted to laboratories with 
+specialized knowhow and fabrication capabilities. To overcome this problem, PDMS microfluidic molds can be fabricated by stereolithography 
+(SLA) or masked stereolithography ((m)SLA) printers, more colloquially called resin 
+printers.14,15 
+These 
+printers 
+use 
+the 
+same 
+concept 
+of 
+stereolithography 
+Photopolymerization of (met)acrylates using either laser (SLA) or UV light and an LCD screen 
+that acts as a mask (m(SLA)). The resin printers are commercially available for home use, 
+cheap, and easy to operate.

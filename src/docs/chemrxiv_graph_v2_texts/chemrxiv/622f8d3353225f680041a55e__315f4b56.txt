@@ -1,0 +1,15 @@
+Description:
+Receive aminonitrogen from amino acids to form corresponding amino acids.
+
+Text:
+Over myriads of years of evolution, nature has developed intricate enzyme catalysts, 
+accomplishing the transfer of aminonitrogen from amino acids to ketoacids to produce their 
+corresponding aminoacids. This double displacement reaction may also be called a 
+transamination metathesis reaction, whereby two compound reactants AB and CD result in 
+products of AC and BD. In an attempt to follow natures efficient examples, chemists have 
+developed few biomimetic methods for transamination metathesis of C(sp2)N bonds in the 
+laboratory. The ever increasing practical importance of carbonheteroatom bond metathesis 
+reactions is underlined also by recent exciting examples of C(sp2)S and C(sp2)P bond metathesis 
+processes (1) (Fig. 1A). Existing rare examples of C(sp2)N bond metathesis include secondary amide transamidation 
+reactions (2, 3) catalytic transamination of guanidines (4) and transamination of 
+dimethylaminomethyleneoxindoles (5).

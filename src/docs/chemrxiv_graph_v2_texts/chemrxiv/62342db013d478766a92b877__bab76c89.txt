@@ -1,0 +1,27 @@
+Description:
+Small particles created by incomplete combustion of fossil fuels.
+
+Text:
+Despite the increasing use of clean energies in the energy supply system, traditional fossil 
+fuels will continue to play a dominant role in the foreseeable future. This is particularly true in 
+the transportation, where internal combustion engines use 70 of the nearly 90 million barrels 
+of crude oil consumed worldwide each day. However, the burning of fossil fuels contributes 
+significantly to the greenhouse effect and the climate change, in addition to the formation of 
+various harmful pollutants such as nitrogen oxides and soot. Soot is made of small carbon 
+particles created by incomplete combustion of fossil fuels (1, 2).
+
+
+---
+
+Description:
+A fuel that undergoes pyrolysis in the formation of soot particles.
+
+Text:
+The generation of soot 
+particles is believed to undergo four steps, including the pyrolysis of carbon fuel, PAH growth, 
+soot nucleation, soot growth and oxidation (7, 8). However, detailed chemical mechanism of 
+PAH growth has not yet been well established and specific reaction paths leading to the PAH 
+growth remain elusive. Furthermore, definite chemical mechanisms leading to the inception of 
+soot from the growth of PAH is probably the least known part of soot formation process, and is 
+highly debated (8, 9). In recent years, many efforts have been made to investigate the formation of the soot both 
+by experiment and theory.

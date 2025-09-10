@@ -1,0 +1,15 @@
+Description:
+Studied at water-conductor and water-insulator interfaces to understand interfacial changes in ion pairing thermodynamics.
+
+Text:
+The structure and composition of electrolytes at aqueous interfaces plays a crucial role in
+electrochemistry,17 and atmospheric chemistry.8,9 At these interfaces, the electrolyte ions
+encounter a sharp dielectric discontinuity, rapid fluctuations in water density,1013 and a
+molecularly heterogeneous environment where ionwater interactions give way to interactions
+with atoms in the interface.14,15 The interplay of these effects creates a complex interfacial
+environment that controls the approach of individual ions to the interface, and modifies their
+interactions and correlations relative to the bulk. In this study, we apply insights gained
+from Molecular Dynamics (MD) simulations of NaCl at waterconductor and waterinsulator
+interfaces to construct a simple dielectric continuum theory for predicting the interfacial
+changes in ion pairing thermodynamics using readily available properties of the electrolyte
+and interface.

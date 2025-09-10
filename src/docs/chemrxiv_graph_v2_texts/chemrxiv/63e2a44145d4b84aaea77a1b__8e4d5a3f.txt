@@ -1,0 +1,16 @@
+Description:
+Compounds with low reactivity that can facilitate coordinate covalent bonding upon adsorption.
+
+Text:
+Given the low reactivity of TMDs, one solution could be to em
+ploy reagents that, upon adsorption on the surface of a pristine sheet,
+would facilitate coordinate covalent (dative) bonding. In most cases,
+this would imply the use of group III Lewis acids, especially since AlX3
+(X  H, Cl, Br, and CH3) were predicted to form dative bonds with
+MoS2 while in their monomer form 66. Nevertheless, the compounds
+are known to dimerize via 3center 2electron bonds, and the interaction
+could prove competitive with the dative bonding due to the conserva
+tive binding energy of the latter. Thus, the dimerization could hamper
+the enhanced adsorption. Furthermore, even if dative bonds form, they
+were shown to have a limited impact on the molecules. However, with
+1

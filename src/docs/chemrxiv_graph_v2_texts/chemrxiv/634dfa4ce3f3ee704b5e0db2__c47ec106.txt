@@ -1,0 +1,18 @@
+Description:
+A well-known prebiotic molecule that can participate in pathways forming precursors to RNA, proteins, and lipids.
+
+Text:
+1
+Reaction pathways that are capable of generating biologically relevant molecules under prebiotic
+2
+constraints have been the subject of intense speculation.17 The RNA World is a hypothesis that
+3
+selfreplicating RNA molecules first emerged that were capable of a range of catalytic behaviors.811
+4
+This hypothesis has been partly spurred by the experimental discovery that hydrogen cyanide
+5
+(HCN), a wellknown prebiotic molecule, can participate in several pathways that form precursors
+6
+to RNA, proteins, and lipids (Fig. 1a).7,1215 However, establishing the kinetic relevance of these
+7
+pathways requires stepbystep reaction mechanisms that are difficult to experimentally obtain.

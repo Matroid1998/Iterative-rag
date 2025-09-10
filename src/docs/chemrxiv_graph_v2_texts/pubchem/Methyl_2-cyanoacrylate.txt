@@ -1,0 +1,27 @@
+Name: Methyl 2-cyanoacrylate
+Text:
+Methyl 2-cyanoacrylate is a clear slightly yellow liquid. (NTP, 1992)
+MECRYLATE is a small molecule drug with a maximum clinical trial phase of III (across all indications) and has 2 investigational indications.
+Methyl cyanoacrylate is a chemical compound of cyanide. It is used as the main component of certain cyanoacrylate glues. (L608)
+Properties:safety: Irritant
+smiles: COC(=O)C(=C)C#N
+formula: C5H5NO2
+chem_properties: Molecular Weight: 111.10 g/mol
+XLogP3: 0.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 2
+Exact Mass: 111.032028402 Da
+Monoisotopic Mass: 111.032028402 Da
+Topological Polar Surface Area: 50.1
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 163
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

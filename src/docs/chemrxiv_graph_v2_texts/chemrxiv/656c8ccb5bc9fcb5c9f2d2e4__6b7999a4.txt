@@ -1,0 +1,13 @@
+Description:
+Compared to amorphous carbon, graphene has a higher surface area for ion accumulation.
+
+Text:
+Graphene5,6,7,8,9,10,11 possesses a high surface area (2630 m2 g1 
+for monolayer graphene) compared to amorphous carbon, that can be utilized for the 
+accumulation of ions within the EDL and thus significantly increase the capacitance of the 
+electrodes. However, the successful utilization of the electrochemically active surface area of 
+the electrode is directly related to its accessibility by the electrolyte (e.g., ingress of the 
+electrolyte into its porous structure). On this basis, understanding the mechanism of wetting at 
+the carbonaqueous electrolyte interface under potential bias (the phenomenon of 
+electrowetting12) is essential in the pursuit of strategies to enhance the capacitance of the 
+devices13,14,15.

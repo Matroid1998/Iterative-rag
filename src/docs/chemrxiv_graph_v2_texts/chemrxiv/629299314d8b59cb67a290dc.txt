@@ -1,0 +1,12 @@
+Description:
+Quantum dots with improved monodispersity, leading to the narrowest reported halfwidth at halfmaximum of absorbance.
+
+Text:
+ML techniques are effective at inferring patterns and uncovering trends 
+from complex chemical processes or mechanisms when a database of a reasonable size is available. In the 
+field of nanomaterials, ML has been used to extract data1416, discover novel materials1719, optimize 
+chemical reactions2022, reveal underlying mechanisms23,24, and predict synthetic outcomes25. For example, 
+support vector machine classification and regression models were used to synthetically control layer 
+thickness of perovskite halide nanoplatelets26. In another application, Bayesian optimization was applied to 
+improve monodispersity of PbS QDs, leading to the narrowest reported halfwidth at halfmaximum of 
+absorbance of this material27. In 2020, Santos and coworkers published a study wherein different ML

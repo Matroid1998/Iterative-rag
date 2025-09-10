@@ -1,0 +1,12 @@
+Description:
+A double-atom catalyst with turnover frequencies comparable to state-of-the-art OER catalysts.
+
+Text:
+Recently, some doubleatom catalysts were reported to 
+exhibit higher activity than singleatom catalysts for electrocatalytic oxygen reduction reaction 
+(ORR),23 CO2 reduction,24 and cocatalyst for photoanode.25 However, double atom OER 
+electrocatalysts composed of only earthabundant elements are hitherto unknown. Herein, we 
+report such a CoFe doubleatom catalyst, which exhibits turnover frequencies (TOFs) 
+comparable to stateoftheart OER catalysts. This doubleatom catalyst is generated from a 
+singleatom Co precatalyst (CoNC) via an insitu electrochemical method. The work presents, 
+to our knowledge, the first example of doubleatom electrocatalyst that is highly efficient for OER.

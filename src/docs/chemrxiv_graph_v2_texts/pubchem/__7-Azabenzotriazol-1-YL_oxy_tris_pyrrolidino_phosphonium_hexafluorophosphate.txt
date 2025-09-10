@@ -1,0 +1,23 @@
+Name: ((7-Azabenzotriazol-1-YL)oxy)tris(pyrrolidino)phosphonium hexafluorophosphate
+Text:
+Properties:safety: Irritant
+smiles: C1CCN(C1)[P+](N2CCCC2)(N3CCCC3)ON4C5=C(C=CC=N5)N=N4.F[P-](F)(F)(F)(F)F
+formula: C17H27F6N7OP2
+chem_properties: Molecular Weight: 521.4 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 14
+Rotatable Bond Count: 5
+Exact Mass: 521.16565148 Da
+Monoisotopic Mass: 521.16565148 Da
+Topological Polar Surface Area: 62.6
+Heavy Atom Count: 33
+Formal Charge: 0
+Complexity: 502
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

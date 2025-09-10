@@ -1,0 +1,28 @@
+Name: 5-Hydroxymethylfurfural
+Text:
+5-hydroxymethylfurfural is a member of the class of furans that is furan which is substituted at positions 2 and 5 by formyl and hydroxymethyl substituents, respectively. Virtually absent from fresh foods, it is naturally generated in sugar-containing foods during storage, and especially by drying or cooking. It is the causative component in honey that affects the presystemic metabolism and pharmacokinetics of GZ in-vivo. It has a role as an indicator and a Maillard reaction product. It is a member of furans, an arenecarbaldehyde and a primary alcohol.
+Aes-103 has been used in trials studying the treatment and prevention of Hypoxia, Anemia, Sickle Cell, and Sickle Cell Disease.
+5-Hydroxymethylfurfural has been reported in Tropicoporus linteus, Peperomia leptostachya, and other organisms with data available.
+AES-103 is a small molecule drug with a maximum clinical trial phase of II (across all indications) and has 2 investigational indications.
+Properties:safety: Irritant
+smiles: C1=C(OC(=C1)C=O)CO
+formula: C6H6O3
+chem_properties: Molecular Weight: 126.11 g/mol
+XLogP3: -0.6
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 2
+Exact Mass: 126.031694049 Da
+Monoisotopic Mass: 126.031694049 Da
+Topological Polar Surface Area: 50.4
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 102
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

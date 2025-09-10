@@ -1,0 +1,24 @@
+Name: Boron trichloride
+Text:
+Boron trichloride appears as a colorless gas with a pungent odor. Fumes irritate the eyes and mucous membranes. Corrosive to metals and tissue and is toxic. Under prolonged exposure to fire or intense heat, the containers may rupture violently and rocket. Used as a catalyst in chemical manufacture, in soldering fluxes, and for many other uses.
+Properties:safety: Compressed Gas and Corrosive and Acute Toxic
+smiles: B(Cl)(Cl)Cl
+formula: BCl3
+chem_properties: Molecular Weight: 117.2 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 115.915863 Da
+Monoisotopic Mass: 115.915863 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

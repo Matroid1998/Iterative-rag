@@ -1,0 +1,19 @@
+Description:
+Studied using classical MD modeling to increase numerical study possibilities.
+
+Text:
+However,
+since classical MD modeling remains one of the main tools
+for studying the properties of barrier materials at the
+nanoscale, the creation of a force field for selenium oxyan
+ions will significantly increase the possibilities of numerical
+studies 10, 11. So far, we know one attempt to model a
+crystal with selenate ions using classical MD 12, but that
+interatomic potential lacks compatibility with other force
+Email addresses aglushakhse.ru (Artem A. Glushak),
+evgeny.tararushkinyandex.ru (Evgeny V. Tararushkin),
+g.smirnovhse.ru (Grigory S. Smirnov)
+fields. Also, some parameters for selenium coincide with
+the sulfur parameters. In this study, we develop an optimized classical force
+field for selenium oxyanions (SeO42, SeO32) based on
+the ab initio and experimental data.

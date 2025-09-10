@@ -1,0 +1,25 @@
+Name: Perfluorooctanesulfonamide
+Text:
+Perfluorooctanesulfonamide is a perfluorinated compound that is perfluorooctane in which one of the terminal fluorines has been replace by a sulfamoyl group. It has a role as a persistent organic pollutant. It is a sulfonamide and a perfluorinated compound.
+Properties:safety: Acute Toxic and Irritant and Environmental Hazard
+smiles: C(C(C(C(C(F)(F)S(=O)(=O)N)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F
+formula: C8F17SO2NH2
+chem_properties: Molecular Weight: 499.15 g/mol
+XLogP3: 4.8
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 20
+Rotatable Bond Count: 7
+Exact Mass: 498.9534782 Da
+Monoisotopic Mass: 498.9534782 Da
+Topological Polar Surface Area: 68.5
+Heavy Atom Count: 29
+Formal Charge: 0
+Complexity: 730
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,12 @@
+Description:
+An additive used to stabilize electrolytes against oxidation.
+
+Text:
+This high redox potential of 4.2 
+V vs. NaNa0 (or equivalent to 4.53 V vs. LiLi0) creates severe issues of electrolyte oxidation that 
+could further trigger parasitic reactions, especially at a high temperature of 55 C.6,8 We have 
+previously shown that one way to alleviate this issue involves stabilizing the electrolyte against 
+oxidation or reduction via several additives.8,1416 For instance, by adding vinylene carbonate, 
+sodium oxalatodifluoroborate, succinonitrile, and trimethyl silyl phosphite (VC  NaODFB SN  
+TMSPi) to the control (1M NaPF6 in ECPCDMC) electrolyte,8,16 we could drastically reduce but 
+not fully eliminate the capacity loss at 55 C. Thus, improving further the hightemperature

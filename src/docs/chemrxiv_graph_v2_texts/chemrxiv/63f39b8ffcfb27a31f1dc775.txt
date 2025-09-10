@@ -1,0 +1,54 @@
+Description:
+A reactant in solardriven conversion processes for producing clean fuels and chemicals.
+
+Text:
+Mitigation of anthropogenic CO2 accumulation is essential to tackle the current climate change 
+and loss of biodiversity.1 Large scale global efforts are ongoing to develop CO2 conversion 
+technologies for green fuel production.2 Solardriven CO2 conversion is a promising approach to 
+produce clean fuels and chemicals as it directly utilizes sunlight as the sole energy input.35 
+However, current CO2 utilization processes depend on pure and pressurized CO2 as reactant, 
+whose production from postcombustion emission streams and air is energy intensive (2 GJ 
+tonCO21 or 100 kJ molCO21).6,7 Majority of this energy demand (80) is from desorption and 
+compression steps following CO2 capture, involving heating large volumes of alkanolamine 
+solutions and subsequent pressurization of the released gas (Figure 1a).8,9 Direct solardriven 
+utilization of captured CO2 species is therefore a more attractive way to reach netzero carbon 
+cycle, but barely explored due to their thermodynamic stability.10,11,12,13 Thermocatalytic 
+hydrogenation of captured CO2 has recently been reported at elevated temperatures (100150 
+C).1416 Electrochemical reduction of alkanolamine captured CO2 can also be achieved over 
+metallic electrodes (Ag, Cu, etc.)
+
+
+---
+
+Description:
+A gas that can be captured and converted photocatalytically in solutions.
+
+Text:
+at ambient temperatures.1720 Recent studies have shown small
+scale localized in situ CO2 gas adsorption followed by photocatalytic conversion in homogeneous 
+and colloidal solutions.2123 Nevertheless, sunlightdriven direct capture and utilization processes 
+with industrially relevant aminehydroxide capturing agents is lacking, presumably due to the 
+overwhelming energy barrier to activate the trapped CO2adducts (Figure S1).24 
+Here we report an integrated CO2 capture and solardriven photoelectrochemical (PEC) 
+utilization process to produce syngas (mixture of CO and H2), a precursor for industrial liquid 
+fuels and chemicals syntheses,25 from concentrated CO2 stream, simulated postcombustion flue 
+gas, and atmospheric air. The process operates by combining CO2tofuel reduction with 
+selective oxidation of waste plasticderived ethylene glycol (EG) to glycolic acid (GA), which 
+has applications in pharmaceutical, food and textile industries (Figure 1b).
+
+
+---
+
+Description:
+Captured and reduced in an aqueous amine or glycolic hydroxide solution.
+
+Text:
+The system captures 
+CO2 in an aqueous amine or glycolic hydroxide solution and the subsequent PEC conversion 
+occurs in a twocompartment, twoelectrode reactor equipped with a triple cation perovskite
+based photocathode. Captured CO2 reduction is enabled by an immobilized molecular Co
+phthalocyanine catalyst at the photocathode. A bimetallic Cu26Pd74 alloy anode completes the 
+circuit by catalyzing EG oxidation. Replacing anodic water oxidation (G0(H2OO2)  237 kJ 
+mol1) by EG oxidation (G0(EGGA)  20 kJ mol1)26 makes the demanding captured CO2 
+reduction feasible with only sunlight, enabling the system to function even with a single visible
+light absorber without any external applied voltage, with simultaneous waste valorization.

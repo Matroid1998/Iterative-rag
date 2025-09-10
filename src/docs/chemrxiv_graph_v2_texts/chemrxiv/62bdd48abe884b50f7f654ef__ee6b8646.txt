@@ -1,0 +1,44 @@
+Description:
+Studied for its interaction with Li0 and decomposition on graphite and oxide surfaces.
+
+Text:
+Despite of numerous model studies on the formation of the
+SEI812 and in particular of BMPTFSI1318 in the past few
+years, neither the actual composition of the SEI nor the mech
+anisms of its formation are fully clear yet, in particular not
+on a molecular scale. Different decomposition products have
+been deduced from xray photoelectron spectroscopy (XPS)
+experiments studying the interaction of Li0 with a BMPTFSI
+monolayer on graphite15 and from XPS experiments studying
+the interaction of Li0 with BMPTFSI mono or multilayers
+on various oxide surfaces (Co3O4, CoO).17,18 XP measure
+ments on the interaction of the IL monolayer with graphite
+a)Electronic mail axel.grossuniulm.de
+(HOPG) suggest, that decomposition mainly affects the an
+ion, as the N 1s peak of TFSI declines.
+
+
+---
+
+Description:
+Analyzed for its atomic constituents using density functional theory and x-ray photoelectron spectroscopy.
+
+Text:
+To the best of our
+knowledge there is no systematic study so far on the decom
+position and the formation of different possible products for
+varying LiIL ratios employing electronic structure methods. Previous computational studies mainly used ab initio molec
+ular dynamics to study the decomposition of (BMP)TFSI at
+lithium surfaces.1922 In theses studies different decomposi
+tion products were found, including large fragments, such as
+NSO2CF3,19,20,22 but also solely atomic constituents,21 de
+pending on the length of the simulation. In the present study
+we use both density functional theory (DFT) calculations and
+xray photoelectron spectroscopy (XPS) to elucidate possible
+products of the reaction
+BMPTFSIxLi 
+i
+i(Lil(i)Cc(i)Hh(i)Ff(i)Nn(i)Oo(i)Ss(i)),
+(1)
+where the stoichiometry on the righthand side reects the
+atomic constituents of BMPTFSI.

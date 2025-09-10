@@ -1,0 +1,31 @@
+Description:
+Used in spin-column kits for nucleic acid extraction.
+
+Text:
+Nucleic acid amplification tests (NAATs) such as qPCR have remained the primary 
+intervention for the detection and containment of a pathogenmediated disease outbreak and also for 
+screening genetic diseases, food soiling, and biowarfare prevention. The utility of NAATs is, however, 
+dependent on the quality of nucleic acid templates being used, where the presence of DNA polymerase 
+inhibitors may affect its efficacy as well as accuracy1. Silicabased spincolumn kits, magnetic particles, 
+or automated extractionamplification systems could be utilized to extract nucleic acid from the sample 
+of interest. Despite established sensitivity, automated extraction systems remain expensive with high 
+per sample cost2, while silicabased spincolumn kits require centralized highspeed centrifuges. Commercial magnetic particles, either silica or carboxyl coated, or pHmodulated chargeswitching 
+chitosanbased, are costly.
+
+
+---
+
+Description:
+Displays a negative surface charge over a large pH range.
+
+Text:
+This includes the use 
+of filter paper that enable nucleic acid extraction from various matrices as well as a filter paper fitted 
+device for the same5, inhouse preparable spincolumn using filter papers6, and pipetteactuated 
+magnetic beads among others7. While these platforms have greatly advanced the innovations necessary 
+for a limitedresource NAATs detection, neither uses readily available materials or equipment for 
+preparing a nucleic acid extraction system. This would especially be of significant importance in a 
+developing country where items such as filter paper for fabricating a spin column are relatively 
+unavailable. Like silica, cellulose displays a negative surface charge over a large pH range8. Similarly, 
+cellulosebased Whatman filter paper discs have been deployed in the extraction of genomic DNA from 
+plant extracts and complex biofluid5.

@@ -1,0 +1,14 @@
+Description:
+Has a higher decomposition temperature compared to thioacetamide and Lcysteine, releasing sulfur less readily.
+
+Text:
+For 2HMoS2, an irreversible transition to 1TMoS2 during the first electrochemical 
+lithiation cycle at around 1.1 V vs. LiLi leads to an unfavorably low initial Coulombic 
+efficiency17. The findings underline the significance of controlling MoS2 crystal structure, 
+crystallite size, and morphology, to obtain desired functional properties. Not only electrochemical charge storage, but also the electrocatalytic hydrogen evolution 
+(HER) performance is dependent on MoS2 crystal structure and morphology18. This led to 
+the exploration of various hydrothermal synthesis routes controlling MoS2 structure by choice 
+of sulfurprecursor1922. Liu et al. found that thioacetamide (TAA) and Lcysteine (LC) 
+possess lower decomposition temperatures than thiourea (TU), thereby releasing sulfur more 
+readily, leading to smaller particle sizes and the tendency to form the 1Tpolytype, which in 
+turn, leads to a favorable HER activity23.

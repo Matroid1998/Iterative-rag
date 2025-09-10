@@ -1,0 +1,31 @@
+Name: tert-Butyl Hydroperoxide
+Text:
+Watery odorless colorless liquid. Floats on and dissolves slowly in water. (USCG, 1999)
+Watery odorless colorless liquid. Floats and mixes slowly with water. (USCG, 1999)
+Watery odorless colorless liquid. Floats and mixes slowly with water. (USCG, 1999)
+Tert-butyl hydroperoxide is an alkyl hydroperoxide in which the alkyl group is tert-butyl. It is widely used in a variety of oxidation processes. It has a role as an antibacterial agent and an oxidising agent.
+Tert-butyl hydroperoxide has been reported in Apium graveolens with data available.
+A direct-acting oxidative stress-inducing agent used to examine the effects of oxidant stress on Ca(2+)-dependent signal transduction in vascular endothelial cells. It is also used as a catalyst in polymerization reactions and to introduce peroxy groups into organic molecules.
+See also: Ethyldioxy, 1,1-dimethyl- (annotation moved to) ... View More ...
+Properties:safety: Health Hazard
+smiles: CC(C)(C)OO
+formula: C4H10O2
+chem_properties: Molecular Weight: 90.12 g/mol
+XLogP3: 0.6
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 90.068079557 Da
+Monoisotopic Mass: 90.068079557 Da
+Topological Polar Surface Area: 29.5
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 35.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

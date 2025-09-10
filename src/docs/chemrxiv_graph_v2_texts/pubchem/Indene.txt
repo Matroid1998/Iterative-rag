@@ -1,0 +1,28 @@
+Name: Indene
+Text:
+Indene appears as a colorless liquid derived from coal tar. Fp: -2 °C; bp:182 °C. Density 0.997 g cm-3. Insoluble in water but soluble in organic solvents.
+1H-indene is an ortho-fused bicyclic arene comprising of benzene and cyclopentene rings. It is an ortho-fused bicyclic arene and an indene.
+Indene has been reported in Camellia sinensis, Vaccinium macrocarpon, and other organisms with data available.
+Indene is a flammable polycyclic hydrocarbon. It is composed of a benzene ring fused with a cyclopentene ring. This aromatic liquid is colorless although samples often are pale yellow. The principal industrial use of indene is in the production of indene/coumarone thermoplastic resins.
+Properties:safety: Flammable and Irritant and Health Hazard and Environmental Hazard
+smiles: C1C=CC2=CC=CC=C21
+formula: C9H8
+chem_properties: Molecular Weight: 116.16 g/mol
+XLogP3: 2.9
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 116.062600255 Da
+Monoisotopic Mass: 116.062600255 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 124
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

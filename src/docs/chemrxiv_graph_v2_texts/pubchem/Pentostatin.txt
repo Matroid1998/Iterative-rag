@@ -1,0 +1,34 @@
+Name: Pentostatin
+Text:
+Pentostatin can cause developmental toxicity according to state or federal government labeling requirements.
+Pentostatin is a member of the class of coformycins that is coformycin in which the hydroxy group at position 2' is replaced with a hydrogen. It is a drug used for the treatment of hairy cell leukaemia. It has a role as an EC 3.5.4.4 (adenosine deaminase) inhibitor, an antineoplastic agent, an antimetabolite, a bacterial metabolite and an Aspergillus metabolite. It is a conjugate base of a pentostatin(1+).
+A potent inhibitor of adenosine deaminase. The drug is effective in the treatment of many lymphoproliferative malignancies, particularly hairy-cell leukemia. It is also synergistic with some other antineoplastic agents and has immunosuppressive activity.
+Pentostatin is a Nucleoside Metabolic Inhibitor. The mechanism of action of pentostatin is as a Nucleic Acid Synthesis Inhibitor.
+Pentostatin is a purine analogue and antineoplastic agent used in the therapy of hairy cell leukemia and T cell lymphomas. Pentostatin is associated with a low rate of serum enzyme elevations during therapy and has been linked to rare instances of severe acute liver injury with jaundice.
+Pentostatin has been reported in Streptomyces antibioticus with data available.
+Pentostatin is a purine nucleotide analogue antibiotic isolated from the bacterium Streptomyces antibioticus. Also known as 2'-deoxycoformycin, pentostatin binds to and inhibits adenine deaminase (ADA), an enzyme essential to purine metabolism; ADA activity is greatest in cells of the lymphoid system with T-cells having higher activity than B-cells and T-cell malignancies higher ADA activity than B-cell malignancies. Pentostatin inhibition of ADA appears to result in elevated intracellular levels of dATP which may block DNA synthesis through the inhibition of ribonucleotide reductase. This agent may also inhibit RNA synthesis and may selectively deplete CD26+ lymphocytes. (NCI04)
+PENTOSTATIN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1991 and has 4 approved and 9 investigational indications. This drug has a black box warning from the FDA.
+Pentostatin is only found in individuals that have used or taken this drug. It is a potent inhibitor of adenosine deaminase. The drug is effective in the treatment of many lymphoproliferative malignancies, particularly hairy-cell leukemia. It is also synergistic with some other antineoplastic agents and has immunosuppressive activity. Pentostatin is a potent transition state inhibitor of adenosine deaminase (ADA), the greatest activity of which is found in cells of the lymphoid system. T-cells have higher ADA activity than B-cells, and T-cell malignancies have higher activity than B-cell malignancies. The cytotoxicity that results from prevention of catabolism of adenosine or deoxyadenosine is thought to be due to elevated intracellular levels of dATP, which can block DNA synthesis through inhibition of ribonucleotide reductase. Intracellular activation results in incorporation into DNA as a false purine base. An additional cytotoxic effect is related to its incorporation into RNA. Cytotoxicity is cell cycle phase-specific (S-phase).
+A potent inhibitor of ADENOSINE DEAMINASE. The drug induces APOPTOSIS of LYMPHOCYTES, and is used in the treatment of many lymphoproliferative malignancies, particularly HAIRY CELL LEUKEMIA. It is also synergistic with some other antineoplastic agents and has immunosuppressive activity.
+Properties:safety: Acute Toxic
+smiles: C1[C@@H]([C@H](O[C@H]1N2C=NC3=C2NC=NC[C@H]3O)CO)O
+formula: C11H16N4O4
+chem_properties: Molecular Weight: 268.27 g/mol
+XLogP3: -2.1
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 2
+Exact Mass: 268.11715500 Da
+Monoisotopic Mass: 268.11715500 Da
+Topological Polar Surface Area: 112
+Heavy Atom Count: 19
+Formal Charge: 0
+Complexity: 356
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

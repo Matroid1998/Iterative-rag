@@ -1,0 +1,15 @@
+Description:
+Compounds assembled through iterative coupling of alkene building blocks via Suzuki-Miyaura reactions.
+
+Text:
+In contrast, general, automated methodologies for CC bond formation have not yet emerged 
+3 
+due to the complexity and variety of organic molecules. However, some progress in automated organic 
+synthesis has been achieved but only in the preparation of relatively simple targets;512 the field is still 
+nascent. A notable example from Burke reported the iterative assembly of polyenes, where alkene building 
+6 
+blocks were coupled together through SuzukiMiyaura reactions of MIDA boronates.13 In this example, 
+C(sp2)C(sp2) bonds were formed and a maximum of three iterations were described. Recently, the same 
+group reported C(sp3)C(sp3) bondforming reactions in an automated fashion but, again only a small 
+9 
+number (two) of automated iterations were described.14

@@ -1,0 +1,12 @@
+Description:
+A component of the stator in the described molecular motor, involved in the structural transformation during the motor's operation.
+
+Text:
+If one views the motor, in the stereochemistry shown, along the central bond, from the rotor to the
+stator, the rotor turns clockwise relative to the stator. In the rst step, the central double bond
+undergoes ZE photoisomerization, converting the stable form (A) to the metastable form (B). In the
+second step, thermal helix inversion (THI) converts B to another stable form (C). Here, the change in
+stator pucker from B to C resembles a ap of buttery wings, putting the stator benzene rings from
+the back to the front. Another, similar, 180rotation then converts C to A via D. Because the motors
+shown here have symmetric stators, A and C have identical energy, as do B and D. In contrast, A and
+1

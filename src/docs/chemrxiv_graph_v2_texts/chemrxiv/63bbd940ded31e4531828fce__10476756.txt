@@ -1,0 +1,7 @@
+Description:
+A cathode that transforms to a NaPBA cathode after Na replaces K.
+
+Text:
+It is empirically expected that K would be extracted from the PBA framework after initial 
+deintercalation, and Na would gradually replace K in following intercalation processes, 
+which essentially transforms a KPBA cathode to a NaPBA cathode. Such kind of NaK

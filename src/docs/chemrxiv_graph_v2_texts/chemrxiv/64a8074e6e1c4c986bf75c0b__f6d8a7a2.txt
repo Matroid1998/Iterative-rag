@@ -1,0 +1,16 @@
+Description:
+Solvents that limit the high p of thiocarbonyls due to their high reactivity.
+
+Text:
+kp can be 104105 s1 for 
+heavymetal complexes,3 and only 10 s1 or less for conventional or
+ganic compounds.1a Introducing heavy atoms, such as bromine, io
+dine, selenium, and tellurium, in conjunction with carbonyl func
+tionalities, is a classical approach to enhancing kp.4 Despite its long 
+history, however, an organic kp over 100 s1 andor a p over 1 in 
+solution are rarely observed (Figure 1a, blue filled circles; Figure S1 
+and Table S1).5 The use of thiocarbonyls could provide a large kp in 
+some cases (Fiugre 1a, blue open circles).6 However, they are asso
+ciated with high (photo)chemical reactivities,7 thereby limiting their 
+high p in perfluoroalkane solvents.6b The only practical way to im
+prove p has been to suppress the nonradiative decay rate (knr).

@@ -1,0 +1,24 @@
+Name: Zinc dialkyldithiophosphate
+Text:
+Straw-yellow to green solid or liquid with a sweet, alcohol-like odor. Denser than water. Not a specific compound (alkyl refers to any of a series of organic substituents such as butyl or hexyl).
+Properties:safety: Corrosive and Irritant
+smiles: CCCCCCOP(=S)([O-])SCCCCCC.[Zn]
+formula: C12H26O2PS2Zn-
+chem_properties: Molecular Weight: 362.8 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 12
+Exact Mass: 361.040326 Da
+Monoisotopic Mass: 361.040326 Da
+Topological Polar Surface Area: 89.7
+Heavy Atom Count: 18
+Formal Charge: -1
+Complexity: 213
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

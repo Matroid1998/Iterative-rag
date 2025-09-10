@@ -1,0 +1,27 @@
+Description:
+A group with unique physiochemical properties including high lipophilicity with a Hansch parameter value of 1.44.
+
+Text:
+Fluorinated molecules play pivotal roles in several chemical areas ranging from life science to materials.1 In this context, the increased 
+interest in accessing functionalized molecules bearing a fluorine atom favoured the development of very efficient methodologies for the 
+incorporation of fluorinated motifs.2 Among these fluorinated motifs, the SCF3 group has attracted considerable attention over the past 
+decade.3 This group possesses unique physiochemical properties including high lipophilicity with a Hansch parameter value of 1.44.4 
+Thus, such a moiety facilitates transmembrane permeation of the molecules improving their bioavailability.
+
+
+---
+
+Description:
+A motif of high interest in organofluorine chemistry.
+
+Text:
+In this regard, several new 
+reagents including commercially available ones have been reported.5 Given the high interest in SCF3 motif in organofluorine chemistry, 
+the synthesis of easily accessible new reagents is highly desirable.6 
+We have recently reported the robust and efficient onepot synthesis of unprecedented N(SCF3)(CF3) compounds from 
+commercially available starting materials.7 Upon evaluating their stability, it turned out that compound I (Scheme 1) demonstrated 
+excellent stability in water, organic solvents, and under different physiological conditions. However, this compound quickly degraded 
+under basic conditions, raising the question of its ability to be a source of fluorinated motif. Thus, we disclose herein that PhPhN
+(SCF3)(CF3) can be used to forge CSCF3 bond under mild visible light irradiation conditions by using an organophotocatalyst.8 
+
+Scheme 1.

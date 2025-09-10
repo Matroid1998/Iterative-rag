@@ -1,0 +1,24 @@
+Name: 1,4-Pentadien-3-one
+Text:
+Properties:safety: Flammable and Irritant
+smiles: C=CC(=O)C=C
+formula: C5H6O
+chem_properties: Molecular Weight: 82.10 g/mol
+XLogP3: 1.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 2
+Exact Mass: 82.041864811 Da
+Monoisotopic Mass: 82.041864811 Da
+Topological Polar Surface Area: 17.1
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 71.9
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

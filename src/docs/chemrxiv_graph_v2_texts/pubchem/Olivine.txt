@@ -1,0 +1,24 @@
+Name: Olivine
+Text:
+olivine is a mineral.
+Properties:safety: Irritant
+smiles: [O-][Si]([O-])([O-])[O-].[O-][Si]([O-])([O-])[O-].[O-][Si]([O-])([O-])[O-].[O-][Si]([O-])([O-])[O-].[O-][Si]([O-])([O-])[O-].[Mg+2].[Mg+2].[Mg+2].[Mg+2].[Mg+2].[Mg+2].[Mg+2].[Mg+2].[Fe+2].[Fe+2]
+formula: Fe2Mg8O20Si5
+chem_properties: Molecular Weight: 766.55 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 20
+Rotatable Bond Count: 0
+Exact Mass: 765.530681 Da
+Monoisotopic Mass: 763.533130 Da
+Topological Polar Surface Area: 461
+Heavy Atom Count: 35
+Formal Charge: 0
+Complexity: 19.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 15
+Compound Is Canonicalized: Yes 
+

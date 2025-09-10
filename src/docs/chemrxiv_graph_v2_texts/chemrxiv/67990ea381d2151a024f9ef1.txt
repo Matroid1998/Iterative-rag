@@ -1,0 +1,13 @@
+Description:
+A metal used in triple doping to improve photocatalytic performance.
+
+Text:
+The emerging problems of antibiotic resistance (AMR) and superbugs have led to intensive research 
+on photocatalytic antibiotic degradation and microbial disinfection. Titanium dioxide is the most 
+widely used photocatalyst due to its nontoxicity, easy availability, and chemical and mechanical 
+stability, but it does not work effectively under visible light or sunlight. The effects of chemical 
+modification include increasing the adsorption capacity (impurities can act as active sites for 
+contaminant adsorption) and reducing recombination, creating new energy levels (impurity regions) 
+for efficient photogenerated charge separation. Triple doping of metals (Ce, Y, Zn, Fe, V, Ni), non
+metals (B, N, C, S), and Ag (silver) provides a synergy of properties that help improve photocatalytic 
+performance.

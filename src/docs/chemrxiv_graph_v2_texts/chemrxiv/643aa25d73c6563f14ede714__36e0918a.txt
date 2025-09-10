@@ -1,0 +1,37 @@
+Description:
+A 2D-layered material with unique chemical, physical, and electronic properties, but limited by its zero band gap in gas sensing applications.
+
+Text:
+Corresponding author
+Email address maciej.szaryput.poznan.pl (Maciej J. Szary)
+The successful exfoliation of graphene from graphite and the sub
+sequent discovery of its unique chemical, physical, and electronic prop
+erties have attracted much attention to 2Dlayered materials 19, 20. One of the particularly promising areas of their application is gas sens
+ing due to their atomic thinlayered structure and large surfacetovolume
+ratio. Although graphene shows excellent gassensing capabilities, its
+application in gas sensors is limited by its zeroband gap resulting in
+poor switching characteristics 21. However, other 2Dlayered mate
+rials, such as transitionmetaldichalcogenide (TMD) sheets, possess
+a sizeable band gap and thus are free of this inherent limitation of
+graphene 1921.
+
+
+---
+
+Description:
+Interacts in bulk crystals via weak van der Waals forces and can be effectively exfoliated.
+
+Text:
+Similarly to graphene,
+TMD sheets interact in bulk crystals via weak van der Waals (vdW)
+forces and thus can be effectively exfoliated. Atoms within individual
+sheets are covalently bonded and have satisfied valence. This makes
+TMD surfaces chemically inert under most conditions, which limits
+their surface interactions to physisorption. TMDs such as molybdenum disulfide (MoS2), have been shown
+sensing platforms capable of effective detection of nitrogen dioxide
+(NO2) 3235 and ammonia (NH3) 3538. However, their sensi
+tivity toward other gas molecules (including SO2) was reported low
+in comparison. The response of TMD sheets toward selected analytes
+can be enhanced via substitutional doping 3948, or decoration of
+their surfaces with single atoms 49, nanoparticles50, 51, and nan
+otubes 18.

@@ -1,0 +1,8 @@
+In organic chemistry, Hückel's rule predicts that a planar ring molecule will have aromatic properties if it has 4n + 2 π-electrons, where n is a non-negative integer. The quantum mechanical basis for its formulation was first worked out  by physical chemist Erich Hückel in 1931. The succinct expression as the 4n + 2 rule has been attributed to W. v. E. Doering (1951), although several authors were using this form at around the same time.
+In agreement with the Möbius–Hückel concept, a cyclic ring molecule follows Hückel's rule when the number of its π-electrons equals 4n + 2, although clearcut examples are really only established for values of n = 0 up to about n = 6. Hückel's rule was originally based on calculations using the Hückel method, although it can also be justified by considering a particle in a ring system, by the LCAO method and by the Pariser–Parr–Pople method.
+Aromatic compounds are more stable than theoretically predicted using hydrogenation data of simple alkenes; the additional stability is due to the delocalized cloud of electrons, called resonance energy. Criteria for simple aromatics are:
+
+the molecule must have 4n + 2 (a so-called "Hückel number") π electrons (2, 6, 10, ...) in a conjugated system of p orbitals (usually on sp2-hybridized atoms, but sometimes sp-hybridized);
+the molecule must be (close to) planar (p orbitals must be roughly parallel and able to interact, implicit in the requirement for conjugation);
+the molecule must be cyclic (as opposed to linear);
+the molecule must have a continuous ring of p atomic orbitals (there cannot be any sp3 atoms in the ring, nor do exocyclic p orbitals count).

@@ -1,0 +1,14 @@
+Description:
+Investigated for its good sensing properties, such as sensitivity and fast response in the detection of toxic and flammable gases.
+
+Text:
+Oxide materials, such as those containing zinc 7,8, tin 2,9,10, and titanium 
+11,12, have been widely investigated due to their good sensing properties, such as 
+sensitivity, and fast response in the detection of toxic and flammable gases 13. However, 
+in order to improve the response and recovery kinetics of these sensors, working 
+temperatures above 200 C are required 2,14,15, greatly increasing the operation cost 
+and power consumption. Alternatively, dichalcogenides of the SnSeS system have shown promising 
+detection properties for various detection systems due to their lamellar crystal structure 
+16,17. In these materials, chemically inert layers bonded by weak van der Waals 
+interactions promote a high surfacetovolume ratio, exposing lone pair electrons in the 
+(0 0 1) planes.

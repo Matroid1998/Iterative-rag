@@ -1,0 +1,11 @@
+Description:
+A photoswitchable chromophore in phytochromes that absorbs red light.
+
+Text:
+Phytochromes are lightsensing biological machines, ubiquitous in plants, fungi and bacte
+ria.111 They are redabsorbing homodimeric proteins, carrying a photoswitchable bilin as
+a chromophore. Most phytochromes exist in two distinct photoreversible forms the red
+lightabsorbing form, also known as Pr state, and the farred light absorbing form, the Pfr
+state,9,1215 which differ by both chromophore stereochemistry and protein structure. Phytochromes of different species share a generally conserved photosensory module (PSM,
+Fig. 1), composed by three domains PAS (PerArndtSim), GAF (cGMP phosphodiesteraseadenyl
+cyclaseFhlA) and PHY (Phytochrome specific).

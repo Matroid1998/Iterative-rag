@@ -1,0 +1,18 @@
+Description:
+Unsaturated systems used in Michael addition to conjugate small molecules to proteins.
+
+Text:
+Among these reactions, Michael addition 
+is a widely used strategy to conjugate small molecules contain
+ing ,unsaturated systems, such as maleimides,55 to the pro
+teins of interest both in vivo and in vitro.38, 5658 Although the 
+rapid kinetics of these reactions has attracted considerable at
+tention,59 two major drawbacks including the low chemoselec
+tivity (see the Supporting Information for detailed chemoselec
+tivity experiments on peptide models with maleimide and iodo
+acetamide, Figure S63S73) and poor stability of the conjugated 
+products in the presence of external thiols (like glutathione) 
+plagued their applications in chemical biology (Figure 1a)8, 6061. Even recent progresses employing innovative Michael accep
+tors with electrondeficient alkynes, including phosphon
+amidate62 and diethynyl phosphinates63 have been explored, 
+challenges in the stereo and regioselectivities, and the stability

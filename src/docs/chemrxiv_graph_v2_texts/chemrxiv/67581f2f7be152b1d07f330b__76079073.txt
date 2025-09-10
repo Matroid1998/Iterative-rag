@@ -1,0 +1,14 @@
+Description:
+The product of CO2 hydrogenation in the Sabatier reaction, with transportation feasible through natural gas pipelines.
+
+Text:
+Anthropogenic carbon dioxide (CO2), primarily arising from fossil fuel combustion in 
+automobiles and industrial plants, makes up for the vast majority of greenhouse gas emissions 
+and is the largest contributor to global warming 1, 2. Aiming to mitigate CO2 emissions into 
+the atmosphere, it has been proposed to develop and implement CO2 conversion and utilization 
+(CCU) as an important part of CO2 management strategies. Among the topmost CO2 catalytic 
+conversion processes, the hydrogenation of CO2 to CH4, socalled CO2 methanation or Sabatier 
+reaction, is particularly promising because of its favorable thermodynamics. Additionally, the 
+transportation of CH4 is readily feasible through existing infrastructure of natural gas pipelines 
+35. Ultimately, it can pave the way for achieving a carbonneutral energy balance via the 
+process referred to as PowertoGas (PtG).

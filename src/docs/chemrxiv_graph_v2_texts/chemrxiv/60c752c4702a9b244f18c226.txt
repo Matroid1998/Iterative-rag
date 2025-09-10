@@ -1,0 +1,36 @@
+Description:
+A drug used to target the protein kinase BRAF.
+
+Text:
+Additionally, if one
+is only interested in the relative order of binding afnities, the rank
+ing of compounds with similar structures and binding modes, the
+entropy contribution to the binding free energy can be omitted,
+which is often recommended as it reduces the computational cost
+and avoids adding an additional nonnegligible error margin. It has
+been found that MMPBGBSA performances generally vary with
+the tested system and also depend on the used force eldand the
+solute dielectric constant 12, 15, 8. Here, we wanted to reassess the use of MMPBSA for ne rank
+ing of a drug, dabrafenib, and its known metabolites in aim at
+predicting a potential impact of its pharmacokinetics, its metab
+olization on its efcacy on its primary target the proteinkinase
+BRAF.
+
+
+---
+
+Description:
+A BRAF kinase inhibitor used to treat BRAF V600 mutation-positive cancers, including unresectable or metastatic melanoma and metastatic non-small cell lung cancer.
+
+Text:
+Dabrafenib 16 is a BRAF kinase inhibitor, which inhibits
+BRAF V600 mutationpositive cancer cell growth. It is an FDA
+approved drug indicated for the treatment of adult patients with
+unresectable or metastatic melanoma with a BRAF V600 muta
+tion 17, 18 and as combination therapy since recently also for
+metastatic nonsmall cell lung cancer harboring BRAF V600E mu
+tations 19. Despite improved response rates and overall survival of
+BRAFV600 mutant cancer patients, resistance is rapidly acquired,
+resulting in a relapse of most patients within a year 20. This ef
+fect may be partially due to the fast metabolism of dabrafenib (with
+a halflife of 5 hours 21).

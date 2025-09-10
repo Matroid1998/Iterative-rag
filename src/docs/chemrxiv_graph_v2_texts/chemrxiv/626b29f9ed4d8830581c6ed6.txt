@@ -1,0 +1,22 @@
+Description:
+Contains a non-amide carbonyl group.
+
+Text:
+These mutual interactions often require a compro
+mise between solventsolvent interactions and specific solventso
+lute interactions such as those arising from charged or dipolar func
+tional groups as well as steric effects.1921 Additionally, in some 
+cases there can be a significant interplay between the solvent field 
+and the electronic structure of the solute, such as in donoracceptor 
+polyenes where changes in solvent polarity lead to drastic changes 
+in the bondalternation pattern of the polyene.2224 Theoretical 
+models that aim to mechanistically understand and predict how so
+lutes direct solvent organization to produce spectroscopic fre
+quency shifts originate with the reaction field model of Onsager,25 
+and have since been extended to more detailed selfconsistent re
+action fields,2627 and more recent implicit solvent models.2832 
+ Here we elucidate how the molecular properties of solutes alter 
+the electric fields they experience by investigating and contrasting 
+molecules containing amide (amides and dimethylurea) and non
+amide (ester, thioester, and ketone) carbonyls (Figure 1A) in a 
+range of polar solvents.

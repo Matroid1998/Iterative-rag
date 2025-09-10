@@ -1,0 +1,23 @@
+Name: Lithium diisopropylamide
+Text:
+Properties:safety: Flammable and Corrosive
+smiles: [Li+].CC(C)[N-]C(C)C
+formula: C6H14LiN
+chem_properties: Molecular Weight: 107.1 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 2
+Exact Mass: 107.12862789 Da
+Monoisotopic Mass: 107.12862789 Da
+Topological Polar Surface Area: 1
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 37.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

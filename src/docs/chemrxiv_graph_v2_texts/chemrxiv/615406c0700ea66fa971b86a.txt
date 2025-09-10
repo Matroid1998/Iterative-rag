@@ -1,0 +1,14 @@
+Description:
+Superionic thermoelectric material with thermal conductivities below the theoretical minimum for solids.
+
+Text:
+Superionic conductors are sparking tremendous interest in multiple fields. While fast ionic 
+conductors are searched for solid state batteries,1 they also often possess low lattice thermal 
+conductivities essential for high thermoelectric efficiencies.24 In fact, many Ag and Cu 
+superionic thermoelectric materials have thermal conductivities below the theoretical 
+minimum thermal conductivity for solids, leading some to the suggestion that ion mobility 
+makes these materials more liquidlike.2,4 However, no physical connections between thermal 
+and ionic transport have thus far been shown. Recently, a foundational misconception within 
+the concept of phonon liquid electron crystal2 was proven by showing that transverse phonon 
+
+3

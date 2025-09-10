@@ -1,0 +1,18 @@
+Description:
+Used as primary ions in secondary ion mass spectrometry (SIMS) for collisional sputtering.
+
+Text:
+Although 
+work has been done to compare GUV formation methods in 
+terms of their resulting unilamellarity, capacitance, shear 
+viscosity and number of defects visible by fluorescence 
+microscopy31,32, compositional variability has yet to be directly 
+examined. Quantifying this variability is critical as lipid 
+composition is the primary variable in all GUVbased 
+measurements. Here, we examine the compositional variability 
+between individual GUVs using stable isotope labeling and 
+secondary ion mass spectrometry (SIMS). SIMS can be used to measure isotopic ratios present in a 
+sample with high precision33,34. The Cameca NanoSIMS 50L 
+functions by collisional sputtering of a freezedried bilayer 
+containing isotopically labeled lipids with primary cesium ions 
+(Cs).

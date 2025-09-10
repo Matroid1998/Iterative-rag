@@ -1,0 +1,12 @@
+Description:
+Involved in ion conductivity discrepancies between experimental and theoretical studies in solid-state materials.
+
+Text:
+However, this material classs potential is hampered by the poor understanding of the rel
+evant structureproperty relations. This manifests itself in huge deviations in Liion conduc
+tivity between theory and experiment. As such, Li3PS4 serves as an illustrating example. Experimental studies report a lithium ion conductivity of approximately 107 Scm1, making
+the material unsuitable for industrial battery applications.11 In contrast, an ab initio study
+predicts a conductivity of 101 Scm1; a six orders of magnitude deviation from experiment
+that would make the material the new record holder in solidstate lithium ion conduction.12
+Such huge discrepancies often arise from computational limitations that constrain tractable
+system sizes and sampling times.

@@ -1,0 +1,31 @@
+Name: Dabrafenib
+Text:
+Dabrafenib is an organofluorine compound and antineoplastic agent, used as its mesylate salt in treatment of metastatic melanoma. It has a role as an antineoplastic agent, a B-Raf inhibitor and an anticoronaviral agent. It is a sulfonamide, an organofluorine compound, a member of 1,3-thiazoles and an aminopyrimidine.
+Dabrafenib mesylate (Tafinlar) is a reversible ATP-competitive kinase inhibitor and targets the MAPK pathway. It was approved on May 29, 2013, for the treatment of melanoma with V600E or V6000K mutation. It was also used for metastatic non-small cell lung cancer with the same mutation.  In May 2018, Tafinlar (dabrafenib), in combination with Mekinist ([DB08911]), was approved to treat anaplastic thyroid cancer caused by an abnormal BRAF V600E gene.
+Dabrafenib is a Kinase Inhibitor. The mechanism of action of dabrafenib is as a Protein Kinase Inhibitor, and Cytochrome P450 3A4 Inducer, and Cytochrome P450 2B6 Inducer, and Cytochrome P450 2C8 Inducer, and Cytochrome P450 2C9 Inducer, and Cytochrome P450 2C19 Inducer, and Organic Anion Transporting Polypeptide 1B1 Inhibitor, and Organic Anion Transporting Polypeptide 1B3 Inhibitor, and Organic Anion Transporter 1 Inhibitor, and Organic Anion Transporter 3 Inhibitor, and Breast Cancer Resistance Protein Inhibitor.
+Dabrafenib is a selective inhibitor of mutated forms of BRAF kinase and is used alone or in combination with trametinib in the treatment of advanced malignant melanoma. Dabrafenib therapy is associated with transient elevations in serum aminotransferase during therapy, but has not been linked to instances of clinically apparent acute liver injury.
+Dabrafenib is an orally bioavailable inhibitor of B-raf (BRAF) protein with potential antineoplastic activity. Dabrafenib selectively binds to and inhibits the activity of B-raf, which may inhibit the proliferation of tumor cells which contain a mutated BRAF gene. B-raf belongs to the raf/mil family of serine/threonine protein kinases and plays a role in regulating the MAP kinase/ERKs signaling pathway, which may be constitutively activated due to BRAF gene mutations.
+DABRAFENIB is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2013 and has 7 approved and 19 investigational indications.
+See also: Dabrafenib Mesylate (active moiety of).
+Properties:safety: Health Hazard and Environmental Hazard
+smiles: CC(C)(C)C1=NC(=C(S1)C2=NC(=NC=C2)N)C3=C(C(=CC=C3)NS(=O)(=O)C4=C(C=CC=C4F)F)F
+formula: C23H20F3N5O2S2
+chem_properties: Molecular Weight: 519.6 g/mol
+XLogP3: 4.8
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 11
+Rotatable Bond Count: 6
+Exact Mass: 519.10105173 Da
+Monoisotopic Mass: 519.10105173 Da
+Topological Polar Surface Area: 147
+Heavy Atom Count: 35
+Formal Charge: 0
+Complexity: 817
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

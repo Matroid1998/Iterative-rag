@@ -1,0 +1,24 @@
+Name: N-Hydroxysuccinimide
+Text:
+Properties:safety: Irritant
+smiles: C1CC(=O)N(C1=O)O
+formula: C4H5NO3
+chem_properties: Molecular Weight: 115.09 g/mol
+XLogP3: -1.4
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 115.026943022 Da
+Monoisotopic Mass: 115.026943022 Da
+Topological Polar Surface Area: 57.6
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 126
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

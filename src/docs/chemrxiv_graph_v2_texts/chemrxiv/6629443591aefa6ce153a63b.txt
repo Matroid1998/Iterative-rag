@@ -1,0 +1,17 @@
+Description:
+Generated from water in light-driven photoelectrochemical cells.
+
+Text:
+Watersplitting dyesensitized photoelectrochemical cells 
+(WSDSPECs) have been widely studied as a molecule
+based system for lightdriven generation of hydrogen from 
+water.13 This concept was built on the design of regenera
+tive dyesensitized solar cells (DSSCs), which were devel
+oped initially by Grtzel and coworkers in the mid1980s.4 
+While advances in silicon, compound semiconductor, and 
+perovskite solar cells have eclipsed those of DSSCs over the 
+past few years, the DSSC has recently struck back with a rec
+ordbreaking power conversion efficiency of 15.2.5 Both 
+WSDSPECs and DSSCs involve ultrafast interfacial charge 
+transfer steps, which are crucial for their energy conversion 
+efficiency but are still not completely understood.

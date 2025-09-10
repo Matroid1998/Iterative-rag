@@ -1,0 +1,16 @@
+Description:
+Can match epitaxially with CsPbX3 perovskite to form colloidal heterostructures.
+
+Text:
+These materials share the general formula PbaEbXc, and only four stable 
+compositions are known in bulk (PbTeF6, Pb7S2Br10, Pb5S2I6, Pb4SeBr6),28,29 together with two recently 
+reported highpressure metastable phases (Pb4S3I2, Pb3Se2Br2).30,31 Our group pioneered the investigation 
+of lead chalcohalides at the nanoscale, discovering two additional compounds (Pb4S3Br2 and a yet not 
+identified PbSCl phase) in the form of NCs.25 More recently, we found that Pb4S3Br2 can match epitax
+ially the CsPbX3 perovskite to form colloidal heterostructures, thus demonstrating a remarkable synthetic 
+and structural compatibility.26 Here we focus our attention on the lead sulfochlorides, demonstrating that 
+the yet unknown PbSCl phase obtained through direct synthesis is Pb3S2Cl2, whose structure, here iden
+tified as monoclinic and solved for the first time, is a distorted version of the cubic Pb3Se2Br2 prototype 
+(Figure 1, left panels).31 Conversely, the introduction of CsPbCl3 nanoclusters in the reaction medium, 
+under comparable reaction conditions, produces Pb4S3Cl2CsPbCl3 heterostructures while suppressing the 
+formation of Pb3S2Cl2.

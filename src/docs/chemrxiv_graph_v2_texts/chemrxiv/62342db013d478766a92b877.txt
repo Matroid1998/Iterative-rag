@@ -1,0 +1,12 @@
+Description:
+Involved in the hydrogen abstraction-acetylene addition (HACA) mechanism for PAH growth.
+
+Text:
+As for PAH growth, the hydrogen abstractionacetylene addition (HACA) 
+mechanism was proposed by Frenklach et al (14, 15). The phenyl additioncyclization (PAC) is 
+another mechanism that provides an efficient way for ring growth (16). The recently proposed 
+clustering of hydrocarbons by radicalchain reaction (CHRCR) mechanism also provides a 
+possible route for the PAH growth (7). Additionally, when the density of fuel is high, the 
+polymerization reactions may also be an alternative mechanism (17, 18). Compared with the 
+PAH growth, the formation of soot inception is much more complicated. The number of reaction 
+pathways involved in forming larger molecules grows exponentially with their sizes.

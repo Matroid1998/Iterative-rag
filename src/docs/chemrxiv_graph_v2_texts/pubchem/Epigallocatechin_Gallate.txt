@@ -1,0 +1,29 @@
+Name: Epigallocatechin Gallate
+Text:
+(-)-epigallocatechin 3-gallate is a gallate ester obtained by the formal condensation of gallic acid with the (3R)-hydroxy group of (-)-epigallocatechin. It has a role as an antineoplastic agent, an antioxidant, a Hsp90 inhibitor, a neuroprotective agent, a plant metabolite, a geroprotector and an apoptosis inducer. It is a gallate ester, a polyphenol and a member of flavans. It is functionally related to a (-)-epigallocatechin.
+Epigallocatechin gallate has been investigated for the treatment of Hypertension and Diabetic Nephropathy.
+(-)-Epigallocatechin gallate has been reported in Camellia sinensis, Eschweilera coriacea, and other organisms with data available.
+Epigallocatechin Gallate is a phenolic antioxidant found in a number of plants such as green and black tea. It inhibits cellular oxidation and prevents free radical damage to cells. It is under study as a potential cancer chemopreventive agent. (NCI)
+EPIGALOCATECHIN GALLATE is a small molecule drug with a maximum clinical trial phase of III (across all indications) and has 39 investigational indications.
+Properties:safety: Irritant and Environmental Hazard
+smiles: C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O
+formula: C22H18O11
+chem_properties: Molecular Weight: 458.4 g/mol
+XLogP3: 1.2
+Hydrogen Bond Donor Count: 8
+Hydrogen Bond Acceptor Count: 11
+Rotatable Bond Count: 4
+Exact Mass: 458.08491139 Da
+Monoisotopic Mass: 458.08491139 Da
+Topological Polar Surface Area: 197
+Heavy Atom Count: 33
+Formal Charge: 0
+Complexity: 667
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

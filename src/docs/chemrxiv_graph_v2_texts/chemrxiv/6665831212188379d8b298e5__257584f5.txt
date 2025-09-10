@@ -1,0 +1,17 @@
+Description:
+First-row transition-metal compounds studied using multireference methods.
+
+Text:
+These methods
+are sufficient for closedshell systems but may encounter
+problems when there is significant multireference ef
+fect In the context of the vibrational coupling with the
+JT effect, multireference methods with the SOC were
+employed by Balasubramanians group for metal clus
+ters 3942, by Mondal for the firstrow transitionmetal
+trihalides 43, 44, and by Kosekis group for thirdrow
+transitionmetal tetrahydrides 45, 46. However, such
+an approach has not been applied for MF6 molecules. The static JT distortion itself is well known in the
+structures of MF6 molecules with nonzero spin. How
+ever, the structure of the thirdrow transition metal hex
+afluorides may be stable in the presence of JT distortion.

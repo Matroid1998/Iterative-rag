@@ -1,0 +1,61 @@
+Description:
+Forms single oxygen atoms on Al(111) surface when exposed to a small dosage of molecular oxygen.
+
+Text:
+On Al(111), ac
+cording to scannning tunneling microscopy (STM) ex
+periments, a small dosage of molecular oxygen exclusively
+leads to single oxygen atoms separated by an average dis
+tance of more than 80 A 7. Various mechanisms have
+been proposed to explain this surprising results. For ex
+ample, subsurface migration of single oxygen atoms has
+been invoked 9. However, also a hot atomlike mecha
+nism based on a cannonball abstraction process 10, 11
+has been proposed. Firstprinciples based molecular dy
+namics simulations including spin selection rules 12, 13
+have been able to reproduce and explain the experimen
+tally observed samm sticking probability at low kinetic
+energies 14, 15, but have not found any indications
+for the cannonball mechanism.
+
+
+---
+
+Description:
+Atoms preferentially occupy lattice sites apart from each other after O2 dissociation.
+
+Text:
+On Pt(111), molecular
+chemisorbed O2 molecules dissociate at higher tempera
+tures with the oxygen atoms being preferentially to lat
+tice sites apart from each other 8 which has also been
+explained by a hot atom mechanism and conrmed in
+kinetic Monte Carlo simulations 16. However, the direct identication of hot atom dynam
+ics in reactions on surfaces by a combination of experi
+ment and theory is hard to achieve. From an experimen
+tal point of view this is due to the fact that the lifetime
+of dynamical hot atom events is typically so short that
+these events can not be directly detected.
+
+
+---
+
+Description:
+Can adsorb both molecularly and dissociatively on Pt(111).
+
+Text:
+The adsorption and dissoci
+ation of oxygen on platinum surfaces are of signicant
+technological importance, as they not only constitute cru
+cial reaction steps in the car exhaust catalyst 25, but
+they are also relevant for the oxygen reduction reaction
+in fuel cells in aqueous environments 2630. Molecular
+oxygen can adsorb both molecularly and dissociatively on
+Pt(111) 8, 31. At low surface temperatures, however,
+oxygen does not directly dissociate on Pt(111), even if
+impinging with high kinetic energies 8, 32, 33. Rather,
+it rst adsorbs molecularly due to steric hindrance caused
+by the shape of the underlying potential energy surface,
+and only in a second step dissociates caused by thermal
+uctuations, as demonstrated in tightbinding molecular
+dynamics studies 34, 35.

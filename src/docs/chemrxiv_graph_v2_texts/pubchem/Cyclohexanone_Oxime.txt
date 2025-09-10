@@ -1,0 +1,25 @@
+Name: Cyclohexanone Oxime
+Text:
+Prisms, liquid or light tan crystalline solid. (NTP, 1992)
+Properties:safety: Flammable and Irritant and Health Hazard
+smiles: C1CCC(=NO)CC1
+formula: C6H11NO
+chem_properties: Molecular Weight: 113.16 g/mol
+XLogP3: 1.2
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 113.084063974 Da
+Monoisotopic Mass: 113.084063974 Da
+Topological Polar Surface Area: 32.6
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 90.7
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

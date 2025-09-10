@@ -1,0 +1,33 @@
+Description:
+Garners aldehyde is used in strategies to enantioselectively construct 2substituted aminoethanols.
+
+Text:
+As 
+building blocks for organic synthesis, 2substituted aminoethanols are a versatile input for chiral 
+auxiliaries and catalysts.1 In medicinal chemistry they also serve as vital precursors for 
+constructing chiral morpholines and piperazines.2,3 Numerous strategies to enantioselectively 
+construct this unit have been reported over the years such as addition of nucleophilic carbon 
+fragments into Garners aldehyde, reduction of amino acids, asymmetric reductive amination and 
+Sharpless asymmetric aminohydroxylation, all of which are accessed by polar bond analysis (2e 
+disconnections, Figure 1B).4,5 Although these approaches are valuable, a heavy reliance on harsh 
+reactants such as organolithiummagnesium and LiAlH4 or toxic metals (Os) limits their 
+widespread use. By far, the most widely adopted approach employs nucleophilic addition of 
+organometallic reagents to chiral imines (Davis, Ellman, etc.
+
+
+---
+
+Description:
+A starting material in the enantiocontrolled synthesis of the natural product DAHD.
+
+Text:
+Emblematic of this 
+predicament is the reported enantiocontrolled synthesis of the natural product DAHD (3) through 
+an 8step route commencing from Garners aldehyde wherein only 3 steps forge a CC bond or 
+install a key stereocenter.9 Attempts to add radicals to such imines have been met with limited 
+success and require an additional electron withdrawing group or extended conjugation to enhance 
+reactivity.1015 Application of radical retrosynthetic logic to this problem could dramatically 
+simplify access to such structures as has been demonstrated in a variety of different contexts.1623 
+As transformations that proceed by way of radical intermediates are often compatible with 
+common functional groups such as carbonyls and unprotected acidicbasic functionalities, the 
+chemoselectivity issues present in polar bond disconnections might therefore disappear.

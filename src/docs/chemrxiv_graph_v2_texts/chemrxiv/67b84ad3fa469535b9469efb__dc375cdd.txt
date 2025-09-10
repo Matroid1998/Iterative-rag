@@ -1,0 +1,13 @@
+Description:
+Materials that may display different functional properties due to polytypism.
+
+Text:
+Secondly, polytypism is a form of polymorphism found in layered structures in which low 
+energy alternate stacking configurations can be adopted by the translation of layers with no 
+change to the intralayer atomic coordination4,5. In inorganic systems, different polytypes may 
+display different functional properties, such as in (bilayer  multilayer) graphene6,7, or 
+transition metal dichalcogenides5. Thirdly, planar disorder refers to translational displacements 
+between consecutive layers in the crystal which may, in principle, encompass a range of 
+displacements, from welldefined to random. As displacements between layers become less 
+random (a scenario defined as orderdisorder polytypism by DornbergerSchiff8,9), geometric 
+equivalence on a local scale is restored but the crystals longrange symmetry is still disrupted10.

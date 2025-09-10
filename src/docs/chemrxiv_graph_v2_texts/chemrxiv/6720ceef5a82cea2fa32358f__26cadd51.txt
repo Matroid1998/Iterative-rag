@@ -1,0 +1,37 @@
+Description:
+Electrodes that produce multiple products in one electrolytic step.
+
+Text:
+There is no rational framework that 
+71 
+links various catalytic multiscale mechanisms such as electrokinetics, mass transport, double layer 
+72 
+effects, electrophysical phenomena for Cu electrodes that produce multiple products in one 
+73 
+httpsdoi.org10.26434chemrxiv2024hx5gr ORCID httpsorcid.org0000000176210889 Content not peerreviewed by ChemRxiv. License CC BY 4.0
+
+5
+electrolytic step. This complexity often necessitates meticulous tuning of catalysts.
+
+
+---
+
+Description:
+Catalysts known to exhibit complex microkinetics in CO2 reduction reactions.
+
+Text:
+Computational 
+74 
+models for CO2RR on Cu catalysts known to exhibit complex microkinetics from experimental 
+75 
+literature still rely on simple and empirically defined electrochemical parameters such as Butler
+76 
+Volmer Equation (BVe).5 However, the kinetic parameters in BVe do not (and cannot) capture the 
+77 
+entire reaction network.6 In this work, we develop a new methodology for incorporating a complex 
+78 
+reaction network observed on Cu electrodes, using a 0D microkinetic model coupled with a mass 
+79 
+transport model. This paper centres on the method development and shows some preliminary results 
+80 
+obtained with the combined model. 81

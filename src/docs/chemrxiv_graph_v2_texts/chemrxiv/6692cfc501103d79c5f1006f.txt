@@ -1,0 +1,20 @@
+Description:
+A gas selectively adsorbed by MetalOrganic Frameworks (MOFs) due to their tunable properties.
+
+Text:
+28 
+Carbon capture has emerged as a promising solution to mitigate carbon dioxide (CO2) emissions 
+29 
+across diverse industrial processes, addressing the challenge of climate change.1 Within adsorptive 
+30 
+technologies for carbon capture, MetalOrganic Frameworks (MOFs) have attracted considerable 
+31 
+interest as selective CO2 adsorbents due to their modular, tunable properties.2, 3 
+32 
+Over the years, more than 100,000 MOFs have been synthesized and reported in the literature4, 
+33 
+5, and trillions of materials have been hypothesized to exist using the Legolike principles of MOF 
+34 
+construction.6, 7 This presents a challenge in identifying the most suitable materials for carbon 
+35 
+capture applications.

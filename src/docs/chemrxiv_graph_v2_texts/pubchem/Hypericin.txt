@@ -1,0 +1,29 @@
+Name: Hypericin
+Text:
+Hypericin is a carbopolycyclic compound. It has a role as an antidepressant. It derives from a hydride of a bisanthene.
+Hypericin is under investigation for the treatment of Cutaneous T-cell Lymphoma.
+Hypericin has been reported in Hypericum ascyron, Hypericum tomentosum, and other organisms with data available.
+Hypericin is an anthraquinone derivative that is naturally found in the yellow flower of Hypericum perforatum (St. John's wort) with antidepressant, potential antiviral, antineoplastic and immunostimulating activities. Hypericin appears to inhibit the neuronal uptake of serotonin, norepinephrine, dopamine, gamma-amino butyric acid (GABA) and L-glutamate, which may contribute to its antidepressant effect. Hypericin may also prevent the replication of encapsulated viruses probably due to inhibition of the assembly and shedding of virus particles in infected cells. This agent also exerts potent phototoxic effects by triggering apoptotic signaling that results in formation of reactive oxygen species.
+HYPERICIN is a small molecule drug with a maximum clinical trial phase of III (across all indications) and has 5 investigational indications.
+Properties:safety: Acute Toxic and Irritant
+smiles: CC1=CC(=O)C2=C(C3=C(C=C(C4=C3C5=C2C1=C6C(=CC(=O)C7=C(C8=C(C=C(C4=C8C5=C67)O)O)O)C)O)O)O
+formula: C30H16O8
+chem_properties: Molecular Weight: 504.4 g/mol
+XLogP3: 5.7
+Hydrogen Bond Donor Count: 6
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 0
+Exact Mass: 504.08451746 Da
+Monoisotopic Mass: 504.08451746 Da
+Topological Polar Surface Area: 156
+Heavy Atom Count: 38
+Formal Charge: 0
+Complexity: 1090
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

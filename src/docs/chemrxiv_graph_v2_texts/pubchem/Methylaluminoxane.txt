@@ -1,0 +1,24 @@
+Name: Methylaluminoxane
+Text:
+See also: Poly[oxy(methylaluminio)] (annotation moved to).
+Properties:safety: Irritant
+smiles: C[Al]=O
+formula: CH3AlO
+chem_properties: Molecular Weight: 58.015 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 57.9999281 Da
+Monoisotopic Mass: 57.9999281 Da
+Topological Polar Surface Area: 17.1
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 12.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

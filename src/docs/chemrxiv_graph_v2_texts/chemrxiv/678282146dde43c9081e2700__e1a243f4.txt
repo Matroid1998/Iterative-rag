@@ -1,0 +1,13 @@
+Description:
+Assigned to the Pu ion in PuO2 based on X-ray spectroscopic measurements and model calculations.
+
+Text:
+The magnetic susceptibility of PuO2 as a function of tem
+perature is fully consistent with the assigned 5f 4 configuration and a nonmagnetic
+ground state,3,4 although it took several decades of theoretical modeling to under
+stand why the magnetic susceptibility is effectively constant in the temperature range
+11000 K.5,6 A recent publication by Tobin et al.7 assigned the Pu ion in PuO2 as having
+a 5f 5 configuration, however, and therefore a Pu(III) ion, based on Xray spectroscopic
+measurements and accompanying model calculations. The present study was carried out to demonstrate that there is considerable ligand
+tometal (LM) donation in PuO2, which leads to excess electron density in the 5f shell of
+Pu.

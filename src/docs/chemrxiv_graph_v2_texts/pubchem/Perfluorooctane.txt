@@ -1,0 +1,25 @@
+Name: Perfluorooctane
+Text:
+Perfluorooctane is a fluorocarbon and a fluoroalkane. It derives from a hydride of an octane.
+Properties:safety: Irritant
+smiles: C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F
+formula: C8F18
+chem_properties: Molecular Weight: 438.06 g/mol
+XLogP3: 6.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 18
+Rotatable Bond Count: 5
+Exact Mass: 437.9712569 Da
+Monoisotopic Mass: 437.9712569 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 26
+Formal Charge: 0
+Complexity: 468
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

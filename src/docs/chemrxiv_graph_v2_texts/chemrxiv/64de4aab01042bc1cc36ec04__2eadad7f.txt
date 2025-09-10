@@ -1,0 +1,59 @@
+Description:
+Used with Mn in quaternary and quinary oxides to enhance corrosion resistance.
+
+Text:
+of nearsurface oxygen vacancies22,23 due to 
+heterogeneity in the oxidation state of the 3 or 4 cation 
+elements in the rutile phase. Conclusions 
+The electrocatalysis community has had an awakening 
+regarding the fundamental science challenges that underlie 
+operational durability, which is particularly important in non
+preciousmetal acid OER catalysis.24 The measurement of 
+equilibrated dissolved metals concentration may serve as an 
+important indicator of longterm durability,13 and while there 
+have 
+been 
+initial 
+demonstrations 
+of 
+timeresolved 
+measurements via online detection,25,26 such measurements 
+remain prohibitively expensive for high throughput exploration 
+of high dimensional composition spaces. The present work 
+focuses on decreasing the concentration of elements most 
+prone to corrosion by exploring quaternary and quinary oxides 
+in which Mn is mixed with various combinations of Sb, Sn, and 
+Ti.
+
+
+---
+
+Description:
+Resists corrosion in a catalyst motif.
+
+Text:
+XRD analysis confirms that a sitesubstituted rutile phase can 
+be synthesized over a broad range of compositions in the Mn
+SbSnTiO composition space. The results demonstrate a 
+catalyst motif wherein activity is realized at low concentration 
+of the presumed catalytic element (Mn) via integration with 
+multiple elements that resist corrosion (Sn, Ti, Sb). Author Contributions 
+L.Z. synthesized 
+all 
+catalysts, 
+performed 
+materials 
+characterization experiments, aggregated all data, and 
+developed data visualization schemes that produced the 
+primary 
+data 
+figures. A.S. 
+performed 
+electrochemical 
+experiments. M.C. performed CrystalShift XRD analysis under 
+supervisions of M.O.T. and R.B.vD.. J.M.G. designed the 
+experimental campaign, supervised research, and was the 
+primary author of the communication with contributions from 
+all authors. Conflicts of interest 
+J.M.G. is a consultant for companies that aim to accelerate 
+catalyst discovery.

@@ -1,0 +1,26 @@
+Description:
+Involved in high-valent redox reactions for achieving high energy density in TMOs.
+
+Text:
+Layered transition metal oxides (TMOs),
+NaxTMO2 where TM is a transition metal, have emerged as the most energy dense class of NIB
+cathode materials compared to Prussian bluewhite analogs and polyanions.7 The path to
+achieving the highest energy density in TMOs should involve highvalent redox reactions (i.e.,
+the over oxidation of TMs or oxygen).
+
+
+---
+
+Description:
+Involved in a high-valent redox reaction stabilized by an electron hole polaron.
+
+Text:
+used advanced Xray
+characterization and computational techniques to develop a deeper mechanistic understanding of
+this reaction, proving that the highvalent redox reaction was O2O redox stabilized by an
+electron hole polaron on the oxygen as opposed to structural rearrangement mediated by the
+formation of an OO dimer.9 The formation of O in NMO was further confirmed using electron
+paramagnetic resonance (EPR).16 Moreover, it is the O2 ions bordering the ordered vacancy that
+undergo this redox reaction because their nonbonding 2p orbitals are at the Fermi level and are
+thus first to oxidize.9,1214 The ordered vacancy is central (a design principle) to the reversible and
+lowhysteresis highvalent redox behavior in NMO.

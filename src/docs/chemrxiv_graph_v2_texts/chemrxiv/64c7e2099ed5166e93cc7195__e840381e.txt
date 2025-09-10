@@ -1,0 +1,12 @@
+Description:
+A greenhouse gas produced during the reduction of iron oxide ores in blast furnaces.
+
+Text:
+Ironmaking processes that do not generate greenhouse gas (GHG) emissions are needed 
+for netzeroemissions energy systems (1). Most emissions associated with iron and steel production result 
+from stochiometric quantities of CO2 (1.5 kg CO2 per kg Fe) produced during reduction of iron oxide 
+ores in blast furnaces (2, 3). Demand for steel is unlikely to decrease during decarbonization (4); immense 
+quantities of iron and steel are needed for manufacturing electric vehicles, buildings with electrified 
+heatingcooling systems (5), racking for solar panels, supports for wind turbines, and devices for grid scale 
+energy storage (6). Today, steelmaking is responsible for 8 of global GHG emissions, comparable to all 
+passenger vehicles combined (7).

@@ -1,0 +1,77 @@
+In chemistry, a nucleophilic substitution (SN) is a class of chemical reactions in which an electron-rich chemical species (known as a nucleophile) replaces a functional group within another electron-deficient molecule (known as the electrophile). The molecule that contains the electrophile and the leaving functional group is called the substrate. 
+The most general form of the reaction may be given as the following: 
+
+  
+    
+      
+        
+          Nuc
+        
+        
+          :
+        
+        +
+        
+          R
+          
+            −
+          
+          LG
+          ⟶
+          R
+          
+            −
+          
+          Nuc
+        
+        +
+        
+          LG
+        
+        
+          :
+        
+      
+    
+    {\displaystyle {\text{Nuc}}\mathbf {:} +{\ce {R-LG -> R-Nuc}}+{\text{LG}}\mathbf {:} }
+  
+
+The electron pair (:) from the nucleophile (Nuc) attacks the substrate (R−LG) and bonds with it. Simultaneously, the leaving group (LG) departs with an electron pair. The principal product in this case is R−Nuc. The nucleophile may be electrically neutral or negatively charged, whereas the substrate is typically neutral or positively charged.
+An example of nucleophilic substitution is the hydrolysis of an alkyl bromide, R-Br under basic conditions, where the attacking nucleophile is hydroxyl (OH−) and the leaving group is bromide (Br−).
+
+  
+    
+      
+        
+          
+            OH
+            
+              −
+            
+          
+          +
+          R
+          
+            −
+          
+          Br
+          ⟶
+          R
+          
+            −
+          
+          OH
+          +
+          
+            Br
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {OH- + R-Br -> R-OH + Br-}}}
+  
+
+Nucleophilic substitution reactions are common in organic chemistry. Nucleophiles often attack a saturated aliphatic carbon. Less often, they may attack an aromatic or unsaturated carbon.

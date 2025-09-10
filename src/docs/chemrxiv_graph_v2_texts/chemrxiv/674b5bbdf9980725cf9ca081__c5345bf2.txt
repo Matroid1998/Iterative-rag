@@ -1,0 +1,32 @@
+Description:
+A high-energy product generated during photosynthesis.
+
+Text:
+The most relevant process of lightenergy conversion in nature is photosynthesis, which takes place 
+within the thylakoid membrane of cyanobacteria and chloroplasts. The thylakoid membrane is a 
+lipid bilayer that assembles multiple protein supercomplexes in a transmembrane fashion to absorb 
+light and transfer electrons across the membrane to generate highenergy products such as NADPH 
+(nicotinamide adenine dinucleotide phosphate hydrogen) and carbohydrates as well as oxygen as a 
+side product.1 The benefit of transmembrane electron transfer is that the oxidation site is physically 
+separated from the reduction site and that such compartmentalization can finetune local reaction 
+conditions to prevent detrimental recombination.2,3 Additionally, the transmembrane charge 
+transfer generates a proton gradient which fuels the ATP synthase (ATP  adenosine triphosphate, 
+see Figure 1a).4,5 
+
+Figure 1. Lightdriven transmembrane in electron transfer.
+
+
+---
+
+Description:
+Produced in natural photosynthesis as part of the conversion of solar energy.
+
+Text:
+a) In natural photosynthesis, the light is 
+absorbed by multiple protein supercomplexes to convert solar energy and produce NADPH and ATP 
+(PSI  photosystem I, PSII  photosystem II). b) This work integrates a lightactive molecule for 
+photoinduced transmembrane electron transfer in a liposome membrane to connect two spatially 
+separated oxidation and reduction reactions. Created in httpsBioRender.com. Current artificial photosynthetic systems mostly investigate either an individual catalytic lightdriven 
+reduction (e.g., H2 evolution,6 CO2 reduction7) or an individual oxidation reaction (e.g., water 
+oxidation),8,9 both of which are still relying on the use of sacrificial reagents. A useful oxidation and 
+httpsdoi.org10.26434chemrxiv2024x7wgx ORCID httpsorcid.org0000000196330730 Content not peerreviewed by ChemRxiv. License CC BY 4.0

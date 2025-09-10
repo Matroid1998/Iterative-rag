@@ -1,0 +1,13 @@
+Description:
+A solvent involved in electrolyte decomposition pathways.
+
+Text:
+Previous theoretical studies (e.g., DFT) focused on the decomposition pathways of main 
+electrolyte species i.e., the ethylene carbonate solvent and the supporting salt lithium 
+hexafluorophosphate, LiPF6. However, due to computational cost, DFT is restricted to very 
+short time scales and cannot model large, nonperiodic systems. So, cheaper computational 
+methods are essential to model reactions in amorphous systems like the SEI1,2. Reactive forcefield methods were used to study electrolyte decomposition reactions (e.g., 1,3
+dioxolane7) and extend the simulation time. However, these reactive force fields are plagued by 
+a difficulty of transferability they are usually built and optimized for a specific set of reactions 
+(e.g., the decomposition of ethylene carbonate only) and need to be reparameterized for each 
+new composition of the system810.

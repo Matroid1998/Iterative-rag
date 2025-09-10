@@ -1,0 +1,26 @@
+Name: Propidium Iodide
+Text:
+Propidium iodide is an organic iodide salt. It contains a propidium.
+Propidium Iodide is a fluorescent nucleic acid dye which binds only to double-stranded nucleic acids. It has a molecular weight of 668.4, an absorbance maximum of 535nm, and an emission maximum of 617 nm.  It is commonly used to determine the DNA content of a cell or to discriminate viable from non-viable cells.
+Quaternary ammonium analog of ethidium; an intercalating dye with a specific affinity to certain forms of DNA and, used as diiodide, to separate them in density gradients; also forms fluorescent complexes with cholinesterase which it inhibits.
+Properties:safety: Irritant and Health Hazard
+smiles: CC[N+](C)(CC)CCC[N+]1=C2C=C(C=CC2=C3C=CC(=CC3=C1C4=CC=CC=C4)N)N.[I-].[I-]
+formula: C27H34I2N4
+chem_properties: Molecular Weight: 668.4 g/mol
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 7
+Exact Mass: 668.08729 Da
+Monoisotopic Mass: 668.08729 Da
+Topological Polar Surface Area: 55.9
+Heavy Atom Count: 33
+Formal Charge: 0
+Complexity: 555
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

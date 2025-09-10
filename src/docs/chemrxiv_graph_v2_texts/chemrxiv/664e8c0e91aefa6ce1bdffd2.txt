@@ -1,0 +1,70 @@
+Description:
+A major contributor to climate change due to its emissions from human activities.
+
+Text:
+Human activity is significantly affecting the Earths climate, resulting in 1.18C rise in global 
+temperature since preindustrial periods, primarily caused by carbon dioxide (CO2) emissions 1. The Intergovernmental Panel on Climate Change (IPCC) emphasizes the necessity of limiting 
+global warming within the range of 1.5C to 2.0C in order to avoid irreversible consequences 2. The current annual global CO2 emissions exceed 36 gigatons, and if they continue to increase, 
+reaching the climate goals will be impossible 36. Several technological solutions are being 
+investigated to reduce the global CO2 emissions, such as decarbonization technologies that aim 
+to decrease the emissions by transitioning to renewable energy sources and enhancing energy 
+efficiency 4.
+
+
+---
+
+Description:
+A greenhouse gas captured from point sources in carbon capture and storage technology.
+
+Text:
+Carbon capture and storage (CCS) is a promising technology that captures CO2 
+from point sources, such as power plants and industrial facilities, followed by sequestration 7. Although CCS has the potential for globalscale deployment, its actual implementation has been 
+slower than expected 7,8. However, it continues to be a crucial part of the plan to reduce the 
+impact of climate change and meet emission reduction goals 5. This highlights the significance 
+of ongoing research, development, and implementation of CCS to tackle global carbon emissions. Various technologies have been developed for a wide range of CCS applications. Among these, 
+the sorptionbased method, often utilizing an amine absorbent, has received the most attention 
+911. This twostep process involves an amine scrubbing tower followed by a thermally driven 
+amine regeneration step.
+
+
+---
+
+Description:
+Desorbed through an electroswing mechanism in electrochemical carbon capture processes.
+
+Text:
+However, challenges persist with sorptionbased processes. The 
+regeneration step, which employs thermal swing, necessitates a significant energy requirement 
+7,1214. Furthermore, operating at elevated temperatures during this step significantly 
+accelerates the thermal degradation of the amine absorbent. The research community is actively 
+addressing these issues by developing alternative amines that require lower desorption 
+temperatures and exhibit greater thermal stability over a wider temperature range. Electrochemical carbon capture (ECC) processes have recently emerged as an alternative 
+approach to the thermally driven absorbent methods 4,1517. ECCs rely on redox reactions to 
+desorb CO2 through an electroswing mechanism. Due to this unique desorption mechanism, 
+ECCs offer several advantages, including lower energy requirements, eliminating the need to 
+operate at elevated temperatures, and minimizing the rate of absorbent degradation 4,5,15,18.
+
+
+---
+
+Description:
+The focus of research for reducing energy demands in capture processes.
+
+Text:
+Additionally, ECCs offer the inherent advantages of electrochemical systems, such as modularity, 
+scalability, and ease of retrofitting 4. ECC technologies are still in the early stages of 
+development, with the primary research focus on addressing issues related to selectivity, stability, 
+and efficiency. Additionally, the energy requirements for CO2 capture remain a central focus of 
+research, and a broad range of strategies is being investigated to further reduce these energy 
+demands 4. Several ECC approaches have been developed, including the electrochemical generation of 
+nucleophiles 
+(EGN) 
+1924, 
+electrochemical 
+capacitive 
+adsorption 
+(ECA) 
+2530, 
+electrochemically mediated amine regeneration (EMAR) 3136, and electrochemical modulation 
+of proton concentration (EMPC), also known as electrochemical pH swing 3743. These 
+approaches differ in how they utilize redox reactions to capture and concentrate CO2.

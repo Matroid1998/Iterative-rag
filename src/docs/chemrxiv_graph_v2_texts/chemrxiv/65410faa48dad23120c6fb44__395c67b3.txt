@@ -1,0 +1,13 @@
+Description:
+An organic radical that can be either chemisorbed or physisorbed on surfaces.
+
+Text:
+We choose trimethylenemethane
+(TMM) as the organic radical and hydrogenpassivated ZGNR having six carbon atoms along the width (6ZGNRH).49
+TMM has been widely investigated both experimentally and theoretically.5055 Similarly, 6ZGNRH can be synthesized
+experimentally with a bottomup approach using a molecular precursor.56,57 Using first principle calculations, we
+have studied the interaction of the TMM radical (shown in Figure 1) with the 6ZGNRH surface in the different
+configurations as shown in Figure 6. We begin with the description of the electronic structure, and magnetic and
+transport properties of TMMadsorbed 6ZGNRH in comparison to the pristine 6ZGNRH. Our results demonstrate
+that the TMM is either chemisorbed or physisorbed on the 6ZGNRH surface depending on the adsorption site or
+configurations.

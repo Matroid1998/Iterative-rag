@@ -1,0 +1,14 @@
+Description:
+A component of positive electrode materials in lithium-ion batteries, often reduced to lower levels for cost and energy density improvements.
+
+Text:
+Understanding the degradation mechanisms for advanced lithiumion battery (LIB) chemistries 
+is an essential, and vibrant, area of research to improve electrochemical energy storage 
+technology. In pursuit of lower cost and higher energy density cells, positive electrode materials 
+with less cobalt and higher specific capacity are being investigated, such as the Nirich (Ni  
+60) Li(NiMnCo)O2 cathode (known as NMC). However, LIBs with Nirich cathodes show 
+accelerated performance fading compared to their lowerNi analogues.1,2 
+Nirich cathode materials have been shown to release lattice oxygen from the surface at lower 
+potential,3,4 resulting in structural transformation from the initial layered structure to more 
+oxygen deficient spinel andor rock saltlike structures after cycling, termed the reduced 
+httpsdoi.org10.26434chemrxiv2024nmnr8v4 ORCID httpsorcid.org0000000338500505 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

@@ -1,0 +1,13 @@
+Description:
+Part of the lithium-air battery system where nonaqueous electrolytes are explored.
+
+Text:
+Metalair (or metal oxygen) batteries have been a research topic for many decades with the 
+hope of creating high specific energy batteries. However, most of this research is conducted at room 
+temperatures, where a number of challenges remain. For aqueous metaloxygen batteries, such as 
+the aluminumair primary cell, corrosion reactions between the aqueous electrolyte and negative 
+electrode significantly decrease available capacity of the device. While this problem can be 
+mitigated by using high purity metals, this significantly increases cost 1. Nonaqueous electrolytes 
+have been explored for a number of different metalair battery systems, particularly for the lithium
+air system, but the insoluble nature of metal oxide discharge products results in passivation of the 
+air electrode 2.

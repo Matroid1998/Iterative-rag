@@ -1,0 +1,17 @@
+Description:
+Subunits linked by glycosidic bonds that can be oxidized by LPMOs.
+
+Text:
+Lytic polysaccharide monooxygenases (LPMOs) form a copperdependent family of enzymes
+classied under the auxiliary activity (AA) superfamily, spanning members AA9AA17 (with
+AA12 exempted).19 The LPMOs are known for their ability to boost polysaccharide degra
+dation by oxidizing the glycosidic bonds that link the monosaccharide subunits.1016 This
+oxidation is unique among polysaccharidedegrading enzymes and has the potential to sig
+nicantly contribute to the eciency of sustainable biofuel production from lignocellulosic
+sources.1,2,17,18 Additionally, their biotechnological potential continues to expand, with recent
+identications of LPMOs as virulence factors in agricultural pests19 and disease vectors.20,21
+The catalytic activity of LPMOs is ascribed to a strictly conserved, solventexposed active
+site in which three nitrogen donor atoms ligate a copper ion, forming a histidine brace.3 This
+brace comprises one histidine ligand, coordinating with the imidazole N!2 atom, and the
+terminal histidine residue that coordinates bidentately with the imidazole N1 as well as the
+backbone NH2 group (see Fig.

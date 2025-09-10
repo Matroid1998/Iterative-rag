@@ -1,0 +1,14 @@
+Description:
+Part of the material family Li3M(III)X6, used in solid electrolytes.
+
+Text:
+Solidstate electrolytes for allsolidstate batteries (ASSBs) are intensively researched in recent 
+years, due to the improved safety they offer compared to liquid electrolytes and because they 
+may enable alternative electrodes1. In 2018, Asano et al.2 reported that the ternary halides 
+Li3YCl6 and Li3YBr6 have ionic conductivities of 1 103 Scm and showcased ASSBs with 
+coulombic efficiencies of 94 using (uncoated) LiCoO2 as the active material in the cathode 
+composite. Since then, the material family Li3M(III)X6 (M(III) Y, In, Sc, Lanthanides; XCl, 
+Br, I)) and other halide solid electrolytes have gained renewed interest in the scientific 
+community due to their favorable combination of ionic conductivity (mScm) and 
+highvoltage cathode compatibility. More recently, Zhou et al.3 reached a milestone in the 
+development of ASSBs using a Li2InxSc0.66xCl4 electrolyte.

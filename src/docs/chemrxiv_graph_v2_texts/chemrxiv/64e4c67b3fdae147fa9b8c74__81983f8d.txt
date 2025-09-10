@@ -1,0 +1,10 @@
+Description:
+A broadline radical used to polarize 1H spins in dynamic nuclear polarization.
+
+Text:
+The throughput 
+of dDNP can be increased by using the broadline radical TEMPOL to polarize 1H spins and subsequently transfer 
+the polarization from 1H to 13C spins before dissolution in the solid state, using crosspolarization (CP) in 
+HartmanHahn conditions (HHCP)1618 or through the dipolar order (dCP).19,20 The CPbased approach is also 
+capable of reaching high 13C polarization exceeding 60, but in a muchreduced time of typically 1520 min. However, the HHCP approach also has its Achilles heel as it requires strong radiofrequency (rf) powers that are 
+difficult to realize in superfluidic helium, without detrimental arcing of the NMR coil.

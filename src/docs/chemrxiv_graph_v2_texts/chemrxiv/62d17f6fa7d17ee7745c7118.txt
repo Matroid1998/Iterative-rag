@@ -1,0 +1,18 @@
+Description:
+Undergoes photoisomerization in cavity simulations.
+
+Text:
+de
+veloped the MQC simulations with the JCtype model
+(that excludes the permanent dipole moment) to perform
+FSSH simulations of azobenzene photoisomerization in
+cavity.1921
+However, these previous simulations either used RWA,
+excluding the dipoleself energy (DSE) terms,26 or ne
+glected permanent dipole moment,20 all of which could
+change the fundamental polariton chemistry and physics
+in the strong and ultrastrong coupling regime.2731 Nu
+clear gradient expressions beyond the JC models has
+been derived under the full CongurationInteraction
+(CI) expansion framework.20 Rigorous nuclear gradient
+expressions under the quantum electrodynamics Linear

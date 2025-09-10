@@ -1,0 +1,13 @@
+Description:
+Coin cells used for measuring Coulombic efficiency of Li metal in electrolytes.
+
+Text:
+With such improvements, it is nowadays increasingly common to encounter 
+reports of CE exceeding 99.9,12,1517 
+As CE of Li metal in liquid electrolytes has rapidly increased, accurately measuring, 
+reporting, and benchmarking this key performance indicator has become of heightened importance. The standard measurement for CE uses LiCu coin cells (Figure 1a). Owing to the accessibility of 
+components and ease of assembly, coin cells enable lean quantities of active materials and 
+electrolytes to be rapidly tested at reasonable cost and low burden of labor, in contrast to more 
+commercially relevant pouch cells. Their offtheshelf components also enable a nominal degree 
+of standardization in CE measurement. Consequently, virtually all reported CE data for Li metal 
+batteries originate from coin cells.

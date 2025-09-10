@@ -1,0 +1,12 @@
+Description:
+Forms the excited-state enol upon absorbance of light.
+
+Text:
+In particular, a photoreaction known as 
+excitedstate intramolecular proton transfer (ESIPT) has attracted considerable attention because 
+the ESIPT process affords the potential for two different wavelengths of light from the same 
+molecule depending on local environmental conditions (Fig. 1).58 We sought to design a protein 
+binding pocket that could predictably and selectively distinguish between different excitedstate 
+pathways of the ESIPT process. The result of this work is a fluorescent probe and that exhibits a 
+change fluorescence signal by detecting subtle changes in a proteinprotein interface. Consider the emission of 2(2hydroxyphenyl)benzoxazole (1, Fig. 1). Upon absorbance of 
+light, 1 forms the excitedstate enol 1E.

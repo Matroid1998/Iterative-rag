@@ -1,0 +1,12 @@
+Description:
+Compounds obtained from propargyl alcohols through the retroFavorskii reaction.
+
+Text:
+The retroFavorskii reaction finds limited use in organic synthesis being performed in most cases 
+to obtain terminal alkynes from propargyl alcohols.24 The reaction requires the use of a strong base, 
+high temperature (usually reflux temperature of toluene or nbutanol), and usually needs several 
+hours, thus limiting its scope and often resulting in side reactions and degradation of the 
+substrates.5,6 
+While most interest in the retroFavorskii is focused on the alkyne, in our group we are currently 
+investigating the possibility of employing this approach to synthesize suitable precursors for the 
+preparation of conjugated compounds bearing carbonyl and quinone functionalities.

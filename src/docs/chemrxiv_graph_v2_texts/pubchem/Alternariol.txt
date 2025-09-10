@@ -1,0 +1,29 @@
+Name: Alternariol
+Text:
+Alternariol is a benzochromenone that is 6H-benzo[c]chromen-6-one which is substituted by a methyl group at position 1 and by hydroxy groups at positions 3, 7, and 9. It is the most important mycotoxin produced by the black mould Alternaria species, which are the most common mycoflora infecting small grain cereals worldwide. It has a role as a metabolite, an EC 3.1.1.8 (cholinesterase) inhibitor and a mycotoxin. It is a benzochromenone and a member of phenols.
+Alternariol has been reported in Alternaria porri, Sonneratia alba, and other organisms with data available.
+Alternariol is found in mushrooms. Alternariol occurs in mycelium of Alternaria tenuis responsible for alternaria cone disorder in hops and fruit spot on papaya (Carica papaya) and Passiflora species.Alternariol is a toxic metabolite of Alternaria fungi. It is an important contaminant in cereals and fruits.
+
+Alternariol belongs to the family of Isocoumarins and Derivatives. These are polycyclic compounds containing an isochromane which bears a ketone at the carbon C1.
+Properties:safety: Acute Toxic
+smiles: CC1=CC(=CC2=C1C3=C(C(=CC(=C3)O)O)C(=O)O2)O
+formula: C14H10O5
+chem_properties: Molecular Weight: 258.23 g/mol
+XLogP3: 2.9
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 0
+Exact Mass: 258.05282342 Da
+Monoisotopic Mass: 258.05282342 Da
+Topological Polar Surface Area: 87
+Heavy Atom Count: 19
+Formal Charge: 0
+Complexity: 371
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

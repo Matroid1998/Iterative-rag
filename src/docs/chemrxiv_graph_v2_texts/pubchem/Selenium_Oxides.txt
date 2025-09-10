@@ -1,0 +1,26 @@
+Name: Selenium Oxides
+Text:
+Selenium dioxide appears as a white or creamy-white volatile lustrous crystal or crystalline powder with a pungent sour smell. Melting point 340 deg C. Density 3.954 g / cm3. Toxic by ingestion and inhalation.
+Selenium dioxide is an oxide of selenium. It is used in organic synthesis, glass colorants, and as a toner in photographic developing. Selenium is a nonmetal element with the atomic number 34 and the chemical symbol Se. Selenium rarely occurs in its elemental state in nature and is usually found in sulfide ores such as pyrite, partially replacing the sulfur in the ore matrix. It may also be found in silver, copper, lead, and nickel minerals. Though selenium salts are toxic in large amounts, trace amounts of the element are necessary for cellular function in most animals, forming the active center of the enzymes glutathione peroxidase, thioredoxin reductase, and three known deiodinase enzymes. (L620, L726)
+Inorganic compounds formed through the oxidation of selenium.
+Properties:safety: Corrosive and Acute Toxic and Health Hazard and Environmental Hazard
+smiles: O=[Se]=O
+formula: O2Se
+chem_properties: Molecular Weight: 110.97 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 111.90635 Da
+Monoisotopic Mass: 111.90635 Da
+Topological Polar Surface Area: 34.1
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 18.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

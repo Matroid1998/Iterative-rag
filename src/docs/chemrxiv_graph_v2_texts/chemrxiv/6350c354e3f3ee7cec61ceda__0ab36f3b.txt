@@ -1,0 +1,28 @@
+Description:
+Involved in oxidative etching of carbon nanoparticles.
+
+Text:
+For example, in experiments using single NP 
+mass spectrometry to study kinetics for individual carbon NPs in the 1200 to 2100 K range, we 
+found that both sublimation1 and O2 oxidative etching23 kinetics varied substantially for NPs from 
+different feedstocks (graphitic, graphene oxide, carbon black, diamond, nanoonion), but that even 
+for NPs from the same feedstock, the initial rates varied by up to an order of magnitude. More 
+surprisingly, the etching rates varied over time, with rates oscillating by orders of magnitude. All 
+types of carbon NPs were found to evolve to become essentially inert to O2 etching, but the time 
+required for this evolution varied strongly for different carbon materials and for different NPs.
+
+
+---
+
+Description:
+Catalyzes isomerization to form fully-coordinated, fullerene-like surface layers.
+
+Text:
+The initial NPtoNP variations were attributed to variations in the number of undercoordinated 
+reactive sites present on each NP surface, and the evolution over time to evolution of the NP 
+surface under reaction conditions. The eventual transition to nearcomplete O2 inertness implies 
+that the NPs evolved to have almost no undercoordinated surface sites, which was attributed to 
+O2catalyzed isomerization to form fullycoordinated, fullerenelike surface layers. The ability to 
+monitor structural evolution for individual NPs over time under reaction conditions is one of the 
+strengths of the single NP mass spectrometry method. Here we apply this approach to Si NP 
+oxidative etching.

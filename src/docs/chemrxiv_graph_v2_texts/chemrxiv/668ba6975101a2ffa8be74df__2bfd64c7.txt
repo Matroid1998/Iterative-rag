@@ -1,0 +1,14 @@
+Description:
+A liquid organic hydrogen carrier used in dehydrogenation reactions.
+
+Text:
+In response to these challenges, we introduce a machine learning approach that 
+guides design of catalysts used for the dehydrogenation of methyl cyclohexane to 
+toluene. This particular liquid organic hydrogen carrier is selected because it has been 
+demonstrated in pilot plant and more or less ready to be scaled up by industry21,22. The 
+endothermic dehydrogenation reaction necessitates high temperatures, typically 
+above 500 K, and requires a catalyst23. While Pt is a promising catalyst for methyl 
+cyclohexane dehydrogenation, its high cost and low selectivity to toluene hinder the 
+widespread applications24. Toostrong adsorption of toluene leads to undesirable side 
+products like benzene, bibenzyltoluene, and coke, diminishing the efficacy of this 
+technology25.

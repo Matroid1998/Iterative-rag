@@ -1,0 +1,13 @@
+Description:
+Used for temperature calibration under pressure with well-established melting points.
+
+Text:
+. Melting of phosphorus in the 28 GPa pressure range was studied in situ by electrical resistivity 
+measurements in a toroidtype highpressure apparatus with a specially designed hightemperature 
+cell 11. The cell was pressurecalibrated using roomtemperature phase transitions in Bi (2.55 and 
+7.7 GPa), PbSe (4.2 GPa), and PbTe (5.2 GPa). The temperature calibration under pressure was 
+performed using wellestablished melting points of silicon, sodium and caesium chlorides, platinum 
+and NiMnC ternary eutectic. A sample was placed directly into a graphite heater, and electrical 
+resistivity of the cell was measured at different pressures upon stepwise heating up to the melting 
+
+2

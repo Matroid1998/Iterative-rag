@@ -1,0 +1,12 @@
+Description:
+A component of proteases involved in viral replication, such as papainlike and chymotrypsinlike proteases.
+
+Text:
+In the case of 
+Severe Acute Respiratory Syndrome coronavirus, the two proteases are a papainlike cysteine 
+protease (PLpro)12 and a chymotrypsinlike cysteine protease 3CLpro,13 also known as the Main 
+protease. SARSCoV 3CLpro is essential for viral replication and is thus recognized as a 
+potential drug target for the treatment of SARS infections. To date there are no clinically 
+used inhibitors of the SARS protease yet they remain in development.14 
+
+3

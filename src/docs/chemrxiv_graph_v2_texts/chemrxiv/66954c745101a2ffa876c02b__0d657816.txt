@@ -1,0 +1,20 @@
+Description:
+Transfers a proton from the N1 atom to stabilize the CT state.
+
+Text:
+See DOI
+10.10b000000x
+100 fs,9,11,31,32 which causes a characteristic broad UV absorp
+tion band in the gas phase.31 The most likely mechanistic expla
+nation of this process is the transfer of a proton from the N1 atom
+of guanine to the N3 atom of cytosine, which stabilizes the CT
+state and eventually leads to a crossing with the ground state in
+a barrierless manner.7,9,23,33
+Although a direct photoinduced EDPT process is unlikely
+in DNA,20 there are spectroscopic indications that it could
+be possible within the AU pair in the Aform RNA dou
+ble helix.34 The photochemistry of adenine complexes with
+uracil (AU) or thymine (AT) has received less attention than
+GC,10,13,15,16,27,35 and these have been studied mainly in
+the context of the plausibility of the spurious EDPT deacti
+vation mechanism.

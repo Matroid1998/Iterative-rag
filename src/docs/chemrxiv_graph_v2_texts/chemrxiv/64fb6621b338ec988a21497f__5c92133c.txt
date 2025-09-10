@@ -1,0 +1,112 @@
+Description:
+Used to obtain b2,3-amino ester products in moderate yield.
+
+Text:
+When b
+methyl styrene was employed, the corresponding b2,3amino ester 
+product (4v,w) was obtained in a moderate yield with excellent 
+imidyl radical
+O
+RO
+K2CO3
+PC1
+PC1
+O
+RO
+O
+RO
+NR1R2
+R1
+N
+R2
+N
+R1
+R2
+O
+RO
+NR1R2
+NR1R2
+O
+O
+RO
+Radicalradical 
+Coupling
+PC1 Photoredox 
+Catalysis
+N
+N
+N
+R3
+R4
+N
+N
+N
+R3
+R4
+N
+N
+N
+R3
+R4
+SET
+2
+3
+4
+N
+N
+N
+R3
+R4
+SET
+Az1
+NHC Catalysis
+BF4
+A. TEMPO trapping
+B. SternVolmer fluorescence quenching
+C. Proposed catalytic cycle
+I
+II
+III
+IV
+VI
+V
+Ph
+3a
+2a
+1a
+Me
+O
+EtO
+Ph
+NBocBz
+N
+Me
+Bz
+H
+Boc
+4a
+N
+H
+Bz
+Boc
+2a
+O
+O
+EtO
+2
+Ph
+3a
+Me
+N
+Me
+Me
+Me
+Me
+O
+R1
+N
+H
+R2
+1
+standard conditions
+1 equiv.

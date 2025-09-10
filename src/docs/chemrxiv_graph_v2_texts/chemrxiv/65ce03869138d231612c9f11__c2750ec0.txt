@@ -1,0 +1,11 @@
+Description:
+The yield strength on the nanoscale may be much higher than for bulk lithium.
+
+Text:
+Insufficient Li flux away from the filled crack during cycling leads to a buildup of hydrostatic pressure which
+then exceeds the fracture toughness of the ceramic and cracks it open11,14. In order for this model to work,
+the crack needs to be completely filled to allow for the necessary pressure buildup. The exact mechanism
+of the fracture is still not fully answered and there are open questions such as whether the electrolyte
+cracks open first, creating more space for lithium metal to fill and allowing the dendrite to continue, or if
+the growing dendrite ruptures the electrolyte as it progresses11,1517. One argument for the latter is that
+the yield strength of lithium metal on the nanoscale may be much higher than for bulk lithium14,18.

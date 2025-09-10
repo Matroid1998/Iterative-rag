@@ -1,0 +1,24 @@
+Description:
+Found in green sulphur bacteria as part of the Fenna-Matthews-Olson bacteriochlorophyll complex.
+
+Text:
+Research performed with photosynthetic bacteria has found 
+strong coupling between the bacteria and photons.7, 8 Bacteria 
+placed in an optical cavity results in the formation of new 
+eigenstates that are a coherent superposition of photonic and 
+excitonic transitions.8 Quantum beats have been observed via 
+twodimensional electronic spectroscopy (2DES) in the Fenna
+MatthewsOlson bacteriochlorophyll complex found in green 
+sulphur bacteria.7 
+It has 
+been proposed that artificial LHCs mimic 
+photosynthesis.5 Because the development of artificial LHCs has 
+been based on those present in nature, inherent similarities 
+between these two forms of LHCs exist in photon absorption 
+and energy transfer.1, 5, 911 Specifically, the BODIPYbearing 
+pillar5arene LHC has been shown to exhibit FRET with 92 
+efficiency.5 Timedependent density functional theory (TDDFT) 
+has shown electronic coherence in four chemically unique 
+BODIPY compounds on the order of femtoseconds.12 
+To date, artificial LHCs have not been shown experimentally 
+to exhibit quantum coherence.

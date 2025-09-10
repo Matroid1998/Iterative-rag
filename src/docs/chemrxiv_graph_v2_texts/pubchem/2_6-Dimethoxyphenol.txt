@@ -1,0 +1,26 @@
+Name: 2,6-Dimethoxyphenol
+Text:
+2,6-dimethoxyphenol is a member of the class of phenols that is phenol substituted by methoxy groups at positions 2 and 6. It has a role as a plant metabolite. It is a member of phenols and a dimethoxybenzene.
+2,6-Dimethoxyphenol has been reported in Panax japonicus, Mucuna birdwoodiana, and other organisms with data available.
+Properties:safety: Irritant
+smiles: COC1=C(C(=CC=C1)OC)O
+formula: C8H10O3
+chem_properties: Molecular Weight: 154.16 g/mol
+XLogP3: 1.1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 2
+Exact Mass: 154.062994177 Da
+Monoisotopic Mass: 154.062994177 Da
+Topological Polar Surface Area: 38.7
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 104
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

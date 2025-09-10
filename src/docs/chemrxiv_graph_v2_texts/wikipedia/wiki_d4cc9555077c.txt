@@ -1,0 +1,4 @@
+Water oxidation catalysis (WOC) is the acceleration (catalysis) of the conversion of water into oxygen and protons:
+
+2 H2O → 4 H+ +  4 e− +  O2
+Many catalysts are effective, both homogeneous catalysts and heterogeneous catalysts. The oxygen evolving complex in photosynthesis is the premier example. There is no interest in generating oxygen by water oxidation since oxygen is readily obtained from air.  Instead, interest in water oxidation is motivated by its relevance to water splitting, which would provide "solar hydrogen," i.e. water oxidation would generate the electrons and protons for the production of hydrogen. An ideal WOC would operate rapidly at low overpotential, exhibit high stability and be of low cost, derived from nontoxic components.

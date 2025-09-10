@@ -1,0 +1,25 @@
+Description:
+A model coreshell system with anatase and rutile used in photoelectrochemical splitting of water and photocatalysis.
+
+Text:
+The extensive exploitation of Degussa P25 (TiO2) for studies in photoelectrochemical splitting of water and photocatalysis has to be 
+rationalized even though, the objective of its use in reported studies is mainly for comparison purpose. Its remarkable reproducibility has 
+to be recognized. It is presumed that P25 is a model coreshell system with anatase and rutile (41 weight ratio) and possibly the relative 
+thickness of the core and shell of this system is most appropriate for its behaviour as a photocatalyst. It is necessary that one recognizes 
+15 
+the relative values of surface energy of the polymorphs of TiO2in order to recognize the type of core shell configuration this system can 
+adopt.
+
+
+---
+
+Description:
+A compound that can be doped with hetero atoms like C, N, and S to shift photon absorption to the visible region.
+
+Text:
+Another aspect of the studies on TiO2 deals with doping with hetero atoms like C, N, S and others, in these studies it has been reported 
+that the reason for doping with these elements is to shift the photon absorption to visible region. This aspect has been examined recently 
+30 
+in a review8. These studies must be considered in the light of the observations recorded that the coexistence of Rutile and Anatase 
+phases and the depth of Rutile core and Anatase shell can be tuned by adjusting the thickness of TiOxCy (x  y) and TiOxCy (x  y) in 
+the precursor composite by a change of the calcinations temperature1.

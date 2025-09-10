@@ -1,0 +1,21 @@
+Description:
+A photocage that operates via bond heterolysis mechanisms.
+
+Text:
+However, using photocages in PACT requires that the 
+photochemical activation can be achieved noninvasively in 
+deeper organ tissues with a limited access to deliver the light 
+even with optical fibers. Therefore, the light absorption of 
+photocages must reach well into the tissue transparent window 
+that opens in the nearinfrared (NIR) region.27 Historically, the 
+success of such endeavour remained an open challenge due to 
+a widespread assumption that the subpar excitation energy is 
+insufficient to directly break covalent bonds. However, the 
+introduction 
+of 
+phydroxyphenacyl 
+(pHP)2832 
+and 
+coumarin30,3335 photocages that operate via bond heterolysis 
+mechanisms largely contributed to addressing this conceptual 
+obstacle.

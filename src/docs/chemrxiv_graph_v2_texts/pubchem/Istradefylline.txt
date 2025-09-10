@@ -1,0 +1,28 @@
+Name: Istradefylline
+Text:
+Istradefylline is an oxopurine.
+Istradefylline, or KW6002, was developed by Kyowa Hakko Kirin in Japan for the treatment of Parkinson's disease as an adjunct to standard therapy. Unlike standard dopaminergic therapies for Parkinson's, Istradefylline targets adenosine A2A receptors in the basal ganglia. This region of the brain is highly involved in motor control.  Istradefylline is indicated as an adjunct treatment to [levodopa] and [carbidopa] for Parkinson's disease.  This drug was first approved in Japan on 25 March 2013. Istradefylline was granted FDA approval on 27 August 2019.
+Istradefylline is an adenosine receptor antagonist that is used as adjunctive therapy to levodopa/carbidopa in patients with Parkinson disease experiencing difficulty with “off” episodes when motor symptoms breakthrough on treatment. Istradefylline has been associated with a low rate of serum enzyme elevations during therapy, but has not been linked to cases of clinically apparent liver injury with jaundice.
+ISTRADEFYLLINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2013 and is indicated for parkinson disease and has 3 investigational indications.
+Properties:safety: Acute Toxic
+smiles: CCN1C2=C(C(=O)N(C1=O)CC)N(C(=N2)/C=C/C3=CC(=C(C=C3)OC)OC)C
+formula: C20H24N4O4
+chem_properties: Molecular Weight: 384.4 g/mol
+XLogP3: 2.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 6
+Exact Mass: 384.17975526 Da
+Monoisotopic Mass: 384.17975526 Da
+Topological Polar Surface Area: 76.9
+Heavy Atom Count: 28
+Formal Charge: 0
+Complexity: 613
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

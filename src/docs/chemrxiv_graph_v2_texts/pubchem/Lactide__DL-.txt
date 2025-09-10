@@ -1,0 +1,26 @@
+Name: Lactide, DL-
+Text:
+Lactide is a member of dioxanes.
+See also: Lauryl polylactide (14000 MW) (monomer of); Polylactide (14000 MW) (monomer of); Polylactide (23000 MW) (monomer of) ... View More ...
+Properties:safety: Irritant
+smiles: CC1C(=O)OC(C(=O)O1)C
+formula: C6H8O4
+chem_properties: Molecular Weight: 144.12 g/mol
+XLogP3: 0.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 144.04225873 Da
+Monoisotopic Mass: 144.04225873 Da
+Topological Polar Surface Area: 52.6
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 155
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 2
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

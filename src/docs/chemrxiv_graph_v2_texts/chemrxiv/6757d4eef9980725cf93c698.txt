@@ -1,0 +1,19 @@
+Description:
+Atoms that can be randomly inserted into molecules, potentially leading to high scores in fitness functions but undesirable properties.
+
+Text:
+The emphasis on general distribution learn
+ing, while important, may not fully capture the models
+performance in addressing specific chemical challenges. Additionally, performances on taskoriented benchmarks
+based on simple heuristic fitness functions, such as penal
+ized log wateroctanol partition coefficient 1, 44, sim
+ilarityrediscovery tasks 18, 39, or quantitative esti
+mate of druglikeliness (QED) 45, are handily maxi
+mized by modern generative models 4648, and even
+trivially satisfied by randomly inserting carbon atoms
+into the molecules 49. These simplistic fitness func
+tions often fail to capture chemical constraints, allowing
+models to exploit failure modes by reward hacking, and
+generate molecules with high scores but undesirable prop
+erties, such as chemical instability or synthetic infeasibil
+ity 50, 51.

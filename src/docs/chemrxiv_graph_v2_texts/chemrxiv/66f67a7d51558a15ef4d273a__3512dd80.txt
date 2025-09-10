@@ -1,0 +1,12 @@
+Description:
+A material with small atomic and ionic radii, low density, high tensile strength, high melting point, and oxidative resistance.
+
+Text:
+Despite aforementioned 
+challenges, beryllium has been ubiquitous in industries such as nuclear, aerospace, medical and manufacturing due to small 
+atomic (112 pm) and ionic radii (45 pm) inducing strong covalent bond resultant material properties of low density (1.85 
+gcm3), tensile strength exceeding 700 MPa, high melting point (1560 K), modulus of elasticity (303 GPa), neutron 
+reflectivity and oxidative resistance. Motivated by the potential of ternary beryllium oxides for optoelectronics applications, 
+BeSeO3 is investigated via Density Functional Theory (DFT) calculations that operate by approximation of manyelectron 
+wavefunction systems via electron density computation (Eq.1) with an associated local density approximation of the 
+exchangecorrelation correction to account for electronelectron interactions 3,4,5.

@@ -1,0 +1,27 @@
+Name: Orthosilicic acid
+Text:
+Silicic acid is a silicon oxoacid. It is a conjugate acid of a trihydrogensilicate(1-).
+Orthosilicic acid has been reported in Rauvolfia serpentina, Rauvolfia verticillata, and other organisms with data available.
+A hydrated form of silicon dioxide. It is commonly used in the manufacture of TOOTHPASTES and as a stationary phase for CHROMATOGRAPHY.
+See also: Hydrated Silica (active moiety of).
+Properties:safety: Corrosive and Irritant
+smiles: O[Si](O)(O)O
+formula: H4O4Si
+chem_properties: Molecular Weight: 96.11 g/mol
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 95.98788514 Da
+Monoisotopic Mass: 95.98788514 Da
+Topological Polar Surface Area: 80.9
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 19.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

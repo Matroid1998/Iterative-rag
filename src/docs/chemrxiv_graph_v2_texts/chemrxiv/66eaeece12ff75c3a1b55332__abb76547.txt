@@ -1,0 +1,13 @@
+Description:
+Utilized in copolymers for structural optimization of sulfur cathodes in lithium-sulfur batteries.
+
+Text:
+The remarkable theoretical specific capacity of elemental sulfur (1675 mA hg), its
+ecofriendly nature, and its abundance make lithiumsulfur (LiS) batteries an attractive
+alternative to current lithiumion batteries.1,2 Nevertheless, their cycle life has so far been
+limited due to certain drawbacks. A notable challenge is the formation of longchain, soluble
+lithium polysulfides during the discharge and their shuttling through the conventional elec
+trolytes,3,4 which leads to a depletion of the active material and formation of an insulating
+layer around the anode. All these processes result in an irreversible capacity fade in LiS
+batteries.5,6 To tackle these issues, numerous studies have focused on structural optimization
+of sulfur cathodes including utilization of sulfurcarbon copolymers.

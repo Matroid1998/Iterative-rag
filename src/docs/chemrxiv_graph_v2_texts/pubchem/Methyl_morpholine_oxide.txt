@@ -1,0 +1,25 @@
+Name: Methyl morpholine oxide
+Text:
+N-methylmorpholine N-oxide is a morpholine N-oxide resulting from the oxidation of the amino group of N-methylmorpholine.
+Properties:safety: Flammable and Oxidizer and Irritant and Health Hazard
+smiles: C[N+]1(CCOCC1)[O-]
+formula: C5H11NO2
+chem_properties: Molecular Weight: 117.15 g/mol
+XLogP3: -0.7
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 117.078978594 Da
+Monoisotopic Mass: 117.078978594 Da
+Topological Polar Surface Area: 27.3
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 78.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

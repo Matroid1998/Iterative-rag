@@ -1,0 +1,27 @@
+Name: Lutetium
+Text:
+Lutetium atom is a lanthanoid atom and a d-block element atom.
+lutetium is a mineral.
+An element of the rare earth family of metals. It has the atomic symbol Lu, atomic number 71, and atomic weight 175.
+See also: Lutetium hydride (LuH3) (annotation moved to) ... View More ...
+Properties:safety: Flammable
+smiles: [Lu]
+formula: Lu
+chem_properties: Molecular Weight: 174.9667 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 174.94078 Da
+Monoisotopic Mass: 174.94078 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 1
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

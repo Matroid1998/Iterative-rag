@@ -1,0 +1,18 @@
+Description:
+Materials with favorable optoelectronic properties used in LEDs, photovoltaics, and photodetectors.
+
+Text:
+In the continuing pursuit of highly efficient renewable 
+energy technologies, halide perovskites (HPs) have become 
+ubiquitous in the semiconductor research community in just 
+over the last decade. Their favorable optoelectronic properties 
+for applications including lightemitting diodes (LEDs), 
+photovoltaics (PVs), and photodetectors,(1) demonstrate the 
+wide utility of these materials. The word perovskite describes 
+the crystal structure of the material and can be simplified to the 
+formula ABX3, where, for HPs, A is a monovalent cation, typically 
+Cs, CH3NH3 (methylammonium, MA), andor CHNH2NH2 
+(formadinium, FA); B is a divalent cation, typically Pb2, Sn2, 
+andor Ge2; and X is a monovalent halide, typically Cl, Br, 
+andor I. In terms of optical response, HPs have been shown to 
+have remarkable luminescent properties.

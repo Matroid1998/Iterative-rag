@@ -1,0 +1,13 @@
+Description:
+Has a lowest-energy band that shifts from 669 nm to 813 nm upon protonation.
+
+Text:
+For example, a particularly dramatic redshift is observed upon protonation of the 
+central nitrogens of mesotetrakis(4aminophenyl)porphyrin (H2TAPP), with the lowestenergy 
+band of H2TAPP shifting from 669 nm to 813 nm to H4TAPP2 (note that the peripheral 
+amino groups remain unprotonated).6,7 The strong delocalization that generates the 
+hyperporphyrin effect can be illustrated with quinonelike resonance forms that show 
+conjugation between the aminophenyl groups and the protonated porphyrin. Gouterman and 
+coworkers performed semiempirical calculations that supported this charge transfer;8 more 
+recently, we published a TDDFT study, further refining the spectral assignments for 
+H4TAPP2.9

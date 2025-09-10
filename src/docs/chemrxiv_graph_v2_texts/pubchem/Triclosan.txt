@@ -1,0 +1,31 @@
+Name: Triclosan
+Text:
+Triclosan is an aromatic ether that is phenol which is substituted at C-5 by a chloro group and at C-2 by a 2,4-dichlorophenoxy group. It is widely used as a preservative and antimicrobial agent in personal care products such as soaps, skin creams, toothpaste and deodorants as well as in household items such as plastic chopping boards, sports equipment and shoes. It has a role as an antibacterial agent, a fungicide, an EC 1.5.1.3 (dihydrofolate reductase) inhibitor, an antimalarial, an EC 1.3.1.9 [enoyl-[acyl-carrier-protein] reductase (NADH)] inhibitor, a xenobiotic, a persistent organic pollutant and a drug allergen. It is a member of phenols, an aromatic ether, a dichlorobenzene and a member of monochlorobenzenes.
+An aromatic ether that is phenol which is substituted at C-5 by a chloro group and at C-2 by a 2,4-dichlorophenoxy group. It is widely used as a preservative and antimicrobial agent in personal care products such as soaps, skin creams, toothpaste and deodorants as well as in household items such as plastic chopping boards, sports equipment and shoes.
+Triclosan is a polychloro phenoxy phenol with antibacterial and antifungal activity. Triclosan is added to toothpastes to prevent gingivitis and has been added to many household products for its topical antibiotic activity.
+TRICLOSAN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1997 and has 5 investigational indications.
+Triclosan is an antibacterial and antifungal agent. It is a polychloro phenoxy phenol. Though many consumer products contain triclosan, according to the Food and Drug Administration (FDA) at the present time there is no evidence that triclosan in personal care products provides an extra benefit to health beyond its anti-gingivitis effect in toothpaste. The FDA does not recommend changing consumer use of triclosan containing products one way or the other due to currently insufficient safety evidence. Studies by the Environmental Protection Agency (EPA) found triclosan to be an effective antibacterial. Triclosan safety is currently under review by the FDA and Health Canada.
+A diphenyl ether derivative used in cosmetics and toilet soaps as an antiseptic. It has some bacteriostatic and fungistatic action.
+See also: Undecylenic Acid (has active moiety); Sodium Fluoride; Triclosan (component of); Chloroxylenol; triclosan (component of) ... View More ...
+Properties:safety: Irritant and Environmental Hazard
+smiles: C1=CC(=C(C=C1Cl)O)OC2=C(C=C(C=C2)Cl)Cl
+formula: C12H7Cl3O2
+chem_properties: Molecular Weight: 289.5 g/mol
+XLogP3: 5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 2
+Exact Mass: 287.951163 Da
+Monoisotopic Mass: 287.951163 Da
+Topological Polar Surface Area: 29.5
+Heavy Atom Count: 17
+Formal Charge: 0
+Complexity: 252
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

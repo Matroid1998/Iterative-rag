@@ -1,0 +1,13 @@
+Description:
+A reactant in hydrogenation reactions to form CO, CH3OH, and CH4.
+
+Text:
+CO2 hydrogenation to CO via the reverse water gas shift reaction (rWGSR, eq 1) could be important
+for making the chemical industry more sustainable. The rWGSR is both a way to convert CO2 into CO,
+which can be used directly as feedstock in syngas chemistry,1 and a way to utilize hydrogen, which is
+the high energy chemical most straightforwardly produced by renewable powered electrochemistry.2,3
+CO2(g)  H2(g)  CO(g)  H2O(g)
+(1)
+CO2 hydrogenation can also form CH3OH and CH4 instead of CO.4,5 Figure 1 shows reaction
+free energies to form the three products at the standard state pressure (i.e. 0.1 MPa pressure for all
+species) and with 2 MPa H2 pressure. The thermodynamic data in Figure 1 is taken from ref 68.

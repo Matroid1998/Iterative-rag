@@ -1,0 +1,14 @@
+Description:
+A nonnucleoside inhibitor identified for DNMT1.
+
+Text:
+Despite their high efficacy, nucleoside drugs suffer from undesirable 
+pharmacokinetic profiles, chemical instability, and toxic side effects 11. Due to DNA methylation being a 
+fundamental mechanism for gene regulation, the design and development of nonnucleoside DNMT 
+modulators is a promising strategy for developing novel epigeneticbased therapies. Among the earliest non
+nucleoside inhibitors identified for DNMT1 is ()epigallocatechin3gallate (EGCG) (ref) (Figure 1). This 
+compound and other DNMT1 inhibitors sourced from natural origins have been subject to extensive review 
+12,13. In epigenetic drug discovery, including DNMT1, efforts are increasing to design and analyze focused 
+libraries of DNMT inhibitors. Our research group recently reported a comprehensive analysis of the chemical 
+content, diversity, and chemical space coverage of eleven commercial epigeneticfocused libraries with over 
+50,000 molecules.

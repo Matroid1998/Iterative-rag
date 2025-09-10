@@ -1,0 +1,15 @@
+Description:
+A compound whose reduction is proposed to be the rate determining step for producing carbon-coupled products.
+
+Text:
+As yet it is not possible to reliably tune the downstream C2 products produced, such as 
+ethylene and ethanol, and the mechanisms defining such selectivities are not firmly established (Scheme 1).5 Even 
+on a planar catalyst, perhaps the simplest practical system for mechanistic studies, there are many effects to consider, 
+including, but not limited to concentration polarization effects from dissolved CO2, intermediates, electrolytes, 
+fluctuations in local pH, and the faceting and restructuring of the electrode surface.6 
+
+2 
+
+Scheme 1 Electrochemical reduction of CO2 to CO requires two proton and electron transfers. Reduction of CO is proposed to be the rate
+determining step for producing carboncoupled products, but the exact species it is reduced to upon dimerization are still under 
+investigation.5

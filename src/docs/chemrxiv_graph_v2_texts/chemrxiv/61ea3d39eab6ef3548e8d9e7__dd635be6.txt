@@ -1,0 +1,149 @@
+Description:
+A toxic heavy metal encountered in various industrial sectors such as coal combustion, oil and gas refining, and artisanal gold mining.
+
+Text:
+45 
+Mercury is a toxic heavy metal encountered in a variety of industrial sectors such as coal 
+46 
+combustion, oil and gas refining, and artisanal and smallscale gold mining.1, 2 Mercury 
+47 
+pollution in aquatic systems is especially problematic, as it can contaminate the food supply 
+48 
+through bioaccumulation in seafood, or lead to contaminated drinking water.3, 4 Mercury 
+49 
+remediation technologies for purifying water are therefore important, but this is challenging 
+50 
+because of the high rate of mercury uptake required for filtration applications. High throughput 
+51 
+is also important where large volumes of water need to be treated.
+
+
+---
+
+Description:
+Pollution in aquatic systems is problematic due to bioaccumulation in seafood and contamination of drinking water.
+
+Text:
+45 
+Mercury is a toxic heavy metal encountered in a variety of industrial sectors such as coal 
+46 
+combustion, oil and gas refining, and artisanal and smallscale gold mining.1, 2 Mercury 
+47 
+pollution in aquatic systems is especially problematic, as it can contaminate the food supply 
+48 
+through bioaccumulation in seafood, or lead to contaminated drinking water.3, 4 Mercury 
+49 
+remediation technologies for purifying water are therefore important, but this is challenging 
+50 
+because of the high rate of mercury uptake required for filtration applications. High throughput 
+51 
+is also important where large volumes of water need to be treated.
+
+
+---
+
+Description:
+Has a strong affinity for sulfur, making sulfur-functionalized sorbents effective for its remediation.
+
+Text:
+To meet this need, a number 
+52 
+of sorbent technologies have been evaluated including activated carbon, biochar, zeolites, 
+53 
+polymers, metal covalent frameworks, and many other nanostructured or functionalised 
+54 
+materials.5 Among the many classes of mercury sorbents, those functionalised with sulfur are 
+55 
+of particular interest due to the strong affinity of sulfur for mercury.6 It is perhaps not surprising 
+56 
+that there have been many studies on sulfurfunctionalised sorbents for mercury remediation.7, 
+57 
+8 Among these materials, those sorbents made directly from sulfur are of particular interest, 
+58 
+due to the low cost and industrial surplus of elemental sulfur.7, 9 Additionally, there has been a 
+59 
+resurgence in methods to make polymers from sulfur,1014 which has created many opportunities 
+60 
+for using these lowcost and scalable polymers in mercury and heavy metal remediation.7, 1526 
+61 
+In this study, we investigated one of these sulfur polymers made by direct 
+62 
+copolymerisation of elemental sulfur with the renewable terpene limonene.
+
+
+---
+
+Description:
+Used in remediation processes.
+
+Text:
+Our lab first 
+63 
+reported the synthesis and use of this material in mercury remediation in 2015,27, 28 describing 
+64 
+its advantageous features. For instance, both sulfur and limonene are lowcost, highly abundant 
+65 
+feedstocks produced by the petroleum and citrus industries, respectively.
+
+
+---
+
+Description:
+An element that can cause poly(srlimonene) to change colour from red to yellow, useful for sensing or filtration applications.
+
+Text:
+The copolymer made 
+66 
+from these building blocksreferred to here as poly(Srlimonene)is a low molecular weight 
+67 
+oligomer that is fully soluble in organic solvents.28 This solubility is useful, for instance, in using 
+68 
+the polymer to coat surfaces.28, 29 Additionally, at high concentrations of inorganic mercury, the 
+69 
+polymer changes colour from red to yellowa chromogenic response with potential use in 
+70 
+mercury sensing or for filtration media that changes colour when it needs to be replaced.28 
+71 
+Building upon these foundational studies, the Hasell lab expanded access to this polymer and 
+72 
+its utility in mercury remediation.
+
+
+---
+
+Description:
+A target for removal from water using poly(Srlimonene) coated on silica gel.
+
+Text:
+For instance, the addition of an accelerator or catalyst in the 
+73 
+synthesis allowed the material to be made at a lower temperature, which reduced byproduct 
+74 
+formation and increased the safety profile of the synthesis.29 Furthermore, Hasell also 
+75 
+demonstrated that poly(Srlimonene), when coated on a silica gel support, is effective at 
+76 
+removing mercury from water.29 However, these studies were focused more on the poly(Sr
+77 
+limonene) synthesis rather than mercury sorption, so there is a need to understand the detailed 
+78 
+kinetics of mercury sorption and the scope of conditions under which it is effective. Herein, we 
+79 
+report our findings on the first detailed kinetic analysis and modelling of this sorbent in both 
+80 
+Hg2 uptake and desorption.
+
+
+---
+
+Description:
+A target for sorption in remediation processes.
+
+Text:
+We also studied the influence of pH and sodium chloride 
+81 
+concentrations on mercury sorption, which provided an increased understanding of the scope 
+82 
+and limitations of this sorbent. These findings helped establish important guidelines for 
+83 
+deploying this unique mercury sorbent in remediation. 84

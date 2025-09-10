@@ -1,0 +1,12 @@
+Description:
+A lower-cost, earth-abundant alternative to palladium catalysts.
+
+Text:
+Chemical reaction optimisation is a challenging and resourceintensive yet essential process in
+chemistry. Chemists explore combinations of various reaction parameters (e.g., reagents, solvents,
+catalysts) to simultaneously optimise multiple objectives such as yield and selectivity. In process
+chemistry, reaction optimisation faces more rigorous demands on reaction objectives than in academic
+settings, encompassing additional economic, environmental, health, and safety considerations 1, 2. These factors often necessitate the use of lowercost, earthabundant, and greener alternatives, such
+as replacing traditional palladium catalysts with nickel 3, 4, and selecting solvents that adhere to
+pharmaceutical guidelines 5. Optimal reaction conditions satisfying these stringent criteria are often
+substratespecific and challenging to identify generally for a given set of reactants.

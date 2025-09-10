@@ -1,0 +1,43 @@
+Description:
+Used in metal anodes to increase energy density by hindering dendrite formation and growth.
+
+Text:
+In this way, one can theoret
+ically increase the energy density with the use of Li metal
+anodes1 by physically hindering Li dendrite formation and
+growth.2 Additionally, the use of SSEs will result in safer
+batteries due to the removal of the highly ammable liq
+uid electrolyte, thus facilitating a wider range of operating
+temperatures.3 However, the implementation of SSEs has
+proven challenging as current materials suering from low
+ionic conductivities,4,5 poor air and water stability,6,7 poor
+electrolyteelectrodeinterfaces,8 aswellasdendritegrowth
+across grains and cracks, in spite of the solid electrolyte.9,10
+Good contact between the electrolyte and the electrodes is
+necessary to realise a wellfunctioning battery with long
+term cyclability.
+
+
+---
+
+Description:
+Forms an interface with LLZO that may result in a bottleneck to Li-ion conductivity.
+
+Text:
+To date, arguably the most
+well studied garnet SSE is Li7La3Zr2O12 (LLZO) displaying
+relatively high Liion conductivities of 106 103 S
+cm1 depending on doping, synthesis technique and en
+vironment, and the structural phase of LLZO.1217 At room
+temperature (RT), the structure is stable in its tetragonal
+form(spacegroup I41acd), whilstathighertemperatures
+it undergoes a phase transition into the disordered cubic
+phase (space group Ia3d) which possesses ionic conduc
+tivities around two orders of magnitude higher than the
+tetragonal phase.12,18
+The wide electrochemical stability window of LLZO al
+lows it to benignly contact with Li metal anodes.12,19,20
+However, a very thin layer of tetragonallike LLZO structure
+has been observed at the interface between cubic LLZO
+and Li metal19,21 potentially resulting in a bottleneck to the
+Liionconductivityattheelectrolyteanodeinterface.

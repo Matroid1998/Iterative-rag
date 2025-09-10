@@ -1,0 +1,87 @@
+Description:
+Diastereomeric dimers of methyl apiose.
+
+Text:
+of ring torsion, 
+consistent with the configurational changes required in 1a 
+(Table S4). In addition to this ester, we observed two distinct 
+minor components in the mixture, which exhibited identical 
+coupling constants to 1a and existed in similar concentrations 
+(ca. 11.2 
+ratio). Based 
+on 
+the 
+wellcharacterized 
+diastereomeric borate ester dimers of methyl apiose 
+described by Ishii and Ono57 and the report of purine 
+nucleoside solubilization as 21 complexes with borate by 
+Tsuji and colleagues,58 we tentatively ascribe these species 
+as the cis and transisomers 1a (Figs. 1G and F). Overall, 
+the Gibbs free energies obtained experimentally by NMR 
+spectroscopy or equilibrium state calculations based on UV 
+data ( ca. 32 kJ mol1, see the SI for details) are 
+comparable to those obtained by DFT calculation.
+
+
+---
+
+Description:
+A five-membered ester of Rib1P that is less favored than 1a.
+
+Text:
+Although 
+an analogous sixmembered ester (and potentially its dimers) 
+between the 3 and 5hydroxyl groups would introduce similar 
+configurational changes to those ascribed to 1a, DFT 
+calculations revealed that its formation is much less 
+exothermic and consequently disfavored. Similarly, the 
+analogous fivemembered borate ester of Rib1P is less 
+favored than 1a (which is requisite for the observed 
+equilibrium shift), as supported by DFT and NMR data (Figs. 1F and S10). Additionally, we observed no trace of dimers of 
+Rib1P by NMR, which is likely a result of the highly disfavored 
+formal 5 charge of these species.
+
+
+---
+
+Description:
+Formed during phosphorolysis reactions and influenced by entropic effects.
+
+Text:
+Consequently, the 
+formation of the borate ester 1a should be expected to 
+dominate in direct competition during a phosphorolysis 
+reaction, which we could confirm by subjecting phosphorolysis 
+reaction mixtures with increasing borate concentrations to 
+NMR analysis (Fig. S13). Further thermodynamic experiments 
+indicated that this biased esterification is primarily driven by 
+entropic effects. Arrhenius plots of the 1a1a equilibrium 
+obtained by 
+1H NMR revealed a drastic temperature
+dependence, favoring the presence of the free nucleoside at 
+higher temperatures (Fig. S11). In support of these 
+observations, Arrhenius plots for the borate esterification 
+derived from equilibrium shifts in the phosphorolysis reaction 
+indicated an approach to an energetic balance between 1a 
+and Rib1P at higher temperatures (Fig. S5).
+
+
+---
+
+Description:
+The dominant species in the reaction system, responsible for depleting the pool of free nucleoside in dilute aqueous solution at room temperature.
+
+Text:
+Collectively, 
+these results describe 1a as the dominant borate ester in this 
+reaction system, responsible for depleting the pool of free 
+nucleoside in dilute aqueous solution at room temperature. Consistent with this conclusion, the 2deoxy nucleoside 
+deoxy1a, incapable of forming 1a or 1a, did not show an 
+equilibrium shift during its phosphorolysis in the presence of 
+borate or any reaction with borate discernible by NMR (Fig. S15). Next, we sought to identify the cause of the apparently 
+reduced reaction rates in the presence of borate by enlisting 
+kinetic studies and molecular dynamics (MD) simulations. This 
+effect was especially prominent with borate concentrations 
+greater than 20 mM and led to decreases in the reaction rate 
+of GtPyNP by more than a factor of four, as illustrated in Figure 
+2D.

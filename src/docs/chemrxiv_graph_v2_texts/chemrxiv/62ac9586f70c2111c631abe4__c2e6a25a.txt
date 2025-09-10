@@ -1,0 +1,12 @@
+Description:
+A key compound in synthesis reactions essential for sustainable chemical production.
+
+Text:
+The discovery of new catalysts for fundamental reactions such as water splitting, ammonia synthesis, or
+CO2 reduction is a fundamental to the development of an environmentally sustainable economy. By
+increasing reaction efficiency, catalysts offer the possibility of reducing industrial energy requirements and
+enabling more sustainable chemical production processes 1. However, the space of all possible catalysts
+is too vast to be surveyed experimentally 2. For this reason, the field of computational catalysis tries to
+predict catalytic activity using materials properties. One important tool is the Sabatier principle, which
+describes a volcanoshaped relationship between the binding energy of a key reaction specie and the
+overall reaction rate 3.

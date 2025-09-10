@@ -1,0 +1,36 @@
+Name: Ribavirin
+Text:
+Ribavirin can cause developmental toxicity and male reproductive toxicity according to state or federal government labeling requirements.
+Ribavirin is a white powder. Exists in two polymorphic forms. (NTP, 1992)
+Ribavirin is a 1-ribosyltriazole that is the 1-ribofuranosyl derivative of 1,2,4-triazole-3-carboxamide. A synthetic guanosine analogue, it is an inhibitor of HCV polymerase and possesses a broad spectrum of activity against DNA and RNA viruses. It has a role as an antimetabolite, an antiviral agent, an antiinfective agent, an EC 2.7.7.49 (RNA-directed DNA polymerase) inhibitor and an anticoronaviral agent. It is a 1-ribosyltriazole, an aromatic amide, a monocarboxylic acid amide and a primary carboxamide. It is functionally related to a 1,2,4-triazole-3-carboxamide.
+Ribavirin is an antiviral prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of chronic hepatitis C virus infection (HCV). Ribavirin is always used in combination with other drugs.
+HCV infection&nbsp;can be&nbsp;an opportunistic infection (OI) of HIV.
+Producing a broad-spectrum activity against several RNA and DNA viruses, Ribavirin is a synthetic guanosine nucleoside and antiviral agent that interferes with the synthesis of viral mRNA. It is primarily indicated for use in treating hepatitis C and viral hemorrhagic fevers. HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients. It is reported that ribavirin might be only effective in early stages of viral hemorrhagic fevers including Lasser fever, Crimean-Congo hemorrhagic fever, Venezuelan hemorrhagic fever, and Hantavirus infection. Ribavirin is a prodrug that is metabolized into nucleoside analogs that blocks viral RNA synthesis and viral mRNA capping. Before the development of newer drugs, ribavirin and [DB00008]/[DB00022] dual therapy was considered the first-generation and standard antiviral treatment. The dual therapy was administered for 48 weeks in patients with genotype 1, 4, 5, and 6, and 24 weeks in patients with genotype 2 and 3. Newer drugs developed as Hepatitis C viral infection treatments can be used to reduce or eliminate the use of ribavirin, which are associated with serious adverse effects. They also improve therapeutic efficacy in patients with failed [DB00008]/[DB00022] and ribavirin-based therapy. The potential use of ribavirin as a treatment for acute myeloid leukemia is currently under investigation.  According to 2017 American Association for the Study of Liver Diseases (AASLD) and 2015 consensus guidelines from the Canadian Association for the Study of the Liver (CASL), ribavirin is typically used as an adjunct therapy to various first-line and second-line combination therapies recommended for each genotypes. Ribavirin is added to decrease relapse rates by accelerating viral clearance early in the treatment course. When used to treat Hepatitis C virus (HCV) infections, it is always used as a part of combination therapies as ribavirin monotherapy is not efficacious in the treatment of chronic hepatitis C infection. Additionally, including ribavirin in the regimen can increase the risk of anemia.   In HCV genotye 1/2/3/4/5/6 patients, ribavirin can be used in combination therapy involving [DB09102] and [DB08934], Eplusa ([DB08934], [DB11613]), Harvoni ([DB08934], [DB09027]), [DB06290] and [DB08934], Viekira Pak ([DB09296], [DB09297], [DB00503], [DB09183]), Technivie ([DB00503], [DB09296], [DB09297]) and Zepatier ([DB11574], [DB11575]). Addition of weight-based ribavirin to Technivie therapy increased sustained virologic response after 12 weeks of daily therapy (SVR12) from 90% to 97% in patients with HCV genotype 1a and 90.9% to 100% in HCV genotype 4 patients. Zepatier therapy along with ribavirin improved SVR in HCV genotype 5 patients. Combination therapy of ribavirin and [DB00008] results in the SVR of 44% in patients with genotype 1 infection and 70% in patients with genotype 2-6. The inclusion of ribavirin in the combination therapies depend on individual patient's profile, for example if HCV genotype 3 patient has a Y93H genetic variant and compensated cirrhosis.
+Ribavirin is a Nucleoside Analog Antiviral.
+Ribavirin is a nucleoside analogue and antiviral agent used in therapy of chronic hepatitis C and other flavivirus infections. Ribavirin has not been associated with clinically apparent liver injury.
+Ribavirin has been reported in Cladosporium sphaerospermum, Stachybotrys chartarum, and Aspergillus terreus with data available.
+Ribavirin is a synthetic nucleoside analog of ribofuranose with activity against hepatitis C virus and other RNA viruses. Ribavirin is incorporated into viral RNA, thereby inhibiting viral RNA synthesis, inducing viral genome mutations, and inhibiting normal viral replication.
+RIBAVIRIN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1985 and has 4 approved and 20 investigational indications. This drug has a black box warning from the FDA.
+A nucleoside antimetabolite antiviral agent that blocks nucleic acid synthesis and is used against both RNA and DNA viruses.
+Properties:safety: Irritant and Health Hazard
+smiles: C1=NC(=NN1[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O)C(=O)N
+formula: C8H12N4O5
+chem_properties: Molecular Weight: 244.20 g/mol
+XLogP3: -1.8
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 3
+Exact Mass: 244.08076950 Da
+Monoisotopic Mass: 244.08076950 Da
+Topological Polar Surface Area: 144
+Heavy Atom Count: 17
+Formal Charge: 0
+Complexity: 304
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

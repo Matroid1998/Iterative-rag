@@ -1,0 +1,49 @@
+Description:
+The electronic structure of benzene and its cation was studied using x-ray spectrum and high-level calculations.
+
+Text:
+The ability 
+to laserproduce tabletop HHG sources reaching up to 300 eV 
+opened opportunities to implement the laser pumpprobe technique 
+with ultraviolet (UV) excitation probed by soft xray radiation in 
+the carbon Kedge region with tens of femtosecond time 
+resolution.1,2,3,4,5,6,7,8 
+Recently, we applied this technique to measure the xray 
+spectrum of the benzene radical cation (Bz).9 Together with high
+level calculations using equationofmotion coupledcluster singles 
+and doubles theory (EOMCCSD), this study provided insight into 
+the electronic structure of benzene (Bz) and its cation.10 
+Comparison of the xray absorption spectra of neutral Bz and of 
+Bz revealed a splitting of the two degenerate  orbitals as well as 
+an appearance of a new peak due to a new transition to the partially 
+occupied  orbital resulting from the ionization.
+
+
+---
+
+Description:
+Interacts with the bromine lone pair orbitals, affecting ionization energies.
+
+Text:
+The next two lower molecular orbitals are 11b1 (Brtype) and 5b2 
+(Brtype) that are related to the 4p bromine lone pair orbitals, 
+which are split due to the interaction with the benzene ring.12,13,14 
+The ionization energies from these two orbitals are 10.633 eV and 
+11.188 eV, respectively.13 
+The bromine atom affects the core level transition energies as 
+well. Previous studies have shown that15 the 1s orbital of the carbon 
+atom (C) nearest to the bromine atom is shifted to higher binding 
+energy by about 1.1 eV relative to the 1s orbitals of the other 
+carbons (C), as shown in the orbital diagram of BrBz in Figure 1.
+
+
+---
+
+Description:
+A ring-shaped molecule with lower symmetry affecting orbital splitting.
+
+Text:
+The splitting of the other 1sC orbitals due to lower symmetry of the 
+benzene ring is much smaller.15 The different electron distribution 
+in the valence and core levels due to bromine attachment leads to 
+several changes in the xray spectrum of neutral BrBz compared to

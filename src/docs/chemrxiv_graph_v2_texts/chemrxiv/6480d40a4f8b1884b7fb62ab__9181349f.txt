@@ -1,0 +1,13 @@
+Description:
+Small adsorbate with simple monodentate binding motives on ideal metal surfaces.
+
+Text:
+The adsorption energies of key reactants are the most commonly used descrip
+tors for the activity of heterogeneous catalysts, and thus play an important role
+in understanding and designing catalysts.1, 2 In the case of small adsorbates
+(e.g. OHx, CHx, NHx) and ideal metal surfaces, adsorption energies are rela
+tively straightforward to calculate with rstprinciples methods. In this case,
+the adsorbates feature simple monodentate binding motives and the number
+of symmetry inequivalent surface sites on lowindex crystalline facets is small. Indeed, one can even benet from simple linear scaling relations to estimate
+adsorption energies across dierent surfaces.3
+The situation is dierent when larger reactants are involved in the process.

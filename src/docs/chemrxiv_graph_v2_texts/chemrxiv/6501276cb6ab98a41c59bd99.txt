@@ -1,0 +1,18 @@
+Description:
+Requires exclusion in triplet systems to prevent the production of reactive species that photobleach catalysts and are toxic.
+
+Text:
+Hecht showed excellent 
+azobenzene ZE isomerisation using triplet photoredox catalysts, 
+via transient photooxidation to the radical cation11 (electronrich 
+azobenzenes; e.g. AOMB, Fig 1ab) or photoreduction to the 
+radical anion12,13 (if electronpoor). This arises as the radicals 
+isomerise to their thermodynamically preferred E isomer ca. 1013 
+times faster than do the neutral forms, so a 100E population 
+accumulates after backelectron transfer. However, these systems 
+are not applicable to biology. Among the many challenges, (i) with 
+one exception,13 they are intermolecular concepts, so are unlikely to 
+work at M levels needed for biocompatible reagents; (ii) as triplet 
+systems, they require O2 exclusion to work efficiently, and with O2 
+they also produce reactive species that photobleach the catalyst and 
+are too toxic for use in biology (discussed in Supporting Note 1).

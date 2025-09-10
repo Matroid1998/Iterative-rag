@@ -1,0 +1,31 @@
+Name: Lopinavir
+Text:
+Lopinavir is a dicarboxylic acid diamide that is amphetamine is substituted on nitrogen by a (2,6-dimethylphenoxy)acetyl group and on the carbon alpha- to nitrogen by a (1S,3S)-1-hydroxy-3-{[(2S)-3-methyl-2-(2-oxotetrahydropyrimidin-1-yl)butanoyl]amino}-4-phenylbutyl group. An antiretroviral of the protease inhibitor class, it is used against HIV infections as a fixed-dose combination with another protease inhibitor, ritonavir. It has a role as an antiviral drug, a HIV protease inhibitor and an anticoronaviral agent. It is a member of amphetamines and a dicarboxylic acid diamide.
+Lopinavir is an antiretroviral protease inhibitor used in combination with other antiretrovirals in the treatment of HIV-1 infection. Lopinavir is marketed and administered exclusively in combination with [ritonavir] - this combination, first marketed by Abbott under the brand name Kaletra in 2000, is necessary due to lopinavir's poor oral bioavailability and extensive biotransformation. Ritonavir is a potent inhibitor of the enzymes responsible for lopinavir metabolism, and its co-administration "boosts" lopinavir exposure and improves antiviral activity. Like many other protease inhibitors (e.g. [saquinavir], [nelfinavir]), lopinavir is a peptidomimetic molecule - it contains a hydroxyethylene scaffold that mimics the peptide linkage typically targeted by the HIV-1 protease enzyme but which itself cannot be cleaved, thus preventing the activity of the HIV-1 protease.  Lopinavir was previously under investigation in combination with ritonavir for the treatment of COVID-19 caused by SARS-CoV-2.
+Lopinavir is a Protease Inhibitor. The mechanism of action of lopinavir is as a HIV Protease Inhibitor, and P-Glycoprotein Inhibitor, and Cytochrome P450 3A Inhibitor, and Organic Anion Transporting Polypeptide 1B1 Inhibitor.
+Lopinavir is an antiretroviral protease inhibitor used in combination with ritonavir in the therapy and prevention of human immunodeficiency virus (HIV) infection and the acquired immunodeficiency syndrome (AIDS). Lopinavir can cause transient and usually asymptomatic elevations in serum aminotransferase levels and, rarely, clinically apparent, acute liver injury. In HBV or HCV coinfected patients, highly active antiretroviral therapy with lopinavir may result of an exacerbation of the underlying chronic hepatitis B or C.
+Lopinavir is a peptidomimetic HIV protease inhibitor that retains activity against HIV protease with the Val 82 mutation. Lopinavir is less affected by binding to serum proteins than the structurally-related drug ritonavir.
+LOPINAVIR is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2000 and is indicated for hiv infection and hiv-1 infection and has 15 investigational indications.
+An HIV protease inhibitor used in a fixed-dose combination with RITONAVIR. It is also an inhibitor of CYTOCHROME P-450 CYP3A.
+Properties:safety: Irritant and Health Hazard
+smiles: CC1=C(C(=CC=C1)C)OCC(=O)N[C@@H](CC2=CC=CC=C2)[C@H](C[C@H](CC3=CC=CC=C3)NC(=O)[C@H](C(C)C)N4CCCNC4=O)O
+formula: C37H48N4O5
+chem_properties: Molecular Weight: 628.8 g/mol
+XLogP3: 5.9
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 15
+Exact Mass: 628.36247064 Da
+Monoisotopic Mass: 628.36247064 Da
+Topological Polar Surface Area: 120
+Heavy Atom Count: 46
+Formal Charge: 0
+Complexity: 940
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

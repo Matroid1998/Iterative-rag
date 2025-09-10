@@ -1,0 +1,42 @@
+Description:
+Used in aprotic liquid lithium ion electrolytes for batteries.
+
+Text:
+Technology in the modern world necessitates longlived, high charge capacity batteries for applications 
+from automobiles to pacemakers. New developments in personalized electronic devices and robotics 
+additionally demand fast charging and discharging, safe operation, and pliable geometries.1,2 In many of 
+these applications, the prevailing batteries utilize aprotic liquid lithium ion electrolytes composed of 
+lithium salts dissolved in a mixture of organic carbonate solvents.
+
+
+---
+
+Description:
+A metal that exhibits significant reactivity with volatile organic compounds in electrolyte liquids.
+
+Text:
+The electrolyte liquids are volatile 
+organic compounds; the solvent combustion during a failure event can lead to thermal runaway and 
+explosion, and these compounds can exhibit significant reactivity with lithium metal which limits their 
+use in beyondlithiumion battery designs employing lithium metal anodes.3 Also, both Li and the 
+counteranion are mobile in the conventional liquid electrolytes and the lithium transference number is 
+low, resulting in performance which is limited by internal impedance from anion polarization and side
+reaction of the anions on the electrodes. Alternative electrolytes with lower flammability and lithium transference numbers near unity (socalled 
+singleion conductors) are being researched worldwide.
+
+
+---
+
+Description:
+The cation in amphiphilic lithium salts that may serve as a model system for single-ion conducting polymer electrolytes with liquid crystalline character.
+
+Text:
+In this study, we investigate the potential of amphiphilic lithium salts as singlecomponent, solventfree 
+electrolytes. We hypothesized that these amphiphilic lithium salts may serve as a model system and 
+smallmolecule analogs of singleion conducting polymer electrolytes with liquid crystalline (LC) 
+character recently reported where the ions exist in dense ionic domains with longrange periodic 
+arrangement but there is a lack of atomicscale crystalline order in either the polymer repeat segments or 
+ion clusters.20,24,25 The chemical environment of the lithium cation in the pure amphiphilic lithium salt and 
+the corresponding ionomer with segregated ionic phases may be similar. Amphiphilic salts are known to 
+support thermotropic liquid crystalline phases with longrange order.2733 In a pure salt or single
+httpsdoi.org10.26434chemrxiv2022crzzqv2 ORCID httpsorcid.org0000000342936328 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

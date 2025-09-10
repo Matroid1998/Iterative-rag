@@ -1,0 +1,28 @@
+Description:
+An initial hit for Anaplastic Lymphoma Kinase (ALK) developed into a macrocyclic series.
+
+Text:
+This method requires little to no prior knowledge
+about the target or specific interactions other than experi
+mental density maps, representing an accessible and target
+agnostic approach to improve diverse docking applications. Results
+Experimental
+densityderived
+guidance
+improves
+pose
+prediction
+accuracy
+in
+crossdocking
+and
+redocking. We first validated performance of the density
+derived guidance by reproducing experimental ligand poses
+(i.e. redocking and crossdocking) using AutoDockGPU7. To evaluate this, we selected three targets with multiple
+ligand cocomplexes from the same set of experiments
+one determined with xray crystallography and two with
+cryoEM. The Anaplastic Lymphoma Kinase (ALK) was
+selected as the xray crystallography target. The initial
+hit Crizotinib (PF2341066)8 was further developed into a
+macrocyclic series containing Lorlatinib (PF06463922)9,10,
+for which several cocrystal structures were determined.

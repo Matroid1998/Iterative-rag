@@ -1,0 +1,13 @@
+Description:
+Used as a substrate in composite structures fabricated by chemical etching.
+
+Text:
+Various methods have been proposed to 
+improve the mechanical durabilities of SHSs. While, for example, Liu et al. used composite 
+ceramic coating to improve mechanical durability16, some soft materials are also good choices 
+for antiabrasion SHSs17. Hierarchal roughnesses are widely used to improve the hydrophobicity and durability of 
+SHS14.For example, Groten et al.10manufactured three types of photolithographically created 
+structural model surfaces (microscale structures, nanoscale structures and composite structures) 
+that were ioncouple plasmaetched to produce SHSs with improved mechanical durability. Based ontheir results, they hypothesized that the composite structures had increased mechanical 
+stability. Ou et al.15 reported similar composite structures on copper substrates, fabricated by chemical 
+etching. Then, treatment of the etched surface with 1H,1H,2H,2Hperfluorodecanethiol produced

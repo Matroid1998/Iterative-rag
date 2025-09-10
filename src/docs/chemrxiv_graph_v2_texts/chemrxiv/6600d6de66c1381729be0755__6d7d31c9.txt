@@ -1,0 +1,50 @@
+Description:
+A material used in the development of biodegradable piezoelectric sensors and biocompatible sensors for structural integrity assessment.
+
+Text:
+PolyLLactic Acid (PLLA) has attracted significant 
+attention in the field of biomaterials due to its 
+biodegradability 
+and 
+notable 
+piezoelectric 
+properties, 
+positioning it as a promising candidate for diverse 
+biomedical applications, including the development of 
+biodegradable piezoelectric sensors. Notable studies within 
+this domain have highlighted PLLAs potential in sensor 
+fabrication. Here, Yousry, Y.M. et al. Developed a Shear 
+Mode Ultrasonic Transducers derived from Flexible 
+Piezoelectric PLLA Fibers for Structural Health Monitoring 
+1. This research exemplifies PLLAs capacity for creating 
+flexible and biocompatible sensors tailored for structural 
+integrity assessment. Additionally, Curry, E.J., et al. contributed to this field by developing a Biodegradable 
+Piezoelectric Force Sensor based on PLLA 2. Their study 
+further underscores PLLAs versatility in the fabrication of 
+biocompatible sensors capable of measuring mechanical 
+forces in biomedical contexts.
+
+
+---
+
+Description:
+A material with piezoelectric properties influenced by mechanical treatments and crystalline structure, relevant for biomedical applications.
+
+Text:
+Previous studies have investigated 
+various methods to enhance PLLAs piezoelectric response, 
+contributing valuable insights into the materials behavior 
+under mechanical stimuli 2, 6. However, while these 
+studies have provided significant advancements, further 
+exploration is warranted to fully elucidate the complex 
+relationship between mechanical treatments, such as 
+controlled uniaxial drawing, and PLLAs crystalline 
+structure. This ongoing research endeavor aims to deepen our 
+understanding of PLLAs piezoelectric properties and their 
+modulation for biomedical applications 1, 2. This study seeks to address the following questions How 
+do different mechanical treatments, particularly controlled 
+uniaxial drawing, affect the crystalline structure and 
+piezoelectric properties of PLLA films? What insights can be 
+gained from Terahertz TimeDomain Spectroscopy (THz
+TDS) regarding the molecular dynamics and structural 
+alterations induced by mechanical stretching?

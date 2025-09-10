@@ -1,0 +1,32 @@
+Description:
+Used as a masking material for the etching of silica.
+
+Text:
+16, 17 Wet etching
+based on dilute ammonium fluoride solutions has also been used to tune the thickness of oriented
+mesoporous silica films. 18 However, dry etching methods require expensive instruments and
+highselectivity masking materials. Masking materials such as chromium (Cr) 19, photoresists,
+polysilicon, amorphous silicon, aluminum, silicon nitride, and chromiumgold (CrAu) 20 have
+been reported for the etching of silica. These are typically patterned on the substrate using standard
+lithography techniques. Metalpolymeric nanoparticles (NPs) could replace these masking materials
+for the etching process. A combination of solidstate dewetting and annealing of thin metallic films
+on the silica surfaces resulted in the deposition of different metal NPs which acts as an etchant
+mask.
+
+
+---
+
+Description:
+Nanostructures are fabricated through metal-assisted etching.
+
+Text:
+22,23
+Super hydrophilic transparent nanopillar structures on silica have been fabricated via the
+combination of nanosphere lithography and plasma etching which has been shown to prevent
+bacterial growth on the surfaces. 24 Silicon nanostructures were fabricated through metalassisted
+etching in which a thin layer of metal such as Au, Ag, Cu, and Pt, deposited on the Si surface,
+catalyzed the etching of Si in various mixtures of hydrofluoric acid (HF)oxidantsolvent. 2528
+Expensive requirements such as vacuum, plasma generation, or ion optics are inevitable in dry
+etching and sidewall damage is an undesirable effect associated with it. 26 Therefore, wet chemical
+etching is considered a less expensive method to fabricate surface structures at higher etch rates on
+planes of different orientations.

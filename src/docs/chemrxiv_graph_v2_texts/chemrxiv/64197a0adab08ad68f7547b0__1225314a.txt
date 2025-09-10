@@ -1,0 +1,13 @@
+Description:
+Trivalent compounds used as signal amplifiers in molecular approaches.
+
+Text:
+To realize this, we developed a new molecular approach for signal amplification in 
+aqueous buffer by using allylic substitution of electron deficient allyl acetates with trivalent 
+phosphines as signal amplifiers. This amplifier contains an inactive phosphorous moiety and 
+an electrophilic double bond, which enables nucleophiletriggered substitution, converting the 
+amplifier into a neutral phosphine species. This strategy enables (i) control over disulfide 
+redox chemistry by using the signal responsive allylic phosphonium ion, capable of direct thiol
+analyte recognition and corresponding release of a phosphine species; (ii) coupling of this 
+chemistry to a macroscopic response of a crosslinked hydrogel. Upon signal detection, the 
+gels undergo physical degradation through chemical cascade reactions within the gel matrix.

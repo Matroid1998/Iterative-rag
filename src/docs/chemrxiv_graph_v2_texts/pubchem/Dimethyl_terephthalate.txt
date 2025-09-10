@@ -1,0 +1,27 @@
+Name: Dimethyl terephthalate
+Text:
+Dimethyl terephthalate appears as white solid or heated colorless liquid. Has no odor. Liquid solidifies in cool water. Solid and liquid sink in water. (USCG, 1999)
+Dimethyl terephthalate is a diester resulting from the formal condensation of the carboxy groups of terephthalic acid with methanol. It is a primary ingredient widely used in the manufacture of polyesters and industrial plastics. It is a methyl ester, a diester and a phthalate ester. It is functionally related to a terephthalic acid.
+Dimethyl terephthalate has been reported in Abies pindrow, Uncaria elliptica, and other organisms with data available.
+Properties:safety: Irritant
+smiles: COC(=O)C1=CC=C(C=C1)C(=O)OC
+formula: C10H10O4
+chem_properties: Molecular Weight: 194.18 g/mol
+XLogP3: 2.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 4
+Exact Mass: 194.05790880 Da
+Monoisotopic Mass: 194.05790880 Da
+Topological Polar Surface Area: 52.6
+Heavy Atom Count: 14
+Formal Charge: 0
+Complexity: 192
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

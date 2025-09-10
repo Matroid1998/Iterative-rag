@@ -1,0 +1,16 @@
+Description:
+Forms vacancies in ZnO that can have neutral or +2 charge states depending on the electron reservoir.
+
+Text:
+A
+famous example of this is the oxygen vacancy (VO) in ZnO, where
+computational studies310 and EPR experiments11 have asserted
+that the charge state is neutral (i.e., V0
+O) when EF is near the
+conduction band minimum, and the charge state is 2 (i.e. V2
+O )
+when EF is near the valence band maximum. The charge state(s) of a point defect can be understood from
+the exchanging of electrons between the defective region and an
+electron reservoir.2,12 For a hypothetical IIVI compound AB as
+illustrated in Figure 1, the creation of a B vacancy (VB) for exam
+ple leaves 2 electrons remaining, since B has 6 valence electrons.

@@ -1,0 +1,11 @@
+Description:
+Porous materials used in applications such as gas storage, separations, catalysis, and sensing.
+
+Text:
+Porous materials are employed in many applications, such as gas storage,1 separations,2
+catalysis,3,4 and sensing.5,6 For many years, the porous materials research and development
+community was dominated by activated carbons and zeolites, but over the last two decades
+the eld has expanded grown enormously thanks to the discovery of porous metalorganic
+frameworks (MOFs),7 and covalent organic frameworks (COFs).810 In this work, we are
+interested in the gas adsorption properties of MOFs crystalline frameworks constructed
+from metal nodes and organic linkers.

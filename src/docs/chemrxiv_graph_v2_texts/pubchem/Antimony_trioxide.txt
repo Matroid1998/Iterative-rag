@@ -1,0 +1,27 @@
+Name: Antimony trioxide
+Text:
+Antimony Oxide (Antimony trioxide) can cause cancer according to The World Health Organization's International Agency for Research on Cancer (IARC).
+Antimony trioxide is a white crystalline solid. It is insoluble in water. The primary hazard is the threat to the environment. Immediate steps should be taken to limit its spread to the environment. It is used to fireproof fabrics, paper and plastics, as a paint pigment and for many other uses.
+Senarmontite is a mineral with formula of Sb3+2O3 or Sb2O3. The IMA symbol is Sen.
+Valentinite is a mineral with formula of Sb3+2O3 or Sb2O3. The corresponding IMA (International Mineralogical Association) number is IMA1980 s.p.. The IMA symbol is Vln.
+Properties:safety: Health Hazard
+smiles: [O-2].[O-2].[O-2].[Sb+3].[Sb+3]
+formula: O3Sb2
+chem_properties: Molecular Weight: 291.52 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 291.79277 Da
+Monoisotopic Mass: 289.79237 Da
+Topological Polar Surface Area: 3
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 5
+Compound Is Canonicalized: Yes 
+

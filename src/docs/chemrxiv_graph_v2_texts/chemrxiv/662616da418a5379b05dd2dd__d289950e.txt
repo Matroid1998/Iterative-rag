@@ -1,0 +1,15 @@
+Description:
+Atoms that form layers with transition metal atoms in transition metal dichalcogenides.
+
+Text:
+In recent time, these twodimensional (2D) materials have fascinated noteworthy attention
+because of their distinctive properties and potential functionalities in various fields, including
+electronics, photonics, and energy storage 14. Among these 2D materials, transition metal
+dichalcogenides (TMDs) have appeared as favorable candidates due to their tunable bandgaps,
+excellent mechanical properties, and high carrier mobility. TMDs consist of a layered structure
+where transition metal atoms are sandwiched between chalcogen atoms. This layered
+arrangement gives rise to weak van der Waals (vdW) forces between adjacent layers, making
+vdW interactions crucial for accurately describing their structural, electronic, and optical
+properties 510. In case of simulation, density functional theory (DFT) has become the method of choice for
+investigating the properties of TMDs due to its computational efficiency and reasonable
+accuracy.

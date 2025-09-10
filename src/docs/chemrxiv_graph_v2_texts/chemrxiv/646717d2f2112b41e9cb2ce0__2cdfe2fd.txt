@@ -1,0 +1,39 @@
+Description:
+The best catalyst for the oxygen reduction reaction (ORR) with moderate adsorption energy for oxygenated species.
+
+Text:
+Pt is the best catalyst for oxygen reduction reaction (ORR).13 It can be explained by the well
+known Sabatier Principle for catalysis the binding energy between the reactant and the catalyst 
+should be neither too strong nor too weak. It should be strong enough so that the bonds in the 
+reactant are activated, but not too strong to block the subsequent desorption of products.45 For 
+ORR, this principle can be expressed as a volcano curve, obtained by plotting the ORR catalytic 
+activity against the adsorption energy of oxygenated species calculated by density functional 
+theory (DFT).6 Among metal catalysts, Pt indeed occupies the central position, with moderate 
+adsorption energy for oxygenated species and the highest catalytic activity, which is consistent 
+with the Sabatier Principle.
+
+
+---
+
+Description:
+A catalyst for ORR with optimal performance in fuel cells.
+
+Text:
+Much of the current search for a better catalyst for ORR, which is one 
+of the key challenges in fuel cell technology, relies on this principle, with efforts directed at either 
+lowering the content of the expensive Pt or finding materials with binding energy of oxygenated 
+species close to the center of the ORR volcano curve.2, 5, 7 
+In contrast, Au has been cited as an example of unfavorable catalytic activity for ORR, as the 
+adsorption energies of oxygenated species are weak, putting Au near the volcanos foothill.6 It 
+explains the experimental observations that ORR on Au electrodes generally goes through the 2e 
+pathway, leading to the formation of H2O2 or OOH depending on the pH, which is less efficient 
+for producing current than the 4e pathway on Pt catalysts.815 However, when the electrode 
+potential is above 0.7 V (RHE) in alkaline solution, the ORR on Au(100) becomes a 4e process, 
+and in fact the current is slightly better than that on Pt(111).89, 16 While this has been observed 
+only on Au(100) within a narrow potential window (0.71.0 V RHE), it does fall into an important 
+range for the optimal performance of fuel cells and pose a challenge to the Sabatier Principle and 
+the ORR volcano plot.17 
+A number of factors have been suggested, such as the presence of either OH or OOH,1213 
+the promotion effects of H2O solvent,1718 or the disproportionation of HOO.19 The formation of 
+OOH in the presence of H2O18 and the stability of OOH in the presence of OH20 have been 
+examined by DFT calculations.

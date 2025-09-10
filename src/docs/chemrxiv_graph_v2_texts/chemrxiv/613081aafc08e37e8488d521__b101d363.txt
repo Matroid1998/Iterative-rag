@@ -1,0 +1,20 @@
+Description:
+Used in devices that graphene-based products have not yet been able to compete with.
+
+Text:
+Interest in atomically thin 2D materials skyrocketed with the 
+isolation of graphene sheets from graphite parent crystals and the 
+realisation that these sheets can be exploited in optoelectronic 
+devices.1 The extraordinarily high charge carrier mobility in 
+graphene of up to 200,000 cm2 V1 s1 is a result of the changed 
+electronic structure of the atomic layer when compared to the bulk 
+material.2 The high mobility of semimetallic graphene comes at 
+the price of an absent off state that has foreclosed its application 
+in transistors.3,4 Strategies to open up graphenes bandgap 
+revolve around the introduction of heteroatoms and structural 
+defects in diffusionlimited or statistical postprocessing as well as 
+nanostructuring.57 However, none of these methods are 
+scalable and they do not yield products able to compete with 
+silicon based devices to date.8 
+Crystalline organic 2D materials that contain predictable 
+deletions (i.e.

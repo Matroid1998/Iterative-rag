@@ -1,0 +1,66 @@
+Description:
+Used in the interaction with activated derivatives of N-protected amino acids for AADDK preparation.
+
+Text:
+Despite the existing alternative approaches to 
+preparation of AADDKs emerged in the literature, 1,2,13 inter
+action of activated derivatives of Nprotected amino acids 
+with diazomethane still remains the most efficient 
+method.14 However, high toxicity and explosiveness of 
+CH2N2 strongly limit both availability and utility of the 
+AADDKs even in mediumscale laboratory syntheses.
+
+
+---
+
+Description:
+Has an enthalpy of decomposition of approximately 5450 kJ/kg, comparable to modern explosives.
+
+Text:
+In 
+particular, the enthalpy of decomposition of diazomethane 
+amounts to ca 5450 kJkg15 and is comparable with mod
+ern explosives (RDX 6125 kJkg).16 Previously, the CH2N2 
+based transformations both in laboratory and industry 
+were performed via the safer trimethylsilylderivative 
+Me3SiCHN2, but in 2011, after the 2008s lethal case, the use 
+of this reagent was also significantly limited.17 In recent 
+years, CH2N2 and other nonstabilized diazo compounds, are 
+experiencing a renaissance due to achievements in flow 
+technology.18 In fact, the discovery of HIV protease inhibi
+tors 
+nelfinavir, 
+amprenavir, 
+atazanavir, 
+palinanavir, 
+saquinavir and darunavir has given an impulse to adapta
+tion of the diazomethanebased syntheses to industrial rou
+tines, as chiral aminoalcohol moieties in their structure can 
+be introduced via AADDK derivatives (Figure 1, B and C).19 
+In addition, a similar chiral fragment has been used recently 
+in the design of 3CL protease inhibitor of SARS CoV2.20 
+The first attempts of industrial AADDK synthesis have 
+been made by Phoenix Chemicals Ltd in 2002.21 A pilot 
+semiflow reactor for the CH2N2 generation from Diazald 
+(NmethylN(ptolylsulfonyl)nitrosamide) has been devel
+oped with the purpose to avoid the worstcase scenario the 
+explosion of diazomethane.
+
+
+---
+
+Description:
+Provided as a water solution suitable for water-tolerant reactions.
+
+Text:
+The productivity of the system 
+has reached up to 90 g of CH2N2 per hour (2.1 molh). In 
+2008, Chemtec Leuna also proposed a microreactor based 
+on the generation of CH2N2 from Diazald.22 Corning Inc. has 
+designed a reactor with the productivity up to 0.8 molh us
+ing NmethylNnitrosourea (MNU) as CH2N2 source.23 An
+other low productivity (0.1 molh ) flow reactor for diazo
+methane preparation from MNU has been presented in 
+2016.24 However, all the above setups have provided a wa
+ter solution of diazomethane (a wet technology), suitable 
+only for watertolerant reactions. httpsdoi.org10.26434chemrxiv2023926vf ORCID httpsorcid.org0000000342818268 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

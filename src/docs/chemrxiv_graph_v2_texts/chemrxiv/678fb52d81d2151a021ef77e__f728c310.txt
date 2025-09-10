@@ -1,0 +1,17 @@
+Description:
+An anode material where first cycle losses are generally attributed to solid electrolyte interphase formation.
+
+Text:
+Cracking in polycrystalline cathode materials has been considered detrimental to cell 
+performance as it exposes fresh surfaces to electrolyte, reduces effective ionic and electronic 
+conduction pathways, and can facilitate the formation of inactive regions over time.1,2 
+Cracking has traditionally been attributed to unit cell anisotropic volumetric hysteresis after 
+extended cycling, as studies often observe cracking in discharged materials typically after 
+many cycles.3 However, recent findings suggest that high voltages in the first cycle can also 
+induce immediate intergranular cracking, initiating degradation pathways before ageing 
+begins.35 This phenomenon may reduce early cycle performance by exposing fresh surfaces 
+to parasitic reactions with the electrolyte, however, first cycle losses are generally attributed 
+to solid electrolyte interphase (SEI) on the graphite anode, and therefore cracking present in 
+early cycles may not be catastrophic to cell performance initially.2 Additionally, oxygen 
+release can coincide with crystallographic reconstruction into an inactive reduced surface 
+layer, and eventually a rocksalt (Fm3m) phase.610

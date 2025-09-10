@@ -1,0 +1,48 @@
+Description:
+The origin of the word aromaticity that conforms perfectly to the Hückel's (4n + 2) electrons rule.
+
+Text:
+The aromaticity of cyclic molecules is one of the most frequently mentioned 
+properties in modern organic chemistry, and numerous studies have long been 
+conducted on it.1,2 Aromaticity is not a property that can be observed experimentally, 
+and there is no strict physical definition.3 Chemists commonly explore molecular 
+aromaticity through a variety of indicators proposed based on different physical ideas 
+or empirical rules. Electron counting rules were first used to assign aromaticity 
+character in  conjugated systems, the most important being Hckels rule which 
+suggests that planar molecules with (4n  2)4n electrons are aromaticantiaromatic. Benzene (C6H6) is the origin of the word aromaticity that conforms perfectly to the 
+Hckels (4n  2) electrons rule.
+
+
+---
+
+Description:
+An aromatic hydrocarbon with a ring structure and 6 electrons.
+
+Text:
+B and N are elements in the periodic table adjacent to C. The substitution of each 
+two C atoms in benzene by a pair of B and N atoms obtains an isoelectronic analogue 
+of benzene. These isoelectronic molecules have the same 6 electrons as benzene, 
+suggesting that, according to the Hckels rule, they should all be aromatic. However, 
+the fact is not so simple. As early as 1926, Stock et al.4 succeeded in experimentally synthesizing an 
+isoelectronic species of benzene, B3N3H6, named borazine and popularly known as 
+inorganic benzene, which is formally a product of the complete substitution of the CC 
+unit of benzene by BN, as shown in Scheme 1.
+
+
+---
+
+Description:
+Investigated for aromaticity through introduction of heteroatoms.
+
+Text:
+Inspired by this synthesis experiment, 
+extensive research has been conducted on the aromaticity of borazine, but the 
+conclusions are inconsistent. For examples, Iwaki and Udagawa5 investigated the effect 
+of the introduction of heteroatoms into the benzene on the aromaticity through index of 
+deviation from aromaticity (IDA),6 nucleusindependent chemical shift (NICS),7 and 
+harmonic oscillator model of aromaticity (HOMA)8 methods, and the borazine is 
+accordingly proposed to be antiaromatic, nonaromatic, and aromatic, respectively; 
+Schleyer et al.,9 after calculating the NICS values separated into the NICS() and 
+NICS() contributions, stated that the borazine is not aromatic due to the strong polarity 
+of BN bond, similar to the conclusion drawn by Jemmis et al.10 through magnetic 
+httpsdoi.org10.26434chemrxiv2024g3x14v2 ORCID httpsorcid.org0000000270791907 Content not peerreviewed by ChemRxiv. License CC BY 4.0

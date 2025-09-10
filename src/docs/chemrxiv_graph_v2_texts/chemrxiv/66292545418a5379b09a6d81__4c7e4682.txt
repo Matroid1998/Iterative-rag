@@ -1,0 +1,36 @@
+Description:
+Has a nucleophilic sidechain used in Cys-selective reactions.
+
+Text:
+Cyclisation via amide bond formation has 
+been applied using both synthetic methods (peptide ligation11
+13) and biological approaches exploiting intein chemistry (e.g., 
+SICLOPPS14, 15), mRNA display,10 and ligase enzymes.16 Due to 
+the nucleophilicity of the thiol sidechain, numerous Cys
+selective reactions (beyond disulfide and thioether formation) 
+have been developedrepurposed for peptide cyclisation.
+
+
+---
+
+Description:
+Coordinates to bismuth and participates in addition chemistry.
+
+Text:
+These 
+include the formation of bicycles17 via alkylating scaffolds,1821 
+bridging Cys residues using perfluoroaryl bracesfluorine 
+displacement22, 23 (and alternative bridging groups24, 25), thiol 
+coordination to bismuth,26 thioladdition chemistry,27, 28 and 
+desulfurative replacement of a disulfide bridge.29 Incorporation 
+of nonstandard amino acids enables the exploitation of 
+chemoselective (bioorthogonal) chemistry such as azidealkyne 
+cycloaddition30, 31 (i.e., Click Chemistry), Staudinger ligation32 
+and azidephosphonite chemistry.33 Simple imine34 and oxime35 
+bond formation has been utilized, as well as more complex 
+transition metal (TM)catalyzed3641 and multicomponent 
+chemistry.42 Radical reactions such as thiolene4345 and, more 
+recently, decarboxylative photoredox catalysis46 and CH 
+alkylation47 have also been successfully applied. Among this 
+broad range of available synthetic techniques, Grubbs 
+ruthenium (Ru)catalyzed ringclosing olefin metathesis (RCM)48

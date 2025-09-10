@@ -1,0 +1,26 @@
+Name: Boron trifluoride
+Text:
+Boron trifluoride is a colorless gas with a pungent odor. It is toxic by inhalation. It is soluble in water and slowly hydrolyzed by cold water to give off hydrofluoric acid, a corrosive material. Its vapors are heavier than air. Prolonged exposure of the containers to fire or heat may result in their violent rupturing and rocketing.
+Boron trifluoride is a boron fluoride. It has a role as a NMR chemical shift reference compound.
+See also: Boron trifluoride, enriched (annotation moved to).
+Properties:safety: Compressed Gas and Corrosive and Acute Toxic
+smiles: B(F)(F)F
+formula: BF3
+chem_properties: Molecular Weight: 67.81 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 68.0045147 Da
+Monoisotopic Mass: 68.0045147 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

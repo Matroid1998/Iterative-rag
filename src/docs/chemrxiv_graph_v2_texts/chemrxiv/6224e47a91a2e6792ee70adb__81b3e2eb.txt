@@ -1,0 +1,13 @@
+Description:
+Involved in photosensitization, where it transitions from a triplet state to a singlet state, a process used in organic synthesis, photovoltaics, and photodynamic therapy.
+
+Text:
+Photosensitization is a light mediated physical reaction, where the molecule irradiated with
+light is not the nal target of electronic excitation. Here, a photosensitizer (PS), is photoexcited
+and then transfers its excitation energy to the target molecule, leading to its excitation, while the
+PS returns to its ground state. A common target of photosensitization is the oxygen molecule since
+direct photoexcitation from its ground triplet state, 3O2, to its singlet state, 1O2, is spinforbidden,
+and this reaction (Eq. 1) is the focus of this study. 3PS3 O21PS1 O2
+(1)
+Photosensitization of O2 is widely made use of in organic synthesis 15, photovoltaics 6,
+and is also a key step in photodynamic therapy 79.

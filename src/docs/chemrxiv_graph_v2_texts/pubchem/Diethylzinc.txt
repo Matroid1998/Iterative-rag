@@ -1,0 +1,26 @@
+Name: Diethylzinc
+Text:
+Diethylzinc is a pyrophoric liquid with a garlic-like odor. It is stable when it is shipped in sealed tubes with carbon dioxide. It may decompose violently in water and ignite spontaneously with air. It is toxic by ingestion. If exposed to heat or flame, containers of this material may explode. It is used as an aircraft fuel.
+Diethylzinc is a dialkylzinc compound.
+Diethylzinc is an organozinc compound. It is used as a reagent in organic chemistry and in liquid rocket fuel. Zinc is a metallic element with the atomic number 30. It is found in nature most often as the mineral sphalerite. Though excess zinc in harmful, in smaller amounts it is an essential element for life, as it is a cofactor for over 300 enzymes and is found in just as many transcription factors. (L48, L49, L82)
+Properties:safety: Flammable and Corrosive and Environmental Hazard
+smiles: C[CH2-].C[CH2-].[Zn+2]
+formula: C4H10Zn
+chem_properties: Molecular Weight: 123.5 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 122.007392 Da
+Monoisotopic Mass: 122.007392 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 3.6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

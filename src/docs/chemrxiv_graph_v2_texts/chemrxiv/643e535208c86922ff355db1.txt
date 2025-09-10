@@ -1,0 +1,20 @@
+Description:
+An immunomodulatory drug that acts as a CRBN recruiter and can promote the degradation of lymphoid transcription factors.
+
+Text:
+ignited a transformative 
+process in drug discovery towards the development of proximityinduced pharmacology as a 
+new therapeutic modality.1,2 The potential and benefits of targeted protein degradation (TPD) 
+as a cuttingedge paradigm are thoroughly demonstrated by molecular glues (MGs) and 
+proteolysistargeting chimeras (PROTACs).3,4 Nowadays, the E3 ligase substrate receptor 
+cereblon (CRBN), thalidomides primary target,1,5 is of particular importance in the fields of 
+MGs and PROTACs.6,7 The immunomodulatory drugs (IMiDs) thalidomide (1, Figure 1), 
+pomalidomide (2), lenalidomide (3), and avadomide (4) represent classical CRBN recruiters 
+that are frequently exploited for PROTAC design.2,6,8 One feature, but also a potential caveat 
+of this class of ligase binders is their potential to promote the degradation of lymphoid 
+transcription factors such as IKZF1, IKZF3, and SALL4, the latter being responsible for severe 
+teratogenicity caused by thalidomide analogs.913 Furthermore, the typical IMiD scaffolds are 
+prone to hydrolytic and enzymatic degradation, rendering them less attractive for 
+pharmacological intervention.1416 
+These observations led to the development of a series of new CRBN binders that could 
+potentially overcome the limitations above.

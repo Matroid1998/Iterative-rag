@@ -1,0 +1,13 @@
+Description:
+Involved in the hydrogen oxidation reaction (HOR) at the anode of hydroxide exchange membrane fuel cells (HEMFCs).
+
+Text:
+Hydroxide exchange membrane fuel cell (HEMFC) is an emerging technology for renewable 
+electricity generation 1,2. The current stateoftheart HEMFCs already have comparable 
+performance to the more established proton exchange membrane fuel cells (PEMFCs). However, 
+these HEMFCs require a very high platinumgroupmetal (PGM) loading to catalyze the hydrogen 
+oxidation reaction (HOR) at the anode 3,4, which is costprohibitive. The development of active 
+HOR catalysts with low PGM loading is, thus, a critical step towards the implementation of 
+HEMFCs. To improve the activity of PGMbased HOR catalysts, strategies including optimizing 
+the binding energies of reaction intermediates (e.g., Hads or OHads) through modulation of 
+electronic structures (i.e., d band centers) and bifunctional catalysis have been applied.

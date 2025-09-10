@@ -1,0 +1,18 @@
+Description:
+A reactive species monitored using activity-based sensing probes.
+
+Text:
+This property is of particular interest to 
+the imaging community because dyes suitable for in vivo ap
+plications are often large, hydrophobic, and exhibit poor 
+solubility.910 
+Our group and others have contributed to the develop
+ment of activitybased sensing (ABS) probes designed to 
+monitor cancer biomarkers such as hypoxia,1114 reactive 
+oxygen and nitrogen species,1521 enzymes,2229 and thiols30
+31 via photoacoustic (PA) imaging.3233 This modality is best 
+described as a lightin, sound out approach in which ab
+sorbed light is converted to ultrasound via the PA effect.34
+35 Because sound can readily propagate through tissue, it is 
+possible to obtain high resolution images in deep regions of 
+the body.

@@ -1,0 +1,14 @@
+Description:
+Heavy atom effect leads to large intersystem crossing rates in Ru complexes, forming triplet excited states quickly after photoexcitation.
+
+Text:
+In homoleptic Rupolypyridyl complexes, polarizationdependent experiments have shown that 
+the excited electron in the initial FranckCondon state is delocalized over all ligands.5 However, 
+the interactions of the chromophore with solvent molecules leads to rapid decoherence and 
+localization of the electronic density on one of the ligands. Due to the Ru heavyatom effect, 
+intersystemcrossing rates in Rucomplexes are large and the triplet excited states are often formed 
+within the first hundred femtoseconds after photoexcitation. The complexes with lowestenergy 
+3MLCT states tend to have long excitedstate lifetimes and decent photostability, while the 
+presence of closelying MC states generally shortens the lifetimes and leads to ligand dissociation
+based photochemistry.2 As the ligand conjugation is increased, the longlived triplet LC states tend 
+to dominate the photophysical behavior of Rupolypyridyl complexes.6,7

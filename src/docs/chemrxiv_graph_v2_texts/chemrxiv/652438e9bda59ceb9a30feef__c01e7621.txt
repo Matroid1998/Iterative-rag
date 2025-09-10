@@ -1,0 +1,49 @@
+Description:
+A ubiquitous and important class of ligands in organometallic chemistry affecting coordination, thermodynamic stability, and reactivity of transition metal complexes.
+
+Text:
+Phosphines represent a ubiquitous and extremely important class of ligands in organometallic 
+chemistry, and their donor properties greatly affect the coordination, thermodynamic stability, and 
+reactivity of transition metal complexes. Phosphines have been shown to significantly modulate the 
+reactivity of many organometallic catalyzed reactions, such as hydroformylation,13 crosscoupling,49 and 
+hydrogenation.10, 11 To develop new organometallic catalytic reactions where stability and reactivity is 
+modulated by phosphines it would be desirable to have extremely fast methods to calculate and explore 
+phosphine properties. In this general effort, Gensch, Sigman, and AspuruGuzik recently reported the 
+Kraken database that consists of over 300,000 mostly hypothetical phosphine ligands created based on a 
+combination of experimentally known phosphines.12 Along with structures, Kraken contains several 
+calculated steric and electronic descriptors.
+
+
+---
+
+Description:
+Modulate the reactivity of organometallic catalyzed reactions such as hydroformylation, cross-coupling, and hydrogenation.
+
+Text:
+Phosphines represent a ubiquitous and extremely important class of ligands in organometallic 
+chemistry, and their donor properties greatly affect the coordination, thermodynamic stability, and 
+reactivity of transition metal complexes. Phosphines have been shown to significantly modulate the 
+reactivity of many organometallic catalyzed reactions, such as hydroformylation,13 crosscoupling,49 and 
+hydrogenation.10, 11 To develop new organometallic catalytic reactions where stability and reactivity is 
+modulated by phosphines it would be desirable to have extremely fast methods to calculate and explore 
+phosphine properties. In this general effort, Gensch, Sigman, and AspuruGuzik recently reported the 
+Kraken database that consists of over 300,000 mostly hypothetical phosphine ligands created based on a 
+combination of experimentally known phosphines.12 Along with structures, Kraken contains several 
+calculated steric and electronic descriptors.
+
+
+---
+
+Description:
+Ligands whose donor capacity is compared using the Tolman electronic parameter (TEP).
+
+Text:
+Fey has demonstrated and popularized the utility of ligand 
+descriptors and properties to evaluate possible catalytic activity.1321 
+One major chemical descriptor that has been used for several decades to compare the donor 
+capacity of phosphines is the Tolman electronic parameter (TEP). The TEP is a very sensitive measure of 
+a ligands electron donating or electron withdrawing capacity with only minor influence from steric and 
+dispersion type effects.2224 Typically, a Tolman electronic parameter is measured by the A1 symmetric 
+carbonyl stretching frequency for an LNi0(CO)3 complex, where L is the ligand of interest. Figure 1 
+displays a 3dimensional representation of (CH3)3PNi0(CO)3 with a depiction of the A1 symmetric carbonyl 
+stretch.

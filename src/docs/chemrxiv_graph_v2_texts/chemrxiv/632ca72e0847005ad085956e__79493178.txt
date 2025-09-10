@@ -1,0 +1,19 @@
+Description:
+An argyrodite solid electrolyte that decomposes at the interface with Li-metal anode.
+
+Text:
+SSBs require mate
+rials that meet several performance metrics,7 and remain lim
+ited by the thermodynamic instability of electrodeelectrolyte in
+terfaces.8,9 For instance, wellknown solid electrolytes such as
+Li10GeP2S12, Li6PS5Cl (argyrodite), and Li7La3Zr2O12 decompose
+at the interface with Limetal anode forming solidelectrolyte in
+terphases that are difficult to control and cause performance
+degradation.10,11 Therefore, further improvements to SSB design
+require searching for new materials that are stable at suitable re
+duction and oxidation potentials. A central problem in using machine learning (ML) methods to
+accelerate the search for novel crystal structures is finding struc
+tures that are thermodynamically stable, i.e., stable against de
+composition into competing phases. Compositional models are
+not sufficiently accurate to reliably predict thermodynamic sta
+aNational Renewable Energy Laboratory, Golden, CO 80401, USA.

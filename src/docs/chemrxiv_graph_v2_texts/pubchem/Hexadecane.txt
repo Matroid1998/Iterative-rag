@@ -1,0 +1,27 @@
+Name: Hexadecane
+Text:
+N-hexadecane is a colorless liquid. (NTP, 1992)
+Hexadecane is a straight-chain alkane with 16 carbon atoms. It is a component of essential oil isolated from long pepper. It has a role as a plant metabolite, a volatile oil component and a non-polar solvent.
+Hexadecane has been reported in Camellia sinensis, Vanilla madagascariensis, and other organisms with data available.
+Properties:safety: Health Hazard
+smiles: CCCCCCCCCCCCCCCC
+formula: C16H34
+chem_properties: Molecular Weight: 226.44 g/mol
+XLogP3: 8.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 13
+Exact Mass: 226.266051085 Da
+Monoisotopic Mass: 226.266051085 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 16
+Formal Charge: 0
+Complexity: 92.6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,14 @@
+Description:
+An activation reagent used with PyAOP to effectively forge macrocycles.
+
+Text:
+After screening a variety 
+of activation reagents, the combination of PyAOP with HOAt was 
+found to be the most effective conditions under which to forge the 
+macrocycle to yield 4 in 54 yield over two steps. The aziridinebased strategy outlined above could be leveraged 
+again to forge the tryptophanasparagine linkage. Thus, western 
+fragment 3 was prepared by employing 2methyl furan as a 
+nucleophile onto aziridine 7. The use of 2methylfuran as a masked 
+primary amide provided several advantages, notably avoiding 
+undesired side reactions such as epimerization of the bcarbon and 
+imide formation during carboxylic acid activation.

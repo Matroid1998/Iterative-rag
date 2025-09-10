@@ -1,0 +1,11 @@
+Description:
+An inorganic compound present in the inner layer of the solid electrolyte interphase in lithium-ion batteries.
+
+Text:
+The solid electrolyte interphase (SEI) is a thin passivating layer formed at the anodeelectrolyte 
+interface in lithiumion batteries as a result of the decomposition of the electrolyte by electrons 
+from the anode14. Experimental studies were able to identify a multilayered structure with an 
+inorganic inner layer near the electrodeSEI interface (Li2CO3, LiF, and Li2O), and an organic 
+outer layer near the SEIelectrolyte interface consisting of alkyl carbonate, polymers, etc.15. However, due to the limitation of the experimental techniques, it is challenging to investigate 
+other properties of the SEI like thermodynamics and kinetics of it its formation and growth1
+3,5,6. Computational models have emerged to better understand the SEI formation and growth.

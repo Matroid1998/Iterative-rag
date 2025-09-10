@@ -1,0 +1,16 @@
+Description:
+A chemical structure shared by brodifacoum, warfarine, coumatetralyl, bromadiolone, difenacoum, difethialone, and flocoumafen.
+
+Text:
+The here named evolutionary docking belongs to selfsupervised 
+generation methodologies that bypass the screening of large chemical data banks 
+to detect new protein ligands. In the present particular case, evolutionary docking 
+was used to augment the repertoire of specific ligands by targeting a defined 
+dockingcavity. Specificity was theoretically increased by adding low molecular 
+weight and hydrophobic criteria aiming to reduce offtarget effects. The 
+brodifacoum chemotype was selected as the initial parent molecule from which 
+randomly generate multiple children derivatives, because is among the most potent 
+rodenticides due to its highly hydrophobic tail (LogP  8.0, penetrating the 
+VKORC1 binding central cavity). Additionally, the brodifacoum chemotype shares 
+hydroxycoumarin heads similarly common to warfarine, coumatetralyl, 
+bromadiolone, difenacoum, difethialone, and flocoumafen.

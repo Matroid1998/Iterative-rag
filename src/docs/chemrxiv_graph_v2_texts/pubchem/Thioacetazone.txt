@@ -1,0 +1,30 @@
+Name: Thioacetazone
+Text:
+Thioacetazone is a member of acetamides and an anilide.
+Amithiozone has been used in trials studying the treatment of Mycobacterium Avium-intracellulare Infection.
+Amithiozone is a thiosemicarbazone antimycobacterial agent with activity against isoniazid-resistant strains of Mycobacterium tuberculosis.
+Thioacetazone is a thiosemicarbazone prodrug with antitubercular activity. Although the exact mechanism by which thioacetazone exerts its effect has yet to be fully elucidated, this agent, upon activation by bacterial monooxygenase EtaA, appears to target and inhibit cyclopropane mycolic acid synthases (CMASs), a family of S-adenosyl-methionine-dependent methyl transferases responsible for cyclopropanation of mycolic acid. By inhibiting mycolic acid synthesis, the bacterial cell wall becomes more permeable and less resistant to injury which eventually leads to cell lysis. Mycolic acids, long-chain fatty acids, are essential mycobacterial cell wall components and play a key role in resistance to cell injury and mycobacterial virulence.
+AMITHIOZONE is a small molecule drug with a maximum clinical trial phase of II (across all indications) and has 2 investigational indications.
+A thiosemicarbazone that is used in association with other antimycobacterial agents in the initial and continuation phases of antituberculosis regimens. Thiacetazone containing regimens are less effective than the short-course regimen recommended by the International Union Against Tuberculosis and are used in some developing countries to reduce drug costs. (From Martindale, The Extra Pharmacopoeia, 30th ed, p217)
+Properties:safety: Irritant
+smiles: CC(=O)NC1=CC=C(C=C1)/C=N/NC(=S)N
+formula: C10H12N4OS
+chem_properties: Molecular Weight: 236.30 g/mol
+XLogP3: 1
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 3
+Exact Mass: 236.07318219 Da
+Monoisotopic Mass: 236.07318219 Da
+Topological Polar Surface Area: 112
+Heavy Atom Count: 16
+Formal Charge: 0
+Complexity: 285
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,26 @@
+Name: Phthalimidine
+Text:
+Isoindolin-1-one is a member of the class of isoindoles that is 2,3-dihydro-1H-isoindole in which the hydrogens at positon 1 are replaced by an oxo group. It is a member of isoindoles and a gamma-lactam.
+Isoindolin-1-one has been reported in Stachybotrys chlorohalonata with data available.
+Properties:safety: Irritant
+smiles: C1C2=CC=CC=C2C(=O)N1
+formula: C8H7NO
+chem_properties: Molecular Weight: 133.15 g/mol
+XLogP3: 0.8
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 133.052763847 Da
+Monoisotopic Mass: 133.052763847 Da
+Topological Polar Surface Area: 29.1
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 155
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

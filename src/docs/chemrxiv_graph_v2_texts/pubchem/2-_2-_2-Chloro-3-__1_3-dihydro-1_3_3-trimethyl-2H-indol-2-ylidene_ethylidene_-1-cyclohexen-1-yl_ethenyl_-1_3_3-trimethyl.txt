@@ -1,0 +1,23 @@
+Name: 2-[2-[2-Chloro-3-[(1,3-dihydro-1,3,3-trimethyl-2H-indol-2-ylidene)ethylidene]-1-cyclohexen-1-yl]ethenyl]-1,3,3-trimethyl-3H-indolium tetrafluoroborate(1-)
+Text:
+Properties:safety: Irritant
+smiles: [B-](F)(F)(F)F.CC1(C2=CC=CC=C2[N+](=C1/C=C/C3=C(/C(=C/C=C/4\C(C5=CC=CC=C5N4C)(C)C)/CCC3)Cl)C)C
+formula: C32H36BClF4N2
+chem_properties: Molecular Weight: 570.9 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 3
+Exact Mass: 570.2596197 Da
+Monoisotopic Mass: 570.2596197 Da
+Topological Polar Surface Area: 6.3
+Heavy Atom Count: 40
+Formal Charge: 0
+Complexity: 950
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 3
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

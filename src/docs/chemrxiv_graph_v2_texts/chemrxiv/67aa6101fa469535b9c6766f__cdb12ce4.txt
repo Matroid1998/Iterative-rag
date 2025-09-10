@@ -1,0 +1,14 @@
+Description:
+Involved in SABRE for transferring nuclear spin order to enhance NMR signals.
+
+Text:
+Complexes of iridium find applications in various fields of catalysis,811 one special ap
+plication is magnetization transfer catalysis in the process termed SABRE (signal amplifi
+cation by reversible exchange).12 In SABRE, nuclear spin order of parahydrogen (pH2) is
+transferred to magnetization of target molecules via exchange that can lead to an increase in
+polarization, and, thus, to an enhancement of NMR signals by several orders of magnitude. Hyperpolarization techniques are particularly suitable in combination with benchtop NMR
+spectrometers.1315 For SABREbased hyperpolarization, polarization transfer is facilitated
+through a scalar coupling network between hydrides and nuclei in ligated target molecules
+that bind to the same polarization transfer catalyst (PTC).1618
+Our paper is centered around acetonitrile (ACN) as a target molecule of SABRE polar
+ization.

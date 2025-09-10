@@ -1,0 +1,10 @@
+Description:
+Used to adjust the lipid chain length in the procedure.
+
+Text:
+of two lipid chains while minimizing the linker structure to a 1,2,3
+triazol, compared to the bulky hydrophobic SPAAC linker variants. To obtain the ADC lipid, we 
+performed a transesterification from commercially available dimethylacetylenedicarboxylate and 
+stearyl alcohol in high isolated yields (Figure 1A). The two ester functionalities enable the introduction 
+of two lipid chains which remains standard for PLs used for LNP preparation. In addition, this 
+procedure allows adjusting the lipidchain length, simply by using the desired fatty alcohol. httpsdoi.org10.26434chemrxiv2024dvp75 ORCID httpsorcid.org0000000155677404 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

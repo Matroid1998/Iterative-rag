@@ -1,0 +1,41 @@
+Description:
+A greenhouse gas whose emissions can be reduced by optimizing energy efficiency.
+
+Text:
+The concentration of greenhouse gases such as carbon dioxide (CO2) and methane (CH4) in the 
+Earths atmosphere are continuously increasing, being the main cause of global warming and 
+climate change.1 In this sense, the use of renewable energies has become a recurring topic in order 
+to reduce the emission of greenhouse gases and, at the same time, to meet the increasing worldwide 
+energy demands.2 However, such technologies are still far from coping with such needs, and other 
+options need to be considered in the meantime. Within this context, one way of reducing the CO2 emissions is optimizing the energy efficiency 
+of existing processes. For instance, removing CO2 from CH4 biogas fuel streams ensures an 
+increase in the combustion power.
+
+
+---
+
+Description:
+A chemically stable molecule present in biogas that needs to be separated from methane.
+
+Text:
+Here, the sought purity of CH4 required for its use as fuel has 
+to be higher than 95 (vv).3 However, the extracted biogas streams feature 5075 (vv) of 
+methane purity admixed with 2550 CO2,3 which makes necessary the biogas upgrading process 
+separating CO2 form CH4 prior to its use as fuel. Actually, the chemical resolution i.e., chemical separation of CO2 from CH4 is quite an 
+intricate problem, mostly due to the fact that both molecules are chemically stable, and, 
+consequently, quite inactive, ultimately complicating their selective chemical resolution.
+
+
+---
+
+Description:
+A molecule that can saturate materials like transition metal carbides and MXenes during adsorption processes.
+
+Text:
+Recently, 
+transition metal carbides (TMCs) and their twodimensional (2D) versions, MXenes, have been 
+proposed as suited materials capable of carrying out the separation of both molecules by selective 
+adsorption of CO2.4,5 Their use implies having the material eventually saturated by CO2, though, 
+so posterior regenerating processes are needed. Here, materials that allow for a continuous 
+separation without regeneration interruption steps would be better adequate. Related to the previous, 2D porous membranes are gaining some popularity for selective 
+diffusion processes. For instance, promising results have been achieved in studies on graphene

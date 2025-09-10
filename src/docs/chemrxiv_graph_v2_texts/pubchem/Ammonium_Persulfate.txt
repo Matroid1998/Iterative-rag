@@ -1,0 +1,24 @@
+Name: Ammonium Persulfate
+Text:
+Ammonium persulfate appears as a white crystalline solid. A strong oxidizing agent. Does not burn readily, but may cause spontaneous ignition of organic materials. Used as a bleaching agent and as a food preservative.
+Properties:safety: Oxidizer and Irritant and Health Hazard
+smiles: [NH4+].[NH4+].[O-]S(=O)(=O)OOS(=O)(=O)[O-]
+formula: H8N2O8S2
+chem_properties: Molecular Weight: 228.21 g/mol
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 1
+Exact Mass: 227.97220756 Da
+Monoisotopic Mass: 227.97220756 Da
+Topological Polar Surface Area: 152
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 206
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

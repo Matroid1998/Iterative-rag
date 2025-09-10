@@ -1,0 +1,43 @@
+Description:
+A class of compounds with an inverted gap between the lowest excited singlet and triplet states.
+
+Text:
+The efficiency of organic molecular emitters is limited by inter
+system crossing (ISC) into lowlying nonemissive triplet states,
+which are favored over the emissive singlet states due to spin
+statistics1,2 The triplet states are furthermore favored energeti
+cally over singlets with the same electron configuration in accor
+dance with Hunds rule, thereby making reverse ISC (RISC) less
+efficient (E(S1T1)  0, Figure 1a).3,4 Recently, it was discovered
+that the gap between the lowest excited singlet (S1) and triplet
+(T1) states of a class of azaphenalenes is inverted (E(S1T1)  0,
+Figure 1a).57 RISC is more efficient than ISC in cyclazine and
+heptazine because S1 is thermodynamically favored over T1, as
+shown in Figure 1b.79 Violations of Hunds rule can occur when
+the exchange interaction is minimized by reducing the overlap
+between the highest occupied and lowest unoccupied molecular
+orbitals (HOMO and LUMO).58 As standard density functional
+theorybased methods struggle with Hunds rule violations,6,916
+azaphenalenes were only recently identified as inverted gap emit
+ters using coupled cluster methods.57,1719
+Laboratory for Computational Molecular Design, Institute of Chemical Sciences and En
+gineering, cole Polytechnique Fedral de Lausanne (EPFL), 1015 Lausanne, Switzer
+land; Email marc.garnerepfl.ch; clemence.corminboeufepfl.ch
+ Electronic Supplementary Information (ESI) available details of any supplemen
+tary information available should be included here.
+
+
+---
+
+Description:
+Molecules with inverted singlet-triplet gaps.
+
+Text:
+See DOI 00.000000000000. These authors contributed equally to this work. Fig. 1 a) Simplifed Jablonski diagrams of conventional and inverted state
+ordering. b) Azaphenalenes and isopyrene with inverted singlettriplet
+gaps. c) Related nonalternant molecules; bicalicene is an example of a
+higherlying Hunds rule violation. Computed at the EOMCCSDaug
+ccpVDZB97XDdef2TZVP level. We recently used a highthroughput screening approach to
+uncover that the nonalternant hydrocarbon isopyrene (Figure
+Journal Name, year, vol.,19  1
+httpsdoi.org10.26434chemrxiv2023568ks ORCID httpsorcid.org0000000272708353 Content not peerreviewed by ChemRxiv. License CC BY 4.0

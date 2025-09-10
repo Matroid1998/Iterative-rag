@@ -1,0 +1,10 @@
+Description:
+An electrophile whose relative Lewis acidity can be controlled for fluoride transfer.
+
+Text:
+However, by controlling the relative Lewis acidity of the carbon and boron electrophiles 
+it is possible to effect fluoride transfer from fluoroborates to carbon electrophiles. One classic example is BF4 
+reacting as a stoichiometric fluoride source in the BalzSchiemann reaction, but this requires a highly reactive Aryl 
+electrophile.5 To expand the utility of fluoroborates in nucleophilic fluorinations it is highly desirable to (i) use sub
+stoichiometric fluoroborate and stoichiometric MF, i.e. use boranes as MF phase transfer catalysts; (ii) fluorinate 
+carbon electrophiles less reactive than e.g. Aryl.

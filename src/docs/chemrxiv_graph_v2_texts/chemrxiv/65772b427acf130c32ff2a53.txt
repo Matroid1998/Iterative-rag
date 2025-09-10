@@ -1,0 +1,23 @@
+Description:
+Can be chemically hydrogenated to produce methane in the Sabatier reaction.
+
+Text:
+Natural gas is mostly composed of methane and accounts for 25  of the primary energy 
+consumed in the world, totaling 4,038 billion m3 in 2021.1 The current extraction of natural gas 
+is primarily sourced from fossil fuels. However, efforts to transition towards more sustainable 
+productions have led to the development of alternative methods. Some companies aim to 
+reduce their carbon footprint by producing and using local, lowcarbon energy. Biogas facilities 
+employ anaerobic digestion to produce methane,2 and methane can also be produced by the 
+chemical hydrogenation of CO2 to methane (the Sabatier reaction).3 The former method relies 
+on methanogens, capable of digesting organic wastes in anaerobic conditions.4 This process 
+produces methane in a mixture with CO2, which requires further purification.
+
+
+---
+
+Description:
+A compound involved in direct hydrogenation to methane under harsh conditions.
+
+Text:
+Conversely, the 
+direct CO2 hydrogenation to methane, often demands harsh conditions (200400C, 515 bar).

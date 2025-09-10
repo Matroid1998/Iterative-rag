@@ -1,0 +1,66 @@
+Description:
+An element used in doping to enhance the properties of photocatalytic materials.
+
+Text:
+Photocatalysts 1 are materials that facilitate photoreactions under light irradiation, typically by 
+absorbing photons and generating electronhole pairs that drive chemical transformations 2. These materials are integral to various applications, including water splitting, carbon dioxide 
+reduction, and environmental remediation. In the context of hydrogen evolution reaction (HER), 
+photocatalysts absorb light and utilize the energy to drive the reduction of protons to hydrogen, a 
+clean energy carrier. The efficiency of photocatalysts in HER is heavily influenced by their 
+electronic structure, light absorption properties, and charge transfer capabilities 3. Therefore, 
+enhancing these properties through modifications, such as doping or structural design, has become 
+a focal point for improving the performance of photocatalytic materials. One approach to improving photocatalytic activity is through nitrogen doping.
+
+
+---
+
+Description:
+Introduces electron-rich sites in materials, altering electronic properties.
+
+Text:
+Nitrogen, with its 
+higher electronegativity compared to carbon, introduces electronrich sites in the structure of the 
+material, which can alter its electronic properties 4. Nitrogen doping has been shown to enhance 
+the light absorption capabilities of semiconductors, particularly in the visible light range 5. This 
+is achieved through the creation of new energy levels within the material, which lowers the band 
+gap, allowing for more efficient photon absorption. Additionally, nitrogen doping can modify the 
+charge carrier dynamics, promoting charge separation and reducing recombination rates, which 
+are crucial for improving the efficiency of photocatalysts in HER 6. These modifications 
+ultimately contribute to a materials increased photocatalytic activity under visible light. Similarly, the incorporation of oxygen into organic molecules can also influence the optical 
+properties of photocatalytic materials 7.
+
+
+---
+
+Description:
+Enhances light absorption capabilities of semiconductors in the visible light range.
+
+Text:
+Nitrogen, with its 
+higher electronegativity compared to carbon, introduces electronrich sites in the structure of the 
+material, which can alter its electronic properties 4. Nitrogen doping has been shown to enhance 
+the light absorption capabilities of semiconductors, particularly in the visible light range 5. This 
+is achieved through the creation of new energy levels within the material, which lowers the band 
+gap, allowing for more efficient photon absorption. Additionally, nitrogen doping can modify the 
+charge carrier dynamics, promoting charge separation and reducing recombination rates, which 
+are crucial for improving the efficiency of photocatalysts in HER 6. These modifications 
+ultimately contribute to a materials increased photocatalytic activity under visible light. Similarly, the incorporation of oxygen into organic molecules can also influence the optical 
+properties of photocatalytic materials 7.
+
+
+---
+
+Description:
+Modifies charge carrier dynamics, promoting charge separation and reducing recombination rates.
+
+Text:
+Nitrogen, with its 
+higher electronegativity compared to carbon, introduces electronrich sites in the structure of the 
+material, which can alter its electronic properties 4. Nitrogen doping has been shown to enhance 
+the light absorption capabilities of semiconductors, particularly in the visible light range 5. This 
+is achieved through the creation of new energy levels within the material, which lowers the band 
+gap, allowing for more efficient photon absorption. Additionally, nitrogen doping can modify the 
+charge carrier dynamics, promoting charge separation and reducing recombination rates, which 
+are crucial for improving the efficiency of photocatalysts in HER 6. These modifications 
+ultimately contribute to a materials increased photocatalytic activity under visible light. Similarly, the incorporation of oxygen into organic molecules can also influence the optical 
+properties of photocatalytic materials 7.

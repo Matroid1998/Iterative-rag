@@ -1,0 +1,29 @@
+Description:
+Cheap and widely available sources used in synthesis.
+
+Text:
+Recently, a proposed change in EU law has raised concerns about a potential ban on a broad 
+range of polyfluorinated alkyl substances (PFAS), including many CF3containing molecules 
+and reagents.15 While legislation is yet to be finalized, exceptions are expected for final 
+pharmaceutical and agrochemical active ingredients.16 However, the ban could still impact their 
+synthesis if synthetic intermediates, the required bespoke reagents or other CF3containing 
+sources were to be prohibited.17 Therefore, it becomes crucial to develop methods for 
+synthesizing these moieties, at the late stage of a synthesis, from simple, nonfluorinated 
+organic molecules, ideally utilizing cheap and widely available alkali fluoride sources for 
+which no restrictions are foreseen.
+
+
+---
+
+Description:
+Salts used as a fluorine source in the preparation of trifluoromethylheteroatom anions.
+
+Text:
+Such an approach would not only comply with the proposed 
+EU law but also minimize or eliminate the need for perfluorinated materials in synthesizing 
+most of the currently used fluoroalkylating reagents. To tackle these synthetic, legislative and environmental challenges, our strategy centered 
+around the development of a versatile protocol capable of generating N, S and OCF3 anions 
+on demand, and facilitate their immediate use as nucleophiles (Figure 1C, reaction design). This strategy entails the preparation of trifluoromethylheteroatom anions using alkali fluoride 
+salts, as a fluorine source, in conjunction with appropriate precursors for each motif. In devising 
+this reaction blueprint, certain criteria must be met the precursors should be (i) benchstable, 
+(ii) commercially available or easily prepared, and (iii) operating in high atom economy.

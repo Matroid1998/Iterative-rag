@@ -1,0 +1,34 @@
+Name: Adenine
+Text:
+Adenine is the parent compound of the 6-aminopurines, composed of a purine having an amino group at C-6. It has a role as a human metabolite, a Daphnia magna metabolite, a Saccharomyces cerevisiae metabolite, an Escherichia coli metabolite and a mouse metabolite. It is a purine nucleobase and a member of 6-aminopurines. It derives from a hydride of a 9H-purine.
+A purine base and a fundamental unit of adenine nucleotides.
+Adenine is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Adenine has been reported in Streptomyces piomogenus, Bridelia balansae, and other organisms with data available.
+Adenine is a purine nucleobase with an amine group attached to the carbon at position 6. Adenine is the precursor for adenosine and deoxyadenosine nucleosides.
+ADENINE is a small molecule drug with a maximum clinical trial phase of III and has 1 investigational indication.
+Adenine is a purine base. Adenine is found in both DNA and RNA. Adenine is a fundamental component of adenine nucleotides. Adenine forms adenosine, a nucleoside, when attached to ribose, and deoxyadenosine when attached to deoxyribose; it forms adenosine triphosphate (ATP), a nucleotide, when three phosphate groups are added to adenosine. Adenosine triphosphate is used in cellular metabolism as one of the basic methods of transferring chemical energy between chemical reactions. Purine inborn errors of metabolism (IEM) are serious hereditary disorders, which should be suspected in any case of neonatal fitting, failure to thrive, recurrent infections, neurological deficit, renal disease, self-mutilation and other manifestations. Investigation usually starts with uric acid (UA) determination in urine and plasma. (OMIM 300322, 229600, 603027, 232400, 232600, 232800, 201450, 220150, 232200, 162000, 164050, 278300).  (A3372, A3373).
+Adenine is a metabolite found in or produced by Saccharomyces cerevisiae.
+A purine base and a fundamental unit of ADENINE NUCLEOTIDES.
+See also: Purine (subclass of); Adenine phosphate (is active moiety of) ... View More ...
+Properties:safety: Acute Toxic
+smiles: C1=NC2=NC=NC(=C2N1)N
+formula: C5H5N5
+chem_properties: Molecular Weight: 135.13 g/mol
+XLogP3: -0.1
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 135.05449518 Da
+Monoisotopic Mass: 135.05449518 Da
+Topological Polar Surface Area: 80.5
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 127
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

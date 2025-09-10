@@ -1,0 +1,11 @@
+Description:
+Undergoes Diels-Alder dimerization with negative activation and reaction volumes.
+
+Text:
+For example, in the case of a bond formation reaction 
+
+3 
+between two molecules (Figure 1), a negative  is expected since the unimolecular 
+transition state is more compact and hence has a smaller volume than the two separated 
+reactant molecules. The opposite is usually true for bond cleavage reactions. Figure 1. Schematic illustration of the activation volume and reaction volume (both are 
+negative) of a DielsAlder dimerization of 1,3cyclohexadiene.

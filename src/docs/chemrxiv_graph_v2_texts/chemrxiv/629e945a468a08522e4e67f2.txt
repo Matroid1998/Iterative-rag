@@ -1,0 +1,11 @@
+Description:
+Can plate on graphite anodes, contributing to degradation and battery failure.
+
+Text:
+One of the identified XFC failure pathways is graphite anode degradation, which includes Li 
+plating, loss of interparticle connectivity, and delamination of anode from the current collector.4
+8 Investigating the origins and characteristics of anode degradation spatially in three dimensions 
+(3D) is imperative to understand its role in capacity fade and battery failure. Numerous methods 
+have studied graphite anode degradation in LIBs.9 These include electrochemical methods,1011 
+spectroscopic methods,12 optical imagingmicroscopy,13 scanning electron microscopy,1415 focused 
+ion beamscanning electron microscopy,16 transmission electron microscopy,1718 scanning probe

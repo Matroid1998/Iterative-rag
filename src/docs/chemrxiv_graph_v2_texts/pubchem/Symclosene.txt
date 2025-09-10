@@ -1,0 +1,26 @@
+Name: Symclosene
+Text:
+Trichloro-s-triazinetrione, dry appears as a white slightly hygroscopic crystalline powder or lump solid with a mild chlorine-like odor. Said to have 85 percent available chlorine. Decomposes at 225 °C. Moderately toxic by ingestion. May irritate skin and eyes. Active ingredient in household dry bleaches. Used in swimming pools as a disinfectant.
+1,3,5-trichloro-1,3,5-triazinane-2,4,6-trione is a member of 1,3,5-triazinanes and an organochlorine compound.
+Properties:safety: Oxidizer and Irritant and Environmental Hazard
+smiles: C1(=O)N(C(=O)N(C(=O)N1Cl)Cl)Cl
+formula: C3Cl3N3O3
+chem_properties: Molecular Weight: 232.41 g/mol
+XLogP3: 1.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 230.900524 Da
+Monoisotopic Mass: 230.900524 Da
+Topological Polar Surface Area: 60.9
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 202
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

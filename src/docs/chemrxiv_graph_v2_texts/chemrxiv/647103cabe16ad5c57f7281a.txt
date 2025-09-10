@@ -1,0 +1,14 @@
+Description:
+A small gap semiconductor.
+
+Text:
+The band structure is most commonly calculated using density functional theory (DFT)
+with generalized gradient approximation (GGA) functionals.57 However, GGA functionals
+suffer from known inaccuracies in describing materials due to their lack of derivative discon
+tinuities,8,9 and selfinteraction10 and delocalization errors.11,12 These inaccuracies manifest
+through GGA functionals tendency to underestimate band gap energies13,14 and incorrectly
+align band edges.15 Indeed, numerous previous reports have shown that GGAs predict inac
+curate band gaps for diverse classes of materials, including small gap semiconductors, (e.g.,
+PbS), semiconductors (e.g., ZnO, AlP), and wide gap semiconductors (e.g., NaF, MgO, AlN),
+as one would expect for a groundstate theory such as DFT.1621 Other important energies
+2

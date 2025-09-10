@@ -1,0 +1,12 @@
+Description:
+Forms vacancies in doped PCFC oxide electrolytes to maintain electrical neutrality.
+
+Text:
+Protonic ceramic fuel cells (PCFCs) are expected to exhibit high power generation efficiencies. As previously reported, doping is a key process in achieving high proton conductivities in PCFC 
+oxide electrolytes.16 More specifically, doping with lowvalence elements creates oxygen 
+vacancies that maintain electrical neutrality, and these vacancies can subsequently be filled with 
+hydroxy groups to introduce protons into the system. Previously, the relationship between the 
+conductivity and the doping level has been studied experimentally.7,8 However, to understand the 
+mechanism of proton conductivity from a microscopic viewpoint, atomistic simulations based on 
+molecular dynamics are essential,9,10 and stable atomistic configurations are required to commence 
+these simulations.

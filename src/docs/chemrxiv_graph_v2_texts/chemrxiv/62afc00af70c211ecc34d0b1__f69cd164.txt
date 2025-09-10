@@ -1,0 +1,13 @@
+Description:
+A material used in microfluidics known for its physical and chemical versatility.
+
+Text:
+Since their inception three decades ago, microfluidic platforms have repeatedly redefined stateof
+theart approaches to fluidic automation, biochemical assays, highthroughput clinical screening, 
+and a plethora of other areas 16. Glass and polydimethylsiloxane (PDMS) have represented two 
+key materials of choice in the microfluidics space, due to their physical and chemical versatility. The use of both these materials in microfluidics has been comprehensively discussed in our recent 
+reviews 7,8. However, the widespread implementation of devices composed of glass and PDMS 
+has been severely limited by their costly and laboursome fabrication process, poor scalability, and 
+high variability between devices. From a materials perspective, PDMS microfluidic platforms have 
+demonstrated poor surface treatment stability and high susceptibility towards biomolecule 
+adsorption, making them impractical for most biomedical applications 9.

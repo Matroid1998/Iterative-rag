@@ -1,0 +1,24 @@
+Description:
+Molecules that can be detected and distinguished by Raman spectroscopy through isomeric structures.
+
+Text:
+First, Raman spectroscopy not only provide fingerprint information of molecules 
+31 
+but also can distinguish isomeric structures, allowing for isomeric glycan detection17. 32 
+Second, the availability of lowcost Raman spectrometers will enable widespread 
+33 
+adoption18. Additionally, a lowcost plasmonic SERS substrate (0.08 per test), called 
+34 
+nanopaper, are used to enhance Raman signals19, 20. 35 
+In our previous work, we had evaluated two commercially available BA receptors, namely 
+36 
+4mercaptophenylboronic acid (4MBA) and 1thianthrenylboronic acid (1TBA), which 
+37 
+effectively captured glycan molecules through cisdiol chemical reactions15. Utilizing 
+38 
+advanced ML algorithms, we analyzed spectral variations across a wide frequency range 
+39 
+for glycan detection. This sensor successfully distinguished stereoisomers and structural 
+40 
+isomers featuring different glycosidic linkages. 41 
+httpsdoi.org10.26434chemrxiv2024lgj8h ORCID httpsorcid.org0000000186238420 Content not peerreviewed by ChemRxiv.

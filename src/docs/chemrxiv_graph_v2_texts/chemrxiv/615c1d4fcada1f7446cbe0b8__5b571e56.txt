@@ -1,0 +1,38 @@
+Description:
+An environmentally clean and powerful oxidant used in sterilization, deodorization, decolorization, and water treatment.
+
+Text:
+Dissolved ozone in water is an environmentally clean and powerful oxidant, with an 
+absence of harmful residues, which has found use in sterilizationsanitization,1 deodorization,2 
+decolorization,3 and the treatment of potable waterwastewater.4,5 As ozone decays in water 
+with a halflife of ca. 20 minutes,4 production onsite is a necessity.
+
+
+---
+
+Description:
+Produced in air or oxygen via corona discharge under very high voltages.
+
+Text:
+Traditionally, ozone is 
+produced in air (or oxygen) via corona discharge, under very high voltages.6 This process is 
+energy intensive, requires a high initial cost, and produces large amounts of heat and also 
+harmful nitrogen oxides (in air).79 In contrast, electrochemical ozone production (EOP) has 
+gained much attention as dissolved ozone can be produced simply by oxidizing water at a 
+suitable anode, with the advantages of a smallscale and robust experimental setup, low 
+voltage operation, high current efficiency and no gas feedstocks.10 
+Efficient EOP requires an anode that electrocatalytically favors EOP over the oxygen 
+evolution reaction (OER).
+
+
+---
+
+Description:
+Generated using perforated freestanding BDD electrodes.
+
+Text:
+Thin film BDD1117 has been used for 
+EOP with either water,13,14,17 sulfuric acid,11,12 or perchloric acid12 as the electrolyte. In water, 
+a Nafion separating membrane is essential, functioning as both a solid electrolyte and as a 
+proton transporter. Perforated freestanding BDD electrodes have also been used in ozone 
+generation,15,16 designed with an aim to maximize contact between BDD, solution and the

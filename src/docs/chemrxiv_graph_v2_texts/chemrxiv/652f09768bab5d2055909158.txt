@@ -1,0 +1,13 @@
+Description:
+Involved in hydrogen bonding, contributing to the structural versatility of tetrahedral networks in water.
+
+Text:
+Water is a ubiquitous substance on Earth and plays a crucial role in various elds, in
+cluding energy harvesting,1 biological processes,2 and the evolution of life.35 Despite its
+simple chemical formula, water is a complex system with multiple anomalies and a rich
+phase diagram, attributed to the nature of hydrogen bonding and the structural versatility
+of tetrahedral networks.3,68 The intricate thermodynamics of water has been the focus of
+numerous molecular dynamics (MD) simulations aimed at providing molecularlevel insights
+into waters anomalies, the melting and freezing mechanisms of ice, and the features of ice
+and water surfaces. These phenomena typically involve extended time and size scales, which
+are inaccessible to rstprinciples molecular dynamics (FPMD) simulations.

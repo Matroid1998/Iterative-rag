@@ -1,0 +1,16 @@
+Description:
+Perovskites that incorporate a divalent chalcogen like S2 or Se2 at the X site.
+
+Text:
+Oxide 
+perovskitesanother class of perovskites which has an oxygen 
+atom at the Xsitehave been studied for several decades and 
+show incredible stability, but their bandgaps are much too high 
+for conventional optoelectronic applications, especially for PVs. Moving down the column from oxygen on the periodic table are 
+the remaining chalcogens. Also capable of forming perovskites, 
+this leads us to the chalcogenide perovskites (CPs). Aptly 
+named, these perovskites take a divalent chalcogen, usually S2 
+or Se2, on the X site, while the A and B sites predominantly 
+contain alkaline earth (AE) metals Ca2, Sr2, or Ba2, and Group 
+IV transition metals (IVB) Ti4, Zr4, or Hf4, respectively, to 
+maintain charge balance and structural tolerance factors.

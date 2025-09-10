@@ -1,0 +1,23 @@
+Name: Tantalum pentachloride
+Text:
+Properties:safety: Corrosive and Irritant
+smiles: Cl[Ta](Cl)(Cl)(Cl)Cl
+formula: Cl5Ta
+chem_properties: Molecular Weight: 358.2 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 357.78931 Da
+Monoisotopic Mass: 355.79226 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 37.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,29 @@
+Name: Levulinic Acid
+Text:
+4-oxopentanoic acid is an oxopentanoic acid with the oxo group in the 4-position. It has a role as a plant metabolite. It is a straight-chain saturated fatty acid and an oxopentanoic acid. It is a conjugate acid of a 4-oxopentanoate.
+Levulinic acid is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Levulinic acid has been reported in Dendronephthya hemprichi with data available.
+LEVULINIC ACID is a small molecule drug with a maximum clinical trial phase of III.
+See also:  ... View More ...
+Properties:safety: Corrosive and Irritant
+smiles: CC(=O)CCC(=O)O
+formula: C5H8O3
+chem_properties: Molecular Weight: 116.11 g/mol
+XLogP3: -0.5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 3
+Exact Mass: 116.047344113 Da
+Monoisotopic Mass: 116.047344113 Da
+Topological Polar Surface Area: 54.4
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 106
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

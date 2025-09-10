@@ -1,0 +1,11 @@
+Description:
+A widely used benzodiazepine that metabolizes via hydroxylation and glucuronidation reactions.
+
+Text:
+To explore the potential of IRIS 
+for the mapping of full metabolic pathways, we demonstrate here the identification of several 
+metabolites resulting from the incubation of midazolam in human hepatocytes. Midazolam (MDZ) is a widely used benzodiazepine and is known to metabolize via hydroxylation 
+and glucuronidation reactions.3336 Here, we detect several MDZ metabolites using LCMS and 
+elucidate their full molecular structures in absence of reference standards, using a combination of 
+MSMS fragmentation patterns and comparison of experimental IR spectra to DFT computed 
+reference spectra. Glucuronated drug molecules readily expel the glucuronidegroup upon collisional

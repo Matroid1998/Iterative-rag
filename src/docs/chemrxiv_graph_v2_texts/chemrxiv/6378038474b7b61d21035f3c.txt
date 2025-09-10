@@ -1,0 +1,14 @@
+Description:
+Atoms that can be replaced by a bromine atom, affecting molecular symmetry.
+
+Text:
+According to the 
+calculations, the observed splitting in the cation spectrum was 
+ascribed primarily to the spin coupling of the unpaired electron in 
+the partially vacant  orbital with the unpaired electrons resulting 
+from the excitation of one of the carbon 1s electrons to the vacant 
+ orbitals.9,10 JahnTeller relaxation causing symmetry distortion 
+was also considered. Replacing one of the hydrogen atoms of Bz by a bromine atom 
+lowers the D6h pointgroup symmetry of neutral Bz to C2v, and also 
+lifts the neardegeneracies between the six core orbitals of the 
+carbon atoms.

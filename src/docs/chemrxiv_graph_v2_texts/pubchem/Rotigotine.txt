@@ -1,0 +1,30 @@
+Name: Rotigotine
+Text:
+Rotigotine is a member of tetralins.
+Rotigotine (Neupro) is a non-ergoline dopamine agonist indicated for the treatment of Parkinson's disease (PD) and restless legs syndrome (RLS) in Europe and the United States. It is formulated as a once-daily transdermal patch which provides a slow and constant supply of the drug over the course of 24 hours.  Like other dopamine agonists, rotigotine has been shown to possess antidepressant effects and may be useful in the treatment of depression as well.  Rotigotine was developed by Aderis Pharmaceuticals. In 1998 Aderis licensed worldwide development and commercialization rights to Schwarz Pharma of Germany. It was approved by the European Medicines Agency in 2006 and by the FDA in 2007. However, all Neupro patches in the United States and some of Europe were recalled in 2008 due to delivery mechanism issues. Rotigotine has been authorized as a treatment for RLS since August 2008.
+Rotigotine is a Nonergot Dopamine Agonist. The mechanism of action of rotigotine is as a Dopamine Agonist.
+Rotigotine is a non-ergot dopamine receptor agonist used in the therapy of Parkinson disease and restless leg syndrome. Administered as a once daily transdermal patch, rotigotine has not been associated with serum enzyme elevations during treatment or with episodes of clinically apparent liver injury.
+Rotigotine is a non-ergoline dopamine agonist, that may be used for the treatment of Parkinson's disease and restless legs syndrome (RLS). Upon administration, rotigotine stimulates dopaminergic receptors in the brain. This compensates for the depleted supply of endogenous dopamine seen in diseases such as Parkinson's disease and RLS.
+ROTIGOTINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2007 and is indicated for parkinson disease and restless legs syndrome and has 4 investigational indications.
+Properties:safety: Irritant and Health Hazard
+smiles: CCCN(CCC1=CC=CS1)[C@H]2CCC3=C(C2)C=CC=C3O
+formula: C19H25NOS
+chem_properties: Molecular Weight: 315.5 g/mol
+XLogP3: 4.9
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 6
+Exact Mass: 315.16568559 Da
+Monoisotopic Mass: 315.16568559 Da
+Topological Polar Surface Area: 51.7
+Heavy Atom Count: 22
+Formal Charge: 0
+Complexity: 337
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

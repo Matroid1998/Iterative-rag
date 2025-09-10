@@ -1,0 +1,28 @@
+Description:
+A compound used in the modification of low-cost polymers with elemental sulfur.
+
+Text:
+To realize these benefits, 
+readily accessible polymers that respond to such lowpower irradiation are required. Addressing these needs, this study describes the modification of lowcost polymers made 
+from elemental sulfur and either cyclopentadiene or dicyclopentadiene using low power 
+continuous wave lasers with wavelengths of 532, 638, 690, and 786 nm. Polymers made from 
+elemental sulfur have received increasing attention with the advent of inverse vulcanization8 
+and related polymerization methods912 that convert this abundant and inexpensive feedstock 
+into functional polysulfide materials.
+
+
+---
+
+Description:
+A monomer used in copolymers with sulfur that can be modified by laser exposure.
+
+Text:
+The high sulfur content of these intriguing polymers 
+imparts a variety of chemical, physical, and optical properties that enable diverse applications 
+in energy storage,8, 13, 14 thermal imaging optics,1518 and metal binding.1921 Additionally, the S
+S bonds in these polymers can be broken and reformed, which enables repair and recycling.2224 
+It is the lability of the SS bonds in these sulfur copolymers that led to the discoveries 
+detailed in this report. Specifically, it was found that the surface of a copolymer made from 
+sulfur and cyclopentadiene was visibly altered after an exposure of less than 1 second to a 690 
+nm, 1.10 mW diode laser. Given the low power of the laser and brief exposure times, this rapid 
+polymer modification was a surprise.

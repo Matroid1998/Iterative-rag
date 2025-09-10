@@ -1,0 +1,29 @@
+Name: 2-Methylpyridine
+Text:
+2-methylpyridine is a colorless liquid with a strong, unpleasant odor. Floats on water. Poisonous vapor is produced. (USCG, 1999)
+Picolines is a clear colorless liquids with a strong unpleasant odor. Flash point 79 - 97 °F. Less dense than water. Vapors heavier than air. Toxic oxides of nitrogen produced during the combustion of. Used as a solvent and to make other chemicals.
+2-methylpyridine is a methylpyridine carrying a methyl substituent at position 2.
+2-Methylpyridine has been reported in Camellia sinensis, Mentha arvensis, and other organisms with data available.
+2-methylpyridine is a metabolite found in or produced by Saccharomyces cerevisiae.
+Properties:safety: Flammable and Irritant
+smiles: CC1=CC=CC=N1
+formula: C6H7N
+chem_properties: Molecular Weight: 93.13 g/mol
+XLogP3: 1.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 93.057849228 Da
+Monoisotopic Mass: 93.057849228 Da
+Topological Polar Surface Area: 12.9
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 52.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

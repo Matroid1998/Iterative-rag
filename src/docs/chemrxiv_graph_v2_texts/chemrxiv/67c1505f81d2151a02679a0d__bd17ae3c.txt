@@ -1,0 +1,11 @@
+Description:
+Materials with an established role of pband in surface reaction kinetics.
+
+Text:
+Thus, establishing a quantitative correlation between the 4f band structure 
+and surface reaction kinetics is essential to predict and optimize the redox behavior of REO2x 
+systems. While the roles of dband in transition metals and pband in perovskite oxides are well 
+established11,12, the role of fband of REO2x in regulating the surface redox reaction remains much 
+less explored from an experimental point of view, limiting the further performance optimization 
+for REO2based materials and supported catalysts. Electronic structure modulation has been achieved through methods such as doping13, surface 
+reduction14, nanostructuring15, and control of oxidation states16.

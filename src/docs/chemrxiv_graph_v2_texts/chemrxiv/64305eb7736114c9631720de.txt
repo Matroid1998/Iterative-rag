@@ -1,0 +1,17 @@
+Description:
+Undergoes disproportionation under buffered mildly acidic aqueous conditions.
+
+Text:
+(2) has
+also been discussed in the context of a proposed universal in
+tegrated rate equation; however, in our hands that method ap
+pears to give unphysical results when applied to this class of
+problem (see Supporting Information).3 Herein, we present
+the derivation of integrated rate equations that are applica
+ble to either comproportionation or disproportionation reac
+tions with any initial concentrations of reactants. The utility
+of these rate equations is most obvious in fitting timecourse
+data to extract values for kf and kb. This data analysis process is demonstrated for the dispro
+portionation of TEMPO (2,2,6,6tetramethyl1piperidinyl
+Noxyl) under buffered mildly acidic aqueous conditions
+(Fig. 1).

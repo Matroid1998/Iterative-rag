@@ -1,0 +1,44 @@
+Description:
+Displays native p-type conductivity and consistently shows one of the highest figures of merit for any p-type transparent conductor.
+
+Text:
+19,20 Therefore, research into nonoxides
+has taken centre stage in recent years, 2126 in the hope that greater valence band delocalisation
+and bond covalency can improve hole mobility while simultaneously generating enough carriers
+to enable degenerate conductivity. One such material is copper iodide, CuI, rst discovered in 1907 by the father of transparent
+conductors Karl Bdeker, 27 and now enjoying somewhat of a renaissance. It crystallises in the
+cubic zincblende structure below 643 K (Figure 1a), possesses an optical band gap of around 3 eV,
+displays native ptype conductivity, and consistently shows one of the highest gures of merit, ,1
+for any ptype transparent conductor (over 60 000 M1 for Sdoped CuI).
+
+
+---
+
+Description:
+Has a zincblende crystal structure with Cu and I atoms in tetrahedral coordination.
+
+Text:
+2830 It has a disperse,
+isotropic valence band maximum (Figure 1b), with an average light hole parabolic effective mass
+of around 0.21, indicative of reasonably high hole mobility. The valence band maximum is formed
+by the interaction of Cu 32 and I 5orbitals, while the conduction band minimum is formed by
+the interaction of Cu 4with I 5orbitals, 31,32 as shown schematically in the molecular orbital (MO)
+diagram in Figure 1c. (a) Zincblende crystal structure of
+CuI, viewed along the face diagonal. Cu and I atoms in blue and green,
+respectively. Cu have tetrahedral
+coordination, shown in grey. Crystal
+structure plotted using VESTA. 33
+X
+W K
+L
+U W
+L
+K U X
+6
+3
+0
+3
+6
+9
+Energy (eV)
+(b) Electronic band structure of CuI.

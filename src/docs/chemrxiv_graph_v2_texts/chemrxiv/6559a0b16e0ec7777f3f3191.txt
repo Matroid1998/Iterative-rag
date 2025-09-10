@@ -1,0 +1,15 @@
+Description:
+Involved in metal plating at the anode during battery degradation.
+
+Text:
+Degradation of Liion batteries
+stems from a plethora of physical mechanisms, such as solid electrolyte interphase (SEI)
+formation1114 and lithium metal plating1518 at the anode and structural changes at the
+cathode, such as oxidationinduced cation disorder19, rocksalt phasetransitions and den
+sification20,21, antisite defects22, and secondary particle cracking23,24. These degradation
+mechanisms lead to losses in rate capability by lowering accessible capacity at the same
+current or power within the operating voltage range. When this measure of state of health
+(SoH) reaches a given threshold, such as 80 of the nominal capacity under slow discharge,
+a)Electronic mail dezhuangmit.edu
+b)Electronic mail bazantmit.edu
+httpsdoi.org10.26434chemrxiv2023nk6wj ORCID httpsorcid.org0000000218553768 Content not peerreviewed by ChemRxiv. License CC BY 4.0

@@ -1,0 +1,14 @@
+Description:
+Compatible with transition metal dichalcogenides technology.
+
+Text:
+Transition metal dichalcogenides (TMDCs), especially twodimensional monolayers, exhibit 
+strong excitonic binding energies (300 meV), large carrier mobilities (30 cm2Vs) and high 
+extinction coefficients (3106 cm1).57 They are chemically versatile, compatible with silicon 
+technology, relatively cheap, and can be used as monolayers, multilayers or combined with other 
+2D materials in heterostructures. These properties are ideal for their application in photodetectors 
+with high speed and large detectivity at the same time. However, as detailed by Sorger et al.8 an 
+independent optimization of speed and detectivity (or responsivity) is not possible, since the long 
+carrier lifetimes needed for high responsivities are detrimental for the response time. Similarly, 
+large mobilities are required for fast photodetection with sufficiently large band gaps to prevent 
+high dark currents and, thus, low detectivities as e.g.

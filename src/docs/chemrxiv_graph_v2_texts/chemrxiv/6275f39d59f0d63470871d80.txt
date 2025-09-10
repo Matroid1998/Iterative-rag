@@ -1,0 +1,14 @@
+Description:
+Ions involved in the transport cycle of symporters, depicted as orange circles.
+
+Text:
+Until recently, capturing highresolution snapshots of 
+intermediates along the transport cycle was a daunting task6,7. To complement the static 
+snapshots, solutionstate measurements, carried out in the absence or presence of various 
+substrates under conditions conducive to interconversion between conformations, directly report 
+on the transporters energy landscape and allow highresolution snapshots to be assigned to specific 
+intermediate states observed in the functional cycle811. However, few transporters have been 
+exhaustively characterized to enable integration of structure, dynamics, and function12. Figure 1. Transport cycle, reaction coordinate, and architecture of the bacterial amino acid 
+transporter LeuT. (A) Cartoon depiction of a generic symporters transport cycle as it isomerizes 
+between outwardfacing, occluded, and inwardfacing conformations. Sodium ions and substrate 
+shown as orange and purple circles, respectively. Mock reaction coordinate shown below.

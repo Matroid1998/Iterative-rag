@@ -1,0 +1,25 @@
+Name: Diallylamine
+Text:
+Diallylamine appears as a liquid with a disagreeable odor. Less dense than water. May be toxic by inhalation and skin absorption. Irritates skin and eyes. Used to make other chemicals.
+Properties:safety: Flammable and Corrosive and Acute Toxic and Irritant
+smiles: C=CCNCC=C
+formula: C6H11N
+chem_properties: Molecular Weight: 97.16 g/mol
+XLogP3: 1.1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 4
+Exact Mass: 97.089149355 Da
+Monoisotopic Mass: 97.089149355 Da
+Topological Polar Surface Area: 12
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 49.2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

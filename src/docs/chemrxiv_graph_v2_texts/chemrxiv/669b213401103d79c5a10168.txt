@@ -1,0 +1,21 @@
+Description:
+Embedded in CPL-MR emitters with axial, central, and planar chirality structures, enabling highly efficient CP-OLEDs with narrowband emission across the visible region.
+
+Text:
+Circularly polarized (CP) organic lightemitting diodes (OLEDs) are optoelectronic devices that 
+are capable of emitting left and rightCP light using organic CP luminescence (CPL) emitters 
+under unpolarized excitations, making them highly valuable in applications such as 3D and 
+highresolution displays,1 information encryption, 2 and spintronic devices.3 With the rapid 
+conceptual advancement in the molecule design of CPL emitters, the performances of CP
+OLEDs have made significant progress.4 Among all CPL molecules, multiple resonance (MR) 
+organoboron chiral emitters have aroused particular attention owing to their unique alternative 
+distribution of frontier molecular orbitals on single atoms, which can suppress vibronic 
+couplings and minimize structural relaxation to generate high colorpurity narrowband 
+emissions.5 Consequently, boronnitrogen (BN) embedded CPLMR emitters with axial 
+chirality, central chirality, and planar chirality structures, etc have been developed, enabling the 
+realization of highly efficient CPOLEDs with narrowband emission across the whole visible 
+region.6 
+Among the various manifestations of chirality, helical chirality is particularly notable.7 The 
+highly twisted spiral structure ensures a stable molecular configuration, guaranteeing 
+exceptional physical and chemical stability and also effectively suppresses the intermolecular 
+ stacking in aggregate films.8 In 2022, Zhu et al.

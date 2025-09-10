@@ -1,0 +1,98 @@
+Description:
+A good active material for Li-ion anodes with a superior theoretical capacity.
+
+Text:
+However, while lithiumgraphite 
+intercalates are safer and more stable they have only a tenth of 
+the energy density of metallic lithium.2 Silicon is a good active 
+material for Liion anodes because it has a superior theoretical 
+capacity of 3579 mA h g1 (or 8340 mA h cm3) for Li15Si4, and  
+unlike some transition metals  it is not toxic and abundant.
+
+
+---
+
+Description:
+Can store a large number of lithium atoms, inducing large volume changes during charge-discharge cycles.
+
+Text:
+Moreover, its alloying reaction with lithium triggered at 0.3 V vs. 
+LiLi, prevents the formation of metallic lithium around the anode 
+during discharging  a detrimental process observed for Li
+graphite batteries known as lithium plating  and allows the use 
+of SiLi electrodes under harsher conditions.3 The large number 
+of lithium atoms that silicon can store, however, induces large 
+volume changes during chargedischarge cycles (300).3 The 
+mechanical stress induced by these drastic volume changes 
+leads to the pulverization of the silicon active material, loss of 
+contact of the electrode film with the current collector, and loss of 
+overall mechanical integrity of the whole electrode. Repeated 
+cycles of expansion and contraction of silicon expose pristine 
+silicon surfaces and induce the reformation of solid electrolyte 
+interfaces (SEI).
+
+
+---
+
+Description:
+Undergoes pulverization due to mechanical stress from volume changes, leading to loss of electrode integrity.
+
+Text:
+Moreover, its alloying reaction with lithium triggered at 0.3 V vs. 
+LiLi, prevents the formation of metallic lithium around the anode 
+during discharging  a detrimental process observed for Li
+graphite batteries known as lithium plating  and allows the use 
+of SiLi electrodes under harsher conditions.3 The large number 
+of lithium atoms that silicon can store, however, induces large 
+volume changes during chargedischarge cycles (300).3 The 
+mechanical stress induced by these drastic volume changes 
+leads to the pulverization of the silicon active material, loss of 
+contact of the electrode film with the current collector, and loss of 
+overall mechanical integrity of the whole electrode. Repeated 
+cycles of expansion and contraction of silicon expose pristine 
+silicon surfaces and induce the reformation of solid electrolyte 
+interfaces (SEI).
+
+
+---
+
+Description:
+Repeated cycles of expansion and contraction expose pristine surfaces and induce reformation of solid electrolyte interfaces.
+
+Text:
+Moreover, its alloying reaction with lithium triggered at 0.3 V vs. 
+LiLi, prevents the formation of metallic lithium around the anode 
+during discharging  a detrimental process observed for Li
+graphite batteries known as lithium plating  and allows the use 
+of SiLi electrodes under harsher conditions.3 The large number 
+of lithium atoms that silicon can store, however, induces large 
+volume changes during chargedischarge cycles (300).3 The 
+mechanical stress induced by these drastic volume changes 
+leads to the pulverization of the silicon active material, loss of 
+contact of the electrode film with the current collector, and loss of 
+overall mechanical integrity of the whole electrode. Repeated 
+cycles of expansion and contraction of silicon expose pristine 
+silicon surfaces and induce the reformation of solid electrolyte 
+interfaces (SEI).
+
+
+---
+
+Description:
+Forms hierarchical, nanosized, or porous structures to buffer volume expansion during lithiation.
+
+Text:
+This process contributes to the gradual 
+consumption of lithium and electrolyte, and it limits the diffusion of 
+charge carriers through the expanding SEI.34 It is difficult to 
+counter these detrimental mechanical and chemical changes to 
+siliconbased electrodes because conventional methods of 
+electrode assembly rely on the mixing of multiple components that 
+are held together by weak, dispersive forces. In laboratory settings, some strategies were developed to address 
+the inherent flaws of these multicomponent assemblies. For 
+example, shaping silicon into hierarchical, nanosized, or porous 
+structures buffers some of its dramatic volume expansion during 
+lithiation.4d On the downside, nanostructured silicon is 
+susceptible to restructuring during battery operation, and its larger 
+specific surface promotes reactions with the electrolyte to form 
+more of electrochemically inactive SEI.

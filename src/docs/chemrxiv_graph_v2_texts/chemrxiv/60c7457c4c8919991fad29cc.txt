@@ -1,0 +1,28 @@
+Description:
+A transition metal frequently used in chemical synthesis.
+
+Text:
+To comply with governments regulations (e.g., USP 232 in the United States),1 the pharmaceutical industry 
+must ensure that heavy metals are below their toxic levels in active pharmaceutical ingredients (APIs). Among 
+heavy metals, palladium is the most frequently used transition metal in chemical synthesis2 and must be below 10 
+ppm in APIs, according to USP 232. Therefore, process chemists must develop a specific and highly efficient 
+palladiumscavenging protocol for each API to meet the safety regulation. This is accomplished through screenings 
+of dozens of potential workup protocols and scavengers, among other purification techniques.310 This process 
+generates several dozens of samples in which to quantify palladium. Meanwhile, new scavengers continue to 
+emerge,7, 11, 12 adding options to explore.
+
+
+---
+
+Description:
+A trace metal analyzed using inductively coupled plasma mass spectrometry (ICPMS).
+
+Text:
+2 
+
+Trace metal analysis has been performed using inductivelycoupled plasma mass spectrometry (ICPMS).13
+17 Unfortunately, ICPMS is a highly specialized, costly method for analyzing palladium. The instrument is large 
+and expensive, requires highly skilled experimentalists, a long calibration time upon starting, and expensive 
+materials to maintain operation. Additionally, ICPMS often becomes the bottle neck of the entire API purification 
+process because scavenger screenings are high throughput while ICPMS is low throughput, thus slowing the 
+process.

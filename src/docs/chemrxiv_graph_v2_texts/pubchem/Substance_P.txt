@@ -1,0 +1,28 @@
+Name: Substance P
+Text:
+Substance P is a neuropeptide consisting of 11-amino acids. It preferentially activates neurokinin-1 receptors, exterting excitatory effects on central and peripheral neurons and involved in pain transmission. It has a role as a neurotransmitter, a vasodilator agent and a neurokinin-1 receptor agonist. It is a conjugate base of a substance P(3+).
+Substance P is under investigation in clinical trial NCT03738878 (Mechanism(s) Underlying Hypotensive Response to ARB/NEP Inhibition - Aim 1).
+SUBSTANCE P is a Protein drug with a maximum clinical trial phase of I (across all indications) and has 2 investigational indications.
+An eleven-amino acid neurotransmitter that appears in both the central and peripheral nervous systems. It is involved in transmission of PAIN, causes rapid contractions of the gastrointestinal smooth muscle, and modulates inflammatory and immune responses.
+Properties:safety: Irritant
+smiles: CC(C)C[C@@H](C(=O)N[C@@H](CCSC)C(=O)N)NC(=O)CNC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@H](CC2=CC=CC=C2)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@@H]3CCCN3C(=O)[C@H](CCCCN)NC(=O)[C@@H]4CCCN4C(=O)[C@H](CCCN=C(N)N)N
+formula: C63H98N18O13S
+chem_properties: Molecular Weight: 1347.6 g/mol
+XLogP3: -2.3
+Hydrogen Bond Donor Count: 15
+Hydrogen Bond Acceptor Count: 17
+Rotatable Bond Count: 42
+Exact Mass: 1346.72814643 Da
+Monoisotopic Mass: 1346.72814643 Da
+Topological Polar Surface Area: 544
+Heavy Atom Count: 95
+Formal Charge: 0
+Complexity: 2620
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 10
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

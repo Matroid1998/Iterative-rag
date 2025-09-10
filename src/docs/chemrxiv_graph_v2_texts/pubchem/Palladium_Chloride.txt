@@ -1,0 +1,26 @@
+Name: Palladium Chloride
+Text:
+Palladium chloride appears as dark brown crystals. (NTP, 1992)
+Palladium(II) chloride is a palladium coordination entity consisting of palladium(II) bound to two chlorine atoms. It has a role as a catalyst.
+Palladium(II) chloride is a chloride of palladium. It is a common starting material in palladium chemistry. Palladium(II) chloride is sometimes used to test for the corrosion-resistance of stainless steel and can be found in carbon monoxide detectors. Palladium is a chemical element with the chemical symbol Pd and an atomic number of 46. It is found as a free metal alloyed with gold and other platinum group metals and in the rare minerals cooperite and polarite. (L794, A30)
+Properties:safety: Corrosive and Acute Toxic and Irritant and Environmental Hazard
+smiles: Cl[Pd]Cl
+formula: Cl2Pd
+chem_properties: Molecular Weight: 177.32 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 175.84119 Da
+Monoisotopic Mass: 175.84119 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 2.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

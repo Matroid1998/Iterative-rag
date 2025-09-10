@@ -1,0 +1,17 @@
+Description:
+A crystal structure commonly found in AlN-based alloys.
+
+Text:
+Some
+recent efforts focused on defect modeling in alloys and disor
+dered phases have utilized motifbased model Hamiltonians,29
+lowMadelung energy ordered structures, or lowenergy ordering
+combined with statistical thermodynamics.28 We have previously
+developed a methodology for prediction of defect formation en
+ergy in alloys26 by modeling with special quasirandom structures
+(SQS)30 and adapting the standard defect calculation approach
+for disordered phases.31
+Motivated by the growing interest in wurtzite AlNbased alloys
+with group3 and rareearth elements, we now focus on the het
+erostructural Al1xGdxN alloy in the wurtzite phase (Figure 1a). The goal of this study is to develop practical defect control strate
+110  1

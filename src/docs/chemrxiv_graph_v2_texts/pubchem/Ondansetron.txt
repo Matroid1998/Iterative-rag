@@ -1,0 +1,32 @@
+Name: Ondansetron
+Text:
+Ondansetron is a member of carbazoles.
+A competitive serotonin type 3 receptor antagonist. It is effective in the treatment of nausea and vomiting caused by cytotoxic chemotherapy drugs, including cisplatin, and has reported anxiolytic and neuroleptic properties.  Having been developed in the 1980s by GlaxoSmithKline and approved by the US FDA since January 1991, ondansetron has demonstrated a long history of use and efficacy. Commonly formulated as oral tablets, orally disintegrating tablets (ODT), and injections, and available as generic products as well, ondansetron continues to see contemporary innovations in its formulation and use, including the development of orally soluble films that are both discreet in administration and less of a burden in comparison to having patients attempt to swallow pills during emesis.  The FDA withdrew its approval for the use of all intravenous drug products containing more than 16 mg of ondansetron hydrochloride in a single dose, due to a high risk of QT prolongation.
+Ondansetron is a Serotonin-3 Receptor Antagonist. The mechanism of action of ondansetron is as a Serotonin 3 Receptor Antagonist.
+Ondansetron is a carbazole derivative with antiemetic activity.  As a selective serotonin receptor antagonist, ondansetron competitively blocks the action of serotonin at 5HT3 receptors, resulting in suppression of chemotherapy- and radiotherapy-induced nausea and vomiting. (NCI04)
+ONDANSETRON is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1991 and has 7 approved and 35 investigational indications.
+Ondansetron is a well tolerated drug with few side effects. Headache, constipation, and dizziness are the most commonly reported side effects associated with its use. There have been no significant drug interactions reported with this drugs use. It is broken down by the hepatic cytochrome P450 system and it has little effect on the metabolism of other drugs broken down by this system; Ondansetron is a serotonin 5-HT3 receptor antagonist used mainly to treat nausea and vomiting following chemotherapy. Its effects are thought to be on both peripheral and central nerves. One part is to reduce the activity of the vagus nerve, which is a nerve that activates the vomiting center in the medulla oblongata, the other is a blockage of serotonin receptors in the chemoreceptor trigger zone. It does not have much effect on vomiting due to motion sickness. This drug does not have any effect on dopamine receptors or muscarinic receptors; A competitive serotonin type 3 receptor antagonist. It is effective in the treatment of nausea and vomiting caused by cytotoxic chemotherapy drugs, including cisplatin, and has reported anxiolytic and neuroleptic properties; Ondansetron (INN) is a serotonin 5-HT3 receptor antagonist used mainly to treat nausea and vomiting following chemotherapy. Its effects are thought to be on both peripheral and central nerves. One part is to reduce the activity of the vagus nerve, which is a nerve that activates the vomiting center in the medulla oblongata, the other is a blockage of serotonin receptors in the chemoreceptor trigger zone. It does not have much effect on vomiting due to motion sickness. This drug does not have any effect on dopamine receptors or muscarinic receptors.
+A competitive serotonin type 3 receptor antagonist. It is effective in the treatment of nausea and vomiting caused by cytotoxic chemotherapy drugs, including cisplatin, and has reported anxiolytic and neuroleptic properties.
+See also: Ondansetron Hydrochloride (has salt form).
+Properties:safety: Acute Toxic and Irritant and Environmental Hazard
+smiles: CC1=NC=CN1CC2CCC3=C(C2=O)C4=CC=CC=C4N3C
+formula: C18H19N3O
+chem_properties: Molecular Weight: 293.4 g/mol
+XLogP3: 2.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 2
+Exact Mass: 293.152812238 Da
+Monoisotopic Mass: 293.152812238 Da
+Topological Polar Surface Area: 39.8
+Heavy Atom Count: 22
+Formal Charge: 0
+Complexity: 440
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

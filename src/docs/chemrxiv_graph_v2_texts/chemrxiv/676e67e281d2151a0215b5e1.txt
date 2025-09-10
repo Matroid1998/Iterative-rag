@@ -1,0 +1,19 @@
+Description:
+A polymer used in solid polymer electrolytes with low ionic conductivity for lithium-ion batteries.
+
+Text:
+Solid polymer electrolytes (SPEs) are promising for high energy 
+density rechargeable Liion batteries (LIBs) due to high 
+mechanical, thermal, and electrochemical stability.1 Since the 
+discovery of SPEs based on polyethylene oxide (PEO),2 there 
+have been various efforts to overcome their low ionic conductivity 
+(   103 S cm1). However, low conductivity and Liion 
+transference number () still limit the potential of polyetherbased 
+SPEs. Since the discovery of polymerinsalt (PIS) SPEs,3 
+highly Lisalt concentrated SPEs have provided a new avenue to 
+improve  and  of SPEs. Research indicates that, in addition 
+to ion diffusion facilitated by polymer segmental motion in saltin
+polymer (SIP) SPEs, highly concentrated PIS SPEs exhibit 
+additional ion transport pathways, enabling high ionic conductivity. httpsdoi.org10.26434chemrxiv2024tjt5s ORCID httpsorcid.org0000000316800996 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0
+
+2

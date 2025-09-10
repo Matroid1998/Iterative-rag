@@ -1,0 +1,30 @@
+Name: Boceprevir
+Text:
+Boceprevir is a synthetic tripeptide consisting of N-(tert-butylcarbamoyl)-3-methyl-L-valyl, a cyclopropyl-fused prolyl and 3-amino-4-cyclobutyl-2-oxobutanamide residues joined in sequence. Used for treatment of chronic hepatitis C virus genotype 1 infection. It has a role as a hepatitis C protease inhibitor, a peptidomimetic and an antiviral drug. It is a tripeptide and a member of ureas.
+Boceprevir is a direct acting antiviral medication used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) such as Boceprevir. Boceprevir is an inhibitor of NS3/4A, a serine protease enzyme, encoded by HCV genotypes 1 and 4 [synthesis]. These enzymes are essential for viral replication and serve to cleave the virally encoded polyprotein into mature proteins like NS4A, NS4B, NS5A and NS5B. The barrier for develoment of resistance to NS3/4A inhibitors is lower than that of NS5B inhibitors, another class of DAAs. Subtitutions at amino acid positions 155, 156, or 168 are known to confer resistance. The substitutions of the enzyme's catalytic triad consisting of H58, D82, and S139 are also likely to alter the affinity of the drug for NS3/4A or the activity of the enzyme itself. Despite this disadvantage Boceprevir is still effective against HCV when paired with [DB00811], [DB00008], and [DB00022].  In a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) do not reccomend Boceprevir in combination with [DB00811], [DB00008], and [DB00022] as first line therapy for Hepatitis C. Boceprevir, [DB00811], [DB00008], and [DB00022] are used with the intent to cure, or achieve a sustained virologic response (SVR), after 48 weeks of daily therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality.  Boceprevir is available as a fixed dose product (tradename Victrelis) used for the treatment of chronic Hepatitis C. Approved in May 2011 by the FDA, Victrelis is indicated for the treatment of HCV genotype 1 in combination with [DB00811], [DB00008], and [DB00022]. Victrelis is no longer widely used as interferon-free therapies have been developed.
+Boceprevir is a Hepatitis C Virus NS3/4A Protease Inhibitor. The mechanism of action of boceprevir is as a HCV NS3/4A Protease Inhibitor, and Cytochrome P450 3A4 Inhibitor, and Cytochrome P450 3A5 Inhibitor.
+Boceprevir is an oral, direct acting hepatitis C virus (HCV) protease inhibitor that was used in combination with peginterferon and ribavirin in the treatment of chronic hepatitis C, genotype 1. Initially approved for use in 2012, it was withdrawn in 2015 because of the availability of more effective and better tolerated all oral regimens of direct acting antiviral agents. Boceprevir was not linked to instances of acute liver injury during therapy but, when combined with peginterferon and ribavirin, was associated with cases of hepatic decompensation in patients with preexisting cirrhosis.
+Boceprevir is an orally bioavailable, synthetic tripeptide inhibitor of the nonstructural protein 3 and 4A complex (NS3/NS4A), with potential activity against hepatitis C virus (HCV) genotype 1. Upon administration, boceprevir reversibly binds to the active center of the HCV NS3/NS4A and prevents NS3/NS4A protease-mediated polyprotein maturation. This disrupts the processing of viral proteins and the formation of a viral replication complex, which inhibits viral replication in HCV genotrype 1-infected host cells. NS3, a serine protease, is essential for the proteolytic cleavages within the HCV polyprotein and plays a key role during HCV viral RNA replication. NS4A is an activating factor for NS3. HCV is a small, enveloped, single-stranded RNA virus belonging to the Flaviviridae family.
+BOCEPREVIR is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2011 and is indicated for viral disease and chronic hepatitis c virus infection and has 2 investigational indications.
+Properties:safety: Irritant and Health Hazard
+smiles: CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C
+formula: C27H45N5O5
+chem_properties: Molecular Weight: 519.7 g/mol
+XLogP3: 3.1
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 10
+Exact Mass: 519.34206955 Da
+Monoisotopic Mass: 519.34206955 Da
+Topological Polar Surface Area: 151
+Heavy Atom Count: 37
+Formal Charge: 0
+Complexity: 959
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,15 @@
+Description:
+Salts used in photocatalytic reduction to generate aryl radicals.
+
+Text:
+Recently, we described the development of a dual cata
+lytic platform for the aryl functionalization of alkenes based on a 
+photocatalytic reduction of diaryliodonium salts, to generate an aryl 
+radical that adds to an alkene, and a separate transition metal cata
+lyzed group transfer cycle that orchestrates a reaction between the 
+incipient homobenzylic radical and an anionic nucleophile. This 
+platform resulted in new methods for the azidoarylation of alkenes13 
+and the chloroarylation of vinyl boronic esters14. A compelling as
+pect of this activation mode is the capacity to select from several dif
+ferent photocatalysts and group transfer catalysts, respectively, in re
+sponse to the diverse needs of the reaction.

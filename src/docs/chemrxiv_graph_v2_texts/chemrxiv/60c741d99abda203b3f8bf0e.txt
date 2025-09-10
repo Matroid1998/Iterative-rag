@@ -1,0 +1,17 @@
+Description:
+Widely studied in semiconductor applications due to the tunability of their electronic properties via substitution and sequence control, as well as their environmental stability.
+
+Text:
+In recent years, conjugated polymers (CPs) have been of 
+substantial research interest as new materials for use in a 
+variety of optoelectronic devices, such as organic lightemitting 
+diodes (OLEDs), organic fieldeffect transistors (OFETs), and 
+organic photovoltaics (OPVs)1,2. CPs have several advantages 
+over conventional inorganic materials including their relatively 
+low cost and rolltoroll processability3. Polythiophenes have 
+been widely studied in semiconductor applications due to the 
+tunability of their electronic properties via substitution4,5 and 
+sequence control6,7, as well as their environmental stability8,9. It has been shown that OLED, OFET, and OPV device 
+performances are related to the frontier molecular orbital 
+(FMO) energies of the conjugated polymers from which they are 
+composed1,2,10.

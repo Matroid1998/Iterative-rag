@@ -1,0 +1,16 @@
+Description:
+Involved in electrochemical reactions such as the oxygen evolution or reduction reaction.
+
+Text:
+26 
+Electrochemical reactions that involve the transfer of multiple electrons, such as the oxygen evolution or reduction reaction 
+27 
+(OERORR), and the hydrogen evolution or oxidation reaction (HERHOR) are essential for a wide range of energy conversion and 
+28 
+storage applications, including fuel cells, electrolyzers, and batteries, as well as in the electroplating, water treatment, and 
+29 
+chemical synthesis industries e.g., the chloralkali process. Since the transfer of multiple electrons in one elementary step is very 
+30 
+unlikely, as discussed by Guidelli et. al. 1, the transfer of multiple electrons implies that multiple electrochemically active 
+31 
+elementary steps take place sequentially.

@@ -1,0 +1,55 @@
+Description:
+Involved in Ni-catalyzed cross-coupling reactions with boronic acids.
+
+Text:
+Over the past decade, Buchwaldtype phosphines have also 
+found successful application in a limited number of Ni
+catalyzed crosscoupling reactions (Figure 1C).1725 One of the 
+first reports came from our lab in 2011 with the development of 
+a Nicatalyzed crosscoupling of styrenyl epoxides and boronic 
+acids, where BrettPhos was identified to be the most effective 
+ligand in the transformation.18 The Watson and Crudden labs 
+have also reported the use of Buchwaldtype phosphines in Ni
+catalyzedcross 
+coupling 
+reactions 
+of 
+naphthylic 
+pseudohalides.19,20 More recently, researchers at Bristol Myers 
+Squibb identified CyJohnPhos as the most effective ligand for 
+the Nicatalyzed borylation of aryl halides, with other examples 
+of the ligand class amongst the top performers.21 Additionally, 
+in a recent collaborative project carried out by our lab, the 
+Sigman lab, and Merck  Co., Inc., we identified certain 
+Buchwaldtype phosphines as top performing among 90 diverse 
+monophosphines for several SuzukiMiyaura Coupling 
+reactions (SMC) of aryl chlorides.25 
+While these examples illustrate that Buchwald ligands are 
+capable of imparting desirable reactivity in Nicatalyzed 
+methodologies, little is known about their SRRs in Ni catalysis, 
+or how their unique structure and binding modes interface with 
+Ni more generally.
+
+
+---
+
+Description:
+Involved in the cross-coupling process with BrettPhos.
+
+Text:
+A handful of computational studies have 
+included Buchwald phosphines in their analyses, but the focus 
+was not on the ligand class specifically.26,27 Nicasio and 
+coworkers have structurally characterized dialkylterphenyl 
+phosphines on Ni; these ligands share certain attributes with 
+Buchwaldtype ligands.2830 However, to the best of our 
+knowledge, only one example exists in the literature of a 
+structurallycharacterized Ni complex bound by a Buchwald 
+phosphine an offcycle, cyclometalated adduct of BrettPhos 
+formed during the crosscoupling of styrenyl epoxides.18 Given 
+the scarcity of relevant studies, insights into the SRRs and 
+mechanism of Buchwald and CataCXium P phosphines in Ni 
+catalysis, along with access to welldefined Ni complexes 
+bearing these ligands, would be of great value both in the 
+discovery of new methodologies and in the further 
+understandingoptimization of existing ones.

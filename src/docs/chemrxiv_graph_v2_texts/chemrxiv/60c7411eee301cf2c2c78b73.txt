@@ -1,0 +1,12 @@
+Description:
+Units used in the synthesis of macrocycles to reduce strain energy.
+
+Text:
+nCPPs can also be viewed as the smallest crosssection of an armchair
+singlewalled carbon nanotube (SWCNT) and have thus a potential use as building
+blocks for the bottomup synthesis of well dened SWCNT with specic edges and size. The synthesis of CPPs has been experimentally challenging due to the strain en
+ergy needed to close the ring.7 Vogtle et al.8,9 attempted to synthesize CPPs from
+macrocycles formed by arene and cyclohexane units to therefore reduce the strain
+energy of the system. However, the rst synthesis of CPPs was aorded only by Jasti
+et al.10 in 2008, followed by the rst selective synthesis of CPPs by Itami et al.11,12
+using a modular approach to build nCPPs with n12.

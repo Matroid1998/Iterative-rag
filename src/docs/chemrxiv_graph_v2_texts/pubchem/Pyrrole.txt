@@ -1,0 +1,29 @@
+Name: Pyrrole
+Text:
+1H-pyrrole is a tautomer of pyrrole that has the double bonds at positions 2 and 4. It is a pyrrole and a secondary amine. It is a tautomer of a 2H-pyrrole and a 3H-pyrrole.
+Pyrrole has been reported in Zea mays, Nicotiana tabacum, and other organisms with data available.
+PYRROLE is a small molecule drug with a maximum clinical trial phase of III and has 1 investigational indication.
+Azoles of one NITROGEN and two double bonds that have aromatic chemical properties.
+See also:  ... View More ...
+Properties:safety: Flammable and Irritant
+smiles: C1=CNC=C1
+formula: C4H5N
+chem_properties: Molecular Weight: 67.09 g/mol
+XLogP3: 0.7
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 67.042199164 Da
+Monoisotopic Mass: 67.042199164 Da
+Topological Polar Surface Area: 15.8
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 22.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

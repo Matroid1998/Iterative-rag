@@ -1,0 +1,33 @@
+Description:
+Involved in hydrogen bonding, which is significant in determining the local structure of molecules.
+
+Text:
+When considering polar molecules, with an in
+ner distribution of partial charges, charge order still dominates the local order,
+although this is usually explained in terms of dipolar order. The quantum
+origin of interactions becomes apparent when considering hydrogen bonding
+molecules, especially when spectroscopic methods are used to investigate their
+local structures 8, 9, 10. Even though classical models of liquids such as wa
+ter are quite good for describing the local structure, as demonstrated by the
+comparison of the pair correlation functions obtained from radiation scattering
+and computer simulations 11, 12, 13, it is not obvious to appreciate which of
+the full quantum or classical approaches is better to understand all the prob
+lems posed by the structure of hydrogen bonding liquids.
+
+
+---
+
+Description:
+Forms hydrogen bonds in labile clusters affecting the understanding of liquids.
+
+Text:
+In the present work, we would like to examine the problem posed by the
+in uence of the local structure of hydrogen bonded labile clusters on the global
+understanding of these liquids, under two dierent perspectives, one based of
+charge order arguments, and the other on the importance of the dynamics of
+the labile structures. For this, we investigate the atomatom pair correlation
+functions of classical models of water, methanol and ethanol. Molecular dynam
+ics simulations are conducted and dynamical atomatom correlation functions
+are computed from the 5ns long trajectories. Details can be found in the Sup
+plemental Information(SI). In general, it is found that all dynamical functions
+are signi cantly decayed within 100ps. The calculated functions are as follows.

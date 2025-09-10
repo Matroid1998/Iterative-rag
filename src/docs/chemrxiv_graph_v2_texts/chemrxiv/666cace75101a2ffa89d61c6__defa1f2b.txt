@@ -1,0 +1,28 @@
+Description:
+A refractory metal with the highest melting point and tensile strength among metals, used in plasma-facing components for fusion reactors.
+
+Text:
+Tungsten is a prime candidate for plasmafacing components (PFCs) in fusion reactors. Being a 
+refractory metal, W exhibits exceptional hightemperature properties, making it an attractive 
+material for components exposed to the extreme conditions of fusion plasma 13. Of all metallic 
+elements, W has the highest melting point (3422 ), and at elevated temperatures, it exhibits the 
+highest tensile strength among metals 45. Additionally, W shows exceptional corrosion 
+resistance and is highly resistant to attacks by mineral acids. An important advantage of W is its 
+high threshold energy of sputtering, around 150200 eV for Deuterium (D) 67, which helps 
+minimize wall erosion. However, erosion could also occur due to unavoidable impurities, which 
+reduce the threshold value of the D sputtering energy 8.
+
+
+---
+
+Description:
+Erosion poses a significant challenge for fusion reactors, impacting the lifespan of plasma-facing materials and overall reactor performance.
+
+Text:
+For example, the threshold energy for 
+the sputtering of Woxide by D is as low as 65 eV 9 due to the low binding energy of the WO 
+molecules. Tungsten erosion poses a significant challenge for fusion reactors, as it can impact the 
+lifespan of plasmafacing materials and the overall performance of the reactor. Additionally, the 
+httpsdoi.org10.26434chemrxiv2024llbk8 ORCID httpsorcid.org000900023788819X Content not peerreviewed by ChemRxiv. License CC BY 4.0
+
+3

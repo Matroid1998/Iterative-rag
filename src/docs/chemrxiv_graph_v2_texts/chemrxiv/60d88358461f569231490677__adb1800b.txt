@@ -1,0 +1,76 @@
+Description:
+A strong base that reacts with acids to form salts and water.
+
+Text:
+C
+SNa
+S
+S
+S
+NaO O
+O
+1
+4
+SH
+S
+NaO O
+O
+C
+S
+S
+S
+S
+NaO O
+O
+3
+R3
+R1
+HS
+R3
+R1
+R2
+R2
+2
+Br
+R3
+R1
+R2
+C
+S
+S
+R3
+R1
+R2
+S
+R3
+R1
+R2
+5
+S
+R3
+R1
+R2
+S
+R3
+R1
+R2
+7
+PTC
+rt
+heating
+36h
+CS2, NaOH
+scheme1
+C
+S
+S
+S
+NaO O
+O
+S
+S ONa
+O
+O
+6
+
+Page 3 of 23

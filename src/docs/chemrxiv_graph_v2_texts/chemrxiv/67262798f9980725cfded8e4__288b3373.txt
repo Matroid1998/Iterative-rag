@@ -1,0 +1,83 @@
+Description:
+Referenced as a reversible electrode potential in electrochemical evaluations.
+
+Text:
+Further 
+TEM images confirm the discrete nature of the Cu23 NCs and 
+its consistent size even after loading on the CB surface 
+(Figures 
+4bc). This 
+consistent 
+structural 
+feature 
+underscores the preservation of the Cu23 NCs structural 
+integrity during the electrode fabrication process, crucial 
+for its performance as a CO2RR catalyst. The electrochemical performance of Cu23 NC was 
+thoroughly evaluated across a range of constant voltages, 
+specifically from 0.6 to 1.4 V vs. the reversible hydrogen 
+electrode (RHE). This evaluation was conducted using CO2
+saturated 0.1 M KHCO3 aqueous solution as the electrolyte 
+within a gasflow Htype cell setup. Following the 
+electrochemical 
+testing, 
+an 
+indepth 
+analysis 
+was 
+performed utilizing gas chromatography (GC) and 1H NMR 
+to characterize the gas and liquid products, respectively.
+
+
+---
+
+Description:
+A product generated during CO2RR.
+
+Text:
+Our results indicated that hydrogen (H2), carbon monoxide 
+(CO), and formic acid (HCOOH) were the products 
+generated during the CO2RR (Figure 4d and Figure S11). To 
+verify that these products originated from the flowing CO2, 
+a control experiment was carried out using constant
+potential electrolysis in an argon (Ar) atmosphere instead 
+of CO2. The absence of CO2RR products at all tested 
+potentials in the Ar atmosphere confirmed that the detected 
+products were indeed derived from CO2 and not from any 
+other source (Figure S12). The Faradaic efficiency (FE) data 
+demonstrated a significant increase in total efficiency with 
+increasing potential, rising from 8 at 0.6 V to 74 at 1.4 
+V (Figure 4d). Initially, at 0.6 V, no CO2RR products were 
+obtained.
+
+
+---
+
+Description:
+Involved in the hydrogen evolution reaction, remaining nearly constant at 1.2 V.
+
+Text:
+The formation of HCOOH and a small amount of 
+CO was first observed at 0.8 V. As the potential became 
+more negative (from 1.0 V to 1.4 V), the selectivity for 
+HCOOH 
+increased 
+significantly, 
+reaching 
+saturation 
+(FEHCOOH 26) at 1.2 V, where hydrogen evolution 
+reaction (HER) was nearly at constant. Beyond 1.2 V, the 
+formation of CO is increasing with the increasing potential 
+where the HER and FEHCOOH are almost constant. To evaluate 
+the 
+stability 
+of 
+the 
+material 
+under 
+the 
+applied 
+electrochemical conditions, we identified the constant 
+current densities at each voltage for one hour duration 
+(Figure 4e). Chronoamperometric measurements were 
+then conducted at 1.0 V for a period of 6 hours to determine 
+the materials practical applicability (Figure S13).

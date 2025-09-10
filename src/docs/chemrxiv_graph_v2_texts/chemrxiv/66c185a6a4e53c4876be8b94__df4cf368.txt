@@ -1,0 +1,18 @@
+Description:
+A cubic system used to demonstrate PCT behavior in high-pressure, multielement interstitial hydrides.
+
+Text:
+However, PCT prediction becomes even
+more difficult if a metal or alloy is open to multiple
+species that can populate its interstitials (i.e., H and N)
+or if the pressure range to be modeled is sufficiently high
+that the pressure contribution to the enthalpy is non
+negligible. Our goal is therefore to generally address both chal
+lenges in a unified computational workflow so that PCT
+behavior of highpressure, multielement interstitial hy
+drides can be more rapidly predicted. We will demon
+strate this for the cubic Lu(H, N, Va)3 system, but ex
+pect its applicability to translate to other materials sci
+ence domains relying on (highpressure) interstitial in
+corporation in intermetallic alloy lattices. Modern ma
+httpsdoi.org10.26434chemrxiv20246g37p ORCID httpsorcid.org0000000244843216 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

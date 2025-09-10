@@ -1,0 +1,13 @@
+Description:
+A pigment whose excitation is quenched to dissipate excess energy in non-photochemical quenching.
+
+Text:
+Photosynthesis relies on a complex and delicate machinery that employs light to function
+but can incur in photodamage if too much light is absorbed by the photosynthetic pig
+ments. In plants and green algae, the lightharvesting complexes (LHCs) that absorb light
+and funnel the excitation energy towards reaction centers can also regulate this flux in re
+sponse to variations in light conditions.1 This regulation is necessary to avoid photodamage
+to the photosystems themselves, and occurs within LHCs in a mechanism known as non
+photochemical quenching (NPQ).28 When NPQ is triggered, chlorophyll (Chl) excitation is
+readily quenched, providing a fast dissipation channel for the excess energy. Notwithstanding decadeslong work on single LHCs,912 thylakoid membranes,13 or even
+intact leaves,14,15 the mechanisms underlying NPQ remain elusive.

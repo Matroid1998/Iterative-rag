@@ -1,0 +1,13 @@
+Description:
+A framework that can be functionalized with amines for CO2 adsorption.
+
+Text:
+The framework M2(dobpdc) (dobpdc  4,4dioxidobiphenyl3,3dicarboxylate) 
+(Figure 1a) can straightforwardly be functionalised with amines to yield a family of (amine)
+M2(dobpdc) adsorbents (Figure 1b).14 These adsorbents have large capacities for selective and 
+reversible CO2 uptake, and the adsorption thermodynamics can be tuned by varying the 
+amine,11,2427 and the metal.14,28,29 Importantly, these materials generally display steep 
+adsorption isotherms making them promising for a range of energy efficient carbon capture 
+applications.24,25 Initial characterisation of CO2 adsorption modes in these materials has 
+revealed a rich chemistry, with three CO2 adsorption products proposed to date (i) 
+ammonium carbamate chains (Figure 1c), thought to be the dominant product in a range of

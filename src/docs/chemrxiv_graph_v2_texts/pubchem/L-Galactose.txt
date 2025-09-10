@@ -1,0 +1,28 @@
+Name: L-Galactose
+Text:
+Aldohexose is a hexose with a (potential) aldehyde group at one end. It is an aldose and a hexose.
+Mannose, D- has been reported in Pisum sativum with data available.
+A primary source of energy for living organisms. It is naturally occurring and is found in fruits and other parts of plants in its free state. It is used therapeutically in fluid and nutrient replacement.
+See also: D-Glucose (annotation moved to); Polyglucose (annotation moved to); D-Allose (annotation moved to) ... View More ...
+Properties:safety: Irritant
+smiles: C(C(C(C(C(C=O)O)O)O)O)O
+formula: C6H12O6
+chem_properties: Molecular Weight: 180.16 g/mol
+XLogP3: -2.9
+Hydrogen Bond Donor Count: 5
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 5
+Exact Mass: 180.06338810 Da
+Monoisotopic Mass: 180.06338810 Da
+Topological Polar Surface Area: 118
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 138
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 4
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

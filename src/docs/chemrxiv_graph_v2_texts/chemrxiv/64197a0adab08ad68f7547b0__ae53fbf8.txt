@@ -1,0 +1,14 @@
+Description:
+A compound involved in thiol exchange reactions and signal amplification.
+
+Text:
+This 
+strategy, first described by Anslyn and coworkers9, detects thiol signals indirectly via thiol
+exchange mediated release of BME and its subsequent reaction with a Meldrums acidbased 
+reagent. Once initiated, the reaction converts one equivalent of BME or DTT to decouple two 
+equivalents of thiol. Using this approach, the authors were able to amplify initial thiol input and 
+convert it to macroscopic material degradation and optical detection.15 Inspired by these 
+concepts, we sought to develop a new strategy for creating soft polymeric materials that are 
+able to recognize, amplify and translate (bio)chemically relevant signals into global 
+macroscopic material changes, regardless the quantities or molecular size of the applied 
+signal.

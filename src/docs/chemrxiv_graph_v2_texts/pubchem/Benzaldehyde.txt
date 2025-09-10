@@ -1,0 +1,29 @@
+Name: Benzaldehyde
+Text:
+Benzaldehyde appears as a clear colorless to yellow liquid with a bitter almond odor. Flash point near 145 °F. More denser than water and insoluble in water. Hence sinks in water. Vapors are heavier than air. The primary hazard is to the environment. Immediate steps should be taken to limit spread to the environment. Easily penetrates the soil to contaminate groundwater and nearby waterways. Used in flavoring and perfume making.
+Benzaldehyde is an arenecarbaldehyde that consists of benzene bearing a single formyl substituent; the simplest aromatic aldehyde and parent of the class of benzaldehydes. It has a role as a flavouring agent, a fragrance, an odorant receptor agonist, a plant metabolite, an EC 3.5.5.1 (nitrilase) inhibitor and an EC 3.1.1.3 (triacylglycerol lipase) inhibitor.
+Benzaldehyde has been reported in Camellia sinensis, Humulus lupulus, and other organisms with data available.
+Benzaldehyde is an aromatic aldehyde bearing a single formyl group with an almond odor. Benzaldehyde can be derived from natural sources and is widely used by the chemical industry in the preparation of various aniline dyes, perfumes, flavorings, and pharmaceuticals.
+Phenyl methanal is a metabolite found in or produced by Saccharomyces cerevisiae.
+Properties:safety: Irritant
+smiles: C1=CC=C(C=C1)C=O
+formula: C7H6O
+chem_properties: Molecular Weight: 106.12 g/mol
+XLogP3: 1.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 1
+Exact Mass: 106.041864811 Da
+Monoisotopic Mass: 106.041864811 Da
+Topological Polar Surface Area: 17.1
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 72.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

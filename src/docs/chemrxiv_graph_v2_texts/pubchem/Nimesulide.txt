@@ -1,0 +1,29 @@
+Name: Nimesulide
+Text:
+Nimesulide is an aromatic ether having phenyl and 2-methylsulfonamido-5-nitrophenyl as the two aryl groups. It has a role as a cyclooxygenase 2 inhibitor and a non-steroidal anti-inflammatory drug. It is a C-nitro compound, a sulfonamide and an aromatic ether. It is functionally related to a nitrobenzene.
+Nimesulide is a relatively COX-2 selective, non-steroidal anti-inflammatory drug (NSAID) with analgesic and antipyretic properties. Its approved indications are the treatment of acute pain, the symptomatic treatment of osteoarthritis and primary dysmenorrhoea in adolescents and adults above 12 years old. Due to concerns about the risk of hepatotoxicity, nimesulide has been withdrawn from market in many countries.
+Nimesulide is a nonsteroidal antiinflammatory drug (NSAID) with relative specificity for COX-2 that is not available in the United States, but is used widely in other countries in the treatment of acute pain. Nimesulide has been linked to a low rate of transient serum enzyme elevations during therapy, but also to many instances of clinically apparent acute liver injury that can be severe and can result in acute liver failure, need for emergency liver transplantation and death.
+Nimesulide is a nonsteroidal arylsulfonamide with anti-inflammatory properties.  Nimesulide inhibits the cyclooxygenase-mediated conversion of arachidonic acid to pro-inflammatory prostaglandins.  Modestly selective for COX-2, this agent binds to the enzyme, thereby inactivating it.  Nimesulide may inhibit some carcinogenic COX-2-related carcinogenic effects on xenobiotic metabolism, apoptosis, immune surveillance and angiogenesis (overexpressed COX-2 in tumor epithelial cells enhances production of vascular growth factors and the formation of capillary-like networks). (NCI04)
+NIMESULIDE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) and has 3 approved and 2 investigational indications. It was withdrawn in at least one region.
+Properties:safety: Acute Toxic
+smiles: CS(=O)(=O)NC1=C(C=C(C=C1)[N+](=O)[O-])OC2=CC=CC=C2
+formula: C13H12N2O5S
+chem_properties: Molecular Weight: 308.31 g/mol
+XLogP3: 2.6
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 4
+Exact Mass: 308.04669266 Da
+Monoisotopic Mass: 308.04669266 Da
+Topological Polar Surface Area: 110
+Heavy Atom Count: 21
+Formal Charge: 0
+Complexity: 450
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

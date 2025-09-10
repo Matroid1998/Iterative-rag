@@ -1,0 +1,17 @@
+Description:
+Forms hydrogen bonds in protic solvents, influencing optical spectra.
+
+Text:
+Additionally, the condensed phase environment
+can strongly influence optical spectra, both through en
+vironmental polarization effects and direct chromophore
+environment interactions, such as hydrogen bonding in
+protic solvents.611 Slow, generally anharmonic, collec
+tive chromophoreenvironment motion also poses a chal
+lenge and is often of importance in complex biological
+systems.3,12,13 Robust computational approaches capa
+ble of capturing these effects from first principles are de
+sirable, as experimental condensed phase optical spectra
+are often highly congested, making it challenging to es
+tablish structureproperty relationships from experimen
+tal data alone.

@@ -1,0 +1,24 @@
+Name: 1H-indole-2-carbonitrile
+Text:
+Properties:safety: Irritant
+smiles: C1=CC=C2C(=C1)C=C(N2)C#N
+formula: C9H6N2
+chem_properties: Molecular Weight: 142.16 g/mol
+XLogP3: 2.5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 142.053098200 Da
+Monoisotopic Mass: 142.053098200 Da
+Topological Polar Surface Area: 39.6
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 191
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,8 @@
+Description:
+Used in anodes for lithium-ion batteries, involved in evaporation process studies.
+
+Text:
+Studying experimentally the evaporation process for high solid content (SC) dispersions, as LIBs 
+slurries, requires specific equipment (which often need to be built in house) and clever strategies. The group of Professor Schabel1821 published a series of experimental works aiming to investigate 
+the evaporation process in graphitebased anodes. In these studies, they demonstrated that (i) high 
+drying rate (HDR) leads to a gradient in binder distribution along the electrode thickness, lowering

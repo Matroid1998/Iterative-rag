@@ -1,0 +1,12 @@
+Description:
+Forms spin-crossover (SCO) complexes with enthalpy differences typically less than 50 kJ mol⁻¹.
+
+Text:
+3 In SCO materials the enthalpy dier
+ence between the HS and LS states, H  HHS HLS, is typically less than 50 kJ mol1.4
+As SCO often occurs in large coordination complexes and coordination polymers, this is
+challenging for rst principles approaches to accurately and reliably capture. Density functional theories (DFT) utilizing hybrid functionals, which include some exact
+exchange can predict H accurately enough to allow the prediction of many material prop
+erties. Notably, Jensen and Cirera 5 reported that the metahybrid TPSSh, with 10  exact
+exchange, gave a mean absolute error relative to experiment (MAE) of 11 kJ mol1 for H
+for a range of Fe based SCO complexes.

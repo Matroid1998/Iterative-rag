@@ -1,0 +1,28 @@
+Description:
+Used as a methyl donor in SN2 methylation catalyzed by SAM MTases.
+
+Text:
+Sadenosyl methionine methyltransferases (SAM MTases) are a ubiquitous class of 
+enzymes. SAM MTases are observed in a wide range of organisms including bacteria, fungus, 
+plants, and humans.14 SAM MTases catalyze SN2 methylation, using SAM as a methyl donor. Their functions are involved in many essential life processes, including gene expression,57 protein 
+modification,810 neurotransmitter degradation,1113 and natural product synthesis.1416 SAM 
+MTases target various types of atoms, including carbon, nitrogen, oxygen and sulfur (Scheme 1).
+
+
+---
+
+Description:
+A molecule shown in its protonation state at a pH of 7.0.
+
+Text:
+Enabled by advances in structural determination, kinetic studies, and multiscale molecular 
+modeling,1720 the mechanistic detail of SAM MTases has been unveiled.2123 Combination of 
+binding isotope effect experiment and largescale quantum mechanical calculations shows the 
+dependence of ground state donoracceptor distance on the catalytic efficiency of catecholO
+methyltransferase.18, 24, 25 Investigations into CH hydrogen bonding have elucidated the role of 
+these nonbonding interactions in ensuring catalytic efficiency.2628 Analysis of charge transfer and 
+electrostatics on four Class I SAM MTases has illustrated the ability of these enzymes to customize 
+their electrostatic potentials to the intrinsic reactivity of their target substrates.29 
+
+Scheme 1. Chemical structure of Sadenosyl methionine. The left side (a) shows the full molecule 
+in the protonation state seen at a pH of 7.0.

@@ -1,0 +1,14 @@
+Description:
+A compound with potential active sites for Li ion binding, evaluated for energetically favored positions.
+
+Text:
+Identifying the most favorable alkaliligand binding sites
+in susbtrates involves speculating multiple potential binding locations and calculating the
+corresponding energies of all possible lithiated structures for comparison.6,8,9 This process
+is timeconsuming and prone to overlooking some viable configurations. For example, Kim
+et al. identified the energetically favored Li ion positions in 2,6diaminoanthraquinone by
+evaluating five potential active sites.6 Similarly, Zhang et al. used simulated annealing cal
+culations to explore all possible lithiated structures with lower energies.7 For biomolecular
+systems this procedure is even more expensive from a computational standpoint.10 Molec
+ular Electrostatic interactions have been identified to play a key role in the ordering of the
+binding sites.

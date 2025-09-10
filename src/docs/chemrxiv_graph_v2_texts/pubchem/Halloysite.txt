@@ -1,0 +1,25 @@
+Name: Halloysite
+Text:
+Halloysite is a mineral with formula of Al2Si2O5(OH)4. The corresponding IMA (International Mineralogical Association) number is IMA2022 s.p.. The IMA symbol is Hly-7A.
+A naturally-occurring rock or soil constituent characterized by particles with a diameter of less than 0.005 mm. It is composed primarily of hydrous aluminum silicates, trace amounts of metal OXIDES, and organic matter.
+Properties:safety: Health Hazard
+smiles: O.O[Si](O)(O)O[Si](O)(O)O.[Al].[Al]
+formula: Al2H8O8Si2
+chem_properties: Molecular Weight: 246.19 g/mol
+Hydrogen Bond Donor Count: 7
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 2
+Exact Mass: 245.938847 Da
+Monoisotopic Mass: 245.938847 Da
+Topological Polar Surface Area: 132
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 72.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 4
+Compound Is Canonicalized: Yes 
+

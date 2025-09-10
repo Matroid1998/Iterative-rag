@@ -1,0 +1,28 @@
+Name: Benzyl Benzoate
+Text:
+Benzyl benzoate is a benzoate ester obtained by the formal condensation of benzoic acid with benzyl alcohol. It has been isolated from the plant species of the genus Polyalthia. It has a role as a scabicide, an acaricide and a plant metabolite. It is a benzyl ester and a benzoate ester. It is functionally related to a benzoic acid.
+Benzyl benzoate is one of the older preparations used to treat scabies. Scabies is a skin infection caused by the mite sarcoptes scabiei. It is characterised by severe itching (particularly at night), red spots, and may lead to a secondary infection. Benzyl benzoate is lethal to this mite and so is useful in the treatment of scabies. It is also used to treat lice infestation of the head and body. Benzyl benzoate is not the treatment of choice for scabies due to its irritant properties.
+Benzyl benzoate has been reported in Camellia sinensis, Desmos chinensis, and other organisms with data available.
+BENZYL BENZOATE is a small molecule drug with a maximum clinical trial phase of IV that was first approved in 1976 and is indicated for parasitic infection.
+Properties:safety: Irritant and Environmental Hazard
+smiles: C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2
+formula: C14H12O2
+chem_properties: Molecular Weight: 212.24 g/mol
+XLogP3: 4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 4
+Exact Mass: 212.083729621 Da
+Monoisotopic Mass: 212.083729621 Da
+Topological Polar Surface Area: 26.3
+Heavy Atom Count: 16
+Formal Charge: 0
+Complexity: 213
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

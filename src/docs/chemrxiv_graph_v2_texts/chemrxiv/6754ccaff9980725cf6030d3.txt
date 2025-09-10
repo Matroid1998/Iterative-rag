@@ -1,0 +1,18 @@
+Description:
+A reactive species involved in oxidative processes, including singlet oxygen used in photodynamic therapy.
+
+Text:
+The ability of compounds to generate various reactive 
+oxygen species (ROS), including singlet oxygen, is attracting the 
+attention from researchers across multiple fields. These 
+compounds, known as photosensitizers, exploit the high oxidative 
+potential of ROS and have found diverse applications in medicine. Photodynamic therapy (PDT) and photodynamic inactivation 
+(PDI) already being actively employed for the treatment of 
+tumors1,2, bacterial3 and fungal4,5 infections. In addition, the use 
+of photosensitizers is also promising for antiviral therapy6. The antiviral mechanism of photosensitizers relies on the 
+generation of singlet oxygen. When a lipophilic dye is 
+incorporated into the viral membrane, it localizes near 
+unsaturated lipids. Upon light exposure, the photosensitizer 
+produces singlet oxygen, which oxidizes the double bonds of fatty 
+acid residues, thereby compromising the integrity of the viral 
+envelope.

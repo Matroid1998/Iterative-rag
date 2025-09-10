@@ -1,0 +1,29 @@
+Name: Methanethiol
+Text:
+Methyl mercaptan is a colorless gas with a smell like rotten cabbage. It is a natural substance found in the blood, brain, and other tissues of people and animals. It is released from animal feces. It occurs naturally in certain foods, such as some nuts and cheese. Methyl mercaptan is released from decaying organic matter in marshes and is present in the natural gas of certain regions in the United States, in coal tar, and in some crude oils. It is manufactured for use in the plastics industry, in pesticides, and as a jet fuel additive. It is also released as a decay product of wood in pulp mills.
+Methyl mercaptan appears as a colorless low-boiling liquid that is denser than water. Very toxic by inhalation. Can be absorbed through the skin. Has a sharp odor, but the sense of smell cannot be relied upon to warn of the presence of vapors at low concentrations.   Rate of onset: Immediate  Persistence: Minutes to hours  Odor threshold: 0.002 ppm  Source/use/other hazard: From decayed organic matter - pulp mills, oil refineries; highly flammable; liquid burns/frostbite.
+Methanethiol is an alkanethiol. It has a role as a human metabolite and a Saccharomyces cerevisiae metabolite.
+Methanethiol has been reported in Solanum tuberosum, Allium ampeloprasum, and other organisms with data available.
+Methanethiol is a metabolite found in or produced by Saccharomyces cerevisiae.
+Properties:safety: Flammable and Compressed Gas and Acute Toxic and Environmental Hazard
+smiles: CS
+formula: CH4S
+chem_properties: Molecular Weight: 48.11 g/mol
+XLogP3: 0.5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 48.00337130 Da
+Monoisotopic Mass: 48.00337130 Da
+Topological Polar Surface Area: 1
+Heavy Atom Count: 2
+Formal Charge: 0
+Complexity: 2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

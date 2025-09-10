@@ -1,0 +1,17 @@
+Description:
+A gas that can be enriched in the para spin isomer for use in hyperpolarization techniques.
+
+Text:
+One example of such a hyperpolarization 
+method is parahydrogen induced polarization (PHIP) in 
+which hydrogen gas enriched in the para spin isomer is 
+chemically reacted with an unsaturated molecule to 
+generate a product with hyperpolarized 1H nuclear spins16
+25. In a second step, the hyperpolarization can be 
+transferred to other nuclei, e.g. 13C or 15N 2532. PHIP is 
+renowned for being inexpensive, simple to use, and allows 
+for the production of hyperpolarized substrates with a high 
+repetition cycle. For a number of reasons, 1H would be the ideal nucleus for 
+hyperpolarizationenhanced MRI3335 
+
+1.

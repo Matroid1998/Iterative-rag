@@ -1,0 +1,23 @@
+Name: Triethylborane
+Text:
+Properties:safety: Flammable and Corrosive and Acute Toxic and Health Hazard
+smiles: B(CC)(CC)CC
+formula: C6H15B
+chem_properties: Molecular Weight: 98.00 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 3
+Exact Mass: 98.1266806 Da
+Monoisotopic Mass: 98.1266806 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 25.7
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

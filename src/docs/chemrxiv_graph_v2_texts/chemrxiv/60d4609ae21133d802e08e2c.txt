@@ -1,0 +1,13 @@
+Description:
+Molecules whose motion affects NMR line shapes and can be analyzed for chemical shift tensors.
+
+Text:
+The experimental NMR line shapes are therefore directly related to the molecular 
+motion of the CO2 molecules in the sample. In simple terms the more movement the CO2 
+molecules exhibit, the narrower the measured line will be. For an overview of the methodology 
+we refer the interested reader to an excellent review by Reimer et al.2 Commonly, the 
+experimental line shapes are used to fit chemical shift (or shielding) tensors, which can be used 
+to obtain relative positional and motional information about the CO2 molecules.57 The 
+opposite route can however also be taken from molecular dynamics (MD) simulations, the 
+trajectories of the adsorbed CO2 molecules are readily available. This information can be 
+translated into a residual chemical shift anisotropy (i.e.

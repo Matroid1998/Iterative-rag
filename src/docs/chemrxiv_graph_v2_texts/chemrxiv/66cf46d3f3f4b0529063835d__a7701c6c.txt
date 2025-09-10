@@ -1,0 +1,12 @@
+Description:
+Involved in the cyclic degradation of SnPSCs leading to a p-type perovskite layer.
+
+Text:
+Sn(II) is more susceptible to oxidation 
+than Pb(II), as the valence electrons of Sn experience lower effective nuclear charge than those of its 
+heavier congener. In addition to the energetic driving force for this oxidation, Lanzetta et al. demonstrated the significance of I2 generation in SnPSCs, which leads to a cyclic degradation with 
+detrimental selfdoping resulting in a ptype perovskite layer.6 These fundamental studies of the 
+degradation of the active layer have thus far proved useful in designing a road map for mitigating 
+oxidation. Use of additives and compositional engineering is a common strategy to inhibit Sn 
+oxidation in PSCs.710 For example, addition of small amounts of SnF2, Sn metal and NH4SCN which 
+can act as reducing agents without fundamentally changing the perovskite morphology.

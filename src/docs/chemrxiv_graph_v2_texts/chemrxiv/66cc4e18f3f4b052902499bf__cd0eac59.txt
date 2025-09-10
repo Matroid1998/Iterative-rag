@@ -1,0 +1,19 @@
+Description:
+Proposed as (over)layers on Cu in COX hydrogenation catalysts.
+
+Text:
+In addition to particle size and distributions, bimetallic 
+catalysts can form various interfaces and alloys.1619 As a result, understanding NPs at a molecular level is challenging, even when using stateof
+theart in situoperando spectroscopic techniques and computational modelling.20 
+In that context, the structure and the active sites of CuZnOAl2O3, a catalyst used for COX hydrogenation, have been debated for decades.2124 
+Possible active sites proposed in the literature include a CuZn surface alloy, Zn species at the Cu steps, ZnOX (over)layers on Cu, and the ZnO
+Cu interface, among others.2533 Surface Organometallic Chemistry (SOMC), augmented with advanced computational methods, a powerful 
+approach to understanding such catalysts at the molecular level,34,35 has been applied to supported Cu nanoparticles on ZrO2 or Zrdoped silica 
+surfaces, pinpointed the role of the interface between the Cu NPs and the oxide support.3639 Corresponding works on supported Cu nanoparticles 
+on Zn or Gadoped silicas have shown increased complexity, forming alloys under reducing conditions with dealloying under CO2 
+hydrogenation conditions, further illustrating the possible dynamics involved in these catalysts.40,41 The combination of ab initio thermodynamics 
+on slab models with experimental data has indicated that Cu remains metallic under both CO and CO2 hydrogenation conditions,42 while the 
+promoters (Zn or Ga) could be oxidized under CO2 hydrogenation and related conditions.19 Furthermore, the redox state has been shown to 
+oscillate with respect to the exact reaction conditions (more reducing or oxidizing, depending on the CO2 content) and to depend very much on 
+the amount of the promoters, especially for Ga, promoting or poisoning the catalysts by enabling or not the redox process.43 Thus, further 
+calculations are needed to capture the possible dynamics involved in these catalysts.

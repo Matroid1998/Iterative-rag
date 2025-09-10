@@ -1,0 +1,42 @@
+Description:
+Plays a crucial role in drug development by influencing pharmacokinetic and dynamic properties.
+
+Text:
+of fluorine in compounds plays a crucial role in drug development as it greatly influences their final
+pharmacokinetic and dynamic properties. Due to the increasing prevalence of fluorine in FDAapproved drugs in recent
+years, identifying the underlying mechanisms driving their chemical transformations has become crucial in the drug
+discovery landscape. 19F NMR spectroscopy is a powerful analytical technique that allows for the examination of
+fluorinecontaining compounds, offering valuable information about their structure, dynamics, and reactivity. Consequently, this technique has become a cornerstone in the mechanistic evaluation of fluorinecontaining chemical
+transformations. NMR spectra can be interpreted through the leveraging of Density Functional Theory (DFT), an ab initio
+modeling method that can be harnessed for the prediction of NMR chemical shifts.
+
+
+---
+
+Description:
+Its presence in compounds is analyzed using 19F NMR spectroscopy to gain insights into structure, dynamics, and reactivity.
+
+Text:
+of fluorine in compounds plays a crucial role in drug development as it greatly influences their final
+pharmacokinetic and dynamic properties. Due to the increasing prevalence of fluorine in FDAapproved drugs in recent
+years, identifying the underlying mechanisms driving their chemical transformations has become crucial in the drug
+discovery landscape. 19F NMR spectroscopy is a powerful analytical technique that allows for the examination of
+fluorinecontaining compounds, offering valuable information about their structure, dynamics, and reactivity. Consequently, this technique has become a cornerstone in the mechanistic evaluation of fluorinecontaining chemical
+transformations. NMR spectra can be interpreted through the leveraging of Density Functional Theory (DFT), an ab initio
+modeling method that can be harnessed for the prediction of NMR chemical shifts.
+
+
+---
+
+Description:
+Atoms whose features in models are derived from their local three-dimensional structural environments.
+
+Text:
+However, the screening of compounds
+and discovery of feasible drug candidates is severely limited due to the computational cost of DFT. Here, we present a
+machine learning approach to accelerate the prediction of DFTcalculated 19F NMR chemical shifts. The fluorine atoms
+features in the models were derived from their local threedimensional structural environments, representing their
+neighboring atoms within a radius of n  away from the given fluorine atom in the compound. A comparative analysis of
+thirteen regression models was conducted using features extracted from 501 fluorinated compounds in our laboratorys
+chemical inventory. The target chemical shift values were calculated using DFT with the quantum chemistry software
+ORCA.

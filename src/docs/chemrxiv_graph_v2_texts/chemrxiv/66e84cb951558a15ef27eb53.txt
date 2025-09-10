@@ -1,0 +1,11 @@
+Description:
+Used as a precatalyst in transition metal-catalyzed carbon-heteroatom bond formation.
+
+Text:
+Transition metalcatalyzed carbonheteroatom bond formation is fundamental to modern synthetic organic chemistry, playing 
+a pivotal role in the synthesis of pharmaceuticals, agrochemicals, and materials.16 These transformations are typically 
+performed using palladium (Pd),1,713 copper (Cu),1419 or nickel (Ni) precatalysts,5,2031 with their efficiency reliant on the 
+precise balance of ligands, solvents, and bases for the key catalytic steps to effectively occur. Despite substantial progress, 
+achieving the optimal synergy between ligands and bases remains especially challenging, often requiring casebycase 
+optimization. While effective ligand design is essential for optimizing oxidative addition, reductive elimination, and active 
+catalyst formation and stability, base selection influences nucleophile binding, deprotonation, and overall catalyst performance. Traditional methods often rely on inorganic bases or strong anionic bases with low nucleophilicity.

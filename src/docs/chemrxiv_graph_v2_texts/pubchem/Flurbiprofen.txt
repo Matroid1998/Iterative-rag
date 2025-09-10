@@ -1,0 +1,34 @@
+Name: Flurbiprofen
+Text:
+Flurbiprofen can cause developmental toxicity and female reproductive toxicity according to state or federal government labeling requirements.
+Flurbiprofen is a monocarboxylic acid that is a 2-fluoro-[1,1'-biphenyl-4-yl] moiety linked to C-2 of propionic acid. A non-steroidal anti-inflammatory, analgesic and antipyretic, it is used as a pre-operative anti-miotic as well as orally for arthritis or dental pain. It has a role as a non-steroidal anti-inflammatory drug, a non-narcotic analgesic, an antipyretic and an EC 1.14.99.1 (prostaglandin-endoperoxide synthase) inhibitor. It is a fluorobiphenyl and a monocarboxylic acid. It is functionally related to a propionic acid. It derives from a hydride of a biphenyl.
+Flurbiprofen, a propionic acid derivative, is a nonsteroidal anti-inflammatory agent (NSAIA) with antipyretic and analgesic activity. Oral formulations of flurbiprofen may be used for the symptomatic treatment of rheumatoid arthritis, osteoarthritis and anklylosing spondylitis. Flurbiprofen may also be used topically prior to ocular surgery to prevent or reduce intraoperative miosis. Flurbiprofen is structurally and pharmacologically related to fenoprofen, ibuprofen, and ketoprofen.
+Flurbiprofen is a Nonsteroidal Anti-inflammatory Drug. The mechanism of action of flurbiprofen is as a Cyclooxygenase Inhibitor.
+Flurbiprofen is a nonsteroidal antiinflammatory drug (NSAID) used in treatment of mild-to-moderate pain and symptoms of chronic arthritis. Flurbiprofen has been linked to a low rate of serum enzyme elevations during therapy and to rare instances of clinically apparent acute liver injury.
+Flurbiprofen is a derivative of propionic acid, and a phenylalkanoic acid derivative of non-steroidal antiinflammatory drugs (NSAIDs) with analgesic, antiinflammatory and antipyretic effects. Flurbiprofen non-selectively binds to and inhibits cyclooxygenase (COX). This results in a reduction of arachidonic acid conversion into prostaglandins that are involved in the regulation of pain, inflammation and fever. This NSAID also inhibits carbonic anhydrase, thereby reducing the production of hydrogen and bicarbonate ions. Upon ocular administration, flurbiprofen may reduce bicarbonate ion concentrations leading to a decrease in the production of aqueous humor, thereby lowering intraocular pressure.
+FLURBIPROFEN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1986 and has 5 approved and 10 investigational indications. This drug has a black box warning from the FDA.
+Flurbiprofen, a propionic acid derivative, is a nonsteroidal anti-inflammatory agent (NSAIA) with antipyretic and analgesic activity. Oral formulations of flurbiprofen may be used for the symptomatic treatment of rheumatoid arthritis, osteoarthritis and anklylosing spondylitis. Flurbiprofen may also be used topically prior to ocular surgery to prevent or reduce intraoperative miosis. Flurbiprofen is structurally and pharmacologically related to fenoprofen, ibuprofen, and ketoprofen.
+An anti-inflammatory analgesic and antipyretic of the phenylalkynoic acid series. It has been shown to reduce bone resorption in periodontal disease by inhibiting CARBONIC ANHYDRASE.
+See also: Flurbiprofen Sodium (has salt form); Flurbiprofen Axetil (is active moiety of); Esflurbiprofen (annotation moved to).
+Properties:safety: Acute Toxic and Irritant and Health Hazard
+smiles: CC(C1=CC(=C(C=C1)C2=CC=CC=C2)F)C(=O)O
+formula: C15H13FO2
+chem_properties: Molecular Weight: 244.26 g/mol
+XLogP3: 4.2
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 3
+Exact Mass: 244.08995782 Da
+Monoisotopic Mass: 244.08995782 Da
+Topological Polar Surface Area: 37.3
+Heavy Atom Count: 18
+Formal Charge: 0
+Complexity: 286
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

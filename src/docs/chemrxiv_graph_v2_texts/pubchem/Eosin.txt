@@ -1,0 +1,26 @@
+Name: Eosin
+Text:
+Eosin is a red crystalline powder. (NTP, 1992)
+Eosin YS dye is an organic sodium salt that is 2',4',5',7'-tetrabromofluorescein in which the carboxy group and the phenolic hydroxy group have been deprotonated and the resulting charge is neutralised by two sodium ions. It has a role as a fluorochrome and a histological dye. It is an organobromine compound and an organic sodium salt. It contains a 2',4',5',7'-tetrabromofluorescein(2-).
+A versatile red dye used in cosmetics, pharmaceuticals, textiles, etc., and as tissue stain, vital stain, and counterstain with HEMATOXYLIN. It is also used in special culture media.
+Properties:safety: Irritant
+smiles: C1=CC=C(C(=C1)C2=C3C=C(C(=O)C(=C3OC4=C(C(=C(C=C24)Br)[O-])Br)Br)Br)C(=O)[O-].[Na+].[Na+]
+formula: C20H6Br4Na2O5
+chem_properties: Molecular Weight: 691.9 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 1
+Exact Mass: 691.67031 Da
+Monoisotopic Mass: 687.67441 Da
+Topological Polar Surface Area: 89.5
+Heavy Atom Count: 31
+Formal Charge: 0
+Complexity: 796
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

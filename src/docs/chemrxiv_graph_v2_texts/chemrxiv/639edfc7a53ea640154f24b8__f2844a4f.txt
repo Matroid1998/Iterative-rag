@@ -1,0 +1,12 @@
+Description:
+Formed from the reduction of Ni2 during the formation of La2NiO3F.
+
+Text:
+Although carbon is typically considered an inert 
+additive, recent work uncovered the unexpected oxidation of carbon, as identified via XPS 
+measurements that showed the shift in carbon to higher binding energies.5f Unwanted side 
+reactions can also be observed under reducing conditions. Wissel et al.6 studied the 
+electrochemical topochemical reduction of La2NiO3F2 7 within a solidstate FIB, attempting to 
+form partially defluorinated La2NiO3F1.93 and La2NiO3F, both of which require reduction of Ni2 
+to Ni. Remarkably, they observed only the formation of La2NiO3F1.93, even though the charging 
+plateau exceeded the theoretical capacity for forming La2NiO3F by a factor of four. XPS

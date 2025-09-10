@@ -1,0 +1,24 @@
+Name: 2-Fluorobenzothiazole
+Text:
+Properties:safety: Irritant
+smiles: C1=CC=C2C(=C1)N=C(S2)F
+formula: C7H4FNS
+chem_properties: Molecular Weight: 153.18 g/mol
+XLogP3: 2.7
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 153.00484847 Da
+Monoisotopic Mass: 153.00484847 Da
+Topological Polar Surface Area: 41.1
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 131
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

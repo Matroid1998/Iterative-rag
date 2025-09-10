@@ -1,0 +1,17 @@
+Description:
+A dopant used in silicon substrates for semiconductor applications.
+
+Text:
+Furthermore, advanced CMOS devices also require the 
+use of ntype Si to enable doped sourcedrain regions for 
+DRAM peripheries 1820. The ntype Si growth is enabled by doing single
+wafer CVD deposition of SiP on Si substrate. The substrate 
+has a small Boron doping, from the manufacturer, in the 
+range of  1015cm3. Epitaxial growth allows one to create 
+films that have high activated doping, by virtue of 
+substitutional doping. In epitaxial deposition, the depositing 
+film templates on top of a crystalline material. Furthermore, 
+the inherent high crystallinity of the films ensure that they 
+exhibit superior material and transport properties such as 
+high mobility, low impuritydefect scattering and high 
+thermal stability 21.

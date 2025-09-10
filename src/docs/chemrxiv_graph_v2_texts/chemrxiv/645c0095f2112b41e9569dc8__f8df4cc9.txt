@@ -1,0 +1,12 @@
+Description:
+Complexes that can reduce NAD to 1,4NADH and pyruvate to lactate using formate as the hydride source.
+
+Text:
+Unfortunately, no correlation between activity in NMR experiments and in cells could be 
+observed13, probably due to catalyst poisoning or side reactions in the cellular environment. In 2012, Hollman et al. reported a modified heterogenic Rh(III)Noyori type catalyst capable of 
+reducing NAD, proving that the compounds could potentially be used for regeneration of NADH14. Further 
+studies on Rh(III)arene complexes showed that they can reduce NAD to 1,4NADH and pyruvate to lactate, 
+using formate as the hydride source, under biologicallyrelevant conditions11. Pyruvate is an important 
+intermediate in metabolic pathways in cells; it is the endproduct of glycolysis, and is ultimately destined for 
+transport into mitochondria as a pivotal fuel input sustaining the Krebs cycle15. Hence, disturbance of pyruvate 
+metabolism is expected to generate metabolic disorder.

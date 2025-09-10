@@ -1,0 +1,14 @@
+Description:
+Involved in hydrogen bonding, a key interaction in biomolecular systems.
+
+Text:
+for dispersion and hydrogen bonding.1,4,5 Such 
+augmented methods, most notably PM6D3H4X, provide a highly accurate description of non
+covalent interactions in large biomolecular systems, such as proteinligand and proteinprotein 
+complexes for which reliable crystal structures are available.6 Recently, an empirical correction 
+for close SO contacts (PM6D3H4S) has been developed,7 which was applied to describe 
+chalcogen bonds in biomolecular complexes.8 To extend the utility of PM6D3H4 to aqueous 
+solutions, the COSMO2 implicit solvent model was reparametrized for singlepoint energies with 
+superior performance for model systems as well as proteinligand complexes.9,10 
+The binding of insulin to its receptor (insulin receptor, IR) produces a proteinprotein 
+complex of primary clinical relevance.

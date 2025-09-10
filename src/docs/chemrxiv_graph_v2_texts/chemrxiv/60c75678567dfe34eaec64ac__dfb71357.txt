@@ -1,0 +1,13 @@
+Description:
+A material used in microstructures for controlled manipulation of particles through acoustic forces.
+
+Text:
+The controlled particle manipulation using acoustic forces, acoustophoresis, has been
+widely applied due to its advantages of being labelfree, contactless, and exible in design
+while exposing biocompatible behaviour.4
+Recent publications have illustrated a large variety of microstructures suitable for the
+controlled manipulation of single cells and particles through acoustic forces. Solid features
+such as polydimethylsiloxane (PDMS) or silicon sharpedges are acoustically excited via an
+external piezoelectric transducer, leading to the formation of acoustic streaming patterns
+in the nearby liquid.58 Unfortunately, the majority of these acoustouidic setups require a
+2

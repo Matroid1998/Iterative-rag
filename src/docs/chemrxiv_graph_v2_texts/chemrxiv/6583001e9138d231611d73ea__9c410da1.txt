@@ -1,0 +1,14 @@
+Description:
+A cofactor for nonheme iron enzymes that catalyze CH activation reactions.
+
+Text:
+. Metalloenzymes catalyze difficult reactions with exquisite selectivity that make their study 
+of interest both for understanding their biological function and for synthetic catalyst design. Exemplary of this are the aketoglutarate (aKG)dependent nonheme iron enzymes13, which 
+carry out CH activation reactions selectively. CH activation is difficult to achieve 
+synthetically4,5 owing to the high CH bond dissociation energy and its inertness due to low 
+polarity6. These nonheme iron enzymes are studied widely7 and are known to catalyze a variety 
+of reactions such as CH hydroxylation,812 halogenation,1317 epoxidation,1821 desaturation,22 and 
+ring cleavage23,24. These reactions play important roles in several biosynthetic processes2528 such 
+as primary and secondary metabolism in plants29, generation of clinically relevant natural 
+products3033, DNA repair3438 and transcription.3941 
+Nonheme iron enzymes are also highly selective in nature.

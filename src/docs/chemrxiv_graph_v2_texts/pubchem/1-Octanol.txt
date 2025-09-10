@@ -1,0 +1,31 @@
+Name: 1-Octanol
+Text:
+Octanol appears as a clear colorless liquid with a penetrating aromatic odor. Insoluble in water and floats on water. Vapors heavier than air. Vapors may irritate the eyes, nose, and respiratory system.
+Octan-1-ol is an octanol carrying the hydroxy group at position 1. It has a role as a plant metabolite, an antifungal agent, a kairomone, a fuel additive and a bacterial metabolite. It is an octanol and a primary alcohol.
+Caprylic alcohol has been used in trials studying the treatment of Essential Tremor.
+1-Octanol has been reported in Senegalia berlandieri, Alpinia latilabris, and other organisms with data available.
+OCTANOL is a small molecule drug with a maximum clinical trial phase of II and has 1 investigational indication.
+octan-1-ol is a metabolite found in or produced by Saccharomyces cerevisiae.
+A colorless, slightly viscous liquid used as a defoaming or wetting agent. It is also used as a solvent for protective coatings, waxes, and oils, and as a raw material for plasticizers. (From McGraw-Hill Dictionary of Scientific and Technical Terms, 5th ed)
+Properties:safety: Irritant
+smiles: CCCCCCCCO
+formula: C8H18O
+chem_properties: Molecular Weight: 130.23 g/mol
+XLogP3: 3
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 6
+Exact Mass: 130.135765193 Da
+Monoisotopic Mass: 130.135765193 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 43.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

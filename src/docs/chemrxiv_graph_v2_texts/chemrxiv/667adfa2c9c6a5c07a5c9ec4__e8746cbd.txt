@@ -1,0 +1,13 @@
+Description:
+A semiconducting material used for PEC water splitting.
+
+Text:
+Over the past few 
+decades, various semiconducting materials have been reported for PEC water splitting, such as 
+silicon (Si),4 cadmium telluride (CdTe),5 copper indium gallium selenide (CIGS),6 Cubased 
+chalcogenides,7 cuprous oxide (Cu2O),8 bismuth vanadate (BiVO4),9 and hematite (
+Fe2O3).10 Nonetheless, challenges such as the complex fabrication process of Si, the scarcity 
+of In and Te, the toxicity of Cd, and the poor stability of Cu2O for the abovementioned materials 
+have severely restricted largescale commercialization. The development of highefficiency, 
+lowcost, and stable semiconducting materials used in PEC systems plays a crucial role in 
+meeting the entire societys energy demand.

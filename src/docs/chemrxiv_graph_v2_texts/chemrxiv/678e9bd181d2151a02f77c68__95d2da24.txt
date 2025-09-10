@@ -1,0 +1,14 @@
+Description:
+Can be generated insitu as a radical anion and functions as a single electron transfer reductant or nucleophile.
+
+Text:
+Insitu generation of the carbon dioxide radical anion (CO2) using mild reaction 
+conditions is a general goal for the activation of organic molecules.16 CO2 can be accessed 
+photochemically via hydrogenatom abstraction from formate (HCO2) or electrochemically by 
+CO2 reduction.16 Once generated, CO2 enables a variety of followup organic reactions, including 
+hydrodehalogenation,1719 carboarylation,2022 oxyarylation,23 radical deamination,17, 18 aldehyde 
+reduction,17 Birch reduction,24 sulfonamide cleavage,17, 
+19 and the carboxylation (or 
+decarboxylation) of a wide variety of unsaturated CC bonds.17, 2531 In each of the aforementioned 
+examples, CO2 functions either as a single electron transfer (SET) reductant or as a nucleophile, 
+depending on the formal reduction potential (E0) and the electrophilicity of the organic substrate.

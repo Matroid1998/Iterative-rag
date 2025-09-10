@@ -1,0 +1,23 @@
+Name: Berberine bisulfate
+Text:
+Properties:safety: Irritant
+smiles: COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC5=C(C=C4CC3)OCO5)OC.OS(=O)(=O)[O-]
+formula: C20H19NO8S
+chem_properties: Molecular Weight: 433.4 g/mol
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 2
+Exact Mass: 433.08313774 Da
+Monoisotopic Mass: 433.08313774 Da
+Topological Polar Surface Area: 127
+Heavy Atom Count: 30
+Formal Charge: 0
+Complexity: 564
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

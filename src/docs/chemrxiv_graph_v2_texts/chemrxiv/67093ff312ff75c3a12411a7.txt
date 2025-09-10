@@ -1,0 +1,10 @@
+Description:
+Involved in the oxygen evolution reaction (OER) on the anode during electrochemical water splitting.
+
+Text:
+9, 10,11 
+Generally, electrochemical water splitting consists of the hydrogen evolution reaction (HER; on 
+the cathode) and the oxygen evolution reaction (OER; on the anode). This reaction requires a 
+theoretical potential of 1.23 V vs. SHE (Eq. (i) and (ii)), however, due to thermodynamic 
+limitations, the applied voltage is always higher.12,13 Notably, UOR occurs at a much lower 
+httpsdoi.org10.26434chemrxiv2024pn35w ORCID httpsorcid.org0000000152860027 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

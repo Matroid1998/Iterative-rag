@@ -1,0 +1,55 @@
+Description:
+Metal oxygen clusters formed by connecting high oxidation valence early transition metals with oxygen atoms.
+
+Text:
+Such as water splitting 
+reaction and carbon dioxide reduction reaction (CO2RR).34 
+Additionally, 
+organic 
+dyes 
+can 
+be 
+degraded 
+through 
+photocatalysis.5 This is an ideal environmental pollution control 
+and clean energy production technology due to mild reaction 
+conditions, green and lowcarbon products. If these reactions can 
+achieve scale production, it can largely alleviate the energy crisis 
+and environmental pollution.6 
+The photocatalytic reaction is a chemical reaction caused by 
+the light absorption of the photocatalyst. Structural stability, 
+catalytic activity and reaction selectivity are important indicators 
+for the investigation of a photocatalyst.7 Polyoxometalates 
+(POMs) are metal oxygen clusters formed by connecting some 
+high oxidation valence early transition metals with oxygen atoms.
+
+
+---
+
+Description:
+Materials used in photocatalysis.
+
+Text:
+To use bibliometric methods to investigate the 
+knowledge structure of POMbased materials in photocatalysis, it 
+is necessary to collect and collate relevant literature and extract 
+key information for analysis (such as authors, countries, 
+institutions, and keywords).20 
+2.1. Data collection 
+To ensure the comprehensiveness and authority of the 
+relevant literature, the scientific publication of POMbased 
+materials in photocatalysis is retrieved from the SCIExpanded in 
+the Web of Science (Wos) Core Collection. The database 
+contains highquality literature information in many research fields 
+such as natural science and engineering technology.2122 In this 
+work, we collect relevant literature through topic retrieval. The 
+retrieval formula is as follows (TS(polyoxometalate OR 
+polyoxometalates OR polyoxometalates oxygen cluster OR 
+metaloxo 
+cluster 
+OR 
+metaloxygen 
+cluster) 
+AND 
+TS(photocatalytic OR photocatalysis OR photocatalyst OR 
+lightdriven catalyst)).

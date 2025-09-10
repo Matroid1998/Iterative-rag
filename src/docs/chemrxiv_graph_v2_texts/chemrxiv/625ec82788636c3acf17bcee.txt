@@ -1,0 +1,15 @@
+Description:
+Does not scale linearly with carbon in terms of chemisorption energies.
+
+Text:
+The model demonstrates that the root
+cause of lack of scaling between two adsorbed species lies
+in differences of their renormalised adsorbate valence en
+ergies. For instance, Op states are considerably lower
+in energy than Cp states. Through this analysis, we
+identify the conditions under which carbon and oxygen
+do scale with each other. II. CHEMISORPTION ENERGIES OF CARBON AND
+OXYGEN DO NOT SCALE
+In this section, we discuss the lack of linear scaling re
+lations between the chemisorption energies of C and O. We use DFT calculations to obtain these chemisorption
+energies (see Section VI for computational details).

@@ -1,0 +1,30 @@
+Name: Mometasone Furoate
+Text:
+Mometasone furoate is a 2-furoate ester, a steroid ester, an 11beta-hydroxy steroid, a 20-oxo steroid, an organochlorine compound and a 3-oxo-Delta(1),Delta(4)-steroid. It has a role as an anti-inflammatory drug and an anti-allergic agent. It is functionally related to a mometasone.
+Mometasone furoate is a corticosteroid drug that can be used for the treatment of asthma, rhinitis, and certain skin conditions. It has a glucocorticoid receptor binding affinity 22 times stronger than [dexamethasone] and higher than many other corticosteroids as well. Mometasone furoate is formulated as a dry powder inhaler, nasal spray, and ointment for its different indications.
+Mometasone Furoate is the furoate ester form of mometasone, a synthetic topical glucocorticoid receptor (GR) agonist with anti-inflammatory, anti-pruritic and vasoconstrictive properties. Upon administration, mometasone binds to cytoplasmic GRs and subsequently activates GR-mediated gene expression. This results in the synthesis of certain anti-inflammatory proteins, while inhibiting the synthesis of certain inflammatory mediators. Specifically, mometasone appears to induce phospholipase A2 inhibitory proteins, thereby controlling the release of the inflammatory precursor arachidonic acid from phospholipid membrane by phospholipase A2.
+MOMETASONE FUROATE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1987 and has 8 approved and 18 investigational indications.
+A pregnadienediol derivative ANTI-ALLERGIC AGENT and ANTI-INFLAMMATORY AGENT that is used in the management of ASTHMA and ALLERGIC RHINITIS. It is also used as a topical treatment for skin disorders.
+See also: Mometasone (has active moiety); Formoterol fumarate; mometasone furoate (component of); Florfenicol; Mometasone furoate; Terbinafine (component of) ... View More ...
+Properties:safety: Health Hazard and Environmental Hazard
+smiles: C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CCl)OC(=O)C5=CC=CO5)C)O)Cl)C
+formula: C27H30Cl2O6
+chem_properties: Molecular Weight: 521.4 g/mol
+XLogP3: 3.9
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 5
+Exact Mass: 520.1419441 Da
+Monoisotopic Mass: 520.1419441 Da
+Topological Polar Surface Area: 93.8
+Heavy Atom Count: 35
+Formal Charge: 0
+Complexity: 1020
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 8
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

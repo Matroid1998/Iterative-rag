@@ -1,0 +1,25 @@
+Name: Trifluoromethanesulfonic anhydride
+Text:
+Triflic anhydride is an organosulfonic anhydride. It is functionally related to a triflic acid.
+Properties:safety: Oxidizer and Corrosive and Irritant
+smiles: C(F)(F)(F)S(=O)(=O)OS(=O)(=O)C(F)(F)F
+formula: C2F6O5S2
+chem_properties: Molecular Weight: 282.14 g/mol
+XLogP3: 1.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 11
+Rotatable Bond Count: 2
+Exact Mass: 281.90913442 Da
+Monoisotopic Mass: 281.90913442 Da
+Topological Polar Surface Area: 94.3
+Heavy Atom Count: 15
+Formal Charge: 0
+Complexity: 370
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,44 @@
+Description:
+A solvent used in the preparation of lipid-based nanoparticles through ethanol injection.
+
+Text:
+The recent progress in ribonucleic acid (RNA) therapy is attracting attention in the fields of 
+personalized nanomedicine and intractable and infectious disease treatments.13 RNA is unstable 
+and should be delivered to target tissues without RNase degradation, and thus, RNA delivery 
+systems are indispensable in ensuring therapeutic effects. Lipidbased nanoparticles, such as lipid 
+nanoparticles (LNPs) and liposomes, are promising carriers in RNA delivery to target organs.4 In 
+2020, Moderna and PfizerBioNTech COVID19 vaccines, which encapsulate messenger RNAs 
+(mRNAs) within LNPs, were approved worldwide and could protect against severe COVID19.5, 6 
+Generally, lipidbased nanoparticles, including LNPs and liposomes, are prepared using 
+various methods, including film hydration, ethanol injection, and detergent removal.7 After particle 
+preparation, the sizes of the nanoparticles are tuned via sonication or extrusion.
+
+
+---
+
+Description:
+Critical in nanoparticle formation affecting size, structural change, and drug loading.
+
+Text:
+Recently, 
+microfluidicbased ethanol injection has been widely used in producing sizecontrolled 
+nanoparticles without complicated sizetuning processes.815 In this method, aqueous and lipid
+containing ethanol solutions are introduced into a microfluidic device, and the ethanol is then 
+continuously diluted with the aqueous solution within the device. Lipid molecules aggregate upon 
+ethanol dilution, followed by nanoparticle formation, and thus, ethanol is critical in nanoparticle 
+formation in terms of nanoparticle size, structural change, and drug loading. However, the effects 
+of timedependent changes in ethanol concentration on lipidbased nanoparticles remain unclear 
+owing to the lack of in situ measurement methods. In microfluidicbased liposome preparation, ethanol affects liposome size and the structural 
+changes during liposome formation and dialysis.
+
+
+---
+
+Description:
+A solvent used in the preparation of liposome suspensions in microfluidic devices.
+
+Text:
+We reported the effects of the flow conditions 
+and microchannel structure on the liposome size.1517 Generally, large liposomes form at a slow 
+ethanol dilution rate, whereas small liposomes form at a rapid ethanol dilution rate. Additionally, 
+the liposome suspension prepared using the microfluidic device contains ethanol, and residual

@@ -1,0 +1,32 @@
+Description:
+Gaseous hydrocarbons are the most abundant, atom-efficient, and economically viable carbon-based feedstocks.
+
+Text:
+In recent years, the direct and selective conversion of alkanes into fine chemicals has garnered 
+significant attention within the scientific community.1,2 This surge in interest stems from a 
+growing desire to introduce sp3character into organic molecules, which matches more with the 
+3Dnature of protein targets, thereby enhancing their efficacy and reducing attrition rates.3,4 
+Moreover, direct activation of aliphatic CH bonds allows practitioners to bypass the use of 
+functionalized molecules, such as haloalkanes or organometallic reagents, enabling the direct 
+use of feedstock materials into the latestage modification of drugs, agrochemicals, and 
+materials.5,6 Notably, gaseous hydrocarbons stand out as the most abundant, atomefficient, 
+and economically viable carbonbased feedstocks.
+
+
+---
+
+Description:
+Gaseous hydrocarbons are predominantly utilized as energy sources in combustion processes.
+
+Text:
+Despite their prevalence, the CH bonds 
+present in these molecules exhibit extraordinary inertness, rendering conventional synthetic 
+methodologies for converting gaseous hydrocarbons into functionalized derivatives often 
+ineffective or lacking in selectivity (Scheme 1A).7 As a consequence, gaseous hydrocarbons 
+are predominantly utilized as energy sources in combustion processes. In modern synthetic chemistry, arylation reactions serve as indispensable tools for assembling 
+building blocks relevant to medicinal and crop science applications.812 Consequently, 
+transition metalcatalyzed crosscoupling has emerged as the gold standard for assembling such 
+units, often achieved through the combination of prefunctionalized starting materials, including 
+aryl or alkyl halides and organometallic reagents.13 While these prefunctionalized fragments 
+offer high chemofidelity, they also come with drawbacks such as low atom economy, high 
+toxicity, and often moisture and air instability.

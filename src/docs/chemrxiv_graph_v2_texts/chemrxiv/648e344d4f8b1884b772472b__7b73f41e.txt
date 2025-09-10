@@ -1,0 +1,18 @@
+Description:
+An element with high reactivity and propensity for dendrite formation during cycling.
+
+Text:
+912 
+LiCO2 batteries have garnered interest as a potential source of high energy density for 
+electrochemical energy storage systems (ESSs), utilizing the power of CO2.1316 However, the limited 
+availability and geographically localized distribution of lithium, along with its high cost, present significant 
+challenges that hinder the widespread adoption of LiCO2 batteries.17,18 Furthermore, the high reactivity of 
+alkali metals, combined with their propensity for dendrite formation during cycling, gives rise to notable 
+safety concerns, diminishes battery cycle life, and imposes practical limitations on their utility.1921 
+Considering its high volumetric energy density, excellent safety profile, environmental friendliness, and 
+costeffectiveness, the rechargeable MgCO2 battery is regarded as a promising solution for efficient energy 
+storage and effective CO2 utilization..19,22 
+The nonaqueous MgCO2 battery demonstrates an encouraging prospective, distinguished by its 
+ability to store energy and recycle CO2.19,22,23 However, the development of MgCO2 batteries is currently 
+facing significant obstacles, such as limited rate capability, reduced energy efficiency, and shortened cycle 
+life.

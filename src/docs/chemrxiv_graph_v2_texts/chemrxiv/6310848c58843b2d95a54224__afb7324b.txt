@@ -1,0 +1,8 @@
+Description:
+An essential element in amino acids and nucleic acids, playing a key role in biological molecules.
+
+Text:
+For our analysis, we considered GDB13s, a new subset of 99 million possible molecules up to 
+13 atoms of C, N, O, S and Cl derived from the full GDB13 (977 million molecules)9 by restricting 
+allowed functional groups. Although much smaller than GDB13, GDB13s contains the complete set of 
+MFs present in GDB13.

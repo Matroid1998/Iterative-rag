@@ -1,0 +1,11 @@
+Description:
+A compound screened for reactivity in bioorthogonal chemistry.
+
+Text:
+These datasets are employed to screen for desired 
+properties or to develop machine learning models for rapid predictions. Within the eld of 
+bioorthogonal chemistry, Stuyver and Coley recently utilized a large library of (23) 
+cycloadditions11 to screen for biocompatible click reactions.12 In our study, we developed a 
+straightforward computational workow that allows for eicient screening of 1,2,4,5tetrazine 
+reactivity. Using this method, we generated an initial dataset of 1,288 reaction barriers between 
+httpsdoi.org10.26434chemrxiv202424xcv ORCID httpsorcid.org0000000311012376 Content not peerreviewed by ChemRxiv. License CC BY 4.0

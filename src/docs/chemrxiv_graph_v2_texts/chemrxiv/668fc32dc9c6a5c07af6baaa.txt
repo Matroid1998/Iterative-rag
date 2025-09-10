@@ -1,0 +1,12 @@
+Description:
+Incorporated as a 5' cap to protect mRNA against premature degradation.
+
+Text:
+mRNA export and the role of the poly(A) tail 
+mRNA acts as a carrier of genetic information and is exported from the nucleus into the cytoplasm, serving as 
+a template for protein production by the ribosomal machinery.1,2 The efficiency of protein production is greatly 
+dependent on mRNA stability and the turnover of mRNA in the cytoplasm is constantly regulated by numerous 
+protein complexes to maintain proper protein levels.3,4 Eventually, after translation, all mRNA undergoes 
+degradation, however, aberrant mRNA degradation may lead to disease.5,6 Two general mechanisms protect 
+mRNA against premature degradation which are incorporation of a 7methyl guanosine (m7G) as a 5cap and 
+by connection of a polyadenine stretch (poly(A) tail) to the 3terminus.

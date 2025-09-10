@@ -1,0 +1,11 @@
+Description:
+Has a stable monolayer phase at low temperatures with a tilted-antiparallel orientation.
+
+Text:
+Experimentally it is known that, at a coverage of 1 ML (  1, one CO per surface Na),
+a (11) parallelupright (PU) phase with C atoms pointing downward (to Na) is the
+most stable phase above 35 K. Below this temperature a p(11) PU p(21) TA phase
+transition occurs, with TA denoting a tiltedantiparallel orientation.1 Density functional
+theory (DFT) confirmed that indeed, the most stable monolayer phase of CONaCl(100) at
+low temperatures is TA.24 PU is favoured at higher T for   1, but also found at low,
+submonolayer coverages, even at low T according to theory.

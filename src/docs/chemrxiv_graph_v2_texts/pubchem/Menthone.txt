@@ -1,0 +1,27 @@
+Name: Menthone
+Text:
+(-)-menthone is a menthone that is cyclohexanone substituted by a methyl and an isopropyl group at positions 5 and 2 respectively (the 2S,5R-stereoisomer). It is an enantiomer of a (+)-menthone.
+Menthone has been reported in Minthostachys mollis, Swertia japonica, and other organisms with data available.
+Menthone is a metabolite found in or produced by Saccharomyces cerevisiae.
+Properties:safety: Flammable and Irritant
+smiles: C[C@@H]1CC[C@H](C(=O)C1)C(C)C
+formula: C10H18O
+chem_properties: Molecular Weight: 154.25 g/mol
+XLogP3: 2.7
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 1
+Exact Mass: 154.135765193 Da
+Monoisotopic Mass: 154.135765193 Da
+Topological Polar Surface Area: 17.1
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 149
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

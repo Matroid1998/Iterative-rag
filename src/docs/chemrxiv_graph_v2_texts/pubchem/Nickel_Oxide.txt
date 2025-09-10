@@ -1,0 +1,29 @@
+Name: Nickel Oxide
+Text:
+Nickel Oxide can cause cancer according to California Labor Code.
+Nickel oxide appears as odorless green-black cubic crystals (yellow when hot) or green powder. (NTP, 1992)
+Nickel Monoxide is a green to black colored, inorganic compound that turns yellow and produces toxic gases upon heating. Nickel monoxide is used in the electronics, ceramics, steel and alloy industries. Exposure to this substance can cause severe dermatitis, skin and asthma-like allergies and damages the lungs, kidneys, gastrointestinal tract and neurological system. Nickel monoxide is a known carcinogen and is associated with an increased risk of developing lung and nasal cancers. (NCI05)
+Bunsenite is a mineral with formula of Ni2+O or NiO. The IMA symbol is Bse.
+Nickel oxide is an oxide of nickel. It occurs rarely as the mineral bunsenite and is often produced as an intermediate in the production of nickel alloys. Nickel is a chemical compound with the atomic number 28. It is found abundantly in nature in laterite ore minerals, such as limonite, garnierite, and pentlandite. Nickel has a biological role and is found in certain enzymes, including urease, hydrogenase, methylcoenzyme M reductase, and carbon monoxide dehydrogenase. (L40, L41, L46)
+Nickel trioxide is a chemical compound of nickel. Nickel is a chemical compound with the atomic number 28. It is found abundantly in nature in laterite ore minerals, such as limonite, garnierite, and pentlandite. Nickel has a biological role and is found in certain enzymes, including urease, hydrogenase, methylcoenzyme M reductase, and carbon monoxide dehydrogenase. (L40, L41)
+Properties:safety: Irritant and Health Hazard
+smiles: O=[Ni]
+formula: NiO
+chem_properties: Molecular Weight: 74.693 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 73.930256 Da
+Monoisotopic Mass: 73.930256 Da
+Topological Polar Surface Area: 17.1
+Heavy Atom Count: 2
+Formal Charge: 0
+Complexity: 2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,31 @@
+Name: Eliglustat
+Text:
+Eliglustat is a carboxamide obtained by formal condensation of the carboxy group of octanoic acid with the primary amino group of (1R,2R)-2-amino-1-(2,3-dihydro-1,4-benzodioxin-6-yl)-3-(pyrrolidin-1-yl)propan-1-ol. A ceramide glucosyltransferase inhibitor used (as its tartrate salt) for treatment of Gaucher's disease. It has a role as an EC 2.4.1.80 (ceramide glucosyltransferase) inhibitor. It is a benzodioxine, a N-alkylpyrrolidine, a secondary alcohol and a carboxamide. It is a conjugate base of an eliglustat(1+).
+Eliglustat is a glucosylceramide synthase inhibitor used for the long-term treatment of type 1 Gaucher disease. Gaucher disease is a rare genetic disorder characterized by the deficiency of acid β-glucosidase, an enzyme that converts glucosylceramide into glucose and ceramide. In patients with Gaucher disease, the accumulation of glucosylceramide leads to the formation of Gaucher cells that infiltrate the liver, spleen, bone marrow and other organs. This leads to complications such as anemia and thrombocytopenia. By inhibiting glucosylceramide synthase, eliglustat reduces the accumulation of glucosylceramide.  Eliglustat is mainly metabolized by CYP2D6. Patients selected for eliglustat treatment undergo an FDA-cleared genotyping test to establish if they are CYP2D6 extensive metabolizers (EMs), intermediate metabolizers (IMs), or poor metabolizers (PMs). The results of this test dictate eliglustat dosing recommendations for each type of patient. There are no dosing recommendations for CYP2D6 ultra-rapid or indeterminate metabolizers. Eliglustat was approved by the FDA in August 2014 as an oral substrate reduction therapy for the first-line treatment of type 1 Gaucher disease. Enzyme replacement continues to be the standard of care for the treatment of type 1 Gaucher disease ([imiglucerase], [velaglucerase alfa], [taliglucerase alfa]); however, oral substrate reduction therapies with favourable safety profiles, such as eliglustat, represent a treatment alternative.
+Eliglustat is a Glucosylceramide Synthase Inhibitor. The mechanism of action of eliglustat is as a Glucosylceramide Synthase Inhibitor, and P-Glycoprotein Inhibitor, and Cytochrome P450 2D6 Inhibitor.
+Eliglustat is an oral inhibitor of glucosylceramide synthase which is used in the therapy of type 1 Gaucher disease. Clinical experience with eliglustat is limited, but it not been linked to serum enzyme elevations during therapy or to instances of clinically apparent acute liver injury.
+Eliglustat is a ceramide analog and an orally bioavailable inhibitor of glucosylceramide synthase (GCS; ceramide glucosyltransferase), that may be used to decrease the production of glycosphingolipids (GSLs) including glucosylceramide, also known as glucocerebroside. Upon oral administration, eliglustat inhibits GCS, which catalyzes the initial step in the synthesis of glucosylceramide and other GSLs. This decreases the production of glucosylceramide and other GSLs, which have important roles in various diseases and cellular processes, including immune processes and functions. Eliglustat may be used in substrate reduction therapy in diseases in which the enzyme glucocerebrosidase (GCase), responsible for the breakdown of glucocerebroside, is deficient.
+ELIGLUSTAT is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2014 and has 3 approved and 1 investigational indication.
+See also: Eliglustat Tartrate (has salt form).
+Properties:safety: Irritant and Health Hazard
+smiles: CCCCCCCC(=O)N[C@H](CN1CCCC1)[C@@H](C2=CC3=C(C=C2)OCCO3)O
+formula: C23H36N2O4
+chem_properties: Molecular Weight: 404.5 g/mol
+XLogP3: 3.7
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 11
+Exact Mass: 404.26750763 Da
+Monoisotopic Mass: 404.26750763 Da
+Topological Polar Surface Area: 71
+Heavy Atom Count: 29
+Formal Charge: 0
+Complexity: 483
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

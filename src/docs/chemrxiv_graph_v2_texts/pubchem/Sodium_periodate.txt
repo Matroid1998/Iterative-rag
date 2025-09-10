@@ -1,0 +1,25 @@
+Name: Sodium periodate
+Text:
+Sodium periodate is an inorganic sodium salt having periodate as the counterion. It has a role as an oxidising agent. It contains a periodate.
+See also: Periodate (annotation moved to).
+Properties:safety: Oxidizer and Corrosive and Acute Toxic and Irritant and Health Hazard and Environmental Hazard
+smiles: [O-]I(=O)(=O)=O.[Na+]
+formula: INaO4
+chem_properties: Molecular Weight: 213.892 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 213.87390 Da
+Monoisotopic Mass: 213.87390 Da
+Topological Polar Surface Area: 74.3
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 118
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

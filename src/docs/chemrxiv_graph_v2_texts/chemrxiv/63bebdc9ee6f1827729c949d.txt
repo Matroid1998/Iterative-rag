@@ -1,0 +1,24 @@
+Description:
+Pigments in light-harvesting complexes that facilitate excitation energy transfer in photosynthesis.
+
+Text:
+In plants, mosses and green algae, sunlight is collected by lightharvesting pigmentprotein
+complexes (LHCs) and rapidly funneled to the reaction centers (RCs) of photosystems. This
+is made possible by the aggregate of interacting pigments contained in LHCs, chlorophylls
+(Chls) and in minor part carotenoids (Cars), which create a path for the absorbed energy to
+efficiently move in space and reach the RC via excitation energy transfer (EET) processes.
+
+
+---
+
+Description:
+Excited chlorophylls undergo quenching and dissipate excess energy into heat in nonphotochemical quenching.
+
+Text:
+This functioning however is adaptable to the changing light conditions.1 In fact, in excess
+light conditions, the LH process is replaced by quenching of the excited chlorophylls and the
+dissipation of the excess energy into heat, in a process called nonphotochemical quenching
+(NPQ).14 The major and most rapid NPQ component is energydependent quenching (qE),
+which is triggered by a pH drop in the thylakoid lumen.24 In fact, increasing light intensity
+causes lumen acidification and thus the generation of a pH gradient across the thylakoid
+membrane, which acts as a reporter of the amount of absorbed energy.

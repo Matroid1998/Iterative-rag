@@ -1,0 +1,18 @@
+Description:
+A catalytically active surface used in the oxygen reduction reaction.
+
+Text:
+4 
+The oxygen reduction reaction (ORR, Eq. 1) is one of the most studied electrochemical processes, both experimentally and 
+5 
+theoretically. 6 
+
+7 
+! 4  4 2! (1) 
+
+8 
+During the ORR, four electrons per oxygen molecule must be transferred. At the same time, several chemical bonds rearrange, 
+9 
+making it comparatively slow even on the most catalytically active surfaces, such as platinum and its alloys. Thus, understanding 
+0 
+the mechanism of the ORR to improve and develop catalysts has been the focus of many studies for many decades.

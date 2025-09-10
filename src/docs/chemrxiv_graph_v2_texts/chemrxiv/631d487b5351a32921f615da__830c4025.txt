@@ -1,0 +1,11 @@
+Description:
+A pyrimidine base found in DNA.
+
+Text:
+One of the fundamental questions on the origins of life lies in the current style of the
+genetic code seen on Earth. DNA and RNA adopted nucleobases, which are the build
+ing blocks of nucleic acids, as the unit of the code, ATCG for DNA and AUCG for RNA. The structures are categorized into two kinds of molecules pyrimidine bases, including
+cytosine (C), thymine (T), and uracil (U) and purine bases, including guanine (G), and
+adenine (A). A pyrimidine base, a simple ring structure, is bounded by hydrogen bonds to
+a purine base, a fusedring structure to form a complementary pair and deliver the genetic
+information in DNA and RNA.

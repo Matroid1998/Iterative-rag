@@ -1,0 +1,24 @@
+Name: Glycidol pivalate
+Text:
+Properties:safety: Irritant and Health Hazard
+smiles: CC(C)(C)C(=O)OCC1CO1
+formula: C8H14O3
+chem_properties: Molecular Weight: 158.19 g/mol
+XLogP3: 1.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 4
+Exact Mass: 158.094294304 Da
+Monoisotopic Mass: 158.094294304 Da
+Topological Polar Surface Area: 38.8
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 157
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

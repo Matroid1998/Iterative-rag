@@ -1,0 +1,11 @@
+Description:
+An earth-abundant metal being researched for use in electrochemical hydrogen evolution reactions (HER).
+
+Text:
+However, these enzymes often lack 
+stability under air and their synthesis on a large scale is usually difficult, thus limiting their 
+practical application.2,3 On the other hand, despite their very high efficiency in the 
+electrocatalytic HER, platinumbased catalysts are not applicable on a large scale due to the 
+low natural abundance and high cost of platinum.4 As a result, the development of efficient and 
+robust catalysts comprising earthabundant metals such as Fe,5 Co,6 Ni,7 Cu,8 Zn,9 Mn10 and 
+Mo11 for the electrochemical HER is a focus of current research.

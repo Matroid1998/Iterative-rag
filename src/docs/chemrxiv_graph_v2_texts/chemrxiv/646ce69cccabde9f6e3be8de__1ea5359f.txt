@@ -1,0 +1,10 @@
+Description:
+Molecules used to generate a monospecific FabPEGFab construct.
+
+Text:
+Homogeneous and welldefined bsAbs can only be generated through such 
+siteselective functionalization strategies  as any heterogenous conjugation strategy would by definition 
+lead to a heterogenous bsAb. The first example of a chemically produced FabFab conjugate was published in 2013, where two bis
+sulfone molecules attached to a large PEG linker were used to generate a monospecific FabPEGFab 
+construct.8 Subsequently, maleimide molecules with leaving groups on each double bond (termed next
+generation maleimides, NGMs) were attached to each other to generate bisNGM molecules. These were

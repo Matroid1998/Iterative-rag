@@ -1,0 +1,14 @@
+Description:
+A class of compounds used as sorbents in direct air capture to extract CO2 from ultradilute sources.
+
+Text:
+The growing anthropogenic CO2 emission to the atmosphere over the past decades has raised
+a series of concerns over its environmental impacts,1 such as global warming2 and food
+security.3 Among the existing technologies to attack this problem, direct air capture (DAC)
+can effectively reduce the current amount of CO2 already present in air and is specially
+suitable to remove distributed emission of CO2 (from transportation vehicles, for example).4
+DAC employs highly efficient sorbents to extract CO2 from ultradilute sources (such as
+ambient air), and the extracted CO2 can be further coupled with geological sequestration5
+or conversion into valueadded products.6
+An increasingly popular class of DAC sorbents consists of amines supported into solid
+matrices.

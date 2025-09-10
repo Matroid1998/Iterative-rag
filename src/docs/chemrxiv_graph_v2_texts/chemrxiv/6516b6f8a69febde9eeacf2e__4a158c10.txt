@@ -1,0 +1,13 @@
+Description:
+Coating additives that improve specific capacity and capacity retention in thiophosphate-based SSBs.
+
+Text:
+Highvoltage cathodes coated with metal oxides and phosphates show 
+improved specific capacity, and capacity retention compared with uncoated counterparts in 
+thiophosphatebased SSBs. However, these coating additives exhibit either limited Liion 
+conductivity (104 Scm), or insufficient stability against highvoltage cathode. Halides, in particular chlorides, such as Li3InCl6 (LIC)13, Li3YCl14, Li3TiCl615 and 
+Li3xM1xZrxCl6 (M  Y, Er)16, have gained considerable attention by combining both, 
+high Liion conductivities (0.1 mScm) and highvoltage stability (4.2 V vs LiLi). Nevertheless, their instability when paired with Li anode17 and relatively high production 
+costs limit their application as bulk solid electrolytes. This is, when used as catholyte or in 
+particular coating additive, however, less relevant, which makes them a promising 
+alternative.

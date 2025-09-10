@@ -1,0 +1,8 @@
+Description:
+Highly symmetric molecular systems belonging to the point group Ih, often called onionlike inorganic fullerenes.
+
+Text:
+Highly symmetric molecular systems belonging to the point group Ih have attracted a lot of interest in chemistry and physics. Because of their high molecular symmetric structure (Ih andor Th) and composed of inorganic elements they are often called 
+onionlike inorganic fullerenes. Only a few combinations of elements show an energetic and computational stability which 
+probably emanates from the total number of valence electrons involved. A tentative explanation can be given by a building 
+rule involving the number of vertices and the ideal electron configuration.

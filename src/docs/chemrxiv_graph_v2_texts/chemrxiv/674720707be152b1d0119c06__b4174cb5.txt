@@ -1,0 +1,30 @@
+Description:
+Used in the sol-gel synthesis of nanoparticles for enzyme-based nanobiosensors.
+
+Text:
+The 
+physicochemical detector can be any transducer that can convert the biorecognition event into a 
+measurable signal, such as an optical, electrochemical, piezoelectric, or thermal signal11,12. Biosensors 
+have many advantages over conventional analytical methods, such as simplicity, speed, low cost, high 
+sensitivity, and selectivity.Nanomaterials are considered promising candidates for biosensor 
+development13. In this study, we developed an enzymebased nanobiosensor for detecting heavy metals using solgel 
+synthesis of selenium oxide nanoparticles14 and crude protease enzyme extract from chicken intestine. The biosensor works by measuring the change in temperature after dipping the biosensor in a sample 
+containing heavy metals. The change in temperature reflects the interaction between the heavy metals 
+and the enzyme, which alters its catalytic activity and heat production15.
+
+
+---
+
+Description:
+Nanoparticles with high binding affinity for heavy metals such as mercury.
+
+Text:
+We chose selenium oxide 
+nanoparticles as the nanomaterial for our biosensor because of their high binding affinity with heavy 
+metals such as mercury, which facilitates the detection process16. We also chose protease enzyme as 
+the biorecognition element for our biosensor because of its wide availability and low cost. Protease 
+enzyme is an enzyme that catalyzes the hydrolysis of peptide bonds in proteins17. Heavy metals can 
+affect the structure and function of protease enzyme by binding to its thiol groups or other active sites, 
+which results in changes in its catalytic activity and heat production18,19.In pursuit of sustainability and 
+costeffectiveness, we innovatively synthesized a crude protease enzyme extracted from chicken 
+intestine.

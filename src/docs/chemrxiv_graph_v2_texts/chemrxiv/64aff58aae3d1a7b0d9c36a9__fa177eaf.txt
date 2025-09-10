@@ -1,0 +1,16 @@
+Description:
+Ions that can be disordered or ordered in LNMO spinel structure.
+
+Text:
+In LNMO spinel structure, Ni and Mn can occupy either a single 
+crystallographic site or two different ones within cubic symmetry 
+unit cells. The first unit cell is described in the Fd3m space group 
+and associated with a disordered (statistical) distribution of transi
+tion metal ions, whereas the second one is described in the P4332 
+space group and associated with a 13 ordering between the two 
+transition metal ions. The disordered LNMO is generally obtained 
+via hightemperature solidstate syntheses ( 900C), inevitably 
+next to a rocksalttype impurity such as NiO and LixNi1xO.4 The 
+formation of this mixture of phases is driven by the oxygen loss 
+from the stoichiometric phase LiNi0.5Mn1.5O4 at such elevated tem
+peratures.

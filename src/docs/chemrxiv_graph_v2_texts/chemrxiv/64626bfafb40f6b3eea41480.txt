@@ -1,0 +1,14 @@
+Description:
+An amino acid that can coordinate with metals.
+
+Text:
+Alternatively, metalcatalyzed ringclosing macrocyclization 
+reactions are used towards heterobiaryl construction.4,5 Metalcatalyzed heterobiaryl formation has 
+been utilized in many synthetic routes; however, it is typically limited to peptide sequences that do 
+not contain metalcoordinating amino acids (cysteine, methionine, histidine) and relies on the use 
+of prefunctionalized boron or tincontaining starting materials, many of which are sensitive to both 
+strongly basic and strongly acidic conditions. Yet another limitation is that biarylbearing 
+compounds assembled using metalcatalyzed crosscoupling reactions can be contaminated with 
+trace amounts of transitionmetal impurities, making them insufficiently pure to meet stringent 
+drug safety standards.6 Currently, no method exists that allows for the assembly of heterobiaryl 
+scaffolds during peptide macrocyclization without the reliance on transitionmetal catalysis.

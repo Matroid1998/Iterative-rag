@@ -1,0 +1,22 @@
+Description:
+A more nucleophilic base that inhibits reactions due to preferential coordination to nickel.
+
+Text:
+Milder and more costeffective alkyl amines present a promising alternative but often lack sufficient basicity for effective 
+deprotonation.44 To tackle this, Buchwald and coworkers elegantly designed an electrondeficient ligand that allows the 
+deprotonation of nickelbound anilines with triethylamine for crosscoupling with aryl triflates.45 Notably, using the more 
+nucleophilic base, DBU, inhibits the reaction due to its preferential coordination to nickel, demonstrating the additional layer 
+of complexity in achieving the optimal balance between ligands and bases when working with weakly nucleophilic coupling 
+partners.
+
+
+---
+
+Description:
+An organic base used in electrochemical nickel-catalyzed cross-coupling of aliphatic alcohols.
+
+Text:
+Similarly, recent advances in catalytic electrochemical and photochemical methods also allowed the use of soluble organic 
+bases.4,25,4661 For instance, Baran and coworkers reported an efficient electrochemical nickelcatalyzed crosscoupling of 
+aliphatic alcohols using a bipyridine ligand and DBU, although this method was ineffective for aromatic alcohols.53,54 Johannes 
+Br

@@ -1,0 +1,12 @@
+Description:
+Part of the atomic columns within the ZIF8 framework.
+
+Text:
+Electron dose rate or electron flux density 
+is the rate at which electrons pass through a given area, typically measured in electrons per square angstrom 
+per second (e2s1). The cumulative electron dose up to which the structural integrity of ZIF8 is 
+maintained for various lattice (Bragg) planes is referred to as the critical dose. Zhu et al. preserved the structural integrity of ZIF8 during the experiment by capturing TEM images on a 
+direct detection electron counting (DDEC) camera using an exceptionally low dose of 4.1 e2 8. The 
+resulting image conveyed structural details up to 2.1 , enabling the resolution of individual atomic 
+columns within the Zn and imidazole linkers of the framework. Notably, they observed that ZIF8 
+httpsdoi.org10.26434chemrxiv2024v3w9xv2 ORCID httpsorcid.org0000000152018972 Content not peerreviewed by ChemRxiv.

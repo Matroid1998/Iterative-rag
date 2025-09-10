@@ -1,0 +1,34 @@
+Name: Propylthiouracil
+Text:
+Propylthiouracil can cause cancer according to an independent committee of scientific and health experts. It can cause developmental toxicity according to state or federal government labeling requirements.
+6-n-propyl-2-thiouracil appears as odorless white crystalline powder of starch-like appearance. Bitter taste. Saturated solution is neutral or slightly acid to litmus. (NTP, 1992)
+6-propyl-2-thiouracil is a pyrimidinethione consisting of uracil in which the 2-oxo group is substituted by a thio group and the hydrogen at position 6 is substituted by a propyl group. It has a role as an antithyroid drug, a carcinogenic agent, an antimetabolite, a hormone antagonist, an EC 1.14.13.39 (nitric oxide synthase) inhibitor, an antioxidant and an antidote to paracetamol poisoning. It is functionally related to a uracil.
+A thiourea antithyroid agent. Propythiouracil inhibits the synthesis of thyroxine and inhibits the peripheral conversion of throxine to tri-iodothyronine. It is used in the treatment of hyperthyroidism. (From Martindale, The Extra Pharmacopeoia, 30th ed, p534)
+Propylthiouracil is a Thyroid Hormone Synthesis Inhibitor. The mechanism of action of propylthiouracil is as a Thyroid Hormone Synthesis Inhibitor.
+Propylthiouracil is an antithyroid medication used in the therapy of hyperthyroidism and Graves disease. Propylthiouracil has been linked to serum aminotransferase elevations during therapy as well as to a clinically apparent, idiosyncratic liver injury that can be severe and even fatal.
+Propylthiouracil is a thiourea derivative with antithyroid property. Propylthiouracil (PTU) interferes with the oxidation of iodine possibly by interaction with peroxidase or a peroxidase-mediated complex reaction, thereby inhibiting synthesis of thyroid hormones tri-iodothyronine (T3) and thyroxine (T4). In addition, this agent inhibits the Type I 5'-deiodinase (D1), an enzyme involved in the peripheral conversion of thyroxine to tri-iodothyronine. This results in decreased plasma triodothyronine concentrations and decreased entrance of thyroxine into cells thereby reducing thyroid hormone activity.
+PROPYLTHIOURACIL is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1947 and is indicated for hyperthyroidism and abnormality of the thyroid gland and has 3 investigational indications. This drug has a black box warning from the FDA.
+Propylthiouracil is only found in individuals that have used or taken this drug. It is a thiourea antithyroid agent. Propythiouracil inhibits the synthesis of thyroxine and inhibits the peripheral conversion of throxine to tri-iodothyronine. It is used in the treatment of hyperthyroidism. Propylthiouracil binds to thyroid peroxidase and thereby inhibits the conversion of iodide to iodine. Thyroid peroxidase normally converts iodide to iodine (via hydrogen peroxide as a cofactor) and also catalyzes the incorporation of the resulting iodide molecule onto both the 3 and/or 5 positions of the phenol rings of tyrosines found in thyroglobulin. Thyroglobulin is degraded to produce thyroxine (T4) and tri-iodothyronine (T3), which are the main hormones produced by the thyroid gland. Therefore propylthiouracil effectively inhibits the production of new thyroid hormones.
+A thiourea antithyroid agent. Propythiouracil inhibits the synthesis of thyroxine and inhibits the peripheral conversion of throxine to tri-iodothyronine. It is used in the treatment of hyperthyroidism. (From Martindale, The Extra Pharmacopeoia, 30th ed, p534)
+Properties:safety: Irritant and Health Hazard
+smiles: CCCC1=CC(=O)NC(=S)N1
+formula: C7H10N2OS
+chem_properties: Molecular Weight: 170.23 g/mol
+XLogP3: 0.8
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 2
+Exact Mass: 170.05138412 Da
+Monoisotopic Mass: 170.05138412 Da
+Topological Polar Surface Area: 73.2
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 222
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

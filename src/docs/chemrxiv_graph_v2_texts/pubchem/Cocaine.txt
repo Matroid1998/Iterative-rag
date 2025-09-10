@@ -1,0 +1,35 @@
+Name: Cocaine
+Text:
+Cocaine can cause developmental toxicity and female reproductive toxicity according to an independent committee of scientific and health experts.
+Cocaine is a tropane alkaloid obtained from leaves of the South American shrub Erythroxylon coca. It has a role as a local anaesthetic, a central nervous system stimulant, a sodium channel blocker, an adrenergic uptake inhibitor, a dopamine uptake inhibitor, a serotonin uptake inhibitor, a sympathomimetic agent, a vasoconstrictor agent, a xenobiotic, an environmental contaminant, a plant metabolite and a mouse metabolite. It is a methyl ester, a benzoate ester, a tertiary amino compound and a tropane alkaloid. It is a conjugate base of a cocaine(1+).
+An alkaloid ester extracted from the leaves of plants including coca. It is a local anesthetic and vasoconstrictor and is clinically used for that purpose, particularly in the eye, ear, nose, and throat. It also has powerful central nervous system effects similar to the amphetamines and is a drug of abuse. Cocaine, like amphetamines, acts by multiple mechanisms on brain catecholaminergic neurons; the mechanism of its reinforcing effects is thought to involve inhibition of dopamine uptake.
+Cocaine is a benzoid acid ester that that was originally used as a local anesthetic, but is no longer used because of its potent addictive qualities. When given in high doses systemically, cocaine has mood elevating effects that have led to its widescale abuse. High doses of cocaine can be associated with toxic reactions including hyperthermia, rhabdomyolysis, shock and acute liver injury which can be severe and even fatal.
+Cocaine has been reported in Erythroxylum citrifolium, Erythroxylum deciduum, and other organisms with data available.
+Cocaine is a tropane alkaloid with central nervous systems (CNS) stimulating and local anesthetic activity. Cocaine binds to the dopamine, serotonin, and norepinephrine transport proteins and inhibits the re-uptake of dopamine, serotonin, and norepinephrine into pre-synaptic neurons. This leads to an accumulation of the respective neurotransmitters in the synaptic cleft and may result in increased postsynaptic receptor activation. The mechanism of action through which cocaine exerts its local anesthetic effects is by binding to and blocking the voltage-gated sodium channels in the neuronal cell membrane. By stabilizing neuronal membranes, cocaine inhibits the initiation and conduction of nerve impulses and produces a reversible loss of sensation.
+Candy is a sweet confection usually made with sugar or other sweeteners.
+COCAINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2017 and has 5 investigational indications. This drug has a black box warning from the FDA.
+An alkaloid ester extracted from the leaves of plants including coca. It is a local anesthetic and vasoconstrictor and is clinically used for that purpose, particularly in the eye, ear, nose, and throat. It also has powerful central nervous system effects similar to the amphetamines and is a drug of abuse. Cocaine, like amphetamines, acts by multiple mechanisms on brain catecholaminergic neurons; the mechanism of its reinforcing effects is thought to involve inhibition of dopamine uptake. [PubChem]
+An alkaloid ester extracted from the leaves of plants including coca. It is a local anesthetic and vasoconstrictor and is clinically used for that purpose, particularly in the eye, ear, nose, and throat. It also has powerful central nervous system effects similar to the amphetamines and is a drug of abuse. Cocaine, like amphetamines, acts by multiple mechanisms on brain catecholaminergic neurons; the mechanism of its reinforcing effects is thought to involve inhibition of dopamine uptake.
+See also: Cocaine Hydrochloride (has salt form); Crack Cocaine (annotation moved to).
+Properties:safety: Acute Toxic and Irritant
+smiles: CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)OC(=O)C3=CC=CC=C3)C(=O)OC
+formula: C17H21NO4
+chem_properties: Molecular Weight: 303.35 g/mol
+XLogP3: 2.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 5
+Exact Mass: 303.14705815 Da
+Monoisotopic Mass: 303.14705815 Da
+Topological Polar Surface Area: 55.8
+Heavy Atom Count: 22
+Formal Charge: 0
+Complexity: 432
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,12 @@
+Description:
+A monomer whose exo structure affects the rate of propagation and degree of livingness in polymerizations.
+
+Text:
+Recent detailed studies of the mechanism4 and the effects of the exo
+norbornene monomer structure on the rate of propagation and degree of livingness of these 
+polymerizations58 have led to new insights that may guide the design of nextgeneration initiator 
+and monomer classes. For example, Matson and coworkers58 have suggested that the HOMO 
+energy levels of exoNBs correlate with their G3initiated ROMP propagation rate. Inspired by 
+this work, and seeking synthetically accessible, functional monomers that do not compromise 
+polymerization kinetics and controlled polymerization behavior, we identified tricyclononenes 
+(TCN) and tricyclononadienes (TCND) as ROMP monomers ripe for further study (Figure 1).

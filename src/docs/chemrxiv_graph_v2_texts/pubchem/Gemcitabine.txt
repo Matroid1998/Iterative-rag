@@ -1,0 +1,33 @@
+Name: Gemcitabine
+Text:
+Gemcitabine is a 2'-deoxycytidine having geminal fluoro substituents in the 2'-position. An inhibitor of ribonucleotide reductase, gemcitabine is used in the treatment of various carcinomas, particularly non-small cell lung cancer, pancreatic cancer, bladder cancer and breast cancer. It has a role as a photosensitizing agent, a DNA synthesis inhibitor, a prodrug, an EC 1.17.4.1 (ribonucleoside-diphosphate reductase) inhibitor, an environmental contaminant, a xenobiotic, a radiosensitizing agent, an antineoplastic agent, an antimetabolite, an antiviral drug and an immunosuppressive agent. It is an organofluorine compound and a pyrimidine 2'-deoxyribonucleoside.
+Gemcitabine is a nucleoside analog and a chemotherapeutic agent. It was originally investigated for its antiviral effects, but it is now used as an anticancer therapy for various cancers. Gemcitabine is a cytidine analog with two fluorine atoms replacing the hydroxyl on the ribose. As a prodrug, gemcitabine is transformed into its active metabolites that work by replacing the building blocks of nucleic acids during DNA elongation, arresting tumour growth and promoting apoptosis of malignant cells. The structure, metabolism, and mechanism of action of gemcitabine are similar to [cytarabine], but gemcitabine has a wider spectrum of antitumour activity.  Gemcitabine is marketed as Gemzar and it is available as intravenous injection. It is approved by the FDA to treat advanced ovarian cancer in combination with [carboplatin], metastatic breast cancer in combination with [paclitaxel], non-small cell lung cancer in combination with [cisplatin], and pancreatic cancer as monotherapy. It is also being investigated in other cancer and tumour types.
+Gemcitabine is a Nucleoside Metabolic Inhibitor. The mechanism of action of gemcitabine is as a Nucleic Acid Synthesis Inhibitor.
+Gemcitabine is a cytosine analogue and intravenously administered antineoplastic agent used in the therapy of several forms of advanced, pancreatic, lung, breast, ovarian and bladder cancer. Gemcitabine is associated with a high rate of transient serum enzyme elevations during therapy but is a very rare cause of acute, clinically apparent liver injury.
+Gemcitabine has been reported in Aspergillus violaceofuscus and Penicillium brocae with data available.
+Gemcitabine is a broad-spectrum antimetabolite and deoxycytidine analogue with antineoplastic activity. Upon administration, gemcitabine is converted into the active metabolites difluorodeoxycytidine diphosphate (dFdCDP) and difluorodeoxycytidine triphosphate (dFdCTP) by deoxycytidine kinase. dFdCTP competes with deoxycytidine triphosphate (dCTP) and is incorporated into DNA.  This locks DNA polymerase thereby resulting in "masked termination" during DNA replication. On the other hand, dFdCDP inhibits ribonucleotide reductase, thereby decreasing the deoxynucleotide pool available for DNA synthesis. The reduction in the intracellular concentration of dCTP potentiates the incorporation of dFdCTP into DNA.
+GEMCITABINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1996 and has 9 approved and 132 investigational indications.
+A deoxycytidine antimetabolite used as an antineoplastic agent.
+See also: Gemcitabine Hydrochloride (annotation moved to).
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: C1=CN(C(=O)N=C1N)[C@H]2C([C@@H]([C@H](O2)CO)O)(F)F
+formula: C9H11F2N3O4
+chem_properties: Molecular Weight: 263.20 g/mol
+XLogP3: -1.5
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 2
+Exact Mass: 263.07176216 Da
+Monoisotopic Mass: 263.07176216 Da
+Topological Polar Surface Area: 108
+Heavy Atom Count: 18
+Formal Charge: 0
+Complexity: 426
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 3
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

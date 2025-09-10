@@ -1,0 +1,50 @@
+Description:
+Has two naturally occurring isotopes, 10B and 11B, both of which are NMR active.
+
+Text:
+Unlike 1H and 13C with a nuclear spin I  , both naturally occurring isotopes of boron i.e. 10B (I  3) and 11B 
+(I  52) are NMR active; however, the latter is more versatile than the erstwhile for NMR investigations by 
+virtue of the fact that 10B has a natural abundance of only 19.6, whereas 11B exhibits a natural abundance of 
+80.4,1 as such 10B comes with a much lower receptivity i.e. receiver gain, and quadrupole moment almost 
+thrice as much as that for 11B, which broadens 10B NMR signals. Moreover, the Larmor frequency of 10B is 
+almost three times lower than that for 11B, resulting in a much lower signal resolution and coupling constants i.e.
+
+
+---
+
+Description:
+The isotope 11B is more versatile for NMR investigations due to its higher natural abundance and lower quadrupole moment compared to 10B.
+
+Text:
+Unlike 1H and 13C with a nuclear spin I  , both naturally occurring isotopes of boron i.e. 10B (I  3) and 11B 
+(I  52) are NMR active; however, the latter is more versatile than the erstwhile for NMR investigations by 
+virtue of the fact that 10B has a natural abundance of only 19.6, whereas 11B exhibits a natural abundance of 
+80.4,1 as such 10B comes with a much lower receptivity i.e. receiver gain, and quadrupole moment almost 
+thrice as much as that for 11B, which broadens 10B NMR signals. Moreover, the Larmor frequency of 10B is 
+almost three times lower than that for 11B, resulting in a much lower signal resolution and coupling constants i.e.
+
+
+---
+
+Description:
+NMR spectroscopy is advantageous in elucidating structures of boron compounds and their behavior in solutions.
+
+Text:
+J (in Hz) in 10B NMR spectra.2 Despite these drawbacks 10B NMR can be particularly useful in niche 
+mechanistic studies such as rearrangements.3 
+NMR spectroscopy much to contemporary efforts has proved exceptionally advantageous in elucidating 
+structures of boron compounds, and their behaviour in solutions.4,5 The extrapolation of NMR activities of other 
+common NMR active nuclei such as 1H, 13C, 15N, 31P etc., to 11B NMR suggests that the following factors should 
+determine chemical shifts () in 11B NMR spectra 
+
+Electron density 
+
+Coordination number 
+
+Hybridisation 
+
+Ring current 
+
+httpsdoi.org10.26434chemrxiv2023jkfwvv2 ORCID httpsorcid.org0009000159202286 Content not peerreviewed by ChemRxiv. License CC BY 4.0
+
+However, the above is found not to be true for many 11B NMR spectra.

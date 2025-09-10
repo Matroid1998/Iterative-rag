@@ -1,0 +1,25 @@
+Description:
+A single crystal layered material used as a cathode active material in Li-ion batteries.
+
+Text:
+One strategy to improve
+the stability of Liion batteries is to fashion
+the cathode active material from micronsized
+single crystals instead of polycrystalline aggre
+gates.2 Single crystal layered materials such as
+LiNi0.6Mn0.2Co0.2O2 (NMC622) have demon
+strated unprecedented cycling life in laboratory
+environments, theoretically enabling batteries
+which could operate for many decades.3,4 This
+is due to the lack of defects and grain bound
+aries which concentrate stress.5 Cracks nucle
+ate and propagate from these features, lead
+ing to pulverization, lowered capacity, and an
+increase of internal resistance over time.6,7 In
+tracrystal heterogeneities and fracturing there
+fore limit the maximum useful cycling rate, the
+maximum cell voltage, and the stability of the
+surface.4,6,810
+Manufacturing highperformance active ma
+terials at scale with controlled crystal quality
+is challenging.

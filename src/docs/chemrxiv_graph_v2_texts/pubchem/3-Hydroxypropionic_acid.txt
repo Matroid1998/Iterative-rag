@@ -1,0 +1,27 @@
+Name: 3-Hydroxypropionic acid
+Text:
+3-hydroxypropionic acid is a 3-hydroxy monocarboxylic acid that is propionic acid in which one of the hydrogens attached to the terminal carbon is replaced by a hydroxy group. It has a role as an Escherichia coli metabolite and a human metabolite. It is a 3-hydroxy monocarboxylic acid and an omega-hydroxy-short-chain fatty acid. It is functionally related to a propionic acid. It is a conjugate acid of a 3-hydroxypropionate.
+3-Hydroxypropionic acid has been reported in Phomopsis phaseoli, Drosophila melanogaster, and other organisms with data available.
+3-Hydroxypropionic acid is a carboxylic acid. It is used in the production of various chemicals such as acrylates in industry. It can be produced by certain microbes. Its chemical structure is similar to L-serine.
+Properties:safety: Corrosive and Irritant
+smiles: C(CO)C(=O)O
+formula: C3H6O3
+chem_properties: Molecular Weight: 90.08 g/mol
+XLogP3: -1
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 2
+Exact Mass: 90.031694049 Da
+Monoisotopic Mass: 90.031694049 Da
+Topological Polar Surface Area: 57.5
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 50
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

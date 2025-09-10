@@ -1,0 +1,33 @@
+Name: Streptomycin
+Text:
+Streptomycin is a amino cyclitol glycoside that consists of streptidine having a disaccharyl moiety attached at the 4-position. The parent of the streptomycin class It has a role as an antimicrobial agent, an antimicrobial drug, an antibacterial drug, a protein synthesis inhibitor, a bacterial metabolite and an antifungal agrochemical. It is an antibiotic antifungal drug, an antibiotic fungicide and a member of streptomycins. It is functionally related to a streptidine. It is a conjugate base of a streptomycin(3+).
+Streptomycin, an antibiotic derived from Streptomyces griseus, was the first aminoglycoside to be discovered and used in practice in the 1940s. Selman Waksman and eventually Albert Schatz were recognized with the Nobel Prize in Medicine for their discovery of streptomycin and its antibacterial activity. Although streptomycin was the first antibiotic determined to be effective against mycobacterium tuberculosis, it has fallen out of favor due to resistance and is now primarily used as adjunctive treatment in cases of multi-drug resistant tuberculosis.
+Streptomycin is an Aminoglycoside Antibacterial and Antimycobacterial.
+Streptomycin is a broad spectrum aminoglycoside antibiotic typically used for treatment of active tuberculosis, always in combination with other antituberculosis agents. Streptomycin is usually used in combination with agents that are known to be hepatotoxic and the role of streptomycin in liver injury has been difficult to assess, but most information suggests that streptomycin is not hepatotoxic.
+Streptomycin has been reported in Lyngbya majuscula, Senecio, and other organisms with data available.
+Streptomycin is an aminoglycoside antibiotic derived from Streptomyces griseus with antibacterial activity. Streptomycin irreversibly binds to the 16S rRNA and S12 protein within the bacterial 30S ribosomal subunit. As a result, this agent interferes with the assembly of initiation complex between mRNA and the bacterial ribosome, thereby inhibiting the initiation of protein synthesis. In addition, streptomycin induces misreading of the mRNA template and causes translational frameshift, thereby results in premature termination. This eventually leads to bacterial cell death.
+STREPTOMYCIN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1946 and has 8 approved and 4 investigational indications. This drug has a black box warning from the FDA.
+An antibiotic produced by the soil actinomycete Streptomyces griseus. It acts by inhibiting the initiation and elongation processes during protein synthesis.
+See also: Streptomycin Sulfate (has salt form); Streptomycin pantothenate (is active moiety of); Streptomycin hydrochloride (is active moiety of).
+Properties:safety: Health Hazard
+smiles: C[C@H]1[C@@]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H]([C@@H]([C@H]2O)O)N=C(N)N)O)N=C(N)N)O[C@H]3[C@H]([C@@H]([C@H]([C@@H](O3)CO)O)O)NC)(C=O)O
+formula: C21H39N7O12
+chem_properties: Molecular Weight: 581.6 g/mol
+XLogP3: -8
+Hydrogen Bond Donor Count: 12
+Hydrogen Bond Acceptor Count: 15
+Rotatable Bond Count: 9
+Exact Mass: 581.26566970 Da
+Monoisotopic Mass: 581.26566970 Da
+Topological Polar Surface Area: 336
+Heavy Atom Count: 40
+Formal Charge: 0
+Complexity: 940
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 15
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

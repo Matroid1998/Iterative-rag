@@ -1,0 +1,63 @@
+Description:
+Derivatives are excellent blue emitters for organic light-emitting diodes (OLEDs).
+
+Text:
+Azaindoles are heterobicyclic aromatic organic compounds consisting of a pyrrole ring 
+fused to a pyridine ring. Being structurally different from indole only by one additional nitrogen 
+in the sixmembered pyridine ring, the azaindole moiety exhibits interesting biochemical and 
+pharmacological activities.1, 2 Scientists identified that methylated azaindole chromophores 
+could serve as blue or even green fluorescence protein markers.3 Among various structural 
+isomers of nazaindole, 7azaindole derivatives (see Figure 1 for the atom numbering) are 
+excellent blue emitters for organic lightemitting diodes (OLEDs).4 
+
+Figure 1. Structure and atom labeling for 6 and 7 protonated azaindole molecules. Table 1.
+
+
+---
+
+Description:
+Involved in excited-state proton transfer and tautomerization mechanisms with solvent molecules.
+
+Text:
+Experimental spectral width and derived lifetimes of nAIH isomers from 
+Ref.25 
+
+5AIH 
+6AIH 
+7AIH 
+S1 
+E (cm1) 
+ (fs) 
+10 
+530 
+10 
+530 
+10 
+530 
+S2 
+E (cm1) 
+ (fs) 
+280 
+20 
+115 
+50 
+Not visible 
+S3 
+E (cm1) 
+ (fs) 
+Not probed 
+230 
+25 
+23 
+230 
+
+Although one can find a handful of articles on 7azaindole in isolated monomer,58 in 
+dimeric forms5,913 and water and alcohol clusters,11, 1420 only one recent article21 to date shed 
+light upon the photophysical relaxation mechanism of nazaindole molecules by studying gas
+phase excitedstate dynamics. Experiments and theoretical calculations have also been 
+devoted16, 18, 2224 to understanding the excitedstate proton transfer and tautomerization 
+mechanism of 7azaindole with solvent molecules. On the other hand, very recently, Noble et 
+
+3 
+
+al.

@@ -1,0 +1,58 @@
+Description:
+Focus of research for enhancing catalytic properties in selective acetylene hydrogenation.
+
+Text:
+The 
+high hydrogen fraction under frontend conditions can decrease 
+the ethylene selectivity and increase the risk of hot spot formation 
+or even reactor runaway and thus, renders the process control 
+more challenging.23, 5, 711 With a suitable catalyst and safe 
+operations, the excess amount of hydrogen in the frontend 
+integration is advantageous because then a higher conversion of 
+acetylene as well as the suppression of oligo and polymeric by
+products (green oil  C4 hydrocarbons) can be achieved.23, 5, 7
+11 Additionally, this reduces catalyst deactivation and results in a 
+longer catalyst lifetime.23, 5, 711 Furthermore, with the frontend 
+method the removal and subsequent addition of hydrogen 
+becomes obsolete because the hydrogen produced during steam 
+cracking is used within a more efficient process integration.2, 5, 12 
+For both process options the stateoftheart catalysts are 
+palladiumsilver nanoparticles supported on alumina pellets.4, 8 
+However, due to the importance of the reaction, there has been a 
+lot of research with focus on enhancing catalytic properties for 
+palladium catalysts or even developing new catalysts.2, 4, 11 Here 
+metalorganic frameworks (MOFs) with their chemical versatility, 
+high surface area and pore size variability, offer the possibility of 
+directing selectivity and enhance the activity of the selective 
+acetylene hydrogenation.1315 Recent studies on this reaction 
+with specially designed MOFs for the separation of acetylene1621 
+and MOFs as catalysts, e.g.
+
+
+---
+
+Description:
+Catalysts supported on MOF structures.
+
+Text:
+with open FeIII sites,22 show 
+promising results. Research on palladium catalysts supported on 
+MOF structures has also been in the focus with Pd supported on 
+MOF523, PdUiO6724, PdMil5325 or PdZIFL26. To the 
+best of our knowledge, no studies on acetylene hydrogenation 
+with favourable Pd2 nodes as part of a MOF itself have been 
+reported, yet.
+
+
+---
+
+Description:
+Defined isolated palladium sites in a metal-organic framework structure are proven to have advantages.
+
+Text:
+The advantages of defined isolated palladium sites35
+37 in a metalorganicframework structure are proven. Additionally, 
+we demonstrate how the stability and longterm catalytic 
+performance can be significantly increased by supporting of the 
+MOF particles and enabling a synergetic effect comparable to 
+strong metal support interactions.

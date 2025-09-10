@@ -1,0 +1,26 @@
+Name: Tetraxetan
+Text:
+DOTA is an azamacrocyle in which four nitrogen atoms at positions 1, 4, 7 and 10 of a twelve-membered ring are each substituted with a carboxymethyl group. It has a role as a chelator and a copper chelator. It derives from a hydride of a 1,4,7,10-tetraazacyclododecane.
+TETRAXETAN is a small molecule drug with a maximum clinical trial phase of III (across all indications) and has 6 investigational indications.
+Properties:safety: Irritant
+smiles: C1CN(CCN(CCN(CCN1CC(=O)O)CC(=O)O)CC(=O)O)CC(=O)O
+formula: C16H28N4O8
+chem_properties: Molecular Weight: 404.42 g/mol
+XLogP3: -10.6
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 12
+Rotatable Bond Count: 8
+Exact Mass: 404.19071386 Da
+Monoisotopic Mass: 404.19071386 Da
+Topological Polar Surface Area: 162
+Heavy Atom Count: 28
+Formal Charge: 0
+Complexity: 447
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,34 @@
+Name: Propionic Acid
+Text:
+Propionic acid is a colorless liquid with a sharp rancid odor. Produces irritating vapor. (USCG, 1999)
+Propionic acid, [solution] appears as a clear oily aqueous liquid with a pungent rancid odor. Burns skin and the vapors irritate mucous membranes. Corrosive to most metals and tissue.
+Propionic acid is a short-chain saturated fatty acid comprising ethane attached to the carbon of a carboxy group. It has a role as an antifungal drug. It is a short-chain fatty acid and a saturated fatty acid. It is a conjugate acid of a propionate.
+Sodium propionate is the sodium salt of propionic acid that exists as colorless, transparent crystals or a granular crystalline powder. It is considered generally recognized as safe (GRAS) food ingredient by FDA, where it acts as an antimicrobial agent for food preservation and flavoring agent. Its use as a food additive is also approved in Europe. Sodium propionate is is prepared by neutralizing propionic acid with sodium hydroxide. Sodium propionate was previously approved in Canada as an active ingredient in Amino-Cerv (used to treat inflammation or injury of the cervix).
+Propionic acid is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Propionic Acid has been reported in Ipomoea leptophylla, Angelica gigas, and other organisms with data available.
+PROPIONIC ACID is a small molecule drug with a maximum clinical trial phase of II.
+Propionic acid (PA) is widely used as an antifungal agent in food. It is present naturally at low levels in dairy products and occurs ubiquitously, together with other short-chain fatty acids (SCFA), in the gastro-intestinal tract of humans and other mammals as an end-product of the microbial digestion of carbohydrates. It has significant physiological activity in animals. PA is irritant but produces no acute systemic effects and has no demonstrable genotoxic potential.  Propionic aciduria is one of the most frequent organic acidurias, a disease that comprise many various disorders. The outcome of patients born with Propionic aciduria is poor intellectual development patterns, with 60% having an IQ less than 75 and requiring special education. Successful liver and/or renal transplantations, in a few patients, have resulted in better quality of life but have not necessarily prevented neurological and various visceral complications. These results emphasize the need for permanent metabolic follow-up whatever the therapeutic strategy.  Decreased early mortality, less severe symptoms at diagnosis, and more favorable short-term neurodevelopmental outcome were recorded in patients identified through expanded newborn screening.  (A3502, A3503, A3504).
+propionic acid is a metabolite found in or produced by Saccharomyces cerevisiae.
+See also: Carboxylic acids, C1-5 (annotation moved to); Fatty acids, C3-24 (annotation moved to).
+Properties:safety: Corrosive
+smiles: CCC(=O)O
+formula: C3H6O2
+chem_properties: Molecular Weight: 74.08 g/mol
+XLogP3: 0.3
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 74.036779430 Da
+Monoisotopic Mass: 74.036779430 Da
+Topological Polar Surface Area: 37.3
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 40.2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

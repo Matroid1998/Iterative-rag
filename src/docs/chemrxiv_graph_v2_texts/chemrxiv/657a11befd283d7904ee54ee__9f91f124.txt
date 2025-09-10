@@ -1,0 +1,15 @@
+Description:
+A bond that can be cleaved at elevated temperatures or using light.
+
+Text:
+Cleavage of the peroxo bond at elevated temperatures or using 
+light, also referred to as S2O82 activation,3,4 results in the formation of the sulfate radical anion 
+(SO4), which has a standard reduction potential (E0) of  2.2 V vs. AgAgCl.5 The resulting SO4 
+is capable of abstracting an electron or a hydrogen atom from molecules to form SO42 or HSO4, 
+respectively.2 The ability of SO4 to abstract a hydrogen atom is leveraged frequently in organic 
+synthesis for CH activation.68 For instance, McMillan and coworkers carried out arylation of 
+ethers using photochemical reduction of S2O82.9 
+Recently, we reported the selective oxidation of alcohols to the corresponding 
+aldehydesketones (pH  7) and carboxylic acids (pH  7) via the electrocatalytic reduction of 
+S2O82 to S2O83 using electrogenerated Ru(NH3)62.10 Our prior studies suggested an eightstep 
+mechanism for the overall alcohol oxidation, with the first five steps, shown below as eqs.

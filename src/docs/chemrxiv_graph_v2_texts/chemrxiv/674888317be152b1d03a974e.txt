@@ -1,0 +1,97 @@
+Description:
+Polyaromatic compounds composed of ortho fused benzene rings with a screw-like structure.
+
+Text:
+Helicenes are polyaromatic compounds, composed of ortho
+fused benzene rings, which are known for their unusual, screw
+like structure.
+
+
+---
+
+Description:
+A compound class with a stereogenic sp2 hybridised backbone, known for its chiroptical properties and high charge transport capabilities.
+
+Text:
+Notably, the stereogenic element of helicenes is 
+the sp2hybridised backbone, leading to a colocalisation of 
+helical chirality and polyaromatic structure that results in many 
+intriguing properties and, ultimately, in the establishment of 
+helicenes as a prominent compound class within chiral 
+materials research.1,2 
+Of particular interest are the chiroptical properties of 
+helicenes, which can show strong dissymmetries3 in the 
+absorption (circular dichroism, CD) or emission (circularly 
+polarised luminescence, CPL)4 of circularly polarised (CP) light 
+due to the integration of aromatic chromophores within the 
+helical framework.5 Due to these properties, helicenes have 
+been used in applications for both the emission (CPOLEDs)69 
+and detection of CP light.1012 
+In addition to these highly dissymmetric chiroptical 
+properties, helicenes are often observed to have high charge 
+transport capabilities due to their conjugated structure.1316 
+This allows for the use of helicenes as semiconductors in 
+perovskite solar cells,17,18 a humidity sensor,19 or OFETs,20,21 
+amongst other applications.
+
+
+---
+
+Description:
+Chiral molecules with potential use as spinfilters in devices due to their ability to achieve spinselective electron transport.
+
+Text:
+But perhaps the most intriguing 
+application is the potential use of helicenes as spinfilters in 
+devices. As chiral molecules, helicene enantiomers may be able 
+to achieve spinselective electron transport,2226 also known as 
+the chiral induced spin selectivity (CISS) effect.27 This opens up 
+the potential for helicenes to be used in a variety of spintronics 
+devices such as magnetic RAM and Hall effect sensors.28,29 
+These examples discussed so far demonstrate the flourishing 
+landscape of helicene research and provide a strong basis for 
+continued investigations of these intriguing molecules.
+
+
+---
+
+Description:
+Compounds with a helical backbone often containing a heteroatom that influences their physical and optoelectronic properties.
+
+Text:
+A common feature in many helicenes mentioned above is 
+the inclusion of a heteroatom into the helical backbone.30 This 
+is often highlighted by studies as crucial in influencing the 
+physical and optoelectronic properties of a helicene.13,3133 
+However, there are relatively few studies dedicated solely 
+towards investigating synthetic strategies for making a wider 
+range of heterohelicenes based on N, O, and Sheterocycles. Existing examples include photochemical methodologies as 
+applied to the synthesis of azahelicenes by the Carrona 
+group34,35 and a variety of thiahelicenes synthesised by the 
+Wynberg group.3638 Mallory photocyclisations39 are one of the 
+most common strategies to access heterohelicenes but non
+photochemical methodologies such as the Scholl reaction,4042 
+oxidative couplings,43 and 222 cycloisomerisations4446 have 
+also been reported.
+
+
+---
+
+Description:
+Compounds that can be synthesized in flow through cycloisomerisations.
+
+Text:
+Flow or photoflow methodologies are an oftenoverlooked 
+synthetic strategy for accessing heterohelicenes. In particular, 
+photoflow chemistry may offer advantages over batch 
+chemistry including straightforward scalability and a higher 
+tolerance for the high dilution and potential photodegradation 
+encountered in Mallory photocyclisations.47,48 Some examples 
+of helicenes and heterohelicenes synthesised in flow have been 
+reported such as the 222 cycloisomerisations mentioned 
+above, but only a handful of these explore the preparation of 
+heterohelicenes by photocyclisation.4953 
+In this work, we report the Mallory photocyclisation of a 
+series of heterohelicenes using a photochemical flow reactor. Most substrates were synthesised within a short 100 s 
+residence time by using a powerful 150 W LED 365 nm lamp, 
+enabling throughputs of up to 195 mg of stilbene per hour.

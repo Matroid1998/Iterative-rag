@@ -1,0 +1,23 @@
+Name: Lithium bis((trifluoromethyl)sulfonyl)azanide
+Text:
+Properties:safety: Corrosive and Acute Toxic and Health Hazard
+smiles: [Li+].C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+formula: C2F6LiNO4S2
+chem_properties: Molecular Weight: 287.1 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 11
+Rotatable Bond Count: 2
+Exact Mass: 286.93329724 Da
+Monoisotopic Mass: 286.93329724 Da
+Topological Polar Surface Area: 86
+Heavy Atom Count: 16
+Formal Charge: 0
+Complexity: 379
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

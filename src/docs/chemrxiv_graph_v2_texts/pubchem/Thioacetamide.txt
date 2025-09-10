@@ -1,0 +1,29 @@
+Name: Thioacetamide
+Text:
+Thioacetamide can cause cancer according to an independent committee of scientific and health experts.
+Thioacetamide appears as white crystals with a mercaptan odor.
+Thioacetamide is a thiocarboxamide consiting of acetamide having the oxygen replaced by sulfur. It has a role as a hepatotoxic agent. It is functionally related to an acetamide.
+Thioacetamide is a synthetic, colorless crystalline solid that is soluble in water and ethanol. Thioacetamide is currently only used as a replacement for hydrogen sulfide in qualitative analysis. When heated to decomposition, it emits toxic fumes of nitrogen oxides and sulfur oxides. The primary routes of potential human exposure to thioacetamide are inhalation and dermal contact. It is reasonably anticipated to be a human carcinogen. (NCI05)
+A crystalline compound used as a laboratory reagent in place of HYDROGEN SULFIDE. It is a potent hepatocarcinogen.
+Properties:safety: Irritant and Health Hazard
+smiles: CC(=S)N
+formula: C2H5NS
+chem_properties: Molecular Weight: 75.14 g/mol
+XLogP3: -0.3
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 75.01427034 Da
+Monoisotopic Mass: 75.01427034 Da
+Topological Polar Surface Area: 58.1
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 33
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

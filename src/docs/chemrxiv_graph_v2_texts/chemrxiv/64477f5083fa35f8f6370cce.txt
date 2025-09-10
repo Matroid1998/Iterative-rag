@@ -1,0 +1,27 @@
+Description:
+A material matrix used to embed MOFs for easier processing.
+
+Text:
+MOFs embedded within a moreeasily processable material ma
+trix such as graphene oxide or polymers, has gained increasing 
+attention.6 
+Recently, glasses formed by meltquenching zeolitic imidazo
+late frameworks (ZIFs) have been demonstrated to offer prom
+ising mechanical properties.7 ZIFs are a subgroup of highly 
+thermally stable MOFs, composed of metal cations tetrahe
+drally coordinated through imidazolate linkers.8The use of ZIF 
+glasses as matrix materials within MOF composites can, for ex
+ample, stabilize a metastable phase of MIL53 at room temper
+ature.9 However, examples of meltquenched ZIF glasses re
+main relatively rare and therefore their use as composite matri
+ces is not a widely applicable approach.10 
+In contrast, inorganic glasses are a broad family of materials 
+with a vast number of applications, ranging from commodities 
+such as architectural or container glasses to specialty glasses 
+widely employed in biotechnology, photonics, nuclear waste 
+management or solidstate electrolytes.11 In general, inorganic 
+glasses avoid crystallisation either by having complex chemical 
+compositions, also called principle of maximum confusion,12 
+or by kinetically frustrating the crystallisation process by cool
+ing the melt beyond its critical cooling rate.13 They are rela
+tively cheap and wellstudied materials, though they are almost

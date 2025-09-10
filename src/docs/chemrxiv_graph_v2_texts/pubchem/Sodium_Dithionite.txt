@@ -1,0 +1,26 @@
+Name: Sodium Dithionite
+Text:
+Sodium dithionite is a whitish to light yellow crystalline solid having a sulfur dioxide-like odor. It spontaneously heats on contact with air and moisture. This heat may be sufficient to ignite surrounding combustible materials. Under prolonged exposure to fire or intense heat containers of this material may violently rupture. It is used in dyeing and to bleach paper pulp.
+Sodium dithionite is an inorganic sodium salt that is the disodium salt of dithionous acid. It has a role as a reducing agent and a bleaching agent. It contains a dithionite(2-).
+Dithionite. The dithionous acid ion and its salts.
+Properties:safety: Flammable and Irritant
+smiles: [O-]S(=O)S(=O)[O-].[Na+].[Na+]
+formula: Na2S2O4
+chem_properties: Molecular Weight: 174.11 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 0
+Exact Mass: 173.90333939 Da
+Monoisotopic Mass: 173.90333939 Da
+Topological Polar Surface Area: 119
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 60.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

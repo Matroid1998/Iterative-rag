@@ -1,0 +1,12 @@
+Description:
+Commonly form 2D layered structures with relatively wide band gaps.
+
+Text:
+However, the 2D layered structure only forms for a few 
+compositions, most commonly bromides and chlorides such as Cs3Bi2Br9, Cs3Sb2Br9 and 
+Cs3Fe2Cl9. The band gaps of these compounds are relatively wide due to the high 
+electronegativity of the halide anions that typically adopt the layered arrangement. Therefore, 
+while the 2D structure has inherent benefits, its stabilisation only by lighter halides means the 
+band gaps of 2D compounds are typically large. Therefore, whilst developing methods to 
+control the band gap and enhance optical absorption in leadfree halide materials is of general 
+concern, it is especially important for 2D A3B2X9 compounds.

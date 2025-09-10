@@ -1,0 +1,28 @@
+Name: Palladium
+Text:
+Palladium is chemical element (nickel group element atom) with atomic number 46. It is a nickel group element atom, a platinum group metal atom and a metal allergen.
+Palladium is an element with atomic symbol Pd, atomic number 46, and atomic weight 106.42.
+Palladium is a mineral with formula of Pd. The IMA symbol is Pd.
+Palladium is a rare and lustrous silvery-white metal. Palladium has the lowest melting point and is the least dense of platinum group metals. The primary use for palladium is in catalytic converters for the automotive industry.
+A chemical element having an atomic weight of 106.4, atomic number of 46, and the symbol Pd. It is a white, ductile metal resembling platinum, and following it in abundance and importance of applications. It is used in dentistry in the form of gold, silver, and copper alloys.
+Properties:safety: Flammable and Irritant
+smiles: [Pd]
+formula: Pd
+chem_properties: Molecular Weight: 106.42 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 105.90348 Da
+Monoisotopic Mass: 105.90348 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 1
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

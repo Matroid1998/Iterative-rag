@@ -1,0 +1,41 @@
+Name: Formaldehyde
+Text:
+At room temperature, formaldehyde is a colorless, flammable gas that has a distinct, pungent smell. It is also known as methanal, methylene oxide, oxymethyline, methylaldehyde, and oxomethane. Formaldehyde is naturally produced in small amounts in our bodies. It is used in the production of fertilizer, paper, plywood, and urea-formaldehyde resins. It is also used as a preservative in some foods and in many products used around the house, such as antiseptics, medicines, and cosmetics.
+Formaldehyde (gas) can cause cancer according to an independent committee of scientific and health experts.
+Solids containing varying amounts of formaldehyde, probably as paraformaldehyde (polymers of formula HO(CH2O)xH where x averages about 30). A hazard to the environment. Immediate steps should be taken to limit spread to the environment.
+Formaldehyde, solution, flammable appears as a colorless aqueous solution of formaldehyde, which is a gas at ordinary conditions. Has a pungent irritating odor. Flash point varies from 122 to 141 °F. Denser than water. The vapors are heavier than air and are highly irritating to the nose. Toxic if swallowed. Contact can cause severe injury to the skin accompanied by drying, cracking, and scaling. Used to make plastics, other chemicals, and fertilizers. Used as a preservative and a corrosion inhibitor.   Rate of onset: Immediate  Persistence: Hours  Odor threshold: 1 ppm  Source/use/other hazard: Disinfection/germicide; fungicide; textile; health care (tissue fixing).
+Formaldehyde, solutions (formalin) (corrosive) appears as a colorless liquid with a pungent irritating odor. Contains 37-50% formaldehyde by mass and varying amounts of methanol, added to prevent precipitation of formaldehyde polymers (formaldehyde exists in solution as CH2(OH)2 and its polymers HO(CH2O)xH where x averages about three). Formalin free of methanol is also shipped but must be kept warm (about 30 °C (86 °F)) to prevent polymerization. Pure formaldehyde, a gas, is not handled commercially because it tends to polymerize exothermally and may ignite. Vapor from formalin solution is flammable and an explosion hazard when exposed to flame or heat. Skin and eye irritant. Confirmed carcinogen.
+Formaldehyde is an aldehyde resulting from the formal oxidation of methanol. It has a role as a carcinogenic agent, an allergen, an EC 3.5.1.4 (amidase) inhibitor, a disinfectant, an environmental contaminant, a Saccharomyces cerevisiae metabolite, an Escherichia coli metabolite and a mouse metabolite. It is a one-carbon compound and an aldehyde.
+A highly reactive aldehyde gas formed by oxidation or incomplete combustion of hydrocarbons. In solution, it has a wide range of uses: in the manufacture of resins and textiles, as a disinfectant, and as a laboratory fixative or preservative. Formaldehyde solution (formalin) is considered a hazardous compound, and its vapor toxic. (From Reynolds, Martindale The Extra Pharmacopoeia, 30th ed, p717)
+Formaldehyde is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Formaldehyde is used mainly to produce resins used in particleboard products and as an intermediate in the synthesis of other chemicals. Exposure to formaldehyde may occur by breathing contaminated indoor air, tobacco smoke, or ambient urban air. Acute (short-term) and chronic (long-term) inhalation exposure to formaldehyde in humans can result in respiratory symptoms, and eye, nose, and throat irritation. Limited human studies have reported an association between formaldehyde exposure and lung and nasopharyngeal cancer. Animal inhalation studies have reported an increased incidence of nasal squamous cell cancer. EPA considers formaldehyde a probable human carcinogen (Group B1).
+Formaldehyde is a Standardized Chemical Allergen. The physiologic effect of formaldehyde is by means of Increased Histamine Release, and Cell-mediated Immunity.
+Formaldehyde has been reported in Avena sativa, Homo sapiens, and other organisms with data available.
+Formaldehyde is a colorless poisonous gas synthesized by the oxidation of methanol and used as an antiseptic, disinfectant, histologic fixative, and general-purpose chemical reagent for laboratory applications. Formaldehyde is readily soluble in water and is commonly distributed as a 37% solution in water; formalin, a 10% solution of formaldehyde in water, is used as a disinfectant and to preserve biological specimens. Environmentally, formaldehyde may be found in the atmosphere, smoke from fires, automobile exhaust and cigarette smoke. Small amounts are produced during normal metabolic processes in most organisms, including humans.
+FORMALDEHYDE is a small molecule drug with a maximum clinical trial phase of IV.
+Formaldehyde is a highly reactive aldehyde gas formed by oxidation or incomplete combustion of hydrocarbons. In solution, it has a wide range of uses: in the manufacture of resins and textiles, as a disinfectant, and as a laboratory fixative or preservative. Formaldehyde solution (formalin) is considered a hazardous compound, and its vapor toxic. (From Reynolds, Martindale The Extra Pharmacopoeia, 30th ed, p717) -- Pubchem; The chemical compound formaldehyde (also known as methanal), is a gas with a pungent smell. It is the simplest aldehyde. Its chemical formula is H2CO. Formaldehyde was first synthesized by the Russian chemist Aleksandr Butlerov in 1859 but was conclusively identified by August Wilhelm van Hofmann in 1867. Although formaldehyde is a gas at room temperature, it is readily soluble in water, and it is most commonly sold as a 37% solution in water called by trade names such as formalin or formol. In water, formaldehyde polymerizes, and formalin actually contains very little formaldehyde in the form of H2CO monomer. Usually, these solutions contain a few percent methanol to limit the extent of polymerization. Formaldehyde exhibits most of the general chemical properties of the aldehydes, except that is generally more reactive than other aldehydes. Formaldehyde is a potent electrophile. It can participate in electrophilic aromatic substitution reactions with aromatic compounds and can undergo electrophilic addition reactions with alkenes. In the presence of basic catalysts, formaldehyde undergoes a Cannizaro reaction to produce formic acid and methanol. Because formaldehyde resins are used in many construction materials, including plywood, carpet, and spray-on insulating foams, and because these resins slowly give off formaldehyde over time, formaldehyde is one of the more common indoor air pollutants. At concentrations above 0.1 mg/kg in air, inhaled formaldehyde can irritate the eyes and mucous membranes, resulting in watery eyes, headache, a burning sensation in the throat, and difficulty breathing. -- Wikipedia.
+Formaldehyde is a metabolite found in or produced by Saccharomyces cerevisiae.
+A highly reactive aldehyde gas formed by oxidation or incomplete combustion of hydrocarbons. In solution, it has a wide range of uses: in the manufacture of resins and textiles, as a disinfectant, and as a laboratory fixative or preservative. Formaldehyde solution (formalin) is considered a hazardous compound, and its vapor toxic. (From Reynolds, Martindale The Extra Pharmacopoeia, 30th ed, p717)
+See also: Cresol (active moiety of); Paraformaldehyde (monomer of); Tyloxapol (monomer of) ... View More ...
+Properties:safety: Corrosive and Acute Toxic and Health Hazard
+smiles: C=O
+formula: CH2O
+chem_properties: Molecular Weight: 30.026 g/mol
+XLogP3: 1.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 30.010564683 Da
+Monoisotopic Mass: 30.010564683 Da
+Topological Polar Surface Area: 17.1
+Heavy Atom Count: 2
+Formal Charge: 0
+Complexity: 2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

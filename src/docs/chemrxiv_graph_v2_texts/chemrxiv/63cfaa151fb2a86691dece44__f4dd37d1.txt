@@ -1,0 +1,44 @@
+Description:
+Used at 400 °C to remove organic ligands and regenerate surface silanols.
+
+Text:
+of 
+Rh through a second grafting step using Rh(COD)(DIA) (Figure 1a). IR spectroscopy was used 
+
+to monitor the grafting process (Figure 1b) grafting of Rh(COD)(DIA) on MnIISiO2 shows 
+a decrease in intensity of the surface silanols and the appearance of similar IR bands as 
+observed during grafting on silica (vide supra). Upon treatment under H2 at 400 oC, all organic 
+ligands are removed and the surface silanols are regenerated (Figure 1b). This material is 
+henceforth denoted RhMnSiO2. TEM shows the formation of significantly smaller 
+nanoparticles for RhMnSiO2 centered at 1.9 nm (Figure 1c), when compared to monometallic 
+RhSiO2, which already suggests a substantial influence of Mn on the nanoparticle structure.
+
+
+---
+
+Description:
+Used in chemisorption to characterize the surface state of Rh.
+
+Text:
+The metal loadings in RhMnSiO2 and RhSiO2, analyzed by inductively coupled 
+plasma optical emission spectroscopy (ICPOES), are similar with ca. 2.3 wt Rh. The 
+RhMnSiO2 also contains 1.45 wt Mn, which corresponds to a ca. 11 molar ratio of RhMn 
+(Table S1). We also carried out H2 and CO chemisorption to better characterize the surface 
+state of Rh (Table S1 and Figure S14S15). The H2 and CO uptake found RhMnSiO2 are 
+both higher than for RhSiO2, implying that the Rh nanoparticles are smaller in the presence 
+of Mn promoter. Note that H2CO chemisorption is not effective for estimating the metal 
+dispersion in case of Rh due to the multiple adsorption of hydrogen and the complicated CO 
+adsorption modes. 11 
+
+Figure 1.
+
+
+---
+
+Description:
+Used for reduction at 400 oC.
+
+Text:
+(a) Schematic procedure for grafting of Rh(COD)(DIA) on MnIISiO2 followed by reduction 
+under H2 at 400 oC. (b) IR spectra throughout the synthesis of RhMnSiO2 starting from the second 
+grafting. (c) Particle size distribution and TEM images of RhMnSiO2.

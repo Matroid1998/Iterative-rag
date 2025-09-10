@@ -1,0 +1,15 @@
+Description:
+Common Fe complexes where MLCTs are rapidly quenched.
+
+Text:
+Extensive research efforts have continuously been devoted to
+develop efficient sensitisers absorbing in the visible range, with
+the most important aspects being the price andor toxicity of the
+metal and the lifetime of the relevant MLCT states3. An immense
+achievement was made a decade ago towards replacing photosen
+sitisers based on precious metals, such as Ru and Ir, by Earth
+abundant Fe complexes. This breakthrough was obtained owing
+to the utilisation of strongly donating Nheterocyclic carbene
+(NHC) ligands46, which destabilise metalcentered (MC) excited
+states7, that otherwise rapidly, in ca. 100 fs quench the MLCTs in
+common Fe complexes such as Fe(II) polypyridines812.

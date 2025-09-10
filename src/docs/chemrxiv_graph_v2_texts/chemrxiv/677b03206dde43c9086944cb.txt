@@ -1,0 +1,9 @@
+Description:
+A substrate for protein arginine methyl transferases involved in methylation reactions.
+
+Text:
+Protein arginine methyl transferases (PRMTs) transfer a me
+thyl group from their cosubstrate Sadenosylmethionine 
+(SAM) to peptide substrates. Cosubstrate and peptidesub
+strate bind at distinct sites that are connected through a central 
+channel where the methyl transfer takes place.

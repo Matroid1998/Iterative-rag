@@ -1,0 +1,13 @@
+Description:
+Materials where understanding and controlling native defects is essential for their properties such as conductivity, light emission, photocatalysis, magnetism, and gas sensing.
+
+Text:
+For instance, O vacancy (Vo), the most stable 
+native defect in many oxides, is found to play a key role in conductivity9,10, lightemission2,11,12, 
+photocatalysis,13,14 magnetism15,16and gas sensing.1720Therefore, understanding and controlling 
+native defects is essential for metal oxides. To this goal, a reliable method to identify and characterize defects is a prerequisite. Among 
+others, Xray photoelectron spectroscopy (XPS) is intensively used for characterizing 
+defects.10,14,18,19However, correct interpretation of XPS results has always been a challenging task, 
+owing to the lack of reference data and wellestablished rules to guide the deconvolution of spectra. In fact, misinterpretation is unfortunately not uncommon in XPS studies21. As a consequence, the 
+need for theoretical studies to assist in the analysis of an XPS spectrum arose almost immediately 
+with the invention of XPS.

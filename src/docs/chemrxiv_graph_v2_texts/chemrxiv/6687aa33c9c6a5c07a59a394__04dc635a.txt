@@ -1,0 +1,19 @@
+Description:
+An isostructural compound allowing 71, 109, and 180-degree domain walls.
+
+Text:
+While the R3c structure
+allows 71, 109and 180DWs39, as observed in isostructural
+BiFeO3
+40, the large distortion amplitude of LiNbO3 compared to
+aristotype cubic perovskite makes the coercive field for non180
+Department of Materials Science and Engineering,
+NTNU Norwegian University of Science and Technology, Trondheim, Norway
+ Electronic Supplementary Information (ESI) available details of any supplemen
+tary information available should be included here. See DOI 00.000000000000.
+switching prohibitively large, rendering the material a uniaxial
+ferroelectric with only two accessible polar directions41. Conse
+quently, only two different neutral ferroelectric DWs are possible,
+commonly referred to as X and Ytype DWs (Figure S1). The ex
+perimentally observed Ytype neutral DW is the most stable41 and
+thus the primary focus of this work.

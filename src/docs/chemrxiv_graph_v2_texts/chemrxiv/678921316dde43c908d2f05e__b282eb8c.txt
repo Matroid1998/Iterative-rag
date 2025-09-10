@@ -1,0 +1,27 @@
+Description:
+Detectors have a sensitivity range ending at 1100 nm.
+
+Text:
+The (6,5)SWCNTs are characterized by an emission 
+peak at 1000 nm with a fullwidth half maximum (FWHM) of around 30 nm. This emission lies precisely at the 
+spectral boundary where the sensitivity of the silicon (Si) detectors ends (300 nm  1100 nm) and the sensitivity 
+of InGaAs detectors (900 nm  1700 nm) begins. In most studies utilizing the fluorescence of (6,5)SWCNT for 
+biosensing, singlepixel InGaAs photodiodes2431 or InGaAs cameras17,32,33,23 are used for detection. However, 
+silicon offers intrinsic advantages compared to InGaAs as a detector material. Due to the lower bandgap of InGaAs, 
+thermal noise is more prevalent in InGaAs detectors.34,35 Additionally, blackbody radiation becomes a non
+neglectable factor at higher wavelengths.
+
+
+---
+
+Description:
+Used in cameras and photodiodes, with low quantum efficiency at 880 nm but increased sensitivity for NIR wavelengths due to a thicker absorption area.
+
+Text:
+(6,4)SWCNTs, which emit closer to the Vis at 880 nm, are detected 
+more effectively by Si than InGaAscameras despite the low quantum efficiency of standard Sicameras at this 
+wavelength.16 In comparison, (6,5)SWCNTs are better detected by an InGaAscamera.16 However, at present, the 
+broader adoption of (6,4)SWCNTs is hindered by the necessity for isolation from the chiral mixture.16,36 Si PIN 
+photodiodes, on the other hand, are based on a pn diode with an additional intrinsic layer. The thicker absorption 
+area increases the sensitivity for wavelengths in the NIR range,37 which makes them interesting candidates for the 
+detection of NIR fluorophores in the 1000 nm range, such as (6,5)SWCNTs.

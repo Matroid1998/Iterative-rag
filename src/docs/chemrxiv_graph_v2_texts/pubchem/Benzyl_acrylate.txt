@@ -1,0 +1,24 @@
+Name: Benzyl acrylate
+Text:
+Properties:safety: Irritant and Environmental Hazard
+smiles: C=CC(=O)OCC1=CC=CC=C1
+formula: C10H10O2
+chem_properties: Molecular Weight: 162.18 g/mol
+XLogP3: 2.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 4
+Exact Mass: 162.068079557 Da
+Monoisotopic Mass: 162.068079557 Da
+Topological Polar Surface Area: 26.3
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 157
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

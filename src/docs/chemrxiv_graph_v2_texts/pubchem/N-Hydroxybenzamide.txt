@@ -1,0 +1,25 @@
+Name: N-Hydroxybenzamide
+Text:
+Rhombic crystals or light beige solid. (NTP, 1992)
+Properties:safety: Irritant and Health Hazard
+smiles: C1=CC=C(C=C1)C(=O)NO
+formula: C7H7NO2
+chem_properties: Molecular Weight: 137.14 g/mol
+XLogP3: 0.3
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 137.047678466 Da
+Monoisotopic Mass: 137.047678466 Da
+Topological Polar Surface Area: 49.3
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 119
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

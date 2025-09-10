@@ -1,0 +1,26 @@
+Name: Quinuclidinyl Benzilate
+Text:
+3-quinuclidinyl benzilate appears as a chemical warfare incapacitating agent. Colorless liquid, odorless to fruity.
+A high-affinity muscarinic antagonist commonly used as a tool in animal and tissue studies.
+Properties:safety: Acute Toxic
+smiles: C1CN2CCC1C(C2)OC(=O)C(C3=CC=CC=C3)(C4=CC=CC=C4)O
+formula: C21H23NO3
+chem_properties: Molecular Weight: 337.4 g/mol
+XLogP3: 3.3
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 5
+Exact Mass: 337.16779360 Da
+Monoisotopic Mass: 337.16779360 Da
+Topological Polar Surface Area: 49.8
+Heavy Atom Count: 25
+Formal Charge: 0
+Complexity: 442
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,28 @@
+Name: Thiazole
+Text:
+Thiazole appears as colorless or pale yellow liquid with a foul odor. (NTP, 1992)
+Thiazole is a mancude organic heteromonocyclic parent, a member of 1,3-thiazoles and a monocyclic heteroarene.
+HYDROCHLORTHIAZIDE is a small molecule drug with a maximum clinical trial phase of II and has 1 investigational indication.
+Heterocyclic compounds where the ring system is composed of three CARBON atoms, a SULFUR and NITROGEN atoms.
+Properties:safety: Flammable and Corrosive and Irritant
+smiles: C1=CSC=N1
+formula: C3H3NS
+chem_properties: Molecular Weight: 85.13 g/mol
+XLogP3: 0.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 84.99862027 Da
+Monoisotopic Mass: 84.99862027 Da
+Topological Polar Surface Area: 41.1
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 30.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

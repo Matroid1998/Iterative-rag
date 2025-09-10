@@ -1,0 +1,74 @@
+Description:
+Commonly used in organic chemistry to mask the electrophilic nature of carbonyl groups and serve as acyl anions in syntheses.
+
+Text:
+Dithianes are commonly used in organic chemistry to 
+mask the electrophilic nature of carbonyl groups1 in 
+elaborated molecules but also serve as acyl anions in 
+syntheses according to the Umpolung concept.2The 
+main advantages of dithianes are their easy access 
+from a carbonyl compound by using propane1,3
+dithiol and a Lewis acid and their stabilities in 
+alkaline and acid conditions notably permitting their 
+purification on silica columns. In counterparts to this 
+stability, many procedures have been developed for 
+their deprotection but generally require drastic 
+conditions.3 Most of the time, toxic metal salts as 
+Hg(II),4 Ag(I),5 Zn(II),6 Ga(III),7 Cu(II),8 
+Tl(V)9 and others are used in excess in harsh 
+conditions 
+with 
+some 
+success.
+
+
+---
+
+Description:
+Compounds that can be removed using hypervalentiodine reagents.
+
+Text:
+The 
+use 
+of 
+hypervalentiodine reagents for the removal of 
+dithianes has been also reported as an efficient 
+process using periodic acid,10 diacetoxyiodobenzene, 
+11 bis(trifluoroacetoxy)iodobenzene (BTI),12 Dess
+Martin periodinane13 and Nhalosuccinimides.14 
+However, a large variety of the aforementioned 
+methods require the use of toxic metals, the need of 
+oxidizing species in large amounts sometimes 
+accompanied with cooxidants mainly in harsh 
+reaction conditions. In this context, we believe that an 
+alternative milder process is still needed using for 
+example inexpensive and soft reagents to achieve this 
+transformation at room temperature in the presence of 
+various functional groups. Recently, we reported the interesting reducing 
+properties of the TMSClNaI association in CH2Cl2 
+towards various functional groups as unsymmetrical 
+diketones,15 ketoesters,16 and hydrazonesError! Bookmark not defined. derivatives.
+
+
+---
+
+Description:
+Totally and cleanly deprotected into ketones in CH3CN.
+
+Text:
+Under similar reaction 
+conditions, we next demonstrated that a variety of 
+dithioacetals were cleanly desulfurized at room 
+temperature17 in CH2Cl2 using this metalfree 
+process in a Mozingotype reaction.18 
+By replacing CH2Cl2 by CH3CN as the reaction 
+solvent, we surprisingly observed that dithianes 
+derivatives were not reduced into methylene 
+substrates but were totally and cleanly deprotected 
+into ketones. It seemed interesting to study in detail 
+this method for the deprotection of thioacetals which 
+does not use metal salts, nor oxidants, nor toxic or 
+expensive reagents (Figure 1). Herein, we wish to 
+report the mild deprotection conditions of a range of 
+dithianes, dithiolanes and oxygenated derivatives 
+using the TMSClNaI association in CH3CN.

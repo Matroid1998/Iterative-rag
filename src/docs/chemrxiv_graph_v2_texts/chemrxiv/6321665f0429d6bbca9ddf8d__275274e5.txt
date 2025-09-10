@@ -1,0 +1,9 @@
+Description:
+Used in gel electrophoresis for the separation of molecules such as oligonucleotides.
+
+Text:
+The cDNA prepared by any of these methods can be purified 
+from unligated oligonucleotide precursors by either exonuclease digestion or by denaturing 
+polyacrylamide gel electrophoresis (PAGE) (28). Bioanalytical RCA techniques involving presynthesized cDNA would not require in 
+situ ligation. These assays therefore in principle are faster compared to those involving in situ 
+ligation and have seen applications in the biosensing of viruses, microRNA detections, and

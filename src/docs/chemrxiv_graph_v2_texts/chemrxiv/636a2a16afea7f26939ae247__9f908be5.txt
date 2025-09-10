@@ -1,0 +1,70 @@
+Description:
+A strong, sterically hindered base used for deprotonation in organic synthesis.
+
+Text:
+78 C
+r.t., 16 h
+Se
+Se
+Ph
+Ph
+R  Oct 
+R  3,5(CF3)2C6H3
+3, 77
+4, 0
+A
+N
+N
+N
+Lithiationdirecting Nsubstituents (Holzer, Begtrup)
+i) nBuLi, THF
+78 C, 560 mins
+ii) Electrophile
+N
+N
+N
+E
+N
+N
+N
+R2
+Electronneutraldonating Nsubstituents (Raap, Ohta)
+i) nBuLi or LiTMP
+THF, 40 C, 12 h
+ii) Electrophile
+N
+N
+N
+R2
+E
+R1
+R1
+R1, R2  Ph
+R1  H, R2  Me
+B Previous work
+i) LDA or LiTMP
+THF, 78 C, 5 mins
+ii) Electrophile
+C This work Electronwithdrawing Nsubstituents
+N
+N
+N
+Ph
+EWG
+E
+OR
+n
+OR
+n
+n  0, R  Bn
+n  1, R  (CH2)2SiMe3
+Regioselectivity of lithiation
+Lithiated triazole stability
+Scope and limitations
+N
+N
+N
+Ph
+EWG
+R  Oct 1
+R  3,5(CF3)2C6H3 2

@@ -1,0 +1,32 @@
+Description:
+Tetrahedra that replace some SiO4 in zeolites, requiring charge compensation.
+
+Text:
+Aluminosilicates are industrially indispensable materials with a farreaching global 
+commercial importance. Besides their more mundane use in construction materials and 
+ceramics, their porous forms, most notably zeolites,1 represent the backbone of industrial 
+heterogeneous acid catalysis. Zeolites are crystalline microporous aluminosilicate 
+networks where some of the SiO4 tetrahedra are replaced by AlO4, necessitating 
+charge compensation by a loosely bound cation in the pore space. Protonation gives rise 
+to wellunderstood intraframework Brnsted acid sites of the Si(2OH)Al type,2 which 
+were in the past believed to be responsible for all the catalytic properties of these 
+materials.
+
+
+---
+
+Description:
+A highly symmetric species observed using 27Al MAS NMR techniques with relatively narrow line shapes.
+
+Text:
+Evidence for a synergistic interaction between 
+the Brnsted and the Lewis acid sites has also been presented.6 
+
+Direct characterization of the Lewis acid sites is challenging due to their extremely 
+low volumetric abundance (nearsurface species) and the high spin of the 27Al nucleus 
+(I  52), giving rise to a considerable quadrupolar moment which, in turn, interacts with 
+the electric field gradient (EFG) to produce potentially very broad and complex line 
+shapes.7 Although simple onedimensional (1D) 27Al MAS NMR techniques are routinely 
+used to observe highly symmetric species (e.g., AlO4 or AlO6), which exhibit relatively 
+narrow line shapes, other species of lower symmetry can result in resonances spanning 
+httpsdoi.org10.26434chemrxiv2023bs4b0 ORCID httpsorcid.org000000026234850X Content not peerreviewed by ChemRxiv. License CC BY 4.0

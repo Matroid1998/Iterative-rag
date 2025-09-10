@@ -1,0 +1,37 @@
+Description:
+Metal nodes in MOFs, often associated with collapse events.
+
+Text:
+Furthermore, there are few works that relied on the 
+computed mechanical properties to elucidate the collapse 
+events for certain MOFs.9,10 
+In our present work, computational screening was 
+conducted to evaluate the activation status of MOFs with 
+copper paddlewheel metal nodes (the scheme of the work 
+is illustrated in Figure 1). Based on our observation, many 
+of the MOFs that have been previously reported to collapse 
+have Cu metal nodes, and as a case study, only those with 
+the Cu paddlewheel type were selected in this work. The 
+structure of this paper is as follow; in the Methods section, 
+we described how the activation data was collected and 
+prepared for the analysis. In the Result and Discussion 
+section, the relationship between the collapse and 
+geometricalmechanical properties are presented.
+
+
+---
+
+Description:
+The sole metal in the framework of certain MOFs considered in the study.
+
+Text:
+Also, we 
+identify collapsed MOFs that are predicted to possess good 
+mechanical properties, and the activation process was 
+attempted with improved approach. Finally, we summarize 
+our findings in the Conclusion section. METHODS 
+MOFs selection. A subset of the ComputationReady 
+Experimental (CoRE) MOFs database (20191101ASR
+public12020)11 that possess the Cu paddlewheels was 
+considered in our work. First, MOFs with Cu as the sole 
+metal in the framework (1466 MOFs) were extracted.

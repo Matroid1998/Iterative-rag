@@ -1,0 +1,26 @@
+Description:
+Chemical shifts are used to elucidate reaction products, metabolites, and natural products, and predict chemical reactivity.
+
+Text:
+35
+NMR Chemical Shifts
+36
+NMR chemical shifts are valuable in the structure elucidation of organic compounds within
+37
+classical and computerassisted frameworks.15 Carbon chemical shifts have been used to
+38
+elucidate reaction products6, metabolites7, and natural products, including in the revision
+39
+of the structures.810 Furthermore, chemical shifts carry information about the local chem
+40
+ical environments of atoms and have been used as descriptors for predicting chemical re
+41
+activity11,12 and in QSARQSPR models13. Prediction of carbon chemical shifts from the
+42
+molecular structure has been extensively studied and many methods have been developed,
+43
+ranging from ab initio to fully datadriven methods.14,15
+44
+Predicting carbon NMR shifts from molecular structures from the first principles is com
+45
+putationally intensive.

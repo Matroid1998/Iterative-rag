@@ -1,0 +1,13 @@
+Description:
+Used in asymmetric enzymatic synthesis followed by substitution in natural product synthesis.
+
+Text:
+Indeed, only few examples exist for the biocatalytic synthesis of thiols and thioethers (Figure 
+1C), most of which start from racemic compounds and employ (dynamic) kinetic resolutions.710 Their 
+synthesis by chemical means, such as metal catalysis, is also challenging due to the poisoning effect of 
+sulfur on many metal catalysts.11 Furthermore, the reactivity of thiols further complicates enantiocontrol 
+due to uncatalyzed background reactivity. While some natural products contain chiral thiols and thioethers, the strategy for their synthesis 
+in nature either relies on the asymmetric enzymatic synthesis of other functional groups (such as 
+epoxides) followed by substitution, or the use of radical enzymes.12 These enzymes are typically very 
+substrate specific, and thus do not appear promising as general biocatalysts in a synthetic organic 
+chemistry context.

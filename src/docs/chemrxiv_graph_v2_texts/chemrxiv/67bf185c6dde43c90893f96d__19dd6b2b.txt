@@ -1,0 +1,31 @@
+Description:
+Acts as a sacrificial proton donor in the lithiummediated nitrogen reduction system.
+
+Text:
+In analogy to lithiumion batteries, a Solid Electro
+lyte Interphase (SEI) layer forms on top of the active surface 
+which consists of the decomposition products of the organic 
+electrolyte3,1012. This SEI layer serves not only as protection 
+from further electrolyte degradation but also regulates the ac
+cess of key reactants (nitrogen, protons, and metal ions) to the 
+active surface10,1321. One key aspect of the lithiummediated 
+nitrogen reduction electrolyte is the proton donor, which has 
+garnered significant attention recently.10,18,2224 The most 
+common electrolyte in the lithiummediated nitrogen reduction 
+system is tetrahydrofuran (THF) based, with a small quantity 
+of ethanol added as a proton donor, although there have been 
+investigations into other solvents25 and proton donors22. Until 
+recently, the conventional wisdom was that ethanol acted as a 
+sacrificial proton donor8,26.
+
+
+---
+
+Description:
+May act as a proton shuttle, delivering protons produced at the anode to the cathode.
+
+Text:
+However, Fu, Pedersen et al. re
+vealed with online mass spectrometry that ethanol may also be 
+acting as a proton shuttle, delivering protons produced at the 
+anode (in this case from hydrogen oxidation) to the cathode27. httpsdoi.org10.26434chemrxiv2025q3fjzv2 ORCID httpsorcid.org0000000180746619 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

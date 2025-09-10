@@ -1,0 +1,30 @@
+Description:
+A mixture important for environmental conservation in post combustion processes.
+
+Text:
+Polymer membranes are a flexible, processable, and inexpensive platform to provide a myriad 
+of separations that fill critical roles in climate change mitigation (carbon capture) and resiliency 
+(water treatment). For gas separations, polymer membranes have been widely used in the 
+separation of mixtures in many industrial processes, including oxygen enrichment1, biogas 
+purification2, and postcombustion carbon capture3. In particular, carbon capture processes are 
+garnering increased attention to reduce emissions to the environment, and membrane technologies 
+offer known advantages such as high energy efficiency and operational simplicity due to flexibility 
+and scalability46. In post combustion, precombustion, and oxycombustion, CO2N2, CO2H2, and 
+O2N2 separations are respectively important for environmental conservation.
+
+
+---
+
+Description:
+A gas mixture relevant for separations in polymer gas-separation membranes.
+
+Text:
+Increasing gas permeability and selectivity in these membranes would allow for 
+more efficient industrial processes by increasing the process throughput, reducing energy costs, 
+and achieving a purer product810. However, there is a wellknown permeabilityselectivity trade
+off for polymer gasseparation membranes7, which is defined by the Robeson upper bound11. Over 
+time, advancements in polymer designs have pushed the Robeson upper bound from 1991 values 
+to updated 2008 values (and most recently 2015 values for O2N2 separations and 2019 values for 
+CO2CH4 and CO2N2 separations12,13) that reflect improved membrane performance. Identifying 
+new materials that break this upper bound has driven and continues to drive materials discovery 
+efforts for membranes1417.

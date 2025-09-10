@@ -1,0 +1,15 @@
+Description:
+A component of the four-letter genetic alphabet in DNA.
+
+Text:
+In every DNAbased organism, genetic information is 
+represented by a fourletter genetic alphabet composed of 
+deoxyadenosine (dA), deoxyguanosine (dG), deoxycytidine 
+(dC), and deoxythymidine (dT)1. The storage and retrieval 
+of this information depend on the formation of two base 
+pairs, (d)AdTU and (d)G(d)C. Synthetic biology2, which 
+emerged over a century ago, aims to create new biological 
+forms with potential applicability towards biomedical and 
+bio engineering fields3. One promising approach to 
+achieving this goal is to expand the amount of information 
+that can be stored and retrieved in a cell4, 5.

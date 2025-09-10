@@ -1,0 +1,16 @@
+Description:
+Involved in phosphorylation processes, with dysregulation linked to diseases such as cancer.
+
+Text:
+Many diseases, including cancers, arise from the 
+dysregulation of tyrosine phosphorylation, and tyrosine phosphatases have been proposed as candidate drug 
+targets for the treatment of these diseases.3 For example, the phosphatase PTP1B has been linked to 
+diabetes and obesity, as it acts as a negative regulator of the insulin receptor signaling pathway by 
+dephosphorylating the insulin receptor and its substrates.4,5 The phosphatase SHP2 has been shown to 
+promote oncogenic signaling downstream of receptor tyrosine kinases.6,7 Both of these enzymes have been 
+the targets of extensive preclinical drug discovery campaigns, and allosteric inhibitors of SHP2 are currently 
+in clinical trials.8,9 Despite their physiological importance, the regulatory mechanisms and biological roles of 
+many PTPs remain poorly defined, in part due to the lack of robust chemical tools to selectively inhibit PTPs 
+or monitor their activity in cells.10 
+Most tyrosine phosphatases have a catalytic cysteine that is directly responsible for substrate 
+dephosphorylation.

@@ -1,0 +1,12 @@
+Description:
+An ion involved in exchange interactions with varying ferromagnetic and antiferromagnetic coupling constants.
+
+Text:
+Given the potential for multiple ( 12) exchange interactions, and numerous g and D values, 
+even greatly simplified models can prove computationally demanding. In general, extracting exchange 
+coupling constants (J) has been achieved using a model which assumes just two interactions (Figure 1), 
+one between the central Ni ion and the Ni ions in the outer ring (Jcr) and one between neighbouring Ni 
+ions around the ring (Jrr). However, there is no agreement regarding the nature and magnitude of these 
+values for those complexes exhibiting competing ferro and antiferromagnetic exchange, despite the 
+presence of similar NiXNi angles. Some reports suggest Jcr is ferromagnetic and Jrr is antiferromagnetic, 
+and others state Jcr is antiferromagnetic and Jrr is ferromagnetic.

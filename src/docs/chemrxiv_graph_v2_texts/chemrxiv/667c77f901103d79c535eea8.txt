@@ -1,0 +1,19 @@
+Description:
+Acts as a dienophile in Diels-Alder reactions.
+
+Text:
+. The DielsAlder (DA) reaction, first elucidated
+in the previous century, stands as a cornerstone
+of organic synthesis. This cycloaddition reaction
+involves the formation of a conjugated diene and
+a dienophile, typically an alkene, culminating in
+a substituted cyclohexene system. DA reactions
+are one of most useful techniques for creating
+carboncarbon bonds.1,2 Furthermore, such reac
+tions were fundamental in the creation of famous
+the WoodwardHoffmann rules,3 a set of principles
+governing the stereochemistry of organic reactions. Of particular note for common DA reactions are
+their capacity to result in either an endo or exo
+isomer during the formation of the transition state. This results in two distinct products. More specifi
+cally, if we consider the reaction between cyclopen
+tadiene and acrylonitrile (see Fig.

@@ -1,0 +1,16 @@
+Description:
+A much used solvent in EME with an extraction window of 2.2 < log P < 6.4.
+
+Text:
+78 
+Developing generic systems primarily concerns the selection of a suitable liquid membrane. For 
+79 
+example, 2nitrophenyl octyl ether (NPOE), a much used solvent in EME, has an extraction window 
+80 
+of 2.2  log P  6.4 for 1  z  2 23. The establishment of generic conditions is also tied to 
+81 
+the operational stability, which mainly concerns the extraction current produced during transfer 
+82 
+of charged species. As such, a low current (50 A 24) minimizes the effects of water electrolysis 
+83 
+httpsdoi.org10.26434chemrxiv2024mftbp ORCID httpsorcid.org0000000216660447 Content not peerreviewed by ChemRxiv. License CC BY 4.0

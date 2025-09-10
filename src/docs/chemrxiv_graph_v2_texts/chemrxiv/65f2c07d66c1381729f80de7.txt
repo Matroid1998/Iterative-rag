@@ -1,0 +1,45 @@
+Description:
+A solvent used in predicting pKa values for CH bonds using computational methods.
+
+Text:
+Grzybowski and coworkers recently addressed this gap by predicting pKa values for CH
+bonds in dimethylsulfoxide (DMSO) using a Graph Convolutional Neural Network (GCNN).3
+Using a mix of experimental and computationally computed pKa data, they achieve a mean
+absolute error (MAE) of 2.1 pKa units. Lee and coworkers also address this problem by
+creating a general machine learning (ML) model using either a neural network or XGBoost. They train on experimental pKa values in 39 solvents from the Internet Bondenergy Data
+bank (iBonD). Hereafter, they can predict the lowest pKa value for a wide range of molecules
+that contain bonds such as NH, OH, CH, SH, PH.
+
+
+---
+
+Description:
+A solvent used in the analysis of nonaqueous pKa values.
+
+Text:
+However, during their analysis, they
+report a scarcity of nonaqueous pKa values and achieve an MAE of 1.5 pKa units for the
+solvent DMSO using XGBoost.4,5 Unfortunately, neither the Grzybowski group nor the Lee
+group has made their models generally available to other users. Inspired by the efforts of the Grzybowski group and Lee group, we have developed pKalcu
+lator; a quantum chemical (QM)based workflow for the automatic computation of CH pKa
+values. The computed CH pKa values are then used to generate training data for an ML
+model using LightGBM.6 The QMbased workflow and the ML model are freely available
+under the MIT license.
+
+
+---
+
+Description:
+A solvent used for measuring experimental pKa values.
+
+Text:
+Methods
+Datasets
+We compile a dataset of 732 experimental pKa values in DMSO from two different sources,
+Bordwell7 and iBonD.4 The Bordwell dataset contains experimental CH pKa values in
+DMSO from 419 molecules. For the iBonD database, we select experimental CH pKa
+values in DMSO for 313 molecules. As the iBonD database only contains an image of
+each molecule, we employ the tool Deep Learning for Chemical Image Recognition software
+(DECIMER v. 2.0), developed by Rajan et al..810 While DECIMER converts molecular
+images into SMILES, manual intervention is required to ensure the SMILES string correctly
+represents the molecule.

@@ -1,0 +1,24 @@
+Name: Silver trifluoromethanesulfonate
+Text:
+Silver trifluoromethanesulfonate, or silver triflate, is the triflate salt of silver. It is used in inorganic and organometallic chemistry to replace halide anions or ligands. Silver is a metallic element with the chemical symbol Ag and atomic number 47. It occurs naturally in its pure, free form, as an alloy with gold and other metals, and in minerals such as argentite and chlorargyrite. (L808, L809, L833)
+Properties:safety: Irritant
+smiles: C(F)(F)(F)S(=O)(=O)[O-].[Ag+]
+formula: CAgF3O3S
+chem_properties: Molecular Weight: 256.94 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 0
+Exact Mass: 255.85712 Da
+Monoisotopic Mass: 255.85712 Da
+Topological Polar Surface Area: 65.6
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 145
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

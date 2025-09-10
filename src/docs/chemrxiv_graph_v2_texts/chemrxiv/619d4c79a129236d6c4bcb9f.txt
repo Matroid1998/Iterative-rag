@@ -1,0 +1,15 @@
+Description:
+An acidic posttranslational modification preferred by SIRT5.
+
+Text:
+As such, SIRT5 has a 
+preference for acidic posttranslational modifications (PTMs) such as eNmalonyllysine (Kmal), eN
+succinyllysine (Ksuc), and eNglutaryllysine (Kglut).2325 
+Sirtuin 5 is one of three sirtuins (SIRT35) that primarily localize to the mitochondria and several mitochondrial 
+proteins are subjected to SIRT5mediated deacylation.2628 For example, SIRT5 rescues the activity of 
+superoxide dismutase 1 (SOD1) by desuccinylation of modified lysine residues to (1) eliminate reactive oxygen 
+species (ROS) generated during oxidative phosphorylation,29 (2) protect mitochondrial autophagy under 
+starvation,30 and (3) reduce macrophageinduced inflammation in vivo.31 Furthermore, SIRT5 has been 
+identified in both the cytosol and nucleus, where it is proposed to desuccinylate modified proteins as well.26 
+With an increasing number of reports implicating SIRT5 in pathogenesis, including as a liability in various 
+cancers,3241 there is a growing need for effective inhibitors that can be applied in living cells.

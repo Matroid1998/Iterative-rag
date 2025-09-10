@@ -1,0 +1,26 @@
+Name: Copper oxide
+Text:
+Paramelaconite is a mineral with formula of Cu1+2Cu2+2O3. The IMA symbol is Pml.
+Copper(II) oxide is an oxide of copper. It occurs naturally as the mineral tenorite. Copper(II) oxide is used as a pigment in ceramics, in the production of rayon, as a dietary supplement, in dry and wet cell batteries, for welding copper alloys, and as a semiconductor. Copper is a chemical element with the symbol Cu and atomic number 29. Copper is an essential elements in plants and animals as it is required for the normal functioning of more than 30 enzymes. It occurs naturally throughout the environment in rocks, soil, water, and air. (L277, L278, L289)
+See also: Cupric Oxide (annotation moved to); Copper fume (as Cu) (annotation moved to).
+Properties:safety: Irritant and Environmental Hazard
+smiles: O=[Cu]
+formula: CuO
+chem_properties: Molecular Weight: 79.55 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 78.924512 Da
+Monoisotopic Mass: 78.924512 Da
+Topological Polar Surface Area: 17.1
+Heavy Atom Count: 2
+Formal Charge: 0
+Complexity: 2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

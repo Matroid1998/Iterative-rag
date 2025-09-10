@@ -1,0 +1,12 @@
+Description:
+An alkali metal ion with low barrier height for penetration through GY1 and barrierless penetration through GY2, indicating potential use in lithium-ion batteries.
+
+Text:
+Furthermore, previous studies have explored the binding and rattling motion 
+(outofplane motion) of alkali metal ions through the triangular pores of GY1 and GY2, 
+noting a low barrier height for the penetration of the Li ion through GY1 and a barrierless 
+penetration through GY2. These findings support the potential use of these GYs as electrode 
+materials in lithiumion batteries.17 However, while these materials offer great potential, 
+conducting ab initio studies on such largescale twodimensional (2D) systems presents 
+significant computational challenges due to the vast number of atoms and interactions involved. Consequently, there is a need to develop methods that can reproduce ab initio quality data at 
+significantly lower computational costs. httpsdoi.org10.26434chemrxiv20246pgl4 ORCID httpsorcid.org0000000316251771 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

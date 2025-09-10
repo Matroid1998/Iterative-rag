@@ -1,0 +1,16 @@
+Description:
+A solvent-exposed amino acid commonly used for site-selective chemical modification.
+
+Text:
+Siteselective chemical modification remains a crucial 
+challenge in the development of proteinbased technol
+ogies and tools. Chemoselective approaches to 
+achieve singlesite labelling typically rely on the intro
+duction of a uniquely reactive amino acid, most com
+monly a solventexposed cysteine or an unnatural re
+active handle via codon reassignment.1,2 Though these 
+methods are powerful, they are limited by the require
+ment for prior genetic engineering of the target protein, 
+and are therefore poorly suited to proteins isolated 
+from natural sources, or of eukaryotic origin where re
+combinant expression may be challenging.

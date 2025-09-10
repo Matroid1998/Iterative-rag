@@ -1,0 +1,18 @@
+Description:
+Chiral ligands used in transition metal complexes to introduce stereochemistry.
+
+Text:
+23 
+Asymmetric Catalysis. The field of asymmetric catalysis has revolutionized organic synthesis in the last 
+24 
+50 years. Catalysts have been developed to introduce stereogenic centers into molecules primarily through 
+25 
+the formation of new CC bonds and reduction of unsaturated bonds (e.g., carbonyls, alkenes). These chiral 
+26 
+catalysts can take many forms, including transition metal complexes, organocatalysts, and biocatalysts 
+27 
+(Figure 1). With transition metal complexes, the reaction is often catalyzed by the metal itself while 
+28 
+stereochemistry is introduced in the form of metal ligands (e.g., chiral phosphines). In organocatalysis and 
+29 
+biocatalysis, small organic molecules and enzymes function as both catalysts and chiral directing groups.

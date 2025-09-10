@@ -1,0 +1,14 @@
+Description:
+A substrate for OCT2, MATE1, and MATE2K transporters.
+
+Text:
+For example, 
+renal clearance of metformin, which is a substrate for OCT2, MATE1, and MATE2K, was 
+decreased in the coadministration of cimetidine and pyrimethamine, which are inhibitors of those 
+transporters3,4. Regarding the mechanism of the clinical DDI between cimetidine and metformin, 
+it has been hypothesized mechanistically that MATE1 and MATE2K play major roles for DDIs 
+in the kidney because of the lower Ki values for MATE1 and MATE2K than OCT25. This was 
+also supported by PBPK modeling6. MATE1 that is significantly more highly expressed than 
+MATE2K, is considered to have the similar potency of transportability with MATE2K, and we 
+have limited information of specific substrates in MATE2K, suggesting that MATE1 plays a 
+major role in the renal DDI of drugs7,8,9.

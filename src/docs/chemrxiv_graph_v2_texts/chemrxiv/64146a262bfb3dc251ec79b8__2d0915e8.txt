@@ -1,0 +1,13 @@
+Description:
+A material where light absorption and charge separation occur in the same material.
+
+Text:
+This working principle differs from conventional photoelectrodes, based on e.g. Fe2O3 or Cu2O, where light absorption and charge separation take place in the same material12
+13 In this case, the external potential (positive bias for ntype and negative bias for ptype 
+semiconductors) facilitates lightinduced charge separation and retards charge recombination 
+in the semiconductor by introducing more band bending,14 leading to a higher photocurrent at 
+more positive (photoanode) 15 or more negative potential (photocathode) 16. However, whether 
+an applied potential has the same effect on DSPEC cells with their configuration based on light
+induced charge separation at the dyesemiconductor interface rather than inside the 
+semiconductor is unknown, although some dyesensitized photocathodes show surprisingly low 
+photocurrents at more negative bias potentials.

@@ -1,0 +1,44 @@
+Description:
+Vibrational probes whose VSE facilitates the measurement of the electric field projected along the CN bond axis.
+
+Text:
+Vibrational Stark effect (VSE) spectroscopy 
+interprets changes in the absorption of molecular vibrations 
+through the inluence of the local environmental electric 
+ield4 and therefore provides a direct comparison with the 
+output of simulations. Nitriles (CN) are popular 
+vibrational 
+probes1822 
+whose 
+VSE 
+facilitates 
+the 
+measurement of the electric ield projected along the CN 
+bond axis, FCN,23 and, as such, enables the quantiication of 
+the strength of noncovalent interactions using an 
+electrostatic scale.
+
+
+---
+
+Description:
+Frequencies can be evaluated within the framework of the VSE in aprotic environments.
+
+Text:
+Previous work demonstrated that nitrile 
+frequencies of small molecules observed in aprotic 
+solvation environments have a linear correlation with 
+nitrile electric ields obtained from ixedcharge (FC) and 
+polarizable (POL) MD simulations (called FCN,FC MD and 
+FCN,POL MD, respectively).4,24 This indicates that nitrile 
+frequencies in aprotic environments can be evaluated 
+within the framework of the VSE, and electric ield
+frequency calibrations enable the extraction of an electric 
+ield when a frequency is measured in a new environment, 
+herein termed FCN,FC FREQ or FCN,POL FREQ depending on the FF 
+used for calibration. Many studies attempted to extract 
+FCN,FREQs for nitriles in protic solvents25,26 and more 
+complex Hbonding environments in proteins (where 
+nitriles were introduced via ligands and noncanonical or 
+modiied amino acids)18,2730 for direct comparisons with 
+FCN,MDs in these environments.

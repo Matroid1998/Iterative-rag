@@ -1,0 +1,13 @@
+Description:
+Reactive intermediates containing an electrophilic site used as 1,6-Michael acceptors.
+
+Text:
+paraQuinone methides (pQMs) are a variety of compounds that have been 
+extensively studied in the organic synthesis field over the past few years.1 They can be 
+characterized as reactive intermediates containing an electrophilic site.2 Therefore, there 
+is recent development of nucleophilic additions to pQMs as 1,6Michael acceptors using 
+different types of catalysts.3 Some Lewis acids can be used as catalysts in these reactions 
+since they coordinate with the carbonyl group of the pQMs, rendering the olefin more 
+electrophilic and thus more prone to 1,6nucleophilic conjugate addition.4 To the best of 
+our knowledge, the reaction between paraquinone methides and indolizines have not 
+been extensively studied. Indolizines are a class of heteroaromatic compounds isomeric to the indole motif.

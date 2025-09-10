@@ -1,0 +1,31 @@
+Name: Zanamivir
+Text:
+Zanamivir is a member of guanidines. It has a role as an EC 3.2.1.18 (exo-alpha-sialidase) inhibitor and an antiviral agent.
+A guanido-neuraminic acid that is used to inhibit neuraminidase.
+Zanamivir is a Neuraminidase Inhibitor. The mechanism of action of zanamivir is as a Neuraminidase Inhibitor.
+Zanamivir is an inhibitor of the influenza neuraminidase enzyme and is given by inhalation as therapy and prophylaxis against influenza A and B. Zanamivir has not been associated with clinically apparent liver injury, at least when given by inhalation.
+Zanamivir is a sialic acid-analogue neuraminidase inhibitor with antiviral activity. Administered into the respiratory tract by aerosol inhalation, zanamivir selectively binds to and inhibits influenza A and B virus neuraminidase-mediated cleavage of sialic acid residues in host cell membrane-bound glycoprotein receptors for influenza viruses, preventing the release of progeny viruses from host cell surfaces and, so, further viral replication.
+ZANAMIVIR is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1999 and is indicated for viral disease and influenza and has 3 investigational indications.
+A guanido-neuraminic acid that is used to inhibit NEURAMINIDASE.
+Properties:safety: Irritant
+smiles: CC(=O)N[C@@H]1[C@H](C=C(O[C@H]1[C@@H]([C@@H](CO)O)O)C(=O)O)N=C(N)N
+formula: C12H20N4O7
+chem_properties: Molecular Weight: 332.31 g/mol
+XLogP3: -3.2
+Hydrogen Bond Donor Count: 7
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 6
+Exact Mass: 332.13319899 Da
+Monoisotopic Mass: 332.13319899 Da
+Topological Polar Surface Area: 201
+Heavy Atom Count: 23
+Formal Charge: 0
+Complexity: 518
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 5
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

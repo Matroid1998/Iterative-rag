@@ -1,0 +1,15 @@
+Description:
+A p-type material with relatively high thermoelectric performance.
+
+Text:
+It would be ideal to use the same material
+as the p and ntype legs to avoid device failure due to different
+coefficients of thermal expansion and other issues. While ptype
+BiCuSeO exhibits relatively high TE performance, it is challenging
+to obtain ntype BiCuSeO.9 Attempts to dope BiCuSeO ntype with
+halogens,1012 and transition metals,8,13 have resulted in either
+low power factors andor anomalous pnp transitions in the con
+ductivity type with T. Therefore, an alternative ntype material is
+needed to pair with ptype BiCuSeO in a TE device. Bi2SeO2 has emerged as a potential ntype material to pair with
+ptype BiCuSeO in TE devices. The crystal structure of Bi2SeO2
+can be thought of as BiCuSeOderived with missing Cu.

@@ -1,0 +1,14 @@
+Description:
+A polymer used in blends for applications requiring biocompatibility and biodegradability.
+
+Text:
+The presence of such distinct phases in the polymer allows it to 
+be fixed into a temporary shape by deformation (governed by netpoints or hard segments) 
+below the transition temperature, followed by recovery into original shape (influenced by 
+molecular switches or soft segments) upon heating it above the transition temperature. Owing 
+to this intrinsic property of temperatureassisted shape recovery, SMPs have been explored for 
+various potential applications, such as soft robotics5, grippers6, selfdeployable structures in 
+space applications7, and biomedical applications8. In the field of biomedicine, it is also essential that the SMP being used is biocompatible and 
+preferably biodegradable. There exists only a handful of polymer candidates meeting these 
+stringent requirements, such as polylactic acid9 (PLA), polyurethanes10 (PUs), their blends, 
+epoxybased thermosets11, etc.

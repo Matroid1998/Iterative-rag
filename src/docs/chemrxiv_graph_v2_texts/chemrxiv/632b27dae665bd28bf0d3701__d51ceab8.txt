@@ -1,0 +1,61 @@
+Description:
+Incorporates high hydride ion concentrations up to y = 0.6 and demonstrates high electric and hydride ion conductivity.
+
+Text:
+The favorable electron and hydride ion
+transport properties together with the low mass of hydride ions
+and high electrode potential of the H2Hredox couple (2.3 V)
+make these materials particularly attractive for developing energy
+storage devices with high energy density.79 Since the synthesis
+of the rst oxyhydride10 several tens of new structures have been
+prepared and characterized.11 Among these the most extensively
+investigated which exhibit some of the most interesting chemi
+cophysical properties are the perovskitestructured ATiO3xHy (A
+ Ca, Sr, Ba) materials.4,12,13 BaTiO3xHy has been shown to
+incorporate high hydride ion concentrations up to y  0.6, more
+over, and has demonstrated high electric and hydride ion conduc
+tivity.4 Complete understanding of the electron and hydride ion
+transport mechanisms and their relation to the oxyhydride com
+position is crucial for rational design of materials with specically
+tailored characteristics.
+
+
+---
+
+Description:
+Exhibits metallic conductivity with high hydride concentrations and semiconducting behavior with lower hydride compositions.
+
+Text:
+Recently, conductivity measurements on epitaxial thin lms re
+vealed that BaTiO3xHy has metallic conductivity with high hy
+dride concentrations (y  0.2), while it is semiconducting with
+lower hydride compositions (y  0.2).20 Liu et al. proposed that
+the semiconductorlike behaviour is a result of electron polaron
+formation.15 Polarons are quasiparticles composed of a localized
+charge carrier within a potential energy well that is selfgenerated
+by distorting the local lattice.21 In BaTiO3xHy the substitution
+of oxygen with hydrogen introduces an electron in the Ti 3d
+band which can potentially localize and form an electron po
+laron.
+
+
+---
+
+Description:
+An oxyhydride studied for its hydride local environment and dynamics using 2H solid-state NMR.
+
+Text:
+Thermally activated polarons can hop to neighboring Ti
+ions and would display semiconductorlike conductivity in the
+bulk phase.22 However, a more recent study using INS and den
+sity functional theory (DFT) calculations showed that the extra
+electron is more likely to delocalize among all Ti 3dbands gener
+ating a bandstate with metallic electrical conductivity.23 Several
+investigations on the oxyhydride with solidstate nuclear mag
+netic resonance (NMR) have also proposed that the electronic
+structure is more likely a bandstate.2426 In contrast to other re
+ports Misaki and coworkers25 suggested that the hydride site is
+occupied by two hydrogens. Here we report a comprehensive study of hydride local en
+vironment and dynamics by employing 2H solidstate NMR on
+three distinctly prepared BaTiO3xHy oxyhydrides with different
+hydride compositions.

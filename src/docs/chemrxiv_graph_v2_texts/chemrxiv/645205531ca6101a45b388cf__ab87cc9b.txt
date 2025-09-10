@@ -1,0 +1,16 @@
+Description:
+Incorporate metaloxo centers active for continuous methane oxidation using N2O and H2O.
+
+Text:
+Also, the secondary interactions23,24 and 
+geometric effects of the host system (sometimes called secondsphere effects) can be exploited 
+to control reaction mechanisms in nanoporous materials as recently shown by Snyder et al.25 The 
+mobility of the CH3 radical involved in many mechanisms for methane activation proved to be a 
+key factor in the activity of zeolites incorporating metaloxo centers, which have already been 
+shown to be active for continuous methane oxidation using N2O and H2O.26 
+In MOFs, ironoxo centers (FeO) have been successfully incorporated into the Fe2(dobdc) family 
+(FeMOF74, dobdc42,5dioxido1,4benzenedicarboxylate) and have been shown to be 
+catalytically active towards CH bond cleavage in experiment and theory.27,28 For the case of 
+ethane to ethanol conversion, this MOF exhibited a high selectivity due to the strong binding of 
+the product to the open metal sites, resulting, however, in a low yield27,29 in both flowthrough and 
+batch operation modes as the reactive sites become blocked by the strongly bound product.

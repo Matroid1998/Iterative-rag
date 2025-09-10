@@ -1,0 +1,13 @@
+Description:
+Forms lamellar phases driven by the crystallization of long alkyl segments.
+
+Text:
+For example, Winey and coworkers have 
+suggested that decoupled ion transport occurs in SICs derived from carboxylate or sulfonateterminated 
+alkanes that form lamellar and hexagonal phases (Figure 1A, 1 and 2), respectively, driven by the 
+crystallization of their long alkyl segments.15,16 Sidechainfunctionalized polymers with percolated ionic 
+aggregates (3),17 mesogenic sidechains that promoted nanoscale ordering (4),18 or precisely placed 
+dissociative ions (5)19 have also been proposed to leverage decoupled ion conduction.17,19,20 Nevertheless, 
+the ion conductivities in the dry state for these materials are either much lower than traditional SPEs or 
+not reported; new design strategies are needed to facilitate cation mobility in crystalline, polyanionbased 
+materials.

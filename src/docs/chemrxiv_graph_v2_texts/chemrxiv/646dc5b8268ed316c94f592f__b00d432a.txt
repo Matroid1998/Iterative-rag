@@ -1,0 +1,15 @@
+Description:
+A perovskite oxide ferroelectric that is not CMOS compatible and shows a critical thickness limit below which ferroelectricity disappears.
+
+Text:
+Ferroelectric (FE) memory devices including FE tun
+nel junctions (FTJs) and FE fieldeffect transistors (Fe
+FET) are identified as exciting platforms to realize brain
+inspired and lowpower neuromorphic computing13. Developing new FEs that are compatible with com
+plementary metal oxide semiconductor (CMOS) pro
+cess, has been a longlasting ambition, both techno
+logically and scientifically. Unfortunately, the well
+known perovskite oxide FEs such as PbZrTiO3 (PZT)
+are not CMOS compatible and generally show a crit
+ical thickness limit below which ferroelectricity disap
+pears due to the unscreened depolarization field4.

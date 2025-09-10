@@ -1,0 +1,34 @@
+Description:
+An archetypical photochromic molecular switch known for its efficient EZ and ZE photoisomerization.
+
+Text:
+Lightdriven molecular switches are promising candidates for applications such as optical data storage 
+and photopharmacology1,2. An archetypical representative of photochromic molecular switches is 
+azobenzene (AB) due to its outstanding photophysical properties, enabling an efficient EZ and ZE 
+photoisomerization3. Rau and coworkers already demonstrated for sterically hindered ABs in the late 
+1980s that the EZ and ZE photoisomerization quantum yields approach each other when the size 
+of the substituents is increased4. These early results, albeit not involving timeresolved experiments, 
+can be indicative of faster photoisomerization of twisted Eisomers. In 2014 Fuchter and coworkers presented arylazopyrazoles (AAPs) as a new class of photoswitchable 
+azocompounds that overcome certain limitations of AB derivatives, particularly limited ZE 
+backswitching performance and Zisomer thermal stability57.
+
+
+---
+
+Description:
+A compound with reduced Eisomer photoisomerization quantum yields compared to the Zisomer due to slower EZ than ZE switching dynamics.
+
+Text:
+concludes that these AAPs should retain the lifetimes, 
+excitation energies, conical intersections, and barrierless S1 potential energy surface of ABs.8 On the 
+other hand, this similarity suggests that AAPs inherit an imperfection in the dynamics of typical ABs 
+their Eisomer photoisomerization quantum yields are reduced in comparison to those of the Zisomer 
+due to slower EZ than ZE switching dynamics.9,10 The groups of Herges and Temps found a solution 
+for this problem dihydrodibenzodiazocine, a bridged azobenzene with significantly improved EZ 
+quantum yields (50  instead of 24 for AB) due to the twisted preorientation of the Eisomer.11 The 
+sensitivity of lifetimes in the photoexcited state to preorientation was hypothesized to originate from 
+an initial stabilizing force that acts against the twisting force of the azo antibonding state.1215 
+For an EAAP with two methyl groups in orthoposition of the phenyl ring, the DFT calculations by 
+Bckmann and Doltsinis revealed a twisted groundstate geometry; note that in this case, the 
+molecular twist is caused by sterical hindrance in contrast to the bridged AB which, in addition to the 
+connecting azo moiety, requires an additional covalent CC linkage between the two rings.

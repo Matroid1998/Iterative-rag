@@ -1,0 +1,31 @@
+Name: Ethylenediamine
+Text:
+Ethylenediamine appears as a clear colorless liquid with an ammonia-like odor. Flash point of 91 °F and a melting point of 47 °F. Corrosive to tissue. Vapors are heavier than air. Produces toxic oxides of nitrogen during combustion. Density 7.5 lb / gal. Used to make other chemicals and as a fungicide.
+Ethylenediamine is an alkane-alpha,omega-diamine in which the alkane is ethane. It has a role as a GABA agonist. It derives from a hydride of an ethane.
+Ethylenediamine is an organic compound that is used as a building block for the production of many other chemical products. It is also used as an excipient in many pharmacological preparations such as creams. Notably, ethylenediamine is a contact sensitizer capable of producing local and generalized reactions. Sensitivity to ethylenediamine may be identified with a clinical patch test.
+Ethylenediamine is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Ethylenediamine is a Standardized Chemical Allergen. The physiologic effect of ethylenediamine is by means of Increased Histamine Release, and Cell-mediated Immunity.
+ETHYLENEDIAMINE is a small molecule drug with a maximum clinical trial phase of III (across all indications) and has 2 investigational indications.
+See also: Polyamide-8 (4500 MW) (monomer of); Polyamide-3 (12000 MW) (monomer of); Polyamide-3 (20000 MW) (monomer of) ... View More ...
+Properties:safety: Flammable and Corrosive and Irritant and Health Hazard
+smiles: C(CN)N
+formula: C2H8N2
+chem_properties: Molecular Weight: 60.10 g/mol
+XLogP3: -2
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 60.068748264 Da
+Monoisotopic Mass: 60.068748264 Da
+Topological Polar Surface Area: 52
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

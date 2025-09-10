@@ -1,0 +1,26 @@
+Name: 3-Amino-1,2-benzenediol
+Text:
+Catecholamine is a group of sympathetic amines containing a catechol group derived from the amino acid tyrosine. Catecholamines are hormones and neuromodulators synthesized in the chromaffin cells of the adrenal glands and the postganglionic fibers of the sympathetic nervous system in response to stress. Examples of catecholamines are epinephrine (adrenaline), norepinephrine (noradrenaline) and dopamine, all of which participate in a wide variety of functions throughout the body.
+A general class of ortho-dihydroxyphenylalkylamines derived from tyrosine.
+Properties:safety: Irritant
+smiles: C1=CC(=C(C(=C1)O)O)N
+formula: C6H7NO2
+chem_properties: Molecular Weight: 125.13 g/mol
+XLogP3: 0.5
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 125.047678466 Da
+Monoisotopic Mass: 125.047678466 Da
+Topological Polar Surface Area: 66.5
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 97.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,39 @@
+Description:
+Known for its long electron decoherence times in qubits.
+
+Text:
+Studies of silicon qubits are developing into a major re
+search focus 14, due to their inherent long electron de
+coherence times. However, the presence of the additional
+valley degree of freedom (VDOF) introduces a higher de
+gree of complexity (compared to cases where the VDOF
+is absent, e.g., GaAs nanodevices 57) which has not
+as yet been satisfactorily deciphered, experimentally or
+theoretically. Indeed, a number of publications consider
+it as a challenge to be overcome or to do away with (see,
+e.g., Refs. 1, 810), whereas a second group of publica
+tions (see, e.g., Refs. 1115) considers it as a potential
+resource to be further explored. Experimental eorts in
+both directions are intensely pursued, but a de nitive
+resolution has not been reached as yet.
+
+
+---
+
+Description:
+Used in nanodevices where strong electron-electron interactions occur due to material parameters and size effects.
+
+Text:
+The current state of understanding of the VDOF com
+plexity in solidstate qubits is further compounded by
+the recent realization that the energy gaps in the rel
+evant excitation spectra (with the potential to be in
+volved in the operation of the qubit) depend crucially
+on Wignermolecule (WM) 6, 1627 formation and the
+strong electronelectron interactions that naturally arise
+Constantine.Yannouleasphysics.gatech.edu
+ Uzi.Landmanphysics.gatech.edu
+in these silicon nanodevices 14, 2831 (also found in
+GaAs 3e hybrid qubits 7, 32, 33), due to an interplay
+between materials parameters and size that yields large
+values for the Wigner parameter RW  1; see Sec. III A.

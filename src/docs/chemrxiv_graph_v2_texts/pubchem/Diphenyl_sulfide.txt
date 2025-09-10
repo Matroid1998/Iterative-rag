@@ -1,0 +1,25 @@
+Name: Diphenyl sulfide
+Text:
+Diphenyl sulfide is an aryl sulfide that consists of two phenyl groups connected by a sulphur atom.
+Properties:safety: Irritant and Environmental Hazard
+smiles: C1=CC=C(C=C1)SC2=CC=CC=C2
+formula: C12H10S
+chem_properties: Molecular Weight: 186.27 g/mol
+XLogP3: 4.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 2
+Exact Mass: 186.05032149 Da
+Monoisotopic Mass: 186.05032149 Da
+Topological Polar Surface Area: 25.3
+Heavy Atom Count: 13
+Formal Charge: 0
+Complexity: 116
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

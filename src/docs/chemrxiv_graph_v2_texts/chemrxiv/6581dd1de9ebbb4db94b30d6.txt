@@ -1,0 +1,12 @@
+Description:
+Used in emerging technologies like carbon capture using liquid solvents.
+
+Text:
+Foams consist of numerous small bubbles formed in a liquid. If these bubbles rise and accumulate faster 
+than they decay, foaming occurs.1,2 This phenomenon is crucial across various industries, from food and 
+bioprocesses1,3 to gas sweetening facilities,4,5 oil refineries,6 and metallurgy.7,8 The selection of materials and 
+processes associated with foaming often poses a dilemma. While materials and processes inducing foaming offer 
+a larger surface area for reactions or absorption, excessive foaming can lead to issues like liquid knockouts, reduced 
+efficiency, and increased capital costs.912 Foaming frequently proves challenging during both the initial conception 
+stage and the subsequent scaleup of emerging technologies like carbon capture using liquid solvents.2,1316 Thus, 
+managing foaming and identifying essential parameters for foam formation are vital.

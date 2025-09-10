@@ -1,0 +1,9 @@
+Description:
+A form of diorganostannanes involved in transition metal catalyzed dehydropolymerization.
+
+Text:
+Polystannanes are main group polymers with a conjugated backbone of tin atoms prepared from the reductive coupling 
+of dihalido or dihydrido diorganostannane monomers.1,2 Sodium (Wurtz)35 or electrochemical coupling6,7 of X2SnRR 
+leads directly to the desired materials, while conversion of such materials to diorganostannanes, H2SnRR followed by 
+transition metal catalyzed dehydropolymerization810 affords the target polystannanes. Key to both approaches is 
+access to both homo and heterodiorganostannanes.

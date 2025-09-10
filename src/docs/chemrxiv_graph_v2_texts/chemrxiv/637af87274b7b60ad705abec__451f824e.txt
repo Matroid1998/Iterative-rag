@@ -1,0 +1,24 @@
+Description:
+Used as an anode in lithium-sulfur batteries.
+
+Text:
+LithiumSulfur (LiS) batteries, with sulfur as cathode and Li metal as an anode, with a theoretical capacity 
+of 1667 mAhg, will satisfy the demand from the aviation industry and accelerate the commercialization of battery
+based aircraft 5. Besides its energy density, rate performance for batterybased aircraft also plays an important role 
+as good rate performance of LiS batteries will accelerate its wide adoption within batterybased aircraft. However, 
+the community recognizes that operating temperature plays an important role for LIBs and LiS batteries 6. Moreover, 
+Previous studies revealed significant heating effects of LIBs under higher charging rates and higher operating 
+temperatures would deteriorate the solid electrolyte interphase (SEI) interphase formed on the anode and shorten the 
+cycle life.
+
+
+---
+
+Description:
+A metal used as an anode in LiS batteries.
+
+Text:
+As SEI formed on Li metal anode also plays an important role within LiS batteries, it is necessary to probe 
+the heating effects of enhanced charging rates on LiS batteries. Besides, high operating temperature for LIBs and Li
+S batteries will cause safety concerns thermal runaway for LIBs and possible burnup for LiS batteries. Plenty of simulation studies have been widely implemented by researchers for LIBs ranging from the 
+cylindrical cell and pouch cells to the battery pack. Chunrong Zhao et al. probed the heat generation and cooling under

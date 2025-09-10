@@ -1,0 +1,30 @@
+Description:
+A promising element for sustainable production through photocatalytic hydrogen evolution.
+
+Text:
+Photocatalytic hydrogen evolution (HER) has garnered significant attention in recent years as a 
+promising method for sustainable hydrogen production. Among the various strategies employed, 
+singleatom photocatalysis stands out as an innovative approach 1. In singleatom photocatalysis, 
+metal atoms are isolated and anchored on a support material, allowing for the maximum exposure 
+of active sites 2. This unique configuration facilitates highly efficient light absorption and 
+electron transfer, making singleatom photocatalysts (SACs) particularly valuable in the HER 
+process. Their ability to function effectively under ambient conditions, coupled with the possibility 
+of tuning their electronic properties through careful material design, has positioned SACs as a 
+critical component in advancing hydrogen production technologies 3.
+
+
+---
+
+Description:
+Produced through optimized charge carrier dynamics in organic materials.
+
+Text:
+The charge 
+carrier dynamics, such as efficient charge separation and transfer, are optimized through the careful 
+design of organic materials, allowing for better hydrogen production rates 10. Furthermore, 
+heteroatom doping, such as introducing nitrogen or sulfur into the organic structure, has been 
+shown to significantly improve the electronic properties and the stability of the photocatalysts, 
+enabling longterm hydrogen evolution without significant degradation 11. Despite their promising properties, organic photocatalysts face several challenges that hinder their 
+efficiency in HER 1215. One major issue is the low stability of many organic materials under 
+harsh photocatalytic conditions, particularly in aqueous environments 16. These materials are 
+susceptible to photocorrosion, which can reduce their lifetime and effectiveness over time.

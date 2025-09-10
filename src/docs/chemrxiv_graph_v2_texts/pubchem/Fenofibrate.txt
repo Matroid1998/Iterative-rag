@@ -1,0 +1,33 @@
+Name: Fenofibrate
+Text:
+Fenofibrate is a chlorobenzophenone that is (4-chlorophenyl)(phenyl)methanone substituted by a [2-methyl-1-oxo-1-(propan-2-yloxy)propan-2-yl]oxy group at position 1 on the phenyl ring. It has a role as an antilipemic drug, an environmental contaminant, a xenobiotic and a geroprotector. It is a chlorobenzophenone, a member of monochlorobenzenes, an aromatic ether and an isopropyl ester. It is functionally related to a benzophenone.
+Fenofibrate is a fibric acid derivative like [clofibrate] and [gemfibrozil]. Fenofibrate is used to treat primary hypercholesterolemia, mixed dyslipidemia, severe hypertriglyceridemia.  Fenofibrate was granted FDA approval on 31 December 1993.
+Fenofibrate is a Peroxisome Proliferator Receptor alpha Agonist. The mechanism of action of fenofibrate is as a Peroxisome Proliferator-activated Receptor alpha Agonist.
+Fenofibrate is a fibric acid derivative used in the therapy of hypertriglyceridemia and dyslipidemia. Fenofibrate therapy is associated with mild and transient serum aminotransferase elevations and with rare instances of acute liver injury, which can be severe and prolonged and lead to significant hepatic fibrosis.
+Fenofibrate is a synthetic phenoxy-isobutyric acid derivate and prodrug with antihyperlipidemic activity. Fenofibrate is hydrolyzed in vivo to its active metabolite fenofibric acid that binds to and activates peroxisome proliferator activated receptor alpha (PPARalpha), resulting in the activation of lipoprotein lipase and reduction of the production of apoprotein C-III, an inhibitor of lipoprotein lipase activity. Increased lipolysis and a fall in plasma triglycerides, in turn, leads to the modification of the small, dense low density lipoporotein (LDL) particles into larger particles that are catabolized more rapidly due to a greater affinity for cholesterol receptors. In addition, activation of PPARalpha also increases the synthesis of apoproteins A-I, A-II, and high density lipoprotein (HDL)-cholesterol. Overall, fenofibrate reduces total cholesterol, LDL cholesterol, apolipoprotein B, total triglycerides and triglyceride rich lipoprotein (VLDL) while increasing HDL cholesterol.
+FENOFIBRATE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1993 and has 6 approved and 24 investigational indications.
+An antilipemic agent which reduces both cholesterol and triglycerides in the blood. 
+An antilipemic agent which reduces both CHOLESTEROL and TRIGLYCERIDES in the blood.
+See also: Fenofibric Acid (has active moiety).
+Properties:safety: Health Hazard
+smiles: CC(C)OC(=O)C(C)(C)OC1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)Cl
+formula: C20H21ClO4
+chem_properties: Molecular Weight: 360.8 g/mol
+XLogP3: 5.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 7
+Exact Mass: 360.1128368 Da
+Monoisotopic Mass: 360.1128368 Da
+Topological Polar Surface Area: 52.6
+Heavy Atom Count: 25
+Formal Charge: 0
+Complexity: 458
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

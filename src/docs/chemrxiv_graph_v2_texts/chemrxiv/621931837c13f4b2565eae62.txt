@@ -1,0 +1,13 @@
+Description:
+Electron-poor alkenes are activated by a nucleophilic catalyst in the Morita-Baylis-Hillman reaction.
+
+Text:
+MoritaBaylisHillman (MBH) reaction is one of the most prominent carboncarbon bondforming processes in synthetic or
+ganic chemistry with enormous synthetic utility, promise, and potential.1 The reaction constitutes a very handy means for 
+converting simple starting materials into densely functionalized products under mild, metalfree reaction conditions. The func
+tional grouprich MBH adducts can serve as useful synthons for various transformations further increasing the molecular com
+plexity.2 
+
+Scheme 1. MoritaBaylisHillman reaction and concept to expand 
+its scope by using Nactivated pyridines as electrophiles. In the classic MBH reaction, electronpoor alkenes are activated by a nucleophilic catalyst and coupled with aldehydes 
+or, in the case of azaMBH version, imines (Scheme 1a).

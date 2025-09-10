@@ -1,0 +1,19 @@
+Description:
+The most utilized and thoroughly investigated cathode active material in Li-ion and solid-state batteries.
+
+Text:
+Liion batteries pose an integral part of todays energy economics but are expected to 
+run into limitations of achievable energy density in the future, motivating the 
+investigation of different technologies, e.g., solidstate batteries.1,2 In both, 
+conventional Liion and solidstate batteries, the layered oxides LiNi1xMnyCo1xyO2 
+(NCM) are the most utilized and thoroughly investigated cathode active material.3 
+Nonetheless, among other things, the relative scarcity of Co and Mn, and resulting 
+material costs make the search for alternatives a promising endeavour.46 The cathode 
+active material Li2FeS2 offers a costeffective alternative given the large abundance of 
+both iron and sulfur,4 comparable to the promised benefits of other alternative 
+chemistries such as LiFePO4 (LFP) and LiS.7,8 At the same time, moving from NCM 
+to Li2FeS2 means higher mechanical compatibility, and moving from high to low
+potential electrodes promises better alignment with the stability window of the stateof
+theart sulfurbased solidelectrolytes.9 
+In addition to these benefits, Li2FeS2 on paper offers a two electron reaction following 
+full delithiation from Li2FeS2 to FeS2.

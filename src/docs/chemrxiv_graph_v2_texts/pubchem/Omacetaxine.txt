@@ -1,0 +1,30 @@
+Name: Omacetaxine
+Text:
+Cephalotaxine is a benzazepine alkaloid isolated from Cephalotaxus harringtonia. It is a benzazepine alkaloid, a benzazepine alkaloid fundamental parent, an organic heteropentacyclic compound, an enol ether, a cyclic acetal, a secondary alcohol and a tertiary amino compound.
+Omacetaxine is a semisynthetic cephataxine that acts as a protein translation inhibitor and is used to treated chronic myeloid leukemia that is resistant to tyrosine kinase receptor antagonists. Omacetaxine is associated with a low rate of serum enzyme elevation during therapy, but has not been linked to cases of clinically apparent liver injury with jaundice.
+Cephalotaxine has been reported in Cephalotaxus fortunei, Cephalotaxus hainanensis, and other organisms with data available.
+Omacetaxine is a protein translation inhibitor and cytotoxic plant alkaloid homoharringtonine isolated from the evergreen tree Cephalotaxus, with potential antineoplastic activity. Although the exact mechanism of action has not been fully elucidated, upon administration, omacetaxine targets and binds to the 80S ribosome in eukaryotic cells and inhibits protein synthesis by interfering with chain elongation. This reduces levels of certain oncoproteins and anti-apoptotic proteins.
+Semisynthetic derivative of harringtonine that acts as a protein synthesis inhibitor and induces APOPTOSIS in tumor cells. It is used in the treatment of MYELOID LEUKEMIA, CHRONIC.
+See also: Omacetaxine Mepesuccinate (active moiety of).
+Properties:safety: Irritant
+smiles: COC1=C[C@]23CCCN2CCC4=CC5=C(C=C4[C@@H]3[C@@H]1O)OCO5
+formula: C18H21NO4
+chem_properties: Molecular Weight: 315.4 g/mol
+XLogP3: 0.2
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 1
+Exact Mass: 315.14705815 Da
+Monoisotopic Mass: 315.14705815 Da
+Topological Polar Surface Area: 51.2
+Heavy Atom Count: 23
+Formal Charge: 0
+Complexity: 523
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 3
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

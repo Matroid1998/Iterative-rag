@@ -1,0 +1,11 @@
+Description:
+A low value product in the oxygen evolution reaction (OER) at the anode during electrolysis.
+
+Text:
+Hydrogen is a key reactant in many chemical processes (e.g., ammonia synthesis, 
+hydrogenation reactions, FischerTropsch, etc. ), and it can also be used as a green fuel.1 
+Water electrolysis powered by renewable electricity can produce hydrogen via the hydrogen 
+evolution reaction (HER) at the cathode. Although promising, electrolysis technology is not 
+developed enough to compete with the cost of fossil fuelderived hydrogen. Electrolysis is 
+thermodynamically and kinetically limited by the oxygen evolution reaction (OER) at the 
+anode, incurring high electricity costs that cannot be offset by oxygen, a low value product.

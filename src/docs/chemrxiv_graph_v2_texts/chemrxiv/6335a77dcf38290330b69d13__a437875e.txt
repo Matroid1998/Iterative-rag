@@ -1,0 +1,60 @@
+Description:
+Components of proteins with XH bond dissociation energies important for predicting hydrogen atom abstractions.
+
+Text:
+The radical chemistry of proteins is of fundamental importance
+in biochemistry. Radicals are involved in many enzymatic reac
+tions. Also, oxidative damage to proteins is generally initiated
+by radicals. For both, knowledge of reliable XH bond dissoci
+ation energies (BDEs, X  C, N, O, S) for amino acids in pro
+teins is important. XH BDEs allow to predict which hydrogen
+atom abstractions will be thermodynamically possible, and which
+lesion sites can be repaired by cellular antioxidants. Preferred
+sites of radical attack and hydrogen atom abstraction are those
+associated with the lowest energy barriers, and, according to the
+BellEvansPolanyi principle,1,2 these reactions are typically the
+most exothermic.
+
+
+---
+
+Description:
+Previously computed XH bond dissociation energies (BDEs) in proteins using the isodesmic reaction method.
+
+Text:
+compound Y, and use it together with BDE(YH)exp to obtain
+the BDE of the bond of interest, BDE(XH)
+XHY X YH
+(2)
+HDFT  H(YH)H(X)H(XH)H(Y)
+ BDE(XH)BDE(YH)
+(3)
+BDE(XH)isod  HDFT BDE(YH)exp
+(4)
+The isodesmic reaction method is expected to give more
+accurate BDEs than if they were computed directly because
+systematic errors of the chosen functional should compensate
+to some extent if the reference compound is chosen to be
+electronically similar. Previously, XH BDEs for amino acids in proteins have been
+computed by Moore et al.5 using the isodesmic reaction method
+at the B3LYP631G(d) level of theory. This study was an impor
+tant step forward, as it was the first detailed catalogue of BDEs for
+proteins.
+
+
+---
+
+Description:
+XH BDEs in proteins computed using the isodesmic reaction method at the BMK631G(2df,p) level of theory.
+
+Text:
+However, while in the past often used, B3LYP is one of
+the less well performing functionals for radical reactions.6 Also,
+the set of references used previously5 lacks proper reference com
+pounds for benzylic CH, carboxylic OH, and aromatic NH
+bonds. Instead, tertbutyl amine was used as a reference com
+pound for all side chain NH bonds. We report XH BDEs of amino acids in proteins computed us
+ing the isodesmic reaction method at the BMK631G(2df,p)7
+level of theory. We validate our BMK results by comparing the
+BDEs of smaller amino acids to results obtained at the G4(MP2)
+6X8 level of theory.

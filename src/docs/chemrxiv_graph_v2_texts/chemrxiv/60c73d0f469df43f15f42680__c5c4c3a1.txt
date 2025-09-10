@@ -1,0 +1,12 @@
+Description:
+Compounds that may contain both heteroarene and benzene rings, affecting halogenation positions.
+
+Text:
+Heteroaromatics and benzene derivatives constitute important structural classes in drug discovery, agrochemistry, and material
+science. Their halogenated derivatives are often applied as substrates in carboncarbon and carbonheteroatom crosscoupling
+reactions such as SuzukiMiyaura, Heck, and BuchwaldHartwig couplings.1;2 The prerequisite (hetero)aryl halides are
+typically prepared by electrophilic aromatic substitution (EAS).3 Halogenated arenes are also important substrates for directed
+metallation reactions and for the generation of organolithium and organomagnesium species by metalhalogen exchange, metal
+insertion, or direct metallation.4 Unlike the benzene series for which the relative reactivity of the substrates is textbook
+knowledge, it is not a priori obvious at which position(s) halogenation will occur for heteroaromatic systems, especially in
+compounds that contain multiple (hetero)aromatic rings or in compounds that contain both heteroarene and benzene rings.

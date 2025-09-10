@@ -1,0 +1,11 @@
+Description:
+A compound used in metal catalyzed cross-coupling reactions with 1,2,3triazole.
+
+Text:
+1Aryl1H1,2,3triazoles are an important structural motif in bioactive molecules and drugs11 that has led to a 
+number of synthetic methods for their construction.12 These methods include the direct reaction of 1,2,3triazole 
+with a suitable aryl halide (ArBr, ArI) promoted by metal catalyzed crosscoupling. However, these tend to give 
+mixtures of 1 and 2aryl isomers through poor selectivity that limits its utility.13, 14 Methods are preferred where 
+the specific creation of the 1aryl triazole of can be controlled by the appropriate choice of reagentssynthons with 
+defined and predictable reactivity. Copper(I) catalyzed azidealkyne cycloaddition (CuAAC) promotes a 32 
+cyclisation where the three contiguous N atoms are provided by an aryl azide synthon (ArN1N2N3).

@@ -1,0 +1,35 @@
+Name: Rotenone
+Text:
+Rotenone appears as colorless to brownish crystals or a white to brownish-white crystalline powder. Has neither odor nor taste. (NTP, 1992)
+Rotenone is a member of the class of rotenones that consists of 1,2,12,12a-tetrahydrochromeno[3,4-b]furo[2,3-h]chromen-6(6aH)-one substituted at position 2 by a prop-1-en-2-yl group and at positions 8 and 9 by methoxy groups (the 2R,6aS,12aS-isomer). A non-systemic insecticide, it is the principal insecticidal constituent of derris (the dried rhizome and root of Derris elliptica). It has a role as a phytogenic insecticide, a mitochondrial NADH:ubiquinone reductase inhibitor, a metabolite, an antineoplastic agent, a toxin and a piscicide. It is an organic heteropentacyclic compound and a member of rotenones.
+Rotenone is an isoflavone compound that naturally occurs in the jicama vine plant as well as many Fabaceae plants. It has broad spectrum insecticide and pesticide activity and is also toxic to fish.
+Rotenone has been reported in Piscidia piscipula, Derris elliptica, and other organisms with data available.
+Rotenone is a naturally occurring organic heteropentacyclic compound and member of rotenones that is found in the roots of several plant species. It is a mitochondrial NADH:ubiquinone reductase inhibitor, toxin, and metabolite, and is used as an antineoplastic agent and insecticide. It is characterized as a colorless to brownish or a white to brownish-white crystalline solid that is odorless. Exposure occurs by inhalation, ingestion, or contact.
+Rotenone is found in jicama. Rotenone is widely distributed in the Leguminosae (Papilionoideae) e.g. Pachyrrhizus erosus (yam bean).Rotenone is an odorless chemical that is used as a broad-spectrum insecticide, piscicide, and pesticide. It occurs naturally in the roots and stems of several plants such as the jicama vine plant. In mammals, including humans, it is linked to the development of Parkinson's disease. (Wikipedia) 
+
+Rotenone has been shown to exhibit apoptotic, neuroprotectant and neuroprotective functions (A7776, A7777, A7777).
+
+Rotenone belongs to the family of Rotenoids. These are phenolic compounds containing aA cis-fused tetrahydrochromeno[3,4-b]chromenenucleus. Many rotenoids contain an additional ring, e.g rotenone[1]. (Reference: [1] IUPAC. Compendium of Chemical Terminology, 2nd ed. (the Gold Book). Compiled by A. D. McNaught and A. Wilkinson. Blackwell Scientific Publications, Oxford (1997). XML on-line corrected version: http://goldbook.iupac.org (2006-) created by M. Nic, J. Jirat, B. Kosata; updates compiled by A. Jenkins. ISBN 0-9678550-9-8. doi:10.1351/goldbook. (PAC, 1995, 67, 1307 (Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)) on page 1364)).
+A botanical insecticide that is an inhibitor of mitochondrial electron transport.
+Properties:safety: Acute Toxic and Environmental Hazard
+smiles: CC(=C)[C@H]1CC2=C(O1)C=CC3=C2O[C@@H]4COC5=CC(=C(C=C5[C@@H]4C3=O)OC)OC
+formula: C23H22O6
+chem_properties: Molecular Weight: 394.4 g/mol
+XLogP3: 4.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 3
+Exact Mass: 394.14163842 Da
+Monoisotopic Mass: 394.14163842 Da
+Topological Polar Surface Area: 63.2
+Heavy Atom Count: 29
+Formal Charge: 0
+Complexity: 664
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 3
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

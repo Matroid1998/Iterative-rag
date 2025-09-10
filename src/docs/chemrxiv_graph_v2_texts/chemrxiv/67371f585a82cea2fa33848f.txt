@@ -1,0 +1,17 @@
+Description:
+A cathode material used in rechargeable batteries.
+
+Text:
+Electrochemical energy storage has become an increas
+ingly vital component of modern society ever present in
+both portable electronics and transportation, as well as
+becoming important in the realisation of a fully renew
+able energy grid. The dominating type ofrechargeable
+battery rely on Liions which intercalating into an anode
+upon charging, typically graphitic1, migrate back to a
+cathode ( for example LiCoO22, LiFePO43,4 (LFP), or
+LiNixMnyCo1xyO2 (NMC)5) upon discharging, and a
+liquidpolymer electrolyte such as LiTFSI.6 These elec
+trolytes typically possess desirable conductivities7 of the
+order of 102 S cm1. However, they present signicant
+safety risks due to their ammable nature.

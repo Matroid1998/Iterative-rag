@@ -1,0 +1,27 @@
+Description:
+Involved in reduction reactions with slow kinetics affecting fuel cell performance.
+
+Text:
+License CC BYNC 4.0
+
+3 
+permeability of industrystandard fluorocarbon membranes such as Nafion 115, leading to 
+high methanol crossover, and (ii) the need for a more efficient catalyst for oxygen reduction. The loss of fuel cell performance due to slow O2 reduction kinetics can be minimised to a 
+certain extent by reducing the thickness of the membrane to lower its ionic resistance, but this 
+also increases methanol crossover. Higher concentrations of methanol fuel can increase power 
+density and reduce fuel volume, but in general a high concentration of methanol in the aqueous 
+feed leads to excessive swelling of the membrane. Furthermore, unoxidised methanol 
+concentrates at the anode and will again cross over to the cathode.
+
+
+---
+
+Description:
+Experiences lower activity due to methanol crossover in DMFCs.
+
+Text:
+Methanol crossover can 
+poison the cathode catalyst, leading to increased cellheating, lower oxygen activity, reduced 
+cell voltage and power density, and loss of DMFC efficiency as a result of parasitic oxidation 
+of methanol to CO2 and H2, at the cathode.710 Present DMFC technology thus uses a dilute 
+aqueous methanol feed, at 1M to 3M concentration, to limit the extent of methanol crossover.

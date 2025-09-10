@@ -1,0 +1,17 @@
+Description:
+A reactive atmosphere used in thermal treatment to yield isolated metal sites or nanoparticles.
+
+Text:
+For example, there are ongoing debates 
+regarding whether the RhFe alloy or RhFeOx interfaces are crucial for promoting ethanol 
+synthesis.13, 14, 16, 17 
+In that context, Surface organometallic chemistry (SOMC) has emerged as a powerful 
+synthetic methodology to generate tailored catalysts and to interrogate the role of composition 
+and interfaces.1820 Specifically, SOMC exploits the surface termination of oxide supports, 
+especially surface OH groups, MSOH, to anchor welldefined metal precursors, LnMXx 
+through protonolysis, generating atomically dispersed surface species, MSOMLnXx1 (ca. 1 
+sitenm2) while releasing HX. Subsequent thermal treatment under vacuum or reactive 
+atmospheres like H2 can yield isolated metal sites or nanoparticles with tailored compositions 
+or interfaces. Overall, SOMC generates welldefined models of heterogeneous catalysts, where 
+each component can be selectively introduced and their state probed through detailed 
+characterization.

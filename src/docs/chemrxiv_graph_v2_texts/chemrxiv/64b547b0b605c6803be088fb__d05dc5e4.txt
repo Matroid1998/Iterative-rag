@@ -1,0 +1,17 @@
+Description:
+Enables RT-operable ultrasensitive gas sensors with ppb detection limits and high selectivity.
+
+Text:
+This has led to particular progress in the detection
+of NO2 1623, with the main competing platforms based on Mo
+bearing sheets, i.e., molybdenum disulfide (MoS2), molybdenum dise
+lenide (MoSe2), and molybdenum ditelluride (MoTe2). All three enable
+RToperable ultrasensitive gas sensors with ppb detection limits, high
+selectivity, realtime response, and rapid onoff switching, which is due
+Corresponding author
+Email address maciej.szaryput.poznan.pl (Maciej J. Szary)
+to them sharing the same type of atomic structure. Mobearing TMDs
+favor trigonalparticle geometry with Mo atoms sandwiched between
+two layers of chalcogens. It results in electronic states at the valence
+band maximum (VMB) capable of acting as electron donors upon ad
+sorption of NO2 24.

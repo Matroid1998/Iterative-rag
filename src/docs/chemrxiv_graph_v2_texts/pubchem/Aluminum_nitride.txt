@@ -1,0 +1,26 @@
+Name: Aluminum nitride
+Text:
+Aluminium nitride is a nitride.
+Aluminium nitride (AlN) is a nitride of aluminium. It is a semiconductor and can be used in light-emitting diodes. Aluminum is the most abundant metal in the earth's crust and is always found combined with other elements such as oxygen, silicon, and fluorine.  (L739, L740, T10)
+See also: Aluminium nitride (AlN) (annotation moved to).
+Properties:safety: Corrosive and Irritant
+smiles: N#[Al]
+formula: AlN
+chem_properties: Molecular Weight: 40.988 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 40.9846124 Da
+Monoisotopic Mass: 40.9846124 Da
+Topological Polar Surface Area: 23.8
+Heavy Atom Count: 2
+Formal Charge: 0
+Complexity: 10
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

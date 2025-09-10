@@ -1,0 +1,15 @@
+Description:
+A notable example of a carbide for which ALD processes have been developed.
+
+Text:
+We 
+also note that only very few ALD processes has been 
+published for carbides, with TaC6 and WCx7 as notable 
+examples. The lack of ALD processes for carbides is to a 
+large part explained by the lack of a suitable carbon 
+precursor. We recently showed that trimethylboron (B(CH3)3, TMB) 
+can function as a single source precursor for CVD of boron
+carbon thin films at 7001100 C and 5000 Pa in either a 
+hydrogen or an argon ambient.8 We observed that the films 
+deposited from TMB at 700 C in a H2 ambient were thinner 
+than those deposited in Ar ambient.

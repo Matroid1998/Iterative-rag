@@ -1,0 +1,12 @@
+Description:
+An electron-deficient atom involved in forming a carbanion intermediate.
+
+Text:
+An activated olen reacts with a cysteine via Michael addition (Scheme 1),
+which has been extensively studied since the 1960s.1014 Although alternative mecha
+nisms have been proposed,15 the ratelimiting step of the reaction is believed to be the
+nucleophilic attack of the deprotonated thiolate (either directly or via a base catalyst) on
+the electrondecient  carbon, leading to a carbanion intermediate, which protonates to
+form the thioether adduct (Scheme 1). Thus, the intrinsic reaction rate of a thiolMichael
+addition (for protein targets) is determined by the reactivity of the cysteine thiol and that of
+the Michael acceptor.

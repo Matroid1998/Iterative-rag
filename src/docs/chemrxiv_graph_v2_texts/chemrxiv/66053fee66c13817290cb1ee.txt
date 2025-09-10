@@ -1,0 +1,16 @@
+Description:
+Used as an internal standard for the pseudo AgAgCl wire reference electrode in cyclic voltammetry.
+
+Text:
+Piperine is a potent inhibitor of 
+cytochrome CYP4A6 and related familial isoforms 2122 but to the best of our knowledge 
+the exact biological mechanism by which piperine is metabolised remains unknown.23 
+There is, however, a body of evidence of typical piperine metabolites to enable confirmation 
+by comparison. 2427 
+Results and Discussion 
+Prior to electrochemical reaction the cyclic voltammetry behaviour of piperine was measured 
+28 We have previously shown the voltammetric behaviour of a drug molecule is inversely 
+correlated to it in situ metabolic halflife.29 Using ferrocene (FcFc) as an internal standard 
+for the pseudo AgAgCl wire reference electrode and a glassy carbon electrode (GCE) as the 
+working electrode and a platinum wire as the counter electrode (CE), the cyclic voltammetry 
+behaviour of piperine was explored (Figures 1 ac).

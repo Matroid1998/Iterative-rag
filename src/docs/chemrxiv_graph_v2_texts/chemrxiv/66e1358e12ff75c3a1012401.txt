@@ -1,0 +1,15 @@
+Description:
+A precursor used in the ALD of aluminum nitride.
+
+Text:
+Aluminum nitride (AlN) is a widegap semiconductor known for its wide bandgap of around 6.2 
+eV2, a thermal conductivity comparable to that of metals of 285 Wm1K1, a high melting point of 
+2750 C, and electrical resistance of 1013 cm, making it a highly promising material for 
+utilization in micro and optoelectronic applications.3 ALD of AlN typically relies on trimethyl 
+aluminum (TMA) and ammonia (NH3) as precursors.4,5 The deposition of AlN from TMA, with 
+aluminumcarbon bonds, often suffers from carbon impurities and an efficient carboncleaning 
+surface chemistry is needed.6 Precursors with aluminumnitrogen bonds could possibly reduce this 
+problem 
+when 
+depositing 
+AlN.

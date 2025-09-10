@@ -1,0 +1,16 @@
+Description:
+Corner-sharing octahedra that form part of the three-dimensional framework in AMX3 compounds.
+
+Text:
+A unifying goal in solidstate science is control over the physi
+cal properties of materials, and the tunability of perovskites is
+perhaps the most striking example. Traditionally these com
+pounds are threedimensional frameworks with a general chem
+ical formula AMX3 built from MX6 cornersharing octahedra. Through substitution of the A, M and X ions, materials with re
+markable magnetic,1 electronic conductivity,2 photovoltaic3 and
+nonlinear optical properties,4 have been created. The perovskite structure is, however, only one of a widerange
+of AMX3 structuretypes, with perhaps the most closely related
+being the postperovskite structure. In contrast to perovskites,
+postperovskites contain MX6 octahedra that both edge and
+cornershare, resulting in twodimensional anionic MX3 lay
+ers, rather than a three dimensional framework.

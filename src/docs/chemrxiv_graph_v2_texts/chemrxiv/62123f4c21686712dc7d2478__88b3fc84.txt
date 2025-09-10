@@ -1,0 +1,28 @@
+Description:
+Simple amphipathic molecules with a polar headgroup and a hydrophobic tail, capable of forming micelles and vesicles above certain concentrations.
+
+Text:
+Lipids, sometimes regarded as amphiphiles or surfactants, are simple amphipathic molecules, possessing a polar 
+headgroup and a hydrophobic tail. These molecules can spontaneously aggregate to form structurallydiverse 
+assemblies such as micelles and vesicles when present above certain threshold concentrations (e.g. critical 
+micelle concentration, CMC). As the primary component of the membranes of all living cells, assemblies of lipids 
+and their growth dynamics have been the focus of research for many decades2. This uncovered the technological 
+usefulness of lipid assemblies, particularly in the fields of medicine and synthetic chemistry3, 4. It has also offered 
+insights on both the thermodynamic attributes of lipid assemblies, such as structural stability and electrostatics, 
+and their kinetic parameters, such as their catalytic parameters5, 6.
+
+
+---
+
+Description:
+The primary component of the membranes of all living cells, with assemblies that have technological usefulness in medicine and synthetic chemistry.
+
+Text:
+Lipids, sometimes regarded as amphiphiles or surfactants, are simple amphipathic molecules, possessing a polar 
+headgroup and a hydrophobic tail. These molecules can spontaneously aggregate to form structurallydiverse 
+assemblies such as micelles and vesicles when present above certain threshold concentrations (e.g. critical 
+micelle concentration, CMC). As the primary component of the membranes of all living cells, assemblies of lipids 
+and their growth dynamics have been the focus of research for many decades2. This uncovered the technological 
+usefulness of lipid assemblies, particularly in the fields of medicine and synthetic chemistry3, 4. It has also offered 
+insights on both the thermodynamic attributes of lipid assemblies, such as structural stability and electrostatics, 
+and their kinetic parameters, such as their catalytic parameters5, 6.

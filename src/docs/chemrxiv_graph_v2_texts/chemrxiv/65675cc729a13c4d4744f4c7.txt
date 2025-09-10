@@ -1,0 +1,32 @@
+Description:
+A greenhouse gas commonly captured from dilute sources such as flue gas.
+
+Text:
+The separation and purification of chemicals are highly important processes in the
+chemical industry and account for 45  55  of their energy consumption 1, 2. The
+capture of greenhouse gases, such as CO2, from dilute sources (e.g. flue gas which
+generally contains 4  30  CO2 in a mixture with N2) 3 has generally been achieved at
+an industrial scale using alkanoamines such as monoethanolamine (MEA) 4. However,
+the chemical instability, their corrosiveness, and the cost of many alkanoamines limit
+their widespread application. An estimated 60  80 of the total cost of the carbon
+capture and sequestration (CCS) process is estimated to originate from procedures
+pertaining to the utilization of the amine solutions 5.
+
+
+---
+
+Description:
+A gas that can be captured and separated using adsorption-based processes with porous sorbents.
+
+Text:
+In contrast, adsorptionbased
+processes for the capture and separation of CO2 using porous sorbents have been
+proposed as a promising energy and costefficient alternative. Pressurevacuum and
+temperatureswing (PSVA, and TSA) adsorption have been explored at both lab and
+pilot scales to successfully drive the capture and regeneration of CO2 in sorbents such as
+zeolites 69, porous carbons 3, 10, and metalorganic frameworks (MOFs) porous
+coordination polymers (PCPs) 1113. Although the running costs of such processes
+using porous sorbents offer significant benefits as compared to CO2 capture using amine
+compounds, problems with these techniques still exist and are related to e.g. large energy
+consumptions for CO2 capture in feed gas mixtures containing low concentrations of CO2
+(i.e.

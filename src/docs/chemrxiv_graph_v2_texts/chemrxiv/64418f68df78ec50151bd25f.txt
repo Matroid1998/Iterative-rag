@@ -1,0 +1,13 @@
+Description:
+Widely used in the synthesis of state-of-the-art quantum dots.
+
+Text:
+The development of biofunctional, tunable, and nontoxic nanomaterials has the potential to 
+revolutionize precision medicine (e.g., biomedical imaging, therapeutics, and drug delivery). While 
+zerodimensional semiconductor quantum dots (QDs) have been explored as biomedical 
+materials for the last two decades due to their unique optical and electrical characteristics, their 
+immediate and downstream safety and material viability have hindered their potential uses in real
+world applications. Heavy metals (e.g., Cd, Pb) have been widely used in the synthesis of state
+oftheart QDs and have demonstrated suitability for many applications such as small molecule 
+tracking1. In addition, these materials have been modified and biofunctionalized to be utilized for 
+detecting viruses2 and bacteria3, in vitro cell imaging4, 5, and in vivo biomarker analysis610.

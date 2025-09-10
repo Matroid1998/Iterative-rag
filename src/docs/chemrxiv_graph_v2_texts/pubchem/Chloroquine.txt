@@ -1,0 +1,34 @@
+Name: Chloroquine
+Text:
+Chloroquine is an aminoquinoline that is quinoline which is substituted at position 4 by a [5-(diethylamino)pentan-2-yl]amino group at at position 7 by chlorine. It is used for the treatment of malaria, hepatic amoebiasis, lupus erythematosus, light-sensitive skin eruptions, and rheumatoid arthritis. It has a role as an antimalarial, an antirheumatic drug, a dermatologic drug, an autophagy inhibitor and an anticoronaviral agent. It is an aminoquinoline, a secondary amino compound, a tertiary amino compound and an organochlorine compound. It is a conjugate base of a chloroquine(2+).
+Chloroquine is an aminoquinolone derivative first developed in the 1940s for the treatment of malaria. It was the drug of choice to treat malaria until the development of newer antimalarials such as [pyrimethamine], [artemisinin], and [mefloquine]. Chloroquine and its derivative [hydroxychloroquine] have since been repurposed for the treatment of a number of other conditions including HIV, systemic lupus erythematosus, and rheumatoid arthritis.  **The FDA emergency use authorization for [hydroxychloroquine] and chloroquine in the treatment of COVID-19 was revoked on 15 June 2020.**  Chloroquine was granted FDA Approval on 31 October 1949.
+Chloroquine is an Antimalarial.
+Chloroquine is an aminoquinoline used for the prevention and therapy of malaria. It is also effective in extraintestinal amebiasis and as an antiinflammatory agent for therapy of rheumatoid arthritis and lupus erythematosus. Chloroquine is not associated with serum enzyme elevations and is an extremely rare cause of clinically apparent acute liver injury.
+Chloroquine has been reported in Cocos nucifera, Cinchona calisaya, and other organisms with data available.
+Chloroquine is a 4-aminoquinoline with antimalarial, anti-inflammatory, and potential chemosensitization and radiosensitization activities. Although the mechanism is not well understood, chloroquine is shown to inhibit the parasitic enzyme heme polymerase that converts the toxic heme into non-toxic hemazoin, thereby resulting in the accumulation of toxic heme within the parasite. This agent may also interfere with the biosynthesis of nucleic acids. Chloroquine's potential chemosensitizing and radiosensitizing activities in cancer may be related to its inhibition of autophagy, a cellular mechanism involving lysosomal degradation that minimizes the production of reactive oxygen species (ROS) related to tumor reoxygenation and tumor exposure to chemotherapeutic agents and radiation.
+CHLOROQUINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1949 and is indicated for malaria and has 24 investigational indications.
+Chloroquine is only found in individuals that have used or taken this drug. It is a prototypical antimalarial agent with a mechanism that is not well understood. It has also been used to treat rheumatoid arthritis, systemic lupus erythematosus, and in the systemic therapy of amebic liver abscesses. [PubChem]The mechanism of plasmodicidal action of chloroquine is not completely certain. Like other quinoline derivatives, it is thought to inhibit heme polymerase activity. This results in accumulation of free heme, which is toxic to the parasites. nside red blood cells, the malarial parasite must degrade hemoglobin to acquire essential amino acids, which the parasite requires to construct its own protein and for energy metabolism. Digestion is carried out in a vacuole of the parasite cell.During this process, the parasite produces the toxic and soluble molecule heme. The heme moiety consists of a porphyrin ring called Fe(II)-protoporphyrin IX (FP). To avoid destruction by this molecule, the parasite biocrystallizes heme to form hemozoin, a non-toxic molecule. Hemozoin collects in the digestive vacuole as insoluble crystals.Chloroquine enters the red blood cell, inhabiting parasite cell, and digestive vacuole by simple diffusion. Chloroquine then becomes protonated (to CQ2+), as the digestive vacuole is known to be acidic (pH 4.7); chloroquine then cannot leave by diffusion. Chloroquine caps hemozoin molecules to prevent further biocrystallization of heme, thus leading to heme buildup. Chloroquine binds to heme (or FP) to form what is known as the FP-Chloroquine complex; this complex is highly toxic to the cell and disrupts membrane function. Action of the toxic FP-Chloroquine and FP results in cell lysis and ultimately parasite cell autodigestion. In essence, the parasite cell drowns in its own metabolic products.
+The prototypical antimalarial agent with a mechanism that is not well understood. It has also been used to treat rheumatoid arthritis, systemic lupus erythematosus, and in the systemic therapy of amebic liver abscesses.
+See also: Chloroquine Phosphate (has salt form); Chloroquine Sulfate (has salt form); Chloroquine Hydrochloride (has salt form) ... View More ...
+Properties:safety: Irritant
+smiles: CCN(CC)CCCC(C)NC1=C2C=CC(=CC2=NC=C1)Cl
+formula: C18H26ClN3
+chem_properties: Molecular Weight: 319.9 g/mol
+XLogP3: 4.6
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 8
+Exact Mass: 319.1815255 Da
+Monoisotopic Mass: 319.1815255 Da
+Topological Polar Surface Area: 28.2
+Heavy Atom Count: 22
+Formal Charge: 0
+Complexity: 309
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

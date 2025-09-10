@@ -1,0 +1,29 @@
+Name: trans,trans-Farnesol
+Text:
+Farnesol is a farnesane sesquiterpenoid that is dodeca-2,6,10-triene substituted by methyl groups at positions 3, 7 and 11 and a hydroxy group at position 1. It has a role as a plant metabolite, a fungal metabolite and an antimicrobial agent. It is a farnesane sesquiterpenoid, a primary alcohol and a polyprenol.
+trans,trans-Farnesol has been reported in Humulus lupulus, Pinus densiflora, and other organisms with data available.
+(2-trans,6-trans)-Farnesol is a metabolite found in or produced by Saccharomyces cerevisiae.
+A colorless liquid extracted from oils of plants such as citronella, neroli, cyclamen, and tuberose. It is an intermediate step in the biological synthesis of cholesterol from mevalonic acid in vertebrates. It has a delicate odor and is used in perfumery. (From McGraw-Hill Dictionary of Scientific and Technical Terms, 5th ed)
+See also: Farnesol (annotation moved to); (E,Z)-Farnesol (annotation moved to).
+Properties:safety: Irritant
+smiles: CC(=CCC/C(=C/CC/C(=C/CO)/C)/C)C
+formula: C15H26O
+chem_properties: Molecular Weight: 222.37 g/mol
+XLogP3: 4.8
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 7
+Exact Mass: 222.198365449 Da
+Monoisotopic Mass: 222.198365449 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 16
+Formal Charge: 0
+Complexity: 265
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 2
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

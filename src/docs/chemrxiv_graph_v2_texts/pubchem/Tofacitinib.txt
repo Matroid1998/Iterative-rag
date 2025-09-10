@@ -1,0 +1,31 @@
+Name: Tofacitinib
+Text:
+Tofacitinib is a pyrrolopyrimidine that is pyrrolo[2,3-d]pyrimidine substituted at position 4 by an N-methyl,N-(1-cyanoacetyl-4-methylpiperidin-3-yl)amino moiety. Used as its citrate salt to treat moderately to severely active rheumatoid arthritis. It has a role as an EC 2.7.10.2 (non-specific protein-tyrosine kinase) inhibitor and an antirheumatic drug. It is a pyrrolopyrimidine, a N-acylpiperidine, a nitrile and a tertiary amino compound.
+Tofacitinib is an inhibitor of Janus kinases, a group of intracellular enzymes involved in signalling pathways that affect hematopoiesis and immune cell function. It is approved by the FDA for treatment of moderate to severe rheumatoid arthritis that responds inadequately to methotrexate or in those who are intolerant to methotrexate.  Besides rheumatoid arthritis, tofacitinib has also been studied in clinical trials for the prevention of organ transplant rejection, and is currently under investigation for the treatment of psoriasis. Known adverse effects include nausea and headache as well as more serious immunologic and hematological adverse effects. Tofacitinib is marketed under the brand name Xeljanz by Pfizer.
+Tofacitinib is a Janus Kinase Inhibitor. The mechanism of action of tofacitinib is as a Janus Kinase Inhibitor.
+Tofacitinib is an oral, small molecule inhibitor of Janus kinases that is used to treat moderate-to-severe rheumatoid arthritis, psoriatic arthritis and inflammatory bowel disease. Tofacitinib is associated with transient and usually mild elevations in serum aminotransferase levels during therapy, but has yet to be linked to cases of clinically apparent acute liver injury.
+Tofacitinib is an orally available inhibitor of Janus kinases (JAK), with immunomodulatory and anti-inflammatory activities. Upon administration, tofacitinib binds to JAK and prevents the activation of the JAK-signal transducers and activators of transcription (STAT) signaling pathway. This may decrease the production of pro-inflammatory cytokines, such as interleukin (IL)-6, -7, -15, -21, interferon-alpha and -beta, and may prevent both an inflammatory response and the inflammation-induced damage caused by certain immunological diseases. JAK kinases are intracellular enzymes involved in signaling pathways affecting hematopoiesis, immunity and inflammation.
+TOFACITINIB is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2012 and is indicated for psoriatic arthritis and rheumatoid arthritis and has 38 investigational indications. This drug has a black box warning from the FDA.
+See also: Tofacitinib Citrate (has salt form).
+Properties:safety: Acute Toxic and Irritant and Health Hazard
+smiles: C[C@@H]1CCN(C[C@@H]1N(C)C2=NC=NC3=C2C=CN3)C(=O)CC#N
+formula: C16H20N6O
+chem_properties: Molecular Weight: 312.37 g/mol
+XLogP3: 1.5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 3
+Exact Mass: 312.16985928 Da
+Monoisotopic Mass: 312.16985928 Da
+Topological Polar Surface Area: 88.9
+Heavy Atom Count: 23
+Formal Charge: 0
+Complexity: 488
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

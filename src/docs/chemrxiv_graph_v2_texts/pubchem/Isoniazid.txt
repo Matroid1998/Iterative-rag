@@ -1,0 +1,37 @@
+Name: Isoniazid
+Text:
+Isoniazid appears as odorless colorless or white crystals or white crystalline powder. Taste is slightly sweet at first and then bitter. pH (1% aqueous solution) 5.5-6.5. pH (5% aqueous solution) 6-8. (NTP, 1992)
+Isoniazide is a carbohydrazide obtained by formal condensation between pyridine-4-carboxylic acid and hydrazine. It has a role as an antitubercular agent and a drug allergen. It is functionally related to an isonicotinic acid.
+Isoniazid is an antibacterial prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the prevention and treatment of tuberculosis (TB).
+TB can be an opportunistic infection (OI) of HIV.
+Antibacterial agent used primarily as a tuberculostatic. It remains the treatment of choice for tuberculosis.
+Isoniazid is an Antimycobacterial.
+Isoniazid is the most reliable and most commonly used medication for tuberculosis. Isoniazid therapy is often associated with minor, transient and asymptomatic elevations in serum aminotransferase levels but, more importantly, isoniazid is a well known cause of acute clinically apparent liver injury which can be severe and is sometimes fatal.
+Isoniazid has been reported in Aspergillus ochraceopetaliformis, Ganoderma colossus, and other organisms with data available.
+Isoniazid is a synthetic derivative of nicotinic acid with anti-mycobacterial properties.  Although its mechanism of action is still unclear, isoniazid appears to block the synthesis of mycolic acids, major components of the mycobacterial cell wall. This agent is only active against actively growing mycobacteria because, as a pro-drug, it requires activation in susceptible mycobacterial species. Isoniazid also interferes with mycobacterial metabolism of vitamin B6.  Resistance occurs due to decreased bacterial wall penetration. (NCI04)
+ISONIAZID is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1952 and has 4 approved and 8 investigational indications. This drug has a black box warning from the FDA.
+Antibacterial agent used primarily as a tuberculostatic. It remains the treatment of choice for tuberculosis. 
+Antibacterial agent used primarily as a tuberculostatic. It remains the treatment of choice for tuberculosis.
+See also: Isoniazid; rifampin (component of); Stevia rebaudiuna Leaf (part of); Isoniazid; pyrazinamide; rifampin (component of).
+Properties:safety: Irritant
+smiles: C1=CN=CC=C1C(=O)NN
+formula: C6H7N3O
+chem_properties: Molecular Weight: 137.14 g/mol
+XLogP3: -0.7
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 1
+Exact Mass: 137.058911855 Da
+Monoisotopic Mass: 137.058911855 Da
+Topological Polar Surface Area: 68
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 120
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

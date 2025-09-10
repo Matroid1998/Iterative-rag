@@ -1,0 +1,28 @@
+Description:
+A silicoaluminophosphate used in skeletal isomerisation and methanol-to-olefin transformations.
+
+Text:
+The aluminophosphate zeotype AlPO11 was among the first AlPO4based molecular sieves, 
+reported in a seminal paper by Wilson, Flanigen and coworkers in 1982.1 AlPO11 is the type 
+material of the AEL (AlPO4ELeven) framework type code assigned by the International Zeolite 
+Association.2 In addition to the pure AlPO4 form, several heteroatomsubstituted derivatives 
+have been reported, including the silicoaluminophosphate SAPO11,3 the germanoalumino
+phosphate GeAPO11,4 and metal (silico)aluminophosphates containing Mg, Cr, Mn, Fe, Co, 
+or Zn, among other metals.5,6 These heteroatomsubstituted systems, especially SAPO11, 
+have received considerable attention as catalysts and catalyst supports.7,8 The most 
+prominent application of AELtype frameworks is the use of bifunctional PtSAPO11 catalysts 
+for hydroisomerisation and hydrocracking reactions.914 Application examples using 
+monofunctional (nondoped) catalysts include the skeletal isomerisation of 1pentene and m
+xylene using SAPO11 and CoAPO11,1517 the hydroxylation of phenol with Fe, Mn, Co, or 
+CuAPO11,18,19 and the potential use of SAPO11 and CrAPSO11 in methanoltoolefin 
+transformations.20 With regard to adsorption applications, AlPO11 has been proposed as a 
+suitable adsorbent to recover methane from biogas using pressure swing adsorption,21 
+whereas CoAPO11 has been recently tested for the adsorption of phenol from cigarette 
+smoke.22 On a more fundamental level, AlPO11 can serve as a model system to study the 
+structure and dynamics of molecules under confinement, as demonstrated for the case of 
+adsorbed iodine molecules.2325 
+The structure of the calcined form of AlPO11 was refined from powder neutron diffraction data 
+by Richardson et al.,26 based on a model proposed earlier by Bennett and Smith.27,28 The 
+aristotype of the AEL framework has  symmetry (a nonconventional setting of space 
+group , employed here in order to use the same axis system as for the lowersymmetry 
+structures presented subsequently).

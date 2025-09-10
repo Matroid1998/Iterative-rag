@@ -1,0 +1,17 @@
+Description:
+Analogue battery cathodes affected by vacancy chemistry.
+
+Text:
+Defects are ubiquitous in functional materials and play a critical
+role in materials as simple as the binary rocksalt oxides1,2 and
+as complex as hightemperature superconductors3. The impor
+tance of vacancy chemistry to molecular framework perovskites
+is becoming increasingly clear4 in many important families,
+including the hybrid metalhalide semiconductors5,6, cyanide
+Prussian Blue analogue battery cathodes7,8 and magnetic for
+mate perovskites9,10, as the number of studies making use of
+defectengineering in these materials grows. Perhaps the most
+widespread strategy for introducing defects is aliovalent doping,
+where an ion is replaced by an ion with a different charge. Thus
+far, cationic dopants have been the most widely used and have
+been introduced onto both the A, e.g.

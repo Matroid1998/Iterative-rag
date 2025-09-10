@@ -1,0 +1,12 @@
+Description:
+An organic linker used in the construction of hydrolytically stable MOFs.
+
+Text:
+Porphyrins are excellent organic linkers for the 
+construction of MOFs and many different frameworks have been described over the last decades.26,27 
+Unfortunately, many of them are prone to hydrolysis28 and are therefore of limited interest for sensing 
+applications under ambient conditions. One welldescribed and hydrolytically considerably stable 
+porphyrinbased MOF is PCN224.29 PCN224 consists of Zr6 clusters which are connected by 
+tetrakis(4carboxyphenyl) porphyrin (H2TCPP) as organic linker and is sufficiently insoluble in most 
+common solvents as well as hydrolytically stable in a broad pH range (1 to 11). This MOF has a 
+permanent porosity with a reported BET surface of 2600 m g1 and large pore sizes of 1.9 nm in

@@ -1,0 +1,18 @@
+Description:
+A solvent used to dissolve compounds for determining kinetic solubility.
+
+Text:
+Low solubility can result in inaccurate highthroughput screening
+(HTS) outcomes and can mask toxicity effects during earlystage drug development.1,2 The intrinsic
+solubility of a compound refers to its solubility in a neutral state at thermodynamic equilibrium
+between the solid and dissolved state.3 Although several modeling approaches have been developed
+to predict intrinsic solubility, usually small sets of compounds were used since acquiring such
+experimental data is timeconsuming and costly, requiring the achievement of thermodynamic
+equilibrium and titration to obtain the pH at which the compound is neutral.4 A cheaper approach
+involves the determination of kinetic solubility, whereby compounds are first dissolved in DMSO and
+then added to water to determine precipitation concentration.5 The kinetic solubility of compounds is
+frequently higher than intrinsic solubility due to supersaturation and strongly assay dependent.6 An
+even faster approach, as used in this study, is to determine threshold solubility, which is crucial in
+assessing whether a given compound is soluble enough for an HTS screening assay.7
+Although experimental methods can determine solubility, they are often timeconsuming and require a
+considerable amount of resources.

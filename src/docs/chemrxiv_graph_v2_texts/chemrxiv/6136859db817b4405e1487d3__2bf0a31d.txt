@@ -1,0 +1,34 @@
+Description:
+Features inverted bands at the Lpoint of the Brillouin zone in the rocksalt phase.
+
+Text:
+The partial contributions of atomic orbitals
+to each band suggest that SnTe, SnSe, SnS, GeSe, and GeS in the
+rocksalt phase have inverted bands at the Lpoint of the Brillouin
+zone, while PbTe, PbSe, PbS, and GeTe do not, in agreement with
+previous studies.26,27
+All compounds with normal band ordering exhibit a single car
+rier pocket at the Lpoint for both the conduction and valence
+bands, whereas the shapes of the band edges are more diverse
+for compounds with inverted bands. For example, while SnTe ex
+hibits a single carrier pocket for the conduction and valence bands
+centered at each Lpoint (Figure 1a), each halfpocket breaks into
+three full carrier pockets that are offset from the Lplane (i.e.
+
+
+---
+
+Description:
+A rocksalt compound exhibiting a toroidal conduction band Fermi surface.
+
+Text:
+the
+hexagonal zone boundary of the Brillouin zone containing the
+Lpoint) in rocksalt SnSe and SnS (Figures 1b, S1f), resulting
+in an overall 6 increase in the valley degeneracy from NV  4
+to NV  24. Additionally, rocksalt GeSe and GeS both exhibit a
+toroidal conduction band Fermi surface (Figures 1c and S1e) as
+opposed to a single conduction band pocket. It is interesting that similar compounds with inverted bands ex
+hibit diverse Fermi surface geometries, some with a single pocket
+centered at each Lpoint and others with multiple carrier pockets
+17  1

@@ -1,0 +1,24 @@
+Description:
+Porous materials used as adsorbents for direct air capture (DAC) of CO2.
+
+Text:
+Solid adsorbents, in contrast to liquid absorbents, offer 
+advantages such as lower energy requirements for 
+regeneration, modularity, and mitigation of corrosion and 
+evaporation challenges.3, 4 Many promising adsorbents 
+have been proposed for DAC to date, including metal
+organic frameworks,57 zeolites,8, 9 and supported amine 
+materials.3, 4, 10, 11 
+The 
+primary 
+challenge 
+for 
+widescale 
+DAC 
+implementation is not whether sorbents can effectively 
+remove CO2 from the air, as operational DAC plants 
+currently exist.12, 13 Instead, the most significant hurdle is 
+the economic viability of DAC. In contrast to post
+combustion CO2 capture processes, in which revenue for 
+the CO2 emitter is still possible, DAC lacks an intrinsic 
+revenue source.

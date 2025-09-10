@@ -1,0 +1,30 @@
+Description:
+A porous substrate used in studies of AlN surface chemistry.
+
+Text:
+ALD of AlN has garnered 
+significant attention for applications demanding robust protective layers, such as the 
+development of corrosionresistant, insulating and protective coatings.7 
+ALD is based on sequential, selflimiting surface chemical reactions, enabled by carefully tuned 
+deposition chemistry and an alternating precursor supply onto the substrate. This leads to the 
+hallmark of ALD conformal deposition on topologically complex surfaces. The alternating 
+surface chemistry also facilitates studies of the surface chemistry and reaction mechanisms as the 
+surface is only exposed to one type of precursor molecule at a time. Puurunen et al.810 have 
+explored the surface chemistry of AlN using trimethylaluminum (TMA) and ammonia (NH3) by 
+infrared (IR) spectroscopy and nuclear magnetic resonance (NMR) spectroscopy on porous silica 
+and alumina.
+
+
+---
+
+Description:
+A substrate on which the amount of NHx groups increases with reaction cycles.
+
+Text:
+They found that the amount of hydrogen in amino (NHx) groups increased with the 
+number of reaction cycles on both alumina (Al2O3) and silica (SiO2) substrates, suggesting that 
+more NHx groups were formed on the Al2O3 and SiO2 surfaces as the reactions progressed. The 
+interaction of TMA with dehydroxylated SiO2 involved ligand exchange with surface hydroxyl (
+OH) groups and dissociation in siloxane (SiOSi) bridges, leading to surface saturation with 
+methyl (CH3) groups, followed by the replacement of these CH3 groups by NHx groups upon 
+reaction with NH3, indicating a stepwise transformation of the surface chemistry.

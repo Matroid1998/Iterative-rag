@@ -1,0 +1,23 @@
+Name: Ytterbium triflate
+Text:
+Properties:safety: Corrosive and Irritant
+smiles: C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Yb+3]
+formula: C3F9O9S3Yb
+chem_properties: Molecular Weight: 620.3 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 18
+Rotatable Bond Count: 0
+Exact Mass: 620.7949411 Da
+Monoisotopic Mass: 620.7949411 Da
+Topological Polar Surface Area: 197
+Heavy Atom Count: 25
+Formal Charge: 0
+Complexity: 145
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 4
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,28 @@
+Name: Glycolaldehyde
+Text:
+Glycolaldehyde is the glycolaldehyde derived from ethylene glycol. The parent of the class of glycolaldehydes. It has a role as a fundamental metabolite and a human metabolite. It is a tautomer of a (Z)-1,2-ethenediol.
+Glycolaldehyde is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Glycolaldehyde has been reported in Arabidopsis thaliana and Homo sapiens with data available.
+Glycolaldehyde is a metabolite found in or produced by Saccharomyces cerevisiae.
+Properties:safety: Irritant
+smiles: C(C=O)O
+formula: C2H4O2
+chem_properties: Molecular Weight: 60.05 g/mol
+XLogP3: -0.9
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 60.021129366 Da
+Monoisotopic Mass: 60.021129366 Da
+Topological Polar Surface Area: 37.3
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 18
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

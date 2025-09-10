@@ -1,0 +1,13 @@
+Description:
+Studied in solid host systems using 13C NMR to observe chemical shift dependencies.
+
+Text:
+For the study of carbon dioxide in solid host systems, 13C NMR can be an immensely powerful 
+tool.14 The chemical shift () of any nucleus per se depends, besides on the structural 
+environment within the molecular structure also on the orientation of the molecule with respect 
+to the external magnetic field. In ideal solutions, this orientational dependence is averaged out 
+() due to rapid movement of the species under investigation. This is the reason for the 
+characteristically narrow lines observed in solution NMR experiments. In contrast, this 
+averaging of the chemical shift does not occur in solid state NMR experiments. In these, the 
+species movement is mostly slower and therefore the anisotropy of the measured signal is 
+retained.

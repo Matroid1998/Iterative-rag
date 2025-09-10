@@ -1,0 +1,9 @@
+Description:
+A metal oxide used as a cocatalyst for water oxidation in photoanodes.
+
+Text:
+Such photoanodes are capable of visible lightdriven oxygen evolution upon deposition of a 
+suitable cocatalyst for water oxidation, typically in form of metal oxide (IrOx, CoOx, NiOx) 
+nanoparticles.24,3239 Notably, we found out that one of the crucial problems of the metal oxide 
+nanoparticles as cocatalysts is their parasitic absorption of visible light, blocking thus the light 
+absorption by the light absorber.

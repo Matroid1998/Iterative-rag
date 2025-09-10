@@ -1,0 +1,11 @@
+Description:
+Involved in base pairing, a critical cell process.
+
+Text:
+Hydrogen bonds are essential to life as we know it, and the formation of hydrogen bond
+networks is a key driver of structure in biochemistry,8 ubiquitous in critical cell processes
+such as nucleotide base pairing9 and protein folding.10,11 However, the coarsegraining pro
+cedure in Martini 3 places hydrogens together with heavy atoms into larger LennardJones
+(LJ) particles and effectively averages out the energy contribution of directional hydrogen
+bonding. In this work, we investigate whether the secondary and tertiary structure instabil
+ity in Martini 3 proteins could originate from missing hydrogen bond energy.

@@ -1,0 +1,20 @@
+Description:
+A molecule used in linear vibronic coupling models.
+
+Text:
+Specically, we perform simulations using the
+coupledtrajectory mixed quantumclassical (CTMQC)
+algorithm3638, which can be viewed as the coupled
+trajectory version of the traditional multitrajectory
+Ehrenfest (MTE) approach21,
+and using the (com
+bined)39 coupledtrajectory Tully surface hopping40,41
+((C)CTTSH), which can be viewed as the coupled
+trajectory version of the traditional Tully surface hop
+ping (TSH)20. We employ as case studies the full
+dimensional linear vibronic coupling (LVC) models4244
+recently developed by Worth and coworkers for the
+molecules 4(dimethylamino)benzonitrile (DMABN) and
+fulvene, which have been proposed by Ibele and Curchod
+as molecular Tully models in Ref. 45. The use of analytical LVC models allows us to fo
+httpsdoi.org10.26434chemrxiv20240jn77 ORCID httpsorcid.org0000000329514964 Content not peerreviewed by ChemRxiv. License CC BY 4.0

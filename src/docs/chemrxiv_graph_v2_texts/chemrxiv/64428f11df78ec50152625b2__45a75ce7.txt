@@ -1,0 +1,19 @@
+Description:
+An SEI component with high mechanical strength and good ion transport properties.
+
+Text:
+Carbonatebased 
+(e.g., ethylene carbonate dimethyl carbonate, ECDMC) electrolytes have achieved 
+great success due to their excellent Li transport property and good stability, which have 
+become the mainstream commercial electrolytes.79 However, the SEI formed with 
+carbonatebased electrolytes is mainly composed of carbonate ionic phase (e.g., lithium 
+carbonate, Li2CO3), organic lithium compounds (e.g., lithium ethylene decarbonate), 
+and other organic species, which usually has poor stability.1012 
+To improve the properties of the electrodeelectrolyte interphases, in particular, 
+the anode surface, a widely used strategy is to add one or multiple electrolyte additives 
+to form stable artificial SEI compositions that could suppress further side reactions 
+between the electrolyte and anode as well as the growth of the notorious lithium 
+dendrites.13, 14 For instance, fluorinated carbonates (e.g., fluoroethylene carbonate, FEC) 
+are widely used as electrolyte additives, which could produce LiF (an SEI component 
+with high mechanical strength and good ion transport properties) on the lithium metal 
+anode surface.1517 While tremendous previous reports have demonstrated that addition

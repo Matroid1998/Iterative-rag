@@ -1,0 +1,24 @@
+Name: Tapi-0
+Text:
+Properties:safety: Acute Toxic
+smiles: C[C@@H](C(=O)N)NC(=O)[C@H](CC1=CC2=CC=CC=C2C=C1)NC(=O)[C@H](CC(C)C)CC(=O)NO
+formula: C24H32N4O5
+chem_properties: Molecular Weight: 456.5 g/mol
+XLogP3: 1.9
+Hydrogen Bond Donor Count: 5
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 11
+Exact Mass: 456.23727013 Da
+Monoisotopic Mass: 456.23727013 Da
+Topological Polar Surface Area: 151
+Heavy Atom Count: 33
+Formal Charge: 0
+Complexity: 698
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 3
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,57 @@
+Description:
+Used in Li-ion batteries, which power most consumer electronics and hybrid-electric vehicles.
+
+Text:
+Today, innovation in battery technologies is urged by widely recognized concerns regarding
+the sustainability of stateoftheart Liion batteries (LIB). Currently, LIBs power most consumer
+electronics in the market and the move towards hybridelectrically powered transportation is posing
+even higher demands for LIBs production. This has caused a sharp raise on the cost of Li raw
+materials and has brought a concern on an accelerated depletion of Li natural sources 1, 2, 3. Due
+to the high abundance of Na on the earth crust and a much lower cost as compared to Li, Naion
+based batteries (SIBs) are deemed to be a suitable candidate to replace LIBs 1, 2, 3. However,
+some intrinsic properties of Na bring some performance limitations to SIBs.
+
+
+---
+
+Description:
+Has a theoretical capacity of 3,829 mAh g1 as an anode.
+
+Text:
+Due to a larger atomic
+weight of Na, the theoretical capacity of a Na anode is smaller (1,165 mAh g1) than that of a Li
+anode (3,829 mAh g1) 3. The standard reduction potential of Na (2.7 V vs. SHE) is higher
+(easier to reduce) than that of Li (3.07 V vs. SHE), which implies a slightly narrower (300 mV)
+working voltage window, and thus an inferior energy density 3. Moreover, the larger size of the
+Naions (1.06 A cation radius) as compared to Li (0.76 A cation radius) requires suitable crystal
+structures that are able to intercalate the larger Naions in a reversible manner 2, 3.
+
+
+---
+
+Description:
+Has a standard reduction potential of 3.07 V vs. SHE.
+
+Text:
+Due to a larger atomic
+weight of Na, the theoretical capacity of a Na anode is smaller (1,165 mAh g1) than that of a Li
+anode (3,829 mAh g1) 3. The standard reduction potential of Na (2.7 V vs. SHE) is higher
+(easier to reduce) than that of Li (3.07 V vs. SHE), which implies a slightly narrower (300 mV)
+working voltage window, and thus an inferior energy density 3. Moreover, the larger size of the
+Naions (1.06 A cation radius) as compared to Li (0.76 A cation radius) requires suitable crystal
+structures that are able to intercalate the larger Naions in a reversible manner 2, 3.
+
+
+---
+
+Description:
+Has a cation radius of 0.76 A.
+
+Text:
+Due to a larger atomic
+weight of Na, the theoretical capacity of a Na anode is smaller (1,165 mAh g1) than that of a Li
+anode (3,829 mAh g1) 3. The standard reduction potential of Na (2.7 V vs. SHE) is higher
+(easier to reduce) than that of Li (3.07 V vs. SHE), which implies a slightly narrower (300 mV)
+working voltage window, and thus an inferior energy density 3. Moreover, the larger size of the
+Naions (1.06 A cation radius) as compared to Li (0.76 A cation radius) requires suitable crystal
+structures that are able to intercalate the larger Naions in a reversible manner 2, 3.

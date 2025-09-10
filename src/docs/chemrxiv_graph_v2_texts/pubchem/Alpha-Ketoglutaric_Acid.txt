@@ -1,0 +1,31 @@
+Name: Alpha-Ketoglutaric Acid
+Text:
+2-oxoglutaric acid is an oxo dicarboxylic acid that consists of glutaric acid bearing an oxo substituent at position 2. It is an intermediate metabolite in Krebs cycle. It has a role as a fundamental metabolite. It is functionally related to a glutaric acid. It is a conjugate acid of a 2-oxoglutarate(1-).
+Oxogluric acid (α-Ketoglutarate) is not approved for any indication in the world but is an investigational drug in the United States. In the United States a phase I clinical trial is investigating whether oxogluric acid precursors found in nutritional supplements can benefit patients with the metabolic disorder propionic acidemia. Oxogluric acid is sold as a dietary supplement to athletes to improve their performance by helping to remove excess ammonia, but it is not officially approved for this indication and only experimental studies have shown a reduction in ammonia by oxogluric acid in hemodialysis patients. Physiologically, oxogluric acid acts in the Krebs cycle as an intermediate, is involved in transamination reactions during the metabolism of amino acids, forms glutamic acid by combining with ammonia, and reduces nitrogen by combining with it as well. Several experimental studies have also shown that administration of oxogluric acid helped attenuate the decreased synthesis of muscle protein that is often seen post-surgery.
+Oxoglutaric acid is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+alpha-Ketoglutarate is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+2-Oxoglutaric acid has been reported in Humulus lupulus, Drosophila melanogaster, and other organisms with data available.
+A family of compounds containing an oxo group with the general structure of 1,5-pentanedioic acid. (From Lehninger, Principles of Biochemistry, 1982, p442)
+See also: Monosodium oxoglurate (annotation moved to).
+Properties:safety: Corrosive and Irritant
+smiles: C(CC(=O)O)C(=O)C(=O)O
+formula: C5H6O5
+chem_properties: Molecular Weight: 146.10 g/mol
+XLogP3: -0.9
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 4
+Exact Mass: 146.02152329 Da
+Monoisotopic Mass: 146.02152329 Da
+Topological Polar Surface Area: 91.7
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 171
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

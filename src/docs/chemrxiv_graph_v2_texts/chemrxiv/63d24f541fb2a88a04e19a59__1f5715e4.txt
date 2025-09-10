@@ -1,0 +1,11 @@
+Description:
+In typeI QDs, the band gap of the core is smaller than that of the shell, localizing charge carriers in the core.
+
+Text:
+According to this alignment in the coreshell QDs, the 
+coreshell structures of interest in this study are classified into four main types typeI (Figure 1B), 
+inverted typeI (Figure 1, C), typeII (Figure 1D) and quasi typeII (Figure 1E).22,23 In typeI QDs, such as 
+InPZnS, the band gap of the core is smaller than that of the shell, and the position of the energy bands 
+of the band gap of the core falls within that of the shell (Figure 1B). This makes the generated charge 
+carriers localized in the core of the typeI QDs and consequently can induce difficult accessibility during 
+the charge transfer process.

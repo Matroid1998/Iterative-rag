@@ -1,0 +1,29 @@
+Description:
+An electron-donating moiety that stabilizes developing positive charges for reactivity and regioselectivity.
+
+Text:
+Allylic CH functionalization reactions have become es
+sential techniques in organic synthesis, facilitating the effi
+cient construction of diverse molecules with wideranging 
+applications.1619 However, achieving site selectivity in in
+ternal alkenes, which possess two or more sets of similar al
+lylic protons, has long been a significant challenge com
+pared to the wellestablished functionalization of alkenes 
+with a single set of allylic protons.2022 Recent progress in 
+this area has largely stemmed from advances leveraging the 
+negative inductive effect of electronwithdrawing groups 
+(EWGs) or the coordinating influence of heteroatoms.2327 
+We have recently developed a siteselective allylic CH 
+functionalization reaction guided by electrondonating 
+B(MIDA) (Nmethyliminodiacetyl boronate) moiety.28 The 
+capability of B(MIDA) to stabilize the developing positive 
+charges at  position was proposed to be key for both reac
+tivity and regioselectivity.29,30 This method was based on 
+Sharplesss pioneering work in 1976 on metalfree allylic C
+H amination of simple alkenes using stoichiometric in situ 
+generated diimidoselenium reagent,3132 and more recently 
+Michaels catalytic version using simple sulfonamides as ni
+trogen sources in combination of a hypervalent iodine oxi
+dant.3335 The latter upgraded protocol has been applied in 
+allylic CH amination of many terpenoids but it still poses 
+challenges for unsymmetrical internal alkenes.

@@ -1,0 +1,16 @@
+Description:
+Used to study protein methylation and breakdown.
+
+Text:
+For example, L13C6,15N4 arginine was used to inves
+tigate autophagy and melanoma growth16. L113C, 15N leucine 
+was used to study the whole body amino acid metabolism.17 Me
+thyl2H313Cmethionine was used to study protein methylation 
+and breakdown18. In these applications, the biological interpreta
+tion of the results dependents on the accurate determination of the 
+isotopic tracer incorporation in the metabolites. It should be noted that the measured mass isotopologue distribu
+tion does not directly indicate the tracer incorporation. This is be
+cause of the natural abundance (NA) of isotopes. For example, the 
+unlabeled metabolite NAD (C21H27N7O14P2) would have 19 be
+ing M1 because of the NA of 13C. Furthermore, 2.8 of unlabeled 
+NAD could be M2 because of the NA of 18O.

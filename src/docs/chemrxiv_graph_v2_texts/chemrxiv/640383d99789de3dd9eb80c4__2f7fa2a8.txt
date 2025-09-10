@@ -1,0 +1,24 @@
+Description:
+A highly reactive probe used to assess cysteine reactivity across the proteome.
+
+Text:
+There has been an exciting revolution in chemical biology to examine the proteomewide reactivity 
+and ligandability of cysteine residues using mass spectrometry proteomics. These studies have served as a 
+starting point for identification of new ligandable protein targets and the development of covalent probes and 
+drugs.25,26 Cysteine reactivity across the proteome is generally assessed by measuring labeling efficiency 
+with a highly reactive iodoacetamide probe.27,28 Cysteine ligandability, on the other hand, is examined by 
+treating the proteome with smallmolecule covalent fragments bearing weaker electrophiles, like 
+chloroacetamide or acrylamide, followed by treatment with an iodoacetamide probe.
+
+
+---
+
+Description:
+Used for labeling specific cysteines to reveal selectivity profiles of fragment electrophiles across the proteome.
+
+Text:
+The loss of 
+iodoacetamide labeling at specific cysteines reveals the selectivity profile of fragment electrophiles across the 
+proteome.29 Cysteine ligandability screens have the potential to simultaneously identify target proteins and 
+lead compounds for covalent probe development. In general, these chemoproteomic efforts are not targeted  instead, they yield large datasets on the 
+ligandability of thousands of cysteine residues.

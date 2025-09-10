@@ -1,0 +1,12 @@
+Description:
+Used in lithium-ion batteries, which involve complex electrochemical reactions.
+
+Text:
+There has been recent interest in applying highthroughput experimentation and
+machine learning to discover electrochemical reactions and predict reaction outcomes,6,7 yet
+the identification of electrochemical reaction pathways and products remains challenging.8
+Electrochemical reaction mechanisms likewise cannot be easily analyzed by experiment,9 in
+part because they are frequently driven by shortlived radical and ionic intermediates.10
+Electrolyte degradation in metalion batteries is an example of a technologically impor
+tant and highly complex electrochemical reaction cascade. In lithiumion batteries (LIBs),
+2

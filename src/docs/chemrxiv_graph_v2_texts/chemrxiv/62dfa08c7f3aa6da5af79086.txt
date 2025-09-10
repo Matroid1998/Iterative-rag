@@ -1,0 +1,22 @@
+Description:
+Commonly used as a substrate in optoelectronic applications.
+
+Text:
+The optoelectronic properties of multinary IIIV semiconductors, their tunable band gap, 
+reliable control of doping concentrations, and the formation of functional heterostructures such 
+as tunnel junctions make them promising candidates for various highperformance device 
+applications, e.g tandem photovoltaic devices, 13 or photoelectrodes.46 Commonly, Ge(100) 
+or GaAs(100) substrates, GaInP, and GaAs buffer layers play key roles in these architectures.
+
+
+---
+
+Description:
+A substrate material used for growing GaInP(100) in semiconductor devices.
+
+Text:
+However, inevitably, the buried interfaces inside IIIV semiconductor devices are not 
+straightforward to characterize with modern surface science methods.10 As a firstofitskind 
+study of the relevant AlInPGaInP (100) interface11,12 we present here an experimental 
+investigation by Tapered CrossSection Photoelectron Spectroscopy (TCSPES) of GaInP(100) 
+grown on Ge(100) and GaAs(100) substrates.

@@ -1,0 +1,26 @@
+Name: Chromium(III) oxide
+Text:
+Dichromium trioxide is a chromium oxide.
+Chromium(III) oxide is an oxide of chromium that occurs in nature as the rare mineral eskolaite. It is commonly used as pigment, under the name viridian, in paints, inks, and glasses. Chromium is a chemical element which has the symbol Cr and atomic number 24. It is found naturally occuring in rocks, animals, plants, and soil, and is usually mined as chromite ore. Chromium is most toxic in its +6 oxidation state (chromium(VI)) due to its greater ability to enter cells and higher redox potential. Trivalent chromium (chromium(III)) however, is biologically necessary for sugar and lipid metabolism in humans. (L17, L523)
+See also: Chromic oxide (annotation moved to); Chromium(III) oxide (Cr2O3) (annotation moved to).
+Properties:safety: Irritant and Health Hazard
+smiles: O=[Cr]O[Cr]=O
+formula: Cr2O3
+chem_properties: Molecular Weight: 151.990 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 151.865753 Da
+Monoisotopic Mass: 151.865753 Da
+Topological Polar Surface Area: 43.4
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 34.2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

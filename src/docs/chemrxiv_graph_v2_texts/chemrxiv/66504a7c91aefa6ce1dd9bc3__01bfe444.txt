@@ -1,0 +1,19 @@
+Description:
+Used as an acceptor in position 7 in certain compounds.
+
+Text:
+For this reason, most TADF emitters based on fluorene are designed 
+to display through space ICT,34,35 whereas DA 2,7substituted fluorene derivatives rarely dis
+play TADF behavior. Noteworthy, examples employing nitrile as acceptor in position 7 and 
+phenoxazine36 or triphenylamine37 in position 2 as donor are not showing TADF emission, 
+but emission from hybridized local and charge transfer (HLCT) states.38 
+C
+N
+N
+S
+C
+N
+N
+S
+1
+2

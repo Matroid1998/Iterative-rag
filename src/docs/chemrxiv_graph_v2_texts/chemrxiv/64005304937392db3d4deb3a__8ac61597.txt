@@ -1,0 +1,17 @@
+Description:
+An intermediate that participates in ATT insertion and intramolecular attacks.
+
+Text:
+This regioselectivity pointed 
+towards a close mechanistic relation to Werners 
+CS2epoxide ROCOP (ESI Figure S1) which led us 
+to propose the reaction mechanism displayed in 
+Figure 1. Starting from a Lithium alkoxide 
+intermediate ATT insertion of PTA generates a 
+Lithium thiocarboxylate TC in propagation step (1). The intermediate TC then selectively attacks at the 
+CH2 position of another epoxide in reaction step 
+(2) which is commonly termed a tail selective 
+attack. This forms a secondary Lithium alkoxide 
+ATE that sits adjacent to a thioester link. The 
+Lithium alkoxide ATE intramolecularly attacks the 
+adjacent thioester group in step (3) to form a

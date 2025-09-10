@@ -1,0 +1,25 @@
+Name: Tungsten carbide
+Text:
+Tungsten carbide is a gray powder. (NTP, 1992)
+See also: tungsten carbide (WC) (annotation moved to).
+Properties:safety: Flammable
+smiles: [C-]#[W+]
+formula: C.W
+chem_properties: Molecular Weight: 195.85 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 195.950933 Da
+Monoisotopic Mass: 195.950933 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 2
+Formal Charge: 0
+Complexity: 10
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

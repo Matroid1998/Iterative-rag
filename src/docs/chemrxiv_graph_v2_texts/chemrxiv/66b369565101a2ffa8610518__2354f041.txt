@@ -1,0 +1,33 @@
+Description:
+Undergo reversible dehalogenation to form epoxides catalyzed by halohydrin dehalogenases.
+
+Text:
+For this reason, protein 
+engineering is often vital to adjust the enantioselectivity of a native enzyme (along with other 
+enzyme characteristics) to fulfill the requirements of an industrial biocatalytic process.69 
+Halohydrin dehalogenases (HHDHs) have gained increasing attention in recent years for their 
+application in the synthesis of a plethora of valuable products.10 Naturally, those enzymes 
+catalyze the reversible dehalogenation of haloalcohols with formation of the corresponding 
+epoxides.11 In the reverse reaction, a range of small C, O, N and Snucleophiles, such as 
+azide, cyanide, nitrite, cyanate and thiocyanate (known as pseudohalogens), are also accepted 
+for epoxide ring opening in addition to halide ions (Figure 1A).12 This enabled the preparation 
+of enantioenriched nitroalcohols,13 cyanohydrins,14 oxazolidinones15 and thiiranes16 
+amongst others,1720 fueled by the recent discovery of many new HHDHs from public sequence 
+databases.13,2124 In most of these cases, however, protein engineering of the initially identified 
+enzymes with highest activity was still necessary to achieve also high enantioselectivity.
+
+
+---
+
+Description:
+Naturally occurring compounds that are presumably detoxified and degraded by native HHDHs.
+
+Text:
+Apart 
+from a few examples,13,2529 most native HHDHs do not display high enantioselectivity as this 
+would contradict their assumed natural function, which is presumably the detoxification and 
+degradation of (naturally occurring) haloalcohols.30,31 
+Many examples for the protein engineering of selected HHDHs, such as HheC from 
+Agrobacterium radiobacter AD1, have been reported in literature that do not only focus on 
+enantioselectivity but also on activity and stability.3239 Of these examples, the majority profited 
+from the previously solved crystal structures of respective enzymes.

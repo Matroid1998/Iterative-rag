@@ -1,0 +1,12 @@
+Description:
+Serves as a catalyst for CO oxidation, with enhanced reaction rates under pulsed heating.
+
+Text:
+In contrast, operation under nonsteady state conditions, by rapid variation of temperature, 
+can lead to higher reactor output, higher energy efficiency, and differences in product selectivity, which 
+has been theoretically examined for more than 50 years,2,3 and more recently experimentally 
+demonstrated.48 The idea behind such pulsed mode of operation is that the catalyst surface is rapidly 
+switched from low temperature to high temperature, thereby performing catalysis with a high rate and 
+with surface coverages that are ordinarily not associated with steadystate high temperatures. So far, pulsed heating has been implemented using electrical microreactors with a thermal modulation 
+longer than 25 s,46 resulting in reaction rates for CO oxidation on Pt 40 times higher than under steady
+state heating at the same average power.

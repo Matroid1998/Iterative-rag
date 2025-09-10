@@ -1,0 +1,28 @@
+Name: Vanillyl alcohol
+Text:
+Vanillyl alcohol is a monomethoxybenzene that is 2-methoxyphenol substituted by a hydroxymethyl group at position 4. It has a role as a plant metabolite. It is a member of guaiacols and a member of benzyl alcohols.
+Vanillyl alcohol has been used in trials studying the treatment of Smoking.
+Vanillyl alcohol has been reported in Populus euphratica, Capsicum annuum, and other organisms with data available.
+VANILLYL ALCOHOL is a small molecule drug with a maximum clinical trial phase of II and has 1 investigational indication.
+Properties:safety: Irritant
+smiles: COC1=C(C=CC(=C1)CO)O
+formula: C8H10O3
+chem_properties: Molecular Weight: 154.16 g/mol
+XLogP3: 0
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 2
+Exact Mass: 154.062994177 Da
+Monoisotopic Mass: 154.062994177 Da
+Topological Polar Surface Area: 49.7
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 116
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

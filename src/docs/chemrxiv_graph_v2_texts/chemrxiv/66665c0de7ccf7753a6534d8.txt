@@ -1,0 +1,21 @@
+Description:
+Tetrahedral Zn metal centers can act as pivoting points, resulting in unique mechanical properties in contrast to zeolites.
+
+Text:
+Kirigami, an extended version of origami allowing cuts, has moved beyond its conventional 
+usages as craft activities.1 Recently the kirigamic design principles have extended to 
+mechanical engineering,2 making it possible to create highly deformable 3D structures with 
+mechanical functionalities.35 These structural features have led to the advances in 
+programmable mechanical metamaterials69 applicable to electronicsfree robots,10 pressure 
+sensors,11 antennas,12 electronic devices,13 and metasurfaces.14 Kirigami tessellations, 
+composed of embedded patterns are the key features for these recent applications, as 
+exemplified by a twodimensional (2D) molecular framework based on an origami tessellation 
+(Figure 1A, Table S1).1523 Despite the advent of various foldable materials, however, 
+developing 3D folding solidstate structures remains an important challenge at the nano and 
+molecular scale.24 
+To create a solidstate kirigami, we envisioned that ZIFs,2527 a subclass of metalorganic 
+frameworks (MOFs) with zeolitic topologies, are an ideal platform, due to their highly 
+deformable nature under various stimuli.28 Notably, tetrahedral Zn metal centers can act as 
+pivoting points, resulting in unique mechanical properties in contrast to zeolites.2932 
+Here, we report a kirigamic characteristics of gisZIF1,29 composed of 4membered rings 
+(4MRs) acting as rigid tiles.

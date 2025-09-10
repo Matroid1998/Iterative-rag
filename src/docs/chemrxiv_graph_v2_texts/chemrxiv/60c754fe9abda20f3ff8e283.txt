@@ -1,0 +1,13 @@
+Description:
+Toxic molecules used primarily as pesticides and nerve agents.
+
+Text:
+Organophosphorus hydrolase (OPH) is a bacterial enzyme that can detoxify a wide range of organophos
+phorus (OP) agents by hydrolyzing various phosphorusester bonds (PO, PF, PCN, and PS). OP com
+pounds are toxic molecules used primarily as pesticides and nerve agents. OP compounds cause severe
+neurotoxic eects by covalently binding to acetylcholinesterase (AChE), an enzyme that catalyzes the
+breakdown of neurotransmitters such as acetylcholine. Binding by OP inhibits AchE, resulting in accu
+mulation of neurotransmitter and rapid death in insects and humans due to lost control of respiratory
+muscles (Petroianu 2010). Current medical countermeasures, including atropine and oximebased re
+activators (Lotti 2010) that target the downstream pathways of OP, act through reactivation of AChE,
+blocking acetylcholine receptor activity or simply easing the symptoms.

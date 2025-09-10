@@ -1,0 +1,11 @@
+Description:
+Used in lithium-ion batteries as a dominant power source for portable electronics and automotive applications.
+
+Text:
+Lithiumion batteries (LIBs) have become the dominant power source for portable electronics 
+and automotive applications.1 The depletion of lithium resources worldwide necessitates the 
+exploration of alternative electroactive species that can be extracted from cheap and abundant 
+raw materials to establish a sustainable and economically viable new chain in energy storage. Therefore, there has been a growing interest in postLi batteries based on Na, K, Ca2, and 
+Zn2 cation shuttles as viable alternatives to LIBs.2,3 However, developing alternative battery 
+systems with long cycle life and low cost, without sacrificing energy density, remains a 
+challenge.

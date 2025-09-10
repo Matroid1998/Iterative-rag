@@ -1,0 +1,17 @@
+Description:
+A tool probe developed for selective profiling of carboxylic acid residues in live cells.
+
+Text:
+Our 
+group recently developed a 3phenyl2Hazirine and a coupling 
+reagent, ynamide, as tool probes for the selective profiling of 
+carboxylic acid residues in live cells12,13, and found that the 
+ynamidebased kinase probes can covalently target a conserved 
+glutamic acid in the ATP binding pocket of EGFR L858R mutant.13 
+In this study, we further developed a new approach for exploration 
+of covalently targetable lysine residues of kinases from live cells, 
+and applied this method in natural products for profiling conserved 
+lysine residues. These might be useful information for the 
+development of new types of targeted covalent inhibitors. Covalent chemistry integrated with chemical proteomics has 
+been a powerful approach to the investigation of small molecule
+protein interactions under in situ conditions14.

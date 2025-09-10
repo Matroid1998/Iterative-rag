@@ -1,0 +1,12 @@
+Description:
+Used as an electrolyte in Phosphoric Acid Fuel Cells (PAFC).
+
+Text:
+Many electrochemical conversion and storage technologies such as Liion and solidstate batteries, fuel 
+cells and capacitors are being heavily investigated to decarbonise our environment18. Fuel cells is one 
+of the promising technologies and depending on the nature of the electrolyte used in the fuel cell there 
+are various types of fuel cells Solid Oxide Fuel Cell (SOFC), Molten Carbonate Fuel Cell (MCFC), 
+Polymer Electrolyte (Proton Exchange) Membrane Fuel Cell (PEMFC), Phosphoric Acid Fuel Cell 
+(PAFC), Direct Methanol Fuel Cell (DMFC) and Alkaline Fuel Cells (AFC). Broadly these fuel cell 
+types can also be classified as hightemperature devices, such as SOFC and MCFC, and lowtemperature 
+devices such as PEMFC, PAFC, DMFC and AFC.

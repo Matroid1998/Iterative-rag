@@ -1,0 +1,28 @@
+Description:
+A gaseous element that dissolves in water, contributing to dissolved oxygen levels.
+
+Text:
+Dissolved Oxygen (DO) refers to the amount of gaseous oxygen that a water system contains. DO arises 
+primarily from two main processes photosynthesis and diffusion from the atmosphere. Agitated 
+water systems will dissolve more oxygen through diffusion, therefore flowing and tidal water systems 
+are expected to have higher DO concentrations than stagnant or quiescent waters.1 Many 
+environmental factors influence how much DO water can contain. Temperature, salinity, and altitude 
+are just some of the natural factors that can limit the DO concentration. Dramatic and unexpected 
+decreases in DO concentration typically result from contamination of the water source. The most 
+common contaminants are bacteria and organic matter.
+
+
+---
+
+Description:
+Quenches the luminescence of certain molecules, allowing for quantitative measurement in optical DO sensors.
+
+Text:
+Current approaches to 
+DO sensing are based on optical or electrochemical detection mechanisms, both of which can be 
+undertaken at a pointofinterest. Optical based DO sensors typically operate by measurement of the 
+luminescence response of a molecule in the presence of oxygen, where oxygen typically quenches the 
+luminescence. Higher concentrations of oxygen mean less luminescence, so a quantitative measure 
+can be obtained.4 The luminescent species, typically an organic molecule, is provided as part of the 
+overall device, simplifying the analysis. A drawback, however, is that luminescent species needs to be 
+httpsdoi.org10.26434chemrxiv2024v691w ORCID httpsorcid.org0000000275541536 Content not peerreviewed by ChemRxiv. License CC BY 4.0

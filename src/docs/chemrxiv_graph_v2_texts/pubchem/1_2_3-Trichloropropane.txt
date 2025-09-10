@@ -1,0 +1,29 @@
+Name: 1,2,3-Trichloropropane
+Text:
+1,2,3-Trichloropropane is a synthetic chemical that is also known as allyl trichloride, glycerol trichlorohydrin, and trichlorohydrin. It is a colorless, heavy liquid with a sweet but strong odor. It evaporates very quickly and small amounts dissolve in water. It is mainly used to make other chemicals. Some of it is also used as an industrial solvent, paint and varnish remover, and cleaning and degreasing agent. Very little information is available on the amounts manufactured and the specific uses.
+1,2,3-Trichloropropane can cause cancer according to The National Toxicology Program.
+1,2,3-trichloropropane is a colorless liquid with a strong acid odor. Denser than water and slightly soluble in water. Hence sinks in water. (USCG, 1999)
+1,2,3-Trichloropropane is an organochlorine compound.
+1,2,3-Trichloropropane is a synthetic, colorless to light yellow liquid that is soluble in polar organic solvents and only slightly soluble in water. 1,2,3-Trichloropropane is used as both a chemical intermediate and cross-linking agent in the production of polymers. 1,2,3-Trichloropropane is flammable and, when heated to decomposition, emits toxic fumes of hydrogen chloride. Exposure of humans to 1,2,3-trichloropropane vapor causes irritation of the eyes and throat. It is reasonably anticipated to be a human carcinogen. (NCI05)
+Properties:safety: Irritant and Health Hazard
+smiles: C(C(CCl)Cl)Cl
+formula: C3H5Cl3
+chem_properties: Molecular Weight: 147.43 g/mol
+XLogP3: 1.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 2
+Exact Mass: 145.945683 Da
+Monoisotopic Mass: 145.945683 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 25.2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,17 @@
+Description:
+Generated offstoichiometry within a thermal redox cycle, beneficial for decarbonization efforts.
+
+Text:
+These materials1114 oper
+ate by generating oxygen offstoichiometry within a ther
+mal redox cycle (i.e., require only heat and no renew
+able electricity consumption), which could prove bene
+ficial for future decarbonization efforts. However, ac
+curately predicting, identifying, modeling, and exper
+imentally validating potential TCH materials is diffi
+cult. Firstprinciples density functional theory calcula
+tions (DFT) of defect thermodynamics and host stabil
+ity typically inform materials discovery and selection 15
+17, but only via 0 K calculations due to the prohibitively
+large computational cost of highthroughput screening
+based on finitetemperature simulations.

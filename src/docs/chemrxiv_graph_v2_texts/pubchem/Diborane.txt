@@ -1,0 +1,25 @@
+Name: Diborane
+Text:
+Diborane is a colorless gas at room temperature with a repulsive, sweet odor. It mixes well with air and easily forms explosive mixtures. Diborane will ignite spontaneously in moist air at room temperature. Diborane is used in rocket propellants, as a reducing agent, as a rubber vulcanizer, as a catalyst for hydrocarbon polymerization, as a flame-speed accelerator, and as a doping agent. It is also used in electronics to impart electrical properties in pure crystals.
+Diborane is a colorless gas with an offensive odor. It is toxic by inhalation. Diborane is decomposed by water giving off hydrogen, another flammable gas and boric acid a non-regulated material. Its vapors are heavier than air. Long term exposure to low concentrations or short term exposure to high concentrations can result in adverse health effects from inhalation. It is used in electronics.   Rate of onset: Immediate  Persistence: Minutes to hours  Odor threshold: 2.5 ppm  Source/use/other hazard: Intermediate chemical manufacturing; very flammable.
+Properties:safety: Flammable and Compressed Gas and Acute Toxic
+smiles: B.B
+formula: B2H6
+chem_properties: Molecular Weight: 27.67 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 28.0655605 Da
+Monoisotopic Mass: 28.0655605 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 2
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

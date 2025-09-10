@@ -1,0 +1,18 @@
+Description:
+A gas that can be selectively adsorbed by materials for capture applications.
+
+Text:
+For CO2 capture applications, an ideal MOF will exhibit
+structural stability, be robust to thermal fluctuations and con
+taminant molecules, and display high species selectivity for
+CO2. In the directair capture (DAC) of CO2, where con
+centrations are around 400ppm10, selectively adsorbing only
+a)These two authors contributed equally
+CO2 is critical for deployable systems. There are numerous
+different mechanisms for tuning a material to be highly se
+lective for CO211, including gating of the kinetic diameter12,
+geometry gating13, and aminefunctionalization14. The latter
+approach is the focus of this paper. In this situation, an envi
+ronment exists that selectively allows the adsorption of CO2
+via a chemical bond1518, socalled chemisorption. Amine functionalization refers to the attachment of amines
+to the open metal sites of the MOF.

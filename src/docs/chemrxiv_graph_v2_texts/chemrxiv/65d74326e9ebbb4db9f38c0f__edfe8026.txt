@@ -1,0 +1,11 @@
+Description:
+Monomers used in conventional inks for two-photon laser 3D printing.
+
+Text:
+Inside 
+of this voxel, the laser intensity is suciently high to start curing of the ink locally, what allows for the 
+creaon of intricate 3D structures when scanning it within the ink. Convenonal inks for twophoton 
+laser 3D prinng are composed of a mixture of (meth)acrylate monomers and crosslinkers, a 
+photoiniang system as well as other addives.11,13,14 
+Most of these components are usually derived from petrochemicals contribung to the rapid depleon 
+of fossil fuels and greenhouse gas emissions.

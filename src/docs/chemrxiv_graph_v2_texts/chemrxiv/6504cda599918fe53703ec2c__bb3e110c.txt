@@ -1,0 +1,18 @@
+Description:
+A solvent used in the investigation of halogenation reactivity.
+
+Text:
+Investigation of substituent effect on halogenation reactivityc
+3X
+6, MeCN (0.15 M) 52
+7, MeCN (0.15 M) 79
+Ar
+O
+N
+X
+OAc
+X  Cl (6), X  Br (7)
+(Ar  pNO2Ph)
+(23 conditions screened,
+see SI for details)
+httpsdoi.org10.26434chemrxiv2023z15zd ORCID httpsorcid.org000900072824361X Content not peerreviewed by ChemRxiv. License CC BY 4.0

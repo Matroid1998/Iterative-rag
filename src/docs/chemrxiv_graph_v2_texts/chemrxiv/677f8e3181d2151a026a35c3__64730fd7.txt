@@ -1,0 +1,13 @@
+Description:
+Used to evaluate molecular probe sensitivity through changes in luminescence intensity and lifetime.
+
+Text:
+This 
+reversible photophysical process involves a collisional deactivation of the chromophore triplet excited state by 
+dioxygen in its fundamental triplet state (3).6 This process may lead to the formation of singlet oxygen (1), 
+which is detectable through its characteristic luminescence emission or by using a scavenger. The high 
+cytotoxicity of these species is instrumental in the development of photodynamic therapy (PDT) applications.7, 
+8 In addition, the decrease of luminescence intensity and lifetime provides measurable parameters for dioxygen 
+detection. Consequently, the (I0I) and (0) ratios, where I0 and I (respectively, 0 and ) are the luminescence 
+intensities (respectively, lifetimes) in the absence and in the presence of O2, can conveniently provide an 
+evaluation of molecular probe sensitivity.

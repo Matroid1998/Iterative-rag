@@ -1,0 +1,17 @@
+Description:
+A model polymer system made of short chains in water.
+
+Text:
+NMRD
+has also been successfully used to investigate the surface
+reorientational dynamics of fluids nanoconfined in high
+surfacearea microporous materials 21, 24, 25, and is
+commonly used to study heterogeneous catalytic mate
+rials 26 and biomolecules such as proteins 27. When
+combined with rheology, NMRD can even provide access
+to the response of polymer systems under shear 28. In this article, we evaluate the relevance of generic
+CG models for the determination of the NMR relaxation
+rate R1 for protons of spin quantum number I  12,
+for which the primary relaxation mechanism is dipole
+dipole interaction. To do so, a model polymer system
+made of short PEG chains in water is used.

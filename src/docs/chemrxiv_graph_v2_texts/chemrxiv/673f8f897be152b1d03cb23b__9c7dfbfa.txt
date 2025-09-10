@@ -1,0 +1,18 @@
+Description:
+An element used to substitute Se in Ag3AuSe2 to tune band gaps.
+
+Text:
+In this study, we explore band gap tuning by chemical
+substitution of Se2with larger Te2anions in Ag3AuSe2
+to expand the unit cell. We investigated the synthesis
+of Ag3Au(Se1xTex)2 with x from 0 to 1 and examined
+their electrical and optical properties experimentally. II. METHODS
+Ag3Au(Se1xTex)2 alloys with the tellurium fraction
+x  0, 0.1, 0.25, 0.4, 0.5, 0.6, 0.75, 0.9, and 1 were syn
+thesized from elemental powders of Ag (99.9 metals
+basis), Au (99.98 metals basis), Se (99.9999 metals
+basis) and Te (99.8 metals basis). Powders were mixed
+together in respective stoichiometric ratios and sealed in
+evacuated silica ampules. Sealed ampules were annealed
+at 800 C for 24 hours, followed by a slow cooling to room
+temperature over 24 hours.

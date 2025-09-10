@@ -1,0 +1,13 @@
+Description:
+Catalyzes Buchwald-Hartwig cross-coupling reactions.
+
+Text:
+Despite this,
+there are very few publicly available and easily operable datasets of chemical reactions with
+associated yields (Table S1). One of those few public datasets is the United State Patent
+and Trademark Office (USPTO) dataset,8 that covers a wide range of chemical reactions
+extracted from patents. USPTO data is extremely diverse and suffers from a selection bias
+as only successful reactions tend to be reported in patents. ML has shown poor performance
+predicting yields on this dataset (R2  0.2)7. In addition, two sets of High Throughput
+Experimentation (HTE) data, one of a SuzukiMiyaura coupling,9 and one of a palladium
+catalyzed BuchwaldHartwig crosscoupling,10 are available in the literature.

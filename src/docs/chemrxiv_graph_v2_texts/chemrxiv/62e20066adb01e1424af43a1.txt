@@ -1,0 +1,16 @@
+Description:
+Used as an electroactive filler in conductive biomaterials for bioelectronics.
+
+Text:
+Recent advancements in bioelectronics have offered soft, tunable, biocompatible, and electroactive 
+organic materials to interface living organisms with electronic devices.15 Such biomaterials have 
+found utility within scaffolds for tissue engineering and regenerative medicine,68 where a 
+combination of active (mixed ionic and electronic charge transport) and passive (surface 
+chemistry, morphology, mechanics) properties can restore, maintain, or improve tissue function.9 
+Conductive biomaterials are generally designed through the incorporation of an electroactive filler 
+(conjugated polymer, carbon nanotube, metal nanowire) into an insulating biocompatible polymer 
+matrix.1011 Conjugated polymers (CPs) have been used to great effect in bioelectronics and tissue 
+engineering in particular due to their biocompatibility, possibility of unique form factors, and 
+chemically tunable structures for the promotion of mixed conduction.9, 1215 For successful 
+application within a bioelectronic technology, CPs with aqueous solubility, sites for covalent 
+modification, electroactivity, and biocompatibility are generally required.

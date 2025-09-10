@@ -1,0 +1,14 @@
+Description:
+Subject to computed excitation energies and oscillator strengths of vertical electronic transitions.
+
+Text:
+Computed excitation energies and oscillator strengths of vertical electronic tran
+sitions of Ada 17, 2628 and AdaCN 16 were reported in the literature. Be
+sides vertical excitations, vibrationally resolved absorption 28, 29 and photoelec
+tron 12,29,30 spectra of Ada and Ada, respectively, were also calculated. For Ada
+CN, Crandall et al. 16 calculated a vibrationallyresolved spectrum for a selected
+band (D0 D11). We note that the absence of vibrationally resolved spectra for
+other bands is caused by unsuccessful excitedstate optimizations of cationic diamon
+doinds when using timedependent density functional theory 16,17,28,29. Recently,
+2
+httpsdoi.org10.26434chemrxiv2024wb8xd ORCID httpsorcid.org0000000217321826 Content not peerreviewed by ChemRxiv. License CC BY 4.0

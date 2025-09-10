@@ -1,0 +1,19 @@
+Description:
+A type III RIPK1 inhibitor that primarily targets an allosteric site.
+
+Text:
+To our knowledge, three groups have independently reported 
+the development of RIPK1 PROTACs in 2024 (Figure 1A).21
+23 Compounds R1ICR5 and LD4172 are based on type II 
+RIPK1 inhibitors, which bind to the inactive kinase confor
+mation. These compounds demonstrated in vivo efficacy in 
+syngeneic mouse models when combined with antiPD1 ther
+apy andor XRT. R1ICR5 was delivered through intratumor
+al injection, while LD4172 was administered via intraperito
+neal (i.p.) injection. In contrast, compound MS2031 is based 
+on a type III RIPK1 inhibitor, primarily targeting an allosteric 
+site. These reports highlight the growing interest in developing 
+effective PROTACbased therapies for RIPK1associated dis
+eases. However, the in vivo efficacy of compounds R1ICR5 
+and LD4172 was demonstrated only in murine tumor models 
+within syngeneic mouse systems.

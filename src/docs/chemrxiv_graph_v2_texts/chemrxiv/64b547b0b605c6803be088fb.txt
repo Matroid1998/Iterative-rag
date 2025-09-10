@@ -1,0 +1,15 @@
+Description:
+A pollutant that can increase the risk of respiratory diseases, lung cancer, and stroke.
+
+Text:
+Ambient air pollution is recognized by the World Health Organi
+zation (WHO) as a major environmental risk to health 1. Exposure to
+pollutants such as carbon monoxide (CO), nitrogen dioxide (NO2), and
+sulfur dioxide (SO2) can increase the risk of respiratory diseases, lung
+cancer, and stroke. Despite this, in 2019, 99 of the worlds population
+lived in areas where the WHO air quality guidelines were not met 2. However, the main cause of air pollutants is the combustion of fuels in
+the transportation and industrial sectors, which makes emissions preva
+lent and difficult to eliminate. This, combined with industrialization
+and new environmental policies, drives the demand for sensor integra
+tion in embedded systems and networks such as the Internet of Things
+(IoT).

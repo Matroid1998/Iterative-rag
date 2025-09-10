@@ -1,0 +1,25 @@
+Name: 3'H-Cyclopropa[1,9] [5,6]fullerene-C60-Ih-3'-butanoic acid 3'-phenyl methyl ester
+Text:
+See also:  ... View More ...
+Properties:safety: Irritant
+smiles: COC(=O)CCCC1(C23C14C5=C6C7=C8C5=C9C1=C5C%10=C%11C%12=C%13C%10=C%10C1=C8C1=C%10C8=C%10C%14=C%15C%16=C%17C(=C%12C%12=C%17C%17=C%18C%16=C%16C%15=C%15C%10=C1C7=C%15C1=C%16C(=C%18C7=C2C2=C%10C(=C5C9=C42)C%11=C%12C%10=C%177)C3=C16)C%14=C%138)C1=CC=CC=C1
+formula: C72H14O2
+chem_properties: Molecular Weight: 910.9 g/mol
+XLogP3: 18.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 6
+Exact Mass: 910.099379685 Da
+Monoisotopic Mass: 910.099379685 Da
+Topological Polar Surface Area: 26.3
+Heavy Atom Count: 74
+Formal Charge: 0
+Complexity: 4190
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 2
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

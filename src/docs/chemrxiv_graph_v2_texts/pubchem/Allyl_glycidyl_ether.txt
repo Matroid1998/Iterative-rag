@@ -1,0 +1,25 @@
+Name: Allyl glycidyl ether
+Text:
+Allyl glycidyl ether appears as a colorless liquid with a pleasant odor. Slightly less dense than water and insoluble in water. Hence floats on water. Poisonous by ingestion and mildly toxic by inhalation and skin contact. Very irritating to skin and eyes. Used to make other chemicals.
+Properties:safety: Flammable and Corrosive and Irritant and Health Hazard
+smiles: C=CCOCC1CO1
+formula: C6H10O2
+chem_properties: Molecular Weight: 114.14 g/mol
+XLogP3: 0.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 4
+Exact Mass: 114.068079557 Da
+Monoisotopic Mass: 114.068079557 Da
+Topological Polar Surface Area: 21.8
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 80.6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

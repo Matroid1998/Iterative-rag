@@ -1,0 +1,18 @@
+Description:
+Used in thermodynamic modeling for thermochemical hydrogen production.
+
+Text:
+Nonetheless, these criteria are largely dependent on hu
+pguansandia.gov
+man intuition, and a lack of quantitative and systematic
+procedures to do so has hampered progress in this field. In this work, an approach based on the least abso
+lute shrinkage and selection operator (LASSO) 9, 10
+is proposed for quantitative CALPHAD model selection. LASSO is a regression technique that performs both vari
+able selection and regularization in order to enhance the
+prediction accuracy and interpretability of the resulting
+model. The LASSO method assumes that the coefficients
+of the linear model are sparse, meaning that few of them
+are nonzero, which is consistent with the criteria for
+CALPHAD model selection. We specifically demonstrate its utility for thermody
+namic modeling of metal oxides for thermochemical hy
+drogen (TCH) production.

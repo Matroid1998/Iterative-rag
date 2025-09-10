@@ -1,0 +1,33 @@
+Description:
+Substances of environmental concern due to their recalcitrance to degradation.
+
+Text:
+For neutral organic compounds, the 
+octanolwater partition coefficient (Kow) has been considered as 
+a scale of solute hydrophobicity because Kow correlates well with 
+various relevant partition coefficients, including soilsediment 
+organic carbonwater (Koc) and biological phospholipid 
+membranewater (Klipw) partition coefficients on the loglog 
+scale, particularly when only a specific set of compounds with 
+similar 
+interaction 
+properties 
+(e.g., 
+nonpolar 
+aromatic 
+compounds) are considered.14 For this reason, Kow is accepted 
+or being introduced as chemical assessment criterion to account 
+for the environmental mobility and bioaccumulation potential of 
+chemicals in regulations such as the EU CLP and REACH 
+regulations and the Stockholm Convention.58 However, for ionic 
+compounds, i.e., compounds carrying one or more charges, the 
+equilibrium concentration ratio between octanol and water 
+highly depends on the coexisting electrolyte concentrations, and 
+thus the Kow of ionic compounds cannot be defined in isolation 
+from the experimental conditions.9,10 Moreover, even if Kow at a 
+specific condition is chosen as a reference, the bulk partition of 
+ionic compounds between octanol and water may not represent 
+their actual environmental and biological partition mechanisms 
+and thus such Kow does not serve as a useful metric.11,12 
+Per and polyfluoroalkyl substances (PFAS) have been of high 
+environmental concern due to their recalcitrance to degradation.

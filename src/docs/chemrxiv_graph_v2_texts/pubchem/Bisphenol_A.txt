@@ -1,0 +1,34 @@
+Name: Bisphenol A
+Text:
+Bisphenol A (BPA) can cause developmental toxicity according to The National Toxicology Program's Center for the Evaluation of Risks to Human Reproduction. It can cause female reproductive toxicity according to an independent committee of scientific and health experts.
+4,4'-isopropylidenediphenol appears as white to light brown flakes or powder. Has a weak medicine odor. Sinks in water. (USCG, 1999)
+Bisphenol A is a bisphenol that is 4,4'-methanediyldiphenol in which the methylene hydrogens are replaced by two methyl groups. It has a role as a xenoestrogen, an environmental contaminant, a xenobiotic and an endocrine disruptor.
+Bisphenol A is a diphenylmethane derivative with two hydroxyphenyl groups. Bisphenol A (BPA) is a colorless solid that is used in the synthesis of commercial plastics, including polycarbonates and epoxy resins, which are incorporated into a wide variety of consumer goods. Ingested BPA may exhibit estrogenic effects. Exposure to BPA may increase the risk of certain cancers.
+Bisphenol A, commonly abbreviated as BPA, is an organic compound with two phenol functional groups. It is a difunctional building block of several important plastics and plastic additives. With an annual production of 2-3 million metric tonnes, it is an important monomer in the production of polycarbonate. It is a potential food contaminant arising from its use in reusable polycarbonate food containers such as water carboys, baby bottles and kitchen utensils.
+
+
+
+Suspected of being hazardous to humans since the 1930s, concerns about the use of bisphenol A in consumer products were regularly reported in the news media in 2008 after several governments issued reports questioning its safety, and some retailers removed baby bottles and other children's products made from it from their shelves.
+See also: Anoxomer (monomer of); Polycarbonate (annotation moved to).
+Properties:safety: Corrosive and Irritant and Health Hazard and Environmental Hazard
+smiles: CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O
+formula: C15H16O2
+chem_properties: Molecular Weight: 228.29 g/mol
+XLogP3: 3.3
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 2
+Exact Mass: 228.115029749 Da
+Monoisotopic Mass: 228.115029749 Da
+Topological Polar Surface Area: 40.5
+Heavy Atom Count: 17
+Formal Charge: 0
+Complexity: 209
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

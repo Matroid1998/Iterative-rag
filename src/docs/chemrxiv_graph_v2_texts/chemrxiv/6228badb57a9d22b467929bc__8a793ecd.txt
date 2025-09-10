@@ -1,0 +1,11 @@
+Description:
+Used as a mediator to perform one-electron oxidation.
+
+Text:
+For example, Ye and coworkers recently demonstrated us
+ing 2,2,6,6tetramethylpiperidinooxy (TEMPO) as a media
+tor to perform oneelectron oxidation of I to III, providing 
+access to amino radicals after deprotonation of III for 
+radicalradical crosscoupling reaction (Figure 1B).9 How
+ever, finding a suitable mediator to achieve desired redox 
+transformations remains a challenge.

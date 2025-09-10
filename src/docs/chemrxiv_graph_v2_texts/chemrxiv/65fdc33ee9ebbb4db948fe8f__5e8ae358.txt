@@ -1,0 +1,9 @@
+Description:
+A material with high Young's modulus and Seebeck coefficient.
+
+Text:
+Twodimensional transition metal dichalcogenides (2D TMDs) are fundamentally fascinating 
+and chemically versatile materials for a variety of applications.1,2 Among various TMDs, 
+molybdenum disulfide (MoS2) has been intensively investigated due to its extraordinary 
+intrinsic properties such as high optical absorption, active catalytic sites, high Youngs 
+modulus and Seebeck coefficient.

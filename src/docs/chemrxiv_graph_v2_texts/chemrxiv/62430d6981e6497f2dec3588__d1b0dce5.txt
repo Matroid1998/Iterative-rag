@@ -1,0 +1,19 @@
+Description:
+Long-wavelength dyes that can have their bridging oxygen atom replaced with a dimethylsilyl group to lower the LUMO.
+
+Text:
+3 
+INTRODUCTION 
+Siloles have long been known to exhibit redshifted fluorescence properties compared to their 
+analogous siliconfree heterocycles due to conjugation between the Si s orbitals and the p 
+orbitals of the chromophore.1 However, it wasnt until 2008 that this LUMOlowering effect was 
+shown to apply to longwavelength xanthene dyes by replacing the bridging oxygen atom with a 
+dimethylsilyl group.2 Sirhodamine dyes have been widely studied and optimized ever since,315 
+and the effect of this modification has recently been shown to extend to other classes of nearIR 
+dye scaffolds.16,17 Despite this intense interest, and the extension of the bridgesubstitution strategy 
+to other elements,3,1822 virtually all Sidyes reported thus far have been confined to dimethyl silyl 
+substitution.23 The lone counterexample among Sirhodamines of which we are aware is the work 
+of the Stains lab, who constructed a silanolbased sensor that undergoes oxidization to the 
+corresponding rhodamine.19 Belying the nearly exclusive reliance on dimethyl silyl bridging 
+groups amongst longwavelength Sidyes, a number of silyl substitutions are known within silole 
+optical materials.1,2426

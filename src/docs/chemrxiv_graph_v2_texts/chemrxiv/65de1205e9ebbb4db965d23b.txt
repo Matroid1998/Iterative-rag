@@ -1,0 +1,17 @@
+Description:
+An isotope of hydrogen used in NMR for isotopic labeling and studying dynamic processes.
+
+Text:
+Deuterium 
+(2H) NMR is particularly useful, since it is straightforward 
+and inexpensive to introduce 2H isotopic labels using deu
+terated solvents, and the 2H NMR parameters and spectra 
+are affected by dynamic processes on a broad range of 
+timescales.6,7 Dynamics on a similar rate to the width of 2H 
+NMR spectra (10100s kHz) results in changes to the 2H 
+NMR spectrum lineshape, which can potentially distin
+guish between alternative motional models, while spin
+lattice (T1) relaxation times are sensitive for faster dynam
+ics (on the order of the 2H NMR frequency, typically 100s 
+MHz). The NMR data cannot, however, be directly invert
+ed to obtain the molecular motions involved.
