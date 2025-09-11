@@ -13,6 +13,8 @@ class RetrieveText:
     # Match your TextRetriever signature for easy pass-through:
     where: Optional[Dict[str, Any]] = None
     where_document: Optional[Dict[str, Any]] = None
+    # New: model-suggested partial answer hypothesis for this step
+    partial_answer: Optional[str] = None
 
 @dataclass(frozen=True)
 class RetrieveKG:
@@ -47,6 +49,7 @@ def action_from_dict(d: Dict[str, Any]) -> Action:
             k=int(d.get("k", 8)),
             where=d.get("where"),
             where_document=d.get("where_document"),
+            partial_answer=(d.get("partial_answer") if isinstance(d.get("partial_answer"), str) else None),
         )
     if kind == "retrieve_kg":
         return RetrieveKG(
