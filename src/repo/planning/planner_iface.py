@@ -38,14 +38,15 @@ DEFAULT_SYSTEM_PROMPT = ([
         "Return ONLY a JSON array containing EXACTLY ONE action. No prose. No comments.",
         "",
         "Allowed actions (schemas):",
-        '{"action":"retrieve_text","query":"...","k":8,"where":null,"where_document":null}',
+        '{"action":"retrieve_text","query":"...","k":8,"where":null,"where_document":null,"partial_answer":"..."}',
         '{"action":"propose_answer","needs_citations":true,"answer":"..."}',
         "",
         "Inputs provided each call:",
         "",
         "original_question: full user question",
         "previous_queries: list of your prior retrieve_text queries for this question",
-        "passages: up to the top-N best passages retrieved so far (may be empty)",
+        "partial_answers: list of your prior partial answers (most recent last)",
+        "passages: latest query's passages in full, plus top-2 from each earlier query",
         "",
         "Policy:",
         "",
@@ -54,11 +55,12 @@ DEFAULT_SYSTEM_PROMPT = ([
         "If passages is empty: output one retrieve_text targeting the most critical sub-question.",
         "If passages do NOT resolve all sub-questions: output one retrieve_text for the NEXT unresolved sub-question only.",
         "Only when ALL sub-questions are supported by the retrieved passages: output one propose_answer with the final answer string in \"answer\".",
+        "When returning retrieve_text and passages is non-empty (i.e., not the first call), also include a concise 'partial_answer' summarizing your best current hypothesis based on the provided passages. On the very first call (no passages), omit 'partial_answer'.",
         "Query formation:",
         "- Do NOT combine multiple sub-questions in a single query (avoid conjunctions like 'and').",
         "- Include exact entities and properties from original_question (e.g., 'pKa of acetic acid').",
         "- Avoid vague keywords; target the missing fact precisely.",
-        "Use previous_queries to refine and avoid repetition. Add specificity (entities, dates, synonyms, abbreviations) as you progress.",
+        "Use previous_queries and partial_answers to refine and avoid repetition. Add specificity (entities, dates, synonyms, abbreviations) as you progress.",
         "Never guess. If evidence is insufficient, retrieve_text again rather than proposing an answer.",
         "Do NOT include any keys other than those shown. The JSON array must contain exactly one object.",
         "",
@@ -70,11 +72,11 @@ DEFAULT_SYSTEM_PROMPT = ([
         "]",
         "Call 2 output:",
         "[",
-        '{"action":"retrieve_text","query":"pKa of acetic acid","k":8,"where":null,"where_document":null}',
+        '{"action":"retrieve_text","query":"pKa of acetic acid","k":8,"where":null,"where_document":null,"partial_answer":"Aromatic compound identified; now need acetic acid pKa."}',
         "]",
         "Call 3 output:",
         "[",
-        '{"action":"propose_answer","needs_citations":true,"answer":"Benzene is aromatic; acetic acid pKa ≈ 4.76."}',
+        '{"action":"propose_answer","needs_citations":true,"answer":"Benzene is aromatic; acetic acid pKa approx 4.76."}',
         "]",
         "",
         "Anti-pattern (do NOT do this):",
@@ -122,12 +124,40 @@ class JSONPlanner:
                 return float(h["score_dense"])
             return 0.0
 
-        # Select top-N best passages overall so far
-        topk = sorted(list(evidence), key=_score_key, reverse=True)[: max(0, self.passages_top_k)]
+        # Build passage set: include ALL from the latest query, plus top-2 from each earlier query
+        last_hits = list(state.get("last_passages") or [])
+        # Determine latest step if annotated; else fall back to id exclusion
+        latest_step = None
+        for h in last_hits:
+            if isinstance(h, dict) and ("source_step" in h):
+                latest_step = h.get("source_step")
+                break
+
+        if latest_step is not None:
+            others = [h for h in (evidence or []) if h.get("source_step") != latest_step]
+        else:
+            last_ids = set()
+            for h in last_hits:
+                if isinstance(h, dict) and (h.get("id") is not None):
+                    last_ids.add(str(h.get("id")))
+            others = [h for h in (evidence or []) if str(h.get("id")) not in last_ids]
+
+        # Group older hits by their origin query (preferred) or step
+        groups: Dict[str, List[Dict[str, Any]]] = {}
+        for h in others:
+            key = str(h.get("source_query") or h.get("source_step") or "ungrouped")
+            groups.setdefault(key, []).append(h)
+        # Pick top-2 per older group
+        older_top: List[Dict[str, Any]] = []
+        for key, items in groups.items():
+            items_sorted = sorted(items, key=_score_key, reverse=True)
+            older_top.extend(items_sorted[:2])
+
+        chosen = list(last_hits) + older_top
 
         # Serialize passages compactly: include id/title if present and text
         out_lines: List[str] = []
-        for i, h in enumerate(topk, 1):
+        for i, h in enumerate(chosen, 1):
             pid = str(h.get("id") or i)
             meta = h.get("metadata") or {}
             title = meta.get("title")
@@ -140,9 +170,13 @@ class JSONPlanner:
             out_lines.append(text)
         passages_block = "\n".join(out_lines) if out_lines else "[]"
 
+        # Note: On the very first call, chosen==[] (no passages). The system prompt
+        # instructs the model to return a retrieve_text WITHOUT 'partial_answer' on
+        # that first turn. Subsequent turns include partial_answers and passages.
         user_prompt = (
             f"original_question: {question}\n"
             f"previous_queries: {prev_queries}\n"
+            f"partial_answers: {state.get('partial_answers') or []}\n"
             f"passages:\n{passages_block}\n"
         )
 
@@ -261,3 +295,5 @@ def _fallback_plan(question: str, default_k: int) -> List[Action]:
         RetrieveText(query=question, k=default_k, where=None, where_document=None),
         ProposeAnswer(needs_citations=True),
     ]
+
+

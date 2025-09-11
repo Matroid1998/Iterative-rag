@@ -81,6 +81,7 @@ class Orchestrator:
             "filters": filters or None,
             "previous_queries": [],
             "last_passages": [],
+            "partial_answers": [],
         }
         if initial_state:
             # Shallow merge into our defaults
@@ -106,6 +107,15 @@ class Orchestrator:
                     where=action.where,
                     where_document=action.where_document,
                 )
+                # Tag hits with their origin for downstream prompt construction
+                step_idx = step + 1
+                for h in (hits or []):
+                    try:
+                        if isinstance(h, dict):
+                            h.setdefault("source_query", action.query)
+                            h.setdefault("source_step", step_idx)
+                    except Exception:
+                        pass
                 before = len(state["evidence"])
                 self._add_evidence(state, hits)
                 after = len(state["evidence"])
@@ -115,6 +125,16 @@ class Orchestrator:
                 prev_qs.append(action.query)
                 state["previous_queries"] = prev_qs
                 state["last_passages"] = list(hits or [])
+
+                # Record model-suggested partial answer if provided
+                try:
+                    pa = getattr(action, "partial_answer", None)
+                    if isinstance(pa, str) and pa.strip():
+                        pas = state.get("partial_answers") or []
+                        pas.append(pa.strip())
+                        state["partial_answers"] = pas
+                except Exception:
+                    pass
 
                 if trace:
                     actions_trace.append({
@@ -241,4 +261,3 @@ def _default_composer(question: str, evidence: List[Hit]) -> Dict[str, Any]:
     }]
     # For a safe default, just surface the top passage text
     return {"answer": best.get("text", ""), "citations": citations}
-
