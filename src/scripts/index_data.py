@@ -12,8 +12,9 @@ Dependencies:
 
 Examples:
   # Index everything using defaults (docs folder + HF dataset streamed)
+  # Persisting to ./chroma_store and collection name 'chemrxiv_graph'
   python scripts/index_data.py \
-    --persist data/chroma_store \
+    --persist chroma_store \
     --collection chemrxiv_graph
 
   # Only the existing text files folder
@@ -240,7 +241,7 @@ def _count_docs_in_folder(root: str) -> int:
 
 def main(argv: Optional[Iterable[str]] = None) -> int:
     ap = argparse.ArgumentParser(description="Index ChemRxiv graph data into Chroma")
-    ap.add_argument("--persist", default=os.path.join("data", "chroma_store"), help="Chroma persist directory")
+    ap.add_argument("--persist", default="chroma_store", help="Chroma persist directory")
     ap.add_argument("--collection", default="chemrxiv_graph", help="Chroma collection name")
     ap.add_argument("--docs-root", default=os.path.join("docs", "chemrxiv_graph_v2_texts"), help="Root folder of extracted text files to ingest")
     ap.add_argument("--only", choices=["all", "docs", "hf"], default="all", help="Which sources to index")
