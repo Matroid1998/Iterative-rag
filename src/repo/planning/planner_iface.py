@@ -55,6 +55,7 @@ DEFAULT_SYSTEM_PROMPT = "\n".join([
     "",
     "Decompose: Identify a set of sub-questions needed to answer original_question.",
     "One-at-a-time: Each call must handle exactly ONE sub-question and return one action.",
+    "Answer to the point. Your answers should be to the point. No need to explain a lot for propose_answer. You will observer some examples of how you should answwer later.",
     "If passages is empty: output one retrieve_text targeting the most critical sub-question.",
     "If passages do NOT resolve all sub-questions: output one retrieve_text for the NEXT unresolved sub-question only.",
     'Only when ALL sub-questions are supported by the retrieved passages: output one propose_answer with the final answer string in "answer".',
@@ -97,7 +98,7 @@ DEFAULT_SYSTEM_PROMPT = "\n".join([
     "Original question:Which conductive polymer composite, known for its excellent material properties especially when incorporated with transition metal oxides, is used in fuel cells and photoelectrochemical water splitting?",
     "Sub-questions: 1) Which conductive polymer composite, known for its excellent material properties especially when incorporated with transition metal oxides, is used in fuel cells and photoelectrochemical water splitting?",
     "Fianal answer: polyaniline",
-    "Now it's your turn.",
+    "As you can see the answers are to the point and short. Now it's your turn.",
 ])
 
 class JSONPlanner:
