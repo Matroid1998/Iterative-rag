@@ -50,6 +50,7 @@ def _env(name: str) -> Optional[str]:
 def build_llm_from_settings() -> Optional[LLMClient]:
     provider = (LLM_PROVIDER or "none").lower()
     if provider == "openai":
+        
         api_key = _env("OPENAI_API_KEY")
         if not api_key:
             return None
