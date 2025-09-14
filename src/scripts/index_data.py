@@ -99,11 +99,18 @@ def _hf_detect_doc_id(example: Dict[str, Any]) -> Optional[str]:
     return None
 
 
-def _hf_detect_para_id(example: Dict[str, Any]) -> Optional[str]:
-    for c in ("paragraph_id", "para_id", "segment_id", "chunk_id", "id", "index"):
+def _hf_detect_para_id(example: Dict[str, Any], avoid_same_as: Optional[str] = None) -> Optional[str]:
+    """Detect a paragraph-level ID, avoiding reuse of the same field/value as doc_id.
+    This helps prevent cases where both detectors select the same column (e.g., "id"),
+    which can lead to duplicated identifiers like "X::X" across rows.
+    """
+    candidates = ("paragraph_id", "para_id", "segment_id", "chunk_id", "index", "id")
+    for c in candidates:
         v = example.get(c)
         if isinstance(v, (str, int)):
-            return str(v)
+            s = str(v)
+            if avoid_same_as is None or s != avoid_same_as:
+                return s
     return None
 
 
@@ -139,7 +146,8 @@ def iter_hf_dataset(
             if not isinstance(text, str) or not text.strip():
                 continue
             doc_id = _hf_detect_doc_id(ex) or f"hf::{split_name}"
-            para_id = _hf_detect_para_id(ex)
+            # Avoid selecting the exact same field/value for paragraph id
+            para_id = _hf_detect_para_id(ex, avoid_same_as=doc_id)
             meta = {
                 "source": "chemrxiv_hf",
                 "dataset": dataset_name,
@@ -179,14 +187,33 @@ def add_docs_streaming(
     texts: List[str] = []
     metas: List[Dict[str, Any]] = []
     ids: List[str] = []
+    # Track IDs within the current batch to prevent duplicates in a single upsert
+    batch_seen_ids: set[str] = set()
     total = 0
 
     def flush():
-        nonlocal texts, metas, ids, total
+        nonlocal texts, metas, ids, total, batch_seen_ids
         if texts:
-            index.add_documents(texts=texts, metadatas=metas, ids=ids)
-            total += len(texts)
+            # Extra safety: ensure uniqueness just before upsert
+            if len(ids) != len(set(ids)):
+                unique_texts: List[str] = []
+                unique_metas: List[Dict[str, Any]] = []
+                unique_ids: List[str] = []
+                seen: set[str] = set()
+                for t, m, i in zip(texts, metas, ids):
+                    if i in seen:
+                        continue
+                    seen.add(i)
+                    unique_texts.append(t)
+                    unique_metas.append(m)
+                    unique_ids.append(i)
+                texts_to_add, metas_to_add, ids_to_add = unique_texts, unique_metas, unique_ids
+            else:
+                texts_to_add, metas_to_add, ids_to_add = texts, metas, ids
+            index.add_documents(texts=texts_to_add, metadatas=metas_to_add, ids=ids_to_add)
+            total += len(texts_to_add)
             texts, metas, ids = [], [], []
+            batch_seen_ids.clear()
 
     for d in docs:
         text = d.get("text", "")
@@ -206,9 +233,14 @@ def add_docs_streaming(
             tokens_per_chunk=tokens_per_chunk,
             tokens_overlap=tokens_overlap,
         )
-        texts.extend(t)
-        metas.extend(m)
-        ids.extend(i)
+        # Deduplicate within the batch to avoid Chroma DuplicateIDError
+        for tt, mm, ii in zip(t, m, i):
+            if ii in batch_seen_ids:
+                continue
+            batch_seen_ids.add(ii)
+            texts.append(tt)
+            metas.append(mm)
+            ids.append(ii)
         if pbar_docs is not None:
             pbar_docs.update(1)
         if pbar_chunks is not None and t:
@@ -221,8 +253,8 @@ def add_docs_streaming(
 
 # ------------------------------- CLI -----------------------------------------
 
-def build_index(persist_path: str, collection_name: str) -> ChromaTextIndex:
-    embedder = HFEmbedder(EmbedderConfig())
+def build_index(persist_path: str, collection_name: str, device: str = "cpu") -> ChromaTextIndex:
+    embedder = HFEmbedder(EmbedderConfig(device=device))
     return ChromaTextIndex(
         persist_path=persist_path,
         collection_name=collection_name,
@@ -245,6 +277,7 @@ def main(argv: Optional[Iterable[str]] = None) -> int:
     ap.add_argument("--collection", default="chemrxiv_graph", help="Chroma collection name")
     ap.add_argument("--docs-root", default=os.path.join("docs", "chemrxiv_graph_v2_texts"), help="Root folder of extracted text files to ingest")
     ap.add_argument("--only", choices=["all", "docs", "hf"], default="all", help="Which sources to index")
+    ap.add_argument("--device", default="cpu", help="Device to run embeddings on (cpu, cuda, mps, etc.)")
 
     # Hugging Face dataset options
     ap.add_argument("--hf-dataset", default="BASF-AI/ChemRxiv-Paragraphs", help="HF dataset name")
@@ -264,7 +297,7 @@ def main(argv: Optional[Iterable[str]] = None) -> int:
 
     args = ap.parse_args(list(argv) if argv is not None else None)
 
-    index = build_index(args.persist, args.collection)
+    index = build_index(args.persist, args.collection, args.device)
     total_chunks = 0
 
     def ck(docs: Iterable[Dict[str, Any]], pbar_docs: Optional[Any] = None, pbar_chunks: Optional[Any] = None) -> int:
