@@ -12,11 +12,11 @@ import os
 from repo.planning.planner_iface import JSONPlanner
 from service.planner_llm import (
     LLMClient,
-    OpenAIChatLLM,
     OllamaLLM,
     HFInferenceLLM,
     make_json_planner,
 )
+from service.structured_llm_adapter import StructuredLLMClient
 
 # --------------------- Explicit settings (edit in code) -----------------------
 # Choose one: "openai" | "ollama" | "hf" | "none"
@@ -34,9 +34,9 @@ HF_MODEL: str = "mistralai/Mixtral-8x7B-Instruct-v0.1"
 HF_BASE_URL: str = "https://api-inference.huggingface.co/models"
 
 # Planning knobs
-PASSAGES_TOP_K: int = 10
+PASSAGES_TOP_K: int = 20
 PLANNER_DEFAULT_K: int = 8
-PLANNER_MAX_ACTIONS: int = 5
+PLANNER_MAX_ACTIONS: int = 6
 ALLOW_KG: bool = False
 
 
@@ -50,10 +50,11 @@ def _env(name: str) -> Optional[str]:
 def build_llm_from_settings() -> Optional[LLMClient]:
     provider = (LLM_PROVIDER or "none").lower()
     if provider == "openai":
-        api_key = _env("OPENAI_API_KEY")
+        api_key = "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"
         if not api_key:
             return None
-        return OpenAIChatLLM(model=OPENAI_MODEL, api_key=api_key)
+        # Use StructuredLLM-backed client for OpenAI
+        return StructuredLLMClient(provider="openai", model=OPENAI_MODEL)
     if provider == "ollama":
         return OllamaLLM(model=OLLAMA_MODEL, endpoint=OLLAMA_ENDPOINT)
     if provider == "hf":

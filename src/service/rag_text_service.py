@@ -29,8 +29,12 @@ from repo.retrievers.text_retriever import TextRetriever
 
 # Planning + orchestrator
 from repo.planning.planner_iface import Planner, JSONPlanner, RuleBasedPlanner
-from config.app_config import build_json_planner_from_settings
+from config.app_config import (
+    build_json_planner_from_settings,
+    build_llm_from_settings,
+)
 from service.orchestrator import Orchestrator
+from service.planner_llm import make_llm_composer
 
 # Utilities
 from repo.utils.chunking import chunk_document, chunk_corpus
@@ -95,10 +99,21 @@ class RagTextService:
             self.planner = _p if _p is not None else RuleBasedPlanner(default_k=8)
 
         # 5) Orchestrator
+        # If no composer provided, try to build an LLM-based composer using the same
+        # provider settings used for the planner; otherwise fall back to default.
+        final_composer = composer
+        if final_composer is None:
+            try:
+                _llm = build_llm_from_settings()
+                if _llm is not None:
+                    final_composer = make_llm_composer(_llm)
+            except Exception:
+                final_composer = None
+
         self.orchestrator = Orchestrator(
             planner=self.planner,
             text_retriever=self.retriever,
-            compose_answer=composer,   # may be None → uses orchestrator default
+            compose_answer=final_composer,   # may be None → uses orchestrator default
             max_steps=max_steps,
             dedupe=True,
             keep_top_evidence=None,
