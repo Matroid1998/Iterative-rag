@@ -1,5 +1,7 @@
 import time
 import json
+import random
+import hashlib
 import tqdm
 import math
 import os
@@ -1297,13 +1299,53 @@ if __name__ == "__main__":
 
     records_raw = read_json(RECORDS_PATH)
     records = _normalize_records(records_raw if isinstance(records_raw, list) else [])
-    # Limit to the first N questions for smoke testing; default 5
+    # Randomly select N questions for testing; remember the selection
     try:
         limit = int(os.getenv("EVAL_LIMIT", "5"))
     except Exception:
         limit = 5
-    if limit and limit > 0:
-        records = records[:limit]
+    if limit and limit > 0 and len(records) > limit:
+        # If provider/model are specified, persist a deterministic selection per combo
+        env_provider = os.getenv("EVAL_PROVIDER") or "any"
+        env_model = os.getenv("EVAL_MODEL") or "any"
+        model_filename = (env_model or "any").replace("/", "__")
+        selection_file = os.path.join(
+            RESPONSES_DIR,
+            f"selection_{env_provider}_{model_filename}_limit{limit}.json",
+        )
+
+        selected_questions: List[str] = []
+        if os.path.exists(selection_file):
+            try:
+                with open(selection_file, "r") as sf:
+                    selected_questions = json.load(sf) or []
+            except Exception:
+                selected_questions = []
+
+        if not selected_questions:
+            # Build a stable seed so the first run is deterministic per provider/model/limit/dataset
+            seed_env = os.getenv("EVAL_SEED")
+            dataset_tag = os.path.basename(RECORDS_PATH)
+            seed_basis = seed_env if seed_env else f"{env_provider}|{env_model}|{limit}|{dataset_tag}"
+            try:
+                seed_int = int(seed_basis)
+            except Exception:
+                seed_int = int(hashlib.sha256(seed_basis.encode("utf-8")).hexdigest(), 16) % (2**32)
+            rng = random.Random(seed_int)
+            sampled = rng.sample(records, k=limit)
+            selected_questions = [r.get("question") for r in sampled if r.get("question")]
+            try:
+                with open(selection_file, "w") as sf:
+                    json.dump(selected_questions, sf, ensure_ascii=False, indent=2)
+            except Exception:
+                pass
+
+        # Filter normalized records to match the saved selection order
+        sel_set = set(selected_questions)
+        # Preserve selection file order
+        order_index = {q: i for i, q in enumerate(selected_questions)}
+        records = [r for r in records if r.get("question") in sel_set]
+        records.sort(key=lambda r: order_index.get(r.get("question"), 1_000_000))
 
     benchmark_runner = BenchmarkRunner(
         records=records, responses_dir=RESPONSES_DIR, results_file=RESULT_PATH
