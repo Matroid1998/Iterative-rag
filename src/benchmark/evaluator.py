@@ -648,6 +648,7 @@ class Evaluate:
                 "Expected: wurtzite ZnO\n"
                 "Candidate: Wurtzite ZnO nanopowders are used as the precursor in the synthesis of rsZnO according to high-pressure nanopowder synthesis methods.\n"
                 "Answer: true\n\n"
+                "Now your turn to verify:"
                 f"Expected: {expected}\n"
                 f"Candidate: {candidate}\n"
                 "Answer with true or false."

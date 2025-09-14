@@ -91,6 +91,11 @@ class Orchestrator:
         actions_trace: List[Dict[str, Any]] = []
 
         for step in range(self.max_steps):
+            # Annotate planning budget info for the planner prompt/logic
+            state["planner_step"] = step + 1
+            state["planner_max_actions"] = self.max_steps
+            state["is_final_call"] = (step == self.max_steps - 1)
+
             actions = self.planner.plan(question, state)
 
             if not isinstance(actions, list) or not actions:

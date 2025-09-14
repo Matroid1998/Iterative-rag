@@ -47,6 +47,9 @@ DEFAULT_SYSTEM_PROMPT = "\n".join([
     "previous_queries: list of your prior retrieve_text queries for this question",
     "partial_answers: list of your prior partial answers (most recent last)",
     "passages: latest query's passages in full, plus top-2 from each earlier query",
+    "planner_step: 1-based index of this planning call",
+    "planner_max_actions: maximum number of planning calls allowed",
+    "final_call: boolean; true when this is your last allowed LLM call",
     "",
     "Policy:",
     "",
@@ -55,6 +58,7 @@ DEFAULT_SYSTEM_PROMPT = "\n".join([
     "If passages is empty: output one retrieve_text targeting the most critical sub-question.",
     "If passages do NOT resolve all sub-questions: output one retrieve_text for the NEXT unresolved sub-question only.",
     'Only when ALL sub-questions are supported by the retrieved passages: output one propose_answer with the final answer string in "answer".',
+    "Final-call rule: If final_call is true, this is the last call to the LLM. You MUST generate an answer now based on the provided passages (the evidence) and take the propose_answer action. Do NOT output retrieve_text.",
     "When returning retrieve_text and passages is non-empty (i.e., not the first call), also include a concise 'partial_answer' summarizing your best current hypothesis based on the provided passages. On the very first call (no passages), omit 'partial_answer'.",
     "Query formation:",
     "- Include exact entities and properties from original_question (e.g., 'pKa of acetic acid').",
@@ -182,11 +186,19 @@ class JSONPlanner:
         # Note: On the very first call, chosen==[] (no passages). The system prompt
         # instructs the model to return a retrieve_text WITHOUT 'partial_answer' on
         # that first turn. Subsequent turns include partial_answers and passages.
+        # Include planning budget annotations for the model
+        planner_step = state.get("planner_step") or None
+        planner_max_actions = state.get("planner_max_actions") or self.max_actions
+        is_final = bool(state.get("is_final_call") or False)
+
         user_prompt = (
             f"original_question: {question}\n"
             f"previous_queries: {prev_queries}\n"
             f"partial_answers: {state.get('partial_answers') or []}\n"
             f"passages:\n{passages_block}\n"
+            f"planner_step: {planner_step}\n"
+            f"planner_max_actions: {planner_max_actions}\n"
+            f"final_call: {is_final}\n"
         )
 
         # Optional debug prints
@@ -204,6 +216,8 @@ class JSONPlanner:
         json_text, ok = _extract_json_array(raw)
         if not ok:
             # Fallback: return exactly one action based on whether we have evidence
+            if bool(state.get("is_final_call")):
+                return [ProposeAnswer(needs_citations=True)]
             if state.get("evidence"):
                 return [ProposeAnswer(needs_citations=True)]
             return [RetrieveText(query=question, k=self.default_k, where=filters, where_document=None)]
@@ -211,6 +225,8 @@ class JSONPlanner:
         try:
             actions = parse_actions_json(json_text)
         except Exception:
+            if bool(state.get("is_final_call")):
+                return [ProposeAnswer(needs_citations=True)]
             if state.get("evidence"):
                 return [ProposeAnswer(needs_citations=True)]
             return [RetrieveText(query=question, k=self.default_k, where=filters, where_document=None)]
@@ -229,15 +245,23 @@ class JSONPlanner:
         errs = validate_actions(actions)
         if errs:
             # If invalid, fall back to a single actionable step
+            if bool(state.get("is_final_call")):
+                return [ProposeAnswer(needs_citations=True)]
             if state.get("evidence"):
                 return [ProposeAnswer(needs_citations=True)]
             return [RetrieveText(query=question, k=self.default_k, where=filters, where_document=None)]
 
         # Ensure the plan is actionable: must contain at least one action
         if not actions:
+            if bool(state.get("is_final_call")):
+                return [ProposeAnswer(needs_citations=True)]
             if state.get("evidence"):
                 return [ProposeAnswer(needs_citations=True)]
             return [RetrieveText(query=question, k=self.default_k, where=filters, where_document=None)]
+
+        # Enforce propose_answer on final call even if the LLM suggested retrieval
+        if bool(state.get("is_final_call")) and not isinstance(actions[0], ProposeAnswer):
+            return [ProposeAnswer(needs_citations=True)]
 
         return actions
 
@@ -304,4 +328,3 @@ def _fallback_plan(question: str, default_k: int) -> List[Action]:
         RetrieveText(query=question, k=default_k, where=None, where_document=None),
         ProposeAnswer(needs_citations=True),
     ]
-

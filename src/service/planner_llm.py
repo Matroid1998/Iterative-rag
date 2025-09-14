@@ -44,6 +44,9 @@ def default_planner_system_prompt(allow_kg: bool = False) -> str:
         "previous_queries: list of your prior retrieve_text queries for this question",
         "partial_answers: list of your prior partial answers (most recent last)",
         "passages: latest query's passages in full, plus top-2 from each earlier query",
+        "planner_step: 1-based index of this planning call",
+        "planner_max_actions: maximum number of planning calls allowed",
+        "final_call: boolean; true when this is your last allowed LLM call",
         "",
         "Policy:",
         "",
@@ -52,6 +55,7 @@ def default_planner_system_prompt(allow_kg: bool = False) -> str:
         "If passages is empty: output one retrieve_text targeting the most critical sub-question.",
         "If passages do NOT resolve all sub-questions: output one retrieve_text for the NEXT unresolved sub-question only.",
         "Only when ALL sub-questions are supported by the retrieved passages: output one propose_answer with the final answer string in \"answer\".",
+        "Final-call rule: If final_call is true, this is your last call to the LLM. You MUST generate an answer now based on the provided passages (the evidence) and return exactly one propose_answer. Do NOT output retrieve_text.",
         "When returning retrieve_text and passages is non-empty (i.e., not the first call), also include a concise 'partial_answer' summarizing your best current hypothesis based on the provided passages. On the very first call (no passages), omit 'partial_answer'.",
         "Query formation:",
         "- Do NOT combine multiple sub-questions in a single query (avoid conjunctions like 'and').",
@@ -419,4 +423,3 @@ def make_llm_composer(
         return {"answer": answer, "citations": citations}
 
     return composer
-
