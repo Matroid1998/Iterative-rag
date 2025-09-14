@@ -1,7 +1,6 @@
 import time
 import json
 import random
-import hashlib
 import tqdm
 import math
 import os
@@ -64,6 +63,7 @@ class ModelRegistry:
         Provider.OPENAI: [
             "gpt-4o",
             "gpt-4o-mini",
+            "gpt-5-mini",
             # "o1",
             "o1-mini",
             "o3-mini",
@@ -164,6 +164,7 @@ class StructuredLLM:
             "o1-preview",
             "o1-mini",
             "o3-mini",
+            "gpt-5-mini",
         ]:
             self.temperature = NotGiven()
 
@@ -578,7 +579,7 @@ class Evaluate:
         use_context: bool,
         responses_save_path: str = None,
         verifier_provider: Provider = Provider.OPENAI,
-        verifier_model: str = "gpt-4o",
+        verifier_model: str = "gpt-5-mini",
         num_workers: int = 4,
         bedrock_cooldown: float = 0.5,
     ):
@@ -603,7 +604,7 @@ class Evaluate:
             "provider": qa_llm.provider,
             "model_id": qa_llm.model_id,
             "output_format": qa_llm.output_format,
-            "temperature": qa_llm.temperature,
+            "temperature": 0.0,
             "max_completion_tokens": qa_llm.max_completion_tokens,
         }
 
@@ -656,7 +657,8 @@ class Evaluate:
                 "Answer with true or false."
             )
             response = verifier_llm(VERIFY_PROMPT)
-            return response["parsed_output"].are_the_same
+            parsed = response.get("parsed_output") if isinstance(response, dict) else None
+            return bool(getattr(parsed, "are_the_same", False))
 
     def _create_worker_llms(self):
         """Create new LLM instances for workers to avoid thread safety issues"""
@@ -701,7 +703,7 @@ class Evaluate:
         llm_client = StructuredLLMClient(
             provider=self.qa_llm_params["provider"],
             model=self.qa_llm_params["model_id"],
-            temperature=float(self.qa_llm_params.get("temperature", 0.2) or 0.2),
+            temperature=float(self.qa_llm_params.get("temperature", 0.0) or 0.0),
             max_tokens=int(self.qa_llm_params.get("max_completion_tokens", 600) or 600),
             debug=True,
         )
@@ -1323,16 +1325,8 @@ if __name__ == "__main__":
                 selected_questions = []
 
         if not selected_questions:
-            # Build a stable seed so the first run is deterministic per provider/model/limit/dataset
-            seed_env = os.getenv("EVAL_SEED")
-            dataset_tag = os.path.basename(RECORDS_PATH)
-            seed_basis = seed_env if seed_env else f"{env_provider}|{env_model}|{limit}|{dataset_tag}"
-            try:
-                seed_int = int(seed_basis)
-            except Exception:
-                seed_int = int(hashlib.sha256(seed_basis.encode("utf-8")).hexdigest(), 16) % (2**32)
-            rng = random.Random(seed_int)
-            sampled = rng.sample(records, k=limit)
+            # Select a fresh random sample (no seeding), then persist for repeatability across runs
+            sampled = random.sample(records, k=limit)
             selected_questions = [r.get("question") for r in sampled if r.get("question")]
             try:
                 with open(selection_file, "w") as sf:
