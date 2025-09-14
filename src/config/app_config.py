@@ -50,7 +50,7 @@ def _env(name: str) -> Optional[str]:
 def build_llm_from_settings() -> Optional[LLMClient]:
     provider = (LLM_PROVIDER or "none").lower()
     if provider == "openai":
-        api_key = "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"
+        api_key = _env("OPENAI_API_KEY")
         if not api_key:
             return None
         # Use StructuredLLM-backed client for OpenAI
