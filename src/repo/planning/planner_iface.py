@@ -121,8 +121,9 @@ class JSONPlanner:
         self.max_actions = int(max_actions)
         self.system_prompt = system_prompt or DEFAULT_SYSTEM_PROMPT
         self.passages_top_k = int(passages_top_k)
-        # Debug printing toggle via env: PLANNER_DEBUG=1|true
-        self._debug = 1
+        # Debug printing toggle via env: PLANNER_DEBUG=1|true (default: off)
+        dbg = os.getenv("PLANNER_DEBUG")
+        self._debug = 1 if (isinstance(dbg, str) and dbg.strip().lower() in ("1", "true", "yes")) else 0
         self._dbg_calls = 0
 
     def plan(self, question: str, state: Dict[str, Any]) -> List[Action]:

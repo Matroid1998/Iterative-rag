@@ -705,7 +705,7 @@ class Evaluate:
             model=self.qa_llm_params["model_id"],
             temperature=float(self.qa_llm_params.get("temperature", 0.0) or 0.0),
             max_tokens=int(self.qa_llm_params.get("max_completion_tokens", 600) or 600),
-            debug=True,
+            debug=False,
         )
         planner = make_json_planner(
             llm_client,
