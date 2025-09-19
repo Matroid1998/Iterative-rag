@@ -645,15 +645,9 @@ class Evaluate:
             return True
         else:
             VERIFY_PROMPT = (
-                "Do Expected and Candidate name the same entity?\n"
-                "Guidelines: ignore case/punctuation; ignore generic descriptors (polymorph/form/phase/material/powder/nanopowder/ion/cation/anion/group/class/type); accept aliases/abbreviations/formulas (e.g., LiCl=lithium chloride; w-ZnO=wurtzite ZnO; rs-ZnO=rocksalt ZnO; trityl=triphenylmethyl; PARP=poly ADP ribose polymerase). Extra words are OK if they still name the same entity.\n"
-                "Example:\n"
-                "Expected: wurtzite ZnO\n"
-                "Candidate: Wurtzite ZnO nanopowders are used as the precursor in the synthesis of rsZnO according to high-pressure nanopowder synthesis methods.\n"
-                "Answer: true\n\n"
-                "Now your turn to verify:"
-                f"Expected: {expected}\n"
-                f"Candidate: {candidate}\n"
+                f"Expected answer: {expected}\n"
+                f"Candidate answer: {candidate}\n"
+                "Are these two answers referring to the same entity? "
                 "Answer with true or false."
             )
             response = verifier_llm(VERIFY_PROMPT)
