@@ -207,3 +207,4 @@ marimo/_lsp/
 __marimo__/
 src/chroma_store
 src/data
+src/previous_runs

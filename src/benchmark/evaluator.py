@@ -645,15 +645,9 @@ class Evaluate:
             return True
         else:
             VERIFY_PROMPT = (
-                "Do Expected and Candidate name the same entity?\n"
-                "Guidelines: ignore case/punctuation; ignore generic descriptors (polymorph/form/phase/material/powder/nanopowder/ion/cation/anion/group/class/type); accept aliases/abbreviations/formulas (e.g., LiCl=lithium chloride; w-ZnO=wurtzite ZnO; rs-ZnO=rocksalt ZnO; trityl=triphenylmethyl; PARP=poly ADP ribose polymerase). Extra words are OK if they still name the same entity.\n"
-                "Example:\n"
-                "Expected: wurtzite ZnO\n"
-                "Candidate: Wurtzite ZnO nanopowders are used as the precursor in the synthesis of rsZnO according to high-pressure nanopowder synthesis methods.\n"
-                "Answer: true\n\n"
-                "Now your turn to verify:"
-                f"Expected: {expected}\n"
-                f"Candidate: {candidate}\n"
+                f"Expected answer: {expected}\n"
+                f"Candidate answer: {candidate}\n"
+                "Are these two answers referring to the same entity? "
                 "Answer with true or false."
             )
             response = verifier_llm(VERIFY_PROMPT)
@@ -873,6 +867,7 @@ class Evaluate:
 
         question = record.get("question") or record.get("q")
         expected = record.get("expected") or record.get("a")
+        number_of_hops = record.get("number_of_hops", 0)
 
         t0 = time.time()
         try:
@@ -906,7 +901,7 @@ class Evaluate:
         try:
             usage = llm_client.get_and_reset_usage()
         except Exception:
-            usage = {"input": 0, "output": 0, "reasoning": 0}
+            usage = {"input": 0, "output": 0, "reasoning": 0, "calls": []}
         print(f"[Evaluate] Candidate: {candidate}")
         if expected:
             print(f"[Evaluate] Expected: {expected}")
@@ -916,13 +911,15 @@ class Evaluate:
             "is_correct": is_correct,
             "raw_response": rag_result,  # full RAG result for debugging
             "context_used": True,  # iterative RAG uses retrieved context
+            "number_of_hops": int(number_of_hops or 0),
             "input_tokens": int(usage.get("input", 0)),
             "output_tokens": int(usage.get("output", 0)),
             "reasoning_tokens": int(usage.get("reasoning", 0)),
+            "llm_calls": list(usage.get("calls", [])),
             "latency": round(elapsed_ms, 2),
             "date": datetime.now().strftime("%Y-%m-%d %H:%M"),
             "reasoning": None,
-            "raw": {"question": question, "expected": expected},
+            "raw": {"question": question, "expected": expected, "number_of_hops": int(number_of_hops or 0)},
             "error": rag_result.get("error", None) if isinstance(rag_result, dict) else None,
         }
 
@@ -1284,7 +1281,10 @@ if __name__ == "__main__":
     # Anchor default paths to the src/ tree so running from src/ works consistently
     _SRC_BASE = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
     RESPONSES_DIR = os.path.join(_SRC_BASE, "responses")  # Directory to save intermediate responses
-    RESULT_PATH = os.path.join(_SRC_BASE, "results.csv")  # Save the final results as a CSV file
+    # Save results per provider/model to separate files (fallback to 'any' when unset)
+    _prov_slug = (os.getenv("EVAL_PROVIDER") or "any").replace("/", "__").replace(":", "_")
+    _model_slug = (os.getenv("EVAL_MODEL") or "any").replace("/", "__").replace(":", "_")
+    RESULT_PATH = os.path.join(_SRC_BASE, f"results_{_prov_slug}_{_model_slug}.csv")
     # Default to the provided ChemRxiv QA dataset; map to evaluator schema
     RECORDS_PATH = os.path.join(_SRC_BASE, "docs", "chemrxiv_qa.json")
     os.makedirs(RESPONSES_DIR, exist_ok=True)
@@ -1294,9 +1294,11 @@ if __name__ == "__main__":
         for r in recs:
             q = r.get("question") or r.get("q")
             a = r.get("expected") or r.get("a")
+            path = r.get("path")
+            num_hops = len(path) if isinstance(path, list) else 0
             if not q:
                 continue
-            out.append({"question": q, "expected": a})
+            out.append({"question": q, "expected": a, "number_of_hops": num_hops})
         return out
 
     records_raw = read_json(RECORDS_PATH)
