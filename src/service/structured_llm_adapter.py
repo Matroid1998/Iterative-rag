@@ -161,31 +161,41 @@ class StructuredLLMClient(LLMClient):
             return out
 
         if self._provider == Provider.BEDROCK:
-            # Fall back to a simple converse call via langchain wrapper if available.
-            # Planner expects raw text; we try a minimal message with one turn.
+            # Use a plain Converse client (no structured output) so planner/composer get raw text like GPT‑4o/DeepSeek.
             try:
+                from langchain_aws.chat_models.bedrock_converse import ChatBedrockConverse
+                # Send system + user as a single user turn to match earlier working behavior
                 messages = [{"role": "user", "content": [{"text": system + "\n\n" + user}]}]
-                llm = self._core._get_bedrock_llm()  # type: ignore[attr-defined]
+                llm = ChatBedrockConverse(
+                    client=self._core.client,
+                    model_id=getattr(self._core, "model_id", self._model),
+                    max_tokens=self._max_tokens,
+                    temperature=self._temperature,
+                )
                 if self._debug:
                     print(f"[LLM:{self._provider.value}:{self._model}] >>> system+user as text\n{system}\n\n{user}\n")
                 resp = llm.invoke(messages)
                 # Extract plain text content
                 content = getattr(resp, "content", None)
+                out = ""
                 if isinstance(content, list):
                     for item in content:
-                        if item.get("type") == "text":
+                        if isinstance(item, dict) and item.get("type") == "text":
                             out = (item.get("text") or "").strip()
-                            try:
-                                um = getattr(resp, "usage_metadata", None)
-                                if isinstance(um, dict):
-                                    self._usage["input"] += int(um.get("input_tokens", 0) or 0)
-                                    self._usage["output"] += int(um.get("output_tokens", 0) or 0)
-                            except Exception:
-                                pass
-                            if self._debug:
-                                print(f"[LLM:{self._provider.value}:{self._model}] <<< output:\n{out}\n")
-                            return out
-                return ""
+                            break
+                elif isinstance(content, str):
+                    out = content.strip()
+                # Track usage if available
+                try:
+                    um = getattr(resp, "usage_metadata", None)
+                    if isinstance(um, dict):
+                        self._usage["input"] += int(um.get("input_tokens", 0) or 0)
+                        self._usage["output"] += int(um.get("output_tokens", 0) or 0)
+                except Exception:
+                    pass
+                if self._debug:
+                    print(f"[LLM:{self._provider.value}:{self._model}] <<< output:\n{out}\n")
+                return out
             except Exception:
                 return ""
 
