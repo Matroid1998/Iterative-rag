@@ -56,6 +56,16 @@ class Provider(str, Enum):
     OPENROUTER = "openrouter"
 
 
+OPENAI_REASONING_MODELS = {
+    "o1",
+    "o1-preview",
+    "o1-mini",
+    "o3-mini",
+    "gpt-5",
+    "gpt-5-mini",
+}
+
+
 class ModelRegistry:
     """Registry to manage provider-model relationships and benchmarking state."""
 
@@ -63,6 +73,7 @@ class ModelRegistry:
         Provider.OPENAI: [
             "gpt-4o",
             "gpt-4o-mini",
+            "gpt-5",
             "gpt-5-mini",
             # "o1",
             "o1-mini",
@@ -159,13 +170,7 @@ class StructuredLLM:
         if self.provider == Provider.BEDROCK:
             self.bedrock_llm = self._get_bedrock_llm()
 
-        if self.provider == Provider.OPENAI and self.model_id in [
-            "o1",
-            "o1-preview",
-            "o1-mini",
-            "o3-mini",
-            "gpt-5-mini",
-        ]:
+        if self.provider == Provider.OPENAI and self.model_id in OPENAI_REASONING_MODELS:
             self.temperature = NotGiven()
 
     def _get_api_key(self) -> str:
@@ -386,11 +391,15 @@ class StructuredLLM:
         """Call the OpenAI API with the given messages."""
         try:
             now = time.time()
+            reasoning_args = {}
+            if self.model_id == "gpt-5":
+                reasoning_args["reasoning_effort"] = "medium"
             if self.model_id == "o1-mini":
                 response = self.client.chat.completions.create(
                     model=self.model_id,
                     messages=messages,
                     max_completion_tokens=self.max_completion_tokens,
+                    **reasoning_args,
                 )
                 raw_response = response.choices[0].message.content
                 parsed_output = self._parse_json_from_text(raw_response)
@@ -401,6 +410,7 @@ class StructuredLLM:
                     response_format=self.output_format,
                     temperature=self.temperature,
                     max_completion_tokens=self.max_completion_tokens,
+                    **reasoning_args,
                 )
                 raw_response = response.choices[0].message.content
                 parsed_output = response.choices[0].message.parsed

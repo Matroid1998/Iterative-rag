@@ -21,6 +21,10 @@ from typing import Any, Dict, List, Optional, Callable
 import json
 
 from repo.planning.planner_iface import LLMClient, JSONPlanner
+try:
+    from src.benchmark.evaluator import OPENAI_REASONING_MODELS
+except Exception:
+    from benchmark.evaluator import OPENAI_REASONING_MODELS
 
 
 # -------------------------- Prompt helper -------------------------------------
@@ -137,10 +141,12 @@ class OpenAIChatLLM(LLMClient):
         self.api_key = api_key
         self.base_url = base_url
         self.organization = organization
-        self.temperature = float(temperature)
+        reasoning_model = self.model in OPENAI_REASONING_MODELS
+        self.temperature = None if reasoning_model else float(temperature)
         self.max_tokens = int(max_tokens)
         self.timeout = float(timeout)
         self.extra_headers = extra_headers or {}
+        self._reasoning_model = reasoning_model
 
     def complete(self, system: str, user: str) -> str:
         try:
@@ -160,15 +166,21 @@ class OpenAIChatLLM(LLMClient):
             default_headers=self.extra_headers,
         )
         # Chat Completions API
-        resp = client.chat.completions.create(
-            model=self.model,
-            temperature=self.temperature,
-            max_tokens=self.max_tokens,
-            messages=[
+        reasoning_kwargs: Dict[str, Any] = {}
+        if self.model == "gpt-5":
+            reasoning_kwargs["reasoning_effort"] = "medium"
+        request_kwargs = {
+            "model": self.model,
+            "max_tokens": self.max_tokens,
+            "messages": [
                 {"role": "system", "content": system},
                 {"role": "user", "content": user},
             ],
-        )
+            **reasoning_kwargs,
+        }
+        if self.temperature is not None:
+            request_kwargs["temperature"] = self.temperature
+        resp = client.chat.completions.create(**request_kwargs)
         content = (resp.choices[0].message.content or "").strip()
         return content
 

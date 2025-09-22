@@ -11,9 +11,19 @@ from typing import Optional, Dict, Any, List, Tuple
 
 from repo.planning.planner_iface import LLMClient
 try:  # prefer package-qualified import
-    from src.benchmark.evaluator import StructuredLLM, Provider, Answer
+    from src.benchmark.evaluator import (
+        StructuredLLM,
+        Provider,
+        Answer,
+        OPENAI_REASONING_MODELS,
+    )
 except Exception:  # fallback to namespace import when PYTHONPATH=src
-    from benchmark.evaluator import StructuredLLM, Provider, Answer
+    from benchmark.evaluator import (
+        StructuredLLM,
+        Provider,
+        Answer,
+        OPENAI_REASONING_MODELS,
+    )
 
 
 class StructuredLLMClient(LLMClient):
@@ -48,7 +58,10 @@ class StructuredLLMClient(LLMClient):
         )
         self._provider = prov
         self._model = model
-        self._temperature = temperature
+        self._reasoning_model = (
+            self._provider == Provider.OPENAI and self._model in OPENAI_REASONING_MODELS
+        )
+        self._temperature = None if self._reasoning_model else float(temperature)
         self._max_tokens = max_tokens
         self._extra = extra_options or {}
         self._debug = bool(debug)
@@ -173,12 +186,18 @@ class StructuredLLMClient(LLMClient):
                 print(f"[LLM:{self._provider.value}:{self._model}] >>> user:\n{user}\n")
             import time as _t
             _t0 = _t.time()
-            resp = self._core.client.chat.completions.create(
-                model=self._model,
-                messages=messages,
-                temperature=self._temperature,
-                max_completion_tokens=self._max_tokens,
-            )
+            reasoning_kwargs: Dict[str, Any] = {}
+            if self._model == "gpt-5":
+                reasoning_kwargs["reasoning_effort"] = "medium"
+            request_kwargs: Dict[str, Any] = {
+                "model": self._model,
+                "messages": messages,
+                "max_completion_tokens": self._max_tokens,
+                **reasoning_kwargs,
+            }
+            if self._temperature is not None:
+                request_kwargs["temperature"] = self._temperature
+            resp = self._core.client.chat.completions.create(**request_kwargs)
             choice = resp.choices[0]
             out = (choice.message.content or "").strip()
             elapsed_ms = int((_t.time() - _t0) * 1000)
