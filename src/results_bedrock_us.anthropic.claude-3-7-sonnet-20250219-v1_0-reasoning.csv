@@ -1,0 +1,2 @@
+Model,Run,Accuracy (%),Avg Duration (s),Avg Input Tokens,Avg Output Tokens,Total Input Tokens,Total Output Tokens,Total Samples
+bedrock-us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning,With Context,81.96,95167.19,17477.43,4309.0,20728229,5110471,1186

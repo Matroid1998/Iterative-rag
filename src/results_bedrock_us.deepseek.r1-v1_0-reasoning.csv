@@ -1,0 +1,2 @@
+Model,Run,Accuracy (%),Avg Duration (s),Avg Input Tokens,Avg Output Tokens,Total Input Tokens,Total Output Tokens,Total Samples
+bedrock-us.deepseek.r1-v1:0-reasoning,With Context,80.1,30023.92,10675.3,3671.38,12660901,4354258,1186
