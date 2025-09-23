@@ -94,8 +94,8 @@ def identify_easy_questions(question_records: QuestionMap, models: List[str]) ->
     return easy_questions
 
 
-def identify_hard_questions(question_records: QuestionMap) -> Dict[str, List[ResponseRecord]]:
-    """Questions with the maximum number of wrong answers."""
+def identify_hard_questions(question_records: QuestionMap, *, min_wrong: int | None = None) -> Dict[str, List[ResponseRecord]]:
+    """Questions with the maximum number of wrong answers or above a threshold."""
     hardest: Dict[str, List[ResponseRecord]] = {}
     max_wrong = 0
 
@@ -103,6 +103,12 @@ def identify_hard_questions(question_records: QuestionMap) -> Dict[str, List[Res
         wrong_count = sum(1 for record in records if not record.is_correct)
         if wrong_count == 0:
             continue
+
+        if min_wrong is not None:
+            if wrong_count >= min_wrong:
+                hardest[question] = records
+            continue
+
         if wrong_count > max_wrong:
             max_wrong = wrong_count
             hardest = {question: records}

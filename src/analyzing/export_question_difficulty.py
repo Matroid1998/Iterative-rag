@@ -24,10 +24,10 @@ def main() -> None:
     question_records, models = load_responses(responses_dir)
 
     easy_questions = identify_easy_questions(question_records, models)
-    hard_questions = identify_hard_questions(question_records)
+    hard_questions = identify_hard_questions(question_records, min_wrong=4)
 
     easy_path = output_dir / "easy_questions.jsonl"
-    hard_path = output_dir / "hard_questions.jsonl"
+    hard_path = output_dir / "hard_questions_min4.jsonl"
 
     write_question_map_jsonl(easy_path, easy_questions)
     write_question_map_jsonl(hard_path, hard_questions)
