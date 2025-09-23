@@ -62,16 +62,22 @@ def plot_two_series(
 ) -> None:
     allowed_set = set(allowed_models) if allowed_models is not None else None
 
-    def include_model(model: str) -> bool:
-        if allowed_set is not None and model not in allowed_set:
-            return False
+    if allowed_set is not None:
+        candidate_models = [model for model in models if model in allowed_set]
+    else:
+        candidate_models = list(models)
+
+    filtered_models: List[str] = []
+    for model in candidate_models:
         val_a = series_a.get(model)
         val_b = series_b.get(model)
         valid_a = val_a is not None and val_a == val_a
         valid_b = val_b is not None and val_b == val_b
-        return valid_a or valid_b
+        if valid_a or valid_b:
+            filtered_models.append(model)
+        elif allowed_set is not None:
+            filtered_models.append(model)
 
-    filtered_models = [model for model in models if include_model(model)]
     if not filtered_models:
         print(f"No data available for {title}; skipping plot.")
         return
@@ -79,8 +85,14 @@ def plot_two_series(
     x_positions = range(len(filtered_models))
     width = 0.35
 
-    values_a = [series_a.get(model, float("nan")) for model in filtered_models]
-    values_b = [series_b.get(model, float("nan")) for model in filtered_models]
+    def value_or_zero(series: Dict[str, float], model: str) -> float:
+        value = series.get(model)
+        if value is None or value != value:
+            return 0.0
+        return value
+
+    values_a = [value_or_zero(series_a, model) for model in filtered_models]
+    values_b = [value_or_zero(series_b, model) for model in filtered_models]
 
     fig, ax = plt.subplots(figsize=(max(6, len(filtered_models) * 1.8), 5))
     ax.bar([x - width / 2 for x in x_positions], values_a, width=width, label=label_a, color="#4c72b0")
@@ -168,24 +180,32 @@ def main() -> None:
 
     easy_questions = load_question_map_jsonl(easy_path)
     hard_questions_min4 = load_question_map_jsonl(hard_path)
+    hard_questions_3 = filter_hard_questions_by_wrong_count(hard_questions_min4, exact_wrong=3)
     hard_questions_4 = filter_hard_questions_by_wrong_count(hard_questions_min4, exact_wrong=4)
+    hard_questions_5 = filter_hard_questions_by_wrong_count(hard_questions_min4, exact_wrong=5)
     hard_questions_6 = filter_hard_questions_by_wrong_count(hard_questions_min4, exact_wrong=6)
 
     easy_summary = summarise_token_usage(easy_questions, only_wrong=False)
     hard_summary_min4 = summarise_token_usage(hard_questions_min4, only_wrong=True)
+    hard_summary_3 = summarise_token_usage(hard_questions_3, only_wrong=True)
     hard_summary_4 = summarise_token_usage(hard_questions_4, only_wrong=True)
+    hard_summary_5 = summarise_token_usage(hard_questions_5, only_wrong=True)
     hard_summary_6 = summarise_token_usage(hard_questions_6, only_wrong=True)
 
-    all_models = collect_models(easy_questions, hard_questions_min4, hard_questions_4, hard_questions_6)
+    all_models = collect_models(easy_questions, hard_questions_min4, hard_questions_3, hard_questions_4, hard_questions_5, hard_questions_6)
 
     reasoning_easy = prepare_series(easy_summary, "reasoning_avg")
     reasoning_hard_min4 = prepare_series(hard_summary_min4, "reasoning_avg")
+    reasoning_hard_3 = prepare_series(hard_summary_3, "reasoning_avg")
     reasoning_hard_4 = prepare_series(hard_summary_4, "reasoning_avg")
+    reasoning_hard_5 = prepare_series(hard_summary_5, "reasoning_avg")
     reasoning_hard_6 = prepare_series(hard_summary_6, "reasoning_avg")
 
     output_easy = prepare_series(easy_summary, "output_avg")
     output_hard_min4 = prepare_series(hard_summary_min4, "output_avg")
+    output_hard_3 = prepare_series(hard_summary_3, "output_avg")
     output_hard_4 = prepare_series(hard_summary_4, "output_avg")
+    output_hard_5 = prepare_series(hard_summary_5, "output_avg")
     output_hard_6 = prepare_series(hard_summary_6, "output_avg")
 
     repo_root = SCRIPT_DIR.parents[1]
@@ -249,6 +269,52 @@ def main() -> None:
         "Average output tokens (4 wrong vs 6 wrong questions)",
         "Average output tokens",
         plots_dir / "question_difficulty_output_tokens_4_vs_6.png",
+    )
+
+    plot_two_series(
+        all_models,
+        reasoning_hard_3,
+        reasoning_hard_5,
+        "3 wrong",
+        "5 wrong",
+        "Average reasoning tokens (3 wrong vs 5 wrong questions)",
+        "Average reasoning tokens",
+        plots_dir / "question_difficulty_reasoning_tokens_3_vs_5.png",
+        allowed_models=REASONING_MODEL_KEYS,
+    )
+
+    plot_two_series(
+        all_models,
+        output_hard_3,
+        output_hard_5,
+        "3 wrong",
+        "5 wrong",
+        "Average output tokens (3 wrong vs 5 wrong questions)",
+        "Average output tokens",
+        plots_dir / "question_difficulty_output_tokens_3_vs_5.png",
+    )
+
+    plot_two_series(
+        all_models,
+        reasoning_hard_4,
+        reasoning_hard_5,
+        "4 wrong",
+        "5 wrong",
+        "Average reasoning tokens (4 wrong vs 5 wrong questions)",
+        "Average reasoning tokens",
+        plots_dir / "question_difficulty_reasoning_tokens_4_vs_5.png",
+        allowed_models=REASONING_MODEL_KEYS,
+    )
+
+    plot_two_series(
+        all_models,
+        output_hard_4,
+        output_hard_5,
+        "4 wrong",
+        "5 wrong",
+        "Average output tokens (4 wrong vs 5 wrong questions)",
+        "Average output tokens",
+        plots_dir / "question_difficulty_output_tokens_4_vs_5.png",
     )
 
     plot_hop_bar_chart(
