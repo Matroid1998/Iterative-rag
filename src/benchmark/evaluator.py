@@ -590,7 +590,7 @@ class Evaluate:
         responses_save_path: str = None,
         verifier_provider: Provider = Provider.OPENAI,
         verifier_model: str = "gpt-5-mini",
-        num_workers: int = 10,
+        num_workers: int = 4,
         bedrock_cooldown: float = 0.5,
     ):
         self.qa_llm = qa_llm

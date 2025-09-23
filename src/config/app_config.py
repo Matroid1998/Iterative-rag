@@ -36,7 +36,7 @@ HF_BASE_URL: str = "https://api-inference.huggingface.co/models"
 # Planning knobs
 PASSAGES_TOP_K: int = 20
 PLANNER_DEFAULT_K: int = 8
-PLANNER_MAX_ACTIONS: int = 6
+PLANNER_MAX_ACTIONS: int = 7
 ALLOW_KG: bool = False
 
 

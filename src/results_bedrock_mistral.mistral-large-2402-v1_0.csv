@@ -1,0 +1,2 @@
+Model,Run,Accuracy (%),Avg Duration (s),Avg Input Tokens,Avg Output Tokens,Total Input Tokens,Total Output Tokens,Total Samples
+bedrock-mistral.mistral-large-2402-v1:0,With Context,71.08,17436.64,19876.46,513.13,23573480,608576,1186

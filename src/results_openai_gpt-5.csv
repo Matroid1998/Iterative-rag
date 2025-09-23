@@ -1,0 +1,2 @@
+Model,Run,Accuracy (%),Avg Duration (s),Avg Input Tokens,Avg Output Tokens,Total Input Tokens,Total Output Tokens,Total Samples
+openai-gpt-5,With Context,80.3,91524.39,8663.82,5599.63,10249296,6624362,1183
