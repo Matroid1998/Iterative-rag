@@ -8,6 +8,7 @@ from __future__ import annotations
 import argparse
 import csv
 import json
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from pathlib import Path
 from typing import Iterable, Tuple
@@ -26,8 +27,7 @@ Decide whether Expected and Candidate name the SAME chemical entity.
 What counts as the SAME
 - Aliases, common vs IUPAC names, and formulas refer to the same thing (e.g., lithium chloride = LiCl; acetic acid = ethanoic acid).
 - Minor packaging/context words don’t change identity: material, compound, sample, reagent, powder, nanopowder, precursor, solution.
-- The Candidate may be a long sentence or paragraph with explanations; as long as it explicitly names the same entity anywhere, count it as the same.
-- Subset acceptance: If Expected names a class/category and Candidate names a specific member/subclass that clearly falls under Expected, answer true (e.g., “chiral spirocycles” vs “Germanium-centered chiral spirocycles” → true).
+- The Candidate may be a long sentence or paragraph with explanations; as long as it explicitly names the same entity as the answer, count it as the same.
 
 What is NOT the same
 - Different polymorph/crystal structure/phase (wurtzite ZnO vs rocksalt ZnO).
@@ -36,28 +36,19 @@ What is NOT the same
 - Different hydration/solvation (CuSO₄ vs CuSO₄·5H₂O).
 - Different stereochemistry or isotopic labeling (L- vs D-; ¹³C-labeled vs unlabeled).
 - Salt vs parent acid/base (acetate vs acetic acid).
-- Class/family vs specific member in the opposite direction: If Expected is specific and Candidate only names a broader class (without explicitly naming the Expected entity), answer false (e.g., Expected “lithium chloride”; Candidate “alkali metal chlorides” → false).
+- Class/family vs specific member (alkali metal chloride vs lithium chloride) unless the specific Expected entity is explicitly named.
 - Candidate only mentions Expected to negate/contrast it (“not”, “instead of”, “different from”, “vs”) while naming a different main entity.
 
-Tie-breakers (multi-entity Candidates)
-- If Candidate lists multiple entities and includes the Expected entity among them, answer true unless Expected is mentioned only as a contrast/alternative and a different entity is asserted as the subject.
-
 Decision rule
-- If Candidate explicitly names the same entity as Expected (or a specific member of an Expected class), even inside a much longer explanation, answer: true. The goal is to detect whether the LLM found the correct answer.
-- Otherwise, answer: false.
-- The subset rule NEVER overrides the “What is NOT the same” chemistry-changing distinctions above.
+- If Candidate explicitly names the same entity as Expected (even inside a much longer explanation) for the question, answer: true. I just want to know whether LLM found the answer or not. Longer explanation doesn't change the fact that whether the model found the correct answer or not.
+- Otherwise, answer: false
 
 Output
 Answer with exactly: true or false
 
 Examples
-Expected: chiral spirocycles
-Candidate: We investigated Germanium-centered chiral spirocycles because of their configurational stability.
-Answer: true
-
-
 Expected: wurtzite ZnO
-Candidate: The ZnO polymorph used as the precursor in the synthesis of rs-ZnO was wurtzite ZnO (w-ZnO).
+Candidate: The ZnO polymorph used as the precursor in the synthesis of rsZnO according to high-pressure nanopowder synthesis methods is wurtzite ZnO (wZnO).
 Answer: true
 
 Expected: wurtzite ZnO
@@ -67,7 +58,8 @@ Answer: false
 Now it is your turn to answer:
 Expected: {expected}
 Candidate: {candidate}
-Answer with true or false."""
+Answer with true or false.
+"""
 
 
 def parse_args() -> argparse.Namespace:
@@ -117,7 +109,8 @@ def verify_pair(verifier: StructuredLLM, expected: str, candidate: str) -> bool:
     return bool(getattr(parsed, "are_the_same", False))
 
 
-def reverify_file(path: Path, verifier: StructuredLLM) -> Tuple[int, int, Path]:
+def reverify_file(path: Path, provider_name: str, model_id: str) -> Tuple[int, int, Path]:
+    verifier = build_verifier(provider_name, model_id)
     total = 0
     correct = 0
     output_path = path.with_name(f"{path.stem}_reverified{path.suffix}")
@@ -129,7 +122,14 @@ def reverify_file(path: Path, verifier: StructuredLLM) -> Tuple[int, int, Path]:
             stripped = raw_line.strip()
             if not stripped:
                 continue
-            record = json.loads(stripped)
+            try:
+                record = json.loads(stripped)
+            except json.JSONDecodeError:
+                dst.write(raw_line)
+                if not raw_line.endswith("\n"):
+                    dst.write("\n")
+                dst.flush()
+                continue
             total += 1
 
             raw = record.get("raw") or {}
@@ -181,31 +181,43 @@ def main() -> None:
     if not args.input_folder.is_dir():
         raise FileNotFoundError(f"Input folder not found: {args.input_folder}")
 
-    verifier = build_verifier(args.verifier_provider, args.verifier_model)
-
     accuracy_rows = []
     timestamp = datetime.now().isoformat(timespec="seconds")
 
     jsonl_files = list(iter_jsonl_files(args.input_folder))
-    progress = tqdm(jsonl_files, dynamic_ncols=True)
-    progress.set_postfix({"verifier": args.verifier_model})
-    for jsonl_path in progress:
-        model_label = jsonl_path.stem.replace("responses_", "", 1)
-        progress.set_description(f"Reverifying {model_label}")
-        total, correct, output_path = reverify_file(jsonl_path, verifier)
-        accuracy = (correct / total) if total else 0.0
-        accuracy_rows.append(
-            {
-                "timestamp": timestamp,
-                "folder": str(args.input_folder),
-                "file_name": output_path.name,
-                "total_questions": total,
-                "correct_answers": correct,
-                "accuracy": f"{accuracy:.4f}",
-                "verifier_provider": args.verifier_provider,
-                "verifier_model": args.verifier_model,
+    if not jsonl_files:
+        return
+
+    def process_file(jsonl_path: Path):
+        return reverify_file(jsonl_path, args.verifier_provider, args.verifier_model)
+
+    with tqdm(total=len(jsonl_files), dynamic_ncols=True) as progress:
+        progress.set_postfix({"verifier": args.verifier_model})
+
+        with ThreadPoolExecutor(max_workers=6) as executor:
+            future_to_path = {
+                executor.submit(process_file, path): path for path in jsonl_files
             }
-        )
+
+            for future in as_completed(future_to_path):
+                jsonl_path = future_to_path[future]
+                model_label = jsonl_path.stem.replace("responses_", "", 1)
+                progress.set_description(f"Reverifying {model_label}")
+                total, correct, output_path = future.result()
+                accuracy = (correct / total) if total else 0.0
+                accuracy_rows.append(
+                    {
+                        "timestamp": timestamp,
+                        "folder": str(args.input_folder),
+                        "file_name": output_path.name,
+                        "total_questions": total,
+                        "correct_answers": correct,
+                        "accuracy": f"{accuracy:.4f}",
+                        "verifier_provider": args.verifier_provider,
+                        "verifier_model": args.verifier_model,
+                    }
+                )
+                progress.update(1)
 
     append_accuracy_rows(args.accuracy_csv, accuracy_rows)
 
