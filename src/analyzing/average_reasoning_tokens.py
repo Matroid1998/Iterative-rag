@@ -29,6 +29,12 @@ REASONING_MODEL_KEYS = {
 }
 
 
+def normalize_model_key(stem: str) -> str:
+    if stem.endswith("_reverified"):
+        stem = stem[: -len("_reverified")]
+    return stem
+
+
 def accumulate_reasoning_stats(path: Path) -> Dict[bool, Tuple[float, int]]:
     """Return total reasoning tokens and counts keyed by correctness."""
     totals: Dict[bool, Tuple[float, int]] = defaultdict(lambda: (0.0, 0))
@@ -63,7 +69,9 @@ def compute_average(total: float, count: int) -> float:
 def main() -> None:
     script_dir = Path(__file__).resolve().parent
     repo_root = script_dir.parents[1]
-    responses_dir = repo_root / "src" / "responses"
+    responses_dir = repo_root / "src" / "responses_reverified"
+    if not responses_dir.exists():
+        responses_dir = repo_root / "src" / "responses"
     plots_dir = repo_root / "src" / "plots"
     output_path = plots_dir / "average_reasoning_tokens.png"
 
@@ -76,7 +84,7 @@ def main() -> None:
     wrong_avgs = []
 
     for path in jsonl_files:
-        model_key = path.stem
+        model_key = normalize_model_key(path.stem)
         if model_key not in REASONING_MODEL_KEYS:
             continue
         display_name = MODEL_NAME_MAP.get(model_key, model_key)

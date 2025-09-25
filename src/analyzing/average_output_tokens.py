@@ -21,6 +21,12 @@ MODEL_NAME_MAP: Dict[str, str] = {
 }
 
 
+def normalize_model_key(stem: str) -> str:
+    if stem.endswith("_reverified"):
+        stem = stem[: -len("_reverified")]
+    return stem
+
+
 def accumulate_output_stats(path: Path) -> Dict[bool, Tuple[float, int]]:
     """Return total output tokens and counts keyed by correctness."""
     totals: Dict[bool, Tuple[float, int]] = defaultdict(lambda: (0.0, 0))
@@ -59,7 +65,9 @@ def resolve_label(model_key: str) -> str:
 def main() -> None:
     script_dir = Path(__file__).resolve().parent
     repo_root = script_dir.parents[1]
-    responses_dir = repo_root / "src" / "responses"
+    responses_dir = repo_root / "src" / "responses_reverified"
+    if not responses_dir.exists():
+        responses_dir = repo_root / "src" / "responses"
     plots_dir = repo_root / "src" / "plots"
     output_path = plots_dir / "average_output_tokens.png"
 
@@ -72,7 +80,7 @@ def main() -> None:
     wrong_avgs = []
 
     for path in jsonl_files:
-        model_key = path.stem
+        model_key = normalize_model_key(path.stem)
         display_name = resolve_label(model_key)
 
         stats = accumulate_output_stats(path)

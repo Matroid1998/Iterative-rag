@@ -20,6 +20,12 @@ MODEL_NAME_MAP: Dict[str, str] = {
 REASONING_MODEL_KEYS = set(MODEL_NAME_MAP.keys())
 
 
+def normalize_model_key(stem: str) -> str:
+    if stem.endswith("_reverified"):
+        stem = stem[: -len("_reverified")]
+    return stem
+
+
 def determine_layout(n_items: int) -> tuple[int, int]:
     if n_items <= 1:
         return 1, 1
@@ -83,12 +89,17 @@ def average_reasoning_tokens(path: Path) -> Dict[str, float]:
 def main() -> None:
     script_dir = Path(__file__).resolve().parent
     repo_root = script_dir.parents[1]
-    responses_dir = repo_root / "src" / "responses"
+    responses_dir = repo_root / "src" / "responses_reverified"
+    if not responses_dir.exists():
+        responses_dir = repo_root / "src" / "responses"
     plots_dir = repo_root / "src" / "plots"
     output_path = plots_dir / "reasoning_tokens_per_hop.png"
 
     all_jsonl_files = sorted(responses_dir.glob("*.jsonl"))
-    reasoning_files = [path for path in all_jsonl_files if path.stem in REASONING_MODEL_KEYS]
+    reasoning_files = []
+    for path in all_jsonl_files:
+        if normalize_model_key(path.stem) in REASONING_MODEL_KEYS:
+            reasoning_files.append(path)
 
     if not reasoning_files:
         raise RuntimeError("No reasoning-capable response files found.")
@@ -108,7 +119,7 @@ def main() -> None:
         else:
             ax.text(0.5, 0.5, "No data", ha="center", va="center")
 
-        display_name = MODEL_NAME_MAP.get(path.stem, path.stem)
+        display_name = MODEL_NAME_MAP.get(normalize_model_key(path.stem), path.stem)
         ax.set_title(display_name, fontsize=10)
         ax.set_xlabel("Number of hops")
 

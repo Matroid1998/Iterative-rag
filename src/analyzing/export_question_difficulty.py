@@ -17,7 +17,7 @@ from easy_hard_question_analysis import (
 def main() -> None:
     script_dir = Path(__file__).resolve().parent
     repo_root = script_dir.parents[1]
-    responses_dir = repo_root / "src" / "responses"
+    responses_dir = repo_root / "src"
     output_dir = script_dir / "data"
     output_dir.mkdir(parents=True, exist_ok=True)
 

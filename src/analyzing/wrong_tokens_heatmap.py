@@ -29,6 +29,12 @@ REASONING_MODEL_KEYS = {
 }
 
 
+def normalize_model_key(stem: str) -> str:
+    if stem.endswith("_reverified"):
+        stem = stem[: -len("_reverified")]
+    return stem
+
+
 def determine_layout(n_items: int) -> tuple[int, int]:
     if n_items == 0:
         return 1, 1
@@ -143,7 +149,7 @@ def prepare_heatmap_data(paths: Sequence[Path], token_field: str) -> List[Tuple[
 
     for path in paths:
         records = collect_wrong_records(path, token_field)
-        per_model_records.append((path.stem, records))
+        per_model_records.append((normalize_model_key(path.stem), records))
         all_values.extend(token for _, token in records)
 
     edges = compute_token_bins(all_values)
@@ -216,14 +222,16 @@ def plot_heatmaps(data: List[Tuple[str, List[str], List[str], np.ndarray]], outp
 def main() -> None:
     script_dir = Path(__file__).resolve().parent
     repo_root = script_dir.parents[1]
-    responses_dir = repo_root / "src" / "responses"
+    responses_dir = repo_root / "src" / "responses_reverified"
+    if not responses_dir.exists():
+        responses_dir = repo_root / "src" / "responses"
     plots_dir = repo_root / "src" / "plots"
 
     jsonl_files = sorted(responses_dir.glob("*.jsonl"))
     if not jsonl_files:
         raise RuntimeError(f"No JSONL files found in {responses_dir}")
 
-    reasoning_paths = [path for path in jsonl_files if path.stem in REASONING_MODEL_KEYS]
+    reasoning_paths = [path for path in jsonl_files if normalize_model_key(path.stem) in REASONING_MODEL_KEYS]
     reasoning_data = prepare_heatmap_data(reasoning_paths, "reasoning_tokens")
     if reasoning_data:
         plot_heatmaps(reasoning_data, plots_dir / "wrong_reasoning_tokens_heatmap.png", "Wrong answers vs reasoning tokens and hops")

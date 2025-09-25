@@ -21,6 +21,12 @@ MODEL_NAME_MAP: Dict[str, str] = {
 }
 
 
+def normalize_model_key(stem: str) -> str:
+    if stem.endswith("_reverified"):
+        stem = stem[: -len("_reverified")]
+    return stem
+
+
 def determine_layout(n_items: int) -> tuple[int, int]:
     if n_items <= 2:
         return 1, n_items or 1
@@ -80,7 +86,9 @@ def average_output_tokens(path: Path) -> Dict[str, float]:
 def main() -> None:
     script_dir = Path(__file__).resolve().parent
     repo_root = script_dir.parents[1]
-    responses_dir = repo_root / "src" / "responses"
+    responses_dir = repo_root / "src" / "responses_reverified"
+    if not responses_dir.exists():
+        responses_dir = repo_root / "src" / "responses"
     plots_dir = repo_root / "src" / "plots"
     output_path = plots_dir / "output_tokens_per_hop.png"
 
@@ -103,8 +111,8 @@ def main() -> None:
         else:
             ax.text(0.5, 0.5, "No data", ha="center", va="center")
 
-        model_key = path.stem
-        display_name = MODEL_NAME_MAP.get(model_key, model_key)
+        model_key = normalize_model_key(path.stem)
+        display_name = MODEL_NAME_MAP.get(model_key, path.stem)
         ax.set_title(display_name, fontsize=10)
         ax.set_xlabel("Number of hops")
 

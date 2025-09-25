@@ -69,7 +69,9 @@ def flatten_axes(axes) -> list:
 def main() -> None:
     script_dir = Path(__file__).resolve().parent
     repo_root = script_dir.parents[1]
-    responses_dir = repo_root / "src" / "responses"
+    responses_dir = repo_root / "src" / "responses_reverified"
+    if not responses_dir.exists():
+        responses_dir = repo_root / "src" / "responses"
     output_path = script_dir / "wrong_answers_per_hop.png"
 
     jsonl_files = sorted(responses_dir.glob("*.jsonl"))

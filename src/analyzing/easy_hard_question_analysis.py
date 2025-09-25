@@ -35,14 +35,24 @@ QuestionMap = Dict[str, List[ResponseRecord]]
 MAX_QUESTION_DETAILS = 10
 
 
-def load_responses(responses_dir: Path) -> Tuple[QuestionMap, List[str]]:
+def normalize_model_key(stem: str) -> str:
+    if stem.endswith("_reverified"):
+        stem = stem[: -len("_reverified")]
+    return stem
+
+
+def load_responses(responses_base: Path) -> Tuple[QuestionMap, List[str]]:
     """Load response JSONL files and group records by question text."""
     question_records: QuestionMap = defaultdict(list)
     models: List[str] = []
 
-    for path in sorted(responses_dir.glob("*.jsonl")):
+    preferred_dir = responses_base / "responses_reverified"
+    if not preferred_dir.exists():
+        preferred_dir = responses_base / "responses"
+
+    for path in sorted(preferred_dir.glob("*.jsonl")):
         model_key = path.stem
-        models.append(model_key)
+        models.append(normalize_model_key(model_key))
         with path.open("r", encoding="utf-8") as handle:
             for line_number, line in enumerate(handle, 1):
                 line = line.strip()
@@ -59,7 +69,7 @@ def load_responses(responses_dir: Path) -> Tuple[QuestionMap, List[str]]:
                     continue
 
                 record = ResponseRecord(
-                    model=model_key,
+                    model=normalize_model_key(model_key),
                     is_correct=bool(entry.get("is_correct")),
                     reasoning_tokens=_safe_float(entry.get("reasoning_tokens")),
                     output_tokens=_safe_float(entry.get("output_tokens")),
@@ -124,10 +134,11 @@ def summarise_token_usage(question_map: Dict[str, List[ResponseRecord]], only_wr
         for record in records:
             if only_wrong and record.is_correct:
                 continue
+            model_key = normalize_model_key(record.model)
             if record.reasoning_tokens is not None:
-                per_model_tokens[record.model]["reasoning"].append(record.reasoning_tokens)
+                per_model_tokens[model_key]["reasoning"].append(record.reasoning_tokens)
             if record.output_tokens is not None:
-                per_model_tokens[record.model]["output"].append(record.output_tokens)
+                per_model_tokens[model_key]["output"].append(record.output_tokens)
 
     summaries: Dict[str, Dict[str, float]] = {}
     for model, token_lists in per_model_tokens.items():
@@ -237,7 +248,7 @@ def load_question_map_jsonl(path: Path) -> Dict[str, List[ResponseRecord]]:
             for record_data in records_data:
                 question_map[question].append(
                     ResponseRecord(
-                        model=record_data.get("model", ""),
+                        model=normalize_model_key(record_data.get("model", "")),
                         is_correct=bool(record_data.get("is_correct")),
                         reasoning_tokens=_safe_float(record_data.get("reasoning_tokens")),
                         output_tokens=_safe_float(record_data.get("output_tokens")),
