@@ -1,10 +1,10 @@
 timestamp,folder,file_name,total_questions,correct_answers,accuracy,verifier_provider,verifier_model
-2025-09-24T02:13:17,responses_reverified,responses_bedrock_mistral.mistral-large-2402-v1:0_reverified.jsonl,1186,893,0.7530,openai,gpt-5-mini
-2025-09-24T02:13:17,responses_reverified,responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning_reverified.jsonl,1186,1021,0.8609,openai,gpt-5-mini
-2025-09-24T02:13:17,responses_reverified,responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0_reverified.jsonl,1186,1002,0.8449,openai,gpt-5-mini
-2025-09-24T02:13:17,responses_reverified,responses_bedrock_us.deepseek.r1-v1:0-reasoning_reverified.jsonl,1186,976,0.8229,openai,gpt-5-mini
-2025-09-24T02:13:17,responses_reverified,responses_openai_gpt-4o_reverified.jsonl,1186,972,0.8196,openai,gpt-5-mini
-2025-09-24T02:13:17,responses_reverified,responses_openai_gpt-5_reverified.jsonl,1186,959,0.8086,openai,gpt-5-mini
+2025-09-24T02:13:17,Iterative-RAG,responses_bedrock_mistral.mistral-large-2402-v1:0_reverified.jsonl,1186,893,0.7530,openai,gpt-5-mini
+2025-09-24T02:13:17,Iterative-RAG,responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning_reverified.jsonl,1186,1021,0.8609,openai,gpt-5-mini
+2025-09-24T02:13:17,Iterative-RAG,responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0_reverified.jsonl,1186,1002,0.8449,openai,gpt-5-mini
+2025-09-24T02:13:17,Iterative-RAG,responses_bedrock_us.deepseek.r1-v1:0-reasoning_reverified.jsonl,1186,976,0.8229,openai,gpt-5-mini
+2025-09-24T02:13:17,Iterative-RAG,responses_openai_gpt-4o_reverified.jsonl,1186,972,0.8196,openai,gpt-5-mini
+2025-09-24T02:13:17,Iterative-RAG,responses_openai_gpt-5_reverified.jsonl,1186,959,0.8086,openai,gpt-5-mini
 2025-09-24T02:13:17,response-jsonl-with-context,responses_bedrock_mistral.mistral-large-2402-v1:0_reverified.jsonl,1186,861,0.7260,openai,gpt-5-mini
 2025-09-24T02:13:17,response-jsonl-with-context,responses_bedrock_us.anthropic.claude-3-5-sonnet-20241022-v2:0_reverified.jsonl,1186,746,0.6290,openai,gpt-5-mini
 2025-09-24T02:13:17,response-jsonl-with-context,responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning_reverified.jsonl,1186,869,0.7327,openai,gpt-5-mini
