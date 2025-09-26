@@ -1,0 +1,66 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Unanswered Questions vs Total Hops",
+  "data": {
+    "values": [
+      {
+        "category": "Iterative RAG",
+        "metric": "Unanswered Questions",
+        "value": 41
+      },
+      {
+        "category": "Iterative RAG",
+        "metric": "Total Hops",
+        "value": 726
+      },
+      {
+        "category": "Without Context",
+        "metric": "Unanswered Questions",
+        "value": 435
+      },
+      {
+        "category": "Without Context",
+        "metric": "Total Hops",
+        "value": 0
+      },
+      {
+        "category": "Gold Context",
+        "metric": "Unanswered Questions",
+        "value": 111
+      },
+      {
+        "category": "Gold Context",
+        "metric": "Total Hops",
+        "value": 0
+      }
+    ]
+  },
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "field": "category",
+      "type": "nominal",
+      "axis": {
+        "title": "Category"
+      }
+    },
+    "y": {
+      "field": "value",
+      "type": "quantitative",
+      "axis": {
+        "title": "Value"
+      }
+    },
+    "color": {
+      "field": "metric",
+      "type": "nominal",
+      "legend": {
+        "title": "Metric"
+      }
+    },
+    "column": {
+      "field": "metric",
+      "type": "nominal"
+    }
+  }
+}
