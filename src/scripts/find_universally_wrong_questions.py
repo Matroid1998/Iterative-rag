@@ -139,6 +139,7 @@ def main() -> None:
     output_dir.mkdir(parents=True, exist_ok=True)
 
     folder_stats: Dict[Path, Dict[str, Dict[str, object]]] = {}
+    unanswered_by_folder: Dict[Path, list] = {}
     errors = []
 
     for folder in folders:
@@ -212,6 +213,8 @@ def main() -> None:
                     attempt_data = {
                         "file": path.name,
                         "answer": candidate,
+                        "number_of_hops": hop_count,
+                        "is_correct": bool(is_correct),
                     }
                     entry["attempts"].append(attempt_data)
 
@@ -250,6 +253,8 @@ def main() -> None:
             f"(written to {relative_output})"
         )
 
+        unanswered_by_folder[folder] = unanswered_records
+
         if args.list and unanswered_records:
             for record in unanswered_records:
                 expected_display = (
@@ -270,7 +275,65 @@ def main() -> None:
                     for file_name, hops in hops_map.items():
                         print(f"- {file_name}: {hops}")
                 for attempt in record["model_attempts"]:
-                    print(f"- {attempt['file']}: answer={attempt['answer']}")
+                    status = "correct" if attempt.get("is_correct") else "incorrect"
+                    print(
+                        f"- {attempt['file']}: answer={attempt['answer']} ({status})"
+                    )
+
+    if folders:
+        base_folder = folders[0]
+        base_unanswered = unanswered_by_folder.get(base_folder, [])
+        answered_elsewhere_records = []
+
+        for record in base_unanswered:
+            question = record["question"]
+            answered_in = []
+            for other_folder, per_stats in folder_stats.items():
+                if other_folder == base_folder:
+                    continue
+                data = per_stats.get(question)
+                if not data:
+                    continue
+                correct_attempts = [
+                    attempt
+                    for attempt in data["attempts"]
+                    if attempt.get("is_correct")
+                ]
+                if correct_attempts:
+                    answered_in.append(
+                        {
+                            "source_folder": other_folder.name,
+                            "attempts": correct_attempts,
+                        }
+                    )
+
+            if answered_in:
+                answered_elsewhere_records.append(
+                    {
+                        "question": question,
+                        "expected_answers": record["expected_answers"],
+                        "answered_in": answered_in,
+                    }
+                )
+
+        if answered_elsewhere_records:
+            cross_output = (
+                output_dir / f"{base_folder.name}_answered_elsewhere.jsonl"
+            )
+            with cross_output.open("w", encoding="utf-8") as handle:
+                for cross_record in answered_elsewhere_records:
+                    json.dump(cross_record, handle, ensure_ascii=False)
+                    handle.write("\n")
+
+            try:
+                relative_cross = cross_output.relative_to(base)
+            except ValueError:
+                relative_cross = cross_output
+
+            print(
+                f"{base_folder.name}: {len(answered_elsewhere_records)} unanswered here but answered elsewhere "
+                f"(written to {relative_cross})"
+            )
 
     if errors:
         if args.show_warnings:
