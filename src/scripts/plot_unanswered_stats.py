@@ -25,6 +25,18 @@ def load_records(path: Path) -> List[dict]:
     return records
 
 
+def iter_records(path: Path) -> Iterable[dict]:
+    with path.open("r", encoding="utf-8") as handle:
+        for raw_line in handle:
+            stripped = raw_line.strip()
+            if not stripped:
+                continue
+            try:
+                yield json.loads(stripped)
+            except json.JSONDecodeError:
+                continue
+
+
 def extract_question(record: dict) -> str | None:
     question = record.get("question")
     if isinstance(question, str) and question.strip():
@@ -38,33 +50,36 @@ def extract_question(record: dict) -> str | None:
     return None
 
 
-def build_reference_hops(records: Iterable[dict]) -> Dict[str, List[int]]:
+def build_reference_hops(folder: Path) -> Dict[str, List[int]]:
     lookup: Dict[str, List[int]] = {}
-    for record in records:
-        question = extract_question(record)
-        if not question:
-            continue
-        values: List[int] = []
-        hop_map = record.get("number_of_hops")
-        if isinstance(hop_map, dict):
-            values.extend(
-                int(round(value))
-                for value in hop_map.values()
-                if isinstance(value, (int, float))
-            )
-        attempts = record.get("model_attempts")
-        if isinstance(attempts, list):
-            for attempt in attempts:
-                hop_value = attempt.get("number_of_hops")
-                if isinstance(hop_value, (int, float)):
-                    values.append(int(round(hop_value)))
-        if values:
-            lookup[question] = values
+    for path in folder.glob("*.jsonl"):
+        for record in iter_records(path):
+            question = extract_question(record)
+            if not question:
+                continue
+            hop_value = record.get("number_of_hops")
+            if isinstance(hop_value, (int, float)):
+                lookup.setdefault(question, []).append(int(round(hop_value)))
+    return lookup
+
+
+def build_folder_hops(folder: Path) -> Dict[str, List[int]]:
+    lookup: Dict[str, List[int]] = {}
+    for path in folder.glob("*.jsonl"):
+        for record in iter_records(path):
+            question = extract_question(record)
+            if not question:
+                continue
+            hop_value = record.get("number_of_hops")
+            if isinstance(hop_value, (int, float)):
+                lookup.setdefault(question, []).append(int(round(hop_value)))
     return lookup
 
 
 def prepare_category_stats(
-    records: Iterable[dict], fallback_lookup: Dict[str, List[int]] | None
+    records: Iterable[dict],
+    folder_lookup: Dict[str, List[int]] | None,
+    fallback_lookup: Dict[str, List[int]] | None,
 ) -> Tuple[int, List[int]]:
     unanswered = 0
     hop_counts: List[int] = []
@@ -78,6 +93,17 @@ def prepare_category_stats(
                 for value in hop_map.values()
                 if isinstance(value, (int, float))
             )
+        if not hops and folder_lookup:
+            question = extract_question(record)
+            if question and question in folder_lookup:
+                hops.extend(folder_lookup[question])
+        if not hops:
+            attempts = record.get("model_attempts")
+            if isinstance(attempts, list):
+                for attempt in attempts:
+                    hop_value = attempt.get("number_of_hops")
+                    if isinstance(hop_value, (int, float)):
+                        hops.append(int(round(hop_value)))
         if not hops and fallback_lookup:
             question = extract_question(record)
             if question and question in fallback_lookup:
@@ -152,8 +178,15 @@ def main() -> None:
     }
 
     # Preload reference data from the iterative RAG run to reuse hop counts
+    folder_lookups = {
+        label: build_folder_hops(path)
+        for label, path in datasets.items()
+    }
+
+    raw_responses_dir = base / "responses"
+    reference_hops = build_reference_hops(raw_responses_dir)
+
     reference_records = load_records(datasets["Iterative RAG"])
-    reference_hops = build_reference_hops(reference_records)
 
     categories: List[str] = []
     unanswered_counts: List[int] = []
@@ -162,11 +195,13 @@ def main() -> None:
     for label, path in datasets.items():
         if label == "Iterative RAG":
             records = reference_records
+            folder_lookup = folder_lookups[label]
             fallback = None
         else:
             records = load_records(path)
+            folder_lookup = folder_lookups[label]
             fallback = reference_hops
-        unanswered, hop_values = prepare_category_stats(records, fallback)
+        unanswered, hop_values = prepare_category_stats(records, folder_lookup, fallback)
         categories.append(label)
         unanswered_counts.append(unanswered)
         hop_distributions.append(hop_values)
