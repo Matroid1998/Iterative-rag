@@ -58,6 +58,7 @@ def load_model_metrics(path: Path) -> Dict[str, Dict[str, object]]:
 def compute_hard_question_data(
     responses_dir: Path,
     model_entries: List[Tuple[str, str]],
+    subtract_reasoning: bool = True,
 ) -> Tuple[
     Dict[int, List[dict]],
     Dict[int, Dict[str, int]],
@@ -122,12 +123,20 @@ def compute_hard_question_data(
         for model in wrong_models:
             incorrect_counts[wrong_count][model] += 1
             record = model_metrics[model][question]
-            token_value = adjusted_output_tokens(model, record)
+            token_value = adjusted_output_tokens(
+                model,
+                record,
+                subtract_reasoning=subtract_reasoning,
+            )
             incorrect_tokens[wrong_count][model] += token_value
         for model in correct_models:
             correct_counts[wrong_count][model] += 1
             record = model_metrics[model][question]
-            token_value = adjusted_output_tokens(model, record)
+            token_value = adjusted_output_tokens(
+                model,
+                record,
+                subtract_reasoning=subtract_reasoning,
+            )
             correct_tokens[wrong_count][model] += token_value
 
     model_names = list(model_metrics.keys())
@@ -148,12 +157,16 @@ REASONING_MODELS = {
 }
 
 
-def adjusted_output_tokens(model: str, record: Dict[str, object]) -> int:
+def adjusted_output_tokens(
+    model: str,
+    record: Dict[str, object],
+    subtract_reasoning: bool = True,
+) -> int:
     output_tokens = record.get("output_tokens")
     if not isinstance(output_tokens, int):
         return 0
     value = output_tokens
-    if model in REASONING_MODELS:
+    if subtract_reasoning and model in REASONING_MODELS:
         reasoning_tokens = record.get("reasoning_tokens")
         if isinstance(reasoning_tokens, int):
             value = max(0, value - reasoning_tokens)
