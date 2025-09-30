@@ -33,7 +33,7 @@ def normalize_model_key(stem: str) -> str:
     return stem
 
 
-def accumulate_output_stats(path: Path) -> Dict[bool, Tuple[float, int]]:
+def accumulate_output_stats(path: Path, adjust_reasoning: bool) -> Dict[bool, Tuple[float, int]]:
     """Return total output tokens and counts keyed by correctness."""
     totals: Dict[bool, Tuple[float, int]] = defaultdict(lambda: (0.0, 0))
     with path.open("r", encoding="utf-8") as handle:
@@ -54,6 +54,15 @@ def accumulate_output_stats(path: Path) -> Dict[bool, Tuple[float, int]]:
             except (TypeError, ValueError):
                 print(f"Skipping {path.name}:{line_number} (invalid output_tokens: {raw_value!r})")
                 continue
+
+            if adjust_reasoning:
+                raw_reasoning = record.get("reasoning_tokens")
+                try:
+                    reasoning_tokens = float(raw_reasoning)
+                except (TypeError, ValueError):
+                    reasoning_tokens = None
+                if reasoning_tokens is not None:
+                    output_tokens = max(0.0, output_tokens - reasoning_tokens)
 
             total, count = totals[is_correct]
             totals[is_correct] = (total + output_tokens, count + 1)
@@ -87,7 +96,7 @@ def main() -> None:
         model_key = normalize_model_key(path.stem)
         display_name = resolve_label(model_key)
 
-        stats = accumulate_output_stats(path)
+        stats = accumulate_output_stats(path, adjust_reasoning=model_key in REASONING_MODEL_KEYS)
         correct_total, correct_count = stats.get(True, (0.0, 0))
         wrong_total, wrong_count = stats.get(False, (0.0, 0))
 
@@ -102,6 +111,13 @@ def main() -> None:
 
     reasoning_entries = [entry for entry in model_entries if entry[0] in REASONING_MODEL_KEYS]
     non_reasoning_entries = [entry for entry in model_entries if entry[0] not in REASONING_MODEL_KEYS]
+
+    if model_entries:
+        plot_average_tokens(
+            model_entries,
+            plots_dir / "average_output_tokens.png",
+            "Average output tokens by correctness",
+        )
 
     if reasoning_entries:
         plot_average_tokens(
