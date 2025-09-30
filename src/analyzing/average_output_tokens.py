@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Plot average output tokens for correct vs wrong answers across all models."""
+"""Plot average output tokens for correct vs wrong answers across model groups."""
 
 from __future__ import annotations
 
 import json
 from collections import defaultdict
 from pathlib import Path
-from typing import Dict, Tuple
+from typing import Dict, List, Tuple
 
 import matplotlib.pyplot as plt
 
@@ -16,8 +16,14 @@ MODEL_NAME_MAP: Dict[str, str] = {
     "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning": "Claude 3.7 Sonnet (reasoning)",
     "responses_bedrock_us.deepseek.r1-v1:0": "DeepSeek R1",
     "responses_bedrock_us.deepseek.r1-v1:0-reasoning": "DeepSeek R1 (reasoning)",
-    "responses_openai_gpt-4o_reverified": "GPT-4o (reverified)",
+    "responses_openai_gpt-4o": "GPT-4o",
     "responses_openai_gpt-5": "GPT-5",
+}
+
+REASONING_MODEL_KEYS = {
+    "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning",
+    "responses_bedrock_us.deepseek.r1-v1:0-reasoning",
+    "responses_openai_gpt-5",
 }
 
 
@@ -69,15 +75,13 @@ def main() -> None:
     if not responses_dir.exists():
         responses_dir = repo_root / "src" / "responses"
     plots_dir = repo_root / "src" / "plots"
-    output_path = plots_dir / "average_output_tokens.png"
-
     jsonl_files = sorted(responses_dir.glob("*.jsonl"))
     if not jsonl_files:
         raise RuntimeError(f"No JSONL files found in {responses_dir}")
 
-    labels = []
-    correct_avgs = []
-    wrong_avgs = []
+    model_entries: List[Tuple[str, str, float, float]] = []
+
+    plots_dir.mkdir(parents=True, exist_ok=True)
 
     for path in jsonl_files:
         model_key = normalize_model_key(path.stem)
@@ -87,9 +91,45 @@ def main() -> None:
         correct_total, correct_count = stats.get(True, (0.0, 0))
         wrong_total, wrong_count = stats.get(False, (0.0, 0))
 
-        labels.append(display_name)
-        correct_avgs.append(compute_average(correct_total, correct_count))
-        wrong_avgs.append(compute_average(wrong_total, wrong_count))
+        model_entries.append(
+            (
+                model_key,
+                display_name,
+                compute_average(correct_total, correct_count),
+                compute_average(wrong_total, wrong_count),
+            )
+        )
+
+    reasoning_entries = [entry for entry in model_entries if entry[0] in REASONING_MODEL_KEYS]
+    non_reasoning_entries = [entry for entry in model_entries if entry[0] not in REASONING_MODEL_KEYS]
+
+    if reasoning_entries:
+        plot_average_tokens(
+            reasoning_entries,
+            plots_dir / "average_output_tokens_reasoning.png",
+            "Average output tokens (reasoning models)",
+        )
+    else:
+        print("No reasoning models found for plotting average output tokens.")
+
+    if non_reasoning_entries:
+        plot_average_tokens(
+            non_reasoning_entries,
+            plots_dir / "average_output_tokens_non_reasoning.png",
+            "Average output tokens (non-reasoning models)",
+        )
+    else:
+        print("No non-reasoning models found for plotting average output tokens.")
+
+
+def plot_average_tokens(
+    entries: List[Tuple[str, str, float, float]],
+    output_path: Path,
+    title: str,
+) -> None:
+    labels = [display_name for _, display_name, _, _ in entries]
+    correct_avgs = [correct_avg for _, _, correct_avg, _ in entries]
+    wrong_avgs = [wrong_avg for _, _, _, wrong_avg in entries]
 
     x_positions = range(len(labels))
     width = 0.35
@@ -101,7 +141,7 @@ def main() -> None:
     ax.set_xticks(list(x_positions))
     ax.set_xticklabels(labels, rotation=20, ha="right")
     ax.set_ylabel("Average output tokens")
-    ax.set_title("Average output tokens by correctness")
+    ax.set_title(title)
     ax.legend()
     ax.grid(axis="y", linestyle="--", alpha=0.4)
 
