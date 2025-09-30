@@ -8,6 +8,7 @@ from pathlib import Path
 from typing import Dict, Iterable, List, Tuple
 from collections import defaultdict
 from itertools import cycle
+from numbers import Number
 
 import matplotlib.pyplot as plt
 import numpy as np
@@ -38,14 +39,20 @@ def extract_question(record: dict) -> str | None:
     return None
 
 
-def load_model_answers(path: Path) -> Dict[str, bool]:
-    answers: Dict[str, bool] = {}
+def load_model_metrics(path: Path) -> Dict[str, Dict[str, object]]:
+    metrics: Dict[str, Dict[str, object]] = {}
     for record in iter_records(path):
         question = extract_question(record)
         if not question:
             continue
-        answers[question] = bool(record.get("is_correct"))
-    return answers
+        output_tokens = record.get("output_tokens")
+        reasoning_tokens = record.get("reasoning_tokens")
+        metrics[question] = {
+            "is_correct": bool(record.get("is_correct")),
+            "output_tokens": int(output_tokens) if isinstance(output_tokens, Number) else None,
+            "reasoning_tokens": int(reasoning_tokens) if isinstance(reasoning_tokens, Number) else None,
+        }
+    return metrics
 
 
 def compute_hard_question_data(
@@ -55,21 +62,23 @@ def compute_hard_question_data(
     Dict[int, List[dict]],
     Dict[int, Dict[str, int]],
     Dict[int, Dict[str, int]],
+    Dict[int, Dict[str, int]],
+    Dict[int, Dict[str, int]],
     List[str],
 ]:
-    model_answers: Dict[str, Dict[str, bool]] = {}
+    model_metrics: Dict[str, Dict[str, Dict[str, object]]] = {}
     for filename, display_name in model_entries:
         path = responses_dir / filename
         if not path.exists():
             continue
-        answers = load_model_answers(path)
-        if answers:
-            model_answers[display_name] = answers
+        metrics = load_model_metrics(path)
+        if metrics:
+            model_metrics[display_name] = metrics
 
-    if not model_answers:
+    if not model_metrics:
         raise SystemExit("No reverified response files found for plotting")
 
-    question_sets = [set(results.keys()) for results in model_answers.values() if results]
+    question_sets = [set(results.keys()) for results in model_metrics.values() if results]
     if not question_sets:
         raise SystemExit("No questions available after loading model responses")
     common_questions = set.intersection(*question_sets)
@@ -77,22 +86,32 @@ def compute_hard_question_data(
     categories = [4, 5, 6]
     category_questions: Dict[int, List[dict]] = {cat: [] for cat in categories}
     incorrect_counts: Dict[int, Dict[str, int]] = {
-        cat: {model: 0 for model in model_answers.keys()} for cat in categories
+        cat: {model: 0 for model in model_metrics.keys()} for cat in categories
     }
     correct_counts: Dict[int, Dict[str, int]] = {
-        cat: {model: 0 for model in model_answers.keys()} for cat in categories
+        cat: {model: 0 for model in model_metrics.keys()} for cat in categories
+    }
+    incorrect_tokens: Dict[int, Dict[str, int]] = {
+        cat: {model: 0 for model in model_metrics.keys()} for cat in categories
+    }
+    correct_tokens: Dict[int, Dict[str, int]] = {
+        cat: {model: 0 for model in model_metrics.keys()} for cat in categories
     }
 
     for question in common_questions:
-        wrong_models = [
-            model for model, answers in model_answers.items() if not answers.get(question, False)
-        ]
+        wrong_models = []
+        correct_models = []
+        for model, metrics in model_metrics.items():
+            record = metrics.get(question)
+            if not record:
+                continue
+            if record.get("is_correct"):
+                correct_models.append(model)
+            else:
+                wrong_models.append(model)
         wrong_count = len(wrong_models)
         if wrong_count not in category_questions:
             continue
-        correct_models = [
-            model for model, answers in model_answers.items() if answers.get(question, False)
-        ]
         category_questions[wrong_count].append(
             {
                 "question": question,
@@ -102,11 +121,67 @@ def compute_hard_question_data(
         )
         for model in wrong_models:
             incorrect_counts[wrong_count][model] += 1
+            record = model_metrics[model][question]
+            token_value = adjusted_output_tokens(model, record)
+            incorrect_tokens[wrong_count][model] += token_value
         for model in correct_models:
             correct_counts[wrong_count][model] += 1
+            record = model_metrics[model][question]
+            token_value = adjusted_output_tokens(model, record)
+            correct_tokens[wrong_count][model] += token_value
 
-    model_names = list(model_answers.keys())
-    return category_questions, correct_counts, incorrect_counts, model_names
+    model_names = list(model_metrics.keys())
+    return (
+        category_questions,
+        correct_counts,
+        incorrect_counts,
+        correct_tokens,
+        incorrect_tokens,
+        model_names,
+    )
+
+
+REASONING_MODELS = {
+    "GPT-5",
+    "Claude 3.7 Sonnet Thinking",
+    "DeepSeek R1",
+}
+
+
+def adjusted_output_tokens(model: str, record: Dict[str, object]) -> int:
+    output_tokens = record.get("output_tokens")
+    if not isinstance(output_tokens, int):
+        return 0
+    value = output_tokens
+    if model in REASONING_MODELS:
+        reasoning_tokens = record.get("reasoning_tokens")
+        if isinstance(reasoning_tokens, int):
+            value = max(0, value - reasoning_tokens)
+    return value
+
+
+def compute_average_map(
+    token_sums: Dict[int, Dict[str, int]],
+    count_map: Dict[int, Dict[str, int]],
+) -> Dict[int, Dict[str, float]]:
+    averages: Dict[int, Dict[str, float]] = {}
+    for category, model_totals in token_sums.items():
+        averages[category] = {}
+        for model, total in model_totals.items():
+            count = count_map.get(category, {}).get(model, 0)
+            if count:
+                averages[category][model] = total / count
+            else:
+                averages[category][model] = 0.0
+    return averages
+
+
+def format_bar_label(value: float) -> str:
+    if abs(value) < 1e-9:
+        return ""
+    if abs(value - round(value)) < 1e-6:
+        return f"{int(round(value))}"
+    return f"{value:.1f}"
 
 
 def save_question_categories(path: Path, category_questions: Dict[int, List[dict]]) -> None:
@@ -248,7 +323,7 @@ def plot_grouped_bar(
             color=model_colors.get(model, "#7f7f7f"),
             edgecolor="#ffffff",
         )
-        labels = [str(height) if height else "" for height in heights]
+        labels = [format_bar_label(float(height)) for height in heights]
         ax.bar_label(bars, labels=labels, padding=3)
 
     ax.set_xticks(x_positions)
@@ -276,9 +351,14 @@ def main() -> None:
         ("responses_openai_gpt-5_reverified.jsonl", "GPT-5"),
     ]
 
-    category_questions, correct_counts, incorrect_counts, model_names = compute_hard_question_data(
-        responses_dir, model_entries
-    )
+    (
+        category_questions,
+        correct_counts,
+        incorrect_counts,
+        correct_tokens,
+        incorrect_tokens,
+        model_names,
+    ) = compute_hard_question_data(responses_dir, model_entries)
 
     categories = [4, 5, 6]
     category_file = base / "results" / "unanswered_questions" / "hard_question_categories.json"
@@ -292,6 +372,9 @@ def main() -> None:
         "GPT-4o": "#98df8a",
         "GPT-5": "#c7c7c7",
     }
+
+    correct_token_avgs = compute_average_map(correct_tokens, correct_counts)
+    incorrect_token_avgs = compute_average_map(incorrect_tokens, incorrect_counts)
 
     plots_dir = base / "plots"
     plot_grouped_bar(
@@ -312,6 +395,26 @@ def main() -> None:
         ylabel="Questions answered incorrectly",
         title="Hard questions missed by the models",
         output_path=plots_dir / "hard_questions_incorrect_grouped.png",
+    )
+
+    plot_grouped_bar(
+        categories,
+        correct_token_avgs,
+        model_names,
+        model_colors,
+        ylabel="Average output tokens",
+        title="Output tokens on questions answered correctly",
+        output_path=plots_dir / "hard_questions_correct_grouped_tokens.png",
+    )
+
+    plot_grouped_bar(
+        categories,
+        incorrect_token_avgs,
+        model_names,
+        model_colors,
+        ylabel="Average output tokens",
+        title="Output tokens on questions missed by the models",
+        output_path=plots_dir / "hard_questions_incorrect_grouped_tokens.png",
     )
 
     plot_segmented_bar(
