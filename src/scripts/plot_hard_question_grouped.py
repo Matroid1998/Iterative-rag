@@ -1,0 +1,342 @@
+#!/usr/bin/env python3
+"""Summarise hard-question performance per model with grouped bar charts."""
+
+from __future__ import annotations
+
+import json
+from pathlib import Path
+from typing import Dict, Iterable, List, Tuple
+from collections import defaultdict
+from itertools import cycle
+
+import matplotlib.pyplot as plt
+import numpy as np
+
+
+def iter_records(path: Path) -> Iterable[dict]:
+    with path.open("r", encoding="utf-8") as handle:
+        for raw_line in handle:
+            stripped = raw_line.strip()
+            if not stripped:
+                continue
+            try:
+                yield json.loads(stripped)
+            except json.JSONDecodeError:
+                continue
+
+
+def extract_question(record: dict) -> str | None:
+    question = record.get("question")
+    if isinstance(question, str) and question.strip():
+        return question.strip()
+    for key in ("raw", "raw_response"):
+        raw = record.get(key)
+        if isinstance(raw, dict):
+            q = raw.get("question")
+            if isinstance(q, str) and q.strip():
+                return q.strip()
+    return None
+
+
+def load_model_answers(path: Path) -> Dict[str, bool]:
+    answers: Dict[str, bool] = {}
+    for record in iter_records(path):
+        question = extract_question(record)
+        if not question:
+            continue
+        answers[question] = bool(record.get("is_correct"))
+    return answers
+
+
+def compute_hard_question_data(
+    responses_dir: Path,
+    model_entries: List[Tuple[str, str]],
+) -> Tuple[
+    Dict[int, List[dict]],
+    Dict[int, Dict[str, int]],
+    Dict[int, Dict[str, int]],
+    List[str],
+]:
+    model_answers: Dict[str, Dict[str, bool]] = {}
+    for filename, display_name in model_entries:
+        path = responses_dir / filename
+        if not path.exists():
+            continue
+        answers = load_model_answers(path)
+        if answers:
+            model_answers[display_name] = answers
+
+    if not model_answers:
+        raise SystemExit("No reverified response files found for plotting")
+
+    question_sets = [set(results.keys()) for results in model_answers.values() if results]
+    if not question_sets:
+        raise SystemExit("No questions available after loading model responses")
+    common_questions = set.intersection(*question_sets)
+
+    categories = [4, 5, 6]
+    category_questions: Dict[int, List[dict]] = {cat: [] for cat in categories}
+    incorrect_counts: Dict[int, Dict[str, int]] = {
+        cat: {model: 0 for model in model_answers.keys()} for cat in categories
+    }
+    correct_counts: Dict[int, Dict[str, int]] = {
+        cat: {model: 0 for model in model_answers.keys()} for cat in categories
+    }
+
+    for question in common_questions:
+        wrong_models = [
+            model for model, answers in model_answers.items() if not answers.get(question, False)
+        ]
+        wrong_count = len(wrong_models)
+        if wrong_count not in category_questions:
+            continue
+        correct_models = [
+            model for model, answers in model_answers.items() if answers.get(question, False)
+        ]
+        category_questions[wrong_count].append(
+            {
+                "question": question,
+                "models_wrong": wrong_models,
+                "models_correct": correct_models,
+            }
+        )
+        for model in wrong_models:
+            incorrect_counts[wrong_count][model] += 1
+        for model in correct_models:
+            correct_counts[wrong_count][model] += 1
+
+    model_names = list(model_answers.keys())
+    return category_questions, correct_counts, incorrect_counts, model_names
+
+
+def save_question_categories(path: Path, category_questions: Dict[int, List[dict]]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as handle:
+        json.dump(category_questions, handle, ensure_ascii=False, indent=2)
+
+
+def plot_segmented_bar(
+    categories: List[int],
+    counts_map: Dict[int, Dict[str, int]],
+    model_names: List[str],
+    model_colors: Dict[str, str],
+    ylabel: str,
+    title: str,
+    output_path: Path,
+) -> None:
+    fig, ax = plt.subplots(figsize=(10, 6))
+
+    value_models: Dict[int, List[str]] = defaultdict(list)
+    for cat in categories:
+        for model in model_names:
+            value = counts_map[cat].get(model, 0)
+            if value > 0:
+                value_models[value].append(model)
+
+    base_palette = [
+        "#d62728",
+        "#2ca02c",
+        "#7f7f7f",
+        "#ff9896",
+        "#98df8a",
+        "#c7c7c7",
+    ]
+    multi_palette = cycle([
+        "#8c564b",
+        "#e377c2",
+        "#bcbd22",
+        "#17becf",
+    ])
+    value_colors: Dict[int, str] = {}
+    value_labels: Dict[int, str] = {}
+    for value in sorted(value_models.keys()):
+        models = sorted(set(value_models[value]))
+        if len(models) == 1:
+            model = models[0]
+            value_colors[value] = model_colors.get(model, base_palette[0])
+            value_labels[value] = f"{value}: {model}"
+        else:
+            color = next(multi_palette)
+            value_colors[value] = color
+            value_labels[value] = f"{value}: {', '.join(models)}"
+
+    x_positions = range(len(categories))
+    category_labels = [f"{cat} models wrong" for cat in categories]
+
+    for idx, cat in enumerate(categories):
+        bottom = 0
+        pairs = sorted(
+            [
+                (counts_map[cat].get(model, 0), model)
+                for model in model_names
+                if counts_map[cat].get(model, 0) > 0
+            ]
+        )
+
+        for value, model in pairs:
+            color = value_colors.get(value, "#7f7f7f")
+            ax.bar(
+                x_positions[idx],
+                value,
+                width=0.6,
+                bottom=bottom,
+                color=color,
+                edgecolor="#ffffff",
+            )
+            ax.text(
+                x_positions[idx],
+                bottom + value / 2,
+                str(value),
+                ha="center",
+                va="center",
+                fontsize=10,
+                color="black",
+            )
+            bottom += value
+
+    ax.set_xticks(list(x_positions))
+    ax.set_xticklabels(category_labels)
+    ax.set_ylabel(ylabel)
+    ax.set_xlabel("Hard questions category")
+    ax.set_title(title)
+
+    if value_models:
+        legend_handles = [
+            plt.Rectangle((0, 0), 1, 1, color=value_colors.get(value, "#7f7f7f"))
+            for value in sorted(value_labels.keys())
+        ]
+        legend_labels = [value_labels[value] for value in sorted(value_labels.keys())]
+        ax.legend(
+            handles=legend_handles,
+            labels=legend_labels,
+            title="Question count → models",
+            loc="center left",
+            bbox_to_anchor=(1.02, 0.5),
+        )
+
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    fig.savefig(output_path, dpi=200, bbox_inches="tight")
+    plt.close(fig)
+
+
+def plot_grouped_bar(
+    categories: List[int],
+    counts_map: Dict[int, Dict[str, int]],
+    model_names: List[str],
+    model_colors: Dict[str, str],
+    ylabel: str,
+    title: str,
+    output_path: Path,
+) -> None:
+    x_positions = np.arange(len(categories))
+    num_models = len(model_names)
+    if num_models == 0:
+        raise ValueError("At least one model is required to plot grouped bars")
+
+    width = min(0.8 / num_models, 0.18)
+    offsets = (np.arange(num_models) - (num_models - 1) / 2) * width
+
+    fig, ax = plt.subplots(figsize=(10, 6))
+
+    for idx, model in enumerate(model_names):
+        heights = [counts_map[cat].get(model, 0) for cat in categories]
+        bars = ax.bar(
+            x_positions + offsets[idx],
+            heights,
+            width=width,
+            label=model,
+            color=model_colors.get(model, "#7f7f7f"),
+            edgecolor="#ffffff",
+        )
+        labels = [str(height) if height else "" for height in heights]
+        ax.bar_label(bars, labels=labels, padding=3)
+
+    ax.set_xticks(x_positions)
+    ax.set_xticklabels([f"{cat} models wrong" for cat in categories])
+    ax.set_ylabel(ylabel)
+    ax.set_xlabel("Hard questions category")
+    ax.set_title(title)
+    ax.legend(loc="upper right")
+
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    fig.savefig(output_path, dpi=200, bbox_inches="tight")
+    plt.close(fig)
+
+
+def main() -> None:
+    base = Path(__file__).resolve().parents[1]
+    responses_dir = base / "responses_reverified"
+
+    model_entries: List[Tuple[str, str]] = [
+        ("responses_bedrock_mistral.mistral-large-2402-v1:0_reverified.jsonl", "Mistral Large 2402"),
+        ("responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning_reverified.jsonl", "Claude 3.7 Sonnet Thinking"),
+        ("responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0_reverified.jsonl", "Claude 3.7 Sonnet"),
+        ("responses_bedrock_us.deepseek.r1-v1:0-reasoning_reverified.jsonl", "DeepSeek R1"),
+        ("responses_openai_gpt-4o_reverified.jsonl", "GPT-4o"),
+        ("responses_openai_gpt-5_reverified.jsonl", "GPT-5"),
+    ]
+
+    category_questions, correct_counts, incorrect_counts, model_names = compute_hard_question_data(
+        responses_dir, model_entries
+    )
+
+    categories = [4, 5, 6]
+    category_file = base / "results" / "unanswered_questions" / "hard_question_categories.json"
+    save_question_categories(category_file, category_questions)
+
+    model_colors = {
+        "Mistral Large 2402": "#d62728",
+        "Claude 3.7 Sonnet Thinking": "#2ca02c",
+        "Claude 3.7 Sonnet": "#7f7f7f",
+        "DeepSeek R1": "#ff9896",
+        "GPT-4o": "#98df8a",
+        "GPT-5": "#c7c7c7",
+    }
+
+    plots_dir = base / "plots"
+    plot_grouped_bar(
+        categories,
+        correct_counts,
+        model_names,
+        model_colors,
+        ylabel="Questions answered correctly",
+        title="Hard questions answered by the models",
+        output_path=plots_dir / "hard_questions_correct_grouped.png",
+    )
+
+    plot_grouped_bar(
+        categories,
+        incorrect_counts,
+        model_names,
+        model_colors,
+        ylabel="Questions answered incorrectly",
+        title="Hard questions missed by the models",
+        output_path=plots_dir / "hard_questions_incorrect_grouped.png",
+    )
+
+    plot_segmented_bar(
+        categories,
+        correct_counts,
+        model_names,
+        model_colors,
+        ylabel="Questions answered correctly",
+        title="Hard questions answered by the models",
+        output_path=plots_dir / "hard_questions_correct_segments.png",
+    )
+
+    plot_segmented_bar(
+        categories,
+        incorrect_counts,
+        model_names,
+        model_colors,
+        ylabel="Questions answered incorrectly",
+        title="Hard questions missed by the models",
+        output_path=plots_dir / "hard_questions_incorrect_segments.png",
+    )
+
+    print(f"Stored hard-question categories in {category_file}")
+    print("Generated grouped bar plots in", plots_dir)
+
+
+if __name__ == "__main__":
+    main()
