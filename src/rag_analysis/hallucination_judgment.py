@@ -132,29 +132,7 @@ Return ONLY the JSON, nothing else."""
 
 def call_judge(client: Optional[OpenAI], prompt: str, model: str, dry_run: bool = False) -> Dict[str, Any]:
     """Call the judge model with the prompt."""
-    if dry_run:
-        # Create a more realistic mock response based on the actual data
-        # For the 3-hop alcohols question, simulate detecting composition failure
-        mock_response = {
-            "composition_and_faithfulness": {
-                "composition_failure": True,  # Expected "alcohols" but candidate discusses "aldehydes"
-                "unsupported_claims": [
-                    {"source_step": 1, "is_supported": True},
-                    {"source_step": 2, "is_supported": True},
-                    {"source_step": 3, "is_supported": False},  # Speculation about aldehyde formation
-                    {"source_step": 4, "is_supported": False},
-                    {"source_step": 5, "is_supported": False}
-                ],
-                "sufficiency_score_est": 0.4  # Only 2/5 steps supported
-            },
-            "confidence_miscalibration": {
-                "hop_coverage_est": 0.67,  # 2/3 hops covered (hydroxyl, methyl, but not alcohols properly)
-                "is_miscalibrated": True,
-                "direction": "overconfident_finalize"  # Stopped too early with wrong answer
-            }
-        }
-        output_text = json.dumps(mock_response, indent=2)
-        return {"response": None, "text": output_text}
+
     
     if client is None:
         raise ValueError("OpenAI client is required for non-dry-run mode")
