@@ -7,7 +7,7 @@ import sys
 import threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
-from typing import Any, Dict, Iterator, Optional
+from typing import Any, Callable, Dict, Iterator, List, Optional, Set
 
 from openai import OpenAI
 
@@ -37,6 +37,17 @@ def iter_jsonl(path: Path) -> Iterator[Dict[str, Any]]:
                 print(f"Skipping line {idx}: cannot decode JSON ({exc})", file=sys.stderr)
                 continue
             yield obj
+
+
+def load_question_whitelist(path: Path) -> Set[str]:
+    """Load question whitelist from a JSON array."""
+    with path.open("r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    if not isinstance(data, list):
+        raise ValueError(f"Question list must be a JSON array: {path}")
+
+    return {str(item).strip() for item in data if isinstance(item, str) and item.strip()}
 
 
 def build_hallucination_audit_prompt(payload: Dict[str, Any]) -> str:
@@ -164,14 +175,30 @@ def build_cli() -> argparse.ArgumentParser:
         / "responses_reverified"
         / "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning_reverified.jsonl"
     )
-    default_output = CURRENT_DIR / "hallucination_drift_gpt-5-mini.jsonl"
     ap.add_argument("--jsonl", type=Path, default=default_jsonl, help="Path to *_reverified.jsonl")
-    ap.add_argument("--output", type=Path, default=default_output, help="Where to store the JSONL judgments")
+    ap.add_argument(
+        "--output",
+        type=Path,
+        default=None,
+        help="Where to store the JSONL judgments (defaults beside the input with system suffix)",
+    )
     ap.add_argument("--model", type=str, default="gpt-5-mini", help="Judge model to use")
     ap.add_argument("--limit", type=int, default=None, help="Optional cap on number of records to process")
     ap.add_argument("--print-output", action="store_true", help="Print the full model output for each processed record")
     ap.add_argument("--question-substr", type=str, default=None, help="Filter for questions containing this substring")
     ap.add_argument("--num-workers", type=int, default=6, help="Number of worker threads for parallel processing")
+    ap.add_argument(
+        "--question-list",
+        type=Path,
+        default=CURRENT_DIR / "chemrxiv_half_questions.json",
+        help="Path to JSON array of questions to include",
+    )
+    ap.add_argument(
+        "--save-prompts",
+        type=Path,
+        default=None,
+        help="Optional JSONL path to record the prompts sent to the judge model",
+    )
     ap.add_argument("--dry-run", action="store_true", help="Test prompt generation without calling OpenAI API")
     return ap
 
@@ -187,17 +214,21 @@ def extract_question_from_record(rec: Dict[str, Any]) -> str:
 
 
 def process_single_record(
-    rec: Dict[str, Any], 
-    gt_map: Dict[str, Dict[str, Any]], 
-    client: Optional[OpenAI], 
-    model: str, 
+    rec: Dict[str, Any],
+    gt_map: Dict[str, Dict[str, Any]],
+    client: Optional[OpenAI],
+    model: str,
     print_output: bool,
-    dry_run: bool = False
+    dry_run: bool = False,
+    prompt_recorder: Optional[Callable[[Dict[str, Any], str], None]] = None,
 ) -> Optional[Dict[str, Any]]:
     """Process a single record and return the judgment."""
     try:
         payload = build_payload(rec, gt_map)
         prompt = build_hallucination_audit_prompt(payload)
+        if prompt_recorder is not None:
+            prompt_recorder(payload, prompt)
+
         call_data = call_judge(client, prompt, model, dry_run)
         output_text = call_data["text"]
         parsed = parse_output(output_text)
@@ -235,12 +266,30 @@ def main() -> None:
     if not args.jsonl.exists():
         raise FileNotFoundError(f"JSONL file not found: {args.jsonl}")
 
+    if not args.question_list.exists():
+        raise FileNotFoundError(f"Question list not found: {args.question_list}")
+
+    question_whitelist = load_question_whitelist(args.question_list)
+    if not question_whitelist:
+        raise ValueError(f"Question list is empty: {args.question_list}")
+
+    if args.output is None:
+        derived_name = f"{args.jsonl.stem}_hallucination_judgment.jsonl"
+        args.output = CURRENT_DIR / "output" / derived_name
+
     gt_map = load_ground_truth_map()
-    args.output.parent.mkdir(parents=True, exist_ok=True)
 
     # Collect all records to process
     records = list(iter_jsonl(args.jsonl))
-    
+
+    # Filter records by question whitelist
+    filtered_records: List[Dict[str, Any]] = []
+    for rec in records:
+        question = extract_question_from_record(rec).strip()
+        if question and question in question_whitelist:
+            filtered_records.append(rec)
+    records = filtered_records
+
     # Filter records if question substring is provided
     if args.question_substr:
         filtered_records = []
@@ -255,6 +304,31 @@ def main() -> None:
     
     if args.limit:
         records = records[:args.limit]
+
+    if not records:
+        print("No records matched the provided question list.", file=sys.stderr)
+        return
+
+    prompt_recorder: Optional[Callable[[Dict[str, Any], str], None]] = None
+    prompt_path = args.save_prompts
+    if prompt_path is not None:
+        prompt_path.parent.mkdir(parents=True, exist_ok=True)
+        prompt_path.write_text("", encoding="utf-8")
+        prompt_lock = threading.Lock()
+
+        def prompt_recorder(payload: Dict[str, Any], prompt: str) -> None:
+            entry = {
+                "question": payload.get("question"),
+                "expected_answer": payload.get("expected_answer"),
+                "payload": payload,
+                "prompt_text": prompt,
+            }
+            with prompt_lock:
+                with prompt_path.open("a", encoding="utf-8") as fh:
+                    json.dump(entry, fh, ensure_ascii=False)
+                    fh.write("\n")
+
+    args.output.parent.mkdir(parents=True, exist_ok=True)
 
     print(f"Processing {len(records)} records with {args.num_workers} workers...")
     
@@ -280,7 +354,8 @@ def main() -> None:
                     client_factory(),  # Each thread gets its own client or None
                     args.model, 
                     args.print_output,
-                    args.dry_run
+                    args.dry_run,
+                    prompt_recorder,
                 ): rec for rec in records
             }
             

@@ -5,7 +5,7 @@ import argparse
 import json
 import sys
 from pathlib import Path
-from typing import Any, Dict, Iterable, Iterator, List, Optional
+from typing import Any, Dict, Iterator, List, Optional, Set
 
 from openai import OpenAI
 
@@ -36,10 +36,25 @@ def iter_jsonl(path: Path) -> Iterator[Dict[str, Any]]:
             yield obj
 
 
-def filter_incorrect(records: Iterable[Dict[str, Any]]) -> Iterator[Dict[str, Any]]:
-    for rec in records:
-        if rec.get("is_correct") is False:
-            yield rec
+def load_question_whitelist(path: Path) -> Set[str]:
+    """Load question whitelist from JSON array."""
+    with path.open("r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    if not isinstance(data, list):
+        raise ValueError(f"Question list must be a JSON array: {path}")
+
+    return {str(item).strip() for item in data if isinstance(item, str) and item.strip()}
+
+
+def extract_question(rec: Dict[str, Any]) -> str:
+    """Extract question text from a record."""
+    raw = rec.get("raw") or {}
+    if isinstance(raw, dict):
+        question = raw.get("question")
+        if question:
+            return question
+    return rec.get("question") or ""
 
 
 def call_judge(client: OpenAI, prompt: str, model: str) -> Dict[str, Any]:
@@ -66,18 +81,34 @@ def parse_output(text: str) -> Optional[Dict[str, Any]]:
 
 
 def build_cli() -> argparse.ArgumentParser:
-    ap = argparse.ArgumentParser(description="Run GPT-5-mini judgments on incorrect responses")
+    ap = argparse.ArgumentParser(description="Run GPT-5-mini coverage-gap judgments on RAG responses")
     default_jsonl = (
         CURRENT_DIR.parent
         / "responses_reverified"
         / "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning_reverified.jsonl"
     )
-    default_output = CURRENT_DIR / "gpt5_mini_judgments.jsonl"
     ap.add_argument("--jsonl", type=Path, default=default_jsonl, help="Path to *_reverified.jsonl")
-    ap.add_argument("--output", type=Path, default=default_output, help="Where to store the JSONL judgments")
+    ap.add_argument(
+        "--output",
+        type=Path,
+        default=None,
+        help="Where to store the JSONL judgments (defaults beside the input with system suffix)",
+    )
     ap.add_argument("--model", type=str, default="gpt-5-mini", help="Judge model to use")
     ap.add_argument("--limit", type=int, default=None, help="Optional cap on number of records to process")
     ap.add_argument("--print-output", action="store_true", help="Print the full model output for each processed record")
+    ap.add_argument(
+        "--question-list",
+        type=Path,
+        default=CURRENT_DIR / "chemrxiv_half_questions.json",
+        help="Path to JSON array of questions to include",
+    )
+    ap.add_argument(
+        "--save-prompts",
+        type=Path,
+        default=None,
+        help="Optional JSONL path to record the prompts sent to the judge model",
+    )
     return ap
 
 
@@ -87,16 +118,55 @@ def main() -> None:
     if not args.jsonl.exists():
         raise FileNotFoundError(f"JSONL file not found: {args.jsonl}")
 
+    if not args.question_list.exists():
+        raise FileNotFoundError(f"Question list not found: {args.question_list}")
+
+    question_whitelist = load_question_whitelist(args.question_list)
+    if not question_whitelist:
+        raise ValueError(f"Question list is empty: {args.question_list}")
+
+    if args.output is None:
+        derived_name = f"{args.jsonl.stem}_coverage_gap_judgments.jsonl"
+        args.output = CURRENT_DIR / "output" / derived_name
+
     gt_map = load_ground_truth_map()
+    records: List[Dict[str, Any]] = []
+    for rec in iter_jsonl(args.jsonl):
+        question = extract_question(rec).strip()
+        if question and question in question_whitelist:
+            records.append(rec)
+
+    if args.limit:
+        records = records[:args.limit]
+
+    if not records:
+        print("No records matched the provided question list.", file=sys.stderr)
+        return
+
+    prompt_path = args.save_prompts
+    if prompt_path is not None:
+        prompt_path.parent.mkdir(parents=True, exist_ok=True)
+        prompt_path.write_text("", encoding="utf-8")
+
     client = OpenAI()
     args.output.parent.mkdir(parents=True, exist_ok=True)
 
     processed = 0
 
     with args.output.open("w", encoding="utf-8") as out_f:
-        for rec in filter_incorrect(iter_jsonl(args.jsonl)):
+        for rec in records:
             payload = build_llm_input_payload(rec, gt_map)
             prompt = build_judging_prompt(payload)
+            if prompt_path is not None:
+                entry = {
+                    "question": payload.get("question"),
+                    "expected_answer": payload.get("expected_answer"),
+                    "payload": payload,
+                    "prompt_text": prompt,
+                }
+                with prompt_path.open("a", encoding="utf-8") as fh:
+                    json.dump(entry, fh, ensure_ascii=False)
+                    fh.write("\n")
             call_data = call_judge(client, prompt, args.model)
             output_text = call_data["text"]
             parsed = parse_output(output_text)
@@ -120,9 +190,6 @@ def main() -> None:
             out_f.write(json.dumps(entry, ensure_ascii=False))
             out_f.write("\n")
             processed += 1
-
-            if args.limit and processed >= args.limit:
-                break
 
     print(f"Processed {processed} records. Results saved to {args.output}")
 
