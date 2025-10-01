@@ -115,6 +115,7 @@ PROMPT_OUTPUT_SHAPE = (
     "    \"any_late_hit\": <true|false>\n"
     "  }\n"
     "}\n"
+    "Return ONLY the JSON object above. It's your turn to answer based on the provided DATA_JSON.\n"
 )
 
 
