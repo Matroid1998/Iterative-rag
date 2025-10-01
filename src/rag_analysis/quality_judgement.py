@@ -1,0 +1,268 @@
+"""Run GPT-5-mini quality judgments on RAG responses using the updated audit prompt."""
+from __future__ import annotations
+
+import argparse
+import json
+import sys
+from pathlib import Path
+from typing import Any, Dict, Iterable, Iterator, List, Optional
+
+from openai import OpenAI
+
+# Ensure package imports work when running as a script via python path/to/file.py
+CURRENT_DIR = Path(__file__).resolve().parent
+PARENT_DIR = CURRENT_DIR.parent
+if str(PARENT_DIR) not in sys.path:
+    sys.path.append(str(PARENT_DIR))
+
+from rag_analysis.prepare_query_audit_inputs import (  # noqa: E402
+    build_payload,
+    find_record_in_jsonl,
+    load_ground_truth_map,
+)
+
+
+def iter_jsonl(path: Path) -> Iterator[Dict[str, Any]]:
+    """Iterate over records in a JSONL file."""
+    with path.open("r", encoding="utf-8") as f:
+        for idx, line in enumerate(f, start=1):
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                obj = json.loads(line)
+            except json.JSONDecodeError as exc:
+                print(f"Skipping line {idx}: cannot decode JSON ({exc})", file=sys.stderr)
+                continue
+            yield obj
+
+
+def build_quality_audit_prompt(payload: Dict[str, Any]) -> str:
+    """Build the complete audit prompt with system instructions, schemas, and input data."""
+    system_prompt = """You are an exacting auditor of an iterative retrieval–planning RAG system.
+For EACH step, judge the step's intended hop and the quality of its query.
+Also detect partial-answer contradictions across steps, and a run-level "distractor latch".
+
+You must use ONLY the provided text. No outside knowledge.
+Return EXACT JSON in the required schema. No prose outside JSON.
+
+JUDGMENTS TO MAKE
+
+(1) Next-Logical-Hop (Hop Intent)
+
+predicted_hop: Which oracle hop the step's query primarily aims to solve (1-based). Use surface-form matching
+against the hop entities/relations; if unclear, set null.
+is_next_logical_hop: true iff predicted_hop == (resolved_hops + 1). Otherwise false.
+fusion_or_skip: true if the query tries to solve multiple hops at once (compound across hops) or skips ahead.
+(2) Query Quality
+
+vague: true if the query lacks concrete targets (e.g., "learn more about HAT").
+over_broad: true if scope is too wide or mixes unrelated facets for the needed hop.
+compound: true if it bundles multiple sub-questions/entities with AND/OR or comma lists.
+off_topic: true if it targets a subject not required by any oracle hop.
+anchored: true if the query includes at least one salient anchor from the immediately preceding partial_answer.
+(Salient anchors = distinctive surface forms like "metal-oxo", "carbaisophlorinoid", "Fe(IV)=O", "H2". Ignore generic words.)
+specificity_score: float in [0,1] (0 = extremely vague; 1 = tightly targeted to the needed sub-fact).
+on_topic_score: float in [0,1] (0 = mostly irrelevant; 1 = well-aligned with the intended hop).
+justification: short phrase citing the key tokens/phrases that drove your labels (≤140 chars).
+(10) Partial Contradiction
+
+For step t≥2: partial_contradiction_with_prev is true if partial_answer_t conflicts with partial_answer_(t-1).
+Conflict = mutually exclusive claims or incompatible classes (LLM NLI-style judgment), based ONLY on given strings.
+If true, set contradicts_prior_step = (t-1); otherwise null.
+If partial_answer is null at either step, set partial_contradiction_with_prev = false.
+(4) Distractor Latch (Scaffold Trap) — RUN LEVEL
+
+True if the run's retrieved evidence appears locked onto a chemically similar but irrelevant scaffold/family
+compared to the gold target family implied by the oracle path (e.g., "phenyl/benzylic" vs needed "phenoxyl").
+Use simple family/entity-pattern matching over snippet texts vs. oracle hop entities (and optional gold_hop_entities).
+Output only a single boolean for the whole run (no per-step flag).
+Be conservative: if unclear, return false.
+OPERATIONAL RULES
+
+Use only the provided text in INPUT.
+predicted_hop can be null if you cannot tell; then set is_next_logical_hop=false.
+Multiple query-quality flags may be true simultaneously.
+Anchored=false at step 1 (no prior partial).
+Keep judgments conservative when ambiguous.
+INPUT (from user):
+{
+"question": "<string> — Full multi-hop question string.",
+"expected_answer": "<string> — Gold final answer for the full question (root answer).",
+"number_of_hops": <int> — Count of oracle hops in path.",
+"path": [
+{
+"hop_index": <int> — 1-based hop position in the oracle chain (1, 2, …),
+"hop_subq": "<string> — Atomic sub-question for this hop (the oracle's sub-question).",
+"answer_subq": "<string> — Gold answer to this hop's sub-question; treat as the hop's key entity/anchor (with obvious aliases)."
+"text": The text that this hop subq is generated from
+}
+// … one object per hop in order
+],
+"run": {
+
+"evidence": [
+{
+"source_step": <int> — 1-based planner step number that issued this step's query and retrieved these snippets,
+"source_query": "<string> — Exact query string used at this step (judge anchor carry and coverage against this.",
+"text": ["<string>", "..."] — Array of snippet texts retrieved at this step (judge coverage/late-hits against these contents),
+"partial_answer": "<string> or "" — Planner's partial hypothesis at this step. It's the answer to the current source_query based on the text evidences. Empty string if absent or if a proposal is made at this step.",
+"proposed_answer": "<string> or null — Final proposed answer if the planner proposes at this step(last step), otherwise null."
+}
+// … one object per retrieval step
+]
+
+}
+
+REQUIRED OUTPUT JSON SHAPE:
+{
+"per_step": [
+{
+"step": <int>,
+"predicted_hop": <int|null>,
+"is_next_logical_hop": <true|false>,
+"fusion_or_skip": <true|false>,
+"query_quality": {
+"vague": <true|false>,
+"over_broad": <true|false>,
+"compound": <true|false>,
+"off_topic": <true|false>,
+"anchored": <true|false>,
+"specificity_score": <number 0..1>,
+"on_topic_score": <number 0..1>,
+"justification": "<≤140 chars>"
+},
+"partial_contradiction_with_prev": <true|false>,
+"contradicts_prior_step": <int|null>
+}
+// one object per step in order
+],
+"run_level": {
+"distractor_latch": <true|false>
+}
+}
+
+Return ONLY the JSON, nothing else."""
+
+    # Build the complete prompt with input data at the end
+    payload_json = json.dumps(payload, ensure_ascii=False, indent=2)
+    full_prompt = f"{system_prompt}\n\n{payload_json}"
+    
+    return full_prompt
+
+
+def call_judge(client: OpenAI, prompt: str, model: str) -> Dict[str, Any]:
+    """Call the judge model with the prompt."""
+    response = client.chat.completions.create(
+        model=model,
+        messages=[{"role": "user", "content": prompt}]
+    )
+    
+    output_text = response.choices[0].message.content or ""
+    return {"response": response, "text": output_text}
+
+
+def parse_output(text: str) -> Optional[Dict[str, Any]]:
+    """Parse the model output as JSON."""
+    if not text:
+        return None
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        return None
+
+
+def build_cli() -> argparse.ArgumentParser:
+    """Build command line argument parser."""
+    ap = argparse.ArgumentParser(description="Run GPT-5-mini quality judgments on RAG responses")
+    default_jsonl = (
+        CURRENT_DIR.parent
+        / "responses_reverified"
+        / "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning_reverified.jsonl"
+    )
+    default_output = CURRENT_DIR / "quality_drift_gpt-5-mini.jsonl"
+    ap.add_argument("--jsonl", type=Path, default=default_jsonl, help="Path to *_reverified.jsonl")
+    ap.add_argument("--output", type=Path, default=default_output, help="Where to store the JSONL judgments")
+    ap.add_argument("--model", type=str, default="gpt-5-mini", help="Judge model to use")
+    ap.add_argument("--limit", type=int, default=None, help="Optional cap on number of records to process")
+    ap.add_argument("--print-output", action="store_true", help="Print the full model output for each processed record")
+    ap.add_argument("--question-substr", type=str, default=None, help="Filter for questions containing this substring")
+    return ap
+
+
+def extract_question_from_record(rec: Dict[str, Any]) -> str:
+    """Extract question from a record, checking both raw and top-level."""
+    raw = rec.get("raw") or {}
+    if isinstance(raw, dict):
+        question = raw.get("question")
+        if question:
+            return question
+    return rec.get("question") or ""
+
+
+def main() -> None:
+    """Main entry point."""
+    args = build_cli().parse_args()
+
+    if not args.jsonl.exists():
+        raise FileNotFoundError(f"JSONL file not found: {args.jsonl}")
+
+    gt_map = load_ground_truth_map()
+    client = OpenAI()
+    args.output.parent.mkdir(parents=True, exist_ok=True)
+
+    processed = 0
+
+    with args.output.open("w", encoding="utf-8") as out_f:
+        for rec in iter_jsonl(args.jsonl):
+            # Filter by question substring if provided
+            if args.question_substr:
+                question = extract_question_from_record(rec)
+                candidate = rec.get("candidate") or ""
+                hay = question + "\n" + candidate
+                if args.question_substr.lower() not in hay.lower():
+                    continue
+
+            try:
+                payload = build_payload(rec, gt_map)
+                prompt = build_quality_audit_prompt(payload)
+                call_data = call_judge(client, prompt, args.model)
+                output_text = call_data["text"]
+                parsed = parse_output(output_text)
+
+                if args.print_output:
+                    print(f"\n===== PROCESSING QUESTION =====")
+                    print(f"Question: {payload.get('question', '')[:100]}...")
+                    print("===== GPT RAW OUTPUT =====")
+                    print(output_text)
+                    print("===== END OUTPUT =====\n")
+
+                entry: Dict[str, Any] = {
+                    "question": payload.get("question"),
+                    "expected_answer": payload.get("expected_answer"),
+                    "number_of_hops": payload.get("number_of_hops"),
+                    "model": args.model,
+                    "raw_output": output_text,
+                }
+                if parsed is not None:
+                    entry["parsed_judgment"] = parsed
+                else:
+                    entry["parse_error"] = "Failed to parse output as JSON"
+
+                out_f.write(json.dumps(entry, ensure_ascii=False))
+                out_f.write("\n")
+                out_f.flush()  # Ensure data is written immediately
+                processed += 1
+
+                if args.limit and processed >= args.limit:
+                    break
+
+            except Exception as exc:
+                print(f"Error processing record: {exc}", file=sys.stderr)
+                continue
+
+    print(f"Processed {processed} records. Results saved to {args.output}")
+
+
+if __name__ == "__main__":
+    main()
