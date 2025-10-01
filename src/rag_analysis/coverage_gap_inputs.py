@@ -81,6 +81,7 @@ PROMPT_INPUT_SCHEMA = (
     "    // … one object per hop in order\n"
     "  ],\n"
     "  \"run\": {\n"
+    "    \"candidate\": \"<final candidate answer by the model>\",\n"
     "    \"evidence\": [\n"
     "      {\n"
     "        \"source_step\": <int> — 1-based planner step number that issued this step’s query and retrieved these snippets,\n"
@@ -121,7 +122,7 @@ PROMPT_OUTPUT_SHAPE = (
 
 def build_judging_prompt(data_obj: Dict[str, Any]) -> str:
     data_json = json.dumps(data_obj, ensure_ascii=False, indent=2)
-    parts = [PROMPT_SYSTEM, PROMPT_INPUT_SCHEMA, "DATA_JSON:\n", data_json, "\n\n", PROMPT_OUTPUT_SHAPE]
+    parts = [PROMPT_SYSTEM, PROMPT_INPUT_SCHEMA, PROMPT_OUTPUT_SHAPE, "\n\nDATA_JSON:\n", data_json]
     return "".join(parts)
 
 
@@ -297,6 +298,7 @@ def build_llm_input_payload(rec: Dict[str, Any], gt_map: Dict[str, Dict[str, Any
         "number_of_hops": len(hops),
         "path": hops,
         "run": {
+            "candidate": rec.get("candidate") or "",
             "evidence": grouped_evidence,
         },
     }

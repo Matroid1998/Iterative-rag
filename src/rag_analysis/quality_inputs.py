@@ -237,6 +237,7 @@ def build_payload(rec: Dict[str, Any], gt_map: Dict[str, Dict[str, Any]]) -> Dic
         "number_of_hops": len(path_entries),
         "path": path_entries,
         "run": {
+            "candidate": rec.get("candidate") or "",
             "evidence": evidence_entries
         }
     }
@@ -328,7 +329,7 @@ INPUT (from user):
 // … one object per hop in order
 ],
 "run": {
-
+"candidate\": \"<final candidate answer by the model>\",\n"
 "evidence": [
 {
 "source_step": <int> — 1-based planner step number that issued this step’s query and retrieved these snippets,

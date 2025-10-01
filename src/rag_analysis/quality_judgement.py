@@ -17,7 +17,7 @@ PARENT_DIR = CURRENT_DIR.parent
 if str(PARENT_DIR) not in sys.path:
     sys.path.append(str(PARENT_DIR))
 
-from rag_analysis.prepare_query_audit_inputs import (  # noqa: E402
+from rag_analysis.quality_inputs import (  # noqa: E402
     build_payload,
     find_record_in_jsonl,
     load_ground_truth_map,
