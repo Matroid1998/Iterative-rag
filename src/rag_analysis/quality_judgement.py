@@ -4,6 +4,8 @@ from __future__ import annotations
 import argparse
 import json
 import sys
+import threading
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from typing import Any, Dict, Iterable, Iterator, List, Optional
 
@@ -187,6 +189,7 @@ def build_cli() -> argparse.ArgumentParser:
     ap.add_argument("--limit", type=int, default=None, help="Optional cap on number of records to process")
     ap.add_argument("--print-output", action="store_true", help="Print the full model output for each processed record")
     ap.add_argument("--question-substr", type=str, default=None, help="Filter for questions containing this substring")
+    ap.add_argument("--num-workers", type=int, default=6, help="Number of worker threads for parallel processing")
     return ap
 
 
@@ -200,68 +203,104 @@ def extract_question_from_record(rec: Dict[str, Any]) -> str:
     return rec.get("question") or ""
 
 
+def process_single_record(rec: Dict[str, Any], gt_map: Dict[str, Dict[str, Any]], 
+                         client: OpenAI, model: str, question_substr: Optional[str] = None,
+                         print_output: bool = False) -> Optional[Dict[str, Any]]:
+    """Process a single record and return the result entry."""
+    try:
+        # Filter by question substring if provided
+        if question_substr:
+            question = extract_question_from_record(rec)
+            candidate = rec.get("candidate") or ""
+            hay = question + "\n" + candidate
+            if question_substr.lower() not in hay.lower():
+                return None
+
+        payload = build_payload(rec, gt_map)
+        prompt = build_quality_audit_prompt(payload)
+        call_data = call_judge(client, prompt, model)
+        output_text = call_data["text"]
+        parsed = parse_output(output_text)
+
+        if print_output:
+            print(f"\n===== PROCESSING QUESTION =====\nQuestion: {payload.get('question', '')[:100]}...")
+            print("===== GPT RAW OUTPUT =====")
+            print(output_text)
+            print("===== END OUTPUT =====\n")
+
+        entry: Dict[str, Any] = {
+            "question": payload.get("question"),
+            "expected_answer": payload.get("expected_answer"),
+            "number_of_hops": payload.get("number_of_hops"),
+            "model": model,
+            "raw_output": output_text,
+        }
+        if parsed is not None:
+            entry["parsed_judgment"] = parsed
+        else:
+            entry["parse_error"] = "Failed to parse output as JSON"
+
+        return entry
+
+    except Exception as exc:
+        print(f"Error processing record: {exc}", file=sys.stderr)
+        return None
+
+
 def main() -> None:
-    """Main entry point."""
+    """Main entry point with multi-threading support."""
     args = build_cli().parse_args()
 
     if not args.jsonl.exists():
         raise FileNotFoundError(f"JSONL file not found: {args.jsonl}")
 
     gt_map = load_ground_truth_map()
-    client = OpenAI()
     args.output.parent.mkdir(parents=True, exist_ok=True)
 
+    # Collect all records to process
+    records = list(iter_jsonl(args.jsonl))
+    if args.limit:
+        records = records[:args.limit]
+
+    print(f"Processing {len(records)} records with {args.num_workers} workers...")
+    
     processed = 0
+    write_lock = threading.Lock()
 
+    # Open output file for writing
     with args.output.open("w", encoding="utf-8") as out_f:
-        for rec in iter_jsonl(args.jsonl):
-            # Filter by question substring if provided
-            if args.question_substr:
-                question = extract_question_from_record(rec)
-                candidate = rec.get("candidate") or ""
-                hay = question + "\n" + candidate
-                if args.question_substr.lower() not in hay.lower():
-                    continue
+        # Process records in parallel
+        with ThreadPoolExecutor(max_workers=args.num_workers) as executor:
+            # Submit all tasks
+            future_to_record = {
+                executor.submit(
+                    process_single_record, 
+                    rec, 
+                    gt_map, 
+                    OpenAI(),  # Each thread gets its own client
+                    args.model, 
+                    args.question_substr,
+                    args.print_output
+                ): rec for rec in records
+            }
+            
+            # Process completed tasks
+            for future in as_completed(future_to_record):
+                try:
+                    result = future.result()
+                    if result is not None:
+                        # Thread-safe writing
+                        with write_lock:
+                            out_f.write(json.dumps(result, ensure_ascii=False))
+                            out_f.write("\n")
+                            out_f.flush()
+                            processed += 1
+                            if processed % 10 == 0:
+                                print(f"Processed {processed}/{len(records)} records...")
+                except Exception as exc:
+                    print(f"Task failed: {exc}", file=sys.stderr)
 
-            try:
-                payload = build_payload(rec, gt_map)
-                prompt = build_quality_audit_prompt(payload)
-                call_data = call_judge(client, prompt, args.model)
-                output_text = call_data["text"]
-                parsed = parse_output(output_text)
-
-                if args.print_output:
-                    print(f"\n===== PROCESSING QUESTION =====")
-                    print(f"Question: {payload.get('question', '')[:100]}...")
-                    print("===== GPT RAW OUTPUT =====")
-                    print(output_text)
-                    print("===== END OUTPUT =====\n")
-
-                entry: Dict[str, Any] = {
-                    "question": payload.get("question"),
-                    "expected_answer": payload.get("expected_answer"),
-                    "number_of_hops": payload.get("number_of_hops"),
-                    "model": args.model,
-                    "raw_output": output_text,
-                }
-                if parsed is not None:
-                    entry["parsed_judgment"] = parsed
-                else:
-                    entry["parse_error"] = "Failed to parse output as JSON"
-
-                out_f.write(json.dumps(entry, ensure_ascii=False))
-                out_f.write("\n")
-                out_f.flush()  # Ensure data is written immediately
-                processed += 1
-
-                if args.limit and processed >= args.limit:
-                    break
-
-            except Exception as exc:
-                print(f"Error processing record: {exc}", file=sys.stderr)
-                continue
-
-    print(f"Processed {processed} records. Results saved to {args.output}")
+    print(f"Completed! Processed {processed} records. Results saved to {args.output}")
 
 
 if __name__ == "__main__":
