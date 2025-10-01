@@ -373,7 +373,7 @@ REQUIRED OUTPUT JSON SHAPE:
 }
 }
 
-Return ONLY the JSON, nothing else."""
+Return ONLY the JSON, nothing else. Now, it's your turn to answer based on the data."""
 
     # Build the complete prompt with input data at the end
     payload_json = json.dumps(payload, ensure_ascii=False, indent=2)
