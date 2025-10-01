@@ -91,22 +91,22 @@ INPUT (from user):
 {
 "question": "<string> — Full multi-hop question string.",
 "expected_answer": "<string> — Gold final answer for the full question (root answer).",
-"number_of_hops": <int> — Count of oracle hops in path.",
+"number_of_hops": <int> — Count of oracle hops in path. The number of hops for the original question.",
 "path": [
 {
 "hop_index": <int> — 1-based hop position in the oracle chain (1, 2, …),
 "hop_subq": "<string> — Atomic sub-question for this hop (the oracle's sub-question).",
 "answer_subq": "<string> — Gold answer to this hop's sub-question; treat as the hop's key entity/anchor (with obvious aliases)."
-"text": The text that this hop subq is generated from
+"text": The text that this hop subq is generated from.
 }
 // … one object per hop in order
 ],
 "run": {
-
-"evidence": [
+"candidate\": \"<final candidate answer by the model>\",\n"
+"evidence": [ //evidences retrieved at each iteration. texts are coming from retriever based on the source_query. partial answers are answer in this step based on the texts provided and previouse partial answers and queires. 
 {
-"source_step": <int> — 1-based planner step number that issued this step's query and retrieved these snippets,
-"source_query": "<string> — Exact query string used at this step (judge anchor carry and coverage against this.",
+"source_step": <int> — 1-based planner step number that issued this step's query and retrieved these snippets. This is the i-th call in iterative rag system.,
+"source_query": "<string> — Exact query string used at this step (judge anchor carry and coverage against this. it is generated from previouse queries and partial answers and original question to find what we should address.",
 "text": ["<string>", "..."] — Array of snippet texts retrieved at this step (judge coverage/late-hits against these contents),
 "partial_answer": "<string> or "" — Planner's partial hypothesis at this step. It's the answer to the current source_query based on the text evidences. Empty string if absent or if a proposal is made at this step.",
 "proposed_answer": "<string> or null — Final proposed answer if the planner proposes at this step(last step), otherwise null."
@@ -144,7 +144,7 @@ REQUIRED OUTPUT JSON SHAPE:
 }
 }
 
-Return ONLY the JSON, nothing else."""
+Return ONLY the JSON, nothing else. It's your turn to answer based on the data."""
 
     # Build the complete prompt with input data at the end
     payload_json = json.dumps(payload, ensure_ascii=False, indent=2)
