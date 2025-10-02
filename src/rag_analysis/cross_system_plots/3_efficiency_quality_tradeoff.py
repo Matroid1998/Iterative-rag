@@ -76,8 +76,20 @@ def main():
     # Color map for models
     colors = plt.cm.Set3(np.linspace(0, 1, len(models)))
     
-    # Size based on specificity (scale for visibility)
-    sizes = [1000 * spec for spec in avg_specificity_list]
+    # Normalize specificity to emphasize differences
+    # Map the range [min, max] to a more visible size range
+    min_spec = min(avg_specificity_list)
+    max_spec = max(avg_specificity_list)
+    spec_range = max_spec - min_spec
+    
+    # Scale sizes more aggressively to emphasize differences
+    # Use exponential scaling to make differences more visible
+    if spec_range > 0:
+        normalized_specs = [(spec - min_spec) / spec_range for spec in avg_specificity_list]
+        # Scale from 200 (smallest) to 2000 (largest) with exponential curve
+        sizes = [200 + 1800 * (norm_spec ** 2) for norm_spec in normalized_specs]
+    else:
+        sizes = [1000] * len(avg_specificity_list)
     
     for i, (model, acc, steps, spec, color) in enumerate(
         zip(models, accuracies, avg_steps_list, avg_specificity_list, colors)):
@@ -99,8 +111,12 @@ def main():
     ax.set_xlim(left=0)
     ax.set_ylim(0, 105)
     
-    # Add legend with specificity info
-    legend_text = "Bubble size represents average query specificity\n(larger = more specific queries)"
+    # Add legend with specificity info and range
+    min_spec = min(avg_specificity_list)
+    max_spec = max(avg_specificity_list)
+    legend_text = (f"Bubble size represents average query specificity\n"
+                   f"(larger = more specific queries)\n"
+                   f"Range: {min_spec:.3f} to {max_spec:.3f}")
     ax.text(0.02, 0.98, legend_text, transform=ax.transAxes,
            fontsize=9, verticalalignment='top',
            bbox=dict(boxstyle='round', facecolor='lightyellow', alpha=0.8))

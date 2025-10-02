@@ -26,7 +26,7 @@ PLOT_DIR = Path(__file__).resolve().parent
 
 
 def main():
-    """Generate correctness vs problem type heatmap."""
+    """Generate correctness vs problem type heatmap with subplots for each model."""
     cov_records, qual_records, hall_records = load_all_judgments(OUTPUT_DIR)
     merged = create_merged_dataset(cov_records, qual_records, hall_records)
     
@@ -61,59 +61,66 @@ def main():
     problem_types = ['has_gap', 'carry_drop', 'late_hit', 'composition_failure', 'miscalibration']
     problem_labels = ['Coverage\nGap', 'Anchor\nCarry-Drop', 'Late\nHit', 'Composition\nFailure', 'Mis-\ncalibration']
     
-    # Calculate percentages
-    heatmap_data = []
-    for model in models:
-        row = []
+    # Create figure with 6 subplots (2 rows x 3 columns)
+    fig, axes = plt.subplots(2, 3, figsize=(18, 12))
+    axes = axes.flatten()
+    
+    # Create a subplot for each model
+    for idx, model in enumerate(models):
+        ax = axes[idx]
+        
+        # Calculate percentages for this model
         total_incorrect = model_problems[model]['incorrect']['total']
+        data = []
+        counts = []
+        
         if total_incorrect == 0:
-            row = [0] * len(problem_types)
+            data = [0] * len(problem_types)
+            counts = [0] * len(problem_types)
         else:
             for ptype in problem_types:
                 count = model_problems[model][ptype]['count']
                 pct = 100 * count / total_incorrect
-                row.append(pct)
-        heatmap_data.append(row)
-    
-    heatmap_data = np.array(heatmap_data)
-    
-    # Create heatmap
-    fig, ax = plt.subplots(figsize=(12, 8))
-    
-    im = ax.imshow(heatmap_data, cmap='YlOrRd', aspect='auto', vmin=0, vmax=100)
-    
-    # Set ticks
-    ax.set_xticks(np.arange(len(problem_labels)))
-    ax.set_yticks(np.arange(len(models)))
-    ax.set_xticklabels(problem_labels, fontsize=11)
-    ax.set_yticklabels(models, fontsize=11)
-    
-    # Rotate x labels
-    plt.setp(ax.get_xticklabels(), rotation=0, ha='center')
-    
-    # Add values in cells
-    for i in range(len(models)):
+                data.append(pct)
+                counts.append(count)
+        
+        # Reshape data for heatmap (1 row x N columns)
+        heatmap_data = np.array([data])
+        
+        # Create heatmap for this model
+        im = ax.imshow(heatmap_data, cmap='YlOrRd', aspect='auto', vmin=0, vmax=100)
+        
+        # Set ticks
+        ax.set_xticks(np.arange(len(problem_labels)))
+        ax.set_yticks([0])
+        ax.set_xticklabels(problem_labels, fontsize=10)
+        ax.set_yticklabels([model], fontsize=11, fontweight='bold')
+        
+        # Add values in cells
         for j in range(len(problem_types)):
-            value = heatmap_data[i, j]
-            total_incorrect = model_problems[models[i]]['incorrect']['total']
-            count = model_problems[models[i]][problem_types[j]]['count']
-            
+            value = data[j]
+            count = counts[j]
             text_color = 'white' if value > 50 else 'black'
-            ax.text(j, i, f'{value:.1f}%\n(n={count})',
+            ax.text(j, 0, f'{value:.1f}%\n(n={count})',
                    ha='center', va='center', color=text_color, 
                    fontsize=9, fontweight='bold')
+        
+        # Set title with total incorrect count
+        ax.set_title(f'{model}\n{total_incorrect} incorrect answers', 
+                    fontsize=11, fontweight='bold', pad=10)
     
-    # Add colorbar
-    cbar = plt.colorbar(im, ax=ax)
+    # Add overall title
+    fig.suptitle('Failure Mode Prevalence Among Incorrect Answers by Model\n(% of incorrect answers that exhibit each problem)', 
+                 fontsize=16, fontweight='bold', y=0.98)
+    
+    # Add a single colorbar for all subplots
+    fig.subplots_adjust(right=0.92)
+    cbar_ax = fig.add_axes([0.94, 0.15, 0.02, 0.7])
+    cbar = fig.colorbar(axes[0].images[0], cax=cbar_ax)
     cbar.set_label('% of Incorrect Answers with Problem', 
                    fontsize=12, fontweight='bold', rotation=270, labelpad=25)
     
-    ax.set_xlabel('Problem Type', fontsize=13, fontweight='bold')
-    ax.set_ylabel('Model', fontsize=13, fontweight='bold')
-    ax.set_title('Failure Mode Prevalence Among Incorrect Answers\n(% of incorrect answers that exhibit each problem)', 
-                 fontsize=14, fontweight='bold', pad=20)
-    
-    plt.tight_layout()
+    plt.tight_layout(rect=[0, 0, 0.92, 0.96])
     output_path = PLOT_DIR / '2_correctness_problem_heatmap.png'
     plt.savefig(output_path, dpi=300, bbox_inches='tight')
     print(f"Saved: {output_path}")
