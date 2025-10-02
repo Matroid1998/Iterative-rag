@@ -182,3 +182,6 @@ Analysis of 2,628+ RAG runs across 5 models reveals three primary retrieval fail
 The analysis reveals **coverage gaps as the primary failure mode** (65% accuracy drop), with **step 2 anchor loss** as a secondary efficiency problem (18% occurrence). Fixing coverage gaps should be the immediate priority, targeting 2-hop questions and improving initial retrieval breadth, especially for GPT-5 and DeepSeek R1.
 
 The positive finding is that **late hits and anchor drops are recoverable** (still achieving ~80% accuracy), suggesting the system has some resilience. However, the 25.7% anchor drop rate in Mistral at step 2 indicates significant room for improvement in query generation consistency.
+
+
+

@@ -34,8 +34,12 @@ def main():
     # Get script directory
     script_dir = Path(__file__).resolve().parent
     
-    # Find all numbered plot scripts
-    plot_scripts = sorted(script_dir.glob("[0-9]_*.py"))
+    # Find all numbered plot scripts (including 4a, 4b, etc.)
+    plot_scripts = []
+    for pattern in ["[0-9]_*.py", "[0-9][a-z]_*.py"]:
+        plot_scripts.extend(script_dir.glob(pattern))
+    
+    plot_scripts = sorted(plot_scripts)
     
     if not plot_scripts:
         print("No plot scripts found!")

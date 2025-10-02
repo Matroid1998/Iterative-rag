@@ -87,7 +87,7 @@ def create_bar_chart(model_stats, output_path):
     
     # Customize plot
     ax.set_xlabel('Model', fontsize=14, fontweight='bold')
-    ax.set_ylabel('Percentage of Runs (%)', fontsize=14, fontweight='bold')
+    ax.set_ylabel('Percentage of all steps (%)', fontsize=14, fontweight='bold')
     ax.set_title('Coverage Gap and Late Hit Rates by Model\n(Lower is better)',
                 fontsize=16, fontweight='bold', pad=20)
     ax.set_xticks(x)
