@@ -231,7 +231,7 @@ Return EXACT JSON in the schema below. No prose outside JSON.
 SCOPE OF THIS JUDGMENT (RUN-LEVEL, FINAL ANSWER FOCUS)
 
 (1) Composition / Answer Synthesis Failure
-- true if the correct entity/claim is present in the evidence but the final candidate either:
+- true if the correct entity/claim is present in the evidence but the partial answer either:
   (a) selects a different entity, or
   (b) paraphrases without clearly naming the correct entity, or
   (c) muddles/merges entities so the core answer is wrong or unclear.

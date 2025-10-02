@@ -8,44 +8,67 @@ from typing import Dict, List, Any, Tuple
 from collections import defaultdict
 
 
+def extract_model_from_filename(filename: str) -> str:
+    """
+    Extract model name from filename.
+    Example: 'responses_openai_gpt-5_reverified_coverage_gap_judgments.jsonl' -> 'openai_gpt-5'
+    """
+    # Remove 'responses_' prefix and everything after the model name
+    name = filename.replace('responses_', '')
+    
+    # Split by underscores and find where the judgment type starts
+    parts = name.split('_reverified_')
+    if len(parts) > 0:
+        return parts[0]
+    
+    # Fallback
+    return name.split('_')[0] if '_' in name else name
+
+
 def load_all_judgments(output_dir: Path) -> Tuple[List[Dict], List[Dict], List[Dict]]:
-    """Load all three types of judgments."""
+    """Load all three types of judgments, extracting model name from filename."""
     coverage_records = []
     quality_records = []
     hallucination_records = []
     
     # Load coverage judgments
     for f in output_dir.glob('*coverage_gap_judgments.jsonl'):
+        model_name = extract_model_from_filename(f.name)
         with open(f, 'r', encoding='utf-8') as file:
             for line in file:
                 if not line.strip():
                     continue
                 try:
                     rec = json.loads(line)
+                    rec['eval_model'] = model_name  # Add the actual model being evaluated
                     coverage_records.append(rec)
                 except json.JSONDecodeError:
                     continue
     
     # Load quality judgments
     for f in output_dir.glob('*quality_judement.jsonl'):
+        model_name = extract_model_from_filename(f.name)
         with open(f, 'r', encoding='utf-8') as file:
             for line in file:
                 if not line.strip():
                     continue
                 try:
                     rec = json.loads(line)
+                    rec['eval_model'] = model_name  # Add the actual model being evaluated
                     quality_records.append(rec)
                 except json.JSONDecodeError:
                     continue
     
     # Load hallucination judgments
     for f in output_dir.glob('*hallucination_judgment.jsonl'):
+        model_name = extract_model_from_filename(f.name)
         with open(f, 'r', encoding='utf-8') as file:
             for line in file:
                 if not line.strip():
                     continue
                 try:
                     rec = json.loads(line)
+                    rec['eval_model'] = model_name  # Add the actual model being evaluated
                     hallucination_records.append(rec)
                 except json.JSONDecodeError:
                     continue
@@ -55,27 +78,27 @@ def load_all_judgments(output_dir: Path) -> Tuple[List[Dict], List[Dict], List[D
 
 def create_merged_dataset(coverage_records, quality_records, hallucination_records) -> List[Dict[str, Any]]:
     """
-    Merge all three judgment types by (model, question) key.
+    Merge all three judgment types by (eval_model, question) key.
     Returns list of merged records with all available data.
     """
-    # Index by (model, question)
+    # Index by (eval_model, question)
     quality_index = {}
     for rec in quality_records:
-        key = (rec.get('model', ''), rec.get('question', ''))
+        key = (rec.get('eval_model', ''), rec.get('question', ''))
         quality_index[key] = rec
     
     hallucination_index = {}
     for rec in hallucination_records:
-        key = (rec.get('model', ''), rec.get('question', ''))
+        key = (rec.get('eval_model', ''), rec.get('question', ''))
         hallucination_index[key] = rec
     
     # Merge using coverage as base
     merged = []
     for cov_rec in coverage_records:
-        key = (cov_rec.get('model', ''), cov_rec.get('question', ''))
+        key = (cov_rec.get('eval_model', ''), cov_rec.get('question', ''))
         
         entry = {
-            'model': cov_rec.get('model', ''),
+            'model': cov_rec.get('eval_model', ''),  # Use eval_model as the main model field
             'question': cov_rec.get('question', ''),
             'is_correct': cov_rec.get('is_correct', False),
             'coverage': cov_rec.get('parsed_judgment', {}),
