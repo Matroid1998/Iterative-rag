@@ -10,11 +10,32 @@ from collections import defaultdict
 import matplotlib.pyplot as plt
 import numpy as np
 
+def normalize_model_name(model: str) -> str:
+    """Normalize model name for display."""
+    if 'gpt-5' in model.lower():
+        return 'GPT-5'
+    elif 'gpt-4o' in model.lower():
+        return 'GPT-4o'
+    elif 'deepseek' in model.lower() and 'r1' in model.lower():
+        return 'DeepSeek R1'
+    elif 'claude-3-7' in model.lower() and 'reasoning' in model.lower():
+        return 'Claude 3.7 Sonnet + Reasoning'
+    elif 'claude-3-7' in model.lower():
+        return 'Claude 3.7 Sonnet'
+    elif 'mistral' in model.lower():
+        return 'Mistral Large'
+    return model
+
+
 def load_query_flags(output_dir):
-    """Load all query flag combinations."""
-    flag_combinations = []
+    """Load all query flag combinations per model."""
+    model_flag_combinations = defaultdict(list)
     
     for file_path in glob.glob(str(output_dir / '*quality_judement.jsonl')):
+        filename = Path(file_path).name
+        model_name = filename.replace('responses_', '').replace('_reverified_quality_judement.jsonl', '').replace('_quality_judement.jsonl', '')
+        normalized_model = normalize_model_name(model_name)
+        
         with open(file_path, 'r') as f:
             for line in f:
                 line = line.strip()
@@ -34,111 +55,137 @@ def load_query_flags(output_dir):
                             'off_topic': quality.get('off_topic', False),
                         }
                         
-                        flag_combinations.append(flags)
+                        model_flag_combinations[normalized_model].append(flags)
                 
                 except json.JSONDecodeError:
                     continue
     
-    return flag_combinations
+    return model_flag_combinations
 
 
-def create_cooccurrence_matrix(flag_combinations):
-    """Create co-occurrence matrix for query flags."""
+def create_heatmap(model_flag_combinations, output_path):
+    """Create heatmap of flag co-occurrences for each model."""
+    models = sorted(model_flag_combinations.keys())
     flags = ['vague', 'over_broad', 'compound', 'off_topic']
-    n = len(flags)
     
-    # Initialize matrix
-    matrix = np.zeros((n, n))
+    if len(models) == 0:
+        print("No model data found!")
+        return
     
-    # Count co-occurrences
-    for combo in flag_combinations:
-        for i, flag1 in enumerate(flags):
-            for j, flag2 in enumerate(flags):
-                if combo.get(flag1) and combo.get(flag2):
-                    matrix[i, j] += 1
+    # Create figure with 2x3 subplots
+    fig, axes = plt.subplots(2, 3, figsize=(18, 12))
+    axes = axes.flatten()
     
-    # Calculate percentages (of total steps)
-    total_steps = len(flag_combinations)
-    matrix_pct = (matrix / total_steps) * 100
+    # Plot each model
+    for idx, model in enumerate(models):
+        if idx >= 6:  # Only show first 6 models
+            break
+        
+        ax = axes[idx]
+        flag_combinations = model_flag_combinations[model]
+        
+        if not flag_combinations:
+            ax.text(0.5, 0.5, f'No data for {model}', 
+                   ha='center', va='center', transform=ax.transAxes)
+            ax.set_title(model, fontsize=12, fontweight='bold')
+            continue
+        
+        # Create co-occurrence matrix
+        n = len(flags)
+        matrix = np.zeros((n, n))
+        
+        # Count co-occurrences
+        for combo in flag_combinations:
+            for i, flag1 in enumerate(flags):
+                for j, flag2 in enumerate(flags):
+                    if combo.get(flag1) and combo.get(flag2):
+                        matrix[i, j] += 1
+        
+        # Calculate percentages
+        total_steps = len(flag_combinations)
+        matrix_pct = (matrix / total_steps) * 100
+        
+        # Create heatmap
+        im = ax.imshow(matrix_pct, cmap='YlOrRd', aspect='auto', vmin=0, vmax=min(20, matrix_pct.max()))
+        
+        # Set ticks and labels
+        ax.set_xticks(np.arange(len(flags)))
+        ax.set_yticks(np.arange(len(flags)))
+        ax.set_xticklabels(flags, fontsize=8)
+        ax.set_yticklabels(flags, fontsize=8)
+        
+        # Rotate x labels
+        plt.setp(ax.get_xticklabels(), rotation=45, ha="right", rotation_mode="anchor")
+        
+        # Add text annotations
+        for i in range(len(flags)):
+            for j in range(len(flags)):
+                value = matrix_pct[i, j]
+                weight = 'bold' if i == j else 'normal'
+                color = 'white' if value > matrix_pct.max() * 0.5 else 'black'
+                ax.text(j, i, f'{value:.1f}',
+                       ha="center", va="center", color=color,
+                       fontsize=7, fontweight=weight)
+        
+        # Add title
+        ax.set_title(model, fontsize=11, fontweight='bold', pad=10)
+        
+        # Add grid
+        ax.set_xticks(np.arange(len(flags))-.5, minor=True)
+        ax.set_yticks(np.arange(len(flags))-.5, minor=True)
+        ax.grid(which="minor", color="gray", linestyle='-', linewidth=0.5)
+        ax.tick_params(which="minor", size=0)
     
-    return matrix_pct, flags
-
-
-def create_heatmap(matrix, flags, output_path):
-    """Create heatmap of flag co-occurrences."""
-    fig, ax = plt.subplots(figsize=(10, 9))
+    # Hide unused subplots
+    for idx in range(len(models), 6):
+        axes[idx].axis('off')
     
-    # Create heatmap
-    im = ax.imshow(matrix, cmap='YlOrRd', aspect='auto', vmin=0, vmax=max(10, matrix.max()))
+    # Overall title
+    fig.suptitle('Query Flag Co-occurrence Matrix (Per Model)\nHow often do query problems appear together? (%)',
+                fontsize=15, fontweight='bold', y=0.995)
     
-    # Add colorbar
-    cbar = plt.colorbar(im, ax=ax)
-    cbar.set_label('Co-occurrence Rate (%)', fontsize=12, fontweight='bold')
-    
-    # Set ticks and labels
-    ax.set_xticks(np.arange(len(flags)))
-    ax.set_yticks(np.arange(len(flags)))
-    ax.set_xticklabels(flags, fontsize=11)
-    ax.set_yticklabels(flags, fontsize=11)
-    
-    # Rotate x labels
-    plt.setp(ax.get_xticklabels(), rotation=45, ha="right", rotation_mode="anchor")
-    
-    # Add text annotations
-    for i in range(len(flags)):
-        for j in range(len(flags)):
-            value = matrix[i, j]
-            # Bold diagonal (individual occurrence rates)
-            weight = 'bold' if i == j else 'normal'
-            color = 'white' if value > matrix.max() * 0.5 else 'black'
-            text = ax.text(j, i, f'{value:.1f}%',
-                          ha="center", va="center", color=color,
-                          fontsize=11, fontweight=weight)
-    
-    # Add title
-    ax.set_title('Query Flag Co-occurrence Matrix\n(How often do query problems appear together?)',
-                fontsize=14, fontweight='bold', pad=20)
-    
-    # Add grid
-    ax.set_xticks(np.arange(len(flags))-.5, minor=True)
-    ax.set_yticks(np.arange(len(flags))-.5, minor=True)
-    ax.grid(which="minor", color="gray", linestyle='-', linewidth=1)
-    ax.tick_params(which="minor", size=0)
-    
-    plt.tight_layout()
+    plt.tight_layout(rect=[0, 0, 1, 0.985])
     plt.savefig(output_path, dpi=300, bbox_inches='tight')
     print(f"✓ Saved co-occurrence heatmap to {output_path}")
     plt.close()
     
     # Print correlation analysis
     print("\n" + "="*80)
-    print("QUERY FLAG CO-OCCURRENCE ANALYSIS")
+    print("QUERY FLAG CO-OCCURRENCE ANALYSIS (PER MODEL)")
     print("="*80)
     
-    print("\nIndividual flag occurrence rates (diagonal):")
-    for i, flag in enumerate(flags):
-        print(f"  {flag}: {matrix[i, i]:.1f}%")
-    
-    print("\nStrongest co-occurrences (off-diagonal):")
-    correlations = []
-    for i in range(len(flags)):
-        for j in range(i + 1, len(flags)):
-            if matrix[i, j] > 0.1:
-                correlations.append((flags[i], flags[j], matrix[i, j]))
-    
-    correlations.sort(key=lambda x: x[2], reverse=True)
-    for flag1, flag2, rate in correlations[:10]:
-        print(f"  {flag1} + {flag2}: {rate:.1f}%")
-    
-    # Calculate conditional probabilities
-    print("\nConditional probabilities:")
-    for i in range(len(flags)):
-        if matrix[i, i] > 0:
-            print(f"\n  Given {flags[i]} is True:")
-            for j in range(len(flags)):
-                if i != j and matrix[i, j] > 0:
-                    conditional = (matrix[i, j] / matrix[i, i]) * 100
-                    print(f"    P({flags[j]}|{flags[i]}) = {conditional:.1f}%")
+    for model in sorted(models):
+        flag_combinations = model_flag_combinations[model]
+        if not flag_combinations:
+            continue
+        
+        # Create matrix
+        n = len(flags)
+        matrix = np.zeros((n, n))
+        for combo in flag_combinations:
+            for i, flag1 in enumerate(flags):
+                for j, flag2 in enumerate(flags):
+                    if combo.get(flag1) and combo.get(flag2):
+                        matrix[i, j] += 1
+        
+        total_steps = len(flag_combinations)
+        matrix_pct = (matrix / total_steps) * 100
+        
+        print(f"\n{model} (n={total_steps} steps):")
+        print("  Individual flag rates:")
+        for i, flag in enumerate(flags):
+            print(f"    {flag}: {matrix_pct[i, i]:.1f}%")
+        
+        print("  Top co-occurrences:")
+        correlations = []
+        for i in range(len(flags)):
+            for j in range(i + 1, len(flags)):
+                if matrix_pct[i, j] > 0.1:
+                    correlations.append((flags[i], flags[j], matrix_pct[i, j]))
+        
+        correlations.sort(key=lambda x: x[2], reverse=True)
+        for flag1, flag2, rate in correlations[:3]:
+            print(f"    {flag1} + {flag2}: {rate:.1f}%")
 
 
 def main():
@@ -150,20 +197,18 @@ def main():
     
     # Load data
     print("Loading query flags...")
-    flag_combinations = load_query_flags(output_dir)
+    model_flag_combinations = load_query_flags(output_dir)
     
-    if not flag_combinations:
+    if not model_flag_combinations:
         print("No query flag data found!")
         return
     
-    print(f"Loaded {len(flag_combinations)} query steps")
-    
-    # Create co-occurrence matrix
-    matrix, flags = create_cooccurrence_matrix(flag_combinations)
+    total_steps = sum(len(flags) for flags in model_flag_combinations.values())
+    print(f"Loaded {total_steps} query steps across {len(model_flag_combinations)} models")
     
     # Create plot
     output_path = plot_dir / "query_flag_cooccurrence.png"
-    create_heatmap(matrix, flags, output_path)
+    create_heatmap(model_flag_combinations, output_path)
 
 
 if __name__ == "__main__":

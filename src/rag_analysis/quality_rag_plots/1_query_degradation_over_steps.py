@@ -128,7 +128,7 @@ def create_faceted_line_chart(model_step_scores, output_path):
         ax.set_title(short_name, fontsize=12, fontweight='bold', pad=10)
         ax.set_xlabel('Step Number', fontsize=10)
         ax.set_ylabel('Score', fontsize=10)
-        ax.set_ylim(0, 1.05)
+        ax.set_ylim(0.55, 1.05)  # Focus on 0.6-1.0 range where values actually fall
         ax.grid(True, alpha=0.3)
         ax.legend(loc='lower left', fontsize=8)
         ax.set_xticks(steps)
