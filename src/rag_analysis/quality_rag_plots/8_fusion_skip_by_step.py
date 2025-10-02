@@ -9,14 +9,71 @@ from collections import defaultdict
 import matplotlib.pyplot as plt
 import numpy as np
 
+def normalize_model_name(model_str):
+    """Normalize model names for consistent display."""
+    model_map = {
+        'openai_gpt-5': 'GPT-5',
+        'openai_gpt-4o': 'GPT-4o',
+        'bedrock_us.deepseek.r1': 'DeepSeek R1',
+        'bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning': 'Claude 3.7 Sonnet + Reasoning',
+        'bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0': 'Claude 3.7 Sonnet',
+        'bedrock_us.anthropic.claude-3-7-sonnet-reasoning': 'Claude 3.7 Sonnet + Reasoning',
+        'bedrock_us.anthropic.claude-3-7-sonnet': 'Claude 3.7 Sonnet',
+        'bedrock_mistral.mistral-large': 'Mistral Large'
+    }
+    
+    # Try exact match first, then partial match
+    if model_str in model_map:
+        return model_map[model_str]
+    
+    for key, value in model_map.items():
+        if key in model_str:
+            return value
+    return model_str
+
+
+def load_correctness_map(output_dir):
+    """Load is_correct information from coverage judgment files."""
+    correctness = {}  # {(model, question): is_correct}
+    
+    for file_path in glob.glob(str(output_dir / '*coverage_gap_judgments.jsonl')):
+        filename = Path(file_path).name
+        model_from_file = filename.replace('responses_', '').replace('_reverified_coverage_gap_judgments.jsonl', '')
+        model = normalize_model_name(model_from_file)
+        
+        with open(file_path, 'r') as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+                try:
+                    rec = json.loads(line)
+                    question = rec.get('question', '')
+                    is_correct = rec.get('is_correct', False)
+                    correctness[(model, question)] = is_correct
+                except json.JSONDecodeError:
+                    continue
+    
+    return correctness
+
+
 def load_fusion_skip_by_step(output_dir):
-    """Load fusion/skip rates by step."""
-    # Structure: {model: {step: {'fusion': count, 'total': count}}}
-    model_step_data = defaultdict(lambda: defaultdict(lambda: {'fusion': 0, 'total': 0}))
+    """Load fusion/skip rates by step, separated by correctness."""
+    # Structure: {is_correct: {model: {step: {'fusion': count, 'total': count}}}}
+    model_step_data = {
+        True: defaultdict(lambda: defaultdict(lambda: {'fusion': 0, 'total': 0})),
+        False: defaultdict(lambda: defaultdict(lambda: {'fusion': 0, 'total': 0}))
+    }
+    
+    correctness_map = load_correctness_map(output_dir)
+    
+    matched = 0
+    unmatched = 0
     
     for file_path in glob.glob(str(output_dir / '*quality_judement.jsonl')):
         filename = Path(file_path).name
-        model_name = filename.replace('responses_', '').replace('_reverified_quality_judement.jsonl', '')
+        model_from_file = filename.replace('responses_', '').replace('_reverified_quality_judement.jsonl', '')
+        model_name = normalize_model_name(model_from_file)
         
         with open(file_path, 'r') as f:
             for line in f:
@@ -25,6 +82,15 @@ def load_fusion_skip_by_step(output_dir):
                     continue
                 try:
                     data = json.loads(line)
+                    question = data.get('question', '')
+                    
+                    # Look up correctness
+                    is_correct = correctness_map.get((model_name, question), None)
+                    if is_correct is None:
+                        unmatched += 1
+                        continue
+                    
+                    matched += 1
                     parsed = data.get('parsed_judgment', {})
                     
                     for step_data in parsed.get('per_step', []):
@@ -34,17 +100,18 @@ def load_fusion_skip_by_step(output_dir):
                         
                         fusion_or_skip = step_data.get('fusion_or_skip', False)
                         
-                        model_step_data[model_name][step]['total'] += 1
+                        model_step_data[is_correct][model_name][step]['total'] += 1
                         if fusion_or_skip:
-                            model_step_data[model_name][step]['fusion'] += 1
+                            model_step_data[is_correct][model_name][step]['fusion'] += 1
                 
                 except json.JSONDecodeError:
                     continue
     
+    print(f"Matched: {matched}, Unmatched: {unmatched}")
     return model_step_data
 
 
-def create_fusion_skip_bar_chart(model_step_data, output_path):
+def create_fusion_skip_bar_chart(model_step_data, output_path, title_suffix, is_correct):
     """Create bar chart of fusion/skip rates by step."""
     models = sorted(model_step_data.keys())
     
@@ -88,8 +155,7 @@ def create_fusion_skip_bar_chart(model_step_data, output_path):
                        ha='center', va='bottom', fontsize=8, fontweight='bold')
         
         # Customize subplot
-        short_name = model.replace('bedrock_', '').replace('openai_', '').replace('us.anthropic.', '')
-        ax.set_title(short_name, fontsize=11, fontweight='bold', pad=10)
+        ax.set_title(model, fontsize=11, fontweight='bold', pad=10)
         ax.set_xlabel('Step Number', fontsize=10)
         ax.set_ylabel('% Fusion/Skip', fontsize=10)
         ax.set_xticks(x)
@@ -101,7 +167,8 @@ def create_fusion_skip_bar_chart(model_step_data, output_path):
     for idx in range(n_models, len(axes)):
         axes[idx].axis('off')
     
-    plt.suptitle('Fusion/Skip Rate by Step\n(Multi-hop jumping behavior: Does the system skip or merge hops?)',
+    correctness_label = "CORRECT" if is_correct else "INCORRECT"
+    plt.suptitle(f'Fusion/Skip Rate by Step ({correctness_label} Answers)\n(Multi-hop jumping behavior: Does the system skip or merge hops?)',
                 fontsize=16, fontweight='bold', y=0.995)
     plt.tight_layout()
     plt.savefig(output_path, dpi=300, bbox_inches='tight')
@@ -109,8 +176,9 @@ def create_fusion_skip_bar_chart(model_step_data, output_path):
     plt.close()
     
     # Print statistics
+    correctness_label = "CORRECT" if is_correct else "INCORRECT"
     print("\n" + "="*80)
-    print("FUSION/SKIP RATE BY STEP")
+    print(f"FUSION/SKIP RATE BY STEP ({correctness_label} ANSWERS)")
     print("="*80)
     
     for model in models:
@@ -153,9 +221,12 @@ def main():
         print("No fusion/skip data found!")
         return
     
-    # Create plot
-    output_path = plot_dir / "fusion_skip_by_step.png"
-    create_fusion_skip_bar_chart(model_step_data, output_path)
+    # Create plots for correct and incorrect answers
+    output_path_correct = plot_dir / "fusion_skip_by_step_CORRECT.png"
+    create_fusion_skip_bar_chart(model_step_data[True], output_path_correct, "CORRECT", True)
+    
+    output_path_incorrect = plot_dir / "fusion_skip_by_step_INCORRECT.png"
+    create_fusion_skip_bar_chart(model_step_data[False], output_path_incorrect, "INCORRECT", False)
 
 
 if __name__ == "__main__":

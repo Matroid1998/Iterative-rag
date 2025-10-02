@@ -77,11 +77,11 @@ SCOPE OF THIS JUDGMENT (RUN-LEVEL, FINAL ANSWER FOCUS)
   * sufficiency_score_est ∈ [0,1]: fraction of partial answers sentences that are supported by ≥1 snippet.
   * hop_coverage_est ∈ [0,1]: fraction of oracle hops(hop_subq and answer_subq) whose key surface entity or relation appears anywhere in the partial answers OR in any provided evidence snippet's text. (Use surface tokens only; simple case-insensitive matches; hyphen/space variants OK.)
 - Decision rules:
-  * Overconfident finalize ("overconfident_finalize"):
+  * Overconfident finalize ("overconfident_finalize"): Under thinking (early stopping)
     - Trigger if ANY hold:
       (i) finalize step(last step number) < number_of_hops AND hop_coverage_est < 0.8, OR
       (ii) sufficiency_score_est < 0.60, OR
-  * Underconfident continue ("underconfident_continue"):
+  * Underconfident continue ("underconfident_continue"): Overthinking
     - Trigger if ANY hold:
       some prior step t < finalize_step likely had "enough": This means final answer (expected answer) can be supported by evidences before the finalize step ( last source_step )
 
