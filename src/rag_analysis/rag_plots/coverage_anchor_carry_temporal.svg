@@ -1,0 +1,36 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='800' height='480'>
+<rect width='100%' height='100%' fill='white'/>
+<text x='400.0' y='30.0' text-anchor='middle' font-size='20' font-family='Arial'>Anchor carry-drop temporal pattern</text>
+<text x='400.0' y='460' text-anchor='middle' font-size='14' font-family='Arial'>Planner step</text>
+<text x='40.0' y='240.0' text-anchor='middle' transform='rotate(-90 40.0,240.0)' font-size='14' font-family='Arial'>Carry-drop rate</text>
+<line x1='80' y1='400' x2='760' y2='400' stroke='black' />
+<line x1='80' y1='60' x2='80' y2='400' stroke='black' />
+<line x1='75' y1='400.00' x2='80' y2='400.00' stroke='black' />
+<text x='72' y='404.00' text-anchor='end' font-size='12' font-family='Arial'>0.0</text>
+<line x1='75' y1='332.00' x2='80' y2='332.00' stroke='black' />
+<text x='72' y='336.00' text-anchor='end' font-size='12' font-family='Arial'>0.2</text>
+<line x1='75' y1='264.00' x2='80' y2='264.00' stroke='black' />
+<text x='72' y='268.00' text-anchor='end' font-size='12' font-family='Arial'>0.4</text>
+<line x1='75' y1='196.00' x2='80' y2='196.00' stroke='black' />
+<text x='72' y='200.00' text-anchor='end' font-size='12' font-family='Arial'>0.6</text>
+<line x1='75' y1='128.00' x2='80' y2='128.00' stroke='black' />
+<text x='72' y='132.00' text-anchor='end' font-size='12' font-family='Arial'>0.8</text>
+<line x1='75' y1='60.00' x2='80' y2='60.00' stroke='black' />
+<text x='72' y='64.00' text-anchor='end' font-size='12' font-family='Arial'>1.0</text>
+<circle cx='80.00' cy='400.00' r='5' fill='#c44e52' opacity='0.85' />
+<text x='80.00' y='425' text-anchor='middle' font-size='12' font-family='Arial'>1</text>
+<text x='80.00' y='392.00' text-anchor='middle' font-size='11' font-family='Arial'>0.00</text>
+<circle cx='250.00' cy='315.67' r='5' fill='#c44e52' opacity='0.85' />
+<text x='250.00' y='425' text-anchor='middle' font-size='12' font-family='Arial'>2</text>
+<text x='250.00' y='307.67' text-anchor='middle' font-size='11' font-family='Arial'>0.25</text>
+<circle cx='420.00' cy='348.21' r='5' fill='#c44e52' opacity='0.85' />
+<text x='420.00' y='425' text-anchor='middle' font-size='12' font-family='Arial'>3</text>
+<text x='420.00' y='340.21' text-anchor='middle' font-size='11' font-family='Arial'>0.15</text>
+<circle cx='590.00' cy='353.79' r='5' fill='#c44e52' opacity='0.85' />
+<text x='590.00' y='425' text-anchor='middle' font-size='12' font-family='Arial'>4</text>
+<text x='590.00' y='345.79' text-anchor='middle' font-size='11' font-family='Arial'>0.14</text>
+<circle cx='760.00' cy='349.46' r='5' fill='#c44e52' opacity='0.85' />
+<text x='760.00' y='425' text-anchor='middle' font-size='12' font-family='Arial'>5</text>
+<text x='760.00' y='341.46' text-anchor='middle' font-size='11' font-family='Arial'>0.15</text>
+<polyline points='80.00,400.00 250.00,315.67 420.00,348.21 590.00,353.79 760.00,349.46' fill='none' stroke='#c44e52' stroke-width='2' />
+</svg>

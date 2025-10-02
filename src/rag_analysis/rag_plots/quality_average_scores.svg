@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480">
+<rect width="100%" height="100%" fill="white"/>
+<text x="400.0" y="30.0" text-anchor="middle" font-size="20" font-family="Arial">Average query scores</text>
+<line x1="80" y1="420" x2="760" y2="420" stroke="black"/>
+<line x1="80" y1="60" x2="80" y2="420" stroke="black"/>
+<text x="40.0" y="240.0" text-anchor="middle" transform="rotate(-90 40.0,240.0)" font-size="14" font-family="Arial">Average score</text>
+<rect x="148.0" y="103.71632047477749" width="204.0" height="316.2836795252225" fill="#4c72b0" opacity="0.85"/>
+<text x="250.0" y="440" text-anchor="middle" font-size="12" font-family="Arial">specificity_score</text>
+<text x="250.0" y="98.71632047477749" text-anchor="middle" font-size="11" font-family="Arial">0.88</text>
+<rect x="488.0" y="89.69376854599307" width="204.0" height="330.30623145400693" fill="#4c72b0" opacity="0.85"/>
+<text x="590.0" y="440" text-anchor="middle" font-size="12" font-family="Arial">on_topic_score</text>
+<text x="590.0" y="84.69376854599307" text-anchor="middle" font-size="11" font-family="Arial">0.92</text>
+</svg>

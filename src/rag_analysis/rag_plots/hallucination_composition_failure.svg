@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480">
+<rect width="100%" height="100%" fill="white"/>
+<text x="400.0" y="30.0" text-anchor="middle" font-size="20" font-family="Arial">Composition failure rate by model</text>
+<line x1="80" y1="420" x2="760" y2="420" stroke="black"/>
+<line x1="80" y1="60" x2="80" y2="420" stroke="black"/>
+<text x="40.0" y="240.0" text-anchor="middle" transform="rotate(-90 40.0,240.0)" font-size="14" font-family="Arial">Proportion of runs</text>
+<rect x="216.0" y="345.32883642495784" width="408.0" height="74.67116357504216" fill="#c44e52" opacity="0.85"/>
+<text x="420.0" y="440" text-anchor="middle" font-size="12" font-family="Arial">gpt-5-mini</text>
+<text x="420.0" y="340.32883642495784" text-anchor="middle" font-size="11" font-family="Arial">0.21</text>
+</svg>

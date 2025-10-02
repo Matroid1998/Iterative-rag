@@ -212,6 +212,11 @@ def build_cli() -> argparse.ArgumentParser:
         help="Path to JSON array of questions to include",
     )
     ap.add_argument(
+        "--append-output",
+        action="store_true",
+        help="Append new judgments to the output file instead of overwriting",
+    )
+    ap.add_argument(
         "--save-prompts",
         type=Path,
         default=None,
@@ -299,7 +304,7 @@ def main() -> None:
 
     if args.output is None:
         derived_name = f"{args.jsonl.stem}_quality_judement.jsonl"
-        args.output = CURRENT_DIR / "output" / derived_name
+        args.output = CURRENT_DIR / "output" / f"2_{derived_name}"
 
     gt_map = load_ground_truth_map()
 
@@ -341,13 +346,29 @@ def main() -> None:
 
     args.output.parent.mkdir(parents=True, exist_ok=True)
 
+    existing_questions = set()
+    if args.append_output and args.output.exists():
+        with args.output.open("r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+                try:
+                    obj = json.loads(line)
+                except json.JSONDecodeError:
+                    continue
+                question = obj.get("question")
+                if question:
+                    existing_questions.add(question)
+
     print(f"Processing {len(records)} records with {args.num_workers} workers...")
 
     processed = 0
     write_lock = threading.Lock()
 
     # Open output file for writing
-    with args.output.open("w", encoding="utf-8") as out_f:
+    mode = "a" if args.append_output else "w"
+    with args.output.open(mode, encoding="utf-8") as out_f:
         # Process records in parallel
         with ThreadPoolExecutor(max_workers=args.num_workers) as executor:
             # Submit all tasks
@@ -371,9 +392,14 @@ def main() -> None:
                     if result is not None:
                         # Thread-safe writing
                         with write_lock:
+                            question = result.get("question")
+                            if args.append_output and question in existing_questions:
+                                continue
                             out_f.write(json.dumps(result, ensure_ascii=False))
                             out_f.write("\n")
                             out_f.flush()
+                            if question:
+                                existing_questions.add(question)
                             processed += 1
                             if processed % 10 == 0:
                                 print(f"Processed {processed}/{len(records)} records...")

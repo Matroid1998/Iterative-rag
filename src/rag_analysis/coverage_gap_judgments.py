@@ -109,6 +109,11 @@ def build_cli() -> argparse.ArgumentParser:
         default=None,
         help="Optional JSONL path to record the prompts sent to the judge model",
     )
+    ap.add_argument(
+        "--append-output",
+        action="store_true",
+        help="Append to the output JSONL file instead of overwriting",
+    )
     return ap
 
 
@@ -127,7 +132,7 @@ def main() -> None:
 
     if args.output is None:
         derived_name = f"{args.jsonl.stem}_coverage_gap_judgments.jsonl"
-        args.output = CURRENT_DIR / "output" / derived_name
+        args.output = CURRENT_DIR / "output" / f"2_{derived_name}"
 
     gt_map = load_ground_truth_map()
     records: List[Dict[str, Any]] = []
@@ -148,15 +153,35 @@ def main() -> None:
         prompt_path.parent.mkdir(parents=True, exist_ok=True)
         prompt_path.write_text("", encoding="utf-8")
 
+    existing_questions = set()
+    if args.append_output and args.output.exists():
+        with args.output.open("r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+                try:
+                    obj = json.loads(line)
+                except json.JSONDecodeError:
+                    continue
+                question = obj.get("question")
+                if question:
+                    existing_questions.add(question)
+
     client = OpenAI()
     args.output.parent.mkdir(parents=True, exist_ok=True)
 
     processed = 0
 
-    with args.output.open("w", encoding="utf-8") as out_f:
+    mode = "a" if args.append_output else "w"
+
+    with args.output.open(mode, encoding="utf-8") as out_f:
         for rec in records:
             payload = build_llm_input_payload(rec, gt_map)
             prompt = build_judging_prompt(payload)
+            question = payload.get("question")
+            if args.append_output and question in existing_questions:
+                continue
             if prompt_path is not None:
                 entry = {
                     "question": payload.get("question"),
@@ -190,6 +215,8 @@ def main() -> None:
             out_f.write(json.dumps(entry, ensure_ascii=False))
             out_f.write("\n")
             processed += 1
+            if question:
+                existing_questions.add(question)
 
     print(f"Processed {processed} records. Results saved to {args.output}")
 

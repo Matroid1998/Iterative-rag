@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480">
+<rect width="100%" height="100%" fill="white"/>
+<text x="400.0" y="30.0" text-anchor="middle" font-size="20" font-family="Arial">Evidence sufficiency distribution</text>
+<line x1="80" y1="420" x2="760" y2="420" stroke="black"/>
+<line x1="80" y1="60" x2="80" y2="420" stroke="black"/>
+<text x="40.0" y="240.0" text-anchor="middle" transform="rotate(-90 40.0,240.0)" font-size="14" font-family="Arial">Relative frequency</text>
+<rect x="93.6" y="420.0" width="40.8" height="0.0" fill="#4c72b0" opacity="0.85"/>
+<text x="114.0" y="440" text-anchor="middle" font-size="12" font-family="Arial">0.00</text>
+<text x="114.0" y="415.0" text-anchor="middle" font-size="11" font-family="Arial">0.00</text>
+<rect x="161.6" y="420.0" width="40.8" height="0.0" fill="#4c72b0" opacity="0.85"/>
+<text x="182.0" y="440" text-anchor="middle" font-size="12" font-family="Arial">0.10</text>
+<text x="182.0" y="415.0" text-anchor="middle" font-size="11" font-family="Arial">0.00</text>
+<rect x="229.6" y="416.9491525423729" width="40.8" height="3.0508474576271185" fill="#4c72b0" opacity="0.85"/>
+<text x="250.0" y="440" text-anchor="middle" font-size="12" font-family="Arial">0.20</text>
+<text x="250.0" y="411.9491525423729" text-anchor="middle" font-size="11" font-family="Arial">0.01</text>
+<rect x="297.6" y="411.864406779661" width="40.8" height="8.135593220338983" fill="#4c72b0" opacity="0.85"/>
+<text x="318.0" y="440" text-anchor="middle" font-size="12" font-family="Arial">0.30</text>
+<text x="318.0" y="406.864406779661" text-anchor="middle" font-size="11" font-family="Arial">0.02</text>
+<rect x="365.6" y="415.93220338983053" width="40.8" height="4.067796610169491" fill="#4c72b0" opacity="0.85"/>
+<text x="386.0" y="440" text-anchor="middle" font-size="12" font-family="Arial">0.40</text>
+<text x="386.0" y="410.93220338983053" text-anchor="middle" font-size="11" font-family="Arial">0.01</text>
+<rect x="433.6" y="377.2881355932203" width="40.8" height="42.71186440677966" fill="#4c72b0" opacity="0.85"/>
+<text x="454.0" y="440" text-anchor="middle" font-size="12" font-family="Arial">0.50</text>
+<text x="454.0" y="372.2881355932203" text-anchor="middle" font-size="11" font-family="Arial">0.12</text>
+<rect x="501.6" y="379.3220338983051" width="40.8" height="40.67796610169491" fill="#4c72b0" opacity="0.85"/>
+<text x="522.0" y="440" text-anchor="middle" font-size="12" font-family="Arial">0.60</text>
+<text x="522.0" y="374.3220338983051" text-anchor="middle" font-size="11" font-family="Arial">0.11</text>
+<rect x="569.6" y="369.1525423728814" width="40.8" height="50.847457627118644" fill="#4c72b0" opacity="0.85"/>
+<text x="590.0" y="440" text-anchor="middle" font-size="12" font-family="Arial">0.70</text>
+<text x="590.0" y="364.1525423728814" text-anchor="middle" font-size="11" font-family="Arial">0.14</text>
+<rect x="637.6" y="326.4406779661017" width="40.8" height="93.5593220338983" fill="#4c72b0" opacity="0.85"/>
+<text x="658.0" y="440" text-anchor="middle" font-size="12" font-family="Arial">0.80</text>
+<text x="658.0" y="321.4406779661017" text-anchor="middle" font-size="11" font-family="Arial">0.26</text>
+<rect x="705.6" y="60.0" width="40.8" height="360.0" fill="#4c72b0" opacity="0.85"/>
+<text x="726.0" y="440" text-anchor="middle" font-size="12" font-family="Arial">0.90</text>
+<text x="726.0" y="55.0" text-anchor="middle" font-size="11" font-family="Arial">1.00</text>
+</svg>
