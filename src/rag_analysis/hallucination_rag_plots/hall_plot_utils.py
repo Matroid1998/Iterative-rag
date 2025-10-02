@@ -11,12 +11,19 @@ def load_hallucination_judgments(output_dir: Path) -> List[Dict[str, Any]]:
     """Load all hallucination judgment records from output directory."""
     records = []
     for f in output_dir.glob('*hallucination_judgment.jsonl'):
+        # Extract model name from filename
+        filename = f.name
+        # Remove 'responses_' prefix and '_reverified_hallucination_judgment.jsonl' or '_hallucination_judgment.jsonl' suffix
+        model_from_file = filename.replace('responses_', '').replace('_reverified_hallucination_judgment.jsonl', '').replace('_hallucination_judgment.jsonl', '')
+        
         with open(f, 'r', encoding='utf-8') as file:
             for line in file:
                 if not line.strip():
                     continue
                 try:
                     rec = json.loads(line)
+                    # Override model field with the one extracted from filename
+                    rec['model'] = model_from_file
                     records.append(rec)
                 except json.JSONDecodeError:
                     continue
