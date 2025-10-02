@@ -84,7 +84,7 @@ def compute_hard_question_data(
         raise SystemExit("No questions available after loading model responses")
     common_questions = set.intersection(*question_sets)
 
-    categories = [4, 5, 6]
+    categories = [1, 2, 3, 4, 5, 6]
     category_questions: Dict[int, List[dict]] = {cat: [] for cat in categories}
     incorrect_counts: Dict[int, Dict[str, int]] = {
         cat: {model: 0 for model in model_metrics.keys()} for cat in categories
@@ -211,6 +211,7 @@ def plot_segmented_bar(
     ylabel: str,
     title: str,
     output_path: Path,
+    use_sqrt_scale: bool = False,
 ) -> None:
     fig, ax = plt.subplots(figsize=(10, 6))
 
@@ -263,9 +264,10 @@ def plot_segmented_bar(
 
         for value, model in pairs:
             color = value_colors.get(value, "#7f7f7f")
+            display_height = np.sqrt(value) if use_sqrt_scale else value
             ax.bar(
                 x_positions[idx],
-                value,
+                display_height,
                 width=0.6,
                 bottom=bottom,
                 color=color,
@@ -273,18 +275,19 @@ def plot_segmented_bar(
             )
             ax.text(
                 x_positions[idx],
-                bottom + value / 2,
+                bottom + display_height / 2,
                 str(value),
                 ha="center",
                 va="center",
                 fontsize=10,
                 color="black",
             )
-            bottom += value
+            bottom += display_height
 
     ax.set_xticks(list(x_positions))
     ax.set_xticklabels(category_labels)
-    ax.set_ylabel(ylabel)
+    ylabel_with_scale = f"{ylabel} (√ scale)" if use_sqrt_scale else ylabel
+    ax.set_ylabel(ylabel_with_scale)
     ax.set_xlabel("Hard questions category")
     ax.set_title(title)
 
@@ -315,16 +318,17 @@ def plot_grouped_bar(
     ylabel: str,
     title: str,
     output_path: Path,
+    hide_decimals: bool = False,
 ) -> None:
     x_positions = np.arange(len(categories))
     num_models = len(model_names)
     if num_models == 0:
         raise ValueError("At least one model is required to plot grouped bars")
 
-    width = min(0.8 / num_models, 0.18)
+    width = min(1 / num_models, 0.22)
     offsets = (np.arange(num_models) - (num_models - 1) / 2) * width
 
-    fig, ax = plt.subplots(figsize=(10, 6))
+    fig, ax = plt.subplots(figsize=(16, 6))
 
     for idx, model in enumerate(model_names):
         heights = [counts_map[cat].get(model, 0) for cat in categories]
@@ -336,7 +340,10 @@ def plot_grouped_bar(
             color=model_colors.get(model, "#7f7f7f"),
             edgecolor="#ffffff",
         )
-        labels = [format_bar_label(float(height)) for height in heights]
+        if hide_decimals:
+            labels = [str(int(round(height))) if height > 0 else "" for height in heights]
+        else:
+            labels = [format_bar_label(float(height)) for height in heights]
         ax.bar_label(bars, labels=labels, padding=3)
 
     ax.set_xticks(x_positions)
@@ -373,7 +380,7 @@ def main() -> None:
         model_names,
     ) = compute_hard_question_data(responses_dir, model_entries)
 
-    categories = [4, 5, 6]
+    categories = [1, 2, 3, 4, 5, 6]
     category_file = base / "results" / "unanswered_questions" / "hard_question_categories.json"
     save_question_categories(category_file, category_questions)
 
@@ -418,6 +425,7 @@ def main() -> None:
         ylabel="Average output tokens",
         title="Output tokens on questions answered correctly",
         output_path=plots_dir / "hard_questions_correct_grouped_tokens.png",
+        hide_decimals=True,
     )
 
     plot_grouped_bar(
@@ -428,6 +436,7 @@ def main() -> None:
         ylabel="Average output tokens",
         title="Output tokens on questions missed by the models",
         output_path=plots_dir / "hard_questions_incorrect_grouped_tokens.png",
+        hide_decimals=True,
     )
 
     plot_segmented_bar(
@@ -438,6 +447,7 @@ def main() -> None:
         ylabel="Questions answered correctly",
         title="Hard questions answered by the models",
         output_path=plots_dir / "hard_questions_correct_segments.png",
+        use_sqrt_scale=True,
     )
 
     plot_segmented_bar(
