@@ -34,12 +34,19 @@ def load_coverage_judgments(output_dir: Path) -> List[Dict[str, Any]]:
     """Load all coverage gap judgment records from output directory."""
     records = []
     for f in output_dir.glob('*coverage_gap_judgments.jsonl'):
+        # Extract model name from filename
+        filename = f.name
+        # Remove 'responses_' prefix and '_reverified_coverage_gap_judgments.jsonl' or '_coverage_gap_judgments.jsonl' suffix
+        model_from_file = filename.replace('responses_', '').replace('_reverified_coverage_gap_judgments.jsonl', '').replace('_coverage_gap_judgments.jsonl', '')
+        
         with open(f, 'r', encoding='utf-8') as file:
             for line in file:
                 if not line.strip():
                     continue
                 try:
                     rec = json.loads(line)
+                    # Override model field with the one extracted from filename
+                    rec['model'] = model_from_file
                     records.append(rec)
                 except json.JSONDecodeError:
                     continue
@@ -50,12 +57,19 @@ def load_quality_judgments(output_dir: Path) -> List[Dict[str, Any]]:
     """Load all quality judgment records from output directory."""
     records = []
     for f in output_dir.glob('*quality_judement.jsonl'):
+        # Extract model name from filename
+        filename = f.name
+        # Remove 'responses_' prefix and '_reverified_quality_judement.jsonl' or '_quality_judement.jsonl' suffix
+        model_from_file = filename.replace('responses_', '').replace('_reverified_quality_judement.jsonl', '').replace('_quality_judement.jsonl', '')
+        
         with open(f, 'r', encoding='utf-8') as file:
             for line in file:
                 if not line.strip():
                     continue
                 try:
                     rec = json.loads(line)
+                    # Override model field with the one extracted from filename
+                    rec['model'] = model_from_file
                     records.append(rec)
                 except json.JSONDecodeError:
                     continue

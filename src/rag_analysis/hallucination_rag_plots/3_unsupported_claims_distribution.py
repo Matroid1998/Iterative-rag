@@ -64,18 +64,19 @@ def main():
         ax.axvline(median_val, color='blue', linestyle=':', linewidth=2,
                   label=f'Median: {median_val:.0f}')
         
-        # Add text box with statistics
+        # Add text box with statistics (positioned on the left)
         stats_text = f'n = {len(unsupported)}\n'
         stats_text += f'Zero claims: {zero_pct:.1f}%\n'
         stats_text += f'Mean: {mean_val:.2f}\n'
         stats_text += f'Max: {max(unsupported)}'
         
-        ax.text(0.98, 0.97, stats_text, transform=ax.transAxes,
-               fontsize=9, verticalalignment='top', horizontalalignment='right',
+        ax.text(0.02, 0.97, stats_text, transform=ax.transAxes,
+               fontsize=9, verticalalignment='top', horizontalalignment='left',
                bbox=dict(boxstyle='round', facecolor='white', alpha=0.8))
         
         ax.set_ylabel('Frequency', fontsize=11, fontweight='bold')
         ax.set_title(model, fontsize=12, fontweight='bold', pad=10)
+        # Position legend on upper right to avoid overlap with text box
         ax.legend(loc='upper right', framealpha=0.9, fontsize=9)
         ax.grid(axis='y', alpha=0.3, linestyle='--')
     

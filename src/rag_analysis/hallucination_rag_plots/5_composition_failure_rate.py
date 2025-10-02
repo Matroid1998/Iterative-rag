@@ -2,6 +2,7 @@
 Plot 5: Composition Failure Rate by Model
 
 Bar chart showing percentage of runs with composition failure per model.
+Only counts failures when is_correct is False.
 
 Insight: Which models have higher composition failure rates?
 """
@@ -15,7 +16,8 @@ import numpy as np
 # Add parent directory to path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from hallucination_rag_plots.hall_plot_utils import (
-    load_hallucination_judgments, normalize_model_name
+    load_hallucination_judgments, load_coverage_judgments, 
+    create_merged_dataset, normalize_model_name
 )
 
 OUTPUT_DIR = Path(__file__).resolve().parents[2] / 'rag_analysis' / 'output'
@@ -24,17 +26,25 @@ PLOT_DIR = Path(__file__).resolve().parent
 
 def main():
     """Generate composition failure rate by model plot."""
-    records = load_hallucination_judgments(OUTPUT_DIR)
+    # Load hallucination and coverage judgments
+    hall_records = load_hallucination_judgments(OUTPUT_DIR)
+    cov_records = load_coverage_judgments(OUTPUT_DIR)
+    
+    # Merge datasets to get is_correct field
+    merged = create_merged_dataset(hall_records, cov_records, [])
     
     # Group by model
     model_stats = defaultdict(lambda: {'total': 0, 'failures': 0})
     
-    for rec in records:
+    for rec in merged:
         model = normalize_model_name(rec.get('model', ''))
-        cf = rec.get('parsed_judgment', {}).get('composition_and_faithfulness', {})
+        is_correct = rec.get('is_correct', False)
+        cf = rec.get('hallucination', {}).get('composition_and_faithfulness', {})
         
         model_stats[model]['total'] += 1
-        if cf.get('composition_failure', False):
+        
+        # Only count as failure if is_correct is False AND composition_failure is True
+        if not is_correct and cf.get('composition_failure', False):
             model_stats[model]['failures'] += 1
     
     # Calculate percentages
@@ -73,11 +83,11 @@ def main():
     
     ax.set_ylabel('Composition Failure Rate (%)', fontsize=12, fontweight='bold')
     ax.set_xlabel('Model', fontsize=12, fontweight='bold')
-    ax.set_title('Composition Failure Rate by Model', 
+    ax.set_title('Composition Failure Rate by Model\n(Only counting failures when answer is incorrect)', 
                  fontsize=14, fontweight='bold', pad=20)
     ax.set_xticks(x)
     ax.set_xticklabels(models, rotation=30, ha='right')
-    ax.set_ylim(0, max(failure_rates) * 1.2)
+    ax.set_ylim(0, max(failure_rates) * 1.2 if failure_rates else 10)
     ax.legend(loc='upper right', framealpha=0.9, fontsize=11)
     ax.grid(axis='y', alpha=0.3, linestyle='--')
     
@@ -89,9 +99,10 @@ def main():
     
     # Print statistics
     print("\n=== Composition Failure Rate by Model ===")
+    print("(Only counting failures when is_correct = False)")
     for model in models:
         stats = model_stats[model]
-        rate = 100 * stats['failures'] / stats['total']
+        rate = 100 * stats['failures'] / stats['total'] if stats['total'] > 0 else 0
         print(f"\n{model}:")
         print(f"  Total runs: {stats['total']}")
         print(f"  Failures: {stats['failures']}")
