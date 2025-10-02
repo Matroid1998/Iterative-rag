@@ -1,0 +1,319 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "candidate": {
+      "type": "string",
+      "description": "The candidate answer text"
+    },
+    "is_correct": {
+      "type": "boolean",
+      "description": "Whether the candidate answer is correct"
+    },
+    "raw_response": {
+      "type": "object",
+      "properties": {
+        "question": {
+          "type": "string",
+          "description": "The original question"
+        },
+        "answer": {
+          "type": "string",
+          "description": "The provided answer"
+        },
+        "evidence": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "string",
+                "description": "Unique identifier for the evidence chunk"
+              },
+              "text": {
+                "type": "string",
+                "description": "The text content of the evidence"
+              },
+              "metadata": {
+                "type": "object",
+                "properties": {
+                  "source": {
+                    "type": "string",
+                    "description": "Source of the document"
+                  },
+                  "num_words": {
+                    "type": "integer",
+                    "description": "Number of words in the chunk"
+                  },
+                  "name": {
+                    "type": "string",
+                    "description": "Name of the document"
+                  },
+                  "chunk_index": {
+                    "type": "integer",
+                    "description": "Index of the chunk within the document"
+                  },
+                  "path": {
+                    "type": "string",
+                    "description": "Full path to the document"
+                  },
+                  "mtime": {
+                    "type": "integer",
+                    "description": "Modification time as timestamp"
+                  },
+                  "end_char": {
+                    "type": "integer",
+                    "description": "End character position"
+                  },
+                  "suffix": {
+                    "type": "string",
+                    "description": "File extension"
+                  },
+                  "mtime_iso": {
+                    "type": "string",
+                    "description": "ISO format modification time"
+                  },
+                  "doc_id": {
+                    "type": "string",
+                    "description": "Document identifier"
+                  },
+                  "start_char": {
+                    "type": "integer",
+                    "description": "Start character position"
+                  },
+                  "stem": {
+                    "type": "string",
+                    "description": "Stem of the filename"
+                  },
+                  "size_bytes": {
+                    "type": "integer",
+                    "description": "Size in bytes"
+                  },
+                  "title": {
+                    "type": "string",
+                    "description": "Title of the document"
+                  },
+                  "_collection": {
+                    "type": "string",
+                    "description": "Collection name"
+                  }
+                },
+                "required": ["source", "num_words", "name", "chunk_index", "path", "mtime", "end_char", "suffix", "mtime_iso", "doc_id", "start_char", "stem", "size_bytes", "title", "_collection"]
+              },
+              "score_dense": {
+                "type": "number",
+                "description": "Dense similarity score"
+              },
+              "source": {
+                "type": "string",
+                "description": "Source type (e.g., 'dense')"
+              },
+              "score": {
+                "type": "number",
+                "description": "Relevance score"
+              },
+              "source_query": {
+                "type": "string",
+                "description": "Query used for retrieval"
+              },
+              "source_step": {
+                "type": "integer",
+                "description": "Step number in the retrieval process"
+              }
+            },
+            "required": ["id", "text", "metadata", "score_dense", "source", "score", "source_query", "source_step"]
+          },
+          "description": "Array of evidence chunks used to generate the answer"
+        },
+        "citations": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "string",
+                "description": "Citation identifier"
+              },
+              "title": {
+                "type": "string",
+                "description": "Title of the cited document"
+              },
+              "score": {
+                "type": "number",
+                "description": "Citation relevance score"
+              }
+            },
+            "required": ["id", "title", "score"]
+          },
+          "description": "Array of citations used in the response"
+        },
+        "actions_trace": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "action": {
+                "type": "object",
+                "properties": {
+                  "action": {
+                    "type": "string",
+                    "description": "Type of action performed"
+                  },
+                  "query": {
+                    "type": "string",
+                    "description": "Query used for the action"
+                  },
+                  "k": {
+                    "type": "integer",
+                    "description": "Number of results requested"
+                  },
+                  "where": {
+                    "type": ["string", "null"],
+                    "description": "Filter condition"
+                  },
+                  "where_document": {
+                    "type": ["string", "null"],
+                    "description": "Document filter condition"
+                  },
+                  "partial_answer": {
+                    "type": ["string", "null"],
+                    "description": "Partial answer if available"
+                  }
+                },
+                "required": ["action", "query", "k", "where", "where_document", "partial_answer"]
+              },
+              "added": {
+                "type": "integer",
+                "description": "Number of items added"
+              },
+              "k": {
+                "type": "integer",
+                "description": "K value for the action"
+              }
+            },
+            "required": ["action", "added", "k"]
+          },
+          "description": "Trace of actions performed during processing"
+        },
+        "steps": {
+          "type": "integer",
+          "description": "Number of steps taken"
+        },
+        "stop_reason": {
+          "type": "string",
+          "description": "Reason why processing stopped"
+        },
+        "elapsed_sec": {
+          "type": "number",
+          "description": "Elapsed time in seconds"
+        }
+      },
+      "required": ["question", "answer", "evidence", "citations", "actions_trace", "steps", "stop_reason", "elapsed_sec"]
+    },
+    "context_used": {
+      "type": "boolean",
+      "description": "Whether context was used in generating the response"
+    },
+    "number_of_hops": {
+      "type": "integer",
+      "description": "Number of hops in the reasoning process"
+    },
+    "input_tokens": {
+      "type": "integer",
+      "description": "Number of input tokens used"
+    },
+    "output_tokens": {
+      "type": "integer",
+      "description": "Number of output tokens generated"
+    },
+    "reasoning_tokens": {
+      "type": "integer",
+      "description": "Number of reasoning tokens used"
+    },
+    "llm_calls": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "provider": {
+            "type": "string",
+            "description": "LLM provider name"
+          },
+          "model": {
+            "type": "string",
+            "description": "Model identifier"
+          },
+          "role": {
+            "type": "string",
+            "description": "Role of the LLM call"
+          },
+          "input_tokens": {
+            "type": "integer",
+            "description": "Input tokens for this call"
+          },
+          "output_tokens": {
+            "type": "integer",
+            "description": "Output tokens for this call"
+          },
+          "reasoning_tokens": {
+            "type": "integer",
+            "description": "Reasoning tokens for this call"
+          },
+          "reasoning_text": {
+            "type": ["string", "null"],
+            "description": "Reasoning text if available"
+          },
+          "partial_answer": {
+            "type": ["string", "null"],
+            "description": "Partial answer if available"
+          },
+          "proposed_answer": {
+            "type": ["string", "null"],
+            "description": "Proposed answer if available"
+          },
+          "elapsed_ms": {
+            "type": "number",
+            "description": "Elapsed time in milliseconds"
+          }
+        },
+        "required": ["provider", "model", "role", "input_tokens", "output_tokens", "reasoning_tokens", "reasoning_text", "partial_answer", "proposed_answer", "elapsed_ms"]
+      },
+      "description": "Array of LLM calls made during processing"
+    },
+    "latency": {
+      "type": "number",
+      "description": "Total latency in milliseconds"
+    },
+    "date": {
+      "type": "string",
+      "description": "Date when the response was generated"
+    },
+    "reasoning": {
+      "type": ["string", "null"],
+      "description": "Reasoning text if available"
+    },
+    "raw": {
+      "type": "object",
+      "properties": {
+        "question": {
+          "type": "string",
+          "description": "Original question"
+        },
+        "expected": {
+          "type": "string",
+          "description": "Expected answer"
+        },
+        "number_of_hops": {
+          "type": "integer",
+          "description": "Number of hops"
+        }
+      },
+      "required": ["question", "expected", "number_of_hops"]
+    },
+    "error": {
+      "type": ["string", "null"],
+      "description": "Error message if any occurred"
+    }
+  },
+  "required": ["candidate", "is_correct", "raw_response", "context_used", "number_of_hops", "input_tokens", "output_tokens", "reasoning_tokens", "llm_calls", "latency", "date", "reasoning", "raw", "error"]
+}
