@@ -6,12 +6,45 @@ import matplotlib.pyplot as plt
 import numpy as np
 from pathlib import Path
 from collections import defaultdict
-from advanced_utils import (
+import sys
+
+# Add parent directory to path
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from cross_system_plots.cross_system_utils import (
     load_all_judgments, 
     create_merged_dataset,
     normalize_model_name,
-    load_accuracy_from_csv
+    extract_model_from_filename
 )
+
+
+def load_accuracy_from_csv(csv_file):
+    """Load accuracy data from reverify_accuracies.csv file."""
+    import csv
+    accuracy_map = {}
+    
+    if not csv_file.exists():
+        print(f"Warning: {csv_file} not found")
+        return accuracy_map
+    
+    with open(csv_file, 'r') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            folder = row.get('folder', '')
+            if folder != 'Iterative-RAG':
+                continue
+            
+            file_name = row.get('file_name', '')
+            accuracy = float(row.get('accuracy', 0)) * 100  # Convert to percentage
+            
+            # Extract model name from file name
+            model_name = file_name.replace('responses_', '').replace('_reverified.jsonl', '')
+            model_name = model_name.replace('bedrock_', '').replace('openai_', '')
+            model_name = normalize_model_name(model_name)
+            
+            accuracy_map[model_name] = accuracy
+    
+    return accuracy_map
 
 
 def calculate_model_metrics(merged_data, accuracy_map):
@@ -25,7 +58,6 @@ def calculate_model_metrics(merged_data, accuracy_map):
         'sufficient': 0,
         'good_coverage': 0,
         'calibrated': 0,
-        'accuracy': 0.0
     })
     
     for rec in merged_data:
@@ -41,11 +73,15 @@ def calculate_model_metrics(merged_data, accuracy_map):
         per_step = quality.get('per_step', [])
         if per_step:
             stats['steps'].append(len(per_step))
-        
-        # Specificity
-        specificity = quality.get('overall_specificity', 0)
-        if specificity > 0:
-            stats['specificity'].append(specificity)
+            
+            # Specificity - average across all steps
+            step_specificities = []
+            for step in per_step:
+                spec = step.get('query_quality', {}).get('specificity_score', 0)
+                if spec > 0:
+                    step_specificities.append(spec)
+            if step_specificities:
+                stats['specificity'].append(np.mean(step_specificities))
         
         # On-topic (not off-topic in any step)
         is_on_topic = True
@@ -107,12 +143,8 @@ def create_radar_chart(model_metrics):
         'Sufficiency',
         'Coverage',
         'Calibration',
-        'Avg Steps\n(inverted)'
+        'Avg Steps'
     ]
-    
-    # Normalize avg_steps: invert so that lower steps = higher score
-    # Max steps observed ~4, so we'll use (5 - steps) / 5 * 100
-    max_steps = 5
     
     # Prepare data
     models = list(model_metrics.keys())
@@ -131,11 +163,15 @@ def create_radar_chart(model_metrics):
         '#9b59b6', '#1abc9c', '#e67e22', '#34495e'
     ]
     
+    # Find max steps for normalization
+    max_steps = max(metrics['avg_steps'] for metrics in model_metrics.values())
+    
     # Plot each model
     for idx, model in enumerate(models):
         metrics = model_metrics[model]
         
-        # Extract values (all as percentages 0-100)
+        # Extract values
+        # Normalize steps to 0-100 scale for radar chart
         values = [
             metrics['accuracy'],
             metrics['specificity'],
@@ -143,7 +179,7 @@ def create_radar_chart(model_metrics):
             metrics['sufficiency_rate'],
             metrics['coverage_rate'],
             metrics['calibration_rate'],
-            ((max_steps - metrics['avg_steps']) / max_steps) * 100,  # Inverted steps
+            (metrics['avg_steps'] / max_steps) * 100,  # Normalize to 0-100
         ]
         
         # Complete the circle
@@ -187,13 +223,15 @@ def create_radar_chart(model_metrics):
 
 def main():
     output_dir = Path('/media/torontoai/Iterative-rag/src/rag_analysis/output')
-    csv_dir = Path('/media/torontoai/Iterative-rag/src/results/new_results_csv')
+    csv_file = Path('/media/torontoai/Iterative-rag/src/results/reverify_accuracies.csv')
     
     print("Loading accuracy from CSV...")
-    accuracy_map = load_accuracy_from_csv(csv_dir)
+    accuracy_map = load_accuracy_from_csv(csv_file)
     print(f"Loaded accuracy for {len(accuracy_map)} models")
+    for model, acc in accuracy_map.items():
+        print(f"  {model}: {acc:.2f}%")
     
-    print("Loading all judgments...")
+    print("\nLoading all judgments...")
     coverage, quality, hallucination = load_all_judgments(output_dir)
     
     print(f"Loaded: {len(coverage)} coverage, {len(quality)} quality, {len(hallucination)} hallucination")
