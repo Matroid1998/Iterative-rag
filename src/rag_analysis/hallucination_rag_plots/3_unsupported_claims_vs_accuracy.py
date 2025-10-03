@@ -122,14 +122,16 @@ def main():
             sizes.append(total)
         
         # Create scatter plot with line
-        # Scale point sizes
-        min_size = 50
-        max_size = 500
+        # Scale point sizes with more dramatic differences
+        min_size = 30
+        max_size = 800
         if len(sizes) > 1 and max(sizes) > min(sizes):
-            scaled_sizes = [min_size + (s - min(sizes)) / (max(sizes) - min(sizes)) * (max_size - min_size) 
-                           for s in sizes]
+            # Use exponential scaling for more dramatic size differences
+            normalized = [(s - min(sizes)) / (max(sizes) - min(sizes)) for s in sizes]
+            scaled_sizes = [min_size + (norm ** 1.5) * (max_size - min_size) 
+                           for norm in normalized]
         else:
-            scaled_sizes = [200] * len(sizes)
+            scaled_sizes = [300] * len(sizes)
         
         ax.scatter(x_values, y_values, s=scaled_sizes, alpha=0.6, 
                   color=colors[idx], edgecolors='black', linewidth=1, zorder=3)
