@@ -1,11 +1,11 @@
 """
-Plot 2: Sufficiency vs Coverage Scatter with Miscalibration (Per Model)
+Plot 2: Sufficiency vs Coverage Scatter by Correctness (Per Model)
 
 Scatter plot showing the relationship between sufficiency score and hop coverage,
-colored by miscalibration direction, with point size indicating unsupported claims.
+colored by answer correctness (correct/incorrect), with point size indicating unsupported claims.
 6 subplots, one for each model.
 
-Insight: Can we predict miscalibration from sufficiency and coverage scores?
+Insight: How do sufficiency and coverage scores differ between correct and incorrect answers?
 """
 import json
 import sys
@@ -15,43 +15,64 @@ import numpy as np
 
 # Add parent directory to path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-from hallucination_rag_plots.hall_plot_utils import (
-    load_hallucination_judgments, count_unsupported_claims, normalize_model_name
+from cross_system_plots.cross_system_utils import (
+    load_all_judgments, create_merged_dataset, normalize_model_name
 )
 
 OUTPUT_DIR = Path(__file__).resolve().parents[2] / 'rag_analysis' / 'output'
 PLOT_DIR = Path(__file__).resolve().parent
 
 
+def count_unsupported_claims(hallucination_judgment):
+    """Count unsupported claims in the judgment."""
+    if not hallucination_judgment:
+        return 0
+    
+    comp_faith = hallucination_judgment.get('composition_and_faithfulness', {})
+    unsupported = comp_faith.get('unsupported_claims', [])
+    
+    count = 0
+    for claim in unsupported:
+        if not claim.get('is_supported', True):
+            count += 1
+    
+    return count
+
+
 def main():
     """Generate sufficiency vs coverage scatter plot with 6 subplots (one per model)."""
-    records = load_hallucination_judgments(OUTPUT_DIR)
+    # Load and merge all judgment types
+    cov_records, qual_records, hall_records = load_all_judgments(OUTPUT_DIR)
+    merged = create_merged_dataset(cov_records, qual_records, hall_records)
+    
+    # Filter to records with hallucination data
+    complete = [r for r in merged if 'hallucination' in r]
     
     # Extract data points by model
     model_data = {}
     
-    for rec in records:
+    for rec in complete:
         model = normalize_model_name(rec.get('model', ''))
-        judgment = rec.get('parsed_judgment', {})
+        judgment = rec.get('hallucination', {})
         cf = judgment.get('composition_and_faithfulness', {})
         cm = judgment.get('confidence_miscalibration', {})
         
         suff = cf.get('sufficiency_score_est')
         cov = cm.get('hop_coverage_est')
-        direction = cm.get('direction', 'ok')
+        is_correct = rec.get('is_correct', False)
         
         if suff is not None and cov is not None:
             if model not in model_data:
                 model_data[model] = {
-                    'ok': {'suff': [], 'cov': [], 'unsup': []},
-                    'underconfident_continue': {'suff': [], 'cov': [], 'unsup': []},
-                    'overconfident_finalize': {'suff': [], 'cov': [], 'unsup': []}
+                    'correct': {'suff': [], 'cov': [], 'unsup': []},
+                    'incorrect': {'suff': [], 'cov': [], 'unsup': []}
                 }
             
+            category = 'correct' if is_correct else 'incorrect'
             unsupported = count_unsupported_claims(judgment)
-            model_data[model][direction]['suff'].append(float(suff))
-            model_data[model][direction]['cov'].append(float(cov))
-            model_data[model][direction]['unsup'].append(unsupported)
+            model_data[model][category]['suff'].append(float(suff))
+            model_data[model][category]['cov'].append(float(cov))
+            model_data[model][category]['unsup'].append(unsupported)
     
     # Sort models
     models = sorted(model_data.keys())
@@ -65,15 +86,13 @@ def main():
     axes = axes.flatten()
     
     colors = {
-        'ok': '#2ecc71',
-        'underconfident_continue': '#3498db',
-        'overconfident_finalize': '#e74c3c'
+        'correct': '#2ecc71',      # Green for correct
+        'incorrect': '#e74c3c'      # Red for incorrect
     }
     
     labels = {
-        'ok': 'OK',
-        'underconfident_continue': 'Underconfident',
-        'overconfident_finalize': 'Overconfident'
+        'correct': 'Correct',
+        'incorrect': 'Incorrect'
     }
     
     # Plot each model
@@ -82,11 +101,11 @@ def main():
             break
         
         ax = axes[idx]
-        data_by_direction = model_data[model]
+        data_by_category = model_data[model]
         
-        # Plot each direction
-        for direction in ['ok', 'underconfident_continue', 'overconfident_finalize']:
-            data = data_by_direction[direction]
+        # Plot each category (correct/incorrect)
+        for category in ['correct', 'incorrect']:
+            data = data_by_category[category]
             if not data['suff']:
                 continue
             
@@ -95,8 +114,8 @@ def main():
             
             ax.scatter(data['suff'], data['cov'], 
                       s=sizes, alpha=0.6, 
-                      color=colors[direction],
-                      label=f"{labels[direction]} (n={len(data['suff'])})",
+                      color=colors[category],
+                      label=labels[category],
                       edgecolors='white', linewidth=0.3)
         
         # Add reference lines
@@ -118,11 +137,11 @@ def main():
     # Create a single shared legend at the bottom
     handles, labels_list = axes[0].get_legend_handles_labels()
     if handles:
-        fig.legend(handles, labels_list, loc='lower center', ncol=3, framealpha=0.95, 
-                  fontsize=10, bbox_to_anchor=(0.5, -0.02))
+        fig.legend(handles, labels_list, loc='lower center', ncol=2, framealpha=0.95, 
+                  fontsize=11, bbox_to_anchor=(0.5, -0.02))
     
     # Overall title
-    fig.suptitle('Sufficiency vs Coverage by Miscalibration Direction (Per Model)\n(point size indicates unsupported claims)',
+    fig.suptitle('Sufficiency vs Coverage by Answer Correctness (Per Model)\n(point size indicates unsupported claims)',
                 fontsize=15, fontweight='bold', y=0.995)
     
     plt.tight_layout(rect=[0, 0.02, 1, 0.985])
@@ -132,12 +151,12 @@ def main():
     plt.close()
     
     # Print statistics
-    print("\n=== Sufficiency vs Coverage Statistics (Per Model) ===")
+    print("\n=== Sufficiency vs Coverage Statistics by Correctness (Per Model) ===")
     for model in sorted(models):
         print(f"\n{model}:")
-        data_by_direction = model_data[model]
-        for direction, label in labels.items():
-            data = data_by_direction[direction]
+        data_by_category = model_data[model]
+        for category, label in labels.items():
+            data = data_by_category[category]
             if data['suff']:
                 print(f"  {label} (n={len(data['suff'])}):")
                 print(f"    Avg Sufficiency: {np.mean(data['suff']):.3f}")
