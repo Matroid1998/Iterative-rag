@@ -36,8 +36,6 @@ def load_accuracy_by_issue_data(output_dir):
     # Structure: {model: {issue_type: {'with_issue': {correct, total}, 'without_issue': {correct, total}}}}
     model_data = defaultdict(lambda: {
         'has_gap': {'with_issue': {'correct': 0, 'total': 0}, 'without_issue': {'correct': 0, 'total': 0}},
-        'any_late_hit': {'with_issue': {'correct': 0, 'total': 0}, 'without_issue': {'correct': 0, 'total': 0}},
-        'any_carry_drop': {'with_issue': {'correct': 0, 'total': 0}, 'without_issue': {'correct': 0, 'total': 0}},
     })
     
     for file_path in glob.glob(str(output_dir / '*coverage_gap_judgments.jsonl')):
@@ -64,22 +62,15 @@ def load_accuracy_by_issue_data(output_dir):
                     coverage = parsed.get('retrieval_coverage_gap', {})
                     has_gap = coverage.get('has_gap', False)
                     
-                    late_hit = parsed.get('late_hit_per_hop', {})
-                    any_late_hit = late_hit.get('any_late_hit', False)
-                    
-                    anchor = parsed.get('anchor_carry_drop', {})
-                    any_carry_drop = anchor.get('any_carry_drop', False)
-                    
-                    # Track each issue type
-                    for issue_key, has_issue in [('has_gap', has_gap), ('any_late_hit', any_late_hit), ('any_carry_drop', any_carry_drop)]:
-                        if has_issue:
-                            model_data[model_name][issue_key]['with_issue']['total'] += 1
-                            if is_correct:
-                                model_data[model_name][issue_key]['with_issue']['correct'] += 1
-                        else:
-                            model_data[model_name][issue_key]['without_issue']['total'] += 1
-                            if is_correct:
-                                model_data[model_name][issue_key]['without_issue']['correct'] += 1
+                    # Track coverage gap issue only
+                    if has_gap:
+                        model_data[model_name]['has_gap']['with_issue']['total'] += 1
+                        if is_correct:
+                            model_data[model_name]['has_gap']['with_issue']['correct'] += 1
+                    else:
+                        model_data[model_name]['has_gap']['without_issue']['total'] += 1
+                        if is_correct:
+                            model_data[model_name]['has_gap']['without_issue']['correct'] += 1
                 
                 except json.JSONDecodeError:
                     continue
@@ -100,9 +91,9 @@ def create_per_model_accuracy_plot(model_data, output_path):
     fig, axes = plt.subplots(2, 3, figsize=(18, 12))
     axes = axes.flatten()
     
-    issue_types = ['Coverage Gap', 'Late Hit', 'Anchor Drop']
-    issue_keys = ['has_gap', 'any_late_hit', 'any_carry_drop']
-    colors = ['#c44e52', '#e07b4f', '#dd8452']
+    issue_types = ['Coverage Gap']
+    issue_keys = ['has_gap']
+    colors = ['#c44e52']
     
     for idx, model in enumerate(models):
         if idx >= 6:  # Only show first 6 models
@@ -130,13 +121,13 @@ def create_per_model_accuracy_plot(model_data, output_path):
         
         # Create grouped bars
         x = np.arange(len(issue_types))
-        width = 0.35
+        width = 0.6  # Wider bars since we only have one category
         
         bars1 = ax.bar(x - width/2, with_issue_acc, width,
-                      label='WITH Issue', color='#c44e52',
+                      label='With Coverage Gap', color='#c44e52',
                       alpha=0.8, edgecolor='black', linewidth=1.2)
         bars2 = ax.bar(x + width/2, without_issue_acc, width,
-                      label='WITHOUT Issue', color='#55a868',
+                      label='Without Coverage Gap', color='#55a868',
                       alpha=0.8, edgecolor='black', linewidth=1.2)
         
         # Add value labels
@@ -152,17 +143,13 @@ def create_per_model_accuracy_plot(model_data, output_path):
         ax.set_ylabel('Accuracy (%)', fontsize=11, fontweight='bold')
         ax.set_title(model, fontsize=12, fontweight='bold', pad=10)
         ax.set_xticks(x)
-        ax.set_xticklabels(issue_types, rotation=15, ha='right', fontsize=10)
+        ax.set_xticklabels(issue_types, rotation=0, ha='center', fontsize=10)
         ax.set_ylim(0, 100)
         ax.grid(True, alpha=0.3, axis='y')
         ax.legend(loc='lower left', fontsize=9)
         
         # Add sample sizes as text
-        textstr = '\n'.join([
-            f"Gap: n={data['has_gap']['with_issue']['total']}",
-            f"Late: n={data['any_late_hit']['with_issue']['total']}",
-            f"Drop: n={data['any_carry_drop']['with_issue']['total']}"
-        ])
+        textstr = f"Gap: n={data['has_gap']['with_issue']['total']}"
         ax.text(0.98, 0.97, textstr, transform=ax.transAxes,
                fontsize=8, verticalalignment='top', horizontalalignment='right',
                bbox=dict(boxstyle='round', facecolor='wheat', alpha=0.5))
@@ -172,7 +159,7 @@ def create_per_model_accuracy_plot(model_data, output_path):
         axes[idx].axis('off')
     
     # Overall title
-    fig.suptitle('Accuracy Rate by Coverage Issue Type (Per Model)\nLower "WITH Issue" bars indicate issue hurts performance',
+    fig.suptitle('Accuracy Rate by Coverage Gap (Per Model)\nLower "WITH Issue" bars indicate coverage gaps hurt performance',
                 fontsize=16, fontweight='bold', y=0.995)
     
     plt.tight_layout(rect=[0, 0, 1, 0.985])
@@ -182,7 +169,7 @@ def create_per_model_accuracy_plot(model_data, output_path):
     
     # Print statistics
     print("\n" + "="*80)
-    print("ACCURACY BY ISSUE TYPE (PER MODEL)")
+    print("ACCURACY BY COVERAGE GAP (PER MODEL)")
     print("="*80)
     
     for model in sorted(models):
@@ -222,7 +209,7 @@ def main():
         return
     
     # Create plot
-    output_path = plot_dir / "4a_accuracy_by_issue_per_model.png"
+    output_path = plot_dir / "4a_accuracy_by_issue_per_model_coverage_only.png"
     create_per_model_accuracy_plot(model_data, output_path)
 
 
