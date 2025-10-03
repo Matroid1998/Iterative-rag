@@ -138,11 +138,28 @@ All plots are saved to the same directory as PNG files with 300 DPI resolution.
 
 ## Key Findings
 
-Based on initial analysis across models:
-- **Coverage gaps are rare**: Only 2-5% of runs have true retrieval gaps
-- **Anchor carry-drop varies significantly**: 2.9% (GPT-5) to 20.1% (Claude-3.7)
-- **Late hits are common**: 8-16% of runs across models
-- **Hop 1 is most often missed**: In multi-hop questions, retrieval gaps primarily affect hop 1
+Based on comprehensive analysis across 6 models (1,186 questions):
+
+### Coverage Gap Impact
+- **Prevalence**: 8-29% of questions have coverage gaps (model dependent)
+- **Performance impact**: 19-31 percentage point accuracy drop when gaps present
+- **Model resilience**: GPT-5 most resilient (8.3pp drop), Claude 3.7 Sonnet least (31.3pp drop)
+- **Hard questions**: Coverage gaps affect 34-45% of hardest questions (4-6 models wrong)
+
+### Retrieval Patterns (Removed from Analysis)
+- **Anchor carry-drop**: Removed from current analysis (previously 2.9-20.1%)
+- **Late hits**: Removed from current analysis (previously 8-16%)
+- **Focus shift**: Analysis now concentrates on coverage gaps as primary failure mode
+
+### Model Comparison
+- **Best coverage**: GPT-5 with 74.9% accuracy even with gaps present
+- **Most vulnerable**: Mistral Large with 53.0% accuracy when gaps present
+- **Gap frequency**: DeepSeek R1 highest gap rate (16.9%), Claude 3.7 + Reasoning lowest (10.4%)
+
+### Strategic Insights
+- **Coverage gaps are the primary retrieval failure mode** affecting model performance
+- **All models show significant performance degradation** when coverage gaps are present
+- **Improved retrieval coverage** could provide 20-30% accuracy gains across models
 
 ## Author
 

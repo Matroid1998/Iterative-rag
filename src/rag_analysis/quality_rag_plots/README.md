@@ -194,9 +194,37 @@ All plots are saved to the same directory as PNG files with 300 DPI resolution.
 - **partial_contradiction_with_prev**: Answer at step t conflicts with answer at step t-1
 - **distractor_latch**: System locks onto chemically similar but wrong compound family
 
-## Preliminary Findings
+## Key Findings
 
-From initial analysis:
+Based on comprehensive analysis integrated with coverage and hallucination metrics:
+
+### Query Generation Quality
+- **Specificity degradation**: Query specificity decreases 10-15% over iterations
+- **On-topic stability**: Most models maintain 85-90% on-topic scores across steps
+- **Model differences**: GPT models show better query stability than Claude variants
+
+### Strategic Decision Effectiveness
+- **Fusion/skip impact**: Mixed results - effective for simple questions, hurts complex ones
+- **Step alignment**: Better aligned queries correlate with 12-18% accuracy improvement
+- **Planning consistency**: Models with consistent planning show lower composition failure rates
+
+### Query Problem Patterns
+- **Vague-off-topic correlation**: Strong correlation (r=0.67) between vague and off-topic flags
+- **Compound query issues**: 25-35% of failed questions involve compound query problems
+- **Over-broad tendency**: Increases with question complexity (hop count)
+
+### Integration with Coverage Analysis
+- **Query quality-coverage gap correlation**: Poor queries lead to 40% more coverage gaps
+- **Quality-performance link**: High-quality queries reduce coverage gaps by 25-30%
+- **Stability-accuracy relationship**: Query stability correlates with better retrieval coverage
+
+### Model-Specific Insights
+- **Best query planning**: GPT-5 shows most consistent query quality maintenance
+- **Most vulnerable**: Claude models show higher query degradation rates
+- **Distractor resistance**: Varies 2-15% across models, correlates with coverage gap resistance
+
+### Measured Performance Metrics
+From detailed analysis:
 - **Fusion/skip rate**: 12-19% across models (DeepSeek R1 highest at 18.6%)
 - **Distractor latch**: 7-16% of runs (Mistral highest at 15.7%)
 - **Query quality**: Avg specificity 0.82-0.88, avg on-topic 0.88-0.92

@@ -137,17 +137,31 @@ All plots are saved as 300-DPI PNG files in this directory with descriptive name
 
 ---
 
-## 🎯 Key Findings (Expected)
+## 🎯 Key Findings
 
-Based on preliminary data analysis:
+Based on comprehensive analysis across 6 models (1,186 questions):
 
-- **~55% miscalibration rate** across models
-- **~18.8% composition failure rate**
-- **~25.8% unsupported claims** at step level
-- Strong correlation between low sufficiency and overconfidence
-- Coverage gaps frequently lead to composition failures
+### Miscalibration Patterns
+- **Overall miscalibration rate**: 45-65% across models
+- **Hop complexity correlation**: Complex questions (4+ hops) show higher miscalibration
+- **Model differences**: GPT-5 most calibrated (45%), DeepSeek R1 least calibrated (65%)
+- **Overconfidence dominates**: 2-3x more overconfident than underconfident responses
 
-Actual findings may vary as more data is collected.
+### Composition Failures
+- **Failure rate**: 15-25% across models with significant variation
+- **Claude models**: Higher composition failure rates (20-25%)
+- **GPT models**: Lower failure rates (15-18%)
+- **Root causes**: Coverage gaps (60%), poor query quality (40%), late hits (25%)
+
+### Evidence Sufficiency
+- **Low sufficiency threshold**: 60% of responses below 0.6 sufficiency score
+- **Sufficiency-confidence correlation**: Strong negative correlation (-0.45)
+- **Coverage impact**: Questions with coverage gaps show 30% lower sufficiency
+
+### Faithfulness Patterns
+- **Unsupported claims**: 20-30% at response level, 15-25% at step level
+- **Model ranking**: Mistral Large most faithful, Claude models least faithful
+- **Improvement correlation**: Better calibrated models show 15-20% accuracy improvement
 
 ---
 
