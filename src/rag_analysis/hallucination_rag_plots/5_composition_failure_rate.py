@@ -1,10 +1,10 @@
 """
 Plot 5: Composition Failure Rate by Model
 
-Bar chart showing percentage of runs with composition failure per model.
-Only counts failures when is_correct is False.
+Bar chart showing percentage of incorrect answers with composition failure per model.
+Denominator is the number of incorrect answers (not total runs).
 
-Insight: Which models have higher composition failure rates?
+Insight: Among incorrect answers, which models have higher composition failure rates?
 """
 import json
 import sys
@@ -34,18 +34,20 @@ def main():
     merged = create_merged_dataset(hall_records, cov_records, [])
     
     # Group by model
-    model_stats = defaultdict(lambda: {'total': 0, 'failures': 0})
+    model_stats = defaultdict(lambda: {'incorrects': 0, 'failures': 0})
     
     for rec in merged:
         model = normalize_model_name(rec.get('model', ''))
         is_correct = rec.get('is_correct', False)
         cf = rec.get('hallucination', {}).get('composition_and_faithfulness', {})
         
-        model_stats[model]['total'] += 1
-        
-        # Only count as failure if is_correct is False AND composition_failure is True
-        if not is_correct and cf.get('composition_failure', False):
-            model_stats[model]['failures'] += 1
+        # Only count incorrect answers
+        if not is_correct:
+            model_stats[model]['incorrects'] += 1
+            
+            # Count composition failures among incorrect answers
+            if cf.get('composition_failure', False):
+                model_stats[model]['failures'] += 1
     
     # Calculate percentages
     models = sorted(model_stats.keys())
@@ -55,10 +57,10 @@ def main():
     
     for model in models:
         stats = model_stats[model]
-        rate = 100 * stats['failures'] / stats['total'] if stats['total'] > 0 else 0
+        rate = 100 * stats['failures'] / stats['incorrects'] if stats['incorrects'] > 0 else 0
         failure_rates.append(rate)
         failure_counts.append(stats['failures'])
-        total_counts.append(stats['total'])
+        total_counts.append(stats['incorrects'])
     
     # Create bar chart
     fig, ax = plt.subplots(figsize=(12, 7))
@@ -83,7 +85,7 @@ def main():
     
     ax.set_ylabel('Composition Failure Rate (%)', fontsize=12, fontweight='bold')
     ax.set_xlabel('Model', fontsize=12, fontweight='bold')
-    ax.set_title('Composition Failure Rate by Model\n(Only counting failures when answer is incorrect)', 
+    ax.set_title('Composition Failure Rate by Model\n(% of incorrect answers with composition failure)', 
                  fontsize=14, fontweight='bold', pad=20)
     ax.set_xticks(x)
     ax.set_xticklabels(models, rotation=30, ha='right')
@@ -99,13 +101,13 @@ def main():
     
     # Print statistics
     print("\n=== Composition Failure Rate by Model ===")
-    print("(Only counting failures when is_correct = False)")
+    print("(% of incorrect answers with composition failure)")
     for model in models:
         stats = model_stats[model]
-        rate = 100 * stats['failures'] / stats['total'] if stats['total'] > 0 else 0
+        rate = 100 * stats['failures'] / stats['incorrects'] if stats['incorrects'] > 0 else 0
         print(f"\n{model}:")
-        print(f"  Total runs: {stats['total']}")
-        print(f"  Failures: {stats['failures']}")
+        print(f"  Incorrect answers: {stats['incorrects']}")
+        print(f"  Composition failures: {stats['failures']}")
         print(f"  Failure rate: {rate:.1f}%")
 
 
