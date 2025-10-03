@@ -65,6 +65,8 @@ def compute_hard_question_data(
     Dict[int, Dict[str, int]],
     Dict[int, Dict[str, int]],
     Dict[int, Dict[str, int]],
+    Dict[int, Dict[str, List[int]]],  # Added: token values for std calculation
+    Dict[int, Dict[str, List[int]]],  # Added: token values for std calculation
     List[str],
 ]:
     model_metrics: Dict[str, Dict[str, Dict[str, object]]] = {}
@@ -98,6 +100,13 @@ def compute_hard_question_data(
     correct_tokens: Dict[int, Dict[str, int]] = {
         cat: {model: 0 for model in model_metrics.keys()} for cat in categories
     }
+    # Add lists to store individual token values for std calculation
+    incorrect_token_values: Dict[int, Dict[str, List[int]]] = {
+        cat: {model: [] for model in model_metrics.keys()} for cat in categories
+    }
+    correct_token_values: Dict[int, Dict[str, List[int]]] = {
+        cat: {model: [] for model in model_metrics.keys()} for cat in categories
+    }
 
     for question in common_questions:
         wrong_models = []
@@ -129,6 +138,7 @@ def compute_hard_question_data(
                 subtract_reasoning=subtract_reasoning,
             )
             incorrect_tokens[wrong_count][model] += token_value
+            incorrect_token_values[wrong_count][model].append(token_value)
         for model in correct_models:
             correct_counts[wrong_count][model] += 1
             record = model_metrics[model][question]
@@ -138,6 +148,7 @@ def compute_hard_question_data(
                 subtract_reasoning=subtract_reasoning,
             )
             correct_tokens[wrong_count][model] += token_value
+            correct_token_values[wrong_count][model].append(token_value)
 
     model_names = list(model_metrics.keys())
     return (
@@ -146,6 +157,8 @@ def compute_hard_question_data(
         incorrect_counts,
         correct_tokens,
         incorrect_tokens,
+        correct_token_values,
+        incorrect_token_values,
         model_names,
     )
 
@@ -187,6 +200,22 @@ def compute_average_map(
             else:
                 averages[category][model] = 0.0
     return averages
+
+
+def compute_std_map(
+    token_values: Dict[int, Dict[str, List[int]]],
+) -> Dict[int, Dict[str, float]]:
+    """Compute standard deviation from individual token values."""
+    import numpy as np
+    std_devs: Dict[int, Dict[str, float]] = {}
+    for category, model_values in token_values.items():
+        std_devs[category] = {}
+        for model, values in model_values.items():
+            if len(values) > 1:
+                std_devs[category][model] = float(np.std(values))
+            else:
+                std_devs[category][model] = 0.0
+    return std_devs
 
 
 def format_bar_label(value: float) -> str:
@@ -301,6 +330,54 @@ def plot_segmented_bar(
             loc="center left",
             bbox_to_anchor=(1.02, 0.5),
         )
+
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    fig.savefig(output_path, dpi=200, bbox_inches="tight")
+    plt.close(fig)
+
+
+def plot_grouped_bar_with_std(
+    categories: List[int],
+    counts_map: Dict[int, Dict[str, float]],
+    std_map: Dict[int, Dict[str, float]],
+    model_names: List[str],
+    model_colors: Dict[str, str],
+    ylabel: str,
+    title: str,
+    output_path: Path,
+) -> None:
+    x_positions = np.arange(len(categories))
+    num_models = len(model_names)
+    if num_models == 0:
+        raise ValueError("At least one model is required to plot grouped bars")
+
+    width = min(0.8 / num_models, 0.18)
+    offsets = (np.arange(num_models) - (num_models - 1) / 2) * width
+
+    fig, ax = plt.subplots(figsize=(10, 6))
+
+    for idx, model in enumerate(model_names):
+        heights = [counts_map[cat].get(model, 0) for cat in categories]
+        stds = [std_map[cat].get(model, 0) for cat in categories]
+        bars = ax.bar(
+            x_positions + offsets[idx],
+            heights,
+            width=width,
+            label=model,
+            color=model_colors.get(model, "#7f7f7f"),
+            edgecolor="#ffffff",
+            yerr=stds,
+            capsize=3,
+        )
+        labels = [format_bar_label(float(height)) for height in heights]
+        ax.bar_label(bars, labels=labels, padding=3)
+
+    ax.set_xticks(x_positions)
+    ax.set_xticklabels([f"{cat} models wrong" for cat in categories])
+    ax.set_ylabel(ylabel)
+    ax.set_xlabel("Hard questions category")
+    ax.set_title(title)
+    ax.legend(loc="upper right")
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     fig.savefig(output_path, dpi=200, bbox_inches="tight")

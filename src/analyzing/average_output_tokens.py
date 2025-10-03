@@ -7,6 +7,7 @@ import json
 from collections import defaultdict
 from pathlib import Path
 from typing import Dict, List, Tuple
+import numpy as np
 
 import matplotlib.pyplot as plt
 
@@ -33,9 +34,9 @@ def normalize_model_key(stem: str) -> str:
     return stem
 
 
-def accumulate_output_stats(path: Path, adjust_reasoning: bool) -> Dict[bool, Tuple[float, int]]:
-    """Return total output tokens and counts keyed by correctness."""
-    totals: Dict[bool, Tuple[float, int]] = defaultdict(lambda: (0.0, 0))
+def accumulate_output_stats(path: Path, adjust_reasoning: bool) -> Dict[bool, List[float]]:
+    """Return list of output tokens keyed by correctness."""
+    values: Dict[bool, List[float]] = defaultdict(list)
     with path.open("r", encoding="utf-8") as handle:
         for line_number, line in enumerate(handle, 1):
             line = line.strip()
@@ -64,13 +65,16 @@ def accumulate_output_stats(path: Path, adjust_reasoning: bool) -> Dict[bool, Tu
                 if reasoning_tokens is not None:
                     output_tokens = max(0.0, output_tokens - reasoning_tokens)
 
-            total, count = totals[is_correct]
-            totals[is_correct] = (total + output_tokens, count + 1)
-    return totals
+            values[is_correct].append(output_tokens)
+    return values
 
 
-def compute_average(total: float, count: int) -> float:
-    return total / count if count else 0.0
+def compute_average_and_std(values: List[float]) -> Tuple[float, float]:
+    """Compute average and standard deviation from list of values."""
+    if not values:
+        return 0.0, 0.0
+    arr = np.array(values)
+    return float(np.mean(arr)), float(np.std(arr))
 
 
 def resolve_label(model_key: str) -> str:
@@ -88,7 +92,7 @@ def main() -> None:
     if not jsonl_files:
         raise RuntimeError(f"No JSONL files found in {responses_dir}")
 
-    model_entries: List[Tuple[str, str, float, float]] = []
+    model_entries: List[Tuple[str, str, float, float, float, float]] = []
 
     plots_dir.mkdir(parents=True, exist_ok=True)
 
@@ -97,15 +101,20 @@ def main() -> None:
         display_name = resolve_label(model_key)
 
         stats = accumulate_output_stats(path, adjust_reasoning=model_key in REASONING_MODEL_KEYS)
-        correct_total, correct_count = stats.get(True, (0.0, 0))
-        wrong_total, wrong_count = stats.get(False, (0.0, 0))
+        correct_values = stats.get(True, [])
+        wrong_values = stats.get(False, [])
+        
+        correct_avg, correct_std = compute_average_and_std(correct_values)
+        wrong_avg, wrong_std = compute_average_and_std(wrong_values)
 
         model_entries.append(
             (
                 model_key,
                 display_name,
-                compute_average(correct_total, correct_count),
-                compute_average(wrong_total, wrong_count),
+                correct_avg,
+                wrong_avg,
+                correct_std,
+                wrong_std,
             )
         )
 
@@ -139,20 +148,24 @@ def main() -> None:
 
 
 def plot_average_tokens(
-    entries: List[Tuple[str, str, float, float]],
+    entries: List[Tuple[str, str, float, float, float, float]],
     output_path: Path,
     title: str,
 ) -> None:
-    labels = [display_name for _, display_name, _, _ in entries]
-    correct_avgs = [correct_avg for _, _, correct_avg, _ in entries]
-    wrong_avgs = [wrong_avg for _, _, _, wrong_avg in entries]
+    labels = [display_name for _, display_name, _, _, _, _ in entries]
+    correct_avgs = [correct_avg for _, _, correct_avg, _, _, _ in entries]
+    wrong_avgs = [wrong_avg for _, _, _, wrong_avg, _, _ in entries]
+    correct_stds = [correct_std for _, _, _, _, correct_std, _ in entries]
+    wrong_stds = [wrong_std for _, _, _, _, _, wrong_std in entries]
 
     x_positions = range(len(labels))
     width = 0.35
 
     fig, ax = plt.subplots(figsize=(max(6, len(labels) * 1.5), 5))
-    ax.bar([x - width / 2 for x in x_positions], correct_avgs, width=width, label="Correct", color="#55a868")
-    ax.bar([x + width / 2 for x in x_positions], wrong_avgs, width=width, label="Wrong", color="#c44e52")
+    ax.bar([x - width / 2 for x in x_positions], correct_avgs, width=width, label="Correct", 
+           color="#55a868", yerr=correct_stds, capsize=5)
+    ax.bar([x + width / 2 for x in x_positions], wrong_avgs, width=width, label="Wrong", 
+           color="#c44e52", yerr=wrong_stds, capsize=5)
 
     ax.set_xticks(list(x_positions))
     ax.set_xticklabels(labels, rotation=20, ha="right")
