@@ -5,6 +5,8 @@ timestamp,folder,file_name,total_questions,correct_answers,accuracy,verifier_pro
 2025-09-24T02:13:17,Iterative-RAG,responses_bedrock_us.deepseek.r1-v1:0-reasoning_reverified.jsonl,1186,976,0.8229,openai,gpt-5-mini
 2025-09-24T02:13:17,Iterative-RAG,responses_openai_gpt-4o_reverified.jsonl,1186,972,0.8196,openai,gpt-5-mini
 2025-09-24T02:13:17,Iterative-RAG,responses_openai_gpt-5_reverified.jsonl,1186,959,0.8086,openai,gpt-5-mini
+2025-09-24T02:13:17,Iterative-RAG,responses_openrouter_anthropic__claude-sonnet-4.5_reverified.jsonl,1186,1036,0.8735,openai,gpt-5-mini
+2025-09-24T02:13:17,Iterative-RAG,responses_openrouter_google__gemini-2.5-pro_reverified.jsonl,1186,996,0.8397,openai,gpt-5-mini
 2025-09-24T02:13:17,response-jsonl-with-context,responses_bedrock_mistral.mistral-large-2402-v1:0_reverified.jsonl,1186,861,0.7260,openai,gpt-5-mini
 2025-09-24T02:13:17,response-jsonl-with-context,responses_bedrock_us.anthropic.claude-3-5-sonnet-20241022-v2:0_reverified.jsonl,1186,746,0.6290,openai,gpt-5-mini
 2025-09-24T02:13:17,response-jsonl-with-context,responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning_reverified.jsonl,1186,869,0.7327,openai,gpt-5-mini
@@ -32,3 +34,5 @@ timestamp,folder,file_name,total_questions,correct_answers,accuracy,verifier_pro
 2025-09-24T02:13:17,response-jsonl-without-context,responses_openrouter_deepseek__deepseek-r1-distill-qwen-32b-reasoning_reverified.jsonl,1186,359,0.3027,openai,gpt-5-mini
 2025-09-24T02:13:17,response-jsonl-without-context,responses_openrouter_google__gemma-3-27b-it_reverified.jsonl,1186,327,0.2757,openai,gpt-5-mini
 2025-09-24T02:13:17,response-jsonl-without-context,responses_openrouter_qwen__qwq-32b-reasoning_reverified.jsonl,1186,369,0.3111,openai,gpt-5-mini
+2025-10-09T14:01:06,responses,responses_openrouter_anthropic__claude-sonnet-4.5_reverified.jsonl,1186,1036,0.8735,openai,gpt-5-mini
+2025-10-09T14:28:13,responses,responses_openrouter_google__gemini-2.5-pro_reverified.jsonl,1186,996,0.8398,openai,gpt-5-mini
