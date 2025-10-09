@@ -164,7 +164,7 @@ class StructuredLLM:
             else:
                 self.temperature = 0.6
 
-        if self.provider in [Provider.OPENAI, Provider.NVIDIA]:
+        if self.provider in [Provider.OPENAI, Provider.NVIDIA, Provider.OPENROUTER]:
             self.api_key = self._get_api_key()
         self.client = self._initialize_client()
         if self.provider == Provider.BEDROCK:
@@ -472,7 +472,7 @@ class StructuredLLM:
                 response = requests.post(
                     url="https://openrouter.ai/api/v1/chat/completions",
                     headers={
-                        "Authorization": f"Bearer {self._get_api_key()}",
+                        "Authorization": f"Bearer {self.api_key}",
                     },
                     json=payload,
                     timeout=60,
@@ -495,6 +495,7 @@ class StructuredLLM:
                     "input_tokens": response_json["usage"]["prompt_tokens"],
                     "output_tokens": response_json["usage"]["completion_tokens"],
                     "reasoning": reason,
+                    "reasoning_tokens": 0,  # OpenRouter doesn't provide separate reasoning tokens
                 }
             except Exception as e:
                 if retry < max_retries - 1:
@@ -508,6 +509,7 @@ class StructuredLLM:
                         "input_tokens": 0,
                         "output_tokens": 0,
                         "reasoning": None,
+                        "reasoning_tokens": 0,
                         "error": str(e),
                     }
 
@@ -946,10 +948,29 @@ class Evaluate:
             usage = llm_client.get_and_reset_usage()
         except Exception:
             usage = {"input": 0, "output": 0, "reasoning": 0, "calls": []}
+        
+        # Aggregate reasoning text from all calls
+        reasoning_combined = None
+        try:
+            calls = usage.get("calls", [])
+            reasoning_parts = []
+            for i, call in enumerate(calls):
+                rt = call.get("reasoning_text")
+                if rt and isinstance(rt, str) and rt.strip():
+                    reasoning_parts.append(f"[Step {i+1} - {call.get('role', 'unknown')}]\n{rt.strip()}")
+            if reasoning_parts:
+                reasoning_combined = "\n\n".join(reasoning_parts)
+        except Exception:
+            pass
+        
         print(f"[Evaluate] Candidate: {candidate}")
         if expected:
             print(f"[Evaluate] Expected: {expected}")
         print(f"[Evaluate] Correct: {is_correct} | Elapsed: {round(elapsed_ms,2)} ms")
+        
+        # Calculate total reasoning tokens from all calls
+        total_reasoning_tokens = int(usage.get("reasoning", 0))
+        
         result = {
             "candidate": candidate,
             "is_correct": is_correct,
@@ -958,11 +979,11 @@ class Evaluate:
             "number_of_hops": int(number_of_hops or 0),
             "input_tokens": int(usage.get("input", 0)),
             "output_tokens": int(usage.get("output", 0)),
-            "reasoning_tokens": int(usage.get("reasoning", 0)),
+            "reasoning_tokens": total_reasoning_tokens,
             "llm_calls": list(usage.get("calls", [])),
             "latency": round(elapsed_ms, 2),
             "date": datetime.now().strftime("%Y-%m-%d %H:%M"),
-            "reasoning": None,
+            "reasoning": reasoning_combined,
             "raw": {"question": question, "expected": expected, "number_of_hops": int(number_of_hops or 0)},
             "error": rag_result.get("error", None) if isinstance(rag_result, dict) else None,
         }

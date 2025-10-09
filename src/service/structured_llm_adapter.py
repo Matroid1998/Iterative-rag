@@ -287,6 +287,12 @@ class StructuredLLMClient(LLMClient):
                 "temperature": self._temperature,
                 "max_tokens": self._max_tokens,
             }
+            
+            # Note: Extended thinking for Claude is NOT supported through OpenRouter
+            # OpenRouter routes Claude through Google infrastructure which doesn't support
+            # the extended-thinking beta feature. Use Bedrock or direct Anthropic API for that.
+            # Only Gemini 2.5 Pro provides reasoning automatically through OpenRouter.
+            
             if self._debug:
                 print(f"[LLM:{self._provider.value}:{self._model}] >>> system:\n{system}\n")
                 print(f"[LLM:{self._provider.value}:{self._model}] >>> user:\n{user}\n")
@@ -308,12 +314,44 @@ class StructuredLLMClient(LLMClient):
                 .get("content", "")
                 .strip()
             )
+            # Extract reasoning content if present (extended thinking from Claude Sonnet 4.5, Gemini 2.5 Pro, etc.)
+            reason_txt = None
+            try:
+                msg = data.get("choices", [{}])[0].get("message", {})
+                # Check for reasoning field in message
+                if "reasoning" in msg and msg["reasoning"]:
+                    reason_txt = (msg.get("reasoning") or "").strip()
+                # Also check reasoning_details array (used by Gemini 2.5 Pro)
+                elif "reasoning_details" in msg and msg["reasoning_details"]:
+                    reasoning_parts = []
+                    for detail in msg["reasoning_details"]:
+                        if isinstance(detail, dict) and "text" in detail:
+                            reasoning_parts.append(detail["text"])
+                    if reasoning_parts:
+                        reason_txt = "\n\n".join(reasoning_parts).strip()
+            except Exception:
+                pass
             try:
                 usage = data.get("usage") or {}
                 in_tok = int(usage.get("prompt_tokens", 0) or 0)
                 out_tok = int(usage.get("completion_tokens", 0) or 0)
                 self._usage["input"] += in_tok
                 self._usage["output"] += out_tok
+                # Extract reasoning tokens from usage
+                r_tok = 0
+                try:
+                    # Check completion_tokens_details for reasoning_tokens (Gemini 2.5 Pro)
+                    completion_details = usage.get("completion_tokens_details", {})
+                    if isinstance(completion_details, dict) and "reasoning_tokens" in completion_details:
+                        r_tok = int(completion_details.get("reasoning_tokens", 0) or 0)
+                except Exception:
+                    pass
+                
+                # If no reasoning tokens in usage but we have reasoning text, estimate
+                if r_tok == 0 and isinstance(reason_txt, str) and reason_txt.strip():
+                    r_tok = len(reason_txt.strip().split())
+                
+                self._usage["reasoning"] += r_tok
                 role = self._label_role(system)
                 partial, proposed = self._extract_partial_and_proposed(out)
                 self._calls.append({
@@ -322,8 +360,8 @@ class StructuredLLMClient(LLMClient):
                     "role": role,
                     "input_tokens": in_tok,
                     "output_tokens": out_tok,
-                    "reasoning_tokens": 0,
-                    "reasoning_text": None,
+                    "reasoning_tokens": r_tok,
+                    "reasoning_text": reason_txt,
                     "partial_answer": partial,
                     "proposed_answer": proposed,
                     "elapsed_ms": int((_t.time() - _t0) * 1000),
