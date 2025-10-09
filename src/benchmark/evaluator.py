@@ -94,7 +94,7 @@ class ModelRegistry:
         Provider.OPENROUTER: [
             "anthropic/claude-sonnet-4.5",
             "google/gemini-2.5-pro",
-            "qwen/qwen3-max",
+            "qwen/qwen3-235b-a22b-thinking-2507",
         ],
         Provider.NVIDIA: [
             # "deepseek-ai/deepseek-r1",
@@ -450,12 +450,21 @@ class StructuredLLM:
             },
         }
 
+        reasoning_settings = {
+            "enabled": True,
+            "exclude": False,
+            "effort": "medium",
+        }
+
         payload = {
             "model": self.model_id,
             "messages": messages,
             "temperature": self.temperature,
             "response_format": response_format,
             "max_tokens": self.max_completion_tokens,
+            "reasoning": reasoning_settings,
+            "include_reasoning": True,
+            "usage": {"include": True},
         }
 
         if self.model_id == "qwen/qwq-32b":
@@ -481,21 +490,95 @@ class StructuredLLM:
                 response_json = response.json()
                 elapsed_ms = (time.time() - now) * 1000
 
-                raw_response = response_json["choices"][0]["message"]["content"]
+                raw_message = response_json["choices"][0]["message"]
+                raw_response = raw_message.get("content")
+                if isinstance(raw_response, str):
+                    raw_response = raw_response.strip()
+                elif isinstance(raw_response, list):
+                    assembled = []
+                    for chunk in raw_response:
+                        text_value = ""
+                        if isinstance(chunk, dict):
+                            candidate = chunk.get("text")
+                            if isinstance(candidate, str):
+                                text_value = candidate
+                            else:
+                                candidate = chunk.get("content")
+                                if isinstance(candidate, str):
+                                    text_value = candidate
+                                elif isinstance(candidate, list):
+                                    text_value = "".join(
+                                        part if isinstance(part, str) else ""
+                                        for part in candidate
+                                    )
+                        elif isinstance(chunk, str):
+                            text_value = chunk
+                        if text_value:
+                            assembled.append(text_value)
+                    raw_response = "".join(assembled).strip()
                 parsed_output = self._parse_json_from_text(raw_response)
 
-                if "reasoning" in response_json["choices"][0]["message"]:
-                    reason = response_json["choices"][0]["message"]["reasoning"]
+                reasoning_segments = []
+                reasoning_payload = raw_message.get("reasoning")
+                if isinstance(reasoning_payload, str):
+                    if reasoning_payload.strip():
+                        reasoning_segments.append(reasoning_payload.strip())
+                elif isinstance(reasoning_payload, list):
+                    for item in reasoning_payload:
+                        if isinstance(item, str) and item.strip():
+                            reasoning_segments.append(item.strip())
+                        elif isinstance(item, dict):
+                            text_val = (
+                                item.get("text")
+                                or item.get("content")
+                                or item.get("reasoning")
+                            )
+                            if isinstance(text_val, str) and text_val.strip():
+                                reasoning_segments.append(text_val.strip())
+                elif isinstance(reasoning_payload, dict):
+                    text_val = (
+                        reasoning_payload.get("text")
+                        or reasoning_payload.get("content")
+                        or reasoning_payload.get("reasoning")
+                    )
+                    if isinstance(text_val, str) and text_val.strip():
+                        reasoning_segments.append(text_val.strip())
+
+                reasoning_details = raw_message.get("reasoning_details")
+                if isinstance(reasoning_details, list):
+                    for detail in reasoning_details:
+                        if isinstance(detail, dict):
+                            text_val = detail.get("text")
+                            if isinstance(text_val, str) and text_val.strip():
+                                reasoning_segments.append(text_val.strip())
+
+                reason = (
+                    "\n\n".join(segment for segment in reasoning_segments if segment)
+                    or None
+                )
+
+                usage = response_json.get("usage") or {}
+                prompt_tokens = usage.get("prompt_tokens") or 0
+                completion_tokens = usage.get("completion_tokens") or 0
+                reasoning_tokens = 0
+                if isinstance(usage.get("completion_tokens_details"), dict):
+                    reasoning_tokens = (
+                        usage["completion_tokens_details"].get("reasoning_tokens") or 0
+                    )
+                elif isinstance(usage.get("reasoning"), dict):
+                    reasoning_tokens = usage["reasoning"].get("tokens") or 0
+                elif usage.get("reasoning_tokens") is not None:
+                    reasoning_tokens = usage.get("reasoning_tokens") or 0
 
                 return {
                     "raw_response": raw_response,
                     "parsed_output": parsed_output,
                     "date": datetime.now(),
                     "latency": elapsed_ms,
-                    "input_tokens": response_json["usage"]["prompt_tokens"],
-                    "output_tokens": response_json["usage"]["completion_tokens"],
+                    "input_tokens": int(prompt_tokens),
+                    "output_tokens": int(completion_tokens),
                     "reasoning": reason,
-                    "reasoning_tokens": 0,  # OpenRouter doesn't provide separate reasoning tokens
+                    "reasoning_tokens": int(reasoning_tokens or 0),
                 }
             except Exception as e:
                 if retry < max_retries - 1:

@@ -286,6 +286,13 @@ class StructuredLLMClient(LLMClient):
                 ],
                 "temperature": self._temperature,
                 "max_tokens": self._max_tokens,
+                "reasoning": {
+                    "enabled": True,
+                    "exclude": False,
+                    "effort": "medium",
+                },
+                "include_reasoning": True,
+                "usage": {"include": True},
             }
             
             # Note: Extended thinking for Claude is NOT supported through OpenRouter
@@ -308,29 +315,71 @@ class StructuredLLMClient(LLMClient):
             )
             r.raise_for_status()
             data = r.json()
-            out = (
-                data.get("choices", [{}])[0]
-                .get("message", {})
-                .get("content", "")
-                .strip()
-            )
-            # Extract reasoning content if present (extended thinking from Claude Sonnet 4.5, Gemini 2.5 Pro, etc.)
-            reason_txt = None
-            try:
-                msg = data.get("choices", [{}])[0].get("message", {})
-                # Check for reasoning field in message
-                if "reasoning" in msg and msg["reasoning"]:
-                    reason_txt = (msg.get("reasoning") or "").strip()
-                # Also check reasoning_details array (used by Gemini 2.5 Pro)
-                elif "reasoning_details" in msg and msg["reasoning_details"]:
-                    reasoning_parts = []
-                    for detail in msg["reasoning_details"]:
-                        if isinstance(detail, dict) and "text" in detail:
-                            reasoning_parts.append(detail["text"])
-                    if reasoning_parts:
-                        reason_txt = "\n\n".join(reasoning_parts).strip()
-            except Exception:
-                pass
+            message = (data.get("choices") or [{}])[0].get("message", {}) or {}
+            raw_content = message.get("content")
+            if isinstance(raw_content, str):
+                out = raw_content.strip()
+            elif isinstance(raw_content, list):
+                parts: List[str] = []
+                for chunk in raw_content:
+                    text_piece = ""
+                    if isinstance(chunk, dict):
+                        candidate = chunk.get("text")
+                        if isinstance(candidate, str):
+                            text_piece = candidate
+                        else:
+                            candidate = chunk.get("content")
+                            if isinstance(candidate, str):
+                                text_piece = candidate
+                            elif isinstance(candidate, list):
+                                text_piece = "".join(
+                                    piece if isinstance(piece, str) else ""
+                                    for piece in candidate
+                                )
+                    elif isinstance(chunk, str):
+                        text_piece = chunk
+                    if text_piece:
+                        parts.append(text_piece)
+                out = "".join(parts).strip()
+            else:
+                out = ""
+
+            # Extract reasoning content if present
+            reasoning_segments: List[str] = []
+            reasoning_field = message.get("reasoning")
+            if isinstance(reasoning_field, str):
+                if reasoning_field.strip():
+                    reasoning_segments.append(reasoning_field.strip())
+            elif isinstance(reasoning_field, list):
+                for item in reasoning_field:
+                    if isinstance(item, str) and item.strip():
+                        reasoning_segments.append(item.strip())
+                    elif isinstance(item, dict):
+                        txt = (
+                            item.get("text")
+                            or item.get("content")
+                            or item.get("reasoning")
+                        )
+                        if isinstance(txt, str) and txt.strip():
+                            reasoning_segments.append(txt.strip())
+            elif isinstance(reasoning_field, dict):
+                txt = (
+                    reasoning_field.get("text")
+                    or reasoning_field.get("content")
+                    or reasoning_field.get("reasoning")
+                )
+                if isinstance(txt, str) and txt.strip():
+                    reasoning_segments.append(txt.strip())
+
+            reasoning_details = message.get("reasoning_details")
+            if isinstance(reasoning_details, list):
+                for detail in reasoning_details:
+                    if isinstance(detail, dict):
+                        txt = detail.get("text")
+                        if isinstance(txt, str) and txt.strip():
+                            reasoning_segments.append(txt.strip())
+
+            reason_txt = "\n\n".join(seg for seg in reasoning_segments if seg) or None
             try:
                 usage = data.get("usage") or {}
                 in_tok = int(usage.get("prompt_tokens", 0) or 0)
@@ -344,6 +393,10 @@ class StructuredLLMClient(LLMClient):
                     completion_details = usage.get("completion_tokens_details", {})
                     if isinstance(completion_details, dict) and "reasoning_tokens" in completion_details:
                         r_tok = int(completion_details.get("reasoning_tokens", 0) or 0)
+                    elif isinstance(usage.get("reasoning"), dict):
+                        r_tok = int(usage["reasoning"].get("tokens", 0) or 0)
+                    elif usage.get("reasoning_tokens") is not None:
+                        r_tok = int(usage.get("reasoning_tokens", 0) or 0)
                 except Exception:
                     pass
                 
