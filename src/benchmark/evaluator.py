@@ -92,9 +92,9 @@ class ModelRegistry:
             # "deepseek-r1:32b-reasoning",
         ],
         Provider.OPENROUTER: [
-            "google/gemma-3-27b-it",
-            "deepseek/deepseek-r1-distill-qwen-32b-reasoning",
-            "qwen/qwq-32b-reasoning",
+            "anthropic/claude-sonnet-4.5",
+            "google/gemini-2.5-pro",
+            "qwen/qwen3-max",
         ],
         Provider.NVIDIA: [
             # "deepseek-ai/deepseek-r1",
