@@ -316,6 +316,7 @@ class StructuredLLMClient(LLMClient):
             r.raise_for_status()
             data = r.json()
             message = (data.get("choices") or [{}])[0].get("message", {}) or {}
+            reasoning_segments: List[str] = []
             raw_content = message.get("content")
             if isinstance(raw_content, str):
                 out = raw_content.strip()
@@ -324,6 +325,7 @@ class StructuredLLMClient(LLMClient):
                 for chunk in raw_content:
                     text_piece = ""
                     if isinstance(chunk, dict):
+                        chunk_type = (chunk.get("type") or "").lower()
                         candidate = chunk.get("text")
                         if isinstance(candidate, str):
                             text_piece = candidate
@@ -336,6 +338,10 @@ class StructuredLLMClient(LLMClient):
                                     piece if isinstance(piece, str) else ""
                                     for piece in candidate
                                 )
+                        if chunk_type and "reason" in chunk_type:
+                            if isinstance(text_piece, str) and text_piece.strip():
+                                reasoning_segments.append(text_piece.strip())
+                            text_piece = ""
                     elif isinstance(chunk, str):
                         text_piece = chunk
                     if text_piece:
@@ -345,7 +351,6 @@ class StructuredLLMClient(LLMClient):
                 out = ""
 
             # Extract reasoning content if present
-            reasoning_segments: List[str] = []
             reasoning_field = message.get("reasoning")
             if isinstance(reasoning_field, str):
                 if reasoning_field.strip():

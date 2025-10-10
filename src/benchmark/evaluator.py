@@ -94,7 +94,8 @@ class ModelRegistry:
         Provider.OPENROUTER: [
             "anthropic/claude-sonnet-4.5",
             "google/gemini-2.5-pro",
-            "qwen/qwen3-235b-a22b-thinking-2507",
+            "z-ai/glm-4.6",
+            "x-ai/grok-4-fast"
         ],
         Provider.NVIDIA: [
             # "deepseek-ai/deepseek-r1",
@@ -491,6 +492,7 @@ class StructuredLLM:
                 elapsed_ms = (time.time() - now) * 1000
 
                 raw_message = response_json["choices"][0]["message"]
+                reasoning_segments: List[str] = []
                 raw_response = raw_message.get("content")
                 if isinstance(raw_response, str):
                     raw_response = raw_response.strip()
@@ -499,6 +501,7 @@ class StructuredLLM:
                     for chunk in raw_response:
                         text_value = ""
                         if isinstance(chunk, dict):
+                            chunk_type = (chunk.get("type") or "").lower()
                             candidate = chunk.get("text")
                             if isinstance(candidate, str):
                                 text_value = candidate
@@ -511,6 +514,10 @@ class StructuredLLM:
                                         part if isinstance(part, str) else ""
                                         for part in candidate
                                     )
+                            if chunk_type and "reason" in chunk_type:
+                                if isinstance(text_value, str) and text_value.strip():
+                                    reasoning_segments.append(text_value.strip())
+                                text_value = ""
                         elif isinstance(chunk, str):
                             text_value = chunk
                         if text_value:
@@ -518,7 +525,6 @@ class StructuredLLM:
                     raw_response = "".join(assembled).strip()
                 parsed_output = self._parse_json_from_text(raw_response)
 
-                reasoning_segments = []
                 reasoning_payload = raw_message.get("reasoning")
                 if isinstance(reasoning_payload, str):
                     if reasoning_payload.strip():
@@ -746,7 +752,7 @@ class Evaluate:
                 "What counts as the SAME\n"
                 "- Aliases, common vs IUPAC names, and formulas refer to the same thing (e.g., lithium chloride = LiCl; acetic acid = ethanoic acid).\n"
                 "- Minor packaging/context words do not change identity: material, compound, sample, reagent, powder, nanopowder, precursor, solution.\n"
-                "- The Candidate may be a long sentence or paragraph with explanations; as long as it explicitly names the same entity as the answer, count it as the same.\n"
+                "- The Candidate may be a long sentence or paragraph with explanations; as long as it explicitly names the same entity, count it as the same.\n"
                 "\n"
                 "What is NOT the same\n"
                 "- Different polymorph/crystal structure/phase (wurtzite ZnO vs rocksalt ZnO).\n"
