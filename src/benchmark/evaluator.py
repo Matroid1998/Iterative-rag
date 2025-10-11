@@ -95,7 +95,8 @@ class ModelRegistry:
             "anthropic/claude-sonnet-4.5",
             "google/gemini-2.5-pro",
             "z-ai/glm-4.6",
-            "x-ai/grok-4-fast"
+            "x-ai/grok-4-fast",
+            "deepseek/deepseek-chat-v3.1"
         ],
         Provider.NVIDIA: [
             # "deepseek-ai/deepseek-r1",
@@ -752,7 +753,7 @@ class Evaluate:
                 "What counts as the SAME\n"
                 "- Aliases, common vs IUPAC names, and formulas refer to the same thing (e.g., lithium chloride = LiCl; acetic acid = ethanoic acid).\n"
                 "- Minor packaging/context words do not change identity: material, compound, sample, reagent, powder, nanopowder, precursor, solution.\n"
-                "- The Candidate may be a long sentence or paragraph with explanations; as long as it explicitly names the same entity, count it as the same.\n"
+                "- The Candidate may be a long sentence or paragraph with explanations; as long as it explicitly names the same entity as the answer, count it as the same.\n"
                 "\n"
                 "What is NOT the same\n"
                 "- Different polymorph/crystal structure/phase (wurtzite ZnO vs rocksalt ZnO).\n"

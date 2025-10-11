@@ -1,0 +1,2 @@
+Model,Run,Accuracy (%),Avg Duration (s),Avg Input Tokens,Avg Output Tokens,Total Input Tokens,Total Output Tokens,Total Samples
+openrouter-x-ai/grok-4-fast,With Context,77.66,90678.74,11751.02,5292.99,13936706,6277491,1186
