@@ -100,7 +100,7 @@ def build_cli() -> argparse.ArgumentParser:
     ap.add_argument(
         "--question-list",
         type=Path,
-        default=CURRENT_DIR / "chemrxiv_half_questions.json",
+        default=CURRENT_DIR / "chemrxiv_judgement_questions.json",
         help="Path to JSON array of questions to include",
     )
     ap.add_argument(
