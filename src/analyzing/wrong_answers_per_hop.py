@@ -10,6 +10,13 @@ from typing import Union
 
 import matplotlib.pyplot as plt
 
+from config import (
+    get_responses_dir,
+    PLOTS_DIR,
+    get_display_name,
+    discover_jsonl_files,
+)
+
 
 def load_wrong_answer_counts(path: Path) -> Counter:
     """Return counts of wrong answers keyed by number_of_hops for a JSONL file."""
@@ -67,14 +74,9 @@ def flatten_axes(axes) -> list:
 
 
 def main() -> None:
-    script_dir = Path(__file__).resolve().parent
-    repo_root = script_dir.parents[1]
-    responses_dir = repo_root / "src" / "responses_reverified"
-    if not responses_dir.exists():
-        responses_dir = repo_root / "src" / "responses"
-    output_path = script_dir / "wrong_answers_per_hop.png"
-
-    jsonl_files = sorted(responses_dir.glob("*.jsonl"))
+    responses_dir = get_responses_dir()
+    jsonl_files = discover_jsonl_files(responses_dir)
+    
     if not jsonl_files:
         raise RuntimeError(f"No JSONL files found in {responses_dir}")
 
@@ -93,7 +95,8 @@ def main() -> None:
             ax.bar([], [])
             ax.text(0.5, 0.5, "No wrong answers", ha="center", va="center")
 
-        ax.set_title(path.stem, fontsize=10)
+        display_name = get_display_name(path.stem)
+        ax.set_title(display_name, fontsize=10)
         ax.set_xlabel("Number of hops")
 
     for ax in axes_flat[len(jsonl_files):]:
@@ -106,6 +109,7 @@ def main() -> None:
 
     fig.suptitle("Wrong answers per hop count", fontsize=14)
     fig.tight_layout(rect=(0, 0, 1, 0.97))
+    output_path = PLOTS_DIR / "wrong_answers_per_hop.png"
     fig.savefig(output_path, dpi=300)
     print(f"Saved figure to {output_path}")
 

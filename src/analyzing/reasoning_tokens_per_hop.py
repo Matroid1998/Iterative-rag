@@ -10,20 +10,12 @@ from typing import Dict, List
 
 import matplotlib.pyplot as plt
 
-MODEL_NAME_MAP: Dict[str, str] = {
-    "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning": "Claude 3.7 Sonnet",
-    "responses_bedrock_us.deepseek.r1-v1:0-reasoning": "DeepSeek R1",
-    "responses_openai_gpt-5": "GPT-5",
-}
-
-# Restrict to models that actually supply reasoning tokens.
-REASONING_MODEL_KEYS = set(MODEL_NAME_MAP.keys())
-
-
-def normalize_model_key(stem: str) -> str:
-    if stem.endswith("_reverified"):
-        stem = stem[: -len("_reverified")]
-    return stem
+from config import (
+    get_responses_dir,
+    PLOTS_DIR,
+    get_display_name,
+    discover_reasoning_jsonl_files,
+)
 
 
 def determine_layout(n_items: int) -> tuple[int, int]:
@@ -76,7 +68,12 @@ def average_reasoning_tokens(path: Path) -> Dict[str, float]:
             if hops is None:
                 continue
 
-            value = record.get("reasoning_tokens")
+            # Try to get reasoning tokens from usage dict first, then fallback to direct field
+            usage = record.get("usage", {})
+            value = usage.get("reasoning_tokens") if usage else None
+            if value is None:
+                value = record.get("reasoning_tokens")
+            
             try:
                 tokens = float(value)
             except (TypeError, ValueError):
@@ -87,19 +84,8 @@ def average_reasoning_tokens(path: Path) -> Dict[str, float]:
 
 
 def main() -> None:
-    script_dir = Path(__file__).resolve().parent
-    repo_root = script_dir.parents[1]
-    responses_dir = repo_root / "src" / "responses_reverified"
-    if not responses_dir.exists():
-        responses_dir = repo_root / "src" / "responses"
-    plots_dir = repo_root / "src" / "plots"
-    output_path = plots_dir / "reasoning_tokens_per_hop.png"
-
-    all_jsonl_files = sorted(responses_dir.glob("*.jsonl"))
-    reasoning_files = []
-    for path in all_jsonl_files:
-        if normalize_model_key(path.stem) in REASONING_MODEL_KEYS:
-            reasoning_files.append(path)
+    responses_dir = get_responses_dir()
+    reasoning_files = discover_reasoning_jsonl_files(responses_dir)
 
     if not reasoning_files:
         raise RuntimeError("No reasoning-capable response files found.")
@@ -119,7 +105,7 @@ def main() -> None:
         else:
             ax.text(0.5, 0.5, "No data", ha="center", va="center")
 
-        display_name = MODEL_NAME_MAP.get(normalize_model_key(path.stem), path.stem)
+        display_name = get_display_name(path.stem)
         ax.set_title(display_name, fontsize=10)
         ax.set_xlabel("Number of hops")
 
@@ -128,6 +114,7 @@ def main() -> None:
 
     fig.suptitle("Average reasoning tokens per hop", fontsize=14)
     fig.tight_layout(rect=(0, 0, 1, 0.96))
+    output_path = PLOTS_DIR / "reasoning_tokens_per_hop.png"
     fig.savefig(output_path, dpi=300)
     print(f"Saved figure to {output_path}")
 

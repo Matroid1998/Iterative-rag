@@ -11,28 +11,13 @@ from typing import Dict, Iterable, List, Sequence, Tuple
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Human-friendly model names.
-MODEL_NAME_MAP: Dict[str, str] = {
-    "responses_bedrock_mistral.mistral-large-2402-v1:0": "Mistral Large",
-    "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0": "Claude 3.7 Sonnet",
-    "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning": "Claude 3.7 Sonnet",
-    "responses_bedrock_us.deepseek.r1-v1:0": "DeepSeek R1",
-    "responses_bedrock_us.deepseek.r1-v1:0-reasoning": "DeepSeek R1",
-    "responses_openai_gpt-4o_reverified": "GPT-4o (reverified)",
-    "responses_openai_gpt-5": "GPT-5",
-}
-
-REASONING_MODEL_KEYS = {
-    "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning",
-    "responses_bedrock_us.deepseek.r1-v1:0-reasoning",
-    "responses_openai_gpt-5",
-}
-
-
-def normalize_model_key(stem: str) -> str:
-    if stem.endswith("_reverified"):
-        stem = stem[: -len("_reverified")]
-    return stem
+from config import (
+    get_responses_dir,
+    PLOTS_DIR,
+    get_display_name,
+    is_reasoning_model,
+    discover_jsonl_files,
+)
 
 
 def determine_layout(n_items: int) -> tuple[int, int]:
@@ -88,7 +73,13 @@ def collect_wrong_records(path: Path, token_field: str) -> List[Tuple[str, float
                 continue
 
             hops = entry.get("number_of_hops")
-            token_value = entry.get(token_field)
+            
+            # Try to get token value from usage dict first, then fallback to direct field
+            usage = entry.get("usage", {})
+            token_value = usage.get(token_field) if usage else None
+            if token_value is None:
+                token_value = entry.get(token_field)
+            
             if hops is None or token_value is None:
                 continue
             try:
@@ -149,7 +140,7 @@ def prepare_heatmap_data(paths: Sequence[Path], token_field: str) -> List[Tuple[
 
     for path in paths:
         records = collect_wrong_records(path, token_field)
-        per_model_records.append((normalize_model_key(path.stem), records))
+        per_model_records.append((path.stem, records))
         all_values.extend(token for _, token in records)
 
     edges = compute_token_bins(all_values)
@@ -166,7 +157,7 @@ def prepare_heatmap_data(paths: Sequence[Path], token_field: str) -> List[Tuple[
 
     for model_key, records in per_model_records:
         hop_labels, bin_labels, matrix = build_heatmap_matrix(records, edges, quantile_labels)
-        display_name = MODEL_NAME_MAP.get(model_key, model_key)
+        display_name = get_display_name(model_key)
         data.append((display_name, hop_labels, bin_labels, matrix))
     return data
 
@@ -220,25 +211,20 @@ def plot_heatmaps(data: List[Tuple[str, List[str], List[str], np.ndarray]], outp
 
 
 def main() -> None:
-    script_dir = Path(__file__).resolve().parent
-    repo_root = script_dir.parents[1]
-    responses_dir = repo_root / "src" / "responses_reverified"
-    if not responses_dir.exists():
-        responses_dir = repo_root / "src" / "responses"
-    plots_dir = repo_root / "src" / "plots"
-
-    jsonl_files = sorted(responses_dir.glob("*.jsonl"))
+    responses_dir = get_responses_dir()
+    jsonl_files = discover_jsonl_files(responses_dir)
+    
     if not jsonl_files:
         raise RuntimeError(f"No JSONL files found in {responses_dir}")
 
-    reasoning_paths = [path for path in jsonl_files if normalize_model_key(path.stem) in REASONING_MODEL_KEYS]
+    reasoning_paths = [path for path in jsonl_files if is_reasoning_model(path.stem)]
     reasoning_data = prepare_heatmap_data(reasoning_paths, "reasoning_tokens")
     if reasoning_data:
-        plot_heatmaps(reasoning_data, plots_dir / "wrong_reasoning_tokens_heatmap.png", "Wrong answers vs reasoning tokens and hops")
+        plot_heatmaps(reasoning_data, PLOTS_DIR / "wrong_reasoning_tokens_heatmap.png", "Wrong answers vs reasoning tokens and hops")
 
     output_data = prepare_heatmap_data(jsonl_files, "output_tokens")
     if output_data:
-        plot_heatmaps(output_data, plots_dir / "wrong_output_tokens_heatmap.png", "Wrong answers vs output tokens and hops")
+        plot_heatmaps(output_data, PLOTS_DIR / "wrong_output_tokens_heatmap.png", "Wrong answers vs output tokens and hops")
 
 
 if __name__ == "__main__":

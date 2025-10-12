@@ -11,27 +11,13 @@ import numpy as np
 
 import matplotlib.pyplot as plt
 
-MODEL_NAME_MAP: Dict[str, str] = {
-    "responses_bedrock_mistral.mistral-large-2402-v1:0": "Mistral Large",
-    "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0": "Claude 3.7 Sonnet",
-    "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning": "Claude 3.7 Sonnet (reasoning)",
-    "responses_bedrock_us.deepseek.r1-v1:0": "DeepSeek R1",
-    "responses_bedrock_us.deepseek.r1-v1:0-reasoning": "DeepSeek R1 (reasoning)",
-    "responses_openai_gpt-4o": "GPT-4o",
-    "responses_openai_gpt-5": "GPT-5",
-}
-
-REASONING_MODEL_KEYS = {
-    "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning",
-    "responses_bedrock_us.deepseek.r1-v1:0-reasoning",
-    "responses_openai_gpt-5",
-}
-
-
-def normalize_model_key(stem: str) -> str:
-    if stem.endswith("_reverified"):
-        stem = stem[: -len("_reverified")]
-    return stem
+from config import (
+    get_responses_dir,
+    PLOTS_DIR,
+    get_display_name,
+    is_reasoning_model,
+    discover_jsonl_files,
+)
 
 
 def accumulate_output_stats(path: Path, adjust_reasoning: bool) -> Dict[bool, List[float]]:
@@ -49,7 +35,13 @@ def accumulate_output_stats(path: Path, adjust_reasoning: bool) -> Dict[bool, Li
                 continue
 
             is_correct = bool(record.get("is_correct"))
-            raw_value = record.get("output_tokens")
+            
+            # Try to get output tokens from usage dict first, then fallback to direct field
+            usage = record.get("usage", {})
+            raw_value = usage.get("output_tokens") if usage else None
+            if raw_value is None:
+                raw_value = record.get("output_tokens")
+            
             try:
                 output_tokens = float(raw_value)
             except (TypeError, ValueError):
@@ -57,7 +49,9 @@ def accumulate_output_stats(path: Path, adjust_reasoning: bool) -> Dict[bool, Li
                 continue
 
             if adjust_reasoning:
-                raw_reasoning = record.get("reasoning_tokens")
+                raw_reasoning = usage.get("reasoning_tokens") if usage else None
+                if raw_reasoning is None:
+                    raw_reasoning = record.get("reasoning_tokens")
                 try:
                     reasoning_tokens = float(raw_reasoning)
                 except (TypeError, ValueError):
@@ -77,30 +71,20 @@ def compute_average_and_std(values: List[float]) -> Tuple[float, float]:
     return float(np.mean(arr)), float(np.std(arr))
 
 
-def resolve_label(model_key: str) -> str:
-    return MODEL_NAME_MAP.get(model_key, model_key)
-
-
 def main() -> None:
-    script_dir = Path(__file__).resolve().parent
-    repo_root = script_dir.parents[1]
-    responses_dir = repo_root / "src" / "responses_reverified"
-    if not responses_dir.exists():
-        responses_dir = repo_root / "src" / "responses"
-    plots_dir = repo_root / "src" / "plots"
-    jsonl_files = sorted(responses_dir.glob("*.jsonl"))
+    responses_dir = get_responses_dir()
+    jsonl_files = discover_jsonl_files(responses_dir)
+    
     if not jsonl_files:
         raise RuntimeError(f"No JSONL files found in {responses_dir}")
 
     model_entries: List[Tuple[str, str, float, float, float, float]] = []
 
-    plots_dir.mkdir(parents=True, exist_ok=True)
-
     for path in jsonl_files:
-        model_key = normalize_model_key(path.stem)
-        display_name = resolve_label(model_key)
+        model_key = path.stem
+        display_name = get_display_name(model_key)
 
-        stats = accumulate_output_stats(path, adjust_reasoning=model_key in REASONING_MODEL_KEYS)
+        stats = accumulate_output_stats(path, adjust_reasoning=is_reasoning_model(model_key))
         correct_values = stats.get(True, [])
         wrong_values = stats.get(False, [])
         
@@ -118,20 +102,20 @@ def main() -> None:
             )
         )
 
-    reasoning_entries = [entry for entry in model_entries if entry[0] in REASONING_MODEL_KEYS]
-    non_reasoning_entries = [entry for entry in model_entries if entry[0] not in REASONING_MODEL_KEYS]
+    reasoning_entries = [entry for entry in model_entries if is_reasoning_model(entry[0])]
+    non_reasoning_entries = [entry for entry in model_entries if not is_reasoning_model(entry[0])]
 
     if model_entries:
         plot_average_tokens(
             model_entries,
-            plots_dir / "average_output_tokens.png",
+            PLOTS_DIR / "average_output_tokens.png",
             "Average output tokens by correctness",
         )
 
     if reasoning_entries:
         plot_average_tokens(
             reasoning_entries,
-            plots_dir / "average_output_tokens_reasoning.png",
+            PLOTS_DIR / "average_output_tokens_reasoning.png",
             "Average output tokens (reasoning models)",
         )
     else:
@@ -140,7 +124,7 @@ def main() -> None:
     if non_reasoning_entries:
         plot_average_tokens(
             non_reasoning_entries,
-            plots_dir / "average_output_tokens_non_reasoning.png",
+            PLOTS_DIR / "average_output_tokens_non_reasoning.png",
             "Average output tokens (non-reasoning models)",
         )
     else:

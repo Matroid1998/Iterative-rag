@@ -10,29 +10,12 @@ from typing import Dict, Tuple
 
 import matplotlib.pyplot as plt
 
-# Mapping from stored file stem to human-friendly model display name.
-MODEL_NAME_MAP: Dict[str, str] = {
-    "responses_bedrock_mistral.mistral-large-2402-v1:0": "Mistral Large",
-    "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0": "Claude 3.7 Sonnet",
-    "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning": "Claude 3.7 Sonnet (reasoning)",
-    "responses_bedrock_us.deepseek.r1-v1:0": "DeepSeek R1",
-    "responses_bedrock_us.deepseek.r1-v1:0-reasoning": "DeepSeek R1 (reasoning)",
-    "responses_openai_gpt-4o_reverified": "GPT-4o (reverified)",
-    "responses_openai_gpt-5": "GPT-5",
-}
-
-# Only these models supply reasoning tokens that we want to compare.
-REASONING_MODEL_KEYS = {
-    "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning",
-    "responses_bedrock_us.deepseek.r1-v1:0-reasoning",
-    "responses_openai_gpt-5",
-}
-
-
-def normalize_model_key(stem: str) -> str:
-    if stem.endswith("_reverified"):
-        stem = stem[: -len("_reverified")]
-    return stem
+from config import (
+    get_responses_dir,
+    PLOTS_DIR,
+    get_display_name,
+    discover_reasoning_jsonl_files,
+)
 
 
 def accumulate_reasoning_stats(path: Path) -> Dict[bool, Tuple[float, int]]:
@@ -50,7 +33,13 @@ def accumulate_reasoning_stats(path: Path) -> Dict[bool, Tuple[float, int]]:
                 continue
 
             is_correct = bool(record.get("is_correct"))
-            raw_value = record.get("reasoning_tokens")
+            
+            # Try to get reasoning tokens from usage dict first, then fallback to direct field
+            usage = record.get("usage", {})
+            raw_value = usage.get("reasoning_tokens") if usage else None
+            if raw_value is None:
+                raw_value = record.get("reasoning_tokens")
+            
             try:
                 reasoning_tokens = float(raw_value)
             except (TypeError, ValueError):
@@ -67,27 +56,18 @@ def compute_average(total: float, count: int) -> float:
 
 
 def main() -> None:
-    script_dir = Path(__file__).resolve().parent
-    repo_root = script_dir.parents[1]
-    responses_dir = repo_root / "src" / "responses_reverified"
-    if not responses_dir.exists():
-        responses_dir = repo_root / "src" / "responses"
-    plots_dir = repo_root / "src" / "plots"
-    output_path = plots_dir / "average_reasoning_tokens.png"
-
-    jsonl_files = sorted(responses_dir.glob("*.jsonl"))
-    if not jsonl_files:
-        raise RuntimeError(f"No JSONL files found in {responses_dir}")
+    responses_dir = get_responses_dir()
+    reasoning_files = discover_reasoning_jsonl_files(responses_dir)
+    
+    if not reasoning_files:
+        raise RuntimeError(f"No reasoning model files found in {responses_dir}")
 
     labels = []
     correct_avgs = []
     wrong_avgs = []
 
-    for path in jsonl_files:
-        model_key = normalize_model_key(path.stem)
-        if model_key not in REASONING_MODEL_KEYS:
-            continue
-        display_name = MODEL_NAME_MAP.get(model_key, model_key)
+    for path in reasoning_files:
+        display_name = get_display_name(path.stem)
 
         stats = accumulate_reasoning_stats(path)
         correct_total, correct_count = stats.get(True, (0.0, 0))
@@ -115,6 +95,7 @@ def main() -> None:
     ax.grid(axis="y", linestyle="--", alpha=0.4)
 
     fig.tight_layout()
+    output_path = PLOTS_DIR / "average_reasoning_tokens.png"
     fig.savefig(output_path, dpi=300)
     print(f"Saved figure to {output_path}")
 

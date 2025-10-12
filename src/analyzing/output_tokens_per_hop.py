@@ -10,21 +10,12 @@ from typing import Dict, Iterable, List
 
 import matplotlib.pyplot as plt
 
-MODEL_NAME_MAP: Dict[str, str] = {
-    "responses_bedrock_mistral.mistral-large-2402-v1:0": "Mistral Large",
-    "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0": "Claude 3.7 Sonnet",
-    "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning": "Claude 3.7 Sonnet (reasoning)",
-    "responses_bedrock_us.deepseek.r1-v1:0": "DeepSeek R1",
-    "responses_bedrock_us.deepseek.r1-v1:0-reasoning": "DeepSeek R1 (reasoning)",
-    "responses_openai_gpt-4o_reverified": "GPT-4o (reverified)",
-    "responses_openai_gpt-5": "GPT-5",
-}
-
-
-def normalize_model_key(stem: str) -> str:
-    if stem.endswith("_reverified"):
-        stem = stem[: -len("_reverified")]
-    return stem
+from config import (
+    get_responses_dir,
+    PLOTS_DIR,
+    get_display_name,
+    discover_jsonl_files,
+)
 
 
 def determine_layout(n_items: int) -> tuple[int, int]:
@@ -74,7 +65,13 @@ def average_output_tokens(path: Path) -> Dict[str, float]:
             hops = record.get("number_of_hops")
             if hops is None:
                 continue
-            value = record.get("output_tokens")
+            
+            # Try to get output tokens from usage dict first, then fallback to direct field
+            usage = record.get("usage", {})
+            value = usage.get("output_tokens") if usage else None
+            if value is None:
+                value = record.get("output_tokens")
+            
             try:
                 tokens = float(value)
             except (TypeError, ValueError):
@@ -84,15 +81,9 @@ def average_output_tokens(path: Path) -> Dict[str, float]:
 
 
 def main() -> None:
-    script_dir = Path(__file__).resolve().parent
-    repo_root = script_dir.parents[1]
-    responses_dir = repo_root / "src" / "responses_reverified"
-    if not responses_dir.exists():
-        responses_dir = repo_root / "src" / "responses"
-    plots_dir = repo_root / "src" / "plots"
-    output_path = plots_dir / "output_tokens_per_hop.png"
-
-    jsonl_files = sorted(responses_dir.glob("*.jsonl"))
+    responses_dir = get_responses_dir()
+    jsonl_files = discover_jsonl_files(responses_dir)
+    
     if not jsonl_files:
         raise RuntimeError(f"No JSONL files found in {responses_dir}")
 
@@ -111,8 +102,7 @@ def main() -> None:
         else:
             ax.text(0.5, 0.5, "No data", ha="center", va="center")
 
-        model_key = normalize_model_key(path.stem)
-        display_name = MODEL_NAME_MAP.get(model_key, path.stem)
+        display_name = get_display_name(path.stem)
         ax.set_title(display_name, fontsize=10)
         ax.set_xlabel("Number of hops")
 
@@ -121,6 +111,7 @@ def main() -> None:
 
     fig.suptitle("Average output tokens per hop", fontsize=14)
     fig.tight_layout(rect=(0, 0, 1, 0.96))
+    output_path = PLOTS_DIR / "output_tokens_per_hop.png"
     fig.savefig(output_path, dpi=300)
     print(f"Saved figure to {output_path}")
 
