@@ -22,8 +22,16 @@ def normalize_model_name(model: str) -> str:
         return 'Claude 3.7 + Reasoning'
     elif 'claude-3-7' in model.lower():
         return 'Claude 3.7 Sonnet'
+    elif 'claude-sonnet-4.5' in model.lower() or 'claude-4.5' in model.lower():
+        return 'Claude Sonnet 4.5'
     elif 'claude-3-5' in model.lower():
         return 'Claude 3.5 Sonnet'
+    elif 'gemini-2.5-pro' in model.lower() or 'gemini-2.5' in model.lower():
+        return 'Gemini 2.5 Pro'
+    elif 'grok-4' in model.lower():
+        return 'Grok 4 Fast'
+    elif 'glm-4.6' in model.lower() or 'glm-4' in model.lower():
+        return 'GLM 4.6'
     elif 'mistral' in model.lower():
         return 'Mistral Large'
     elif 'llama' in model.lower():
@@ -91,7 +99,7 @@ def load_issue_prevalence_data(output_dir):
 
 
 def create_per_model_prevalence_plot(model_data, output_path):
-    """Create 6-subplot figure showing issue prevalence for each model."""
+    """Create multi-subplot figure showing issue prevalence for each model."""
     
     models = sorted(model_data.keys())
     
@@ -99,17 +107,21 @@ def create_per_model_prevalence_plot(model_data, output_path):
         print("No model data found!")
         return
     
-    # Create figure with 2x3 subplots
-    fig, axes = plt.subplots(2, 3, figsize=(18, 12))
+    # Calculate grid size (3 columns, enough rows to fit all models)
+    num_models = len(models)
+    ncols = 3
+    nrows = (num_models + ncols - 1) // ncols  # Ceiling division
+    
+    # Create figure with calculated subplots
+    fig, axes = plt.subplots(nrows, ncols, figsize=(18, 6 * nrows))
+    if nrows == 1:
+        axes = axes.reshape(1, -1)  # Ensure 2D array
     axes = axes.flatten()
     
     issue_types = ['Coverage Gap', 'Late Hit', 'Anchor Drop']
     issue_keys = ['has_gap', 'any_late_hit', 'any_carry_drop']
     
     for idx, model in enumerate(models):
-        if idx >= 6:  # Only show first 6 models
-            break
-        
         ax = axes[idx]
         data = model_data[model]
         
@@ -177,7 +189,7 @@ def create_per_model_prevalence_plot(model_data, output_path):
                        color='red' if diff > 0 else 'green')
     
     # Hide unused subplots
-    for idx in range(len(models), 6):
+    for idx in range(len(models), len(axes)):
         axes[idx].axis('off')
     
     # Overall title
