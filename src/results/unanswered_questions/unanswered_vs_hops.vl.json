@@ -4,19 +4,9 @@
   "data": {
     "values": [
       {
-        "category": "Iterative RAG",
-        "metric": "Unanswered Questions",
-        "value": 41
-      },
-      {
-        "category": "Iterative RAG",
-        "metric": "Total Hops",
-        "value": 726
-      },
-      {
         "category": "Without Context",
         "metric": "Unanswered Questions",
-        "value": 435
+        "value": 392
       },
       {
         "category": "Without Context",
@@ -26,12 +16,22 @@
       {
         "category": "Gold Context",
         "metric": "Unanswered Questions",
-        "value": 111
+        "value": 90
       },
       {
         "category": "Gold Context",
         "metric": "Total Hops",
         "value": 0
+      },
+      {
+        "category": "Iterative RAG",
+        "metric": "Unanswered Questions",
+        "value": 25
+      },
+      {
+        "category": "Iterative RAG",
+        "metric": "Total Hops",
+        "value": 891
       }
     ]
   },

@@ -6,7 +6,8 @@ from __future__ import annotations
 from pathlib import Path
 
 from plot_hard_question_grouped import (
-    compute_hard_question_data, 
+    CATEGORIES,
+    compute_hard_question_data,
     plot_grouped_bar_with_std,
     compute_average_map,
     compute_std_map,
@@ -18,30 +19,17 @@ def main() -> None:
     responses_dir = base / "responses_reverified"
 
     model_entries = [
-        (
-            "responses_bedrock_mistral.mistral-large-2402-v1:0_reverified.jsonl",
-            "Mistral Large 2402",
-        ),
-        (
-            "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning_reverified.jsonl",
-            "Claude 3.7 Sonnet Thinking",
-        ),
-        (
-            "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0_reverified.jsonl",
-            "Claude 3.7 Sonnet",
-        ),
-        (
-            "responses_bedrock_us.deepseek.r1-v1:0-reasoning_reverified.jsonl",
-            "DeepSeek R1",
-        ),
-        (
-            "responses_openai_gpt-4o_reverified.jsonl",
-            "GPT-4o",
-        ),
-        (
-            "responses_openai_gpt-5_reverified.jsonl",
-            "GPT-5",
-        ),
+        ("responses_bedrock_mistral.mistral-large-2402-v1:0_reverified.jsonl", "Mistral Large 2402"),
+        ("responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning_reverified.jsonl", "Claude 3.7 Sonnet Thinking"),
+        ("responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0_reverified.jsonl", "Claude 3.7 Sonnet"),
+        ("responses_bedrock_us.deepseek.r1-v1:0-reasoning_reverified.jsonl", "DeepSeek R1"),
+        ("responses_bedrock_us.meta.llama3-3-70b-instruct-v1:0_reverified.jsonl", "Llama 3.3 70B Instruct"),
+        ("responses_openai_gpt-4o_reverified.jsonl", "GPT-4o"),
+        ("responses_openai_gpt-5_reverified.jsonl", "GPT-5"),
+        ("responses_openrouter_anthropic__claude-sonnet-4.5_reverified.jsonl", "Claude Sonnet 4.5"),
+        ("responses_openrouter_google__gemini-2.5-pro_reverified.jsonl", "Gemini 2.5 Pro"),
+        ("responses_openrouter_x-ai__grok-4-fast_reverified.jsonl", "Grok 4 Fast"),
+        ("responses_openrouter_z-ai__glm-4.6_reverified.jsonl", "GLM 4.6"),
     ]
 
     (
@@ -63,6 +51,10 @@ def main() -> None:
         "Claude 3.7 Sonnet Thinking",
         "DeepSeek R1",
         "GPT-5",
+        "Claude Sonnet 4.5",
+        "Gemini 2.5 Pro",
+        "Grok 4 Fast",
+        "GLM 4.6",
     ]
 
     def filter_models(mapping: dict[int, dict[str, float | int]]) -> dict[int, dict[str, float | int]]:
@@ -102,13 +94,17 @@ def main() -> None:
 
     model_names = reasoning_models
 
-    categories = [4, 5, 6]
+    categories = list(CATEGORIES)
     plots_dir = base / "plots"
 
     model_colors = {
         "Claude 3.7 Sonnet Thinking": "#2ca02c",
-        "DeepSeek R1": "#ff9896",
-        "GPT-5": "#c7c7c7",
+        "DeepSeek R1": "#ff7f0e",
+        "GPT-5": "#e377c2",
+        "Claude Sonnet 4.5": "#7f7f7f",
+        "Gemini 2.5 Pro": "#bcbd22",
+        "Grok 4 Fast": "#17becf",
+        "GLM 4.6": "#aec7e8",
     }
 
     plot_grouped_bar_with_std(

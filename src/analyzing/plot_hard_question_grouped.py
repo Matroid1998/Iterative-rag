@@ -14,6 +14,9 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
+CATEGORIES = (9, 10, 11)
+
+
 def iter_records(path: Path) -> Iterable[dict]:
     with path.open("r", encoding="utf-8") as handle:
         for raw_line in handle:
@@ -86,26 +89,25 @@ def compute_hard_question_data(
         raise SystemExit("No questions available after loading model responses")
     common_questions = set.intersection(*question_sets)
 
-    categories = [4, 5, 6]
-    category_questions: Dict[int, List[dict]] = {cat: [] for cat in categories}
+    category_questions: Dict[int, List[dict]] = {cat: [] for cat in CATEGORIES}
     incorrect_counts: Dict[int, Dict[str, int]] = {
-        cat: {model: 0 for model in model_metrics.keys()} for cat in categories
+        cat: {model: 0 for model in model_metrics.keys()} for cat in CATEGORIES
     }
     correct_counts: Dict[int, Dict[str, int]] = {
-        cat: {model: 0 for model in model_metrics.keys()} for cat in categories
+        cat: {model: 0 for model in model_metrics.keys()} for cat in CATEGORIES
     }
     incorrect_tokens: Dict[int, Dict[str, int]] = {
-        cat: {model: 0 for model in model_metrics.keys()} for cat in categories
+        cat: {model: 0 for model in model_metrics.keys()} for cat in CATEGORIES
     }
     correct_tokens: Dict[int, Dict[str, int]] = {
-        cat: {model: 0 for model in model_metrics.keys()} for cat in categories
+        cat: {model: 0 for model in model_metrics.keys()} for cat in CATEGORIES
     }
     # Add lists to store individual token values for std calculation
     incorrect_token_values: Dict[int, Dict[str, List[int]]] = {
-        cat: {model: [] for model in model_metrics.keys()} for cat in categories
+        cat: {model: [] for model in model_metrics.keys()} for cat in CATEGORIES
     }
     correct_token_values: Dict[int, Dict[str, List[int]]] = {
-        cat: {model: [] for model in model_metrics.keys()} for cat in categories
+        cat: {model: [] for model in model_metrics.keys()} for cat in CATEGORIES
     }
 
     for question in common_questions:
@@ -151,6 +153,13 @@ def compute_hard_question_data(
             correct_token_values[wrong_count][model].append(token_value)
 
     model_names = list(model_metrics.keys())
+    if not model_names:
+        raise SystemExit("No model metrics loaded. Ensure reverified JSONL files are available.")
+    if len(model_names) < max(CATEGORIES):
+        raise SystemExit(
+            f"Loaded {len(model_names)} models, but hard question categories require at least {max(CATEGORIES)}. "
+            "Verify that all reverified JSONL files are present (git lfs pull) or adjust CATEGORIES."
+        )
     return (
         category_questions,
         correct_counts,
@@ -164,9 +173,13 @@ def compute_hard_question_data(
 
 
 REASONING_MODELS = {
-    "GPT-5",
     "Claude 3.7 Sonnet Thinking",
     "DeepSeek R1",
+    "GPT-5",
+    "Claude Sonnet 4.5",
+    "Gemini 2.5 Pro",
+    "Grok 4 Fast",
+    "GLM 4.6",
 }
 
 
@@ -437,8 +450,13 @@ def main() -> None:
         ("responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning_reverified.jsonl", "Claude 3.7 Sonnet Thinking"),
         ("responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0_reverified.jsonl", "Claude 3.7 Sonnet"),
         ("responses_bedrock_us.deepseek.r1-v1:0-reasoning_reverified.jsonl", "DeepSeek R1"),
+        ("responses_bedrock_us.meta.llama3-3-70b-instruct-v1:0_reverified.jsonl", "Llama 3.3 70B Instruct"),
         ("responses_openai_gpt-4o_reverified.jsonl", "GPT-4o"),
         ("responses_openai_gpt-5_reverified.jsonl", "GPT-5"),
+        ("responses_openrouter_anthropic__claude-sonnet-4.5_reverified.jsonl", "Claude Sonnet 4.5"),
+        ("responses_openrouter_google__gemini-2.5-pro_reverified.jsonl", "Gemini 2.5 Pro"),
+        ("responses_openrouter_x-ai__grok-4-fast_reverified.jsonl", "Grok 4 Fast"),
+        ("responses_openrouter_z-ai__glm-4.6_reverified.jsonl", "GLM 4.6"),
     ]
 
     (
@@ -447,20 +465,27 @@ def main() -> None:
         incorrect_counts,
         correct_tokens,
         incorrect_tokens,
+        _correct_token_values,
+        _incorrect_token_values,
         model_names,
     ) = compute_hard_question_data(responses_dir, model_entries)
 
-    categories = [4, 5, 6]
+    categories = list(CATEGORIES)
     category_file = base / "results" / "unanswered_questions" / "hard_question_categories.json"
     save_question_categories(category_file, category_questions)
 
     model_colors = {
         "Mistral Large 2402": "#d62728",
         "Claude 3.7 Sonnet Thinking": "#2ca02c",
-        "Claude 3.7 Sonnet": "#7f7f7f",
-        "DeepSeek R1": "#ff9896",
-        "GPT-4o": "#98df8a",
-        "GPT-5": "#c7c7c7",
+        "Claude 3.7 Sonnet": "#1f77b4",
+        "DeepSeek R1": "#ff7f0e",
+        "Llama 3.3 70B Instruct": "#9467bd",
+        "GPT-4o": "#8c564b",
+        "GPT-5": "#e377c2",
+        "Claude Sonnet 4.5": "#7f7f7f",
+        "Gemini 2.5 Pro": "#bcbd22",
+        "Grok 4 Fast": "#17becf",
+        "GLM 4.6": "#aec7e8",
     }
 
     correct_token_avgs = compute_average_map(correct_tokens, correct_counts)

@@ -128,10 +128,15 @@ def main() -> None:
     model_colors = {
         "Mistral Large 2402": "#d62728",
         "Claude 3.7 Sonnet Thinking": "#2ca02c",
-        "Claude 3.7 Sonnet": "#7f7f7f",
-        "DeepSeek R1": "#ff9896",
-        "GPT-4o": "#98df8a",
-        "GPT-5": "#c7c7c7",
+        "Claude 3.7 Sonnet": "#1f77b4",
+        "DeepSeek R1": "#ff7f0e",
+        "Llama 3.3 70B Instruct": "#9467bd",
+        "GPT-4o": "#8c564b",
+        "GPT-5": "#e377c2",
+        "Claude Sonnet 4.5": "#7f7f7f",
+        "Gemini 2.5 Pro": "#bcbd22",
+        "Grok 4 Fast": "#17becf",
+        "GLM 4.6": "#aec7e8",
     }
 
     output_path = base / "plots" / "hard_questions_incorrect_stacked.png"
