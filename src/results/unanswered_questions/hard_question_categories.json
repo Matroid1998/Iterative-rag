@@ -19,21 +19,39 @@
       ]
     },
     {
-      "question": "Considering a nickel compound that oxidizes at higher potentials to yield a more ordered phase, and knowing that this nickel compound is a lime‐green material used in rechargeable battery electrodes and contains disordered hydroxide layers made up of fundamental octahedral units, which are also the building blocks of an inorganic catalyst and drying agent available in distinct color forms, what is the oxyhydroxide—formed via surface reconstruction of cobalt–iron perovskite oxides and featuring layered structures analogous to those found in the aforementioned catalyst—that plays a recognized role in oxygen evolution reactions?",
+      "question": "In a catalytic process where hydrogen is produced from formic acid in CO2 reduction reactions, an acyclic saturated hydrocarbon undergoes a reaction to remove hydrogen, linking the behavior of dehydrogenation to the activation of the alkane solvent. What is the chemical species generated during this overall process that initiates ligand addition of the alkane solvent molecule?",
       "models_wrong": [
-        "Mistral Large 2402",
         "Claude 3.7 Sonnet Thinking",
+        "Claude 3.7 Sonnet",
         "DeepSeek R1",
         "Llama 3.3 70B Instruct",
-        "GPT-5",
+        "GPT-4o",
         "Claude Sonnet 4.5",
         "Gemini 2.5 Pro",
         "Grok 4 Fast",
         "GLM 4.6"
       ],
       "models_correct": [
+        "Mistral Large 2402",
+        "GPT-5"
+      ]
+    },
+    {
+      "question": "What is the electrolyte composition that enabled a milestone in developing the battery system, which is known for its improved safety and high-voltage cathode compatibility and is part of a system that employs a lithium-based ternary halide solid electrolyte with yttrium and bromide in its cathode composite with uncoated LiCoO2?",
+      "models_wrong": [
+        "Mistral Large 2402",
         "Claude 3.7 Sonnet",
-        "GPT-4o"
+        "DeepSeek R1",
+        "Llama 3.3 70B Instruct",
+        "GPT-4o",
+        "GPT-5",
+        "Claude Sonnet 4.5",
+        "Grok 4 Fast",
+        "GLM 4.6"
+      ],
+      "models_correct": [
+        "Claude 3.7 Sonnet Thinking",
+        "Gemini 2.5 Pro"
       ]
     },
     {
@@ -55,21 +73,57 @@
       ]
     },
     {
-      "question": "Which heterocyclic compound, reported for use in synthesizing novel antimicrobial agents, norepinephrine transporter imaging agents, and in the synthesis with anti-inflammatory activity of N and Salkylated arylidenethioxoimidazolidinones, is synthesized from N and Salkylated arylidenethioxoimidazolidinones?",
+      "question": "What category of gas is assigned to the colorless, odorless two‐carbon alkane that is isolated from natural gas, used as a refrigerant, and synthesized by replacing the hydroxyl group in ethanol with a hydrogen atom?",
       "models_wrong": [
-        "Mistral Large 2402",
-        "Claude 3.7 Sonnet Thinking",
         "Claude 3.7 Sonnet",
         "DeepSeek R1",
         "Llama 3.3 70B Instruct",
         "GPT-4o",
         "GPT-5",
         "Claude Sonnet 4.5",
-        "Grok 4 Fast"
+        "Gemini 2.5 Pro",
+        "Grok 4 Fast",
+        "GLM 4.6"
       ],
       "models_correct": [
+        "Mistral Large 2402",
+        "Claude 3.7 Sonnet Thinking"
+      ]
+    },
+    {
+      "question": "Considering a chemical compound composed of anionic chains of sulfur atoms that is used as a catholyte in magnesium-based flow batteries, what is the other challenge—aside from its dissolution—that contributes to chemomechanical degradation at the cathode‐electrolyte interface in sulfur cathode cells?",
+      "models_wrong": [
+        "Mistral Large 2402",
+        "DeepSeek R1",
+        "Llama 3.3 70B Instruct",
+        "GPT-4o",
+        "GPT-5",
+        "Claude Sonnet 4.5",
+        "Gemini 2.5 Pro",
+        "Grok 4 Fast",
+        "GLM 4.6"
+      ],
+      "models_correct": [
+        "Claude 3.7 Sonnet Thinking",
+        "Claude 3.7 Sonnet"
+      ]
+    },
+    {
+      "question": "Considering that a fundamental organometallic reaction involves the exchange of a halogen for a metal, which is used to generate reactive intermediates from halogenated arenes that lead to group 2 derivatives such as those employed to synthesize compounds bearing carbon–halogen bonds, what is the polar organometallic species prepared via these metalation processes that plays an indispensable role in organic synthesis?",
+      "models_wrong": [
+        "Mistral Large 2402",
+        "Claude 3.7 Sonnet Thinking",
+        "Claude 3.7 Sonnet",
+        "DeepSeek R1",
+        "GPT-4o",
+        "GPT-5",
+        "Claude Sonnet 4.5",
         "Gemini 2.5 Pro",
         "GLM 4.6"
+      ],
+      "models_correct": [
+        "Llama 3.3 70B Instruct",
+        "Grok 4 Fast"
       ]
     },
     {
@@ -91,24 +145,6 @@
       ]
     },
     {
-      "question": "What is the name of the crystalline porous polymer that is used in the separation of the gas produced when the small, highly reactive aldehyde known for its pungent smell and common use in resin production reacts in processes that form a colorless and odorless gas used industrially?",
-      "models_wrong": [
-        "Mistral Large 2402",
-        "Claude 3.7 Sonnet",
-        "DeepSeek R1",
-        "GPT-4o",
-        "GPT-5",
-        "Claude Sonnet 4.5",
-        "Gemini 2.5 Pro",
-        "Grok 4 Fast",
-        "GLM 4.6"
-      ],
-      "models_correct": [
-        "Claude 3.7 Sonnet Thinking",
-        "Llama 3.3 70B Instruct"
-      ]
-    },
-    {
       "question": "What is the name of the molecular fragment that is responsible for delocalizing unpaired electrons in a radical formed on an aromatic hydrocarbon—one that also appears in compounds like an antiemetic featuring a pyridine ring and known for its role as a colorless, flammable industrial solvent precursor?",
       "models_wrong": [
         "Mistral Large 2402",
@@ -123,6 +159,42 @@
       ],
       "models_correct": [
         "GPT-4o",
+        "GLM 4.6"
+      ]
+    },
+    {
+      "question": "What porous framework compound, celebrated for its exchangeable cations and potential in energy storage, is synthesized from a dark blue synthetic pigment that is produced using a compound featuring a framework structure represented as AxFe3FeII(CN)6y.nH2O and recognized as the first modern synthetic pigment?",
+      "models_wrong": [
+        "Claude 3.7 Sonnet",
+        "DeepSeek R1",
+        "Llama 3.3 70B Instruct",
+        "GPT-4o",
+        "GPT-5",
+        "Claude Sonnet 4.5",
+        "Gemini 2.5 Pro",
+        "Grok 4 Fast",
+        "GLM 4.6"
+      ],
+      "models_correct": [
+        "Mistral Large 2402",
+        "Claude 3.7 Sonnet Thinking"
+      ]
+    },
+    {
+      "question": "What catalytic process, known to occur on the surfaces of carbon materials such as fullerenes or carbon nanotubes, is involved when a methyl donor—used in SN2 methylation reactions by ubiquitous methyltransferases targeting an element that forms diverse allotropes like graphite and diamond—is part of a sequence leading to reactions where a colorless, odorless gas essential for respiration forms covalent linkages with nitrogen in porous polymer frameworks?",
+      "models_wrong": [
+        "Mistral Large 2402",
+        "Claude 3.7 Sonnet",
+        "DeepSeek R1",
+        "Llama 3.3 70B Instruct",
+        "GPT-4o",
+        "GPT-5",
+        "Claude Sonnet 4.5",
+        "Gemini 2.5 Pro",
+        "Grok 4 Fast"
+      ],
+      "models_correct": [
+        "Claude 3.7 Sonnet Thinking",
         "GLM 4.6"
       ]
     },
@@ -145,147 +217,21 @@
       ]
     },
     {
-      "question": "What is the key intermediate compound produced by cracking a flammable liquid hydrocarbon mixture—one obtained as a fraction of crude oil and known by an alternative name in Australia—that is processed in crackers whose C5 stream produces a cyclic olefin (used industrially in applications such as coatings and as an intermediate in pesticide synthesis and which in combination with sulfur forms a precision polymer)?",
+      "question": "Which heterocyclic compound, reported for use in synthesizing novel antimicrobial agents, norepinephrine transporter imaging agents, and in the synthesis with anti-inflammatory activity of N and Salkylated arylidenethioxoimidazolidinones, is synthesized from N and Salkylated arylidenethioxoimidazolidinones?",
       "models_wrong": [
         "Mistral Large 2402",
+        "Claude 3.7 Sonnet Thinking",
         "Claude 3.7 Sonnet",
         "DeepSeek R1",
         "Llama 3.3 70B Instruct",
         "GPT-4o",
         "GPT-5",
         "Claude Sonnet 4.5",
-        "Grok 4 Fast",
-        "GLM 4.6"
-      ],
-      "models_correct": [
-        "Claude 3.7 Sonnet Thinking",
-        "Gemini 2.5 Pro"
-      ]
-    },
-    {
-      "question": "In a catalytic process where hydrogen is produced from formic acid in CO2 reduction reactions, an acyclic saturated hydrocarbon undergoes a reaction to remove hydrogen, linking the behavior of dehydrogenation to the activation of the alkane solvent. What is the chemical species generated during this overall process that initiates ligand addition of the alkane solvent molecule?",
-      "models_wrong": [
-        "Claude 3.7 Sonnet Thinking",
-        "Claude 3.7 Sonnet",
-        "DeepSeek R1",
-        "Llama 3.3 70B Instruct",
-        "GPT-4o",
-        "Claude Sonnet 4.5",
-        "Gemini 2.5 Pro",
-        "Grok 4 Fast",
-        "GLM 4.6"
-      ],
-      "models_correct": [
-        "Mistral Large 2402",
-        "GPT-5"
-      ]
-    },
-    {
-      "question": "What catalytic process, known to occur on the surfaces of carbon materials such as fullerenes or carbon nanotubes, is involved when a methyl donor—used in SN2 methylation reactions by ubiquitous methyltransferases targeting an element that forms diverse allotropes like graphite and diamond—is part of a sequence leading to reactions where a colorless, odorless gas essential for respiration forms covalent linkages with nitrogen in porous polymer frameworks?",
-      "models_wrong": [
-        "Mistral Large 2402",
-        "Claude 3.7 Sonnet",
-        "DeepSeek R1",
-        "Llama 3.3 70B Instruct",
-        "GPT-4o",
-        "GPT-5",
-        "Claude Sonnet 4.5",
-        "Gemini 2.5 Pro",
         "Grok 4 Fast"
       ],
       "models_correct": [
-        "Claude 3.7 Sonnet Thinking",
-        "GLM 4.6"
-      ]
-    },
-    {
-      "question": "Starting from a synthetic polymer noted for its linear-chain structure and high water absorbency, which is applied in water treatment and biomedical settings to form soft gels when hydrated, and knowing that this polymer is used to coagulate and remove infectious agents that replicate only inside living cells, what is the compound employed as a flocculant in processes such as sewage purification and circuit board etching to precipitate these pathogens?",
-      "models_wrong": [
-        "Mistral Large 2402",
-        "Claude 3.7 Sonnet Thinking",
-        "Claude 3.7 Sonnet",
-        "DeepSeek R1",
-        "Llama 3.3 70B Instruct",
-        "GPT-4o",
-        "Claude Sonnet 4.5",
-        "Gemini 2.5 Pro",
-        "Grok 4 Fast"
-      ],
-      "models_correct": [
-        "GPT-5",
-        "GLM 4.6"
-      ]
-    },
-    {
-      "question": "Considering a chemical compound composed of anionic chains of sulfur atoms that is used as a catholyte in magnesium-based flow batteries, what is the other challenge—aside from its dissolution—that contributes to chemomechanical degradation at the cathode‐electrolyte interface in sulfur cathode cells?",
-      "models_wrong": [
-        "Mistral Large 2402",
-        "DeepSeek R1",
-        "Llama 3.3 70B Instruct",
-        "GPT-4o",
-        "GPT-5",
-        "Claude Sonnet 4.5",
-        "Gemini 2.5 Pro",
-        "Grok 4 Fast",
-        "GLM 4.6"
-      ],
-      "models_correct": [
-        "Claude 3.7 Sonnet Thinking",
-        "Claude 3.7 Sonnet"
-      ]
-    },
-    {
-      "question": "What is the electrolyte composition that enabled a milestone in developing the battery system, which is known for its improved safety and high-voltage cathode compatibility and is part of a system that employs a lithium-based ternary halide solid electrolyte with yttrium and bromide in its cathode composite with uncoated LiCoO2?",
-      "models_wrong": [
-        "Mistral Large 2402",
-        "Claude 3.7 Sonnet",
-        "DeepSeek R1",
-        "Llama 3.3 70B Instruct",
-        "GPT-4o",
-        "GPT-5",
-        "Claude Sonnet 4.5",
-        "Grok 4 Fast",
-        "GLM 4.6"
-      ],
-      "models_correct": [
-        "Claude 3.7 Sonnet Thinking",
-        "Gemini 2.5 Pro"
-      ]
-    },
-    {
-      "question": "Which reaction process, highlighted in Limas work 19 for its catalytic applications, involves the use of microporous, crystalline hydrated alkali–aluminum silicates that function as chemical sieves controlling the passage of large ions, including those of a soft, silvery alkali metal that is known for its vigorous reaction with water and formation of contact ion pairs in 1,2 dimethoxy ethane?",
-      "models_wrong": [
-        "Mistral Large 2402",
-        "Claude 3.7 Sonnet Thinking",
-        "Claude 3.7 Sonnet",
-        "DeepSeek R1",
-        "Llama 3.3 70B Instruct",
-        "GPT-4o",
-        "Claude Sonnet 4.5",
-        "Gemini 2.5 Pro",
-        "Grok 4 Fast"
-      ],
-      "models_correct": [
-        "GPT-5",
-        "GLM 4.6"
-      ]
-    },
-    {
-      "question": "Considering that a fundamental organometallic reaction involves the exchange of a halogen for a metal, which is used to generate reactive intermediates from halogenated arenes that lead to group 2 derivatives such as those employed to synthesize compounds bearing carbon–halogen bonds, what is the polar organometallic species prepared via these metalation processes that plays an indispensable role in organic synthesis?",
-      "models_wrong": [
-        "Mistral Large 2402",
-        "Claude 3.7 Sonnet Thinking",
-        "Claude 3.7 Sonnet",
-        "DeepSeek R1",
-        "GPT-4o",
-        "GPT-5",
-        "Claude Sonnet 4.5",
         "Gemini 2.5 Pro",
         "GLM 4.6"
-      ],
-      "models_correct": [
-        "Llama 3.3 70B Instruct",
-        "Grok 4 Fast"
       ]
     },
     {
@@ -307,25 +253,25 @@
       ]
     },
     {
-      "question": "What is the specific manganese(I) complex with a facial configuration, coordinated by 1,2-bis(diisopropylphosphino)ethane and containing a propyl ligand, that is used to carry out a reaction which adds pairs of hydrogen atoms to unsaturated organic compounds—a reaction employed in catalytic systems that make use of ligands derived from an orange organometallic sandwich compound (featuring an iron atom between two cyclopentadienyl rings) that also serves as a fragment in the synthesis of compounds with the general R1R2C=N−NH2 framework formed by reacting hydrazine with carbonyl compounds?",
+      "question": "Considering a nickel compound that oxidizes at higher potentials to yield a more ordered phase, and knowing that this nickel compound is a lime‐green material used in rechargeable battery electrodes and contains disordered hydroxide layers made up of fundamental octahedral units, which are also the building blocks of an inorganic catalyst and drying agent available in distinct color forms, what is the oxyhydroxide—formed via surface reconstruction of cobalt–iron perovskite oxides and featuring layered structures analogous to those found in the aforementioned catalyst—that plays a recognized role in oxygen evolution reactions?",
       "models_wrong": [
         "Mistral Large 2402",
-        "Claude 3.7 Sonnet",
-        "DeepSeek R1",
-        "GPT-4o",
-        "GPT-5",
-        "Claude Sonnet 4.5",
-        "Gemini 2.5 Pro",
-        "Grok 4 Fast",
-        "GLM 4.6"
-      ],
-      "models_correct": [
         "Claude 3.7 Sonnet Thinking",
-        "Llama 3.3 70B Instruct"
+        "DeepSeek R1",
+        "Llama 3.3 70B Instruct",
+        "GPT-5",
+        "Claude Sonnet 4.5",
+        "Gemini 2.5 Pro",
+        "Grok 4 Fast",
+        "GLM 4.6"
+      ],
+      "models_correct": [
+        "Claude 3.7 Sonnet",
+        "GPT-4o"
       ]
     },
     {
-      "question": "What category of gas is assigned to the colorless, odorless two‐carbon alkane that is isolated from natural gas, used as a refrigerant, and synthesized by replacing the hydroxyl group in ethanol with a hydrogen atom?",
+      "question": "What is the MOF structure that supports a catalyst—namely, a rare, lustrous platinum group metal used in catalytic converters—which in turn drives a double-bond rearrangement reaction traditionally facilitated by precious metal complexes including a transition metal with atomic number 44 renowned for its role in photoredox catalysis?",
       "models_wrong": [
         "Claude 3.7 Sonnet",
         "DeepSeek R1",
@@ -343,21 +289,21 @@
       ]
     },
     {
-      "question": "What porous framework compound, celebrated for its exchangeable cations and potential in energy storage, is synthesized from a dark blue synthetic pigment that is produced using a compound featuring a framework structure represented as AxFe3FeII(CN)6y.nH2O and recognized as the first modern synthetic pigment?",
+      "question": "Starting from a synthetic polymer noted for its linear-chain structure and high water absorbency, which is applied in water treatment and biomedical settings to form soft gels when hydrated, and knowing that this polymer is used to coagulate and remove infectious agents that replicate only inside living cells, what is the compound employed as a flocculant in processes such as sewage purification and circuit board etching to precipitate these pathogens?",
       "models_wrong": [
+        "Mistral Large 2402",
+        "Claude 3.7 Sonnet Thinking",
         "Claude 3.7 Sonnet",
         "DeepSeek R1",
         "Llama 3.3 70B Instruct",
         "GPT-4o",
-        "GPT-5",
         "Claude Sonnet 4.5",
         "Gemini 2.5 Pro",
-        "Grok 4 Fast",
-        "GLM 4.6"
+        "Grok 4 Fast"
       ],
       "models_correct": [
-        "Mistral Large 2402",
-        "Claude 3.7 Sonnet Thinking"
+        "GPT-5",
+        "GLM 4.6"
       ]
     },
     {
@@ -379,6 +325,42 @@
       ]
     },
     {
+      "question": "What is the specific manganese(I) complex with a facial configuration, coordinated by 1,2-bis(diisopropylphosphino)ethane and containing a propyl ligand, that is used to carry out a reaction which adds pairs of hydrogen atoms to unsaturated organic compounds—a reaction employed in catalytic systems that make use of ligands derived from an orange organometallic sandwich compound (featuring an iron atom between two cyclopentadienyl rings) that also serves as a fragment in the synthesis of compounds with the general R1R2C=N−NH2 framework formed by reacting hydrazine with carbonyl compounds?",
+      "models_wrong": [
+        "Mistral Large 2402",
+        "Claude 3.7 Sonnet",
+        "DeepSeek R1",
+        "GPT-4o",
+        "GPT-5",
+        "Claude Sonnet 4.5",
+        "Gemini 2.5 Pro",
+        "Grok 4 Fast",
+        "GLM 4.6"
+      ],
+      "models_correct": [
+        "Claude 3.7 Sonnet Thinking",
+        "Llama 3.3 70B Instruct"
+      ]
+    },
+    {
+      "question": "What is the key intermediate compound produced by cracking a flammable liquid hydrocarbon mixture—one obtained as a fraction of crude oil and known by an alternative name in Australia—that is processed in crackers whose C5 stream produces a cyclic olefin (used industrially in applications such as coatings and as an intermediate in pesticide synthesis and which in combination with sulfur forms a precision polymer)?",
+      "models_wrong": [
+        "Mistral Large 2402",
+        "Claude 3.7 Sonnet",
+        "DeepSeek R1",
+        "Llama 3.3 70B Instruct",
+        "GPT-4o",
+        "GPT-5",
+        "Claude Sonnet 4.5",
+        "Grok 4 Fast",
+        "GLM 4.6"
+      ],
+      "models_correct": [
+        "Claude 3.7 Sonnet Thinking",
+        "Gemini 2.5 Pro"
+      ]
+    },
+    {
       "question": "What is the property that is modulated in layered perovskites containing linear monoammonium cations, as exemplified by (cnh2n1nh3)2pbx4, when these compounds are engineered to exhibit a category of characteristics associated with light interaction phenomena similar to those observed in trivalent lanthanides?",
       "models_wrong": [
         "Mistral Large 2402",
@@ -397,8 +379,47 @@
       ]
     },
     {
-      "question": "What is the MOF structure that supports a catalyst—namely, a rare, lustrous platinum group metal used in catalytic converters—which in turn drives a double-bond rearrangement reaction traditionally facilitated by precious metal complexes including a transition metal with atomic number 44 renowned for its role in photoredox catalysis?",
+      "question": "Which reaction process, highlighted in Limas work 19 for its catalytic applications, involves the use of microporous, crystalline hydrated alkali–aluminum silicates that function as chemical sieves controlling the passage of large ions, including those of a soft, silvery alkali metal that is known for its vigorous reaction with water and formation of contact ion pairs in 1,2 dimethoxy ethane?",
       "models_wrong": [
+        "Mistral Large 2402",
+        "Claude 3.7 Sonnet Thinking",
+        "Claude 3.7 Sonnet",
+        "DeepSeek R1",
+        "Llama 3.3 70B Instruct",
+        "GPT-4o",
+        "Claude Sonnet 4.5",
+        "Gemini 2.5 Pro",
+        "Grok 4 Fast"
+      ],
+      "models_correct": [
+        "GPT-5",
+        "GLM 4.6"
+      ]
+    },
+    {
+      "question": "What is the name of the crystalline porous polymer that is used in the separation of the gas produced when the small, highly reactive aldehyde known for its pungent smell and common use in resin production reacts in processes that form a colorless and odorless gas used industrially?",
+      "models_wrong": [
+        "Mistral Large 2402",
+        "Claude 3.7 Sonnet",
+        "DeepSeek R1",
+        "GPT-4o",
+        "GPT-5",
+        "Claude Sonnet 4.5",
+        "Gemini 2.5 Pro",
+        "Grok 4 Fast",
+        "GLM 4.6"
+      ],
+      "models_correct": [
+        "Claude 3.7 Sonnet Thinking",
+        "Llama 3.3 70B Instruct"
+      ]
+    }
+  ],
+  "10": [
+    {
+      "question": "What is the molecular dopant used to modify a conjugated polymer that, when processed with a specific type of ultraviolet irradiation known for triggering photoactivity (and used in disinfection), exhibits enhanced crystallization and alignment during solution coating?",
+      "models_wrong": [
+        "Claude 3.7 Sonnet Thinking",
         "Claude 3.7 Sonnet",
         "DeepSeek R1",
         "Llama 3.3 70B Instruct",
@@ -410,14 +431,137 @@
         "GLM 4.6"
       ],
       "models_correct": [
-        "Mistral Large 2402",
-        "Claude 3.7 Sonnet Thinking"
+        "Mistral Large 2402"
       ]
-    }
-  ],
-  "10": [
+    },
+    {
+      "question": "What compound, renowned for its high melting temperatures and indispensable roles in geophysical, biological, and industrial applications, is produced through a process involving mineral carbonation of a colorless, odorless gas that is a key component of the carbon cycle and can be synthesized by mechanisms such as gas-grain chemistry?",
+      "models_wrong": [
+        "Mistral Large 2402",
+        "Claude 3.7 Sonnet Thinking",
+        "Claude 3.7 Sonnet",
+        "DeepSeek R1",
+        "GPT-4o",
+        "GPT-5",
+        "Claude Sonnet 4.5",
+        "Gemini 2.5 Pro",
+        "Grok 4 Fast",
+        "GLM 4.6"
+      ],
+      "models_correct": [
+        "Llama 3.3 70B Instruct"
+      ]
+    },
     {
       "question": "Which attribute of biologically active substances, critical in the design of medicines and agrochemicals, is influenced through the incorporation of fluorine?",
+      "models_wrong": [
+        "Mistral Large 2402",
+        "Claude 3.7 Sonnet Thinking",
+        "Claude 3.7 Sonnet",
+        "DeepSeek R1",
+        "Llama 3.3 70B Instruct",
+        "GPT-4o",
+        "GPT-5",
+        "Claude Sonnet 4.5",
+        "Grok 4 Fast",
+        "GLM 4.6"
+      ],
+      "models_correct": [
+        "Gemini 2.5 Pro"
+      ]
+    },
+    {
+      "question": "What controlled environment is used to carry out preparation procedures when a noble gas, which is inert, colorless, odorless, and has an atomic number of 18, is utilized as the ambient for a deposition process in which B(CH3)3 serves as the precursor for boron carbon thin films?",
+      "models_wrong": [
+        "Claude 3.7 Sonnet Thinking",
+        "Claude 3.7 Sonnet",
+        "DeepSeek R1",
+        "Llama 3.3 70B Instruct",
+        "GPT-4o",
+        "GPT-5",
+        "Claude Sonnet 4.5",
+        "Gemini 2.5 Pro",
+        "Grok 4 Fast",
+        "GLM 4.6"
+      ],
+      "models_correct": [
+        "Mistral Large 2402"
+      ]
+    },
+    {
+      "question": "What compound, obtained by cracking the flammable liquid hydrocarbon mixture that is used in catalytic reforming to produce aromatics such as benzene, serves as an important feedstock for the production of commodity chemicals and polyolefins?",
+      "models_wrong": [
+        "Claude 3.7 Sonnet Thinking",
+        "Claude 3.7 Sonnet",
+        "DeepSeek R1",
+        "Llama 3.3 70B Instruct",
+        "GPT-4o",
+        "GPT-5",
+        "Claude Sonnet 4.5",
+        "Gemini 2.5 Pro",
+        "Grok 4 Fast",
+        "GLM 4.6"
+      ],
+      "models_correct": [
+        "Mistral Large 2402"
+      ]
+    },
+    {
+      "question": "Considering an element with atomic number 15 that is vital in biological molecules and present in compounds like Fosinopril used for heart conditions, which is combined with a colorless compound known for its strong oxidizing, bleaching, and disinfection properties, and knowing that reactive species generated by ultrasound‐induced cavitation enhance the decomposition of that colorless compound, what is the compound—listed among notable examples alongside nitroxide substituted iminonitroxide and mxylylene—that is employed in the synthesis of these reactive species?",
+      "models_wrong": [
+        "Mistral Large 2402",
+        "Claude 3.7 Sonnet Thinking",
+        "Claude 3.7 Sonnet",
+        "DeepSeek R1",
+        "Llama 3.3 70B Instruct",
+        "GPT-4o",
+        "GPT-5",
+        "Claude Sonnet 4.5",
+        "Gemini 2.5 Pro",
+        "GLM 4.6"
+      ],
+      "models_correct": [
+        "Grok 4 Fast"
+      ]
+    },
+    {
+      "question": "What recovery process is used to extract the reddish, ductile transition metal—whose catalytic properties have been harnessed in the oxidation of a pungent, trigonal pyramidal inorganic compound known for its role in sustainable catalytic systems?",
+      "models_wrong": [
+        "Mistral Large 2402",
+        "Claude 3.7 Sonnet Thinking",
+        "Claude 3.7 Sonnet",
+        "DeepSeek R1",
+        "Llama 3.3 70B Instruct",
+        "GPT-4o",
+        "GPT-5",
+        "Gemini 2.5 Pro",
+        "Grok 4 Fast",
+        "GLM 4.6"
+      ],
+      "models_correct": [
+        "Claude Sonnet 4.5"
+      ]
+    },
+    {
+      "question": "In the context of artificial photosynthesis that yields clean solar fuels, one process involves the conversion of carbon dioxide into a simple carboxylic acid used as a solar fuel, while another cleaner method—N2 reduction—is employed to produce an organic compound that serves as a solvent and chemical intermediate; what is the organic compound produced via the nitrogen reduction pathway?",
+      "models_wrong": [
+        "Mistral Large 2402",
+        "Claude 3.7 Sonnet Thinking",
+        "Claude 3.7 Sonnet",
+        "DeepSeek R1",
+        "Llama 3.3 70B Instruct",
+        "GPT-4o",
+        "GPT-5",
+        "Claude Sonnet 4.5",
+        "Gemini 2.5 Pro",
+        "GLM 4.6"
+      ],
+      "models_correct": [
+        "Grok 4 Fast"
+      ]
+    },
+    {
+      "question": "What type of materials have been developed for sustainable energy that are integral to a process—often produced through methods like water electrolysis and involving the catalytic hydrolysis of ammonia borane—which is key in reducing carbon emissions?",
       "models_wrong": [
         "Mistral Large 2402",
         "Claude 3.7 Sonnet Thinking",
@@ -453,42 +597,6 @@
       ]
     },
     {
-      "question": "What type of materials have been developed for sustainable energy that are integral to a process—often produced through methods like water electrolysis and involving the catalytic hydrolysis of ammonia borane—which is key in reducing carbon emissions?",
-      "models_wrong": [
-        "Mistral Large 2402",
-        "Claude 3.7 Sonnet Thinking",
-        "Claude 3.7 Sonnet",
-        "DeepSeek R1",
-        "Llama 3.3 70B Instruct",
-        "GPT-4o",
-        "GPT-5",
-        "Claude Sonnet 4.5",
-        "Grok 4 Fast",
-        "GLM 4.6"
-      ],
-      "models_correct": [
-        "Gemini 2.5 Pro"
-      ]
-    },
-    {
-      "question": "Given a cation that is designed for synthesis without the use of strong electron donating groups by sterically protecting its C3 position to prevent degradation via nucleophilic attack, what is the name of the triarylpropargyl-derived cation—synthesized from this precursor—that features a 1,2 mesitylethynyl substitution on a bis(4 methoxyphenyl)methyl framework?",
-      "models_wrong": [
-        "Mistral Large 2402",
-        "Claude 3.7 Sonnet Thinking",
-        "Claude 3.7 Sonnet",
-        "Llama 3.3 70B Instruct",
-        "GPT-4o",
-        "GPT-5",
-        "Claude Sonnet 4.5",
-        "Gemini 2.5 Pro",
-        "Grok 4 Fast",
-        "GLM 4.6"
-      ],
-      "models_correct": [
-        "DeepSeek R1"
-      ]
-    },
-    {
       "question": "What is the cage that is formed by the self-assembly of coordinating metal and organic components—the very same components that modify the solubility and electronic properties of metalorganic cages and are used in the synthesis of the Co4L28 cage?",
       "models_wrong": [
         "Mistral Large 2402",
@@ -504,24 +612,6 @@
       ],
       "models_correct": [
         "Claude Sonnet 4.5"
-      ]
-    },
-    {
-      "question": "What controlled environment is used to carry out preparation procedures when a noble gas, which is inert, colorless, odorless, and has an atomic number of 18, is utilized as the ambient for a deposition process in which B(CH3)3 serves as the precursor for boron carbon thin films?",
-      "models_wrong": [
-        "Claude 3.7 Sonnet Thinking",
-        "Claude 3.7 Sonnet",
-        "DeepSeek R1",
-        "Llama 3.3 70B Instruct",
-        "GPT-4o",
-        "GPT-5",
-        "Claude Sonnet 4.5",
-        "Gemini 2.5 Pro",
-        "Grok 4 Fast",
-        "GLM 4.6"
-      ],
-      "models_correct": [
-        "Mistral Large 2402"
       ]
     },
     {
@@ -543,39 +633,21 @@
       ]
     },
     {
-      "question": "What compound, obtained by cracking the flammable liquid hydrocarbon mixture that is used in catalytic reforming to produce aromatics such as benzene, serves as an important feedstock for the production of commodity chemicals and polyolefins?",
+      "question": "What process produces the gas that, by forming bonds with a carbon allotrope synthesized from graphene oxide, serves as a key energy resource for a decarbonized economy?",
       "models_wrong": [
+        "Mistral Large 2402",
         "Claude 3.7 Sonnet Thinking",
         "Claude 3.7 Sonnet",
         "DeepSeek R1",
         "Llama 3.3 70B Instruct",
         "GPT-4o",
         "GPT-5",
-        "Claude Sonnet 4.5",
         "Gemini 2.5 Pro",
         "Grok 4 Fast",
         "GLM 4.6"
       ],
       "models_correct": [
-        "Mistral Large 2402"
-      ]
-    },
-    {
-      "question": "Which cytotoxic metal complex that is loaded with rotaxanes in antitumor applications is distinct from the ruthenium complex mentioned?",
-      "models_wrong": [
-        "Mistral Large 2402",
-        "Claude 3.7 Sonnet Thinking",
-        "Claude 3.7 Sonnet",
-        "Llama 3.3 70B Instruct",
-        "GPT-4o",
-        "GPT-5",
-        "Claude Sonnet 4.5",
-        "Gemini 2.5 Pro",
-        "Grok 4 Fast",
-        "GLM 4.6"
-      ],
-      "models_correct": [
-        "DeepSeek R1"
+        "Claude Sonnet 4.5"
       ]
     },
     {
@@ -615,60 +687,6 @@
       ]
     },
     {
-      "question": "What process, vital for maintaining the structure of Mycobacterium tuberculosis cells, is targeted by isoniazid?",
-      "models_wrong": [
-        "Mistral Large 2402",
-        "Claude 3.7 Sonnet Thinking",
-        "Claude 3.7 Sonnet",
-        "DeepSeek R1",
-        "Llama 3.3 70B Instruct",
-        "GPT-4o",
-        "GPT-5",
-        "Claude Sonnet 4.5",
-        "Gemini 2.5 Pro",
-        "GLM 4.6"
-      ],
-      "models_correct": [
-        "Grok 4 Fast"
-      ]
-    },
-    {
-      "question": "What compound, renowned for its high melting temperatures and indispensable roles in geophysical, biological, and industrial applications, is produced through a process involving mineral carbonation of a colorless, odorless gas that is a key component of the carbon cycle and can be synthesized by mechanisms such as gas-grain chemistry?",
-      "models_wrong": [
-        "Mistral Large 2402",
-        "Claude 3.7 Sonnet Thinking",
-        "Claude 3.7 Sonnet",
-        "DeepSeek R1",
-        "GPT-4o",
-        "GPT-5",
-        "Claude Sonnet 4.5",
-        "Gemini 2.5 Pro",
-        "Grok 4 Fast",
-        "GLM 4.6"
-      ],
-      "models_correct": [
-        "Llama 3.3 70B Instruct"
-      ]
-    },
-    {
-      "question": "In the context of artificial photosynthesis that yields clean solar fuels, one process involves the conversion of carbon dioxide into a simple carboxylic acid used as a solar fuel, while another cleaner method—N2 reduction—is employed to produce an organic compound that serves as a solvent and chemical intermediate; what is the organic compound produced via the nitrogen reduction pathway?",
-      "models_wrong": [
-        "Mistral Large 2402",
-        "Claude 3.7 Sonnet Thinking",
-        "Claude 3.7 Sonnet",
-        "DeepSeek R1",
-        "Llama 3.3 70B Instruct",
-        "GPT-4o",
-        "GPT-5",
-        "Claude Sonnet 4.5",
-        "Gemini 2.5 Pro",
-        "GLM 4.6"
-      ],
-      "models_correct": [
-        "Grok 4 Fast"
-      ]
-    },
-    {
       "question": "What inorganic ionic compound, widely used in food seasoning and industrial applications, is efficiently dissociated by an organic compound that serves as a polar aprotic solvent and is synthesized under moderate conditions using mixed metal oxides as catalysts to cycloadd CO2 with a cyclic ether known for its high reactivity due to ring strain?",
       "models_wrong": [
         "Mistral Large 2402",
@@ -687,7 +705,25 @@
       ]
     },
     {
-      "question": "Considering an element with atomic number 15 that is vital in biological molecules and present in compounds like Fosinopril used for heart conditions, which is combined with a colorless compound known for its strong oxidizing, bleaching, and disinfection properties, and knowing that reactive species generated by ultrasound‐induced cavitation enhance the decomposition of that colorless compound, what is the compound—listed among notable examples alongside nitroxide substituted iminonitroxide and mxylylene—that is employed in the synthesis of these reactive species?",
+      "question": "Which cytotoxic metal complex that is loaded with rotaxanes in antitumor applications is distinct from the ruthenium complex mentioned?",
+      "models_wrong": [
+        "Mistral Large 2402",
+        "Claude 3.7 Sonnet Thinking",
+        "Claude 3.7 Sonnet",
+        "Llama 3.3 70B Instruct",
+        "GPT-4o",
+        "GPT-5",
+        "Claude Sonnet 4.5",
+        "Gemini 2.5 Pro",
+        "Grok 4 Fast",
+        "GLM 4.6"
+      ],
+      "models_correct": [
+        "DeepSeek R1"
+      ]
+    },
+    {
+      "question": "What process, vital for maintaining the structure of Mycobacterium tuberculosis cells, is targeted by isoniazid?",
       "models_wrong": [
         "Mistral Large 2402",
         "Claude 3.7 Sonnet Thinking",
@@ -705,11 +741,11 @@
       ]
     },
     {
-      "question": "What is the molecular dopant used to modify a conjugated polymer that, when processed with a specific type of ultraviolet irradiation known for triggering photoactivity (and used in disinfection), exhibits enhanced crystallization and alignment during solution coating?",
+      "question": "Given a cation that is designed for synthesis without the use of strong electron donating groups by sterically protecting its C3 position to prevent degradation via nucleophilic attack, what is the name of the triarylpropargyl-derived cation—synthesized from this precursor—that features a 1,2 mesitylethynyl substitution on a bis(4 methoxyphenyl)methyl framework?",
       "models_wrong": [
+        "Mistral Large 2402",
         "Claude 3.7 Sonnet Thinking",
         "Claude 3.7 Sonnet",
-        "DeepSeek R1",
         "Llama 3.3 70B Instruct",
         "GPT-4o",
         "GPT-5",
@@ -719,66 +755,13 @@
         "GLM 4.6"
       ],
       "models_correct": [
-        "Mistral Large 2402"
-      ]
-    },
-    {
-      "question": "What process produces the gas that, by forming bonds with a carbon allotrope synthesized from graphene oxide, serves as a key energy resource for a decarbonized economy?",
-      "models_wrong": [
-        "Mistral Large 2402",
-        "Claude 3.7 Sonnet Thinking",
-        "Claude 3.7 Sonnet",
-        "DeepSeek R1",
-        "Llama 3.3 70B Instruct",
-        "GPT-4o",
-        "GPT-5",
-        "Gemini 2.5 Pro",
-        "Grok 4 Fast",
-        "GLM 4.6"
-      ],
-      "models_correct": [
-        "Claude Sonnet 4.5"
-      ]
-    },
-    {
-      "question": "What recovery process is used to extract the reddish, ductile transition metal—whose catalytic properties have been harnessed in the oxidation of a pungent, trigonal pyramidal inorganic compound known for its role in sustainable catalytic systems?",
-      "models_wrong": [
-        "Mistral Large 2402",
-        "Claude 3.7 Sonnet Thinking",
-        "Claude 3.7 Sonnet",
-        "DeepSeek R1",
-        "Llama 3.3 70B Instruct",
-        "GPT-4o",
-        "GPT-5",
-        "Gemini 2.5 Pro",
-        "Grok 4 Fast",
-        "GLM 4.6"
-      ],
-      "models_correct": [
-        "Claude Sonnet 4.5"
+        "DeepSeek R1"
       ]
     }
   ],
   "11": [
     {
-      "question": "What is the colorless, flammable organic compound that, when it reacts with a gaseous substance produced by an energy‐intensive industrial process, forms an intermediate which is further converted into a reactive precursor that, after postsynthetic oxidation, yields linkages found in compounds containing a specific acrylohydrazide moiety?",
-      "models_wrong": [
-        "Mistral Large 2402",
-        "Claude 3.7 Sonnet Thinking",
-        "Claude 3.7 Sonnet",
-        "DeepSeek R1",
-        "Llama 3.3 70B Instruct",
-        "GPT-4o",
-        "GPT-5",
-        "Claude Sonnet 4.5",
-        "Gemini 2.5 Pro",
-        "Grok 4 Fast",
-        "GLM 4.6"
-      ],
-      "models_correct": []
-    },
-    {
-      "question": "Which class of compounds is targeted by reactions induced through a specific effect involving allyl silanes, where this effect is attributed to an element known for its use in semiconductor applications and whose melting point is calibrated under experimental conditions characterized by gigapascal-level forces?",
+      "question": "What is the input used in manufacturing that interacts with an element known for its multiple allotropes, which is produced through a process involving a combustible gas mixture synthesized from the lightest diatomic gas that is captured by molecular sieves?",
       "models_wrong": [
         "Mistral Large 2402",
         "Claude 3.7 Sonnet Thinking",
@@ -812,7 +795,7 @@
       "models_correct": []
     },
     {
-      "question": "Which compound, produced in a one-pot synthesis using commercially available starting materials, exhibits excellent stability in water, organic solvents, and under physiological conditions yet degrades rapidly under basic conditions?",
+      "question": "What compound is prepared using a bromo and methoxy ringdisubstituted ethyl phenylcyanoacrylate that is synthesized from thiazacridine, which in turn is produced from a 5-bromo-2-methoxyphenyl ringsubstituted ethyl phenylcyanoacrylate used in developing anticancer agents against breast and hematopoietic neoplastic cells?",
       "models_wrong": [
         "Mistral Large 2402",
         "Claude 3.7 Sonnet Thinking",
@@ -829,7 +812,7 @@
       "models_correct": []
     },
     {
-      "question": "In a reaction sequence where a hard, silvery-white transition metal catalyst (known for promoting coupling through a radical oxidative addition mechanism) activates a bench‐stable halogenated organic electrophile, which then participates in coupling that ultimately forms a specific class of products via the reductive coupling of acyl‐transfer reagents with C(sp3) electrophiles, what compounds are initially employed in these nickel‐catalyzed reductive coupling reactions?",
+      "question": "What is the chemical group that is incorporated at C2 of the bicyclic heteroaromatic compound, which is used as a substrate to yield reaction products via a mechanism involving distonic radical cation intermediates and single‐carbon migration from an aromatic polycyclic hydrocarbon fused onto a fluorene derivative?",
       "models_wrong": [
         "Mistral Large 2402",
         "Claude 3.7 Sonnet Thinking",
@@ -846,41 +829,7 @@
       "models_correct": []
     },
     {
-      "question": "What molecule has been the subject of complexation mechanism studies based on factors like binding strength and stability, particularly in light of investigations into the arrangement of interrelated components that serve as a host for an alkali metal—known for its role in battery production and mood stabilization—which acts as the activating agent for a predominant diatomic atmospheric gas that is reduced to ammonia by molybdenum‐based complexes under ambient conditions?",
-      "models_wrong": [
-        "Mistral Large 2402",
-        "Claude 3.7 Sonnet Thinking",
-        "Claude 3.7 Sonnet",
-        "DeepSeek R1",
-        "Llama 3.3 70B Instruct",
-        "GPT-4o",
-        "GPT-5",
-        "Claude Sonnet 4.5",
-        "Gemini 2.5 Pro",
-        "Grok 4 Fast",
-        "GLM 4.6"
-      ],
-      "models_correct": []
-    },
-    {
-      "question": "What compound binds to a molecule, which is key to cellular metabolism and exchanged by system xC for extracellular cystine, to trigger the opening of ion channels in a major type of excitatory receptor in vertebrate neurons?",
-      "models_wrong": [
-        "Mistral Large 2402",
-        "Claude 3.7 Sonnet Thinking",
-        "Claude 3.7 Sonnet",
-        "DeepSeek R1",
-        "Llama 3.3 70B Instruct",
-        "GPT-4o",
-        "GPT-5",
-        "Claude Sonnet 4.5",
-        "Gemini 2.5 Pro",
-        "Grok 4 Fast",
-        "GLM 4.6"
-      ],
-      "models_correct": []
-    },
-    {
-      "question": "What is the entity generated through electrostatic interactions in ammonium ion pairing catalysis that induces the formation of a permanently charged, tetrahedrally arranged polyatomic ion (used as a chiral phase-transfer catalyst) from a process involving the electrocatalytic reduction of a colorless, odorless diatomic gas (which makes up about 78% of Earth’s atmosphere) on a molybdenum-based transition metal dichalcogenide known for its semiconducting properties such as fluorescence and an infrared band gap?",
+      "question": "What process is enabled by the release of ring tension in a strained bicyclic compound, which undergoes a formal (3+1) cycloaddition with a reagent to afford halogenated bicyclic derivatives that serve as three-dimensional benzene bioisosteres used in the synthesis of propellanes?",
       "models_wrong": [
         "Mistral Large 2402",
         "Claude 3.7 Sonnet Thinking",
@@ -914,7 +863,7 @@
       "models_correct": []
     },
     {
-      "question": "Starting from a flammable hydrocarbon mixture used as feedstock in catalytic reforming to produce aromatic compounds, a cyclic olefin byproduct is synthesized. This cyclic olefin is then converted into an element that plays an essential role in polymer modifications and amino acid synthesis. How does the incorporation of that element into BN helicene enantiomers result in a structure that disrupts peripheral symmetry?",
+      "question": "What is the property exhibited by the monolayer form of a compound that is described as having its Mo atoms saturated with atoms from the group of six-valence elements, which are also commonly anions in a new class of mixed‐anion materials combining these elements with halide ions?",
       "models_wrong": [
         "Mistral Large 2402",
         "Claude 3.7 Sonnet Thinking",
@@ -948,7 +897,92 @@
       "models_correct": []
     },
     {
-      "question": "What compound is prepared using a bromo and methoxy ringdisubstituted ethyl phenylcyanoacrylate that is synthesized from thiazacridine, which in turn is produced from a 5-bromo-2-methoxyphenyl ringsubstituted ethyl phenylcyanoacrylate used in developing anticancer agents against breast and hematopoietic neoplastic cells?",
+      "question": "What compound binds to a molecule, which is key to cellular metabolism and exchanged by system xC for extracellular cystine, to trigger the opening of ion channels in a major type of excitatory receptor in vertebrate neurons?",
+      "models_wrong": [
+        "Mistral Large 2402",
+        "Claude 3.7 Sonnet Thinking",
+        "Claude 3.7 Sonnet",
+        "DeepSeek R1",
+        "Llama 3.3 70B Instruct",
+        "GPT-4o",
+        "GPT-5",
+        "Claude Sonnet 4.5",
+        "Gemini 2.5 Pro",
+        "Grok 4 Fast",
+        "GLM 4.6"
+      ],
+      "models_correct": []
+    },
+    {
+      "question": "Starting from a flammable hydrocarbon mixture used as feedstock in catalytic reforming to produce aromatic compounds, a cyclic olefin byproduct is synthesized. This cyclic olefin is then converted into an element that plays an essential role in polymer modifications and amino acid synthesis. How does the incorporation of that element into BN helicene enantiomers result in a structure that disrupts peripheral symmetry?",
+      "models_wrong": [
+        "Mistral Large 2402",
+        "Claude 3.7 Sonnet Thinking",
+        "Claude 3.7 Sonnet",
+        "DeepSeek R1",
+        "Llama 3.3 70B Instruct",
+        "GPT-4o",
+        "GPT-5",
+        "Claude Sonnet 4.5",
+        "Gemini 2.5 Pro",
+        "Grok 4 Fast",
+        "GLM 4.6"
+      ],
+      "models_correct": []
+    },
+    {
+      "question": "What is the 3-hydroxy monocarboxylic acid, known as an Escherichia coli metabolite and used in the production of chemicals like acrylates, that is produced when a naturally occurring pyrimidine nucleobase found in RNA and synthesized from carbon dioxide undergoes degradation catalyzed by a flavin‐dependent enzyme?",
+      "models_wrong": [
+        "Mistral Large 2402",
+        "Claude 3.7 Sonnet Thinking",
+        "Claude 3.7 Sonnet",
+        "DeepSeek R1",
+        "Llama 3.3 70B Instruct",
+        "GPT-4o",
+        "GPT-5",
+        "Claude Sonnet 4.5",
+        "Gemini 2.5 Pro",
+        "Grok 4 Fast",
+        "GLM 4.6"
+      ],
+      "models_correct": []
+    },
+    {
+      "question": "Considering that metal-oxo clusters serve as secondary building units in MOF frameworks, and that one such zirconium-based cluster is employed as a catalyst for forming or breaking the covalent bond that links consecutive alpha‐amino acids in a peptide chain (a bond fundamental to the secondary structure of polyproline), what is the atomically precise metal-oxo cluster used in group 4 MOF frameworks with a specific molecular formula?",
+      "models_wrong": [
+        "Mistral Large 2402",
+        "Claude 3.7 Sonnet Thinking",
+        "Claude 3.7 Sonnet",
+        "DeepSeek R1",
+        "Llama 3.3 70B Instruct",
+        "GPT-4o",
+        "GPT-5",
+        "Claude Sonnet 4.5",
+        "Gemini 2.5 Pro",
+        "Grok 4 Fast",
+        "GLM 4.6"
+      ],
+      "models_correct": []
+    },
+    {
+      "question": "What is the entity generated through electrostatic interactions in ammonium ion pairing catalysis that induces the formation of a permanently charged, tetrahedrally arranged polyatomic ion (used as a chiral phase-transfer catalyst) from a process involving the electrocatalytic reduction of a colorless, odorless diatomic gas (which makes up about 78% of Earth’s atmosphere) on a molybdenum-based transition metal dichalcogenide known for its semiconducting properties such as fluorescence and an infrared band gap?",
+      "models_wrong": [
+        "Mistral Large 2402",
+        "Claude 3.7 Sonnet Thinking",
+        "Claude 3.7 Sonnet",
+        "DeepSeek R1",
+        "Llama 3.3 70B Instruct",
+        "GPT-4o",
+        "GPT-5",
+        "Claude Sonnet 4.5",
+        "Gemini 2.5 Pro",
+        "Grok 4 Fast",
+        "GLM 4.6"
+      ],
+      "models_correct": []
+    },
+    {
+      "question": "What is the radical or radicallike reagent that transfers hydrogen in a mechanism involving hydrogen atom transfer, where the process operates with a medium formed by the lightest, highly combustible diatomic gas that serves as a key component for forming H2SO4?",
       "models_wrong": [
         "Mistral Large 2402",
         "Claude 3.7 Sonnet Thinking",
@@ -999,75 +1033,7 @@
       "models_correct": []
     },
     {
-      "question": "What is the property exhibited by the monolayer form of a compound that is described as having its Mo atoms saturated with atoms from the group of six-valence elements, which are also commonly anions in a new class of mixed‐anion materials combining these elements with halide ions?",
-      "models_wrong": [
-        "Mistral Large 2402",
-        "Claude 3.7 Sonnet Thinking",
-        "Claude 3.7 Sonnet",
-        "DeepSeek R1",
-        "Llama 3.3 70B Instruct",
-        "GPT-4o",
-        "GPT-5",
-        "Claude Sonnet 4.5",
-        "Gemini 2.5 Pro",
-        "Grok 4 Fast",
-        "GLM 4.6"
-      ],
-      "models_correct": []
-    },
-    {
-      "question": "What is the chemical group that is incorporated at C2 of the bicyclic heteroaromatic compound, which is used as a substrate to yield reaction products via a mechanism involving distonic radical cation intermediates and single‐carbon migration from an aromatic polycyclic hydrocarbon fused onto a fluorene derivative?",
-      "models_wrong": [
-        "Mistral Large 2402",
-        "Claude 3.7 Sonnet Thinking",
-        "Claude 3.7 Sonnet",
-        "DeepSeek R1",
-        "Llama 3.3 70B Instruct",
-        "GPT-4o",
-        "GPT-5",
-        "Claude Sonnet 4.5",
-        "Gemini 2.5 Pro",
-        "Grok 4 Fast",
-        "GLM 4.6"
-      ],
-      "models_correct": []
-    },
-    {
-      "question": "What is the 3-hydroxy monocarboxylic acid, known as an Escherichia coli metabolite and used in the production of chemicals like acrylates, that is produced when a naturally occurring pyrimidine nucleobase found in RNA and synthesized from carbon dioxide undergoes degradation catalyzed by a flavin‐dependent enzyme?",
-      "models_wrong": [
-        "Mistral Large 2402",
-        "Claude 3.7 Sonnet Thinking",
-        "Claude 3.7 Sonnet",
-        "DeepSeek R1",
-        "Llama 3.3 70B Instruct",
-        "GPT-4o",
-        "GPT-5",
-        "Claude Sonnet 4.5",
-        "Gemini 2.5 Pro",
-        "Grok 4 Fast",
-        "GLM 4.6"
-      ],
-      "models_correct": []
-    },
-    {
       "question": "Starting with an electron‐acceptor compound synthesized from tetrahydrofuran and characterized by a quinodimethane backbone with cyano substitutions, which is combined with an organic compound featuring a 1,3,5-triazine skeleton (used in the production of durable plastic products) to form doped single crystals, what compound is then synthesized from that triazine-based organic compound for the preparation of NCNCNX photocatalysts?",
-      "models_wrong": [
-        "Mistral Large 2402",
-        "Claude 3.7 Sonnet Thinking",
-        "Claude 3.7 Sonnet",
-        "DeepSeek R1",
-        "Llama 3.3 70B Instruct",
-        "GPT-4o",
-        "GPT-5",
-        "Claude Sonnet 4.5",
-        "Gemini 2.5 Pro",
-        "Grok 4 Fast",
-        "GLM 4.6"
-      ],
-      "models_correct": []
-    },
-    {
-      "question": "What is the radical or radicallike reagent that transfers hydrogen in a mechanism involving hydrogen atom transfer, where the process operates with a medium formed by the lightest, highly combustible diatomic gas that serves as a key component for forming H2SO4?",
       "models_wrong": [
         "Mistral Large 2402",
         "Claude 3.7 Sonnet Thinking",
@@ -1101,7 +1067,7 @@
       "models_correct": []
     },
     {
-      "question": "Considering that metal-oxo clusters serve as secondary building units in MOF frameworks, and that one such zirconium-based cluster is employed as a catalyst for forming or breaking the covalent bond that links consecutive alpha‐amino acids in a peptide chain (a bond fundamental to the secondary structure of polyproline), what is the atomically precise metal-oxo cluster used in group 4 MOF frameworks with a specific molecular formula?",
+      "question": "What molecule has been the subject of complexation mechanism studies based on factors like binding strength and stability, particularly in light of investigations into the arrangement of interrelated components that serve as a host for an alkali metal—known for its role in battery production and mood stabilization—which acts as the activating agent for a predominant diatomic atmospheric gas that is reduced to ammonia by molybdenum‐based complexes under ambient conditions?",
       "models_wrong": [
         "Mistral Large 2402",
         "Claude 3.7 Sonnet Thinking",
@@ -1118,24 +1084,7 @@
       "models_correct": []
     },
     {
-      "question": "What process is enabled by the release of ring tension in a strained bicyclic compound, which undergoes a formal (3+1) cycloaddition with a reagent to afford halogenated bicyclic derivatives that serve as three-dimensional benzene bioisosteres used in the synthesis of propellanes?",
-      "models_wrong": [
-        "Mistral Large 2402",
-        "Claude 3.7 Sonnet Thinking",
-        "Claude 3.7 Sonnet",
-        "DeepSeek R1",
-        "Llama 3.3 70B Instruct",
-        "GPT-4o",
-        "GPT-5",
-        "Claude Sonnet 4.5",
-        "Gemini 2.5 Pro",
-        "Grok 4 Fast",
-        "GLM 4.6"
-      ],
-      "models_correct": []
-    },
-    {
-      "question": "Which small ligand undergoes a reaction that, by increasing both the oxidation state and coordination number of a metal center, activates aromatic compounds bearing halide substituents to eventually generate highly strained intermediates derived from an orthodibromo aromatic system?",
+      "question": "What is the colorless, flammable organic compound that, when it reacts with a gaseous substance produced by an energy‐intensive industrial process, forms an intermediate which is further converted into a reactive precursor that, after postsynthetic oxidation, yields linkages found in compounds containing a specific acrylohydrazide moiety?",
       "models_wrong": [
         "Mistral Large 2402",
         "Claude 3.7 Sonnet Thinking",
@@ -1169,7 +1118,58 @@
       "models_correct": []
     },
     {
-      "question": "What is the input used in manufacturing that interacts with an element known for its multiple allotropes, which is produced through a process involving a combustible gas mixture synthesized from the lightest diatomic gas that is captured by molecular sieves?",
+      "question": "Which small ligand undergoes a reaction that, by increasing both the oxidation state and coordination number of a metal center, activates aromatic compounds bearing halide substituents to eventually generate highly strained intermediates derived from an orthodibromo aromatic system?",
+      "models_wrong": [
+        "Mistral Large 2402",
+        "Claude 3.7 Sonnet Thinking",
+        "Claude 3.7 Sonnet",
+        "DeepSeek R1",
+        "Llama 3.3 70B Instruct",
+        "GPT-4o",
+        "GPT-5",
+        "Claude Sonnet 4.5",
+        "Gemini 2.5 Pro",
+        "Grok 4 Fast",
+        "GLM 4.6"
+      ],
+      "models_correct": []
+    },
+    {
+      "question": "In a reaction sequence where a hard, silvery-white transition metal catalyst (known for promoting coupling through a radical oxidative addition mechanism) activates a bench‐stable halogenated organic electrophile, which then participates in coupling that ultimately forms a specific class of products via the reductive coupling of acyl‐transfer reagents with C(sp3) electrophiles, what compounds are initially employed in these nickel‐catalyzed reductive coupling reactions?",
+      "models_wrong": [
+        "Mistral Large 2402",
+        "Claude 3.7 Sonnet Thinking",
+        "Claude 3.7 Sonnet",
+        "DeepSeek R1",
+        "Llama 3.3 70B Instruct",
+        "GPT-4o",
+        "GPT-5",
+        "Claude Sonnet 4.5",
+        "Gemini 2.5 Pro",
+        "Grok 4 Fast",
+        "GLM 4.6"
+      ],
+      "models_correct": []
+    },
+    {
+      "question": "Which class of compounds is targeted by reactions induced through a specific effect involving allyl silanes, where this effect is attributed to an element known for its use in semiconductor applications and whose melting point is calibrated under experimental conditions characterized by gigapascal-level forces?",
+      "models_wrong": [
+        "Mistral Large 2402",
+        "Claude 3.7 Sonnet Thinking",
+        "Claude 3.7 Sonnet",
+        "DeepSeek R1",
+        "Llama 3.3 70B Instruct",
+        "GPT-4o",
+        "GPT-5",
+        "Claude Sonnet 4.5",
+        "Gemini 2.5 Pro",
+        "Grok 4 Fast",
+        "GLM 4.6"
+      ],
+      "models_correct": []
+    },
+    {
+      "question": "Which compound, produced in a one-pot synthesis using commercially available starting materials, exhibits excellent stability in water, organic solvents, and under physiological conditions yet degrades rapidly under basic conditions?",
       "models_wrong": [
         "Mistral Large 2402",
         "Claude 3.7 Sonnet Thinking",

@@ -13,6 +13,7 @@ from numbers import Number
 import matplotlib.pyplot as plt
 import numpy as np
 
+from config import get_model_color
 
 CATEGORIES = (9, 10, 11)
 
@@ -474,19 +475,7 @@ def main() -> None:
     category_file = base / "results" / "unanswered_questions" / "hard_question_categories.json"
     save_question_categories(category_file, category_questions)
 
-    model_colors = {
-        "Mistral Large 2402": "#d62728",
-        "Claude 3.7 Sonnet Thinking": "#2ca02c",
-        "Claude 3.7 Sonnet": "#1f77b4",
-        "DeepSeek R1": "#ff7f0e",
-        "Llama 3.3 70B Instruct": "#9467bd",
-        "GPT-4o": "#8c564b",
-        "GPT-5": "#e377c2",
-        "Claude Sonnet 4.5": "#7f7f7f",
-        "Gemini 2.5 Pro": "#bcbd22",
-        "Grok 4 Fast": "#17becf",
-        "GLM 4.6": "#aec7e8",
-    }
+    model_colors = {model: get_model_color(model) for model in model_names}
 
     correct_token_avgs = compute_average_map(correct_tokens, correct_counts)
     incorrect_token_avgs = compute_average_map(incorrect_tokens, incorrect_counts)

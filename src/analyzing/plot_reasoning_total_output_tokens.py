@@ -5,6 +5,7 @@ from __future__ import annotations
 
 from pathlib import Path
 
+from config import get_model_color
 from plot_hard_question_grouped import (
     CATEGORIES,
     compute_hard_question_data,
@@ -97,15 +98,7 @@ def main() -> None:
     categories = list(CATEGORIES)
     plots_dir = base / "plots"
 
-    model_colors = {
-        "Claude 3.7 Sonnet Thinking": "#2ca02c",
-        "DeepSeek R1": "#ff7f0e",
-        "GPT-5": "#e377c2",
-        "Claude Sonnet 4.5": "#7f7f7f",
-        "Gemini 2.5 Pro": "#bcbd22",
-        "Grok 4 Fast": "#17becf",
-        "GLM 4.6": "#aec7e8",
-    }
+    model_colors = {model: get_model_color(model) for model in reasoning_models}
 
     plot_grouped_bar_with_std(
         categories,

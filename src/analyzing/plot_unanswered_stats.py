@@ -10,6 +10,8 @@ from typing import Dict, Iterable, List, Tuple
 import re
 import numpy as np
 
+from config import get_iterative_model_entries
+
 
 def load_records(path: Path) -> List[dict]:
     if not path.exists():
@@ -345,20 +347,9 @@ def main() -> None:
             if isinstance(question, str) and isinstance(path_list, list) and path_list:
                 qa_lookup[question.strip()] = len(path_list)
 
-    iterative_dir = base / "responses_reverified"
-    model_files = {
-        "responses_bedrock_mistral.mistral-large-2402-v1:0_reverified.jsonl": "Mistral Large 2402",
-        "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning_reverified.jsonl": "Claude 3.7 Sonnet Thinking",
-        "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0_reverified.jsonl": "Claude 3.7 Sonnet",
-        "responses_bedrock_us.deepseek.r1-v1:0-reasoning_reverified.jsonl": "DeepSeek R1",
-        "responses_openai_gpt-4o_reverified.jsonl": "GPT-4o",
-        "responses_openai_gpt-5_reverified.jsonl": "GPT-5",
-    }
-
     generated: List[Tuple[str, Path, Path]] = []
 
-    for filename, display_name in model_files.items():
-        iterative_path = iterative_dir / filename
+    for iterative_path, display_name in get_iterative_model_entries():
         if not iterative_path.exists():
             continue
 

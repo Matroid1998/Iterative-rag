@@ -11,13 +11,18 @@ from statistics import mean
 from typing import Dict, Iterable, List, Optional, Tuple
 
 MODEL_NAME_MAP: Dict[str, str] = {
-    "responses_bedrock_mistral.mistral-large-2402-v1:0": "Mistral Large",
+    "responses_bedrock_mistral.mistral-large-2402-v1:0": "Mistral Large 2402",
     "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0": "Claude 3.7 Sonnet",
-    "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning": "Claude 3.7 Sonnet (reasoning)",
+    "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning": "Claude 3.7 Sonnet Thinking",
     "responses_bedrock_us.deepseek.r1-v1:0": "DeepSeek R1",
-    "responses_bedrock_us.deepseek.r1-v1:0-reasoning": "DeepSeek R1 (reasoning)",
-    "responses_openai_gpt-4o_reverified": "GPT-4o (reverified)",
+    "responses_bedrock_us.deepseek.r1-v1:0-reasoning": "DeepSeek R1",
+    "responses_openai_gpt-4o": "GPT-4o",
     "responses_openai_gpt-5": "GPT-5",
+    "responses_bedrock_us.meta.llama3-3-70b-instruct-v1:0": "Llama 3.3 70B Instruct",
+    "responses_openrouter_anthropic__claude-sonnet-4.5": "Claude Sonnet 4.5",
+    "responses_openrouter_google__gemini-2.5-pro": "Gemini 2.5 Pro",
+    "responses_openrouter_x-ai__grok-4-fast": "Grok 4 Fast",
+    "responses_openrouter_z-ai__glm-4.6": "GLM 4.6",
 }
 
 

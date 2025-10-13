@@ -10,6 +10,8 @@ from typing import Dict, Iterable, List, Tuple, Set
 import re
 import numpy as np
 
+from config import get_iterative_model_entries
+
 
 def load_records(path: Path) -> List[dict]:
     if not path.exists():
@@ -219,7 +221,7 @@ def plot_hard_questions_tokens_by_categories(
     qa_hops: Dict[str, int],
     output_path: Path,
 ) -> None:
-    """Create a plot with 3 columns (categories 4,5,6) and 7 rows showing output tokens."""
+    """Create a plot with columns (9,10,11) showing token usage by model."""
     try:
         import matplotlib.pyplot as plt
     except ImportError as exc:  # pragma: no cover - external dependency
@@ -227,11 +229,12 @@ def plot_hard_questions_tokens_by_categories(
             "matplotlib is required for plotting. Install it with 'pip install matplotlib'."
         ) from exc
 
-    categories = ["4", "5", "6"]
+    categories = ["9", "10", "11"]
     models = list(model_data.keys())
-    
-    # Create 7x3 subplot layout (1 overview + 6 models)
-    fig, axes = plt.subplots(7, 3, figsize=(15, 20))
+
+    rows = len(models) + 1
+    cols = len(categories)
+    fig, axes = plt.subplots(rows, cols, figsize=(5 * cols, 3.2 * rows))
     
     hop_bins = [1, 2, 3, 4]
     
@@ -373,21 +376,10 @@ def main() -> None:
     # Iterative RAG directory
     iterative_dir = base / "responses_reverified"
     
-    # Model files
-    model_files = {
-        "responses_bedrock_mistral.mistral-large-2402-v1:0_reverified.jsonl": "Mistral Large 2402",
-        "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning_reverified.jsonl": "Claude 3.7 Sonnet Thinking",
-        "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0_reverified.jsonl": "Claude 3.7 Sonnet",
-        "responses_bedrock_us.deepseek.r1-v1:0-reasoning_reverified.jsonl": "DeepSeek R1",
-        "responses_openai_gpt-4o_reverified.jsonl": "GPT-4o",
-        "responses_openai_gpt-5_reverified.jsonl": "GPT-5",
-    }
-    
     # Collect data for each model
     model_data = {}
     
-    for filename, display_name in model_files.items():
-        iterative_path = iterative_dir / filename
+    for iterative_path, display_name in get_iterative_model_entries():
         if not iterative_path.exists():
             print(f"Skipping {display_name}: {iterative_path} not found")
             continue
@@ -418,7 +410,7 @@ def main() -> None:
     
     # Print some statistics
     print(f"\nOutput token statistics by category:")
-    for category in ["4", "5", "6"]:
+    for category in ["9", "10", "11"]:
         total_correct_tokens = 0
         total_incorrect_tokens = 0
         total_questions_correct = 0
