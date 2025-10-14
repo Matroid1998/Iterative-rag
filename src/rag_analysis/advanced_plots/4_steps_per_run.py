@@ -210,7 +210,7 @@ def print_efficiency_analysis(model_data):
 
 
 def main():
-    output_dir = Path('/media/torontoai/Iterative-rag/src/rag_analysis/output')
+    output_dir = Path(__file__).resolve().parents[1] / 'output'
     
     print("Loading all judgments...")
     coverage, quality, hallucination = load_all_judgments(output_dir)

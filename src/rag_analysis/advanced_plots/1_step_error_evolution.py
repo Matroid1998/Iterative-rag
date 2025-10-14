@@ -279,7 +279,7 @@ def create_alluvial_plot(merged_data, model_name='GPT-5'):
 
 
 def main():
-    output_dir = Path('/media/torontoai/Iterative-rag/src/rag_analysis/output')
+    output_dir = Path(__file__).resolve().parents[1] / 'output'
     
     print("Loading all judgments...")
     coverage, quality, hallucination = load_all_judgments(output_dir)

@@ -61,8 +61,14 @@ def main():
     problem_types = ['has_gap', 'carry_drop', 'late_hit', 'composition_failure', 'miscalibration']
     problem_labels = ['Coverage\nGap', 'Anchor\nCarry-Drop', 'Late\nHit', 'Composition\nFailure', 'Mis-\ncalibration']
     
-    # Create figure with 6 subplots (2 rows x 3 columns)
-    fig, axes = plt.subplots(2, 3, figsize=(18, 12))
+    # Create figure with dynamic subplots (3 columns)
+    n_models = len(models)
+    n_cols = 3
+    n_rows = (n_models + n_cols - 1) // n_cols
+    
+    fig, axes = plt.subplots(n_rows, n_cols, figsize=(18, 6 * n_rows))
+    if n_rows == 1:
+        axes = axes.reshape(1, -1)
     axes = axes.flatten()
     
     # Create a subplot for each model
@@ -108,6 +114,10 @@ def main():
         # Set title with total incorrect count
         ax.set_title(f'{model}\n{total_incorrect} incorrect answers', 
                     fontsize=11, fontweight='bold', pad=10)
+    
+    # Hide unused subplots
+    for idx in range(len(models), len(axes)):
+        axes[idx].axis('off')
     
     # Add overall title
     fig.suptitle('Failure Mode Prevalence Among Incorrect Answers by Model\n(% of incorrect answers that exhibit each problem)', 

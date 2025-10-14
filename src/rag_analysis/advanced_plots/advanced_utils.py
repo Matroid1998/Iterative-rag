@@ -104,8 +104,16 @@ def normalize_model_name(model: str) -> str:
         return 'Claude 3.7 + Reasoning'
     elif 'claude-3-7' in model.lower():
         return 'Claude 3.7 Sonnet'
+    elif 'claude-sonnet-4.5' in model.lower() or 'claude_sonnet_4_5' in model.lower():
+        return 'Claude Sonnet 4.5'
     elif 'claude-3-5' in model.lower():
         return 'Claude 3.5 Sonnet'
+    elif 'gemini-2.5-pro' in model.lower():
+        return 'Gemini 2.5 Pro'
+    elif 'grok-4' in model.lower():
+        return 'Grok 4 Fast'
+    elif 'glm-4.6' in model.lower():
+        return 'GLM 4.6'
     elif 'mistral' in model.lower():
         return 'Mistral Large'
     elif 'llama' in model.lower():
