@@ -45,14 +45,19 @@ def main():
         return
     
     # Create figure with 2x3 subplots
-    fig, axes = plt.subplots(2, 3, figsize=(18, 12))
+    # Calculate grid size (3 columns, enough rows to fit all models)
+    num_models = len(models)
+    ncols = 3
+    nrows = (num_models + ncols - 1) // ncols  # Ceiling division
+    
+    # Create figure with calculated subplots
+    fig, axes = plt.subplots(nrows, ncols, figsize=(18, 6 * nrows))
+    if nrows == 1:
+        axes = axes.reshape(1, -1)  # Ensure 2D array
     axes = axes.flatten()
     
     # Plot each model
     for idx, model in enumerate(models):
-        if idx >= 6:  # Only show first 6 models
-            break
-        
         ax = axes[idx]
         scores = model_scores[model]
         
@@ -102,7 +107,7 @@ def main():
         ax.grid(axis='x', alpha=0.3, linestyle='--')
     
     # Hide unused subplots
-    for idx in range(len(models), 6):
+    for idx in range(len(models), len(axes)):
         axes[idx].axis('off')
     
     # Overall title

@@ -43,7 +43,7 @@ def load_accuracies():
             accuracy = float(row['accuracy'])
             
             # Extract model name from file_name
-            model_key = file_name.replace('responses_', '').replace('_reverified.jsonl', '')
+            model_key = file_name.replace('responses_', '').replace('_reverified.jsonl', '').replace('.jsonl', '')
             
             if folder == 'Iterative-RAG':
                 iterative_rag[model_key] = accuracy
@@ -83,6 +83,9 @@ def main():
         'bedrock_us.deepseek.r1-v1:0-reasoning': 'DeepSeek R1',
         'openai_gpt-4o': 'GPT-4o',
         'openai_gpt-5': 'GPT-5',
+        'openrouter_anthropic__claude-sonnet-4.5': 'Claude Sonnet 4.5',
+        'openrouter_google__gemini-2.5-pro': 'Gemini 2.5 Pro',
+        'openrouter_x-ai__grok-4-fast': 'Grok 4 Fast',
     }
     
     # Prepare data for plotting
