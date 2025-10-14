@@ -25,6 +25,12 @@ def normalize_model_name(model: str) -> str:
         return 'Claude 3.7 Sonnet + Reasoning'
     elif 'claude-3-7' in model.lower():
         return 'Claude 3.7 Sonnet'
+    elif 'claude-sonnet-4.5' in model.lower() or 'claude_sonnet_4_5' in model.lower():
+        return 'Claude Sonnet 4.5'
+    elif 'gemini-2.5-pro' in model.lower():
+        return 'Gemini 2.5 Pro'
+    elif 'grok-4' in model.lower():
+        return 'Grok 4 Fast'
     elif 'mistral' in model.lower():
         return 'Mistral Large'
     return model
@@ -131,14 +137,18 @@ def create_box_plot(model_fusion_data, output_path):
         print("No model data found!")
         return
     
-    # Create figure with 2x3 subplots
-    fig, axes = plt.subplots(2, 3, figsize=(18, 12))
+    # Create figure with dynamic subplots (3 columns)
+    n_models = len(models)
+    n_cols = 3
+    n_rows = (n_models + n_cols - 1) // n_cols
+    
+    fig, axes = plt.subplots(n_rows, n_cols, figsize=(18, 6 * n_rows))
+    if n_rows == 1:
+        axes = axes.reshape(1, -1)
     axes = axes.flatten()
     
     # Plot each model
     for idx, model in enumerate(models):
-        if idx >= 6:  # Only show first 6 models
-            break
         
         ax = axes[idx]
         fusion_data = model_fusion_data[model]
@@ -214,7 +224,7 @@ def create_box_plot(model_fusion_data, output_path):
         ax.axhline(y=0.5, color='gray', linestyle=':', linewidth=1, alpha=0.4)
     
     # Hide unused subplots
-    for idx in range(len(models), 6):
+    for idx in range(len(models), len(axes)):
         axes[idx].axis('off')
     
     # Add legend
