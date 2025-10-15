@@ -6,7 +6,7 @@ from __future__ import annotations
 import argparse
 import json
 from pathlib import Path
-from typing import Dict, Iterable, Optional
+from typing import Dict, Iterable, List, Optional
 
 
 def parse_args() -> argparse.Namespace:
@@ -115,6 +115,118 @@ def parse_is_correct(value) -> bool:
     if isinstance(value, (int, float)):
         return bool(value)
     return False
+
+
+CATEGORY_DISPLAY_NAMES: Dict[str, str] = {
+    "response-jsonl-with-context": "Gold Context",
+    "response-jsonl-without-context": "Without Context",
+    "responses_reverified": "Iterative RAG",
+}
+
+
+def compute_total_hops(records: Iterable[dict]) -> int:
+    total = 0
+    for record in records:
+        attempts = record.get("model_attempts") or []
+        attempt_values: List[int] = []
+        for attempt in attempts:
+            hop_value = attempt.get("number_of_hops")
+            if isinstance(hop_value, (int, float)):
+                attempt_values.append(int(round(hop_value)))
+        if attempt_values:
+            total += sum(attempt_values)
+            continue
+        hops_map = record.get("number_of_hops")
+        if isinstance(hops_map, dict):
+            for value in hops_map.values():
+                if isinstance(value, (int, float)):
+                    total += int(round(value))
+    return total
+
+
+def build_unanswered_summary(unanswered_by_folder: Dict[Path, List[dict]]) -> Dict[str, Dict[str, int]]:
+    summary: Dict[str, Dict[str, int]] = {}
+    for folder, records in unanswered_by_folder.items():
+        if not records:
+            continue
+        category = CATEGORY_DISPLAY_NAMES.get(folder.name, folder.name)
+        entry = summary.setdefault(category, {"unanswered": 0, "total_hops": 0})
+        entry["unanswered"] += len(records)
+        entry["total_hops"] += compute_total_hops(records)
+    return summary
+
+
+def write_unanswered_vs_hops(spec_path: Path, summary: Dict[str, Dict[str, int]], base: Path) -> None:
+    if not summary:
+        return
+
+    category_order = [
+        CATEGORY_DISPLAY_NAMES.get("response-jsonl-without-context", "response-jsonl-without-context"),
+        CATEGORY_DISPLAY_NAMES.get("response-jsonl-with-context", "response-jsonl-with-context"),
+        CATEGORY_DISPLAY_NAMES.get("responses_reverified", "responses_reverified"),
+    ]
+    ordered_categories = []
+    for category in category_order:
+        if category in summary and category not in ordered_categories:
+            ordered_categories.append(category)
+    for category in sorted(summary.keys()):
+        if category not in ordered_categories:
+            ordered_categories.append(category)
+
+    values: List[dict] = []
+    for category in ordered_categories:
+        data = summary.get(category)
+        if not data:
+            continue
+        values.append(
+            {
+                "category": category,
+                "metric": "Unanswered Questions",
+                "value": int(data.get("unanswered", 0)),
+            }
+        )
+        values.append(
+            {
+                "category": category,
+                "metric": "Total Hops",
+                "value": int(data.get("total_hops", 0)),
+            }
+        )
+
+    spec = {
+        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+        "title": "Unanswered Questions vs Total Hops",
+        "data": {"values": values},
+        "mark": "bar",
+        "encoding": {
+            "x": {
+                "field": "category",
+                "type": "nominal",
+                "axis": {"title": "Category"},
+            },
+            "y": {
+                "field": "value",
+                "type": "quantitative",
+                "axis": {"title": "Value"},
+            },
+            "color": {
+                "field": "metric",
+                "type": "nominal",
+                "legend": {"title": "Metric"},
+            },
+            "column": {"field": "metric", "type": "nominal"},
+        },
+    }
+
+    spec_path.parent.mkdir(parents=True, exist_ok=True)
+    with spec_path.open("w", encoding="utf-8") as handle:
+        json.dump(spec, handle, ensure_ascii=False, indent=2)
+
+    try:
+        relative_spec = spec_path.relative_to(base)
+    except ValueError:
+        relative_spec = spec_path
+    print(f"Wrote Vega-Lite spec to {relative_spec}")
 
 
 def main() -> None:
@@ -334,6 +446,11 @@ def main() -> None:
                 f"{base_folder.name}: {len(answered_elsewhere_records)} unanswered here but answered elsewhere "
                 f"(written to {relative_cross})"
             )
+
+    if unanswered_by_folder:
+        summary = build_unanswered_summary(unanswered_by_folder)
+        spec_path = output_dir / "unanswered_vs_hops.vl.json"
+        write_unanswered_vs_hops(spec_path, summary, base)
 
     if errors:
         if args.show_warnings:

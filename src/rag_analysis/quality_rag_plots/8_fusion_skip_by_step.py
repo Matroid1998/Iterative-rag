@@ -19,7 +19,10 @@ def normalize_model_name(model_str):
         'bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0': 'Claude 3.7 Sonnet',
         'bedrock_us.anthropic.claude-3-7-sonnet-reasoning': 'Claude 3.7 Sonnet + Reasoning',
         'bedrock_us.anthropic.claude-3-7-sonnet': 'Claude 3.7 Sonnet',
-        'bedrock_mistral.mistral-large': 'Mistral Large'
+        'bedrock_mistral.mistral-large': 'Mistral Large',
+        'openrouter_anthropic__claude-sonnet-4.5': 'Claude Sonnet 4.5',
+        'openrouter_google__gemini-2.5-pro': 'Gemini 2.5 Pro',
+        'openrouter_x-ai__grok-4-fast': 'Grok 4 Fast',
     }
     
     # Try exact match first, then partial match

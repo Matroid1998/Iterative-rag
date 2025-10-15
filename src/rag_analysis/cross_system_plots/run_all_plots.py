@@ -27,7 +27,7 @@ def run_plot(script_name: str):
 def main():
     """Run all cross-system plots in sequence."""
     plots = [
-        '1_error_cascade.py',
+        '1_error_cascade_v2.py',
         '2_correctness_problem_heatmap.py',
         '3_efficiency_quality_tradeoff.py',
         '4_carry_drop_accuracy.py',

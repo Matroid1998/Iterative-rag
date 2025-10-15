@@ -222,8 +222,8 @@ def create_radar_chart(model_metrics):
 
 
 def main():
-    output_dir = Path('/media/torontoai/Iterative-rag/src/rag_analysis/output')
-    csv_file = Path('/media/torontoai/Iterative-rag/src/results/reverify_accuracies.csv')
+    output_dir = Path(__file__).resolve().parents[1] / 'output'
+    csv_file = Path(__file__).resolve().parents[2] / 'results' / 'reverify_accuracies.csv'
     
     print("Loading accuracy from CSV...")
     accuracy_map = load_accuracy_from_csv(csv_file)

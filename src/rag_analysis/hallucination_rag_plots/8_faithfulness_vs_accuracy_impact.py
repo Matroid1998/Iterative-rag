@@ -51,7 +51,15 @@ def main():
     n_models = len(models)
     
     # Use 2 rows of 3 columns
-    fig, axes = plt.subplots(2, 3, figsize=(18, 12))
+    # Calculate grid size (3 columns, enough rows to fit all models)
+    num_models = len(models)
+    ncols = 3
+    nrows = (num_models + ncols - 1) // ncols  # Ceiling division
+    
+    # Create figure with calculated subplots
+    fig, axes = plt.subplots(nrows, ncols, figsize=(18, 6 * nrows))
+    if nrows == 1:
+        axes = axes.reshape(1, -1)  # Ensure 2D array
     axes = axes.flatten()
     
     # Color scheme for models

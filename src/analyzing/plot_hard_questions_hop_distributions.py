@@ -10,6 +10,8 @@ from typing import Dict, Iterable, List, Tuple, Set
 import re
 import numpy as np
 
+from config import get_iterative_model_entries
+
 
 def load_records(path: Path) -> List[dict]:
     if not path.exists():
@@ -225,7 +227,7 @@ def plot_hard_questions_by_categories(
     qa_hops: Dict[str, int],
     output_path: Path,
 ) -> None:
-    """Create a plot with 3 columns (categories 4,5,6) and 7 rows (1 overview + 6 models)."""
+    """Create a plot with columns for categories (9,10,11) and one row per model."""
     try:
         import matplotlib.pyplot as plt
     except ImportError as exc:  # pragma: no cover - external dependency
@@ -233,72 +235,68 @@ def plot_hard_questions_by_categories(
             "matplotlib is required for plotting. Install it with 'pip install matplotlib'."
         ) from exc
 
-    categories = ["4", "5", "6"]
+    categories = ["9", "10", "11"]
     models = list(model_data.keys())
-    
-    # Create 7x3 subplot layout (1 overview + 6 models)
-    fig, axes = plt.subplots(7, 3, figsize=(15, 20))
-    
+
+    if not categories or not models:
+        print("No data available for hard question categories plot")
+        return
+
+    rows = len(models) + 1
+    cols = len(categories)
+    fig, axes = plt.subplots(rows, cols, figsize=(5 * cols, 3.2 * rows))
+
     hop_bins = [1, 2, 3, 4]
-    
-    # First row: Overall hop distribution for each category
+
     combined_data = {}
     for category in categories:
-        combined_hop_values = []
+        combined_hop_values: List[int] = []
         for model in models:
             if category in model_data[model]:
                 hop_values, _, _ = model_data[model][category]
                 combined_hop_values.extend(hop_values)
         combined_data[category] = combined_hop_values
-    
+
     for col, category in enumerate(categories):
         ax = axes[0, col]
         ax.set_title(f"{category} models wrong", fontweight='bold', fontsize=12)
-        
         if col == 0:
             ax.set_ylabel("Hard questions", fontweight='bold')
-        
+
         hop_values = combined_data[category]
         if hop_values:
             counts = Counter(hop_values)
             heights = [counts.get(bin_value, 0) for bin_value in hop_bins]
             bars = ax.bar(hop_bins, heights, color="#7f7f7f", alpha=0.8)
             ax.bar_label(bars, padding=2, fontsize=10, fontweight='bold')
-        
+        else:
+            ax.text(0.5, 0.5, "No data", ha="center", va="center", transform=ax.transAxes)
+
         ax.set_xticks(hop_bins)
         ax.set_xlim(0.5, 4.5)
         ax.set_xlabel("Number of Hops")
         ax.grid(axis='y', alpha=0.3)
-    
-    # Rows 1-6: Individual models with correct/incorrect bars by max source step
+
     for row, model in enumerate(models, start=1):
         for col, category in enumerate(categories):
             ax = axes[row, col]
-            
-            # Get data for this model and category
-            if category in model_data[model]:
-                hop_values, correct_steps, incorrect_steps = model_data[model][category]
-            else:
-                hop_values, correct_steps, incorrect_steps = [], [], []
-            
-            if col == 0:  # Add model name only to first column
-                ax.set_ylabel(f"{model}", fontweight='bold', fontsize=10)
-            
-            # Find the range of steps
+            hop_values, correct_steps, incorrect_steps = model_data.get(model, {}).get(category, ([], [], []))
+
+            if col == 0:
+                ax.set_ylabel(model, fontweight='bold', fontsize=10)
+
             all_steps = correct_steps + incorrect_steps
             if all_steps:
                 max_step = max(all_steps)
                 step_ticks = list(range(1, max_step + 1))
                 x_positions = np.arange(len(step_ticks))
                 bar_width = 0.35
-                
-                # Count correct and incorrect by step
+
                 correct_counts = Counter(correct_steps)
                 incorrect_counts = Counter(incorrect_steps)
                 correct_heights = [correct_counts.get(step, 0) for step in step_ticks]
                 incorrect_heights = [incorrect_counts.get(step, 0) for step in step_ticks]
-                
-                # Plot bars
+
                 bars_correct = ax.bar(
                     x_positions - bar_width / 2,
                     correct_heights,
@@ -313,30 +311,28 @@ def plot_hard_questions_by_categories(
                     color="#d62728",
                     label="Unresolved" if row == 1 and col == 0 else "",
                 )
-                
-                # Add value labels
+
                 ax.bar_label(bars_correct, padding=2, fontsize=8)
                 ax.bar_label(bars_incorrect, padding=2, fontsize=8)
-                
                 ax.set_xticks(x_positions)
                 ax.set_xticklabels(step_ticks)
                 ax.set_xlim(-0.5, len(step_ticks) - 0.5)
-                
-                # Add legend only to first subplot
+
                 if row == 1 and col == 0:
                     ax.legend(loc="upper right", fontsize=9)
             else:
-                # No data for this model/category combination
-                ax.text(0.5, 0.5, "No data", ha="center", va="center", 
-                       transform=ax.transAxes, fontsize=10, color='gray')
+                ax.text(0.5, 0.5, "No data", ha="center", va="center", transform=ax.transAxes, fontsize=10, color='gray')
                 ax.set_xticks([])
                 ax.set_yticks([])
-            
+
             ax.set_xlabel("Max source step")
             ax.grid(axis='y', alpha=0.3)
-    
-    plt.suptitle("Hard Questions: Hop Distribution and Model Performance by Category", 
-                 fontsize=16, fontweight='bold')
+
+    plt.suptitle(
+        "Hard Questions: Hop Distribution and Model Performance by Category",
+        fontsize=16,
+        fontweight='bold',
+    )
     plt.tight_layout(rect=[0, 0.02, 1, 0.96])
     output_path.parent.mkdir(parents=True, exist_ok=True)
     fig.savefig(output_path, dpi=200, bbox_inches='tight')
@@ -365,24 +361,10 @@ def main() -> None:
     qa_hops = load_qa_hops(qa_path)
     print(f"Loaded hop data for {len(qa_hops)} questions")
     
-    # Iterative RAG directory
-    iterative_dir = base / "responses_reverified"
-    
-    # Model files
-    model_files = {
-        "responses_bedrock_mistral.mistral-large-2402-v1:0_reverified.jsonl": "Mistral Large 2402",
-        "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning_reverified.jsonl": "Claude 3.7 Sonnet Thinking",
-        "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0_reverified.jsonl": "Claude 3.7 Sonnet",
-        "responses_bedrock_us.deepseek.r1-v1:0-reasoning_reverified.jsonl": "DeepSeek R1",
-        "responses_openai_gpt-4o_reverified.jsonl": "GPT-4o",
-        "responses_openai_gpt-5_reverified.jsonl": "GPT-5",
-    }
-    
     # Collect data for each model
     model_data = {}
     
-    for filename, display_name in model_files.items():
-        iterative_path = iterative_dir / filename
+    for iterative_path, display_name in get_iterative_model_entries():
         if not iterative_path.exists():
             print(f"Skipping {display_name}: {iterative_path} not found")
             continue
@@ -413,7 +395,7 @@ def main() -> None:
     
     # Print some statistics
     print(f"\nStatistics by category:")
-    for category in ["4", "5", "6"]:
+    for category in ["9", "10", "11"]:
         total_attempts = 0
         total_correct = 0
         total_incorrect = 0

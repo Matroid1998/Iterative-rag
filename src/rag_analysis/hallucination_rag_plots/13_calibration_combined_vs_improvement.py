@@ -44,12 +44,23 @@ def load_accuracies():
             accuracy = float(row['accuracy'])
             
             # Extract model name from file_name
-            model_key = file_name.replace('responses_', '').replace('_reverified.jsonl', '')
+            model_key = file_name.replace('responses_', '').replace('_reverified.jsonl', '').replace('.jsonl', '')
             
             if folder == 'Iterative-RAG':
                 iterative_rag[model_key] = accuracy
             elif folder == 'response-jsonl-with-context':
                 gold_context[model_key] = accuracy
+                
+                # Also handle alternative naming patterns for new models
+                # Claude Sonnet 4.5: openrouter_anthropic_claude_sonnet_4_5_reasoning → openrouter_anthropic__claude-sonnet-4.5
+                if 'openrouter_anthropic_claude_sonnet_4_5' in model_key:
+                    gold_context['openrouter_anthropic__claude-sonnet-4.5'] = accuracy
+                # Gemini 2.5 Pro: openrouter_google__gemini-2.5-pro-reasoning → openrouter_google__gemini-2.5-pro
+                elif 'openrouter_google__gemini-2.5-pro' in model_key:
+                    gold_context['openrouter_google__gemini-2.5-pro'] = accuracy
+                # Grok 4 Fast: openrouter_x-ai__grok-4-fast-reasoning → openrouter_x-ai__grok-4-fast
+                elif 'openrouter_x-ai__grok-4-fast' in model_key:
+                    gold_context['openrouter_x-ai__grok-4-fast'] = accuracy
     
     # Manually add GPT-5 gold context accuracy
     gold_context['openai_gpt-5'] = 0.7168
@@ -104,6 +115,9 @@ def main():
         'bedrock_us.deepseek.r1-v1:0-reasoning': 'DeepSeek R1',
         'openai_gpt-4o': 'GPT-4o',
         'openai_gpt-5': 'GPT-5',
+        'openrouter_anthropic__claude-sonnet-4.5': 'Claude Sonnet 4.5',
+        'openrouter_google__gemini-2.5-pro': 'Gemini 2.5 Pro',
+        'openrouter_x-ai__grok-4-fast': 'Grok 4 Fast',
     }
     
     # Prepare data for plotting

@@ -9,6 +9,9 @@ from pathlib import Path
 from typing import Dict, Iterable, List, Tuple
 import re
 import numpy as np
+from math import ceil
+
+from config import get_iterative_model_entries
 
 
 def load_records(path: Path) -> List[dict]:
@@ -199,7 +202,7 @@ def plot_combined_model_correctness(
     model_data: Dict[str, Tuple[List[int], List[int]]],
     output_path: Path,
 ) -> None:
-    """Create a single plot with 6 subplots showing correctness by max source step for each model."""
+    """Create a single plot with subplots showing correctness by max source step for each model."""
     try:
         import matplotlib.pyplot as plt
     except ImportError as exc:  # pragma: no cover - external dependency
@@ -207,30 +210,35 @@ def plot_combined_model_correctness(
             "matplotlib is required for plotting. Install it with 'pip install matplotlib'."
         ) from exc
 
-    # Create 2x3 subplot layout
-    fig, axes = plt.subplots(2, 3, figsize=(18, 12))
-    axes = axes.flatten()
-    
     model_names = list(model_data.keys())
-    
+
+    if not model_names:
+        print("No model data available for combined correctness plot.")
+        return
+
+    cols = 4 if len(model_names) > 6 else 3
+    rows = ceil(len(model_names) / cols)
+    fig, axes = plt.subplots(rows, cols, figsize=(cols * 5, rows * 4.5))
+    axes = axes.flatten()
+
     for idx, (model_name, (correct_steps, incorrect_steps)) in enumerate(model_data.items()):
-        if idx < len(axes):
-            plot_single_model_correctness(
-                correct_steps,
-                incorrect_steps,
-                model_name,
-                axes[idx]
-            )
-            
-            # Add legend only to the first subplot
-            if idx == 0:
-                axes[idx].legend(loc="upper right")
-    
-    # Hide any unused subplots
+        plot_single_model_correctness(
+            correct_steps,
+            incorrect_steps,
+            model_name,
+            axes[idx],
+        )
+        if idx == 0:
+            axes[idx].legend(loc="upper right")
+
     for idx in range(len(model_names), len(axes)):
         axes[idx].set_visible(False)
-    
-    plt.suptitle("Model Performance: Correct vs Incorrect by Max Source Step", fontsize=16, fontweight='bold')
+
+    plt.suptitle(
+        "Model Performance: Correct vs Incorrect by Max Source Step",
+        fontsize=16,
+        fontweight='bold',
+    )
     plt.tight_layout(rect=[0, 0.03, 1, 0.95])
     output_path.parent.mkdir(parents=True, exist_ok=True)
     fig.savefig(output_path, dpi=200, bbox_inches='tight')
@@ -266,21 +274,10 @@ def main() -> None:
             if isinstance(question, str) and isinstance(path_list, list) and path_list:
                 qa_lookup[question.strip()] = len(path_list)
 
-    # Model files for iterative RAG
-    model_files = {
-        "responses_bedrock_mistral.mistral-large-2402-v1:0_reverified.jsonl": "Mistral Large 2402",
-        "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning_reverified.jsonl": "Claude 3.7 Sonnet Thinking",
-        "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0_reverified.jsonl": "Claude 3.7 Sonnet",
-        "responses_bedrock_us.deepseek.r1-v1:0-reasoning_reverified.jsonl": "DeepSeek R1",
-        "responses_openai_gpt-4o_reverified.jsonl": "GPT-4o",
-        "responses_openai_gpt-5_reverified.jsonl": "GPT-5",
-    }
-
     # Collect data for all models
     model_data: Dict[str, Tuple[List[int], List[int]]] = {}
 
-    for filename, display_name in model_files.items():
-        iterative_path = iterative_dir / filename
+    for iterative_path, display_name in get_iterative_model_entries():
         if not iterative_path.exists():
             print(f"Skipping {display_name}: {iterative_path} not found")
             continue

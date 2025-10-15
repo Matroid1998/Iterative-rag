@@ -10,6 +10,9 @@ from typing import Dict, Iterable, List, Tuple
 import matplotlib.pyplot as plt
 import numpy as np
 
+from config import get_model_color
+from plot_hard_question_grouped import CATEGORIES
+
 
 def iter_records(path: Path) -> Iterable[dict]:
     with path.open("r", encoding="utf-8") as handle:
@@ -91,8 +94,13 @@ def main() -> None:
         ("responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning_reverified.jsonl", "Claude 3.7 Sonnet Thinking"),
         ("responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0_reverified.jsonl", "Claude 3.7 Sonnet"),
         ("responses_bedrock_us.deepseek.r1-v1:0-reasoning_reverified.jsonl", "DeepSeek R1"),
+        ("responses_bedrock_us.meta.llama3-3-70b-instruct-v1:0_reverified.jsonl", "Llama 3.3 70B Instruct"),
         ("responses_openai_gpt-4o_reverified.jsonl", "GPT-4o"),
         ("responses_openai_gpt-5_reverified.jsonl", "GPT-5"),
+        ("responses_openrouter_anthropic__claude-sonnet-4.5_reverified.jsonl", "Claude Sonnet 4.5"),
+        ("responses_openrouter_google__gemini-2.5-pro_reverified.jsonl", "Gemini 2.5 Pro"),
+        ("responses_openrouter_x-ai__grok-4-fast_reverified.jsonl", "Grok 4 Fast"),
+        ("responses_openrouter_z-ai__glm-4.6_reverified.jsonl", "GLM 4.6"),
     ]
 
     model_answers: Dict[str, Dict[str, bool]] = {}
@@ -111,7 +119,7 @@ def main() -> None:
         raise SystemExit("No questions available after loading model responses")
     common_questions = set.intersection(*question_sets)
 
-    categories = [4, 5, 6]
+    categories = list(CATEGORIES)
     model_names = list(model_answers.keys())
     category_counts: Dict[int, Dict[str, int]] = {
         cat: {model: 0 for model in model_names} for cat in categories
@@ -126,14 +134,7 @@ def main() -> None:
                 if model_answers[model].get(question, False):
                     category_counts[wrong_count][model] += 1
 
-    model_colors = {
-        "Mistral Large 2402": "#d62728",
-        "Claude 3.7 Sonnet Thinking": "#2ca02c",
-        "Claude 3.7 Sonnet": "#7f7f7f",
-        "DeepSeek R1": "#ff9896",
-        "GPT-4o": "#98df8a",
-        "GPT-5": "#c7c7c7",
-    }
+    model_colors = {model: get_model_color(model) for model in model_names}
 
     output_path = base / "plots" / "hard_questions_correct_stacked.png"
     plot_hard_question_stack(categories, model_names, model_colors, category_counts, output_path)

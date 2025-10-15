@@ -13,10 +13,32 @@ Consolidated into 2 separate plots.
 from __future__ import annotations
 
 import json
+import re
 from collections import Counter, defaultdict
 from pathlib import Path
 from typing import Dict, List, Tuple
 import numpy as np
+
+from config import get_display_name, get_iterative_display_names
+
+
+def _simplify_name(name: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "", name.lower())
+
+
+def _build_canonical_map(names: List[str]) -> Dict[str, str]:
+    return {_simplify_name(name): name for name in names}
+
+
+def _canonicalize_display_name(name: str, canonical_map: Dict[str, str]) -> str:
+    simplified = _simplify_name(name)
+    if simplified in canonical_map:
+        return canonical_map[simplified]
+    if simplified.endswith("reasoning"):
+        base = simplified[: -len("reasoning")]
+        if base in canonical_map:
+            return canonical_map[base]
+    return name
 
 
 def load_records(path: Path) -> List[dict]:
@@ -93,7 +115,9 @@ def load_qa_hops(qa_path: Path) -> Dict[str, int]:
 
 
 def get_unanswered_questions_by_model(
-    unanswered_file: Path, qa_hops: Dict[str, int]
+    unanswered_file: Path,
+    qa_hops: Dict[str, int],
+    allowed_models: List[str],
 ) -> Dict[str, List[int]]:
     """
     For each model, get the list of hop counts for unanswered questions.
@@ -115,6 +139,8 @@ def get_unanswered_questions_by_model(
         print(f"Warning: {unanswered_file} not found")
         return {}
     
+    canonical_map = _build_canonical_map(allowed_models)
+    allowed_set = set(allowed_models)
     model_unanswered_hops = defaultdict(list)
     
     records = load_records(unanswered_file)
@@ -135,56 +161,25 @@ def get_unanswered_questions_by_model(
         if not hop_count:
             continue
         
-        # Get models that failed this question from model_attempts
         model_attempts = record.get("model_attempts", [])
         for attempt in model_attempts:
-            if not attempt.get("is_correct", True):  # If not correct or no is_correct field
-                model_file = attempt.get("file", "")
-                # Extract model name from filename
-                if model_file:
-                    # Parse model name from filename patterns
-                    if 'mistral' in model_file.lower():
-                        model = 'Mistral Large'
-                    elif 'gpt-5' in model_file.lower():
-                        model = 'GPT-5'
-                    elif 'gpt-4o' in model_file.lower():
-                        model = 'GPT-4o'
-                    elif 'deepseek' in model_file.lower() and 'r1' in model_file.lower():
-                        model = 'DeepSeek R1'
-                    elif 'claude-3-7' in model_file.lower() or 'claude-3.7' in model_file.lower():
-                        if 'reasoning' in model_file.lower():
-                            model = 'Claude 3.7 Sonnet Thinking'
-                        else:
-                            model = 'Claude 3.7 Sonnet'
-                    else:
-                        continue
-                    
-                    model_unanswered_hops[model].append(hop_count)
-    
+            if attempt.get("is_correct", True):
+                continue
+            model_file = attempt.get("file", "")
+            if not model_file:
+                continue
+            model_stem = Path(model_file).stem
+            display_name = _canonicalize_display_name(
+                get_display_name(model_stem),
+                canonical_map,
+            )
+            if display_name in allowed_set:
+                model_unanswered_hops[display_name].append(hop_count)
+
+    for model in allowed_models:
+        model_unanswered_hops.setdefault(model, [])
+
     return dict(model_unanswered_hops)
-
-
-def normalize_model_name(model: str) -> str:
-    """Normalize model names to display names."""
-    model_lower = model.lower()
-    
-    if 'mistral' in model_lower and 'large' in model_lower:
-        return 'Mistral Large'
-    elif 'gpt-4o' in model_lower:
-        return 'GPT-4o'
-    elif 'gpt-5' in model_lower or 'openai-gpt-5' in model_lower:
-        return 'GPT-5'
-    elif 'deepseek' in model_lower and 'r1' in model_lower:
-        return 'DeepSeek R1'
-    elif 'claude-3-7' in model_lower or 'claude-3.7' in model_lower:
-        if 'reasoning' in model_lower or 'thinking' in model_lower:
-            return 'Claude 3.7 Sonnet Thinking'
-        else:
-            return 'Claude 3.7 Sonnet'
-    elif 'claude' in model_lower:
-        return 'Claude 3.7 Sonnet'
-    
-    return model
 
 
 def plot_unanswered_questions_no_context(
@@ -226,16 +221,17 @@ def plot_unanswered_questions_no_context(
         model_counts[model] = [counter.get(hop, 0) for hop in hop_range]
     
     # Create the plot
-    fig, ax = plt.subplots(figsize=(14, 8))
-    
+    fig, ax = plt.subplots(figsize=(max(14, len(model_order) * 1.6), 8))
+
     x = np.arange(len(model_order))
-    bar_width = 0.15
-    colors = ['#2ca02c', '#98df8a', '#d5e8d4', '#aec7e8', '#1f77b4']
+    bar_width = 0.8 / max(1, len(hop_range))
+    cmap = plt.get_cmap("tab10")
+    colors = [cmap(i % cmap.N) for i in range(len(hop_range))]
     
     # Plot bars for each hop
     for i, hop in enumerate(hop_range):
         counts = [model_counts[model][i] for model in model_order]
-        offset = (i - len(hop_range) / 2) * bar_width + bar_width / 2
+        offset = (i - (len(hop_range) - 1) / 2) * bar_width
         bars = ax.bar(x + offset, counts, bar_width, 
                      label=f'Hop {hop}', color=colors[i % len(colors)],
                      edgecolor='black', linewidth=0.8)
@@ -303,16 +299,17 @@ def plot_unanswered_questions_gold_context(
         model_counts[model] = [counter.get(hop, 0) for hop in hop_range]
     
     # Create the plot
-    fig, ax = plt.subplots(figsize=(14, 8))
-    
+    fig, ax = plt.subplots(figsize=(max(14, len(model_order) * 1.6), 8))
+
     x = np.arange(len(model_order))
-    bar_width = 0.15
-    colors = ['#2ca02c', '#98df8a', '#d5e8d4', '#aec7e8', '#1f77b4']
+    bar_width = 0.8 / max(1, len(hop_range))
+    cmap = plt.get_cmap("tab10")
+    colors = [cmap(i % cmap.N) for i in range(len(hop_range))]
     
     # Plot bars for each hop
     for i, hop in enumerate(hop_range):
         counts = [model_counts[model][i] for model in model_order]
-        offset = (i - len(hop_range) / 2) * bar_width + bar_width / 2
+        offset = (i - (len(hop_range) - 1) / 2) * bar_width
         bars = ax.bar(x + offset, counts, bar_width,
                      label=f'Hop {hop}', color=colors[i % len(colors)],
                      edgecolor='black', linewidth=0.8)
@@ -358,19 +355,16 @@ def main() -> None:
     print(f"Loaded hop data for {len(qa_hops)} questions")
     
     # Model order as specified
-    model_order = [
-        "Mistral Large",
-        "GPT-4o", 
-        "Claude 3.7 Sonnet",
-        "Claude 3.7 Sonnet Thinking",
-        "GPT-5",
-        "DeepSeek R1"
-    ]
+    model_order = get_iterative_display_names(existing_only=True)
+    if not model_order:
+        raise SystemExit("No reverified response files found when building model order")
     
     # Process No Context unanswered questions
     print("\nLoading unanswered questions (No Context)...")
     no_context_file = results_dir / "response-jsonl-without-context_unanswered.jsonl"
-    model_unanswered_no_context = get_unanswered_questions_by_model(no_context_file, qa_hops)
+    model_unanswered_no_context = get_unanswered_questions_by_model(
+        no_context_file, qa_hops, model_order
+    )
     
     for model in model_order:
         count = len(model_unanswered_no_context.get(model, []))
@@ -379,7 +373,9 @@ def main() -> None:
     # Process Gold Context unanswered questions
     print("\nLoading unanswered questions (Gold Context)...")
     gold_context_file = results_dir / "response-jsonl-with-context_unanswered.jsonl"
-    model_unanswered_gold_context = get_unanswered_questions_by_model(gold_context_file, qa_hops)
+    model_unanswered_gold_context = get_unanswered_questions_by_model(
+        gold_context_file, qa_hops, model_order
+    )
     
     for model in model_order:
         count = len(model_unanswered_gold_context.get(model, []))

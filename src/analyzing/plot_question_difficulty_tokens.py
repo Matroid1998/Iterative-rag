@@ -21,6 +21,10 @@ REASONING_MODEL_KEYS = {
     "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning",
     "responses_bedrock_us.deepseek.r1-v1:0-reasoning",
     "responses_openai_gpt-5",
+    "responses_openrouter_anthropic__claude-sonnet-4.5",
+    "responses_openrouter_google__gemini-2.5-pro",
+    "responses_openrouter_x-ai__grok-4-fast",
+    "responses_openrouter_z-ai__glm-4.6",
 }
 
 
@@ -112,7 +116,7 @@ def plot_two_series(
     print(f"Saved {output_path}")
 
 
-def plot_hop_bar_chart(easy_questions, hard_questions, output_path: Path) -> None:
+def plot_hop_bar_chart(easy_questions, hard_questions, output_path: Path, hard_label: str) -> None:
     def count_hops(question_map) -> Counter:
         counter: Counter = Counter()
         for records in question_map.values():
@@ -137,7 +141,7 @@ def plot_hop_bar_chart(easy_questions, hard_questions, output_path: Path) -> Non
 
     fig, ax = plt.subplots(figsize=(max(6, len(hop_values) * 1.6), 5))
     ax.bar([x - width / 2 for x in x_positions], easy_values, width=width, label="Easy", color="#55a868")
-    ax.bar([x + width / 2 for x in x_positions], hard_values, width=width, label="Hard (≥4 wrong)", color="#c44e52")
+    ax.bar([x + width / 2 for x in x_positions], hard_values, width=width, label=hard_label, color="#c44e52")
 
     ax.set_xticks(list(x_positions))
     ax.set_xticklabels([str(hop) for hop in hop_values])
@@ -180,33 +184,47 @@ def main() -> None:
 
     easy_questions = load_question_map_jsonl(easy_path)
     hard_questions_min4 = load_question_map_jsonl(hard_path)
+    hard_questions_min9 = filter_hard_questions_by_wrong_count(hard_questions_min4, min_wrong=9)
     hard_questions_3 = filter_hard_questions_by_wrong_count(hard_questions_min4, exact_wrong=3)
     hard_questions_4 = filter_hard_questions_by_wrong_count(hard_questions_min4, exact_wrong=4)
     hard_questions_5 = filter_hard_questions_by_wrong_count(hard_questions_min4, exact_wrong=5)
     hard_questions_6 = filter_hard_questions_by_wrong_count(hard_questions_min4, exact_wrong=6)
+    hard_questions_10 = filter_hard_questions_by_wrong_count(hard_questions_min4, exact_wrong=10)
 
     easy_summary = summarise_token_usage(easy_questions, only_wrong=False)
-    hard_summary_min4 = summarise_token_usage(hard_questions_min4, only_wrong=True)
+    hard_summary_min9 = summarise_token_usage(hard_questions_min9, only_wrong=True)
     hard_summary_3 = summarise_token_usage(hard_questions_3, only_wrong=True)
     hard_summary_4 = summarise_token_usage(hard_questions_4, only_wrong=True)
     hard_summary_5 = summarise_token_usage(hard_questions_5, only_wrong=True)
     hard_summary_6 = summarise_token_usage(hard_questions_6, only_wrong=True)
+    hard_summary_10 = summarise_token_usage(hard_questions_10, only_wrong=True)
 
-    all_models = collect_models(easy_questions, hard_questions_min4, hard_questions_3, hard_questions_4, hard_questions_5, hard_questions_6)
+    all_models = collect_models(
+        easy_questions,
+        hard_questions_min4,
+        hard_questions_min9,
+        hard_questions_3,
+        hard_questions_4,
+        hard_questions_5,
+        hard_questions_6,
+        hard_questions_10,
+    )
 
     reasoning_easy = prepare_series(easy_summary, "reasoning_avg")
-    reasoning_hard_min4 = prepare_series(hard_summary_min4, "reasoning_avg")
+    reasoning_hard_min9 = prepare_series(hard_summary_min9, "reasoning_avg")
     reasoning_hard_3 = prepare_series(hard_summary_3, "reasoning_avg")
     reasoning_hard_4 = prepare_series(hard_summary_4, "reasoning_avg")
     reasoning_hard_5 = prepare_series(hard_summary_5, "reasoning_avg")
     reasoning_hard_6 = prepare_series(hard_summary_6, "reasoning_avg")
+    reasoning_hard_10 = prepare_series(hard_summary_10, "reasoning_avg")
 
     output_easy = prepare_series(easy_summary, "output_avg")
-    output_hard_min4 = prepare_series(hard_summary_min4, "output_avg")
+    output_hard_min9 = prepare_series(hard_summary_min9, "output_avg")
     output_hard_3 = prepare_series(hard_summary_3, "output_avg")
     output_hard_4 = prepare_series(hard_summary_4, "output_avg")
     output_hard_5 = prepare_series(hard_summary_5, "output_avg")
     output_hard_6 = prepare_series(hard_summary_6, "output_avg")
+    output_hard_10 = prepare_series(hard_summary_10, "output_avg")
 
     repo_root = SCRIPT_DIR.parents[1]
     plots_dir = repo_root / "src" / "plots"
@@ -215,10 +233,10 @@ def main() -> None:
     plot_two_series(
         all_models,
         reasoning_easy,
-        reasoning_hard_min4,
+        reasoning_hard_min9,
         "Easy",
-        "≥4 wrong",
-        "Average reasoning tokens (easy vs ≥4 wrong questions)",
+        "≥9 wrong",
+        "Average reasoning tokens (easy vs ≥9 wrong questions)",
         "Average reasoning tokens",
         plots_dir / "question_difficulty_reasoning_tokens_min4.png",
         allowed_models=REASONING_MODEL_KEYS,
@@ -227,10 +245,10 @@ def main() -> None:
     plot_two_series(
         all_models,
         output_easy,
-        output_hard_min4,
+        output_hard_min9,
         "Easy",
-        "≥4 wrong",
-        "Average output tokens (easy vs ≥4 wrong questions)",
+        "≥9 wrong",
+        "Average output tokens (easy vs ≥9 wrong questions)",
         "Average output tokens",
         plots_dir / "question_difficulty_output_tokens_min4.png",
     )
@@ -238,10 +256,10 @@ def main() -> None:
     plot_two_series(
         all_models,
         output_easy,
-        output_hard_min4,
+        output_hard_min9,
         "Easy",
-        "≥4 wrong",
-        "Average output tokens (reasoning models, ≥4 wrong)",
+        "≥9 wrong",
+        "Average output tokens (reasoning models, ≥9 wrong)",
         "Average output tokens",
         plots_dir / "question_difficulty_output_tokens_reasoning_min4.png",
         allowed_models=REASONING_MODEL_KEYS,
@@ -273,11 +291,11 @@ def main() -> None:
 
     plot_two_series(
         all_models,
-        reasoning_hard_3,
         reasoning_hard_5,
-        "3 wrong",
+        reasoning_hard_10,
         "5 wrong",
-        "Average reasoning tokens (3 wrong vs 5 wrong questions)",
+        "10 wrong",
+        "Average reasoning tokens (5 wrong vs 10 wrong questions)",
         "Average reasoning tokens",
         plots_dir / "question_difficulty_reasoning_tokens_3_vs_5.png",
         allowed_models=REASONING_MODEL_KEYS,
@@ -285,11 +303,11 @@ def main() -> None:
 
     plot_two_series(
         all_models,
-        output_hard_3,
         output_hard_5,
-        "3 wrong",
+        output_hard_10,
         "5 wrong",
-        "Average output tokens (3 wrong vs 5 wrong questions)",
+        "10 wrong",
+        "Average output tokens (5 wrong vs 10 wrong questions)",
         "Average output tokens",
         plots_dir / "question_difficulty_output_tokens_3_vs_5.png",
     )
@@ -319,8 +337,9 @@ def main() -> None:
 
     plot_hop_bar_chart(
         easy_questions,
-        hard_questions_min4,
+        hard_questions_min9,
         plots_dir / "question_difficulty_hop_distribution_min4.png",
+        "Hard (≥9 wrong)",
     )
 
 

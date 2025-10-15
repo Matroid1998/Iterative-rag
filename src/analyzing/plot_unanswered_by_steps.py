@@ -13,10 +13,36 @@ Consolidated into 2 separate plots.
 from __future__ import annotations
 
 import json
-from collections import Counter
+from collections import Counter, defaultdict
 from pathlib import Path
 from typing import Dict, List, Set
 import numpy as np
+import re
+
+from config import (
+    get_iterative_model_entries,
+    get_iterative_display_names,
+    get_display_name,
+)
+
+
+def _simplify_name(name: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "", name.lower())
+
+
+def _build_canonical_map(names: List[str]) -> Dict[str, str]:
+    return {_simplify_name(name): name for name in names}
+
+
+def _canonicalize_display_name(name: str, canonical_map: Dict[str, str]) -> str:
+    simplified = _simplify_name(name)
+    if simplified in canonical_map:
+        return canonical_map[simplified]
+    if simplified.endswith("reasoning"):
+        base = simplified[: -len("reasoning")]
+        if base in canonical_map:
+            return canonical_map[base]
+    return name
 
 
 def load_records(path: Path) -> List[dict]:
@@ -180,16 +206,17 @@ def plot_unanswered_questions(
         model_counts[model] = [counter.get(step, 0) for step in step_range]
     
     # Create the plot
-    fig, ax = plt.subplots(figsize=(14, 8))
-    
+    fig, ax = plt.subplots(figsize=(max(14, len(model_order) * 1.6), 8))
+
     x = np.arange(len(model_order))
-    bar_width = 0.15
-    colors = ['#2ca02c', '#98df8a', '#d5e8d4', '#aec7e8', '#1f77b4']
+    bar_width = 0.8 / max(1, len(step_range))
+    cmap = plt.get_cmap("tab10")
+    colors = [cmap(i % cmap.N) for i in range(len(step_range))]
     
     # Plot bars for each step
     for i, step in enumerate(step_range):
         counts = [model_counts[model][i] for model in model_order]
-        offset = (i - len(step_range) / 2) * bar_width + bar_width / 2
+        offset = (i - (len(step_range) - 1) / 2) * bar_width
         bars = ax.bar(x + offset, counts, bar_width, 
                      label=f'Step {step}', color=colors[i % len(colors)],
                      edgecolor='black', linewidth=0.8)
@@ -233,23 +260,12 @@ def main() -> None:
     
     # Model files mapping
     model_files = {
-        "responses_bedrock_mistral.mistral-large-2402-v1:0_reverified.jsonl": "Mistral Large",
-        "responses_openai_gpt-4o_reverified.jsonl": "GPT-4o",
-        "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0_reverified.jsonl": "Claude 3.7 Sonnet",
-        "responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning_reverified.jsonl": "Claude 3.7 Sonnet Thinking",
-        "responses_openai_gpt-5_reverified.jsonl": "GPT-5",
-        "responses_bedrock_us.deepseek.r1-v1:0-reasoning_reverified.jsonl": "DeepSeek R1",
+        path.name: display_name
+        for path, display_name in get_iterative_model_entries()
     }
-    
+
     # Model order as specified
-    model_order = [
-        "Mistral Large",
-        "GPT-4o", 
-        "Claude 3.7 Sonnet",
-        "Claude 3.7 Sonnet Thinking",
-        "GPT-5",
-        "DeepSeek R1"
-    ]
+    model_order = get_iterative_display_names(existing_only=True)
     
     # Process No Context unanswered questions
     print("Loading unanswered questions (No Context)...")
@@ -277,11 +293,23 @@ def main() -> None:
     print("\nGenerating Plot 1: Questions Recovered - No Context...")
     plot1_path = output_dir / "solved_questions_no_context.png"
     plot_unanswered_questions(model_steps_no_context, plot1_path, model_order, "No Context")
+    plot_unanswered_questions(
+        model_steps_no_context,
+        output_dir / "correct_answers_no_context.png",
+        model_order,
+        "No Context",
+    )
     
     # Generate Plot 2: Gold Context
     print("\nGenerating Plot 2: Questions Recovered - Gold Context...")
     plot2_path = output_dir / "solved_questions_gold_context.png"
     plot_unanswered_questions(model_steps_gold_context, plot2_path, model_order, "Gold Context")
+    plot_unanswered_questions(
+        model_steps_gold_context,
+        output_dir / "correct_answers_gold_context.png",
+        model_order,
+        "Gold Context",
+    )
     
     print("\n" + "="*80)
     print("Summary Statistics:")
