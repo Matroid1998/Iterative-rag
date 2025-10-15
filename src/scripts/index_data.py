@@ -37,7 +37,7 @@ from repo.embeddings.embeddeing_models import HFEmbedder
 from repo.index.chroma_index import ChromaTextIndex
 from repo.utils.chunking import chunk_document
 from repo.utils.normalize import normalize_text
-from repo.utils.io import iter_text_folder
+from repo.utils.io import iter_text_folder, guess_read_text
 
 # Optional progress bar
 try:
@@ -77,6 +77,20 @@ def iter_docs_from_folder(root: str) -> Iterable[Dict[str, Any]]:
             meta["source"] = source
         doc["metadata"] = meta
         yield doc
+
+
+def iter_single_text_file(path: str, *, source: Optional[str] = None) -> Iterable[Dict[str, Any]]:
+    """Yield a single text file as a document for ingestion."""
+    abs_path = os.path.abspath(path)
+    text = guess_read_text(abs_path)
+    stem = Path(abs_path).stem
+    meta = {"source": source or stem, "path": abs_path}
+    yield {
+        "doc_id": stem,
+        "text": text,
+        "title": stem,
+        "metadata": meta,
+    }
 
 
 # ----- Hugging Face dataset (streamed) ---------------------------------------
@@ -253,8 +267,17 @@ def add_docs_streaming(
 
 # ------------------------------- CLI -----------------------------------------
 
-def build_index(persist_path: str, collection_name: str, device: str = "cpu") -> ChromaTextIndex:
-    embedder = HFEmbedder(EmbedderConfig(device=device))
+def build_index(
+    persist_path: str,
+    collection_name: str,
+    device: str = "cpu",
+    model_name: Optional[str] = None,
+) -> ChromaTextIndex:
+    embed_cfg = EmbedderConfig(
+        device=device,
+        model_name=model_name or EmbedderConfig.model_name,
+    )
+    embedder = HFEmbedder(embed_cfg)
     return ChromaTextIndex(
         persist_path=persist_path,
         collection_name=collection_name,
@@ -276,8 +299,10 @@ def main(argv: Optional[Iterable[str]] = None) -> int:
     ap.add_argument("--persist", default="chroma_store", help="Chroma persist directory")
     ap.add_argument("--collection", default="chemrxiv_graph", help="Chroma collection name")
     ap.add_argument("--docs-root", default=os.path.join("docs", "chemrxiv_graph_v2_texts"), help="Root folder of extracted text files to ingest")
-    ap.add_argument("--only", choices=["all", "docs", "hf"], default="all", help="Which sources to index")
+    ap.add_argument("--only", choices=["all", "docs", "hf", "file"], default="all", help="Which sources to index")
     ap.add_argument("--device", default="cpu", help="Device to run embeddings on (cpu, cuda, mps, etc.)")
+    ap.add_argument("--model-name", default=EmbedderConfig.model_name, help="SentenceTransformer model name")
+    ap.add_argument("--text-file", default=None, help="Single text file to ingest (optional)")
 
     # Hugging Face dataset options
     ap.add_argument("--hf-dataset", default="BASF-AI/ChemRxiv-Paragraphs", help="HF dataset name")
@@ -297,7 +322,7 @@ def main(argv: Optional[Iterable[str]] = None) -> int:
 
     args = ap.parse_args(list(argv) if argv is not None else None)
 
-    index = build_index(args.persist, args.collection, args.device)
+    index = build_index(args.persist, args.collection, args.device, args.model_name)
     total_chunks = 0
 
     def ck(docs: Iterable[Dict[str, Any]], pbar_docs: Optional[Any] = None, pbar_chunks: Optional[Any] = None) -> int:
@@ -347,6 +372,16 @@ def main(argv: Optional[Iterable[str]] = None) -> int:
             )
         finally:
             p_docs.close(); p_chunks.close()
+
+    if args.text_file:
+        if args.only not in {"all", "file"}:
+            print(f"Skipping --text-file ({args.text_file}) because --only={args.only}")
+        else:
+            if not os.path.isfile(args.text_file):
+                print(f"Warning: text file not found: {args.text_file}")
+            else:
+                print(f"Indexing single text file: {args.text_file}")
+                total_chunks += ck(iter_single_text_file(args.text_file))
 
     print(f"Done. Total chunks inserted: {total_chunks}. Collection '{args.collection}' now has {index.count()} chunks.")
     return 0
