@@ -226,6 +226,9 @@ def add_docs_streaming(
                 texts_to_add, metas_to_add, ids_to_add = texts, metas, ids
             index.add_documents(texts=texts_to_add, metadatas=metas_to_add, ids=ids_to_add)
             total += len(texts_to_add)
+            # Progress reflects actual upsert/embedding work completed
+            if pbar_chunks is not None and texts_to_add:
+                pbar_chunks.update(len(texts_to_add))
             texts, metas, ids = [], [], []
             batch_seen_ids.clear()
 
@@ -255,12 +258,12 @@ def add_docs_streaming(
             texts.append(tt)
             metas.append(mm)
             ids.append(ii)
+            # Flush as soon as we reach the batch limit to avoid giant single upserts
+            # for very large single documents. This also advances the progress bar.
+            if len(texts) >= batch_limit_chunks:
+                flush()
         if pbar_docs is not None:
             pbar_docs.update(1)
-        if pbar_chunks is not None and t:
-            pbar_chunks.update(len(t))
-        if len(texts) >= batch_limit_chunks:
-            flush()
     flush()
     return total
 
@@ -272,10 +275,12 @@ def build_index(
     collection_name: str,
     device: str = "cpu",
     model_name: Optional[str] = None,
+    batch_size: int = EmbedderConfig.batch_size,
 ) -> ChromaTextIndex:
     embed_cfg = EmbedderConfig(
         device=device,
         model_name=model_name or EmbedderConfig.model_name,
+        batch_size=batch_size,
     )
     embedder = HFEmbedder(embed_cfg)
     return ChromaTextIndex(
@@ -302,6 +307,7 @@ def main(argv: Optional[Iterable[str]] = None) -> int:
     ap.add_argument("--only", choices=["all", "docs", "hf", "file"], default="all", help="Which sources to index")
     ap.add_argument("--device", default="cpu", help="Device to run embeddings on (cpu, cuda, mps, etc.)")
     ap.add_argument("--model-name", default=EmbedderConfig.model_name, help="SentenceTransformer model name")
+    ap.add_argument("--batch-size", type=int, default=EmbedderConfig.batch_size, help="Embedding batch size for SentenceTransformers")
     ap.add_argument("--text-file", default=None, help="Single text file to ingest (optional)")
 
     # Hugging Face dataset options
@@ -322,7 +328,7 @@ def main(argv: Optional[Iterable[str]] = None) -> int:
 
     args = ap.parse_args(list(argv) if argv is not None else None)
 
-    index = build_index(args.persist, args.collection, args.device, args.model_name)
+    index = build_index(args.persist, args.collection, args.device, args.model_name, args.batch_size)
     total_chunks = 0
 
     def ck(docs: Iterable[Dict[str, Any]], pbar_docs: Optional[Any] = None, pbar_chunks: Optional[Any] = None) -> int:
@@ -381,7 +387,28 @@ def main(argv: Optional[Iterable[str]] = None) -> int:
                 print(f"Warning: text file not found: {args.text_file}")
             else:
                 print(f"Indexing single text file: {args.text_file}")
-                total_chunks += ck(iter_single_text_file(args.text_file))
+                # Estimate chunk count to provide a meaningful progress bar.
+                try:
+                    _txt_for_est = guess_read_text(args.text_file)
+                    # Approximate word count similar to chunker (whitespace tokens)
+                    est_words = len((_txt_for_est.split()))
+                    step = max(1, int(args.words_per_chunk) - int(args.words_overlap))
+                    if est_words <= 0:
+                        est_chunks = 0
+                    elif est_words <= int(args.words_per_chunk):
+                        est_chunks = 1
+                    else:
+                        est_chunks = 1 + (max(0, est_words - int(args.words_per_chunk)) + step - 1) // step
+                    print(f"Estimated words: {est_words}; estimated chunks: {est_chunks}")
+                except Exception:
+                    est_chunks = None  # Fallback: unknown total
+
+                p_docs = tqdm(total=1, desc="file", unit="file", dynamic_ncols=True)
+                p_chunks = tqdm(total=est_chunks, desc="chunks", unit="chunk", dynamic_ncols=True)
+                try:
+                    total_chunks += ck(iter_single_text_file(args.text_file), p_docs, p_chunks)
+                finally:
+                    p_docs.close(); p_chunks.close()
 
     print(f"Done. Total chunks inserted: {total_chunks}. Collection '{args.collection}' now has {index.count()} chunks.")
     return 0
