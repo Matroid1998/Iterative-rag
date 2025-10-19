@@ -94,7 +94,7 @@ ITERATIVE_MODEL_ENTRIES = [
     ("responses_openrouter_anthropic_claude_sonnet_4_5_reasoning.jsonl", "Claude Sonnet 4.5"),
     ("responses_openrouter_google__gemini-2.5-pro_reverified.jsonl", "Gemini 2.5 Pro"),
     ("responses_openrouter_x-ai__grok-4-fast_reverified.jsonl", "Grok 4 Fast"),
-    ("responses_openrouter_z-ai__glm-4.6_reverified.jsonl", "GLM 4.6"),
+    # ("responses_openrouter_z-ai__glm-4.6_reverified.jsonl", "GLM 4.6"),  # Excluded from knowledge gap analysis
 ]
 
 ITERATIVE_MODEL_DISPLAY_NAMES = [display for _, display in ITERATIVE_MODEL_ENTRIES]

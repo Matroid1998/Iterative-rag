@@ -175,7 +175,7 @@ def plot_stacked_bar_by_hops(
 
     # Customize the plot
     ax.set_ylabel('Unanswered Questions (sqrt scale)', fontsize=12)
-    ax.set_title('Question Difficulty by Reasoning Hops Across Evaluation Methods',
+    ax.set_title('Distribution of Unanswered Questions by Number of Hops in Different Settings',
                  fontsize=14, fontweight='bold')
     ax.set_xticks(x)
     ax.set_xticklabels(categories, fontsize=11)
@@ -207,7 +207,7 @@ def main() -> None:
         "Gold Context": report_root / "response-jsonl-with-context_unanswered.jsonl",
         "Iterative RAG": report_root / "responses_reverified_unanswered.jsonl",
     }
-    category_order = ["Iterative RAG", "Without Context", "Gold Context"]
+    category_order = ["Without Context", "Gold Context", "Iterative RAG"]
 
     # Load QA hop data
     qa_path = base / "docs" / "chemrxiv_qa.json"

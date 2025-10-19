@@ -111,9 +111,12 @@ def categorize_questions(
         - 'retrieval': Wrong without context, correct with gold context
         - 'iterative': Wrong with gold context, correct with iterative RAG
         - 'gap': Wrong in all three conditions
+        
+    Note: Only categorizes questions that exist in ALL three conditions to ensure
+    fair comparison. Questions missing from any condition are excluded from analysis.
     """
-    # Get all questions (union of all three sets)
-    all_questions = set(no_ctx.keys()) | set(gold_ctx.keys()) | set(iterative.keys())
+    # Only consider questions that exist in all three conditions
+    common_questions = set(no_ctx.keys()) & set(gold_ctx.keys()) & set(iterative.keys())
     
     categories = {
         'intrinsic': set(),
@@ -122,10 +125,10 @@ def categorize_questions(
         'gap': set(),
     }
     
-    for q in all_questions:
-        no_correct = no_ctx.get(q, False)
-        gold_correct = gold_ctx.get(q, False)
-        iter_correct = iterative.get(q, False)
+    for q in common_questions:
+        no_correct = no_ctx[q]  # We know it exists
+        gold_correct = gold_ctx[q]
+        iter_correct = iterative[q]
         
         if no_correct:
             # If correct without context, it's intrinsic knowledge
@@ -212,7 +215,7 @@ def plot_knowledge_gap_waterfall(
                 fontsize=14, fontweight='bold', pad=20)
     ax.set_xticks(x)
     ax.set_xticklabels(models, rotation=20, ha='right', fontsize=10)
-    ax.legend(loc='upper left', framealpha=0.95, fontsize=10)
+    ax.legend(loc='upper left', bbox_to_anchor=(0, 1), framealpha=0.95, fontsize=9, ncol=2)
     ax.grid(axis='y', alpha=0.3, linestyle='--')
     
     # Add percentage labels
@@ -305,16 +308,21 @@ def plot_knowledge_gap_matrix(
 
 def plot_knowledge_gap_detailed_breakdown(
     models: List[str],
-    model_categories: Dict[str, Dict[str, Set[str]]],
+    model_data: Dict[str, Tuple[Dict[str, bool], Dict[str, bool], Dict[str, bool]]],
     out_path: Path,
 ) -> None:
     """
-    Create a detailed breakdown showing cumulative accuracy improvement.
+    Create a detailed breakdown showing actual accuracy across three conditions.
     
-    Shows three lines per model:
-    - No Context only (intrinsic)
-    - + Gold Context (intrinsic + retrieval)
-    - + Iterative RAG (intrinsic + retrieval + iterative)
+    Shows three bars per model with ACTUAL accuracies calculated as:
+    - No Context: correct_count / total_questions * 100
+    - Gold Context: correct_count / total_questions * 100
+    - Iterative RAG: correct_count / total_questions * 100
+    
+    Args:
+        models: List of model display names
+        model_data: Dict mapping model name to (no_ctx, gold_ctx, iterative) response dicts
+        out_path: Output path for the plot
     """
     fig, ax = plt.subplots(figsize=(max(14, len(models) * 1.2), 7))
     
@@ -323,28 +331,26 @@ def plot_knowledge_gap_detailed_breakdown(
     iter_acc = []
     
     for model in models:
-        cats = model_categories.get(model, {})
-        intrinsic = len(cats.get('intrinsic', set()))
-        retrieval = len(cats.get('retrieval', set()))
-        iterative = len(cats.get('iterative', set()))
-        gap = len(cats.get('gap', set()))
-        total = intrinsic + retrieval + iterative + gap
+        no_ctx, gold_ctx, iterative = model_data.get(model, ({}, {}, {}))
         
-        if total > 0:
-            no_ctx_acc.append(intrinsic / total * 100)
-            gold_ctx_acc.append((intrinsic + retrieval) / total * 100)
-            iter_acc.append((intrinsic + retrieval + iterative) / total * 100)
-        else:
-            no_ctx_acc.append(0)
-            gold_ctx_acc.append(0)
-            iter_acc.append(0)
+        # Calculate actual accuracies: correct / total * 100
+        total_questions = 1186  # Standard benchmark size
+        
+        no_ctx_correct = sum(1 for v in no_ctx.values() if v)
+        gold_ctx_correct = sum(1 for v in gold_ctx.values() if v)
+        iter_correct = sum(1 for v in iterative.values() if v)
+        
+        # Use actual count divided by benchmark size
+        no_ctx_acc.append((no_ctx_correct / total_questions * 100) if len(no_ctx) > 0 else 0)
+        gold_ctx_acc.append((gold_ctx_correct / total_questions * 100) if len(gold_ctx) > 0 else 0)
+        iter_acc.append((iter_correct / total_questions * 100) if len(iterative) > 0 else 0)
     
     x = np.arange(len(models))
     width = 0.25
     
-    bars1 = ax.bar(x - width, no_ctx_acc, width, label='No Context (Intrinsic)', color='#2ecc71', alpha=0.8)
-    bars2 = ax.bar(x, gold_ctx_acc, width, label='+ Gold Context (+ Retrieval)', color='#3498db', alpha=0.8)
-    bars3 = ax.bar(x + width, iter_acc, width, label='+ Iterative RAG (+ Iterative)', color='#f39c12', alpha=0.8)
+    bars1 = ax.bar(x - width, no_ctx_acc, width, label='No Context', color='#2ecc71', alpha=0.8)
+    bars2 = ax.bar(x, gold_ctx_acc, width, label='Gold Context', color='#3498db', alpha=0.8)
+    bars3 = ax.bar(x + width, iter_acc, width, label='Iterative RAG', color='#f39c12', alpha=0.8)
     
     # Add value labels
     for bars in [bars1, bars2, bars3]:
@@ -355,12 +361,98 @@ def plot_knowledge_gap_detailed_breakdown(
                        f'{height:.1f}%', ha='center', va='bottom', fontsize=8)
     
     ax.set_ylabel('Accuracy (%)', fontsize=12, fontweight='bold')
-    ax.set_title('Cumulative Accuracy Improvement by Method', fontsize=14, fontweight='bold', pad=20)
+    ax.set_title('Model Accuracy Across Different Contexts', fontsize=14, fontweight='bold', pad=20)
     ax.set_xticks(x)
     ax.set_xticklabels(models, rotation=20, ha='right', fontsize=10)
     ax.legend(loc='lower left', framealpha=0.95, fontsize=10)
     ax.grid(axis='y', alpha=0.3, linestyle='--')
     ax.set_ylim(0, 105)
+    
+    fig.tight_layout()
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    fig.savefig(out_path, dpi=300, bbox_inches='tight')
+    plt.close(fig)
+    print(f"✓ Saved: {out_path.name}")
+
+
+def plot_knowledge_gap_scatter(
+    models: List[str],
+    model_raw_data: Dict[str, Tuple[Dict[str, bool], Dict[str, bool], Dict[str, bool]]],
+    out_path: Path,
+) -> None:
+    """
+    Create a scatter plot showing relationship between no-context accuracy (x-axis)
+    and both gold-context and iterative RAG accuracy (y-axis).
+    
+    This shows how much models improve with context/retrieval.
+    """
+    fig, ax = plt.subplots(figsize=(12, 10))
+    
+    # Prepare data
+    no_ctx_accuracies = []
+    gold_ctx_accuracies = []
+    iterative_accuracies = []
+    
+    for model in models:
+        no_ctx, gold_ctx, iterative = model_raw_data[model]
+        
+        # Calculate accuracies
+        no_ctx_acc = sum(1 for v in no_ctx.values() if v) / 1186 * 100
+        gold_ctx_acc = sum(1 for v in gold_ctx.values() if v) / 1186 * 100
+        iter_acc = sum(1 for v in iterative.values() if v) / 1186 * 100
+        
+        no_ctx_accuracies.append(no_ctx_acc)
+        gold_ctx_accuracies.append(gold_ctx_acc)
+        iterative_accuracies.append(iter_acc)
+    
+    # Plot scatter points
+    scatter_gold = ax.scatter(no_ctx_accuracies, gold_ctx_accuracies, 
+                             s=200, alpha=0.7, color='#3498db', 
+                             edgecolors='black', linewidth=1.5,
+                             label='Gold Context', marker='o', zorder=3)
+    
+    scatter_iter = ax.scatter(no_ctx_accuracies, iterative_accuracies, 
+                             s=200, alpha=0.7, color='#f39c12',
+                             edgecolors='black', linewidth=1.5,
+                             label='Iterative RAG', marker='s', zorder=3)
+    
+    # Add model labels
+    for i, model in enumerate(models):
+        # Label for gold context (slightly offset up)
+        ax.annotate(model, 
+                   (no_ctx_accuracies[i], gold_ctx_accuracies[i]),
+                   xytext=(5, 5), textcoords='offset points',
+                   fontsize=8, alpha=0.8,
+                   bbox=dict(boxstyle='round,pad=0.3', facecolor='white', 
+                            edgecolor='#3498db', alpha=0.7))
+        
+        # Label for iterative (slightly offset down)
+        ax.annotate(model, 
+                   (no_ctx_accuracies[i], iterative_accuracies[i]),
+                   xytext=(5, -5), textcoords='offset points',
+                   fontsize=8, alpha=0.8,
+                   bbox=dict(boxstyle='round,pad=0.3', facecolor='white', 
+                            edgecolor='#f39c12', alpha=0.7))
+    
+    # Add diagonal reference line (y=x, no improvement)
+    min_acc = min(min(no_ctx_accuracies), min(gold_ctx_accuracies), min(iterative_accuracies))
+    max_acc = max(max(no_ctx_accuracies), max(gold_ctx_accuracies), max(iterative_accuracies))
+    ax.plot([min_acc, max_acc], [min_acc, max_acc], 'k--', alpha=0.3, 
+           linewidth=2, label='No Improvement (y=x)', zorder=1)
+    
+    # Styling
+    ax.set_xlabel('No Context Accuracy (%)', fontsize=12, fontweight='bold')
+    ax.set_ylabel('Accuracy with Context/RAG (%)', fontsize=12, fontweight='bold')
+    ax.set_title('Knowledge Gap Scatter: Impact of Context and Retrieval\n(Higher y-values show greater benefit from context/RAG)',
+                fontsize=14, fontweight='bold', pad=20)
+    ax.legend(loc='lower right', framealpha=0.95, fontsize=11)
+    ax.grid(True, alpha=0.3, linestyle='--')
+    
+    # Set reasonable axis limits with padding
+    x_padding = (max(no_ctx_accuracies) - min(no_ctx_accuracies)) * 0.1
+    y_padding = (max_acc - min_acc) * 0.1
+    ax.set_xlim(min(no_ctx_accuracies) - x_padding, max(no_ctx_accuracies) + x_padding)
+    ax.set_ylim(min_acc - y_padding, max_acc + y_padding)
     
     fig.tight_layout()
     out_path.parent.mkdir(parents=True, exist_ok=True)
@@ -434,6 +526,7 @@ def main() -> None:
     
     # Load data for each model
     model_categories: Dict[str, Dict[str, Set[str]]] = {}
+    model_raw_data: Dict[str, Tuple[Dict[str, bool], Dict[str, bool], Dict[str, bool]]] = {}
     
     for iterative_path, display in model_entries:
         print(f"  Processing: {display}")
@@ -442,6 +535,22 @@ def main() -> None:
         no_ctx = scan_context_dir(dir_no_ctx, display)
         gold_ctx = scan_context_dir(dir_gold_ctx, display)
         iterative = load_responses_by_question(iterative_path)
+        
+        # Store raw data for cumulative accuracy plot
+        model_raw_data[display] = (no_ctx, gold_ctx, iterative)
+        
+        # Debug: show counts for each condition
+        no_ctx_count = sum(1 for v in no_ctx.values() if v)
+        gold_ctx_count = sum(1 for v in gold_ctx.values() if v)
+        iter_count = sum(1 for v in iterative.values() if v)
+        
+        print(f"    No Context: {no_ctx_count}/{len(no_ctx)} correct ({no_ctx_count/1186*100:.2f}%)")
+        print(f"    Gold Context: {gold_ctx_count}/{len(gold_ctx)} correct ({gold_ctx_count/1186*100:.2f}%)")
+        print(f"    Iterative: {iter_count}/{len(iterative)} correct ({iter_count/1186*100:.2f}%)")
+        
+        # Check intersection
+        common = set(no_ctx.keys()) & set(gold_ctx.keys()) & set(iterative.keys())
+        print(f"    Common questions: {len(common)}")
         
         # Categorize questions
         categories = categorize_questions(no_ctx, gold_ctx, iterative)
@@ -463,11 +572,18 @@ def main() -> None:
         plots_dir / "knowledge_gap_matrix.png"
     )
     
-    # Plot 3: Detailed breakdown
+    # Plot 3: Detailed breakdown (using raw data for actual accuracies)
     plot_knowledge_gap_detailed_breakdown(
         model_order,
-        model_categories,
+        model_raw_data,
         plots_dir / "knowledge_gap_cumulative_accuracy.png"
+    )
+    
+    # Plot 4: Scatter plot showing relationship between no-context and with-context accuracy
+    plot_knowledge_gap_scatter(
+        model_order,
+        model_raw_data,
+        plots_dir / "knowledge_gap_scatter.png"
     )
     
     # Print summary
