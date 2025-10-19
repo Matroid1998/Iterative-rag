@@ -17,10 +17,11 @@ from config import (
     get_display_name,
     is_reasoning_model,
     discover_jsonl_files,
+    ITERATIVE_MODEL_ENTRIES,
 )
 
 
-def accumulate_output_stats(path: Path, adjust_reasoning: bool) -> Dict[bool, List[float]]:
+def accumulate_output_stats(path: Path) -> Dict[bool, List[float]]:
     """Return list of output tokens keyed by correctness."""
     values: Dict[bool, List[float]] = defaultdict(list)
     with path.open("r", encoding="utf-8") as handle:
@@ -36,28 +37,14 @@ def accumulate_output_stats(path: Path, adjust_reasoning: bool) -> Dict[bool, Li
 
             is_correct = bool(record.get("is_correct"))
             
-            # Try to get output tokens from usage dict first, then fallback to direct field
-            usage = record.get("usage", {})
-            raw_value = usage.get("output_tokens") if usage else None
-            if raw_value is None:
-                raw_value = record.get("output_tokens")
+            # Get output tokens from root level (already includes reasoning for reasoning models)
+            raw_value = record.get("output_tokens")
             
             try:
                 output_tokens = float(raw_value)
             except (TypeError, ValueError):
                 print(f"Skipping {path.name}:{line_number} (invalid output_tokens: {raw_value!r})")
                 continue
-
-            if adjust_reasoning:
-                raw_reasoning = usage.get("reasoning_tokens") if usage else None
-                if raw_reasoning is None:
-                    raw_reasoning = record.get("reasoning_tokens")
-                try:
-                    reasoning_tokens = float(raw_reasoning)
-                except (TypeError, ValueError):
-                    reasoning_tokens = None
-                if reasoning_tokens is not None:
-                    output_tokens = max(0.0, output_tokens - reasoning_tokens)
 
             values[is_correct].append(output_tokens)
     return values
@@ -73,18 +60,20 @@ def compute_average_and_std(values: List[float]) -> Tuple[float, float]:
 
 def main() -> None:
     responses_dir = get_responses_dir()
-    jsonl_files = discover_jsonl_files(responses_dir)
     
-    if not jsonl_files:
-        raise RuntimeError(f"No JSONL files found in {responses_dir}")
-
+    # Use ITERATIVE_MODEL_ENTRIES for consistent ordering and exclusion
     model_entries: List[Tuple[str, str, float, float, float, float]] = []
 
-    for path in jsonl_files:
+    for filename, display_name in ITERATIVE_MODEL_ENTRIES:
+        path = responses_dir / filename
+        
+        if not path.exists():
+            print(f"Warning: File not found: {path}")
+            continue
+        
         model_key = path.stem
-        display_name = get_display_name(model_key)
 
-        stats = accumulate_output_stats(path, adjust_reasoning=is_reasoning_model(model_key))
+        stats = accumulate_output_stats(path)
         correct_values = stats.get(True, [])
         wrong_values = stats.get(False, [])
         
@@ -153,10 +142,11 @@ def plot_average_tokens(
 
     ax.set_xticks(list(x_positions))
     ax.set_xticklabels(labels, rotation=20, ha="right")
-    ax.set_ylabel("Average output tokens")
+    ax.set_ylabel("Average output tokens (log scale)")
+    ax.set_yscale('log')
     ax.set_title(title)
     ax.legend()
-    ax.grid(axis="y", linestyle="--", alpha=0.4)
+    ax.grid(axis="y", linestyle="--", alpha=0.4, which='both')
 
     fig.tight_layout()
     fig.savefig(output_path, dpi=300)

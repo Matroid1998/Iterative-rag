@@ -15,6 +15,8 @@ from config import (
     PLOTS_DIR,
     get_display_name,
     discover_reasoning_jsonl_files,
+    ITERATIVE_MODEL_ENTRIES,
+    is_reasoning_model,
 )
 
 
@@ -34,11 +36,8 @@ def accumulate_reasoning_stats(path: Path) -> Dict[bool, Tuple[float, int]]:
 
             is_correct = bool(record.get("is_correct"))
             
-            # Try to get reasoning tokens from usage dict first, then fallback to direct field
-            usage = record.get("usage", {})
-            raw_value = usage.get("reasoning_tokens") if usage else None
-            if raw_value is None:
-                raw_value = record.get("reasoning_tokens")
+            # Get reasoning tokens from root level
+            raw_value = record.get("reasoning_tokens")
             
             try:
                 reasoning_tokens = float(raw_value)
@@ -57,17 +56,22 @@ def compute_average(total: float, count: int) -> float:
 
 def main() -> None:
     responses_dir = get_responses_dir()
-    reasoning_files = discover_reasoning_jsonl_files(responses_dir)
     
-    if not reasoning_files:
-        raise RuntimeError(f"No reasoning model files found in {responses_dir}")
-
+    # Use ITERATIVE_MODEL_ENTRIES for consistent ordering and exclusion
     labels = []
     correct_avgs = []
     wrong_avgs = []
 
-    for path in reasoning_files:
-        display_name = get_display_name(path.stem)
+    for filename, display_name in ITERATIVE_MODEL_ENTRIES:
+        path = responses_dir / filename
+        
+        if not path.exists():
+            print(f"Warning: File not found: {path}")
+            continue
+        
+        # Only process reasoning models
+        if not is_reasoning_model(path.stem):
+            continue
 
         stats = accumulate_reasoning_stats(path)
         correct_total, correct_count = stats.get(True, (0.0, 0))
@@ -88,11 +92,12 @@ def main() -> None:
     ax.bar([x + width / 2 for x in x_positions], wrong_avgs, width=width, label="Wrong", color="#c44e52")
 
     ax.set_xticks(list(x_positions))
-    ax.set_xticklabels([label.replace(" (reasoning)", "") for label in labels], rotation=20, ha="right")
-    ax.set_ylabel("Average reasoning tokens")
+    ax.set_xticklabels(labels, rotation=20, ha="right")
+    ax.set_ylabel("Average reasoning tokens (log scale)")
+    ax.set_yscale('log')
     ax.set_title("Average reasoning tokens by correctness")
     ax.legend()
-    ax.grid(axis="y", linestyle="--", alpha=0.4)
+    ax.grid(axis="y", linestyle="--", alpha=0.4, which='both')
 
     fig.tight_layout()
     output_path = PLOTS_DIR / "average_reasoning_tokens.png"
