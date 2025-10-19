@@ -508,6 +508,72 @@ This document provides a comprehensive overview of all plots generated in the `s
 
 ---
 
+## Knowledge Gap Analysis
+
+### 31. `knowledge_gap_waterfall.png`
+**Purpose**: Visualize the progression of question-solving capability across three conditions: No Context, Gold Context, and Iterative RAG
+
+**What it Shows**:
+- Stacked bar chart with one bar per model
+- Four colored segments representing question categories:
+  - **Green (Intrinsic Knowledge)**: Correct without any context
+  - **Blue (Retrieval Dependent)**: Wrong without context, correct with gold context
+  - **Orange (Iterative Dependent)**: Wrong with gold context, correct with iterative RAG
+  - **Red (Knowledge Gap)**: Wrong in all three conditions
+
+**Key Findings**:
+- Models with baseline data (GPT-5, Gemini 2.5 Pro, Grok 4 Fast) show 35-45% intrinsic knowledge
+- Retrieval dependent questions represent largest segment (~30-40% of total)
+- Iterative RAG adds 13-28% improvement over gold context alone
+- Knowledge gaps range from 8% (Gemini 2.5 Pro) to 18% (Llama 3.3 70B)
+- Some models (Claude variants) show 0% intrinsic/retrieval due to missing baseline data
+
+**Interpretation**: This waterfall shows the clear value proposition of each approach. Intrinsic knowledge establishes the baseline, retrieval provides the biggest single jump, and iterative approaches refine further. The red segments represent true knowledge gaps that cannot be solved even with perfect retrieval.
+
+---
+
+### 32. `knowledge_gap_matrix.png`
+**Purpose**: Provide a heatmap view of question category distribution across all models
+
+**What it Shows**:
+- Two side-by-side heatmaps (counts and percentages)
+- Rows: Models
+- Columns: Question categories (Intrinsic, Retrieval, Iterative, Gap)
+- Color intensity: Darker red = higher values
+
+**Key Findings**:
+- **Intrinsic knowledge varies widely**: 0% (Claude) to 45.1% (GPT-5)
+- **Retrieval dependency**: Most models have 30-40% of questions in this category
+- **Iterative dependency**: Ranges from 12.8% (Grok) to 27.7% (GPT-4o)
+- **Knowledge gaps**: Best models ~8-12%, weaker models ~15-18%
+- Clear model profiles emerge: some are retrieval-heavy, others benefit more from iteration
+
+**Interpretation**: The heatmap reveals distinct model "personalities". Models with high intrinsic knowledge (GPT-5, Gemini) start strong but still need retrieval. Models with high iterative dependency (GPT-4o, Llama 3.3) benefit more from multi-step reasoning. Knowledge gaps show fundamental limits of each model.
+
+---
+
+### 33. `knowledge_gap_cumulative_accuracy.png`
+**Purpose**: Show cumulative accuracy improvement with each method
+
+**What it Shows**:
+- Grouped bar chart with three bars per model:
+  - **Green**: No Context accuracy (intrinsic knowledge only)
+  - **Blue**: + Gold Context accuracy (intrinsic + retrieval)
+  - **Orange**: + Iterative RAG accuracy (intrinsic + retrieval + iterative)
+- Heights show percentage accuracy at each cumulative stage
+
+**Key Findings**:
+- **No Context baseline**: 0-45% (models with data)
+- **Gold Context**: ~60-78% for most models (gain of +30-40 percentage points)
+- **Iterative RAG**: ~82-92% for most models (gain of +13-28 percentage points)
+- **Best performers**: Gemini 2.5 Pro (92.2%), GLM 4.6 (89.1%), GPT-5 (88.5%)
+- **Largest single improvement**: Adding gold context (~35 pp average)
+- **Iterative value**: Adds substantial 14-28 pp on top of gold context
+
+**Interpretation**: This plot quantifies the value of each approach. While retrieval provides the largest single jump, iterative methods are not redundant—they add 14-28 percentage points of value. The final accuracy reveals which models can best leverage all available information.
+
+---
+
 ## Overall Key Findings Summary
 
 ### Model Rankings (By Accuracy)

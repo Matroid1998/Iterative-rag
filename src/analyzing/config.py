@@ -19,17 +19,22 @@ RESPONSE_DIRS = [
 PLOTS_DIR = SRC_DIR / "plots"
 PLOTS_DIR.mkdir(parents=True, exist_ok=True)
 
-# Model name normalization patterns
+# Model name normalization patterns (order matters - check more specific patterns first)
 MODEL_NAME_PATTERNS = {
     "mistral-large-2402": "Mistral Large 2402",
     "mistral-large": "Mistral Large",
     "mistral-small": "Mistral Small",
+    "claude-3-7-sonnet-20250219-v1-0-reasoning": "Claude 3.7 Sonnet Thinking",
     "claude-3-7-sonnet-20250219-v1:0-reasoning": "Claude 3.7 Sonnet Thinking",
+    "claude-3-7-sonnet-20250219-v1-0": "Claude 3.7 Sonnet",
     "claude-3-7-sonnet-20250219-v1:0": "Claude 3.7 Sonnet",
     "claude-3-5-sonnet": "Claude 3.5 Sonnet",
+    "claude_sonnet_4_5": "Claude Sonnet 4.5",
     "claude-sonnet-4.5": "Claude Sonnet 4.5",
-    "deepseek-r1-v1:0-reasoning": "DeepSeek R1",
-    "deepseek-r1-v1:0": "DeepSeek R1",
+    "r1-v1-0-reasoning": "DeepSeek R1",
+    "r1-v1:0-reasoning": "DeepSeek R1",
+    "r1-v1-0": "DeepSeek R1",
+    "r1-v1:0": "DeepSeek R1",
     "deepseek-r1-distill": "DeepSeek R1 Distill",
     "deepseek-chat": "DeepSeek Chat",
     "gpt-4o-mini": "GPT-4o Mini",
@@ -86,7 +91,7 @@ ITERATIVE_MODEL_ENTRIES = [
     ("responses_bedrock_us.meta.llama3-3-70b-instruct-v1:0_reverified.jsonl", "Llama 3.3 70B Instruct"),
     ("responses_openai_gpt-4o_reverified.jsonl", "GPT-4o"),
     ("responses_openai_gpt-5_reverified.jsonl", "GPT-5"),
-    ("responses_openrouter_anthropic__claude-sonnet-4.5_reverified.jsonl", "Claude Sonnet 4.5"),
+    ("responses_openrouter_anthropic_claude_sonnet_4_5_reasoning.jsonl", "Claude Sonnet 4.5"),
     ("responses_openrouter_google__gemini-2.5-pro_reverified.jsonl", "Gemini 2.5 Pro"),
     ("responses_openrouter_x-ai__grok-4-fast_reverified.jsonl", "Grok 4 Fast"),
     ("responses_openrouter_z-ai__glm-4.6_reverified.jsonl", "GLM 4.6"),
@@ -126,11 +131,13 @@ def normalize_model_key(file_stem: str) -> str:
     key = file_stem.replace("responses_", "")
     key = key.replace("_reverified", "")
     key = key.replace("__", "_")
-    key = key.replace(":", "-")
+    # Don't replace : yet - we need it for pattern matching
     
-    # Remove provider prefixes
-    for prefix in ["bedrock_", "bedrock_us.", "bedrock_mistral.", "openai_", "openrouter_", 
-                   "anthropic.", "anthropic_", "meta.", "google__", "qwen__", "deepseek__", "x-ai__", "z-ai__", "us."]:
+    # Remove provider prefixes (order matters - more specific first)
+    for prefix in ["bedrock_us.", "bedrock_mistral.", "bedrock_", "openai_", "openrouter_", 
+                   "anthropic.", "anthropic_", "us.anthropic.", 
+                   "us.deepseek.", "deepseek.", "meta.", 
+                   "google__", "qwen__", "deepseek__", "x-ai__", "z-ai__", "us."]:
         key = key.replace(prefix, "")
     
     return key

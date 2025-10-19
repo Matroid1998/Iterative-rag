@@ -5,7 +5,8 @@ timestamp,folder,file_name,total_questions,correct_answers,accuracy,verifier_pro
 2025-09-24T02:13:17,Iterative-RAG,responses_bedrock_us.deepseek.r1-v1:0-reasoning_reverified.jsonl,1186,976,0.8229,openai,gpt-5-mini
 2025-09-24T02:13:17,Iterative-RAG,responses_openai_gpt-4o_reverified.jsonl,1186,972,0.8196,openai,gpt-5-mini
 2025-09-24T02:13:17,Iterative-RAG,responses_openai_gpt-5_reverified.jsonl,1186,959,0.8086,openai,gpt-5-mini
-2025-09-24T02:13:17,Iterative-RAG,responses_openrouter_anthropic__claude-sonnet-4.5_reverified.jsonl,1186,1036,0.8735,openai,gpt-5-mini
+2025-09-24T02:13:17,Iterative-RAG,responses_bedrock_us.meta.llama3-3-70b-instruct-v1:0_reverified.jsonl,1186,835,0.7040,openai,gpt-5-mini
+2025-09-24T02:13:17,Iterative-RAG,responses_openrouter_anthropic_claude_sonnet_4_5_reasoning.jsonl,1186,1040,0.8768,openai,gpt-5-mini
 2025-09-24T02:13:17,Iterative-RAG,responses_openrouter_google__gemini-2.5-pro_reverified.jsonl,1186,996,0.8397,openai,gpt-5-mini
 2025-09-24T02:13:17,Iterative-RAG,responses_openrouter_x-ai__grok-4-fast_reverified.jsonl,1186,921,0.7765,openai,gpt-5-mini
 2025-09-24T02:13:17,Iterative-RAG,responses_openrouter_z-ai__glm-4.6_reverified.jsonl,1186,933,0.7866,openai,gpt-5-mini
