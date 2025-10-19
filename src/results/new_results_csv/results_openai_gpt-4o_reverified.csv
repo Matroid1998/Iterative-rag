@@ -1,2 +1,2 @@
-Model,Run,Accuracy (%),Avg Duration (s),Avg Input Tokens,Avg Output Tokens,Total Input Tokens,Total Output Tokens,Total Samples
-openai-gpt-4o,Iterative-RAG,81.96,17954.26,18899.32,447.09,22414588,530252,1186
+Model,Run,Accuracy (%),Avg Duration (s),Avg Input Tokens,Avg Output Tokens,Total Input Tokens,Total Output Tokens,Total Reasoning Tokens,Avg Reasoning Tokens,Total Samples
+openai-gpt-4o,Iterative-RAG,81.96,17954.26,19059.95,448.63,22605102,532072,0,0.00,1186

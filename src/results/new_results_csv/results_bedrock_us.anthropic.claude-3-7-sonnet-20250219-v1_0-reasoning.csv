@@ -1,2 +1,2 @@
-Model,Run,Accuracy (%),Avg Duration (s),Avg Input Tokens,Avg Output Tokens,Total Input Tokens,Total Output Tokens,Total Samples
-bedrock-us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning,Iterative-RAG,86.08,95167.19,17477.43,4309.0,20728229,5110471,1186
+Model,Run,Accuracy (%),Avg Duration (s),Avg Input Tokens,Avg Output Tokens,Total Input Tokens,Total Output Tokens,Total Reasoning Tokens,Avg Reasoning Tokens,Total Samples
+bedrock-us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning,Iterative-RAG,86.08,95167.19,17477.43,4309.00,20728229,5110471,2438519,2056.09,1186

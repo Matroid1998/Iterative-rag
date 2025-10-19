@@ -1,2 +1,2 @@
-Model,Run,Accuracy (%),Avg Duration (s),Avg Input Tokens,Avg Output Tokens,Total Input Tokens,Total Output Tokens,Total Samples
-openrouter-z-ai/glm-4.6,With Context,78.8,106798.8,13452.12,4303.75,15927314,5095645,1184
+Model,Run,Accuracy (%),Avg Duration (s),Avg Input Tokens,Avg Output Tokens,Total Input Tokens,Total Output Tokens,Total Reasoning Tokens,Avg Reasoning Tokens,Total Samples
+openrouter-z-ai/glm-4.6,With Context,78.8,106798.8,13452.12,4303.75,15927314,5095645,5050229,4265.40,1184

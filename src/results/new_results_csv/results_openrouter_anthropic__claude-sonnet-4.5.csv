@@ -1,2 +1,2 @@
-Model,Run,Accuracy (%),Avg Duration (s),Avg Input Tokens,Avg Output Tokens,Total Input Tokens,Total Output Tokens,Total Samples
-openrouter-anthropic/claude-sonnet-4.5,With Context,87.35,80213.72,12739.22,3514.61,15108715,4168331,1186
+Model,Run,Accuracy (%),Avg Duration (s),Avg Input Tokens,Avg Output Tokens,Total Input Tokens,Total Output Tokens,Total Reasoning Tokens,Avg Reasoning Tokens,Total Samples
+openrouter-anthropic/claude-sonnet-4.5,With Context,87.35,80213.72,12781.25,3524.80,15158557,4180410,2839820,2394.45,1186

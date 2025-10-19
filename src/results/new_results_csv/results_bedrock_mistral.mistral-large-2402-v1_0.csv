@@ -1,2 +1,2 @@
-Model,Run,Accuracy (%),Avg Duration (s),Avg Input Tokens,Avg Output Tokens,Total Input Tokens,Total Output Tokens,Total Samples
-bedrock-mistral.mistral-large-2402-v1:0,Iterative-RAG,75.30,17436.64,19876.46,513.13,23573480,608576,1186
+Model,Run,Accuracy (%),Avg Duration (s),Avg Input Tokens,Avg Output Tokens,Total Input Tokens,Total Output Tokens,Total Reasoning Tokens,Avg Reasoning Tokens,Total Samples
+bedrock-mistral.mistral-large-2402-v1:0,Iterative-RAG,75.30,17436.64,19876.46,513.13,23573480,608576,0,0.00,1186

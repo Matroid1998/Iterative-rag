@@ -1,2 +1,2 @@
-Model,Run,Accuracy (%),Avg Duration (s),Avg Input Tokens,Avg Output Tokens,Total Input Tokens,Total Output Tokens,Total Samples
-bedrock-us.meta.llama3-3-70b-instruct-v1:0,With Context,70.4,10493.02,20664.54,428.63,24508145,508358,1186
+Model,Run,Accuracy (%),Avg Duration (s),Avg Input Tokens,Avg Output Tokens,Total Input Tokens,Total Output Tokens,Total Reasoning Tokens,Avg Reasoning Tokens,Total Samples
+bedrock-us.meta.llama3-3-70b-instruct-v1:0,With Context,70.4,10493.02,20664.54,428.63,24508145,508358,0,0.00,1186
