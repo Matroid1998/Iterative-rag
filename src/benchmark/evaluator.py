@@ -42,6 +42,10 @@ class AreSimilar(BaseModel):
     are_the_same: bool = Field(..., description="Whether the two answers are the same.")
 
 
+class LegalVerificationScore(BaseModel):
+    score: int = Field(..., description="Legal accuracy score from 1 to 10", ge=1, le=10)
+
+
 JSON_ENFORCE = (
     "Please return only the raw JSON string that strictly conforms to the following JSON schema, with no additional text: {json_schema}"
     "Example: {example}"
@@ -682,20 +686,24 @@ class Evaluate:
         responses_save_path: str = None,
         verifier_provider: Provider = Provider.OPENAI,
         verifier_model: str = "gpt-5-mini",
-        num_workers: int = 4,
+        num_workers: int = 2,
         bedrock_cooldown: float = 0.5,
+        domain: str = "chemistry",
     ):
         self.qa_llm = qa_llm
+        # Use different verifier output format for legal domain
+        verifier_output_format = LegalVerificationScore if domain == "legal" else AreSimilar
         self.verifier_llm = StructuredLLM(
             provider=verifier_provider,
             model_id=verifier_model,
-            output_format=AreSimilar,
+            output_format=verifier_output_format,
         )
         self.records = records
         self.responses_save_path = responses_save_path
         self.num_workers = num_workers
         self.bedrock_cooldown = bedrock_cooldown
         self.use_context = use_context
+        self.domain = domain
 
         self.file_lock = Lock()
 
@@ -716,7 +724,7 @@ class Evaluate:
         self.verifier_llm_params = {
             "provider": verifier_provider,
             "model_id": verifier_model,
-            "output_format": AreSimilar,
+            "output_format": verifier_output_format,
         }
 
         # Iterative RAG setup (lazy init per worker for thread safety)
@@ -728,7 +736,59 @@ class Evaluate:
             if os.path.exists(alt_root):
                 rag_path = alt_root
         self.rag_persist_path = rag_path
-        self.rag_collection_name = "chem_corpus"
+        
+        # Domain-specific configuration
+        if self.domain == "legal":
+            self.rag_collection_name = "KoblexQwen"
+            self.embedding_model = "Qwen/Qwen3-Embedding-0.6B"
+        else:  # chemistry (default)
+            self.rag_collection_name = "chemrxiv_graph"
+            self.embedding_model = "BASF-AI/ChEmbed"
+
+        # Create a single shared RAG service to avoid multiple model loads
+        # This prevents the meta tensor error from parallel worker model initialization
+        self._shared_rag_service = None
+        self._rag_lock = Lock()
+
+    def _get_shared_rag_service(self):
+        """Get or create the shared RAG service instance (thread-safe)"""
+        with self._rag_lock:
+            if self._shared_rag_service is None:
+                from protocols.embedding_config import EmbedderConfig
+                from service.rag_text_service import RagTextService
+                from service.structured_llm_adapter import StructuredLLMClient
+                from service.planner_llm import make_json_planner, make_llm_composer
+
+                llm_client = StructuredLLMClient(
+                    provider=self.qa_llm_params["provider"],
+                    model=self.qa_llm_params["model_id"],
+                    temperature=float(self.qa_llm_params.get("temperature", 0.0) or 0.0),
+                    max_tokens=int(self.qa_llm_params.get("max_completion_tokens", 600) or 600),
+                    debug=False,
+                )
+                planner = make_json_planner(
+                    llm_client,
+                    allow_kg=False,
+                    default_k=8,
+                    max_actions=6,
+                    passages_top_k=5,
+                )
+                composer = make_llm_composer(llm_client)
+
+                embed_cfg = EmbedderConfig(
+                    model_name=self.embedding_model,
+                    device="cpu"
+                )
+                
+                self._shared_rag_service = RagTextService(
+                    persist_path=self.rag_persist_path,
+                    collection_name=self.rag_collection_name,
+                    embedder_cfg=embed_cfg,
+                    planner=planner,
+                    composer=composer,
+                    max_steps=6,
+                )
+            return self._shared_rag_service
 
     def _save_result_to_jsonl(self, result: dict):
         """Save a single result to the JSONL file incrementally"""
@@ -739,12 +799,56 @@ class Evaluate:
                 f.write(json.dumps(result, default=str) + "\n")
 
     def _verify_entity(
-        self, expected: str, candidate: str, worker_verifier_llm=None
-    ) -> bool:
+        self, expected: str, candidate: str, worker_verifier_llm=None, question: str = "", context: str = ""
+    ) -> tuple:
+        """
+        Verify if the candidate answer matches the expected answer.
+        
+        For chemistry: Returns (is_correct: bool, None)
+        For legal: Returns (is_correct: bool, verification_score: int)
+        """
         verifier_llm = worker_verifier_llm or self.verifier_llm
 
         if candidate.strip().lower() == expected.strip().lower():
-            return True
+            # Exact match - return true with max score for legal
+            if self.domain == "legal":
+                return True, 10
+            return True, None
+        
+        # Legal domain uses scoring-based verification
+        if self.domain == "legal":
+            LEGAL_VERIFY_PROMPT = (
+                "<Task Description>\n"
+                "You will be given a complex legal question along with the\n"
+                "relevant legal provisions that can be used to resolve it.\n\n"
+                "<Evaluation Criteria>\n"
+                "Evaluate the legal accuracy of the response on a scale 1 ∼ 10.\n\n"
+                "<Evaluation Steps>\n"
+                "Check whether the prediction properly answers the question.\n"
+                "Check whether the prediction contradicts or omits any legal\n"
+                "provisions in the context.\n"
+                "Heavily penalize when the legal conclusion differs in detail\n"
+                "from the expected output.\n"
+                "Heavily penalize if the prediction contradicts or omits any\n"
+                "specific elements from the context.\n"
+                "Heavily penalize responses that include statements like 'The\n"
+                "given context does not include the answer, but generally'.\n\n"
+                "Output Format\n"
+                "Return ONLY a single integer from 1 to 10. No text, labels, or punctuation.\n\n"
+                "Now it's your turn to answer:\n\n"
+                "Query\n"
+                f"Question:\n{question}\n\n"
+                f"Context:\n{context}\n\n"
+                f"Expected output:\n{expected}\n\n"
+                f"Prediction:\n{candidate}"
+            )
+            response = verifier_llm(LEGAL_VERIFY_PROMPT)
+            parsed = response.get("parsed_output") if isinstance(response, dict) else None
+            score = int(getattr(parsed, "score", 1))
+            is_correct = score >= 8
+            return is_correct, score
+        
+        # Chemistry domain uses boolean verification
         else:
             VERIFY_PROMPT = (
                 "Task\n"
@@ -788,7 +892,8 @@ class Evaluate:
             )
             response = verifier_llm(VERIFY_PROMPT)
             parsed = response.get("parsed_output") if isinstance(response, dict) else None
-            return bool(getattr(parsed, "are_the_same", False))
+            is_correct = bool(getattr(parsed, "are_the_same", False))
+            return is_correct, None
 
     def _create_worker_llms(self):
         """Create new LLM instances for workers to avoid thread safety issues"""
@@ -846,7 +951,13 @@ class Evaluate:
         )
         composer = make_llm_composer(llm_client)
 
-        embed_cfg = EmbedderConfig(device="cpu")
+        # Configure embedding model based on domain
+        # EmbedderConfig is a frozen dataclass, so we must pass all params at creation
+        embed_cfg = EmbedderConfig(
+            model_name=self.embedding_model,
+            device="cpu"
+        )
+        
         svc = RagTextService(
             persist_path=self.rag_persist_path,
             collection_name=self.rag_collection_name,
@@ -855,31 +966,9 @@ class Evaluate:
             composer=composer,
             max_steps=6,
         )
-        # Build a merged retriever across all collections in the store
-        try:
-            client = chromadb.PersistentClient(path=self.rag_persist_path)
-            cols = client.list_collections()
-            names = [c.name for c in cols]
-            if names:
-                embedder = svc.embedder  # reuse existing embedder
-                indexes = [
-                    (ChromaTextIndex(self.rag_persist_path, name, embedder, distance="cosine"), name)
-                    for name in names
-                ]
-                multi = MultiCollectionRetriever(indexes, distance_space="cosine", oversample_dense=2)
-                # Rebuild orchestrator with merged retriever
-                from service.orchestrator import Orchestrator
-                svc.retriever = multi  # optional: keep for inspection
-                svc.orchestrator = Orchestrator(
-                    planner=planner,
-                    text_retriever=multi,
-                    compose_answer=composer,
-                    max_steps=6,
-                    dedupe=True,
-                    keep_top_evidence=None,
-                )
-        except Exception:
-            pass
+        # Do NOT build a merged retriever - use only the domain-specific collection
+        # This avoids embedding dimension mismatches between collections
+        # (chemistry uses 1024-dim BASF-AI/ChEmbed, legal uses 768-dim Qwen)
         return svc, llm_client
 
     def _process_record_without_context(self, record, worker_llms=None):
@@ -1023,14 +1112,29 @@ class Evaluate:
             rag_result = {"error": str(e)}
             candidate = ""
 
-        if candidate is not None:
-            is_correct = (
-                self._verify_entity(expected or "", candidate or "", verifier_llm)
-                if expected
-                else False
+        # Extract context for legal verification
+        context_text = ""
+        if self.domain == "legal" and isinstance(rag_result, dict):
+            evidence = rag_result.get("evidence", [])
+            if evidence:
+                context_parts = []
+                for ev in evidence[:3]:  # Use top 3 evidence pieces
+                    if isinstance(ev, dict) and "text" in ev:
+                        context_parts.append(ev["text"])
+                context_text = "\n\n".join(context_parts)
+
+        verification_score = None
+        if candidate is not None and expected:
+            is_correct, verification_score = self._verify_entity(
+                expected or "", 
+                candidate or "", 
+                verifier_llm,
+                question=question,
+                context=context_text
             )
         else:
             is_correct = False
+            verification_score = None if self.domain != "legal" else 1
 
         elapsed_ms = (time.time() - t0) * 1000.0
         # Gather token usage across planner/composer calls in this answer
@@ -1056,7 +1160,10 @@ class Evaluate:
         print(f"[Evaluate] Candidate: {candidate}")
         if expected:
             print(f"[Evaluate] Expected: {expected}")
-        print(f"[Evaluate] Correct: {is_correct} | Elapsed: {round(elapsed_ms,2)} ms")
+        if self.domain == "legal" and verification_score is not None:
+            print(f"[Evaluate] Verification Score: {verification_score}/10 | Correct: {is_correct} | Elapsed: {round(elapsed_ms,2)} ms")
+        else:
+            print(f"[Evaluate] Correct: {is_correct} | Elapsed: {round(elapsed_ms,2)} ms")
         
         # Calculate total reasoning tokens from all calls
         total_reasoning_tokens = int(usage.get("reasoning", 0))
@@ -1077,14 +1184,30 @@ class Evaluate:
             "raw": {"question": question, "expected": expected, "number_of_hops": int(number_of_hops or 0)},
             "error": rag_result.get("error", None) if isinstance(rag_result, dict) else None,
         }
+        
+        # Add verification_score for legal domain
+        if self.domain == "legal":
+            result["verification_score"] = verification_score
 
         self._save_result_to_jsonl(result)
         return result
 
     def _process_batch_rag(self, batch, progress_callback=None):
-        """Process a batch of records using a worker-specific RAG service and verifier."""
+        """Process a batch of records using the shared RAG service and worker-specific verifier."""
         verifier_llm = StructuredLLM(**self.verifier_llm_params)
-        rag_service, llm_client = self._create_worker_rag_service()
+        # Use shared RAG service instead of creating per-worker
+        rag_service = self._get_shared_rag_service()
+        
+        # Create worker-specific LLM client for token tracking
+        from service.structured_llm_adapter import StructuredLLMClient
+        llm_client = StructuredLLMClient(
+            provider=self.qa_llm_params["provider"],
+            model=self.qa_llm_params["model_id"],
+            temperature=float(self.qa_llm_params.get("temperature", 0.0) or 0.0),
+            max_tokens=int(self.qa_llm_params.get("max_completion_tokens", 600) or 600),
+            debug=False,
+        )
+        
         worker_ctx = (verifier_llm, rag_service, llm_client)
         results = []
         for record in batch:
@@ -1192,18 +1315,25 @@ class BenchmarkRunner:
         records: list[dict],
         responses_dir: str = "responses",
         results_file: str = "results.csv",
+        domain: str = "chemistry",
     ):
         self.records = records
         self.responses_dir = responses_dir
         self.results_file = results_file
+        self.domain = domain
         self.model_registry = ModelRegistry()
         os.makedirs(responses_dir, exist_ok=True)
 
         if not os.path.exists(results_file):
             with open(results_file, "w") as f:
-                f.write(
-                    "Model,Run,Accuracy (%),Avg Duration (s),Avg Input Tokens,Avg Output Tokens,Total Input Tokens,Total Output Tokens,Total Samples\n"
-                )
+                if domain == "legal":
+                    f.write(
+                        "Model,Run,Accuracy (%),Avg Duration (s),Avg Input Tokens,Avg Output Tokens,Total Input Tokens,Total Output Tokens,Total Samples,Avg Verification Score\n"
+                    )
+                else:
+                    f.write(
+                        "Model,Run,Accuracy (%),Avg Duration (s),Avg Input Tokens,Avg Output Tokens,Total Input Tokens,Total Output Tokens,Total Samples\n"
+                    )
 
     def _get_processed_questions(self, responses_path: str):
         """Get questions that have already been processed for a model"""
@@ -1342,20 +1472,35 @@ class BenchmarkRunner:
             total_out_tokens = sum(
                 r.get("output_tokens", 0) for r in with_context_results
             )
+            
+            # Calculate average verification score for legal domain
+            avg_verification_score = None
+            if self.domain == "legal":
+                verification_scores = [
+                    r.get("verification_score", 0) 
+                    for r in with_context_results 
+                    if r.get("verification_score") is not None
+                ]
+                if verification_scores:
+                    avg_verification_score = sum(verification_scores) / len(verification_scores)
 
-            results.append(
-                {
-                    "Model": model_name,
-                    "Run": "With Context",
-                    "Accuracy (%)": round(accuracy, 2),
-                    "Avg Duration (s)": round(avg_latency, 2),
-                    "Avg Input Tokens": round(avg_in_tokens, 2),
-                    "Avg Output Tokens": round(avg_out_tokens, 2),
-                    "Total Input Tokens": total_in_tokens,
-                    "Total Output Tokens": total_out_tokens,
-                    "Total Samples": total,
-                }
-            )
+            result_dict = {
+                "Model": model_name,
+                "Run": "With Context",
+                "Accuracy (%)": round(accuracy, 2),
+                "Avg Duration (s)": round(avg_latency, 2),
+                "Avg Input Tokens": round(avg_in_tokens, 2),
+                "Avg Output Tokens": round(avg_out_tokens, 2),
+                "Total Input Tokens": total_in_tokens,
+                "Total Output Tokens": total_out_tokens,
+                "Total Samples": total,
+            }
+            
+            # Add verification score column for legal domain
+            if self.domain == "legal" and avg_verification_score is not None:
+                result_dict["Avg Verification Score"] = round(avg_verification_score, 2)
+            
+            results.append(result_dict)
 
         if results and self.results_file:
             self._update_results_csv(pd.DataFrame(results), model_name)
@@ -1409,11 +1554,18 @@ class BenchmarkRunner:
 
             if records_with_context:
                 print(f"Evaluating {len(records_with_context)} records via Iterative RAG")
+                # Allow override of num_workers via environment variable
+                try:
+                    num_workers = int(os.getenv("EVAL_WORKERS", "2"))
+                except Exception:
+                    num_workers = 2
                 evaluator = Evaluate(
                     qa_llm=structured_llm,
                     records=records_with_context,
                     responses_save_path=responses_path,
                     use_context=True,
+                    domain=self.domain,
+                    num_workers=num_workers,
                 )
                 evaluator.evaluate()
 
@@ -1435,13 +1587,23 @@ class BenchmarkRunner:
 if __name__ == "__main__":
     # Anchor default paths to the src/ tree so running from src/ works consistently
     _SRC_BASE = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
-    RESPONSES_DIR = os.path.join(_SRC_BASE, "responses")  # Directory to save intermediate responses
+    
+    # Domain selection: chemistry (default) or legal
+    DOMAIN = os.getenv("EVAL_DOMAIN", "chemistry").lower()
+    
+    # Domain-specific configuration
+    if DOMAIN == "legal":
+        RECORDS_PATH = os.path.join(_SRC_BASE, "docs", "koblex_transformed_enhanced.json")
+        RESPONSES_DIR = os.path.join(_SRC_BASE, "responses_legal")
+    else:  # chemistry (default)
+        RECORDS_PATH = os.path.join(_SRC_BASE, "docs", "chemrxiv_qa.json")
+        RESPONSES_DIR = os.path.join(_SRC_BASE, "responses")
+    
     # Save results per provider/model to separate files (fallback to 'any' when unset)
     _prov_slug = (os.getenv("EVAL_PROVIDER") or "any").replace("/", "__").replace(":", "_")
     _model_slug = (os.getenv("EVAL_MODEL") or "any").replace("/", "__").replace(":", "_")
-    RESULT_PATH = os.path.join(_SRC_BASE, f"results_{_prov_slug}_{_model_slug}.csv")
-    # Default to the provided ChemRxiv QA dataset; map to evaluator schema
-    RECORDS_PATH = os.path.join(_SRC_BASE, "docs", "chemrxiv_qa.json")
+    RESULT_PATH = os.path.join(_SRC_BASE, f"results_{DOMAIN}_{_prov_slug}_{_model_slug}.csv")
+    
     os.makedirs(RESPONSES_DIR, exist_ok=True)
 
     def _normalize_records(recs: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
@@ -1499,11 +1661,21 @@ if __name__ == "__main__":
         records.sort(key=lambda r: order_index.get(r.get("question"), 1_000_000))
 
     benchmark_runner = BenchmarkRunner(
-        records=records, responses_dir=RESPONSES_DIR, results_file=RESULT_PATH
+        records=records, responses_dir=RESPONSES_DIR, results_file=RESULT_PATH, domain=DOMAIN
     )
     # Optional scope control for quick tests
     env_provider = os.getenv("EVAL_PROVIDER")
     env_model = os.getenv("EVAL_MODEL")
+    
+    print(f"\n{'='*80}")
+    print(f"EVALUATION CONFIGURATION")
+    print(f"{'='*80}")
+    print(f"Domain: {DOMAIN.upper()}")
+    print(f"Dataset: {RECORDS_PATH}")
+    print(f"Records: {len(records)}")
+    print(f"Responses Dir: {RESPONSES_DIR}")
+    print(f"Results File: {RESULT_PATH}")
+    print(f"{'='*80}\n")
 
     now = datetime.now()
     if env_provider:

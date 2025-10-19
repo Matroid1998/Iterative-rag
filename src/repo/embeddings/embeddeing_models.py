@@ -1,5 +1,7 @@
 from typing import Iterable, Optional
 import numpy as np
+import torch
+import os
 
 from sentence_transformers import SentenceTransformer
 from protocols.embedding_config import EmbedderConfig 
@@ -11,22 +13,49 @@ class HFEmbedder:
     def __init__(self, cfg: EmbedderConfig = EmbedderConfig()):
         self.cfg = cfg
 
+        # Prepare model_kwargs to avoid PyTorch meta tensor issues
+        model_kwargs = cfg.model_kwargs or {}
+        # Explicitly disable device_map and low_cpu_mem_usage to prevent meta tensor initialization
+        model_kwargs["device_map"] = None
+        model_kwargs["low_cpu_mem_usage"] = False  # This can cause meta tensor issues
+        
+        # Force CPU device to avoid CUDA OOM and meta tensor issues
+        target_device = "cpu"
+        
+        # Set environment variable to prevent accelerate from using meta device
+        os.environ["ACCELERATE_USE_CPU"] = "1"
+        
         try:
+            # Load model with explicit backend and device settings
             self.model = SentenceTransformer(
                 cfg.model_name,
-                device=cfg.device,
+                device=target_device,
+                backend="torch",  # Explicitly use torch backend
                 prompts=cfg.prompts,
                 default_prompt_name=cfg.default_prompt_name,
                 trust_remote_code=cfg.trust_remote_code,
-                model_kwargs=(cfg.model_kwargs or {}),
+                model_kwargs=model_kwargs,
                 tokenizer_kwargs=(cfg.tokenizer_kwargs or {}),
             )
         except TypeError:
-            self.model = SentenceTransformer(
-                cfg.model_name,
-                device=cfg.device,
-                trust_remote_code=cfg.trust_remote_code,
-            )
+            # Fallback for older sentence-transformers versions without backend parameter
+            try:
+                self.model = SentenceTransformer(
+                    cfg.model_name,
+                    device=target_device,
+                    prompts=cfg.prompts,
+                    default_prompt_name=cfg.default_prompt_name,
+                    trust_remote_code=cfg.trust_remote_code,
+                    model_kwargs=model_kwargs,
+                    tokenizer_kwargs=(cfg.tokenizer_kwargs or {}),
+                )
+            except:
+                # Minimal fallback
+                self.model = SentenceTransformer(
+                    cfg.model_name,
+                    device=target_device,
+                    trust_remote_code=cfg.trust_remote_code,
+                )
 
     @property
     def dim(self) -> int:
