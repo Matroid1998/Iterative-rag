@@ -21,6 +21,7 @@ timestamp,folder,file_name,total_questions,correct_answers,accuracy,verifier_pro
 2025-09-24T02:13:17,response-jsonl-with-context,responses_bedrock_us.meta.llama3-3-70b-instruct-v1:0_reverified.jsonl,1186,635,0.5354,openai,gpt-5-mini
 2025-09-24T02:13:17,response-jsonl-with-context,responses_openai_gpt-4o-mini_reverified.jsonl,1186,626,0.5278,openai,gpt-5-mini
 2025-09-24T02:13:17,response-jsonl-with-context,responses_openai_gpt-4o_reverified.jsonl,1186,668,0.5632,openai,gpt-5-mini
+2025-09-24T02:13:17,response-jsonl-with-context,responses_openai_gpt-5.jsonl,1186,850,0.7166,openai,gpt-5-mini
 2025-09-24T02:13:17,response-jsonl-with-context,responses_openai_o1-mini_reverified.jsonl,1186,729,0.6147,openai,gpt-5-mini
 2025-09-24T02:13:17,response-jsonl-with-context,responses_openai_o3-mini_reverified.jsonl,1186,824,0.6948,openai,gpt-5-mini
 2025-09-24T02:13:17,response-jsonl-with-context,responses_openrouter_deepseek__deepseek-r1-distill-qwen-32b-reasoning_reverified.jsonl,1186,833,0.7024,openai,gpt-5-mini
@@ -38,6 +39,7 @@ timestamp,folder,file_name,total_questions,correct_answers,accuracy,verifier_pro
 2025-09-24T02:13:17,response-jsonl-without-context,responses_bedrock_us.meta.llama3-3-70b-instruct-v1:0_reverified.jsonl,1186,298,0.2513,openai,gpt-5-mini
 2025-09-24T02:13:17,response-jsonl-without-context,responses_openai_gpt-4o-mini_reverified.jsonl,1186,301,0.2538,openai,gpt-5-mini
 2025-09-24T02:13:17,response-jsonl-without-context,responses_openai_gpt-4o_reverified.jsonl,1186,383,0.3229,openai,gpt-5-mini
+2025-09-24T02:13:17,response-jsonl-without-context,responses_openai_gpt-5.jsonl,1186,535,0.4510,openai,gpt-5-mini
 2025-09-24T02:13:17,response-jsonl-without-context,responses_openai_o1-mini_reverified.jsonl,1186,386,0.3255,openai,gpt-5-mini
 2025-09-24T02:13:17,response-jsonl-without-context,responses_openai_o3-mini_reverified.jsonl,1186,467,0.3938,openai,gpt-5-mini
 2025-09-24T02:13:17,response-jsonl-without-context,responses_openrouter_deepseek__deepseek-r1-distill-qwen-32b-reasoning_reverified.jsonl,1186,359,0.3027,openai,gpt-5-mini
