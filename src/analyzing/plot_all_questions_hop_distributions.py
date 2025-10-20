@@ -624,6 +624,7 @@ def main() -> None:
     gold_context_filename_mapping = {
         "responses_openrouter_google__gemini-2.5-pro_reverified.jsonl": "responses_openrouter_google__gemini-2.5-pro-reasoning.jsonl",
         "responses_openrouter_x-ai__grok-4-fast_reverified.jsonl": "responses_openrouter_x-ai__grok-4-fast-reasoning.jsonl",
+        "responses_openrouter_z-ai__glm-4.6_reverified.jsonl": "responses_openrouter_z-ai__glm-4.6-reasoning.jsonl",
     }
 
     for iterative_path, display_name in get_iterative_model_entries():
