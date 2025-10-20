@@ -17,8 +17,8 @@ import numpy as np
 
 # Add parent directory to path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-from cross_system_plots.cross_system_utils import (
-    load_all_judgments, create_merged_dataset, normalize_model_name
+from hallucination_rag_plots.hall_plot_utils import (
+    load_hallucination_judgments, load_coverage_judgments, normalize_model_name
 )
 
 OUTPUT_DIR = Path(__file__).resolve().parents[2] / 'rag_analysis' / 'output'
@@ -27,12 +27,36 @@ PLOT_DIR = Path(__file__).resolve().parent
 
 def main():
     """Generate miscalibration direction by hop count plot with accuracy overlay."""
-    # Load and merge all judgment types
-    cov_records, qual_records, hall_records = load_all_judgments(OUTPUT_DIR)
-    merged = create_merged_dataset(cov_records, qual_records, hall_records)
+    # Load hallucination and coverage judgments separately
+    hall_records = load_hallucination_judgments(OUTPUT_DIR)
+    cov_records = load_coverage_judgments(OUTPUT_DIR)
     
-    # Filter to records with hallucination data
-    complete = [r for r in merged if 'hallucination' in r and 'number_of_hops' in r]
+    # Index coverage by (model, question) for fast lookup
+    cov_index = {}
+    for rec in cov_records:
+        key = (rec.get('model', ''), rec.get('question', ''))
+        cov_index[key] = rec
+    
+    # Merge coverage data into hallucination records (use hallucination as base)
+    complete = []
+    for h_rec in hall_records:
+        if h_rec.get('number_of_hops', 0) == 0:
+            continue
+        
+        key = (h_rec.get('model', ''), h_rec.get('question', ''))
+        entry = {
+            'model': h_rec.get('model', ''),
+            'question': h_rec.get('question', ''),
+            'number_of_hops': h_rec.get('number_of_hops', 0),
+            'hallucination': h_rec.get('parsed_judgment', {}),
+            'is_correct': False  # Default
+        }
+        
+        # Add is_correct from coverage if available
+        if key in cov_index:
+            entry['is_correct'] = cov_index[key].get('is_correct', False)
+        
+        complete.append(entry)
     
     # Group by model, hop count, and direction + track correctness
     model_hop_direction = defaultdict(lambda: defaultdict(lambda: defaultdict(int)))
