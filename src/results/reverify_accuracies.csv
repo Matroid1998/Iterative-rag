@@ -27,6 +27,7 @@ timestamp,folder,file_name,total_questions,correct_answers,accuracy,verifier_pro
 2025-09-24T02:13:17,response-jsonl-with-context,responses_openrouter_deepseek__deepseek-r1-distill-qwen-32b-reasoning_reverified.jsonl,1186,833,0.7024,openai,gpt-5-mini
 2025-09-24T02:13:17,response-jsonl-with-context,responses_openrouter_google__gemma-3-27b-it_reverified.jsonl,1186,727,0.6130,openai,gpt-5-mini
 2025-09-24T02:13:17,response-jsonl-with-context,responses_openrouter_qwen__qwq-32b-reasoning_reverified.jsonl,1186,843,0.7108,openai,gpt-5-mini
+2025-09-24T02:13:17,response-jsonl-with-context,responses_openrouter_z-ai__glm-4.6-reasoning_reverified.jsonl,1186,860,0.7251,openai,gpt-5-mini
 2025-09-24T02:13:17,response-jsonl-without-context,responses_openrouter_anthropic_claude_sonnet_4_5_reasoning.jsonl,1186,474,0.3996,openai,gpt-5-mini
 2025-09-24T02:13:17,response-jsonl-without-context,responses_openrouter_google__gemini-2.5-pro-reasoning.jsonl,1186,489,0.4123,openai,gpt-5-mini
 2025-09-24T02:13:17,response-jsonl-without-context,responses_openrouter_x-ai__grok-4-fast-reasoning.jsonl,1186,484,0.4080,openai,gpt-5-mini
@@ -45,3 +46,4 @@ timestamp,folder,file_name,total_questions,correct_answers,accuracy,verifier_pro
 2025-09-24T02:13:17,response-jsonl-without-context,responses_openrouter_deepseek__deepseek-r1-distill-qwen-32b-reasoning_reverified.jsonl,1186,359,0.3027,openai,gpt-5-mini
 2025-09-24T02:13:17,response-jsonl-without-context,responses_openrouter_google__gemma-3-27b-it_reverified.jsonl,1186,327,0.2757,openai,gpt-5-mini
 2025-09-24T02:13:17,response-jsonl-without-context,responses_openrouter_qwen__qwq-32b-reasoning_reverified.jsonl,1186,369,0.3111,openai,gpt-5-mini
+2025-09-24T02:13:17,response-jsonl-without-context,responses_openrouter_z-ai__glm-4.6-reasoning_reverified.jsonl,1186,421,0.3549,openai,gpt-5-mini
