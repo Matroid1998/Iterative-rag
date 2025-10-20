@@ -359,6 +359,7 @@ def plot_grouped_bar_with_std(
     ylabel: str,
     title: str,
     output_path: Path,
+    use_log_scale: bool = False,
 ) -> None:
     x_positions = np.arange(len(categories))
     num_models = len(model_names)
@@ -368,7 +369,7 @@ def plot_grouped_bar_with_std(
     width = min(0.8 / num_models, 0.18)
     offsets = (np.arange(num_models) - (num_models - 1) / 2) * width
 
-    fig, ax = plt.subplots(figsize=(10, 6))
+    fig, ax = plt.subplots(figsize=(12, 7))
 
     for idx, model in enumerate(model_names):
         heights = [counts_map[cat].get(model, 0) for cat in categories]
@@ -384,14 +385,23 @@ def plot_grouped_bar_with_std(
             capsize=3,
         )
         labels = [format_bar_label(float(height)) for height in heights]
-        ax.bar_label(bars, labels=labels, padding=3)
+        ax.bar_label(bars, labels=labels, padding=3, fontsize=7)
 
     ax.set_xticks(x_positions)
     ax.set_xticklabels([f"{cat} models wrong" for cat in categories])
-    ax.set_ylabel(ylabel)
-    ax.set_xlabel("Hard questions category")
-    ax.set_title(title)
-    ax.legend(loc="upper right")
+    ax.set_ylabel(ylabel, fontweight='bold')
+    ax.set_xlabel("Hard questions category", fontweight='bold')
+    ax.set_title(title, fontweight='bold', pad=15)
+    
+    # Add log scale if requested
+    if use_log_scale:
+        ax.set_yscale('log')
+        ax.grid(True, alpha=0.3, linestyle='--', which='both')
+    else:
+        ax.grid(True, alpha=0.3, linestyle='--')
+    
+    ax.set_axisbelow(True)
+    ax.legend(loc="upper left", fontsize=9, ncol=2)
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     fig.savefig(output_path, dpi=200, bbox_inches="tight")

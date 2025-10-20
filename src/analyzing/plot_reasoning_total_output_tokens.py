@@ -19,19 +19,10 @@ def main() -> None:
     base = Path(__file__).resolve().parents[1]
     responses_dir = base / "responses_reverified"
 
-    model_entries = [
-        ("responses_bedrock_mistral.mistral-large-2402-v1:0_reverified.jsonl", "Mistral Large 2402"),
-        ("responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning_reverified.jsonl", "Claude 3.7 Sonnet Thinking"),
-        ("responses_bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0_reverified.jsonl", "Claude 3.7 Sonnet"),
-        ("responses_bedrock_us.deepseek.r1-v1:0-reasoning_reverified.jsonl", "DeepSeek R1"),
-        ("responses_bedrock_us.meta.llama3-3-70b-instruct-v1:0_reverified.jsonl", "Llama 3.3 70B Instruct"),
-        ("responses_openai_gpt-4o_reverified.jsonl", "GPT-4o"),
-        ("responses_openai_gpt-5_reverified.jsonl", "GPT-5"),
-        ("responses_openrouter_anthropic__claude-sonnet-4.5_reverified.jsonl", "Claude Sonnet 4.5"),
-        ("responses_openrouter_google__gemini-2.5-pro_reverified.jsonl", "Gemini 2.5 Pro"),
-        ("responses_openrouter_x-ai__grok-4-fast_reverified.jsonl", "Grok 4 Fast"),
-        ("responses_openrouter_z-ai__glm-4.6_reverified.jsonl", "GLM 4.6"),
-    ]
+    # Use ITERATIVE_MODEL_ENTRIES from config to include all models
+    from config import ITERATIVE_MODEL_ENTRIES
+    
+    model_entries = list(ITERATIVE_MODEL_ENTRIES)
 
     (
         _category_questions,
@@ -45,45 +36,11 @@ def main() -> None:
     ) = compute_hard_question_data(
         responses_dir,
         model_entries,
-        subtract_reasoning=False,
+        subtract_reasoning=False,  # Use full output_tokens (not subtracting reasoning)
     )
 
-    reasoning_models = [
-        "Claude 3.7 Sonnet Thinking",
-        "DeepSeek R1",
-        "GPT-5",
-        "Claude Sonnet 4.5",
-        "Gemini 2.5 Pro",
-        "Grok 4 Fast",
-        "GLM 4.6",
-    ]
-
-    def filter_models(mapping: dict[int, dict[str, float | int]]) -> dict[int, dict[str, float | int]]:
-        return {
-            category: {
-                model: value
-                for model, value in model_map.items()
-                if model in reasoning_models
-            }
-            for category, model_map in mapping.items()
-        }
-
-    def filter_token_values(mapping: dict[int, dict[str, list[int]]]) -> dict[int, dict[str, list[int]]]:
-        return {
-            category: {
-                model: values
-                for model, values in model_map.items()
-                if model in reasoning_models
-            }
-            for category, model_map in mapping.items()
-        }
-
-    correct_counts = filter_models(correct_counts)
-    incorrect_counts = filter_models(incorrect_counts)
-    correct_tokens = filter_models(correct_tokens)
-    incorrect_tokens = filter_models(incorrect_tokens)
-    correct_token_values = filter_token_values(correct_token_values)
-    incorrect_token_values = filter_token_values(incorrect_token_values)
+    # No filtering - use all models
+    # correct_counts, incorrect_counts, etc. already contain all models
 
     # Convert totals to averages
     correct_avg_tokens = compute_average_map(correct_tokens, correct_counts)
@@ -93,12 +50,12 @@ def main() -> None:
     correct_std_tokens = compute_std_map(correct_token_values)
     incorrect_std_tokens = compute_std_map(incorrect_token_values)
 
-    model_names = reasoning_models
+    # model_names already contains all models from compute_hard_question_data
 
     categories = list(CATEGORIES)
     plots_dir = base / "plots"
 
-    model_colors = {model: get_model_color(model) for model in reasoning_models}
+    model_colors = {model: get_model_color(model) for model in model_names}
 
     plot_grouped_bar_with_std(
         categories,
@@ -106,9 +63,10 @@ def main() -> None:
         correct_std_tokens,
         model_names,
         model_colors,
-        ylabel="Average output tokens",
-        title="Average output tokens on questions answered correctly (reasoning models)",
+        ylabel="Average Output Tokens (log scale)",
+        title="Average Output Tokens on Questions Answered Correctly (All Models)",
         output_path=plots_dir / "hard_questions_reasoning_correct_total_tokens.png",
+        use_log_scale=True,
     )
 
     plot_grouped_bar_with_std(
@@ -117,12 +75,13 @@ def main() -> None:
         incorrect_std_tokens,
         model_names,
         model_colors,
-        ylabel="Average output tokens",
-        title="Average output tokens on questions missed (reasoning models)",
+        ylabel="Average Output Tokens (log scale)",
+        title="Average Output Tokens on Questions Missed (All Models)",
         output_path=plots_dir / "hard_questions_reasoning_incorrect_total_tokens.png",
+        use_log_scale=True,
     )
 
-    print("Generated reasoning-model average token plots in", plots_dir)
+    print("Generated all-model average output token plots (with log scale) in", plots_dir)
 
 
 if __name__ == "__main__":
