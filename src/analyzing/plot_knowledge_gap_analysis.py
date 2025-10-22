@@ -240,10 +240,15 @@ def plot_knowledge_gap_matrix(
     
     Rows: Models
     Columns: Categories (Intrinsic, Retrieval, Iterative, Gap)
-    Color: Count or percentage
+    Color: Percentage of correctly answered questions
     """
     categories = ['intrinsic', 'retrieval', 'iterative', 'gap']
-    category_labels = ['Intrinsic\nKnowledge', 'Retrieval\nDependent', 'Iterative\nDependent', 'Knowledge\nGap']
+    category_labels = [
+        'Parametric\nMemory',
+        'Optimum\nretrieval',
+        'Synchronized retrieval\nand reasoning.',
+        'not\nsolved',
+    ]
     
     # Build matrix
     matrix_counts = np.zeros((len(models), len(categories)))
@@ -258,48 +263,33 @@ def plot_knowledge_gap_matrix(
             matrix_counts[i, j] = count
             matrix_pcts[i, j] = (count / total * 100) if total > 0 else 0
     
-    # Create figure with two subplots
-    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(16, max(8, len(models) * 0.5)))
-    
-    # Plot 1: Absolute counts
-    im1 = ax1.imshow(matrix_counts, cmap='YlOrRd', aspect='auto', vmin=0)
-    ax1.set_xticks(np.arange(len(categories)))
-    ax1.set_yticks(np.arange(len(models)))
-    ax1.set_xticklabels(category_labels, fontsize=11)
-    ax1.set_yticklabels(models, fontsize=10)
-    ax1.set_title('Question Counts by Category', fontsize=12, fontweight='bold', pad=15)
+    # Create figure focused on percentage heatmap
+    fig, ax = plt.subplots(figsize=(10, max(8, len(models) * 0.5)))
+    im = ax.imshow(matrix_pcts, cmap='YlOrRd', aspect='auto', vmin=0, vmax=100)
+    ax.set_xticks(np.arange(len(categories)))
+    ax.set_yticks(np.arange(len(models)))
+    ax.set_xticklabels(category_labels, fontsize=11)
+    ax.set_yticklabels(models, fontsize=10)
+    ax.set_title('Questions correctly answered ( % ) by models in different settings.', fontsize=12, fontweight='bold', pad=15)
     
     # Add text annotations
     for i in range(len(models)):
         for j in range(len(categories)):
-            text = ax1.text(j, i, f'{int(matrix_counts[i, j])}',
-                          ha='center', va='center', color='black' if matrix_counts[i, j] < matrix_counts.max() * 0.6 else 'white',
-                          fontweight='bold', fontsize=9)
+            ax.text(
+                j,
+                i,
+                f'{matrix_pcts[i, j]:.1f}%',
+                ha='center',
+                va='center',
+                color='black' if matrix_pcts[i, j] < 60 else 'white',
+                fontweight='bold',
+                fontsize=9,
+            )
     
-    cbar1 = plt.colorbar(im1, ax=ax1, fraction=0.046, pad=0.04)
-    cbar1.set_label('Count', rotation=270, labelpad=20, fontweight='bold')
+    cbar = plt.colorbar(im, ax=ax, fraction=0.046, pad=0.04)
+    cbar.set_label('Percentage (%)', rotation=270, labelpad=20, fontweight='bold')
     
-    # Plot 2: Percentages
-    im2 = ax2.imshow(matrix_pcts, cmap='YlOrRd', aspect='auto', vmin=0, vmax=100)
-    ax2.set_xticks(np.arange(len(categories)))
-    ax2.set_yticks(np.arange(len(models)))
-    ax2.set_xticklabels(category_labels, fontsize=11)
-    ax2.set_yticklabels(models, fontsize=10)
-    ax2.set_title('Question Distribution by Category (%)', fontsize=12, fontweight='bold', pad=15)
-    
-    # Add text annotations
-    for i in range(len(models)):
-        for j in range(len(categories)):
-            text = ax2.text(j, i, f'{matrix_pcts[i, j]:.1f}%',
-                          ha='center', va='center', color='black' if matrix_pcts[i, j] < 60 else 'white',
-                          fontweight='bold', fontsize=9)
-    
-    cbar2 = plt.colorbar(im2, ax=ax2, fraction=0.046, pad=0.04)
-    cbar2.set_label('Percentage (%)', rotation=270, labelpad=20, fontweight='bold')
-    
-    fig.suptitle('Knowledge Gap Matrix: Distribution of Question Categories Across Models',
-                fontsize=14, fontweight='bold', y=0.98)
-    fig.tight_layout(rect=[0, 0, 1, 0.96])
+    fig.tight_layout()
     out_path.parent.mkdir(parents=True, exist_ok=True)
     fig.savefig(out_path, dpi=300, bbox_inches='tight')
     plt.close(fig)
