@@ -4,15 +4,51 @@
 from __future__ import annotations
 
 from pathlib import Path
+from typing import Dict, Iterable, List
 
 from config import get_model_color
 from plot_hard_question_grouped import (
-    CATEGORIES,
     compute_hard_question_data,
     plot_grouped_bar_with_std,
     compute_average_map,
     compute_std_map,
 )
+
+CATEGORY_GROUPS = {
+    "Easy": (0, 1, 2),
+    "Medium": (5, 6, 7),
+    "Hard": (9, 10, 11),
+}
+
+
+def _aggregate_by_group(
+    source_map: Dict[int, Dict[str, int]],
+    model_names: List[str],
+    groups: Dict[str, Iterable[int]],
+) -> Dict[str, Dict[str, int]]:
+    aggregated: Dict[str, Dict[str, int]] = {
+        label: {model: 0 for model in model_names} for label in groups
+    }
+    for label, categories in groups.items():
+        for category in categories:
+            for model, value in source_map.get(category, {}).items():
+                aggregated[label][model] += value
+    return aggregated
+
+
+def _aggregate_token_values(
+    source_map: Dict[int, Dict[str, List[int]]],
+    model_names: List[str],
+    groups: Dict[str, Iterable[int]],
+) -> Dict[str, Dict[str, List[int]]]:
+    aggregated: Dict[str, Dict[str, List[int]]] = {
+        label: {model: [] for model in model_names} for label in groups
+    }
+    for label, categories in groups.items():
+        for category in categories:
+            for model, values in source_map.get(category, {}).items():
+                aggregated[label][model].extend(values)
+    return aggregated
 
 
 def main() -> None:
@@ -26,21 +62,31 @@ def main() -> None:
 
     (
         _category_questions,
-        correct_counts,
-        incorrect_counts,
-        correct_tokens,
-        incorrect_tokens,
-        correct_token_values,
-        incorrect_token_values,
+        raw_correct_counts,
+        raw_incorrect_counts,
+        raw_correct_tokens,
+        raw_incorrect_tokens,
+        raw_correct_token_values,
+        raw_incorrect_token_values,
         model_names,
     ) = compute_hard_question_data(
         responses_dir,
         model_entries,
         subtract_reasoning=False,  # Use full output_tokens (not subtracting reasoning)
+        categories=sorted({cat for cats in CATEGORY_GROUPS.values() for cat in cats}),
     )
 
-    # No filtering - use all models
-    # correct_counts, incorrect_counts, etc. already contain all models
+    # Aggregate raw category statistics into easy/medium/hard groups
+    correct_counts = _aggregate_by_group(raw_correct_counts, model_names, CATEGORY_GROUPS)
+    incorrect_counts = _aggregate_by_group(raw_incorrect_counts, model_names, CATEGORY_GROUPS)
+    correct_tokens = _aggregate_by_group(raw_correct_tokens, model_names, CATEGORY_GROUPS)
+    incorrect_tokens = _aggregate_by_group(raw_incorrect_tokens, model_names, CATEGORY_GROUPS)
+    correct_token_values = _aggregate_token_values(
+        raw_correct_token_values, model_names, CATEGORY_GROUPS
+    )
+    incorrect_token_values = _aggregate_token_values(
+        raw_incorrect_token_values, model_names, CATEGORY_GROUPS
+    )
 
     # Convert totals to averages
     correct_avg_tokens = compute_average_map(correct_tokens, correct_counts)
@@ -52,7 +98,7 @@ def main() -> None:
 
     # model_names already contains all models from compute_hard_question_data
 
-    categories = list(CATEGORIES)
+    categories = list(CATEGORY_GROUPS.keys())
     plots_dir = base / "plots"
 
     model_colors = {model: get_model_color(model) for model in model_names}

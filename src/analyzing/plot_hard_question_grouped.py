@@ -63,6 +63,7 @@ def compute_hard_question_data(
     responses_dir: Path,
     model_entries: List[Tuple[str, str]],
     subtract_reasoning: bool = True,
+    categories: Iterable[int] | None = None,
 ) -> Tuple[
     Dict[int, List[dict]],
     Dict[int, Dict[str, int]],
@@ -74,6 +75,15 @@ def compute_hard_question_data(
     List[str],
 ]:
     model_metrics: Dict[str, Dict[str, Dict[str, object]]] = {}
+
+    if categories is None:
+        category_sequence = list(CATEGORIES)
+    else:
+        category_sequence = list(dict.fromkeys(categories))
+    if not category_sequence:
+        raise ValueError("At least one category is required to compute hard question data.")
+    category_set = set(category_sequence)
+
     for filename, display_name in model_entries:
         path = responses_dir / filename
         if not path.exists():
@@ -90,25 +100,25 @@ def compute_hard_question_data(
         raise SystemExit("No questions available after loading model responses")
     common_questions = set.intersection(*question_sets)
 
-    category_questions: Dict[int, List[dict]] = {cat: [] for cat in CATEGORIES}
+    category_questions: Dict[int, List[dict]] = {cat: [] for cat in category_sequence}
     incorrect_counts: Dict[int, Dict[str, int]] = {
-        cat: {model: 0 for model in model_metrics.keys()} for cat in CATEGORIES
+        cat: {model: 0 for model in model_metrics.keys()} for cat in category_sequence
     }
     correct_counts: Dict[int, Dict[str, int]] = {
-        cat: {model: 0 for model in model_metrics.keys()} for cat in CATEGORIES
+        cat: {model: 0 for model in model_metrics.keys()} for cat in category_sequence
     }
     incorrect_tokens: Dict[int, Dict[str, int]] = {
-        cat: {model: 0 for model in model_metrics.keys()} for cat in CATEGORIES
+        cat: {model: 0 for model in model_metrics.keys()} for cat in category_sequence
     }
     correct_tokens: Dict[int, Dict[str, int]] = {
-        cat: {model: 0 for model in model_metrics.keys()} for cat in CATEGORIES
+        cat: {model: 0 for model in model_metrics.keys()} for cat in category_sequence
     }
     # Add lists to store individual token values for std calculation
     incorrect_token_values: Dict[int, Dict[str, List[int]]] = {
-        cat: {model: [] for model in model_metrics.keys()} for cat in CATEGORIES
+        cat: {model: [] for model in model_metrics.keys()} for cat in category_sequence
     }
     correct_token_values: Dict[int, Dict[str, List[int]]] = {
-        cat: {model: [] for model in model_metrics.keys()} for cat in CATEGORIES
+        cat: {model: [] for model in model_metrics.keys()} for cat in category_sequence
     }
 
     for question in common_questions:
@@ -123,7 +133,7 @@ def compute_hard_question_data(
             else:
                 wrong_models.append(model)
         wrong_count = len(wrong_models)
-        if wrong_count not in category_questions:
+        if wrong_count not in category_set:
             continue
         category_questions[wrong_count].append(
             {
@@ -156,11 +166,14 @@ def compute_hard_question_data(
     model_names = list(model_metrics.keys())
     if not model_names:
         raise SystemExit("No model metrics loaded. Ensure reverified JSONL files are available.")
-    if len(model_names) < max(CATEGORIES):
-        raise SystemExit(
-            f"Loaded {len(model_names)} models, but hard question categories require at least {max(CATEGORIES)}. "
-            "Verify that all reverified JSONL files are present (git lfs pull) or adjust CATEGORIES."
-        )
+    numeric_categories = [cat for cat in category_sequence if isinstance(cat, int)]
+    if numeric_categories:
+        max_required = max(numeric_categories)
+        if len(model_names) < max_required:
+            raise SystemExit(
+                f"Loaded {len(model_names)} models, but hard question categories require at least {max_required}. "
+                "Verify that all reverified JSONL files are present (git lfs pull) or adjust requested categories."
+            )
     return (
         category_questions,
         correct_counts,
@@ -351,9 +364,9 @@ def plot_segmented_bar(
 
 
 def plot_grouped_bar_with_std(
-    categories: List[int],
-    counts_map: Dict[int, Dict[str, float]],
-    std_map: Dict[int, Dict[str, float]],
+    categories: List[object],
+    counts_map: Dict[object, Dict[str, float]],
+    std_map: Dict[object, Dict[str, float]],
     model_names: List[str],
     model_colors: Dict[str, str],
     ylabel: str,
@@ -387,10 +400,15 @@ def plot_grouped_bar_with_std(
         labels = [format_bar_label(float(height)) for height in heights]
         ax.bar_label(bars, labels=labels, padding=3, fontsize=7)
 
+    def format_category_label(cat: object) -> str:
+        if isinstance(cat, (int, float)):
+            return f"{int(cat)} models wrong" if float(cat).is_integer() else f"{cat} models wrong"
+        return str(cat)
+
     ax.set_xticks(x_positions)
-    ax.set_xticklabels([f"{cat} models wrong" for cat in categories])
+    ax.set_xticklabels([format_category_label(cat) for cat in categories])
     ax.set_ylabel(ylabel, fontweight='bold')
-    ax.set_xlabel("Hard questions category", fontweight='bold')
+    ax.set_xlabel("Question category", fontweight='bold')
     ax.set_title(title, fontweight='bold', pad=15)
     
     # Add log scale if requested

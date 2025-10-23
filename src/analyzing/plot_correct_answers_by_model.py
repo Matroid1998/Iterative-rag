@@ -1,13 +1,11 @@
 #!/usr/bin/env python3
 """
-Generate two plots showing unanswered questions by model and retrieval steps:
-1. No Context plot: Shows unanswered questions by max source step (from iterative RAG)
-2. Gold Context plot: Shows unanswered questions by max source step
+Generate two plots showing how many previously-unanswered questions are
+recovered by iterative RAG, broken down by hop count.
 
-Logic matches hop_distributions_all_models.png but only shows:
-- Column 1 (No Context) and Column 2 (Gold Context)  
-- Rows 2-7 (individual models, not the aggregated first row)
-Consolidated into 2 separate plots.
+Outputs:
+1. No Context plot: Questions recovered when starting without context
+2. Gold Context plot: Questions recovered when starting with gold context
 """
 
 from __future__ import annotations
@@ -16,10 +14,14 @@ import json
 import re
 from collections import Counter, defaultdict
 from pathlib import Path
-from typing import Dict, List, Tuple
+from typing import Dict, List, Set, Tuple
 import numpy as np
 
-from config import get_display_name, get_iterative_display_names
+from config import (
+    get_display_name,
+    get_iterative_display_names,
+    get_iterative_model_entries,
+)
 
 
 def _simplify_name(name: str) -> str:
@@ -114,13 +116,38 @@ def load_qa_hops(qa_path: Path) -> Dict[str, int]:
     return qa_hops
 
 
-def get_unanswered_questions_by_model(
+def load_iterative_correct_questions(
+    allowed_models: List[str],
+) -> Dict[str, Set[str]]:
+    """Return questions that iterative RAG answered correctly per model."""
+    canonical_map = _build_canonical_map(allowed_models)
+    correct_questions: Dict[str, Set[str]] = {model: set() for model in allowed_models}
+
+    for path, display_name in get_iterative_model_entries(existing_only=True):
+        if not path.exists():
+            continue
+        canonical_name = _canonicalize_display_name(display_name, canonical_map)
+        if canonical_name not in correct_questions:
+            continue
+        for record in load_records(path):
+            if not bool(record.get("is_correct", False)):
+                continue
+            question = extract_question(record)
+            if not question:
+                continue
+            correct_questions[canonical_name].add(question)
+
+    return correct_questions
+
+
+def get_recovered_questions_by_model(
     unanswered_file: Path,
     qa_hops: Dict[str, int],
     allowed_models: List[str],
+    iterative_correct: Dict[str, Set[str]],
 ) -> Dict[str, List[int]]:
     """
-    For each model, get the list of hop counts for unanswered questions.
+    For each model, get the list of hop counts for questions recovered by iterative RAG.
     
     The unanswered file has structure:
     {
@@ -133,7 +160,7 @@ def get_unanswered_questions_by_model(
     }
     
     Returns:
-        Dict mapping model name to list of hop counts for unanswered questions
+        Dict mapping model name to list of hop counts for recovered questions
     """
     if not unanswered_file.exists():
         print(f"Warning: {unanswered_file} not found")
@@ -141,7 +168,8 @@ def get_unanswered_questions_by_model(
     
     canonical_map = _build_canonical_map(allowed_models)
     allowed_set = set(allowed_models)
-    model_unanswered_hops = defaultdict(list)
+    model_recovered_hops = defaultdict(list)
+    seen_questions: Dict[str, Set[str]] = {model: set() for model in allowed_models}
     
     records = load_records(unanswered_file)
     for record in records:
@@ -160,6 +188,7 @@ def get_unanswered_questions_by_model(
         
         if not hop_count:
             continue
+        hop_count = max(1, min(int(hop_count), 4))
         
         model_attempts = record.get("model_attempts", [])
         for attempt in model_attempts:
@@ -173,27 +202,33 @@ def get_unanswered_questions_by_model(
                 get_display_name(model_stem),
                 canonical_map,
             )
-            if display_name in allowed_set:
-                model_unanswered_hops[display_name].append(hop_count)
+            if display_name not in allowed_set:
+                continue
+            if question not in iterative_correct.get(display_name, set()):
+                continue
+            if question in seen_questions[display_name]:
+                continue
+            model_recovered_hops[display_name].append(hop_count)
+            seen_questions[display_name].add(question)
 
     for model in allowed_models:
-        model_unanswered_hops.setdefault(model, [])
+        model_recovered_hops.setdefault(model, [])
 
-    return dict(model_unanswered_hops)
+    return dict(model_recovered_hops)
 
 
-def plot_unanswered_questions_no_context(
-    model_unanswered_hops: Dict[str, List[int]],
+def plot_recovered_questions_no_context(
+    model_recovered_hops: Dict[str, List[int]],
     output_path: Path,
     model_order: List[str]
 ) -> None:
     """
-    Create a bar chart showing unanswered question counts by model and hop complexity.
-    This represents the "No Context" scenario.
-    
+    Create a bar chart showing recovered question counts by model and hop complexity.
+    This represents the "No Context" baseline versus iterative RAG.
+
     X-axis: Models
-    Y-axis: Question count
-    Bars: Grouped by hop (1-5), showing unanswered questions only
+    Y-axis: Count of questions the iterative system recovers
+    Bars: Grouped by hop (1-4), showing previously unanswered questions
     """
     try:
         import matplotlib.pyplot as plt
@@ -201,25 +236,15 @@ def plot_unanswered_questions_no_context(
         raise SystemExit("matplotlib is required. Install with 'pip install matplotlib'.") from exc
 
     # Filter to ordered models
-    ordered_data = {model: model_unanswered_hops.get(model, []) for model in model_order}
-    
-    # Determine max hop across all models
-    max_hop = 0
-    for hops in ordered_data.values():
-        if hops:
-            max_hop = max(max_hop, max(hops))
-    
-    if max_hop == 0:
-        max_hop = 5  # Default
-    
-    # Count unanswered questions by hop for each model
-    hop_range = list(range(1, min(max_hop, 5) + 1))  # Limit to hops 1-5
+    ordered_data = {model: model_recovered_hops.get(model, []) for model in model_order}
+
+    hop_range = list(range(1, 5))
     model_counts = {}
     
     for model, hops in ordered_data.items():
         counter = Counter(hops)
         model_counts[model] = [counter.get(hop, 0) for hop in hop_range]
-    
+
     # Create the plot
     fig, ax = plt.subplots(figsize=(max(14, len(model_order) * 1.6), 8))
 
@@ -245,8 +270,8 @@ def plot_unanswered_questions_no_context(
                        ha='center', va='bottom', fontsize=9)
     
     ax.set_xlabel('Model', fontsize=13, fontweight='bold')
-    ax.set_ylabel('Unanswered Questions Count', fontsize=13, fontweight='bold')
-    ax.set_title('Unanswered Questions by Model and Hop Complexity\n(No Context Scenario)', 
+    ax.set_ylabel('Recovered Questions Count', fontsize=13, fontweight='bold')
+    ax.set_title('Questions Recovered by Iterative RAG\n(No Context Scenario)', 
                  fontsize=15, fontweight='bold', pad=20)
     ax.set_xticks(x)
     ax.set_xticklabels(model_order, rotation=15, ha='right', fontsize=11)
@@ -260,18 +285,18 @@ def plot_unanswered_questions_no_context(
     print(f"✓ Saved plot to {output_path}")
 
 
-def plot_unanswered_questions_gold_context(
-    model_unanswered_hops: Dict[str, List[int]],
+def plot_recovered_questions_gold_context(
+    model_recovered_hops: Dict[str, List[int]],
     output_path: Path,
     model_order: List[str]
 ) -> None:
     """
-    Create a bar chart showing unanswered question counts by model and hop complexity.
-    This represents the "Gold Context" scenario.
-    
+    Create a bar chart showing recovered question counts by model and hop complexity.
+    This represents the "Gold Context" baseline versus iterative RAG.
+
     X-axis: Models
-    Y-axis: Question count
-    Bars: Grouped by hop (1-5), showing unanswered questions only
+    Y-axis: Count of questions the iterative system recovers
+    Bars: Grouped by hop (1-4), showing previously unanswered questions
     """
     try:
         import matplotlib.pyplot as plt
@@ -279,25 +304,15 @@ def plot_unanswered_questions_gold_context(
         raise SystemExit("matplotlib is required. Install with 'pip install matplotlib'.") from exc
 
     # Filter to ordered models
-    ordered_data = {model: model_unanswered_hops.get(model, []) for model in model_order}
-    
-    # Determine max hop across all models
-    max_hop = 0
-    for hops in ordered_data.values():
-        if hops:
-            max_hop = max(max_hop, max(hops))
-    
-    if max_hop == 0:
-        max_hop = 5
-    
-    # Count unanswered questions by hop for each model
-    hop_range = list(range(1, min(max_hop, 5) + 1))
+    ordered_data = {model: model_recovered_hops.get(model, []) for model in model_order}
+
+    hop_range = list(range(1, 5))
     model_counts = {}
     
     for model, hops in ordered_data.items():
         counter = Counter(hops)
         model_counts[model] = [counter.get(hop, 0) for hop in hop_range]
-    
+
     # Create the plot
     fig, ax = plt.subplots(figsize=(max(14, len(model_order) * 1.6), 8))
 
@@ -323,8 +338,8 @@ def plot_unanswered_questions_gold_context(
                        ha='center', va='bottom', fontsize=9)
     
     ax.set_xlabel('Model', fontsize=13, fontweight='bold')
-    ax.set_ylabel('Unanswered Questions Count', fontsize=13, fontweight='bold')
-    ax.set_title('Unanswered Questions by Model and Hop Complexity\n(Gold Context Scenario)', 
+    ax.set_ylabel('Recovered Questions Count', fontsize=13, fontweight='bold')
+    ax.set_title('Questions Recovered by Iterative RAG\n(Gold Context Scenario)', 
                  fontsize=15, fontweight='bold', pad=20)
     ax.set_xticks(x)
     ax.set_xticklabels(model_order, rotation=15, ha='right', fontsize=11)
@@ -358,57 +373,74 @@ def main() -> None:
     model_order = get_iterative_display_names(existing_only=True)
     if not model_order:
         raise SystemExit("No reverified response files found when building model order")
+
+    # Load questions solved by iterative RAG per model
+    iterative_correct_map = load_iterative_correct_questions(model_order)
     
     # Process No Context unanswered questions
     print("\nLoading unanswered questions (No Context)...")
     no_context_file = results_dir / "response-jsonl-without-context_unanswered.jsonl"
-    model_unanswered_no_context = get_unanswered_questions_by_model(
-        no_context_file, qa_hops, model_order
+    model_recovered_no_context = get_recovered_questions_by_model(
+        no_context_file, qa_hops, model_order, iterative_correct_map
     )
     
     for model in model_order:
-        count = len(model_unanswered_no_context.get(model, []))
-        print(f"  {model}: {count} unanswered questions")
-    
+        count = len(model_recovered_no_context.get(model, []))
+        print(f"  {model}: {count} questions recovered")
+
     # Process Gold Context unanswered questions
     print("\nLoading unanswered questions (Gold Context)...")
     gold_context_file = results_dir / "response-jsonl-with-context_unanswered.jsonl"
-    model_unanswered_gold_context = get_unanswered_questions_by_model(
-        gold_context_file, qa_hops, model_order
+    model_recovered_gold_context = get_recovered_questions_by_model(
+        gold_context_file, qa_hops, model_order, iterative_correct_map
     )
-    
+
     for model in model_order:
-        count = len(model_unanswered_gold_context.get(model, []))
-        print(f"  {model}: {count} unanswered questions")
-    
+        count = len(model_recovered_gold_context.get(model, []))
+        print(f"  {model}: {count} questions recovered")
+
+    # Restrict to models that have data in at least one scenario
+    filtered_models = [
+        model
+        for model in model_order
+        if model_recovered_no_context.get(model) or model_recovered_gold_context.get(model)
+    ]
+
+    missing_models = set(model_order) - set(filtered_models)
+    for model in missing_models:
+        print(f"  Skipping {model}: no unanswered baseline cases found")
+
+    if not filtered_models:
+        raise SystemExit("No models contain recovered-question data to plot")
+
     # Generate Plot 1: No Context
-    print("\nGenerating Plot 1: Unanswered Questions - No Context...")
+    print("\nGenerating Plot 1: Recovered Questions - No Context...")
     plot1_path = output_dir / "unanswered_no_context.png"
-    plot_unanswered_questions_no_context(model_unanswered_no_context, plot1_path, model_order)
-    
+    plot_recovered_questions_no_context(model_recovered_no_context, plot1_path, filtered_models)
+
     # Generate Plot 2: Gold Context
-    print("\nGenerating Plot 2: Unanswered Questions - Gold Context...")
+    print("\nGenerating Plot 2: Recovered Questions - Gold Context...")
     plot2_path = output_dir / "unanswered_gold_context.png"
-    plot_unanswered_questions_gold_context(model_unanswered_gold_context, plot2_path, model_order)
+    plot_recovered_questions_gold_context(model_recovered_gold_context, plot2_path, filtered_models)
     
     print("\n" + "="*80)
     print("Summary Statistics:")
     print("="*80)
-    print("\nNo Context:")
-    for model in model_order:
-        hops = model_unanswered_no_context.get(model, [])
+    print("\nNo Context (Recovered Questions):")
+    for model in filtered_models:
+        hops = model_recovered_no_context.get(model, [])
         if hops:
-            print(f"  {model:30s}: {len(hops):4d} unanswered (avg hop: {np.mean(hops):.2f})")
+            print(f"  {model:30s}: {len(hops):4d} recovered (avg hop: {np.mean(hops):.2f})")
         else:
-            print(f"  {model:30s}: No unanswered questions")
-    
-    print("\nGold Context:")
-    for model in model_order:
-        hops = model_unanswered_gold_context.get(model, [])
+            print(f"  {model:30s}: No questions recovered")
+
+    print("\nGold Context (Recovered Questions):")
+    for model in filtered_models:
+        hops = model_recovered_gold_context.get(model, [])
         if hops:
-            print(f"  {model:30s}: {len(hops):4d} unanswered (avg hop: {np.mean(hops):.2f})")
+            print(f"  {model:30s}: {len(hops):4d} recovered (avg hop: {np.mean(hops):.2f})")
         else:
-            print(f"  {model:30s}: No unanswered questions")
+            print(f"  {model:30s}: No questions recovered")
 
 
 if __name__ == "__main__":

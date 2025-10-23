@@ -1,29 +1,41 @@
 #!/usr/bin/env python3
 """
-Generate scatter plots showing accuracy vs average output tokens for hard questions.
-Separate plots for each hard question category (9, 10, 11 models wrong).
+Generate scatter plots showing accuracy vs average output tokens grouped by question difficulty.
+Difficulty buckets:
+- Easy: questions missed by at most 2 models (0, 1, 2 models wrong)
+- Medium: questions missed by 5, 6, or 7 models
+- Hard: questions missed by 9, 10, or 11 models
 """
 
 from __future__ import annotations
 
 import json
 from pathlib import Path
-from typing import Dict, List, Tuple
+from typing import Dict, Tuple
 from collections import defaultdict
 
 import matplotlib.pyplot as plt
 import numpy as np
 
-from config import ITERATIVE_MODEL_ENTRIES, get_model_color, MODEL_COLOR_MAP
+from config import ITERATIVE_MODEL_ENTRIES, MODEL_COLOR_MAP
+
+CATEGORY_GROUPS = {
+    "Easy": (0, 1, 2),
+    "Medium": (5, 6, 7),
+    "Hard": (9, 10, 11),
+}
 
 
-def load_hard_question_stats(responses_dir: Path) -> Tuple[Dict[str, Dict[int, Dict]], Dict[str, Dict[int, Dict]]]:
+def load_hard_question_stats(
+    responses_dir: Path,
+    hard_question_path: Path,
+) -> Tuple[Dict[str, Dict[str, Dict]], Dict[str, Dict[str, Dict]]]:
     """
-    Load statistics for hard questions by model and category, separated by correct/incorrect.
-    
+    Load statistics for question difficulty groups, separated by correct/incorrect.
+
     Returns:
         Tuple of (correct_stats, incorrect_stats) where each is:
-        Dict[model_name][category] = {
+        Dict[model_name][difficulty_label] = {
             'count': int,
             'total_tokens': int,
             'avg_tokens': float,
@@ -31,127 +43,138 @@ def load_hard_question_stats(responses_dir: Path) -> Tuple[Dict[str, Dict[int, D
             'std_tokens': float
         }
     """
-    # First, identify hard questions (questions that 9, 10, or 11 models got wrong)
-    # Load all model responses
-    all_model_data = {}
-    
+    all_model_data: Dict[str, Dict[str, Dict[str, object]]] = {}
+
     for filename, display_name in ITERATIVE_MODEL_ENTRIES:
         file_path = responses_dir / filename
         if not file_path.exists():
             print(f"Warning: {filename} not found")
             continue
-        
-        model_questions = {}
-        with open(file_path, 'r', encoding='utf-8') as f:
-            for line in f:
-                line = line.strip()
+
+        model_questions: Dict[str, Dict[str, object]] = {}
+        with file_path.open("r", encoding="utf-8") as handle:
+            for raw_line in handle:
+                line = raw_line.strip()
                 if not line:
                     continue
                 try:
                     record = json.loads(line)
-                    
-                    # Extract question
-                    question = record.get("question")
-                    if not question:
-                        raw = record.get("raw") or record.get("raw_response")
-                        if isinstance(raw, dict):
-                            question = raw.get("question")
-                    
-                    if not question or not isinstance(question, str):
-                        continue
-                    
-                    question = question.strip()
-                    
-                    # Extract metrics
-                    is_correct = bool(record.get("is_correct", False))
-                    output_tokens = record.get("output_tokens")
-                    
-                    if isinstance(output_tokens, (int, float)) and output_tokens > 0:
-                        model_questions[question] = {
-                            'is_correct': is_correct,
-                            'output_tokens': int(output_tokens)
-                        }
-                
                 except json.JSONDecodeError:
                     continue
-        
+
+                question = record.get("question")
+                if not question:
+                    raw = record.get("raw") or record.get("raw_response")
+                    if isinstance(raw, dict):
+                        question = raw.get("question")
+
+                if not isinstance(question, str) or not question.strip():
+                    continue
+                question = question.strip()
+
+                is_correct = bool(record.get("is_correct", False))
+                output_tokens = record.get("output_tokens")
+                if not isinstance(output_tokens, (int, float)) or output_tokens <= 0:
+                    continue
+
+                model_questions[question] = {
+                    "is_correct": is_correct,
+                    "output_tokens": int(output_tokens),
+                }
+
         if model_questions:
             all_model_data[display_name] = model_questions
-    
+
     if not all_model_data:
         raise SystemExit("No model data loaded")
-    
-    # Find common questions
+
     question_sets = [set(data.keys()) for data in all_model_data.values()]
     common_questions = set.intersection(*question_sets)
-    
+
     print(f"Total models: {len(all_model_data)}")
     print(f"Common questions: {len(common_questions)}")
-    
-    # Categorize questions by how many models got them wrong
-    question_categories = defaultdict(list)  # category -> list of questions
-    
-    for question in common_questions:
-        wrong_count = sum(
-            1 for model_data in all_model_data.values()
-            if not model_data[question]['is_correct']
-        )
-        if wrong_count >= 9:  # Hard questions: 9, 10, or 11 models wrong
-            question_categories[wrong_count].append(question)
-    
-    print(f"\nHard question distribution:")
-    for cat in sorted(question_categories.keys()):
-        print(f"  {cat} models wrong: {len(question_categories[cat])} questions")
-    
-    # Compute statistics per model per category, separated by correct/incorrect
-    correct_stats = defaultdict(lambda: defaultdict(lambda: {
-        'count': 0,
-        'total_tokens': 0,
-        'token_values': []
-    }))
-    
-    incorrect_stats = defaultdict(lambda: defaultdict(lambda: {
-        'count': 0,
-        'total_tokens': 0,
-        'token_values': []
-    }))
-    
-    for category, questions in question_categories.items():
+
+    if not hard_question_path.exists():
+        raise SystemExit(f"Hard questions file not found: {hard_question_path}")
+
+    with hard_question_path.open("r", encoding="utf-8") as handle:
+        hard_question_data = json.load(handle)
+
+    category_to_questions: Dict[int, set[str]] = {}
+    for category_str, entries in hard_question_data.items():
+        try:
+            category = int(category_str)
+        except (TypeError, ValueError):
+            continue
+        questions: set[str] = set()
+        if isinstance(entries, list):
+            for item in entries:
+                if not isinstance(item, dict):
+                    continue
+                question = item.get("question")
+                if isinstance(question, str) and question.strip():
+                    questions.add(question.strip())
+        if questions:
+            category_to_questions[category] = questions
+
+    group_questions: Dict[str, set[str]] = {}
+    for label, categories in CATEGORY_GROUPS.items():
+        merged: set[str] = set()
+        for category in categories:
+            merged |= category_to_questions.get(category, set())
+        group_questions[label] = merged & common_questions
+
+    print("\nQuestion distribution by difficulty:")
+    for label in CATEGORY_GROUPS:
+        print(f"  {label}: {len(group_questions.get(label, set()))} questions")
+
+    correct_stats: Dict[str, Dict[str, Dict[str, object]]] = defaultdict(
+        lambda: defaultdict(lambda: {"count": 0, "total_tokens": 0, "token_values": []})
+    )
+    incorrect_stats: Dict[str, Dict[str, Dict[str, object]]] = defaultdict(
+        lambda: defaultdict(lambda: {"count": 0, "total_tokens": 0, "token_values": []})
+    )
+
+    for label, questions in group_questions.items():
+        if not questions:
+            continue
         for model_name, model_data in all_model_data.items():
             for question in questions:
-                if question not in model_data:
+                record = model_data.get(question)
+                if not record:
                     continue
-                
-                record = model_data[question]
-                tokens = record['output_tokens']
-                
-                if record['is_correct']:
-                    correct_stats[model_name][category]['count'] += 1
-                    correct_stats[model_name][category]['total_tokens'] += tokens
-                    correct_stats[model_name][category]['token_values'].append(tokens)
+                tokens = record["output_tokens"]
+                if record["is_correct"]:
+                    correct_stats[model_name][label]["count"] += 1
+                    correct_stats[model_name][label]["total_tokens"] += tokens
+                    correct_stats[model_name][label]["token_values"].append(tokens)
                 else:
-                    incorrect_stats[model_name][category]['count'] += 1
-                    incorrect_stats[model_name][category]['total_tokens'] += tokens
-                    incorrect_stats[model_name][category]['token_values'].append(tokens)
-    
-    # Calculate derived metrics
-    for stats_dict in [correct_stats, incorrect_stats]:
+                    incorrect_stats[model_name][label]["count"] += 1
+                    incorrect_stats[model_name][label]["total_tokens"] += tokens
+                    incorrect_stats[model_name][label]["token_values"].append(tokens)
+
+    for stats_dict in (correct_stats, incorrect_stats):
         for model_name in stats_dict:
-            for category in stats_dict[model_name]:
-                s = stats_dict[model_name][category]
-                if s['count'] > 0:
-                    s['avg_tokens'] = s['total_tokens'] / s['count']
-                    s['std_tokens'] = np.std(s['token_values']) if len(s['token_values']) > 1 else 0
+            for label in stats_dict[model_name]:
+                stats = stats_dict[model_name][label]
+                count = stats["count"]
+                if count > 0:
+                    stats["avg_tokens"] = stats["total_tokens"] / count
+                    stats["std_tokens"] = (
+                        float(np.std(stats["token_values"]))
+                        if len(stats["token_values"]) > 1
+                        else 0.0
+                    )
                 else:
-                    s['avg_tokens'] = 0
-                    s['std_tokens'] = 0
-    
+                    stats["avg_tokens"] = 0.0
+                    stats["std_tokens"] = 0.0
+
     return dict(correct_stats), dict(incorrect_stats)
 
 
 def plot_correct_vs_incorrect_by_category(
-    correct_stats: Dict[str, Dict[int, Dict]],
-    incorrect_stats: Dict[str, Dict[int, Dict]],
+    correct_stats: Dict[str, Dict[str, Dict]],
+    incorrect_stats: Dict[str, Dict[str, Dict]],
     output_dir: Path,
 ) -> None:
     """Create side-by-side scatter plots showing correct vs incorrect for each category."""
@@ -162,7 +185,10 @@ def plot_correct_vs_incorrect_by_category(
         all_cats.update(model_stats.keys())
     for model_stats in incorrect_stats.values():
         all_cats.update(model_stats.keys())
-    categories = sorted(all_cats)
+    categories = [label for label in CATEGORY_GROUPS if label in all_cats]
+    if len(categories) < len(all_cats):
+        remaining = sorted(all_cats - set(categories))
+        categories.extend(remaining)
     
     if not categories:
         print("No categories to plot")
@@ -188,8 +214,8 @@ def plot_correct_vs_incorrect_by_category(
     
     # Create figure: 3 categories x 2 columns (correct/incorrect)
     n_cats = len(categories)
-    fig, axes = plt.subplots(n_cats, 2, figsize=(14, 5 * n_cats))
-    
+    fig, axes = plt.subplots(n_cats, 2, figsize=(14, 5 * n_cats), sharey=True)
+
     if n_cats == 1:
         axes = axes.reshape(1, -1)
     
@@ -256,13 +282,13 @@ def plot_correct_vs_incorrect_by_category(
         
         ax_correct.set_xlabel('Number of Correct Answers', fontsize=10, fontweight='bold')
         ax_correct.set_ylabel('Avg Output Tokens (log)', fontsize=10, fontweight='bold')
-        ax_correct.set_title(f'{category} Models Wrong - CORRECT Answers', 
+        ax_correct.set_title(f'{category} - CORRECT Answers', 
                             fontsize=11, fontweight='bold', pad=10, color='darkgreen')
         ax_correct.set_yscale('log')
         ax_correct.set_ylim(y_lim)
         ax_correct.grid(True, alpha=0.3, linestyle='--', which='both')
         ax_correct.set_axisbelow(True)
-        
+
         # Right column: Incorrect answers
         ax_incorrect = axes[row_idx, 1]
         
@@ -325,16 +351,17 @@ def plot_correct_vs_incorrect_by_category(
         
         ax_incorrect.set_xlabel('Number of Incorrect Answers', fontsize=10, fontweight='bold')
         ax_incorrect.set_ylabel('Avg Output Tokens (log)', fontsize=10, fontweight='bold')
-        ax_incorrect.set_title(f'{category} Models Wrong - INCORRECT Answers', 
+        ax_incorrect.set_title(f'{category} - INCORRECT Answers', 
                               fontsize=11, fontweight='bold', pad=10, color='darkred')
         ax_incorrect.set_yscale('log')
         ax_incorrect.set_ylim(y_lim)
         ax_incorrect.grid(True, alpha=0.3, linestyle='--', which='both')
         ax_incorrect.set_axisbelow(True)
+        ax_incorrect.tick_params(labelleft=True)
     
     # Main title
     fig.suptitle(
-        'Hard Questions: Correct vs Incorrect - Token Usage by Count\n(Uniform Y-axis across all subplots)',
+        'Difficulty Buckets: Correct vs Incorrect - Token Usage by Count\n(Uniform Y-axis across all subplots)',
         fontsize=14,
         fontweight='bold',
         y=0.995
@@ -350,8 +377,8 @@ def plot_correct_vs_incorrect_by_category(
 
 
 def create_summary_table(
-    correct_stats: Dict[str, Dict[int, Dict]],
-    incorrect_stats: Dict[str, Dict[int, Dict]],
+    correct_stats: Dict[str, Dict[str, Dict]],
+    incorrect_stats: Dict[str, Dict[str, Dict]],
     output_dir: Path,
 ) -> None:
     """Create a summary table showing stats for each model and category."""
@@ -374,7 +401,11 @@ def create_summary_table(
         if model_name in incorrect_stats:
             all_cats.update(incorrect_stats[model_name].keys())
         
-        for category in sorted(all_cats):
+        ordered_categories = [label for label in CATEGORY_GROUPS if label in all_cats]
+        leftover = [label for label in all_cats if label not in ordered_categories]
+        ordered_categories.extend(sorted(leftover))
+
+        for category in ordered_categories:
             correct_count = 0
             correct_tokens = 0
             incorrect_count = 0
@@ -393,7 +424,7 @@ def create_summary_table(
             total = correct_count + incorrect_count
             accuracy = (correct_count / total * 100) if total > 0 else 0
             
-            print(f"{model_name:<30} {category:>3} wrong   {correct_count:>5}    {correct_tokens:>10.2f}    {incorrect_count:>7}    {incorrect_tokens:>10.2f}  ({accuracy:>5.1f}%)")
+            print(f"{model_name:<30} {category:<10} {correct_count:>5}    {correct_tokens:>10.2f}    {incorrect_count:>7}    {incorrect_tokens:>10.2f}  ({accuracy:>5.1f}%)")
     
     print("-" * 110)
 
@@ -403,9 +434,14 @@ def main() -> None:
     base = Path(__file__).resolve().parents[1]
     responses_dir = base / "responses_reverified"
     plots_dir = base / "plots"
+    hard_questions_path = (
+        base / "results" / "unanswered_questions" / "hard_question_categories.json"
+    )
     
     print("Loading hard question statistics...")
-    correct_stats, incorrect_stats = load_hard_question_stats(responses_dir)
+    correct_stats, incorrect_stats = load_hard_question_stats(
+        responses_dir, hard_questions_path
+    )
     
     print("\nGenerating plots...")
     
@@ -418,7 +454,7 @@ def main() -> None:
     print("\n" + "=" * 100)
     print("Completed! Generated:")
     print("  1. hard_questions_accuracy_vs_tokens_by_category.png (3 rows x 2 cols)")
-    print("     - Each row: one difficulty category (9, 10, 11 models wrong)")
+    print("     - Each row: one difficulty category (Easy, Medium, Hard)")
     print("     - Left column: Correct answers")
     print("     - Right column: Incorrect answers")
     print("     - Uniform y-axis across all subplots")
