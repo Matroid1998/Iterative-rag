@@ -164,7 +164,7 @@ def plot_regressions_vs_recoveries(
     # Add net gain as a line
     ax1_twin = ax1.twinx()
     line = ax1_twin.plot(x, net_gains, 'o-', color='black', linewidth=2.5, 
-                         markersize=8, label='Net Gain (Recoveries - Regressions)',
+                         markersize=5, label='Net Gain (Recoveries - Regressions)',
                          zorder=10)
     
     # Add zero line
@@ -184,7 +184,7 @@ def plot_regressions_vs_recoveries(
     bars_handles, bars_labels = ax1.get_legend_handles_labels()
     line_handles, line_labels = ax1_twin.get_legend_handles_labels()
     ax1.legend(bars_handles + line_handles, bars_labels + line_labels, 
-              loc='upper left', fontsize=10)
+              loc='upper right', fontsize=10)
     
     ax1.grid(True, alpha=0.3, axis='y')
     

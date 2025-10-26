@@ -574,6 +574,35 @@ This document provides a comprehensive overview of all plots generated in the `s
 
 ---
 
+### 34. `step_distribution_by_recoveries.png`
+**Purpose**: Visualize which retrieval steps are used when models recover from gold context failures
+
+**What it Shows**:
+- Bar chart showing step distribution (1-5) for recovered questions
+- Models sorted by total number of recoveries (descending)
+- X-axis labels show "(X recovered)" count for each model
+- **Recovery** = Questions wrong with gold context but correct with iterative RAG
+- Each colored bar represents questions answered using that specific step
+
+**Key Findings**:
+- **GPT-4o leads with 372 recoveries** - highest recovery rate across all models
+- **Llama 3.3 70B second with 328 recoveries** - strong iterative improvement
+- **Grok 4 Fast lowest with 166 recoveries** - less effective at leveraging iteration
+- **Step distribution patterns**:
+  - Most recoveries happen at steps 1-3 (early iteration is most valuable)
+  - Step 4+ recoveries are less common but still meaningful
+  - Different models show different step preferences (some peak at step 2, others at step 3)
+- **Recovery efficiency varies**:
+  - Top recoverers: GPT-4o (372), Llama 3.3 (328), Claude 3.7 Sonnet (269)
+  - Mid-tier: Claude variants and Gemini (200-232 recoveries)
+  - Lower tier: GLM 4.6, Mistral, Grok (166-190 recoveries)
+
+**Interpretation**: This plot reveals which models are best at "second-chance learning" - fixing mistakes when given the opportunity to iterate. GPT-4o's dominance (372 recoveries) shows superior ability to leverage iterative retrieval, while Grok 4 Fast's lower count (166) suggests it struggles to benefit from additional retrieval steps. The step distribution shows that most value comes from early iterations (steps 1-3), with diminishing returns beyond step 4. Models that concentrate recoveries in lower steps are more efficient, while those spreading across higher steps may be over-iterating.
+
+**Comparison with `step_distribution_by_improvement.png`**: While the improvement-sorted version shows accuracy gain percentage points, this recovery-sorted version focuses on absolute recovery counts. This reveals that models with moderate percentage improvements (like Llama 3.3) may still recover many questions in absolute terms. The two views together show both relative efficiency and absolute impact of iterative RAG.
+
+---
+
 ## Overall Key Findings Summary
 
 ### Model Rankings (By Accuracy)
