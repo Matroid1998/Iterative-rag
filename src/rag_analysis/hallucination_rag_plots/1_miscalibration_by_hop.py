@@ -114,12 +114,6 @@ def main():
         ax.set_xticks(x)
         ax.set_xticklabels([f'{h}' for h in hop_counts])
         ax.grid(axis='y', alpha=0.3, linestyle='--')
-        
-        # Add total counts on top
-        for i, hop in enumerate(hop_counts):
-            total = sum(data[d][i] for d in directions)
-            ax.text(i, total + total*0.02, f'n={total}', 
-                   ha='center', va='bottom', fontsize=8, style='italic')
     
     # Hide unused subplots
     for idx in range(len(models), len(axes)):
