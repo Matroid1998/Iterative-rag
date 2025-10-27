@@ -519,12 +519,13 @@ def plot_single_model_correctness(
                     label='Iterative RAG', zorder=10)
     
     # Plot gold context accuracy line (for same questions)
-    if gold_context_summary and any(acc is not None for acc in gold_accuracies):
+    # Always plot if we have gold context summary, even if accuracy is 0%
+    if gold_context_summary:
         # Filter out None values for plotting
         valid_gold_x = [x for x, acc in zip(x_positions, gold_accuracies) if acc is not None]
         valid_gold_y = [acc for acc in gold_accuracies if acc is not None]
         
-        if valid_gold_x and valid_gold_y:
+        if valid_gold_x:  # Plot even if all values are 0
             line2 = ax2.plot(valid_gold_x, valid_gold_y, 's--', color='#e67e22', 
                             linewidth=2.5, markersize=7, markerfacecolor='white',
                             markeredgewidth=2, markeredgecolor='#e67e22',
@@ -1535,6 +1536,39 @@ def main() -> None:
                 coverage_gap_data,
             )
             print(f"Generated plot for hard questions: {output_path_hard}")
+        
+        # Version 4b: Gold context wrong questions only (with coverage gap)
+        if model_data_gold_wrong:
+            output_path_gold_wrong = output_dir / "all_models_correctness_by_steps_gold_wrong.png"
+            plot_combined_model_correctness(
+                model_data_gold_wrong,
+                output_path_gold_wrong,
+                gold_context_data,
+                coverage_gap_data,
+            )
+            print(f"Generated plot for gold context wrong questions: {output_path_gold_wrong}")
+        
+        # Version 4c: No-context wrong questions (WITHOUT coverage gap)
+        if model_data_no_context_wrong:
+            output_path_nc_no_cov = output_dir / "all_models_correctness_by_steps_no_context_wrong_no_coverage.png"
+            plot_combined_model_correctness(
+                model_data_no_context_wrong,
+                output_path_nc_no_cov,
+                gold_context_data,
+                None,  # No coverage gap data
+            )
+            print(f"Generated plot for no-context wrong questions (no coverage): {output_path_nc_no_cov}")
+        
+        # Version 4d: Gold context wrong questions (WITHOUT coverage gap)
+        if model_data_gold_wrong:
+            output_path_gold_wrong_no_cov = output_dir / "all_models_correctness_by_steps_gold_wrong_no_coverage.png"
+            plot_combined_model_correctness(
+                model_data_gold_wrong,
+                output_path_gold_wrong_no_cov,
+                gold_context_data,
+                None,  # No coverage gap data
+            )
+            print(f"Generated plot for gold context wrong questions (no coverage): {output_path_gold_wrong_no_cov}")
         
         # Version 5: Lines only - all questions (with coverage gap)
         output_path_lines = output_dir / "all_models_accuracy_lines_only.png"

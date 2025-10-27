@@ -249,8 +249,8 @@ SCOPE OF THIS JUDGMENT (RUN-LEVEL, FINAL ANSWER FOCUS)
 - Decision rules:
   * Overconfident finalize ("overconfident_finalize"):
     - Trigger if ANY hold:
-      (i) finalize step(last step number) < number_of_hops AND hop_coverage_est < 0.8, OR
-      (ii) sufficiency_score_est < 0.60, OR
+      (i) finalize step(last step number) < number_of_hops AND hop_coverage_est < 0.8, AND
+      (ii) sufficiency_score_est < 0.60
   * Underconfident continue ("underconfident_continue"):
     - Trigger if ANY hold:
       some prior step t < finalize_step likely had "enough": This means final answer (expected answer) can be supported by evidences before the finalize step ( last source_step )

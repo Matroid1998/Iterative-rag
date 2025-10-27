@@ -1,0 +1,11 @@
+Model,Total Questions,"Iter Correct, Gold Wrong (Total)","Iter Correct, Gold Wrong (No Gap)","Iter Correct, Gold Wrong (With Gap)",Pure Reasoning Improvement (%),Retrieval-Aided Improvement (%),Total Improvement (%)
+GPT-4o,1185,372,330,42,27.85,3.54,31.39
+Llama 3.3 70B,1185,328,261,67,22.03,5.65,27.68
+Claude 3.7 Sonnet,1150,263,252,11,21.91,0.96,22.87
+Claude 3.7 + Reasoning,1150,226,214,12,18.61,1.04,19.65
+DeepSeek R1,1185,234,210,24,17.72,2.03,19.75
+Gemini 2.5 Pro,1186,210,193,17,16.27,1.43,17.71
+GLM 4.6,1184,190,176,14,14.86,1.18,16.05
+Mistral Large,1185,186,171,15,14.43,1.27,15.7
+Grok 4 Fast,908,129,114,15,12.56,1.65,14.21
+GPT-5,1185,191,134,57,11.31,4.81,16.12
