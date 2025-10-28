@@ -49,7 +49,7 @@ def main():
     
     # Prepare plot layout
     directions = ['ok', 'underconfident_continue', 'overconfident_finalize']
-    direction_labels = ['OK', 'Underconfident', 'Overconfident']
+    direction_labels = ['Well-Calibrated', 'Underconfident', 'Overconfident']
     colors = ['#2ecc71', '#3498db', '#e74c3c']
     
     # Calculate grid size (3 columns, enough rows to fit all models)
