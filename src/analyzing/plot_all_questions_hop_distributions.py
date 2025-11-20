@@ -1515,6 +1515,16 @@ def main() -> None:
         )
         print(f"Generated combined model correctness plot (original version): {output_path_original}")
         
+        # Version 2b: All questions (WITHOUT coverage gap)
+        output_path_all_no_cov = output_dir / "all_models_correctness_by_steps_all_questions_no_coverage.png"
+        plot_combined_model_correctness(
+            model_data,
+            output_path_all_no_cov,
+            gold_context_data,
+            None,  # No coverage gap data
+        )
+        print(f"Generated plot for all questions (no coverage): {output_path_all_no_cov}")
+        
         # Version 3: No-context wrong questions only (with coverage gap)
         if model_data_no_context_wrong:
             output_path_nc = output_dir / "all_models_correctness_by_steps_no_context_wrong.png"

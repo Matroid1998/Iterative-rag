@@ -34,7 +34,7 @@ def normalize_model_name(model: str) -> str:
         return 'Claude 3.7 + Reasoning'
     elif 'claude-3-7' in model.lower():
         return 'Claude 3.7 Sonnet'
-    elif 'claude-sonnet-4.5' in model.lower() or 'claude-4.5' in model.lower():
+    elif 'claude-sonnet-4.5' in model.lower() or 'claude_sonnet_4_5' in model.lower() or 'claude-4.5' in model.lower():
         return 'Claude Sonnet 4.5'
     elif 'claude-3-5' in model.lower():
         return 'Claude 3.5 Sonnet'
