@@ -61,10 +61,11 @@ Return EXACT JSON in the schema below. No prose outside JSON.
 SCOPE OF THIS JUDGMENT (RUN-LEVEL, FINAL ANSWER FOCUS)
 
 (1) Composition / Answer Synthesis Failure
-- true if the correct entity/claim is present in the evidence but the final candidate either:
+- true if the correct entity/claim is present in the evidence but the final candidate ("candidate" key in the input json) either:
   (a) selects a different entity, or
   (b) paraphrases without clearly naming the correct entity, or
   (c) muddles/merges entities so the core answer is wrong or unclear.
+expected_answer is oracle answer for full question.  
 
 (2) Unsupported Claim (Faithfulness)
 - For each atomic sentence in the partial answers, decide if at least one evidence text supports it. You should look for previous and current evidence texts in source steps.
@@ -72,18 +73,18 @@ SCOPE OF THIS JUDGMENT (RUN-LEVEL, FINAL ANSWER FOCUS)
 
 (3) Confidence Miscalibration
 - Purpose: detect when the system (i) answered confidently with weak/insufficient evidence, or (ii) kept retrieving despite already having enough evidence.
-- Inputs you may use: source_step, final number of source_step, number_of_hops, partial_answers, source_query in each step, hop_subq, answer_subq, your own estimated support sufficiency (see below), and simple hop-coverage approximation (see below).
+- Inputs you may use: source_step, maximum number of source_step, number_of_hops, partial_answers, source_query in each step, hop_subq, answer_subq, your own estimated support sufficiency (see below), and simple hop-coverage approximation (see below).
 - You must compute two internal estimates:
   * sufficiency_score_est ∈ [0,1]: fraction of partial answers sentences that are supported by ≥1 snippet.
   * hop_coverage_est ∈ [0,1]: fraction of oracle hops(hop_subq and answer_subq) whose key surface entity or relation appears anywhere in the partial answers OR in any provided evidence snippet's text. (Use surface tokens only; simple case-insensitive matches; hyphen/space variants OK.)
 - Decision rules:
   * Overconfident finalize ("overconfident_finalize"): Under thinking (early stopping)
     - Trigger if ANY hold:
-      (i) finalize step(last step number) < number_of_hops AND hop_coverage_est < 0.8, AND
-      (ii) sufficiency_score_est < 0.80, 
+      (i) finalize step(maximum number of source_step) < number_of_hops AND ( hop_coverage_est < 0.7, OR
+      (ii) sufficiency_score_est < 0.60), 
   * Underconfident continue ("underconfident_continue"): Overthinking
     - Trigger if ANY hold:
-      some prior step t < finalize_step likely had "enough": This means final answer (expected answer) can be supported by evidences before the finalize step ( last source_step )
+      some prior step t < finalize_step (maximum number of source_step) likely had "enough": This means final answer (expected answer) can be supported by evidences before the finalize step ( last source_step )
 
 INPUT (from user):
 {
@@ -133,7 +134,7 @@ REQUIRED OUTPUT JSON SHAPE:
   }
 }
 
-Return ONLY the JSON, nothing else."""
+Return ONLY the OUTPUT JSON, nothing else."""
 
     payload_json = json.dumps(payload, ensure_ascii=False, indent=2)
     full_prompt = f"{system_prompt}\n\n{payload_json}"
@@ -280,7 +281,7 @@ def main() -> None:
 
     if args.output is None:
         derived_name = f"{args.jsonl.stem}_hallucination_judgment.jsonl"
-        args.output = CURRENT_DIR / "output" / f"2_{derived_name}"
+        args.output = CURRENT_DIR / "hallucination_output" / derived_name
 
     gt_map = load_ground_truth_map()
 
