@@ -210,7 +210,7 @@ def plot_token_efficiency_ratio(
     
     ax.set_ylabel('Tokens per Correct Answer (log scale)', fontsize=12, fontweight='bold')
     ax.set_xlabel('Models', fontsize=12, fontweight='bold')
-    ax.set_title('Token Efficiency Ratio: Tokens Needed per Correct Answer\n(Lower is Better - More Efficient)', 
+    ax.set_title('Token Efficiency Ratio: Tokens Needed per Correct Answer', 
                 fontsize=14, fontweight='bold')
     ax.set_xticks(x)
     ax.set_xticklabels(available_models, rotation=45, ha='right')

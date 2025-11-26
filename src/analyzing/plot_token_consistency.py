@@ -222,11 +222,6 @@ def plot_token_consistency(
     ax.legend(title='Question Difficulty', fontsize=11, title_fontsize=12)
     ax.grid(axis='y', alpha=0.3)
     
-    # Add reference lines
-    ax.axhline(y=25, color='green', linestyle='--', linewidth=1.5, alpha=0.5, label='Low variance (25%)')
-    ax.axhline(y=50, color='orange', linestyle='--', linewidth=1.5, alpha=0.5, label='Medium variance (50%)')
-    ax.axhline(y=75, color='red', linestyle='--', linewidth=1.5, alpha=0.5, label='High variance (75%)')
-    
     # Add separator line between GPT-4o and GPT-5
     try:
         gpt4o_idx = available_models.index("GPT-4o")
