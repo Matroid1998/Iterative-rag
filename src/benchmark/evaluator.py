@@ -67,6 +67,8 @@ OPENAI_REASONING_MODELS = {
     "o3-mini",
     "gpt-5",
     "gpt-5-mini",
+    "gpt-5.1-2025-11-13",
+    "gpt-5.1",
 }
 
 
@@ -82,6 +84,8 @@ class ModelRegistry:
             # "o1",
             "o1-mini",
             "o3-mini",
+            "gpt-5.1-2025-11-13",
+            "gpt-5.1"
         ],
         Provider.BEDROCK: [
             "us.anthropic.claude-3-5-sonnet-20241022-v2:0",
@@ -100,7 +104,8 @@ class ModelRegistry:
             "google/gemini-2.5-pro",
             "z-ai/glm-4.6",
             "x-ai/grok-4-fast",
-            "deepseek/deepseek-chat-v3.1"
+            "deepseek/deepseek-chat-v3.1",
+            "google/gemini-3-pro-preview"
         ],
         Provider.NVIDIA: [
             # "deepseek-ai/deepseek-r1",
@@ -748,6 +753,7 @@ class Evaluate:
         # Create a single shared RAG service to avoid multiple model loads
         # This prevents the meta tensor error from parallel worker model initialization
         self._shared_rag_service = None
+        self._shared_llm_client = None
         self._rag_lock = Lock()
 
     def _get_shared_rag_service(self):
@@ -788,7 +794,8 @@ class Evaluate:
                     composer=composer,
                     max_steps=6,
                 )
-            return self._shared_rag_service
+                self._shared_llm_client = llm_client
+            return self._shared_rag_service, self._shared_llm_client
 
     def _save_result_to_jsonl(self, result: dict):
         """Save a single result to the JSONL file incrementally"""
@@ -1195,18 +1202,8 @@ class Evaluate:
     def _process_batch_rag(self, batch, progress_callback=None):
         """Process a batch of records using the shared RAG service and worker-specific verifier."""
         verifier_llm = StructuredLLM(**self.verifier_llm_params)
-        # Use shared RAG service instead of creating per-worker
-        rag_service = self._get_shared_rag_service()
-        
-        # Create worker-specific LLM client for token tracking
-        from service.structured_llm_adapter import StructuredLLMClient
-        llm_client = StructuredLLMClient(
-            provider=self.qa_llm_params["provider"],
-            model=self.qa_llm_params["model_id"],
-            temperature=float(self.qa_llm_params.get("temperature", 0.0) or 0.0),
-            max_tokens=int(self.qa_llm_params.get("max_completion_tokens", 600) or 600),
-            debug=False,
-        )
+        # Use shared RAG service and its llm_client for proper token tracking
+        rag_service, llm_client = self._get_shared_rag_service()
         
         worker_ctx = (verifier_llm, rag_service, llm_client)
         results = []

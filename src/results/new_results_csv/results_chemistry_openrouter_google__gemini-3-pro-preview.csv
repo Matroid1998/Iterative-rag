@@ -1,0 +1,2 @@
+Model,Run,Accuracy (%),Avg Duration (s),Avg Input Tokens,Avg Output Tokens,Total Input Tokens,Total Output Tokens,Total Samples
+openrouter-google/gemini-3-pro-preview,With Context,80.19,105025.2,11951.67,8453.21,14174683,10025512,1186

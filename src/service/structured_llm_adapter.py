@@ -187,7 +187,8 @@ class StructuredLLMClient(LLMClient):
             import time as _t
             _t0 = _t.time()
             reasoning_kwargs: Dict[str, Any] = {}
-            if self._model == "gpt-5":
+            # Enable reasoning for all GPT-5 family models
+            if self._model.startswith("gpt-5"):
                 reasoning_kwargs["reasoning_effort"] = "medium"
             request_kwargs: Dict[str, Any] = {
                 "model": self._model,
