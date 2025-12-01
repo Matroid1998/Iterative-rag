@@ -6,7 +6,7 @@
       {
         "category": "Without Context",
         "metric": "Unanswered Questions",
-        "value": 373
+        "value": 362
       },
       {
         "category": "Without Context",
@@ -16,7 +16,7 @@
       {
         "category": "Gold Context",
         "metric": "Unanswered Questions",
-        "value": 83
+        "value": 77
       },
       {
         "category": "Gold Context",
@@ -26,12 +26,12 @@
       {
         "category": "Iterative RAG",
         "metric": "Unanswered Questions",
-        "value": 25
+        "value": 21
       },
       {
         "category": "Iterative RAG",
         "metric": "Total Hops",
-        "value": 891
+        "value": 936
       }
     ]
   },
