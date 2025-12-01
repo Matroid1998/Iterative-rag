@@ -526,7 +526,7 @@ def main() -> None:
         gold_ctx = scan_context_dir(dir_gold_ctx, display)
         iterative = load_responses_by_question(iterative_path)
         
-        # Store raw data for cumulative accuracy plot
+        # Store raw data for cumulative accuracy plot (even if incomplete)
         model_raw_data[display] = (no_ctx, gold_ctx, iterative)
         
         # Debug: show counts for each condition
@@ -542,11 +542,14 @@ def main() -> None:
         common = set(no_ctx.keys()) & set(gold_ctx.keys()) & set(iterative.keys())
         print(f"    Common questions: {len(common)}")
         
+        if len(common) == 0:
+            print(f"    ⚠️  Note: No baseline data available, will show iterative results only")
+        
         # Categorize questions
         categories = categorize_questions(no_ctx, gold_ctx, iterative)
         model_categories[display] = categories
     
-    print("\nGenerating plots...")
+    print(f"\nGenerating plots for {len(model_order)} models...")
     
     # Plot 1: Waterfall
     plot_knowledge_gap_waterfall(
