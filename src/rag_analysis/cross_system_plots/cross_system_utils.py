@@ -17,10 +17,11 @@ def extract_model_from_filename(filename: str) -> str:
     name = filename.replace('responses_', '')
     
     # Split by underscores and find where the judgment type starts
-    parts = name.split('_reverified_')
-    if len(parts) > 0:
-        return parts[0]
-    
+    # Try different suffixes
+    for suffix in ['_reverified_', '_coverage_gap', '_quality', '_hallucination']:
+        if suffix in name:
+            return name.split(suffix)[0]
+            
     # Fallback
     return name.split('_')[0] if '_' in name else name
 
@@ -32,7 +33,8 @@ def load_all_judgments(output_dir: Path) -> Tuple[List[Dict], List[Dict], List[D
     hallucination_records = []
     
     # Load coverage judgments
-    for f in output_dir.glob('*coverage_gap_judgments.jsonl'):
+    files = list(output_dir.glob('*coverage_gap_judgments.jsonl')) + list(output_dir.glob('*_coverage_gap.jsonl'))
+    for f in files:
         model_name = extract_model_from_filename(f.name)
         with open(f, 'r', encoding='utf-8') as file:
             for line in file:
@@ -46,7 +48,8 @@ def load_all_judgments(output_dir: Path) -> Tuple[List[Dict], List[Dict], List[D
                     continue
     
     # Load quality judgments
-    for f in output_dir.glob('*quality_judement.jsonl'):
+    files = list(output_dir.glob('*quality_judement.jsonl')) + list(output_dir.glob('*_quality.jsonl'))
+    for f in files:
         model_name = extract_model_from_filename(f.name)
         with open(f, 'r', encoding='utf-8') as file:
             for line in file:
@@ -60,7 +63,8 @@ def load_all_judgments(output_dir: Path) -> Tuple[List[Dict], List[Dict], List[D
                     continue
     
     # Load hallucination judgments
-    for f in output_dir.glob('*hallucination_judgment.jsonl'):
+    files = list(output_dir.glob('*hallucination_judgment.jsonl')) + list(output_dir.glob('*_hallucination.jsonl'))
+    for f in files:
         model_name = extract_model_from_filename(f.name)
         with open(f, 'r', encoding='utf-8') as file:
             for line in file:
@@ -118,7 +122,9 @@ def create_merged_dataset(coverage_records, quality_records, hallucination_recor
 
 def normalize_model_name(model: str) -> str:
     """Normalize model name for display."""
-    if 'gpt-5' in model.lower():
+    if 'gpt-5.1' in model.lower():
+        return 'GPT-5.1'
+    elif 'gpt-5' in model.lower():
         return 'GPT-5'
     elif 'gpt-4o' in model.lower():
         return 'GPT-4o'
@@ -132,6 +138,8 @@ def normalize_model_name(model: str) -> str:
         return 'Claude Sonnet 4.5'
     elif 'claude-3-5' in model.lower():
         return 'Claude 3.5 Sonnet'
+    elif 'gemini-3' in model.lower():
+        return 'Gemini 3 Pro'
     elif 'gemini-2.5-pro' in model.lower() or 'gemini-2.5' in model.lower():
         return 'Gemini 2.5 Pro'
     elif 'grok-4' in model.lower():

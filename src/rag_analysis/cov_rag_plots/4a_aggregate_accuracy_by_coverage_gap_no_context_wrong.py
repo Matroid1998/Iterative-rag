@@ -15,7 +15,9 @@ import numpy as np
 
 def normalize_model_name(model: str) -> str:
     """Normalize model name for display."""
-    if 'gpt-5' in model.lower() or 'openai-gpt-5' in model.lower() or 'openai_gpt-5' in model.lower():
+    if 'gpt-5.1' in model.lower():
+        return 'GPT-5.1'
+    elif 'gpt-5' in model.lower() or 'openai-gpt-5' in model.lower() or 'openai_gpt-5' in model.lower():
         return 'GPT-5'
     elif 'gpt-4o' in model.lower():
         return 'GPT-4o'
@@ -29,6 +31,8 @@ def normalize_model_name(model: str) -> str:
         return 'Claude Sonnet 4.5'
     elif 'claude-3-5' in model.lower():
         return 'Claude 3.5 Sonnet'
+    elif 'gemini-3' in model.lower():
+        return 'Gemini 3 Pro'
     elif 'gemini-2.5-pro' in model.lower() or 'gemini-2.5' in model.lower():
         return 'Gemini 2.5 Pro'
     elif 'grok-4' in model.lower():
@@ -109,10 +113,12 @@ def load_accuracy_by_issue_data_filtered(output_dir, base_dir, wrong_questions):
         'has_gap': {'with_issue': {'correct': 0, 'total': 0}, 'without_issue': {'correct': 0, 'total': 0}},
     })
     
-    for file_path in glob.glob(str(output_dir / '*coverage_gap_judgments.jsonl')):
+    files = glob.glob(str(output_dir / '*coverage_gap_judgments.jsonl')) + glob.glob(str(output_dir / '*_coverage_gap.jsonl'))
+    
+    for file_path in files:
         # Extract model name from filename
         filename = Path(file_path).name
-        model_name = filename.replace('responses_', '').replace('_reverified_coverage_gap_judgments.jsonl', '').replace('_coverage_gap_judgments.jsonl', '')
+        model_name = filename.replace('responses_', '').replace('_reverified_coverage_gap_judgments.jsonl', '').replace('_coverage_gap_judgments.jsonl', '').replace('_coverage_gap.jsonl', '')
         model_name = normalize_model_name(model_name)
         
         # Get wrong questions for this model

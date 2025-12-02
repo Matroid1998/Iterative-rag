@@ -10,11 +10,12 @@ from collections import defaultdict
 def load_hallucination_judgments(output_dir: Path) -> List[Dict[str, Any]]:
     """Load all hallucination judgment records from output directory."""
     records = []
-    for f in output_dir.glob('*hallucination_judgment.jsonl'):
+    files = list(output_dir.glob('*hallucination_judgment.jsonl')) + list(output_dir.glob('*_hallucination.jsonl'))
+    for f in files:
         # Extract model name from filename
         filename = f.name
         # Remove 'responses_' prefix and '_reverified_hallucination_judgment.jsonl' or '_hallucination_judgment.jsonl' suffix
-        model_from_file = filename.replace('responses_', '').replace('_reverified_hallucination_judgment.jsonl', '').replace('_hallucination_judgment.jsonl', '')
+        model_from_file = filename.replace('responses_', '').replace('_reverified_hallucination_judgment.jsonl', '').replace('_hallucination_judgment.jsonl', '').replace('_hallucination.jsonl', '')
         
         with open(f, 'r', encoding='utf-8') as file:
             for line in file:
@@ -33,11 +34,12 @@ def load_hallucination_judgments(output_dir: Path) -> List[Dict[str, Any]]:
 def load_coverage_judgments(output_dir: Path) -> List[Dict[str, Any]]:
     """Load all coverage gap judgment records from output directory."""
     records = []
-    for f in output_dir.glob('*coverage_gap_judgments.jsonl'):
+    files = list(output_dir.glob('*coverage_gap_judgments.jsonl')) + list(output_dir.glob('*_coverage_gap.jsonl'))
+    for f in files:
         # Extract model name from filename
         filename = f.name
         # Remove 'responses_' prefix and '_reverified_coverage_gap_judgments.jsonl' or '_coverage_gap_judgments.jsonl' suffix
-        model_from_file = filename.replace('responses_', '').replace('_reverified_coverage_gap_judgments.jsonl', '').replace('_coverage_gap_judgments.jsonl', '')
+        model_from_file = filename.replace('responses_', '').replace('_reverified_coverage_gap_judgments.jsonl', '').replace('_coverage_gap_judgments.jsonl', '').replace('_coverage_gap.jsonl', '')
         
         with open(f, 'r', encoding='utf-8') as file:
             for line in file:
@@ -56,11 +58,12 @@ def load_coverage_judgments(output_dir: Path) -> List[Dict[str, Any]]:
 def load_quality_judgments(output_dir: Path) -> List[Dict[str, Any]]:
     """Load all quality judgment records from output directory."""
     records = []
-    for f in output_dir.glob('*quality_judement.jsonl'):
+    files = list(output_dir.glob('*quality_judement.jsonl')) + list(output_dir.glob('*_quality.jsonl'))
+    for f in files:
         # Extract model name from filename
         filename = f.name
         # Remove 'responses_' prefix and '_reverified_quality_judement.jsonl' or '_quality_judement.jsonl' suffix
-        model_from_file = filename.replace('responses_', '').replace('_reverified_quality_judement.jsonl', '').replace('_quality_judement.jsonl', '')
+        model_from_file = filename.replace('responses_', '').replace('_reverified_quality_judement.jsonl', '').replace('_quality_judement.jsonl', '').replace('_quality.jsonl', '')
         
         with open(f, 'r', encoding='utf-8') as file:
             for line in file:
@@ -138,7 +141,9 @@ def has_poor_query_quality(quality_judgment: Dict[str, Any]) -> bool:
 
 def normalize_model_name(model: str) -> str:
     """Normalize model name for display."""
-    if 'gpt-5' in model.lower():
+    if 'gpt-5.1' in model.lower():
+        return 'GPT-5.1'
+    elif 'gpt-5' in model.lower():
         return 'GPT-5'
     elif 'gpt-4o' in model.lower():
         return 'GPT-4o'
@@ -152,6 +157,8 @@ def normalize_model_name(model: str) -> str:
         return 'Claude Sonnet 4.5'
     elif 'claude-3-5' in model.lower():
         return 'Claude 3.5 Sonnet'
+    elif 'gemini-3' in model.lower():
+        return 'Gemini 3 Pro'
     elif 'gemini-2.5-pro' in model.lower() or 'gemini-2.5' in model.lower():
         return 'Gemini 2.5 Pro'
     elif 'grok-4' in model.lower():

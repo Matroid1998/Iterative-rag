@@ -19,7 +19,9 @@ def load_missed_hop_patterns_first_only(output_dir):
         False: defaultdict(lambda: defaultdict(int))
     }
     
-    for file_path in glob.glob(str(output_dir / '*coverage_gap_judgments.jsonl')):
+    files = glob.glob(str(output_dir / '*coverage_gap_judgments.jsonl')) + glob.glob(str(output_dir / '*_coverage_gap.jsonl'))
+    
+    for file_path in files:
         with open(file_path, 'r') as f:
             for line in f:
                 line = line.strip()

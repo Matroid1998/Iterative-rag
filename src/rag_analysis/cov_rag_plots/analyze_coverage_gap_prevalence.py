@@ -13,7 +13,9 @@ import pandas as pd
 
 def normalize_model_name(model: str) -> str:
     """Normalize model name for display."""
-    if 'gpt-5' in model.lower() or 'openai-gpt-5' in model.lower() or 'openai_gpt-5' in model.lower():
+    if 'gpt-5.1' in model.lower():
+        return 'GPT-5.1'
+    elif 'gpt-5' in model.lower() or 'openai-gpt-5' in model.lower() or 'openai_gpt-5' in model.lower():
         return 'GPT-5'
     elif 'gpt-4o' in model.lower():
         return 'GPT-4o'
@@ -27,6 +29,8 @@ def normalize_model_name(model: str) -> str:
         return 'Claude Sonnet 4.5'
     elif 'claude-3-5' in model.lower():
         return 'Claude 3.5 Sonnet'
+    elif 'gemini-3' in model.lower():
+        return 'Gemini 3 Pro'
     elif 'gemini-2.5-pro' in model.lower() or 'gemini-2.5' in model.lower():
         return 'Gemini 2.5 Pro'
     elif 'grok-4' in model.lower():
@@ -45,9 +49,11 @@ def calculate_coverage_gap_prevalence(output_dir):
     
     results = []
     
-    for file_path in glob.glob(str(output_dir / '*coverage_gap_judgments.jsonl')):
+    files = glob.glob(str(output_dir / '*coverage_gap_judgments.jsonl')) + glob.glob(str(output_dir / '*_coverage_gap.jsonl'))
+    
+    for file_path in files:
         filename = Path(file_path).name
-        model_name = filename.replace('responses_', '').replace('_reverified_coverage_gap_judgments.jsonl', '').replace('_coverage_gap_judgments.jsonl', '')
+        model_name = filename.replace('responses_', '').replace('_reverified_coverage_gap_judgments.jsonl', '').replace('_coverage_gap_judgments.jsonl', '').replace('_coverage_gap.jsonl', '')
         model_name = normalize_model_name(model_name)
         
         total_questions = 0
@@ -117,6 +123,40 @@ def calculate_coverage_gap_prevalence(output_dir):
     return results
 
 
+def generate_latex_table(df, output_path):
+    """Generate LaTeX table from DataFrame."""
+    
+    latex_content = r"""\begin{table}[htbp]
+\centering
+\caption{Coverage Gap Prevalence by Model}
+\label{tab:coverage_gap_prevalence}
+\begin{tabular}{lc}
+\toprule
+\textbf{Model} & \textbf{Coverage Gap Rate (\%)} \\
+\midrule
+"""
+    
+    # Add rows
+    for _, row in df.iterrows():
+        latex_content += f"{row['Model']} & {row['Coverage Gap (%)']:.2f} \\\\\n"
+    
+    # Add average
+    avg_rate = df['Coverage Gap (%)'].mean()
+    latex_content += r"\midrule" + "\n"
+    latex_content += f"\\textbf{{Average}} & \\textbf{{{avg_rate:.2f}}} \\\\\n"
+    
+    latex_content += r"""\bottomrule
+\end{tabular}
+\end{table}
+"""
+    
+    with open(output_path, 'w') as f:
+        f.write(latex_content)
+    
+    print(f"\n✓ LaTeX table saved to {output_path}")
+
+
+
 def main():
     # Setup paths
     base_dir = Path(__file__).resolve().parents[2]
@@ -179,7 +219,12 @@ def main():
     # Save to CSV
     output_path = base_dir / "rag_analysis" / "cov_rag_plots" / "coverage_gap_prevalence.csv"
     df.to_csv(output_path, index=False)
+    df.to_csv(output_path, index=False)
     print(f"\n✓ Results saved to {output_path}")
+    
+    # Generate LaTeX table
+    latex_path = base_dir / "rag_analysis" / "cov_rag_plots" / "coverage_gap_table.tex"
+    generate_latex_table(df, latex_path)
     
     # Create simplified table for presentation
     print("\n" + "="*120)

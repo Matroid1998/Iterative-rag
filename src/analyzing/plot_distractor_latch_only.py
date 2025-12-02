@@ -36,18 +36,26 @@ def get_quality_model_entries() -> List[Tuple[Path, Path, str]]:
         "bedrock_us.meta.llama3-3-70b-instruct-v1:0": "Llama 3.3 70B",
         "openai_gpt-4o": "GPT-4o",
         "openai_gpt-5": "GPT-5",
+        "openai_gpt-5.1": "GPT-5.1",
         "openrouter_anthropic__claude-sonnet-4.5": "Claude Sonnet 4.5",
         "openrouter_google__gemini-2.5-pro": "Gemini 2.5 Pro",
+        "openrouter_google__gemini-3-pro-preview": "Gemini 3 Pro",
         "openrouter_x-ai__grok-4-fast": "Grok 4 Fast",
         "openrouter_z-ai__glm-4.6": "GLM 4.6",
     }
     
     entries = []
-    for quality_file in sorted(quality_dir.glob("*quality_judement.jsonl")):
+    files = list(quality_dir.glob("*quality_judement.jsonl")) + list(quality_dir.glob("*quality_judgement.jsonl")) + list(quality_dir.glob("*_quality.jsonl"))
+    for quality_file in sorted(files):
+        print(f"DEBUG: Processing {quality_file.name}")
         stem = quality_file.stem
         
         if stem.endswith("_quality_judement"):
             stem = stem[:-len("_quality_judement")]
+        elif stem.endswith("_quality_judgement"):
+            stem = stem[:-len("_quality_judgement")]
+        elif stem.endswith("_quality"):
+            stem = stem[:-len("_quality")]
         
         if stem.startswith("2_"):
             stem = stem[2:]
@@ -59,8 +67,15 @@ def get_quality_model_entries() -> List[Tuple[Path, Path, str]]:
         reverified_file = reverified_dir / f"{stem}.jsonl"
         
         if not reverified_file.exists():
-            print(f"Warning: No reverified file found for {stem}")
-            continue
+            # Try appending _reverified
+            reverified_file_alt = reverified_dir / f"{stem}_reverified.jsonl"
+            if reverified_file_alt.exists():
+                reverified_file = reverified_file_alt
+            else:
+                print(f"Warning: No reverified file found for {stem} (tried {reverified_file} and {reverified_file_alt})")
+                continue
+        
+        print(f"DEBUG: Found reverified file: {reverified_file.name}")
         
         model_key = raw_name
         if model_key.startswith("responses_"):
