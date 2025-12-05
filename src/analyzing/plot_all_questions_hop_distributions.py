@@ -161,7 +161,7 @@ def load_fusion_data(path: Path) -> Dict[str, Dict]:
         for step_data in per_step:
             if isinstance(step_data, dict):
                 step = step_data.get("step")
-                fusion_or_skip = step_data.get("fusion_or_skip", False)
+                fusion_or_skip = step_data.get("fusion", False)
                 if isinstance(step, int):
                     step_fusion[step] = fusion_or_skip
         
@@ -1292,12 +1292,16 @@ def main() -> None:
     
     # Build quality judgment mapping (for fusion data)
     quality_judgment_mapping = {}
-    for quality_file in quality_judgment_dir.glob("*quality_judement.jsonl"):
+    quality_files = list(quality_judgment_dir.glob("*quality_judement.jsonl")) + list(quality_judgment_dir.glob("*quality_judgement.jsonl"))
+    
+    for quality_file in quality_files:
         name = quality_file.name
         if name.startswith("2_"):
             name = name[2:]
         if name.endswith("_quality_judement.jsonl"):
             name = name[:-len("_quality_judement.jsonl")]
+        elif name.endswith("_quality_judgement.jsonl"):
+            name = name[:-len("_quality_judgement.jsonl")]
         
         quality_judgment_mapping[name + ".jsonl"] = quality_file
     

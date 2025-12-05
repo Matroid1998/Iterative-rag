@@ -80,13 +80,16 @@ def get_quality_model_entries() -> List[Tuple[Path, Path, str]]:
     }
     
     entries = []
-    for quality_file in sorted(quality_dir.glob("*quality_judement.jsonl")):
+    quality_files = list(quality_dir.glob("*quality_judement.jsonl")) + list(quality_dir.glob("*quality_judgement.jsonl"))
+    for quality_file in sorted(quality_files):
         # Extract the base name from quality file
         stem = quality_file.stem
         
         # Remove quality_judement suffix
         if stem.endswith("_quality_judement"):
             stem = stem[:-len("_quality_judement")]
+        elif stem.endswith("_quality_judgement"):
+            stem = stem[:-len("_quality_judgement")]
         
         # Remove leading 2_ if present
         if stem.startswith("2_"):
@@ -100,6 +103,10 @@ def get_quality_model_entries() -> List[Tuple[Path, Path, str]]:
         # Construct reverified file path
         reverified_file = reverified_dir / f"{stem}.jsonl"
         
+        if not reverified_file.exists():
+            # Try with _reverified suffix
+            reverified_file = reverified_dir / f"{stem}_reverified.jsonl"
+            
         if not reverified_file.exists():
             continue
         
@@ -175,7 +182,7 @@ def analyze_query_quality(all_judgments: Dict[str, Dict[str, Any]]) -> Dict[str,
     
     Returns dict with quality metrics and their impact on accuracy.
     """
-    quality_metrics = ['vague', 'over_broad', 'compound', 'off_topic', 'anchored']
+    quality_metrics = ['vague', 'over_broad', 'off_topic', 'fusion']
     
     stats = {
         metric: {'with_flag': {'correct': 0, 'incorrect': 0},
@@ -200,7 +207,10 @@ def analyze_query_quality(all_judgments: Dict[str, Dict[str, Any]]) -> Dict[str,
                 
                 # Boolean flags
                 for metric in quality_metrics:
-                    has_flag = qc.get(metric, False)
+                    if metric == 'fusion':
+                        has_flag = step_data.get('fusion', False)
+                    else:
+                        has_flag = qc.get(metric, False)
                     
                     if has_flag:
                         if is_correct:
@@ -333,16 +343,15 @@ def plot_partial_contradiction_impact(stats: Dict, output_path: Path):
 
 def plot_query_quality_flags(stats: Dict, output_path: Path):
     """Plot the impact of query quality boolean flags on accuracy."""
-    fig, axes = plt.subplots(2, 3, figsize=(18, 12))
+    fig, axes = plt.subplots(2, 2, figsize=(16, 12))
     axes = axes.flatten()
     
-    quality_metrics = ['vague', 'over_broad', 'compound', 'off_topic', 'anchored']
+    quality_metrics = ['vague', 'over_broad', 'off_topic', 'fusion']
     metric_labels = {
         'vague': 'Vague Query',
         'over_broad': 'Over-Broad Query',
-        'compound': 'Compound Query',
         'off_topic': 'Off-Topic Query',
-        'anchored': 'Anchored Query',
+        'fusion': 'Fusion',
     }
     
     for idx, metric in enumerate(quality_metrics):
@@ -386,13 +395,10 @@ def plot_query_quality_flags(stats: Dict, output_path: Path):
         ax.set_ylim(0, 105)
         ax.grid(axis='y', alpha=0.3, linestyle='--')
         
-        # Add a horizontal line at the average
-        avg_acc = (acc_without * total_without + acc_with * total_with) / (total_without + total_with) if (total_without + total_with) > 0 else 0
-        ax.axhline(y=avg_acc, color='gray', linestyle='--', linewidth=1, alpha=0.5, label=f'Average: {avg_acc:.1f}%')
-        ax.legend(fontsize=9, loc='upper right')
+
     
     # Hide the 6th subplot
-    axes[5].axis('off')
+
     
     plt.suptitle('Query Quality Flags Impact on Accuracy', 
                  fontsize=16, fontweight='bold', y=0.995)
