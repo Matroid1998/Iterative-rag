@@ -210,7 +210,33 @@ def load_hard_questions(hard_questions_path: Path) -> set:
                 elif isinstance(item, str):
                     hard_questions.add(item.strip())
     
+    
     return hard_questions
+
+
+def load_easy_questions(hard_questions_path: Path) -> set:
+    """Load easy questions from categories 0, 1, 2."""
+    if not hard_questions_path.exists():
+        return set()
+    
+    try:
+        with hard_questions_path.open("r", encoding="utf-8") as f:
+            data = json.load(f)
+    except (json.JSONDecodeError, FileNotFoundError):
+        return set()
+    
+    easy_questions = set()
+    for category in ["0", "1", "2"]:
+        if category in data:
+            for item in data[category]:
+                if isinstance(item, dict):
+                    question = item.get("question", "").strip()
+                    if question:
+                        easy_questions.add(question)
+                elif isinstance(item, str):
+                    easy_questions.add(item.strip())
+    
+    return easy_questions
 
 
 def prepare_all_questions_stats(
@@ -399,9 +425,11 @@ def plot_single_model_correctness(
     model_display_name: str,
     ax,
     global_max_y: int = None,
-    gold_context_summary: Dict[str, bool] = None,
-    coverage_gap_data: Dict[str, Dict] = None,
-) -> None:
+    gold_context_summary: object = None,
+    coverage_gap_data: object = None,
+    targeted_questions: set = None,
+    normalize: bool = False,
+) -> object:
     """Plot correctness by max source step with line plot showing accuracy rate and hop breakdown."""
     all_step_values = [step for step, _, _ in correct_steps] + [step for step, _, _ in incorrect_steps]
     max_step = max(all_step_values) if all_step_values else 0
@@ -477,6 +505,36 @@ def plot_single_model_correctness(
             hop_incorrect = step_hop_incorrect.get((step, hop), 0)
             hop_total = hop_correct + hop_incorrect
             hop_breakdown[hop].append(hop_total)
+            
+    # Calculate Targeted Questions Percentage (Hardness)
+    target_pcts = []
+    if targeted_questions:
+        for step in step_ticks:
+            questions_at_step = step_questions.get(step, [])
+            if questions_at_step:
+                target_count = sum(1 for q in questions_at_step if q in targeted_questions)
+                target_pct = (target_count / len(questions_at_step)) * 100
+                target_pcts.append(target_pct)
+            else:
+                target_pcts.append(0)
+
+    # NORMALIZATION LOGIC
+    if normalize:
+        # Normalize Accuracies
+        if accuracies and accuracies[0] > 0:
+             base = accuracies[0]
+             accuracies = [(val / base) * 100 for val in accuracies]
+        
+        # Normalize Gold Accuracies
+        if gold_accuracies:
+            first_val = next((x for x in gold_accuracies if x is not None), None)
+            if first_val and first_val > 0:
+                 gold_accuracies = [(val / first_val * 100) if val is not None else None for val in gold_accuracies]
+        
+        # Normalize Hardness
+        if target_pcts and target_pcts[0] > 0:
+            base = target_pcts[0]
+            target_pcts = [(val / base) * 100 for val in target_pcts]
     
     x_positions = np.arange(len(step_ticks))
     bar_width = 0.8
@@ -549,8 +607,26 @@ def plot_single_model_correctness(
         if any(pct > 0 for pct in complete_coverage_pcts):
             line3 = ax2.plot(x_positions, complete_coverage_pcts, '^-.', color='#9467bd', 
                             linewidth=2.5, markersize=7, markerfacecolor='white',
-                            markeredgewidth=2, markeredgecolor='#9467bd',
                             label='Coverage Complete %', zorder=8, alpha=0.85)
+
+    # Plot targeted questions percentage line (Hardness/Easiness)
+    # Plot targeted questions percentage line (Hardness/Easiness)
+    if targeted_questions:
+        # Use pre-calculated (and potentially normalized) target_pcts
+        # Plot Hardness line (Red)
+        
+        # Plot Hardness line (Red)
+        if any(pct > 0 for pct in target_pcts):
+            ax2.plot(x_positions, target_pcts, 'P-', color='#e74c3c', 
+                    linewidth=2.5, markersize=9, markerfacecolor='white',
+                    markeredgewidth=2.0, markeredgecolor='#e74c3c',
+                    label='Hardness %', zorder=11, alpha=1.0)
+            
+            # Add percentage labels
+            for x, pct in zip(x_positions, target_pcts):
+                if pct > 0:
+                    ax2.text(x, pct + 3.5, f'{pct:.1f}%', ha='center', va='bottom',
+                            fontsize=7, fontweight='bold', color='#e74c3c')
     
     # Add accuracy percentage labels for iterative RAG
     for i, (x, acc) in enumerate(zip(x_positions, accuracies)):
@@ -572,11 +648,6 @@ def plot_single_model_correctness(
     ax.set_xlabel("Retrieval Step", fontsize=10, fontweight='bold')
     ax.set_ylabel("Number of Questions", fontsize=10, fontweight='bold')
     ax.set_title(model_display_name, fontsize=11, fontweight='bold', pad=10)
-    
-    ax2.set_ylabel("Accuracy (%)", fontsize=10, fontweight='bold', color='#2ca02c')
-    ax2.tick_params(axis='y', labelcolor='#2ca02c')
-    ax2.set_ylim(0, 105)
-    ax2.spines['right'].set_color('#2ca02c')
     
     # Set uniform y-axis limit if provided
     if global_max_y is not None:
@@ -835,6 +906,7 @@ def plot_single_model_accuracy_lines_with_fusion(
                     markeredgewidth=2.5, markeredgecolor='#d62728',
                     label='Fusion/Skip %', zorder=7, alpha=0.85)
     
+    
     # Add percentage labels for iterative RAG
     for i, (x, acc) in enumerate(zip(x_positions, accuracies)):
         if acc > 0:
@@ -949,6 +1021,8 @@ def plot_combined_model_correctness(
     output_path: Path,
     gold_context_data: Dict[str, Dict[str, bool]] = None,
     coverage_gap_data: Dict[str, Dict[str, Dict]] = None,
+    targeted_questions: Set[str] = None,
+    normalize: bool = False,
 ) -> None:
     """Create a single plot with subplots showing correctness by max source step for each model."""
     try:
@@ -982,10 +1056,12 @@ def plot_combined_model_correctness(
     fig, axes = plt.subplots(rows, cols, figsize=(cols * 5, rows * 4.5))
     axes = axes.flatten()
 
+    axes_2 = []
+    
     for idx, (model_name, (correct_steps, incorrect_steps)) in enumerate(model_data.items()):
         gold_summary = gold_context_data.get(model_name, {}) if gold_context_data else {}
         coverage_summary = coverage_gap_data.get(model_name, {}) if coverage_gap_data else {}
-        plot_single_model_correctness(
+        ax2 = plot_single_model_correctness(
             correct_steps,
             incorrect_steps,
             model_name,
@@ -993,14 +1069,18 @@ def plot_combined_model_correctness(
             global_max_y=global_max_y,
             gold_context_summary=gold_summary,
             coverage_gap_data=coverage_summary,
+            targeted_questions=targeted_questions,
+            normalize=normalize,
         )
+        axes_2.append(ax2)
 
     # Add shared legend at the top
-    # Collect all unique handles and labels from all subplots
+    # Collect all unique handles and labels from all subplots (both axes)
     all_handles = []
     all_labels = []
     seen_labels = set()
     
+    # Collect from primary axes
     for ax in axes[:len(model_names)]:
         handles, labels = ax.get_legend_handles_labels()
         for handle, label in zip(handles, labels):
@@ -1008,9 +1088,19 @@ def plot_combined_model_correctness(
                 all_handles.append(handle)
                 all_labels.append(label)
                 seen_labels.add(label)
+                
+    # Collect from secondary axes
+    for ax2 in axes_2:
+        if ax2 is not None:
+            handles, labels = ax2.get_legend_handles_labels()
+            for handle, label in zip(handles, labels):
+                if label not in seen_labels:
+                    all_handles.append(handle)
+                    all_labels.append(label)
+                    seen_labels.add(label)
     
     # Reorder to ensure consistent legend order
-    desired_order = ['1 hop', '2 hops', '3 hops', '4 hops', 'Iterative RAG', 'Gold Context (same Qs)', 'Coverage Complete %']
+    desired_order = ['1 hop', '2 hops', '3 hops', '4 hops', 'Iterative RAG', 'Gold Context (same Qs)', 'Coverage Complete %', 'Hardness %']
     ordered_handles = []
     ordered_labels = []
     for desired_label in desired_order:
@@ -1322,6 +1412,10 @@ def main() -> None:
     hard_questions = load_hard_questions(hard_questions_path)
     print(f"Loaded {len(hard_questions)} hard questions\n")
     
+    # Load easy questions
+    easy_questions = load_easy_questions(hard_questions_path)
+    print(f"Loaded {len(easy_questions)} easy questions\n")
+    
     # No-context directory
     no_context_dir = base / "response-jsonl-without-context"
     
@@ -1579,10 +1673,21 @@ def main() -> None:
             plot_combined_model_correctness(
                 model_data_gold_wrong,
                 output_path_gold_wrong_no_cov,
-                gold_context_data,
                 None,  # No coverage gap data
             )
             print(f"Generated plot for gold context wrong questions (no coverage): {output_path_gold_wrong_no_cov}")
+            
+            # Version 4e: Gold context wrong questions (WITHOUT coverage gap, WITH hardness line)
+            output_path_gold_wrong_no_cov_hardness = output_dir / "all_models_correctness_by_steps_gold_wrong_no_coverage_with_hardness.png"
+            plot_combined_model_correctness(
+                model_data_gold_wrong,
+                output_path_gold_wrong_no_cov_hardness,
+                gold_context_data,
+                None,  # No coverage gap data
+                targeted_questions=hard_questions,
+                normalize=True,
+            )
+            print(f"Generated plot for gold context wrong questions (no coverage, with hardness): {output_path_gold_wrong_no_cov_hardness}")
         
         # Version 5: Lines only - all questions (with coverage gap)
         output_path_lines = output_dir / "all_models_accuracy_lines_only.png"

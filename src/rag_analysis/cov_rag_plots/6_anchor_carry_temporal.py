@@ -10,6 +10,15 @@ from collections import defaultdict
 import matplotlib.pyplot as plt
 import numpy as np
 
+
+TARGET_MODELS = [
+    'openrouter_anthropic__claude-sonnet-4.5',
+    'openrouter_google__gemini-2.5-pro',
+    'openai_gpt-5',
+    'openai_gpt-4o',
+    'bedrock_us.anthropic.claude-3-7-sonnet-20250219-v1:0-reasoning'
+]
+
 def load_temporal_anchor_data(output_dir):
     """Load anchor carry-drop data aggregated across all models by step."""
     step_data = defaultdict(lambda: {'total': 0, 'carry_drop': 0})
@@ -19,6 +28,26 @@ def load_temporal_anchor_data(output_dir):
         # Extract model name for detailed breakdown
         filename = Path(file_path).name
         model_name = filename.replace('responses_', '').replace('_reverified_coverage_gap_judgments.jsonl', '')
+        
+        # Filter for target models
+        if model_name not in TARGET_MODELS and f"2_{model_name}" not in TARGET_MODELS and model_name.replace("2_", "") not in TARGET_MODELS:
+             # Handle potential "2_" prefix mismatch just in case, though usually extracting from filename handles it if done consistently.
+             # Let's be strict but robust.
+             # The extracted model_name from filename usually matches the list if we assume standard naming.
+             # Let's allow exact match or match with slight variations if needed, but for now exact match against TARGET_MODELS.
+             # Actually, let's normalize check to be safe.
+             normalized_name = model_name.replace("2_", "") # Remove 2_ if present in filename produced model_name
+             
+             # Check if any target model matches
+             match_found = False
+             for target in TARGET_MODELS:
+                 if target == model_name or target == normalized_name:
+                     match_found = True
+                     model_name = target # Unify name
+                     break
+             
+             if not match_found:
+                 continue
         
         with open(file_path, 'r') as f:
             for line in f:
@@ -89,18 +118,12 @@ def create_temporal_line_chart(step_data, model_contributions, output_path):
     ax1.set_ylim(0, max(carry_drop_rates) * 1.3 if carry_drop_rates else 10)
     ax1.set_xticks(steps)
     
-    # Add trend line
-    if len(steps) > 2:
-        z = np.polyfit(steps, carry_drop_rates, 1)
-        p = np.poly1d(z)
-        ax1.plot(steps, p(steps), "--", color='gray', linewidth=2, 
-                alpha=0.7, label=f'Trend: {z[0]:.2f}x + {z[1]:.2f}')
-        ax1.legend(loc='best', fontsize=11)
+    # Trend line removed as requested.
     
     # Bottom plot: Breakdown by top models
     top_models = sorted(model_contributions.keys(), 
                        key=lambda m: sum(model_contributions[m][s]['total'] for s in steps),
-                       reverse=True)[:5]
+                       reverse=True)
     
     colors = plt.cm.tab10(np.linspace(0, 1, len(top_models)))
     
