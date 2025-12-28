@@ -7,6 +7,35 @@ from typing import Dict, List, Any, Tuple
 from collections import defaultdict
 
 
+def normalize_model_name(model: str) -> str:
+    """Normalize model name for display."""
+    if 'gpt-5' in model.lower():
+        return 'GPT-5'
+    elif 'gpt-4o' in model.lower():
+        return 'GPT-4o'
+    elif 'deepseek' in model.lower() and 'r1' in model.lower():
+        return 'DeepSeek R1'
+    elif 'claude-3-7' in model.lower() and 'reasoning' in model.lower():
+        return 'Claude 3.7 Sonnet + Reasoning'
+    elif 'claude-3-7' in model.lower():
+        return 'Claude 3.7 Sonnet'
+    elif 'claude-sonnet-4.5' in model.lower() or 'claude-4.5' in model.lower() or 'sonnet-4_5' in model.lower() or 'sonnet_4_5' in model.lower():
+        return 'Claude Sonnet 4.5'
+    elif 'claude-3-5' in model.lower():
+        return 'Claude 3.5 Sonnet'
+    elif 'gemini-2.5-pro' in model.lower() or 'gemini-2.5' in model.lower():
+        return 'Gemini 2.5 Pro'
+    elif 'grok-4' in model.lower():
+        return 'Grok 4 Fast'
+    elif 'glm-4.6' in model.lower() or 'glm-4' in model.lower():
+        return 'GLM 4.6'
+    elif 'mistral' in model.lower():
+        return 'Mistral Large'
+    elif 'llama' in model.lower():
+        return 'Llama 3.3 70B'
+    return model
+
+
 def load_hallucination_judgments(output_dir: Path) -> List[Dict[str, Any]]:
     """Load all hallucination judgment records from output directory."""
     records = []
@@ -23,7 +52,7 @@ def load_hallucination_judgments(output_dir: Path) -> List[Dict[str, Any]]:
                 try:
                     rec = json.loads(line)
                     # Override model field with the one extracted from filename
-                    rec['model'] = model_from_file
+                    rec['model'] = normalize_model_name(model_from_file)
                     records.append(rec)
                 except json.JSONDecodeError:
                     continue
@@ -46,7 +75,7 @@ def load_coverage_judgments(output_dir: Path) -> List[Dict[str, Any]]:
                 try:
                     rec = json.loads(line)
                     # Override model field with the one extracted from filename
-                    rec['model'] = model_from_file
+                    rec['model'] = normalize_model_name(model_from_file)
                     records.append(rec)
                 except json.JSONDecodeError:
                     continue
@@ -69,7 +98,7 @@ def load_quality_judgments(output_dir: Path) -> List[Dict[str, Any]]:
                 try:
                     rec = json.loads(line)
                     # Override model field with the one extracted from filename
-                    rec['model'] = model_from_file
+                    rec['model'] = normalize_model_name(model_from_file)
                     records.append(rec)
                 except json.JSONDecodeError:
                     continue
@@ -136,30 +165,4 @@ def has_poor_query_quality(quality_judgment: Dict[str, Any]) -> bool:
     return False
 
 
-def normalize_model_name(model: str) -> str:
-    """Normalize model name for display."""
-    if 'gpt-5' in model.lower():
-        return 'GPT-5'
-    elif 'gpt-4o' in model.lower():
-        return 'GPT-4o'
-    elif 'deepseek' in model.lower() and 'r1' in model.lower():
-        return 'DeepSeek R1'
-    elif 'claude-3-7' in model.lower() and 'reasoning' in model.lower():
-        return 'Claude 3.7 Sonnet + Reasoning'
-    elif 'claude-3-7' in model.lower():
-        return 'Claude 3.7 Sonnet'
-    elif 'claude-sonnet-4.5' in model.lower() or 'claude-4.5' in model.lower():
-        return 'Claude Sonnet 4.5'
-    elif 'claude-3-5' in model.lower():
-        return 'Claude 3.5 Sonnet'
-    elif 'gemini-2.5-pro' in model.lower() or 'gemini-2.5' in model.lower():
-        return 'Gemini 2.5 Pro'
-    elif 'grok-4' in model.lower():
-        return 'Grok 4 Fast'
-    elif 'glm-4.6' in model.lower() or 'glm-4' in model.lower():
-        return 'GLM 4.6'
-    elif 'mistral' in model.lower():
-        return 'Mistral Large'
-    elif 'llama' in model.lower():
-        return 'Llama 3.3 70B'
-    return model
+

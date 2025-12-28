@@ -7,39 +7,17 @@ questions that need context.
 """
 import json
 import glob
+import sys
 from pathlib import Path
 from collections import defaultdict
 import matplotlib.pyplot as plt
 import numpy as np
+from scipy import stats
 
 
-def normalize_model_name(model: str) -> str:
-    """Normalize model name for display."""
-    if 'gpt-5' in model.lower() or 'openai-gpt-5' in model.lower() or 'openai_gpt-5' in model.lower():
-        return 'GPT-5'
-    elif 'gpt-4o' in model.lower():
-        return 'GPT-4o'
-    elif 'deepseek' in model.lower() and 'r1' in model.lower():
-        return 'DeepSeek R1'
-    elif 'claude-3-7' in model.lower() and 'reasoning' in model.lower():
-        return 'Claude 3.7 + Reasoning'
-    elif 'claude-3-7' in model.lower():
-        return 'Claude 3.7 Sonnet'
-    elif 'claude-sonnet-4.5' in model.lower() or 'claude-4.5' in model.lower():
-        return 'Claude Sonnet 4.5'
-    elif 'claude-3-5' in model.lower():
-        return 'Claude 3.5 Sonnet'
-    elif 'gemini-2.5-pro' in model.lower() or 'gemini-2.5' in model.lower():
-        return 'Gemini 2.5 Pro'
-    elif 'grok-4' in model.lower():
-        return 'Grok 4 Fast'
-    elif 'glm-4.6' in model.lower() or 'glm-4' in model.lower():
-        return 'GLM 4.6'
-    elif 'mistral' in model.lower():
-        return 'Mistral Large'
-    elif 'llama' in model.lower():
-        return 'Llama 3.3 70B'
-    return model
+# Add parent directory to path to import utils
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from hallucination_rag_plots.hall_plot_utils import normalize_model_name
 
 
 def extract_question_from_baseline(record):
@@ -209,8 +187,20 @@ def create_aggregate_accuracy_plot(model_data, output_path):
     stderr_with = np.std(model_accuracies_with) / np.sqrt(len(model_accuracies_with)) if len(model_accuracies_with) > 1 else 0
     stderr_without = np.std(model_accuracies_without) / np.sqrt(len(model_accuracies_without)) if len(model_accuracies_without) > 1 else 0
     
+    # Calculate t-test (paired)
+    t_stat, p_value = stats.ttest_rel(model_accuracies_without, model_accuracies_with)
+    significance = ""
+    if p_value < 0.001:
+        significance = "***"
+    elif p_value < 0.01:
+        significance = "**"
+    elif p_value < 0.05:
+        significance = "*"
+    else:
+        significance = "ns"
+    
     # Create figure
-    fig, ax = plt.subplots(figsize=(10, 8))
+    fig, ax = plt.subplots(figsize=(6, 8))
     
     categories = ['With Coverage Gap', 'Without Coverage Gap']
     accuracies = [avg_with, avg_without]
@@ -236,8 +226,8 @@ def create_aggregate_accuracy_plot(model_data, output_path):
     
     # Formatting
     ax.set_ylabel('Average Accuracy (%)', fontsize=14, fontweight='bold')
-    ax.set_title('Impact of Coverage Gaps on Model Accuracy\n(No-Context Wrong Questions Only)',
-                fontsize=16, fontweight='bold', pad=20)
+    ax.set_title(f'Impact of Coverage Gaps on Model Accuracy\n(No-Context Wrong Questions Only)',
+                 fontsize=14, fontweight='bold', pad=20)
     ax.set_xticks(x)
     ax.set_xticklabels(categories, fontsize=13, fontweight='bold')
     ax.set_ylim(0, 100)
@@ -265,6 +255,7 @@ def create_aggregate_accuracy_plot(model_data, output_path):
     print(f"  Models: {len(model_accuracies_without)}")
     
     print(f"\nImpact: {impact:+.1f} percentage points")
+    print(f"Statistical Significance (paired t-test): p = {p_value:.6f} {significance}")
     print(f"{'⚠️  Coverage gaps significantly hurt performance' if impact > 5 else '✓ Coverage gaps have minimal impact' if abs(impact) < 2 else '~ Moderate impact'}")
     
     print("\n" + "="*80)

@@ -1,10 +1,11 @@
 """
-Plot 5: Composition Failure Rate by Model
+Plot 5b: Composition Failure Rate by Model (No Coverage Gap)
 
-Bar chart showing percentage of incorrect answers with composition failure per model.
-Denominator is the number of incorrect answers (not total runs).
+Bar chart showing percentage of incorrect answers with composition failure per model,
+EXCLUDING cases where a retrieval coverage gap was detected.
 
-Insight: Among incorrect answers, which models have higher composition failure rates?
+Denominator: Incorrect answers where has_gap is False/Missing.
+Numerator: Composition Failures within that set.
 """
 import json
 import sys
@@ -52,7 +53,7 @@ def load_reverified_correctness(reverified_dir: Path):
                         'model': normalized_model,
                         'question': question,
                         'is_correct': rec.get('is_correct', False),
-                        # Dummy parsed_judgment to satisfy create_merged_dataset structure if accessed
+                        # Dummy parsed_judgment but we won't use it if we merge properly
                         'parsed_judgment': {'is_correct': rec.get('is_correct', False)}
                     }
                     records.append(entry)
@@ -62,37 +63,61 @@ def load_reverified_correctness(reverified_dir: Path):
 
 
 def main():
-    """Generate composition failure rate by model plot."""
-    # Load hallucination and coverage judgments
+    """Generate composition failure rate by model plot (filtered)."""
     # Load hallucination judgments (numerator source)
     hall_records = load_hallucination_judgments(OUTPUT_DIR)
     
-    # Load correctly from both sources, prioritizing reverified
-    # output_cov: defaults/backups (e.g. if reverified is broken for a model)
+    # Load coverage info (gap source)
     output_cov = load_coverage_judgments(OUTPUT_DIR)
-    # reverified_cov: user requested source (overwrites output_cov)
+    # Load correctness info (denominator source preference)
     reverified_cov = load_reverified_correctness(REVERIFIED_DIR)
     
-    cov_records = output_cov + reverified_cov
+    # Merge overlay: Keep coverage info from output, update is_correct from reverified
+    cov_map = {}
+    # 1. Populate with output records (containing gap info)
+    for rec in output_cov:
+        # model is already normalized by load_coverage_judgments due to hall_plot_utils fix
+        key = (rec.get('model', ''), rec.get('question', ''))
+        cov_map[key] = rec
+        
+    # 2. Overlay reverified correctness
+    for rec in reverified_cov:
+        key = (rec.get('model', ''), rec.get('question', ''))
+        if key in cov_map:
+             cov_map[key]['is_correct'] = rec['is_correct']
+        else:
+             # Fallback: if not in output (e.g. no coverage judgment), use reverified as is
+             cov_map[key] = rec
     
-    # Merge datasets to get is_correct field
+    cov_records = list(cov_map.values())
+    
+    # Merge datasets
     merged = create_merged_dataset(hall_records, cov_records, [])
     
     # Group by model
-    model_stats = defaultdict(lambda: {'incorrects': 0, 'failures': 0})
+    model_stats = defaultdict(lambda: {'incorrects': 0, 'failures': 0, 'excluded': 0})
     
     for rec in merged:
         model = normalize_model_name(rec.get('model', ''))
+        
+        # Check Coverage Gap
+        coverage = rec.get('coverage', {})
+        gap_info = coverage.get('retrieval_coverage_gap', {})
+        has_gap = gap_info.get('has_gap', False)
+        
         is_correct = rec.get('is_correct', False)
         cf = rec.get('hallucination', {}).get('composition_and_faithfulness', {})
         
-        # Only count incorrect answers
+        # Denominator: All incorrect answers
         if not is_correct:
             model_stats[model]['incorrects'] += 1
             
-            # Count composition failures among incorrect answers
-            if cf.get('composition_failure', False):
+            # Numerator: Composition failures w/ NO gap (avoidable errors)
+            if cf.get('composition_failure', False) and not has_gap:
                 model_stats[model]['failures'] += 1
+            
+            if has_gap:
+                 model_stats[model]['excluded'] += 1 # Tracking gaps just for info
     
     # Calculate percentages
     models = sorted(model_stats.keys())
@@ -100,12 +125,21 @@ def main():
     failure_counts = []
     total_counts = []
     
+    print("\n=== Composition Failure Rate by Model (No Gap / All Incorrect) ===")
+    print("(% of ALL incorrect answers that are composition failures with sufficient context)")
+    
     for model in models:
         stats = model_stats[model]
         rate = 100 * stats['failures'] / stats['incorrects'] if stats['incorrects'] > 0 else 0
         failure_rates.append(rate)
         failure_counts.append(stats['failures'])
         total_counts.append(stats['incorrects'])
+        
+        print(f"\n{model}:")
+        print(f"  Total Incorrect answers: {stats['incorrects']}")
+        print(f"  Composition failures (No Gap): {stats['failures']}")
+        print(f"  Incorrects with Gap (Info only): {stats['excluded']}")
+        print(f"  Failure rate: {rate:.1f}%")
     
     # Create bar chart
     fig, ax = plt.subplots(figsize=(12, 7))
@@ -122,13 +156,13 @@ def main():
                ha='center', va='bottom', fontsize=10, fontweight='bold')
     
     # Add average line
-    avg_rate = np.mean(failure_rates)
+    avg_rate = np.mean(failure_rates) if failure_rates else 0
     ax.axhline(y=avg_rate, color='red', linestyle='--', linewidth=2,
               label=f'Average: {avg_rate:.1f}%', alpha=0.7)
     
     ax.set_ylabel('Composition Failure Rate (%)', fontsize=12, fontweight='bold')
     ax.set_xlabel('Model', fontsize=12, fontweight='bold')
-    ax.set_title('Composition Failure Rate by Model\n(% of incorrect answers with composition failure)', 
+    ax.set_title('Composition Failure Rate by Model\n(% of incorrect answers with composition failure, excluding coverage gaps)', 
                  fontsize=14, fontweight='bold', pad=20)
     ax.set_xticks(x)
     ax.set_xticklabels(models, rotation=30, ha='right')
@@ -137,21 +171,10 @@ def main():
     ax.grid(axis='y', alpha=0.3, linestyle='--')
     
     plt.tight_layout()
-    output_path = PLOT_DIR / '5_composition_failure_rate.png'
+    output_path = PLOT_DIR / '5b_composition_failure_rate_no_coverage_gap.png'
     plt.savefig(output_path, dpi=300, bbox_inches='tight')
-    print(f"Saved: {output_path}")
+    print(f"\nSaved: {output_path}")
     plt.close()
-    
-    # Print statistics
-    print("\n=== Composition Failure Rate by Model ===")
-    print("(% of incorrect answers with composition failure)")
-    for model in models:
-        stats = model_stats[model]
-        rate = 100 * stats['failures'] / stats['incorrects'] if stats['incorrects'] > 0 else 0
-        print(f"\n{model}:")
-        print(f"  Incorrect answers: {stats['incorrects']}")
-        print(f"  Composition failures: {stats['failures']}")
-        print(f"  Failure rate: {rate:.1f}%")
 
 
 if __name__ == '__main__':

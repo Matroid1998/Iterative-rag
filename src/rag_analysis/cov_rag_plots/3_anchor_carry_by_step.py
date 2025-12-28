@@ -47,7 +47,7 @@ def load_anchor_carry_data(output_dir):
 
 def create_line_chart(model_step_data, output_path):
     """Create line chart showing carry-drop rate by step for each model."""
-    fig, ax = plt.subplots(figsize=(14, 8))
+    fig, ax = plt.subplots(figsize=(20, 10))
     
     # Color palette for models
     colors = plt.cm.tab10(np.linspace(0, 1, 10))
@@ -75,17 +75,24 @@ def create_line_chart(model_step_data, output_path):
         
         # Add value labels for key points
         for step, rate in zip(steps, carry_drop_rates):
-            if step > 1 and rate > 5:  # Only label significant rates
-                ax.annotate(f'{rate:.1f}%', (step, rate), 
-                          textcoords="offset points", xytext=(0, 8),
-                          ha='center', fontsize=8, alpha=0.7)
+            # Only label GPT 4o and GPT 5 in steps 2 and 5
+            is_target_model = 'gpt-4o' in short_name.lower() or 'gpt-5' in short_name.lower()
+            is_target_step = step in [2, 5]
+            
+            if is_target_model and is_target_step:
+                import matplotlib.patheffects as pe
+                txt = ax.annotate(f'{rate:.1f}%', (step, rate), 
+                          textcoords="offset points", xytext=(0, 10),
+                          ha='center', fontsize=12, fontweight='bold', color='black')
+                txt.set_path_effects([pe.withStroke(linewidth=2.5, foreground="white")])
     
     # Customize plot
-    ax.set_xlabel('Step Number', fontsize=14, fontweight='bold')
-    ax.set_ylabel('Anchor Carry-Drop Rate (%)', fontsize=14, fontweight='bold')
+    ax.set_xlabel('Step Number', fontsize=16, fontweight='bold')
+    ax.set_ylabel('Anchor Carry-Drop Rate (%)', fontsize=16, fontweight='bold')
     ax.set_title('Anchor Carry-Drop Rate by Step and Model\n(Higher % = More anchor loss)',
-                fontsize=16, fontweight='bold', pad=20)
-    ax.legend(loc='best', fontsize=10, ncol=2)
+                fontsize=20, fontweight='bold', pad=20)
+    ax.legend(loc='best', fontsize=12, ncol=2)
+    ax.tick_params(axis='both', which='major', labelsize=14)
     ax.grid(True, alpha=0.3)
     ax.set_xlim(0.5, max_step + 0.5)
     ax.set_ylim(0, None)

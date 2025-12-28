@@ -133,7 +133,7 @@ def plot_stacked_bar_by_hops(
 
     # Define hop bins and pastel colors
     hop_bins = [1, 2, 3, 4]
-    colors = ['#FFB3BA', '#BAFFC9', '#BAE1FF', '#FFFFBA']  # Pastel red, green, blue, yellow
+    colors = ['#e74c3c', '#f39c12', '#3498db', '#9b59b6']  # Vivid red, orange, blue, purple
 
     # Prepare data for stacking
     data_by_hop: Dict[int, List[int]] = {hop: [] for hop in hop_bins}
@@ -144,7 +144,7 @@ def plot_stacked_bar_by_hops(
             data_by_hop[hop].append(hop_counts.get(hop, 0))
 
     # Create the plot
-    fig, ax = plt.subplots(figsize=(10, 10))
+    fig, ax = plt.subplots(figsize=(14, 10))
 
     x = np.arange(len(categories))
     width = 0.6
@@ -163,7 +163,10 @@ def plot_stacked_bar_by_hops(
         for i, value in enumerate(values):
             if value > 0:
                 y_pos = bottom[i] + value / 2
-                ax.text(i, y_pos, str(int(value)), ha='center', va='center', fontsize=9)
+                import matplotlib.patheffects as pe
+                txt = ax.text(i, y_pos, str(int(value)), ha='center', va='center', 
+                        fontsize=15, fontweight='bold', color='white')
+                txt.set_path_effects([pe.withStroke(linewidth=2.0, foreground="black")])
 
         bottom += np.array(values)
 
@@ -171,15 +174,16 @@ def plot_stacked_bar_by_hops(
     for i, total in enumerate(bottom):
         if total > 0:
             ax.text(i, total + 2, str(int(total)), ha='center',
-                    va='bottom', fontsize=11, fontweight='bold')
+                    va='bottom', fontsize=14, fontweight='bold')
 
     # Customize the plot
-    ax.set_ylabel('Unanswered Questions (sqrt scale)', fontsize=12)
+    ax.set_ylabel('Unanswered Questions (sqrt scale)', fontsize=14, fontweight='bold')
     ax.set_title('Distribution of Unanswered Questions by Number of Hops in Different Settings',
-                 fontsize=14, fontweight='bold')
+                 fontsize=16, fontweight='bold', pad=15)
     ax.set_xticks(x)
-    ax.set_xticklabels(categories, fontsize=11)
-    ax.legend(loc='upper right', fontsize=10)
+    ax.set_xticklabels(categories, fontsize=14, fontweight='bold')
+    ax.legend(loc='upper right', fontsize=12)
+    ax.tick_params(axis='y', labelsize=12)
     ax.grid(axis='y', alpha=0.3, linestyle='--')
 
     # Use square root scale - compresses large values, expands small ones

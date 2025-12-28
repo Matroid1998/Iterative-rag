@@ -197,10 +197,7 @@ def plot_parametric_suppression(
     
     x = np.arange(len(model_names))
     
-    # Get colors for each model
-    colors = [get_model_color(model) for model in model_names]
-    
-    bars = ax.bar(x, rates, color=colors, alpha=0.8, edgecolor='black', linewidth=1.2)
+    bars = ax.bar(x, rates, color='gray', alpha=0.8, edgecolor='black', linewidth=1.2)
     
     # Add value labels on bars
     for i, (bar, rate) in enumerate(zip(bars, rates)):

@@ -9,6 +9,7 @@ import sys
 from pathlib import Path
 import matplotlib.pyplot as plt
 import numpy as np
+import matplotlib.patheffects as pe
 from matplotlib.patches import Rectangle
 
 # Add parent directory to path
@@ -84,7 +85,7 @@ def main():
                                    np.nan)
     
     # Create figure
-    fig, ax = plt.subplots(figsize=(14, 8))
+    fig, ax = plt.subplots(figsize=(18, 8))
     
     # Create heatmap
     im = ax.imshow(accuracy_matrix, cmap='RdYlGn', aspect='auto', 
@@ -107,8 +108,8 @@ def main():
     # Labels for ticks
     ax.set_xticklabels([f'< {suff_threshold_low}', 
                         f'{suff_threshold_low}-{suff_threshold_high}', 
-                        f'≥ {suff_threshold_high}'], fontsize=11)
-    ax.set_yticklabels([f'≥ {cov_threshold}', f'< {cov_threshold}'], fontsize=11)
+                        f'≥ {suff_threshold_high}'], fontsize=14, fontweight='bold')
+    ax.set_yticklabels([f'≥ {cov_threshold}', f'< {cov_threshold}'], fontsize=14, fontweight='bold')
     
     # Add text annotations for each cell (6 zones)
     zone_labels = [
@@ -123,30 +124,31 @@ def main():
             
             if count > 0 and not np.isnan(acc):
                 # Choose text color based on accuracy
-                text_color = 'white' if acc < 50 else 'black'
+                text_color = 'black'
                 
                 # Main text: accuracy
-                ax.text(j, i - 0.2, f'{acc:.1f}%', ha='center', va='center',
-                       color=text_color, fontsize=28, fontweight='bold')
+                txt1 = ax.text(j, i - 0.2, f'{acc:.1f}%', ha='center', va='center',
+                       color=text_color, fontsize=36, fontweight='bold')
                 
                 # Zone label
-                ax.text(j, i + 0.05, zone_labels[i][j], ha='center', va='center',
-                       color=text_color, fontsize=10, fontweight='bold', alpha=0.8)
+                txt2 = ax.text(j, i + 0.05, zone_labels[i][j], ha='center', va='center',
+                       color=text_color, fontsize=14, fontweight='bold', alpha=0.9)
                 
                 # Count
-                ax.text(j, i + 0.28, f'n = {int(count)}', ha='center', va='center',
-                       color=text_color, fontsize=9, fontweight='bold', alpha=0.7)
+                txt3 = ax.text(j, i + 0.28, f'n = {int(count)}', ha='center', va='center',
+                       color=text_color, fontsize=12, fontweight='bold')
     
     # Labels
-    ax.set_xlabel('Sufficiency Score', fontsize=13, fontweight='bold')
-    ax.set_ylabel('Hop Coverage', fontsize=13, fontweight='bold')
+    ax.set_xlabel('Sufficiency Score', fontsize=16, fontweight='bold')
+    ax.set_ylabel('Hop Coverage', fontsize=16, fontweight='bold')
     ax.set_title('Accuracy Heatmap: Sufficiency vs Coverage\n' +
                  f'(Thresholds: Sufficiency: <{suff_threshold_low}, {suff_threshold_low}-{suff_threshold_high}, ≥{suff_threshold_high} | Coverage: ≥{cov_threshold})',
-                 fontsize=13, fontweight='bold', pad=20)
+                 fontsize=16, fontweight='bold', pad=20)
     
     # Colorbar
     cbar = plt.colorbar(im, ax=ax, pad=0.02, fraction=0.046)
-    cbar.set_label('Accuracy (%)', rotation=270, labelpad=25, fontsize=12, fontweight='bold')
+    cbar.set_label('Accuracy (%)', rotation=270, labelpad=25, fontsize=14, fontweight='bold')
+    cbar.ax.tick_params(labelsize=12)
     
     plt.tight_layout()
     output_path = PLOT_DIR / '2c_sufficiency_vs_coverage_heatmap.png'
