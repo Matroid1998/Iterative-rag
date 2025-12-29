@@ -189,6 +189,29 @@ def plot_adaptivity_vs_predictability(
     labels = []
     sizes = []
     
+    
+    # Define sorted order to match cost_vs_accuracy_scatter.png colors
+    # NOTE: Names must match exactly those in config.py ITERATIVE_MODEL_ENTRIES
+    sorted_models = [
+        "Llama 3.3 70B Instruct",
+        "Mistral Large 2402",
+        "Claude 3.7 Sonnet",
+        "Claude 3.7 Sonnet Thinking", 
+        "DeepSeek R1",
+        "GPT-4o",
+        "GPT-5",
+        "Claude Sonnet 4.5",
+        "Gemini 2.5 Pro",
+        "Grok 4 Fast",
+        "GLM 4.6",
+    ]
+    
+    # Generate tab10 colors
+    cmap = plt.cm.tab10(np.linspace(0, 1, 10))
+    color_map = {}
+    for i, model in enumerate(sorted_models):
+        color_map[model] = cmap[i % 10]
+
     for model_name in available_models:
         # Calculate Scaling Factor (Hard / Easy)
         easy_tokens = compute_average_tokens(model_data, model_name, CATEGORY_GROUPS["Easy"])
@@ -212,33 +235,40 @@ def plot_adaptivity_vs_predictability(
             y_values.append(avg_cv)
             labels.append(model_name)
             
-            # Use single color for all models
-            colors.append('#4682B4') # Steel Blue
-            sizes.append(150)
+            # Use specific color for model
+            color = color_map.get(model_name, '#808080')
+            colors.append(color) 
+            sizes.append(200) # Increased size
     
-    # Create plot
-    fig, ax = plt.subplots(figsize=(14, 10))
+    # Create plot - slightly larger figsize to make text look smaller relatively
+    fig, ax = plt.subplots(figsize=(12, 9))
     
     # Plot points
-    scatter = ax.scatter(x_values, y_values, c=colors, s=sizes, alpha=0.9, edgecolors='black', linewidth=1)
+    scatter = ax.scatter(x_values, y_values, c=colors, s=sizes, alpha=0.8, edgecolors='black', linewidth=1.5)
     
     # Add labels
     for i, label in enumerate(labels):
-        # Adjust label position to avoid overlap (simple heuristic)
-        xytext = (5, 5)
-        if "GPT-4o" in label:
-            xytext = (5, 5)
-        elif "Llama" in label:
-            xytext = (5, 5)
+        # Default position
+        xytext = (8, 0)
+        ha = 'left'
+        va = 'center'
         
+        # Specific overrides
+        # Ensure "Thinking" variant stays on the right (default)
+        if "Claude 3.7 Sonnet" in label and "Reasoning" not in label and "Thinking" not in label:
+             xytext = (-5, -5)
+             ha = 'right'
+             va = 'top'
+        
+        # Removed fontweight='bold' and reduced fontsize
         ax.annotate(label, (x_values[i], y_values[i]), 
                    xytext=xytext, textcoords='offset points',
-                   fontsize=9, fontweight='bold')
+                   fontsize=10, ha=ha, va=va)
     
     # Axis labels and Title
-    ax.set_xlabel('Token Scaling Factor (Hard/Easy Multiplier)\n(Higher = More Adaptive Effort)', fontsize=12)
-    ax.set_ylabel('Token Usage Consistency (Average CV %)\n(Lower = More Predictable)', fontsize=12)
-    ax.set_title('Adaptivity vs. Predictability', fontsize=16)
+    ax.set_xlabel('Token Scaling Factor (Hard/Easy Multiplier)\n(Higher = More Adaptive Effort)', fontsize=13, fontweight='bold')
+    ax.set_ylabel('Token Usage Consistency (Average CV %)\n(Lower = More Predictable)', fontsize=13, fontweight='bold')
+    ax.set_title('Adaptivity vs. Predictability', fontsize=16, fontweight='bold', pad=20)
     
     # Grid
     ax.grid(True, linestyle='--', alpha=0.5)

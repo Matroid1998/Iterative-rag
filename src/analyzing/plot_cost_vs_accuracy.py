@@ -48,7 +48,7 @@ def load_model_data():
         "deepseek.r1-v1_0-reasoning": "DeepSeek R1",
         "llama3-3-70b-instruct": "Llama 3.3 70B",
         "gpt-4o": "GPT-4o",
-        "gpt-5": "GPT-5",
+        "gpt-5": "GPT-5", # Catch all gpt-5
         "claude-sonnet-4.5": "Claude Sonnet 4.5",
         "gemini-2.5-pro": "Gemini 2.5 Pro",
         "grok-4-fast": "Grok 4 Fast",
@@ -58,6 +58,10 @@ def load_model_data():
     data = []
     
     for csv_file in results_dir.glob("*.csv"):
+        # Explicit skip for GPT-5.1
+        if "gpt-5.1" in csv_file.name:
+            continue
+            
         # Find matching model name
         model_name = None
         for pattern, name in file_to_model.items():
@@ -112,42 +116,68 @@ def create_scatter_plot(df: pd.DataFrame, output_dir: Path):
     fig, ax = plt.subplots(figsize=(14, 10))
     
     # Create color map based on model families
-    color_map = {
-        'Claude 3.7 + Reasoning': '#8B4513',
-        'Claude 3.7 Sonnet': '#D2691E',
-        'Claude Sonnet 4.5': '#CD853F',
-        'GPT-4o': '#4169E1',
-        'GPT-5': '#1E90FF',
-        'Gemini 2.5 Pro': '#32CD32',
-        'DeepSeek R1': '#FF69B4',
-        'Llama 3.3 70B': '#9370DB',
-        'Mistral Large': '#FFD700',
-        'Grok 4 Fast': '#00CED1',
-        'GLM 4.6': '#FF6347',
-    }
+    # Define sorted order to match anchor_carry_by_step.png colors
+    # Based on sorting of raw keys (files starting with 2_, bedrock_, openai_, openrouter_)
+    sorted_models = [
+        "Llama 3.3 70B",            # 2_bedrock...
+        "Mistral Large",            # bedrock_mistral...
+        "Claude 3.7 Sonnet",        # bedrock_us.anthropic...v1:0
+        "Claude 3.7 + Reasoning",   # bedrock_us.anthropic...v1:0-reasoning (prefix comes first)
+        "DeepSeek R1",              # bedrock_us.deepseek...
+        "GPT-4o",                   # openai_gpt-4o
+        "GPT-5",                    # openai_gpt-5 (Takes GPT-5.1's old spot/color)
+        "Claude Sonnet 4.5",        # openrouter_anthropic...
+        "Gemini 2.5 Pro",           # openrouter_google...
+        "Grok 4 Fast",              # openrouter_x-ai...
+        "GLM 4.6",                  # openrouter_z-ai...
+    ]
+    
+    # Generate tab10 colors
+    colors = plt.cm.tab10(np.linspace(0, 1, 10))
+    
+    # Create color map
+    color_map = {}
+    for i, model in enumerate(sorted_models):
+        color_map[model] = colors[i % 10]
     
     # Plot each model
     for idx, row in df.iterrows():
-        color = color_map.get(row['Model'], '#808080')
+        model = row['Model']
+        color = color_map.get(model, '#808080')
+        
+        # Fallback if model not in sorted list (shouldn't happen with current data)
+        if model not in color_map and model not in sorted_models:
+             # Find index if it was in the list? Or just append?
+             pass
+
         ax.scatter(row['Cost'], row['Accuracy'], 
-                  s=200, c=color, alpha=0.7, 
+                  s=200, c=[color], alpha=0.7, 
                   edgecolors='black', linewidth=1.5,
                   label=row['Model'])
         
         # Add model name labels with smart positioning
-        offset_x = row['Cost'] * 0.02
-        offset_y = 0.3
+        # Simple text, larger font, no highlight/bbox
+        # Move label to the right of the marker (s=200 -> radius ~7 points)
+        # Exception: Claude 3.7 + Reasoning label to the left
+        
+        if row['Model'] == 'Claude 3.7 + Reasoning':
+            offset_x = -12
+            offset_y = 0
+            ha = 'right'
+        else:
+            offset_x = 12
+            offset_y = 0
+            ha = 'left'
+        
         ax.annotate(row['Model'], 
                    (row['Cost'], row['Accuracy']),
                    xytext=(offset_x, offset_y),
                    textcoords='offset points',
-                   fontsize=9,
+                   fontsize=12,              # Increased font size
                    fontweight='bold',
-                   bbox=dict(boxstyle='round,pad=0.3', 
-                            facecolor=color, 
-                            edgecolor='black',
-                            alpha=0.7),
-                   ha='left')
+                   color='black',            # Neutral color
+                   ha=ha,
+                   va='center')
     
     # Styling
     ax.set_xlabel('Total Cost ($)', fontsize=14, fontweight='bold')

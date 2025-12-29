@@ -15,10 +15,12 @@ from scipy import stats
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from hallucination_rag_plots.hall_plot_utils import (
     load_hallucination_judgments, load_coverage_judgments, 
-    create_merged_dataset, normalize_model_name
+    create_merged_dataset, normalize_model_name,
+    load_no_context_wrong_questions
 )
 
 OUTPUT_DIR = Path(__file__).resolve().parents[2] / 'rag_analysis' / 'output'
+BASE_DIR = Path(__file__).resolve().parents[2]
 PLOT_DIR = Path(__file__).resolve().parent / 'plots'
 PLOT_DIR.mkdir(exist_ok=True)
 
@@ -27,6 +29,9 @@ def main():
     """Generate calibration state vs accuracy plot - average accuracy per model in each state."""
     # Load hallucination judgments and group by source model
     OUTPUT_DIR_PATH = Path(__file__).resolve().parents[2] / 'rag_analysis' / 'output'
+    
+    # Load filter list (No Context Wrong Questions)
+    wrong_questions_map = load_no_context_wrong_questions(BASE_DIR)
     
     # Group by source model and calibration state
     model_state_correctness = defaultdict(lambda: defaultdict(list))
@@ -58,6 +63,14 @@ def main():
             
         model_name = normalize_model_name(rec.get('model', ''))
         if not model_name:
+            continue
+            
+        # Filter: Only include if question was wrong in no-context baseline
+        question = rec.get('question', '')
+        if model_name not in wrong_questions_map:
+            continue
+            
+        if question not in wrong_questions_map[model_name]:
             continue
 
         # Get calibration state
@@ -175,7 +188,7 @@ def main():
     ax.axhline(y=0, color='black', linestyle='-', linewidth=0.8)
     ax.set_ylabel('Average Accuracy (%)', fontsize=12, fontweight='bold')
     ax.set_xlabel('Confidence Calibration State', fontsize=12, fontweight='bold')
-    ax.set_title('Average Accuracy by Calibration State - All Questions\n(Across All Models)', 
+    ax.set_title('Average Accuracy by Calibration State - Filtered\n(No-Context Wrong Questions Only)', 
                  fontsize=14, fontweight='bold', pad=20)
     
     ax.grid(axis='y', alpha=0.3, linestyle='--')

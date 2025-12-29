@@ -17,58 +17,10 @@ from scipy import stats
 
 # Add parent directory to path to import utils
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-from hallucination_rag_plots.hall_plot_utils import normalize_model_name
-
-
-def extract_question_from_baseline(record):
-    """Extract question from baseline record."""
-    if 'raw' in record and isinstance(record['raw'], dict):
-        return record['raw'].get('question', '')
-    return record.get('question', '')
-
-
-def load_no_context_wrong_questions(base_dir):
-    """Load questions that were answered incorrectly in no-context baseline."""
-    no_context_dir = base_dir / "response-jsonl-without-context"
-    
-    if not no_context_dir.exists():
-        print(f"Warning: No-context directory not found: {no_context_dir}")
-        return {}
-    
-    # Structure: {model: set(questions)}
-    wrong_questions = defaultdict(set)
-    
-    for file_path in no_context_dir.glob("*.jsonl"):
-        model_name = file_path.stem
-        # Match model name pattern
-        if 'responses_' in model_name:
-            model_name = model_name.replace('responses_', '')
-        if '_reverified' in model_name:
-            model_name = model_name.replace('_reverified', '')
-        
-        model_name = normalize_model_name(model_name)
-        
-        with open(file_path, 'r') as f:
-            for line in f:
-                line = line.strip()
-                if not line:
-                    continue
-                try:
-                    data = json.loads(line)
-                    question = extract_question_from_baseline(data)
-                    is_correct = data.get('is_correct', False)
-                    
-                    if not is_correct and question:
-                        wrong_questions[model_name].add(question)
-                
-                except json.JSONDecodeError:
-                    continue
-    
-    print(f"Loaded no-context wrong questions for {len(wrong_questions)} models")
-    for model, questions in sorted(wrong_questions.items()):
-        print(f"  {model}: {len(questions)} wrong questions")
-    
-    return wrong_questions
+from hallucination_rag_plots.hall_plot_utils import (
+    normalize_model_name, 
+    load_no_context_wrong_questions
+)
 
 
 def extract_question_from_iterative(record):

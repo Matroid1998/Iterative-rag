@@ -16,9 +16,14 @@ import numpy as np
 
 # Add parent directory to path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-from hallucination_rag_plots.hall_plot_utils import load_hallucination_judgments, normalize_model_name
+from hallucination_rag_plots.hall_plot_utils import (
+    load_hallucination_judgments, 
+    normalize_model_name,
+    load_no_context_wrong_questions
+)
 
 OUTPUT_DIR = Path(__file__).resolve().parents[2] / 'rag_analysis' / 'output'
+BASE_DIR = Path(__file__).resolve().parents[2]
 PLOT_DIR = Path(__file__).resolve().parent
 
 
@@ -26,11 +31,27 @@ def main():
     """Generate miscalibration direction by hop count plot with 6 subplots."""
     records = load_hallucination_judgments(OUTPUT_DIR)
     
+    # Load filter list (No Context Wrong Questions)
+    wrong_questions_map = load_no_context_wrong_questions(BASE_DIR)
+    
     # Group by model, hop count, and direction
     model_hop_direction = defaultdict(lambda: defaultdict(lambda: defaultdict(int)))
     
     for rec in records:
         model = normalize_model_name(rec.get('model', ''))
+        
+        # Filter: Only include if question was wrong in no-context baseline
+        question = rec.get('question', '')
+        if model not in wrong_questions_map:
+            # If model missing in baseline, skip (or keep? usually skip in paired analysis)
+            # User said "only use the questions that are not answered in No Context mode of each model"
+            # If we don't have baseline for this model, we can't determining overlap.
+            # Assuming we skip.
+            continue
+            
+        if question not in wrong_questions_map[model]:
+            continue
+            
         hops = rec.get('number_of_hops', 0)
         if hops == 0:
             continue
@@ -44,7 +65,7 @@ def main():
     models = sorted(model_hop_direction.keys())
     
     if len(models) == 0:
-        print("No model data found!")
+        print("No model data found after filtering!")
         return
     
     # Prepare plot layout
@@ -91,25 +112,25 @@ def main():
         
         bottom = np.zeros(len(hop_counts))
         
+        # Calculate totals per hop for normalization
+        hop_totals = [sum(data[d][i] for d in directions) for i in range(len(hop_counts))]
+        
         for i, (direction, label, color) in enumerate(zip(directions, direction_labels, colors)):
-            values = data[direction]
-            bars = ax.bar(x, values, width, label=label, bottom=bottom, 
+            # Normalize measurements to percentage
+            raw_values = data[direction]
+            pct_values = [100 * v / t if t > 0 else 0 for v, t in zip(raw_values, hop_totals)]
+            
+            bars = ax.bar(x, pct_values, width, label=label, bottom=bottom, 
                          color=color, alpha=0.85, edgecolor='black', linewidth=0.5)
             
-            # Add percentage labels on bars
-            for j, (val, bot) in enumerate(zip(values, bottom)):
-                if val > 0:
-                    total = sum(data[d][j] for d in directions)
-                    pct = 100 * val / total
-                    if pct > 8:  # Only show label if segment is large enough
-                        ax.text(x[j], bot + val/2, f'{pct:.0f}%', 
-                               ha='center', va='center', fontsize=8, fontweight='bold')
+            # Removed text labels inside bars as requested
             
-            bottom += values
+            bottom += pct_values
         
         # Formatting
-        ax.set_xlabel('Number of Hops', fontsize=10, fontweight='bold')
-        ax.set_ylabel('Count', fontsize=10, fontweight='bold')
+        ax.set_xlabel('Number of Hops', fontsize=14, fontweight='bold')
+        ax.set_ylabel('Percentage (%)', fontsize=10, fontweight='bold')
+        ax.set_ylim(0, 100)
         ax.set_title(model, fontsize=12, fontweight='bold', pad=10)
         ax.set_xticks(x)
         ax.set_xticklabels([f'{h}' for h in hop_counts])
@@ -122,10 +143,10 @@ def main():
     # Create a single shared legend at the bottom
     handles, labels = axes[0].get_legend_handles_labels()
     fig.legend(handles, labels, loc='lower center', ncol=3, framealpha=0.95, 
-              fontsize=11, bbox_to_anchor=(0.5, -0.02))
+              fontsize=14, bbox_to_anchor=(0.5, -0.02))
     
     # Overall title
-    fig.suptitle('Miscalibration Direction by Question Complexity (Per Model)\nHow does calibration quality change with task difficulty?',
+    fig.suptitle('Miscalibration Direction by Question Hops (Per Model)',
                 fontsize=16, fontweight='bold', y=0.995)
     
     plt.tight_layout(rect=[0, 0.02, 1, 0.985])

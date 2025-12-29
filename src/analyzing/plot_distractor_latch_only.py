@@ -43,31 +43,53 @@ def get_quality_model_entries() -> List[Tuple[Path, Path, str]]:
     }
     
     entries = []
-    for quality_file in sorted(quality_dir.glob("*quality_judement.jsonl")):
-        stem = quality_file.stem
-        
-        if stem.endswith("_quality_judement"):
-            stem = stem[:-len("_quality_judement")]
-        
-        if stem.startswith("2_"):
-            stem = stem[2:]
-        
-        raw_name = stem
-        if stem.endswith("_reverified"):
-            raw_name = stem[:-len("_reverified")]
-        
-        reverified_file = reverified_dir / f"{stem}.jsonl"
-        
-        if not reverified_file.exists():
-            print(f"Warning: No reverified file found for {stem}")
-            continue
-        
-        model_key = raw_name
-        if model_key.startswith("responses_"):
-            model_key = model_key[len("responses_"):]
-        
-        display_name = model_names.get(model_key, model_key)
-        entries.append((quality_file, reverified_file, display_name))
+    # Support both spelling variations found in the directory
+    patterns = ["*quality_judement.jsonl", "*quality_judgement.jsonl"]
+    
+    found_files = set()
+    for pattern in patterns:
+        for quality_file in sorted(quality_dir.glob(pattern)):
+            if quality_file in found_files:
+                continue
+            found_files.add(quality_file)
+            
+            stem = quality_file.stem
+            
+            # Remove suffix based on which pattern matched or just check ends
+            if stem.endswith("_quality_judement"):
+                stem = stem[:-len("_quality_judement")]
+            elif stem.endswith("_quality_judgement"):
+                stem = stem[:-len("_quality_judgement")]
+            
+            if stem.startswith("2_"):
+                stem = stem[2:]
+            
+            raw_name = stem
+            if stem.endswith("_reverified"):
+                raw_name = stem[:-len("_reverified")]
+            
+            reverified_file = reverified_dir / f"{stem}.jsonl"
+            
+            # If explicit file doesn't exist, try adding _reverified suffix
+            if not reverified_file.exists():
+                reverified_with_suffix = reverified_dir / f"{stem}_reverified.jsonl"
+                if reverified_with_suffix.exists():
+                    reverified_file = reverified_with_suffix
+                else:
+                    # Also try handling the case where stem already has _reverified but file doesn't match?
+                    # The Llama case had _reverified in stem and matched directly.
+                    pass
+            
+            if not reverified_file.exists():
+                print(f"Warning: No reverified file found for {stem} (checked {reverified_file.name} and {stem}_reverified.jsonl)")
+                continue
+            
+            model_key = raw_name
+            if model_key.startswith("responses_"):
+                model_key = model_key[len("responses_"):]
+            
+            display_name = model_names.get(model_key, model_key)
+            entries.append((quality_file, reverified_file, display_name))
     
     return entries
 
@@ -162,34 +184,69 @@ def plot_distractor_latch_only(all_stats: Dict[str, Dict], output_dir: Path):
     incorrect_counts = [aggregated[key]['incorrect'] for key in category_keys]
     
     # ========== FIGURE 1: Accuracy comparison ==========
-    fig1, ax1 = plt.subplots(figsize=(10, 6))
+    fig1, ax1 = plt.subplots(figsize=(6, 8))
     
-    accuracies = []
-    for key in category_keys:
-        c = aggregated[key]['correct']
-        total = c + aggregated[key]['incorrect']
-        acc = (c / total * 100) if total > 0 else 0
-        accuracies.append(acc)
+    # Calculate per-model accuracies for SEM and T-Test
+    # Paired lists for t-test
+    accs_no = []
+    accs_has = []
+    
+    # Iterate sorted models to ensure pairing
+    for model in sorted(all_stats.keys()):
+        stats_dat = all_stats[model]
+        
+        # No Distractor
+        c_no = stats_dat['no_distractor']['correct']
+        t_no = c_no + stats_dat['no_distractor']['incorrect']
+        if t_no == 0: continue
+        
+        # Has Distractor
+        c_has = stats_dat['has_distractor']['correct']
+        t_has = c_has + stats_dat['has_distractor']['incorrect']
+        if t_has == 0: continue
+        
+        accs_no.append(c_no / t_no * 100)
+        accs_has.append(c_has / t_has * 100)
+    
+    # Calculate stats
+    import scipy.stats as stats
+    
+    means = []
+    sems = []
+    
+    if accs_no and accs_has:
+        # T-Test
+        t_stat, p_val = stats.ttest_rel(accs_no, accs_has)
+        print(f"\nStatistical Significance (Paired t-test): p = {p_val:.6f}")
+        
+        # Means and SEMs
+        for data in [accs_no, accs_has]:
+            means.append(np.mean(data))
+            sems.append(np.std(data, ddof=1) / np.sqrt(len(data)))
+    else:
+        print("Not enough data for t-test")
+        means = [0, 0]
+        sems = [0, 0]
     
     colors = ['#2ecc71', '#e74c3c']
-    bars = ax1.barh(categories, accuracies, color=colors, alpha=0.8, edgecolor='black', linewidth=2)
+    # Use means for bar height, add yerr for SEM (VERTICAL)
+    bars = ax1.bar(categories, means, yerr=sems, capsize=10, 
+                    color=colors, alpha=0.8, edgecolor='black', linewidth=2)
     
-    for i, (bar, acc) in enumerate(zip(bars, accuracies)):
-        total = correct_counts[i] + incorrect_counts[i]
-        diff = acc - accuracies[0] if i > 0 else 0
-        sign = '+' if diff >= 0 else ''
-        label = f'{acc:.1f}% (n={total})'
-        if i > 0:
-            label += f'\n({sign}{diff:.1f}pp)'
-        ax1.text(acc + 2, i, label, va='center', fontweight='bold', fontsize=12)
+    for i, (bar, acc) in enumerate(zip(bars, means)):
+        label = f'{acc:.1f}%'
+        
+        # Position label above the error bar
+        y_pos = acc + sems[i] + 2 if sems[i] > 0 else acc + 2
+        
+        ax1.text(i, y_pos, label, ha='center', va='bottom', fontweight='bold', fontsize=12)
     
-    ax1.set_xlabel('Accuracy (%)', fontsize=13, fontweight='bold')
-    ax1.set_title('Accuracy Comparison: Distractor Latch Effect\n(pp = percentage points difference)', 
+    ax1.set_ylabel('Average Accuracy (%)', fontsize=13, fontweight='bold')
+    # Removed "(Mean over Models ± SEM)" from title as requested
+    ax1.set_title('Accuracy Comparison: Distractor Latch Effect', 
                   fontsize=15, fontweight='bold', pad=15)
-    ax1.set_xlim(0, 100)
-    ax1.grid(axis='x', alpha=0.3, linestyle='--')
-    ax1.axvline(x=accuracies[0], color='gray', linestyle='--', alpha=0.5, linewidth=2, 
-               label=f'Baseline (No Distractor): {accuracies[0]:.1f}%')
+    ax1.set_ylim(0, 100)
+    ax1.grid(axis='y', alpha=0.3, linestyle='--')
     ax1.legend(fontsize=11)
     
     plt.tight_layout()
