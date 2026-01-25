@@ -1,2 +1,0 @@
-Model,Run,Accuracy (%),Avg Duration (s),Avg Input Tokens,Avg Output Tokens,Total Input Tokens,Total Output Tokens,Total Samples
-openrouter-deepseek/deepseek-chat-v3.1,With Context,72.93,281628.66,12135.82,11021.83,14393079,13071891,1186
