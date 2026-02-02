@@ -368,10 +368,10 @@ def plot_marginal_gain_coverage_correlation(
 
 
 def main() -> None:
-    base = Path(__file__).resolve().parents[3]
+    base = Path(__file__).resolve().parents[4]
     
     # Output directory
-    output_dir = base / "plots"
+    output_dir = base / "data" / "plots" / "general"
     output_dir.mkdir(exist_ok=True)
     
     # Load QA hop data
@@ -381,13 +381,13 @@ def main() -> None:
     print(f"Loaded hop data for {len(qa_hops)} questions\n")
     
     # Load hard questions
-    hard_questions_path = base / "results" / "unanswered_questions" / "hard_question_categories.json"
+    hard_questions_path = base / "src" / "results" / "unanswered_questions" / "hard_question_categories.json"
     print("Loading hard questions (9, 10, 11 models wrong)...")
     hard_questions = load_hard_questions(hard_questions_path)
     print(f"Loaded {len(hard_questions)} hard questions\n")
     
     # Coverage gap directory
-    coverage_dir = base / "rag_analysis" / "output"
+    coverage_dir = base  / "data" / "results" / "failure_modes"
     
     # Mapping from iterative file to coverage gap file
     coverage_mapping = {}

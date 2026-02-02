@@ -19,7 +19,7 @@ import numpy as np
 
 def get_base_path() -> Path:
     """Get the base path for the project."""
-    return Path(__file__).resolve().parents[2]
+    return Path(__file__).resolve().parents[4]
 
 
 def load_quality_judgments(quality_file: Path, reverified_file: Path) -> Dict[str, Any]:
@@ -61,7 +61,7 @@ def load_quality_judgments(quality_file: Path, reverified_file: Path) -> Dict[st
 def get_quality_model_entries() -> List[Tuple[Path, Path, str]]:
     """Get list of (quality_file_path, reverified_file_path, display_name) tuples."""
     base = get_base_path()
-    quality_dir = base / "src" / "rag_analysis" / "output"
+    quality_dir = base  / "data" / "results" / "failure_modes"
     reverified_dir = base / "src" / "responses_reverified"
     
     # Model display names mapping
@@ -538,7 +538,7 @@ def plot_quality_scores(scores_data: Dict, output_path: Path):
 def main():
     """Main execution function."""
     base = get_base_path()
-    output_dir = base / "src" / "plots"
+    output_dir = base / "data" / "plots" / "general"
     output_dir.mkdir(parents=True, exist_ok=True)
     
     print("Loading quality judgments from all models...")

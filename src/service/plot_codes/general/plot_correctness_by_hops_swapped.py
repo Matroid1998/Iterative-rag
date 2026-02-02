@@ -427,7 +427,7 @@ def plot_combined_model_correctness_swapped(
 
 def main():
     base = Path(__file__).resolve().parents[3]
-    output_dir = base / "plots"
+    output_dir = base.parent / "data" / "plots" / "general"
     output_dir.mkdir(exist_ok=True)
     
     # Load QA hop data

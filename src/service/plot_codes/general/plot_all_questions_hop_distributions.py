@@ -1306,14 +1306,14 @@ def slugify(name: str) -> str:
 
 
 def main() -> None:
-    base = Path(__file__).resolve().parents[3]
+    base = Path(__file__).resolve().parents[4]
     
     # Create a dedicated output directory for all-questions plots
-    output_dir = base / "plots"
+    output_dir = base / "data" / "plots" / "general"
     output_dir.mkdir(exist_ok=True)
 
     # Source datasets - we'll use the full response files instead of unanswered subsets
-    iterative_dir = base / "responses_reverified"
+    iterative_dir = base / "src" / "responses_reverified"
 
     # Load QA hop data
     qa_lookup: Dict[str, int] = {}
@@ -1345,10 +1345,10 @@ def main() -> None:
     gold_context_dir = base / "response-jsonl-with-context"
     
     # Directory for coverage gap files
-    coverage_gap_dir = base / "rag_analysis" / "output"
+    coverage_gap_dir = base  / "data" / "results" / "failure_modes"
     
     # Directory for quality judgment files (same as coverage gap)
-    quality_judgment_dir = base / "rag_analysis" / "output"
+    quality_judgment_dir = base  / "data" / "results" / "failure_modes"
     
     # Mapping for special cases where gold context filename differs
     gold_context_filename_mapping = {
@@ -1408,7 +1408,7 @@ def main() -> None:
     print(f"Found {len(quality_judgment_mapping)} quality judgment files\n")
     
     # Load hard questions
-    hard_questions_path = base / "results" / "unanswered_questions" / "hard_question_categories.json"
+    hard_questions_path = base / "src" / "results" / "unanswered_questions" / "hard_question_categories.json"
     hard_questions = load_hard_questions(hard_questions_path)
     print(f"Loaded {len(hard_questions)} hard questions\n")
     

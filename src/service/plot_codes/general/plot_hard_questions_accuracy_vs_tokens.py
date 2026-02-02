@@ -433,7 +433,7 @@ def main() -> None:
     """Main execution function."""
     base = Path(__file__).resolve().parents[3]
     responses_dir = base / "responses_reverified"
-    plots_dir = base / "plots"
+    plots_dir = base.parent / "data" / "plots" / "general"
     hard_questions_path = (
         base / "results" / "unanswered_questions" / "hard_question_categories.json"
     )

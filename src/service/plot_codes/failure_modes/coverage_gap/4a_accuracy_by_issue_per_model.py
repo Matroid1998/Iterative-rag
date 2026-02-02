@@ -1,0 +1,229 @@
+"""
+Plot 4a: Accuracy by Issue Type (Per Model)
+Shows accuracy rate when each coverage issue is present, with 6 subplots (one per model).
+"""
+import json
+import glob
+from pathlib import Path
+from collections import defaultdict
+import matplotlib.pyplot as plt
+import numpy as np
+
+
+def normalize_model_name(model: str) -> str:
+    """Normalize model name for display."""
+    if 'gpt-5' in model.lower() or 'openai-gpt-5' in model.lower() or 'openai_gpt-5' in model.lower():
+        return 'GPT-5'
+    elif 'gpt-4o' in model.lower():
+        return 'GPT-4o'
+    elif 'deepseek' in model.lower() and 'r1' in model.lower():
+        return 'DeepSeek R1'
+    elif 'claude-3-7' in model.lower() and 'reasoning' in model.lower():
+        return 'Claude 3.7 + Reasoning'
+    elif 'claude-3-7' in model.lower():
+        return 'Claude 3.7 Sonnet'
+    elif 'claude-sonnet-4.5' in model.lower() or 'claude-4.5' in model.lower():
+        return 'Claude Sonnet 4.5'
+    elif 'claude-3-5' in model.lower():
+        return 'Claude 3.5 Sonnet'
+    elif 'gemini-2.5-pro' in model.lower() or 'gemini-2.5' in model.lower():
+        return 'Gemini 2.5 Pro'
+    elif 'grok-4' in model.lower():
+        return 'Grok 4 Fast'
+    elif 'glm-4.6' in model.lower() or 'glm-4' in model.lower():
+        return 'GLM 4.6'
+    elif 'mistral' in model.lower():
+        return 'Mistral Large'
+    elif 'llama' in model.lower():
+        return 'Llama 3.3 70B'
+    return model
+
+
+def load_accuracy_by_issue_data(output_dir):
+    """Load accuracy data by issue type for each model."""
+    # Structure: {model: {issue_type: {'with_issue': {correct, total}, 'without_issue': {correct, total}}}}
+    model_data = defaultdict(lambda: {
+        'has_gap': {'with_issue': {'correct': 0, 'total': 0}, 'without_issue': {'correct': 0, 'total': 0}},
+    })
+    
+    for file_path in glob.glob(str(output_dir / '*coverage_gap_judgments.jsonl')):
+        # Extract model name from filename
+        filename = Path(file_path).name
+        model_name = filename.replace('responses_', '').replace('_reverified_coverage_gap_judgments.jsonl', '').replace('_coverage_gap_judgments.jsonl', '')
+        model_name = normalize_model_name(model_name)
+        
+        with open(file_path, 'r') as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+                try:
+                    data = json.loads(line)
+                    is_correct = data.get('is_correct')
+                    
+                    if is_correct is None:
+                        continue
+                    
+                    parsed = data.get('parsed_judgment', {})
+                    
+                    # Check for issues
+                    coverage = parsed.get('retrieval_coverage_gap', {})
+                    has_gap = coverage.get('has_gap', False)
+                    
+                    # Track coverage gap issue only
+                    if has_gap:
+                        model_data[model_name]['has_gap']['with_issue']['total'] += 1
+                        if is_correct:
+                            model_data[model_name]['has_gap']['with_issue']['correct'] += 1
+                    else:
+                        model_data[model_name]['has_gap']['without_issue']['total'] += 1
+                        if is_correct:
+                            model_data[model_name]['has_gap']['without_issue']['correct'] += 1
+                
+                except json.JSONDecodeError:
+                    continue
+    
+    return model_data
+
+
+def create_per_model_accuracy_plot(model_data, output_path):
+    """Create multi-subplot figure showing accuracy by issue type for each model."""
+    
+    models = sorted(model_data.keys())
+    
+    if len(models) == 0:
+        print("No model data found!")
+        return
+    
+    # Calculate grid size (3 columns, enough rows to fit all models)
+    num_models = len(models)
+    ncols = 3
+    nrows = (num_models + ncols - 1) // ncols  # Ceiling division
+    
+    # Create figure with calculated subplots
+    fig, axes = plt.subplots(nrows, ncols, figsize=(18, 6 * nrows))
+    if nrows == 1:
+        axes = axes.reshape(1, -1)  # Ensure 2D array
+    axes = axes.flatten()
+    
+    issue_types = ['Coverage Gap']
+    issue_keys = ['has_gap']
+    colors = ['#c44e52']
+    
+    for idx, model in enumerate(models):
+        ax = axes[idx]
+        data = model_data[model]
+        
+        # Calculate accuracy rates
+        with_issue_acc = []
+        without_issue_acc = []
+        
+        for key in issue_keys:
+            # With issue
+            total_with = data[key]['with_issue']['total']
+            correct_with = data[key]['with_issue']['correct']
+            acc_with = 100 * correct_with / total_with if total_with > 0 else 0
+            with_issue_acc.append(acc_with)
+            
+            # Without issue
+            total_without = data[key]['without_issue']['total']
+            correct_without = data[key]['without_issue']['correct']
+            acc_without = 100 * correct_without / total_without if total_without > 0 else 0
+            without_issue_acc.append(acc_without)
+        
+        # Create grouped bars
+        x = np.arange(len(issue_types))
+        width = 0.6  # Wider bars since we only have one category
+        
+        bars1 = ax.bar(x - width/2, with_issue_acc, width,
+                      label='With Coverage Gap', color='#c44e52',
+                      alpha=0.8, edgecolor='black', linewidth=1.2)
+        bars2 = ax.bar(x + width/2, without_issue_acc, width,
+                      label='Without Coverage Gap', color='#55a868',
+                      alpha=0.8, edgecolor='black', linewidth=1.2)
+        
+        # Add value labels
+        for bars in [bars1, bars2]:
+            for bar in bars:
+                height = bar.get_height()
+                if height > 0:
+                    ax.text(bar.get_x() + bar.get_width()/2., height,
+                           f'{height:.1f}%',
+                           ha='center', va='bottom', fontsize=9)
+        
+        # Formatting
+        ax.set_ylabel('Accuracy (%)', fontsize=11, fontweight='bold')
+        ax.set_title(model, fontsize=12, fontweight='bold', pad=10)
+        ax.set_xticks(x)
+        ax.set_xticklabels(issue_types, rotation=0, ha='center', fontsize=10)
+        ax.set_ylim(0, 100)
+        ax.grid(True, alpha=0.3, axis='y')
+        ax.legend(loc='lower left', fontsize=9)
+        
+        # Add sample sizes as text
+        textstr = f"Gap: n={data['has_gap']['with_issue']['total']}"
+        ax.text(0.98, 0.97, textstr, transform=ax.transAxes,
+               fontsize=8, verticalalignment='top', horizontalalignment='right',
+               bbox=dict(boxstyle='round', facecolor='wheat', alpha=0.5))
+    
+    # Hide unused subplots
+    for idx in range(len(models), len(axes)):
+        axes[idx].axis('off')
+    
+    # Overall title
+    fig.suptitle('Accuracy Rate by Coverage Gap (Per Model)\nLower "WITH Issue" bars indicate coverage gaps hurt performance',
+                fontsize=16, fontweight='bold', y=0.995)
+    
+    plt.tight_layout(rect=[0, 0, 1, 0.985])
+    plt.savefig(output_path, dpi=300, bbox_inches='tight')
+    print(f"✓ Saved per-model accuracy by issue plot to {output_path}")
+    plt.close()
+    
+    # Print statistics
+    print("\n" + "="*80)
+    print("ACCURACY BY COVERAGE GAP (PER MODEL)")
+    print("="*80)
+    
+    for model in sorted(models):
+        print(f"\n{model}:")
+        data = model_data[model]
+        
+        for issue_name, key in zip(issue_types, issue_keys):
+            total_with = data[key]['with_issue']['total']
+            correct_with = data[key]['with_issue']['correct']
+            acc_with = 100 * correct_with / total_with if total_with > 0 else 0
+            
+            total_without = data[key]['without_issue']['total']
+            correct_without = data[key]['without_issue']['correct']
+            acc_without = 100 * correct_without / total_without if total_without > 0 else 0
+            
+            diff = acc_without - acc_with
+            
+            print(f"  {issue_name}:")
+            print(f"    WITH issue: {acc_with:.1f}% (n={total_with})")
+            print(f"    WITHOUT issue: {acc_without:.1f}% (n={total_without})")
+            print(f"    Impact: {diff:+.1f}pp {'⚠️ HURTS' if diff > 0 else '✓ OK' if diff < -2 else '~neutral'}")
+
+
+def main():
+    # Setup paths
+    base_dir = Path(__file__).resolve().parents[5]
+    output_dir = base_dir  / "data" / "results" / "failure_modes"
+    plot_dir = base_dir  / "data" / "plots" / "failure_modes" / "coverage_gap"
+    plot_dir.mkdir(exist_ok=True)
+    
+    # Load data
+    print("Loading accuracy by issue data...")
+    model_data = load_accuracy_by_issue_data(output_dir)
+    
+    if not model_data:
+        print("No data found!")
+        return
+    
+    # Create plot
+    output_path = plot_dir / "4a_accuracy_by_issue_per_model_coverage_only.png"
+    create_per_model_accuracy_plot(model_data, output_path)
+
+
+if __name__ == "__main__":
+    main()

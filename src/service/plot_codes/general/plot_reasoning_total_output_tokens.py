@@ -99,7 +99,7 @@ def main() -> None:
     # model_names already contains all models from compute_hard_question_data
 
     categories = list(CATEGORY_GROUPS.keys())
-    plots_dir = base / "plots"
+    plots_dir = base.parent / "data" / "plots" / "general"
 
     model_colors = {model: get_model_color(model) for model in model_names}
 

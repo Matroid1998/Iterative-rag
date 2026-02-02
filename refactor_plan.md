@@ -26,9 +26,8 @@ root/
 ├── data/
 │   ├── corpus/              # docs (original input data)
 │   ├── responses/           # response JSONL (with/without context, reverified)
-│   ├── analysis/            # rag_analysis/output and intermediate artifacts
-│   ├── results/             # CSV summaries, metrics
-│   └── plots/               # generated figures
+│   ├── results/             # judgment JSONL + CSV summaries (incl. failure_modes)
+│   └── plots/               # generated figures (incl. failure_modes)
 └── scripts/                 # optional: thin launchers for presentation layer
 ```
 
@@ -50,7 +49,7 @@ root/
 - `src/repo/planning/planner_iface.py` → service/planning (planning interfaces + JSON planner)
 - `src/benchmark/evaluator.py` → service/evaluation (to split into smaller modules)
 - `src/analyzing/*` → service/plot_codes/general/*
-- `src/rag_analysis/*_plots/*` → service/plot_codes/rag/<category>/*
+- `src/rag_analysis/*_plots/*` → service/plot_codes/failure_modes/<category>/*
 
 **Presentation Layer (CLI, runners only)**
 - `src/scripts/*` → presentation/cli/*
@@ -64,6 +63,9 @@ You requested **three top-level presentation commands**:
 2) **Analyze/Plot All**: runs all analyses + plots end-to-end  
 3) **Benchmark Evaluate**: runs evaluation/benchmarking (current `evaluator.py`)
 
+In addition, **failure-mode judgments (data/results/failure_modes)** need a single presentation runner:
+- `presentation/cli/failure_modes_outputs.py` (runs hallucination, coverage-gap, and quality judgments)
+
 In addition, **each analysis category needs its own “run-only-this-category” command**.
 
 ### Proposed Presentation Structure (Runners Only)
@@ -76,7 +78,7 @@ src/presentation/
 └── analysis/
     ├── general/
     │   └── run_all.py
-    └── rag/
+    └── failure_modes/
         ├── hallucination/
         │   └── run_all.py
         ├── quality/
@@ -94,7 +96,7 @@ Plot/analysis scripts will live under **Service**, not Presentation:
 ```
 src/service/plot_codes/
 ├── general/        # former src/analyzing/*.py
-└── rag/
+└── failure_modes/
     ├── hallucination/
     ├── quality/
     ├── coverage_gap/
@@ -117,13 +119,13 @@ src/service/plot_codes/
 
 ### Category-Only Runners (Required)
 Each category will have a `run_all.py` that only runs that category’s scripts.
-This is already partially present in `rag_analysis/*/run_all_plots.py` and will be unified to:
+These were formerly in `rag_analysis/*/run_all_plots.py` and are now unified to:
 ```
-python -m presentation.analysis.rag.hallucination.run_all
-python -m presentation.analysis.rag.quality.run_all
-python -m presentation.analysis.rag.coverage_gap.run_all
-python -m presentation.analysis.rag.cross_system.run_all
-python -m presentation.analysis.rag.advanced.run_all
+python -m presentation.analysis.failure_modes.hallucination.run_all
+python -m presentation.analysis.failure_modes.quality.run_all
+python -m presentation.analysis.failure_modes.coverage_gap.run_all
+python -m presentation.analysis.failure_modes.cross_system.run_all
+python -m presentation.analysis.failure_modes.advanced.run_all
 python -m presentation.analysis.general.run_all
 ```
 
@@ -153,12 +155,12 @@ All generated plots will be saved under a **single root folder** with per-catego
 ```
 data/plots/
 ├── general/
-├── rag/
-│   ├── hallucination/
-│   ├── quality/
-│   ├── coverage_gap/
-│   ├── cross_system/
-│   └── advanced/
+└── failure_modes/
+    ├── hallucination/
+    ├── quality/
+    ├── coverage_gap/
+    ├── cross_system/
+    └── advanced/
 ```
 If new analysis categories are added, a corresponding subfolder will be created automatically.
 
@@ -173,7 +175,7 @@ If new analysis categories are added, a corresponding subfolder will be created 
 - Move:
   - `src/docs` → `data/corpus`
   - `src/response-jsonl-*`, `src/responses_reverified` → `data/responses/`
-  - `src/rag_analysis/output` → `data/analysis/`
+  - `src/rag_analysis/output` → `data/results/failure_modes/`
   - `src/results` → `data/results/`
   - `src/plots` → `data/plots/`
 - Update analysis scripts and service code to use centralized paths.

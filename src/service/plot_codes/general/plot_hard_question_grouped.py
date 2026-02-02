@@ -508,7 +508,7 @@ def main() -> None:
     correct_token_avgs = compute_average_map(correct_tokens, correct_counts)
     incorrect_token_avgs = compute_average_map(incorrect_tokens, incorrect_counts)
 
-    plots_dir = base / "plots"
+    plots_dir = base.parent / "data" / "plots" / "general"
     plot_grouped_bar(
         categories,
         correct_counts,

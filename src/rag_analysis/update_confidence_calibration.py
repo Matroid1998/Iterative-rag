@@ -197,7 +197,7 @@ def process_hallucination_file(file_path: Path, dry_run: bool = False) -> Dict[s
 def main():
     # Get the output directory
     base_dir = Path(__file__).resolve().parents[2]  # Go up to project root
-    output_dir = base_dir / "src" / "rag_analysis" / "output"
+    output_dir = base_dir / "data" / "results" / "failure_modes"
     
     if not output_dir.exists():
         print(f"Error: Output directory not found: {output_dir}")

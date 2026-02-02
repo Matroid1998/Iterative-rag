@@ -305,7 +305,7 @@ def compute_iterative_recovered_counts_by_step(
 
 def main() -> None:
     base = Path(__file__).resolve().parents[3]
-    plots_dir = base / "plots"
+    plots_dir = base.parent / "data" / "plots" / "general"
     plots_dir.mkdir(parents=True, exist_ok=True)
 
     model_entries = get_iterative_model_entries(existing_only=True)

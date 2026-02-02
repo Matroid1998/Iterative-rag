@@ -302,14 +302,14 @@ def plot_coverage_gap_impact(
 
 
 def main() -> None:
-    base = Path(__file__).resolve().parents[3]
+    base = Path(__file__).resolve().parents[4]
     
     # Output directory
-    output_dir = base / "plots"
+    output_dir = base / "data" / "plots" / "general"
     output_dir.mkdir(exist_ok=True)
     
     # Coverage gap directory
-    coverage_dir = base / "rag_analysis" / "output"
+    coverage_dir = base  / "data" / "results" / "failure_modes"
     
     # Mapping from iterative file to coverage gap file
     coverage_mapping = {}

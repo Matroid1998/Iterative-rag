@@ -9,10 +9,10 @@ from collections import defaultdict
 from typing import Dict, Tuple
 
 # Add project root to sys.path to enable imports
-project_root = Path(__file__).resolve().parents[2]
+project_root = Path(__file__).resolve().parents[4]
 sys.path.append(str(project_root))
 
-from src.rag_analysis.hallucination_rag_plots.hall_plot_utils import (
+from src.service.plot_codes.failure_modes.hallucination.hall_plot_utils import (
     load_hallucination_judgments,
     load_coverage_judgments,
     create_merged_dataset,
@@ -68,8 +68,8 @@ def load_real_number_of_hops(output_dir: Path, models: list) -> Dict[Tuple[str, 
     return real_hops_map
 
 def plot_supported_claims_by_hops():
-    output_dir = project_root / 'src' / 'rag_analysis' / 'output'
-    plots_dir = project_root / 'src' / 'plots'
+    output_dir = project_root  / 'data' / 'results' / 'failure_modes'
+    plots_dir = project_root / 'data' / 'plots' / 'general'
     plots_dir.mkdir(exist_ok=True)
 
     print("Loading data...")

@@ -17,8 +17,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import sys
 
-sys.path.insert(0, str(Path(__file__).resolve().parents[3]))
-from rag_analysis.hallucination_rag_plots.hall_plot_utils import (
+sys.path.insert(0, str(Path(__file__).resolve().parents[4]))
+from src.service.plot_codes.failure_modes.hallucination.hall_plot_utils import (
     load_no_context_wrong_questions, normalize_model_name
 )
 
@@ -26,13 +26,13 @@ from rag_analysis.hallucination_rag_plots.hall_plot_utils import (
 
 def get_base_path() -> Path:
     """Get the base path for the project."""
-    return Path(__file__).resolve().parents[2]
+    return Path(__file__).resolve().parents[4]
 
 
 def get_quality_model_entries() -> List[Tuple[Path, Path, str]]:
     """Get list of (quality_file_path, reverified_file_path, display_name) tuples."""
     base = get_base_path()
-    quality_dir = base / "src" / "rag_analysis" / "output"
+    quality_dir = base  / "data" / "results" / "failure_modes"
     reverified_dir = base / "src" / "responses_reverified"
     
     model_names = {
@@ -447,7 +447,7 @@ def plot_distractor_latch_only(all_stats: Dict[str, Dict], output_dir: Path):
 def main():
     """Main execution function."""
     base = get_base_path()
-    output_dir = base / "src" / "plots" / "contradiction_distractor_latch"
+    output_dir = base / "data" / "plots" / "general" / "contradiction_distractor_latch"
     output_dir.mkdir(parents=True, exist_ok=True)
     
     # Load wrong questions map

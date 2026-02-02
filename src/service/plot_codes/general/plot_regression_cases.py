@@ -235,7 +235,7 @@ def main():
     project_root = Path(__file__).resolve().parents[2]
     no_context_dir = project_root / "src" / "response-jsonl-without-context"
     iterative_dir = project_root / "src" / "responses_reverified"
-    output_path = project_root / "src" / "plots" / "parametric_suppression_rate.png"
+    output_path = project_root / "data" / "plots" / "general" / "parametric_suppression_rate.png"
     
     print("Calculating Parametric Suppression Rate (PSR)...")
     print("=" * 60)

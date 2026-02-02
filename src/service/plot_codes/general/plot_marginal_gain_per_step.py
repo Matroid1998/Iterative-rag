@@ -687,7 +687,7 @@ def main() -> None:
     base = Path(__file__).resolve().parents[3]
     
     # Output directory
-    output_dir = base / "plots"
+    output_dir = base.parent / "data" / "plots" / "general"
     output_dir.mkdir(exist_ok=True)
     
     # Load QA hop data

@@ -311,7 +311,7 @@ def generate_summary_table(all_stats: Dict[str, Dict]) -> str:
 
 def main():
     base_dir = Path(__file__).resolve().parents[2]  # Go up to project root
-    output_dir = base_dir / "src" / "plots"
+    output_dir = base_dir / "data" / "plots" / "general"
     output_dir.mkdir(exist_ok=True)
     
     print("Loading QA lookup...")

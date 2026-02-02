@@ -38,7 +38,7 @@ def get_max_source_step_from_unsupported_claims(parsed_judgment: Dict) -> int:
 def load_all_records() -> List[Dict]:
     """Load all hallucination judgment records."""
     base_dir = Path(__file__).resolve().parents[2]
-    output_dir = base_dir / "src" / "rag_analysis" / "output"
+    output_dir = base_dir / "data" / "results" / "failure_modes"
     
     all_records = []
     hallucination_files = list(output_dir.glob("*hallucination_judgment.jsonl"))

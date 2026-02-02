@@ -13,13 +13,13 @@ import numpy as np
 
 def get_base_path() -> Path:
     """Get the base path for the project."""
-    return Path(__file__).resolve().parents[2]
+    return Path(__file__).resolve().parents[4]
 
 
 def get_query_stats() -> Tuple[List[float], List[float], List[str]]:
     """Get fusion and over-broad percentages for all models."""
     base = get_base_path()
-    quality_dir = base / "src" / "rag_analysis" / "output"
+    quality_dir = base  / "data" / "results" / "failure_modes"
     
     model_names = {
         "bedrock_mistral.mistral-large-2402-v1:0": "Mistral Large 2402",
@@ -157,7 +157,7 @@ def plot_fusion_vs_over_broad(fusion_pcts: List[float], over_broad_pcts: List[fl
 def main():
     """Main execution function."""
     base = get_base_path()
-    output_dir = base / "src" / "plots"
+    output_dir = base / "data" / "plots" / "general"
     output_dir.mkdir(parents=True, exist_ok=True)
     
     print("Analyzing correlation between fusion and over-broad queries...")

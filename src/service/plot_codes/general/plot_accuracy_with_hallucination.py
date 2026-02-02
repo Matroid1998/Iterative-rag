@@ -18,17 +18,17 @@ import numpy as np
 
 def get_base_path() -> Path:
     """Get the base path for the project."""
-    return Path(__file__).resolve().parents[2]
+    return Path(__file__).resolve().parents[4]
 
 
 def get_model_entries() -> List[Tuple[Path, Path, Path, Path, Path, str]]:
     """Get list of (quality_path, reverified_path, hallucination_path, coverage_gap_path, no_context_path, display_name) tuples."""
     base = get_base_path()
     reverified_dir = base / "src" / "responses_reverified"
-    hallucination_dir = base / "src" / "rag_analysis" / "output"
+    hallucination_dir = base  / "data" / "results" / "failure_modes"
     no_context_dir = base / "src" / "response-jsonl-without-context"
-    quality_dir = base / "src" / "rag_analysis" / "output"
-    coverage_gap_dir = base / "src" / "rag_analysis" / "output"
+    quality_dir = base  / "data" / "results" / "failure_modes"
+    coverage_gap_dir = base  / "data" / "results" / "failure_modes"
     
     model_names = {
         "bedrock_mistral.mistral-large-2402-v1:0": "Mistral Large 2402",
@@ -438,7 +438,7 @@ def plot_single_model_with_hallucination(
 def main():
     """Main execution function."""
     base = get_base_path()
-    output_dir = base / "src" / "plots"
+    output_dir = base / "data" / "plots" / "general"
     output_dir.mkdir(parents=True, exist_ok=True)
     
     print("Analyzing accuracy with hallucination confidence metrics...")

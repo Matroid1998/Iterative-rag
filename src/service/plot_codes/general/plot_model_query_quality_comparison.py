@@ -16,13 +16,13 @@ import numpy as np
 
 def get_base_path() -> Path:
     """Get the base path for the project."""
-    return Path(__file__).resolve().parents[2]
+    return Path(__file__).resolve().parents[4]
 
 
 def get_quality_model_entries() -> List[Tuple[Path, str]]:
     """Get list of (quality_file_path, display_name) tuples."""
     base = get_base_path()
-    quality_dir = base / "src" / "rag_analysis" / "output"
+    quality_dir = base  / "data" / "results" / "failure_modes"
     
     model_names = {
         "bedrock_mistral.mistral-large-2402-v1:0": "Mistral Large 2402",
@@ -278,7 +278,7 @@ def plot_model_query_quality_comparison(model_stats: Dict[str, Dict], output_pat
 def main():
     """Main execution function."""
     base = get_base_path()
-    output_dir = base / "src" / "plots"
+    output_dir = base / "data" / "plots" / "general"
     output_dir.mkdir(parents=True, exist_ok=True)
     
     print("Analyzing query quality per model...")

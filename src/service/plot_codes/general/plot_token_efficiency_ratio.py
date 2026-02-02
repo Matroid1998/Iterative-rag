@@ -243,7 +243,7 @@ def main():
     project_root = Path(__file__).resolve().parents[2]
     responses_dir = project_root / "src" / "responses_reverified"
     hard_questions_path = project_root / "src" / "results" / "unanswered_questions" / "hard_question_categories.json"
-    output_path = project_root / "src" / "plots" / "token_efficiency_ratio.png"
+    output_path = project_root / "data" / "plots" / "general" / "token_efficiency_ratio.png"
     
     print("Loading hard question categories...")
     question_categories = load_hard_question_categories(hard_questions_path)

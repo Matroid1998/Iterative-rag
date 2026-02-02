@@ -355,7 +355,7 @@ def main() -> None:
     base = Path(__file__).resolve().parents[3]
     
     # Create output directory
-    output_dir = base / "plots"
+    output_dir = base.parent / "data" / "plots" / "general"
     output_dir.mkdir(exist_ok=True)
     
     # Load hard questions by category

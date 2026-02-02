@@ -308,7 +308,7 @@ def plot_iterative_accuracy_by_step(
 
 def main() -> None:
     base = Path(__file__).resolve().parents[3]
-    plots_dir = base / "plots"
+    plots_dir = base.parent / "data" / "plots" / "general"
     plots_dir.mkdir(parents=True, exist_ok=True)
 
     # Determine canonical model order from iterative entries we actually have

@@ -239,7 +239,7 @@ def create_scatter_plot(df: pd.DataFrame, output_dir: Path):
 def main():
     """Main execution."""
     base = get_base_path()
-    output_dir = base / "src" / "plots"
+    output_dir = base / "data" / "plots" / "general"
     output_dir.mkdir(parents=True, exist_ok=True)
     
     print("=" * 80)

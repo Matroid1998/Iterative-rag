@@ -222,7 +222,7 @@ def plot_avg_steps_vs_recovered(
 def main() -> None:
     """Main execution function."""
     base = Path(__file__).resolve().parents[3]
-    plots_dir = base / "plots"
+    plots_dir = base.parent / "data" / "plots" / "general"
     plots_dir.mkdir(parents=True, exist_ok=True)
 
     # Get model entries

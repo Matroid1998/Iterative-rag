@@ -19,7 +19,7 @@ import pandas as pd
 
 def get_base_path() -> Path:
     """Get the base path for the project."""
-    return Path(__file__).resolve().parents[2]
+    return Path(__file__).resolve().parents[4]
 
 
 def load_no_context_incorrect_questions() -> Dict[str, set]:
@@ -93,7 +93,7 @@ def load_model_data(no_context_incorrect: Dict[str, set]) -> Dict[str, Dict]:
         Dict with structure: {model_name: {'questions': {question: {failure_flags, is_correct}}}}
     """
     base = get_base_path()
-    hallucination_dir = base / "src" / "rag_analysis" / "output"
+    hallucination_dir = base  / "data" / "results" / "failure_modes"
     
     # Map with-context file patterns to display names (must match no-context mapping)
     file_patterns = {
@@ -345,7 +345,7 @@ def format_table(df: pd.DataFrame, value_format: str = ".1f") -> str:
 def main():
     """Main execution."""
     base = get_base_path()
-    output_dir = base / "src" / "plots" / "failure_mode_tables_no_context_wrong"
+    output_dir = base / "data" / "plots" / "general" / "failure_mode_tables_no_context_wrong"
     output_dir.mkdir(parents=True, exist_ok=True)
     
     print("=" * 80)

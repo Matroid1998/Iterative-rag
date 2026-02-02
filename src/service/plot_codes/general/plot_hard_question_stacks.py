@@ -136,7 +136,7 @@ def main() -> None:
 
     model_colors = {model: get_model_color(model) for model in model_names}
 
-    output_path = base / "plots" / "hard_questions_correct_stacked.png"
+    output_path = base.parent / "data" / "plots" / "general" / "hard_questions_correct_stacked.png"
     plot_hard_question_stack(categories, model_names, model_colors, category_counts, output_path)
     print(f"Generated {output_path}")
 

@@ -20,7 +20,7 @@ import pandas as pd
 
 def get_base_path() -> Path:
     """Get the base path for the project."""
-    return Path(__file__).resolve().parents[2]
+    return Path(__file__).resolve().parents[4]
 
 
 def normalize_model_name(model_key: str) -> str:
@@ -61,8 +61,8 @@ def load_model_data(base_path: Path) -> Dict[str, Dict[str, Any]]:
             }}
         }]
     """
-    hallucination_dir = base_path / "src" / "rag_analysis" / "output"
-    coverage_gap_dir = base_path / "src" / "rag_analysis" / "output"
+    hallucination_dir = base_path  / "data" / "results" / "failure_modes"
+    coverage_gap_dir = base_path  / "data" / "results" / "failure_modes"
     reverified_dir = base_path / "src" / "responses_reverified"
     
     model_data = {}
@@ -312,7 +312,7 @@ def format_table(df: pd.DataFrame, metric_name: str, format_str: str = '.1f') ->
 def main():
     """Main execution function."""
     base = get_base_path()
-    output_dir = base / "src" / "plots"
+    output_dir = base / "data" / "plots" / "general"
     output_dir.mkdir(parents=True, exist_ok=True)
     
     print("="*80)

@@ -24,7 +24,7 @@ from collections import defaultdict
 
 def get_base_path() -> Path:
     """Get the base path for the project."""
-    return Path(__file__).resolve().parents[2]
+    return Path(__file__).resolve().parents[4]
 
 
 def load_question_hops():
@@ -113,7 +113,7 @@ def load_with_context_data():
     Returns dict: {model_name: list of run data}
     """
     base = get_base_path()
-    coverage_dir = base / "src" / "rag_analysis" / "output"
+    coverage_dir = base  / "data" / "results" / "failure_modes"
     reverified_dir = base / "src" / "responses_reverified"
     
     model_data = defaultdict(list)
@@ -466,7 +466,7 @@ def save_pcr_table(df: pd.DataFrame, output_dir: Path):
 def main():
     """Main execution."""
     base = get_base_path()
-    output_dir = base / "src" / "plots"
+    output_dir = base / "data" / "plots" / "general"
     output_dir.mkdir(parents=True, exist_ok=True)
     
     print("=" * 80)

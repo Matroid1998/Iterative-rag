@@ -244,8 +244,8 @@ def analyze_quality_vs_outcome(output_dir):
 
 
 def main():
-    base_dir = Path(__file__).resolve().parents[1]
-    output_dir = base_dir / "rag_analysis" / "output"
+    base_dir = Path(__file__).resolve().parents[2]
+    output_dir = base_dir / "data" / "results" / "failure_modes"
     
     print("Analyzing query quality vs outcome...")
     analyze_quality_vs_outcome(output_dir)
