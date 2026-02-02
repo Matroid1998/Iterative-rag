@@ -1,0 +1,41 @@
+Description:
+Complex chemical structures consisting of two hydrophobic tails connected to a polar head group.
+
+Text:
+All life on Earth requires lipid membranes, which separate the interior of cells from the extracellular environment, 
+control transport, and act as a scaffold for numerous biochemical reactions. Given their importance in biology, it has 
+long been questioned what constituted the very first, primordial cell membranelike structures on Earth before the 
+emergence of life, and how such structures could have been formed in the absence of complex and highly evolved 
+biological machinery? In extant cells, the membrane is predominantly composed of phospholipids (1 . Phospholipids 
+have complex chemical structures, consisting of two hydrophobic tails connected to a polar head group, and their 
+biosynthesis requires a multistep enzymatic process that utilizes several soluble and membrane bound proteins (2, 3 .
+
+
+---
+
+Description:
+Molecules containing three alkyl chains formed from thiol and thioester reactions.
+
+Text:
+Interestingly, it was also observed that the remaining thiol group of the diacylated product can 
+further react with additional thioesters to generate phospholipids containing three alkyl chains. Inspired by these findings, 
+we hypothesized that cysteine itself may undergo NCL in the presence of acyl thioesters followed by substrate reloading, 
+leading to the production of diacylcysteine species. Both cysteine and shortchain thioesters have been shown to be 
+synthesized by prebiotically plausible routes, and both can be produced in abundance, the latter through derivatization 
+of shortchain fatty acids (24, 25 . Furthermore, recent studies have highlighted the significance of cysteine in prebiotic 
+metabolism, for instance as a catalyst for peptide bond formation (24 .
+
+
+---
+
+Description:
+Conventional compounds with larger head group size compared to diacylcysteines.
+
+Text:
+Considering the smaller head group size of the 
+diacylcysteines compared to conventional phospholipids, and the presence of two hydrophobic tails, we suspected that 
+diacylcysteines would have a much lower critical aggregate concentration (cac compared to singlechain fatty acids of 
+similar tail lengths, which may enable vesicle formation even with very shortchain thioester precursors. Here we report the spontaneous diacylation of Cys with shortchain choline thioesters (CTs , forming celllike giant 
+membrane vesicles (Figure 1A . Diacylcysteine compounds with very short C) hydrophobic tails form lamellar vesicle 
+structures at submillimolar concentrations, likely because the compact head group has a comparable crosssectional 
+area to the two short hydrophobic tails.

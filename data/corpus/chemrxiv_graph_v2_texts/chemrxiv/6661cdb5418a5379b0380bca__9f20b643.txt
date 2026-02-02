@@ -1,0 +1,44 @@
+Description:
+A metal that undergoes a sharp transition around the critical point in supercritical conditions.
+
+Text:
+At lower alkali metal concentrations, the
+resulting deep blue solutions contain localised solvated
+electrons and dielectrons,1,35 which found practical ap
+plication as reducing agents for the hydrogenation of aro
+matic hydrocarbons within the Birch reduction process.6
+At higher concentrations, as the excess electrons become
+delocalised, the solution turns into a liquid metal with
+a characteristic golden metallic sheen and conductivity
+comparable to that of copper.1,4,5
+Models of the nonmetaltometal transition in liquid
+systems go back to the work of Landau and Zeldovich
+in the 1940s7 and have been experimentally tested on
+supercritical mercury or alkali metals numerous times.8
+The emerging picture has been that of a sharp transi
+tion occurring around the critical point, at which metal
+clusters of sufficient size are formed in the dense super
+critical vapour.
+
+
+---
+
+Description:
+Supercritical mercury does not exhibit a sharp transition in certain conditions.
+
+Text:
+In contrast to su
+percritical mercury,8 alkali metals dissolved in liquid am
+monia do not exhibit a sharp transition, but a gradual one
+in the concentration range of about 110 MPM (mole per
+cent metal; in liquid ammonia, 1 MPM equals to roughly
+0.4 M).2,5
+Three historical models have been suggested for the
+EMT in alkali metalliquid ammonia systems2 (i) a per
+colation model based on experimental findings of micro
+scopic inhomogeneities,9 (ii) an extension of the Landau
+and Zeldovich model introducing a critical electron den
+sity for metallisation,10,11 and (iii) a model linking the
+transition to a polarisation catastrophe.12 Despite these
+efforts, the molecular mechanism underlying the EMT
+remains inconclusive.

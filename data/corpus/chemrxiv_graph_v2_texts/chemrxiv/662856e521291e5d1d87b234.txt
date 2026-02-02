@@ -1,0 +1,20 @@
+Description:
+Monodentate ligands characterized by electronic and steric properties.
+
+Text:
+To streamline 
+this process, various electronic and steric parameters which 
+describe inherent properties of ligands have been intro
+duced, and correlation between these parameters and out
+comes of the reaction have been investigated (Figure 1a, 
+left).36 For historical example, Tolman and coworkers have 
+conducted a pioneering work in this field, where Tolmans 
+electronic parameter (CO) and the cone angle () were in
+troduced as metrics for electronic and steric properties of 
+monodentate phosphorous(III) ligands.3 They revealed that, 
+by plotting a measurable function F (i.e., reaction yield) 
+against these parameters (socalled Tolmans plot), the 
+electronic and steric characters of the reaction, which are 
+used as the guidelines for designing optimal ligands, can be 
+understood as the slope of the function with respect to each 
+parameter (FCO and F).

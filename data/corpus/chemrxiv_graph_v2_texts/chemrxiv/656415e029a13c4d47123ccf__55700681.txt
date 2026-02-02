@@ -1,0 +1,13 @@
+Description:
+A class of photoswitchable azocompounds that overcome limitations of azobenzene derivatives, such as limited ZE backswitching performance and Zisomer thermal stability.
+
+Text:
+Lightdriven molecular switches are promising candidates for applications such as optical data storage 
+and photopharmacology1,2. An archetypical representative of photochromic molecular switches is 
+azobenzene (AB) due to its outstanding photophysical properties, enabling an efficient EZ and ZE 
+photoisomerization3. Rau and coworkers already demonstrated for sterically hindered ABs in the late 
+1980s that the EZ and ZE photoisomerization quantum yields approach each other when the size 
+of the substituents is increased4. These early results, albeit not involving timeresolved experiments, 
+can be indicative of faster photoisomerization of twisted Eisomers. In 2014 Fuchter and coworkers presented arylazopyrazoles (AAPs) as a new class of photoswitchable 
+azocompounds that overcome certain limitations of AB derivatives, particularly limited ZE 
+backswitching performance and Zisomer thermal stability57.

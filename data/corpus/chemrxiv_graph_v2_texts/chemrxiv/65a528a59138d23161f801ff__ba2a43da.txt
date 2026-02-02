@@ -1,0 +1,28 @@
+Description:
+Contain a 7,8-dihydroxy structural element that can be converted to aldehyde groups.
+
+Text:
+Mild periodate treatment was used to convert the 7,8dihydroxy structural element in sialic 
+acids to aldehyde groups6, which react in a second step in hydrazone or oximeforming reactions.5, 7 
+However, published labelling protocols involve a total of 0.52 h incubation of cells at 04C, and wash 
+steps to remove excess labelling reagents prior to fluorescence microscopic imaging. This can induce cold 
+stress potentially altering cellular surfaces. Herein we describe faster and milder reactions which can be 
+performed at ambient or physiological temperature. In order to minimize the number of washing steps, we considered fluorogenic probes, which fluoresce 
+more strongly when binding to the cell surface sialic acids than freely in solution.
+
+
+---
+
+Description:
+Attached to cell surfaces through acylhydrazone ligation.
+
+Text:
+We show that the dyes, when rendered cell 
+impermeable by attachment to triaspartate peptides and attached to cell surface sialic acids through 
+acylhydrazone ligation, enable rapid fluorescence microscopic imaging of the cell surface. Of note, this 
+property is common also to thiazole orange (TO) previously not considered as a cell surface stain. TO is 
+virtually nonfluorescent in free form but experiences dramatic fluorescence enhancements upon DNA 
+intercalation because rotations around a central methine bridge are hindered.1315 TO dyes are therefore 
+frequently used as nucleic stains.16 In addition, TO has been used to sense the vicinity of proteins that 
+hinder twisting.17 Assuming that glycan labelling and cell surface viscosity would induce a similar effect, 
+we repurposed TO to enable staining of the cell surface.

@@ -1,0 +1,13 @@
+Description:
+Salts used in arylation with a ligand coupling pathway similar to palladium(II).
+
+Text:
+The use of transition 
+metals, such as palladium, to mediate CO and CN bonds is now a wellestablished tool in drug 
+discovery.1 Although SNAr, a metalfree reaction, is also routinely used to form such bonds, there are 
+inherent mechanistic limitations to the scope of this reaction.2 The chemistry of hypervalent iodine is often 
+described as metallike and indeed the ligand coupling pathway for arylation with diaryliodonium salts 
+bears a striking similarity to nucleophilearyl reductive elimination from palladium(II) (Scheme 1a).35 Both 
+the geometry and size of the central atom (Pd and I) are almost identical, though a key difference are the 
+frontier orbitals that are used to bond to ligands and participate in the reductive elimination or ligand 
+coupling mechanisms (Scheme 1a).

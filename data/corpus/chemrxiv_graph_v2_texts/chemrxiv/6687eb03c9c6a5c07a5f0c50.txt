@@ -1,0 +1,17 @@
+Description:
+An ion beam used in the BioTRIFT system for imaging.
+
+Text:
+As a result, image ho
+mogeneity is improved, and a dynamictime mode of imaging is enabled. Additionally, we investigate the limits of topographical differences of the 
+FMM instrument as these are relevant for reliable imaging of largearea 
+samples. Materials and Methods 
+Instrumentation 
+The BioTRIFT system used includes a C60 ion beam (IOGC6020S, Ion
+optika, Chandlers Ford, UK) and a Timepix3 ASICbased camera 
+(TPX3CAM, Amsterdam Scientific Instruments, Amsterdam, NL) and 
+is described in detail elsewhere.21 Two linear encoders (LS 477, Hei
+denhain, Traunreut, DE) connected to a digitization card (NI6612, Na
+tional Instruments, Austin, TX, USA) were added to the BioTRIFT 
+stage directly under the existing encoders, allowing both normal instru
+ment operation (Figure S1).

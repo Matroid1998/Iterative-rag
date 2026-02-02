@@ -1,0 +1,28 @@
+Description:
+Captured by selectively permeating membranes in membranebased DAC systems.
+
+Text:
+A variety of 
+chemisorptionbased solid sorbents exist, such as amines grafted onto porous solids like silica, 
+cellulose, or metalorganic frameworks (MOFs).2,3,6 Membranebased DAC (mDAC) captures 
+CO2 by selectively allowing CO2 to permeate membranes while excluding other gases like nitrogen 
+(N2).7 Torrefaction is another technique currently under development. It heats biomass to a 
+temperature at which it chars, and the produced charred is subsequently buried.8 Bioenergy with 
+integrated carbon capture and sequestration (BECCS) also uses biomass, which is burnt to produce 
+energy, and the produced CO2 is subsequently sequestered.9 Moisture swing adsorption uses 
+anion exchange resins that captures CO2 while drying, and releases CO2 when remoistened.10 
+Electrochemical CO2 capture is an emerging alternative to traditional DAC systems, bypassing 
+temperature swings using electrical potentials.
+
+
+---
+
+Description:
+A gas that can be adsorbed and desorbed through changes in oxidation state or pH.
+
+Text:
+Some of these approaches switch the oxidation state 
+of redoxactive molecules for direct CO2 adsorption and desorption, while others are based on pH 
+changes induced by redox reactions. The latter includes Direct Ocean Capture, which is an indirect 
+form of carbon capture.11 It removes dissolved CO2 from seawater, which is then reabsorbed to 
+the seawater from the air. httpsdoi.org10.26434chemrxiv2024xb82b ORCID httpsorcid.org0000000161704704 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

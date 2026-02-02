@@ -1,0 +1,48 @@
+Description:
+Esters that accumulate in fatty acid oxidation disorders and serve as biomarkers of metabolic health.
+
+Text:
+Fatty acid oxidation 
+43 
+disorders (FAOD) occur due to the deficient activity of the enzymes or transporter proteins 
+44 
+involved in the pathway, which results in the accumulation of acylCoA esters3. The acyl
+45 
+CoA accumulation profile provides information on the type of fatty acid oxidation disorder 
+46 
+(FAOD). Intracellular acylCoA levels are important reporters of metabolic health and their 
+47 
+accumulation in case of FAOD makes them interesting biomarkers7. Apart from FAOD, 
+48 
+these compounds are also involved in progression of cancer810, diabetes1114, precursors 
+49 
+for lipid synthesis and ketone bodies. Since acylCoA are involved in numerous physiological 
+50 
+and pathophysiological pathways, it is important to develop analytical methods for their 
+51 
+identification and quantification.
+
+
+---
+
+Description:
+Analyzed using liquid chromatography coupled to mass spectrometry due to its higher sensitivity and selectivity.
+
+Text:
+However, liquid 
+61 
+chromatography coupled to mass spectrometry (LCMS), is the most widely used technique for 
+62 
+acylCoA analysis due to its higher sensitivity and selectivity. On the other hand, severe peak 
+63 
+tailing, signal deterioration, and poor detection limits are common obstacles associated with 
+64 
+this approach23,24. Various efforts have been made to cover the full range of acylCoA in a 
+65 
+single analytical run. One such method is to use ionpairing reagents such as triethylamine25 
+66 
+or dimethylbutyl amine16,26. However, ionpairing reagents are reported to decrease mass 
+67 
+spectrometry signal intensity27 and frequent cleaning of detectors is required. Another 
+68 
+httpsdoi.org10.26434chemrxiv2023h0w52 ORCID httpsorcid.org0000000229314295 Content not peerreviewed by ChemRxiv. License CC BY 4.0

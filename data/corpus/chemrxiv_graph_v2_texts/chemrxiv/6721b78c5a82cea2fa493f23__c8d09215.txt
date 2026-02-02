@@ -1,0 +1,13 @@
+Description:
+A major component of JP10, known for its high energy density and use in advanced propulsion systems.
+
+Text:
+Jet Propellant 10 (JP10, CH, tricyclo5.2.1.0, decane (TCD)), commonly referred to as 
+exotetrahydrodicyclopentadiene (THDCPD), is a highenergydensity (HED) hydrocarbon 
+extensively used in aerospace fuel applications. JP10s unique molecular structure, 
+comprising three strained rings, contributes to its high energy content and superior 
+combustion efficiency, making it a prime candidate for fuelling rockets and advanced 
+propulsion systems 1. Unlike conventional jet fuels, which consist of complex mixtures of 
+hydrocarbons, JP10 is predominantly a singlecomponent fuel composed of 96.5 wt exo
+TCD (higher for military applications), 2.5 wt endoTCD, and 1.0 wt adamantane 1. This distinct composition simplifies its theoretical modelling, enabling a more detailed 
+exploration of quantitative structureproperty relationships (QSPR) at molecular level 2, 3.

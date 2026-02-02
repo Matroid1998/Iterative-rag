@@ -1,0 +1,14 @@
+Description:
+Processed by type III anaerobic ribonucleotide reductases in radical-based reactions.
+
+Text:
+Benzylsuccinate synthase 1,2 belongs to the family of fumarateadding enzymes (FAE) 3,4 
+which is itself part of the growing superfamily of glycyl radical enzymes (GRE)58. GRE are 
+involved in surprisingly different, but always chemically demanding reactions in anaerobic 
+metabolic pathways of Bacteria, Archaea, and Eukarya. In addition to FAE, the currently known 
+families of GRE consist of the pyruvate formate lyases (PFL) 9,10, type III anaerobic 
+ribonucleotide reductases (ARNR) 11,12, glycerol 13 or diol dehydratases 14, 
+hydroxyproline dehydratases 15, arylacetate decarboxylases 1619, choline 2022 and 
+isethionate lyases 23,24. Their common reactive feature is either the formation, cleavage, 
+or rearrangement of CC, CO, CN, or CS bonds in biomolecules via radicalbased addition or 
+elimination mechanisms 5,6.

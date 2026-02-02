@@ -1,0 +1,12 @@
+Description:
+Ions in the electrolyte should be sufficiently mobile, important for fast charging and discharging in lithium ion batteries.
+
+Text:
+Liquid electrolytes have gained a lot of traction in design and development of lithium ion
+batteries (LIBs) for electric vehicles over the last decades. Understanding the design of
+complex electrolytes has been studied widely in both simulations and experiments.15 The
+requirements for electrolytes for LiBs are manifold First, suitable formulations should be
+electrochemically stable, at least in a kinetic sense, implying that stable passivation layers
+such as the Solid Electrolyte Interphase (SEI) are readily formed.6,7 Second, the lithium
+ions in the electrolyte should be sufficiently mobile, which is especially important for fast
+charging and discharging.

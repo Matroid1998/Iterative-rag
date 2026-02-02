@@ -1,0 +1,22 @@
+Description:
+Compounds emitted from biomass burning that are oxidized in the atmosphere.
+
+Text:
+70 
+Biomass burning, including wildfires, emits large amounts of volatile organic compounds 
+71 
+(VOCs) into the atmosphere. One major class of VOCs emitted from biomass burning is phenolic 
+72 
+compounds.13 Once in the atmosphere, phenolic compounds will be oxidized by OH, O3, and NO3 
+73 
+to form lower volatility products, which can form new secondary organic aerosol (SOA) particles 
+74 
+or partition to the particle phase to grow preexisting SOA.1,48 SOA can contribute to poor air 
+75 
+quality and can influence climate by directly scattering or absorbing solar radiation or by acting as 
+76 
+nuclei for clouds.9,10 
+77 
+To predict the environmental impacts of SOA, information on their volatility and chemical 
+78 
+composition is needed.

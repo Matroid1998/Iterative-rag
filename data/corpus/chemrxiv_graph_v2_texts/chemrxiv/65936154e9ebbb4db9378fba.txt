@@ -1,0 +1,21 @@
+Description:
+Nitriles were introduced via ligands and noncanonical or modified amino acids in complex H-bonding environments.
+
+Text:
+Previous work demonstrated that nitrile 
+frequencies of small molecules observed in aprotic 
+solvation environments have a linear correlation with 
+nitrile electric ields obtained from ixedcharge (FC) and 
+polarizable (POL) MD simulations (called FCN,FC MD and 
+FCN,POL MD, respectively).4,24 This indicates that nitrile 
+frequencies in aprotic environments can be evaluated 
+within the framework of the VSE, and electric ield
+frequency calibrations enable the extraction of an electric 
+ield when a frequency is measured in a new environment, 
+herein termed FCN,FC FREQ or FCN,POL FREQ depending on the FF 
+used for calibration. Many studies attempted to extract 
+FCN,FREQs for nitriles in protic solvents25,26 and more 
+complex Hbonding environments in proteins (where 
+nitriles were introduced via ligands and noncanonical or 
+modiied amino acids)18,2730 for direct comparisons with 
+FCN,MDs in these environments.

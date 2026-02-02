@@ -1,0 +1,18 @@
+Description:
+A derivative used as an acceptor in certain models.
+
+Text:
+Within this model, most of the acceptors are derivatives of either acenaphtho1,2
+bpyrazine8,9dicarbonitrile (APDC),12 heterocyclic quinoxaline6,7dicarbonitrile (QCN),13 11,12
+dicyanodibenzoa,cphenazine (CNBPz),14 2,3dicyanodibenzof,hquinoxaline (CNBQx),15,16 or 
+dibenzoa,cphenazine3,6dicarbonitrile 
+(PZCN).17 
+Nitrogendoped 
+polycyclic 
+aromatic 
+hydrocarbons (NPAH), like dibenzoa,cphenazine (BP), have proved particularly popular as moieties 
+in orangered TADF emitters (Figure S1). Zhao et al. first reported BPbased TADF compounds, 
+containing onetothree 9,9dimethyl9,10dihydroacridine (DMAC) donor moieties (Figure S1). The 
+orangered OLEDs with 3DMACBP, an emitter with three DMAC donors situated at the 3, 6, and 
+11positions of the BP, showed a maximum external quantum efficiency (EQEmax) of 22.0 with an 
+electroluminescence peaking at lEL  606 nm.18 Yang et al.

@@ -1,0 +1,13 @@
+Description:
+Typically used as porous electrodes in reactors.
+
+Text:
+The reactor includes electrodes (typically porous
+carbon) sandwiching a separator (typically an ion exchange membrane) that is devised to
+inhibit mixing between posolyte and negolyte while maintaining ionic conductivity. Many
+RFB designs employ redoxactive metal ions as reactants.4,5 In this case, capacity fade may
+be caused by crossover of reactants through the membrane, parasitic side reactions that
+unbalance battery state of charge (SOC), and precipitation.6 For example, each of these
+mechanisms may operate in the incumbent allvanadium RFB,79 although crossover is the
+2
+httpsdoi.org10.26434chemrxiv2024bsr49 ORCID httpsorcid.org0000000201598521 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

@@ -1,0 +1,16 @@
+Description:
+Involved in the oxygen evolution reaction (OER) during the electrolysis of water.
+
+Text:
+For the electrolysis of water, the oxygen evolution reaction (OER) 
+is the limiting halfreaction, where the overpotential could not yet 
+reach lower limits like they were achieved for the hydrogen 
+evolution reaction.1,2 To meet the performance demands of 
+scalable and economical electrolyser stacks for industry, there 
+are many contributions in literature, which aim to improve the 
+OER activity. A promising and economic materials class are 
+transition metal oxides used in alkaline water electrolysis anodes. These oxides are studied in various morphologies, elemental 
+compositions, and electrochemical conditions.35 One parameter 
+out of many that can influence the activity of the catalysts is the 
+composition of the electrolyte. Ions in the electrolyte have a direct 
+impact on the electric double layer (EDL).

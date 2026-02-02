@@ -1,0 +1,11 @@
+Description:
+A hydrogen-bonded ferroelectric built from molecular units, undergoing order-disorder transitions.
+
+Text:
+Ferroelectric materials exhibit a spontaneous and switchable polarisation arising from the alignment of 
+electric dipoles with an applied electric field. In most ferroelectrics, the atomic mechanism involves 
+dipoles that are correlated below a symmetrybreaking phase transition this includes both the displacive 
+transitions common amongst ceramics, such as the widely industrially used BaTiO3,1,2 and orderdisorder 
+transitions in the hydrogenbonded ferroelectrics Rochelles salt and K2HPO4, which are built from 
+molecular units.3,4 These phase transitions are associated with a sharp discontinuity in the dielectric 
+permittivity as a function of temperature.

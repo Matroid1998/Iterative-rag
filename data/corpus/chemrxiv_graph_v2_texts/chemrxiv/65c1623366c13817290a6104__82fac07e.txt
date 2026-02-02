@@ -1,0 +1,36 @@
+Description:
+Reactive groups that are prevented from crosslinking by PEG shielding until compression brings them together.
+
+Text:
+Both
+systems begin as a crosslinked network and respond to
+compression, strengthening several hundreds of kPa in
+elastic
+modulus
+over
+repeated
+cycles. The
+mechanosensitivity results from long PEG molecular
+shielding groups grafted to the polymer backbone, which
+prevent the reactive thiol groups from crosslinking until
+compression brings them together. To date, the most successful method of creating synthetic
+mechanosensitive polymers that undergo liquidtosolid
+transition is by inserting weak bonds, mechanophores,
+within polymer chains that are converted to an active
+intermediate
+in
+response
+to
+force,
+capable
+of
+strengthening the material1214. This work , in contrast,
+uses
+the
+shielding
+group
+concept,
+starting
+with
+uncrosslinked, shielded polymers that can undergo a
+rapid liquidtosolid transition upon application of force.

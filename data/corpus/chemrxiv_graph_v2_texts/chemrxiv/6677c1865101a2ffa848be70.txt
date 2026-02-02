@@ -1,0 +1,14 @@
+Description:
+An energy storage technology used in electrochemical energy storage systems.
+
+Text:
+In the early 21st century, environmental considerations have gained increasing importance, 
+profoundly influencing economic progression and human sustainability. The implementation of 
+international agreements such as the Kyoto Protocol and the Paris Agreement signifies a 
+collective global commitment to diminishing carbon emissions, catalyzing a shift from 
+traditional fossil fuels to renewable energy sources. This transformation is imperative in 
+addressing climate change and promoting sustainable development. The inherent intermittency of renewable energy sources, such as solar and wind, 
+necessitates the integration of reliable electrochemical energy storage systems into future 
+electrical grids. These systems are pivotal in managing this intermittency and ensuring a stable 
+energy supply. The main energy storage technologies include leadacid, nickelcadmium (Ni
+Cd), nickelmetal hydride (NiMH), lithiumion, and sodiumsulfur (NaS) batteries 1.

@@ -1,0 +1,14 @@
+Description:
+A support with large pore volume and high specific surface area, suited for dispersing metal nanoparticles.
+
+Text:
+With respect to the nature of the 
+support, a considerable amount of literature has focused on reducible oxides, including TiO2 
+and CeO2, because the presence of oxygen vacancies and the propensity of charge transfer from 
+reducible support are thought to stabilize small Ru nanoparticles 21, 22. Far less attention has 
+been paid to inert oxides, SiO2 in particular. Silica, a typically high specific surface area support 
+with large pore volume, is particularly suited to disperse metal nanoparticles. SiO2 also has 
+good thermal stability, which can help steer clear of support sintering or support overgrowth 
+on Ru sites during catalyst preparation and methanation reaction. Nevertheless, silica
+supported methanation catalysts are generally shown to be only moderately active, possibly 
+due to the absence of oxygen vacancies and basicity 13, 22.

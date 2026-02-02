@@ -1,0 +1,31 @@
+Description:
+Reacts with thionyl to form the activated sulfonation reagent tBuONSO.
+
+Text:
+In this experiment, a different synthetic angle was
+explored to create sulfanilamide which would be markedly more efficient and safe. This
+method involves a Willis reagent which performs SO2 addition through a
+O(tertButyl)Nsulfinylhydroxylamine (tBuONSO) intermediate that houses a relatively
+stable aqueous thionyl intermediate.4 This eliminates the need to rely on SO2 gas
+dissolved in water to nucleophilically attack the substrate, but directly substitutes the
+thionyl group onto O(tertbutyl)hydroxylamine hydrochloride to form the activate
+sulfonation reagent tBuONSO. The next step utilizes a grignard reagent
+(4Bis(trimethylsilyl)aminophenylmagnesium), which overall achieves the same effect
+as a sulfonation. This further eliminates the need to protect the aniline with an
+acetamide. Overall, this approach is drastically different from the standard reaction flow
+to synthesize sulfanilamide1.
+
+
+---
+
+Description:
+A compound used in synthesis, often dissolved in solvents like dichloromethane.
+
+Text:
+This experiment details the methodology to perform this
+full synthesis with most emphasis on confirming the validity of the Willis reagent. Experimental Methods
+In a 50mL erlenmeyer flask, O(tertButyl)hydroxylamine hydrochloride (450mg,
+3.58mmol, 1 equiv) was dissolved in 15mL dichloromethane and cooled to 0 C in an
+ice bath. After the solution was fully dissolved, triethylamine (1.5mL, 11mmol, 3 equiv)
+was added and a white solid precipitate was observed. After letting the solution sit for
+httpsdoi.org10.26434chemrxiv2023xp92p ORCID httpsorcid.org0000000270840932 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

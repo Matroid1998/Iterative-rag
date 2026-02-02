@@ -1,0 +1,18 @@
+Description:
+Used in measuring the overall donation capability of a ligand through CO stretching frequencies in IR spectrum.
+
+Text:
+Therefore, to predict the efficiency of catalysts, ligand descriptors have 
+undergone significant development in recent years.4 Nheterocyclic carbenes (NHCs) 
+and related Cdonor ligands, known to cover a large range of electronic properties,5 
+are widely used in homogeneous catalysis.6 Many experimental descriptors of their 
+bonding capability, such as the Tolman (TEP)7, Lever (LEP)8 and Huynh (HEP)9 
+electronic parameters or other indicators based on NMR approach, have been 
+proposed.10,11 TEP and LEP (also referred to as ligand electrochemical parameter) both 
+measure the overall donation capability of a ligand L, using respectively the CO 
+stretching frequencies in the IR spectrum of Ni(CO)3L or other tetrahedral complexes, 
+and the redox potential of MCl(COD)L complexes (M  Rh, Ir).12 For its part, HEP is 
+based on the 13C NMR chemical shift of transPdBr2(iPr2bimy)L complexes and 
+primarily measures the donor strength of ligand L. The acidity of carbenes can be 
+estimated experimentally by measuring the 31P or 77Se chemical shift of carbene
+phosphinidene13 or carbeneselenium14 adducts, respectively.

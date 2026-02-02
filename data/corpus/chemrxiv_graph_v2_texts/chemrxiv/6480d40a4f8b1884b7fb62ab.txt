@@ -1,0 +1,14 @@
+Description:
+A valuable chemical and fuel produced from syngas conversion.
+
+Text:
+A prime example of this is synthesis gas (syngas) conversion, which is an
+important industrial process that can be used to produce valuable chemicals
+and fuels such as ethanol and higher hydrocarbons. Here, the reaction network
+features a wide range of dierently sized intermediates.47 Understanding
+the selectivity of syngas conversion on a given catalyst therefore inevitably
+requires at least an approximate notion of the adsorption energies of these
+larger molecules. The main problem with this is that there are typically many local minima
+on the adsorbate binding energy surface for larger adsorbates. This is due to
+the fact that the possible binding motives on a catalyst surface are numerous in
+this case, including multidentate geometries.

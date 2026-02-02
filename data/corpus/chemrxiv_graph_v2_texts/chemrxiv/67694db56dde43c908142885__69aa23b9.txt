@@ -1,0 +1,13 @@
+Description:
+A diazaoxatriangulenium based compound that shows enhanced fluorescence lifetime after binding with G-quadruplexes.
+
+Text:
+NucDAOTA exhibits an 
+increase in fluorescence intensity and lifetime upon specifically binding with DNA but not with 
+RNA (ribonucleic acid) or water soluble protein BSA (bovine serum albumin), that is also a key 
+feature of this probe. Vilar et al. 6 has previously investigated some triangulenium dyes as optical 
+probes for nucleic acids of different topologies mainly G4 secondary structures, dsDNA (double 
+stranded deoxyribonucleic acid) and ssDNA (single stranded deoxyribonucleic acid) by using 
+fluorescence lifetime imaging microscopy. They found that the diazaoxatriangulenium based 
+DAOTAM2 showed better nucleus targeting with a significant enhancement of the fluorescence 
+lifetime after binding with Gquadruplexes, in comparison to other forms of nucleic acids. Furthermore, Lacour et al.

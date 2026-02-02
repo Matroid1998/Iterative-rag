@@ -1,0 +1,14 @@
+Description:
+Pollutants captured by advanced C-based materials.
+
+Text:
+For instance, the advancements
+in Cbased materials have revolutionized fields like hydrogen storage1015 and the capture of
+polycyclic aromatic hydrocarbons pollutants.1618
+Recent advancements in theoretical and computational methodologies, particularly those
+based on quantum mechanics (QM), such as density functional theory (DFT)19,20 have sig
+nificantly enhanced our ability to study and explore materials at the atomic scale. While
+QM methods provide accurate understanding into material behavior, the computational cost
+of them increases with the system size,21,22 hindering their applications for exploring exten
+sive energy landscapes or largescale simulations. Therefore, we need a tradeoff between
+accuracy and computational cost in modeling materials at atomic scale.

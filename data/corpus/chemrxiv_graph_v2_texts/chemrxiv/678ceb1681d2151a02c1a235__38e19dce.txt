@@ -1,0 +1,13 @@
+Description:
+A target molecule for capture in high-performance membranes due to its selectivity and permeance.
+
+Text:
+Highperformance membranes have immense potential to improve carbon capture efficiency1,2 if 
+they can be designed to yield a high CO2 selectivity and a high CO2 permeance.3 Nanoporous 
+atomically thin membranes (NATM), particularly porous graphene, have attracted substantial 
+attention.49 A single translocation event across the zerodimensional pore determines selective 
+transport.1012 Attractive gas separation performance has been observed,7,1319 with selectivity 
+arising from relative mass,8,20 molecular size,15,2128 and binding affinity16,19,29,30 differences. An 
+accurate prediction of capture performance from graphene pores is needed to highlight the true 
+potential of NATM. This will help design improved membranes for carbon capture. Accurate and rapid computation of capture performance from realistic CO2selective pores, 
+mimicking those formed in experiments, is needed.

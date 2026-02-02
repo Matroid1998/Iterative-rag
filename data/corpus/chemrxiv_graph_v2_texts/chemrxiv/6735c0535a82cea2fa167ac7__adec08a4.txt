@@ -1,0 +1,13 @@
+Description:
+A perovskite with high resistivity, often described as a poor electrocatalyst.
+
+Text:
+They 
+exhibit an ABO3 structure where the Asite is typically occupied by rare earth elements and alkaline earth 
+elements, and the Bsite is occupied with transition metals5. However, the electrical conductivity of 
+perovskites varies by orders of magnitude, depending on the Bsite transition metal doping level andor 
+the defect structure of the material68. In the literature, it is often addressed that a high electrical 
+conductivity, ensuring an unhindered electron pathway through the material bulk, is a crucial necessity for 
+a good electrocatalyst9. Therefore, perovskites with high resistivity are often described to be poor 
+electrocatalysts such as LaFeO3, LaCoO3 or LaMnO3 10,11, and lowconductivity perovskites have been 
+discarded from catalyst research in some cases, due to the difficulty to run sufficiently high current12.

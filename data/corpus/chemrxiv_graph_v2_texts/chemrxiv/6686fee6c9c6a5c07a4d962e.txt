@@ -1,0 +1,10 @@
+Description:
+A second or third-row transition metal used in complexes for applications like artificial photosynthesis and organic light-emitting diodes due to strong metal-ligand bonds and long-lived photoexcited states.
+
+Text:
+Transition metal complexes have been exploited as light harvesters and luminophores in a number of applications such as artificial 
+photosynthesis,1 organic lightemitting diodes,27 photoredox catalysis,8 photodynamic therapy,9 and biological sensing.10, 11 They 
+have traditionally involved second and thirdrow platinum group metals because of their strong metalligand bonds and longlived 
+photoexcited states after light absorption, typically involving metaltoligand charge transfer (MLCT) transitions.12, 13 However, 
+because of the scarce natural abundance, generally high cost, and typically higher toxicity of the heavier metals, there has been a 
+growing interest in the development of photoactive firstrow transition metal complexes that do not suffer from these issues.14

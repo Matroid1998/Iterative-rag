@@ -1,0 +1,13 @@
+Description:
+A class of Nabased electrode materials studied for Naion batteries.
+
+Text:
+Rechargeable Naion batteries are deemed to become a preferred technology for large
+scale electrochemical energy storage systems.1 To compete with more mature Liion batteries, 
+they must significantly outscore them on several metrics, the most important being materials 
+availability and sustainability.2,3 In terms of Nabased electrode materials, three distinct 
+classes are currently the most studied. They are transition metal layered oxides, 
+hexacyanometallates, and polyanion compounds.4 Phosphate framework materials are 
+highly interesting due to their stability, safety, low cost, and structural diversity.5 The latter is 
+due to the ability to host many different cations and swap anions in their structure. Many 
+httpsdoi.org10.26434chemrxiv2023t5b07 ORCID httpsorcid.org0000000212569777 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

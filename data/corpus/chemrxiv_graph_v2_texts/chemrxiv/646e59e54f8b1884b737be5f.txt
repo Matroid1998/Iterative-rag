@@ -1,0 +1,13 @@
+Description:
+Forms fibers that are traditionally strong and used in structural applications.
+
+Text:
+Additional strain and nonlinear response can be achieved 
+through various methods, including reorientation of offaxis fibers and matrix shearing through angle 
+plies,11, 12 excess length via outofplane waviness,13, 14 highly aligned discontinuous fibers,15, 16 or 
+shear under tension in a biaxial braid structure.17, 18 However, braided composites typically do not 
+exhibit an increase in stress after the initial failure, making true pseudoductility unattainable with 
+such architecture. Promising ductile fibers, such as carbon nanotubes 19 and regenerated cellulose, 20 
+have been identified. However, these new fibers are unable to provide elastic moduli and strength 
+values comparable to those of traditional glass or carbon fibers, making the commercialization of 
+ductile composites for macroscale structural applications a challenging and timeconsuming process.

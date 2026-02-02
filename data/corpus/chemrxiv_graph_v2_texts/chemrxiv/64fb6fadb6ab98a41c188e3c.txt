@@ -1,0 +1,22 @@
+Description:
+A molecule whose structure can be analyzed using gas electron diffraction (GED).
+
+Text:
+Electron
+source
+Molecular
+source
+Scattered
+electrons
+Electron
+beam
+
+FIG. 1. A schematic representation of the GED experiment. An
+example of a raw GED image of vitamin K3 (molecular structure
+shown in the same figure) was taken from Ref.1. Gas electron diffraction (GED) is a powerful experimental
+technique for obtaining accurate structures of molecules.2,3
+Developed in the 1930s,2,4,5 over the years, this technique
+has allowed the establishment of many important concepts of
+structural chemistry2,57 and also determining accurate struc
+tures of various molecular systems.2,811 In the 19801990s,
+a)Also at Free Moscow University, httpsfreemoscow.university.

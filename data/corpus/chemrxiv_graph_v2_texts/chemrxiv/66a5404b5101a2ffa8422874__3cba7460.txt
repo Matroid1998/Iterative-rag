@@ -1,0 +1,12 @@
+Description:
+Studied for charge migration in its cationic form.
+
+Text:
+The 
+coherent superposition and charge migration decay in 15  20 fs because the vibrational wavepackets on 
+the X and A potential energy surfaces move in opposite directions.1215 Charge migration has also been 
+studied in a number of other systems, including some closely related molecules, HCCBr, H(CC)nBr and 
+H(CC)nI cations,1719 but not in HCCCl and HCCF. One of the challenges for calculating the electronic structure of HCCX cations is that the X and A states 
+have the same electronic state symmetry. Consequently, calculations of the A state with conventional 
+density functional methods and single reference correlated wavefunctions such as coupled clusters (CC) 
+would collapse to the X state.

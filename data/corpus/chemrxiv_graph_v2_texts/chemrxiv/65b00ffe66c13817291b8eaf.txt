@@ -1,0 +1,12 @@
+Description:
+Used to synthesize bioconjugates such as conjugate vaccines and antibody drug conjugates.
+
+Text:
+The maleimidethiol chemistry 1 is widely used to synthesize bioconjugates, including 
+conjugate vaccines and antibody drug conjugates (ADC) 2. The resultant 
+thiosuccinimide linker in these bioconjugates, (Figure 1, structure III) is unstable in vivo 
+due to the retroMichael reaction 3. Molecules with free thiols that are available in 
+appreciable concentrations in vivo, react with the thiosuccinimide linker, releasing the 
+antigen or the drug that is linked to the carrier protein. This process known as thiol 
+exchange 4 could have a negative impact for the biological activity and cytotoxicity for 
+the synthesized bioconjugate 5.

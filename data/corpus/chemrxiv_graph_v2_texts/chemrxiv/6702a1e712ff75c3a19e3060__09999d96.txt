@@ -1,0 +1,13 @@
+Description:
+Exhibits a decrease in EQEmax from 22.1 to 16.1 as doping concentration increases.
+
+Text:
+DCzBN shows improved 
+resistance to ACQ as the PL decreased modestly from 98 to 90 as the doping concentration 
+increased from 1 to 30 wt in 3,3bis(Ncarbazolyl)1,1biphenyl (mCBP) compared to that 
+of SCzBN (95 to 84) and the naked MRTADF core, DtBuCzB, (92 to 48). The EQEmax 
+of the OLEDs with DCzBN exhibited less sensitivity to the doping concentration of the 
+emitter, decreasing from 28.7 to 24.8 in comparison the devices with SCzBN and DtBuCzB 
+where the EQEmax decreased from 22.1 to 16.1 and 21.0 to 9.9, respectively, as the doping 
+concentration increased from 5 to 20 wt. However, all devices (5 wt emitter doping) 
+showed significant efficiency rolloff, with EQE1000 of 12.4, 11.4, and 11.7, respectively.

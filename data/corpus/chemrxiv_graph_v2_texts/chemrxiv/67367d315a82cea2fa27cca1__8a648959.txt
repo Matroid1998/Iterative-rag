@@ -1,0 +1,84 @@
+Description:
+A compound used as sustainable feedstock for chemical processes, including polyethylene terephthalate production.
+
+Text:
+Ethylene glycol is a widely and diversely utilized com
+pound in chemical industry with a global production of
+57 million metric tons in 20221, applications of which
+range from automotive to pharmaceutical. Recently, at
+tention has been drawn to its role as sustainable feed
+stock for numerous chemical processes, including, among
+others, polyethylene terephthalate (PET) and antifreeze
+production, and in textile industry2,3. Furthermore, the
+selective oxidation of ethylene glycol to produce value
+added products holds great promise for the development
+of ecologically friendly and economically viable processes. Depending on the reaction conditions and the nature of
+the used catalyst, oxidation of ethylene glycol can yield
+a variety of products, including glycolaldehyde, glycolic
+acid, glyoxylic acid, glyoxal, oxalic acid, formic acid, and
+even fully oxidized carbon dioxide.
+
+
+---
+
+Description:
+Undergoes electrochemical oxidation with a platinum catalyst.
+
+Text:
+In a study on the electrochemical oxidation of ethylene
+glycol, Chauhan and coworkers4 utilized a platinum
+catalyst in a channel flow reactor and observed selective
+oxidation with high yield of glycolic acid, compared to
+other products. They furthermore noticed low quantities
+of single carbon (C1) compounds such as formic acid
+and carbon dioxide, and suggested that the pathway to
+corresponding author,
+Email me at
+stephane.kenmoeuni
+due.de
+carbon dioxide production is still unclear and requires
+a high oxidative potential to achieve C C bond
+cleavage. To enhance the catalytic activity of Pt, Kim
+and coworkers5 performed experimental work on Pt
+nanotubes doped with silver. They observed that these
+materials reduce the poisoning of Pt nanotubes during
+the electrooxidation of ethylene glycol and glycerol.
+
+
+---
+
+Description:
+Undergoes kinetic decomposition involving cleavage of the O-H bond, with C-H bond cleavage favored at higher temperatures.
+
+Text:
+Also using a Pt catalyst,
+Salciccioli and Vlachos6
+studied the kinetic decomposition of ethylene glycol
+by density functional theory (DFT) combined with a
+statistical mechanical model. They detected that the
+initial reaction step involved cleavage of the O H
+bond, and that increasing temperature favored cleavage
+of the C H bond. The reaction rate of C C bond
+cleavage was found to be lower compared to that for the
+breaking of other bonds. A comprehensive review by
+Qi and coworkers7 suggested that the electrocatalytic
+ethylene glycol oxidation to glycolic acid serves as a
+better alternative to thermocatalytic approaches in
+terms of product yield. Further challenges persist,
+as selectivity for specific reaction products is hard to
+achieve, necessitating further development in the design
+of electrochemical reactors and catalytic materials.
+
+
+---
+
+Description:
+Undergoes oxidation to glyoxal on silver cluster catalysts.
+
+Text:
+Several computational studies have been published. Salaev and coworkers8 studied the oxidation of ethy
+lene glycol on silver cluster catalysts. Their findings
+suggested that ethylene glycol undergoes oxidation to
+glyoxal when oxygen species are adsorbed on bridge sites
+of the Ag cluster. Partial oxidation to ethylenedioxy
+httpsdoi.org10.26434chemrxiv20244zw7v ORCID httpsorcid.org0000000336222716 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

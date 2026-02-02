@@ -1,0 +1,15 @@
+Description:
+A disordered phase resulting from the oxidation of Ni(OH)2 and Ni2(OH)2.
+
+Text:
+Nibased electrodes are a group of promising oxygen evolution reaction (OER) 
+catalysts in alkaline media, owing both to the high catalytic activity and lower 
+productions costs15. Although the research on Nibearing electrodes spans five 
+decades, the exact OER mechanism remains debatable in the literature. The 
+generally accepted picture is that upon immersion of the Ni electrode in an alkaline 
+medium, a layer of a disordered Ni2(OH)2 is spontaneously forming on its 
+surface. Aging of the electrode in an alkaline solution will result in the gradual 
+phase change of Ni(OH)2 to the more ordered Ni2(OH)2 variant6. Increasing 
+the potential will result in the oxidation of the Ni(OH)2 surface species towards 
+the (also disordered) Ni3OOH phase; oxidation of the Ni2(OH)2 leads to the 
+appearance of the more ordered Ni3OOH modification.

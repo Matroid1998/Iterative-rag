@@ -1,0 +1,16 @@
+Description:
+Elements where the d-electron contribution is a major factor in scaling relations of binding energies.
+
+Text:
+(2011) demonstrated that several C2 species on
+closepacked and stepped surfaces obey these linear trends well.8
+Kolb et al. (2021) focused on closedpack surfaces only and also
+observed linear scaling relationships between the binding energies
+of C and CHx species.9 Such scaling relations have been rational
+ized using a dband model7 through a separation of sp and d
+electron contributions to the binding energy. Specically, the sp
+electron contribution is expected to remain constant for a surface
+made of different transition metals, while the delectron contribu
+tion is deemed the major factor underneath the scaling relations. However, more detailed analysis is needed to further understand
+the quantum chemical origins of these intriguing scaling relations
+governing the binding energies.

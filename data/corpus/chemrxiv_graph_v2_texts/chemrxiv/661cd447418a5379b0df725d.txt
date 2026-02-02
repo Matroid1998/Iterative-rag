@@ -1,0 +1,18 @@
+Description:
+Studied using SAE NMR to observe dynamics in solid-state Li-ion battery materials.
+
+Text:
+Probing dynamical eects is particularly important for
+energy materials, in which mobile ions drive the device
+functionality. The mobility of species and structural fea
+tures such as disorder and defects are closely interwoven,
+and often are the critical factors for determining device
+performance. In order to establish a correlation between
+structure and dynamics, various experimental ssNMR
+methods can be employed 1, 2. One such method is SAE
+NMR, which is commonly used to study Li dynamics in
+operando within solidstate Liion battery materials 3
+6. SAE probes the quadrupolar interaction of the EFG
+tensor at the 7Li nucleus (spin I  32) with its local
+surrounding environment in order to observe the motion
+of Liions hopping between various sites in a material.

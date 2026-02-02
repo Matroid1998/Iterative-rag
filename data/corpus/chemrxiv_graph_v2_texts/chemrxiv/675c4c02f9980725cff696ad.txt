@@ -1,0 +1,28 @@
+Description:
+Loss at layered oxide cathodes can accelerate the degradation of lithium ion batteries.
+
+Text:
+Surface oxygen loss at layered oxide cathodes can accelerate the degradation of lithium ion 
+batteries,1 with the proclivity of oxygen loss increasing with both Ni content and voltage. 26 While the 
+oxygen loss occurs at high state of charge, cycling studies of LiNi0.8Mn0.1Mn0.1O2 (NMC811) cathode 
+material have demonstrated how degradation is faster when compounded with the deep depth of 
+discharge.7 For polycrystalline morphologies, intergranular cracking and oxygen loss can occur in 
+tandem at high voltage,812 making it difficult to isolate the impact of oxygen loss on the cathode 
+surface chemistry and its impact on the resultant electrochemistry. The suppressed intergranular 
+cracking using singlecrystalline (SC) morphologies1315 offers the ability to directly correlate surface 
+chemistry due to oxygen loss and its impact on cycling aging.
+
+
+---
+
+Description:
+Loss occurs at high voltages in SC NMC811 pouch cell formats.
+
+Text:
+For example, a cycle protocol study of 
+SC NMC811 in industriallyrelevant pouch cell formats supported by atomistic predictions 
+demonstrated that while oxygen loss occurs at high voltages the resulting densification of a surface 
+reconstructed layer requires a deep depth of discharge,16 and predicted that the transport properties 
+of this layer will depend on the cycling conditions employed. Operando XRD (opXRD) can correlate the 
+formation and densification of surface reconstruction with the evolution of the structure properties of 
+the NMC cathode.

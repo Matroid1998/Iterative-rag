@@ -1,0 +1,9 @@
+Description:
+Materials known for high exciton diffusivity and quantum coherent light emission.
+
+Text:
+More recently, studies on superlattices of lead halide perovskites (CsPbX3, where X  Cl, Br, 
+I) have drawn attention to excitonic coupling, which in these materials results in an unusually 
+high exciton diffusivity7 and in quantum coherent light emission known as 
+superfluorescence.8 Both phenomena are reportedly mediated by dipoledipole coupling,911 
+which depends on the relative spatial position and exciton energy of the interacting particles.

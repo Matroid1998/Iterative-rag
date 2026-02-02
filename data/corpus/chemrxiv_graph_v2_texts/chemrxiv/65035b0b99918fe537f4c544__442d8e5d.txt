@@ -1,0 +1,26 @@
+Description:
+Exists with a valence of 5 in the natural environment.
+
+Text:
+The maximum contaminant level of Sb in drinking water is set at 6 gL by the United 
+States Environmental Protection Agency3, and the average Sb concentration in drinking water near 
+the Xikuangshan Sb mine in China was found to be 53.6  4.7 gL.4 Despite Sbs increasing use, 
+limited studies exist on its mobility, redox geochemistry, and toxicity. Sb is commonly found as either Sb(V) (5 valence) or Sb(III) (3 valence) in the natural 
+environment. Redox reactions can mobilize or immobilize certain potentially toxic metalloids like 
+Sb. The redox properties of Sb are a driving factor for many of the reactions this element 
+participates in, such as adsorption and dissolution.
+
+
+---
+
+Description:
+More thermodynamically stable than Sb(III) in oxic environments.
+
+Text:
+While Sb(V) is more thermodynamically stable 
+than Sb(III) in oxic environments, Sb redox reactions in anoxic conditions are lacking 
+thermodynamic data.5 Anoxic zones in groundwater aquifers are areas where Sb should be closely 
+monitored because the toxicity of Sb is greatest for Sb(III), followed by Sb(V), and least for 
+organic antimony species.3 A variety of abiotic chemical species have been shown to reduce Sb(V) 
+such as, sulfide, Fe(II) containing minerals, and KI.5 In addition, several studies have demonstrated 
+redox transformations by Sbreducing microbiota.68

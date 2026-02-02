@@ -1,0 +1,23 @@
+Description:
+Used in cross-coupling due to its high catalytic activity and substrate compatibility.
+
+Text:
+Despite the relatively high cost of 
+palladium, traditional methods have favoured its use in crosscoupling due to its high catalytic 
+activity, substrate compatibility, and the broad range of transformations that are possible.1 More 
+recently, however, in the search for catalytic systems that rely on earthabundant metals, nickel has 
+emerged as a valuable alternative to palladium for crosscoupling.2,3 In addition to its lower cost and 
+greater abundance, nickel possesses a different reactivity profile to palladium displaying a reduced 
+propensity of Nialkyl intermediates to undergo hydride elimination, and possessing a broader 
+array of accessible oxidation states (0, 1, 2, 3, 4), meaning that both two and oneelectron redox 
+processes are possible.46 These properties mean that nickel is now often the metal of choice for 
+metallaphotoredox C(sp2)C(sp3) bond formation, with seminal examples being reported in 2014 by 
+both Molander, using potassium trifluoroborate salts, and MacMillan and Doyle, using carboxylic 
+acids as radical precursors, along with aryl halides, to form new bonds using a dual nickeliridium 
+catalysed system (Scheme 1A).7,8 Since then, a wide variety of radical precursors as coupling partners 
+has been reported, expanding the possible synthetic disconnections available for synthetic chemists.8
+17 
+Despite the use of an earth abundant base metal catalyst, metallaphotoredox methods with nickel still 
+often rely on the use of preciousmetal iridiumbased photocatalysts.18 The high cost and relative 
+scarcity of iridium often becomes an overriding factor in the use of these procedures, which becomes 
+increasingly problematic as scale increases.

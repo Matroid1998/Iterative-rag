@@ -1,0 +1,65 @@
+Description:
+Ion intermediates detected using infrared ion spectroscopy and cryogenic vibrational spectroscopy.
+
+Text:
+The use of substituents remote from a reaction centre to influ
+ence the stereochemical outcome of reactions is widespread in 
+chemistry.17 In the case of reactions proposed to proceed via 
+oxacarbenium ions, this has been the subject of many studies.8
+16 The role of esters as remote substituents in stereoselective 
+glycosylations has been the topic of much controversy and de
+bate, especially in relation to 4Oestermediated synthesis of 
+biologically important 1,2cisgalactosides and fucosides 
+(Figure 1).1728 Flowers first proposed that longrange partici
+pation, whereby the axial 4Oester of a fucosyl donor forms a 
+dioxolenium ion intermediate analogous to 1 with an inaccessi
+ble face, could explain the high 1,2cisselectivity observed 
+in fucosylations when benzoates were placed at the 4posi
+tion.17,18 Many studies have since invoked this intermediate to 
+rationalize 
+stereoselective 
+1,2cisgalactosylations 
+and 
+fucosylations.19,2123,2628 Computational studies have been used 
+to support this hypothesis and, indeed, dioxolenium ions have 
+been detected experimentally using infrared ion spectroscopy 
+and cryogenic vibrational spectroscopy.22,23,29,30 However, these 
+conditions are not representative of experimental conditions in 
+the solution phase.
+
+
+---
+
+Description:
+An ion intermediate that has been debated in terms of its role in stereoselectivity and electrostatic stabilization.
+
+Text:
+Conversely, Woerpel, Crich and others have 
+advocated for the hypothesis that throughspace electrostatic 
+stabilization of ion pairs 2 could explain the high stereoselec
+tivity observed.13,25,31 Crich and coworkers have provided sig
+nificant experimental evidence against dioxolenium ion inter
+mediates for 4Oesters,25,32,33 and concluded that the evidence 
+supports this alternative electrostatic stabilization hypothesis. They have rationalized selectivities reported elsewhere under 
+their theory (e.g., more electronrich 4Opivalates give higher 
+selectivity than 4Oacetates because they can better stabilize 
+the partial positive charge on the anomeric carbon).
+
+
+---
+
+Description:
+A borderline phenomenon detectable in galactosylations but not crucial to stereoinduction.
+
+Text:
+Crich con
+cluded that formation of a dioxolenium ion was a borderline 
+phenomenon that, although detectable, was not crucial to stere
+oinduction in galactosylations directed by 4Oesters.25 
+Under either of the above theories, the addition of electrondo
+nating groups to the ester would be expected to improve stere
+oselectivity, while electronwithdrawing groups would be ex
+pected to be detrimental to selectivity. Herein we report obser
+vation of an unexpected trend in studies of 1,2cisgalactosyla
+tions, wherein high selectivity is observed using an electron
+withdrawing paranitrobenzoate ester at position 4.34

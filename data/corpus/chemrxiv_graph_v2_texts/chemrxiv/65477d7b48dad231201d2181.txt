@@ -1,0 +1,48 @@
+Description:
+Compounds that can undergo asymmetric hydrogenation to form chiral molecules.
+
+Text:
+Asymmetric hydrogenation of olefins is 
+among the most widely used transformations to prepare chiral mol
+ecules from prochiral substrates,1 with classic methods for transition 
+metalcatalyzed asymmetric hydrogenation based on the oxidative 
+addition of H2 (Scheme 1a).2 While these reactions are high per
+forming and widely used, they historically require substrates with co
+ordinating functional groups for chelating, twopoint metal binding 
+to facilitate enantioinduction3 with limited exceptions.4 Further, the 
+highest enantioselectivity is observed with electronpoor olefins 
+(activated olefins), as interactions between the substrate and the 
+metal are best promoted by substituents on the olefin that are typi
+cally electronwithdrawing.5 Recently, hydrogenation of electron
+neutral, electronrich (unactivated), and minimally functionalized 
+olefins has seen growing improvement and success; however, lower 
+enantioselectivity is commonly observed, and fewer methods are 
+available.6 
+In this context, radical hydrofunctionalization enabled by metal
+catalyzed hydrogen atom transfer (mHAT, Scheme 1b) reactions 
+have particular promise as they do not require metal coordination of 
+the olefin for reactivity.7 Mechanistically, mHAT involves a metal
+hydride intermediate that transfers H to the olefin to generate an 
+alkyl radical that may be trapped under mild conditions.
+
+
+---
+
+Description:
+Unactivated olefins react well in mHAT methods due to their high reactivity and low bond dissociation energy.
+
+Text:
+First, unactivated olefins react well in mHAT methods, enabled 
+by the high reactivity (low bond dissociation energy) of the weak 
+metalhydride bond.8b The hydride source and reductant in mHAT 
+is a silane or borohydride,8a, 8b, 10 enabling selective monoreduction of 
+a polyalkene via stoichiometry control, which would be more chal
+lenging using a traditional hydrogenation in which the reductant is 1 
+atm of H2 or solvent alcohol. Finally, the radical mechanism offers 
+complementary selectivity relative to a typical transitionmetal cata
+lyzed mechanism, with improved chemoselectivity and preservation 
+of sensitive functional groups.8a, 8b, 10 
+One problem with these singlecatalyst mHAT systems (Scheme 
+1b) is that they require at least stoichiometric loading of an oxidant, 
+such as tertbutyl hydroperoxide (TBHP), which is necessary to turn 
+over the M2M3 cycle.

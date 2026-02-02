@@ -1,0 +1,26 @@
+Description:
+Poisons many metal catalysts, complicating the synthesis of thiols and thioethers.
+
+Text:
+Indeed, only few examples exist for the biocatalytic synthesis of thiols and thioethers (Figure 
+1C), most of which start from racemic compounds and employ (dynamic) kinetic resolutions.710 Their 
+synthesis by chemical means, such as metal catalysis, is also challenging due to the poisoning effect of 
+sulfur on many metal catalysts.11 Furthermore, the reactivity of thiols further complicates enantiocontrol 
+due to uncatalyzed background reactivity. While some natural products contain chiral thiols and thioethers, the strategy for their synthesis 
+in nature either relies on the asymmetric enzymatic synthesis of other functional groups (such as 
+epoxides) followed by substitution, or the use of radical enzymes.12 These enzymes are typically very 
+substrate specific, and thus do not appear promising as general biocatalysts in a synthetic organic 
+chemistry context.
+
+
+---
+
+Description:
+A substituent that can participate in radical chemistries.
+
+Text:
+This strategy 
+requires the enzyme to accept the large size of the sulfur substituent at the double bond, and control both 
+the reactive acyl radical intermediate as well as the orientation of the cosubstrate to prevent 
+unselective radical chemistries occurring at the sulfur.27 
+httpsdoi.org10.26434chemrxiv2024shnqc ORCID httpsorcid.org0000000301074477 Content not peerreviewed by ChemRxiv. License CC BY 4.0

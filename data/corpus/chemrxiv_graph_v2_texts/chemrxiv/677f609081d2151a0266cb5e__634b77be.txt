@@ -1,0 +1,15 @@
+Description:
+Synthetic polymer with high gene-delivery efficiency but high toxicity due to poor degradability.
+
+Text:
+Alternatively, the nonviral vectors based on synthetic 
+polymers such as poly(Llysines) (PLL),5 polyethylenimine (PEI),6 poly(aminecoesters) (PACE),7 
+polyamidoamine (PAMAM),8 poly(lacticcoglycolic acid) (PLGA),9 poly(glycoamidoamine) (PGAA),10 
+and poly(amino ester) (PBAE)11 have received increasing interests due to their safety features and lower 
+manufacturing costs.12 However, the polymerbased vectors still require refinement and optimization.13 For 
+examples, PEIbased vectors have relatively high genedelivery efficiency but exhibit high toxicity due to 
+their poor degradability;14 PAMAM dendrimers are capable of DNA encapsulation and transfection, but can 
+cause cell damages due to the strong electrostatic interactions between the dendrimers and the cell 
+membranes.15 PBAEs and PBAEbased composite nanoparticles have shown promise as efficient polymer 
+vectors with excellent delivery properties and biocompatibility, yet their targeting capability,16 delivery 
+efficiency,17 and stability18, 19 still require improvement.

@@ -1,0 +1,19 @@
+Description:
+Primarily exists as dimeric species in tetrahydrofuran (THF).
+
+Text:
+Lithium NMR spectroscopy experiments suggest that
+LiCl in tetrahydrofuran (THF) primarily exists as dimeric species,
+which can be deaggregated to monomeric entities by excess hex
+amethylphosphoramide.52 In contrast, LiBr would predominantly
+exist as a monomer,52 while LiI would form a contact ion pair,
+as well as a mixture of monomers and dimers.52 Another NMR
+study, also conducted in THF, proposed that LiX were to exist as
+ionseparated species regardless of the nature of the halide (X 
+Cl, Br, I).53 Finally, LiBr was reported to be a cubic tetramer in
+toluene.54 These studies were often conducted under low con
+centration and temperature conditions to minimize signal broad
+ening due to dynamic exchange.52 Therefore, even from solu
+tion studies, the available information is often contradictory and
+does not reflect the conditions that these species experience un
+der operando conditions.

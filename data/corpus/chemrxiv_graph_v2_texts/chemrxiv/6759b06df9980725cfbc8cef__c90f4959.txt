@@ -1,0 +1,9 @@
+Description:
+A gas molecule that interacts with MOF frameworks.
+
+Text:
+screened the CoRE MOF database to evaluate 
+whether MOFs are suitable for DAC application.16 While these methods are timeefficient, they struggle 
+to accurately describe the interaction between the MOF frameworks and the gas molecules such as CO2 
+and H2O, due to the diversity of chemical environments and the complexity of the shortrange potential 
+httpsdoi.org10.26434chemrxiv20247w6g6 ORCID httpsorcid.org000000019388173X Content not peerreviewed by ChemRxiv. License CC BY 4.0

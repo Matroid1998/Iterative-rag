@@ -1,0 +1,16 @@
+Description:
+The precision of a PIPs PES for rMD17 ethanol was shown to be as good as the best performing ML methods and to be substantially faster than all the ML methods considered.
+
+Text:
+Machinelearned potentials (MLPs) oer the promise of providing rstprinciple approaches
+for the fullspan of molecular dynamics simulations.1 Among the panoply of machinelearned
+methods,2 permutationally invariant polynomials (PIPs)35 have been used for nearly 20
+years to develop precise, highdimensional potential energy surfaces (PESs) for molecules,69
+clusters,1012 manybody terms for water potentials,1316 and atomcentered manybody
+representations for materials17 and molecular force elds.18 The precision of a PIPs PES
+for rMD17 ethanol was shown to be as good as the best performing ML methods and to
+be substantially faster (factors of 10 or more)19 than all the ML methods considered, i.e.,
+GAPSOAP,20 ANI,21 DPMD,22 sGDML,23,24 PhysNet,25 KREG,26 and pKREG.27 Similar
+factors in speed dierences and high precision for PIPs were recently reported for 21atom
+2
+httpsdoi.org10.26434chemrxiv2024jrfxj ORCID httpsorcid.org0000000196922672 Content not peerreviewed by ChemRxiv.

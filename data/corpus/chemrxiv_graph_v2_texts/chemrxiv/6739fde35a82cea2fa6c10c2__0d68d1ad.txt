@@ -1,0 +1,13 @@
+Description:
+Used in CO2 hydrogenation catalysts but less water tolerant than Pd-based catalysts.
+
+Text:
+For instance, transitionmetal
+catalysts can enable the hydrogenation of CO2 to methanol
+via thermal processes.1620 Currently, CuZnOAl2O3 is the
+stateoftheart catalyst for performing this reaction.21 How
+ever, this catalyst experiences deactivation in the presence of
+high concentrations of water within the reaction mixture.2022
+Hence, developing new, watertolerant catalysts is crucial to
+achieve industrial CO2 utilization. Pdbased CO2 hydrogenation catalysts are more water
+tolerant than those based on Cu.

@@ -1,0 +1,14 @@
+Description:
+Used in lithium-ion batteries, known for high gravimetric capacity and volumetric energy density.
+
+Text:
+Allsolidstate fluorideion batteries (ASSFIBs) are a promising candidate for postlithiumion 
+battery technologies. Many possible combinations of conversionbased anode and cathode 
+materials could outperform current lithiumion batteries in terms of gravimetric capacity and 
+volumetric energy density 1. However, conversionbased materials suffer from rapid capacity 
+fading and bad rate capability due to high volume change and large overpotentials associated 
+with the reorganization of the crystal structure upon conversion 2. Therefore, intercalation
+based materials as they are also employed in current stateoftheart lithiumion batteries 
+appear to be the way forward to achieve high cyclic stability for ASSFIBs. Earlier publications on intercalation cathode materials for fluoride ion batteries have highlighted 
+fluorination of the conductive carbon additive as a parasitic side reaction leading to rapid 
+deterioration of the cell performance 3.

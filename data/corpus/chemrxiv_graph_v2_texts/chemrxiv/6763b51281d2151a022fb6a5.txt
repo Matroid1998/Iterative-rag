@@ -1,0 +1,10 @@
+Description:
+An element that is part of molecular systems in the ANI MLIPs.
+
+Text:
+The accurate neural network engine 
+for molecular energies (ANI)17,18 family of MLIPs were some of the earliest models to achieve reliable 
+predictions for millions of molecular systems composed of H, C, N, O, F, Cl, and S.19 The ANI MLIPs are 
+effective for cases where physical and chemical characteristics can reasonably be approximated using only 
+shortrange truncated chemical environments; however, different model architectures are required for 
+systems with many elements, nonlocal behavior, openshells, and charged species.

@@ -1,0 +1,30 @@
+Description:
+A reactive intermediate formed during intramolecular acyl group transfer.
+
+Text:
+DSH activated 
+thioesters, such as acylCoAs, through the dynamic thiolthioe
+ster exchange and intramolecular acyl group transfer, forming a 
+reactive acyl pyridinium intermediate (Figure S1).10 The cata
+lyst bound to the acidic patch of nucleosomes via LANA, and 
+efficiently promoted H2BK120 (the 120th Lys of H2B)selec
+tive acylation in living cells in the presence of cell permeable 
+acetyl thioesters (NACAc) as acetyl donors.12 Quantification 
+of acetylation yield of recombinant nucleosomes acetylated by 
+PEGLANADSSMe showed that H2BK120 was acetylated in 
+80, and a proximate H2BK116 residue was also acetylated 
+in 10 yield.12 Other Lys residues in a nucleosome were rarely 
+acetylated (5 yield).
+
+
+---
+
+Description:
+An intermediate that reacts with nearby Lys residues.
+
+Text:
+The acyl pyridinium intermediate derived from DSH reacted 
+only with nearby Lys residues.8 The molecular dynamics (MD) 
+simulation indicates that the distance between the acyl carbon 
+atom of the acyl pyridinium intermediate and the Nterminal 
+httpsdoi.org10.26434chemrxiv2024d1l1b ORCID httpsorcid.org0000000229466627 Content not peerreviewed by ChemRxiv. License CC BY 4.0

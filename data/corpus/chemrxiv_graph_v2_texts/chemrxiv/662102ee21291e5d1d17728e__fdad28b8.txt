@@ -1,0 +1,12 @@
+Description:
+A possible surface termination group for MXenes.
+
+Text:
+MXene, a twodimensional transition metal carbide, nitride, or carbonitride, has received a tremendous 
+amount of research attention since its discovery in 2011.1 The high specific surface area, hydrophilicity, 
+conductivity and mechanical strength of MXenes make them promising for applications including energy 
+storage,27 electromagnetic interference shielding,810 and catalysis11. MXenes can be described as a hexagonal 
+closed packed structure comprising of Mn1XnTx (n1 to 4; where M is early d block transition metal; X is 
+carbon or nitrogen; T is surface terminated groups such as O, OH, Cl, and F, depending on the chemical 
+etchant).12 Terminal group free MXenes (Mn1XnT0) are determined to have D3d symmetry.13 However, the 
+presence of the terminal groups distorts the symmetry of the unit cell.

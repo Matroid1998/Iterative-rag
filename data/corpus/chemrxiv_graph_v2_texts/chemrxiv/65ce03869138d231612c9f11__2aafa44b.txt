@@ -1,0 +1,12 @@
+Description:
+A metal used in lithium-ion batteries, where its deposition can lead to dendrite formation.
+
+Text:
+Dendrites present a significant challenge in the development of highenergy Liion batteries. To combat
+dendrite formation, a deeper understanding of the causes for their formation is crucial. During electrode
+position, uneven metal deposits can lead to dendritic structures with higher local electric fields. This
+creates a cycle where metal preferentially accumulates in the highfield region, causing dendrite growth1,2. Similar challenges exist in liquid electrolyte lithiumion batteries. To mitigate dendrite growth, extensive
+research has been focused on the utilization of additives and diverse charging protocols, aiming to achieve
+a more homogeneous lithium deposition and inhibit dendrite formation26. Solid electrolytes on the other
+hand were postulated to stop the dendrite growth by creating a mechanical barrier, where the growing soft
+lithium metal would be stopped7.

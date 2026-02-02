@@ -1,0 +1,31 @@
+Description:
+One of the most abundant trace acids in the atmosphere, focused on in new particle formation research.
+
+Text:
+Atmospheric aerosols have profound impacts on climate and health.1,2 Secondary aerosols
+in the atmosphere start as small, gasphase molecular clusters formed by clustering of low
+volatility gases, and can eventually impact climate by growing into cloud condensation nuclei
+(CCN).35 The initial step, called new particle formation (NPF), has been suggested to ac
+count for 1090 of CCN around the Earth.610 The uncertainty in anthropogenic warming
+associated with aerosolcloud interactions in climate models are large owing to a limited
+understanding of the various sources and sinks of particles as well as the complex nature
+of the NPF mechanism.1113 Efforts to understand NPF at a molecular level have revealed
+that gas phase acidbase chemistry plays a crucial role in the formation of small, thermo
+dynamically stable prenucleation clusters.1417 As one of the most abundant trace acids
+in the atmosphere, sulfuric acid has been a focus of NPF research.
+
+
+---
+
+Description:
+Forms clusters stabilized by bases through proton transfer and hydrogen bonds.
+
+Text:
+However, bases such
+as ammonia, amines, and diamines have been shown to stabilize atmospherically relevant
+sulfuric acid clusters, thereby accelerating growth.1727 Proton transfer between sulfuric acid
+and bases leads to stabilization by a balance between Coulombic forces and hydrogen bonds
+in the clusters.24
+Organic molecules have been identified as key players in both the nucleation and growth
+2
+httpsdoi.org10.26434chemrxiv2024n0hbhv2 ORCID httpsorcid.org0000000318595615 Content not peerreviewed by ChemRxiv. License CC BY 4.0

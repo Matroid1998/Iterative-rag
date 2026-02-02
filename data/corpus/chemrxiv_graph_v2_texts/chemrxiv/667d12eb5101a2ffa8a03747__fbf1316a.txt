@@ -1,0 +1,13 @@
+Description:
+SMMs with two mutually trans anionic ligands show the largest Ueff from stabilising the largest mJ projections in the ground state.
+
+Text:
+Singlemolecule magnets (SMMs) show magnetic remanence,1 and lanthanide (Ln) SMMs 
+have provided the largest effective energy barriers to magnetic reversal (Ueff) and hysteresis 
+temperatures (TH) to date.24 These advances have been driven by classical electrostatic design 
+criteria to increase magnetic anisotropy, where Dy(III) and Tb(III) SMMs with two mutually trans 
+anionic ligands show the largest Ueff from stabilising the largest mJ projections in the ground state 
+and destabilising the smaller mJ states.57 Perfectly linear (i.e. with a C axis) Dy(III) and Tb(III) 
+complexes would have pure mJ states, which would suppress twophonon Raman and quantum 
+tunnelling of magnetization (QTM) relaxation processes, giving high TH values. However, any 
+deviation from linearity introduces transverse fields that mix the mJ states, reducing TH.

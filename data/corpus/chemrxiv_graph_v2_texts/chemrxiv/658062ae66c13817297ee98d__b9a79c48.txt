@@ -1,0 +1,19 @@
+Description:
+Generated via photoelectrochemical water splitting as a source of low-entropy energy.
+
+Text:
+Hydrogen generation via photoelectrochemical (PEC) water splitting represents one 
+of the promising strategies to secure the future supply of free (lowentropy) energy in 
+an environmentally sustainable manner.14 Compared to the hydrogen evolution 
+reaction (HER), which is a protoncoupled twoelectron process, the oxygen evolution 
+reaction (OER) is a typical kinetic bottleneck of PEC devices since the mechanism of 
+oxygen generation is much more complex, involving concerted transfer of four 
+electrons and four protons.5,6 Accordingly, the development of efficient, stable and low
+cost photoanodes for water oxidation is of paramount importance for the realization of 
+economically viable PEC water splitting devices.7 Some of the most intensely 
+investigated photoanodes are based on passivated highquality semiconductors (e.g., 
+Si or IIIV compounds),810 hybrid inorganicorganic architectures,1114 or on lowcost 
+metal oxides, such as Fe2O3,15,16 CuWO417,18 or BiVO4.3,1925 In particular, BiVO4 is an 
+attractive material owing to its bandgap energy of 2.42.6 eV, which translates to the 
+maximum theoretically achievable photocurrents of 6.48.9 mA cm2 and the solarto
+hydrogen (STH) efficiencies of 811 under AM 1.5G (1 sun) illumination.

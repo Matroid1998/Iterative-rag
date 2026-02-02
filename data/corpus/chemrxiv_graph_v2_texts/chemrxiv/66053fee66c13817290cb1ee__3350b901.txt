@@ -1,0 +1,33 @@
+Description:
+A biologically active natural product.
+
+Text:
+An understanding of the major circulating metabolites that are generated from a 
+parent biologically active molecule is of critical importance in drug discovery campaigns.1 
+One powerful and emerging approach to detect and identify drug metabolites is the use of 
+electrochemical techniques.215 An alternative approach is to computationally predict via 
+docking how a drug might interact with a cytochrome. 1618 However, approaches that 
+interlink these two complementary techniques are not delineated at present. httpsdoi.org10.26434chemrxiv20244lt9w ORCID httpsorcid.org0000000238975626 Content not peerreviewed by ChemRxiv. License CC BY 4.0
+
+We have a longstanding interest in the chemistry 19 and molecular interactions 20 
+of the biologically active natural product, piperine.
+
+
+---
+
+Description:
+A potent inhibitor of cytochrome CYP4A6 and related familial isoforms.
+
+Text:
+Piperine is a potent inhibitor of 
+cytochrome CYP4A6 and related familial isoforms 2122 but to the best of our knowledge 
+the exact biological mechanism by which piperine is metabolised remains unknown.23 
+There is, however, a body of evidence of typical piperine metabolites to enable confirmation 
+by comparison. 2427 
+Results and Discussion 
+Prior to electrochemical reaction the cyclic voltammetry behaviour of piperine was measured 
+28 We have previously shown the voltammetric behaviour of a drug molecule is inversely 
+correlated to it in situ metabolic halflife.29 Using ferrocene (FcFc) as an internal standard 
+for the pseudo AgAgCl wire reference electrode and a glassy carbon electrode (GCE) as the 
+working electrode and a platinum wire as the counter electrode (CE), the cyclic voltammetry 
+behaviour of piperine was explored (Figures 1 ac).

@@ -1,0 +1,22 @@
+Description:
+Used in hydrothermal alkaline treatment for complete defluorination of AFFF.
+
+Text:
+46 
+The past investigations of PFAS defluorination were heavily invested in the treatment of model 
+47 
+PFAS, with only a few studies that used electrochemical oxidation, plasma, advanced oxidation, 
+48 
+and UVsulfite photoreduction to treat diluted AFFF with total fluorine (TF) ranging between 0.1
+49 
+27 mg FL.1317 All these technologies demonstrated structurally dependent reactivity in removing 
+50 
+target PFAS, and none achieved nearcomplete defluorination. To date, only hydrothermal alkaline 
+51 
+treatment realized 100 defluorination of AFFF but demands high temperature (170350C), 
+52 
+pressurized reactors (222 MPa), and alkaline addition (5 M of NaOH).18 
+53 
+Ball milling (BM) is an emerging technology for destroying PFAS chemicals at ambient 
+54 
+conditions.

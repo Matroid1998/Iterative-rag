@@ -1,0 +1,59 @@
+Description:
+Participate in Ni-catalyzed cross-electrophile coupling with aryl halides for C(sp2)-C(sp3) bond formation.
+
+Text:
+C(sp2)C(sp3) crosscoupling reactions are highly valuable for efficiently building complex 
+saturated sp3hybridized carbon atoms with key molecular functional groups for pharmaceuticals.1
+3 Nicatalyzed crosselectrophile coupling (XEC) between aryl halides and alkyl halides is a 
+streamlined and practical approach for C(sp2)C(sp3) bond construction as it avoids strong 
+organometallic nucleophiles and sensitive Ni0 precatalysts48 that are commonly used in traditional 
+Nicatalyzed crosscoupling reactions, such as Negishi, Kumada, Suzuki, and Stille couplings.9, 4, 
+10 Over the past several years, significant advances have been achieved in Nicatalyzed 
+C(sp2)C(sp3) XEC of aryl halides and alkyl halides using chemical reduction,45, 8 photoredox 
+mediation,1113 and electrochemical reduction1416, 12, 17 approaches.
+
+
+---
+
+Description:
+Activated compounds that participate in Nicatalyzed electrochemical XEC reactions.
+
+Text:
+Electrochemical reduction is an ideal platform for XEC because it avoids metal powder 
+reductants, offers controllable reduction potential and reaction rate, and can be easily integrated 
+with flow synthesis.18, 14, 16, 19, 12, 20 Nicatalyzed electrochemical XEC reactions between aryl 
+halides and activated alkyl halides, such as chloroesters and chloroketones, were reported as 
+early as the 1990s,2123 but never emerged as a general synthetic strategy.
+
+
+---
+
+Description:
+Unactivated alkyl halides are used in Nicatalyzed chemical C(sp2)C(sp3) XEC reactions.
+
+Text:
+However, recently this 
+methodology has received significant attention following the successful expansion of the reaction 
+scope to unactivated alkyl halides through Nicatalyzed chemical C(sp2)C(sp3) XEC.2427 Under 
+mild conditions, Nicatalyzed electrochemical C(sp2)C(sp3) XEC reactions are highly efficient 
+for couplings between aryl halides and primary alkyl halides, while low yields and side reactions 
+are often observed in the reactions between aryl halides and sterically hindered secondarytertiary 
+alkyl halides.2829 One of the major side reactions is the homocoupling of aryl halides where biaryl 
+products are formed through symmetrical coupling.28, 30, 29 Several strategies have been developed 
+to overcome this problematic homocoupling issue and improve the selectivity of crosscoupling.
+
+
+---
+
+Description:
+Participate in Ni-catalyzed electrochemical reactions with aryl halides.
+
+Text:
+For example, Sevov and coworkers reported an overcharge protection method using redoxactive 
+shuttles and a dynamic ligand exchange method using a mixture of Nligand and Pligand to 
+control the Ni redox states in the XEC reactions between aryl halides and secondarytertiary alkyl 
+halides.3133 Recently, Weix and coworkers reported a dualligand strategy to optimize the 
+selectivity of Nicatalyzed electrochemical XEC reactions at high temperatures.3435 Some Ni
+catalyzed electrochemical XEC reactions using conventional catalysts and under mild conditions 
+were also reported, but these methods require activated alkyl halide substrates, such as 
+httpsdoi.org10.26434chemrxiv2023pdw1d ORCID httpsorcid.org0000000236981096 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

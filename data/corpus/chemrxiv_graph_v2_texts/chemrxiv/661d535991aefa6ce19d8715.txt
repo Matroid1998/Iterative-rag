@@ -1,0 +1,14 @@
+Description:
+Attached to proteins to impart changes in structure or function.
+
+Text:
+Glycosylation is a co or 
+posttranslational modification (PTM) in which oligosaccharides are attached to proteins to impart changes 
+in structure or function.1 Oglycosylation of threonine, serine and less commonly tyrosine residues is one 
+common type of glycosylation, and it may stabilize protein structures,24 mediate cellcell interactions,3,5 or 
+modulate activation or inhibition of biological processes.68 Some Oglycoproteins, such as mucin proteins, 
+contain highly glycosylated regions predominantly populated by serine and threonine residues, with many 
+being capable of hosting glycans.9 The microheterogeneity of each glycosite coupled with the 
+macroheterogeneity of the differing occupation of various glycosites further increases the complexity of O
+glycoproteins,3 creating a multilevel analytical problem for which tandem mass spectrometry has evolved 
+as one of the premier solutions.

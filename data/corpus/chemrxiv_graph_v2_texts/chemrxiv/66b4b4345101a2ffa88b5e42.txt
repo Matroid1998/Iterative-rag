@@ -1,0 +1,16 @@
+Description:
+Used in lithium-ion batteries as part of electrochemical devices.
+
+Text:
+Deep eutectic solvents (DESs) are a class of liquid mixtures
+with a melting point considerably lower than that of their in
+dividual components, and commonly even lower than the pre
+dicted ideal eutectic point13. DESs share many of the desir
+able properties of ionic liquids (ILs), such as low vapor pressure,
+thermal and chemical stability, and tunable properties4,5. More
+over, they possess several advantages over conventional ILs, in
+cluding facile synthesis, lower production costs, generally lower
+toxicity, and higher ionic conductivities, which make them a
+promising class of materials for electrochemical applications68. Deep eutectic electrolytes (DEEs) refer to those DESs appli
+cable as electrolytes in electrochemical devices such as redox
+flow batteries911 and lithiumion batteries (LIBs)1214.

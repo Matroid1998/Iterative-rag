@@ -1,0 +1,10 @@
+Description:
+Studied with Raman spectroscopy to analyze line shapes and spectra.
+
+Text:
+In a previous review, we have considered the Raman spectroscopy of graphene and graphene oxide to 
+understand the number of lines and line shapes to be used for decomposing the spectra. Here we review 
+some literature about the Raman investigation of carbon nanotubes, focusing especially on the line shapes. Consider please the Fig.1, already shown in chemRxiv, reproduced from Wu et al., 2018, Milani et al., 
+2015, and compare the cases of graphite, graphene and singlewalled nanotube, SWNT. We have a band, 
+the G band, which is at about the same Raman shift, but the SWNT case is showing two components. This 
+is intriguing, since we know that the G band is originated by the graphite layer.

@@ -1,0 +1,14 @@
+Description:
+A component of LiFePO4 that contributes to its high lithium diffusivity.
+
+Text:
+License CC BY 4.0
+
+example of this is olivine LiFePO4 (LFP), which is a 1D Li conductor along channels in the 
+010 direction.1 Lithium diffusivity at 300 K in pristine LFP is 1012 m2 s1; this 
+extraordinarily high value should translate to rapid, longrange conduction in bulk solid 
+particles.2,3 However, upon the introduction of just 1 of LiFe antisite defects, the intrinsic 
+conductivity drops by two orders of magnitude and 90 of the accessible capacity of an equant 
+1 m3 particle is lost.36 Owing to this defect intolerance, LFP particles must be nanosized 
+along the baxis to retain good kinetics and site accessibility.3,7,8 The design of not just high
+rate but defecttolerant battery materials is an outstanding challenge for the field.

@@ -1,0 +1,31 @@
+Description:
+A compound cycled in the aqueous redox flow battery system.
+
+Text:
+The need for decarbonization, the advantages of electricalgrid decentralization, and the 
+intermittency of wind and solar energy are motivations for the development of gridscale storage 
+technologies.1, 2 The aqueous redox flow battery (ARFB) is a promising solution, featuring safety, 
+the decoupling of energy and power capacities, and potential long lifetime, recyclability, and low 
+cost. Redoxactive materials have been rapidly developed to approach the requirements for 
+practical gridscale storage. (Cl exchange)
+AEM
+(Na exchange)
+CEM
+ 1.7 V
+Fe(Bhmbpy)3
+BHPC
+pH  3
+pH  13
+Fe(Bhmbpy)3
+storage tank
+BHPC
+storage tank
+NaCl
+cycled
+BPM
+H
+OH
+In situ pH 
+recovery
+Mild pHdecoupling ARFB
+httpsdoi.org10.26434chemrxiv2023tg7fjv2 ORCID httpsorcid.org0000000254123474 Content not peerreviewed by ChemRxiv. License CC BY 4.0

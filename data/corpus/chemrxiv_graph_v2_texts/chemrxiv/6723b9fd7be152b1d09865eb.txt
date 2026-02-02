@@ -1,0 +1,19 @@
+Description:
+A component of nucleic acids that is prone to organize into non-canonical structures known as G-quadruplexes, which participate in crucial biological processes.
+
+Text:
+Guanine(G)rich nucleic acids (NAs) are present in 
+important regions of the human genome, like the 
+telomeres at the end of the chromosomes and the 
+promoter regions of several oncogenes.13 These 
+sequences are highly prone to organize into non
+canonical NAs structures, known as Gquadruplexes 
+(G4s), well recognized to actively participate in crucial 
+biological processes essential for cell replication and 
+survival.2, 4 Consequently, G4s have become a topic 
+of interest as potential targets for the development of 
+new therapeutic approaches. In cancer context, the 
+human telomere, characterized by a singlestranded 
+overhang at the 3end consisting prevalently of 
+repeats of the GGGTTA sequence, assumes critical 
+significance.

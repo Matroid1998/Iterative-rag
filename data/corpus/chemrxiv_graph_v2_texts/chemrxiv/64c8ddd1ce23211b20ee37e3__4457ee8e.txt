@@ -1,0 +1,11 @@
+Description:
+A bond that can be displaced to facilitate interchange of reductions.
+
+Text:
+Binding induces also the displacement of the Cys43Cys 51 disulphide 
+bond to the top cavity facilitating interchange of reductions of Cys132Cys135 and 
+oxidized Vitamin K. After reduction, the top cavity opens up facilitating the 
+exclusion of reactivated Vitamin K to continue with other carboxylation cycle. Actual anticoagulant rodenticides target VKORC1 by mimicking Vitamin K binding 
+at similar bindingcavities and conformational changes. Most rat resistances to anticoagulants have been associated with 
+genetic mutations (single nucleotide polymorphisms, SNPs) at the vkorc1 gene. Many of the mutations locate at the top of the rat VKORC1 central cavity 5,10,11,12 
+(Figure 1A).

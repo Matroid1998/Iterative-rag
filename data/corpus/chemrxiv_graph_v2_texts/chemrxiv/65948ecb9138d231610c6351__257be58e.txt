@@ -1,0 +1,43 @@
+Description:
+Involved in dimerization forming a cyclobutanepyrimidine dimer (CPD) upon UV irradiation.
+
+Text:
+Exploration on thymine chemistry mainly focused on dimerization forming a cyclobutanepyrimidine 
+dimer (CPD)14 and the reverse photolyasecatalyzed dissociation of CPD in the past decades3,4. The 
+dimer CPD formation via 22 cycloaddition is a harmful reaction occurring in DNA and it is the most 
+abundant DNA lesion upon ultraviolet (UV) irradiation that eventually causes skin cancer2; and this 
+dimer formation is also responsible for bacteria inactivation by subsequent inhibiting the DNA 
+replication3.
+
+
+---
+
+Description:
+Undergoes oxidative chemistry on DNA creating a radical cation via loss of an electron.
+
+Text:
+The latter dissociation involved with breaking of two CC bonds is an important process 
+for repairing DNA lesion.3,4 Oxidative chemistry of thymine on DNA creating a radical cation via loss of 
+an electron was less explored because tutorially reaction occurs primarily at guanines because they 
+have low oxidation potentials (Eox) and primary oxidation at thymine resulted to DNA cleavage was 
+only observed in guanine poor regions.5,6 However, it was reported7 (Figure 1) that UVBexposed 
+thyminecontaining antiHIVAIDS drug Azidothymidine (AZT, also known as Zidovudine) induced DNA 
+damage predominantly at thymine and cytosine residues in the presence of Cu(II) at the 5ACG3 
+sequence, complementary to a hot spot of the p53 tumor suppressor gene with piperidine treatment; 
+and the concurrent formation of 8oxodG via oxidation of guanine did not lead to DNA cleavage.
+
+
+---
+
+Description:
+Involved in one-electron oxidation chemistry on DNA.
+
+Text:
+Furthermore, experimental evidences had confirmed the side effects after prolonged treatment with 
+a high dose of AZT, that AZTmonophosphate could be incorporated into DNA by human DNA 
+polymerases  and 8, and that increased reactive oxygen species was a component of the mechanism 
+of perinatal carcinogenesis by AZT in mice9. To better manage such side effects, a future better 
+understanding of oneelectron oxidation chemistry of thymine on DNA is highly demanded. However, 
+the factors in determining the divergent pathways are not yet clear, though two main processes of 
+water addition to the thymine radical cation and protoncoupled electron transfer (PCET) at methyl 
+group were proposed (Scheme 1A) for elucidation of the reaction mechanism at thymine5,6,10. Figure 1.

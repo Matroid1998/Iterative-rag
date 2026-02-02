@@ -1,0 +1,14 @@
+Description:
+A complex and less studied mycotoxin.
+
+Text:
+A few methods have recently been proposed 
+to predict enzyme promiscuity based on the similarity theory, assuming the substrates catalyzed 
+by an enzyme generally possess similar structural characteristics 19. However, being limited by 
+poor generalization abilities, these methods cannot yield reliable results for complex and less
+studied molecules, such as mycotoxin ochratoxin A (OTA) and zearalenone (ZEA) (Fig S1). Another strategy used to identify functional enzymes for the catalysis of a specific biochemical 
+reaction is predicting enzyme commission (EC) numbers based on sequence characteristics 20; 
+however, this strategy only applies to common reactions involved in the EC system. For complex 
+molecules and lessstudied reactions, no effective computational method exists to identify their 
+catalytic enzymes. The feasibility of enzymatic reactions is determined by complex interactions 
+between enzymes and substrates.

@@ -1,0 +1,16 @@
+Description:
+Inorganic compounds used as positive electrode materials in lithium-ion batteries, obtained from nonrenewable and limited resources.
+
+Text:
+Lithiumion batteries have been widely used in electronic devices because of their high energy 
+density.1,2 However, commercial Liion batteries contain inorganic transition metal oxides as positive 
+electrode materials, which are obtained from nonrenewable and limited resources from the Earths 
+crust.3,4 Compared to transition metal oxides, organic electrode materials (OEMS) have many 
+advantages, such as low cost, environmental friendliness, resource sustainability and the structural 
+tunability, which makes them potential candidates for next generation green batteries.511 In 
+particular allorganic batteries, operating metalfree, would be attractive for more sustainable energy 
+storage solutions.12,13 
+Based on the charge storage mechanism, OEMs can be classified into three types.14 (i) ntype 
+(redox reaction occurs between the neutral and negatively charged state with cation uptake from the 
+electrolyte), (ii) ptype (redox reaction occurs between the neutral and positively charged state with 
+anion uptake from the electrolyte),15 (iii) bipolar.

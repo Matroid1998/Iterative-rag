@@ -1,0 +1,13 @@
+Description:
+A modified 6Aza Uracil derivative studied for its photophysical properties and tautomerization behavior.
+
+Text:
+With this objective in mind, our research group chose to investigate a modified 6Aza 
+Uracil derivative known as 5(thiophen2yl)6Aza uracil (TAU)13. During our study of its 
+photophysical properties in aqueous solution, we observed 3enol5enol tautomerization 
+that affects the photophysical properties of the diketo tautomer of TAU that we are interested in 
+using for further spectroscopic experiments13. To address this, we decided to add a methyl group 
+to the nitrogen at position N4, aiming to prevent tautomerization and thereby better analyze 
+the photophysical characteristics of this molecule. The purpose is to investigate whether 
+introducing a methyl group can serve as a practical and effective method to prevent the 3enol5
+enol tautomerization of TAU using theoretical calculations and steadystate experiments.

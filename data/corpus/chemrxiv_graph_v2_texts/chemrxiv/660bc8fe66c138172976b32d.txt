@@ -1,0 +1,16 @@
+Description:
+Magnetic nanoparticles used in MOF5 crystals for dynamic localization.
+
+Text:
+An early example demonstrated the use of an 
+external magnet for the userdirected dynamic localization of 
+MOF5 crystals encapsulating magnetic cobalt nanoparticles, 
+where the crystals could be easily repositioned at will and used to 
+seed further MOF crystallization at userdefined locations.17 
+Another example by Hod et al. showed the electrophoretic 
+deposition of electrochemically active NU1000 onto the 
+patterned exposed surfaces of an oppositelycharged FTO 
+electrode, although an improvement in MOF performance through 
+patterning was not reported.18 Further, for many applications 
+utilizing conductive MOFs, methods to deposit MOFs in 
+interelectrode gaps rather than on just one electrode are required.

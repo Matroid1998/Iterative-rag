@@ -1,0 +1,12 @@
+Description:
+Derivatives used as lipophilic salts to reduce resistivity and maintain electroneutrality in ion-selective membranes.
+
+Text:
+Screening of ionophores is usually performed through the fabrication and testing of potentiometric 
+membranes, which is a time and laborintensive task that consumes high amounts of the recognition 
+molecule. The ionophore is the most important, but not the only component of the ionselective 
+membrane. Lipophilic salt reduces the resistivity and maintains the electroneutrality during the sensing 
+process2,3. The most commonly used lipophilic salts are derivatives of quaternary boron (e.g. potassium tetrakis3,5bis(trifluoromethyl)phenylborate, KTFPB) or ammonium salts (e.g. tridodecylmethylammonium chloride, TDMAC)4. All the membrane components are suspended in a 
+plasticized polymer. Plasticizer lowers the polymers glass transition temperature and significantly 
+affects its conductivity and diffusion rate57. It can also enhance interactions with other membrane 
+constituents and analytes, thus improving the overall selectivity of the fabricated sensor.

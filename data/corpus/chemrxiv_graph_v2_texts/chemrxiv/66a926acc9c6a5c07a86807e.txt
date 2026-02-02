@@ -1,0 +1,11 @@
+Description:
+The first material to demonstrate ferroelectric capabilities, characterized by piezoelectricity, a high dielectric constant, a high band gap, and low current loss.
+
+Text:
+As explained by Parmar et al., 2023, the perovskites, materials with chemical formula ABX3 (A and B cations, 
+X anion), have the specific features proper for their use in solar cells. Moreover, the oxide perovskite 
+semiconductors have outstanding ferroelectric characteristics (Parmar et al., 2023). The first material to ever 
+demonstrate ferroelectric capabilities is BaTiO3 barium titanate, which is in the tetragonal phase at a 
+temperature of about 120 C and has a special structure known as the ABO3 perovskites crystal (Parmar et 
+al., 2023). According to Parmar and coworkers. besides ferroelectricity BaTiO3 is characterized by 
+piezoelectricity, and it possesses a high dielectric constant, and a high band gap and low current loss.

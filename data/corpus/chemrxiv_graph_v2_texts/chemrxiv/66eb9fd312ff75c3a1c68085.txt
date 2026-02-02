@@ -1,0 +1,28 @@
+Description:
+Functions as an optical cycling center in molecules, enabling laser cooling by scattering photons with minimal population loss.
+
+Text:
+The CaO group attached to a molecular scaffold can function as an optical cycling center
+(OCC). Molecules functionalized with OCCs can be lasercooled by scattering thousands of
+photons with a minimal loss of the population from the cycling pair of states (preferrably,
+the ground state and the lowest excited state). Lasercooled molecules are exploited in quan
+tum technologies as well as in studies of fundamental physical phenomena116 and ultracold
+chemistry1729. The idea of using OCCs in polyatomic molecules builds on the success of
+lasercooling of diatomic molecules3042. The electronic structure of lasercooled molecules
+(all the way through hyperfine structure), their applications, and recent experimental ad
+vances are thoroughly covered in recent reviews4349.
+
+
+---
+
+Description:
+Functions as an OCC by providing access to an electronically excited state that decays to the ground state.
+
+Text:
+The CaO group can function as an OCC because it supplies the molecule with an access to
+an electronically excited state that spontaneously decays almost exclusively to the molecular
+(electronic and vibrational) ground state5057. Other quantum functional groups suitable for
+laser cooling, such as SrO and YbO, have also been identified5787. FIG. 1
+Molecules studied in this work. Counterclockwise from the left top CaOH, azobenzene
+(AB), paraCaOazobenzene (pAB), and bis(paraCaO)azobenzene (bpAB). Onethusfar only hypothesized but excitingpossibility is to use quantum functional
+groups, such as CaO OCCs, for precise optical sensing of chemical events.

@@ -1,0 +1,27 @@
+Description:
+Serves as a substrate for epitaxial growth of B4C films.
+
+Text:
+To enable the use of rBxC in such devices, there is a need to develop and 
+understand thin film deposition processes for highquality, phase pure epitaxial rBxC films. We recently showed that rB4C can be epitaxially grown using chemical vapor deposition 
+(CVD) with triethylborane (TEB, B(CH2CH3)3) as a single source precursor and 4HSiC as 
+substrates at 1300 C.21 The B4C films grew epitaxially on the (0001) surface of 4HSiC, 
+commonly known as the Cface 4HSiC, with the inplane epitaxial relationship 
+B4C(0001)1010 4HSiC(0001)1010.
+
+
+---
+
+Description:
+A substrate used for epitaxial growth of rB4C by CVD.
+
+Text:
+In contrast, the film growing on the (0001) 4HSiC, 
+also known as the Siface 4HSiC, was polycrystalline.21 From the literature, we note that 
+epitaxial growth of rB4C on the Siface of 4HSiC substrates by CVD has been reported.22 But 
+this CVD process used BCl3 and C3H8 as precursors and 4 offaxis 4HSiC substrates and 
+required pretreatment of the surface with BCl3 to form an amorphous boron layer, which was 
+converted to rB4C upon CVD with BCl3 and C3H8 at 1600 C. Without the pretreatment, the 
+BxC growth on the Siface of 4HSiC was also polycrystalline.22 Epitaxial B4C growth on 4H
+SiC (0001) has also been reported using pulsed lazer deposition.23 
+httpsdoi.org10.26434chemrxiv20243bsffv2 ORCID httpsorcid.org0000000271715383 Content not peerreviewed by ChemRxiv. License CC BY 4.0

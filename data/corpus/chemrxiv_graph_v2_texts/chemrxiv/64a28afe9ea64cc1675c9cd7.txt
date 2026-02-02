@@ -1,0 +1,24 @@
+Description:
+A molecule with electron density revealing local maxima at atomic nuclei and decreasing away from them.
+
+Text:
+Contour plot of the electron density (at
+z  0, in plane with the phenyl ring) surrounding
+the salicylic acid molecule. The electron density re
+veals local maxima at the atomic nuclei and decreases
+as one moves away from the nuclei. The point with
+the lowest electron density along a bond path (ei
+ther covalent or noncovalent) is termed a bondcritical
+point. Figure inspired by reference 17 and created us
+ing ParaView18. In
+addition
+to
+geometric
+deep
+learning
+approaches,5,1922 also simulationbased approaches
+(e.g., free energy perturbation,23,24 MMPBSA2527)
+are frequently used for binding affinity prediction. While simulationbased methods are, by design, rooted
+in physical principles, deeplearning methods often
+incur lower computational cost for predictions and
+can leverage preexisting data.

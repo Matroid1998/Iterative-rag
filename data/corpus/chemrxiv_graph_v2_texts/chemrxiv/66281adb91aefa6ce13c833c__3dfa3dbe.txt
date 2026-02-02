@@ -1,0 +1,13 @@
+Description:
+A naturally occurring, semiconducting polytype of MoS2.
+
+Text:
+Molybdenum disulfide (MoS2) is among the most studied transition metal dichalcogenides, a 
+family of materials characterized by their twodimensional character with individual layers 
+stacked by van der Waals forces1. MoS2 has gained attention due to its applicability in a wide 
+range of fields like electrochemical energy storage2, 3 and electrocatalysis4, 5. There are 
+several polytypes of MoS2, with the naturally occurring, semiconducting 2HMoS2 and 3R
+MoS2 polytypes, and the synthetically accessible, metallic 1TMoS26. The functional 
+properties of MoS2 are highly dependent on the polytype, as well as on the morphology and 
+crystallite size of the material, which is why synthesis strategies able to control these 
+properties are required7, 8.

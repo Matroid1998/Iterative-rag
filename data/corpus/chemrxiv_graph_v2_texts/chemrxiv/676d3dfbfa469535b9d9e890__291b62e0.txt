@@ -1,0 +1,11 @@
+Description:
+A benchmark catalyst in the classical OER mechanism.
+
+Text:
+For instance, the final oxygen desorption step has been identified as potentially ratelimiting 
+or even inhibiting in the classical OER mechanism, particularly on benchmark catalysts like IrO2 5 leading 
+to the proposal of novel reaction mechanisms to circumvent this bottleneck, emphasizing the need for a 
+clearer understanding of OER kinetics. Several strategies have been explored to enhance OER rates and overall catalytic performance. These 
+include structural regulation of catalysts through size engineering, defect engineering, field manipulation, 
+phase engineering, and heterojunction engineering 6. Additionally, doping of singleatom substrates with 
+single atom has shown promise in improving OER performance 6.

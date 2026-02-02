@@ -1,0 +1,33 @@
+Description:
+Used as conductive additives in solid-state batteries, such as vapor grown carbon fibers.
+
+Text:
+Lithiumion batteries are an inevitable part of energy storage in our modern world. However, 
+conventional lithiumion batteries are expected to run into performance limits.1 To push battery 
+performance beyond these limitations, it is critical to investigate alternative battery 
+technologies. One particularly promising technology is solidstate batteries (SSB). By replacing 
+separators and liquid electrolytes of lithiumion batteries with solidstate ion conductors, the 
+usage of Limetal anodes and thus higher energy densities can potentially be enabled.24 
+Further advantages are increased mechanical stability, the absence of leakage and a 
+potentially improved thermal safety.5 
+Solidstate batteries utilize composite electrodes, consisting of the electrochemically active 
+material, the solid electrolyte (SE) and, if necessary, additives such as binders or conductive 
+carbons, e.g., vapor grown carbon fibers (VGCF).
+
+
+---
+
+Description:
+Responsible for electronic conduction in composite systems.
+
+Text:
+In these composite systems, a sufficiently 
+high ionic (ion) and electronic (e) conductivity, as well as balancing of the two transport 
+quantities is of paramount importance to enable high electrode utilizations and to avoid reaction 
+fronts during charging and discharging.6,7 
+On the one hand, charge carrier transport can be decisively influenced by varying the 
+volumetric ratios of the electrode components given that the electrochemically active material 
+and carbon additives are solely responsible for the electronic conduction, while the solid 
+electrolyte exclusively conducts ions.8,9 With that, altering the SE content in composite anodes, 
+such as Li4Ti5O12Li7P2S8IC10 or SiLi6PS5Cl (LPSCl)C11, can facilitate changes in the 
+effective ionic conductivity over orders of magnitude.

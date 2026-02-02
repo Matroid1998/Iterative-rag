@@ -1,0 +1,8 @@
+Description:
+Used to detect and monitor the development of prostate cancer in human patients.
+
+Text:
+Small molecules with hyperpolarized 13C nuclear spins1 represent probes with exquisite chemical and spatial 
+resolutions for realtime in vivo magnetic resonance imaging (MRI).2,3 The most important example is 113C
+pyruvate, which has been used to detect and monitor the development of prostate cancer in human patients, from 
+an early stage4.

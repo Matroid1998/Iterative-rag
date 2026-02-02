@@ -1,0 +1,35 @@
+Description:
+Forms a widebandgap semiconductor with energy gaps ranging from 2.3 to 3.7 eV, making it transparent in the UV or visible wavelengths.
+
+Text:
+GroupIII sesquioxides exhibit a pronounced polymorphism13 and, specically In2O3 and
+Ga2O3 form widebandgap (WBG) and even ultrawidebandgap (UWBG) semiconductors
+(in the case of Ga2O3) with promising properties for applications in optoelectronics and
+power electronics.48 Energy gaps ranging from 2.3 to 3.7 (In2O3) or from 4.4 to 5.3 eV
+(Ga2O3) with a strong absorption onset at around 3.6 eV (In2O3) make these materials
+transparent in the ultraviolet (UV) or visible wavelengths region.1,2,9 Together with ndoping
+and high electrical conductivity,4,10 this unusual combination of high optical transparency
+and electrical conductivity places them in a very special class of materials of interest called
+transparent conducting oxides (TCOs).2,11
+Five polymorphs of Ga2O3 comprising rhombohedral corundum (), monoclinic (), de
+fective spinel (), bodycentered cubic bixbyite (), and orthorhombic or hexagonal ()
+phases12,13 are reported.
+
+
+---
+
+Description:
+Can be grown as high-quality single-crystalline in the stable body-centered cubic bixbyite phase.
+
+Text:
+Recently, a subgroup  of the  polymorph was discovered.14,15
+This dierentiation was accompanied by the reinterpretation of the originally identied or
+thorhombic structure16 to be a hexagonal structure,17 while the  subgroup has orthorhom
+bic symmetry. Similarly, pronounced polymorphism is also reported for indium oxide. It
+is possible to grow highquality singlecrystalline In2O3 in the stable bodycentered cubic
+(bcc) bixbyite phase, named bccIn2O3 or In2O3.18,19 The existence of a highpressure
+corundumtype metastable rhombohedral (rh) polymorph known as rhIn2O3 or In2O3 is
+also documented.20 Moreover, the orthorhombic phases 1, 2, and 3In2O3 have also been
+discussed in literature.2,2123
+2
+httpsdoi.org10.26434chemrxiv2024qpl70 ORCID httpsorcid.org0009000025478092 Content not peerreviewed by ChemRxiv. License CC BY 4.0

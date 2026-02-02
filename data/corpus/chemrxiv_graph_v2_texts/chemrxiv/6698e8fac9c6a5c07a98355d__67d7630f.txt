@@ -1,0 +1,14 @@
+Description:
+First explored in electrochemical photolysis for water splitting by Honda and Fujishima.
+
+Text:
+Solar energy is the most 
+favorable alternative to minimize the overexploitation of fossil energy sources.13 The conversion of solar energy 
+into hydrogen via artificial photosynthesis using a photocatalyst is a promising and sustainable technology to 
+mitigate the global environmental and energy issues.4 
+ In 1972, titanium dioxide (TiO2) was first explored in electrochemical photolysis for water splitting by Honda and 
+Fujishima and in the following years many other inorganic semiconductors were reported for this purpose.5 The 
+first organic semiconductor for photocatalytic hydrogen evolution from water was presented in 1985 with poly(p
+phenylene) but displayed low activity.6 Later, other metalfree systems like polymeric carbon nitrides,7 conjugated 
+microporous polymers,8 and covalent triazinebased frameworks9 were developed as photocatalysts for HER from 
+water.

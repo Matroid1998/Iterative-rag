@@ -1,0 +1,20 @@
+Description:
+Used in metal-hydride hydrogen atom transfer reactions with silane.
+
+Text:
+The few enantioselective semipinacol rearrangement protocols 
+that involve aryl migration involve enantiospecific nucleophilic 
+displacement of an enantioenriched halonium,14,15 or hypervalent 
+iodine species16 and create keto functionalised products.10 
+Related polar rearrangements involving 1,2aryl shifts have 
+employed chiral Brnsted acids, which instead involve 
+noncovalent interactions between the substrate and catalyst.17
+19 In the context of hydrosemipinacol rearrangements with allylic 
+alcohols, the addition of a proton or hydrogen atom to the CC 
+bond can be used to instigate reactivity (Figure 1B). The latter has 
+been demonstrated via metalhydride hydrogen atom transfer 
+(MHAT) using a superstoichiometric quantity of Fe(acac)3 with a 
+silane,20 or photocatalytically using a cobalt catalyst.21 The 
+carboncentered radical generated after the HAT step undergoes 
+a neophyltype rearrangement to afford racemic ketones with 
+electrondeficient aryl rings migrating preferentially.

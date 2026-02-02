@@ -1,0 +1,46 @@
+Description:
+Effectively catalyze the reductive alkylation of amines with aldehydes in the presence of H2.
+
+Text:
+Recent ad
+vancements in cheminformaticsbased machine learning (ML) 
+offer chemists a way to bypass traditional Edisonian empiricism 
+and develop more efficient approaches to optimizing cata
+lysts.14 Several groups have reported successful demonstra
+tions of MLdriven optimizations of homogeneous catalysts 
+such as phosphoric acids58 and Lewisbasic ligands for metal
+based catalysts involving phosphines, Nheterocyclic carbenes, 
+and nitrogenbased ligands.918 
+Recent progress in frustrated Lewis pairs (FLPs)19,20 has ex
+panded the practical and sustainable application of maingroup 
+catalysis, e.g., enabling the hydrogenation of unsaturated mole
+cules without toxicprecious metals.2126 In this context, the 
+maingroupcatalyzed reductive alkylation of amines with car
+bonyl compounds and H2 via the generation of FLP species has 
+been widely accepted as a wasteminimizing process that gen
+erates valuable Nalkylated amines, whereby H2O is the only 
+byproduct.23,2731 Our group30 and that of Sos28 have inde
+pendently shown that triarylboranes effectively catalyze the re
+ductive alkylation of a variety of amines with aldehydes in the 
+presence of H2.
+
+
+---
+
+Description:
+Compounds that are structurally diversified to expand their utility in catalysis and materials science.
+
+Text:
+pharmaceuticals, bioactive molecules, and agrochemi
+cals,3436 the development of a straightforward and greener pro
+tocol for derivatizing amino acids and peptides would be worth
+while. To this end, we envisioned an MLassisted approach to iden
+tify a suitable triarylborane that is able to efficiently catalyze 
+the reductive alkylation of amino acids and peptides with H2 
+through the construction of an insilico library that includes a 
+variety of unprecedented triarylboranes. Moreover, through the 
+construction of this insilico library, we aimed to contribute to 
+the structural diversification of triarylboranes beyond the arche
+typical B(C6F5)3,3740 which should expand the utility of this 
+compound class in catalysis, materials science, and other areas. It should be noted that Dyson and Corminboeuf et al. have 
+httpsdoi.org10.26434chemrxiv20233mwbd ORCID httpsorcid.org0000000308826109 Content not peerreviewed by ChemRxiv.

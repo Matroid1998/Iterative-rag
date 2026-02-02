@@ -1,0 +1,12 @@
+Description:
+A pathway that generates ribulose 5 phosphate from D-glucose.
+
+Text:
+In the de novo pathway, Kdo is produced from ribulose 5
+phosphate, which is a product generated from Dglucose through the pentose phosphate pathway, by 
+the action of several enzymes.1012 In the Kdo salvage pathway, exogenous Kdo is imported by the sialic 
+acid transporter NanT, which was recently found to be involved in the uptake of Kdo and a derivative 
+of Kdo in E. coli cells.13 The Kdo from either pathway is subsequently activated to its CMP derivative 
+(CMPKdo) by CMPKdo synthase, and transferred to lipid A by CMPKdo transferase (Figure S1).13 
+8Azido3,8dideoxymannooct2ulosonic acid (Kdo8N3) is a synthetic derivative of the 
+natural compound Kdo that contains an azide moiety on the primary carbon.

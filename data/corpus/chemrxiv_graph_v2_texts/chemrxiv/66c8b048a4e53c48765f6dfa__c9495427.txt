@@ -1,0 +1,39 @@
+Description:
+A ubiquitous chemical motif used as a cereblon binding motif (CBM) in targeted protein degradation.
+
+Text:
+Targeted Protein Degradation (TPD) has emerged as 
+a powerful new mechanism to leverage against previously 
+undruggable disease targets.1, 2 Key to this approach is the 
+recognition of the putative small molecule degrader by Cere
+blon. In this space, two such modalities have emerged; Ligand 
+Directed Degraders (LDDs)3 wherein a target recognition mol
+ecule is linked to a cereblon binding motif (CBM) and molecular 
+glues or CELMoDs (Cereblon E3 Ligase Modulatory Drugs)4 
+that create a suitable proteinprotein interaction between 
+Cereblon and the target protein. In both cases, Cereblon helps 
+mediate ubiquitin transfer and subsequent proteasomal degra
+dation (Figure 1A). Many chemical motifs have emerged as 
+competent CBM, but none is more ubiquitous than glutarimide.
+
+
+---
+
+Description:
+Revealed after high-pressure hydrogenation of dibenzoyl pyridine.
+
+Text:
+The exploration of novel glutarimidecontain
+ing CBMs can alter the activity, depth of degradation, pharma
+cokineticpharmacodynamic properties, and offtarget ne
+osubstrate selectivity, which can impact the overall success of 
+a potential degrader in the clinic.7 
+One emerging class of CBMs is the N(hetero)aryl glu
+tarimide, which has begun to find applications in a range of 
+disease targets.8, 9 Despite the promise of this CBM in degrader 
+drug discovery, efforts to rigorously explore structureactivity 
+relationships (SAR) have been limited by the inefficient and be
+spoke synthetic strategies currently employed (Figure 1B). Such strategies fall into two categories 1) alkylation of anilines 
+with an halo glutarimide and 2) CN crosscoupling of a 
+dibenzoyl pyridine which reveals the glutarimide after high
+pressure hydrogenation.

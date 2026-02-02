@@ -1,0 +1,15 @@
+Description:
+Undergoes nucleophilic attack at the C2 position, leading to ring opening and subsequent amide hydrolysis.
+
+Text:
+KOH,2,3 which allows for operation at current densities 
+exceeding 2000 mA cm2 at 1.9 V when combined with highly active electrodes.4 However, 
+the stability of the most common PBI derivative, poly(2,2(mphenylene)5,5
+bibenzimidazole) (mPBI), is limited due to gradual backbone degradation, which results in 
+severe membrane degradation within months under simulated operating conditions5 and 
+weeks during electrolysis tests.6 Recent studies and simulations on model systems have 
+revealed that the chemical degradation occurs through nucleophilic attack at the C2 position of 
+neutral benzimidazole units, leading to ring opening and subsequent amide hydrolysis.7,8 
+Despite efforts to improve stability through mechanical reinforcement,9 blending with more 
+chemically stable components,10 or lowering the KOH concentration,11 these approaches are 
+not presenting a solution to the intrinsic stability limitations of mPBI.

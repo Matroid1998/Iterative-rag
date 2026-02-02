@@ -1,0 +1,21 @@
+Description:
+Complexes with nitrogen coordinating ligands that exhibit significant structural differences between high-spin and low-spin states, enhancing switching properties in molecular memory devices.
+
+Text:
+. Spin crossover (SCO) complexes13 exhibit a change in spin state from lowspin (LS) to 
+highspin (HS) or vice versa, as a function of external stimuli4 like temperature5,6, pressure1,58, or 
+light7,912. These complexes find a variety of applications13 in molecular spintronics14, memory 
+devices15, sensors16, optical devices17, and displays18. Fe(II) SCO complexes with nitrogen
+coordinating ligands are studied extensively19 since they exhibit greatest structural differences 
+between HS and LS states,2025 allowing for clear distinction between the two spin states and 
+leading to better switching properties in molecular memory devices. A multitude of experimental 
+techniques such as magnetic susceptibility measurements,2628 Mssbauer spectroscopy,2628 
+variabletemperature 
+IR2931 
+and 
+NMR,3133 
+UVVis,3234 
+Raman,30,31,35 
+and 
+Xray 
+crystallography,2628 are employed to characterize SCO behavior.

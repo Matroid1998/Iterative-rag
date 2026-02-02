@@ -1,0 +1,20 @@
+Description:
+Compounds that undergo isomerization upon irradiation with UV-visible light.
+
+Text:
+However, POCs can 
+pack together in the solidstate to form interconnected pore networks,6 and they have shown potential 
+in the molecular separation of gases,7 hydrogen isotopes,8 and organic compounds.9 Additionally, POCs 
+have been used as molecular sensors,10 and due to their discrete nature and solution processability, 
+they have been incorporated into a new generation of porous materials known as porous liquids; that 
+is, liquids that contain permanent intrinsic porosity.11 
+The integration of stimuliresponsive moieties into porous materials such as MOFs and COFs can result 
+in materials that are capable of a structural switch between two or more isomeric states.12 To induce 
+a response, the energy input can be by photochemical irradiation,13 mechanical stress,14 or 
+electrostatic stimulation.15 There are several benefits to incorporating stimuliresponsive functional 
+groups in a porous material, including the ability to change the internal pore size allowing for onoff 
+selectivity of gases, or to spontaneously release gas from within the porous material,16 or to block the 
+pore windows enabling gas storage through a trapping technique.17 Several compounds undergo 
+isomerization upon irradiation with UVvisible light (photoisomerization), including stilbenes,18 
+azobenzenes,19 diarylethenes,20 spiropyrans,21 and imines.22 Here, azobenzenes were selected for their 
+reversible EZ isomerization (Fig.

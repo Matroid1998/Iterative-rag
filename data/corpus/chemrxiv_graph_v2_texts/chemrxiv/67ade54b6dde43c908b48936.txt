@@ -1,0 +1,66 @@
+Description:
+Key part of bioactive molecules and reagents for elaborate syntheses.
+
+Text:
+Azetidines and blactams are key part of bioactive molecules, worthy threedimensional bricks 
+for medicinal chemistry, and reagents for elaborate syntheses (Scheme 1a).1 Few catalytic methods 
+giving densely functionalized monocyclic products were reported. None could be readily switched 
+to provide either azetidines or blactams, and the incorporation of an allylamino fragment, which 
+is a vaunted structural feature,2 is similarly underdeveloped. The nucleophilic substitution has been widely used to create strained rings,1,3 but the synthesis 
+of functionalized precursors is an open issue.
+
+
+---
+
+Description:
+Can be accessed from biodo ynamides with N-protection.
+
+Text:
+For instance, lengthy linear sequences were used to 
+prepare the relatively simple avinyl azetidine,3e,f which is a highly versatile species (Scheme 1b).4 
+Elegant catalytic methods based on the release of ring strain have been presented.5 Nprotected 
+azetidines can be accessed from biodo ynamides.6 These approaches require however the presence 
+of sacrificial groups. Higher atomeconomy has been achieved by few EnergyTransfer (EnT)7 
+methods. A strainrelease approach uses 1.1.0azabicyclobutanes and a Nsulfonyl diarylimine.8 
+An intermolecular 22 photocycloaddition combines a bcarboxy oxime with a styryl fragment.9 
+Sensitized arylmethacrylamides can deliver blactams via hydrogenatomtransfer (HAT)10 to an 
+alkyl radical.11 
+httpsdoi.org10.26434chemrxiv2025vc37r ORCID httpsorcid.org0000000202448605 Content not peerreviewed by ChemRxiv.
+
+
+---
+
+Description:
+Compounds relevant in the synthesis of beta-lactams.
+
+Text:
+License CC BY 4.0
+
+3 
+Scheme 1. a) examples of relevant azetidines and blactams; b) syntheses and applications of a
+vinyl azetidine; c) EnT approaches activating conjugated p bonds; d) our previous synthesis of 
+dlactams from bisaryl allenamides vs present EnTrelay activation of unbiased allenes. a)
+b)
+N
+c)
+d)
+1a
+One SLOWER EnT
+N
+H
+O
+N
+H
+O
+N
+H
+or
+N
+H
+O
+1
+31
+2
+3
+31
+31

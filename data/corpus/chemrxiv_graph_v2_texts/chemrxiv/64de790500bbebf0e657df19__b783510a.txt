@@ -1,0 +1,13 @@
+Description:
+Used as a photoswitch in MOST materials.
+
+Text:
+A variety of 
+photoswitches, such as norbornadienequadricyclane,57 dihydroazulenevinylheptafulvene,89 
+fulvalene diruthenium,1011 and azobenzene,1215 have been exploited as MOST materials. However, the azobased MOSTs systems attracted the most due to their robust bidirectional 
+photoisomerization under nearvisible and visible range (350450 nm) and impressive 
+photostability. Nonetheless, azobenzenes generally suffer from three limitations that restrict 
+their practical use as MOST materials. The first one is the short halflives of the charged 
+state, meaning energy cannot be stored for longer time duration. The second is the incomplete 
+cistrans reverse isomerization leading to a less effective discharging process. The other one 
+is their incapability to produce high energy storage densities.

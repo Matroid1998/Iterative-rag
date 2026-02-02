@@ -1,0 +1,12 @@
+Description:
+Used in the chemical reduction process to synthesize platinum carbonyl clusters.
+
+Text:
+The synthesis of platinum carbonyl clusters of a Pt3(CO)6n2 formula, known as Chini clusters, 
+was proposed in the 1960s 1. They can be synthesized by chemical reduction by CO in alkaline 
+alcoholic solution. They can also be synthesized by radiolysis in alcohol solution under CO 
+atmosphere, the nucleation n can be tuned by the irradiation dose 2, 3. They consist of multiple 
+stacking units of Pt3 triangles stabilized by CO ligands bound in two diferent ways terminal 
+(connected to one Pt atom) and bridging (connected to two Pt atoms)  see Figure 1. Their 
+physicochemical properties and their optical properties depend on the nuclearity number n. 
+Their redox properties have been studied by pulse radiolysis 3.

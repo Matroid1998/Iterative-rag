@@ -1,0 +1,23 @@
+Description:
+Used in conventional approaches to attain superhydrophobicity by combining with surface roughness techniques.
+
+Text:
+Superhydrophobicity is characterized by extreme waterrepellency and selfcleaning behavior, 
+13 which can be observed in nature among plants and animals, enabling them to stay clean 
+and dry in variable conditions.4 The Lotus effect, which imparts the selfcleaning ability of 
+superhydrophobic structures, was first presented by Barthlott and Neinhuis in 1997.5 The key 
+to achieving superhydrophobicity lies in combining hierarchical surface structures and low 
+surface energy materials.6 These surface structuring and roughness, at the nano to microscale 
+range, cause the water drop to appear in CassieBaxter state, in which air is trapped between 
+the water droplets and the surface.7 To qualify a surface as superhydrophobic, it should have 
+a water contact angle exceeding 150 and a rolling angle of less than 10.8 Another known 
+method to characterize a surface as superhydrophobic is low contact angle hysteresis (lower 
+than 10).9 The application of superhydrophobicity is significant in many fields, including 
+marine, aerospace, medical devices, and textiles.10 These applications are based on unique 
+properties, in addition to selfcleaning,11,12 including antiicing,13,14 facilitation of oilwater 
+separation,15 corrosion resistance,16 and drag reduction.17 Conventional approaches to attain 
+superhydrophobicity typically involve combining chemical surface modifications or 
+coatings,18,19 fluorinated materials,2022 or polydimethylsiloxane (PDMS) 2326 with making 
+surface roughness by etching 2729 and molding techniques which enable the creation of 
+micropatterns on the surface.3032 These methods usually require multistep fabrication 
+processes,33 and there is an unmet need for a simple fabrication process.

@@ -1,0 +1,12 @@
+Description:
+Formed by the reaction of Li metal anode with hydrogen during cycling.
+
+Text:
+One critical problem regarding the cycling stability of batteries in commercial cell formats (limited 
+dead volume), like pouch cells, is battery swelling911. Multiple aspects contribute to the overall 
+swelling, including electrode stack swelling and gaseous swelling9,12. On one hand, SEI builds up 
+upon fracture and growth during repetitive cycling and calendar aging13. On the other hand, the 
+accumulation of gaseous byproducts, such as hydrogen gas, poses a significant risk to battery 
+structural integrity as well as to safety due to their inherent flammability14,15. Moreover, these 
+gaseous species can potentially react with the electrode to cause loss of lithium inventory16. For 
+example, Li metal anode was hypothesized to react with hydrogen to form LiH during cycling17.

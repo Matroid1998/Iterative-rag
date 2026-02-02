@@ -1,0 +1,30 @@
+Description:
+Released as radicals from TiOH bonds, facilitating the reduction of the titanium center.
+
+Text:
+Most artificial photosynthesis (AP) systems, including those at the forefront of research, focus on
+water splitting for hydrogen production or reducing CO to basic hydrocarbons (C1C3). The ability
+to synthesize longchain compounds (up to C17) offers a transformative opportunity to produce
+highervalue chemicals, advancing AP technology scalability. The newly developed TiCl2phenylindole (PI) photocatalytic system uses visible light to convert
+atmospheric CO and HO into multicarbon oxygenated hydrocarbons1. This breakthrough
+integrates Direct Air Capture (DAC) of CO2 with conversion, addressing critical challenges in
+climate change, energy sustainability, and resource efficiency. The mechanism involves forming photoactive TiOH bonds through the hydrolysis of TiCl
+bonds by ambient air humidity. Upon exposure to light and air, these TiOH bonds release
+hydroxyl radicals, facilitating the reduction of the titanium center (Ti TiTi).
+
+
+---
+
+Description:
+Highly reactive radicals with a redox potential of 2.8 V, second only to fluorine.
+
+Text:
+A crucial feature of this system is the photocatalytic generation of hydroxyl radicals, released from
+TiOH, TiOH, and TiOH bonds. With a redox potential of 2.8 V (second only to fluorine),
+hydroxyl radicals are highly reactive, yet transient species that drive the organotitanium catalytic
+process. While TiO photocatalysis is known to produce hydroxyl radicals, their synergistic role in
+facilitating complex reaction cascades in this system is unprecedented. Although hydroxyl radicals typically exist on the nanosecond scale, they can persist for up to 600
+seconds in aqueous environments, enabling diverse redox reactions. These include dimerization to
+form HO, oxidation of TiO bonds to peroxotitanium species (TiOO), oxidation of PI ligands to
+NO functionalities, conversion of CO to HCOOH, and condensation or radical coupling involving
+formaldehydederived intermediates.

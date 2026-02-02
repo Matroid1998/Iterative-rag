@@ -1,0 +1,31 @@
+Description:
+Their synthesis is challenging due to the poisoning effect of sulfur on many metal catalysts.
+
+Text:
+Indeed, only few examples exist for the biocatalytic synthesis of thiols and thioethers (Figure 
+1C), most of which start from racemic compounds and employ (dynamic) kinetic resolutions.710 Their 
+synthesis by chemical means, such as metal catalysis, is also challenging due to the poisoning effect of 
+sulfur on many metal catalysts.11 Furthermore, the reactivity of thiols further complicates enantiocontrol 
+due to uncatalyzed background reactivity. While some natural products contain chiral thiols and thioethers, the strategy for their synthesis 
+in nature either relies on the asymmetric enzymatic synthesis of other functional groups (such as 
+epoxides) followed by substitution, or the use of radical enzymes.12 These enzymes are typically very 
+substrate specific, and thus do not appear promising as general biocatalysts in a synthetic organic 
+chemistry context.
+
+
+---
+
+Description:
+Chiral compounds generated from vinyl sulfides through enantioselective hydrogen atom transfer.
+
+Text:
+This light requirement 
+comes with serious disadvantages, such as known photodegradation of the lightsensing 
+chromophore,23,24 as well as lightpenetration during process scaleupintensification.25 
+Remarkably, some EREDs do not require light to access single electron chemistries with 
+bromoacetophenones, generating reactive acyl radicals that have been shown to react with styrenes.26 
+In the case of prochiral styrenes, such as methyl styrene, the benzylic radical intermediate formed after 
+radical addition to the double bond is terminated via a highly enantioselective hydrogen atom transfer 
+(HAT) from the FMN cofactor; however, larger substituents than methyl or ethyl have been reported to 
+give only traces of conversion.26 Inspired by this reaction, we envisaged that radical addition to prochiral 
+vinyl sulfides followed by enantioselective HAT would generate chiral thioethers (Figure 1E).

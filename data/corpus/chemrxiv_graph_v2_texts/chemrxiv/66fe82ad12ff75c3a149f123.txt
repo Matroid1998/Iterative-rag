@@ -1,0 +1,67 @@
+Description:
+Adsorption energy on variously doped MoTe2 is given in eV.
+
+Text:
+For this reason, it is difficult to grow
+Corresponding author
+Email address maciej.szaryput.poznan.pl (Maciej J. Szary)
+13
+14
+15
+16
+17
+2
+3
+4
+5
+6
+B
+C
+N
+O
+F
+Al
+Si
+P
+S
+Cl
+Ga
+Ge
+As
+Se
+Br
+In
+Sn
+Sb
+Te
+I
+Tl Pb
+Bi
+3.215
+1.672
+0.718
+0.358
+0.600
+2.338
+2.123
+1.985
+0.262
+0.613
+1.709
+1.558
+1.425
+0.236
+0.660
+1.726
+1.438
+1.111
+0.217
+0.732
+1.519
+0.703
+0.615
+Figure 1 Adsorption energy of O2 on variously doped MoTe2 given in eV. The
+values come from our previous work 7.
+a highquality oxide layer on the TMD sheet 3841, contact resis
+tance at the TMDelectrode interface is high 4244, and the num
+ber of detectable analytes is limited.

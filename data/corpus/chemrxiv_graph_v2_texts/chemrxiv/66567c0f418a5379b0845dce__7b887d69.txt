@@ -1,0 +1,15 @@
+Description:
+Commonly used as masked thioester surrogates in FmocSPPS.
+
+Text:
+Since the inception of NCL three decades ago,6,7 CPS has grown from a 
+specialty technique into a field of its own, with dedicated international conferences8 as well as a 
+10 
+publicly available Protein Chemical Synthesis Database (PCSdb) with information on hundreds 
+of synthesized proteins reported in literature.9 As the community grows and aims for larger and 
+more diverse protein targets, the field needs data science tools to manage the complexity of 
+information in a typical CPS project. The scope of CPS is continually widening thanks to many important chemical advances 
+15 
+over the years. Peptide thioesters, the required starting materials for NCL, can be readily 
+produced by common FmocSPPS as masked thioester surrogates (most commonly hydrazides10
+12).

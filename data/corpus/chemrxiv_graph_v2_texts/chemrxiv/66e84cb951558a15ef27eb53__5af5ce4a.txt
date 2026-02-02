@@ -1,0 +1,8 @@
+Description:
+A ligand used in thermal protocols for C(sp)O cross coupling reactions.
+
+Text:
+For example, Stradiotto and coworkers developed the first thermal protocol for C(sp)O cross
+coupling reactions using organic bases in combination with the PAd2DalPhos as a ligand.22 The interplay between ligand and 
+base is underscored by the success of coupling aliphatic alcohols with DBU, whereas BTPP is required for reactions with 
+phenols.

@@ -1,0 +1,16 @@
+Description:
+Used in state-of-the-art transistors and silicon-based circuitry, but can fail due to quantum tunneling at small sizes.
+
+Text:
+Stateoftheart transistors rely on
+gated siliconbased circuitry which, when reduced to sufficiently
+small sizes, fail to prevent electrons from transporting across the
+gate via quantum tunneling effectively rendering the transistor
+useless.10 While this has not slowed research into the develop
+ment of smaller and smaller silicon chips, molecular electronics
+provides an attractive alternative.11,12 For one, devices designed
+with organic molecules exist, by their very nature, at the atomic
+scale allowing researchers to build from the ground up rather
+than scale current technology down. Secondly, the exact control
+a Department of Chemistry, University of Tennessee, Knoxville, TN 37996, USA; Email
+sharani.royutk.edu

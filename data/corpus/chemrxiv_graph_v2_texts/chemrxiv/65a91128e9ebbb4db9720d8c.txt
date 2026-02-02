@@ -1,0 +1,24 @@
+Description:
+Microporous crystalline materials synthesized with organic additives that act as structure directing agents.
+
+Text:
+Zeolites are microporous crystalline materials that are frequently synthesized with the aid of organic
+additives that act as organic structure directing agents, OSDAs, and are finally retained in the as
+synthesized materials, rendering them nonporous unless these organics are removed. The removal
+of those organic molecules to open the micropores is generally attained by calcination in air at
+relatively high temperatures, typically above 400 or 500 C. This is obviously energetically costly
+and economically expensive and may cause structural damage and the extraction of certain
+heteroatoms (atoms other than Si) from the framework.
+
+
+---
+
+Description:
+Materials from which organics can be removed through milder treatments, depending on their pore system.
+
+Text:
+In the case of zeolite membranes,
+calcination may introduce cracks that compromise their separation performance and mechanical
+properties.1 Thus, there is a significant interest in developing routes for the removal of organics
+from zeolites through milder treatments.2 The effectiveness of such methods depends on the pore
+system and on the nature of the OSDA.

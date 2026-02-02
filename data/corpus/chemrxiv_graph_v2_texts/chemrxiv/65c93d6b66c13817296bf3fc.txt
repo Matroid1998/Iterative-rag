@@ -1,0 +1,47 @@
+Description:
+Involved in irreversible loss from the crystalline lattice in LMR layered oxide materials.
+
+Text:
+Irreversible oxygen loss is a wellknown challenge in Li and Mnrich (LMR) layered 
+oxide materials, which are promising positive electrodes for lithiumion batteries1. This 
+phenomenon, written in KrgerVink notation in Eq. (1), involves transition metal (TM) 
+reduction, oxygen vacancy (V
+) formation, and the irreversible loss of oxygen from the 
+crystalline lattice 
+O
+  2TM,
+  V 2TM,
+. 1
+2 O0(g) (1) 
+
+In general terms, we use O2 in Eq. (1) to represent any oxygen lost from the crystalline 
+lattice that is unable to return to its original O2 state. Most intuitively, it would include 
+molecular gaseous oxygen which has been observed directly during the first delithiation of LMR 
+electrodes25.
+
+
+---
+
+Description:
+Its irreversible loss from the lattice modifies electrochemically active redox couples and contributes to cation disordering.
+
+Text:
+Additionally, the O2 term also includes either oxygen which reacts with the 
+electrolyte or which dimerizes during cycling610 and is unable to return to its original O2 state. Regardless of the exact identity of the O2 term, the irreversible loss of oxygen from the lattice 
+will modify the electrochemicallyactive redox couples1116, lower the cell voltage11, and 
+contribute to cation disordering within the crystalline lattice through vacancy (Schottky) defect 
+pairs11,12,17. We note that Eq. (1) considers the fully lithiated (i.e. discharged) material, and thus a 
+fully lithiated material which has experienced oxygen loss over cycling will exhibit a reduced 
+TM oxidation state compared to that of the pristine material. At intermediate points within the 
+chargedischarge cycle, the charge compensation for lost oxygen will vary.
+
+
+---
+
+Description:
+Can form vacancies in a lattice that may be eliminated through densification.
+
+Text:
+Particularly at 
+surfaces, oxygen vacancies may be eliminated from the lattice through densification11,18,19, a 
+process which also results in TM reduction.

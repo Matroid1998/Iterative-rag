@@ -1,0 +1,12 @@
+Description:
+A compound studied for its interfacial behavior in ionic liquids.
+
+Text:
+LiCl, NaCl, and CsCl as has been 
+experimentally demonstrated by Gaddam et al.20 and Smith et al.21 
+Most of the earlier models fall short in capturing the intricate interfacial behavior observed in 
+ionic liquids (ILs) due to the interplay of van der Waals, Coulombic, dipolar, and solvophobic 
+interactions.22,23 To this end, Kornyshev and coworkers in 2007 used the PoissonFermi 
+equation to model concentrated ionic liquid interfaces employing a meanfield latticegas model 
+to derive an analytical expression for the differential capacitance.24 Around the same time, 
+httpsdoi.org10.26434chemrxiv2024ft169 ORCID httpsorcid.org0000000211691906 Content not peerreviewed by ChemRxiv. License CC BY 4.0

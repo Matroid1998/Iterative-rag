@@ -1,0 +1,24 @@
+Description:
+Used in CH4 oxidation experiments, similar to CO.
+
+Text:
+of CO induced 
+the formation of oxygenated products as well as CO2 (Table 1, Entry 3). The formation rates 
+of products increased monotonically with the CO pressure, while the CH3OH selectivity 
+remained almost unchanged (Figure S18 and Table S9). The role of CO was also investigated 
+by performing CH4 oxidation by O2 in the presence of 13CO instead of CO. The mass spectrum 
+of CH3OH formed under 13CO is similar to that under normal CO (Figure S19). Moreover, 
+13CH4 oxidation isotopic labeling experiment shows the significant MS signal at mz  33, 
+which is ascribed to 13CH3OH.
+
+
+---
+
+Description:
+Used in NMR spectroscopic study to trace carbon origin in CH3COOH.
+
+Text:
+All these clearly reveal that the carbon in CH3OH originated 
+from CH4 and not from CO. Further, the 13C nuclear magnetic resonance (NMR) spectroscopic 
+study for the reaction using 13CO indicates that the carbon in carboxyl group of CH3COOH 
+originated from CO (Figure S20), confirming that the present AuHMOR could catalyze the

@@ -1,0 +1,47 @@
+Description:
+Materials studied for chemical changes using IR laser spectroscopy across various timescales.
+
+Text:
+The goal of the work in this paper is the development of 
+methods of IR laser spectroscopy that can initiate and probe 
+chemical change in zeolites across timescales of nanoseconds to 
+seconds. Pulsedlaser infrared (IR) absorption spectroscopy 
+allows vibrational spectra to be recorded with a time resolution 
+as small as femtoseconds,4,5 allowing the study of dynamical 
+processes such as bond breaking, structural rearrangements 
+and molecular diffusion.69 Dynamical processes are initiated by 
+pulsedlaser excitation and monitored with synchronised, time
+resolved spectroscopic probing of the resulting molecular 
+changes.
+
+
+---
+
+Description:
+Materials whose framework can be heated by relaxation of excited OH and OD vibrations.
+
+Text:
+The use of CW lasers to simply heat zeolites has been 
+explored, 2022 but the ability to synchronously collect time
+resolved spectra on the evolution of the sample was not 
+implemented.2022 
+Similarly, 
+picosecond 
+pulsedIR 
+investigations of zeolites have demonstrated how the 
+relaxation of excited OH and OD vibrations induces heating of 
+the 
+zeolite 
+framework, 
+and 
+quantified 
+the 
+resulting 
+temperature transients, but only considered the heating as an 
+unwanted background to the relaxation behaviour on 
+picosecond timeframes.23,24 The ability to heat solid materials 
+and monitor their evolution from nanoseconds to seconds with 
+timeresolved IR remains unexplored. In this paper we describe 
+experiments to do exactly this with an approach of pulsedlaser 
+Tjumping and timeresolved IR probing for investigating laser 
+a.

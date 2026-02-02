@@ -1,0 +1,13 @@
+Description:
+An atom connected to C4 by a methylene bridge in unnatural nucleotides.
+
+Text:
+(30
+34) As a result, new approaches and technologies to understand unique structural andor thermodynamic 
+properties of RNA could provide unique solutions in RNAcentered therapeutics. Binding affinity, selectivity, and biostability of RNA are some of the properties, which can be regulated by 
+modified RNA residues in oligonucleotide therapeutics. For example, locked nucleic acid (LNA) residues have 
+been shown to enhance binding affinities and specificities in RNA and DNA,(3538) and, thus, have been 
+exploited for different biomolecular purposes such as protecting short interfering RNAs (siRNA) against 
+ribonucleases,(39,40) gene silencing(41,42) and RNA splicing. (43,44) LNA residues are unnatural nucleotides, 
+where O2 and C4 atoms are connected by a methylene bridge locking the sugar pucker specifically to C3endo 
+conformation.

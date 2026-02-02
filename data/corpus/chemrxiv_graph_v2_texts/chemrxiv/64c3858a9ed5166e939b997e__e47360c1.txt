@@ -1,0 +1,14 @@
+Description:
+A compound formed by incorporating Fe into MnO2, with a reduced electronic band gap of 0.62 eV and enhanced specific capacity.
+
+Text:
+have demonstrated through first principle calculations that 
+a partial substitution of Mn34 by Fe3 in the metal oxide layer reduces the electronic band gap 
+from 1.03 eV to 0.62 eV (for 33 mol of substitution) and enhances the specific capacity when 
+compared to MnO2 at equivalent chargingdischarging rates.31 However, some aspects related 
+to Fe incorporation into MnO2 (FeMnO2) still require clarification. The commonly used low
+temperature synthesis, aiming at achieving nanostructuration, results in birnessite phases with 
+poor crystallinity, limiting detailed structural investigations of the localization of Fe and its 
+impact on the interlayer site (prismatic or octahedral). Furthermore, the reaction mechanisms 
+in FeMnO2 during cycling remain unknown due to the potential redox activity of both Fe and 
+Mn elements 31,32.

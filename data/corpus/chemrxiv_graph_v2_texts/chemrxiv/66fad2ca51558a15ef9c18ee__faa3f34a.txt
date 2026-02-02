@@ -1,0 +1,15 @@
+Description:
+Grafted onto porous solids like silica for chemisorption-based solid sorbents.
+
+Text:
+A variety of 
+chemisorptionbased solid sorbents exist, such as amines grafted onto porous solids like silica, 
+cellulose, or metalorganic frameworks (MOFs).2,3,6 Membranebased DAC (mDAC) captures 
+CO2 by selectively allowing CO2 to permeate membranes while excluding other gases like nitrogen 
+(N2).7 Torrefaction is another technique currently under development. It heats biomass to a 
+temperature at which it chars, and the produced charred is subsequently buried.8 Bioenergy with 
+integrated carbon capture and sequestration (BECCS) also uses biomass, which is burnt to produce 
+energy, and the produced CO2 is subsequently sequestered.9 Moisture swing adsorption uses 
+anion exchange resins that captures CO2 while drying, and releases CO2 when remoistened.10 
+Electrochemical CO2 capture is an emerging alternative to traditional DAC systems, bypassing 
+temperature swings using electrical potentials.

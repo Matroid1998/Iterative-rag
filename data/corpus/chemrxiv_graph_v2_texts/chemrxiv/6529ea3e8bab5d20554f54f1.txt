@@ -1,0 +1,13 @@
+Description:
+Used in asymmetric intermolecular aziridinations with chiral bis(oxazoline) ligands.
+
+Text:
+Early work by Evans and Jacobsen reported asymmetric intermolecular aziridinations with 
+copper salts supported by chiral bis(oxazoline) (BOX)20 and chiral diaminebased ligands21, respectively (Scheme 
+1A). Although satisfactory yields and ee were observed with only a few select substrates, these results stimulated 
+the discovery of several catalytic systems for both asymmetric inter and intramolecular aziridinations that employ 
+a variety of other metals, ligand scaffolds, and nitrene precursors.7,2224 Despite remarkable advances in both 
+generality and efficiency, most of these methods, especially for intermolecular reactions, give the best results for 
+terminal, styrenebased, and other conjugated olefins. In contrast, intramolecular aziridinations via NT exhibit 
+superior reactivity and stereoselectivity with internal and unactivated olefins, yet have received much less attention 
+(Scheme 1B).

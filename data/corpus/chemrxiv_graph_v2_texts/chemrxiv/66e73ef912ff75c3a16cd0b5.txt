@@ -1,0 +1,46 @@
+Description:
+A species that can quench the excited state of TADF materials.
+
+Text:
+In recent decades, there has been a significant focus on the development of organic thermally 
+activated delayed fluorescence (TADF) materials as potential emitters for use in organic lightemitting 
+diodes (OLEDs)1 and sensors,2 as well as acting as photocatalysts.3 Notably, the delayed 
+fluorescence of TADF materials makes them wellsuited to their use in timeresolved fluorescence 
+imaging (TRFI) studies.4 This is because the long lifetimes of the TADF materials can address signal
+tonoise issues associated with discriminating the dye signal from the autofluorescence of biological 
+systems. An ideal TADF probe should have a sufficiently long emission lifetime ( 10 ns), suitable 
+biocompatibility, and a tolerance to both atmospheric and intracellular oxygen such that its excited 
+state is not too readily quenched by this species.
+
+
+---
+
+Description:
+A molecule that is shielded by BSA to permit long-lived delayed emission of DCFMPYM.
+
+Text:
+To achieve these properties, several strategies have been developed 1) TADF emitters capped 
+with human serum albumin (HSA) or bovine serum albumin (BSA).5 Xiong et al. were the first to 
+report a TADF emitter, DCFMPYM (Figure S1a), that was used in conjunction with BSA. This 
+adduct was employed as the contrast agent in the TRLI of MCF7 cells, and showed longlived 
+luminescence (d  22.11 s in deaerated ethanol) at PL of 649 nm.5a, 5b The BSA protein provides a 
+hydrophobic cavity and a reductive environment that shields the emitter from oxygen, thus permitting 
+the longlived delayed emission of DCFMPYM to persist in the cells.
+
+
+---
+
+Description:
+Quenching of emission can be suppressed due to its limited ability to make physical contact with the emitter in the aggregated state.
+
+Text:
+Although these selfassembled 
+NPs show good biocompatibility, photostability, and water dispersibility, the authors did not 
+demonstrate their TADF properties nor provide any TRFI studies. 3) Aggregationinduced delayed 
+fluorescence (AIDF).7 The quenching of the emission by oxygen can be suppressed due to its limited 
+ability to make physical contact with the emitter in the aggregated state. Qi et al. reported the use of 
+three AIDF emitters, PXZNI, PTZNI and lysosometargeting LysoPXZNI, each containing a 1,8
+naphthalimide (NI) acceptor.7b In aqueous solutions that produced the aggregated form, all three 
+TADF materials demonstrated markedly enhanced delayed fluorescence when concentrations were 
+increased. Subsequently, confocal fluorescence and lifetime imaging studies were performed using 
+laser scanning microscopy and TRFI.

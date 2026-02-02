@@ -1,0 +1,13 @@
+Description:
+Used in the process of microarray development, but can leave behind residue leading to nonspecific attachment in bioassays.
+
+Text:
+of crosslinking agents within the bioink to induce covalent 
+attachment as well as additives to control fluid evaporation rates can be investigated in CP for 
+microarray development.23,26,30,31 Furthermore, the PDMS stamps used in the process can leave 
+behind residue, leading to nonspecific attachment and ultimately reducing the sensitivity in 
+bioassays. CP also has challenges in scalability for industry translation and is predominantly used 
+in lab scale settings. This is mainly due to the lack of characterization and assessment of factors 
+affecting the repeatability and reproducibility of CP microarrays, resulting in low signaltonoise 
+ratios (SNRs) and high percentage coefficients of variance. 12,21 3238 
+We propose a fully characterized CP protocol for repeatability and reproducibility.

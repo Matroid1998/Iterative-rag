@@ -1,0 +1,13 @@
+Description:
+Organic fluorescent compounds used in optical sensing.
+
+Text:
+Optical sensors are widely used in many applications, including in telecommunications, 
+environmental monitoring, industrial automation, and medical devices.14 An important class of 
+optical sensors uses fluorescent compounds as the basis for their detection mechanism thanks to 
+their numerous benefits including high specificity, low detection limits, fast response time, and 
+technical simplicity.5 Fluorescent sensors typically work by exhibiting a change in their emission, 
+such as fluorescence intensity, emission wavelength or lifetime, in response to interactions with 
+specific analytes or environmental changes.6,7 Organic fluorescent compounds such as 
+rhodamines,8,9 fluoresceins10, cyanine,11 BODIPY,12,13 and coumarin dyes14 have long been 
+used in optical sensing.

@@ -1,0 +1,22 @@
+Description:
+A sacrificial Li agent added to the cathode to mediate irreversible Li loss from SEI formation.
+
+Text:
+68 The 
+33 
+decomposition into solid electrolyte interphase (SEI) entails irreversible Liloss  particularly an 
+34 
+issue for industrially attractive zeroLiexcess battery cells.9 Irreversible Li loss from SEI formation 
+35 
+may be mediated in three ways (i) by limiting the contact area between the solidelectrolyte and 
+36 
+anode10,11, (ii) by adding sacrificial Li agents such as for instance Li3N to the cathode 12,13 or (iii) 
+37 
+by designing solid electrolytes which are thermodynamically stable at the operating potentials of 
+38 
+lowpotential anodes. 39 
+Irreducible or fully reduced phases are thermodynamically stable against Li metal and are thus 
+40 
+inherently irreducible against lowpotential anodes. Irreducible refers to all elements (except for 
+41 
+Li) in the material being in their lowest possible formal oxidation state (i.e.

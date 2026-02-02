@@ -1,0 +1,18 @@
+Description:
+The key initial step for converting the molecule into valuable products.
+
+Text:
+Theoretical approaches like those based on density func
+tional theory (DFT),38 can elucidate specific processes re
+lated to reactivity, such as surface reaction elementary steps.39
+For instance, it is possible to model the CO2 activation, the
+key initial step for converting the molecule into valuable
+products.40,41 Several DFT studies model the full reaction
+path for the CO2 conversion, on SAAs, to different products
+like methanol and Ethylene.42,43
+Artificial Intelligence (AI) can accelerate the discovery of
+promising materials by identifying correlations and patterns in
+data.44 Nonetheless, only few SAAs might present the prop
+erties required for them to be useful in a specific application. This is often the case in catalysis, where only a handful of
+compounds are known as efficient catalysts (active, selective,
+and stable during operation).

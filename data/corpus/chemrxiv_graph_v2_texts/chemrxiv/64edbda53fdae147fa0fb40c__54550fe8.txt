@@ -1,0 +1,40 @@
+Description:
+Salts that are extensively studied as chiral phase-transfer catalysts.
+
+Text:
+However, the pursuit of a general
+approach to achieving exceptional enantioselectivity in asymmet
+ric ion pairing catalysis faces notable challenges stemming from
+the inherent directionless nature associated with ion pairing in
+teractions, in contrast to the discernible behaviour exhibited by
+hydrogen bonding and covalent interactions.1,311 Enantioselec
+tive ion pairing catalysis encompasses a diverse array of small
+organic molecules, amongst which quaternary ammonium salts
+have emerged as the most extensively studied class of chiral
+phasetransfer catalysts (PTCs). These catalysts feature a nitrogen atom positioned at the cen
+tre of a tetrahedron formed by carbon atoms, with three sterically
+hindered faces, resulting in a single accessible face for anion inter
+action, thereby facilitating the establishment of ion pairs (Figure
+1 a).
+
+
+---
+
+Description:
+Salts with a general structure used in asymmetric ion pairing catalysis.
+
+Text:
+The successful use of electrostatic interactions between the
+ammonium cation and the counterion holds significant promise
+a School of Chemistry, Trinity College Dublin, The University of Dublin, 154160 Pearse
+Street, D02 R590 Dublin, Ireland
+b
+Present address Departament de Qumica, Universitat Autnoma de Barcelona,
+08193, Bellaterra, Catalonia, Spain. c
+Present address Department of Chemistry, The University of Manchester, Oxford
+Road, M13 9PL Manchester, UK. Email cristina.trujillodelvallemanchester.ac.uk
+ Electronic Supplementary Information (ESI) available Zenodo link. See DOI
+10.5281zenodo.816122. in the induction of chiral information, thus enabling asymmetric
+induction (Figure 1 b).4
+Fig. 1 a) General structure of quaternary ammonium salts b) Concept
+of asymmetric ammonium ion pairing catalysis.

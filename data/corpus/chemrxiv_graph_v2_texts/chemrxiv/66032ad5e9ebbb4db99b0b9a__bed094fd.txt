@@ -1,0 +1,33 @@
+Description:
+Accumulates in cells contributing to ferroptotic cell death.
+
+Text:
+In general, enzymes that are involved in 
+H2O2 production, the oxidation of phospholipids andor 
+accumulation of Fe2 in cells contribute to ferroptotic cell 
+death, whereas enzymes that inhibit lipid oxidation, reduce 
+lipid peroxides andor remove Fe2 protect cells from 
+ferroptosis.3 A central node of the ferroptotic pathway is 
+GPX4.4,5 This antioxidant enzyme reduces lipid peroxides 
+to the corresponding alcohols through an interplay be
+tween the activesite selenocysteine and the cofactor gluta
+thione (GSH).6 The induced global deletion of Gpx4 in mice 
+causes acute renal failure and associated death.5 Apart 
+from renal failure, ferroptosis has been implicated in a 
+variety of tissue7 and organ injuries810 as well as neuro
+degenerative,11,12 cardiovascular,13 inflammatory14 and 
+infectious diseases.15 A key connection was uncovered 
+between the progression of ischemia reperfusion (IR)
+inducedacute organ damage and ferroptotic cell death in 
+the lungs, heart, liver and intestinal tract has been exten
+sively studied and validated in animal models.5,8,9,13 Re
+markably, the pharmacological inhibition of ferroptosis 
+with radical trapping antioxidants (RTAs)16 protect against 
+synchronizing kidney tubular cell death in both severe IR
+induced injury as well as oxalate crystalinduced models 
+of acute kidney injury.17 These ferroptosis inhibitors have 
+also shown beneficial effects in models for brain injuries 
+and neurodegenerative disorders,18 such Parkinsons dis
+ease,19 Huntingtons disease7 and hemorrhagic stroke.20 
+Several natural RTAs have been identified as anti
+ferroptotic defense mechanisms, such as vitamin E (e.g.

@@ -1,0 +1,14 @@
+Description:
+Used as an anode in solid-state batteries.
+
+Text:
+Solidstate batteries are considered as one of the most promising next generations of 
+energy storage technologies with a potential to revolutionize electric vehicles (EVs), due 
+to their high energy density and intrinsic safety1. Here, the solid electrolyte is key since it 
+allows the utilization of Li or Si as anode and the possibility to have bipolar cell 
+configurations. Hence, several solid electrolytes have been explored, whereby most of 
+them fall into two groups2 (i) Oxidebased solid electrolytes, such as garnettype 
+Li7La3Zr2O12 and NaSICONtype Li1xAlxTi2x(PO4)3 and (ii) sulfides, such as thio
+LISICONtype Li10GeP2S12 (LGPS) and Argyroditetype Li6PS5Cl (LPSCl). Of most solid 
+electrolytes, LPSCl is considered one of the promising candidates, owing to its high ionic 
+conductivity, favorable mechanical performance, and ease in processing3.

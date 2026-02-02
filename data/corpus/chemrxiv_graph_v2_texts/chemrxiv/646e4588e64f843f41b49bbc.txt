@@ -1,0 +1,19 @@
+Description:
+Synthetic plastics that can be depolymerized by plastic-degrading hydrolases.
+
+Text:
+Among millions of tons of synthetic plastics generated annually (constituting 30 
+polyesters3), a mere 12 is recycled worldwide.1,46 The microand nanoplastics accumulated 
+in soil and marine biomes are challenging to recycle7,8 due to their low concentrations and 
+small sizes.911 Extracting value from waste plastics requires processes that yield products at 
+low environmental and economic costs.12 
+The discovery of plasticdegrading hydrolases opens a new avenue for polyester 
+depolymerisation, by which the enzymatic process scan be performed at nearneutral pH (6
+8), and moderate temperatures (2565C) with low operating costs.13,14 Active polyethylene 
+terephthalate (PET) hydrolases have been reported, such as IsPETase (obtained from I. 
+sakaiensis)15, and its more robust variant DuraPETase (Dura) with a 300fold enhanced 
+activity on PET degradation (crystallinity 30) compared to the original at 37 C.16 Enzymatic 
+plastic degradation also demonstrated industrial feasibility with a variant of leafcompost 
+cutinase (LCC) depolymerising postconsumer PET waste with low energy input.17 However, 
+enzymatic depolymerisation has only been demonstrated as a preliminary step for virgingrade 
+PET regeneration, in which the product range is limiting and of low value.

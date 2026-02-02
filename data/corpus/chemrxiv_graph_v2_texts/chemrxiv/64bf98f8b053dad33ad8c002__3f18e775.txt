@@ -1,0 +1,28 @@
+Description:
+Elements used in phototriggered complexes to activate carbon-hydrogen bonds.
+
+Text:
+Carbonhydrogen (CH) bonds are among the strongest chemical linkages in nature and thus inherently 
+unreactive. Still, manipulating carbonhydrogen bonds holds the key to numerous molecular 
+transformations that are essential in organic and metalorganic synthesis within the context of green 
+chemistry, the design of new pharmaceuticals or the transformation of low molecular weight 
+hydrocarbons to high energy density liquid fuels (1). However, since CH bonds lack considerable 
+polarity, their manipulation via activation and functionalization is challenging due to significant energy 
+barriers needed to be overcome under ambient conditions. One way of activating CH bonds is using 
+phototriggered transition metal complexes (2, 3).
+
+
+---
+
+Description:
+Involved in photochemical CH activation by forming a low-valent reactive metal center.
+
+Text:
+Photochemical CH activation with transition metal 
+complexes, involves the dissociation of one or several ligands from the photoexcited transition metal 
+complex in a roomtemperature solution to generate a lowvalent reactive metal center that then 
+facilitates CH bond cleavage in alkanes from solution. The most common metal complexes effectuating 
+photoinitiated CH activation are second or third row transition metal carbonyls and dihydrides, where 
+the loss of a carbonyl or dihydride ligand creates a reactive metal center. The open coordination site at 
+the metal then enables the binding of an alkane to form a socalled alkane complex followed by 
+subsequent CH bond cleavage in an oxidative addition step by insertion of the metal into the CH bond.

@@ -1,0 +1,12 @@
+Description:
+Radicals used in dynamic nuclear polarization (DNP) experiments at 80 K.
+
+Text:
+Here, we illustrate the predictive strength of singlespin vector
+model by comparing analytical calculations with experimental DNP results at 9.8 GHz15 MHz on
+trityl radicals at 80 K. The second case operates in the highpower regime, where we combine the
+underlying singlespin vector design principles with numerical nonlinear optimization to optimize
+the balance between the linear terms and the bilinear Fourier coefficients in a figure of merit func
+tion. We demonstrate, numerically and experimentally, a broadband DNP pulse sequence PLATO
+(PoLarizAtion Transfer via nonlinear Optimization) with a bandwidth of 80 MHz and optimized
+for microwave field a with maximum (peak) amplitude of 32 MHz.

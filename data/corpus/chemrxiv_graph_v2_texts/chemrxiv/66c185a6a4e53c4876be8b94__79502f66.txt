@@ -1,0 +1,18 @@
+Description:
+Simpler systems have demonstrated tractability at near ambient pressures using machine learning surrogate models for DFT and first-principles thermodynamics.
+
+Text:
+Specifically, the pressurecomposition
+temperature (PCT) phase behavior of the LuNH sys
+tem has yet to be predicted, i.e., the expected N and H
+concentrations as a function of N and H chemical poten
+tials (temperatures and partial pressures). More gener
+ally, quantitative prediction of PCT behavior 2628 is
+difficult due to the computational cost of density func
+tional theory (DFT) and the required highthroughput
+sampling of the potential energy surface of hydrogen
+and metal alloy interactions; nonetheless, tractability has
+been demonstrated for simpler metal hydride systems at
+near ambient pressures by combining machine learning
+surrogate models for DFT and firstprinciples thermo
+dynamics 29.

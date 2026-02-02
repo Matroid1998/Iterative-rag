@@ -1,0 +1,15 @@
+Description:
+A stabilizing ligand that strongly inhibits the catalytic activity of Au NPs.
+
+Text:
+The supported catalysts often exhibit decreased 
+activity as compared to colloidal NPs,31 and suffer from nanoparticle migration and aggregation, 
+irregular distribution and regrowth, and weak affinity of metal NPs to supports, resulting in increased 
+leaching.2 The applicability of MOFembedded metal NP in catalysis is often limited due to MOF 
+stability issues under catalytic conditions.32 Finally, the surface capping agents can not only inhibit 
+aggregation but also block the active sites on the NP surface, leading to reduced catalytic 
+activities.23,24,33 A typical example would be the strongly inhibiting effect of lowweight thiolated 
+polyethylene glycol (HSPEG) as stabilizing ligand on the catalytic activity of Au NPs towards the 
+reduction of 4nitrophenol.23 Considering the aforementioned aspects, the development of new 
+stabilizers that can effectively stabilize metal NPs without blocking the active sites and the diffusion 
+of the reactants and products to and from the metal surface is of paramount importance in catalysis.

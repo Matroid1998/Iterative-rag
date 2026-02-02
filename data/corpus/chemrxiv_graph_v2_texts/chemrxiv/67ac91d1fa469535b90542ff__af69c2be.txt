@@ -1,0 +1,13 @@
+Description:
+A leaving group in nucleophilic aromatic substitution reactions.
+
+Text:
+Nucleophilic aromatic substitution (SNAr) reactions are widely employed in both 
+academic and industrial settings to structurally modify aromatic ring scaffolds.15 While the 
+electronrich system in aromatic molecules typically makes them react as nucleophiles in 
+substitution reactions,68 several strategies have been developed to render them susceptible 
+to nucleophilic attack.1,6,911 The most common strategy involves functionalization of the 
+aromatic ring with electronwithdrawing groups (EWGs), which reduce the electron density on 
+the arene. This facilitates nucleophilic addition at the position bearing a leaving group, such 
+as F or Cl, leading to the formation of a Xadduct (Fig. 1a), also known as the Jackson
+Meisenheimer complex.

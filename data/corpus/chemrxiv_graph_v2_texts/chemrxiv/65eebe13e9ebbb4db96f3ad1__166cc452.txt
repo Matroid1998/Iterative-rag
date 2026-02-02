@@ -1,0 +1,10 @@
+Description:
+An element used to alloy with iridium in catalyst powders.
+
+Text:
+This decreased catalyst utilization comes along with significant performance losses.1012 
+To overcome the problems associated with too thin catalyst layers, the iridium content in the catalyst powder should be decreased to enable 
+the fabrication of sufficiently thick catalyst layers with low iridium loadings. In other words, advanced electrode architectures require a high 
+electrode thickness factor, which per definition is the electrode thickness as a function of catalyst loading. 1,8,13 
+Common strategies to reduce the iridium content in the catalyst powder are either to alloy iridium with more abundant elements or to 
+support the iridium. Alloying has been shown with many different elements, such as Fe14, Cr15, and Ni14,16.

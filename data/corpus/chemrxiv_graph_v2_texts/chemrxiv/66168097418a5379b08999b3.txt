@@ -1,0 +1,19 @@
+Description:
+Formed through hydrazone formation in dynamic combinatorial libraries.
+
+Text:
+Molecules in dynamic combinatorial libraries react with one 
+another reversibly to form a network of library members.1 Such 
+dynamic combinatorial chemistries generate a mixture of 
+compounds that interconvert into one another. Processes like 
+selfassembly,2 folding,3 or hybridization can displace the 
+equilibria, leading to emergent phenomena like replication.4 For 
+example, library members who assemble are thermodynamically 
+favored and can thus be selected. Various dynamic covalent 
+bonds have been explored to create dynamic combinatorial 
+libraries, including metathesis,5 hydrazone formation,6 disulfide 
+exchange,7 peptide bond formation, 8 or transamination9. Such 
+dynamic combinatorial libraries serve as a great model for the 
+cellular reaction networks, which are also dynamic combinatorial 
+libraries. For example, building blocks like nucleotides or amino 
+acids form a vast library of oligonucleotides and proteins.

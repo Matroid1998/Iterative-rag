@@ -1,0 +1,13 @@
+Description:
+A reagent used to install one deuterium atom by reaction with an aldehyde.
+
+Text:
+. Recently, several reports have documented the oxidation of monodeuterated alcohols to deuteratedenriched 
+aldehydes at synthetically useful levels (8598 atom D) by exploitation of a kinetic isotope effect (KIE).1,2,3,4 
+These methods provide a convenient alternative to preexisting syntheses of C1deuterated alcohols5,6 since they 
+allow the use of the relatively inexpensive NaBD4 to install one deuterium atom by reaction with an aldehyde, 
+followed by reoxidation using standard oxidation reagents. The oxidation reagents reported to be successful so 
+far for this latter process are pyridinium chlorochromatesilica,1 manganese dioxide2 and pyridinium 
+chlorochromate.3,4The Swern oxidation78 has also been examined by Giagou and Meyer in 2010 in comprehensive 
+experimental and computational analysis of this aspect,9 finding a relatively low KIE of 3 which would limit the 
+level of deuterium enrichment.

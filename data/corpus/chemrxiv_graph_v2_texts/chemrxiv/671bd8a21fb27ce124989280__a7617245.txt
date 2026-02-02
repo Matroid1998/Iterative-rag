@@ -1,0 +1,30 @@
+Description:
+A chemical compound that can store free energy and release it through exothermic reactions without emitting greenhouse gases.
+
+Text:
+Increasing energy demand due to population and industrial growth is rapidly depleting the 
+limited resources available worldwide. Most of the global energy demand is met by using fossil 
+fuels due to their high energy density. However, the excessive use of these fuels leads to climate 
+change, as they release significant amounts of greenhouse gases, such as carbon dioxide. Using 
+renewable sources like solar energy can mitigate the dependence on fossil fuels and reduce 
+greenhouse gas emissions. However, solar energy is an intermittent energy resource, and thus 
+cannot provide a consistent supply, matching with our current energy consumption practices. However, free energy can be stored within the chemical bonds of chemical compounds such as 
+hydrogen, and controllably released through exothermic reactions without emitting greenhouse 
+gases 1.
+
+
+---
+
+Description:
+Produced in the hydrogen evolution reaction (HER) during PEC water splitting.
+
+Text:
+Photoelectrochemical (PEC) water splitting is a promising technology to generate and store 
+green energy as it directly converts solar energy into chemical energy by splitting water into 
+hydrogen and oxygen. The PEC water splitting process consists of two halfreactions the oxygen 
+evolution reaction (OER), occurring through a fourelectron process in the photoanode, and the 
+hydrogen evolution reaction (HER), occurring through a twoelectron process in the photocathode 
+2. The OER is the key limiting step in the PEC water splitting since it is mechanistically more 
+complex and associated with higher overpotentials than the HER. Therefore, a lot of scientific 
+effort has been devoted to developing more efficient photoanode materials 35. Tungsten trioxide (WO3) is a widely used photoanode material in PEC water splitting, 
+recognized for its exceptional properties.

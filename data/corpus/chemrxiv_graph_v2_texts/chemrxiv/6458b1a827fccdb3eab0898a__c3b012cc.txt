@@ -1,0 +1,11 @@
+Description:
+A photosensitive anode used in photoelectrochemical cells to split water.
+
+Text:
+Since 1972, when Fujishima and Honda 8 first proposed the concept of using photosensitive 
+anodes, like TiO2, in dedicated photoelectrochemical (PEC) cells to split water, a major research 
+effort has been devoted to optimizing semiconductor photoelectrodes, to match a list of needed 
+properties regarding i) light absorption, ii) surface kinetics during electrochemical reactions, iii) 
+charge separation and bulk electrical conduction, iv) chemical composition and stability, etc. 913. Since common materials do not meet all requirements, band engineering is explored intensively to 
+overcome intrinsic materials drawbacks. The principal target for these studies is achieving the 
+maximum generated photocurrent for the minimum energy input.

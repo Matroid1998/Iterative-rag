@@ -1,0 +1,20 @@
+Description:
+A C2 compound that can be produced from CO2 electroreduction using copper-based catalysts.
+
+Text:
+In contrast with conventional commercial methods, 
+43 
+such as CO2 hydrogenation or the FisherTropsch processes, CO2 ER can be conducted under ambient 
+44 
+temperatures and pressures using modular, scalable and decentralized units14. Copperbased catalysts are 
+45 
+the most selective materials known to unlock CO2 ER towards C2 compounds, such as ethanol and 
+46 
+ethylene10,1517 and other multicarbon hydrocarbons. And compared to other metal catalysts, copper 
+47 
+exhibits a relatively lower selectivity towards hydrogen evolution, leading to unmatched Faradaic 
+48 
+efficiencies for CO2 ER18. 49 
+In the last two decades, numerous studies1921 attempted to optimize the catalytic activity, the energy 
+50 
+efficiency, and the selectivity of copper.

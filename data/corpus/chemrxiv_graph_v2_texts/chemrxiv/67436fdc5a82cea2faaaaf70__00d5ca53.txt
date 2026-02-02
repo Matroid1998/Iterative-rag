@@ -1,0 +1,13 @@
+Description:
+Relates to a theoretical capacity of 300 mAh g1 in the investigated voltage range.
+
+Text:
+Considering this range, the theoretical capacity 
+of Li2FeS2 amounts to 400 mAhg1, exceeding the theoretical capacity of NCM811 that 
+is 280 mAh g1 but coming at the disadvantage of a lower potentials of operation. Nonetheless, Hansen and coworkers10 recently proposed that the reaction is limited to 
+the chemical space between Li2FeS2 and Li0.5FeS2 relating to a theoretical capacity of 
+300 mAh g1 in the investigated voltage range, as corroborated by other reports.11 This 
+conclusion is reached by stateofcharge dependent characterizations using insitu X
+ray diffraction as well as exsitu Fe and S Kedge XANES experiments.10 The proposed 
+reaction mechanism is as follows10,12,13 first the delithiation of Li2FeS2 to Li1.5FeS2 is 
+charge balanced by the oxidation of Fe2 to Fe3.

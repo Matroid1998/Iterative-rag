@@ -1,0 +1,10 @@
+Description:
+A neurotransmitter that acts on dopamine receptors, such as the D4 dopamine receptor.
+
+Text:
+On the other hand, structurebased virtual screening of such libraries has produced hits of
+exceptional quality for several targets (see, e.g., Lyu et al. 2, Stein et al. 3, and Kaplan et al. 6). One key study to motivate the work with such large libraries was presented by Lyu et al. 2 Their
+docking of around 100 million compounds to two targets, lactamase AmpC, and D4 dopamine
+receptor, did not only result in the discovery of novel ligands for both targets, but they made critical
+observations for many studies to follow Firstly, they found that if docking enriches true positives
+over decoys on the small scale, enrichment can be expected to be translated to the ultralarge scale.

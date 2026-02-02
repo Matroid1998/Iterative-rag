@@ -1,0 +1,12 @@
+Description:
+A compound involved in reduction reactions facilitated by photocatalysts.
+
+Text:
+Photocatalysts 1 are materials that facilitate photoreactions under light irradiation, typically by 
+absorbing photons and generating electronhole pairs that drive chemical transformations 2. These materials are integral to various applications, including water splitting, carbon dioxide 
+reduction, and environmental remediation. In the context of hydrogen evolution reaction (HER), 
+photocatalysts absorb light and utilize the energy to drive the reduction of protons to hydrogen, a 
+clean energy carrier. The efficiency of photocatalysts in HER is heavily influenced by their 
+electronic structure, light absorption properties, and charge transfer capabilities 3. Therefore, 
+enhancing these properties through modifications, such as doping or structural design, has become 
+a focal point for improving the performance of photocatalytic materials. One approach to improving photocatalytic activity is through nitrogen doping.

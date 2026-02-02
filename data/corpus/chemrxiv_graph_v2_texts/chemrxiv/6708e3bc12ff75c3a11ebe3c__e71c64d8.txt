@@ -1,0 +1,10 @@
+Description:
+A stimuli-responsive polymer that changes conformation with variations in pH.
+
+Text:
+To impart selfregulated separation properties, membranes can be fabricated from polymers that adapt 
+their structure in response to the physicochemical conditions in the local environment.9 Stimuli
+responsive polymers such as polyacrylic acid (PAA), polyvinyl alcohol or poly(Nisopropylacrylamide) 
+change their conformation upon variations in pH10, temperature11, or the exposure to light12. For 
+example, the stimuliresponsive swelling of hydrogel polymer membranes allows to control the 
+permeation of fluids13,14, the gating of ions15,16 and the rejection of small molecules17.

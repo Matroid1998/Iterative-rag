@@ -1,0 +1,19 @@
+Description:
+Components of Lewy Bodies, which are intracellular inclusions in neurodegenerative diseases.
+
+Text:
+synuclein is a protein normally involved in synaptic vesicle
+transport and exocytosis for neurotransmission13. Aggregation
+of synuclein is a primary feature of the synucleinopathies, such
+as Parkinsons Disease (PD), multiple system atrophy (MSA) and
+Lewy Body dementia (LBD)47. Neuropathological examination
+of PD and LBD brains reveals the formation of intracellular inclu
+sions called Lewy Bodies (LBs)46,810. LBs are spherical struc
+tures consisting of aggregated synuclein in an amyloid con
+formation1114, lipids, organelles and other proteins, such as cy
+toskeletal proteins810. While the pathological importance of LBs
+has been well known for decades, the mechanism behind their
+a Department of Biotechnology and Biomedicine, Technical University of Denmark,
+Sltofts Plads, 2800 Lyngby, Denmark
+b Bioinformatics group, Computer Science Department, Vrije Universiteit Amsterdam,
+De Boelelaan 1111, 1081HV, Amsterdam, The Netherlands.

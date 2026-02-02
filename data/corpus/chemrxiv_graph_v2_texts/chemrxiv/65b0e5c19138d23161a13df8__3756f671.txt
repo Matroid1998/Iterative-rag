@@ -1,0 +1,29 @@
+Description:
+Quinone-based redox-active organic electrode materials with high theoretical specific capacity and ease of synthesis.
+
+Text:
+Their structures are adjustable and their electrochemical properties are tunable, they can have a 
+high energy density and long cycling stability, and the solidstate diffusion of ions is not 
+relevant in their performance. Among the quinonebased redoxactive organic electrode 
+materials, pillarquinones and calixquinones are particularly attractive due to their high 
+theoretical specific capacity (446 mAh g1) and ease of synthesis.5 Each parabenzoquinone 
+panel in these macrocycles can be reduced by up to two electrons with concurrent uptake of 
+metal cations from the electrolyte. In addition, these macrocyclic quinones possess a cavity and 
+thus have intrinsic porosity, which can improve ion diffusion in the electrode.
+
+
+---
+
+Description:
+Investigated in Li-based cells and as positive electrodes in SIBs and other battery chemistries.
+
+Text:
+Pillar5quinone 
+(P5Q), for instance, features a cavity radius of 4.128  and therefore has low steric hindrance 
+as well as high molecular symmetry.14 Both P5Q and calixquinones (calixnquinone, n  4, 6, 
+and 8) have been investigated in Libased cells,1520 and recently, P5Q and C4Q were also 
+investigated as positive electrodes in SIBs and other battery chemistries.2125 As these 
+macrocyclic quinones in their neutral or reduced state are usually soluble in aprotic liquid 
+battery electrolytes, which severely reduces their cycling stability, a mitigation strategy has to 
+be applied. These strategies generally include carbon encapsulation, salt formation of the active 
+httpsdoi.org10.26434chemrxiv2024v9znj ORCID httpsorcid.org0000000224301380 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

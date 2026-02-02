@@ -1,0 +1,17 @@
+Description:
+Thermoplastic commonly used in extrusion-based 3D printing.
+
+Text:
+The liquid materials are injected as droplets 
+through nozzles and quickly solidify to form a layer of material based on the path of computeraided 
+design (CAD). Materials in fluid phase or suspension type like polymers, nanoparticles, metals, ceramics, 
+and biorelated materials are applicable to this method.5 
+Extrusion 
+Extrusion uses a nozzle to deposit the heated material layer by layer on the path determined by CAD 
+software to build up the 3D product. Solid materials like thermoplastics, for instance, polyamides, 
+polylactic acid, acrylonitrile butadiene styrene copolymer (ABS) are often used with this method.6 
+
+Photopolymerization 
+One typical example of photopolymerizationbased 3D printing is stereolithography (SLA). SLA uses a 
+laser to selectively cure the photopolymer from top to bottom, layer by layer while lowering the 
+platform inside the liquid resin tank.

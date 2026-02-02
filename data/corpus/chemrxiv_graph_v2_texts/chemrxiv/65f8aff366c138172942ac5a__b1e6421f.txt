@@ -1,0 +1,48 @@
+Description:
+A promising anode material with a high theoretical specific capacity of 4200 mAh/g for Li22Si5.
+
+Text:
+Lithiumion batteries have become a norm for energy storage these days. Many advances
+to increase their efficiency have been proposed. In the realm of material science, electrode,
+electrolyte, and separator are interesting design elements. Specifically focusing on anodes,
+several materials are being explored such as graphitic materials, metals, metal oxides, and
+metal phosphide.1 A key material explored is silicon. The obvious reason for silicon being
+a promising candidate is its high theoretical specific capacity (4200 mAhg for Li22Si5 2)
+compared to the current graphite anode (372 mAhg3). Furthermore, silicon is the second
+most abundant element in the earths crust, making it a readily available material.
+
+
+---
+
+Description:
+Used in anodes that experience capacity loss due to volumetric changes during cycling.
+
+Text:
+However,
+its practical implementation is limited by a main bottleneck, the huge volumetric expansion
+after lithiation (310 for Li22Si5 4) which causes a large buildup of stress, resulting in the
+pulverization of the material and immediate capacity loss during cycling.59 An example is
+the loss of 70 of the capacity of silicon anode made from 10 m silicon powder within the
+first five cycles.10 There has been a surge in research output to tackle this bottleneck over
+the past decade.11 Specifically, one focus of research is on using micronano sized particle
+silicon anodes as they have been shown to resist cracking and accommodate the volumetric
+change.1113 However, the improvement is still not sufficient for practical application.
+
+
+---
+
+Description:
+Undergoes volume expansion upon lithiation, creating mechanical stress due to strong covalent bonds.
+
+Text:
+Other
+cutting edge research concentrates on modifying the anode by the formation of alloys,1416
+composites,1719 coreshell structures,20,21 films22,23 and porous systems.24,25
+On the fundamental aspect, unavoidable volume expansion in each crystalline grain of
+silicon upon lithiation creates important mechanical stress in the material, responsible for
+rupture. A major mechanism to relieve this stress would be to allow facile sliding at the
+grain boundaries.26,27 Previous experimental observations of GB sliding have been predomi
+nantly limited to metallic materials such as Al, Cu, Sn, Zn, and Mg.2832 To our knowledge,
+there has been no work in the literature for GB sliding in silicon. This comes from the fact
+that silicon has strong covalent bonds, which may render GB sliding highly activated and
+inoperative at near ambient temperature.

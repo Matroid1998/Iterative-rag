@@ -1,0 +1,17 @@
+Description:
+A solid electrolyte with increased ionic conductivity when containing nanosized grains.
+
+Text:
+Crucial to the operation
+of solidstate batteries is the solid electrolyte, which must be able to compete with more
+traditional liquid electrolytes with regards to ionic conductivity.15 Solid electrolytes are often
+produced through the sintering of powders, yielding structures in which grain boundaries
+(GBs) are highly prevalent.6,7 GBs should be expected to have profound impacts on the
+performance of a device throughout its lifetime, some of which can be positive, such as the
+observed increase in ionic conductivity of Li3PS4 containing nanosized grains.8 However, GBs
+are generally considered to be performance bottlenecks in solid electrolytes and can cause
+decreased ionic conductivity9,10 and even device failure through the propagation of lithium
+dendrites, leading to short circuits.11,12
+Clearly, an indepth understanding of the impact of GBs on solid electrolytes is essential,
+but given that there is a huge variety of candidate electrolyte materials,1315 this is a not
+a trivial feat.

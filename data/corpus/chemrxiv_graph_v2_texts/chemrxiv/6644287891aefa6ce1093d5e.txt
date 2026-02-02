@@ -1,0 +1,30 @@
+Description:
+Involved in intercalation-deintercalation kinetics critical to the power characteristics of Li ion batteries.
+
+Text:
+While research and development efforts have 
+been focused on the electrodes and the electrolytes to boost the energy density,13 little is known 
+about the intercalationdeintercalation kinetics of the Li ions,46 which is critical to the power 
+characteristics of Li ion batteries.7 Generally, the intercalation kinetics can be governed by two 
+distinct steps adsorption of Li ions at the electrified electrodeelectrolyte interface from the 
+electrolyte, and the transfer of Li ions from the adsorbed state to the intercalated state coupled 
+with electron transfer and electrode reduction.810 The deintercalation kinetics can have these 
+processes in reverse, and enhancing our understanding of the underlying molecular processes in 
+both intercalation and deintercalation is crucial in achieving the higher performing batteries.11 
+The Li ion adsorption kinetics are tied to Li ion energetics in the bulk electrolyte,12 at the 
+electrified electrodeelectrolyte interface,13 and at the electrode surface,14,15 from which the driving 
+force for Li ion adsorption and the thermodynamic barrier against Li ion adsorption can be 
+extracted.
+
+
+---
+
+Description:
+Ions that associate with anions in the electrolyte, affecting activation energy for adsorption into graphite.
+
+Text:
+In another study, using Raman 
+spectroscopy and AC impedance spectroscopy, Uchida et al.30 reported that increasing the 
+association between Li ions and anions in the electrolyte reduces the activation energy for Li ion 
+adsorption from the electrolyte into the graphite. Using enhanced sampling molecular dynamics 
+httpsdoi.org10.26434chemrxiv2024hn926 ORCID httpsorcid.org0000000233426484 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

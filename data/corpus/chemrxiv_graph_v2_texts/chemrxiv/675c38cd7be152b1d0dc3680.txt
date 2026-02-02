@@ -1,0 +1,11 @@
+Description:
+A material with ultramicroporous pores used as an electrode in capacitors.
+
+Text:
+of a sieving carbon with ultramicroporous pores (d  0.69 nm) as one 
+electrode material an effective blocking of ions with sizes below the pore size of the carbon can 
+be achieved, leading to a unidirectional charging comparable to a diode (CAPode). This 
+working capacitor (WCap) was further expanded by introducing a third (gate) electrode 
+enabling a control of current and voltage output of the WCap depending on the applied gate 
+bias between gate electrode and counter electrode of the WCap resembling transistor features. By varying the gate bias voltage, the potentials and therefore the working window of the W
+httpsdoi.org10.26434chemrxiv20243pt2b ORCID httpsorcid.org0009000861749126 Content not peerreviewed by ChemRxiv.

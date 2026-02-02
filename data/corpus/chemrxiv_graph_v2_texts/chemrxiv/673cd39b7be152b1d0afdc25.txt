@@ -1,0 +1,15 @@
+Description:
+A functional group that can undergo cleavage or reaction to form AuC bonds.
+
+Text:
+In addition to dative anchor groups, covalent anchors have been reported to yield stable 
+and highly conductive molecular junctions11. However, direct formation of AuC covalent 
+bonds in molecular junctions is challenging and typically requires cleavage or reaction of 
+functional groups such as iodine12, alkyne13,14, or diazonium15,16 to generate AuC bonds 
+through in situ reactions. Recently, oriented external electric fields17,18 have gained 
+increasing attention for their ability to reorganize the electron distribution of molecules, 
+stabilize chargeseparated resonant forms, and promote nonredox reactions19.This prior 
+work suggests that it may be possible to form dynamic anchors in nanoscale junctions 
+under external electric fields without the need for cleavage of functional groups, which 
+could provide a new molecular junction binding mechanism for single molecule 
+electronics.

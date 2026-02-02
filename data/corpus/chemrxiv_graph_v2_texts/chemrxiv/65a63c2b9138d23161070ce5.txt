@@ -1,0 +1,12 @@
+Description:
+A reference electrode potential used in electrochemistry.
+
+Text:
+Firstly, increasing the electrode potential (vs the reversible hydrogen electrode 
+(RHE)) shifts the glycerol oxidation selectivity from weakly to strongly oxidized products. More 
+specifically, the dominant products shifts from glyceraldehyde (at less than 0.9 V vs RHE) to glyceric 
+acid and tartronic acid (between 0.9 V and 1.2 V vs RHE), and finally to formic acid (at 1.44 V vs 
+RHE).7,9,1113 The formation of formic acid means that Pt is able to break CC bonds, but only under 
+very strong oxidizing conditions.11 Secondly, when glyceraldehyde is produced under alkaline 
+conditions, it quickly isomerizes in solution and turns into lactic acid.13,21 Thirdly, another way to 
+favor more oxidized products is to lower the glycerol concentration.

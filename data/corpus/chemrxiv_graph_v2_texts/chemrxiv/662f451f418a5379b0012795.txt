@@ -1,0 +1,18 @@
+Description:
+A solvent supported in hybrid physicalML modelling.
+
+Text:
+With this setup, an error of RMSE(logS) 0.7 was
+obtained, which is close to the experimental accuracy of 0.71.0
+log units for druglike molecules.5,24 While this work does illus
+trate the advantages of hybrid physicalML modelling, it is still
+somewhat restricted from a practical point of view it requires
+expensive ab initio calculations, supports a limited set of solvents
+(acetone, benzene, and ethanol), and requires the experimental
+melting point. Vassileiou et al.25 further support the observation that hy
+brid physicalML approaches lead to improved predictive per
+formance. Here, the conductorlike screening model for real
+solvents (COSMORS) with RMSE(logS) 1.0 is critically com
+pared against machine learning on 2D descriptors (RMSE(logS) 
+0.92), as well as hybrid models thereof, with hybrid models
+(RMSE(logS) 0.8) giving the best results.

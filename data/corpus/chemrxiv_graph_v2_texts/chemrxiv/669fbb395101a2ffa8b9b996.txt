@@ -1,0 +1,13 @@
+Description:
+A dopant used in nanocrystals to study electronic properties and bandgap widening.
+
+Text:
+Thus, dopant effects on the electronic properties of the host 
+NC cannot be disentangled from quantum confinement effects. Here, we describe such a method, resulting in sizetuneable NCs doped with highly controlled dopant 
+concentrations of various metals tested (Mn2, Ni2, or Zn2), working under ambient conditions at room 
+temperature. We validate and quantity lattice doping using electron paramagnetic resonance (EPR), the 
+dopantinduced bandgap widening, and inductively coupled plasma mass spectrometry (ICPMS). Using 
+timeresolved optical spectroscopy, we study the now accessible series of NCs with systematically varied 
+size and doping concentration and find surprisingly that the dopinginduced carrier dynamics modulation 
+persists independent of the level of quantum confinement. Further, the developed method is simple, 
+scalable, and can be performed at room temperature, paving the way for future technological relevance.

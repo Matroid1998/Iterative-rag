@@ -1,0 +1,30 @@
+Description:
+Forms allotropes with mechanical properties similar to diamond, including extreme hardness.
+
+Text:
+Carbon allotropes that exhibit mechanical properties similar to those of diamond, in particular, 
+extreme hardness, continue to be a subject of significant interest within the scientific community. Both the predominant cubic diamond and the less common hexagonal form (lonsdaleite) 
+exhibit ultrahardness due to the threedimensional arrangement of C4 tetrahedra with purely 
+sp3hybridization of the carbon atoms. In terms of topology, cubic and hexagonal diamonds are 
+the aristotypes, designated as dia and lon, respectively 1. This nomenclature is also applicable 
+to other families of carbon allotropes. The introduction of additional carbon atoms results in 
+alterations to the C(sp3) lattice of diamond, giving rise to novel C(sp3)C(sp2) hybrid allotropes 
+that retain the original physical properties, including electronic ones, which can lead to induced 
+metallicity 2.
+
+
+---
+
+Description:
+A fundamental element known for forming a wide variety of compounds.
+
+Text:
+In the case of the nearest neighbors of carbon, boron and nitrogen, equiatomic 
+cubic boron nitride (cBN) has been synthesized, which is half as hard as diamond but exhibits 
+much higher thermal and chemical stability 3. Research efforts to identify new superhard phases of compounds of light elements require the 
+use of structure prediction programs such as USPEX 4 and CALYPSO 5. However, novel 
+structures can also be identified through the application of crystal engineering rationale as 
+presented here. In all cases, such predictions must be validated by the quantitative study of 
+energies and the derived physical properties using firstprinciples calculations. Over the years, 
+the wellestablished quantum mechanics framework of the density functional theory (DFT) 6,7 
+has proven to be the most efficient.

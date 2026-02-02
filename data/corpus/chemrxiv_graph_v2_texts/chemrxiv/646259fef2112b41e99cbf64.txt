@@ -1,0 +1,14 @@
+Description:
+Part of the Lithium Super Ionic Conductor (LISICON) family known for high ionic conductivities.
+
+Text:
+As a result, liquid solvents7,8 or poly(ethylene oxide) (PEO)9,10 are often incorporated into SIC 
+polymers to facilitate ion conduction via cation solvation, though such strategies remain limited by 
+inherently slow polymer segmental relaxation (in the case of PEO blending),11 or they may reduce 
+electrolyte stabilitysafety (in the case of solvent addition).3,12 
+Inspired by the high ionic conductivities of solid ceramic ion conductors such as the Lithium Super Ionic 
+Conductor (LISICON) family,13 recent SPE designs have sought to exploit an ionhopping or decoupled 
+mechanism, wherein cations move between relatively stationary anionic sites at rates that are decoupled 
+from polymer segmental relaxation,11 the latter of which is inherently unable to provide cation mobility 
+on par with ceramics and liquids.14 Decoupled ion conduction is thought to be favored in materials that 
+possess crystalline andor highlyordered, rigid anionic channels.

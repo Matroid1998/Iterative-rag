@@ -1,0 +1,19 @@
+Description:
+Fuels that can be produced from CO2 conversion.
+
+Text:
+Transforming CO2 into valueadded products such as methanol, hydrocarbon fuels, and other
+platform chemicals has gained attention as an attractive approach to reduce the negative im
+pact carbon dioxide has on the climate.14 Using renewable energy and sustainable hydrogen
+would allow us to establish a circular economy based on carbon recycling.1,2,58 However,
+due to the stable nature of CO2, highly active, selective, and deactivationresistant cata
+lysts are required to make largescale adaptation feasible.5 Various catalytic systems with
+dierent combinations of active metal and supporting metal oxide have been prepared and
+characterised to maximise catalytic activity and selectivity for CO2 conversion to methanol
+(CTM)3,914
+CO2(g)  3H2(g) CH3OH(g)  H2O(g) 
+(R1)
+Oxidesupported Cu nanoparticles have been extensively studied for catalysing CTM
+due to their promising methanol selectivity, which can be upwards of 60 .3,15 Several ex
+perimental2,3,1620 and computational2,3,17,1922 studies have associated the catalytic activity
+with active sites at the metaloxide interface.

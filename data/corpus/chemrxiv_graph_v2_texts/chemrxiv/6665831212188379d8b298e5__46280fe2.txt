@@ -1,0 +1,19 @@
+Description:
+Exhibits dynamic Jahn-Teller effect and has a structure close to Oh symmetry.
+
+Text:
+It is currently recognized that ReF6 and OsF6 show the
+dynamic JT effect 4749, and the structures of ReF6,
+OsF6, IrF6, and PtF6 are very close to Oh based on
+electrondiffraction experiments in the gas phase 5052,
+singlecrystal Xray diffractometry 53, and extended X
+ray absorption fine structure (EXAFS) 54. Even if it
+exists, the JT distortion may be smaller than experi
+mental errors. In theory, the most sophisticated calcula
+tion for the thirdrow transition metal hexafluorides was
+carried out at the coupled cluster singles and doubles
+with perturbed triples (CCSD(T)) level with the SOC
+at the DFT level 33. Their calculated structures agree
+with the experiment well, but they compared the aver
+aged bond lengths of the D4h structures and experimen
+tal structures in Oh symmetry.

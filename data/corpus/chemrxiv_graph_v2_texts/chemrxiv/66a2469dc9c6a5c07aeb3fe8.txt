@@ -1,0 +1,11 @@
+Description:
+A strongly basic compound that forms the guanidinium cation under intracellular conditions.
+
+Text:
+Riboswitches are structured segments of mRNA used by bacteria and archaea to regulate gene expres
+sion. They act as sensors for small molecules, such as metabolites and ions, and regulate the expression
+of downstream gene products in cis 1. One class of such riboswitches is the ykkC riboswitch family. The members of this family (guanidineI, II, III, and IV) have been shown to be specific sensors for in
+creased levels of intracellular guanidine (Gd) 2, 3, 4, 5. Under intracellular conditions, the strongly ba
+sic Gd forms the guanidinium cation (Gd). Upon interaction with Gd, the Gd riboswitches (Gd RS)
+turn on genes involved in Gd export and breakdown, suggesting that regulating intracellular Gd levels
+is an important piece of bacterial metabolism 2.

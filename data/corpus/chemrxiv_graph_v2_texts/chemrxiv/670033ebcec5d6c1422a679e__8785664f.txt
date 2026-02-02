@@ -1,0 +1,18 @@
+Description:
+A high-energy-density anode material used in solid-state batteries.
+
+Text:
+26 
+Solidstate batteries (SSBs) are recently receiving considerable attention in the scientific 
+27 
+community because of their potential to outperform conventional lithiumion batteries.1,2 The 
+28 
+potential advantages of SSBs originate from their solid nature and singleion conductivity, 
+29 
+improved safety and the possibility of efficient cell stacking (bipolar stacking). 1 SSBs will likely 
+30 
+only overcome conventional lithiumion batteries in terms of energy density, if they feature low
+31 
+potential, highenergydensity anodes such as Si (ref. 3) or Limetal anodes. 4,5 Most highly
+32 
+conducting solid electrolytes decompose at the low potentials of Si and Li metal anodes.

@@ -1,0 +1,11 @@
+Description:
+A metal oxide that can exhibit n or p-type conductivity when doped with Sn or Mg.
+
+Text:
+Metal oxides are the basis of a vast range of technologies and are typically subject to defect 
+engineering to cater for demands across multiple different applications. For instance, incorporation 
+of Sn or Mg into In2O3 leads to n or ptype conductivity1; introducing rare earth elements brings 
+about light emission2,3; doping with transition metals like Fe, Co, Cr and Ni gives rise to dilute 
+magnetic semiconductors47. Among others, native point defects play a particularly important role 
+in metal oxides.8 Compared with extrinsic impurities, native defects are ubiquitously present and 
+exert a significant influence on material properties.

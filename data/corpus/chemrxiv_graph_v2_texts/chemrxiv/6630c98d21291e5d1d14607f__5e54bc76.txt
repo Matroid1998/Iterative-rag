@@ -1,0 +1,17 @@
+Description:
+Used in crystallisation buffer at a concentration of 150 mM.
+
+Text:
+Electrochemical potential were applied with an AutoLab 128 N 
+potentiostat (Metrohm) controlled by NOVA software (v 1.10) Electrochemical potentials (E) were 
+measured with a saturated calomel reference electrode (SCE) and potentials quoted in the text 
+adjusted to mV vs the standard hydrogen electrode (SHE) using the conversion E (mV vs SHE)  E (mV 
+vs SCE) 241 mV at 25 C.50 
+Purification and crystallisation of Hyd1 and Hyd2 
+Proteins were expressed, purified, and crystallised as described previously,44,51 with all asisolated 
+crystals predominantly in the NiB state, as assessed by IRspectroscopy.10 
+Electrochemical poising of Hyd1 crystals 
+A solution (5 mL) containing appropriate redox mediator(s) (Table S6), each at 1 mM concentration, 
+was prepared in N2 saturated crystallisation buffer (100 mM BisTris, pH 6, 200 mM Li2SO4, 150 mM 
+NaCl, 22 wv PEG 3350, 15 vv glycerol) and transferred into the electrochemical cell in a N2filled 
+glovebox (Belle Technologies or Glove Box Technologies, O2 3 ppm).

@@ -1,0 +1,60 @@
+Description:
+Used in green hydrogen production as an energy vector.
+
+Text:
+In light of pressing environmental issues such as pol
+lution and the greenhouse effect, there is a necessity to
+search for clean energy sources. This has led to the explo
+ration of alternatives to fossil fuelderived energy, such as
+biomassderived energy and green hydrogen production as
+an energy vector. Consequently, the global shift towards
+renewable energy requires innovative solutions for effi
+cient energy storage and conversion, prompting increased
+development of electric devices for this purpose. These
+devices rely on efficient catalytic materials at the electrodes
+to produce or convert fuels.
+
+
+---
+
+Description:
+Produced through alkaline water electrolysis at the cathode during the hydrogen evolution reaction.
+
+Text:
+1
+Hydrogen production through alkaline water electrol
+ysis involves the splitting of water using an electric current
+in a basic medium, where the hydrogen evolution reaction
+(HER) occurs at the cathode and the oxygen evolution
+reaction (OER) at the anode. However, the OER remains
+responsible for the major part of the electricity cost of
+water electrolysis, mainly because of thermodynamics in
+combination with significant overpotentials and sluggish
+kinetics. 2
+Various catalysts have been proposed over the past
+few decades to enhance the efficiency of the OER. While
+some noble metalbased catalysts have shown promising
+ Both authors have contributed equally to this investigation
+stephan.steinmannenslyon.fr (S.N.
+
+
+---
+
+Description:
+Atoms are randomly distributed between the nickel layers in NiOOH.
+
+Text:
+12
+NiOOH primarily exists in four different phases, with
+NiOOH identified as the most active for catalytic activ
+ities. 5, 13, 14 The crystalline structure of NiOOH is
+not fully understood but is generally described as NiOOH
+layers bonded by hydrogen bonds. 1517 Experimental
+and theoretical studies suggest that hydrogen atoms are
+randomly distributed between the nickel layers. 16, 18
+In the mechanism proposed by Fleischmann et al. 19,
+20, the NiIIINiII transition is thought to be key in the
+electrochemical behavior of nickelbased oxides during so
+called indirect oxidation reactions. In these reactions, the
+electron is transferred to NiIII, instead of being directly
+injected in the electrical circuit.

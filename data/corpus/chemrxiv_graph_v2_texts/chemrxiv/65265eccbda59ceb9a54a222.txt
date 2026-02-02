@@ -1,0 +1,18 @@
+Description:
+Referenced in the context of 13C NMR spectroscopy for structure elucidation.
+
+Text:
+Understanding and characterizing molecular structures is a 
+fundamental task in chemistry, with applications spanning across drug 
+design, synthetic chemistry, and material science. Characterizing 
+complex organic compounds, particularly distinguishing regio and 
+stereoisomers, remains challenging and often demands a blend of 
+sophisticated analytical techniques. One powerful tool to navigate this 
+complexity is nuclear magnetic resonance (NMR) spectroscopy. Structure elucidation often requires data from several sources. For 
+example, combining a 1D NMR technique such as a proton (1H) or 
+carbon (13C) spectrum and 2D methods like Heteronuclear Single 
+Quantum Coherence (HSQC) orand Heteronuclear Multiple Bond 
+Correlation (HMBC) can be beneficial.1 However, practical limitations 
+such as overlapping peaks, impurities, or product mixtures can 
+introduce sources of error rendering the elucidation of the correct 
+structure a highly challenging task.

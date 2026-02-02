@@ -1,0 +1,35 @@
+Description:
+Used in conjunction with Pd(dppf)Cl2 and KOAc in a deoxyfluoroalkylation-aromatization strategy.
+
+Text:
+Previous Methods and Limitations
+C. DeoxyfluoroalkylationAromatization Strategy (This Work)
+R
+H
+N
+OH
+CF3
+i) Tf2O, Pyridine
+ DCM, 0 C to rt
+ii) B2Pin2, Pd(dppf)Cl2
+ KOAc, 1,4Dioxane
+ 80 C
+Bpin
+(phen)CuCF3
+DMF, 50 C
+35 (3 steps)
+CO2Et
+B. MultiStep Low Yielding Sequence for Converting Phenols to ArCF3
+O
+OH
+CF3
+CF3
+i) 1,2Addition
+CF3TMS, F
+ii) Dehydration
+iii) Aromatization
+R
+R
+R
+Onetwopot
+httpsdoi.org10.26434chemrxiv2024nggx1 ORCID httpsorcid.org0000000287241098 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

@@ -1,0 +1,40 @@
+Description:
+An intermediate formed from alkenyl vicdiols and trimethyl orthoacetate.
+
+Text:
+in 2008 (Scheme 1C).5 Although this latter example is 
+chemoselective, the substrates are not readily available, require 
+additional steps for the introduction of two different leaving 
+groups7 and suffer from a lack of diversity. Herein, we propose to 
+solve the question of regio and chemoselective double allylic 
+substitutions from readily available alkenyl vicdiols using a 
+sequential dual catalysis approach, in which each catalytic 
+system will allow the introduction of a different nucleophile at 
+will.8 
+Taking inspiration from the work of Borhans group on diol 
+activation,9 we imagined that alkenyl vicdiols could be activated 
+by trimethyl orthoacetate to form a cyclic orthoester intermediate 
+(Scheme 1D). The addition of a Lewis acid would exacerbate the 
+nucleophilicity of the orthoester intermediate, facilitating the first 
+allylic substitution.
+
+
+---
+
+Description:
+A transient compound that undergoes ring opening.
+
+Text:
+During this process, ringopening of the 
+transient cyclic orthoester would result in the formation of an allylic 
+acetate, which could sequentially undergo a classical TsujiTrost 
+reaction in the presence of a palladium catalyst. This dual 
+catalysis approach would solve the problems of chemoselectivity 
+inherent to double allylic substitutions. Nevertheless, this raises 
+the question of catalyst compatibility between the Lewis acid and 
+Pd catalysts.10 The regioselectivity of each substitution will also 
+be a key challenge for this double transformation. Herein, we present a novel method for the double allylic 
+substitution of alkenylvicdiols, employing dual catalysis (Lewis 
+acidtransition metal). This approach enables the introduction of 
+two distinct nucleophiles, providing direct access to complex 
+molecular scaffolds. httpsdoi.org10.26434chemrxiv2023c9525v2 ORCID httpsorcid.org0000000279090234 Content not peerreviewed by ChemRxiv. License CC BY 4.0

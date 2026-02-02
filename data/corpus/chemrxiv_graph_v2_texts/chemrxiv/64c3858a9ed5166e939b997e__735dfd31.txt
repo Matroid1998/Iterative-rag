@@ -1,0 +1,33 @@
+Description:
+A phase of MnO2 with unchanged intrinsic electronic conductivity that can be modified by incorporating heteroatoms to alter its electronic structure.
+
+Text:
+One of the most common 
+approaches involves synthetizing hybrid compounds by combining MnO2 with electronically 
+conductive carbon material such as carbon nanotube,16,17 carbon fiber,18,19 graphene20,21 or 
+conductive polymer.22,23 Another interesting approach to boost the electronic conductivity is 
+the elaboration of compositesnanocomposites MnO2conductive metal24 or MnO2transition 
+metal oxides.25,26 Although these approaches improve overall conductivity, the intrinsic 
+electronic conductivity of the birnessite phase remains unchanged and the performance of 
+composite electrode materials heavily relies on achieving a homogeneous distribution between 
+the electronic conductive phase and MnO2.26 To overcome this issue, it is possible to 
+incorporate heteroatom into birnessite to change its electronic structure and reduce its electronic 
+band gap.2730 For instance, Liu et al.
+
+
+---
+
+Description:
+A phase resulting from low temperature synthesis with poor crystallinity.
+
+Text:
+have demonstrated through first principle calculations that 
+a partial substitution of Mn34 by Fe3 in the metal oxide layer reduces the electronic band gap 
+from 1.03 eV to 0.62 eV (for 33 mol of substitution) and enhances the specific capacity when 
+compared to MnO2 at equivalent chargingdischarging rates.31 However, some aspects related 
+to Fe incorporation into MnO2 (FeMnO2) still require clarification. The commonly used low
+temperature synthesis, aiming at achieving nanostructuration, results in birnessite phases with 
+poor crystallinity, limiting detailed structural investigations of the localization of Fe and its 
+impact on the interlayer site (prismatic or octahedral). Furthermore, the reaction mechanisms 
+in FeMnO2 during cycling remain unknown due to the potential redox activity of both Fe and 
+Mn elements 31,32.

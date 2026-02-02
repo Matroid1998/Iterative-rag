@@ -1,0 +1,12 @@
+Description:
+A fluorinated group that can define a substance as PFAS if fully fluorinated.
+
+Text:
+Per and polyfluoroalkyl substances (PFAS) are a group of substances of high environmental and 
+toxicological concern gaining increasing attention due to bioaccumulation and a growing reputation as 
+forever chemicals  so much so that there is now a drive to treat PFAS as a class for environmental 
+regulation1. The 2011 definition of PFAS by Buck et al.2 included substances as PFAS if they contained two 
+(or more) connected saturated CF2 groups. In 2021, the Organisation for Economic Cooperation and 
+Development (OECD) revised the definition of PFAS in ENVCBCMONO(2021)253 as follows PFAS are 
+defined as fluorinated substances that contain at least one fully fluorinated methyl or methylene carbon 
+atom (without any HClBrI atom attached to it), i.e.

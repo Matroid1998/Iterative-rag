@@ -1,0 +1,19 @@
+Description:
+A key element involved in carbon capture processes.
+
+Text:
+The ability of MOFs to 
+capture and release gases efficiently is a critical factor in their design and deployment, particularly 
+for industrial and environmental applications like carbon capture and hydrogen storage.13 
+Computational simulations have become an invaluable tool for predicting the performance of 
+MOFs, offering insights that aid the optimization of their gas adsorption and desorption 
+properties.14,15 
+
+Grand canonical Monte Carlo (GCMC) simulations have been widely utilized for 
+simulating and predicting gas uptake, diffusion, and selectivity in different MOFs.1618 The 
+outcomes of GCMC simulations depend heavily on the force field used to model the interatomic 
+interactions.19 Adsorption and desorption properties of MOFs are often determined by the strength 
+and specificity of the interactions between the MOF and the gas molecules, which can vary 
+significantly depending on the MOF structure and the nature of the gas molecules.20,21 Therefore, 
+precise force fields designed for specific adsorbates are crucial for achieving reliable GCMC 
+simulations that can effectively capture the MOFgas molecule interactions.

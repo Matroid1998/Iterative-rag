@@ -1,0 +1,21 @@
+Description:
+Corrosive compounds used in CO2 capture that suffer from high regeneration energies and degradation over time.
+
+Text:
+Climate change, which is an undeniable concern that poses a major risk to humanity and ecological 
+systems alike, stems from greenhouse gas (GHG) emissions that originate from an assortment of 
+anthropogenic activities, like electricity production.12 Of the GHGs that are emitted into the air, it is 
+estimated that CO2 alone accounts for 76, making carbon capture from large point sources an urgent 
+need.3 To date, the most mature capture technology consists of aqueous liquid amine scrubbers.4 While 
+these solutions can readily extract large amounts of CO2 from gas mixtures, liquid amines are also 
+corrosive, suffer from high regeneration energies, and often degrade over time.45 These shortfalls, 
+combined with the high heat capacity of these liquids,6 leads to a large energy penalty with their 
+implementation.4 In fact, it was estimated that the implementation of liquid amine capture could decrease 
+the efficiency of a power plant by as much as 30.4 Given this, increasing numbers of studies are aimed 
+at designing CO2 selective solid adsorbents, an effort which might cut the parasitic energy cost by as much 
+as 50.5 
+Of the many possible classes of solid, porous materials to choose from for CO2 capture, such as activated 
+carbons,7 zeolites,8 silicas,9 MOFs, and COFs.10 MOFs have maintained a position at the forefront of 
+such studies, owed to their highly crystalline nature, tunable structures, and record porosity.1113 
+Unfortunately, many MOFs suffer from issues, such as low CO2 capacity and selectivity, particularly in 
+the presence of humidity,1415 and short lifetime.

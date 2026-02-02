@@ -1,0 +1,19 @@
+Description:
+A cation involved in high-temperature single-molecule magnets with remarkable magnetic properties.
+
+Text:
+Singlemolecule magnets (SMMs) exhibit retention of magnetization under certain conditions, 
+and therefore have potential applications in high density binary data storage.13 However, the 
+viability of even the bestperforming SMMs in such applications is currently limited as the 
+desired magnetic properties have not yet been observed at temperatures that are suitable for 
+practical usage.415 Some of the most promising hightemperature SMMs that have been 
+studied so far are those involving dysprosocenium cations and related derivatives;48 the 
+remarkable magnetic properties of this family of complexes has been attributed to the 
+incorporation of substituted cyclopentadienyl (CpR) ligands, which i) provide the steric bulk 
+required to achieve axial ligand fields, enhancing the magnetic anisotropy of the Dy3 cation 
+and hindering Orbach relaxation; and, ii) are rigid and thus impede molecular vibrations, 
+suppressing Raman relaxation.4,16,17 
+Further stabilization of the ground mJ state of Dy3 in dysprosocenium cations, and 
+concurrent destabilization of the least magnetic mJ state, could be achieved by increasing the 
+strength of the axial ligand field through the reduction of DyCpR distances by using smaller 
+CpR ligands.

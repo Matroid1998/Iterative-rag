@@ -1,0 +1,14 @@
+Description:
+A gas that can be absorbed by materials like MOFs for high uptake and long-term cycling stability.
+
+Text:
+Because such attributes 
+could contribute to high H2 uptake2a, 3 and longterm cycling stability,2a, 4 extensive efforts have 
+been devoted to discovering new MOF materials both through experimental methods and 
+computational approaches.5 Indeed, nearly a million MOF structures have been either 
+experimentally synthesized or computationally predicted,6 and these have been incorporated into 
+various searchable MOF databases.5bf 
+Among experimental MOF databases, the CoRE MOF database (computationalready, 
+experimental MOF database),5b composed of the MOF structures obtained from the Cambridge 
+Structural Database7 and journals,8 has been widely used in computational highthroughput 
+screening.

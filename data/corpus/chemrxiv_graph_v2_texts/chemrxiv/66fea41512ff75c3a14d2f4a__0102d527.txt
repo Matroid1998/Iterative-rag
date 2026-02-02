@@ -1,0 +1,82 @@
+Description:
+Exhibits charge carrier lifetimes that are four orders of magnitude higher and hole diffusion length one order of magnitude longer than Fe2O3, but suffers from poor bulk electronic conductivity and slow water oxidation rate.
+
+Text:
+2.4  2.6 eV) and 
+good stability under typical operating conditions in aqueous 
+solutions.4,5 When compared with other metal oxides, such as 
+Fe2O3, BiVO4 exhibits charge carrier lifetimes that are four 
+orders of magnitude higher, and hole diffusion length one or
+der of magnitude longer.68 Nevertheless, pristine BiVO4 still 
+suffers from poor bulk electronic conductivity, ineffective hole 
+extraction, and slow rate of water oxidation.6,9 As a result, the 
+reported photocurrent densities at nonmodified BiVO4 are 
+typically much lower than the maximum theoretical value of 
+6.4  8.9 mA cm2 under AM 1.5G illumination, corresponding 
+to maximum solartoH2 conversion efficiencies of 8
+11.10,11 Thus, designing straightforward, scalable strategies 
+to overcome these drawbacks of BiVO4 materials represents 
+an important research agenda.
+
+
+---
+
+Description:
+Used in photoelectrodes and can be modified with polyoxometalates for enhanced performance.
+
+Text:
+One recent approach to modify BiVO4 photoelectrodes is 
+incorporation of polyoxometalates (POMs) as singlesource 
+molecular precursors. POMs are molecular metal oxide clus
+ters formed by selfassembly in solution.1214 Of specific in
+terest in this context is the cobaltfunctionalized polyoxomet
+alate Co4(H2O)2(PW9O34)210 (CoPOM), where a Co4O4 
+core is stabilized by two oxidatively resistant polyoxotungstate 
+ligands.1517 The compound has been reported as an active 
+water oxidation catalyst (WOC) as well as precursor to highly 
+reactive cobalt oxyhydroxies, so that operation under homoge
+neous or heterogenized conditions is possible.14,18 This in turn 
+has attracted major interest for surfacedeposition as co
+catalyst on BiVO4 photoanodes. For example, Ryu et al.
+
+
+---
+
+Description:
+Used in photoanodes for PEC water oxidation and enhanced by CoPOM cocatalyst.
+
+Text:
+suc
+cessfully designed a photoanode by depositing a thin film of 
+cationic polyelectrolytes and anionic CoPOMWOCs on the 
+surface of various photoelectrode materials (e.g. Fe2O3, BiVO4 
+and TiO2) for improving the PEC performance as well as sta
+bility.19 Fan and coworkers reported CoPOM as a novel mo
+lecular cocatalyst deposited on Ndoped carbon (NC) to 
+boost the charge separation and injection of BiVO4 pho
+toanodes for PEC water oxidation.20 Some of us have recently 
+reported a direct linking of CoPOMs to the surface of Mo
+doped BiVO4 photoanodes.
+
+
+---
+
+Description:
+Used in photoanodes for PEC water oxidation, with enhanced photogenerated hole extraction and oxygen evolution reaction kinetics.
+
+Text:
+The system showed significantly 
+enhanced PEC performance, featuring lower photocurrent 
+onset potentials and higher charge transfer efficiency.21 These 
+initial studies suggest that CoPOM is a promising cocatalyst 
+for PEC water oxidation at BiVO4 photoanodes, as it improves 
+the photogenerated hole extraction and enhances the oxygen 
+evolution reaction kinetics. This inspired the present study to 
+explore how a double use of bulk and surface deposition of 
+CoPOM can be used to optimize the performance 
+Notably, transition metal doping is an established strategy to 
+improve the conductivity of BiVO4 and promote the PEC per
+formance. For example, He et al. developed BiVO4 nanoflake 
+array films codoped with Mo and W to increase the conduc
+tivity of BiVO4 and to slightly to enhance the water oxidation 
+kinetics.22 Fang et al.

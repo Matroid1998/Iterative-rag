@@ -1,0 +1,22 @@
+Description:
+Enables electron transfer to O2 in metal ion-coupled electron transfer (MCET).
+
+Text:
+Thus, an 
+electron transfer from donor (D) to O2, which is 
+thermodynamically infeasible in the absence of 
+metal ions, becomes possible in the presence of Mn. This process is generally called metal ioncoupled 
+electron transfer (MCET).12,22,23 Scandium3 ion, 
+with its smallest radius among M3, can bind strongly 
+with O2, making it far more effective than other 
+Mn ions for providing SET reactions driven by 
+MnO2 complex formation12,2429 
+A review of previous reports on the role of Sc(OTf)3 
+in 
+photoinduced 
+electron 
+transfer 
+(PET) 
+transformations involving the reductive activation of 
+dioxygen confirms that a lightabsorbing electron 
+donor and additional stabilisation are necessary.

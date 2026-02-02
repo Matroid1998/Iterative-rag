@@ -1,0 +1,14 @@
+Description:
+A chemical group added to phosphates in lipid A, contributing to polymyxin resistance.
+
+Text:
+Such modifications most commonly involve addition of phosphoethanolamine 
+(PEtN) (Scheme 1A) or 4amino4deoxyLarabinose (LAra4N) to the 1 or 4 phosphates8. Lipid A phosphoethanolamine transferases are widely distributed in Gramnegative bacteria, and are 
+constitutively expressed in some species, including Neisseria meningitidis9 and Moraxella catarrhalis10, 
+that in consequence are intrinsically polymyxinresistant. In others, including Acinetobacter 
+baumannii11, acquired polymyxin resistance can arise from upregulation of chromosomal PEtN 
+transferases, but in E. coli this has remained rare. In 2015 however, a plasmidborne polymyxin 
+resistance determinant, the Mobile Colistin Resistance (MCR)1 PEtN transferase, was identified in 
+China in an E. coli isolate of porcine origin12, since when multiple MCR isoforms have been discovered 
+in multiple species worldwide13. In E. coli MCR production remains the dominant polymyxin resistance 
+mechanism.

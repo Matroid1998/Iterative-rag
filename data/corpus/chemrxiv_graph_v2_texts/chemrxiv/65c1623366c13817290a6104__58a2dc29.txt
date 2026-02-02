@@ -1,0 +1,38 @@
+Description:
+Preformed crosslinks used in synthetic polymer networks.
+
+Text:
+peptides,
+saccharides,
+nucleic
+acids),
+can
+form
+networks
+in
+response to temperature, light, and solvents by partially
+unfolding, thus exposing previously buried, or cryptic,
+binding sites. Of particular interest to us, these cryptic
+binding sites can also be revealed in response to a
+mechanical
+stimulus4,5. For
+example,
+bronectin
+will
+dynamically unfold and polymerize into brils in response
+to cellgenerated forces68. In contrast, synthetic polymers
+commonly weaken or even rupture under force9. Inspired by the unfolding triggered crosslinking of proteins
+like bronectin, we sought to develop a new method of
+installing
+mechanosensitivity
+within
+synthetic
+polymer
+networks. Recently,
+we
+developed
+organogels10
+and
+hydrogels11 with mechanoresponsive properties, both
+based on preformed diacrylate crosslinks with reactive
+pendent thiols for postpolymerization crosslinking.

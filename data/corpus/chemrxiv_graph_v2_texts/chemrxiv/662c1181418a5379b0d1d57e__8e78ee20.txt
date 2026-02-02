@@ -1,0 +1,13 @@
+Description:
+Targets calcium channels and increases intracellular concentration of GABA.
+
+Text:
+For example, Valproate targets Sodium channels for modulating the
+membrane potential and Ttype Calcium channels for modulating neurotransmitter release
+(Johannessen and Johannessen, 2003). And Gabapentine targets Calcium channels and increases
+intracellular concentration of GABA (Czuczwar and Patsalos, 2001). Vigabatrin is the only
+approved drug that targets GABA transaminase. However, Vigabatrin is associated with serious
+adverse effects (Hawker and Silverman, 2012a). Therefore, GABAT, the validated molecular
+target of Vigabatrin, was chosen as the target for the design of novel antiepileptic drugs in this
+work. GABAT is also known as GABAamino transferase (GABAAT). Computer aided drug design can facilitate the rapid development of new drugs (Salman et al.,
+2021), (Azad et al., 2023).

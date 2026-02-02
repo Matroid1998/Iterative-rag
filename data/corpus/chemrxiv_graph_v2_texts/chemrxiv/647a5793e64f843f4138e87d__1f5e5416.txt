@@ -1,0 +1,11 @@
+Description:
+A component of two-dimensional covalent organic frameworks used to tailor electronic and magnetic properties.
+
+Text:
+We report a firstprinciples computational analysis of transition metal (TM) intercalation in twodimensional (2D) triazine
+benzeneboroxine bilayer Covalent Organic Frameworks (COFs), providing a mechanism to tailor their electronic and magnetic
+properties. Due to the wide range of spinpolarized bandgaps and band alignments observed in these structures, we believe
+these materials have the potential to perform as twodimensional porous optoelectronic, catalytic, and spintronic devices. Analysis of different magnetic states reveals that these structures can be stable in ferromagnetic (FM), ferrimagnetic(FiM),
+antiferromagnetic(AFM), and nonmagnetic(NM) arrangements, depending on the type and amount of TMs intercalated in
+the bilayer COF. In turn, their magnetic structure affects their potential electronicspintronic properties, which we use to our
+advantage for finetuning their electronic structure.

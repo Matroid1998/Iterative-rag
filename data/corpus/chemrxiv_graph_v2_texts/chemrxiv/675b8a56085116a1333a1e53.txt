@@ -1,0 +1,31 @@
+Description:
+An antibiotic used as a first-line agent in the prevention and treatment of tuberculosis.
+
+Text:
+The general cause of TB mostly stems from the bacteria Mycobacterium tuberculosis, 
+causing an infection mainly to the respiratory tract, with some cases affecting the 
+gastrointestinal tract 1. Before the discovery of antibiotics, TB treatment was mostly to 
+rest the body and let the immune system fight the infection. However, some prescribe 
+cod liver oil, vinegar massages, and turpentine as possible cures 2. However, TB 
+infection is usually treated with a regiment of drugs, with the first iteration in the 1950s 
+being a combination of streptomycin, paraaminosalicylic acid, and isoniazid 3. Following the discovery of antibiotics, mainly Ethambutol, Pyrazinamide, Isoniazid, and 
+Rifampicin, the survival rate of TB patients increased as a more effective method became 
+widely available. Ethambutol inhibits cell wall synthesis, targeting arabinosyl 
+transferase.
+
+
+---
+
+Description:
+Inhibits mycolic acid synthesis by targeting InhA.
+
+Text:
+Pyrazinamide disrupts the metabolism of energy and creates an acidic 
+environment. Isoniazid inhibits mycolic acid synthesis by targeting InhA. Rifampicin 
+binds to the RNA polymerase, inhibiting transcription 4. Treatment plans for TB infection using isoniazid were usually given with other drugs, 
+such as rifampicin, pyrazinamide, and ethambutol or streptomycin, ranging from 4 to 9 
+months 5. Isoniazid is classified as an antibiotic given as one of the multipledrug 
+regimens or as a monotherapy used when treating latent and active TB. However, latent 
+TB is now commonly given Rifampinbased treatment 6. Although less used in treating 
+latent TB, the use of isoniazid in active TB is still relevant and widely spread, with it 
+being the most recommended treatment to counteract TB infection.

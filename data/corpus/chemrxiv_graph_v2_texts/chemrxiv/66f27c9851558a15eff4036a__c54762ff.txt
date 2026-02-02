@@ -1,0 +1,14 @@
+Description:
+Undergoes catalytic hydrogenation in the CO2 reduction reaction (CO2RR) using HEA nanoparticles.
+
+Text:
+High entropy alloys (HEAs) are alloys that consist of five or more principal elements in near
+equiatomic proportions (1,2) that tend to form simple solid solutions during solidification, 
+instead of intermetallic compounds, owing to high mixing entropy (3). HEAs have been 
+identified as promising candidates for various heterogeneous catalysis and electrocatalysis 
+applications (49). For instance, Qiu et al. developed a nanoporous AlNiCuPtPdAu materials 
+for the oxygen reduction reaction (ORR), important for metalair batteries and fuel cells. The 
+resulting catalyst exhibits greatly enhanced high temperature stability and have display redox 
+activity up to ten times higher than the characteristics of PtC catalysts (10). For the CO2 
+reduction reaction (CO2RR), superior durable catalytic hydrogenation of CO2 was 
+demonstrated using CoNiCuRuPd HEA nanoparticles (11).

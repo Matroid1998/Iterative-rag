@@ -1,0 +1,16 @@
+Description:
+Perovskite material prepared from PEACl, PEABr, and PbBr2.
+
+Text:
+Anhydrous 
+dimethyl sulfoxide (DMSO, 99.9), anhydrous N,Ndimethylformamide (DMF, 99.8) and 
+anhydrous lithium fluoride (LiF, 99.99) were purchased from SigmaAldrich. Poly(3,4
+ethylenedioxythiophene)polystyrene sulfonate (PEDOTPSS, Clevios Al 4083) was purchased 
+from Heraeus. 2,2,2(1,3,5benzinetriyl)tris(1phenyl1Hbenzimidazole) (TPBi, 99.5) and 
+1,3,5tri (mpyrid3ylphenyl)benzene (TmPyPB, 99.5) were purchased from Ossila. Al 
+(99.99) pellets were purchased from Kurt J. Lesker Company. All chemicals were used directly 
+as received. Perovskite precursor 
+The perovskite precursor preparation was conducted inside a nitrogenfilled glovebox at room 
+temperature. 0.1M PEA2PbCl1Br3 stock solution was prepared by dissolving stoichiometric 
+PEACl, PEABr, and PbBr2 in DMSO then left under continuous stirring for 2 hours. The precursor 
+solution was then filtered with a 0.22 m PTFE syringe filter before spin coating.

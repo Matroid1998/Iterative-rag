@@ -1,0 +1,55 @@
+Description:
+Used in CH2Cl2 at 78°C for synthesizing aryl fluorosulfates.
+
+Text:
+Traditional methods to synthesize aryl fluorosulfates
+CH2Cl2, rt
+1
+2
+ClSO2F
+Pyridine, 40 oC
+DIPEA, CH2Cl2, 78 oC
+FO2S O SO2F
+3
+4
+B. Synthesis of aryl fluorosulfates using SDI
+OH
+R
+N
+N S
+O
+N
+O
+N
+Cs2CO3, THF, rt
+O S N
+O
+O
+N
+R
+AgF
+MeCN, 80 oC
+OSO2F
+R
+SDI
+C. Synthesis of fluorosulfates using SuFEx reagents
+OH
+R
+N
+N S
+O
+F
+O
+OTf
+OSO2F
+R
+FSIT
+Et3N, MeCN, rt
+N
+N S
+O
+F
+O
+OTf
+desmethyl SuFEx  IT
+httpsdoi.org10.26434chemrxiv20242zw90 ORCID httpsorcid.org0000000345662721 Content not peerreviewed by ChemRxiv. License CC BY 4.0

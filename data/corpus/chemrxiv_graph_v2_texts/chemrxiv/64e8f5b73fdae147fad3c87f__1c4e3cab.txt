@@ -1,0 +1,22 @@
+Description:
+Require Fe to achieve high catalytic activity in the oxygen evolution reaction.
+
+Text:
+46 
+The electrolysis of water (2H2O  2H2  O2) to produce hydrogen fuel is critical 
+47 
+for renewableenergy infrastructure1, 2. Even in optimized electrolyzers, the efficiency is 
+48 
+reduced by the slow kinetics of the oxygen evolution reaction (OER, 4OH  2H2O  4e 
+49 
+ O2 in alkaline media)3, 4. Among the many OER catalysts studied over decades, Fe is 
+50 
+broadly pivotal in promoting the catalytic activity in alkaline media57. In particular, Ni and 
+51 
+Co (oxy)hydroxides require Fe to achieve high activity, regardless of whether it is 
+52 
+introduced intentionally or incidentally8, 9. Sustaining the high activity of these Fe
+53 
+containing (oxy)hydroxides requires soluble Fe species in the electrolyte due to the 
+54 
+dynamic Fe exchange at the catalystelectrolyte interface1013.

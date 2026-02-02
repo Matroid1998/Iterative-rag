@@ -1,0 +1,23 @@
+Description:
+A fuel used in solid oxide fuel cells (SOFCs).
+
+Text:
+The operating temperature of different fuel cell types 
+tends to depend on the nature of the electrolyte being used and is also reflected in the applications of 
+various fuel cell types. SOFCs, in particular, have attracted much attention in recent times. This increased interest in SOFCs 
+stems from the fact that SOFCs have many advantages over other types of fuel cells. The flexibility of 
+fuel, which allows the use of hydrogen, carbon dioxide, methane, and other hydrocarbons to power the 
+cells is certainly a primary one.
+
+
+---
+
+Description:
+A potential energy source for a hydrogen-based economy with low emissions.
+
+Text:
+Further benefits include higher efficiency, a step towards a hydrogen
+based economy, low emissions, relatively low cost and scalability, which allows the stacking of a 
+required number of individual cells in series depending on the amounts of power needed in a particular 
+Figure 1. Schematic diagram highlighting the key features of the operation 
+of a solid oxide fuel cell (reproduced with permission from reference 13). 3

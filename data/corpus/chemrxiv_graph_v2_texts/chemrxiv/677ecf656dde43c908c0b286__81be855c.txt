@@ -1,0 +1,22 @@
+Description:
+A nucleophilic species formed from the deprotonation of cysteine.
+
+Text:
+Experimental exchangerate studies have shown
+18
+that the equilibrium between the protonated and deprotonated states of solventexposed cysteine
+19
+side chains is fast15 (i.e., 1012  M1s1) and that the protonation rate and pKa are well corre
+20
+lated.15,16 That is to say, the pKa of a particular cysteine provides the relevant information about
+21
+the energy required to form the nucleophilic thiolate and, by extension, the propensity for covalent
+22
+modification. 23
+Experimental methods for determining the pKa value of a cysteine can involve kinetic assays,
+24
+spectrophotometric titrations, or NMR spectroscopy; however, in a purely computational in silico
+25
+screen of potential covalent modifiers, the ability to rapidly and accurately probe the reactivity of
+26
+a target cysteine under various conditions is highly desirable.

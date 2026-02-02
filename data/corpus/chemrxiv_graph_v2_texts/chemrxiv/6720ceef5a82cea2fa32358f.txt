@@ -1,0 +1,18 @@
+Description:
+A compound involved in electrochemical reduction for sustainable carbon cycles and production of fuels and chemicals.
+
+Text:
+64 
+The electrochemical reduction of CO2 (CO2RR) is an important and promising CO2 utilisation 
+65 
+technology that can lead to sustainable carbon cycles and the production of valuable fuels and base 
+66 
+chemicals for industrial applications. 13 Conducting the reaction in vapourfed cells with gas 
+67 
+diffusion electrodes (GDEs) allows the production of higher current densities (1 Acm2) due to the 
+68 
+sufficient transport of CO2 and lower diffusion length by virtue of their lower surface area. 4 However, 
+69 
+designing GDEs for optimal current densities and Faradaic efficiencies of desired products is an art 
+70 
+due to the plethora of multiscale effects that occur within them.

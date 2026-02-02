@@ -1,0 +1,47 @@
+Description:
+Act as the Lewis base in Frustrated Lewis Pairs (FLPs).
+
+Text:
+Over the past two decades, Frustrated Lewis Pairs (FLPs) have 
+successfully been employed in a variety of stoichiometric and catalytic 
+transformations involving the heterolytic activation of bonds in small 
+molecules.15 This reactivity is driven by the effective quenching of the 
+frustration in the Lewis acidbase pair, which is caused by ring strain 
+andor steric hindrance preventing the formation of the classical Lewis 
+adducts in an intra6 or intermolecular7 manner (Figure 1, a). Seminal 
+work mostly involved combinations of phosphines as the Lewis base 
+and boranes as the Lewis acid. As the field evolved, a variety of FLP 
+combinations have been developed based on combinations of different 
+elements, such as ansaaminoboranes8 and geminal PAl FLPs.9 The 
+scope of stoichiometric reactivity of FLPs with small molecules is vast.
+
+
+---
+
+Description:
+Dual-function ligands that demonstrate pendulumlike hemilability.
+
+Text:
+Herein, we detail its synthesis, electronic structure and 
+demonstrate the heterolytic activation of chemical bonds along the FLT 
+vector. Finally, we show how this system displays pendulumlike 
+hemilability between the dualfunction phosphines, demonstrating the 
+promise the FLT motif holds for the heterolytic activation of chemical 
+bonds. a) FLP Reactivity
+LA
+LB
+M
+M
+b) Frustrated Lewis Trios (FLTs)
+LA
+LB
+Ti
+P
+N
+N
+P
+P tBu2
+tBu2
+Cl
+Cl
+Cl

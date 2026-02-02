@@ -1,0 +1,12 @@
+Description:
+Materials with channels that allow water and large ions to travel in and out, acting as a chemical sieve.
+
+Text:
+Due to their structure, zeolites have channels, through which water and 
+large ions (such as sodium, potassium, and magnesium) can travel into and out of the crystal 
+structure (Strekeisen, 2020); the size of molecules or ions is controlled by size of channels, and 
+zeolites can act as a chemical sieve. The term molecular sieve refers to a particular property of these 
+materials the ability to selectively sort molecules based primarily on a size exclusion process. This 
+is due to a very regular pore structure of molecular dimensions (Strekeisen, 2020). In RRUFF database, we find the members of the natrolite group as natrolite, mesolite, scolecite, and 
+gonnardite. In this database, Raman spectra are provided, where we can easily observe the OH
+stretching region of water.

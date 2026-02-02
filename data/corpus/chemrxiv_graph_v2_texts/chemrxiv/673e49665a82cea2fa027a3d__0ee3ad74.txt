@@ -1,0 +1,20 @@
+Description:
+A two-particle system with electron interactions in the ground and first excited states.
+
+Text:
+This approach still serves
+as the foundation for a more comprehensive de
+scription, incorporating the mixing of virtually
+excited states of the constituent electrons.2,3
+Practically, exact numerical solution for the
+ground state has been obtained first by Koos
+and Wolniewicz.4,5
+Recently, we have solved exactly the ex
+tended HeitlerLondon model, accounting for
+allelectron interactions in the ground and first
+excited states of the H2 twoparticle system
+with the concomitant inclusion of contraction
+of the 1sorbitals in the total wave function.69
+The crucial feature of this exact solution is the
+derivation of a simple and analytic form of the
+twoparticle wave function.

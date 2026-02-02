@@ -1,0 +1,10 @@
+Description:
+Defects inhibit ion insertion and decrease electronic conductivity.
+
+Text:
+Highly crystalline materials, 
+considered to have a limited number of defects, are reported to favor superior cyclelife and rate capability. The importance of Fe(CN)64 
+defects in contributing to structural collapse is stated to be due to their inhibition of ion insertion and decrease in electronic conductivity.25
+28 However, understanding the loss of capacity is again complicated by the differing process mechanisms that are suggested for charge 
+balancing and K intercalation. Importantly, current understanding of the location of K in PB is deduced from general long range structural information such as diffraction 
+data, or via theoretical simulation. Herein, we show that operando potassium Kedge Xray absorption near edge structure (XANES) can

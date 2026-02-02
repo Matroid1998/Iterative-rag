@@ -1,0 +1,12 @@
+Description:
+Contains bulky amino groups that alter the geometry of DNA grooves in GC-rich regions.
+
+Text:
+Sequence specificity is a major clause in drugDNA 
+interactions. It has been observed that, minor groove binding drugs show selectivity towards AT 
+rich region, several factors are also responsible for this first is electrostatic potential of ATrich 
+region is higher than that of GCfilled ones and the second one is that the ATrich grooves are 
+narrower and deeper than GC ones and thus allowing better binding and interactions. Minor groove 
+of the DNA has alternating A and T bases which allows van der Waals contacts between the drug 
+and DNA however no such contact is observed in GCrich regions because the geometry of groove 
+is altered by bulky amino groups of guanine bases.

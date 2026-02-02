@@ -1,0 +1,11 @@
+Description:
+Parameters for bromine were developed using the band structures of real and fictitious homoelemental crystal structures as reference data, making them suitable for predicting electronic properties of materials.
+
+Text:
+This work was subsequently
+extended to provide full parameterizations (including repulsive potentials) of all elements Z20 and
+Bromine.29 Very recently, complementary spinorbit coupling parameters were also reported.30 In
+contrast to the GFN models, these parameters follow the original DFTB formulation and were fitted
+using the band structures of real and fictitious homoelemental crystal structures as reference data. They are thus extremely well suited for predicting the electronic properties of materials (e.g. in
+2
+httpsdoi.org10.26434chemrxiv2024d0cff ORCID httpsorcid.org0000000208625289 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

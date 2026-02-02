@@ -1,0 +1,22 @@
+Description:
+An additive in all-solid-state batteries that can lose contact with active materials, leading to capacity fading.
+
+Text:
+33 
+Allsolidstate batteries (ASSBs) are currently discussed to increase the energy andor power 
+34 
+density, and are expected to be one of the next generation lithiumbased battery 
+35 
+technologies.1 However, the cell concept does not come without problems, as volume 
+36 
+changes occurring for the active electrode material can lead to significant capacity fading on 
+37 
+extended cycling. This mainly originates from a loss of contact of the active material to the 
+38 
+carbon additive and the solid electrolyte. Various research attempts were made to limit capacity 
+39 
+fading, among them, the advantageous effect of pressure on the performance of ASSBs has 
+40 
+been demonstrated several times 26, and could be assigned to decreased contact resistance 
+41 
+and reduction of volume changeinduced contact loss between particles during cycling.

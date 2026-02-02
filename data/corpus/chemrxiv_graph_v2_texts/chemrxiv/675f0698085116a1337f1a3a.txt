@@ -1,0 +1,20 @@
+Description:
+A component of SARS-CoV-2 proteases involved in cleaving viral polyproteins.
+
+Text:
+39 
+Human respiratory viruses pose devastating threats on public health and the economy as demonstrated by 
+40 
+the SARSCoV2 virus responsible for the COVID19 pandemic. SARSCoV2 encodes two cysteine 
+41 
+proteases, main protease (MPro) and papainlike protease (PLPro), which are responsible for cleaving 11 and 
+42 
+3 sites respectively along the viral polyprotein and enable infection. Considerable research efforts have 
+43 
+been made to establish inhibitors for these viral proteases, resulting in several clinically available 
+44 
+therapeutics including nirmatrelvir1,2. Despite these important medicines providing therapeutic benefit, there 
+45 
+is a concern for the development of antiviral resistance as well as the emergence of other pandemic threat 
+46 
+respiratory viruses3,4.

@@ -1,0 +1,13 @@
+Description:
+A green energy carrier produced electrocatalytically from water.
+
+Text:
+The Hydrogen Economy scheme is based on the idea that surplus energy from intermittent sustainable 
+sources could be used to generate hydrogen as a green energy carrier which could be used for a wide 
+variety of applications. At the heart of this scheme are electrolyzer technologies which electrocatalytically 
+produce hydrogen from water for later use in power to X1,2 and power to metal3 applications, or in fuel 
+cell electric vehicles4,5. A group of catalysts that holds great promise for fuel cells611 and water 
+electrolysis1214 are MetalNitrogenCarbon (MNC; M  Co, Fe, Ni, Mo, Mn) catalysts. Structural 
+characterization led to the conclusion that metal centers coordinated by four pyrrolic nitrogen atoms act 
+as catalytically active sites for the hydrogen evolution reaction (HER).1517 However, MNC catalysts often 
+contain multiple metal speciation.

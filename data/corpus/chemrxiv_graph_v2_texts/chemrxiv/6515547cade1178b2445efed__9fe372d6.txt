@@ -1,0 +1,9 @@
+Description:
+A product of methanol oxidation at the cathode in DMFCs.
+
+Text:
+Methanol crossover can 
+poison the cathode catalyst, leading to increased cellheating, lower oxygen activity, reduced 
+cell voltage and power density, and loss of DMFC efficiency as a result of parasitic oxidation 
+of methanol to CO2 and H2, at the cathode.710 Present DMFC technology thus uses a dilute 
+aqueous methanol feed, at 1M to 3M concentration, to limit the extent of methanol crossover.

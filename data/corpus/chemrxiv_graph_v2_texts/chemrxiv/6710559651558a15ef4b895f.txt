@@ -1,0 +1,12 @@
+Description:
+An anode material used in batteries that typically contain no supporting electrolytes.
+
+Text:
+Great demand increases for largescale storage batteries to balance electricity supply and demand. Rechargeable batteries such as aqueous ZnAir and ZnMnO2 batteries are being actively investigated 
+as promising candidates to meet these requirements. These Zn anode batteries usually contain no 
+supporting electrolytes. Cyclic voltammograms (CVs) of Znanode electrodepositiondissolution 
+reaction without supporting electrolyte show linear response the redox current decreasesincreases 
+linearly rather than exponentially. 1 In battery systems besides the Zn case, no supporting electrolyte 
+is often added, and such linear responses are often observed in CVs of the electrodepositiondissolution 
+reaction of metals. Compton group pointed out the importance of migration effect on CVs with weakly 
+supporting electrolyte.

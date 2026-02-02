@@ -1,0 +1,14 @@
+Description:
+A structure where one macrocyclic ring rotates around another, with directional motion.
+
+Text:
+They include catenane based structures as first 
+developed by Leigh, where rotation of one macrocyclic ring around another proceeds directionally 
+(for selected examples see 1921), chemically driven variants rotating around a single bond22 as 
+pioneered again by Feringa,23, 24 surface bound structures rotating around an axis perpendicular to 
+the surface and energized by electric current,25, 26 or just recently added electrically driven versions 
+in solution.27 Further examples include linear molecular motors such as walkers28, 29 and pumps,30
+36 which use distinct mechanisms and fuels to achieve a directional linear motion. When it comes 
+to fueling however, simple illumination is particularly attractive because energy can be supplied 
+continuously and precisely dosed, no waste is accumulated during operation, and the energy 
+content of photons is very high.

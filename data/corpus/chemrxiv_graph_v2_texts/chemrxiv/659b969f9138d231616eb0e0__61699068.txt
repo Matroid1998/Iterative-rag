@@ -1,0 +1,14 @@
+Description:
+A nucleophilic group that can undergo alkylation or coupling with aryl halides.
+
+Text:
+Typically, general 
+bioconjugation reactions on Cys utilize alkylation of the nucleophilic thiol2 or metalcatalyzed 
+coupling of the thiol with aryl halides.3 Umpolung strategies of the nucleophilic thiol have also become 
+an alternative coupling format.4 In terms of Trpmodification, a variety of indoleselective reactions 
+have been utilized that include transition metal,5 metal carbenoid,6 or radicalmediated reaction.7,8 
+The CH sulfenylation of indole with electrophilic sulfenyl chlorides,9 such as Schlorocysteine or its 
+congener, represents an interresidue selective conjugation between Trp and Cys residues, that requires 
+the oxidative umpolung to the Schlorocysteine using harmful chlorination agents such as sulfuryl 
+chloride (SO2Cl2).10 Accordingly, these reactions are not compatible with the presence of Trp. Recently, 
+we have developed interresidue selective reactions between Cys and Trp residues.

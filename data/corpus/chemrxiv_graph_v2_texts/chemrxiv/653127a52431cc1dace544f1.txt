@@ -1,0 +1,13 @@
+Description:
+A redox-active motif that serves as an electrochemical reporter group, enabling voltammetric anion sensing in competitive solvents.
+
+Text:
+of a ferrocene motif induces remarkable changes in fluorescence 
+response. Extensive fluorescence anion titration, lifetime and electrochemical studies reveal anionbinding induced 
+emission modulation through intramolecular photoinduced electron transfer (PET), the magnitude of which is both 
+dependent on the nature of the XBHB donor and anion. Impressively, the XB sensor outperformed its HB congener in 
+terms of both anion binding strength and fluorescence switching magnitude, displaying significant fluorescence turn
+OFF upon anion binding. In contrast, redoxinactive controls display a large turnON response, highlighting the 
+pronounced impact of introduction of the redoxactive ferrocene on optical sensing performance. Additionally, the 
+redoxactive ferrocene motif also serves as an electrochemical reporter group, enabling voltammetric anion sensing in 
+competitive solvents.

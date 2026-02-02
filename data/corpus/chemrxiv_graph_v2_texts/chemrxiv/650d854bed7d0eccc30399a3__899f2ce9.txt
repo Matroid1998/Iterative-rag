@@ -1,0 +1,13 @@
+Description:
+An element used in sodium-ion batteries due to its high Earth abundance.
+
+Text:
+Sodiumion batteries (SIBs) are gaining importance as promising alternatives to lithiumion 
+batteries (LIBs) for grid and largescale energy storage applications due to the high Earth 
+abundance of the elements used in SIBs such as Na, Fe, and Mn.1 However, the energy density 
+urgently needs further improvement to meet increasing energy storage demands.1b Stable 
+and highcapacity positive electrodes are a prerequisite for increasing the energy density of 
+SIBs. Among the various reported cathode materials, layered oxides are ideal candidates 
+because they can have tunable compositions with reasonable capacity and the 
+electrochemical performance can be easily tailored by introducing different elements into the 
+host structures.

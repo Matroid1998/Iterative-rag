@@ -1,0 +1,15 @@
+Description:
+A phospholipid used in lipid-based formulations.
+
+Text:
+Here we aim to present a workflow which can, in part, provide a roadmap towards the
+facile integration of ML tools for the microfluidic development of nanomedicines. 2
+Materials and methods
+2.1
+Materials
+1,2distearoylsnglycero3phosphocholine (DSPC), 1,2dipalmitoylsnglycero3phosphocholine (DPPC), methoxy
+or carboxylterminated 1,2distearoylsnglycero3phosphoethanolamineN(polyethylene glycol)2k (DSPEPEG2k),
+and 1,2dioleoyl3dimethylammoniumpropane (DODAP) were purchased from Avanti Polar Lipids. Choles
+terol and poly(lactidecoglycolide) (Resomer RG 504 H, 5050 lactideglycolide, MW3854 kDa) were pur
+chased from Merck. 2
+httpsdoi.org10.26434chemrxiv20252lb14 ORCID httpsorcid.org0000000278865245 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

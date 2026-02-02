@@ -1,0 +1,28 @@
+Description:
+An energy vector essential for decarbonization and reducing dependence on fossil fuels.
+
+Text:
+The use of hydrogen as an energy vector has been declared an essential strategy for the European Union
+(EU) for decarbonization of its energy generation and to reduce its dependence on imported fossil fuels. However, in 2022, only 2 of Europes energy was provided by H2, and of that, 96 was produced from
+natural gas 1. Currently, there are four major electrolyzer technologies Proton exchange membrane
+electrolysis (PEMEL), alkaline electrolysis (AEL), anion exchange membrane water electrolysis (AEMEL),
+and solid oxide electrolysis (SOEL). Amongst them, AEL and PEMEL are the most mature and commer
+cially available 2. PEMEL relies heavily on platinum group metals (PGMs) as catalysts, which hinders its
+largescale deployment 3, 4.
+
+
+---
+
+Description:
+Involved in the Hydrogen Evolution Reaction (HER) in alkaline electrolyzers.
+
+Text:
+AEL, on the other hand, uses nonnoblemetal catalysts, making it cheaper,
+but typically results in lower efficiency. Therefore, significant improvements in efficiency while maintaining
+stable operation are necessary for AEL 5, 6, 7, 8. Alkaline electrolyzers comprise two halfcell reactions, the Oxygen Evolution Reaction (OER) and the
+Hydrogen Evolution Reaction (HER), with the cell efficiency being drastically undermined by the slug
+gish kinetics of the OER. Therefore, research focuses on exploring more active catalyst materials for the
+OER. Despite the importance of high catalytic activity to minimize overpotential losses, the catalysts
+durability should not be forgotten. Catalysts are seldom tested under industrial electrolyzer conditions,
+creating a discrepancy between laboratory test conditions and industrial electrolyzer conditions displayed
+in Figure 1.

@@ -1,0 +1,25 @@
+Description:
+A molecular component essential for normal physiological conditions.
+
+Text:
+Hypoxia is a condition occurring in several disorders resulting in lower levels (15) of molecular oxygen 
+(O2) compared to the normoxic conditions of healthy physiological environment, where the O2 tension 
+is typically between 10 and 21.1 This status is mainly induced by the poor vascularization or impaired 
+blood flow characterizing potentially fatal illnesses like solid tumors,2,3 microbial4 and fungal5 
+infections and biofilms, cerebral6 and myocardial7 ischemia, etc. The harshness of hypoxia resides 
+in its ability to annihilate the efficacy of current drugbased therapies as it boosts drug resistance4 and 
+to reduce the effects of radiotherapy8 and photodynamic therapy (PDT)9 as well.
+
+
+---
+
+Description:
+Singlet oxygen (1O2) is photochemically generated in situ upon irradiation of the reaction mixture.
+
+Text:
+The addition to polycyclic aromatic precursors of singlet oxygen (1O2) photochemically generated in situ 
+upon irradiation of the reaction mixture containing a substoichiometric amount of a photosensitizer 
+(PS), is a most efficient way to form EPOs.10 This photooxygenation reaction is straightforward and 
+typically results in final products bearing the target intramolecular OO bridge. Selection and positioning 
+of the substituents on the aromatic cores are crucial for the overall ability to selectively bind and release 
+O2.

@@ -1,0 +1,15 @@
+Description:
+Used as an electrode material in electroformation of lipid films.
+
+Text:
+GUVs (giant unilamellar vesicles) are a commonly used 
+model system to probe lipid phase behavior14, membrane
+protein interactions510, and to encapsulate cellular machinery11
+14. GUVs are an attractive model systems not only due to their 
+large size (typically 10 to 20 m in diameter), which allows for 
+convenient imaging via optical microscopy1518, but also due to 
+their ease of production. GUVs are commonly produced by either gentle hydration or 
+electroformation. Although both methods start with a lipid 
+mixture dried as a film, for gentle hydration the film is dried 
+onto glass, while for electroformation the film is dried onto 
+either platinum electrodes or iridium tin oxide slides19.

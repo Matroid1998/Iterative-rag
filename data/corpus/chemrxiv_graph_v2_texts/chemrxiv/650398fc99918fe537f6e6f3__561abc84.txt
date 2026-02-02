@@ -1,0 +1,13 @@
+Description:
+Complexes frequently encountered in synthetic organometallic chemistry and are cornerstones of modern coordination chemistry.
+
+Text:
+. Transition metal (TM) carbonyl complexes are frequently encountered in synthetic 
+organometallic chemistry and are cornerstones of modern coordination chemistry. Owing to the 
+diverse physicochemical properties and the tunability of their reactivity through modification of 
+the metal center, they have numerous industrial1, biochemical2, and catalytic3, 4 applications. Hence, isolated gasphase TM(CO)n models and the chemisorption of CO on metal surfaces are 
+often investigated to shed light on their catalytic potencies.59 
+The fact that the dominant binding mode of CO with electropositive metals is via the less 
+electronegative C rather than the more electronegative O is at first glance surprising.10 This unique 
+characteristic of CO arises from the twoelectron s lone pair present on the C, making it the 
+strongest ligand in the spectrochemical series.

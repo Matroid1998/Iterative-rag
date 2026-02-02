@@ -1,0 +1,11 @@
+Description:
+A solvent used in predicting pKa values for CH bonds using computational methods.
+
+Text:
+Grzybowski and coworkers recently addressed this gap by predicting pKa values for CH
+bonds in dimethylsulfoxide (DMSO) using a Graph Convolutional Neural Network (GCNN).3
+Using a mix of experimental and computationally computed pKa data, they achieve a mean
+absolute error (MAE) of 2.1 pKa units. Lee and coworkers also address this problem by
+creating a general machine learning (ML) model using either a neural network or XGBoost. They train on experimental pKa values in 39 solvents from the Internet Bondenergy Data
+bank (iBonD). Hereafter, they can predict the lowest pKa value for a wide range of molecules
+that contain bonds such as NH, OH, CH, SH, PH.

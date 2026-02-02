@@ -1,0 +1,15 @@
+Description:
+A reagent that is violently reactive with water and used in sulfonation reactions.
+
+Text:
+One notable
+example is Prontosil which was discovered to have the same active pharmacophore as
+sulfanilamide.1 The breakthrough that valuable drugs could be synthesized from
+seemingly tangential precursors in the early 1900s led to a proliferation of sulfa drugs
+and revolutionized the age of chemotherapeutics.2, 3
+Despite the simplicity of the structure of sulfanilamide, the reagents in the conventional
+synthesis protocol are often acutely toxic and hazardous according to modern safety
+standards. Namely, sulfonation requires the generation of SO2 gas in situ, which
+necessitates a great deal of patience in allowing dissolved SO2 to react with the aniline
+substrate along with the risk of extreme heat generation and toxic gas evolution. Sulfonation can be conveniently performed with chlorosulfonic acid, but the reagent is
+violently reactive with water.

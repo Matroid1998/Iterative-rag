@@ -1,0 +1,14 @@
+Description:
+Widely established as host materials for ion intercalation reactions.
+
+Text:
+The charge storage mechanism of lithiumion batteries, as well as of novel cell chemistries 
+beyond lithium, is based on electrochemical ion intercalation. The process involves the 
+reversible storage of ions in a solidstate host electrode material that is typically undergoing 
+small structural changes. Solidstate diffusion of the ions within the host lattice, as well as 
+associated volumetric andor crystallographic phase changes of the host itself, can limit the 
+kinetics of the intercalation reaction. To realize high power charge storage processes, 
+strategies to mitigate such limitations are being developed from an electrode perspective 
+across length scales, from the macroscopic particle size scale down to the microscopic atomic 
+arrangement within the host.14 
+Vanadium oxides are widely established as host materials for ion intercalation reactions.

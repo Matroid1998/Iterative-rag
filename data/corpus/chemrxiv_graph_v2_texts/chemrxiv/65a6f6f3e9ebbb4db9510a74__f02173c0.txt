@@ -1,0 +1,13 @@
+Description:
+A noncatalytic residue in protein tyrosine phosphatase that can affect enzyme pHrate dependency.
+
+Text:
+Additionally, the kinetic pKa values reflected in a pHrate profile are 
+often distorted from the intrinsic, or thermodynamic, pKa values of catalytic residues.68 For 
+example, we recently showed that a point mutation to a noncatalytic residue in the protein tyrosine 
+phosphatase (PTP) YopH does not significantly affect its maximal turnover number, but broadens 
+its pHrate dependency, making the variant a much faster enzyme at low pH than the native 
+enzyme.9 A computational analysis showed this catalytic change arose from mutationinduced 
+changes in conformational equilibria. Point mutations can also alter the pKa of neighboring 
+residues by altering the electrostatic environment, or, by inducing changes in hydrogen bonding 
+httpsdoi.org10.26434chemrxiv2024rbbnk ORCID httpsorcid.org0000000231901173 Content not peerreviewed by ChemRxiv. License CC BY 4.0

@@ -1,0 +1,19 @@
+Description:
+Have higher mobility.
+
+Text:
+Here we
+show that a good fit on the total loss function results
+in good intra, but poor inter relative accuracies. In
+practice, this makes it difficult to fit the inter contri
+bution which underlies the thermodynamic properties
+of the liquid state. Specifically, this paper develops an ML force field
+for the binary solvent ECEMC (37 M) of the stan
+dard LP57 electrolyte1. This formulation comprises
+a mixture of cyclic and linear carbonates because
+of their complementary properties cyclic carbonates
+have large dipole moments and can efficiently dissoci
+ate the salt, while linear carbonates have higher mobil
+11M LiPF6 in ECEMC (37)  10 ppm H2O, BASF
+1
+httpsdoi.org10.26434chemrxiv2022l4tb9v2 ORCID httpsorcid.org0000000239635076 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

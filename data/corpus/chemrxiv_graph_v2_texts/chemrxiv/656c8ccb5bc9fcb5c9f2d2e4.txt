@@ -1,0 +1,11 @@
+Description:
+A metal whose meniscus position in a capillary can be controlled by applying an external voltage.
+
+Text:
+Electrowetting is an electrocapillary phenomenon that was identified initially by Lippmann16, 
+who demonstrated that the position of the mercury meniscus in a capillary can be controlled by 
+applying an external voltage. Nowadays, the term electrowetting is generally referred to any 
+situation where the application of voltage induces shape variations of a liquidliquid or 
+liquidgas interface17,18. Experiments are normally performed with a dielectric layer between 
+the electrode and the solution (Electrowetting on Dielectric, EWOD) in order to prevent 
+degradation of both the substrate and the electrolyte (i.e., electrolysis).

@@ -1,0 +1,9 @@
+Description:
+A carbonaceous material that exhibits D1, D2, D3, and D4 bands in Raman spectroscopy.
+
+Text:
+Diamond has a Raman peak at 1332 cm1, corresponding to the vibration of its two 
+Bravais lattices of carbon atoms with respect to each other (Krishnan, 1945). The crystalline graphite has a G peak 
+at 1582 cm1 and a G (or 2D) peak at 2700 cm1 (Malard et al., 2009). In other carbonaceous materials, such as soot, 
+kerogen, and biochar, besides the G band we find the D1, D2, D3 and D4 bands mentioned by Beyssac et al., 2002, 
+and Sadezky et al., 2005.

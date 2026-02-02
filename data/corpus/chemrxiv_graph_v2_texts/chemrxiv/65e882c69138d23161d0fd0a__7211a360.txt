@@ -1,0 +1,30 @@
+Description:
+Used in carbon-supported nanocatalysts for the oxygen reduction reaction in PEMFCs.
+
+Text:
+In recent years, the proton exchange membrane fuel cell (PEMFC), as ideal energy supply 
+device, has received much attention owing to their good operability and high energy efficiency. However, the development of practical PEMFC has long been hindered by the short lifetime of 
+membrane electrodes. The sluggish kinetics of the oxygen reduction reaction (ORR), even 
+using the best carbonsupported Pt nanocatalysts, is six orders of magnitude slower than that of 
+the anode. Therefore, developing highperformance cathode catalysts is the key to accelerate 
+the commercialization of PEMFCs. To date, carbonsupported Ptbased nanocatalysts are 
+considered to be the most effective and massproducible cathode catalysts.1 However, Pt
+based catalysts suffer from oxidative dissolution at potentials higher than 0.8 V vs. RHE, which 
+can cause severe activity degradation.
+
+
+---
+
+Description:
+Suffers from oxidative dissolution at potentials higher than 0.8 V vs. RHE, leading to activity degradation.
+
+Text:
+In recent years, the proton exchange membrane fuel cell (PEMFC), as ideal energy supply 
+device, has received much attention owing to their good operability and high energy efficiency. However, the development of practical PEMFC has long been hindered by the short lifetime of 
+membrane electrodes. The sluggish kinetics of the oxygen reduction reaction (ORR), even 
+using the best carbonsupported Pt nanocatalysts, is six orders of magnitude slower than that of 
+the anode. Therefore, developing highperformance cathode catalysts is the key to accelerate 
+the commercialization of PEMFCs. To date, carbonsupported Ptbased nanocatalysts are 
+considered to be the most effective and massproducible cathode catalysts.1 However, Pt
+based catalysts suffer from oxidative dissolution at potentials higher than 0.8 V vs. RHE, which 
+can cause severe activity degradation.

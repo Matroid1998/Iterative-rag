@@ -1,0 +1,12 @@
+Description:
+A source for carbon capture and sequestration (CCS) from the atmosphere or emission sources.
+
+Text:
+Irrespective of the desirable reduction in the combustion of fossil fuels, carbon capture 
+and sequestration (CCS) is needed to remove CO2 from both the atmosphere and 
+industrial processes in order for Climate targets to be met (Seneviratne et al., 2016) 
+and Nations to reach Net Zero (Pye et al., 2017; Frster et al., 2022). The carbon 
+source for CCS can be either via direct air capture from the atmosphere, from an 
+emission source, or using CO2 separated from an emission source. Direct air capture 
+(DAC) has an issue that the natural concentration in the air is low (412 ppm, 0.04) 
+and thus any chemical reaction is slow (Zhu, 2022).

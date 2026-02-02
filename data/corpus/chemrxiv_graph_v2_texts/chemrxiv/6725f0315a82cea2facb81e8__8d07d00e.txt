@@ -1,0 +1,23 @@
+Description:
+A ligand variant in metallocene complexes.
+
+Text:
+One of 
+these is more prone to form the heterodinuclear, outersphere 
+ionpair (OSIP 3), which is the dominant species present at high 
+AlZr ratios.5 It is known that OSIP 3 and its polymeric analogues 
+are resting states in hexene polymerization using this catalyst.6 
+More recently, the activation of metallocene complexes L2ZrX2 
+L2  Cp2, nBuCp2, rac(CH2)2Ind2 (racEBI), X  Cl or Me by MAO 
+using the technique of ESIMS in fluorobenzene solvent has 
+been studied.7 This technique, which selectively detects the 
+cations and anions corresponding to OSIP 3, complements 
+earlier spectroscopic studies in that activation of ansa
+metallocene complexes by MAO is uncomplicated by formation 
+of homodinuclear (L2ZrMe)2X (X  Me, Cl) complexes.8 
+Unfortunately, ESIMS does not provide information about CIP, 
+as the L2ZrMe cation is only indirectly detected through gas 
+phase, collision induced dissociation of the L2ZrMe2AlMe2 
+cation.9 
+However, ESIMS does provide the mz ratio of the counter
+anions that are present.

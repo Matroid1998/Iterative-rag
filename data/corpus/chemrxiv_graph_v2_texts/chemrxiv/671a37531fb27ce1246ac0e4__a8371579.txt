@@ -1,0 +1,18 @@
+Description:
+A class of 2D materials with unique properties and applications.
+
+Text:
+2D materials have become increasingly relevant in a wide
+variety of research areas, ever since the initial exfoliation
+of graphene in 2004 1. Since graphenes discovery,
+many classes of 2D materials have been discovered,
+such as hexagonalboron nitride, MXenes and transition
+metal dichalcogenides (TMDs); each with their own
+unique and distinct properties, and applications 26. TMDs are a class of layered materials in which,
+similarly to graphite, there are covalently bonded mono
+layers with van der Waals interactions between layers
+to form layered bulk structures. Unlike graphite, where
+all atoms are in a single plane, TMD monolayers consist
+of a covalent XMX sandwich structure, with X and
+M being the chalcogen and metal species respectively
+7.

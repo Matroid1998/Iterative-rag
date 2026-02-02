@@ -1,0 +1,13 @@
+Description:
+A Janus Kinase (JAK) inhibitor that interacts with primary therapeutic targets to suppress inflammation.
+
+Text:
+Janus Kinase (JAK) inhibitors were recently identified as promising drug candidates for 
+repurposing in Alzheimers disease (AD) due to their capacity to suppress inflammation via modulation 
+of JAKSTAT signalling pathways. Besides interaction with primary therapeutic targets, JAK inhibitor 
+drugs frequently interact with unintended, often unknown, biological offtargets, leading to 
+associated effects. Nevertheless, the relevance of JAK inhibitors offtarget interactions in the context 
+of AD remains unclear. Methods Putative offtargets of baricitinib and tofacitinib were predicted using a machine learning 
+(ML) approach. After screening scientific literature, offtargets were filtered based on their relevance 
+to AD. Targets that had not been previously identified as offtargets of baricitinib or tofacitinib were 
+subsequently tested using biochemical or cellbased assays.

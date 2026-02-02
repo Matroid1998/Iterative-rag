@@ -1,0 +1,14 @@
+Description:
+Used in electrolysis with anion-exchange membranes for energy conversion.
+
+Text:
+Current CO2 electrolysis efforts using the MEA technology demonstrate energy efficiencies of only up to 34 
+and operating lifetimes of tens to a few hundred hours, indicating a gap that needs to be addressed.46 
+
+Typically, the MEA (Figure 1A) has a compact design and facilitates efficient transport of reactants. A gas diffusion layer 
+(GDL) coated with a catalyst layer allows reactants and products to be transported through the GDL to the active catalyst 
+location. Positioned between the two GDLs is an ion exchange membrane that transports ions and water between the 
+httpsdoi.org10.26434chemrxiv2023g39tj ORCID httpsorcid.org0000000277071064 Content not peerreviewed by ChemRxiv. License CC BY 4.0
+
+cathode and the anode. In particular, anionexchange membranes (AEMs) are regarded as one of the most promising 
+membranes for CO2 electrolysis.

@@ -1,0 +1,21 @@
+Description:
+Involved in the hydrogen evolution reaction in aqueous solutions.
+
+Text:
+30 
+The interface between metal surfaces and solutions presents a complex chemical environment. 31 
+Interfacial regions are often increasingly reactive compared to bulk solutions facilitating catalytic 
+32 
+reactions. Additionally, molecules or ions can adsorb onto the metal surface, thereby altering the 
+33 
+concentration of species in both the solution and on the metal surface and altering the energetics 
+34 
+and kinetics of electrocatalytic reactions at the electrodeelectrolyte interface. In aqueous 
+35 
+solutions, water often serves as both a reactant and a solvent, influencing reactions such as the 
+36 
+hydrogen evolution reaction (HER), oxygen reduction reaction, and the CO2 reduction reaction. (1
+37 
+3) Understanding the role of interfacial water structure is essential for advancing the understanding 
+38 
+of electrocatalytic processes in aqueous media. 39

@@ -1,0 +1,48 @@
+Description:
+A compound abundant on Earth, used in conversion reactions to produce valuable products.
+
+Text:
+Methane reserves are abundant on Earth and there are substantial economic and envi
+ronmental benefits for converting methane to complex molecules instead of burning it as
+fuel. From the environmental perspective, using methane as fuel is not ideal because of the
+undesirable release of carbon dioxide into the atmosphere. In economics terms, products of
+methane conversion are more valuable than inert methane because they can be used in a
+variety of downstream chemical manufacturing processes. These considerations have driven
+extensive efforts to develop methane conversion reactions 17. Presently, the commercial processes of methane conversion, such as steam reforming or
+partial oxidation, are multistep indirect procedures that produce synthesis gas that is then
+converted into highvalue products, such as methanol, olefins, and parafins 3, 5.
+
+
+---
+
+Description:
+A compound with low chemical reactivity, challenging for direct conversion to value-added products.
+
+Text:
+Due to
+losses in each step, a direct conversion of methane is more desirable and has been stud
+ied extensively 8. Unfortunately, direct conversion of methane to valueadded products is
+challenging because of the low chemical reactivity of methane. Direct methane activation
+has usually involved a bulk catalyst, owing to the advantages of simply pumping methane
+gas onto solids that can handle high temperatures and pressures. Oxidative coupling of
+methane has mostly been reported for heterogenous catalysts 8. Methane dehydroarom
+atization, where methane is converted nonoxidatively into aromatic compounds, mainly
+benzene, has also been performed exclusively heterogeneously, using HZSM5 and HMCM5
+zeolites containing molybdenum centers 6 and more recently gallium nitride 9, 10.
+
+
+---
+
+Description:
+Homogeneous activation reactions offer advantages like lower reaction temperature and improved selectivity.
+
+Text:
+How
+ever, homogeneous dehydroaromatization of higher alkanes has been demonstrated using a
+molecular iridium catalyst 11. Homogeneous methane activation reactions are of great interest because they offer several
+potential advantages over heterogeneous processes, including the stabilization of products
+through solvation effects, a variety of effective heat management strategies, lower reaction
+temperature, greater control of the reaction mechanism, and improved selectivity 12. The
+high reactivity of transition metal complexes has enabled considerable advances in homo
+geneous activation of methane in synthetic chemistry over the years, from the latter half of
+the 20th century onwards. 13, 8, 1315.

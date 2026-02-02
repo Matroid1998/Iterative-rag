@@ -1,0 +1,17 @@
+Description:
+Atoms whose pz orbitals contribute to the valence band maximum, enabling efficient charge transfer.
+
+Text:
+However,
+the pz orbitals of the chalcogen atoms contribute to the valence band
+maximum, enabling efficient charge transfer even with relatively weak
+Corresponding author
+Email address maciej.szaryput.poznan.pl (Maciej J. Szary)
+surface interactions 28, making the electronic properties of TMDs
+highly sensitive to surface interactions and expanding their potential
+for diverse applications 415. Although 2D TMD surfaces are chemically inert, they can still
+be effectively utilized in electrocatalysis due to the presence of active
+sites located at the coordinatively unsaturated metal centers along the
+edges or introduced through defects such as chalcogen vacancies 29
+36. As a result, MoX2 sheets serve as electrocatalysts in a variety of
+crucial chemical processes.

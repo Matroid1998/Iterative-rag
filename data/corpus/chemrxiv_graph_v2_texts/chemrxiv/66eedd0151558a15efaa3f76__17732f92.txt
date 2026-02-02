@@ -1,0 +1,13 @@
+Description:
+A high-Z transition metal complex (TMC) that acts as a CT chromophore.
+
+Text:
+When the lifetime of the LEES is sufficiently long, the metastable CT
+chromophore can trigger elementary reactions in solution and on surfaces (Gust2008). Widespread CT chromophores are highZ TM complexes (TMC), such as Ru(bpy)32
+(Prier2013). Recent progress has delivered lowZ TMC that exhibit a LEES of CT character,
+rather than the more common metalcentered (MC) character (Liu2013). The deactivation
+from the highenergy excited state (HEES) manifold to the LEES then stands as the
+predominant loss channel inherently limiting the yields and efficiencies attainable via
+molecular approaches to photonversion with CT chromophores (Gust2008, Cotic2024). Overcoming this hurdle is a complex task, which is engaging increasing efforts across
+scientific fields (Wegner2018). A promising strategy consists in utilizing the intramolecular
+CT before relaxation to the LEES.

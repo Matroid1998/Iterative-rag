@@ -1,0 +1,53 @@
+Description:
+A moiety present in natural products, pharmaceuticals, organic materials, and catalysts.
+
+Text:
+The omnipresence of the pyridine moiety in natural products, phar
+maceuticals, organic materials, and catalysts accentuates its privi
+leged character; examples relevant to this work are shown in Figure 
+1A.1,2,3,4,5,6 Given this importance, many metalcatalyzed pathways,7 
+such as CH activation,8 rearrangement,9 ringexpansion,10 multi
+component reactions,11 and molecular editing approaches12 have 
+been developed for its synthesis.
+
+
+---
+
+Description:
+Synthesized through intermolecular transition metal-catalyzed cycloadditions of nitriles and alkynes.
+
+Text:
+Intermolecular transition metalcatalyzed cycloadditions between ni
+triles and alkynes also represent a straightforward but less explored 
+atomeconomical approach for synthesizing multisubstituted pyri
+dines (Figure 1B).23 However, following this strategy, only the cou
+pling of two identical alkynes is possible. To the best of our 
+knowledge, the intermolecular coupling between two different al
+kynes and a nitrile was only accomplished in a stepwise fashion using 
+stoichiometric amounts of Cp2ZrEt2 and NiCl2(PPh3)2 by Takahasi 
+and coworkers24a or using titanium alkoxide by Sato and cowork
+ers.24b 
+Thus, a catalytic strategy to realize a threecomponent crossannula
+tion of two different alkynes with nitriles would consist of a valuable 
+expansion of the current state of the art, allowing the synthesis of di
+verse pyridine scaffolds.
+
+
+---
+
+Description:
+A compound that can be synthesized through photocatalytic cyclization of aromatic alkynes with nitriles.
+
+Text:
+Recent discoveries and upsurge of research in the photo and elec
+trochemistry domain offer an alternative to classical metalmediated 
+reaction conditions to construct pyridine rings. Wang, Meng, and 
+coworkers reported a photocatalytic 222 cyclization of 
+aromatic alkynes with nitriles for the synthesis of 2,3,6
+trisubstituted pyridines using a pyrylium salt as the photoredox 
+catalyst (Figure 1C)25 that was able to overcome the high oxidation 
+potentials of alkynes being the major challenge in this type of 
+transformation. Electrochemistry has the advantage of employing 
+electrons as traceless redox reagents for activating common and inert 
+organic molecules, particularly alkynes,26 for generating highly reac
+tive intermediates.

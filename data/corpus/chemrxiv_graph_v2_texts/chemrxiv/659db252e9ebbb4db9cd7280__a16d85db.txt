@@ -1,0 +1,12 @@
+Description:
+A solvent used in nitroMichael addition reactions.
+
+Text:
+Farrar and Grayson28 employed ML models to predict DFTquality activa
+tion barriers for various nitroMichael addition reactions in toluene based on the features
+generated from semiempirical methods. These approaches, however, require semiempirical
+QMMM steps that are less suitable for instantaneous, automatic rate predictions. Fur
+thermore, their models are limited to a single solvent and need the 3D coordinates or QM
+features of reactants and transition states as inputs, which are not readily available. The ML models by Jorner et al.26 and by Heid and Green15 are the few cases that can
+predict reaction properties in multiple solvents only based on the 2D structural information
+of molecules.

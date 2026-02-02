@@ -1,0 +1,11 @@
+Description:
+The nucleotide-activated form of Kdo8N3 processed inside the bacterial cytosol.
+
+Text:
+Several studies have used 
+this modified Kdo substrate to metabolically label LPS in a selection of Gramnegative bacteria (Figure 
+1).9,1318 Labeling experiments involve the uptake of Kdo8N3 inside the bacterial cytosol, where it is 
+processed to the nucleotideactivated CMPKdo8N3 form. Next, Kdotransferase adds Kdo8N3 to the 
+growing lipid A structure, after which the glycoconjugate is flipped to the extracellular surface. A 
+subsequent click reaction with a fluorescent label allows the visualization of labeled LPS structures 
+using SDSPAGE gel imaging and fluorescence microscopy on whole cells.

@@ -1,0 +1,13 @@
+Description:
+A TADF emitter with limited water solubility, forming nanoparticles with a photoluminescence quantum yield of 19.4 and PL at 503 nm.
+
+Text:
+2) Selfassembled 
+nanoparticles.6 Selfassembled waterdispersible nanostructures (NPs) based on three known TADF 
+emitters (2CzPN, 4CzIPN, and 4CzIPNPh, Figure S1b) were reported by Lee et al. that relied on the 
+limited water solubility of these compounds to form the NPs with sizes ranging from 80 to 200 nm.6a 
+All three NPs showed a slight redshift in their PL compared to those in toluene, coupled with a slight 
+decrease of their respective photoluminescence quantum yield (PL) (19.4 for 2CzPN NPs, PL  
+503 nm; 11.9 for 4CzIPN NPs, PL  518 nm; and 3.6 for 4CzTPNPh NPs, PL  588 nm). One 
+and twophoton fluorescence images using these NPs in an A549 cell were obtained using fluorescence 
+microscopy and laser scanning confocal fluorescence, respectively.

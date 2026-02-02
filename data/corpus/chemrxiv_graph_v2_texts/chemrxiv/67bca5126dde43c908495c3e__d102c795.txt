@@ -1,0 +1,16 @@
+Description:
+Part of the redox probe development for selective reduction in cellular contexts.
+
+Text:
+Yet, identifying substrates that allow 
+fast and catalytic, specific ontarget processing, but are robust to 
+other (di)thiol redox proteins or to monothiols despite their 
+similar reduction chemistry, has been a major problem. In this paper, we will be working with SeSP probes built around 
+a novel chemotype of bicyclic selenenyl sulfides (Figure 1a), in 
+which several structural features must be combined (e.g., cis ring 
+fusion, piperazine annelation, 1,2Se,N probe disposition). This 
+design is intended to gain selectivity in the cellular context for 
+reduction by TrxR5, while avoiding monothiol reduction, by 
+leveraging several kinetic differences in their respective reduction 
+pathways (Figure 1a, top vs bottom). This design is the culmination of several generations of 
+dichalcogenide redox probe development.

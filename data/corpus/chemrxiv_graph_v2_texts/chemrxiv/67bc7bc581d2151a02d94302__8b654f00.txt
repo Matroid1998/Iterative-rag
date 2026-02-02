@@ -1,0 +1,36 @@
+Description:
+A valuable metal recovered from end-of-life LIBs.
+
+Text:
+Recent efforts to 
+reduce Co content in NMC batteries, due to its high cost and 
+ethical concerns, have led to the development of high Ni 
+variants such as NMC622 (LiNi0.6Mn0.2Co0.2O). It is estimated 
+that, by 2050, the production of NMCbased LIBs from primary 
+resources to fulfill the future demand will lead to the emission 
+of greenhouse gases totaling 8.2 GtCO2eq.3 Thus, sustainable 
+recycling of NMCbased endoflife LIBs by recovering valuable 
+metals such as Li, Ni, Mn, and Co will not only reduce the burden 
+on primary resources but also minimize the environmental 
+impacts.
+
+
+---
+
+Description:
+A valuable component found in black mass from end-of-life LIBs.
+
+Text:
+Another valuable component of endoflife LIBs is 
+graphite (anode) which has been classified as a critical raw 
+material.4 It accounts for 40  of LIBs by weight and recycling 
+graphite has also gained traction recently.5 Recycling endoflife 
+LIBs usually begins with the preparation of black mass, which is 
+produced by safely discharging, shredding, grinding, and then 
+milling the endoflife LIBs.6 Black mass (BM), a fine powder, 
+contains valuables such as Li, Ni, Mn, Co, graphite, and small 
+amounts of Al and Cu current collectors. Material characterization 
+techniques are significant 
+in 
+developing sustainable and efficient pretreatment and 
+recycling processes for endoflife LIBs.

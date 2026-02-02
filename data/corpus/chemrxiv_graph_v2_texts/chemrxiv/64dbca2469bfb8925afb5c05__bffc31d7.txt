@@ -1,0 +1,16 @@
+Description:
+Used in the form of a Willis reagent for addition in the synthesis of sulfanilamide.
+
+Text:
+In this experiment, a different synthetic angle was
+explored to create sulfanilamide which would be markedly more efficient and safe. This
+method involves a Willis reagent which performs SO2 addition through a
+O(tertButyl)Nsulfinylhydroxylamine (tBuONSO) intermediate that houses a relatively
+stable aqueous thionyl intermediate.4 This eliminates the need to rely on SO2 gas
+dissolved in water to nucleophilically attack the substrate, but directly substitutes the
+thionyl group onto O(tertbutyl)hydroxylamine hydrochloride to form the activate
+sulfonation reagent tBuONSO. The next step utilizes a grignard reagent
+(4Bis(trimethylsilyl)aminophenylmagnesium), which overall achieves the same effect
+as a sulfonation. This further eliminates the need to protect the aniline with an
+acetamide. Overall, this approach is drastically different from the standard reaction flow
+to synthesize sulfanilamide1.

@@ -1,0 +1,12 @@
+Description:
+A polymer with a high melting temperature suitable for processing in filament-fed MEW 3D printers.
+
+Text:
+To keep expanding the versatility of 
+MEW, it is essential to increase the range of processable materials8, 10. Until the recent development of 
+filamentfed MEW 3D printers1113, thermally degradable polymers have been problematic to process. Our 
+recent opensource MEW printer (termed the MEWron)11 allows the replacement of traditional pneumatic
+driven extrusion and syringelike reservoirs with gearbased extrusion systems and filamentbased feeding. These modifications reduce the volume of molten material and minimize the risk of thermal degradation, 
+allowing the processing of polymers with high melting temperature such as polydioxanone13, polylactic 
+acid11 and thermoplastic polyurethane11. Filamentdriven MEW printers also provide opportunities to 
+increase the heating temperature for processing, for polymers with higher melting points.

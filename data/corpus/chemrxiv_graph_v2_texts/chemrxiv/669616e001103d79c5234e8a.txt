@@ -1,0 +1,37 @@
+Description:
+A CDK4/6 inhibitor developed for cancer therapy due to its selective inhibition of retinoblastoma protein.
+
+Text:
+42 
+CDKs are a crucial class of enzymes belonging to the highly conserved SerThr kinase family, regulating 
+43 
+cell cycle progression in solid tumors by forming catalytically active heterodimeric complexes with cyclins 
+44 
+and controlling essential processes such as apoptosis, differentiation, and proliferation13. Among these 
+45 
+kinases, CDK4 and its close analog CDK6 have been the most extensively studied due to their critical role 
+46 
+in the G1 phase and G1S transition of the cell cycle. CDK46 inhibitors, such as palbociclib (Pzer)4, 
+47 
+ribociclib (Novartis)5, and abemaciclib (Eli Lilly)6, have been developed and approved for cancer therapy 
+48 
+due to their selective inhibition of retinoblastoma protein (Rb), a growth suppressor protein frequently 
+49 
+deregulated in cancer patients7,8.
+
+
+---
+
+Description:
+Carries a higher risk of grade 3 or grade 4 hematological toxicity.
+
+Text:
+Consequently, palbociclib and ribociclib carry a higher risk 
+63 
+of grade 3 or grade 4 hematological toxicity,13 while abemaciclib, associated with hematologic toxicity, 
+64 
+occurs less frequently, allowing for continuous dosing due to its enhanced selectivity index of CDK4 over 
+65 
+CDK646,13. Therefore, developing a CDK inhibitor that selectively targets CDK4 while sparing CDK6 
+66 
+httpsdoi.org10.26434chemrxiv202428hnn ORCID httpsorcid.org0009000393427950 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

@@ -1,0 +1,12 @@
+Description:
+A product of the reverse water-gas shift reaction and a component of syngas.
+
+Text:
+The reverse watergas shift (RWGS)14 and its corresponding reverse reaction (WGS) are key technologies 
+because of their central role in syngas conversion in the chemical industry. Furthermore, RWGS and WGS 
+processes are foreseen to play a major role in all processes related to CO2 conversion and H2 production, 
+which are central to possible strategies for the mitigation of CO2 emissions. Indeed, the RWGS reaction 
+enables the conversion of CO2 into syngas (CO  H2), which can be further converted into valueadded 
+chemicals via FischerTropsch synthesis and other syngas processes, e.g. methanol synthesis.58 RWGS 
+is endothermic (H0  42.1 kJmol) and thermodynamically favored at high operating temperatures 
+(500700 C). However, these harsh conditions result in catalyst deactivation and high energetic cost.

@@ -1,0 +1,12 @@
+Description:
+Widely used structures in medicinal chemistry due to their involvement in enzyme catabolism and signal transduction.
+
+Text:
+Purines are among the most widely used structures in medicinal chemistry. This is due to the large
+number of enzymes that use purine cofactors, known as purineutilising enzymes (PUEs), which
+are involved in the catabolism of purines and pyrimidines1. Additionally, purinergic receptors play a
+key role in signal transduction following their activation by extracellular purines. Therefore, purines are considered privileged structures in medicinal chemistry, with more than 15
+FDAapproved purine drugs. For example, Vidaza, 5fluorouracil, tecadenoson, and regrelor, to
+name a few2. Therefore, medicinal chemists have developed several synthetic routes to obtain
+structurally diverse purine libraries. The use of polysubstituted pyrimidines as core elements prior
+to the purine ring formation is one of the most widely used approaches.

@@ -1,0 +1,34 @@
+Description:
+Used in the peroxide shunt pathway to generate Cpd I.
+
+Text:
+This is 
+hampered by the need for external electron transfer part
+ners and nicotinamide cofactors (NAD(P)H) to initiate reac
+tions.13 Others have attempted to overcome this by reducing 
+a crystal of substratebound P450s with electrons from the 
+Xray beam and in certain instances this can result in oxida
+tion.1416 This approach has also led to the proposed for
+mation of electron density consistent with an oxyferryl (Cpd 
+I), the main oxidant of the P450 catalytic cycle.17 18 
+An alternate strategy to initiating enzymatic reactions in 
+protein crystals of P450 enzymes is the use of the peroxide 
+shunt pathway.19 The peroxide shunt pathway is able to 
+generate Cpd I (Scheme 1) directly using hydrogen perox
+ide.
+
+
+---
+
+Description:
+Used to initiate reactions in P450 peroxygenases.
+
+Text:
+A small number of P450s are able to use this pathway 
+for catalysis to act as peroxygenases.2026 As this shunt path
+ways and these P450 peroxygenases only requires hydro
+gen peroxide (H2O2) to initiate reactions, it may be possible 
+to trigger in crystallo P450 reactions by simply soaking the 
+crystal with peroxide. This could then potentially be used to 
+trap and study the reactive intermediates involved in these 
+enzyme reactions.

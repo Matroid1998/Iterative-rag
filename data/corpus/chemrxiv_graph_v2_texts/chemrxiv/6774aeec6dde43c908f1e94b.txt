@@ -1,0 +1,17 @@
+Description:
+A cofactor used by enzymes to catalyze asymmetric intermolecular radical CC couplings.
+
+Text:
+In 2023, through the cooperative interactions between the biocat
+alyst and the smallmolecule photosensitizer, our group reported the 
+first use of pyridoxal 5phosphate (PLP)dependent enzymes to cat
+alyze asymmetric intermolecular radical CC couplings which were 
+not previously known in either organic chemistry or biochemistry.6a 
+In this process, the key reactive radical intermediate forms photo
+catalytically outside the enzyme active site and then travel into the 
+active site, likely guided by hydrophobic interactions with the en
+zyme pocket, for productive bond formation with an enzymatic in
+termediate.6 By separating radical generation from enzymatic sub
+strate activation, this new mechanism holds the potential to be gen
+eralized to diverse enzyme families, including those lacking a redox
+active cofactor.

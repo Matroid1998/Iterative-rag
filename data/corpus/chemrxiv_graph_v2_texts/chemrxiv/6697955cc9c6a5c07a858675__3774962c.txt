@@ -1,0 +1,15 @@
+Description:
+A species formed by the coordination of dioxygen to metal centers.
+
+Text:
+Dioxygen can coordinate to firstrow transition metals (in different oxidation and spin states) with 
+several protonation states, and hapticity, leading to e.g. peroxo, superoxo, hydroperoxo or bis
+oxo species (see Scheme 1). Although crystal structures exist for all of these species,1,2 the 
+httpsdoi.org10.26434chemrxiv202356kdvv3 ORCID httpsorcid.org0000000281748488 Content not peerreviewed by ChemRxiv. License CC BY 4.0
+
+2 
+corresponding complexes are too large for treatment by accurate wavefunction methods like 
+CCSD(T) with large basis sets (augccpVQZ or better). This prevents the systematic validation3
+8 of more efficient yet less accurate quantumchemistry methods, e.g. based on density functional 
+theory,9 leading to uncertainty about the reliability and appropriateness of different density 
+functionals10,11 for this metaldioxygen chemistry. Scheme 1. Typical coordination of dioxygen towards (transition)metal centers

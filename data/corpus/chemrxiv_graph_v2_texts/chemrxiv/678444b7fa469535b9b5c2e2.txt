@@ -1,0 +1,31 @@
+Description:
+Influences the optical properties of photocatalytic materials.
+
+Text:
+Nitrogen, with its 
+higher electronegativity compared to carbon, introduces electronrich sites in the structure of the 
+material, which can alter its electronic properties 4. Nitrogen doping has been shown to enhance 
+the light absorption capabilities of semiconductors, particularly in the visible light range 5. This 
+is achieved through the creation of new energy levels within the material, which lowers the band 
+gap, allowing for more efficient photon absorption. Additionally, nitrogen doping can modify the 
+charge carrier dynamics, promoting charge separation and reducing recombination rates, which 
+are crucial for improving the efficiency of photocatalysts in HER 6. These modifications 
+ultimately contribute to a materials increased photocatalytic activity under visible light. Similarly, the incorporation of oxygen into organic molecules can also influence the optical 
+properties of photocatalytic materials 7.
+
+
+---
+
+Description:
+Has strong electronegativity and can donate electron density to surrounding conjugated systems, enhancing absorption properties and solubility in nonpolar solvents.
+
+Text:
+The oxygen atom in the organic material has a strong 
+electronegativity, which can donate electron density to the surrounding conjugated systems 8. This electrondonating ability can lower the materials band gap, enhancing its absorption 
+properties and allowing for the absorption of light in the visible or nearinfrared regions. In 
+addition to improving absorption, such functional groups can enhance the solubility of the material 
+in nonpolar solvents, facilitating better dispersion and interaction with reactants in photocatalytic 
+processes. By modulating the electron density and altering the molecular orbitals, the oxygen can 
+significantly tune the optical and electronic properties of materials, making them more suitable for 
+photocatalytic HER 9. The importance of photocatalysts in the context of clean energy and environmental sustainability 
+cannot be overstated.

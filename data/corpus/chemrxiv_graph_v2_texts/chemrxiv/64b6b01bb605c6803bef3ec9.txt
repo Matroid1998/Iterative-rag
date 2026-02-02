@@ -1,0 +1,35 @@
+Description:
+Used in acid hydrolysis for lignocellulose digestion at high temperatures.
+
+Text:
+Lignocellulose still has 
+untapped potential as renewable raw material, especially the 30  50  cellulose it contains, which 
+makes cellulose the most abundand (bio)polymer worldwide.1, 2 Of the 170x109 t lignocellulosic 
+biomass produced annually, only 34 are currently used for food and nonfood purposes.3 Once 
+digested, various platform chemicals such as 5hydroxymethylfurfural and furfural can be obtained 
+from cellulose.4, 5 Conventional aqueous digestions, like acid hydrolysis, were typically carried 
+out with sulfuric acid or hydrochloric acid at temperatures of 100180 C, leading to monomeric 
+sugars.68 An alternative to conventional digestions is mechanochemistry, which has advanced in 
+recent decades and was acknowledged as one of the top ten emerging technologies in chemistry 
+by IUPAC in 2019.9 As a solventfree process, mechanocatalysis enables lignocellulose digestion 
+through the combination of mechanical forces and a Brnsted acid.1012 Mechanocatalytic partial 
+depolymerization of lignocellulose, cellulose and hemicellulose is carried out with a strong 
+acid (pKa below 1.812), e.g.
+
+
+---
+
+Description:
+Shows remarkable differences in reaction processes and product spectrum compared to conventional processes.
+
+Text:
+sulfuric acid, and shows remarkable differences regarding the 
+reaction process and the product spectrum.1317 In contrast to conventional processes, 
+mechanocatalytic treatment produces oligomeric sugars, socalled glycans and xylans, instead of 
+monomeric sugars.18 Hereby a polymerization from glucose itself occurs which inhibits a 
+complete depolymerization to monomeric sugars.12 It should be emphasized that the temperature 
+is limited to about 90 C due to followup reactions starting from monomeric sugars up to 
+carbonization of the substrat.1922 In addition to the mentioned platform chemicals, glycans 
+represent a promising class of substances based on renewable raw materials. In a previous study 
+we showed that meachanocatalytic partial depolymerization of lignocellulosic materials, e.g. apple 
+httpsdoi.org10.26434chemrxiv202375wd5 ORCID httpsorcid.org0000000181961353 Content not peerreviewed by ChemRxiv. License CC BY 4.0

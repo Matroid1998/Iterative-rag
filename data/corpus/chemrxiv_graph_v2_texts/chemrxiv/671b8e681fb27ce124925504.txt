@@ -1,0 +1,14 @@
+Description:
+Forms nanocomposites to improve kinetics in ion intercalation reactions for energy storage.
+
+Text:
+Ion intercalation reactions within layered or twodimensional host materials have attracted 
+considerable attention in the field of electrochemical energy storage. They involve the 
+insertion of ions into the interlayer spaces of host materials causing small structural changes. This yields relatively high chemical and electrochemical reversibility and cycling stability,1 
+making layered materials promising candidates for applications in highpower energy storage 
+devices. Currently, improving the kinetics of ion intercalation reactions is at the core of such 
+research efforts. This includes a wide variety of approaches, including reducing crystallite 
+sizes,2,3 carbon nanocomposite formation,4,5 expanding interlayer distances,6,7 electrode 
+architecture design with hierarchical porosity,8,9 or facilitating ionsolvent cointercalation 
+reactions.1012 While any of these strategies can enhance the overall kinetics, they typically 
+aim to overcome different limitations of the charge storage process.

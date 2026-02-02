@@ -1,0 +1,29 @@
+Description:
+A surface on which ammonia decomposition occurs, relevant for hydrogen-based economy.
+
+Text:
+Here, we unravel the complex dynamic behaviour of a catalytic process in
+operando conditions by investigating the ammonia decomposition on a lithium
+imide (Li2NH) surface, a process that has received much attention for its pos
+sible role in a future sustainable hydrogenbased economy9,10,11,12,13,14 We
+perform state of the art simulations in which the interatomic forces are calcu
+lated with an accuracy close to that of ab initio molecular dynamics15. Our
+simulations reveal that the reactive process induces a change of state of the
+interface. Such a modified interfacial state is the actual catalytic medium, and
+one does not need to invoke any special stable arrangement of atoms.
+
+
+---
+
+Description:
+Exhibits superionic behavior with fast-diffusing Li cations and oscillating divalent imide anions.
+
+Text:
+Like many other ionic systems20 in
+which there is a large difference between anionic and cationic radii, lithium
+imide exhibits a superionic behaviour21,22 with the Li cations fast diffusing
+and the divalent imide anions oscillating around their equilibrium positions
+(Fig. 1b). As the temperature increases, Li cations sitting in a tetrahedral
+site can move first to an octahedral empty site, and then to a tetrahedral
+vacancy (Supplementary Video 1 and Supplementary Figure 1). The ease with
+httpsdoi.org10.26434chemrxiv2022qr7wtv2 ORCID httpsorcid.org000000028219224X Content not peerreviewed by ChemRxiv. License CC BY

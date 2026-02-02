@@ -1,0 +1,9 @@
+Description:
+A monomer used in the copolymerization process.
+
+Text:
+The copolymerization of styrene and various acrylate derivatives with POT led to statistical copoly
+mers that were efficiently degraded under accelerated conditions (KOH in THFMeOH, TBD in THF or mCPBA in THF), 
+confirming the theoretical approach. The compatibility with RAFT polymerization was established as well as the homopol
+ymerization behavior of POT. This theoretical approach paves the way to the insilico design of new efficient thionolactones 
+for rROP.

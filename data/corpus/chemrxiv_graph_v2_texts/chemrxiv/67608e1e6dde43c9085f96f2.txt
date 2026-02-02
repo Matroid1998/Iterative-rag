@@ -1,0 +1,26 @@
+Description:
+A compound that is difficult to differentiate due to sterically and electronically unbiased derivatives.
+
+Text:
+of arenes in 
+organic compounds. The resulting sp3rich analogues could in turn improve biological activity, metabolic stability 
+and solubility, as illustrated in the examples in Fig. 1b5. More recently, impressive examples from Glorius and 
+coworkers further underscores the importance of arene hydrogenation in analogue synthesis and drug discovery6. Despite that a number of elegant and efficient arene hydrogenation methods have been developed to date7, the 
+control of siteselectivityselective saturation of one arene among many othersis still a formidable challenge. The current approaches primarily capitalize on moieties with less aromatic stability, such as heteroarenes and 
+polycyclic arenes8, more significant nonaromatic resonance structures (e.g., phenols)9, or less steric hindrance10. It remains difficult to differentiate sterically and electronically unbiased benzene derivatives.
+
+
+---
+
+Description:
+Unactivated benzene derivatives can be site-selectively saturated in the presence of more reactive groups.
+
+Text:
+Stimulated by this 
+challenge, in this article we describe the development of a rutheniumcatalyzed siteselective hydrogenation of 
+unactivated arenes by taking advantage of the directing effect (Fig. 1c). Enabled by the DG, unactivated benzene 
+httpsdoi.org10.26434chemrxiv2024kt0lk ORCID httpsorcid.org0000000190336840 Content not peerreviewed by ChemRxiv. License CC BY 4.0
+
+derivatives can be siteselectively saturated in the presence of conventionally more reactive heterocycles, bicyclic 
+arenes, and other easily reducible functional groups, making it attractive for complex analogue synthesis and late
+stage functionalization.

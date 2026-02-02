@@ -1,0 +1,49 @@
+Description:
+An anilinederived sulfonamide and one of the first synthesized antibacterial drugs in the start of the 20th century.
+
+Text:
+Sulfanilamide is an anilinederived sulfonamide and one of the first synthesized
+antibacterial drugs in the start of the 20th century. A limitation to antibacterial small
+molecule drugs is the rapid tendency for bacteria to develop antibacterial resistance,
+lending to an arms race between advances in novel drug production and evolution
+driving survival of the fittest by selecting for antibioticresistant genes. Azo dyes
+quickly became a desirable starting material to turn to sulfa drugs.
+
+
+---
+
+Description:
+Despite its simple structure, its conventional synthesis involves acutely toxic and hazardous reagents.
+
+Text:
+One notable
+example is Prontosil which was discovered to have the same active pharmacophore as
+sulfanilamide.1 The breakthrough that valuable drugs could be synthesized from
+seemingly tangential precursors in the early 1900s led to a proliferation of sulfa drugs
+and revolutionized the age of chemotherapeutics.2, 3
+Despite the simplicity of the structure of sulfanilamide, the reagents in the conventional
+synthesis protocol are often acutely toxic and hazardous according to modern safety
+standards. Namely, sulfonation requires the generation of SO2 gas in situ, which
+necessitates a great deal of patience in allowing dissolved SO2 to react with the aniline
+substrate along with the risk of extreme heat generation and toxic gas evolution. Sulfonation can be conveniently performed with chlorosulfonic acid, but the reagent is
+violently reactive with water.
+
+
+---
+
+Description:
+A compound synthesized using a method involving a Willis reagent and SO2 addition.
+
+Text:
+In this experiment, a different synthetic angle was
+explored to create sulfanilamide which would be markedly more efficient and safe. This
+method involves a Willis reagent which performs SO2 addition through a
+O(tertButyl)Nsulfinylhydroxylamine (tBuONSO) intermediate that houses a relatively
+stable aqueous thionyl intermediate.4 This eliminates the need to rely on SO2 gas
+dissolved in water to nucleophilically attack the substrate, but directly substitutes the
+thionyl group onto O(tertbutyl)hydroxylamine hydrochloride to form the activate
+sulfonation reagent tBuONSO. The next step utilizes a grignard reagent
+(4Bis(trimethylsilyl)aminophenylmagnesium), which overall achieves the same effect
+as a sulfonation. This further eliminates the need to protect the aniline with an
+acetamide. Overall, this approach is drastically different from the standard reaction flow
+to synthesize sulfanilamide1.

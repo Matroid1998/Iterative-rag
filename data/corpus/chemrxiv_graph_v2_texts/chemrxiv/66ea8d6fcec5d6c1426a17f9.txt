@@ -1,0 +1,19 @@
+Description:
+Serve as substrates in the ATP-dependent formation of acylCoA thioesters.
+
+Text:
+ACLs catalyze 
+ATPdependent formation of acylCoA thioesters from 
+carboxylic acids in twostep reaction first formation of 
+adenylate derivative from carboxylic acid and ATP, second, 
+nucleophilic attack of coenzyme A (HSCoA).21 Diversion of the 
+native reaction by adding extra amine nucleophile in absence of 
+HSCoA leads to the formation of amides.20,2224 Thus, ACLs 
+represent an alternative biocatalytic system for amide 
+synthesis. Combined with upstream catalytic formation of 
+carboxylic acids from alcohols available from renewable 
+sources, this process offers a sustainable pathway for amide 
+synthesis. This strategy, with sequential catalytic steps where 
+each step is catalyzed by a different type of catalyst, here 
+heterogeneous catalyst and biocatalyst, is called hybrid 
+catalysis.

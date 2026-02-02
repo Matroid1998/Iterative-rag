@@ -1,0 +1,15 @@
+Description:
+Heteroanionic materials containing anions with similar X-ray or neutron scattering factors.
+
+Text:
+In
+stead, these methods yield only an effective unit cell
+where each anion site is occupied by a statistical average
+of the constituent anion species. Shortrange structural
+information can be obtained from scattering experiments
+in the form of pairdistribution function (PDF) data 14. However, for heteroanionic materials containing anions
+with similar Xray or neutron scattering factors, such as
+oxyfluorides, it is often not possible to assign anion site
+occupations based solely on PDF data, and alternative
+methods must be used to resolve the anionic structure of
+these materials. httpsdoi.org10.26434chemrxiv20248dfgqv2 ORCID httpsorcid.org0000000230568233 Content not peerreviewed by ChemRxiv. License CC BY 4.0

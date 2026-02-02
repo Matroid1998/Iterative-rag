@@ -1,0 +1,10 @@
+Description:
+A tetrahedral building unit in zeolite frameworks.
+
+Text:
+Zeolites are crystalline nanoporous materials extensively used in catalysis and sorption due to their 
+welldefined pore architectures that allow molecules to diffuse through and interact with the bulk of 
+the crystal.1 Different arrangements of the tetrahedral TO4 (T Si, Al, B, etc.) building units results in 
+zeolite frameworks with different pore sizes and channel dimensions enabling shapeselective 
+catalytic properties. To date, there are 256 framework types reported in the IZA Database of Zeolite 
+httpsdoi.org10.26434chemrxiv2024w1m55 ORCID httpsorcid.org0000000161201218 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

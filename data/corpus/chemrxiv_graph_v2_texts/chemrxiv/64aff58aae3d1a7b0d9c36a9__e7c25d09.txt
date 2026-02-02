@@ -1,0 +1,18 @@
+Description:
+The stoichiometric and ordered form of LNMO obtained after reannealing.
+
+Text:
+This phenomenon also causes the partial reduction of 
+Mn4 into Mn3 to balance the decreasing NiMn ratio within the 
+spinel structure. Thus, the disordered LNMO is composed of 
+LiNi20.5Mn3,41.5O4. The material is commonly reannealed at 
+a lower temperature (700C) to homogenize it and reoxidize 
+Mn3 into Mn4 to obtain the stoichiometric and ordered LNMO 
+LiNi20.5Mn41.5O4.5 Regarding electrochemical performance, the 
+disordered phase usually exhibits higher electronic conductivity 
+due to manganese mixed valence, better structural stability and 
+higher specific capacity, especially at high rates and for longterm 
+cycling.6 As rocksalt impurity tends to be located at the surface of 
+disordered phase primary particles,710 Not only does it hinder ac
+cess to the full electrochemical capacity of spinel, but it also leads 
+to misleading investigations of surface reactivity.

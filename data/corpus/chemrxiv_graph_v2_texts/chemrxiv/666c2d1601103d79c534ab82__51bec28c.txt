@@ -1,0 +1,15 @@
+Description:
+Used in lithium-ion batteries for energy storage.
+
+Text:
+Lithiumion batteries are an inevitable part of energy storage in our modern world. However, 
+conventional lithiumion batteries are expected to run into performance limits.1 To push battery 
+performance beyond these limitations, it is critical to investigate alternative battery 
+technologies. One particularly promising technology is solidstate batteries (SSB). By replacing 
+separators and liquid electrolytes of lithiumion batteries with solidstate ion conductors, the 
+usage of Limetal anodes and thus higher energy densities can potentially be enabled.24 
+Further advantages are increased mechanical stability, the absence of leakage and a 
+potentially improved thermal safety.5 
+Solidstate batteries utilize composite electrodes, consisting of the electrochemically active 
+material, the solid electrolyte (SE) and, if necessary, additives such as binders or conductive 
+carbons, e.g., vapor grown carbon fibers (VGCF).

@@ -1,0 +1,41 @@
+Description:
+A type of lead halide perovskite where X can be Cl, Br, or I, noted for excitonic coupling and superfluorescence.
+
+Text:
+More recently, studies on superlattices of lead halide perovskites (CsPbX3, where X  Cl, Br, 
+I) have drawn attention to excitonic coupling, which in these materials results in an unusually 
+high exciton diffusivity7 and in quantum coherent light emission known as 
+superfluorescence.8 Both phenomena are reportedly mediated by dipoledipole coupling,911 
+which depends on the relative spatial position and exciton energy of the interacting particles.
+
+
+---
+
+Description:
+Nanocrystals with narrow size distribution and faceted shape promoting higher order packing and structural coherence.
+
+Text:
+This makes CsPbX3 nanocrystals the ideal test system their narrow size distribution leads to 
+high energetic homogeneity,12,13 while their faceted shape promotes higher order packing than 
+spherical quantum dots,14 leading to a structural coherence comparable to that of epitaxial 
+films.15 
+As the energetic and structural disorder are expected to affect the coupling strength, the optical 
+properties of superlattices are often studied under cryogenic conditions, where the thermal 
+quenching of lattice vibrations further narrows the emission spectrum and minimizes thermal 
+decoherence.1618 However, this implies the assumption that the structure of superlattices 
+remains unchanged upon cooling, or at least that modifications are negligible.
+
+
+---
+
+Description:
+Cuboidal nanocrystals that form a simple cubic superlattice.
+
+Text:
+This is a 
+reasonable expectation, since disorder is often associated with an increase in temperature and a 
+superlattice contraction occurs upon cooling.19 Indeed, the few reported lowtemperature 
+transformations in superlattices are phase transitions between different packing symmetries (for 
+example, a FaceCentered Cubic  BodyCentered Tetragonal phase transition for spherical 
+particles).20,21 Hence, a significant phase transition is not expected in a simplecubic 
+superlattice made of cuboidal CsPbX3 nanocrystals. httpsdoi.org10.26434chemrxiv20245q319 ORCID httpsorcid.org0000000164398132 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

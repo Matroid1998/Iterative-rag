@@ -1,0 +1,11 @@
+Description:
+A motif that contributes to affinity and interacts with proteins through oxygen contacts.
+
+Text:
+In line with the prevalence of sulfonamides, over 1,000 
+cocrystal structures are available in the PDB harboring sul
+fonamidecontaining ligands.2 However, the contribution of 
+the sulfonamide motif to affinity is usually poorly defined 
+and little is known regarding the interaction energies re
+sulting from the sulfonamide oxygenprotein contacts. SMILES; Match Type Substructure (including Stereoiso
+mers)  Search CS(N)(O)O.

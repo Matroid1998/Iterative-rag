@@ -1,0 +1,21 @@
+Description:
+Engages in direct electron transfer with NiFeSeH2ase, resulting in a low turnover frequency.
+
+Text:
+However, such a photocatalytic system has thus far only 
+been demonstrated using either toxic and expensive CdTe 
+nanocrystals10 or carbon dots with a low turnover number (TON) 
+of 20,000 over 24 h.11 Direct electron transfer (DET) between 
+graphitic carbon nitride (gC3N4) and NiFeSeH2ase has been 
+established with nonspecific interactions, resulting in a low 
+turnover frequency (TOF) of 4,117 h1 over 4 h.12 Subsequent 
+improvements involved the incorporation of a nondiffusional 
+electron mediator, TiO2, between gC3N4 and NiFeSeH2ase, 
+leading to an enhanced TON (4 h) of 80,000.13 In addition to its 
+application in H2ase systems, CNX has predominantly been 
+utilized for the regeneration of NADH in mediated electron transfer 
+(MET) processes involving formate dehydrogenase14 or alcohol 
+dehydrogenase.15 
+In this work, we present a novel approach for biological integration 
+with CNX by demonstrating the first instance of an electrostatic 
+interaction with enzymes.

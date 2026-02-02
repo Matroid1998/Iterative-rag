@@ -1,0 +1,17 @@
+Description:
+Used to prepare very thin films in the Black Lipid Membrane (BLM) experimental setup.
+
+Text:
+The membrane on which 
+45 
+PAMPA methods are based is artificially made and chosen depending on the membrane the assay 
+46 
+mimics. To this date, many variants of PAMPA have been published. The examples include DS
+47 
+PAMPA6, which mimics gastrointestinal absorption, bloodbrain barrier PAMPA7, SkinPAMPA8, or 
+48 
+nasalPAMPA9. Another longtimeknown experimental method of permeability measurement is BLM 
+49 
+(Black Lipid membrane), first published by Mueller et al.10. In this experimental setup, membranes are 
+50 
+prepared in the form of very thin lipid films.

@@ -1,0 +1,13 @@
+Description:
+A metal ion that is a cofactor for classes I, II, and IV HDAC enzymes.
+
+Text:
+Class II is further subdivided into subclasses IIa (HDAC4, 
+5, 7, and 9) and IIb (HDAC6 and 10). Class III enzymes, also called sirtuins (Sirt17), are not zinc
+dependent like classes I, II, and IV, but use NAD as a cofactor. Class IV consists only of one isoform 
+(HDAC11). In the last thirty years, HDACs and their inhibitors have become a subject of research for many drug 
+discovery scientists. This research led to the development and FDA approval of five different HDAC 
+inhibitors vorinostat, panobinostat, belinostat, romidepsin, and, as of March 2024, givinostat (Figure 
+1A). 3 The approved inhibitors are all indicated for hematological cancers, with the exception of 
+givinostat, which was the first nonsteroidal drug approved for the treatment of Duchenne muscular 
+dystrophy (DMD).

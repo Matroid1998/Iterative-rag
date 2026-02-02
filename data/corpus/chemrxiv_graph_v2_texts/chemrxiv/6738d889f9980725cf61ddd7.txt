@@ -1,0 +1,26 @@
+Description:
+An SCO complex where the formation and breaking of a coordination bond extends the lifetimes of its photoexcited state up to 130 K.
+
+Text:
+In 
+contrast, 
+inorganic 
+photomagnetic compounds typically rely on spin crossover (SCO) 
+sites, which display lightinduced excited spin state trapping 
+(LIESST) originating at the metal center.2427 Unfortunately, the 
+photoexcited state of SCO systems suffers from rapid thermal 
+relaxation above 80 K, which limits their practical applications as 
+photomagnetic switches at room temperature. Nevertheless, a 
+careful analysis of the microscopic origins of their photomagnetism 
+offers 
+clues 
+for 
+designing 
+hightemperature 
+magnetic 
+photoswitches. For example, in the FeII(LN5)(CN)2MeOH SCO 
+complex, the formation and breaking of a coordination bond 
+extends the lifetimes of its photoexcited state that can be observed 
+up to 130 K.28 Building on these insights, we propose a strategy 
+towards hightemperature photomagnetic system based on 
+photochemistry

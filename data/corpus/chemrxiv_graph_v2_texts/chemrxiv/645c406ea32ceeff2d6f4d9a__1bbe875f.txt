@@ -1,0 +1,27 @@
+Description:
+Used in visible light excitation to amidate primary benzylic CH bonds.
+
+Text:
+The merger of hydrogen atom transfer (HAT) with transition 
+metalcatalyzed oxidative radical relay (ORR) or oxidative rad
+ical polar crossover (ORPC) has recently emerged as a promis
+ing strategy to enable mild C(sp3)H functionalization reactions 
+with nucleophilic coupling partners.1 Due to the prevalence of 
+nitrogen functionality in bioactive compounds, this strategy is 
+of particular interest as an approach to C(sp3)H amination for 
+feedstock chemical conversion and latestage derivatization.2 
+C(sp3)H amidations proceeding via HATORPC (Rittertype 
+reactions) have been reported under a variety of oxidative con
+ditions using solvent quantities of nitrile as the nucleophile.3 Of 
+note, Lambert and coworkers have reported a mild method for 
+Rittertype CH amidation via electrophotocatalysis, the only 
+example to date that does not require stoichiometric oxidant.4 
+Whereas most Ritter reactions target secondary and tertiary 
+benzylic or unactivated tertiary C(sp3)H bonds, recently Knig 
+and coworkers have disclosed a unique strategy for Ritter ami
+dation, utilizing visible light excitation of in situgenerated io
+dine(III)BF3 complexes to amidate primary benzylic CH 
+bonds.5 
+Despite these important advances, expansion of Nnucleo
+phile identity beyond nitriles in solvent quantity is compara
+tively less explored.

@@ -1,0 +1,14 @@
+Description:
+Isomeric compounds that can be distinguished using multistage fragmentation in mass spectrometry.
+
+Text:
+MS3 can 
+additionally reveal the exact position of the sugar by presenting unique fragment signals.13,16 
+Accordingly, multistage fragmentation can be used to distinguish structural isomers, which 
+has also been demonstrated for isomeric prostaglandins.14 One challenge in acquiring MSn 
+data is the extended time required to capture a full spectral tree, which is often done using 
+flow injection analysis or direct injection. Here, we present a new open resource consisting of data acquisition methods, data analysis 
+software, and a freely accessible MSn library (MSnLib). We designed a novel method for high
+throughput analysis and applied it to 34,413 unique compounds. For 30,008 compounds, we 
+obtained fragmentation trees covering positive, negative, or both ion modes, which was 
+achieved in a mere 23 days.

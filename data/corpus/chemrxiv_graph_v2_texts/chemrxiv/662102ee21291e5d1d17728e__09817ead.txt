@@ -1,0 +1,10 @@
+Description:
+The chemical composition of MAX phases from which MXenes are fabricated.
+
+Text:
+Hence, the literature generally refers to 
+the unit cell of Mn1XnT0 as pseudoP63mmc.14 
+
+MXenes are fabricated from corresponding MAX phases with the chemical composition of Mn1AXn, where 
+A is either group 3 or 4 elements (e.g., Al, Ga, Si) laying between the MXene layers.1518 MXenes have very 
+diverse chemical compositions due to the different combinations of M, A, and X elements.

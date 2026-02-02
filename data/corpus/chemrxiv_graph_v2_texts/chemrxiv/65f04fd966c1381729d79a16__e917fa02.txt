@@ -1,0 +1,12 @@
+Description:
+Substrates that undergo reversible dehalogenation to form epoxides.
+
+Text:
+Halohydrin dehalogenases (HHDHs) have recently distinguished themselves as powerful enzymes for the 
+asymmetric diversification of oxyfunctionalized synthons.18 In nature, these bacterial lyases catalyze the reversible 
+dehalogenation of haloalcohols through formation of the corresponding epoxides.9 More importantly, they are 
+capable of accepting a number of anionic C, N, O, and Snucleophiles in the reverse reaction, i.e. epoxide ring 
+opening, giving access to a large repertoire of valuable products.10 For instance, recent impressive biocatalytic 
+examples for the application of HHDHs in asymmetric synthesis include the preparation of enantiopure 
+nitroalcohols11, and thiiranes12, as well as the desymmetrization of 2substituted1,3dichloro2propanols with 
+subsequent cyanatemediated ring opening to afford optically pure epoxides and oxazolidinones1 among others.

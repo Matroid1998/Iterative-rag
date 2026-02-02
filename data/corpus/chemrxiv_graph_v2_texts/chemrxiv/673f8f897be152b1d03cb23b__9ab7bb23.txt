@@ -1,0 +1,18 @@
+Description:
+Shows strain-induced topological transitions from semimetals to topological insulators.
+
+Text:
+In recent years, transition metal chalcogenides have
+gained growing interest due to their topological charac
+teristics and intriguing physical properties, such as topo
+logically insulating behavior and band inversion. For
+example, the HgTeCdTe system was proposed to host
+a strainengineered quantum spin Hall (QSH) effect,
+which has since been experimentally realized.9,10 Simi
+larly, topological band inversion and gap opening were
+observed in a narrow gap semiconductor, WTe2.1114
+Other materials, such as MoTe2, showed straininduced
+topological transitions from semimetals to to topologi
+cal insulators.15 The versatility of these materials makes
+them promising for spintronic and electronic applica
+tions.

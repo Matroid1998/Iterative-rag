@@ -1,0 +1,23 @@
+Description:
+Participates in charge transfer with thorium atoms, enhancing the stability of the actinide cluster.
+
+Text:
+designed and isolated under normal experimental conditions the crystalline actinide 
+cluster Th(8C8H8)(3Cl)23K(THF)22 containing at its heart the trithorium ring with a 
+pair of uniformly distributed electrons.3 This discovery has been hailed for extending the range 
+of the aromaticity concept to the record seventh row of the periodic table, and it has been suggested 
+that aromaticity can be an important factor in the design of stable complexes with actinideactinide 
+bonds (which have previously been reported to be very weak and localized).4 The followup 
+investigations revealed that the experimental data and the results of calculations of the magnetic 
+criteria of aromaticity5 do not provide solid proves for the existence of the aromatic trithorium 
+bond,6,7 and the unique multicenter chargeshift bonding (ThCl2)3 was shown to be the actual 
+factor determining high symmetry (D3h) and exceptional stability of the crystalline actinide 
+cluster.7 Very recently, Lin and Mo provided further computational data supporting the charge
+shift bonding in the actinide cluster, and found that the overall charge transfer between thorium 
+and chlorine atoms is about ten times more stabilizing than electron delocalization in the Th3 
+ring.8 The authors linked the latter with the stabilization effect resulting from the periodic 
+boundary conditions (PBC) for the electron distribution,9 and made the conclusion that the tri
+thorium bonding is therefore truly delocalized and aromatic.8 Similar conclusions were 
+drawn by Tomeek et al.10 who utilized the entire arsenal of sophisticated computational 
+methods to demonstrate that the Th3 ring contains cyclically delocalized electrons and should be 
+regarded aromatic.

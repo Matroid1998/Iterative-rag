@@ -1,0 +1,11 @@
+Description:
+A phase that can be easily recovered at ambient conditions.
+
+Text:
+This problem has been solved in 
+the case of nanocrystalline diamond,5 boron nitride,6 and stishovite,7 i.e., in the cases where the phases 
+can be easily recovered at ambient conditions, one only need to optimize the tpT conditions of direct 
+solidstate phase transformations in order to ensure nanostructuring of a highpressure phase. However, 
+in the case of zinc oxide, this approach has not worked so far, and synthesis of pure rsZnO remains a 
+major challenge, as does understanding of the properties of rsZnObased materials (nanocomposites, 
+solid solutions with transition metals, etc.

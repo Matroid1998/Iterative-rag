@@ -1,0 +1,14 @@
+Description:
+Provides detailed insights into molecules when analyzed using H NMR spectroscopy.
+
+Text:
+In 
+this work, we describe our contribution to solve automatic structure elucidation by proposing a flexible 
+model that can translate spectroscopic data directly into molecules, while addressing several 
+limitations of current ComputerAssisted Structure Elucidation (CASE) programs. CASE programs use Nuclear Magnetic Resonance (NMR) andor Infrared (IR) data to elucidate 
+molecular structures. H and 13C NMR are the most widely used spectroscopic techniques for 
+characterizing molecules and provide detailed insights into hydrogen and carbon atoms. Furthermore, 
+2D techniques such as COSY (Correlation Spectroscopy) and HSQC (Heteronuclear Single Quantum 
+Coherence) provide connectivity information.1 Mass spectrometry (MS) offers molecular weight and 
+formula information, crucial for confirming molecular structures.1 IR spectroscopy is costeffective and 
+nondestructive allowing for quick identification of functional groups.

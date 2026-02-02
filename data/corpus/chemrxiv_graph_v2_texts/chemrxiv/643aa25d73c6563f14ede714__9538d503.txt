@@ -1,0 +1,17 @@
+Description:
+Detected effectively by TMD sensing platforms such as molybdenum disulfide.
+
+Text:
+Similarly to graphene,
+TMD sheets interact in bulk crystals via weak van der Waals (vdW)
+forces and thus can be effectively exfoliated. Atoms within individual
+sheets are covalently bonded and have satisfied valence. This makes
+TMD surfaces chemically inert under most conditions, which limits
+their surface interactions to physisorption. TMDs such as molybdenum disulfide (MoS2), have been shown
+sensing platforms capable of effective detection of nitrogen dioxide
+(NO2) 3235 and ammonia (NH3) 3538. However, their sensi
+tivity toward other gas molecules (including SO2) was reported low
+in comparison. The response of TMD sheets toward selected analytes
+can be enhanced via substitutional doping 3948, or decoration of
+their surfaces with single atoms 49, nanoparticles50, 51, and nan
+otubes 18.

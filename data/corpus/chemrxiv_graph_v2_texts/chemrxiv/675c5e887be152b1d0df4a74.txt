@@ -1,0 +1,14 @@
+Description:
+A vinyl polymer synthesized via free radical polymerization, used in composites and drug delivery devices.
+
+Text:
+Free radical polymerization (FRP) is a leading industrial route for synthesizing vinyl polymers 
+such as low density polyethylene, polystyrene and poly(methyl methacrylate) (PMMA), with 
+applications ranging from commodity (e.g. household tools and packaging items) to advanced 
+products (e.g. composites and drug delivery devices).1, 2 Such vinyl polymers are although 
+composed of CC bonds that are not realistically degraded under disposal conditions.3 For their 
+recycling, we can thus not rely on an intrinsic recyclability but need to reach out to mechanical 
+or chemical recycling technology, the former challenged by inferior macroscopic properties 
+upon repetitive recycling and the latter facing a high energy cost.46 
+
+Figure 1. a) Principle of radical ringopening polymerization (rROP) one addition shown.

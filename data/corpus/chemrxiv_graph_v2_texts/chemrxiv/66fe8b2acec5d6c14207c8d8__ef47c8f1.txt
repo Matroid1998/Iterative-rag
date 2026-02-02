@@ -1,0 +1,19 @@
+Description:
+Materials with tunable band gap, high absorption coefficient, and long charge carrier lifetime, used in photocatalysis.
+
+Text:
+While the abovereported materials represent wellestablished photocatalysts, in the last years 
+metal halide perovskites (MHPs) have demonstrated to be efficient and promising materials for 
+various photocatalytic applications thanks to their unique features such as tunable band gap, high 
+absorption coefficient, and long charge carrier lifetime and diffusion lengths, which are crucial for 
+reducing recombination rates and enhancing photocatalytic efficiency.2225 While MHPs have been 
+extensively explored for several solarrelated applications, such as photocatalytic H2 generation, 
+photoreduction of CO2, and synthesis of organic molecules, their exploitation in the field of nitrogen 
+photofixation is in its newborn era, with the first example, reporting the Cs2AgBiCl6gC3N4 
+heterojunction, recently published by our group, where it was proved that such system is capable, by 
+properly tuning the heterojunction composition, to carry out both H2 photogeneration and N2 
+photofixation with active sites for this reaction present on the carbon nitride and with the perovskite 
+acting to improve charge carrier management.26 While this paper represents the first demonstration 
+of a MHPsbased heterojunction for ammonia photoproduction, the obtained rates were relatively low 
+and the full exploitation of the potential of such systems for nitrogen photofixation has still to be 
+demonstrated.

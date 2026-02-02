@@ -1,0 +1,13 @@
+Description:
+A complex depicted with a 3-dimensional representation showing the A1 symmetric carbonyl stretch.
+
+Text:
+Fey has demonstrated and popularized the utility of ligand 
+descriptors and properties to evaluate possible catalytic activity.1321 
+One major chemical descriptor that has been used for several decades to compare the donor 
+capacity of phosphines is the Tolman electronic parameter (TEP). The TEP is a very sensitive measure of 
+a ligands electron donating or electron withdrawing capacity with only minor influence from steric and 
+dispersion type effects.2224 Typically, a Tolman electronic parameter is measured by the A1 symmetric 
+carbonyl stretching frequency for an LNi0(CO)3 complex, where L is the ligand of interest. Figure 1 
+displays a 3dimensional representation of (CH3)3PNi0(CO)3 with a depiction of the A1 symmetric carbonyl 
+stretch.

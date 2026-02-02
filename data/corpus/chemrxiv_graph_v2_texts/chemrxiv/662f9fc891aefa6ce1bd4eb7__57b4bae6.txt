@@ -1,0 +1,13 @@
+Description:
+Atmospheric nitrogen involved in nitrogen fixation.
+
+Text:
+Nitrogen fixation is a cornerstone of modern agriculture and industrial chemistry and
+revolves around the conversion of atmospheric nitrogen N2 into ammonia NH3. Plants
+perform nitrogen fixation to produce nitrides for their own sustained survival through the
+intricate and complex mechanisms of nitrogenases. These enzyme catalysts are based on
+variations of an iron based cofactor combined with molybdenum or vanadium and we are
+yet to understand these mechanisms and replicate them into grandscale ammonia synthesis
+1, 2. The current industrial standard for nitrogen fixation, the HaberBosch process, while
+effective, demands high energy inputs and operates under extreme conditions. In light of
+this, substantial effort has been made to search for more sustainable methods.

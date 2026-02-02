@@ -1,0 +1,13 @@
+Description:
+Crystalline nanoporous materials widely produced in the chemical industry.
+
+Text:
+Zeolites are a family of natural and artificial porous aluminosilicates that rank among the most 
+widelyproduced crystalline nanoporous materials in the chemical industry, where they are used in 
+particular for their active role in catalysis, adsorption, and ion exchange. Computational modelling 
+plays a key role in understanding their fundamental properties, linking their physical and chemical 
+behaviour at the macroscopic scale to their structure and dynamics at the atomic scale. With this goal, 
+different levels of chemical description have been used in molecular dynamics (MD) simulations of 
+zeolites, ranging from classical interatomic potentials  with low accuracy but high transferability  
+to firstprinciples or ab initio schemes based on Density Functional Theory (DFT)  which feature 
+high accuracy along with high computational expense.

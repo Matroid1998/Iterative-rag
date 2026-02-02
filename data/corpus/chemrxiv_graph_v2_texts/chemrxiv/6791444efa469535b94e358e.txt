@@ -1,0 +1,17 @@
+Description:
+A component of the HER2 receptor's kinase domain involved in signal transduction.
+
+Text:
+HER2 receptors are transmembrane proteins with signal transduction potential due to tyrosine 
+kinase activity (1). The structure of HER2 receptors contains a ligandbinding domain 
+(extracellular), a single transmembrane helix, a tyrosine kinase domain (intracellular), and a C
+terminal tail (intracellular) (1). HER2, unlike other HER family receptors, does not have a known 
+httpsdoi.org10.26434chemrxiv2025d3wkp ORCID httpsorcid.org0000000210315378 Content not peerreviewed by ChemRxiv. License CC BY 4.0
+
+2 
+
+ligand (2). Instead, it forms heterodimers with different receptors in the HER family (HER1, 
+HER3, HER4) that are activated by their ligands (3). HER2 plays a vital part in cell growth, 
+differentiation, and survival. Its heterodimer formation enhances these receptor complexes 
+signaling potency (4). This activates intracellular pathways such as the MAPK and PI3KAKt 
+pathways, helping cell multiplication (5).

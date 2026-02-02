@@ -1,0 +1,26 @@
+Description:
+A pyrene-based traditional photoacid.
+
+Text:
+Traditional photoacids are pyrenebased compounds such as 8hydroxypyrene1,3,6
+trisulfonate 
+(pyranine, 
+HPTS, 
+
+1.0) 
+and 
+8aminopyrene1,3,6trisulfonate 
+
+3 
+
+(APTS, 
+ 7.0).1618 These values are, respectively, 6.4 and 10  units decreased 
+compared to the acidities in their S0 states. Derivatives of APTS are reported to have even lower 
+
+, e.g., the superphotoacid tris(2,2,2triuoroethyl)8aminopyrene1,3,6trisulfonate 
+(TTFAPTS,   0.5 and 
+  12.9).19 
+Assessments of  and 
+ are possible by both experimental and computational methods. The  of an acid is determined by measuring the different concentrations of the acid and the 
+conjugate base species in solutions at different pH values.9,20 UVVis spectroscopy is a useful 
+analytical method for such experiments.

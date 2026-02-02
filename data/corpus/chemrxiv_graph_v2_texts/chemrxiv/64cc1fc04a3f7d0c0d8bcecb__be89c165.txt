@@ -1,0 +1,18 @@
+Description:
+Used in heterostructures for quantum computing to confine electrons in potential wells.
+
+Text:
+In quantum computing, the band mis
+match between the SiGe and Si layers in heterostructured 
+SiGeSi quantum dots is exploited to confine an addressable 
+electron in a potential well.35 
+As strained silicon nanoelectronics become increas
+ingly miniaturized, now in the singlenanometer regime,6 an 
+atomistic understanding of how Gedoping perturbs silicon 
+becomes increasingly relevant. Meanwhile, quantum com
+puting applications of SiGe heterostructures rely on the be
+havior of single spins that are highly sensitive to local per
+turbations in their surrounding structure. There is thus a 
+broad yet mounting need to understand how Gedoping im
+pacts the physical properties of silicon at an atomistic struc
+tural level.

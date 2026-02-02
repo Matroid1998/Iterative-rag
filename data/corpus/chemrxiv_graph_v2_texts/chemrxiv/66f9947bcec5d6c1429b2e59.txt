@@ -1,0 +1,14 @@
+Description:
+Commonly employed fluorophores in solution.
+
+Text:
+Organic fluorophores have attracted significant attention 
+due to their broad range of applications in both solution and solid 
+states. In solution, they are useful in chemical sensing, 1  
+bioimaging, 2  photodynamic therapy (PDT), 3  and biomedical 
+diagnostics 4  while in the solid state, these molecules are 
+essential components in optoelectronic devices, including organic 
+lightemitting diodes (OLEDs), 5  and organic lightemitting 
+transistors (OLETs). 6  Among the most commonly employed 
+fluorophores in solution are polycyclic aromatic hydrocarbons 
+(PAHs), such as pyrene, perylene, rylene, and fluorescein.

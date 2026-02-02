@@ -1,0 +1,12 @@
+Description:
+Used in twisted biphenyl emitters where there is mixing of donor p and acceptor p orbitals resulting in significant SOC.
+
+Text:
+Simultaneously, nonradiative decay needs to be sufficiently suppressed such that formally spin
+forbidden phosphorescence can become the major decay pathways.23, 24 ISC can occur between higher
+lying excited states, as advanced by Wu et al.25 in twisted biphenyl emitters where there is mixing of 
+donor p and acceptor p orbitals that result in significant SOC. Crystallization,2630 clustering,3134 matrix rigidification,3540 deuteration,41, 42 and polymerization43
+48 strategies have each been employed to suppress molecular motion that is a primary conduit for non
+radiative decay. For example, Bolton et al. achieved highefficiency RTP with a phosphorescence 
+quantum yield (FPh) of 55 via crystallization of brominated aromatic compounds.26 In a similar vein, 
+Hamzehpoor et al.

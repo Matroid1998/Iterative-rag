@@ -1,0 +1,17 @@
+Description:
+A specific composition of NMC-based lithium-ion batteries with equal parts nickel, manganese, and cobalt.
+
+Text:
+The demand for lithiumion batteries (LIBs) is projected to 
+increase significantly in the coming years, driven primarily by 
+the increased use of electric vehicles (EV) and renewable energy 
+storage systems. According to a recent study, the demand for 
+LIBs could reach 10,000 GWh by 2040, and meeting this demand 
+just through mining has significant challenges due to limited 
+primary resources.1 Thus, achieving a sustainable Li supply 
+depends on the presence of wellestablished recycling 
+procedures for endoflife LIBs. Among various chemistries of 
+LIBs, NMC chemistry (LiNixMnyCozO2) is the most popular 
+choice when it comes to EV and energy storage systems.2 NMC
+based LIBs come in several variants defined by their NiMnCo 
+ratios e.g., NMC111 (LiNi0.33Mn0.33Co0.33O2).

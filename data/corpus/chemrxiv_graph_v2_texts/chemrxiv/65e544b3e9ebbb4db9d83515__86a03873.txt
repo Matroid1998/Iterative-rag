@@ -1,0 +1,31 @@
+Description:
+Compounds that can contain electron-withdrawing or mild electron-donating groups and participate in RCIA reactions.
+
+Text:
+License CC BYNC 4.0
+
+2 
+
+containing functional group like conjugated carbonyl groups, arenes with electronwithdrawingmild 
+electrondonating group, or benzene, is eligible for either typeRCIA reactions with excellent yields.1 
+To expand the substrate scope of the RCIA reactions, we wonder whether functionalization of more 
+broad inactivated alkenes via radical cation intermediates is feasible. This work (Figure 1) is to answer 
+this important question critically with evidences. Figure 1. Type I, II RCIA reactions and the scientific question to address in this work 
+N
+R
+R
+Ar
+Type I
+Nu
+R
+R2
+Type II
+Nu
+R1
+R1 or R2  conjugated group
+Gu Ref. 1
+R
+R  nonconjugated group
+Nu
+Known type I, II RCIA reactions
+Key feature weak nucleophile like water is eligible.

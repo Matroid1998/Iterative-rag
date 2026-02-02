@@ -1,0 +1,11 @@
+Description:
+A metal used as a negative electrode material in solid-state batteries.
+
+Text:
+Global efforts to electrify transportation and provide grid level energy storage have driven de
+mand for new battery technologies with improved safety, power density, and energy density1,2. One promising strategy is the development of solidstate batteries (SSBs) which potentially offer
+improved safety characteristics3,4 and greater compatibility with energydense negative electrode
+materials such as Li metal5,6 compared to conventional batteries utilizing liquid electrolytes. Amongst solid electrolyte (SE) chemistries, doped cubic Li7La3Zr2O12 (LLZO) has garnered sig
+nificant attention as a separator material due to its high bulk ionic conductivity and minimal
+chemical reactivity with Li metal710. Despite this apparent stability in contact with Li metal,
+LLZO suffers from other surface reactions under common processing conditions.

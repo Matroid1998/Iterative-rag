@@ -1,0 +1,14 @@
+Description:
+Very small molecules used as models and precursors for finite armchair and zigzag graphene nanoribbons.
+
+Text:
+. Nanographenes or polycyclic aromatic hydrocarbons (PAHs) with open shell 
+electronic states (and unpaired electrons) are relatively rare, but highly important for novel 
+applications in nanoelectronics, optoelectronics and spintronics.1 One of the best and safest 
+ways to design andor synthesize openshell PAHs and GNRs is to break the alternant (bipartite) 
+topology.28 This has been recently accomplished by introducing StoneWales (ST) defects9 
+(including pairs of pentagonalheptagonal together with hexagonal rings) for very small 
+molecules (periacenes) such as bisanthene and peritetracene.24 These molecules (periacenes) 
+can be used as models (and precursors) for the 3x2 and 4x2 finite (short) armchair graphene 
+nanoribbons (AGNRs) with Z3 and 4 zigzag rings respectively, and 2 armchair rings. Obviously, the same molecules can be used as models for the corresponding finite (thin) zigzag 
+nanoribbons (ZGNRs).

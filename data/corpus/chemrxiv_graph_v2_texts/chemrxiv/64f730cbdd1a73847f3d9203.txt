@@ -1,0 +1,13 @@
+Description:
+A BCS Class II drug used in SLNs formulations.
+
+Text:
+For a given drug, there is a multitude of 
+formulation variables to consider, including the types of excipients, drugexcipient ratios, 
+surfactant concentrations, and various manufacturing parameters. As a result, predicting the 
+formulation outcomes a priori becomes a challenge and numerous rounds of drug formulation 
+studies are required before settling on a satisfactory formulation. Thus, a more efficient 
+development strategy is needed to expedite formulation design. In the past decade, researchers have begun to address this issue by utilizing datadriven 
+methodologies to design SLNNLCs formulations, with the design of experiment (DoE) approach 
+being the central focus 1216. For example, Diwan et al. employed the principles of DoE to 
+design cilnidipine (CND, a BCS Class II drug) loaded SLNs 12.

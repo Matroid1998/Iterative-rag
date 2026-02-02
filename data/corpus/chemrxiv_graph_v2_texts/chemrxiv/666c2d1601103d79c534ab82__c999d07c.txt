@@ -1,0 +1,14 @@
+Description:
+An electrochemically active material used in composite anodes.
+
+Text:
+In these composite systems, a sufficiently 
+high ionic (ion) and electronic (e) conductivity, as well as balancing of the two transport 
+quantities is of paramount importance to enable high electrode utilizations and to avoid reaction 
+fronts during charging and discharging.6,7 
+On the one hand, charge carrier transport can be decisively influenced by varying the 
+volumetric ratios of the electrode components given that the electrochemically active material 
+and carbon additives are solely responsible for the electronic conduction, while the solid 
+electrolyte exclusively conducts ions.8,9 With that, altering the SE content in composite anodes, 
+such as Li4Ti5O12Li7P2S8IC10 or SiLi6PS5Cl (LPSCl)C11, can facilitate changes in the 
+effective ionic conductivity over orders of magnitude.

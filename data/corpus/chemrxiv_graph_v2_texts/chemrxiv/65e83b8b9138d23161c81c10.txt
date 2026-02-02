@@ -1,0 +1,50 @@
+Description:
+Compounds whose selective electrophilic substitution is enhanced by the silicon effect, increasing activity and nucleophilicity.
+
+Text:
+Organosilicon compounds play a crucial role in organic 
+synthesis, serving as synthetic reagents, intermediates, pro
+tecting groups, and valuable bioisosteres of carbon.18 
+Among these compounds, allyl silanes encompass the prop
+erties of alkenes and organometallic complexes, making 
+them widely used in organic synthesis.912 Notably, the well
+known silicon effect,11,13 which manifests itself in the se
+lective electrophilic substitution of alkenes, is particularly 
+pronounced in the reactivity of allyl silanes. This effect not 
+only enhances the activity and nucleophilicity of alkenes, es
+pecially the alkenyl carbons distal to the silyl group, but also 
+effectively controls the regioselectivity through (CSi) 
+hyperconjugation.
+
+
+---
+
+Description:
+Hydrocarbons containing carbon-carbon double bonds, used in allylic CH functionalization.
+
+Text:
+Allylic CH functionalization reactions have become es
+sential techniques in organic synthesis, facilitating the effi
+cient construction of diverse molecules with wideranging 
+applications.1619 However, achieving site selectivity in in
+ternal alkenes, which possess two or more sets of similar al
+lylic protons, has long been a significant challenge com
+pared to the wellestablished functionalization of alkenes 
+with a single set of allylic protons.2022 Recent progress in 
+this area has largely stemmed from advances leveraging the 
+negative inductive effect of electronwithdrawing groups 
+(EWGs) or the coordinating influence of heteroatoms.2327 
+We have recently developed a siteselective allylic CH 
+functionalization reaction guided by electrondonating 
+B(MIDA) (Nmethyliminodiacetyl boronate) moiety.28 The 
+capability of B(MIDA) to stabilize the developing positive 
+charges at  position was proposed to be key for both reac
+tivity and regioselectivity.29,30 This method was based on 
+Sharplesss pioneering work in 1976 on metalfree allylic C
+H amination of simple alkenes using stoichiometric in situ 
+generated diimidoselenium reagent,3132 and more recently 
+Michaels catalytic version using simple sulfonamides as ni
+trogen sources in combination of a hypervalent iodine oxi
+dant.3335 The latter upgraded protocol has been applied in 
+allylic CH amination of many terpenoids but it still poses 
+challenges for unsymmetrical internal alkenes.

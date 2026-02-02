@@ -1,0 +1,12 @@
+Description:
+A gas molecule studied for its binding and release kinetics in NiFe hydrogenases.
+
+Text:
+This is evidence that tunnel engineering is a feasible
+strategy to achieve CO and O2 tolerant hydrogenases33. Leroux et al. introduced protein film voltammetry, an experimental method that enabled
+the study of kinetics of binding and release of CO and other gas molecules from NiFe
+hydrogenases in a quantitative manner29. Using this technique, they quantified the diffusion of
+CO, H2 and O2 inside the NiFe hydrogenase from Desulfovibrio fructosovorans (Figure 1A)34. In the work of Liebgott et al, point mutations in this NiFe hydrogenase were introduced with
+the goal of understanding how changes in the structure of the tunnels can modulate the diffusion
+of gas molecules14,34. They created 10 different mutants, with mutations at positions V74 andor
+L122 of the large subunit (Figure 1B).

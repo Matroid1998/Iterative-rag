@@ -1,0 +1,13 @@
+Description:
+A starting point for constructing novel tetragonal carbon allotrope C5.
+
+Text:
+However, such pentacarbon should be unstable because it has 
+some negative elastic constants. Later, in 2020, cubic pentadiamond was reported as a novel 
+allotrope with mechanical properties close to diamond, but the paper was retracted due to serious 
+errors in the optimized structure of pentadiamond under mechanical deformation admitted by 
+the authors themselves 9. Such interest in 5 allotropes with mixed carbon hybridization arises 
+from the possible change of the electronic structure of insulating diamond, leading to metallic
+like behavior with potential applications in electronics 10. In the present work, starting from tetC4 5, we construct novel tetragonal carbon allotrope C5 
+by crystal chemistry modifications followed by full geometry relaxations using calculations 
+based on the quantum mechanics density functional theory DFT 11,12.

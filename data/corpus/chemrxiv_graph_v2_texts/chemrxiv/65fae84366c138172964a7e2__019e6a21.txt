@@ -1,0 +1,11 @@
+Description:
+A chelator used to optimize internal solutions by influencing transmembrane ion flux.
+
+Text:
+Although it is stipulated that 
+the ion to electron transduction is based on redox or double layer capacitance the precise mechanism is not well described5. Understanding of the mechanism of potential development on each of the interfaces allows to adjust the design and measurement 
+protocol and push the limits of analytical parameters of the sensors. Properly selected composition of the liquid internal solution 
+allows lowering the detection limit from micro to subnanomolar range6, and provides more precise means of estimation of selectivity 
+coefficients7,8. The internal solution can be optimized by adding chelators such as EDTA or NTA7,9, an ionexchanging resin10, 
+complexing agents11, or lipophilic interfering ion with a salt of the analyte, which all influence the magnitude of transmembrane ion 
+flux.

@@ -1,0 +1,37 @@
+Description:
+A moiety that is part of the eastern fragment and challenging to synthesize.
+
+Text:
+of a nonepimerizable surrogate 
+for the primary amide. For construction of the bbranched tyrosine 
+moiety of the eastern fragment 4, a broad range of strategies were 
+evaluated (Figure 2, strategies BD). Linkages of this type are 
+extremely rare and notoriously difficult to obtain synthetically. Indeed, no successful strategy has been uncovered to date.1920 
+Attempted nucleophilic substitution reactions under either neutral, 
+anionic or halogenideAgfacilitated conditions led consistently to 
+either formation of the corresponding unsaturated dehydroamino 
+acid or decomposition of the substrates (Figure 2b, strategy B, see 
+SI). Attempts to utilize addition of the histidine imidazole to an acyl 
+aziridine moiety were hampered by the electronic nature of the 
+acyclic twisted amide such obtained (Figure 2b, strategy C).
+
+
+---
+
+Description:
+Can eliminate imidazole to form paraquinone methide.
+
+Text:
+For instance, cleavage of Ntosyl is 
+incompatible with use of an aryl bromide,2223 preliminary 
+experiments indicated difficulties in controlling the reactivity for N
+nosyl,24 and rearrangement is a known issue for carbamatebased 
+protecting groups.2526 For these reasons, a more efficient approach 
+was developed based on direct addition into freeNH aziridines. The 
+bbranched motif of 4 could thus be traced back to addition of 
+histidine into chiral aziridine 9 to forge the NC39 bond of 2. To 
+mitigate the risk of imidazole eliminating from tyrosine to form the 
+corresponding paraquinone methide (QM) (Figure 1, highlighted 
+in red), bromide was chosen as a stable surrogate for hydroxyl group 
+of the natural tyrosine with the intention to introduce the requisite 
+phenol moiety at a late stage.

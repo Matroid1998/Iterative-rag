@@ -1,0 +1,35 @@
+Description:
+Used in high-throughput screening for mechanically reactive materials.
+
+Text:
+of functional groups that lead 
+to metalligand interactions in the transition state. A computationally promising complex was 
+synthesized, and its enhanced mechanochemical activity in polymer strands was verified 
+experimentally. Finally, we find that the enhanced mechanochemistry predicted computationally 
+and verified in polymer strands translates to bulk materials, as evidenced by enhanced tearing 
+energies in ferrocenecrosslinked nbutylacrylate elastomers. The latter exemplifies the potential 
+of a combination of machine learning and molecularly based mechanistic insights to accelerate 
+material discovery efforts in polymer networks. We envision this highthroughput screening of mechanically reactive ferrocenes as a 
+foundational step for the modulation and tuning of material toughness by the installation of labile 
+bonds.
+
+
+---
+
+Description:
+A mechanophore with varying mechanochemical reactivity used in polymer networks.
+
+Text:
+Future incorporation of a broader range of the identified ferrocene mechanophores with 
+varying mechanochemical reactivity into networks will lead to a better understanding of the 
+relationship between mechanophore kinetics and bulk material properties. The approach has the 
+potential to further integrate mechanophore discovery into advanced polymer material design, 
+including those based on renewable, recyclable feedstocks. We foresee the capacity to increase the 
+useful lifetime of materials as a contributor to sustainable solutions that address current societal 
+challenges in plastic waste accumulation. In addition, mechanochemical scission of other 
+httpsdoi.org10.26434chemrxiv2024dsj2g ORCID httpsorcid.org0000000193420191 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0
+
+19 
+
+mechanophore motifs has been used to trigger drug release4 and signal damage in polymeric 
+materials3, and the workflow established here should be translatable to those objectives.

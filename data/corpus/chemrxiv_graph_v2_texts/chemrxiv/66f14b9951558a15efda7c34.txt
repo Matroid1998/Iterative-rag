@@ -1,0 +1,29 @@
+Description:
+A solvent used in the incorporation of ligands into crystals.
+
+Text:
+of a bidentate ligand into PNCcH2OCovTPP. This was readily achieved by adding 
+4,4bipyridyl into the methanol solvent in contact with the crystals with 100 incorporation of the 
+walltie ligands into the cavity to give PNCvTPPCocbipyCovTPP as confirmed by scXRD. Removal of included solvent from these crystals to give did not result in loss of order and only a slight 
+reduction in unit cell volume (0.4). Nitrogen adsorption analysis at 77K of PUNCvTPPCocbipy
+CovTPP showed significant uptake at low relative pressure to give a typical Type 1 isotherm shape 
+consistent with a microporous material (Fig. 5a). This data was used to calculate a BrunauerEmmett
+Teller surface area (SABET) of 454 m2 g1 and a micropore volume (Vmp) of 0.22 ml g1.
+
+
+---
+
+Description:
+A solvent used for the incorporation of metal cations into porous structures.
+
+Text:
+Notably, the CO2 uptake for PUNCvTPPCocbipyCovTPP is significantly 
+higher than that of PUNCCocbipyCo, which is consistent with the increase in ultramicroporosity 
+due to the included TPP increasing the length of the narrow interconnecting channels from 9  to 
+15 , as measured from the scXRD structure. The resulting permanently porous PUNCvTPPCo
+cbipyCovTPP possesses metalfree porphyrins suitable for metal cation incorporation via post
+synthetic modification. Hence the crystals were exposed to a methanol solution of CuCl2 and the 
+successful insitu incorporation of Cu2 to give PNCvTPPCuCocbipyCovTPPCu was confirmed 
+by scXRD, which showed that the resulting CuCo distance is only 3.51 . Similarly, Co2 could be 
+introduced into the TPP by exposure to a solution of CoCl2 to produce PNCvH2OCoTPPCocbipy
+CovTPPCoOH2 with a CoCo distance of 3.52 .

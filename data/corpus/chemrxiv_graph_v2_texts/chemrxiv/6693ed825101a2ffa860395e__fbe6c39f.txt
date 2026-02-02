@@ -1,0 +1,13 @@
+Description:
+A promising ionically conductive oxide that exhibits cornersharing tetrahedra.
+
+Text:
+Cornersharing frameworks were recently reported to be a characteristic of anion frame
+works that enable superionic conduction in oxides.1 Previous work attributed the high ionic
+conductivity imparted by cornersharing connectivity to the distorted lithium environment
+and screened interaction between lithium and nonlithium cations. LiGa(SeO3)2 has been
+identified computationally and experimentally as a promising ionically conductive oxide that
+exhibits cornersharing tetrahedra. Because sulfides are typically more ionically conductive
+and more plastic than oxides, in this work, we set out to study the properties of a hypo
+thetical isovalent sulfide of stoichiometry LiGa(SeO3)2. For this, we utilized ML interatomic
+potentials trained on custom density functional theory (DFT) data.

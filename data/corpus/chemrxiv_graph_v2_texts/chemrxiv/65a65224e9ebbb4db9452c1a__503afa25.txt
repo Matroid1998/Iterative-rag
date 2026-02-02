@@ -1,0 +1,15 @@
+Description:
+Elements that can affect molecule-sheet interactions in transition metal dichalcogenides (TMDs).
+
+Text:
+Consequently, chalcogens compris
+ing the TMDs could directly affects moleculesheet interactions. On
+the other hand, MX bonds could also play an important role in charge
+distribution in the sheet, and thus have some impact on the adsorp
+tion. This in turn, could affect the interaction between acceptortype
+molecules and TMD sheets, thus impacting their sensitivity to NOx. The sensitivity of the sensor relies significantly on the charge trans
+fer (Q) occurring between the analyte and the sensing layer. This pro
+cess directly impacts observable properties like conductivity and pho
+toluminescence, making it feasible to detect gases. Conversely, the
+recovery of the sensor depends on the adsorption energy (Eads) of the
+target species, as it governs desorption rates.

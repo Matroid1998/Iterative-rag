@@ -1,0 +1,12 @@
+Description:
+Materials with the formula ABX3 known for exceptional photoelectric performance.
+
+Text:
+3D halide perovskites with formula ABX3 have demonstrated exceptional photoelectric performance.711 In this 
+structure, a divalent metal cation (B site; e.g., Sn2 and Pb2) coordinates to six halide anions (X site; e.g., I, Br, 
+and Cl) to form a BX6 octahedral framework. Furthermore, a monovalent cation (A site; e.g., MA, FA, and Cs) 
+occupies the centers of four BX6 octahedra. Nonetheless, the lack of stability continues to hinder the 
+commercialization of MHP filmbased devices. Recent studies have shown that the inclusion of longchain organic 
+cation spacers in 3D perovskite can produce 2D perovskite, which enhances the films stability against aging and 
+decomposition caused by exposure to water and oxygen.1221 Specifically, 2D perovskite is typically 
+represented by the formula (A)m(A)n1BnX3n1.

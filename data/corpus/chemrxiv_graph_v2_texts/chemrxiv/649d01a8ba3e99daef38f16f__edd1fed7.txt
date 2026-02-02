@@ -1,0 +1,15 @@
+Description:
+Used as an anode in commercial lithium ion batteries, replacing lithium metal due to safety issues.
+
+Text:
+Lithium metal has been the holy grail of anode materials for Li batteries, since the first usage in the 
+1960s, boasting the highest theoretical capacity at 3860 mAh g1, the lowest possible electrochemical 
+potential, 3.04 V vs. standard hydrogen electrode, and a low mass density.14 Despite its desirable 
+parameters, safety issues stemming from dendritic growth of lithium, short circuiting and subsequent 
+ignition of the liquid electrolyte, have led to its replacement by the graphite anode in commercial 
+lithium ion batteries.14 Through the usage of nonflammable solid electrolytes which are compatible 
+with lithium metal, such as the oxide garnet Li7La3Zr2O12 (LLZO), safety concerns can be remedied and 
+a resurgence of the lithium metal anode is possible.5,6 
+The problem of dendritic growth remains though, still present in solid electrolytes, which are prone 
+to being cracked by lithium dendrites, even when the material is mechanically stronger than lithium 
+metal.

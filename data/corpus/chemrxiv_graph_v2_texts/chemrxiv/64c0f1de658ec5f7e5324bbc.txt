@@ -1,0 +1,17 @@
+Description:
+Used in the saturated calomel electrode, a standard material with a known redox potential.
+
+Text:
+Over the 
+past decade, activities have shifted towards fullyintegrated microsystems, with increasing research 
+efforts dedicated to developing lowcost, disposable devices made from accessible materials, such as 
+plastic or paper.2 Unfortunately, the fabrication of the reference electrode in these lowcost 
+electrochemical cells remains a significant and unmet challenge.3 A typical electrochemical detector 
+includes a reference electrode that acts as a reference potential for the working electrode.4 To ensure 
+measurement stability, the reference electrode is usually made by a standard material with a known 
+redox potential, such as silversilver chloride or the saturated calomel electrode.4 However, these 
+materials are often incompatible with common microfabrication techniques or demand complex 
+fabrication processes, thus hindering their integration into lowcost disposable cartridges.3,5 
+Circumventing the overreliance on reference electrodes would enable researchers to design 
+electrochemical sensors using a far broader array of substrates, and thus pave the way towards simpler 
+and more accessible diagnostic technologies.

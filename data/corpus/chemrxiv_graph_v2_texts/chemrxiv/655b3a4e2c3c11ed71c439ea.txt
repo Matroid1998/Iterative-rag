@@ -1,0 +1,13 @@
+Description:
+Highly emissive as single molecules in solution but nonemissive in aggregates due to aggregation-caused quenching (ACQ).
+
+Text:
+Apart from welldefined complexes and single molecules, a particularly useful 
+form of matter  that demonstrates modified or wholly new properties in comparison to its 
+molecular components  is an aggregate (i.e., irregular clusters of many molecules). Among 
+the many unique features only identified in aggregates are aggregationcaused quenching 
+(ACQ) and aggregationinduced emission (AIE), which are among the top research fields in 
+chemistry.1 For example, porphyrins as single molecules in solution are highly emissive. However, their aggregates are nonemissive (ACQ).1b Conversely, tetraphenylethene is non
+emissive as a single molecule in solution yet becomes highly emissive as an aggregate (AIE) 
+(Scheme 1, A).1a Clearly, aggregation states influence photophysical behaviour of molecules 
+and by extension will influence their photochemical behaviour as well.

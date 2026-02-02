@@ -1,0 +1,12 @@
+Description:
+Materials systems with limited atomic layer deposition processes due to lack of carbon precursors.
+
+Text:
+The best approach to deposit conformal films is often by 
+atomic layer deposition (ALD). Since ALD uses selfterminating surface chemical reactions,6,7 
+an ALD process will be highly conformal if given enough time for the surface reactions to 
+saturate all surfaces.8,9 However, ALD processes are not available for all materials. Carbides 
+are one example of materials systems where only a few ALD processes have been reported due 
+to the lack of carbon precursors rendering selfterminating surface chemistry.10,11 If the surface 
+chemistry is not selfterminating, the deposition is instead referred to as chemical vapor 
+deposition (CVD).

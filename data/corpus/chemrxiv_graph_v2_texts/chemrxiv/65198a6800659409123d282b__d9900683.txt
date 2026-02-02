@@ -1,0 +1,10 @@
+Description:
+A dissolved gas in geothermal fluids that can exsolve with changes in pressure and temperature.
+
+Text:
+The design and operation of a geothermal plant are heavily impacted by the phase behavior of the fluids 
+extracted from the subsurface. The phase behavior of the aqueous fluid is a function of its composition 
+and pressure  temperature conditions. Deep geothermal fluids are often highly saline (6 M) and 
+contain dissolved gases (e.g., CO2, CH4, N2). Any change in pressure and temperature across the 
+geothermal loop will disturb the existing equilibrium conditions, triggering mineral precipitation and 
+gas exsolution until a new equilibrium is achieved.

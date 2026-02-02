@@ -1,0 +1,12 @@
+Description:
+A piezoelectric material often used in bulk ceramic form with limited flexibility.
+
+Text:
+Nanogenerators (NGs) can directly harness local energy sources, such as from motion or 
+mechanical stress, to power portable and wearable devices. They are therefore attractive 
+alternatives to batteries. Applications of NGs include sensors, actuators and electromechanical 
+convertors.1 NGs use a dielectric layer for charge accumulation, which is typically a piezoelectric 
+material.2, 3 For NGs to be used in wearable electronics, flexibility is a key design parameter; 
+however, existing piezoelectricbased NGs  that produce current ranging from nanoamperes to 
+microamperes  are often made up of bulk ceramics like lead zirconate titanate (PZT) with limited 
+flexibility.

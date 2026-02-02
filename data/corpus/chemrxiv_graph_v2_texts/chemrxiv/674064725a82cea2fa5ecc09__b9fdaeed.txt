@@ -1,0 +1,14 @@
+Description:
+Materials with intrinsic response times on the order of picoseconds, suitable for ultrafast photodetectors.
+
+Text:
+Fast photodetectors that convert an onchip optical signal into an electrical 
+output at highspeed are vital for modern imaging, sensing, and communication 
+systems1. Operation at telecom wavelengths is especially preferred due to low 
+transmission losses and the availability of optical gain. Twodimensional (2D) 
+transition metal dichalcogenides (TMDCs) with bondfree van der Waals (vdW) 
+structures possess relatively large carrier mobilities24 and intrinsic response times on 
+the order of picoseconds57, demonstrating great potential for the next generation of 
+ultrafast photodetectors. One of the most important challenges for the development of information 
+technology is the large heat dissipation caused by longdistance data transmission and 
+fast signal conversion in high densities8.

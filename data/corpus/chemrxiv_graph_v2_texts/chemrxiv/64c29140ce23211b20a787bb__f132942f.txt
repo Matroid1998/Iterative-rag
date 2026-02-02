@@ -1,0 +1,17 @@
+Description:
+An n-type post-transition metal oxide used as a transparent conducting material with high electron conductivity and optical transmission.
+
+Text:
+Materials that display the dual properties of optical transparency and
+metalliclike conductivity are sparse, but they are almost universally required in modern
+technologies13 as transparent contacts in solar cells;4 thin film transistors in display and
+touchscreen technology;5,6 coatings in smart and lowemission windows.7 The transparent
+conducting materials (TCMs) used in the above applications are invariably ntype post
+transition metal oxides (such as Sndoped In2O3, Fdoped SnO2 and Aldoped ZnO), which
+routinely display electron conductivity on the order of 1000 S cm1 to 10 000 S cm1 and op
+tical transmission above 90.5 Meanwhile, the development of ptype TCMs has been less
+successful  hole conductivity is often 1 to 2 orders of magnitude lower, optical transparency
+is much harder to achieve, and the chemical and thermal stability of ptype TCMs is often
+poorer than the ntype metal oxides.2,3 This disparity between p and ntype TCM tech
+nology is a major bottleneck in the development of the next generation of optoelectronic
+devices, which will have at their heart fully transparent pn junctions.

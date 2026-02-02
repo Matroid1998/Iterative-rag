@@ -1,0 +1,13 @@
+Description:
+A metalloligand with redox-active properties used in MOPs.
+
+Text:
+The example of organic or metal
+loligands includes 2,4,6tri4pyridyl1,3,5triazine,16,19,20 or 
+metalloligands with ferrocene,21 or ruthenium tris(1,10phe
+nanthroline) moieties.22 Regarding the redoxactive metal 
+node of MOPs, one can select it from a library of redox
+active metal complexes, which allows for the choice of var
+ious ligand types and the design of the resulting geometry 
+of MOPs. However, MOPs with redoxactive metal nodes 
+httpsdoi.org10.26434chemrxiv2023cm4hv ORCID httpsorcid.org0000000338498038 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

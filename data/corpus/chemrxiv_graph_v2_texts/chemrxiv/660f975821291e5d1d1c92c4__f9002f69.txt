@@ -1,0 +1,15 @@
+Description:
+A surfactant that undergoes EZ photoisomerization to enhance disinfectant performance and manipulate wetting.
+
+Text:
+To produce light 
+responsive surfactants, photoswitches such as azobenzenes11, diarylethenes12 or spiropyranes13, 
+are integrated to hydrophilic head and hydrophobic tail of the surfactant. Azobenzene based 
+Arylazopyrazole(AAP) surfactants which can be subjected to EZ photoisomerization depending 
+on wavelength of light, are designed to increase disinfectant performance14, manipulate wetting15 
+or assemble supramolecules16. Simulations become more and more powerful to perform systematic investigations at different 
+length and time scales and can extract information about underlying mechanisms. Coarse grained 
+simulation can be performed for longer times scales to capture adsorptiondesorption dynamics17 
+or micelle formation18 of surfactants but due to the reduced degrees of freedom, some atomistic 
+details disappear during the coarse graining process. Moreover, quantumbased calculations can 
+be conducted to capture the system dynamics on a highly accurate level.

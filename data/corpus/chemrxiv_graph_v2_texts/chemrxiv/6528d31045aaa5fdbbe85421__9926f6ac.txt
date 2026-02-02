@@ -1,0 +1,12 @@
+Description:
+A functional group used to enable secondary crosslinking in biopolymers.
+
+Text:
+Physical hydrogelation in biopolymer (gelatin, collagen, etc.) solutions, induced upon cooling 
+biopolymer solutions below their gelation temperatures26, has emerged as an avenue to enhance 
+printability while retaining ECMmimicking microstructures, biocompatibility, and biodegradability. Functionalization of biopolymers (e.g., methacrylation26b, 27, norbornene28 or thiol modification29) 
+to enable secondary crosslinking has further improved ink printability and enhanced shape fidelity 
+by locking the printed microstructures. However, these strategies suffer from reduced cell 
+survival in the cooled cartridges30, require secondary crosslinking soon after deposition of a layer 
+and yield poor interlayer bonding. Moreover, printing tall structures results in loss of shape fidelity 
+owing to worsening heat transfer from the cold substrates31.

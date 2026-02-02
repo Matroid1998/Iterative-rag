@@ -1,0 +1,59 @@
+Description:
+A compound involved in the carbon cycle and targeted for reduction to store renewable energy.
+
+Text:
+The conversion of CO2 into energydense carbonbased products, and hence the closure of the carbon 
+cycle in a circular approach, is a very attractive solution for the reduction of the atmospheric CO2 
+content and for the storage of fluctuating renewable energy into chemical energy. Various 
+technologies to reduce CO2, such as thermochemical, electrochemical, photochemical and biochemical 
+processes have been explored in recent years.
+
+
+---
+
+Description:
+Involved in the electrochemical reduction reaction with controllable selectivity and efficiency.
+
+Text:
+The electrochemical CO2 reduction reaction (CO2RR) is 
+particularly attractive due to i) its efficiency, ii) the possibility of using renewable electricity, iii) its 
+controllable selectivity by adjusting the electrode potential, and iv) the use of compact, highly efficient, 
+modular and scalable reaction systems for the synthesis of a variety of products.14 
+Among the various CO2RR products, CO has been considered one of the most commercially viable 
+because of its kinetically accessible process (twoprotons and twoelectrons reaction) and high 
+efficiency.5,6 CO is a very versatile raw material in the industry it is the main component of synthesis 
+gas (a mixture of CO and H2) and utilized to produce a series of essential organic chemical products 
+and intermediates including alcohols, acids, anhydrides, esters, aldehydes, ethers, amines, alkanes, 
+and alkenes.
+
+
+---
+
+Description:
+A stable compound requiring catalysts to overcome slow kinetics for its reduction.
+
+Text:
+For example, it can be used as an intermediate product for the further reduction to 
+ethylene7,8 However, due to the high stability of CO2 and the requirement of electron and proton
+transfers for its transformation, catalysts need to overcome the slow kinetics, yielding low 
+overpotential and high product selectivity. Silver (Ag) has been the metal of choice as catalyst for the CO2RR to CO due to its high activity, 
+selectivity,5 and drastically lower cost compared to gold (Au). Having the second optimal binding 
+energy for the key intermediate of COOH, which is essential in the CO2RR process to CO, Ag is slightly 
+less efficient than Au for CO2RR to CO.9 Even though Ag is not a CRM (critical raw material), its 
+considerable cost is a burden for upscaling.
+
+
+---
+
+Description:
+Involved in electrochemical reduction reactions over Ag-based catalysts.
+
+Text:
+To facilitate the industrial application of the 
+electrochemical CO2RR over Agbased catalysts, research efforts need to be directed towards the 
+minimization of the amount of Ag in the catalytic system, while maintaining the overall activity and 
+selectivity (i.e., increasing the mass activity), while ensuring industryrelevant manufacturing routes. Many studies focused on the effects of the catalyst particle size,10 morphology,11 nanostructuring,12
+14support, alloying and porosity,15 on the CO2RR efficiency. However, synthetic processes to prepare 
+the catalytic materials are often challenging and costly to scale up. Furthermore, materials were often 
+tested in simple Hcells that are limited by the slow mass transfer of CO2 in the liquid electrolyte and 
+are not relevant for future commercialization.

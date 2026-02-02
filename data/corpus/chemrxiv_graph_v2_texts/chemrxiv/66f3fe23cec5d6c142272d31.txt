@@ -1,0 +1,22 @@
+Description:
+A solid element that can be converted into turbostratic flash graphene using the flash Joule heating method.
+
+Text:
+44
+Since 2020, the flash Joule heating (FJH) method has regarded as an effective
+45
+approach to convert solid carbon into turbostratic flash graphene in seconds under the
+46
+combined action of high temperature and electric field.1417 In the FJH process, the
+47
+capacitor tank can discharge instantaneously at approximately 400 V and 1000 A,
+48
+delivering 400 kW of power to heat a 1.0gram solid carbon sample to over 3000 C
+49
+in milliseconds.14 By 2023, a smallbatch automatic FJH system capable of loading
+50
+5.7 grams of metallurgical coke per batch had been designed, with a production
+51
+capacity of 1.1 kg of graphene in 1.5 hour.18 Scaling up this automatic FJH system to
+52
+produce larger batches of graphene requires additional capacitors.

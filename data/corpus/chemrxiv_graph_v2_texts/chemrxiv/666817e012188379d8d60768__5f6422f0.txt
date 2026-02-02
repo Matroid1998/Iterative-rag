@@ -1,0 +1,12 @@
+Description:
+Used in asymmetric three-component arylative cross-coupling with alkenes.
+
+Text:
+This unique blueprint lays the foundation 
+for the development of an asymmetric threecomponent arylative crosscoupling of alkenes using aryl bromides or two distinct Csp2 
+and Csp3halides, as demonstrated by elegant recent examples independently reported by Diao, Nevado, and Chu.11 
+Pioneered by Molander and MacMillan,12,13 many groups have reported a range of redoxactive precursors that are amenable to 
+singleelectrontransfer (SET) oxidation to form alkyl carbon radicals, which serve as formal nucleophiles to participate in two9d,14 
+and threecomponent15 arylative radical crosscouplings under synergistic photoredox and nickel catalysis (Figure 1B, c). Owing to 
+the redoxneutral conditions, these approaches provide wider substrate scope for the construction of diverse chiral molecules that 
+feature (hetero)arylsubstituted stereogenic centers without the necessity for an external reductant.

@@ -1,0 +1,75 @@
+Description:
+A potential n-type material for thermoelectric devices, derived from BiCuSeO with missing Cu.
+
+Text:
+It would be ideal to use the same material
+as the p and ntype legs to avoid device failure due to different
+coefficients of thermal expansion and other issues. While ptype
+BiCuSeO exhibits relatively high TE performance, it is challenging
+to obtain ntype BiCuSeO.9 Attempts to dope BiCuSeO ntype with
+halogens,1012 and transition metals,8,13 have resulted in either
+low power factors andor anomalous pnp transitions in the con
+ductivity type with T. Therefore, an alternative ntype material is
+needed to pair with ptype BiCuSeO in a TE device. Bi2SeO2 has emerged as a potential ntype material to pair with
+ptype BiCuSeO in TE devices. The crystal structure of Bi2SeO2
+can be thought of as BiCuSeOderived with missing Cu.
+
+
+---
+
+Description:
+An n-type material used in thermoelectric modules with a lower zT compared to p-type BiCuSeO.
+
+Text:
+Bi2SeO2
+is known to be natively selfdoped ntype.14 Pan, et al., demon
+strated a TE module of ptype BiCuSeO and ntype Bi2SeO2 with
+a maximum device ZT of 0.8 at 793 K.15 The material zT of n
+type Bi2SeO2 is lower than ptype BiCuSeO. To improve device
+aMANA, National Institute for Materials Science (NIMS), Tsukuba, Ibaraki 305
+0044, Japan. bNorthwestern University, Evanston, IL 60208, USA. cGraduate School
+of Pure and Applied Sciences, University of Tsukuba, Tsukuba, Ibaraki 3058573,
+Japan. dColorado School of Mines, Golden, CO 80401, USA. eRensselaer Poly
+technic Institute, NY 12180, USA. These authors contributed equally. Email
+MORI.Takaonims.go.jp, goraiprpi.edu. efficiency, zT of each leg must be optimized, particularly through
+charge carrier optimization.
+
+
+---
+
+Description:
+An electron concentration-optimized compound used in devices.
+
+Text:
+Although the electron concentration
+in Bi2SeO2 in the aforementioned device was optimized through
+a mechanical shear exfoliation method,15 other routes have also
+been adopted. Substituting Bi with Sb16 and La,17 Ge,18,19 Sn,20
+Ti,21 Ce,22 Nb23,24 and Ta,25 has been successful to various de
+grees, either due to an increase in the electron concentration,
+change in the effective mass, or a combination of both. Substi
+tuting Se or O with S,26 Te,27,28 and Cl29 has increased zT com
+pared to selfdoped Bi2SeO2. The highest zT of 0.69 at 773 K
+was achieved by Te substitution obtained through a mechanical
+shear exfoliation technique,15,28 which was claimed to increase
+the concentration of donorlike Se vacancies (VSe) leading to a
+sixfold enhancement in the power factor.
+
+
+---
+
+Description:
+A compound whose electron concentration affects its thermoelectric performance.
+
+Text:
+Bi2SeO2 synthesis typically involves a solid
+state reaction step, where one procedure uses a twostep method
+with different reaction temperatures and holding times,18,25,31
+while another uses a single solidstate reaction step at a fixed
+temperature.26 A fundamental question arises are these differ
+ent synthesis procedures responsible for the wide variations in
+the reported electron concentrations and therefore, the TE per
+formance of Bi2SeO2? For practical purposes, how do we sys
+tematically tune the electron concentration and improve the TE
+110  1
+httpsdoi.org10.26434chemrxiv20240tk96 ORCID httpsorcid.org0000000178660672 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

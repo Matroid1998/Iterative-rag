@@ -1,0 +1,16 @@
+Description:
+A compound whose lattice parameters can be tuned by introducing foreign species into the interlayer space.
+
+Text:
+Specifically, it was demonstrated that lowering the pH of the reactant 
+solution of the hydrothermal synthesis will yield smaller crystallite sizes.7 Other studies have 
+shown that the lattice parameters of MoS2 can be directly tuned, for example, by the 
+introduction of foreign species  pillars into the interlayer space, expanding the clattice 
+parameter.8 This includes topdown approaches like the topotactic insertion of 
+alkylammonium cationic pillars as demonstrated by Schllhorn et al., however a previous 
+chemical reduction and ion exchange are required.9,10 In summary, the structural properties 
+of MoS2 can be tuned individually by different approaches at several length scales, from 
+macroscopic tuning of particle or crystallite size, down to the microscopic tuning of lattice 
+parameters like the interlayer spacing.11 It would be desirable to control MoS2 structure over 
+several length scales at once in a onepot synthesis approach, allowing to readily tailor 
+emerging MoS2 functional properties.

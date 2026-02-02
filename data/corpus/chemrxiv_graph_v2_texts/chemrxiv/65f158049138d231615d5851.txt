@@ -1,0 +1,19 @@
+Description:
+A porous polymeric membrane used in electromembrane extraction.
+
+Text:
+46 
+During recent decades, microextraction has been a central theme within analyticalscale sample 
+47 
+preparation research. Resulting from this, various techniques have been invented and research is 
+48 
+still very active. One such technique is electromembrane extraction (EME), first presented in 2006 
+49 
+1, which mainly has been used for bioanalytical and environmental extraction applications 2. 50 
+EME is performed using a supported liquid membrane that separates the sample from a clean 
+51 
+acceptor solution. The liquid membrane comprises a porous polymeric membrane, often 
+52 
+polypropylene, and a few microliters of organic solvent immobilized in the pores of the membrane 
+53 
+by strong capillary forces.

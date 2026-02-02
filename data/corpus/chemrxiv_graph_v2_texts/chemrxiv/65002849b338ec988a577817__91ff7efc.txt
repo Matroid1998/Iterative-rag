@@ -1,0 +1,23 @@
+Description:
+Very short PFAS (C3) are mostly refrigerants.
+
+Text:
+Later, Endo and Goss9 recalibrated 
+the solute descriptors for FTOHs, which were evaluated again by 
+Abraham and Acree.12 In addition, descriptors for very short 
+PFAS (C3, mostly refrigerants) have been reported,13,14 and the 
+ABSOLV database on the website10 lists descriptor values for 
+several per and polyfluorinated alkanes and alcohols of 
+unknown origin. Solute descriptors are unavailable for other 
+PFAS, including those that have been frequently detected in the 
+environment such as other fluorotelomer compounds and 
+perfluoroalkanesulfonamides 
+(PFASAs) 
+with 
+different 
+substitution patterns.1517 
+In a previous study, our group measured the values of KHxdair, 
+hence L in eq 1, for 64 neutral PFAS to elucidate their nonpolar 
+interaction properties.18 The study showed that L can be 
+explained by summing the contributions from the fluorinated 
+and nonfluorinated parts of the molecule.

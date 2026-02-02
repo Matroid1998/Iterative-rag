@@ -1,0 +1,43 @@
+Description:
+A metal essential for the function of lytic polysaccharide monooxygenases, which catalyze the oxidative degradation of polysaccharides.
+
+Text:
+Lytic polysaccharide monooxygenases (LPMOs) are copper
+dependent enzymes that catalyse the oxidative degradation of 
+several polysaccharides, such as cellulose, chitin, starch, and 
+pectin.1, 1219 LPMOs work by activating (otherwise inactive) CH 
+bonds in the glycosidic bonds that link the monomers in the 
+respective polysaccharides. This activation ultimately leads to 
+oxidation and cleavage of the glycosidic bond.3, 21, 22 Several 
+mechanistic pathways have been suggested for LPMOs, and we 
+have summarized the most recent suggestions in Figure 1. Originally, LPMOs were discovered in bacteria and fungi.
+
+
+---
+
+Description:
+A common active site in LPMOs coordinated by two histidine residues.
+
+Text:
+Nowadays, LPMOs are employed in industrial 
+enzyme cocktails to produce biofuels and other valueadded 
+products.4, 5 
+To date, eight different LPMO families have been discovered, 
+namely AA9AA17 (AA12 does not contain LPMOs).23 All 
+members share a common active site a copper centre 
+coordinated by two histidine residues in a motif termed the 
+histidine brace (see Figure 2).17 Initially, LPMOs were thought 
+to be strictly monooxygenases,1, 24, 25 catalysing the reaction 
+
+RH  O2  2H  2eROH  H2O 
+( Scheme 1 ) 
+
+but it remains unclear how protons and electrons can be 
+delivered to the active site after substrate binding (see 
+reactions 3b, 4b and 7b in Figure 1).22, 26 Meanwhile, it has been 
+suggested that LPMOs are in fact peroxygenases,22, 26, 27 working 
+according to the reaction 
+
+RH  H2O2 ROH  H2O 
+
+( Scheme 2 )

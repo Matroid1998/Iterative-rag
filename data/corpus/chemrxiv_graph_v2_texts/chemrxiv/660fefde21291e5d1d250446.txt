@@ -1,0 +1,37 @@
+Description:
+Involved in the oxygen reduction reaction catalyzed by ZrN.
+
+Text:
+Transition metal nitrides (TMN) have gained increasing 
+attention as active materials for numerous energy related 
+applications including catalysis and energy storage due to their 
+unique properties.14 The metal nitrogen bonding in TMN 
+consists of covalent, ionic and metallic bonds which influence 
+the material characteristics.5 While the metallic bonds lead to 
+small electrical resistivities and high corrosion resistance, the 
+covalent bonding enhances stress tolerance, accompanied by 
+high hardness and brittleness.6,7 Furthermore, the ionic bonding 
+leads to comparable electronic structure to that of precious 
+metals such as Pd and Pt due to a contraction of the metal d
+bands and an expansion of the parent metal lattice.1,6,8 
+Among the numerous TMNs, ZrN has been recently identified 
+as a promising material for a range of possible applications that 
+include plasmonic devices,9 catalyst for oxygen reduction 
+reaction (ORR)10 and the nitrogen reduction reaction (NRR).11 
+Although ZrN displays favourable electrochemical activity to 
+ORR and NRR while being cheap and abundant compared to 
+commonly employed noble metals,12 in the bulk form 
+conventionally used, there are a limited number of active sites 
+which significantly reduces the efficiency and hinders its 
+implementation in practical catalytic applications.3,12 The (100) 
+facets of rocksalt structured ZrN, in addition to other TMNs 
+such as CrN, NbN, and VN were theoretically described as 
+possibly active and selective for the NRR and stable under 
+typical 
+electrocatalytic 
+potentials.11 
+The 
+experimental 
+evaluation of these computational descriptions is currently 
+lacking, mainly due to difficulties in preparing facet controlled 
+TMNs.

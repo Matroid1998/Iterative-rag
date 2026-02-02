@@ -1,0 +1,15 @@
+Description:
+An aromatic biomolecule whose behavior in the presence of water and ammonia solvents is influenced by quantum nuclear effects.
+
+Text:
+The primary limitation of the classical approximation is, however, also clear inherently
+quantum eects such as delocalization, zeropoint energy, tunnelling, andor interferences,
+are completely missed. Even for large systems, there are plenty of situations where quantum dynamical eects
+are known to be importantand therein lies the challenge. For example, the study of hydro
+gen transfer in proteins is important for understanding the multitude of biological functions
+supported by this fundamental reactionwhich in some cases even requires consideration
+of deep proton tunneling.1 Similarly, hydrogen tunneling dynamics was experimentally re
+vealed in phenolammonia clusters activated by UVphoton absorption.2 Other aromatic
+biomolecules (e.g., indole and pyrole3 in the presence of water and ammonia solvents) man
+ifest a behavior that attests to quantum nuclear eects governing the dynamics in excited
+electronic states.

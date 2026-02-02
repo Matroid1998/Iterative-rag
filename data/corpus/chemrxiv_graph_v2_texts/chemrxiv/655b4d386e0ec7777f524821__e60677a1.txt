@@ -1,0 +1,13 @@
+Description:
+Chemical sensors based on metal oxides often face problems of low selectivity and high operating temperatures.
+
+Text:
+In the past few years, the interest in small, wearable sensors has increased significantly. Especially in the medical, sports tracking, and the virtual reality sectors, the market for reli
+able, affordable, and sensitive sensors is growing quickly.1,2 Commercially available sensors,
+e.g. chemical sensors based on metal oxides often face problems of low selectivity and high
+operating temperatures.3,4 In contrast, organically capped or crosslinked metal nanoparticle
+assemblies have shown promising sensing properties at room temperature.4,5 Gold nanopar
+ticles (GNPs) are valuable due to their high stability and their wellcontrolled synthesis.6 In
+particular in combination with thiols, GNP assemblies have been used as chemiresistors and
+as strain sensors.711 Nowadays, various techniques for their fabrication exist,1218 opening
+up the opportunity to design wellcontrolled thin films for different sensing applications.

@@ -1,0 +1,15 @@
+Description:
+Utilized in the surface chemistry of AlN in ALD processes.
+
+Text:
+ALD of AlN has garnered 
+significant attention for applications demanding robust protective layers, such as the 
+development of corrosionresistant, insulating and protective coatings.7 
+ALD is based on sequential, selflimiting surface chemical reactions, enabled by carefully tuned 
+deposition chemistry and an alternating precursor supply onto the substrate. This leads to the 
+hallmark of ALD conformal deposition on topologically complex surfaces. The alternating 
+surface chemistry also facilitates studies of the surface chemistry and reaction mechanisms as the 
+surface is only exposed to one type of precursor molecule at a time. Puurunen et al.810 have 
+explored the surface chemistry of AlN using trimethylaluminum (TMA) and ammonia (NH3) by 
+infrared (IR) spectroscopy and nuclear magnetic resonance (NMR) spectroscopy on porous silica 
+and alumina.

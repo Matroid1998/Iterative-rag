@@ -1,0 +1,12 @@
+Description:
+A nanostructured material used to enhance the analytical signal of electrochemical MIP sensors.
+
+Text:
+The easiest way to enhance 
+the analytical signal of an electrochemical MIP sensor is embedding nanostructured materials, such as 
+multiwalled carbon nanotubes (MWCNTs) 1518, graphene 1922, quantum dots (QDs) 16, or gold 
+NPs 22, 23 in the MIP films. Despite the convenience, this approach offers only limited electrode surface 
+development and signal enhancement. Electrodes of high specific surface area were applied to achieve a 
+higher electrochemical signal. For example, deposition of various porous noble metal films on the surface 
+of flat electrodes was reported 2428. These methodologies resulted in the deposition of noble metals of 
+significantly enhanced surface area. However, these procedures were laborious and expensive.

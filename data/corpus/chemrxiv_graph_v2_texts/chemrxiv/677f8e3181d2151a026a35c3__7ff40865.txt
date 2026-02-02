@@ -1,0 +1,47 @@
+Description:
+Crucial in various fields including industrial chemistry, agrifood, environmental sciences, and clinical analysis.
+
+Text:
+The detection and control of dioxygen concentration are crucial in various fields, including industrial chemistry, 
+agrifood, environmental sciences, and clinical analysis.13 As an example, molecular oxygen plays a key role 
+in biological processes, making its detection important to understand physiological and pathological 
+phenomena. Among all existing techniques (the Winkler, amperometric and pressurebased methods), optical 
+methods offer a noninvasive and precise alternative for dioxygen detection, with advantages such as rapid 
+response, high sensitivity, and ease of miniaturization, leading to an increased interest in the design of optical 
+dioxygen molecular sensors.4 
+Since the seminal discovery of Kautsky and Hirsch in 1931,5 it is well established that emission and, more 
+particularly, phosphorescence emission of chromophores decreases in the presence of dioxygen.
+
+
+---
+
+Description:
+Decreases phosphorescence emission of chromophores.
+
+Text:
+The detection and control of dioxygen concentration are crucial in various fields, including industrial chemistry, 
+agrifood, environmental sciences, and clinical analysis.13 As an example, molecular oxygen plays a key role 
+in biological processes, making its detection important to understand physiological and pathological 
+phenomena. Among all existing techniques (the Winkler, amperometric and pressurebased methods), optical 
+methods offer a noninvasive and precise alternative for dioxygen detection, with advantages such as rapid 
+response, high sensitivity, and ease of miniaturization, leading to an increased interest in the design of optical 
+dioxygen molecular sensors.4 
+Since the seminal discovery of Kautsky and Hirsch in 1931,5 it is well established that emission and, more 
+particularly, phosphorescence emission of chromophores decreases in the presence of dioxygen.
+
+
+---
+
+Description:
+In its fundamental triplet state, it is involved in collisional deactivation of chromophore triplet excited states.
+
+Text:
+This 
+reversible photophysical process involves a collisional deactivation of the chromophore triplet excited state by 
+dioxygen in its fundamental triplet state (3).6 This process may lead to the formation of singlet oxygen (1), 
+which is detectable through its characteristic luminescence emission or by using a scavenger. The high 
+cytotoxicity of these species is instrumental in the development of photodynamic therapy (PDT) applications.7, 
+8 In addition, the decrease of luminescence intensity and lifetime provides measurable parameters for dioxygen 
+detection. Consequently, the (I0I) and (0) ratios, where I0 and I (respectively, 0 and ) are the luminescence 
+intensities (respectively, lifetimes) in the absence and in the presence of O2, can conveniently provide an 
+evaluation of molecular probe sensitivity.

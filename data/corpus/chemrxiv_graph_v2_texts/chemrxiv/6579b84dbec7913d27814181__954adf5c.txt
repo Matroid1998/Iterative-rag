@@ -1,0 +1,17 @@
+Description:
+Each Mo atom is intricately coordinated by six neighboring chalcogen atoms, forming strong covalent bonds.
+
+Text:
+This tunability directly stems from their hexagonal symmetry
+structure, where each Mo atom is intricately coordinated by six neigh
+boring chalcogen atoms (S, Se, or Te), forming strong covalent bonds
+and adopting a trigonalprismatic geometry through the hybridization
+of molybdenums sd5 orbitals. This structural arrangement results in
+a lack of coordinatively unsaturated surface sites, rendering the basal
+planes of materials like MoS2, MoSe2, and MoTe2 generally chemi
+cally inert, with most external interactions primarily driven by van der
+Waals (vdW) forces. Moreover, the distinctive bonding configuration in
+these sheets results in the outwardprojecting pz orbitals of chalcogen
+atoms contributing to the valence band maximum (VBM). This feature
+enables effective charge transfers, even in cases where surface interac
+tions are relatively weak 18, 19.

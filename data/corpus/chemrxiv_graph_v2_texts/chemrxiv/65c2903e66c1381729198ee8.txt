@@ -1,0 +1,45 @@
+Description:
+A powerful greenhouse gas with a short atmospheric lifespan of 12 years and is the major component of natural gas.
+
+Text:
+26
+Methane, a powerful greenhouse gas (GHG) with a short atmospheric lifespan (12 years),
+27
+is responsible for about 30 of the rise in global temperatures, with current atmospheric
+28
+concentration more than twice preindustrial levels.13 As the major component of natural
+29
+gas commonly emitted across production, processing, and distribution sectors, mitigating
+30
+natural gas emissions from methane emissions has economic, safety, and environmental ben
+31
+efits.4,5 The oil and gas (OG) sector is the largest industrial source (30) of anthro
+32
+pogenic methane emissions in the United States.
+
+
+---
+
+Description:
+Emissions are stochastic, temporally and spatially variable with large emitters typically responsible for a substantial portion of unplanned emissions.
+
+Text:
+Several studies have shown that fugitive
+33
+(unplanned) methane emissions are stochastic, temporally and spatially variable with large
+34
+emitters typically responsible for a substantial portion of unplanned emissions.614 Continu
+35
+ous monitoring (CM) can improve emissions detection since these solutions nearcontinuously
+36
+monitor entire facilities (e.g. an entire wellpad), and can identify fugitive emissions faster
+37
+than existing survey methods (e.g. optical gas imaging camera surveys).15,16
+38
+A CM leak detection and quantification (LDAQ) solution is a technology that mea
+39
+sures ambient emissions concentration continuously using one, or a combination of, sensing
+40
+methodologies (e.g. tunable diode laser absorption spectroscopy, light detection and ranging,
+41
+etc.) and interprets readings using proprietary algorithms to generate actionable results (e.g.

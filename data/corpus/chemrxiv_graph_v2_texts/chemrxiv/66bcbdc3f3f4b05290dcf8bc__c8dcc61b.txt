@@ -1,0 +1,14 @@
+Description:
+Used in the assembly of sensitivity-enhanced 3D and 4D pulse sequences for chemical shift assignments.
+
+Text:
+The recent development of sensitivityenhanced transverse mixing sequences suitable for 1H 
+detected solidstate NMR experiments enables fast acquisition of multidimensional experiments for 
+protein backbone assignments. These new sequences include two different approaches, Transverse 
+mixing optimal control pulses (TROP)1,2 and simplified preservation of equivalent pathways 
+spectroscopy (SPEPS)3,4. Both allow for simultaneous magnetization transfers of two components, 
+similar to the strategies previously developed for solution NMR experiments5,6, which leads to a 
+theoretical increase in the signaltonoise ratio (SNR) by a factor of 2 per indirect dimension. It is 
+now straightforward to assemble all sensitivityenhanced 3D and 4D pulse sequences required to 
+record spectra for assignments of H, N, C and CO chemical shifts. However, in order to 
+unambiguously assign challenging proteins, access to side chain chemical shifts is critical.

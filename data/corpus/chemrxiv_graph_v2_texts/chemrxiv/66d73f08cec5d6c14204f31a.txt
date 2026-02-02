@@ -1,0 +1,14 @@
+Description:
+Chiral compounds with interesting chiroptical properties used in bioimaging, optical data storage, and CPOLEDs.
+
+Text:
+Many chiral helicenes show interesting chiroptical properties and these materials have been 
+widely investigated in such diverse fields as bioimaging, optical data storage, optical 
+spintronics applications, and circularly polarized organic lightemitting diodes (CPOLEDs).1
+8 Most emissive chiral helicenes are fluorescent, but for efficient OLEDs, triplet excitons need 
+to be harvested, so helicenes that emit either phosphorescence or thermally activated delayed 
+fluorescence (TADF) would be potentially attractive emitters. Organic multiresonant TADF 
+(MRTADF) materials have attracted particular attention as emitters for OLEDs as not only 
+can devices attain 100 internal quantum efficiency (IQE) but they also show narrowband 
+emission and high photoluminescence quantum yield (FPL).912 Thus, the development of 
+chiral MRTADF emitters would be particularly attractive for CPMRTADF OLEDs.

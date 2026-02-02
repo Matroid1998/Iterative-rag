@@ -1,0 +1,40 @@
+Description:
+Incorporated into the interstitials of the Lu FCC lattice.
+
+Text:
+An especially remarkable
+report was the claim of roomtemperature superconduc
+tivity at nearambient pressures in Ndoped Lu hydrides
+15, which subsequently stimulated a rush 1625 try
+ing to clarify and reproduce the superconducting phase
+whose structure is reported to have a fcc Lu lattice but
+with undetermined stoichiometry and atomic positions of
+pguansandia.gov
+ mwitmansandia.gov
+H and N. However, these verification efforts, no matter
+experimental or computational, have not reproduced the
+claim and the original study has since been retracted. Nonetheless, the open question of how N, along with
+H, is incorporated into the interstitials of the Lu FCC
+lattice remains.
+
+
+---
+
+Description:
+An element that can populate interstitials in metals or alloys.
+
+Text:
+However, PCT prediction becomes even
+more difficult if a metal or alloy is open to multiple
+species that can populate its interstitials (i.e., H and N)
+or if the pressure range to be modeled is sufficiently high
+that the pressure contribution to the enthalpy is non
+negligible. Our goal is therefore to generally address both chal
+lenges in a unified computational workflow so that PCT
+behavior of highpressure, multielement interstitial hy
+drides can be more rapidly predicted. We will demon
+strate this for the cubic Lu(H, N, Va)3 system, but ex
+pect its applicability to translate to other materials sci
+ence domains relying on (highpressure) interstitial in
+corporation in intermetallic alloy lattices. Modern ma
+httpsdoi.org10.26434chemrxiv20246g37p ORCID httpsorcid.org0000000244843216 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

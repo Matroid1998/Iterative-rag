@@ -1,0 +1,13 @@
+Description:
+A photoswitch used to gate reactions in light-controlled chemical processes.
+
+Text:
+Lightcontrolled chemical reactions have been established as a tool to achieve spatial and 
+temporal control over chemical processes, making it possible to localize reactions or develop 
+complex chemical networks. This tool can also be used for the regulation of biological 
+processes, the development of smart materials, and the understanding of the complexity of 
+nature.15 In lightcontrolled chemical reactions, light acts as an external stimulus on the gate, 
+a substance that undergoes a certain photoreaction, providing remote control over the desired 
+chemical process. To date, most photoswitches, such as azobenzene, spiropyran, and their 
+derivatives, have been used to gate the reactions.616 In this work, we use a different type of 
+photoresponsive molecule called a photobase of two different categories.

@@ -1,0 +1,13 @@
+Description:
+Involve 5f and 6d orbitals in chemical bonding, requiring precise relativistic and electron correlation treatments.
+
+Text:
+However, accurate descriptions of their electronic states require highly 
+precise relativistic treatment and electron correlation treatment on the same footing. Particularly, 
+static electron correlation may be more pronounced due to the involvement of actinides 5f and 6d 
+orbitals in chemical bonding, because these orbitals are located energetically close to each other. One of the most practical and less computationally intensive approaches to calculating 
+actinide compounds is constructing molecular orbitals (MOs) with a spinfree (SF) relativistic 
+Hamiltonian. In such cases, spinorbit (SO) interactions are considered later by taking a linear 
+combination of SF multielectronic states simultaneously with electron correlation calculations. Thus far, coupled cluster singles and doubles (CCSD),2 multireference configuration interaction 
+(MRCI),3 and multireference secondorder perturbation theory (MRPT2)4 have been applied to 
+this approach.

@@ -1,0 +1,15 @@
+Description:
+Can shift the scattering frequency, change the scattering intensity, or modify the population lifetime when added to alkyne systems.
+
+Text:
+There are also possible effects arising from covalently 
+bonded substituents; some experiments have shown that electronic conjugation of the alkyne 
+triple bond or adding sulfur or silicon atoms can shift the scatting frequency, change the scattering 
+intensity, or modify the population lifetime.31,36,38,4247 
+In this paper, we take our first steps towards a full quantum chemistry and molecular 
+dynamics investigation of what the alkyne vibration is specifically reporting on. Here, we develop 
+a new method for calculating the frequency of a terminal alkyne which is compatible with 
+snapshots extracted from molecular dynamics simulations. Our goals are to 
+1. Demonstrate that an isolated and localized discrete variable representation method is 
+sufficient to compute the terminal alkyne CCstretch normal mode vibrational frequency 
+with good accuracy. 2.

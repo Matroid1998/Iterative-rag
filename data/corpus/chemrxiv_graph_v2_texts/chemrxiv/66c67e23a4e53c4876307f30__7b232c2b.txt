@@ -1,0 +1,28 @@
+Description:
+Formed from aldehydes during electrocatalytic oxidative dehydrogenation in alkaline media.
+
+Text:
+Biomassderived organic oxidation reactions are thus increasingly being investigated as 
+alternatives to OER that could reduce the cost of green hydrogen and provide valuable 
+anode products.2 
+Electrocatalytic oxidative dehydrogenation (EOD) of biomassderived aldehydes 
+(Equation 1) is a particularly intriguing alternative anode reaction 
+EOD RCHO  2 OH  RCOO  H2O   H2  e 
+(1) 
+Favored in alkaline media, the EOD pathway can selectively transform aldehydes into 
+carboxylates while simultaneously producing H2 gas at the anode, at potentials positive of 
+the equilibrium potential for standard hydrogen oxidation.3 This oneelectron pathway 
+stands in contrast to the more common twoelectron pathway (standard electrochemical 
+oxidation, ECO, equation 2) 
+ECO RCHO  3 OH  RCOO  2 H2O  2 e 
+(2) 
+Au, Ag, and Cu anodes are established to prefer the EOD pathway at low overpotentials4 
+while other simple metal electrocatalysts generally oxidize hydrogen to H2O and therefore 
+primarily catalyze ECO.5 At higher potentials, oxidation of (presumptively) adsorbed 
+hydrogen (reverse Volmer reaction) becomes more kinetically favorable, and higher organic 
+oxidation products (e.g., CO2) may also be obtained, reducing the selectivity and electron 
+efficiency of organic product formation.6 
+Anodic hydrogen was observed at least as early as the 1980s, primarily as a product 
+of formaldehyde oxidation.79 EOD has regained interest due to the possibility of utilizing 
+biomassderived (carbon neutral) reactants and producing dualelectrode hydrogen at 
+scale with low costs for materials (copper electrodes) and electricity (low cell voltage).

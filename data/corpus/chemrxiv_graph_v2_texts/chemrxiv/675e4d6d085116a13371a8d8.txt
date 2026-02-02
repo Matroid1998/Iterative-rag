@@ -1,0 +1,34 @@
+Description:
+Undergoes conversion at the cathode in SOERs to form CO and O2.
+
+Text:
+In SOERs, 
+3 
+CO2 conversion occurs at the cathode (CO2  2e  CO  O2)1820 while propylene, a highvalue chemical, 
+4 
+is produced from inexpensive propane at the anode (C3H8  O2  C3H6  H2O  2e).3,11,13 The overall 
+5 
+electrochemical reaction, using excess renewable electricity in the SOER (C3H8  CO2  C3H6  CO  H2O 
+6 
+in Figure 1A), presents a compelling opportunity to merge environmental sustainability with economic 
+7 
+viability, thereby accelerating the transition to a carbonneutral future. 8 
+The concurrent CO2 recycling and propylene production via SOERs, however, faces several challenges.
+
+
+---
+
+Description:
+Has a higher dissociation energy barrier and undergoes a multielectron process during reduction to CO.
+
+Text:
+9 
+The reduction of CO2 to CO occurs at a slower rate than water splitting for hydrogen due to its multielectron 
+0 
+process and higher dissociation energy barrier.19 In the anode side, the oxidative dehydrogenation of propane 
+1 
+is hindered by several factors21,22 the strength of CH bonds in propane, the relative instability of propylene 
+2 
+compared to propane, excess oxidation of propane to CO2, catalyst degradation under oxidative conditions, 
+3 
+httpsdoi.org10.26434chemrxiv20240ps6q ORCID httpsorcid.org0000000293755239 Content not peerreviewed by ChemRxiv. License CC BY 4.0

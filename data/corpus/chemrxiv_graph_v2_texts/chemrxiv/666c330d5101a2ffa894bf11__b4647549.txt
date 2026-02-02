@@ -1,0 +1,51 @@
+Description:
+Structures generated using the basin hopping Monte Carlo method.
+
+Text:
+Email lukas.grajciarnatur.cuni.cz
+ Electronic Supplementary Information (ESI) available information on generaliza
+tion tests, details on zeolite models adopted, convergence tests for basin hopping
+Monte Carlo, GeGe partial radial distribution functions, correlations between sta
+bility and GeOGe bond count, additional lowenergy structures, and more detailed
+characterizations of the germanium distributions are provided. See DOI XXX. Ad
+ditional data (neural network potentials, training database, neural network poten
+tial testing data, analysis and postprocessing scripts, zeolite structures from basin
+hopping Monte Carlo, etc.) are provided in the Zenodo repository at 10.5281zen
+odo.11551686. Deceased. Reassembly (ADOR) process2 around ten years ago, a novel ap
+proach to generate socalled unfeasible zeolites3 became avail
+able.
+
+
+---
+
+Description:
+Topologies that can be synthesized through the ADOR process, which are otherwise unavailable by other synthetic routes.
+
+Text:
+The process makes use of the specific (nonstatistical) dis
+tribution of framework heteroatoms, generally germanium, to di
+rect preferential hydrolysis of layered precursors into separate,
+twodimensional intermediates, followed by targeted recondensa
+tion into condensed phases4. This procedure allows for access to
+zeolite topologies that are unavailable by other synthetic routes,
+and indeed has led to the discovery of several new zeolite topolo
+gies. From many previous studies, it has been established that
+the presence of germanium has a major role in guiding zeolite
+synthesis through the ADOR process5. Specifically, it is the pref
+erential occupation of germanium atoms into cubic double 4ring
+(D4R) sites that leads to the separability of layers, in e.g. zeolite
+UTL, for which the ADOR approach has been most successful.
+
+
+---
+
+Description:
+Structures that can contain Ge, Si, or both, linked to the geometric preference of various bond angles.
+
+Text:
+An elegant study by OKeefe and Yaghi6 linked the possibility to
+form zeolite structures containing Ge, Si or both, to the geometric
+preference of various bond angles for Ge and Si in Si8nGenO20
+cubic subunits. Villaescusa et al.7 subsequently synthesised the
+Journal Name, year, vol.,115  1
+httpsdoi.org10.26434chemrxiv2024qp5bb ORCID httpsorcid.org0000000194647769 Content not peerreviewed by ChemRxiv. License CC BY 4.0

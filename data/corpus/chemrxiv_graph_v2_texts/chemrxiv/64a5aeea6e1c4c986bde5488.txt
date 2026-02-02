@@ -1,0 +1,32 @@
+Description:
+Materials used for magnetic field-based multifunctional applications, including spintronic devices and energy harvesting.
+
+Text:
+Recent investigations have shown possible applications of 
+transition metal dichalcogenides (TMDCs) for various 
+magnetic fieldbased multifunctional applications. A few 
+include 
+spintronic 
+devices 
+with 
+antiferromagnetic 
+materials, 
+antiferromagnetic 
+topological 
+insulators, 
+sensing, and energy harvesting devices 14. A change in 
+magnetic behavior is often observed when the bulk 
+material is confined to lower dimensions. MerminWagner 
+theorem has been set to explain the magnetism in lower 
+dimensional materials 5. Accordingly, continuous 
+symmetries cannot be broken at finite temperatures in 
+systems with sufficiently shortrange interactions in 
+dimensions d  2. It means that longrange fluctuations can 
+be created with little energy cost, and since they increase 
+entropy, 
+they 
+are 
+favoured. Doping, 
+layered 
+heterostructures, and other techniques can introduce 
+magnetism to a material.

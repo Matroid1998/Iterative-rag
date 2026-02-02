@@ -1,0 +1,33 @@
+Description:
+Forms micelles that are quite regular with defined core and shell regions.
+
+Text:
+8,1012. Provided
+that
+the
+interaction
+parameters
+between
+the
+tail,
+headgroup,
+and solvent are rather large,
+the micellar
+structure is wellsegregated into distinct core and shell
+regions. 8 For more weakly interacting systems 13,14 or
+micelles in mixed solvents 15, however, significant solvent
+penetration into the core is found, a feature which can be
+utilised for micellar catalysis. 16
+O
+O H
+9.5
+O
+O H
+9.5
+a) C12EO10
+b) TX100
+? coreshell model
+Figure 1. Molecular structure of a) C12EO10 and b) TX100. The
+micelles formed by C12EO10 are known to be quite regular and
+have defined core and shell regions, while the structure of TX100
+assemblies has been debated.

@@ -1,0 +1,18 @@
+Description:
+Acts as a hydride source and reductant in mHAT, enabling selective monoreduction of polyalkenes.
+
+Text:
+First, unactivated olefins react well in mHAT methods, enabled 
+by the high reactivity (low bond dissociation energy) of the weak 
+metalhydride bond.8b The hydride source and reductant in mHAT 
+is a silane or borohydride,8a, 8b, 10 enabling selective monoreduction of 
+a polyalkene via stoichiometry control, which would be more chal
+lenging using a traditional hydrogenation in which the reductant is 1 
+atm of H2 or solvent alcohol. Finally, the radical mechanism offers 
+complementary selectivity relative to a typical transitionmetal cata
+lyzed mechanism, with improved chemoselectivity and preservation 
+of sensitive functional groups.8a, 8b, 10 
+One problem with these singlecatalyst mHAT systems (Scheme 
+1b) is that they require at least stoichiometric loading of an oxidant, 
+such as tertbutyl hydroperoxide (TBHP), which is necessary to turn 
+over the M2M3 cycle.

@@ -1,0 +1,13 @@
+Description:
+Demonstrated in eCVD processes as a potential replacement for wet chemical methods.
+
+Text:
+The eCVD process can thus be regarded as a dry form of ECD with the 
+potential to replace the wetchemical methods, allowing for integration in vacuum cluster 
+tools. The eCVD has been demonstrated with iron, cobalt and nickel,4 but not yet for copper. In 
+this study we explore eCVD of copper using the betadiketonate precursors Cu(hfac)2 and 
+Cu(acac)2. Previous eCVD studies indicate that alternating the supply of the metal precursor 
+and plasma electrons tends to yield higherquality films.6 By experimenting with pulse and 
+purge times while studying the deposition in situ by a quartz crystal microbalance (QCM) 
+sensor, we find conditions where the deposition chemistry seems to be selflimiting. We thus 
+propose that we have demonstrated eALD of copper.

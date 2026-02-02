@@ -1,0 +1,24 @@
+Description:
+A nutrient with effluent limits as low as 0.03 mgPL1 in wastewater treatment.
+
+Text:
+58 
+Microalgal technologies can advance the limit of technology for tertiary nutrient recovery at water 
+59 
+resource recovery facilities (WRRFs; a.k.a. wastewater treatment plants, WWTPs), while also 
+60 
+producing valuable coproducts, such as fertilizers, bioenergy feedstocks, industrial chemicals, 
+61 
+and animal feed.1,2 Recently, these technologies have attracted attention because of their 
+62 
+potential to meet effluent total phosphorus limits as low as 0.03 mgPL1,3 well below the current 
+63 
+limit of technology for biological phosphorus removal (0.3 mgPL1).4 Despite the potential of 
+64 
+microalgaebased wastewater treatment as an alternative to conventional chemotrophic nutrient 
+65 
+removal andor chemical precipitation, the lack of a reliable and reproducible model to predict and 
+66 
+optimize the performance of microalgal nutrient recovery process design has limited the 
+67 
+widespread use of this technology.

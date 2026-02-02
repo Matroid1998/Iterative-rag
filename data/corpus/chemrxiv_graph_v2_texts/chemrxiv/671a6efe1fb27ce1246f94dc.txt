@@ -1,0 +1,13 @@
+Description:
+An inorganic semiconductor used in strong light-matter coupling studies.
+
+Text:
+Polariton condensates are at the forefront of emergent classical and quantum 
+technologies, acting as lowthreshold lasers 6, optical logical gates7,8 and quantum bits for quantum 
+information technology9. Most studies of strong lightmatter coupling have been performed in cavities containing traditional 
+inorganic semiconductors such as GaAs10, CdTe11, ZnO12 and GaN13. Most of these group IIIV 
+semiconductors, experience low exciton binding energies in their bulk form and hence require the 
+formation of sophisticated quantum well structures and cryogenic temperatures to sustain excitons 
+and undergo stronglight matter coupling 1416 . As an alternative to these materials, recent interest 
+has turned to twodimensional (2D) hybrid organicinorganic metal halide phases, which form 
+selfassembled quantum well structures hosting confined excitons.

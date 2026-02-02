@@ -1,0 +1,24 @@
+Description:
+A metal-organic framework (MOF) that can be grown via localization to microcontact printed self-assembled monolayer patterns.
+
+Text:
+In the case of 
+MOFs, an ongoing challenge is the development of methods for 
+the precise spatial positioning of MOFs within such devices to 
+enhance their performance whilst minimizing material wastage.14 
+Bottomup approaches to MOF patterning include directed MOF 
+growth, such as via localization of layerbylayer Cu3(btc)2 
+growth to microcontact printed selfassembled monolayer (SAM) 
+patterns,15 or the use of lithographically patterned wells to 
+localize seed crystals and subsequent MOF growth.16 However, 
+such 
+multistep 
+fabrications 
+typically 
+require 
+specialized 
+instrumentation, and careful control and can be relatively time
+consuming. Further, as MOFs are typically fabricated as nano or 
+microcrystalline powders, methods for the precise spatial 
+deposition of such crystals are attractive for industrial 
+applications.

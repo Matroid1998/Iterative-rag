@@ -1,0 +1,10 @@
+Description:
+A cofactor for transaminases that facilitates the reversible transfer of an amine.
+
+Text:
+Transaminases are pyridoxal 5phosphate (PLP)dependent enzymes that catalyze the reversible transfer of an 
+amine from a donor substrate to a ketone or aldehyde via a pingpong mechanism.1,2 The synthetic value of transaminases is 
+derived from their ability to furnish enantioenriched primary amines,35 and this transmission of chiral information from 
+catalyst to product has been extended to adjacent stereocenters via dynamic kinetic resolutions (DKRs, Scheme 1A).610 Be
+cause transaminasecatalyzed reactions are reversible, several strategies to drive equilibria toward the product have been 
+explored.

@@ -1,0 +1,33 @@
+Description:
+A reagent used in dynamic kinetic processes to achieve high yield and enantiomeric ratio in coupling reactions.
+
+Text:
+To further demonstrate the synthetic potential of our protocol, a 
+gramscale reaction of 2chloronaphthalene (1a) and benzylic zinc 
+reagent (2a) was conducted, and the desired product was obtained 
+in 88 isolated yield and 95.54.5 e.r. with only 0.5 catalyst load
+ing (Figure 2A), highlighting the scalability and practicality of this 
+protocol. Subsequently, the benzylic zinc reagent (2a) was de
+creased to 1.2 equiv, and the coupled product 3a was still obtained 
+in nearly quantitative yield with 955 e.r. (Figure 2B), which pro
+vides strong evidence that the reaction takes place through a dy
+namic kinetic process, rather than a simple kinetic resolution.
+
+
+---
+
+Description:
+Used as a model substrate in density functional theory calculations.
+
+Text:
+To gain insight into the detailed reaction mechanism and the or
+igins of chirality control of the extremely bulky DTBANIPE lig
+and, we obtained the Xray crystal structure of Pd(L7)(3cin)Cl 
+(Figure 2C). Based on this Xray crystal structure, density func
+tional theory (DFT) calculations were performed using 2
+chloronaphthalene 1a and benzylic zinc reagent 2a as model sub
+strates (see the Supporting Information for the computational de
+tails). The DFTcomputed free energy profile is elaborated in Fig
+ure 2D. Based on previous theoretical studies14,15, the reaction ini
+tiates with the coordination of 1a to PdL7, resulting in the com
+plex int1.

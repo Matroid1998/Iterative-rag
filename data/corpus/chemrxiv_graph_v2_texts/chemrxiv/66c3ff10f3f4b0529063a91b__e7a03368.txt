@@ -1,0 +1,43 @@
+Description:
+Strained three-membered rings containing two doubly bound nitrogen atoms that release nitrogen gas upon excitation, revealing reactive carbenes.
+
+Text:
+Diazirine groupsstrained threemembered rings containing 
+two doubly bound nitrogen atomsrelease nitrogen gas upon 
+thermal or photochemical excitation, revealing reactive 
+carbenes that can undergo CH, OH, or NH insertion to 
+nearby substrates (Fig. 1A). First popularized by Brunner for use 
+in biological target identification,1 trifluoromethyl aryl diazirines 
+have been used extensively to search for proteinbinding 
+partners for bioactive small molecules (Fig. 1B).24 Thanks to 
+their small size (relative to alternative photoactivatable groups 
+like benzophenones), excellent stability (in the absence of 
+bright light), lack of toxicity,5 and desirable activation 
+wavelength (ca. 365 nm; considerably longer than that required 
+for activation of benzophenones or aryl azides), trifluoromethyl 
+aryl diazirines have emerged as the gold standard for target 
+identification experiments.
+
+
+---
+
+Description:
+Reagents that can be photochemically or thermally activated to reveal reactive carbenes.
+
+Text:
+Reagents developed on the 
+trifluoromethyl aryl diazirine scaffold are also now frequently 
+employed 
+for 
+proximity 
+mapping 
+of 
+Tcell 
+protein 
+environments,6 and for the functionalization7 and crosslinking8
+10 of lowfunctionality aliphatic polymers. Fig. 1 
+Overview of diazirine reactivity and utility in chemical biology. A 
+Photochemical or thermal activation of diazirine reagents reveals reactive 
+carbenes that can engage in XH insertions to nearby substrate molecules. B 
+Photoaffinity labelling of target proteins with diazirineenabled small molecules 
+allows for identification of macromolecular binding partners.

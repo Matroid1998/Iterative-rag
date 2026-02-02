@@ -1,0 +1,11 @@
+Description:
+An oxidizing stoichiometric reagent used in the oxidation of alcohols.
+
+Text:
+controlling the reaction without leading to complete oxidation, requires highly selective 
+catalysts with tailormade properties.1 Primary alcohols can be selectively oxidized to aldehydes, but over
+oxidation can likely occur, leading to the formation of carboxylic acids; secondary alcohols can be oxidized 
+to ketones, which are generally not further oxidized as ketone oxidation can only occur through CC bond 
+cleavage.2 Oxidations of alcohols are traditionally carried out in anaerobic conditions using oxidizing 
+stoichiometric reagents such as CrO3, KMnO4, MnO2, SeO2, and Br2.3 Unfortunately, these methods often 
+rely on costly oxidizing agents, leading to both economic and environmental concerns.

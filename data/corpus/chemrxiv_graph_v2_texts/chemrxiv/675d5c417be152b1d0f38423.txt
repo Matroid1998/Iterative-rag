@@ -1,0 +1,13 @@
+Description:
+Involved in the Oxygen Evolution Reaction (OER) in alkaline electrolyzers.
+
+Text:
+AEL, on the other hand, uses nonnoblemetal catalysts, making it cheaper,
+but typically results in lower efficiency. Therefore, significant improvements in efficiency while maintaining
+stable operation are necessary for AEL 5, 6, 7, 8. Alkaline electrolyzers comprise two halfcell reactions, the Oxygen Evolution Reaction (OER) and the
+Hydrogen Evolution Reaction (HER), with the cell efficiency being drastically undermined by the slug
+gish kinetics of the OER. Therefore, research focuses on exploring more active catalyst materials for the
+OER. Despite the importance of high catalytic activity to minimize overpotential losses, the catalysts
+durability should not be forgotten. Catalysts are seldom tested under industrial electrolyzer conditions,
+creating a discrepancy between laboratory test conditions and industrial electrolyzer conditions displayed
+in Figure 1.

@@ -1,0 +1,12 @@
+Description:
+A cardenolide that inhibits the membrane potential generating function of the Na,K-ATPase.
+
+Text:
+Another early observation was a possible involvement
+of the plasma membrane resident Na,KATPase. This finding was based on the inhibition of
+unconventional secretion of FGF2 by ouabain, a cardenolide that was known to inhibit the membrane
+potential generating function of this ATPdependent ion pump (Florkiewicz, Anchin, and Baird 1998). However, all of these observations were solely based upon pharmacological evidence and, therefore, not
+fully conclusive. Due to the lack at the time of advanced techniques such as genomewide screening
+systems based upon RNA interference or CRISPR gene knockouts, as well as the unavailability of
+sophisticated in vitro reconstitution systems, mechanistic insights into the molecular machinery mediating
+unconventional secretion of FGF2 became available only much later starting in the mid2000s. Figure 1. FGF2 unconventional secretion mechanism.

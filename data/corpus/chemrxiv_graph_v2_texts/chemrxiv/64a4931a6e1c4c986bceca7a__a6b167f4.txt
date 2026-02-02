@@ -1,0 +1,14 @@
+Description:
+Coordinating atoms in complexes that favor Li over Na or K.
+
+Text:
+While this 
+observation follows intuition, we identified unique complexes which deviate from this trend and 
+hold significant promise for distinctive forms of selectivity in materials, namely those with planar 
+coordinating atoms that could preferentially bind K and Li over Na, compounds with large ring 
+sizes despite small coordination numbers that would disfavor Li binding in comparison to Na or 
+K, and complexes with N coordinating atoms which favor Li over Na or K. Additionally, we 
+showed that the majority of the differential binding energy originates from chemical interaction 
+rather than molecular reorganization. Our trained ML models revealed that both electronic and 
+geometric features play critical roles in predicting the differential binding energy, and neither 
+category strongly dominates the prediction.

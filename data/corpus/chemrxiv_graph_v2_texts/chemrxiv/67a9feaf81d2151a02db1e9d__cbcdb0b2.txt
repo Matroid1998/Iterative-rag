@@ -1,0 +1,15 @@
+Description:
+Dissolved species that shuttle between the anode and cathode in lithium-sulfur batteries.
+
+Text:
+The lithiumsulfur (LiS) battery is a promising electrochemical storage system due to its
+high theoretical energy density and costeffectiveness.1,2 However, several challenges hinder
+its practical applications, including the electronic and ionic insulating nature of both sulfur
+and the discharge product lithium sulfide (Li2S), the formation and shuttling of dissolved
+lithium polysulfides species between the anode and the cathode, and complicated composi
+tional and structural changes. To address these issues, the scientific community has proposed
+several strategies, including (i) developing novel cathodes,3 anodes, binders, and electrolytes;
+and (ii) advancing the understanding of LiS redox chemistries.4,5 One promising approach
+involves the confinement of the polysulfides directly via the covalent bonding to the cathode
+2
+httpsdoi.org10.26434chemrxiv2025n7s1rv2 ORCID httpsorcid.org0000000190545685 Content not peerreviewed by ChemRxiv. License CC BY 4.0

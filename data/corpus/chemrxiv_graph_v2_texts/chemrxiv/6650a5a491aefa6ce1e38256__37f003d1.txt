@@ -1,0 +1,13 @@
+Description:
+Complex lipids that are abundant in human blood products.
+
+Text:
+However, direct application of RPC in the analysis of human blood 
+products is challenging in practice due to the abundance of protein and complex lipids such as 
+glycerophospholipids and triacylglycerols. Proteins are removed by organic solvent precipitation13,14 
+allowing their separation by centrifugation or filtering from the small moleculecontaining 
+supernatant. Lipids are strongly retained under RPC conditions and highly ionizable in electrospray 
+ionization (ESI). Consequently, complex and neutral lipid species can accumulate in the LC system 
+during analyses of lowmolecularweight metabolites (LMWMs) in blood products, eluting 
+unpredictably from the column and exhibiting suppressive effects on the ionization of other 
+metabolites1519.

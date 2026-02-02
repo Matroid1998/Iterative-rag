@@ -1,0 +1,14 @@
+Description:
+A product of the solar photon-driven oxygen evolution reaction in water splitting.
+
+Text:
+The solar photondriven oxygen evolution reaction (photoOER) is a halfreaction of the 
+overall water splitting process, in which four absorbed photons are required to form O2 
+2H2O  4h  O2  4H 
+
+(1) 
+It is particularly challenging to achieve the high efficiency needed for the overall reaction to be 
+energetically sustainable due to its multistep nature.13 Some researchers believe that the 
+inefficient utilization of photogenerated holes in photocatalytic and photoelectrochemical water 
+oxidation processes is the root cause of poor efficiency.46 Several critical factors have been 
+identified.

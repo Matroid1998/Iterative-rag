@@ -1,0 +1,17 @@
+Description:
+A C1 source used in photochemical methodologies to access carboxylic acid functionalities.
+
+Text:
+The recent resurgence of photochemistry has driven the 
+discovery of new bond disconnections not accessible through 
+traditional twoelectron pathways.9 In particular, the development 
+of photochemical methodologies utilizing C1 sources (e.g., CO2, 
+HCOO) to readily access carboxylic acid functionalities has garnered 
+significant 
+attention. Contemporary 
+photochemical 
+radical 
+carboxylation strategies typically operate via the challenging direct 
+reduction of CO2 (E12  2.21 V vs SCE)10 or hydrogen atom 
+abstraction from formate salts to access a highly reactive CO2 
+intermediate.

@@ -1,0 +1,11 @@
+Description:
+A metal-organic framework where charge separation occurs within less than 200 fs.
+
+Text:
+The main bottleneck is the collection the light 
+on large area around the catalytic centre followed by an ultrafast and efficient energy transfer to 
+achieve multiple electron injections on a short period of time. Ultrafast timeresolved spectroscopy has been applied to resolve the formation of separated 
+electronhole pairs (eh) between linkers and metal centres in metalorganicframeworks (MOFs). Douhal and coworker14,15 have shown that in Zrnaphtalenedicarboxylate (ZrNDC) MOFs the charge 
+separation takes place within less than 200 fs, leading to the formation of electrons and holes localized 
+on the Zr clusters and on the naphtalene linkers, respectively. The (e h) pairs can be engaged in one
+electrons redox reactions.

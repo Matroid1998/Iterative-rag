@@ -1,0 +1,51 @@
+Description:
+Involved in the selectivity and conductance of voltage-gated sodium channels (Navs).
+
+Text:
+The heterogenous enzyme en
+vironment, including protein residues and solvent molecules,
+generate a nonuniform electric field in active sites that facil
+itates catalysis.1822 Simulations also showed that structural
+dynamics cause wide fluctuations of the electric field in en
+zymatic active sites, which further accelerate reactions rates,
+thereby directly linking electrostatics and conformational mo
+tion effects.2325 Finally, theoretical studies demonstrate that
+electric fields could be used as a design principle to improve
+the catalytic performance of synthetic enzymes and explain
+the mutations selected by directed evolution.2629
+Although
+predominantly
+used
+to
+rationalize
+enzyme
+performance in the context of electrostatic preorganiza
+tion theory,14,30
+electric fields can also explain drug
+receptor binding and selectivity15,3133, unidirectional elec
+tron transfer15,34, protonation states35 and metal ion chelation
+in polymeric systems.36 In this paper, we propose a new ap
+plication and calculate electric fields to unveil the molecular
+mechanisms at the origin of the selectivity and conductance of
+voltagegated sodium channel (Navs).
+
+
+---
+
+Description:
+Ions permeate with water through the pore domain of Nav channels.
+
+Text:
+We use these electric
+field calculations to investigate electrostatic preorganization
+in Navs. Navs are responsible for the generation and propagation of
+electrical signals in excitable cells such as neurons and mus
+cle cells.3739 Navs comprise four domains, each consisting of
+six helices, aligned across the cell membrane (Figure 1).40,41
+Helices S1 through S4 of each domain further arrange into
+the voltage sensing domain (VSD). S4 and its gating charge
+residues can slide in and out of the membrane upon external
+stimulation, triggering channel gating. Helices S5 and S6 of
+each domain make the pore domain (PD), where sodium ions
+permeate with water. S5 is connected to S6 by two additional
+loops as well as the selectivity filter.

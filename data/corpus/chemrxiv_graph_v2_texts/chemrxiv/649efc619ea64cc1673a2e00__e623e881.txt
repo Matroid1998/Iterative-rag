@@ -1,0 +1,59 @@
+Description:
+Molecules that exhibit rotational excitation when scattered from Au(111) surfaces.
+
+Text:
+Recent series of quantum state
+resolved REMPI experiments have shown high propensity
+to excite aaxis in collisions of formaldehyde with Au(111)
+surface.14,15 They found that direct scattered formaldehyde
+molecules (low scattering angles, incident energy greater than
+0.33 eV) spend less time on the surface (as compared to high
+scattering angles) and follow a nonMaxwellian distribution
+in terms of rotational states. Their trajectory simulations with
+Ausurface represented by a harmonic oscillator, formalde
+hyde as a rigid rotor and hardsphere and LennardJones in
+teraction between formaldehyde and Au, overestimated the
+average rotational excitation compared to the experiments.
+
+
+---
+
+Description:
+Studied for its energy transfer processes in nonreactive inelastic collisions with Au(111) surface.
+
+Text:
+In
+the study reported here, we used classical dynamics simula
+tion to investigate energy transfer in the nonreactive inelas
+tic collisions of formaldehyde with Au(111) surface and un
+derstand the mechanisms underlying the energy transfer pro
+cesses. We modelled the system using SuttonChen poten
+tial for Au(111) surface, the sixdimensional (6D) potential
+energy surface for formaldehyde developed by Bowman and
+coworkers,16 and the two body LennardJones potential to de
+ne the gassurface interaction. Our results are in good agree
+ment with the experiments, both in terms of rotational energy
+distribution, as well as trapping probabilities, and explain the
+mechanism of the energy transfer. II. COMPUTATIONAL DETAILS
+A. Potential Energy Surface
+The inelastic scattering of formaldehyde on the gold surface
+was studied using the allatom classical trajectory simulations.
+
+
+---
+
+Description:
+A component in the interaction potential with the gold surface.
+
+Text:
+The potential energy of the system is written as
+V  Vgold Vform Vint
+(1)
+where Vgold, Vform, and Vint represent the potential energies
+of the gold surface, formaldehyde, and the interaction be
+tween gold surface and formaldehyde respectively. We used a
+rectangularshaped hcp lattice of Au(111) surface which con
+sisted of three layers of gold atoms, with a total (ng) of 1045
+atoms. The manybody semiempirical SuttonChen (SC) in
+teraction potential17 was used to represent the bulk of gold
+httpsdoi.org10.26434chemrxiv2023bm5qcv2 ORCID httpsorcid.org0000000255509694 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

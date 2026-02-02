@@ -1,0 +1,11 @@
+Description:
+A counter anion used in imidazolium-based room-temperature ionic liquids affecting coordination numbers around metal ions.
+
+Text:
+31 
+Several experimental studies focus on the extraction of REEs using ILs; 3140 however, there are fewer 
+theoretical studies for the extraction of REEs with ILs either as extractants or as dilutants. 4146 
+Chaumont et al. 41 used classical Molecular Dynamics (MD) to investigate the solvation of Ln3 
+cations, where Ln  La, Eu, and Yb, in two different imidazoliumbased roomtemperature ionicliquids 
+(RTILs) with PF6 and AlCl4 as the counter anions. Depending on the size of the metal ions, the 
+coordination numbers (CN) of PF6 and AlCl4 around the metal ions in the first coordination shell vary. Around 1113 1methyl3butylimidazolium (BMI) cations further surround the first coordination shell. Their study shows smaller cations interact more strongly with the ILs than larger ones.

@@ -1,0 +1,15 @@
+Description:
+A reactive metal used in anodes for solid-state batteries, with complex morphological evolution during cycling.
+
+Text:
+Solidstate batteries (SSBs) hold promise as an improved energy storage technology, since 
+they potentially offer higher energy densities, improved safety, and enhanced stability compared 
+to lithiumion batteries.16 Solidstate electrolytes (SSEs) could enable the use of lithium metal 
+anodes; however, lithium anode implementation in SSBs has been hindered by the reactive nature 
+of lithium and its complex evolution during cycling.710 Anodefree battery architectures, in which 
+lithium is deposited in situ on a current collector during the first charge, are of particular interest, 
+as they eliminate the need for excess lithium metal during manufacturing and also enable high 
+energy density.1116 However, the morphological evolution of lithium is even more challenging to 
+control in anodefree SSBs than in lithiumexcess SSBs.1721 This is because nucleation and growth 
+must occur on a foreign current collector, and the lack of excess lithium requires extremely high 
+Coulombic efficiency (CE) for longterm cycling.15

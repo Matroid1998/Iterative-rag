@@ -1,0 +1,33 @@
+Description:
+Compounds whose reactivity can be improved with P-based ligands.
+
+Text:
+1A).1b In the 50 years since its discovery, many iterations of ligands 
+ mainly Pbased  have appeared, which improved the reactivity for 
+more challenging amines and aryl halides.1b In recent years, 
+alternatives to canonical Pd catalysis have appeared in the literature, 
+identifying Cu and Ni as one of the most promising alternatives.3 Yet, 
+the mechanistic framework of M0MII catalytic cycles based on complex 
+phosphine or NHC ligands still dominated (Fig. 1A).4 In 2016, 
+Buchwald and MacMillan provided a new platform that permitted facile 
+CN bond formation merging photoredox and nickel catalysis (Fig. 1B),5 avoiding the design and multistep synthesis of supporting 
+ligands.
+
+
+---
+
+Description:
+React with electron-deficient aryl bromides to form CN bonds in Ni-catalyzed processes.
+
+Text:
+1B).8 Many subsequent variants followed, and examples refining 
+and improving the conditions with,9 or without the use of donating 
+ligands are still at the forefront of the catalysis landscape.10, 11 Building 
+up on this new mechanistic paradigm, in 2020, Nocera and coworkers 
+reported a Nicatalyzed protocol that allowed the formation of CN 
+bonds between electrondeficient aryl bromides and amines through a 
+proposed NiINiIII redox process, without the need of light or a 
+photocatalyst (Fig. 1C). Similar to the photoredox processes, no 
+additional ligands on the Ni catalyst were required.12 However, the 
+proofofconcept study reported by Nocera and coworkers was 
+applied to simple bromoarenes.

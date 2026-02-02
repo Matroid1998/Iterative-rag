@@ -1,0 +1,10 @@
+Description:
+A U correction of 6 eV was applied to its f orbitals using the Dudarev formalism.
+
+Text:
+Calculations on EuAg4Sb2 were performed
+in the unrestricted KohnSham formalism with the Eu spins
+aligned ferromagnetically, and a U correction of 6 eV was
+applied to the f orbitals of Eu using the Dudarev formalism
+1
+httpsdoi.org10.26434chemrxiv2023qzj4tv2 ORCID httpsorcid.org0000000196478807 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

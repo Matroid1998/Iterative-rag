@@ -1,0 +1,38 @@
+Description:
+Has a Raman spectrum that can be decomposed in q-Gaussian Tsallis functions.
+
+Text:
+For the carbonbased materials, the Raman spectroscopy is a particularly wellsuited technique (Zhang et al., 
+2022), due to the longrange crystalline vibrations and shortrange molecular vibrations of carbon species, which 
+are producing, for the different materials, their characteristic spectral fingerprints. According to Zhang and 
+coworkers, these fingerprints allow identifying the specific carbon materials including graphite, diamond, graphene, 
+carbon nanotubes, fullerene, and amorphous carbon. To these materials, we must also add the recent studies on 
+graphene, bilayer graphene, and twodimensional graphene heterostructures (Zhang et al., 2022, Mu and Sun, 
+2020, Cui and Sun, 2021). We have already discussed diamond and graphite Raman spectra in the framework of their decomposition in q
+Gaussian Tsallis functions.
+
+
+---
+
+Description:
+A crystalline form of carbon with a G peak at 1582 cm1 and a G (or 2D) peak at 2700 cm1.
+
+Text:
+Diamond has a Raman peak at 1332 cm1, corresponding to the vibration of its two 
+Bravais lattices of carbon atoms with respect to each other (Krishnan, 1945). The crystalline graphite has a G peak 
+at 1582 cm1 and a G (or 2D) peak at 2700 cm1 (Malard et al., 2009). In other carbonaceous materials, such as soot, 
+kerogen, and biochar, besides the G band we find the D1, D2, D3 and D4 bands mentioned by Beyssac et al., 2002, 
+and Sadezky et al., 2005.
+
+
+---
+
+Description:
+A material used as a reference spectrum to compare with graphene and graphene oxide.
+
+Text:
+In Claramunt et al., 2015, we can find a different notation where D is D1, D2 is D, D3 is 
+D and D4 is D. In Sousa et al., 2020, a further D5 component is used (see for instance the Raman spectrum 
+decomposition in their Figure 2). Sadezky and coworkers give the following Raman shifts (cm1) 1580 (G), 1350 
+(D1), 1620 (D2), 1500 (D3), 1200 (D4). Let us add 1700 (D5), according to Sousa et al., 2020. Here, our aim is that of showing spectra of graphene and graphene oxide, with respect to the graphite spectrum, to 
+understand how many components are required to interpret the fingerprints.

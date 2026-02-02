@@ -1,0 +1,44 @@
+Description:
+Known as petzite, it shares the chiral cubic I4132 space group and has a melting point around 730 C.
+
+Text:
+The exploration for precious metals in natural sources
+led to the discovery of Ag3AuSe2 (fischesserite) and
+Ag3AuTe2 (petzite) in the nature in the early 1900s.1,2
+They were identified to have stoichiometric compositions
+and share the chiral cubic I4132 space group, as deter
+mined by Xray diffraction. Ag3AuS2 crystallizes in a
+centrosymmetric trigonal structure3 and is not the focus
+of this study. Early research on Ag3AuSe2 and Ag3AuTe2 explored
+structural transitions at high temperatures using dif
+ferential thermal analysis (DTA) and Xray diffraction
+(XRD).47 Both compounds have similar melting points
+around 730 C and undergo multiple phase transitions at
+elevated temperatures. Although synthesis of Ag3AuSe2
+and Ag3AuTe2 have been reported,58 experimental data
+on the physical and chemical properties of the synthetic
+samples remain limited.
+
+
+---
+
+Description:
+Predicted to have a narrow and direct band gap with potential for full gap closure at 4% strain.
+
+Text:
+Theoretical work on Ag3AuSe2 and Ag3AuTe2 pre
+dicted narrow and direct gaps at the  point.8,16,17 Re
+cent density functional theory (DFT) calculations ex
+amined their potential applications in dark matter de
+tection and highlighted the tunable band gaps through
+strain application.17 Simulated band structures with
+reduced lattice parameters demonstrated gapopening
+for Ag3AuSe2 and gapclosing for Ag3AuTe2.17 Specif
+ically, a full gap closure was predicted at 4 strain
+for Ag3AuTe2.17 Our recent DFT simulations using
+the PerdewBurkeErnzerhof (PBE) functional predicted
+zero gap for the selenide at 3 tensile strain.18,19 These
+findings suggest that alloying Ag3AuSe2 and Ag3AuTe2
+may induce gapnarrowing and potentially metallic be
+havior at an intermediate strain between 3strained
+Ag3AuSe2 and 4strained Ag3AuTe2.

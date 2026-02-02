@@ -1,0 +1,35 @@
+Description:
+Important building blocks for the assembly of architecturally complex C(sp3) rich molecules.
+
+Text:
+The multifaceted reactivity of alkyl chlorides makes them important 
+building blocks for the assembly of architecturally complex C(sp3)
+rich molecules (Figure 1A)1. Despite their wellrecognized utilities, 
+methods to access alkyl chlorides directly from readily available rea
+gents remain rare2, beyond classical syntheses from Markovnikov ad
+ditions to alkenes3 and substitution reactions of alcohols4. One area 
+that has resulted in the evolution of new technologies for the synthe
+sis of complex alkyl chlorides has been transformations based on the 
+difunctionalization of alkenes. In the 1950s, Meerwein and cowork
+ers developed a radicalbased approach to alkyl chloride synthesis 
+through the arylchlorination of alkenes (Figure 1B)5a, b.
+
+
+---
+
+Description:
+Compounds whose synthesis could benefit from a mechanistically distinct modular and catalytic method.
+
+Text:
+1,2Arylpalladation to the carboncarbon double bond of 
+the alkene generates an alkylPd(II) intermediate, the interception 
+of which with a highly electrophilic chlorination reagent leads to the 
+formation of a putative alkylPd(IV)Cl species and prompts CCl 
+bond formation through reductive elimination. Although these 
+highvalent Pdmediated transformations have underpinned the 
+syntheses of many arylethyl chlorides, the use aryl tin reagents di
+minishes the attractiveness of these methods (Figure 1B)12. We reasoned that the invention of a mechanistically distinct modu
+lar and catalytic method for the synthesis of alkyl chlorides would be 
+a valuable addition to the arsenal of synthetic tools and of interest to 
+practitioners of moleculemaking in academic and industrial envi
+ronments.

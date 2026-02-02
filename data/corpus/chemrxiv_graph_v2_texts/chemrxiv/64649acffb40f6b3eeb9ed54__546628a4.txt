@@ -1,0 +1,24 @@
+Description:
+An element whose ions can be readily accommodated by the open structure of Prussian blue for reversible intercalation processes.
+
+Text:
+Prussian blue (PB) is an important porous metalcyanide framework structure (AxFe3FeII(CN)6y.nH2O) with exchangeable A cations. Along 
+with its analogs, it shows promise for a range of important applications13 including as cathodes in secondary ion batteries.410 Indeed, PB 
+cathodes have potential in widespread, lowcost energy storage applications, using abundant and affordable Na or K based aqueous 
+electrolytes.1012 In particular, K ions can be readily accommodated by the open structure of PB, which allows for reversable intercalation 
+processes that are challenging in layered transition metal oxide cathodes. Despite the identified potential, unexpected complexities within the PB structure have made fundamental understanding of intercalation 
+processes difficult.
+
+
+---
+
+Description:
+Involved in intercalation processes and studied using X-ray absorption techniques.
+
+Text:
+Highly crystalline materials, 
+considered to have a limited number of defects, are reported to favor superior cyclelife and rate capability. The importance of Fe(CN)64 
+defects in contributing to structural collapse is stated to be due to their inhibition of ion insertion and decrease in electronic conductivity.25
+28 However, understanding the loss of capacity is again complicated by the differing process mechanisms that are suggested for charge 
+balancing and K intercalation. Importantly, current understanding of the location of K in PB is deduced from general long range structural information such as diffraction 
+data, or via theoretical simulation. Herein, we show that operando potassium Kedge Xray absorption near edge structure (XANES) can

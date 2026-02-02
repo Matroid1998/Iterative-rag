@@ -1,0 +1,47 @@
+Description:
+Pivotal in promoting catalytic activity in alkaline media for the oxygen evolution reaction.
+
+Text:
+46 
+The electrolysis of water (2H2O  2H2  O2) to produce hydrogen fuel is critical 
+47 
+for renewableenergy infrastructure1, 2. Even in optimized electrolyzers, the efficiency is 
+48 
+reduced by the slow kinetics of the oxygen evolution reaction (OER, 4OH  2H2O  4e 
+49 
+ O2 in alkaline media)3, 4. Among the many OER catalysts studied over decades, Fe is 
+50 
+broadly pivotal in promoting the catalytic activity in alkaline media57. In particular, Ni and 
+51 
+Co (oxy)hydroxides require Fe to achieve high activity, regardless of whether it is 
+52 
+introduced intentionally or incidentally8, 9. Sustaining the high activity of these Fe
+53 
+containing (oxy)hydroxides requires soluble Fe species in the electrolyte due to the 
+54 
+dynamic Fe exchange at the catalystelectrolyte interface1013.
+
+
+---
+
+Description:
+Induces a positive shift in the M2M3 redox potential when substituted.
+
+Text:
+Prior to 
+65 
+OER, Fedoped M(OH)2 is oxidized to (nominally) MOOH, accompanied by a 
+66 
+contraction of the MO bond length and interlayer distance, consistent with stronger MO 
+67 
+bonds upon formal cation oxidation25. Fe substitution induces a positive shift of the 
+68 
+apparent M2M3 redox potential, indicative of electronic interactions between Fe and host 
+69 
+Ni or Co cations. The oxidation state of Fe during OER at the active site remains a point 
+70 
+of discussion. Both Fe3 and Fe4 were found under OER conditions for codeposited Ni
+71 
+Fe or CoFe (oxy)hydroxides, while in nonaqueous electrolyte Fe6 was identified and 
+72 
+invoked as the active intermediate2629.

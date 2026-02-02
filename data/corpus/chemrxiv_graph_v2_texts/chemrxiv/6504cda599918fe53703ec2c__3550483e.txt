@@ -1,0 +1,114 @@
+Description:
+Has an NCl bond length of 1.73 Å.
+
+Text:
+Although anomeric amide chlorinat
+ing reagent 6 and Palauchlor have the same NCl bond length (both 
+1.73 , longer than 1.66  for TCCA49 and 1.69  for NCS50), the con
+version of 14 to 14Cl is calculated to be more energetically favorable by 
+a factor of 102.7 (G  3.75 kcalmol) using 6 (Figure 3A), which 
+is in accord with experimental findings. To gain deeper insight into this 
+higher reactivity, DFT calculations of the NCl bond breaking energy 
+(from the ground state to the corresponding anion and Cl) for both re
+agents was performed.
+
+
+---
+
+Description:
+Requires more energy for bond breaking compared to reagent 6.
+
+Text:
+Calculations indicate that this bond breaking 
+event is significantly uphill for both reagents, but reagent 6 requires 25 
+kcalmol less energy for bond breaking than Palauchlor, which means 6 
+has a more active NCl bond (Figure 3B).
+
+
+---
+
+Description:
+A chlorinating agent used in organic synthesis.
+
+Text:
+In the case of reagent 6, when
+53
+32
+52
+27
+18
+52
+O2N
+O
+N
+Cl
+OAc
+6
+NC
+O
+N
+Cl
+OAc
+8
+O
+N
+Cl
+OAc
+10
+NO2
+O2N
+O
+N
+Cl
+OAc
+9
+O2N
+O
+N
+Cl
+OPiv
+11
+F
+O
+N
+Cl
+OAc
+12
+Me
+N
+N
+F
+HO
+N
+N
+N
+F
+F
+NBS, AcOH 36
+X
+TCCA, TfOH, HFIP 27
+DBDMH, mNBSA, HFIP 7
+NCS, AcOH 7a
+Br2, AcOH 30
+NBS, H2SO4 0
+Palauchlor 16
+tBuOCl 21
+AcOBr 11b
+voriconazole (3)
+DCDMH, AcOH 5
+Me
+N
+N
+F
+HO
+N
+N
+N
+F
+F
+H
+X, 60 C
+X  Cl
+X  Br xray
+A. A survey of precedented halogenation methodsreagents on 3
+B.

@@ -1,0 +1,13 @@
+Description:
+A metal with high conductivity, used in direct printing onto various substrates.
+
+Text:
+Processes like direct ink writing (DIW) 8, 
+electrohydrodynamic printing (EHD) and inkjet printing 9, liquid metal printing 10, 11 , laser
+induced forward transfer (LIFT) and electrochemical printing 12, 13 offer a degree of flexibility 
+and costeffectiveness that is not readily achievable through conventional means. Among these methods, confined electrodeposition (CED) has demonstrated exceptional 
+control over the microstructure of printed metal 1417, facilitating the direct printing of high
+conductivity ( 2times of the bulk conductivity) metals such as copper (Cu) and nickel (Ni) onto 
+various substrates 1823. It is also possible to print alloys using this technique by co
+electrodeposition from a single electrolyte 24. Electroless plating can be combined with 
+electroplating or direct ink writing for development of hybrid printing technologies 25, 26.

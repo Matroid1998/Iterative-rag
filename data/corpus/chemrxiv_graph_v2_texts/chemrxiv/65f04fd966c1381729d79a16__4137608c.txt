@@ -1,0 +1,43 @@
+Description:
+Compounds formed from the dehalogenation of haloalcohols and can undergo ring opening with nucleophiles.
+
+Text:
+Halohydrin dehalogenases (HHDHs) have recently distinguished themselves as powerful enzymes for the 
+asymmetric diversification of oxyfunctionalized synthons.18 In nature, these bacterial lyases catalyze the reversible 
+dehalogenation of haloalcohols through formation of the corresponding epoxides.9 More importantly, they are 
+capable of accepting a number of anionic C, N, O, and Snucleophiles in the reverse reaction, i.e. epoxide ring 
+opening, giving access to a large repertoire of valuable products.10 For instance, recent impressive biocatalytic 
+examples for the application of HHDHs in asymmetric synthesis include the preparation of enantiopure 
+nitroalcohols11, and thiiranes12, as well as the desymmetrization of 2substituted1,3dichloro2propanols with 
+subsequent cyanatemediated ring opening to afford optically pure epoxides and oxazolidinones1 among others.
+
+
+---
+
+Description:
+Compounds that undergo ring opening reactions catalyzed by enzymes like HheC.
+
+Text:
+We selected these HHDHs based on their biocatalytic relevance,4,10,13,20,2528 the fact that both enzymes offer high
+resolution crystal structures,17,20,26 as well as their highly dissimilar catalytic properties. HheC is the by far best 
+studied member of the HHDH family, generally displaying high catalytic activity and enantioselectivity in the 
+dehalogenation of various substrates as well as in the ring opening of terminal epoxides.35,15,2933 Moreover, 
+numerous protein engineering studies of HheC have been published aiming either at an increased activity, 
+enantioselectivity or stability of the enzyme.3437 In contrast, HheG is rather thermolabile and much less selective.
+
+
+---
+
+Description:
+Compounds with a three-membered cyclic ether structure that can undergo ring-opening reactions.
+
+Text:
+However, this HHDH was the first reported enzyme with relevant ringopening activity towards sterically more 
+demanding internal epoxides (cyclic as well as acyclic).19,20,2628,38 Even though less protein engineering data are 
+available for HheG so far, the enzyme exhibits distinct structural differences compared to HheC.20,26,27,38,39 This 
+includes a much broader and open active site, an additional helix in the nucleophile binding site loop, as well as 
+a long and highly flexible loop in the Nterminal part of the protein, modulating substrate access to but possibly also 
+substrate binding in the active site.20,40 
+In this work, we experimentally examined all possible single mutants of HheC and HheG with defined 
+amino acid exchanges at the three conserved motif 1 residues, namely threonine, phenylalaninetyrosine and 
+glycine (Figure 1A), to investigate the impact of each residue on enzyme activity, selectivity and stability.

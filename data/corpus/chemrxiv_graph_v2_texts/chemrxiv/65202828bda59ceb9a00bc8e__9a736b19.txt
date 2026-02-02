@@ -1,0 +1,22 @@
+Description:
+Involved in ion transport through channel proteins such as the potassium channel.
+
+Text:
+In an eort to solve this compli
+cated optimization problem, molecular simulations have
+proven indispensable, providing valuable insights about
+nanoporous membranes based on graphene,1620 metal
+organic frameworks (MOFs),21 and polymers.22,23
+A second example is biological channel proteins, which
+modulate the transport of ions through cellular and or
+ganellar membranes. They generally possess extraordi
+nary levels of ionwater and ionion selectivity, yet there
+are signicant gaps in our understanding of the molec
+ular origins of such selectivity. Similar to water de
+salination, various techniques in molecular simulations
+have been used to investigate dierent aspects of water
+and ion transport through channel proteins,24 such as
+aquaporins2527 and the potassium channel.28,29
+Despite their potential, the accuracy of molecular sim
+ulations depends on a multitude of implementation de
+tails.

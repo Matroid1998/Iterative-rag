@@ -1,0 +1,14 @@
+Description:
+Has three nonequivalent atomic sites contributing to defect chemistry.
+
+Text:
+Sb2Se3 has recently gained significant attention as a 
+candidate for PEC water splitting and solar cells, benefiting from its excellent optoelectronic 
+and electro(chemical) properties, such as high absorption coefficient (  105 cm1 in the near
+infrared and visible region),2 suitable band gap (1.11.3 eV),3 good carrier mobility (10 cm2 
+V1 s1),4 low cost, and photocorrosion resistance.5 For PEC water splitting, the photocurrent 
+density (Jph) of Sb2Se3 photocathodes has been extensively improved from 2 mA cm2 to 35.7 
+mA cm2 at 0 V versus a reversible hydrogen electrode (VRHE), nearly approaching the 
+maximum theoretical value of 40.9 mA cm2.6 However, the photovoltage of Sb2Se3 
+photocathodes is still far behind the theoretical maximum value, attributed to a rich defect 
+chemistry stemming from the two nonequivalent Sb and three nonequivalent Se atomic sites.

@@ -1,0 +1,91 @@
+Description:
+Forms a shell in Rucore Pt shell nanoparticles, slowing down or inhibiting Ru dissolution.
+
+Text:
+For PtRu nanoparticles, this includes,
+in particular, the dissolution of the individual
+components into the electrolyte, where Ru dis
+solution is more facile than Pt, but also a possi
+ble surface restructuring.3035 For Rucore Pt
+shell nanoparticles, it was shown that the Pt
+shell slows down or even inhibits the dissolu
+tion of Ru, and the effect is usually stronger
+with increasing Pt layer thickness.10,13,14,30,36,37
+Nevertheless, Ru dissolution often occurred also
+for these materials during longterm stability
+tests, which was attributed to the formation of
+pinholes in the Pt shell.38
+Fundamental studies aiming at a more de
+tailed understanding of the reactivity, adsorp
+tion properties, and stability of RuPt core
+shell electrodes often use Ptmodified Ru(0001)
+electrodes,3950 which are perfect, welldefined
+model systems and therefore well suited for
+fundamental studies, including comparison of
+theory and experiment.6,39 Model studies us
+ing such electrodes in the ORR,51 the hydro
+gen underpotential deposition (HUPD),41 or
+the MOR45,52 revealed a distinct influence of
+the Pt layer thickness on Ru(0001).
+
+
+---
+
+Description:
+Protects low-coordinated Ru atoms at step edges against dissolution.
+
+Text:
+The sta
+bility of such model electrodes has been inves
+tigated so far only for oxidation reactions on
+(sub) monolayer Pt filmcovered surfaces, em
+ploying ultrahigh vacuum (UHV) scanning tun
+nelling microscopy (STM) measurements before
+and after the electrochemicalcatalytic mea
+surements.5355 The results indicated that Pt
+protects the lowcoordinated Ru atoms at step
+edges against dissolution, shifting the onset po
+tential for dissolution to more positive values. For potentials larger than 1.05 V, Ru disso
+lution on the Ptmodified Ru(0001) electrodes
+was mainly observed at the Ru steps (step flow
+corrosion). Furthermore, Pt was found to re
+structure, forming Pt clusters on the surface in
+the regions of the original Pt islands.
+
+
+---
+
+Description:
+Used to modify Ru(0001) electrodes for stability in electrooxidation.
+
+Text:
+In this work, we focus on the stability of
+Ptmodified Ru(0001) electrodes with Pt thick
+nesses of up to three layers during the electro
+oxidation of methanol (MeOH) and CO in acid
+at potentials larger than 1.05 V. This potential
+had been chosen as upper potential limit in pre
+vious studies to prevent possible restructuring
+of the electrodes during the experiment.41,51,52
+Here, we first studied the stability and struc
+tural modifications of an electrode with three
+Pt layers in pure supporting H2SO4 electrolyte
+and during the MOR by surface Xray diffrac
+tion (SXRD) at the synchrotron.
+
+
+---
+
+Description:
+Used to modify Ru(0001) electrodes for stability studies.
+
+Text:
+The measure
+ments indicated that these electrodes are sur
+prisingly stable up to 1.4 V, in contrast to the
+submonolayer Pt modified Ru(0001) electrodes
+studied previously,5355 or to pure Pt(111) elec
+trodes.5660 Inspired by this finding, we then
+explored the stability of Ptmodified Ru(0001)
+electrodes with a Pt thickness of one and three
+layers for the COOR.

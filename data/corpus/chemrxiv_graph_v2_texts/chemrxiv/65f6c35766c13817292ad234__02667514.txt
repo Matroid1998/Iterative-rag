@@ -1,0 +1,16 @@
+Description:
+Used as a group bonded to silica in reversed phase liquid chromatography columns.
+
+Text:
+PFAS are a diverse group of chemicals with perfluorocarbon 
+atoms13 and include a number of ionic compounds. For example, 
+PFAS of highest concern to date, such as perfluorooctane 
+sulfonate (PFOS) and carboxylate (PFOA) and many of their 
+industrial substitutes, are anionic. Capturing sorption and 
+partition properties for legacy, emerging, and premarket anionic 
+PFAS is a prerequisite for their environmental fate assessment14 
+but is not possible by using Kow for the reasons stated above. Recently, de Voogt et al.15,16 proposed isocratic reversed
+phase liquid chromatography (LC) retention (or capacity) factors 
+(k) measured with an octadecyl group bonded silica (C18) column 
+as a hydrophobicity indicator for fluorinated and nonfluorinated 
+anionic surfactants.

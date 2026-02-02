@@ -1,0 +1,27 @@
+Description:
+A significant greenhouse gas emitted from global oil and gas supply chains.
+
+Text:
+Methane emissions from sources in global oil and gas supply chains are estimated as 
+approximately 100 Tgyr, accounting for approximately 1520 of total global anthropogenic, 
+biogenic and geogenic emissions (Saunois et al., 2020). Large emission events, with estimated 
+emission rates 100 kgh, have been identified as a significant source of methane emissions 
+from the oil and gas sector. For example, Cusworth et al. (2022) made aerial observations across 
+multiple oil and gas production basins in the San Joaquin Valley, Uinta, DenverJulesburg, 
+Permian, and Marcellus production basins in the United States and estimated that point source 
+emissions 10 kgh accounted for 40 of regional methane fluxes. Stokes et al.
+
+
+---
+
+Description:
+A greenhouse gas emitted from oil and gas sector sources.
+
+Text:
+(2022) reported 
+on measurements from tank battery sites in the Permian Basin and concluded that 8090 of 
+emissions from the tank battery sites were accounted for by sites with emissions rates 10 kgh, 
+and 5065 of emissions were accounted for by sites with emissions in excess of 100 kghr. Rapidly identifying and mitigating these large emission events has the potential to significantly 
+reduce methane emissions from oil and gas sector sources, however, large emission events are 
+widely distributed in time and space, and efficiently identifying these events is a challenge for 
+many types of methane emission detection technologies.

@@ -1,0 +1,16 @@
+Description:
+Radicals with extremely long lifetimes suitable for applications in spectroscopy, particularly in structural biology.
+
+Text:
+Nitroxides (aminoxyl radicals) are a class of stable organic 
+radicals where the unpaired electron is stabilized by steric 
+shielding and delocalisation over the NO bond. 1 The extremely 
+long lifetimes of nitroxide radicals render them suitable for various 
+applications in spectroscopy, in particular for investigations in 
+structural biology. Nitroxides have gained a unique place within 
+electron paramagnetic resonance (EPR) spectroscopy as spin 
+labels that can reveal dynamic and structural information in 
+biomolecules. 2 Through a process known as sitedirected spin 
+labelling (SDSL), nitroxides can be covalently attached to the 
+biomolecule of interest, which is then analysed by EPR 
+spectroscopy.

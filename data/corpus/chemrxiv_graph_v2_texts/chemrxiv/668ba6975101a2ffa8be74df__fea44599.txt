@@ -1,0 +1,13 @@
+Description:
+A key element in liquid organic hydrogen carrier technology for transoceanic shipment.
+
+Text:
+Liquid organic hydrogen carrier technology is central to the transoceanic shipment of 
+hydrogen1,2. Discovering costeffective catalysts that selectively dehydrogenate the 
+hydrogen carriers while minimizing sidereactions is essential for the widespread 
+deployment of this technology. Currently, these catalysts are discovered using trial
+anderror methods that modify existing catalysts that were developed for other 
+dehydrogenation reactions like naphtha reforming and light alkane dehydrogenation3. First principles calculations and more recently, machine learning methods have 
+introduced accelerated paradigms for catalyst discovery4,5,6,7. It is inevitable that such 
+computational methods will be essential in discovering catalysts for dehydrogenating 
+hydrogen carriers that need to meet stringent stability and selectivity requirements.

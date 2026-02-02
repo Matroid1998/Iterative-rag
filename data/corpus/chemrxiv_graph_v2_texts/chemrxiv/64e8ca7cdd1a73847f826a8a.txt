@@ -1,0 +1,8 @@
+Description:
+A ring structure with electron delocalization and aromaticity.
+
+Text:
+When Kekul first pictured the ring structure of benzene,1 hardly anyone could have imagined 
+that electron delocalization and aromaticity may play a central role in an incredible variety of 
+inorganic rings and 3D clusters containing s, d and even fblock metal atoms.2 Very recently, 
+Boronski et al.

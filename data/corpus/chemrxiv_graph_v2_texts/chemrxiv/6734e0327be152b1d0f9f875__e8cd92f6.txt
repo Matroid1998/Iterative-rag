@@ -1,0 +1,16 @@
+Description:
+Relevant to thermal decomposition processes.
+
+Text:
+An example is the variational transitionstate theory treatment of reactions like fluorine
+atom loss or singletCF2 dissociation from nperfluoroalkyl radicals or the dissociation of
+the carbonsulfur bond in perfluorinated sulfonic acids, using bondstretching coordinates
+and singlereference density functional methods by Altarawneh and coworkers.7,8 While
+these reactions may be relevant to PFAS thermal decomposition, the series of carboncarbon
+bond scissions (and their reverse associations) within perfluoroalkyl chains indicated to be
+important by bond dissociation energies have not been studied thoroughly. Wardlaw and
+coworkers have carried out a theoretical study of 2 CF3 
+C2F6 using canonical flexible
+transition state theory,11 but more refined theoretical studies of this reaction and studies of
+the size dependence of perfluoroalkyl radical combinations have not been published to our
+knowledge.

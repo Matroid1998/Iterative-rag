@@ -1,0 +1,18 @@
+Description:
+A metal salt used in binary mixtures for deep eutectic electrolytes.
+
+Text:
+DEEs
+are typically binary mixtures consisting of a metal salt, like
+lithium bis(trifluoromethanesulfonyl)imide (LiTFSI), and an or
+ganic hydrogen bond donor, such as an amide1517. Synthesizing novel DEEs with desirable properties from a
+large number of potential components remains a challenging
+task, which demands a detailed understanding of the interac
+tions among different components at the molecular scale and
+the diffusion behavior of ionic species. Computer simulations
+are effective and valuable tools in this regard, providing insights
+into the nature of atomicscale interactions and ion transport
+mechanisms in liquid electrolytes. There are several molecular
+dynamics (MD) simulation studies of eutectic electrolytes, with
+the majority of them based on classical force fields (FFs)13,1820
+and manybody polarizable FF models2124.

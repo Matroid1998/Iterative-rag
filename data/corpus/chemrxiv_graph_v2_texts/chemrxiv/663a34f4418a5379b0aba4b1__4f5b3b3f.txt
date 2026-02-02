@@ -1,0 +1,26 @@
+Description:
+Interacts with dehydroxylated SiO2 involving ligand exchange with surface hydroxyl groups.
+
+Text:
+They found that the amount of hydrogen in amino (NHx) groups increased with the 
+number of reaction cycles on both alumina (Al2O3) and silica (SiO2) substrates, suggesting that 
+more NHx groups were formed on the Al2O3 and SiO2 surfaces as the reactions progressed. The 
+interaction of TMA with dehydroxylated SiO2 involved ligand exchange with surface hydroxyl (
+OH) groups and dissociation in siloxane (SiOSi) bridges, leading to surface saturation with 
+methyl (CH3) groups, followed by the replacement of these CH3 groups by NHx groups upon 
+reaction with NH3, indicating a stepwise transformation of the surface chemistry.
+
+
+---
+
+Description:
+Generates SiCH3 groups on silica upon reaction.
+
+Text:
+Additionally, 
+upon reacting with silica, TMA generated SiCH3 groups on the surface, and the subsequent 
+interaction with NH3, particularly at higher temperatures, led to the removal of over 90  of the 
+initial CH3 groups, which aligned with the proposed reaction pathway for this process. A recent modelling study of the surface reconstruction after the NH3 pulse in ALD of AlN, GaN 
+and InN,11 suggests that, at typical ALD temperatures and pressures, the AlN surface is 
+predominantly covered by NH2 species at thermal equilibrium. The surface chemistry of TMA 
+httpsdoi.org10.26434chemrxiv2024z0bgc ORCID httpsorcid.org0000000271715383 Content not peerreviewed by ChemRxiv. License CC BY 4.0

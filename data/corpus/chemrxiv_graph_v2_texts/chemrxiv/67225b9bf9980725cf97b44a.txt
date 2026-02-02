@@ -1,0 +1,9 @@
+Description:
+Contains polynuclear clusters as inorganic nodes.
+
+Text:
+Metalorganic frameworks (MOFs) are a class of crystalline materials built from inorganic nodes and rigid 
+multitopic organic linkers using reticular chemistry.1,2 The combination of the structural rigidity and 
+directional coordination of the inorganic nodes, which can be either metal ions (e.g. in ZIF8) or 
+polynuclear clusters (e.g. in UiO66 or MOF5), with the rigid linkers determining the possible architectures 
+of the resulting MOF.

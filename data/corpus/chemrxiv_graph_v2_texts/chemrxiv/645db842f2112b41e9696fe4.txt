@@ -1,0 +1,14 @@
+Description:
+Used in Tip-enhanced Raman spectroscopy (TERS) for probing small molecules with single molecule resolution.
+
+Text:
+Raman scattering is inherently 
+weak due to the low probability of the Raman process (6, 7), but adsorbing analytes on the surface 
+of certain metal nanoparticles can increase the Raman signal by a factor of 1021014 through 
+surfaceenhanced Raman scattering (SERS) caused by the excitation of localized surface plasmon 
+resonances of nanoparticle coinage metal resonators (8  11). SERS can detect analytes at very 
+low concentrations, which makes it very useful in the study of complex molecules like proteins by 
+reducing the requirement for sample concentrations (6, 12, 13). When integrated with scanning 
+probe microscopy (SPM), SERS is modified into Tipenhanced Raman spectroscopy (TERS), 
+capable of probing the configuration of small molecules on gold or silver nanotips, with single
+molecule resolution (1, 14).

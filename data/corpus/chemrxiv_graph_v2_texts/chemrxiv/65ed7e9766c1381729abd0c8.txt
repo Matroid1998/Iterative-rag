@@ -1,0 +1,9 @@
+Description:
+An archetype DA TADF emitter with a very small DEST of 0.046 eV.
+
+Text:
+An archetype DA TADF emitter is DMACTRZ, first reported by Tsai et al.3 This compound has a 
+very small DEST of 0.046 eV in 8 wt doped films in mCPCN resulting from the near orthogonal 
+conformation between the dimethylacridine (DMAC) donor and the triazine (TRZ) acceptor. In this 
+host, DMACTRZ has a skyblue emission with peak photoluminescence wavelength (lPL) of 495 
+httpsdoi.org10.26434chemrxiv2024htwbt ORCID httpsorcid.org0000000171836022 Content not peerreviewed by ChemRxiv. License CC BY 4.0

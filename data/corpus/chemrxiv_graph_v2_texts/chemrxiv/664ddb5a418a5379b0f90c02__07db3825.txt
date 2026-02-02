@@ -1,0 +1,17 @@
+Description:
+React with isoquinolines for meta-CH alkylation, limited to primary alkyl groups.
+
+Text:
+As a result, most of the isoquinoline natural products con
+taining metaalkyl substitution were synthesized from their al
+kyl substituted acyclic precursors.6 
+In a more direct approach, Minter and Re in 1988 showed a 
+onepot multistep operation for effective metaCH alkylation 
+of isoquinolines with aldehydes (Figure 1A).7a This strategy is 
+based on reductive hydroboration, followed by electrophilic 
+functionalization of the resulting enamine, and finally, dehydra
+tiontautomerization for the overall metaalkylation. The reac
+tion was shown to work only with aldehydes, limiting it to the 
+installation of primary alkyl groups. In 2022, the Wang group developed an improved Lewis acid 
+catalyzed reductive hydroboration to enamine and its electro
+philic functionalization at metaCH.

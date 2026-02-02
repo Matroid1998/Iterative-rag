@@ -1,0 +1,24 @@
+Description:
+A semiconductor that can be directly integrated with wurtzite-type ferroelectrics.
+
+Text:
+in 2019,4 wurtzitetype ferro
+electrics have drawn rapid interest from academia
+and industry due to their high spontaneous polar
+ization (e.g., 100 Ccm2 for nitrides5) and the
+potential for direct integration with existing semi
+conductors such as Si, GaN, SiC, etc.3, 6 One
+major challenge for all currently known wurtzite
+type
+ferroelectrics
+(Al1xScxN,4
+Ga1xScxN,7
+Al1xBxN,8 Al1xYxN,9 and Zn1xMgxO10 al
+loys) is that the coercive field, Ec, required to switch
+the polarization is several MVcm, which is dan
+gerously close to the maximum breakdown fields of
+these same materials and is roughly one to two orders
+of magnitude larger than more common perovskite
+ferroelectrics.4, 11
+To address this challenge and reduce Ec, there are
+generally two approaches.

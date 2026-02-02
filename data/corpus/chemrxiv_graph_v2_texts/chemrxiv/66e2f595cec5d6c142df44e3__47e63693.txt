@@ -1,0 +1,20 @@
+Description:
+A nanocatalyst with coordinatively unsaturated metal cations used as a reactivity descriptor for transition metal oxide catalysts towards OER.
+
+Text:
+In a recent study, considering Co3O4, Fe2O3, MnO2
+and TiO2
+nanocatalysts,
+coordinatively unsaturated
+metal cations were found to be a good reactivity
+descriptor for transition metal oxide (TMO) cataysts
+towards OER.11 This was attributed to the fact that the
+surface reactivity was found to increase monotonically
+with their density. In the model suggested by the
+authors, the energy of the highest occupied dstates
+relative to the Fermi level could be used to describe
+the intermediatesurface bonding strength. This has
+triggered numerous studies devoted to extend the model
+to other TMO and adsorbate molecules and therefore
+elucidate the relationship between the electronic struc
+ture of metal cation active regions and the reactivity.

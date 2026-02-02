@@ -1,0 +1,21 @@
+Description:
+Ligands with a C atom as the bridging centre between P and N donors.
+
+Text:
+Hybrid ligands that feature different 
+donor sites can take advantage of specific binding 
+preferences to give control of coordination chemistry, 
+and allow for these cooperative effects such as 
+hemilability, 
+proton 
+shuttling, 
+and 
+substrate 
+recognition and activation (Figure 1A).1 1,3P,N 
+ligands are a widely studied class of compounds that 
+can bind selectively through the hard Natom, the 
+soft Patom, or both, and can bind to one or multiple 
+metal centres.26 This ligand class is typified by 2
+pyridylphosphines and iminophosphines, both of 
+which have a C atom as the bridging centre between 
+the P and the N donors (Figure 1B).2

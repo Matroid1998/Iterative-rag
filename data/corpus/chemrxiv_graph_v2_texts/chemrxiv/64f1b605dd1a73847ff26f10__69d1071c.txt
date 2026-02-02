@@ -1,0 +1,24 @@
+Description:
+A transition metal oxide cathode material with a specific capacity of 140 mAh g-1.
+
+Text:
+Electrical energy storage devices have proven to be key in the 
+transition from conventional fossil fuels because they can 
+efficiently store the electricity generated from renewable 
+sources, helping to mitigate climate change. Lithiumion 
+batteries (LIBs) are among the most promising electrochemical 
+energy storage devices due to their superior performance 
+compared to other conventional rechargeable batteries, 
+widespread use in portable electronics, and potential for the 
+development of longrange electric vehicles.1,2 However, 
+current 
+stateoftheart 
+of 
+LIBs 
+presents 
+significant 
+development bottlenecks in terms of efficiency and raw 
+materials availability. For instance, transition metal oxide 
+cathode materials have energy density limitations that are 
+constrained by their specific capacities (e.g., 140 mAh g1 for 
+LiCoO2).

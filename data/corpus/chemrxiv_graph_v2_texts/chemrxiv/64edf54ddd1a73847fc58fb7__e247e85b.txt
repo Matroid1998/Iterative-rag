@@ -1,0 +1,14 @@
+Description:
+A lipid class that benefits from 13CTrimethylation enhancement using diazomethane.
+
+Text:
+MGF files 
+produced from datadependent acquisition methods on highresolution LCMS platforms may then 
+be searched in a highthroughput and automated data analysis pipeline that is independent of the 
+vendor platforms used to acquire the data. For the construction of these libraries, commercial 
+standards were purchased and subjected to repeated analysis using various LCMS platforms to 
+establish classbased fragmentation patterns. Thus, a significant investment in commercial 
+standards is required for such projects. 13CTrimethylation enhancement using diazomethane (13CTrEnDi) is a derivatization 
+technique created and shown to enhance the sensitivity of lipid analytes by the creation of a 
+permanent positive charge7,8. The primary lipid classes that benefit from 13CTrEnDi are those in 
+the phosphatidylcholine (PC) and phosphatidylethanolamine (PE) lipid classes.

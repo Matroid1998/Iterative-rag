@@ -1,0 +1,15 @@
+Description:
+Involved in electrochemical energy conversion technologies, including reduction processes.
+
+Text:
+Electrocatalysis stands as the cornerstone discipline to deliver breakthroughs in electrochemical 
+energy conversion technologies, including fuel cells as well as carbon dioxide reduction, nitrate 
+reduction and water splitting electrolysers.5 Nevertheless, crucial electrocatalytic reactions 
+grapple with sluggish kinetics and inadequate selectivity. A fundamental understanding of 
+reaction mechanisms and factors that limit activity and selectivity towards targeted products is 
+imperative in order to prompt progress in electrocatalyst design and development.5 However, 
+these endeavors are complicated and hindered by the intricate multistep mechanisms and 
+concurrent interrelated factors arising on multiple scales. Figure 1 depicts four essential 
+components of a comprehensive understanding of electrocatalytic reactions 
+ Multistep thermodynamics. The thermodynamics of an elementary step are determined 
+by binding energies of adsorbed intermediates involved in this step.

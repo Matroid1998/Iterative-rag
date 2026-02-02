@@ -1,0 +1,13 @@
+Description:
+Lacks a band gap due to fully delocalized pi electrons.
+
+Text:
+As a binarybased material, hBN exhibits properties such as a large band 
+gap (5.9eV),1719 high oxidative resistance,20 and inertness towards most chemicals.1,21 The 
+differences in the polarity of B and N hinder the delocalization of the pi electrons, thus preventing 
+conjugation.17,22 This is unlike graphene, whose lack of a band gap results from fully delocalized 
+pi electrons. Despite the lack of conjugation, the basal plane of hBN sheets is hydrophobic23,24 as 
+the nitrogen and boron atoms are less polar due to sp2 hybridization.4,17,25 However, like graphite, 
+the hBN stacked sheets must be exfoliated and dispersed for many of the extraordinary properties 
+to be utilized in nanocomposites.26,27 
+httpsdoi.org10.26434chemrxiv2024lhg07 ORCID httpsorcid.org0009000754141609 Content not peerreviewed by ChemRxiv. License CC BY 4.0

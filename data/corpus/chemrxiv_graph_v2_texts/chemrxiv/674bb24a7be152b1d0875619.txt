@@ -1,0 +1,11 @@
+Description:
+Involved in the oxygen reduction reaction pathway for photocatalytic hydrogen peroxide production.
+
+Text:
+Hydrogen peroxide (H2O2) has been widely used as a clean oxidant in industrial processes, such 
+as organic synthesis,1 disinfection,2 water treatment,3 etc. Photocatalysis provides a green 
+way for H2O2 production in contrast to the industrially applied anthraquinone process,4 since 
+the latter is an energy intensive process that requires large amounts of organic solvents, making 
+it environmentally unfriendly. The primary pathways of photocatalytic H2O2 production include 
+the oxygen reduction reaction (ORR) and the water oxidation reaction (WOR). The 
+photoinduced WOR pathway for H2O2 generation is a twohole pathway (eq 1).

@@ -1,0 +1,17 @@
+Description:
+Exhibits branching in 3MLCT decay upon 400 nm excitation, with components of 110 fs and 9 ps.
+
+Text:
+More recently, utilis
+ing fsresolved Xray emission spectroscopy (XES) Kunnus et al.19
+identified that upon 400 nm excitation, the 3MLCT decay ex
+hibits branching with a 110 fs 3MLCT 3MC component (40)
+and a 9 ps one (60), the latter being identical to the 3MLCT
+lifetime determined by TOAS; we note that a similar branching
+was observed for a COOHderivative of Fe(bmip)22 by vibra
+tional coherence spectroscopy20. Furthermore, coherent oscilla
+tions with a 278 fs period were identified in the timeresolved XES
+and Xray solution scattering (XSS) signals, assigned to breathing
+wavepacket motion in the 3MC state; such oscillations are also ap
+parent in the TOAS data but were not analysed and in most cases
+were not observed by XES.

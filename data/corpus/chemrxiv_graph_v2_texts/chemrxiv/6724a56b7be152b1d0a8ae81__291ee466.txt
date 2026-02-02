@@ -1,0 +1,12 @@
+Description:
+Formulations used in photopolymerizable inks and hydrogels crosslinked via radical polymerization.
+
+Text:
+Digital light processing (DLP) of photopolymerizable inks and hydrogels typically uses 
+(meth)acrylated formulations crosslinked via the chaingrowth process of photoinitiated radical 
+polymerization (Figure 1A). A limitation of radical polymerization for DLP printing is its oxygen 
+sensitivity.1, 2 To counteract oxygen inhibition, higher photoinitiator concentrations and higher 
+light doses are typically applied, which can lead to phototoxicity in bioprinting contexts.1 
+Photopolymerizable precursors based on radical thiolene photopolymerization are interesting 
+alternatives to radical (meth)acrylate polymers. The radical thiolene reaction involves the addition 
+of a thiyl radical to a vinyl group to form a thioether (Figure 1B).

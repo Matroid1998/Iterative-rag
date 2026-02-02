@@ -1,0 +1,12 @@
+Description:
+Clusters that localize LUMO orbitals involved in the photocatalytic activity of MIL125(Ti).
+
+Text:
+The photocatalytic 
+activity of the MIL125(Ti) is due to a photoinduced electron transfer from the HOMO orbitals of the 
+ligand into the LUMO orbitals localized on the Titaniumoxo clusters. The incorporation of amino (
+NH2) group in some of the ligand is shifting the absorption wavelength of the MOF to the visible 
+spectral range and favour the stabilisation of the electronhole pair, as it has been shown by transient 
+UVvis and MidIR femtosecond spectroscopy18,19. For MIL125 derivatives, and MOFs in general, 
+understanding the crucial influence on the ligand substituent on the photocatalytic activity18,2024 is of 
+great importance to optimize the applications.

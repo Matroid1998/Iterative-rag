@@ -1,0 +1,32 @@
+Description:
+Can perform oxygen evolution reaction (OER) in strongly acidic electrolytes at low current densities.
+
+Text:
+showed that Co3O4 can perform OER over several days in 
+strongly acidic electrolytes, albeit at low current densities, using 
+a threeelectrode cell.3 In terms of practical applicability, 
+MnO2 was used to operate a PEM setup for 400 h at 
+10 mA cm2.4 When 100 mA cm2 was applied, the system shut 
+down after 8 h, which was attributed to extensive Mn leaching 
+and calls for the need to stabilize the noble metalfree OER 
+catalyst further. One strategy to achieve higher stabilization is the expansion to 
+multinary compositions.
+
+
+---
+
+Description:
+A spinel lattice that can incorporate Mn to extend catalyst lifetime during acidic OER.
+
+Text:
+This method forms thermodynamically 
+more stable alloys or bonds by adding elements that can alter 
+electronic structures and act as stabilizing additives.5 The 
+incorporation of Mn into the spinel lattice of Co3O4 can extend 
+the catalyst lifetime by two orders of magnitude without 
+compromising any activity during acidic OER. This effect was 
+attributed to the formation of a stable MnO bond, suppressing 
+dissolution.6 Chong et al. even demonstrated a La and Mn
+doped cobalt spinel OER catalyst that was able to operate at 
+current densities of 200 mA cm2 within a PEM setup for 100 h.7 
+httpsdoi.org10.26434chemrxiv20230509z ORCID httpsorcid.org0000000189797252 Content not peerreviewed by ChemRxiv. License CC BY 4.0

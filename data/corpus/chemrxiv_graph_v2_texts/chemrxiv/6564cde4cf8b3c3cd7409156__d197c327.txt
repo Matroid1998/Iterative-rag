@@ -1,0 +1,42 @@
+Description:
+Proposed as a medium for energy storage to directly power fuel cells.
+
+Text:
+The increasing demand for energy carriers from sustainable sources drives the search for fossil fuelfree alterna
+tives. Ammonia is a carbonfree energy carrier for molecular hydrogen and has significant practical benefits such 
+as liquefaction under mild conditions and high volumetric energy density.1 NH3 has also been proposed as a medium 
+for energy storage to directly power fuel cells.2,3 
+Realizing NH3 as a carbonfree alternative fuel requires the development of efficient catalytic conversion strategies 
+between ammonia and molecular hydrogen in both directions. With a potential of 0.092 V (vs. NHE, pH0) for 
+ammonia oxidation (AO) in water, it is relatively mild in comparison to water oxidation. One of the main challenges is the optimization of the selectivity and reduction of the required overpotential.
+
+
+---
+
+Description:
+A carbon-free alternative fuel requiring efficient catalytic conversion strategies with molecular hydrogen.
+
+Text:
+The increasing demand for energy carriers from sustainable sources drives the search for fossil fuelfree alterna
+tives. Ammonia is a carbonfree energy carrier for molecular hydrogen and has significant practical benefits such 
+as liquefaction under mild conditions and high volumetric energy density.1 NH3 has also been proposed as a medium 
+for energy storage to directly power fuel cells.2,3 
+Realizing NH3 as a carbonfree alternative fuel requires the development of efficient catalytic conversion strategies 
+between ammonia and molecular hydrogen in both directions. With a potential of 0.092 V (vs. NHE, pH0) for 
+ammonia oxidation (AO) in water, it is relatively mild in comparison to water oxidation. One of the main challenges is the optimization of the selectivity and reduction of the required overpotential.
+
+
+---
+
+Description:
+Subject of molecular oxidation catalysts development.
+
+Text:
+While 
+the reduction of N2 to NH3 has been studied extensively, the development of molecular ammonia oxidation catalysts 
+has only recently started gaining attention.4,5 Several molecular electrocatalysts have been developed to convert 
+ammonia to dinitrogen and hydrogen, the reverse of the HaberBosch process. In particular, rutheniumbased mo
+lecular catalysts were investigated by several groups, including the ones of Llobet and Bullock.68 Very recently, 
+the application of nonnoble metalbased catalysts, such as iron, nickel and copper, has been explored, opening the 
+possibilities for catalysis with more sustainable systems.915 Along with the discovery of nonnoble metal based 
+catalysts for AO, the replacement of organic solvents with water was investigated.

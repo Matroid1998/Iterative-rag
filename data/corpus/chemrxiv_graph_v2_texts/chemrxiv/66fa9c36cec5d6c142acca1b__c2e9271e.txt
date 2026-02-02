@@ -1,0 +1,27 @@
+Description:
+A less valuable product of overhydrogenation that inhibits polymerization of ethylene.
+
+Text:
+Nearly 200 million tons 
+are produced annually, the most of any organic compound, with ethylene being an intermediate in 
+5060 of all plastics.1 The vast majority of ethylene is derived from the steam cracking of 
+petroleum, a process which unavoidably introduces impurities into the crude ethylene stream.1b,2 
+From the standpoint of plastics production, the most pernicious of these contaminants is acetylene, 
+which poisons the ZieglerNatta catalysts that polymerize ethylene into plastics.1b,2b,3 Typically, 
+crude ethylene streams contain 0.52 acetylene by volume; prior to plastics production, removal 
+of the acetylene impurity is imperative.1b,3 
+The current industrial standard for thermocatalytic acetylene semihydrogenation has 
+weaknesses in that it uses high temperatures and pressures, H2 cofeed, and precious metal Pd 
+catalysts.4 This reaction is additionally prone to overhydrogenation to ethane, a less valuable 
+product that also inhibits polymerization of ethylene, and therefore must be removed using 
+cryogenic sublimation prior to plastics production.5 The use of Pd and excess H2 as cofeed limits 
+the ethylene selectivity of the thermocatalytic process to 85 with 90 conversion at 200 C.2b,3 
+Recently, physisorptionbased acetylene purification6 or electro7 and photocatalytic routes 
+have been pursued, by our research groups and others, to avoid the drawbacks of the 
+thermochemical routes.3 We sought to improve upon selectivity and conversion by designing 
+photocatalytic systems based on Coporphyrin catalysts, and succeeded in creating both a 
+homogenous system based on mesotetra(4sulfonatophenyl)porphyrinatocobalt(III)8 and a 
+heterogeneous system based on the metalorganic framework (MOF) CoPCN222 (with meso
+tetra(4carboxyphenyl)porphyrinatocobalt(III) linkers).9 Notably, both achieved nearly 100 
+conversion with 99 selectivity for ethylene over ethane under industrially relevant conditions 
+httpsdoi.org10.26434chemrxiv2024rpl60v2 ORCID httpsorcid.org0000000283467110 Content not peerreviewed by ChemRxiv.

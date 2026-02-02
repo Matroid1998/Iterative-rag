@@ -1,0 +1,12 @@
+Description:
+Can desorb from oxidized surface sites on graphite, resulting in no net reaction.
+
+Text:
+We recently reported studies of O2 etching of individual carbon nanoparticles (NPs) in the 
+temperature (TNP) range from 1200 to 2400 K, with several unexpected results.1, 2 O2 reaction 
+with graphite in this temperature range proceeds by O2 dissociative adsorption at under
+coordinated carbon sites (C), at exposed basal plane edges and defects,39 creating oxidized 
+surface sites (C(O)) that can decay by desorption of oxygen, resulting in no net reaction, or by 
+COCO2 desorption, etching the surface.10 The mechanisms are not as well established for other 
+forms of carbon, but almost certainly involve O2 dissociative adsorption at undercoordinated 
+sites, followed by desorption of oxygen or COx.

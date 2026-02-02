@@ -1,0 +1,15 @@
+Description:
+A compound whose reduction reaction is catalyzed by transition metal-based catalysts for conversion into desirable products.
+
+Text:
+Electrochemical reduction of carbon dioxide (CO2) represents a promising approach to advancing 
+carbon neutrality in a sustainable manner.1 However, scaling up electrochemical CO2 reduction 
+reaction (CO2RR) for practical applications hinges on the development of efficient catalysts.2 In this 
+area, transition metalbased catalysts have garnered significant interest due to their tuneable 
+electrochemical properties, which align with the reduction potentials required for converting CO2 into 
+desirable products.3 Initially, transition metal complexes gained significant attention due to their 
+tuneable electronic structures.4 However, recent advancements have shown that transition metal 
+nanoparticles exhibit superior catalytic activity, primarily due to their unique intrinsic surface 
+properties.5 Interestingly, further research has revealed that the structural architecture of these 
+catalysts plays a crucial role in determining their efficacy however controlling such architectures in 
+transition metalbased nanoparticles is challenging.

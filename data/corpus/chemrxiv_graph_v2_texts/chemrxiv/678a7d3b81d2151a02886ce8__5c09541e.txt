@@ -1,0 +1,25 @@
+Description:
+A small molecule detectable by sensors due to its interaction with maingroup elements.
+
+Text:
+The use of maingroup elements in sensing 
+applications has expanded greatly in recent years. The Lewis acidic character of many maingroup 
+elements has allowed for the development of sensors 
+for an array of substrates, including halide ions,1 and 
+small molecules such as nitrous oxide and carbon 
+monoxide.2 Another key class of substrates for such 
+sensors are metal ions. The sensing of metal ions 
+used in biological processes, such as iron and copper, 
+is vital for medical contexts whereby either an excess 
+or deficiency can cause health issues.3 The ability to 
+sense metal ions not directly involved in biological 
+processes, 
+such 
+as 
+aluminium, 
+also 
+retains 
+importance due to their toxicity at even low 
+concentrations.4 Therefore, sensors that can detect 
+these metals quickly and selectively is of widespread 
+interest.

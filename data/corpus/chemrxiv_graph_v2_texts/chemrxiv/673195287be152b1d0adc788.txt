@@ -1,0 +1,13 @@
+Description:
+Generated from water splitting and considered green when derived from renewable sources.
+
+Text:
+One of the most studied intrinsically endergonic reactions is water dissociation into H2 and O2. This 
+reaction does not occur spontaneously under the standard conditions, G298 of the reaction 
+2H2O  2H2  O2 is 113 kcal mol1. However, the reaction proceeds when energy is supplied by 
+photons or electromotive force. When this energy in the form of electricity for electrolysis or light for 
+photocatalysis is derived from renewable sources, the generated H2 is considered green. While the by
+product of water splitting, O2, is less valuable, electrocatalytic or photocatalytic water splitting can 
+afford oxygen of high purity to complement the existing air separation technology. An alternative 
+approach considers generation of H2 from hydrogenrich organic compounds, coupled with their 
+conversion into valueadded products.

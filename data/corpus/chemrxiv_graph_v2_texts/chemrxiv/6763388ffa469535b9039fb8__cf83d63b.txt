@@ -1,0 +1,39 @@
+Description:
+Electrodes with optical and (spectro)electrochemical properties.
+
+Text:
+A potent strategy for detecting such small absorption changes 
+is the application of a periodically modulating potential and 
+tuning a lockin amplifier onto the frequency of the modulation. With such potentialmodulated absorption spectroscopy 
+(EMAS), even weak signals can be distinguished from a 
+prominent background. In this work, we apply HIn2O3 (IHO) silica glass substrates as 
+working electrodes (WE) for reductive and oxidative EMAS 
+measurements of four different PbS QD samples with excitonic 
+transitions between 1474 nm and 1729 nm. We demonstrate 
+successful hole and electron injection and find evidence for 
+shallow ingap density of states. Results 
+Optical and (spectro)electrochemical properties of the IHO 
+electrodes 
+In Figure 1a, we compare the optical transmittance of IHOfilms 
+on glass used here as working electrodes to commercially 
+available FTO substrates.
+
+
+---
+
+Description:
+Substrates with superior transmittance above 1000 nm, particularly above 1500 nm.
+
+Text:
+It is apparent that the IHO substrates 
+are superior to FTO for all wavelengths above 1000 nm, 
+particularly above 1500 nm. At 2000 nm, the IHO transmittance 
+is still  80 , while the FTO transmittance has decreased to 5 . In the visible range of the spectrum, we observe fluctuations in 
+the transmittance of the IHO substrates, which we attribute to 
+interference effects. This is supported by the finding that the 
+frequency of the fluctuations increases with the IHOfilm 
+thickness. While such fluctuations can be problematic for 
+techniques that measure A spectra (such as EMAS), the 
+thickness dependence may be used to finetune the fluctuations 
+into less important spectral regions (for details see 
+Figures S1S2). a.

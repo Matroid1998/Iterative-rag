@@ -1,0 +1,13 @@
+Description:
+Lighter element used as a support for catalyst particles.
+
+Text:
+Smallangle Xray scattering (SAXS) is a useful method for characterizing the structure 
+of catalyst particles for fuel cells and other applications 12. In these applications, the 
+nanometersized catalyst particles, typically made of platinum (hereafter Pt), are 
+supported on larger particles made of lighter elements, typically carbon 37. Determining the particlesize distribution of the catalysts is important, because it allows 
+for the estimation of the catalytic surface area, which is directly related to the catalytic 
+activity of the whole system. The growth of catalyst particles during fuel cell operation is 
+a major source of catalyst degradation. Particle sizes can be determined by several techniques, including SAXS, widerangle 
+Xray diffraction (XRD), Xray absorption fine structure (XAFS) and transmission 
+electron microscopy (TEM) 89.

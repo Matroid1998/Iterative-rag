@@ -1,0 +1,13 @@
+Description:
+A homoleptic amide precursor used for AlN in thermal and plasma ALD.
+
+Text:
+The 
+homoleptic 
+amide 
+precursor 
+tris(dimethylamido)aluminum(III) (Al(NMe2)3, TDMAA), is therefore an interesting alternative, 
+but it is less explored for ALD.7 TDMAA has been used for AlN in thermal8 and in plasma ALD9 
+with NH3 as a coreactant but neither theoretical nor experimental surface reaction studies for ALD 
+of AlN from TDMAA have been reported to date. The dimethylamido ligand has been extensively used for ALD of titanium nitride (TiN) in the 
+tetrakis(dimethylamido)titanium(IV) (Ti(NMe2)4, TDMAT) precursor.

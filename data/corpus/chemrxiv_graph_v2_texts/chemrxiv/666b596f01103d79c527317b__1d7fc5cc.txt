@@ -1,0 +1,24 @@
+Description:
+A compound that undergoes reduction in the presence of catalysts or thermal activation.
+
+Text:
+However, since Kempfs initial observations in 1905 of 
+
+S2O82  C2O42  2 SO42  2 CO2 G0  490 kJmol (1) 
+
+aqueous solutions containing S2O82 and C2O42, several reports have demonstrated that the 
+reaction, despite being thermodynamically very favored, is extremely slow in the absence of a 
+catalyst or thermal activation.13 Reports of Ag catalyzed reduction of S2O82 in the presence of 
+reducing agents (e.g., Cr3, VO2, Mn2, Ce3, hydrazine, or ammonia) indicated that a strong 
+oxidant is formed during S2O82 reduction.49 In addition, Ag catalyzed S2O82 reduction in the 
+presence of C2O42 was reported to result in the complete oxidation of C2O42 at rates 23 orders 
+of magnitude higher than systems containing the previously mentioned reducing agents.2, 3, 9 As 
+first proposed by Allen, these findings suggest that Ag catalyzed S2O82 reduction in the presence 
+of C2O42 initiates an autocatalytic reaction generating the strong transient oxidant, SO4 (E0(SO4
+SO42)  2.24 V vs AgAgCl), which is capable of oxidizing C2O42 (eq 2) to produce CO2 
+(E0(CO2CO2)  2.17 V vs AgAgCl), a strong reductant capable of reducing S2O82 (eq 3).3, 10
+13 
+
+ C2O42  SO4  CO2  CO2  SO42 G0  170 kJmol (2) 
+ S2O82  CO2  SO4  SO42  CO2 G0  320 kJmol (3) 
+httpsdoi.org10.26434chemrxiv20243149cv2 ORCID httpsorcid.org0009000198823173 Content not peerreviewed by ChemRxiv.

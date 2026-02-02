@@ -1,0 +1,21 @@
+Description:
+Used in ternary pnictides Zintl phases characterized by complex crystal structures and semiconducting behavior.
+
+Text:
+610 
+However, the role of the primitive unit cell volume is more clearly defined, as it dictates the 
+number of phonon states within the first Brillouin zone, thus, providing short mean path lengths 
+for the heat carrying phonons.415 
+Due to their peculiar structural chemistry that can result from the combination of ionic and 
+covalent bonding, Zintl phases have emerged as promising candidates for superior TE 
+properties.1215 Particularly, the ternary pnictide Zintl phases as they usually exhibit intrinsic 
+semiconducting properties with narrow energy band gap, and they feature complex polyanions 
+and large channels or cages as their most common structural motives.1227 The rigid anionic 
+networks of covalent bounded atoms are suitable for the electron crystal part whereas the 
+cationic substructure that consists of encapsulated rattling atoms is adequate for phononglass 
+behavior, thereby complying with Slacks model of phononglass electron crystal (PGEC) 
+materials.1428 
+Consequently, high TE efficiencies were identified in ternary pnictides Zintl phases with 
+heaviest alkalineearth metals (A Ca, Sr, Ba), or Eu and Yb.1528 This large family of materials 
+are characterized by enhanced complexity of their crystal structures and semiconducting 
+behaviors.

@@ -1,0 +1,17 @@
+Description:
+The lightest element, playing a significant role in enzymatic reactions involving proton transfer, hydrogen atom transfer, and hydride transfer processes.
+
+Text:
+This 
+neglect is particularly problematic in systems where hydrogen, the lightest element, 
+plays a significant role, as seen in many enzymatic reactions involving proton 
+transfer, hydrogen atom transfer, andor hydride transfer processes.2933 
+To address this challenge, several theories have been developed to 
+conduct QMMM calculations with nuclear quantum effects included. One such 
+successful approach is pathintegralbased methods, which represent quantum 
+systems using ensembles of replicas connected by harmonic springs.3440 Path
+integralbased QMMM methods have been successfully applied to study proton 
+transfer,41 hydride transfer,42 and RNA cleavage reactions.43 Although a major 
+limitation of pathintegral based methods is the high computational cost, especially 
+if ab initio potential energy surfaces for the QM part are to be used, recent 
+httpsdoi.org10.26434chemrxiv2024gk1wsv2 ORCID httpsorcid.org0000000185725155 Content not peerreviewed by ChemRxiv. License CC BY 4.0

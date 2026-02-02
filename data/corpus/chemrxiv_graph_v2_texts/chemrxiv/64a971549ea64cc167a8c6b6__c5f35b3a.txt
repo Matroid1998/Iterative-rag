@@ -1,0 +1,11 @@
+Description:
+Used as attachment sites for COVID with lower selectivity than antibody-based systems.
+
+Text:
+the human bronchial and alveolar epithelia interact with and are colonised by different influenza viruses.7 
+Biosensing or diagnostics using glycan sequences as targets is limited by glycan crossreactivities, for 
+example using sialic acids or heparan sulfates as attachment sites for COVID, which have lower selectivity 
+than antibodybased systems.8, 9 This raises the challenge as to how one can develop small molecule probes 
+for diagnostics or therapeutics that can distinguish between the interactions of different proteins with the 
+same glycan. The contributions of individual noncovalent interactions of proteins are routinely studied using site
+directed mutagenesis.

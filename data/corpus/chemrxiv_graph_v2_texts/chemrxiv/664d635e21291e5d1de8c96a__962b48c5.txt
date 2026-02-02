@@ -1,0 +1,13 @@
+Description:
+Used in fabricating macro or nano structures for applications like energy conversion, storage, nanoelectronics, chemical sensors, and solar cells.
+
+Text:
+Fabricating silicon macro or nano structures is essential for many applications, such as 
+energy conversion and storage1,2, nanoelectronics3, chemical sensors4, and solar cells5. The 
+advance of the method enables the structured silicon to show better performance and exhibit 
+new properties. Thus, many researchers have developed methods for the facile production of 
+silicon micro or nano structures. In recent years, catalystassisted chemical etching has been widely studied as one of the 
+silicon microfabrication methods. Especially, noble metal nanoparticles have been utilized as 
+the catalyst materials, which promote the reduction of the oxidant and inject holes into the 
+silicon in a solution consisting of hydrofluoric acid and an oxidant. Therefore, the silicon under 
+the noble metal is preferentially oxidized and dissolved.

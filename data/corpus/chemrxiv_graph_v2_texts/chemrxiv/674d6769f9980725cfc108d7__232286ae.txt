@@ -1,0 +1,30 @@
+Description:
+A sterically hindered unsaturated coupling partner used in dynamic kinetic asymmetric transformation.
+
+Text:
+Driven by the pharmaceutical industrys endeavor to escape from flatland, increasing efforts have 
+been devoted to construction of 3D molecules with strategic installation of chiral elements.1 
+Axially chiral molecules are among this regime, and there has been increasing demand for 
+enantioselective access to atropoisomers with diverse scaffolds.2 Three synthetic strategies have 
+been adopted to this end.2e Dynamic kinetic asymmetric transformation (DYKAT) represents a 
+prevalent strategy.3 Starting from either an atropomerically labile or stable aromatic reagent, 
+axially chiral products have been derived via DYKAT of a CH4 or a Chalo bond,5 respectively. Alternatively, Tanaka,6 TanLiu,7 our group,8 and others9 have realized DYKAT of a sterically 
+hindered unsaturated coupling partner such as an alkyne or a carbene reagent.
+
+
+---
+
+Description:
+A component in three-component Suzuki reactions with aryl halide and aryl boronic acid to form axially chiral olefins.
+
+Text:
+In prior studies, a sterically hindered but reactive aryl halide has been typically employed toward 
+de novo construction of axially chiral biaryls (Scheme 1a). Early studies took advantage of the 
+Suzuki reactions for atroposelective synthesis of CC biaryls.5a,10 The Song group11 further 
+developed threecomponent Suzuki reactions between aryl halide, alkyne, and aryl boronic acid, 
+affording axially chiral olefins. The same group also extended the reaction pattern to CB axially 
+chiral products via a Miyaura reaction.12 By retorting to amidetethered isocyanide as a reactive 
+coupling reagent, the Zhu group13 realized Pdcatalyzed atroposelective synthesis of 
+diarylquinazolinone via CC coupling. The Taguchi14 group and our group15 addressed 
+atroposelective synthesis of CN biaryls via BuchwaldHartwig coupling of two sterically hindered 
+substrates.

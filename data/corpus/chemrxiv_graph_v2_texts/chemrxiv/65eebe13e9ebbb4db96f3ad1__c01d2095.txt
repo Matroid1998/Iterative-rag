@@ -1,0 +1,12 @@
+Description:
+A conductive support material with high conductivity but prone to high antimony dissolution.
+
+Text:
+However, the low dissolution 
+stability of the alloying elements is a concern considering both catalyst durability and membrane poisoning.17 Using support materials for 
+iridium catalysts instead can introduce a high dispersion of the iridium phase, thus increasing the amount of reaction sites. However, the 
+electrical connection of the iridium sites must be ensured to render them active for the OER. To achieve this, several conductive supports 
+have been tested, for example antimonydoped tin oxide (ATO)18 and tantalumdoped TiO219 showing high conductivity. But once more, the 
+dissolution stability of these materials is questionable; illustratively, a high antimony dissolution from ATO has been shown in threeelectrode 
+electrochemical tests.20 
+To avoid support degradation, TiO2 is established as a stable support, both in academic research13,2125 and industry.

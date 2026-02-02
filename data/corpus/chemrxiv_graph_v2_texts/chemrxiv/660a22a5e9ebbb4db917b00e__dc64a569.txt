@@ -1,0 +1,24 @@
+Description:
+A single cylindrical tube structure in singlewall carbon nanotubes.
+
+Text:
+Carbon nanotubes (CNTs) are a onedimensional (1D) allotrope of carbon, made up of a sp2 
+hybridized carbon lattice in the form of a cylinder. A singlewall CNT (SWCNT), the simplest 
+version of a CNT, consists of a single, cylindrical graphene tube. In doublewall CNTs (DWCNTs) 
+and multiwall CNTs (MWCNTs), two or more tubes are either nested concentrically or wrapped 
+like a scroll.
+
+
+---
+
+Description:
+2D allotropes of carbon.
+
+Text:
+SWCNTs are typically 0.42 nm in diameter, while MWCNTs can be much larger, with 
+diameters of tens of nanometers, having both ends generally capped by fullerenelike domes.1 
+Similar to fullerenes and graphene, which are the analogous 0 and 2D allotropes of carbon, the 
+graphitelike arrangement of carbon atoms in CNTs and their shape give them remarkable and 
+unique properties, which has resulted in the widespread use of CNTs in several fields of science 
+and technology, including energy storage, electronics, structural composites, biomaterials, and 
+others.

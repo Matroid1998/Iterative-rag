@@ -1,0 +1,14 @@
+Description:
+Involved in radical-radical reaction channels during destruction, such as homolytic dissociation within perfluoroalkyl chains.
+
+Text:
+The
+difficulty in experimentally characterizing the products of incomplete combustion, which are
+potentially hazardous, has prompted a variety of computational studies into the chemical
+reaction mechanisms of PFAS pyrolysis and oxidation.610
+Extensive examinations of the thermochemistry of species involved in the destruction of
+perfluorinated carboxylic acids and perfluorinated sulfonic acids indicate that radicalradical
+reaction channels, such as homolytic dissociation within perfluoroalkyl chains, are likely
+important alongside molecular or pericyclic reactions with sufficiently low electronic barriers
+to contribute at incineration conditions. However, in the existing theoretical studies on
+PFAS thermal decomposition, the consideration of barrierless reactions has been limited.

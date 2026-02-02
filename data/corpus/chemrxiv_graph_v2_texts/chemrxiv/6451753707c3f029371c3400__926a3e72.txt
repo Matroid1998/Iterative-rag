@@ -1,0 +1,13 @@
+Description:
+Used to estimate global volcanic Hg flux by combining with a HgSO2 emission ratio.
+
+Text:
+55 
+While terrestrial volcanism is thought to be an important natural primary source of mercury (Hg) to the atmosphere, 
+the magnitude of volcanic Hg fluxes remains highly uncertain. Estimates1 range from 45 Mg y1 to 2000 Mg y1, 
+with the most recent study2 suggesting Hg emissions of 179  39 Mg y1 and 20  20 Mg y1 (mean  standard 
+deviation) for passive and eruptive volcanic degassing, respectively. These estimates were mostly obtained by 
+combining the estimated global volcanic SO2 flux with a HgSO2 emission ratio. Observed HgSO2 emission ratios, 
+60 
+however, can vary by several orders of magnitude between different volcanic systems 1,3. The speciation of Hg in volcanic plumes is less studied than total Hg emissions and is thus subject to even larger 
+uncertainties 1.

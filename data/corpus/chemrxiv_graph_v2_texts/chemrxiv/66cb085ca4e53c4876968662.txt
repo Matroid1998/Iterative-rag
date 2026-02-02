@@ -1,0 +1,21 @@
+Description:
+A vibrational mode useful as a VSE sensor for assessing electric field strengths.
+
+Text:
+1a is often written in linear form 
+()  0  
+
+(1b) 
+because  is typically experimentally negligible.14 Several 
+vibrational 
+modes, 
+such 
+as 
+the 
+carbonyl 
+(CO) 
+stretch,14,27,29,3133 have become very useful VSE sensors 
+because they behave according to eq. 1b.14,34 As such, they 
+have enabled the assessment of electric field strengths for 
+HBs and other noncovalent interactions in the condensed 
+phase.15,16,32,35,36

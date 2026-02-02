@@ -1,0 +1,38 @@
+Description:
+Involved in redox proteome switches and antioxidant defense.
+
+Text:
+INTRODUCTION 
+The thioredoxinthioredoxin reductase (TrxTrxR) and the 
+glutaredoxinglutathioneglutathione reductase (GrxGSHGR) 
+systems are central to maintaining cellular redox homeodynamics.1 
+These relay systems use NADPH to balance many arms of redox 
+chemistry via the redoxin (Trxfold) family of proteins2,3 
+controlling metabolic processes including nucleic acid synthesis, 
+as well as thiol redox proteome switches, and antioxidant defense.4 
+Despite their key roles in biology, the Trx and Grx systems have 
+long lacked highquality probes that could monitor and decrypt 
+their activity in living cells. Conceptually, a suitable turnover probe 
+could feature an artificial redox substrate that is selectively reduced 
+by a specific vicinal dichalcogenide redoxin (Grxs, Trxs, TrxRs), 
+then fragments irreversibly to accumulate a noninvasive readout 
+(e.g., release a fluorophore).
+
+
+---
+
+Description:
+An initial attacking group in reactions with cyclic dichalcogenides.
+
+Text:
+Cyclic dichalcogenide 
+redox substrates can be used to avoid reduction by millimolar 
+cellular monothiols (two consecutive monothiol additions) while 
+selecting for micromolar vicinal dithiols (bimolecular reaction).6 
+This arises since their onethioladducts have high effective 
+molarity for intramolecular retroaddition kT1 that leads to 
+expulsion of the initial attacking thiol before a second resolving 
+thiol can add intermolecularly (Figure 1b, I).7 Yet, with a single 
+equivalent of a vicinal dithiol, retroaddition kR1 can be out
+competed by intramolecular resolution kR2 to complete the 
+reduction and trigger a readout (c.f.

@@ -1,0 +1,12 @@
+Description:
+A TADF compound used as a temperature sensor.
+
+Text:
+Thermally activated delayed fluorescence (TADF) emitters are a class of emissive compounds 
+that have small singlettriplet excited state energy gaps (DEST).1921 They have garnered much 
+attention due to their capacity to harvest both singlet and triplet excitons to produce light in 
+electroluminescent devices such as organic lightemitting diodes (OLEDs).20,21 They have 
+increasingly been used in other applications, most notably as photocatalysts and as bioimaging 
+reagents.2224 However, very few reports exist documenting the use of organic TADF materials 
+as sensors.2527 The first reported example employed a TADF compound, acridine yellow (Figure 
+1a), as a temperature sensor.28 Steinegger et al.

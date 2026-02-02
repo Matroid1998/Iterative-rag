@@ -1,0 +1,31 @@
+Description:
+Used in the room temperature synthesis of surfactant-free Au NPs.
+
+Text:
+Our recent investigation of the effect(s) of using different alcohols for the room 
+temperature synthesis of the surfactantfree Au NPs showed that different formation 
+pathways are followed for different alcohols used, namely methanol, ethanol, ethylene 
+glycol, glycerol.29 The synthesis is faster in glycerol and lead to relatively small size 
+NPs in the range 510 nm over a wide range of conditions (e.g. different concentrations 
+of base andor alcohol contents). The synthesis using glycerol is also less sensitive to 
+the light environment. The glycerolmediated synthesis is therefore overall more 
+robust. However, a major drawback of the glycerolmediated synthesis is the use of a 
+relatively viscous solvent.
+
+
+---
+
+Description:
+A viscous solvent used as an alternative to glycerol.
+
+Text:
+The high viscosity of polyols prevent a simple and direct use 
+of the Au NPs.30,31 Ethylene glycol is a suitable alternative to glycerol,32 but is still a 
+viscous solvent.30 Ethanol presents the main benefit to have a very low viscosity A 
+desirable feature to more easily process the NPs, e.g. to deposit the NPs on various 
+surfaces to develop heterogeneous catalysts without the need for intensive and waste
+generating steps typically requiring strong acids when polyols are used.30 Ethanol
+mediated syntheses still lead to rather small ca. 10 nm Au NPs stable for years.16,23 
+Nevertheless, the overall kinetics of NP formation are slower and the experimental 
+window where the synthesis can be considered successful is narrower than in the case 
+of polyolsmediated syntheses.29

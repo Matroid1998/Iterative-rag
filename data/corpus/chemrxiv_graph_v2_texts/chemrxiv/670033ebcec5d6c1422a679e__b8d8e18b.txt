@@ -1,0 +1,21 @@
+Description:
+An irreducible lithium binary phase.
+
+Text:
+fully reduced) and thus 
+42 
+not further reducible. Examples of irreducible phases are lithium binaries (e.g. Li2S, LiCl, LiBr, 
+43 
+Li2O, Li3N), lithiumrich antiperovskites (e.g. Li3OCl, Li3OBr; see refs. 14,15), Li5NCl2 (refs. 16,17 ) and 
+44 
+the recently discovered Li2xS1xPx (0x0.75) solid solution. 18 An issue with irreducible phases 
+45 
+thus far has been that their ambienttemperature conductivities do not typically reach values 
+46 
+above 0.05 mS cm1 Li3N and Li2.75S0.25P0.75 are exceptions with RT conductivities of 0.5 mS cm1 
+47 
+(ref. 19) and 0.25 mS cm1 (ref. 18), respectively. The latter Li2xS1xPx (0x0.75) solid solution 18 
+48 
+is characterized by a disordered anion lattice, yet the effect of the structural disorder on ion 
+49 
+conductivity has not yet been clarified.

@@ -1,0 +1,16 @@
+Description:
+Used in traditional solar cells.
+
+Text:
+Organic solar cells (OSCs) as a class of photovoltaics have many
+advantages over traditional silicon solar cells, such as flexibil
+ity, lower cost, and a wider range of solar spectrum absorption
+through the tailorability of synthetic chemistry. The active layer
+of OSCs is composed of ntype electronaccepting and ptype
+electrondonating materials, hereafter referred to as the acceptor
+and donor materials. Due to the low dielectric constant of organic
+materials, two materials are needed so that the energy offset at
+their interface can split the exciton formed from the solar energy
+absorption into free charges.1,2
+One of the first widelyimplemented classes of acceptor materi
+als was fullerenes.

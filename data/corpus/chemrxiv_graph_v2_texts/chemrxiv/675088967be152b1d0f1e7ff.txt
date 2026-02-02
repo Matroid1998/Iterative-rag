@@ -1,0 +1,54 @@
+Description:
+Interacts only weakly with NaCl(100), making it an ideal microlab to study intermolecular interactions.
+
+Text:
+CO on a NaCl(100) surface is a wellknown and longstudied model system for adsorption. However, recent new findings demonstrate that this system is still good for surprises, with
+new structures and phenomena emerging. Many of these phenomena are due to the fact that
+CO interacts only weakly with NaCl(100), making it an ideal microlab to study intermolec
+ular interactions.
+
+
+---
+
+Description:
+Forms a stable phase with Na at a coverage of 1 ML above 35 K.
+
+Text:
+Experimentally it is known that, at a coverage of 1 ML (  1, one CO per surface Na),
+a (11) parallelupright (PU) phase with C atoms pointing downward (to Na) is the
+most stable phase above 35 K. Below this temperature a p(11) PU p(21) TA phase
+transition occurs, with TA denoting a tiltedantiparallel orientation.1 Density functional
+theory (DFT) confirmed that indeed, the most stable monolayer phase of CONaCl(100) at
+low temperatures is TA.24 PU is favoured at higher T for   1, but also found at low,
+submonolayer coverages, even at low T according to theory.
+
+
+---
+
+Description:
+A molecule with a stretching mode that serves as a sensitive reporter in vibrational spectroscopy.
+
+Text:
+For example, at   18, PU
+is most stable according to density functional calculations and beyond.4
+Such structural details and their changes are typically explored experimentally by vari
+ous forms of vibrational spectroscopy, in particular the CO stretching mode being a sensitive
+reporter mode.1,5,6 Specifically, at a coverage   1 (1 ML) and T  40 K, where the PU
+phase dominates, experimentally a single CO peak at 2155 cm1 was found.
+
+
+---
+
+Description:
+Molecules that exhibit exciton (Davydov) splitting due to interacting vibrational transition dipole moments in the TA phase.
+
+Text:
+At tempera
+tures below the p(11) PU p(21) TA transition, a minor peak appears at around 2149
+cm1, and the original peak slightly shifts (by 1 cm1) to the red.1 This second peak has
+been interpreted as being due to exciton (Davydov) splitting by D 6 cm1, arising from
+interacting vibrational transition dipole moments of the CO molecules in the TA phase.7
+In another more recent work, Lau et al.8 reported polarized Fourier Transformed Infrared
+(FTIR) absorption spectra as a function of coverage between 0.02 and 1.0 ML. They found
+3
+httpsdoi.org10.26434chemrxiv2024slrc0 ORCID httpsorcid.org0000000327261537 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

@@ -1,0 +1,15 @@
+Description:
+A canonical residue used in peptide macrocyclisation.
+
+Text:
+While numerous synthetic 
+methods have been developed to enable effective peptide 
+macrocyclisation, biocompatible chemistries that work with 
+readily accessible building blocks in environmentally acceptable 
+solvents are still required to enable the significant impact of 
+macrocyclic peptides as a nextgeneration drug discovery tool 
+to be realised. Many of the synthetic methods developed to cyclise 
+peptides58 take inspiration from nature and utilise the 
+canonical residues, cysteine (Cys) and lysine (Lys), or the native 
+N and Cterminal functionality to form disulfide,5 thioether,9, 10 
+and amide bonds.

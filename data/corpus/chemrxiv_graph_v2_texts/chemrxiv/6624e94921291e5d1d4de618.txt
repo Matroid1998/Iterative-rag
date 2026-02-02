@@ -1,0 +1,15 @@
+Description:
+Used in the light-driven double bond isomerization as an energy fueling mechanism for molecular motors.
+
+Text:
+Artificial molecular machines are miniaturized versions of macroscopic machines and work by 
+controlling dedicated motions within their molecular structures.19 Such control needs to be 
+achieved against the equilibrating force of the Brownian motion to allow operation out of 
+equilibrium.10, 11 In this regard molecular motors stand out as one of the most important subtypes 
+of molecular machines as they convert external energy input into directional motions, which are 
+not canceling out over continuous operation.2, 5, 1217 The first realization of a molecular motor was 
+achieved in 1999 by Feringa, who used the lightdriven double bond isomerization of an 
+overcrowded stilbene as energy fueling mechanism.18 This achievement gave rise inter alia to the 
+Nobel prize in chemistry in 2016.3 Since then, the development of molecular motors is growing 
+ever steeply and today a large number of different variants with different working mechanisms, 
+energy supplies, and types of motions are available.

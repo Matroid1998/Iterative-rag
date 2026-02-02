@@ -1,0 +1,26 @@
+Description:
+A two-dimensional transition metal carbide, nitride, or carbonitride with high specific surface area, hydrophilicity, conductivity, and mechanical strength.
+
+Text:
+MXene, a twodimensional transition metal carbide, nitride, or carbonitride, has received a tremendous 
+amount of research attention since its discovery in 2011.1 The high specific surface area, hydrophilicity, 
+conductivity and mechanical strength of MXenes make them promising for applications including energy 
+storage,27 electromagnetic interference shielding,810 and catalysis11. MXenes can be described as a hexagonal 
+closed packed structure comprising of Mn1XnTx (n1 to 4; where M is early d block transition metal; X is 
+carbon or nitrogen; T is surface terminated groups such as O, OH, Cl, and F, depending on the chemical 
+etchant).12 Terminal group free MXenes (Mn1XnT0) are determined to have D3d symmetry.13 However, the 
+presence of the terminal groups distorts the symmetry of the unit cell.
+
+
+---
+
+Description:
+A structure that can incorporate two transition metals, either randomly or in ordered layers.
+
+Text:
+To date, more than 
+50 MXenes have been reported to be successfully synthesised.12 The family of MXenes is further expanded 
+when two transition metals are mixed in a MXene structure, in which the transition metal may either be 
+arranged randomly across all the M layers, or they may form ordered structures.1921 Given that the ratio of M 
+and X in these double transition metal MAX precursors can be controlled as needed, the number of possible 
+MXenes can be limitless.

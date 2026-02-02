@@ -1,0 +1,29 @@
+Description:
+Used in the form of carbon quantum dots (CQDs) and carbon dots (CDs) for applications in photocatalysis, anticounterfeiting, encryption, bioimaging, and fluorescence sensing.
+
+Text:
+Frster resonance energy transfer (FRET) is a longrange 
+dipoledipole interaction that occurs between one or more excited 
+fluorophore (donor) and a proximal ground state fluorophore 
+(acceptor).14 In the distancedependent photophysical process, 
+energy is transferred between donor and acceptor in a non
+radiative pathway, resulting in fluorescence quenching of the 
+donor and fluorescence enhancement of the acceptor.5,6 In 
+general, various fluorescent materials constructed based on 
+FRET mechanism should have the following prerequisites 1) an 
+adjacent distance between donor and acceptor (110 nm); 2) an 
+efficient overlap between the donor emission and acceptor 
+absorption; 3) a favorable mutual orientation between donor 
+emission moment, acceptor absorption moment and their 
+separation vector.7 Based on the FRET strategy, many types of 
+materials including organic molecules, polymers, metalorganic 
+frameworks (MOFs), metal nanoparticles (NPs), transition metal 
+complexes, carbon quantum dots (CQDs) and carbon dots (CDs) 
+have been rationally designed over the past decade,813 which 
+are widely utilized for photocatalysis, anticounterfeiting, 
+encryption, bioimaging, and fluorescence sensing.1418 In various 
+applications, it has been an interesting and promising research 
+field to construct artificial lightharvesting systems (LHSs) based 
+on FRET,19,20 which not only helps people to gain deeper insights 
+into the photosynthesis process in nature, but also plays a guiding 
+role to mimic the natural lightharvesting systems.

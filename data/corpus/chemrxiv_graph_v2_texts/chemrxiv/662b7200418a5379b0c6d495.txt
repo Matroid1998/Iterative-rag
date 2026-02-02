@@ -1,0 +1,47 @@
+Description:
+Research focuses on new allotropes with ultrahigh hardness.
+
+Text:
+In recent years, significant efforts in the search for novel phases with advanced properties have 
+benefited from structure prediction programs such as USPEX 1 and CALYPSO 2, and more 
+recently from the crystallographic machine learning platform CrystalMELA 3. The topic of 
+carbon research, especially regarding periodic structures, shows a sustained interest in the search 
+for new allotropes, especially those characterized by ultrahigh hardness close to that of diamond. In view of the large number of carbon structures claimed as novel, a database SACADA 4 has 
+been created to group all known carbon allotropes, thus helping researchers in their endeavors on 
+the one hand, and avoiding claims of known phases as novel allotropes on the other.
+
+
+---
+
+Description:
+Forms three-dimensional networks such as the body-centered tetragonal tetC4 with diamond-like topology.
+
+Text:
+Another avenue of investigation that could be complementary to modern materials science 
+software lies in the crystal chemistry rationale called structural engineering. Recently, the 
+bodycentered tetragonal tetC4 (Fig. 1a) in space group I4m2 was proposed by us as one of the 
+simplest threedimensional (3D) carbon networks to serve as a template for the design of other 
+novel allotropes and chemical compounds 5. Using the TopCryst crystallography package 6, 
+tetC4 was identified with dia (i.e. diamondlike) topology. Several chemical compounds also 
+have a dia topology, as categorized in the Reticular Chemistry Structure Resource (RCSR) 
+database 7. Recently, Wei et al. proposed a superhard tetC5 allotrope with mixed carbon hybridization (sp2 
+and sp3) and metallic character based on structure prediction programs and firstprinciples 
+calculations within DFT 8.
+
+
+---
+
+Description:
+Can exhibit mixed hybridization (sp2 and sp3) and metallic character in certain allotropes like tetC5.
+
+Text:
+Another avenue of investigation that could be complementary to modern materials science 
+software lies in the crystal chemistry rationale called structural engineering. Recently, the 
+bodycentered tetragonal tetC4 (Fig. 1a) in space group I4m2 was proposed by us as one of the 
+simplest threedimensional (3D) carbon networks to serve as a template for the design of other 
+novel allotropes and chemical compounds 5. Using the TopCryst crystallography package 6, 
+tetC4 was identified with dia (i.e. diamondlike) topology. Several chemical compounds also 
+have a dia topology, as categorized in the Reticular Chemistry Structure Resource (RCSR) 
+database 7. Recently, Wei et al. proposed a superhard tetC5 allotrope with mixed carbon hybridization (sp2 
+and sp3) and metallic character based on structure prediction programs and firstprinciples 
+calculations within DFT 8.

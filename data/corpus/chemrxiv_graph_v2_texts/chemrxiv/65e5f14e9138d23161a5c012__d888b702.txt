@@ -1,0 +1,13 @@
+Description:
+MOF material involved in controlling competitive pathways in electron-hole recombination.
+
+Text:
+The analysis of the decays shows also that the electronhole recombine 
+radiatively with different lifetimes varying from the hundreds of ns to the s time scale, suggesting the 
+presence of heterogenous trapping environments in the materials. In additions, timeresolved 
+measurements also revealed that the (eh) formation is in competition with the formation of excimers 
+or energy transfer. The role of the topology of the MOFs framework in controlling these competitive 
+pathways has also been evidenced for Zr(pbenzoic acid)pyrene MOF materials (NU901, NU1000)16 
+and in MOF PCN223, for which a hopping mechanism of energy transfer from the excited 
+chromophores to Nprotonated linkers acting as traps has been proposed.17 The titaniumbased MOF 
+family MIL125(Ti) have also attracted a lot of attention for solar fuel generation.

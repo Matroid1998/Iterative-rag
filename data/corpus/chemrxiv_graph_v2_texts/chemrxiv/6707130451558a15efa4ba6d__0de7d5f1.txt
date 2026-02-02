@@ -1,0 +1,16 @@
+Description:
+Spheres that terminate growth after surface edges meet creating a closure.
+
+Text:
+21 Even if it could be seeded with a 
+negatively curved element, its subsequent growth is possible not 
+just in one but many ways the exact number of which we do not 
+know yet. Unlike fullerene spheres, TPMS growth does not termi
+nate after surface edges meet creating a closure. Instead, it contin
+ues facing a vast number of options. It is not only a different curva
+ture that may form, but also type of TPMS, or several types that 
+might start growing simultaneously on different sides of a joined 
+piece without a possibility for separation later. Not surprisingly, all 
+attempts to grow spontaneously and hopes to isolate any 
+Schwarzite in symmetrically pure state by brute force methods 
+have failed.

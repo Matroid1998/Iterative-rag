@@ -1,0 +1,31 @@
+Description:
+A component of enzymes that acts as a catalyst for a range of chemical oxidations.
+
+Text:
+Hemecontaining enzymes are powerful and versatile catalysts. They are capable of a vast range of chemical oxidations, requir
+ing only O2 or H2O2 and a source of electrons and protons. For 
+H2O2dependent oxidations  namely in the heme peroxidases 
+ the mechanisms of oxidation have been widely studied,1 but 
+the processes involved in proton delivery that accompany the 
+OO bond cleavage and the subsequent oxidation of substrate 
+are still poorly defined.
+
+
+---
+
+Description:
+Involved in electron movement linked to proton movement in enzymes.
+
+Text:
+This matters because the movement of 
+electrons in all heme enzymes is invariably linked to the move
+ment of protons, and controlling both is key to the design of 
+bespoke heme catalysts for specific applications in the future.2 
+The availability of neutron structures for some peroxidase en
+zymes3 has meant that the protonation states of active site resi
+dues can now be directly visualized. These neutron structures 
+reveal individual hydrogen bonds, including to active site water 
+molecules. But while neutron diffraction can identify single hy
+drogen atoms (or, more specifically, deuterium atoms) in a 
+static location, it cannot identify their origin, nor can it identify 
+dynamic movements of protons during catalysis.

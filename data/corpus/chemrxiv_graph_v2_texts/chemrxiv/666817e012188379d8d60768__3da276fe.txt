@@ -1,0 +1,11 @@
+Description:
+Chiral motifs present in catalysts and ligands.
+
+Text:
+Chiral arylsubstituted motifs are not only prevalent in natural products and pharmaceuticals, but they are also versatile synthons 
+and are present in catalystsligands, such as chiral 1,1diarylalkanes,1 benzylic alkynes,2 and axially chiral allenes (Figure 1A).3 As 
+demonstrated by chiral 1,1diarylalkanebased drugs, the subtle variation in the (hetero)aryl pharmacophore can often lead to 
+variations in biological activity. Consequently, the development of efficient and practical catalytic strategies to streamline the 
+installation of different aryl and heteroaryl motifs is an important endeavour for academic and industrial applications.4 Transition
+metalcatalyzed asymmetric arylations based on an ionic mechanistic pathway currently provide the most robust method for 
+introducing an aryl or heteroaryl group into a specific substrate.

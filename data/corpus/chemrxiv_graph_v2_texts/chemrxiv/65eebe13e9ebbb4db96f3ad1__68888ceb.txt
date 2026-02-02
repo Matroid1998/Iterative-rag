@@ -1,0 +1,12 @@
+Description:
+Has a higher dissolution rate under PEMWE conditions, constraining its long-term stability.
+
+Text:
+Although alternative materials such as ruthenium can show superior OER activity in acidic media compared to iridium, the higher dissolution 
+rate of Ru under PEMWE conditions strongly constrains its longterm stability.2,3 However, the scarcity of iridium still limits the widespread 
+and largescale implementation of PEMWE.4,5 
+A scaleup of the annual implementation of PEMWE to 10 GW using stateoftheart electrolyzers with loadings of 2 mgIr cm2, would require 
+7.5 t of iridium,5 whereas the global iridium supply in 2022 only amounted to 6.8 t per year.6 Calculations considering the scarcity of iridium 
+and the projected scaleup to the GWscale reveal that an iridiumspecific power density of 50  100 kW gIr1 is required for a successful 
+adoption of PEMWE.79 The iridiumspecific power density in recent publications ranges between 9  16 kW gIr1.5,8,10 Thus, the iridium 
+utilization must be ultimately enhanced for a future scaleup of PEMWE.

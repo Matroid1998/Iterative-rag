@@ -1,0 +1,29 @@
+Description:
+Exhibits modest uptake at 273K, indicating limited ultramicropore distribution.
+
+Text:
+Direct 
+comparison of this N2 adsorption data with that of the previously prepared PUNCCocbipyCo (Fig. 1c; SABET  845, Vmp  0.44 ml g1) indicates that the TPP guest molecules occupy around 50 of the 
+free volume of the basic PNC structure (Fig. 3a). The modest uptake of CO2 at 273K by 
+PUNCvTPPCocbipyCovTPP (Fig. 5b) suggests that only a small fraction of the total pore volume 
+is distributed as ultramicropores, defined as pores of less than 7  in diameter, which is consistent 
+with the crystal structure of the PNC, for which only the narrow channels linking the voids are 
+ultramicroporous.
+
+
+---
+
+Description:
+A gas that can be uptaken by materials with increased ultramicroporosity.
+
+Text:
+Notably, the CO2 uptake for PUNCvTPPCocbipyCovTPP is significantly 
+higher than that of PUNCCocbipyCo, which is consistent with the increase in ultramicroporosity 
+due to the included TPP increasing the length of the narrow interconnecting channels from 9  to 
+15 , as measured from the scXRD structure. The resulting permanently porous PUNCvTPPCo
+cbipyCovTPP possesses metalfree porphyrins suitable for metal cation incorporation via post
+synthetic modification. Hence the crystals were exposed to a methanol solution of CuCl2 and the 
+successful insitu incorporation of Cu2 to give PNCvTPPCuCocbipyCovTPPCu was confirmed 
+by scXRD, which showed that the resulting CuCo distance is only 3.51 . Similarly, Co2 could be 
+introduced into the TPP by exposure to a solution of CoCl2 to produce PNCvH2OCoTPPCocbipy
+CovTPPCoOH2 with a CoCo distance of 3.52 .

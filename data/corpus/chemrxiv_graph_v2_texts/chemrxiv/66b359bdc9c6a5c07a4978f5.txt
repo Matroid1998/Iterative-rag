@@ -1,0 +1,32 @@
+Description:
+A compound for which accurate prediction of water partition coefficients is crucial in drug discovery and separation processes.
+
+Text:
+Page 1 of 22
+Multifidelity graph neural networks
+for predicting toluenewater partition coefficients
+Thomas Nevolianisa  Jan G. Rittigb  Alexander Mitsosb,c,d  Kai Leonharda,
+a RWTH Aachen University, Institute of Technical Thermodynamics, Aachen, Germany
+b RWTH Aachen University, Process Systems Engineering (AVT.SVT), Aachen, Germany
+c Forschungszentrum Jlich GmbH, Institute of Climate and Energy Systems ICE1 Energy Systems Engineering, Jlich,
+Germany
+d JARAENERGY, Aachen, Germany
+Abstract
+Accurate prediction of toluenewater partition coefficients of neutral species is crucial in drug discovery
+and separation processes; however, datadriven modeling of these coefficients remains challenging due to
+limited available experimental data.
+
+
+---
+
+Description:
+Used in partition coefficient models for predicting solubility of neutral species in water.
+
+Text:
+Toluenewater partition coefficients offer better physiological relevance com
+pared to wateroctanol (Caron and Ermondi, 2005; David et al., 2021). Consequently, models that predict
+toluenewater partition coefficients for a wide spectrum of neutral species are highly desired. Existing computational methods, such as the COnductor like Screening MOdel for Real Solvents
+(COSMORS) (Klamt, 1995; Klamt et al., 1998), Group Contribution (GC), and Molecular Dynamics
+(MD) have been employed to predict toluenewater log P of neutral species (Platts et al., 1999; Lin
+and Sandler, 2000; Buggert et al., 2009; Loschen and Klamt, 2014; Ince et al., 2015; Bannan et al.,
+2016; Mller et al., 2024).

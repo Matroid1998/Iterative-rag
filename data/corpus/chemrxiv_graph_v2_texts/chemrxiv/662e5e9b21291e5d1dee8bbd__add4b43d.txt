@@ -1,0 +1,15 @@
+Description:
+A group incorporated into molecular backbones to achieve triplet excitons.
+
+Text:
+The population of triplet 
+excitons has largely been achieved through molecular engineering tactics, such as incorporating 
+heteroatoms (e.g., N, O, S, P, B), heavy atoms (like Br, I), carbonyl groups, or twisted structures 
+into the molecular backbone. On the other hand, suppression of nonradiative processes has 
+been accomplished through methods like crystallization1517, embedding molecules in polymer 
+matrices1820, hostguest supramolecular assembly2122, and more. Recently, a groundbreaking 
+design strategy has emerged for achieving efficient RTP materials with prolonged afterglow, 
+involving the doping of one specific compound into the matrix of another2328. Unlike 
+conventional singlecomponent RTP materials, the ultralong emission of these bicomponent 
+RTP systems is contingent upon the synergistic interaction between the two blended 
+components25, 29. Without either component, the ultralong emission would not occur.

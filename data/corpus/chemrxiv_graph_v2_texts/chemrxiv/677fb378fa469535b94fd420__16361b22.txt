@@ -1,0 +1,12 @@
+Description:
+A catalyst for CO2 reduction to CO due to its high activity and selectivity.
+
+Text:
+For example, it can be used as an intermediate product for the further reduction to 
+ethylene7,8 However, due to the high stability of CO2 and the requirement of electron and proton
+transfers for its transformation, catalysts need to overcome the slow kinetics, yielding low 
+overpotential and high product selectivity. Silver (Ag) has been the metal of choice as catalyst for the CO2RR to CO due to its high activity, 
+selectivity,5 and drastically lower cost compared to gold (Au). Having the second optimal binding 
+energy for the key intermediate of COOH, which is essential in the CO2RR process to CO, Ag is slightly 
+less efficient than Au for CO2RR to CO.9 Even though Ag is not a CRM (critical raw material), its 
+considerable cost is a burden for upscaling.

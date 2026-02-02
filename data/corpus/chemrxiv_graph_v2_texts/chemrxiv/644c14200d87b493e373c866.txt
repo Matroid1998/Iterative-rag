@@ -1,0 +1,11 @@
+Description:
+Induces actin bundle formation due to crowding and depletion interactions with filamentous actin.
+
+Text:
+Shear forces can induce nematic patterns56,57 and introduce hysteresis58,59. Van der Waals attraction between
+filaments promotes adhesive interfilament interactions that lead to gradual relaxation of prestress60,61. Polyethylene glycol
+(PEG) is known to induce actin bundle formation owing to crowding and depletion interactions between filamentous actin and
+the polymer62. Morphological changes in the Factin depend on the molecular weight and concentration of the polymer in
+the solution63,64. For instance, 0.1 wv (or 1 mgmL) PEG with a molecular weight of 20 kDa can result in strong bundling,
+whereas PEG with 6 kDa at the same concentration produces weakly bundled networks65. Although the bundling degree of
+actin filaments under morphology control has been established and studied65, the effects of bundling degree on actin molecular

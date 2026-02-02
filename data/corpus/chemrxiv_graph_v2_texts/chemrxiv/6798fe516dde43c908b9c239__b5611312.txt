@@ -1,0 +1,13 @@
+Description:
+A neurotransmitter transported by a subfamily within the SLC6 family.
+
+Text:
+The Solute Carrier Transporter Family 6 (SLC6) represents an important group of transporters 
+within the large family of Solute Carriers (SLCs), playing an essential role in transporting 
+neurotransmitters, amino acids, and osmolytes across cell membranes. (1) Comprising several 
+subfamilies, SLC6 transporters are fundamental to an array of physiological processes and neural 
+signaling pathways. (2) A prominent example is the Monoamine Transporter subfamily (MAT) 
+comprising the serotonin, norepinephrine, and dopamine transporters, which have been a major area 
+of interest for their therapeutic effects in treating neuropsychiatric disorders. (1,2) Additionally, 
+the SLC6 family includes other subfamilies, such as the GABA, amino acids, and nutrient transporter 
+subfamilies. (2) However, these subfamilies are considerably less explored than the MAT subfamily.

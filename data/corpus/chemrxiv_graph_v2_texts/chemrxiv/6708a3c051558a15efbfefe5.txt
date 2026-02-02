@@ -1,0 +1,30 @@
+Description:
+Subject to corrosion, which affects the integrity of infrastructure and products through electrochemical reactions.
+
+Text:
+Iron and steel are not only used in infrastructure but are fundamental to modern construction, 
+symbolizing strength, reliability, and durability. However, corrosion, the gradual deterioration 
+of materials through electrochemical reactions with their environment remains a persistent 
+challenge across various industries. The corrosion of iron and steel affects the integrity of large
+scale infrastructure, transportation networks and even the lifespan of everyday products.14 
+Despite advancements in materials science and the development of corrosion prevention 
+strategies, such as the use of inhibitors, iron corrosion continues to pose serious safety and 
+economic concerns worldwide.
+
+
+---
+
+Description:
+Investigated for its oxidation processes at the atomic scale.
+
+Text:
+To advance our understanding of corrosion mechanisms at the atomic level and to develop 
+corrosion mitigation strategies, computational approaches, particularly density functional 
+theory (DFT), have become valuable tools.3,710 DFT enables researchers to probe atomic
+scale interactions, providing insight into the energetics, adsorption behaviour, reaction 
+mechanisms, and electronic properties of materials in corrosive environments.1116 
+In the last two decades, numerous DFT studies have been conducted to investigate iron 
+oxidation processes at the atomic scale. Since water and oxygen are the main corrosive agents, 
+most studies have focused on how these agents interact with the crystallographic surface planes 
+of iron. For example, Eder et al. investigated the water dissociation energies on Fe(100) and 
+httpsdoi.org10.26434chemrxiv2024wdkmm ORCID httpsorcid.org0000000265840516 Content not peerreviewed by ChemRxiv. License CC BY 4.0

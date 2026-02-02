@@ -1,0 +1,28 @@
+Description:
+A metal whose morphology during electrodeposition is crucial for battery research, particularly in the stability of the lithium metal anode over repeated cycles.
+
+Text:
+Control over the morphology of lithium metal during electrodeposition has become a major 
+topic in battery research1, with many works focusing on the stability of the lithium metal 
+anode over repeated electroplating and stripping cycles25. Cycling and subsequent 
+observation, typically done using scanning electron microscopy (SEM), does not always 
+provide the full picture however, as illustrated in literature by recent mechanistic insights 
+obtained using a variety of additional techniques to study the growth of lithium metal612. Furthermore, the wide range of electrolyte systems used13 makes it difficult to compare 
+results between different reports or to disentangle physical14 and chemical15 effects 
+responsible for uncontrolled lithium growth.
+
+
+---
+
+Description:
+Forms smooth morphologies attributed to electrostatic shielding.
+
+Text:
+Growth of smooth lithium morphologies 
+attributed to electrostatic shielding for example16, was later found to consist of a particular 
+selfaligned and compact nanorod morphology17. Such a columnar morphology is very similar to the results first obtained by Kanamura et al.18 
+using HF as an additive, and later with trace amounts of water for the insitu formation of HF 
+through the hydrolysis of an LiPF6 electrolyte19. This growth mode is commonly attributed to 
+the formation of a LiF solid electrolyte interphase (SEI) layer mainly based on Xray 
+photoelectron spectroscopy2022. So far, deposition of columnar lithium layers has attracted 
+httpsdoi.org10.26434chemrxiv20236vxj5v2 ORCID httpsorcid.org0000000244999130 Content not peerreviewed by ChemRxiv. License CC BY 4.0

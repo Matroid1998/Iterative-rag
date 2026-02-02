@@ -1,0 +1,14 @@
+Description:
+An isotope-labeled form of arginine used to investigate incorporation efficiency.
+
+Text:
+We implemented a synthetic route to access 13C2H15N 
+arginine 12 (Figure 1). To investigate the incorporation efficiency, 
+we used this isotopelabelled Arg in the E. coli based 
+overexpression of the model protein ubiquitin. Moreover, we 
+showed the utility of our approach by studying the interaction of 
+ubiquitin and the third Src homology 3 domain (SH3) of the 
+cytoskeletal protein binding domain Sla1.33 Our method is a 
+general approach to explore, for example, dynamics and 
+interaction of arginine side chains, taking advantage of well
+resolved 1H13C or 13C15N correlations in future studies.

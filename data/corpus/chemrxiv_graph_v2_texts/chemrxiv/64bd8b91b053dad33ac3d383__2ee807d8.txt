@@ -1,0 +1,14 @@
+Description:
+An electric double layer capacitance (EDLC) material used in modern lead-acid batteries.
+
+Text:
+The 
+volcano plot shows that lead is a bad HER promoter, which enables and limits the relatively 
+high negative plate potential. However, the modern leadacid batterys evolution depends on 
+the insertion of other materials beyond lead 2. These other materials are conductive ones (as 
+carbonblack and acetyleneblack) 3, expanders (as lignosulfonates) 4, electric double layer 
+capacitance (EDLC) materials 5,6 (like carbons in many forms as activated carbon 7, carbon 
+nanotubes 8, and graphene 9). These materials powder mostly blend in the LAB negative 
+active mass (NAM) but are not limited to it. For example, extensive EDLC anodes and lower 
+specific mass current collectors may be of interest. Including these materials always has a limit 
+because they may enhance HER at lower potentials than lead.

@@ -1,0 +1,14 @@
+Description:
+Inhibits the bioreduction of hypoxia-activated prodrugs in cells, preventing the release of the effector compound.
+
+Text:
+Hypoxia (insufficient oxygen) is a common feature of the tumor microenvironment resulting from 
+uncontrolled cell proliferation and aberrant vasculature. Clinically, hypoxia is associated with therapy 
+resistance, metastasis, and poor patient prognosis.1 Therefore, there is an unmet need to reverse 
+tumor hypoxia andor develop strategies to target chemotherapies to hypoxic tumor regions.2,3 One 
+such strategy is hypoxiaactivated prodrugs (HAPs), which are selectively activated in hypoxia and 
+target drug release to hypoxic regions of tumors while sparing healthy oxygenated tissues.4 When 
+present in cells, oxygen inhibits the bioreduction of HAPs that is mediated by endogenous 
+oxidoreductases, and prevents the fragmentation and release of the effector compound. When 
+oxygen is sparse, HAPs undergo enzymaticallycatalyzed bioreduction, which is enhanced by 
+endogenous reductases being upregulated in response to hypoxia in cells.5,6

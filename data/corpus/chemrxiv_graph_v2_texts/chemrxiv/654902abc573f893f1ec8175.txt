@@ -1,0 +1,32 @@
+Description:
+An intravenously administered RNA-dependent RNA polymerase inhibitor for COVID-19 infection.
+
+Text:
+Therefore, in the battle against 
+COVID19, developing specific antiviral drugs for SARSCoV
+2 is a top goal, especially with the rise of mutations that may 
+partially evade neutralization by antibodies.1 A variety of 
+SARSCoV2 inhibitors have already been reported.25 
+However, only few directacting antivirals, such as remdesivir, 
+molnupiravir, and nirmatrelvir (Figure 1), have been approved. Remdesivir is an intravenously administered RNAdependent 
+RNA polymerase (RdRp) inhibitor for COVID19 infection,6 
+while molnupiravir is an orally available RdRp inhibitor used 
+for the treatment of mild to moderate cases of COVID19.
+
+
+---
+
+Description:
+A repurposed drug.
+
+Text:
+It 
+should be noted that remdesivir as well as molnupiravir are 
+repurposed drugs.6,7 Nirmatrelvir, a peptidomimetic inhibitor of 
+the SARSCoV2 main protease (Mpro), is commercialized 
+under the brand name Paxlovid in combination with ritonavir to 
+prevent its fast metabolic degradation.8 The cysteine protease 
+Mpro, crucial for virus replication, is highly conserved across 
+coronaviruses but lacks a close homolog in humans. Following 
+the approval of Paxlovid, numerous compounds that inhibit 
+Mpro have been reported.917

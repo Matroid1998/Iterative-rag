@@ -1,0 +1,28 @@
+Description:
+A gas that is highly soluble in monoethanolamine-based solvents.
+
+Text:
+In these technologies, aminebased solvents, particularly monoethanolamine (MEA), stand
+out for their remarkable CO2 solubility, low viscosity, and satisfactory thermal stability 24. How
+ever, MEAbased processes often require signicant energy for solvent recovery, and they are prone
+to considerable solvent losses and potential equipment corrosion due to the presence of SO2 and O2
+in the ue gases 50. Additionally, the synthesis of MEA from ammonia is, in itself, associated with
+substantial CO2 emissions; this affects the overall lifecycle CO2 emissions of the capture process
+26. Research also indicates that MEAbased processes have impacts on human toxicity and water
+eutrophication 45.
+
+
+---
+
+Description:
+Solubility in DESs can be tuned by changing the HBA and HBD components and their molar ratios.
+
+Text:
+In contrast to ILs, DES can be
+synthesized from affordable and renewable raw materials under benign conditions and without the
+necessity for elaborate purication processes. This also translates into considerably lower production
+costs compared to ILs. Additionally, DESs offer desirable physicochemical properties, including low
+melting points, low volatility, low vapor pressure, and high thermal stability 9. DESs are mixtures formed by a hydrogenbond acceptor (HBA), typically in the form of a poly
+atomic cation with a Lewis base as an anion, and a hydrogenbond donor (HBD) that can be either
+a Brnsted or Lewis acid 1. The properties of DESs (such as viscosity and CO2 solubility) can be
+tuned by changing the HBA and HBD components and their molar ratios.

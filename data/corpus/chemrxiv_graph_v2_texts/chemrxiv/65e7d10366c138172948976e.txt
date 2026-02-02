@@ -1,0 +1,25 @@
+Description:
+Materials characterized using NMR across chemical, biological, and materials science fields.
+
+Text:
+Consequently, there is broad applicability 
+27 
+of NMR across chemical, biological and materials science fields, characterizing diverse systems 
+28 
+ranging from battery anodes, to biological solids, to zeolites.16 
+29 
+
+30 
+The most familiar NMR methods have focused on nuclear spin   (I12) systems, such as 1H 
+31 
+and 13C; however, a majority of NMRactive isotopes are quadrupolar, with I  , which can yield 
+32 
+exquisite details about the interaction between the nuclear spin and its surrounding ground state 
+33 
+electron density produced by the EFGs715. Even with the revolutionary demonstration of new 
+34 
+NMR pulsesequence methods for quadrupolar species in the 1990s (resulting in highly resolved 
+35 
+spectra)16, quadrupolar SSNMR is still often plagued by complicated lineshapes that can overlap 
+36 
+and become difficult to elucidate for structural features.

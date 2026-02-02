@@ -1,0 +1,54 @@
+Description:
+Derived from various carbon sources such as CO2, biomass, and biogas.
+
+Text:
+The utilisation of alternative feedstocks for everyday chemicals is
+of key industrial importance as we move towards net zero and
+beyond. Methanol derived from various carbon sources, such as
+CO2, biomass, and biogas, is already of considerable economic
+interest.1 The methanoltohydrocarbon (MTH) process is poised
+to offer a pathway to numerous commercially and industrially
+significant chemicals. The first step in the MTH process, the de
+hydration of methanol to dimethyl ether (DME), is of particular
+interest as DME is an important solvent and the starting material
+for many other products.
+
+
+---
+
+Description:
+Involved in the methanol to DME reaction promoted by zeolites.
+
+Text:
+The methanol to DME reaction is promoted by the unique
+porous structure of zeolites, this provides a confinement effect
+that leads to transition state stabilisation.26 This work focuses
+on the MFI framework type structure (commonly known as ZSM
+5), shown in fig. 1. This framework has orthorhombic symmetry
+(Pnma) within a large range of operating temperatures, and is
+composed of straight parallel pores (fig. 1a) intersected by sinu
+soidal pores (fig. 1b). These ordered pores provide large inter
+a Centre for Computational Chemistry, School of Chemistry, University of Bristol, Bris
+tol, BS8 1TS, UK. b European Spallation Source, Ole Maales vej 3, 2200 Kbenhavn N, DK. c Diamond Light Source, Harwell Campus, Didcot, OX11 0DE, UK.
+
+
+---
+
+Description:
+A reactant in the formation of DME, influenced by carbonyl compounds and esters.
+
+Text:
+Addition of organic carbonyl compounds fur
+ther promotes the methanol to DME reaction allowing for use
+of milder reaction conditions; this reduces the risk of catalyst
+deactivation and side reactions in the hydrocarbon pool mech
+anism.7 The aliphatic esters and aromatic aldehydes investigated
+here have shown significant promotional effects (increasing cat
+alytic activity by well over an order of magnitude) down to con
+centrations as low as 1 ppm in methanol.79
+Our previous work employed a set of multilevel quantum cal
+culations to investigate the action of aliphatic ester promoters in
+DME formation from methanol dehydration within HZSM5.10
+Our results showed how the promoters provide a more favourable
+route to DME formation. The promoters adsorption to the reac
+tion site is one crucial factor.

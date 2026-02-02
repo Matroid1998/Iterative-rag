@@ -1,0 +1,16 @@
+Description:
+A solution that can increase ionic strength, inducing interparticle aggregation and wall deposition.
+
+Text:
+Up to five particles participate in a bridge, in both con
+stricted granular and suspension flows1921. Clogging can also be
+induced by attractive interactions between the particles and the
+pore walls22,23. Clogging by deposition can be induced or pre
+vented by surface treatments of the channels walls . Increasing
+the ionic strength of the suspension, for instance particle disper
+sion in NaCl solution, can induce interparticle aggregation and
+wall deposition18. Colloidal interactions, hydrodynamic and contact forces play
+competitive roles in the formation, stability and growth of
+clogs2427. This competition leads to critical phenomena in clog
+ging processes. In a crossflow setup, adjusting viscosity and
+flowrate can prevent clogging by deposition at the intersection25.

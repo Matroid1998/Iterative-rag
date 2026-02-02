@@ -1,0 +1,25 @@
+Description:
+Has a Raman spectrum that can be decomposed in q-Gaussian Tsallis functions.
+
+Text:
+For the carbonbased materials, the Raman spectroscopy is a particularly wellsuited technique (Zhang et al., 
+2022), due to the longrange crystalline vibrations and shortrange molecular vibrations of carbon species, which 
+are producing, for the different materials, their characteristic spectral fingerprints. According to Zhang and 
+coworkers, these fingerprints allow identifying the specific carbon materials including graphite, diamond, graphene, 
+carbon nanotubes, fullerene, and amorphous carbon. To these materials, we must also add the recent studies on 
+graphene, bilayer graphene, and twodimensional graphene heterostructures (Zhang et al., 2022, Mu and Sun, 
+2020, Cui and Sun, 2021). We have already discussed diamond and graphite Raman spectra in the framework of their decomposition in q
+Gaussian Tsallis functions.
+
+
+---
+
+Description:
+Has a Raman peak at 1332 cm1 corresponding to the vibration of its two Bravais lattices of carbon atoms.
+
+Text:
+Diamond has a Raman peak at 1332 cm1, corresponding to the vibration of its two 
+Bravais lattices of carbon atoms with respect to each other (Krishnan, 1945). The crystalline graphite has a G peak 
+at 1582 cm1 and a G (or 2D) peak at 2700 cm1 (Malard et al., 2009). In other carbonaceous materials, such as soot, 
+kerogen, and biochar, besides the G band we find the D1, D2, D3 and D4 bands mentioned by Beyssac et al., 2002, 
+and Sadezky et al., 2005.

@@ -1,0 +1,13 @@
+Description:
+A donor polymer used in blends for phase shifters with dielectric nonlinearity and light sensitivity.
+
+Text:
+of PM6Y7 blend for phase shifters
+ Potential for selfpowered IoT devices
+ Blends integration in highfrequency circuits
+Abstract
+This communication introduces a Kaband phase shifter that leverages a blend of the donor polymer PM6 and
+nonfullerene acceptor (NFA) Y7 organic materials. The design integrates a coplanar waveguide (CPW) with a spin
+coated thin film of PM6Y7 blend, characterized by its dielectric nonlinearity and light sensitivity. An applied electric
+field between the CPW signal and ground electrodes governs the phase shift mechanism, effectively modulating the
+permittivity of the blend.

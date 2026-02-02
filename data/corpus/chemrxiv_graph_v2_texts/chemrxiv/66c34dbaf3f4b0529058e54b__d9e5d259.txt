@@ -1,0 +1,16 @@
+Description:
+An anionic lipid that affects the structural properties of membranes.
+
+Text:
+Here we interrogate the effect of the anionic lipid 1palmitoyl
+2oleoylsnglycero3phosphoglycerol (POPG) on OmpLA activity
+with a specific focus on the role of the Ca2 cofactor. Cofactor ions
+are generally important for protein folding, regulation and stabil
+ity9,10. In the case of OmpLA, Ca2 ions are considered to sta
+bilize active dimers by mutually aligning the active sites located
+on the outer protein surface7. On the other hand, Ca2 ions are
+also known to strongly bind and affect the structural properties
+of membranes containing anionic lipids11,12. We thus hypothe
+sized that asymmetrically distributed charged lipids might lead to
+distinct behavior of OmpLA upon activation with Ca2 through a
+mechanical coupling to collective membrane properties.

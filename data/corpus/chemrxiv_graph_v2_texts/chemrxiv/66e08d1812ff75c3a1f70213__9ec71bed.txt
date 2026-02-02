@@ -1,0 +1,13 @@
+Description:
+A chemistry with high theoretical capacity of 1,675 mAh g1.
+
+Text:
+Energy storage devices with improved volumetric and gravimetric energy densities 
+beyond Liion batteries are essential to mitigate the effects of climate change 1. One promising candidate is the lithiumsulfur (LiS) chemistry due to its high 
+theoretical capacity (1,675 mAh g1) as well as the relative abundance, low cost and 
+favourable geographic distribution of sulfur 2,3 compared to materials used in Li
+ion positive electrodes. However, while advances in this technology have been 
+made, widespread commercialisation has been hampered by a range of challenges. The insulating nature of sulfur and Li2S necessitates a greater proportion of 
+conductive additives than is required for Liion batteries. These typically comprise 
+around 30 wt of the positive electrode composite, which in turn reduces the 
+energy density of the cell 4,5.

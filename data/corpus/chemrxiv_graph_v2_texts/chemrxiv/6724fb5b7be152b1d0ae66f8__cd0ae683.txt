@@ -1,0 +1,12 @@
+Description:
+Carbons that provide detailed information regarding connectivity, stereochemistry, and atomic environments in NMR spectroscopy.
+
+Text:
+Molecular structure elucidation from spectroscopic data is among the most complex challenges faced
+by chemists and materials scientists, as the number of possible structures increases with the number
+of atoms. This complexity makes the molecular elucidation task formidable, requiring the use of
+diverse spectroscopic techniques. For instance, mass spectrometry (MS) provides insights into the
+potential fragments that compose the molecule and its total mass, while infrared (IR) spectroscopy
+helps identify the molecules functional groups. Nuclear magnetic resonance (NMR) spectroscopy is
+particularly valuable as it provides detailed information regarding the connectivity, stereochemistry,
+and atomic environments, especially for nuclei such as protons (1H) and carbons (13C).

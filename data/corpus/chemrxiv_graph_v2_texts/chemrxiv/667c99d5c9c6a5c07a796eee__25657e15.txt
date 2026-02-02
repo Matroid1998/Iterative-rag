@@ -1,0 +1,12 @@
+Description:
+Shows exceptional performance at high current densities due to its corrosion resistance and high electronic conductivity.
+
+Text:
+The Pt catalysts for the HER in acidic media suffer from two major limitations 
+including their high cost, which hinders largescale production7, and performance deterioration at 
+high current densities due to catalyst restructuring issues8,9. Transition metal (e.g., Mo, W) carbides (TMCs) have been considered as promising alternatives 
+to Pt catalysts for HER due to their low cost and Ptlike electronic structures10. Particularly, 
+tungsten carbide shows exceptional performance (e.g., low overpotential and longterm stability) 
+at high current densities stemming from its corrosion resistance nature and high electronic 
+conductivity11. Tungsten carbide possesses multiple phases, such as tungsten monocarbide (WC) 
+and tungsten semicarbide (W2C), exhibiting diverse electrocatalytic properties for HER12.

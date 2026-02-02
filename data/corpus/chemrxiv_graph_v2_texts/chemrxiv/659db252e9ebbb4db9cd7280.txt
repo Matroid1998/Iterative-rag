@@ -1,0 +1,13 @@
+Description:
+A reactant in the aqueous Menshutkin reaction.
+
+Text:
+deep neural network) for free energy predictions of condensed phase
+reactions.15,18,19,2328 Many of these studies18,19,2325,28 combine the ML models with semi
+empirical or lowerlevel QMMM methods to obtain the energy predictions that match the
+accuracy of higherlevel QMMM methods. For example, GomezFlores et al.19 used a ML
+approach to predict the energy difference between the density functional tightbinding model
+and other higher level QM methods for a thioldisulfide exchange reaction in water. In a
+study by Pan et al.,18 a ML model was trained to reproduce ab initio QMMM poten
+tials in free energy simulations for the aqueous Menshutkin reaction between ammonia and
+chloromethane.

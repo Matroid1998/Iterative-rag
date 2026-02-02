@@ -1,0 +1,20 @@
+Description:
+Materials used for accurate prediction of gas uptake.
+
+Text:
+Also, a 3D convolutional neural network (CNN) with 
+44 
+3D voxel, a volume element in 3D space that is analogous to a pixel in 2D space, has been 
+45 
+developed as a descriptor for accurate prediction of gas uptake in zeolites.13 For predicting 
+46 
+electronic properties such as band gap, graph neural networks (GNNs) such as Crystal Graph 
+47 
+Convolutional Neural Networks (CGCNN)14 and MatErials Graph Network (MEGNET)15 have 
+48 
+shown high performance. Also, various descriptors have been developed including geometric, 
+49 
+chemical, topological features, revised autocorrelations (RAC)16 and smooth overlap of atomic 
+50 
+positions (SOAP)17. Recently, MOFTransformer18, a multimodal pretraining Transformer, has 
+51

@@ -1,0 +1,18 @@
+Description:
+An oxidation-sensitive dye used for fluorescence detection in model emulsions at cryogenic temperatures.
+
+Text:
+We could observe aggregation of proteins in the aqueous phase 
+36 
+upon oxidation, however, without employing fluorescence microscopy and cryoTEM in a correlative manner. 37 
+Here, we build on our previous work and image the lipid oxidation of oil droplets in fluorescence microscopy at 
+38 
+cryogenic temperatures. We first introduce a homebuilt cryoupright fluorescence microscope (cryoFM) for 
+39 
+correlative imaging and test the setup with fluorescent beads. We then demonstrate fluorescence detection of an 
+40 
+oxidationsensitive dye, BODIPY 665676, in egg yolk stabilized model emulsions at cryogenic temperature (77 
+41 
+K). In addition, we observe protein granules at the oil droplet interfaces of fresh and oxidized emulsions using 
+42 
+cryoTEM.

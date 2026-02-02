@@ -1,0 +1,12 @@
+Description:
+Shows significantly lower currents in hydrogen evolution reaction (HER) compared to top promoters.
+
+Text:
+The management of hydrogen evolution reaction (HER) is of remarkable significance in 
+modern technological growth. There is a desire to not only expedite the reaction by catalysts 
+to increase hydrogen production due to its selection as an exceptional energy storing resource, 
+but also to hinder it. Trasattis 1 Volcano Plot effectively illustrates the effect of metals on 
+the HER catalysis in acidic solutions. Pt, Re, and Rh are the most efficient HER promoters 
+perched atop the volcano. In the ascending branch of the plot, Ti, Pb, Cd, and In show around 
+six orders of magnitude lower currents because of hydrogen evolution than the top ones. The 
+main application in which HER needs to be inhibited is the leadacid battery (LAB).

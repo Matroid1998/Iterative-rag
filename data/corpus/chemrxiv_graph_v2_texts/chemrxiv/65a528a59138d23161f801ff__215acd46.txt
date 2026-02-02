@@ -1,0 +1,11 @@
+Description:
+Used in covalent labelling methods for live cell surfaces with minimal perturbation.
+
+Text:
+An ideal method for labelling surfaces of live cells would be applicable to any kind of cell and impose 
+only little perturbation. Probes should have low molecular weight to allow high resolution imaging and 
+facilitate tissue penetration, which would be a benefit for in vivo measurements of genetically nonmodi
+fied specimen. Furthermore, labeling should proceed quickly with as few wash steps as possible. We 
+reasoned that these criteria could, in principle, be met by an optimized sialic acid labelling developed by 
+Kellam4 and DawsonPaulson,5 which stands out as a covalent labelling method introducing the smallest 
+possible cargo.

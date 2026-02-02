@@ -1,0 +1,30 @@
+Description:
+Used in the synthesis of the western fragment by addition into aziridine.
+
+Text:
+The synthesis of the western fragment 
+3 branched tryptophanasparagine motif (Figure 1, highlighted in 
+green) was envisioned in the same fashion by addition of 2methyl 
+furan into the corresponding aziridine 7. In this case, furan acts as 
+an epimerizationproof synthetic precursor to the primary 
+asparagine amide, to be unveiled towards the end of the synthesis. With a strategy in hand to address the challenge of synthesizing the 
+bbranched amino acids 6 and 7, our attention next turned to 
+construction of the two macrocycles and final assembly of 2. The synthesis of 2 is outlined in Scheme 1.
+
+
+---
+
+Description:
+Used as a nucleophile onto aziridine and as a masked primary amide to avoid side reactions.
+
+Text:
+After screening a variety 
+of activation reagents, the combination of PyAOP with HOAt was 
+found to be the most effective conditions under which to forge the 
+macrocycle to yield 4 in 54 yield over two steps. The aziridinebased strategy outlined above could be leveraged 
+again to forge the tryptophanasparagine linkage. Thus, western 
+fragment 3 was prepared by employing 2methyl furan as a 
+nucleophile onto aziridine 7. The use of 2methylfuran as a masked 
+primary amide provided several advantages, notably avoiding 
+undesired side reactions such as epimerization of the bcarbon and 
+imide formation during carboxylic acid activation.

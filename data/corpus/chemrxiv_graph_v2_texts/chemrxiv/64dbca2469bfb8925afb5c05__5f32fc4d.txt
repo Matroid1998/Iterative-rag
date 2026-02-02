@@ -1,0 +1,10 @@
+Description:
+A class of compounds that includes sulfanilamide, used as antibacterial drugs.
+
+Text:
+Sulfanilamide is an anilinederived sulfonamide and one of the first synthesized
+antibacterial drugs in the start of the 20th century. A limitation to antibacterial small
+molecule drugs is the rapid tendency for bacteria to develop antibacterial resistance,
+lending to an arms race between advances in novel drug production and evolution
+driving survival of the fittest by selecting for antibioticresistant genes. Azo dyes
+quickly became a desirable starting material to turn to sulfa drugs.

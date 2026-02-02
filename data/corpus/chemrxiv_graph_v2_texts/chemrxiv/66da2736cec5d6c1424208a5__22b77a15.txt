@@ -1,0 +1,29 @@
+Description:
+A component of both the Arizona solvent system L1 and dichloromethane-methanol-water system used in liquid-liquid chromatography.
+
+Text:
+CPC is
+consequently referred to as a liquidliquid chromatographic technique given its conceptual sim
+ilarity to chromatography methods that utilize a solid stationary phase. Recently, CPC (and a
+similar method, countercurrent chromatography) has shown promise as an effective and scalable
+approach for separating bioproduct mixtures to advance the renewable chemical industry.15,17,18
+Alherech et al.15 successfully employed a twostage CPC strategy for isolating five aromatic prod
+ucts from the alkaline oxidative depolymerization of CuAHP lignin by utilizing solvent mix
+tures comprising pentaneethyl acetatemethanolwater (i.e., Arizona solvent system L1) and
+dichloromethanemethanolwater.
+
+
+---
+
+Description:
+A component of the Arizona solvent systems, used in quaternary mixtures with varied polarity.
+
+Text:
+High product purity (i.e.,
+high selectivity between products) requires solvent systems that lead to product log10 Kp values
+that are sufficiently different from each other, which can be difficult to achieve for chemically sim
+ilar products. CPC poses an additional constraint by requiring that log10 Kp values lie within a
+1The socalled Arizona solvent systems consist of quaternary mixtures of water, methanol, ethyl acetate, and
+alkane solvents systematically varied polarity, labeled A (most polar) to Z (least polar).18
+2
+httpsdoi.org10.26434chemrxiv202412h5f ORCID httpsorcid.org0000000348856599 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

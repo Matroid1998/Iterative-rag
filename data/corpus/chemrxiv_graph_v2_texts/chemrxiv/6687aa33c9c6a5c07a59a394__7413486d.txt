@@ -1,0 +1,15 @@
+Description:
+Exhibits enhanced conduction at ferroelectric domain walls due to local changes in band structure and point defects.
+
+Text:
+Ferroelectric domain walls (DW) are natural interfaces between
+regions with uniform polarisation with a width at the unit
+cell level. Enhanced conduction at ferroelectric DWs was first
+demonstrated by spatially resolved conductance measurements
+of BiFeO3
+1. While local changes in the band structure and band
+bending induced by DW bound charges2,3 were immediately rec
+ognized as important, it was also early realized that point defects
+play a crucial role for the transport behaviour of DWs1,411. Similar to the case of BiFeO3, point defects were associated
+with the emergence of DW conduction in various systems, es
+pecially at neutral DWs.

@@ -1,0 +1,17 @@
+Description:
+An electron-cation transporting OMIEC active for oxygen reduction with pH-dependent selectivity for the 4-electron versus the 2-electron product.
+
+Text:
+Recently, organic mixed ionicelectronic conducting polymers (OMIECs) have been 
+reported to exhibit catalytic behavior for electrochemical reactions.1115 OMIECs are 
+semiconducting conjugated polymers with synthetically tunable structures and transport 
+properties enabled by electrochemical ioninsertion redox reactions.16 These electrochemical 
+doping reactions drive the insertion of mobile ions and electrons (or holes), providing 
+functionality for a range of electrochemical devices.1621 For electrocatalysis, holeanion 
+transporting OMIECs (ptype), including PEDOT (poly(3,4ethylenedioxythiophene)) variations, 
+have been studied for oxygen reduction and display selectivity for the 2electron reaction.13,14,22 
+BBL (poly(benzimidazobenzophenanthroline)), an electroncation transporting (ntype) OMIEC, 
+has also been shown to be active for the ORR, with pHdependent selectivity for the 4electron 
+versus the 2electron product.15 These studies highlight the potential of OMIECs as electrodes 
+for oxygen reduction, but the fundamental design principles that control their activities and 
+selectivity are still being developed.

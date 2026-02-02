@@ -1,0 +1,14 @@
+Description:
+Forms reversible crosslinks in dynamic networks.
+
+Text:
+Klmel and Kool prepared 
+a comprehensive review covering hydrazone and oxime bioconjugation studies.35 While much useful 
+information on relative reactivity and trends can be obtained from this seminal body of work, how 
+reactivity measured in model studies translates to the reactivity of more complex polymeric systems 
+and materials remains unclear. Additionally, while some existing covalent network models have been 
+adapted to represent the reversible nature of dynamic boronic acid ester crosslinks,36,37 and more 
+recently MarcoDufort et al. studied the relationship between RECs and macroscopic mechanics in 
+telechelic boronic acid ester hydrogels,9 we lack distinct network models for dynamic networks 
+composed of reversible junctions. In this work, we aim to build upon the structurereactivity relationship that imines display with 
+their component amines and aldehydes (Figure 1).

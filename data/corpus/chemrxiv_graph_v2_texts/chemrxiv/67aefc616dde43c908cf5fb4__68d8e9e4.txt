@@ -1,0 +1,11 @@
+Description:
+Coordinates with calcium in the Ca2 site of the crystal structure of FAp, with a coordination distance of 2.311 Å.
+
+Text:
+The crystal structure of FAp has two nonequivalent calcium sites.11 The Ca1 site is 9fold 
+coordinated with oxygen atoms (d(Ca1O)  2.554 ), and exhibits C3v symmetry. The smaller Ca2 site 
+is 7fold coordinated with six oxygen atoms (d(Ca2O)  2.462 ) and one fluorine atom (d(Ca2F)  
+2.311 , average  2.440 ), and exhibits Cs symmetry. The Ca1 polyhedra are linked to each other 
+through faces and to Ca2 polyhedra through corners. In contrast, the Ca2 polyhedra are linked to each 
+other through corners, not faces. In this way, the Ca1 polyhedra form rigid chains and the Ca2 polyhedra 
+flexible spirals along the caxis.

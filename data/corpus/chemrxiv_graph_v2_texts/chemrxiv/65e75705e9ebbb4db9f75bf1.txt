@@ -1,0 +1,12 @@
+Description:
+Involved in reduction systems with analytical quantification of product distribution.
+
+Text:
+Materials acceleration platforms (MAPs)4 comprise 
+strategies for integrating experiment automation and data science, which hold great promise for 
+developing electrocatalysts in general5 and CO2 reduction systems in particular.6 In the ecosystem of 
+MAPs for electrocatalyst discovery, a host of techniques have been developed for bulk liquid 
+electrolytes,79 including for CO2 reduction with analytical quantification of product distribution.1014 
+Driven mostly by fuel cell technologies, high throughput screening has also been demonstrated for 
+MEAs.15,16 Building upon these concepts, high throughput screening of GDEs for the electroreduction of 
+dinitrogen was demonstrated with a 16channel parallel testing system.17

@@ -1,0 +1,20 @@
+Description:
+Forms carbon-centered radicals that add to CC bonds in radical cyclizations, leading to cyclic products.
+
+Text:
+Radical cyclizations are a powerful strategy to forge CC 
+bonds. These intramolecular processes benefit from 
+very rapid kinetics, can generate multiple bonds in one 
+transformation, and enable unique reactivity pathways 
+for the synthesis of complex scaffolds.13 Although radi
+cal processes have traditionally relied on harmful rea
+gents and harsh conditions, photoredox catalysis has 
+emerged as a method of choice for performing radical 
+chemistry under mild, nontoxic conditions.45 Radical 
+cyclizations typically involve the addition of a carbon
+centered radical to a CC  bond, leading to cyclic prod
+ucts (Scheme 1a).2, 6 This strategy has been widely em
+ployed to produce both saturated and unsaturated all
+carbon rings and heterocycles.1, 3, 7 Stereoselective radi
+cal cyclizations, moreover, have been used to access 
+enantioenriched cyclic frameworks, which feature e.g.

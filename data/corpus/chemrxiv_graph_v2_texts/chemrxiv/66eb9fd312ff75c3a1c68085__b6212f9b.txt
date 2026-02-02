@@ -1,0 +1,11 @@
+Description:
+A quantum functional group suitable for laser cooling.
+
+Text:
+The CaO group can function as an OCC because it supplies the molecule with an access to
+an electronically excited state that spontaneously decays almost exclusively to the molecular
+(electronic and vibrational) ground state5057. Other quantum functional groups suitable for
+laser cooling, such as SrO and YbO, have also been identified5787. FIG. 1
+Molecules studied in this work. Counterclockwise from the left top CaOH, azobenzene
+(AB), paraCaOazobenzene (pAB), and bis(paraCaO)azobenzene (bpAB). Onethusfar only hypothesized but excitingpossibility is to use quantum functional
+groups, such as CaO OCCs, for precise optical sensing of chemical events.

@@ -1,0 +1,13 @@
+Description:
+Forms a site comprised of three conserved amino acids in the catalytic domain of phosphoethanolamine transferases.
+
+Text:
+Phosphoethanolamine transferases, including MCR, are enzymes of the Gramnegative inner 
+membrane that consist a soluble periplasmic catalytic and a transmembrane domain14 (Figure 1). The 
+catalytic domain has been the subject of relatively extensive biochemical study1517 and contains a zinc 
+site (Zn1, comprised of three conserved amino acids, Glu246, Asp 465 and His466) adjacent to the 
+threonine residue (Thr285) that is the likely site of formation of the covalent phosphointermediate 
+formed when PEtN is transferred from a phosphatidyl ethanolamine donor to the lipid A acceptor 
+substrate (Scheme 1). Two additional conserved gating histidine residues (His395 and His478) are 
+observed in some structures15 to bind a second zinc equivalent (Zn2), but the physiological and 
+mechanistic significance of this site remains unclear.

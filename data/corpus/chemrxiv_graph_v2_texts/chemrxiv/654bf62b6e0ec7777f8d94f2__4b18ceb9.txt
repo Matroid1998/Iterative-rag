@@ -1,0 +1,11 @@
+Description:
+A precious metal catalyst used in ECH reactions.
+
+Text:
+(1214) 
+Organic ECH reactions for a series of functional groups have been reported, including CO, CC, 
+CC and CN (Fig 1A). (1528) However, these systems typically rely on precious metal catalysts, 
+such as Pt and Pd. (22, 29, 30) Moreover, in aqueous media, these cathode materials face the 
+competition with the more facile hydrogen evolution reaction (HER), which usually requires less 
+negative potentials, compromising the Faradaic efficiency (FE) towards the target ECH products. One strategy to minimize the competing HER is to work in alkaline media, wherein the 
+concentration of protons is much lower.

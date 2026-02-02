@@ -1,0 +1,11 @@
+Description:
+An experimentally relevant catalyst for CO adsorption.
+
+Text:
+In a study of the FeMgO magnetic tunnel junction (a 
+system with some similarities to the present work), it gave an excellent description of the transmission 
+probability.9 For benchmarking adsorption of CO on TM surfaces, we take structures of the adsorbed 
+molecule using DFT, and perform QSGW calculations on them. We compare to photoemission data for CO 
+on Cu (111)1012 and Pt (111)13, 14. Pt (111) as they remain the best characterized experimental studies of CO 
+preferentially adsorbing on an atomic site, whereas Cu (111) is an experimentally relevant catalyst for 
+httpsdoi.org10.26434chemrxiv20240kn9q ORCID httpsorcid.org0000000291372621 Content not peerreviewed by ChemRxiv. License CC BY 4.0

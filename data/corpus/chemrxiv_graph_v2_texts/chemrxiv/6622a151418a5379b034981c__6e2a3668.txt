@@ -1,0 +1,16 @@
+Description:
+A large class of molecules consisting of carbon and hydrogen atoms, containing at least two rings with at least one aromatic.
+
+Text:
+Polycyclic aromatic hydrocarbons (PAHs) are a large class of
+molecules that consist of carbon and hydrogen atoms. Each PAH
+contains at least two rings, of which at least one is aromatic. These
+molecules play an important role in astrochemistry since they are
+estimated to account for about 10 of all galactic carbon.1,2 PAHs
+can also form in combustion reactions of fossil fuels, which lead
+to the presence of PAHs in the Earths atmosphere. Here, they
+act as environmental pollutants, and they impact the health of the
+population.3,4 In the interstellar medium (ISM) and planetary at
+mospheres, PAHs are subjected to highenergy particles.58 There
+fore, investigating PAHs radiation and photoinduced chemistry is a
+compelling study with broad implications.

@@ -1,0 +1,17 @@
+Description:
+Does not form luminescent complexes.
+
+Text:
+Given the exponential nature of decay time,
+this separation could be made arbitrarily large at a mod
+est efficiency cut. To the best of our knowledge, there is only one in
+stance of such fluotophospho sensing mechanism in the
+literature. In that example, the coordination of a fluo
+rescent organic ligand to a cationic analyte (Pt2), form
+ing a phosphorescent organometallic compound, is used
+for cation sensing 28. Unfortunately, this elegant strat
+egy, ideally suited for some transition metal ions that
+form phosphorescent molecular complexes, cannot be ex
+tended to biologically relevant ions such as Na, K or
+Mg2, or to Ba2 sensing, as these metals do not form
+luminescent complexes.

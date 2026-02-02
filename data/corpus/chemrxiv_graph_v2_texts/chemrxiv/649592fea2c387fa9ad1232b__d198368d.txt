@@ -1,0 +1,14 @@
+Description:
+A class of low valent main group compounds applied in small molecule activation.
+
+Text:
+Lowvalent main group compounds have long been considered as lab curiosities of limited 
+stability and accessibility. However, research endeavors in the past three decades have 
+changed this assumption and impressively demonstrated that species with most unusual 
+bonding situations and electronic structures can be isolated and most importantly be applied 
+in the activation of small molecules and strong bonds.1 This has sparked interest in applying 
+such compounds also in catalysis, with the prospect of developing sustainable, transition metal 
+free alternatives to existing protocols. One of the most researched classes of low valent main 
+group compounds applied in small molecule activation are carbenes and their heavier 
+congeners, RER (E  CPb).2 This interest was particularly fueled by the landmark report 
+by Bertrand and coworkers in 2007 showing that alkyl(amino)carbenes (e.g.

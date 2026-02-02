@@ -1,0 +1,24 @@
+Description:
+A 3D perovskite with signature XRD peaks at (110) and (220).
+
+Text:
+to vacuum, whereas 
+light blue data is the final measurement after complete gas evacuation from the microwell. (D) Illustration 
+of 2DPA1 spincoating process on MAPbI3 3D perovskite to assess its inhibition of O2 and H2O (red circles) 
+permeation. (EF) XRD spectra of MAPbI3 films that were (E) uncoated and (F) coated with at 60nm 2DPA
+1 film. Stacked panels show the change in spectra with respect to time exposed to ambient air. The (110) 
+and (220) peaks represent signature peaks of MAPbI3. The (001) peak represents the signature peak of 
+the degradation byproduct, PbI2. Insets are optical images of the perovskite films over time. SiSiO2
+2DPA1
+0 d
+7 d
+14 d
+(110)
+(220)
+(001)
+(001)
+(001)
+(001)
+(110)
+(220)
+Normalized Intensity (a.u.)

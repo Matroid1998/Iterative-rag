@@ -1,0 +1,17 @@
+Description:
+Involved in singlet oxygen chemistry, a photochemical application.
+
+Text:
+License CC BY 4.0
+
+Introduction 
+Continuousflow reactors are widely employed for photochemical reactions due to their numerous 
+advantages, including small dimensions and enhanced process control.13 The merging of a liquid 
+reaction mixture with a gas phase in these reactors to form gasliquid systems has significantly expanded 
+the options for synthetic organic chemists, providing a means to mitigate gasliquid mass transfer 
+limitations.4,5 Gaseous reagents offer distinct benefits, being atomefficient, costeffective, and 
+simplifying downstream separation processes. These advantages are demonstrated in various 
+photochemical applications such as singlet oxygen chemistry, carbonylations, and light alkane 
+activation.612 Additionally, inert gases are sometimes introduced to create segmented flow, improving 
+mixing in the liquid phase. This approach has been shown to enhance residence time distribution 
+properties and stabilize solid suspensions.1315

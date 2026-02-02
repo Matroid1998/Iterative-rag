@@ -1,0 +1,10 @@
+Description:
+A simple metal cation detected by ion-selective electrodes.
+
+Text:
+An ionophore is a compound that can carry specific ions through membranes of cells or organelles. Historically, this term was reserved for biological systems, but ionophores are also used in chemical 
+sensors. An ionophore is the main component determining the membrane selectivity in a 
+potentiometric ionselective electrode (ISE). The search for new ionophores with a good affinity for 
+various groups of compounds has been going on for decades. These efforts resulted in the 
+development of sensors for determining simple metal cations such as Na, K and inorganic anions (F 
+and CN) as well as more complex organic cations and anions1.

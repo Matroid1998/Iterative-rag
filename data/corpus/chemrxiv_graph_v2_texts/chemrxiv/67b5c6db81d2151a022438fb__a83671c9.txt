@@ -1,0 +1,11 @@
+Description:
+A conductive additive whose fluorination can cause rapid capacity fading.
+
+Text:
+Since the fluorination of materials such as La2(NiCo)O4 
+is happening at potentials very similar to carbon fluorination , the two materials fluorinate 
+simultaneously. Since carbon monofluoride (CF)n, PTFE (CF2)n and other analogous highly 
+fluorinated carbons are all electronically insulating, the fluorination of the carbon additive was 
+assumed to cause rapid capacity fading observed by Nowroozi et. al. 34 and Wissel et. al. 5, 
+in agreement with observed changes in the carbon oxidation state from XPS studies. To differentiate the fluorination of La2(NiCo)O4 from the conductive additive, one option is to 
+replace carbon by other conductive materials which show higher oxidative stability.

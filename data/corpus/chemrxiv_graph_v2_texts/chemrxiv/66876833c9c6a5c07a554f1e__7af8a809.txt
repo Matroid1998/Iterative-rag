@@ -1,0 +1,19 @@
+Description:
+Formed selectively on Pt and Ir surfaces during AOR.
+
+Text:
+6,17 AOR has
+several practical usecases such as ammonia as a fuel for
+solid oxide fuel cells, where ammonia is oxidized into hy
+drogen and dinitrogen, then hydrogen oxidized to water. 18
+Another implementation, which we will focus on, is het
+erogeneously electrocatalyzed AOR at ambient conditions
+using an alkaline aqueous electrolyte. 5,6 While promising
+for various applications, industrial implementation of AOR
+is limited by the current electrocatalysts facing a range of
+drawbacks including sluggish kinetics, high overpotentials,
+catalyst poisoning, and high costs. 1,19
+An experimental study by De Vooys et al. investigated
+AOR on transition metal surfaces, showing steadystate ac
+tivity towards selective N2(g) formation on Pt and Ir, while
+other metals showed transient N2(g) formation at best.

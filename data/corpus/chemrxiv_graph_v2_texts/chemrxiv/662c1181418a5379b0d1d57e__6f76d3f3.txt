@@ -1,0 +1,30 @@
+Description:
+Inhibits GABA degradation by inhibiting the enzyme GABA transaminase.
+
+Text:
+Increase in GABAergic activity is the basis for the mechanism of action of several anti
+epileptic drugs (Macdonald and Kelly, 1993). For example, Clobazam, barbiturates such as
+Phenobarbital, and benzodiazepines such as Diazepam are GABA receptor agonists, Tigabine
+inhibits reuptake of GABA into the synaptic vescicles and increases the concentration of GABA in
+the synaptic cleft, and Vigabatrin inhibits GABA degradation by inhibition of the enzyme GABA
+transaminase (GABAT) (Czuczwar and Patsalos, 2001). The antiepileptic drugs Valproate and
+Gabapentin are modulators of the enzyme glutamic acid decarboxylase (GAD) which catalyzes the
+conversion of glutamate to GABA. Some of these antiepileptic drugs have multiple targets
+(Macdonald and Kelly, 1993).
+
+
+---
+
+Description:
+The only approved drug that targets GABA transaminase.
+
+Text:
+For example, Valproate targets Sodium channels for modulating the
+membrane potential and Ttype Calcium channels for modulating neurotransmitter release
+(Johannessen and Johannessen, 2003). And Gabapentine targets Calcium channels and increases
+intracellular concentration of GABA (Czuczwar and Patsalos, 2001). Vigabatrin is the only
+approved drug that targets GABA transaminase. However, Vigabatrin is associated with serious
+adverse effects (Hawker and Silverman, 2012a). Therefore, GABAT, the validated molecular
+target of Vigabatrin, was chosen as the target for the design of novel antiepileptic drugs in this
+work. GABAT is also known as GABAamino transferase (GABAAT). Computer aided drug design can facilitate the rapid development of new drugs (Salman et al.,
+2021), (Azad et al., 2023).

@@ -1,0 +1,14 @@
+Description:
+A material used in methane dehydroaromatization.
+
+Text:
+Due to
+losses in each step, a direct conversion of methane is more desirable and has been stud
+ied extensively 8. Unfortunately, direct conversion of methane to valueadded products is
+challenging because of the low chemical reactivity of methane. Direct methane activation
+has usually involved a bulk catalyst, owing to the advantages of simply pumping methane
+gas onto solids that can handle high temperatures and pressures. Oxidative coupling of
+methane has mostly been reported for heterogenous catalysts 8. Methane dehydroarom
+atization, where methane is converted nonoxidatively into aromatic compounds, mainly
+benzene, has also been performed exclusively heterogeneously, using HZSM5 and HMCM5
+zeolites containing molybdenum centers 6 and more recently gallium nitride 9, 10.

@@ -1,0 +1,14 @@
+Description:
+ptype doping of diamond is suppressed by low dopant concentrations and large activation energies.
+
+Text:
+8 Even when
+achieved, either ptype (boron B) 9 or ntype (nitrogen N or phosphorus P), 10 doping of
+diamond is suppressed by low dopant concentrations, limited by thermodynamic solubility,
+and large activation energies from the deep ingap dopant levels. 11, 12 Moreover, the prac
+tice of heavy doping undesirably decreases the carrier mobility. 13 Among the efforts to
+overcome these obstacles and realize diamondbased semiconductor devices, a welldeserved
+attention is captured by the transfer doping, which is achieved by integrating a thin layer
+of acceptor on the hydrogenated diamond (Hdiamond) surface. 1419 The acceptor layer
+candidates range from gas adsorbates, 14, 20 metal oxides, 18, 21, 22 to van der Waals
+twodimensional (2D) materials.

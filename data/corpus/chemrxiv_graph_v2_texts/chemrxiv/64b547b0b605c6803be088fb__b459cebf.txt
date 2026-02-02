@@ -1,0 +1,16 @@
+Description:
+A material used in devices with higher sensitivity compared to MoS2.
+
+Text:
+Due to their excellent surfacetovolume ratio,
+the impact of the effect on the charge carrier concentration of the sheets
+is significantly greater than on the bulk materials, which allows for high
+sensitivity even at room temperature. Despite the aforementioned similarities, the growing body of work
+begins to suggest relevant differences in sensor performance that de
+pend on the type of TMD used (see Table 1). Current data shows
+that MoS2based devices tend to have a lower sensitivity compared to
+MoSe2 and MoTe2, but at the same time have a faster recovery 16
+19. This could be affected by several factors, such as sheet quality,
+contact types, and exposure conditions. However, it seems unlikely
+that the sheet type itself had no impact given the substantial difference
+in sensitivity.

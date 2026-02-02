@@ -1,0 +1,12 @@
+Description:
+Involved in CO2 adsorption selectivity for separation processes.
+
+Text:
+For 
+example, CO2  N2 adsorption selectivity has been used as a key performance indicator (KPI) 
+to organise MOF databases for CO2 capture applications on several occasions.24 However, 
+for complex, dynamic processes such as PSA, this property alone is unlikely to provide 
+enough information to determine the separation potential of an adsorbent.5 For that reason, 
+processlevel screening workflows must be utilised. This approach relies on atomistic Grand 
+Canonical Monte Carlo (GCMC) simulations to obtain microscale properties of the adsorbent 
+(in particular, equilibrium adsorption data).

@@ -1,0 +1,13 @@
+Description:
+A bond formation frequently used in medicinal chemistry.
+
+Text:
+Amide bond formation is one of the most frequently used reactions in medicinal chemistry.1 
+The demand for greener approaches for amide bond formation has been growing over the last 
+decade.2 Although amide bond formation via acid chloride or acid anhydride is particularly 
+useful in the largescale synthesis,3 this approach usually requires organic bases (e.g. Et3N 
+101 gmol) for trapping the generated acid. An alternative method, the SchottenBaumann 
+reaction4, uses environmentally friendly solvents (e.g. water) and inorganic bases (e.g. NaOH 
+40 gmol) which are less wasteful and inexpensive. Therefore, the SchottenBaumann reaction 
+has a high potential to achieve greener amide bond formation. However, water that is necessary for dissolving inorganic bases often causes undesired 
+hydrolysis of electrophile in the SchottenBaumann reaction.

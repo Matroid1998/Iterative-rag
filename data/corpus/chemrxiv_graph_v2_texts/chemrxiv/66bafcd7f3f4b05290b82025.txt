@@ -1,0 +1,25 @@
+Description:
+Functionalities introduced into alkanes during enantioselective oxidation of C(sp3)H bonds.
+
+Text:
+Direct enantioselective functionalization of C(sp3)H bonds in organic molecules is one of the 
+ultimate goals of organic synthesis due to its remarkable atomeconomy and stepeconomy (16). Methods such as the enantioselective oxidation of the C(sp3)H bonds, which involve directly 
+introducing oxygen functionalities into alkanes, hold significant potential for the discovery and 
+development of new pharmaceuticals (79). Chiral oxygenated aliphatic structures are common in 
+bioactive compounds such as natural products and pharmaceuticals (10, 11). Recent progress has 
+been made in enantioselective CC and CN bond formation from C(sp3)H bonds using transition
+metal catalysts (1216). However, the enantioselective formation of CO bonds by C(sp3)H 
+oxidation remains a formidable challenge (Fig. 1A) (1724).
+
+
+---
+
+Description:
+A harder base that coordinates strongly with hard acids according to the HSAB theory.
+
+Text:
+This difficulty stems from oxygens 
+tendency as a harder base to coordinate strongly with hard acids according to the Hard and Soft 
+Acids and Bases (HSAB) theory (2526). Oxygen often exhibits poor coordination with late
+transition metals, which are soft acids (2729). This mismatch results in low reactivity and 
+enantioselectivity in these oxidation reactions and frequently causes overoxidation to ketones. (30). httpsdoi.org10.26434chemrxiv2024hqqb0 ORCID httpsorcid.org0000000247003765 Content not peerreviewed by ChemRxiv. License CC BY 4.0

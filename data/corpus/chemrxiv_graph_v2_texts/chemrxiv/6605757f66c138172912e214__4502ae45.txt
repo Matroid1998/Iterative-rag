@@ -1,0 +1,13 @@
+Description:
+Predicted to form superdense hexagonal structures with quartz topology.
+
+Text:
+1b displays the two alternating carbon sites, 
+represented by brown and white spheres, with the structural parameters provided in Table 1b, which 
+shows the same interatomic distances and cell volume (cf. Table 1a) during the transformation from 
+C8 to (C1)4(C2)4. Very recently, we have ab initio predicted superdense hexagonal boron pnictides BX (X  N, P, As, 
+Sb, Bi) with quartz (qtz) topology 1012. In the present work, we used the (C1)4(C2)4 template 
+structure to predict and investigate within DFT a new family of tetragonal equiatomic boron 
+pnictides BX with crb topology that exhibit only BX bonds, avoiding energetically unfavorable 
+BB or XX bonds. Fig. 1d displays the square B2X2 motif that characterizes these structures, 
+along with the resulting edge and cornersharing BX4 tetrahedra.

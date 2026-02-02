@@ -1,0 +1,30 @@
+Description:
+A metal ion used in mixed metal ZIFs.
+
+Text:
+The imidazolates structuredirecting effect arises from 
+the close resemblance of the metalimidazolatemetal bond angle (around 145) to 
+the SiOSi bond angle observed in silicates and zeolites.3 ZIFs are often subject to 
+studies focusing on gas physisorption and separation applications due to their porous 
+nature combined with a rather high chemical and thermal stability inherent to some 
+members of this class of materials.4,5 In the last decade many ZIF structures have been 
+reported including mixed linker and mixed metal ZIFs68 that feature different metal 
+ions, such as Fe2,9 Cd2,10,11 Mn2,12 and Mg2.13 By formal substitution of half of the 
+divalent metal ions by trivalent B3 and the other half by monovalent metal ions, such 
+as Cu or Li, a related class of materials denoted as boron imidazolate frameworks 
+(BIFs) can be obtained.14,15 While some BIFs exhibit zeolitic topologies, others such 
+as BIF40 (chemical composition CuBH(bim)3, bim  benzimidazolate) feature 
+coordination units with trigonal connectivity and exhibit reductive properties originating 
+from the hydridic hydrogen atom of BH(bim)3.15,16 
+In addition to the highly porous crystalline structures of ZIFs, their thermal properties 
+have recently attracted significant interest.17 Studies have shown that certain ZIFs, 
+specifically those based on Zn2, Co2, and Fe2, can melt when heated to 
+temperatures between around 400 C to 600 C under an inert atmosphere.1821 Upon 
+cooling, these melts form amorphous glasses that retain some of their 
+microporosity,22,23 making them valuable for applications such as gas separation 
+membranes24,25 and (quasi)solid electrolytes.26,27 This melting and glassforming 
+ability is particularly noteworthy as it allows the materials to be shaped and molded in 
+their liquid state, a capability not available in conventional nonmeltable MOFs or 
+coordination networks.28,29 This unique property expands the practical applications and 
+processing possibilities of ZIFbased materials, offering new opportunities for 
+innovation in various fields.

@@ -1,0 +1,10 @@
+Description:
+A greenhouse gas accounting for over 60% of the global warming effect.
+
+Text:
+The average global temperature has been steadily rising since the late 19th century and was c.a. 1.2 
+Celsius degree warmer in 2023 than the preindustrial average.1 This warming is largely driven by 
+greenhouse gas emissions, with CO accounting for over 60  of the effect.2 Amongst various strategies 
+to manage CO2 emission levels, direct air capture (DAC) offers a solution by capturing CO2 directly from 
+ambient air.3,4 This process is challenging due to trace amounts of CO2 concentration (around 400 ppm) 
+and low selective capturing of CO2 over atmospheric water vapor.

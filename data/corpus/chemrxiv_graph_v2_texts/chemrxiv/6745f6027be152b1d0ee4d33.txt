@@ -1,0 +1,12 @@
+Description:
+Polymorphs with specific solubility curves and relative stability in solution.
+
+Text:
+Expanding on a pre
+vious contribution focused on the thermodynamics of
+liquidliquid phase separations in systems of disordered
+peptides,17 we use a limited number of equilibrium
+molecular dynamics (MD) simulations (in this case 8
+10) to efficiently estimate polymorphspecific solubility
+curves, relative stability and limit of solution stability
+of Lglutamic acid (LGA) polymorphs.

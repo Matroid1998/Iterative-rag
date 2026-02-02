@@ -1,0 +1,12 @@
+Description:
+A nucleobase that typically pairs with guanine through hydrogen bonding.
+
+Text:
+Unlike normal guanine, 8oxoG can more readily form
+a hydrogenbonded pair with adenine (A) instead of cytosine (C), resulting in CG to AT
+mutations during replication.10,11 Calculations at the singlefew basenucleotide level sug
+gest that 8oxoG has an even lower VIE than G.1215 Moreover, computational investigations
+showed that Grich5,11,15,16 and 8oxoGcontaining11,15 fragments of up to 3 base pairs have
+lower IEs than single G and 8oxoG fragments, consistent with experimental studies9,17,18
+2
+httpsdoi.org10.26434chemrxiv20239djz2v2 ORCID httpsorcid.org0000000342074350 Content not peerreviewed by ChemRxiv. License CC BY 4.0

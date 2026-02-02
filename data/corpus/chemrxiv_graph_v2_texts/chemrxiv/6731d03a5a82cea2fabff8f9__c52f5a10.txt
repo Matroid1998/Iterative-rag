@@ -1,0 +1,14 @@
+Description:
+Involved in biosynthesis pathways.
+
+Text:
+Mechanisms of cofactorfree decarboxylases 
+Decarboxylases are involved in numerous catabolic and anabolic pathways, including fatty acid 
+biosynthesis and the production of biogenic amines such as gaminobutyric acid (GABA) or histamine. Evolution generated a vast structural and mechanistic diversity to accomplish this reaction. Enzymatic 
+decarboxylation reactions encompass both oxidative1a and nonoxidative reactions via heterolytic and 
+homolytic mechanisms, and employ diverse cofactors. These include pyridoxal phosphate, thiamine 
+diphosphate, the pyruvoyl group, heme as well as nonheme diiron centers, and even FAD in a 
+photobiocatalytic reaction.1 In contrast, only three decarboxylases are known to catalyze 
+decarboxylations without a cofactor. Orotidine5monophosphate decarboxylase, bacterial phenolic acid 
+decarboxylase, and arylmalonate decarboxylase2 stabilize the evolving carbanion in the transition state 
+without the delocalization into a cofactorsystem.

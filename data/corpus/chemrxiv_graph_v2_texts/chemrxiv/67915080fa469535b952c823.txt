@@ -1,0 +1,18 @@
+Description:
+A toxic byproduct produced from halogenated polymers during low-oxygen pyrolysis.
+
+Text:
+Current solutions typically favor mechanical 
+recycling, which inherently lowers the quality of any products, lowoxygen pyrolysis, which is 
+more energy intensive, returns plastics to crude oil, naptha, or fuel, but is more energy intensive 
+and produces toxic byproducts such as dioxin from halogenated polymers.13 In contrast, chemical 
+recycling through depolymerization has the potential to be more tolerant of contamination and 
+mixedwaste streamsavoiding the laborious presorting required for other recycling 
+techniques.4,5 In contrast to mechanical recycling, chemical recycling to monomers may allow for 
+regeneration of the respective parent material of the same quality.68 However, despite significant 
+efforts, many processes face severe technical and economic hurdlesranging from materials and 
+catalyst design to reaction optimization on mixed waste streamsand hence are only utilized on 
+less than 5 of plastic waste.6 
+Given these extensive experimental challenges in chemical recycling, the development of 
+assistive computational and informatics toolkits will undoubtedly accelerate efforts to develop 
+httpsdoi.org10.26434chemrxiv2025kw811 ORCID httpsorcid.org0000000290416725 Content not peerreviewed by ChemRxiv.

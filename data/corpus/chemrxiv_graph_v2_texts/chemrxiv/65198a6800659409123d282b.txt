@@ -1,0 +1,26 @@
+Description:
+A dissolved gas in geothermal fluids that can exsolve with changes in pressure and temperature.
+
+Text:
+The design and operation of a geothermal plant are heavily impacted by the phase behavior of the fluids 
+extracted from the subsurface. The phase behavior of the aqueous fluid is a function of its composition 
+and pressure  temperature conditions. Deep geothermal fluids are often highly saline (6 M) and 
+contain dissolved gases (e.g., CO2, CH4, N2). Any change in pressure and temperature across the 
+geothermal loop will disturb the existing equilibrium conditions, triggering mineral precipitation and 
+gas exsolution until a new equilibrium is achieved.
+
+
+---
+
+Description:
+The release of CO2 from the brine increases the pH, which promotes scaling.
+
+Text:
+For a given temperature and composition, the pressure at which the first bubble of gas appears is called 
+the bubble point pressure. Operating in a twophase regime is usually undesired and can be avoided if 
+the bubble point pressure is known. The amount of gas released from the aqueous solution upon pressure 
+or temperature shifts impacts the aqueous chemistry and thermophysical properties of the geothermal 
+mixture. For instance, the release of CO2 from the brine increases the pH, which promotes scaling. Changes in the gasliquidratio (GLR) in a twophase system alter the fluid density, specific heat, 
+httpsdoi.org10.26434chemrxiv20234hgnm ORCID httpsorcid.org000000030475323X Content not peerreviewed by ChemRxiv. License CC BY 4.0
+
+2

@@ -1,0 +1,18 @@
+Description:
+Has a reduction potential of 2.0 V vs SCE, making it accessible to single-electron transfer strategies.
+
+Text:
+However, these photoredoxcatalyzed methods have pre
+dominantly focused on trifluoromethylsubstituted arenes 
+and trifluoroacetic acid derivatives, utilizing potent reduct
+ants, such as excitedstate transition metal complexes,1521 
+CO2 radical anions, or photoexcited organic catalysts.2243 
+(Figure 1A). This focus is understandable, as the relatively positive re
+duction potentials of trifluoromethyl arenes (1.8 V vs 
+SCE)34 and trifluoroacetic acid derivatives (2.0 V vs SCE)38 
+make them more accessible to singleelectron transfer 
+(SET)based strategies (Figure 1B). However, as the num
+ber of fluorine decreases, the reduction potential similarly 
+becomes more negative, rendering monofluorinated com
+pounds particularly challenging substrates for SETbased 
+methods.

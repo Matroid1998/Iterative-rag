@@ -1,0 +1,14 @@
+Description:
+Exhibits membrane conductance with unique surface chemistry in aqueous solutions.
+
+Text:
+As examples of this challenge, the following wellknown pHinduced phenomena can 
+be considered Pressuredriven electroosmosis through hexagonal boron nitride 
+nanocapillaries15, carbon nanotubes16, graphene oxide membrane conductance17, and 
+streaming currents through MoS2 pores18, all of which have vastly different surface chemistries 
+in aqueous solutions. All these diverse experiments display a remarkable increase in current 
+(x 23) when the pH of the surrounding bulk solution is increased from neutral to mildly basic 
+(1 mM NaOH, pH 11). Hydrophobic nanoparticles, droplets, and gas bubbles of different 
+materials all display the same pHdependent change in electrophoretic mobility1925. Increasing 
+the pH of the surrounding aqueous bulk phase to the same mildly basic value results also in 
+a x 23 increase in droplet mobility under the influence of an external electrostatic field.

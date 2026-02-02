@@ -1,0 +1,13 @@
+Description:
+An API affected by polymorphs, impacting its solubility, bioavailability, stability, and dissolution rate.
+
+Text:
+Such forms may lead to the inability to obtain a crystal 
+form that was previously prepared for pharmaceutical or other applications, thus necessitate the 
+redesign of the production process.2 They can alter the solubility, bioavailability, stability, and 
+dissolution rate of the API, significantly impacting the quality, efficacy, and safety of 
+pharmaceutical products. The pharmaceutical industry has suffered a few disastrous issues due 
+to lateappearing polymorphs, leading to patent disputes, regulatory issues, and even market 
+recalls, including the famous cases of ritonavir,3 rotigotine,4 and many others.2 Therefore, it is 
+crucial to identify and characterize all possible polymorphs of a given API and understand the 
+factors that influence their formation and transformation.

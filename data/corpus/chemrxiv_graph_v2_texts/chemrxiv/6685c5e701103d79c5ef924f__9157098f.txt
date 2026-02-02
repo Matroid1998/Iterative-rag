@@ -1,0 +1,14 @@
+Description:
+A carbon source used to create fully 13C-substituted cultures for metabolic tracking.
+
+Text:
+For example, researchers can grow an organism on a medium containing (13C)glucose 
+54 
+as the only carbon source to create a fully 13Csubstituted culture and subsequently feed any 
+55 
+precursor in its naturally abundant (i.e. primarily 12C) form and track its metabolism via mass 
+56 
+spectrometry. This technique has been used in natural product studies related to biosynthesis,4,5 
+57 
+structural elucidation,6 and discovery.7 
+58

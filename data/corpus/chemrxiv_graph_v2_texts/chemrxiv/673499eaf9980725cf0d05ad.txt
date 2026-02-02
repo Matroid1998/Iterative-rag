@@ -1,0 +1,12 @@
+Description:
+Used in reversed-phase separation when functionalized with hydrophobic ligands for its well-studied separation mechanisms and robustness.
+
+Text:
+Therefore, liquid 
+chromatography (LC) is coupled with MS detection to facilitate the separation of isomers and decrease the strong ion 
+suppression originating from the multitude of coeluting compounds3,4. To date, most LCESIMS experiments in discovery lipidomics used analyticalbore column dimension with 2.1 mm 
+internal diameter (ID) and up to 150 mm length at 200500 Lmin flow rates. Reversedphase (RP) separation using fully 
+or superficially porous silica functionalized with hydrophobic ligands (C4 to C30) remains a method of choice due to the 
+wellstudied separation mechanisms and overall robustness of the technique3,5. Recently, several groups demonstrated that 
+nanoscale LC coupling with nanoelectrospray ionization (nLCNSIMS), widely utilized in protein biomarker research, 
+may also be a valuable analytical configuration for lipidomic studies.

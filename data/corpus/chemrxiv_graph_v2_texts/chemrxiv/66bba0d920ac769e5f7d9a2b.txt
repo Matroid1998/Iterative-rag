@@ -1,0 +1,17 @@
+Description:
+Involved in hydrogen bonding interactions that drive entropy loss in aqueous polymer solutions.
+
+Text:
+In aqueous polymer 
+solutions, the LCST phase transition is primarily driven by entropy loss related to hydrogen 
+bonding interactions.1 Entropy loss becomes dominant upon heating, results in the dehydration 
+of the polymer and phase separation1,2 LCST behavior can be tuned by modifying the hydrophilic 
+character of the polymers through copolymerization with hydrophilic or hydrophobic comonomers 
+or through endgroup modifications.35 
+Poly(2oxazoline)s (POx) are polymers with tertiary amide repeating units, synthesized by cationic 
+ring opening polymerization.6,7 This synthetic polymer family has recently received increased 
+attention, as they have been found to have a wide scope of potential applications, including 
+surface coatings,8,9 indirect food additives,10,11 drug delivery systems,1214 and hydrogels.1520 
+Recently, a POxbased polymerdrug conjugate successfully completed phase I clinical trials,21 
+and a POxbased hemostatic patch was approved for clinical use.22,23 The water solubility of POx 
+homopolymers mainly depends on the length of the alkyl groups of the sidechain.

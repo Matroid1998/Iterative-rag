@@ -1,0 +1,18 @@
+Description:
+Provides ionic conductivity by filling the pores of a separator in electrolysis.
+
+Text:
+The key 
+difference between AWE and AEMbased electrolysis is that 
+in the latter a nonporous polymeric membrane possessing 
+intrinsic anionic conductivity is used, whereas in 
+conventional AWE the porous electrode separator has no 
+ionic conductivity, with conductivity being provided by 
+KOH filling the pores of a separator. This allows to operate the cells at higher current densities 
+due to lower ohmic resistance, as well as to pressurize 
+hydrogen electrochemically, easing storage and final 
+utilization, reducing the chemical risk thanks the nonporous 
+nature of the polymeric membrane 4. Corresponding authors 
+Email enrica.fontanovacnr.it (E.F.); 
+rosaria.ciriminnacnr.it (R.C. ); alberto.figolicnr.it 
+(A.F. ); mario.pagliarocnr.it (M.P.)

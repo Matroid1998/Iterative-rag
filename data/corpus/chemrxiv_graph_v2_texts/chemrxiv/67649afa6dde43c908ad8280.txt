@@ -1,0 +1,9 @@
+Description:
+Contains negatively charged nitrogen vacancy defects.
+
+Text:
+Molecules and crystals are seldom electrically neutral. In crystals, excess or depletion of charge
+compensates for the presence of defects, which are present in significant percentages even in the
+purest samples of materials such as diamond (the negatively charged nitrogen vacancy). Charges
+on molecular systems drive a number of mechanisms. The opposing charges on the components
+of an ionic liquid result in their solubility and drive their electrostatic interactions.

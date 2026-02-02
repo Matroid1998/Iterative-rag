@@ -1,0 +1,36 @@
+Description:
+A gas molecule that can inhibit or damage hydrogenase enzymes.
+
+Text:
+The
+hydrogenase
+family
+of
+enzymes
+are
+key
+for H2 transformation in many
+microorganisms and they have recently attracted attention due to their ability to act as efficient
+catalysts to oxidize hydrogen and produce biofuel (H2 2 H  2 e) or even act as part of
+lightdriven production pipelines of H2 through water splitting16. However, some of the
+members of this family of enzymes are inhibited or irreversibly damaged and destroyed by gas
+molecules present in the environment, such as O2 and CO710. Therefore, efforts have been made
+to develop strategies to rectify this problem and achieve inhibitortolerant enzymes1122. One
+possible strategy to achieve inhibitortolerant enzymes can be blocking the access of these
+inhibitors to the catalytic site by designing mutant forms through tunnel engineering16,2330.
+
+
+---
+
+Description:
+A gas molecule studied for its diffusion inside NiFe hydrogenase.
+
+Text:
+This is evidence that tunnel engineering is a feasible
+strategy to achieve CO and O2 tolerant hydrogenases33. Leroux et al. introduced protein film voltammetry, an experimental method that enabled
+the study of kinetics of binding and release of CO and other gas molecules from NiFe
+hydrogenases in a quantitative manner29. Using this technique, they quantified the diffusion of
+CO, H2 and O2 inside the NiFe hydrogenase from Desulfovibrio fructosovorans (Figure 1A)34. In the work of Liebgott et al, point mutations in this NiFe hydrogenase were introduced with
+the goal of understanding how changes in the structure of the tunnels can modulate the diffusion
+of gas molecules14,34. They created 10 different mutants, with mutations at positions V74 andor
+L122 of the large subunit (Figure 1B).

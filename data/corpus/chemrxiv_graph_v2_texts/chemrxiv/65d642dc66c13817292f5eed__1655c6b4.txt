@@ -1,0 +1,13 @@
+Description:
+A capping agent used to terminate failure sequences in oligo synthesis.
+
+Text:
+Examples include but are not limited to cartridge purification,12 fluorous affinity 
+purification,34 solid phase catchandrelease purification,56 and biotinstreptavidin mediated affinity 
+purification.79 Among these efforts, our research group reported a method called catchingby
+polymerization (CBP, Figure 1).1011 The CBP method involves tagging the fulllength sequences with a 
+methacrylamide polymerizable tagging phosphoramidite (PTP, 1ad) in the last cycle of automated oligo 
+synthesis. The failure sequences are capped with acetic anhydride, and thus are not tagged. After 
+deprotection and cleavage under standard conditions, the crude product contains the desired fulllength 
+oligos having a methacrylamide polymerizable group (2), and failure sequences (3) and other impurities 
+that do not have a polymerizable group.

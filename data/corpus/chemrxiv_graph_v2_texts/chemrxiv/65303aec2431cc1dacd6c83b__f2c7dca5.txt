@@ -1,0 +1,36 @@
+Description:
+Produced from water using electrolysis and used to power proton exchange membrane fuel cells.
+
+Text:
+Beyond a shadow of a doubt, our generations are witnessing the energy revolution, in 
+which fossil fuels are gradually being replaced by renewable energy sources.13 In that sense, 
+proton exchange membrane fuel cells (PEMFCs) accompanied by batteries, play a key role in 
+establishing fully electrified transportation and replacing conventional internal combustion 
+engine vehicles.35 To complete the water cycle, PEMFCs will also have to be powered by 
+using green hydrogen produced from water using electrolysis where the electrical energy is 
+sourced using emissionsfree sources such as wind and solar energy.6 However, while 
+establishing supply, storage and transportation is a grand challenge by itself,7 PEMFCs as a 
+downstream technology for hydrogen use also have to solve many major bottlenecks to keep 
+up with the massive scalability of hydrogen technologies in the next decade.810 Namely, one 
+of the largest such bottlenecks can be found in the membrane electrode assembly (MEA)  the 
+Ptbased electrocatalyst.
+
+
+---
+
+Description:
+Involved in the anodic hydrogen oxidation reaction (HOR) in electrocatalysis.
+
+Text:
+Although the electrocatalyst is essential for both the anodic hydrogen 
+oxidation reaction (HOR) and the cathodic oxygen reduction reaction (ORR),9 the cathode 
+requires many times higher amount of the Ptbased electrocatalyst than the anode resulting 
+from significantly slower kinetics of the ORR.11 On the other hand, although there are various 
+very important studies about nonprecious group metal (nonPGM) electrocatalysts,1215 in 
+reality the only electrocatalyst applied at the production level for PEMFCs used for transport 
+applications is still the Ptbased electrocatalyst.16,17 Due to a very high price of deficient Pt, it 
+represents almost half of the total costs of the PEMFC system manufacturing,18 even when 
+considering the economies of scale.19 One of the most promising approaches to reduce both the 
+quantity of Pt per vehicle as well as the costs related to platinum per PEMFC system is to alloy 
+Pt with a less noble and at the same time less expensive metal (M  Co, Cu, Fe or Ni),16,2024 
+which enables better Pt utilization, i.e.

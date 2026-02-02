@@ -1,0 +1,21 @@
+Description:
+Compounds that may combine magnetic ordering and spin-orbit coupling induced anisotropy.
+
+Text:
+Compounds containing lanthanides (R), heavy met
+als (M), and pnictides (X), especially those with Eu,
+may combine magnetic ordering, spinorbitcoupling
+induced anisotropy, and topologically nontrivial trans
+port properties. For example, the EuInP ternary sys
+tem contains the highly anisotropic 2D layered com
+pound EuIn2P2 (space group P63mmc) with large
+magnetoresistance,1 and a pair of orthorhombic com
+pounds with narrow band gaps and tunable magnetism
+in Eu3InP3 (Pnma)2 and Eu3In2P4 (Pnnm).3 The Eu
+SnP ternary system adds one electron but still con
+tains a similar set of phases, including the anisotropic
+layered compound EuSn2P2 (R3m),4 which forms in
+a different space group from EuIn2P2 because the lat
+ter has an InIn bond to satisfy the Zintl concept of
+valenceprecise bonding after donation of the Eu2
+electrons.

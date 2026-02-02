@@ -1,0 +1,21 @@
+Description:
+A component of ordinary Portland cement that reacts with water to influence early viscoelastic properties.
+
+Text:
+19
+The reactivity of the cementitious binder in the first minutes of hydration is crucially important for the
+20
+fresh properties of concrete. Therefore, a more comprehensive understanding of the initial reactions of
+21
+the main ordinary Portland cement (OPC) components is relevant for precisely controlling the hydration
+22
+kinetics and the rheological parameters of (blended) cements. 23
+The early viscoelastic properties of OPCbased materials, such as concrete, are significantly influenced
+24
+by the reactions involving tricalcium aluminate (C3A) 13. In the first minutes of hydration, the reaction
+25
+of C3A, which typically constitutes up to 10 wt. of OPC 4, 5, with water leads to the precipitation of
+26
+calciumaluminatehydrates (CAH, AFm phases). If not adequately controlled, this process results in a
+27
+swift decline in workability.

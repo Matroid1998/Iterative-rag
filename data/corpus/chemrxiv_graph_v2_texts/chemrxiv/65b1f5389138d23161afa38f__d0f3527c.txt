@@ -1,0 +1,10 @@
+Description:
+A linear carbonate with a low dielectric constant used to mitigate viscosity and lower the melting point in electrolytes.
+
+Text:
+The LIB electrolyes constitute 
+mixtures of solvents with high (e.g. EC   90 at 40C) and low (DMC   3.1 at 25C) 
+dielectric constants which have distinct roles in the electrolyte 6. The linear carbonates (e.g. DMC) serve to mitigate the viscosity and lower the melting point. The cyclic carbonates (e.g. EC), on the other hand, have high dielecric constants which can easily dislove the lithium salts, 
+which eventually solvates the cations and anions enabling fast mobility of the Li ions between 
+the electrodes 7. Despite large variation in the magnitude of their dielectric constants, both 
+cyclic and linear carbonates actively participate in forming the lithium solvation sheath 8.

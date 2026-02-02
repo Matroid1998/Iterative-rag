@@ -1,0 +1,19 @@
+Description:
+A phase of zinc oxide that can revert back to wurtzite phase upon pressure release.
+
+Text:
+).910 
+Zinc oxide is one of the most studied wide bandgap ionic semiconductors.11 At ambient conditions, 
+ZnO has a wurtzite structure (P63mc) that transforms into rocksalt one (Fm3m) at pressures above 
+5 GPa (the transition pressure ptr is strongly dependent on temperature, grain size, etc., while 
+equilibrium transition pressure peq is only weakly dependent on T).8,1219 Upon pressure release, as
+synthesized rsZnO usually reverts back to wurtzite phase,12 with significant hysteresis at temperatures 
+below 1000 K. Occasionally, rsZnO can be recovered in the nanocrystalline state either in a mixture 
+with wZnO or even in a pure form  in some special cases.4,13 Recently, the recovery of the rsZnO 
+has been intensively studied.8,1119 It was found that macroscopic ( 100 mm3) nanocrystalline (grain 
+size of 2880 nm) samples of singlephase rsZnO can be recovered at ambient conditions from 
+7.7 GPa and 770820 K when wZnO nanopowders with average grain size below 45 nm and narrow 
+particle size distribution are used as precursors.4,1314 The recovery of rsZnO synthesized from ball
+milled wZnO (grain size  12 nm) at 15 GPa and 550 K in a diamond anvil cell (DAC) has also been 
+reported.8 However, the attempts to release pressure down to 0.1 GPa in a DAC indicated that rsZnO 
+could be retained as a single phase for only 10 min.15 It was assumed that only wellcrystallized

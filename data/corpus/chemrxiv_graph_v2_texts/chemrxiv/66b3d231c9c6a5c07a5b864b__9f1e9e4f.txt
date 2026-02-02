@@ -1,0 +1,11 @@
+Description:
+A feedstock cracked to produce light olefins and hydrogen byproduct.
+
+Text:
+. The production of paraffins and olefins is one of the most farreaching industrial processes 
+performed today, with global ethylene production exceeding 150 million tons per year.1 Production 
+is primarily performed by cracking naphtha to produce light olefins, hydrogen byproduct, and 
+residual paraffins, resulting in a complex mixture that must be purified.1 Purities of at least 95 
+are needed for commodity chemical applications and 99.5 for polyolefin production.2 Cryogenic 
+distillation is the current state of the art to achieve such high purities, but it is a highly energy
+intensive process because temperatures as low as 160 C are required.

@@ -1,0 +1,16 @@
+Description:
+A compound whose solubility product can be determined using laboratory automation and data science.
+
+Text:
+Educ. 94, 592597 (2017). 31 McCluskey, A. R. Is There Still a Place for Linearization
+in the Chemistry Curriculum? J. Chem. Educ. 100,
+41744176 (2023). 32 Menke, E. J. Series of Jupyter Notebooks Using Python
+for an Analytical Chemistry Course. J. Chem. Educ. 97,
+38993903 (2020). 33 Fink, F., Hoffmann, A.  HerresPawlis, S. Results of
+a ThreeYear Survey on the Implementation of Research
+Data Management and the Electronic Laboratory Note
+book (ELN) Chemotion in an Advanced Inorganic Lab
+Course. J. Chem. Educ. 100, 42874297 (2023). 34 Norquist, A. J., JonesThomson, G., He, K., Egg, T. 
+Schrier, J. A Modern Twist on an Old Measurement
+Using Laboratory Automation and Data Science to De
+termine the Solubility Product of Lead Iodide. J. Chem. Educ. 100, 34453453 (2023).

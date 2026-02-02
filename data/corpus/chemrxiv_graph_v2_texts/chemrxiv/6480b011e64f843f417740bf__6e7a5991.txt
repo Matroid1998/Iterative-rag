@@ -1,0 +1,26 @@
+Description:
+Redox-active molecules used in electrochemical systems for CO2 capture.
+
+Text:
+A range of electrochemical carbon dioxide capture 
+systems have been reported, including those based on electrochemically driven pH swings,8 
+capacitive systems,9,10 and systems that employ redoxactive molecules such as quinones, 
+both in protic and aprotic electrolytes.1115 Using redoxactive quinone molecules is one of the 
+largest areas of research for new technologies due to their highly reversible redoxactivity and 
+stoichiometric capture of CO2 upon reduction.
+
+
+---
+
+Description:
+Redox-active molecules involved in electrochemically driven carboxylation.
+
+Text:
+Electrochemically driven carboxylation of reduced quinones has been well documented.16,17 
+While neutral anthraquinone does not show carbon dioxide binding, electrochemical reduction 
+to form a radical anion (1 electron reduction) or dianion (2 electron reduction) activates this 
+molecule to bind CO2 in either an EECC or ECEC (E  electron transfer, C  chemical reaction) 
+mechanism (Scheme 1).18 While most early studies used analytical electrochemistry 
+techniques to study the carbon dioxide capture of quinones and other redoxactive 
+molecules,19,20 more recent work has begun to develop practical devices that can capture 
+carbon dioxide in an electrochemically driven process.21

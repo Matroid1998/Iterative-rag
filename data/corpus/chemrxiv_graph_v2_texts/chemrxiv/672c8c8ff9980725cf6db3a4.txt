@@ -1,0 +1,12 @@
+Description:
+A semiconductor material encountering quantum mechanical effects when layer thickness is scaled below 4 nm.
+
+Text:
+Maintaining the continued scaling of silicon technology has become increasingly challenging. This ongoing scaling process has led to soaring costs and highly intricate processing, encom
+passing over a thousand steps for each wafer. Moreover, as the industry approaches extremely
+small gate lengths (LG) below 12 nm, scaling encounters an inherent physical barrier, as the
+channel thickness t needs to be notably decreased to ensure the device performance remains
+optimal. A rough guideline is that t should be smaller than LG4 to ensure effective gate
+control. However, in silicon and other threedimensional (3D) semiconductors, as the layer
+thickness is scaled below 4 nm, quantum mechanical effects become increasingly prominent. 2
+httpsdoi.org10.26434chemrxiv202472gpv ORCID httpsorcid.org0000000277941904 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

@@ -1,0 +1,17 @@
+Description:
+A molecular n-type dopant used in organic semiconductors.
+
+Text:
+There the polymer is
+attacked by the trityl cation instead of a proton, followed by sub
+sequent CT with a neighbouring polymer chain.17 Both Lewis
+acid doping and electrophilic attack show remarkable efficiencies
+of ptype doping, and avoid typical issues caused by molecular
+dopants such as deterioration of film morphology. Very recently, a new ntype doping method using superbase
+compounds was reported and shown to significantly enhance ef
+ficiency in doping the molecular OSCs PCBM and N2200 copoly
+mer, compared to molecular ntype doping with NDMBI.21 In
+analogy to the protonation in Lewis acid doping, a deprotonation
+of PCBM brought about by the superbase compound is believed
+to occur, with subsequent CT between deprotonated PCBM and
+intact PCBM entities.

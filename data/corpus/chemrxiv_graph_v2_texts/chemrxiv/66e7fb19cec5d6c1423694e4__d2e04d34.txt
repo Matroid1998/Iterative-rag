@@ -1,0 +1,15 @@
+Description:
+Involved in the oxidation to CO2 by molecular oxygen.
+
+Text:
+This prevents the explicit, atomistic modelling 
+of the full catalytic progression.5 Indeed, the surface motifs that 
+are present under reaction conditions and the reaction 
+mechanisms that operate on those surfaces are typically 
+unknown and continuously adapt to the progress of the reaction 
+and the associated changes in chemical potential. The CO oxidation to CO2 by molecular oxygen is an example of 
+an important reaction for environmental catalysis and for the 
+purification of hydrogen for energy generation.6 This reaction can 
+be catalyzed by perovskite oxides.3, 
+67 However, the 
+mechanisms operating on perovskites are not well understood.

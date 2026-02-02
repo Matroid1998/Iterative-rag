@@ -1,0 +1,9 @@
+Description:
+A promising energy carrier for bridging the gap between supply and demand of renewable energies.
+
+Text:
+Green hydrogen is a promising energy carrier to bridge the gap between supply and demand of renewable energies. Amongst the 
+technologies to produce hydrogen by water splitting, proton exchange membrane water electrolysis (PEMWE) is one of the most promising 
+approaches. The major advantages of this technology are a high power density resulting in a compact stack architecture, and its capability to 
+follow fast load fluctuations.1 These two advantages are especially important considering a future scaleup of the technology to Gigawatt
+scales and the connection to renewable, inherently intermittent energy sources.

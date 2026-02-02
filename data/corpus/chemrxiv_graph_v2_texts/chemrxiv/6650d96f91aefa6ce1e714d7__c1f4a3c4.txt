@@ -1,0 +1,28 @@
+Description:
+Investigated using Raman spectroscopy to understand line shapes and spectra decomposition.
+
+Text:
+In a previous review, we have considered the Raman spectroscopy of graphene and graphene oxide to 
+understand the number of lines and line shapes to be used for decomposing the spectra. Here we review 
+some literature about the Raman investigation of carbon nanotubes, focusing especially on the line shapes. Consider please the Fig.1, already shown in chemRxiv, reproduced from Wu et al., 2018, Milani et al., 
+2015, and compare the cases of graphite, graphene and singlewalled nanotube, SWNT. We have a band, 
+the G band, which is at about the same Raman shift, but the SWNT case is showing two components. This 
+is intriguing, since we know that the G band is originated by the graphite layer.
+
+
+---
+
+Description:
+A single layer of carbon atoms arranged in a two-dimensional honeycomb lattice.
+
+Text:
+In the singlewalled 
+nanotubes, a graphite layer is rolled up to form the tube. Consequently, in the Raman spectra we must 
+have the signature of curvature and related broken symmetry and quantization. The result is band splitting. Fig. 1 Here we reproduce the panel (a) of Figure 1 in Wu et al., 
+2018, Open Access, CC BYNC 3.0 DEED, which is giving the 
+Raman spectra of carbon solids and nanostructures, including 1D 
+carbon wires, spsp2 carbon, amorphous carbon (aC), graphite, 
+graphene, singlewalled carbon nanotubes (SWNT), C60, and 
+diamond. Raman spectra have been reproduced with permission 
+from Milani et al., 2015, Open Access, CC BY 2.0 DEED, Copyright 
+2015, BeilsteinInstitut. httpsdoi.org10.26434chemrxiv2024xw377 ORCID httpsorcid.org0000000345028974 Content not peerreviewed by ChemRxiv. License CC BY 4.0

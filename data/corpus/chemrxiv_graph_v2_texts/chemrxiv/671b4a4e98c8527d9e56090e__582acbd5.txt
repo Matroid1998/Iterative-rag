@@ -1,0 +1,19 @@
+Description:
+Used to synthesize oligoguanylic acids on the poly(C) template.
+
+Text:
+One of the first successful examples of nonenzymatic RNA
+selfreplication was demonstrated by Lohrmann and Orgel in
+1980 16, in which they used guanosine5phosphoroimidazo
+lides to synthesize oligoguanylic acids on the poly(C) tem
+plate. Unlike nucleotide triphosphates, phosphoroimida
+zolides proved to offer much higher reactivity and enabled the
+socalled primer extension reaction with the catalytic support
+of Pb2 and Zn2 cations 16. This process was improved
+a year later by applying a more reactive 2methylimidazole
+activating group instead of imidazole 17,18. However, this
+improvement did not resolve the original challenge of copy
+ing adenosine and uridine, which almost completely blocked
+further RNA strand synthesis. Enzymefree replication of nu
+cleic acids has been extensively studied by numerous groups
+since then.

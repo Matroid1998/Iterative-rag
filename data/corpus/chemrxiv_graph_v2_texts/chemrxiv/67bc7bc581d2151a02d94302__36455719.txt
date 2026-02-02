@@ -1,0 +1,15 @@
+Description:
+A high Ni variant of NMC used in batteries.
+
+Text:
+Recent efforts to 
+reduce Co content in NMC batteries, due to its high cost and 
+ethical concerns, have led to the development of high Ni 
+variants such as NMC622 (LiNi0.6Mn0.2Co0.2O). It is estimated 
+that, by 2050, the production of NMCbased LIBs from primary 
+resources to fulfill the future demand will lead to the emission 
+of greenhouse gases totaling 8.2 GtCO2eq.3 Thus, sustainable 
+recycling of NMCbased endoflife LIBs by recovering valuable 
+metals such as Li, Ni, Mn, and Co will not only reduce the burden 
+on primary resources but also minimize the environmental 
+impacts.

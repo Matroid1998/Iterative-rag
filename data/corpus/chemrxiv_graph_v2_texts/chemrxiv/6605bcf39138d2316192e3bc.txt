@@ -1,0 +1,40 @@
+Description:
+Obtained from water electrolysis powered by renewable energy sources as a key energy storage technology.
+
+Text:
+Solar (or green) hydrogen obtained from water 
+electrolysis powered by electricity obtained from renewable 
+energy sources is one of the two key energy storage 
+technologies 1. Alkaline water electrolysis (AWE) is 
+already used to produce approximately 12 of the 55 
+million tonnes H2 globally produced every at the surface of 
+lowcost nickelbased cathode in electrolysis cells normally 
+operated at 80 C in 30 KOH 2. Remarkably, as of late 
+2023 the installed capacity of electrolytic hydrogen stood at 
+860,000 tonnes for a 1.1 GW installed power 3. Scaling up, in general, is a considerable challenge. The 
+anion exchange membrane (AEM) water electrolysis has 
+long been identified as the key electrolysis technology 
+merging the low cost of AWE with the high efficiency of 
+proton exchange membrane electrolysis 4.
+
+
+---
+
+Description:
+Can be pressurized electrochemically for easier storage and utilization.
+
+Text:
+The key 
+difference between AWE and AEMbased electrolysis is that 
+in the latter a nonporous polymeric membrane possessing 
+intrinsic anionic conductivity is used, whereas in 
+conventional AWE the porous electrode separator has no 
+ionic conductivity, with conductivity being provided by 
+KOH filling the pores of a separator. This allows to operate the cells at higher current densities 
+due to lower ohmic resistance, as well as to pressurize 
+hydrogen electrochemically, easing storage and final 
+utilization, reducing the chemical risk thanks the nonporous 
+nature of the polymeric membrane 4. Corresponding authors 
+Email enrica.fontanovacnr.it (E.F.); 
+rosaria.ciriminnacnr.it (R.C. ); alberto.figolicnr.it 
+(A.F. ); mario.pagliarocnr.it (M.P.)

@@ -1,0 +1,44 @@
+Description:
+Have stiffer bonds, meaning their bond force constants are higher.
+
+Text:
+515
+On one hand, introducing a heavy atom into a molecular
+structure is like introducing a defect. Defects are wellknown
+to cause a reduction in the thermal conductance. 1619 On
+the other hand, one might expect that incorporating heav
+ier atoms into single molecules would increase their thermal
+conductance as the increased mass could shift more vibra
+tional frequencies below the Debye frequency of the elec
+trodes. This effect is related to the peak position in phonon
+transmission, which depends on the force constant of the
+bond, k, and the reduced mass between two atoms, 
+p 
+p
+k.
+(1)
+This concept is applied to explain why alkanes have higher
+thermal conductance compared to polyynes 20 polyynes
+have stiffer bonds, meaning their bond force constants are
+higher.
+
+
+---
+
+Description:
+Have a wider separation between phonon energy levels, leading to fewer levels below the Debye frequency of the electrodes than in alkanes.
+
+Text:
+As a result, there is a wider separation between
+phonon energy levels in polyynes, leading to fewer levels
+falling below the Debye frequency of the electrodes than in
+alkanes. In this paper, we will explore the role of heavy atoms and
+their impact on phonon transport through single molecule
+junctions. We will provide a detailed investigation into the
+impact of atomic mass on phonon propagation, aiming to
+shed new light on heat transfer at the single molecule level. By starting with a simple 1D forceconstant model and ex
+tending to a variety of molecular classes, we show that heav
+ier atoms can be used to reduce the thermal conductance of
+single molecules. Theory
+We evaluate the phonon thermal conductance, ph, using
+the nonequilibrium Greens function (NEGF) formalism.

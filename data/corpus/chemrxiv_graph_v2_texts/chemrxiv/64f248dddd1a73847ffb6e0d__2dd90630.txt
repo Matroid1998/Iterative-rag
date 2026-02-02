@@ -1,0 +1,19 @@
+Description:
+Complex compounds used in coupling reactions to form quaternary centers.
+
+Text:
+Modern pharmacophore designs are testing the limits of known 
+chemistry such that newly emerging radical crosscoupling tech
+niques are seeing increasing attention in drug discovery.1 For exam
+ple, the coupling of complex sp3hybridized tertiary carbons to (het
+ero)arenes to generate quaternary centers was rarely, if ever, em
+ployed a decade ago (Figure 1A).2 In this context, canonical 2e
+crosscoupling techniques such as Suzuki3 and Kumada4,5 reactions 
+suffer from low yields andor poor chemoselectivity in addition to 
+arduous preparation of organometallic reagents making them unre
+liable for modern medicinal chemistry campaigns.6,7 Crosselectro
+phile type couplings are known in such contexts and due to their rad
+ical nature are amongst the most useful for this purpose.811 That 
+said, there is a large demand for new methods that can take readily 
+available tertiary synthons and couple them directly to complex het
+eroaryl halides.

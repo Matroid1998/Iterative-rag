@@ -1,0 +1,13 @@
+Description:
+Involved in the oxygen reduction reaction (ORR), a critical process in fuel cells and metal-air batteries.
+
+Text:
+With the continuous advancements in technology, demand for efficient energy conversion and 
+storage technologies, such as fuel cells and rechargeable batteries, is growing rapidly.1,2 Fuel cells 
+and batteries are critical technologies in the shift away from polluting fossil fuel energy.3 The 
+oxygen reduction reaction (ORR) is a critical process in the operation of fuel cells and metalair 
+batteries, with highly active but expensive platinum group metal (PGM) electrocatalysts typically 
+used to drive sluggish 4electron ORR. The widespread commercialization of fuel cells is 
+intimately linked to production costs, particularly those related to electrode materials.4,5 
+Commercialization hinges on the discovery of costeffective, environmentally friendly, high
+performance electrode materials.

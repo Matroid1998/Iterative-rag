@@ -1,0 +1,13 @@
+Description:
+Has a high threshold energy of sputtering, around 150-200 eV, which helps minimize wall erosion in fusion reactors.
+
+Text:
+Tungsten is a prime candidate for plasmafacing components (PFCs) in fusion reactors. Being a 
+refractory metal, W exhibits exceptional hightemperature properties, making it an attractive 
+material for components exposed to the extreme conditions of fusion plasma 13. Of all metallic 
+elements, W has the highest melting point (3422 ), and at elevated temperatures, it exhibits the 
+highest tensile strength among metals 45. Additionally, W shows exceptional corrosion 
+resistance and is highly resistant to attacks by mineral acids. An important advantage of W is its 
+high threshold energy of sputtering, around 150200 eV for Deuterium (D) 67, which helps 
+minimize wall erosion. However, erosion could also occur due to unavoidable impurities, which 
+reduce the threshold value of the D sputtering energy 8.

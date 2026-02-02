@@ -1,0 +1,16 @@
+Description:
+Forms nanobelts with orientable surfaces in three-dimensional space.
+
+Text:
+An additional example of a topological property is the ori
+entability of a surface in the threedimensional space. While 
+the two surfaces of CPPs or carbon nanobelts are orientable, 
+an analogous macrocycle twisted by 180 along its circum
+ference resembles a Mbius strip, a structure with a non
+orientable surface. The interest in the latter type of struc
+tures emerged after the seminal work of Heilbronner in 
+1964,18 who predicted that annulenes with systems of 4n 
+electrons that could be mapped onto a Mbius strip dis
+played a phase inversion in the electron system and pos
+sessed the same resonance stabilization as nontwisted ar
+omatic annulenes with (4n2) electrons.

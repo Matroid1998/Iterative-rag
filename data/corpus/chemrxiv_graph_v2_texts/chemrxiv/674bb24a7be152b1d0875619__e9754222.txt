@@ -1,0 +1,59 @@
+Description:
+Referenced as a standard electrode potential in redox reactions.
+
+Text:
+The energy potential (E) required 
+to carry out the WOR is given with respect to the normal hydrogen electrode (NHE) at pH 0.8 
+22 2 22  2 
+ 1.78  
+
+(1) 
+2    
+
+ 2.73  
+
+(2) 
+22 4 2  4 
+
+ 1.23  
+
+(3) 
+httpsdoi.org10.26434chemrxiv20243lrxc ORCID httpsorcid.org0000000276653548 Content not peerreviewed by ChemRxiv. License CC BY 4.0
+
+3 
+
+ 22 
+
+(4) 
+22   2
+
+ 1.00  
+
+(5) 
+Redox reactions associated with the photocatalytic production of H2O2 from ORR are 
+summarized below in eq. (6)(9) with the electrode potentials (E) expressed with respect to the 
+normal hydrogen electrode (NHE) at pH 0.8 
+2  2
+
+ 0.33  
+
+(6) 
+2
+  2  22 
+
+ 1.44  
+
+(7) 
+2  2  222 
+
+ 0.695  
+
+(8) 
+2  2  422 
+
+ 1.23  
+
+(9) 
+22     
+
+ 0.87

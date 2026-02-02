@@ -1,0 +1,14 @@
+Description:
+Flammable compounds used in lithium ion battery electrolytes.
+
+Text:
+Although the exact electrolytic composion for present day lithium ion batteries (LIBs) may differ 
+among different scenarios, the electrolytes 1 usually employ a mixture of alkyl carbonates such 
+as ethylene carbonate (EC)), dimethyl carbonate (DMC)) and lithium conducting salts (e.g., 
+LiPF6) 2. Neverthless, alkyl carbonates are flammable, and this has been the main cause of 
+safety concerns to the LIB technology 3. For these reasons, therefore, there have been 
+considerable research efforts to mitigate those safety concerns, and to design alternative 
+electrolyte compositions with improved thermal stability that would be able to work in a broader 
+operative temperature range 4. The primary design concept in electrolyte engineering involves 
+balancing conflicting physicochemical properties such as low viscosity with high conductivity, 
+and low charge transfer resistance with electrode passivation 5.

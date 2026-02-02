@@ -1,0 +1,34 @@
+Description:
+Aliphatic 13C spins exhibit a doublet with a coupling of 35 Hz.
+
+Text:
+The splitting pattern of the observed 
+C signal due to the  coupling depends on the C chemical 
+shift and a particular design of the inversion pulse, enabling to 
+guess the C frequency range. However, to clearly identify a 
+doublet for  of 35 Hz for aliphatic 13C spins, 20 Hz reso
+lution or 50 ms evolution is required. Even for perdeuterated 
+proteins under 60 kHz MAS or protonated proteins under 100 
+kHz MAS, T2 for 13C is typically 30 ms8, thus this method is 
+not generally useful for solid protein samples. Here, we propose an alternative approach that encodes the C 
+chemical shifts as the signal intensity changes, instead of the 
+splitting pattern, of the scalarcoupled C spins.
+
+
+---
+
+Description:
+T2 for 13C is typically 30 ms under certain conditions.
+
+Text:
+The splitting pattern of the observed 
+C signal due to the  coupling depends on the C chemical 
+shift and a particular design of the inversion pulse, enabling to 
+guess the C frequency range. However, to clearly identify a 
+doublet for  of 35 Hz for aliphatic 13C spins, 20 Hz reso
+lution or 50 ms evolution is required. Even for perdeuterated 
+proteins under 60 kHz MAS or protonated proteins under 100 
+kHz MAS, T2 for 13C is typically 30 ms8, thus this method is 
+not generally useful for solid protein samples. Here, we propose an alternative approach that encodes the C 
+chemical shifts as the signal intensity changes, instead of the 
+splitting pattern, of the scalarcoupled C spins.

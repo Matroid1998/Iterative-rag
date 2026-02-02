@@ -1,0 +1,13 @@
+Description:
+Used for metabolic labeling in cellulo to track RNA molecules within biological systems.
+
+Text:
+The field of therapeutic RNA has gained significant attention due to its potential in revolutionizing 
+the treatment of genetic disorders, cancer, and infectious diseases13. Central to the development 
+of RNAbased therapeutics is in vitro transcription, which produces the desired synthetic RNA3 
+and allows for the incorporation of modified nucleotides3. Modifications of RNA are employed to 
+their stability and efficacy as therapeutic agents4. Besides, metabolic labeling in cellulo of RNA 
+through the addition of modified nucleotide triphosphates is widely used for tracking RNA 
+molecules within biological systems4. The ability to introduce specific modified nucleotides into 
+RNA strands can provide insights into RNA metabolism and function, underscoring the 
+importance of modified RNA labeling techniques4.

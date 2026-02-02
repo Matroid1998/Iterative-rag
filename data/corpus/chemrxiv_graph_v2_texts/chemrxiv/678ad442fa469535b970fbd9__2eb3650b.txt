@@ -1,0 +1,21 @@
+Description:
+Used in DRAM technology for designing optimal contacts between MOL and FEOL.
+
+Text:
+DRAM device scaling has gotten aggressive with each 
+progressing node 1,2. This aggressive scaling of DRAM 
+array results in significant bottleneck for DRAM device 
+fabrication. Over the years, this has resulted in disruptive 
+memory technologies to take shape 39. In the current 
+DRAM technology, there are several places where we are 
+required to use ntype Polysilicon, using Phosphorus doping 
+1012. For example The contact regions between the 
+middleoftheline (MOL) and the frontendofline 
+(FEOL) require the use of Polycrystalline SiP to design 
+optimal contacts. But DRAM scaling has rendered 
+Polysilicon deposition difficult due to its nonselective 
+nature. There is a natural tendency to deviate into a 
+monocrystalline selective deposition to enable such 
+aggressive scaling. Selective epitaxy is one of the most 
+obvious candidates for monocrystalline SiP deposition 13
+17.

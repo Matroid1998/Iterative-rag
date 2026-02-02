@@ -1,0 +1,13 @@
+Description:
+Known to be unstable in the presence of lithium-based battery anodes.
+
+Text:
+Especially for alternative alkaline batteries employing sodium or potassium, some very sim
+ilar challenges remain compared to those known for lithium batteries.14,15 Commonly used
+electrolyte components like ethylene carbonate (EC), propylene carbonate (PC), dimethyl
+carbonate (DMC), and dimethoxyethane (DME), LiPF6, LiBF4, and LiTFSI, are known to
+be unstable in the presence of lithiumbased battery anodes, leading to the formation of a
+passivation layer known as the solid electrolyte interphase (SEI).16 The SEI formation poses
+one of the main limitations in the insufficient cycling stability of the battery, leading either
+to a reduced battery capacity or, in the worst case, a catastrophic thermal runaway.10 At
+2

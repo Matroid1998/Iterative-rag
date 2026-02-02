@@ -1,0 +1,11 @@
+Description:
+Promising structures in rROP due to the efficiency of the CS bond to act as a radical acceptor.
+
+Text:
+of a weak bond into the polymer backbone. Among the various cyclic monomers that could be used 
+in rROP, thionolactones are promising structures due to the efficiency of the CS bond to act as radical acceptor. Never
+theless, only few structures were reported to be efficient. In this work, we used DFT calculations to gain better understand
+ing of the radical reactivity of thionolactones and in particular we focused on the transfer rate constant ktr value and its 
+ratio with the propagation rate constant kp of the vinyl monomer. The closer to 1, the better the statistical incorporation of 
+the two comonomers into the backbone. With this approach, we identified and prepared the 7phenyloxepane2thione 
+(POT) thionolactone.

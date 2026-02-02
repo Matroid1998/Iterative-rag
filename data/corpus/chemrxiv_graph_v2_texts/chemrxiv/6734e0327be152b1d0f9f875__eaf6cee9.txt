@@ -1,0 +1,46 @@
+Description:
+Substances known for environmental bioaccumulation and long halflives.
+
+Text:
+The thermal destruction of perfluoroalkyl substances (PFAS) has garnered much attention
+recently due to concerns of adverse health effects, environmental bioaccumulation, and long
+halflives.15 Full mineralization of all CF bonds into HF and CO2 is necessary for effective
+removal of PFAS from contaminated matrices, but the combustion is often incomplete.
+
+
+---
+
+Description:
+Chains that undergo homolytic dissociation in radical-radical reaction channels during the destruction of perfluorinated acids.
+
+Text:
+The
+difficulty in experimentally characterizing the products of incomplete combustion, which are
+potentially hazardous, has prompted a variety of computational studies into the chemical
+reaction mechanisms of PFAS pyrolysis and oxidation.610
+Extensive examinations of the thermochemistry of species involved in the destruction of
+perfluorinated carboxylic acids and perfluorinated sulfonic acids indicate that radicalradical
+reaction channels, such as homolytic dissociation within perfluoroalkyl chains, are likely
+important alongside molecular or pericyclic reactions with sufficiently low electronic barriers
+to contribute at incineration conditions. However, in the existing theoretical studies on
+PFAS thermal decomposition, the consideration of barrierless reactions has been limited.
+
+
+---
+
+Description:
+Involved in carbon-carbon bond scissions and radical combinations.
+
+Text:
+An example is the variational transitionstate theory treatment of reactions like fluorine
+atom loss or singletCF2 dissociation from nperfluoroalkyl radicals or the dissociation of
+the carbonsulfur bond in perfluorinated sulfonic acids, using bondstretching coordinates
+and singlereference density functional methods by Altarawneh and coworkers.7,8 While
+these reactions may be relevant to PFAS thermal decomposition, the series of carboncarbon
+bond scissions (and their reverse associations) within perfluoroalkyl chains indicated to be
+important by bond dissociation energies have not been studied thoroughly. Wardlaw and
+coworkers have carried out a theoretical study of 2 CF3 
+C2F6 using canonical flexible
+transition state theory,11 but more refined theoretical studies of this reaction and studies of
+the size dependence of perfluoroalkyl radical combinations have not been published to our
+knowledge.

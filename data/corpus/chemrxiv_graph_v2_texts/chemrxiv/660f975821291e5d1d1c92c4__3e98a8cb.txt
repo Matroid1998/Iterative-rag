@@ -1,0 +1,13 @@
+Description:
+A surfactant molecule studied via molecular dynamics simulations.
+
+Text:
+However, due to 
+computational burden, this type of modelling can be applied only to small systems. Here we choose 
+molecular dynamics (MD) simulations as a timeefficient but still sufficiently accurate method to 
+capture atomistic insights. Various studies have investigated interfacial dynamics of commonly used surfactant molecules 
+such as sodium dodecylsulfate (SDS), alkyltrimethylammonium bromide (CTAB) via MD 
+simulations 1921. Azobenzene based compounds have been modelled with various force fields. A 
+polymer consistent forcefield (PCFF) has been employed to capture thermomechanical features 
+of azobenzenes22 and to investigate structural changes of azo based monolayers23. OPLS 
+httpsdoi.org10.26434chemrxiv2024q2rft ORCID httpsorcid.org0000000325920287 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

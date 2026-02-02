@@ -1,0 +1,17 @@
+Description:
+Promising thermoelectric materials due to their high temperature chemical and structural stability, relatively high Seebeck coefficient, and intrinsically low lattice thermal conductivity.
+
+Text:
+Thermoelectric (TE) materials utilize the Seebeck effect for solid
+state conversion of heat to electricity.1 The figure of merit (zT)
+is a measure of the TE performance of a material and is given
+by zT  2Ttot, where , , tot and T are the Seebeck co
+efficient, electrical conductivity, total thermal conductivity, and
+temperature, respectively. tot is the sum of the electronic and
+lattice (phonon) contributions (tot  el  lat). Layered oxy
+chalcogenides are promising TE materials24 due to their high
+temperature chemical and structural stability, relatively high See
+beck coefficient, and intrinsically low lat.5 ptype BiCuSeO, is
+a wellknown midtemperature TE material,6 with zT reaching a
+maximum of 1.5 at 873 K.7,8 We need both ptype and ntype legs
+to build a TE device.

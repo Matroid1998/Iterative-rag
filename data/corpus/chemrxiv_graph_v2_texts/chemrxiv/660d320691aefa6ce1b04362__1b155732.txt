@@ -1,0 +1,46 @@
+Description:
+A classical hypoxia-sensitive probe that can be reduced to amine derivatives.
+
+Text:
+Hypoxia is a significant feature of most solid tumors,
+which is stemmed from the imbalance between the enhanced
+oxygen depletion caused by the fast proliferation of tumor
+cells and an insufficient oxygen supply arisen arising from
+limited neovascularization.1320 Hypoxia is also associated with
+tumor
+invasion,
+metastasis,
+increased
+resistance
+to
+radiotherapy
+and
+chemotherapy.21,22
+Moreover,
+hypoxic
+tumors generally display much stronger reducibility than those
+normoxic cells due to the overexpression of reductases, such
+as
+nitroreductase,
+azoreductase,
+glutathione,
+NAD(P)H
+quinone oxidoreductase 1 and so on.2327 By virtue of the
+intense reductive ability, numerous hypoxia responsive probes
+have been created.2830 Among these, azobenzene derivatives
+are a kind of classical hypoxiasensitive probes, which can be
+reduced to amine derivatives by breaking the azo group using
+azoreductase in hypoxic microenvironment.3135 Usually, azo
+based luminophores emit weak fluorescence upon excitation
+owing
+to
+the
+excited
+energy
+consumption
+by
+rapid
+intramolecular rotation around the NN double bond.3638
+After reduction of the azo group, intense fluorescence is
+attained that is the design principle for hypoxiaresponsive
+probes.

@@ -1,0 +1,19 @@
+Description:
+Commonly used in heterocycles as a strong electron donating unit.
+
+Text:
+Since the discovery of the first purely 
+organic TADF emitter by Parker et al.8 in 1961, a lot of work has been devoted to develop new 
+and more efficient chromophores suitable for optoelectronic applications.1,2,911 Nowadays, 
+there are many fields besides organic LEDs4,1012 in which TADF emitters have been success
+fully applied, such as photovoltaic cells,13,14 bio, chemo and photosensors,1517 organic la
+sers18 and photocatalysis.19 
+To achieve the needed small EST enabling TADF, organic systems bearing donoracceptor (D
+A) units require a reduced overlap between the highest occupied molecular orbital (HOMO) 
+and the lowest unoccupied molecular orbital (LUMO), which is usually obtained by limiting 
+the planarization of the molecule in the excited state.47 Nitrogen containing heterocycles have 
+been commonly used as D unit due to their strong electron donating capabilities, stability and 
+high triplet states.4 The choice for the A moiety are more widespread ranging from nitrile
+based functional groups to diphenyl sulfide or ketonebased groups.4,11,20 Commonly, D and 
+A are connected via a nonplanar system that separates the HOMO and LUMO, resulting into 
+formation of intramolecular charge transfer (CT) states.

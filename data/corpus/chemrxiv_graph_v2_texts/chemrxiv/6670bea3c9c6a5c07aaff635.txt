@@ -1,0 +1,26 @@
+Description:
+A phenolic compound emitted into the atmosphere during biomass burning events.
+
+Text:
+Biomass burning events, including wildfires, can emit large amounts of phenolic compounds, such 
+as guaiacol, catechol, and syringol into the atmosphere.15 Once in the atmosphere, phenolic 
+compounds can be oxidized by hydroxyl radicals (OH), ozone (O3), and nitrate radicals (NO3) to 
+form lower volatility products, which can partition to the particle phase, forming secondary organic 
+aerosol (SOA).2,617 OH and O3 are the main oxidants during the day, while NO3 and O3 are the 
+main oxidants during the night or during the day in lightlimited environments, such as within 
+dense biomass burning plumes.16,18 A recent study suggests that oxidation of biomass burning 
+plumes by NO3 during the night can lead to rapid production of SOA in the atmosphere.19 
+SOA, including phenolic SOA can impact climate indirectly by acting as cloud condensation 
+nuclei and possibly ice nucleating particles, thereby changing the reflectivity and lifetime of 
+clouds.2023 In addition, SOA can contribute to poor air quality and negatively impact human 
+health.2426 
+Viscosity is a physiochemical property of SOA that is important for predicting its impact on 
+climate and air quality.27 Viscosity is inversely related to molecular diffusion rates within SOA 
+particles, based on the StokesEinstein equation.28 As a result, viscosity can impact gasparticle 
+partitioning and the mass and size distributions of SOA in the atmosphere.2940 In addition, 
+viscosity can affect the rates and mechanisms of multiphase reactions within SOA particles36,4153 
+and the longrange transport of particleborne pollutants like polycyclic aromatic 
+hydrocarbons.41,5457 Some studies have also suggested that highly viscous SOA can act as 
+heterogeneous nuclei for ice formation in the atmosphere,23,5863, although the importance of the 
+glassy phase state for ice nucleation is still a matter of debate.64 
+Many studies have quantified the viscosity of SOA generated with OH or O3.

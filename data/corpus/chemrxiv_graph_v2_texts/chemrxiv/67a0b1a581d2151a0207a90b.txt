@@ -1,0 +1,16 @@
+Description:
+A solar fuel that can be produced through photocatalytic water splitting.
+
+Text:
+25 
+Photocatalysis offers a promising route for the scalable conversion of sunlight to hydrogen or other 
+26 
+solar fuels (Pinaud et al., 2013; Schneidewind, 2022; Goto et al., 2018; Liu et al., 2019; Tran et al., 
+27 
+2012; Gunawan et al. 2024). Various particulate photocatalysts for water splitting, largely based on 
+28 
+semiconductors such as TiO2 (Li et al., 2015; Eidsvg et al., 2021), SrTiO3 (Patial et al., 2020; Avcolu 
+29 
+et al., 2023) or C3N4 (Dankawu et al., 2024; Wen et al., 2017) have been developed, but the methods 
+30 
+for their activity evaluation vary widely within the literature.

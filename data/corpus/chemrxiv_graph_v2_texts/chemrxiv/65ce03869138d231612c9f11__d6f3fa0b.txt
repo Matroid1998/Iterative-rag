@@ -1,0 +1,12 @@
+Description:
+A garnet-type solid electrolyte with theoretically strong mechanical properties.
+
+Text:
+Their nonflammability would also eliminate safety issues8. However,
+studies have shown that soft lithium metal can still penetrate solid electrolytes, including sulfurbased
+materials such as Li6PS5Cl and mechanically robust oxidebased materials like the garnet Li7La3Zr2O12
+(LLZO) in its cubic phase911. Given the theoretically strong mechanical properties of LLZO, this work
+primarily focuses on this material7,12. There are multiple explanations reported why dendrites can still penetrate LLZO. One report emphasizes
+locally enhanced electronic conductivity of LLZO, stemming from chemical inhomogeneities or dopants,
+which enables the formation of lithium metal by combining an electron and Li inside the LLZO13. Others
+approach the issue from a mechanical perspective, where preexisting cracks or defects are filled with Li.

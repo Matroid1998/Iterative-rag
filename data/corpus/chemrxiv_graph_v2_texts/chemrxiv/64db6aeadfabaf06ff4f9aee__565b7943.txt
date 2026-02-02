@@ -1,0 +1,14 @@
+Description:
+A precursor for rsZnO in high-pressure synthesis.
+
+Text:
+Extreme pressuretemperature conditions are a powerful tool for creating nanostructured materials.17 
+Such materials are not only interesting for the fundamental understanding of microscopic phenomena 
+due to nanostructuring (mechanical and transport properties, etc. ), but also have great potential for 
+advanced applications as wide bandgap semiconductors. In traditional experimental approaches, the 
+recovery of highpressure phases (diamond, stishovite, rsZnO, etc.) is linked to the timepressure
+temperature (tpT) synthesis protocol (e.g. rate of decompressioncooling from pT synthesis 
+conditions, decompression temperature, etc.) and the initial state of the precursors (e.g. grain size, 
+impurities). For example, nanocrystalline stishovite (highpressure polymorph of SiO2) and rsZnO can 
+be quenched down to ambient conditions starting from periodic mesoporous silica3 and nanopowders 
+of wurtzite ZnO,4 respectively.

@@ -1,0 +1,23 @@
+Description:
+Binds to ferric heme in the active site of peroxidases, facilitating the generation of high-valent oxidants.
+
+Text:
+Heme peroxidases are ubiquitous in nature.1 They exhibit a variety 
+of functions ranging from catalyzing oxidation reactions to defending against pathogens, 
+synthesis of prostanoids, and reducing peroxide concentration.24 Horseradish peroxidase 
+(HRP, Scheme 1a) is highly valued by chemical industry for its ability to oxidize organic 
+molecules using hydrogen peroxide as oxidant.5 It is also being explored as a potential 
+solution for decontaminating wastewater.6,7 The remarkable activity of peroxidases is 
+attributed to the generation of compound I and compound II, versatile highvalent oxidants 
+that result from the reaction of peroxides at a histidinebound ferric heme site, Scheme 1b.8
+12 Scientists have invested significant efforts to develop functional mimics of these enzymes, 
+such as FeTAML, Feporphyrin derivatives, and hemepeptide complexes, as well as 
+utilizing various other biological constructs.1230 Despite notable peroxidase activity exhibited 
+by certain artificial catalysts, most of them frequently reveal slower reaction rates and lower 
+overall 
+efficiency 
+compared 
+to 
+their 
+native 
+counterparts.

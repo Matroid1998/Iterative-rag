@@ -1,0 +1,32 @@
+Description:
+A catalyst used in commercial alkaline water electrolyzers for the Hydrogen Evolution Reaction and Oxygen Evolution Reaction.
+
+Text:
+Nickel (alone or alloyed with iron in stainless steel) is the catalyst employed at both 
+the cathode and the anode of commercial alkaline water electrolyzers 6, for the 
+electrochemical Hydrogen Evolution Reaction (HER) 7,8 and Oxygen Evolution 
+Reaction (OER) 9,10. Its relatively high activity and far lower cost with respect to 
+rare Platinum Group Metals (PGMs) make it the electrocatalyst of choice for the 
+wider diffusion of alkaline water electrolysis (AWE) 11,12. AWE is already used to 
+manufacture around 1 of the global annual output of hydrogen. Using electricity 
+from renewable energy sources, the technology will be widely deployed to produce 
+solar (or green) hydrogen for electric mobility and other end energy uses 13.
+
+
+---
+
+Description:
+Used in catalytic species and can be coupled with other elements and compounds to increase activity.
+
+Text:
+In recent years, plentiful research efforts have 
+been placed in increasing the activity of nickel, by coupling it with other elements 
+and compounds 6,16. Among these structures, Graphene Oxide (GO) has 
+attracted particular interest due to its conductivity, high surface area and high 
+chemical and mechanical stability 17,18. In all these attempts, however, GO is 
+used as support that is decorated with Nibased catalytic species. A 
+complementary approach was recently adopted with the introduction of NiGraf, a 
+new molecularly doped metal comprised of GO 3D entrapped in nickelbased 
+jamborite (Ni(OH)2(NiOOH)) nanoparticles 19. The catalyst is reproducibly 
+synthesized by a simple onepot procedure carried out in water starting from a Ni 
+precursor salt, graphene oxide and sodium borohydride as reducing agent.

@@ -1,0 +1,10 @@
+Description:
+An element that can form nanocrystals as part of CdE compounds.
+
+Text:
+Since Murray et al.1 first synthesized monodisperse CdE (E  S, Se, Te) nanocrystals (NCs)
+using the hot injection method in 1993, significant advancements in colloidal chemistry over
+the past 30 years have enabled precise control over the size, shape, and monodispersity of
+various NC types,25 including metals,6 semiconductors from groups IV,7 IIVI,8 IVVI,9
+and perovskites.10,11 As a result, NCs as ideal nanoscale building blocks for bottomup
+selfassembly strategies.

@@ -1,0 +1,11 @@
+Description:
+Produced on the cathode via the hydrogen evolution reaction in water electrolyzers.
+
+Text:
+Electrochemical energy conversion technologies such as electrolyzers or fuel cells are crucial for renewable 
+energy storage, efuel synthesis, and a nonfossilbased industry1,2. One prominent example is a water 
+electrolyzer where hydrogen is produced on the cathode via the hydrogen evolution reaction and oxygen 
+is produced on the anode via the oxygen evolution reaction (OER). The optimization of catalytic processes 
+taking place at the interface between catalyst and the electrolyte remain a challenge, particularly for the 
+OER as it suffers from sluggish kinetics, that limit the efficiency of the overall reaction3,4. Therefore, the 
+catalytic properties of the OER catalyst material must be optimized to decrease the OER overpotential3,4. Perovskite oxides are one promising material class to reduce the high overpotentials in the OER.

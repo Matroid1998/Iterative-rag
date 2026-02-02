@@ -1,0 +1,32 @@
+Description:
+A complex involving NO ligands often studied for oxidation state assignments.
+
+Text:
+Fifty years ago, in a master stroke, Enemark and Feltham chose to sidestep the problem of local 
+oxidation states by assigning an effective d electron count n to metal nitrosyls.9 Now known as 
+the EnemarkFeltham electron count, n refers to the number of metal d electrons plus the 
+number of NO p electrons; thus Fe(II)  NO corresponds to n  6  1  7 and is denoted as 
+FeNO7. Despite the popularity of the notation, chemists have retained a strong interest in the 
+oxidation state problem and have sought to assign oxidation states to both the metal and NO 
+fragments in nitrosyl complexes. Unfortunately, density functional theory, the major 
+theoretical tool for such studies,10,11,12,13,14,15 suffers from several pitfalls.
+
+
+---
+
+Description:
+Complexes that require spectroscopically calibrated approaches to determine local oxidation states.
+
+Text:
+To start with, the 
+DFT description generally does not correspond to a pure spin state, but incorporates 
+contamination from multiple states. In addition, different exchangecorrelation functionals 
+provide disturbingly divergent descriptions of metalligand covalence and of spinstate 
+energetics.16,17 In the face of these challenges, chemists have increasingly resorted to a so
+called spectroscopically calibrated approach, i.e., a combination of several spectroscopic 
+methods and DFT calculations, to come up with local oxidation states in nitrosyl 
+complexes.18,19,20,21,22,23 Modern multiconfigurational methods and orbital localization schemes 
+provide a neat alternative to these somewhat ad hoc approaches, as we illustrated recently in a 
+study of transition metal corroles.24 Here we present a stateoftheart DMRGCASSCF
+CASPT2 study of seven paradigmatic FeNO porphyrin derivatives spanning FeNO68 
+electron counts (Scheme 1).

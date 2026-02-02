@@ -1,0 +1,19 @@
+Description:
+Macrocyclic containers used for binding studies in the SAMPL8 host-guest challenge.
+
+Text:
+For blind prediction of ligandreceptor Gibbs energies of 
+binding, macrocyclic containers such as cucurbitnurils (CBn)9, 
+10 and cyclodextrins (CDs)11, 12 with unreleased experimental 
+data are sometimes chosen. Here, we systematically refine the calculated Gibbs energies of 
+binding from SQM calculations for the drugs of abuse 
+molecules to CB8 of the SAMPL8 hostguest challenge. This 
+challenge focused on binding of this host to nine drug molecules 
+including morphine, hydromorphone, methamphetamine, 
+cocaine, and others (see Figure 1).13 It also included previously 
+considered cycloheptanamine and cyclooctanamine (G8 and 
+G9). Experimental data were obtained from Isothermal Titration 
+(ITC) and NMR spectroscopy.14 
+In addition, we address the calculation of Gibbs energies of 
+binding of phenothiazine drug molecules to the cyclodextrin 
+receptor, which was part of SAMPL9.

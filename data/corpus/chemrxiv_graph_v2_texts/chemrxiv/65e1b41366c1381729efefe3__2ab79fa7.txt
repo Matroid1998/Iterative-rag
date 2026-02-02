@@ -1,0 +1,14 @@
+Description:
+A hybrid layer that introduces new defect states and enhances stability for solar water oxidation.
+
+Text:
+of the interfacial PEI layer and the hybrid PEITiO2 not only mitigates this 
+energetic misalignment but also promotes holeselective transfer, facilitated by the electron
+blocking nature of the PEI and the introduction of new defect states within the hybrid PEITiO2 
+layer (Fig. 6b and Supplementary Fig 28). Conclusion 
+In summary, we investigated hybrid PEITiO2 as a protection layer for metal oxide photoanodes 
+that significantly enhances the stability of these materials for solar water oxidation. The hybrid 
+TiO2 layer was formed on the interfacial PEI layer during the ALD process, and we observed 
+distinct energetics associated with a new defect state resulting from the partial reduction of Ti4 
+Fig. 6. Schematic illustration of proposed band energetics. a,b, The band energetics for 
+metal oxideTiO2 (a) and metal oxidePEITiO2 (b).

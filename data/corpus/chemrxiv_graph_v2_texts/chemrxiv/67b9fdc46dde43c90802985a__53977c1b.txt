@@ -1,0 +1,12 @@
+Description:
+Substitution by Mn2 in the spinel structure affects magnetic properties.
+
+Text:
+Manganese ferrite nanoparticles (MnxFe3xO4 MNPs) have attracted considerable attention for their 
+potential applications in magnetic hyperthermia therapy (MHT) and magnetic resonance imaging 
+(MRI)1. The substitution of Fe2 by Mn2 in the spinel structure can significantly alter their magnetic 
+anisotropy, saturation magnetization (Ms), heating, and contrast efficiency due to the changes in their 
+structural properties, including crystal structure, crystallite size, and lattice parameter2,3,4. While the 
+impact of the Mn2 content on the magnetic properties has been investigated in recent years using 
+many different MnxFe3xO4 MNPs,5,6,7,8 a direct correlation between the Mn2 content and the magnetic 
+properties is not yet clear.

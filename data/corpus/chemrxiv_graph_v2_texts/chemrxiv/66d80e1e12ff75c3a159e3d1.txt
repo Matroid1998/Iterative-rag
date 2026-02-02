@@ -1,0 +1,15 @@
+Description:
+Acts as an environmental stressor that can affect the stability of HP lattices.
+
+Text:
+Dimensional confinement of HP lattices via surface coordination of large molecular 
+spacers allows for the formation of distinctive 2D HP structures with various unit 
+thicknesses of inorganic octahedra sheets (described as n), called quasi2D HPs. The 
+quasi2D HPs offer more thermodynamically feasible synthesizability, enabling 
+crystallization at relatively lower temperatures while not compromising the overall 
+bandgap of the materials system with respect to 3D counterparts911. Furthermore, the 
+molecular spacers coordinated to the quasi2D HP surface improve the stability of the 
+HP lattices, as it can act as a protection layer against environmental stressors (e.g., 
+oxygen and moisture)1214. A crucial challenge to fully exploit the quasi2D HPs to optoelectronic applications 
+lies in the concurrent emergence of multiple quasi2D HP phases and their spatial 
+distributions in the synthesized film matrices.

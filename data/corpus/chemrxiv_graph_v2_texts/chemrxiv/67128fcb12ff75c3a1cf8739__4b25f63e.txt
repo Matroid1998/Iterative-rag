@@ -1,0 +1,11 @@
+Description:
+A basic condition in which Ni2P is susceptible to oxidation.
+
+Text:
+The ensemble effect seen 
+in Ni2P, for example, causes the Ni2P surface to bind H appropriately for efficient turnover of H2, unlike 
+Ni alone, which binds H too strongly and thus inhibits catalytic activity.3,10 
+However, Ni2P is susceptible to oxidation, leading to catalyst corrosion in acidic and basic 
+conditions, including 0.5 M H2SO4, 0.1 M HClO4, and 0.1 M KOH.11,12 Stability is essential for scalable 
+catalysis; therefore, it is crucial to understand the degradation mechanism of Ni2P to mitigate corrosion, 
+accurately predict surface reactivity, and prepare Ni2P for industrial electrocatalysis.

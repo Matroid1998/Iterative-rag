@@ -1,0 +1,15 @@
+Description:
+Used in silicon-based transistors, which are reaching their fundamental limit in size reduction.
+
+Text:
+The semiconductor industry is driven by the continued 
+reduction in transistor size, with Moores law stating that the 
+number of transistors that can fit on an integrated circuit doubles 
+approximately every eighteen months.21 These days, the stateof
+theart siliconbased transistor has all but reached its fundamental 
+limit and, to further break through the gate length of siliconbased 
+fieldeffect transistors,22 materials that can achieve smaller sizes 
+than silicon are sought. Twodimensional (2D) materials have an 
+inherent advantage for transistor applications because they are 
+intrinsically stable at atomic thicknesses and still have robust and 
+wellcharacterized electrostatic properties.23 In a study by Xie et al.

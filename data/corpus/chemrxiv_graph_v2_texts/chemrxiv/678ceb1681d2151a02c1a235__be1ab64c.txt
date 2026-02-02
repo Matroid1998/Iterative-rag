@@ -1,0 +1,29 @@
+Description:
+Chemical group decorating pore edges in graphene.
+
+Text:
+scale pores in graphene for CO2 separation 
+are prepared by oxidation involving controlled lattice gasification.5,22,3137 The resulting pore edges 
+are passivated with O functional groups.3840 These groups evolve from the chemisorption of a single 
+epoxy followed by an organization of epoxies in a cluster (Supplementary Section 1).37 When the 
+cluster size is sufficiently large, strainmediated CC bond cleavage followed by gasification yields a 
+carbon vacancy defect (pore) with ether41 and semiquinones (CO) decorated at the pore edge.40,42
+44 Pores formed in this way have yielded attractive carbon capture performances, however, pores 
+terminated with CO have not been explored by computational studies.
+
+
+---
+
+Description:
+Group expected to interact strongly with polar molecules and flip-flop across the plane of the pore.
+
+Text:
+Extensive computational studies have been conducted to analyze gas transport from graphene 
+pores10,45,46 since attractive gas separation from graphene pores was first predicted in the year 
+2009.4 For simplicity, early studies probed pore edges devoid of functional groups and assumed 
+rigid apertures with a fixed porelimiting diameter.4752 Other studies probed pore edges passivated 
+with atomic H, N, or O, however, gas transport was still investigated, assuming a rigid aperture with 
+a fixed PLD.4,49,5358 When lattice flexibility and vibrational dynamics were included, PLD 
+modulation59 and enlargement60 were predicted, resulting in an increased gas permeance.11 Pores 
+decorated with the CO group have not been studied. One expects the pore edge CO group to 
+interact strongly with polar molecules such as CO2 and even flipflop across the plane of the pore.

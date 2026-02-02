@@ -1,0 +1,16 @@
+Description:
+Gas that can be adsorbed in hydroquinone clathrates with double and triple occupancy at elevated pressures.
+
+Text:
+The hydroquinone H2 clathrate
+was found experimentally only after a computational study
+predicted that such clathrates can form and that they may
+have more than one H2 molecule in each pore (10), obviously
+of great interest for gas storage applications. The computa
+tional predictions have since been conrmed; the clathrate
+exhibits fast and reversible adsorption of hydrogen gas at
+room temperature and has double and triple occupancy of H2
+at elevated pressures (11, 12). In addition, the demonstrated
+separation of ethanemethane and CO2N2 gas mixtures by
+hydroquinone clathrate is another example of a potential in
+dustrial application (13, 14).

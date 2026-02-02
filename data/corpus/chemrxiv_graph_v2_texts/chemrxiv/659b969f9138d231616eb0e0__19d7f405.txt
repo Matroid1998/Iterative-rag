@@ -1,0 +1,21 @@
+Description:
+Used as a solvent and activates sulfoxide to a sulfonium cation.
+
+Text:
+In these reactions, 
+the 
+Spmethoxybenzyl 
+or 
+Sacetamidomethyl 
+cysteine 
+sulfoxide 
+(Cys(MBzl)(O) 
+or 
+Cys(Acm)(O))11,12 moieties are converted to the corresponding Schlorocysteine under acidic 
+conditions using trifluoroacetic acid (TFA) as solvent in the presence of guanidine hydrochloride 
+(GnHCl) or diisopropylamine hydrochloride (DAHCl). The resulting electrophilic species 
+participate in aromatic electrophilic substitution (SEAr) reactions with indole to achieve the CH 
+sulfenylation of the Trp (Figure 1).12 Here, GnHCl or DAHCl is indispensable for the reaction, 
+because they function as cation scavengers (amine part) and chloride anion source. TFA activates the 
+sulfoxide to a sulfonium cation and assists in liberating the protecting group (P) as a cation from the 
+resulting sulfonium intermediate. The use of sulfoxide enables the oxidantfreeacidmediated

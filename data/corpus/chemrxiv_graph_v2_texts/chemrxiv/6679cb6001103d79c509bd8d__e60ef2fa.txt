@@ -1,0 +1,15 @@
+Description:
+Used in Liion batteries, known for high energy density.
+
+Text:
+Sodiumion batteries (SIBs) are currently being commercialized and are seen as a 
+promising energy storage technology based on more abundant, noncritical elements 
+while achieving energy densities close to those of Liion batteries (LIBs).1 A straight
+forward approach for increasing the energy density of SIBs with layered oxides as 
+cathode active materials (CAMs) is to increase the charging cutoff voltage.2 
+Extending the upper cutoff potential beyond 4 V vs. NaNa will therefore in most 
+cases result in a significantly higher storage capacity and hence higher energy density.3 
+However, a too high charging voltage causes poor cycle life due to degradation of the 
+electrode materials andor electrolyte decomposition.4 To overcome these issues, a 
+fundamental understanding of the degradation mechanism of cathode materials at 
+high voltages (above 4.0 V vs NaNa) is essential.

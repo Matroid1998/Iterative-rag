@@ -1,0 +1,15 @@
+Description:
+A long-chain fatty acyl group cleaved by Sirt2.
+
+Text:
+These isotypes share a highly conserved catalytic domain but differ in cellular 
+localization and substrate specificity.1 
+Sirtuin 2 (Sirt2) is primarily cytoplasmic but can shuttle into the nucleus.2 It has a broad substrate 
+scope, deacetylating histones (e.g., H4K16 and H3K18)3,4 and nonhistone proteins such as tubulin,5
+ FOXO3,6 GAPDH,7 and p300.8 Sirt2 also cleaves off longchain fatty acyl groups (e.g., myristoyl 
+groups),9,10 with identified substrates including KRas4a,11 RalB,12 and ARF6.13 Given its wide range of 
+substrates, Sirt2 regulates key cellular pathways, such as mitosis, metabolism, aging, inflammation, 
+and gene transcription.7,1417 Dysregulation of Sirt2 is implicated in numerous diseases, including 
+neurological and metabolic disorders, as well as cancer, which makes Sirt2 a potential drug target.15,18
+20 Consequently, understanding the unique structural properties of Sirt2 is crucial for designing potent 
+and selective inhibitors.

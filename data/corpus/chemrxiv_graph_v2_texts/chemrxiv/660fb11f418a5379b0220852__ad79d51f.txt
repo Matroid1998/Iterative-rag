@@ -1,0 +1,10 @@
+Description:
+Catalysts for the oxygen evolution reaction (OER).
+
+Text:
+Classical electrochemical concepts may invoke band structures and Fermi levels, outer
+sphere electron transfer, or electric fields present in Helmholtz layer or ionic double layer at the interface of 
+the electrode material and the saltrich solvent, the electrolyte.1316 Recent experimental studies on iridium 
+dioxide (IrO2) catalysts for the oxygen evolution reaction (OER), however, have challenged the classical views 
+12, 17, 18. Here we approach further steps towards a new paradigm for the electric potential and pH 
+dependence of electrocatalytic reaction rates for a class of technologically relevant electrocatalyst materials.

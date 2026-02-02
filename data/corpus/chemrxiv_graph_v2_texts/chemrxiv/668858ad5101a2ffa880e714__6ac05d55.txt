@@ -1,0 +1,13 @@
+Description:
+A component of poly(lactidecoglycolide) whose ratio with glycolide can be varied to tailor drug release rates.
+
+Text:
+The first MP formulation, Lupron Depot, was approved by the FDA in 1989 for delivery of a 
+synthetic peptide to palliatively treat prostate cancer and then subsequently to treat central 
+precocious puberty and endometriosis in 1993 and 2012, respectively 10,11. Nowadays, there 
+are a number of clinicallyapproved MPbased LAIs for treatment of a wide range of indications 
+with many more in development 1214. To date, the vast majority of FDAapproved polymer 
+MPs are composed of poly(lactidecoglycolide) (PLGA) due to its biocompatibility and good 
+safety profile. The composition of PLGA including the lactide to glycolide ratio, molecular weight, 
+and end group chemistry as well as manufacturing processing parameters can be varied to tailor 
+the physicochemical properties of the drugloaded MPs and drug release rate 2.

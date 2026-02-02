@@ -1,0 +1,28 @@
+Description:
+Forms bonds that are essential to life and drive structure in biochemistry.
+
+Text:
+Hydrogen bonds are essential to life as we know it, and the formation of hydrogen bond
+networks is a key driver of structure in biochemistry,8 ubiquitous in critical cell processes
+such as nucleotide base pairing9 and protein folding.10,11 However, the coarsegraining pro
+cedure in Martini 3 places hydrogens together with heavy atoms into larger LennardJones
+(LJ) particles and effectively averages out the energy contribution of directional hydrogen
+bonding. In this work, we investigate whether the secondary and tertiary structure instabil
+ity in Martini 3 proteins could originate from missing hydrogen bond energy.
+
+
+---
+
+Description:
+Forms hydrogen bonds which are crucial for stabilizing protein structures in coarsegrained simulations.
+
+Text:
+We introduce
+an algorithm called OLIVES which identifies native contacts with hydrogen bond capabilities
+in coarsegrained structures, as an approximation for the atomistic hydrogen bond network,
+and uses it to implement a novel Golike model for Martini 3 proteins. By using realistic
+hydrogen bond energies obtained from literature ab initio calculations,1214 we show that
+Martini 3 proteins can be stabilized by the introduction of LJ bonds between hydrogen
+bonding beads in native contacts. As we embarked on creating a new Golike model concept for coarsegrained simulations
+of proteins, we also established further goals for the models properties that we think will be
+advantageous for the Martini 3 community and for supporting future developments.

@@ -1,0 +1,11 @@
+Description:
+Halogen-based catalysts that efficiently catalyze halogen-abstraction reactions, Nazarov cyclizations, Diels-Alder reactions, or Michael additions.
+
+Text:
+Over the last years, the utilization of halogen bonding1 as a noncovalent interaction has been 
+established in crystal engineering,2 molecular recognition,3 medicinal chemistry,4 and 
+organocatalysis.5 Several mono and multidentate iodine(I)based XB donors, predominantly 
+derived from dual iodo(benz)imidazolium or iodotriazolium motifs (Figure 1A), showed 
+considerable strength as catalysts and can be referred to as halogenbased Lewis acids. For 
+example, they efficiently catalyze halogenabstraction reactions,6 Nazarov cyclizations,7 Diels
+Alder reactions,8 or Michael additions.9

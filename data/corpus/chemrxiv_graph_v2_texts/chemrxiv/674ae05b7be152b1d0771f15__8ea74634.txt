@@ -1,0 +1,16 @@
+Description:
+An anionic bidentate ancillary ligand like acetyl acetonate used in iridium complexes.
+
+Text:
+This is because of myriad reasons, including their 
+excellent color purity, low power consumpTon, and thinner displays.1 Currently, commercialized OLEDs 
+employ 3rd row transiTon metal complexes as emiUers for the red and green subpixel on account of 
+their ability to harvest both singlet and triplet excitons to achieve up to 100 internal quantum 
+eciency (IQE).2 In parTcular, cyclometalated Iridium(III) complexes are parTcularly aUracTve 
+phosphors as many have high photoluminescence quantum yields (FPL).3 
+Historically, Iridium complexes of the type Ir(CN)3 or Ir(CN)2(LL) (where CN represents a 
+cyclometalaTng ligand like 2phenylpyridinato and LL represents an anionic bidentate ancillary ligand 
+like acetyl acetonate, acac) such as Ir(ppy)2(acac) have been employed as emiUers in OLEDs.4 The 
+photophysical properTes of these complexes can be easily tuned through ligand modicaTon.5, 6 One 
+approach that has been popular in recent years is the introducTon of indolo3,2,1jkcarbazole (iCz) 
+moieTes in place of the phenyl unit of ppytype ligands.

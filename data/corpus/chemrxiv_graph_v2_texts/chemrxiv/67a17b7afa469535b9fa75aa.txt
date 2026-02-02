@@ -1,0 +1,17 @@
+Description:
+Used in batteries and forms salts with polyethylene oxide.
+
+Text:
+Solid polymer electrolytes (SPEs) have the potential to replace small molecule solvent electrolytes 
+in lithium batteries due to their superior safety and processability features.1, 2 To this end, polyethylene 
+oxide (PEO) based materials are the most extensively studied and optimized SPEs to date on account 
+of their wide availability, great solubility towards lithium salts, and good mechanical properties.3 
+However, the ionic conductivity of PEObased SPEs at room temperature is still 3 orders of magnitude 
+lower than the commonly used solvent electrolytes based on organic carbonates, which limits their 
+largescale applications.4, 5 The main problem causing PEObased SPEs low ionic conductivity is their 
+tendency to form large crystalline domains with the presence of lithium cation at room temperature.6 
+Such crystalline domains significantly slow down the chain dynamics of PEOs and reduce the rate of 
+lithium transport.7 
+Over the past decades, there have been a number of attempts aiming at reducing the crystallinity 
+of PEObased SPEs and enhancing their ionic conductivity at room temperature.810 Among these 
+examples, the use of ionic liquids (ILs) as plasticizers has been recognized as an effective method.

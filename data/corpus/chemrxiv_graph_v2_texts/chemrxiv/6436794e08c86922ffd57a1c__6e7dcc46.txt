@@ -1,0 +1,35 @@
+Description:
+Exhibit inverted singlet and triplet states with the S1 excited state lower in energy than the T1 excited state.
+
+Text:
+By the use of wavefunctionbased electronicstructure methods instead of hitherto preferred time
+dependent density functional theory (TDDFT) methodology, it was discovered that azaphenalenes, 
+such as cycl3.3.3azine, heptazine (heptaazaphenalene) and related triangular carbon nitrides or boron 
+carbon nitrides exhibit inverted singlet and triplet states, that is, the S1 excited state is lower in energy 
+than the T1 excited state.15 Although evidence of a possibly unusual singlettriplet spectrum was 
+found in earlier spectroscopic investigations of several azaphenalenes, the inversion of the S1 and T1 
+energies could not be firmly established at that time due to the difficulty of determining precise triplet 
+excitation energies.6, 7 Recently, the inversion of S1 and T1 excited states in several derivatives of 
+heptazine was unequivocally established by measurements of timeresolved photoluminescence decay, 
+its temperature dependence, as well as transient absorption spectra.2, 8, 9 
+ Organic molecules with nearly degenerate or inverted S1 and T1 states are primarily of interest as 
+emitters in organic lightemitting diodes (OLEDs).1013 While the majority of currently studied 
+organic chromophores for OLED applications exhibit small positive S1T1 gaps and rely on the 
+mechanism of reverse intersystem crossing (RISC) from T1 to S1 at room temperature,14, 15 the 
+discovery of organic chromophores with inverted (negative) S1T1 gaps has stimulated the vision of a 
+new generation of OLED devices which exploit the fluorescence from inverted S1 states.3, 9, 16 Adachi 
+and coworkers17, 18 and more recently Aizawa and coworkers9 synthesized several derivatives of 
+heptazine and demonstrated their enhanced functionality in OLED devices.
+
+
+---
+
+Description:
+Chromophores with a negative singlet-triplet gap and a triangular shape essential for alternating localization of HOMO and LUMO densities.
+
+Text:
+So far, all known chromophores with negative singlettriplet gap ST  ES1  ET1 are azaphenalenes 
+or are closely related to these. Apparently, the triangular shape seems to be essential to allow the 
+localization of the densities of the highest occupied molecular orbital (HOMO) and the lowest 
+unoccupied molecular orbital (LUMO) on alternate atomic sites.2, 5, 19, 20 This alternating localization 
+pattern is the origin of the exceptionally small exchange integral.

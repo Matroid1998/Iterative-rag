@@ -1,0 +1,16 @@
+Description:
+Involved in the oxygen evolution reaction, which is slower than the hydrogen evolution reaction in water electrolysis.
+
+Text:
+Polymer electrolyte membrane water electrolysis (PEMWE) will 
+be a cornerstone in the future energy transition, generating 
+green hydrogen to end the reliance on current fossilbased 
+energy carriers.1, 2 Here, the oxygen evolution reaction (OER) is 
+profoundly more sluggish than the hydrogen evolution reaction 
+(HER). Given that anodic and cathodic reactions proceed 
+simultaneously, the slower reaction ultimately determines the 
+total device efficiency, making the improvement of OER kinetics 
+a main target of many research endeavors in the water splitting 
+community. Electrocatalysts build the heart of electrochemical 
+devices and act as reaction promoters. So far, IrOx has become 
+the stateoftheart OER catalyst for PEMWEs.

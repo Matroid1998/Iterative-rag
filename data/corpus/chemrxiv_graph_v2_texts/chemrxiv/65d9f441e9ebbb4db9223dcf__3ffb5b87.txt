@@ -1,0 +1,14 @@
+Description:
+A heteroatom in the tetrahydroquinoxaline skeleton of a highly emissive dye.
+
+Text:
+The dye labelled SUMONLS protein showed clear staining in nuclear structures 
+which were observed with differential interference contrast (DIC) imaging (Figure 4c,d). On 
+the other hand, embryos injected with unlabelled SUMONLS protein showed very low 
+autofluorescence which was not detectable at the same settings at which the dye labelled 
+embryos were imaged (Figure 4e,f). Taken together, these results show that proteins can be 
+successfully labelled with fluorophore F2. The labelled proteins retain their function and are 
+detectable in vivo. In conclusion, we have designed and synthesised clickable singlebenzenebased fluorophores 
+of 2F2CNCys and 2F2CN(NH2Ala). By changing the ring heteroatom from sulfur 
+(dihydro1,4thiazine skeleton) to nitrogen (tetrahydroquinoxaline skeleton), we have 
+transformed a moderately emissive dye to a highly emissive one.

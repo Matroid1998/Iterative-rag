@@ -1,0 +1,28 @@
+Description:
+Donors that form dioxolenium ion intermediates in stereoselective reactions.
+
+Text:
+The use of substituents remote from a reaction centre to influ
+ence the stereochemical outcome of reactions is widespread in 
+chemistry.17 In the case of reactions proposed to proceed via 
+oxacarbenium ions, this has been the subject of many studies.8
+16 The role of esters as remote substituents in stereoselective 
+glycosylations has been the topic of much controversy and de
+bate, especially in relation to 4Oestermediated synthesis of 
+biologically important 1,2cisgalactosides and fucosides 
+(Figure 1).1728 Flowers first proposed that longrange partici
+pation, whereby the axial 4Oester of a fucosyl donor forms a 
+dioxolenium ion intermediate analogous to 1 with an inaccessi
+ble face, could explain the high 1,2cisselectivity observed 
+in fucosylations when benzoates were placed at the 4posi
+tion.17,18 Many studies have since invoked this intermediate to 
+rationalize 
+stereoselective 
+1,2cisgalactosylations 
+and 
+fucosylations.19,2123,2628 Computational studies have been used 
+to support this hypothesis and, indeed, dioxolenium ions have 
+been detected experimentally using infrared ion spectroscopy 
+and cryogenic vibrational spectroscopy.22,23,29,30 However, these 
+conditions are not representative of experimental conditions in 
+the solution phase.

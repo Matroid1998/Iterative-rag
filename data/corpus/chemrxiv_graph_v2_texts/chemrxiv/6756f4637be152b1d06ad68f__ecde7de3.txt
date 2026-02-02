@@ -1,0 +1,10 @@
+Description:
+A radical involved in the gas-phase oxidation of mercury.
+
+Text:
+Gasphase oxidation of GEM to GOM in the tropopshere and lower stratosphere occurs via addition of a radical (Br, OH, or 
+Cl) to form a mercurycentered radical form of Hg(I), which is further oxidized to Hg(II) by reaction with ozone (Castro et al., 
+2022; Gmez Martn et al., 2022), NO2, HOO, or most other radicals (Dibble et al., 2012, 2013, 2020; Goodsite, M. E. Plane 
+25 
+and Skov, 2004; Horowitz et al., 2017; Shah et al., 2021; Wang et al., 2014; Wu et al., 2024, 2020). Production of Br, OH, and 
+Cl falls dramatically around sunset, so this mechanism does not explain multiple observations of elevated GOM at night.

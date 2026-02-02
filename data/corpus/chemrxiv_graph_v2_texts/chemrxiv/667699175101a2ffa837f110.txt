@@ -1,0 +1,34 @@
+Description:
+A database containing 5.5 billion compounds in 2022, used for selecting follow-up compounds in drug discovery.
+
+Text:
+19
+Recent advances in structural biology, from sample preparation, to synchrotron infrastructure
+20
+and data analysis pipelines, have transformed the throughput of proteinligand complexes
+21
+available to inform drug discovery campaigns.1 When soaked with carefully designed com
+22
+pound libraries,2 the numbers of small molecule (or fragment) structural hits can reach 10s
+23
+or 100s against a single therapeutic target.3 A frequently employed next step is to attempt to
+24
+grow andor link the hit compounds, using either custom synthesis2 or ordering from cata
+25
+logues of purchasable compounds.4,5 However, chemical space is vast such that even choosing
+26
+followup compounds for purchase from ondemand libraries, such as the readily accessible
+27
+(REAL) Enamine database6 ( 5.5 bn compounds in 2022), becomes highly nontrivial.7
+28
+As such, attention is turning to cheminformatics and machine learning based algorithms
+29
+for structurebased de novo hit expansion, linking and merging.8 A wide range of approaches
+30
+are available to build from initial structural biology data, including DeepFrag9 that identifies
+31
+promising fragments for addition to an input bound ligand, using a deep convolutional
+32
+neural network, and DEVELOP10 that combines 3D pharmacophoric constraints from the
+33
+binding pocket with a graphbased deep generative model for Rgroup and linker design.

@@ -1,0 +1,15 @@
+Description:
+A metal catalyst commonly used in hydrogenation reactions.
+
+Text:
+The hydrogenation of carboncarbon double and triple bonds is a fundamental chemical reaction with 
+important applications in the food, petrochemical, and pharmaceutical industries, etc.13 Traditionally, 
+hydrogenation reactions use a metal catalyst, usually Pd or Pt, with hydrogen gas (H2) as the reductant.2 
+Rare metal catalysts are prominent in this field, so if they could be replaced by a more abundant metal 
+such as nickel, this could, in principle, offer a more sustainable alternative.2,4,5 For example, catalysts such 
+as Raney nickel or nickel oxide have been used extensively in hydrogenation reactions.57 
+The use of H2 as the reductant gives excellent atom economy, but also presents major drawbacks 
+hydrogen gas is derived primarily from fossil resources, and it is also a hazardous material.810 One viable 
+alternative is to use electrochemical water splitting that occurs during the hydrogen evolution reaction 
+(HER) as source of hydrogen atoms.11 In this way, hydrogen sourcing, transportation and manipulation 
+can be avoided.

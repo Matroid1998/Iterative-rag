@@ -1,0 +1,14 @@
+Description:
+Used in dilute solutions for wet etching to tune the thickness of oriented mesoporous silica films.
+
+Text:
+16, 17 Wet etching
+based on dilute ammonium fluoride solutions has also been used to tune the thickness of oriented
+mesoporous silica films. 18 However, dry etching methods require expensive instruments and
+highselectivity masking materials. Masking materials such as chromium (Cr) 19, photoresists,
+polysilicon, amorphous silicon, aluminum, silicon nitride, and chromiumgold (CrAu) 20 have
+been reported for the etching of silica. These are typically patterned on the substrate using standard
+lithography techniques. Metalpolymeric nanoparticles (NPs) could replace these masking materials
+for the etching process. A combination of solidstate dewetting and annealing of thin metallic films
+on the silica surfaces resulted in the deposition of different metal NPs which acts as an etchant
+mask.

@@ -1,0 +1,10 @@
+Description:
+Grows epitaxially on the (0001) surface of 4HSiC.
+
+Text:
+To enable the use of rBxC in such devices, there is a need to develop and 
+understand thin film deposition processes for highquality, phase pure epitaxial rBxC films. We recently showed that rB4C can be epitaxially grown using chemical vapor deposition 
+(CVD) with triethylborane (TEB, B(CH2CH3)3) as a single source precursor and 4HSiC as 
+substrates at 1300 C.21 The B4C films grew epitaxially on the (0001) surface of 4HSiC, 
+commonly known as the Cface 4HSiC, with the inplane epitaxial relationship 
+B4C(0001)1010 4HSiC(0001)1010.

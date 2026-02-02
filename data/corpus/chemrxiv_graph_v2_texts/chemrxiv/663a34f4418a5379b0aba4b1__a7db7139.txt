@@ -1,0 +1,11 @@
+Description:
+Used in microelectromechanical systems due to its piezoelectric properties and commonly deposited by methods like reactive sputtering and chemical vapor deposition.
+
+Text:
+The properties of aluminum nitride (AlN), including a wide bandgap (6.2 eV), high dielectric 
+constant (k  9), high electrical resistivity (  10111013  cm), and high thermal conductivity 
+(2.85 WK cm)1 make it an important material in microelectronics and optoelectronics. AlN is 
+also used in microelectromechanical systems (MEMS devices) due to its piezoelectric 
+properties.2 Amorphous AlN finds uses e.g., as passivation and dielectric layers.3 Thin films of 
+AlN are routinely deposited by reactive sputtering4, chemical vapor deposition (CVD)5, reactive 
+molecular beam epitaxy (MBE)6, and atomic layer deposition (ALD).

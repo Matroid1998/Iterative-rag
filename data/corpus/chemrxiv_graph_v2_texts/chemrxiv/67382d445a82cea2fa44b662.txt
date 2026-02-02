@@ -1,0 +1,21 @@
+Description:
+Used as a filler in composites to fabricate conductive paths.
+
+Text:
+3DP 
+56 
+electrodes have been used to detect trinitrotoluene 10, tetracycline 11, dopamine 12, and caffeine 
+57 
+13, and much more. However, only a few available reports focus on pharmaceutical diagnostics 
+58 
+14,15, usually reaching micromolar detection limits. 59 
+Most available reports focus on the use of commercially available filament dedicated to 3DP, 
+60 
+ProtoPasta fabricated from thermoplastic polymer poly(lactic acid) (PLA) and carbon black (CB) filler. 61 
+Many authors have fabricated dedicated composites with different fillers, i.e., carbon black (CB) 27, 
+62 
+carbon nanotubes 28, graphene 29, graphite 3, or even nanodiamond derivatives 12 in an amount 
+63 
+sufficient to fabricate percolation conductive paths (see Fig. 1b). Such a procedure makes a 3D printout 
+64 
+an attractive electrode material.

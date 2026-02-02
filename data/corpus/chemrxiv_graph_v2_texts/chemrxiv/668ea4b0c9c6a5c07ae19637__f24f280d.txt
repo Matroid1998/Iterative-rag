@@ -1,0 +1,9 @@
+Description:
+A metal used in solid-state lithium metal batteries for high energy density and safety.
+
+Text:
+Solidstate lithium metal batteries (LMBs) are recognized as the future of energy storage 
+technology, offering unparalleled energy densities and safety that far exceed those of current 
+lithiumion batteries1. However, the widespread adoption of solidstate LMBs in sectors such 
+as electric vehicles, electric aviation and energy storage is hindered by significant challenges, 
+particularly in the development of electrolyte materials.

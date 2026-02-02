@@ -1,0 +1,30 @@
+Description:
+A material with unsustainable refinement and production routes that are energy-intensive and highly polluting.
+
+Text:
+Increasing technological demands, rising inflation, and global ecological crises of the modern 
+era pose challenges that require extensive research dedicated to improving energystorage 
+technology using highperformance, economically viable, and sustainable materials. Currently, 
+lithiumion batteries (LIBs) dominate the field of energystorage technology due to their 
+relatively long life cycle and high energy density 1. However, the primary anodic material used 
+in LIBs for commercial purposes, graphitic carbon, faces limitations in terms of its low 
+theoretical gravimetric capacity of 372 mAhg, hindering its potential for future technologies 
+2. Furthermore, the unsustainable refinement and production routes of both natural and 
+synthetic graphite are energyintensive, highly polluting, and geopolitically problematic.
+
+
+---
+
+Description:
+A material with exorbitant costs, used in battery production.
+
+Text:
+Accordingly, the exorbitant costs of batterygrade graphite (8,00015,000 USD per ton) are 
+rapidly increasing amidst recent uptakes in electric vehicle production 3 4 5. Consequently, these 
+significant concerns are driving the exploration of sustainable alternative materials for battery 
+production. In this context, Silicon is a promising candidate for nextgeneration LIB anodic material in 
+accordance with its high theoretical gravimetric capacity of 4200 mAhg and relatively low 
+cost as the second most abundant element on earth 6 7. However, poor intrinsic electrical 
+conductivity (103 Scm) along with extreme volume expansion (420) during lithiation 
+significantly hinders its rate capability and cycling stability, thereby commercially limiting the 
+use of siliconbased anodes 8 9.

@@ -1,0 +1,30 @@
+Description:
+A hydrated, disordered form that undergoes oxidation to form NiOOH.
+
+Text:
+The NiOOH phase is 
+unstable at open circuit potential, but is created when polarizing 
+the Ni(OH)2 phase, of which two polymorphs exist, where 
+Ni(OH)2 is a hydrated, disordered form of Ni(OH)2.17,18 
+Charging of Ni(OH)2 first leads to an oxidation of Ni2 to Ni3 and 
+a phase change to NiOOH. Upon further charging, the oxidation 
+state of Ni increases up to Ni3.66 and a NiOOH phase is formed. When starting with Ni(OH)2, immediately NiOOH crystallizes 
+upon polarization.
+
+
+---
+
+Description:
+Formed by reducing NiOOH with reversible intercalation of cations.
+
+Text:
+In contrast to NiOOH, in NiOOH, both H2O 
+and ions, including alkali metal cations, are intercalated.1921 With 
+XAS, the intercalation of the cations was shown to be reversible 
+when reducing the sample back to Ni(OH)2.21 Yet, the nuances 
+of the phase transitions and structures are still a matter of 
+debate.22,23 For instance, Garcia et al.24 have shown the 
+formation of NiOO at 1.7 V vs. RHE with Raman spectroscopy. The peroxo band increases when using different electrolytes from 
+LiOH to NaOH, KOH, and finally CsOH. In the same manner, the 
+current density increased during the OER. They propose that the 
+NiOOM species acts as an intermediate of the OER.

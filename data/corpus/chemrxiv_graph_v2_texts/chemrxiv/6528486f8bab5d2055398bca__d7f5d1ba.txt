@@ -1,0 +1,16 @@
+Description:
+Species with heightened reactivity due to ring strain.
+
+Text:
+A fundamental concept in organic chemistry is ring strain,1,2 which is used to explain 
+the heightened reactivity of threemembered rings due to deviations from ideal bond angles.3 
+Consequently, strain release has been widely employed in organic synthesis as a powerful tactic 
+to increase reaction rates, finding applications in total synthesis,4 polymer science,5,6 
+bioconjugation7,8 bioisosterism;9,10 it is also an important concept in biosynthesis (Figure 1a).11 
+However, despite the common belief that such pentup strain energy fully explains the reactivity of 
+species such as small rings, cycloalkynes and cyclo(E)alkenes, even the simplest of these 
+systems presents a paradox cyclopropanes display markedly heightened ringopening reactivity 
+compared to cyclobutanes (krel(cyclopropane)  104107 for intramolecular ringopening 
+reactions),12 despite having nearly identical strain energies (27.5 and 26.5 kcal mol1 
+respectively).3 
+This puzzle has been the subject of extensive theoretical investigations.

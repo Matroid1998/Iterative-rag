@@ -1,0 +1,13 @@
+Description:
+Useful isosteric replacements for carbonyl compounds in medicinal chemistry.
+
+Text:
+Molecular scaffolds featuring strained fourmembered rings have become increasingly popular in medicinal chemistry 
+due to their ability to modulate the pharmacokinetic and pharmacodynamic profiles of drug candidates.1,2 These motifs 
+can lead to increased solubility, greater metabolic stability, and improved interactions between receptors and ligands.3,4 
+Cyclobutanes, azetidines, and oxetanes in particular have been demonstrated to be useful isosteric replacements for 
+aryl rings, piperidines, and carbonyl compounds, respectively.512 
+
+Figure 1. (A) Importance of 1,1diaryl 4membered rings in medicinal chemistry; (B) laborious, polar bond disconnections dominate 
+prior approaches to such scaffolds; (C) invention of a Nielectrocatalytic, modular, triply convergent approach to the synthesis of 1,1
+diaryl fourmembered rings. httpsdoi.org10.26434chemrxiv202467bb8 ORCID httpsorcid.org0000000191939053 Content not peerreviewed by ChemRxiv. License CC BY 4.0

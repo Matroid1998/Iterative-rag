@@ -1,0 +1,16 @@
+Description:
+A chiral molecule studied using ab initio and classical MD simulations.
+
+Text:
+The analysis of IR spectra based on the identication
+of eective modes 15 has been previously applied to a
+variety of molecular systems 1722 where diverse MD
+techniques were employed to generate the trajectories. In
+the present work, we focus on the IR spectroscopy of the
+alanine amino acid 2327, a chiral molecule that some
+of the authors have recently studied based on ab initio
+and classical MD simulations in dierent phases 5. The
+eective modes analysis is used here to (i) identify the
+spectral signatures of neutral and zwitterionic alanine in
+the gas phase in the region 10002000 cm1 as well as to
+httpsdoi.org10.26434chemrxiv2022v7wbxv2 ORCID httpsorcid.org0000000329514964 Content not peerreviewed by ChemRxiv. License CC BY 4.0

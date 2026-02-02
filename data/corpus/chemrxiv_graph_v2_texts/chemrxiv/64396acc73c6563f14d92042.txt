@@ -1,0 +1,14 @@
+Description:
+2D materials with electronic and photophysical properties of interest for various applications.
+
+Text:
+Another option is NIR fluorescent nanomaterials, such as semiconducting 
+singlewalled carbon nanotubes (SWCNTs)711, quantum dots12, or doped nanoparticles13. Twodimensional (2D) nanomaterials provide electronic and photophysical properties that are 
+of interest for a broad range of applications and technologies, for example in photonics, 
+electronics, catalysis, and particularly in biomedical applications1416. The most prominent 
+representative of this class is graphene17,18, among other 2D materials such as transition metal 
+dichalcogenides (TMDs)19,20 or silicate clays21. Two routes are available for generating 2D 
+nanomaterials. On the one hand, there are bottomup synthesis processes for 2D materials, such 
+as chemical vapor deposition (CVD), epitaxial growth or wet chemical processes22,23. These 
+can be used to produce thin, largearea and uniform layers, but only in small quantities and at 
+high cost.

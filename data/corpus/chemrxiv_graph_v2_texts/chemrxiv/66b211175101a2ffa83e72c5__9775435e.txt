@@ -1,0 +1,30 @@
+Description:
+A compound that is half as hard as diamond but exhibits much higher thermal and chemical stability.
+
+Text:
+In the case of the nearest neighbors of carbon, boron and nitrogen, equiatomic 
+cubic boron nitride (cBN) has been synthesized, which is half as hard as diamond but exhibits 
+much higher thermal and chemical stability 3. Research efforts to identify new superhard phases of compounds of light elements require the 
+use of structure prediction programs such as USPEX 4 and CALYPSO 5. However, novel 
+structures can also be identified through the application of crystal engineering rationale as 
+presented here. In all cases, such predictions must be validated by the quantitative study of 
+energies and the derived physical properties using firstprinciples calculations. Over the years, 
+the wellestablished quantum mechanics framework of the density functional theory (DFT) 6,7 
+has proven to be the most efficient.
+
+
+---
+
+Description:
+An equiatomic compound.
+
+Text:
+The present paper further develops the field of boron nitrides by proposing novel cohesive and 
+stable hybrid BN phases. First, tetragonal and hexagonal sp3sp2 hybrid C5 allotropes were 
+designed by crystal chemistry engineering and subsequently used as templates for the selective 
+substitution of carbon for boron and nitrogen, leading to the sesquinitride B2N3, which was then 
+transformed into the equiatomic B3N3 through the insertion of an additional boron atom into 
+B2N3. Considering that boron nitride is admittedly equiatomic, our challenging prediction of boron 
+sesquinitride is supported to some extent by the previously reported nitrogenexcess tetragonal 
+B2N3 8, but no structural details were provided for this compound. The boron nitride B116N124 
+fullerene should also be mentioned as nitrogenrich BN phase 9.

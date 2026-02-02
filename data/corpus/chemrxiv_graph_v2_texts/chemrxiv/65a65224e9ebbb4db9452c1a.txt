@@ -1,0 +1,16 @@
+Description:
+A chalcogen atom used in transition metal dichalcogenides (TMDs).
+
+Text:
+Further investigation and optimization of
+TMDbased gas sensing mechanisms hold the key to advancing this
+technology and addressing the pressing need for more robust and effi
+cient NOx monitoring strategies. In particular, the impact of comprising
+elements on the sensitivity of TMDs remains still elusive. TMDs have a chemical formula of MX2, with M a transitionmetal
+atom (Mo, W, etc.) and X a chalcogen atom (S, Se, or Te). TMDs
+reported sensitive to NOx, including molybdenum disulfide (MoS2),
+molybdenum diselenide (MoSe2), and tungsten disulfide (WS2), favor
+trigonalparticle geometry with transitionmetal atoms sandwiched be
+tween two layers of chalcogen. This makes sheets semiconducting 32,
+with most readily available donors of electrons on their surface being pz
+orbitals of the chalcogens 18, 19.

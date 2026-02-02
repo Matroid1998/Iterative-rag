@@ -1,0 +1,11 @@
+Description:
+A gas involved in electrochemical technologies and often observed in parasitic evolution during certain reactions.
+
+Text:
+The development of gas diffusion electrodes (GDEs) has enabled electrochemical carbon dioxide 
+reduction to achieve industriallyrelevant current densities while avoiding both parasitic hydrogen 
+evolution, which is often observed when using protonconducting polymer electrolytes, and parasitic 
+sorption of the carbon dioxide, which is often observed when using hydroxideconducting polymer 
+electrolytes.1 A GDE mimics the triple phase boundary of membrane electrode assemblies (MEAs) used 
+for electrochemical hydrogen technologies,2 with the polymer electrolyte replaced by a liquid, often 
+aqueous, electrolyte.

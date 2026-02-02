@@ -1,0 +1,13 @@
+Description:
+The poison of the fugu fish.
+
+Text:
+Whereas predicting retention times
+is relatively straightforward for polymeric biomolecules such as peptides2 and oligonucleotides3,
+it turned out to be an extremely challenging problem for socalled small molecules (meaning
+molecules with a mass smaller than 1000 Dalton). In the following, we will concentrate on small
+molecules of biological interest, or biomolecules for short Small biomolecules include primary and
+secondary metabolites, drugs and drug degradation products, as well as toxic small molecules such
+as tetrodotoxin, the poison of the fugu fish. Analysis of endogenous and exogenous substances in
+biological samples or even biosystems is nowadays referred to as metabolomics. Despite four decades of development1,4,5 and literally hundreds of published machine learning
+models, retention time prediction for small molecules is still far from being in everyday use.

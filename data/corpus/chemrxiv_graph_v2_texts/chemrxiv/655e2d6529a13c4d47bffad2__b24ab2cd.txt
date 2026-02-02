@@ -1,0 +1,12 @@
+Description:
+An antibacterial compound identified from the Drug Repurposing Hub with verified activity both in vitro and in vivo.
+
+Text:
+The library comprised a large portion of 
+US Food and Drug Administration (FDA) approved compounds as well as natural 
+products. With the trained model, the authors identified halicin from the Drug 
+Repurposing Hub as an antibacterial compound and verified its activity both in vitro 
+and in vivo.18 A similar approach was utilized to discover the antibiotic abaucin which 
+displayed narrowspectrum activity against Acinetobacter baumanii both in vitro and 
+in vivo, highlighting that ML models can be utilized to predict both broadspectrum as 
+well as narrowspectrum antibiotics.19 Recently, Capecchi et al.

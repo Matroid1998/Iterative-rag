@@ -1,0 +1,43 @@
+Description:
+Important arylated molecules used in the synthesis of natural products, bioactive compounds, pharmaceuticals, agrochemicals, and modern synthetic materials.
+
+Text:
+. Modern organic synthesis methodologies aim to efficiently construct important molecular frameworks 
+with the fewest possible steps, optimal convergence, minimal functional group transformations, and 
+importantly reliance on simple, divergent, commercially available or readily accessible starting 
+materials, while often favoring transition metalfree approaches and using friendly reagents. With 
+these ambitious goals in mind, our program aims to focus on the synthesis of important arylated 
+molecules, specifically (unsymmetrical) diarylmethanes and diarylketones. 1, 2 
+Diarylmethanes and diarylketones have attracted considerable interest due to their unique structural, 
+chemical, and physical properties. They are essential in the synthesis of natural products, bioactive 
+compounds, pharmaceuticals, agrochemicals, and modern synthetic materials. An important focus in 
+organic synthesis is the modular and efficient construction of these scaffolds, particularly their 
+unsymmetrical variants containing two distinct aryl groups.
+
+
+---
+
+Description:
+Synthesized using methods such as Friedel-Crafts, Grignard, and transition metal-catalyzed cross-coupling reactions.
+
+Text:
+Considerable efforts have been dedicated to the synthesis of diarylmethanes and diarylketones using 
+methods such as FriedelCraftstype reactions, Grignardtype reactions, and transition metalcatalyzed 
+crosscoupling reactions, including SuzukiMiyaura, Negishi, Kumada, and Fukuyama couplings (see 
+Figure 1). While these elegant methods play a pivotal role in chemical transformations, they are often 
+limited by challenges such as regioselectivity, air and moisture sensitivity, and the use of excess 
+amounts of reagents which associated with the use of additives. Additionally, these reactions are 
+frequently incompatible with unprotected functional groups. Although several promising stateoftheart approaches have been introduced, there remains a need 
+for the development of a simple, complementary, and comprehensive methodology for the site
+selective and substrateoriented synthesis of unsymmetrical diarylmethane and diarylketone 
+frameworks.
+
+
+---
+
+Description:
+Compounds that can be synthesized with benzylic deuterium isotope labeling.
+
+Text:
+Importantly, there is growing demand for methodologies that enable the synthesis of rare, 
+yet valuable, benzylic deuteriumisotopelabeled diarylmethanes.

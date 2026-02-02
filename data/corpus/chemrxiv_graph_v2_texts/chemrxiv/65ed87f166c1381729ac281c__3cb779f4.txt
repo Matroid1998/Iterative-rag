@@ -1,0 +1,16 @@
+Description:
+A nucleic acid base that can undergo methylation, affecting DNA structure.
+
+Text:
+The study of the native conformation of nucleic acids and its 
+eventual perturbation induced by the coupling with external 
+perturbation factors is fundamental to better assess the molecular 
+mechanisms underlying their biological role.14 Indeed, the 
+conformation of nucleic acid may change due to the interaction 
+with small molecules,4 including potential chemotherapeutic 
+drugs,5,6 but also due to the presence of DNA lesions, such as 
+base dimerization710 or strand breaks,11,12 or because of the 
+binding to functional or structural proteins.1317 Furthermore, 
+DNA compaction18,19 and the presence of epigenetic markers, 
+such as cytosine methylation,20 may also lead to significant 
+alteration of the nucleic acid structure.

@@ -1,0 +1,28 @@
+Description:
+Display high extensibility characteristic of polymers in the rubbery state.
+
+Text:
+Silicone vitrimers constitute a unique class of polymers that can combine the high extensibility of 
+elastomers with the selfhealing and reprocessability properties of covalent adaptive networks. 16 These 
+combined features arise from highly mobile poly(siloxane) networks that contain reversible dynamic 
+covalent bonds in their molecular structure. Because the glass transition temperature of poly(siloxanes) 
+lies well below room temperature, silicones display the characteristic high extensibility of polymers in 
+the rubbery state. 3, 4 Dynamic covalent bonds that rely on associative interactions allows the covalent 
+network to adapt its topology while maintaining a constant density of crosslinks. Several types of 
+dynamic covalent bonds have been exploited to synthesize silicone vitrimers.
+
+
+---
+
+Description:
+Contain dynamic bonds that undergo boronic ester exchange.
+
+Text:
+Examples include 
+silicones containing dynamic bonds that undergo boronic ester exchange 6, 7, transamination of 
+vinylogous urethanes, 4 and transthioesterification of Meldrums acids. 3 However, the selfhealing and 
+reprocessability enabled by such dynamic bonds are typically achieved at the cost of the mechanical 
+strength and creep resistance of the vitrimer. The tradeoff between the mechanical strength and the selfhealing ability of vitrimers has motivated 
+research on strategies to optimize such antagonistic properties. This effort has led to the development 
+of vitrimers combining multiple types of crosslinkers, 812 reinforced with particle fillers 1315 or featuring 
+novel architectures at the meso or macroscales.

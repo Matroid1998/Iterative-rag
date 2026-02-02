@@ -1,0 +1,21 @@
+Description:
+Used in catalysts for alkaline electrolyzers.
+
+Text:
+Alkaline elec
+trolyzers employ more abundant (and affordable)
+catalysts based on oxides of transition metals such
+as Ni 8,9. The catalyst development process is based on
+so called rational design in which one synthesizes
+only materials showing prospective activity in the
+oretical and computational prescreening. This pre
+screening can be done by computational assessment
+of the binding energies of OER surface intermedi
+ates on candidate surfaces. Such analysis allows
+for determination of the potential limiting reac
+tion step, and thereby the theoretical overpoten
+tial 1, 10. The method is however crucially de
+pendent on the reaction mechanism embedded into
+the calculation. Reaction mechanism modelling is
+therefore a central part of the computational ap
+proach.

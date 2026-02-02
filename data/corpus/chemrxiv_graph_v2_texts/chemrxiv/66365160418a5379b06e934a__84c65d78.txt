@@ -1,0 +1,25 @@
+Description:
+A hormone that activates the adrenergic receptor, triggering a complex signal transduction mechanism.
+
+Text:
+For instance, GPCRs are targeted by approximately 35 of 
+prescription pharmaceuticals, emphasizing the relevance of their 
+signal transduction cascades for pharmacology.5,6 For example, 
+the activation of the adrenergic receptor by the hormone 
+adrenaline on the extracellular side triggers a complex signal 
+transduction mechanism involving several enzymes such as 
+adenylyl cyclase (AC), protein kinase A (PKA), or the cyclic 
+nucleotide adenosine 3,5cyclic monophosphate (cAMP).2 
+cAMP is the central intracellular second messenger in this 
+cascade, forwarding the incoming signal to further downstream 
+effectors of the cell.7,8 Since cAMP is involved in controlling 
+cyclic nucleotidegated ion channels,9 exchangeproteins 
+activated by cAMP (EPAC),10 Popeye domaincontaining 
+proteins,11 and the enzyme PKA, it is one of the most intensely 
+studied second messengers.2 Among other functions, PKA 
+controls metabolic pathways, such as the catabolism of 
+glycogen or fatty acids.2 Acting as a connecting link between 
+the extracellular stimulus perceived by the GPCR and further 
+downstream effectors, cAMP not only forwards the incoming 
+signal, but its biosynthesis in multiple copies also denotes an 
+amplification step.

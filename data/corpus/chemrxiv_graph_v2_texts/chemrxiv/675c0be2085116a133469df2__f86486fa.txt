@@ -1,0 +1,9 @@
+Description:
+A cofactor involved in enzyme-dependent radical chemistries.
+
+Text:
+Recently, several classes of enzymes have been shown to be able to control nonnative 
+radical chemistries, such as enereductases (EREDs) by the Hyster group,13 pyridoxal 5phosphate (PLP)
+dependent enzymes by the Yang group (Figure 1D),14 and other examples.1522 These strategies typically 
+rely on light to generate radicals, either by accessing excited states of cofactors (e.g. flavin 
+mononucleotide (FMN) in EREDs), or by supplying an exogenous photocatalyst.
