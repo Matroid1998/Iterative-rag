@@ -15,6 +15,13 @@ from typing import Dict, List, Tuple, Any
 
 import matplotlib.pyplot as plt
 import numpy as np
+import sys
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from rag_analysis.hallucination_rag_plots.hall_plot_utils import (
+    load_no_context_wrong_questions, normalize_model_name
+)
+
 
 
 def get_base_path() -> Path:
@@ -94,7 +101,8 @@ def get_quality_model_entries() -> List[Tuple[Path, Path, str]]:
     return entries
 
 
-def analyze_distractor_latch_only(quality_file: Path, reverified_file: Path) -> Dict[str, Any]:
+def analyze_distractor_latch_only(quality_file: Path, reverified_file: Path, wrong_questions_map: Dict[str, set], model_name: str) -> Dict[str, Any]:
+
     """
     Analyze ONLY the effects of distractor latch (ignore contradictions).
     
@@ -137,7 +145,20 @@ def analyze_distractor_latch_only(quality_file: Path, reverified_file: Path) -> 
                 unmatched += 1
                 continue
             
+            # Filter: Check if question was wrong in no-context baseline
+            # Normalize internal model_name just in case, though caller provides a normalized one usually
+            normalized_name = normalize_model_name(model_name)
+            
+            # Skip check if we don't have map for this model (uncommon if key exists)
+            # But strictly: if model not in map OR question not in map[model], skip
+            if normalized_name not in wrong_questions_map:
+                continue
+                
+            if question not in wrong_questions_map[normalized_name]:
+                continue
+            
             matched += 1
+
             is_correct = is_correct_map[question]
             
             parsed = data.get('parsed_judgment', {})
@@ -243,8 +264,9 @@ def plot_distractor_latch_only(all_stats: Dict[str, Dict], output_dir: Path):
     
     ax1.set_ylabel('Average Accuracy (%)', fontsize=13, fontweight='bold')
     # Removed "(Mean over Models ± SEM)" from title as requested
-    ax1.set_title('Accuracy Comparison: Distractor Latch Effect', 
-                  fontsize=15, fontweight='bold', pad=15)
+    ax1.set_title('Accuracy Comparison: Distractor Latch Effect\n(Filtered: No-Context Wrong Questions Only)', 
+                  fontsize=14, fontweight='bold', pad=15)
+
     ax1.set_ylim(0, 100)
     ax1.grid(axis='y', alpha=0.3, linestyle='--')
     ax1.legend(fontsize=11)
@@ -287,8 +309,9 @@ def plot_distractor_latch_only(all_stats: Dict[str, Dict], output_dir: Path):
                    label='Has Distractor', color='#e74c3c', alpha=0.8)
     
     ax2.set_ylabel('Accuracy (%)', fontsize=13, fontweight='bold')
-    ax2.set_title('Per-Model: Accuracy With vs Without Distractor Latch', 
-                  fontsize=15, fontweight='bold', pad=15)
+    ax2.set_title('Per-Model: Accuracy With vs Without Distractor Latch\n(Filtered: No-Context Wrong Questions Only)', 
+                  fontsize=14, fontweight='bold', pad=15)
+
     ax2.set_xticks(x_models)
     ax2.set_xticklabels(models, rotation=45, ha='right', fontsize=10)
     ax2.legend(fontsize=12)
@@ -328,8 +351,9 @@ def plot_distractor_latch_only(all_stats: Dict[str, Dict], output_dir: Path):
                 ha='center', va='bottom', fontweight='bold', fontsize=10)
     
     ax3.set_ylabel('Percentage of Questions (%)', fontsize=13, fontweight='bold')
-    ax3.set_title('Distractor Latch Prevalence by Model', 
-                  fontsize=15, fontweight='bold', pad=15)
+    ax3.set_title('Distractor Latch Prevalence by Model\n(Filtered: No-Context Wrong Questions Only)', 
+                  fontsize=14, fontweight='bold', pad=15)
+
     ax3.set_xticks(x_models)
     ax3.set_xticklabels(models, rotation=45, ha='right', fontsize=10)
     ax3.grid(axis='y', alpha=0.3, linestyle='--')
@@ -426,13 +450,21 @@ def main():
     output_dir = base / "src" / "plots" / "contradiction_distractor_latch"
     output_dir.mkdir(parents=True, exist_ok=True)
     
+    # Load wrong questions map
+    wrong_questions_map = load_no_context_wrong_questions(base / 'src')
+
+    
     print("Analyzing ONLY distractor latch effects (ignoring contradictions)...")
+    print("FILTER ACTIVE: Including ONLY questions wrong in no-context baseline.")
     
     all_stats = {}
     for quality_path, reverified_path, display_name in get_quality_model_entries():
-        stats = analyze_distractor_latch_only(quality_path, reverified_path)
+        # Pass model name for filtering
+        # We need the key used in wrong_questions_map which is typically normalized
+        stats = analyze_distractor_latch_only(quality_path, reverified_path, wrong_questions_map, display_name)
         all_stats[display_name] = stats
         print(f"Loaded {display_name}")
+
     
     print(f"\nTotal models analyzed: {len(all_stats)}")
     
