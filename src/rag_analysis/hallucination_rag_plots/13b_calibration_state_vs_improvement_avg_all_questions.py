@@ -32,6 +32,7 @@ def main():
     
     # Load filter list (No Context Wrong Questions)
     wrong_questions_map = load_no_context_wrong_questions(BASE_DIR)
+
     
     # Group by source model and calibration state
     model_state_correctness = defaultdict(lambda: defaultdict(list))
@@ -72,6 +73,7 @@ def main():
             
         if question not in wrong_questions_map[model_name]:
             continue
+
 
         # Get calibration state
         # utils might standardize keys, but assuming structure is preserved
@@ -174,6 +176,8 @@ def main():
     ax.set_xlabel('Confidence Calibration State', fontsize=12, fontweight='bold')
     ax.set_title('Average Accuracy by Calibration State - Filtered\n(No-Context Wrong Questions Only)', 
                  fontsize=14, fontweight='bold', pad=20)
+
+
     
     ax.grid(axis='y', alpha=0.3, linestyle='--')
     ax.set_ylim(0, 100)
