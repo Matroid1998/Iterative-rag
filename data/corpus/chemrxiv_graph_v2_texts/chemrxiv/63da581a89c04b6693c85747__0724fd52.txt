@@ -1,0 +1,11 @@
+Description:
+Described as multistage Weitz type redox derivatives.
+
+Text:
+Organic redox systems are molecules that are both investigated for fundamental purposes (electron transfer processes and 
+reactivity) and used in applied materials science (conducting materials, photovoltaic devices, batteries or spintronic).1 A 
+common strategy to design such compounds is to link two heteroatoms through a bridge displaying an even number of sp2 
+carbon atoms.2 Such derivatives are called Weitz type redox systems and typically display three stable redox states. Among 
+them, tetrathiafulvalene and methylviologens (MV) are the most widely used electron donors and electron acceptors, 
+respectively.3 Although the applicability of this strategy to phosphorus as the single heteroatom was postulated back in 1978,2 
+organophosphorus multistage Weitztype redox derivatives were described by our group in 2020 only (Fig.

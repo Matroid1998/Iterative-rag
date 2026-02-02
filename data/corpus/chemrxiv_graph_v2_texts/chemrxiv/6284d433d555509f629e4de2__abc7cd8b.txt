@@ -1,0 +1,13 @@
+Description:
+A compound whose derivatives undergo carbon-oxygen bond activation with nickel catalysts for coupling reactions.
+
+Text:
+To address this, we built a literaturemined, openaccess reaction dataset that focuses on
+the Nicatalyzed CO bond activation to form CC and CN bonds the NiCOlit dataset.16
+It gathers more than two thousand peerreviewed reactions with detailed experimental
+conditions. As a singular literature representative dataset, NiCOlit stands as a benchmark
+for machine learning prediction of chemical yields found in published reaction data. II. RESULTS AND DISCUSSION
+A. Description of NiCOlit
+NiCOlit was manually extracted from published reaction data cited in a recent review from
+Diao and coworkers17. In this review, the authors focus on the activation of carbonoxygen
+bonds of phenol derivatives with nickel catalysts for coupling reactions.

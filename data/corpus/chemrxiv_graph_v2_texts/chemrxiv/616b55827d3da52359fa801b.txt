@@ -1,0 +1,12 @@
+Description:
+Biomolecules analyzed using MALDI MS.
+
+Text:
+MALDI MS has been widely used in the analysis of biomolecules including nucleic acids, 
+peptides, proteins and oligosaccharides. However, after more than 20 years of research, 
+the mechanism of gas phase ion formation in the process of MALDI is still under debate.1
+9 In most of models proposed in the literature, free ions in the plume were assumed before 
+the application of the ion extraction potential, which implies or gives the impression of an 
+overall charge unbalanced plume.2 In this article, the ion pair thermal model is presented. Key assumptions of the model include thermal desorption and ionization, strong tendency 
+to gas phase neutralization, ion pair formation, overall charge balanced plume and 
+thermal equilibrium.

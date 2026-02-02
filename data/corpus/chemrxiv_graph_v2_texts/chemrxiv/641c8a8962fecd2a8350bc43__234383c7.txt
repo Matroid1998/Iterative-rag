@@ -1,0 +1,18 @@
+Description:
+Side groups whose split signals characterize different stacking modes in 2D COFs.
+
+Text:
+In 2017, Fan et al.17 confirmed
+that SIOCCOF8 and SIOCCOF9 stack in an inclined ar
+rangement using a combination of powder XRD, poresize
+distribution analysis, and transmission electron microscopy
+(TEM) analysis. In 2022, Kang et al.11 used 13C solidstate
+nuclear magnetic resonance (ssNMR) to study the chemical
+environment of atoms in adjacent layers of 2D COFs and
+reported that different stacking modes can be quantitatively
+characterized by the split signals of the methoxymethyl side
+groups. In the same year, Natraj et al.10 employed continu
+ous rotation electron diffraction and XRD to demonstrate that
+TAPPyPDA and TAPBDMPDA COFs are disordered along
+the stacking c direction while remaining ordered within the ab
+plane.

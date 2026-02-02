@@ -1,0 +1,22 @@
+Description:
+A class of compounds including 5fluorouracil used in cancer treatment.
+
+Text:
+49 
+Fluorinated bioactive small molecules have a remarkable role in modern medicinal 
+50 
+chemistry, as the incorporation of fluorine into drug candidates enhances their bioavailablility, 
+51 
+metabolic stability, binding affinity to target proteins, and provides a variety of beneficial 
+52 
+pharmacological properties14. One such compound is 5fluorouracil (5FU), a fluoropyrimidine 
+53 
+antimetabolite commonly used to treat colorectal cancer. A lipophilicmasked analog of 5FU, 
+54 
+carmofur, was developed as an antineoplastic agent which covalently inhibits acid ceramidase, 
+55 
+leading to ceramidaseinduced apoptosis58. Through recent drug repurposing efforts, carmofur 
+56 
+has been identified as a potent covalent inhibitor of SARSCoV2 main protease (Mpro) activity, 
+57 
+suggesting carmofur might be a novel antiviral lead for SARSCoV2 911 (Fig. 1b).

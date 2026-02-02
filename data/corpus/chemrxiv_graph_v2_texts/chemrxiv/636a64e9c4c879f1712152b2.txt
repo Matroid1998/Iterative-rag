@@ -1,0 +1,11 @@
+Description:
+Used in dynamic nuclear polarization at liquid helium temperatures.
+
+Text:
+This wellknown phenomenon, improperly termed radiation damping (RD), has been studied
+decades ago9, 37 and has motivated a wealth of methodological work aiming at its suppression
+or control in solution NMR.29, 13, 7 Such a magnetization behavior can also be generated in the
+solid state, when the spins are brought to a high level of polarization, as has been demonstrated
+using dynamic nuclear polarization (DNP) at liquid helium temperatures. Even less common is
+the observation of multiple, selfsustained, maser pulses in the solid state. A few such examples
+have been observed in the context of DNP at Helium11, 40 or liquid Nitrogen23 temperatures.

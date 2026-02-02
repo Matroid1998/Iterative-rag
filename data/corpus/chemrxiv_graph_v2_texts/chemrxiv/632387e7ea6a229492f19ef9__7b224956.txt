@@ -1,0 +1,33 @@
+Description:
+A cubic Laves phase forming a pyrochlore network.
+
+Text:
+Bi is known to form several stable hypervalent polyan
+ions, such as Bi square network found in LiBi and NaBi but not 
+observed in the isoelectronic NaSb14. Similarly, CaBi2 and the 
+recently reported SrBi2 both host a hypervalent Bi square lattice 
+5,6, which is missing in the isoelectronic CaSb2 7. A number of binary bismuth superconductors are known, in
+cluding Ca11Bi10x 8, CaBi2 9,10, SrBi3 11,12, BaBi3 13, Ba2Bi3 14, 
+LiBi 4,15, NaBi 3, KBi2 1618, RbBi2 18, and CsBi2 19. The latter 
+three compounds are cubic Laves phases, crystallizing in a re
+latively simple MgCu2type structure in which Bi atoms form a 
+pyrochlore (vertex sharing tetrahedral) network (Fig. 1).
+
+
+---
+
+Description:
+A compound where superconductivity emerges from the Bi42 pyrochlore lattice.
+
+Text:
+Inter
+estingly, while the MgCu2 is the 5th most common binary inter
+metallic structure type 20, only a few of the known compounds 
+feature a pblock element occupying the pyrochlore network  
+besides the three dibismuthides, these are MgIn2 21, SnS2 22, and 
+RAl2, (R  Sr, Ba, rareearth metals, Th, U). Here we present the results of our experimental and computa
+tional studies on RbBi2 and CsBi2, concentrated on the effects 
+of strong SOC on superconducting properties. We show that in 
+both compounds superconductivity emerges from the Bi42 py
+rochlore lattice and that the relativistic effects play a complex 
+role in stability and properties of the two phases.

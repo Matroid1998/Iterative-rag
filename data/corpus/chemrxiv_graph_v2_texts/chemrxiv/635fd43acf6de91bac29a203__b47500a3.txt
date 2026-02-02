@@ -1,0 +1,17 @@
+Description:
+Masking is employed in vivo for targeted cargo delivery.
+
+Text:
+Elegant examples include the deliv
+ery of GFP7 and human ribonuclease 1.8 However, there are 
+limitations that must be considered when carboxylate
+masking is employed in vivo for the purpose of targeted 
+cargo delivery. First, most esters are prone to spontaneous 
+hydrolysis under acidic, neutral, or basic conditions.9,10 The 
+body features numerous pH gradients (e.g., the pH in the 
+gastrointestinal tract ranges from 5.7 to 7.4), which will re
+sult in offtarget delivery upon systemic administration. Second, esterhydrolyzing enzymes are ubiquitously ex
+pressed throughout the body in nearly all cell types, leading 
+to indiscriminate cargo release. In general, ester stability is 
+correlated to size and this property has been leveraged to 
+tune the pharmacokinetics of drugs such as androgens.

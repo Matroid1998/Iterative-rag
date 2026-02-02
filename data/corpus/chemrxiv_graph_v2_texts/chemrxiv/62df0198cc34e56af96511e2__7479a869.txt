@@ -1,0 +1,17 @@
+Description:
+Exhibits exceptional mechanical properties at higher temperatures, electrical insulation, and radiation shielding.
+
+Text:
+Boron nitride nanotubes (BNNT) exhibit exceptional mechanical properties at higher 
+temperatures, electrical insulation, and radiation shielding 16. BNNTs have recently been 
+shown to be an excellent reinforcement in nanocomposite materials 1, 7, 8. However, to 
+efficiently and effectively fabricate highperformance BNNTreinforced polymer matrix 
+composites (PMCs), a thorough understanding of the BNNTpolymer interfacial interaction is 
+needed. Resinreinforcement wettability is a key design parameter in the manufacturing of highquality 
+PMCs. Wettability is often quantified by determining the contact angle of resin liquid droplets on 
+reinforcement surfaces. Experimental measurement of contact angle is an expensive and a 
+complex procedure. Fortunately, molecular dynamics (MD) can be used to simulate the 
+
+2
+interaction at composite interfaces, predict resinreinforcement contact angle, and provide 
+physical insight into observed interfacial behavior 916.

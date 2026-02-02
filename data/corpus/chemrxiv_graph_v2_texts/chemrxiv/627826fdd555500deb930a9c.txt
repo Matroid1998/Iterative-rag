@@ -1,0 +1,11 @@
+Description:
+A polymer synthesized via atom transfer radical polymerization (ATRP) with synthetic flexibility for end group engineering.
+
+Text:
+In contrast to conventional fluorescent polymers incorporating FRET systems, fewer 
+colortunable TSCT polymers have been reported likely due to the multistep and tedious monomer syntheses. Their applications are predominantly restricted to the fabrication of optically active layers in organic lightemitting 
+diodes37. We have recently reported that colortunable TSCT polymers could be obtained via end group engineering of 
+polystyrene synthesized from a singlefluorophore initiator38, thanks to the synthetic flexibility of atom transfer 
+radical polymerization (ATRP)3941. Specifically, structurally distant TSCT from the polymer chain end to the 
+acceptortype fluorophore was induced by an unexpected chainend deactivation. Thus, continuous emission 
+wavelength tuning could be achieved by varying the polymer chain length. However, despite the simplicity and

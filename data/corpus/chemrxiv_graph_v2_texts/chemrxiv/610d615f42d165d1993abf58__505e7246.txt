@@ -1,0 +1,12 @@
+Description:
+A class of well-studied photoswitches that undergo efficient isomerization from their thermodynamically stable form (E) to their metastable form (Z) using ultraviolet light (314 nm).
+
+Text:
+Light is an ideal external stimulus to promote organic reactions. Photoswitches are a class
+of molecules that absorb light and reversibly interconvert between their thermodynamically
+stable and metastable forms to create photostationary states. Azobenzenes are a class of
+wellstudied photoswitches that undergo ecient isomerization from their thermodynami
+cally stable form (i.e., E) to their metastable form (i.e., Z) using ultraviolet light (314 nm).1
+The Z E isomerization is promoted with 365 nm light.1 This relatively highenergy
+light (e.g., ultraviolet) may promote undesired side reactions that compete with the iso
+merization pathway (e.g., electrocyclic ringclosing reactions).

@@ -1,0 +1,13 @@
+Description:
+Involved in hydrogen abstraction reactions.
+
+Text:
+The quantitative description of statetostate dynamics properties comparable to 
+experiments needs full dimensional quantum mechanical (QM) calculations based on 
+accurate and global potential energy surfaces (PES). In the case of polyatomic systems 
+this goal is far from being achieved. Recently, our group has analysed this problem1 by 
+studying the current status of the X  C2H6 X H, F(2P), Cl(2P), O(3P), OH hydrogen 
+abstraction reactions. We concluded that the experimenttheory comparison worsens 
+when we go from macroscopic properties (average properties, such as the rate constants) 
+to microscopic properties (statetostate properties, such as product vibrational 
+distribution).

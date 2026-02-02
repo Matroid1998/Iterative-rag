@@ -1,0 +1,11 @@
+Description:
+Produced by omission of bueE, indicating BueE's role in catalyzing multioxidation of terminal methyl groups to carboxylic acids.
+
+Text:
+of the reassembled bue gene cluster into Aspergillus nidulans for heterologous expression resulted in the production of 
+burnettiene A under native promoters. Omission of bueE encoding a cytochrome P450 led to the production of preburnettiene A, confirming 
+that BueE is responsible for catalysing the regiospecific multioxidation of terminal methyl groups to carboxylic acids. Similarly, bueF was 
+shown to encode an esterforming methyltransferase, with its omission resulting in the production of the tricarboxylic acid, preburnettiene 
+B. Introduction of an additional copy of the transcription factor bueR under the regulation of the gpdA promoter significantly improved the 
+heterologous production of the burnettienes. Burnettiene A displayed strong in vitro cytotoxicity against mouse myeloma NS1 cells (MIC 0.8 
+gmL).

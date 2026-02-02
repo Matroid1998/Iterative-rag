@@ -1,0 +1,29 @@
+Description:
+A reactive species involved in transfer catalysis to CH bonds and olefinic substrates.
+
+Text:
+Since Breslows seminal discovery of Mn porphyrincatalyzed amination of cyclohexane, Mn 
+tetrapyrroles have emerged as an important platform for nitrene transfer catalysis.1 The 
+combination of nitrene precursors, such as iminoiodinanes1c, 2 or Nhaloamides,3 and Mn(III) 
+porphyrin catalysts enables nitrene transfer to CH bonds and olefinic substrates to afford amines 
+and aziridines, respectively (Figure 1). Enantioselective nitrene transfer catalysis has been realized 
+using D4symmetric chiral Mn porphyrin catalysts.2c, 4 More recently, White et al. have developed 
+related Mn(III) phthalocyanines as highly active catalysts for aliphatic CH amination.5 In 
+analogy to metalloporphyrinsupported metal oxo intermediates in CH hydroxylation catalysis, 
+the developed nitrene transfer catalysis is proposed to proceed via the intermediacy of reactive 
+highvalent Mn nitrenoids.6 
+
+Figure 1.
+
+
+---
+
+Description:
+A reactive intermediate involved in nitrene transfer reactions.
+
+Text:
+Mn tetrapyrrolecatalyzed nitrene transfer catalysis has been applied to both CH amination and olefin 
+aziridination reactions. Electrophilic Mn nitrenoids are proposed to mediate this family of nitrene transfer reactions. The reactivity of the Mn nitrenoids that are invoked as transient intermediates in nitrene 
+transfer catalysis renders these species challenging to observe.7 Stabilization of these 
+intermediates via synthetic modification of the ancillary ligand set can attenuate the reactivity of 
+the supported Mn nitrenoid and enable isolation.

@@ -1,0 +1,17 @@
+Description:
+Used as a catalyst in CO2 hydrogenation.
+
+Text:
+Besides these benefits for Fe based catalysts, additional watergasshift 
+24 
+(WGS, (3)) activity has to be considered as a competing reaction in CO2 hydrogenation 23, 
+25 
+while solid carbon formation via Boudouard reaction (4) and the formation of ethylene (5) as 
+26 
+major byproduct plays a potential role for CO hydrogenation under low temperature and 
+27 
+pressure conditions 24. 28 
+CO  H2O  CO2  H2 
+Ro   41 kJ mol1 
+(3) 
+2 CO  CO2  C()

@@ -1,0 +1,28 @@
+Description:
+Cyclic Ni(O2) was identified in an Ar matrix.
+
+Text:
+There are relatively few experimental studies concerning the structure812 and reactivity of 
+NiO20.1316 Neutral NiO2 was first studied in ideal gas matrices, where three isomers were 
+identified in an Ar matrix9 cyclic Ni(O2), bent NiOO, and linear ONiO (referred to as NiO2 
+hereafter). Subsequent work in Ne matrices found preferential formation of NiO2 with trace 
+Ni(O2), allowing for the extraction of two and three vibrational frequencies for these species, 
+respectively.12 In the gas phase, anion photoelectron spectroscopy (PES) has been used to probe 
+the geometric and electronic structure of these species.
+
+
+---
+
+Description:
+Has an electron affinity of 0.82(3) eV, which is considerably lower than that of NiO2.
+
+Text:
+The first PES study of NiO2 was 
+performed by Wu and coworkers,10 who observed photodetachment from both the bent Ni(O2) 
+and linear NiO2 anions, finding the electron affinity (EA) of Ni(O2) to be 0.82(3) eV, 
+considerably lower than that of NiO2 at 3.05(1) eV. The NiO2 band showed partially resolved 
+vibrational structure with a frequency of 750 cm1. This work also found transitions to two low
+lying electronic states of NiO2 with term energies of 0.40(2) and 0.77(3) eV. Subsequent anion 
+PES work performed by Ramond et al.11 reexamined the ground state spectrum of NiO2 with 
+improved resolution, yielding a refined EA of 3.043(5) eV as well as the v1 symmetric stretch 
+frequency of 745(30) cm1 from a progression in this mode.

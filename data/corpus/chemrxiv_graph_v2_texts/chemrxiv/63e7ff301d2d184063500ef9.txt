@@ -1,0 +1,10 @@
+Description:
+Reactive groups used in chemical crosslinking.
+
+Text:
+The nature of the reactive group directs the specificity of the 
+crosslinker, there are a many such reactive groups such as maleimides, diazoacetateesters or 
+azides. However, Nhydroxysuccinimide (NHS) esters are by far the most popular reactive 
+group. Our group has designed a novel dual cleavable chemical crosslinker incorporating NHS 
+ester reactive groups.13 The popularity of NHSester based aminereactive crosslinkers could be 
+attributed to several factors such as the stability of amide linkage to primary amines in proteins at

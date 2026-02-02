@@ -1,0 +1,48 @@
+Description:
+Can react as an electrophilic component or serve as a pronucleophile at the carbon in their enolized form.
+
+Text:
+The selective formation of carboncarbon bonds is a cornerstone of organic synthesis1. In this 
+respect, the carbonyl group is particularly relevant due to its dual role. It can either react as 
+electrophilic component, or serve as a pronucleophile at the carbon in their enolized form to 
+react with a broad range of external electrophiles 2 , 3 . In comparison to conventional 
+nucleophiles or electrophiles, nonactivated olefins exhibit much lower reactivity and generally 
+require a transitionmetal catalyst to engage in reaction with carbonyl compounds4,5,6,7,8,9,10,11. Over the past decade, the transition from precious metals to catalysts based on earthabundant 
+metals made impressive progress, and especially nickel became a powerful tool due to its low
+cost and unique reactivity profiles12,13.
+
+
+---
+
+Description:
+Compounds that participate in reductive couplings with unsaturated carbon-carbon bonds utilizing their electrophilic nature.
+
+Text:
+For instance, lowvalent nickel(0) complexes promote 
+reductive couplings between carbonyl compounds and unsaturated carboncarbon bonds 
+utilizing the electrophilic nature of the carbonyl group12 (Fig. 1a). These transformations 
+proceed through an oxidative cyclization mechanism and subsequent hydride transfer from an 
+external hydride source4,14. A variety of 1,3dienes, allenes, enynes, alkynes can serve as the 
+nucleophilic component leading to the formation of alkylated or alkenylated secondary and 
+tertiary alcohols4. A range of chiral ligands were used for enantioselective transformations15, 
+16. In stark contrast, examples for the complementary functionalization of carbonyls with 
+olefins under nickel(0) catalysis are scarce despite being highly desirable synthetic tools 
+17 ,18 ,19 ,20.
+
+
+---
+
+Description:
+A functional group involved in C(sp3)H bond activation through ligand-to-ligand hydrogen transfer.
+
+Text:
+Mechanistically, the underlying nickelcatalyzed C(sp2)H bond activation process operates 
+via a ligandtoligand hydrogen transfer (LLHT)29 instead of the typical oxidative addition 
+process30. The C(sp2)C(sp3)reductive elimination is considered as the rate determining step 
+(Figure 1b). Based on these findings, we hypothesized that an extension of this concept could 
+help to address the C(sp3)H bond of ketones under comparable conditions and open new 
+catalysis manifold for ketone functionalizations (Fig. 1c). This pivotal step could be either 
+envisaged by coordination of the ketone and acceptor olefin to the nickel(0) triggering a LLHT 
+of the carbonyl C(sp3)H. The LLHT would involve a 7membered transition state and lead 
+to a favorable oxaallyl nickel(II) species. Alternatively, one could formulate a C(sp3)H 
+oxidative addition forming oxaallyl nickel(II) hydride.

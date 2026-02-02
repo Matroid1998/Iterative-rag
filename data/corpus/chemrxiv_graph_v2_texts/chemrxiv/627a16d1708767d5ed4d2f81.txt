@@ -1,0 +1,17 @@
+Description:
+An element or compound that forms part of the inorganic layers in metal halide perovskites.
+
+Text:
+In the last years there has been a growing interest around layered or twodimensional 
+(2D) metal halide perovskite (MHPs) for their superior stability and rich structural diversity, 
+which may found application in several devices spanning from photovoltaics to lasing.1,2 The 
+most investigated families of 2D perovskites are the RuddlesdenPopper (RP) and Dion
+Jacobson (DJ) phases of general formula A2An1MnX3n1 and AAn1MnX3n1, respectively, 
+where A and A are organic cations, and n represents the number of staggered inorganic layers 
+made of metal M and halide X.3 Most of the investigated organic spacers for 2D perovskites, to 
+date, are monoammonium cations, while diammonium cations have been less explored.3 In the 
+latter case, and in particular for short cations, the DJ phases are generally formed, where the 
+inorganic layers are stacked in an eclipsed fashion on top of each other, differently from RP 
+where they are staggered.3 In addition, not always a diammonium cation stabilizes a 2D 
+perovskite, and 1D structures, characterized by linear chains of octahedra, have been also often 
+observed.

@@ -1,0 +1,17 @@
+Description:
+A MOST system with high energy density of almost 1 MJ/kg.
+
+Text:
+One of the most promising MOST systems is the norbornadienequadricyclane (NBDQC)
+couple (Figure 1), which was introduced as a potential MOST system in 1961 by Dauben
+and Cargill,14 although the isomerization reaction of a NBDQC dicarboxylic acid system
+was already observed in 1954 by Cristol and Snell.15,16 Since then, the system has been ex
+tensively studied due to its high energy density of almost 1 MJkg, which is estimated to be
+the fundamental upper limit of MOST systems and comparable to Liion batteries.7
+However, the absorption spectrum of NBD lies in the UV region with absorption onset at
+267 nm, and has therefore no overlap with the spectrum of solar radiation.12 Several studies
+have shown that it is possible to obtain a large redshift in the absorption spectrum and bet
+ter quantum yield, but at the expense of a decrease in the energy density due to the added
+weight of the chromophore.1724 For example, in a recent perspective OrregoHernndez et
+al.24 highlight seven examples of NBD systems with absorption onsets of 362466 nm, but
+energy densities of 0.100.56 MJkg  compared to 0.97 MJkg for unsubstituted NBD.

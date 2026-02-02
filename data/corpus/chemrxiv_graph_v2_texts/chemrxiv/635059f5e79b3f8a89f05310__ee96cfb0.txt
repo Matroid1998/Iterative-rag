@@ -1,0 +1,26 @@
+Description:
+Altering the alkyl and aryl substituents on phosphorus can manipulate steric hindrance and electronic effects.
+
+Text:
+Josiphostype 
+ligands 
+are 
+commonly 
+implemented 
+in 
+asymmetric catalysis due to their tunability and effectiveness. By 
+altering the alkyl and aryl substituents on phosphorus, both 
+steric hindrance and electronic effects of the ligand can be 
+manipulated to optimize the performance of the catalyst.1 One 
+feature of these ligands is that they contain stereocenters close to 
+the metal center, which helps impart chirality to the reactive 
+substrate.2 Josiphostype ligands are widely used across different 
+reaction 
+types, 
+including 
+asymmetric 
+allylation,3 
+hydrosilylation,4 and hydroboration(Scheme 1a).5 
+ The chiral building block that is used as starting material for 
+Josiphostype ligands is 1(dimethylamino)ethylferrocene 
+((R)1), also known as Ugis amine.

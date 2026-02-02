@@ -1,0 +1,20 @@
+Description:
+Has polaritonic potential energy surfaces when coupled to a lossy photonic mode.
+
+Text:
+We
+apply both methods to the analysis of several paradigmatic
+systems, including the groundstate polaritonic structure of
+formaldehyde coupled to cavity modes that can modify the
+symmetry of the groundstate wavefunction, and the polari
+tonic potential energy surfaces of the magnesium hydride ion
+coupled to a lossy photonic mode. We also compute the pho
+ton occupation of groundstates obtained from NHCQED
+CIS in the ultrastrong coupling regime for a variety of loss
+rates, showing qualitative agreement with analysis found in
+Ref. 6. II. THEORY
+We start with the PauliFierz Hamiltonian in the dipole ap
+proximation in the length gauge, written in atomic units, fol
+lowing References 26, 29, and 34
+H  He  Hp  Hdse  Hep,
+(1)

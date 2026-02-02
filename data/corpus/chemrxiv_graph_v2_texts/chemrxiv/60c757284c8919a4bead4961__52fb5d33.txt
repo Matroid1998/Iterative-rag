@@ -1,0 +1,10 @@
+Description:
+A surface termination for MXenes that enhances electrochemical properties for battery applications.
+
+Text:
+The most
+common surface terminations reported for MXenes are O, OH, F, and S. It is found that O and S terminated MXenes
+have better electrochemical properties for battery applications relative to the OH and F functionalized MXenes. The
+main advantage of Mn1XnSx MXenes over Mn1XnOx monolayers is that the former has lower diffusion barriers
+than the latter 10, 11. It is reported that Ti2CS2 monolayers exhibit signicantly higher gravimetric capacity for Mg
+compared to that of Ti2CO2 nanosheets 3.

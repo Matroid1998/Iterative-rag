@@ -1,0 +1,37 @@
+Description:
+Used in packed bed form in tubular flow reactors to influence product distribution.
+
+Text:
+Consequently, residence time 
+distributions (RTD) in tubular flow reactors equipped with a 
+packed bed of magnesium turnings will have an impact on 
+product distribution. To minimize the contact between the 
+halide educt and the Grignard reagent, a plugflow like 
+behaviour is favourable, ideally having a constant velocity 
+across the crosssection of the tube and no backmixing, 
+resulting in a narrow residence time distribution. The residence 
+time distributions of chemical reactors depend on the flow and 
+mixing conditions and is a longknown tool of reactor 
+development to estimate the hydrodynamic characteristics of a 
+reactor.
+
+
+---
+
+Description:
+Used in the form of turnings in packed bed reactors to influence flow behavior.
+
+Text:
+Some literature reviews do exist, dealing with 
+the concept of oscillatory flow reactors (OFR) and giving an 
+overview of the broad potential and applications of this specific 
+reactor type.2732 Investigated solidcontaining reaction systems 
+operated under oscillating flow conditions consider on the one 
+hand solid particles being suspended in the fluid2224,26 and on 
+the other hand being placed in packed beds.18,19,25,3335 
+In the case of the flow tube reactor used in this publication, it is 
+not a COBR type reactor, but a tubular reactor fitted with a 
+packed bed of magnesium turnings. The magnesium turnings in 
+the reactor cartridge present obstacles to the flow through the 
+reactor, influencing flow behaviour, so the fluid usually does not 
+flow through the reactor in a uniform way.

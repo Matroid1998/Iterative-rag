@@ -1,0 +1,14 @@
+Description:
+A greenhouse gas whose footprint is considered in optimizing battery manufacturing.
+
+Text:
+However, after three decades of commercial 
+success of LIBs, the cathodes and anodes chemistries are rather similar to the ones 
+commercialized in 1991 by Sony (LiCoO2  graphite), namely layered transition metal oxides (as 
+LiNixMnyCozO2) cathodes and carbonbased anodes, respectively.1 Then, an alternative pathway 
+to enhance LIBs performance, cost and CO2 footprint relies on optimizing composite electrodes, 
+cells and battery packs manufacturing.1115 It has been estimated that the composite electrodes 
+production alone account for 40 of the battery cells production cost, and, in between them, 
+50 comes from slurry coating and solvent evaporation.16 In another study, Schnemann et al.17 
+found that coating and drying represent the main cost of electrode and cell manufacturing, except 
+for the cost of materials.

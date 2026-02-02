@@ -1,0 +1,12 @@
+Description:
+13C nuclei involved in polarization transfer in hydrogenative PHIP.
+
+Text:
+The major advantage of the transfer in high field is its experimental simplicity, as it does not require any 
+field cycling equipment and is thus feasible on almost any modern NMR or MRI system, and substantial 
+levels of heteronuclear polarization in high field have been reported 22, 23. However, low fields often prove 
+more efficient for PHIP transfer 24, 27. This is partly due to lower polarization losses induced by singlet
+triplet mixing at low magnetic fields when the two protons stemming from pH2 become chemically 
+inequivalent in the reaction intermediates or in the product molecule 28, 29. Polarization transfer in 
+hydrogenative PHIP generally implies the transfer from protons to 13C nuclei, in particular carbonyl 
+carbons.

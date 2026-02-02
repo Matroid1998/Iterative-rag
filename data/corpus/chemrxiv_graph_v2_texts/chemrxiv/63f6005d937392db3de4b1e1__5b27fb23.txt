@@ -1,0 +1,50 @@
+Description:
+Low-valent complexes that promote reductive couplings between carbonyl compounds and unsaturated carbon-carbon bonds.
+
+Text:
+For instance, lowvalent nickel(0) complexes promote 
+reductive couplings between carbonyl compounds and unsaturated carboncarbon bonds 
+utilizing the electrophilic nature of the carbonyl group12 (Fig. 1a). These transformations 
+proceed through an oxidative cyclization mechanism and subsequent hydride transfer from an 
+external hydride source4,14. A variety of 1,3dienes, allenes, enynes, alkynes can serve as the 
+nucleophilic component leading to the formation of alkylated or alkenylated secondary and 
+tertiary alcohols4. A range of chiral ligands were used for enantioselective transformations15, 
+16. In stark contrast, examples for the complementary functionalization of carbonyls with 
+olefins under nickel(0) catalysis are scarce despite being highly desirable synthetic tools 
+17 ,18 ,19 ,20.
+
+
+---
+
+Description:
+Catalyzes nondirected (hetero)arene C(sp2)H activations and olefin hydroarylations under mild conditions.
+
+Text:
+Unlike the abovedescribed reductive couplings amenable to a variety of CC 
+unsaturations, the redoxneutral ketone functionalizations so far very limited and only 
+observed with selected 1,3dienes17,18. The transformations require either harsh conditions 
+andor the addition of base or wateralcohols for a reactive catalyst system. These eventually 
+lead to epimerization of sensitive stereocenters and thus pose challenges for diastereo andor 
+enantioselective processes. Thus, a more general approach is desirable and would be of a high 
+synthetic value. Transitionmetal catalyzed CH bond functionalization became an important tool to construct 
+CC bonds21,22,23,24. In this context, nondirected nickel(0)catalyzed (hetero)arene C(sp2)H 
+activations and downstream reaction with olefins opened a successful strategy towards olefin 
+hydroarylations under relatively mild conditions and full atomefficiency (Fig. 1b)25,26,27,28.
+
+
+---
+
+Description:
+A catalyst that facilitates ligand-to-ligand hydrogen transfer and ketone functionalization.
+
+Text:
+Mechanistically, the underlying nickelcatalyzed C(sp2)H bond activation process operates 
+via a ligandtoligand hydrogen transfer (LLHT)29 instead of the typical oxidative addition 
+process30. The C(sp2)C(sp3)reductive elimination is considered as the rate determining step 
+(Figure 1b). Based on these findings, we hypothesized that an extension of this concept could 
+help to address the C(sp3)H bond of ketones under comparable conditions and open new 
+catalysis manifold for ketone functionalizations (Fig. 1c). This pivotal step could be either 
+envisaged by coordination of the ketone and acceptor olefin to the nickel(0) triggering a LLHT 
+of the carbonyl C(sp3)H. The LLHT would involve a 7membered transition state and lead 
+to a favorable oxaallyl nickel(II) species. Alternatively, one could formulate a C(sp3)H 
+oxidative addition forming oxaallyl nickel(II) hydride.

@@ -1,0 +1,13 @@
+Description:
+A component in binary devices with a highest PCE of 11.7.
+
+Text:
+Huge strides have been made in the last two years due to the emergence of the Yseries
+acceptors11,12, with the PCE surpassing 1813,14, much higher than the highest PCE of 11.7
+for fullerene binary devices15,16. Due to their extended conjugation, they have narrower optical
+band gaps, allowing the absorption of visible to NIR light17. The general conguration is A
+DADA, with the fused backbone allowing for planarity which increases the crystallinity and 
+orbital stacking within the device18. While fused NFAs have shown great promise, they have some
+drawbacks that limit their commercial potential. To form the fused backbone structure requires
+complex synthesis, often with 515 steps19,20. This difcult synthesis process increases the cost
+and results in low yield.

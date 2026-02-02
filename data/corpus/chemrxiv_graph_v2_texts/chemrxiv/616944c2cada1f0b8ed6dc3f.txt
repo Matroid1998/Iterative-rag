@@ -1,0 +1,21 @@
+Description:
+Conjugated polymer chains involved in charge transfer interactions.
+
+Text:
+This ob
+servation, while invoking the general interest in double
+doping, also calls for a more detailed understanding of
+the underlying mechanisms, as well as of material and
+parameter dependencies. For example further details of
+the charge formation such as formation of individual po
+larons andor bipolarons upon doubledoping are of sig
+nicant relevance for the transport properties of the re
+sulting doped system.1722
+In this work, we investigate a simultaneous charge
+transfer between two p(g42TTT) conjugated polymer
+(oligomer) chains in a close arrangement and a single
+CN6CP ptype dopant molecule as illustrated in Fig
+ure 1(a). Our study is rmly based on density func
+tional theory (DFT) calculations taking into account
+intermolecular vander Waals interactions and dielectric
+environment.

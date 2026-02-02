@@ -1,0 +1,15 @@
+Description:
+Surfaces that interact with O2 molecules in hot atom dynamics.
+
+Text:
+As far as simu
+lations are concerned, in recent years signicant progress
+has been made by performing dynamical simulations that
+include the coupling either to a phonon bath 15, 1721
+or to electronhole pairs 2224. Such simulations have
+provided very valuable insights into hot atom dynamics
+in reactions Gambardella2001 at surfaces. Still it is fair
+to say that there is not yet a general understanding about
+the factors promoting hot atom reactions at surfaces. In this study, I will demonstrate that hot atom dynam
+ics plays a critical role in the interaction of O2 molecules
+with stepped Pt surfaces.

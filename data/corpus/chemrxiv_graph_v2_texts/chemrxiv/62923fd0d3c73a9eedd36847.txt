@@ -1,0 +1,28 @@
+Description:
+Exhibits peaks at 43.4 and 50.5 in XRD analyses, corresponding to Cu (111) and Cu (200).
+
+Text:
+of the Ptmodification and polymer inhibitor. (52, 54) The composition 
+of the deposited metal film was characterized by Xray photoelectron spectroscopy (XPS) and Xray 
+diffraction (XRD). In Figure 2b, the peaks at 932.5 and 952.5 eV in the Cu 2p scan confirm the existence 
+of the metallic Cu(0). The shifted Cu 2p32 peak at 934.5 eV and the satellite around 944 eV correspond 
+to the small amount of CuO. (60) The composition analysis of Cu shows that there is 25.11 CuO. After 
+electrodeposition, XRD analyses reveal peaks at 43.4 and 50.5 appearing on the ultrawideband 
+transparent electrode can be assigned to the Cu (111) and Cu (200),(61, 62) as shown in Figure 2c. There 
+is no signal for the crystallized CuO in the XRD data.
+
+
+---
+
+Description:
+Dominates the electrodeposition process and results in low emissivity.
+
+Text:
+Since the XPS analyzes the top surface layer of the 
+sample and XRD delivers the much deeper measurement, we infer that the CuO only exists in the top 
+surface layer, which elucidates that the metallic Cu dominates the electrodeposition process and results 
+in low emissivity. For practical applications as the building envelope, the electrochromic device must have longterm 
+durability. Figures 2d and e show the cycle test of the midIR emissivity tuning. The large emissivity 
+contrast can be maintained for 1000 cycles and only degrade 21 after 1800 cycles, which exhibits a 
+significant improvement from the previous reports using AgDMSO electrolyte (only up to 300400 
+cycles). (40, 52) The emissivity spectra maintain their broadband feature after 2500 cycles (Figure 2e).

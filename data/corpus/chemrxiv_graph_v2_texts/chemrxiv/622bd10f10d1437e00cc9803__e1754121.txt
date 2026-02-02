@@ -1,0 +1,15 @@
+Description:
+Undergoes oxidation reactions.
+
+Text:
+This approach has been
+used to study hydrocarbon pyrolysis 1015, hydrogen
+combustion 16, methane oxidation 17, and hydrogen
+peroxide decomposition 18. However, this method can
+only be applied above a certain temperature, where the
+equilibration time is considered reasonably small to be
+run in an MD simulation. As some applications may need
+simulations that reach equilibrium at lower temperatures,
+there is a need for a method to accurately simulate the
+evolution of the system in these conditions. In this work, we present a way to overcome the
+timescales limitation occurring at low temperatures.

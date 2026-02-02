@@ -1,0 +1,14 @@
+Description:
+A class of antibiotics known for their broad-spectrum activity.
+
+Text:
+Emerging water contaminants such as pharmaceuticals have recently gained 
+considerable research attention (Balarak et al., 2021). Among pharmaceuticals, antibiotics are 
+the most widely consumed pharmaceutical drugs (Azizi, 2020) that pollute water bodies. There are different classes of antibiotics based on their mechanism of action, chemical 
+structure, action spectrum, and route of administration (Ilurdoz et al., 2022). The most 
+common classification of antibiotics is based on their mode of action, which includes 
+fluoroquinolones, quinolones, lactams, sulfonamides, monobactams, carbapenems, and 
+aminoglycosides. Quinolones (ciprofloxacin, levofloxacin, norfloxacin, and ofloxacin) are 
+broadspectrum antibiotics that are widely prescribed (Ilurdoz et al., 2022). More 
+importantly, CIP stands in the first place based on the number of antibiotics prescribed in this 
+group (Movasaghi et al., 2019).

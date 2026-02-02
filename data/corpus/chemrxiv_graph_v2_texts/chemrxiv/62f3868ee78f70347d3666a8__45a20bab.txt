@@ -1,0 +1,14 @@
+Description:
+Membranes that allow ultrafast water transport through subnanometre graphene-based channels.
+
+Text:
+Ultrafast water transport through graphene oxide membranes (GOMs) is considered to 
+originate from the frictionfree movement of water molecules through subnanometre 
+graphenebased channels1,2. In detail, GOM nanochannels consist of patches of graphitic and 
+functionalized areas. Along the graphitic parts the water transport is considered frictionless 
+and along the functionalized areas the water transport is partially hindered3,4. The assumption 
+that the water transport is frictionless along graphitic domains originates from the use of the 
+HagenPoiseuille (HP) equation to describe the water transport in graphenebased 
+nanochannels. The HP equation allows calculating water flux through a channel if water 
+molecules have zero velocity at the liquidchannel wall interface5. This condition is called a 
+nonslip condition.

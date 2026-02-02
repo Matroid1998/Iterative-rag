@@ -1,0 +1,43 @@
+Description:
+Chiral organic molecules with large specific rotation influenced by molecular conformation and functionalization.
+
+Text:
+We have recently developed a scheme, referred to as Sia
+analysis, whereby the OR is expressed as a sum of con
+tributions from occupied i to virtual a molecular orbital
+(MO) transitions.1 We can determine what physically is
+driving optical activity and what parts of the molecule
+are involved by analyzing the movement of charge density
+described by these transitions. Using this framework, we
+have investigated the influence of molecular conforma
+tion and functionalization on the OR induced by chiral
+organic molecules.7 More recently, we used this approach
+to understand the origin of the large specific rotation in
+helicenes, and how functionalization affects the optical
+response.8 We found that the major contributions come
+from transitions where density moves along the conju
+gated  density.
+
+
+---
+
+Description:
+Functionalization influences optical rotation in a complex manner, affected by substituent strength and helix length.
+
+Text:
+However, other transitions, which can
+be described as the combination of two separate rota
+tions of the orbital density along the twohalves of the
+a)Electronic mail tybaldufku.edu
+b)Electronic mail mcaricatoku.edu
+helix, tend to decrease the OR. Functionalization of the
+helicenes influences the OR in a complex manner, where
+the strength of the substituent groups and the length of
+the helix may lead to cooperative or competitive effects
+that are not easily predicted a priori, but can be inter
+preted with our decomposition approach. As we showed
+in Ref. 9, the method is robust, providing a consistent
+physical interpretation of the OR in both modified veloc
+ity gauge (MVG)10 and length gauge (LG) calculations,
+regardless of the choice of perturbation used in solving
+the linear response equations.

@@ -1,0 +1,17 @@
+Description:
+Complexes with a reduction potential of 1.0-1.3 V vs SCE for Ni(II) to Ni(I) transition.
+
+Text:
+However, the reduction of Ni(II) to Ni(I) by the excited 
+state PC (either Ir(ppy)3 or PhenO; Ered  1.66 and 1.73 V vs 
+SCE respectively) is thermodynamically feasible based on 
+reported cyclic voltammetry data of relevant nickel bipyridine 
+complexes (EredNi(II)Ni(I)  1.01.3 V vs SCE).1112 
+Furthermore, in our study with SCF3 nucleophiles, product 
+yield was found to increase as the excited state reduction 
+potential of the PC became more negative, while the triplet 
+energy of the PCs was found to have no correlation with yield. These considerations taken together suggest that the alternate 
+hypothesis of an oxidative quenching cycle (Fig. 1D) should be 
+considered seriously in these systems, motivating a mechanistic 
+study to distinguish between electron transfer and energy 
+transfer as the mode of quenching of the Ir(ppy)3 excited state.

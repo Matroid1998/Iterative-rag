@@ -1,0 +1,12 @@
+Description:
+Atoms that form part of the inorganic layers in metal halide perovskites.
+
+Text:
+In the last few years there has been a growing interest around layered or socalled two
+dimensional (2D) metal halide perovskites (MHPs) for their superior moisture and air stability, 
+thanks to which they found application in photovoltaics to design 2D3D solar cells 
+architectures.1 The most investigated families of 2D perovskites are the RuddlesdenPopper 
+(RP) and DionJacobson (DJ) phases of general formula A2An1MnX3n1 and AAn1MnX3n1, 
+respectively, where A and A are organic cations, and n represents the number of staggered 
+inorganic layers made of metal M and halide X atoms.2 Leadbased members with n1 of the 
+RP family, i.e.

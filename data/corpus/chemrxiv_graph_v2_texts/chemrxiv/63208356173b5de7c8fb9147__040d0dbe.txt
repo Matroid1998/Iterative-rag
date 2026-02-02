@@ -1,0 +1,58 @@
+Description:
+Forms a passivating interface that is impermeable to Mg cations, leading to battery failure.
+
+Text:
+The search for new energy storage technologies to promote electromobility and reduce global
+warming is one of the greatest challenges of our time. Magnesiumion batteries (MIB) are
+attracting increasing attention as an alternative to conventional lithiumion batteries (LIB)
+due to the unique properties of magnesium (Mg) metal anodes, such as high volumetric
+capacity, low cost, and safe operation.15 However, mass market adoption of MIBs is cur
+rently hindered by significant challenges. One of the biggest challenges is the formation of
+a passivating interface on the Mg surface which is impermeable to Mg cations and leads to
+battery failure.68 Sun et al.
+
+
+---
+
+Description:
+Has a higher charge density due to its bivalency, leading to stronger coordination with solvent molecules and salt anions.
+
+Text:
+have identified three reasons for Mg degradation in a recent
+review article.9
+First, Mg has a higher charge density due to its bivalency which leads not only to stronger
+coordination with solvent molecules and salt anions but also facilitates solvent decomposition
+at the anode.10 For example, Lu et al.
+
+
+---
+
+Description:
+Experiences nonuniform growth that can be hemispherical, porous, or dendritic.
+
+Text:
+have shown that the salt anion ClO4 is chemically
+reduced at the Mg anode in carbonatecontaining solvents, forming a solidelectrolyte inter
+face (SEI) consisting of Mghalides, MgO, Mg(OH)2, MgCO3, and Mg(ROCO2)2.11
+Second, short circuits are induced by nonuniform Mg growth, which can be further sub
+divided into hemispherical,12 porous13 or dendritic14 growth morphologies.9 Hemispherical
+3D particles with different shapes have been detected in TFSIbased electrolytes as a function
+of the applied current density.12 In an Mg(TFSI)2 salt electrolyte with MgCl2 as additive,
+continuous stripping and plating leads to fracturing and reformation of the SEI layer, re
+sulting in large effective current densities at the respective fracture sites and inhomogeneous
+Mg deposition.13 Through this mechanism, hemispherical deposits are further degraded to
+porous morphologies and trapped sediments that are irreversibly lost for cycling.
+
+
+---
+
+Description:
+Forms dendrites much less frequently at the anode compared to Li.
+
+Text:
+The most
+extreme form of nonuniform Mg growth is the formation of dendrites, which occurs much less
+frequently at the Mg anode than in the Li equivalent. So far, dendrites have been detected
+only for a 0.5 M solution of MeMgCl in THF at a current density of 0.921 mA cm2.14
+Third, corrosion of the Mg surface upon contact with ambient air leads to the formation
+3

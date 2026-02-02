@@ -1,0 +1,20 @@
+Description:
+Function as acyltransfer reagents in nickel-catalyzed reductive coupling reactions.
+
+Text:
+Modern organonickel chemistry has significantly contributed to 
+this area with the emergence of new and highly efficient radical 
+pathways to forge C(acyl)C(sp3) bonds under very mild 
+conditions.3 Nickelcatalyzed reductive coupling reactions of 
+acyltransfer reagents (typically acyl halides, anhydrides, and 
+(thio)esters) with C(sp3) electrophiles including alkyl halides, 
+alkyl carboxylic acidderived redox active esters, and Katritzky 
+reagents, have been recently highlighted as very powerful 
+strategies to achieve this goal.4 By coupling two reactive, yet 
+highly accessible and benchstable electrophiles, they provide a 
+practical and versatile access to a variety of dialkyl ketones with 
+unique functional group tolerance.5 However, the excess 
+amounts of heterogeneous metal reductants that are typically 
+used to generate a reactive alkyl radical and sustain the nickel 
+catalytic redox cycle inevitably thwarts potential largescale 
+applications.

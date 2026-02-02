@@ -27,7 +27,7 @@ from typing import Any, Dict, List, Optional
 
 
 SRC_BASE = Path(__file__).resolve().parents[1]
-QA_PATH = SRC_BASE / "docs" / "chemrxiv_qa.json"
+QA_PATH = SRC_BASE.parent / "data" / "corpus" / "chemrxiv_qa.json"
 
 
 def load_ground_truth_map() -> Dict[str, Dict[str, Any]]:

@@ -1,0 +1,13 @@
+Description:
+Used in the treatment of Sb2Se3 to passivate defects and improve photovoltage.
+
+Text:
+Several strategies have been presented in the literature such as Te incorporation 
+for defect passivation,5 sulfurization treatment for improved photovoltage6 and gradient sulfur 
+doping in Sb2Se3.7 More fundamental insights into the basic optoelectronic properties for defect 
+passivationsuppression for Sb2Se3, however, have not yet been reported. In this work, we employed time resolved microwave conductivity (TRMC) and photoluminescence 
+(PL) spectroscopy to gain fundamental understanding of the defect passivation mechanism in 
+Sb2Se3 by sulfur treatment. We investigated the charge carrier dynamics of Sb2Se3 before and after 
+sulfur treatment using TRMC and observed the passivation of deep defects in Sb2Se3 as evidenced 
+by longer carrier lifetimes. We also show that the passivation of deep defects reduces not only 
+surface recombination, but also bulk recombination using a wavelength dependent TRMC study.

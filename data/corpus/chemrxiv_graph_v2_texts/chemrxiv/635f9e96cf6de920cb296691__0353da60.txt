@@ -1,0 +1,15 @@
+Description:
+Found in singlewall carbon nanotubes (SWCNTs) with a high surface-to-volume ratio, sensitive to single-molecule detection.
+
+Text:
+However, such biologically 
+relevant processes occur on temporal (ms) and spatial (nm) scales that are difficult to access 
+using established methods.3 For example, electrochemical methods such as amperometry or 
+voltammetry lack the required spatial resolution determined by the number of electrodes and 
+are invasive as the microelectrodes penetrate the tissue.4 On the other hand optical methods 
+provide often only indirect information e.g. by labeling cellular components5,6 or suffer from 
+photobleaching.7 
+In this context, nanomaterials such as singlewall carbon nanotubes (SWCNTs) have emerged 
+as promising building blocks to capture these dynamics.3,8 In addition to a high surfaceto
+volume ratio that makes them sensitive to singlemolecule detection9312, their surface can be 
+chemically tailored13317.

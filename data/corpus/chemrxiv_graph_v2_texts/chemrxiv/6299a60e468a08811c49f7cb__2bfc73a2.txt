@@ -1,0 +1,16 @@
+Description:
+Materials with a temperature limit below 600°C.
+
+Text:
+According to the StefanBoltzmann law, the
+total radiant power emitted from a surface is proportional to T 4
+while the maximum wavelength of emission is blueshifted with
+temperature 1T (Wiens law). Currently used IR thermal radiation sources can be heated up
+to nearly 600C, way above polyimides limit. Therefore, it is de
+sirable to realize a light source which can be used even at such
+high temperatures at which emission is more intense. Naturally,
+the use of inorganic materials or organicinorganic hybrids is an
+excellent way to improve the heat resistance of the MIM metasur
+face. For example, SiO2, which has a good optical transmission
+characteristics in the UVvisible region, has an absorption in the
+midIR spectral window. In the case of thick glass, it is well known

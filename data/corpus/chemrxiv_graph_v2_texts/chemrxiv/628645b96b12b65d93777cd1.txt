@@ -1,0 +1,15 @@
+Description:
+A class of antifungal drugs.
+
+Text:
+C. auris is causing 
+considerable concerns because it generally displays resistance against at least one class 
+of antifungal drugs, and in some cases resistance against all three major antifungal drug 
+classes (polyenes, azoles and echinocandins).7 Indeed, the 2019 Centres for Disease 
+Control and Prevention (CDC) report on Antibiotic Resistance Threats in the United 
+States already lists C. auris as an Urgent Threat, with 90 of isolates resistant to at 
+least one antifungal, and 30 resistant to at least two antifungals. Reported cases 
+increased 318 in 2018 when compared to the average number of cases reported in 
+2015 to 2017.8 
+Despite their growing threat to global health, the current development pipeline for 
+antifungal agents is even sparser than the already meager antibacterial drug landscape,

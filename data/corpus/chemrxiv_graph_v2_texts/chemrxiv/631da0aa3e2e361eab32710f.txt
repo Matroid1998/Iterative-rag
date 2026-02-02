@@ -1,0 +1,29 @@
+Description:
+Involved in internal proton transfer reactions.
+
+Text:
+the search for atoms 
+2. Exposing the electron energy by the force constants analysis 
+3. The electron density gradient in the DF Connectivity Matrix formalism 
+3.1. From the DF Connectivity Matrix to the electron density gradient. 3.2. Equivalence of the open and closed systems 
+4. The energy expansion in 
+
+; ( )
+E N r
+ and 
+
+;
+E N
+
+R
+ representations 
+4.1. The road map linking the CDFT derivatives to the chemical observables 
+4.2. The DF Connectivity Matrix C vs the Cartesian Hessian K 
+4.3. The energy expansion 
+4.4. Atomic fragility modes 
+5. Application to a chemical reaction 
+5.1. Third energy derivative over reaction progress 
+5.2. Relation to the local modes (adiabatic internal modes) 
+6. Example the internal proton transfer in formamide 
+6.1. Computational details 
+6.2.

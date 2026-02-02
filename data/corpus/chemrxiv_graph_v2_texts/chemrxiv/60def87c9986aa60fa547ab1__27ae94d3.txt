@@ -1,0 +1,17 @@
+Description:
+An insensitive nucleus whose NMR signals can be enhanced using the SABRE method.
+
+Text:
+The 
+SABRE method can be used to enhance NMR signals of protons6, 
+7, and insensitive nuclei such as 15N and 13C 815 and to polarize 
+various molecules, notably, biomolecules1618, metabolites19 
+and drugs2022. Both hydrogenative PHIP and SABRE have been successfully 
+applied to hyperpolarize various compounds; however, the 
+optimization of hyperpolarization experiments still remains 
+challenging. Specifically, reaction conditions have to be 
+optimized, as well as polarization transfer efficiency. In this 
+work, we address one more issue, which turns out to be 
+important in both PHIP and SABRE. Specifically, we address the 
+question What is the spin order of H2 in PHIPSABRE 
+experiments?.

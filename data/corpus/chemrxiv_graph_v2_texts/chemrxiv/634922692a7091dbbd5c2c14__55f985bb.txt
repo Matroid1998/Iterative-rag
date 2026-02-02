@@ -1,0 +1,32 @@
+Description:
+An adsorption product with similar 13C chemical shifts to carbamic acid and ammonium bicarbonate.
+
+Text:
+For aminefunctionalised materials, the 13C chemical 
+shifts give poor differentiation between closely related ammonium carbamate, carbamic acid, 
+and ammonium bicarbonate adsorption products, with the signals from these species showing 
+very similar 13C chemical shifts.17,18 A similar problem arises for bicarbonate and carbonate 
+products in hydroxidebased materials.20 The prediction of NMR parameters with density
+functional theory (DFT) calculations21 can improve confidence in the structural assignments, 
+and more advanced multinuclear NMR experiments can give improved differentiation 
+between adsorption products.17,19,22 However, there remains a pressing need for the 
+exploration of new NMR methods for understanding CO2 capture chemistry.23 
+A representative emerging class of CO2 adsorbents are aminefunctionalised metalorganic 
+frameworks.
+
+
+---
+
+Description:
+A proposed CO2 adsorption product in amine-functionalized dobpdc materials.
+
+Text:
+The framework M2(dobpdc) (dobpdc  4,4dioxidobiphenyl3,3dicarboxylate) 
+(Figure 1a) can straightforwardly be functionalised with amines to yield a family of (amine)
+M2(dobpdc) adsorbents (Figure 1b).14 These adsorbents have large capacities for selective and 
+reversible CO2 uptake, and the adsorption thermodynamics can be tuned by varying the 
+amine,11,2427 and the metal.14,28,29 Importantly, these materials generally display steep 
+adsorption isotherms making them promising for a range of energy efficient carbon capture 
+applications.24,25 Initial characterisation of CO2 adsorption modes in these materials has 
+revealed a rich chemistry, with three CO2 adsorption products proposed to date (i) 
+ammonium carbamate chains (Figure 1c), thought to be the dominant product in a range of

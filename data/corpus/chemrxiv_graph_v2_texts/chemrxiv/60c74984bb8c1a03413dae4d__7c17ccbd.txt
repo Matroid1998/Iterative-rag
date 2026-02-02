@@ -1,0 +1,13 @@
+Description:
+An accessory cofactor in PSII that acts as a primary electron donor.
+
+Text:
+Bacterial reaction centers (BRCs)
+containing the electron donors P870 and P960 can be found in Rhodobacter sphaeroides
+and Rhodopseudomonas viridis, respectively 1. Note that the numbers correspond to
+the absorption maxima of those complexes. The primary electron donors of PSI and the
+BRC are pairs of inner (B)Chl a 2,3, which are called the special pair (SP) in cases of
+BRCs 4 (for an overview on RC structures, see Sec. 2). In case of PSII, the primary
+electron donor is composed of an accessory Chl a cofactor 3. Being excited by the deliv
+ered energy, these primary electron donors donate an electron forming shortlived radical
+pairs with neighboring cofactors (for more detail, see Refs. 2, 3).

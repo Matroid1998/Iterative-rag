@@ -1,0 +1,12 @@
+Description:
+Singlephase materials capable of multispecies transport, such as H!, O, and e, h.
+
+Text:
+There has been enormous research in ionic conducting materials that enable 
+electrochemical devices. The vast majority of research has focused on singlephase materials 
+capable of conducting a single ionic species 19. Some singlephase materials, such as rareearth 
+oxide doped perovskites, are capable of multispecies transport (e.g., H!, O, and e, h) 
+1012. However, it is not thermodynamically possible to tune the total conductivity of the single
+phase with simultaneous transport of multiple charged species 13. Recently, the third class of 
+ionic conductors has emerged where a composite consisting of multiple phases is able to 
+accomplish uncoupled simultaneous transport of multiple ionic species.

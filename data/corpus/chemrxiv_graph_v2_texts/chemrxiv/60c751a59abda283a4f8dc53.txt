@@ -1,0 +1,14 @@
+Description:
+A natural product isolated from the plant Artemisia annua, used in effective treatments for malaria.
+
+Text:
+Recent years have seen the
+increased use of computational methods such as these to aid the drug discovery process
+8,9,10,11. For instance, there have been successes in the in silico target prediction of small
+molecules with activity against Mycobacterium tuberculosis 12,13. In the case of the malaria parasite, the development of resistance to frontline treatments is
+an everpresent problem. Since the isolation of artemisinin from the plant Artemisia annua in
+1971 by Tu Youyou and colleagues 14, this natural product and its derivatives have been
+used in some of the most effective treatments for malaria. The artemisininbased
+combination therapies (ACTs) utilise a shortacting artemisinin derivative in combination with
+one or more complementary antimalarials that are longacting and possess a different
+mechanism of action (MoA).

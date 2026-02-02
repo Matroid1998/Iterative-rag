@@ -1,0 +1,19 @@
+Description:
+A chemical element used in the design of moleculesized objects with magnetic memory effects.
+
+Text:
+MNMs are 
+moleculesized objects with magnetic memory effects governed by quantum mechanics.610 They are 
+strongly believed to revolutionize magnetic information storage, but at the moment do not have any real
+world applications, as their performance is limited by low blocking temperatures and quantum tunneling 
+of magnetization (QTM).11 Current trends in the design of MNMs12, 13 were ignited by the discovery of 
+terbium doubledecker TbPc2 (Pc  phthalocyanine dianion)14 and were fueled by the seminal 
+perspective of Rinehart and Long.15 Design principles focus on the precise control of the coordination 
+sphere of a single lanthanide center in order to maximize the easyaxis magnetic anisotropy of the complex 
+and to limit the spinlattice relaxation rates.1619 While this approach led to several breakthroughs, 
+including the observation of the magnetic hysteresis loop of molecular origin above the liquid nitrogen 
+barrier for dysprosocenium6, 7 and magnetic field control of the magnetization blocking barrier,20 it appears 
+to be reaching its limit as the proposed modifications were not as successful as expected.21, 22 
+The original approach to MNMs was based on designing multinuclear systems with strong 
+magnetic superexchange, where several paramagnetic centers are glued together by bridging ligands to 
+form a highspin molecule.

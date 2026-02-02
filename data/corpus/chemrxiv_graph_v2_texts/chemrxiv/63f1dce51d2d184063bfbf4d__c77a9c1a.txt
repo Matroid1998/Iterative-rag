@@ -1,0 +1,65 @@
+Description:
+Involved in substitution reactions for forming carbon-carbon and carbon-heteroatom bonds.
+
+Text:
+The halohydrocarboninvolved substitution reaction is one 
+of the most classic transformations in organic chemistry for 
+the formation of carboncarbon and carbonheteroatom 
+bonds.14 With the utilization of halohydrocarbons such as 
+aryl, alkenyl, and alkyl halides as reactants, a large number 
+of optically active molecules have been constructed via 
+SNAr,5 SN1, or SN2 substitutions,67 or via couplings.813 
+Among these reactions, the catalytic asymmetric substi
+tution reactions of readily available amino acid derivatives 
+with halohydrocarbons provide a highly efficient pathway 
+for the preparation of optically active unnatural disub
+stituted amino acids.1420 However, in those reported 
+methodologies, protection and deprotection manipulations 
+are always unavoidable (Figure 1, path a).
+
+
+---
+
+Description:
+Compounds that can be used in the direct asymmetric hydrocarbylation of amino acid esters.
+
+Text:
+Notably, an ideal 
+catalytic strategy leading to such products could directly 
+promote the hydrocarbylation of Nunprotected amino 
+acid esters with high efficiency (Figure 1, path b); however, 
+such a valuable methodology has never been disclosed until 
+now. The unique property of chiral aldehyde catalysis,2124 di
+rectly promoting the asymmetric functionalization of N
+unprotected amino acid esters, has been demonstrated in 
+alkylation,25 Michael addition,2628 Mannich,2930 aldol,3133 
+allylation,3436 benzylation,37 and propargylation38 reactions. We envisioned that this strategy may be promising for the 
+direct asymmetric hydrocarbylation of amino acid esters 
+with halohydrocarbons. However, it was challenging to con
+trol the chemoselectivity of CNfunctionalization in this 
+transformation.
+
+
+---
+
+Description:
+Serve as electrophiles in aldehyde-catalyzed hydrocarbylation reactions with amino acid esters.
+
+Text:
+In the previously reported reactions em
+ploying chiral aldehyde catalysis, either the electrophiles 
+were gradually generated in situ during the reaction process 
+(for alkylation, allylation, benzylation, and propargylation 
+reactions), or the Nfunctionalization side products were 
+unstable and reversely decomposed to starting material 
+(for Michael, Mannich, and aldol reactions). Therefore, the 
+side reaction of Nfunctionalization in those reactions was 
+efficiently suppressed. In our proposed reaction, chiral al
+dehydecatalyzed hydrocarbylation of Nunprotected 
+amino acid esters with halohydrocarbons, the equivalent 
+amounts of halohydrocarbon electrophiles and the possible 
+formation of stable Nhydrocarbylation byproducts made 
+chemoselectivity more difficult to control. Thus, it was nec
+essary to develop an aldehydecatalyzed direct hydro
+carbylation reaction of amino acid esters with improved 
+chemoselectivity and enantioselectivity.

@@ -1,0 +1,13 @@
+Description:
+Involved in the oxygen reduction reaction (ORR) and oxygen evolution reaction (OER) in electrochemical processes.
+
+Text:
+Electrocatalytic reactions play an increasingly important role. They are the central pro
+cesses occurring in electrochemical energy conversion and storage 1 which are critical for
+the energy transition towards a more sustainable future of our society. For example, hy
+drogen and oxygen evolution are the basic reactions underlying water splitting, whereas the
+reverse processes, hydrogen oxidation and oxygen reduction, are crucial in proton exchange
+membrane fuel cells. In spite of the importance of these reactions and intensive research,
+in particular the oxygen reduction (ORR) and the oxygen evolution reaction (OER) are
+still hindered by substantial overpotentials which limit the eciency of fuel cells and water
+electrolysis, respectively.

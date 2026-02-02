@@ -1,0 +1,13 @@
+Description:
+Coreshell nanoparticles used in CO2 electroreduction with selectivity dependent on Sn shell thickness.
+
+Text:
+23 investigated CO2ER on 
+CuSnO2 coreshell nanoparticles with various Sn shell thickness, finding the selectivity to strongly depend on 
+said thickness, with thicker Sn shells showing Snlike activity with high HCOO selectivity (FE 90), while 
+thinner shell exhibited a high CO selectivity (FE 93). Moreover, our recently published work17 reported a 
+similar behavior for Cu nanowires coated with ultrathin SnOx layers grown using atomic layer deposition, and 
+detailed Xray spectroscopic investigation revealed differing Sn speciation (i.e. oxidation state) between the CO 
+and HCOOselective catalysts. In those previous studies, the general trend is that CuIn and CuSn catalysts with low In and Sn contents (Cu
+rich catalysts) are COselective, while those with high Sn and In contents (Cupoor catalysts) showed a higher 
+tendency toward HCOO.

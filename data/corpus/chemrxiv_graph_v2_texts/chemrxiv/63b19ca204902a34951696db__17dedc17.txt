@@ -1,0 +1,20 @@
+Description:
+Amphiphilic polymer micelles used in drug delivery systems for high loading capacities.
+
+Text:
+53 
+Poor solubility of therapeutically valuable drugs as well as new potential drug candidates represents 
+54 
+an increasing challenge for the pharmaceutical industry. One way to tackle this problem is to make 
+55 
+use of sophisticated drug delivery systems (DDS) that achieve efficient transportation of the 
+56 
+(potentially toxic) compound to its biological target.1,2 Besides widely established vehicles like 
+57 
+liposomes, amphiphilic polymer micelles consisting of ABAtriblock copolymers of poly(2oxazoline)s 
+58 
+(pOx) and  or poly(2oxazine)s (pOzi) resemble an interesting alternative and have been shown to 
+59 
+provide maximum loading capacities (LC) of up to and more than 50 wt for a variety of 
+60 
+therapeutically valuable drugs, e.g.

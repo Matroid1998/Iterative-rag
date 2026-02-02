@@ -1,0 +1,41 @@
+Description:
+Originally reported in the context of electron transfer with quantum interference effects.
+
+Text:
+Quantum interference (QI) is a phenomenon that can
+be harnessed to increase or decrease the electronic con
+ductance of singlemolecules. Originally reported for
+benzene in the context of electron transfer,1destructive
+quantum interference effects in molecules were first ex
+plored theoretically
+26before the suppressed conduc
+tance was experimentally observed in monolayers710
+and single molecules1114. Due to its utility in controlling electron transport,
+there has been a significant focus on developing rules to
+predict when quantum interference effects will dominate,
+for example the graphical rules15, curly arrow rules16,17
+and molecular orbital rules1820. While these rules allow
+us to readily determine whether a molecule is likely to
+exhibit suppressed conductance due to destructive inter
+ference, they do not provide more insight into what is
+interfering with what in these systems.
+
+
+---
+
+Description:
+The cyclic structure of a benzene ring can represent quantum interference effects in molecular-sized devices.
+
+Text:
+When the size of the device is compa
+rable to the electronic phase coherence length, QI effects
+can manifest. This QI can change the electronic trans
+port through molecular sized devices dramatically, as il
+lustrated in Figure 1(b). The QI can be destructive or
+constructive depending on whether the phase difference
+between interfering paths are  or 0.22
+We use the language of paths to draw an analogue
+with the twoslit experiment, although no such paths in
+physical space are evident through the molecule. While
+there are mathematical arguments to support the idea
+that the cyclic structure of a benzene ring can represent

@@ -1,0 +1,13 @@
+Description:
+A material used for hybridization to enhance the electrochemiluminescence of carbon dots.
+
+Text:
+Carbon dots (CDs) have been emerged as potential emitting materials for ECL due to their 
+merits of ease of surface functionalization, high water dispersibility, favorable biocompatibility, 
+and excellent environmental friendliness.2330 It has been generally believed that the ECL 
+emission of CDs is mainly dominated by surface energy levels and surface chemistry, while 
+photoluminescence (PL) is primarily produced from the core.31 In this context, numerous efforts 
+have been devoted to the ECL enhancement of CDs by heteroatom doping,3234 hybridization 
+with dye25 or graphene35, and the oxidation of CDs surface.3637 However, despite these great 
+successes in ECL of CDs, the fine tuning the ECL wavelength in a wide range, along with an 
+understanding of the mechanism in the molecular level, has been rarely reported. 4

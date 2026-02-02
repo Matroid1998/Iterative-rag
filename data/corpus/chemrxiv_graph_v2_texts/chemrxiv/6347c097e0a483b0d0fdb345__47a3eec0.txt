@@ -1,0 +1,14 @@
+Description:
+Materials whose atomic structure can influence macroscopic mechanical behavior.
+
+Text:
+Key to sensibly explore this huge
+design space, and to find promising materials for specific applications, is therefore to estab
+lish causal relationships between the atomic structure of a material on the one hand and
+the resulting impact thereof on its macroscopic behavior on the other. This immediately
+highlights a first crucial requirement when developing a materialtranscending design tool
+it should be able to accurately isolate and quantify the impact of atomiclevel structural
+changes on a materials macroscopic behavior. In this work, we will demonstrate that strain
+engineering fulfills this requirement by drawing relationships between the atomic structure
+and the macroscopic mechanical behavior of any building block material, including MOFs,
+COFs, and perovskites, among others.

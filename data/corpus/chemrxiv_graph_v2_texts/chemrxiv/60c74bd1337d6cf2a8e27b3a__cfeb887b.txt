@@ -1,0 +1,34 @@
+Description:
+Dependence on O2 might be incorrectly described in isobutanol combustion models.
+
+Text:
+Detailed isobu
+tanol mechanisms typically deviate more from experiments
+than do models of nbutanol, tertbutanol and secbutanol.7,8
+Multiple intermodel comparisons using detailed isobutanol
+models have showed that at lean, lowtemperature conditions
+the models yield a wide range of ignition timings that devi
+ate from experimental ignition delay measurements in homo
+geneous charge compression9 and shock tube setups.10 One
+mechanism shows the largest deviations from experiments be
+low 850 K and at fuel lean conditions, indicating that the
+dependence on O2 might be incorrectly described.11
+Such shortcomings of isobutanol combustion indicate a
+need for an improved understanding of isobutanol combus
+tion in combustion regimes in which peroxy radical chemistry
+is often important.12 The dominant degradation pathway of
+peroxy radicals at various temperatures and pressures impacts
+overall ignition properties such as the negative temperature
+coecient region, in which ignition slows with increasing tem
+OH
+OO
+RO2
+OH
+OO
+OH
+OO
+RO2
+RO2
+Figure 1 The three peroxy isomers derived from isobutanol
+correspond to the three main sites for hydrogen abstraction
+from isobutanol.

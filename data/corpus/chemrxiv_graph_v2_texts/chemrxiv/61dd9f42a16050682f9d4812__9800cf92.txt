@@ -1,0 +1,12 @@
+Description:
+Functions as a redox mediator in a Z-scheme for water splitting.
+
+Text:
+Both 
+photocatalysts are excited and charges are transferred between the catalysts using redox mediators.22
+25 Similarly, we reported a Zscheme for overall water splitting using a homopolymer of dibenzob,dthio
+phene sulfone (P10) as the hydrogen evolution catalyst, coupled with BiVO4 acting as the oxygen evolu
+tion catalyst using a Fe2Fe3 redox mediator system.26 Overall water splitting occurred, but the solar 
+efficiency was very low. The use of redox mediators in Zschemes can result in limitations arising from the kinetics of diffusion to 
+and from the surface of the photocatalysts, surface interactions, and charge transfer between the medi
+ator and the photocatalyst.

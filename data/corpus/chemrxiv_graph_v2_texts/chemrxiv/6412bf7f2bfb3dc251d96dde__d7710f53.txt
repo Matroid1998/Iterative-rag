@@ -1,0 +1,14 @@
+Description:
+Usually forms octahedrally coordinated metal ions in 2D metal halide perovskites.
+
+Text:
+2D metal halide perovskites (MHPs) are widely investigated for their possible 
+applications in several fields ranging from photovoltaics and photodetection to photocatalysis.1
+6 From a structural point of view, both RuddlesdenPopper and DionJacobson families, of 
+general formula A2An1MnX3n1 and AAn1MnX3n1, respectively (where A and A organic 
+cations and n  number of staggered inorganic layers made of metal M and halide X), can be 
+seen as composed by inorganic slabs with octahedrally coordinated metal ions (usually Pb), 
+separated by ammonium organic ligands coordinated to the halides of the octahedra.1 One of 
+the most appealing characteristics of 2D MHPs is their vast chemical (and in turn structural) 
+tunability which can be modulated by changing the organic spacer, the central atom, and the 
+halide.1 The database of the actually known 2D perovskites can be found in ref.

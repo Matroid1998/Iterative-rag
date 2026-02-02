@@ -1,0 +1,26 @@
+Description:
+Involved in vacancy formation that can tune metal-to-insulator transitions and induce magnetic phase transitions.
+
+Text:
+2
+Highaccuracy calculations of vacancy defect formation en
+3
+thalpies elucidate the primary and critical gure of merit needed
+4
+to assess a materials utility across a large variety of applications. 5
+These can range anywhere from catalysis (e.g., oxides for water
+6
+splitting13), to degradation resistance in extreme environments
+7
+(e.g., radiation hardness of transition metal dichalcogenides4,5),
+8
+to neuromorphic computing (e.g., tuning metaltoinsulator tran
+9
+sition with oxygen vacancy formation6,7), to multiferroics (e.g.,
+10
+oxygen vacancy induced magnetic phase transitions8). 11
+Density functional theory (DFT) is the method of choice to
+12
+compute these vacancy formation enthalpies in a high through
+13
+put fashion.

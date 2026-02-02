@@ -1,0 +1,34 @@
+Description:
+The configuration of the central carbon affects geminal J-couplings in NMR spectroscopy.
+
+Text:
+Experimental spinspin coupling constants (Jcouplings) measured by NMR spectroscopy 
+are widely used to determine the structural properties of saccharides in solution.13 JCouplings 
+are sensitive to valence bond angles, bond torsion angles, and bond lengths within and adjacent 
+to the coupling pathway. Vicinal (threebond) Jcouplings (3Jab) depend strongly on the torsion 
+angle between the two coupled nuclei, and experimental values can be interpreted quantitatively 
+via Karplus or Karpluslike relationships, revealing conformational preferences in solution.410 
+Geminal Jcouplings (2Jab) are used in structure determinations less frequently, and are affected 
+by the configurations of the terminal coupled carbons and by the configuration of the central 
+carbon.
+
+
+---
+
+Description:
+Central to the rotameric properties of the CO bond.
+
+Text:
+In the latter regard, 2JCCC values depend strongly on the rotameric properties of the C
+O bond involving the central carbon, and less so on the rotameric properties of the CO bonds 
+involving the coupled carbons.1113 Direct (onebond) Jcouplings (1Jab) have a strong 
+dependence on bond length, with larger values corresponding to shorter bond lengths (greater s
+character).1,1416 Despite suggestions that 1J values could serve as valuable structural 
+constraints in saccharides,1718 detailed conformational interpretations of them have proven 
+challenging.1924 
+Experimental determinations of saccharide conformation often rely on computational 
+methods such as density functional theory (DFT) or molecular dynamics (MD) simulations.2529 
+Current approaches combine experimental parameters with appropriately restrained calculations 
+to derive a model that best matches the experimental data.2934 While this approach has proven 
+valuable, it is not without limitations stemming from limited experimental validations of the 
+computational methods.

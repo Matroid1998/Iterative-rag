@@ -1,0 +1,24 @@
+Description:
+A gas emitted in smaller amounts by geothermal power plants compared to coal or natural gas power plants.
+
+Text:
+Geothermal energy is the thermal energy contained within the crust of the earth and can be used 
+to generate electricity. Geothermal power plants are comprised of similar components as coal or 
+naturalgas power plants (e.g. turbines, compressors, heatexchangers), but are driven from 
+energy derived from the subsurface instead of burning fossilfuels. This subsurface energy is 
+accessed by producing geothermallyheated fluids from a well. As a result, geothermal power 
+plants emit substantially less carbon dioxide (CO2) compared to coal or natural gas power plants, 
+but can still provide ondemand, or dispatchable, electricity, unlike other renewable energy 
+technologies (e.g. solar photovoltaics).
+
+
+---
+
+Description:
+Extracts heat more efficiently than water in enhanced permeability systems.
+
+Text:
+In contrast, accessing the heat within hot dry rock 
+resources requires artificially increasing permeability by hydraulic stimulation and then pumping 
+an external fluid through the enhancedpermeability system.10 Water is typically considered as 
+the external fluid, but CO2 has been shown to extract heat more efficiently due to its advantageous

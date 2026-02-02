@@ -1,0 +1,11 @@
+Description:
+A main gas-phase product in the initial stage of RDX pyrolysis.
+
+Text:
+Wight and Botcher 4 explored the initial products of RDX pyrolysis by FTIR spectrum;
+they found NO and N2O4 are the main gasphase products in the initial stage, illustrating that the NN bond
+scission is the first step in the thermal decomposition of RDX crystal. Zhao et al. 5 studied the infrared multiphoton
+dissociation (IRMPD) of RDX in a molecular beam using timeofflight velocity spectra (TOFVS). They detected
+the major products from laser photolysis (mass range from 22 to 120 amu). It was concluded that the dominant
+channel in the RDX decomposition is a concerted symmetric triple fission of the ring in RDX. Khichar et al.6
+conducted thermal analysis on RDX using a coupled TGADSCFTIR system.

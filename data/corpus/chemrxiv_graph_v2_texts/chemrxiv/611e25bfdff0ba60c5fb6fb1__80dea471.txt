@@ -1,0 +1,11 @@
+Description:
+Used in the semiconductor industry as the interconnect material.
+
+Text:
+Copper (Cu) has been used in the semiconductor industry as the interconnect material for over 20 
+years.1 However, the continuous deposition of conducting Cu films in the small and complex 
+structures of present and future nanoelectronic device structures is, and will become more difficult. Copper requires a liner or seed layer to promote continuous film deposition. This layer is in 
+addition to the barrier layer, which prevents the diffusion of Cu into the dielectric layer and Si 
+substrates.2 As device dimensions shrink and more complex structures emerge, the volume 
+available for copper interconnects at the transistor levels becomes correspondingly smaller and 
+must accommodate the barrier, the liner and copper.

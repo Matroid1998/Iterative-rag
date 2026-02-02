@@ -1,0 +1,12 @@
+Description:
+Binds in the coordination site for substrate halogenation in halogenases.
+
+Text:
+This 
+coordination environment typically consists of a facial triad composed of two histidines and either 
+an aspartate or glutamate for hydroxylases or an alanine or glycine for halogenases.1618 The 
+substitution of the hydroxylase carboxylate in halogenases opens a coordination site for the binding 
+of either chloride or bromide for substrate halogenation.19,20 
+During the catalytic cycle, the transient Fe(IV)oxo species homolytically cleaves the target 
+CH bond through a hydrogen atom transfer reaction (HAT).21 HAT results in a radical 
+intermediate and a hydroxyl ligand, which then recombine to hydroxylate the substrate.

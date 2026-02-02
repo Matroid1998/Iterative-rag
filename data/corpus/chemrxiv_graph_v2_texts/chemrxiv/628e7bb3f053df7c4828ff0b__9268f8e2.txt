@@ -1,0 +1,33 @@
+Description:
+A metal-organic framework synthesized using mechanochemical solvent-free methods.
+
+Text:
+Recently, metalorganic frameworks (MOFs) have been 
+investigated as electrode materials for energy storage due to 
+their unique structural features.13 It is well established that the 
+synthetic routes chosen to MOFs are key to controlling their 
+morphology, porosity, and crystallinity, which are critical to 
+their physicochemical properties.36 Moreover, economic 
+applicability and environmental footprint should also be 
+considered, especially regarding their largescale synthesis.7 
+Traditionally, solvothermal synthesis is the most commonly 
+utilized among various synthetic procedures reported to 
+prepare MOFs.8 However, these methods usually require large 
+amounts of organic solvents and prolonged reaction times  
+which sometimes could take a few days to complete the desired 
+transformation.9, 10 Inevitably, these factors increase both 
+preparation costs and the overall environmental footprint.10 
+Ideal synthetic strategies for preparing MOFs should hold 
+characteristics such as lowcost, environmentally friendly, and 
+readily scalable.6, 7, 10 So far, several synthetic methods other 
+than solvothermal synthesis have been reported.1119 Among 
+them, mechanochemistry stands out due to its unique ability to 
+bypass the issues highlighted above for the synthesis of MOFs, 
+energy materials, and molecular solids.2026 Indeed, the 
+mechanochemical solventfree synthesis of MOFs has gained 
+momentum over the last few years, with many attractive MOFs 
+such as ZIF8, MOF74(Zn), and HKUST1 being successfully 
+synthesized with this strategy.21, 2731 
+In addition, due to their low intrinsic conductivity, MOFs are 
+often compositing with other conductive agents32, 33 (e.g., 
+reduced graphene oxide,2, 34 carbon nanotubes,35, 36 etc.)

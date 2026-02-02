@@ -1,0 +1,11 @@
+Description:
+Forms hydrogen bonds with water molecules, affecting friction in nanochannels.
+
+Text:
+Ab initio molecular dynamic (AIMD) simulations predict that defects in the 
+graphitic plane will cause extra friction to the movement of water inside the nanochannels10. The effect on the friction is predicted to increase with the number of hydrogen bonds 
+between the water molecules and the defects10. While simulation studies offer a great 
+understanding of the underlying transport mechanism11, an experimental observation is still 
+lacking. Experimental studies so far mainly focus on how the ionic transport occurs in these 
+nanochannels3. However, a systematic study on the water transport in graphenebased 
+nanochannels with water attraction impurities has remained elusive.

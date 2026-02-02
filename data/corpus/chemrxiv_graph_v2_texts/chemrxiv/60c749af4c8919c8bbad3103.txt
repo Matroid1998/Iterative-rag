@@ -1,0 +1,21 @@
+Description:
+A core structure used in the design of a pseudoC5 symmetrical ligand.
+
+Text:
+In this work, we introduced geometric frustration 
+through a linker with preudoC5 symmetry, as the 
+symmetry cannot be propagated to a classical peri
+odic lattice basedon translation, while periodic lat
+tices based on rotation and translation such as in a 
+quasicrystal could support this symmetry.11,15 Sev
+eral strategies exist for the introduction of C5 sym
+metry in organic building blocks,1619 as these are 
+used for the synthesis of large cage coordination 
+compounds.18,20,21 As introducing C5symmetry can 
+be synthetically challenging,19,22 instead we designed 
+a pseudoC5 symmetrical ligand based on a pyrrole 
+core (see method section, Figure S1). The pseudoC5 
+symmetric linker containing pendant carboxylic acid 
+groups, 1,2,3,4,5penta (4(benzoic acid))pyrrole 
+(pLH5; Figure 1) was reacted with copper(II) ions as 
+a synthon for the C4 symmetric paddlewheel motif.

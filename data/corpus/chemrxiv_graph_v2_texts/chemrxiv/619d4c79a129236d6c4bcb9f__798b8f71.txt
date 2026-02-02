@@ -1,0 +1,11 @@
+Description:
+A prodrug form that can be hydrolyzed by esterases inside the cell.
+
+Text:
+Inspired by the substrate specificity of SIRT5,24,42,43 we and others have reported on mechanismbased inhibitors 
+of SIRT5 that contained carboxylate moieties to mimic the preferred substrate of the enzyme.44,4548 Recently, 
+one of our lead compounds (1) was then developed into an ethyl ester prodrug (1Et), which was shown to exhibit 
+efficacy against cultured cancer cells (see Figure 1 for structures).41 These investigations indicated that the 
+carboxylate moiety of the parent compounds was a major liability with respect to cellular entry, because 
+compounds could gain activity in cells upon masking of this functional group, while the simple ester prodrugs are 
+likely hydrolyzed by various esterases once inside the cell.

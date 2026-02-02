@@ -1,0 +1,13 @@
+Description:
+Used as a linker in constructing Ni-based metal-organic nanosheets.
+
+Text:
+An emerging class of materials beginning to find unique uses in electrochemical systems is 
+organicinorganic hybris systems such as metalorganic frameworks (MOFs), covalentorganic 
+frameworks (COFs) and their derivatives.5 A particular advantage that they hold is their 
+molecularly welldefined catalytic sites and modular structure that could enable the extraction of 
+discreet structureactivity relationships. As such, only few metalorganic structures have been 
+applied for H2O2 synthesis.6 In this work, we build on these previous studies and study the 
+effects of linker identity on Nibased metalorganic nanosheets (MONs). We construct MONs 
+using terephthalic acid and several derivatives and characterize the resulting materials physical 
+and electronic structure with an array of techniques (Fig. 1).

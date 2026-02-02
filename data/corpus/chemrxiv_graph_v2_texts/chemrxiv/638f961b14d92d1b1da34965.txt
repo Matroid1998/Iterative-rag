@@ -1,0 +1,15 @@
+Description:
+A polymer with low dielectric constants, low glass transition temperatures, and maintains an amorphous state, but is barely ionically conductive without modification.
+
+Text:
+Ion mobility and ion concentration are the two key factors governing ionic conductivity
+of a polymer; the former is not only directly related to the identity and quantity of cations
+and anions, but is also greatly affected by the physical and chemical characteristics of the
+polymer matrix bearing the ions.11 Polymers with low glass transition temperature and low
+crystallinity are good candidates to achieve high ionic conductivity at room temperature for
+practical applications.12 However, polyelectrolytes are predominantly made of polymers con
+taining high polarity backbones to facilitate ion dissociation, which raise the glass transition
+temperature or promote crystallinity by increasing intermolecular interactions.13 In contrast,
+polymers with low dielectric constants, like PDMS, have low glass transition temperatures
+and maintain an amorphous state, but are barely ionically conductive without modification
+2

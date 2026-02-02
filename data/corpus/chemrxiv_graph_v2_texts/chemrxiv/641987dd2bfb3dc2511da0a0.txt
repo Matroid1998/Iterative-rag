@@ -1,0 +1,55 @@
+Description:
+Isoelectronic with silicon with respect to the valence shell.
+
+Text:
+Diamond, known mainly in the cubic form, has a less common hexagonal form called lonsdaleite. Such structures are also observed in binary SiC, and the different phases are called polytypes, which 
+are distinguished by the stacking of layers, usually labeled ABC AB in 2H (2 layers; hexagonal 
+system), ABC in 3C (3 layers; cubic system), ABCB in 4H (4 layers; hexagonal system), etc. 1. Silicon and carbon are isoelectronic with respect to the valence shell, and diamond has analogous 
+polytypes, with the best known being 3C, which corresponds to cubic diamond, and 2H, which 
+corresponds to lonsdaleite. Other diamond polytypes 4H, 8H, 9R to 21R (R for rhombohedral) have 
+been identified with calculated Xray diffraction data published by Ownby et al. in 1992 2.
+
+
+---
+
+Description:
+Forms various allotropes such as diamond, lonsdaleite, and polytypes like 4H diamond and rhombohedral 9R.
+
+Text:
+Recently, it has been shown that a novel class of machinelearningbased interatomic potentials can 
+be used for random structure search and readily predicts several hitherto unknown carbon allotropes 
+3, allowing them to be identified with topology labels such as dia (diamond), lon (lonsdaleite), and 
+for polytypes cfc for 4H diamond, cfe for rhombohedral 9R. In view of the enormous number of 
+carbon allotropes, experimentally found and theoretically predicted, a database SACADA has been 
+created to store them with topologies and identifiers; 9R allotrope (hRC18 in Pearson notation) 
+studied here and classified with cfe topology and database code 447 4.
+
+
+---
+
+Description:
+Commonly exhibits sp3, sp2, and sp1 hybridizations in organic chemistry.
+
+Text:
+In 3C and 2H diamond, as well as in the extended lattice polytypes, the valence 4 electrons (2s2, 2p2) 
+arrange in tetrahedra with sp3like hybridization; note that this term, as well as other carbon 
+hybridizations (sp2 and sp1), are common in organic chemistry, and less so in the solid state 
+chemistry; nevertheless, they are useful for establishing the chemical description of the bonding and 
+the resulting physical and chemical properties. For applications such as electronics, the physical properties of diamond can be modified by 
+introducing trigonal C(sp2)  double CC bonds as in ethene  and linear C(sp1)  triple CC bonds as 
+in acetylene  on the one hand, and by working on the particle size as in nanodiamonds, on the other 
+hand.
+
+
+---
+
+Description:
+Atoms that can exist in different hybridization states such as sp2 and sp1.
+
+Text:
+The purpose of the present work was to study the changes 
+in the mechanical and electronic properties of cfe 9R (hRC18) allotrope, referred to as C18 in the 
+present work, by the insertion of sp2 and sp1 carbon atoms in two stoichiometries, based on crystal 
+chemistry rationale and subsequent firstprinciples ground state energy calculations of stable 
+structures and derived quantities within the wellestablished quantum mechanics framework of the 
+density functional theory DFT 9,10. The two novel allotropes eneC21 with sp3sp2 mixed

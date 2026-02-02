@@ -1,0 +1,14 @@
+Description:
+A polymer used in PEGylation to improve stability, solubility, and pharmacokinetics of bioconjugates.
+
+Text:
+PEGylation, the attachment of poly(ethylene glycol) (PEG) to a biologic, may improve various 
+pharmaceutical aspects of the resulting bioconjugates, including stability, solubility, and 
+pharmacokinetics 13. PEGylation increases a drugs hydrodynamic volume and may, at proper 
+overall size, reduce drug disposition by decreasing glomerular filtration 4, 5. Another aspect of 
+PEG known as stealtheffect, shields PEGylated biologics in part from phagocytic cells, thereby 
+reducing elimination 1, 2. Both aspects contribute to longer halflives, and have been reported 
+for PEGylated Interferon2a (IFN2a), which is the starting point of our study 6, 7. IFN2a, 
+a cytokine with potent, antiviral, immunemodulating and antiproliferative properties, is used for 
+hepatitis and cancer therapy since the 1980s 8. We selected IFN2a for its wealth of available 
+information 621.

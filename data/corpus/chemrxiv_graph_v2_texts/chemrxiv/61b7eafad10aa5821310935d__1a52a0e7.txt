@@ -1,0 +1,14 @@
+Description:
+Ions whose migration under illumination is influenced by the composition of hybrid organic-inorganic perovskites.
+
+Text:
+Lightinduced ion migration has been widely observed in hybrid organicinorganic 
+perovskites (HOIPs).14 However, the implications of lightinduced ion transport on device 
+performance remain unclear.5 For example, the instability of HOIPs under prolonged exposure to 
+light has been attributed to ion migration,6 and yet, selfhealing induced by ion migration under 
+cycled illumination may increase the shortterm stability.7 Although the mobility of A and Bsite 
+ions is still an ongoing debate, there has been agreement on the transport of halide ions under 
+illumination.8 Various experimental and theoretical studies suggest that halide migration is 
+dependent on the HOIP composition, but a systematic study to quantify this effect is still lacking.9 
+Mixed halide HOIPs employing I and Br have been extensively employed in perovskite solar 
+cells (PSCs).

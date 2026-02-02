@@ -1,0 +1,21 @@
+Description:
+Produces a deformation-dependent electrical potential when mechanically stretched in hydrogels.
+
+Text:
+For instance, the compressive deformations of co
+polymer hydrogels of polyacrylic acid (PAA) were shown
+to generate electrostatic potentials on order several mil
+muzaffar.rafiquebilkent.edu.tr
+livolts 4. Similarly, polymethacrylic hydrogels respond
+to mechanical stretching by producing a deformation
+dependent electrical potential 5. The emergence of
+such electrostatic responses was attributed to changes
+in the ionic distribution throughout the deformed hy
+drogel structure. In accord, the coarsegrained molec
+ular dynamics (MD) simulation studies, in which the sol
+vent was modeled implicitly (i.e., no solvent molecules
+were present in the simulations) with a uniform dielec
+tric constant, demonstrated enhanced electrostatic in
+teractions between counterions and hydrogel backbone
+charges under mechanical compression 18, suggesting a
+deformationdependent counterion condensation.

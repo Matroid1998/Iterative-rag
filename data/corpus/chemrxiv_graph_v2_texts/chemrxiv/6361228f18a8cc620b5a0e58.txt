@@ -1,0 +1,35 @@
+Description:
+Used in quantum sensing applications as a chip with nitrogen-vacancy centers for optical detection of signals.
+
+Text:
+. LabonaChip (LOC) applications signicantly im
+pact physical and life sciences, hinging on the ex
+tensive system miniaturization of microuidics, where
+benets range from welldened mass and heat trans
+port to extensive process parallelization 1. Addition
+ally, microuidics can optimize conventional chemi
+cal or biological processes 2, enabling applications
+in singlecell biology 3, drug discovery 4, organon
+achip research 5, 6, or electrochemistry 7. How
+ever, analytics and process control in LOC platforms
+These authors contributed equally. Corresponding author dominik.buchertum.de
+1
+
+Quantum Sensing
+LabonaChip
+e) Microfluidic
+Quantum Sensing
+Platform
+Optical detection of signal
+Nitrogenvacancy
+center
+Laser
+Microwaves
+Diamond chip
+nm3  m3
+sensing volume
+N
+S
+Magnetic fields
+Electric
+fields

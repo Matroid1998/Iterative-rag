@@ -1,0 +1,54 @@
+Description:
+A storable energy carrier used in water electrolysis.
+
+Text:
+To halt the global temperature increase, drastic transitions in 
+energy production and storage are required. During the last 
+decade, the global electricity production by renewable energy 
+duplicated and is predicted to keep growing rapidly.1 However, a 
+major problem for the large scale implementation of renewable 
+energies is the mismatch between production and demand. Compensating this discrepancy requires matching buffer 
+capacities. The key principle for a hydrogen fueled society is to 
+facilitate hydrogen (H2) as a storable energy carrier. In this 
+scenario, excess energy is used in water electrolysis to produce 
+hydrogen.
+
+
+---
+
+Description:
+Produced through water splitting in a photoelectrochemical cell (PEC) using solar energy.
+
+Text:
+Alternatively, a direct conversion of solar energy to 
+hydrogen in a photoelectrochemical cell (PEC) promises higher 
+overall efficiency by utilizing synergetic effects of photoabsorption 
+and water splitting,2 so that the system can be operated in a 
+decentralized way.
+
+
+---
+
+Description:
+Involved in the hydrogen evolution reaction (HER) for water splitting.
+
+Text:
+In such systems, photoabsorbers can 
+generate the required photovoltage, while catalysts decrease the 
+overpotential of the oxygen and hydrogen evolution reaction 
+(OER, HER) for overall water splitting.3 
+The maximum photon flux from solar irradiation limits the current 
+density to 10 mA cm2 on a flat substrate with an electrode area 
+equal to its photoabsorber size.2,4 For low current densities, 
+cheap and earth abundant metalnitrogencarbon (MNC; M  Mn, 
+Fe, Co, Ni, Mo) catalysts hold promise to replace platinumtype 
+catalysts for the hydrogen evolution reaction (HER).5 MNC 
+catalysts are better known for their excellent activity in the oxygen 
+reduction reaction (ORR).6 They are also attractive for the CO2 
+reduction reaction (CO2RR) yielding valuable green fuels or base 
+chemicals.5c,7 One notable property of these materials is that the 
+selectivity of the reduction process can be manipulated by varying 
+the nature of the metal center or its chemical environment.5b,7c,8 
+Almost all MNC catalysts are prepared via a high temperature 
+pyrolysis which results in a material with varying degrees of 
+structural disorder.

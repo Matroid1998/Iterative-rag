@@ -1,0 +1,10 @@
+Description:
+Commonly used as a liner material in diffusion barriers.
+
+Text:
+Current diffusion barriers,
+such as TaN, are unable to promote the deposition of conductive Cu without the addition of the liner material. Common liner materials include Ta and Ru. The barrier and liner materials take up the limited available volume
+in the interconnect via, to the point that even with modern deposition methods such as Atomic Layer Deposition
+(ALD) they cannot be thinned further without compromising their efficiency and this means that insufficient volume
+remains in the via to deposit the amount of Cu needed for a functioning interconnect. 8, 9 New developments in
+interconnects are clearly needed in order to drive further advances in electronic devices.

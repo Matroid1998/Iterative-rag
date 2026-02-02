@@ -1,0 +1,14 @@
+Description:
+A compound whose NO and CH3 groups slow the dynamics of water molecules in solution.
+
+Text:
+Therefore, it is necessary to understand the 
+fundamental physical properties of TMAO. The biophysical chemistry and solution dynamics of aqueous TMAO solutions have been 
+extensively investigated from experimental514 viewpoints. Vibrational and nuclear magnetic 
+resonance spectroscopy indicated that both the NO and CH3 groups of TMAO slow the 
+dynamics of water molecules in a solution and that the NO groups have a notable ability to 
+capture water molecules.57, 10, 11, 13 Ab initio molecular dynamics (AIMD) simulations are 
+essential for explaining the experimental results precisely, because of the fluctuating polarization 
+interactions in the aggregated systems. Although there have been several subpicosecondorder 
+AIMD simulations,1520 there have been no nanosecondorder AIMD simulations while 
+reproducing the TMAO concentration and diffusion coefficients of water in deepsea fishes.

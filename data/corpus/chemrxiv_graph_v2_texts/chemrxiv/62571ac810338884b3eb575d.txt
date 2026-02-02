@@ -1,0 +1,56 @@
+Description:
+An energy carrier proposed for use in hydrogen fuel cells to convert energy into electricity.
+
+Text:
+Green hydrogen economy 
+Despite decades of research towards alternatives, fossil fuels account for more than 80 of global energy 
+consumption today.1 Facing dwindling natural resources and burgeoning ecological consequences, we are 
+challenged with charting a sustainable course for modern life using renewable energy sources. This will 
+require safe and reliable methods of converting, storing, and using energy that can compete with 
+hydrocarbon fuels extracted from the Earth. While the optimal solutions may vary depending on 
+geographical location and availability of alternative energyenabling materials, one major proposed 
+avenue is the use of hydrogen as an energy carrier and hydrogen fuel cells as a primary method of 
+converting energy into electricity.
+
+
+---
+
+Description:
+Has approximately twice the gravimetric energy density compared to fossil fuels.
+
+Text:
+The integrated system of hydrogen production, storage, and utilization 
+on a societal scale is aspirationally referred to as the hydrogen economy. Hydrogen has the potential to act as a superior energy carrier when compared to fossil fuels, as it has 
+approximately twice the gravimetric energy density and could have none of the carbon emissions.2 
+However, the primary mode of producing hydrogen today is from reforming of fossil fuels (natural gas, 
+oil, and coal), which together account for 96 of production.3 This is hardly a solution for enabling 
+sustainable energy.
+
+
+---
+
+Description:
+The primary mode of production is from reforming fossil fuels.
+
+Text:
+The integrated system of hydrogen production, storage, and utilization 
+on a societal scale is aspirationally referred to as the hydrogen economy. Hydrogen has the potential to act as a superior energy carrier when compared to fossil fuels, as it has 
+approximately twice the gravimetric energy density and could have none of the carbon emissions.2 
+However, the primary mode of producing hydrogen today is from reforming of fossil fuels (natural gas, 
+oil, and coal), which together account for 96 of production.3 This is hardly a solution for enabling 
+sustainable energy.
+
+
+---
+
+Description:
+Produced for chemical purposes such as ammonia production and oil refinement.
+
+Text:
+Additionally, as of 2020 most (98) hydrogen is produced for chemical, non
+energetic purposes such as ammonia production and oil refinement.4 It is well known that industrial 
+ammonia production is central to sustaining the Earths human carrying capacity; this underscores the 
+importance of developing renewable hydrogen production avenues. In this paper, we refer to the 
+integration of renewable hydrogen into the global energy system as the green hydrogen economy (GHE) 
+and explore research trends in each of the three facets of the green hydrogen economy green hydrogen 
+production, hydrogen storage, and hydrogenbased fuel cells.

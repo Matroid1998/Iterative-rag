@@ -1,0 +1,28 @@
+Description:
+Formed as a product in the reaction between epoxides and primary amines.
+
+Text:
+Epoxyresin thermosets are known for their tunable and superior thermomechanical properties,1
+3 making them suitable for a range of technological applications. Most notably, epoxies are used 
+as adhesives4 and coatings5 in the automotive industry, as well as matrix materials in various 
+composites.6 Their thermomechanical properties are determined by their covalently crosslinked 
+molecular structure, which forms during the socalled curing or crosslinking process. During the 
+curing process, typically a (liquid) mixture of epoxy prepolymer and socalled hardener molecules 
+reacts chemically to yield the final cured epoxy material. An example of such chemical reactions 
+is shown in Scheme 1 for aminebased hardeners. For typical aminebased hardeners, the curing 
+reaction proceeds via an addition reaction between an epoxide and a primary amine to give a 
+hydroxyl group and a secondary amine.
+
+
+---
+
+Description:
+Can react with an epoxy group to form a tertiary amine and a hydroxyl group.
+
+Text:
+This secondary amine can further react with another epoxy 
+group to give a tertiary amine and another hydroxyl group. To obtain a sufficiently crosslinked 
+resin, the epoxy prepolymer needs to contain at least two epoxide groups, which can react with at 
+least two different amine moieties of the hardener. Scheme 1. Amine based curing reactions of epoxy resins. During curing, eventually, an amorphous molecular entity appears in the system, recognizable 
+as an insoluble gel. It is suspended in the stillliquid part of the mixture, the sol, in which those 
+polymers of lower molecular weights not yet attached to the gel are harbored.

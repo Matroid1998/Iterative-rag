@@ -1,0 +1,13 @@
+Description:
+A functional group involved in strain-promoted oxidation-controlled cyclooctyne-quinone cycloaddition (SPOQC).
+
+Text:
+Ever since the visionary publication of the Sharpless group about click chemistry, this field has 
+grown significantly and has had a tremendous impact on drug discovery, bioconjugation and 
+modern chemistry in general.1, 2 Many click reactions are bioorthogonal, a term first used by 
+Bertozzi in 2003, indicating that functional groups are only mutually reactive and do not 
+interfere with biochemical processes occurring in living systems.36 Examples of 
+bioorthogonal click reactions include the strainpromoted azidealkyne cycloaddition 
+(SPAAC), the Staudinger ligation and strainpromoted oxidationcontrolled cyclooctyne1,2
+quinone cycloaddition (SPOQC).79 In the last decade, bioorthogonal chemistry has 
+successfully been employed in both diagnostic (e.g.

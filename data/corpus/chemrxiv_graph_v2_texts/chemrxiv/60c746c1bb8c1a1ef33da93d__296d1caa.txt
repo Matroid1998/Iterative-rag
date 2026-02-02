@@ -1,0 +1,36 @@
+Description:
+Involved in oxidation reactions on nanoporous gold.
+
+Text:
+Ligandfunctionalized and oxidesupported gold nanoparticles have been intensively studied in 
+catalytic science over the past three decades, and considerable progress has been achieved in 
+understanding the underlying catalytic mechanisms.17 In contrast, the mechanistic understanding 
+of catalytic processes ocurring on nanoporous gold (npAu), a threedimensional nanoporous 
+material, is still far less developed, even though high activities and selectivities have been observed 
+in (partial) oxidation reactions.812 Theoretical studies have been debating on the mechanism of 
+such reactions with dioxygen on npAu, especially on the role of undercoordinated surface atoms 
+and impurities of a less noble metal (usually silver) left over from the preparation of npAu, which 
+is obtained by selective leaching this less noble metal out of a corresponding Au alloy.1318 Whereas 
+most studies suggest a significant participation of the second metal (Ag) in the activation of O2 on 
+the surface of npAu, some studies also suggest a possible role of chemisorbed oxygen on Au sites 
+in facilitating O2 dissociation,17, 19 or as a driving force for Ag segregation to the surface.13, 20 The 
+remarkable catalytic activity and high selectivity of nanoporous gold render this material 
+interesting for a variety of practically interesting reactions ranging from CO oxidation to more 
+complex organic transformations.2124 However, an possible limitation when envisioning a use of 
+npAu in commercial catalysis is the limited thermodynamic stability resulting from the nanosize 
+of its ligaments in the range of a few 10 nm and its therefore high surface energy.
+
+
+---
+
+Description:
+Can increase the stability of nanoporous gold (npAu).
+
+Text:
+In particular, 
+adsorbed species may trigger surface diffusion and restructuring, thus leading to coarsening of its 
+nanoporous structure.9, 19, 2528 In other case, the dioxygen atomsphere can increase the stablity of 
+npAu.29 Our recent theoretical studies13, 19, 30 predicted adsorbateinduced surface restructuring 
+through (OAu) chain formation on npAu after the adsorption of O atoms. Importantly, 
+formation of similar oxygen chain structures was computationally predicted to be favorable on the 
+Au(111),31 Au(110),32,33 and AgAu(211)17 surfaces.

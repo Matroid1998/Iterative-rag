@@ -1,0 +1,26 @@
+Description:
+A component in bimetallic catalysts for propane dehydrogenation to produce propene.
+
+Text:
+Some of the most important classes of heterogeneous catalysts are based on bimetallic systems as they facilitate numerous selective 
+transformations; some of them being operated on a megaton scale in the petrochemical industry and enabling for instance the pro
+duction of shortchain olefins as building blocks for polymers and bulk chemicals.1 In that context, nonoxidative propane dehydro
+genation (PDH) has gained a renewed interest in recent years as an alternative propene production route due to a rising propene 
+demand and its current, decreasing production via classical cracking routes as a result of changes in refinery technology.14 The 
+Oleflex process, based on an alumina supported PtSn system, was one of the first industrially implemented catalysts for PDH in the 
+1990s to produce propene.1 Since then, Pt based bi and multimetallic materials have been among the most investigated systems 
+for this transformation.
+
+
+---
+
+Description:
+Used in oxidation and oxychlorination processes to improve dispersion and remove coke.
+
+Text:
+Both events lead to catalyst deactivation which is combated by constant regeneration cycles.1,4,5 Some regeneration strategies 
+involve short PDH cycles followed by short flow of different gasses  oxidation in air (Pt dispersion and coke removal; sometimes 
+oxychlorination to improve Pt dispersion), reduction with H2 (reactivation of the active phase)  which is repeated over years.4 
+Therefore, the search for catalysts exhibiting high catalytic performances, combined with robustness towards repeated regeneration 
+cycles is of major importance for further improving PDH catalysts. In order to find suitable materials, research efforts have concentrated on the use of post transition metal or main group element 
+promoters like Zn613, B14,15, Ga1620, In2123 and Sn1,5,24 in combination with varying supports.

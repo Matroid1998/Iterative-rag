@@ -1,0 +1,14 @@
+Description:
+Formed by the combination of two adsorbed hydrogen atoms or by reaction with a solvated proton.
+
+Text:
+The process of the catalytic HER is often regarded as the VolmerTafel and the VolmerHeyrovsky 
+mechanism. Both mechanisms involve electrochemical hydrogen adsorption, hydrogen atoms were 
+adsorbed on active atoms of the catalyst to form adsorbed H Volmer reaction (Equation 1), then 
+followed by the combination of two adsorbed hydrogen atoms to produce H2 molecule Tafel 
+reaction (Equation 2) or the reaction between one adsorbed hydrogen and a solvated proton from the 
+water layer to form a H2 molecule Heyrovsky reaction (Equation 3).1 
+       Volmer (1) 
+2  2  2 Tafel (2) 
+       2 Heyrovsky (3) 
+MHads signifies a H atom adsorbed on the surfaceactive atoms of the catalysts.

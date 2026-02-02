@@ -1,0 +1,33 @@
+Description:
+A homopolymer that exhibits hydrophobic collapse transitions at its lower critical solution temperature.
+
+Text:
+In particular, ionspecific, also
+called Hofmeister effects2,3 of salts on biopolymeric structure
+and phase behavior have been studied and highlighted in the re
+cent years in an overwhelming amount of literature.48
+The Hofmeister effects on the polymeric structure and the
+phase behavior are very complex and polymer specific. In order
+to increase the accessibility to the problem, often model systems
+are employed. For instance, the polyNisopropylacrylamide
+(PNIPAM) homopolymer or elastinlike polypeptides (ELPs),
+which both exhibit hydrophobic collapse transitions at their re
+spectivelowercriticalsolution temperatures(LCST).911 These
+collapse transitions are analogous to colddenaturation of pro
+teins, in which ionspecific interactions (Hofmeister effects)
+play an prominent role.
+
+
+---
+
+Description:
+A neutral polymer with a lower critical solution temperature (LCST) at 32°C.
+
+Text:
+PNIPAM is neutral polymer with LCST at 32 C. Charge
+groups can be introduced into the polymer structure by copoly
+merization, typically with weak or strong acids or bases.1214
+The electrostatic repulsion between charged monomers then
+leads to an increase of LCST in pure water and a strong re
+sponse to added salt at millimolar salt concentration when
+charge screening sets in.

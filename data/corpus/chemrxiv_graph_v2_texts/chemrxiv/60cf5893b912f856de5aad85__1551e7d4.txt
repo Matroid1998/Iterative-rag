@@ -1,0 +1,15 @@
+Description:
+A group 1 element used in doping to optimize p-type BiCuSeO.
+
+Text:
+Doping with group2 ele
+ments (Ca, Sr, and Ba) has been successful in optimizing ptype
+BiCuSeO.1013 Other efforts to optimize ptype BiCuSeO have in
+cluded doping with group1 elements such as Na,1416 K,17,18
+and Cs,19 converging the light and heavy hole bands through al
+loying with La,20 and increasing the electrical conductivity via
+isovalent Ag doping.2123 The widespread success of ptype Bi
+CuSeO begs the question of whether BiCuSeO can be doped n
+type and if it performs equally well as a TE material. We address
+these questions in this study by computing the formation energies
+of native defects and 23 dopants in BiCuSeO.

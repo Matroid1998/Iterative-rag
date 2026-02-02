@@ -1,0 +1,30 @@
+Description:
+A metal whose penetration in solid-state batteries limits the plating rate during charging.
+
+Text:
+Lithiummetal penetration is one of the main modes of cell failure in solidstate batteries 
+and limits the plating rate during charging1. While some researchers have described lithium
+metal structures penetrating the electrolyte as dendrites, the morphology of the lithium metal is 
+not necessarily treelike2,3. As an alternative, we here use the term intrusions, defined as 
+lithiummetal growth that electrochemically propagates within the solidstate electrolyte. Studying lithiummetal intrusions can aid in the development of inspection methods to screen out 
+defective materials before they are incorporated into full devices. Further, a fundamental 
+understanding of this intrusion process will enable the design of nextgeneration solidstate 
+batteries that can remain stable over higher charge rates.
+
+
+---
+
+Description:
+A metal that penetrates solid-state electrolytes and is influenced by electrochemical potential and stress.
+
+Text:
+The mechanism of lithiummetal penetration into solidstate electrolytes has been an 
+important topic of scientific research since the seminal work of Monroe and Newman4. They 
+predicted that solidstate electrolytes with a shear modulus 8 GPa would suppress lithium metal 
+intrusion due to the dependence of the electrochemical potential of lithium on stress4. However, 
+one of the most studied oxide solid electrolytes, Li7La3Zr2O12 (LLZO, which is usually doped 
+with Al, Ta, or Ga), has a shear modulus of 60 GPa5,6 but still exhibits intrusion growth at 
+current densities well below 1 mA cm2 (averaged across the electrode)2,7, which is even lower 
+than the threshold current density for liquid electrolytes. Recent theoretical studies resolve this 
+
+3

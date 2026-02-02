@@ -1,0 +1,41 @@
+Description:
+A critical raw material used in the manufacturing of lithium-ion batteries.
+
+Text:
+The frequent 
+instability of the geopolitical events, in fact, is impacting the supply of critical raw materials used in the 
+LIBs manufacturing (above all Li, Co Ni, graphite, but also rare earths) favouring the soaring of the 
+commodities prices. According to the market analyst, a combined total of over 180k tons of Li, Co, Ni 
+and Mn could be in principle recovered by 2030 through Liion cells recycling, a value which is forecast 
+to grow by approximately 10x by 2042 2. Despite such huge potential of EoL batteries as materialsenergy 
+resource, the LIBs recycling is still limited to a capacity that is by far lower than half of the available 
+spent devices.
+
+
+---
+
+Description:
+Recycled from cathodes of end-of-life lithium-ion batteries through pyrometallurgy or hydrometallurgy processes.
+
+Text:
+Indeed, about a hundred companies around the 
+world recycle or plan to recycle LIBs, most of them concentrated in China and South Korea, but there 
+are several startups also in USA and Europe, such as LiCycle, Umicore, NortholtHydro joint plant and 
+Redwood Materials with a broader scope towards the electronic wastes. In addition, longerterm projects 
+are under development in research centres, such as ReCell in US and ReLiB in UK, mostly focused on 
+direct recycling or alternative methodologies, such as the high intensity ultrasonication 5. The existing 
+recycling companies recycle Li, Co and Ni from cathodes of the EoL LIBs, mainly through 
+pyrometallurgy or hydrometallurgy processes after mechanical pretreatments aimed at converting the 
+batteries into black mass 6.
+
+
+---
+
+Description:
+Recovered through hydrometallurgy using strong mineral acids and reducing agents.
+
+Text:
+Pyrometallurgy and hydrometallurgy are considered largeloop processes, 
+involving numerous consequent steps. Pyrometallurgy uses high temperature to smelt the black mass and 
+obtain an alloy of Co, Cu, Fe and Ni, which can be further recovered by means of hydrometallurgy. Hydrometallurgy uses strong mineral acids and reducing agents to leach the metals from the black mass, 
+allowing the recovery of more elements (i.e., Li) compared to pyrometallurgy 1,6,7. New concepts are

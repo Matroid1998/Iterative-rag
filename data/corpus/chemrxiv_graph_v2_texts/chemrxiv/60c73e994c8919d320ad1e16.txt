@@ -1,0 +1,12 @@
+Description:
+Comprising six, seven, or eight glucose monomers in the shape of a hollow, truncated cone.
+
+Text:
+Cyclodextrins (CD) are cyclic oligosaccharides, comprising six (CD), seven (CD) or eight (CD) glucose 
+monomers in the shape of a hollow, truncated cone (Figure 1). Their C6 primary hydroxyls rim the 
+narrower face of the cone, while their C2 and C3 secondary hydroxyls are located on the wider face (Figure 
+1). The hydroxyls make the exterior of cyclodextrin hydrophilic and contribute to its aqueous solubility, 
+while the internal cavity remains hydrophobic, allowing for noncovalent association with lipophilic and 
+amphiphilic molecules. The cyclodextrins have found practical applications, such as solubilization of small, 
+lipophilic, drug molecules1,2, and encapsulation of volatile compounds3,4. Cyclodextrins also have been 
+adopted as test cases for computational methods of predicting noncovalent binding affinities.

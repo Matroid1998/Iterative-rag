@@ -1,0 +1,17 @@
+Description:
+Exhibits reactivity that can be lost during redox activity.
+
+Text:
+In addition to its applications in fragmentbased ligand 
+
+12 
+discovery, ISOTOPABPP has been adapted to investigate the cysteine redoxome, including as 
+H2O2sensitive cysteines in bacteria44, and Snitrosation sites in MCF7 cell lysates45. ISOTOP
+ABPP has also been used to identify redoxactive cysteines in isolated organelles such as 
+mitochondria and the endoplasmic reticulum46,47. A UVcaged version of the IAalkyne probe 
+minimizes cytotoxicity of the alkylating agent enabling in situ cysteine labeling48. More recently, 
+an optimized workflow termed SLCABPP reduces instrument time and input material, achieving 
+a depth of 8,000 reactive cysteine sites49. Future implementation of SLCABPP in redox biology 
+is greatly anticipated; however, it is essential to note that ISOTOPABBP and related derivatives 
+identify redox activity as a loss of thiolate reactivity and provide no information regarding OxiPTM 
+identity.

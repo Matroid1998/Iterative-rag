@@ -1,0 +1,13 @@
+Description:
+Generates sulfur radical anions or thiosulfate when reacting with bases.
+
+Text:
+Similarly, carbonbased nucleophiles usually 
+provide products with the incorporation of a single sulfur atom, for example in the Gewald1416 or Willgerodt
+Kindler17 reactions.18 Nitrogenbased nucleophiles are often proposed to open S8 as part of complex mechanisms, 
+1, 2 oxygen bases generate sulfur radical anions19, 20 or thiosulfate, 21 while hydrogen sulfide and thiols react with 
+sulfur to form complex mixtures of polysulfides. 2226 In most cases, opening of S8 by the nucleophile is believed to 
+be ratedetermining, therefore the productdetermining steps are kinetically invisible and thus still poorly 
+characterized. Indeed, experimental investigations of polysulfide mechanisms are complicated by their 
+thermodynamic instability2730 and recent evidence shows that they interconvert faster than they are trapped by 
+chemical probes.

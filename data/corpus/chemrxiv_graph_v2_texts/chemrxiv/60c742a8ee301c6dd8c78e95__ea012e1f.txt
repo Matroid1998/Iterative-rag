@@ -1,0 +1,10 @@
+Description:
+An element used in the synthesis of cBN with nitrogen at high temperature and pressures.
+
+Text:
+Cubic BN (cBN) with sp3hybridization and diamond structure is the most well
+known among BN phases. In 1957, Wentorf synthesized cBN from a mixture of boron 
+and nitrogen at high temperature and pressures.1 The discovery of Borazon catalyzed 
+work on the other polytypes of BN, foremost sp2hybridized hexagonal BN (hBN) 
+white graphite and to some extent the less studied wurtzite form (wBN) that is similar 
+to hexagonal diamond.

@@ -1,0 +1,14 @@
+Description:
+Used in lithium ion batteries to study ion dynamics in material science.
+
+Text:
+Recent experimental advances allow for studying
+biomolecules at interfaces,17,18 enable transient spectroscopy for following nonequilibrium
+protein dynamics,19 and implement spectroelectrochemistry to study redoxactive pro
+teins.20,21
+Moreover, 2D IR spectroscopy is employed to investigate groundstate and
+excitedstate dynamics in model systems such as metal carbonyl complexes2225 and can
+be applied in material science to shine light on the ion dynamics in lithium ion batteries.26
+However, the interpretation of 2D IR spectra critically depends on computations.2729
+Only by comparison to computational predictions, detailed information on the structure
+and dynamics can be extracted from experimental 2D IR spectra.

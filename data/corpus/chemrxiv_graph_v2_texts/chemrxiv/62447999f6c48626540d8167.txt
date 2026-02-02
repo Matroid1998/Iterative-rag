@@ -1,0 +1,24 @@
+Description:
+Considered a suitable alternative for COx hydrogenation reactions due to its abundance, cost-efficiency, and lower environmental impact.
+
+Text:
+17 
+CO2  4 H2  CH4  2 H2O 
+Ro   165 kJ mol1 
+(1) 
+CO  3 H2  CH4  H2O 
+Ro   206 kJ mol1 
+(2) 
+Despite several metals, such as Ru, Rh, Co and Fe, are active for methanation Ni is mainly 
+18 
+investigated in research and applied in industrial production, due to the high activity and 
+19 
+selectivity towards CH4 17. Besides these advantages, Ni catalysts suffer from high human 
+20 
+and environmental toxicity 1821. Therefore, ironbased catalysts attract attention as a 
+21 
+suitable alternative for COx hydrogenation reactions, because iron is abundant, costefficient 
+22 
+and less harmfull to the environment with only little cutbacks in activity and selectivity in 
+23 
+methanation 22.

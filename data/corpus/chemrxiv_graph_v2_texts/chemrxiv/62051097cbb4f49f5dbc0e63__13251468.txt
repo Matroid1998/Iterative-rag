@@ -1,0 +1,12 @@
+Description:
+A host for lanthanides that enables nonradiative energy transfer and light conversion.
+
+Text:
+Zinc oxide is one of the most promising semiconductors for solar cell up and downconverters 
+because its cheap and appropriate host for lanthanides 1,2. The lanthanides atoms on ZnO 
+surface can effectively convert UV and visible light into nearinfrared range where the cSi solar 
+cells strongly absorb light 36. The light conversion can occur through nonradiative energy 
+transfer from excited state of ZnO to the excited states of lanthanide ions with subsequent light 
+emission in the infrared range 79. The energy transfer is quite an effective process resulting in 
+the efficiency of up to 200 when quantum cutting takes place 10. A number of lanthanidedoped ZnO materials, such as composites, films, nanoparticles etc., has 
+already been reported in literature 79,1113.

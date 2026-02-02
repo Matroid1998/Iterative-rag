@@ -1,0 +1,15 @@
+Description:
+A chemical that can be produced using renewable energy in power-to-X systems.
+
+Text:
+If the energy 
+source is purely fossil fuels, carbon capture and utilization (CCU) is reported to cause more 
+emissions than unabated fossil fuels.46 To address this challenge, it has been proposed to apply 
+renewable energy to power the carbon utilization, thus forming powertoX (power refers to 
+solar or wind renewable energy source; X refer to fuels or chemicals, such as methanol, H2, 
+gasoline and polymers).4, 5, 713 However, it is complex to immediately scale up these systems 
+due to two facts (1) a prerequisite is the access to cheap renewable energy, which requires a 
+considerably higher renewable power capacity than todays installations for solar 
+photovoltaics14 and wind turbines; (2) the intermittent renewable electricity requires either 
+cheap battery systems or the feasibility for dynamic operation of the utilization processes.8, 11 
+Further, several studies on hybrid systems, i.e.

@@ -1,0 +1,13 @@
+Description:
+Undergoes lipase catalyzed acylation at C5OH.
+
+Text:
+More streamlined approaches have 
+subsequently been reported4,5,6,7,8, however these routes rely on chemical methods to install the N
+hydroxy unit, which require elevated temperatures, prolonged reaction times, andor additional steps 
+for activation and protectiondeprotection chemistry. These factors compromise reaction yields and 
+process productivity, ultimately leading to increased costs. We sought to develop a more efficient and sustainable route to 1 that could be implemented on scale, 
+where modification of the base to install the Nhydroxy unit is achieved catalytically using an 
+engineered enzyme. Since Nhydroxycytidine 4 has previously been shown to undergo lipase 
+catalyzed acylation at C5OH4,5, this approach would provide an integrated biocatalytic process to 
+Molnupiravir 1 from readily available starting materials.

@@ -1,0 +1,13 @@
+Description:
+Emissions result from hydrogen production using fossil fuels, with varying amounts depending on the fuel source.
+
+Text:
+Utilizing 
+fossil fuels for hydrogen production as well as thermal energy results in significant carbon dioxide 
+emissions, ranging from a theoretical minimum of 1.8 tons CO2 per ton NH3 for natural gas23, to 
+around 3.9 tons CO2 per ton NH3 for coal;21,24 the global average CO2 emissions are approximately 
+2.9 tons CO2 per ton NH3.23 As a result of tremendous worldwide demand driven primarily by the 
+fertilizer and chemicals industry, HaberBosch ammonia produced from fossilfuel derived 
+hydrogen accounts for approximately 1.5 of worldwide CO2 emissions.23 If transportation fuels 
+are to comprise another source of demand for ammonia, it is critical to mitigate the carbon footprint 
+associated with current methods of ammonia production.

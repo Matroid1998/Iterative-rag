@@ -1,0 +1,60 @@
+Description:
+Used in optical sensors due to its efficient luminescence quenching properties.
+
+Text:
+Luminescence quenching in some metalorganic frameworks (MOFs) is known to be very efficient, 
+making these materials interesting candidates for application in optical oxygen sensors.1 Particularly 
+intriguing is the porphyrinic MOF class PCN224, which is characterized by high porosity, and good 
+stability in presence of acids, bases, organic solvents or at high temperature.2 The PCN224 MOFs are 
+characterized by efficient absorption of visible light and variable luminescence decay times 
+(nanoseconds to hundreds of microseconds) depending on the use of the free or differently metalated 
+porphyrin linkers.3 Accordingly, PCN224based materials show tunable dynamic ranges making them 
+suitable for e.g.
+
+
+---
+
+Description:
+A gas that can be sensed in ultratrace amounts in the gas phase or in ambient concentrations in water.
+
+Text:
+ultratrace sensing of oxygen in the gas phase3 or sensing of ambient oxygen 
+concentrations in water.4 Although such MOFbased oxygen sensor materials evolved as an 
+interesting alternative to conventional polymer based sensors,5 insights in their working principle are 
+hardly available. We herein wish to contribute to a more comprehensive understanding of MOFbased 
+optical sensors by tackling the question whether chromophores from the inner core of the crystal 
+participate in the sensing event.
+
+
+---
+
+Description:
+A molecule that can quench luminescence by interacting with chromophores.
+
+Text:
+The luminescence from the chromophores located in the core of the 
+MOF might be limited or even completely undetectable due to possible absorption of the entire 
+excitation light in the outer layer of the framework by primary inner filter effect andor by 
+reabsorption of the light emitted from the core by the outer layer (secondary inner filter effect).6 
+Moreover, luminescence quenching may be significantly less efficient due to lower accessibility of the 
+inner parts of the crystal to oxygen.
+
+
+---
+
+Description:
+Involved in quenching behavior in MOFs.
+
+Text:
+This information however is not only crucial for understanding of 
+MOFs function as optical sensor materials, but also as photocatalytic materials,7 photosensitizers for 
+photodynamic therapy8 and in bioremediation applications.9 We prepared coreshell MOFs (often 
+referred to as MOFonMOF materials) with isostructural elements that utilize organic linkers with 
+significantly different photophysical properties10 and studied their different emission spectra and 
+oxygen quenching behavior. PCN224 type materials are supposedly well suited for this endeavor since 
+differently metalated and free porphyrin ligands crystallize in the same space group with the same 
+lattice constants.1,2 
+Results and Discussion 
+The coreshell MOFs were prepared by a twostep procedure using 5,10,15,20tetrakis(4
+carboxyphenyl)21,23Hporphyrin (H2TCPP) and its Pt(II) complex (Pt(II)TCPP) as the ligands. First, the 
+core was synthesized by the conventional solvothermal reaction.

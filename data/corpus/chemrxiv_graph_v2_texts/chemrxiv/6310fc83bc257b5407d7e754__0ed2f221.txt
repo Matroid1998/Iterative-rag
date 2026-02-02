@@ -1,0 +1,28 @@
+Description:
+Used for base metal extraction in leach solutions.
+
+Text:
+Since the success of the leaching stage depends on the choice of the leach solution and leach 
+conditions, investigations to develop new leach solutions and optimization of leach parameters 
+is being undertaken. Leach solutions employed for Cu recovery include acids, bases, salts, and 
+ionic liquids. Typical acids used for base metal extraction are sulfuric acid 10, nitric acid 11, 
+hydrochloric acid 12, trifluoromethanesulfonic acid 11, and mixtures of acids 13. These 
+acids have often been used in combination with oxidants such as oxygen, H2O2, ferric salts, and 
+chlorine gas 14, 15.
+
+
+---
+
+Description:
+An efficient solvent for the recovery of Cu.
+
+Text:
+Of these leaching agents, sulfuric acid is the favoured solvent 
+predominantly because its market price is lower than the other acids and it has been proven to 
+be an efficient solvent, especially for the recovery of Cu 16. Ammoniacal mixtures and NaOH 
+are examples of basic leaching agents for Cu recovery. The ammoniacal lixiviant is generally 
+comprised of ammonia in combination with ammonium salts such as carbonates 17, chlorides 
+18, or sulfates 19. The ammonia leaching process is more suitable for Cu extraction than 
+acidic systems as these lixiviants show higher selectivity for Cu, leaving metals such as iron 
+(Fe) and aluminium (Al) undissolved. However, it has been shown that nickel (Ni) and zinc 
+(Zn) are also dissolved in the ammoniabased lixiviant. Most metals present in PCBs are

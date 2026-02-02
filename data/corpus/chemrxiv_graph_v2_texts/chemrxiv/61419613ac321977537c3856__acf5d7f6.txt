@@ -1,0 +1,28 @@
+Description:
+A major product on Cu based catalysts with high current density and Faradic efficiency.
+
+Text:
+Hori and coworkers 
+have shown that CH4 and C2H4 are the two major products on Cu based catalysts with high current 
+density and Faradic efficiency (FE).4,10,11 However, the required potential for CO2 hydrogenation 
+is relatively high (1.0 V) and therefore, the efficiency of Cu based catalysts is less for such 
+reaction.12 Further to this, the selectivity of the product is less as various products can be achieved 
+at comparable potential. Hence, the major difficulties in the electrochemical CO2 hydrogenation 
+reaction are high overpotential and low product selectivity which hamper the development and 
+application of CO2 hydrogenation reaction. Several research groups have reported that the 
+selectivity and activity of CO2 hydrogenation reaction are highly influenced by the morphology of 
+the Cu surface.
+
+
+---
+
+Description:
+The main product on Cu(111) surface.
+
+Text:
+Hori and coworkers have demonstrated that CH4 is the main product on Cu(111) 
+surface whereas C2H4 is the major product on Cu(100) surface.1315 In this context, Koper and co
+workers have shown two different pathways on the periodic Cu(100) surface for the formation of 
+C2 based product.1618 Both the pathways have some common intermediates which can form CH4 
+at 0.8 to 0.9 V vs reversible hydrogen electrode (RHE). In this case, the most important step for 
+C2 based product formation is the dimerization of CO at 0.4 V vs RHE. After these reports,

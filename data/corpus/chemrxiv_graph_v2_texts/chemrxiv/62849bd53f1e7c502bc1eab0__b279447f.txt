@@ -1,0 +1,13 @@
+Description:
+A system where (111) and (220) planes exhibit the lowest surface energies, influencing crystal growth directions.
+
+Text:
+As in other anisotropic polycrystalline materials, the physical and chemical properties of SiC 
+coatings are dependent on the growth orientation of the crystals, which is the result of 
+competition between different growth planes. In the 3CSiC system, (111) and (220) planes 
+were reported to exhibit the lowest surface energies24, meaning that under regular 
+circumstances the SiC crystals would growth favorably in both 111 and 110 directions. Several studies have been performed to deposit highly oriented 3CSiC by tuning the 
+deposition conditions or by utilizing different CVD techniques. Tu et al. have reported the 
+growth of primarily 110oriented SiC at T  1450  and Ptot  10 kPa by thermal CVD25, 
+whereas both primarily 110 and 111oriented SiC coatings were prepared at various 
+conditions by Zhang et al. via laser CVD8.

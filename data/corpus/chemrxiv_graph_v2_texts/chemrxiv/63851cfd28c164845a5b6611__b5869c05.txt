@@ -1,0 +1,17 @@
+Description:
+In some cases, the rate of the coupled reaction is higher outside of the reaction network.
+
+Text:
+Alt
+hough it is true that these species mediate the coupled reaction 
+without being consumed, this does not necessarily mean that 
+they correspond to what most chemists would consider a cata
+lyst.41 Chemists usually understand catalysis to mean that the 
+overall energy barrier of a transformation has been lowered rel
+ative to the uncatalyzed pathway. In some cases (e.g., catenane 
+6), the rate of the coupled reaction is higher outside of the reac
+tion network. Thus, we prefer mediates to catalyzes as it 
+covers all eventualities. That said, catalyze is obviously correct 
+in analogous biological systems, which are highly optimized.28 
+But my reaction is irreversible Throughout we have 
+treated all reactions as fully reversible.

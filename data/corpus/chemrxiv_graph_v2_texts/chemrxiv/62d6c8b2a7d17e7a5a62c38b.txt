@@ -1,0 +1,16 @@
+Description:
+Building blocks whose relative alignment affects the energy barrier in isomer transformations.
+
+Text:
+In recent work by Petkov et al.,17 by
+using DFT calculations they observed the winerack move
+ment of the stable isomers of DUT8 originated from the
+longrange orientation of the linkers, which may point up
+or down relative to each paddlewheel building block. They
+discovered that the isomers possess different energy barriers
+to transform from the open form to the closed form, which
+results in reduced flexibility in one of the isomers. The
+energy barrier difference arises due to the different relative
+alignment of the naphthalene building blocks. Wang et al.,18 investigated the impact of ligand
+originated isomerism and ligand functionalization on gas ad
+sorption of NbO type MOFs.

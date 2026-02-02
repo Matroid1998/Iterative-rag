@@ -1,0 +1,12 @@
+Description:
+Possess a rigid molecular structure and are typically based on p and n-doped forms.
+
+Text:
+This is typically accomplished 
+using a twisted structure containing donor (D) and acceptor (A) fragments.3d However, the 
+chargetransfer (CT) excited state2b, 4 and the large reorganization energy in the excited state 
+lead to broad emission, characterized by large full width halfmaximum (FWHM)  80 nm.3c, 
+5 The corresponding TADF OLEDs do not show the desired high color purity. A solution is to use multiresonant TADF (MRTADF) emitters.6 MRTADF emitters are 
+typically based on p and ndoped nanographenes and so possess a rigid molecular structure.7 
+The ingenious molecular design places each of the frontier molecular orbital (FMOs) on 
+adjacent atoms thus leading to shortrange charge transfer (SRCT) between adjacent atoms,

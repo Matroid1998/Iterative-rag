@@ -13,7 +13,7 @@ skipped. Designed to be memory-friendly and able to use streaming mode.
 Usage examples:
   python scripts/download_chemrxiv_paragraphs.py \
     --config cc-by \
-    --out docs/chemrxiv_paragraphs_texts \
+    --out data/corpus/chemrxiv_paragraphs_texts \
     --streaming
 
   python scripts/download_chemrxiv_paragraphs.py \
@@ -182,7 +182,11 @@ def export_dataset(out: str, config: str, text_col: Optional[str], streaming: bo
 
 def main(argv: Optional[Iterable[str]] = None) -> int:
     p = argparse.ArgumentParser(description=f"Download {DATASET_NAME} and export paragraphs as .txt files")
-    p.add_argument("--out", default=os.path.join("docs", "chemrxiv_paragraphs_texts"), help="Output base directory (default: src/docs/chemrxiv_paragraphs_texts)")
+    p.add_argument(
+        "--out",
+        default=os.path.join("data", "corpus", "chemrxiv_paragraphs_texts"),
+        help="Output base directory (default: data/corpus/chemrxiv_paragraphs_texts)",
+    )
     p.add_argument("--config", default="cc-by", choices=["cc-by", "cc-by-nc"], help="Dataset config to use (license variant)")
     p.add_argument("--text-col", default=None, help="Explicit text column name (optional)")
     p.add_argument("--streaming", action="store_true", help="Use streaming mode to reduce memory")

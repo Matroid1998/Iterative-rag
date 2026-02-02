@@ -1,0 +1,27 @@
+Description:
+A residue with enhanced nucleophilicity used for quantitative modification and often inhibition of target proteins.
+
+Text:
+Chemical probes offer a molecular toolkit for the study of 
+the proteome and validation of potential therapeutic tar
+gets.1 Probes that bear reactive functionalities have proved 
+particularly powerful for the study of protein targets 
+through the covalent modification of selected amino ac
+ids.2,3 Covalent inhibitors and therapeutics provide a proven 
+strategy to enhance potency and selectivity, and reduce dos
+ing frequency (Figure 1Ai).47 Reactive tools have also been 
+employed broadly in chemical biology, enabling robust pro
+tein capture and providing access to a suite of techniques, 
+including chemoproteomic mapping of ligandprotein inter
+actions across the proteome (Figure 1Aii).8,9 More recently, 
+reactive fragmentbased screening platforms have been de
+veloped for streamlined and robust detection of hits, both 
+with purified proteins of interest and in proteomewide 
+screening, which offers a route to expand the liganded pro
+teome (Figure 1Aiii).1016 
+Existing reactive approaches have traditionally utilised cys
+teinetargeting electrophiles, exploiting the enhanced nu
+cleophilicity of these residues to enable quantitative modi
+fication, and often inhibition, of target proteins (Figure 
+1Bi).1719 There are, however, a limited number of protein 
+pockets that contain an accessible cysteine.

@@ -1,0 +1,16 @@
+Description:
+Used as a surface for DNA immobilization in detection applications.
+
+Text:
+For instance, they have recently been applied for the detection 
+of a variety of heavy metals species in water where one comb was 
+used as a working electrode and the other as a generator electrode, 
+allowing electrochemical modification of local pH for improving 
+sensing efficacy 15, 16. They have also been applied to DNA de
+tection where the probe DNA was either immobilised on both IDEs 
+17 or the silicon surface between them 1820. Typically, the 
+DNA hybridisation was detected using conductance measured be
+tween the two IDEs or impedance, when IDEs were used. Selective 
+modification of only one IDE could enable using the other IDE for 
+other function that sensing as well as using other techniques for 
+DNA detection, such as linear sweep voltammetry.

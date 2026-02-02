@@ -1,0 +1,14 @@
+Description:
+The H2 molecule in its nuclear singlet spin state used to enhance NMR signals.
+
+Text:
+Parahydrogen Induced Polarization (PHIP)15 is a well
+established tool to enhance weak NMR signals. PHIP makes 
+efficient use of the spin order of parahydrogen (pH2, the H2 
+molecule in its nuclear singlet spin state) which is converted into 
+observable NMR signals. Since pH2 is NMR silent (as it does not 
+have a magnetic moment) suitable chemical processes must be 
+harnessed to convert the spin order into an enhanced NMR 
+signal. Such processes are given by catalytic hydrogenation 
+reactions3 with pH2 or by reversible interactions of pH2 with an 
+organometallic complex5, 6.

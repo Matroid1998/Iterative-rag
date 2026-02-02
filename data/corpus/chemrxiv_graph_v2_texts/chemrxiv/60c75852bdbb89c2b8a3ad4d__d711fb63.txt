@@ -1,0 +1,15 @@
+Description:
+Partially atomized at high temperatures in thermal plasmas.
+
+Text:
+The equilibrium shifts towards NO with increasing
+temperature, a fact exploited in the BirkelandEyde (BE) process for thermally xing N2
+at high temperatures achieved within a thermal plasma.6 At these high temperatures, N2
+and O2 are partially atomized, and NO is produced by O and N radical reactions with N2
+and O2, respectively, in the socalled Zeldovich mechanism.7 Similar processes are at play
+in conventional combustion of fuel in air, motivating interest in NO decomposition catalysts
+for environmental protection.8 However, catalytic N2 oxidation under thermal conditions is
+unknown. Nonthermal N2O2 plasmas are known and have been observed to generate NO at bulk
+temperatures much below those necessary for thermal N2 oxidation. NO yields can even
+exceed those expected based on the bulk thermodynamic equilibrium.9 These NTPs contain
+3

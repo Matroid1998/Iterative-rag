@@ -1,0 +1,13 @@
+Description:
+Forms bonds to cyclic sp2 hybridized carbon atoms in reactions.
+
+Text:
+For example, a reaction is discarded if there is not an exact
+onetoone mapping between the heavy atoms of the reactant and the product excluding
+the reacting bromine(s), or if a reacting bromine forms a bond to something other than a
+cyclic sp2 hybridized carbon atom (accounting for 5,314 reactions). Furthermore, reactions
+with unique reactions IDs in Reaxys but identical reactants are merged (accounting for 3,158
+reactions). Quantum chemical calculations
+Recently, we published the RegioSQM20 method,6 which predicts the regioselectivities of
+EAS reactions from semiempirical calculations of proton anities. The singletautomer
+2

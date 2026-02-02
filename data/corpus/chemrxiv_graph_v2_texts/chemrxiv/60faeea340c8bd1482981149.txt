@@ -1,0 +1,28 @@
+Description:
+Involved in dissociation and adsorption processes modeled by quantum simulation methods.
+
+Text:
+Quantum simulation methods, such as density functional theory (DFT), are necessary to
+model the bond breaking inherent in hydrogen dissociation and adsorption.36 DFT remains
+one of the most popular modeling methods in condensed matter physics, computational
+chemistry, and materials science, and has been widely used in studies of the physical and
+structural properties of Pu (e.g., Refs. 7,8). While a comprehensive explanation of plu
+toniums magnetism has yet to be oered, plutonium does not exhibit a bulk magnetic
+moment9 and antiferromagnetic (AFM) models yield structural properties comparable to
+experiments.10
+Surface hydriding studies are generally framed in terms of low (single molecule per surface
+unit) vs. high (nearing full monolayer) coverage.
+
+
+---
+
+Description:
+Involved in partial pressures below the equilibrium pressure in adsorption studies.
+
+Text:
+Low coverage conditions will be expected
+at hydrogen partial pressures PH2 well below the equilibrium pressure P eq
+H2, PH2 P eq
+H2. Previous DFT studies of adsorption of a single H atom or H2 molecule on clean (100) and
+(111) surfaces of Pu have all been conducted at low coverage conditions.36,1113 High
+2

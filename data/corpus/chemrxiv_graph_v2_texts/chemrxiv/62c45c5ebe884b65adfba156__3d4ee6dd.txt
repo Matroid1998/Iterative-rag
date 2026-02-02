@@ -1,0 +1,36 @@
+Description:
+A potential energy vector for heavy transportation, replacing fossil fuels.
+
+Text:
+Hydrogen production by water electrolysis is an intensely stud
+ied process for the mediumterm storage of intermittent, decar
+bonized electricity such as solar, wind and tidal energy1,2. Fur
+thermore, clean hydrogen could also become a widely used en
+ergy vector for heavy transportation, replacing fossil fuels. How
+ever, the high cost of platinum electrodes represents one of the
+barriers towards the largescale implementation of electrolytic
+generation of H2 with the Proton Exchange Membrane (PEM)
+technology3,4.
+
+
+---
+
+Description:
+Involved in adsorption on MoS2 nanotubes.
+
+Text:
+In recent years, transition metal dichalcogenides (TMDs) with
+their intriguing structural and electronic properties have attracted
+a Univ Lyon, Ens de Lyon, CNRS UMR 5182, Laboratoire de Chimie, F69342, Lyon,
+France; Tel (33)4 72 72 81 55; Email stephan.steinmannenslyon.fr
+b IFP Energies nouvelles, Rondpoint de lchangeur de Solaize, 69360 Solaize, France
+ Electronic Supplementary Information (ESI) available The supplementary mate
+rial contains the results for hydrogen adsorption on MoS2 nanotubes and additional
+Figures and Tables. Coordinates and DFT raw data is freely available on NOMAD
+lab
+httpsdx.doi.org10.17172NOMAD2022.04.111. The script to post
+process VASP computations to GCDFT is provided. See DOI 00.000000000000.
+increasing interest57. Their largescale synthesis, based on the
+processes of liquid exfoliation, chemical vapor deposition and es
+pecially impregnation followed by suldation,8 facilitates their
+use in various elds9,10.

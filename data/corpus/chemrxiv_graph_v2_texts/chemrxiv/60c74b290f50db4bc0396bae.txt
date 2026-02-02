@@ -1,0 +1,12 @@
+Description:
+Used as micelles in NMR studies of a truncated SARSCoV channel.
+
+Text:
+The mutations are located far away 
+from the targeted inhibitor binding site (Nterminus channel entrance and lumen), therefore they shall 
+have no effect on the screening results. The only available deposition for the E protein in the Protein Data Bank (PDB) is the NMR set of 16 
+structures of a truncated SARSCoV channel in lysomyristoyl phosphatidylglycerol micelles (PDB 
+5X29 10, see also Table 1 and Fig. 1). While these NMR models are lacking precision of Xray 
+structures, they offer several snapshots of the channel dynamics, which could be advantageous in the 
+docking studies. It appears that the channel, and, specifically, its pore fluctuates wildly. Depicted on 
+Fig. 2 are the lumen radii calculated with HOLE program 11. The narrowest part of the channel could

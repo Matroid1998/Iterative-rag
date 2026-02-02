@@ -1,0 +1,45 @@
+Description:
+Starting materials commonly used in methods that generate diaryliodonium salts.
+
+Text:
+Hypervalent iodine compounds (HVI) are wellestablished reagents for synthetic 
+chemists. They are portrayed as an alternative to otherwise hazardous transition 
+metals. This is due to their great reactivity in electrophilic group transfers 14, photo 
+or organocatalysis 515, and their utility as building blocks for the synthesis of natural 
+products 1621. One subclass of HVIs is diaryliodonium salts (DIS), which have been 
+used as versatile electrophilic arylation reagents in metalcatalyzed and metalfree 
+reactions 22, 23. The corresponding cyclic diaryliodonium salts (CDIS) have also 
+been investigated as useful building blocks for the synthesis of larger diarylbased 
+molecules, (hetero)aromatic tricyclic systems, or new arylmoieties 24, 25. Most 
+methods that generate DIS utilize iodoarenes as starting materials 26, 27.
+
+
+---
+
+Description:
+React with nucleophilic arenes under oxidative acidic conditions.
+
+Text:
+In these 
+onepot procedures, iodoarenes react with nucleophilic arenes under oxidative acidic 
+conditions.The synthesis of CDIS is more challenging since the arene moiety must be 
+covalently connected to the iodoarene prior to cyclization. Recently, we published two 
+new methods that describe the generation of carbon and heteroatombridged CDIS 
+28, 29. Herein, we improved the formation of iodoarenes through a Brnsted acid
+mediated FriedelCrafts reaction followed by an oxidative cyclization to form the 
+desired CDIS 1 (Scheme 1, A). This onepot approach is based on orthoiodinated 
+benzyl alcohols as starting materials. It allows access to a variety of otherwise tedious 
+to synthesize CDIS robustly in short reaction times.
+
+
+---
+
+Description:
+Compounds that can undergo anodic oxidation to synthesize hypervalent iodine reagents.
+
+Text:
+A significant drawback still is the 
+use of stoichiometric amounts of chemical oxidants, which decreases the atom 
+economy and necessitates additional workup procedures. A possible solution is the 
+anodic oxidation of iodoarenes as electrochemistry is a highly economical tool that 
+avoids chemical oxidants for synthesizing hypervalent iodine reagents 30. Iodoarenes

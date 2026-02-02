@@ -1,0 +1,14 @@
+Description:
+Are part of the tetrahedral structure in silicates and have a low atomic number.
+
+Text:
+Many useful properties of materials manifest from the precise structure of a given compo
+sition. Traditional structure determination techniques such as Xray diffraction (XRD) is
+suitable for atoms of moderatetohigh atomic number; however, it can lead to ambiguous
+structure assignments for materials containing atoms with low atomic number.1 In addition,
+XRD relies heavily on longrange order for correct measurement, but such longrange order
+is often lacking in many classes of materials, e.g. nanostructures, amorphous materials and
+materials with a tetrahedral network, making structural characterization of such materials
+via XRD difficult. Such as a class of materials are exemplified by silicates which consist
+of a tetrahedral structure of silicons and oxygens (which have low atomic number and are
+difficult to observe via XRD).

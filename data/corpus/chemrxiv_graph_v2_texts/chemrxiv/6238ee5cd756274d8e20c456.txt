@@ -1,0 +1,15 @@
+Description:
+Forms atomic building blocks such as oxygen tetrahedra in crystal structures.
+
+Text:
+1215 These techniques involve global
+optimization of free parameters describing the crystal structure, and utilize domain knowledge to reduce the
+available degrees of freedom as much as possible. Methods including simulated annealing, genetic algorithms,
+and particle swarm have all been used to deduce the atomic positions. 12, 1620 While these approaches
+have been shown to be effective in solving a wide range of crystal structures across chemistries, many rely on
+the specification of an expected structure or atomic building blocks such as oxygen tetrahedra or prototype
+structures to reduce the free parameters as much as possible. 1620 In some cases, these heuristics can
+Email address handonglingberkeley.edu (Handong Ling)
+Corresponding Author
+Preprint submitted to Elsevier
+March 21, 2022

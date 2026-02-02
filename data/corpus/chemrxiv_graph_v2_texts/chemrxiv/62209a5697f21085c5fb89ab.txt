@@ -1,0 +1,12 @@
+Description:
+A chromophore that converts photon energy into vibrational energy in the vision mechanism.
+
+Text:
+Any excess of vibrational energy in a molecule above its zeropoint level may induce 
+physicalchemical reactions like isomerization, dissociation, or rearrangement. The role of such 
+vibrational energy excess is particularly relevant when a lightexcited molecule transfers the 
+photon energy to the ground state without emitting radiation. The classic example is the vision 
+mechanism, where a complex sequence of events is triggered in the rhodopsin protein after the 
+retinal chromophore converts photon into vibrational energy.1 
+We often say that a molecule with large vibrational energy is hot. However, if we ask what 
+the molecules temperature is, the question sounds odd.

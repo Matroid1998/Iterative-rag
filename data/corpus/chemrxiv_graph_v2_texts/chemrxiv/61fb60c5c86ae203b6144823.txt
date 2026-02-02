@@ -1,0 +1,29 @@
+Description:
+A solute bond donor property.
+
+Text:
+The following three types of equations are most often applied.1,5 
+62 
+
+Log K  c  eE  sS  aA  bB  vV 
+(1) 
+63 
+
+Log K  c  eE  sS  aA  bB  lL 
+(2) 
+64 
+
+Log K  c  sS  aA  bB  vV  lL 
+(3) 
+65 
+The symbols denote the following K, partition coefficient; E, excess molar refraction; S, solute 
+66 
+polarizabilitydipolarity parameter; A, solute hydrogen (H)bond donor property; B, solute H
+67 
+bond acceptor property; V, McGowans molar volume; and L, logarithmic hexadecaneair 
+68 
+partition coefficient. The lowercase letters are regression coefficients and are typically trained 
+69 
+with several tens of compounds for which experimental log K and the solute descriptors (i.e., 
+70 
+E, S, A, B, V, and L) are available.

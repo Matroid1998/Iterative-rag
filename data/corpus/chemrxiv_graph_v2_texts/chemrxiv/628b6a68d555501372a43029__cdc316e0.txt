@@ -1,0 +1,11 @@
+Description:
+A cohesive structure characterized by unique interatomic distance and angle.
+
+Text:
+1c obtained after geometry optimization onto the ground state with quantum 
+mechanical calculations based on the density functional theory DFT 3 is described in the 
+tetragonal system (cf. Table 1). However, such tetrahedron was found less cohesive, explained by 
+the lack of 3D periodicity. Additional carbon at 0,0,0 (corner positions, Fig. 1d) let gain 3D 
+periodicity with cornersharing tetrahedra in all directions. The resulting tetC4 was found as 
+cohesive as diamond 4 and equally characterized with unique interatomic distance and angle as 
+shown in Table 1. Our proposition of a very simple dense carbon allotrope, i.e.

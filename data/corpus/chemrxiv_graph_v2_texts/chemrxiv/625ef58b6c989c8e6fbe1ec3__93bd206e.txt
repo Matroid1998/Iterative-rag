@@ -1,0 +1,43 @@
+Description:
+A gas transported by blood to every part of the human body.
+
+Text:
+Bloodstain TSD is typically estimated by modelling the physicochemical degradation of 
+78 
+blood biomolecules over time; experimental methodologies generating spectroscopic 79, genetic 1012 
+79 
+and photographic 13,14 metrics have been developed and used to estimate bloodstain TSD. Factors like 
+80 
+individual variation, type of substrate and environmental conditions influence the timewise degradation 
+81 
+of bloodstains and their biomolecules, resulting in large variability in the accuracy and precision of TSD 
+82 
+estimation models 1,15,16. 83 
+Blood is a nonNewtonian fluid responsible for the maintenance of homeostasis in vivo by providing 
+84 
+transport of oxygen, carbon dioxide, minerals, and electrolytes, among others, to and from every part of 
+85 
+the human body.
+
+
+---
+
+Description:
+Binds to hemoglobin to form oxyhemoglobin, which is capable of carrying oxygen.
+
+Text:
+Oxygen 
+93 
+bound to Hb is referred to as oxyhemoglobin (oxyHb) while Hb without oxygen is referred to as 
+94 
+deoxyhemoglobin (deoxyHb) 17. In vivo, every day roughly 3 of oxyHb is autoxidized to methemoglobin 
+95 
+(metHb), a derivative incapable of binding and carrying oxygen 1,18. In healthy Hb, such as oxyHb and 
+96 
+deoxyHb, iron is present in its ferrous state (Fe2), compared to the oxidized metHb in which iron is 
+97 
+present in its ferric state (Fe3) 1,7,17. In vivo, internal reduction mechanisms including enzymes 
+98 
+glutathione peroxidase and methemoglobin reductase are responsible for maintaining low levels of 
+99 
+metHb by converting Hb to its healthy derivatives (1,19).

@@ -1,0 +1,21 @@
+Description:
+Explored as an anolyte material with a highly reversible redox couple and a standard reduction potential of 0.45 V vs. SHE.
+
+Text:
+However, watersoluble TEMPO de
+rivatives remain uneconomical, with a low oxidation poten
+tial of 0.8 V vs. Standard Hydrogen Electrode (SHE) com
+pared to the thermodynamic limit of 1.23 V in water im
+posed by the oxygen evolution halfreaction.19,20 Viologen 
+derivatives have similarly been explored as anolyte materi
+als due to their highly reversible 12 redox couple with 
+a standard reduction potential of 0.45 V vs. SHE.16,21 How
+ever, with a molecular weight of 257 gmol (vs. 156 gmol 
+for TEMPO), batteries based on methyl viologen are un
+likely to satisfy capital cost requirements for commercial vi
+ability.3 Additionally, the use of separate electrolytes for the 
+anode and cathode results in capacity fade with chemical 
+crossover driven by concentration gradients.22 The discov
+ery of new stable organic radical scaffolds may therefore 
+unlock performance and cost targets unachievable with cur
+rent materials.

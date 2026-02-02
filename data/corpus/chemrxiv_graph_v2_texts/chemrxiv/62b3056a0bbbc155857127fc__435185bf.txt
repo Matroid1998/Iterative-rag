@@ -1,0 +1,18 @@
+Description:
+Compounds that release phenols significantly faster in click-to-release reactions.
+
+Text:
+1a), 
+representing a strategy for the design of a variety of prodrugs, 
+considering that OHfunctionalized compounds account for a 
+large number of FDAapproved smallmolecule therapeutics.8 
+However, only limited secondorder rate constants (k2) of less 
+than 0.001 M1s1 have been observed for the IEDDA reaction of 
+vinyl ethers and Tz.8 Versteegen et al. have subsequently 
+developed rTCOethers and rTCOcarbonates that react 
+substantially faster with Tz (k2 10 M1s1), leading to click
+triggered release of alcohols and phenols (Fig. 1b).9 However, in 
+the case of rTCOethers only slow elimination was observed, 
+requiring 30 hours to obtain 80 of the released alcohol or 
+phenol. While clicktorelease of phenolic rTCOcarbonates was 
+found to proceed significantly faster (80 after approx.

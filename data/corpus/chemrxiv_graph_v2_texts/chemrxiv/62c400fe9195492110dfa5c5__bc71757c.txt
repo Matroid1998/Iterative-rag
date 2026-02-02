@@ -1,0 +1,12 @@
+Description:
+Used in carbon-supported form for H2 oxidation in anodic reactions, functioning as a reference electrode.
+
+Text:
+In addition, electrochemical reactions of gaseous substances can be conducted and nonpolar 
+solvents can be used. The catalyst layers are composed of noble metals, carbon black, and an 
+ionomer. They have a highly porous structure to provide an effective triplephase boundary for 
+efficient electrochemical reactions. In addition, reactions are conducted in a flow operation. The anodic reaction in a PEM reactor is not problematic in principle as long as it is a proton
+supplying reaction. In this situation, if H2 oxidation at carbonsupported Pt is selected as the anodic 
+reaction, the anode also functions as a reference electrode because its potential is approximately 
+the same as that of the reversible hydrogen electrode (RHE).68 Therefore, in this case, the cathodic 
+reaction can occur under potentiostatic conditions.

@@ -1,0 +1,49 @@
+Description:
+An element that combines with metals to form oxides, contributing to their properties.
+
+Text:
+The origin of this problem is that the adsorp
+tion energies of the catalytic intermediates in this fourstep
+reaction are related by the scaling relations, prohibiting the
+independent tuning necessary to make the reaction run at
+the thermodynamic potential.2,3 For applications in proton
+exchange membrane fuel cells, IrO2 and RuO2 are currently
+some of the best candidates for the anode catalyst mate
+rial, exhibiting reasonably high activity and stability.47
+However, due to the cost and scarcity of Ir and Ru, eorts
+to increase the activity relative to the amount of precious
+metal employed are continuing alongside eorts to replace
+these materials with cheaper and more abundant alterna
+tives.811
+Highentropy oxides (HEOs) are oxides consisting of ve
+or more metals in addition to oxygen.12 Since the rst char
+acterisation of a HEO in 2015,13 these materials have been
+investigated for their distinct thermal, magnetic and electro
+chemical properties,1417 and furthermore inspired the de
+velopment of other multicomponent ceramic materials.18
+Thermodynamically, HEOs are analogous to highentropy
+alloys (HEAs) in that the congurational entropy, arising
+from the many possible arrangements of the dierent ele
+ments, plays an important role in the thermodynamic sta
+bility of the materials.19 The large combinatorial space of
+a multinary phase diagram also suggests that properties of
+interest can be precisely tuned.
+
+
+---
+
+Description:
+Involved in the oxygen evolution reaction.
+
+Text:
+Within catalysis, this has
+been demonstrated for HEAs, where the large number of
+dierent atomic environments results in a distribution of
+binding energies of the catalytic intermediates, with some
+sites thereby reaching the maximum activity according to
+the Sabatier principle.20 The catalytic properties of HEOs
+are less studied,21 and the transferability of this principle
+is therefore yet to be explored. Here we outline a strategy for the theoretical investiga
+tion of HEOs as catalysts for the oxygen evolution reaction. Inspired by the high catalytic activity of IrO2 and RuO2,
+the (110) surface of a rutile oxide based on Ir, Ru, Ti, Os
+and Rh is chosen as example.

@@ -1,0 +1,13 @@
+Description:
+Perform comparably to IrO2RuO2 in the oxygen evolution reaction (OER) in neutral-alkaline solutions.
+
+Text:
+Transition metal phosphates (TMPs) have been gaining interest as materials for catalysis, 
+electrocatalysis and electrochemistry due to their lowcost, stability, and tunability 14. For 
+instance, it has been reported that the performance of iron, nickel, and cobalt phosphates in 
+the oxygen evolution reaction (OER) in neutralalkaline solutions is comparable to IrO2RuO2. Ni and NixCo1x phosphates demonstrate excellent supercapacitor characteristics 5, 6, zirconium 
+and vanadium phosphates are used in organic catalysis, and silver phosphate in photocatalysis 
+79. The chemical stability of TMPs over a wide range of temperatures makes them ideal 
+candidates e.g. for fuel cell applications (optimal Trange for many fuel cells 150C  T  350C 
+10 ) and electrolysis 1114. Typically, TMPs are synthesized by precipitation from solution, hydrothermal methods, 
+molten salt, microwave, or mechanochemical syntheses 1520.

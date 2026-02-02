@@ -1,0 +1,14 @@
+Description:
+A heavy metal ion that greatly reduces fluorescence intensity upon complexation.
+
+Text:
+Fluorescence material based sensing of metal ions offers numerous benefits over more traditional 
+systems, such as detection sensitivity,1 fast response times2 and ease of measurement.3 The 
+fluorescence sensing of metal ions typically relies on heavy atom effects in which complexation 
+of heavy metal ions such as Hg(II), Pb(II) greatly reduces fluorescence intensity as compared to 
+the free ligand or complexes of relatively light metal ions such as Ca(II) or Zn(II).4,5 Due to high 
+sensitivity and versatility, fluorescent organic dyes have been researched as fluorescent 
+chemosensors for sensing of heavy metals.69 However, chemosensory systems for heavy metal 
+ion detection consist of combined fluorophores and macrocyclic molecules10,11 such as azacrown 
+ethers or sulfur containing receptors.7,12 Thus, the complexity of the synthesis andor resulting low 
+water solubility can be limiting factors.

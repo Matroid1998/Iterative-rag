@@ -1,0 +1,13 @@
+Description:
+A substrate that is oxidatively inserted into metal-metal bonds in hydrogenases.
+
+Text:
+For example, in hydrogenases, reduction of the cofactor places electrons into a MM bond 
+(M  Fe, M  Fe or Ni) that enables it to oxidatively insert the H2 substrate.9 In the FeMoco 
+of molybdenumdependent nitrogenase, the close metalmetal distances have fuelled 
+
+speculation that MM bonds could store electrons during the catalytic reduction of 
+nitrogen.10,11 However, for iron systems (nitrogenases and others), there are typically bridging 
+ligands, the effects of which are difficult to deconvolute from the MM interaction itself. Complexes featuring an unsupported FeFe bond can give more direct insight into metalmetal 
+bonding, but they are rare and typically feature lowspin Fe0I centers stabilized by acidic 
+carbonyl ligands, for example the Fe2(CO)82 dianion (Figure 1; A).1216

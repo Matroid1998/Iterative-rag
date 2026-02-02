@@ -1,0 +1,45 @@
+Description:
+Residues whose redox state modulates p53 DNA binding activity and specificity.
+
+Text:
+710 Approximately 50 of human tumours carries 
+a mutation in TP53, from which 90 are missense mutations in 
+the DBDencoding sequence.11 A consequence of mutations is 
+the impairment of the structure or the p53DNA binding activity 
+andor specificity.4 The p53 function is strictly regulated in the cell 
+by a variety of cellular and molecular mechanisms, such as post
+translational modifications or longrange interactions between 
+p53 domains.1214 In addition to these regulatory controls, p53 
+must be exquisitely sensitive and selective to various cellular 
+environments.1416 One particular aspect that has gained 
+attention is how the redox state of the cysteine residues 
+modulates the p53DNA binding activity and specificity.1722 
+Several research groups reported that DNAmediated charge 
+transport by ultraviolet radiation promotes oxidative dissociation 
+of p53 from DNA repairassociated Gadd45 RE in an electron
+based mechanism involving a cysteine (Cys) oxidation (Cys277) 
+and disulfide formation.1718 Interestingly, p53 remained bound to 
+the cell cycle regulating p21 RE under similar experimental 
+conditions revealing a geneselective transcription to provide a 
+concise biological response.
+
+
+---
+
+Description:
+Contains reactive residues that are profiled in the study of H2O2-induced molecular mechanisms.
+
+Text:
+Uberti et al., concluded that following 
+H2O2 insult, oligodendroglialike cells express p21 protein in a 
+p53independent manner.20 Controversially, a recent report 
+shows the accumulation of p21 protein level upon H2O2 exposure 
+in RPETert cells.22 Using CRISPRCASP9derived RPETert p53 KO 
+cells, p21 was not expressed, suggesting an induced p53
+dependent mechanism. Herein, we performed native MS and ion 
+mobility (IM)MS studies on p53 in the absence and presence of 
+p21 RE and profiled reactive cysteine residues to finally examined 
+the H2O2induced molecular mechanism on the tetrameric DNA
+p53 complex. Results and Discussion 
+Mapping the conformational landscape of p53 on 
+DNA binding

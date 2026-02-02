@@ -1,0 +1,77 @@
+Description:
+A diverse family of biological molecules synthesized by plants and microorganisms, providing a chemical space for renewable fuels.
+
+Text:
+Terpenes and their derivatives are a diverse 
+family of biological molecules that provide a rich 
+chemical space for finding renewable fuels with 
+superior properties. Plants and microorganisms 
+synthesize terpenes by combining units of isoprene 
+(2methyl1,3butadiene). Products made from one 
+isoprene (hemiterpenes; C5) are suitable as gasoline 
+alternatives, while products from two isoprenes 
+(monoterpenes; 
+C10) 
+and 
+three 
+isoprenes 
+(sesquiterpenes; C15) can replace jet fuels and 
+diesel fuels. Proposals for largescale production of 
+terpenes include harvesting them from agricultural 
+crops or from microorganisms growing in 
+bioreactors 13. The compartmentalized nature of 
+terpene biosynthesis provides opportunity to 
+genetically engineer favored organisms such as 
+Eucalyptus or E. coli to make any desired terpene, 
+and to metabolically engineer yields that are beyond 
+the natural baseline 4, 5.
+
+
+---
+
+Description:
+Compounds with high energy densities due to their branched structure and ability to form rings.
+
+Text:
+The branched structure of 
+isoprene causes most terpenes to have methyl side 
+chains, which promotes favorable coldweather 
+properties such as low melting points 6. The bio
+synthesis process readily produces rings, including 
+strained rings with carbon numbers as low as three, 
+which gives terpenes high energy densities 6, 7. The biosynthesis process can also functionalize the 
+terpenes by adding hydroxyl groups, carbonyls, 
+ether bridges, etc. (These molecules are often 
+termed terpenoids, but we will include them with 
+terpenes.) For some applications, especially current 
+aviation engines, oxygen and double bonds are not 
+acceptable since they compromise energy density 
+and storage stability; therefore terpenes must be 
+hydrogenated to saturated hydrocarbons before they 
+can be used as fuels 6.
+
+
+---
+
+Description:
+Compounds that were custom synthesized for studying sooting tendencies in aviation fuels.
+
+Text:
+Sooting tendencies 
+were measured with a yieldbased approach we 
+developed recently 18, which offers several 
+benefits compared to other approaches such as 
+smoke point (SP) (1) it requires much smaller 
+sample volumes, 100 L vs 10 mL 19; (2) it has 
+a much wider dynamic range; and (3) the flames can 
+be computationally simulated to test kinetic 
+mechanisms and develop insight into the soot 
+formation chemistry 20. The first benefit was 
+critical to this study since the hydrogenated terpenes 
+had to be custom synthesized. However, since SP is 
+used as the sooting tendency metric in the ASTM 
+standards for petroleumderived aviation fuels 19 
+and synthetic aviation fuels 21, we derived a 
+correlation between YSI and SP, and used it to 
+estimate derived smoke points (DSP) for the 
+terpenes.

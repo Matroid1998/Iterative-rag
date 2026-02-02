@@ -1,0 +1,28 @@
+Description:
+Materials with a crystal structure used in photovoltaics for their stability.
+
+Text:
+In the last few years there has been a growing interest around layered or socalled two
+dimensional (2D) metal halide perovskites (MHPs) for their superior moisture and air stability, 
+thanks to which they found application in photovoltaics to design 2D3D solar cells 
+architectures.1 The most investigated families of 2D perovskites are the RuddlesdenPopper 
+(RP) and DionJacobson (DJ) phases of general formula A2An1MnX3n1 and AAn1MnX3n1, 
+respectively, where A and A are organic cations, and n represents the number of staggered 
+inorganic layers made of metal M and halide X atoms.2 Leadbased members with n1 of the 
+RP family, i.e.
+
+
+---
+
+Description:
+Contain linear monoammonium cations and have been explored for their crystal structure and phase transitions.
+
+Text:
+A2PbX4, have been thoroughly studied thanks to the extremely rich variety of 
+organic spacers which can be incorporated into the layered structure giving origin to an 
+impressive modulation of their optical, structural and moistureresistance properties.2,3 2D RP 
+perovskites containing linear monoammonium cations of general formula (CnH2n1NH3)2PbX4, 
+have been among the first to be explored, even before the advent of MHPs photovoltaics.49 
+These early studies mostly focused on the elucidation of the crystal structure as a function of 
+the number of carbon atoms in the aliphatic chain as well as on the understanding of the phase 
+transitions commonly found in these compounds.

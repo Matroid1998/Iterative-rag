@@ -1,0 +1,18 @@
+Description:
+A component of the nucleotide binding domain (nbd) in FtsZ.
+
+Text:
+According to crystallographic, mutational and other studies 
+2, 3 , FtsZ 
+contains two main bindingcavities for known ligands, the interdomain cleft (idc) 
+and the nucleotide binding domain (nbd). The nbd binds GTPGDP, and 
+participates in FtsZ folding and GTP phosphate hydrolysis
+4 . FtsZ switches from 
+a closedrelaxed conformation in monomers to an opentense conformation in 
+filaments 
+5 . Suggested by crystallographic observations
+6 ,7 , the FtsZ transitions 
+were confirmed by several studies
+3, 79 . At each dimerization step, a new interface 
+is generated including the cocatalytic loop from one of the monomers and the 
+complementary GTPcontaining nbd from other monomer.

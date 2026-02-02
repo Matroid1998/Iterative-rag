@@ -1,0 +1,35 @@
+Description:
+A product of the oxidative splitting of water in the oxygen evolution reaction (OER).
+
+Text:
+In recent years, the electrochemical conversion of CO2 into highervalue products has been 
+introduced as a promising and technologically feasible approach for mitigating the negative 
+climatic impact of the steadily increasing levels of atmospheric CO2.13 The CO2 reduction 
+reaction (CO2RR) may become not only economically feasible but also truly sustainable if the 
+surplus of renewable energy originating from solar radiation, wind power, and hydroelectric 
+sources is used as energy input to drive the highly endergonic and kinetically hindered CO2 
+conversion. The overall electrolysis reaction relies on an oxidative splitting of water (i.e., oxygen 
+evolution reaction, OER) through 
+O2  4e 4H 2H2O (acidic) Eq. 1 
+or 
+O2  2H2O  4e4OH (alkaline) Eq. 2 
+which is coupled to the reductive conversion of CO2 (denoted hereafter CO2RR).
+
+
+---
+
+Description:
+The only product that forms on the anode side in aqueous reaction environments.
+
+Text:
+In aqueous 
+reaction environments, oxygen (O2) is the only product that forms on the anode side regardless of 
+the anode material used. However, a variety of CO2RR products can be produced on the cathode, 
+including but not limited to carbon monoxide (CO),49 saturated4, 1012 and nonsaturated 
+hydrocarbons,11, 1317 and, alcohols with various chain lengths and energy densities (e.g., 
+methanol,12, 1820 ethanol,16, 2123 and npropanol24). Formate is another commodity chemical of 
+high value.2526 As recently noted by Chen et al.,26 it is the liquid nature of the formateformic 
+acid product that enables the downstream product separation following primary electrolysis to be 
+conducted with less effort, thus enhancing the profitability of the overall production process. Existing and potential future applications of formateformic acid concern formic acid fuel 
+
+3

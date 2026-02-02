@@ -1,0 +1,9 @@
+Description:
+A greenhouse gas.
+
+Text:
+The Coulomb matrix is a square and symmetric matrix with size equal to the number of atoms in the 
+molecule, squared. It represents electronic interactions of the atoms of a molecule with themselves and 
+each other. Diagonal elements represent a polynomial fit of atomic energies to nuclear charge, hence, 
+they represent the fitted atomic energies of the atoms. Offdiagonal elements represent Coulomb 
+repulsion between atoms. Figure 1 displays a CM representation of carbon dioxide, a greenhouse gas. 2

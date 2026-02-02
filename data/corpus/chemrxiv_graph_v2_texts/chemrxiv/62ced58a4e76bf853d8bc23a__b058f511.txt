@@ -1,0 +1,26 @@
+Description:
+Used as a p-dopant source for grown InP(001) epilayer.
+
+Text:
+EXPERIMENTAL DETAILS
+Homoepitaxial
+InP
+(001)
+was
+grown
+on
+ptype
+InP (001) (Zn doped, 2 2.3  1018 cm3 with 2 miscut
+toward  111  direction) in a horizontalflow metalor
+ganic vapor phase epitaxy (MOVPE) reactor (Aixtron,
+AIX200) modified to enable a contaminationfree trans
+fer to UHV using H2 as carrier gas. Tertbutylphospine
+(TBP) and trimethylindium (TMIn) were used as precur
+sors. Diethylzinc (DEZn) was used as a pdopant source
+for grown InP(001) epilayer. Molar flow of DEZn was ad
+justed to ensure a carrier concentration of 2  1018 cm3
+in the InP(001) epilayer, which was finally confirmed
+by electrochemical capacitance voltage profiling. The
+growth was monitored by reflection anisotropy spec
+troscopy (RAS) which allows the specific preparation of
+the Prich surface (see 9, 10 for details).

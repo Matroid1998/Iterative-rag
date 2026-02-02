@@ -1,0 +1,17 @@
+Description:
+A compound that precipitates from the dissolution of sulfur into the electrolyte during cycling.
+
+Text:
+The primary challenges faced by LiS technology include the insulating nature of 
+43 
+elemental sulfur (electrical conductivity of 1  1030 S m1 at room temperature) which reduces the 
+44 
+practical sulfur loading and utilisation achievable due to the need for nonactive conductive 
+45 
+additives 2. While cathodes can be manufactured with an idealised morphology, the dissolution 
+46 
+of sulfur into the electrolyte and precipitation of Li2S 1,3, and the subsequent reversal of this 
+47 
+process, manifest in significant alterations of the cathode morphology of the electrode during 
+48 
+cycling 4.

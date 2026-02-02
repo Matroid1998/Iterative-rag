@@ -1,0 +1,13 @@
+Description:
+A critical element with limited availability, important in battery technologies.
+
+Text:
+The growing reliance on renewable energy and the increasing demands of grid storage, electric 
+vehicles, and portable electronics necessitates the development of battery technologies 
+beyond lithiumion batteries (LIBs). Although LIBs offer excellent performance, the limited 
+availability of certain critical elements, such as Co and Li 1, has led to an increased focus on 
+alternative types of batteries, which could offer longerlasting and more sustainable supply 
+chains. One possible alternative is the fluorideion battery (FIB) 2, which uses fluoride ions (F) 
+as the ionic charge carrier instead of Li. Although investigations of fluorideion conductors have been performed for many years 3, 
+serious consideration of FIB technology only began to emerge after the recent proofofconcept 
+demonstration by Reddy and Fichtner 2a.

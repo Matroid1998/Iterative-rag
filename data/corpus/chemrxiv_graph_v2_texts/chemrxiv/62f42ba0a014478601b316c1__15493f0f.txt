@@ -1,0 +1,11 @@
+Description:
+A coating generated on the Zn anode in phosphate buffered solution.
+
+Text:
+When the batteries operate in phosphate
+buffered solution, commonly employed to study physiological environments, the exposed Zn anode is 
+shown to generate a zinc phosphate overcoating. This coating, however, does not impede the realization 
+of high energy densities. We show that the batteries are able to switch on memristors and power actuators 
+of similar sizes, demonstrating potential applicability to cellsized autonomous robots. With linear 
+dimensions ranging from 10 to 100 m, they represent the first class of fullcell batteries capable of 
+providing electricity to picolitersized machines.

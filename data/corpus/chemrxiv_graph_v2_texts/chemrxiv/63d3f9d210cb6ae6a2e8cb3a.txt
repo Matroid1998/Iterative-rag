@@ -1,0 +1,11 @@
+Description:
+A substrate for carbonic anhydrases, which catalyze its reversible hydration with water to form bicarbonate and a proton.
+
+Text:
+The carbonic anhydrases (CA) are a family of ubiquitous zinc enzymes which play a catalytic role in the 
+reversible hydration of carbon dioxide (CO2) and water (H2O) to bicarbonate (HCO3) and a proton. (Supuran, 
+2008) In humans, the carbonic anhydrase enzymes have 15 isoforms that vary by localization and catalytic 
+activity including; the cytosolic CAs; CA I, CA II, CA III, CA VII, CA XIII; the membranebound CAs; CA IV, CA 
+IX, CA XII, CA XIV, CA XV (not present in primates, only in rodents and other animalsfish); CA VA and CA VB 
+are mitochondrial, and CA VI is secreted in saliva and colostrum. In addition, three catalytically inactive forms of 
+CA are known (CA VIII, CA X, and CA XI) referred to as CA relatedproteins.

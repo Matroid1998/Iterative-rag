@@ -1,0 +1,18 @@
+Description:
+Used in CO2 capture processes involving heating and pressurization.
+
+Text:
+Mitigation of anthropogenic CO2 accumulation is essential to tackle the current climate change 
+and loss of biodiversity.1 Large scale global efforts are ongoing to develop CO2 conversion 
+technologies for green fuel production.2 Solardriven CO2 conversion is a promising approach to 
+produce clean fuels and chemicals as it directly utilizes sunlight as the sole energy input.35 
+However, current CO2 utilization processes depend on pure and pressurized CO2 as reactant, 
+whose production from postcombustion emission streams and air is energy intensive (2 GJ 
+tonCO21 or 100 kJ molCO21).6,7 Majority of this energy demand (80) is from desorption and 
+compression steps following CO2 capture, involving heating large volumes of alkanolamine 
+solutions and subsequent pressurization of the released gas (Figure 1a).8,9 Direct solardriven 
+utilization of captured CO2 species is therefore a more attractive way to reach netzero carbon 
+cycle, but barely explored due to their thermodynamic stability.10,11,12,13 Thermocatalytic 
+hydrogenation of captured CO2 has recently been reported at elevated temperatures (100150 
+C).1416 Electrochemical reduction of alkanolamine captured CO2 can also be achieved over 
+metallic electrodes (Ag, Cu, etc.)

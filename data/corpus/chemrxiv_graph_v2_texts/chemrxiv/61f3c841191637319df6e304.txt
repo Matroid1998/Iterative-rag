@@ -1,0 +1,29 @@
+Description:
+A compound involved in the dehalogenation process catalyzed by halohydrin dehalogenases.
+
+Text:
+Halohydrin dehalogenases (HHDHs) (E.C. 4.5.1.) are bacterial lyases belonging to the superfamily of 
+shortchain dehydrogenasesreductases. While their natural function is the dehalogenation of vicinal 
+haloalcohols with concomittant epoxide formation,1 they are also able to catalyze the reverse 
+reaction, i.e. epoxidering opening, with a range of different nucleophiles enabling formation of CC, 
+CN, CO and CS bonds.2 This has made HHDHs attractive for application in biocatalysis and various 
+examples, e.g.
+
+
+---
+
+Description:
+Substrates for halohydrin dehalogenases identified in sequence databases.
+
+Text:
+for the synthesis of enantioenriched oxazolidinones, tertiary alcohols, epihalohydrines 
+or spiroepoxyoxindoles, using HHDHcatalysis have been reported in literature.36 
+Using a database mining approach based on HHDHspecific sequence motifs,7 a large number of new 
+halohydrin dehalogenases have been identified in public sequence databases in recent years1 and 
+several new members have been characterized as well.8 While most HHDHs display similar substrate 
+scopes, HheG from Ilumatobacter coccineus also accepts sterically more demanding cyclic epoxides as 
+well as acyclic nonterminal epoxide substrates.9,10 Additionally, HheG displays regioselectivity in 
+the ringopening of different styrene oxide derivates,11 whereas other HHDHs exclusively attack the 
+carbon of the epoxide ring. Solving the crystal structure of HheG9 revealed a much broader active 
+site for this enzyme compared to other HHDHs,1215 which explains the acceptance of bulkier 
+substrates.

@@ -1,0 +1,52 @@
+Description:
+Forms the backbone of nitrogen-doped materials used as catalysts for oxygen reduction.
+
+Text:
+In light of the burgeoning availability of low cost solar electricity, a particularly timely 
+challenge is the generation of materials that competently catalyze fuelforming small molecule 
+transformations which enable the storage of electricity as chemical energy.16 This chemical 
+energy subsequently requires a corresponding set of materials to catalyze the conversion of this 
+chemical energy back into electricity in a device known as a fuel cell.79 One of these reactions, 
+the reduction of oxygen to water, is essential to proton exchange membrane fuel cell 
+technologies, but significant research efforts are still required to make these technologies a 
+reality.10 Platinum remains the bestinclass catalyst for O2 reduction, but its relatively high cost 
+and low abundance are prohibitive to widespread adoption.10 In its place, various firstrow 
+transition metal and metalfree alternatives have been considered.1113 
+Among these alternative catalyst paradigms, nitrogendoped carbon materials stand out as 
+durable, lowcost, highactivity and highefficiency catalysts for oxygen reduction.14,15 These 
+structures come in various forms, including nitrogendoped fullerenes, carbon nanotubes, and 
+graphene.16,17 Regardless of type, though, these materials are intrinsically heterogeneous, 
+featuring mixtures of pyridinelike, pyrrolelike and graphiticquaternary nitrogen sites.18 This has 
+complicated the study of active sites in these catalysts, rendering the rational iteration and 
+improvement of these materials more difficult.
+
+
+---
+
+Description:
+Forms bonds with O2 in nitrogen-doped graphite conjugated catalysts.
+
+Text:
+To address this gap, the development of 
+designer nitrogendoped materials with welldefined active sites has been pursued by multiple 
+groups.19,20 
+These studies support the critical conclusion that carbons adjacent to pyridinic moieties are 
+responsible for the oxygen reduction activity in these catalysts but raised further questions 
+about the source of this activity. In the case of a previous study by Ricke et al. which focused on 
+one particular nitrogendoped graphite conjugated catalyst (NGCC), there was only a single 
+carbon atom in the catalyst that would form a bond with O2.19 This activity could not be solely a 
+result of the pyridinic nitrogen acting as an orthopara activator to the aromatic system, as the 
+alternate carbon ortho to the pyridinic nitrogen would not bind O2.
+
+
+---
+
+Description:
+Active carbon with significant accumulation of spin density, indicating stable electron donation to O2.
+
+Text:
+This study noted that the 
+active carbon had a significant accumulation of spin density, which the authors interpreted as 
+indicating this site could most stably donate electron density to O2 during bond formation. In this work, we build on this understanding to choose a set of structural and electronic features 
+which we hypothesize could predict oxygen binding and ORR activity in nitrogendoped carbon 
+materials.

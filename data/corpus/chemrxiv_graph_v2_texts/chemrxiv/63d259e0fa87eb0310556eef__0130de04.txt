@@ -1,0 +1,14 @@
+Description:
+Battery technology with increasing performance but prone to degradative mechanisms.
+
+Text:
+Decarbonisation of the automotive industry has highlighted battery technologies as a viable suc
+cessor to petroleumbased travel. With increasing performance of stateoftheart Liion battery
+materials comes a tendency to initiate degradative mechanisms more rapidly than acceptable
+for commercially viable products. Even with the greatest gravimetric and volumetric density,
+promising transition metal (TM) oxide cathode materials can suer from limited cycle life, high
+cost, and reduced performance. NMC (Li1Ni1xy Mnx CoyO2) based Liion batteries have
+emerged as the most promising successor to LiCoO2 chemistry and could potentially facilitate
+ubiquitous adoption of Liion in mobile and transport devices.1 High specic capacities, high
+rate capability, and longterm cycling abilities are driving extensive research into these cathode
+materials, forcing a greater nickel content with each iteration.

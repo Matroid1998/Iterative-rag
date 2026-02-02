@@ -1,0 +1,20 @@
+Description:
+Argyrodite solid electrolyte used in energy storage.
+
+Text:
+Al
+loying is extensively used to optimize functional properties of
+materials for photovoltaics (e.g., CdSexTe1x,2 CsSnxPb1xI3 hy
+brid perovskites3), energy storage (e.g., Li6PS5xSexBr argyrodite
+solid electrolytes4), ferroelectrics (e.g., ScxAl1xN5), and ther
+moelectrics (e.g., PbSexTe1x 6) etc. Unlike ordered and stoichiometric compounds, alloys represent
+a continuous compositional space and structural disorder adds to
+the complexity. Designing alloys to optimize functional proper
+ties in this continuous chemical space while also accounting for
+the effects of structural disorder is a formidable task. Empiri
+cal approaches have been quite successful for alloy design, es
+pecially highthroughput combinatorial thin lm synthesis tech
+aUniversity of Illinois at UrbanaChampaign, Urbana, IL 61801.
+bUniversity of
+Delaware, Newark, DE 19716.
+cColorado School of Mines, Golden, CO 80401.

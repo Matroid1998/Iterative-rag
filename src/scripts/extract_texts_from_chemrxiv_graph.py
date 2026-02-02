@@ -18,8 +18,8 @@ Behavior (as requested):
 
 Usage:
   python scripts/extract_texts_from_chemrxiv_graph.py \
-    --json docs/chemrxiv_graph_v2.json \
-    --out docs/chemrxiv_graph_v2_texts
+    --json data/corpus/chemrxiv_graph_v2.json \
+    --out data/corpus/chemrxiv_graph_v2_texts
 
 Notes:
 - Default JSON and output locations can be overridden via CLI flags.
@@ -206,12 +206,12 @@ def main(argv: List[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="Extract texts from chemrxiv graph JSON.")
     parser.add_argument(
         "--json",
-        default=os.path.join("docs", "chemrxiv_graph_v2.json"),
+        default=os.path.join("data", "corpus", "chemrxiv_graph_v2.json"),
         help="Path to chemrxiv_graph_v2.json",
     )
     parser.add_argument(
         "--out",
-        default=os.path.join("docs", "chemrxiv_graph_v2_texts"),
+        default=os.path.join("data", "corpus", "chemrxiv_graph_v2_texts"),
         help="Output directory for extracted .txt files",
     )
     parser.add_argument(

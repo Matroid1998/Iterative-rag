@@ -1,0 +1,18 @@
+Description:
+A 2D semiconductor attractive for photoelectrochemical solar energy conversion and photocatalysis applications due to its ability to facilitate interfacial charge transfer reactions.
+
+Text:
+2D semiconductors such as monolayer (ML)MoS2 are 
+attractive for photoelectrochemical solar energy conversion 
+and photocatalysis applications because hot carriers (electrons 
+and holes) produced from light absorption may immediately 
+participate in interfacial charge transfer reactions. Atomically
+thin electrodes could enable interfacial charge transfer of hot 
+carriers that outcompetes charge carrier cooling,1 which 
+represents a promising strategy to maximize solar energy 
+conversion efficiency.2,3 Very recently, Austin et al. showed 
+ultrafast (50 fs) hot exciton and free carrier extraction under 
+applied bias in a proofofconcept photoelectrochemical solar 
+cell.4 The exciting possibility of maximizing the energy 
+conversion efficiency of this hot carrier process requires tuning 
+the electron transfer kinetics.

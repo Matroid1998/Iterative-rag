@@ -1,0 +1,20 @@
+Description:
+A piezoelectric material with large responses, based on lead zirconate titanate.
+
+Text:
+Piezoelectric materials allow for the interconversion between
+mechanical and electrical energy and find applications in di
+verse areas including as sensors, actuator, and high precision
+motors. Current stateofthe art piezoelectric materials are
+based on inorganic ceramics such as lead zirconate titanate
+(PbZr1xTixO3, PZT) with large piezoelectric responses.13
+However, these materials are brittle, require high processing
+temperatures, and may contain toxic and environmentally haz
+ardous lead, which impose challenges for flexible and bio
+compatible technologies. In the last decade, hybrid organicinorganic materials have
+shown promising applications as, e.g., photovoltaics4,5 and
+light emitting diodes,6 and more recently, high performance
+hybrid organicinorganic ferroelectric and piezoelectric ma
+terials have been reported.712 These materials are flexible,
+solutionprocessable, and can be made from nontoxic and en
+vironmentally friendly chemistries.

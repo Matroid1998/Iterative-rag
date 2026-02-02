@@ -1,0 +1,40 @@
+Description:
+A reactive group likely involved in toxicological effects.
+
+Text:
+Only a few LCMS 
+68 
+based methods allow to determine and accurately quantify this potent toxin, after having isolated the 
+69 
+compound from fungal cultures (Liu and Rychlik, 2015; Puntscher et al., 2019a; Puntscher et al., 2018; 
+70 
+Zwickel et al., 2016). While genotoxic and mutagenic effects of AOH described in vitro (Brugger et al., 
+71 
+2006) were linked to topoisomerase I and II poisoning (Fehr et al., 2009), the mechanism of action 
+72 
+related to ATXII has not been elucidated so far. The reactive epoxide of ATXII is likely to be involved 
+73 
+in toxicological effects. However, even altertoxin I (ATXI, Fig. 1), structurally the same scaffold but 
+74 
+lacking the epoxide, was reported to be mutagenic to a certain extent in vitro (Schrader et al., 2006).
+
+
+---
+
+Description:
+Reduced to an alcohol in several cell lines.
+
+Text:
+75 
+While ATXII did not show estrogenic effects in Ishikawa cells (Dellafiora et al., 2018), chemical 
+76 
+degradation of the compound was suggested in the presence of the anthocyanin delphinidin 
+77 
+(Aichinger et al., 2018). In several cell lines (Caco2, HCT 116, HepG2 and V79), it has been reported 
+78 
+that the epoxide of ATXII was reduced to an alcohol resulting in ATXI, which seemed not to be further 
+79 
+metabolized in Caco2 cells (Fleck et al., 2014a; Fleck et al., 2014b). 80 
+In this study, we investigated the fate of ATXII in intact and homogenized tomato fruits during food 
+81 
+processing steps at a laboratory scale.

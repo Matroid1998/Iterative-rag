@@ -1,0 +1,92 @@
+Description:
+A compound that needs to be reduced to below 1 ppmv in the C2 product stream by selective hydrogenation to ethylene.
+
+Text:
+Ethylene is one of the most important bulk platform chemicals with 
+an annual global production of 214 million tons in 2021.1 The 
+industrially established primary production method is steam 
+cracking of hydrocarbon feedstock, followed by separation and 
+purification.23 In the C2 product stream after the deethanizer 
+column it is necessary to reduce the acetylene content down to 
+below 1 ppmv on the industrial scale by selective hydrogenation 
+to ethylene.34 Such an acetylene removal unit (ARU) can be 
+integrated directly after the deethanizer, where the C2cut 
+contains excess hydrogen and methane (frontend) or after the 
+subsequent demethanizer (tailend).2, 56 Currently the tailend 
+process is more commonly applied as reaction control is more 
+convenient due to control of the hydrogenacetylene ratio.
+
+
+---
+
+Description:
+Conversion is increased with excess hydrogen in frontend integration.
+
+Text:
+The 
+high hydrogen fraction under frontend conditions can decrease 
+the ethylene selectivity and increase the risk of hot spot formation 
+or even reactor runaway and thus, renders the process control 
+more challenging.23, 5, 711 With a suitable catalyst and safe 
+operations, the excess amount of hydrogen in the frontend 
+integration is advantageous because then a higher conversion of 
+acetylene as well as the suppression of oligo and polymeric by
+products (green oil  C4 hydrocarbons) can be achieved.23, 5, 7
+11 Additionally, this reduces catalyst deactivation and results in a 
+longer catalyst lifetime.23, 5, 711 Furthermore, with the frontend 
+method the removal and subsequent addition of hydrogen 
+becomes obsolete because the hydrogen produced during steam 
+cracking is used within a more efficient process integration.2, 5, 12 
+For both process options the stateoftheart catalysts are 
+palladiumsilver nanoparticles supported on alumina pellets.4, 8 
+However, due to the importance of the reaction, there has been a 
+lot of research with focus on enhancing catalytic properties for 
+palladium catalysts or even developing new catalysts.2, 4, 11 Here 
+metalorganic frameworks (MOFs) with their chemical versatility, 
+high surface area and pore size variability, offer the possibility of 
+directing selectivity and enhance the activity of the selective 
+acetylene hydrogenation.1315 Recent studies on this reaction 
+with specially designed MOFs for the separation of acetylene1621 
+and MOFs as catalysts, e.g.
+
+
+---
+
+Description:
+A compound involved in hydrogenation studies.
+
+Text:
+with open FeIII sites,22 show 
+promising results. Research on palladium catalysts supported on 
+MOF structures has also been in the focus with Pd supported on 
+MOF523, PdUiO6724, PdMil5325 or PdZIFL26. To the 
+best of our knowledge, no studies on acetylene hydrogenation 
+with favourable Pd2 nodes as part of a MOF itself have been 
+reported, yet.
+
+
+---
+
+Description:
+A compound subjected to selective catalytic hydrogenation by Pd(2pymo)2n under industrial conditions.
+
+Text:
+Pd(2pymo)2n (2pymo  2pyrimidinolate) is the 
+only currently known MOF using these kind of nodes and was first 
+reported by Navarro et al.27 Its catalytic performance has already 
+been studied on the olefin hydrogenation of 1octene and 
+cyclodecene,2830 the oxidation of alcohols,3133 for the Suzuki
+Miyaura 
+crosscoupling 
+reaction 
+of 
+arenediazonium 
+tetrafluoroborate salts with arylboronic acids34 and for 
+phenylacetylene semihydrogenation in water.18 The reported 
+data show promising results especially for the selective catalytic 
+hydrogenation but also the possibility of the reduction of Pd2 to 
+Pd0 under reductive conditions, resulting in the collapse of the 
+structure.2829 In this work, we explore the outstanding 
+performance of the Pd(2pymo)2n MOF for the selective catalytic 
+hydrogenation of acetylene under industrially relevant reaction 
+conditions.

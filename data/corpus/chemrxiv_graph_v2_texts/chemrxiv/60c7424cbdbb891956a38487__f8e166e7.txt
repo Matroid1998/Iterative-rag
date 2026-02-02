@@ -1,0 +1,18 @@
+Description:
+Transported through cell membranes via ion channels.
+
+Text:
+31 
+Ion channels are an extremely important class of proteins; channels of various types are present in all 
+32 
+cells, allowing the transport of Na, K, and Ca2 through the cell membrane(1); other channels are 
+33 
+responsible for transport of other substances, in particular protons(2, 3). Channels have even been 
+34 
+found in viruses(4, 5). Voltage gated ion channels (VGIC) are a particular class of channels, and certain 
+35 
+types of these are responsible for the nerve impulse, as well as the properties of other excitable tissue(6
+36 
+8). VGIC, both for Na and K, have four voltage sensing domains (VSD); for the K channels, these 
+37 
+are identical, while for Na they are similar (one having a different function).

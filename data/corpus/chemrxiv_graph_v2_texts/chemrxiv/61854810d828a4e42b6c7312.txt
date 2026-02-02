@@ -1,0 +1,76 @@
+Description:
+A metal with extremely high theoretical capacity (3,860 mAh g1) and low reduction potential (3.05 V vs. SHE) used in solid-state batteries.
+
+Text:
+Solidstate batteries (SSBs) are at the forefront of nextgeneration energy storage technologies 
+as they offer improved specific energy, energy density, and safety13. In particular, the use of 
+lithium metal anodes in SSBs has attracted significant attention due to the opportunity to achieve 
+specific energies greater than 350 Wh kg1 4,5. It is believed that the use of a solidstate electrolyte 
+(SSE) can mitigate the effects of dendritic deposition and inactive lithium formation that plague 
+lithium metal anodes in liquid electrolytes6,7, thereby safely taking advantage of the extremely high 
+theoretical capacity (3,860 mAh g1) and low reduction potential (3.05 V vs. SHE) of lithium. A key challenge in the development of lithium metalbased SSBs is to achieve uniform lithium 
+deposition at LiSSE interfaces810.
+
+
+---
+
+Description:
+A metal that penetrates through a variety of solid-state electrolyte materials during deposition, leading to short circuits.
+
+Text:
+While SSEs were originally theorized to mechanically resist 
+dendrite or filament formation11, it has been shown that lithium metal penetrates through a wide 
+variety of SSE materials during deposition, which results in catastrophic short circuits1217. This 
+behavior is more prominent at high current densities, where electrodeposition becomes 
+increasingly nonuniform and filamentary. Although the exact mechanisms behind lithium 
+penetration are not entirely understood and depend on the properties of the SSE, recent work has 
+suggested that lithium penetration is primarily driven by fracture of the SSE and subsequent 
+deposition of lithium into cracks1821. Furthermore, a variety of studies has shown that unstable 
+lithium deposition is affected by surface defects, grain boundaries, microstructural 
+inhomogeneities, electronic conductivity, and other factors12,16,1924.
+
+
+---
+
+Description:
+Deposition is affected by surface defects, grain boundaries, microstructural inhomogeneities, and electronic conductivity.
+
+Text:
+While SSEs were originally theorized to mechanically resist 
+dendrite or filament formation11, it has been shown that lithium metal penetrates through a wide 
+variety of SSE materials during deposition, which results in catastrophic short circuits1217. This 
+behavior is more prominent at high current densities, where electrodeposition becomes 
+increasingly nonuniform and filamentary. Although the exact mechanisms behind lithium 
+penetration are not entirely understood and depend on the properties of the SSE, recent work has 
+suggested that lithium penetration is primarily driven by fracture of the SSE and subsequent 
+deposition of lithium into cracks1821. Furthermore, a variety of studies has shown that unstable 
+lithium deposition is affected by surface defects, grain boundaries, microstructural 
+inhomogeneities, electronic conductivity, and other factors12,16,1924.
+
+
+---
+
+Description:
+Plays a major role in destabilizing deposition at LiSSE interfaces and can penetrate through SSE to form a short circuit when local current densities are high.
+
+Text:
+Recent studies have also demonstrated that stripping at LiSSE interfaces plays a major role in 
+destabilizing subsequent lithium deposition2529. Stripping current densities that exceed the rate 
+at which lithium can be replenished at the interface via deformation andor selfdiffusion lead to 
+contact loss through the formation of interfacial voids. Contact loss causes higher current 
+densities at the interface, and current constriction at the edges of interfacial voids further 
+increases local current densities10,25. When plating occurs after contact loss, these higher local 
+current densities increase the likelihood that lithium will penetrate through the SSE to form a short 
+circuit. Efforts toward reducing the prevalence of lithium penetration and short circuiting in lithium metal 
+SSBs have primarily emphasized the importance of platingstripping rates in dictating cell stability.
+
+
+---
+
+Description:
+A metal whose plating and stripping behaviors are influenced by current densities.
+
+Text:
+It has been widely reported that sufficiently high plating current densities drive lithium penetration, 
+and that stripping current densities exceeding the lithium replenishment rate destabilize 
+subsequent plating. However, this prevailing focus on current density has overshadowed another

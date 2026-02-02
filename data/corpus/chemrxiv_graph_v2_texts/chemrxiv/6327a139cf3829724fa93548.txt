@@ -1,0 +1,16 @@
+Description:
+Absorbs at 780 nm and features an emission tail beyond 900 nm for SWIR FL imaging.
+
+Text:
+It is note
+worthy, a FL molecule does not need to absorb incident 
+light in this window to generate a SWIR signal. For ex
+ample, the abs for indocyanine green (ICG) is 780 nm 
+but features an emission tail beyond 900 nm that can 
+be used for SWIR FL imaging.3 Similarly, most conven
+tional PA imaging agents maximally absorb NIR light. However, in this spectral range, dyes must contend 
+with PAactive pigments such as haemoglobin, 
+resulting in higher background signals.4 In both in
+stances, the application of SWIR excitation can lead to 
+enhanced tissue penetration, higher signaltoback
+ground ratios, and greater sensitivity.

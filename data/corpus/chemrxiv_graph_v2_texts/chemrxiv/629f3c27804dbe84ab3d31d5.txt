@@ -1,0 +1,12 @@
+Description:
+Formed by the combination of two hydrogen atoms, often in the context of catalytic processes.
+
+Text:
+VolmerTafel mechanism Platinum, as a wellknown catalyst for HER, is thought to follow the this 
+process2, which requires the combination of two MHads species. The observed bond length of the 
+hydrogen molecule is just 0.74,3 but the distance between two neighbouring atoms in pure platinum 
+(cubic, space group Fm3m) is 2.774.4 This demonstrates that the distance between nearby platinum 
+atoms is 3.74 times the length of the hydrogen bond, and that extra energy is required for atomic 
+hydrogen transfer across a long distance. In the VolmerHeyrovsky mechanism, the MHads is formed 
+during the first Volmer stage, there is no obvious and persuasive procedure to explain adsorbing 
+another H atom from water to form a H2 molecule.

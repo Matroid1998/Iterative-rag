@@ -1,0 +1,14 @@
+Description:
+Metal catalysts used in hydrogen evolution chemistry.
+
+Text:
+Furthermore, the photocatalytic properties of GQDs are enhanced upon coordination of a metal 
+catalyst, such as cobaloximes for hydrogen evolution chemistry.11 Unlike GQDs, application of 
+GNRs remains relatively unexplored, yet these compounds show great potential in photocatalysis 
+since their absorption profiles cover much of the visible light region, making them efficient solar 
+light absorbers. In addition to their excellent light harvesting, GNRs exhibit high charge carrier 
+mobilities12 which are expected to enable efficient delivery of charge carriers to the oxidation 
+and reduction catalytic sites for photocatalysis. Recent developments in bottomup nanocarbon synthesis methods have enabled the preparation 
+of welldefined nanocarbons with tunable size, shape, and functional groups.13,14 These methods 
+often start with the synthesis of soluble polyphenylene precursors using DielsAlder 
+additiondecarbonylation,15 SuzukiMiyaura16, or Yamamoto17 coupling reactions.

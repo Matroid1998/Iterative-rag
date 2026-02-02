@@ -1,0 +1,13 @@
+Description:
+An anion coordinated to iron in halogenases, essential for halogenation reactivity.
+
+Text:
+Hydroxylases bind iron via a 2 His1 Carboxyl (AspGlu) 
+facial triad analogous to halogenases except that in halogenases the carboxyl ligand is replaced 
+by a nonpolar Ala or Gly residue.1,4 This amino acid substitution in halogenases enables the 
+steric and electrostatic accommodation of an iron coordinated halide anion that is essential for 
+halogenation reactivity.5 Both hydroxylases and halogenases have been suggested to operate via 
+a similar catalytic mechanism (Fig S1).6,7 Once 2OG, iron, and substrate are bound to the 
+enzyme, a conformational change is triggered that facilitates molecular oxygen binding to the 
+iron center. Next, oxidative decarboxylation of the 2OG cosubstrate results in the cleavage of 
+oxygens OO bond and the formation of a highvalent ferryl intermediate (FeIVO).

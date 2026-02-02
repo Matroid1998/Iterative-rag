@@ -1,0 +1,43 @@
+Description:
+A propionic acid derivative used to treat inflammation and pain, characterized by poor water solubility.
+
+Text:
+Naproxen is a propionic acid derivative that is commonly used overthecounter (OTC) to treat inflammation and pain. NSAIDs such as naproxen are nonselective inhibitors of the cyclooxygenase1 (COX1) and cyclooxygenase2 (COX2)
+enzymes. These enzymes produce the prostaglandins responsible for pain, inflammation, and fever5. Naproxen is
+characterized by its poor water solubility, and is sold commercially as the sodium salt form in order to increase the
+absorption rate. In recent times, polymeric conjugated drugs have emerged to improve the bioavailability of drugs while
+reducing adverse effects. Standard polymeric prodrugs are created using a polymer carrier to which a drug is covalently
+bound to. Such conjugated drugs exist as a method for modifying pharmacokinetic and biodistribution properties of
+compounds6.
+
+
+---
+
+Description:
+A molecular drug used in the preparation of NaproxenPEG ester.
+
+Text:
+Using a polymeric conjugation method to increase overall stability can decrease the required dosage of a
+drug, reducing the potential toxicity and adverse effects of a drug, increasing the therapeutic efficacy. For such conjugation
+procedure polyethylene glycol (PEG) was chosen due to its watersoluble and nontoxic behavior as well as the increased
+potential for bioavailability7. Naproxen was selected as the molecular drug which was covalently linked to PEG for
+preparing NaproxenPEG ester via Steglich Esterification. Additionally, chromatographic and spectrophotometric
+evaluation of drug release from naproxenPEG conjugate in various media demonstrate the capacity for extended
+pharmacological effect, due to a greater release profile. 2. Experimental Methods
+2.1. Materials And Methods
+All materials were obtained from Sigma Aldrich, except the OTC forms of acetaminophen and ibuprofen.
+
+
+---
+
+Description:
+A pharmaceutical compound used in commercially available tablets.
+
+Text:
+These were
+obtained in the commercially available pharmaceutical grade. Commercial acetaminophen (1.00 g), ibuprofen (1.00 g), and naproxen (1.00 g) tablets were dissolved in dimethyl
+formamide using a 25 mL volumetric flask, respectively. The same process was repeated with a 1.00g sample of
+naproxenPEG conjugate that was dissolved in dimethyl formamide. A TLC chamber was prepared with 10 ethyl acetate
+(vv) in hexanes with a paper towel blotter. This was allowed to equilibrate while the TLC plates were prepared. A sample
+of each was taken with a capillary tube, and was spotted onto each of 3 silica TLC plates (silica gel 60 matrix, Millipore
+Sigma). Two beakers with watch glass covers were prepared with 5 and 10 ethyl acetate in hexanes.

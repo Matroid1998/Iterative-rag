@@ -1,0 +1,22 @@
+Description:
+Used in high power continuous wave lasers for cutting, welding, drilling, and surface treatment.
+
+Text:
+Currently, CO2 lasers, emitting infrared radiation at a wavelength of 10.6 m, are the highest power continuous wave lasers available. With their high efficiency they are commonly used in laser cutting, welding, drilling and surface treatment20. But they are also used in 
+applications for processing of components for microfluidic systems. A novel laser through cutting and pattern transfer process was 
+introduced for rapidly prototyping polydimethylsiloxane (PDMS) microfluidic structures without a replication template using a CO2 
+laser that significantly decreases the time and amount of equipment and consumables needed for microchannel processing21.
+
+
+---
+
+Description:
+Used in laser cutters for patterning and modifying materials in microfluidics.
+
+Text:
+Using 
+laser cutting for quickly transferring a pattern drawn in a computer aided design (CAD) program to a plastic film or PDMS slab for 
+microfluidics, sometimes known as xurography, has risen in popularity as CO2 laser cutters have become more affordable and easier to 
+use22. Based on this technology a microfluidic sensor which was used to evaluate the biomass of the MRC5 fibroblast cells grown in 
+the microfluidic bioreactor was recently presented23. In addition to traditional PDMS channels, CO2 lasers have also been used for 
+patterning paperbased microfluidic systems and modifying the surface properties of the paper24,25.

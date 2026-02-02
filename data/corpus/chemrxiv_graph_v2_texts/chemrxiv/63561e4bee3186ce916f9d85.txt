@@ -1,0 +1,25 @@
+Description:
+Monomers known for trends in propagation rate coefficient (kp) with ester side chain length.
+
+Text:
+Yet, no unifying 
+approach exists to date that correlates the structure of a 
+monomer with its rate of propagation, and therefore no 
+meaningful prediction of kinetic data can be made. Within 
+specific 
+families 
+of 
+monomers, 
+most 
+notably 
+the 
+(meth)acrylates, some trends are known.5 For example, the  
+on first glance counterintuitive  increase of the propagation 
+rate coefficient (kp) with the length of the ester side chain. Yet, 
+already smaller differences in structure such as branching vs 
+linear ester chains are not captured in the literature.6 The 
+traditional way to predict kp is to use high level abinitio 
+quantum chemical calculation.7 While by themselves highly 
+interesting, these calculations have for some monomers 
+confirmed experimental values, but they struggle to make 
+absolute predictions.

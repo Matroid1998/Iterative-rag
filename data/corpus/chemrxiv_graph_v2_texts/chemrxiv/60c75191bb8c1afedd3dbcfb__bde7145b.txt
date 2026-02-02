@@ -1,0 +1,11 @@
+Description:
+A group 13 nitride semiconductor with a direct and wide bandgap of 3.4 eV.
+
+Text:
+Gallium nitride (GaN) is a group 13Nitride semiconductor of high importance to 
+modern electronic devices due to its optical and electronic properties. GaN has a direct and 
+wide bandgap of 3.4 eV, a high breakdown field of 5 MV cm1, high electron mobility 
+(theoretical limit 3200 cm2Vs), high electron saturation velocity (theoretical limit 
+3.15107 cms), and high thermal stability (melting point of 2500 C).12 These properties 
+make GaN important for high power and highfrequency electronics and optoelectronics. The fabrication of any electronic device requires the deposition of the material as a thin 
+film.

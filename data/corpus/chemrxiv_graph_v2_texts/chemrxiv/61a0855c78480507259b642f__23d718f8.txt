@@ -1,0 +1,20 @@
+Description:
+Attractive materials for photo(electro)catalytic applications due to sustainability, low cost, and nontoxicity.
+
+Text:
+In terms of sustainability, low cost and nontoxicity, one of the most 
+attractive materials for photo(electro)catalytic applications are polymeric carbon nitrides (CNx).6,7 
+Carbon nitrides are readily available, tunable and chemically robust polymers,8 that have been widely 
+utilized in a variety of lightdriven chemical processes such as hydrogen evolution,912 CO2 
+reduction,13,14 selective chemical syntheses,1518 or organic pollutants degradation.19,20 However, 
+the studies demonstrating visible lightdriven water oxidation to dioxygen using CNxbased 
+photoelectrocatalytic systems are still rather rare.21,22 This is, on the one hand, due to the notoriously 
+slow kinetics of the oxygen evolution reaction (OER),23 which typically results in accumulation of 
+oxidizing equivalents that translates in enhanced photocorrosion of CNx.24 On the other hand, the 
+very fabrication of mechanically robust CNxbased photoelectrodes is challenging,25,26 in particular 
+due to the poor adhesion of CNx to conductive substrates,2730 and the very low conductivity of CNx 
+films, hindering efficient charge transport to the external circuit.31 
+In our own work, we have been developing a distinct type of hybrid CNxbased photoanodes in which 
+a thin layer of CNx is deposited onto a porous TiO2 layer that acts as an electroncollecting scaffold, 
+overcoming thus at the same time both the problems of low adhesion and low electronic conductivity 
+of CNx.

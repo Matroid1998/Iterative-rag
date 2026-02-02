@@ -1,0 +1,14 @@
+Description:
+A perovskite material considered state-of-the-art in the design of new ferroelectric materials due to its desirable properties and tunability.
+
+Text:
+Discovery and development of new ferroelectric materials is 
+important for the realisation of new memory storage 
+technology, such as FERAM in flexible devices, soft robotics and 
+wearable electronics. Perovskites, such as BaTiO3, have long 
+been considered stateoftheart in design of new FE materials 
+owing to desirable properties and tunability of their 
+composition.1 Perovskites adopt the general formula ABX3, 
+where a larger Asite cation occupies the cavities within a 
+pseudocubic cornersharing network of BX6 octahedra. Substitutions on any of the three sites has been shown to result 
+in remarkable changes in FE properties.

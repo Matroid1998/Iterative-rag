@@ -1,0 +1,13 @@
+Description:
+A gas considered for storage in advanced nanoporous materials for vehicular applications.
+
+Text:
+Newer
+classes of nanoporous materials, such as metalorganic frameworks (MOFs) 11, porous organic
+cages (POCs) 12, and covalent organic frameworks (COFs) 13, exhibit very high internal surface
+areas 14, 15 and have demonstrated promise for gas densication in the context of vehicular hy
+drogen and methane storage 16, motivating us to consider these advanced nanoporous materials
+for adsorbed xenon propellant storage. Moreover, several of these nanoporous materials exhibit a
+high anity for xenon, evidenced by their adsorptive selectivity for xenon in the context of separa
+tions 1720. Here, we develop a simple mathematical model of an adsorbed xenon propellant storage system
+that enables us to evaluate and rank adsorbents for adsorbed xenon propellant storage.

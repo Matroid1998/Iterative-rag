@@ -1,0 +1,9 @@
+Description:
+Employed extensively to finetune the emission wavelength in light emitting devices, maximize absorptive efficiency in tandem solar cells, and optimize responsivity in photodetectors.
+
+Text:
+In the case of leadhalide perovskites, halide mixing can tune the 
+bandgap across several hundreds of nanometers across the visible range.34 Mixedhalide 
+perovskites have been employed extensively to finetune the emission wavelength in light emitting 
+devices,35,36 to maximize the absorptive efficiency in tandem solar cells,37,38 and to optimize the 
+responsivity (R) in photodetectors.9,11,19,21,31

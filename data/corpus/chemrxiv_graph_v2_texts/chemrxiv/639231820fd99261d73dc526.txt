@@ -1,0 +1,15 @@
+Description:
+A key contributor to macroscopic properties such as melting point through hydrogen bonding.
+
+Text:
+However, melting data is not
+readily available for all the quinones and hydroquinones of interest, so having a model that
+predicts the melting points of quinone and hydroquinone molecules is highly desirable.22
+Various approaches are employed to predict organic compound melting points.2325 Many
+models employ group contribution methods (GCMs).26,27 These are additive methods that
+sum the contributions from all of the functional groups within a molecule. However, these
+methods do not account for intermolecular interactions between functional groups on dier
+ent molecules.28 Treating molecules as isolated species neglects eects such as Van der Waals
+(VdW) and hydrogen bonding, which are key contributors to macroscopic properties such
+as melting point. Karthikeyan et al.29 recognized this in their machinelearning (ML) based
+approach to predicting melting points of organic chemicals.

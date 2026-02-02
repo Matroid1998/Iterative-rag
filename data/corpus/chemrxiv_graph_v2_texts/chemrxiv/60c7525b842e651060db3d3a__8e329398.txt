@@ -1,0 +1,12 @@
+Description:
+Photosynthetic cofactor in photosystems I and II with nearly C2 symmetric spatial arrangement.
+
+Text:
+Reaction centers (RCs) of photosystems I and II (commonly referred to as PSI and PSII)
+share many structural similarities 1, 2. They both are formed by two protein subunits
+and associated photosynthetic cofactors. The latter have nearlyC2 symmetric spacial
+arrangements and, in the case of PSII, include (but are not limited to) the pairs of i) inner
+chlorophyll a (Chl a) cofactors, ii) accessory Chl a pigments, iii) pheophytin a (Phe a)
+molecules, and iv) plastoquinones. The rst three pairs are labeled as PDn, ChlDn, and
+PheDn, where Dn is the protein subunit they belong to, i.e., D1 or D2. The plastoquinones
+are often denoted as QA and QB.

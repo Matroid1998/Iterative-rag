@@ -1,0 +1,24 @@
+Description:
+Identified as a major decomposition product.
+
+Text:
+N2O, NO2, CH2O, NO, HCN, CO2,
+CO, and H2O were identified as the major decomposition products. The combustion characteristics of RDX crystal
+were studied by Yan et al. 7 with optical diagnosis methods. The reactions of NO and HCN (the products from
+RDX decomposition) dominate the heat release in the flame, which are further converted to N2, H2O, and CO in
+the downstream flame. Although many efforts are made to understand the thermal decomposition of RDX, the
+overall chemical mechanism during thermolysis remains obscure due to the ultrafast and complex reactions
+involved, which can hardly be captured in experiments. The quantum mechanics (QM) approach is employed in the investigations of the thermal decomposition of
+RDX molecules, especially for the initial decomposition reaction of single RDX molecule.
+
+
+---
+
+Description:
+A gas produced during the decomposition of RDX.
+
+Text:
+In this mechanism, RDX gradually decomposes into N2O, NO2, NO, HCN, CH2O, CO, CO2, H2O, and other
+small gasphase products. Recently, Zhang et al.11 proposed a kinetic model for RDX decomposition. They
+claimed that the NNO2 homolysis to form RDR radical is the dominant decomposition pathway of RDX, which
+subsequently undergoes CH scission and ringopening reaction. Although the accurate DFT calculations reveal

@@ -1,0 +1,14 @@
+Description:
+A molecule investigated for its binding modes in adsorbents using solid-state NMR spectroscopy.
+
+Text:
+The increasingly complex adsorbent 
+materials under consideration bring major challenges in the characterisation of new carbon 
+capture chemistry, hindering the design of improved materials.4 Existing characterisation 
+tools for understanding CO2 capture modes include singlecrystal diffraction,1113 powder 
+diffraction,14 infrared spectroscopy,6,10,15 Xray absorption spectroscopy,16 and NMR 
+spectroscopy,8,1720 each of which has strengths and limitations in terms of the materials that 
+can be studied and the information that can be obtained. Solidstate NMR spectroscopy is a 
+promising tool for investigating CO2 binding modes in adsorbents as there is no requirement 
+for longrange ordering and detailed information about the local structure and dynamics of the 
+CO2 can be obtained.

@@ -1,0 +1,15 @@
+Description:
+A dye that binds to the minor grooves of double-stranded DNA and emits fluorescence in the bound state with an intensity 1000 times greater than its unbound state.
+
+Text:
+However, it involves a sophisticated sequence of thermal steps and 
+precise temperature control.2,3 These requirements of PCR have spurred the advancement of 
+various isothermal amplification techniques such as loopmediated isothermal amplification 
+(LAMP), recombinase polymerase amplification (RPA), and rolling circle amplification (RCA).4 
+Currently, the quantification of NAATs is usually done using a fluorescent DNA binding dye or 
+sequencespecific probe technique.5 7 The dye (e.g. SYBR green) binds to the minor grooves of 
+doublestranded DNA only and emits fluorescence in the bound state with an intensity of  1000 
+folds compared to its unbound states.8 The intensity of the fluorescence is proportional to the 
+amplified product.5 In the probebased technique, an amplicon sequencecomplementary 
+nucleic acid probe carrying 
+is utilized.

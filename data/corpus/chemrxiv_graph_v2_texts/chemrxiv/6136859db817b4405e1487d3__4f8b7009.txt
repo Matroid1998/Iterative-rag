@@ -1,0 +1,16 @@
+Description:
+Does not exhibit inverted bands at the Lpoint of the Brillouin zone.
+
+Text:
+The partial contributions of atomic orbitals
+to each band suggest that SnTe, SnSe, SnS, GeSe, and GeS in the
+rocksalt phase have inverted bands at the Lpoint of the Brillouin
+zone, while PbTe, PbSe, PbS, and GeTe do not, in agreement with
+previous studies.26,27
+All compounds with normal band ordering exhibit a single car
+rier pocket at the Lpoint for both the conduction and valence
+bands, whereas the shapes of the band edges are more diverse
+for compounds with inverted bands. For example, while SnTe ex
+hibits a single carrier pocket for the conduction and valence bands
+centered at each Lpoint (Figure 1a), each halfpocket breaks into
+three full carrier pockets that are offset from the Lplane (i.e.

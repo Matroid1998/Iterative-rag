@@ -1,0 +1,28 @@
+Description:
+Involved in n transitions that can be shifted towards the visible range when local vibrational fluctuations distort the amide plane and elongate the carbonyl bond distance.
+
+Text:
+52
+So far, the current observations indicate that nonaromatic fluorescence is pre
+53
+ceded by a nearvisible absorption associated to two alternative electronic transi
+54
+tions (i) the n transitions localized in the carbonyl bonds, which can be shifted
+55
+towards the visible range when local vibrational fluctuations distort the amide plane
+56
+and elongate the carbonyl bond (CO) distance,14 and (ii) charge transfer transi
+57
+tions followed by charge recombination have been also identified as a possible source
+58
+for the UVvis absorption.15, 16 In addition, the role of hydrogen bonds (HBs)
+59
+between CO and peptide NH groups causing electron delocalization and enabling
+60
+lower transition energies as well as higher radiative relaxation efficiency, was first
+61
+suggested17, 18 and confirmed later on.19, 7, 12
+62
+The fate of nonaromatic molecules on excited states and how they can possibly
+63
+get trapped leading to emission of visible light, remains an open challenge.

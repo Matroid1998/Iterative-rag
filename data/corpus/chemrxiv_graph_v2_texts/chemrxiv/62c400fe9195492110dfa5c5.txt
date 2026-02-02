@@ -1,0 +1,8 @@
+Description:
+Adsorbed as atomic H onto the anode during oxidation.
+
+Text:
+Thus, when the anodic reaction is H2 oxidation, 
+H2 is adsorbed as atomic H onto the anode (carbonsupported Pt) and the atomic H is subsequently 
+converted into H and e. The generated H and e are transferred to the cathode (carbonsupported 
+metal, Pd in the present study) through the PEM and an external circuit, respectively, and are

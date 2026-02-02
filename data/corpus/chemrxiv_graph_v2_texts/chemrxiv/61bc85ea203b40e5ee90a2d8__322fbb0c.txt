@@ -1,0 +1,13 @@
+Description:
+A compound with 1H and 2H tautomers identifiable using Linear Free Energy Relationships and pKa values.
+
+Text:
+In the present study we have 
+shown for the first time without using expensive and timeconsuming methods like 1H NMR, 
+13C NMR and dipole meters, a simple novel protocol is just handy to identify the 1H and 2H 
+tautomers of tetrazole hitherto not reported earlier with the use of Linear Free Energy 
+Relationships (LFER) knowing experimentally determined pKa values 2 and DFTB3LYP 
+method at the 631G level calculated dipole moments 3. And mimicking of principle of 
+structurefunction study on a chemical and a physical property for the first time is observed. Methods 
+All the linear correlations were done using the KaleidaGraph software, Reading, PA, 
+USA. The chemical structures are drawn using chemdraw.

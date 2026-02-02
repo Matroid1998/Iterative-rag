@@ -1,0 +1,18 @@
+Description:
+A neutral reagent used to differentiate isomeric drug metabolites.
+
+Text:
+This approach is limited by the fact that iso
+meric ions often generate identical fragmentation patterns, 
+making identification via CAD mass spectra unreliable.4,7 To 
+address this issue, a MSMS approach based on diagnostic, 
+reliable and predictable gasphase ionmolecule reactions has 
+been developed.711 This approach can be used to identify spe
+cific functional groups or their combinations in separated and 
+ionized mixture components to thereby facilitate the differen
+tiation of isomeric ions, usually without the need for reference 
+compounds. One of the neutral reagents used previously to differentiate 
+two isomeric drug metabolites is 2methoxypropene (MOP).7 
+In these experiments, protonation of the analyte was achieved 
+through atmospheric pressure chemical ionization (APCI) in a 
+linear quadrupole ion trap (LQIT) mass spectrometer.

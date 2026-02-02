@@ -1,0 +1,8 @@
+Description:
+Demonstrated for extraction of structural information using XPS.
+
+Text:
+Although this extraction of structural information from XPS has so far been 
+demonstrated only for TiO2 and FeOx, these examples show that quantitative information can 
+be obtained from the VB region, by fitting the spectrum with empirically derived models. Far 
+greater potential, however, lies in the possibility of fitting with a simulated spectrum, derived

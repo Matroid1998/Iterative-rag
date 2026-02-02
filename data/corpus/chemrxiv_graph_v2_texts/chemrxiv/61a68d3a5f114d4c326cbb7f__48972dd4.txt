@@ -1,0 +1,29 @@
+Description:
+Typically produced via the 2e reduction of O2.
+
+Text:
+Hydrogen peroxide (H2O2) is an environmentally benign oxidant with diverse industrial 
+applications, including paperbleaching, wastewater treatment and chemical manufacturing. While conventionally produced via the anthraquinone process, there is a growing push to 
+generate H2O2 through electrochemical means.1 Doing so would circumvent the necessity of 
+using H2 and volatile H2O2 mixtures, as well as issues with catalyst recyclability. Further, 
+electrochemical H2O2 synthesis would enable a decentralization of its production, given the 
+relative simplicity of the equipment necessary for this. Typically, H2O2 (or HO2 in basic 
+solutions) is produced via the 2e reduction of O2, a process that is in competition with the 
+thermodynamically easier 4e reduction pathway to H2O.
+
+
+---
+
+Description:
+Synthesized using metal-organic structures in electrochemical systems.
+
+Text:
+An emerging class of materials beginning to find unique uses in electrochemical systems is 
+organicinorganic hybris systems such as metalorganic frameworks (MOFs), covalentorganic 
+frameworks (COFs) and their derivatives.5 A particular advantage that they hold is their 
+molecularly welldefined catalytic sites and modular structure that could enable the extraction of 
+discreet structureactivity relationships. As such, only few metalorganic structures have been 
+applied for H2O2 synthesis.6 In this work, we build on these previous studies and study the 
+effects of linker identity on Nibased metalorganic nanosheets (MONs). We construct MONs 
+using terephthalic acid and several derivatives and characterize the resulting materials physical 
+and electronic structure with an array of techniques (Fig. 1).

@@ -1,0 +1,27 @@
+Description:
+Can be electrochemically reduced into a variety of products including hydrocarbons, alcohols, carbon monoxide, and formate.
+
+Text:
+The use of CO2 as a carbon feedstock will be an important component of a sustainable postfossilfuel future. CO2 can be electrochemically reduced into variety of products including hydrocarbons, alcohols, carbon 
+monoxide (CO) and formate (HCOO). Recent technoeconomic analyses suggest that twoelectron reduction 
+of CO2 into C1 products (i.e., HCOO and CO) presents the best route to economic feasibility in the near future.1
+4 CO and HCOO are essential feedstock used in various industrial applications ranging from chemical synthesis 
+(FisherTropsch) to energy conversion (e.g., fuel cells) through existing and emerging technologies.59 The 
+realization of electrochemical synthesis of these important molecules at large scale will require catalysts with 
+high activity and selectivity to the desired products, exceptional stability, sufficient Earthabundance, and broad 
+availability.
+
+
+---
+
+Description:
+A compound involved in electroreduction processes to produce various chemicals.
+
+Text:
+New discoveries of improved catalysts, guided by a detailed understanding of structureactivity 
+relationships, are needed in order to progress toward these targets. The selectivity of CO2 electroreduction (CO2ER) is strongly dependent on the nature of the catalyst. Among the 
+single metals which show CO2ER activity10, In and Sn are mainly HCOO producers, while Cu shows a unique 
+ability to reduce CO2 into a wide range of products including C1 compounds (CO, HCOO and CH4) and C2 
+hydrocarbons (C2H4, C2H5OH, and others), typically as an undesirable mixture. 6, 11 A variety of approaches, 
+including surface nanostructuring1214, and tuning the electronic structure by modifying with a second metal, 
+have been introduced to direct the selectivity of Cu towards a specific product.

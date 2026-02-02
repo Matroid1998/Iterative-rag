@@ -1,0 +1,25 @@
+Description:
+Forms reactive species in inflammatory processes to destroy microorganisms.
+
+Text:
+Cells use biomolecules to transmit information. This communication occurs in waves of 
+biomolecules from a transmitter cell through the extracellular space to other (receiver) cells. This type of signal transmission takes place in many biological situations such as the 
+communication of neurons1 via the release of neurotransmitters or in cells of the immune 
+system2, which form reactive oxygen and nitrogen species in inflammatory processes to 
+destroy microorganisms. The concentration of the released substances changes spatially and 
+temporally and is a biochemical fingerprint of the biological state.
+
+
+---
+
+Description:
+Reactive oxygen species are analytes detected using SWCNTs.
+
+Text:
+Thus, SWCNTs have already been used for several bioimaging 
+studies18,19 and the detection of numerous analytes such as reactive oxygen species20323, small 
+molecules like nitroaromatics24,25 or neurotransmitters26,27, proteins28330, sugars31, 
+enzymes32 or bacteria33. Due to their fluorescence in the nearinfrared (NIR, 850 3 1700 nm), 
+which shows no bleaching or blinking, they represent stable fluorophores, whose emission falls 
+within the biological transparency window34. Here, reduced scattering and autofluorescence 
+of biological samples allow for increased signaltonoise ratios (SNR) during detection35.

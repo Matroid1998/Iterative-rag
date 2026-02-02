@@ -1,0 +1,12 @@
+Description:
+A carbon-free fuel suitable for transportation, storage, and consumption.
+
+Text:
+Photoelectrochemical (PEC) water splitting is a promising technology for converting solar 
+photons to H2 fuel, which is carbonfree and suitable for transportation, storage, and 
+consumption. The PEC reactions for water splitting are driven by successive processes such as 
+light absorption, generation of electronhole pairs, separation of the generated charges and 
+charge transfer to the electrolyte. In order to address each of these aspects, as well as to prevent 
+(photo)chemical corrosion of the electrodes, the development of multilayered structures 
+consisting of various functional layers is generally required (e.g. lightabsorbing 
+semiconductors, selective contacts, protective layers, and catalysts).

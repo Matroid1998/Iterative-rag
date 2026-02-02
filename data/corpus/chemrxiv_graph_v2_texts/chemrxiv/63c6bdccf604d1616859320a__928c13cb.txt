@@ -1,0 +1,24 @@
+Description:
+A cation from Group VA used in pnictohalides for stable, low-toxicity absorbers.
+
+Text:
+Tin (Sn)based 
+perovskites, highly investigated for Pbfree solar cells, are not ideal for IPVs due to their 
+narrow bandgap and the known airinstability of Sn2 cation.3,4 Perovskiteinspired 
+pnictohalides employing cations from Group VA of the periodic table (e.g., antimony (III) 
+(Sb3) and bismuth (III) (Bi3)) have recently emerged as promising lowtoxicity and highly 
+stable absorbers for IPVs, owing to their bandgap of around 2 eV, which is nearly ideal for 
+indoor lightharvesting.5,6 However, so far only a small handful of IPV studies have been 
+reported5,7,8,9,10 with PCE(i) values already in the same range of commercially available 
+hydrogenated amorphous silicon (aSiH) devices,11,12 though still far from the maximum 
+theoretical PCE(i) of 5060.5,6 Indeed, all the reported PCE(i) values stagnate around 56 
+at 1000 lux white lightemitting diode (WLED) illumination, with the highest record being so 
+far 6.4.10 The reasons for such modest efficiencies lie in the low opencircuit voltage (VOC) 
+and shortcircuit current density (JSC) values, mainly due to poor charge carrier transport 
+resulting from abundant intrinsic defects and other typical recombination losses in this class of 
+materials, such as selftrapping.13,14 
+Despite being one of the most recently discovered pnictohalides, Cu2AgBiI6 (CABI) has 
+already gained an exceptional interest from the photovoltaic and optoelectronic community 
+owing to its direct bandgap, high absorption coefficient, low exciton binding energy, and the 
+desired band gap of  2 eV for IPVs.8,9,15,16,17,18 Several works have contributed to improving 
+CABI discontinuous morphology, consisting of smallsized grains and numerous cracks, by

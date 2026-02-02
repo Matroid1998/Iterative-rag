@@ -1,0 +1,12 @@
+Description:
+Synthesized on an automated synthesizer and purified using reversed-phase or ion-exchange HPLC.
+
+Text:
+Oligodeoxynucleotides (ODNs) synthesized on an automated synthesizer are 
+usually purified using reversedphase (RP) or ionexchange HPLC. Their purity is also 
+usually determined using HPLC. For both preparative and analytical HPLC, the elution 
+profile is mostly generated using a UVVis detector with the wavelength set to 260 nm. Quantities of ODNs are typically documented using optical density at 260 nm, which is 
+abbreviated as OD260. It is defined as the UV absorbance at 260 nm (A260) of the ODN to 
+be quantified dissolved in 1 mL of water with a light path of 1 centimetre. The value of 
+OD260 is usually determined separately after an ODN is purified by HPLC using an UV 
+spectrometer or other UV based apparatus such as a NanoDrop.

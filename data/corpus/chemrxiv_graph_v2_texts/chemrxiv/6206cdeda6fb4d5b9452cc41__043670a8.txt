@@ -1,0 +1,69 @@
+Description:
+Involved in the oxidation of graphitic nanoparticles, with etching rates peaking in the 1200-1500 K range.
+
+Text:
+This behavior was attributed to the 
+NPs initially having large, but highly variable numbers of under
+coordinated surface sites, and that preferential sublimation at such 
+sites reduces the numbers of such sites over time, reducing the 
+rates, and modifying the optical properties.4 
+We also reported a study of O2 oxidation of graphitic NPs.5 
+Etching rates peaked in the 1200  1500 K range, dropping at 
+higher TNP. Etching rates varied substantially from NPtoNP and 
+fluctuated over time for individual NPs. Both effects were 
+attributed to variations in the numbers of undercoordinated 
+reactive sites on the NP surfaces, which evolved as the NPs etched.
+
+
+---
+
+Description:
+An element that graphitic NPs become inert to in the 1200 to 1900 K range.
+
+Text:
+Surprisingly, it was also found that graphitic NPs eventually 
+evolved to be essentially inert to O2 in the 1200 to 1900 K range, 
+implying that the number of exposed reactive sites dropped to near 
+zero. It was speculated that his evolution to O2 inertness resulted 
+from a transformation of at least the surface layer, to nanoonion 
+(multiwall fullerene) structure. This interpretation of the previous results, as well as results 
+presented below, relies on extensive literature on oxidation of 
+various forms of carbon, particularly graphite, some of which is 
+discussed in the SI.
+
+
+---
+
+Description:
+Has near-zero reactivity towards perfect graphite basal planes in a certain temperature range.
+
+Text:
+Briefly, etching is O2 dissociative adsorption, 
+followed by COCO2 desorption, and the decrease at higher TNP has 
+been attributed to competition from Oatom desorption.910 Surface 
+chemistry studies have shown that perfect graphite basal planes 
+have nearzero reactivity towards O2 in this temperature range,1112 
+but etching is observed at sputterinduced basal plane defects1317 
+and at prismatic surfaces,18 which expose basal plane edges. For 
+example, Olander et al.11 observed etching at sputtered basal plane 
+defects from 1400  1500 K at O2 fluxes of 100 O2 
+collisionsecnm2, about 30 lower than our flux.
+
+
+---
+
+Description:
+Used in etching processes, particularly with graphite, where it affects etching rates.
+
+Text:
+Etching at 
+defects tends to expand the defects laterally, leading to 2D etch pit 
+formation.1317 For example, Edel et al.17 studied pit formation 
+during HOPG etching to peak at 1200  1400 K, using O2 fluxes of 
+0.1 O2 collisionssecnm2. It is interesting to note that the TNP 
+range where we observe the maximum etching rates is similar to 
+the range seen in the surface chemistry experiments, but also in 
+experiments with bulk graphite at much higher pressures. For 
+example, Wall et al.19 observed the steady state etching rates for 
+bulk graphite to peak between 1700  1900 K, and Rosner et al.20 
+observed peaks in the 1500 to 1750 K range, with O2 partial

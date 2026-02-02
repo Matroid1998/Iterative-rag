@@ -1,0 +1,10 @@
+Description:
+Exhibits near 100 Faradaic efficiency towards H2O2.
+
+Text:
+We show how subtle differences in 
+the Ni electronic structure conferred through changes in linker identity led to significant changes 
+in H2O2 selectivity, with the NiAmineMON exhibiting near 100 Faradaic efficiency (FE) 
+towards H2O2. Finally, we translate the catalyst from a conventional 3electrode setup to a gas
+diffusion electrode (GDE)  based reactor and attain industriallyrelevant H2O2 partial current 
+densities of 200 mAcm2 while keeping an 85 FE for H2O2.

@@ -1,0 +1,32 @@
+Description:
+A metal used in catalyzed transfer hydrogenative coupling of alkenes with aldehydes.
+
+Text:
+Transition metalcatalyzed reductive coupling reactions that avoid the need for pre
+generation of air and moisturesensitive organometallic reagents provide an attractive route to 
+highly functionalized synthetic intermediates.1 Notably, reductive couplings of unsaturated 
+compounds with aldehydes have demonstrated high efficiency for the construction of carbon
+carbon bonds in a number of contexts using alkynes,2 1,3dienes,3 or allenes (Scheme 1A).4 
+Couplings of alkenes with aldehydes, however, are more difficult, and methods are often restricted 
+to 
+intramolecular 
+versions,5 
+highly 
+activated 
+alkenes 
+such 
+as 
+norbornene6 
+and 
+
+methylenecyclopropane,7 or hydroacylations of styrenes.8 Advances using triethylsilyl triflate as 
+promoter enabled considerable improvements in olefin scope to include alkenes with aromatic 
+aldehydes and tertiary aliphatic aldehydes (Scheme 1B).9 More recently, cobalt and chromium 
+cocatalyzed branchselective coupling of alkenes with aldehydes through an alkyl chromium 
+intermediate further broadened the scope of substrate combinations tolerated.10 Additionally, iron
+catalyzed transfer hydrogenative coupling of alkenes with aromatic and aliphatic aldehydes11 and 
+Brnsted acid enabled nickelcatalyzed hydroalkenylation of styrene derivatives with unactivated 
+aldehydes provided further advances.12 Despite these developments, the majority of current 
+methods for aldehydealkene reductive coupling are restricted to aromatic aldehydes,13 and the 
+direct coupling reaction of abundantly available alkenes with unactivated aliphatic aldehydes still 
+presents challenges in many cases.

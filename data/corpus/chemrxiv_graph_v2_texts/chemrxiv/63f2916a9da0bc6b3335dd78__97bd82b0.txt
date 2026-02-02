@@ -1,0 +1,14 @@
+Description:
+Used as a catalyst in the oxygen reduction reaction for efficient electricity generation.
+
+Text:
+The oxygen reduction reaction (ORR) is the reduction of oxygen to water, which releases energy 
+that can be used to generate electricity.1 In terms of the efficiency of electricity generation, 
+electrochemical fuel cells containing an appropriate catalyst are more efficient than burning H2 
+and O2 to generate heat to run a turbine. The best catalysts for ORR contain platinum,1,2 and while 
+alternative materials have been considered,35 it has proven quite challenging to optimize the 
+efficiency of ORR electrocatalysts.6,7 
+In terms only of the efficiency of ORR, articulating the effect of this ideal electrocatalyst on the 
+catalytic cycle is easy, but rather difficult to actualize. The ideal electrocatalyst would harvest the 
+same amount of energy per electron transferred in each step of the overall electrochemical 
+reaction 4H!

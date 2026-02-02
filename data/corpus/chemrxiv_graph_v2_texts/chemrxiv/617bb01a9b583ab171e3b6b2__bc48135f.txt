@@ -1,0 +1,12 @@
+Description:
+Dianions formed selectively depending on reaction conditions and steric bulk of ligands.
+
+Text:
+Molecular lowvalent fblock complexes 
+based on U(III) and Ln(II) metal centers have shown very promising reactivity in the reductive coupling of 
+CO, which can be traced back to their highly reducing character and oxophilic nature.17 Detailed 
+experimental17df,17j and computational studies17f,18 have been performed by Cloke, Green, Maron and co
+workers in order to rationalize the CO reductive coupling reactivity by bulky U(III) sandwich complexes. Depending on the reaction conditions and steric bulk of the supporting ligands, selective formation of 
+oxocarbon dianions of the type ethynediolate (A), deltate (B) or squarate (C) was reported (Figure 1). DFT 
+calculations pointed to a zigzag intermediate complex featuring a bridging transbent C2O22 dianion 
+as a key intermediate in the formation of the different species.

@@ -1,0 +1,26 @@
+Description:
+Used as gate materials in ISFET devices for amino acid functionalization.
+
+Text:
+Since 1952, when Shockley invented FieldEffect 
+Transistors (FETs); there have been undergoing 
+many significant modifications to cater to the needs 
+of 
+sensing 
+applications. In 
+1970, 
+Bergveld 
+developed an ionsensitive FieldEffect Transistor 
+(ISFET) which is used for ion detection in a 
+chemical environment. With further development of 
+technology, novel functionalizations for ISFET 
+devices have been fabricated for protein and DNA 
+detection. Various simulations have been carried out 
+to further deepen the knowledge of the impact of 
+functionalizations on the performance parameters 
+1. In this paper, analytical simulations have been 
+carried out to effectively simulate the Gouy
+ChapmanStern model with the SiteBinding model 
+for different amino acid functionalized on various 
+types of gate oxides. Further, we plan on integrating 
+numerical TCAD simulations with this work. II.

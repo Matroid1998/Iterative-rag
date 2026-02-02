@@ -1,0 +1,11 @@
+Description:
+A substrate material used for depositing carbon nitride and SiCN films.
+
+Text:
+The material carbon nitride has been a research attraction for quite a long time. Different methodologies 
+have been used to deposit carbon nitride films with different bonding configurations. The plasma 
+enhanced chemical vapour deposition (PECVD) using N2C2H2 precursor gases produce hydrogenated 
+amorphous carbon nitride (aCHN) films which we have deposited on Si(100) substrates at 400oC 
+substrate temperature for 2 hrs with RF power of 600 W 1. SiCN in the form of nanocomposite thin 
+films were deposited on Si(100), glass as well as steel substrates at different conditions by the process of 
+magnetron sputtering using a SiC target.

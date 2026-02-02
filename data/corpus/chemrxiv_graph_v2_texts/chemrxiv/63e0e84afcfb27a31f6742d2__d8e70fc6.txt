@@ -1,0 +1,18 @@
+Description:
+Lamellar materials with strong covalent in-plane bonding and weak van der Waals interlayer interaction, relevant for electronics, optoelectronics, and catalysis.
+
+Text:
+Transition metal dichalcogenides (TMDCs) are lamellar materials with strong covalent inplane bonding and weak 
+van der Waals interlayer interaction, classifying them as van der Waals solids.1,2 Tunable bandgap, high carrier 
+mobility, and large surface area make these materials relevant for different applications in electronics,3 
+optoelectronics,4 and catalysis.5 In addition, because they can possess metastable crystal structures (octahedral 
+or distorted octahedral), they are candidates for a considerable number of applications, such as hydrogen 
+evolution reaction (HER) and electrode materials for sodium ion batteries.68 
+As a consequence of different bonding energies (strong inplane and weak interlayer bonding), isolation of single 
+monolayers is achievable, which creates a high surface area, induces quantum confinement and bandgap 
+transformation.9 This alluring feature results from a lack of symmetry due to the reduction in the size to a single 
+monolayer.10,11 Due to these unique properties and numerous potential applications of TMDCs monolayers, the 
+preparation of single layer materials and control of their size have attracted much attention.12,13 
+Different thin layer preparation techniques have been developed and applied over the years, such as exfoliation 
+techniques,14,15 substrate growth techniques,16,17 and colloidal synthesis.18 But so far, no studies have succeeded 
+in synthesizing sizecontrolled and welldispersed nanomonolayers.

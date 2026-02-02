@@ -1,0 +1,9 @@
+Description:
+A target atom for methylation by SAM MTases.
+
+Text:
+Sadenosyl methionine methyltransferases (SAM MTases) are a ubiquitous class of 
+enzymes. SAM MTases are observed in a wide range of organisms including bacteria, fungus, 
+plants, and humans.14 SAM MTases catalyze SN2 methylation, using SAM as a methyl donor. Their functions are involved in many essential life processes, including gene expression,57 protein 
+modification,810 neurotransmitter degradation,1113 and natural product synthesis.1416 SAM 
+MTases target various types of atoms, including carbon, nitrogen, oxygen and sulfur (Scheme 1).

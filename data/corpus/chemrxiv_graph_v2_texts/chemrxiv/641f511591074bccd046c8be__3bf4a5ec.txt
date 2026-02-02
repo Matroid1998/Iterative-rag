@@ -1,0 +1,16 @@
+Description:
+The sp3 hydrogenated version of graphene.
+
+Text:
+These materials include ionic liquids, polybenzimidazol, polysu
+fones, covalent organic frameworks, coordination polymers, and metal organic
+frameworks 621. Despite their promise, these membranes face practical chal
+lenges and are not currently used in PEMFCs. We propose the use of a
+membrane constructed from graphanol, shown in Figure 1a, which is a 2D
+proton conducting material that can be incorporated in a PEMFC, as illus
+trated in Figure 1b. Graphanol is the hydroxyl functionalized form of graphane
+(sp3 hydrogentated version of graphene). Computational studies have shown
+that functionalized graphane has higher predicted proton conductivity under
+anhydrous conditions compared to other materials 22. Bagusetty et al. 2325 used density functional theory (DFT) to the
+oretically investigate PT in graphanol and graphamine (amine functional
+ized graphane).

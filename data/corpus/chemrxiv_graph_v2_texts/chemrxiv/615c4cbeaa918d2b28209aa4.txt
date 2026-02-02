@@ -1,0 +1,17 @@
+Description:
+A core structure used in NIR fluorogenic probes for in vivo imaging.
+
+Text:
+Complementing these efforts, approaches using always
+ON nearinfrared (NIR) probes have provided insights into tu
+mor and offtarget uptake.2023 Fluorogenic turnON probes that 
+use NIR wavelengths (700 to 900 nm) have significant poten
+tial to provide insight into dynamics and localization of biolog
+ical phenomena in complex tissue settings. We recently devel
+oped the first class of NIR fluorogenic probes based on the hep
+tamethine cyanine core.24 These fluorogenic cyanine carba
+mates (CyBams) exhibit exceptional turnON ratios and untar
+geted variants enabled in vivo imaging in a metastatic tumor 
+model. We hypothesized mAbconjugated variants could pro
+vide a real time, quantitative approach to determine the site and 
+extent of ADC linker cleavage in complex model organisms.

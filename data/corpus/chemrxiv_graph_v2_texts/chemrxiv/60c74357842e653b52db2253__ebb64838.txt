@@ -1,0 +1,12 @@
+Description:
+A matrix material whose stability is affected by the homogeneity of metal dispersion and the electronegativity of incorporated metals.
+
+Text:
+. The extent 
+of the hydrolytic SiC(sp2) bond cleavage is quantitatively followed by 29Si MAS NMR, TG analysis, 
+and GCFID analysis of effluent coming from samples exposed to water vapor. Two important 
+features affecting the hydrothermal and thermal stability are identified (i) the homogeneity of 
+metal dispersion within the silica matrix, and (ii) the electronegativity of the incorporated metal. The stability of hybrid metallosilicates is significantly improved by replacing the phenylene bridges 
+with xylylene bridges, due to the presence of more stable SiC(sp3) bonds. Interestingly, the latter 
+hybrid metallosilicate proves to be an active catalyst for the dehydration of ethanol to ethylene. Unlike the other hybrid materials presented here, it reaches high ethylene yields without 
+undergoing degradation and deactivation.

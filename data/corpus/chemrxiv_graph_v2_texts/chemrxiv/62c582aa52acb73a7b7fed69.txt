@@ -1,0 +1,10 @@
+Description:
+Emits lines detectable by spectrometers in the range of 450 to 950 nm.
+
+Text:
+We have been 
+unsuccesful, and now now we have build our own instrument despite reservations regarding the needed calibrations. We are not the first research group that has been driven to build spectrometers,1621 most have, however, been 
+motivated by a specific problems.2225 Here, we describe a general spectrometer design, supported by detailed data on 
+samples typical of those we have built the spectrometer to investigate. We are solving a problem we have had in our 
+work, and report a spectrometer design that provide spectra, fast and reliable with little noise, of all the emission lines 
+of europium(III). Further, we show that the performance of the spectrometer is excellent from 450 to 950 nm.

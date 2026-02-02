@@ -1,0 +1,25 @@
+Description:
+Used for deprotection in the synthesis of ORN.
+
+Text:
+The use of an unprotected 
+phosphoramidite also prevents capping failure sequences during solid phase synthesis, which could put a 
+limit on the length of ORN that can be synthesized, and may require the ORN product to be purified with 
+gel electrophoresis instead of the more scalable HPLC. In addition, the deprotection needs to use DBU, 
+which prevents the method for the synthesis of ORN containing some sensitive nucleosides such as 
+mchm5U. Therefore, developing new methods for sensitive ON synthesis remains a significant and 
+challenging task. In 2016, we published our first paper on sensitive ODN synthesis.1516 We used the Dmoc group for 
+amino protection and a Dmoc linker to anchor ODN to solid support. ODNs synthesized can be represented 
+by 1a (Scheme 1).
+
+
+---
+
+Description:
+A base used for removing the 2cyanoethyl phosphate protecting group.
+
+Text:
+Deprotection and cleavage were achieved in three steps by removing the 2cyanoethyl 
+phosphate protecting group with DBU, oxidation of the Dmoc functions with sodium periodate and aniline 
+induced elimination. Besides serving as the base for elimination, excess aniline was used as a 
+nucleophilic scavenger for the deprotection side product 2hh, which would otherwise react with the

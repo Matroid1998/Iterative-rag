@@ -1,0 +1,13 @@
+Description:
+A component of ganglioside GM1, involved in protein interactions.
+
+Text:
+It was shown that the addition of one glucosyl unit to each 
+of the (14) and (12) branches of this core pentasaccharide led to a significant change in 
+conformation, into a more folded compact structure,4 with significant potential implications for 
+the minimum epitope to target in vaccine design. In another recent study, Blaum et al.5 examined the pentasaccharide glycan component of 
+ganglioside GM1, a membranebound ligand for a range of proteins, including those of viruses 
+and bacteria. In their work, they identified an alternative conformation of GM1, exhibited in its 
+complex with a 155 kDa protein, Factor H. Subsequent long time scale MD simulations (10 s) 
+of GM1 in explicit solvent identified this structure as a secondary lowlying minimum on the 
+free energy surface.

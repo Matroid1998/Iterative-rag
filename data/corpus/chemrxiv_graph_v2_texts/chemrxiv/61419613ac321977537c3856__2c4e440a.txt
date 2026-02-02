@@ -1,0 +1,30 @@
+Description:
+A molecule that can be converted to liquid fuel through electrocatalytic hydrogenation.
+
+Text:
+Electrocatalytic CO2 hydrogenation reaction can be a promising approach for renewable energy 
+production through conversion of CO2 to liquid fuel and such hydrogenation reactions are also 
+very important for fundamental chemistry such as CC coupling and CH bond formation 
+reactions.13 Among various metals in heterogenous electrocatalytic CO2 hydrogenation reaction, 
+Cu has been found as an effective electrocatalyst for CO2 hydrogenation reaction.4 In the case of 
+other electrodes, Ti, Fe, Ni, or Ptbased electrodes are found to be promising for hydrogen 
+productions5 whereas Ag, Au or Zn based electrodes are efficient for CO productions6,7 and Pb, 
+Pd, Au, Cd, In, Sn, or Rubased electrodes favor formate810 productions.
+
+
+---
+
+Description:
+Involved in hydrogenation reactions with challenges of high overpotential and low product selectivity.
+
+Text:
+Hori and coworkers 
+have shown that CH4 and C2H4 are the two major products on Cu based catalysts with high current 
+density and Faradic efficiency (FE).4,10,11 However, the required potential for CO2 hydrogenation 
+is relatively high (1.0 V) and therefore, the efficiency of Cu based catalysts is less for such 
+reaction.12 Further to this, the selectivity of the product is less as various products can be achieved 
+at comparable potential. Hence, the major difficulties in the electrochemical CO2 hydrogenation 
+reaction are high overpotential and low product selectivity which hamper the development and 
+application of CO2 hydrogenation reaction. Several research groups have reported that the 
+selectivity and activity of CO2 hydrogenation reaction are highly influenced by the morphology of 
+the Cu surface.

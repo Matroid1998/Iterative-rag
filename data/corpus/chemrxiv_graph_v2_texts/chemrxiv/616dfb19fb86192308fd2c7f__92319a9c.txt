@@ -1,0 +1,13 @@
+Description:
+Atoms whose oxidation state depends on their coordination environment and the stoichiometry of the ceria substrate.
+
+Text:
+Ptn 
+species with n 1, 2, or 4) either occupying Ce positions of the ceria lattice or deposited 
+on undercoordinated sites of ceria substrates. The oxidation state of Pt atoms depends on 
+their coordination environment and on the stoichiometry of ceria substrate, which can 
+either accept or donate electrons by varying the occupation of the Ce4f states (reducing 
+Ce4 cations to Ce3 and vice versa) andor the amount of O in the ceria lattice. Atomically dispersed Pt has often been distinguished from metallic nano or 
+subnano Pt particles by the characteristic shifts of cationic Pt in XRay Photoemission 
+Spectroscopy (XPS).2,23,24 Nevertheless, recent studies report the formation of small 
+oxidized Pt particles (i.e.

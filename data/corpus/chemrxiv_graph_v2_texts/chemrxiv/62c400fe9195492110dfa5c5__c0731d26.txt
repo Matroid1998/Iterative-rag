@@ -1,0 +1,13 @@
+Description:
+A gasket material used in proton exchange membrane reactors.
+
+Text:
+Protonexchange membrane (PEM) reactors, which were originally devised for fuel cell 
+technology,1,2 have been used for electrocatalytic synthesis because they possess many 
+characteristics designed to overcome the disadvantages of conventional electrosynthetic 
+processes.310 A PEM features a membrane electrode assembly (MEA) at its center (Figure 1a); the 
+MEA is closely packed with a Teflon gasket, carbon separator, and an end plate at both sides 
+(Figure S1). The MEA comprises an ionexchange membrane (protonconducting polymer) 
+sandwiched between a pair of catalyst layers on the anode and cathode sides; the membrane thus 
+serves dual roles as an electrode and a supporting electrolyte (Figure 1b). Consequently, the 
+substrate solution does not require a supporting electrolyte and the cell resistance can be minimized.

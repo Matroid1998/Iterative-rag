@@ -1,0 +1,14 @@
+Description:
+Cations that occupy space between ZrO6 octahedra, forming BaO12 polyhedra.
+
+Text:
+The critical reaction to incorporate protons into the crystal lattice and possibly activate fast 
+proton conduction in the oxides is hydration3, 7, 8. BaZrO3 perovskite, known as a mother 
+compound that exhibits fast proton conduction35, consists of ZrO6 octahedra and Ba cations. The ZrO6 octahedra are connected to each other via the apexes of their oxygen anions through 
+the entire perovskite, while the Ba cations occupy the space between the ZrO6 octahedra by 
+loosely forming BaO12 polyhedra to maintain the structure. Doping trivalent acceptors, M, into 
+tetravalent Zr sites, making MO6 octahedra, is a prerequisite for hydration to occur, where 
+oxygen vacancies, VO, are created in the lattice to maintain the electroneutrality of the system 
+(Figure 1a). The defect reaction is expressed in the KrgerVink notation as 
+
+.

@@ -1,0 +1,10 @@
+Description:
+Structural properties in solution can be determined using X-ray crystallography and solid-state 13C NMR spectroscopy.
+
+Text:
+The structural dependencies of experimental parameters may not be 
+understood quantitatively andor the quantity of experimental data used to derive a conformational 
+model may be limited, placing greater reliance on the model obtained from calculations. XRay 
+crystallography and solidstate 13C NMR spectroscopy have been used synergistically to 
+determine the structural properties of carbohydrates in solution by addressing some of the 
+limitations discussed above.1924

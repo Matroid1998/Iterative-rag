@@ -1,0 +1,36 @@
+Description:
+Ligands that form unsaturated L1Pd intermediates necessary for organometallic steps of catalysis.
+
+Text:
+Mechanisticallydriven phosphine ligand design for 
+transition metalcatalyzed crosscoupling reactions has ena
+bled the development of robust methodologies for carboncar
+bon and carbonheteroatom bond formation under mild con
+ditions with low catalyst loading.1 In SuzukiMiyaura cross
+coupling reactions (SMCs), extensive studies of Pdcatalyzed 
+methodologies have identified that unsaturated L1Pd interme
+diates (where L is a monophosphine ligand) are generally nec
+essary to promote the organometallic steps of catalysis.2,3,4,5 
+These findings have prompted the design and implementation 
+of electronrich and stericallybulky monophosphine ligands to 
+preferentially form L1Pd intermediates that promote efficient 
+catalysis while protecting against offcycle reactivity (Figure 
+1a).6,7,8 While this design principle has been highly enabling for 
+Pd, recent efforts to develop analogous Nicatalyzed methodol
+ogies have revealed that these ligand design principles do not 
+necessarily translate between the two metals.9 Namely, the lig
+ands that are most effective for Pd, including bulky trialkyl (e.g., 
+P(tBu)3, P(Ad)3), triaryl (e.g., P(otol)3), and highlysubstituted 
+dialkylbiaryl phosphines (e.g., tBuBrettPhos) are not simi
+larly privileged in Nicatalyzed SMCs.10,11,12,13 
+By contrast, bisphosphine ligands like 1,1bis(diphe
+nylphosphino)ferrocene (dppf) are commonly used in Nicata
+lyzed SMCs and have been incorporated into airstable precat
+alysts that enable efficient C(sp2)C(sp2) bond formation with 
+(hetero)aryl substrates (Figure 1a).14,15,16 A simple rationaliza
+tion of the use of bisphosphines over monophosphines in Ni
+catalyzed SMCs is that, by virtue of being able to occupy two 
+coordination sites in an entropicallyfavorable chelate, these 
+ligands can avoid the formation of vacant coordination sites 
+that can enable unproductive reactivity.10,17,18 Additionally, 
+Figure 1.

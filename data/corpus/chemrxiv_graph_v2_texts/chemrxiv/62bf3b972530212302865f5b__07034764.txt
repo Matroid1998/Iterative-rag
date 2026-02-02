@@ -1,0 +1,19 @@
+Description:
+Epitaxially grown samples used for comparison with computational predictions under MOVPE conditions.
+
+Text:
+Since hydrogen is present in
+MOVPE and CBE, it can be expected to be present at
+the AlInP surface as well 9, 10. Therefore, we here extend the previous study 8 to ac
+count for the possibility of surface adsorbed hydrogen. A systematic search for stable Al0.5In0.5P(001) surface
+structures is performed, where the existence of hydrogen
+is considered as an additional degree of freedom. The
+initial geometries for structure optimization are gener
+ated by systematically varying the surface stoichiometry
+of both CuPtA and CuPtB type ordered Al0.5In0.5P
+crystals. Altogether, more than 80 surfaces are probed
+computationally. The computational predictions for typ
+ical MOVPE growth conditions are compared with low
+energy electron diffraction (LEED) and Xray photoelec
+tron spectroscopy (XPS) data measured on epitaxially
+grown Al0.52In0.48P(001) samples.

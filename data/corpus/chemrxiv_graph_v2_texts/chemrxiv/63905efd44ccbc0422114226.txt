@@ -1,0 +1,59 @@
+Description:
+A material used in the etching of nanopores for applications in microsieves, optical sensors, x-ray mirrors, photovoltaics, and photonic crystals.
+
+Text:
+Etching of nanopores in silicon is of interest in the research of microsieves1, optical
+sensors2, xray mirrors3, photovoltaics,4 photonic crystals,57 and many more topics. Each application has its own requirements for what is needed from a pore, be it length,
+diameter, high aspect ratio, smooth walls or a particular shape such as conical or cylindrical. Depending on the required application, there are multiple strategies for etching pores in
+silicon, for example, wet etching1, 3, metal assisted chemical etching2, electrochemical
+etching4, 5 and dry etching techniques such as reactive ion etching (RIE).1, 6, 8, 9
+Reactive ion etching (RIE) is a dry etching process which is compatible with complemen
+tary metaloxidesemiconductor (CMOS) methods used in the semiconductor industry.
+
+
+---
+
+Description:
+A material that reacts with reactive gases to form volatile species, often used in etching processes.
+
+Text:
+RIE
+is often used to remove silicon from substrates in situations where metal contamination from
+wet etching is undesirable or in situations where wet etching would not give the required
+directionality.812 RIE uses a reactive gas that reacts with the silicon to form volatile
+species which are pumped away, thereby removing silicon. This reaction is quasiisotropic
+since the removal of silicon typically happens in all directions almost equally. Since isotropy
+is undesirable when creating high aspect ratio structures such as nanopores, or trenches, an
+extra step is needed to make the etch process anisotropic. One class of devices that requires high aspect ratio structures is photonic crystals.
+
+
+---
+
+Description:
+A material used in photonic crystals with a periodic arrangement of nanopores to manipulate light wavelengths.
+
+Text:
+Pho
+tonic crystals are formed by a periodic variance of a high and low refractive index materials,
+such as a periodic arrangement of nanopores etched in silicon. The scale of the periodicity
+needs to be on the length scale of the wavelength of light for which a band gap is desired, for
+example the near infrared, which is of interest for telecommunications.13 The diameter of
+the nanopores is chosen to obtain a low silicon to air ratio to maximize the photonic strength
+of the crystal.14 Tuning the nanopore diameter and pitch of the pores allows one to control
+the position and width of the photonic band gap, comparable to how doping changes the
+electronic band gap in semiconductors.
+
+
+---
+
+Description:
+Used in the fabrication of 2D and 3D photonic crystals, requiring precise control over nanopore characteristics.
+
+Text:
+For the fabrication of both 2D15, 16 and 3D silicon
+photonic crystals,5, 7 it is important to have good control over the shape, diameter, length
+and roughness of the side wall of the nanopores. For certain classes of photonic crystals, the
+etched structures must be as close to a perfect cylinder of a precise diameter as possible,
+that is, little to no tapering, minimal scalloping and no under etch. Previously, Woldering
+et al.17 explored the eects or deviations in diameter, tapering and pore misalignment,
+2

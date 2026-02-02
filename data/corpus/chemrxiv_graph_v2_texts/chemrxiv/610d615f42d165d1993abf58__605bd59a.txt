@@ -1,0 +1,15 @@
+Description:
+UV light can promote dimerizations that alter their structure and function.
+
+Text:
+UV light can also promote
+22dimerizations that alter the structure and function of nucleotides and has a limited
+(epidermal depth, 0.1 mm)2 tissue penetration depth, thus limiting the therapeutic potential
+of photoswitches in photopharmacology. The Zisomer of azobenzene has a thermal halflife
+(t12) of 4.7 hours, which prevents the establishment of photostationary states. Ideal photo
+switches feature long absorption wavelengths and long t12; unfortunately, the simultaneous
+optimization of these parameters is challenging and has been empirically observed to com
+pete. Functionalizing the phenyl rings has been shown to shift the max of azobenzenebased
+photoswitches into the visible range. Konrad et al. 3 recently demonstrated that function
+alizing the phenyl rings with halogens at the ortho positions led to a substantial red shift
+to 410 nm.

@@ -1,0 +1,14 @@
+Description:
+Used as a reference compound for side chain NH bonds.
+
+Text:
+However, while in the past often used, B3LYP is one of
+the less well performing functionals for radical reactions.6 Also,
+the set of references used previously5 lacks proper reference com
+pounds for benzylic CH, carboxylic OH, and aromatic NH
+bonds. Instead, tertbutyl amine was used as a reference com
+pound for all side chain NH bonds. We report XH BDEs of amino acids in proteins computed us
+ing the isodesmic reaction method at the BMK631G(2df,p)7
+level of theory. We validate our BMK results by comparing the
+BDEs of smaller amino acids to results obtained at the G4(MP2)
+6X8 level of theory.

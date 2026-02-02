@@ -195,7 +195,7 @@ def main():
     base_dir = Path(__file__).resolve().parents[2]
     output_dir = base_dir / "rag_analysis" / "output"
     plot_dir = base_dir / "rag_analysis" / "cov_rag_plots"
-    qa_file_path = base_dir / "docs" / "chemrxiv_qa.json"
+    qa_file_path = base_dir.parent / "data" / "corpus" / "chemrxiv_qa.json"
     plot_dir.mkdir(exist_ok=True)
     
     # Load question hop counts from chemrxiv_qa.json

@@ -1,0 +1,87 @@
+Description:
+An element whose K-edge in X-ray spectroscopy is sensitive to changes in molecular structure and orbital occupancy.
+
+Text:
+Xray spectroscopy at the carbon Kedge is highly sensitive to 
+the changes in molecular structure and orbital occupancy, 
+delivering accurate information about the energy of core and 
+valence orbitals of molecules containing carbon atoms.
+
+
+---
+
+Description:
+Involved in the K-edge region with tens of femtosecond time resolution.
+
+Text:
+The ability 
+to laserproduce tabletop HHG sources reaching up to 300 eV 
+opened opportunities to implement the laser pumpprobe technique 
+with ultraviolet (UV) excitation probed by soft xray radiation in 
+the carbon Kedge region with tens of femtosecond time 
+resolution.1,2,3,4,5,6,7,8 
+Recently, we applied this technique to measure the xray 
+spectrum of the benzene radical cation (Bz).9 Together with high
+level calculations using equationofmotion coupledcluster singles 
+and doubles theory (EOMCCSD), this study provided insight into 
+the electronic structure of benzene (Bz) and its cation.10 
+Comparison of the xray absorption spectra of neutral Bz and of 
+Bz revealed a splitting of the two degenerate  orbitals as well as 
+an appearance of a new peak due to a new transition to the partially 
+occupied  orbital resulting from the ionization.
+
+
+---
+
+Description:
+Involved in the excitation of one of the 1s electrons to vacant orbitals.
+
+Text:
+According to the 
+calculations, the observed splitting in the cation spectrum was 
+ascribed primarily to the spin coupling of the unpaired electron in 
+the partially vacant  orbital with the unpaired electrons resulting 
+from the excitation of one of the carbon 1s electrons to the vacant 
+ orbitals.9,10 JahnTeller relaxation causing symmetry distortion 
+was also considered. Replacing one of the hydrogen atoms of Bz by a bromine atom 
+lowers the D6h pointgroup symmetry of neutral Bz to C2v, and also 
+lifts the neardegeneracies between the six core orbitals of the 
+carbon atoms.
+
+
+---
+
+Description:
+The atom bonded to the bromine atom, labeled as C, with increased transition energy.
+
+Text:
+In particular, the Br atom increases the transition 
+energy of the carbon atom bonded to the bromine atom, here 
+labeled as C. The two highest occupied molecular orbitals, (6b2) 
+and (2a2), result from a splitting of the highest degenerate  
+orbitals of Bz. The highest occupied molecular orbital (HOMO) 
+(6b2), with the lowest binding energy of 8.992 eV,11 shows partial 
+bromine character.12,13,14 The major electron density of the (6b2) 
+orbital is distributed among several atoms, the C atom (0.46), the 
+C atom that is in the para position to C (0.5), the Br atom (0.47) 
+and among the other C atoms (0.56).12 The next lower (2a2), 
+orbital of BrBz is noticeably shifted to lower energy (i.e., to higher 
+binding energy, 9.663 eV) compared to the parent  orbital of Bz.
+
+
+---
+
+Description:
+The 1s orbital nearest to bromine is shifted to higher binding energy by about 1.1 eV.
+
+Text:
+The next two lower molecular orbitals are 11b1 (Brtype) and 5b2 
+(Brtype) that are related to the 4p bromine lone pair orbitals, 
+which are split due to the interaction with the benzene ring.12,13,14 
+The ionization energies from these two orbitals are 10.633 eV and 
+11.188 eV, respectively.13 
+The bromine atom affects the core level transition energies as 
+well. Previous studies have shown that15 the 1s orbital of the carbon 
+atom (C) nearest to the bromine atom is shifted to higher binding 
+energy by about 1.1 eV relative to the 1s orbitals of the other 
+carbons (C), as shown in the orbital diagram of BrBz in Figure 1.

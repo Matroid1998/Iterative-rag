@@ -1,0 +1,13 @@
+Description:
+A metal involved in ore smelting processes.
+
+Text:
+Electrochemical reduction of CO2 emitted from point sources (e.g., cement production, 
+separation from natural gas, iron and aluminum ore smelting, and fermentation of sugars) using 
+electricity from renewable resources (e.g., wind and solar) offers a means for recapturing its 
+carbon content. Moreover, if the CO2 can be taken from the atmosphere and converted 
+electrochemically to chemicals and fuels, one could envision a closed carbon cycle.14 In order to 
+produce desired products with high rates and selectivity, it is important to understand how to 
+design electrochemical cells that enable achievement of these objectives.58 A key element in 
+pursuit of this goal is accurate representation of the rates individual product formation rates and 
+their dependence on reactant concentration, pH, and cathode potential.

@@ -1,0 +1,15 @@
+Description:
+Clusters that undergo oxidation and degradation under (electro)oxidation conditions.
+
+Text:
+Jacob and coworkers
+recently investigated the oxidation and degradation of
+Pt clusters under (electro)oxidation conditions using
+ReaxFF.13 They beneted from an intense parametriza
+tion and validation eort in the past decade14 that is not
+available for many metals and adsorbates. To reach a
+more transferable description, a simpler functional form
+is desired that is compatible with standard force elds. However, describing the interaction between two dier
+ent classes of materials like a metallic nanoparticle on
+one hand and liquid water on the other hand poses sev
+eral challenges.

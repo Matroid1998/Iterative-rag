@@ -1,0 +1,20 @@
+Description:
+Molecular triplet states are efficiently quenched by O2.
+
+Text:
+In principle any 
+phosphorescent compound can serve as an oxygen sensor, 
+since molecular triplet states are efficiently quenched by O2.12 
+However, phosphorescent compounds give a turnoff 
+response to oxygen, so their use requires accurate 
+measurement of absolute luminescence intensity, which is 
+prone to issues with calibration and reproducibility, resulting 
+from variable excitation power, optical path length, and in 
+biological applications heterogeneous cellular environments.13 
+Measurement of the phosphorescence lifetime attenuation 
+works well in principle for sensing oxygen but is more 
+technically complex. Luminescent ratiometric oxygen sensors 
+avoid these limitations by incorporating two emission signals 
+which are differentially modulated by O2, and hence the ratio of 
+the two emission intensities can provide a simple and accurate 
+readout of oxygen concentration.

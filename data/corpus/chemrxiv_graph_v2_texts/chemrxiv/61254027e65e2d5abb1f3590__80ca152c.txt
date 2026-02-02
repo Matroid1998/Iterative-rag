@@ -1,0 +1,14 @@
+Description:
+An alternative nitrogen precursor shown ineffective for the growth of InN.
+
+Text:
+The growth of InN is problematic due to its low thermal stability; InN decomposes to In 
+metal and nitrogen gas at about 550 C.8 This has also been manifested by its high equilibrium 
+pressure with nitrogen, which has led to attempts at depositing InN at very high nitrogen 
+pressures.9,10,11 Due to slow decomposition kinetics of ammonia (NH3),12 the most common 
+nitrogen precursor in chemical vapor deposition (CVD), NIn ratios in the order of 104 has 
+often been used in CVD of InN.13 Alternative N precursors, such as dimethylhydrazine and 
+tertiarybuthylhydrazine, has been shown ineffective for the growth of InN.14 To allow more 
+reactive N species, plasmaassisted approach has been adapted in various growth techniques, 
+such as molecule beam epitaxy,15,16,17 sputtering18 and metalorganic CVD19 for the growth of 
+InN.

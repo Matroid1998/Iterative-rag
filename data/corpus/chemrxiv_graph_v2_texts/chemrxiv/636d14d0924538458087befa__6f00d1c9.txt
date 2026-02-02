@@ -1,0 +1,18 @@
+Description:
+Classified as a Dirac metal with linear dispersion in both spin channels.
+
+Text:
+Due to the delocalisation, a cer
+tain assignment of the charge states of the building blocks in
+V2(Cl2dhbq)3 was not possible and remains an open ques
+tion. Band transport analysis from density functional the
+ory (DFT) calculations on single layers of the MOFs indi
+cated linear dispersion in both spin channels for V2(Cl2dhbq)3
+and in one spin channel for Ti2(Cl2dhbq)3, classifying those
+MOFs as Dirac metals and Dirac half metals, respectively. 31
+While it is known experimentally that counterions can
+have a significant effect on the framework structures 32, the
+mechanism is largely unexplored. No theoretical study of
+the stabilisation via counterions and their effect on the re
+dox state of the MOF building blocks has been reported to
+our knowledge.

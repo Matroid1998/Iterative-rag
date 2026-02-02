@@ -1,0 +1,42 @@
+Description:
+A material with a small but stable piezoelectric coefficient d33 of 3.4 pC/N, used in RF filters.
+
+Text:
+In the converse piezoelec
+tric effect, di,j  (iEj), an electrical field induces a
+mechanical strain . Piezoelectric coefficients include the
+longitudional and transverse coefficients, d33, d31, and
+shear coefficients include d15, d24, d16, and the faceshear
+mode d36, some of which are equivalent or vanish depend
+ing on the crystal symmetry. The desired piezoelectric material properties depend
+on the application. Highpower applications typically re
+quire large dijs but are tolerant to frequency and temper
+ature instability 13. Typical piezoelectric coefficients
+for Pb(Zr,Ti)O3 (PZT) can exceed d33  600 pCN
+14, 15. Low power applications, such as RF filters, on
+the other hand, require stable coefficients as a function
+of frequency. AlN, a material used for this purpose, has
+elin.dypvik.sodahlnmbu.no
+a small but stable d33 of 3.4 pCN 16.
+
+
+---
+
+Description:
+A piezoelectric material with important commercial applications.
+
+Text:
+Stateoftheart
+polymer piezoelectric materials, attractive for flexible de
+vices such as energy harvesting cantilevers, are based on
+the polymer polyvinylidene fluoride (PVDF). The piezo
+electric coefficient of PVDFcotrifluoroethylene(TrFE)
+is d33  65.3 pCN 17, 18. Although piezoelectrics
+like PZT, AlN, and PVDF have important commercial
+applications, there remain a large parameter spaces be
+tween these known materials where combinations of prop
+erties, such as soft or flexible materials with robust or
+stable piezoelectric responses, are yet to be found. Plastic ionic molecular crystals, which consist of inor
+ganic anions bonded to organic cations, are an emerg
+ing class of ferroelectric and piezoelectrics that could fill
+many gaps in the material property space 1922.

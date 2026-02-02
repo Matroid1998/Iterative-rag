@@ -1,0 +1,19 @@
+Description:
+A specific PBdPEO block copolymer blended with POPC for membrane protein reconstitution.
+
+Text:
+Therefore, hybrid lipidpolymer vesicles aim to take 
+advantage of the robustness and chemical versatility of a polymer membrane as well as the 
+biocompatibility and softness provided by a lipid bilayer.6, 7 
+While a variety of block copolymer chemical structures have been blended with phospholipids, 
+polybutadienepoly(ethylene oxide) (PBdPEO) block copolymers are one of the most commonly 
+studied examples.816 PBdPEO containing hybrid vesicles may have potential applications in 
+nanomedicine 17 and the augmentation of membrane proteins for biotechnology applications such as 
+targeted drug delivery, sensors or artificial cells.8, 16, 18 
+Focusing on membrane protein biotechnology, PBd22PEO14 has been blended with POPC lipids for 
+the reconstitution of the membrane enzyme cytochrome bo3; all hybrid compositions studied were 
+found to maintain  40 of their initial reconstituted protein activity after 41 days storage at 4 C, a 
+significant improvement over purely lipid vesicles.8 Further study revealed that 5050 mol PBd22
+PEO14POPC hybrid vesicles retain 20 of their initial activity after 500 days storage, where the rate 
+of decay in enzyme activity is approximately 5 times slower than for proteoliposomes.19 Other 
+membrane proteins have been successfully reconstituted using PBdPEO hybrid vesicles.

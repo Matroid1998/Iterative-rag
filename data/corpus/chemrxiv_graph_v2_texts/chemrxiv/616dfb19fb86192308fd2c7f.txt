@@ -1,0 +1,53 @@
+Description:
+Active phase in catalytic materials, interacting with CeO2 to influence electronic structure and chemical properties.
+
+Text:
+Nanostructured materials based on ceria (CeO2) and Pt have a wide range of 
+applications in catalysis, such as in the threeway conversion in automobile exhausts,1 in 
+anode2 or cathode3 materials of fuel cells, or for mediating the water gas shift reaction,4 
+among others.5 CeO2 is typically used in such materials as a noninert support for the 
+more active Pt phase, leading to intricate metalsupport interactions that affect the 
+electronic structure and chemical properties of both the metal and the oxide.4,68 These 
+electronic metalsupport interactions further complicate the already challenging task of 
+characterizing the properties of nanostructured catalytic materials, which are typically 
+structurally complex.
+
+
+---
+
+Description:
+Can be found in the form of nano or subnano particles or as single atoms anchored to the ceria surface or inserted in the ceria lattice.
+
+Text:
+Their size, structure, and oxidation state not only depend on 
+preparation conditions, but also often undergo significant transformations under reaction 
+conditions, as revealed by in situ or operando spectroscopic techniques.911 These 
+structural and environmental complexities therefore hinder the straightforward 
+computational modelling of working heterogeneous catalysts by means of first principles
+based approaches.12,13 
+For systems based on Pt and ceria, Pt can be found in the form of nano or subnano 
+particles of varying size,4,7,14,15 or as single atoms either anchored to the ceria surface2,16
+18 or inserted in the ceria lattice.1921 Atomically dispersed Pt on ceria substrates has been 
+studied extensively by means of combined experiment and computational approaches 
+during the last decade because they allow to significantly increase specific activity for 
+different reactions.2,17,22 In such composites, Pt is often found in cationic form (i.e.
+
+
+---
+
+Description:
+Often found in cationic form in composites with ceria, significantly increasing specific activity for different reactions.
+
+Text:
+Their size, structure, and oxidation state not only depend on 
+preparation conditions, but also often undergo significant transformations under reaction 
+conditions, as revealed by in situ or operando spectroscopic techniques.911 These 
+structural and environmental complexities therefore hinder the straightforward 
+computational modelling of working heterogeneous catalysts by means of first principles
+based approaches.12,13 
+For systems based on Pt and ceria, Pt can be found in the form of nano or subnano 
+particles of varying size,4,7,14,15 or as single atoms either anchored to the ceria surface2,16
+18 or inserted in the ceria lattice.1921 Atomically dispersed Pt on ceria substrates has been 
+studied extensively by means of combined experiment and computational approaches 
+during the last decade because they allow to significantly increase specific activity for 
+different reactions.2,17,22 In such composites, Pt is often found in cationic form (i.e.

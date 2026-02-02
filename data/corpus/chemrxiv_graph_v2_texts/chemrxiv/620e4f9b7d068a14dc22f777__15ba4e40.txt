@@ -1,0 +1,11 @@
+Description:
+A functional group inserted into unactivated aliphatic C-H bonds by hydroxylases.
+
+Text:
+2OGdependent nonheme iron enzymes (NHFe) catalyze a diverse range of reactions ranging 
+from epoxidation to stereoinversion.1 From natural product biosynthesis to cellular signaling 
+and metabolism, the reactions catalyzed by this superfamily of enzymes serve crucial roles 
+biologically.2,3 Two subgroups of this superfamily are the hydroxylases and halogenases. Hydroxylases catalyze the insertion of a hydroxyl functional group into unactivated aliphatic C
+H bonds while halogenases catalyze the insertion of a chloridebromide functionality into such 
+bonds. The difference in reactivity of the two enzymes is enabled by differences in their iron
+binding primary coordination sphere.

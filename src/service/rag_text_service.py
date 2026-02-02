@@ -52,7 +52,7 @@ class RagTextService:
 
     Typical usage:
         svc = RagTextService(persist_path="./chroma_store", collection_name="chem_corpus")
-        svc.add_from_folder("./docs", strip_html=True)
+        svc.add_from_folder("./data/corpus", strip_html=True)
         result = svc.answer("Which compound is aromatic?")
         print(result["answer"])
     """

@@ -1,0 +1,12 @@
+Description:
+Predominantly present as atomic oxygen in VLEO environments, causing erosion and degradation of materials.
+
+Text:
+VLEO environments contain predominantly 
+atomic oxygen (AO) and molecular nitrogen (N2), which collide with ram surfaces on spacecraft at relative 
+velocities of 7.5 km s1.511 Structural, thermalcontrol, and coating materials containing organic polymers 
+are particularly susceptible to AO attack at these high velocities, resulting in erosion, roughening, and 
+degradation of function.1227 Furthermore, the high densities of the atmosphere at VLEO altitudes, on the 
+order of 109 cm3,57 cause sufficient drag to require a propulsion system for a satellite to maintain orbit, 
+leading to increased mass and complexity. To maximize the survivability of a VLEO satellite while 
+minimizing cost, the satellite must be designed to have low drag and high AO resistance.

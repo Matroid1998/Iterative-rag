@@ -1,0 +1,10 @@
+Description:
+A garnet solid-state electrolyte used in lithium cycling.
+
+Text:
+Anodefree cells have also been used to observe lithium 
+electrodeposition2832, but these configurations were generally chosen to avoid the challenges of 
+probing buried interfaces. Recently, Wang et. al demonstrated that  3 mAh cm2 of Li could be 
+cycled at interfaces between current collectors and the garnet Li7La3Zr2O12 (LLZO) SSE12. However, these cells operated at relatively low current densities ( 0.3 mA cm2) and required hot 
+pressing current collectors onto LLZO at temperatures  900 C for fabrication. Other work has 
+investigated anodefree SSBs using the softer Li6PS5Cl (LPSC) SSE13, finding that performance

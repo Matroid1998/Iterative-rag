@@ -1,0 +1,31 @@
+Description:
+Part of the eutectic indium gallium (EGaIn) used in liquid junction techniques.
+
+Text:
+Function 
+and special transport behaviors have been observed like, 
+rectification14, Coulomb blockade and Kondo effect15, 16 
+through utilization of experimental techniques such as 
+scanning 
+tunneling 
+microscope 
+(STM), 
+mechanical 
+controllable break junctions (MCBJ)17, conducting probe 
+atomic force microscope (CPAFM)18 and liquid junction 
+techniques like eutectic indium gallium (EGaIn) or mercury 
+drop junctions19, 20. Theoretical analysis based on SLM 
+depends 
+on 
+the 
+mathematical 
+modeling 
+of 
+the 
+experimental IV plot where coupling strength () and 
+energy offset (0) can be obtained and cross compared to 
+spectroscopy measurement like ultraviolet photoelectron 
+spectroscopy (UPS) or ab initio calculation21 The current
+voltage (IV) relation in single level model is described by 
+Landauer formula (Eq 1) with single level transmission 
+function9, 11

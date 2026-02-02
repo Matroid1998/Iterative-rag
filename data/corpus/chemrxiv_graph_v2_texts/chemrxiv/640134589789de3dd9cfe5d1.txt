@@ -1,0 +1,9 @@
+Description:
+Used in FET biosensors due to its extremely high electron-hole mobilities.
+
+Text:
+modified the surface charge at the 
+solidliquid interface of a Si FET using both front and back gate.5 More recently, Gupta et al. modulated the negatively charged SiO2 surface of Si FETs by depositing positively charged 
+blocking molecules, improving sensitivity by 51.3 
+ Among the various types of FET biosensors, graphene FET (GFET) biosensors have attracted 
+particular attention owing to their extremely high electronhole mobilities6,7 and their two

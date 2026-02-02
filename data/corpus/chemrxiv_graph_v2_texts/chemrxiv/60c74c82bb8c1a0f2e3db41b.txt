@@ -1,0 +1,15 @@
+Description:
+A commonly used fluorophore.
+
+Text:
+Despite decades of endeavors by experimental chemists, only a few uorophores are
+commonly used, such as uorescein,8 BODIPY,9 cyanine,10 and SeoulFluor.7,11 For exam
+ple, various BODIPY derivatives are discovered by modifying the sindacene core structure.9
+SeoulFluor is developed based on the indolizine core.7,11 These molecules are designed to
+have distinct emission frequencies by attaching diverse functional groups to their core struc
+ture.7,9,11 With traditional approaches, nding a novel molecular scaold takes considerable
+time and resources to synthesize and verify candidate compounds.12
+Theoretical approaches such as quantum mechanical (QM) calculation or machine learn
+ing (ML) may solve this problem more eciently than conventional approaches. Diverse QM
+approaches have been developed to predict the photophysical properties of molecules.1318
+Most previous studies focused on predicting the photophysical properties of inorganic solids.

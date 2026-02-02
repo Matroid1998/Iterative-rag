@@ -1,0 +1,11 @@
+Description:
+A repurposed drug used in the treatment of COVID-19 with modest effect on disease outcome.
+
+Text:
+Currently approved therapies for infection by SARSCoV2, the etiological agent of the COVID19 pandemic, 
+ include monoclonal antibodies and certain repurposed drugs such as dexamethasone. Monoclonal antibody 
+ therapy suffers from difficult logistics to administer, and the approved repurposed drugs have only modest 
+ effect on disease outcome. Some novel therapeutics developed for coronaviruses 1,2 as well as further 
+ repurposed drugs 3 are under regulatory review as antivirals for SARSCoV2. Each has its own strengths but 
+ also drawbacks such as perceived concerns about mutagenicity, time to production rampup, or sideeffect 
+ profile.

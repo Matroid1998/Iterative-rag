@@ -1,0 +1,30 @@
+Description:
+Involved in dynamic covalent exchange in Michael addition reactions.
+
+Text:
+With a global recycling rate of plastics as low as 9 in 2019,1 multiple strategies reaching from 
+mechanical recycling to chemical recycling or upcycling need to be targeted to increase recycling rates. Whereas in chemical recycling the polymer is degraded into its monomer,2 by upcycling new 
+molecules, polymers or materials are obtained.3 Thus, implementing reversible reactions in polymer 
+chemistry is key for forming recyclable materials. Upon depolymerization of polymers, building blocks 
+suitable for subsequent polymerization can be obtained. Recently lots of research has been performed 
+in the field of covalent adaptable networks (CANs) or vitrimers, which undergo reversible reaction 
+under external stimuli such as pH, heat or UV light. Regarding Michael addition reactions, dynamic 
+covalent exchange for thiol and aminebased Michael adducts has been reported.
+
+
+---
+
+Description:
+Involved in the transfer from a ketone to an acrylate product.
+
+Text:
+by the transfer of a thiol from a ketone to an acrylate 
+product at 90 C7 (Scheme 1) or by the exchange of thiophenol with mercaptoethanol in a thiolketone 
+or thiolmaleimide adduct at 90 C.5,8 Moreover, dynamic exchange of thiaMichael polymer networks 
+is reported.7,8,9 Examples include thiolmaleimide linkers in RAFT based materials, thiolacrylate linkers 
+in covalently crosslinked polyester networks or thiolvinyl sulfone linkers in polymeric network formed 
+by radical polymerization.8,9,10 Those materials show reshaping and selfhealing ability at temperatures 
+from 90 to 100 C. Also networks solely built up by thiolMichael reaction with cinnamonitrile 
+derivative show selfhealing behaviour from 60 C onward.11 Moreover, reversible thiolyne 
+crosslinking was demonstrated by the group of P. Du Prez.12 Regarding retro azaMichael reaction 
+typically high temperatures ( 150 C) are required.

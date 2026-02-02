@@ -1,0 +1,38 @@
+Description:
+Compounds that can exhibit prototropic tautomerism involving tetracoordinate pentavalent phosphorus.
+
+Text:
+Phosphinylidenes are a family of organophosphorus compounds that are of biological 
+and pharmaceutical importance.13 They are also most commonly employed as ancillary 
+ligands in homogenous catalysis.4,5 These include phosphinates, Hphosphonates, H
+phosphinates and secondary phosphine oxides. Such compounds can exhibit a 
+prototropic (i.e., proton migration from one atom to another) tautomerism process 
+involving structures with a tetracoordinate pentavalent phosphorus P(V) and a trivalent 
+phosphorus P(III) atom (see Scheme 1A). Due to the availability of a free lone pair of 
+electrons, the P(III) hydroxide form is known to coordinate with the metal in transition 
+metal complexes. However, the P(V) oxide form is known to be the most stable species 
+and the tautomeric equilibrium displayed in Scheme 1A is strongly shifted toward P(V) if 
+the R were electrondonating groups.
+
+
+---
+
+Description:
+Compounds where a two-water bridged proton transfer is energetically favorable in the gas phase.
+
+Text:
+On the contrary, with electronwithdrawing 
+fluororganyl groups, only the P(III) tautomer was isolated and detected spectroscopically, 
+and in some cases, a solventdependent equilibrium was observed between the 
+tautomeric forms.610 
+Although the reactivity of phosphinylidenes suggests the presence of both oxide and 
+acid tautomers, the direct intramolecular proton transfer (PT) for their interconversion is 
+unfavorable at room temperature due to its high activation barrier of  60 kcal mol1.1115 
+Alternatively, an intermolecular PT mechanism between two tautomers of the same 
+
+3 
+species,16 a base or watercatalyzed PT has been proposed.11,14,15,17 Recently, a 
+detailed computational study on the tautomerization of simple secondary phosphine 
+oxides predicted that the twowater bridged PT provides the most energetically favorable 
+path in the gas phase, as compared to intra and intermolecular PT involving one, two, or 
+three tautomers.12

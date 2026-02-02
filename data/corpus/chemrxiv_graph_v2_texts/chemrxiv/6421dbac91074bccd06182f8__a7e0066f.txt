@@ -1,0 +1,12 @@
+Description:
+An aqueous electrolyte used in supercapacitive swing adsorption.
+
+Text:
+Among them, supercapacitive swing adsorption (SSA) is a promising 
+emerging technology capable of reversibly capturing and releasing CO2 by charging and discharging supercapacitor 
+electrodes.17 Supercapacitors are capable of electrostatically storing a large number of charges inside the pores of high 
+surface area electrodes in an electrical double layer.18,19 SSA is significantly simpler than other electrochemical sorption 
+techniques, only requiring inexpensive, robust, and environmentally benign porous activated carbons and aqueous electrolytes 
+(e.g. NaCl, NaHCO3). Supercapacitors allow for fast chargedischarge rates, have a high roundtrip energy efficiency, and a 
+long lifetime ( 105 cycles). This is an advantage over electrochemical techniques that rely on the use of redoxactive sorbents 
+or solvents (e.g.

@@ -1,0 +1,12 @@
+Description:
+Can block the most reactive and least selective sites, affecting catalyst selectivity.
+
+Text:
+Coke formation typically occurs in two stages; an initial fast coking regime, and a later
+regime where the buildup of further coke is much slower,16,17 which indicates that early
+coking stages change catalysts selectivity to limit further coking. This change in selectivity
+has been attributed to carbon blocking the most reactive and least selective sites, which
+can catalyze sidereactions leading to coke formation.1823 An additional explanation is that
+the presence of carbon can modify olefin adsorption strength on a surface, and increase the
+energy barrier for CH activation.17 Coke may therefore deactivate Pt catalysts via an elec
+tronic interaction, in addition to steric blocking.

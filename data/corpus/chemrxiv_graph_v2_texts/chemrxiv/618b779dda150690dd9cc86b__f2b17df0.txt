@@ -1,0 +1,13 @@
+Description:
+Ions that mainly behave like free ions in coordination complexes.
+
+Text:
+The properties of lanthanide (Ln) compounds have made them prime research candidates 
+in the field of magnetism,1 optics,2 and catalysis.3 Control of magnetism and optical properties, 
+which arise from the 4f electrons, is highly desired in materials science. The stereotypical 
+understanding of the 4f electrons is often considered to be localized (corelike). They do not 
+undergo large crystal fields (CF) splitting; thus, Ln(III) ions (except for Ce(III) or Ln(II) ions) in 
+coordination complexes mainly behave like free ions. Lnbased singlemolecule magnets (SMMs) are a crucial subject for molecular spintronics, 
+in which the molecular spin is utilized for information processing. Previous studies have shown 
+that Dy complexes have strong magnetic anisotropies and large activation barriers (E) of spin 
+flipping among spin up and spin down states.

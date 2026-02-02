@@ -1,0 +1,16 @@
+Description:
+Participates in hydrogen atom transfer mechanisms in photocatalysis.
+
+Text:
+Owing to their ubiquity, the activation of CH bonds at sp3 carbon centers represents a continuous 
+challenge with great interest in organic synthesis.1,2 Over the years, a wealth of methods for their 
+activation in various positions has been developed, the majority of which relies on transition metal 
+catalysis.37 Recently, photocatalysis has proven to be a valuable tool for CH functionalization as well, 
+offering novel approaches via singleelectron transfer (SET) and hydrogen atom transfer mechanisms 
+(HAT), in some cases including the aid of a metal catalyst.823 
+While photocatalysis is most commonly known for radical reactivity,18,19 carbanion or carbocation 
+species can be generated via a radicalpolar crossover as well.2429 In particular, the formation of 
+carbanion28,29 intermediates in a photocatalytic and redox neutral fashion offers several advantages 
+compared to traditional methods,30,31 such as full atom economy, no stoichiometric amount of metal 
+waste (low valent Mg, Zn, or Li metals), and high functional group tolerance (limitation of classical 
+methods; Fig.

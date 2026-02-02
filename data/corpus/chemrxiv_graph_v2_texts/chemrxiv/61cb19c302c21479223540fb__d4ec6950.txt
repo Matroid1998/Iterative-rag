@@ -1,0 +1,19 @@
+Description:
+Serves as a surface for the adsorption and dissociation of oxygen, crucial in car exhaust catalysts and fuel cells.
+
+Text:
+The adsorption and dissoci
+ation of oxygen on platinum surfaces are of signicant
+technological importance, as they not only constitute cru
+cial reaction steps in the car exhaust catalyst 25, but
+they are also relevant for the oxygen reduction reaction
+in fuel cells in aqueous environments 2630. Molecular
+oxygen can adsorb both molecularly and dissociatively on
+Pt(111) 8, 31. At low surface temperatures, however,
+oxygen does not directly dissociate on Pt(111), even if
+impinging with high kinetic energies 8, 32, 33. Rather,
+it rst adsorbs molecularly due to steric hindrance caused
+by the shape of the underlying potential energy surface,
+and only in a second step dissociates caused by thermal
+uctuations, as demonstrated in tightbinding molecular
+dynamics studies 34, 35.

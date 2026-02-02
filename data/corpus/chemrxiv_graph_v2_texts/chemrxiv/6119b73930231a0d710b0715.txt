@@ -1,0 +1,16 @@
+Description:
+Reacts with carbon fiber preform substrate during atmospheric entry conditions.
+
+Text:
+Ablative heat shields such as phenolic impregnated carbon ablator (PICA) and its variants 
+PICAX and PICAD are used to protect spacecraft from the extreme heat of atmospheric entry.1, 
+2 Composed of a carbon fiber preform substrate and a phenolic resin impregnated as the matrix, 
+PICA and its variants are being used in current NASA missions such as Mars Science 
+Laboratory,1 Mars 2020,3 the planned Dragonfly Mission,2 as well as those of private 
+industry such as SpaceXs Dragon capsule.1 Accurate modeling of what happens to these 
+materials in various atmospheric entry conditions requires a detailed understanding of how the 
+resin decomposes thermally and how the charred material and the carbon fiber preform substrate 
+reacts with boundarylayer species, most importantly atomic oxygen.4 The thermal 
+decomposition of the resin has been the subject of several studies by our group,5, 6 and the 
+oxidation of carbon at high temperatures has received increasing attention recently,710 although 
+less is known about the specific oxidation behavior of carbon fiber preform and char.

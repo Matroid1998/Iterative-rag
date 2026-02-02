@@ -1,0 +1,30 @@
+Description:
+Used in lithium-ion batteries for its high theoretical capacity and low electrochemical potential.
+
+Text:
+Highenergy density, portable and safe energy storage remains one of the most prevalent issues in 
+modern society. Lithiumion batteries (LIB) are amongst the most promising options but are far from 
+achieving their theoretical performance13. Maximal energy density of lithium batteries can only be 
+achieved by use of Li metal anodes, which enable the highest theoretical capacity (3860 mA h g1) and 
+the lowest electrochemical potential (3.04 V vs. the standard hydrogen electrode) of all anode 
+materials1, 
+2. However, current LIB electrolytes (usually LiPF6 dissolved in a ethylene 
+carbonatedimethyl carbonate22) are incompatible with Li metal, present with safety concerns and an 
+inability to accommodate high V cathode materials. Hence, electrolyte optimisation, or replacement, 
+is paramount1, 2, 48.
+
+
+---
+
+Description:
+Used in lithium garnets as a solid-state electrolyte due to its wide electrochemical window and chemical stability with lithium metal.
+
+Text:
+All solidstate batteries (ASSBs) are natural successors to current LIBs, as they could enable Li metal 
+anodes, wider electrochemical windows and improved safety9. However, the development of a 
+suitable solidstate electrolyte (SSE) has proved troublesome. To date many oxide and sulphide SSEs 
+have been studied, but often have a high ionic conductivity or a wide electrochemical window, but 
+rarely both6, 915. Finding a suitable SSE is, therefore, a key challenge to enable the next generation of 
+energy storage9. Lithium garnets have emerged as contenders for use as an SSE, owing to a wide electrochemical 
+window (06V vs LiLi), chemical stability with Li metal and (in recent years) high ionic conductivity ( 
+0.1 mS cm1)1640.

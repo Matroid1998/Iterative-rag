@@ -1,0 +1,28 @@
+Description:
+Mediates CH functionalisation reactions for selective transformation of CH bonds on sp3-rich scaffolds.
+
+Text:
+Palladiummediated CH functionalisation reactions provide a powerful approach for selective 
+transformation of individual CH bonds on sp3rich scaffolds.1 Given the increasing importance of 
+these compounds in medicinal chemistry,2 the ability to selectively introduce novel functionality at 
+particular locations in the molecular framework could provide a highly useful tool in drug 
+development. Building upon pioneering work on the use of stoichiometric quantities of palladium(II) 
+salts to mediate selective reactions of CH bonds in sp3rich scaffolds,3 catalytic reactions employing 
+a directing group to coordinate to the palladium(II) catalyst to control the site of reaction have proved 
+to be especially effective.45 In most cases, the directing group incorporates one or more heteroatoms 
+which can act as ligands for the palladium and deliver it to an adjacent CH bond.
+
+
+---
+
+Description:
+A catalyst delivered to a nearby CH bond via the formation of a palladacycle.
+
+Text:
+Nitrogenrich 
+scaffolds are of particular importance in a wide range of chemistryrelated fields, so nitrogenlinked 
+directing groups have been the focus of considerable attention.5 In 2005 Daugulis introduced the 8
+aminoquinoline and picolinamide directing groups,5a and since then a number of nitrogenlinked 
+directing groups for CH activation have been reported (Figure 1).5 Typically, these directing groups 
+deliver the palladium catalyst to a nearby CH bond via the formation of a 5 or 6membered 
+palladacycle, though transannular functionalisation reactions have been observed in some cases.5e

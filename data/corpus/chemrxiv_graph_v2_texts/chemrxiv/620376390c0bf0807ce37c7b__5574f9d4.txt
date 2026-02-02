@@ -1,0 +1,11 @@
+Description:
+Substructures found in many natural products, pharmaceuticals, and other functional organic compounds.
+
+Text:
+The introduction of functional groups at the a carbon of carbonyl compounds is a common transformation in 
+synthetic organic chemistry. aFunctionalized ketones are substructures found in many natural products, 
+pharmaceuticals, and other functional organic compounds.1 The functionalization reaction relies on the inherent 
+nucleophilicity of the a carbon of the enol (or enolate) derivative of the carbonyl compound, which reacts with an 
+electrophilic reaction partner in this process. Many carbonbased electrophiles can be used, leading to the 
+formation of CC bonds,2 but the use of heteroatomic electrophiles becomes challenging. This is due to the high 
+reactivity, and therefore limited functionalgroup compatibility of these species.

@@ -1,0 +1,15 @@
+Description:
+Subject to reduction processes evaluated using RRDE.
+
+Text:
+The rotating ring disk electrode (RRDE) is a powerful electrochemical tool for the 
+mechanistic analysis of electrochemical reactions at electrode surfaces.1,2 This is due to the 
+ability of the RRDE to detect the products of an electron transfer reaction occurring at the inner 
+disk electrode via the outer ring electrode.2 In this way RRDEs can be employed to identify 
+different mechanistic pathways in an electron transfer process.3 RRDEs in particular have found 
+use as a method for assessing electrocatalyst activity for processes such as the oxygen reduction 
+reaction (ORR),46 the nitrogen reduction reaction,7 and carbon dioxide reduction.8 The RRDE 
+ring electrode can also be used as a pH sensor to detect pH changes resulting from reactions on 
+the disk.9,10 
+In a RRDE, the ring and disk electrodes can be made from the same, or different, 
+electrode materials, dependent on the electron transfer process to be studied.

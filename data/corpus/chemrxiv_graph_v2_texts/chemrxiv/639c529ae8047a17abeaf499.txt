@@ -1,0 +1,14 @@
+Description:
+Studied using atom-atom pair correlation functions in molecular dynamics simulations.
+
+Text:
+In the present work, we would like to examine the problem posed by the
+in uence of the local structure of hydrogen bonded labile clusters on the global
+understanding of these liquids, under two dierent perspectives, one based of
+charge order arguments, and the other on the importance of the dynamics of
+the labile structures. For this, we investigate the atomatom pair correlation
+functions of classical models of water, methanol and ethanol. Molecular dynam
+ics simulations are conducted and dynamical atomatom correlation functions
+are computed from the 5ns long trajectories. Details can be found in the Sup
+plemental Information(SI). In general, it is found that all dynamical functions
+are signi cantly decayed within 100ps. The calculated functions are as follows.

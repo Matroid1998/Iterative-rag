@@ -1,0 +1,26 @@
+Description:
+A greenhouse gas that can be captured from industrial emissions for storage to reduce emissions.
+
+Text:
+to Carbon Dioxide Capture 
+The climate change crisis requires largescale human behaviour changes and the rapid deployment of 
+a range of greenhouse gas emissions mitigation technologies. Among these, carbon dioxide capture 
+and storage is an important technology that can reduce emissions from point sources.1 In this approach, 
+CO2 is captured from gas emissions at industrial sources that may include power stations, hydrogen 
+production plants, cement factories and steel factories. This is achieved using a capture material that 
+selectively absorbs CO2 from the mixture of emitted gases (Figure 1). The CO2 is then collected from 
+the capture material via the application of heat (andor a vacuum) and is subsequently stored in the 
+ground where it can be permanently sequestered.
+
+
+---
+
+Description:
+A gas that can be captured and removed from the atmosphere for climate change mitigation.
+
+Text:
+A closely related technology is direct air capture, 
+where a capture material is instead used to capture and remove carbon dioxide directly from the 
+atmosphere. If the carbon dioxide is then collected and stored securely, this technology can offer 
+negative emissions, which are increasingly thought to be important in climate change mitigation 
+pathways.2

@@ -1,0 +1,15 @@
+Description:
+Electrocatalytic materials with high activity for water oxidation containing transition metals.
+
+Text:
+During water electrolysis, hydrogen is produced through electrochemical reduction of 
+water at the cathode while the anode oxidizes water to oxygen via the oxygen evolution reaction 
+(OER). Due to their high activity, perovskite oxides containing transition metals are among the 
+most attractive electrocatalytic materials for water oxidation.1,2 However, during OER, perovskites 
+experience corrosive degradation through the formation of oxidized and watersoluble transition 
+metal species on the surface.310 A lack of fundamental understanding of how structure and 
+composition of perovskite surfaces evolves during OER and which mechanisms drive their 
+electrochemical degradation poses a significant challenge to the development of stable and active 
+electrocatalysts.1114 
+Several major pathways for the electrochemical degradation of perovskite electrocatalysts 
+have been proposed.

@@ -1,0 +1,10 @@
+Description:
+A pyridine-ligated compound that only returns unreacted material in the reaction.
+
+Text:
+Interestingly, Bi(4OMeEtbipy)HVI provided the product in much lower yields in comparison 
+to Bi(4CO2Etbipy)HVI (entry 7). This revealed that electronic effects within the bipyridine 
+ligand might play a crucial role in the efficiency of the oxidation. It was also interesting to note 
+that the reaction employing pyridineligated PhI(O)(Py)2(OTf)2 only returned unreacted 
+
+3

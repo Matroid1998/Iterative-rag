@@ -1,0 +1,14 @@
+Description:
+A biodegradable and safe polymer largely used for the manufacture of delivery systems.
+
+Text:
+In recent decades, polymer based delivery platforms have attracted increasing attention due to the 
+ability to release therapeutics at a controlled rate.1 The release profile can be customized in terms of 
+quantity of drug released and release time depending on the therapeutic application. However, 
+experimental optimization of drug release kinetics requires intensive, timeconsuming and costly 
+optimization steps. Molecular Dynamics simulations can be used as a predictive tool to reduce the 
+experimental workload. Coarsegrained models and enhanced sampling approaches can be combined 
+to describe or phenomenologically explain drug release kinetics that occur at large spatial and 
+temporal scales not easily accessible by atomistic simulations and unbiased approaches. Among 
+polymer candidates, the FDA approved Polylacticglycolicacid (PLGA) is a biodegradable and safe 
+polymer largely used for the manufacture of delivery systems.

@@ -1,0 +1,16 @@
+Description:
+Has inverted bands but exhibits a single carrier pocket at the point.
+
+Text:
+It is curious however that
+band inversion leads to high valley degeneracy in some materi
+als while it does not in others; for example, Bi2Te3 has inverted
+bands and exhibits high valley degeneracy (NV  6),20 whereas
+the chemically similar Bi2Se3 also has inverted bands but exhibits
+a single carrier pocket at the point (NV  1).18,19 While band in
+version is a key characteristic of topological insulators in the con
+text of surfaceedge states,2125 comparatively little is discussed
+regarding the consequent electronic structure in the bulk. Here, we discuss the roles of band inversion on the valley de
+generacy of rocksalt IVVI compounds using a combination of
+density functional theory (DFT) calculations, k p theory, and the
+tight binding method.

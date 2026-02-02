@@ -1,0 +1,25 @@
+Description:
+Molecules that photodegrade more rapidly at concentrations above the saturation limit where self-association is observed.
+
+Text:
+Emission and excitation spectra of some aromatic mole
+cules at airice interfaces acquired by surfaceselective LIF 
+show red shifts compared to spectra in dilute aqueous solu
+tion, indicative of selfassociation.1316 We have recently re
+ported that anthracene molecules in liquid aqueous solu
+tion photodegrade much more rapidly at concentrations 
+well above the saturation limit where spectroscopic evi
+dence of selfassociation is observed than in dilute solu
+tions, and that the photodegradation kinetics shift from 1st 
+to 2nd order at these high concentrations.17 We have hypoth
+esized that aromatic species form clusters at ice surfaces, 
+and that selfassociated anthracene molecules in these clus
+ters react via different mechanisms than monomeric an
+thracene in liquid water or at airwater interfaces.17 How
+ever, other research groups have reported a lack of selfas
+sociation of aromatic species in ice samples, supported by 
+spectroscopic evidence and MD simulations.18, 19 
+The key to predicting reactivity of aromatic species (and 
+perhaps nonaromatic species) in snow and ice may lie in 
+elucidating the interactions of these species with each other 
+and with their surroundings.

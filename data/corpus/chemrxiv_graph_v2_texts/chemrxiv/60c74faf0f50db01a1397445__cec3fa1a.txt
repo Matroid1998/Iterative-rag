@@ -1,0 +1,39 @@
+Description:
+Has high scattering power and forms solid I2 in microporous carbon.
+
+Text:
+In situ small and wideangle Xray scattering (SAXSWAXS) is 
+23 
+sensitive to concentration changes and structural arrangements of molecules and ions in the nanoporous 
+24 
+system2831. Given the high scattering power of all iodine species (I, I3, I5, I2), in situ SAXSWAXS data 
+25 
+should provide rich kinetic and structural information. However, the complexity induced by the multiphase 
+26 
+character of these systems makes the SAXS data analysis highly challenging28. 27 
+Here, we show that I oxidation in microporous carbon (pore size  2 nm) produces solid I2, which can reach 
+28 
+pore fillings of at least 30  and which in the iodide electrolyte partly dissolves into I3 and I5. The latter are 
+29 
+responsible for selfdischarge via shuttling.
+
+
+---
+
+Description:
+Forms solid deposits and undergoes structural evolution in carbon nanopores.
+
+Text:
+In situ Raman and ex situ ultravioletvisible (UVvis) spectroscopy 
+30 
+confirm I2, I3 and I5 during positive polarization and their reduction into I during negative polarization. In 
+31 
+situ SAXSWAXS data show that a majority of these species is confined to the carbon nanopores. Combined 
+32 
+with stochastic modeling, in situ SAXS quantifies the amount of solid iodine deposit and visualizes its 
+33 
+structural evolution in the pores. Based on the derived reaction mechanism, we show that high capacity with 
+34 
+low selfdischarge requires a small concentration of mobile polyiodides and a large fraction of immobile iodine 
+35 
+deposits. 36

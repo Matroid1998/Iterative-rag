@@ -1,0 +1,15 @@
+Description:
+Suitable for LIB applications with a high specific charge capacity of 1099.44 mAhg1.
+
+Text:
+They studied about 79 antiMXene
+materials and found that around 24 antiMXene materials are stable. Moreover, they found two
+of these materials, CoB and FeB, suitable for LIB applications with high specific charge
+capacities (1099.44 and 1135.77 mAhg1, respectively). Inspired by these findings, in this work,
+we have explored six cobalt (Co) containing antiMXene materials, namely, CoAs, CoB, CoP,
+CoS, CoSe, and CoSi, and inspected their ability to serve as anode materials in sodiumion
+batteries (NIBs). Using density functional theory calculations, we computed various physical and
+electrochemical properties such as specific charge capacity, opencircuit voltage, Naatom
+binding energy, Naion diffusion barrier, etc. Our calculations suggested that sodium has greater
+binding energy (0.55 to 1.16 eV) and reasonably low diffusion energy barriers (0.32 to 0.59 eV)
+on CoantiMXenes.

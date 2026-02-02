@@ -1,0 +1,14 @@
+Description:
+A metal reducing agent used in single electron transfer processes.
+
+Text:
+This is noteworthy 
+given the difficulties associated with selective monoalkylation and the attractiveness of reductive deprotection. The current suite of 
+methods includes basemediated elimination approaches10 and metal reducing agents that enable single electron transfer processes 
+(SET) Examples of the latter include samarium diiodide (NOBn),11 lithium (DTBB  NH3),12 sodium,13 ruthenium (ZnCu)14 and 
+titanium reagents (Figure 1C).15 A metalfree alternative has also been demonstrated using a super electron donor.16 Although metal
+based SET methods constitute the vanguard of NO bond cleavage platforms, this dominance must be reconciled with limited func
+tional group compatibility and operational challenges. Elemental sulfur provides a milder alternative to the aforementioned reduct
+ants, but its use is confined to secondary amide derivatives and thus general solutions are required.17 
+
+Figure 1.

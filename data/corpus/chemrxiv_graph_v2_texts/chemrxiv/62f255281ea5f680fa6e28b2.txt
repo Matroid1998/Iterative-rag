@@ -1,0 +1,14 @@
+Description:
+Atoms that are etched from the graphene lattice during high energy ebeam processes.
+
+Text:
+These high energy ebeam processes etched carbon atoms from the graphene lattice,11
+17 rotated bonds in the lattice,12,18 and manipulated foreign atoms introduced during graphene 
+processing.13,14,17 Other processes either used a lower acceleration voltage (520 kV) to remove 
+preexisting defects (e.g. hydrogen19 and fluorine20) from graphene or defined nanostructures 
+in graphene (or carbon nanotubes) through etching C atoms away.2125 Ebeam exposure 
+experiments inside a scanning electron microscope (SEM) have revealed a dosedependent 
+modulation of the carrier density in graphene, attributed to charges generated at the interface 
+with the substrate (typically SiO2).2630 Importantly, all of these processes use the ebeam to 
+manipulate atoms that are already present within the graphene lattice or on its surface without 
+any controlled chemistry through substitution reactions.

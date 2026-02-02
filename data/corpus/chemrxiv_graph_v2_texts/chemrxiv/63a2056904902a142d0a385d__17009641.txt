@@ -1,0 +1,23 @@
+Description:
+A building block used for onstrand Suzuki-Miyaura cross-coupling reactions.
+
+Text:
+To address these limitations, our group has utilized 
+DNAcompatible onstrand reactions with simple non
+fluorescent building blocks to afford a modular 
+approach to screen the performance of internal FMR 
+nucleobase surrogates.30,31 Initial efforts utilized a 4
+bromoaniline (4BrA) building block containing an (S)
+glycol backbone for onstrand SuzukiMiyaura cross
+coupling reactions32 with arylboronic acids to create a 
+variety of pushpull biaryl probes.30 We also utilized an 
+(S)glycol3formylindole (3FI) building block for on
+strand Knoevenagel condensations with heterocyclic 
+quaternary salts for insertion of cyanineindole 
+hemicyanines.31 However, both methods placed 
+rotatable probe bonds (RPBs) in close proximity to 
+neighboring bases of the singlestranded DNA (SS), 
+leading to a restricted environment with high 
+background signal and minimal lightup fluorescence 
+upon hybridization. Additionally, both linear dye types 
+caused considerable duplex destabilization.

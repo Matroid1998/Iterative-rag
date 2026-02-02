@@ -1,0 +1,15 @@
+Description:
+Forms antifluorite slabs that convert into 2D arrays of S2 dimers upon deintercalation.
+
+Text:
+The recent proofofconcept work of Cario 
+and coworkers demonstrated that deintercalation of Cu from LaOCuS led to 
+conversion of its antifluorite (Cu2S2)2 slabs into 2D arrays of (S2)2 dimers in LaOS.14 
+Here, we present multistep deintercalation of Cu from Sr2MnO2Cu1.5Ch2 (Ch  
+S, Se), leading to collapse of antifluoritetype (Cu1.5Ch2)2.5 slabs into 2D arrays of 
+chalcogenide dimers while retaining structural integrity of their intergrown 
+(Sr2MnO2)2.5 slabs. To achieve such a drastic structure transformation, we designed 
+a synthetic pathway focusing on (1) chemoselectivity and (2) the use of reactive 
+synthetic intermediates. Previous use of solvated I2 as oxidant successfully 
+deintercalated 10 of the Cu15 from Sr2MnO2Cu1.5S2 enabling control of magnetic 
+exchange pathways between Mn ion moments.

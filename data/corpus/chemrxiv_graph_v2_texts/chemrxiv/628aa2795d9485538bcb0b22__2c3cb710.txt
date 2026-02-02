@@ -1,0 +1,17 @@
+Description:
+A metal-organic framework (MOF) for which theoretical isotherms can be generated using Monte Carlo simulations.
+
+Text:
+Recently, Dantas et al. suggested an approach to com
+partmentalise adsorption isotherms as the sum of isotherms
+for individual pore compartments. 20 Molecular simulation can
+readily predict gas adsorption based on the crystal structure
+of MOFs. 21 Neimark and coworkers and also shown how to
+generate theoretical isotherms corresponding to the individual
+pore compartments of the MOFs PCN224 and ZIF412 us
+ing Monte Carlo simulations. 22 The above studies used visual
+markers from the crystal structure to identify the pore lim
+its, which may be straightforward for some systems, but this
+may prove nebulous in porous materials with a complex pore
+system. Fig. 1 Atomistic structures of DUT32, DUT75, UMCM1, NU1000, ex
+amined in this study.

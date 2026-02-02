@@ -1,0 +1,17 @@
+Description:
+A quaternary diamondlike semiconductor used to demonstrate the usage of VTAnDeM.
+
+Text:
+VTAnDeM is an opensource soft
+ware available and maintained on a Github repository https
+github.comertekinresearchgroupVTAnDeM. In
+this paper, we use the quaternary diamondlike semiconductor
+Cu2HgGeTe4 11,12,33 as an exemplary multicomponent material to
+demonstrate the usage of VTAnDeM. The effects of phase bound
+aries on the defect formation energetics and resulting carrier con
+centrations are visualized, and the interactive nature of VTAn
+DeM is demonstrated. We encourage that the workow, analysis,
+and gures presented here be interpreted as an example of the
+application of VTAnDeM towards analyzing thermodynamic and
+electronic properties of materials, especially materials for which
+defect engineering may tune or alter fundamental properties.

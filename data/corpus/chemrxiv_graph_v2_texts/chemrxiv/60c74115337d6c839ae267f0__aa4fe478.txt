@@ -1,0 +1,16 @@
+Description:
+Layertype semiconductors with suitable bandgap energy and high absorption coefficient.
+
+Text:
+Previously, transition metal dichalcogenides (TMDCs) were studied as perspective candidates 
+for photoelectrodes with efficiencies up to 17 upon illumination in acidic solutions using n
+type single crystals.7,8 The high potential of such layertype semiconductors (MoS2, MoSe2, WS2, 
+WSe2) is caused by their suitable bandgap energy in the range of 12 eV, a high absorption coef
+ficient (105 cm1), and a longterm stability in an acidic electrolyte.7,911 TMDCs are strongly an
+isotropic materials which can be mechanically exfoliated into atomically thin XMeX slabs 
+(where X  S, Se and Me  Mo, W).12,13 The strong crystallographic anisotropy manifests itself in 
+anisotropic electrical transport properties since the electrical and thermal conductivity along 
+the van der Waals (vdW) planes is by a factor of up to 100 higher compared to the transport 
+perpendicular to the vdW planes.14 So far, it was not possible to transfer the results from small 
+(mm2) single crystal electrodes to large area (m2) electrodes composed of polycrystalline, but 
+highly oriented layers.

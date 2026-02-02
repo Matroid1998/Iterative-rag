@@ -1,0 +1,10 @@
+Description:
+A stabilizer used in Yttria-Stabilized Zirconia for solid oxide fuel cells.
+
+Text:
+It has been proposed that using materials operating at intermediate 
+temperatures could expand applications of fuel cells to largescale stationary applications and 
+smaller scale portable powertransportation markets 10,11. While YttriaStabilized Zirconia 
+(YSZ) has been the most investigated membrane material for SOFCs as well as SOECs, Scandia
+Stabilized Zirconia (SSZ) has shown almost 34 times higher ionic conductivity compared to that 
+of YSZ 9,1215. Moreover, YSZ exhibits a conductivity degradation by an imbalanced

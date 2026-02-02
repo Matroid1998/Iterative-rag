@@ -1,0 +1,15 @@
+Description:
+Involved in ATRP reactions facilitated by microbial external electron transfer (EET).
+
+Text:
+It has been previously shown that 
+electrogenic Cupriavidus metallidurans (C. met)1417 and Escherichia coli (E. 
+coli) are able to start Fe ATRP reactions.4 Metal ion reduction takes place via 
+microbial external electron transfer (EET) involving membrane bound C type 
+Cytochrome (CCyt) proteins, possibly in combination with synergistic Fe 
+homeostasis efflux pumps.9 To further understand the role of microbial EET in 
+Fe catalysis and resulting polymerisation, CCyt (NapC of E. coli) was our 
+engineering target. CCyt was chosen as a target to mediate cell instructed 
+ATRP as cytochromes are known to play a substantial role in bacterial EET that 
+is required for energy production, particularly involving the reduction of metal 
+ions.1821 The electron transport chain of S. oneidensis MR1 is well researched

@@ -1,0 +1,24 @@
+Description:
+Facilitates peptide cyclisation with a cysteine residue following translation.
+
+Text:
+of 
+4CNW and AzAla into cyclic peptides by ribosomal translation. We 
+selected the flexible in vitro translation system (FIT), which uses 
+Flexizymes (small flexible tRNA acylation ribozymes) to prepare non
+proteinogenic 
+acyltRNAs 
+using 
+chemically 
+activated 
+amino 
+acids.10,11 
+In a typical RaPID selection, the initiator is reprogrammed with an N
+chloroacetylated amino acid, that readily undergoes peptide 
+cyclisation with a downstream cysteine after in vitro translation of the 
+linear peptide.1113 We designed compounds ClAc4CNWCME 7 and 
+ClAcAzAlaCME 8 to explore the inclusion of fluorescent amino acids 
+into in vitro translated cyclic peptides via initiator reprogramming. The 
+chloroacetyl (ClAc) group facilitates peptide cyclisation with a cysteine 
+residue following translation, and the cyanomethyl ester (CME) acts 
+as an efficient leaving group for flexizymemediated tRNA charging.

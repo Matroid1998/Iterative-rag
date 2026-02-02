@@ -1,0 +1,50 @@
+Description:
+A bulk platform chemical produced primarily by steam cracking of hydrocarbon feedstock.
+
+Text:
+Ethylene is one of the most important bulk platform chemicals with 
+an annual global production of 214 million tons in 2021.1 The 
+industrially established primary production method is steam 
+cracking of hydrocarbon feedstock, followed by separation and 
+purification.23 In the C2 product stream after the deethanizer 
+column it is necessary to reduce the acetylene content down to 
+below 1 ppmv on the industrial scale by selective hydrogenation 
+to ethylene.34 Such an acetylene removal unit (ARU) can be 
+integrated directly after the deethanizer, where the C2cut 
+contains excess hydrogen and methane (frontend) or after the 
+subsequent demethanizer (tailend).2, 56 Currently the tailend 
+process is more commonly applied as reaction control is more 
+convenient due to control of the hydrogenacetylene ratio.
+
+
+---
+
+Description:
+Selectivity can decrease under high hydrogen fraction conditions.
+
+Text:
+The 
+high hydrogen fraction under frontend conditions can decrease 
+the ethylene selectivity and increase the risk of hot spot formation 
+or even reactor runaway and thus, renders the process control 
+more challenging.23, 5, 711 With a suitable catalyst and safe 
+operations, the excess amount of hydrogen in the frontend 
+integration is advantageous because then a higher conversion of 
+acetylene as well as the suppression of oligo and polymeric by
+products (green oil  C4 hydrocarbons) can be achieved.23, 5, 7
+11 Additionally, this reduces catalyst deactivation and results in a 
+longer catalyst lifetime.23, 5, 711 Furthermore, with the frontend 
+method the removal and subsequent addition of hydrogen 
+becomes obsolete because the hydrogen produced during steam 
+cracking is used within a more efficient process integration.2, 5, 12 
+For both process options the stateoftheart catalysts are 
+palladiumsilver nanoparticles supported on alumina pellets.4, 8 
+However, due to the importance of the reaction, there has been a 
+lot of research with focus on enhancing catalytic properties for 
+palladium catalysts or even developing new catalysts.2, 4, 11 Here 
+metalorganic frameworks (MOFs) with their chemical versatility, 
+high surface area and pore size variability, offer the possibility of 
+directing selectivity and enhance the activity of the selective 
+acetylene hydrogenation.1315 Recent studies on this reaction 
+with specially designed MOFs for the separation of acetylene1621 
+and MOFs as catalysts, e.g.

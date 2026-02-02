@@ -2,7 +2,7 @@
 Prepare structured inputs for LLM-based judgments on iterative RAG runs.
 
 Builds a compact payload combining:
-- Ground truth question + hop path from src/docs/chemrxiv_qa.json
+- Ground truth question + hop path from data/corpus/chemrxiv_qa.json
 - One run entry from a *_reverified.jsonl file in src/responses_reverified/
   (containing evidence, actions_trace, and per-call ledger llm_calls)
 
@@ -32,7 +32,7 @@ from typing import Any, Dict, List, Optional, Tuple
 
 
 SRC_BASE = Path(__file__).resolve().parents[1]
-QA_PATH = SRC_BASE / "docs" / "chemrxiv_qa.json"
+QA_PATH = SRC_BASE.parent / "data" / "corpus" / "chemrxiv_qa.json"
 
 
 # ------------------------------ Judging prompt -------------------------------

@@ -1,0 +1,72 @@
+Description:
+A compound that requires fine adjustment for applications due to thermal stability issues and overlapping absorption spectra of its isomers.
+
+Text:
+Hence, there is an 
+increasing number of applications, such as switchable polymers 
+including 
+liquid 
+crystal 
+elastomers,6 
+molecular 
+photo
+mechanics,7 biomedical applications,4c, 8 data storage,9 solar 
+thermal fuels,10 and many more.11 For each application, the 
+azobenzene has to be finely adjusted for its task due to two 
+main issues.12 Firstly, the thermal stability of the less stable 
+isomer can cause an unavoidable background isomerization.13 
+Secondly, the overlap of the absorption spectra of the isomers 
+result in photostationary states (PSS) of low selectivity for either 
+isomer at a particular wave length;14 this is typically 
+compounded by wavelength dependent quantum yields.
+
+
+---
+
+Description:
+A compound with high thermal stability in the Z-form, with a reported half-life of 92 hours at 60°C in acetonitrile.
+
+Text:
+Current research focuses on orthosubstituted azobenzenes 
+to reach thermally stable Zisomers or an absorption in the 
+visible range of light.12, 1415 Switching occurs with wavelengths 
+as long as 720 nm,16 and the PSS can be very selective (PSSZ 91 
+and PSSE 86 for tetraorthofluorinated azobenzene).14 In 
+addition, they show some of the highest thermal stabilities in 
+the Zform (a halflife of 92 h at 60 C in acetonitrile has been 
+reported for the tetraorthofluorinated azobenzene).15a 
+Despite the utility of orthosubstituted azobenzenes, there 
+are few synthetic methods available for their synthesis (Scheme 
+1a).3, 17 They can be prepared from appropriately substituted 
+anilines15a, 15c, 18 and further functionalized via nucleophilic 
+substitution,19 or through transition metalcatalyzed CH 
+activation.15e, 20 In this fashion, azobenzenes decorated with 
+carbon,21 oxygen,21a, 22 nitrogen19b, 23 and halide19b, 20 
+substituents in the orthoposition have been synthesized.
+
+
+---
+
+Description:
+Can serve as an organometallic nucleophilic component or as an electrophilic halogenated cross-coupling partner.
+
+Text:
+Drawbacks with these methods include the need for transition 
+metal catalysts and long reaction times at elevated 
+temperatures. Surprisingly, the literature is void of cross
+coupling methods in the orthoposition, irrespective of whether 
+the azobenzene moiety serves as organometallic nucleophilic 
+component or as electrophilic halogenated crosscoupling 
+partner,17 despite access to orthometalated azobenzenes.24 
+Hypervalent iodine(III) compounds are efficient reagents for 
+a wide range of transformations under mild reaction 
+conditions.25 Diaryliodonium salts have been recognized as 
+Scheme 1 Orthosubstituted azobenzenes. a. Department of Organic Chemistry, Arrhenius Laboratory 
+Stockholm University, 106 91 Stockholm, Sweden 
+Email berit.olofssonsu.se 
+b. University of Bremen 
+ Institute for Analytical and Organic Chemistry 
+ Leobener Str. 7, D28359 Bremen, Germany 
+ Email staubitzunibremen.de 
+c. University of Bremen, MAPEX Center for Materials and Processes, 
+ Bibliothekstrae 1, D28359 Bremen, Germany

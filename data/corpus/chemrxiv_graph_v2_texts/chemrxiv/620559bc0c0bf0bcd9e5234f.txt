@@ -1,0 +1,22 @@
+Description:
+Standard hydrogen electrode is used as a reference for electrochemical potential measurements.
+
+Text:
+The most 
+prominent representatives are Lithiumion batteries (LIBs)15, which are facing controversy 
+due to the use of critical raw materials such as lithium, cobalt, nickel, or graphite.6 Metallic 
+lithium anodes have a high theoretical capacity (3861 mAhg1), the lowest negative 
+electrochemical potential (3.04 V vs. standard hydrogen electrode (SHE)), and a low density 
+(0.59 gcm3), however, are prone to form dendrites.7 Dendrites are needleshaped structures 
+leading to short circuits, thermal runaways, and even battery failures, although promising 
+approaches such as the electrostatic shielding of the lithium surface through additives have 
+been proposed to tackle this problem.8 Due to these safety concerns, graphite with 
+intercalated lithium ions is still used as anode material in commercial LIBs, reducing its 
+theoretical capacity by roughly one order of magnitude to 372 mAhg1 in present day 
+commercial LIBs.9 
+Therefore, rechargeable multivalent magnesiumion batteries (MIBs) have emerged as a 
+promising alternative, mainly due to the bivalency of the magnesium atom, which allows it to 
+carry twice the charge resulting in a higher volumetric capacity (3833 mAhcm3 vs. 777 
+mAhcm3 of graphite anodes in commercial LIBs).10 Additionally, magnesium has a low 
+electrochemical potential (2.37 V vs. SHE), is highly abundant, of low cost, and is 
+environmentally friendly.

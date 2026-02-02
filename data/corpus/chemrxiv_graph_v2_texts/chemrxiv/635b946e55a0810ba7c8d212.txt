@@ -1,0 +1,40 @@
+Description:
+An element with an insulating nature and electrical conductivity of 1 x 10^-30 S m^-1 at room temperature.
+
+Text:
+The primary challenges faced by LiS technology include the insulating nature of 
+43 
+elemental sulfur (electrical conductivity of 1  1030 S m1 at room temperature) which reduces the 
+44 
+practical sulfur loading and utilisation achievable due to the need for nonactive conductive 
+45 
+additives 2. While cathodes can be manufactured with an idealised morphology, the dissolution 
+46 
+of sulfur into the electrolyte and precipitation of Li2S 1,3, and the subsequent reversal of this 
+47 
+process, manifest in significant alterations of the cathode morphology of the electrode during 
+48 
+cycling 4.
+
+
+---
+
+Description:
+Can form large particles or become isolated, impairing rate performance or capacity in batteries.
+
+Text:
+This dynamic process significantly effects the distribution of sulfur after just a single 
+49 
+operating cycle and can result in the formation of large sulfur particles or the isolation of sulfur 
+50 
+and consequent impairment of rate performance or capacity 5. During prolonged cycling, these 
+51 
+processes also increase the cells impedance by reducing the electrochemically active surface 
+52 
+area in the battery. 6To date, the vast majority of modelling work in the LiS field has focussed 
+53 
+on zero and onedimensional models which do not account for these large microstructural 
+54 
+changes.715However, to develop a more complete understanding of the behaviour of LiS 
+55 
+batteries, threedimensional numerical modelling is required.

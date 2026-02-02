@@ -1,0 +1,14 @@
+Description:
+A scaffold known for its proteolytic resistance, blood-brain barrier permeability, and ability to mimic functional pharmacophores.
+
+Text:
+Cyclodipeptide synthases (CDPSs) use aminoacylated tRNA (aatRNA) substrates to form 
+peptide bonds between two amino acids yielding a cyclic dipeptide product (CDP).1 CDPs 
+contain a diketopiperazine ring, a scaffold that has been coined as privileged due to its 
+remarkable properties such as proteolytic resistance, bloodbrain barrier permeability and 
+the ability to mimic functional pharmacophores. 24 CDPSs act in combination with tailoring 
+enzymes, adding significant complexity to the types of natural products that can be 
+produced.5,6 Because computational prediction of the specificity of CDPSs is challenging7, 
+the determination of substrates and products of each enzyme requires experimental 
+testing, in a time consuming and low throughput process.810 Prior to this work there were 
+no reports of successfully engineering CDPS enzymes to direct substrate selection.

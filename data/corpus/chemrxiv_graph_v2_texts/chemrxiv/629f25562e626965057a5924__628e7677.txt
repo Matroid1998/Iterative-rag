@@ -1,0 +1,49 @@
+Description:
+An alternative fuel considered for energy storage applications.
+
+Text:
+Porous carbons have been extensively investigated for their po
+tential use in gas storage andor capture applications, in partic
+ular related to energy storage applications including for alterna
+tive fuels such as H2 and CH4 or for CO2 capture.19 A materials
+capacity for a particular sorptive is known to be related to the
+porosity of the material, and in particular the pore width plays an
+important role.5,1021 Pore entrances for sorption of some gas at
+a given pressure and temperature must be large enough for the
+molecule in question can diffuse into it.
+
+
+---
+
+Description:
+Has an ideal pore size of 6 Å with slight variations depending on temperature and pressure, and ultramicropores of width 7 Å are considered ideal.
+
+Text:
+There have been several attempts to determine the optimum
+pore size for given sorptives under some conditions. In general,
+the approach to this has been to either identify the ideal pore
+size, i.e. a single width such as 6  for H2 with slight varia
+tions depending on temperature and pressure.12,28 An alternative
+method is to propose larger regions, i.e. an optimum pore size
+range (herein referred to as );15,35,36 for H2 it has been reported
+that ultramicropores, i.e. pores of width 7  are ideal.20,31
+These regions or single widths are determined via purely com
+putational methods or from experimentally determined uptakes
+and pore size distributions (PSDs).
+
+
+---
+
+Description:
+Uptake density reduces drastically as average pore width increases from 10 to 20 Å at 1 bar and 196°C.
+
+Text:
+Pores larger than
+10  , as well as the oftused parameter of average pore size were
+shown to be poor predictors of uptake at these low pressures.13
+Average pore size can however be useful when compared against
+socalled uptake density (uptake per unit surface area). For ex
+ample, Masika et al found that uptake density of H2 (1 bar, 196
+C) reduced drastically as average pore width increased from 10
+to 20  .16
+Journal Name, year, vol.,112  1

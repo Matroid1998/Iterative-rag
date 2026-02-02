@@ -1,0 +1,18 @@
+Description:
+Forms part of the H2 molecule, where 1s-type functions on two hydrogen atoms exhibit constructive and destructive interference.
+
+Text:
+Localized virtuals, such as the
+redundant nonorthogonal basis of atomic orbitals projected into the virtual space,8,9 permit
+development of ecient local correlation methods, because the amplitude tensors describing
+correlation become sparse.10 Other prescriptions for localized orthogonal virtuals exist,1113
+as well as proposals to form sets of virtuals that are specically optimized for correlations
+that involve a given occupied level, as will be discussed below. The virtual orbitals span the entire unoccupied space, which can be contrasted with
+the intuitive notion of antibonding orbitals that exist in 11 correspondence with bonding
+orbitals. The 11 correspondence is evident from constructive and destructive interference of
+a pair of 1stype functions on two hydrogen atoms in H2
+  N (1sA  1sB)
+(1)
+ N (1sA 1sB)
+(2)
+2

@@ -1,0 +1,13 @@
+Description:
+A biochemical feature of tumors exploited by activatable agents to release photosensitizers in cancerous tissues.
+
+Text:
+Activatable agents exploit some of the biochemical features of tumors (e.g., low 
+pH, glutathione, proteases) to release photosensitizers in cancerous tissues, showing promise in 
+reducing bystander toxicity.1620 Alternatively, photosensitizers can be conjugated to antibodies, which 
+favor accumulation in tissues that express specific cellsurface markers.21,22 Whereas these approaches 
+can be effective in the presence of abundant biomarkers, they show limitations at early stages of disease 
+when the biochemical and proteomic signatures of target cells are not dissimilar to those of surrounding 
+healthy tissues (e.g., microtumors). New chemical designs to directly deliver photosensitizers to 
+individual pathogenic and malignant cells under in vivo physiological conditions would significantly 
+extend the clinical applications of PDT.

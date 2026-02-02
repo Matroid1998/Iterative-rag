@@ -1,0 +1,11 @@
+Description:
+Involved in transport resistance and starvation in PEMFCs.
+
+Text:
+Several studies have been conducted to solve the challenges of commercializing PEMFCs. Thermal 
+management 2, water management 3, and oxygen transport resistance 4 account for the majority 
+of investigations. The operating conditions of PEMFC 5, its flow field 6, and the optimization of 
+properties of cells 5 have all been investigated. Modified catalysts 7, the properties of the Gas 
+Diffusion Layer (GDL) 8, the clamping pressure of cells 9, degradation 10, hydrogen economy 
+11 were also studied. The investigations unveiled the behaviour of PEMFC at different conditions. In high current densities, PEMFCs suffer from concentration loss or, in other words, oxygen starvation 
+12. Some studies focused on the transport of oxygen 4,1218.

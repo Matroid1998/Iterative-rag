@@ -1,0 +1,21 @@
+Description:
+A gas that is captured using aqueous amine solutions but requires significant energy input.
+
+Text:
+The carbon dioxide capture problem is of paramount societal im
+portance.1,2 Although aqueous amine solutions are currently being 
+used to capture CO2, they require significant energy input because 
+of the high heat capacity of water and suffer from loss of amines.36 
+Porous solidstate materials are being studied for their potential in 
+offering a platform for mounting amines and foregoing the heat re
+quirement of aqueous solutions.79 In this regard, materials such as 
+carbon,7,10 zeolites,11 silica,1215 resins,16,17 covalent organic frame
+works,18 and metalorganic frameworks (MOFs),1923 are being in
+vestigated as summarized in Table 1, see Table S1 in the Supporting 
+Information (SI) for more detailed comparison.7,10,19,2428 At pre
+sent, they all fall short of meeting the stringent performance require
+ments high uptake capacity, high selectivity, low regeneration en
+ergy, fast kinetics, and long cycling lifetime.29,30 We believe that in or
+der to solve the CO2 problem, significant efforts are required in un
+derstanding the CO2 chemistry in the pores of such materials and in 
+using this knowledge to build viable structures.

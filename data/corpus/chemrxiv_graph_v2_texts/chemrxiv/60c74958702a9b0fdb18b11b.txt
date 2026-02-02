@@ -1,0 +1,15 @@
+Description:
+A residue that can be targeted by covalent fragments in protein interactions.
+
+Text:
+The use of electrophilic fragment libraries has emerged 
+within chemical biology as a powerful approach for the identi
+fication of fragmentprotein interactions.2830 Electrophilic 
+fragments covalently modify the protein, facilitating the use of 
+intact protein liquid chromatographymass spectrometry (LC
+MS) for rapid and robust screening of libraries (103 com
+pounds) to identify binders.28 Covalent fragments that target 
+cysteine residues have been identified and successfully opti
+mised to cellactive tool compounds for proteins including e.g. HOIP and KRas.3132 A limitation of these libraries is that a cys
+teine residue must be present in the vicinity of the binding site, 
+and therefore, only a subset of proteins can be targeted.3334

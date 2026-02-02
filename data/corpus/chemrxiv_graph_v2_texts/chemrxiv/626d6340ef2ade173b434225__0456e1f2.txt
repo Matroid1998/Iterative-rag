@@ -1,0 +1,14 @@
+Description:
+Centered at sulfur vacancies in MoS2 associated with electronic states within the bandgap.
+
+Text:
+Such outcome demands computational studies, usually 
+performed using quantum mechanical electronic structure calculations, employing density 
+functional theory (DFT).1921 These studies have, in turn, revealed that sulfur vacancies are 
+associated with electronic states within the bandgap of MoS2 that are centered at Mo,16 which 
+could be leveraged as active site for CO2RR.21 While these calculations reveal important insights 
+into the scaling relationships of different molecular intermediates of CO2RR at defect sites,1921 
+the electronic features that define the interaction between them and the MoS2 electrocatalyst in 
+the active state remain unclear. Broadly speaking, unambiguous experimental verification of the 
+proposed computational mechanisms of CO2RR by MoS2 has not been articulated, largely owing 
+to the mismatch in length and timescale between theory and experiments.

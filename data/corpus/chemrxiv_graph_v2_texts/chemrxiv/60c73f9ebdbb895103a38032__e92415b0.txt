@@ -1,0 +1,13 @@
+Description:
+Referenced in the context of the GAFF force field.
+
+Text:
+32) force eld for the canonical amino acids and
+the GAFF force eld for methane, ethane and propane. For the
+remaining amino acids and for the uorinated small molecules,
+we used a force eld developed by us (previous own work33
+and SI sections 1 and 2) based on AMBER14 (amino acids) or
+GAFF (small molecules). The main difference between our force
+eld for uorinated molecules and GAFFAMBER14 lies in the
+LennardJones (LJ) parameters of uorine, and of hydrogen (HF)
+bonded to a uorinated carbon.

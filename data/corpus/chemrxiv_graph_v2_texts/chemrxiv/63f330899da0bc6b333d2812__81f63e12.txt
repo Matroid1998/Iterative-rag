@@ -1,0 +1,18 @@
+Description:
+Has an ionization energy of 13.8 eV.
+
+Text:
+In this case summing
+over atomic contributions therefore yields unphysical re
+sults, in particular when extrapolating to systems that
+are larger than the ones contained in the training set. From an ML perspective, the summation of atomic
+contributions is simply one of many possible pooling
+functions.2123 For example, when taking the average in
+stead of the sum, predictions remain constant as the sys
+tem size is scaled.24 Average pooling is therefore often
+used as the default pooling function for intensive prop
+erties. Unfortunately, average pooling can still yield un
+physical results, particularly when the target property is
+localized and the system has low symmetry. To illustrate this, consider a model trained on the
+ionization energies (IEs) of isolated monomers of water
+(12.6 eV) and CO2 (13.8 eV).

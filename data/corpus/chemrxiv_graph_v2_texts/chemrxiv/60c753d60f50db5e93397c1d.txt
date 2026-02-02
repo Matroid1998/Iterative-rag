@@ -1,0 +1,12 @@
+Description:
+Studied for their herbicidal effects using multiple linear regression.
+
+Text:
+Pioneered by Corwin Hansch in the 1960s, Quantitative StructureActivity Relationships (QSARs) and 
+Quantitative StructureProperty Relationships (QSPRs) have been extensively studied for several years. Hansch pioneered the work in this area with his studies of the herbicidal effects of phenylacetic acids 
+using multiple linear regression (MLR), an approach that is relevant even today owing to its simplicity 
+and ease of interpretability1. Since then, QSARs have evolved tremendously, both in terms of the 
+dimensionality and chemometric methods, with the traditional Hansch approach being supplemented 
+with blackbox machine learning and deep learning methods coupled with increasing dimensionality 
+3D, 4D, 5D, and even 6DQSAR. The advantages of multidimensional QSAR are obvious; the 
+consideration of 3D structure and stereochemistry, which its 2D counterpart simply cannot do.

@@ -1,0 +1,13 @@
+Description:
+Forms nanoparticles that can be stabilized inside MOF pores to extend catalyst lifetime.
+
+Text:
+Due to the hingelike 
+connectivity between the metal and ligand, the material normally transitions from a large pore 
+to a narrow pore structure upon solvent removal; however, the added polymer induced reticular 
+stiffness, thereby inhibiting the narrow pore transition.11 In other studies, it was demonstrated 
+that the introduction of oligomers, which have a high density of Lewis base functionality on 
+their backbone, can help stabilize metal nanoparticles (NPs) grown inside MOF pores;1415 this 
+can extend the catalyst lifetime when compared to MOFNP composite excluding the polymer. These reports show that the eventual degradation of the composite catalyst is correlated with 
+the decomposition of the MOF structure itself, which, in turn, allows the release and 
+Figure 1. Schematic representation of the modification of CuTDPAT with polyazodianiline and Pd nanoparticles

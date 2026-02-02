@@ -1,0 +1,28 @@
+Description:
+A pyrimidine base found in RNA.
+
+Text:
+One of the fundamental questions on the origins of life lies in the current style of the
+genetic code seen on Earth. DNA and RNA adopted nucleobases, which are the build
+ing blocks of nucleic acids, as the unit of the code, ATCG for DNA and AUCG for RNA. The structures are categorized into two kinds of molecules pyrimidine bases, including
+cytosine (C), thymine (T), and uracil (U) and purine bases, including guanine (G), and
+adenine (A). A pyrimidine base, a simple ring structure, is bounded by hydrogen bonds to
+a purine base, a fusedring structure to form a complementary pair and deliver the genetic
+information in DNA and RNA.
+
+
+---
+
+Description:
+The first pyrimidine nucleobase found in carbonaceous meteorites.
+
+Text:
+Why had nature selected the molecules with the simple
+combination of ring and fusedring structures as the genetic code? They would have been
+dominant in a certain period in the Earth through the chemical evolution starting from
+prebiotic conditions. The other source of pyrimidine basis would be extraterrestrial, and
+several nucleobases were detected from meteorites as well as amino acids. The chemi
+cal evolution of the prebiotic molecules outside the Earth would be an essential topic to
+disentangle the mystery of the origin of life. Uracil is the rst pyrimidine nucleobase found in carbonaceous meteorites1, behind
+the detection of purine nucleobases, adenine, and guanine2. The tendency of nucleobases
+in meteorites and possible reactions have been discussed3.

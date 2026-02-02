@@ -1,0 +1,21 @@
+Description:
+Used in models to predict the evolution of aggregate populations in polymerization studies.
+
+Text:
+1,3,5benzenetricarboxamides (BTAs)25 or phenylenevinylenes.26 Such models can predict
+31
+the evolution of the aggregate population, resulting in polymerisation curves that are validated by tting the signals detected in
+32
+experiments based on hypotetical polymerization schemes.2729 At atomistic resolution, rstprinciples molecular dynamics
+33
+(MD) simulations were recently demonstrated useful for the study of supramolecular polymers.16,3034 Coarsegrained
+34
+MD (CGMD) simulations have been also employed to study complex supramolecular polymer systems, reaching relevant
+35
+space and timescales for the study of their dynamics.3543 In particular, combined with enhanced sampling methods, such
+36
+models allow to study the molecular exchange between the supramolecular structures and their surroundings,21,31,4447 the
+37
+exchange pathways,48 and the response of these materials to external stimuli.49,50 Such advanced computational approaches
+38
+1

@@ -1,0 +1,117 @@
+Description:
+A Lewis acid used as a catalyst in various organic reactions.
+
+Text:
+i) 4 (1.1 equiv)
+mCPBA (1.1 equiv)
+BF3OEt2 (2.5 equiv)
+I
+CH2Cl2 
+78 C to rt, 2 h
+NaOCl5H2O
+(1.2 equiv)
+3BF4
+3OTf
+I
+1 (1.0 equiv)
+Ar1
+8ac
+6771
+Isolated
+EWG
+I
+Ar1
+EWG
+OAc
+AcO
+i) BF3OEt2 (2.5 equiv)
+ii) 4 (1.2 equiv)
+I
+1a (1.0 equiv)
+O2N
+F
+O2N
+F
+R
+Ar2
+3BF4
+3OTf
+A) Onepot route
+B) Twostep route
+AcOH
+rt, 30 min
+0 C to rt, 16 h
+Prolonged 
+coupling time
+CH2Cl2, rt, 90 min
+Prolonged 
+preoxidation time
+I
+Ar1
+EWG
+Ar2
+EWG
+B(OH)2
+R
+Ar2
+I
+BF4
+3r 72b
+I
+ OTf
+3s 76b
+I
+ OTf
+Me
+O
+F
+O2N
+CN
+F
+O2N
+CO2Me
+3t 71b
+F
+O2N
+I
+ OTf
+F
+3u 75b
+F
+O2N
+O2N
+I
+N
+BF4
+F
+3v 79b
+F
+O2N
+I
+BF4
+3w 67b
+I
+BF4
+3o 57a
+F
+O2N
+I
+3p 49a
+F
+O2N
+F3C
+I
+3q 44a
+F
+O2N
+O2N
+ iii) TfOH (1.2 equiv) 
+ ii) TfOH (1.2 equiv) 
+BF4 or
+ OTf
+BF4 or
+ OTf
+ OTf
+ OTf
+F
+O2N

@@ -1,0 +1,11 @@
+Description:
+A traditional thermoelectric material containing toxic and rare elements.
+
+Text:
+Ideally TE materials would show the low thermal conductivity characteristic of an
+amorphous material (glass) and the high electrical conductivity of a crystal  a phononglass, electroncrystal
+material.3
+In recent years the focus has been on transitioning from traditional thermoelectric materials such as PbTe,
+Bi2Te3 and Bi2Se3, which contain toxic and rare elements, to materials formed from more abundant and
+environmentallyfriendly components. In theory, oxides are a good t for thermoelectric applications given
+their hightemperature stability in air, low toxicity and straightforward synthesis paths.

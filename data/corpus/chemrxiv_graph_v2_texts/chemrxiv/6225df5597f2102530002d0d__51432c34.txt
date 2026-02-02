@@ -1,0 +1,13 @@
+Description:
+Forms double-walled nanotubes and has been studied for its stability and optical properties in aggregates.
+
+Text:
+Interestingly, dierent types of aggregates
+were formed ranging from bilayers and ribbons, to wires and nanotubes, depending on the
+chemical nature of the substituents and the experimental conditions. In this study, we were
+interested in 1,1dioctyl3,3bis(2sulfopropyl)5,5,6,6tetrachlorobenzimidacarbocyanine
+(C8S3) (see Figure 1c), which forms doublewalled nanotubes1418 (see Figure 1d). C8S3
+aggregates have been previously studied with MD simulation by testing the stability of dif
+ferent types of aggregates and their optical properties1921. These studies were limited to
+simulations of preformed aggregates, that do not necessarily allow the molecules to rearrange
+and explore a large portion of the available congurational space.

@@ -1,0 +1,10 @@
+Description:
+Used as a layered material for hydrogen isotope separation through its interstitial space.
+
+Text:
+. Recently, Hu et al.1 reported hydrogen isotope separation by sieving through the 
+interstitial space of layered materials, namely, hexagonal boron nitride (hBN) and molybdenum 
+disulfide (MoS2). While the difference in the entry barrier of the hydrogen isotopes into the 
+interstitial space of the layered materials was found to be the driving factor for the isotope 
+separation, there is no conclusive picture yet on the chemical interaction of interstitial hydrogen 
+with the layered materials, and on the transport mechanism through them.

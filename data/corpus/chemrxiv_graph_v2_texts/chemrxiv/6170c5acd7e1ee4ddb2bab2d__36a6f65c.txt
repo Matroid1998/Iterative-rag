@@ -1,0 +1,11 @@
+Description:
+Involved in the transport mechanism within Na4V2(PO4)3, moving through Na(1) and Na(2) pathways.
+
+Text:
+At 
+maximum, the Na(1) and Na(2) sites (of different multiplicities) can respectively generate 
+one and three Na positions per formula unit, thus leading to the final stoichiometry 
+Na4V2(PO4)3. During electrochemical reactions, although the Na(1) site is involved in the 
+global Naion transport mechanism (Na(2)  Na(1)  Na(2) pathways), it tends to be almost 
+fully occupied regardless of the total Na content into the material, whereas the Na(2) site is 
+partiallyfully emptied or filled depending on the compositions.8,9,1416

@@ -1,0 +1,14 @@
+Description:
+A pollutant that can be converted into value-adding carbon-based products through electrocatalytic reduction.
+
+Text:
+The electrocatalytic reduction of CO2 offers a sustainable and efcient approach to produce carbon
+chemicals, which are traditionally produced via fossil fuels.1 The CO2 reduction reaction (CO2RR)
+provides a pathway to convert CO2 in the atmosphere from a pollutant into valueadding carbon
+based products in the form of chemicals, fuels and feedstock, using surplus renewable energy.26
+Common products of the CO2RR are carbon monoxide (CO), formate (HCOO), and methanol
+(CH3OH), which is in competition with H2 production from the parasitic hydrogen evolution reac
+tion (HER).1,7,8 The most interesting catalyst for the CO2RR today is Cu, as it produces a range
+of valuable multicarbon (C2) products, such as ethylene (C2H4) and ethanol (C2H5OH).911 Ag
+and nickel oxygenatederived catalysts have recently both been shown capable of producing C2
+products,12,13 although at much lower formation rates than seen on Cu.

@@ -1,0 +1,26 @@
+Description:
+Used as electrodes in water-based batteries due to slow kinetics of hydrogen evolution.
+
+Text:
+One example appears in re
+dox flow batteries (RFBs), which offer the potential to de
+liver a lowcost and reliable energy storage solution at the 
+gridscale.1 While vanadiumbased RFB chemistries are cur
+rently the most wellstudied, battery formulations using or
+ganic molecules as the active species are a promising alter
+native as they are domestically manufacturable, decoupled 
+from markets for transition metals, and have a lesser eco
+logical footprint.24 The stability window of the solvent de
+termines the desired electrochemical potential for both an
+ode and cathode halfreactions for waterbased batteries, 
+this dictates a maximum thermodynamically stable voltage 
+of 1.23 V at 25C, although in practice voltages of approxi
+mately 2.0 V are possible due to the slow kinetics of hydro
+gen evolution on carbon electrodes.5 
+A wide range of organic redox couples exist and have been 
+explored as charge carriers in flow battery applications.6 
+Among these, persistent organic radicals are a promising 
+class of active species with highly reversible redox pro
+cesses.7 These molecules have an unpaired valence electron 
+that can either be donated or paired with an accepted elec
+tron to form a closedshell species.

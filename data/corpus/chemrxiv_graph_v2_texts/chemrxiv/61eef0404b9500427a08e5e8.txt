@@ -1,0 +1,18 @@
+Description:
+A substrate involved in enzyme reactions such as those catalyzed by triosephosphate isomerase.
+
+Text:
+In particular, understanding the dynamical behavior of decorating loops that cover 
+enzyme active sites is important as such loops can regulate substrate selectivity, the evolution of 
+new activities, and potentially also turnover rates.3, 1832 As such, targeting the dynamics of such 
+active site loops is attractive from an engineering perspective,16, 33 and therefore there is substantial 
+interest in understanding loop dynamics and its impact on selectivity and catalysis. In this context, there have been extensive studies of a widerange of enzymes, such as 
+triosephosphate isomerase (TPI),34, 35 orotidine 5monophosphate decarboxylase, (OMPDC)36 
+glycerol 
+3phosphate 
+dehydrogenase 
+(GPDH),37, 
+38 
+1deoxyDxylulose5phosphate 
+reductoisomerase,39, 40 and phosphoglucomutase,41 which have been demonstrated to be 
+activated by ligandgated conformational changes.

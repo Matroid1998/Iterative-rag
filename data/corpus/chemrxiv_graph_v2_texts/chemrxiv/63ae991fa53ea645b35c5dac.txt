@@ -1,0 +1,18 @@
+Description:
+A chromophore core that undergoes photoisomerization, switching between cis-trans or trans-cis states.
+
+Text:
+FusionRed also displays
+promising photochemical properties, with excitation (emis
+sion) at 580 nm (608 nm) and a high extinction coefficient
+(EC) at 94,500 M1cm1, which contributes to the proteins
+remarkable efficiency in forming protein fusions 1. For these
+reasons, FusionRed has been used to develop new in vivo
+and in vitro imaging tools such as fluorescent biomarkers
+and reversibly photoswitchable fluorescent proteins 6. Reversibly switchable fluorescent proteins (rsFPs) are no
+table for their ability to undergo a lightmediated confor
+mational toggle (i.e., isomerization) between nonfluorescent
+(off) states and fluorescent (on) conditions 7. This inducible
+photoisomerization is due to the 4(phydroxybenzylidene)
+5imidazolinone (pHBDI) chromophore core undergoing a
+switch from cistotrans or transtocis 7.

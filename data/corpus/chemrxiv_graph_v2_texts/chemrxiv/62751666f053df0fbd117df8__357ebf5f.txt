@@ -1,0 +1,14 @@
+Description:
+Contains ORR active sites at the edges of its layers.
+
+Text:
+Such a detailed understand
+ing is a prerequisite for the systematic optimization of the prepara
+tion methodology, targeting catalysts with high active site densities 
+and turnover frequencies while avoiding catalyst degradation. According to Chung et al.,2 the ORR active sites are FeN4 centers 
+at the edges of graphene layers and OHadsorbed intermediates are 
+formed spontaneously at relevant potentials. Zitolo et al.27 attribute 
+the ORR activity to two FeN4 sites based on fits to Kedge XAS 
+data (EXAFS, XANES) albeit without firm assignment to Mss
+bauer signatures one featuring two endon bound oxygen mole
+cules, the other a sideon bound oxygen molecule.

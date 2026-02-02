@@ -1,0 +1,28 @@
+Description:
+Involved in metal-air batteries as a reactant with metals.
+
+Text:
+Metalair (or metal oxygen) batteries have been a research topic for many decades with the 
+hope of creating high specific energy batteries. However, most of this research is conducted at room 
+temperatures, where a number of challenges remain. For aqueous metaloxygen batteries, such as 
+the aluminumair primary cell, corrosion reactions between the aqueous electrolyte and negative 
+electrode significantly decrease available capacity of the device. While this problem can be 
+mitigated by using high purity metals, this significantly increases cost 1. Nonaqueous electrolytes 
+have been explored for a number of different metalair battery systems, particularly for the lithium
+air system, but the insoluble nature of metal oxide discharge products results in passivation of the 
+air electrode 2.
+
+
+---
+
+Description:
+Ions that serve as charge carriers in a solid oxide fuel cell framework.
+
+Text:
+Another approach, the focus of this article, is to use a solid oxide fuel celltype 
+framework to allow for oxygen ions as the charge carrier, rather than metal cations, as shown in 
+Figure 1. This framework is termed solid oxide metalair battery. In this architecture, oxygen ions 
+transport through a solid electrolyte and combine with metal cations which have donated electrons 
+to the external circuit. The resulting metal oxide is deposited at the interface between the metal and 
+the solid electrolyte. However, as the metal oxide layer grows, there could be transport limitations 
+either due to oxygen anion or metal cation transport though the growth front.

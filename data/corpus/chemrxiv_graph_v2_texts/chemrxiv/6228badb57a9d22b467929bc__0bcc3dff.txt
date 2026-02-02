@@ -1,0 +1,17 @@
+Description:
+Cations formed by the one or two-electron oxidation of amines during AC electrolysis.
+
+Text:
+Despite these exciting findings, 
+the mechanisms behind the controlled oxidation or reduc
+tion of substrates during AC electrolysis remain unclear. Due to the lack of mechanistic understanding, one must go 
+through a timeconsuming reiterative trialanderror pro
+cess to discover the optimal AC electrolysis conditions. Here, we report a mechanism by which AC electrolysis 
+controls the one or twoelectron oxidation of amines to 
+amino radicals or iminium cations, enabling selective 
+amine functionalization by simply adjusting the AC fre
+quency. In this mechanism, the degree of amine oxidation is 
+controlled by managing the redox environment where the 
+amino radical cation III is deprotonated to amino radical IV, 
+utilizing the alternating redox environment of AC electroly
+sis.

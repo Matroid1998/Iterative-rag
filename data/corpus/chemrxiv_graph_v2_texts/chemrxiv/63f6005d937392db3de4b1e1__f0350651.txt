@@ -1,0 +1,14 @@
+Description:
+Organic compounds that can undergo C(sp3)H bond activation under nickel-catalyzed conditions.
+
+Text:
+Mechanistically, the underlying nickelcatalyzed C(sp2)H bond activation process operates 
+via a ligandtoligand hydrogen transfer (LLHT)29 instead of the typical oxidative addition 
+process30. The C(sp2)C(sp3)reductive elimination is considered as the rate determining step 
+(Figure 1b). Based on these findings, we hypothesized that an extension of this concept could 
+help to address the C(sp3)H bond of ketones under comparable conditions and open new 
+catalysis manifold for ketone functionalizations (Fig. 1c). This pivotal step could be either 
+envisaged by coordination of the ketone and acceptor olefin to the nickel(0) triggering a LLHT 
+of the carbonyl C(sp3)H. The LLHT would involve a 7membered transition state and lead 
+to a favorable oxaallyl nickel(II) species. Alternatively, one could formulate a C(sp3)H 
+oxidative addition forming oxaallyl nickel(II) hydride.

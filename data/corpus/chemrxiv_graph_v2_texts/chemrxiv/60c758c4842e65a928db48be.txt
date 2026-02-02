@@ -1,0 +1,16 @@
+Description:
+Used as a substitution atom in molecular structure exploration.
+
+Text:
+Zmatrix templatebased substitution approach 
+Three dimensional molecular structures are often represented by a Zmatrix or Cartesian 
+40 
+coordinates. The two representations can easily be interconverted by freely available software. We 
+use Zmatrix for convenience as bond lengths, bond angles and torsional angles, which are natural 
+quantities for chemists, can be explicitly laid out. (Cartesian coordinates would be very difficult to 
+manipulate using this templatebased substitution method.) As mentioned earlier, templates and 
+substitution sites must be identified manually by human. For simplicity, in this article, we use 
+45 
+hydrogen and halogen atoms (F, Cl, Br and I) as substitutions. The substitution approach can help 
+us explore structures of different chemical compositions and structures of identical chemical formula 
+(constitutional, configurational and conformational isomers) at the same time.

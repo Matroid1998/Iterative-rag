@@ -1,0 +1,8 @@
+Description:
+Used as a buffer layer to facilitate epitaxial growth of sp2BN.
+
+Text:
+We have previously employed an AlN buffer layer to facilitate epitaxial growth of 
+sp2BN on ccut sapphire.13,21 AlN growth on rcut Al2O3 also showed aplane (1120) 
+oriented growth suggesting growth orientations can be altered based on the substrate 
+used.22 Other studies of AlN growth on ccut and acut Al2O3 showed that the growth

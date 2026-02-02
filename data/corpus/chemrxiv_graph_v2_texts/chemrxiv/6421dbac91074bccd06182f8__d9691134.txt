@@ -1,0 +1,18 @@
+Description:
+A greenhouse gas contributing to global warming, released in large quantities by human activities.
+
+Text:
+The escalating levels of anthropogenic carbon dioxide (CO2) in the atmosphere has caused the earths 
+temperature to rise by approximately 1.2o C during the last five decades.1 Currently, human activities release about 40 billion 
+tons of CO2 every year.2 According to the intergovernmental panel on climate change (IPPC), the CO2 emissions would need 
+to be reduced to 20 billion tons per year to limit warming to 1.5o C compared to the preindustrial levels.3 Industrial point sources 
+such as coal, natural gas, and cement industries which contain CO2 in the range of 420  account for more than half of the 
+anthropogenic CO2 emissions.4,5 Effective technologies that can remove CO2 both from industrial sources and directly from 
+the atmosphere are high in demand because the transition to renewable energy alone may be too slow in order to meet climate 
+goals.46 
+The general requirements for an efficient carbon capture technology include high sorption capacity, low energy consumption, 
+high selectivity for CO2 over other gases in the mixture, facile reversibility of adsorption, fast sorption kinetics, and the use of 
+robust, longliving, and inexpensive materials.7,8 To date, the most widely used technology for CO2 capture is amine scrubbing, 
+which requires the use of corrosive, volatile, and toxic solvents.9,10 Alternative technologies for carbon capture include 
+pressure swing adsorption (PSA) and temperature swing adsorption (TSA) on porous sorbents such as zeolites and porous 
+carbons.

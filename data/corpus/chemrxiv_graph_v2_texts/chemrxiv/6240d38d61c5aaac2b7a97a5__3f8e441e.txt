@@ -1,0 +1,15 @@
+Description:
+A penicillinase-resistant antibiotic used to combat methicillin-susceptible strains.
+
+Text:
+Antimicrobial resistance (AMR) has emerged in Staphylococcus aureus stepwise.1 
+The introduction of penicillins such as penicillin G in the 1940s led to penicillinasebased 
+resistance due to the blaZ and related genes. blaZ encodes penicillinase. Upon the 
+introduction of penicillins that are resistant to penicillinases  such as methicillin and 
+oxacillin  methicillinsusceptible strains (MSSA) gave way to MRSA when the bacterium 
+acquired mecA. MRSA express both, penicillinbinding protein 2a (PBP2a) as well as 
+penicillinases.1, 2 MRSA are, consequently, resistant to most lactams. Vancomycin  
+once considered a drug of last resort  became the frontline therapy against MRSA,3 
+giving rise to vancomycinintermediate resistant (VISA) strains.4 VISA isolates are often 
+also resistant to lactams,5 making antimicrobials such as oxazolidinones (e.g., 
+linezolid), and streptogramins (e.g., quinupristindalfopristin) frontline treatments.

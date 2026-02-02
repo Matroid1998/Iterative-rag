@@ -1,0 +1,24 @@
+Description:
+The most commonly used anode material in commercial batteries.
+
+Text:
+Further improvement of energy 
+density (with respect to both mass and volume) is needed, and much attention is currently 
+being directed to a wide range of materials for both the cathode and anode.24 For anodes, 
+one material of great interest is silicon that has a theoretical capacity of 3579 mAhg1, 
+based upon the formation of Li15Si4, which is almost an order of magnitude higher than 
+that of graphite, the most commonly used anode in commercial batteries.5,6 The capacity 
+retention of silicon, however, is poor over several hundred cycles and thus far has seen 
+only limited deployment.7,8 The volume expansion of 300 upon alloying silicon with 
+lithium9 results in pulverization of the material and formation of freshly cleaved Si 
+surfaces, which react with the electrolyte, resulting in the formation of new solid 
+electrolyte interphase (SEI).10 Progressive fracturing and formation of SEI eventually 
+result in disconnection of active Si, degrading the capacity.1114 Various strategies have 
+been employed to mitigate fracture and disconnection, such as optimizing electrolyte 
+composition,1517 including binders and conductive carbon additives,1820 as well as 
+adding protective surface layers encapsulating the silicon.2124 Other strategies include 
+changing the Si morphology to nanowires,2527 reducing the particle size to less than 100 
+nm,2830 and introducing porosity to better accommodate volume expansion.3135 
+Targeted efforts to reduce fracture and improve capacity retention require an 
+understanding of the alloying processes that occur as the voltage is lowered towards 0 V 
+vs Li during lithiation and as the voltage is raised again during delithiation.

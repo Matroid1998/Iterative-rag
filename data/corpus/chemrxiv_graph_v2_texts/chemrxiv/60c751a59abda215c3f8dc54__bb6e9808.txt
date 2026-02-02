@@ -1,0 +1,41 @@
+Description:
+Involved in CH cyanations with unactivated CH bonds.
+
+Text:
+Therefore, CH cyanated amines are valuable synthetic 
+intermediates, for example for the synthesis of amino ac
+ids.1,2 
+One general trend in the CH cyanation of amines is that 
+anilinetype structures appear to be more reactive,316 pos
+sibly due to the lower bond dissociation energy of the func
+tionalized CH bond. In comparison, CH cyanations 
+of tertiary amines with unactivated (not benzylic or ani
+linetype) CH bonds are not as well established. Diverse 
+reactivity platforms have been reported to achieve this 
+overall transformation. The existing protocols can be elec
+trochemically driven,17 photoredoxcatalyzed,1820 Mn and 
+Fe catalyzed,21,22 ClO2 driven,23 or photochemical24; they 
+also include a nonmetal mediated process employing 
+KSCN as cyanation reagent25.
+
+
+---
+
+Description:
+Undergo CH oxidation catalyzed by Fe with a radical rebound mechanism.
+
+Text:
+One common thread in all 
+these methods is that they rely on free radical intermedi
+ates (Scheme 1AB), which inherently limits their func
+tional group tolerance. In an interesting extension of this 
+principle, allyl amines can undergo CH cyanation in the 
+presence of tBuOOHFeCl2 (typical conditions that allow 
+CH cyanation), but then subsequently undergo func
+tionalization at the olefin.26 
+
+Scheme 1. Previous CH cyanation approaches and 
+reported protocol. PA  2picolinic acid 
+
+Recent mechanistic work in the Fe catalyzed CH oxida
+tion of tertiary amines has uncovered a radical rebound

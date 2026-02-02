@@ -214,7 +214,7 @@ def main() -> None:
     category_order = ["Without Context", "Gold Context", "Iterative RAG"]
 
     # Load QA hop data
-    qa_path = base / "docs" / "chemrxiv_qa.json"
+    qa_path = base.parent / "data" / "corpus" / "chemrxiv_qa.json"
     qa_lookup = load_qa_hops(qa_path)
 
     # Collect hop data for each category

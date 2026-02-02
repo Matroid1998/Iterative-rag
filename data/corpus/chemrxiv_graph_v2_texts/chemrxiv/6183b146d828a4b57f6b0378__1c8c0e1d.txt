@@ -1,0 +1,30 @@
+Description:
+A recognized neurotoxin that can be targeted by mimosine-containing peptides for decorporation.
+
+Text:
+Mimosine, or bN(3hydroxy4oxypyridyl)aaminopropionic acid, is a nonproteinogenic amino
+acid found in the members of Mimosoideae clade.1 It has been found to be a reversible inhibitor
+of DNA replication because of its ability to strongly bind to metals in the active site of many
+enzymes.2 Based on this activity, mimosine has been reported to have antimicrobial, antifungal3
+and antiviral properties.4 Moreover, it has also found its way on therapeutic applications, showing
+anticancer activity5 and antiinammatory properties.6
+One of us recently proposed mimosine containing peptides as decorporation agents of Al(III),
+a recognized neurotoxin.7 This proposal is based on the structural similarity of mimosine to de
+feriprone (DFP), a drug used for Fe(II) removal that has also shown promising results on treating
+the accumulation of highvalent metal cations,8 such as Al(III) and Fe(III).
+
+
+---
+
+Description:
+A metal ion for which novel polypeptides are being developed to strongly bind to all six vacancies as decorporation agent candidates.
+
+Text:
+The proposed com
+pounds had similar structures to that of deferoxamine (DFO), another drug used for Fe(II) decor
+poration (see Figure 1). DFO is able to bind to all six vacancies of the Fe(II) making it a very strong
+ligand. Studies have shown that DFO is a more effective decorporation agent than DFP. However,
+it suffers from other issues, such as being poorly absorbed and some secondary effects.9 Thus, the
+development of novel polypeptides able to strongly bind to all six vacancies of Al(III) can be a
+highly promising approach to creating decorporation agent candidates.10 However, the effects of
+this nonprotein aminoacid in the context of a polypeptide chain have not been explored.

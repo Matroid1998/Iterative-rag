@@ -1,0 +1,10 @@
+Description:
+A dependent system involved in quorum sensing activation.
+
+Text:
+Nowadays, there are known twenty transcription factors (TFs) involved in QS; all of them having multiple 
+interactions with each other 6. Las, Rhl, PQS, and IQS are related to the activation of QS and the 
+production of multiple virulence factors (elastase, protease, rhamnolipids, pyocyanin, hydrogen cyanide) 7, 
+8; Las and Rhl are systems of the Lux type, while PQS is a quinolone dependent system. Las and Rhl systems are important for QS activation. These systems have an inductor protein (LasI and 
+RhlI) and a receptor protein (LasR and RhlR); inductors synthesize AIs and receptors recognize them 9. Lux type systems work with acylhomoserine lactone molecules like AIs. These molecules are composed of 
+a lactonic ring and a carbonate chain of variable size connected by an amide.

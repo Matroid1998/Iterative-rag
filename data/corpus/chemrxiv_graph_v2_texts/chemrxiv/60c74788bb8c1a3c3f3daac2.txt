@@ -1,0 +1,23 @@
+Description:
+Forms nanotubes that enhance diffusion of fluids through phonon-induced oscillating friction.
+
+Text:
+1 
+Transport properties of fluids in confinement are essential for both biological and arti
+2 
+ficial systems. Enhancement of diffusion with the preservation of selectivity is essential for the 
+3 
+improvement of separation technologies1, particularly for membranebased systems.2, 3 In bio
+4 
+logical systems, diffusion enhancement is primarily facilitated by pore shape agitation of the 
+5 
+channels embedded in soft matter.48 However, similar effects can also be found in artificial 
+6 
+porous media such as carbon nanotubes in which phononinduced oscillating friction is found 
+7 
+to enhance diffusion of fluids.911 In both cases the nanoscopic oscillation of pore contraction 
+8 
+and expansion propagates cooperatively through the lattice allowing for accelerated transport 
+9 
+properties on a larger length scale. 10 
+Recently, Marbach et al.

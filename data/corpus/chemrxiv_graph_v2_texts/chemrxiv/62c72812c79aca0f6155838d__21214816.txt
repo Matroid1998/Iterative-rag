@@ -1,0 +1,11 @@
+Description:
+Used as a protective group in the synthesis of oligoribonucleotides.
+
+Text:
+Most recently, Meiers research group at NCI used the cyanoethyloxycarbonyl (Ceoc) group and a 
+photocleavable linker for the synthesis of ORNs containing the sensitive ac4C function.14 Deprotection 
+and cleavage were achieved under nonnucleophilic conditions in three steps consisting base treatment, 
+fluoride treatment and photo irradiation. The work constitutes a significant progress in the field. However, 
+many challenges remain. The longest ORN reported was a 15mer along with several 10mer ORNs. The 
+guanosine nucleotide was incorporated with a phosphoramidite without amino protection, which requires 
+careful control of coupling conditions to avoid Nphosphitylation.

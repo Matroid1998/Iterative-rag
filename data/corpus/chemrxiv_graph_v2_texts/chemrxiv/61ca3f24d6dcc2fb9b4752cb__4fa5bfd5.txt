@@ -1,0 +1,13 @@
+Description:
+Adsorbs onto active sites, potentially blocking them in alkaline media.
+
+Text:
+Currently, 
+the two prevalent methods for obtaining hydrogen are protonexchange membrane (PEM) electrolysis 
+7 and alkaline water electrolysis (AWE) 8. The hydrogen production efficiency of PEM 
+electrolyzers is higher but requires Ptbased catalysts 9. In the case of AWE, the key goal is high 
+catalytic activity and stability under intermittent polarization in alkaline media 10. It is well known 
+that the HER rate in alkaline media is inferior to that in acidic ones 11, 12 because of the additional 
+water dissociation step 13, precedes the discharge step, but also due to the blockage of active sites 
+by adsorbed hydroxyl ions, but also partly due to hydroxyl ion adsorption resulting in the blockage of 
+active sites 5.

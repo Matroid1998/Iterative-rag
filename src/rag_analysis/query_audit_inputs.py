@@ -23,7 +23,7 @@ from typing import Any, Dict, Optional
 
 
 SRC_BASE = Path(__file__).resolve().parents[1]
-QA_PATH = SRC_BASE / "docs" / "chemrxiv_qa.json"
+QA_PATH = SRC_BASE.parent / "data" / "corpus" / "chemrxiv_qa.json"
 OUT_DEFAULT = SRC_BASE / "rag_analysis" / "query_audit_input_example.json"
 
 
@@ -130,4 +130,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

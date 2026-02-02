@@ -1,0 +1,22 @@
+Description:
+Organic acids characterized by the presence of a carboxyl group.
+
+Text:
+Therefore, recent method developments 
+22 
+have focused on HRMS coupled with liquid and or gas chromatography, including multidimensional 
+23 
+separations.3135 Ultimately, developing new, more effective analytical strategies within both sample 
+24 
+preparation, analytical separations and data processing is essential to increase our understanding of 
+25 
+petroleum acids. 26 
+Herein, we describe a new methodology for profiling carboxylic acids in crude oil using a halogenated 
+27 
+amine tag with subsequent LC separation and precursor ion search by Orbitrap HRMS. The acidic fraction 
+28 
+was first isolated by LLE using a basic aqueoussolvent solution. The carboxylic acids in the extractant were 
+29 
+then activated and derivatized with 1ethyl3dimethylaminopropyl carbodiimide (EDC) and 4bromoN
+30 
+methylbenzylamine (4BNMA), respectively (Figure 1). The method is based on Marquis et al.

@@ -1,0 +1,17 @@
+Description:
+An iron-based polyanion cathode with performance comparable to LiFePO4.
+
+Text:
+b The Faraday Institution, Quad One, Becquerel Avenue, Harwell Campus, Didcot, OX11
+0RA, United Kingdom. c Thomas Young Centre, University College London, Gower Street, London WC1E 6BT,
+United Kingdom. d Diamond Light Source Ltd., Diamond House, Harwell Science and Innovation Cam
+pus, Didcot, Oxfordshire OX11 0DE, UK
+ Electronic Supplementary Information (ESI) available additional phonon band
+structures, comparison of formation energy correction schemes and machine learned
+descriptor based nitetemperature stabilities. See DOI 00.000000000000.
+are nowadays used in applications including electric vehicles, but
+they suffer from relatively low specic energies4. Other iron
+based polyanion cathodes, such as Li2FeSiO4
+5,6, LiFeSO4F79
+have also being proposed and shown to have comparable per
+formance to LiFePO4.

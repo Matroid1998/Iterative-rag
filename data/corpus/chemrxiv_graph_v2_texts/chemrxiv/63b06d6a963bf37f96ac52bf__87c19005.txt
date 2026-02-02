@@ -1,0 +1,13 @@
+Description:
+A surfactant used to occupy the SWCNT surface and remove noncovalently bound DNA.
+
+Text:
+Surface adsorbed DNA was removed from the SWCNTs in a second 
+step by washing with the surfactant sodium cholate (SC), which occupies the SWCNT surface and 
+removes noncovalently bound DNA43,44. For PBS washing steps, the amount of removable DNA 
+decreased with increasing defect density. For washing with SC no significant difference was 
+visible for different defect densities (Figure S1). Therefore, for GdSWCNTs more DNA
+molecules are strongly bound than for pristine SWCNTs. To test the influence of the covalent 
+character of surface functionalization on analyte recognition, 100 M dopamine (DA) or riboflavin 
+were added to GdSWCNTs of different defect densities (Figure 1 c, d, S2). To compare defect 
+densities between sensors, the position of the E11 peak was compared.

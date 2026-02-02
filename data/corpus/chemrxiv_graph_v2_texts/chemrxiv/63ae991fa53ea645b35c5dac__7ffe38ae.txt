@@ -1,0 +1,18 @@
+Description:
+A chromophore in the FusionRed protein with relevant dihedral angles I and P highlighted.
+
+Text:
+The mecha
+nism of isomerization relies on the rotation about the two
+bonds which bridge the rings of the chromophore, desig
+nated I and P (see Figure 1). If only one bond rotates,
+it is onebondfliplike, while if both bonds rotate in oppos
+ing directions, such that the two rings remain in approxi
+mately the same plane, the mechanism is hulatwistlike 8. Photoswitching proteins can provide a means of highly se
+lective, direct tracking of cellular processes, such as tracking
+the position of proteins within living cells 9,10. FusionRed
+has previously shown potential for producing efficient pho
+toswitches 6, which has been purported to arise from the
+Figure 1. MetTyrGly chromophore in FusionRed protein. Rele
+vant dihedral angles I (blue) and P (red) are highlighted on the
+chromophore.

@@ -1,0 +1,41 @@
+Description:
+Used as a solvent at 60°C in the presence of Josiphos J0031.
+
+Text:
+One 
+way to avoid this issue is by complexing the crude Josiphos to 
+copper bromide, which results in an air and moisturetolerant 
+complex.9 The complexed Josiphos can then be purified via flash 
+chromatography or recrystallization methods without concern of 
+oxidation. The pure (Josiphos)CuBr can be decomplexed using 
+ethylenediamine.9 
+Fe
+Me
+PCy2
+PCy2
+NC
+CN
+C
+R
+R
+
+Rh(cod)Cl2
+Josiphos J0031
+PPTS
+MeCN, 60C
+R
+R
+CN
+NC
+Josiphos J0031
+ee up to 90
+X
+CuCl
+Josiphos J0011
+B2pin2
+MeOK, MeOH
+THF
+Ar
+X
+Ar
+Bpin

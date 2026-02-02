@@ -1,0 +1,49 @@
+Description:
+A two-dimensional material whose lattice defects significantly influence its electronic, optoelectronic, thermal, surface, and structural properties.
+
+Text:
+Lattice defects are ubiquitous in twodimensional materials (graphene and related two
+dimensional materials) and play a significant role in their electronic, optoelectronic, thermal, 
+surface, and structural properties of.16 These defects are present in many form such as 
+vacancies, dislocations, grain boundaries, dopants, and adsorbates, and must be minimized for 
+achieving the best electrical, thermal, and structural properties. Conversely, lattice defects can 
+be beneficial for controlling holeelectron doping, optoelectronic and sensing properties, as 
+well as surface reactions. Over the past decade, several methods have been demonstrated for 
+the introduction of defects in twodimensional materials; however, these methods do not offer 
+precision control and thus can readily cause adverse effects.
+
+
+---
+
+Description:
+A material whose device performance can be reduced by polymer-based lithography.
+
+Text:
+For example, polymerbased 
+lithography, which is traditionally used to pattern graphene has been found to significantly 
+reduce its device performance.79 Solutions to mitigate this include grain boundary engineering 
+to control fieldeffect mobility10 and van der Waals encapsulation by hexagonal boron nitride.9 
+However, in all of these cases, lithographic techniques limit the feature sizes to 10 nm due to 
+the use of photoresist and limits imposed by the energy of the electromagnetic radiation. Higher resolution can be achieved by using electron beams (ebeams), and previous 
+uses of ebeam for defect engineering in graphene involved a high acceleration voltage (80
+300 kV) inside a transmission electron microscope11 to control the elastic (e.g. atomic 
+displacement, knockon damage) and inelastic (e.g. heating) mechanisms induced by the e
+beam.
+
+
+---
+
+Description:
+A material whose lattice can be manipulated by ebeam processes, affecting carrier density.
+
+Text:
+These high energy ebeam processes etched carbon atoms from the graphene lattice,11
+17 rotated bonds in the lattice,12,18 and manipulated foreign atoms introduced during graphene 
+processing.13,14,17 Other processes either used a lower acceleration voltage (520 kV) to remove 
+preexisting defects (e.g. hydrogen19 and fluorine20) from graphene or defined nanostructures 
+in graphene (or carbon nanotubes) through etching C atoms away.2125 Ebeam exposure 
+experiments inside a scanning electron microscope (SEM) have revealed a dosedependent 
+modulation of the carrier density in graphene, attributed to charges generated at the interface 
+with the substrate (typically SiO2).2630 Importantly, all of these processes use the ebeam to 
+manipulate atoms that are already present within the graphene lattice or on its surface without 
+any controlled chemistry through substitution reactions.

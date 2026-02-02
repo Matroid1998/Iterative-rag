@@ -1,0 +1,22 @@
+Description:
+Involved in heterogeneous reactions, such as activation on metal oxide surfaces.
+
+Text:
+11
+In the context of heterogeneous catalysis, computational methods are relatively mature for
+12
+characterizing the transition states of targeted reactions,612 performing microkinetic modeling on
+13
+established reaction networks, and using descriptorbased methods for improving catalysts.1316
+14
+However, a central challenge in characterizing new catalytic interfaces lies in establishing the ki
+15
+netically relevant reaction network, which is often based on intuition and can be timeconsuming
+16
+and error prone to characterize ad hoc.4,5 Indeed, even seemingly simple heterogeneous reactions,
+17
+like methane activation on metal oxide surfaces, can be decomposed into multiple elementary
+18
+steps.17,18 Furthermore, catalytic cycles can involve many intermediates or even open ended reac
+19
+tant lists such that brute force enumeration and characterization are infeasible.

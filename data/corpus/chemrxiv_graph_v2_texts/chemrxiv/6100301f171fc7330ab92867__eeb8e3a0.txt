@@ -1,0 +1,21 @@
+Description:
+A multidentate bridging ligand used in HOIPs.
+
+Text:
+HOIPs have recently emerged as efficient 
+optoelectronic materials thanks to their valuable utility in to ionic 
+transport,1,2 multiferroic3 and photovoltaic applications.47 They 
+possess a high chemical and structural variability through the 
+replacement of the X species with other multidentate bridging 
+ligands such as cyanide CN, thiocyanate SCN, formate HCOO, 
+hypophosphite H2POO or dicyanamide dca, N(CN)2, among 
+others.811 Careful selection, or modification of the linker andor 
+metal cation allows property modulation and enhancement.12 
+The extended hybrid connectivity of HOIPs mean that they share 
+many similarities with metalorganic frameworks (MOFs).1315 
+However, HOIPs are considerably more dense than MOFs given the 
+presence of the Asite cation, which means they are typically unable 
+to selectively adsorb guest species.16 Accordingly, interest in their 
+behaviour does not revolve around porosity, but instead 
+concentrates on ionic conductivity,1 ferroelectric17 and barocaloric18 
+properties.

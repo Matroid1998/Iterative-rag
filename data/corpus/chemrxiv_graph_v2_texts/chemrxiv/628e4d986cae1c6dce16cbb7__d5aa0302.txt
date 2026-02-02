@@ -1,0 +1,62 @@
+Description:
+Materials that can be found in specialized databases for their unique structural properties.
+
+Text:
+2
+2
+Algorithms and implementation
+4
+2.1
+Periodic graph structure
+4
+2.2
+Equilibrium placement
+7
+2.2.1
+Definition
+7
+2.2.2
+Computational aspects
+7
+2.3
+Minimisation of the graph
+9
+2.4
+Search space exploration
+10
+3
+Reduction of the search space
+14
+3.1
+The initial search space
+14
+3.2
+Categorisation of vertices and edges
+15
+3.3
+Reduction through symmetry
+17
+3.4
+Ordering of keys
+17
+4
+Application to materials databases
+18
+4.1
+RCSR, EPINET and IZASC database
+19
+4.2
+MOF structures
+20
+4.3
+Database of aluminophosphates
+24
+4.4
+Hypothetical zeolites
+25
+5
+Conclusion and perspectives
+25
+References
+26
+1

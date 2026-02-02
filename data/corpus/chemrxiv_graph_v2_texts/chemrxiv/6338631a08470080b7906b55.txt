@@ -1,0 +1,23 @@
+Description:
+Forms hydrogen bonds in water, leading to a multitude of possible configurations and energies.
+
+Text:
+On the other hand, MD 
+incorporates kinetic energy, and is therefore 
+able to move away from metastable states 
+and escape local depressions of the potential 
+energy surface; however, this comes at the 
+cost of having an unsatisfactory handling of 
+chemical reactivity because MD generally 
+has no dynamic knowledge of electronic 
+structure. With 
+aqueous 
+systems 
+in 
+particular, MD is unable to adequately 
+ABSTRACT 
+Hydrogen bonded water has a multitude of possible configurations and energies. By treating 
+networks of hydrogen bonded water molecules as directed graphs, and by using a program 
+for reversing cycles in the graphs, significant portions of the energy terrain can be 
+systematically mapped out with relative ease. Configurations that are mutual cycle reversals 
+of each other, or hydrogen bonding families, are observed to have similar energies.

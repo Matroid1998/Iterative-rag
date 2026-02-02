@@ -1,0 +1,49 @@
+Description:
+A key nutrient of prokaryotes that fulfills numerous enzymatic and metabolic functions.
+
+Text:
+dyes, radioactive labels and antibiotics), to image and treat infections.7, 8 A key nutrient of 
+prokaryotes is iron, which fulfills numerous enzymatic und metabolic functions, enabling 
+bacterial growth and pathogenicity. Bacteria evade iron limitation in the host organism through 
+the import of heme and ferric iron.
+
+
+---
+
+Description:
+A metal that is sequestered by siderophores for transport.
+
+Text:
+In the latter case this implies the synthesis and secretion of 
+small, organic iron chelators, socalled siderophores (Greek for iron carriers).9 After iron 
+sequestration from host proteins, the ferric siderophore complexes are recaptured via specific 
+outer membrane transporters called TonBdependent transporters (TBDTs).10 Ferric 
+siderophores constitute cargo for TBDTs, but also other nutrients like heme, carbohydrates, 
+nickel complexes and vitamin B12 are transported by TBDTs.11 Interestingly, TBDTs have also 
+been parasitized by bacteriophages and colicins to board the bacterial cell.12 These 
+transporters are unique to prokaryotes and present an unparalleled gateway to shuttle 
+antibiotics inside bacterial pathogens.13 This was demonstrated by the recently approved 
+siderophorecephalosporin antibiotic cefiderocol (Fetroja).14 The ability to transport even 
+large cargo into bacteria is best illustrated by microcin MccE492, a natural product that consists 
+of an 84 aa peptide chain attached via a sugar linkage to a triscatecholate chelator originating 
+from enterobactin.15 MccE492 exerts its antimicrobial effect at the cytoplasmic membrane after 
+import.
+
+
+---
+
+Description:
+An essential element that prokaryotes acquire using siderophores.
+
+Text:
+The application of natural siderophores as molecular targeting entities is in part 
+hampered by their challenging synthetic access, their chemical lability as well as in some cases 
+by their limited bacterial spectrum.16, 17, 18, 19 Fortunately, much like piracy, prokaryotes seize 
+socalled xenosiderophores (siderophores produced by other organisms or even synthetic 
+siderophore mimetics), to satisfy their iron demand.20 Along those lines, we established 
+enterobactin analogues based on synthetic DOTAM and MECAM scaffolds as robust, readily 
+accessible and variable vectors for bacterial imaging and antibacterial therapy in Gram
+negative and Grampositive bacteria.21, 22, 23 
+TBDTs are composed of a 22 barrel inserted into the outer membrane, a plug domain that 
+closes the channel formed by the barrel, and the TonB box.10,24,25 The incoming ferric 
+siderophore from the extracellular space binds to a specific site on the plug domain, promoting

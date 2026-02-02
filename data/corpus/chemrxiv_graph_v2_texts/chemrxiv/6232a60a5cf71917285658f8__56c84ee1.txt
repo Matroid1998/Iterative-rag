@@ -1,0 +1,12 @@
+Description:
+Serves as an interface for kinetically arrested inverted bilayers of DHDP Er(III) complexes.
+
+Text:
+Dihexadecylphosphate (DHDP) 
+forms an insoluble monolayer on water, and it has been used as an analogue of HDEHP for this 
+purpose.12, 20, 37 At the dodecanewater interface, kinetically arrested inverted bilayer of DHDP
+Er(III) complexes has been observed.13, 37 This phenomena was proposed to underlie the 
+micellization in the organic phases after LLE.13 
+Here, we show that the inverted bilayers of DHDP can be created at airaqueous interface, 
+allowing kinetic and temperaturedependent studies. Using synchrotron Xray scattering 
+techniques and VSFG, we first show that the inverted bilayers form with Lu3 but not with Nd3,

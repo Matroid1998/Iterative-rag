@@ -1,0 +1,14 @@
+Description:
+Precursors of various heterocycles such as furans, thiophenes, and pyrroles.
+
+Text:
+The development of synthetic methodologies to produce 1,4diketones is a wellstudied 
+area of research,13 in large part due to their utility as precursors of various heterocycles 
+such as furans,4 thiophenes,5 and pyrroles.6 While a number of disconnections are 
+possible, perhaps the most commonly used synthetic strategy follows the umpolung 
+approach of disconnecting the 1,4diketone into a nucleophilic acyl group equivalent 
+and an ,unsaturated ketone, such as employed in the Stetter reaction.1 The Stetter 
+reaction uses substoichiometric amounts of an Nheterocyclic carbene (NHC) in the 
+presence of an aldehyde and an ,unsaturated ketone to furnish the desired 1,4
+diketones via a nucleophilic Breslow intermediate. Another possible disconnection 
+would involve generating the 1,4diketone from three distinct fragments.

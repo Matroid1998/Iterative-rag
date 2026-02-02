@@ -1,0 +1,13 @@
+Description:
+A molecule with a large dipole moment of 3.92 D in the gas phase.
+
+Text:
+Acetonitrile (CH3CN, ACN) is one of the most commonly used dipolar aprotic solvents, and
+is used extensively both in basic research and in industry. In the gas phase, the ACN molecule
+has a large dipole moment of 3.92 D1 and polarization eects are expected to increase the
+dipole moment in the liquid signicantly.2 This leads to a relatively large dielectric constant
+and results in high solubility of electrolytes. As a result, ACN is widely used in batteries.3,4
+In the solid phase, the monoclinic ACN crystal is the most stable structure5 in which the
+molecules are oriented in an antiparallel alignment in the plane spanned by the b and c axes,
+while there is mainly dispersion interactions between the molecules in the a direction(see
+g. 1).

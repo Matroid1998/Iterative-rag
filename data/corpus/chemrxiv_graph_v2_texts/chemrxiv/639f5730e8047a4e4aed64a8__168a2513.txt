@@ -1,0 +1,13 @@
+Description:
+A material suitable for strain engineering due to its relatively large size.
+
+Text:
+Graphene and MoS2 are good candidates for strain 
+engineering because they are relatively large (mm) in size. However, strain induction for sub2 
+nm materials is challenging due to the mismatch of lateral size with supports and difficulties in 
+material transfer. Molecular complexes such as metalloporphyrins and metallophthalocyanines are efficient CO2 
+reduction reaction (CO2RR) catalysts because of their electronic structures and the tunable ligand 
+environments surrounding the active sites5. However, these molecules along with most other 
+molecular catalysts primarily reduce CO2 to CO; catalysts that selectively reduce CO2 beyond CO 
+are scarcely reported6,7. An early study of cobalt phthalocyanine (CoPc) in 19848 showed a 
+methanol (MeOH) Faradaic efficiency (FE) of 5.

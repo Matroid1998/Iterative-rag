@@ -1,0 +1,18 @@
+Description:
+A bulk material that is nonpiezoelectric due to its centrosymmetry.
+
+Text:
+These 2D piezoelectrics can also nd in
+teresting applications in new type of electronics such as
+piezotronics1 where the electronic band gap is con
+trolled by the electric potential steaming from piezoelec
+tricity and in piezophotonics2, where light is coupled
+with the piezoelectrically induced charges. For exam
+ple, it has been predicted that the performance of MoS2
+based solar cells can be enhanced by the coupling of semi
+conducting and piezoelectric properties3. Quite often, reduction in materials dimension pro
+motes unique properties. For example, bulk 2HMoS2 is
+a nonpiezoelectric due to its centrosymmetry, whereas
+the monolayer (also odd numbered layers e.g., trilayer)
+has no inversion symmetry thus displaying piezoelectric
+properties4.

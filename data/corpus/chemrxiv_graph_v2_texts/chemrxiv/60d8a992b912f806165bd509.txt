@@ -1,0 +1,13 @@
+Description:
+Used by native CYP450 to attach one oxygen to the substrate and reduce the second oxygen to a water molecule.
+
+Text:
+Due to the versatility in 
+functions and the capability of activating the CH bond which is a commercially important process, 
+Cytochrome P450 (CYP450) provides an ideal scaffold for bioengineering through directed 
+evolution.111 The native CYP450 uses molecular oxygen and attaches one oxygen to the substrate 
+while the second oxygen is reduced as a water molecule.12,13 An axial thiolate ligand (Cysteine) 
+that controls the electron density via the pushpull effect is the hallmark residue of all CYP450 
+enzymes.14,15 Among the members of the P450 family, CYP450BM3 possesses the widest and most 
+exposed substrateaccess channel, and exhibits as such the highest degree of promiscuity among 
+CYP450s.

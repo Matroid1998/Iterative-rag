@@ -1,0 +1,26 @@
+Description:
+Photocurable materials used in medical applications, particularly for minimally invasive surgical procedures.
+
+Text:
+Photocurable polyurethanes are gaining great interest for use in medical applications, particularly for 
+minimally invasive surgical procedures. For example, these types of novel biomaterials can be in the 
+form of injectable (macro)monomers that can be transformed by UV light into elastomeric patches 1. As a result, there is a research focus into new formulations and materials with improved properties, new 
+synthesis routes, and new catalytic systems. The most commonly used catalysts for the synthesis of 
+polyurethanes include antimony trioxide 2, antimony acetate 3, ethylene glycol aluminum 4. However, these homometallic catalysts are toxic and thus require difficult and costly postprocessing to 
+remove residual catalyst, particularly when product is intended for medical applications 5,6.
+
+
+---
+
+Description:
+Polymers synthesized using tin-based catalysts, which are difficult to remove due to toxicity.
+
+Text:
+Tinbased 
+catalysts are another class of popular and effective catalysts for the synthesis of polyurethanes 789. One commonly used example is dibutyltin dilaurate (DBTDL) 10, which is also used for the synthesis 
+of polyesters 1112 and many other elastomers, especially for coating applications 13. However, 
+tinbased compounds are also toxic (with toxicity threshold of 3 ppm 14), and thus they are also 
+difficult and costly to remove from many polymers, including poly(urethaneamides) 14,15, 
+polyurethanes 13 or polylactides 16. Therefore, there is a need to develop new and nontoxicor at 
+least less toxiccompounds for the synthesis of polymers and polymer networks, especially for food 
+packaging or the medical industry.

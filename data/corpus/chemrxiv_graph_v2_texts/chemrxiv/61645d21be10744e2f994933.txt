@@ -1,0 +1,10 @@
+Description:
+A pigment that increases in concentration to harvest more light in photosynthetic organisms.
+
+Text:
+Photoacclimation is a process performed by photosynthetic organisms that is used to 
+regulate their internal energy production following a change in light intensity.1 For example, a 
+decrease in light intensity will trigger a photosynthetic organism to increase its intracellular 
+chlorophyll concentration, allowing each cell to harvest more light in order to compensate for the 
+loss of incident light. In addition to compensating for overall changes in light intensity, 
+photoacclimation can also be used to offset the loss of light in a specific wavelength region.

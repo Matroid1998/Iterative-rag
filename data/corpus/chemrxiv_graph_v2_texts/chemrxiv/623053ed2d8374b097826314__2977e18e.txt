@@ -1,0 +1,9 @@
+Description:
+Forms clusters that exhibit Single-Molecule Magnet behavior, useful in high density data storage applications.
+
+Text:
+In the context of systems suitable for potential applications in 
+high density data storage, the discovery of the SingleMolecule 
+Magnet (SMM) behavior for a cluster of twelve manganese 
+ions12 paved an exciting research way in the molecular mag
+netism field.

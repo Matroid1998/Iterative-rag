@@ -1,0 +1,19 @@
+Description:
+Serve as linkers connecting transmembrane helices in ion channels.
+
+Text:
+Here we will be 
+38 
+concerned with the way a K channel senses voltage. Each VSD of a Na or K channel has four 
+39 
+transmembrane (TM) helical segments, linked by extra or intracellular loops that extend beyond the 
+40 
+membrane. The fourth TM helix (labeled S4) is connected via a linker of several amino acids to a 
+41 
+domain with 8 TM helices, 2 extending from each VSD, that together form the pore through which the 
+42 
+ion passes. Channels of the type we are discussing are closed when there is a voltage of approximately 
+43 
+70 mV, (minus meaning intracellular side negative with respect to the extracellular side), that holds 
+44 
+the channel closed; with 0 mV across the channel, it is open. Fig.

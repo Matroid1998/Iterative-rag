@@ -1,0 +1,37 @@
+Description:
+Forms weak hydrogen bonds with water.
+
+Text:
+Xray absorption spectroscopy (XAS) provides impeccable insight
+into local solvation structure in the vicinity of the chromophore.1
+SoftXAS has been used as a direct probe of microheterogeneity in
+aqueous acetonitrile solutions2 and has revealed the contrasting
+nature between weak ammoniawater and strong ammonium
+water hydrogen bonds.3,4 Xray absorption nestructure (XAFS)
+spectroscopy was also recently applied to study the hydration
+structure about ions of all of the rst row transition metal ele
+ments.5 As the application of XASrelated methods becomes more
+ubiquitous, it is increasingly important that theoretical methods
+meet the challenge of modeling XAS in liquid phase to aid in spec
+tral assignments and to shed light on the atomistic structural de
+tails that lead to key spectroscopic signatures.
+
+
+---
+
+Description:
+Aqueous ammonia is involved in XAS spectral profiles.
+
+Text:
+Despite the complexity of the condensed phase, the methods
+with the most success in reproducing both the energies and in
+tensities of liquidphase XAS are wave function approaches such
+as restricted activespace (RAS)5 and coupledcluster with single
+and double excitations (CCSD).22 These approaches have been
+contrasted with transitionpotential density functional theory (TP
+DFT)2325 and TDDFT, and in both cases the success of wave
+function theory where DFT failed was attributed to the lack of
+double excitations in the DFTbased approaches.26 This hypothe
+sis appears to be bolstered by the fact that perturbative inclusion
+of double excitations via CC2 also fails to accurately model the
+XAS spectral proles of aqueous ammonia and ammonium.

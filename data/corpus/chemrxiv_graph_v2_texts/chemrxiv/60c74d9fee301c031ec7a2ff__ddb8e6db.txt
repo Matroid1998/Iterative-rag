@@ -1,0 +1,15 @@
+Description:
+Used as junctions in native chemical ligation (NCL) for protein synthesis.
+
+Text:
+NCL has been 
+extended beyond Cys junctions via freeradical desulfurization, a robust technique that 
+allows the more common Ala, as well as other amino acids amenable to thiol 
+surrogates, to be used as ligation junctions.45 NCL has produced many useful synthetic 
+proteins,67 including targets for mirrorimage drug discovery,812 functional native and 
+mirrorimage enzymes,1318 mirrorimage proteins for racemic crystallography,1922 and 
+proteins containing complex posttranslational modifications.2326 
+
+However, NCL has several challenges that limit its scope in chemical protein 
+synthesis (CPS).7,27 First, NCL requires high peptide concentrations, typically  1 mM, 
+at neutral pH for efficient ligation.

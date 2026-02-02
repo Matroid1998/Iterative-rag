@@ -1,0 +1,10 @@
+Description:
+Doped in PAHs to create compounds with narrowband emission and high photoluminescence quantum yield.
+
+Text:
+Typically, boronnitrogen 
+(BN) doped PAHs have emerged as the dominant design. For example, Hatakeyama and coworkers 
+designed a BNdoped MRTADF compound, nDABNA, that shows very narrowband emission 
+(FWHM of 18 nm) at a photoluminescence (PL) maximum (lPL) of 467 nm, with a PL quantum yield 
+(FPL) of 90, and where the devices maximum external quantum efficiency (EQEmax) was an 
+impressive 34.4.9 A hyperfluorescence (HF) strategy has been extensively employed to mitigate

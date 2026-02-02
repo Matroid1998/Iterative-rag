@@ -1,0 +1,15 @@
+Description:
+An n-type Zintl pnictide.
+
+Text:
+While most Zintl pnictides are known to show ptype polarity, 
+the recent development of highperformance ntype Mg3Sb2based 
+thermoelectric materials, which exhibit ZT  1.51 at 716 K,13,14 has 
+encouraged further identification of ntype Zintl pnictides. However, fabricating ntype Zintl pnictides is not an easy task 
+because most of the ntype doping is compensated by the socalled 
+killer defects, such as cation vacancy.22 In addition to Mg3Sb2based 
+materials, ABX4,23,24 Eu5xLaxIn2.2Sb6,25 Eu3InAs3,26 and Ba3Cd2P427 
+have been reported as ntype Zintl pnictides so far. The crystal structure of Zintl arsenide Eu5In2As6 belongs to the 
+orthorhombic space group Pbam, as shown in Figure 1.28,29 Each In 
+atom is fourfold coordinated by As atoms to form InAs4 tetrahedra, 
+which are cornershared along the c axis.

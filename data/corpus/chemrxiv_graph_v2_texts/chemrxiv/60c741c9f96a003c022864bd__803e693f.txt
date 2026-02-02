@@ -1,0 +1,16 @@
+Description:
+Catalyzes photochemical OER with a faster reaction at an oxygen-bridged CoCo moiety than a single Co site.
+
+Text:
+Although a number of single
+atom catalysts have been developed for electrochemical reactions,11,12 only few singleatom OER 
+catalysts are reported.1316 
+OER in alkaline medium is an archetypical electrochemical reaction for which bimetallic catalysts 
+are often more active than monometallic catalysts.4,5,1720 Based on timeresolved spectroscopic 
+measurements of intermediates in a photochemical OER catalyzed by Co3O4, Frei and coworkers 
+proposed that an oxygenbridged CoCo moiety reacted much faster than a single Co site.17 
+Moreover, benchmark works showed that the nickeliron oxide (NiFeOx) and cobaltiron oxide 
+(CoFeOx) are among the most active OER catalysts in alkaline solutions.4,5,18,19 Incorporation of a 
+trace amount of iron will significantly enhance the activity of pure NiOx and CoOx, while pure FeOx 
+has low activity.21,22 It follows that instead of singleatom catalysts, a socalled doubleatom 
+catalyst would be more active for OER.

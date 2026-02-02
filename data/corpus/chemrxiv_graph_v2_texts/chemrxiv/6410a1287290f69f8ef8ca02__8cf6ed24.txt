@@ -1,0 +1,125 @@
+Description:
+Plays a crucial role in electrochemical energy storage for lithium-ion cathodes.
+
+Text:
+The exploration and optimisation of novel chemistries
+for lithiumion cathode materials remains a vast area of
+research for the materials science community 15 ow
+ing to the crucial role of electrochemical energy stor
+age in transitioning to a low carbon economy. Dis
+ordered rock salt lithiumion cathodes are an emerg
+ing materials class in this area 69. These materi
+als share the closepacked oxygen framework present
+in most commercial lithiumion cathode materials such
+as the layered rock salt cobalt and nickelrich struc
+tures 10, 11 conferring an excellent masstocharge ra
+tio and volumetric efficiency. While performant, layered
+cobalt and nickel rich structures have poor longterm
+technoeconomic prospects 12.
+
+
+---
+
+Description:
+Reversibly intercalates into the host framework, dependent on atomistic diffusion processes.
+
+Text:
+This is in contrast to
+for examplemanganese and iron which are cheaper and
+more abundant, but their layered structural analogues
+are not stable over many intercalation cycles 1315. Embracing cation disorder enables the use of novel
+cathode chemistries that do not need to maintain a lay
+ered ordering on cycling 7, 1623. The performance
+of any intercalation cathode is limited by the ability of
+lithium to reversibly intercalate into the host frame
+work which is dependent on atomistic diffusion pro
+cesses. Figure 1 illustrates a cubic closepacked oxy
+gen lattice. In both the layered and disordered sys
+tems lithium diffusion occurs from an octahedral hole
+in the O2framework via an octahedral face, into an in
+terstitial tetrahedron.
+
+
+---
+
+Description:
+The energy barrier for lithium hopping is influenced by its stability in the tetrahedral hole.
+
+Text:
+The diffusing ion then occupies
+a new octahedral site via another shared octahedral
+tetrahedral face (an octtetoct hop)6. The energy
+barrier for lithium hopping is then strongly influenced
+by the stability of lithium in the tetrahedral hole 24. The stability of lithium in this tetrahedral transition
+state depends on factors such as the identity of the face
+sharing cations too many facesharing transition met
+als destabilises the lithium in the tetrahedral transition
+state increasing the energy barrier for lithium diffusion
+6, 25. In disordered rock salt cathodes a percolating
+network of lithium sites connected by tetrahedral holes
+with no facesharing transition metals (referred to as
+0TM sites) is generally found to be necessary for ef
+fective longrange diffusion 6, 8, 25.
+
+
+---
+
+Description:
+In disordered rock salt cathodes, a percolating network of lithium sites connected by tetrahedral holes is necessary for effective long-range diffusion.
+
+Text:
+The diffusing ion then occupies
+a new octahedral site via another shared octahedral
+tetrahedral face (an octtetoct hop)6. The energy
+barrier for lithium hopping is then strongly influenced
+by the stability of lithium in the tetrahedral hole 24. The stability of lithium in this tetrahedral transition
+state depends on factors such as the identity of the face
+sharing cations too many facesharing transition met
+als destabilises the lithium in the tetrahedral transition
+state increasing the energy barrier for lithium diffusion
+6, 25. In disordered rock salt cathodes a percolating
+network of lithium sites connected by tetrahedral holes
+with no facesharing transition metals (referred to as
+0TM sites) is generally found to be necessary for ef
+fective longrange diffusion 6, 8, 25.
+
+
+---
+
+Description:
+In disordered rock salts, lithium requires an excess to ensure long-range percolating network connectivity.
+
+Text:
+The pathway for
+singleion lithium hopping and a range of potential tran
+sition state local environments in disordered rock salts
+are shown as a 2D schematic in Figure 2. In a fully random disordered rocksalt with the general
+formula Li1xM 1xO2where M is used as a generic
+symbol for any transition metala lithium excess of
+x 0.09 is required to ensure a long range percolat
+ing 0TM network 6, 26. It is found the connectiv
+ity of the lithium diffusion network is poorer than ex
+pected in a totally random system in almost all cases,
+and substantial lithium excesses are required to give
+good longrange connectivity of the 0TM network 25.
+
+
+---
+
+Description:
+Substitutes for the redox-active transition metal, affecting capacity and anion redox activity in disordered rock salt cathodes.
+
+Text:
+Minimising the lithium excess is desirable, as the addi
+tional lithium substitutes for the redoxactive transition
+metal, reducing the capacity or increasing the anion
+redox activity which can cause voltage hysteresis and
+structural degradation in disordered rock salt cathodes
+27. The cause of the reduced lithium percolation in dis
+ordered rock salt materials relative to the random limit
+is understood to be a consequence of the shortrange or
+dering preferences of the cations, which are comprised
+of contributions from bonding preferences and electro
+statics 8, 25, 28, 29. Thus, finding ways to suppress
+unfavourable shortrange ordering is crucial for improv
+ing the capacity and overall performance of disordered

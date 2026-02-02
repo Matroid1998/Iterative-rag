@@ -1,0 +1,23 @@
+Description:
+Widely applied in optoelectronics, electrochemistry, and used in devices like light-emitting diodes, liquid crystal displays, solar cells, transistors, and gas sensors.
+
+Text:
+ITO 
+is widely applied in optoelectronics4, mostly in lightemitting diodes5, liquid crystal displays6, solar cells7, transistors8, and gas 
+sensors9, but is also commonly used in electrochemistry for electroanalytic devices10, sensing11 and biosensing12. With high quality ITO being readily available commercially and methods for direct deposition already in use13,14, the definition of 
+patterns is still another potential bottleneck. Despite being popular and widely used, the manufacturing of ITO electrodes still lacks a 
+rapid, flexible, cost effective and precise fabrication method that could supplement expensive and time consuming lithography most 
+often used for defining patterns. The use of lasers for the fabrication of ITO electrodes marked a promising development towards 
+achieving highly reproducible, flexible, fast, and easy patterning.
+
+
+---
+
+Description:
+A backing material used in the creation of laser-induced graphene materials.
+
+Text:
+CO2 laser processing has also 
+been used to directly make electrodes by carbonisation of polymers to create laserinduced graphene (LIG) materials, either freestanding 
+or on a backing material, like ITO and this offers a possible advancement towards reducing the high cost of exploiting the laser 
+technology for sensing applications26,27.

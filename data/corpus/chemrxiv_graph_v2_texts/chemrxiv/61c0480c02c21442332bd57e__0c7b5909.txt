@@ -1,0 +1,27 @@
+Description:
+A ligand in the Ru(mcbp)(py)2 catalyst used for water oxidation.
+
+Text:
+Conversion of solar energy into hydrogenbased fuels is considered to be one of the most 
+promising alternatives to fossil fuels.1 Water is an inexpensive and readily available natural 
+source of hydrogen, which has made electrochemical water splitting an intensively pursued 
+research field in the recent decades.2 However, the anodic reaction that leads to the oxidation 
+of water to molecular oxygen is plagued by a high activation barrier, which has steered 
+research towards the development of active and durable water oxidation catalysts (WOCs).3 
+So far, the most intensively studied type of catalysts are the molecular ones, which have the 
+advantage of straightforward structural modification and electronic control.4,5 However, 
+molecular catalysts generally suffer from limited stability, which in many cases can be 
+improved through attachment of the catalysts onto conductive surfaces, where bimolecular 
+decomposition pathways are impeded by restricted translational mobility.6 
+Catalysts based on 1st row transition metals are considered to be more attractive for large 
+scale industrial applications compared to their 2nd and 3rd row counterparts due to their low 
+cost and environmentally benign character.79 However, in practice, higher stability and 
+catalytic efficiency have been observed for ruthenium (Ru) and iridium (Ir)based catalysts, 
+which have made them the most widely studied.1014 Recently, we reported a highly active Ru
+based water oxidation catalyst, Ru(mcbp)(py)2 (mcbp2  2,6bis(1methyl4(carboxylate)
+benzimidazol2yl)pyridine, 1 in Figure 1).15 This catalyst shows an impressive maximum 
+turnover frequency (TOFmax) of approximately 40 000 s1 (calculated from the footofthe
+wave analysis) at pH 9.0,16 which shares the world record in efficiency with a related catalyst 
+developed by Llobet and coworkers.17 Given the remarkable performance of this catalyst, we 
+became interested in immobilizing it on an electrode for application in electrocatalytic water 
+oxidation.

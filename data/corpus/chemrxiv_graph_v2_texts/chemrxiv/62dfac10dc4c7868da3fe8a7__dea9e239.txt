@@ -1,0 +1,31 @@
+Description:
+Forms an isoelectronic relationship with boron cation.
+
+Text:
+of heteroatoms into triangulenes has been regarded as an alternative and accessible 
+approach to modulate the molecular structures and optoelectronic properties of these triangulenes.10
+17 Boron, as a dopant, has received exceptional attention due to its unique photophysical and redox 
+properties as well as its isoelectronic relationship to carbon cation.1826 PAHs and nanographenes doped 
+by boron atom along with other heteroatoms (e.g., oxygen and nitrogen) have found to show good 
+charge transport performance in organic fieldeffect transistors (OFETs)2730 due to the low lowest 
+unoccupied molecular orbital (LUMO) energy levels, and exceptionally high electroluminescence 
+quantum yields in organic lightemitting diodes (OLEDs) through multiresonance thermally activated 
+delayed fluorescence (MRTADF).3134 Intrigued by the properties derived from boron and triangulenes, 
+doping boron atoms into triangulenes could not only enable new insight of investigating triangulenes, 
+but also provide an access to new materials and new functions.11,12,14,17 Borondoped triangulenes can 
+be divided into two categories centerdoped triangulenes and edgedoped triangulenes.
+
+
+---
+
+Description:
+An atom that can bridge the edges of triangulenes.
+
+Text:
+The center
+doped triangulenes by the boron atom mainly focus on the 3triangulene, in which the edges can be 
+bridged by carbon atom and many other heteroatoms like nitrogen and oxygen.12,14 However, the 
+studies on edgedoped triangulenes by the boron atom were excluded until the 4triangulenes edge
+modified by nitrogenboronnitrogen (NBN) was reported recently.17 Since examples of borondoped 
+triangulenes are still rare, further development of new borondoped triangulenes is highly desirable. We herein disclose a straightforward path to access a series of 4triangulenes with three oxygenboron
+oxygen (OBO) units (Figure 1) involving a triple electrophilic borylation reaction. The photophysical and

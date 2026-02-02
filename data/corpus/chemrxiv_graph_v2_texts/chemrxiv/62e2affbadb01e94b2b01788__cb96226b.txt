@@ -1,0 +1,11 @@
+Description:
+A C2 hydrocarbon produced during the electroreduction of CO2 by Cu.
+
+Text:
+New discoveries of improved catalysts, guided by a detailed understanding of structureactivity 
+relationships, are needed in order to progress toward these targets. The selectivity of CO2 electroreduction (CO2ER) is strongly dependent on the nature of the catalyst. Among the 
+single metals which show CO2ER activity10, In and Sn are mainly HCOO producers, while Cu shows a unique 
+ability to reduce CO2 into a wide range of products including C1 compounds (CO, HCOO and CH4) and C2 
+hydrocarbons (C2H4, C2H5OH, and others), typically as an undesirable mixture. 6, 11 A variety of approaches, 
+including surface nanostructuring1214, and tuning the electronic structure by modifying with a second metal, 
+have been introduced to direct the selectivity of Cu towards a specific product.

@@ -1,0 +1,14 @@
+Description:
+A kinase inhibitor approved by the FDA for applications in oncology.
+
+Text:
+In the two decades since the FDAapproved imatinib more than 70 kinase inhibitors, mostly
+for applications in oncology, have been approved and many more inhibitors are in (pre)clinical
+pipelines.6,7 Despite the success, there is still a need for more selective compounds, for socalled
+polypharmacological compounds, which modulate multiple targets, and for compounds, which
+can inhibit mutant kinases to address resistance. However, the development of a new drug from
+earlystage drug discovery to clinical development is a challenging and expensive process that
+takes on average more than ten years and costs more than two billion dollars.8
+Computeraided drug design (CADD) can reduce these costs by decreasing the number of
+compounds to be synthesised and the number of experiments needed, especially when applied
+in earlystage drug discovery.

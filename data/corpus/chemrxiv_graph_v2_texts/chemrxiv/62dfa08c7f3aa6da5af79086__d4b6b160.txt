@@ -1,0 +1,12 @@
+Description:
+Used as a substrate for Ga0.51In0.49P in photovoltaic layer structures.
+
+Text:
+GaInP, for example, has an ideal bandgap engineering potential and is commonly grown as a 
+top photoabsorber in record photovoltaic layer structures1 with either latticematched 
+stoichiometry (Ga0.51In0.49P) to GaAs(100) on Ge(100) substrates,7 or to an underlying GaInAs 
+bottom solar cell.2 
+But even more than the intrinsic properties of the individual layers, their interfaces might 
+govern the overall properties of the device.8,9 Therefore, investigating the properties of such 
+buried interfaces, such as band alignment and space charge layers induced by defect formation 
+or chemical modifications, is crucial for addressing the efficiency losses of these devices.

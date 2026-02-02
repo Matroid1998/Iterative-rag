@@ -1,0 +1,47 @@
+Description:
+Combines hardness and strength with comparatively high toughness due to its brick-and-mortar microstructure.
+
+Text:
+37 
+Strength and toughness are mutually exclusive properties of materials in general and ceramics in 
+38 
+particular. Designs found in biological structural materials such as nacre may provide useful 
+39 
+guidelines to alleviate this tradeoff (Ritchie, 2011). Nacrelike alumina, made of brittle constituents 
+40 
+only, combines the hardness and strength of standard alumina materials, and comparatively high 
+41 
+toughness. This toughness (damage resistance) is achieved mostly by the deviation of cracks along the 
+42 
+platelets interface in their brickandmortar microstructure (Bouville et al., 2014). While the deviation 
+43 
+of cracks in brickandmortar microstructures is well documented, several other toughening 
+44 
+mechanisms can exist in biological or bioinspired materials (Bouville, 2020; Kakisawa and 
+45 
+Sumitomo, 2011).
+
+
+---
+
+Description:
+A material used in nacrelike composites to improve damage resistance through toughening mechanisms.
+
+Text:
+Discrete elements modeling (DEM) has been implemented to understand the 
+46 
+toughening mechanisms of nacrelike alumina and provide guidelines of microstructural features to 
+47 
+implement to improve the damage resistance of these composites (Radi et al., 2020). Establishing 
+48 
+quantitative links between nano to microscopic structures and bulk mechanical properties determined 
+49 
+in standardized fracture tests requires additional mechanical modeling at various scales and methods 
+50 
+that enable imaging the effects of microstructures on the mechanical behavior. For instance, structural 
+51 
+defects (such as local misalignments, variable platelet size) of real microstructures spanning few tens 
+52 
+of micrometers can be modeled by DEM, which suggests that they may have a significant effect on 
+53 
+crack propagation (Radi et al., 2021).

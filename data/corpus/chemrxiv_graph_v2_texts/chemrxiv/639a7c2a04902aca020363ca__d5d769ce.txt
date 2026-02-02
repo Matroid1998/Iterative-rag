@@ -1,0 +1,12 @@
+Description:
+A noble metal used as a cocatalyst in water-splitting reactions.
+
+Text:
+Ever since Fujishima and Honda first discovered in 1972, the electrochemical photolysis of
+water in the presence of TiO2 catalyst to produce H2 gas has become an active research area
+to understand the mechanism of photolysis, and to find cheaper substitutes TiO2 as solutions
+to current energy problems.1 Numerous studies show that other nanoscaled metal oxides
+can also play an important role as photocatalysts in watersplitting reactions 1 to produce
+H2, overcoming the cost and challenges of TiO2.24 However, scaling up H2 gas production
+using metal oxides or metal oxide cocatalysts derived from noble metals like Pt, Ru and Rh
+is a problem due to the high temperatures required for synthesis and related costs.

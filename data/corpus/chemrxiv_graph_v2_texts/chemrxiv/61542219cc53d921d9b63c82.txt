@@ -1,0 +1,13 @@
+Description:
+A reducing source used in reactions requiring stringent conditions for Nmethylated amine synthesis.
+
+Text:
+Nmethylamine is a highvalue chemical product, which is widely used in the fields of drugs, 
+bioactive products, dyes, preservatives, and agrochemicals18. Traditional synthesis methods 
+require toxic and dangerous stoichiometric reagents, such as halogenated methane 9, dimethyl 
+sulfate 10, or diazomethane11. Reactions using these reagents produce a large amount of waste 
+and exhibit low selectivity due to excessive alkylation to N, Ndimethylamine. At present, more 
+environmentally friendly methylating agents such as formaldehyde 12, formic acid 13, 14, and 
+carbon dioxide 1520 are also used to synthesize Nmethylated amines, but the reaction requires 
+excessive reducing agents or more stringent reaction conditions, such as high reaction temperature 
+or excessive reducing sources, such as silane, molecular hydrogen, and so on.

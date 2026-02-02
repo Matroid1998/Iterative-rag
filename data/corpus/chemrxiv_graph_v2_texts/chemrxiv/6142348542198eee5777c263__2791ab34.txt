@@ -1,0 +1,37 @@
+Description:
+An electron-rich complex aiding in the nondissociative hydrogenolysis of N2.
+
+Text:
+The ternary ruthenium hydrides 
+ability to efficiently synthesize NH3 at 10 bar and  573 K conditions 
+lies in the unique chemistry of the coordination complex and the 
+alkali (alkaline earth) metal framework, facilitating a catalytic 
+mechanism bridging homogeneous and heterogeneous concepts, 
+which are clearly distinct from the Ru metal catalyst. For ternary Ru 
+complex hydride catalysts, Ru is in an ionic state, and N2 undergoes 
+nondissociative hydrogenolysis over the hydride(H)rich and 
+electronrich RuH64 complex with the aid of the surrounding Li or 
+Ba cations. The dynamic and synergistic engagement of all the 
+components of the ternary hydrides creates a reaction path with a 
+narrow energy span and leads to ammonia production with superior 
+activities.
+
+
+---
+
+Description:
+A catalytic center in ternary ruthenium hydride that shifts intermediate and transition states in the N2H2 to NH3 reaction path.
+
+Text:
+In this paper, we present the reaction mechanism facilitating ternary 
+ruthenium complex hydrides to successfully produce NH3 at low 
+temperature (448 K  T  573 K) by selective N2 activation and 
+escaping H2 oversaturation. This work shows the unique ability of 
+the RuH64 catalytic center in the ternary ruthenium hydride to shift 
+its ratedetermining intermediate states and transition states of the 
+N2H2 to NH3 reaction path in response to the lowering of the 
+reaction temperature, which brings a significant change in reaction 
+order of hydrogen and ammonia. This variation in the kinetics as a 
+function of operating conditions (temperature, reactant partial 
+pressures, etc.) is not a common phenomenon in catalysis but is 
+observed in some cases 1923.

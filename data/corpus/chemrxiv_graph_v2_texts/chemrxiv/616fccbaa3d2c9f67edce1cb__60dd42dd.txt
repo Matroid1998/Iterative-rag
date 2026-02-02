@@ -1,0 +1,14 @@
+Description:
+A ring structure formed from the conversion of cyclohexane and cyclohexadiene in CPP synthesis.
+
+Text:
+Two 
+major methods for the synthesis of CPPs have been reported (i) converting C6 units, 
+such as cyclohexane and cyclohexadiene, of macrocyclic precursors into benzene 
+rings21,22, and (ii) reductive elimination from macrocyclic metalarene complexes 
+(metal  Pt, Ni, Au)2325. However, even partially fluorinated CPPs (F86CPP, 
+F129CPP, F812CPP, F410CPP, F412CPP) synthesized by the groups of Yamago 
+and Jasti2628 require multiple steps (method (i), Fig. 1b), and there has no successful 
+synthesis of CPP derivatives from orthofunctionalized aryl groups by the Pt method17
+19. We hypothesized that PFCPPs can be obtained in onepot based on method (ii). Considering that the reductive elimination of perfluorobiphenyl occurs from the stable 
+(2,2bipyridyl)Ni(C6F5)2 complex promoted by acids or oxidants29,30, we assumed that

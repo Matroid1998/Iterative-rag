@@ -1,0 +1,28 @@
+Description:
+A greenhouse gas that can be captured and converted into chemicals like methanol.
+
+Text:
+. The United States (US) chemical industry consumes roughly 7,000 trillion BTUs of energy 
+annually, accounting for over 10 of the total energy consumption in 20181. As such, the chemical industry 
+contributes a significant fraction of the US greenhouse gas (GHG) emissions, ranking 7th amongst 
+anthropogenic contributors2. The deepening climate emergency underscores the urgent need to reduce 
+the carbon footprint of manufacturing; key contributors to this footprint are the combustion of fossil fuels 
+and the production of basic feedstocks. A potential decarbonization strategy consists of capturing and 
+converting emitted CO2 into chemicals (e.g., producing methanol through CO2 hydrogenation); alternatively, 
+it is also possible to reduce the generation of CO2 during the production of key feedstocks (such as 
+hydrogen)3.
+
+
+---
+
+Description:
+Emissions are significantly generated from hydrogen production via steam-methane reforming.
+
+Text:
+Hydrogen production, in particular, accounts for 3 of the global CO2 emissions4; this is 
+because nearly 50 of all the hydrogen in the world is produced via steammethane reforming (SMR), 
+which is an energyintensive process5. It is estimated that the global warming potential (GWP) of producing 
+1 kg of hydrogen via SMR is 11.8 CO2eq kg6. Electrolytic watersplitting (e.g., using lowcarbon electricity obtained from renewables) can facilitate the 
+reduction of the CO2 footprint of hydrogen production. In addition, this provides a synergistic approach for 
+helping the power grid balance operations, which is becoming increasingly challenging as more solar and 
+wind power are injected in the grid7.

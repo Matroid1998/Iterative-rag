@@ -1,0 +1,30 @@
+Description:
+Forms one-dimensional linear molecules connected by sp-hybridized carbon atoms.
+
+Text:
+Carbon chains are onedimensional linear molecules of the generic formula 
+R(CC)nR connected by sphybridized carbon atoms. The Hcapped ones, 
+H(CC)nH, is the simplest form of a variety of endsubstituted carbon chains. They 
+are sometimes referred to as polyacetylenes in the literature, which is an error because 
+the polymer with the formula (HCCH)n actually is polyacetylene, while the exact 
+name of H(CC)nH should be polyyne. Early exploration found that Hcapped carbon chains are of relevance in the 
+chemistry of dense interstellar clouds and these highly unsaturated polymers 
+contribute significantly to the astrochemical evolution of the interstellar medium 1. Moreover, they are also detected as intermediates in the formation of polyaromatic 
+hydrocarbons and fullerenes 2.
+
+
+---
+
+Description:
+Forms H-capped chains with size-dependent electronic and optical characteristics.
+
+Text:
+Previous experiments in different media such as gas phase (n  113) 1820, 
+solution (n  210, 12) 18,21, and neon matrix (n  612) 22 have observed the 
+absorption spectra of several H(CC)nH chains and demonstrated their 
+sizedependent electronic and optical characteristics. Also, there were some 
+theoretical studies on the size dependence of the electronic excitation energies and 
+oscillator strengths of the Hcapped carbon chains 23,24. But, perhaps limited by the 
+analytical means at that time, almost all the reports were merely on location and 
+assignment of the absorption band, and there is still a lack of comprehensive analysis 
+of the sizedependent optical characteristics. Furthermore, it is of great theoretical and

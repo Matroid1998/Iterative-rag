@@ -1,0 +1,11 @@
+Description:
+A fuel produced from water splitting, used to store renewable energy.
+
+Text:
+The water splitting reaction provides a promising method to store intermittent renewable energy 
+resources in the form of hydrogen fuel.1,2 Currently the bottleneck of water splitting is its oxidative 
+half reaction, the oxygen evolution reaction (OER), which has a high thermodynamic potential 
+and is kinetically sluggish due to the involvement of four consecutive electrons and protons 
+transfer steps.35 Considerable efforts have been devoted to develop heterogeneous OER 
+catalysts composed of earthabundant metals.47 However, the heterogeneous nature of these 
+catalysts makes it difficult to probe the nature of their active sites.

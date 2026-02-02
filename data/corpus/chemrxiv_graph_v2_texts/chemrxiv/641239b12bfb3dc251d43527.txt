@@ -1,0 +1,10 @@
+Description:
+A metal whose defects in quantum dot shells can be eliminated through extra purification steps.
+
+Text:
+InP QDs have risen to a place of prominence and competitiveness especially as 
+bright and stable emitters for display and LED technologies.57 Recent innovations in InPbased QD 
+emitters have incorporated strategies such as surface oxide removal by HF treatment prior to shelling with 
+a wider band gap material6,8, elimination of indium defects in the shell through extra purification steps 
+prior to shell growth7, and careful engineering of coreshell band alignment through tuning the core size 
+and shell thickness3,5,9 or the composition of the core, the inner shell, and the outer shell layers.1013

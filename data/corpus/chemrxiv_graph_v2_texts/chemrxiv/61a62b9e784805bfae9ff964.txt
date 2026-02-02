@@ -1,0 +1,10 @@
+Description:
+A molecule that binds to ABC transporters, facilitating energy coupling in cells.
+
+Text:
+Energycoupling factor (ECF) transporters are a recently discovered subclass of the superfamily of adenosine 5
+triphosphate (ATP)binding cassette (ABC) transporters. While ABC transporters are present in all prokaryotic 
+and eukaryotic species,14 mediating uptake or extrusion of compounds into and from cells, the ECF transporters 
+are absent in humans but present in approximately 50 of prokaryotic species. This class of proteins mediates 
+the uptake of essential micronutrients such as watersoluble vitamins (e.g., folate,5 riboflavin,6 cobalamin,7 
+biotin,8 niacin,9 thiamine,10 pantothenate11) and metal cations (Ni2 and Co2)12,13 into bacteria and archaea.

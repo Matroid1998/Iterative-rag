@@ -1,0 +1,15 @@
+Description:
+Used in the form of carbon nanotubes in electrochemical techniques, raising concerns about capital cost.
+
+Text:
+Among solid sorbents for TSA and 
+PSA, physisorbents are not very selective, and prone to preferred water adsorption.8 Chemisorbing, 
+grafted amines have similar selectivity as liquid amines, but tend to degrade relatively easily, and 
+the desorption step is energyintensive.9,10 Electrochemical techniques have recently emerged as 
+alternatives to pressure and temperatureswing processes.1113 However, many of them use quite 
+complicated cell architectures that are difficult to scale.14 Frequently, expensive materials such as 
+bipolar membranes, ionexchange membranes, carbon nanotubes, ionic liquid electrolytes, and 
+specialty polymers are used raising concerns about capital cost.13,15,16 Some electrochemical 
+techniques, e.g. EMAR, also employ amines which have the abovementioned limitations.1719 
+Most electrochemical capture techniques involve redoxprocesses which tend to have limited cycle 
+life, and slow kinetics.20,21 Some, for example sea water electrolysis, produce toxic and corrosive

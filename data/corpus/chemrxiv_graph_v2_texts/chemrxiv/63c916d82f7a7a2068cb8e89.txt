@@ -1,0 +1,54 @@
+Description:
+Involved in catalytic hydrogenation reactions, adding to substrate molecules in an atom economic and cost-effective manner.
+
+Text:
+Catalytic hydrogenation reactions are ubiquitous in the industrial synthesis of both bulk and fine 
+chemicals.13 The addition of H2 to a substrate molecule is atom economic and generally cost
+effective, making such reactions very attractive from an environmental point of view.26 This 
+prospect has motivated a continuous effort towards understanding the activation of H2 by 
+transition metal catalysts. Classically, reduced transition metal centers activate the HH bond via 
+two bonding interactions (Figure 1, a) sdonation by the H2 ligand to a metal vacant site and 
+backdonation from the metal delectrons to the s(HH) orbital.
+
+
+---
+
+Description:
+Activated by transition metal catalysts through s-donation and backdonation interactions with the HH bond.
+
+Text:
+Catalytic hydrogenation reactions are ubiquitous in the industrial synthesis of both bulk and fine 
+chemicals.13 The addition of H2 to a substrate molecule is atom economic and generally cost
+effective, making such reactions very attractive from an environmental point of view.26 This 
+prospect has motivated a continuous effort towards understanding the activation of H2 by 
+transition metal catalysts. Classically, reduced transition metal centers activate the HH bond via 
+two bonding interactions (Figure 1, a) sdonation by the H2 ligand to a metal vacant site and 
+backdonation from the metal delectrons to the s(HH) orbital.
+
+
+---
+
+Description:
+Activation with 3d metals is more challenging due to weaker MH bond formation.
+
+Text:
+Strong orbital interactions result 
+in oxidative addition, fully cleaving the HH bond to form a metal dihydride (Figure 1, b).3,4,68 In 
+contrast, weaker interactions result in nonclassical dihydrogen complexes, in which some extent 
+of HH bonding is preserved.810 
+Activation of molecular H2 with 3d metals is generally more challenging than with 4d or 5d metals 
+because they tend to form weaker MH bonds.
+
+
+---
+
+Description:
+A molecule involved in hydrogenation reactions where its HH bond is cleaved by bifunctional catalysts.
+
+Text:
+Nevertheless, the use of 3d metals for 
+hydrogenation reactions has attracted considerable interest in view of their abundance, low cost, 
+and generally lower toxicity.11 Bifunctional catalysts that rely on ligands actively participating in 
+the cleavage of the HH bond1114 play a central role in this transition (Figure 1, c).1113,1519 In 
+particular, Lewis bases incorporated in the ligand can accept a proton from the H2 molecule to 
+generate a hydride.11,13,2023 A related, very successful strategy relies on reversible

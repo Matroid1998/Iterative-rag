@@ -3,7 +3,7 @@
 Index ChemRxiv data into Chroma.
 
 Goals:
-- Ingest the already-extracted text files under `docs/chemrxiv_graph_v2_texts`.
+- Ingest the already-extracted text files under `data/corpus/chemrxiv_graph_v2_texts`.
 - Also index the Hugging Face dataset BASF-AI/ChemRxiv-Paragraphs on the fly
   (streamed) without saving it to disk.
 
@@ -11,14 +11,14 @@ Dependencies:
   pip install chromadb sentence-transformers datasets tqdm
 
 Examples:
-  # Index everything using defaults (docs folder + HF dataset streamed)
+  # Index everything using defaults (data/corpus folder + HF dataset streamed)
   # Persisting to ./chroma_store and collection name 'chemrxiv_graph'
   python scripts/index_data.py \
     --persist chroma_store \
     --collection chemrxiv_graph
 
   # Only the existing text files folder
-  python scripts/index_data.py --only docs --docs-root docs/chemrxiv_graph_v2_texts
+  python scripts/index_data.py --only docs --docs-root data/corpus/chemrxiv_graph_v2_texts
 
   # Only the HF dataset (cc-by), limit per split
   python scripts/index_data.py --only hf --hf-config cc-by --hf-max-per-split 20000 --hf-streaming
@@ -303,7 +303,7 @@ def main(argv: Optional[Iterable[str]] = None) -> int:
     ap = argparse.ArgumentParser(description="Index ChemRxiv graph data into Chroma")
     ap.add_argument("--persist", default="chroma_store", help="Chroma persist directory")
     ap.add_argument("--collection", default="chemrxiv_graph", help="Chroma collection name")
-    ap.add_argument("--docs-root", default=os.path.join("docs", "chemrxiv_graph_v2_texts"), help="Root folder of extracted text files to ingest")
+    ap.add_argument("--docs-root", default=os.path.join("data", "corpus", "chemrxiv_graph_v2_texts"), help="Root folder of extracted text files to ingest")
     ap.add_argument("--only", choices=["all", "docs", "hf", "file"], default="all", help="Which sources to index")
     ap.add_argument("--device", default="cpu", help="Device to run embeddings on (cpu, cuda, mps, etc.)")
     ap.add_argument("--model-name", default=EmbedderConfig.model_name, help="SentenceTransformer model name")

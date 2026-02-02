@@ -1,0 +1,12 @@
+Description:
+Forms planar G-quartets through Hoogsteen hydrogen bonding.
+
+Text:
+As 
+such, structural insight into G4s and G4ligand complexes is useful to assist in ligand design. G4s consist of planar Gquartets, formed by four guanine bases hydrogenbonded in 
+a Hoogsteen motif (Figure 1a), and these quartets can stack vertically to produce the full G4 
+structure. This stacking requires the presence of metal ions to stabilise the structure. Overall, 
+G4s are therefore stabilised by the Hoogsteen hydrogen bonding to form quartets of bases 
+and  stacking interactions between Gquartets to form the G4 structure. There are also 
+specific metal ion interactions (direct inner spheres coordination) with the O6 carbonyl oxygen 
+of the guanine bases as well as nonspecific electrostatic ionic interactions. However, the

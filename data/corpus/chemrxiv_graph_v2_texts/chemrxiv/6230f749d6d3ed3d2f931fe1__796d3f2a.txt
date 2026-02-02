@@ -1,0 +1,30 @@
+Description:
+Consumed in fully electrochemical processes for ammonia generation, operating at near-ambient conditions.
+
+Text:
+Owing to its high volumetric energy density and facile liquefaction at moderate 
+temperature and pressure conditions,1 renewablygenerated ammonia is a compelling lowcarbon 
+fuel for the heavy transportation sector.2 
+Fully electrochemical processes for ammonia generation, consuming only nitrogen, water, 
+and renewable electricity, have received a great deal of recent interest in academic research, as 
+they can operate at nearambient conditions and respond dynamically to power supply 
+intermittencies.3,4 Despite labscale reports of fully electrochemical ammonia generation processes 
+of all stripes, including high temperature electrochemical processes,57 ambientcondition 
+processes using aqueous8,9 and nonaqueous electrolytes,1013 batch semielectrochemical 
+processes,14,15 as well as plasmabased processes,16,17 these approaches are nearly universally 
+assessed to lack the efficiency and robustness required to produce ammonia economically at scale 
+in their present form.
+
+
+---
+
+Description:
+Reacts with hydrogen at high temperature and pressure to synthesize ammonia in the Haber-Bosch process.
+
+Text:
+Processes which utilize watersplitting derived hydrogen and traditional HaberBosch 
+reactors report ammonia costs of 0.81.2 kg NH3,1821 though there are reports of ammonia costs 
+in the 0.40.6 kg NH3 as well.22 However, there are several drawbacks to these processes that 
+could make a fully electrical ammonia production approach attractive. HaberBosch ammonia is synthesized by reacting nitrogen and hydrogen at high 
+temperature and pressure in large, centralized plants.4 Typically, the hydrogen is derived from 
+fossil fuels such as coal or natural gas, most commonly via the steam reforming process.

@@ -1,0 +1,18 @@
+Description:
+Forms various hydrides.
+
+Text:
+LaH10 is perhaps the most
+recognisable example of this class, predicted and analysed theoretically8 before experiments
+confirmed the structure9 and then superconductivity at 250 K.10,11 Other examples include
+CaH6,,12,13 zirconium hydrides including ZrH3, Zr4H15, and ZrH6,1417 and various hydrides
+of yttrium.8,1820 Some predictions of new hydride superconductors are yet to be realised,21
+which has been attributed to shortcomings in DFT methods or the possibility that the su
+perhydrides are not conventional phononmediated superconductors described by BCS the
+ory.22,23
+The workhorse of this field is crystal structure prediction (CSP), an umbrella term for
+computational methods for determining the crystal structure of a material without any prior
+information.2429 Studies utilizing this method generally identify the most thermodynam
+ically stable phases for a chosen AHx system as a function of pressure by running CSP
+calculations at various pressures and AH ratios.8 Superconducting critical temperatures
+2

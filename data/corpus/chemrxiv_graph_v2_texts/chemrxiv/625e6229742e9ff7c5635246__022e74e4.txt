@@ -1,0 +1,32 @@
+Description:
+An excellent electrocatalyst for HER due to its thermoneutrality for hydrogen adsorption.
+
+Text:
+The differences in the catalytic activities of metals towards HER in an acidic medium (0.5M 
+H2SO4) is assumed to be explainable via the Sabatier Principle.1 According to the Sabatier 
+principle, HER activity depends on metalhydrogen (EMH) binding strength, which leads to 
+a volcano type plot when using EMH as a descriptor of the activity of metals for HER.2 In 
+this scenario, metals like Pt or Ptgroup metals are excellent electrocatalysts for HER due to 
+their thermoneutrality for hydrogen adsorption (optimum metalhydrogen binding energy 
+leads to EMH 0 eV).3 But this reasoning cannot be extended to the alkaline HER, 
+particularly it fails to explain the sluggish reaction kinetics of HER on Pt in alkaline media.
+
+
+---
+
+Description:
+A metal whose hydrogen evolution reaction kinetics are pH dependent.
+
+Text:
+In the past, several hypothesis have been put forward to explain the pH dependency of 
+HER kinetics on Pt.511 It was initially suggested that the stronger PtH binding energy in 
+alkaline media, which can be corelated to shifts in the HUPD peaks with pH,7 is the sole reason 
+for the slower rate of HER in alkaline electrolytes., However, it was later shown that the 
+EMH is an inherent property of a metal, and the variations in HUPD peak positions are due to 
+the competitive mechanism between H and water adsorption, where the latter becomes 
+weaker at high alkalinity.7,8,11 Alternatively, specific adsorption of cations and their different 
+capability in stabilizingdestabilizing OH has also been proposed as the origin of shift in the 
+HUPD peaks.12 
+In a different work, the binding energy of PtH2O instead of PtH binding energy was 
+taken considered to explain the pH dependent HER kinetics of Pt in a highly alkaline 
+medium.

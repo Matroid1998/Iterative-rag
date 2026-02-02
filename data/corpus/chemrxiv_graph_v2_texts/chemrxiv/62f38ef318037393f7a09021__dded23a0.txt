@@ -1,0 +1,33 @@
+Description:
+An amino acid residue that selectively adds onto the alkynyl bond of ethynylbenziodoxolones.
+
+Text:
+of hypervalent iodine onto biomolecules under physiological conditions. Tyrosine residues were engaged in 
+a selective addition onto the alkynyl bond of ethynylbenziodoxolones (EBX), resulting in stable vinylbenziodoxolones (VBX) bioconjugates. The methodology 
+was successfully applied to peptides and proteins and tolerated all other nucleophilic residues, with the exception of cysteine. The generated VBX were further 
+functionalized by palladiumcatalyzed crosscoupling and azidealkyne cycloaddition reactions. The method could be successfully used to modify bioactive 
+natural products and native streptavidin to enable thiolmediated cellular uptake.
+
+
+---
+
+Description:
+Undergoes C-modification through three-component Mannich-type reactions and reactions with aryldiazonium salts.
+
+Text:
+Several elegant methods have been reported for Cmodification 
+of tyrosine, such as threecomponent Mannichtype reactions,9 
+or reactions with aryldiazonium salts,10 diazodicarboxamides11 
+and radicals.12 Ofunctionalization has also been described, with 
+for example reaction with electrophilic allyl palladium 
+complexes,13 SuFEx reagents14 and glycosylation reactions.15 
+Functionalization 
+has 
+also 
+been 
+achieved 
+via 
+dearomatizationrearomatization strategies,16 or formation of 
+a rhodium arene complex.17 All these strategies have 
+advantages, but also inherent limitations, and therefore the 
+development of alternative methods is still highly desirable.

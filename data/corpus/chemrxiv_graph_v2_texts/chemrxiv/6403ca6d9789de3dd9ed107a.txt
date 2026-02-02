@@ -1,0 +1,43 @@
+Description:
+A class of heteroaromatic compounds isomeric to the indole motif.
+
+Text:
+paraQuinone methides (pQMs) are a variety of compounds that have been 
+extensively studied in the organic synthesis field over the past few years.1 They can be 
+characterized as reactive intermediates containing an electrophilic site.2 Therefore, there 
+is recent development of nucleophilic additions to pQMs as 1,6Michael acceptors using 
+different types of catalysts.3 Some Lewis acids can be used as catalysts in these reactions 
+since they coordinate with the carbonyl group of the pQMs, rendering the olefin more 
+electrophilic and thus more prone to 1,6nucleophilic conjugate addition.4 To the best of 
+our knowledge, the reaction between paraquinone methides and indolizines have not 
+been extensively studied. Indolizines are a class of heteroaromatic compounds isomeric to the indole motif.
+
+
+---
+
+Description:
+Substrates used in C3-functionalization and conjugated additions to unsaturated systems.
+
+Text:
+disclosed a Bronsted acidcatalyzed 
+protocol to the C3functionalization of indolizines, which focused on orthomethide 
+quinones as substrates (Scheme 1a).7b paraMethide quinones (used as substrate or 
+generated in situ from dehydration of a parahydroxybenzyl alcohol) were also shown to 
+be suitable electrophilic partners in this reaction, nevertheless only two examples were 
+reported and in moderate yields. Consequently, the former examples of alkylation of 
+indolizines with pQMs suffered from limited scope in terms of both reactants. In previous works carried out by our research group, we have developed some 
+synthetic methodologies exploring indolizines as substrates in conjugated additions to 
+,unsaturated systems. In 2017, the enantioselective conjugate addition of indolizines 
+to enones catalyzed by chiral phosphoric acid (S)TRIP was explored.
+
+
+---
+
+Description:
+Compounds that can undergo Friedel-Crafts-type conjugated additions.
+
+Text:
+Several C3
+alkylated indolizines were obtained in good yields, with enantiomeric ratios of up to 982 
+(Scheme 1b).8 More recently, an efficient, catalystfree protocol for FriedelCraftstype 
+conjugated additions of indolizines to in situgenerated oxidized MoritaBaylisHillman

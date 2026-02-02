@@ -1,0 +1,29 @@
+Description:
+A compound whose mobility shifts decrease with increasing molecular weight.
+
+Text:
+of SR depend, not only on the ion masses, but on the interaction energies of the 
+ionSR adducts. In this study, we introduced five different SRs using ESIIMSMS to study the effect of the 
+interaction energy and size on mobility shifts. The mobility shifts showed a decreasing trend as the molecular 
+weight increased for the series of compounds ethanolamine, valinol, serine, threonine, phenylalanine, 
+tyrosine, tributylamine, tryptophan, desipramine, and tribenzylamine. It was proved that the decreasing trend 
+was partially due to the inverse relation between the mobility and drift time and hence, the shift in drift time 
+better reflects the pure effect of SR on the mobility of analytes. Yet the drift time shift exhibited a mild 
+decrease with the mass of ions.
+
+
+---
+
+Description:
+Has a low binding energy interaction with shift reagents, leading to short-lived clusters.
+
+Text:
+Valinol pulled out from this trend because it had a low binding energy 
+interaction with all the SR and, consequently, its clusters were shortlived. This short lifetime produced fewer 
+collisions against the buffer gas and a drift time shorter compared to those of ions of similar molecular weight. Analyte ionSR interactions were calculated using Gaussian. IMS with the introduction of SR could be the 
+choice for the freeinterferents detection of illegal drugs, explosives, and biological and warfare agents. The 
+suppression of false positives could facilitate the transit of passengers and cargos, rise the confiscation of 
+illicit substances, and save money and distresses due to needless delays. Keywords Adduction, ion mobility spectrometry, mass spectrometry, shift reagent, valinol, buffer gas 
+modifier 
+
+1. INTRODUCTION

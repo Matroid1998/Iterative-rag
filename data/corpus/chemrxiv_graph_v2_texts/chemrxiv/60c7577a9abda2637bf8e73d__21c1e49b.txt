@@ -1,0 +1,24 @@
+Description:
+The simplest 4-alkylated pyrimidine nucleoside involved in phosphorolysis and transglycosylation reactions.
+
+Text:
+Herein, we address this gap by 
+reporting on the phosphorolysis and transglycosylation of 
+the simplest 4alkylated pyrimidine nucleoside, 4
+methyluridine (1a). Following the identification of a 
+suitable biocatalyst, and a characterization of its reactivity 
+with kinetic experiments and docking studies, we explored 
+the thermodynamics of the phosphorolysis of 1a and 
+leveraged 
+this 
+information 
+in 
+transglycosylation 
+experiments to access a range of 4methylated pyrimidine 
+and purine nucleosides. In the absence of obvious pyrimidine nucleoside 
+phosphorylase (PyNP) candidates for the phosphorolysis of 
+1a, we began our investigation by screening a small panel 
+of PyNPs with known broad substrate spectra. To our 
+surprise, only the PyNP from Thermus thermophilus 
+(TtPyNP)26,27 showed measurable conversion of 1a under 
+screening conditions (Figure S1).

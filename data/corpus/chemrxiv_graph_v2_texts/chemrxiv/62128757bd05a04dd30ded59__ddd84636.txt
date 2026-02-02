@@ -1,0 +1,60 @@
+Description:
+A protein that adsorbs at the oil-water droplet interface and introduces iron, catalyzing lipid oxidation.
+
+Text:
+LDL particles feature
+13
+a coreshell structure where a core of triglycerides cholesteryl
+14
+esters is surrounded by a monolayer of phospholipids and
+15
+apolipoproteins. During the emulsification of mayonnaise,
+16
+LDL particles can release phospholipids and apolipoproteins
+17
+that together with phosvitin adsorb at the oilwater droplet
+18
+interface. LDLs can also remain structurally intact and form
+19
+granules present in the continuous phase or adsorbed at the
+20
+oilwater interface depending on mechanical treatments and
+21
+conditions (Anton et al., 2003; Mizutani and Nakamura, 1985;
+22
+Sirvente et al., 2007). 23
+Lipid oxidation in mayonnaise is mediated by free radical
+24
+chain reactions (Schaich, 2012) and catalysed by the presence
+25
+of metal ions such as iron introduced via phosvitin (Berton
+26
+Carabin et al., 2014).
+
+
+---
+
+Description:
+Strongly binds prooxidant iron ions at neutral pH.
+
+Text:
+Reactions between alkyl radicals (L)
+27
+and molecular oxygen generate peroxyl radicals (LOO), which
+28
+further accelerate lipid peroxidation by reacting with unsat
+29
+urated lipids. Whereas at neutral pH prooxidant iron ions
+30
+are strongly bound to the negatively charged phosvitin, a
+31
+weaker binding at the acidic pH of mayonnaise makes them
+32
+available as catalysts for lipid oxidation (Merkx et al., 2019). 33
+Therefore, ethylenediaminetetraacetic acid (EDTA) is often
+34
+added to mayonnaise to bind free metal ions via chelation
+35
+and thus reduces the formation of lipid peroxidation (LPO)
+36
+products (Lee and Decker, 2011; Nielsen et al., 2004).

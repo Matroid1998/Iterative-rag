@@ -1,0 +1,36 @@
+Description:
+Marketed name for ritonavir, an HIV protease inhibitor with solubility challenges.
+
+Text:
+Solubility is a critical property for pharmaceutical drug
+discovery, and problems with solubility can frustrate drug
+discovery efforts and block treatments. The bioavailabil
+ity of a drug depends on the solubility difference between
+different crystal structures (polymorphs), dose, drug per
+meability, and formulation 1, so solubility plays a key
+role. Solubility problems can be unexpected and pose
+crucial obstacles that even threaten the administration
+of care. For example, a welldocumented case occurred
+in the late 90s when ritonavir, an HIVprotease inhibitor
+marketed as Norvir, failed dissolution requirements 2. Since ritonavir is not bioavailable in its solid form, it was
+administrated in capsules containing solutions designed
+not to be saturated with respect to the originally known
+molecular crystal (form I) 2.
+
+
+---
+
+Description:
+A drug whose supply was threatened by the stability and crystallization difficulty of its new polymorph form II.
+
+Text:
+The newly identied poly
+morph, form II, was unusually stable and unusually hard
+to crystallize; the preparation protocol of Norvir was inad
+equate to make capsules from the new polymorph, which
+severely threatened the supply of the drug in the market
+and endangered the lives of many HIV patients 2. Con
+siderable effort has already been devoted to the methods
+to predict crystal polymorphs 3, 4, 5, 6, 7, 8, 9, but much
+less attention has been given to methods to predict solu
+bilities, with or without likely polymorphs as input.

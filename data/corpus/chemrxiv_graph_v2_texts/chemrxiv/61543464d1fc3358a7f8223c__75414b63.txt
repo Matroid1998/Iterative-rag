@@ -1,0 +1,15 @@
+Description:
+Regulates fundamental physiological processes in cells, including oxygen metabolism and signaling pathways.
+
+Text:
+Over the last decades, intelligent polymers have been 
+developed to be responsive to several stimuli, like pH,3 temperature,4 and small molecule or 
+biomacromolecular signals.5 
+Reactive oxygen species (ROS), such as hydrogen peroxide, regulate fundamental physiological 
+processes in cells, including oxygen metabolism and signaling pathways.67 However, in cancers 
+and inflammatory,68 cardiovascular9 or neurodegenerative diseases,1011 ROS are produced at 
+a rate that natural antioxidant mechanisms, like enzymes (e.g. superoxide dismutase, catalase), 
+cannot overcome.1214 Elevated intracellular H2O2 concentrations in diseased tissues are typically 
+between 10 and 100 M,1516 and can go up to 10 mM.17 This change in the oxidative state of 
+the cellular environment can be used as a trigger for selective local cargo release.1820 
+The pioneering work of Hubbell et al.

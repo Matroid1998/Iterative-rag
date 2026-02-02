@@ -1,0 +1,18 @@
+Description:
+A redox-active species in Li-ion batteries.
+
+Text:
+As the demand for electrochemical energy storage surges, 
+the research, development and application of new systems 
+require comprehensive understanding of the electrochem
+ical properties at an everincreasing pace. A critical param
+eter for the community, from materials chemists to appli
+cation engineers, is the diffusion coefficient of the redox
+active species; i.e., Li, in the case of Liion batteries. The 
+GITT has been the most widely applied method for deriv
+ing the diffusion coefficient from electrochemical meas
+urements. Derived from Ficks second law, GITT was first 
+demonstrated in 1977 for a bulk Li3Sb electrode.1 The tech
+nique consists of two repeating steps. First, a constant cur
+rent is applied for a duration where the assumption of 
+semiinfinite diffusion holds.

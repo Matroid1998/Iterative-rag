@@ -1,0 +1,11 @@
+Description:
+Used in determining octanol-water partition coefficients, which estimate hydrophobicity.
+
+Text:
+For example, interfacial 
+hydrophobicity is often estimated based on the amount of nonpolar solventaccessible surface 
+area3135 or by groupspecific parameters such as hydrophobicity scale values36 or octanolwater 
+partition coefficients.19, 37, 38 However, these methods neglect perturbations to water structure by 
+polar groups near nonpolar domains that lead to cooperative, nonadditive contributions to 
+hydrophobicity,2426, 39 as highlighted by recent experimental measurements of hydrophobic forces 
+with chemically heterogeneous interfaces.2729 In these experiments, adhesion forces were

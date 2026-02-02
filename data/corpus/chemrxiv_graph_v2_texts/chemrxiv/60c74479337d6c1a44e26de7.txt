@@ -1,0 +1,43 @@
+Description:
+A gas used in PHIP for chemical reactions to produce hyperpolarized products.
+
+Text:
+There 
+are three significant drawbacks to this technique (1) it is 
+prohibitively 
+expensive, 
+(2) 
+complex 
+cryogenic 
+equipment is required to reach 1.4 K, and (3) the 
+hyperpolarized material is delivered in batchmode, with 
+tens of minutes of preparation time required between 
+sample deliveries. PHIP (parahydrogen induced polarization) is an 
+alternative hyperpolarization modality which involves 
+chemical addition of hydrogen gas enriched in the para 
+spin isomer to a substrate molecule 2,12. PHIP is 
+approximately 12 orders of magnitude less expensive 
+than dDNP, and can produce hyperpolarized products 
+with a much higher duty cycle because it only requires 
+chemical reaction with hydrogen gas.
+
+
+---
+
+Description:
+Used in the paraenriched form for addition to unsaturated precursors in hyperpolarization processes.
+
+Text:
+However, the 
+application of this powerful tool to in vivo metabolic 
+studies is hampered by the limited number of metabolites 
+that can be hyperpolarized by means of parahydrogen 
+addition to an unsaturated precursor of the target 
+molecule 1316. Hyperpolarized 113Cfumarate has 
+Figure 1 Reaction scheme showing the chemical addition of 
+paraenriched hydrogen to an unsaturated 113Cacetylene 
+dicarboxylate precursor, to yield 113Cfumarate. The proton 
+singlet order is then transformed into 13C magnetization by 
+applying a constantadiabaticity magnetic field cycle 18, 
+optimized for the 113Cfumarate Jcouplings. The field
+cycling profile is shown in the inset.

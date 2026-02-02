@@ -1,0 +1,24 @@
+Description:
+Isostructural with A3Sb, where A can be Li, Na, or K.
+
+Text:
+Antimony and its alloys have been intensively studied in recent years as highcapacity anode 
+materials in alkali metalion based rechargeable batteries.110 It has a theoretical storage capacity 
+of 660 mAhg, which is almost twice as high as graphite (372 mAhg) that is currently used in 
+commercial lithiumion batteries (LIB), and double that of hard carbon in emerging sodiumion 
+batteries.1113 Recently, antimonybased anodes have been extended to include potassiumion 
+batteries.14,15 The range of antimonyalkali compounds that has been characterized is, however, 
+considerably broader than just these two elements, and can include up to three alkali metal ions 
+from group I, from lithium to cesium, with the number of intermediate compounds increasing as 
+one moves down the group of the periodic table.16,17 In contrast to the more widely studied tin 
+anodes, antimony shows good performance in conventional commercial carbonatebased 
+electrolytes, making it a more suitable candidate to replace graphite in LIBs.1820 
+Bismuth is isostructural with antimony and the elements have full mutual solid 
+solubility above 200 C.17 However, thermodynamic calculations suggest there is a miscibility 
+gap below 140 C.21 Like antimony, bismuth also alloys with up to three molar equivalents of 
+alkali metals from lithium to cesium.16,17 Since bismuth is much more ductile than antimony, it 
+makes the material less susceptible to fracture during electrochemical cycling with lithium, and 
+there are several examples of bismuth addition to antimony improving the cycling stability 
+relative to either element by itself.2,8 Although insitu diffraction data of the individual elements 
+during lithiation are available and show that A3Bi and A3Sb (A  Li, Na, K) are isostructural,15,22
+25 no such data exist on binary SbBi solid solutions.

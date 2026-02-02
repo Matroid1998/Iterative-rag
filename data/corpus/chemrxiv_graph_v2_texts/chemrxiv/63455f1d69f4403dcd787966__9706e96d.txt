@@ -1,0 +1,17 @@
+Description:
+A surface used to study the adsorption energy and site competition of water and aromatic molecules.
+
+Text:
+The nearchemisorption of water needs
+to be properly described in terms of energy, adsorption
+site and orientational preference of water relative to the
+local surface of the NP.15 We recently proposed GAL, a
+metalwater force eld that includes an angular depen
+dence and an attractive Gaussian to localize the water on
+the appropriate adsorption site on a Pt(111) surface.16
+Since GAL17 captures the nearchemisorption of water
+on Pt(111), it is able to describe the competition for ad
+sorption sites between the solvent and other adsorbates. Therefore, GAL17 was used to assess the impact of solva
+tion on the adsorption energy of aromatic molecules on
+Pt(111), leading to a semiquantiative agreement with
+experiment.17 Indeed, for the determination of solvation

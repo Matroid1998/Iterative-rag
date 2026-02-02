@@ -1,0 +1,25 @@
+Description:
+Serve as electron donors to enhance reaction rates in photocatalytic H2O2 production.
+
+Text:
+Although 
+photocatalytic H2O2 peroxide production from pure water and oxygen has been 
+reported, the reaction rates were usually too low to accumulate high concentrations of 
+the product,48 making the presence of additional electron donors like aliphatic or 
+aromatic alcohols practically indispensable to achieve reasonable reaction rates.911 
+Notably, this approach appears even more attractive if also the oxidation product of 
+this reaction has a higher value than the substrate, as it is the case for the conversion 
+of biomassderived feedstock.1113 
+Polymeric carbon nitrides (PCNs) whose photocatalytic activity was first reported by 
+Wang et al.14 are known for their excellent performance in lightdriven H2O2 production 
+from oxygen.15 The ionic form of this material comprising stacks of 2D heptazinebased 
+networks and alkali metal cations andor protons, poly(heptazine imide) (PHI),13, 1626 
+otherwise known as CNxNCN, KSCN or alkali metal modified carbon nitride, typically 
+outperforms the conventional, nonionic, melon polymer in this reaction.10, 27 The 
+superior activity of PHI can be explained, among other factors, by partial substitution 
+of the terminal NH2groups for NCN species in PHI, resulting in fewer hydrogen 
+bond interactions and better dispersibility of the material in polar solvents.28 A major 
+challenge in carrying out such reactions in suspension is the effective separation of the 
+dissolved reduction and oxidation products for their subsequent use, in order to avoid 
+the decomposition of H2O2 on the surface of the photocatalyst by photoredox 
+decomposition or by its disproportionation in the dark.

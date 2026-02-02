@@ -1,0 +1,15 @@
+Description:
+Materials used in heterogeneous organic photocatalysts where insolubility and lack of long-range order make structural characterization difficult.
+
+Text:
+The de novo design of solidstate energy materials is challenging because function is defined 
+by features that span multiple length scales. One example is photocatalytic solar fuels 
+production, where the catalytic activity can depend on a range of factors such as optical gap, 
+electronic energy levels, surface area, particle size, and hydrophilicity.18 Organic materials 
+are promising candidates for photocatalytic hydrogen production, but predicting the best 
+combination of properties is difficult because the underlying structureactivity rules are poorly 
+understood. So far, most studies involving heterogeneous organic photocatalysts have been 
+conducted on carbon nitride materials or amorphous conjugated polymers,9 where insolubility 
+and lack of longrange order make thorough structural characterization difficult. Consequently, 
+it is hard to deconvolute the structureactivity relationships in organic photocatalysts where the 
+extended packing is poorly defined.

@@ -1,0 +1,13 @@
+Description:
+Synthesis methods use protecting groups and linkers requiring harsh conditions for cleavage and deprotection.
+
+Text:
+Many noncanonical nucleotides have been found in DNA and RNA. They serve as an additional layer 
+of regulation of the flow of genetic information in biological systems. Malfunction of this layer of regulation 
+has been found relating to many human diseases.14 In addition, modified nucleotides can also be produced 
+by reactions of DNA with DNA modification drugs and toxic compounds from the environment. These 
+DNA adducts have been suggested to be the cause of many cancers.58 To study the functional mechanisms 
+of the modified nucleotides including those that cause human diseases, chemical synthesis of 
+oligodeoxyribonucleotide (ODN) and oligoribonucleotide (ORN) containing such modified nucleotides is 
+needed. However, known oligonucleotide (ON) synthesis methods use protecting groups and linkers that 
+require harsh basic and nucleophilic conditions for cleavage and deprotection.

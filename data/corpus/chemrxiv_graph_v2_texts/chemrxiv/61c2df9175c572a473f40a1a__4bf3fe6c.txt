@@ -1,0 +1,11 @@
+Description:
+Involved in the oxygen evolution reaction (OER) at the anode during water electrolysis.
+
+Text:
+Toward a sustainable energy cycle, H2 economy has been considered as one of the most 
+promising solutions to overcome drawbacks of the current fossil fuel economy since it does not 
+emit any pollutants or greenhouse gases during conversion processes1, 2. However, 96  of the 
+current H2 production relies on thermochemical conversions of carbonbased fuels via pyrolysis, 
+gasification and steam reforming of natural gas, requiring clean alternative methods2, 3. Water 
+electrolysis has been investigated to produce green H2, which consists of H2 evolution reaction 
+(HER) at the cathode and O2 evolution reaction (OER) at the anode4.

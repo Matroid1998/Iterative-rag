@@ -1,0 +1,13 @@
+Description:
+A high-voltage spinel cathode material with high energy density due to its high operating voltage.
+
+Text:
+Highvoltage spinel LiMn1.5Ni0.5O4 (LMNO) is a promising cobaltfree cathode material
+which can deliver high energy density (650 W h kg1) due to its high operating voltage
+4.7 V (vs LiLi) arising from the Ni2Ni4 couple.1 As an important derivative of the
+extensively studied LiMn2O4 mixedvalence spinel (LMO), LMNO has structural and chem
+ical similarities with LMO.24 In both structures Li occupy tetrahedral (Td) sites, and the
+transition metals (TM) occupy octahedral (Oh) sites of the cubic closepacked oxygen arrays. In addition, they have 3D diffusion channels where Li migrate through gate sites six
+member cation rings perpendicular to the diffusion path.5 LMNO, however, has improved
+energy density and cycling stability compared to LMO partly due to a reduced prevalence
+of Mn3 in LMNO.

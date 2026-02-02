@@ -1,0 +1,8 @@
+Description:
+Molecules that target DNA gyrase by intercalating into DNA breaks and binding specific gyrA residues.
+
+Text:
+The fluoroquinolones target the DNA gyrase (DNAG), a tetrameric enzyme which unwinds DNA 
+by forming and religating double stranded DNA breaks prior to transcription and replication (Fig. 1b). Specifically, two fluoroquinolone molecules intercalate into DNA breaks and bind specific 
+gyrA residues via a coordinated Mg2 ion. This stabilizes DNADNA gyrase covalent linkages and 
+prevents religation of DNA double stranded breaks.

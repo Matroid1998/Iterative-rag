@@ -1,0 +1,13 @@
+Description:
+A porous network of sp2 carbon fibers used in carbonphenolic composites.
+
+Text:
+Space vehicles traveling at hypersonic speeds through a planetary atmosphere experience 
+heat loads greater than 50 W cm2 and require a heat shield to protect the vehicle from severe 
+heating 1. A class of materials used for several space missions comprises carbonphenolic 
+composites, where a network of carbon fibers is infused with a phenolic resin. Heat shields undergo 
+a process called ablation (loss of material) under these extreme conditions. Ablation can occur 
+through pyrolysis, gassurface oxidation, and sublimation. Pyrolysis is the thermal decomposition 
+of the phenolic resin, which occurs in the range of 2001000 C, where gaseous thermal 
+decomposition products are expelled from the heat shield material 2,3. Pyrolysis exposes the 
+underlying carbon fiber network, which is a porous network of sp2 carbon.

@@ -1,0 +1,17 @@
+Description:
+A small molecule with a high NH bond dissociation free energy of 100.3 kcal/mol.
+
+Text:
+Ammonia (NH3) and water (H2O) are ubiquitous small mole
+cules that represent one of the pillars from which life on Earth 
+sustains.1 Due to their widespread presence, they have been 
+identified as energy units or economic building blocks en route 
+to highvalue compounds.2 However, their chemical manipula
+tion is nontrivial, as a result of the high bond dissociation free 
+energy (BDFE) of their NH and OH bonds (BDFEOH in H2O 
+ 113.0 kcalmol1; BDFENH in NH3  100.3 kcalmol1).3 In
+deed, the majority of the approaches towards XH cleavage fo
+cus on polar pathways; for example, both d and pblock ele
+ments undergo oxidative addition4 or deprotonation through 
+metalligand cooperation4c, 5 using the twoelectrons of the re
+spective d and porbitals (Fig. 1A).

@@ -1,0 +1,14 @@
+Description:
+Formed during the cycling of Li4Ti5O12.
+
+Text:
+However, Li4Ti5O12 has a low gravimetric and volumetric energy 
+density due to its partial utilization of Ti4 redox centers, cycling between Li4Ti5O12 and Li7Ti5O12, 
+and the necessity of nanosizing to enable highrate operation. The nanoparticle morphology also 
+presents challenges for material scaleup and processing. Alternatives to Li4Ti5O12 that retain the 
+excellent safety properties but overcome some of the disadvantages could enable wider penetration 
+of highpower battery energy storage. Niobiumbased complex oxides have emerged as promising candidates for highrate anode 
+materials due to the inherent stability and fast lithium diffusion within some common Nboxide 
+structure types as well as the multiredox capability of niobium (i.e. Nb5 to Nb3).1 In this work, 
+we explore Nb18W8O69 (9Nb2O58WO3)2, the tungstenrich end member of the xNb2O5yWO3 
+homologous series.

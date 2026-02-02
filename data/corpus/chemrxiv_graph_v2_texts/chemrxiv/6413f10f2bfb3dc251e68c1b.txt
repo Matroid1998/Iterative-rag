@@ -1,0 +1,15 @@
+Description:
+A conserved framework in peptide-protein sequences.
+
+Text:
+Advances in computer sciences, accessible highperforming machines and the 
+proliferation of large public databases have accelerated the development of 
+computational models for peptide design and protein engineering. The advent of 
+artificial intelligence (AI) in the biological sciences has led to the creation of machine 
+learning (ML) models capable of predicting and generating new peptides and proteins 
+with the desired characteristics. Predictive models are trained on smalltolarge 
+datasets to learn the relationships between the biological sequences and their 
+respective functional measurements (e.g., thermostability, bacterial growth inhibition, 
+protein binding affinity). Generative models can learn meaningful representations 
+(e.g., a conserved cysteine framework, a catalytic site) to create new peptideprotein 
+sequences that resemble the native counterparts.

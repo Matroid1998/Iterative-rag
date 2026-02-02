@@ -1,0 +1,15 @@
+Description:
+Solution processible conducting polymers with significant academic and industrial interest.
+
+Text:
+The solution processible conducting polymers based on 3,4alkylenedioxythiophenes (poly
+ProDOTs) are of significant interest, both academically and industrially. PolyProDOTs are 
+used in various applications such as electrochromic devices, light harvesting materials, 
+transistors, sensors etc.1 This is due to their superior electrical conductivity, high thermal and 
+environmental stability, transparency, and low redox potential.2 While the costeffective 
+polymerization can be performed by oxidative method,3 the highquality polymers suitable 
+for electronic applications can be obtained by Grignard metathesis (GRIM) polymerization.4 
+However, the former method suffers from poor yield, chain branching, and broad molecular 
+weight distribution, whereas the latter suffers from disadvantages such as expensive 
+organometallic reagents, stringent reaction conditions as well as loss of unreacted starting 
+materials in the case of batch failure.

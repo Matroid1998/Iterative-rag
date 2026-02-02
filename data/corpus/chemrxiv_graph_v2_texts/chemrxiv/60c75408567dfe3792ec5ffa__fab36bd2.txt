@@ -1,0 +1,19 @@
+Description:
+A gas used in electrochemical reduction to produce fuels and chemical feedstocks with renewable energy.
+
+Text:
+Background 
+Electrochemical CO2 reduction (CO2R) is a rapidly developing 
+technology that, if successfully commercialized, may provide a 
+means to produce fuels and commodity chemical feedstocks 
+with renewable energy, rather than from fossil fuels. CO2R was 
+originally performed in socalled aqueous Hcells, which had the 
+cathode fully immersed in a liquid electrolyte and CO2 supplied 
+to the cathode by dissolution into the electrolyte. Subsequently, 
+current densities over 10x higher were achieved by using 
+reactors with gasdiffusion electrode (GDE) cathodes.1 GDEs 
+position the interface of gasphase CO2 and liquid electrolyte in 
+close proximity to the catalyst layer (CL), providing fast diffusion 
+of CO2 in the gasphase, as well as fast diffusion across mere 10s 
+to 1000s of nanometers of liquid between the gasphase and 
+the electrocatalyst.

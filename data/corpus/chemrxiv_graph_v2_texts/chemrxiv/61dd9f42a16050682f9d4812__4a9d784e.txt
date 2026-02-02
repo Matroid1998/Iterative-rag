@@ -1,0 +1,13 @@
+Description:
+Drives both proton reduction and water oxidation as separate half-reactions in the presence of appropriate sacrificial electron donors or acceptors.
+
+Text:
+Most reported systems require a metal cocatalyst to archive overall water 
+splitting.27,29,30 This is because metal cocatalysts facilitate charge separation,31 store charges, and serve 
+as reaction sites that catalyze water oxidation and reduction.24,32,33 As such, much effort has been spent 
+in the development of cocatalysts for photocatalysis.34,35 For example, carbon nitride loaded with 
+PtCoOx as cocatalyst was reported to be active for photocatalytic overall water splitting.36 Similarly, a 
+covalent triazinebased framework loaded with NiPxPt was reported to act as a single component pho
+tocatalyst for overall water splitting.37 Here, we explored the homopolymer of dibenzob,dthiophene sul
+fone (P10, Fig. 1a), which was shown previously to drive both proton reduction38 and water oxidation39 
+as separate halfreactions in the presence of appropriate sacrificial electron donors or acceptors.

@@ -1,0 +1,44 @@
+Description:
+Light harvesting chromophores that exhibit desirable excitonic properties for application in photocatalysis.
+
+Text:
+Nanographenes, such as graphene quantum dots (GQDs) and nanoribbons (GNRs), are light
+harvesting chromophores that exhibit desirable excitonic properties for application in 
+photocatalysis. The relative size of GQDs and GNRs constrain their excitons to a size that is 
+smaller than the essentially infinitely large exciton Bohr radius of bulk graphene. Consequentially, excitons in these systems are quantumconfined, enabling size tunable energy 
+gaps.1 Sizedependent tunability of the energy gap has been shown both theoretically2 and 
+experimentally,3 demonstrating the versatility of lightharvesting in nanographenes.
+
+
+---
+
+Description:
+Computational results confirm the sextet rule when comparing armchair and zigzagedged nanographenes.
+
+Text:
+For example, 
+triangular GQDs of varying size exhibit a progressive redshift of their ultranarrow absorption 
+and emission bands with increasing size.3 Nanographene sizeshape can also be utilized to tune 
+their optical properties (and chemical stability) and is best described by the chemically intuitive 
+Clars sextet rule of polycyclic aromatic hydrocarbons which states that the more aromatic 
+sextets (that is, the more benzenelike subunits) in the molecule, the larger the optical gap and 
+higher the stability.4 Computational results confirm the sextet rule when comparing armchair 
+and zigzagedged nanographenes.
+
+
+---
+
+Description:
+Structures that can be selectively modified using Diels-Alder or CH activation chemistry to study their electronic and optical properties.
+
+Text:
+The 
+aromatization of these soluble polyphenylenes is achieved using oxidative 
+cyclodehydrogenation to form insoluble nanographene products.18 More recently, oneshot 
+annotative extension has been developed as a useful growth from template method to 
+selectively modify K, L and bayregions of nanographenes using DielsAlder or CH activation 
+chemistry.19,20 These synthetic tools have enabled numerous studies on the effect of 
+nanographene size, shape and heteroatoms on the electronic and optical properties of well
+defined carbon materials.21,22 
+Only a limited number of studies report the optical properties of GNRs.14,2334 Using wet 
+chemistry synthetic methods discussed above, several GNRs with 0.52 nm ribbon widths (where

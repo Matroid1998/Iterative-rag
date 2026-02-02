@@ -1,0 +1,13 @@
+Description:
+A cyanine dye studied for its structural and optical properties.
+
+Text:
+Understanding the driving forces
+that govern the formation of specic structures and the monomer arrangement inside the
+aggregates is of major importance in order to design molecules with specic chemical fea
+tures and, ultimately, predict their supramolecular structures and properties. Computational
+modelling, in particular molecular dynamics (MD) simulations, are a powerful tool to aid in
+the rational design process of supramolecular biomolecules and nanomaterials8,9. One of the cyanine dyes that has been extensively studied the past decades is 5,5,6,6
+tetrachlorobenzimidacarbocyanine11,12 (see Figure 1b). Several molecules with this specic
+core and dierent substituents have been designed and synthesised, and their structural
+and optical properties have been examined13,14.

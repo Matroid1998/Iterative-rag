@@ -1,0 +1,13 @@
+Description:
+Allows precise bandgap tuning in a continuous range as large as 360 meV when curvature is induced.
+
+Text:
+The use of curved supports for inducing local strain is well established for generating exotic 
+properties from conventional layered materials1. An excellent example is graphene, which already 
+exhibits remarkable properties in its planar configuration. Straining graphene can modify its 
+electronic structure to create polarized carrier puddles, induce pseudomagnetic fields, and alter 
+surface properties2. In MoS2, modifying the supporting glass sphere diameter induces curvature in 
+the MoS2, which permits precise bandgap tuning of MoS2 in a continuous range as large as 360 
+meV3. Curved MoS2 conformally coated on Au nanocone arrays is a promising catalyst for the 
+hydrogen evolution reaction (HER). The improved HER activity is attributed to sulfurvacancies 
+and reduction of the bandgap under strain4.

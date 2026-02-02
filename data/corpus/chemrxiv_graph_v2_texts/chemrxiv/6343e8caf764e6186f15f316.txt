@@ -1,0 +1,30 @@
+Description:
+Monolayer amorphous carbon can be synthesized via laser-assisted chemical vapor deposition.
+
+Text:
+For example, monolayer amorphous 
+carbon has been synthesized via laserassisted chemical vapor deposition (CVD).6 Owing to the 
+atomic thinness of a2D materials, direct observation of atomic arrangements can be well 
+achieved using aberrationcorrected highresolution transmission electron microscopy 
+(HRTEM).7,8 Notably, the recent development in chromatic (Cc)  spherical (Cs) aberration 
+correction greatly facilitated the characterization of 2D materials.9 The unique CcCscorrected 
+microscope enables atomic resolution down to 20 kV,9,10 shedding light on defect structure and 
+formation mechanisms in various 2D systems, such as graphene heterostructures 11 and 
+TMDs.12,13 Cccorrection under low acceleration voltage substantially enhanced the atomic 
+contrast,9 allowing for visualization of reaction dynamics at the singleatom level.
+
+
+---
+
+Description:
+Atoms that make up graphene, with a 10 nm x 10 nm image containing approximately 4000 atoms.
+
+Text:
+For instance, 
+metal crystal nucleus formation has been observed in situ with atomic precision.14 
+Despite rapid developments in TEM instrumentation, extracting structural information from 
+HRTEM images of a2D materials is a nontrivial work. In contrast to the crystalline form, where 
+the sample structure can be accurately depicted by merely a single unit cell and the atoms within, 
+the shortrange order in a2D materials requires interpreting the structure as an entirety. Put 
+differently, every individual atom in the HRTEM image (Fig. 1a and 1b) needs to be pinpointed. It is worth noting that a 10 nm  10 nm image of graphene already contains  4000 carbon 
+atoms, rendering manual labelling extremely timeconsuming. This poses a substantial limitation

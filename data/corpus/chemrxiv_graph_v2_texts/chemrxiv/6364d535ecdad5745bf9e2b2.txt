@@ -1,0 +1,43 @@
+Description:
+A gas that can be utilized to produce renewable fuels and prevent its release into the atmosphere.
+
+Text:
+As atmospheric CO2 levels continue to rise and emerging geopolitical issues threaten global en
+ergy supplies, novel methods of forming fuels sustainably and without geographic restrictions 
+are required for a secure energy supply in a future net zero carbon economy. The utilization of 
+low concentrations of CO2 holds considerable promise given its potential to both produce re
+newable fuels and prevent the release of CO2 into the atmosphere through the conversion of 
+flue gases, or even directly remove excess CO2 from the atmosphere.1 However, electrochemi
+cal CO2 reduction (CO2R) has so far focused on the utilization of saturated (100) CO2 streams 
+as stateoftheart catalysts perform poorly under low CO2 concentrations due to the low availa
+bility of dissolved CO2 (12 M at atmospheric CO2 concentrations, 420 ppm).
+
+
+---
+
+Description:
+Its electrochemical reduction is challenging due to low availability at atmospheric concentrations.
+
+Text:
+As atmospheric CO2 levels continue to rise and emerging geopolitical issues threaten global en
+ergy supplies, novel methods of forming fuels sustainably and without geographic restrictions 
+are required for a secure energy supply in a future net zero carbon economy. The utilization of 
+low concentrations of CO2 holds considerable promise given its potential to both produce re
+newable fuels and prevent the release of CO2 into the atmosphere through the conversion of 
+flue gases, or even directly remove excess CO2 from the atmosphere.1 However, electrochemi
+cal CO2 reduction (CO2R) has so far focused on the utilization of saturated (100) CO2 streams 
+as stateoftheart catalysts perform poorly under low CO2 concentrations due to the low availa
+bility of dissolved CO2 (12 M at atmospheric CO2 concentrations, 420 ppm).
+
+
+---
+
+Description:
+A compound involved in carbon capture and utilization from dilute gas streams.
+
+Text:
+However, CO2 concentration 
+from atmosphere for this stepwise process must incur substantial energy and cost penalties 
+(projected to be 9 GJ ton1 and 94232 ton1)4 to enable efficient carbon capture and utilization 
+from dilute gas streams. This must also be addressed alongside common challenges in capture 
+streams with impurities such as O2, NOx and SOx.8,9

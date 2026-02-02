@@ -1,0 +1,12 @@
+Description:
+A material with unique optical and photoredox properties, including bandgap and intragap states, and quasi-Fermi levels of electrons and holes.
+
+Text:
+Heptazinebased polymeric carbon nitride (PCN) materials1 stand out from a range of 
+other typical, mostly metal oxidebased photocatalysts mainly by their unique optical (i.e., 
+bandgap and intragap states)2 and photoredox (i.e., quasiFermi levels of electrons and 
+holes) properties.3 Nevertheless, the typical absorption onset of PCN is around 430450 
+nm, which is far from making it an ideal absorber of solar radiation. This motivated 
+significant research efforts directed towards shifting the optical absorption and the 
+corresponding photocatalytic activity to the red. In general, one can distinguish two basic 
+strategies for achieving this goal.

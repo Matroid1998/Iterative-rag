@@ -1,0 +1,29 @@
+Description:
+An element with advantages over lithium in terms of abundance, distribution, and cost.
+
+Text:
+Even though lithiumion batteries (LIBs) have achieved unprecedented commercial success 
+in the previous decades, uneven distribution and poor abundance of lithium lead to raw material 
+supply tensions that pose a severe challenge for their use in largescale applications.1,2 In this regard, 
+sodiumion batteries (NIB) are an attractive complementary technology that shares a similar working 
+principle and cell engineering to LIBs.3,4 Sodium has numerous advantages over Li in terms of 
+abundance (23,000 ppm vs. 20 ppm in the earths crust), distribution, and cost, offering economic 
+sustainability.5 However, one of the significant drawbacks of NIBs is their lower energy density than 
+LIBs.
+
+
+---
+
+Description:
+Involved in sodium ion chemistries offering high power capabilities.
+
+Text:
+In turn, sodium ion chemistries such as Na3V2(PO4)2F3 (NVPF) hard carbon (HC) and 
+Prussian blue analogs (PBA) hard carbon offer highpower capabilities making them more attractive 
+and cheaper alternatives for highpower applications610 such as hybrid grid storage, power tools, fast 
+(dis)charging electromotive, military equipment, etc. In this context, our group in collaboration with the Naion battery startup TIAMAT Energy 
+(France) is actively working to develop highpower NVPF  HC based Naion cells. NVPF is a 
+structurally robust material, which usually shows a reversible capacity of 120 mAhg (Supporting 
+Fig. S1) and exhibits excellent cycling performance at ambient temperature.1113 The NVPF voltage 
+profile displays two distinct steps (Supporting Fig. S1) at 3.7 V and 4.2 V, corresponding to the 
+subsequent (de)insertion of two sodium ions from one formula unit.

@@ -1,0 +1,12 @@
+Description:
+A solid electrolyte used in combination with composite conversion-type electrode materials.
+
+Text:
+In this work, they used La0.9Ba0.1F2.9 as a solid 
+electrolyte in combination with composite conversiontype electrode materials MFyM, where 
+the latter converts between the metal state M and the metal fluoride state MFy within the 
+electrochemical reaction. Since this initial demonstration, a wider range of electrolytes and 
+electrodes have been explored. This has included liquid and polymer electrolytes 4 as well as 
+intercalationbased electrodes5. Despite this progress, challenges with electrode stability are 
+often observed. Almost universally, FIB electrodes contain a carbonbased conductive additive (e.g., acetylene 
+black, carbon black, or carbon nanotubes).

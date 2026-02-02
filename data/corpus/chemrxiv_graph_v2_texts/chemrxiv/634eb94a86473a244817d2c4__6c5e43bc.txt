@@ -1,0 +1,28 @@
+Description:
+An endogenously formed compound that serves as a high-affinity ligand for the transcription factor Aryl hydrocarbon Receptor (AhR).
+
+Text:
+Indolocarbazoles are highly valued functional scaffolds with extensive applications in biology and material sciences 
+1. Illustrating examples are indolo3,2bcarbazole and 6formylindolo3,2bcarbazole (FICZ). They are 
+endogenously formed within human tissues and serve as highaffinity ligands for the transcription factor Aryl 
+hydrocarbon Receptor (AhR) (Figure 1A) 2. AhR is a key regulator in xenobiotic metabolism and immunity, playing 
+a fundamental role in several pathophysiological processes. Accordingly, manipulating AhR activity is considered 
+as a promising therapeutic strategy for a variety of diseases, including autoimmune and inflammatory diseases, 
+cancer, and viral infections 3. However, to date, the bacterial metabolite tapinarof is the only FDAapproved AhR 
+ligand for the application in humans (psoriasis treatment, 2022) 4. AhRbased drug discovery faces several 
+challenges.
+
+
+---
+
+Description:
+A 6formyl derivative that displays highly potent and selective activity but is phototoxic and lacks proper druglike characteristics.
+
+Text:
+In this context, 
+the 6substituted indolo3,2bcarbazole scaffold was chosen as the synthetic target to build novel relevant AhR 
+ligands (Figure 1B). In this regard, the 6formyl derivative (FICZ) displays highly potent and selective activity, but 
+suffers from a long synthetic access 7 with limited options for chemical diversification. Furthermore, FICZ is 
+phototoxic, lacks proper druglike characteristics due to its CHO group, and its therapeutic projection is unsuitable 
+despite being the most used AhR probe. In general, although the preparation of symmetric 6,12disubstituted 
+indolocarbazoles has been thoroughly studied 1, the reliable synthetic access to 6substituted indolocarbazoles

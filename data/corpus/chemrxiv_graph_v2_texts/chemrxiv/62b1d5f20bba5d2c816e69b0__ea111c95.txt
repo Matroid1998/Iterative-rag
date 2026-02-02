@@ -1,0 +1,15 @@
+Description:
+Undergo radical ring-opening via thiocarbonyl addition ring-opening (TARO) providing backbone thioester functionality.
+
+Text:
+Recently, thionolactones were shown to undergo radical ringopening via thiocarbonyl addition
+ringopening (TARO)614 which provides backbone thioester functionality. These thioesters can be 
+selectively cleaved through aminolysis, thiolysis (including under biologically relevant 
+conditions)7 and, very rapidly, through persulfate oxidation.6 RDRP of thionolactones has been 
+achieved exclusively through RAFT polymerization with which TARO radical polymerization 
+appears to be fully compatible. During the writing of this manuscript, Lages et al reported the 
+successful nitroxidemediated copolymerization of nbutyl acrylate and styrene with up to 2 mol
+ DOT.15 
+Atom transfer radical polymerization16 is, arguably, more complex than RAFT polymerization.17 
+But it has a distinct advantage over (thermally initiated) RAFT in that it does not require a radical 
+initiator (such as AIBN). Consequently, brushes can be grafted from initiatorfunctional surfaces

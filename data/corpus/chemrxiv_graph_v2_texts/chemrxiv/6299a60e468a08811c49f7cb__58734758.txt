@@ -1,0 +1,11 @@
+Description:
+A material used in thin film applications, where increasing its thickness can enhance absorption and reduce reflectivity.
+
+Text:
+This cause a devia
+tion from the Kirchhoffs law, resulting in decrease of the photo
+thermal conversion efficiency, i.e., lighttoabsorbed energy con
+version. By increasing the thickness of Cr film (base in MIM)
+from 5 nm to 50 nm, the absorption loss due to Cr is moderately
+increased, resulting in a nonreflective and highabsorptive state
+of metasurface17.

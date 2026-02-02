@@ -1,0 +1,52 @@
+Description:
+Play a major role in organic synthesis, biochemistry, and materials science.
+
+Text:
+Elemental sulfur and polysulfides play a major role in organic synthesis, 1, 2 biochemistry, 3, 4 materials science5 and 
+other fields of chemistry. Due to its rather unique catenation behavior, elemental sulfur has multiple allotropes with 
+the most stable being cyclooctasulfur (S8). 6 Sulfur is mostly known for its reactivity as an electrophile, but the 
+types of products obtained vary based on the nature of the nucleophile. Strong nucleophiles like phosphines, 79 
+sulfite, 10, 11 or cyanide12, 13 provide monosulfide products exclusively.
+
+
+---
+
+Description:
+Exhibit seemingly unpredictable reactivity under various conditions.
+
+Text:
+3133 As such, computational investigations seem uniquelypositioned to provide key mechanistic 
+information to understand the seemingly unpredictable reactivity of sulfur and polysulfides under various 
+conditions. The precise determination of the mechanism of these reactions would allow for greater predictability in 
+the design of reactions involving sulfur and polysulfides and facilitate the study of biochemical polysulfides. 3436 
+To tackle this problem, we decided to focus on the simple but representative reactions of sulfur with cyanide 
+and phosphines, which generate the monosulfide products R3PS (phosphine sulfides) or SCN (thiocyanate) 
+quantitatively. The reaction of sulfur with phosphines was first reported in 18377 and the formation of the phosphine 
+sulfide was shown to be almost instantaneous.
+
+
+---
+
+Description:
+Compounds with chains of sulfur atoms that can decompose via resonance between sulfur atoms.
+
+Text:
+Another proposal for the decomposition of 
+the polysulfides came from Schmidt who argued, based on claims of resonance between sulfur atoms in polysulfide 
+chains, that the negativelycharged terminal sulfur was in fact the most electrophilic position and could be 
+abstracted by the nucleophile (Scheme 1 path B). 37 Due to limited experimental support for either mechanism, 
+over the following decades both the FossBartlett3841 and Schmidt42 mechanisms were presented as correct in books 
+and reviews of the topic. Since these reactions have fast rates and clean product profiles, they have found 
+applications for the titration 12 or detection of elemental sulfur43, 44 in complex biochemical settings.
+
+
+---
+
+Description:
+Compounds that react with cyanide or phosphines.
+
+Text:
+We now report 
+a comprehensive computational study of these reaction pathways, which provides the first evidence that the Foss
+Bartlett mechanism, albeit plausible, is an incomplete picture of the reactivity of polysulfides with cyanide or 
+phosphines.

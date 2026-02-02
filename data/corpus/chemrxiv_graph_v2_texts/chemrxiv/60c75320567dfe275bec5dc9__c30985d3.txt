@@ -1,0 +1,19 @@
+Description:
+Used as an example in electrophilic aromatic substitution reactions to determine regioselectivity by finding the protonated isomer with the lowest free energy.
+
+Text:
+In
+this paper, we show that the open source semiempirical software package xtb can be used
+in place of MOPAC without impacting the accuracy of the predictions. We go on to show
+that the accuracy can be increased by considering dierent tautomeric forms of the molecule
+and oer a qualitative prediction of the reactivity of each tautomer. Finally, we compare
+the accuracy of the new version (RegioSQM20) to two MLbased models for regioselectivity
+predictions. complex
+complex
+model
+lowest
+G
+Figure 1 The mechanism of an electrophilic aromatic substitution (EAS) reaction using
+uorobenzene as an example. RegioSQM approximates the Br complex as protonation
+(shown as blue structures) and determines regioselectivity by nding the protonated isomer
+with lowest free energy. 2

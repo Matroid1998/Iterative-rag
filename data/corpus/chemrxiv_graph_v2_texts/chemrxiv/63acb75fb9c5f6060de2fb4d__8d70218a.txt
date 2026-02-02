@@ -1,0 +1,11 @@
+Description:
+A molecular perovskite used as a model system in barocalorics.
+
+Text:
+More recently, molecular perovskites such as (C3H7)4NMn(C2N3)3 and (C3H7)4NCd(C2N3)3 
+have emerged as model systems in barocalorics, where their modular building principle enables 
+to search for crystal chemistry factors that determine a materials performance in solidstate 
+cooling.27, 28 A relation between compressibility and barocaloric performance has recently been 
+implied,29 an intuitive link when considering the barocaloric coefficient dTcdp as a proxy. A softer 
+material is thus expected to exhibit a larger barocaloric coefficient, a rule which provides a useful 
+guideline to manipulate barocaloric performance in the future. Therefore, the identification of

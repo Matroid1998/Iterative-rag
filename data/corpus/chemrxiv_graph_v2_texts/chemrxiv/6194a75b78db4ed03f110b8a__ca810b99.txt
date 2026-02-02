@@ -1,0 +1,38 @@
+Description:
+Enhances oxygen evolution and reduction reactions due to their multiple oxidation states and role in water oxidation.
+
+Text:
+In search for concepts to develop the next generation of
+batteries with comparable or even superior performances
+than existing devices, zincair batteries (ZABs) belong
+to the most promising approaches 13. However, in
+spite of the many advantageous features, one of the basic
+problems for its use is the slow kinetics of oxygen evo
+lution and reduction reactions (OER and ORR) on the
+air cathodes 1. In recent years, many eorts have been
+devoted to solve this problem by nding new electrocat
+alysts with suciently high activities to promote both
+reactions 2, 49. Manganese and cobalt oxides are natural candidates
+to enhance OER and ORR because of their role in the
+water oxidation in many biological systems, their multi
+ple oxidation states, natural abundance, and inexpensive
+costs 6, 1012.
+
+
+---
+
+Description:
+Surface Co ions are proposed as the active site for OER, with oxidation state changes during the reaction.
+
+Text:
+Besides, as in the case of other transition
+metal oxides 13, their catalytic activity can be enhanced
+by doping or by introducing oxygen vacancies. In recent studies of OER reaction mechanisms on
+cobalt oxides, surface Co ions have been proposed as the
+active site for OER 1416. According to these propos
+als, the oxidation state of cobalt increases during OER. As a result, the density and oxidation state of surface
+cobalt ions are critical for OERORR activity. When
+these reactions are catalyzed by manganese or cobalt
+oxides or (oxy)hydroxides, it involves oxidation states
+from 2 to 4, with the cation species M3 being the
+main active center 1517.

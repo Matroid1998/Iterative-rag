@@ -1,0 +1,9 @@
+Description:
+Ceramics with low fracture toughness, limiting their application in laser-based additive manufacturing techniques.
+
+Text:
+However, for the 
+aforementioned AM techniques, the material (to be deposited) needs to possess a good fracture 
+toughness so that it does not fracture due to the formation of cracks during the layerwise 
+deposition 3, 69. The main limitation of Al2O3 ceramics is the low fracture toughness 
+which restricts the application of laserbased AM techniques in these ceramics 1.

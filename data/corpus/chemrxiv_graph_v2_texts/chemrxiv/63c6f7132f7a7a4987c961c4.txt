@@ -1,0 +1,13 @@
+Description:
+Compounds that undergo photocycloaddition, where coordination with a chiral Lewis acid can alter absorption properties and lower LUMO energy.
+
+Text:
+Within 
+these strategies, the role of the chiral Lewis acid for the enantioselectivity of the photocatalyzed 
+reaction can be manifold as has been elegantly shown by pioneering work of the groups of Bach4, 
+Yoon5 and Meggers.6 
+One such mode of enantioinduction via a chiral Lewis acid was shown by the Bach group in the 22 
+photocycloaddition of enones (Scheme 1A).4e In this example, coordination of chiral Lewis acid LA1 
+to the substrate results in a change in the substrates absorption properties and leads to a red shift 
+by lowering the energy of the LUMO, rendering an uncoordinated racemic background reaction less 
+feasible as compared to excitation of the chiral Lewis acid substrate complex.

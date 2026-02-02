@@ -1,0 +1,14 @@
+Description:
+Reduced at the cathode during battery discharge to form solid Li2O2.
+
+Text:
+(1)
+During the discharge of the battery, the oxygen from the air is reduced at the cathode and
+combines with a Li ion to form solid Li2O2. During the recharge, the reverse decomposition
+of Li2O2 occurs. The overpotential needed to recharge the battery determines its eciency
+and depends on several factors that can have dierent origin. The source of the energy
+barriers originates in the intrinsic reversible reaction but also is aected by the morphology
+of the discharge product2,6 or the presence of sidereaction secondary phases.5,7
+A profound knowledge of the electronic and transport properties of Li2O2 both in bulk
+and at the surface is crucial to understand the reversible reaction of Eq. 1 and to propose
+new routes to circumvent the above mentioned diculties.

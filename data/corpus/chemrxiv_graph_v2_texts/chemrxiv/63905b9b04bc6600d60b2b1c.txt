@@ -1,0 +1,16 @@
+Description:
+A reactant in the Biginelli cyclocondensation, an acid-catalyzed multicomponent reaction.
+
+Text:
+Multicomponent reactions (MCRs) have enabled the rapid chemical synthesis of 
+complex and diverse molecular scaffolds, and this has, in turn, accelerated the 
+discovery of small molecules with therapeutic potential 1, 2. The Biginelli 
+cyclocondensation is a threecomponent acidcatalyzed MCR between an aldehyde, 
+ketoester, and urea, which has been used to produce dihydropyrimidinone and 
+tetrahydropyrimidinone heterocycles 35. One such dihydropyrimidinone, monastrol 
+(1), was found to be a potent inhibitor of kinesin Eg5, a motor protein necessary for 
+the assembly of mitotic spindle fibers, thereby inducing apoptosis by preventing the 
+development of spindle bipolarity and arresting cells in mitosis 68. This discovery 
+has inspired the synthesis of other antiproliferative dihydropyrimidinone scaffolds, 
+including LaSOM63 (2), which unlike monastrol, induces apoptosis of glioma cells 
+through inhibition of ecto5nucleotidaseCD73 activity 9.

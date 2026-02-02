@@ -1,0 +1,48 @@
+Description:
+Can be borylated under sterically controlled catalytic systems which give meta selectivity to alkyl groups.
+
+Text:
+For transition metal ca
+talysis, various strategies to gain specific regioselectivity 
+(ortho vs. meta vs. para) such as introduction of directing 
+groups1315 or utilization of steric16,17 or electronic effects18
+20 resulting from the preinstalled functional groups have 
+been extensively developed. In particular, alkylbenzenes 
+can be borylated under sterically controlled catalytic sys
+tems which give meta selectivity to alkyl groups.16,17 How
+ever, the steric control can also limit the scope of alkylben
+zenes because the catalyst cannot access sterically hin
+dered CH bonds, notably those ortho to alkyl groups.
+
+
+---
+
+Description:
+Compounds that can be borylated to form aryl boronic esters, often at ortho or para positions.
+
+Text:
+Con
+sequently, transitionmetal catalyzed borylation of steri
+cally hindered arenes such as mesitylene where all aro
+matic CH bonds are ortho to alkyls have been limited.21 An 
+exceptional example was reported by Chatani and cowork
+ers 
+utilizing 
+an 
+NHCligated 
+platinum 
+catalyst, 
+(ICy)Pt(dvtms) (ICy  1,3dicyclohexylimidazol2ylidene, 
+dvtms  divinyltetramethyldisiloxane) where sterically 
+encumbered alkylbenzenes such as mesitylene could be 
+borylated to give corresponding aryl boronic esters.21 
+As an alternative to transition metalcatalyzed chemistry, 
+electrophilic arene borylation using boronbased electro
+philes follows the general trend of reactivity and selectivi
+ty of SEAr mechanism and thus shows selectivity in elec
+tronrich CH bonds (electronic control), often at the or
+tho or parapositions of alkylbenzenes (Figure 1a).12 In 
+general, classical boronbased electrophiles consist of a 
+single boron moiety connected to auxiliary mono or poly
+dentate ligands that control the electrophilicity of the bo
+ron center.

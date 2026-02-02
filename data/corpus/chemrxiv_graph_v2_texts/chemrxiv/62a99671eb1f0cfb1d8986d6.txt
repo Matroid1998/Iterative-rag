@@ -1,0 +1,15 @@
+Description:
+Demonstrated to be valid for single crystals in nonspecifically adsorbing electrolytes according to the GCS model.
+
+Text:
+The two peaks 
+move closer and eventually converge into a single peak as the electrolyte solution gets more and more 
+concentrated.28 
+The aptness of the GCS model has been corroborated on mercurylike electrodes, firstly by Gouy in the 
+1910s and then by Grahame in the 1940s, see Parsonss review.29 In the presence of specific adsorption 
+of anions, Grahame discriminated an inner Helmholtz plane (IHP) and an outer Helmholtz plane (OHP) in 
+the inner layer.30 More than just a modification of the Stern model, Grahames contributions sowed the 
+seeds of ensuing developments considering fielddependent orientation of water molecules, 
+discreteness of adsorbed ions, and quantum effects of metal electrons, as discussed in a recent 
+tutorial.27 Valette and Hamelin and coworkers have demonstrated that the GCS model is valid also for 
+silver single crystals in nonspecifically adsorbing electrolytes.3134

@@ -1,0 +1,11 @@
+Description:
+Used as an anode in high-rate batteries because it reacts with lithium at 1.55 V vs. Li metal.
+
+Text:
+Safe, durable, high power batteries are necessary for vehicular energy storage in, e.g., passenger 
+vehicles, buses, and warehouse vehicles, where they can assist with acceleration, regenerative 
+braking, and rapid charging. Fast recharge, without accelerated cell degradation, is also important 
+for portable electronics, ebikes and escooters, and frequencystabilization at the grid scale. Lithium titanate spinel (Li4Ti5O12) is used as an anode in stateoftheart, commercial highrate 
+batteries because it reacts with lithium at 1.55 V vs. Li metal, thus avoiding the propensity for 
+coulombically inefficient and potentially dangerous Li metal deposition on the anode under high 
+charging current densities.

@@ -1,0 +1,15 @@
+Description:
+A product whose loss from the reaction mixture prevents the cleavage reaction from reversing at an appreciable rate.
+
+Text:
+This is necessary and 
+correct because all reactions are technically reversible with the 
+forward and reverse rate constants related by the corresponding 
+equilibrium constant. Thus, it is never accurate to set a reverse 
+rate constant arbitrarily to 0  this would correspond to the re
+action free energy being infinite and negative. However, it is 
+true that many reactions are practically irreversible if one of the 
+products is lost from the system. For example, in the case of 
+catenane 6, the loss of CO2 from the reaction mixture during the 
+operation prevents the cleavage reaction from reversing at an 
+appreciable rate.

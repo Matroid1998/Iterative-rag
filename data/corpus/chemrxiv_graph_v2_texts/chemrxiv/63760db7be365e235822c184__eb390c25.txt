@@ -1,0 +1,38 @@
+Description:
+An important class of sulfur heterocycles used widely in the synthesis of natural products, pharmaceuticals, and advanced materials.
+
+Text:
+As the sulfur analogous of lactones, sultones are an important class of 
+sulfur heterocycles that used widely in the synthesis of natural products, 
+pharmaceuticals, biologically active molecules and advanced functional 
+
+materials1. Due to the remarkable synthesis importance, considerable 
+efforts have been exerted to develop efficient methods for the synthesis of 
+these valuable building blocks. Over the past decade, transitionmetal 
+catalyzed CH insertion reactions2, cycloaddition reactions3, radical 
+reactions4 and metathesis reactions5 have been developed for the 
+construction of sultones. Recently, Lupton6 and Qin7 developed a tandem 
+annulation reaction of easily tautomerizable ketones (or their TMS enol 
+ethers) and ethenesulfonyl fluorides, which provide a novel protocol for 
+the synthesis of sultones.
+
+
+---
+
+Description:
+Functionalized compounds significant in organic synthesis.
+
+Text:
+Despite these important progress, development 
+of efficient and mild method for the construction of different functionalized 
+sultones is still highly significant. On the other hand, allyl ketones are another type of synthetically 
+valuable reagents that used widely in organic synthesis. Owing to the steric 
+effect, these deconjugated carbonyls usually serve as vinylogous 
+nucleophiles to undergo aldol reactions or Michael additions at position 
+selectively8. In addition, the terminal carboncarbon double bond of allyl 
+ketones can also participate in DielsAlder cyclization to form 
+heterocycles9. During our research on SuFEx click reactions10, we found 
+that allyl ketones do not undergo the anticipated selective Michael 
+addition with the active ethenesulfonyl fluoride. Interestingly, an 
+unexpected selective Michael additionSuFEx cyclization reaction 
+performed to produce alkenylated sultones efficiently. Herein, we

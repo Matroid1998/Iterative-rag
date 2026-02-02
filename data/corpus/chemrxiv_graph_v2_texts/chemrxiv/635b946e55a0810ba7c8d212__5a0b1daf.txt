@@ -1,0 +1,15 @@
+Description:
+Cathodes that undergo drastic morphological changes during cycling.
+
+Text:
+LiS cathodes undergo 
+64 
+drastic morphological changes during cycling and therefore applying 3D modelling frameworks to 
+65 
+the various microstructures present in the system is even more critical than for relatively 
+66 
+dimensionally stable electrodes (as in PEM fuel cells or intercalation electrodes in Li ion 
+67 
+batteries), even though it is well known that imagebased modelling can have significant benefits 
+68 
+over volume averaged methods, even in these morphologically stable systems. 69

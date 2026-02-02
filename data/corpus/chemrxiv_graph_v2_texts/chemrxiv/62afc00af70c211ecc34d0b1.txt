@@ -1,0 +1,15 @@
+Description:
+A cost-effective thermoplastic polymer used in microfluidic fabrications, providing biocompatibility, gas permeability, and good optical properties.
+
+Text:
+Furthermore, leaching of 
+uncrosslinked oligomers of PDMS could be problematic for cell culture applications 10. On a more 
+macroscale, these devices often malfunction under highpressure conditions, making many post
+fabrication processing strategies unfeasible. Recent research efforts have thus been directed 
+towards the material optimization of microfluidic devices. To this end, thermoplastic microfluidic 
+platforms have garnered significant interest, given their excellent material properties and low 
+device cost, relative to their glass and PDMS device counterparts. Materials such as poly(methyl 
+methacrylate) (PMMA), cyclic Olefin polymer (COP), cyclic olefin copolymer (COC), 
+polystyrene (PS), polycarbonate (PC), polyethylene glycol (PEG) and polyester terephthalate 
+(PETE) are considered costeffective thermoplastic polymers for microfluidic fabrications, 
+providing biocompatibility, gas permeability and good optical properties 1114. 3

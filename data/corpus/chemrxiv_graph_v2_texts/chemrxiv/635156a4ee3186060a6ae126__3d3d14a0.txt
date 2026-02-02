@@ -1,0 +1,12 @@
+Description:
+A feedstock used in steam cracking to produce ethylene and 1,3 butadiene.
+
+Text:
+The polymer industry is constantly evolving, facing numerous challenges in the current 
+transition to a more sustainable society. The tire and nylon sectors depend heavily on 1,3
+butadiene (BD) as a monomer.1 BD is traditionally obtained through the steam cracking of 
+naphtha as a byproduct of ethylene production; its market is currently under tension mainly 
+due to the rising of shale gas.2 In fact, the weight ratio butadieneethylene sits at around 0.02 
+for ethane cracking, the main component of shale gas, compared to 0.13 for naphtha cracking.1 
+This difference could lead to a further unbalance in the BD market. Thus, alternative and more 
+sustainable ways to produce BD are needed.

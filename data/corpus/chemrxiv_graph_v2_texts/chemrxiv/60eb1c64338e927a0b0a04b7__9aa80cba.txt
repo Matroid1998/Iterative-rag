@@ -1,0 +1,12 @@
+Description:
+2D materials that exhibit a propensity toward oxidation after long-term exposure to air.
+
+Text:
+Quantum confinement4, 5 of the quasitwodimensional (2D) inorganic slab leads to 
+wide band gaps (typically in the range of 34.5 eV), lending these materials potential for 
+applications such as white lightemitting diodes.3, 68 Some computational studies have also 
+predicted high hole and electron mobilities and efficient excited state photoemission due to 
+high exciton binding energies.9, 10 However, like many other 2D materials (e.g., black 
+phosphorus, BP, and transition metals dichalcogenides, TMDCs), IIVI LHs also exhibit a 
+propensity toward oxidation after longterm exposure to air, which limits their 
+(opto)electronic performance as exfoliated fewlayer material.

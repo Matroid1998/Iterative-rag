@@ -1,0 +1,14 @@
+Description:
+Used for Li microsolvation in structure optimization.
+
+Text:
+1993, 58, 68836888; (D) Stern, M. K.; Cheng, B. K.; Hileman, F. D.; 
+Allman, J. M., A New Route to 4Aminodiphenylamine Via Nucleophilic 
+AromaticSubstitution for Hydrogen  Reaction of Aniline and 
+Azobenzene. J. Org. Chem. 1994, 59, 56275632. 15. The sodium dianion salt of nitrosobenzene has been isolated 
+and oxidized to nitrobenzene in airsaturated water. See Chon, J. K.; Paik, 
+W., Electrochemical Formation of the Dianion Salt of Nitrobenzene in 
+AproticSolvent. Bull. Korean Chem. Soc. 1983, 4, 5557. 16. Zuman, P.; Fijalek, Z., Addition of Hydroxide Ions to 
+Nitrosobenzene  Equilibria and Some Reactions of the Adduct. J. Org. Chem. 1991, 56, 54865488. 17. Structures were fully optimized at the B3LYP631G(d) level 
+of theory incorporating Li microsolvation by THF; see the Supporting 
+Information for details and references.

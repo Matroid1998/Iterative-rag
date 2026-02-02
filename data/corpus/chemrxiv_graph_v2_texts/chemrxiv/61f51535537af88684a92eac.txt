@@ -1,0 +1,13 @@
+Description:
+A drug first marketed as a racemic mixture, with its S-enantiomer causing severe teratogenic effects.
+
+Text:
+Chirality is an essential property for many biologically relevant molecules, including bio(macro)molecules 
+like sugars, amino acids and their polymers (proteins, polysaccharides, DNARNA). Despite the seemingly 
+minute structural difference, enantiomers of drugs can exhibit significant differences in their biological 
+activity such as pharmacology, toxicology, pharmacokinetics, pharmacodynamics, etc.1 For instance, for 
+the analgesic drug ibuprofen, its Senantiomer has a higher efficacy than its stereoisomer.1 In the worst 
+case, a stereoisomer can produce undesired or toxic effects. A notorious example is thalidomide, which 
+was first marketed in 1957 as a racemic mixture, but due to severe teratogenic effects (phocomelia, amelia) 
+caused by its Senantiomer, it was withdrawn from the market in the 1960.1 Therefore, the isolation of 
+therapeutically active enantiomers is of utmost importance.

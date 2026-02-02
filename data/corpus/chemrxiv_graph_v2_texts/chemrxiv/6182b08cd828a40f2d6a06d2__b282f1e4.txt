@@ -1,0 +1,52 @@
+Description:
+Block copolymers used in hybrid vesicles for nanomedicine and biotechnology applications.
+
+Text:
+Therefore, hybrid lipidpolymer vesicles aim to take 
+advantage of the robustness and chemical versatility of a polymer membrane as well as the 
+biocompatibility and softness provided by a lipid bilayer.6, 7 
+While a variety of block copolymer chemical structures have been blended with phospholipids, 
+polybutadienepoly(ethylene oxide) (PBdPEO) block copolymers are one of the most commonly 
+studied examples.816 PBdPEO containing hybrid vesicles may have potential applications in 
+nanomedicine 17 and the augmentation of membrane proteins for biotechnology applications such as 
+targeted drug delivery, sensors or artificial cells.8, 16, 18 
+Focusing on membrane protein biotechnology, PBd22PEO14 has been blended with POPC lipids for 
+the reconstitution of the membrane enzyme cytochrome bo3; all hybrid compositions studied were 
+found to maintain  40 of their initial reconstituted protein activity after 41 days storage at 4 C, a 
+significant improvement over purely lipid vesicles.8 Further study revealed that 5050 mol PBd22
+PEO14POPC hybrid vesicles retain 20 of their initial activity after 500 days storage, where the rate 
+of decay in enzyme activity is approximately 5 times slower than for proteoliposomes.19 Other 
+membrane proteins have been successfully reconstituted using PBdPEO hybrid vesicles.
+
+
+---
+
+Description:
+Used to form hybrid vesicles for reconstituting membrane proteins.
+
+Text:
+PBd22
+PEO14 blended with E.coli extracted lipids has been used to successfully reconstitute two ATP 
+binding cassette membrane proteins, Pgp or NaAtm1.9 Combinations of membrane proteins have also 
+been successfully reconstituted into PBdPEO hybrid vesicles F0F1 ATP synthase and 
+bacteriorhodopsin in 50 mol PBd22PEO14POPC hybrid vesicles retained  50 of their activity 
+after 42 days.10 Besides enhanced durability of protein function, block copolymers have been shown 
+to enhance membrane protein folding into hybrid vesicles up to 25 mol of PBd22PEO14 or PBd12
+PEO9 in DOPC hybrid vesicles enhanced MScL protein folding during cellfree expression.20 
+Therefore improved understanding of the physicochemical properties of these hybrid membranes 
+should further enhance their optimisation for membrane protein biotechnology.
+
+
+---
+
+Description:
+A hybrid polymer used in the formation of giant unilamellar vesicles (GUVs).
+
+Text:
+Early work on the properties hybrid PBdPEO giant unilamellar vesicles (GUVs) 
+investigated the large PBd46PEO30 polymer mixed with POPC.13, 14 Mixing between these 
+components was not ideal at low lipid composition, where it was assumed that a high energy cost for 
+insertion of these larger polymers into a thin lipid membrane frustrated hybrid vesicle formation, and 
+no GUVs were observed at intermediate compositions.13 The GUV membranes that were formed in 
+this study were, however, homogeneous, but biotinylation of either the lipid or polymer and cross
+linking by addition of the multivalent neutravidin protein did result in microscopic domain formation.

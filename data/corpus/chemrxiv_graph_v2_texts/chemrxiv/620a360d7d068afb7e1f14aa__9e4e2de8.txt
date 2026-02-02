@@ -1,0 +1,14 @@
+Description:
+A redox-active molecule used in DNA detection.
+
+Text:
+It is a straight
+forward electrochemical technique that has been applied for DNA 
+detection using redoxactive molecules, such as methylene blue 
+(MB) 21, anthraqinone2sulfonic acid monohydrate sodium salt 
+(AQMS) 22 or daunomycin (DNR) 23. These molecules have 
+different interaction mechanisms to singlestranded (ssDNA) and 
+doublestrand DNA (dsDNA). The advantages of such an approach 
+include the short time needed to obtain results and the simplicity of 
+the system. The attachment of probe DNA in a stable and robust manner re
+mains a key challenge in electrochemical sensor development 12.

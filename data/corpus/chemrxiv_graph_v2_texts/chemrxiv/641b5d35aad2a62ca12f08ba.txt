@@ -1,0 +1,30 @@
+Description:
+A sulfonated fluoropolymer commonly used as the proton exchange membrane material in fuel cells.
+
+Text:
+Proton transport (PT) plays a vital role in many different fields, including biology,19 energy
+storage,1015 catalysis,16,17 gas separation,18,19 and proton exchange membrane (PEM) hy
+drogen fuel cells.2025 Fuel cells are of current interest because of their high energy conversion
+efficiency, high energy density, and their potential to aid in decarbonizing the transportation
+sector.26,27
+Current PEM fuel cells most commonly employ Nafion,28 a sulfonated fluoropolymer, as
+the PEM material. While this material is widely used and wellcharacterized, there are still
+questions about the precise mechanism and limitations of PT in hydrated Nafion.
+
+
+---
+
+Description:
+Not an intrinsic proton conduction material and must be hydrated, limiting its operating temperature to 80°C.
+
+Text:
+Because of
+this, there have been many recent studies using molecular simulations aimed at elucidating
+the atomistic details of the PT mechanism in Nafion and related materials under hydrated
+conditions.2935
+A problem with Nafion is that it is not an intrinsic proton conduction material and must
+be hydrated. This limits the operating temperature to  80C and requires complex and
+costly water management systems to maintain proper hydration without flooding.27,3638
+Developing membranes that can operate at elevated temperatures and at low humidity or
+under anhydrous conditions can enable increased kinetics, higher resistance to electrode
+2

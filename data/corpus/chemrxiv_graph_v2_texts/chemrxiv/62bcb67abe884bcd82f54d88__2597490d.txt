@@ -1,0 +1,14 @@
+Description:
+Facilitates energy storage in a hydrogen-fueled society.
+
+Text:
+To halt the global temperature increase, drastic transitions in 
+energy production and storage are required. During the last 
+decade, the global electricity production by renewable energy 
+duplicated and is predicted to keep growing rapidly.1 However, a 
+major problem for the large scale implementation of renewable 
+energies is the mismatch between production and demand. Compensating this discrepancy requires matching buffer 
+capacities. The key principle for a hydrogen fueled society is to 
+facilitate hydrogen (H2) as a storable energy carrier. In this 
+scenario, excess energy is used in water electrolysis to produce 
+hydrogen.
