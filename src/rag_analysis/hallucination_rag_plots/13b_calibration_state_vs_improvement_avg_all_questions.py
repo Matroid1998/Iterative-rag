@@ -141,22 +141,6 @@ def main():
                     total_questions += len(correctness)
         
         if model_accuracies:
-            # Apply target scaling if requested
-            # Target values: Overconfident=71.4, Well-Calibrated=82.7, Underconfident=81.6
-            target_mean = None
-            if state == 'Overconfident': target_mean = 71.4
-            elif state == 'Well-Calibrated': target_mean = 82.7
-            elif state == 'Underconfident': target_mean = 81.6
-            
-            current_mean = np.mean(model_accuracies)
-            
-            if target_mean is not None and current_mean > 0:
-                scale_factor = target_mean / current_mean
-                model_accuracies = [acc * scale_factor for acc in model_accuracies]
-                # Update stored values for t-test
-                for m in state_model_accuracies[state]:
-                    state_model_accuracies[state][m] *= scale_factor
-            
             # Average across all models
             avg_acc = np.mean(model_accuracies)
             # Calculate Standard Error of Mean (SEM)
