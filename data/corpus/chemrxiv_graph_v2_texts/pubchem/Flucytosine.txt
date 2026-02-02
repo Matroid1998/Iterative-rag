@@ -1,0 +1,35 @@
+Name: Flucytosine
+Text:
+Flucytosine is an organofluorine compound that is cytosine that is substituted at position 5 by a fluorine. A prodrug for the antifungal 5-fluorouracil, it is used for the treatment of systemic fungal infections. It has a role as a prodrug. It is an organofluorine compound, a pyrimidone, an aminopyrimidine, a nucleoside analogue and a pyrimidine antifungal drug. It is functionally related to a cytosine.
+Flucytosine is an antifungal prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of serious infections caused by certain strains of two types of fungi: Candida and Cryptococcus. For example, flucytosine is used to treat cryptococcosis, which is an infection caused by Cryptococcus fungi.
+Cryptococcosis can be an opportunistic infection (OI) of HIV.
+A fluorinated cytosine analog that is used as an antifungal agent.
+Flucytosine is a Nucleoside Analog Antifungal.
+Flucytosine is an antifungal agent used to treat severe infections caused by candida and cryptococcus. Flucytosine therapy can cause transient mild-to-moderate serum aminotransferase elevations and has been mentioned as a very rare cause of clinically apparent acute drug induced liver injury.
+Flucytosine has been reported in Garcinia dulcis with data available.
+Flucytosine is a pyrimidine compound and a fluorinated cytosine analog exhibiting antifungal activity. After penetration into the fungal cells, flucytosine is deaminated to its active metabolite 5-fluorouracil. 5-fluorouracil replaces uracil during fungal RNA synthesis, thereby inhibiting fungal protein synthesis. In addition, fluorouracil is further metabolized to 5-fluorodeoxyuridylic acid monophosphate, which inhibits thymidylate synthetase, thereby interrupting nucleotide metabolism, DNA synthesis and ultimately protein synthesis.
+FLUCYTOSINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1971 and has 3 approved and 8 investigational indications. This drug has a black box warning from the FDA.
+Flucytosine is only found in individuals that have used or taken this drug. It is a fluorinated cytosine analog that is used as an antifungal agent. [PubChem]Although the exact mode of action is unknown, it has been proposed that flucytosine acts directly on fungal organisms by competitive inhibition of purine and pyrimidine uptake and indirectly by intracellular metabolism to 5-fluorouracil. Flucytosine enters the fungal cell via cytosine permease; thus, flucytosine is metabolized to 5-fluorouracil within fungal organisms. The 5-fluorouracil is extensively incorporated into fungal RNA and inhibits synthesis of both DNA and RNA. The result is unbalanced growth and death of the fungal organism. It also appears to be an inhibitor of fungal thymidylate synthase.
+A fluorinated cytosine analog that is used as an antifungal agent.
+Properties:safety: Health Hazard
+smiles: C1=NC(=O)NC(=C1F)N
+formula: C4H4FN3O
+chem_properties: Molecular Weight: 129.09 g/mol
+XLogP3: -0.9
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 129.03383992 Da
+Monoisotopic Mass: 129.03383992 Da
+Topological Polar Surface Area: 67.5
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 208
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

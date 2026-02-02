@@ -1,0 +1,30 @@
+Name: Cyclopentanes
+Text:
+Cyclopentane appears as a clear colorless liquid with a petroleum-like odor. Flash point of -35 °F. Less dense than water and insoluble in water. Vapors are heavier than air.
+Cyclopentane is a cycloalkane that consists of five carbons each bonded with two hydrogens above and below the plane. The parent of the class of cyclopentanes. It has a role as a non-polar solvent. It is a member of cyclopentanes, a cycloalkane and a volatile organic compound.
+Cyclopentane has been reported in Oryza sativa and Senna sophera with data available.
+Cyclopentane is a cyclic hydrocarbon. It is a component of gasoline and is used in the manufacture of synthetic resins and rubber adhesives, and also as a blowing agent in the manufacture of polyurethane insulating foam. (L1298)
+A group of alicyclic hydrocarbons with the general formula R-C5H9.
+See also: Hydrocarbons, cyclic C5 and C6 (annotation moved to).
+Properties:safety: Flammable
+smiles: C1CCCC1
+formula: C5H10
+chem_properties: Molecular Weight: 70.13 g/mol
+XLogP3: 3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 70.078250319 Da
+Monoisotopic Mass: 70.078250319 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 11.6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

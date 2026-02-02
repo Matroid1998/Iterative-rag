@@ -1,0 +1,25 @@
+Name: Gallium arsenide
+Text:
+Gallium Arsenide can cause cancer according to California Labor Code.
+Gallium arsenide is a chemical compound of gallium and arsenic. It is used to make devices such as microwave frequency integrated circuits, infrared light-emitting diodes, laser diodes and solar cells. It is also a semiconductor. Arsenic is a chemical element that has the symbol As and atomic number 33. It is a poisonous metalloid that has many allotropic forms: yellow (molecular non-metallic) and several black and grey forms (metalloids) are a few that are seen. Three metalloidal forms of arsenic with different crystal structures are found free in nature (the minerals arsenopyrite and the much rarer arsenolamprite and pararsenolamprite), but it is more commonly found as a compound with other elements. (T3, L354)
+Properties:safety: Health Hazard
+smiles: [Ga]#[As]
+formula: AsGa
+chem_properties: Molecular Weight: 144.645 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 143.84717 Da
+Monoisotopic Mass: 143.84717 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 2
+Formal Charge: 0
+Complexity: 10
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

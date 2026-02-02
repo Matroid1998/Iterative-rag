@@ -1,0 +1,34 @@
+Name: Ethionamide
+Text:
+Ethionamide can cause developmental toxicity according to state or federal government labeling requirements.
+Ethionamide appears as yellow crystals or canary yellow powder with a faint to moderate sulfide odor. (NTP, 1992)
+Ethionamide is a thiocarboxamide that is pyridine-4-carbothioamide substituted by an ethyl group at position 2. A prodrug that undergoes metabolic activation by conversion to the corresponding S-oxide. It has a role as an antitubercular agent, an antilipemic drug, a fatty acid synthesis inhibitor, a leprostatic drug and a prodrug. It is a member of pyridines and a thiocarboxamide.
+A second-line antitubercular agent that inhibits mycolic acid synthesis. It also may be used for treatment of leprosy. (From Smith and Reynard, Textbook of Pharmacology, 1992, p868)
+Ethionamide is an Antimycobacterial.
+Ethionamide is a second line drug in the therapy of tuberculosis used only in combination with other agents and for drug-resistant tuberculosis. Ethionamide has been linked to transient, asymptomatic elevations in serum aminotransferase levels and in uncommon instances of acute liver injury, which can be severe.
+Ethionamide is a nicotinamide derivative, with antibacterial activity, used to treat tuberculosis. Although the exact mechanism of action of ethionamide is unknown, it may inhibit the synthesis of mycolic acid, a saturated fatty acid found in the bacterial cell wall, thereby inhibiting bacterial cell wall synthesis. This eventually leads to bacterial cell wall disruption and cell lysis. Ethionamide may be bacteriostatic or bactericidal in action, depending on the concentration of the drug at the site of infection and the susceptibility of the organism involved.
+ETHIONAMIDE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1965 and is indicated for tuberculosis and has 3 investigational indications.
+A second-line antitubercular agent that inhibits mycolic acid synthesis.
+See also: Thioamides (annotation moved to).
+Properties:safety: Irritant and Health Hazard
+smiles: CCC1=NC=CC(=C1)C(=S)N
+formula: C8H10N2S
+chem_properties: Molecular Weight: 166.25 g/mol
+XLogP3: 1.1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 2
+Exact Mass: 166.05646950 Da
+Monoisotopic Mass: 166.05646950 Da
+Topological Polar Surface Area: 71
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 147
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

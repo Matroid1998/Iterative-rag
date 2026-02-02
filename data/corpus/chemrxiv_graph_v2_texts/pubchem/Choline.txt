@@ -1,0 +1,32 @@
+Name: Choline
+Text:
+Choline is a choline that is the parent compound of the cholines class, consisting of ethanolamine having three methyl substituents attached to the amino function. It has a role as a neurotransmitter, a nutrient, a human metabolite, a plant metabolite, a Daphnia magna metabolite, a Saccharomyces cerevisiae metabolite, an Escherichia coli metabolite, a mouse metabolite and an allergen.
+A basic constituent of lecithin that is found in many plants and animal organs. It is important as a precursor of acetylcholine, as a methyl donor in various metabolic processes, and in lipid metabolism.
+Choline is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Choline has been reported in Amaranthus hybridus, Leonurus japonicus, and other organisms with data available.
+CHOLINE is a small molecule drug with a maximum clinical trial phase of I (Early) and has 1 investigational indication.
+Choline is a metabolite found in or produced by Saccharomyces cerevisiae.
+A basic constituent of lecithin that is found in many plants and animal organs. It is important as a precursor of acetylcholine, as a methyl donor in various metabolic processes, and in lipid metabolism.
+See also: Choline Chloride (is active moiety of); Choline Hydroxide (is active moiety of); Choline Bitartrate (is active moiety of) ... View More ...
+Properties:safety: Flammable and Corrosive and Health Hazard
+smiles: C[N+](C)(C)CCO
+formula: C5H14NO+
+chem_properties: Molecular Weight: 104.17 g/mol
+XLogP3: -0.4
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 2
+Exact Mass: 104.107539070 Da
+Monoisotopic Mass: 104.107539070 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 7
+Formal Charge: 1
+Complexity: 46.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

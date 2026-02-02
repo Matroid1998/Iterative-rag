@@ -1,0 +1,23 @@
+Name: Cuprate
+Text:
+Properties:safety: Irritant
+smiles: C1=CC=C(C=C1)NC2=CC3=CC(=C(C(=C3C=C2)O)N=NC4=C(C=C(C=C4)C5=CC(=C(C=C5)N=NC6=C(C7=C(C=C(C=C7C=C6S(=O)(=O)[O-])S(=O)(=O)[O-])S(=O)(=O)[O-])O)O)O)S(=O)(=O)[O-].[Na+].[Na+].[Na+].[Na+].[Cu].[Cu]
+formula: C38H23Cu2N5Na4O16S4
+chem_properties: Molecular Weight: 1152.9 g/mol
+Hydrogen Bond Donor Count: 5
+Hydrogen Bond Acceptor Count: 21
+Rotatable Bond Count: 3
+Exact Mass: 1150.820536 Da
+Monoisotopic Mass: 1150.820536 Da
+Topological Polar Surface Area: 405
+Heavy Atom Count: 69
+Formal Charge: 0
+Complexity: 2060
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 7
+Compound Is Canonicalized: Yes 
+

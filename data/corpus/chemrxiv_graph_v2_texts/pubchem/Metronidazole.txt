@@ -1,0 +1,37 @@
+Name: Metronidazole
+Text:
+Metronidazole can cause cancer according to an independent committee of scientific and health experts.
+Metronidazole is a white to pale-yellow crystalline powder with a slight odor. Bitter and saline taste. pH (saturated aqueous solution) about 6.5. (NTP, 1992)
+Metronidazole is a member of the class of imidazoles substituted at C-1, -2 and -5 with 2-hydroxyethyl, nitro and methyl groups respectively. It has activity against anaerobic bacteria and protozoa, and has a radiosensitising effect on hypoxic tumour cells. It may be given by mouth in tablets, or as the benzoate in an oral suspension. The hydrochloride salt can be used in intravenous infusions. Metronidazole is a prodrug and is selective for anaerobic bacteria due to their ability to intracellularly reduce the nitro group of metronidazole to give nitroso-containing intermediates. These can covalently bind to DNA, disrupting its helical structure, inducing DNA strand breaks and inhibiting bacterial nucleic acid synthesis, ultimately resulting in bacterial cell death. It has a role as an antitrichomonal drug, a prodrug, an antibacterial drug, an antimicrobial agent, an antiparasitic agent, a xenobiotic, an environmental contaminant, a radiosensitizing agent and an antiamoebic agent. It is a member of imidazoles, a C-nitro compound and a primary alcohol. It is a conjugate base of a metronidazole(1+).
+Metronidazole is a commonly used antibiotic, belonging to the nitroimidazole class of antibiotics. It is frequently used to treat gastrointestinal infections as well as trichomoniasis and giardiasis, and amebiasis which are parasitic infections. Metronidazole has been used as an antibiotic for several decades, with added antiparasitic properties that set it apart from many other antibacterial drugs, allowing it to treat a wide variety of infections. It is available in capsule form, tablet form, and topical form, and suppository preparations for the treatment of various infections.
+Metronidazole is a Nitroimidazole Antimicrobial.
+Metronidazole is a nitroimidazole derivative bactericidal agent widely used in the treatment of many anaerobic and certain protozoan and parasitic infections. Metronidazole has been linked to rare instances of acute, clinically apparent liver injury.
+Metronidazole has been reported in Euglena gracilis and Streptomyces hygroscopicus with data available.
+Metronidazole is a synthetic nitroimidazole derivative with antiprotozoal and antibacterial activities. Although its mechanism of action is not fully elucidated, un-ionized metronidazole is readily taken up by obligate anaerobic organisms and is subsequently reduced by low-redox potential electron-transport proteins to an active, intermediate product. Reduced metronidazole causes DNA strand breaks, thereby inhibiting DNA synthesis and bacterial cell growth.
+TRICOM is tRIad of COstimulatory Molecules (B7-1, ICAM-1 and LFA-3).  An immunostimulant.
+METRONIDAZOLE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1963 and has 10 approved and 46 investigational indications. This drug has a black box warning from the FDA.
+A nitroimidazole used to treat amebiasis; vaginitis; trichomonas infections; giardiasis; anaerobic bacteria; and treponemal infections. It has also been proposed as a radiation sensitizer for hypoxic cells. According to the Fourth Annual Report on Carcinogens (NTP 85-002, 1985) this substance may reasonably be anticipated to be a carcinogen.
+A nitroimidazole used to treat AMEBIASIS; VAGINITIS; TRICHOMONAS INFECTIONS; GIARDIASIS; ANAEROBIC BACTERIA; and TREPONEMAL INFECTIONS.
+See also: Metronidazole Benzoate (active moiety of); Metronidazole Hydrochloride (has salt form); Metronidazole sodium (is active moiety of) ... View More ...
+Properties:safety: Irritant and Health Hazard
+smiles: CC1=NC=C(N1CCO)[N+](=O)[O-]
+formula: C6H9N3O3
+chem_properties: Molecular Weight: 171.15 g/mol
+XLogP3: 0
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 2
+Exact Mass: 171.06439116 Da
+Monoisotopic Mass: 171.06439116 Da
+Topological Polar Surface Area: 83.9
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 170
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

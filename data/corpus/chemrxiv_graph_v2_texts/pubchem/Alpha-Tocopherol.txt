@@ -1,0 +1,32 @@
+Name: Alpha-Tocopherol
+Text:
+(R,R,R)-alpha-tocopherol is an alpha-tocopherol that has R,R,R configuration. The naturally occurring stereoisomer of alpha-tocopherol, it is found particularly in sunflower and olive oils. It has a role as an antioxidant, a nutraceutical, an antiatherogenic agent, an EC 2.7.11.13 (protein kinase C) inhibitor, an anticoagulant, an immunomodulator, an antiviral agent, a micronutrient, an algal metabolite and a plant metabolite. It is an enantiomer of a (S,S,S)-alpha-tocopherol.
+Tocopherol exists in four different forms designated as α, β, δ, and γ. They present strong antioxidant activities, and it is determined as the major form of vitamin E. Tocopherol, as a group, is composed of soluble phenolic compounds that consist of a chromanol ring and a 16-carbon phytyl chain. The classification of the tocopherol molecules is designated depending on the number and position of the methyl substituent in the chromanol ring. The different types of tocopherol can be presented trimethylated, dimethylated or methylated in the positions 5-, 7- and 8-. When the carbons at position 5- and 7- are not methylated, they can function as electrophilic centers that can trap reactive oxygen and nitrogen species. Tocopherols can be found in the diet as part of vegetable oil such as corn, soybean, sesame, and cottonseed. It is currently under the list of substances generally recognized as safe (GRAS) in the FDA for the use of human consumption.
+Vitamin E has been reported in Amaranthus hybridus, Guarea kunthiana, and other organisms with data available.
+Tocopherol is a class of vitamin E compounds naturally found in many different sources, such as oils, nuts, and vegetables. Tocopherols have antioxidant activity.
+Alpha-Tocopherol is the orally bioavailable alpha form of the naturally-occurring fat-soluble vitamin E, with potent antioxidant and cytoprotective activities.  Upon administration, alpha-tocopherol neutralizes free radicals, thereby protecting tissues and organs from oxidative damage. Alpha-tocopherol gets incorporated into biological membranes, prevents protein oxidation and inhibits lipid peroxidation, thereby maintaining cell membrane integrity and protecting the cell against damage. In addition, alpha-tocopherol inhibits the activity of protein kinase C (PKC) and PKC-mediated pathways. Alpha-tocopherol also modulates the expression of various genes, plays a key role in neurological function, inhibits platelet aggregation and enhances vasodilation. Compared with other forms of tocopherol, alpha-tocopherol is the most biologically active form and is the form that is preferentially absorbed and retained in the body.
+A generic descriptor for all tocopherols and tocotrienols that exhibit alpha-tocopherol activity. By virtue of the phenolic hydrogen on the 2H-1-benzopyran-6-ol nucleus, these compounds exhibit varying degree of antioxidant activity, depending on the site and number of methyl groups and the type of isoprenoids. 
+A generic descriptor for all TOCOPHEROLS and TOCOTRIENOLS that exhibit ALPHA-TOCOPHEROL activity. By virtue of the phenolic hydrogen on the 2H-1-benzopyran-6-ol nucleus, these compounds exhibit varying degree of antioxidant activity, depending on the site and number of methyl groups and the type of ISOPRENOIDS.
+See also: Alpha-Tocopherol Acetate (is active moiety of); DL-alpha-Tocopherol (has subclass); Vitamin E (has subclass) ... View More ...
+Properties:safety: Irritant
+smiles: CC1=C(C2=C(CC[C@@](O2)(C)CCC[C@H](C)CCC[C@H](C)CCCC(C)C)C(=C1O)C)C
+formula: C29H50O2
+chem_properties: Molecular Weight: 430.7 g/mol
+XLogP3: 10.7
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 12
+Exact Mass: 430.381080833 Da
+Monoisotopic Mass: 430.381080833 Da
+Topological Polar Surface Area: 29.5
+Heavy Atom Count: 31
+Formal Charge: 0
+Complexity: 503
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 3
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

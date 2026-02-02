@@ -1,0 +1,25 @@
+Name: 4-Bromoaniline
+Text:
+P-bromoaniline is a brown solid with a sweet odor. (NTP, 1992)
+Properties:safety: Acute Toxic and Irritant and Health Hazard
+smiles: C1=CC(=CC=C1N)Br
+formula: C6H6BrN
+chem_properties: Molecular Weight: 172.02 g/mol
+XLogP3: 2.3
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 170.96836 Da
+Monoisotopic Mass: 170.96836 Da
+Topological Polar Surface Area: 26
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 66.9
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

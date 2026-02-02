@@ -1,0 +1,27 @@
+Name: Fluorobenzene
+Text:
+Fluorobenzene appears as a clear, colorless liquid with a characteristic aromatic odor. About the same density as water. Flash point 5 °F. Vapors heavier than air. May irritate the skin, eyes, and mucous membranes. Used as an insecticide, larvacide and as a reagent for plastic or resin polymers.
+Monofluorobenzene is the simplest member of the class of monofluorobenzenes that is benzene carrying a single fluoro substituent. It has a role as a NMR chemical shift reference compound.
+Derivatives of BENZENE that contain FLUORINE.
+Properties:safety: Flammable and Corrosive and Irritant and Environmental Hazard
+smiles: C1=CC=C(C=C1)F
+formula: C6H5F
+chem_properties: Molecular Weight: 96.10 g/mol
+XLogP3: 2.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 96.037528322 Da
+Monoisotopic Mass: 96.037528322 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 46.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

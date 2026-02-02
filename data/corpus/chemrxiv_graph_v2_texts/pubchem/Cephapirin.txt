@@ -1,0 +1,31 @@
+Name: Cephapirin
+Text:
+Cephapirin is a cephalosporin with acetoxymethyl and 2(pyridin-4-ylsulfanyl)acetamido substituents at positions 3 and 7, respectively, of the cephem skeleton. It is used (as its sodium salt) as an antibiotic, being effective against gram-negative and gram-positive organisms. It has a role as an antibacterial drug. It is a conjugate acid of a cephapirin(1-).
+Cefapirin (INN, also spelled cephapirin), commonly marketed under the trade name Cefadyl, is a first-generation cephalosporin antibiotic that is available in injectable formulations. Production for use in humans has been discontinued in the United States. Cefapirin is partly plasma-bound and is effective against gram-negative and gram-positive organisms.
+Cephapirin has been reported in Apis cerana with data available.
+Cephapirin is a semisynthetic, broad-spectrum, first-generation cephalosporin with antibacterial activity. Cephapirin binds to and inactivates penicillin-binding proteins (PBPs) located on the inner membrane of the bacterial cell wall. PBPs are enzymes involved in the terminal stages of assembling the bacterial cell wall and in reshaping the cell wall during growth and division. Inactivation of PBPs interferes with the cross-linkage of peptidoglycan chains necessary for bacterial cell wall strength and rigidity. This results in the weakening of the bacterial cell wall and causes cell lysis.
+CEPHAPIRIN is a small molecule drug with a maximum clinical trial phase of IV that was first approved in 1974 and is indicated for bacterial disease.
+Cephalosporin antibiotic, partly plasma-bound, that is effective against gram-negative and gram-positive organisms.
+See also: Cephapirin Sodium (has salt form); Cephapirin Benzathine (active moiety of).
+Properties:safety: Irritant and Health Hazard
+smiles: CC(=O)OCC1=C(N2[C@@H]([C@@H](C2=O)NC(=O)CSC3=CC=NC=C3)SC1)C(=O)O
+formula: C17H17N3O6S2
+chem_properties: Molecular Weight: 423.5 g/mol
+XLogP3: -1.1
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 9
+Rotatable Bond Count: 8
+Exact Mass: 423.05587762 Da
+Monoisotopic Mass: 423.05587762 Da
+Topological Polar Surface Area: 177
+Heavy Atom Count: 28
+Formal Charge: 0
+Complexity: 707
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,33 @@
+Name: Miltefosine
+Text:
+Miltefosine is a phospholipid that is the hexadecyl monoester of phosphocholine. It has a role as an antineoplastic agent, an antiprotozoal drug, an antifungal agent, an immunomodulator, an anti-inflammatory agent, an apoptosis inducer, a protein kinase inhibitor and an anticoronaviral agent. It is a member of phosphocholines and a phospholipid.
+Miltefosine is an antiprotozoal prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of leishmaniasis.
+Leishmaniasis can be an opportunistic infection (OI) of HIV.
+Miltefosine is a broad spectrum antimicrobial, anti-leishmanial, phospholipid drug that was originally developed in the 1980s as an anti-cancer agent. It is currently the only recognized oral agent used to treat visceral, cutaneous, and mucosal forms of leishmaniasis, a neglected tropical disease. It can be administered topically or orally and is only indicated in patients aged 12 years or older. The CDC has also recommended it as a first line treatment for free-living amebae (FLA) infections such as primary amebic meningoencephalitis and granulomatous amebic encephalitis.
+Miltefosine is an Antileishmanial.
+Miltefosine is an orally available, alkyl phospholipid that is used in the treatment of both cutaneous and visceral leishmaniasis. Miltefosine therapy is often accompanied by transient mild-to-moderate serum aminotransferase elevations during the first 1 or 2 weeks of treatment, but has not been implicated in cases of clinically apparent liver injury with jaundice.
+Miltefosine has been reported in Carica papaya and Xenorhabdus nematophila with data available.
+Miltefosine is an orally- and topically-active alkyl-phosphocholine compound with potential antineoplastic activity.  Miltefosine targets cellular membranes, modulating cell membrane permeability, membrane lipid composition, phospholipid metabolism, and mitogenic signal transduction, resulting in cell differentiation and inhibition of cell growth.  This agent also inhibits the anti-apoptotic mitogen-activated protein kinase (MAPK) pathway and modulates the balance between the MAPK and pro-apoptotic stress-activated protein kinase (SAPK/JNK) pathways, thereby inducing apoptosis.  As an immunomodulator, miltefosine stimulates T-cells, macrophages and the expression of interleukin 3 (IL-3), granulocyte-macrophage colony stimulating factor (GM-CSF), and interferon gamma (INF-gamma). (NCI04)
+MILTEFOSINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2014 and has 5 approved and 1 investigational indication. This drug has a black box warning from the FDA.
+Properties:safety: Acute Toxic and Irritant and Health Hazard
+smiles: CCCCCCCCCCCCCCCCOP(=O)([O-])OCC[N+](C)(C)C
+formula: C21H46NO4P
+chem_properties: Molecular Weight: 407.6 g/mol
+XLogP3: 6.7
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 20
+Exact Mass: 407.31644595 Da
+Monoisotopic Mass: 407.31644595 Da
+Topological Polar Surface Area: 58.6
+Heavy Atom Count: 27
+Formal Charge: 0
+Complexity: 363
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

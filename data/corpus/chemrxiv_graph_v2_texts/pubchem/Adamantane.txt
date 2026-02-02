@@ -1,0 +1,28 @@
+Name: Adamantane
+Text:
+Adamantane is a member of adamantanes and a polycyclic alkane.
+Adamantane has been reported in Psidium guajava with data available.
+adamantane is a mineral.
+A tricyclo bridged hydrocarbon.
+Properties:safety: Irritant and Environmental Hazard
+smiles: C1C2CC3CC1CC(C2)C3
+formula: C10H16
+chem_properties: Molecular Weight: 136.23 g/mol
+XLogP3: 3.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 136.125200510 Da
+Monoisotopic Mass: 136.125200510 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 75.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,28 @@
+Name: Cyclopentene
+Text:
+Cyclopentene appears as a colorless liquid. Less dense than water and insoluble in water. Flash point below 0 °F. Vapors heavier than air. Inhalation of high concentrations may be narcotic. Used to make rubber and plastics.
+Cyclopentene is a cycloalkene that is cyclopentane having one endocyclic double bond.
+Cyclopentene has been reported in Trichoderma harzianum with data available.
+A group of alicyclic hydrocarbons with the general formula R-C5H9.
+Properties:safety: Flammable and Irritant and Health Hazard
+smiles: C1CC=CC1
+formula: C5H8
+chem_properties: Molecular Weight: 68.12 g/mol
+XLogP3: 1.9
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 68.062600255 Da
+Monoisotopic Mass: 68.062600255 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 38
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,24 @@
+Name: Cga-15140
+Text:
+Properties:safety: Irritant
+smiles: CN(C)C(=O)NC1=CC(=C(C=C1)C(=O)O)Cl
+formula: C10H11ClN2O3
+chem_properties: Molecular Weight: 242.66 g/mol
+XLogP3: 1.4
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 2
+Exact Mass: 242.0458199 Da
+Monoisotopic Mass: 242.0458199 Da
+Topological Polar Surface Area: 69.6
+Heavy Atom Count: 16
+Formal Charge: 0
+Complexity: 283
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

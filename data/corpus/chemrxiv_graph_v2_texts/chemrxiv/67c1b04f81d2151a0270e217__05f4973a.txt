@@ -1,0 +1,17 @@
+Description:
+Forms a matrix assumed to be graphenelike in FeNC catalysts.
+
+Text:
+The
+isomer shift depends linearly on the selectron density at the
+nucleus, while the quadrupole splitting is defined by the elec
+tric field gradient, making it highly sensitive to the symme
+try of the electron distribution around the nucleus.2427 Both
+Mssbauer parameters show a temperature dependence, mak
+ing low temperature experiments on FeNC catalysts highly rele
+vant for comparisons with computational data that are formally
+carried out at 0 K.6,28
+The currently dominant perspective on active sites in FeNC
+catalysts is that iron atoms are surrounded by a fourfold nitro
+gen coordination sphere that are embedded in a carbon ma
+trix, which is assumed to be graphenelike5,6,11,12,14,2022,29.

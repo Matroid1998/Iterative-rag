@@ -1,0 +1,26 @@
+Name: Tetrafluoromethane
+Text:
+Tetrafluoromethane is a colorless nonflammable gas. It is shipped as a liquid under pressure. It may be narcotic at high concentrations. Under prolonged exposure to fire or heat the containers may rupture violently and rocket. It is used as a refrigerant.
+Tetrafluoromethane is a fluorocarbon and a member of fluoromethanes. It has a role as a refrigerant.
+Properties:safety: Irritant
+smiles: C(F)(F)(F)F
+formula: CF4
+chem_properties: Molecular Weight: 88.004 g/mol
+XLogP3: 1.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 87.99361265 Da
+Monoisotopic Mass: 87.99361265 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 19.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

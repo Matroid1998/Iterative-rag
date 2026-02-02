@@ -1,0 +1,28 @@
+Name: Salicylaldehyde
+Text:
+Liquid; colorless or pale yellow; bitter almond odor. Sinks and mixes slowly in water. (USCG, 1999)
+Salicylaldehyde is a hydroxybenzaldehyde carrying a hydroxy substituent at position 2. It has a role as a nematicide and a plant metabolite.
+Salicylaldehyde has been reported in Decalepis hamiltonii, Cinnamomum sieboldii, and other organisms with data available.
+2-Hydroxybenzaldehyde is found in common buckwheat. 2-Hydroxybenzaldehyde is present in cinnamon (Cinnamomum versum). 2-Hydroxybenzaldehyde is a flavouring ingredient.
+Properties:safety: Irritant and Health Hazard
+smiles: C1=CC=C(C(=C1)C=O)O
+formula: C7H6O2
+chem_properties: Molecular Weight: 122.12 g/mol
+XLogP3: 1.8
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 122.036779430 Da
+Monoisotopic Mass: 122.036779430 Da
+Topological Polar Surface Area: 37.3
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 101
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

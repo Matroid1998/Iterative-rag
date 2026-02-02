@@ -1,0 +1,26 @@
+Name: Lactucopicrin
+Text:
+Lactucopicrin is an azulenofuran, a cyclic terpene ketone, an enone, a member of phenols, a sesquiterpene lactone and a primary alcohol. It has a role as a plant metabolite, a sedative and an antimalarial. It is functionally related to a 4-hydroxyphenylacetic acid and a lactucin.
+Lactupicrin has been reported in Cichorium spinosum, Lactuca saligna, and other organisms with data available.
+Properties:safety: Irritant
+smiles: CC1=C2[C@@H]([C@@H]3[C@@H]([C@H](C1)OC(=O)CC4=CC=C(C=C4)O)C(=C)C(=O)O3)C(=CC2=O)CO
+formula: C23H22O7
+chem_properties: Molecular Weight: 410.4 g/mol
+XLogP3: 1.1
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 5
+Exact Mass: 410.13655304 Da
+Monoisotopic Mass: 410.13655304 Da
+Topological Polar Surface Area: 110
+Heavy Atom Count: 30
+Formal Charge: 0
+Complexity: 844
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

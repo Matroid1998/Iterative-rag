@@ -1,0 +1,31 @@
+Name: Cystine
+Text:
+L-cystine is the L-enantiomer of the sulfur-containing amino acid cystine. It has a role as a flour treatment agent, a human metabolite, a Saccharomyces cerevisiae metabolite, a mouse metabolite and an EC 1.2.1.11 (aspartate-semialdehyde dehydrogenase) inhibitor. It is a cystine, a L-cysteine derivative and a non-proteinogenic L-alpha-amino acid. It is a conjugate acid of a L-cystine anion. It is an enantiomer of a D-cystine. It is a tautomer of a L-cystine zwitterion.
+A covalently linked dimeric nonessential amino acid formed by the oxidation of cysteine. Two molecules of cysteine are joined together by a disulfide bridge to form cystine.
+L-Cystine is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+L-cystine has been reported in Salvia hispanica, Glycine max, and other organisms with data available.
+Cystine is not considered one of the 20 amino acids, Cystine is a sulfur-containing derivative obtained from oxidation of cysteine amino acid thiol side chains.  It functions as an antioxidant and protects tissues against radiation and pollution, slowing the aging process.  It also aids protein synthesis. Cystine is abundant in many proteins of skeletal tissues and skin, and found in insulin and digestive enzymes chromotrypsinogen A, papain, and trypsinogen. (NCI04)
+CYSTINE is a small molecule drug with a maximum clinical trial phase of IV.
+A covalently linked dimeric nonessential amino acid formed by the oxidation of CYSTEINE. Two molecules of cysteine are joined together by a disulfide bridge to form cystine.
+Properties:safety: Irritant
+smiles: C([C@@H](C(=O)O)N)SSC[C@@H](C(=O)O)N
+formula: C6H12N2O4S2
+chem_properties: Molecular Weight: 240.3 g/mol
+XLogP3: -6.3
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 7
+Exact Mass: 240.02384922 Da
+Monoisotopic Mass: 240.02384922 Da
+Topological Polar Surface Area: 177
+Heavy Atom Count: 14
+Formal Charge: 0
+Complexity: 192
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

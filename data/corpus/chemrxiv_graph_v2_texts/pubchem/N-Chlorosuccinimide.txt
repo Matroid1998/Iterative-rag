@@ -1,0 +1,25 @@
+Name: N-Chlorosuccinimide
+Text:
+N-chlorosuccinimide is a five-membered cyclic dicarboximide compound having a chloro substituent on the nitrogen atom. It is a pyrrolidinone and a dicarboximide. It is functionally related to a succinimide.
+Properties:safety: Corrosive and Irritant and Environmental Hazard
+smiles: C1CC(=O)N(C1=O)Cl
+formula: C4H4ClNO2
+chem_properties: Molecular Weight: 133.53 g/mol
+XLogP3: -0.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 132.9930561 Da
+Monoisotopic Mass: 132.9930561 Da
+Topological Polar Surface Area: 37.4
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 129
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

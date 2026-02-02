@@ -1,0 +1,4 @@
+The Quake-Catcher Network was an initiative run by the University of Southern California that aimed to use computer-based accelerometers to detect earthquakes. It used the BOINC volunteer computing platform (a form of distributed computing, similar to SETI@home).
+It supported mobile devices (smartphones and some tablets/laptops) that have a built-in accelerometer.  It also supported three external USB devices  - the codemercs.com JoyWarrior 24F8, the ONavi sensor, and the MotionNode Accel.
+In 2011, project scientist Elizabeth Cochran was awarded a Presidential Early Career Award from US President Barack Obama in large part due to her founding of the Quake-Catcher Network project.
+The Quake Catcher Network project started at Stanford University in 2008, then moved to Caltech, and joined the Southern California Earthquake Center (SCEC) and the Incorporated Research Institutions for Seismology (IRIS) in 2016. The Quake-Catcher Network was discontinued on June 1st 2023

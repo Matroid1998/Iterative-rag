@@ -1,0 +1,23 @@
+Name: Titanium tetraethoxide
+Text:
+Properties:safety: Flammable and Irritant
+smiles: CC[O-].CC[O-].CC[O-].CC[O-].[Ti+4]
+formula: C8H20O4Ti
+chem_properties: Molecular Weight: 228.11 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 228.0840998 Da
+Monoisotopic Mass: 228.0840998 Da
+Topological Polar Surface Area: 92.2
+Heavy Atom Count: 13
+Formal Charge: 0
+Complexity: 2.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 5
+Compound Is Canonicalized: Yes 
+

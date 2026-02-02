@@ -1,0 +1,31 @@
+Name: Cefoxitin
+Text:
+Cefoxitin is a semisynthetic cephamycin antibiotic which, in addition to the methoxy group at the 7alpha position, has 2-thienylacetamido and carbamoyloxymethyl side-groups. It is resistant to beta-lactamase. It has a role as an antibacterial drug. It is a cephalosporin, a semisynthetic derivative, a beta-lactam antibiotic allergen and a cephamycin. It is a conjugate acid of a cefoxitin(1-).
+Cefoxitin is a semi-synthetic, broad-spectrum cepha antibiotic for intravenous administration. It is derived from cephamycin C, which is produced by Streptomyces lactamdurans.
+Cefoxitin is a Cephalosporin Antibacterial.
+Cefoxitin is a semisynthetic, broad-spectrum, second-generation cephalosporin with antibacterial activity. Cefoxitin binds to and inactivates penicillin-binding proteins (PBPs) located on the inner membrane of the bacterial cell wall. PBPs are enzymes involved in the terminal stages of assembling the bacterial cell wall and in reshaping the cell wall during growth and division. Inactivation of PBPs interferes with the cross-linkage of peptidoglycan chains necessary for bacterial cell wall strength and rigidity. This results in the weakening of the bacterial cell wall and causes cell lysis.
+CEFOXITIN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1978 and has 3 approved and 2 investigational indications. This drug has a black box warning from the FDA.
+A semisynthetic cephamycin antibiotic resistant to beta-lactamase.
+See also: Cefoxitin Sodium (has salt form).
+Properties:safety: Irritant and Health Hazard
+smiles: CO[C@@]1([C@@H]2N(C1=O)C(=C(CS2)COC(=O)N)C(=O)O)NC(=O)CC3=CC=CS3
+formula: C16H17N3O7S2
+chem_properties: Molecular Weight: 427.5 g/mol
+XLogP3: 0
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 9
+Rotatable Bond Count: 8
+Exact Mass: 427.05079224 Da
+Monoisotopic Mass: 427.05079224 Da
+Topological Polar Surface Area: 202
+Heavy Atom Count: 28
+Formal Charge: 0
+Complexity: 744
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

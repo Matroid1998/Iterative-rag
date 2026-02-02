@@ -1,0 +1,25 @@
+Name: Sodium alizarinesulfonate
+Text:
+Alizarin red S is an organic sodium salt having 3,4-dihydroxy-9,10-dioxo-9,10-dihydroanthracene-2-sulfonate as the counterion. It is commonly used to stain embryo skeletons in cleared whole mounts, usually of small mammals. It has a role as a histological dye. It is an organic sodium salt and an organosulfonate salt. It contains a 3,4-dihydroxy-9,10-dioxo-9,10-dihydroanthracene-2-sulfonate.
+See also: Alizarin Red S (annotation moved to).
+Properties:safety: Irritant
+smiles: C1=CC=C2C(=C1)C(=O)C3=CC(=C(C(=C3C2=O)O)O)S(=O)(=O)[O-].[Na+]
+formula: C14H7NaO7S
+chem_properties: Molecular Weight: 342.26 g/mol
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 1
+Exact Mass: 341.98101801 Da
+Monoisotopic Mass: 341.98101801 Da
+Topological Polar Surface Area: 140
+Heavy Atom Count: 23
+Formal Charge: 0
+Complexity: 599
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,24 @@
+Name: Triphenyltetrazolium chloride
+Text:
+2,3,5-triphenyltetrazolium chloride is an organic chloride salt having 2,3,5-triphenyltetrazolium as the counterion. It has a role as an indicator and a dye. It contains a 2,3,5-triphenyltetrazolium.
+Properties:safety: Flammable and Irritant
+smiles: C1=CC=C(C=C1)C2=NN([N+](=N2)C3=CC=CC=C3)C4=CC=CC=C4.[Cl-]
+formula: C19H15N4.Cl
+chem_properties: Molecular Weight: 334.8 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 3
+Exact Mass: 334.0985242 Da
+Monoisotopic Mass: 334.0985242 Da
+Topological Polar Surface Area: 34.6
+Heavy Atom Count: 24
+Formal Charge: 0
+Complexity: 330
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

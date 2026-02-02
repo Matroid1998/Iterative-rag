@@ -1,0 +1,28 @@
+Name: Psilocin
+Text:
+Psilocin is a tryptamine alkaloid that is N,N-dimethyltryptamine carrying an additional hydroxy substituent at position 4. A hallucinogenic alkaloid isolated in trace amounts from Psilocybe mushrooms (also known as Teonanacatl or "magic mushrooms"). It has a role as a hallucinogen, a serotonergic agonist, a fungal metabolite, a human xenobiotic metabolite and a drug metabolite. It is a tryptamine alkaloid, a tertiary amino compound, a member of hydroxyindoles and a member of phenols. It is functionally related to a N,N-dimethyltryptamine. It is a conjugate base of a psilocinium.
+Psilocyn is a DEA Schedule I controlled substance. Substances in the DEA Schedule I have no currently accepted medical use in the United States, a lack of accepted safety for use under medical supervision, and a high potential for abuse. It is a Hallucinogenic substances substance.
+Psilocin has been reported in Gymnopilus spectabilis, Deconica pseudobullacea, and other organisms with data available.
+Psilocin (4-OH-DMT), an aromatic compound, sometimes also spelled psilocine, psilocyn, or psilotsin, is a psychedelic mushroom alkaloid. It is found in most psychedelic mushrooms together with its phosphorylated counterpart psilocybin. Psilocin is a Schedule I drug under the Convention on Psychotropic Substances. The mind-altering effects of psilocin are highly variable and subjective, but resemble those caused by LSD and mescaline. The effects typically last anywhere from three to eight hours depending on certain variables (such as metabolism, food interaction); however the effects can seem to last much longer due to psilocin's ability to distort the perception of time. Sulfur analogs are known with a benzothienyl replacement as well as 4-SH-DMT. N1-methylpsilocin is a functionally 5-HT2C receptor preferring agonists. 4-fluoro-N,N-dimethyltryptamine is known. O-Acetylpsilocin is an acetylized analog of psilocin, also known as 4-AcO-DMT. Additionally, substitution of a methyl group at the dimethylated nitrogen with an isopropyl or ethyl group yields 4-HO-MIPT (4-Hydroxy-N-Methyl-N-Isopropyltryptamine) and 4-HO-MET (4-Hydroxy-N-Methyl-N-Ethyltryptamine), respectively.
+Properties:safety: Irritant
+smiles: CN(C)CCC1=CNC2=C1C(=CC=C2)O
+formula: C12H16N2O
+chem_properties: Molecular Weight: 204.27 g/mol
+XLogP3: 2.1
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 3
+Exact Mass: 204.126263138 Da
+Monoisotopic Mass: 204.126263138 Da
+Topological Polar Surface Area: 39.3
+Heavy Atom Count: 15
+Formal Charge: 0
+Complexity: 208
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

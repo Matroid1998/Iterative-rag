@@ -1,0 +1,26 @@
+Name: Magnesium perchlorate
+Text:
+Magnesium perchlorate appears as a white crystalline solid. Strongly absorbs water from air and dissolves in it. Accordingly, used as a regenerable drying agent. May explode under prolonged exposure to heat or fire.
+Magnesium perchlorate is an alkaline earth salt. It contains a perchlorate.
+Magnesium perchlorate is a powerful oxidizing agent, with the formula Mg(ClO4)2. It  decomposes at 250 
+Properties:safety: Oxidizer and Irritant
+smiles: [O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Mg+2]
+formula: Mg(ClO4)2
+chem_properties: Molecular Weight: 223.20 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 0
+Exact Mass: 221.8820640 Da
+Monoisotopic Mass: 221.8820640 Da
+Topological Polar Surface Area: 149
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 95.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,29 @@
+Name: Phosphorylethanolamine
+Text:
+O-phosphoethanolamine is the ethanolamine mono-ester of phosphoric acid, and a metabolite of phospholipid metabolism. This phosphomonoester shows strong structural similarity to the inhibitory neurotransmitter GABA, and is decreased in post-mortem Alzheimer's disease brain. It has a role as a human metabolite, an algal metabolite and a mouse metabolite. It is a phosphoethanolamine and a primary amino compound. It is a conjugate acid of an O-phosphonatoethanaminium(1-).
+O-Phosphoethanolamine is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+2-Aminoethyl dihydrogen phosphate has been reported in Drosophila melanogaster, Psychotria punctata, and other organisms with data available.
+Phosphorylethanolamine is a monophosphate ethanolamine ester that is an intermediate in the biosynthesis of sphingomyelins.
+PHOSPHORYLETHANOLAMINE is a small molecule drug with a maximum clinical trial phase of II and has 1 investigational indication.
+Properties:safety: Corrosive
+smiles: C(COP(=O)(O)O)N
+formula: C2H8NO4P
+chem_properties: Molecular Weight: 141.06 g/mol
+XLogP3: -4.8
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 3
+Exact Mass: 141.01909473 Da
+Monoisotopic Mass: 141.01909473 Da
+Topological Polar Surface Area: 92.8
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 98.2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

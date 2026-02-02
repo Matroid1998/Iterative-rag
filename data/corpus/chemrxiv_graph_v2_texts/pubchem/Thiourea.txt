@@ -1,0 +1,32 @@
+Name: Thiourea
+Text:
+Thiourea can cause cancer according to an independent committee of scientific and health experts.
+Thiourea appears as white or off-white crystals or powder. Sinks and mixes with water. (USCG, 1999)
+Thiourea is the simplest member of the thiourea class, consisting of urea with the oxygen atom substituted by sulfur. It has a role as a chromophore and an antioxidant. It is a member of ureas, a member of thioureas and a one-carbon compound. It is functionally related to a carbonothioic O,O-acid and a urea.
+Thiourea is a white crystalline solid, both naturally occurring and synthetic, that is soluble in water, ammonium thiocyanate solution and ethanol. In the past, it was used as a photographic toning agent, a component of hair preparations and a dry cleaning agent. Currently, it is only used in animal glue liquefiers and silver tarnish removers. When heated to decomposition, thiourea emits toxic fumes of nitrogen oxides and sulfur oxides. Long-term exposure of humans to thiourea may cause bone marrow damage, resulting in reduced levels of red blood cells, white blood cells and/or platelets. It is reasonably anticipated to be a human carcinogen. (NCI05)
+Thiourea is an organic compound of carbon, nitrogen, sulfur and hydrogen, with the formula CSN2H4 or (NH2)2CS. It is similar to urea, except that the oxygen atom is replaced by a sulfur atom. The properties of urea and thiourea differ significantly because of the relative electronegativities of sulfur and oxygen. Thiourea is a versatile reagent in organic synthesis. "Thioureas" refers to a broad class of compounds with the general structure (R1R2N)(R3R4N)C=S. Thioureas are related to thioamides, e.g. RC(S)NR2, where R is methyl, ethyl, etc. Thiourea is prohibited from use in food. Industrial uses of thiourea include production of flame retardant resins, and vulcanization accelerators. Thiourea is used as an auxiliary agent in diazo paper (light-sensitive photocopy paper) and almost all other types of copy paper. It is also used to tone silver-gelatin photographic prints. The liquid silver cleaning product TarnX is essentially a solution of thiourea. A leaching agent for gold leaching and silver leaching can be created by selectively oxidizing thiourea, bypassing the steps of cyanide use and smelting. Another common application for use of thiourea is a common sulfur source for making semiconductor cadmium sulfide nanoparticle. Thiourea is a planar molecule. The C=S bond distance is 1.60±0.1 for a wide range of derivatives. This narrow range indicates that the C=S bond is insensitive to the nature of the substitutent. Thus, the thioamide, which is similar to an amide group, is difficult to perturb. Thiourea reduces peroxides to the corresponding diols. The intermediate of the reaction is an unstable epidioxide which can only be identified at -100 &deg;C. Epidioxide is similar to epoxide except with two oxygen atoms. This intermediate reduces to diol by thiourea.
+
+Thiourea has been shown to exhibit anti-viral, anti-fungal and radical scavenger functions (A7927, A7928, A7929).
+A photographic fixative used also in the manufacture of resins. According to the Fourth Annual Report on Carcinogens (NTP 85-002, 1985), this substance may reasonably be anticipated to be a carcinogen (Merck Index, 9th ed). Many of its derivatives are ANTITHYROID AGENTS and/or FREE RADICAL SCAVENGERS.
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: C(=S)(N)N
+formula: CH4N2S
+chem_properties: Molecular Weight: 76.12 g/mol
+XLogP3: -0.8
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 76.00951931 Da
+Monoisotopic Mass: 76.00951931 Da
+Topological Polar Surface Area: 84.1
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 29
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,27 @@
+Name: Ammonium Hydroxide
+Text:
+Ammonium hydroxide appears as a colorless aqueous solution. Concentration of ammonia ranges up to approximately 30%. Ammonia vapors (which arise from the solution) irritate the eyes.
+Ammonium hydroxide is a solution of ammonia in water. It has a role as a food acidity regulator.
+The hydroxy salt of ammonium ion. It is formed when AMMONIA reacts with water molecules in solution.
+See also: Ammonia (subclass of).
+Properties:safety: Corrosive and Environmental Hazard
+smiles: [NH4+].[OH-]
+formula: H5NO
+chem_properties: Molecular Weight: 35.046 g/mol
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 35.037113783 Da
+Monoisotopic Mass: 35.037113783 Da
+Topological Polar Surface Area: 2
+Heavy Atom Count: 2
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

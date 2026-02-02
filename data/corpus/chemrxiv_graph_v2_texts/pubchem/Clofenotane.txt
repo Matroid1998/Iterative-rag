@@ -1,0 +1,34 @@
+Name: Clofenotane
+Text:
+DDT (Dichlorodiphenyltrichloroethane) can cause cancer according to an independent committee of scientific and health experts. It can cause developmental toxicity, female reproductive toxicity and male reproductive toxicity according to The National Institute for Occupational Safety and Health (NIOSH) and The Environmental Protection Agency (EPA).
+Odorless colorless solid. Sinks in water. (USCG, 1999)
+DDT is a chlorophenylethane that is 1,1,1-trichloro-2,2-diphenylethane substituted by additional chloro substituents at positions 4 of the phenyl substituents. It is a commonly used organochlorine insecticide. It has a role as a bridged diphenyl acaricide, a carcinogenic agent, a persistent organic pollutant and an endocrine disruptor. It is an organochlorine insecticide, a benzenoid aromatic compound, a member of monochlorobenzenes and a chlorophenylethane. It is functionally related to a 1,1,1-trichloro-2,2-diphenylethane and a 4,4'-dichlorodiphenylmethane.
+Clofenotane is a white, odorless and tasteless, very stable, water-insoluble, synthetic, crystalline chlorinated hydrocarbon that is soluble in most organic solvents, fat and oils and tends to accumulate in ecosystems. Clofenotane was once widely used as a pesticide to control insects in agriculture and to control malaria, typhus and body lice, but its use is now limited. Exposure to clofenotane mainly affects the nervous system resulting in tremors, dizziness, nausea, incoordination, convulsions and seizures. This substance is reasonably anticipated to be a human carcinogen based on evidence of carcinogenicity in experimental animals.
+Detox is a cancer vaccine adjuvant consisting of a combination of the active monophosphoryl lipid A component of lipopolysaccharide (LPS) isolated from the bacterium Salmonella minnesota combined with a residue of the cell wall of the bacterium Mycobacterium phlei.  Detox is a non-specific immunostimulant that may enhance the host immune response to certain cancer vaccines. (NCI04)
+CHLOROPHENOTHANE is a small molecule drug with a maximum clinical trial phase of IV and is indicated for parasitic infection.
+Insecticide. Clofenotane is a major component of commercial DDT (other names *Gespan*, *Gesarol*, *Geverol*, *Chlorophenotane*). Use banned or discouraged in many countries
+
+Clofenotane belongs to the family of Diphenylmethanes. These are compounds containing a diphenylmethane moiety, which consists of a methane wherein two hydrogen atoms are replaced by two phenyl groups[1]. (Reference: [1] Diphenylmethane: http://en.wikipedia.org/wiki/Diphenylmethane).
+A polychlorinated pesticide that is resistant to destruction by light and oxidation. Its unusual stability has resulted in difficulties in residue removal from water, soil, and foodstuffs. This substance may reasonably be anticipated to be a carcinogen: Fourth Annual Report on Carcinogens (NTP-85-002, 1985). (From Merck Index, 11th ed)
+Properties:safety: Acute Toxic and Health Hazard and Environmental Hazard
+smiles: C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(Cl)(Cl)Cl)Cl
+formula: C14H9Cl5
+chem_properties: Molecular Weight: 354.5 g/mol
+XLogP3: 6.9
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 2
+Exact Mass: 353.911739 Da
+Monoisotopic Mass: 351.914689 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 19
+Formal Charge: 0
+Complexity: 250
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

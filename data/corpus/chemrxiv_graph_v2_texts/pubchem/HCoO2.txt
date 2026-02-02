@@ -1,0 +1,24 @@
+Name: HCoO2
+Text:
+See also: Cobaltic oxyhydroxide (annotation moved to).
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: O[Co]=O
+formula: CoHO2
+chem_properties: Molecular Weight: 91.940 g/mol
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 91.930848 Da
+Monoisotopic Mass: 91.930848 Da
+Topological Polar Surface Area: 37.3
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 10.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

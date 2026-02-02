@@ -1,0 +1,24 @@
+Name: Hydrazine hydrate
+Text:
+Hydrazine hydrate is a hydrate. It contains a hydrazine.
+Properties:safety: Flammable and Corrosive and Acute Toxic and Irritant and Health Hazard and Environmental Hazard
+smiles: NN.O
+formula: H4N2.H2O
+chem_properties: Molecular Weight: 50.061 g/mol
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 50.048012819 Da
+Monoisotopic Mass: 50.048012819 Da
+Topological Polar Surface Area: 53
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,26 @@
+Name: Cesium hydroxide
+Text:
+Cesium hydroxide is a colorless to yellow crystalline solid. Harmful to skin and eyes. Used in electric storage batteries.
+Cesium hydroxide, solution appears as an aqueous solution. Strongly corrosive. Harmful to skin and eyes. Used in electric storage batteries.
+Caesium hydroxide is an alkali metal hydroxide and a caesium molecular entity.
+Properties:safety: Corrosive and Irritant and Health Hazard
+smiles: [OH-].[Cs+]
+formula: CsHO
+chem_properties: Molecular Weight: 149.913 g/mol
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 149.90819161 Da
+Monoisotopic Mass: 149.90819161 Da
+Topological Polar Surface Area: 1
+Heavy Atom Count: 2
+Formal Charge: 0
+Complexity: 2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,27 @@
+Name: Cannabigerolic acid
+Text:
+Cannabigerolic acid is a dihydroxybenzoic acid that is olivetolic acid in which the hydrogen at position 3 is substituted by a geranyl group. A biosynthetic precursor to Delta(9)-tetrahydrocannabinol, the principal psychoactive constituent of the cannabis plant. It is a dihydroxybenzoic acid, a diterpenoid, a polyketide, a member of resorcinols and a phytocannabinoid. It is functionally related to an olivetolic acid. It is a conjugate acid of a cannabigerolate.
+Cannabigerolic acid has been reported in Helichrysum umbraculigerum and Cannabis sativa with data available.
+See also: Cannabis sativa subsp. indica top (part of).
+Properties:safety: Irritant and Health Hazard
+smiles: CCCCCC1=CC(=C(C(=C1C(=O)O)O)C/C=C(\C)/CCC=C(C)C)O
+formula: C22H32O4
+chem_properties: Molecular Weight: 360.5 g/mol
+XLogP3: 7.5
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 10
+Exact Mass: 360.23005950 Da
+Monoisotopic Mass: 360.23005950 Da
+Topological Polar Surface Area: 77.8
+Heavy Atom Count: 26
+Formal Charge: 0
+Complexity: 490
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

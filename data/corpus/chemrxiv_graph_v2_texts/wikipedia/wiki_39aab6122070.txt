@@ -1,0 +1,24 @@
+In supramolecular chemistry, host–guest chemistry describes complexes that are composed of two or more molecules or ions that are held together in unique structural relationships by forces other than those of full covalent bonds. Host–guest chemistry encompasses the idea of molecular recognition and interactions through non-covalent bonding. Non-covalent bonding is critical in maintaining the 3D structure of large molecules, such as proteins and is involved in many biological processes in which large molecules bind specifically but transiently to one another.
+Although non-covalent interactions could be roughly divided into those with more electrostatic or dispersive contributions, there are few commonly mentioned types of non-covalent interactions: ionic bonding, hydrogen bonding, van der Waals forces and hydrophobic interactions.
+Host-guest interaction has raised dramatical attention since it was discovered. It is an important field, because many biological processes require the host-guest interaction, and it can be useful in some material designs. There are several typical host molecules, such as, cyclodextrin, crown ether, et al.
+
+"Host molecules" usually have "pore-like" structure that is able to capture a "guest molecules". Although called molecules, hosts and guests are often ions. The driving forces of the interaction might vary, such as hydrophobic effect and van der Waals forces
+Binding between host and guest can be highly selective, in which case the interaction is called molecular recognition. Often, a dynamic equilibrium exist between the unbound and the bound states:
+
+  
+    
+      
+        H
+        +
+        G
+        ⇌
+         
+        H
+        G
+      
+    
+    {\displaystyle H+G\rightleftharpoons \ HG}
+  
+
+H ="host", G ="guest", HG ="host–guest complex"
+The "host" component is often the larger molecule, and it encloses the smaller, "guest", molecule. In biological systems, the analogous terms of host and guest are commonly referred to as enzyme and substrate respectively.

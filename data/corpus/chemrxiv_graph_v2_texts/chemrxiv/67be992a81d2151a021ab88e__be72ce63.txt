@@ -1,0 +1,18 @@
+Description:
+A type of silicide formed at the interface between Ti and polysilicon.
+
+Text:
+The usual BC step consists of four parts 1) 
+Deposition of polysilicon on Si structure and 2) Deposition 
+of Ti on polysilicon 3) Anneal to form silicide (TiSix) at the 
+interface 4) Metal deposition, which connects the contact to 
+the digit line. Prior technology nodes used a thick 
+Polysilicon as the silicon material for creating the silicide 
+and forming the contact 1,2. This Polysilicon occupied 
+majority of the contact structure and region. In metal bit 
+contact (MBC), the majority of the contact structure is made 
+of metal (step 4), instead of traditional polysilicon (step 1) 
+structure, which helps lower the overall resistance of the 
+contact. This change from majoritypoly to majoritymetal 
+is highly disruptive but is necessary to enable low resistance 
+contacts at very small dimensions.

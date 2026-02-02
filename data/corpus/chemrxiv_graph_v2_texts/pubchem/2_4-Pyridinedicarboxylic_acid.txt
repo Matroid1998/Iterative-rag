@@ -1,0 +1,25 @@
+Name: 2,4-Pyridinedicarboxylic acid
+Text:
+Lutidinic acid is a pyridinedicarboxylic acid carrying carboxy groups at positions 2 and 4. It is a conjugate acid of a lutidinate(1-).
+Properties:safety: Irritant
+smiles: C1=CN=C(C=C1C(=O)O)C(=O)O
+formula: C7H5NO4
+chem_properties: Molecular Weight: 167.12 g/mol
+XLogP3: 0.2
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 2
+Exact Mass: 167.02185764 Da
+Monoisotopic Mass: 167.02185764 Da
+Topological Polar Surface Area: 87.5
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 204
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

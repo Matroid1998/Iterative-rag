@@ -1,0 +1,31 @@
+Name: Histamine
+Text:
+Histamine is a member of the class of imidazoles that is 1H-imidazole substituted at position C-4 by a 2-aminoethyl group. It has a role as a human metabolite, a mouse metabolite and a neurotransmitter. It is an aralkylamino compound and a member of imidazoles. It is a conjugate base of a histaminium.
+A depressor amine derived by enzymatic decarboxylation of histidine. It is a powerful stimulant of gastric secretion, a constrictor of bronchial smooth muscle, a vasodilator, and also a centrally acting neurotransmitter.
+Histamine has been reported in Cynanchum caudatum, Phytolacca japonica, and other organisms with data available.
+HISTAMINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1939 and is indicated for neoplasm and acute myeloid leukemia and has 12 investigational indications. This drug has a black box warning from the FDA.
+Histamine is a metabolite found in or produced by Saccharomyces cerevisiae.
+An amine derived by enzymatic decarboxylation of HISTIDINE. It is a powerful stimulant of gastric secretion, a constrictor of bronchial smooth muscle, a vasodilator, and also a centrally acting neurotransmitter.
+See also: Histamine Dihydrochloride (has salt form); Histamine Phosphate (has salt form); Acetylcholine Chloride; Histamine; Serotonin (component of) ... View More ...
+Properties:safety: Acute Toxic and Irritant and Health Hazard
+smiles: C1=C(NC=N1)CCN
+formula: C5H9N3
+chem_properties: Molecular Weight: 111.15 g/mol
+XLogP3: -0.7
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 2
+Exact Mass: 111.079647300 Da
+Monoisotopic Mass: 111.079647300 Da
+Topological Polar Surface Area: 54.7
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 64.7
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,24 @@
+Name: Tetrabutylammonium Chloride
+Text:
+Tetrabutylammonium chloride is an organic chloride salt comprising of a tetrabutylammonium cation and chloride anion. It is a tetrabutylammonium salt and an organic chloride salt.
+Properties:safety: Irritant
+smiles: CCCC[N+](CCCC)(CCCC)CCCC.[Cl-]
+formula: C16H36N.Cl
+chem_properties: Molecular Weight: 277.9 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 12
+Exact Mass: 277.2536278 Da
+Monoisotopic Mass: 277.2536278 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 18
+Formal Charge: 0
+Complexity: 116
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

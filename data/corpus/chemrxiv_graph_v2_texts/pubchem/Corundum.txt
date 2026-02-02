@@ -1,0 +1,28 @@
+Name: Corundum
+Text:
+ALUMINIUM OXIDE is a small molecule drug with a maximum clinical trial phase of IV and is indicated for acne.
+Corundum is a mineral with formula of Al2O3. The IMA symbol is Crn.
+Aluminium(II) oxide or aluminium monoxide is a compound of aluminium and oxygen with the chemical formula AlO. It has been detected in the gas phase after explosion of aluminized grenades in the upper atmosphere and in stellar absorption spectra. Aluminium can form an amalgam in solution with mercury. It can  induce programmed cell death in plant cells.
+Aluminium oxide is an oxide of aluminum that naturally occurs as the minerals corundum and is also produced by the Bayer process from bauxite. Its most significant use is in the production of aluminium metal, although it is also used as an abrasive due to its hardness and as a refractory material due to its high melting point. Aluminum is the most abundant metal in the earth's crust and is always found combined with other elements such as oxygen, silicon, and fluorine.  (L739, L740, L758)
+An oxide of aluminum, occurring in nature as various minerals such as bauxite, corundum, etc. It is used as an adsorbent, desiccating agent, and catalyst, and in the manufacture of dental cements and refractories.
+Properties:safety: Health Hazard
+smiles: O=[Al]O[Al]=O
+formula: Al2O3
+chem_properties: Molecular Weight: 101.961 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 101.947821 Da
+Monoisotopic Mass: 101.947821 Da
+Topological Polar Surface Area: 43.4
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 34.2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

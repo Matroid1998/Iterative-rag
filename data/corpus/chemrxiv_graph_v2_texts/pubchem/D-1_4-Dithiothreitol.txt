@@ -1,0 +1,27 @@
+Name: D-1,4-Dithiothreitol
+Text:
+D-1,4-dithiothreitol is a 1,4-dithiothreitol. It is an enantiomer of a L-1,4-dithiothreitol.
+A reagent commonly used in biochemical studies as a protective agent to prevent the oxidation of SH (thiol) groups and for reducing disulphides to dithiols.
+See also: 1,4-Dithiothreitol (annotation moved to).
+Properties:safety: Irritant
+smiles: C([C@H]([C@@H](CS)O)O)S
+formula: C4H10O2S2
+chem_properties: Molecular Weight: 154.3 g/mol
+XLogP3: -0.4
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 3
+Exact Mass: 154.01222190 Da
+Monoisotopic Mass: 154.01222190 Da
+Topological Polar Surface Area: 42.5
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 52
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

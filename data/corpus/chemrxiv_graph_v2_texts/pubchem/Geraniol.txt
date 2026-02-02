@@ -1,0 +1,36 @@
+Name: Geraniol
+Text:
+Geraniol is a colorless to pale yellow oily liquid with a sweet rose odor. (NTP, 1992)
+Geraniol is a monoterpenoid consisting of two prenyl units linked head-to-tail and functionalised with a hydroxy group at its tail end. It has a role as a fragrance, an allergen, a volatile oil component and a plant metabolite. It is a monoterpenoid, a primary alcohol and a 3,7-dimethylocta-2,6-dien-1-ol.
+Basil allergenic extract is used in allergenic testing.
+Geraniol is a monoterpene that is found within many essential oils of fruits, vegetables, and herbs including rose oil, citronella, lemongrass, lavender, and other aromatic plants. It is emitted from the flowers of many species of plant and is commonly used by the food, fragrance, and cosmetic industry. Geraniol has demonstrated a wide spectrum of pharmacological activities including antimicrobial, anti-inflammatory, antioxidant, anti-cancer, and neuroprotective to name a few. Interestingly, geraniol has also been shown to sensitize tumour cells to commonly used chemotherapies including [DB00544] and [DB01248] and represents a promising cancer chemopreventive agent. Due to its anticancer effects, geraniol has been found to be effective against a broad range of cancers including breast, lung, colon, prostate, pancreatic, skin, liver, kidney and oral cancers.  These pharmacologic effects are clinically important as geraniol is classified as generally-recognized-as-safe (GRAS) by the Flavor and Extract Manufacturers Association (FEMA) and the Food and Drug Administration (FDA) of the United States. Sensitivity to geraniol may be identified with a clinical patch test.
+Geraniol is a Standardized Chemical Allergen. The physiologic effect of geraniol is by means of Increased Histamine Release, and Cell-mediated Immunity.
+Geraniol has been reported in Camellia sinensis, Tetradenia riparia, and other organisms with data available.
+Rose Oil is the essential oil extracted from the petals of various rose varieties and species. Rose oil is commonly used in parfumery.
+beta-Geraniol is found in almond. beta-Geraniol is found in free state and as esters in many essential oils including geranium oil. Most prolific natural source is palmarosa oil. beta-Geraniol is a flavouring agent. Geraniol is a monoterpenoid and an alcohol. It is the primary part of rose oil, palmarosa oil, and citronella oil (Java type). It also occurs in small quantities in geranium, lemon, and many other essential oils. It has a rose-like odor and is commonly used in perfumes. It is used in flavors such as peach, raspberry, grapefruit, red apple, plum, lime, orange, lemon, watermelon, pineapple, and blueberry. It is the isomer of nerol. (Wikipedia) 
+
+beta-Geraniol belongs to the family of Monoterpenes. These are compounds contaning a chain of two isoprene units.
+Geraniol is a metabolite found in or produced by Saccharomyces cerevisiae.
+See also: Coriander Oil (part of); Java citronella oil (part of); Basil Oil (annotation moved to) ... View More ...
+Properties:safety: Irritant
+smiles: CC(=CCC/C(=C/CO)/C)C
+formula: C10H18O
+chem_properties: Molecular Weight: 154.25 g/mol
+XLogP3: 2.9
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 4
+Exact Mass: 154.135765193 Da
+Monoisotopic Mass: 154.135765193 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 150
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

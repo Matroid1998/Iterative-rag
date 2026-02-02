@@ -1,0 +1,35 @@
+Name: Hydroquinone
+Text:
+Hydroquinone appears as light colored crystals or solutions. May irritate the skin, eyes and mucous membranes. Mildly toxic by ingestion or skin absorption.
+Hydroquinone is a benzenediol comprising benzene core carrying two hydroxy substituents para to each other. It has a role as a cofactor, a carcinogenic agent, an Escherichia coli metabolite, a human xenobiotic metabolite, a skin lightening agent, an antioxidant and a mouse metabolite. It is a benzenediol and a member of hydroquinones.
+Hydroquinone is a topical lightening product found in  OTC products, and is used to correct skin discoloration associated with disorders of hyperpigmentation including melasma, post-inflammatory hyperpigmention, sunspots, and freckles. It can be used alone, but is more frequently found in combination with other agents such as alpha-hydroxy acids, corticosteroids, retinoids, or sunscreen.    Hydroquinone has come under scrutiny due to several complications associated with its use, including dermal irritation, exogenous onchronosis, and carginogenicity. As a result of these concerns, hydroquinone has been banned in the EU and UK.
+Hydroquinone is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Hydroquinone is used as a developing agent in photography and as an antioxidant in rubber and food. Tinnitus (ringing in the ears), dizziness, headache, nausea, vomiting, dyspnea, erosion of the gastric mucosa, edema of internal organs, cyanosis, convulsions, delirium, and collapse may result from the ingestion of a large amount of hydroquinone in humans. Hydroquinone is also a skin irritant in humans. Chronic (long-term) occupational exposure to hydroquinone dust can result in eye irritation, corneal effects, and impaired vision. No information is available on the reproductive, developmental, or carcinogenic effects of hydroquinone in humans. There was some evidence of carcinogenic activity in orally-exposed rodents. Increased skin tumor incidence has been reported in mice treated dermally. EPA has not classified hydroquinone for carcinogenicity.
+Hydroquinone is a Melanin Synthesis Inhibitor. The mechanism of action of hydroquinone is as a Melanin Synthesis Inhibitor. The physiologic effect of hydroquinone is by means of Depigmenting Activity.
+Hydroquinone has been reported in Spiranthes vernalis, Phomopsis velata, and other organisms with data available.
+Hydroquinone is produced as an inhibitor, an antioxidant, and an intermediate in the synthesis of dyes, motor fuels, and oils; in photographic processing; and naturally in certain plant species, Hydroquinone is a phenol derivative with antioxidant properties that can cause toxicity in several organs, notably the kidney. Used as a topical treatment for skin hyperpigmentation and in various cosmetic products, it is metabolized mainly to glutathione conjugates and forms mutagenic DNA adducts in in-vitro systems. (NCI04)
+HYDROQUINONE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2002 and is indicated for hyperpigmentation of the skin and freckles.
+Hydroquinone, also benzene-1,4-diol, is an aromatic organic compound which is a type of phenol. Hydroquinone is commonly used as a biomarker for benzene exposure. The presence of hydroquinone in normal individuals stems mainly from direct dietary ingestion, catabolism of tyrosine and other substrates by gut bacteria, ingestion of arbutin containing foods, cigarette smoking, and the use of some over-the-counter medicines. In human medicine, hydroquinone is used as a topical application in skin whitening to reduce the color of skin. In 2006, the United States Food and Drug Administration revoked its previous approval of hydroquinone and proposed a ban on all over-the-counter preparations. The FDA stated that hydroquinone cannot be ruled out as a potential carcinogen. This conclusion was reached based on the extent of absorption in humans and the incidence of neoplasms in rats in several studies where adult rats were found to have increased rates of tumours, including thyroid follicular cell hyperplasias, anisokaryosis, mononuclear cell leukemia, hepatocellular adenomas and renal tubule cell adenomas. Numerous studies have revealed that hydroquinone can cause exogenous ochronosis, a disfiguring disease in which blue-black pigments are deposited onto the skin, if taken orally; however, skin preparations containing the ingredient are administered topically. The FDA has classified hydroquinone currently as a safe product, as currently used. (Wikipedia)
+See also: Phenol (has active moiety); Quinhydrone (is active moiety of); Fluocinolone acetonide; hydroquinone; tretinoin (component of) ... View More ...
+Properties:safety: Corrosive and Irritant and Health Hazard and Environmental Hazard
+smiles: C1=CC(=CC=C1O)O
+formula: C6H6O2
+chem_properties: Molecular Weight: 110.11 g/mol
+XLogP3: 0.6
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 110.036779430 Da
+Monoisotopic Mass: 110.036779430 Da
+Topological Polar Surface Area: 40.5
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 54.9
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

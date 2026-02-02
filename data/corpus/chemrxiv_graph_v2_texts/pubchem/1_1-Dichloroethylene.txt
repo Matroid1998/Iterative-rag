@@ -1,0 +1,30 @@
+Name: 1,1-Dichloroethylene
+Text:
+1, 1-Dichloroethene is an industrial chemical that is not found naturally in the environment. It is a colorless liquid with a mild, sweet smell. It is also called vinylidene chloride. 1, 1-Dichloroethene is used to make certain plastics, such as flexible films like food wrap, and in packaging materials. It is also used to make flame retardant coatings for fiber and carpet backings, and in piping, coating for steel pipes, and in adhesive applications.
+Vinylidene Chloride (1,1-Dichloroethylene) can cause cancer according to California Labor Code.
+Vinylidene chloride, stabilized appears as a clear colorless liquid with a chloroform-like odor. Flash point 0 °F. Boiling point 99 °F. Denser (at 10.1 lb / gal) than water and insoluble in water. Hence sinks in water. May polymerize exothermically if heated or contaminated. If the polymerization takes place inside a container, the container may rupture violently. Vapors heavier than air.
+1,1-dichloroethene is a member of the class of chloroethenes that is ethene in which both of the hydrogens attached to one of the carbons are replaced by chlorines. It has a role as a mutagen, a carcinogenic agent and a mouse metabolite.
+Vinylidene chloride is used as an intermediate in chemical synthesis and to produce polyvinylidene chloride copolymers. The primary acute (short-term) effects in humans from vinylidene chloride exposure are on the central nervous system (CNS), including CNS depression and symptoms of inebriation, convulsions, spasms, and unconsciousness at high concentrations. Low-level, chronic (long-term) inhalation exposure of vinylidene chloride in humans may effect the liver. Animal studies indicate that chronic exposure to vinylidene chloride can affect the liver, kidneys, CNS and lungs. Human data are considered inadequate in providing evidence of cancer from exposure to vinylidene chloride. The most recent cancer classification for vinylidene chloride can be found on IRIS.
+1,1-Dichloroethene is a manufactured organochloride compound. It is used in the production of certain plastics as a comonomer in the polymerization of vinyl chloride, acrylonitrile, and acrylates. It is also used to make flame retardant coatings for fiber and carpet backings, and in piping, coating for steel pipes, and in adhesive applications. (L185, L186)
+Properties:safety: Flammable and Irritant and Health Hazard
+smiles: C=C(Cl)Cl
+formula: C2H2Cl2
+chem_properties: Molecular Weight: 96.94 g/mol
+XLogP3: 2.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 95.9533555 Da
+Monoisotopic Mass: 95.9533555 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 27
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

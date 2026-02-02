@@ -1,0 +1,24 @@
+Name: cis-9-Octadecenylamine
+Text:
+Properties:safety: Corrosive and Irritant and Health Hazard and Environmental Hazard
+smiles: CCCCCCCC/C=C\CCCCCCCCN
+formula: C18H37N
+chem_properties: Molecular Weight: 267.5 g/mol
+XLogP3: 7.6
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 15
+Exact Mass: 267.292600184 Da
+Monoisotopic Mass: 267.292600184 Da
+Topological Polar Surface Area: 26
+Heavy Atom Count: 19
+Formal Charge: 0
+Complexity: 175
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,28 @@
+Name: Octylamine
+Text:
+Octanamine appears as a yellow liquid with an ammonia-like odor. Insoluble in water and less dense than water. Hence floats on water. Contact may irritate skin, eyes and mucous membranes. May be toxic by ingestion. Used to make other chemicals.
+Octan-1-amine is an 8-carbon primary aliphatic amine. It has a role as a metabolite. It is a conjugate base of an octan-1-aminium.
+Octylamine has been reported in Hippodamia convergens, Apis cerana, and other organisms with data available.
+See also: Amines, C8-18 and C18-unsatd. alkyl (annotation moved to).
+Properties:safety: Flammable and Corrosive and Acute Toxic and Irritant and Environmental Hazard
+smiles: CCCCCCCCN
+formula: C8H19N
+chem_properties: Molecular Weight: 129.24 g/mol
+XLogP3: 3.1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 6
+Exact Mass: 129.151749610 Da
+Monoisotopic Mass: 129.151749610 Da
+Topological Polar Surface Area: 26
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 43.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

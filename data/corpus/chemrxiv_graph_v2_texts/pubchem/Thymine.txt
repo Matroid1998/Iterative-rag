@@ -1,0 +1,30 @@
+Name: Thymine
+Text:
+Thymine is a pyrimidine nucleobase that is uracil in which the hydrogen at position 5 is replaced by a methyl group. It has a role as a human metabolite, an Escherichia coli metabolite and a mouse metabolite. It is a pyrimidine nucleobase and a pyrimidone.
+Thymine is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Thymine has been reported in Phomopsis velata, Huperzia serrata, and other organisms with data available.
+Thymine is a metabolite found in or produced by Saccharomyces cerevisiae.
+One of four constituent bases of DNA.
+See also: Pyrimidine (subclass of); 6-Dehydrotestosterone 17-glucosiduronic acid (annotation moved to); Methyl-3H-thymine (annotation moved to).
+Properties:safety: Irritant
+smiles: CC1=CNC(=O)NC1=O
+formula: C5H6N2O2
+chem_properties: Molecular Weight: 126.11 g/mol
+XLogP3: -0.6
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 126.042927438 Da
+Monoisotopic Mass: 126.042927438 Da
+Topological Polar Surface Area: 58.2
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 195
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

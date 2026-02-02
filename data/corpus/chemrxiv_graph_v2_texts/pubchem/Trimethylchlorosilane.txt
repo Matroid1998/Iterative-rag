@@ -1,0 +1,26 @@
+Name: Trimethylchlorosilane
+Text:
+Trimethylchlorosilane appears as a colorless fuming liquid with a pungent odor. Boiling point 135 °F, Flash point -18 °F. Density 0.854 g / cm3. The vapor and liquid may cause burns. Vapors are heavier than air.
+Chlorotrimethylsilane is a silyl chloride consisting of a central silicon atom covalently bound to one chloro and three methyl groups. Chlorotrimethylsilane is a derivatisation agent used in gas chromatography/mass spectrometry applications. It has a role as a chromatographic reagent.
+See also: C30-45 Alkyl cetearyl dimethicone crosspolymer (monomer of); Diphenylsiloxy phenyl trimethicone (monomer of) ... View More ...
+Properties:safety: Flammable and Corrosive and Acute Toxic and Irritant and Health Hazard
+smiles: C[Si](C)(C)Cl
+formula: C3H9ClSi
+chem_properties: Molecular Weight: 108.64 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 108.0162045 Da
+Monoisotopic Mass: 108.0162045 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 28.4
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

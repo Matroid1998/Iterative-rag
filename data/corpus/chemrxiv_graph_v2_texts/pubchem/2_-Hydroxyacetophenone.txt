@@ -1,0 +1,27 @@
+Name: 2'-Hydroxyacetophenone
+Text:
+2-acetylphenol is a monohydroxyacetophenone that is acetophenone in which one of the hydrogens ortho to the acetyl group has been replaced by a hydroxy group. It has a role as a flavouring agent. It is a monohydroxyacetophenone and a member of phenols.
+2'-Hydroxyacetophenone has been reported in Aronia melanocarpa, Paeonia lactiflora, and other organisms with data available.
+See also: Phenyl acetate (annotation moved to).
+Properties:safety: Irritant
+smiles: CC(=O)C1=CC=CC=C1O
+formula: C8H8O2
+chem_properties: Molecular Weight: 136.15 g/mol
+XLogP3: 1.9
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 136.052429494 Da
+Monoisotopic Mass: 136.052429494 Da
+Topological Polar Surface Area: 37.3
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 131
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

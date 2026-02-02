@@ -1,0 +1,25 @@
+Name: Acetaldol
+Text:
+Aldol appears as a clear white to yellow syrupy liquid. Denser than water. Contact may irritate skin and eyes. Moderately toxic by ingestion, inhalation and skin absorption.
+Properties:safety: Acute Toxic and Irritant
+smiles: CC(CC=O)O
+formula: C4H8O2
+chem_properties: Molecular Weight: 88.11 g/mol
+XLogP3: -0.6
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 2
+Exact Mass: 88.052429494 Da
+Monoisotopic Mass: 88.052429494 Da
+Topological Polar Surface Area: 37.3
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 42.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

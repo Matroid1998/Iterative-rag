@@ -1,0 +1,35 @@
+Name: Eugenol
+Text:
+Eugenol appears as clear colorless pale yellow or amber-colored liquid. Odor of cloves. Spicy pungent taste. (NTP, 1992)
+Eugenol is a phenylpropanoid formally derived from guaiacol with an allyl chain substituted para to the hydroxy group. It is a major component of clove essential oil, and exhibits antibacterial, analgesic and antioxidant properties. It has been widely used in dentistry to treat toothache and pulpitis. It has a role as an allergen, a human blood serum metabolite, a sensitiser, a volatile oil component, a flavouring agent, an EC 1.4.3.4 (monoamine oxidase) inhibitor, a radical scavenger, an antibacterial agent, an antineoplastic agent, an apoptosis inducer, an anaesthetic, an analgesic, a voltage-gated sodium channel blocker, a NF-kappaB inhibitor and an anti-inflammatory agent. It is a phenylpropanoid, a monomethoxybenzene, a member of phenols and an alkenylbenzene. It is functionally related to a guaiacol.
+Eugenol is a naturally occurring phenolic molecule found in several plants such as cinnamon, clove, and bay leaves. It has been used as a topical antiseptic as a counter-irritant and in dental preparations with zinc oxide for root canal sealing and pain control. Although not currently available in any FDA-approved products (including OTC), eugenol has been found to have anti-inflammatory, neuroprotective, antipyretic, antioxidant, antifungal and analgesic properties. Its exact mechanism of action is unknown, however, it has been shown to interfere with action potential conduction.  There are a number of unapproved OTC products available containing eugenol that advertise its use for the treatment of toothache.
+Eugenol is a Standardized Chemical Allergen. The physiologic effect of eugenol is by means of Increased Histamine Release, and Cell-mediated Immunity.
+Eugenol, also called clove oil, is an aromatic oil extracted from cloves that is used widely as a flavoring for foods and teas and as an herbal oil used topically to treat toothache and more rarely to be taken orally to treat gastrointestinal and respiratory complaints. Eugenol in therapeutic doses has not been implicated in causing serum enzyme elevations or clinically apparent liver injury, but ingestions of high doses, as with an overdose, can cause severe liver injury.
+Eugenol has been reported in Magnolia officinalis, Senegalia berlandieri, and other organisms with data available.
+EUGENOL is a small molecule drug with a maximum clinical trial phase of I (Early).
+Eugenol is an allyl chain-substituted guaiacol, i.e. 2-methoxy-4-(2-propenyl)phenol. Eugenol is a member of the allylbenzene class of chemical compounds. It is a clear to pale yellow oily liquid extracted from certain essential oils especially from clove oil, nutmeg, cinnamon, and bay leaf. It is slightly soluble in water and soluble in organic solvents. It has a pleasant, spicy, clove-like odor. Eugenol is used in perfumeries, flavorings, essential oils and in medicine as a local antiseptic and anaesthetic. It was used in the production of isoeugenol for the manufacture of vanillin, though most vanillin is now produced from petrochemicals or from by-products of paper manufacture (Wikipedia).
+4-Allyl-2-methoxyphenol is a metabolite found in or produced by Saccharomyces cerevisiae.
+A cinnamate derivative of the shikimate pathway found in CLOVE OIL and other PLANTS.
+See also: Clove Oil (part of); Cinnamon (part of); Cinnamon Leaf Oil (part of) ... View More ...
+Properties:safety: Irritant
+smiles: COC1=C(C=CC(=C1)CC=C)O
+formula: C10H12O2
+chem_properties: Molecular Weight: 164.20 g/mol
+XLogP3: 2
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 3
+Exact Mass: 164.083729621 Da
+Monoisotopic Mass: 164.083729621 Da
+Topological Polar Surface Area: 29.5
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 145
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

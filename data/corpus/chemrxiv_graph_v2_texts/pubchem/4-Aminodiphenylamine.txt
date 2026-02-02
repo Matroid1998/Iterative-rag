@@ -1,0 +1,26 @@
+Name: 4-Aminodiphenylamine
+Text:
+N-phenyl-p-phenylenediamine appears as odorless purple-black solid or flake or dark purple chips. (NTP, 1992)
+P-aminodiphenylamine is an aromatic amine that is the 4-amino derivative of diphenylamine. It has a role as an allergen. It is a secondary amino compound and an aromatic amine. It is functionally related to a diphenylamine.
+Properties:safety: Irritant and Environmental Hazard
+smiles: C1=CC=C(C=C1)NC2=CC=C(C=C2)N
+formula: C12H12N2
+chem_properties: Molecular Weight: 184.24 g/mol
+XLogP3: 2.5
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 2
+Exact Mass: 184.100048391 Da
+Monoisotopic Mass: 184.100048391 Da
+Topological Polar Surface Area: 38.1
+Heavy Atom Count: 14
+Formal Charge: 0
+Complexity: 156
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

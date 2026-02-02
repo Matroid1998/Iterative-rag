@@ -1,0 +1,24 @@
+Name: Acetylsalicylic anhydride
+Text:
+Properties:safety: Irritant
+smiles: CC(=O)OC1=CC=CC=C1C(=O)OC(=O)C2=CC=CC=C2OC(=O)C
+formula: C18H14O7
+chem_properties: Molecular Weight: 342.3 g/mol
+XLogP3: 2.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 8
+Exact Mass: 342.07395278 Da
+Monoisotopic Mass: 342.07395278 Da
+Topological Polar Surface Area: 96
+Heavy Atom Count: 25
+Formal Charge: 0
+Complexity: 482
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

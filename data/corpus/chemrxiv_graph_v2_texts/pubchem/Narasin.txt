@@ -1,0 +1,28 @@
+Name: Narasin
+Text:
+Narasin is a diterpene glycoside.
+Narasin is an agent with coccidiostatic and antibacterial properties.
+NARASIN is a small molecule drug with a maximum clinical trial phase of II.
+See also: Narasin; Nicarbazin (component of); Avilamycin; Narasin (component of); Bambermycins; Narasin (component of) ... View More ...
+Properties:safety: Acute Toxic
+smiles: CC[C@H]([C@H]1[C@H](C[C@@H]([C@@H](O1)[C@@H](C)[C@@H]([C@H](C)C(=O)[C@H](CC)[C@@H]2[C@H](C[C@H]([C@]3(O2)C=C[C@H]([C@@]4(O3)CC[C@@](O4)(C)[C@H]5CC[C@@]([C@@H](O5)C)(CC)O)O)C)C)O)C)C)C(=O)O
+formula: C43H72O11
+chem_properties: Molecular Weight: 765.0 g/mol
+XLogP3: 6.2
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 11
+Rotatable Bond Count: 12
+Exact Mass: 764.50746311 Da
+Monoisotopic Mass: 764.50746311 Da
+Topological Polar Surface Area: 161
+Heavy Atom Count: 54
+Formal Charge: 0
+Complexity: 1360
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 19
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

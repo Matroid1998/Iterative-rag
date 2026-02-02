@@ -1,0 +1,37 @@
+Name: Cabotegravir
+Text:
+Cabotegravir is a monocarboxylic acid amide obtained by formal condensation of the carboxy group of (3S,11aR)-6-hydroxy-3-methyl-5,7-dioxo-2,3,5,7,11,11a-hexahydro[1,3]oxazolo[3,2-a]pyrido[1,2-d]pyrazine-8-carboxylic acid with the amino group of 2,4-difluorobenzylamine. Used (as its sodium salt) for treatment of HIV-1. It has a role as a HIV-1 integrase inhibitor. It is a difluorobenzene, a secondary carboxamide, a monocarboxylic acid amide and an organic heterotricyclic compound. It is a conjugate acid of a cabotegravir(1-).
+Cabotegravir is a prescription medicine approved by the U.S. Food and Drug Administration (FDA). It is approved as two different dosage forms under two different brand names for the following uses:
+Cabotegravir oral tablet (brand name: Vocabria)
+For the short-term treatment of HIV infection in adults and adolescents 12 years of age and older who weigh at least 77 lb (35 kg) and who meet certain requirements, as determined by a health care provider. When used for HIV treatment, cabotegravir is always used with the HIV medicine rilpivirine (brand name: Edurant).
+For short-term PrEP to reduce the risk of HIV infection in adults and adolescents who weigh at least 77 lb (35 kg), are HIV negative, and are at risk of getting HIV. Oral cabotegravir for PrEP should always be used in combination with safer sex practices, such as using condoms, to reduce the risk of getting other sexually transmitted infections.&nbsp;
+Long-acting injectable cabotegravir (brand name: Apretude)
+For HIV PrEP to reduce the risk of HIV infection in adults and adolescents who weigh at least 77 lb (35 kg), are HIV negative, and are at risk of getting HIV.&nbsp;Long-acting injectable cabotegravir for PrEP should always be used in combination with safer sex practices, such as using condoms, to reduce the risk of getting other sexually transmitted infections.
+Cabotegravir, or GSK1265744, is an HIV-1 integrase inhibitor that is prescribed with the non-nucleoside reverse transcriptase inhibitor, [rilpivirine]. Early research into cabotegravir showed it had lower oral bioavailability than [dolutegravir], which resulted in the development of long acting monthly intramuscular injection formulation for cabotegravir.  Cabotegravir was granted FDA approval on 21 January 2021 in combination with rilpivirine to treat HIV-1 infection in virologically suppressed individuals. While previously administered once monthly only, this combination product was granted FDA approval for dosing every two months on February 01, 2022 and without the need for an oral lead-in period prior.
+Cabotegravir is a Human Immunodeficiency Virus Integrase Strand Transfer Inhibitor. The mechanism of action of cabotegravir is as a HIV Integrase Inhibitor, and Organic Anion Transporter 1 Inhibitor, and Organic Anion Transporter 3 Inhibitor.
+Cabotegravir is an antiviral agent that inhibits the human immunodeficiency virus (HIV) integrase and is used in combination with rilpivirine, a non-nucleoside HIV reverse transcription inhibitor, in the treatment of HIV infection and the acquired immunodeficiency syndrome (AIDS). The fixed combination of cabotegravir and rilpivirine is typically given intramuscularly once monthly and has been linked to a low rate of serum aminotransferase elevations during therapy and to rare episodes of acute, clinically apparent liver injury.
+Cabotegravir is a human immunodeficiency virus type 1 (HIV-1) integrase strand transfer inhibitor (INSTI), that is used for pre-exposure prophylaxis (PrEP) to reduce the risk of sexually acquired HIV-1 infection. Upon gluteal intramuscular administration, cabotegravir binds to the active site of HIV integrase and inhibits the activity of HIV integrase, an HIV-1 coded enzyme that is necessary for viral replication. Inhibition of integrase prevents the integration of HIV-1 DNA into host genomic DNA.
+CABOTEGRAVIR is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2021 and has 3 approved and 1 investigational indication.
+See also: Cabotegravir Sodium (active moiety of); Cabotegravir; rilpivirine (component of).
+Properties:safety: Environmental Hazard
+smiles: C[C@H]1CO[C@H]2N1C(=O)C3=C(C(=O)C(=CN3C2)C(=O)NCC4=C(C=C(C=C4)F)F)O
+formula: C19H17F2N3O5
+chem_properties: Molecular Weight: 405.4 g/mol
+XLogP3: 2.1
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 3
+Exact Mass: 405.11362698 Da
+Monoisotopic Mass: 405.11362698 Da
+Topological Polar Surface Area: 99.2
+Heavy Atom Count: 29
+Formal Charge: 0
+Complexity: 814
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

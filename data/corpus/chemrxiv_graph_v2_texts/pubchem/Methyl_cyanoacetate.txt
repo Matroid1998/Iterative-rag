@@ -1,0 +1,25 @@
+Name: Methyl cyanoacetate
+Text:
+Methyl cyanoacetate is an alkyl cyanoacetate ester.
+Properties:safety: Irritant
+smiles: COC(=O)CC#N
+formula: C4H5NO2
+chem_properties: Molecular Weight: 99.09 g/mol
+XLogP3: -0.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 2
+Exact Mass: 99.032028402 Da
+Monoisotopic Mass: 99.032028402 Da
+Topological Polar Surface Area: 50.1
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 110
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

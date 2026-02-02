@@ -1,0 +1,25 @@
+Name: 1,7-Phenanthroline
+Text:
+1,7-phenanthroline is a phenanthroline.
+Properties:safety: Corrosive and Acute Toxic and Environmental Hazard
+smiles: C1=CC2=C(C3=C(C=C2)N=CC=C3)N=C1
+formula: C12H8N2
+chem_properties: Molecular Weight: 180.20 g/mol
+XLogP3: 2.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 180.068748264 Da
+Monoisotopic Mass: 180.068748264 Da
+Topological Polar Surface Area: 25.8
+Heavy Atom Count: 14
+Formal Charge: 0
+Complexity: 204
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

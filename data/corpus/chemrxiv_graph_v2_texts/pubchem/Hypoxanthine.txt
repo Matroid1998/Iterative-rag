@@ -1,0 +1,30 @@
+Name: Hypoxanthine
+Text:
+Hypoxanthine is a purine nucleobase that consists of purine bearing an oxo substituent at position 6. It has a role as a fundamental metabolite. It is an oxopurine, a purine nucleobase and a nucleobase analogue. It is functionally related to an adenine.
+Hypoxanthine is a purine and a reaction intermediate in the metabolism of adenosine and in the formation of nucleic acids by the salvage pathway.
+Hypoxanthine is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Hypoxanthine is a purine-based organic compound in human muscle tissues, Hypoxanthine is formed during purine catabolism as a product of xanthine oxidase action on xanthine, and occasionally is found as a constituent of nucleic acids. The potent anti-inflammatory and cytoprotective effects of purines may be mediated by cell surface adenosine receptors. Hypoxanthine protects against oxidant-induced cell injury by inhibiting activation of nuclear poly(ADP-ribose) polymerase (PARP). (NCI04)
+Hypoxanthine is a metabolite found in or produced by Saccharomyces cerevisiae.
+A purine and a reaction intermediate in the metabolism of adenosine and in the formation of nucleic acids by the salvage pathway.
+Properties:safety: Irritant
+smiles: C1=NC2=C(N1)C(=O)NC=N2
+formula: C5H4N4O
+chem_properties: Molecular Weight: 136.11 g/mol
+XLogP3: -0.5
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 136.03851076 Da
+Monoisotopic Mass: 136.03851076 Da
+Topological Polar Surface Area: 70.1
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 190
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

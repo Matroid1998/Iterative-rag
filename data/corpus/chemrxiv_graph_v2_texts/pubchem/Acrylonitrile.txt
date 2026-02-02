@@ -1,0 +1,32 @@
+Name: Acrylonitrile
+Text:
+Acrylonitrile is a colorless, liquid, man-made chemical with a sharp, onion- or garlic-like odor. It can be dissolved in water and evaporates quickly. Acrylonitrile is used to make other chemicals such as plastics, synthetic rubber, and acrylic fibers. A mixture of acrylonitrile and carbon tetrachloride was used as a pesticide in the past; however, all pesticide uses have stopped.
+Acrylonitrile can cause cancer according to state or federal government labeling requirements.
+Acrylonitrile, stabilized appears as a clear colorless liquid with a strong pungent odor. Flash point 32 °F. Prolonged exposure to the vapors or skin contact harmful. Density 6.7 lb / gal. Vapors heavier than air. Combustion produces toxic oxides of nitrogen. Requires storage and handling in closed systems. Used in insecticides and to make plastics, fibers and other chemicals.   Rate of onset: Immediate  Persistence: Minutes to hours  Odor threshold: 17 ppm  Source/use/other hazard: Plastics, coatings, adhesives industries; dyes; pharmaceuticals; flam gas.
+Acrylonitrile is a nitrile that is hydrogen cyanide in which the hydrogen has been replaced by an ethenyl group. It has a role as a carcinogenic agent, an antifungal agent, a fungal metabolite, a polar aprotic solvent and a mutagen. It is an aliphatic nitrile and a volatile organic compound.
+Exposure to acrylonitrile is primarily occupational: it is used in the manufacture of acrylic acid and modacrylic fibers. Acute (short-term) exposure of workers to acrylonitrile has been observed to cause mucous membrane irritation, headaches, dizziness, and nausea. No information is available on the reproductive or developmental effects of acrylonitrile in humans. Based on limited evidence in humans and evidence in rats, EPA has classified acrylonitrile as a probable human carcinogen (Group B1).
+Acrylonitrile is a colorless, volatile liquid with a pungent, onion-like odor. Acrylonitrile is widely used in industry to produce rubber, resins, plastics, elastomers and synthetic fibers and to manufacture carbon fibers used in aircraft, defense and aerospace industries. Exposure to acrylonitrile irritates the mucous membranes and causes a headache, nausea, dizziness, impaired judgment, difficulty breathing, limb weakness, cyanosis, convulsions and collapse. Acrylonitrile is reasonably anticipated to be a human carcinogen and may be associated with an increased risk of developing lung and prostate cancer. (NCI05)
+Acrylonitrile is a chemical compound of cyanide. It is used principally as a monomer in the manufacture of synthetic polymers, especially polyacrylonitrile which comprises acrylic fibers. Acrylic fibers are, among other uses, precursor for well-known carbon-fiber. It is also a component of synthetic rubber and small amounts may be used as a fumigant. It is one ingredient of cigarette. (L583)
+A highly poisonous compound used widely in the manufacture of plastics, adhesives and synthetic rubber.
+Properties:safety: Flammable and Corrosive and Acute Toxic and Health Hazard and Environmental Hazard
+smiles: C=CC#N
+formula: C3H3N
+chem_properties: Molecular Weight: 53.06 g/mol
+XLogP3: 0.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 53.026549100 Da
+Monoisotopic Mass: 53.026549100 Da
+Topological Polar Surface Area: 23.8
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 54.9
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

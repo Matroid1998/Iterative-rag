@@ -1,0 +1,26 @@
+Name: Lactucin
+Text:
+Lactucin is an azulenofuran that is 3-methylidene-3,3a,4,5,9a,9b-hexahydroazuleno[4,5-b]furan-2,7-dione carrying additional hydroxy, methyl and hydroxymethyl substituents at positions 4, 6 and 9 respectively (the 3aR,4S,9aS,9bR-diastereomer). Found in chicory. It has a role as an antimalarial, a sedative and a plant metabolite. It is a sesquiterpene lactone, an azulenofuran, a cyclic terpene ketone, an enone, a primary alcohol and a secondary alcohol.
+Lactucin has been reported in Lactuca saligna, Picris hieracioides, and other organisms with data available.
+Properties:safety: Irritant
+smiles: CC1=C2[C@@H]([C@@H]3[C@@H]([C@H](C1)O)C(=C)C(=O)O3)C(=CC2=O)CO
+formula: C15H16O5
+chem_properties: Molecular Weight: 276.28 g/mol
+XLogP3: -0.7
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 1
+Exact Mass: 276.09977361 Da
+Monoisotopic Mass: 276.09977361 Da
+Topological Polar Surface Area: 83.8
+Heavy Atom Count: 20
+Formal Charge: 0
+Complexity: 583
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

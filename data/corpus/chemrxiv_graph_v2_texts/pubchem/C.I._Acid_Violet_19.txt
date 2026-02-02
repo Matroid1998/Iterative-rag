@@ -1,0 +1,24 @@
+Name: C.I. Acid Violet 19
+Text:
+See also: Acid Fuchsin (preferred).
+Properties:safety: Irritant
+smiles: CC1=C/C(=C(/C2=CC(=C(C=C2)N)S(=O)(=O)O)\C3=CC(=C(C=C3)N)S(=O)(=O)[O-])/C=C(C1=N)S(=O)(=O)[O-].[Na+].[Na+]
+formula: C20H17N3Na2O9S3
+chem_properties: Molecular Weight: 585.5 g/mol
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 12
+Rotatable Bond Count: 3
+Exact Mass: 584.99223121 Da
+Monoisotopic Mass: 584.99223121 Da
+Topological Polar Surface Area: 270
+Heavy Atom Count: 37
+Formal Charge: 0
+Complexity: 1270
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,24 @@
+Name: Pentafluorophenylmethacrylate
+Text:
+Properties:safety: Flammable and Irritant
+smiles: CC(=C)C(=O)OC1=C(C(=C(C(=C1F)F)F)F)F
+formula: C10H5F5O2
+chem_properties: Molecular Weight: 252.14 g/mol
+XLogP3: 3.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 3
+Exact Mass: 252.02097021 Da
+Monoisotopic Mass: 252.02097021 Da
+Topological Polar Surface Area: 26.3
+Heavy Atom Count: 17
+Formal Charge: 0
+Complexity: 306
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

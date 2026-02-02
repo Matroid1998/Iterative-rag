@@ -1,0 +1,32 @@
+Name: Sulfur Dioxide
+Text:
+Sulfur dioxide is a colorless gas with a pungent odor. It is a liquid when under pressure, and it dissolves in water very easily. Sulfur dioxide in the air comes mainly from activities such as the burning of coal and oil at power plants or from copper smelting. In nature, sulfur dioxide can be released to the air from volcanic eruptions.
+Sulfur Dioxide can cause developmental toxicity according to an independent committee of scientific and health experts.
+Sulfur dioxide appears as a colorless gas with a choking or suffocating odor. Boiling point -10 °C. Heavier than air. Very toxic by inhalation and may irritate the eyes and mucous membranes. Under prolonged exposure to fire or heat the containers may rupture violently and rocket. Used to manufacture chemicals, in paper pulping, in metal and food processing.   Rate of onset: Immediate & Delayed  Persistence: Minutes to hours  Odor threshold: 1 ppm  Source/use/other hazard: Disinfectant and preserving in breweries and food/canning; textile industry; batteries.
+Sulfur dioxide is a sulfur oxide. It has a role as a food bleaching agent, a refrigerant and an Escherichia coli metabolite.
+Sulfur dioxide is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Sulfur Dioxide has been reported in Angelica gigas with data available.
+Sulfur dioxide is a metabolite found in or produced by Saccharomyces cerevisiae.
+A highly toxic, colorless, nonflammable gas. It is used as a pharmaceutical aid and antioxidant. It is also an environmental air pollutant.
+Properties:safety: Compressed Gas and Corrosive and Acute Toxic and Health Hazard
+smiles: O=S=O
+formula: O2S
+chem_properties: Molecular Weight: 64.07 g/mol
+XLogP3: 0.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 63.96190041 Da
+Monoisotopic Mass: 63.96190041 Da
+Topological Polar Surface Area: 35.1
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 18.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

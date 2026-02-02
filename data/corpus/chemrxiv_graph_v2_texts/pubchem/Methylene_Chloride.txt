@@ -1,0 +1,38 @@
+Name: Methylene Chloride
+Text:
+Methylene chloride is a colorless liquid with a mild, sweet odor. Another name for it is dichloromethane. Methylene chloride does not occur naturally in the environment.Methylene chloride is used as an industrial solvent and as a paint stripper. It may also be found in some aerosol and pesticide products and is used in the manufacture of photographic film.
+Dichloromethane (Methylene Chloride) can cause cancer according to an independent committee of scientific and health experts.
+Dichloromethane appears as a colorless liquid with a sweet, penetrating, ether-like odor. Noncombustible by if exposed to high temperatures may emit toxic chloride fumes. Vapors are narcotic in high concentrations. Used as a solvent and paint remover.
+Dichloromethane is a member of the class of chloromethanes that is methane in which two of the hydrogens have been replaced by chlorine. A dense, non-flammible colourless liquid at room temperature (b.p. 40℃, d = 1.33) which is immiscible with water, it is widely used as a solvent, a paint stripper, and for the removal of caffeine from coffee and tea. It has a role as a polar aprotic solvent, a carcinogenic agent and a refrigerant. It is a member of chloromethanes and a volatile organic compound.
+Methylene chloride is predominantly used as a solvent. The acute (short-term) effects of methylene chloride inhalation in humans consist mainly of nervous system effects including decreased visual, auditory, and motor functions, but these effects are reversible once exposure ceases. The effects of chronic (long-term) exposure to methylene chloride suggest that the central nervous system (CNS) is a potential target in humans and animals. Human data are inconclusive regarding methylene chloride and cancer. Animal studies have shown increases in liver and lung cancer and benign mammary gland tumors following the inhalation of methylene chloride.
+Methylene Chloride has been reported in Garcinia mangostana, Biflustra perfragilis, and Cynara cardunculus with data available.
+Methylene Chloride is a clear, colorless, nonflammable, volatile liquid chlorinated hydrocarbon with a sweet, pleasant smell and emits highly toxic fumes of phosgene when heated to decomposition. Methylene chloride is primarily used as a solvent in paint removers, but is also used in aerosol formulations, as a solvent in the manufacture of pharmaceuticals, as a degreasing agent, in electronics manufacturing and as an ethane foam blowing agent. Inhalation exposure to this substance irritates the nose and throat and affects the central nervous system. Methylene chloride is a possible mutagen and is reasonably anticipated to be a human carcinogen. (NCI05)
+Dichloromethane is used as an extraction solvent in the preparation of decaffeinated coffee, hop extracts and spice oleoresins. Diluent for colour additives and inks for marking fruit and vegetables The output of these processes is a mixture of methyl chloride, dichloromethane, chloroform, and carbon tetrachloride. These compounds are separated by distillation.
+
+Dichloromethane has been shown to exhibit anti-tumor, anti-proliferative, analgesic, anti-fungal and antibiotic functions (A7704, A7705, A7706, A7707, A7708).
+
+Dichloromethane belongs to the family of Organochlorides. These are organic compounds containing a chlorine atom.
+A chlorinated hydrocarbon that has been used as an inhalation anesthetic and acts as a narcotic in high concentrations. Its primary use is as a solvent in manufacturing and food technology.
+See also: Dichlorocarbene (annotation moved to); Methyl, dichloro- (annotation moved to).
+Properties:safety: Health Hazard
+smiles: C(Cl)Cl
+formula: CH2Cl2
+chem_properties: Molecular Weight: 84.93 g/mol
+XLogP3: 1.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 83.9533555 Da
+Monoisotopic Mass: 83.9533555 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 2.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

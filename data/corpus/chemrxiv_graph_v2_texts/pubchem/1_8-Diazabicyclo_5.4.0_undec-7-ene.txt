@@ -1,0 +1,24 @@
+Name: 1,8-Diazabicyclo[5.4.0]undec-7-ene
+Text:
+Properties:safety: Corrosive and Acute Toxic and Irritant
+smiles: C1CCC2=NCCCN2CC1
+formula: C9H16N2
+chem_properties: Molecular Weight: 152.24 g/mol
+XLogP3: 1.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 152.131348519 Da
+Monoisotopic Mass: 152.131348519 Da
+Topological Polar Surface Area: 15.6
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 163
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

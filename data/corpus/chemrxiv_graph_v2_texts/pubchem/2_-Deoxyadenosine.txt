@@ -1,0 +1,30 @@
+Name: 2'-Deoxyadenosine
+Text:
+2'-deoxyadenosine is a purine 2'-deoxyribonucleoside having adenine as the nucleobase. It has a role as a human metabolite, a Saccharomyces cerevisiae metabolite, an Escherichia coli metabolite and a mouse metabolite. It is a purines 2'-deoxy-D-ribonucleoside and a purine 2'-deoxyribonucleoside.
+Deoxyadenosine is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+2'-Deoxyadenosine has been reported in Fritillaria przewalskii, Homo sapiens, and other organisms with data available.
+2'-deoxyadenosine is a purine nucleoside component of DNA comprised of adenosine linked by its N9 nitrogen to the C1 carbon of deoxyribose.
+Deoxyadenosine is a derivative of nucleoside adenosine. It is comprised of adenine attached to a deoxyribose moiety via a N9-glycosidic bond. Deoxyribose differs from ribose by the absence of oxygen in the 3' position of its ribose ring. Deoxyadenosine is a critical component of DNA.
+2'-Deoxyadenosine is a metabolite found in or produced by Saccharomyces cerevisiae.
+Properties:safety: Irritant
+smiles: C1[C@@H]([C@H](O[C@H]1N2C=NC3=C(N=CN=C32)N)CO)O
+formula: C10H13N5O3
+chem_properties: Molecular Weight: 251.24 g/mol
+XLogP3: -0.5
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 2
+Exact Mass: 251.10183929 Da
+Monoisotopic Mass: 251.10183929 Da
+Topological Polar Surface Area: 119
+Heavy Atom Count: 18
+Formal Charge: 0
+Complexity: 307
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 3
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

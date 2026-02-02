@@ -1,0 +1,10 @@
+2-Phenylpyridine is an organic compound with the formula C6H5C5H4N (or C11H9N). It is a colourless viscous liquid.  The compound and related derivatives have attracted interest as precursors to highly fluorescent metal complexes of possible value as organic light emitting diodes (OLEDs).
+The compound is prepared by the reaction of phenyl lithium with pyridine:
+
+C6H5Li + C5H5N → C6H5-C5H4N + LiH
+The reaction of iridium trichloride with 2-phenylpyridine proceeds via cyclometallation to give the chloride-bridged complex:
+
+4 C6H5-C5H4N + 2 IrCl3(H2O)3 → Ir2Cl2(C6H4-C5H4N)4 + 4 HCl
+This complex can be converted to the pictured tris(cyclometallated) derivative tris(2-phenylpyridine)iridium.
+
+The degree and regiochemistry of fluorination of metalated 2-phenylpyridine ligands in platinum(II) complexes significantly modifies the emission properties of the complexes.

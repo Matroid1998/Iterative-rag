@@ -1,0 +1,26 @@
+Name: Sodium Azide
+Text:
+Sodium azide appears as a colorless crystalline solid. Density 1.85 g / cm3. Burns in air and may explode if large quantities are involved. Toxic by ingestion. Toxic oxides of nitrogen are produced in fires.
+Sodium azide is the sodium salt of hydrogen azide (hydrazoic acid). It has a role as a mutagen, an antibacterial agent, an explosive and a mitochondrial respiratory-chain inhibitor. It contains an azide anion.
+A cytochrome oxidase inhibitor which is a nitridizing agent and an inhibitor of terminal oxidation. (From Merck Index, 12th ed)
+Properties:safety: Acute Toxic and Environmental Hazard
+smiles: [N-]=[N+]=[N-].[Na+]
+formula: N3Na
+chem_properties: Molecular Weight: 65.010 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 64.99899129 Da
+Monoisotopic Mass: 64.99899129 Da
+Topological Polar Surface Area: 3
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 15.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

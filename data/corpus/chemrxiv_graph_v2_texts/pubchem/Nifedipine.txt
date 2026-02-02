@@ -1,0 +1,34 @@
+Name: Nifedipine
+Text:
+Nifedipine can cause developmental toxicity, female reproductive toxicity and male reproductive toxicity according to state or federal government labeling requirements.
+Nifedipine appears as odorless yellow crystals or powder. Tasteless. (NTP, 1992)
+Nifedipine is a dihydropyridine, a methyl ester and a C-nitro compound. It has a role as a calcium channel blocker, a vasodilator agent, a tocolytic agent and a human metabolite.
+Nifedipine, or BAY a 1040, is a first generation dihydropyridine L-type calcium channel blocker, similar to [nicardipine]. Nifedipine was developed by Bayer and first described in the literature, along with other dihydropyridines, in 1972. Since nifedipine's development, second and third generation dihydropyridines have been developed with slower onsets and longer durations of action. The most popular of the third generation dihydropyridines is [amlodipine].  Nifedipine was granted FDA approval on 31 December 1981.
+Nifedipine is a Dihydropyridine Calcium Channel Blocker. The mechanism of action of nifedipine is as a Calcium Channel Antagonist.
+Nifedipine is a first generation calcium channel blocker used to treat hypertension and angina pectoris. Nifedipine therapy is associated with a low rate of serum enzyme elevations and has been linked to several instances of clinically apparent acute liver injury.
+Nifedipine has been reported in Homo sapiens with data available.
+Nifedipine is a dihydropyridine calcium channel blocking agent. Nifedipine inhibits the transmembrane influx of extracellular calcium ions into myocardial and vascular smooth muscle cells, causing dilatation of the main coronary and systemic arteries and decreasing myocardial contractility. This agent also inhibits the drug efflux pump P-glycoprotein which is overexpressed in some multi-drug resistant tumors and may improve the efficacy of some antineoplastic agents. (NCI04)
+NIFEDIPINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1981 and has 3 approved and 15 investigational indications.
+A potent vasodilator agent with calcium antagonistic action. It is a useful anti-anginal agent that also lowers blood pressure.
+Properties:safety: Irritant and Health Hazard
+smiles: CC1=C(C(C(=C(N1)C)C(=O)OC)C2=CC=CC=C2[N+](=O)[O-])C(=O)OC
+formula: C17H18N2O6
+chem_properties: Molecular Weight: 346.3 g/mol
+XLogP3: 2.2
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 5
+Exact Mass: 346.11648630 Da
+Monoisotopic Mass: 346.11648630 Da
+Topological Polar Surface Area: 110
+Heavy Atom Count: 25
+Formal Charge: 0
+Complexity: 608
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

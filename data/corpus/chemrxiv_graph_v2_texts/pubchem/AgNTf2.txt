@@ -1,0 +1,24 @@
+Name: AgNTf2
+Text:
+See also: Silver Bis(trifluoromethanesulfonyl)imide (preferred).
+Properties:safety: Corrosive
+smiles: C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F.[Ag+]
+formula: C2AgF6NO4S2
+chem_properties: Molecular Weight: 388.02 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 11
+Rotatable Bond Count: 2
+Exact Mass: 386.82239 Da
+Monoisotopic Mass: 386.82239 Da
+Topological Polar Surface Area: 86
+Heavy Atom Count: 16
+Formal Charge: 0
+Complexity: 379
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

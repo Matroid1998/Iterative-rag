@@ -1,0 +1,25 @@
+Name: Chroman
+Text:
+Chromane is a benzopyran consisting of a pyran ring having a benzene ring ortho-fused across positions 2 and 3.
+Properties:safety: Flammable and Irritant
+smiles: C1CC2=CC=CC=C2OC1
+formula: C9H10O
+chem_properties: Molecular Weight: 134.17 g/mol
+XLogP3: 2.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 134.073164938 Da
+Monoisotopic Mass: 134.073164938 Da
+Topological Polar Surface Area: 9.2
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 111
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

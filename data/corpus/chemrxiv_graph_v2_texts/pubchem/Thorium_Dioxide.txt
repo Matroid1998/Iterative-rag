@@ -1,0 +1,29 @@
+Name: Thorium Dioxide
+Text:
+Thorium Dioxide can cause cancer according to California Labor Code.
+Thorium oxide, [radioactive material, low specific activity] is a white powder. Density 9.7 g / cm3. Not soluble in water. Used in high-temperature ceramics, gas mantles, nuclear fuel, flame spraying, crucibles, non-silicia optical glass, catalysis, filaments in incandescent lamps, cathodes in electron tubes and arc-melting electrodes.
+Thorium dioxide is a thorium molecular entity.
+Thorium Dioxide is a radioactive crystalline solid compound used in a broad range of industrial applications. Thorium dioxide was utilized as a radiographic contrast agent; however, it is no longer considered safe for use in human patients because it was found to be a carcinogen that can cause cholangiocarcinoma.
+Thorianite is a mineral with formula of Th4+O2 or ThO2. The IMA symbol is Tho.
+Thorium oxide (ThO2). A radiographic contrast agent that was used in the early 1930s through about 1954. High rates of mortality have been linked to its use and it has been shown to cause liver cancer.
+Properties:safety: Acute Toxic and Health Hazard
+smiles: O=[Th]=O
+formula: O2Th
+chem_properties: Molecular Weight: 264.036 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 264.02788 Da
+Monoisotopic Mass: 264.02788 Da
+Topological Polar Surface Area: 34.1
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 18.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

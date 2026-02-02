@@ -1,0 +1,23 @@
+Name: 1,1,3,3-Tetramethyldisilazane
+Text:
+Properties:safety: Flammable and Corrosive and Irritant
+smiles: C[Si](C)N[Si](C)C
+formula: C4H13NSi2
+chem_properties: Molecular Weight: 131.32 g/mol
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 2
+Exact Mass: 131.05865249 Da
+Monoisotopic Mass: 131.05865249 Da
+Topological Polar Surface Area: 12
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 39
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

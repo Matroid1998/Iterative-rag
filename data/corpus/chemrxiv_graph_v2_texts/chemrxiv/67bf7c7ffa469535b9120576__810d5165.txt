@@ -1,0 +1,50 @@
+Description:
+Its density and placement in aluminosilicate zeolites act as Brønsted acid catalytic sites.
+
+Text:
+33 
+
+34 
+Zeolites are microporous, crystalline materials that are used in industrial separations1 and 
+35 
+catalysis2. While some occur naturally as minerals, the majority are synthesized using 
+36 
+hydrothermal processes, often requiring the presence of a highly specific organic structure 
+37 
+directing agent (OSDA) molecule to facilitate the crystallization of specific zeolite 
+38 
+frameworks3,4. OSDAs are crucial for selectively driving the synthesis of a particular 
+39 
+framework against other polymorphs, and also for influencing the density and distribution of 
+40 
+heteroatoms in the framework, such as the density and placement of aluminum in 
+41 
+aluminosilicate zeolites5,6, which act as Brnsted acid catalytic sites. The heteroatom 
+42 
+distribution then impacts the reactivity, selectivity and stability of zeolites in industrial and 
+43 
+environment applications5,7.
+
+
+---
+
+Description:
+A heteroatom in zeolites that can be modulated to tune their properties.
+
+Text:
+44 
+
+45 
+After decades of experimental efforts, about 1000 molecules have been reported in the 
+46 
+synthesis of under 270 known frameworks.8,9 Finding new OSDAs is key to both synthesizing 
+47 
+new zeolites and tuning the properties of known ones such as modulating the concentration or 
+48 
+positions of heteroatoms like aluminum.4,5 In particular, increasing SiAl ratios generally 
+49 
+improves the hydrothermal stability of zeolites for catalytic applications10, while lowering 
+50 
+SiAl ratios (i.e. below 5) increases their cationic exchange capacity, which is useful in 
+51 
+adsorption and catalytic processes requiring metalexchanged catalysts5.

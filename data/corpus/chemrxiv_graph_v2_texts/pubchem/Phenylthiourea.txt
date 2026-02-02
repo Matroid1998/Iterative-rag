@@ -1,0 +1,27 @@
+Name: Phenylthiourea
+Text:
+Needle-like crystals. Used in the manufacture of rodenticides and in medical genetics. (EPA, 1998)
+N-phenylthiourea is a member of the class of thioureas that is thiourea in which one of the hydrogens is replaced by a phenyl group. Depending on their genetic makeup, humans find it either very bitter-tasting or tasteless. This unusual property resulted in N-phenylthiourea being used in paternity testing prior to the advent of DNA testing. It has a role as an EC 1.14.18.1 (tyrosinase) inhibitor. It is functionally related to a thiourea.
+Phenylthiourea is a THIOUREA derivative containing a phenyl ring. Depending on their genetic makeup, humans can find it either bitter-tasting or tasteless.
+Properties:safety: Acute Toxic and Irritant
+smiles: C1=CC=C(C=C1)NC(=S)N
+formula: C7H8N2S
+chem_properties: Molecular Weight: 152.22 g/mol
+XLogP3: 0.7
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 1
+Exact Mass: 152.04081944 Da
+Monoisotopic Mass: 152.04081944 Da
+Topological Polar Surface Area: 70.1
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 119
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

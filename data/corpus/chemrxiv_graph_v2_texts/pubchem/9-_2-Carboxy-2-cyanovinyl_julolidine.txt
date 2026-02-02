@@ -1,0 +1,24 @@
+Name: 9-(2-Carboxy-2-cyanovinyl)julolidine
+Text:
+Properties:safety: Irritant
+smiles: C1CC2=CC(=CC3=C2N(C1)CCC3)/C=C(\C#N)/C(=O)O
+formula: C16H16N2O2
+chem_properties: Molecular Weight: 268.31 g/mol
+XLogP3: 2.7
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 2
+Exact Mass: 268.121177757 Da
+Monoisotopic Mass: 268.121177757 Da
+Topological Polar Surface Area: 64.3
+Heavy Atom Count: 20
+Formal Charge: 0
+Complexity: 456
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

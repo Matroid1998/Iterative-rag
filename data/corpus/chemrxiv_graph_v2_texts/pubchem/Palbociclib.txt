@@ -1,0 +1,31 @@
+Name: Palbociclib
+Text:
+Palbociclib is a member of the class of pyridopyrimidines that is 2-{[5-(piperazin-1-yl)pyridin-2-yl]amino}pyrido[2,3-d]pyrimidin-7-one bearing additional methyl, acetyl and cyclopentyl substituents at positions 5, 6 and 8 respectively. It is used in combination with letrozole for the treatment of metastatic breast cancer. It has a role as an EC 2.7.11.22 (cyclin-dependent kinase) inhibitor and an antineoplastic agent. It is a pyridopyrimidine, an aminopyridine, a secondary amino compound, a member of piperidines, an aromatic ketone, a member of cyclopentanes and a tertiary amino compound.
+Palbociclib is a piperazine pyridopyrimidine that acts in the cell cycle machinery. It is a second generation cyclin-dependent kinase inhibitor selected from a group of pyridopyrimidine compounds due to its favorable physical and pharmaceutical properties.  Palbociclib was developed by Pfizer Inc after the discovery that identified the cyclin-dependent kinases as key regulators of cell growth. It was originally FDA approved on March 2015 for the treatment of HR-positive, HER2-negative advanced or metastatic breast cancer and its indications were updated in April 2019 to include male patients based on findings from postmarketing reports and electronic health records demonstrating safety and clinical efficacy.
+Palbociclib is a Kinase Inhibitor. The mechanism of action of palbociclib is as a Kinase Inhibitor, and Cytochrome P450 3A Inhibitor.
+Palbociclib is a unique cyclin-dependent kinase inhibitor that is used in combination with aromatase inhibitors in the treatment of postmenopausal women with metastatic breast cancer. Palbociclib is associated with transient and usually mild elevations in serum aminotransferase during therapy and to an unusual form of liver injury called pseudocirrhosis caused by shrinkage of tumor metastases in the liver combined with desmoplastic changes and vascular damage, that can be severe, progressive and even fatal.
+Palbociclib is an orally available cyclin-dependent kinase (CDK) inhibitor with potential antineoplastic activity. Palbociclib selectively inhibits cyclin-dependent kinase 4 (CDK4) and 6 (CDK6), thereby inhibiting retinoblastoma (Rb) protein phosphorylation early in the G1 phase leading to cell cycle arrest. This suppresses DNA replication and decreases tumor cell proliferation. CDK4 and 6 are serine/threonine kinases that are upregulated in many tumor cell types and play a key role in the regulation of cell cycle progression.
+PALBOCICLIB is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2015 and has 6 approved and 45 investigational indications.
+See also: Palbociclib Isethionate (is active moiety of); Palbociclib hydrochloride (is active moiety of).
+Properties:safety: Acute Toxic and Irritant and Health Hazard and Environmental Hazard
+smiles: CC1=C(C(=O)N(C2=NC(=NC=C12)NC3=NC=C(C=C3)N4CCNCC4)C5CCCC5)C(=O)C
+formula: C24H29N7O2
+chem_properties: Molecular Weight: 447.5 g/mol
+XLogP3: 1.8
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 5
+Exact Mass: 447.23827319 Da
+Monoisotopic Mass: 447.23827319 Da
+Topological Polar Surface Area: 103
+Heavy Atom Count: 33
+Formal Charge: 0
+Complexity: 775
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

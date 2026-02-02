@@ -1,0 +1,28 @@
+Name: Lanthanum
+Text:
+Lanthanum(2+) is a lanthanum molecular entity, a monoatomic dication and a divalent metal cation.
+Lanthanum is a silvery white metallic element that belongs to period 6 of the lanthanoids family, with phosphate binding property. Lanthanum, when administered in a salt form, dissociates in acid to release lanthanum ions, which then bind dietary phosphate. This agent inhibits the absorption of phosphate by forming highly insoluble lanthanum-phosphate complexes that reduce concentrations of serum phosphate and calcium phosphate.
+lanthanum is a mineral.
+The prototypical element in the rare earth family of metals. It has the atomic symbol La, atomic number 57, and atomic weight 138.91. Lanthanide ion is used in experimental biology as a calcium antagonist; lanthanum oxide improves the optical properties of glass.
+See also: Lanthanum hydride (LaH3) (annotation moved to) ... View More ...
+Properties:safety: Flammable
+smiles: [La]
+formula: La
+chem_properties: Molecular Weight: 138.9055 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 138.906363 Da
+Monoisotopic Mass: 138.906363 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 1
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

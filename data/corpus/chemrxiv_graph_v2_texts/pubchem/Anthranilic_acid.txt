@@ -1,0 +1,32 @@
+Name: Anthranilic acid
+Text:
+Anthranilic acid appears as odorless white to pale-yellow or tan crystalline powder with a sweetish taste. (NTP, 1992)
+Anthranilic acid is an aminobenzoic acid that is benzoic acid having a single amino substituent located at position 2. It is a metabolite produced in L-tryptophan-kynurenine pathway in the central nervous system. It has a role as a mouse metabolite and a human metabolite. It is a conjugate acid of an anthranilate.
+2-Aminobenzoic acid is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Anthranilic acid has been reported in Glycine max, Streptomyces, and other organisms with data available.
+2-Aminobenzoic acid is a uremic toxin.  Uremic toxins can be subdivided into three major groups based upon their chemical and physical characteristics: 1) small, water-soluble, non-protein-bound compounds, such as urea; 2) small, lipid-soluble and/or protein-bound compounds, such as the phenols and 3) larger so-called middle-molecules, such as beta2-microglobulin. Chronic exposure of uremic toxins can lead to a number of conditions including renal damage, chronic kidney disease and cardiovascular disease.  
+2-Aminobenzoic acid is an organic compound. It is a substrate of enzyme anthranilate hydroxylase [EC 1.14.13.35] in benzoate degradation via hydroxylation pathway (KEGG).
+2-Aminobenzoic acid is a metabolite found in or produced by Saccharomyces cerevisiae.
+See also: 4-Aminobenzoic Acid (annotation moved to).
+Properties:safety: Corrosive and Irritant
+smiles: C1=CC=C(C(=C1)C(=O)O)N
+formula: C7H7NO2
+chem_properties: Molecular Weight: 137.14 g/mol
+XLogP3: 1.2
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 1
+Exact Mass: 137.047678466 Da
+Monoisotopic Mass: 137.047678466 Da
+Topological Polar Surface Area: 63.3
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 136
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

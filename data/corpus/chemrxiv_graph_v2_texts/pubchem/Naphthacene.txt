@@ -1,0 +1,26 @@
+Name: Naphthacene
+Text:
+Tetracene is an acene that consists of four ortho-fused benzene rings in a rectilinear arrangement. It is an acene and a member of tetracenes.
+Tetracene is one of over 100 different polycyclic aromatic hydrocarbons (PAHs). PAHs are chemicals that are formed during the incomplete burning organic substances, such as fossil fuels. They are usually found as a mixture containing two or more of these compounds. (L10)
+Properties:safety: Irritant and Environmental Hazard
+smiles: C1=CC=C2C=C3C=C4C=CC=CC4=CC3=CC2=C1
+formula: C18H12
+chem_properties: Molecular Weight: 228.3 g/mol
+XLogP3: 5.9
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 228.093900383 Da
+Monoisotopic Mass: 228.093900383 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 18
+Formal Charge: 0
+Complexity: 236
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

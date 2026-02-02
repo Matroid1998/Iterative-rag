@@ -1,0 +1,24 @@
+Name: Brettphos
+Text:
+Properties:safety: Irritant
+smiles: CC(C)C1=CC(=C(C(=C1)C(C)C)C2=C(C=CC(=C2P(C3CCCCC3)C4CCCCC4)OC)OC)C(C)C
+formula: C35H53O2P
+chem_properties: Molecular Weight: 536.8 g/mol
+XLogP3: 10.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 9
+Exact Mass: 536.37831793 Da
+Monoisotopic Mass: 536.37831793 Da
+Topological Polar Surface Area: 18.5
+Heavy Atom Count: 38
+Formal Charge: 0
+Complexity: 643
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

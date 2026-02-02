@@ -1,0 +1,31 @@
+Name: Anthracene
+Text:
+Anthracene can cause cancer according to California Labor Code and the World Health Organization's International Agency for Research on Cancer (IARC).
+Anthracene is a white to yellow solid with a weak aromatic odor. Sinks in water. (USCG, 1999)
+Acene is a polycyclic aromatic hydrocarbon consisting of fused benzene rings in a rectilinear arrangement. It is an ortho-fused polycyclic arene and a member of acenes.
+Anthracene has been reported in Bletilla striata, Festuca rubra, and other organisms with data available.
+Anthracene is anthracene, also called paranaphthalene or green oil, a solid polycyclic aromatic hydrocarbon (PAH) consisting of three benzene rings derived from coal-tar, is the simplest tricyclic aromatic hydrocarbon.  It is on the EPA's priority pollutant list. It is ubiquitous in the environment as a product of incomplete combustion of fossil fuels. It has been identified in surface and drinking water, ambient air, exhaust emissions, smoke of cigarettes and cigars, and in smoked foods and edible aquatic organisms. It is primarily used as an intermediate in the production of dyes, smoke screens, scintillation counter crystals, and in organic semiconductor research. Although a large body of literature exists on the toxicity of PAHs, data for anthracene are limited. Prolonged exposure causes variety of topical and systemic adverse reactions. Carcinogenicity bioassays with anthracene generally gave negative results.
+Anthracene is one of over 100 different polycyclic aromatic hydrocarbons (PAHs). PAHs are chemicals that are formed during the incomplete burning organic substances, such as fossil fuels. They are usually found as a mixture containing two or more of these compounds. (L10)
+See also: Polycyclic Aromatic Hydrocarbons (subclass of).
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: C1=CC=C2C=C3C=CC=CC3=CC2=C1
+formula: C14H10
+chem_properties: Molecular Weight: 178.23 g/mol
+XLogP3: 4.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 178.078250319 Da
+Monoisotopic Mass: 178.078250319 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 14
+Formal Charge: 0
+Complexity: 154
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

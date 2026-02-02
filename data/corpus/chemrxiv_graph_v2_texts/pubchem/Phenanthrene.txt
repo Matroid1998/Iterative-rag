@@ -1,0 +1,31 @@
+Name: Phenanthrene
+Text:
+Phenanthrene appears as colorless monoclinic crystals with a faint aromatic odor. Solutions exhibit a blue fluorescence. (NTP, 1992)
+Phenanthrene is a polycyclic aromatic hydrocarbon composed of three fused benzene rings which takes its name from the two terms 'phenyl' and 'anthracene.' It has a role as an environmental contaminant and a mouse metabolite. It is an ortho-fused polycyclic arene, an ortho-fused tricyclic hydrocarbon and a member of phenanthrenes.
+Phenanthrene has been reported in Nicotiana tabacum, Buddleja lindleyana, and other organisms with data available.
+PHENANTHRENE is a small molecule drug with a maximum clinical trial phase of I and has 1 investigational indication.
+Ravatite is a mineral with formula of C14H10. The corresponding IMA (International Mineralogical Association) number is IMA1992-019. The IMA symbol is Rav.
+Phenanthrene is one of over 100 different polycyclic aromatic hydrocarbons (PAHs). PAHs are chemicals that are formed during the incomplete burning of organic substances, such as fossil fuels. They are usually found as a mixture containing two or more of these compounds. (L10)
+See also: Polycyclic Aromatic Hydrocarbons (subclass of).
+Properties:safety: Irritant and Environmental Hazard
+smiles: C1=CC=C2C(=C1)C=CC3=CC=CC=C32
+formula: C14H10
+chem_properties: Molecular Weight: 178.23 g/mol
+XLogP3: 4.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 178.078250319 Da
+Monoisotopic Mass: 178.078250319 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 14
+Formal Charge: 0
+Complexity: 174
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

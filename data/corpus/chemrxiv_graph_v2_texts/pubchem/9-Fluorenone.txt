@@ -1,0 +1,26 @@
+Name: 9-Fluorenone
+Text:
+Fluoren-9-one is the simplest member of the class fluoren-9-ones that is 9H-fluorene bearing an oxo substituent at position 9. It has a role as a fungal xenobiotic metabolite.
+9-Fluorenone has been reported in Vitis vinifera with data available.
+Properties:safety: Irritant and Environmental Hazard
+smiles: C1=CC=C2C(=C1)C3=CC=CC=C3C2=O
+formula: C13H8O
+chem_properties: Molecular Weight: 180.20 g/mol
+XLogP3: 3.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 180.057514874 Da
+Monoisotopic Mass: 180.057514874 Da
+Topological Polar Surface Area: 17.1
+Heavy Atom Count: 14
+Formal Charge: 0
+Complexity: 222
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

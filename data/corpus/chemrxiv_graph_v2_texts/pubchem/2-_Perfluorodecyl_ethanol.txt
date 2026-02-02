@@ -1,0 +1,24 @@
+Name: 2-(Perfluorodecyl)ethanol
+Text:
+Properties:safety: Flammable and Irritant
+smiles: C(CO)C(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F
+formula: C12H5F21O
+chem_properties: Molecular Weight: 564.13 g/mol
+XLogP3: 7.1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 22
+Rotatable Bond Count: 10
+Exact Mass: 564.0005062 Da
+Monoisotopic Mass: 564.0005062 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 34
+Formal Charge: 0
+Complexity: 731
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

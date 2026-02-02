@@ -1,0 +1,188 @@
+Dynamic nuclear polarization (DNP) is one of several hyperpolarization methods developed to enhance the sensitivity of nuclear magnetic resonance (NMR) spectroscopy. While an essential analytical tool with applications in several fields, NMR’s low sensitivity poses major limitations to analyzing samples with low concentrations and limited masses and volumes. This low sensitivity is due to the relatively low nuclear gyromagnetic ratios (γn) of NMR active nuclei (1H, 13C, 15N, etc.) as well as the low natural abundance of certain nuclei. Several techniques have been developed to address this limitation, including hardware adjustments to NMR instruments and equipment (e.g., NMR tubes), improvements to data processing methods, and polarization transfer methods to NMR active nuclei in a sample—under which DNP falls.
+Overhauser et al. were the first to hypothesize and describe the DNP effect in 1953; later that year, Carver and Slichter  observed the effect in experiments using metallic lithium. DNP involves transferring the polarization of electron spins to neighboring nuclear spins using microwave irradiation at or near electron paramagnetic resonance (EPR) transitions. It is based on two fundamental concepts: first, that the electronic gyromagnetic moment (γe) is several orders of magnitude larger than γn (about 658 times more; see below), and second, that the relaxation of electron spins is much faster than nuclear spins.
+
+  
+    
+      
+        
+          
+            
+              P
+              
+                e
+              
+            
+            
+              P
+              
+                n
+              
+            
+          
+        
+        ≈
+        
+          
+            
+              γ
+              
+                e
+              
+            
+            
+              γ
+              
+                n
+              
+            
+          
+        
+        ≈
+        
+          
+            
+              1.760859644
+              ×
+              
+                10
+                
+                  11
+                
+              
+              
+                s
+                
+                  −
+                
+              
+              1
+            
+            
+              2.675221900
+              ×
+              
+                10
+                
+                  8
+                
+              
+              
+                s
+                
+                  −
+                
+              
+              1
+            
+          
+        
+        ≈
+        658
+      
+    
+    {\displaystyle {P_{e} \over P_{n}}\approx {\gamma _{e} \over \gamma _{n}}\approx {{1.760859644\times 10^{11}s^{-}1} \over {2.675221900\times 10^{8}s^{-}1}}\approx 658}
+  
+,
+where
+
+  
+    
+      
+        P
+        =
+        tanh
+        ⁡
+        (
+        
+          
+            
+              γ
+              ℏ
+              
+                B
+                
+                  0
+                
+              
+            
+            
+              2
+              
+                k
+                
+                  B
+                
+              
+              T
+            
+          
+        
+        )
+        ≈
+        
+          
+            
+              γ
+              ℏ
+              
+                B
+                
+                  0
+                
+              
+            
+            
+              2
+              
+                k
+                
+                  B
+                
+              
+              T
+            
+          
+        
+      
+    
+    {\displaystyle P=\tanh({{\gamma \hbar B_{0}} \over {2k_{B}T}})\approx {{\gamma \hbar B_{0}} \over {2k_{B}T}}}
+  
+
+is the Boltzmann equilibrium spin polarization. Note that the alignment of electron spins at a given magnetic field and temperature is described by the Boltzmann distribution under thermal equilibrium. A larger gyromagnetic moment corresponds to a larger Boltzmann distribution of populations in spin states; through DNP, the larger population distribution in the electronic spin reservoir is transferred to the neighboring nuclear spin reservoir, leading to stronger NMR signal intensities. The larger γ and faster relaxation of electron spins also help shorten T1 relaxation times of nearby nuclei, corresponding to stronger signal intensities.
+Under ideal conditions (full saturation of electron spins and dipolar coupling without leakage to nuclear spins), the NMR signal enhancement for protons can at most be 659. This corresponds to a time-saving factor of 434,000 for a solution-phase NMR experiment. In general, the DNP enhancement parameter η is defined as:
+
+  
+    
+      
+        η
+        =
+        
+          
+            
+              I
+              −
+              
+                I
+                
+                  0
+                
+              
+            
+            
+              I
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle \eta ={{I-I_{0}} \over I_{0}}}
+  
+
+where I is the signal intensity of the nuclear spins when the electron spins are saturated and I0 is the signal intensity of the nuclear spins when the electron spins are in equilibrium.
+
+DNP methods typically fall under one of two categories: continuous wave DNP (CW-DNP) and pulsed DNP. As their names suggest, these methods differ in whether the sample is continuously irradiated or pulsed with microwaves. When electron spin polarization deviates from its thermal equilibrium value, polarization transfers between electrons and nuclei can occur spontaneously through electron-nuclear cross relaxation or spin-state mixing among electrons and nuclei. For example, polarization transfer is spontaneous after a homolysis chemical reaction. On the other hand, when the electron spin system is in a thermal equilibrium, the polarization transfer requires continuous microwave irradiation at a frequency close to the corresponding EPR frequency. It is also possible that electrons are aligned to a higher degree of order by other preparations of electron spin order such as chemical reactions (known as chemical-induced DNP or CIDNP), optical pumping, and spin injection. A polarizing agent (PA)—either an endogenous or exogenous paramagnetic system to the sample—is required as part of the DNP experimental setup. Typically, PAs are stable free radicals that are dissolved in solution or doped in solids; they provide a source of unpaired electrons that can be polarized by microwave radiation near the EPR transitions. DNP can also be induced using unpaired electrons produced by radiation damage in solids. Some common PAs are shown.
+Described below are the four different mechanisms by which the DNP effect operates: the Overhauser effect (OE), the solid effect (SE), the cross effect (CE), and thermal mixing (TM). The DNP effect is present in solids and liquids and has been utilized successfully in solid-state and solution-phase NMR experiments. For solution-phase NMR experiments, only the OE mechanism is relevant, whereas for solid-state NMR any of the four mechanisms can be employed depending on the specific experimental conditions utilized.
+The first DNP experiments were performed in the early 1950s at low magnetic fields  but until recently the technique was of limited applicability for high-frequency, high-field NMR spectroscopy because of the lack of microwave (or terahertz) sources operating at the appropriate frequency. Today, such sources are available as turn-key instruments, making DNP a valuable and indispensable method especially in the field of structure determination by high-resolution solid-state NMR spectroscopy.

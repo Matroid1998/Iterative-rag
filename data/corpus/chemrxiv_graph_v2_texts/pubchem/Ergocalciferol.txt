@@ -1,0 +1,34 @@
+Name: Ergocalciferol
+Text:
+Ergocalciferol appears as odorless white crystals. Used as a dietary supplement and food additive. (EPA, 1998)
+Vitamin D2 is a vitamin D supplement and has been isolated from alfalfa. It has a role as a nutraceutical, a bone density conservation agent, a rodenticide and a plant metabolite. It is a seco-ergostane, a hydroxy seco-steroid and a vitamin D.
+Ergocalciferol is an inactivated vitamin D analog. It is synthesized by some plants in the presence of UVB light. The production of ergocalciferol was prompted by the identification of dietary deficiency, more specifically vitamin D, as the main causative factor for the development of rickets. Ergocalciferol was isolated for the first time from yeast in 1931 and its structure was elucidated in 1932.  Ergocalciferol is considered the first vitamin D analog and is differentiated from [cholecalciferol] by the presence of a double bond between C22 and C23 and the presence of a methyl group at C24. These modifications reduce the affinity of ergocalciferol for the vitamin D binding protein resulting in faster clearance, limits its activation, and alters its catabolism.  The first approved product containing ergocalciferol under the FDA records was developed by US Pharm Holdings and was FDA approved in 1941.
+Ergocalciferol is a Provitamin D2 Compound.
+Ergocalciferol has been reported in Humulus lupulus, Medicago sativa, and other organisms with data available.
+Ergocalciferol is vitamin D2, a fat-soluble vitamin important for many biochemical processes including the absorption and metabolism of calcium and phosphorus.  In vivo, ergocalciferol is formed after sun (ultraviolet) irradiation of plant-derived ergosterol, another form of vitamin D. Ergocalciferol is the form of vitamin D usually found in vitamin supplements. (NCI04)
+ERGOCALCIFEROL is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1941 and has 3 approved and 80 investigational indications.
+Ergocalciferol is a form of Vitamin D, also called vitamin D2. It is created from viosterol, which in turn is created when ultraviolet light activates ergosterol. Ergocalciferol is used in the treatment of hypcalcemia and in dialysis-dependent renal failure. Ergoalcifediol is a fat soluble steroid hormone precursor of vitamin D that contributes to the maintenance of normal levels of calcium and phosphorus in the bloodstream. Vitamin D2 is the form of vitamin D most commonly added to foods and nutritional supplements. Vitamin D2 must be transformed (hydroxylated) into one of two active forms via the liver or kidney. Once transformed, it binds to the vitamin D receptor that then leads to a variety of regulatory roles.
+Derivatives of ERGOSTEROL formed by ULTRAVIOLET RAYS breaking of the C9-C10 bond. They differ from CHOLECALCIFEROL in having a double bond between C22 and C23 and a methyl group at C24.
+See also:  ... View More ...
+Properties:safety: Acute Toxic and Health Hazard
+smiles: C[C@H](/C=C/[C@H](C)C(C)C)[C@H]1CC[C@@H]\2[C@@]1(CCC/C2=C\C=C/3\C[C@H](CCC3=C)O)C
+formula: C28H44O
+chem_properties: Molecular Weight: 396.6 g/mol
+XLogP3: 7.4
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 5
+Exact Mass: 396.339216023 Da
+Monoisotopic Mass: 396.339216023 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 29
+Formal Charge: 0
+Complexity: 678
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 6
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 3
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

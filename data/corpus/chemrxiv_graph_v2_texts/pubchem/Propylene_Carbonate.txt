@@ -1,0 +1,26 @@
+Name: Propylene Carbonate
+Text:
+Propylene carbonate is an organic molecular entity.
+Propylene carbonate has been reported in Solanum lycopersicum with data available.
+Properties:safety: Irritant
+smiles: CC1COC(=O)O1
+formula: C4H6O3
+chem_properties: Molecular Weight: 102.09 g/mol
+XLogP3: -0.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 102.031694049 Da
+Monoisotopic Mass: 102.031694049 Da
+Topological Polar Surface Area: 35.5
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 88.9
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

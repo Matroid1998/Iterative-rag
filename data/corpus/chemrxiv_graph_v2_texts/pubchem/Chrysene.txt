@@ -1,0 +1,30 @@
+Name: Chrysene
+Text:
+Chrysene can cause cancer according to The Environmental Protection Agency (EPA).
+Chrysene appears as a crystalline solid. Denser than water and insoluble in water. The primary hazard is the threat to the environment. Immediate steps should be taken to limit spread to the environment. Toxic by ingestion. Used to make other chemicals.
+Chrysene is an ortho-fused polycyclic arene found commonly in the coal tar. It has a role as a plant metabolite.
+Chrysene has been reported in Camellia sinensis with data available.
+Chrysene is an aromatic hydrocarbon in coal tar, allied to naphthalene and anthracene. It is a white crystalline substance, C18H12, of strong blue fluorescence, but generally colored yellow by impurities.
+Chrysene is one of over 100 different polycyclic aromatic hydrocarbons (PAHs). PAHs are chemicals that are formed during the incomplete burning of organic substances, such as fossil fuels. They are usually found as a mixture containing two or more of these compounds. (L10)
+Properties:safety: Health Hazard and Environmental Hazard
+smiles: C1=CC=C2C(=C1)C=CC3=C2C=CC4=CC=CC=C43
+formula: C18H12
+chem_properties: Molecular Weight: 228.3 g/mol
+XLogP3: 5.7
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 228.093900383 Da
+Monoisotopic Mass: 228.093900383 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 18
+Formal Charge: 0
+Complexity: 264
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

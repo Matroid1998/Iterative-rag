@@ -1,0 +1,23 @@
+Name: Hexabutyldistannane
+Text:
+Properties:safety: Acute Toxic and Irritant and Health Hazard and Environmental Hazard
+smiles: CCCC[Sn](CCCC)CCCC.CCCC[Sn](CCCC)CCCC
+formula: C24H54Sn2
+chem_properties: Molecular Weight: 580.1 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 18
+Exact Mass: 580.22636 Da
+Monoisotopic Mass: 582.22696 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 26
+Formal Charge: 0
+Complexity: 168
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

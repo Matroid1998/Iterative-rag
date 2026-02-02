@@ -1,0 +1,24 @@
+Name: 9-(3-(9H-Carbazol-9-yl)phenyl)-9H-carbazole-3-carbonitrile
+Text:
+Properties:safety: Corrosive and Irritant
+smiles: C1=CC=C2C(=C1)C3=CC=CC=C3N2C4=CC(=CC=C4)N5C6=C(C=C(C=C6)C#N)C7=CC=CC=C75
+formula: C31H19N3
+chem_properties: Molecular Weight: 433.5 g/mol
+XLogP3: 7.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 2
+Exact Mass: 433.157897619 Da
+Monoisotopic Mass: 433.157897619 Da
+Topological Polar Surface Area: 33.7
+Heavy Atom Count: 34
+Formal Charge: 0
+Complexity: 763
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

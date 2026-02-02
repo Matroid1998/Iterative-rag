@@ -1,0 +1,25 @@
+Name: Chromium hexavalent ion
+Text:
+Chromium(6+) is a monoatomic hexacation and a chromium cation.
+Hexavalent chromium refers to chemical compounds that contain the element chromium in the +6 oxidation state. Chromium(VI) is more toxic than other oxidation states of the chromium atom because of its greater ability to enter cells and higher redox potential. (L16)
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: [Cr+6]
+formula: Cr+6
+chem_properties: Molecular Weight: 51.996 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 51.940505 Da
+Monoisotopic Mass: 51.940505 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 1
+Formal Charge: 6
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

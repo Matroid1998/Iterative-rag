@@ -1,0 +1,24 @@
+Name: Boron carbide
+Text:
+See also: Boron carbide (10B4C) (annotation moved to).
+Properties:safety: Health Hazard
+smiles: B12B3C14B2B43
+formula: CB4
+chem_properties: Molecular Weight: 55.3 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 56.0372207 Da
+Monoisotopic Mass: 56.0372207 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 106
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

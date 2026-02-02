@@ -1,0 +1,33 @@
+Name: Hydroxychloroquine
+Text:
+Hydroxychloroquine is an aminoquinoline that is chloroquine in which one of the N-ethyl groups is hydroxylated at position 2. An antimalarial with properties similar to chloroquine that acts against erythrocytic forms of malarial parasites, it is mainly used as the sulfate salt for the treatment of lupus erythematosus, rheumatoid arthritis, and light-sensitive skin eruptions. It has a role as an antimalarial, an antirheumatic drug, a dermatologic drug and an anticoronaviral agent. It is an aminoquinoline, an organochlorine compound, a primary alcohol, a secondary amino compound and a tertiary amino compound. It is functionally related to a chloroquine. It is a conjugate base of a hydroxychloroquine(2+).
+Hydroxychloroquine is a racemic mixture consisting of an R and S enantiomer. Hydroxychloroquine is an aminoquinoline like [chloroquine]. It is a commonly prescribed medication in the treatment of uncomplicated malaria, rheumatoid arthritis, chronic discoid lupus erythematosus, and systemic lupus erythematosus. Hydroxychloroquine is also used for the prophylaxis of malaria in regions where chloroquine resistance is unlikely. It was developed during World War II as a derivative of [quinacrine] with less severe side effects. Chloroquine and hydroxychloroquine are both being investigated for the treatment of SARS-CoV-2.  **The FDA emergency use authorization for hydroxychloroquine and [chloroquine] in the treatment of COVID-19 was revoked on 15 June 2020.**  Hydroxychloroquine was granted FDA approval on 18 April 1955.  A recent study reported a fatality in the group being treated with hydroxychloroquine for COVID-19.
+Hydroxychloroquine is an Antirheumatic Agent and Antimalarial.
+Hydroxychloroquine is a derivative of chloroquine that has both antimalarial and antiinflammatory activities and is now most often used as an antirheumatologic agent in systemic lupus erythematosis and rheumatoid arthritis. Hydroxychloroquine therapy has not been associated with liver function abnormalities and is an extremely rare cause of clinically apparent acute liver injury.
+Hydroxychloroquine is a 4-aminoquinoline with immunosuppressive, antiautophagy, and antimalarial activities. Although the precise mechanism of action is unknown, hydroxychloroquine may suppress immune function by interfering with the processing and presentation of antigens and the production of cytokines. As a lysosomotropic agent, hydroxychloroquine raises intralysosomal pH, impairing autophagic protein degradation; hydroxychloroquine-mediated accumulation of ineffective autophagosomes may result in cell death in tumor cells reliant on autophagy for survival.  In addition, this agent is highly active against the erythrocytic forms of P. vivax and malariae and most strains of P. falciparum but not the gametocytes of P. falciparum.
+HYDROXYCHLOROQUINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1955 and is indicated for malaria and rheumatoid arthritis and has 80 investigational indications.
+Hydroxychloroquine is only found in individuals that have used or taken this drug. It is a chemotherapeutic agent that acts against erythrocytic forms of malarial parasites. Although the exact mechanism of action is unknown, it may be based on ability of hydroxychloroquine to bind to and alter DNA. Hydroxychloroquine has also has been found to be taken up into the acidic food vacuoles of the parasite in the erythrocyte. This increases the pH of the acid vesicles, interfering with vesicle functions and possibly inhibiting phospholipid metabolism. In suppressive treatment, hydroxychloroquine inhibits the erythrocytic stage of development of plasmodia. In acute attacks of malaria, it interrupts erythrocytic schizogony of the parasite. Its ability to concentrate in parasitized erythrocytes may account for their selective toxicity against the erythrocytic stages of plasmodial infection. As an antirheumatic, hydroxychloroquine is thought to act as a mild immunosuppressant, inhibiting the production of rheumatoid factor and acute phase reactants. It also accumulates in white blood cells, stabilizing lysosomal membranes and inhibiting the activity of many enzymes, including collagenase and the proteases that cause cartilage breakdown.
+A chemotherapeutic agent that acts against erythrocytic forms of malarial parasites. Hydroxychloroquine appears to concentrate in food vacuoles of affected protozoa. It inhibits plasmodial heme polymerase. (From Gilman et al., Goodman and Gilman's The Pharmacological Basis of Therapeutics, 9th ed, p970)
+See also: Hydroxychloroquine Sulfate (has salt form).
+Properties:safety: Irritant
+smiles: CCN(CCCC(C)NC1=C2C=CC(=CC2=NC=C1)Cl)CCO
+formula: C18H26ClN3O
+chem_properties: Molecular Weight: 335.9 g/mol
+XLogP3: 3.6
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 9
+Exact Mass: 335.1764402 Da
+Monoisotopic Mass: 335.1764402 Da
+Topological Polar Surface Area: 48.4
+Heavy Atom Count: 23
+Formal Charge: 0
+Complexity: 331
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

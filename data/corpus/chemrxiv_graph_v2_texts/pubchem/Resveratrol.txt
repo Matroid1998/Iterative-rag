@@ -1,0 +1,32 @@
+Name: Resveratrol
+Text:
+Resveratrol is a stilbenol that is stilbene in which the phenyl groups are substituted at positions 3, 5, and 4' by hydroxy groups. It has a role as a phytoalexin, an antioxidant, a glioma-associated oncogene inhibitor and a geroprotector. It is a stilbenol, a polyphenol and a member of resorcinols.
+Resveratrol (3,5,4'-trihydroxystilbene) is a polyphenolic phytoalexin. It is a stilbenoid, a derivate of stilbene, and is produced in plants with the help of the enzyme stilbene synthase. It exists as cis-(Z) and trans-(E) isomers. The trans- form can undergo isomerisation to the cis- form when heated or exposed to ultraviolet irradiation. In a 2004 issue of Science, Dr. Sinclair of Harvard University said resveratrol is not an easy molecule to protect from oxidation. It has been claimed that it is readily degraded by exposure to light, heat, and oxygen. However, studies find that Trans-resveratrol undergoes negligible oxidation in normal atmosphere at room temperature.
+Resveratrol is a plant polyphenol found in high concentrations in red grapes that has been proposed as a treatment for hyperlipidemia and to prevent fatty liver, diabetes, atherosclerosis and aging. Resveratrol use has been associated with rare instances of serum enzyme elevations during therapy but has not been convincingly linked to episodes of clinically apparent liver injury.
+Resveratrol has been reported in Humulus lupulus, Malus, and other organisms with data available.
+Resveratrol is a phytoalexin derived from grapes and other food products with antioxidant and potential chemopreventive activities. Resveratrol induces phase II drug-metabolizing enzymes (anti-initiation activity); mediates anti-inflammatory effects and inhibits cyclooxygenase and hydroperoxidase functions (anti-promotion activity); and induces promyelocytic leukemia cell differentiation (anti-progression activity), thereby exhibiting activities in three major steps of carcinogenesis. This agent may inhibit TNF-induced activation of NF-kappaB in a dose- and time-dependent manner. (NCI05)
+RESVERATROL is a small molecule drug with a maximum clinical trial phase of III (across all indications) and has 36 investigational indications.
+Resveratrol is a metabolite found in or produced by Saccharomyces cerevisiae.
+A stilbene and non-flavonoid polyphenol produced by various plants including grapes and blueberries. It has anti-oxidant, anti-inflammatory, cardioprotective, anti-mutagenic, and anti-carcinogenic properties. It also inhibits platelet aggregation and the activity of several DNA HELICASES in vitro.
+Properties:safety: Corrosive and Irritant
+smiles: C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O
+formula: C14H12O3
+chem_properties: Molecular Weight: 228.24 g/mol
+XLogP3: 3.1
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 2
+Exact Mass: 228.078644241 Da
+Monoisotopic Mass: 228.078644241 Da
+Topological Polar Surface Area: 60.7
+Heavy Atom Count: 17
+Formal Charge: 0
+Complexity: 246
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

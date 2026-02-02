@@ -1,0 +1,25 @@
+Name: Nickel diiodide
+Text:
+Nickel iodide is an iodide of nickel. It is used as a catalyst and reagent in organic synthesis. Nickel is a chemical compound with the atomic number 28. It is found abundantly in nature in laterite ore minerals, such as limonite, garnierite, and pentlandite. Nickel has a biological role and is found in certain enzymes, including urease, hydrogenase, methylcoenzyme M reductase, and carbon monoxide dehydrogenase. (L40, L41, L45)
+See also: Nickel iodide (annotation moved to).
+Properties:safety: Health Hazard and Environmental Hazard
+smiles: [Ni](I)I
+formula: I2Ni
+chem_properties: Molecular Weight: 312.502 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 311.74429 Da
+Monoisotopic Mass: 311.74429 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 2.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

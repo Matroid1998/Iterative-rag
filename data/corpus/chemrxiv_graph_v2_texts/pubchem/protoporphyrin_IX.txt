@@ -1,0 +1,29 @@
+Name: protoporphyrin IX
+Text:
+Protoporphyrin is a cyclic tetrapyrrole that consists of porphyrin bearing four methyl substituents at positions 3, 8, 13 and 17, two vinyl substituents at positions 7 and 12 and two 2-carboxyethyl substituents at positions 2 and 18. The parent of the class of protoporphyrins. It has a role as a photosensitizing agent, a metabolite, an Escherichia coli metabolite and a mouse metabolite. It is a conjugate acid of a protoporphyrinate and a protoporphyrin(2-).
+Protoporphyrin IX is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+protoporphyrin IX has been reported in Homo sapiens and Turdus merula with data available.
+Protoporphyrin IX is a tetrapyrrole containing 4 methyl, 2 propionic and 2 vinyl side chains that is a metabolic precursor for hemes, cytochrome c and chlorophyll. Protoporphyrin IX is produced by oxidation of the methylene bridge of protoporphyrinogen by the enzyme protoporphyrinogen oxidase.
+Protoporphyrin IX is a metabolite found in or produced by Saccharomyces cerevisiae.
+Properties:safety: Irritant
+smiles: CC1=C(C2=CC3=NC(=CC4=NC(=CC5=C(C(=C(N5)C=C1N2)C=C)C)C(=C4CCC(=O)O)C)C(=C3C)CCC(=O)O)C=C
+formula: C34H34N4O4
+chem_properties: Molecular Weight: 562.7 g/mol
+XLogP3: 4.6
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 8
+Exact Mass: 562.25800558 Da
+Monoisotopic Mass: 562.25800558 Da
+Topological Polar Surface Area: 132
+Heavy Atom Count: 42
+Formal Charge: 0
+Complexity: 1010
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,25 @@
+Name: Methacrylamide
+Text:
+Methacrylamide is a member of acrylamides and a primary carboxamide.
+Properties:safety: Irritant and Health Hazard
+smiles: CC(=C)C(=O)N
+formula: C4H7NO
+chem_properties: Molecular Weight: 85.10 g/mol
+XLogP3: 0.1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 1
+Exact Mass: 85.052763847 Da
+Monoisotopic Mass: 85.052763847 Da
+Topological Polar Surface Area: 43.1
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 85.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

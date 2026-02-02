@@ -1,0 +1,24 @@
+Name: 2-(Dicyclohexylphosphino)biphenyl
+Text:
+Properties:safety: Irritant
+smiles: C1CCC(CC1)P(C2CCCCC2)C3=CC=CC=C3C4=CC=CC=C4
+formula: C24H31P
+chem_properties: Molecular Weight: 350.5 g/mol
+XLogP3: 6.7
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 4
+Exact Mass: 350.216337987 Da
+Monoisotopic Mass: 350.216337987 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 25
+Formal Charge: 0
+Complexity: 356
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

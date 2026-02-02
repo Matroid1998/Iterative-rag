@@ -1,0 +1,25 @@
+Name: 2,2'-Bithiophene
+Text:
+2,2'-bithiophene is a thiophene derivative that consists of two thiophene rings connected by a 2,2'-linkage.
+Properties:safety: Irritant
+smiles: C1=CSC(=C1)C2=CC=CS2
+formula: C8H6S2
+chem_properties: Molecular Weight: 166.3 g/mol
+XLogP3: 3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 165.99109254 Da
+Monoisotopic Mass: 165.99109254 Da
+Topological Polar Surface Area: 56.5
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 99.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

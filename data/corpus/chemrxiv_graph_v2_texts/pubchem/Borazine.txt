@@ -1,0 +1,23 @@
+Name: Borazine
+Text:
+Properties:safety: Flammable and Corrosive
+smiles: B1NBNBN1
+formula: B3H6N3
+chem_properties: Molecular Weight: 80.5 g/mol
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 81.0840877 Da
+Monoisotopic Mass: 81.0840877 Da
+Topological Polar Surface Area: 36.1
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 21.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

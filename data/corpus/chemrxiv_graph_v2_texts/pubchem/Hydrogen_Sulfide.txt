@@ -1,0 +1,33 @@
+Name: Hydrogen Sulfide
+Text:
+Hydrogen sulfide (H2S) occurs naturally in crude petroleum, natural gas, volcanic gases, and hot springs. It can also result from bacterial breakdown of organic matter. It is also produced by human and animal wastes. Bacteria found in your mouth and gastrointestinal tract produce hydrogen sulfide from bacteria decomposing materials that contain vegetable or animal proteins. Hydrogen sulfide can also result from industrial activities, such as food processing, coke ovens, kraft paper mills, tanneries, and petroleum refineries. Hydrogen sulfide is a flammable, colorless gas with a characteristic odor of rotten eggs. It is commonly known as hydrosulfuric acid, sewer gas, and stink damp. People can smell it at low levels.
+Hydrogen sulfide appears as a colorless gas having a strong odor of rotten eggs. Boiling point -60.2 °C. Shipped as a liquid confined under its own vapor pressure. Density (liquid) 8.3 lb / gal. Contact with the unconfined liquid can cause frostbite by evaporative cooling. Gas is very toxic by inhalation. Fatigues the sense of smell which cannot be counted on to warn of the continued presence of the gas. Prolonged exposure of closed containers to heat may result in their violent rupturing and rocketing.   Rate of onset: Immediate & Delayed  Persistence: Minutes to hours  Odor threshold: 0.1 ppm  Source/use/other hazard: Disinfectant lubricant/oils; interm for HC manufacture; deadens sense of smell.
+Sulfur atom is a nonmetal atom and a chalcogen. It has a role as a macronutrient.
+Hydrogen sulfide is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Hydron;sulfanide has been reported in Artemia salina, Arabidopsis thaliana, and other organisms with data available.
+Hydrogen Sulfide is a highly flammable conjugate acid of a cyanide that occurs naturally in crude petroleum, natural gas, and hot springs, and can be produced by bacterial breakdown of organic material and waste. It is used as a chemical weapon agent and is characterized as a colorless gas with a strong rotten egg odor that causes irritation of the eyes and respiratory tract, as well as toxic systemic effects.
+Hydrogen sulfide is a highly toxic and flammable gas. Because it is heavier than air it tends to accumulate at the bottom of poorly ventilated spaces. Although very pungent at first, it quickly deadens the sense of smell, so potential victims may be unaware of its presence until it is too late. H2S arises from virtually anywhere where elemental sulfur comes into contact with organic material, especially at high temperatures. Hydrogen sulfide is a covalent hydride chemically related to water (H2O) since oxygen and sulfur occur in the same periodic table group. It often results when bacteria break down organic matter in the absence of oxygen, such as in swamps, and sewers (alongside the process of anaerobic digestion). It also occurs in volcanic gases, natural gas and some well waters. It is also important to note that Hydrogen sulfide is a central participant in the sulfur cycle, the biogeochemical cycle of sulfur on Earth. As mentioned above, sulfur-reducing and sulfate-reducing bacteria derive energy from oxidizing hydrogen or organic molecules in the absence of oxygen by reducing sulfur or sulfate to hydrogen sulfide. Other bacteria liberate hydrogen sulfide from sulfur-containing amino acids. Several groups of bacteria can use hydrogen sulfide as fuel, oxidizing it to elemental sulfur or to sulfate by using oxygen or nitrate as oxidant. The purple sulfur bacteria and the green sulfur bacteria use hydrogen sulfide as electron donor in photosynthesis, thereby producing elemental sulfur. (In fact, this mode of photosynthesis is older than the mode of cyanobacteria, algae and plants which uses water as electron donor and liberates oxygen).
+A flammable, poisonous gas with a characteristic odor of rotten eggs. It is used in the manufacture of chemicals, in metallurgy, and as an analytical reagent. (From Merck Index, 11th ed)
+See also: Laboratory-grade xylene (impurity of); Sulfur (annotation moved to).
+Properties:safety: Flammable and Acute Toxic and Environmental Hazard
+smiles: S
+formula: H2S
+chem_properties: Molecular Weight: 34.08 g/mol
+XLogP3: 0.5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 33.98772124 Da
+Monoisotopic Mass: 33.98772124 Da
+Topological Polar Surface Area: 1
+Heavy Atom Count: 1
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

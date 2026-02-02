@@ -1,0 +1,25 @@
+Name: Difethialone
+Text:
+Difethialone is a member of benzenes, a member of naphthalenes and a ring assembly.
+Properties:safety: Acute Toxic and Health Hazard and Environmental Hazard
+smiles: C1C(CC2=CC=CC=C2C1C3=C(SC4=CC=CC=C4C3=O)O)C5=CC=C(C=C5)C6=CC=C(C=C6)Br
+formula: C31H23BrO2S
+chem_properties: Molecular Weight: 539.5 g/mol
+XLogP3: 8.3
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 3
+Exact Mass: 538.06021 Da
+Monoisotopic Mass: 538.06021 Da
+Topological Polar Surface Area: 62.6
+Heavy Atom Count: 35
+Formal Charge: 0
+Complexity: 794
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 2
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,35 @@
+Name: Urethane
+Text:
+Urethane (Ethyl Carbamate) can cause cancer according to an independent committee of scientific and health experts. It can cause developmental toxicity according to The Environmental Protection Agency (EPA).
+Urethane appears as odorless colorless crystals or white powder. Sublimes readily at 217 °F and 54 mmHg. Cooling saline taste.
+Urethane is a carbamate ester obtained by the formal condensation of ethanol with carbamic acid. It has been found in alcoholic beverages. It has a role as a fungal metabolite and a mutagen.
+Urethane, formerly marketed as an inactive ingredient in Profenil injection, was determined to be carcinogenic and was removed from the Canadian, US, and UK markets in 1963.
+Ethyl carbamate is used as an intermediate in the synthesis of a number of chemicals. Acute (short-term) exposure of humans to high levels of ethyl carbamate may result in injury to the kidneys and liver and induce vomiting, coma, or hemorrhages. No information is available on the chronic (long-term), reproductive, or developmental effects of ethyl carbamate in humans. An increased incidence of lung tumors has been observed in rodents exposed to ethyl carbamate by oral or inhalation exposure. The International Agency for Research on Cancer (IARC) has classifed ethyl carbamate as a Group 2B, possibly carcinogenic to humans.
+Urethane has been reported in Trypanosoma brucei with data available.
+Urethane is a colorless and odorless, crystalline compound that emits toxic fumes of nitrogen oxides when heated to decomposition. Urethan is mainly used in the production of amino resins, but is also used in the manufacture of pesticides, fumigants, cosmetics and pharmaceuticals. Exposure to urethan can affect the central nervous system, liver and can cause bone marrow suppression. Urethan is reasonably anticipated to be a human carcinogen. (NCI05)
+URETHANE is a small molecule drug with a maximum clinical trial phase of IV. It was withdrawn in at least one region.
+Ethyl carbamate (also known as urethane) is an ester of carbamic acid.  It is not a component of polyurethanes.  Urethane can be produced by the reaction of ammonia with ethyl chloroformate or by heating urea nitrate and ethyl alcohol. It was first prepared in the mid 1800’s. Ethyl carbamate was used as an antineoplastic agent in the treatment of multiple myeloma before it was found in 1943 to be toxic, carcinogenic and largely ineffective. Japanese usage in medical injections continued and from 1950 to 1975. Ethyl carbamate has now been withdrawn from pharmaceutical use. However, small quantities of ethyl carbamate are also used in laboratories as an anesthetic for animals. Studies have shown that most, if not all, yeast-fermented alcoholic beverages contain traces of ethyl carbamate (15 ppb to 12 ppm). Other foods and beverages prepared by means of fermentation also contain ethyl carbamate. For example, bread has been found to contain 2 ppb while as much as 20 ppb has been found in some samples of soy sauce.  “Natural” ethyl carbamate is formed during distillation from natural precursors such as cyanide, urea, citrulline and other N-carbamoyl compounds.
+
+Antineoplastic agent that is also used as a veterinary anesthetic. It has also been used as an intermediate in organic synthesis. Urethane is suspected to be a carcinogen.
+Properties:safety: Health Hazard
+smiles: CCOC(=O)N
+formula: C3H7NO2
+chem_properties: Molecular Weight: 89.09 g/mol
+XLogP3: -0.2
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 2
+Exact Mass: 89.047678466 Da
+Monoisotopic Mass: 89.047678466 Da
+Topological Polar Surface Area: 52.3
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 52.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

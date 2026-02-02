@@ -1,0 +1,5 @@
+PETases are an esterase class of enzymes that catalyze the breakdown (via hydrolysis) of polyethylene terephthalate (PET) plastic to monomeric mono-2-hydroxyethyl terephthalate (MHET). The idealized chemical reaction is:
+
+(ethylene terephthalate)n + H2O → (ethylene terephthalate)n-1 + MHET,
+where n is the number of monomers in the polymer chain, though a trace amount of the PET breaks down instead to bis(2-hydroxyethyl) terephthalate (BHET). PETases can also break down PEF-plastic (polyethylene-2,5-furandicarboxylate), which is a bioderived PET replacement, into the analogous MHEF. PETases can't catalyze the hydrolysis of aliphatic polyesters like polybutylene succinate or polylactic acid.
+Whereas the degradation of PET by natural (non-enzymatic) means  will take hundreds of years,  PETases can degrade it in a matter of days.

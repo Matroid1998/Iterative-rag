@@ -1,0 +1,25 @@
+Name: Picolinamide
+Text:
+Picolinamide is a pyridinecarboxamide that is the monocarboxylic acid amide derivative of picolinic acid. It is functionally related to a picolinic acid.
+Properties:safety: Irritant
+smiles: C1=CC=NC(=C1)C(=O)N
+formula: C6H6N2O
+chem_properties: Molecular Weight: 122.12 g/mol
+XLogP3: 0.2
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 122.048012819 Da
+Monoisotopic Mass: 122.048012819 Da
+Topological Polar Surface Area: 56
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 114
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

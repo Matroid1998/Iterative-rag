@@ -1,0 +1,31 @@
+Name: Anthraquinone
+Text:
+Anthraquinone can cause cancer according to The National Toxicology Program.
+Anthraquinone appears as yellow crystals or powder. (NTP, 1992)
+9,10-anthraquinone is an anthraquinone that is anthracene in which positions 9 and 10 have been oxidised to carbonyls.
+Anthraquinone has been reported in Streptomyces, Aspergillus fumigatus, and other organisms with data available.
+Anthraquinone is a polycyclic aromatic hydrocarbon derived from anthracene or phthalic anhydride.  Anthraquinone is used in the manufacture of dyes, in the textile and pulp industries, and as a bird repellant.
+Hoelite is a mineral with formula of C14H8O2. The IMA symbol is Hoe.
+Compounds based on ANTHRACENES which contain two KETONES in any position. Substitutions can be in any position except on the ketone groups.
+Properties:safety: Health Hazard
+smiles: C1=CC=C2C(=C1)C(=O)C3=CC=CC=C3C2=O
+formula: C14H8O2
+chem_properties: Molecular Weight: 208.21 g/mol
+XLogP3: 3.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 208.052429494 Da
+Monoisotopic Mass: 208.052429494 Da
+Topological Polar Surface Area: 34.1
+Heavy Atom Count: 16
+Formal Charge: 0
+Complexity: 261
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

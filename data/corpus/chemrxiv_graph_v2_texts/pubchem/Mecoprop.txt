@@ -1,0 +1,28 @@
+Name: Mecoprop
+Text:
+Mecoprop appears as colorless crystals. Corrosive to metals. Used as an herbicide.
+2-(4-chloro-2-methylphenoxy)propanoic acid is a monocarboxylic acid that is lactic acid in which the hydroxyl hydrogen is replaced by a 4-chloro-2-methylphenyl group. It is an aromatic ether, a monocarboxylic acid and a member of monochlorobenzenes. It is functionally related to a rac-lactic acid.
+Mecoprop, or methylchlorophenoxypropionic acid (MCPP), is a common general use herbicide found in many household weed killers and weed-and-feed type lawn fertilizers. It is primarily used to control broadleaf weeds. It is often used in combination with other chemically related herbicides such as 2,4-D, dicamba, and MCPA.The United States Environmental Protection Agency has classified mecoprop as toxicity class III - slightly toxic. Mecoprop is a mixture of two stereoisomers, with the (R)-(+)-enantiomer ('Mecoprop-P', 'Duplosan KV') possessing the herbicidal activity
+See also: Mecoprop-P (annotation moved to).
+Properties:safety: Corrosive and Irritant and Environmental Hazard
+smiles: CC1=C(C=CC(=C1)Cl)OC(C)C(=O)O
+formula: C10H11ClO3
+chem_properties: Molecular Weight: 214.64 g/mol
+XLogP3: 3.1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 3
+Exact Mass: 214.0396719 Da
+Monoisotopic Mass: 214.0396719 Da
+Topological Polar Surface Area: 46.5
+Heavy Atom Count: 14
+Formal Charge: 0
+Complexity: 208
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

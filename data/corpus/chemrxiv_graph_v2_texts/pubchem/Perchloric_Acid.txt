@@ -1,0 +1,27 @@
+Name: Perchloric Acid
+Text:
+Perchloric acid, with more than 50% but not more than 72% acid appears as a clear colorless odorless aqueous solution. Corrosive to metals and tissue. Closed containers may rupture violently under prolonged exposure to heat.
+Perchloric acid, with not more than 50% acid appears as a clear colorless odorless aqueous solution. Corrosive to metals and tissue. Closed containers may rupture violently under prolonged exposure to heat.
+Perchloric acid is a chlorine oxoacid. It is a conjugate acid of a perchlorate.
+Properties:safety: Oxidizer and Corrosive
+smiles: OCl(=O)(=O)=O
+formula: ClHO4
+chem_properties: Molecular Weight: 100.46 g/mol
+XLogP3: 2.3
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 99.9563362 Da
+Monoisotopic Mass: 99.9563362 Da
+Topological Polar Surface Area: 71.4
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 114
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

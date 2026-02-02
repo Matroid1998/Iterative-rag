@@ -1,0 +1,23 @@
+Name: Bismuth selenide
+Text:
+Properties:safety: Acute Toxic and Health Hazard and Environmental Hazard
+smiles: [Se].[Se]=[Bi].[Se]=[Bi]
+formula: Bi2Se3
+chem_properties: Molecular Weight: 654.9 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 655.71115 Da
+Monoisotopic Mass: 657.71036 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 6.9
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

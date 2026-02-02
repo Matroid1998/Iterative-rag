@@ -1,0 +1,28 @@
+Name: Bromoethane
+Text:
+Bromoethane can cause cancer according to The National Toxicology Program.
+Ethyl bromide appears as a colorless volatile liquid. Slightly soluble in water and denser than water. Flash point below 0 °F. Vapors are heavier than air. Toxic by inhalation. Irritates skin and eyes. Used to make pharmaceuticals and as a solvent.
+Bromoethane is a bromoalkane that is ethane carrying a bromo substituent. It is an alkylating agent used as a chemical intermediate in various organic syntheses. It has a role as a carcinogenic agent, a solvent, a refrigerant, a local anaesthetic and an alkylating agent. It is a bromoalkane, a bromohydrocarbon and a volatile organic compound.
+Bromoethane is an alkylating agent used primarily as a chemical intermediate in various organic syntheses. It is an organobromide (L1986).
+Properties:safety: Flammable and Irritant and Health Hazard
+smiles: CCBr
+formula: C2H5Br
+chem_properties: Molecular Weight: 108.97 g/mol
+XLogP3: 1.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 107.95746 Da
+Monoisotopic Mass: 107.95746 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 2.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

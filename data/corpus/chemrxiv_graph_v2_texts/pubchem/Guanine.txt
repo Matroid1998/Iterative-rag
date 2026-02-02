@@ -1,0 +1,32 @@
+Name: Guanine
+Text:
+Guanine is a 2-aminopurine carrying a 6-oxo substituent. It has a role as a human metabolite, an algal metabolite, a Saccharomyces cerevisiae metabolite, an Escherichia coli metabolite and a mouse metabolite. It is a purine nucleobase, an oxopurine and a member of 2-aminopurines. It derives from a hydride of a 9H-purine.
+Guanine is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Guanine has been reported in Daphnia pulex, Glycine max, and other organisms with data available.
+Guanine is a purine base that is a constituent of nucleotides occurring in nucleic acids.
+GUANINE is a small molecule drug with a maximum clinical trial phase of III (across all indications) and has 15 investigational indications.
+Guanine is a mineral with formula of C5H3(NH2)N4O. The corresponding IMA (International Mineralogical Association) number is IMA1973-056. The IMA symbol is Gni.
+Guanine is a metabolite found in or produced by Saccharomyces cerevisiae.
+See also: Purine (subclass of); 8-Oxo-7,8-dihydrodeoxyguanine (annotation moved to).
+Properties:safety: Irritant
+smiles: C1=NC2=C(N1)C(=O)NC(=N2)N
+formula: C5H5N5O
+chem_properties: Molecular Weight: 151.13 g/mol
+XLogP3: -1.1
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 151.04940980 Da
+Monoisotopic Mass: 151.04940980 Da
+Topological Polar Surface Area: 96.2
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 225
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

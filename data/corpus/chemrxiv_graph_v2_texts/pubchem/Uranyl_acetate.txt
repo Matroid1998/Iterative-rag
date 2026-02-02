@@ -1,0 +1,25 @@
+Name: Uranyl acetate
+Text:
+Uranyl acetate appears as yellow crystals with a slight odor of vinegar. Density 2.89 g / cm3.
+Uranyl acetate is a chemical compound of uranium. It is used as a negative stain in electron microscopy. Uranium is a chemical element that has the symbol U and atomic number 92. It is a normal part of rocks, soil, air, and water, and occurs in nature in the form of minerals. (L248, L249, L256)
+Properties:safety: Acute Toxic and Health Hazard and Environmental Hazard
+smiles: CC(=O)O.CC(=O)O.O=[U]=O
+formula: C4H8O6U
+chem_properties: Molecular Weight: 390.13 g/mol
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 0
+Exact Mass: 390.08287 Da
+Monoisotopic Mass: 390.08287 Da
+Topological Polar Surface Area: 109
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 129
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

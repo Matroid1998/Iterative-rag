@@ -1,0 +1,31 @@
+Name: Oxytocin
+Text:
+Oxytocin is a cyclic nonapeptide hormone with amino acid sequence CYIQNCPLG that also acts as a neurotransmitter in the brain; the principal uterine-contracting and milk-ejecting hormone of the posterior pituitary. Together with the neuropeptide vasopressin, it is believed to influence social cognition and behaviour. It has a role as an oxytocic and a vasodilator agent. It is a peptide hormone and a heterodetic cyclic peptide.
+Sir Henry H. Dale first identified oxytocin and its uterine contractile properties in 1906. Like all other neurohypophysial hormones, oxytocin is composed of nine amino acids with a disulfide bridge between the Cys 1 and 6 residues. In the mid-1950s, synthetic oxytocin was successfully synthesized by a biochemist named Vincent du Vigneaud; he was later recognized with a Nobel prize for his work. Oxytocin continues to be an important tool in modern obstetrics to induce labor when indicated and to manage postpartum hemorrhage. It is estimated that labor induction with oxytocin is used in almost 10% of deliveries globally.   It should be noted that there are risks associated with oxytocin intervention during childbirth. Oxytocin should be used judiciously only when necessary and by experienced healthcare practitioners.  Although most commonly linked to labor and delivery, oxytocin actually has broad peripheral and central effects. It plays an important role in pair bonding, social cognition and functioning, and even fear conditioning. Oxytocin also serves a role in metabolic homeostasis and cardiovascular regulation.
+Oxytocin has been reported in Oxystelma esculentum with data available.
+Recombinant Oxytocin is a synthetic cyclic peptide form of the naturally occurring posterior pituitary hormone oxytocin. Oxytocin binds to oxytocin receptors in the uterine myometrium, which triggers the G-protein coupled receptor signal transduction cascade that causes increased intracellular calcium concentrations. Increased calcium concentration levels activate myosin light chain kinase which, in turn, induces the formation of the contractile protein actomyosin. This stimulates uterine smooth muscle contractions. This agent also stimulates smooth muscles in the mammary glands, thereby causing lactation.
+OXYTOCIN is a Protein drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1980 and is indicated for uterine inertia and hemorrhage and has 48 investigational indications. This drug has a black box warning from the FDA.
+A nonapeptide hormone released from the neurohypophysis (PITUITARY GLAND, POSTERIOR). It differs from VASOPRESSIN by two amino acids at residues 3 and 8. Oxytocin acts on SMOOTH MUSCLE CELLS, such as causing UTERINE CONTRACTIONS and MILK EJECTION.
+See also: Oxytocin acetate (active moiety of) ... View More ...
+Properties:safety: Irritant and Health Hazard
+smiles: CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N1)CC2=CC=C(C=C2)O)N)C(=O)N3CCC[C@H]3C(=O)N[C@@H](CC(C)C)C(=O)NCC(=O)N)CC(=O)N)CCC(=O)N
+formula: C43H66N12O12S2
+chem_properties: Molecular Weight: 1007.2 g/mol
+XLogP3: -2.6
+Hydrogen Bond Donor Count: 12
+Hydrogen Bond Acceptor Count: 15
+Rotatable Bond Count: 17
+Exact Mass: 1006.43645793 Da
+Monoisotopic Mass: 1006.43645793 Da
+Topological Polar Surface Area: 450
+Heavy Atom Count: 69
+Formal Charge: 0
+Complexity: 1870
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 9
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

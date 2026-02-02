@@ -1,0 +1,30 @@
+Name: Diphenylamine
+Text:
+Diphenylamine is a light tan to brown solid with a pleasant odor. Sinks in water. (USCG, 1999)
+Diphenylamine is an aromatic amine containing two phenyl substituents. It has been used as a fungicide for the treatment of superficial scald in apples and pears, but is no longer approved for this purpose within the European Union. It has a role as a carotogenesis inhibitor, an antioxidant, an EC 1.3.99.29 [phytoene desaturase (zeta-carotene-forming)] inhibitor, an antifungal agrochemical, a ferroptosis inhibitor and a radical scavenger. It is an aromatic amine, a secondary amino compound and a bridged diphenyl fungicide.
+Diphenylamine has been reported in Camellia sinensis, Trigonella foenum-graecum, and other organisms with data available.
+Diphenylamine is found in coriander. Diphenylamine is used for control of superficial scald in stored apples Diphenylamine is the organic compound with the formula (C6H5)2NH. It is a colourless solid, but samples are often yellow due to oxidized impurities. It is a weak base, with a KB of 10 14. With strong acids, it forms the water soluble salt. Diphenylamine belongs to the family of Aromatic Homomonocyclic Compounds. These are aromatic compounds containig only one ring, which is homocyclic.
+In humans it may be irritating to mucous membranes. Methemoglobinemia has been produced experimentally. In veterinary use, it is one of active ingredients in topical agents for prevention and treatment of screwworm infestation. An indicator in tests for nitrate poisoning.
+See also: Benzenamine, N-phenyl-, styrenated (annotation moved to).
+Properties:safety: Acute Toxic and Health Hazard and Environmental Hazard
+smiles: C1=CC=C(C=C1)NC2=CC=CC=C2
+formula: C12H11N
+chem_properties: Molecular Weight: 169.22 g/mol
+XLogP3: 3.5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 2
+Exact Mass: 169.089149355 Da
+Monoisotopic Mass: 169.089149355 Da
+Topological Polar Surface Area: 12
+Heavy Atom Count: 13
+Formal Charge: 0
+Complexity: 116
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

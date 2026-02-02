@@ -1,0 +1,27 @@
+Name: Bis(2-ethylhexyl) adipate
+Text:
+Bis(2-ethylhexyl) adipate is a colorless to straw-colored liquid with a mild odor. Floats on water. (USCG, 1999)
+Bis(2-ethylhexyl) adipate is a diester resulting from the formal condensation of the carboxy groups of adipic acid with 2-ethylhexan-1-ol. It is used as a plasticiser in the preparation of various polymers. It has a role as a plasticiser. It is a diester, a carboxylic ester and a member of dicarboxylic acids and O-substituted derivatives. It is functionally related to a 2-ethylhexan-1-ol and an adipic acid.
+Bis(2-ethylhexyl) adipate has been reported in Panax ginseng with data available.
+Properties:safety: Irritant
+smiles: CCCCC(CC)COC(=O)CCCCC(=O)OCC(CC)CCCC
+formula: C22H42O4
+chem_properties: Molecular Weight: 370.6 g/mol
+XLogP3: 6.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 19
+Exact Mass: 370.30830982 Da
+Monoisotopic Mass: 370.30830982 Da
+Topological Polar Surface Area: 52.6
+Heavy Atom Count: 26
+Formal Charge: 0
+Complexity: 320
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 2
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

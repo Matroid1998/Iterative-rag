@@ -1,0 +1,29 @@
+Name: Molnupiravir
+Text:
+Molnupiravir is a nucleoside analogue that is N(4)-hydroxycytidine in which the 5'-hydroxy group is replaced by a (2-methylpropanoyl)oxy group. It is the prodrug of the active antiviral ribonucleoside analog N(4)-hydroxycytidine (EIDD-1931), has activity against a number of RNA viruses including SARS-CoV-2, MERS-CoV, and seasonal and pandemic influenza viruses. It is currently in phase III trials for the treatment of patients with COVID-19. It has a role as a prodrug, an anticoronaviral agent and an antiviral drug. It is a nucleoside analogue, an isopropyl ester and a ketoxime. It is functionally related to a N(4)-hydroxycytidine.
+Molnupiravir (EIDD-2801, MK-4482) is the isopropylester prodrug of [N4-hydroxycytidine]. With improved oral bioavailability in non-human primates, it is hydrolyzed in vivo, and distributes into tissues where it becomes the active 5’-triphosphate form. The active drug incorporates into the genome of RNA viruses, leading to an accumulation of mutations known as viral error catastrophe. Recent studies have shown molnupiravir inhibits replication of human and bat coronaviruses, including SARS-CoV-2, in mice and human airway epithelial cells. A [remdesivir] resistant mutant mouse hepatitis virus has also been shown to have increased sensitivity to N4-hydroxycytidine.  Molnupiravir was granted approval by the UK's Medicines and Health products Regulatory Agency (MHRA) on 4 November 2021 to prevent severe outcomes such as hospitalization and death due to COVID-19 in adults. Molnupiravir was also granted emergency use authorization by the FDA on December 23, 2021; however, it is not yet fully approved.
+Molnupiravir is a ribonucleoside analogue and antiviral agent that is used in the therapy the severe acute respiratory syndrome (SARS) coronavirus 2 (CoV-2) infection, the cause of the novel coronavirus disease, 2019 (COVID-19). Molnupiravir therapy is given orally for 5 days early in the course of SARS-CoV-2 infection and has not been linked to serum aminotransferase elevations or to clinically apparent liver injury.
+Molnupiravir is an orally bioavailable prodrug of EIDD-1931, the synthetic ribonucleoside derivative N4-hydroxycytidine and ribonucleoside analog, with potential antiviral activity against a variety of RNA viruses. Upon oral administration, molnupiravir, being a prodrug, is metabolized into its active form EIDD-1931 and converted into its triphosphate (TP) form. The TP form of EIDD-1931 is incorporated into RNA and inhibits the action of viral RNA-dependent RNA polymerase. This results in the termination of RNA transcription and decreases viral RNA production, and viral RNA replication.
+MOLNUPIRAVIR is a small molecule drug with a maximum clinical trial phase of III (across all indications) and has 8 investigational indications.
+Properties:safety: Health Hazard
+smiles: CC(C)C(=O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=CC(=NC2=O)NO)O)O
+formula: C13H19N3O7
+chem_properties: Molecular Weight: 329.31 g/mol
+XLogP3: -0.8
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 6
+Exact Mass: 329.12229995 Da
+Monoisotopic Mass: 329.12229995 Da
+Topological Polar Surface Area: 141
+Heavy Atom Count: 23
+Formal Charge: 0
+Complexity: 534
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

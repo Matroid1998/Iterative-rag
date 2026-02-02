@@ -1,0 +1,29 @@
+Name: Cupric Sulfate
+Text:
+Cupric sulfate appears as a white or off-white solid. Melting point 200 °C with decomposition. Non-combustible.
+Copper(II) sulfate is a metal sulfate compound having copper(2+) as the metal ion. It has a role as a sensitiser, a fertilizer and an emetic. It contains a copper(2+).
+Cupric sulfate is a salt created by treating cupric oxide with sulfuric acid. This forms as large, bright blue crystals containing five molecules of water (CuSO4∙5H2O) and is also known as blue vitriol. The anhydrous salt is created by heating the hydrate to 150 °C (300 °F). Cupric sulfate is used primarily for agricultural purposes, as a pesticide, germicide, feed additive, and soil additive. Some of its secondary uses are as a raw material in the preparation of other copper compounds, as a reagent in analytic chemistry, as an electrolyte for batteries and electroplating baths, and in medical practice as a locally applied fungicide, bactericide, and astringent.  Copper is an essential trace element and an important catalyst for heme synthesis and iron absorption. After zinc and iron, copper is the third most abundant trace element found in the human body. Copper is a noble metal and its properties include high thermal and electrical conductivity, low corrosion, alloying ability, and malleability.  Copper is a component of intrauterine contraceptive devices  (IUD) and the release of copper is necessary for their important contraceptive effects. The average daily intake of copper in the USA is approximately  1 mg Cu with the diet being a primary source.  Interestingly, the dysregulation of copper has been studied with a focus on neurodegenerative diseases, such as Wilson’s disease, Alzheimer’s disease, and Parkinson’s disease. Data from clinical observations of the neurotoxic effects of copper may provide the basis for future treatments affecting copper and its homeostasis.
+Copper(II) sulfate is a sulfate of copper that occurs as the rare mineral chalcocyanite. It is used as a pesticide, analytic reagent, and in organic synthesis. Copper is a chemical element with the symbol Cu and atomic number 29. Copper is an essential elements in plants and animals as it is required for the normal functioning of more than 30 enzymes. It occurs naturally throughout the environment in rocks, soil, water, and air. (L277, L278, L301)
+A sulfate salt of copper. It is a potent emetic and is used as an antidote for poisoning by phosphorus. It also can be used to prevent the growth of algae.
+See also: Sulfuric acid, copper(2+) salt, basic (annotation moved to).
+Properties:safety: Irritant and Environmental Hazard
+smiles: [O-]S(=O)(=O)[O-].[Cu+2]
+formula: CuSO4
+chem_properties: Molecular Weight: 159.61 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 158.881327 Da
+Monoisotopic Mass: 158.881327 Da
+Topological Polar Surface Area: 88.6
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 62.2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

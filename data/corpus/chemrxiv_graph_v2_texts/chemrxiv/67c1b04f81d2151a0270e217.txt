@@ -1,0 +1,34 @@
+Description:
+Detailed information on iron oxidation and spin states is offered by Mssbauer spectroscopy.
+
+Text:
+Due to a pyrolysis step in their preparation, FeNC catalysts
+are amorphous materials and thus knowledge about the struc
+tural composition of their active site(s) is limited5,6,1114,16. Nucleispecific spectroscopy methods, such as Xray absorption
+spectroscopy9,12,14,17,18 or Mssbauer spectroscopy5,6,11,1923
+are thus required for structural elucidation. Because of the de
+tailed information on iron oxidation and spin states offered by
+Mssbauer spectroscopy, it has been used especially extensively
+to study FeNC catalysts. A Mssbauer doublet signal is charac
+terized by the isomer shift and the quadrupole splitting.
+
+
+---
+
+Description:
+Atoms are surrounded by a fourfold nitrogen coordination sphere embedded in a carbon matrix.
+
+Text:
+The
+isomer shift depends linearly on the selectron density at the
+nucleus, while the quadrupole splitting is defined by the elec
+tric field gradient, making it highly sensitive to the symme
+try of the electron distribution around the nucleus.2427 Both
+Mssbauer parameters show a temperature dependence, mak
+ing low temperature experiments on FeNC catalysts highly rele
+vant for comparisons with computational data that are formally
+carried out at 0 K.6,28
+The currently dominant perspective on active sites in FeNC
+catalysts is that iron atoms are surrounded by a fourfold nitro
+gen coordination sphere that are embedded in a carbon ma
+trix, which is assumed to be graphenelike5,6,11,12,14,2022,29.

@@ -1,0 +1,24 @@
+Name: Thioflavin T
+Text:
+Thioflavine T is an organic chloride salt having 2-[4-(dimethylamino)phenyl]-3,6-dimethyl-1,3-benzothiazol-3-ium as the counterion. It is widely used to visualise and quantify the presence of amyloids, both in vitro and in vivo. It has a role as a fluorochrome, a histological dye and a geroprotector. It contains a thioflavin T cation.
+Properties:safety: Corrosive and Acute Toxic and Irritant and Environmental Hazard
+smiles: CC1=CC2=C(C=C1)[N+](=C(S2)C3=CC=C(C=C3)N(C)C)C.[Cl-]
+formula: C17H19N2S.Cl
+chem_properties: Molecular Weight: 318.9 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 2
+Exact Mass: 318.0957475 Da
+Monoisotopic Mass: 318.0957475 Da
+Topological Polar Surface Area: 35.4
+Heavy Atom Count: 21
+Formal Charge: 0
+Complexity: 325
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

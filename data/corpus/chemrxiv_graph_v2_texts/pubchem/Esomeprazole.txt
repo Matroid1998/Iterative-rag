@@ -1,0 +1,32 @@
+Name: Esomeprazole
+Text:
+Esomeprazole is a 5-methoxy-2-{[(4-methoxy-3,5-dimethylpyridin-2-yl)methyl]sulfinyl}-1H-benzimidazole that has S configuration at the sulfur atom. An inhibitor of gastric acid secretion, it is used (generally as its sodium or magnesium salt) for the treatment of gastro-oesophageal reflux disease, dyspepsia, peptic ulcer disease, and Zollinger-Ellison syndrome. It has a role as a histamine antagonist, an EC 3.6.3.10 (H(+)/K(+)-exchanging ATPase) inhibitor, an anti-ulcer drug and an EC 1.4.3.4 (monoamine oxidase) inhibitor. It is a conjugate acid of an esomeprazole(1-). It is an enantiomer of a (R)-omeprazole.
+Esomeprazole, sold under the brand name Nexium, is a proton pump inhibitor (PPI) medication used for the management of gastroesophageal reflux disease (GERD), for gastric protection to prevent recurrence of stomach ulcers or gastric damage from chronic use of NSAIDs, and for the treatment of pathological hypersecretory conditions including Zollinger-Ellison (ZE) Syndrome. It can also be found in quadruple regimens for the treatment of H. pylori infections along with other antibiotics including [DB01060], [DB01211], and [DB00916], for example. Its efficacy is considered similar to other medications within the PPI class including [DB00338], [DB00213], [DB00448], [DB05351], and [DB01129]. Esomeprazole is the s-isomer of [DB00338], which is a racemate of the S- and R-enantiomer. Esomeprazole has been shown to inhibit acid secretion to a similar extent as [DB00338], without any significant differences between the two compounds in vitro.   Esomeprazole exerts its stomach acid-suppressing effects by preventing the final step in gastric acid production by covalently binding to sulfhydryl groups of cysteines found on the (H+, K+)-ATPase enzyme at the secretory surface of gastric parietal cells. This effect leads to inhibition of both basal and stimulated gastric acid secretion, irrespective of the stimulus. As the binding of esomeprazole to the (H+, K+)-ATPase enzyme is irreversible and new enzyme needs to be expressed in order to resume acid secretion, esomeprazole's duration of antisecretory effect persists longer than 24 hours.  PPIs such as esomeprazole have also been shown to inhibit the activity of dimethylarginine dimethylaminohydrolase (DDAH), an enzyme necessary for cardiovascular health. DDAH inhibition causes a consequent accumulation of the nitric oxide synthase inhibitor asymmetric dimethylarginie (ADMA), which is thought to cause the association of PPIs with increased risk of cardiovascular events in patients with unstable coronary syndromes.  Due to their good safety profile and as several PPIs are available over the counter without a prescription, their current use in North America is widespread. Long term use of PPIs such as esomeprazole has been associated with possible adverse effects, however, including increased susceptibility to bacterial infections (including gastrointestinal C. difficile), reduced absorption of micronutrients such as iron and B12, and an increased risk of developing hypomagnesemia and hypocalcemia which may contribute to osteoporosis and bone fractures later in life.  Rapid discontinuation of PPIs such as esomeprazole may cause a rebound effect and a short term increase in hypersecretion. Esomeprazole doses should be slowly lowered, or tapered, before discontinuing to prevent this rebound effect.
+Esomeprazole is a Proton Pump Inhibitor. The mechanism of action of esomeprazole is as a Proton Pump Inhibitor, and Cytochrome P450 2C19 Inhibitor.
+Esomeprazole Magnesium is the magnesium salt of esomeprazole, the S-isomer of omeprazole, with gastric proton pump inhibitor activity. In the acidic compartment of parietal cells, esomeprazole is protonated and converted into the active achiral sulphenamide; the active sulphenamide forms one or more covalent disulfide bonds with the proton pump hydrogen-potassium adenosine triphosphatase (H+/K+ ATPase), thereby inhibiting its activity and the parietal cell secretion of H+ ions into the gastric lumen, the final step in gastric acid production. H+/K+ ATPase is an integral membrane protein of the gastric parietal cell.
+Esomeprazole is the S-isomer of omeprazole, with gastric proton pump inhibitor activity. In the acidic compartment of parietal cells, esomeprazole is protonated and converted into the active achiral sulfenamide; the active sulfenamide forms one or more covalent disulfide bonds with the proton pump hydrogen-potassium adenosine triphosphatase (H+/K+ ATPase), thereby inhibiting its activity and the parietal cell secretion of H+ ions into the gastric lumen, the final step in gastric acid production. H+/K+ ATPase is an integral membrane protein of the gastric parietal cell.
+ESOMEPRAZOLE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2001 and has 8 approved and 34 investigational indications.
+The S-isomer of omeprazole.
+See also: Esomeprazole Magnesium (has salt form); Esomeprazole Sodium (has salt form); Esomeprazole Strontium (active moiety of) ... View More ...
+Properties:safety: Irritant
+smiles: CC1=CN=C(C(=C1OC)C)C[S@](=O)C2=NC3=C(N2)C=C(C=C3)OC
+formula: C17H19N3O3S
+chem_properties: Molecular Weight: 345.4 g/mol
+XLogP3: 2.2
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 5
+Exact Mass: 345.11471265 Da
+Monoisotopic Mass: 345.11471265 Da
+Topological Polar Surface Area: 96.3
+Heavy Atom Count: 24
+Formal Charge: 0
+Complexity: 453
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

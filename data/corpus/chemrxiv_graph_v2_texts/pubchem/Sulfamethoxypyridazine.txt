@@ -1,0 +1,28 @@
+Name: Sulfamethoxypyridazine
+Text:
+Sulfamethoxypyridazine is a sulfonamide consisting of pyridazine having a methoxy substituent at the 6-position and a 4-aminobenzenesulfonamido group at the 3-position. It has a role as an antiinfective agent, an EC 2.5.1.15 (dihydropteroate synthase) inhibitor and a drug allergen. It is a member of pyridazines, a sulfonamide and a sulfonamide antibiotic. It is functionally related to a sulfanilamide.
+Sulfamethoxypyridazine is a long-acting sulfonamide antibiotic.
+SULFAMETHOXYPYRIDAZINE is a small molecule drug with a maximum clinical trial phase of IV and is indicated for bacterial disease.
+A sulfanilamide antibacterial agent.
+Properties:safety: Corrosive and Irritant and Health Hazard
+smiles: COC1=NN=C(C=C1)NS(=O)(=O)C2=CC=C(C=C2)N
+formula: C11H12N4O3S
+chem_properties: Molecular Weight: 280.31 g/mol
+XLogP3: 0.3
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 4
+Exact Mass: 280.06301143 Da
+Monoisotopic Mass: 280.06301143 Da
+Topological Polar Surface Area: 116
+Heavy Atom Count: 19
+Formal Charge: 0
+Complexity: 376
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

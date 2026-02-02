@@ -1,0 +1,23 @@
+Name: 1-Pyrrolidinecarbodithioic acid, ammonium salt (1:1)
+Text:
+Properties:safety: Irritant
+smiles: C1CCN(C1)C(=S)S.N
+formula: C5H9NS2.H3N
+chem_properties: Molecular Weight: 164.3 g/mol
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 164.04419074 Da
+Monoisotopic Mass: 164.04419074 Da
+Topological Polar Surface Area: 37.3
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 96.6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

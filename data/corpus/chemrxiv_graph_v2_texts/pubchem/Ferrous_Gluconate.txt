@@ -1,0 +1,25 @@
+Name: Ferrous Gluconate
+Text:
+Ferrous Gluconate is a form of mineral iron for oral administration, Ferrous Gluconate is absorbed in the stomach and small intestine and combines with apoferritin to form ferritin, which is stored in the liver, spleen, red bone marrow, and intestinal mucosa. Important in transport of oxygen by hemoglobin to the tissues, iron is also found in myoglobin, transferrin, and ferritin, and is as a component of many enzymes such as catalase, peroxidase, and cytochromes. (NCI04)
+See also: Ferrous cation (has active moiety); Cholic acid; ferrous gluconate; honey (component of).
+Properties:safety: Irritant
+smiles: C([C@H]([C@H]([C@@H]([C@H](C(=O)[O-])O)O)O)O)O.C([C@H]([C@H]([C@@H]([C@H](C(=O)[O-])O)O)O)O)O.[Fe+2]
+formula: C12H22FeO14
+chem_properties: Molecular Weight: 446.14 g/mol
+Hydrogen Bond Donor Count: 10
+Hydrogen Bond Acceptor Count: 14
+Rotatable Bond Count: 8
+Exact Mass: 446.035891 Da
+Monoisotopic Mass: 446.035891 Da
+Topological Polar Surface Area: 283
+Heavy Atom Count: 27
+Formal Charge: 0
+Complexity: 165
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 8
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,26 @@
+Name: 2-Hydroxyethyl acrylate
+Text:
+Hydroxyethylacrylate appears as a clear colorless liquid. Less dense than water. Vapors heavier than air. Corrosive to tissue. May polymerize exothermically if heated or contaminated. If the polymerization takes place inside a container, the container may rupture violently. Used to make plastics.
+See also:  ... View More ...
+Properties:safety: Corrosive and Acute Toxic and Environmental Hazard
+smiles: C=CC(=O)OCCO
+formula: C5H8O3
+chem_properties: Molecular Weight: 116.11 g/mol
+XLogP3: -0.2
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 4
+Exact Mass: 116.047344113 Da
+Monoisotopic Mass: 116.047344113 Da
+Topological Polar Surface Area: 46.5
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 87.7
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

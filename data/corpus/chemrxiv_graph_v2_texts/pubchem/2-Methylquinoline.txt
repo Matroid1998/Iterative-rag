@@ -1,0 +1,27 @@
+Name: 2-Methylquinoline
+Text:
+Quinaldine appears as a colorless oily liquid darkening to red-brown on exposure to air. Flash point 175 °F. Denser than water and slightly soluble in water. Vapors heavier than air. Produces toxic oxides of nitrogen during combustion. Used to make dyes, pharmaceuticals and other chemicals.
+Quinaldine is a quinoline compound in which the quinoline skeleton is substituted at C-2 with a methyl group.
+2-Methylquinoline has been reported in Camellia sinensis, Physarum polycephalum, and other organisms with data available.
+Properties:safety: Irritant and Health Hazard
+smiles: CC1=NC2=CC=CC=C2C=C1
+formula: C10H9N
+chem_properties: Molecular Weight: 143.18 g/mol
+XLogP3: 2.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 143.073499291 Da
+Monoisotopic Mass: 143.073499291 Da
+Topological Polar Surface Area: 12.9
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 133
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

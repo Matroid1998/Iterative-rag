@@ -1,0 +1,23 @@
+Description:
+An intermediate on the surface of transition metal catalysts in CO2 hydrogenation.
+
+Text:
+Climate change is an escalating global issue, visibly affecting ecosystems and human societies.1 
+Balancing environmental protection with industrial and technological growth now becomes the 
+key challenge.2,3 Among mitigation strategies, the capture and utilization of greenhouse gases,4,5 
+particularly the conversion of CO2 to valuable chemicals via hydrogenation, has attracted 
+substantial attention.6 Yet, the practical application of CO2 as chemical feedstock is complicated 
+by its inherent chemical stability and the lack of effective catalysts optimized at atomic and 
+nanoscale levels.7,8 Indeed, the complexity of the catalytic reaction network for CO2 
+hydrogenation8 into C2 oxygenates and hydrocarbons significantly exceeds the notorious 
+complexity of the CO hydrogenation reaction.911 Experimental observations suggest the existence 
+of numerous intermediates on the surface of transition metal catalysts in this process, including 
+CO, CHO, HCOO, COOH, and CHx.1216 
+Although the modeling of catalytic reaction networks is incredibly helpful for understanding key 
+factors driving various chemical reactions, the construction and analysis of microkinetic models 
+covering reaction networks for CO2 and CO hydrogenation is greatly complicated by hundreds of 
+the involved intermediates.9,11,1721 In particular, the complexity of these models serves as the 
+bottleneck for the rational design of new catalysts2225 through identifying key intermediates and 
+constructing Sabatier volcano plots.2629 Moreover, realistic modeling of chemical processes needs 
+to account for the nanostructure of the applied catalysts 30,31 to minimize the gap between the 
+computational predictions and the experimental observations.

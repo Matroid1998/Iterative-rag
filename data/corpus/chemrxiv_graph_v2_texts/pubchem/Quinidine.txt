@@ -1,0 +1,35 @@
+Name: Quinidine
+Text:
+Crystals or white powder. (NTP, 1992)
+Quinidine is a cinchona alkaloid consisting of cinchonine with the hydrogen at the 6-position of the quinoline ring substituted by methoxy. It has a role as an alpha-adrenergic antagonist, an antimalarial, an anti-arrhythmia drug, a sodium channel blocker, a muscarinic antagonist, a potassium channel blocker, a P450 inhibitor, an EC 1.14.13.181 (13-deoxydaunorubicin hydroxylase) inhibitor, an EC 3.6.3.44 (xenobiotic-transporting ATPase) inhibitor and a drug allergen. It derives from a hydride of a cinchonan.
+Quinidine is a D-isomer of [quinine] present in the bark of the Cinchona tree and similar plant species. This alkaloid was first described in 1848 and has a long history as an antiarrhythmic medication. Quinidine is considered the first antiarrhythmic drug (class Ia) and is moderately efficacious in the acute conversion of atrial fibrillation to normal sinus rhythm. It prolongs cellular action potential by blocking sodium and potassium currents. A phenomenon known as “quinidine syncope” was first described in the 1950s, characterized by syncopal attacks and ventricular fibrillation in patients treated with this drug. Due to its side effects and increased risk of mortality, the use of quinidine was reduced over the next few decades. However, it continues to be used in the treatment of Brugada syndrome, short QT syndrome and idiopathic ventricular fibrillation.
+Quinidine is an Antiarrhythmic and Cytochrome P450 2D6 Inhibitor. The mechanism of action of quinidine is as a Cytochrome P450 2D6 Inhibitor.
+Quinidine is a natural cinchona alkaloid which has potent antiarrhythmic activity and has been used for decades in the treatment of atrial and ventricular arrhythmias. Quinidine has been associated with fever, mild jaundice and clinically apparent liver injury in up to 2% of treated patients.
+Quinidex has been reported in Cinchona calisaya, Ciliosemina pedunculata, and other organisms with data available.
+Quinidine Sulfate is the sulfate salt form of quinidine, an alkaloid with antimalarial and antiarrhythmic (Class la) properties. Quinidine sulfate exerts its anti-malarial activity by acting primarily as an intra-erythrocytic schizonticide through association with the hemepolymer (hemozoin) in the acidic food vacuole of the parasite thereby preventing further polymerization by heme polymerase enzyme. This results in accumulation of toxic heme and death of the parasite. Quinidine sulfate exerts its antiarrhythmic effects by depressing the flow of sodium ions into cells during phase 0 of the cardiac action potential, thereby slowing the impulse conduction through the atrioventricular (AV) node, reducing the rate of phase 0 depolarization and prolonging the refractory period. Quinidine sulfate also reduces the slope of phase 4 depolarization in Purkinje-fibres resulting in slowed conduction and reduced automaticity in the heart.
+Quinidine is an alkaloid extracted from the bark of the Cinchona tree with class 1A antiarrhythmic and antimalarial effects. Quinidine stabilizes the neuronal membrane by binding to and inhibiting voltage-gated sodium channels, thereby inhibiting the sodium influx required for the initiation and conduction of impulses resulting in an increase of the threshold for excitation and decreased depolarization during phase 0 of the action potential. In addition, the effective refractory period (ERP), action potential duration (APD), and ERP/APD ratios are increased, resulting in decreased conduction velocity of nerve impulses. Quinidine exerts its antimalarial activity by acting primarily as an intra-erythrocytic schizonticide through association with the heme polymer (hemazoin) in the acidic food vacuole of the parasite thereby preventing further polymerization by heme polymerase enzyme. This results in accumulation of toxic heme and death of the parasite.
+QUINIDINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1950 and has 3 approved and 16 investigational indications. This drug has a black box warning from the FDA.
+An optical isomer of quinine, extracted from the bark of the CHINCHONA tree and similar plant species. This alkaloid dampens the excitability of cardiac and skeletal muscles by blocking sodium and potassium currents across cellular membranes. It prolongs cellular ACTION POTENTIALS, and decreases automaticity. Quinidine also blocks muscarinic and alpha-adrenergic neurotransmission.
+See also: Quinidine Gluconate (has salt form); Quinidine Sulfate (active moiety of); Quinidine bisulfate (is active moiety of) ... View More ...
+Properties:safety: Acute Toxic and Irritant
+smiles: COC1=CC2=C(C=CN=C2C=C1)[C@@H]([C@H]3C[C@@H]4CCN3C[C@@H]4C=C)O
+formula: C20H24N2O2
+chem_properties: Molecular Weight: 324.4 g/mol
+XLogP3: 2.9
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 4
+Exact Mass: 324.183778013 Da
+Monoisotopic Mass: 324.183778013 Da
+Topological Polar Surface Area: 45.6
+Heavy Atom Count: 24
+Formal Charge: 0
+Complexity: 457
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

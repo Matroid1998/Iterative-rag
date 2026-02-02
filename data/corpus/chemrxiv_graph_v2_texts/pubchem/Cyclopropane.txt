@@ -1,0 +1,28 @@
+Name: Cyclopropane
+Text:
+Cyclopropane is a colorless gas with a petroleum-like odor. It is shipped as a liquid at 4-6 atms. It is easily ignited. The vapors are heavier than air. Contact with the liquid may cause frostbite. It can asphyxiate by the displacement of air and has a narcotic effect in high concentration (formerly used as an anesthetic gas). Under prolonged exposure to fire or intense heat the containers may rupture violently and rocket.
+Cyclopropane is a cycloalkane composed of three carbon atoms to form a ring. It has a role as an inhalation anaesthetic. It is a cycloalkane and a member of cyclopropanes.
+Cyclopropane was initially investigated because it was thought to be the toxic element in ethylene. Instead, it turned out to be an excellent anesthetic with very rapid onset and recovery while maintaining stable hemodynamics. Its use was ultimately limited because it was highly explosive.
+CYCLOPROPANE is a small molecule drug with a maximum clinical trial phase of II.
+Properties:safety: Flammable and Compressed Gas
+smiles: C1CC1
+formula: C3H6
+chem_properties: Molecular Weight: 42.08 g/mol
+XLogP3: 1.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 42.0469501914 Da
+Monoisotopic Mass: 42.0469501914 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 4.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

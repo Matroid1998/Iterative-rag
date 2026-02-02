@@ -1,0 +1,25 @@
+Name: 2-Aminopyrimidine
+Text:
+Pyrimidin-2-amine is an aminopyrimidine carrying an amino group at position 2.
+Properties:safety: Irritant
+smiles: C1=CN=C(N=C1)N
+formula: C4H5N3
+chem_properties: Molecular Weight: 95.10 g/mol
+XLogP3: -0.2
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 95.048347172 Da
+Monoisotopic Mass: 95.048347172 Da
+Topological Polar Surface Area: 51.8
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 48.9
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

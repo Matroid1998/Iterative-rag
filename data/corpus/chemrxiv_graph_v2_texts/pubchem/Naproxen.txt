@@ -1,0 +1,33 @@
+Name: Naproxen
+Text:
+Naproxen is a methoxynaphthalene that is 2-methoxynaphthalene substituted by a carboxy ethyl group at position 6. Naproxen is a non-steroidal anti-inflammatory drug commonly used for the reduction of pain, fever, inflammation and stiffness caused by conditions such as osteoarthritis, kidney stones, rheumatoid arthritis, psoriatic arthritis, gout, ankylosing spondylitis, menstrual cramps, tendinitis, bursitis, and for the treatment of primary dysmenorrhea. It works by inhibiting both the COX-1 and COX-2 enzymes. It has a role as a non-steroidal anti-inflammatory drug, an antipyretic, a cyclooxygenase 2 inhibitor, a cyclooxygenase 1 inhibitor, a non-narcotic analgesic, a gout suppressant, a xenobiotic, an environmental contaminant and a drug allergen. It is a monocarboxylic acid and a methoxynaphthalene. It is a conjugate acid of a naproxen(1-).
+Naproxen is classified as a nonsteroidal anti-inflammatory dug (NSAID) and was initially approved for prescription use in 1976 and then for over-the-counter (OTC) use in 1994. It can effectively manage acute pain as well as pain related to rheumatic diseases, and has a well studied adverse effect profile. Given its overall tolerability and effectiveness, naproxen can be considered a first line treatment for a variety of clinical situations requiring analgesia. Naproxen is available in both immediate and delayed release formulations, in combination with sumatriptan to treat migraines, and in combination with esomeprazole to lower the risk of developing gastric ulcers.
+Naproxen is a Nonsteroidal Anti-inflammatory Drug. The mechanism of action of naproxen is as a Cyclooxygenase Inhibitor.
+Naproxen is a popular over-the-counter nonsteroidal antiinflammatory drug (NSAID) that is widely used for therapy of mild-to-moderate pain and arthritis. Naproxen has been associated with rare cases of clinically apparent drug induced liver injury.
+Naproxen has been reported in Plantago major with data available.
+Naproxen is a propionic acid derivative and a non-steroidal anti-inflammatory drug (NSAID) with anti-inflammatory, antipyretic and analgesic activities. Naproxen inhibits the activity of the enzymes cyclo-oxygenase I and II, resulting in a decreased formation of precursors of prostaglandins and thromboxanes. The resulting decrease in prostaglandin synthesis is responsible for the therapeutic effects of naproxen. Naproxen also causes a decrease in the formation of thromboxane A2 synthesis, by thromboxane synthase, thereby inhibiting platelet aggregation.
+NAPROXEN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1976 and has 25 approved and 22 investigational indications. This drug has a black box warning from the FDA.
+An anti-inflammatory agent with analgesic and antipyretic properties. Both the acid and its sodium salt are used in the treatment of rheumatoid arthritis and other rheumatic or musculoskeletal disorders, dysmenorrhea, and acute gout.
+See also: Naproxen Sodium (has salt form); Lansoprazole; Naproxen (component of); Naproxen piperazine (is active moiety of) ... View More ...
+Properties:safety: Acute Toxic and Irritant and Health Hazard
+smiles: C[C@@H](C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O
+formula: C14H14O3
+chem_properties: Molecular Weight: 230.26 g/mol
+XLogP3: 3.3
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 3
+Exact Mass: 230.094294304 Da
+Monoisotopic Mass: 230.094294304 Da
+Topological Polar Surface Area: 46.5
+Heavy Atom Count: 17
+Formal Charge: 0
+Complexity: 277
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

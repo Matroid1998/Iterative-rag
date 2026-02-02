@@ -1,0 +1,24 @@
+Name: Potassium Formate
+Text:
+Potassium formate is the potassium salt of formic acid. It has a role as a buffer. It is a potassium salt and a one-carbon compound. It is functionally related to a formic acid.
+Properties:safety: Irritant
+smiles: C(=O)[O-].[K+]
+formula: CHKO2
+chem_properties: Molecular Weight: 84.116 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 83.96136076 Da
+Monoisotopic Mass: 83.96136076 Da
+Topological Polar Surface Area: 40.1
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 13.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

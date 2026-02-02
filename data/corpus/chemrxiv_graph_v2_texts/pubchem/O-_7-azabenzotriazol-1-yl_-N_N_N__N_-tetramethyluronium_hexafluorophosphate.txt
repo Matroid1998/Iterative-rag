@@ -1,0 +1,23 @@
+Name: O-(7-azabenzotriazol-1-yl)-N,N,N',N'-tetramethyluronium hexafluorophosphate
+Text:
+Properties:safety: Flammable and Irritant
+smiles: CN(C)C(=[N+](C)C)N1C2=C(N=CC=C2)[N+](=N1)[O-].F[P-](F)(F)(F)(F)F
+formula: C10H15F6N6OP
+chem_properties: Molecular Weight: 380.23 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 10
+Rotatable Bond Count: 2
+Exact Mass: 380.09491509 Da
+Monoisotopic Mass: 380.09491509 Da
+Topological Polar Surface Area: 62.4
+Heavy Atom Count: 24
+Formal Charge: 0
+Complexity: 364
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

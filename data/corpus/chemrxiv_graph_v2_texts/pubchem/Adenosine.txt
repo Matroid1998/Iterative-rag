@@ -1,0 +1,35 @@
+Name: Adenosine
+Text:
+Adenosine is a ribonucleoside composed of a molecule of adenine attached to a ribofuranose moiety via a beta-N(9)-glycosidic bond. It has a role as an anti-arrhythmia drug, a vasodilator agent, an analgesic, a human metabolite and a fundamental metabolite. It is a purines D-ribonucleoside and a member of adenosines. It is functionally related to an adenine.
+The structure of adenosine was first described in 1931, though the vasodilating effects were not described in literature until the 1940s. Adenosine is indicated as an adjunct to thallium-201 in myocardial perfusion scintigraphy, though it is rarely used in this indication, having largely been replaced by [dipyridamole] and [regadenson]. Adenosine is also indicated in the treatment of supraventricular tachycardia.  Adenosine was granted FDA approval on 30 October 1989.
+Adenosine is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Adenosine is an Adenosine Receptor Agonist. The mechanism of action of adenosine is as an Adenosine Receptor Agonist.
+Adenosine has been reported in Acanthus ilicifolius, Acanthus ebracteatus, and other organisms with data available.
+Adenosine is a ribonucleoside comprised of adenine bound to ribose, with vasodilatory, antiarrhythmic and analgesic activities. Phosphorylated forms of adenosine play roles in cellular energy transfer, signal transduction and the synthesis of RNA.
+ADENOSINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1989 and has 3 approved and 18 investigational indications.
+Adenosine is a nucleoside that is composed of adenine and d-ribose. Adenosine or adenosine derivatives play many important biological roles in addition to being components of DNA and RNA. For instance, adenosine plays an important role in energy transfer - as adenosine triphosphate (ATP) and adenosine diphosphate (ADP). It also plays a role in signal transduction as cyclic adenosine monophosphate, cAMP. Adenosine itself is both a neurotransmitter and potent vasodilator. When administered intravenously, adenosine causes transient heart block in the AV node. Because of the effects of adenosine on AV node-dependent supraventricular tachycardia, adenosine is considered a class V antiarrhythmic agent.
+Adenosine is a metabolite found in or produced by Saccharomyces cerevisiae.
+A nucleoside that is composed of adenine and d-ribose. Adenosine or adenosine derivatives play many important biological roles in addition to being components of DNA and RNA. Adenosine itself is a neurotransmitter.
+See also: Adenosine; Glycerin (component of); Adenosine; levomenol (component of); Adenosine; Niacinamide (component of) ... View More ...
+Properties:safety: Irritant
+smiles: C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)N
+formula: C10H13N5O4
+chem_properties: Molecular Weight: 267.24 g/mol
+XLogP3: -1.1
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 2
+Exact Mass: 267.09675391 Da
+Monoisotopic Mass: 267.09675391 Da
+Topological Polar Surface Area: 140
+Heavy Atom Count: 19
+Formal Charge: 0
+Complexity: 335
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

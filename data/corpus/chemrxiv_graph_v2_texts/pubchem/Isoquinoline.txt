@@ -1,0 +1,26 @@
+Name: Isoquinoline
+Text:
+Isoquinoline is an ortho-fused heteroarene that is a benzopyridine in which the N atom not directly attached to the benzene ring. It is a mancude organic heterobicyclic parent, an azaarene, an ortho-fused heteroarene and a member of isoquinolines.
+Isoquinoline has been reported in Lonicera japonica with data available.
+Properties:safety: Acute Toxic and Irritant
+smiles: C1=CC=C2C=NC=CC2=C1
+formula: C9H7N
+chem_properties: Molecular Weight: 129.16 g/mol
+XLogP3: 2.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 129.057849228 Da
+Monoisotopic Mass: 129.057849228 Da
+Topological Polar Surface Area: 12.9
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 111
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

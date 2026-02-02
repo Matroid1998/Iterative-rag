@@ -1,0 +1,26 @@
+Name: 2-Aminobenzamide
+Text:
+2-Aminobenzamide is a substituted aniline.
+2-Aminobenzamide has been reported in Streptomyces with data available.
+Properties:safety: Corrosive and Irritant
+smiles: C1=CC=C(C(=C1)C(=O)N)N
+formula: C7H8N2O
+chem_properties: Molecular Weight: 136.15 g/mol
+XLogP3: 0.4
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 136.063662883 Da
+Monoisotopic Mass: 136.063662883 Da
+Topological Polar Surface Area: 69.1
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 136
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

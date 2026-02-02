@@ -1,0 +1,33 @@
+Name: Ritonavir
+Text:
+Ritonavir is an L-valine derivative that is L-valinamide in which alpha-amino group has been acylated by a [(2-isopropyl-1,3-thiazol-4-yl)methyl]methylcarbamoyl group and in which a hydrogen of the carboxamide amino group has been replaced by a (2R,4S,5S)-4-hydroxy-1,6-diphenyl-5-{[(1,3-thiazol-5-ylmethoxy)carbonyl]amino}hexan-2-yl group. A CYP3A inhibitor and antiretroviral drug from the protease inhibitor class used to treat HIV infection and AIDS, it is often used as a fixed-dose combination with another protease inhibitor, lopinavir. Also used in combination with dasabuvir sodium hydrate, ombitasvir and paritaprevir (under the trade name Viekira Pak) for treatment of chronic hepatitis C virus genotype 1 infection as well as cirrhosis of the liver. It has a role as an antiviral drug, a HIV protease inhibitor, an environmental contaminant and a xenobiotic. It is a member of 1,3-thiazoles, a L-valine derivative, a carbamate ester, a member of ureas and a carboxamide.
+Ritonavir (brand name: Norvir) is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in adults and children. Ritonavir is always used in combination with other HIV medicines.
+Although ritonavir is FDA-approved for the treatment of HIV infection, it is no longer used for its activity against HIV. Instead, ritonavir (given at low doses) is currently used as a pharmacokinetic enhancer to boost the activity of other HIV medicines.
+Ritonavir is an HIV protease inhibitor that interferes with the reproductive cycle of HIV. Although it was initially developed as an independent antiviral agent, it has been shown to possess advantageous properties in combination regimens with low-dose ritonavir and other protease inhibitors. It is now more commonly used as a booster of other protease inhibitors and is available in both liquid formulations and as capsules.   While ritonavir is not an active antiviral agent against hepatitis C virus (HCV) infection, it is added in combination therapies indicated for the treatment of HCV infections as a booster. Ritonavir is a potent CYP3A inhibitor that increases peak and trough plasma drug concentrations of other protease inhibitors such as [DB09297] and overall drug exposure. American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) guidelines recommend ritonavir-boosted combination therapies as first-line therapy for HCV Genotype 1a/b and 4 treatment-naïve patients with or without cirrhosis.   Ritonavir is found in a fixed-dose combination product with [DB09296], [DB09183], and [DB09297] as the FDA-approved product Viekira Pak. First approved in December 2014, Viekira Pak is indicated for the treatment of HCV genotype 1b without cirrhosis or with compensated cirrhosis, and when combined with Ribavirin for the treatment of HCV genotype 1a without cirrhosis or with compensated cirrhosis.  Ritonavir is also available as a fixed-dose combination product with [DB09296] and [DB09297] as the FDA- and Health Canada-approved product Technivie. First approved in July 2015, Technivie is indicated in combination with Ribavirin for the treatment of patients with genotype 4 chronic hepatitis C virus (HCV) infection without cirrhosis or with compensated cirrhosis.  In Canada, ritonavir is also available as a fixed-dose combination product with [DB09296], [DB09183], and [DB09297] as the Health Canada-approved, commercially available product Holkira Pak. First approved in January 2015, Holkira Pak is indicated for the treatment of HCV genotype 1b with or without cirrhosis, and when combined with Ribavirin for the treatment of HCV genotype 1a with or without cirrhosis. The inclusion of ritonavir can select for HIV-1 protease inhibitor resistance-associated substitutions. Any HCV/HIV-1 co-infected patients treated with ritonavir-containing combination therapies should also be on a suppressive antiretroviral drug regimen to reduce the risk of HIV-1 protease inhibitor drug resistance.  Ritonavir is combined with other drugs to treat coronavirus disease 2019 (COVID-19) in patients at risk for progressing into a severe form of the disease, such as [nirmatrelvir].
+Ritonavir is a Cytochrome P450 3A Inhibitor and Protease Inhibitor. The mechanism of action of ritonavir is as a HIV Protease Inhibitor and Cytochrome P450 3A Inhibitor and Cytochrome P450 2D6 Inhibitor and Cytochrome P450 2C19 Inducer and Cytochrome P450 3A Inducer and P-Glycoprotein Inhibitor and Breast Cancer Resistance Protein Inhibitor and Cytochrome P450 3A4 Inhibitor and Cytochrome P450 1A2 Inducer and Cytochrome P450 2C9 Inducer and Cytochrome P450 2B6 Inducer and UDP Glucuronosyltransferases Inducer.
+Ritonavir is an antiretroviral protease inhibitor that is widely used in combination with other protease inhibitors in the therapy and prevention of human immunodeficiency virus (HIV) infection and the acquired immunodeficiency syndrome (AIDS). Ritonavir can cause transient and usually asymptomatic elevations in serum aminotransferase levels and, rarely, can lead to clinically apparent acute liver injury. In HBV or HCV coinfected patients, highly active antiretroviral therapy with ritonavir may result of an exacerbation of the underlying chronic hepatitis B or C.
+Ritonavir is a peptidomimetic agent that inhibits both HIV-1 and HIV-2 proteases. Ritonavir is highly inhibited by serum proteins but boosts the effect of other HIV proteases by blocking their degradation by cytochrome P450.
+RITONAVIR is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1996 and has 5 approved and 29 investigational indications. This drug has a black box warning from the FDA.
+An HIV protease inhibitor that works by interfering with the reproductive cycle of HIV. It also inhibits CYTOCHROME P-450 CYP3A.
+Properties:safety: Irritant and Health Hazard
+smiles: CC(C)C1=NC(=CS1)CN(C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC2=CC=CC=C2)C[C@@H]([C@H](CC3=CC=CC=C3)NC(=O)OCC4=CN=CS4)O
+formula: C37H48N6O5S2
+chem_properties: Molecular Weight: 720.9 g/mol
+XLogP3: 6
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 9
+Rotatable Bond Count: 18
+Exact Mass: 720.31276100 Da
+Monoisotopic Mass: 720.31276100 Da
+Topological Polar Surface Area: 202
+Heavy Atom Count: 50
+Formal Charge: 0
+Complexity: 1040
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

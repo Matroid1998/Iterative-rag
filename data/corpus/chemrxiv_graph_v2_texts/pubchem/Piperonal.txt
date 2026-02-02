@@ -1,0 +1,29 @@
+Name: Piperonal
+Text:
+Piperonal appears as colorless lustrous crystals. (NTP, 1992)
+Piperonal is an arenecarbaldehyde that is 1,3-benzodioxole substituted by a formyl substituent at position 5. It has been isolated from Piper nigrum. It has a role as a plant metabolite, a fragrance and an insect repellent. It is a member of benzodioxoles and an arenecarbaldehyde.
+Piperonal has been reported in Rostrinucula dependens, Heliotropium lasiocarpum, and other organisms with data available.
+Piperonal is a metabolite found in or produced by Saccharomyces cerevisiae.
+See also: Black Pepper (part of).
+Properties:safety: Irritant
+smiles: C1OC2=C(O1)C=C(C=C2)C=O
+formula: C8H6O3
+chem_properties: Molecular Weight: 150.13 g/mol
+XLogP3: 1.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 1
+Exact Mass: 150.031694049 Da
+Monoisotopic Mass: 150.031694049 Da
+Topological Polar Surface Area: 35.5
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 157
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

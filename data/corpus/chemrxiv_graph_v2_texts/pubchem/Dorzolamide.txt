@@ -1,0 +1,30 @@
+Name: Dorzolamide
+Text:
+Dorzolamide is 5,6-Dihydro-4H-thieno[2,3-b]thiopyran-2-sulfonamide 7,7-dioxide in which hydrogens at the 4 and 6 positions are substituted by ethylamino and methyl groups, respectively (4S, trans-configuration). A carbonic anhydrase inhibitor, it is used as the hydrochloride in ophthalmic solutions to lower increased intraocular pressure in the treatment of open-angle glaucoma and ocular hypertension. It has a role as an EC 4.2.1.1 (carbonic anhydrase) inhibitor, an antihypertensive agent and an antiglaucoma drug. It is a sulfonamide and a member of thiophenes.
+Dorzolamide is a non-bacteriostatic sulfonamide derivative and topical carbonic anhydrase (CA) inhibitor that treats elevated intraocular pressure (IOP) associated with open-angle glaucoma and ocular hypertension. It works by blocking an enzyme in the ciliary process that regulates ion balance and fluid pressure in the eyes. Unlike oral CA inhibitors, dorzolamide has negligible effects of acid-base or electrolyte disturbances and other systemic adverse effects. First marketed in 1995, dorzolamide is available in ophthalmic solutions as monotherapy marketed as Trusopt or in combination with [timolol] as Cosopt PF.
+Dorzolamide is a Carbonic Anhydrase Inhibitor. The mechanism of action of dorzolamide is as a Carbonic Anhydrase Inhibitor.
+Dorzolamide is an inhibitor of carbonic anhydrase, a zinc-containing enzyme that catalyzes the rapid conversion of carbon dioxide and water into carbonic acid, protons and bicarbonate ions.  Distributed throughout many cells and tissues, various carbonic anhydrases play important roles in mineral and metabolic homeostasis. (NCI04)
+DORZOLAMIDE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1994 and has 3 approved and 3 investigational indications.
+See also: Dorzolamide Hydrochloride (has salt form).
+Properties:safety: Irritant
+smiles: CCN[C@H]1C[C@@H](S(=O)(=O)C2=C1C=C(S2)S(=O)(=O)N)C
+formula: C10H16N2O4S3
+chem_properties: Molecular Weight: 324.4 g/mol
+XLogP3: 0.4
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 3
+Exact Mass: 324.02722052 Da
+Monoisotopic Mass: 324.02722052 Da
+Topological Polar Surface Area: 151
+Heavy Atom Count: 19
+Formal Charge: 0
+Complexity: 534
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

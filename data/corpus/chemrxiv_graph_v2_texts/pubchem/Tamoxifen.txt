@@ -1,0 +1,35 @@
+Name: Tamoxifen
+Text:
+Tamoxifen and its salts can cause cancer according to an independent committee of scientific and health experts.
+Tamoxifen is a tertiary amino compound and a stilbenoid. It has a role as an estrogen receptor antagonist, a bone density conservation agent, an estrogen receptor modulator, an estrogen antagonist, an angiogenesis inhibitor, an EC 2.7.11.13 (protein kinase C) inhibitor, an EC 1.2.3.1 (aldehyde oxidase) inhibitor and an antineoplastic agent. It derives from a hydride of a stilbene.
+Tamoxifen is a non-steroidal antiestrogen used to treat estrogen receptor positive breast cancers as well as prevent the incidence of breast cancer in high risk populations. Tamoxifen is used alone or as an adjuvant in these treatments. Tamoxifen may no longer be the preferred treatment for these types of cancers as patients generally have better survival, side effect profiles, and compliance with [anastrozole].  Tamoxifen was granted FDA approval on 30 December 1977.
+Tamoxifen is an Estrogen Agonist/Antagonist. The mechanism of action of tamoxifen is as a Selective Estrogen Receptor Modulator.
+Tamoxifen is a nonsteroidal antiestrogen that is widely used in the treatment and prevention of breast cancer. Long term tamoxifen therapy has been associated with development of fatty liver, steatohepatitis, cirrhosis, and rare instances of clinically apparent acute liver injury.
+Tamoxifen has been reported in Streptomyces nigra, Apis cerana, and Aspergillus sclerotiorum with data available.
+Tamoxifen is an antineoplastic nonsteroidal selective estrogen receptor modulator (SERM).  Tamoxifen competitively inhibits the binding of estradiol to estrogen receptors, thereby preventing the receptor from binding to the estrogen-response element on DNA.  The result is a reduction in DNA synthesis and cellular response to estrogen.  In addition, tamoxifen up-regulates the production of transforming growth factor B (TGFb), a factor that inhibits tumor cell growth, and down-regulates insulin-like growth factor 1 (IGF-1), a factor that stimulates breast cancer cell growth.
+TAMOXIFEN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1977 and has 5 approved and 49 investigational indications. This drug has a black box warning from the FDA.
+Tamoxifen is only found in individuals that have used or taken this drug. It is one of the selective estrogen receptor modulators with tissue-specific activities. Tamoxifen acts as an anti-estrogen (inhibiting agent) in the mammary tissue, but as an estrogen (stimulating agent) in cholesterol metabolism, bone density, and cell proliferation in the endometrium. Tamoxifen binds to estrogen receptors (ER), inducing a conformational change in the receptor. This results in a blockage or change in the expression of estrogen dependent genes. The prolonged binding of tamoxifen to the nuclear chromatin of these results in reduced DNA polymerase activity, impaired thymidine utilization, blockade of estradiol uptake, and decreased estrogen response. It is likely that tamoxifen interacts with other coactivators or corepressors in the tissue and binds with different estrogen receptors, ER-alpha or ER-beta, producing both estrogenic and antiestrogenic effects.
+One of the SELECTIVE ESTROGEN RECEPTOR MODULATORS with tissue-specific activities. Tamoxifen acts as an anti-estrogen (inhibiting agent) in the mammary tissue, but as an estrogen (stimulating agent) in cholesterol metabolism, bone density, and cell proliferation in the ENDOMETRIUM.
+See also: Tamoxifen Citrate (has salt form); (E)-Tamoxifen (annotation moved to).
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: CC/C(=C(\C1=CC=CC=C1)/C2=CC=C(C=C2)OCCN(C)C)/C3=CC=CC=C3
+formula: C26H29NO
+chem_properties: Molecular Weight: 371.5 g/mol
+XLogP3: 7.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 8
+Exact Mass: 371.224914549 Da
+Monoisotopic Mass: 371.224914549 Da
+Topological Polar Surface Area: 12.5
+Heavy Atom Count: 28
+Formal Charge: 0
+Complexity: 463
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

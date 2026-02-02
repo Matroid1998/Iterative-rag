@@ -1,0 +1,31 @@
+Name: Phenylephrine
+Text:
+Phenylephrine is a member of the class of the class of phenylethanolamines that is (1R)-2-(methylamino)-1-phenylethan-1-ol carrying an additional hydroxy substituent at position 3 on the phenyl ring. It has a role as an alpha-adrenergic agonist, a cardiotonic drug, a mydriatic agent, a protective agent, a vasoconstrictor agent, a sympathomimetic agent and a nasal decongestant. It is a member of phenylethanolamines, a secondary amino compound and a member of phenols. It is a conjugate base of a phenylephrine(1+).
+Phenylephrine is an alpha-1 adrenergic receptor agonist used to treat hypotension, dilate the pupil, and induce local vasoconstriction. The action of phenylephrine, or neo-synephrine, was first described in literature in the 1930s.  Phenylephrine was granted FDA approval in 1939.
+Phenylephrine is an alpha-1 Adrenergic Agonist. The mechanism of action of phenylephrine is as an Adrenergic alpha1-Agonist.
+Phenylephrine is a direct-acting sympathomimetic amine chemically related to adrenaline and ephedrine with potent vasoconstrictor property. Phenylephrine is a post-synaptic alpha-adrenergic receptor agonist that causes vasoconstriction, increases systolic/diastolic pressures, reflex bradycardia, and stroke output.
+PHENYLEPHRINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1952 and has 13 approved and 33 investigational indications.
+An alpha-1 adrenergic agonist used as a mydriatic, nasal decongestant, and cardiotonic agent.
+See also: Phenylephrine Hydrochloride (has salt form); Phenylephrine Bitartrate (has salt form); Phenylephrine Tannate (is active moiety of) ... View More ...
+Properties:safety: Irritant
+smiles: CNC[C@@H](C1=CC(=CC=C1)O)O
+formula: C9H13NO2
+chem_properties: Molecular Weight: 167.20 g/mol
+XLogP3: -0.3
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 3
+Exact Mass: 167.094628657 Da
+Monoisotopic Mass: 167.094628657 Da
+Topological Polar Surface Area: 52.5
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 130
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

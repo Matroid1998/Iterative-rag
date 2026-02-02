@@ -1,0 +1,35 @@
+Name: Melphalan
+Text:
+Melphalan can cause cancer according to California Labor Code. It can cause developmental toxicity according to state or federal government labeling requirements.
+Melphalan appears as white to buff-colored powder. Odorless or with a faint odor. An antineoplastic medicine.
+Melphalan is a phenylalanine derivative comprising L-phenylalanine having [bis(2-chloroethyl)amino group at the 4-position on the phenyl ring. It has a role as an antineoplastic agent, a carcinogenic agent, an alkylating agent, an immunosuppressive agent and a drug allergen. It is an organochlorine compound, a nitrogen mustard, a L-phenylalanine derivative and a non-proteinogenic L-alpha-amino acid.
+Melphalan is a nitrogen mustard or bischloroethylamine type alkylating agent. It was first synthesized in the early 1950s by substituting L-phenylalanine for the methyl group on nitrogen mustard. Melphalan is used in the treatment of multiple myeloma and ovarian carcinoma. It is also used for high-conditioning before hematopoietic stem cell transplant. It is also used to treat uveal melanoma with unresectable hepatic metastases.
+Melphalan is an Alkylating Drug. The mechanism of action of melphalan is as an Alkylating Activity.
+Melphalan is an orally and parenterally administered nitrogen mustard-like alkylating agent used in the therapy of multiple myeloma and ovarian cancer. Melphalan therapy has been associated with low rates of serum enzyme elevations during therapy, but when used in high doses as myeloablative therapy in preparation for hematopoietic cell transplantation, it is associated with high rates of enzyme elevations and acute liver injury due to sinusoidal obstruction syndrome.
+Melphalan is a phenylalanine derivative of nitrogen mustard with antineoplastic activity. Melphalan alkylates DNA at the N7 position of guanine and induces DNA inter-strand cross-linkages, resulting in the inhibition of DNA and RNA synthesis and cytotoxicity against both dividing and non-dividing tumor cells.
+MELPHALAN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1964 and has 10 approved and 108 investigational indications. This drug has a black box warning from the FDA.
+An alkylating nitrogen mustard that is used as an antineoplastic in the form of the levo isomer - melphalan, the racemic mixture - merphalan, and the dextro isomer - medphalan; toxic to bone marrow, but little vesicant action; potential carcinogen.
+An alkylating nitrogen mustard that is used as an antineoplastic in the form of the levo isomer - MELPHALAN, the racemic mixture - MERPHALAN, and the dextro isomer - MEDPHALAN; toxic to bone marrow, but little vesicant action; potential carcinogen.
+See also: Melphalan Hydrochloride (has salt form); D,L-Sarcolysin (related).
+Properties:safety: Acute Toxic and Health Hazard
+smiles: C1=CC(=CC=C1C[C@@H](C(=O)O)N)N(CCCl)CCCl
+formula: C13H18Cl2N2O2
+chem_properties: Molecular Weight: 305.20 g/mol
+XLogP3: -0.5
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 8
+Exact Mass: 304.0745332 Da
+Monoisotopic Mass: 304.0745332 Da
+Topological Polar Surface Area: 66.6
+Heavy Atom Count: 19
+Formal Charge: 0
+Complexity: 265
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,27 @@
+Name: Alternariol monomethyl ether
+Text:
+Djalonensone is a benzochromenone that is alternariol in which the hydroxy group at position 9 has been converted into the corresponding methyl ether. A natural product found in Chaetomium globosum as well as being one of the two most important compounds belonging to the group of Altenaria mycotoxins. It has a role as an antifungal agent, a fungal metabolite and a mycotoxin. It is a benzochromenone and an aromatic ether. It is functionally related to an alternariol.
+Alternariol monomethyl ether has been reported in Alternaria porri, Sarocladium strictum, and other organisms with data available.
+Alternariol methyl ether is an altertoxin, which is a mycotoxin of Alternaria fungi. Altertoxins are important contaminants in cereals, vegetables, and fruits, as well as in the ground, on wood or walls. Studies have shown altertoxins to be toxic, genotoxic, mutagenic, and carcinogenic. In particular, they have been associated with esophageal cancer in humans. (A2977, A2979)
+Properties:safety: Acute Toxic and Health Hazard
+smiles: CC1=CC(=CC2=C1C3=C(C(=CC(=C3)OC)O)C(=O)O2)O
+formula: C15H12O5
+chem_properties: Molecular Weight: 272.25 g/mol
+XLogP3: 3.2
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 1
+Exact Mass: 272.06847348 Da
+Monoisotopic Mass: 272.06847348 Da
+Topological Polar Surface Area: 76
+Heavy Atom Count: 20
+Formal Charge: 0
+Complexity: 384
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

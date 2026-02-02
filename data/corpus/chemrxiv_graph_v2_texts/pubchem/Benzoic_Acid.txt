@@ -1,0 +1,33 @@
+Name: Benzoic Acid
+Text:
+Benzoic acid appears as a white crystalline solid. Slightly soluble in water. The primary hazard is the potential for environmental damage if released. Immediate steps should be taken to limit spread to the environment. Used to make other chemicals, as a food preservative, and for other uses.
+Benzoic acid is a compound comprising a benzene ring core carrying a carboxylic acid substituent. It has a role as an antimicrobial food preservative, an EC 3.1.1.3 (triacylglycerol lipase) inhibitor, an EC 1.13.11.33 (arachidonate 15-lipoxygenase) inhibitor, a plant metabolite, a human xenobiotic metabolite, an algal metabolite and a drug allergen. It is a conjugate acid of a benzoate.
+A fungistatic compound that is widely used as a food preservative. It is conjugated to GLYCINE in the liver and excreted as hippuric acid. As the sodium salt form, sodium benzoate is used as a treatment for urea cycle disorders due to its ability to bind amino acids. This leads to excretion of these amino acids and a decrease in ammonia levels. Recent research shows that sodium benzoate may be beneficial as an add-on therapy (1 gram/day) in schizophrenia. Total Positive and Negative Syndrome Scale scores dropped by 21% compared to placebo.
+Benzoic acid is a Nitrogen Binding Agent. The mechanism of action of benzoic acid is as an Ammonium Ion Binding Activity.
+Benzoic Acid has been reported in Desmos chinensis, Paeonia emodi, and other organisms with data available.
+BENZOIC ACID is a small molecule drug with a maximum clinical trial phase of IV and is indicated for urinary tract infection.
+Benzoic acid, C6H5COOH, is a colourless crystalline solid and the simplest aromatic carboxylic acid. Benzoic acid occurs naturally free and bound as benzoic acid esters in many plant and animal species. Appreciable amounts have been found in most berries (around 0.05%). Cranberries contain as much as 300-1300 mg free benzoic acid per kg fruit. Benzoic acid is a fungistatic compound that is widely used as a food preservative. It often is conjugated to glycine in the liver and excreted as hippuric acid. Benzoic acid is a byproduct of phenylalanine metabolism in bacteria. It is also produced when gut bacteria process polyphenols (from ingested fruits or beverages).
+A fungistatic compound that is widely used as a food preservative. It is conjugated to GLYCINE in the liver and excreted as hippuric acid.
+See also: Salicylic Acid (active moiety of); Benzoyl Peroxide (active moiety of); Sodium Benzoate (active moiety of) ... View More ...
+Properties:safety: Corrosive and Health Hazard
+smiles: C1=CC=C(C=C1)C(=O)O
+formula: C7H6O2
+chem_properties: Molecular Weight: 122.12 g/mol
+XLogP3: 1.9
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 122.036779430 Da
+Monoisotopic Mass: 122.036779430 Da
+Topological Polar Surface Area: 37.3
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 103
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

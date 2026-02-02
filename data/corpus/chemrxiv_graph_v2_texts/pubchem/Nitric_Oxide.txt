@@ -1,0 +1,36 @@
+Name: Nitric Oxide
+Text:
+Nitrogen oxides are a mixture of gases that are composed of nitrogen and oxygen. Two of the most toxicologically significant nitrogen oxides are nitric oxide and nitrogen dioxide; both are nonflammable and colorless to brown at room temperature. Nitric oxide is a sharp sweet-smelling gas at room temperature, whereas nitrogen dioxide has a strong, harsh odor and is a liquid at room temperature, becoming a reddish-brown gas above 70Â°F. Nitrogen oxides are released to the air from the exhaust of motor vehicles, the burning of coal, oil, or natural gas, and during processes such as arc welding, electroplating, engraving, and dynamite blasting. They are also produced commercially by reacting nitric acid with metals or cellulose. Nitrogen oxides are used in the production of nitric acid, lacquers, dyes, and other chemicals. Nitrogen oxides are also used in rocket fuels, nitration of organic chemicals, and the manufacture of explosives.
+Nitric oxide appears as a colorless gas. Noncombustible but accelerates the burning of combustible material. Vapors heavier than air. Very toxic by inhalation and skin absorption. Heating the containers may cause them to rupture violently and rocket.
+Nitric oxide is a nitrogen oxide which is a free radical, each molecule of which consists of one nitrogen and one oxygen atom. It has a role as a neurotransmitter, a signalling molecule, a vasodilator agent, a bronchodilator agent, a radical scavenger, a human metabolite, an Escherichia coli metabolite and a mouse metabolite. It is a nitrogen oxide, an inorganic radical and a member of reactive nitrogen species.
+Nitric oxide or Nitrogen monoxide is a chemical compound with chemical formula NO. This gas is an important signaling molecule in the body of mammals including humans and is an extremely important intermediate in the chemical industry. It is also a toxic air pollutant produced by automobile engines and power plants.  Nitric oxide (NO) should not be confused with nitrous oxide (N2O), a general anaesthetic, or with nitrogen dioxide (NO2) which is another poisonous air pollutant.  The nitric oxide molecule is a free radical, which is relevant to understanding its high reactivity. It reacts with the ozone in air to form nitrogen dioxide, signalled by the appearance of the reddish-brown color.
+Nitric oxide is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Nitric oxide is a Vasodilator. The physiologic effect of nitric oxide is by means of Vasodilation.
+Nitric oxide has been reported in Homo sapiens with data available.
+Nitric Oxide is an unstable free-radical gas which reacts rapidly with oxygen to form nitrogen oxides.  Water soluble, NO is produced normally in numerous tissues and is considered to be a mediator of cell-to cell communication; it functions in numerous processes including vasodilation, inflammation, and neurotransmission. (NCI04)
+NITRIC OXIDE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1999 and has 5 approved and 49 investigational indications.
+no is a metabolite found in or produced by Saccharomyces cerevisiae.
+A free radical gas produced endogenously by a variety of mammalian cells, synthesized from ARGININE by NITRIC OXIDE SYNTHASE. Nitric oxide is one of the ENDOTHELIUM-DEPENDENT RELAXING FACTORS released by the vascular endothelium and mediates VASODILATION. It also inhibits platelet aggregation, induces disaggregation of aggregated platelets, and inhibits platelet adhesion to the vascular endothelium. Nitric oxide activates cytosolic GUANYLATE CYCLASE and thus elevates intracellular levels of CYCLIC GMP.
+See also: Nitric Oxide; Nitrogen (component of) ... View More ...
+Properties:safety: Oxidizer and Compressed Gas and Corrosive and Acute Toxic and Health Hazard
+smiles: [N]=O
+formula: NO
+chem_properties: Molecular Weight: 30.006 g/mol
+XLogP3: 0.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 29.997988624 Da
+Monoisotopic Mass: 29.997988624 Da
+Topological Polar Surface Area: 18.1
+Heavy Atom Count: 2
+Formal Charge: 0
+Complexity: 2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

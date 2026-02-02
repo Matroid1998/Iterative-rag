@@ -1,0 +1,33 @@
+Name: Carbamazepine
+Text:
+Carbamazepine can cause developmental toxicity according to state or federal government labeling requirements.
+Carbamazepine is a dibenzoazepine that is 5H-dibenzo[b,f]azepine carrying a carbamoyl substituent at the azepine nitrogen, used as an anticonvulsant. It has a role as an anticonvulsant, an EC 3.5.1.98 (histone deacetylase) inhibitor, a mitogen, a glutamate transporter activator, an antimanic drug, an analgesic, a non-narcotic analgesic, an environmental contaminant, a xenobiotic, a drug allergen and a sodium channel blocker. It is a dibenzoazepine and a member of ureas.
+Carbamazepine, also known as Tegretol, is an anticonvulsant drug and analgesic drug used to control seizures and to treat pain resulting from trigeminal neuralgia. It was initially approved by the FDA in 1965. Aside from the above uses, this drug is also given to control the symptoms of bipolar 1. Interestingly, carbamazepine was the first anticonvulsant used to treat individuals with bipolar disorder.
+Carbamazepine is a Mood Stabilizer. The mechanism of action of carbamazepine is as a Cytochrome P450 3A4 Inducer, and Cytochrome P450 1A2 Inducer, and Cytochrome P450 2B6 Inducer, and Cytochrome P450 2C9 Inducer, and Cytochrome P450 2C19 Inducer. The physiologic effect of carbamazepine is by means of Decreased Central Nervous System Disorganized Electrical Activity.
+Carbamazepine is an aromatic anticonvulsant that is widely used in therapy of epilepsy and trigeminal neuralgia and is a well established cause of clinically apparent liver injury which can be severe and even fatal.
+Carbamazepine is a tricyclic compound chemically related to tricyclic antidepressants (TCA) with anticonvulsant and analgesic properties. Carbamazepine exerts its anticonvulsant activity by reducing polysynaptic responses and blocking post-tetanic potentiation. Its analgesic activity is not understood; however, carbamazepine is commonly used to treat pain associated with trigeminal neuralgia.
+CARBAMAZEPINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1968 and has 6 approved and 11 investigational indications. This drug has a black box warning from the FDA.
+An anticonvulsant used to control grand mal and psychomotor or focal seizures. Its mode of action is not fully understood, but some of its actions resemble those of phenytoin; although there is little chemical resemblance between the two compounds, their three-dimensional structure is similar.
+A dibenzazepine that acts as a sodium channel blocker. It is used as an anticonvulsant for the treatment of grand mal and psychomotor or focal SEIZURES. It may also be used in the management of BIPOLAR DISORDER, and has analgesic properties.
+Properties:safety: Irritant and Health Hazard
+smiles: C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N
+formula: C15H12N2O
+chem_properties: Molecular Weight: 236.27 g/mol
+XLogP3: 2.5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 236.094963011 Da
+Monoisotopic Mass: 236.094963011 Da
+Topological Polar Surface Area: 46.3
+Heavy Atom Count: 18
+Formal Charge: 0
+Complexity: 326
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,30 @@
+Name: L-Tartaric acid
+Text:
+L-tartaric acid is a tartaric acid. It is a conjugate acid of a L-tartrate(1-). It is an enantiomer of a D-tartaric acid.
+Tartaric acid is a white crystalline organic acid that occurs naturally in many plants, most notably in grapes.Tartaric is an alpha-hydroxy-carboxylic acid, is diprotic and aldaric in acid characteristics, and is a dihydroxyl derivative of succinic acid.
+Tartaric acid is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Tartaric Acid is a white crystalline dicarboxylic acid found in many plants, particularly tamarinds and grapes. Tartaric acid is used to generate carbon dioxide through interaction with sodium bicarbonate following oral administration. Carbon dioxide extends the stomach and provides a negative contrast medium during double contrast radiography. In high doses, this agent acts as a muscle toxin by inhibiting the production of malic acid, which could cause paralysis and maybe death.
+TARTRATE is a small molecule drug with a maximum clinical trial phase of II and has 1 investigational indication.
+Tartaric acid is a white crystalline organic acid. It occurs naturally in many plants, particularly grapes and tamarinds, and is one of the main acids found in wine. It is added to other foods to give a sour taste, and is used as an antioxidant. Salts of tartaric acid are known as tartrates. It is a dihydroxy derivative of dicarboxylic acid. Tartaric acid is a muscle toxin, which works by inhibiting the production of malic acid, and in high doses causes paralysis and death. The minimum recorded fatal dose for a human is about 12 grams. In spite of that, it is included in many foods, especially sour-tasting sweets. As a food additive, tartaric acid is used as an antioxidant with E number E334, tartrates are other additives serving as antioxidants or emulsifiers. Naturally-occurring tartaric acid is chiral, meaning that it has molecules that are non-superimposable on their mirror-images. It is a useful raw material in organic chemistry for the synthesis of other chiral molecules. The naturally occurring form of the acid is L-(+)-tartaric acid or dextrotartaric acid. The mirror-image (enantiomeric) form, levotartaric acid or D-(-)-tartaric acid, and the achiral form, mesotartaric acid, can be made artificially. Tartarate is believed to play a role in inhibiting kidney stone formation. Most tartarate that is consumed by humans is metabolized by bacteria in the gastrointestinal tract -- primarily in the large instestine. Only about 15-20% of consumed tartaric acid is secreted in the urine unchanged.
+Properties:safety: Corrosive and Irritant
+smiles: [C@@H]([C@H](C(=O)O)O)(C(=O)O)O
+formula: C4H6O6
+chem_properties: Molecular Weight: 150.09 g/mol
+XLogP3: -1.9
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 3
+Exact Mass: 150.01643791 Da
+Monoisotopic Mass: 150.01643791 Da
+Topological Polar Surface Area: 115
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 134
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

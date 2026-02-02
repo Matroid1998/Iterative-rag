@@ -1,0 +1,28 @@
+Name: Pyrophosphate
+Text:
+Diphosphate(4-) is a diphosphate ion. It is a conjugate base of a diphosphate(3-).
+Pyrophosphate is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+In chemistry, the anion, the salts, and the esters of pyrophosphoric acid are called pyrophosphates. The anion is abbreviated PPi and is formed by the hydrolysis of ATP into AMP in cells. This hydrolysis is called pyrophosphorolysis. The pyrophosphate anion has the structure P2O74-, and is an acid anhydride of phosphate. It is unstable in aqueous solution and rapidly hydrolyzes into inorganic phosphate.
+Inorganic salts of phosphoric acid that contain two phosphate groups.
+Properties:safety: Irritant
+smiles: [O-]P(=O)([O-])OP(=O)([O-])[O-]
+formula: O7P2-4
+chem_properties: Molecular Weight: 173.94 g/mol
+XLogP3: -3.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 0
+Exact Mass: 173.91192633 Da
+Monoisotopic Mass: 173.91192633 Da
+Topological Polar Surface Area: 136
+Heavy Atom Count: 9
+Formal Charge: -4
+Complexity: 124
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,24 @@
+Name: Ni(acac)2
+Text:
+See also: Nickel (II) acetylacetonate (annotation moved to); Nickel acetylacetonate (annotation moved to).
+Properties:safety: Health Hazard
+smiles: C/C(=C/C(=O)C)/[O-].C/C(=C/C(=O)C)/[O-].[Ni+2]
+formula: C10H14NiO4
+chem_properties: Molecular Weight: 256.91 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 2
+Exact Mass: 256.024551 Da
+Monoisotopic Mass: 256.024551 Da
+Topological Polar Surface Area: 80.3
+Heavy Atom Count: 15
+Formal Charge: 0
+Complexity: 90.4
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 2
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,36 @@
+Name: Itraconazole
+Text:
+Itraconazole is an N-arylpiperazine that is cis-ketoconazole in which the imidazol-1-yl group is replaced by a 1,2,4-triazol-1-yl group and in which the actyl group attached to the piperazine moiety is replaced by a p-[(+-)1-sec-butyl-5-oxo-1,5-dihydro-4H-1,2,4-triazol-4-yl]phenyl group. A potent P-glycoprotein and CYP3A4 inhibitor, it is used as an antifungal drug for the treatment of various fungal infections, including aspergillosis, blastomycosis, candidiasis, chromoblastomycosis, coccidioidomycosis, cryptococcosis, histoplasmosis, and sporotrichosis. It has a role as a P450 inhibitor, an EC 3.6.3.44 (xenobiotic-transporting ATPase) inhibitor and a Hedgehog signaling pathway inhibitor. It is a member of triazoles, a dioxolane, a N-arylpiperazine, a dichlorobenzene, a cyclic ketal, a conazole antifungal drug, a triazole antifungal drug and an aromatic ether.
+Itraconazole is an antifungal prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of certain fungal infections, such as:
+Histoplasmosis
+Certain types of mucocutaneouscandidiasis, including esophageal candidiasis (infection of the esophagus) and oropharyngeal candidiasis (infection of part of the throat)
+Histoplasmosis and mucocutaneous candidiasis can be opportunistic infections (OIs) of HIV.
+First synthesized in the early 1980s, itraconazole is a broad-spectrum triazole antifungal agent used to treat a variety of infections. It is a 1:1:1:1 racemic mixture of four diastereomers, made up of two enantiomeric pairs, each possessing three chiral centers. Itraconazole was first approved in the US in 1992 and is available orally. While the intravenous formulation of the drug was formerly available, it was discontinued in the US in 2007.
+Itraconazole is an Azole Antifungal. The mechanism of action of itraconazole is as a Cytochrome P450 3A4 Inhibitor, and P-Glycoprotein Inhibitor, and Breast Cancer Resistance Protein Inhibitor.
+Itraconazole is a orally administered, triazole antifungal agent used in the treatment of systemic and superficial fungal infections. Itraconazole therapy is associated with transient, mild-to-moderate serum elevations and can lead to clinically apparent acute drug induced liver injury.
+Itraconazole is a synthetic triazole agent with antimycotic properties. Formulated for both topical and systemic use, itraconazole preferentially inhibits fungal cytochrome P450 enzymes, resulting in a decrease in fungal ergosterol synthesis.  Because of its low toxicity profile, this agent can be used for long-term maintenance treatment of chronic fungal infections. (NCI04)
+Itraconazole is only found in individuals that have used or taken this drug. It is one of the triazole antifungal agents that inhibits cytochrome P-450-dependent enzymes resulting in impairment of ergosterol synthesis. It has been used against histoplasmosis, blastomycosis, cryptococcal meningitis & aspergillosis. [PubChem]Itraconazole interacts with 14-alpha demethylase, a cytochrome P-450 enzyme necessary to convert lanosterol to ergosterol. As ergosterol is an essential component of the fungal cell membrane, inhibition of its synthesis results in increased cellular permeability causing leakage of cellular contents. Itraconazole may also inhibit endogenous respiration, interact with membrane phospholipids, inhibit the transformation of yeasts to mycelial forms, inhibit purine uptake, and impair triglyceride and/or phospholipid biosynthesis.
+A triazole antifungal agent that inhibits cytochrome P-450-dependent enzymes required for ERGOSTEROL synthesis.
+See also: Fluconazole; ibuprofen; itraconazole; terbinafine (component of); Ciclopirox olamine; itraconazole; urea (component of).
+Properties:safety: Irritant
+smiles: CCC(C)N1C(=O)N(C=N1)C2=CC=C(C=C2)N3CCN(CC3)C4=CC=C(C=C4)OC[C@H]5CO[C@](O5)(CN6C=NC=N6)C7=C(C=C(C=C7)Cl)Cl
+formula: C35H38Cl2N8O4
+chem_properties: Molecular Weight: 705.6 g/mol
+XLogP3: 5.7
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 9
+Rotatable Bond Count: 11
+Exact Mass: 704.2393071 Da
+Monoisotopic Mass: 704.2393071 Da
+Topological Polar Surface Area: 101
+Heavy Atom Count: 49
+Formal Charge: 0
+Complexity: 1120
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

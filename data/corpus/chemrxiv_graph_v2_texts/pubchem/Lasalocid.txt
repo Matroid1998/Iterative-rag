@@ -1,0 +1,30 @@
+Name: Lasalocid
+Text:
+Lasalocid is a polyether antibiotic used for prevention and treatment of coccidiosis in poultry. It has a role as a coccidiostat, a bacterial metabolite and an ionophore. It is a monohydroxybenzoic acid, a beta-hydroxy ketone, a secondary alcohol, a member of oxolanes, a monocarboxylic acid, a member of oxanes, a tertiary alcohol and a polyether antibiotic. It is a conjugate acid of a lasalocid(1-).
+Lasalocid is an agent that presents antibacterial and coccidiostat activities. It is produced by strains of Streptomyces lasaliensis.
+Lasalocid has been reported in Streptomyces with data available.
+LASALOCID is a small molecule drug with a maximum clinical trial phase of II.
+Cationic ionophore antibiotic obtained from Streptomyces lasaliensis that, among other effects, dissociates the calcium fluxes in muscle fibers. It is used as a coccidiostat, especially in poultry.
+See also: Lasalocid Sodium (has salt form); Chlortetracycline; Lasalocid (component of); Bacitracin Zinc; Lasalocid (component of) ... View More ...
+Properties:safety: Acute Toxic
+smiles: CC[C@H]([C@@H]1[C@H](C[C@@](O1)(CC)[C@H]2CC[C@@]([C@@H](O2)C)(CC)O)C)C(=O)[C@@H](C)[C@H]([C@H](C)CCC3=C(C(=C(C=C3)C)O)C(=O)O)O
+formula: C34H54O8
+chem_properties: Molecular Weight: 590.8 g/mol
+XLogP3: 6.4
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 13
+Exact Mass: 590.38186868 Da
+Monoisotopic Mass: 590.38186868 Da
+Topological Polar Surface Area: 134
+Heavy Atom Count: 42
+Formal Charge: 0
+Complexity: 910
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 10
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

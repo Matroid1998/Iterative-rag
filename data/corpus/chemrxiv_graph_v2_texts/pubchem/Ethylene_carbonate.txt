@@ -1,0 +1,25 @@
+Name: Ethylene carbonate
+Text:
+Ethylene carbonate is a carbonate ester.
+Properties:safety: Corrosive and Irritant and Health Hazard
+smiles: C1COC(=O)O1
+formula: C3H4O3
+chem_properties: Molecular Weight: 88.06 g/mol
+XLogP3: 0.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 88.016043985 Da
+Monoisotopic Mass: 88.016043985 Da
+Topological Polar Surface Area: 35.5
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 60.4
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

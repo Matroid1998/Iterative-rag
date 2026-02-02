@@ -1,0 +1,32 @@
+Name: Limonene, (+)-
+Text:
+D-limonene is a clear colorless mobile liquid with a pleasant lemon-like odor. (NTP, 1992)
+(4R)-limonene is an optically active form of limonene having (4R)-configuration. It has a role as a plant metabolite. It is an enantiomer of a (4S)-limonene.
+Limonene is common in cosmetic products. As the main odor constituent of citrus (plant family Rutaceae), D-limonene is used in food manufacturing and some medicines, e.g. as a flavoring to mask the bitter taste of alkaloids, and as a fragrant in perfumery.
+D-Limonene has been reported in Camellia sinensis, Magnolia officinalis, and other organisms with data available.
+Limonene, (+)- is an oral dietary supplement containing a natural cyclic monoterpene, and a major component of the oil extracted from citrus peels, with potential chemopreventive and antineoplastic activities. Upon oral administration, D-limonene activates aldehyde dehydrogenase 3A1 (ALDH3A1), thereby decreasing aldehyde level. This may protect salivary stem/progenitor cells (SSPCs) from toxic aldehydes and prevent or improve radiation-induced xerostomia. Limonene and its metabolites perillic acid, dihydroperillic acid, uroterpenol and limonene 1,2-diol may also inhibit tumor growth through inhibition of p21-dependent signaling and may induce apoptosis via the induction of the transforming growth factor beta-signaling pathway. In addition, they inhibit post-translational modification of signal transduction proteins, resulting in G1 cell cycle arrest as well as differential expression of cell cycle- and apoptosis-related genes.
+D-LIMONENE is a small molecule drug with a maximum clinical trial phase of II (across all indications) and has 2 investigational indications.
+A naturally-occurring class of MONOTERPENES which occur as a clear colorless liquid at room temperature. Limonene is the major component in the oil of oranges which has many uses, including as flavor and fragrance. It is recognized as safe in food by the Food and Drug Administration (FDA).
+See also: Lemon oil, cold pressed (part of); Eucalyptus Oil (part of); Mandarin oil (part of) ... View More ...
+Properties:safety: Flammable and Irritant and Health Hazard and Environmental Hazard
+smiles: CC1=CC[C@@H](CC1)C(=C)C
+formula: C10H16
+chem_properties: Molecular Weight: 136.23 g/mol
+XLogP3: 3.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 1
+Exact Mass: 136.125200510 Da
+Monoisotopic Mass: 136.125200510 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 163
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

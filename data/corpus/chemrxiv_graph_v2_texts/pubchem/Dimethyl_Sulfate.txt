@@ -1,0 +1,29 @@
+Name: Dimethyl Sulfate
+Text:
+Dimethyl Sulfate can cause cancer according to an independent committee of scientific and health experts.
+Dimethyl sulfate is a colorless oily liquid, odorless to a faint onion-like odor. It is very toxic by inhalation. It is a combustible liquid and has a flash point of 182 °F. It is slightly soluble in water and decomposed by water to give sulfuric acid with evolution of heat. It is corrosive to metals and tissue. It is a potent methylating agent.
+Dimethyl sulfate is the dimethyl ester of sulfuric acid. It has a role as an alkylating agent and an immunosuppressive agent.
+Exposure to dimethyl sulfate is primarily occupational. Acute (short-term) exposure of humans to the vapors of dimethyl sulfate may cause severe inflammation and necrosis of the eyes, mouth, and respiratory tract. Acute oral or inhalation exposure to dimethyl sulfate primarily damages the lungs but also injures the liver, kidneys, heart, and central nervous system (CNS), while dermal contact with dimethyl sulfate may produce severe blistering in humans. Human data on the carcinogenic effects of dimethyl sulfate are inadequate. Tumors have been observed in the nasal passages, lungs, and thorax of animals exposed to dimethyl sulfate by inhalation. EPA has classified dimethyl sulfate as a Group B2, probable human carcinogen.
+Dimethyl Sulfate is an odorless, corrosive, oily liquid with an onion-like odor that emits toxic fumes upon heating. Dimethyl sulfate is used in industry as a methylating agent in the manufacture of many organic chemicals. Inhalation exposure to its vapors is highly irritating to the eyes and lungs and may cause damage to the liver, kidney, heart and central nervous system, while dermal contact causes severe blistering. It is a possible mutagen and is reasonably anticipated to be a human carcinogen based on evidence of carcinogenicity in experimental animals. (NCI05)
+Properties:safety: Corrosive and Acute Toxic and Health Hazard
+smiles: COS(=O)(=O)OC
+formula: C2H6O4S
+chem_properties: Molecular Weight: 126.13 g/mol
+XLogP3: -0.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 2
+Exact Mass: 125.99867984 Da
+Monoisotopic Mass: 125.99867984 Da
+Topological Polar Surface Area: 61
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 107
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

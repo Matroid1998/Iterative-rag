@@ -1,0 +1,29 @@
+Name: Tert-Butyl Alcohol
+Text:
+Tert-butyl alcohol is a colorless oily liquid with a sharp alcohol odor. Floats and mixes with water. Produces irritating vapor. Freezing point is 78 °F. (USCG, 1999)
+Tert-butanol is a tertiary alcohol alcohol that is isobutane substituted by a hydroxy group at position 2. It has a role as a human xenobiotic metabolite. It derives from a hydride of an isobutane.
+tert-Butanol has been reported in Psidium guajava with data available.
+An isomer of butanol that contains a tertiary butyl group that consists of three methyl groups, each separately attached to a central (tertiary) carbon.
+See also: tert-Butoxy (annotation moved to).
+Properties:safety: Flammable and Irritant
+smiles: CC(C)(C)O
+formula: C4H10O
+chem_properties: Molecular Weight: 74.12 g/mol
+XLogP3: 0.5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 74.073164938 Da
+Monoisotopic Mass: 74.073164938 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 25.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

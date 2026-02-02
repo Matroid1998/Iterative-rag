@@ -1,0 +1,24 @@
+Name: Trimethyl orthoacetate
+Text:
+Properties:safety: Flammable and Irritant
+smiles: CC(OC)(OC)OC
+formula: C5H12O3
+chem_properties: Molecular Weight: 120.15 g/mol
+XLogP3: 0.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 3
+Exact Mass: 120.078644241 Da
+Monoisotopic Mass: 120.078644241 Da
+Topological Polar Surface Area: 27.7
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 50.4
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

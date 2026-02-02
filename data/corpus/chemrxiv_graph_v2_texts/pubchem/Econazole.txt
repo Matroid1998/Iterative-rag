@@ -1,0 +1,32 @@
+Name: Econazole
+Text:
+1-{2-(4-chlorobenzyloxy)-2-(2,4-dichlorophenyl)ethyl}imidazole is a member of the class of imidazoles that is 1-(2,4-dichlorophenyl)-2-(imidazol-1-yl)ethanol in which the hydroxyl hydrogen is replaced by a 4-chlorobenzyl group. It is an ether, a member of imidazoles, a dichlorobenzene and a member of monochlorobenzenes.
+A broad spectrum antimycotic with some action against Gram positive bacteria. It is used topically in dermatomycoses also orally and parenterally.
+Econazole is an Azole Antifungal.
+Econazole is an imidazole with antifungal property. Econazole compromises the integrity of fungal cell wall through inhibiting 14-alpha demethylase, which catalyzes conversion of lanosterol to ergosterol, an essential component of the fungal cell wall. As a result, this agent increases cellular permeability thereby resulting in leakage of cellular contents. Furthermore, econazole has also been implicated to inhibit endogenous respiration, interact with membrane phospholipids, inhibit purine uptake, and impair triglyceride and/or phospholipid biosynthesis.
+ECONAZOLE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1982 and is indicated for tinea pedis and has 1 investigational indication.
+Econazole is only found in individuals that have used or taken this drug. It is a broad spectrum antimycotic with some action against Gram positive bacteria. It is used topically in dermatomycoses also orally and parenterally. [PubChem] Econazole interacts with 14-alpha demethylase, a cytochrome P-450 enzyme necessary to convert lanosterol to ergosterol. As ergosterol is an essential component of the fungal cell membrane, inhibition of its synthesis results in increased cellular permeability causing leakage of cellular contents. Econazole may also inhibit endogenous respiration, interact with membrane phospholipids, inhibit the transformation of yeasts to mycelial forms, inhibit purine uptake, and impair triglyceride and/or phospholipid biosynthesis.
+An imidazole derivative that is commonly used as a topical antifungal agent.
+See also: Econazole Nitrate (has salt form); Econazole sulfosalicylate (is active moiety of).
+Properties:safety: Irritant
+smiles: C1=CC(=CC=C1COC(CN2C=CN=C2)C3=C(C=C(C=C3)Cl)Cl)Cl
+formula: C18H15Cl3N2O
+chem_properties: Molecular Weight: 381.7 g/mol
+XLogP3: 5.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 6
+Exact Mass: 380.024996 Da
+Monoisotopic Mass: 380.024996 Da
+Topological Polar Surface Area: 27.1
+Heavy Atom Count: 24
+Formal Charge: 0
+Complexity: 379
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

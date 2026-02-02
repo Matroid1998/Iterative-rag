@@ -1,0 +1,29 @@
+Name: Adenosine-5'-diphosphate
+Text:
+ADP is a purine ribonucleoside 5'-diphosphate having adenine as the nucleobase. It has a role as a human metabolite and a fundamental metabolite. It is an adenosine 5'-phosphate and a purine ribonucleoside 5'-diphosphate. It is a conjugate acid of an ADP(3-) and an ADP(2-).
+Adenosine diphosphate is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Adenosine-5'-diphosphate has been reported in Helianthus tuberosus, Arabidopsis thaliana, and other organisms with data available.
+ADP is a metabolite found in or produced by Saccharomyces cerevisiae.
+Adenosine 5'-(trihydrogen diphosphate). An adenine nucleotide containing two phosphate groups esterified to the sugar moiety at the 5'-position.
+Properties:safety: Irritant
+smiles: C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)O)O)O)N
+formula: C10H15N5O10P2
+chem_properties: Molecular Weight: 427.20 g/mol
+XLogP3: -4.6
+Hydrogen Bond Donor Count: 6
+Hydrogen Bond Acceptor Count: 14
+Rotatable Bond Count: 6
+Exact Mass: 427.02941569 Da
+Monoisotopic Mass: 427.02941569 Da
+Topological Polar Surface Area: 233
+Heavy Atom Count: 27
+Formal Charge: 0
+Complexity: 637
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

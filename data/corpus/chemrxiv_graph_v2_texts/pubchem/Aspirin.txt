@@ -1,0 +1,36 @@
+Name: Aspirin
+Text:
+Aspirin can cause developmental toxicity and female reproductive toxicity according to an independent committee of scientific and health experts.
+Acetylsalicylic acid appears as odorless white crystals or crystalline powder with a slightly bitter taste. (NTP, 1992)
+Acetylsalicylic acid is a member of the class of benzoic acids that is salicylic acid in which the hydrogen that is attached to the phenolic hydroxy group has been replaced by an acetoxy group. A non-steroidal anti-inflammatory drug with cyclooxygenase inhibitor activity. It has a role as a non-steroidal anti-inflammatory drug, a non-narcotic analgesic, a platelet aggregation inhibitor, an antipyretic, a cyclooxygenase 2 inhibitor, a cyclooxygenase 1 inhibitor, a prostaglandin antagonist, a teratogenic agent, an anticoagulant, a plant activator, an EC 1.1.1.188 (prostaglandin-F synthase) inhibitor, a drug allergen and a geroprotector. It is a member of benzoic acids, a member of salicylates and a member of phenyl acetates. It is functionally related to a salicylic acid. It is a conjugate acid of an acetylsalicylate.
+Also known as Aspirin, acetylsalicylic acid (ASA) is a commonly used drug for the treatment of pain and fever due to various causes. Acetylsalicylic acid has both anti-inflammatory and antipyretic effects.  This drug also inhibits platelet aggregation and is used in the prevention of blood clots stroke, and myocardial infarction (MI).    Interestingly, the results of various studies have demonstrated that long-term use of acetylsalicylic acid may decrease the risk of various cancers, including colorectal, esophageal, breast, lung, prostate, liver and skin cancer. Aspirin is classified as a non-selective cyclooxygenase (COX) inhibitor and is available in many doses and forms, including chewable tablets, suppositories, extended release formulations, and others.   Acetylsalicylic acid is a very common cause of accidental poisoning in young children. It should be kept out of reach from young children, toddlers, and infants.
+Aspirin is a Nonsteroidal Anti-inflammatory Drug and Platelet Aggregation Inhibitor. The mechanism of action of aspirin is as a Cyclooxygenase Inhibitor. The physiologic effect of aspirin is by means of Decreased Prostaglandin Production and Decreased Platelet Aggregation.
+Aspirin or acetylsalicylic acid is perhaps the most commonly used analgesic and antipyretic medication worldwide, having been in clinical use for over 100 years. Aspirin can cause several forms of liver injury: in high doses, aspirin can cause moderate to marked serum aminotransferase elevations occasionally with jaundice or signs of liver dysfunction, and in lower doses in susceptible children with a febrile illness aspirin can lead to Reye syndrome.
+Aspirin has been reported in Brassica napus, Ixora coccinea, and Glycyrrhiza glabra with data available.
+Aspirin is an orally administered non-steroidal antiinflammatory agent. Acetylsalicylic acid binds to and acetylates serine residues in cyclooxygenases, resulting in decreased synthesis of prostaglandin, platelet aggregation, and inflammation. This agent exhibits analgesic, antipyretic, and anticoagulant properties.
+ASPIRIN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1950 and has 19 approved and 143 investigational indications.
+Acetylsalicylic acid (acetosal) or aspirin is only found in individuals who have consumed this drug. Acetylsalicylic acid is a drug in the family of salicylates, often used as an analgesic (against minor pains and aches), antipyretic (against fever), and anti-inflammatory. It has also an anticoagulant effect and is used in long-term low-doses to prevent heart attacks and cancer. It was isolated from meadowsweet (Filipendula ulmaria, formerly classified as Spiraea ulmaria) by German researchers in 1839. While their extract was somewhat effective, it also caused digestive problems such as irritated stomach and diarrhoea, and even death when consumed in high doses. In 1853, a French chemist named Charles Frederic Gerhardt neutralized salicylic acid by buffering it with sodium (sodium salicylate) and acetyl chloride, creating acetosalicylic anhydride. Gerhardt's product worked, but he had no desire to market it and abandoned his discovery. In 1897, researcher Arthur Eichengrun and Felix Hoffmann, a research assistant at Friedrich Bayer & Co. in Germany, derivatized one of the hydroxyl functional groups in salicylic acid with an acetyl group (forming the acetyl ester), which greatly reduced the negative effects. This was the first synthetic drug, not a copy of something that existed in nature, and the start of the pharmaceuticals industry. The name 'aspirin' is composed of a- (from the acetyl group) -spir- (from the plant genus Spiraea) and -in (a common ending for drugs at the time). It has also been stated that the name originated by another means. As referring to AcetylSalicylic and 'pir' in reference to one of the scientists who was able to isolate it in crystalline form, Raffaele Piria. Finally 'in' due to the same reasons as stated above. Salicylic acid (which is a naturally occurring substance found in many plants) can be acetylated using acetic anhydride, yielding aspirin and acetic acid as a byproduct. It is a common experiment performed in organic chemistry labs, and generally tends to produce low yields due to the relative difficulty of its extraction from an aqueous state. The trick to getting the reaction to work is to acidify with phosphoric acid and heat the reagents under reflux with a boiling water bath for between 40 minutes and an hour. Aspirin acts as an inhibitor of cyclooxygenase which results in the inhibition of the biosynthesis of prostaglandins. Aspirin also inhibits platelet aggregation and is used in the prevention of arterial and venous thrombosis. (From Martindale, The Extra Pharmacopoeia, 30th ed, p5).
+The prototypical analgesic used in the treatment of mild to moderate pain. It has anti-inflammatory and antipyretic properties and acts as an inhibitor of cyclooxygenase which results in the inhibition of the biosynthesis of prostaglandins. Aspirin also inhibits platelet aggregation and is used in the prevention of arterial and venous thrombosis. (From Martindale, The Extra Pharmacopoeia, 30th ed, p5)
+See also: Carbaspirin Calcium (is active moiety of); Aspirin dl-lysine (is active moiety of); Aspirin Aluminum (is active moiety of) ... View More ...
+Properties:safety: Irritant
+smiles: CC(=O)OC1=CC=CC=C1C(=O)O
+formula: C9H8O4
+chem_properties: Molecular Weight: 180.16 g/mol
+XLogP3: 1.2
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 3
+Exact Mass: 180.04225873 Da
+Monoisotopic Mass: 180.04225873 Da
+Topological Polar Surface Area: 63.6
+Heavy Atom Count: 13
+Formal Charge: 0
+Complexity: 212
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,27 @@
+Name: Stearyl Alcohol
+Text:
+Octadecan-1-ol is a long-chain primary fatty alcohol consisting of a hydroxy function at C-1 of an unbranched saturated chain of 18 carbon atoms. It has a role as a plant metabolite, a human metabolite and an algal metabolite. It is a long-chain primary fatty alcohol and an octadecanol.
+Stearyl alcohol has been reported in Camellia sinensis, Apis, and other organisms with data available.
+See also: Alcohols, C18-32 (annotation moved to).
+Properties:safety: Irritant and Environmental Hazard
+smiles: CCCCCCCCCCCCCCCCCCO
+formula: C18H38O
+chem_properties: Molecular Weight: 270.5 g/mol
+XLogP3: 8.4
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 16
+Exact Mass: 270.292265831 Da
+Monoisotopic Mass: 270.292265831 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 19
+Formal Charge: 0
+Complexity: 145
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,32 @@
+Name: Nitrobenzene
+Text:
+Nitrobenzene is an industrial chemical. It is an oily yellow liquid with an almond-like odor. It dissolves only slightly in water and will evaporate to air. It is produced in large quantities for use in industry. Most of the nitrobenzene produced in the United States is used to manufacture a chemical called aniline. Nitrobenzene is also used to produce lubricating oils such as those used in motors and machinery. A small amount of nitrobenzene is used in the manufacture of dyes, drugs, pesticides, and synthetic rubber.
+Nitrobenzene can cause cancer according to The World Health Organization's International Agency for Research on Cancer (IARC). It can cause male reproductive toxicity according to The Environmental Protection Agency (EPA).
+Nitrobenzene appears as a pale yellow to dark brown liquid. Flash point 190 °F. Very slightly soluble in water. Toxic by inhalation and by skin absorption. Combustion give toxic oxides of nitrogen. Density 10.0 lb /gal.
+Nitrobenzene is a nitroarene consisting of benzene carrying a single nitro substituent. An industrial chemical used widely in the production of aniline. It is a member of nitrobenzenes and a nitroarene.
+Nitrobenzene is used to manufacture aniline. Acute (short-term) and chronic (long-term) inhalation, oral, and dermal exposure of humans to nitrobenzene result in effects on the blood (i.e., methemoglobinemia). At low nitrobenzene concentrations, symptoms include fatigue, weakness, dyspnea, headache, and dizziness. At higher concentrations, depressed respiration, bluish-gray skin, disturbed vision, and coma may occur. No information is available on the reproductive, developmental, or carcinogenic effects of nitrobenzene in humans. Animal studies indicate that inhalation exposure to nitrobenzene does not result in developmental effects, while reproductive effects, such as a decrease in fertility, reduced testicular weights, and decreased sperm production, have been noted. EPA has classified nitrobenzene as a Group D, not classifiable as to human carcinogenicity.
+Nitrobenzene is a yellowish, oily, aromatic nitro-compound with an almond-like odor that emits toxic fumes of nitrogen oxides upon combustion. Nitrobenzene is primarily used in the manufacture of aniline, but is also used in the manufacture of lubricating oils, dyes, drugs, pesticides, and synthetic rubber. Exposure to nitrobenzene irritates the skin, eyes and respiratory tract and can result in methemoglobinemia causing fatigue, dyspnea, dizziness, disturbed vision, shortness of breath, collapse and even death. Nitrobenzene also damages the liver, spleen, kidneys and central nervous system. This substance is a possible mutagen and is reasonably anticipated to be a human carcinogen. (NCI05)
+Approximately 95% of nitrobenzene is consumed in the production of aniline, which is a precursor to rubber chemicals, pesticides, dyes, explosives, and pharmaceuticals. Nitrobenzene is an organic compound with the chemical formula C6H5NO2. It is a water-insoluble pale yellow oil with an almond-like odor. It freezes to give greenish-yellow crystals. It is produced on a large scale from benzene as a precursor to aniline. In the laboratory, it is occasionally used as a solvent, especially for electrophilic reagents. Nitrobenzene is prepared by nitration of benzene with a mixture of concentrated sulfuric acid, water, and nitric acid. This mixture is sometimes called 'mixed acid.' The production of nitrobenzene is one of the most dangerous processes conducted in the chemical industry because of the exothermicity of the reaction ( delta H = 117 kJ/mol).
+See also: 4-Nitrophenyl (annotation moved to).
+Properties:safety: Acute Toxic and Health Hazard
+smiles: C1=CC=C(C=C1)[N+](=O)[O-]
+formula: C6H5NO2
+chem_properties: Molecular Weight: 123.11 g/mol
+XLogP3: 1.9
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 123.032028402 Da
+Monoisotopic Mass: 123.032028402 Da
+Topological Polar Surface Area: 45.8
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 102
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

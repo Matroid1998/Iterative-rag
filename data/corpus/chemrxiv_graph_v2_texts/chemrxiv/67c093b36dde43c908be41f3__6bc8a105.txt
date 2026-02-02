@@ -1,0 +1,29 @@
+Description:
+A sulfide salt used as a simple source of H2S in biological studies.
+
+Text:
+Hydrogen sulfide is a small gaseous signaling molecule, 
+often labeled with nitric oxide and carbon monoxide in the 
+group of signaling agents termed gasotransmitters.1 It 
+plays a crucial role in many pathophysiological processes in 
+mammalian tissues,24 including modulation of neurotrans
+mission,5 vasodilation,6 and cytoprotection against reactive 
+oxygen species (ROS).7 Simple sources of H2S, including sul
+fide salts (Na2S or NaSH), are commonly used in biological 
+studies on the roles of H2S.89 However, their unpredictable 
+release rate that poorly mimics enzymatic reactions can 
+lead to toxic and adverse effects.1011 To address these con
+cerns, researchers have made significant advances in the 
+development of small molecule donors that can be activated 
+by hydrolysisesterases, endogenous oxidants, biological 
+nucleophiles, and other specific biological conditions.1214 
+Among these, caged thiocarbamates represent a novel class 
+of H2S release molecules that can be activated by various 
+specific biological stimuli to release carbonyl sulfide (COS), 
+which is then quickly hydrolyzed to H2S by the ubiquitous 
+carbonic anhydrase (CA) enzyme.1012 Following this strat
+egy, some groups have expanded the toolbox to include do
+nors activated by various triggers, such as selfimmola
+tive,15 reactive oxygen species (ROS),16 glycine and cyste
+ine,1718 click chemistry,19 esterase,20 and others2124 (Figure 
+1a).

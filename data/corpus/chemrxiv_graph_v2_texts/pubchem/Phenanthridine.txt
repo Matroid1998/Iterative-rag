@@ -1,0 +1,27 @@
+Name: Phenanthridine
+Text:
+Phenanthridine appears as crystalline needles. Mutagenic.
+Phenanthridine is an azaarene that is the 9-aza derivative of phenanthrene. The parent of the class of phenanthridines. It is a mancude organic heterotricyclic parent, a polycyclic heteroarene, a member of phenanthridines and an azaarene.
+See also: Benzo(g)quinoline (annotation moved to).
+Properties:safety: Corrosive and Acute Toxic and Irritant
+smiles: C1=CC=C2C(=C1)C=NC3=CC=CC=C23
+formula: C13H9N
+chem_properties: Molecular Weight: 179.22 g/mol
+XLogP3: 3.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 179.073499291 Da
+Monoisotopic Mass: 179.073499291 Da
+Topological Polar Surface Area: 12.9
+Heavy Atom Count: 14
+Formal Charge: 0
+Complexity: 201
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

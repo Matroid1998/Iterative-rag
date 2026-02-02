@@ -1,0 +1,30 @@
+Name: Cyclohexanol
+Text:
+Cyclohexanol appears as a colorless liquid with a camphor-like odor. Soluble in most organic liquids. Flash point 154 °F. May be toxic by inhalation or skin exposure. Vapors are narcotic in high concentrations. Irritates skin, eyes and mucus membranes. Used in making soap, lacquers, and plastics.
+Cyclohexanol is an alcohol that consists of cyclohexane bearing a single hydroxy substituent. The parent of the class of cyclohexanols. It has a role as a solvent. It is a secondary alcohol and a member of cyclohexanols.
+Cyclohexanol has been reported in Punica granatum, Gossypium hirsutum, and Mangifera indica with data available.
+Monohydroxy derivatives of cyclohexanes that contain the general formula R-C6H11O. They have a camphorlike odor and are used in making soaps, insecticides, germicides, dry cleaning, and plasticizers. 
+cyclohexanol is a metabolite found in or produced by Saccharomyces cerevisiae.
+Monohydroxy derivatives of cyclohexanes that contain the general formula R-C6H11O. They have a camphorlike odor and are used in making soaps, insecticides, germicides, dry cleaning, and plasticizers.
+Properties:safety: Irritant
+smiles: C1CCC(CC1)O
+formula: C6H12O
+chem_properties: Molecular Weight: 100.16 g/mol
+XLogP3: 1.2
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 100.088815002 Da
+Monoisotopic Mass: 100.088815002 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 46.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

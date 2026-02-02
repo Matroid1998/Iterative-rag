@@ -1,0 +1,6 @@
+Indium nitride (InN) is a small-bandgap semiconductor material, which has potential application in solar cells and high speed electronics.
+The bandgap of InN has now been established as ~0.7 eV depending on temperature (the obsolete value is 1.97 eV). 
+The effective electron mass has been recently determined by high magnetic field measurements, m* = 0.055 m0.
+Alloyed with GaN, the ternary system InGaN has a direct bandgap span from the infrared (0.69 eV) to the ultraviolet (3.4 eV).
+Currently there is research into developing solar cells using the nitride based semiconductors. Using one or more alloys of indium gallium nitride (InGaN), an optical match to the solar spectrum can be achieved.   The bandgap of InN allows a wavelengths as long as 1900 nm to be utilized. However, there are many difficulties to be overcome if such solar cells are to become a commercial reality: p-type doping of InN and indium-rich InGaN is one of the biggest challenges. Heteroepitaxial growth of InN with other nitrides (GaN, AlN) has proved to be difficult.
+Thin layers of InN can be grown using metalorganic chemical vapour deposition (MOCVD).

@@ -1,0 +1,28 @@
+Name: Dimethyl Ether
+Text:
+Dimethyl ether is a colorless gas with a faint ethereal odor. It is shipped as a liquefied gas under its vapor pressure. Contact with the liquid can cause frostbite. It is easily ignited. Its vapors are heavier than air. Any leak can be either liquid or vapor. It can asphyxiate by the displacement of air. Under prolonged exposure to fire or intense heat the containers may rupture violently and rocket.
+Dimethyl ether is an ether in which the oxygen atom is connected to two methyl groups.
+Dimethyl Ether is a colorless volatile poisonous liquid compound used as a solvent, fuel, aerosol, propellant and refrigerant. (NCI)
+See also: Organic Solvents (subclass of).
+Properties:safety: Flammable and Compressed Gas
+smiles: COC
+formula: C2H6O
+chem_properties: Molecular Weight: 46.07 g/mol
+XLogP3: 0.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 46.041864811 Da
+Monoisotopic Mass: 46.041864811 Da
+Topological Polar Surface Area: 9.2
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 2.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

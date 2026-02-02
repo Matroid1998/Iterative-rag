@@ -1,0 +1,36 @@
+Name: Vancomycin
+Text:
+Vancomycin is a complex glycopeptide from Streptomyces orientalis. It inhibits a specific step in the synthesis of the peptidoglycan layer in the Gram-positive bacteria Staphylococcus aureus and Clostridium difficile. It has a role as an antimicrobial agent, an antibacterial drug and a bacterial metabolite. It is functionally related to a vancomycin aglycone. It is a conjugate base of a vancomycin(1+).
+Vancomycin hydrochloride is an antibacterial prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of certain bacterial infections, such as infections caused by Clostridium difficile and Staphylococcus aureus.
+Clostridium difficile and Staphylococcus aureus are bacteria that can cause opportunistic infections (OIs) of HIV. An OI is an infection that occurs more frequently or is more severe in people with weakened immune systems—such as people with HIV—than in people with healthy immune systems.
+Antibacterial obtained from Streptomyces orientalis. It is a glycopeptide related to ristocetin that inhibits bacterial cell wall assembly and is toxic to kidneys and the inner ear.  As of January 29 2018, CutisPharma's Firvanq is the only FDA approved vancomycin oral liquid treatment option available for the the treatment of Clostridium difficile associated diarrhea and enterocolitis caused by Staphylococcus aureus, including methicillin-resistant strains [LP1196]. Such an oral liquid formulation is expected to make Clostridium difficile associated diarrhea therapy more accessible in comparison to previously available specialty compounding products [LP1196].
+Vancomycin is a Glycopeptide Antibacterial.
+Vancomycin has been reported in Trichoderma virens, Ascochyta medicaginicola, and other organisms with data available.
+Vancomycin is a branched tricyclic glycosylated peptide with bactericidal activity against most organisms and bacteriostatic effect on enterococci. At a site different from that of penicillins and cephalosporins, vancomycin binds tightly to the D-alanyl-D-alanine portion of cell wall precursors, thereby interfering with bacterial cell wall synthesis. This leads to activation of bacterial autolysins that destroy the cell wall by lysis. Vancomycin may also alter the permeability of bacterial cytoplasmic membranes and may selectively inhibit RNA synthesis.
+Glycopeptide Antibiotic is one of a class of antibiotics originally isolated from plant and soil bacteria with structures containing either a glycosylated cyclic or polycyclic nonribosomal peptide. These antibiotics inhibit the cell wall structure of susceptible organisms (principally Gram-positive cocci) by inhibiting peptidoglycan synthesis. First-generation glycopeptide antibiotics include vancomycin, teicoplanin, and ramoplanin; second-generation semi-synthetic glycopeptide antibiotics include oritavancin, dalbavancin, and telavancin.
+VANCOMYCIN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1964 and has 11 approved and 45 investigational indications. This drug has a black box warning from the FDA.
+Vancomycin is only found in individuals that have used or taken this drug. It is an antibacterial obtained from Streptomyces orientalis. It is a glycopeptide related to ristocetin that inhibits bacterial cell wall assembly and is toxic to kidneys and the inner ear. [PubChem]The bactericidal action of vancomycin results primarily from inhibition of cell-wall biosynthesis. Specifically, vancomycin prevents incorporation of N-acetylmuramic acid (NAM)- and N-acetylglucosamine (NAG)-peptide subunits from being incorporated into the peptidoglycan matrix; which forms the major structural component of Gram-positive cell walls. The large hydrophilic molecule is able to form hydrogen bond interactions with the terminal D-alanyl-D-alanine moieties of the NAM/NAG-peptides. Normally this is a five-point interaction. This binding of vancomycin to the D-Ala-D-Ala prevents the incorporation of the NAM/NAG-peptide subunits into the peptidoglycan matrix. In addition, vancomycin alters bacterial-cell-membrane permeability and RNA synthesis. There is no cross-resistance between vancomycin and other antibiotics. Vancomycin is not active in vitro against gram-negative bacilli, mycobacteria, or fungi.
+Antibacterial obtained from Streptomyces orientalis. It is a glycopeptide related to RISTOCETIN that inhibits bacterial cell wall assembly and is toxic to kidneys and the inner ear.
+See also: Vancomycin Hydrochloride (has salt form).
+Properties:safety: Health Hazard
+smiles: C[C@H]1[C@H]([C@@](C[C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=C4C=C5C=C3OC6=C(C=C(C=C6)[C@H]([C@H](C(=O)N[C@H](C(=O)N[C@H]5C(=O)N[C@@H]7C8=CC(=C(C=C8)O)C9=C(C=C(C=C9O)O)[C@H](NC(=O)[C@H]([C@@H](C1=CC(=C(O4)C=C1)Cl)O)NC7=O)C(=O)O)CC(=O)N)NC(=O)[C@@H](CC(C)C)NC)O)Cl)CO)O)O)(C)N)O
+formula: C66H75Cl2N9O24
+chem_properties: Molecular Weight: 1449.2 g/mol
+XLogP3: -2.6
+Hydrogen Bond Donor Count: 19
+Hydrogen Bond Acceptor Count: 26
+Rotatable Bond Count: 13
+Exact Mass: 1447.4301997 Da
+Monoisotopic Mass: 1447.4301997 Da
+Topological Polar Surface Area: 530
+Heavy Atom Count: 101
+Formal Charge: 0
+Complexity: 2960
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 18
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

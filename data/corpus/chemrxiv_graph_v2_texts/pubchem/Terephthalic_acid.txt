@@ -1,0 +1,28 @@
+Name: Terephthalic acid
+Text:
+Terephthalic acid is a white powder. (NTP, 1992)
+Terephthalic acid is a benzenedicarboxylic acid carrying carboxy groups at positions 1 and 4. One of three possible isomers of benzenedicarboxylic acid, the others being phthalic and isophthalic acids. It is a conjugate acid of a terephthalate(1-).
+Terephthalic acid has been reported in Cassia roxburghii, Arabidopsis thaliana, and other organisms with data available.
+See also: Pegoterate (monomer of); Polybutester (monomer of) ... View More ...
+Properties:safety: Irritant
+smiles: C1=CC(=CC=C1C(=O)O)C(=O)O
+formula: C8H6O4
+chem_properties: Molecular Weight: 166.13 g/mol
+XLogP3: 2
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 2
+Exact Mass: 166.02660867 Da
+Monoisotopic Mass: 166.02660867 Da
+Topological Polar Surface Area: 74.6
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 169
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

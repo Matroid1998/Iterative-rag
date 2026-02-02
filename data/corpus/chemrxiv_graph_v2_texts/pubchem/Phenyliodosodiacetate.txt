@@ -1,0 +1,24 @@
+Name: Phenyliodosodiacetate
+Text:
+Properties:safety: Irritant
+smiles: CC(=O)OI(C1=CC=CC=C1)OC(=O)C
+formula: C10H11IO4
+chem_properties: Molecular Weight: 322.10 g/mol
+XLogP3: 2.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 5
+Exact Mass: 321.97021 Da
+Monoisotopic Mass: 321.97021 Da
+Topological Polar Surface Area: 52.6
+Heavy Atom Count: 15
+Formal Charge: 0
+Complexity: 220
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

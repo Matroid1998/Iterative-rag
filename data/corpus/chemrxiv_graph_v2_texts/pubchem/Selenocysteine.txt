@@ -1,0 +1,28 @@
+Name: Selenocysteine
+Text:
+L-selenocysteine is the L-enantiomer of selenocysteine. It has a role as a human metabolite. It is a L-alpha-amino acid, a selenocysteine, a proteinogenic amino acid and a L-alanine derivative. It is a conjugate base of a L-selenocysteinium. It is a conjugate acid of a L-selenocysteinate(1-). It is an enantiomer of a D-selenocysteine. It is a tautomer of a L-selenocysteine zwitterion.
+Selenocysteine is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+L-selenocysteine has been reported in Brassica oleracea, Allium sativum, and Allium cepa with data available.
+Selenocysteine is an unusual amino acid of proteins, the selenium analogue of cysteine, in which a selenium atom replaces sulphur. Involved in the catalytic mechanism of seleno enzymes such as formate dehydrogenase of E. coli and mammalian glutathione peroxidase.
+A naturally occurring amino acid in both eukaryotic and prokaryotic organisms. It is found in tRNAs and in the catalytic site of some enzymes. The genes for glutathione peroxidase and formate dehydrogenase contain the TGA codon, which codes for this amino acid.
+Properties:safety: Irritant
+smiles: C([C@@H](C(=O)O)N)[Se]
+formula: C3H6NO2Se
+chem_properties: Molecular Weight: 167.06 g/mol
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 2
+Exact Mass: 167.95638 Da
+Monoisotopic Mass: 167.95638 Da
+Topological Polar Surface Area: 63.3
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 75.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

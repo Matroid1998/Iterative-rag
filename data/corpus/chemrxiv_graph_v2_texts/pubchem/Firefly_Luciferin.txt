@@ -1,0 +1,26 @@
+Name: Firefly Luciferin
+Text:
+Photinus luciferin is a 1,3-thiazolemonocarboxylic acid consisting of 3,5-dihydrothiophene-4-carboxylic acid having a 6-hydroxybenzothiazol-2-yl group at the 2-position. It has a role as a luciferin. It is a member of benzothiazoles, a 1,3-thiazolemonocarboxylic acid and an imidothioate. It is a conjugate acid of a Photinus luciferin(1-). It is an enantiomer of an ent-Photinus luciferin.
+See also:  ... View More ...
+Properties:safety: Irritant
+smiles: C1[C@@H](N=C(S1)C2=NC3=C(S2)C=C(C=C3)O)C(=O)O
+formula: C11H8N2O3S2
+chem_properties: Molecular Weight: 280.3 g/mol
+XLogP3: 2.2
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 2
+Exact Mass: 279.99763447 Da
+Monoisotopic Mass: 279.99763447 Da
+Topological Polar Surface Area: 136
+Heavy Atom Count: 18
+Formal Charge: 0
+Complexity: 390
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,29 @@
+Name: Cinnamyl alcohol
+Text:
+Cinnamyl alcohol is a primary alcohol comprising an allyl core with a hydroxy substituent at the 1-position and a phenyl substituent at the 3-position (geometry of the C=C bond unspecified). It has a role as a plant metabolite.
+Cinnamyl alcohol is a naturally occurring compound that is found within cinnamon. Due to the low levels found in cinnamon, cinnamyl alcohol is usually supplied as [DB14184] within commercial products.  Cinnamyl alcohol has been shown to be a skin sensitizer, with a NOEL (No Effect Level) of ~4%. Sensitivity to cinnamyl alcohol may be identified with a clinical patch test.
+Cinnamyl alcohol is a Standardized Chemical Allergen. The physiologic effect of cinnamyl alcohol is by means of Increased Histamine Release, and Cell-mediated Immunity.
+Cinnamyl alcohol has been reported in Rhodiola sachalinensis, Cryptocarya amygdalina, and other organisms with data available.
+See also: Cinnamon (part of); Chinese Cinnamon (part of); Cinnamomum cassia twig (part of).
+Properties:safety: Irritant
+smiles: C1=CC=C(C=C1)/C=C/CO
+formula: C9H10O
+chem_properties: Molecular Weight: 134.17 g/mol
+XLogP3: 1.9
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 2
+Exact Mass: 134.073164938 Da
+Monoisotopic Mass: 134.073164938 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 101
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

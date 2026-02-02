@@ -1,0 +1,29 @@
+Name: Thiouracil
+Text:
+Thiouracil can cause cancer according to The World Health Organization's International Agency for Research on Cancer (IARC).
+Thiouracil is a nucleobase analogue that is uracil in which the oxo group at C-2 is replaced by a thioxo group. It has a role as an antithyroid drug and a metabolite. It is a thiocarbonyl compound and a nucleobase analogue. It is functionally related to a uracil.
+2-Thiouracil has been reported in Euglena gracilis with data available.
+Thiouracil is a sulfur-containing uracil.  An established antithyroid drug and highly selective inhibitor of nitric oxide synthase (NOS), thiouracil also covalently binds to dopaquinone, produced by tyrosinase catalyzed oxidation of tyrosine, thereby selectively accumulating in de novo-synthesized melanin in overactive melanin-producing cells and providing a means to localize melanoma cells. (NCI04)
+Occurs in seeds of Brassica and Crucifera species. Thiouracil has been used as antithyroid, coronary vasodilator, and in congestive heart failure although its use has been largely supplanted by other drugs. It is known to cause blood dyscrasias and suspected of terato- and carcinogenesis.
+Properties:safety: Health Hazard
+smiles: C1=CNC(=S)NC1=O
+formula: C4H4N2OS
+chem_properties: Molecular Weight: 128.15 g/mol
+XLogP3: -0.3
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 128.00443393 Da
+Monoisotopic Mass: 128.00443393 Da
+Topological Polar Surface Area: 73.2
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 163
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

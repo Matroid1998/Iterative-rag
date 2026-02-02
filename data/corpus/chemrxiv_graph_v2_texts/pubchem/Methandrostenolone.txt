@@ -1,0 +1,29 @@
+Name: Methandrostenolone
+Text:
+Methandrostenolone is an organic molecular entity.
+Metandienone is an orally active anabolic androgenic steroid. It was introduced to the market in the 1960s but later discontinued and withdrawn from the market. Although it is prohibited in and outside competition by the World Anti-Doping Agency, metandienone continues to be marketed and misused as a performance-enhancing drug in sports. In the US, metandienone is a controlled substance under the Controlled Substances Act.
+METHANDROSTENOLONE is a small molecule drug with a maximum clinical trial phase of IV. It was withdrawn in at least one region.
+A synthetic steroid with anabolic properties that are more pronounced than its androgenic effects. It has little progestational activity. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1188)
+See also: Epimethandienone (annotation moved to).
+Properties:safety: Health Hazard
+smiles: C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C)O)CCC4=CC(=O)C=C[C@]34C
+formula: C20H28O2
+chem_properties: Molecular Weight: 300.4 g/mol
+XLogP3: 3.6
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 300.208930132 Da
+Monoisotopic Mass: 300.208930132 Da
+Topological Polar Surface Area: 37.3
+Heavy Atom Count: 22
+Formal Charge: 0
+Complexity: 589
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 6
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

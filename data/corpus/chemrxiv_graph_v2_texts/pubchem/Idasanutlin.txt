@@ -1,0 +1,27 @@
+Name: Idasanutlin
+Text:
+Idasanutlin has been used in trials studying the treatment of Neoplasms, Non-Hodgkin's Lymphoma, Leukemia, Myeloid, Acute, Recurrent Plasma Cell Myeloma, and Neoplasms, Leukemia, Acute Myeloid Leukemia.
+Idasanutlin is an orally available, small molecule, antagonist of MDM2 (mouse double minute 2; Mdm2 p53 binding protein homolog), with potential antineoplastic activity. Idasanutlin binds to MDM2 blocking the interaction between the MDM2 protein and the transcriptional activation domain of the tumor suppressor protein p53. By preventing the MDM2-p53 interaction, p53 is not enzymatically degraded and the transcriptional activity of p53 is restored. This may lead to p53-mediated induction of tumor cell apoptosis. MDM2, a zinc finger nuclear phosphoprotein and negative regulator of the p53 pathway, is often overexpressed in cancer cells and has been implicated in cancer cell proliferation and survival.
+IDASANUTLIN is a small molecule drug with a maximum clinical trial phase of III (across all indications) and has 11 investigational indications.
+Properties:safety: Irritant
+smiles: CC(C)(C)C[C@H]1[C@]([C@H]([C@@H](N1)C(=O)NC2=C(C=C(C=C2)C(=O)O)OC)C3=C(C(=CC=C3)Cl)F)(C#N)C4=C(C=C(C=C4)Cl)F
+formula: C31H29Cl2F2N3O4
+chem_properties: Molecular Weight: 616.5 g/mol
+XLogP3: 4.3
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 8
+Exact Mass: 615.1503181 Da
+Monoisotopic Mass: 615.1503181 Da
+Topological Polar Surface Area: 111
+Heavy Atom Count: 42
+Formal Charge: 0
+Complexity: 1040
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

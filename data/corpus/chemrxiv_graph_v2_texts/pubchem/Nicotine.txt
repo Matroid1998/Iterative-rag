@@ -1,0 +1,35 @@
+Name: Nicotine
+Text:
+Nicotine can cause developmental toxicity according to state or federal government labeling requirements.
+Nicotine appears as a colorless to light yellow or brown liquid. Combustible. Toxic by inhalation and by skin absorption. Produces toxic oxides of nitrogen during combustion.
+(S)-nicotine is a 3-(1-methylpyrrolidin-2-yl)pyridine in which the chiral centre has S-configuration. The naturally occurring and most active enantiomer of nicotine, isolated from Nicotiana tabacum. It has a role as a phytogenic insecticide, a teratogenic agent, a neurotoxin, an anxiolytic drug, a nicotinic acetylcholine receptor agonist, a biomarker, an immunomodulator, a mitogen, a peripheral nervous system drug, a psychotropic drug, a plant metabolite and a xenobiotic. It is a conjugate base of a (S)-nicotinium(1+). It is an enantiomer of a (R)-nicotine.
+Nicotine is highly toxic alkaloid. It is the prototypical agonist at nicotinic cholinergic receptors where it dramatically stimulates neurons and ultimately blocks synaptic transmission. Nicotine is also important medically because of its presence in tobacco smoke.
+Nicotine is a Cholinergic Nicotinic Agonist.
+Nicotine is a natural alkyloid that is a major component of cigarettes and is used therapeutically to help with smoking cessation. Nicotine has not been associated with liver test abnormalities or with clinically apparent hepatotoxicity.
+Nicotine has been reported in Camellia sinensis, Senegalia berlandieri, and other organisms with data available.
+Nicotine is a plant alkaloid, found in the tobacco plant, and addictive central nervous system (CNS) stimulant that causes either ganglionic stimulation in low doses or ganglionic blockage in high doses. Nicotine acts as an agonist at the nicotinic cholinergic receptors in the autonomic ganglia, at neuromuscular junctions, and in the adrenal medulla and the brain. Nicotine's CNS-stimulating activities may be mediated through the release of several neurotransmitters, including acetylcholine, beta-endorphin, dopamine, norepinephrine, serotonin, and ACTH. As a result, peripheral vasoconstriction, tachycardia, and elevated blood pressure may be observed with nicotine intake. This agent may also stimulate the chemoreceptor trigger zone, thereby inducing nausea and vomiting.
+NICOTINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1984 and is indicated for nicotine dependence and has 30 investigational indications.
+Nicotine is highly toxic alkaloid. It is the prototypical agonist at nicotinic cholinergic receptors where it dramatically stimulates neurons and ultimately blocks synaptic transmission. Nicotine is also important medically because of its presence in tobacco smoke.
+See also: Nicotine Bitartrate (is active moiety of); Nicotine hydrochloride (is active moiety of); Tobacco Leaf (part of) ... View More ...
+Properties:safety: Acute Toxic and Environmental Hazard
+smiles: CN1CCC[C@H]1C2=CN=CC=C2
+formula: C10H14N2
+chem_properties: Molecular Weight: 162.23 g/mol
+XLogP3: 1.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 162.115698455 Da
+Monoisotopic Mass: 162.115698455 Da
+Topological Polar Surface Area: 16.1
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 147
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

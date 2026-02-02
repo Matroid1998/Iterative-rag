@@ -1,0 +1,34 @@
+Name: Norepinephrine
+Text:
+(R)-noradrenaline is the R-enantiomer of noradrenaline. It has a role as a vasoconstrictor agent, an alpha-adrenergic agonist, a sympathomimetic agent, a mouse metabolite and a neurotransmitter. It is a conjugate base of a (R)-noradrenaline(1+). It is an enantiomer of a (S)-noradrenaline.
+Precursor of epinephrine that is secreted by the adrenal medulla and is a widespread central and autonomic neurotransmitter. Norepinephrine is the principal transmitter of most postganglionic sympathetic fibers and of the diffuse projection system in the brain arising from the locus ceruleus. It is also found in plants and is used pharmacologically as a sympathomimetic.
+Norepinephrine is a Catecholamine.
+Norepinephrine has been reported in Solanum tuberosum, Glycine max, and other organisms with data available.
+l-Norepinephrine is a naturally occurring catecholamine hormone that functions as a neurotransmitter in the sympathetic nervous system. Norepinephrine directly stimulates adrenergic receptors. Stimulation of alpha-adrenergic receptors causes vasoconstriction of the radial smooth muscle of the iris, arteries, arterioles, veins, urinary bladder, and the sphincter of the gastrointestinal tract. Stimulation of beta-1 adrenergic receptors causes an increase in myocardial contractility, heart rate, automaticity, and atrioventricular (AV) conduction while stimulation of beta-2 adrenergic receptors causes bronchiolar and vascular smooth muscle dilatation.
+NOREPINEPHRINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) and has 5 approved and 19 investigational indications.
+Noradrenalin is a uremic toxin.  Uremic toxins can be subdivided into three major groups based upon their chemical and physical characteristics: 1) small, water-soluble, non-protein-bound compounds, such as urea; 2) small, lipid-soluble and/or protein-bound compounds, such as the phenols and 3) larger so-called middle-molecules, such as beta2-microglobulin. Chronic exposure of uremic toxins can lead to a number of conditions including renal damage, chronic kidney disease and cardiovascular disease. 
+Precursor of epinephrine that is secreted by the adrenal medulla and is a widespread central and autonomic neurotransmitter. Norepinephrine is the principal transmitter of most postganglionic sympathetic fibers and of the diffuse projection system in the brain arising from the locus ceruleus. It is also found in plants and is used pharmacologically as a sympathomimetic. [PubChem]
+Precursor of epinephrine that is secreted by the ADRENAL MEDULLA and is a widespread central and autonomic neurotransmitter. Norepinephrine is the principal transmitter of most postganglionic sympathetic fibers, and of the diffuse projection system in the brain that arises from the LOCUS CERULEUS. It is also found in plants and is used pharmacologically as a sympathomimetic.
+See also: Droxidopa (is active moiety of); Norepinephrine Bitartrate (active moiety of); Noradrenaline hydrochloride (is active moiety of) ... View More ...
+Properties:safety: Acute Toxic
+smiles: C1=CC(=C(C=C1[C@H](CN)O)O)O
+formula: C8H11NO3
+chem_properties: Molecular Weight: 169.18 g/mol
+XLogP3: -1.2
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 2
+Exact Mass: 169.07389321 Da
+Monoisotopic Mass: 169.07389321 Da
+Topological Polar Surface Area: 86.7
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 142
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

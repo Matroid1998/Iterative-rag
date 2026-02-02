@@ -1,0 +1,25 @@
+Name: Maleimide
+Text:
+Maleimide is a cyclic dicarboximide in which the two carboacyl groups on nitrogen together with the nitogen itself form a 1H-pyrrole-2,5-dione structure. It has a role as an EC 5.99.1.3 [DNA topoisomerase (ATP-hydrolysing)] inhibitor. It is a dicarboximide and a member of maleimides. It is functionally related to a maleic acid. It derives from a hydride of a 1H-pyrrole.
+Properties:safety: Corrosive and Acute Toxic and Irritant
+smiles: C1=CC(=O)NC1=O
+formula: C4H3NO2
+chem_properties: Molecular Weight: 97.07 g/mol
+XLogP3: -0.3
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 97.016378338 Da
+Monoisotopic Mass: 97.016378338 Da
+Topological Polar Surface Area: 46.2
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 132
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

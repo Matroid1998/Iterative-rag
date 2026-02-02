@@ -1,0 +1,23 @@
+Name: Cesium carbonate
+Text:
+Properties:safety: Corrosive and Irritant and Health Hazard
+smiles: C(=O)([O-])[O-].[Cs+].[Cs+]
+formula: CCs2O3
+chem_properties: Molecular Weight: 325.820 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 325.7956478 Da
+Monoisotopic Mass: 325.7956478 Da
+Topological Polar Surface Area: 63.2
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 18.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

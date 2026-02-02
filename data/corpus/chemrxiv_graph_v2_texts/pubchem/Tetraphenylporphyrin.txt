@@ -1,0 +1,25 @@
+Name: Tetraphenylporphyrin
+Text:
+Tetraphenylporphyrin is a meso-substituted porphyrin and a phenylporphyrin.
+Properties:safety: Irritant
+smiles: C1=CC=C(C=C1)C2=C3C=CC(=C(C4=NC(=C(C5=CC=C(N5)C(=C6C=CC2=N6)C7=CC=CC=C7)C8=CC=CC=C8)C=C4)C9=CC=CC=C9)N3
+formula: C44H30N4
+chem_properties: Molecular Weight: 614.7 g/mol
+XLogP3: 10.4
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 4
+Exact Mass: 614.24704697 Da
+Monoisotopic Mass: 614.24704697 Da
+Topological Polar Surface Area: 57.4
+Heavy Atom Count: 48
+Formal Charge: 0
+Complexity: 851
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

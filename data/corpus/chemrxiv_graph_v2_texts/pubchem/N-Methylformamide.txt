@@ -1,0 +1,28 @@
+Name: N-Methylformamide
+Text:
+N-methylformamide is a clear colorless liquid with a slight amine odor. (NTP, 1992)
+N-methylformamide is a member of the class of formamides having a N-methyl substituent. It is functionally related to a formamide.
+N-Methylformamide has been reported in Erythrophyllum delesserioides with data available.
+N-Methylformamide is a water-soluble organic solvent.  As an adjuvant antineoplastic agent, N-methylformamide depletes cellular glutathione, a key molecule involved in the antioxidation of reactive oxygen species (ROS) and other free radicals, thereby enhancing ionizing radiation-induced DNA cross-linking in and terminal differentiation of tumor cells. (NCI04)
+Properties:safety: Irritant and Health Hazard
+smiles: CNC=O
+formula: C2H5NO
+chem_properties: Molecular Weight: 59.07 g/mol
+XLogP3: -1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 59.037113783 Da
+Monoisotopic Mass: 59.037113783 Da
+Topological Polar Surface Area: 29.1
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 20
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

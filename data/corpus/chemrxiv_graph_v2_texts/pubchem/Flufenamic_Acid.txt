@@ -1,0 +1,28 @@
+Name: Flufenamic Acid
+Text:
+Flufenamic acid is an aromatic amino acid consisting of anthranilic acid carrying an N-(trifluoromethyl)phenyl substituent. An analgesic and anti-inflammatory, it is used in rheumatic disorders. It has a role as an EC 1.14.99.1 (prostaglandin-endoperoxide synthase) inhibitor, a non-steroidal anti-inflammatory drug, a non-narcotic analgesic and an antipyretic. It is an aromatic amino acid and an organofluorine compound. It is functionally related to a diphenylamine, an anthranilic acid and a (trifluoromethyl)benzene. It is a conjugate acid of a flufenamate.
+An anthranilic acid derivative with analgesic, anti-inflammatory, and antipyretic properties. It is used in musculoskeletal and joint disorders and administered by mouth and topically. (From Martindale, The Extra Pharmacopoeia, 30th ed, p16)
+FLUFENAMIC ACID is a small molecule drug with a maximum clinical trial phase of IV and is indicated for rheumatic disease.
+An anthranilic acid derivative with analgesic, anti-inflammatory, and antipyretic properties. It is used in musculoskeletal and joint disorders and administered by mouth and topically. (From Martindale, The Extra Pharmacopoeia, 30th ed, p16)
+Properties:safety: Acute Toxic and Irritant and Environmental Hazard
+smiles: C1=CC=C(C(=C1)C(=O)O)NC2=CC=CC(=C2)C(F)(F)F
+formula: C14H10F3NO2
+chem_properties: Molecular Weight: 281.23 g/mol
+XLogP3: 5.2
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 3
+Exact Mass: 281.06636305 Da
+Monoisotopic Mass: 281.06636305 Da
+Topological Polar Surface Area: 49.3
+Heavy Atom Count: 20
+Formal Charge: 0
+Complexity: 346
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

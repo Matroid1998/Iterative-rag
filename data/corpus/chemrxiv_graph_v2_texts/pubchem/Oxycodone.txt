@@ -1,0 +1,35 @@
+Name: Oxycodone
+Text:
+Oxycodone is a semisynthetic opioid of formula C18H21NO4 that is derived from thebaine. It is a moderately potent opioid analgesic, generally used for relief of moderate to severe pain. It has a role as an opioid analgesic, a mu-opioid receptor agonist and an antitussive. It is an organic heteropentacyclic compound and a semisynthetic derivative. It is functionally related to a thebaine. It is a conjugate base of an oxycodone(1+). It derives from a hydride of a morphinan.
+Oxycodone is a DEA Schedule II controlled substance. Substances in the DEA Schedule II have a high potential for abuse which may lead to severe psychological or physical dependence.
+Oxycodone is a semisynthetic opioid analgesic derived from thebaine in Germany in 1917. It is currently indicated as an immediate release product for moderate to severe pain and as an extended release product for chronic moderate to severe pain requiring continuous opioid analgesics for an extended period. The first oxycodone containing product, Percodan, was approved by the FDA on April 12, 1950.
+Oxycodone is an Opioid Agonist. The mechanism of action of oxycodone is as a Full Opioid Agonist.
+Oxycodone is a semisynthetic, moderately potent, orally available opioid that is widely used for acute or chronic management of moderate- or moderately severe pain either alone or in combination with acetaminophen. Oxycodone by itself has not been linked to serum enzyme elevations during therapy or to clinically apparent liver injury. However, the combination of oxycodone with acetaminophen has been linked to many cases of acute liver failure caused by unintentional overdose with acetaminophen.
+Oxycodone has been reported in Papaver somniferum with data available.
+Oxycodone is a semi-synthetic, morphine-like opioid alkaloid with analgesic activity. Oxycodone exerts its analgesic activity by binding to the mu-receptors in the central nervous system (CNS), thereby mimicking the effects of endogenous opioids. Binding of the opiate receptor stimulates the exchange of GTP for GDP on the G-protein complex and inhibits adenylate cyclase, thereby preventing cAMP production. Subsequently, the release of nociceptive neurotransmitters, such as substance P, gamma-aminobutyric acid (GABA), dopamine, acetylcholine, and noradrenaline, is inhibited. Oxycodone also inhibits the release of vasopressin, somatostatin, insulin, and glucagon. In addition, oxycodone closes N-type voltage-gated calcium channels and opens G-protein-coupled inwardly rectifying potassium channels resulting in hyperpolarization and reduction of neuronal excitability.
+OXYCODONE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1950 and has 4 approved and 29 investigational indications. This drug has a black box warning from the FDA.
+Oxycodone is only found in individuals that have used or taken this drug. It is a semisynthetic derivative of codeine that acts as a narcotic analgesic more potent and addicting than codeine. Oxycodone acts as a weak agonist at mu, kappa, and delta opioid receptors within the central nervous system (CNS). Oxycodone primarily affects mu-type opioid receptors, which are coupled with G-protein receptors and function as modulators, both positive and negative, of synaptic transmission via G-proteins that activate effector proteins. Binding of the opiate stimulates the exchange of GTP for GDP on the G-protein complex. As the effector system is adenylate cyclase and cAMP located at the inner surface of the plasma membrane, opioids decrease intracellular cAMP by inhibiting adenylate cyclase. Subsequently, the release of nociceptive neurotransmitters such as substance P, GABA, dopamine, acetylcholine, and noradrenaline is inhibited. Opioids such as oxycodone also inhibit the release of vasopressin, somatostatin, insulin, and glucagon. Opioids close N-type voltage-operated calcium channels (kappa-receptor agonist) and open calcium-dependent inwardly rectifying potassium channels (mu and delta receptor agonist). This results in hyperpolarization and reduced neuronal excitability.
+A semisynthetic derivative of CODEINE.
+See also: Oxycodone Hydrochloride (has salt form); Oxycodone Terephthalate (has salt form); Oxycodone hydrochloride trihydrate (is active moiety of) ... View More ...
+Properties:safety: Irritant and Health Hazard
+smiles: CN1CC[C@]23[C@@H]4C(=O)CC[C@]2([C@H]1CC5=C3C(=C(C=C5)OC)O4)O
+formula: C18H21NO4
+chem_properties: Molecular Weight: 315.4 g/mol
+XLogP3: 1.2
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 1
+Exact Mass: 315.14705815 Da
+Monoisotopic Mass: 315.14705815 Da
+Topological Polar Surface Area: 59
+Heavy Atom Count: 23
+Formal Charge: 0
+Complexity: 553
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

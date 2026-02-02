@@ -1,0 +1,27 @@
+Name: Pyrithione Zinc
+Text:
+Zinc pyrithione is a fine beige granules. (NTP, 1992)
+Pyrithione Zinc is a coordination complex of the zinc ion and pyrithione, a derivative of the naturally occurring antibiotic aspergillic acid with antimicrobial, antifungal and anti-seborrheic effects. Although the exact mechanism of action remains to be fully elucidated, pyrithione zinc appears to interfere with the membrane transport of ions and metabolites, ultimately leading to a loss of metabolic control. In addition, this agent causes an influx of copper, leading to a reduction in the activity of iron-sulphur proteins resulting in growth inhibition.
+Zinc pyrithione is a chemical compound of zinc. It is used as an antifungal and antibacterial agent. Zinc is a metallic element with the atomic number 30. It is found in nature most often as the mineral sphalerite. Though excess zinc in harmful, in smaller amounts it is an essential element for life, as it is a cofactor for over 300 enzymes and is found in just as many transcription factors. (L48, L49, L76)
+See also: Pyrithione (has active moiety); Pyrithione zinc; salicylic acid (component of); Biotin; pyrithione zinc (component of) ... View More ...
+Properties:safety: Corrosive and Acute Toxic and Health Hazard and Environmental Hazard
+smiles: C1=CC=[N+](C(=C1)[S-])[O-].C1=CC=[N+](C(=C1)[S-])[O-].[Zn+2]
+formula: C10H8N2O2S2Zn
+chem_properties: Molecular Weight: 317.7 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 2
+Exact Mass: 315.931862 Da
+Monoisotopic Mass: 315.931862 Da
+Topological Polar Surface Area: 52.9
+Heavy Atom Count: 17
+Formal Charge: 0
+Complexity: 183
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

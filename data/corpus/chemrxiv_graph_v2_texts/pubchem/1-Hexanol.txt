@@ -1,0 +1,31 @@
+Name: 1-Hexanol
+Text:
+Hexanols appears as a clear colorless liquid mixture of isomeric six-carbon alcohols with similar chemical properties. Vapors are heavier than air. Used to make pharmaceuticals and as a solvent.
+N-hexanol appears as a clear colorless liquid. Flash point 149 °F. Less dense than water and insoluble in water. Vapors heavier than air.
+Hexan-1-ol is a primary alcohol that is hexane substituted by a hydroxy group at position 1. It has a role as a plant metabolite, an antibacterial agent, a fragrance and an alarm pheromone. It is a primary alcohol and a hexanol.
+1-Hexanol has been reported in Magnolia officinalis, Pternistria bispina, and other organisms with data available.
+1-Hexanol is an organic alcohol with a six carbon chain and a condensed structural formula of CH3(CH2)5OH. This colorless liquid is slightly soluble in water, but miscible with ether and ethanol. Two additional straight chain isomers of 1-hexanol exist, 2-hexanol and 3-hexanol, both of which differ by the location of the hydroxyl group. Many isomeric alcohols have the formula C6H13OH. 1-hexanol is believed to be a component of the odour of freshly mown grass. It is used in the perfume industry.
+1-Hexanol is a metabolite found in or produced by Saccharomyces cerevisiae.
+See also: Alcohols, C6-9 (annotation moved to); (~13~C_6_)Hexan-1-ol (annotation moved to).
+Properties:safety: Irritant
+smiles: CCCCCCO
+formula: C6H14O
+chem_properties: Molecular Weight: 102.17 g/mol
+XLogP3: 2
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 4
+Exact Mass: 102.104465066 Da
+Monoisotopic Mass: 102.104465066 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 27.4
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,37 @@
+Name: Acetaldehyde
+Text:
+Acetaldehyde can cause cancer according to an independent committee of scientific and health experts.
+Acetaldehyde appears as a clear colorless liquid with a pungent choking odor. Flash point -36 °F. Boiling point 69 °F. Density 6.5 lb / gal. Vapors are heaver than air and irritate the mucous membranes and especially the eyes. Used to make other chemicals.
+Acetaldehyde is the aldehyde formed from acetic acid by reduction of the carboxy group. It is the most abundant carcinogen in tobacco smoke. It has a role as a human metabolite, an EC 3.5.1.4 (amidase) inhibitor, a carcinogenic agent, a mutagen, a teratogenic agent, an oxidising agent, an electron acceptor, a Saccharomyces cerevisiae metabolite, an Escherichia coli metabolite and a mouse metabolite.
+Acetaldehyde is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Aldehyde is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Acetaldehyde is mainly used as an intermediate in the synthesis of other chemicals. It is ubiquitous in the environment and may be formed in the body from the breakdown of ethanol. Acute (short-term) exposure to acetaldehyde results in effects including irritation of the eyes, skin, and respiratory tract. Symptoms of chronic (long-term) intoxication of acetaldehyde resemble those of alcoholism. Acetaldehyde is considered a probable human carcinogen (Group B2) based on inadequate human cancer studies and animal studies that have shown nasal tumors in rats and laryngeal tumors in hamsters.
+Acetaldehyde has been reported in Camellia sinensis, Tuber melanosporum, and other organisms with data available.
+Acetaldehyde is a widespread, naturally occurring, colorless and flammable liquid with a suffocating smell. Acetaldehyde is found in various plants, ripe fruits, vegetables, cigarette smoke, gasoline and diesel exhaust. This substance is widely used in the manufacture of acetic acid, perfumes, dyes and drugs, as a flavoring agent and as an intermediate in the metabolism of alcohol. Acute exposure to its vapors results in irritation of the eyes, skin, and respiratory tract. Acetaldehyde is reasonably anticipated to be a human carcinogen. (NCI05)
+Aldehyde is any organic compound containing a formyl (-CHO) group. Its functional group, with the structure R-CHO, consists of a carbonyl center bonded to hydrogen and an R group. Traces of various aldehydes are found in essential oils and often contribute to their odors.
+Acetaldehyde is a colorless, flammable liquid used in the manufacture of acetic acid, perfumes, and flavors. In the chemical industry, acetaldehyde is used as an intermediate in the production of acetic acid, certain esters, and a number of other chemicals. it is also an air pollutant resulting from combustion, such as automotive exhaust and tobacco smoke. It is also an intermediate in the metabolism of alcohol. It has a general narcotic action and also causes irritation of mucous membranes. Large doses may cause death from respiratory paralysis. Small amounts of acetaldehyde are produced naturally through gut microbial fermentation. Acetaldehyde is produced through the action of alcohol dehydrogenase on ethanol and is somewhate more toxic than ethanol. Acetaldehyde is linked to most of the negative clinical effects of alcohol. It has been shown to increase the risk of developing cirrhosis of the liver, multiple forms of cancer, and alcoholism.
+Acetaldehyde is a metabolite found in or produced by Saccharomyces cerevisiae.
+A colorless, flammable liquid used in the manufacture of acetic acid, perfumes, and flavors. It is also an intermediate in the metabolism of alcohol. It has a general narcotic action and also causes irritation of mucous membranes. Large doses may cause death from respiratory paralysis.
+See also: Arctium lappa Root (part of); Polyvinyl alcohol (40000 MW) (monomer of); Polyvinyl alcohol (100000 MW) (monomer of) ... View More ...
+Properties:safety: Flammable and Irritant and Health Hazard
+smiles: CC=O
+formula: C2H4O
+chem_properties: Molecular Weight: 44.05 g/mol
+XLogP3: -0.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 44.026214747 Da
+Monoisotopic Mass: 44.026214747 Da
+Topological Polar Surface Area: 17.1
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 10.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

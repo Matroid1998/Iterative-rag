@@ -1,0 +1,33 @@
+Name: Ethylbenzene
+Text:
+Ethylbenzene is a colorless, flammable liquid that smells like gasoline. It is found in natural products such as coal tar and petroleum and is also found in manufactured products such as inks, insecticides, and paints. Ethylbenzene is used primarily to make another chemical, styrene. Other uses include as a solvent, in fuels, and to make other chemicals.
+Ethylbenzene can cause cancer according to The World Health Organization's International Agency for Research on Cancer (IARC).
+Ethylbenzene appears as a clear colorless liquid with an aromatic odor. Flash point 59 °F. Less dense than water (at 7.2 lb / gal) and insoluble in water. Hence floats on water. Vapors heavier than air. Used as a solvent and to make other chemicals.
+Ethylbenzene is an alkylbenzene carrying an ethyl substituent. It is a constituent of coal tar and petroleum.
+Ethylbenzene is mainly used in the manufacture of styrene. Acute (short-term) exposure to ethylbenzene in humans results in respiratory effects, such as throat irritation and chest constriction, irritation of the eyes, and neurological effects such as dizziness. Chronic (long-term) exposure to ethylbenzene by inhalation in humans has shown conflicting results regarding its effects on the blood. Animal studies have reported effects on the blood, liver, and kidneys from chronic inhalation exposure to ethylbenzene. Limited information is available on the carcinogenic effects of ethylbenzene in humans. In a study by the National Toxicology Program (NTP), exposure to ethylbenzene by inhalation resulted in an increased incidence of kidney and testicular tumors in rats, and lung and liver tumors in mice. EPA has classified ethylbenzene as a Group D, not classifiable as to human carcinogenicity.
+Ethylbenzene has been reported in Basella alba, Oecophylla smaragdina, and other organisms with data available.
+Ethylbenzene is an aromatic hydrocarbon composed of a benzene ring linked to an ethyl group. Ethylbenzene is a constituent of petroleum and coal tar and is used as either a petroleum additive or a chemical intermediate in the production of polystyrene. High level exposure to airborne ethylbenzene is associated with eye and throat irritation.
+Ethylbenzene is an organic compound with the formula C6H5CH2CH3. This aromatic hydrocarbon is important in the petrochemical industry as an intermediate in the production of styrene, which in turn is used for making polystyrene, a commonly used plastic material. Although often present in small amounts in crude oil, ethylbenzene is produced in bulk quantities by combining benzene and ethylene in an acid-catalyzed chemical reaction. It is one ingredient of cigarette. The acute toxicity of ethylbenzene is low, with an LD50 of about 4 grams per kilogram of body weight. The longer term toxicity and carcinogenicity is ambiguous. Eye and throat sensitivity can occur when high level exposure to ethylbenzene in the air occurs. At higher level exposure, ethylbenzene can cause dizziness.
+See also: Aromatic Hydrocarbon (subclass of); Benzene, toluene, ethylbenzene and xylene (component of); Benzene, ethyl-, benzylated (annotation moved to) ... View More ...
+Properties:safety: Flammable and Irritant and Health Hazard
+smiles: CCC1=CC=CC=C1
+formula: C8H10
+chem_properties: Molecular Weight: 106.16 g/mol
+XLogP3: 3.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 1
+Exact Mass: 106.078250319 Da
+Monoisotopic Mass: 106.078250319 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 51.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

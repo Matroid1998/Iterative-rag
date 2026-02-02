@@ -1,0 +1,31 @@
+Name: Chlorpropamide
+Text:
+Chloropropamide is a white crystalline powder with a slight odor. (NTP, 1992)
+Chlorpropamide is an N-sulfonylurea that is urea in which a hydrogen attached to one of the nitrogens is substituted by 4-chlorobenzenesulfonyl group and a hydrogen attached to the other nitrogen is substituted by propyl group. Chlorpropamide is a hypoglycaemic agent used in the treatment of type 2 (non-insulin-dependent) diabetes mellitus not responding to dietary modification. It has a role as a hypoglycemic agent and an insulin secretagogue. It is a N-sulfonylurea and a member of monochlorobenzenes.
+Chlorpropamide is an oral antihyperglycemic agent used for the treatment of non-insulin-dependent diabetes mellitus (NIDDM). It belongs to the sulfonylurea class of insulin secretagogues, which act by stimulating β cells of the pancreas to release insulin. Sulfonylureas increase both basal insulin secretion and meal-stimulated insulin release. Medications in this class differ in their dose, rate of absorption, duration of action, route of elimination and binding site on their target pancreatic β cell receptor. Sulfonylureas also increase peripheral glucose utilization, decrease hepatic gluconeogenesis and may increase the number and sensitivity of insulin receptors. Sulfonylureas are associated with weight gain, though less so than insulin. Due to their mechanism of action, sulfonylureas may cause hypoglycemia and require consistent food intake to decrease this risk. The risk of hypoglycemia is increased in elderly, debilitated and malnourished individuals. Chlorpropamide is not recommended for the treatment of NIDDM as it increases blood pressure and the risk of retinopathy (UKPDS-33). Up to 80% of the single oral dose of chlorpropramide is metabolized, likely in the liver; 80-90% of the dose is excreted in urine as unchanged drug and metabolites. Renal and hepatic dysfunction may increase the risk of hypoglycemia.
+Chlorpropamide is a Sulfonylurea.
+Chlorpropamide is a long-acting, first-generation sulfonylurea with hypoglycemic activity. Compared to other sulfonylureas, chlorpropamide has an increased risk of prolonged hypoglycemia because of its long half-life.
+CHLORPROPAMIDE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1958 and is indicated for type 2 diabetes mellitus and diabetes mellitus.
+A sulfonylurea hypoglycemic agent used in the treatment of non-insulin-dependent diabetes mellitus not responding to dietary modification. (From Martindale, The Extra Pharmacopoeia, 30th ed, p277)
+Properties:safety: Irritant and Health Hazard
+smiles: CCCNC(=O)NS(=O)(=O)C1=CC=C(C=C1)Cl
+formula: C10H13ClN2O3S
+chem_properties: Molecular Weight: 276.74 g/mol
+XLogP3: 2.3
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 4
+Exact Mass: 276.0335411 Da
+Monoisotopic Mass: 276.0335411 Da
+Topological Polar Surface Area: 83.7
+Heavy Atom Count: 17
+Formal Charge: 0
+Complexity: 345
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

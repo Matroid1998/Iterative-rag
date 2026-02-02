@@ -1,0 +1,24 @@
+Name: Ethenesulfonyl fluoride
+Text:
+Properties:safety: Flammable and Corrosive and Acute Toxic and Irritant and Health Hazard
+smiles: C=CS(=O)(=O)F
+formula: C2H3FO2S
+chem_properties: Molecular Weight: 110.11 g/mol
+XLogP3: 0.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 1
+Exact Mass: 109.98377867 Da
+Monoisotopic Mass: 109.98377867 Da
+Topological Polar Surface Area: 42.5
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 128
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,32 @@
+Name: Capsaicin
+Text:
+Capsaicin is a capsaicinoid. It has a role as a non-narcotic analgesic, a voltage-gated sodium channel blocker and a TRPV1 agonist.
+Capsaicin is most often used as a topical analgesic and exists in many formulations of cream, liquid, and patch preparations of various strengths; however, it may also be found in some dietary supplements. Capsaicin is a naturally-occurring botanical irritant in chili peppers, synthetically derived for pharmaceutical formulations. The most recent capsaicin FDA approval was Qutenza, an 8% capsaicin patch dermal-delivery system, indicated for neuropathic pain associated with post-herpetic neuralgia.
+Capsaicin has been reported in Capsicum pubescens, Capsicum annuum, and Capsicum with data available.
+Capsaicin is a chili pepper extract with analgesic properties.  Capsaicin is a neuropeptide releasing agent selective for primary sensory peripheral neurons.  Used topically, capsaicin aids in controlling peripheral nerve pain.  This agent has been used experimentally to manipulate substance P and other tachykinins.  In addition, capsaicin may be useful in controlling chemotherapy- and radiotherapy-induced mucositis.
+CAPSAICIN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2009 and has 12 approved and 27 investigational indications.
+Capsaicin is identified as the primary pungent principle in Capsicum fruits. Hot chili peppers that belong to the plant genus Capsicum (family Solanaceae) are among the most heavily consumed spices throughout the world. The capsaicin content of green and red peppers ranges from 0.1 to 1%. Capsaicin evokes numerous biological effects and thus has been the target of extensive., investigations since its initial identification in 1919. One of the most recognized physiological properties of capsaicin is its selective effects on the peripheral part of the sensory nervous system, particularly on the primary afferent neurons. The compound is known to deplete the neurotransmitter of painful impulses known as substance P from the sensory nerve terminals, which provides a rationale for its use as a versatile experimental tool for studying pain mechanisms and also for pharmacotherapy to treat some peripheral painful states, such as rheumatoid arthritis, post-herpetic neuralgia, post-mastectomy pain syndrome and diabetic neuropathy. Considering the frequent consumption of capsaicin as a food additive and its current therapeutic application, correct assessment of any harmful effects of this compound is important from the public health standpoint. Ingestion of large amounts of capsaicin has been reported to cause histopathological and biochemical changes, including erosion of gastric mucosa and hepatic necrosis. However, there are contradictory data on the mutagenicity of capsaicin. A recent epidemiological study conducted in Mexico revealed that consumers of chili pepper were at higher risk for gastric cancer than non-consumers. However, it remains unclear whether capsaicin present in hot chili pepper is a major causative factor in the aetiology of gastric cancer in humans. A growing number of recent studies have focused on anticarcinogenic or antimutagenic phytochemicals, particularly those included in human diet. In summary, capsaicin has dual effects on chemically induced carcinogenesis and mutagenesis. Although a minute amount of capsaicin displays few or no deleterious effects, heavy ingestion of the compound has been associated with necrosis, ulceration and even carcinogenesis. Capsaicin is considered to be metabolized by cytochrome P-450-dependent mixed-function oxidases to reactive species. (A7835).
+An alkylamide found in CAPSICUM that acts at TRPV CATION CHANNELS.
+See also: Capsicum Oleoresin (active moiety of); Capsicum (part of); Paprika (part of) ... View More ...
+Properties:safety: Corrosive and Acute Toxic and Irritant
+smiles: CC(C)/C=C/CCCCC(=O)NCC1=CC(=C(C=C1)O)OC
+formula: C18H27NO3
+chem_properties: Molecular Weight: 305.4 g/mol
+XLogP3: 3.6
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 9
+Exact Mass: 305.19909372 Da
+Monoisotopic Mass: 305.19909372 Da
+Topological Polar Surface Area: 58.6
+Heavy Atom Count: 22
+Formal Charge: 0
+Complexity: 341
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

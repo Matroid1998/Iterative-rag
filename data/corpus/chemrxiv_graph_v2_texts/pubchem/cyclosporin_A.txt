@@ -1,0 +1,34 @@
+Name: cyclosporin A
+Text:
+Ciclosporin (Cyclosporin A; Cyclosporine) can cause cancer according to The World Health Organization's International Agency for Research on Cancer (IARC).
+Cyclosporin a appears as white prismatic needles (from acetone) or white powder. (NTP, 1992)
+Cyclosporin A is a cyclic nonribosomal peptide of eleven amino acids; an immunosuppressant drug widely used in post-allogeneic organ transplant to reduce the activity of the patient's immune system, and therefore the risk of organ rejection. Also causes reversible inhibition of immunocompetent lymphocytes in the G0- and G1-phase of the cell cycle. It has a role as an antifungal agent, an antirheumatic drug, a dermatologic drug, an immunosuppressive agent, a metabolite, a carcinogenic agent, an anti-asthmatic drug, an EC 3.1.3.16 (phosphoprotein phosphatase) inhibitor, an anticoronaviral agent and a geroprotector.
+Cyclosporine is a calcineurin inhibitor known for its immunomodulatory properties that prevent organ transplant rejection and treat various inflammatory and autoimmune conditions. It is isolated from the fungus Beauveria nivea. Initially manufactured by Sandoz and approved for use by the FDA in 1983, cyclosporine is now available in various products by Novartis (previously known as Sandoz).
+Cyclosporine is a Calcineurin Inhibitor Immunosuppressant. The mechanism of action of cyclosporine is as a Calcineurin Inhibitor, and Cytochrome P450 3A4 Inhibitor, and P-Glycoprotein Inhibitor.
+Cyclosporine is a calcineurin inhibitor and potent immunosuppressive agent used largely as a means of prophylaxis against cellular rejection after solid organ transplantation. Cyclosporine therapy can be associated with mild elevations in serum bilirubin and transient serum enzyme elevations, and to rare instances of clinically apparent cholestatic liver injury.
+Ciclosporin has been reported in Trichoderma polysporum and Tolypocladium inflatum with data available.
+Cyclosporine is a natural cyclic polypeptide immunosuppressant isolated from the fungus Beauveria nivea. The exact mechanism of action of cyclosporine is not known but may involve binding to the cellular protein cytophilin, resulting in inhibition of the enzyme calcineurin. This agent appears to specifically and reversibly inhibit immunocompetent lymphocytes in the G0-or G1-phase of the cell cycle. T-lymphocytes are preferentially inhibited with T-helper cells as the primary target. Cyclosporine also inhibits lymphokine production and release. (NCI04)
+CYCLOSPORINE is a Protein drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1983 and has 7 approved and 122 investigational indications. This drug has a black box warning from the FDA.
+A cyclic undecapeptide from an extract of soil fungi. It is a powerful immunosupressant with a specific action on T-lymphocytes. It is used for the prophylaxis of graft rejection in organ and tissue transplantation. (From Martindale, The Extra Pharmacopoeia, 30th ed).
+Properties:safety: Irritant and Health Hazard
+smiles: CC[C@H]1C(=O)N(CC(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N1)[C@@H]([C@H](C)C/C=C/C)O)C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C
+formula: C62H111N11O12
+chem_properties: Molecular Weight: 1202.6 g/mol
+XLogP3: 7.5
+Hydrogen Bond Donor Count: 5
+Hydrogen Bond Acceptor Count: 12
+Rotatable Bond Count: 15
+Exact Mass: 1201.84136802 Da
+Monoisotopic Mass: 1201.84136802 Da
+Topological Polar Surface Area: 279
+Heavy Atom Count: 85
+Formal Charge: 0
+Complexity: 2330
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 12
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

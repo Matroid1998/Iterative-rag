@@ -1,0 +1,32 @@
+Name: Vinyl Chloride
+Text:
+Vinyl chloride is a colorless gas. It burns easily and it is not stable at high temperatures. It has a mild, sweet odor. It is a manufactured substance that does not occur naturally. It can be formed when other substances such as trichloroethane, trichloroethylene, and tetrachloroethylene are broken down. Vinyl chloride is used to make polyvinyl chloride (PVC). PVC is used to make a variety of plastic products, including pipes, wire and cable coatings, and packaging materials. Vinyl chloride is also known as chloroethene, chloroethylene, and ethylene monochloride.
+Vinyl chloride can cause cancer according to California Labor Code.
+Vinyl chloride appears as a colorless gas with a sweet odor. Easily ignited. Shipped as a liquefied gas under own vapor pressure. Contact with the unconfined liquid may cause frostbite by evaporative cooling. Leaks may be liquid or vapor. Vapors are heavier than air. May asphyxiate by the displacement of air. Under prolonged exposure to fire or intense heat the containers may rupture violently and rocket. Suspected carcinogen. Used to make plastics, adhesives, and other chemicals.
+Chloroethene is a monohaloethene that is ethene in which one of the hydrogens has been replaced by a chloro group. It has a role as a carcinogenic agent. It is a member of chloroethenes, a monohaloethene and a gas molecular entity.
+Vinyl Chloride is a chlorinated hydrocarbon occurring as a colorless, highly flammable gas with a mild, sweet odor that may emit toxic fumes of carbon dioxide, carbon monoxide, hydrogen chloride and phosgene when heated to decomposition. Vinyl chloride is primarily used to make polyvinyl chloride to manufacture plastics. Exposure to this substance affects the central and peripheral nervous system and causes liver damage. Prolonged exposure to vinyl chloride can cause a set of symptoms that is characterized by Raynaud's phenomenon, joint and muscle pain and scleroderma-like skin changes. Vinyl chloride is a known human carcinogen and is associated with an increased risk of developing liver cancer, predominantly angiosarcoma of the liver, but is also linked to brain and lung cancer as well as cancer of the lymphatic and hematopoietic system. (NCI05)
+Vinyl chloride is a man-made organic compound, formed when other substances such as trichloroethane, trichloroethylene, and tetrachloroethylene are broken down. In its monomer form it is acutely hazardous, thus it is primarily used for the production of polymers. At room temperature it is a flammable, colorless gas with a sweet odor, but it is easily condensed and usually stored as a liquid. It is one ingredient of cigarette.(L3)
+A gas that has been used as an aerosol propellant and is the starting material for polyvinyl resins. Toxicity studies have shown various adverse effects, particularly the occurrence of liver neoplasms.
+See also: Poly(vinyl chloride) (related).
+Properties:safety: Flammable and Health Hazard
+smiles: C=CCl
+formula: C2H3Cl
+chem_properties: Molecular Weight: 62.50 g/mol
+XLogP3: 1.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 61.9923278 Da
+Monoisotopic Mass: 61.9923278 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 10.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

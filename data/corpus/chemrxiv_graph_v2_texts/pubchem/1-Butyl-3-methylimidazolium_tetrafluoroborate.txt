@@ -1,0 +1,23 @@
+Name: 1-Butyl-3-methylimidazolium tetrafluoroborate
+Text:
+Properties:safety: Acute Toxic and Irritant and Environmental Hazard
+smiles: [B-](F)(F)(F)F.CCCCN1C=C[N+](=C1)C
+formula: C8H15BF4N2
+chem_properties: Molecular Weight: 226.03 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 3
+Exact Mass: 226.1264413 Da
+Monoisotopic Mass: 226.1264413 Da
+Topological Polar Surface Area: 8.8
+Heavy Atom Count: 15
+Formal Charge: 0
+Complexity: 112
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

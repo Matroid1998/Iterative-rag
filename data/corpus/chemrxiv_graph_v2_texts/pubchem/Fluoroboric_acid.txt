@@ -1,0 +1,25 @@
+Name: Fluoroboric acid
+Text:
+Fluoroboric acid appears as a colorless odorless poisonous liquid. Corrosive to metals and tissue. It is used in electroplating, metal cleaning and making diazo salts.
+Tetrafluoroboric acid is a boron fluoride. It is a conjugate acid of a tetrafluoroborate(1-).
+Properties:safety: Corrosive
+smiles: [H+].[B-](F)(F)(F)F
+formula: BF4.H
+chem_properties: Molecular Weight: 87.82 g/mol
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 0
+Exact Mass: 88.0107428 Da
+Monoisotopic Mass: 88.0107428 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 19.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

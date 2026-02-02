@@ -1,0 +1,33 @@
+Name: Clobazam
+Text:
+Clobazam is 7-Chloro-1H-1,5-benzodiazepine-2,4(3H,5H)-dione in which the hydrogen attached to the nitrogen at position 1 is substituted by a methyl group, whilst that attached to the other nitrogen is substituted by a phenyl group. It is used for the short-term management of acute anxiety and as an adjunct in the treatment of epilepsy in association with other antiepileptics. It has a role as an anticonvulsant, an anxiolytic drug and a GABA modulator. It is a 1,4-benzodiazepinone and an organochlorine compound.
+Clobazam is a DEA Schedule IV controlled substance. Substances in the DEA Schedule IV have a low potential for abuse relative to substances in Schedule III. It is a Depressants substance.
+Clobazam belongs to the 1,5-benzodiazepine class of drugs and is marketed under different names, Onfi, Frisium, Urbanyl, and others.. Clobazam was first synthesized in 1966 and first published in 1969, following the incidental synthesis and discovery of the first benzodiazepine chlordiazepoxide in the 1950s. Unlike older 1,4-benzodiazepines, clobazam has a better side-effects profile, particularly less sedative and amnesic effects. This is likely because of clobazam's higher affinity to the α2 subunit of the GABAA receptor, which mediates anxiolytic effects, than the α1 subunit, which mediates sedative effect. Additionally, clobazam is believed to be a partial agonist to the GABAA receptor rather than non-selective full receptor agonists like 1,4-benzodiazepines, thus potentially explaining the decreased incidence of sedative effects.  Clobazam has been marketed as an anxiolytic since 1975 and an anticonvulsant since 1984. In October 21, 2011, the FDA approved clobazam as an adjunctive treatment for seizures associated with Lennox-Gastaut syndrome in adults and children aged two years and older. In 2005, clobazam also received approval from Health Canada as an add-on therapy for generalized tonic-clonic, myoclonic, and focal impaired awareness seizures.
+Clobazam is a Benzodiazepine. The mechanism of action of clobazam is as a Cytochrome P450 2D6 Inhibitor, and Cytochrome P450 3A4 Inducer.
+Clobazam is a benzodiazepine that is used as an anticonvulsant in the therapy of severe childhood epilepsy. Therapy with clobazam has not been associated with serum aminotransferase elevations, and clinically apparent liver injury from clobazam has yet to be reported and must be rare, if it occurs at all.
+Clobazam is a 1,5-benzodiazepine and partial gamma-aminobutyric acid (GABA) receptor agonist, with anxiolytic, sedative, and anticonvulsant activities. Clobazam binds to a specific site, distinct from the inhibitory neurotransmitter GABA binding site, on the benzodiazepine-GABA-A-chloride ionophore receptor complex located in the central nervous system (CNS). This binding causes an allosteric modification of the receptor and enhances the affinity of GABA to the receptor leading to an increase in the opening of chloride-channels. This leads to an increase in chloride ion conductance, neuronal hyperpolarization, inhibition of the action potential and a decrease in neuronal excitability.
+CLOBAZAM is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2005 and has 3 approved and 8 investigational indications. This drug has a black box warning from the FDA.
+Clobazam belongs to the 1,5-benzodiazepine class of drugs and is expected to have a better side-effect profile compared to older 1,4-benzodiazepines. It has been marketed as an anxiolytic since 1975 and an anticonvulsant since 1984. The oral preparation was FDA approved on October 21, 2011. An oral suspension is expected to be available in 2013.
+A benzodiazepine derivative that is a long-acting GABA-A RECEPTOR agonist. It is used as an antiepileptic in the treatment of SEIZURES, including seizures associated with LENNOX-GASTAUT SYNDROME. It is also used as an anxiolytic, for the short-term treatment of acute ANXIETY.
+Properties:safety: Irritant and Health Hazard
+smiles: CN1C(=O)CC(=O)N(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3
+formula: C16H13ClN2O2
+chem_properties: Molecular Weight: 300.74 g/mol
+XLogP3: 2.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 300.0665554 Da
+Monoisotopic Mass: 300.0665554 Da
+Topological Polar Surface Area: 40.6
+Heavy Atom Count: 21
+Formal Charge: 0
+Complexity: 423
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

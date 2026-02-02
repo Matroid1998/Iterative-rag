@@ -1,0 +1,34 @@
+Name: Clotrimazole
+Text:
+Clotrimazole is a member of the class of imidazoles that is 1H-imidazole in which the hydrogen attached to a nitrogen is replaced by a monochlorotrityl group. It has a role as an antiinfective agent, an environmental contaminant and a xenobiotic. It is a member of imidazoles, a member of monochlorobenzenes, a conazole antifungal drug and an imidazole antifungal drug.
+This drug is a broad spectrum antimycotic or antifungal agent. Clotrimazole's antimycotic properties were discovered in the late 1960s. Clotrimazole falls under the imidazole category of azole antifungals, possessing broad-spectrum antimycotic activity.  It is available in various preparations, including creams, pessaries, and troche formulations (slowly dissolving tablets).  As well as its antifungal activity, clotrimazole has become a drug of interest in treating several other diseases such as sickle cell disease, malaria and some cancers.  The minimal side effect profile of this drug and its uncomplicated metabolic profile have led it to gain widespread acceptance for the treatment of mycotic outbreaks such as vaginal yeast infections as well as athlete's foot.
+Clotrimazole is an Azole Antifungal.
+Clotrimazole is an imidazole antifungal agent used primarily in the treatment of skin, oral and vaginal candida infections. Clotrimazole is typically given topically or as oral or vaginal troches and has only modest systemic absorption. Nevertheless, clotrimazole given orally or as troches has been associated with transient and asymptomatic serum aminotransferase elevations during therapy, but it has not been linked to instances of clinically apparent acute liver injury.
+Clotrimazole has been reported in Aspergillus banksianus and Talaromyces stipitatus with data available.
+Clotrimazole is a synthetic, imidazole derivate with broad-spectrum, antifungal activity. Clotrimazole inhibits biosynthesis of sterols, particularly ergosterol, an essential component of the fungal cell membrane, thereby damaging and affecting the permeability of the cell membrane. This results in leakage and loss of essential intracellular compounds, and eventually causes cell lysis.
+CLOTRIMAZOLE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1975 and has 7 approved and 8 investigational indications.
+Clotrimazole is an imidazole derivative with a broad spectrum of antimycotic activity. It inhibits biosynthesis of the sterol ergostol, an important component of fungal cell membranes. Its action leads to increased membrane permeability and apparent disruption of enzyme systems bound to the membrane. There is the potential for drug interactions with Clotrimazole if taken orally, as it is a potent, specific inhibitor of cytochrome P450 oxidase enzymes and so may alter the metabolism of other drugs. Clotrimazole is an antifungal medication commonly used in the treatment of fungal infections of both humans and animals such as vaginal yeast infections and ringworm. An imidazole derivative with a broad spectrum of antimycotic activity. It inhibits biosynthesis of the sterol ergostol, an important component of fungal cell membranes. Its action leads to increased membrane permeability and apparent disruption of enzyme systems bound to the membrane. Clotrimazole is a potent, specific inhibitor of cytochrome P450 oxidase enzymes. Hence, it may alter the metabolism of other drugs particularly if taken orally. Clotrimazole is an antifungal medication commonly used in the treatment of fungal infections of both humans and animals such as vaginal yeast infections and ringworm. It also used to treat athlete's foot and jock itch.
+An imidazole derivative with a broad spectrum of antimycotic activity. It inhibits biosynthesis of the sterol ergostol, an important component of fungal CELL MEMBRANES. Its action leads to increased membrane permeability and apparent disruption of enzyme systems bound to the membrane.
+See also: Betamethasone Dipropionate; Clotrimazole (component of) ... View More ...
+Properties:safety: Acute Toxic and Irritant and Health Hazard and Environmental Hazard
+smiles: C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3Cl)N4C=CN=C4
+formula: C22H17ClN2
+chem_properties: Molecular Weight: 344.8 g/mol
+XLogP3: 5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 4
+Exact Mass: 344.1080262 Da
+Monoisotopic Mass: 344.1080262 Da
+Topological Polar Surface Area: 17.8
+Heavy Atom Count: 25
+Formal Charge: 0
+Complexity: 396
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

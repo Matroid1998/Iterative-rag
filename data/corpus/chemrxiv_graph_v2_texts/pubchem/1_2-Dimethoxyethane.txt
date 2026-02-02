@@ -1,0 +1,27 @@
+Name: 1,2-Dimethoxyethane
+Text:
+1,2-dimethoxyethane appears as a liquid with a sharp odor. Less dense than water. Flash point 34 °F. Mildly toxic by ingestion and inhalation. Severely irritates skin and eyes. Vapors heavier than air. Used to make other chemicals.
+1,2-dimethoxyethane is a diether that is the 1,2-dimethyl ether of ethane-1,2-diol. It has a role as a non-polar solvent. It is functionally related to an ethylene glycol.
+See also:  ... View More ...
+Properties:safety: Flammable and Irritant and Health Hazard
+smiles: COCCOC
+formula: C4H10O2
+chem_properties: Molecular Weight: 90.12 g/mol
+XLogP3: -0.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 3
+Exact Mass: 90.068079557 Da
+Monoisotopic Mass: 90.068079557 Da
+Topological Polar Surface Area: 18.5
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 17.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,30 @@
+Name: Potassium Cyanide
+Text:
+Potassium cyanide appears as white amorphous lumps or a crystalline mass with a faint odor of bitter almonds. Density 1.52 g / cm3 Toxic by skin absorption through open wounds, by ingestion. Heating to decomposition produces toxic fumes. Used for gold and silver extraction, in chemical analysis, to make other chemicals, and as an insecticide.
+Potassium cyanide solution is a clear colorless aqueous solution with a faint odor of bitter almonds. Can contain up to 50 g of potassium cyanide per 100 g of water at room temperature.
+Potassium cyanide is a cyanide salt containing equal numbers of potassium cations and cyanide anions. It has a role as an EC 1.9.3.1 (cytochrome c oxidase) inhibitor, an EC 1.15.1.1 (superoxide dismutase) inhibitor and a neurotoxin. It is a cyanide salt, a one-carbon compound and a potassium salt.
+Potassium Cyanide is a synthetic cyanide salt and potassium salt that is a neurotoxin and cytochrome c oxidase and superoxide dismutase inhibitor. It is used in many industrial processes, including as a pesticide, and is characterized as a white crystalline solid that is odorless or has a faint bitter almond odor. Exposure occurs by inhalation, ingestion, or contact.
+Potassium cyanide is a chemical compound of potassium and cyanide. It has been used in gold mining, organic synthesis, and electroplating. (L102)
+A highly poisonous compound that is an inhibitor of many metabolic processes, but has been shown to be an especially potent inhibitor of heme enzymes and hemeproteins. It is used in many industrial processes.
+See also: Potassium cyanide solution (narrower).
+Properties:safety: Corrosive and Acute Toxic and Irritant and Health Hazard and Environmental Hazard
+smiles: [C-]#N.[K+]
+formula: CKN
+chem_properties: Molecular Weight: 65.116 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 64.96678049 Da
+Monoisotopic Mass: 64.96678049 Da
+Topological Polar Surface Area: 23.8
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 12.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,27 @@
+Name: Benzylamine
+Text:
+Benzylamine is a colorless to light yellow liquid with a strong odor of ammonia. Floats and mixes with water. (USCG, 1999)
+Benzylamine is a primary amine compound having benzyl as the N-substituent. It has been isolated from Moringa oleifera (horseradish tree). It has a role as an EC 3.5.5.1 (nitrilase) inhibitor, a plant metabolite and an allergen. It is a primary amine and an aralkylamine. It is a conjugate base of a benzylaminium.
+Benzylamine has been reported in Reseda media and Peucedanum palustre with data available.
+Properties:safety: Corrosive and Irritant
+smiles: C1=CC=C(C=C1)CN
+formula: C7H9N
+chem_properties: Molecular Weight: 107.15 g/mol
+XLogP3: 1.1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 1
+Exact Mass: 107.073499291 Da
+Monoisotopic Mass: 107.073499291 Da
+Topological Polar Surface Area: 26
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 55.4
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

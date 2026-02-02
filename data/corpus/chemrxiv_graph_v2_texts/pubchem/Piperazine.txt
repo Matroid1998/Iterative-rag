@@ -1,0 +1,31 @@
+Name: Piperazine
+Text:
+Needle-like white or colorless crystals. Shipped as a solid or suspended in a liquid medium. Very corrosive to skin, eyes and mucous membranes. Solid turns dark when exposed to light. Flash point 190 °F. Used as a corrosion inhibitor and as an insecticide.
+Piperazine is an azacycloalkane that consists of a six-membered ring containing two nitrogen atoms at opposite positions. It has a role as an anthelminthic drug. It is a saturated organic heteromonocyclic parent, an azacycloalkane and a member of piperazines. It is a conjugate base of a piperazinium(2+).
+Piperazine is an organic compound that consists of a six-membered ring containing two opposing nitrogen atoms. First used as a solvent for uric acid, the use of piperazine as an anthelmintic agent was first introduced in 1953. Upon entry into the systemic circulation, the drug is partly oxidized and partly eliminated as an unchanged compound. Outside the body, piperazine has a remarkable power to dissolve uric acid and producing a soluble urate, but in clinical experience it has not proved equally successful. Piperazine was first introduced as an anthelmintic in 1953. Piperazine compounds mediate their anthelmintic action by generally paralyzing parasites, allowing the host body to easily remove or expel the invading organism.
+Piperazine is a cyclic organic compound possessing two nitrogen atoms in opposite positions within a 6-member heterocyclic ring that serves as a backbone for piperazine derivatives and acts as a gamma-amino-butyric acid (GABA) receptor agonist in nematodes, with potential anti-helminthic activity. Upon administration, piperazine binds to the GABA inhibitory receptors in susceptible nematodes, thereby inducing chloride channel opening and hyperpolarization. This results in paralysis of the worm musculature and allows normal peristalsis to dislodge the worm from the intestinal lumen, which causes the worm to be expelled from the body. Unlike vertebrates where GABA is restricted to the central nervous system (CNS), the GABA receptors in helminths are also expressed in the peripheral nervous system.
+PIPERAZINE is a small molecule drug with a maximum clinical trial phase of IV and is indicated for helminthiasis. It was withdrawn in at least one region.
+An anti-nematodal agent effective against the intestinal nematodes ASCARIS LUMBRICOIDES (roundworm) and ENTEROBIUS VERMICULARIS (pinworm, threadworm). It produces a neuromuscular block leading to flaccid muscle paralysis in susceptible worms, which are then dislodged from the gut and expelled in feces.
+See also: Piperazine Citrate (has salt form); Piperazine Dihydrochloride (has salt form); Piperazine Adipate (has salt form) ... View More ...
+Properties:safety: Corrosive and Health Hazard
+smiles: C1CNCCN1
+formula: C4H10N2
+chem_properties: Molecular Weight: 86.14 g/mol
+XLogP3: -1.5
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 86.084398327 Da
+Monoisotopic Mass: 86.084398327 Da
+Topological Polar Surface Area: 24.1
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 26.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

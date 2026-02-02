@@ -1,0 +1,28 @@
+Name: Piperidine
+Text:
+Piperidine appears as a clear colorless liquid with a pepper-like odor. Less dense than water, but miscible in water. Will float on water. Flash point 37 °F. Melting point -15.8 °F (-9 °C). Boiling point 222.8 °F (106 °C). May severely irritate skin and eyes. May be toxic by ingestion and inhalation. Vapors heavier than air. Used to make rubber and as a solvent.
+Piperidine is an azacycloalkane that is cyclohexane in which one of the carbons is replaced by a nitrogen. It is a metabolite of cadaverine, a polyamine found in the human intestine. It has a role as a reagent, a protic solvent, a base, a catalyst, a plant metabolite, a human metabolite and a non-polar solvent. It is a saturated organic heteromonocyclic parent, an azacycloalkane, a secondary amine and a member of piperidines. It is a conjugate base of a piperidinium.
+Piperidine has been reported in Cannabis sativa, Euglena gracilis, and other organisms with data available.
+Piperidine is a metabolite found in or produced by Saccharomyces cerevisiae.
+Properties:safety: Flammable and Corrosive and Acute Toxic
+smiles: C1CCNCC1
+formula: C5H11N
+chem_properties: Molecular Weight: 85.15 g/mol
+XLogP3: 0.8
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 85.089149355 Da
+Monoisotopic Mass: 85.089149355 Da
+Topological Polar Surface Area: 12
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 30.9
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,27 @@
+Name: Indole
+Text:
+1H-indole is an indole and a polycyclic heteroarene. It has a role as an Escherichia coli metabolite. It is a tautomer of a 3H-indole.
+Indole is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Indole has been reported in Tetrastigma hemsleyanum, Daphne odora, and other organisms with data available.
+Properties:safety: Corrosive and Acute Toxic and Irritant
+smiles: C1=CC=C2C(=C1)C=CN2
+formula: C8H7N
+chem_properties: Molecular Weight: 117.15 g/mol
+XLogP3: 2.1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 117.057849228 Da
+Monoisotopic Mass: 117.057849228 Da
+Topological Polar Surface Area: 15.8
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 101
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

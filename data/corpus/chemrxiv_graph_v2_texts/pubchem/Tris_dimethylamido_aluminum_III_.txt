@@ -1,0 +1,23 @@
+Name: Tris(dimethylamido)aluminum(III)
+Text:
+Properties:safety: Flammable and Corrosive
+smiles: CN(C)[Al](N(C)C)N(C)C.CN(C)[Al](N(C)C)N(C)C
+formula: C12H36Al2N6
+chem_properties: Molecular Weight: 318.42 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 6
+Exact Mass: 318.263222 Da
+Monoisotopic Mass: 318.263222 Da
+Topological Polar Surface Area: 19.4
+Heavy Atom Count: 20
+Formal Charge: 0
+Complexity: 74
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,27 @@
+Name: Dichlorprop
+Text:
+Yellowish to colorless solid. Soluble in organic solvents. Used as an herbicide.
+2-(2,4-dichlorophenoxy)propanoic acid is an aromatic ether that is 2-hydroxypropanoic acid in which the hydroxy group at position 2 has been converted to its 2,4-dichlorophenyl ether. It is a monocarboxylic acid, an aromatic ether and a dichlorobenzene.
+Dichlorprop is a chlorophenoxy herbicide similar in structure to 2,4-D that is used to kill annual and perennial broadleaf weeds. It is a component of many common weedkillers. About 4 million pounds of dichlorprop are used annually in the United States. (L369)
+Properties:safety: Corrosive and Irritant
+smiles: CC(C(=O)O)OC1=C(C=C(C=C1)Cl)Cl
+formula: C9H8Cl2O3
+chem_properties: Molecular Weight: 235.06 g/mol
+XLogP3: 3.4
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 3
+Exact Mass: 233.9850495 Da
+Monoisotopic Mass: 233.9850495 Da
+Topological Polar Surface Area: 46.5
+Heavy Atom Count: 14
+Formal Charge: 0
+Complexity: 210
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

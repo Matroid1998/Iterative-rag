@@ -1,0 +1,36 @@
+Name: Rifampin
+Text:
+Rifampin can cause developmental toxicity and female reproductive toxicity according to state or federal government labeling requirements.
+Rifampicin is a member of the class of rifamycins that is a a semisynthetic antibiotic derived from Amycolatopsis rifamycinica (previously known as Amycolatopsis mediterranei and Streptomyces mediterranei). It has a role as an EC 2.7.7.6 (RNA polymerase) inhibitor, a DNA synthesis inhibitor, an antitubercular agent, a leprostatic drug, an Escherichia coli metabolite, a protein synthesis inhibitor, a neuroprotective agent, an angiogenesis inhibitor, a pregnane X receptor agonist, an antineoplastic agent, an antiamoebic agent and a geroprotector. It is a N-iminopiperazine, a N-methylpiperazine, a hydrazone, a cyclic ketal, a semisynthetic derivative and a member of rifamycins. It is a tautomer of a rifampicin zwitterion.
+Rifampin is an antibacterial prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of tuberculosis (TB). Rifampin is also FDA-approved to treat people who carry Neisseria meningitidis bacteria but have no symptoms of disease.
+TB can be an opportunistic infection (OI) of HIV.
+Rifampin, also known as rifampicin, is a broad-spectrum antimicrobial that was first discovered in 1965 and clinically used in 1968. Rifampin is used to treat tuberculosis and works by inhibiting the microbial DNA-dependent RNA polymerase (RNAP).
+Rifampin is a Rifamycin Antibacterial.
+Rifampin (also referred to as rifampicin) is a macrocyclic antibiotic with major activity against mycobacteria, commonly used in combination with other agents as therapy of tuberculosis. Rifampin is associated with transient and asymptomatic elevations in serum aminotransferase and bilirubin levels and is a well known cause of clinically apparent, acute liver disease that can be severe and even fatal.
+Rifampicin has been reported in Salinispora arenicola, Streptomyces atratus, and other organisms with data available.
+Rifampin is a semisynthetic derivative of rifamycin with broad antibacterial activity. Rifampin inhibits DNA-dependent RNA polymerase in susceptible bacteria and is often used in combination with other antibiotics for various infections including tuberculosis.
+RIFAMPIN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1971 and is indicated for pulmonary tuberculosis and tuberculosis and has 50 investigational indications.
+A semisynthetic antibiotic produced from Streptomyces mediterranei. It has a broad antibacterial spectrum, including activity against several forms of Mycobacterium. In susceptible organisms it inhibits DNA-dependent RNA polymerase activity by forming a stable complex with the enzyme. It thus suppresses the initiation of RNA synthesis. Rifampin is bactericidal, and acts on both intracellular and extracellular organisms. (From Gilman et al., Goodman and Gilman's The Pharmacological Basis of Therapeutics, 9th ed, p1160)
+See also: Isoniazid; rifampin (component of); Isoniazid; pyrazinamide; rifampin (component of).
+Properties:safety: Irritant
+smiles: C[C@H]1/C=C/C=C(\C(=O)NC2=C(C(=C3C(=C2O)C(=C(C4=C3C(=O)[C@](O4)(O/C=C/[C@@H]([C@H]([C@H]([C@@H]([C@@H]([C@@H]([C@H]1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)/C=N/N5CCN(CC5)C)/C
+formula: C43H58N4O12
+chem_properties: Molecular Weight: 822.9 g/mol
+XLogP3: 4.9
+Hydrogen Bond Donor Count: 6
+Hydrogen Bond Acceptor Count: 15
+Rotatable Bond Count: 5
+Exact Mass: 822.40512330 Da
+Monoisotopic Mass: 822.40512330 Da
+Topological Polar Surface Area: 220
+Heavy Atom Count: 59
+Formal Charge: 0
+Complexity: 1620
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 9
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 4
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

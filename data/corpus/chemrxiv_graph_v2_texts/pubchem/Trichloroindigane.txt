@@ -1,0 +1,24 @@
+Name: Trichloroindigane
+Text:
+See also: Indium chloride In-111 (annotation moved to).
+Properties:safety: Corrosive and Irritant and Health Hazard
+smiles: Cl[In](Cl)Cl
+formula: InCl3
+chem_properties: Molecular Weight: 221.17 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 219.810437 Da
+Monoisotopic Mass: 219.810437 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

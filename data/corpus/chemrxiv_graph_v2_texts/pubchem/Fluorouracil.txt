@@ -1,0 +1,36 @@
+Name: Fluorouracil
+Text:
+Fluorouracil can cause developmental toxicity according to an independent committee of scientific and health experts.
+Fluorouracil is a white to nearly white crystalline powder; practically odorless. Used as an anti neoplastic drug, chemosterilant for insects. (EPA, 1998)
+5-fluorouracil is a nucleobase analogue that is uracil in which the hydrogen at position 5 is replaced by fluorine. It is an antineoplastic agent which acts as an antimetabolite - following conversion to the active deoxynucleotide, it inhibits DNA synthesis (by blocking the conversion of deoxyuridylic acid to thymidylic acid by the cellular enzyme thymidylate synthetase) and so slows tumour growth. It has a role as a xenobiotic, an environmental contaminant, a radiosensitizing agent, an antineoplastic agent, an immunosuppressive agent and an antimetabolite. It is a nucleobase analogue and an organofluorine compound. It is functionally related to a uracil.
+A pyrimidine analog that is an antineoplastic antimetabolite. It interferes with DNA synthesis by blocking the thymidylate synthetase conversion of deoxyuridylic acid to thymidylic acid.
+Fluorouracil is a Nucleoside Metabolic Inhibitor. The mechanism of action of fluorouracil is as a Nucleic Acid Synthesis Inhibitor.
+Fluorouracil (5-FU) is a pyrimidine analogue used as an antineoplastic agent to treat multiple solid tumors including colon, rectal, breast, gastric, pancreatic, ovarian, bladder and liver cancer. Fluorouracil is associated with a low rate of transient serum aminotransferase elevations during therapy and has been implicated in rare cases of clinically apparent acute liver injury.
+Fluorouracil has been reported in Paramyrothecium roridum, Antrodia cinnamomea, and other organisms with data available.
+Fluorouracil is an antimetabolite fluoropyrimidine analog of the nucleoside pyrimidine with antineoplastic activity. Fluorouracil and its metabolites possess a number of different mechanisms of action. In vivo, fluoruracil is converted to the active metabolite 5-fluoroxyuridine monophosphate (F-UMP); replacing uracil, F-UMP incorporates into RNA and inhibits RNA processing, thereby inhibiting cell growth. Another active metabolite, 5-5-fluoro-2'-deoxyuridine-5'-O-monophosphate (F-dUMP), inhibits thymidylate synthase, resulting in the depletion of thymidine triphosphate (TTP), one of the four nucleotide triphosphates used in the in vivo synthesis of DNA. Other fluorouracil metabolites incorporate into both RNA and DNA; incorporation into RNA results in major effects on both RNA processing and functions.
+FLUOROURACIL is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1962 and has 6 approved and 105 investigational indications.
+A pyrimidine analog that is an antineoplastic antimetabolite. It interferes with DNA synthesis by blocking the thymidylate synthetase conversion of deoxyuridylic acid to thymidylic acid. 
+A pyrimidine analog that is an antineoplastic antimetabolite. It interferes with DNA synthesis by blocking the THYMIDYLATE SYNTHETASE conversion of deoxyuridylic acid to thymidylic acid.
+See also: Fluorouracil sodium (is active moiety of).
+Properties:safety: Acute Toxic and Irritant and Health Hazard
+smiles: C1=C(C(=O)NC(=O)N1)F
+formula: C4H3FN2O2
+chem_properties: Molecular Weight: 130.08 g/mol
+XLogP3: -0.9
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 130.01785550 Da
+Monoisotopic Mass: 130.01785550 Da
+Topological Polar Surface Area: 58.2
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 199
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

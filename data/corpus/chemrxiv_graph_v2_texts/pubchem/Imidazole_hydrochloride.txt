@@ -1,0 +1,23 @@
+Name: Imidazole hydrochloride
+Text:
+Properties:safety: Irritant and Health Hazard
+smiles: C1=CN=CN1.Cl
+formula: C3H5ClN2
+chem_properties: Molecular Weight: 104.54 g/mol
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 104.0141259 Da
+Monoisotopic Mass: 104.0141259 Da
+Topological Polar Surface Area: 28.7
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 28.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

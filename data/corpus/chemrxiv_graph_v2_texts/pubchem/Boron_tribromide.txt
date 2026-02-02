@@ -1,0 +1,25 @@
+Name: Boron tribromide
+Text:
+Boron tribromide appears as a colorless, fuming liquid with a pungent odor. Boiling point 194 °F. Freezing point -51 °F. Very toxic by inhalation. Corrosive to metals and tissue.
+Boron tribromide is a chemical compound of boron  and bromine. It is a commercially available strong Lewis acid. Boron tribromide is an excellent demethylating or dealkylating agent for ethers and is often used in the production of pharmaceuticals. Additionally, it also finds applications in olefin polymerization and in Friedel-Crafts chemistry as a Lewis acid catalyst. The electronics industry uses boron tribromide as a boron source in pre-deposition processes for doping in the manufacture of semiconductors. Bromine is a halogen element with the symbol Br and atomic number 35. Diatomic bromine does not occur naturally, but bromine salts can be found in crustal rock. (L625, L642)
+Properties:safety: Corrosive and Acute Toxic
+smiles: B(Br)(Br)Br
+formula: BBr3
+chem_properties: Molecular Weight: 250.53 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 249.76227 Da
+Monoisotopic Mass: 247.76432 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

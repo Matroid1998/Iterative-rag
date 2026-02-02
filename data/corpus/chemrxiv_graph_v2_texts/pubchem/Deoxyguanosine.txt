@@ -1,0 +1,30 @@
+Name: Deoxyguanosine
+Text:
+2'-deoxyguanosine is a purine 2'-deoxyribonucleoside having guanine as the nucleobase. It has a role as a Saccharomyces cerevisiae metabolite, a human metabolite, an Escherichia coli metabolite and a mouse metabolite. It is a purines 2'-deoxy-D-ribonucleoside and a purine 2'-deoxyribonucleoside. It is functionally related to a guanosine.
+Deoxyguanosine is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+2'-Deoxyguanosine has been reported in Daphnia pulex, Glycine max, and other organisms with data available.
+Deoxyguanosine is a purine nucleoside comprised of a guanine bound to the 1' position of deoxyribose. Phosphorylated forms of deoxyguanosine are substrates for DNA synthesis.
+2'-Deoxyguanosine is a metabolite found in or produced by Saccharomyces cerevisiae.
+A nucleoside consisting of the base guanine and the sugar deoxyribose.
+Properties:safety: Irritant
+smiles: C1[C@@H]([C@H](O[C@H]1N2C=NC3=C2N=C(NC3=O)N)CO)O
+formula: C10H13N5O4
+chem_properties: Molecular Weight: 267.24 g/mol
+XLogP3: -0.9
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 2
+Exact Mass: 267.09675391 Da
+Monoisotopic Mass: 267.09675391 Da
+Topological Polar Surface Area: 135
+Heavy Atom Count: 19
+Formal Charge: 0
+Complexity: 417
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 3
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

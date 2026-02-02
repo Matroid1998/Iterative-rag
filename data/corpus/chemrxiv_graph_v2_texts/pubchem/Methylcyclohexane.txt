@@ -1,0 +1,27 @@
+Name: Methylcyclohexane
+Text:
+Methylcyclohexane appears as a clear colorless liquid with a petroleum-like odor. Flash point 25 °F. Less dense than water and insoluble in water. Vapors heavier than air.
+Methylcyclohexane is a cycloalkane that is cyclohexane substituted by a single methyl group. It has a role as an aprotic solvent, a plant metabolite and a human metabolite. It is a cycloalkane and a volatile organic compound. It derives from a hydride of a cyclohexane.
+Methylcyclohexane has been reported in Opuntia ficus-indica, Nicotiana tabacum, and other organisms with data available.
+Properties:safety: Flammable and Irritant and Health Hazard and Environmental Hazard
+smiles: CC1CCCCC1
+formula: C7H14
+chem_properties: Molecular Weight: 98.19 g/mol
+XLogP3: 3.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 98.109550447 Da
+Monoisotopic Mass: 98.109550447 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 42
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

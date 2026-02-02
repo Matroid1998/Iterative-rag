@@ -1,0 +1,24 @@
+Name: Bismuth oxychloride
+Text:
+Bismuth oxychloride is an odorless white solid. Sinks in water. (USCG, 1999)
+Properties:safety: Irritant
+smiles: O=[Bi].Cl
+formula: BiClHO
+chem_properties: Molecular Weight: 261.44 g/mol
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 260.95199 Da
+Monoisotopic Mass: 260.95199 Da
+Topological Polar Surface Area: 17.1
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 4.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

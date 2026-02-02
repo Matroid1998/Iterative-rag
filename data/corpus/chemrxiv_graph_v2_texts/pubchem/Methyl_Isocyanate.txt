@@ -1,0 +1,32 @@
+Name: Methyl Isocyanate
+Text:
+Methyl isocyanate is a colorless highly flammable liquid that evaporates quickly when exposed to the air. It has a sharp, strong odor. Methyl isocyanate is used in the production of pesticides, polyurethane foam, and plastics.
+Methyl Isocyanate (MIC) can cause developmental toxicity and female reproductive toxicity according to an independent committee of scientific and health experts.
+Methyl isocyanate appears as a colorless low-boiling liquid (b.p. 39 °C) that is denser than water. Flash point is less than 20 °F. Very toxic by inhalation. Can be absorbed through the skin. Has a sharp odor, but the sense of smell cannot be relied upon to warn of the presence of vapors at low concentrations.   Rate of onset: Immediate  Persistence: Minutes to hours  Odor threshold: 2.1 ppm  Source/use/other hazard: Intermediate in manufacturing; reacts with H20 (don't use in fire).
+Methyl isocyanate is the isocyanate that is methane modified by a single isocyanato substituent. It has a role as an apoptosis inducer and an allergen.
+Methyl isocyanate has been investigated for the treatment of Nosocomial Pneumonia.
+Methyl isocyanate is used to produce carbamate pesticides. Methyl isocyanate is extremely toxic to humans from acute (short-term) exposure. In Bhopal, India, accidental acute inhalation exposure to methyl isocyanate resulted in the deaths of about 3,800 people and adverse health effects in greater than 170,000 survivors. Pulmonary edema was the probable cause of death in most cases, with many deaths resulting from secondary respiratory infections. Survivors continue to exhibit damage to the lungs and eyes. Reproductive effects and increased number of stillbirths and spontaneous abortions were noted in the survivors of the Bhopal, India accident. EPA has classified methyl isocyanate as a Group D, not classifiable as to human carcinogenicity.
+Methyl Isocyanate is a synthetic organic compound composed of isocyanate that is methane modified by a single isocyanato substituent. Methyl isocyanate has a role as an apoptosis inducer and is used in the manufacture of polyurethane foam, pesticides, and plastics. It is characterized as a colorless liquid with a sharp pungent odor that evaporates quickly when exposed to air. Exposure occurs by inhalation, ingestion, or contact.
+Methyl isocyanate, also known as MIC, is a chemical compound of cyanide. It is an intermediate chemical in the production of carbamate pesticides (such as carbaryl, carbofuran, methomyl, and aldicarb) and has also been used in the production of rubbers and adhesives. (L575)
+Properties:safety: Flammable and Corrosive and Acute Toxic and Health Hazard
+smiles: CN=C=O
+formula: C2H3NO
+chem_properties: Molecular Weight: 57.05 g/mol
+XLogP3: 1.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 57.021463719 Da
+Monoisotopic Mass: 57.021463719 Da
+Topological Polar Surface Area: 29.4
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 44
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

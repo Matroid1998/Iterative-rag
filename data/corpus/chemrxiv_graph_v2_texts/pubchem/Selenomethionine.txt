@@ -1,0 +1,28 @@
+Name: Selenomethionine
+Text:
+Selenomethionine is a selenoamino acid that is the selenium analogue of methionine. It has a role as a plant metabolite. It is a member of selenomethionines and a selenoamino acid.
+Selenomethionine is a naturally occuring amino acid in some plant materials such as cereal grains, soybeans and enriched yeast but it cannot be synthesized from animals or humans. It can be produced from post-structural modifications. *In vivo*, selenomethionine plays an essential role in acting as an antioxidant, where it depletes reactive oxygen species (ROS) and aids in the formation and recycling of glutathione, another important antioxidant. In comparison to selenite, which is the inorganic form of selenium, the organic form of selenomethionine is more readily absorbed in the human body. Selenomethionin is used in biochemical laboratories where its incorporation into proteins that need to be visualized enhances the performance of X-ray crystallography.
+Selenomethionine has been reported in Homo sapiens and Trypanosoma brucei with data available.
+DL-Selenomethionine is a selenium (Se) analogue of methionine in which sulfur is replaced with the trace element selenium. Selenomethionine (SeMet) can incorporate into proteins in place of methionine with no effects on protein structure and function, providing a mechanism for reversible Se storage in organs and tissues. Free selenium is incorporated into selenocysteine, an amino acid found in more than thirty selenoproteins including the glutathione peroxidases (GPx) enzymes, thioredoxin reductase (TR) and the iodothyronine deiodinase enzymes.
+Diagnostic aid in pancreas function determination.
+Properties:safety: Acute Toxic and Health Hazard and Environmental Hazard
+smiles: C[Se]CCC(C(=O)O)N
+formula: C5H11NO2Se
+chem_properties: Molecular Weight: 196.12 g/mol
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 4
+Exact Mass: 196.99550 Da
+Monoisotopic Mass: 196.99550 Da
+Topological Polar Surface Area: 63.3
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 97
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

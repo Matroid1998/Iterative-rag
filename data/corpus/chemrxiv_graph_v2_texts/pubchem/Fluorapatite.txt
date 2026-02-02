@@ -1,0 +1,26 @@
+Name: Fluorapatite
+Text:
+apatite-(caf) is a mineral.
+Fluorapatite is a mineral with formula of Ca5(PO4)3F. The corresponding IMA (International Mineralogical Association) number is IMA2010 s.p.. The IMA symbol is Fap.
+See also: Cucurbita pepo flower; fluorapatite (component of); Calcium fluoride phosphate (Ca5F(PO4)3) (annotation moved to) ... View More ...
+Properties:safety: Irritant
+smiles: [O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[F-].[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2]
+formula: Ca5FO12P3
+chem_properties: Molecular Weight: 504.3 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 13
+Rotatable Bond Count: 0
+Exact Mass: 503.671619 Da
+Monoisotopic Mass: 503.671619 Da
+Topological Polar Surface Area: 259
+Heavy Atom Count: 21
+Formal Charge: 0
+Complexity: 36.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 9
+Compound Is Canonicalized: Yes 
+

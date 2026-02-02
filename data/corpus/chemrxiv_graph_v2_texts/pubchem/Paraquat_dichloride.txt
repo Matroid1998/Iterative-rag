@@ -1,0 +1,28 @@
+Name: Paraquat dichloride
+Text:
+Paraquat dichloride is a colorless to yellow crystalline solid. Used as a contact herbicide and desiccant. (EPA, 1998)
+Paraquat dichloride is an organic chloride salt. It has a role as a herbicide and a photosystem-I inhibitor. It contains a paraquat.
+Paraquat dichloride is a constituent of numerous proprietary herbicides. A large majority (93%) of fatalities from paraquat poisoning are cases of intentional self-administration, ie, suicides. In third world countries, paraquat is a major suicide agent. For instance, in Samoa from 1979-2001, 70% of suicides were by Paraquat poisoning. In Southern Trinidad from 1996-1997, 76% of suicides were by paraquat. However, independent bodies have studied paraquat in this use. Jenny Pronczuk de Garbino, stated: no lung or other injury in marijuana users has ever been attributed to paraquat contamination. Also a United States Environmental Protection Agency manual states: &hellip; toxic effects caused by this mechanism have been either very rare or nonexistent. Most paraquat that contaminates marijuana is pyrolyzed during smoking to dipyridyl, which is a product of combustion of the leaf material itself (including marijuana) and presents little toxic hazard. Paraquat is the trade name for N,N -dimethyl-4,4 -bipyridinium dichloride, one of the most widely used herbicides in the world. Paraquat, a viologen, is quick-acting and non-selective, killing green plant tissue on contact. It is also toxic to human beings when swallowed. Paraquat is used as a quaternary ammonium herbicide; one of the most widely used herbicides in the world. It is quick-acting, non-selective, and kills green plant tissue on contact. It is redistributed within the plant but does not harm mature bark. Being a herbicide, paraquat protects crops by controlling a wide range of annual and certain perennial weeds that reduce crop yield and quality by competing with the crop for water, nutrients, and light. Pure paraquat ingested is highly toxic to mammals and humans potentially leading to acute respiratory distress syndrome (ARDS), and there are no specific antidotes. However, fuller's earth or activated charcoal is an effective treatment, if taken in time. Death may occur up to 30 days after ingestion. Diluted paraquat used for spraying is less so, thus the greatest risk of accidental poisoning is during mixing and loading Paraquat for use.
+A poisonous dipyridilium compound used as contact herbicide. Contact with concentrated solutions causes irritation of the skin, cracking and shedding of the nails, and delayed healing of cuts and wounds.
+See also: Paraquat (annotation moved to).
+Properties:safety: Acute Toxic and Health Hazard and Environmental Hazard
+smiles: C[N+]1=CC=C(C=C1)C2=CC=[N+](C=C2)C.[Cl-].[Cl-]
+formula: C12H14N2.2Cl
+chem_properties: Molecular Weight: 257.16 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 256.0534038 Da
+Monoisotopic Mass: 256.0534038 Da
+Topological Polar Surface Area: 7.8
+Heavy Atom Count: 16
+Formal Charge: 0
+Complexity: 145
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

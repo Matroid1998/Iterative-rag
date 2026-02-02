@@ -1,0 +1,25 @@
+Name: Propiolic Acid
+Text:
+Propynoic acid is a terminal acetylenic compound that is a 3-carbon, straight-chain, monounsaturated fatty acid having one acetylenic bond. It has a role as a xenobiotic metabolite. It is an acetylenic fatty acid, a monounsaturated fatty acid, a short-chain fatty acid, a terminal acetylenic compound and an alpha,beta-unsaturated monocarboxylic acid. It is a conjugate acid of a propynoate.
+Properties:safety: Flammable and Corrosive and Acute Toxic
+smiles: C#CC(=O)O
+formula: C3H2O2
+chem_properties: Molecular Weight: 70.05 g/mol
+XLogP3: 0.3
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 70.005479302 Da
+Monoisotopic Mass: 70.005479302 Da
+Topological Polar Surface Area: 37.3
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 84.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

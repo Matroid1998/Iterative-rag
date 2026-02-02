@@ -1,0 +1,25 @@
+Description:
+Exhibit unique surface redox properties crucial for heterogeneous catalysis, solid oxide fuel cells, and solar-driven fuel generation.
+
+Text:
+The ability to manipulate electronic structures in functional materials has dramatically advanced 
+their use in energy conversion, catalysis, and environmental applications1,2. Among these, 
+reducible rare earth oxides (REO2x, where RE  Ce, Pr, Tb) exhibit unique surface redox 
+properties, which play a crucial role in heterogeneous catalysis3, solid oxide fuel cells4, and solar
+driven fuel generation5. Central to these redox properties is the formation and annihilation of 
+oxygen vacancies, which serve as reactive sites for adsorption, charge transfer, and mass transport. These processes are intricately linked to the electronic structure of 4f bands in rare earth oxides, 
+where charge transfer between surface oxygen (O 2p) and the adjacent rare earth (RE 4f) orbitals 
+drives redox activity10.
+
+
+---
+
+Description:
+Characterized by surface redox capacity important for catalytic activity.
+
+Text:
+Developing methods to create flatter films with wider terraces and fewer defects is essential for 
+achieving substantial strain27 to modulate the electronic structure effectively. The redox kinetics is an important metric for the catalytic activity of REO2x under realistic 
+reaction conditions as it has been found to be ratelimiting step in the Marsvan Krevelen 
+mechanism8. Although the surface redox capacity in rare earth oxides has been characterized by 
+httpsdoi.org10.26434chemrxiv2025s7cm0 ORCID httpsorcid.org0000000221879240 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

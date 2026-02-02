@@ -1,0 +1,25 @@
+Name: Cobalt carbonyl
+Text:
+Cobalt carbonyl appears as orange or dark brown crystalline solid. Used as a catalyst, used in antiknock gasoline and in making high-purity cobalt compounds. (EPA, 1998)
+Dicobalt octacarbonyl Co2(CO)8 is a chemical compound of cobalt. This metal carbonyl is a reagent and catalyst in organometallic chemistry and organic synthesis [Paulson]. It is used as a catalyst for hydroformylation, the conversion of alkenes into aldehydes [Elschenbroich]. Cobalt is a metallic element with the atomic number 27. It is found naturally in rocks, soil, water, plants, and animals. In small amounts cobalt is an essential element for life, as it is part of vitamin B12. However, excess exposure is known to exhibit toxic effects. (L29, L30)
+Properties:safety: Flammable and Acute Toxic and Irritant and Health Hazard
+smiles: [CH-]=O.[CH-]=O.[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[Co].[Co+2]
+formula: C8H2Co2O8
+chem_properties: Molecular Weight: 343.96 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 10
+Rotatable Bond Count: 0
+Exact Mass: 343.841354 Da
+Monoisotopic Mass: 343.841354 Da
+Topological Polar Surface Area: 40.1
+Heavy Atom Count: 18
+Formal Charge: 0
+Complexity: 21.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 10
+Compound Is Canonicalized: Yes 
+

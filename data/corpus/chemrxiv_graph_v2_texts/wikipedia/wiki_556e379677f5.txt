@@ -1,0 +1,6 @@
+A material property is an intensive property of a material, i.e., a physical property or chemical property that does not depend on the amount of the material. These quantitative properties may be used as a metric by which the benefits of one material versus another can be compared, thereby aiding in materials selection.
+A property having a fixed value for a given material or substance is called material constant or constant of matter.
+(Material constants should not be confused with physical constants, that have a universal character.)
+A material property may also be a function of one or more independent variables, such as temperature. Materials properties often vary to some degree according to the direction in the material in which they are measured, a condition referred to as anisotropy. Materials properties that relate to different physical phenomena often behave linearly (or approximately so) in a given operating range . Modeling them as linear functions can significantly simplify the differential constitutive equations that are used to describe the property.
+Equations describing relevant materials properties are often used to predict the attributes of a system.
+The properties are measured by standardized test methods. Many such methods have been documented by their respective user communities and published through the Internet; see ASTM International.

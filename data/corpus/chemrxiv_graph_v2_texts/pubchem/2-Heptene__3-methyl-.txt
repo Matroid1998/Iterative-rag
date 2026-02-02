@@ -1,0 +1,24 @@
+Name: 2-Heptene, 3-methyl-
+Text:
+Properties:safety: Flammable and Health Hazard
+smiles: CCCC/C(=C/C)/C
+formula: C8H16
+chem_properties: Molecular Weight: 112.21 g/mol
+XLogP3: 3.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 3
+Exact Mass: 112.125200510 Da
+Monoisotopic Mass: 112.125200510 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 70.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

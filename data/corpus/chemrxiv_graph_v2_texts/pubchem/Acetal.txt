@@ -1,0 +1,29 @@
+Name: Acetal
+Text:
+Acetal appears as a clear colorless liquid with a pleasant odor. Boiling point 103-104 °C. Flash point -5 °F. Density 0.831 g / cm3. Slightly soluble in water. Vapors heavier than air. Moderately toxic and narcotic in high concentrations.
+1,1-Diethoxyethane is an acetal.
+1,1-Diethoxyethane has been reported in Citrus reticulata, Allium ampeloprasum, and other organisms with data available.
+1,1-Diethoxy ethane is a metabolite found in or produced by Saccharomyces cerevisiae.
+Diethers with the structure -C(OR'')(OR'''), where R'' and R''' are not hydrogen. Mixed acetals have R'' and R''' groups which differ.
+Properties:safety: Flammable and Irritant
+smiles: CCOC(C)OCC
+formula: C6H14O2
+chem_properties: Molecular Weight: 118.17 g/mol
+XLogP3: 0.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 4
+Exact Mass: 118.099379685 Da
+Monoisotopic Mass: 118.099379685 Da
+Topological Polar Surface Area: 18.5
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 39.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

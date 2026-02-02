@@ -1,0 +1,29 @@
+Name: Glyoxylic acid
+Text:
+Supplied as a 50% aqueous solution. Colorless to straw yellow. (USCG, 1999)
+Glyoxylic acid is a 2-oxo monocarboxylic acid that is acetic acid bearing an oxo group at the alpha carbon atom. It has a role as a human metabolite, an Escherichia coli metabolite, a Saccharomyces cerevisiae metabolite and a mouse metabolite. It is a 2-oxo monocarboxylic acid and an aldehydic acid. It is a conjugate acid of a glyoxylate.
+Glyoxylic acid is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Glyoxylic acid has been reported in Arabidopsis thaliana, Homo sapiens, and other organisms with data available.
+Glyoxylic acid is a metabolite found in or produced by Saccharomyces cerevisiae.
+Properties:safety: Corrosive and Irritant
+smiles: C(=O)C(=O)O
+formula: C2H2O3
+chem_properties: Molecular Weight: 74.04 g/mol
+XLogP3: -0.3
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 1
+Exact Mass: 74.000393922 Da
+Monoisotopic Mass: 74.000393922 Da
+Topological Polar Surface Area: 54.4
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 55.9
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

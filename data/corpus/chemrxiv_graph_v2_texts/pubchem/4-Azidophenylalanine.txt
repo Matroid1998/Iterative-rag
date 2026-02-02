@@ -1,0 +1,25 @@
+Name: 4-Azidophenylalanine
+Text:
+4-azido-L-phenylalanine is a 4-azidophenylalanine that has L-configuration. It is used as a bioorthogonal click-chemistry reagent. It is a 4-azidophenylalanine and a L-phenylalanine derivative. It is an enantiomer of a 4-azido-D-phenylalanine.
+Properties:safety: Irritant
+smiles: C1=CC(=CC=C1C[C@@H](C(=O)O)N)N=[N+]=[N-]
+formula: C9H10N4O2
+chem_properties: Molecular Weight: 206.20 g/mol
+XLogP3: -0.2
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 4
+Exact Mass: 206.08037557 Da
+Monoisotopic Mass: 206.08037557 Da
+Topological Polar Surface Area: 77.7
+Heavy Atom Count: 15
+Formal Charge: 0
+Complexity: 267
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

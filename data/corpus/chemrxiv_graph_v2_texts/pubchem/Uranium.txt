@@ -1,0 +1,29 @@
+Name: Uranium
+Text:
+Uranium is a common naturally occurring and radioactive substance. It is a normal part of rocks, soil, air, and water, and it occurs in nature in the form of minerals "" but never as a metal. Uranium metal is silver-colored with a gray surface and is nearly as strong as steel. Natural uranium is a mixture of three types or isotopes called U-234/234U, U-235/235U and U-238/238U. All three are the same chemical, but they have different radioactive properties.Typical concentrations in soil are a few parts per million ppm. Some rocks contain high enough mineral concentrations of uranium to be mined. The rocks are taken to a chemical plant where the uranium is taken out and made into uranium chemicals or metal. The remaining sand is called mill tailings. Tailings are rich in the chemicals and radioactive materials that were not removed, such as radium and thorium.One of the radioactive properties of uranium is half-life, or the time it takes for half of the isotope to give off its radiation and change into another substance. The half-lives are very long around 200,000 years for234U, 700 million years for235U, and 5 billion years for238U. This is why uranium still exists in nature and has not all decayed away.The isotope235U is useful as a fuel in powerplants and weapons. To make fuel, natural uranium is separated into two portions. The fuel portion has more235U than normal and is called enriched uranium. The leftover portion with less235U than normal is called depleted uranium, or DU. Natural, depleted, and enriched uranium are chemically identical. Du is the least radioactive and enriched uranium the most.
+Uranium(0) is a monoatomic uranium.
+Uranium is a radioactive element with atomic symbol U, atomic number 92, and atomic weight 238.
+Uranium-238 is the most common isotope of uranium found in nature. Uranium is a chemical element that has the symbol U and atomic number 92. It is a normal part of rocks, soil, air, and water, and occurs in nature in the form of minerals. Natural uranium is a mixture of three radioactive isotopes called uranium-234, uranium-235, and uranium-238. Uranium-238 is used in the military sector for kinetic energy penetrators and armor plating. Uranium is also used as a colorant in uranium glass, producing orange-red to lemon yellow hues. (L248, L249)
+A radioactive element of the actinide series of metals. It has an atomic symbol U, atomic number 92, and atomic weight 238.03. U-235 is used as the fissionable fuel in nuclear weapons and as fuel in nuclear power reactors.
+See also: Uranium cation (6+) (annotation moved to).
+Properties:safety: Acute Toxic and Health Hazard
+smiles: [U]
+formula: U
+chem_properties: Molecular Weight: 238.0289 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 238.05079 Da
+Monoisotopic Mass: 238.05079 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 1
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

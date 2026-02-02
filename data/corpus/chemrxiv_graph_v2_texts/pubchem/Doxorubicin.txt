@@ -1,0 +1,35 @@
+Name: Doxorubicin
+Text:
+Doxorubicin is a deoxy hexoside, an anthracycline, an anthracycline antibiotic, an aminoglycoside, a member of tetracenequinones, a member of p-quinones, a primary alpha-hydroxy ketone and a tertiary alpha-hydroxy ketone. It has a role as an Escherichia coli metabolite. It is a conjugate base of a doxorubicin(1+). It derives from a hydride of a tetracene.
+Doxorubicin hydrochloride (liposomal) is an antineoplastic prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of certain types of cancer, including ovarian cancer, multiple myeloma, and AIDS-related Kaposi sarcoma.
+Kaposi sarcoma is caused by infection with human herpesvirus-8 (HHV-8). HHV-8 infection can be an opportunistic infection (OI) of HIV.
+Doxorubicin is a cytotoxic anthracycline antibiotic isolated from cultures of Streptomyces peucetius var. caesius along side with daunorubicin, another cytotoxic agent, in 1970. Although they both have aglyconic and sugar moieties, doxorubicin's side chain terminates with a primary alcohol group compared to the methyl group of daunorubicin. Although its detailed molecular mechanisms have yet to be understood, doxorubicin is generally thought to exert its effect through DNA intercalation, which eventually leads to DNA damage and the generation of reactive oxygen species. Thanks to its efficacy and broad effect, doxorubicin was approved by the FDA in 1974 to treat a variety of cancer, including but not limited to breast, lung, gastric, ovarian, thyroid, non-Hodgkin’s and Hodgkin’s lymphoma, multiple myeloma, sarcoma, and pediatric cancers. However, one of the major side effects of doxorubicin is cardiotoxicity, which excludes patients with poor heart function and requires treatment termination once the maximally tolerated cumulative dose is reached.
+Doxorubicin is an Anthracycline Topoisomerase Inhibitor. The mechanism of action of doxorubicin is as a Topoisomerase Inhibitor.
+Doxorubicin has been reported in Talaromyces aculeatus, Hamigera fusca, and other organisms with data available.
+Doxorubicin is an anthracycline antibiotic with antineoplastic activity. Doxorubicin, isolated from the bacterium Streptomyces peucetius var. caesius, is the hydroxylated congener of daunorubicin. Doxorubicin intercalates between base pairs in the DNA helix, thereby preventing DNA replication and ultimately inhibiting protein synthesis. Additionally, doxorubicin inhibits topoisomerase II which results in an increased and stabilized cleavable enzyme-DNA linked complex during DNA replication and subsequently prevents the ligation of the nucleotide strand after double-strand breakage. Doxorubicin also forms oxygen free radicals resulting in cytotoxicity secondary to lipid peroxidation of cell membrane lipids; the formation of oxygen free radicals also contributes to the toxicity of the anthracycline antibiotics, namely the cardiac and cutaneous vascular effects.
+DOXORUBICIN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) and has 24 approved and 173 investigational indications.
+Doxorubicin is only found in individuals that have used or taken this drug. It is antineoplastic antibiotic obtained from Streptomyces peucetius. It is a hydroxy derivative of daunorubicin. [PubChem]Doxorubicin has antimitotic and cytotoxic activity through a number of proposed mechanisms of action: Doxorubicin forms complexes with DNA by intercalation between base pairs, and it inhibits topoisomerase II activity by stabilizing the DNA-topoisomerase II complex, preventing the religation portion of the ligation-religation reaction that topoisomerase II catalyzes.
+Antineoplastic antibiotic obtained from Streptomyces peucetius. It is a hydroxy derivative of DAUNORUBICIN.
+See also: Doxorubicin Hydrochloride (has salt form); Zoptarelin Doxorubicin (is active moiety of); Zoptarelin Doxorubicin Acetate (is active moiety of).
+Properties:safety: Irritant and Health Hazard
+smiles: C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O
+formula: C27H29NO11
+chem_properties: Molecular Weight: 543.5 g/mol
+XLogP3: 1.3
+Hydrogen Bond Donor Count: 6
+Hydrogen Bond Acceptor Count: 12
+Rotatable Bond Count: 5
+Exact Mass: 543.17406074 Da
+Monoisotopic Mass: 543.17406074 Da
+Topological Polar Surface Area: 206
+Heavy Atom Count: 39
+Formal Charge: 0
+Complexity: 977
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 6
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

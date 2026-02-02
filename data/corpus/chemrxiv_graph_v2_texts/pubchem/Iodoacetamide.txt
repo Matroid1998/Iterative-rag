@@ -1,0 +1,26 @@
+Name: Iodoacetamide
+Text:
+Iodoacetamide is a sulfhydryl alkylating reagent that forms covalent bonds with the thiol group of cysteines so the protein or peptide no longer forms disulfide bonds.
+An alkylating sulfhydryl reagent. Its actions are similar to those of iodoacetate.
+Properties:safety: Acute Toxic and Irritant and Health Hazard
+smiles: C(C(=O)N)I
+formula: C2H4INO
+chem_properties: Molecular Weight: 184.96 g/mol
+XLogP3: -0.2
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 1
+Exact Mass: 184.93376 Da
+Monoisotopic Mass: 184.93376 Da
+Topological Polar Surface Area: 43.1
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 44.9
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

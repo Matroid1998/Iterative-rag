@@ -1,0 +1,29 @@
+Name: Prothionamide
+Text:
+Prothionamide is a member of pyridines.
+Prothionamide has been used in trials studying the treatment of MDR-TB and HIV Infections.
+Protionamide is a thioamide derivative with antitubercular activity. Protionamide forms a covalent adduct with bacterial nicotinamide adenine dinucleotide (NAD), PTH-NAD, which competitively inhibits 2-trans-enoyl-ACP reductase (inhA), an enzyme essential for mycolic acid synthesis. This results in increased cell wall permeability and decreased resistance against cell injury eventually leading to cell lysis. Mycolic acids, long-chain fatty acids, are essential mycobacterial cell wall components and play a key role in resistance to cell injury and mycobacterial virulence.
+PROTIONAMIDE is a small molecule drug with a maximum clinical trial phase of IV and is indicated for tuberculosis.
+Antitubercular agent similar in action and side effects to ETHIONAMIDE. It is used mostly in combination with other agents.
+Properties:safety: Irritant
+smiles: CCCC1=NC=CC(=C1)C(=S)N
+formula: C9H12N2S
+chem_properties: Molecular Weight: 180.27 g/mol
+XLogP3: 1.5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 3
+Exact Mass: 180.07211956 Da
+Monoisotopic Mass: 180.07211956 Da
+Topological Polar Surface Area: 71
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 159
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

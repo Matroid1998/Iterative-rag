@@ -1,0 +1,37 @@
+Name: Ethanol
+Text:
+Ethyl alcohol in alcoholic beverages can cause developmental toxicity according to an independent committee of scientific and health experts.
+Ethanol with a small amount of an adulterant added so as to be unfit for use as a beverage.
+Ethanol appears as a clear colorless liquid with a characteristic vinous odor and pungent taste. Flash point 55 °F. Density 6.5 lb / gal. Vapors are heavier than air.
+Ethanol is a primary alcohol that is ethane in which one of the hydrogens is substituted by a hydroxy group. It has a role as an antiseptic drug, a polar solvent, a neurotoxin, a central nervous system depressant, a teratogenic agent, a NMDA receptor antagonist, a protein kinase C agonist, a disinfectant, a human metabolite, a Saccharomyces cerevisiae metabolite, an Escherichia coli metabolite and a mouse metabolite. It is a primary alcohol, an alkyl alcohol, a volatile organic compound and a member of ethanols. It is a conjugate acid of an ethoxide.
+A clear, colorless liquid rapidly absorbed from the gastrointestinal tract and distributed throughout the body. It has bactericidal activity and is used often as a topical disinfectant. It is widely used as a solvent and preservative in pharmaceutical preparations as well as serving as the primary ingredient in alcoholic beverages.
+Ethanol is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Ethanol has been reported in Humulus lupulus, Tuber melanosporum, and other organisms with data available.
+Alcohol is a volatile liquid prepared by fermentation of certain carbohydrates. Alcohol acts as a central nervous system (CNS) depressant, a diuretic, and a disinfectant. Although the exact mechanism of CNS depression is unknown, alcohol may act by inhibiting the opening of calcium channels, mediated by the binding of the inhibitory neurotransmitter gamma-amino butyric acid (GABA) to GABA-A receptors, or through inhibitory actions at N-methyl-D-aspartate (NMDA)-type glutamate receptors. Alcohol inhibits the production of antidiuretic hormone, thereby producing diuresis that may lead to dehydration. This agent kills organisms by denaturing their proteins.
+ALCOHOL is a small molecule drug with a maximum clinical trial phase of IV (across all indications) and has 3 approved and 41 investigational indications.
+Ethanol is a clear, colorless liquid rapidly absorbed from the gastrointestinal tract and distributed throughout the body. It has bactericidal activity and is used often as a topical disinfectant. It is widely used as a solvent and preservative in pharmaceutical preparations as well as serving as the primary ingredient in alcoholic beverages. Indeed, ethanol has widespread use as a solvent of substances intended for human contact or consumption, including scents, flavorings, colorings, and medicines. Ethanol has a depressive effect on the central nervous system and because of its psychoactive effects, it is considered a drug. Ethanol has a complex mode of action and affects multiple systems in the brain, most notably it acts as an agonist to the GABA receptors. Death from ethanol consumption is possible when blood alcohol level reaches 0.4%. A blood level of 0.5% or more is commonly fatal. Levels of even less than 0.1% can cause intoxication, with unconsciousness often occurring at 0.3-0.4 %. Ethanol is metabolized by the body as an energy-providing carbohydrate nutrient, as it metabolizes into acetyl CoA, an intermediate common with glucose metabolism, that can be used for energy in the citric acid cycle or for biosynthesis. Ethanol within the human body is converted into acetaldehyde by alcohol dehydrogenase and then into acetic acid by acetaldehyde dehydrogenase. The product of the first step of this breakdown, acetaldehyde, is more toxic than ethanol. Acetaldehyde is linked to most of the clinical effects of alcohol. It has been shown to increase the risk of developing cirrhosis of the liver,[77] multiple forms of cancer, and alcoholism. Industrially, ethanol is produced both as a petrochemical, through the hydration of ethylene, and biologically, by fermenting sugars with yeast. Small amounts of ethanol are endogenously produced by gut microflora through anaerobic fermentation. However most ethanol detected in biofluids and tissues likely comes from consumption of alcoholic beverages. Absolute ethanol or anhydrous alcohol generally refers to purified ethanol, containing no more than one percent water. Absolute alcohol is not intended for human consumption. It often contains trace amounts of toxic benzene (used to remove water by azeotropic distillation). Consumption of this form of ethanol can be fatal over a short time period. Generally absolute or pure ethanol is used as a solvent for lab and industrial settings where water will disrupt a desired reaction. Pure ethanol is classed as 200 proof in the USA and Canada, equivalent to 175 degrees proof in the UK system.
+Ethanol is a metabolite found in or produced by Saccharomyces cerevisiae.
+A clear, colorless liquid rapidly absorbed from the gastrointestinal tract and distributed throughout the body. It has bactericidal activity and is used often as a topical disinfectant. It is widely used as a solvent and preservative in pharmaceutical preparations as well as serving as the primary ingredient in ALCOHOLIC BEVERAGES.
+See also: Denatured Alcohol (narrower); Alcohol; Benzocaine (component of); Alcohol; dextrose (component of) ... View More ...
+Properties:safety: Flammable
+smiles: CCO
+formula: C2H6O
+chem_properties: Molecular Weight: 46.07 g/mol
+XLogP3: -0.1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 46.041864811 Da
+Monoisotopic Mass: 46.041864811 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 2.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

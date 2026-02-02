@@ -1,0 +1,27 @@
+Name: Veratramine
+Text:
+Veratramine is a piperidine alkaloid comprising the 14,15,16,17-tetradehydro derivative of veratraman having two hydroxy groups at the 3- and 23-positions. It derives from a hydride of a veratraman.
+Veratramine has been reported in Veratrum dahuricum, Veratrum grandiflorum, and other organisms with data available.
+Veratramine is a hypotensive alkaloid isolated from the rhizomes of Veratrum.
+Properties:safety: Irritant
+smiles: C[C@H]1C[C@H]([C@@H](NC1)[C@@H](C)C2=C(C3=C(C=C2)[C@@H]4CC=C5C[C@H](CC[C@@]5([C@H]4C3)C)O)C)O
+formula: C27H39NO2
+chem_properties: Molecular Weight: 409.6 g/mol
+XLogP3: 4.3
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 2
+Exact Mass: 409.298079487 Da
+Monoisotopic Mass: 409.298079487 Da
+Topological Polar Surface Area: 52.5
+Heavy Atom Count: 30
+Formal Charge: 0
+Complexity: 676
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 8
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

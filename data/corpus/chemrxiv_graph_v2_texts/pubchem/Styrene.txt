@@ -1,0 +1,37 @@
+Name: Styrene
+Text:
+Styrene is primarily a synthetic chemical. It is also known as vinylbenzene, ethenylbenzene, cinnamene, or phenylethylene. It's a colorless liquid that evaporates easily and has a sweet smell. It often contains other chemicals that give it a sharp, unpleasant smell. It dissolves in some liquids but doesn't dissolve easily in water. Billions of pounds are produced each year to make products such as rubber, plastic, insulation, fiberglass, pipes, automobile parts, food containers, and carpet backing. Most of these products contain styrene linked together in a long chain (polystyrene) as well as unlinked styrene. Low levels of styrene also occur naturally in a variety of foods such as fruits, vegetables, nuts, beverages, and meats.
+Styrene can cause cancer according to The National Toxicology Program.
+Styrene monomer, stabilized appears as a clear colorless to dark liquid with an aromatic odor. Vapors heavier than air and irritating to the eyes and mucous membranes. Subject to polymerization. If the polymerization takes place inside a closed container, the container may rupture violently. Less dense than water and insoluble in water. Used to make plastics, paints, and synthetic rubber.
+Styrene is a vinylarene that is benzene carrying a vinyl group. It has been isolated from the benzoin resin produced by Styrax species. It has a role as a mutagen, a plant metabolite and a mouse metabolite. It is a vinylarene, a volatile organic compound and a member of styrenes.
+Styrene is primarily used in the production of polystyrene plastics and resins. Acute (short-term) exposure to styrene in humans results in mucous membrane and eye irritation, and gastrointestinal effects. Chronic (long-term) exposure to styrene in humans results in effects on the central nervous system (CNS), such as headache, fatigue, weakness, and depression, CSN dysfunction, hearing loss, and peripheral neuropathy. Human studies are inconclusive on the reproductive and developmental effects of styrene; several studies did not report an increase in developmental effects in women who worked in the plastics industry, while an increased frequency of spontaneous abortions and decreased frequency of births were reported in another study. Several epidemiologic studies suggest there may be an association between styrene exposure and an increased risk of leukemia and lymphoma. However, the evidence is inconclusive due to confounding factors. EPA has not given a formal carcinogen classification to styrene.
+Styrene has been reported in Oecophylla smaragdina, Punica granatum, and other organisms with data available.
+Styrene is found in alcoholic beverages. Styrene is present in cranberry, bilberry, currants, grapes, vinegar, parsley, milk and dairy products, whisky, cocoa, coffee, tea, roasted filberts and peanuts. Styrene is a flavouring ingredient. Polymers are used in ion-exchange resins in food processing. Indirect food additive arising from adhesives, oatings and packaging materials. Styrene, also known as vinyl benzene, is a colorless oily liquid that evaporates easily and has a sweet smell, although high concentrations confer a less pleasant odor. Styrene is the precursor to polystyrene and several copolymers. Low levels of styrene occur naturally in plants as well as a variety of foods such as fruits, vegetables, nuts, beverages, and meats. (Wikipedia) 
+
+Styrene has been shown to exhibit signalling and catabolic functions (A7738, A7739).
+
+Styrene belongs to the family of Styrenes. These are organic compounds containing an ethenylbenzene moiety.
+A colorless, toxic liquid with a strong aromatic odor. It is used to make rubbers, polymers and copolymers, and polystyrene plastics.
+See also: Polistirex (monomer of); Calcium Polystyrene Sulfonate (monomer of); Polystyrene sulfonic acid (monomer of) ... View More ...
+Properties:safety: Flammable and Irritant and Health Hazard
+smiles: C=CC1=CC=CC=C1
+formula: C8H8
+chem_properties: Molecular Weight: 104.15 g/mol
+XLogP3: 2.9
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 1
+Exact Mass: 104.062600255 Da
+Monoisotopic Mass: 104.062600255 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 68.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

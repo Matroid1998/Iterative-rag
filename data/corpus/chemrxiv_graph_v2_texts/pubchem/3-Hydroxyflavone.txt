@@ -1,0 +1,27 @@
+Name: 3-Hydroxyflavone
+Text:
+Flavonol is a monohydroxyflavone that is the 3-hydroxy derivative of flavone. It is a monohydroxyflavone and a member of flavonols. It is a conjugate acid of a flavonol(1-).
+3-Hydroxyflavone has been reported in Camellia sinensis, Humulus lupulus, and other organisms with data available.
+Flavonoid is one of a number of chemical compounds found in certain fruits, vegetables and seeds with antioxidant properties and potential antineoplastic properties. As polyphenolic, soluble plant pigments, flavonoids are usually subdivided into 5 subgroups flavonols, flavones, flavonones, flavan-3-ols, anthocyanidins.  Although not considered essential nutrients, some flavonoids may be beneficial to health by strengthening and protecting blood vessels and connective tissue and acting as anti-inflammatory, antihistaminic, and antiviral agents.  As antioxidants, some flavonoids may protect lipids from oxidative damage or retard the formation of cataracts. (NCI04)
+Properties:safety: Irritant
+smiles: C1=CC=C(C=C1)C2=C(C(=O)C3=CC=CC=C3O2)O
+formula: C15H10O3
+chem_properties: Molecular Weight: 238.24 g/mol
+XLogP3: 3.4
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 1
+Exact Mass: 238.062994177 Da
+Monoisotopic Mass: 238.062994177 Da
+Topological Polar Surface Area: 46.5
+Heavy Atom Count: 18
+Formal Charge: 0
+Complexity: 366
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

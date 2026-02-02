@@ -1,0 +1,25 @@
+Name: Tetraglyme
+Text:
+Tetraglyme is a polyether.
+Properties:safety: Health Hazard
+smiles: COCCOCCOCCOCCOC
+formula: C10H22O5
+chem_properties: Molecular Weight: 222.28 g/mol
+XLogP3: -0.7
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 12
+Exact Mass: 222.14672380 Da
+Monoisotopic Mass: 222.14672380 Da
+Topological Polar Surface Area: 46.2
+Heavy Atom Count: 15
+Formal Charge: 0
+Complexity: 98
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

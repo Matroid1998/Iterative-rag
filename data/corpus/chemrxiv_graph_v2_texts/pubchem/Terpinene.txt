@@ -1,0 +1,23 @@
+Name: Terpinene
+Text:
+Properties:safety: Health Hazard
+smiles: C.C.C.CC1=CC=C(CC1)C(C)C.CC1=CCC(=CC1)C(C)C.CC(C)C1=CCC(=C)CC1
+formula: C33H60
+chem_properties: Molecular Weight: 456.8 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 3
+Exact Mass: 456.469501914 Da
+Monoisotopic Mass: 456.469501914 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 33
+Formal Charge: 0
+Complexity: 502
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 6
+Compound Is Canonicalized: Yes 
+

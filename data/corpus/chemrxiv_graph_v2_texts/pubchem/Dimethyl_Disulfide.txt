@@ -1,0 +1,28 @@
+Name: Dimethyl Disulfide
+Text:
+Dimethyl disulfide appears as a colorless oily liquid with a garlic-like odor. Denser than water and slightly soluble in water. Vapors heavier than air. May irritate skin and eyes. Used to make other chemicals.
+Dimethyl disulfide is an organic disulfide that is methane in which one of the hydrogens has been replaced by a methyldisulfanyl group. It has a role as a xenobiotic metabolite.
+Dimethyl disulfide has been reported in Solanum tuberosum, Allium ursinum, and other organisms with data available.
+See also: Disulfides, di-C1-2-alkyl (annotation moved to).
+Properties:safety: Flammable and Acute Toxic and Health Hazard and Environmental Hazard
+smiles: CSSC
+formula: C2H6S2
+chem_properties: Molecular Weight: 94.20 g/mol
+XLogP3: 1.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 93.99109254 Da
+Monoisotopic Mass: 93.99109254 Da
+Topological Polar Surface Area: 50.6
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

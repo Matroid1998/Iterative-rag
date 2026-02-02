@@ -1,0 +1,25 @@
+Name: Zinc Nitrate
+Text:
+Zinc nitrate is a colorless crystalline solid. Noncombustible, but accelerates the burning of combustible materials. If large quantities are involved in a fire or the combustible material is finely divided, an explosion may result. Prolonged exposure to fire or heat may result in an explosion. Toxic oxides of nitrogen are produced in fires involving this material. It is used as a catalyst in the manufacture of other chemicals, in medicine, and in dyes.
+Zinc nitrate is a nitrate of zinc. It is used as a mordant in dyeing. Zinc is a metallic element with the atomic number 30. It is found in nature most often as the mineral sphalerite. Though excess zinc in harmful, in smaller amounts it is an essential element for life, as it is a cofactor for over 300 enzymes and is found in just as many transcription factors. Nitrite is a toxic compound known to cause methemoglobinemia. (L1137, L48, L49, L71) Zinc nitrate is a highly deliquescent substance which is usually prepared by dissolving zinc in nitric acid. It can be used as a mordant in dyeing. An example reaction gives a precipitate of zinc carbonate.
+Properties:safety: Oxidizer and Irritant
+smiles: [N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Zn+2]
+formula: Zn(NO3)2
+chem_properties: Molecular Weight: 189.4 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 0
+Exact Mass: 187.904778 Da
+Monoisotopic Mass: 187.904778 Da
+Topological Polar Surface Area: 126
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 18.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

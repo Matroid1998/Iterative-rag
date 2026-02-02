@@ -1,0 +1,28 @@
+Name: Fostemsavir
+Text:
+Fostemsavir (brand name: Rukobia) is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in treatment-experienced adults who meet certain requirements, as determined by a health care provider. Fostemsavir is always used in combination with other HIV medicines.
+Fostemsavir is the phosphonooxymethyl prodrug of temsavir, a novel HIV-1 attachment inhibitor. It binds to and inhibits the activity of gp120, a subunit within the HIV-1 gp160 envelope glycoprotein that facilitates the attachment of HIV-1 to host cell CD4 receptors - in doing so, temsavir prevents the first step in the HIV-1 viral lifecycle. The discovery of gp120 as a potential target of interest in the treatment of HIV-1 infection is relatively recent, and was born out of a desire to find alternative target proteins (i.e. mechanistically orthogonal therapies) for the treatment of HIV-1 patients with resistant infections. Fostemavir is the first attachment inhibitor to receive FDA approval, granted in July 2020 for use in combination with other antiretrovirals in highly treatment-experienced patients with multidrug-resistant HIV-1 infection whom are failing their current therapy. Targeting gp120 subunits is a new and novel therapeutic approach to HIV-1 infection, and the addition of attachment inhibitors, like temsavir, to the armament of therapies targeted against HIV-1 fills a necessary niche for therapeutic options in patients left with few, if any, viable treatments.
+Fostemsavir is a unique antiretroviral agent that binds to an envelope antigen of the human immunodeficiency virus (HIV) inhibiting its attachment to cell surface receptors of CD4+ lymphocytes. It is used to treat patients with multidrug resistant infection and inadequate viral suppression despite optimized background therapy. Fostemsavir has been linked to a low rate of serum aminotransferase elevations during therapy but has not been linked convincingly to episodes of clinically apparent liver injury.
+FOSTEMSAVIR is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2020 and has 4 approved indications.
+Properties:safety: Irritant and Health Hazard
+smiles: CC1=NN(C=N1)C2=NC=C(C3=C2N(C=C3C(=O)C(=O)N4CCN(CC4)C(=O)C5=CC=CC=C5)COP(=O)(O)O)OC
+formula: C25H26N7O8P
+chem_properties: Molecular Weight: 583.5 g/mol
+XLogP3: -0.1
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 11
+Rotatable Bond Count: 8
+Exact Mass: 583.15804781 Da
+Monoisotopic Mass: 583.15804781 Da
+Topological Polar Surface Area: 182
+Heavy Atom Count: 41
+Formal Charge: 0
+Complexity: 1020
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

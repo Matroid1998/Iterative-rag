@@ -1,0 +1,36 @@
+Name: Phosphine
+Text:
+Phosphine is a colorless, flammable, and explosive gas at ambient temperature that has the odor of garlic or decaying fish. Small amounts occur naturally from the break down of organic matter. It is slightly soluble in water. Phosphine is used in semiconductor and plastics industries, in the production of a flame retardant, and as a pesticide in stored grain.
+Phosphine appears as a colorless gas with a disagreeable odor of fish or garlic. Boiling point -126 °F; freezing point -209 °F. Very toxic by inhalation at extremely low concentrations. Prolonged heating may cause containers to rupture violently and rocket.   Rate of onset: Immediate & Delayed (Lungs)  Persistence: Minutes - hours  Odor threshold: 0.9 ppm  Source/use/other hazard: Insecticide; used in manufacture of flame retardants and incendiaries.
+Phosphane is the simplest phosphine, consisting of a single phosphorus atom with three hydrogens attached. It has a role as a carcinogenic agent and a fumigant insecticide. It is a member of phosphanes, a phosphine and a mononuclear parent hydride. It is a conjugate base of a phosphonium. It is a conjugate acid of a phosphanide.
+Phosphine is used as an insecticide for the fumigation of grains, animal feed, and leaf-stored tobacco. Acute (short-term) inhalation exposure to phosphine may cause headaches, dizziness, fatigue, drowsiness, burning substernal pain, nausea, vomiting, cough, labored breathing, chest tightness, pulmonary irritation, pulmonary edema, and tremors in humans. Convulsions may ensue after an apparent recovery. Chronic (long-term) occupational exposure of workers to phosphine may cause inflammation of the nasal cavity and throat, weakness, dizziness, nausea, gastrointestinal, cardiorespiratory, and central nervous system symptomology, jaundice, liver effects, and increased bone density. EPA has classified phosphine as a Group D, not classifiable as to human carcinogenicity.
+Phosphine has been reported in Artemia salina with data available.
+Phosphine is a highly toxic phosphorus hydride that is formed naturally via the anaerobic decay of phosphorus-containing organic matter or is prepared by an alkali metal hydroxide or white phosphorus hydrolysis reaction. Phosphine is used in industrial processes, in flame retardant production, and as a pesticide. It is characterized as a colorless gas that is odorless when pure. Exposure occurs by inhalation, ingestion, or contact.
+Fumigant for cereals, flour, packaged foods
+
+Phosphine has been shown to exhibit anti-tumor function (A7737).
+
+Phosphine belongs to the family of Other Non-metal Hydrides. These are inorganic compounds in which the heaviest atom bonded to an hydrogen atom is belongs to the class of 'other non-metals'.
+See also: Phosphinidene (annotation moved to).
+Properties:safety: Flammable and Compressed Gas and Corrosive and Acute Toxic and Environmental Hazard
+smiles: P
+formula: H3P
+chem_properties: Molecular Weight: 33.998 g/mol
+XLogP3: -0.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 33.997237093 Da
+Monoisotopic Mass: 33.997237093 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 1
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,28 @@
+Name: 9H-1,7a-(Epoxymethano)-1H,6aH-cyclopenta[c]furo[2,3-b]furo[3',2':3,4]cyclopenta[1,2-d]furan-5,9,12(4H)-trione, 3-tert-butylhexahydro-4,7b-dihydroxy-8-methyl-
+Text:
+9H-1,7a-(Epoxymethano)-1H,6aH-cyclopenta[c]furo[2,3-b]furo[3',2':3,4]cyclopenta[1,2-d]furan-5,9,12(4H)-trione, 3-tert-butylhexahydro-4,7b-dihydroxy-8-methyl- is a diterpene lactone.
+Ginkgolide A is a highly active PAF antagonist cage molecule that is isolated from the leaves of the Ginkgo biloba tree. Shows potential in a wide variety of inflammatory and immunological disorders.
+Ginkgolide A has been reported in Ginkgo biloba with data available.
+See also: Ginkgolide A (annotation moved to).
+Properties:safety: Irritant
+smiles: CC1C(=O)OC2C1(C34C(=O)OC5C3(C2)C6(C(C5)C(C)(C)C)C(C(=O)OC6O4)O)O
+formula: C20H24O9
+chem_properties: Molecular Weight: 408.4 g/mol
+XLogP3: 0.6
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 9
+Rotatable Bond Count: 1
+Exact Mass: 408.14203234 Da
+Monoisotopic Mass: 408.14203234 Da
+Topological Polar Surface Area: 129
+Heavy Atom Count: 29
+Formal Charge: 0
+Complexity: 893
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 10
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,28 @@
+Name: Lipoamide
+Text:
+Lipoamide is a monocarboxylic acid amide resulting from the formal condensation of the carboxy group of lipoic acid with ammonia. It has a role as a human metabolite, a Saccharomyces cerevisiae metabolite, an Escherichia coli metabolite and a mouse metabolite. It is a member of dithiolanes and a monocarboxylic acid amide. It is functionally related to a lipoic acid.
+Lipoamide is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Lipoamide has been reported in Homo sapiens, Apis cerana, and other organisms with data available.
+lipoamide is a metabolite found in or produced by Saccharomyces cerevisiae.
+Properties:safety: Irritant
+smiles: C1CSSC1CCCCC(=O)N
+formula: C8H15NOS2
+chem_properties: Molecular Weight: 205.3 g/mol
+XLogP3: 1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 5
+Exact Mass: 205.05950645 Da
+Monoisotopic Mass: 205.05950645 Da
+Topological Polar Surface Area: 93.7
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 152
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,24 @@
+Name: 2-Methoxyprop-1-ene
+Text:
+Properties:safety: Flammable and Irritant
+smiles: CC(=C)OC
+formula: C4H8O
+chem_properties: Molecular Weight: 72.11 g/mol
+XLogP3: 1.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 1
+Exact Mass: 72.057514874 Da
+Monoisotopic Mass: 72.057514874 Da
+Topological Polar Surface Area: 9.2
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 38.9
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

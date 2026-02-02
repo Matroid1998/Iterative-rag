@@ -1,0 +1,24 @@
+Name: 1-Succinimidyl-3'-pyrenebutyrate
+Text:
+Properties:safety: Irritant
+smiles: C1CC(=O)N(C1=O)OC(=O)CCCC2=C3C=CC4=CC=CC5=C4C3=C(C=C5)C=C2
+formula: C24H19NO4
+chem_properties: Molecular Weight: 385.4 g/mol
+XLogP3: 4.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 6
+Exact Mass: 385.13140809 Da
+Monoisotopic Mass: 385.13140809 Da
+Topological Polar Surface Area: 63.7
+Heavy Atom Count: 29
+Formal Charge: 0
+Complexity: 660
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

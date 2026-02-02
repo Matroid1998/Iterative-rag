@@ -1,0 +1,26 @@
+Name: 4-Dimethylaminopyridine
+Text:
+4-Dimethylaminopyridine is a dialkylarylamine and a tertiary amino compound.
+4-Dimethylaminopyridine has been reported in Panax ginseng with data available.
+Properties:safety: Corrosive and Acute Toxic and Irritant and Health Hazard and Environmental Hazard
+smiles: CN(C)C1=CC=NC=C1
+formula: C7H10N2
+chem_properties: Molecular Weight: 122.17 g/mol
+XLogP3: 1.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 122.084398327 Da
+Monoisotopic Mass: 122.084398327 Da
+Topological Polar Surface Area: 16.1
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 75
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

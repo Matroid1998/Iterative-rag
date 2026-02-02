@@ -1,0 +1,25 @@
+Name: Norcamphene
+Text:
+See also: Norbornene (annotation moved to).
+Properties:safety: Flammable and Irritant and Health Hazard and Environmental Hazard
+smiles: C1CC2CC1C=C2
+formula: C7H10
+chem_properties: Molecular Weight: 94.15 g/mol
+XLogP3: 2.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 94.078250319 Da
+Monoisotopic Mass: 94.078250319 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 90.6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 2
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

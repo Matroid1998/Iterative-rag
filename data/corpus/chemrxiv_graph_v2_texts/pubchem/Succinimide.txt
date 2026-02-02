@@ -1,0 +1,27 @@
+Name: Succinimide
+Text:
+Succinimide is a dicarboximide that is pyrrolidine which is substituted by oxo groups at positions 2 and 5. It is a pyrrolidinone and a dicarboximide.
+Succinimide has been reported in Panax notoginseng and Xanthium strumarium with data available.
+See also: Mercuric succinimide (annotation moved to).
+Properties:safety: Irritant
+smiles: C1CC(=O)NC1=O
+formula: C4H5NO2
+chem_properties: Molecular Weight: 99.09 g/mol
+XLogP3: -1
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 99.032028402 Da
+Monoisotopic Mass: 99.032028402 Da
+Topological Polar Surface Area: 46.2
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 105
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

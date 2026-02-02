@@ -1,0 +1,25 @@
+Name: Biphenylene
+Text:
+Biphenylene is an ortho-fused polycyclic arene and an ortho-fused tricyclic hydrocarbon.
+Properties:safety: Environmental Hazard
+smiles: C1=CC2=C3C=CC=CC3=C2C=C1
+formula: C12H8
+chem_properties: Molecular Weight: 152.19 g/mol
+XLogP3: 2.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 152.062600255 Da
+Monoisotopic Mass: 152.062600255 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 339
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

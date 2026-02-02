@@ -1,0 +1,27 @@
+Name: Neuraminic acid, N-acetyl-
+Text:
+Sialic acid has been reported in Homo sapiens with data available.
+An N-acyl derivative of neuraminic acid. N-acetylneuraminic acid occurs in many polysaccharides, glycoproteins, and glycolipids in animals and bacteria. (From Dorland, 28th ed, p1518)
+See also: Sialic Acid (annotation moved to); N-Acetyl-Neuraminic Acid (annotation moved to); Aceneuramic Acid (annotation moved to).
+Properties:safety: Irritant
+smiles: CC(=O)NC1C(CC(OC1C(C(CO)O)O)(C(=O)O)O)O
+formula: C11H19NO9
+chem_properties: Molecular Weight: 309.27 g/mol
+XLogP3: -3.5
+Hydrogen Bond Donor Count: 7
+Hydrogen Bond Acceptor Count: 9
+Rotatable Bond Count: 5
+Exact Mass: 309.10598118 Da
+Monoisotopic Mass: 309.10598118 Da
+Topological Polar Surface Area: 177
+Heavy Atom Count: 21
+Formal Charge: 0
+Complexity: 403
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 6
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,26 @@
+Name: Benzil
+Text:
+Benzil is an alpha-diketone that is ethane-1,2-dione substituted by phenyl groups at positions 1 and 2 respectively. It is an alpha-diketone and an aromatic ketone.
+benzil is a metabolite found in or produced by Saccharomyces cerevisiae.
+Properties:safety: Irritant
+smiles: C1=CC=C(C=C1)C(=O)C(=O)C2=CC=CC=C2
+formula: C14H10O2
+chem_properties: Molecular Weight: 210.23 g/mol
+XLogP3: 3.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 3
+Exact Mass: 210.068079557 Da
+Monoisotopic Mass: 210.068079557 Da
+Topological Polar Surface Area: 34.1
+Heavy Atom Count: 16
+Formal Charge: 0
+Complexity: 230
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

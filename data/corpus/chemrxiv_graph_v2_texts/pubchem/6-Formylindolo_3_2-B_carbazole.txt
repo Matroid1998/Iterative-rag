@@ -1,0 +1,25 @@
+Name: 6-Formylindolo(3,2-B)carbazole
+Text:
+5,11-dihydroindolo[3,2-b]carbazole-12-carboxaldehyde is an indolocarbazole.
+Properties:safety: Irritant
+smiles: C1=CC=C2C(=C1)C3=CC4=C(C5=CC=CC=C5N4)C(=C3N2)C=O
+formula: C19H12N2O
+chem_properties: Molecular Weight: 284.3 g/mol
+XLogP3: 4.3
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 1
+Exact Mass: 284.094963011 Da
+Monoisotopic Mass: 284.094963011 Da
+Topological Polar Surface Area: 48.7
+Heavy Atom Count: 22
+Formal Charge: 0
+Complexity: 453
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,23 @@
+Name: Triethylsilyl trifluoromethanesulphonate
+Text:
+Properties:safety: Corrosive
+smiles: CC[Si](CC)(CC)OS(=O)(=O)C(F)(F)F
+formula: C7H15F3O3SSi
+chem_properties: Molecular Weight: 264.34 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 5
+Exact Mass: 264.04632653 Da
+Monoisotopic Mass: 264.04632653 Da
+Topological Polar Surface Area: 51.8
+Heavy Atom Count: 15
+Formal Charge: 0
+Complexity: 281
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

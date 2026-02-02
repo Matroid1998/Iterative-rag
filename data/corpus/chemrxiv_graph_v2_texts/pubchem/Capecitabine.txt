@@ -1,0 +1,33 @@
+Name: Capecitabine
+Text:
+Capecitabine is a carbamate ester that is cytidine in which the hydrogen at position 5 is replaced by fluorine and in which the amino group attached to position 4 is converted into its N-(penyloxy)carbonyl derivative. Capecitabine is a antineoplastic agent used in the treatment of cancers. It has a role as an antineoplastic agent, a prodrug and an antimetabolite. It is a carbamate ester, an organofluorine compound and a member of cytidines.
+Capecitabine is an orally-administered chemotherapeutic agent used in the treatment of metastatic breast and colorectal cancers. Capecitabine is a prodrug, that is enzymatically converted to fluorouracil (antimetabolite) in the tumor, where it inhibits DNA synthesis and slows growth of tumor tissue.
+Capecitabine is a Nucleoside Metabolic Inhibitor. The mechanism of action of capecitabine is as a Nucleic Acid Synthesis Inhibitor.
+Capecitabine is a pyrimidine analogue used as an antineoplastic agent to treat metastatic and advanced forms of breast and colon cancer, often in combination with other agents. Capecitabine is associated with a low rate of transient serum aminotransferase elevations during therapy but has been only rarely implicated in cases of clinically apparent acute liver injury.
+Capecitabine is a fluoropyrimidine carbamate belonging to the class of antineoplastic agents called antimetabolites.  As a prodrug, capecitabine is selectively activated by tumor cells to its cytotoxic moiety, 5-fluorouracil (5-FU); subsequently, 5-FU is metabolized to two active metabolites, 5-fluoro-2-deoxyuridine monophosphate (FdUMP) and 5-fluorouridine triphosphate (FUTP) by both tumor cells and normal cells.  FdUMP inhibits DNA synthesis and cell division by reducing normal thymidine production, while FUTP inhibits RNA and protein synthesis by competing with uridine triphosphate for incorporation into the RNA strand. (NCI04)
+CAPECITABINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1998 and has 16 approved and 68 investigational indications. This drug has a black box warning from the FDA.
+Capecitabine is an orally-administered chemotherapeutic agent used in the treatment of metastatic breast and colorectal cancers. Capecitabine is a prodrug, that is enzymatically converted to fluorouracil (antimetabolite) in the tumor, where it inhibits DNA synthesis and slows growth of tumor tissue.
+A deoxycytidine derivative and fluorouracil PRODRUG that is used as an ANTINEOPLASTIC ANTIMETABOLITE in the treatment of COLON CANCER; BREAST CANCER and GASTRIC CANCER.
+See also: 5'-Deoxy-5-fluorocytidine (has active moiety).
+Properties:safety: Irritant and Health Hazard
+smiles: CCCCCOC(=O)NC1=NC(=O)N(C=C1F)[C@H]2[C@@H]([C@@H]([C@H](O2)C)O)O
+formula: C15H22FN3O6
+chem_properties: Molecular Weight: 359.35 g/mol
+XLogP3: 0.6
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 7
+Exact Mass: 359.14926359 Da
+Monoisotopic Mass: 359.14926359 Da
+Topological Polar Surface Area: 121
+Heavy Atom Count: 25
+Formal Charge: 0
+Complexity: 582
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

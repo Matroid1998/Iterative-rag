@@ -1,0 +1,34 @@
+Name: Oxacillin
+Text:
+Oxacillin is a penicillin antibiotic carrying a 5-methyl-3-phenylisoxazole-4-carboxamide group at position 6beta. It has a role as an antibacterial agent and an antibacterial drug. It is a conjugate acid of an oxacillin(1-).
+An antibiotic similar to [flucloxacillin] used in resistant staphylococci infections.
+Oxacillin is a Penicillin-class Antibacterial.
+Oxacillin is a parenteral, second generation penicillin antibiotic that is used to treat moderate-to-severe, penicillinase-resistant staphylococcal infections. Oxacillin has been linked to rare instances of clinically apparent, idiosyncratic liver injury, but it more commonly causes transient elevations in serum aminotransferases without jaundice.
+Oxacillin has been reported in Bos taurus, Cordyceps farinosa, and Liquidambar formosana with data available.
+Oxacillin is a semisynthetic penicillinase-resistant and acid-stable penicillin with an antimicrobial activity. Oxacillin binds to penicillin-binding proteins in the bacterial cell wall, thereby blocking the synthesis of peptidoglycan, a critical component of the bacterial cell wall. This leads to inhibition of cell growth and causes cell lysis.
+Oxacillin Sodium is the sodium salt form of oxacillin, a semisynthetic penicillinase-resistant and acid-stable penicillin with an antimicrobial activity. Oxacillin binds to penicillin-binding proteins in the bacterial cell wall, thereby blocking the synthesis of peptidoglycan, a critical component of the bacterial cell wall. This leads to inhibition of cell growth and causes cell lysis.
+OXACILLIN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1971 and is indicated for infection and bacterial disease and has 5 investigational indications.
+An antibiotic similar to FLUCLOXACILLIN used in resistant staphylococci infections.
+See also: Oxacillin Sodium (has salt form); Oxacillin benzathine (is active moiety of).
+Properties:safety: Irritant and Health Hazard
+smiles: CC1=C(C(=NO1)C2=CC=CC=C2)C(=O)N[C@H]3[C@@H]4N(C3=O)[C@H](C(S4)(C)C)C(=O)O
+formula: C19H19N3O5S
+chem_properties: Molecular Weight: 401.4 g/mol
+XLogP3: 2.4
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 4
+Exact Mass: 401.10454189 Da
+Monoisotopic Mass: 401.10454189 Da
+Topological Polar Surface Area: 138
+Heavy Atom Count: 28
+Formal Charge: 0
+Complexity: 680
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 3
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

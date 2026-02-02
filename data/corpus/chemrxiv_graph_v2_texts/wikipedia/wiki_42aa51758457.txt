@@ -1,0 +1,80 @@
+Steam reforming or steam methane reforming (SMR) is a method for producing syngas (hydrogen and carbon monoxide) by reaction of hydrocarbons with water. Commonly, natural gas is the feedstock. The main purpose of this technology is often hydrogen production, although syngas has multiple other uses such as production of ammonia or methanol. The reaction is represented by this equilibrium:
+
+  
+    
+      
+        
+          
+            CH
+            
+              4
+            
+            
+              
+            
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          
+            
+              
+                
+                  
+                    
+                      ↽
+                    
+                    
+                    
+                    
+                      −
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      −
+                    
+                    
+                    
+                    
+                      ⇀
+                    
+                  
+                
+              
+            
+          
+          CO
+          +
+          3
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {CH4 + H2O <=> CO + 3 H2}}}
+  
+
+The reaction is strongly endothermic (ΔHSR = 206 kJ/mol).
+Hydrogen produced by steam reforming is termed as 'grey' hydrogen when the waste carbon dioxide is released to the atmosphere and 'blue' hydrogen when the carbon dioxide is (mostly) captured and stored geologically—see carbon capture and storage. Zero carbon 'green' hydrogen is produced by thermochemical water splitting, using solar thermal, low- or zero-carbon electricity or waste heat, or electrolysis, using low- or zero-carbon electricity. Zero carbon emissions 'turquoise' hydrogen is produced by one-step methane pyrolysis of natural gas.
+Steam reforming of the natural gas produces most of the world's hydrogen. Hydrogen is used in the industrial synthesis of ammonia and other chemicals.

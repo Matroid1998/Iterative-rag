@@ -1,0 +1,30 @@
+Name: Propylene Oxide
+Text:
+Propylene Oxide can cause cancer according to an independent committee of scientific and health experts.
+Propylene oxide appears as a clear colorless volatile liquid with an ethereal odor. Flash point -35 °F. Boiling point 95 °F. Density 6.9 lb./gal. Flammable over a wide range of vapor-air concentrations. If contaminated, may polymerize with evolution of heat and possible rupture of container. Vapors irritate eyes, skin, and respiratory system. Prolonged contact with skin may result in delayed burns. Vapors heavier than air. Used as a fumigant, in making detergents and lubricants, and to make other chemicals.
+1,2-epoxypropane is an epoxide that is oxirane substituted by a methyl group at position 2. It is functionally related to an oxirane.
+Propylene oxide is used in the production of polyethers (the primary component of polyurethane foams) and propylene glycol. Acute (short-term) exposure of humans and animals to propylene oxide has caused eye and respiratory tract irritation. Dermal contact, even with dilute solutions, has caused skin irritation and necrosis in humans. Propylene oxide is also a mild central nervous system (CNS) depressant in humans. Inflammatory lesions of the nasal cavity, trachea, and lungs and neurological effects have been observed in animals chronically (long-term) exposed to propylene oxide by inhalation. Propylene oxide has been observed to cause tumors at or near the site of administration in rodents, causing forestomach tumors following ingestion via gavage (experimentally placing the chemical in the stomach) and nasal tumors after inhalation exposure. EPA has classified propylene oxide as a Group B2, probable human carcinogen.
+Propylene Oxide is a synthetic, highly-flammable, volatile, colorless liquid that is soluble in water and miscible with many organic solvents. Propylene oxide is used primarily as a chemical intermediate in the production of polyethers and propylene glycol. It is also used as a pesticide and a fumigant for the sterilization of packaged foods and plastic medical instruments. Acute inhalation exposure to vapors of this compound can result in respiratory tract irritation, coughing, difficulty in breathing (dyspnea) and buildup of fluid in the lungs (pulmonary edema) that can possibly lead to pneumonia. Inhale high concentrations of the vapors for short time periods may cause headache, motor weakness, incoordination, ataxia and coma. Contact with propylene oxide can irritate the eyes and skin. It is reasonably anticipated to be a human carcinogen. (NCI05)
+See also: Poloxalene (monomer of); Poloxamer 188 (monomer of); Tetronic 701 (monomer of) ... View More ...
+Properties:safety: Flammable and Acute Toxic and Irritant and Health Hazard
+smiles: CC1CO1
+formula: C3H6O
+chem_properties: Molecular Weight: 58.08 g/mol
+XLogP3: 0
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 58.041864811 Da
+Monoisotopic Mass: 58.041864811 Da
+Topological Polar Surface Area: 12.5
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 26.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

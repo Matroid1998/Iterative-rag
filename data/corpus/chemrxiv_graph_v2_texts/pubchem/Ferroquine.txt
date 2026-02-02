@@ -1,0 +1,23 @@
+Name: Ferroquine
+Text:
+Properties:safety: Irritant and Health Hazard
+smiles: CN(C)CC1=CC=C[C-]1CNC2=C3C=CC(=CC3=NC=C2)Cl.[CH-]1C=CC=C1.[Fe+2]
+formula: C23H24ClFeN3
+chem_properties: Molecular Weight: 433.8 g/mol
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 5
+Exact Mass: 433.100811 Da
+Monoisotopic Mass: 433.100811 Da
+Topological Polar Surface Area: 28.2
+Heavy Atom Count: 28
+Formal Charge: 0
+Complexity: 419
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,29 @@
+Name: 1,1-Dimethylhydrazine
+Text:
+1,1-Dimethylhydrazine (UDMH) can cause cancer according to California Labor Code.
+1,1-dimethylhydrazine appears as a clear colorless liquid with an ammonia-like odor. Flash point 0 °F. Corrosive to the skin. Less dense than water and soluble in water. Vapors are heavier than air and very toxic by inhalation, attacking the eyes and respiratory system. Prolonged exposure of containers to heat may result in their violent rupturing and rocketing due to decomposition. Generates toxic oxides of nitrogen when burned. Vapors may travel to a source of ignition and a flame can flashback to the source of vapors. Used as a rocket propellant and to make other chemicals.
+1,1-dimethylhydrazine is a member of the class of hydrazines that is hydrazine substituted by two methyl groups at position 1. It has a role as a carcinogenic agent, a teratogenic agent and a fuel. It is functionally related to a hydrazine.
+1,1-Dimethylhydrazine is primarily used as a high-energy fuel in military applications and as a rocket propellant and fuel for thrusters. Acute (short-term) inhalation exposure of humans to 1,1- dimethylhydrazine results in nose and throat irritation, mild conjunctivitis, nausea, and vomiting. It is also highly corrosive and irritating to the skin, eyes, and mucous membranes. Liver damage in humans may occur from chronic (long-term) exposure to 1,1-dimethylhydrazine. No information is available on the reproductive, developmental, or carcinogenic effects of 1,1-dimethylhydrazine in humans. Carcinogenic effects have been observed in animals exposed to 1,1-dimethylhydrazine by inhalation and orally, predominantly to the lung and liver. EPA has not classified 1,1-dimethylhydrazine for potential carcinogenicity. The International Agency for Research on Cancer (IARC) has classified 1,1- dimethylhydrazine as a Group 2B, the chemical is possibly carcinogenic to humans.
+1,1-Dimethylhydrazine is a clear, colorless, flammable, hygroscopic liquid with a fishy smell that emits toxic fumes of nitrogen oxides when heated to decomposition, and turns yellow upon contact with air. 1,1-Dimethylhydrazine is mainly used as a high-energy fuel in jets and rockets, but is also used in chemical synthesis, in photography and to control the growth of vegetation. This substance is also found in tobacco products. Exposure to 1,1-dimethylhydrazine results in irritation of skin, eyes and mucous membranes, and can affect liver and central nervous system. 1,1-Dimethylhydrazine is reasonably anticipated to be a human carcinogen. (NCI05)
+Properties:safety: Flammable and Corrosive and Acute Toxic and Health Hazard and Environmental Hazard
+smiles: CN(C)N
+formula: C2H8N2
+chem_properties: Molecular Weight: 60.10 g/mol
+XLogP3: -0.5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 60.068748264 Da
+Monoisotopic Mass: 60.068748264 Da
+Topological Polar Surface Area: 29.3
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 11.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

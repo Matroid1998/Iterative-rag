@@ -1,0 +1,24 @@
+Name: Sodium acrylate
+Text:
+See also:  ... View More ...
+Properties:safety: Irritant and Environmental Hazard
+smiles: C=CC(=O)[O-].[Na+]
+formula: C3H3NaO2
+chem_properties: Molecular Weight: 94.04 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 94.00307362 Da
+Monoisotopic Mass: 94.00307362 Da
+Topological Polar Surface Area: 40.1
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 59.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

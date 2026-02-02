@@ -1,0 +1,32 @@
+Name: Loratadine
+Text:
+Loratadine is a benzocycloheptapyridine that is 6,11-dihydro-5H-benzo[5,6]cyclohepta[1,2-b]pyridine substituted by a chloro group at position 8 and a 1-(ethoxycarbonyl)piperidin-4-ylidene group at position 11. It is a H1-receptor antagonist commonly employed in the treatment of allergic disorders. It has a role as a geroprotector, a H1-receptor antagonist, an anti-allergic agent and a cholinergic antagonist. It is an ethyl ester, a N-acylpiperidine, a tertiary carboxamide, an organochlorine compound and a benzocycloheptapyridine. It is functionally related to a desloratadine.
+Loratadine is a second generation antihistamine used to manage symptoms of allergic rhinitis. A lack of sedative and CNS adverse effects make loratadine, along with other second generation antihistamines, preferable over their 1st generation counterparts in many clinical situations.
+Loratadine has been reported in Penicillium granulatum with data available.
+Loratadine is a piperidine histamine H1-receptor antagonist with anti-allergic properties and without sedative effects. Loratadine blocks the H1 histamine receptor and prevents the symptoms that are caused by histamine activity on capillaries, bronchial smooth muscle, and gastrointestinal smooth muscle, including vasodilatation, increased capillary permeability, bronchoconstriction, and spasmodic contraction of gastrointestinal smooth muscle. Loratadine does not cross the blood-brain barrier and does not cause central nervous system effects.
+LORATADINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1993 and has 6 approved and 11 investigational indications.
+Loratadine is a tricyclic antihistamine, which has a selective and peripheral H1-antagonist action. It has a long-lasting effect and does not normally cause drowsiness because it does not readily enter the central nervous system; An antiviral that is used in the prophylactic or symptomatic treatment of influenza A. It is also used as an antiparkinsonian agent, to treat extrapyramidal reactions, and for postherpetic neuralgia. The mechanisms of its effects in movement disorders are not well understood but probably reflect an increase in synthesis and release of dopamine, with perhaps some inhibition of dopamine uptake; Loratadine is a drug used to treat allergies. It is marketed by Schering-Plough under several trade names such as Claritin, Clarityn or Claratyne depending on the market, by Lek as Lomilan and by Wyeth as Alavert. It is also available as a generic; Loratadine is a drug used to treat allergies. It is marketed by Schering-Plough under several trade names such as Claritin, Clarityn or Claratyne depending on the market, by Lek as Lomilan and by Wyeth as Alavert. It is also available as a generic. Its active metabolite, desloratadine, is also on the market, though loratadine itself is the only drug of its class available over the counter (at least in the U.S. as of 2005. Loratadine is available off the shelf in the UK.
+A second-generation histamine H1 receptor antagonist used in the treatment of allergic rhinitis and urticaria. Unlike most classical antihistamines (HISTAMINE H1 ANTAGONISTS) it lacks central nervous system depressing effects such as drowsiness.
+See also: Loratadine; pseudoephedrine sulfate (component of); Loratadine hydrochloride (is active moiety of).
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: CCOC(=O)N1CCC(=C2C3=C(CCC4=C2N=CC=C4)C=C(C=C3)Cl)CC1
+formula: C22H23ClN2O2
+chem_properties: Molecular Weight: 382.9 g/mol
+XLogP3: 5.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 2
+Exact Mass: 382.1448057 Da
+Monoisotopic Mass: 382.1448057 Da
+Topological Polar Surface Area: 42.4
+Heavy Atom Count: 27
+Formal Charge: 0
+Complexity: 569
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

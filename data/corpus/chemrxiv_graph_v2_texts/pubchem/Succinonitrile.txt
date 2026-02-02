@@ -1,0 +1,26 @@
+Name: Succinonitrile
+Text:
+Succinonitrile appears as colorless to light brown crystals. Colorless waxy solid melting at 57 °C. Highly toxic.
+Succinonitrile is a chemical compound of cyanide.
+Properties:safety: Acute Toxic and Irritant and Environmental Hazard
+smiles: C(CC#N)C#N
+formula: C4H4N2
+chem_properties: Molecular Weight: 80.09 g/mol
+XLogP3: -1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 80.037448136 Da
+Monoisotopic Mass: 80.037448136 Da
+Topological Polar Surface Area: 47.6
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 92
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

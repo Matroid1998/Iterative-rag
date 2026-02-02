@@ -1,0 +1,23 @@
+Name: Triethoxymethylsilane
+Text:
+Properties:safety: Flammable
+smiles: CCO[Si](C)(OCC)OCC
+formula: C7H18O3Si
+chem_properties: Molecular Weight: 178.30 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 6
+Exact Mass: 178.10252097 Da
+Monoisotopic Mass: 178.10252097 Da
+Topological Polar Surface Area: 27.7
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 80.7
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

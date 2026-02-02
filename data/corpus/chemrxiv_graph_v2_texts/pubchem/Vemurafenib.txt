@@ -1,0 +1,32 @@
+Name: Vemurafenib
+Text:
+Vemurafenib is a pyrrolopyridine that is 1H-pyrrolo[2,3-b]pyridine which is substituted at position 5 by a p-chlorophenyl group and at positions 3 by a 3-amino-2,6-difluorobenzoyl group, the amino group of which has undergone formal condensation with propane-1-sulfonic acid to give the corresponding sulfonamide. An inhibitor of BRAF and other kinases. It has a role as an antineoplastic agent and a B-Raf inhibitor. It is a pyrrolopyridine, a sulfonamide, a member of monochlorobenzenes, a difluorobenzene and an aromatic ketone.
+Vemurafenib is a competitive kinase inhibitor with activity against BRAF kinase with mutations like V600E. It exerts its function by binding to the ATP-binding domain of the mutant BRAF. Vemurafenib was co-developed by Roche and Plexxikon and it obtained its FDA approval on August 17, 2011, under the company Hoffmann La Roche. After approval, Roche in collaboration with Genentech launched a broad development program.
+Vemurafenib is a Kinase Inhibitor. The mechanism of action of vemurafenib is as a Protein Kinase Inhibitor, and Cytochrome P450 1A2 Inhibitor, and P-Glycoprotein Inhibitor.
+Vemurafenib is a Kinase Inhibitor. The mechanism of action of vemurafenib is as a Protein Kinase Inhibitor.
+Vemurafenib is a selective inhibitor of BRAF kinase that is used in the therapy of patients with metastatic and advanced malignant melanoma. Vemurafenib therapy is commonly associated with transient elevations in serum aminotransferase during therapy and has been linked to rare, but occasionally severe cases of clinically apparent acute liver injury.
+Vemurafenib is an orally bioavailable, ATP-competitive, small-molecule inhibitor of BRAF(V600E) kinase with potential antineoplastic activity. Vemurafenib selectively binds to the ATP-binding site of BRAF(V600E) kinase and inhibits its activity, which may result in an inhibition of an over-activated MAPK signaling pathway downstream in BRAF(V600E) kinase-expressing tumor cells and a reduction in tumor cell proliferation. Approximately 90% of BRAF gene mutations involve a valine-to-glutamic acid mutation at residue 600 (V600E); the oncogene protein product, BRAF(V600E) kinase, exhibits a markedly elevated activity that over-activates the MAPK signaling pathway. The BRAF(V600E) gene mutation has been found to occur in approximately 60% of melanomas, and in about 8% of all solid tumors, including melanoma, colorectal, thyroid and other cancers.
+VEMURAFENIB is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2011 and has 5 approved and 16 investigational indications.
+An indole sulfonamide compound and inhibitor of BRAF KINASES that is used for the treatment of unresectable or metastatic MELANOMA.
+Properties:safety: Irritant and Health Hazard
+smiles: CCCS(=O)(=O)NC1=C(C(=C(C=C1)F)C(=O)C2=CNC3=C2C=C(C=N3)C4=CC=C(C=C4)Cl)F
+formula: C23H18ClF2N3O3S
+chem_properties: Molecular Weight: 489.9 g/mol
+XLogP3: 5
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 7
+Exact Mass: 489.0725466 Da
+Monoisotopic Mass: 489.0725466 Da
+Topological Polar Surface Area: 100
+Heavy Atom Count: 33
+Formal Charge: 0
+Complexity: 790
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

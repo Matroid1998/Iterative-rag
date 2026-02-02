@@ -1,0 +1,18 @@
+Description:
+A component of materials that can form metallic organic salts with mixed ionic and covalent bonding.
+
+Text:
+In this computational study, we address materials composed 
+formally of K and CO, and focus especially on K3C6O6, a material 
+we predict to feature oxocarbon radical anions, extreme metal
+licity and the potential for rare band superconductivity. Our 
+study is in part motivated by the possibility of producing me
+tallic organic salts, i.e., compounds where ionic and covalent 
+bonding situations are mixed in a metallic solidstate struc
+ture.1 Such compounds can exhibit a range of properties 
+needed in, for example, spintronics, superconductors, optoe
+lectronic devices, and electrochemical sensors.24 
+CO is a common ligand useful for probing electronic structure 
+in part due to its ability to engage in backdonation. However, 
+CO can also react with itself. The thermodynamic ground state 
+of CO in the condensed phase is experimentally uncertain.

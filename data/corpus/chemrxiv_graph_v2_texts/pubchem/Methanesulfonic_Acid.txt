@@ -1,0 +1,27 @@
+Name: Methanesulfonic Acid
+Text:
+Methanesulfonic acid is an alkanesulfonic acid in which the alkyl group directly linked to the sulfo functionality is methyl. It has a role as an Escherichia coli metabolite. It is an alkanesulfonic acid and a one-carbon compound. It is a conjugate acid of a methanesulfonate.
+Methanesulfonate is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Alkanesulfonate is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Properties:safety: Corrosive
+smiles: CS(=O)(=O)O
+formula: CH4O3S
+chem_properties: Molecular Weight: 96.11 g/mol
+XLogP3: -0.9
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 95.98811516 Da
+Monoisotopic Mass: 95.98811516 Da
+Topological Polar Surface Area: 62.8
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 92.6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

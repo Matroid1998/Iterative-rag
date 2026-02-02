@@ -1,0 +1,34 @@
+Name: Dopamine
+Text:
+Dopamine is catechol in which the hydrogen at position 4 is substituted by a 2-aminoethyl group. It has a role as a cardiotonic drug, a beta-adrenergic agonist, a dopaminergic agent, a sympathomimetic agent, a human metabolite, an Escherichia coli metabolite and a mouse metabolite. It is a conjugate base of a dopaminium(1+).
+One of the catecholamine neurotransmitters in the brain.  It is derived from tyrosine and is the precursor to norepinephrine and epinephrine. Dopamine is a major transmitter in the extrapyramidal system of the brain, and important in regulating movement. A family of receptors (receptors, dopamine) mediate its action.
+Dopamine is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Dopamine is a Catecholamine.
+Dopamine has been reported in Magnolia officinalis, Senegalia berlandieri, and other organisms with data available.
+Dopamine is a monoamine compound with positive inotropic activity. Dopamine is a naturally occurring catecholamine formed by decarboxylation of dehydroxyphenylalanine and a precursor of norepinephrine and epinephrine. Dopamine binds to alpha-1 and beta-1 adrenergic receptors. Mediated through myocardial beta-1 adrenergic receptors, dopamine increase heart rate and force, thereby increasing cardiac output. Alpha-1 adrenergic receptor stimulation on vascular smooth muscle, leads to vasoconstriction and results in an increase in systemic vascular resistance. Stimulation of dopaminergic receptors in renal vasculature, leads to renal blood vessel dilation, and an increase in glomerular filtration rate, renal blood flow, sodium excretion, and urine output.
+DOPAMINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) and has 4 approved and 9 investigational indications.
+One of the catecholamine neurotransmitters in the brain.  It is derived from tyrosine and is the precursor to norepinephrine and epinephrine. Dopamine is a major transmitter in the extrapyramidal system of the brain, and important in regulating movement. A family of receptors (receptors, dopamine) mediate its action. [PubChem]
+One of the catecholamine NEUROTRANSMITTERS in the brain. It is derived from TYROSINE and is the precursor to NOREPINEPHRINE and EPINEPHRINE. Dopamine is a major transmitter in the extrapyramidal system of the brain, and important in regulating movement. A family of receptors (RECEPTORS, DOPAMINE) mediate its action.
+See also: Dopamine Hydrochloride (has salt form); Cytisus scoparius flowering top (has part) ... View More ...
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: C1=CC(=C(C=C1CCN)O)O
+formula: C8H11NO2
+chem_properties: Molecular Weight: 153.18 g/mol
+XLogP3: -1
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 2
+Exact Mass: 153.078978594 Da
+Monoisotopic Mass: 153.078978594 Da
+Topological Polar Surface Area: 66.5
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 119
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

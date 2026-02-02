@@ -1,0 +1,35 @@
+Name: Quinine
+Text:
+Quinine is a cinchona alkaloid that is cinchonidine in which the hydrogen at the 6-position of the quinoline ring is substituted by methoxy. It has a role as an antimalarial, a muscle relaxant and a non-narcotic analgesic. It is a conjugate base of a quinine(1+). It derives from a hydride of an (8S)-cinchonan.
+An alkaloid derived from the bark of the cinchona tree. It is used as an antimalarial drug, and is the active ingredient in extracts of the cinchona that have been used for that purpose since before 1633. Quinine is also a mild antipyretic and analgesic and has been used in common cold preparations for that purpose. It was used commonly and as a bitter and flavoring agent, and is still useful for the treatment of babesiosis. Quinine is also useful in some muscular disorders, especially nocturnal leg cramps and myotonia congenita, because of its direct effects on muscle membrane and sodium channels. The mechanisms of its antimalarial effects are not well understood.  Quinine (GLS-1200) was also investigated in clinical trials for its efficacy in preventing SARS-CoV-2 infection (NCT04408183, terminated) and is planned to be evaluated for preventing sinusitis after endoscopic sinus surgery (NCT04060316).
+Quinine is an Antimalarial.
+Quinine is a natural cinchona alkaloid that has been used for centuries in the prevention and therapy of malaria. Quinine is also used for idiopathic muscle cramps. Quinine therapy has been associated with rare instances of hypersensitivity reactions which can be accompanied by hepatitis and mild jaundice.
+Quinine has been reported in Cinchona calisaya, Festuca ovina, and other organisms with data available.
+Quinine Sulfate is the sulfate salt form of the quinidine alkaloid isolate quinine. Quinine has many mechanisms of action, including reduction of oxygen intake and carbohydrate metabolism; disruption of DNA replication and transcription via DNA intercalation; and reduction of the excitability of muscle fibers via alteration of calcium distribution.  This agent also inhibits the drug efflux pump P-glycoprotein which is overexpressed in multi-drug resistant tumors and may improve the efficacy of some antineoplastic agents. (NCI04)
+Quinine is a quinidine alkaloid isolated from the bark of the cinchona tree. Quinine has many mechanisms of action, including reduction of oxygen intake and carbohydrate metabolism; disruption of DNA replication and transcription via DNA intercalation; and reduction of the excitability of muscle fibers via alteration of calcium distribution.  This agent also inhibits the drug efflux pump P-glycoprotein which is overexpressed in multi-drug resistant tumors and may improve the efficacy of some antineoplastic agents. (NCI04)
+QUININE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2005 and has 3 approved and 6 investigational indications. This drug has a black box warning from the FDA.
+Quinine is an alkaloid derived from the bark of the cinchona tree. It is used as an antimalarial drug, and is the active ingredient in extracts of the cinchona that have been used for that purpose since before 1633. Quinine is also a mild antipyretic and analgesic and has been used in common cold preparations for that purpose. It was used commonly and as a bitter and flavoring agent, and is still useful for the treatment of babesiosis. Quinine is also useful in some muscular disorders, especially nocturnal leg cramps and myotonia congenita, because of its direct effects on muscle membrane and sodium channels. The mechanisms of its antimalarial effects are not well understood.
+An alkaloid derived from the bark of the cinchona tree. It is used as an antimalarial drug, and is the active ingredient in extracts of the cinchona that have been used for that purpose since before 1633. Quinine is also a mild antipyretic and analgesic and has been used in common cold preparations for that purpose. It was used commonly and as a bitter and flavoring agent, and is still useful for the treatment of babesiosis. Quinine is also useful in some muscular disorders, especially nocturnal leg cramps and myotonia congenita, because of its direct effects on muscle membrane and sodium channels. The mechanisms of its antimalarial effects are not well understood.
+See also: Quinine Sulfate (has salt form); Quinine Bisulfate (is active moiety of); Quinine salicylate (active moiety of) ... View More ...
+Properties:safety: Irritant and Health Hazard
+smiles: COC1=CC2=C(C=CN=C2C=C1)[C@H]([C@@H]3C[C@@H]4CCN3C[C@@H]4C=C)O
+formula: C20H24N2O2
+chem_properties: Molecular Weight: 324.4 g/mol
+XLogP3: 2.9
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 4
+Exact Mass: 324.183778013 Da
+Monoisotopic Mass: 324.183778013 Da
+Topological Polar Surface Area: 45.6
+Heavy Atom Count: 24
+Formal Charge: 0
+Complexity: 457
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

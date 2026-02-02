@@ -1,0 +1,31 @@
+Name: 1,1-Dichloroethane
+Text:
+1,1-Dichloroethane is a colorless, oily liquid with a sweet odor. It evaporates easily at room temperature and burns easily. It does not occur naturally in the environment.In the past, 1,1-dichloroethane was used as a surgical anesthetic, but it is no longer used this way. Today it is used primarily to make other chemicals, to dissolve substances such as paint, varnish, and finish removers, and to remove grease.
+1,1-Dichloroethane can cause cancer according to The Environmental Protection Agency (EPA).
+1,1-dichloroethane appears as a colorless liquid with an ether-like odor. Slightly soluble in water and slightly denser than water. Flash point below 70 °F. Vapors denser than air. Used to make other chemicals.
+1,1-Dichloroethane is an organochlorine compound.
+Ethylidene dichloride is primarily used as an intermediate in chemical synthesis. Acute (short-term) inhalation exposure to high levels of ethylidene dichloride in humans results in central nervous system (CNS) depression and a cardiostimulating effect resulting in cardiac arrhythmias. Studies in animals have reported effects on the kidney. No information is available on the chronic (long-term), reproductive, developmental, or carcinogenic effects of ethylidene dichloride in humans. An oral animal study reported a significantly positive dose-related trend in hemangiosarcomas, mammary tumors, liver tumors, and endometrial stromal polyps. EPA has classified ethylidene dichloride as a Group C, possible human carcinogen.
+1,1-Dichloroethane is a colorless, oily, man-made liquid. It evaporates quickly at room temperature and has an odor like ether. 1,1-Dichloroethane burns easily. When 1,1-dichloroethane is released to the environment, it usually exists as a vapor rather than a liquid. It is used primarily to make 1,1,1-trichloroethane and a number of other chemicals. It is also used to dissolve other substances such as paint, varnish and finish removers, and to remove grease. 1,1-Dichloroethane was used as a surgical anesthetic, but is no longer. (L403)
+See also: Dichloroethane, all isomers (annotation moved to).
+Properties:safety: Flammable and Irritant
+smiles: CC(Cl)Cl
+formula: C2H4Cl2
+chem_properties: Molecular Weight: 98.96 g/mol
+XLogP3: 1.9
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 97.9690055 Da
+Monoisotopic Mass: 97.9690055 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 11.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

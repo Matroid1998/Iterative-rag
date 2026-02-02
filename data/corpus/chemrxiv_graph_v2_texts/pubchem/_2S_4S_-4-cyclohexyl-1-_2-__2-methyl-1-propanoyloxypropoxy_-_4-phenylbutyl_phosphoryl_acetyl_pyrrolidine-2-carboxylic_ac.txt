@@ -1,0 +1,30 @@
+Name: (2S,4S)-4-cyclohexyl-1-[2-[(2-methyl-1-propanoyloxypropoxy)-(4-phenylbutyl)phosphoryl]acetyl]pyrrolidine-2-carboxylic acid
+Text:
+Fosinopril is a phosphinate ester-containing N-acyl derivative of (4S)-cyclohexyl-L-proline. It is used for the treatment of hypertension and heart failure. A pro-drug, it is hydrolysed in vivo to the corresponding phosphininc acid, fosinoprilat, which is the active metabolite. It has a role as an EC 3.4.15.1 (peptidyl-dipeptidase A) inhibitor, a prodrug and an antihypertensive agent. It is a phosphinic ester and a L-proline derivative. It is functionally related to a fosinoprilat. It is a conjugate acid of a fosinopril(1-).
+Fosinopril is a phosphinic acid-containing ester prodrug that belongs to the angiotensin-converting enzyme (ACE) inhibitor class of medications. It is rapidly hydrolyzed to fosinoprilat, its principle active metabolite. Fosinoprilat inhibits ACE, the enzyme responsible for the conversion of angiotensin I (ATI) to angiotensin II (ATII). ATII regulates blood pressure and is a key component of the renin-angiotensin-aldosterone system (RAAS). Fosinopril may be used to treat mild to moderate hypertension, as an adjunct in the treatment of congestive heart failure, and to slow the rate of progression of renal disease in hypertensive individuals with diabetes mellitus and microalbuminuria or overt nephropathy.
+Fosinopril is an angiotensin-converting enzyme (ACE) inhibitor used in the therapy of hypertension and heart failure. Fosinopril is associated with a low rate of transient serum aminotransferase elevations during therapy and has been linked to rare instances of acute liver injury.
+Fosinopril is a phosphinic acid-containing angiotensin-converting enzyme (ACE) inhibitor with antihypertensive activity. As an ester prodrug, fosinopril is hydrolysed by esterases to its active metabolite fosinoprilat. Fosinoprilat specifically and competitively inhibits angiotensin-converting enzyme thereby decreasing the formation of the potent vasoconstrictor angiotensin II, resulting in diminished vasopressor activity. In addition, angiotensin II-mediated aldosterone secretion by adrenal cortex is decreased, which results in a decrease of sodium retention and an increase in water outflow.
+A phosphinic acid-containing angiotensin-converting enzyme inhibitor that is effective in the treatment of hypertension. It is a prodrug that is converted to its active metabolite fosinoprilat.
+See also: Fosinopril (annotation moved to).
+Properties:safety: Health Hazard
+smiles: CCC(=O)OC(C(C)C)OP(=O)(CCCCC1=CC=CC=C1)CC(=O)N2C[C@@H](C[C@H]2C(=O)O)C3CCCCC3
+formula: C30H46NO7P
+chem_properties: Molecular Weight: 563.7 g/mol
+XLogP3: 6.2
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 15
+Exact Mass: 563.30118980 Da
+Monoisotopic Mass: 563.30118980 Da
+Topological Polar Surface Area: 110
+Heavy Atom Count: 39
+Formal Charge: 0
+Complexity: 850
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 2
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

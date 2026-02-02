@@ -1,0 +1,23 @@
+Name: Phenethylamine hydrochloride
+Text:
+Properties:safety: Irritant
+smiles: C1=CC=C(C=C1)CCN.Cl
+formula: C8H12ClN
+chem_properties: Molecular Weight: 157.64 g/mol
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 2
+Exact Mass: 157.0658271 Da
+Monoisotopic Mass: 157.0658271 Da
+Topological Polar Surface Area: 26
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 65
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

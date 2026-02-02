@@ -1,0 +1,31 @@
+Name: Menthol
+Text:
+D,l-menthol is a white crystalline solid with a peppermint odor and taste. (NTP, 1992)
+P-menthan-3-ol is any secondary alcohol that is one of the eight possible diastereoisomers of 5-methyl-2-(propan-2-yl)cyclohexan-1-ol. It has a role as a volatile oil component. It is a p-menthane monoterpenoid and a secondary alcohol.
+Menthol has been reported in Camellia sinensis, Solanum tuberosum, and other organisms with data available.
+Menthol is an organic compound made synthetically or obtained from peppermint or mint oils with flavoring and local anesthetic properties. When added to pharmaceuticals and foods, menthol functions as a fortifier for peppermint flavors. It also has a counterirritant effect on skin and mucous membranes, thereby producing a local analgesic or anesthetic effect.
+MENTHOL is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2008 and has 28 approved and 5 investigational indications.
+Menthol is a metabolite found in or produced by Saccharomyces cerevisiae.
+A monoterpene cyclohexanol produced from mint oils.
+Properties:safety: Irritant
+smiles: CC1CCC(C(C1)O)C(C)C
+formula: C10H20O
+chem_properties: Molecular Weight: 156.26 g/mol
+XLogP3: 3
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 1
+Exact Mass: 156.151415257 Da
+Monoisotopic Mass: 156.151415257 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 120
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 3
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

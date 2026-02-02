@@ -1,0 +1,71 @@
+In physics, the elastic potential energy gained by a wire during elongation with a tensile (stretching) or compressive (contractile) force is called strain energy.  For linearly elastic materials, strain energy is:
+
+  
+    
+      
+        U
+        =
+        
+          
+            1
+            2
+          
+        
+        V
+        σ
+        ε
+        =
+        
+          
+            1
+            2
+          
+        
+        V
+        E
+        
+          ε
+          
+            2
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          
+            V
+            E
+          
+        
+        
+          σ
+          
+            2
+          
+        
+      
+    
+    {\displaystyle U={\frac {1}{2}}V\sigma \varepsilon ={\frac {1}{2}}VE\varepsilon ^{2}={\frac {1}{2}}{\frac {V}{E}}\sigma ^{2}}
+  
+
+where σ is stress, ε is strain, V is volume, and E is Young's modulus:
+
+  
+    
+      
+        E
+        =
+        
+          
+            σ
+            ε
+          
+        
+      
+    
+    {\displaystyle E={\frac {\sigma }{\varepsilon }}}

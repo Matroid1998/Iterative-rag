@@ -1,0 +1,37 @@
+Name: Pyrimethamine
+Text:
+Pyrimethamine can cause developmental toxicity according to state or federal government labeling requirements.
+Pyrimethamine is an odorless white crystalline powder. Tasteless. An antimalarial drug.
+Pyrimethamine is an aminopyrimidine that is pyrimidine-2,4-diamine which is substituted at position 5 by a p-chlorophenyl group and at position 6 by an ethyl group. It is a folic acid antagonist used as an antimalarial or with a sulfonamide to treat toxoplasmosis. It has a role as an antimalarial, an EC 1.5.1.3 (dihydrofolate reductase) inhibitor and an antiprotozoal drug. It is an aminopyrimidine and a member of monochlorobenzenes.
+Pyrimethamine is an antiparasitic prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of Toxoplasma gondiiinfection (toxoplasmosis). Pyrimethamine is usually used together with a sulfonamide (sulfa medicine) to treat toxoplasmosis.
+Toxoplasmosis of the brain (also called Toxoplasma gondii encephalitis) can be&nbsp;an opportunistic infection (OI) of HIV.
+One of the folic acid antagonists that is used as an antimalarial or with a sulfonamide to treat toxoplasmosis.
+Pyrimethamine is a Dihydrofolate Reductase Inhibitor Antimalarial. The mechanism of action of pyrimethamine is as a Dihydrofolate Reductase Inhibitor.
+Pyrimethamine has been reported in Acronychia pubescens with data available.
+Pyrimethamine is a synthetic derivative of ethyl-pyrimidine with potent antimalarial properties.  Pyrimethamine is a competitive inhibitor of dihydrofolate reductase (DHFR).  DHFR is a key enzyme in the redox cycle for production of tetrahydrofolate, a cofactor that is required for the synthesis of DNA and proteins.  This agent is often used in combination with other antimalarials for the treatment of uncomplicated falciparum malaria. (NCI04)
+PYRIMETHAMINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1953 and is indicated for toxoplasmosis and malaria and has 20 investigational indications.
+One of the folic acid antagonists that is used as an antimalarial or with a sulfonamide to treat toxoplasmosis. 
+One of the FOLIC ACID ANTAGONISTS that is used as an antimalarial or with a sulfonamide to treat toxoplasmosis.
+See also: Pyrimethamine; sulfadoxine (component of); Pyrimethamine pamoate (is active moiety of); Pyrimethamine; Sulfadiazine Sodium (component of) ... View More ...
+Properties:safety: Irritant
+smiles: CCC1=C(C(=NC(=N1)N)N)C2=CC=C(C=C2)Cl
+formula: C12H13ClN4
+chem_properties: Molecular Weight: 248.71 g/mol
+XLogP3: 2.7
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 2
+Exact Mass: 248.0828741 Da
+Monoisotopic Mass: 248.0828741 Da
+Topological Polar Surface Area: 77.8
+Heavy Atom Count: 17
+Formal Charge: 0
+Complexity: 243
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

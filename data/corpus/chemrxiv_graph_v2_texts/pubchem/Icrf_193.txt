@@ -1,0 +1,25 @@
+Name: Icrf 193
+Text:
+ICRF-193 is an N-alkylpiperazine that is butane which is substituted by a 3,5-dioxopiperazin-1-yl group at positions 2 and 3. The meso isomer. It has a role as an EC 5.99.1.3 [DNA topoisomerase (ATP-hydrolysing)] inhibitor, an apoptosis inducer and an antineoplastic agent.
+Properties:safety: Acute Toxic
+smiles: C[C@H]([C@H](C)N1CC(=O)NC(=O)C1)N2CC(=O)NC(=O)C2
+formula: C12H18N4O4
+chem_properties: Molecular Weight: 282.30 g/mol
+XLogP3: -1
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 3
+Exact Mass: 282.13280507 Da
+Monoisotopic Mass: 282.13280507 Da
+Topological Polar Surface Area: 98.8
+Heavy Atom Count: 20
+Formal Charge: 0
+Complexity: 390
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,27 @@
+Name: Altertoxin I
+Text:
+Dihydroalterperylenol is a naphthalenone.
+Altertoxin I has been reported in Alternaria cassiae, Sonneratia alba, and other organisms with data available.
+Altertoxin-1 is an altertoxin, which is a mycotoxin of Alternaria fungi. Altertoxins are important contaminants in cereals, vegetables, and fruits, as well as in the ground, on wood or walls. Studies have shown altertoxins to be toxic, genotoxic, mutagenic, and carcinogenic. In particular, they have been associated with esophageal cancer in humans. (A2977, A2979)
+Properties:safety: Acute Toxic
+smiles: C1C[C@]2([C@@H]3[C@H](CC(=O)C4=C(C=CC(=C34)C5=C2C(=C(C=C5)O)C1=O)O)O)O
+formula: C20H16O6
+chem_properties: Molecular Weight: 352.3 g/mol
+XLogP3: 1.4
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 0
+Exact Mass: 352.09468823 Da
+Monoisotopic Mass: 352.09468823 Da
+Topological Polar Surface Area: 115
+Heavy Atom Count: 26
+Formal Charge: 0
+Complexity: 648
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 3
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

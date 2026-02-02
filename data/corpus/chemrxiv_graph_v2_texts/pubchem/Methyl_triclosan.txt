@@ -1,0 +1,24 @@
+Name: Methyl triclosan
+Text:
+Properties:safety: Environmental Hazard
+smiles: COC1=C(C=CC(=C1)Cl)OC2=C(C=C(C=C2)Cl)Cl
+formula: C13H9Cl3O2
+chem_properties: Molecular Weight: 303.6 g/mol
+XLogP3: 5.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 3
+Exact Mass: 301.966813 Da
+Monoisotopic Mass: 301.966813 Da
+Topological Polar Surface Area: 18.5
+Heavy Atom Count: 18
+Formal Charge: 0
+Complexity: 265
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

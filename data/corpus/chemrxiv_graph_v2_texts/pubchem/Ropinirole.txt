@@ -1,0 +1,31 @@
+Name: Ropinirole
+Text:
+Ropinirole is a member of indolones and a tertiary amine. It has a role as a dopamine agonist, an antiparkinson drug, a central nervous system drug and an antidyskinesia agent.
+Ropinirole, also known as ReQuip, is a non-ergoline dopamine agonist used in Parkinson's disease and restless legs syndrome,. It is manufactured by GlaxoSmithKline Pharmaceuticals.   Ropinirole was initially approved in 1997 by the FDA for the management of Parkinson's disease. In 2005, it was the first drug approved in the US for the management of primary moderate to severe restless legs syndrome.   In 2008, the extended-release capsules of ropinirole were approved, allowing for less frequent dosing, therefore increased compliance, and offering a similar side effect profile and efficacy to previous formulations of ropinirole.
+Ropinirole is a Nonergot Dopamine Agonist. The mechanism of action of ropinirole is as a Dopamine Agonist.
+Ropinirole is a selective dopamine receptor agonist used in the therapy of Parkinson disease. Ropinirole therapy is associated with low rate of transient serum enzyme elevations during treatment and has been implicated in rare cases of acute liver injury.
+ROPINIROLE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1997 and is indicated for parkinson disease and restless legs syndrome and has 6 investigational indications. This drug has a black box warning from the FDA.
+Ropinirole is a non-ergoline dopamine agonist, manufactured by GlaxoSmithKline. It is used in the treatment of Parkinson's disease, and is also one of two medications in the United States with an FDA-approved indication for the treatment of restless legs syndrome (the other being Pramipexole).
+See also: Ropinirole Hydrochloride (has salt form).
+Properties:safety: Irritant
+smiles: CCCN(CCC)CCC1=C2CC(=O)NC2=CC=C1
+formula: C16H24N2O
+chem_properties: Molecular Weight: 260.37 g/mol
+XLogP3: 2.7
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 7
+Exact Mass: 260.188863393 Da
+Monoisotopic Mass: 260.188863393 Da
+Topological Polar Surface Area: 32.3
+Heavy Atom Count: 19
+Formal Charge: 0
+Complexity: 286
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

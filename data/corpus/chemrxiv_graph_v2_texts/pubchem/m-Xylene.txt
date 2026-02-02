@@ -1,0 +1,29 @@
+Name: m-Xylene
+Text:
+M-xylene appears as a colorless watery liquid with a sweet odor. Less dense than water. Insoluble in water. Irritating vapor. (USCG, 1999)
+M-xylene is a xylene carrying methyl groups at positions 1 and 3.
+m-Xylene has been reported in Zingiber mioga, Helianthus tuberosus, and other organisms with data available.
+M-xylene is an aromatic hydrocarbon, based on benzene with two methyl substituents. It is an isomer of xylene. Xylene occurs naturally in petroleum and coal tar, and is major component of gasoline and fuel oil. Xylene is used mainly as a solvent and in the printing, rubber, and leather industries. The major chemical use of metaxylene is in the manufacture of isophthalic acid, which is used as a copolymer to alter the properties of Polyethylene terephthalate (PET) making PET more suitable for the manufacture of soft drinks bottles (L938, T10, L165). It can cause  irritation eyes, skin, nose, throat; dizziness, excitement, drowsiness, incoordination, staggering gait; corneal vacuolization; anorexia, nausea, vomiting, abdominal pain; dermatitis. The targets of this compound are eyes, skin, respiratory system, central nervous system, gastrointestinal tract, blood, liver, kidneys.
+See also: O-Xylene (related); P-Xylene (related); Benzene, toluene and xylene (component of) ... View More ...
+Properties:safety: Flammable and Irritant
+smiles: CC1=CC(=CC=C1)C
+formula: C8H10
+chem_properties: Molecular Weight: 106.16 g/mol
+XLogP3: 3.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 106.078250319 Da
+Monoisotopic Mass: 106.078250319 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 58.4
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

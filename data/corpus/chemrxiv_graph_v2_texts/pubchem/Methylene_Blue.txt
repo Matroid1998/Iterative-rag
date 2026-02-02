@@ -1,0 +1,28 @@
+Name: Methylene Blue
+Text:
+Methylene blue is an organic chloride salt having 3,7-bis(dimethylamino)phenothiazin-5-ium as the counterion. A commonly used dye that also exhibits antioxidant, antimalarial, antidepressant and cardioprotective properties. It has a role as an EC 1.4.3.4 (monoamine oxidase) inhibitor, an acid-base indicator, a fluorochrome, an antidepressant, a cardioprotective agent, an EC 3.1.1.8 (cholinesterase) inhibitor, a histological dye, an EC 4.6.1.2 (guanylate cyclase) inhibitor, an antioxidant, an antimicrobial agent, a neuroprotective agent, a physical tracer and an antimalarial. It contains a 3,7-bis(dimethylamino)phenothiazin-5-ium.
+Methylene blue is an oxidation-reduction agent. The intravenous form of methylene blue is approved by the FDA for the treatment of pediatric and adult patients with acquired methemoglobinemia. Historically, it has been widely used in Africa to treat malaria, but now it disappeared when chloroquine (CQ) and other drugs entered the market. Its use as an urinary tract antiseptic has also been investigated.   Methylthioninium chloride (INN, or methylene blue, proposed trade name Rember) is an investigational drug being developed by the University of Aberdeen and TauRx Therapeutics that has been shown in early clinical trials to be an inhibitor of Tau protein aggregation. The drug is of potential interest for the treatment of patients with Alzheimer's disease.
+Methylene Blue is a synthetic basic dye. Methylene blue stains to negatively charged cell components like nucleic acids; when administered in the lymphatic bed of a tumor during oncologic surgery, methylene blue may stain lymph nodes draining from the tumor, thereby aiding in the visual localization of tumor sentinel lymph nodes. When administered intravenously in low doses, this agent may convert methemoglobin to hemoglobin.
+METHYLENE BLUE ANHYDROUS is a Unknown drug with a maximum clinical trial phase of IV that was first approved in 2011.
+A compound consisting of dark green crystals or crystalline powder, having a bronze-like luster. Solutions in water or alcohol have a deep blue color. Methylene blue is used as a bacteriologic stain and as an indicator. It inhibits GUANYLATE CYCLASE, and has been used to treat cyanide poisoning and to lower levels of METHEMOGLOBIN.
+Properties:safety: Corrosive and Irritant
+smiles: CN(C)C1=CC2=C(C=C1)N=C3C=CC(=[N+](C)C)C=C3S2.[Cl-]
+formula: C16H18N3S.Cl
+chem_properties: Molecular Weight: 319.9 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 1
+Exact Mass: 319.0909965 Da
+Monoisotopic Mass: 319.0909965 Da
+Topological Polar Surface Area: 43.9
+Heavy Atom Count: 21
+Formal Charge: 0
+Complexity: 483
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,28 @@
+Name: Carbazole
+Text:
+Carbazole can cause cancer according to The Environmental Protection Agency (EPA).
+Carbazole appears as white crystals, plates, leaflets or light tan powder. Sublimes readily. Exhibits strong fluorescence and long phosphorescence on exposure to ultraviolet light. (NTP, 1992)
+9H-carbazole is a carbazole. It is a tautomer of a 3H-carbazole, a 1H-carbazole, an 8aH-carbazole and a 4aH-carbazole.
+Carbazole has been reported in Glycosmis pentaphylla, Streptomyces, and other organisms with data available.
+Properties:safety: Health Hazard and Environmental Hazard
+smiles: C1=CC=C2C(=C1)C3=CC=CC=C3N2
+formula: C12H9N
+chem_properties: Molecular Weight: 167.21 g/mol
+XLogP3: 3.7
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 167.073499291 Da
+Monoisotopic Mass: 167.073499291 Da
+Topological Polar Surface Area: 15.8
+Heavy Atom Count: 13
+Formal Charge: 0
+Complexity: 170
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

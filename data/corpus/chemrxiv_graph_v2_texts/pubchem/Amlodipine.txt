@@ -1,0 +1,32 @@
+Name: Amlodipine
+Text:
+Amlodipine is a fully substituted dialkyl 1,4-dihydropyridine-3,5-dicarboxylate derivative, which is used for the treatment of hypertension, chronic stable angina and confirmed or suspected vasospastic angina. It has a role as an antihypertensive agent, a calcium channel blocker and a vasodilator agent. It is a dihydropyridine, a member of monochlorobenzenes, an ethyl ester, a methyl ester and a primary amino compound.
+Amlodipine, initially approved by the FDA in 1987, is a popular antihypertensive drug belonging to the group of drugs called dihydropyridine calcium channel blockers.  Due to their selectivity for the peripheral blood vessels, dihydropyridine calcium channel blockers are associated with a lower incidence of myocardial depression and cardiac conduction abnormalities than other calcium channel blockers.  Amlodipine is commonly used in the treatment of high blood pressure and angina. Amlodipine has antioxidant properties and an ability to enhance the production of nitric oxide (NO), an important vasodilator that decreases blood pressure.  The option for single daily dosing of amlodipine is an attractive feature of this drug.
+Amlodipine is a Dihydropyridine Calcium Channel Blocker and Calcium Channel Blocker. The mechanism of action of amlodipine is as a Calcium Channel Antagonist and Cytochrome P450 3A Inhibitor.
+Amlodipine besylate is a second generation calcium channel blocker that is used in the therapy of hypertension and angina pectoris. Amlodipine has been linked to a low rate of serum enzyme elevations during therapy and to rare instances of clinically apparent acute liver injury.
+Amlodipine is a synthetic dihydropyridine and a calcium channel blocker with antihypertensive and antianginal properties. Amlodipine inhibits the influx of extracellular calcium ions into myocardial and peripheral vascular smooth muscle cells, thereby preventing vascular and myocardial contraction. This results in a dilatation of the main coronary and systemic arteries, decreased myocardial contractility, increased blood flow and oxygen delivery to the myocardial tissue, and decreased total peripheral resistance. This agent may also modulate multi-drug resistance (MDR) activity through inhibition of the p-glycoprotein efflux pump.
+AMLODIPINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1992 and has 14 approved and 30 investigational indications. This drug has a black box warning from the FDA.
+A long-acting dihydropyridine calcium channel blocker. It is effective in the treatment of ANGINA PECTORIS and HYPERTENSION.
+See also: Amlodipine Besylate (has salt form); Amlodipine Maleate (has salt form); Amlodipine Benzoate (active moiety of) ... View More ...
+Properties:safety: Corrosive and Acute Toxic and Health Hazard and Environmental Hazard
+smiles: CCOC(=O)C1=C(NC(=C(C1C2=CC=CC=C2Cl)C(=O)OC)C)COCCN
+formula: C20H25ClN2O5
+chem_properties: Molecular Weight: 408.9 g/mol
+XLogP3: 3
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 10
+Exact Mass: 408.1451996 Da
+Monoisotopic Mass: 408.1451996 Da
+Topological Polar Surface Area: 99.9
+Heavy Atom Count: 28
+Formal Charge: 0
+Complexity: 647
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

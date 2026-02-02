@@ -1,0 +1,27 @@
+Name: 4-Hydroxybenzyl Alcohol
+Text:
+P-hydroxybenzyl alcohol is a member of the class of benzyl alcohols that is benzyl alcohol substituted by a hydroxy group at position 4. It has been isolated from Arcangelisia gusanlung. It has a role as a plant metabolite. It is a member of phenols and a member of benzyl alcohols.
+4-Hydroxybenzyl alcohol is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+4-Hydroxybenzyl alcohol has been reported in Arcangelisia gusanlung, Bacopa monnieri, and other organisms with data available.
+Properties:safety: Irritant
+smiles: C1=CC(=CC=C1CO)O
+formula: C7H8O2
+chem_properties: Molecular Weight: 124.14 g/mol
+XLogP3: 0.2
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 124.052429494 Da
+Monoisotopic Mass: 124.052429494 Da
+Topological Polar Surface Area: 40.5
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 75
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

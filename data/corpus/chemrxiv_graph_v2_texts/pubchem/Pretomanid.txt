@@ -1,0 +1,28 @@
+Name: Pretomanid
+Text:
+Persistent forms of tuberculosis (TB) have proven to be a major cause of global morbidity and mortality and a cause for significant concern. Research in recent years has been geared toward the development of novel therapies that target persistent forms of this disease, which have shown resistance to standard therapy regimens. Pretomanid is an antimycobacterial agent that is administered with [Bedaquiline] and [Linezolid] to treat resistant forms of pulmonary TB. It was the first TB drug developed by a nonprofit organization, known as TB Alliance, and was granted FDA approval on August 14, 2019. Unlike other therapeutic regimens for the treatment of resistant TB, which may take 18 months or longer and may not be effective, the pretomanid-containing regimen allows for a more efficacious and shorter duration of treatment with fewer drugs.
+Pretomanid is an Antimycobacterial. The mechanism of action of pretomanid is as an Organic Anion Transporter 3 Inhibitor.
+Pretomanid is a nitroimidazooxazine antimycobacterial agent used in combination with other antituberculosis drugs in the treatment of multidrug resistant tuberculosis. The addition of pretomanid to antituberculosis drug regimens has been linked to an increased rate of transient serum liver test abnormalities during treatment and to several instances of mild, clinically apparent liver injury.
+PRETOMANID is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2019 and has 4 approved indications.
+Properties:safety: Irritant
+smiles: C1[C@@H](COC2=NC(=CN21)[N+](=O)[O-])OCC3=CC=C(C=C3)OC(F)(F)F
+formula: C14H12F3N3O5
+chem_properties: Molecular Weight: 359.26 g/mol
+XLogP3: 2.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 9
+Rotatable Bond Count: 4
+Exact Mass: 359.07290498 Da
+Monoisotopic Mass: 359.07290498 Da
+Topological Polar Surface Area: 91.3
+Heavy Atom Count: 25
+Formal Charge: 0
+Complexity: 468
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

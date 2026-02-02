@@ -1,0 +1,26 @@
+Name: Coronene
+Text:
+Coronene is a ortho- and peri-fused polycyclic arene that consists of six peri-fused benzene rings.
+Coronene  is one of over 100 different polycyclic aromatic hydrocarbons (PAHs). PAHs are chemicals that are formed during the incomplete burning organic substances, such as fossil fuels. They are usually found as a mixture containing two or more of these compounds. (L10)
+Properties:safety: Health Hazard
+smiles: C1=CC2=C3C4=C1C=CC5=C4C6=C(C=C5)C=CC7=C6C3=C(C=C2)C=C7
+formula: C24H12
+chem_properties: Molecular Weight: 300.4 g/mol
+XLogP3: 7.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 300.093900383 Da
+Monoisotopic Mass: 300.093900383 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 24
+Formal Charge: 0
+Complexity: 376
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

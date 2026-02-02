@@ -1,0 +1,19 @@
+Description:
+A polymer with enhanced photostability in silver mirror cavities.
+
+Text:
+This is particularly critical in fields
+such as superresolution microscopy, where prolonged ob
+servation times are necessary, or in solar energy harvesting,
+where consistent performance over extended periods is essen
+tial1821. a)These authors contributed equally to this work. Various strategies have been developed to enhance chro
+mophore stability and prevent oxidation. A particularly
+promising approach involves coupling chromophores to
+nanoparticle surface plasmons or optical cavities2224. This
+method exploits strong lightmatter interactions to mod
+ify excited state dynamics25,26, creating new relaxation
+pathways that compete with harmful triplet state forma
+tion. Notable demonstrations include the 100fold reduc
+tion in photobleaching rates for Jaggregates coupled to sil
+ver nanoprisms17, and the enhanced photostability of P3HT
+polymer in silver mirror cavities16.

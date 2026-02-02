@@ -1,0 +1,28 @@
+Name: Isobutyl alcohol
+Text:
+Isobutanol appears as a clear colorless liquid with a sweet odor. Flash point 85 - 100 °F. Less dense than water. Vapors heavier than air.
+Isobutanol is an alkyl alcohol that is propan-1-ol substituted by a methyl group at position 2. It has a role as a Saccharomyces cerevisiae metabolite. It is a primary alcohol and an alkyl alcohol. It derives from a hydride of an isobutane.
+Isobutanol has been reported in Angelica gigas, Tuber melanosporum, and other organisms with data available.
+isobutanol is a metabolite found in or produced by Saccharomyces cerevisiae.
+Properties:safety: Flammable and Corrosive and Irritant
+smiles: CC(C)CO
+formula: C4H10O
+chem_properties: Molecular Weight: 74.12 g/mol
+XLogP3: 0.8
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 1
+Exact Mass: 74.073164938 Da
+Monoisotopic Mass: 74.073164938 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 17.6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

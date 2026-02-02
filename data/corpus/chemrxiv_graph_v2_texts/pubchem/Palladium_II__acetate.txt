@@ -1,0 +1,24 @@
+Name: Palladium(II) acetate
+Text:
+Palladium acetate is a chemical compound of palladium. It is used as a catalyst for many organic reactions and as a precursor to other palladium(II) compounds. Palladium is a chemical element with the chemical symbol Pd and an atomic number of 46. It is found as a free metal alloyed with gold and other platinum group metals and in the rare minerals cooperite and polarite. (L794, L804)
+Properties:safety: Corrosive and Irritant and Environmental Hazard
+smiles: CC(=O)[O-].CC(=O)[O-].[Pd+2]
+formula: C4H6O4Pd
+chem_properties: Molecular Weight: 224.51 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 223.93009 Da
+Monoisotopic Mass: 223.93009 Da
+Topological Polar Surface Area: 80.3
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 25.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

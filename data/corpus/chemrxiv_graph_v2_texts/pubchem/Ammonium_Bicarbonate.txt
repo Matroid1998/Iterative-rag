@@ -1,0 +1,25 @@
+Name: Ammonium Bicarbonate
+Text:
+Ammonium bicarbonate appears as a white crystalline solid having the odor of ammonia. Soluble in water. The primary hazard is the threat to the environment. Immediate steps should be taken to limit spread to the environment. Used to make other ammonium compounds, in food processing, and for other uses.
+Ammonium bicarbonate is an organooxygen compound.
+Properties:safety: Irritant
+smiles: C(=O)(O)[O-].[NH4+]
+formula: CH2O3.H3N
+chem_properties: Molecular Weight: 79.056 g/mol
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 79.026943022 Da
+Monoisotopic Mass: 79.026943022 Da
+Topological Polar Surface Area: 61.4
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 24.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,114 @@
+Description:
+A pivotal feedstock for chemical production due to its enormous reserves in natural gas and shale formations.
+
+Text:
+The transition from burning traditional fossil fuels to sustainable energy is proceeding slowly 
+because of the lack of efficient catalysts and infrastructures, and thus carbonbased fuels are 
+expected to remain a primary energy source in the near term.1,2 Among various hydrocarbons, 
+methane stands out due to its enormous reserves in natural gas and shale formations, making it a 
+pivotal feedstock for chemical production.3,4 However, efficient and selective conversion of 
+methane into valueadded chemicals under mild conditions remains a challenge due to its 
+exceptional stability, driven by its tetrahedral symmetry and strong CH bond strength ( 439 
+kJmol), which demands high temperatures ( 700 C) andor highly reactive catalysts for 
+activation.5,6 The relatively low volumetric energy density of methane requires costly 
+infrastructure for liquefaction, transportation, and storage, thereby underscoring the need for 
+efficient onsite and scalable conversion processes.2 Meanwhile, methane is the most potent 
+greenhouse gas.7,8 Thus, developing efficient technologies to convert methane into valueadded 
+chemicals under mild conditions is imperative for both economic and environmental sustainability.
+
+
+---
+
+Description:
+Characterized by exceptional stability due to its tetrahedral symmetry and strong CH bond strength (439 kJ/mol).
+
+Text:
+The transition from burning traditional fossil fuels to sustainable energy is proceeding slowly 
+because of the lack of efficient catalysts and infrastructures, and thus carbonbased fuels are 
+expected to remain a primary energy source in the near term.1,2 Among various hydrocarbons, 
+methane stands out due to its enormous reserves in natural gas and shale formations, making it a 
+pivotal feedstock for chemical production.3,4 However, efficient and selective conversion of 
+methane into valueadded chemicals under mild conditions remains a challenge due to its 
+exceptional stability, driven by its tetrahedral symmetry and strong CH bond strength ( 439 
+kJmol), which demands high temperatures ( 700 C) andor highly reactive catalysts for 
+activation.5,6 The relatively low volumetric energy density of methane requires costly 
+infrastructure for liquefaction, transportation, and storage, thereby underscoring the need for 
+efficient onsite and scalable conversion processes.2 Meanwhile, methane is the most potent 
+greenhouse gas.7,8 Thus, developing efficient technologies to convert methane into valueadded 
+chemicals under mild conditions is imperative for both economic and environmental sustainability.
+
+
+---
+
+Description:
+Requires high temperatures (around 700°C) and/or highly reactive catalysts for activation due to its stability.
+
+Text:
+The transition from burning traditional fossil fuels to sustainable energy is proceeding slowly 
+because of the lack of efficient catalysts and infrastructures, and thus carbonbased fuels are 
+expected to remain a primary energy source in the near term.1,2 Among various hydrocarbons, 
+methane stands out due to its enormous reserves in natural gas and shale formations, making it a 
+pivotal feedstock for chemical production.3,4 However, efficient and selective conversion of 
+methane into valueadded chemicals under mild conditions remains a challenge due to its 
+exceptional stability, driven by its tetrahedral symmetry and strong CH bond strength ( 439 
+kJmol), which demands high temperatures ( 700 C) andor highly reactive catalysts for 
+activation.5,6 The relatively low volumetric energy density of methane requires costly 
+infrastructure for liquefaction, transportation, and storage, thereby underscoring the need for 
+efficient onsite and scalable conversion processes.2 Meanwhile, methane is the most potent 
+greenhouse gas.7,8 Thus, developing efficient technologies to convert methane into valueadded 
+chemicals under mild conditions is imperative for both economic and environmental sustainability.
+
+
+---
+
+Description:
+The most potent greenhouse gas, highlighting the need for efficient conversion technologies for economic and environmental sustainability.
+
+Text:
+The transition from burning traditional fossil fuels to sustainable energy is proceeding slowly 
+because of the lack of efficient catalysts and infrastructures, and thus carbonbased fuels are 
+expected to remain a primary energy source in the near term.1,2 Among various hydrocarbons, 
+methane stands out due to its enormous reserves in natural gas and shale formations, making it a 
+pivotal feedstock for chemical production.3,4 However, efficient and selective conversion of 
+methane into valueadded chemicals under mild conditions remains a challenge due to its 
+exceptional stability, driven by its tetrahedral symmetry and strong CH bond strength ( 439 
+kJmol), which demands high temperatures ( 700 C) andor highly reactive catalysts for 
+activation.5,6 The relatively low volumetric energy density of methane requires costly 
+infrastructure for liquefaction, transportation, and storage, thereby underscoring the need for 
+efficient onsite and scalable conversion processes.2 Meanwhile, methane is the most potent 
+greenhouse gas.7,8 Thus, developing efficient technologies to convert methane into valueadded 
+chemicals under mild conditions is imperative for both economic and environmental sustainability.
+
+
+---
+
+Description:
+Used in industrial scale valorization processes such as steam methane reforming.
+
+Text:
+Current industrial scale methane valorization predominantly relies on indirect, syngas
+mediated routes, such as steam methane reforming followed by FischerTropsch synthesis.9 
+Although these processes are wellestablished, this twostep route is energyintensive,10 
+thermodynamically inefficient,11 and suffers from rapid catalyst deactivation due to coking,4,12 
+which collectively drives up operational costs and carbon footprints.
+
+
+---
+
+Description:
+A compound that can be directly converted to valuable multicarbon hydrocarbons.
+
+Text:
+Direct methane conversion, 
+which bypasses the formation of syngas intermediates and directly produces desired products, 
+offers a compelling alternative.13,14 Nevertheless, CH bond activation along with efficient CC 
+bond coupling toward selective conversion of methane to valuable multicarbon hydrocarbons 
+remains a challenge.1519 In addition, catalysts must avoid deactivation due to coke deposition.20,21 
+Singleatom alloys (SAAs), atomically dispersing minimum amounts of an active metal 
+into a less reactive host metal, are emergent catalysts.2235 Recently, several experimental studies 
+have shown the enhanced reactivities of SAAs for alkane dehydrogenation, outperforming their 
+corresponding monometallic catalysts with respect to CH activation barrier and avoidance of 
+coking.30,31 Marcinkowski and Sykes synthesized PtCu SAA (i.e., single Pt atom dispersed on Cu 
+host) for methane activation to form ethane, ethylene, and propene.30 Hannagan and Sykes 
+synthesized RhCu SAA for lowtemperature dehydrogenation of propane to propene.31 Cubased 
+httpsdoi.org10.26434chemrxiv20254t8fh ORCID httpsorcid.org0000000250039355 Content not peerreviewed by ChemRxiv.

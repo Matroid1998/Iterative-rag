@@ -1,0 +1,27 @@
+Name: 1H-1,2,3-Triazole
+Text:
+1H-1,2,3-triazole is a 1,2,3-triazole. It is a tautomer of a 2H-1,2,3-triazole and a 4H-1,2,3-triazole.
+Heterocyclic compounds containing a five-membered ring with two carbon atoms and three nitrogen atoms with the molecular formula C2H3N3.
+See also: 2,5-Diazapyrrole (annotation moved to); Triazole (annotation moved to).
+Properties:safety: Irritant
+smiles: C1=NNN=C1
+formula: C2H3N3
+chem_properties: Molecular Weight: 69.07 g/mol
+XLogP3: -0.3
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 69.032697108 Da
+Monoisotopic Mass: 69.032697108 Da
+Topological Polar Surface Area: 41.6
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 24.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

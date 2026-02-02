@@ -1,0 +1,16 @@
+Nitric oxide synthases (NOSs) are a family of enzymes catalyzing the production of nitric oxide (NO) from L-arginine. NO is an important cellular signaling molecule. It helps modulate vascular tone, insulin secretion, airway tone, and peristalsis, and is involved in angiogenesis and neural development. It may function as a retrograde neurotransmitter. Nitric oxide is mediated in mammals by the calcium-calmodulin controlled isoenzymes eNOS (endothelial NOS) and nNOS (neuronal NOS). The inducible isoform, iNOS, involved in immune response, binds calmodulin at physiologically relevant concentrations, and produces NO as an immune defense mechanism, as NO is a free radical with an unpaired electron. It is the proximate cause of septic shock and may function in autoimmune disease.
+In the context of eukaryote biology, nitric oxide synthase refers to nitric-oxide synthase (NADPH) (EC 1.14.13.39), which catalyzes the reaction:
+
+2 L-arginine + 3 NADPH +  3 H+ + 4 O2 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+  
+ 2 citrulline +2  nitric oxide + 4 H2O + 3 NADP+
+NOS isoforms catalyze other leak and side reactions, such as superoxide production at the expense of NADPH. As such, this stoichiometry is not generally observed, and reflects the three electrons supplied per NO by NADPH.
+Eukaryotic NOS isozymes are catalytically self-sufficient. The electron flow is: NADPH → FAD → FMN → heme → O2. Tetrahydrobiopterin provides an additional electron during the catalytic cycle which is replaced during turnover. Zinc, though not a cofactor, also participates but as a structural element. NOSs are unique in that they use five cofactors and are the only known enzyme that binds flavin adenine dinucleotide (FAD), flavin mononucleotide (FMN), heme, tetrahydrobiopterin (BH4) and calmodulin.
+The EC number 1.14.13.39 specifically refers to synthases with linked oxygenase and reductase domains, i.e. "catalytically self-sufficient" NO synthases. This kind of synthase is ound in eukaryotes and, through independent domain acquisition, Sorangium cellulosum. Most bacteria and archaea have a version that only has an oxidase domain and depend on a partner protein; these are categorized as EC 1.14.14.47 "nitric-oxide synthase (flavodoxin)". All these enzymes' oxygenase domains share a common ancestor (see "oxygenase domain" infobox).

@@ -1,0 +1,33 @@
+Name: Mitoxantrone
+Text:
+Mitoxantrone is a dihydroxyanthraquinone that is 1,4-dihydroxy-9,10-anthraquinone which is substituted by 6-hydroxy-1,4-diazahexyl groups at positions 5 and 8. It has a role as an antineoplastic agent and an analgesic.
+An anthracenedione-derived antineoplastic agent.
+Mitoxantrone is a Topoisomerase Inhibitor. The mechanism of action of mitoxantrone is as a Topoisomerase Inhibitor.
+Mitoxantrone is an antineoplastic antibiotic that is used in the treatment of acute leukemia, lymphoma, and prostate and breast cancer, but also for late stage, severe multiple sclerosis. Mitoxantrone therapy is often accompanied by mild to moderate elevations in serum aminotransferase levels, but in typical doses it rarely causes clinically apparent, acute liver injury.
+Mitoxantrone is an anthracenedione antibiotic with antineoplastic activity. Mitoxantrone intercalates into and crosslinks DNA, thereby disrupting DNA and RNA replication.  This agent also binds to topoisomerase II, resulting in DNA strand breaks and inhibition of DNA repair.  Mitoxantrone is less cardiotoxic compared to doxorubicin.
+MITOXANTRONE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1987 and has 6 approved and 48 investigational indications. This drug has a black box warning from the FDA.
+Mitoxantrone is only found in individuals that have used or taken this drug. It is an anthracenedione-derived antineoplastic agent. Mitoxantrone, a DNA-reactive agent that intercalates into deoxyribonucleic acid (DNA) through hydrogen bonding, causes crosslinks and strand breaks. Mitoxantrone also interferes with ribonucleic acid (RNA) and is a potent inhibitor of topoisomerase II, an enzyme responsible for uncoiling and repairing damaged DNA. It has a cytocidal effect on both proliferating and nonproliferating cultured human cells, suggesting lack of cell cycle phase specificity.
+An anthracenedione-derived antineoplastic agent.
+See also: Mitoxantrone Hydrochloride (has salt form).
+Properties:safety: Health Hazard and Environmental Hazard
+smiles: C1=CC(=C2C(=C1NCCNCCO)C(=O)C3=C(C=CC(=C3C2=O)O)O)NCCNCCO
+formula: C22H28N4O6
+chem_properties: Molecular Weight: 444.5 g/mol
+XLogP3: 1
+Hydrogen Bond Donor Count: 8
+Hydrogen Bond Acceptor Count: 10
+Rotatable Bond Count: 12
+Exact Mass: 444.20088463 Da
+Monoisotopic Mass: 444.20088463 Da
+Topological Polar Surface Area: 163
+Heavy Atom Count: 32
+Formal Charge: 0
+Complexity: 571
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

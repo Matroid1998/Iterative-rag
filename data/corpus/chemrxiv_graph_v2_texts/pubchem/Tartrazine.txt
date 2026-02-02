@@ -1,0 +1,27 @@
+Name: Tartrazine
+Text:
+C.i. pigment yellow 100 is a yellow to greenish-yellow powder. (NTP, 1992)
+Tartrazine is an organic sodium salt which is the trisodium salt of tartrazine acid. A synthetic lemon yellow azo dye used as a food colouring. It has a role as a histological dye and a food colouring. It contains a tartrazine(3-).
+An anionic, hydrophilic azo dye with an orange-yellow color used in fabrics, foods and cosmetics, and as a biological stain.
+See also: FD&C Yellow No. 5 (annotation moved to).
+Properties:safety: Irritant and Health Hazard
+smiles: C1=CC(=CC=C1N=NC2C(=NN(C2=O)C3=CC=C(C=C3)S(=O)(=O)[O-])C(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+].[Na+]
+formula: C16H9N4Na3O9S2
+chem_properties: Molecular Weight: 534.4 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 12
+Rotatable Bond Count: 3
+Exact Mass: 533.95040307 Da
+Monoisotopic Mass: 533.95040307 Da
+Topological Polar Surface Area: 229
+Heavy Atom Count: 34
+Formal Charge: 0
+Complexity: 949
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 4
+Compound Is Canonicalized: Yes 
+

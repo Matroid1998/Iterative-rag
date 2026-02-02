@@ -1,0 +1,27 @@
+Name: p-Coumaryl alcohol
+Text:
+Trans-p-coumaryl alcohol is 4-Hydroxycinnamyl alcohol with E-configuration of the propenyl double bond. It is one of the main monolignols. It has a role as a monolignol. It is a phenylpropanoid, a member of phenols and a 4-hydroxycinnamyl alcohol. It is functionally related to an (E)-cinnamyl alcohol.
+p-Coumaryl alcohol has been reported in Solanum tuberosum, Alpinia officinarum, and other organisms with data available.
+See also: Polignate Sodium (monomer of); Ammonium lignosulfonate (monomer of); Calcium lignosulfonate (20000 MW) (monomer of) ... View More ...
+Properties:safety: Irritant
+smiles: C1=CC(=CC=C1/C=C/CO)O
+formula: C9H10O2
+chem_properties: Molecular Weight: 150.17 g/mol
+XLogP3: 1.3
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 2
+Exact Mass: 150.068079557 Da
+Monoisotopic Mass: 150.068079557 Da
+Topological Polar Surface Area: 40.5
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 124
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

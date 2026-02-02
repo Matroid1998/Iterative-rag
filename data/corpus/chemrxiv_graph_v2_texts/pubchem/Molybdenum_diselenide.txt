@@ -1,0 +1,23 @@
+Name: Molybdenum diselenide
+Text:
+Properties:safety: Acute Toxic and Health Hazard and Environmental Hazard
+smiles: [Se]=[Mo]=[Se]
+formula: MoSe2
+chem_properties: Molecular Weight: 253.9 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 257.73845 Da
+Monoisotopic Mass: 257.73845 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 18.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

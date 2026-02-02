@@ -1,0 +1,28 @@
+Name: Adipic Acid
+Text:
+Adipic acid is a white crystalline solid. It is insoluble in water. The primary hazard is the threat to the environment. Immediate steps should be taken to limit its spread to the environment. It is used to make plastics and foams and for other uses.
+Adipic acid is an alpha,omega-dicarboxylic acid that is the 1,4-dicarboxy derivative of butane. It has a role as a food acidity regulator and a human xenobiotic metabolite. It is an alpha,omega-dicarboxylic acid and a dicarboxylic fatty acid. It is a conjugate acid of an adipate(1-).
+Adipic Acid has been reported in Drosophila melanogaster, Populus tremula, and other organisms with data available.
+See also: Polyester-10 (monomer of); Polyester-7 (monomer of); Adipic acid/diglycol crosspolymer (20000 MPA.S) (monomer of) ... View More ...
+Properties:safety: Irritant
+smiles: C(CCC(=O)O)CC(=O)O
+formula: C6H10O4
+chem_properties: Molecular Weight: 146.14 g/mol
+XLogP3: 0.1
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 5
+Exact Mass: 146.05790880 Da
+Monoisotopic Mass: 146.05790880 Da
+Topological Polar Surface Area: 74.6
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 114
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

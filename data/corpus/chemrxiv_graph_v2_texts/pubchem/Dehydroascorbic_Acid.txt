@@ -1,0 +1,29 @@
+Name: Dehydroascorbic Acid
+Text:
+L-dehydroascorbic acid is dehydroascorbic acid having the L-configuration. It has a role as a coenzyme and a mouse metabolite. It is a vitamin C and a dehydroascorbic acid. It is functionally related to a L-ascorbic acid. It is a conjugate acid of a L-dehydroascorbate.
+Dehydroascorbic acid is made from the oxidation of ascorbic acid. This reaction is reversible, but dehydroascorbic acid can instead undergo irreversible hydrolysis to 2,3-diketogulonic acid. Dehydroascorbic acid as well as ascorbic acid are both termed Vitamin C, but the latter is the main form found in humans. In the body, both dehydroascorbic acid and ascorbic acid have similar biological activity as antivirals but dehydroascorbic acid also has neuroprotective effects. Currently dehydroascorbic acid is an experimental drug with no known approved indications.
+Dehydroascorbic acid is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Dehydroascorbic acid has been reported in Capsicum annuum, Rosa canina, and other organisms with data available.
+The reversibly oxidized form of ascorbic acid. It is the lactone of 2,3-DIKETOGULONIC ACID and has antiscorbutic activity in man on oral ingestion.
+Properties:safety: Irritant
+smiles: C([C@@H]([C@@H]1C(=O)C(=O)C(=O)O1)O)O
+formula: C6H6O6
+chem_properties: Molecular Weight: 174.11 g/mol
+XLogP3: -1
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 2
+Exact Mass: 174.01643791 Da
+Monoisotopic Mass: 174.01643791 Da
+Topological Polar Surface Area: 101
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 244
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

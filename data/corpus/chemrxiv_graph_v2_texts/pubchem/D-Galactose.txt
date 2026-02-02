@@ -1,0 +1,29 @@
+Name: D-Galactose
+Text:
+D-galactopyranose is a galactopyranose having D-configuration. It has a role as an Escherichia coli metabolite and a mouse metabolite. It is a D-galactose and a galactopyranose.
+Galactose has been used in trials studying the treatment and diagnosis of Hepatitis C, Hepatic Cancer, Wilsons Disease, Diabetic Macular Oedema, and Focal Segmental Glomerulosclerosis, among others. There are even proposals for its use in accelerating senescence in mice, rats, and Drosophila, for its association with ovarian cancer, or even for the potential treatment of focal segmental glomerulosclerosis. Nevertheless, none of these ongoing studies have yet provided formal elucidation for their proposals.  As a naturally occurring sugar, it may be found in a number dairy products. Even then, however, it is not generally used as a sweetener considering it is only about 30% as sweet as sucrose. Regardless, although it is predominantly used as a pathway to generate glucose fuel for the human body, galactose is involved as an ingredient in some commonly used vaccines and non-prescription products.
+D-Galactose is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+D-Galactose has been reported in Phyllanthus sellowianus, Streptomyces sporangiiformans, and other organisms with data available.
+An aldohexose that occurs naturally in the D-form in lactose, cerebrosides, gangliosides, and mucoproteins. Deficiency of galactosyl-1-phosphate uridyltransferase (GALACTOSE-1-PHOSPHATE URIDYL-TRANSFERASE DEFICIENCY DISEASE) causes an error in galactose metabolism called GALACTOSEMIA, resulting in elevations of galactose in the blood.
+Properties:safety: Irritant
+smiles: C([C@@H]1[C@@H]([C@@H]([C@H](C(O1)O)O)O)O)O
+formula: C6H12O6
+chem_properties: Molecular Weight: 180.16 g/mol
+XLogP3: -2.6
+Hydrogen Bond Donor Count: 5
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 1
+Exact Mass: 180.06338810 Da
+Monoisotopic Mass: 180.06338810 Da
+Topological Polar Surface Area: 110
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 151
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

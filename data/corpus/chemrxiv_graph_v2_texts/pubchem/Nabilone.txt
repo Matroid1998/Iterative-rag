@@ -1,0 +1,29 @@
+Name: Nabilone
+Text:
+Nabilone is a DEA Schedule II controlled substance. Substances in the DEA Schedule II have a high potential for abuse which may lead to severe psychological or physical dependence. It is a Hallucinogenic substances substance.
+Nabilone (marketed as Cesamet) is a synthetic form of delta-9-tetrahydrocannabinol (Δ⁹-THC), the primary psychoactive component of cannabis (marijuana). Although structurally distinct from THC, nabilone mimics THC's structure and pharmacological activity through weak partial agonist activity at Cannabinoid-1 (CB1R) and Cannabinoid-2 (CB2R) receptors, however it is considered to be twice as active as Δ⁹-THC. Nabilone is approved by the FDA for the treatment of nausea and vomiting associated with cancer chemotherapy in patients who have failed to respond adequately to conventional antiemetic treatments.  Tetrahydrocannabinol (THC) and cannabidiol (CBD) are the two most abundant cannabinoids found naturally in the resin of the marijuana plant, both of which are pharmacologically active due to their interaction with cannabinoid receptors that are found throughout the body. While both CBD and THC are used for medicinal purposes, they have different receptor activity, function, and physiological effects. If not provided in their activated form (such as through synthetic forms like Nabilone or [DB00470]), THC and CBD are obtained through conversion from their precursors, tetrahydrocannabinolic acid-A (THCA-A) and cannabidiolic acid (CBDA), through decarboxylation reactions. This can be achieved through heating, smoking, vaporization, or baking of dried unfertilized female cannabis flowers.  From a pharmacological perspective, Cannabis' diverse receptor profile explains its potential application for such a wide variety of medical conditions. Cannabis contains more than 400 different chemical compounds, of which 61 are considered cannabinoids, a class of compounds that act upon endogenous cannabinoid receptors of the body. The endocannabinoid system is widely distributed throughout the central and peripheral nervous system (via the Cannabinoid Receptors CB1 and CB2) and plays a role in many physiological processes such as inflammation, cardiovascular function, learning, pain, memory, stress and emotional regulation, and the sleep/wake cycle among many others. CB1 receptors are found in both the central and peripheral nervous system, and are most abundant in the hippocampus and amygdala, which are the areas of the brain responsible for short-term memory storage and emotional regulation. CB2 receptors are mainly located in the peripheral nervous system and can be found on lymphoid tissue where they are involved in regulation of immune function.  In Canada, the United States, the United Kingdom and Mexico, nabilone is marketed as Cesamet. It was approved in 1985 by the United States FDA for treatment of chemotherapy-induced nausea and vomiting that has not responded to conventional antiemetics. Though it was approved by the FDA in 1985, the drug only began marketing in the United States in 2006. It is also approved for use in treatment of anorexia and weight loss in patients with AIDS.  Nabilone is a racemate consisting of the (S,S) and the (R,R) isomers.
+Nabilone is a Cannabinoid.
+Nabilone is an orally available cannabinoid agonist that is used to treat chemotherapy induced nausea and vomiting and to stimulate appetite, particularly in patients with wasting disease or cachexia. Nabilone is associated with a minimal rate of serum enzyme elevations during therapy and has not been linked to cases of clinically apparent liver injury with jaundice.
+Nabilone is a synthetic cannabinoid and dibenzopyrane derivative with anti-emetic activity. Although the mechanism of action has not been fully elucidated yet, it has been suggested that nabilone is a highly selective and strong agonist for the cannabinoid receptors CB1 and CB2, both of which are coupled to Gi/o proteins. The CB1 receptors are expressed predominantly in central and peripheral neurons and receptor stimulation has been implicated in the reduction of chemotherapy-induced nausea.
+Properties:safety: Irritant
+smiles: CCCCCCC(C)(C)C1=CC(=C2[C@@H]3CC(=O)CC[C@H]3C(OC2=C1)(C)C)O
+formula: C24H36O3
+chem_properties: Molecular Weight: 372.5 g/mol
+XLogP3: 6.4
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 6
+Exact Mass: 372.26644501 Da
+Monoisotopic Mass: 372.26644501 Da
+Topological Polar Surface Area: 46.5
+Heavy Atom Count: 27
+Formal Charge: 0
+Complexity: 524
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

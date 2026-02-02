@@ -1,0 +1,28 @@
+Name: Malonic acid
+Text:
+Malonic acid appears as white crystals or crystalline powder. Sublimes in vacuum. (NTP, 1992)
+Malonic acid is an alpha,omega-dicarboxylic acid in which the two carboxy groups are separated by a single methylene group. It has a role as a human metabolite. It is a conjugate acid of a malonate(1-).
+Malonic acid has been reported in Camellia sinensis, Meum athamanticum, and other organisms with data available.
+See also: Dicarboxylic Acids (annotation moved to).
+Properties:safety: Corrosive and Irritant
+smiles: C(C(=O)O)C(=O)O
+formula: C3H4O4
+chem_properties: Molecular Weight: 104.06 g/mol
+XLogP3: -0.8
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 2
+Exact Mass: 104.01095860 Da
+Monoisotopic Mass: 104.01095860 Da
+Topological Polar Surface Area: 74.6
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 83.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

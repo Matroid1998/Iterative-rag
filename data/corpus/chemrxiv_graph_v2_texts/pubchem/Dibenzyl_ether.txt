@@ -1,0 +1,27 @@
+Name: Dibenzyl ether
+Text:
+Dibenzyl ether is a colorless liquid with a mild odor.
+Dibenzyl ether is a benzyl ether in which the oxygen atom is connected to two benzyl groups. It has a role as a metabolite.
+Dibenzyl ether has been reported in Uvaria chamae with data available.
+Properties:safety: Irritant and Environmental Hazard
+smiles: C1=CC=C(C=C1)COCC2=CC=CC=C2
+formula: C14H14O
+chem_properties: Molecular Weight: 198.26 g/mol
+XLogP3: 3.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 4
+Exact Mass: 198.104465066 Da
+Monoisotopic Mass: 198.104465066 Da
+Topological Polar Surface Area: 9.2
+Heavy Atom Count: 15
+Formal Charge: 0
+Complexity: 137
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

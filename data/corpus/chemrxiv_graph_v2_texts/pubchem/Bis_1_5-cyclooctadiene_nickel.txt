@@ -1,0 +1,25 @@
+Name: Bis(1,5-cyclooctadiene)nickel
+Text:
+Bis(1,5-cyclooctadiene)nickel appears as yellow crystals or yellowish green solid. (NTP, 1992)
+Bis(cyclooctadiene)nickel(0) is a chemical compound of nickel. It is a common source of Ni(0) in chemical synthesis. Nickel is a chemical compound with the atomic number 28. It is found abundantly in nature in laterite ore minerals, such as limonite, garnierite, and pentlandite. Nickel has a biological role and is found in certain enzymes, including urease, hydrogenase, methylcoenzyme M reductase, and carbon monoxide dehydrogenase. (L40, L41, L498)
+Properties:safety: Flammable and Irritant and Health Hazard
+smiles: C1/C=C\CC/C=C\C1.C1/C=C\CC/C=C\C1.[Ni]
+formula: C16H24Ni
+chem_properties: Molecular Weight: 275.05 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 274.123142 Da
+Monoisotopic Mass: 274.123142 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 17
+Formal Charge: 0
+Complexity: 72.6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 4
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,33 @@
+Name: Romidepsin
+Text:
+Romidepsin is a cyclodepsipeptide consisting of the cyclic disulfide of (2Z)-2-aminobut-2-enoyl, L-valyl, (3S,4E)-3-hydroxy-7-sulfanylhept-4-enoyl, D-valyl and D-cysteinyl residues coupled in sequence and cyclised head-to tail. It has a role as an antineoplastic agent and an EC 3.5.1.98 (histone deacetylase) inhibitor. It is a cyclodepsipeptide, an organic disulfide and a heterocyclic antibiotic.
+Romidepsin is a drug that has been approved by the U.S. Food and Drug Administration (FDA) under the brand name Istodax for the treatment of a certain type of cancer. Romidepsin is also being studied as an investigational drug as part of a strategy to cure HIV infection.As an HIV investigational drug, romidepsin belongs to a group of drugs called latency-reversing agents.
+Romidepsin is a selective inhibitor of histone deacetylase, approved in the US in 2009 for the treatment of cutaneous T-cell lymphoma (CTCL) in patients who have received at least one prior systemic therapy.
+Romidepsin is a Histone Deacetylase Inhibitor. The mechanism of action of romidepsin is as a Histone Deacetylase Inhibitor, and Bile Salt Export Pump Inhibitor, and Organic Anion Transporting Polypeptide 1B1 Inhibitor, and Organic Anion Transporting Polypeptide 1B3 Inhibitor, and Organic Anion Transporter 1 Inhibitor, and Organic Cation Transporter 2 Inhibitor.
+Romidepsin is an intravenously administered histone deacetylase inhibitor and antineoplastic agent that is approved for use in refractory or relapsed cutaneous and peripheral T cell lymphomas. Romidepsin is associated with modest rate of minor serum enzyme elevations during therapy but has not been linked to cases of clinically apparent liver injury, although it has been reported to cause reactivation of hepatitis B.
+Istodax has been reported in Humicola fuscoatra and Chromobacterium violaceum with data available.
+Romidepsin is a bicyclic depsipeptide antibiotic isolated from the bacterium Chromobacterium violaceum with antineoplastic activity. After intracellular activation, romidepsin binds to and inhibits histone deacetylase (HDAC), resulting in alterations in gene expression and the induction of cell differentiation, cell cycle arrest, and apoptosis. This agent also inhibits hypoxia-induced angiogenesis and depletes several heat shock protein 90 (Hsp90)-dependent oncoproteins.
+ROMIDEPSIN is a Protein drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2009 and has 6 approved and 36 investigational indications.
+See also: Depsipeptides (annotation moved to).
+Properties:safety: Acute Toxic and Irritant and Health Hazard and Environmental Hazard
+smiles: C/C=C\1/C(=O)N[C@H](C(=O)O[C@H]\2CC(=O)N[C@@H](C(=O)N[C@H](CSSCC/C=C2)C(=O)N1)C(C)C)C(C)C
+formula: C24H36N4O6S2
+chem_properties: Molecular Weight: 540.7 g/mol
+XLogP3: 2.2
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 2
+Exact Mass: 540.20762723 Da
+Monoisotopic Mass: 540.20762723 Da
+Topological Polar Surface Area: 193
+Heavy Atom Count: 36
+Formal Charge: 0
+Complexity: 905
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 2
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

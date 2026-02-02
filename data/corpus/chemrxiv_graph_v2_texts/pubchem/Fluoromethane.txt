@@ -1,0 +1,27 @@
+Name: Fluoromethane
+Text:
+Methyl fluoride (or fluoromethane) is a colorless flammable gas which is heavier than air. It has an agreeable ether-like odor. It is narcotic in high concentrations. It burns with evolution of hydrogen fluoride. The flame is colorless, similar to alcohol. Under prolonged exposure to fire or intense heat the containers may rupture violently and rocket.
+Fluoromethane is a member of the class of fluoromethanes that is methane in which a single hydrogen is substituted by a fluorine atom. It has a role as a refrigerant. It is a member of fluoromethanes, a fluorohydrocarbon and a member of methyl halides.
+See also: Fluoromethyl radical (annotation moved to).
+Properties:safety: Flammable and Compressed Gas
+smiles: CF
+formula: CH3F
+chem_properties: Molecular Weight: 34.033 g/mol
+XLogP3: 0.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 34.021878258 Da
+Monoisotopic Mass: 34.021878258 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 2
+Formal Charge: 0
+Complexity: 2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

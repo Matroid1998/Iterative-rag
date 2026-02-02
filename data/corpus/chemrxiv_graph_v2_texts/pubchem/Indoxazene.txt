@@ -1,0 +1,25 @@
+Name: Indoxazene
+Text:
+1,2-benzoxazole is a benzoxazole in which the benzene ring is fused to a 1,2-oxazole ring across positions 4 and 5. It is a member of 1,2-benzoxazoles and a mancude organic heterobicyclic parent.
+Properties:safety: Irritant
+smiles: C1=CC=C2C(=C1)C=NO2
+formula: C7H5NO
+chem_properties: Molecular Weight: 119.12 g/mol
+XLogP3: 1.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 119.037113783 Da
+Monoisotopic Mass: 119.037113783 Da
+Topological Polar Surface Area: 26
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 105
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

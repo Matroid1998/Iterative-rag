@@ -1,0 +1,34 @@
+Name: Amantadine
+Text:
+Amantadine is a member of the class of adamantanes that is used as an antiviral and antiparkinson drug. It has a role as an antiviral drug, an antiparkinson drug, a dopaminergic agent, an analgesic, a NMDA receptor antagonist and a non-narcotic analgesic. It is a primary aliphatic amine and a member of adamantanes. It is a conjugate base of an adamantan-1-aminium. It derives from a hydride of an adamantane.
+An antiviral that is used in the prophylactic or symptomatic treatment of influenza A. It is also used as an antiparkinsonian agent, to treat extrapyramidal reactions, and for postherpetic neuralgia. The mechanisms of its effects in movement disorders are not well understood but probably reflect an increase in synthesis and release of dopamine, with perhaps some inhibition of dopamine uptake.
+Amantadine is an Influenza A M2 Protein Inhibitor. The mechanism of action of amantadine is as a M2 Protein Inhibitor.
+Amantadine is a primary amine that has both antiviral and dopaminergic activity and is used in the therapy of influenza A and management of Parkinson disease. Amantadine has not been associated with clinically apparent liver injury.
+Amantadine has been reported in Microcystis ichthyoblabe with data available.
+Amantadine is a synthetic tricyclic amine with antiviral, antiparkinsonian, and antihyperalgesic activities. Amantadine appears to exert its antiviral effect against the influenza A virus by interfering with the function of the transmembrane domain of the viral M2 protein, thereby preventing the release of infectious viral nucleic acids into host cells. Furthermore, this agent prevents virus assembly during virus replication. Amantadine exerts its antiparkinsonian effects by stimulating the release of dopamine from striatal dopaminergic nerve terminals and inhibiting its pre-synaptic reuptake. This agent may also exert some anticholinergic effect through inhibition of N-methyl-D-aspartic acid (NMDA) receptor-mediated stimulation of acetylcholine, resulting in antihyperalgesia.
+AMANTADINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1968 and has 7 approved and 20 investigational indications.
+An antiviral that is used in the prophylactic or symptomatic treatment of influenza A. It is also used as an antiparkinsonian agent, to treat extrapyramidal reactions, and for postherpetic neuralgia. The mechanisms of its effects in movement disorders are not well understood but probably reflect an increase in synthesis and release of dopamine, with perhaps some inhibition of dopamine uptake. [PubChem]
+An antiviral that is used in the prophylactic or symptomatic treatment of influenza A. It is also used as an antiparkinsonian agent, to treat extrapyramidal reactions, and for postherpetic neuralgia. The mechanisms of its effects in movement disorders are not well understood but probably reflect an increase in synthesis and release of dopamine, with perhaps some inhibition of dopamine uptake.
+See also: Amantadine Hydrochloride (has salt form); Amantadine Sulfate (has salt form).
+Properties:safety: Corrosive and Irritant and Health Hazard
+smiles: C1C2CC3CC1CC(C2)(C3)N
+formula: C10H17N
+chem_properties: Molecular Weight: 151.25 g/mol
+XLogP3: 2.4
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 151.136099547 Da
+Monoisotopic Mass: 151.136099547 Da
+Topological Polar Surface Area: 26
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 144
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

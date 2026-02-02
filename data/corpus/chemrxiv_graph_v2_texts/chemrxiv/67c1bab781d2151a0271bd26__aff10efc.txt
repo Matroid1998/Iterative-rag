@@ -1,0 +1,14 @@
+Description:
+Involved in electrochemical CO2 electroreduction to form COOH.
+
+Text:
+For protoncoupled electron transfer reactions (Scheme 1a), the vast 
+majority of studies are conducted with the computational hydrogen electrode (CHE) approach.15 In 
+the case of electrochemical CO2 electroreduction, one can directly calculate the formation of COOH 
+via reaction Eq. (1). H(aq)  e  CO2(g)    COOH
+(1)
+In the CHE approach, the pH and potential dependency of reaction Eq. (1) enters into the chemical 
+potential of H(aq)  e, whereas the energy of the COOH species is usually assumed to not depend on 
+potential.1618 If the adsorbed COOH species does not change the potential of the interface, 
+reaction Eq. (1) is even at constant potential. 2
+httpsdoi.org10.26434chemrxiv20248rm6tv3 ORCID httpsorcid.org0000000169430752 Content not peerreviewed by ChemRxiv. License CC BYNC 4.0

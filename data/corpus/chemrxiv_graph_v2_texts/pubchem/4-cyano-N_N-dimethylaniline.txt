@@ -1,0 +1,24 @@
+Name: 4-cyano-N,N-dimethylaniline
+Text:
+Properties:safety: Irritant
+smiles: CN(C)C1=CC=C(C=C1)C#N
+formula: C9H10N2
+chem_properties: Molecular Weight: 146.19 g/mol
+XLogP3: 2.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 146.084398327 Da
+Monoisotopic Mass: 146.084398327 Da
+Topological Polar Surface Area: 27
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 158
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

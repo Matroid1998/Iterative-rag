@@ -1,0 +1,23 @@
+Name: Potassium methylate
+Text:
+Properties:safety: Flammable and Corrosive
+smiles: C[O-].[K+]
+formula: CH3OK
+chem_properties: Molecular Weight: 70.132 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 69.98209620 Da
+Monoisotopic Mass: 69.98209620 Da
+Topological Polar Surface Area: 23.1
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 4.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

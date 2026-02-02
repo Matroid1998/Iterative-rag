@@ -1,0 +1,32 @@
+Name: Furosemide [USAN:USP:INN:BAN:JAN]
+Text:
+Furosemide is an odorless white to slightly yellow crystalline powder. A diuretic drug. Almost tasteless. (NTP, 1992)
+Furosemide is a chlorobenzoic acid that is 4-chlorobenzoic acid substituted by a (furan-2-ylmethyl)amino and a sulfamoyl group at position 2 and 5 respectively. It is a diuretic used in the treatment of congestive heart failure. It has a role as a xenobiotic, an environmental contaminant and a loop diuretic. It is a sulfonamide, a chlorobenzoic acid and a member of furans.
+Furosemide is a potent loop diuretic that acts on the kidneys to ultimately increase water loss from the body. It is an anthranilic acid derivative. Furosemide is used for edema secondary to various clinical conditions, such as congestive heart failure exacerbation, liver failure, renal failure, and high blood pressure. It mainly works by inhibiting electrolyte reabsorption from the kidneys and enhancing the excretion of water from the body. Furosemide has a fast onset and short duration of action and has been used safely and effectively in both pediatric and adult patients. The use of furosemide is particularly beneficial in clinical settings that require a drug with a higher diuretic potential. In addition to oral formulations, the solution for intravenous and intramuscular administration is also available, which is typically limited to patients who are unable to take oral medication or for patients in emergency clinical situations.
+Furosemide is a Loop Diuretic. The physiologic effect of furosemide is by means of Increased Diuresis at Loop of Henle.
+Furosemide is a sulfamoylanthranilic acid derivative, also known as frusemide, and potent loop diuretic. Furosemide is widely used to treat hypertension and edema. This agent is highly bound to albumin and is largely excreted unchanged in the urine.
+FUROSEMIDE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1966 and has 7 approved and 32 investigational indications. This drug has a black box warning from the FDA.
+A benzoic-sulfonamide-furan. It is a diuretic with fast onset and short duration that is used for EDEMA and chronic RENAL INSUFFICIENCY.
+See also:  ... View More ...
+Properties:safety: Irritant and Health Hazard
+smiles: C1=COC(=C1)CNC2=CC(=C(C=C2C(=O)O)S(=O)(=O)N)Cl
+formula: C12H11ClN2O5S
+chem_properties: Molecular Weight: 330.74 g/mol
+XLogP3: 2
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 5
+Exact Mass: 330.0077203 Da
+Monoisotopic Mass: 330.0077203 Da
+Topological Polar Surface Area: 131
+Heavy Atom Count: 21
+Formal Charge: 0
+Complexity: 481
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

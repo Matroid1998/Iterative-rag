@@ -1,0 +1,37 @@
+Name: Carbon Tetrachloride
+Text:
+Carbon tetrachloride is a manufactured chemical that does not occur naturally. It is a clear liquid with a sweet smell that can be detected at low levels. It is also called carbon chloride, methane tetrachloride, perchloromethane, tetrachloroethane, or benziform. Carbon tetrachloride is most often found in the air as a colorless gas. It is not flammable and does not dissolve in water very easily. It was used in the production of refrigeration fluid and propellants for aerosol cans, as a pesticide, as a cleaning fluid and degreasing agent, in fire extinguishers, and in spot removers. Because of its harmful effects, these uses are now banned and it is only used in some industrial applications.
+Carbon Tetrachloride can cause cancer according to an independent committee of scientific and health experts.
+Carbon tetrachloride appears as a clear colorless liquid with a characteristic odor. Denser than water (13.2 lb / gal) and insoluble in water. Noncombustible. May cause illness by inhalation, skin absorption and/or ingestion. Used as a solvent, in the manufacture of other chemicals, as an agricultural fumigant, and for many other uses.
+Tetrachloromethane is a chlorocarbon that is methane in which all the hydrogens have been replaced by chloro groups. It has a role as a refrigerant and a hepatotoxic agent. It is a chlorocarbon and a member of chloromethanes.
+Carbon tetrachloride may be found in both ambient outdoor and indoor air. The primary effects of carbon tetrachloride in humans are on the liver, kidneys, and central nervous system (CNS). Human symptoms of acute (short-term) inhalation and oral exposures to carbon tetrachloride include headache, weakness, lethargy, nausea, and vomiting. Acute exposures to higher levels and chronic (long-term) inhalation or oral exposure to carbon tetrachloride produces liver and kidney damage in humans. Human data on the carcinogenic effects of carbon tetrachloride are limited. Studies in animals have shown that ingestion of carbon tetrachloride increases the risk of liver cancer. EPA has classified carbon tetrachloride as a Group B2, probable human carcinogen.
+Carbon Tetrachloride has been reported in Helianthus tuberosus with data available.
+Carbon Tetrachloride is a clear, colorless, volatile and very stable chlorinated hydrocarbon. Carbon Tetrachloride is used as a solvent for oils and fats, as a refrigerant and as a dry-cleaning agent. Inhalation of its vapors can depress central nervous system activity and cause degeneration of the liver and kidneys. Carbon Tetrachloride is reasonably anticipated to be a human carcinogen based on evidence of carcinogenicity in experimental animals. (NCI05)
+Grain fumigant
+
+Carbon tetrachloride has been shown to exhibit anesthetic, metal chelator and hepatoprotective functions (A7684, A7685, A7686).
+
+Carbon tetrachloride belongs to the family of Chlorocarbons. These are Any Compound consisting wholly of chlorine and carbon. (Reference: [1] IUPAC. Compendium of Chemical Terminology, 2nd ed. (the Gold Book). Compiled by A. D. McNaught and A. Wilkinson. Blackwell Scientific Publications, Oxford (1997). XML on-line corrected version: http://goldbook.iupac.org (2006-) created by M. Nic, J. Jirat, B. Kosata; updates compiled by A. Jenkins. ISBN 0-9678550-9-8. doi:10.1351/goldbook. (Or PAC, 1995, 67, 1307 (Glossary of class names of organic compounds and reactivity intermediates based on structure (IUPAC Recommendations 1995)) on page 1328)).
+A solvent for oils, fats, lacquers, varnishes, rubber waxes, and resins, and a starting material in the manufacturing of organic compounds. Poisoning by inhalation, ingestion or skin absorption is possible and may be fatal. (Merck Index, 11th ed)
+Properties:safety: Acute Toxic and Health Hazard
+smiles: C(Cl)(Cl)(Cl)Cl
+formula: CCl4
+chem_properties: Molecular Weight: 153.8 g/mol
+XLogP3: 2.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 153.872461 Da
+Monoisotopic Mass: 151.875411 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 19.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,24 @@
+Name: Rubrene
+Text:
+Properties:safety: Irritant
+smiles: C1=CC=C(C=C1)C2=C3C=CC=CC3=C(C4=C(C5=CC=CC=C5C(=C24)C6=CC=CC=C6)C7=CC=CC=C7)C8=CC=CC=C8
+formula: C42H28
+chem_properties: Molecular Weight: 532.7 g/mol
+XLogP3: 12.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 4
+Exact Mass: 532.219100893 Da
+Monoisotopic Mass: 532.219100893 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 42
+Formal Charge: 0
+Complexity: 696
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

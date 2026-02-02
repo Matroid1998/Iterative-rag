@@ -1,0 +1,23 @@
+Name: Bromocholine bromide
+Text:
+Properties:safety: Corrosive and Acute Toxic and Irritant
+smiles: C[N+](C)(C)CCBr.[Br-]
+formula: C5H13BrN.Br
+chem_properties: Molecular Weight: 246.97 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 2
+Exact Mass: 246.93943 Da
+Monoisotopic Mass: 244.94147 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 46.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

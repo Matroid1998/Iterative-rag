@@ -1,0 +1,27 @@
+Name: Triazine
+Text:
+1,2,3-triazine is a triazine.
+Heterocyclic rings containing three nitrogen atoms, commonly in 1,2,4 or 1,3,5 or 2,4,6 formats. Some are used as HERBICIDES.
+See also: Triazine pesticide, liquid, flammable, poisonous (annotation moved to); Triazine pesticide, liquid, poisonous (annotation moved to); Triazine pesticide, solid, poisonous (annotation moved to).
+Properties:safety: Irritant
+smiles: C1=CN=NN=C1
+formula: C3H3N3
+chem_properties: Molecular Weight: 81.08 g/mol
+XLogP3: -0.7
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 81.032697108 Da
+Monoisotopic Mass: 81.032697108 Da
+Topological Polar Surface Area: 38.7
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 33
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,28 @@
+Name: 3-Carene
+Text:
+Carene is a colorless liquid with a sweet, turpentine-like odor. Floats on water. (USCG, 1999)
+Car-3-ene is a monoterpene. It derives from a hydride of a carane.
+3-Carene has been reported in Artemisia thuscula, Cymbopogon martinii, and other organisms with data available.
+See also: Cannabis sativa subsp. indica top (part of); (+)-3-Carene (annotation moved to).
+Properties:safety: Flammable and Irritant and Health Hazard
+smiles: CC1=CCC2C(C1)C2(C)C
+formula: C10H16
+chem_properties: Molecular Weight: 136.23 g/mol
+XLogP3: 2.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 136.125200510 Da
+Monoisotopic Mass: 136.125200510 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 186
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 2
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

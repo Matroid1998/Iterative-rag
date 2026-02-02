@@ -1,0 +1,32 @@
+Name: Lithium
+Text:
+Lithium appears as a soft silvery metal that is normally grayish white. Reacts violently with water to form flammable hydrogen gas and strong caustic solution. Ignition usually occurs. Strong (corrosive) alkali fumes are formed in fire. (USCG, 1999)
+Lithium atom is an alkali metal atom.
+Lithium is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Lithium is a simple alkali metal, the salt of which acts as a mood stabilizing agent which has been extensively used for the treatment of mania for more than 50 years. Lithium has been associated with rare instances of mild serum aminotransferase elevations, but has not been convincingly linked to clinically apparent acute liver injury.
+Lithium is an element with atomic symbol Li, atomic number 3, and atomic weight 6.941.
+LITHIUM is a small molecule drug with a maximum clinical trial phase of III and has 1 investigational indication.
+lithium is a mineral.
+An element in the alkali metals family. It has the atomic symbol Li, atomic number 3, and atomic weight [6.938; 6.997]. Salts of lithium are used in treating BIPOLAR DISORDER.
+See also: Lithium Cation (has active moiety); Lithium hydride (annotation moved to) ... View More ...
+Properties:safety: Flammable and Corrosive
+smiles: [Li]
+formula: Li
+chem_properties: Molecular Weight: 7.0 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 7.01600343 Da
+Monoisotopic Mass: 7.01600343 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 1
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

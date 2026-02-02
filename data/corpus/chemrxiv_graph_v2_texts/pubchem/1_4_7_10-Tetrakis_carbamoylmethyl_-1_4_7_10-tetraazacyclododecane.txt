@@ -1,0 +1,24 @@
+Name: 1,4,7,10-Tetrakis(carbamoylmethyl)-1,4,7,10-tetraazacyclododecane
+Text:
+Properties:safety: Irritant
+smiles: C1CN(CCN(CCN(CCN1CC(=O)N)CC(=O)N)CC(=O)N)CC(=O)N
+formula: C16H32N8O4
+chem_properties: Molecular Weight: 400.48 g/mol
+XLogP3: -4.1
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 8
+Exact Mass: 400.25465153 Da
+Monoisotopic Mass: 400.25465153 Da
+Topological Polar Surface Area: 185
+Heavy Atom Count: 28
+Formal Charge: 0
+Complexity: 447
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

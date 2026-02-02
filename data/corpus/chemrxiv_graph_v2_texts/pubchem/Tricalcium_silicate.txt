@@ -1,0 +1,23 @@
+Name: Tricalcium silicate
+Text:
+Properties:safety: Corrosive and Irritant
+smiles: [O-][Si]([O-])([O-])[O-].O=[Ca].[Ca+2].[Ca+2]
+formula: Ca3O5Si
+chem_properties: Molecular Weight: 228.32 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 0
+Exact Mass: 227.8392722 Da
+Monoisotopic Mass: 227.8392722 Da
+Topological Polar Surface Area: 109
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 21.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 4
+Compound Is Canonicalized: Yes 
+

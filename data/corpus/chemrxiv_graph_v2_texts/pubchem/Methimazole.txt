@@ -1,0 +1,33 @@
+Name: Methimazole
+Text:
+Methimazole can cause developmental toxicity according to state or federal government labeling requirements.
+Methimazole is a member of the class of imidazoles that it imidazole-2-thione in which a methyl group replaces the hydrogen which is attached to a nitrogen. It has a role as an antithyroid drug.
+Methimazole is a thionamide antithyroid agent that inhibits the synthesis of thyroid hormones. It was first introduced as an antithyroid agent in 1949 and is now commonly used in the management of hyperthyroidism, particularly in those for whom more aggressive options such as surgery or radioactive iodine therapy are inappropriate.  On a weight basis, methimazole is 10 times more potent than the other major antithyroid thionamide used in North America, [propylthiouracil], and is the active metabolite of the pro-drug [carbimazole], which is an antithyroid medication used in the United Kingdom and parts of the former British Commonwealth. Traditionally, methimazole has been preferentially used over propylthiouracil due to the risk of fulminant hepatotoxicity carried by the latter, with propylthiouracil being preferred in pregnancy due to a perceived lower risk of teratogenic effects. Despite documented teratogenic effects in its published labels, the true teratogenicity of methimazole appears to be unclear and its place in therapy may change in the future.
+Methimazole is a Thyroid Hormone Synthesis Inhibitor. The mechanism of action of methimazole is as a Thyroid Hormone Synthesis Inhibitor.
+Methimazole is an antithyroid medication which is now considered the first line agent for medical therapy of hyperthyroidism and Graves disease. Methimazole has been linked to serum aminotransferase elevations during therapy as well as to a clinically apparent, idiosyncratic liver injury that is typically cholestatic and self-limited in course.
+Methimazole is a thioamide inhibitor of the enzyme thyroid peroxidase (TPO), with antithyroid activity. Upon administration, methimazole inhibits the metabolism of iodide and the iodination of tyrosine residues in the thyroid hormone precursor thyroglobulin by TPO; this prevents the synthesis of the thyroid hormones triiodothyronine (T3) and thyroxine (T4).
+METHIMAZOLE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1950 and is indicated for abnormality of the thyroid gland and hyperthyroidism and has 4 investigational indications.
+A thioureylene antithyroid agent that inhibits the formation of thyroid hormones by interfering with the incorporation of iodine into tyrosyl residues of thyroglobulin. This is done by interfering with the oxidation of iodide ion and iodotyrosyl groups through inhibition of the peroxidase enzyme.
+See also: 2-Mercapto-1-methylimidazole (annotation moved to).
+Properties:safety: Irritant and Health Hazard
+smiles: CN1C=CNC1=S
+formula: C4H6N2S
+chem_properties: Molecular Weight: 114.17 g/mol
+XLogP3: -0.3
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 114.02516937 Da
+Monoisotopic Mass: 114.02516937 Da
+Topological Polar Surface Area: 47.4
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 119
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

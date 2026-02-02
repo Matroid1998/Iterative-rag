@@ -1,0 +1,24 @@
+Name: Tributyltin
+Text:
+Tributyltin is an organotin compound. Tributyltins are the main active ingredients in certain biocides used to control a broad spectrum of organisms, and are also used in wood preservation, marine paints (as antifouling pesticides), and textiles and industrial water systems (as antifungal agents). They also considered moderately to highly persistent organic pollutants and are especially hazardous to marine ecosystems. The main toxic component of tributyltins is tin. Tin is a chemical element with the symbol Sn and atomic number 50. It is a natural component of the earth's crust and is obtained chiefly from the mineral cassiterite, where it occurs as tin dioxide. (L307, L309, L308)
+Properties:safety: Flammable and Acute Toxic and Irritant and Health Hazard and Environmental Hazard
+smiles: CCCC[Sn](CCCC)CCCC
+formula: C12H27Sn
+chem_properties: Molecular Weight: 290.05 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 9
+Exact Mass: 291.113478 Da
+Monoisotopic Mass: 291.113478 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 13
+Formal Charge: 0
+Complexity: 72.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

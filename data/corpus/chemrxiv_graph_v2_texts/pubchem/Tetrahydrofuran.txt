@@ -1,0 +1,29 @@
+Name: Tetrahydrofuran
+Text:
+Tetrahydrofuran can cause cancer according to California Labor Code and the World Health Organization's International Agency for Research on Cancer (IARC).
+Tetrahydrofuran appears as a clear colorless liquid with an ethereal odor. Less dense than water. Flash point 6 °F. Vapors are heavier than air.
+Oxolane is a cyclic ether that is butane in which one hydrogen from each methyl group is substituted by an oxygen. It has a role as a polar aprotic solvent. It is a member of oxolanes, a saturated organic heteromonocyclic parent, a cyclic ether and a volatile organic compound.
+Tetrahydrofuran has been reported in Castanopsis cuspidata and Coffea arabica with data available.
+See also: Poly(tetrahydrofuran) (annotation moved to).
+Properties:safety: Flammable and Irritant and Health Hazard
+smiles: C1CCOC1
+formula: C4H8O
+chem_properties: Molecular Weight: 72.11 g/mol
+XLogP3: 0.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 72.057514874 Da
+Monoisotopic Mass: 72.057514874 Da
+Topological Polar Surface Area: 9.2
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 22.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

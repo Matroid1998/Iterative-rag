@@ -1,0 +1,28 @@
+Name: Anisole
+Text:
+Anisole appears as a clear straw-colored liquid with an aromatic odor. Insoluble in water and the same density as water. Vapors heavier than air. Moderately toxic by ingestion. A skin irritant. Used to make perfumes, flavorings and as a solvent.
+Anisole is a monomethoxybenzene that is benzene substituted by a methoxy group. It has a role as a plant metabolite.
+Anisole has been reported in Tuber melanosporum, Peristeria elata, and other organisms with data available.
+See also: p-Methoxyphenyl radical (annotation moved to).
+Properties:safety: Flammable and Irritant
+smiles: COC1=CC=CC=C1
+formula: C7H8O
+chem_properties: Molecular Weight: 108.14 g/mol
+XLogP3: 2.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 1
+Exact Mass: 108.057514874 Da
+Monoisotopic Mass: 108.057514874 Da
+Topological Polar Surface Area: 9.2
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 55.4
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

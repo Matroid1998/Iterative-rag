@@ -1,0 +1,26 @@
+Name: 3-Phenylpropanal
+Text:
+3-phenylpropanal is a benzene which is substituted by a 3-oxopropyl group at position 1. It has a role as a flavouring agent and a plant metabolite. It is an aldehyde and a member of benzenes. It is functionally related to a benzene.
+3-Phenylpropanal has been reported in Cinnamomum sieboldii, Syzygium jambos, and Cinnamomum verum with data available.
+Properties:safety: Irritant
+smiles: C1=CC=C(C=C1)CCC=O
+formula: C9H10O
+chem_properties: Molecular Weight: 134.17 g/mol
+XLogP3: 1.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 3
+Exact Mass: 134.073164938 Da
+Monoisotopic Mass: 134.073164938 Da
+Topological Polar Surface Area: 17.1
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 92.9
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

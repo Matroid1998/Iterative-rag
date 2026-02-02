@@ -1,0 +1,32 @@
+Name: Benzo[a]pyrene
+Text:
+Benzo[a]pyrene can cause cancer according to an independent committee of scientific and health experts.
+Benzo[a]pyrene appears as a liquid. Presents a threat to the environment. Immediate steps should be taken to limits its spread to the environment. Easily penetrates the soil and contaminates groundwater or nearby waterways.
+Benzo[a]pyrene is an ortho- and peri-fused polycyclic arene consisting of five fused benzene rings. It has a role as a carcinogenic agent and a mouse metabolite.
+Benzo[a]pyrene has been reported in Homo sapiens and Angelica sinensis with data available.
+3,4-Benzpyrene is a crystalline, aromatic hydrocarbon consisting of five fused benzene rings and formed during the incomplete combustion of organic matter. 3,4-Benzpyrene is primarily found in gasoline and diesel exhaust, cigarette smoke, coal tar and coal tar pitch, charcoal-broiled foods and certain other foods, amino acids, fatty acids and carbohydrate pyrolysis products, soot smoke, creosote oil, petroleum asphalt and shale oils. This substance is used only for research purposes. 3,4-Benzpyrene is reasonably anticipated to be a human carcinogen. (NCI05)
+Benzo[a]pyrene is one of over 100 different polycyclic aromatic hydrocarbons (PAHs). PAHs are chemicals that are formed during the incomplete burning organic substances, such as fossil fuels. They are usually found as a mixture containing two or more of these compounds. It is one ingredient of cigarette. (L10)
+A potent mutagen and carcinogen. It is a public health concern because of its possible effects on industrial workers, as an environmental pollutant, an as a component of tobacco smoke.
+See also: Tobacco Leaf (part of) ... View More ...
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: C1=CC=C2C3=C4C(=CC2=C1)C=CC5=C4C(=CC=C5)C=C3
+formula: C20H12
+chem_properties: Molecular Weight: 252.3 g/mol
+XLogP3: 6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 252.093900383 Da
+Monoisotopic Mass: 252.093900383 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 20
+Formal Charge: 0
+Complexity: 372
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

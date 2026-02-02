@@ -1,0 +1,26 @@
+Name: Pyridine-2-Carbaldehyde
+Text:
+2-formylpyridine is a pyridinecarbaldehyde that is pyridine in which the hydrogen at position 2 is replaced by a formyl group.
+2-Pyridinecarboxaldehyde has been reported in Capparis spinosa with data available.
+Properties:safety: Flammable and Corrosive and Acute Toxic and Irritant and Environmental Hazard
+smiles: C1=CC=NC(=C1)C=O
+formula: C6H5NO
+chem_properties: Molecular Weight: 107.11 g/mol
+XLogP3: 0.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 107.037113783 Da
+Monoisotopic Mass: 107.037113783 Da
+Topological Polar Surface Area: 30
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 82.6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

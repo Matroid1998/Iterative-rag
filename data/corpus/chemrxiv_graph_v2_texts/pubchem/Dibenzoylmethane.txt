@@ -1,0 +1,26 @@
+Name: Dibenzoylmethane
+Text:
+Dibenzoylmethane is a beta-diketone that is acetylacetone (acac) in which both methyl groups have been replaced by phenyl groups. It is a minor constituent of the root extract of licorice (Glycyrrhiza glabra) and exhibits antimutagenic and anticancer effects. It has a role as an antineoplastic agent, a metabolite and an antimutagen. It is a beta-diketone and an aromatic ketone.
+Dibenzoylmethane has been reported in Acca sellowiana with data available.
+Properties:safety: Irritant
+smiles: C1=CC=C(C=C1)C(=O)CC(=O)C2=CC=CC=C2
+formula: C15H12O2
+chem_properties: Molecular Weight: 224.25 g/mol
+XLogP3: 3.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 4
+Exact Mass: 224.083729621 Da
+Monoisotopic Mass: 224.083729621 Da
+Topological Polar Surface Area: 34.1
+Heavy Atom Count: 17
+Formal Charge: 0
+Complexity: 243
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

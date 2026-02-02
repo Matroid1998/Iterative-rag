@@ -1,0 +1,25 @@
+Name: Diphosgene
+Text:
+Diphosgene is a moderately persistent synthetic organic compound, formed by chlorination of methyl chloroformate, that is a respiratory irritant and lachrymator. Trichloromethyl Chloroformate has been used as a chemical warfare agent and is characterized as a colorless liquid with an odor that is like newly mown hay. Exposure occurs by inhalation, ingestion, or contact.
+Properties:safety: Corrosive and Acute Toxic
+smiles: C(=O)(OC(Cl)(Cl)Cl)Cl
+formula: C2Cl4O2
+chem_properties: Molecular Weight: 197.8 g/mol
+XLogP3: 3.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 197.862290 Da
+Monoisotopic Mass: 195.865240 Da
+Topological Polar Surface Area: 26.3
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 94.7
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

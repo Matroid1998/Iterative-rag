@@ -1,0 +1,26 @@
+Name: Isocaproic acid
+Text:
+Isocaproic acid is a methyl-branched fatty acid that is pentanoic acid with a methyl group substituent at position 4. It is a metabolite of 20 alpha-hydroxycholesterol It has a role as a human metabolite. It is a branched-chain saturated fatty acid, a methyl-branched fatty acid and a medium-chain fatty acid. It is a conjugate acid of an isocaproate.
+4-Methylpentanoic acid has been reported in Amorphophallus elatus, Pelargonium graveolens, and other organisms with data available.
+Properties:safety: Corrosive and Acute Toxic
+smiles: CC(C)CCC(=O)O
+formula: C6H12O2
+chem_properties: Molecular Weight: 116.16 g/mol
+XLogP3: 1.4
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 3
+Exact Mass: 116.083729621 Da
+Monoisotopic Mass: 116.083729621 Da
+Topological Polar Surface Area: 37.3
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 76.6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

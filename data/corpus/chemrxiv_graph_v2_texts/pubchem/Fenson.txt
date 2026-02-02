@@ -1,0 +1,26 @@
+Name: Fenson
+Text:
+Fenson is an arenesulfonic acid.
+See also: Polychlorinated Biphenyls (annotation moved to).
+Properties:safety: Irritant and Environmental Hazard
+smiles: C1=CC=C(C=C1)S(=O)(=O)OC2=CC=C(C=C2)Cl
+formula: C12H9ClO3S
+chem_properties: Molecular Weight: 268.72 g/mol
+XLogP3: 3.7
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 3
+Exact Mass: 267.9960930 Da
+Monoisotopic Mass: 267.9960930 Da
+Topological Polar Surface Area: 51.8
+Heavy Atom Count: 17
+Formal Charge: 0
+Complexity: 322
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

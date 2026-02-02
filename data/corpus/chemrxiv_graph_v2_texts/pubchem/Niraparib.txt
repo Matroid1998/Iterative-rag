@@ -1,0 +1,31 @@
+Name: Niraparib
+Text:
+Niraparib is a 2-[4-(piperidin-3-yl)phenyl]-2H-indazole-7-carboxamide that has S-configuration. It is a potent inhibitor of PARP1 and PARP2 (IC50 of 3.8 and 2.1 nM, respectively) and approved as a first-line maintenance treatment for women with advanced ovarian cancer after responding to platinum-based chemotherapy. It has a role as an antineoplastic agent, an EC 2.4.2.30 (NAD(+) ADP-ribosyltransferase) inhibitor, a radiosensitizing agent and an apoptosis inducer.
+Niraparib is an orally active poly (ADP-ribose) polymerase (PARP) inhibitor. By blocking the enzymes responsible for DNA repair, niraparib induces cytotoxicity in cancer cells. Niraparib is selective towards PARP-1 and PARP-2. First approved by the FDA on March 27, 2017, niraparib is used to treat epithelial ovarian, fallopian tube, or primary peritoneal cancer. Niraparib was approved by the European Commission on November 16, 2017 and by Health Canada on June 27, 2019.
+Niraparib is a Poly(ADP-Ribose) Polymerase Inhibitor. The mechanism of action of niraparib is as a Poly(ADP-Ribose) Polymerase Inhibitor.
+Niraparib is a small molecule inhibitor of poly ADP-ribose polymerase that is used in the therapy of selected patients with refractory and advanced ovarian carcinoma. Niraparib therapy is associated with a low rate of transient elevations in serum aminotransferase during therapy, but has not been linked to instances of clinically apparent liver injury.
+Niraparib is an orally bioavailable inhibitor of poly (ADP-ribose) polymerase (PARP) types 1 and 2 (PARP-1 and -2), with antineoplastic activity. Upon administration, niraparib binds to and inhibits the activity of PARP-1 and -2, thereby inhibiting PARP-1 and -2-mediated DNA repair, enhancing the accumulation of DNA strand breaks, promoting genomic instability and resulting in apoptosis. The PARP family of proteins catalyzes post-translational ADP-ribosylation of nuclear proteins and is activated by single-strand DNA (ssDNA) breaks.
+NIRAPARIB is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2017 and has 6 approved and 42 investigational indications.
+See also: Niraparib Tosylate Monohydrate (has salt form); Niraparib tosylate (is active moiety of); Niraparib hydrochloride (is active moiety of) ... View More ...
+Properties:safety: Irritant and Health Hazard
+smiles: C1C[C@H](CNC1)C2=CC=C(C=C2)N3C=C4C=CC=C(C4=N3)C(=O)N
+formula: C19H20N4O
+chem_properties: Molecular Weight: 320.4 g/mol
+XLogP3: 2.2
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 3
+Exact Mass: 320.16371127 Da
+Monoisotopic Mass: 320.16371127 Da
+Topological Polar Surface Area: 72.9
+Heavy Atom Count: 24
+Formal Charge: 0
+Complexity: 449
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

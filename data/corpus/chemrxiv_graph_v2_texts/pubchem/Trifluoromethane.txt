@@ -1,0 +1,27 @@
+Name: Trifluoromethane
+Text:
+Trifluoromethane is a colorless nonflammable gas. It is shipped as a liquid under pressure. It may be narcotic in high concentrations. Under prolonged exposure to fire or heat the containers may rupture violently and rocket. It is used as a refrigerant.
+Trifluoromethane, refrigerated liquid appears as a colorless odorless gas. Heavier than air. Contact may irritate mucous membranes. May asphyxiate by displacing air. Contact may cause frost bite. Under prolonged exposure to fire or heat containers may rupture violently and rocket.
+Fluoroform is a member of fluoromethanes. It has a role as a refrigerant.
+Properties:safety: Compressed Gas
+smiles: C(F)(F)F
+formula: CHF3
+chem_properties: Molecular Weight: 70.014 g/mol
+XLogP3: 1.5
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 70.00303452 Da
+Monoisotopic Mass: 70.00303452 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,25 @@
+Name: Methanol-D4
+Text:
+Methanol-d4 is a deuterated compound that is methanol in which all four hydrogen atoms are replaced by deuterium. It is commonly used as a solvent in NMR spectroscopy. It has a role as an amphiprotic solvent and a NMR solvent.
+Properties:safety: Flammable and Acute Toxic and Health Hazard
+smiles: [2H]C([2H])([2H])O[2H]
+formula: CH4O
+chem_properties: Molecular Weight: 36.066 g/mol
+XLogP3: -0.5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 36.051321731 Da
+Monoisotopic Mass: 36.051321731 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 2
+Formal Charge: 0
+Complexity: 2
+Isotope Atom Count: 4
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

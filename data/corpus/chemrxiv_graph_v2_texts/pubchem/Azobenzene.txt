@@ -1,0 +1,27 @@
+Name: Azobenzene
+Text:
+Azobenzene can cause cancer according to The Environmental Protection Agency (EPA).
+Azobenzene appears as orange-red crystals or dark brown chunky solid. (NTP, 1992)
+Azobenzene is a molecule whose structure comprises two phenyl rings linked by a N=N double bond; the parent compound of the azobenzene class of compounds.
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: C1=CC=C(C=C1)N=NC2=CC=CC=C2
+formula: C12H10N2
+chem_properties: Molecular Weight: 182.22 g/mol
+XLogP3: 3.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 2
+Exact Mass: 182.084398327 Da
+Monoisotopic Mass: 182.084398327 Da
+Topological Polar Surface Area: 24.7
+Heavy Atom Count: 14
+Formal Charge: 0
+Complexity: 157
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,25 @@
+Name: Chloroacetamide
+Text:
+Chloroacetamide is a chlorinated sulfhydryl alkylating reagent that forms covalent bonds with the thiol group of cysteines so the protein or peptide no longer forms disulfide bonds.
+Properties:safety: Acute Toxic and Health Hazard
+smiles: C(C(=O)N)Cl
+formula: C2H4ClNO
+chem_properties: Molecular Weight: 93.51 g/mol
+XLogP3: -0.5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 1
+Exact Mass: 92.9981414 Da
+Monoisotopic Mass: 92.9981414 Da
+Topological Polar Surface Area: 43.1
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 44.9
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,30 @@
+Name: Styrene Oxide
+Text:
+Styrene Oxide can cause cancer according to an independent committee of scientific and health experts.
+Styrene oxide is a clear colorless straw-colored liquid with a sweet pleasant odor. (NTP, 1992)
+Styrene oxide is an epoxide that is oxirane in which one of the hydrogens has been replaced by a phenyl group. It has a role as a human xenobiotic metabolite. It derives from a hydride of a styrene.
+Styrene oxide is used as a reactive plasticizer or diluent for epoxy resins and in the production of phenethyl alcohol and styrene glycol and its derivatives. Acute (short-term) exposure to styrene oxide causes skin and eye irritation in humans. Corneal injury, liver, and neurological effects have been reported in acutely exposed animals. No information is available on the chronic (long-term), reproductive, developmental, or carcinogenic effects of styrene oxide in humans. Maternal toxicity and increased fetal mortality have been observed in rats and rabbits exposed to styrene oxide by inhalation. Several studies have reported an increased incidence of forestomach tumors in rats and mice exposed via gavage (experimentally placing the chemical in the stomach). The International Agency for Research on Cancer (IARC) has classified styrene oxide as a Group 2A, a probable human carcinogen.
+Styrene oxide has been reported in Nicotiana tabacum with data available.
+Styrene Oxide is a synthetic, colorless liquid that is very soluble in water. Styrene oxide is used as a chemical intermediate in the production of styrene glycol and its derivatives, cosmetics, surface coatings and other chemicals (agricultural and biological). It is also used as a reactive diluent for epoxy resins and in cross-linked polyesters and polyurethanes. Humans in the general population may be exposed to styrene oxide by contact with contaminated air or water. It is reasonably anticipated to be a human carcinogen. (NCI05)
+Properties:safety: Irritant and Health Hazard
+smiles: C1C(O1)C2=CC=CC=C2
+formula: C8H8O
+chem_properties: Molecular Weight: 120.15 g/mol
+XLogP3: 1.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 1
+Exact Mass: 120.057514874 Da
+Monoisotopic Mass: 120.057514874 Da
+Topological Polar Surface Area: 12.5
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 94.7
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

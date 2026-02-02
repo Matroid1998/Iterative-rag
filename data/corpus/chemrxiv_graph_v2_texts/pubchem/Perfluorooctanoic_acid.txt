@@ -1,0 +1,27 @@
+Name: Perfluorooctanoic acid
+Text:
+Perfluorooctanoic Acid (PFOA) can cause cancer according to The National Toxicology Program. It can cause developmental toxicity according to The Environmental Protection Agency (EPA).
+Perfluorooctanoic acid is a fluoroalkanoic acid that is perfluorinated octanoic acid. It has a role as an environmental contaminant, a xenobiotic, a carcinogenic agent, a surfactant and an endocrine disruptor. It is functionally related to a perfluorooctane and an octanoic acid.
+Perfluorooctanoic acid (PFOA), also known as C8 and perfluorooctanoate, is a synthetic, stable perfluorinated carboxylic acid and fluorosurfactant. One industrial application is as a surfactant in the emulsion polymerization of fluoropolymers. It has been used in the manufacture of such prominent consumer goods as Teflon and Gore-Tex. PFOA has been manufactured since the 1940s in industrial quantities. It is also formed by the degradation of precursors such as some fluorotelomers. PFOA persists indefinitely in the environment. It is a toxicant and carcinogen in animals. PFOA has been detected in the blood of more than 98% of the general US population in the low and sub-parts per billion range, and levels are higher in chemical plant employees and surrounding subpopulations. Exposure has been associated with increased cholesterol and uric acid levels, and recently higher serum levels of PFOA were found to be associated with increased risk of chronic kidney disease in the general United States population, consistent with earlier animal studies. This association was independent of confounders such as age, sex, race/ethnicity, body mass index, diabetes, hypertension, and serum cholesterol level. .
+Properties:safety: Corrosive and Irritant and Health Hazard
+smiles: C(=O)(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O
+formula: C8HF15O2
+chem_properties: Molecular Weight: 414.07 g/mol
+XLogP3: 4.9
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 17
+Rotatable Bond Count: 6
+Exact Mass: 413.9737017 Da
+Monoisotopic Mass: 413.9737017 Da
+Topological Polar Surface Area: 37.3
+Heavy Atom Count: 25
+Formal Charge: 0
+Complexity: 530
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

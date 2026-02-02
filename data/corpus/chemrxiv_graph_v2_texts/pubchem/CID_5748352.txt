@@ -1,0 +1,25 @@
+Name: CID 5748352
+Text:
+Chlorophyll is a porphyrin derivative conjugated with a magnesium ion that is found in plant chloroplasts, algae and cyanobacteria. Chlorophyll is essential to the process of photosynthesis. It absorbs light in the blue and red parts of the visible spectrum and transfers the absorbed photon energy to an electron, which is used to produce ATP.
+Porphyrin derivatives containing magnesium that act to convert light energy in photosynthetic organisms.
+Properties:safety: Flammable
+smiles: CCC1=C(C2=NC1=CC3=C(C4=C(C(C(=C4[N-]3)C5=NC(=CC6=NC(=C2)C(=C6C)C=C)C(C5CCC(=O)OCC=C(C)CCCC(C)CCCC(C)CCCC(C)C)C)C(=O)OC)[O-])C)C.[Mg+2]
+formula: C55H72MgN4O5
+chem_properties: Molecular Weight: 893.5 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 9
+Rotatable Bond Count: 22
+Exact Mass: 892.5353131 Da
+Monoisotopic Mass: 892.5353131 Da
+Topological Polar Surface Area: 114
+Heavy Atom Count: 65
+Formal Charge: 0
+Complexity: 2300
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 5
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 1
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

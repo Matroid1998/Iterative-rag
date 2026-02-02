@@ -1,0 +1,28 @@
+Name: Brefeldin A
+Text:
+Brefeldin A is a metabolite from Penicillium brefeldianum that exhibits a wide range of antibiotic activity. It has a role as a Penicillium metabolite.
+A metabolite from Penicillium brefeldianum that exhibits a wide range of antibiotic activity.
+brefeldin A has been reported in Penicillium camemberti, Penicillium brefeldianum, and other organisms with data available.
+A fungal metabolite which is a macrocyclic lactone exhibiting a wide range of antibiotic activity.
+Properties:safety: Acute Toxic
+smiles: C[C@H]1CCC/C=C/[C@@H]2C[C@@H](C[C@H]2[C@@H](/C=C/C(=O)O1)O)O
+formula: C16H24O4
+chem_properties: Molecular Weight: 280.36 g/mol
+XLogP3: 2
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 280.16745924 Da
+Monoisotopic Mass: 280.16745924 Da
+Topological Polar Surface Area: 66.8
+Heavy Atom Count: 20
+Formal Charge: 0
+Complexity: 388
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 5
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 2
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,24 @@
+Name: Cyclooctylamine
+Text:
+Properties:safety: Corrosive
+smiles: C1CCCC(CCC1)N
+formula: C8H17N
+chem_properties: Molecular Weight: 127.23 g/mol
+XLogP3: 1.3
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 127.136099547 Da
+Monoisotopic Mass: 127.136099547 Da
+Topological Polar Surface Area: 26
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 63
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

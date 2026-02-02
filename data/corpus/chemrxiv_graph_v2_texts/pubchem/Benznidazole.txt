@@ -1,0 +1,32 @@
+Name: Benznidazole
+Text:
+Benznidazole is a monocarboxylic acid amide obtained by formal condensation of the carboxy group of (2-nitroimidazol-1-yl)acetic acid with the aromatic amino group of benzylamine. Used for treatment of Chagas disease. It has a role as an antiprotozoal drug. It is a member of imidazoles, a C-nitro compound and a monocarboxylic acid amide.
+Benznidazole is an antiprotozoal prescription medicine approved by the Food and Drug Administration (FDA) for the treatment of Chagas disease caused by infection with the parasite Trypanosoma cruzi. Benznidazole is FDA-approved for use in children 2 to 12 years of age.
+Chagas disease can be opportunistic infections (OI) of HIV.
+Benznidazole was granted accelerated approval for the treatment of Chagas disease in children 2-12 years of age by the FDA on August 29, 2017. It is the first treatment made available in the United States for Chagas disease.
+Benznidazole is an orally available, broad spectrum antimicrobial agent used in the treatment of Chagas disease (American trypanosomiasis). Benznidazole is a nitroimidazole similar to metronidazole and is associated with serum enzyme elevations during therapy in up to 10% of patients but has not linked to cases of clinically apparent acute liver injury.
+Benznidazole has been reported in Xenorhabdus nematophila with data available.
+Benznidazole is a nitroimidazole derivative having an antiprotozoal activity by interfering with parasite protein biosynthesis, influencing cytokines production and stimulating host phagocytosis. (NCI)
+BENZNIDAZOLE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2017 and has 4 approved indications.
+Properties:safety: Irritant
+smiles: C1=CC=C(C=C1)CNC(=O)CN2C=CN=C2[N+](=O)[O-]
+formula: C12H12N4O3
+chem_properties: Molecular Weight: 260.25 g/mol
+XLogP3: 0.9
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 4
+Exact Mass: 260.09094026 Da
+Monoisotopic Mass: 260.09094026 Da
+Topological Polar Surface Area: 92.7
+Heavy Atom Count: 19
+Formal Charge: 0
+Complexity: 325
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

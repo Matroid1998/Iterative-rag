@@ -1,0 +1,35 @@
+Name: Ibuprofen
+Text:
+Ibuprofen is a monocarboxylic acid that is propionic acid in which one of the hydrogens at position 2 is substituted by a 4-(2-methylpropyl)phenyl group. It has a role as a non-steroidal anti-inflammatory drug, a non-narcotic analgesic, a cyclooxygenase 2 inhibitor, a cyclooxygenase 1 inhibitor, an antipyretic, a xenobiotic, an environmental contaminant, a radical scavenger, a drug allergen and a geroprotector. It is functionally related to a propionic acid. It is a conjugate acid of an ibuprofen(1-).
+Ibuprofen is a non-steroidal anti-inflammatory drug (NSAID) derived from propionic acid and it is considered the first of the propionics. The formula of ibuprofen is 2-(4-isobutylphenyl) propionic acid and its initial development was in 1960 while researching for a safer alternative for aspirin. Ibuprofen was finally patented in 1961 and this drug was first launched against rheumatoid arthritis in the UK in 1969 and USA in 1974. It was the first available over-the-counter NSAID.  On the available products, ibuprofen is administered as a racemic mixture. Once administered, the R-enantiomer undergoes extensive interconversion to the S-enantiomer in vivo by the activity of the alpha-methylacyl-CoA racemase. In particular, it is generally proposed that the S-enantiomer is capable of eliciting stronger pharmacological activity than the R-enantiomer.
+Ibuprofen is a Nonsteroidal Anti-inflammatory Drug. The mechanism of action of ibuprofen is as a Cyclooxygenase Inhibitor.
+Ibuprofen is a commonly used nonsteroidal antiinflammatory (NSAID) drug which is available both by prescription and over-the-counter. Ibuprofen is considered to be among the safest NSAIDs and is generally well tolerated but can, nevertheless, rarely cause clinically apparent and serious acute liver injury.
+Ibuprofen has been reported in Plantago major, Syzygium aromaticum, and Artemisia argyi with data available.
+Ibuprofen Sodium is the sodium salt form of ibuprofen, a propionic acid derivate and nonsteroidal anti-inflammatory drug (NSAID) with anti-inflammatory, analgesic, and antipyretic activities. Upon administration, ibuprofen inhibits the activity of cyclo-oxygenase I and II, resulting in a decreased formation of precursors of prostaglandins and thromboxanes. This leads to decreased prostaglandin synthesis, by prostaglandin synthase, the main physiologic effect of ibuprofen. Ibuprofen also causes a decrease in the formation of thromboxane A2 synthesis, by thromboxane synthase, thereby inhibiting platelet aggregation.
+Ibuprofen is a propionic acid derivate and nonsteroidal anti-inflammatory drug (NSAID) with anti-inflammatory, analgesic, and antipyretic effects. Ibuprofen inhibits the activity of cyclo-oxygenase I and II, resulting in a decreased formation of precursors of prostaglandins and thromboxanes. This leads to decreased prostaglandin synthesis, by prostaglandin synthase, the main physiologic effect of ibuprofen. Ibuprofen also causes a decrease in the formation of thromboxane A2 synthesis, by thromboxane synthase, thereby inhibiting platelet aggregation. (NCI05)
+IBUPROFEN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1974 and has 21 approved and 61 investigational indications. This drug has a black box warning from the FDA.
+Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) widely marketed under various trademarks including Act-3, Advil, Brufen, Motrin, Nuprin, and Nurofen. It is used for relief of symptoms of arthritis, primary dysmenorrhoea, and fever; Ibuprofen is an NSAID which is believed to work through inhibition of cyclooxygenase (COX), thus inhibiting prostaglandin synthesis. There are at least 2 variations of cyclooxygenase (COX-1 and COX-2), ibuprofen inhibits both COX-1 and COX-2. It appears that its analgesic, antipyretic, and anti-inflammatory activity are achieved principally through COX-2 inhibition; whereas COX-1 inhibition is responsible for its unwanted effects on platelet aggregation and the GI mucosa. As with other NSAIDs, ibuprofen inhibits platelet aggregation, but is not used therapeutically for this action since it is a minor and reversible effect. -- Wikipedia.
+A non-steroidal anti-inflammatory agent with analgesic, antipyretic, and anti-inflammatory properties
+See also: Ibuprofen Sodium (active moiety of); Ibuprofen Lysine (active moiety of); Ibuprofen; pseudoephedrine hydrochloride (component of) ... View More ...
+Properties:safety: Irritant and Health Hazard
+smiles: CC(C)CC1=CC=C(C=C1)C(C)C(=O)O
+formula: C13H18O2
+chem_properties: Molecular Weight: 206.28 g/mol
+XLogP3: 3.5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 4
+Exact Mass: 206.130679813 Da
+Monoisotopic Mass: 206.130679813 Da
+Topological Polar Surface Area: 37.3
+Heavy Atom Count: 15
+Formal Charge: 0
+Complexity: 203
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

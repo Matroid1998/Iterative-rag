@@ -1,0 +1,148 @@
+The Sabatier reaction or Sabatier process produces methane and water from a reaction of hydrogen with carbon dioxide at elevated temperatures (optimally 300–400 °C) and pressures (perhaps 3 MPa ) in the presence of a nickel catalyst. It was discovered by the French chemists Paul Sabatier and Jean-Baptiste Senderens in 1897. Optionally, ruthenium on alumina (aluminium oxide) makes a more efficient catalyst. It is described by the following exothermic reaction:
+
+  
+    
+      
+        
+          
+            CO
+            
+              2
+            
+            
+              
+            
+          
+          
+
+          
+          +
+          4
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          
+            
+              →
+              
+                
+                  
+                    pressure
+                    
+                      +
+                    
+                  
+                  catalyst
+                
+              
+              
+                
+                  
+
+                  
+                  
+                    400
+                    
+                       
+                      
+                        ∘
+                      
+                    
+                    
+                      C
+                    
+                  
+                
+              
+            
+          
+          
+            CH
+            
+              4
+            
+            
+              
+            
+          
+          
+
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {CO2{}+4H2->[{} \atop 400\ ^{\circ }{\ce {C}}][{\ce {pressure+catalyst}}]CH4{}+2H2O}}}
+  
+ ∆H = −165.0 kJ/mol
+There is disagreement on whether the CO2 methanation occurs by first associatively adsorbing an adatom hydrogen and forming oxygen intermediates before hydrogenation or dissociating and forming a carbonyl before being hydrogenated.
+
+  
+    
+      
+        
+          
+            CO
+          
+          +
+          3
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          
+            
+              CH
+              
+                4
+              
+              
+                
+              
+            
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {{CO}+ 3H2 -> {CH4}+ H2O}}}
+  
+ ∆H = −206 kJ/mol
+CO methanation is believed to occur through a dissociative mechanism where the carbon oxygen bond is broken before hydrogenation with an associative mechanism only being observed at high H2 concentrations.
+Methanation reactions over different metal catalysts including Ni, Ru and Rh have been widely investigated for the production of CH4 from syngas and other power to gas initiatives. Nickel is the most widely used catalyst owing to its high selectivity and low cost.

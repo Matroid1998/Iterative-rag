@@ -1,0 +1,25 @@
+Name: Iron pentacarbonyl
+Text:
+Iron pentacarbonyl appears as a yellow to dark red liquid. Insoluble in water and denser than water. Very toxic by inhalation, ingestion, and skin absorption. Flash point 5 °F. Used to make other chemicals.
+See also: Ferrous cation (has active moiety).
+Properties:safety: Flammable and Acute Toxic and Health Hazard
+smiles: [C]=O.[C]=O.[C]=O.[C]=O.[C]=O.[Fe]
+formula: C5FeO5
+chem_properties: Molecular Weight: 195.90 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 0
+Exact Mass: 195.909509 Da
+Monoisotopic Mass: 195.909509 Da
+Topological Polar Surface Area: 85.4
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 6
+Compound Is Canonicalized: Yes 
+

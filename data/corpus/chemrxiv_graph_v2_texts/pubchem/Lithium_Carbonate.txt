@@ -1,0 +1,31 @@
+Name: Lithium Carbonate
+Text:
+Lithium Carbonate can cause developmental toxicity according to state or federal government labeling requirements.
+Lithium carbonate appears as a white powder. Strong irritant when dissolved in water.
+Lithium carbonate is a lithium salt and a carbonate salt. It has a role as an antimanic drug.
+Lithium has been used to treat manic episodes since the 19th century. Though it is widely used, its mechanism of action is still unknown. Lithium carbonate has a narrow therapeutic range and so careful monitoring is required to avoid adverse effects.
+Lithium Carbonate is the carbonate salt of lithium, a soft alkali metal, with antimanic and hematopoietic activities. Lithium interferes with transmembrane sodium exchange in nerve cells by affecting sodium, potassium-stimulated adenosine triphosphatase (Na+, K+-ATPase); alters the release of neurotransmitters; affects cyclic adenosine monophosphate (cAMP) concentrations; and blocks inositol metabolism resulting in depletion of cellular inositol and inhibition of phospholipase C-mediated signal transduction. The exact mechanism through which lithium exerts its mood-stabilizing effect has not been established. In addition, lithium stimulates granulocytopoiesis and appears to increase the level of pluripotent hematopoietic stem cells by stimulating the release of hematopoietic cytokines and/or directly acting on hematopoietic stem cells.
+LITHIUM CARBONATE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1970 and has 4 approved and 36 investigational indications. This drug has a black box warning from the FDA.
+A lithium salt, classified as a mood-stabilizing agent. Lithium ion alters the metabolism of BIOGENIC MONOAMINES in the CENTRAL NERVOUS SYSTEM, and affects multiple neurotransmission systems.
+See also: Lithium Cation (has active moiety); Lithium carbonate; toxicodendron pubescens leaf (component of) ... View More ...
+Properties:safety: Corrosive and Irritant and Health Hazard
+smiles: [Li+].[Li+].C(=O)([O-])[O-]
+formula: CLi2O3
+chem_properties: Molecular Weight: 73.9 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 74.01675073 Da
+Monoisotopic Mass: 74.01675073 Da
+Topological Polar Surface Area: 63.2
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 18.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

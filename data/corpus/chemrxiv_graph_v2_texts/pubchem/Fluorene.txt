@@ -1,0 +1,28 @@
+Name: Fluorene
+Text:
+Fluorene is a white leaflets. Sublimes easily under a vacuum. Fluorescent when impure. (NTP, 1992)
+Fluorene is an ortho-fused tricyclic hydrocarbon that is a major component of fossil fuels and their derivatives It is an ortho-fused polycyclic arene and an ortho-fused tricyclic hydrocarbon.
+Fluorene has been reported in Angelica gigas, Zea mays, and Daucus carota with data available.
+Fluorene is one of over 100 different polycyclic aromatic hydrocarbons (PAHs). PAHs are chemicals that are formed during the incomplete burning organic substances, such as fossil fuels. They are usually found as a mixture containing two or more of these compounds. (L10)
+Properties:safety: Environmental Hazard
+smiles: C1C2=CC=CC=C2C3=CC=CC=C31
+formula: C13H10
+chem_properties: Molecular Weight: 166.22 g/mol
+XLogP3: 4.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 166.078250319 Da
+Monoisotopic Mass: 166.078250319 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 13
+Formal Charge: 0
+Complexity: 164
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

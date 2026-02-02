@@ -1,0 +1,28 @@
+Name: Levosimendan
+Text:
+Levosimendan is a hydrazone, a pyridazinone and a nitrile. It has a role as a vasodilator agent, an EC 3.1.4.17 (3',5'-cyclic-nucleotide phosphodiesterase) inhibitor, a cardiotonic drug and an anti-arrhythmia drug.
+Levosimendan increases calcium sensitivity to myocytes by binding to troponin C in a calcium dependent manner. This increases contractility without raising calcium levels. It also relaxes vascular smooth muscle by opening adenosine triphosphate sensitive potassium channels. Levosimendan is used to manage acutely decompensated congestive heart failure.
+LEVOSIMENDAN is a small molecule drug with a maximum clinical trial phase of III (across all indications) and has 15 investigational indications.
+A hydrazone and pyridazine derivative; the levo-form is a phosphodiesterase III inhibitor, calcium-sensitizing agent, and inotropic agent that is used in the treatment of HEART FAILURE.
+Properties:safety: Irritant
+smiles: C[C@@H]1CC(=O)NN=C1C2=CC=C(C=C2)NN=C(C#N)C#N
+formula: C14H12N6O
+chem_properties: Molecular Weight: 280.28 g/mol
+XLogP3: 2.3
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 3
+Exact Mass: 280.10725903 Da
+Monoisotopic Mass: 280.10725903 Da
+Topological Polar Surface Area: 113
+Heavy Atom Count: 21
+Formal Charge: 0
+Complexity: 549
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

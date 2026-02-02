@@ -1,0 +1,26 @@
+Name: Neopentyl glycol
+Text:
+2,2-dimethylpropane-1,3-diol is a white crystalline solid. Melting point 130 °C.
+Neopentyl glycol is a propane-1,3-diol carrying two methyl groups at position 2.
+Properties:safety: Corrosive and Irritant
+smiles: CC(C)(CO)CO
+formula: C5H12O2
+chem_properties: Molecular Weight: 104.15 g/mol
+XLogP3: 0
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 2
+Exact Mass: 104.083729621 Da
+Monoisotopic Mass: 104.083729621 Da
+Topological Polar Surface Area: 40.5
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 44
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

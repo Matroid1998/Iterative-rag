@@ -1,0 +1,25 @@
+Name: Sulfamide
+Text:
+Sulfamide is the simplest of the sulfamic acids consisting of a single sulfur atom covalently bound by single bonds to two amino groups and by double bonds to two oxygen atoms.
+Properties:safety: Irritant
+smiles: NS(=O)(=O)N
+formula: H4N2O2S
+chem_properties: Molecular Weight: 96.11 g/mol
+XLogP3: -1.7
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 0
+Exact Mass: 95.99934855 Da
+Monoisotopic Mass: 95.99934855 Da
+Topological Polar Surface Area: 94.6
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 85.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

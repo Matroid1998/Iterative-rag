@@ -1,0 +1,28 @@
+Name: Bromoxynil
+Text:
+Bromoxynil can cause developmental toxicity according to state or federal government labeling requirements.
+Bromoxynil is a colorless solid. Melting point 382-384 °F (194-195 °C). Sublimes at 275 °F (135 °C) under pressure of 0.15 mmHg. Used as a herbicide.
+3,5-dibromo-4-hydroxybenzonitrile is a dibromobenzene that is 2,6-dibromophenol substituted by a cyano group at position 4. It has a role as an environmental contaminant, a xenobiotic and a herbicide. It is a member of phenols, a dibromobenzene and a hydroxynitrile. It is functionally related to a 2,6-dibromophenol. It is a conjugate acid of a 3,5-dibromo-4-oxidobenzonitrile(1-).
+Bromoxynil is a chemical compound of cyanide that is used as a herbicide. It is not permitted for homeowner use and is used for mainly for post-emergent control of annual broadleaf weeds. It is especially effective in the control of weeds in cereal, corn, sorghum, onions, flax, mint, turf, and on non-cropland. It works by inhibiting photosynthesis. (L594)
+Properties:safety: Acute Toxic and Health Hazard and Environmental Hazard
+smiles: C1=C(C=C(C(=C1Br)O)Br)C#N
+formula: C7H3Br2NO
+chem_properties: Molecular Weight: 276.91 g/mol
+XLogP3: 3.5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 276.85609 Da
+Monoisotopic Mass: 274.85814 Da
+Topological Polar Surface Area: 44
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 176
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

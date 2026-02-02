@@ -1,0 +1,26 @@
+Name: 1H-Indazole
+Text:
+1H-indazole is an indazole. It is a tautomer of a 2H-indazole.
+A group of heterocyclic aromatic organic compounds consisting of the fusion of BENZENE and PYRAZOLES.
+Properties:safety: Irritant
+smiles: C1=CC=C2C(=C1)C=NN2
+formula: C7H6N2
+chem_properties: Molecular Weight: 118.14 g/mol
+XLogP3: 1.8
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 118.053098200 Da
+Monoisotopic Mass: 118.053098200 Da
+Topological Polar Surface Area: 28.7
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 103
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

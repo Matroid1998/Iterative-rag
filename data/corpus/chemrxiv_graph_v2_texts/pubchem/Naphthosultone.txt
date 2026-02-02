@@ -1,0 +1,24 @@
+Name: Naphthosultone
+Text:
+Properties:safety: Irritant
+smiles: C1=CC2=C3C(=C1)OS(=O)(=O)C3=CC=C2
+formula: C10H6O3S
+chem_properties: Molecular Weight: 206.22 g/mol
+XLogP3: 2.3
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 206.00376522 Da
+Monoisotopic Mass: 206.00376522 Da
+Topological Polar Surface Area: 51.8
+Heavy Atom Count: 14
+Formal Charge: 0
+Complexity: 330
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

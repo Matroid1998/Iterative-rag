@@ -1,0 +1,26 @@
+Name: Demethoxycurcumin
+Text:
+Demethoxycurcumin is a beta-diketone that is curcumin in which one of the methoxy groups is replaced by hydrogen. It is found in Curcuma zedoaria and Etlingera elatior. It has a role as a metabolite, an antineoplastic agent and an anti-inflammatory agent. It is a polyphenol, a beta-diketone, an enone and a diarylheptanoid.
+Demethoxycurcumin has been reported in Curcuma xanthorrhiza, Curcuma kwangsiensis, and other organisms with data available.
+Properties:safety: Environmental Hazard
+smiles: COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC=C(C=C2)O)O
+formula: C20H18O5
+chem_properties: Molecular Weight: 338.4 g/mol
+XLogP3: 3.3
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 7
+Exact Mass: 338.11542367 Da
+Monoisotopic Mass: 338.11542367 Da
+Topological Polar Surface Area: 83.8
+Heavy Atom Count: 25
+Formal Charge: 0
+Complexity: 502
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 2
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

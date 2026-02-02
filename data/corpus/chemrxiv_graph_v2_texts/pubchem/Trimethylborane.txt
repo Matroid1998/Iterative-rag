@@ -1,0 +1,23 @@
+Name: Trimethylborane
+Text:
+Properties:safety: Flammable and Compressed Gas and Corrosive
+smiles: B(C)(C)C
+formula: C3H9B
+chem_properties: Molecular Weight: 55.92 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 56.0797305 Da
+Monoisotopic Mass: 56.0797305 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

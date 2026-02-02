@@ -1,0 +1,33 @@
+Name: Hydralazine
+Text:
+Hydralazine is the 1-hydrazino derivative of phthalazine; a direct-acting vasodilator that is used as an antihypertensive agent. It has a role as an antihypertensive agent and a vasodilator agent. It is a member of phthalazines, an azaarene, an ortho-fused heteroarene and a member of hydrazines.
+Originally developed in the 1950s as a malaria treatment, hydralazine showed antihypertensive ability and was soon repurposed. Hydralazine is a hydrazine derivative vasodilator used alone or as adjunct therapy in the treatment of hypertension and only as adjunct therapy in the treatment of heart failure. Hydralazine is no longer a first line therapy for these indications since the development of newer antihypertensive medications.  Hydralazine hydrochloride was FDA approved on 15 January 1953.
+Hydralazine is an Arteriolar Vasodilator. The physiologic effect of hydralazine is by means of Arteriolar Vasodilation.
+Hydralazine is a commonly used oral antihypertensive agent that acts by inducing peripheral vasodilation. Hydralazine has been linked to several forms of acute liver injury as well as a lupus-like syndrome.
+Hydralazine has been reported in Achillea pseudopectinata with data available.
+Hydralazine is a phthalazine derivative with antihypertensive effects. Hydralazine exerts its vasodilatory effects through modification of the contractile state of arterial vascular smooth muscle by altering intracellular calcium release, and interfering with smooth muscle cell calcium influx. This agent also causes inhibition of phosphorylation of myosin protein or chelation of trace metals required for smooth muscle contraction, thereby resulting in an increase in heart rate, stroke volume and cardiac output.
+HYDRALAZINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1953 and is indicated for hypertension and has 18 investigational indications.
+A direct-acting vasodilator that is used as an antihypertensive agent.
+See also: Hydralazine Hydrochloride (has salt form).
+Properties:safety: Irritant and Health Hazard
+smiles: C1=CC=C2C(=C1)C=NN=C2NN
+formula: C8H8N4
+chem_properties: Molecular Weight: 160.18 g/mol
+XLogP3: 0.7
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 1
+Exact Mass: 160.074896272 Da
+Monoisotopic Mass: 160.074896272 Da
+Topological Polar Surface Area: 63.8
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 150
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

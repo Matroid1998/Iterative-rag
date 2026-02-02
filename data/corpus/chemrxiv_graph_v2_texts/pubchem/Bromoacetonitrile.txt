@@ -1,0 +1,25 @@
+Name: Bromoacetonitrile
+Text:
+Bromoacetonitrile is a pale yellow to light amber liquid. (NTP, 1992)
+Properties:safety: Corrosive and Acute Toxic and Irritant
+smiles: C(C#N)Br
+formula: C2H2BrN
+chem_properties: Molecular Weight: 119.95 g/mol
+XLogP3: 0.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 118.93706 Da
+Monoisotopic Mass: 118.93706 Da
+Topological Polar Surface Area: 23.8
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 41.2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

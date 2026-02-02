@@ -1,0 +1,28 @@
+Name: Galunisertib
+Text:
+LY-2157299 is a pyrrolopyrazole that is 5,6-dihydro-4H-pyrrolo[1,2-b]pyrazole which is substituted at positions 2 and 3 by 6-methylpyridin-2-yl and 6-(aminocarbonyl)quinolin-4-yl groups, respectively. A Transforming growth factor-betaRI (TGF-betaRI) kinase inhibitor, it blocks TGF-beta-mediated tumor growth in glioblastoma. It has a role as a TGFbeta receptor antagonist and an antineoplastic agent. It is a member of quinolines, a pyrrolopyrazole, a member of methylpyridines, an aromatic amide and a monocarboxylic acid amide.
+Galunisertib has been used in trials studying the basic science and treatment of Glioma, Neoplasms, Solid Tumor, GLIOBLASTOMA, and Prostate Cancer, among others.
+Galunisertib is an orally available, small molecule antagonist of the tyrosine kinase transforming growth factor-beta (TGF-b) receptor type 1 (TGFBR1), with potential antineoplastic activity. Upon administration, galunisertib specifically targets and binds to the kinase domain of TGFBR1, thereby preventing the activation of TGF-b-mediated signaling pathways. This may inhibit the proliferation of TGF-b-overexpressing tumor cells. Dysregulation of the TGF-b signaling pathway is seen in a number of cancers and is associated with increased cancer cell proliferation, migration, invasion and tumor progression.
+GALUNISERTIB is a small molecule drug with a maximum clinical trial phase of II (across all indications) and has 12 investigational indications.
+Properties:safety: Irritant
+smiles: CC1=NC(=CC=C1)C2=NN3CCCC3=C2C4=C5C=C(C=CC5=NC=C4)C(=O)N
+formula: C22H19N5O
+chem_properties: Molecular Weight: 369.4 g/mol
+XLogP3: 2.4
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 3
+Exact Mass: 369.15896025 Da
+Monoisotopic Mass: 369.15896025 Da
+Topological Polar Surface Area: 86.7
+Heavy Atom Count: 28
+Formal Charge: 0
+Complexity: 585
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

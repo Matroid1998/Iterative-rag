@@ -1,0 +1,35 @@
+Name: Edetic Acid
+Text:
+Ethylenediamine tetraacetic acid is a colorless crystalline solid. It is slightly soluble in water. The primary hazard is the threat to the environment. Immediate steps should be taken to limit its spread to the environment. It is used in chemical analysis, to make detergents and cleaning compounds, and for many other uses.
+Ethylenediaminetetraacetic acid is a tetracarboxylic acid, an ethylenediamine derivative and a polyamino carboxylic acid. It has a role as an antidote, a geroprotector, a chelator, a copper chelator and an anticoagulant. It is a conjugate acid of an EDTA(2-).
+A chelating agent (chelating agents) that sequesters a variety of polyvalent cations. It is used in pharmaceutical manufacturing and as a food additive.
+Edetic acid is a Lead Chelator and Anti-coagulant. The mechanism of action of edetic acid is as a Lead Chelating Activity and Calcium Chelating Activity. The physiologic effect of edetic acid is by means of Decreased Coagulation Factor Activity.
+Edetic acid has been reported in Perilla frutescens, Apis cerana, and other organisms with data available.
+Edetate Disodium is the disodium salt form of edetate, a heavy metal chelating agent with anti-hypercalcemic and anti-arrhythmic properties. Edetate, a heavy metal antagonist, chelates divalent and trivalent metals, forming soluble stable complexes which are readily excreted by the kidneys, thereby can be used to lower serum calcium concentrations. In addition, this agent exerts a negative inotropic effect on the heart through a transiently induced hypocalcemic state, thereby antagonizing the inotropic and chronotropic effects of digitalis glycosides on the ventricles of the heart. Upon ocular administration, edetate exerts its ophthalmic effect by chelating calcium to form soluble complexes, thereby removing corneal calcium deposits.
+Edetic Acid is the acid form of edetate, a chelating agent with anti-hypercalcemic and anticoagulant properties. Edetic acid binds calcium and heavy metal ions, forming soluble stable complexes which are readily excreted by the kidneys. This results in a decrease in serum calcium levels. This agent is also used as an anticoagulant for blood specimens and is applied as a treatment of lead poisoning.
+EDETIC ACID is a small molecule drug with a maximum clinical trial phase of III.
+A chelating agent (chelating agents) that sequesters a variety of polyvalent cations. It is used in pharmaceutical manufacturing and as a food additive. [PubChem]
+A chelating agent that sequesters a variety of polyvalent cations such as CALCIUM. It is used in pharmaceutical manufacturing and as a food additive.
+See also: Edetate Sodium (has salt form); Edetate Disodium (has salt form); Edetate Trisodium (has salt form) ... View More ...
+Properties:safety: Irritant
+smiles: C(CN(CC(=O)O)CC(=O)O)N(CC(=O)O)CC(=O)O
+formula: C10H16N2O8
+chem_properties: Molecular Weight: 292.24 g/mol
+XLogP3: -5.9
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 10
+Rotatable Bond Count: 11
+Exact Mass: 292.09066547 Da
+Monoisotopic Mass: 292.09066547 Da
+Topological Polar Surface Area: 156
+Heavy Atom Count: 20
+Formal Charge: 0
+Complexity: 315
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

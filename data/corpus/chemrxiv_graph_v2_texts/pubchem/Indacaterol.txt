@@ -1,0 +1,28 @@
+Name: Indacaterol
+Text:
+Indacaterol is a monohydroxyquinoline that consists of 5-[(1R)-2-amino-1-hydroxyethyl]-8-hydroxyquinolin-2-one having a 5,6-diethylindan-2-yl group attached to the amino function. Used as the maleate salt for treatment of chronic obstructive pulmonary disease. It has a role as a beta-adrenergic agonist and a bronchodilator agent. It is a quinolone, a monohydroxyquinoline, a member of indanes, a secondary alcohol and a secondary amino compound. It is a conjugate base of an indacaterol(1+).
+Indacaterol is a novel, ultra-long-acting, rapid onset β(2)-adrenoceptor agonist developed for Novartis for the once-daily management of asthma and chronic obstructive pulmonary disease. It was approved by the European Medicines Agency (EMA) on 30 November 2009 and by the FDA on 1 July 2011. It is marketed in Europe as Onbrez and in America as Arcapta Neohaler. Indacaterol is provided as its maleate salt form. Indacaterol is also a chiral molecule but only the pure R-enantiomer is dispensed.
+Indacaterol is a beta2-Adrenergic Agonist. The mechanism of action of indacaterol is as an Adrenergic beta2-Agonist.
+INDACATEROL is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2009 and has 4 approved and 4 investigational indications.
+Properties:safety: Irritant
+smiles: CCC1=C(C=C2CC(CC2=C1)NC[C@@H](C3=C4C=CC(=O)NC4=C(C=C3)O)O)CC
+formula: C24H28N2O3
+chem_properties: Molecular Weight: 392.5 g/mol
+XLogP3: 3.3
+Hydrogen Bond Donor Count: 4
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 6
+Exact Mass: 392.20999276 Da
+Monoisotopic Mass: 392.20999276 Da
+Topological Polar Surface Area: 81.6
+Heavy Atom Count: 29
+Formal Charge: 0
+Complexity: 589
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

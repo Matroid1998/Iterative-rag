@@ -1,0 +1,34 @@
+Name: Promethazine
+Text:
+Crystals. Melting point 60 °C. Used as an antihistamine.
+Promethazine is a tertiary amine that is a substituted phenothiazine in which the ring nitrogen at position 10 is attached to C-3 of an N,N-dimethylpropan-2-amine moiety. It has a role as a H1-receptor antagonist, a sedative, an antiemetic, a local anaesthetic, an antipruritic drug, an anti-allergic agent and an anticoronaviral agent. It is a member of phenothiazines and a tertiary amine. It is a conjugate base of a promethazine(1+).
+Promethazine, originally known as 3,277 R.P., is an N-dimethylaminopropyl derivative of [phenothiazine] that was developed in France in 1946. Promethazine antagonizes a variety of receptors, allowing it to be used for a number of indications including allergic reactions, pain, sedation, nausea, and vomiting.  Promethazine was granted FDA approval before 29 March 1951.
+Promethazine is a Phenothiazine.
+Promethazine is first generation antihistamine that belongs to the phenothiazine class and is used predominantly as an antiemetic to treat nausea and vomiting and prevent motion sickness. Despite its phenothiazine structure, promethazine has not been linked to instances of clinically apparent acute liver injury.
+Promethazine is a phenothiazine derivative with antiemetic and antihistaminic properties. Promethazine antagonizes the central and peripheral effects of histamine mediated by histamine H1 receptors. The effects include bronchoconstriction, vasodilation and spasmodic contractions of gastrointestinal smooth muscle. In addition, this agent binds to muscarinic receptors, resulting in anticholinergic and antiemetic activities.
+PROMETHAZINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1951 and has 9 approved and 16 investigational indications. This drug has a black box warning from the FDA.
+A phenothiazine derivative with histamine H1-blocking, antimuscarinic, and sedative properties. It is used as an antiallergic, in pruritus, for motion sickness and sedation, and also in animals. [PubChem]
+A phenothiazine derivative with histamine H1-blocking, antimuscarinic, and sedative properties. It is used as an antiallergic, in pruritus, for motion sickness and sedation, and also in animals.
+See also: Phenothiazine (subclass of); Promethazine Hydrochloride (has salt form); Promethazine Hydrobromide (has salt form) ... View More ...
+Properties:safety: Corrosive and Irritant and Environmental Hazard
+smiles: CC(CN1C2=CC=CC=C2SC3=CC=CC=C31)N(C)C
+formula: C17H20N2S
+chem_properties: Molecular Weight: 284.4 g/mol
+XLogP3: 4.8
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 3
+Exact Mass: 284.13471982 Da
+Monoisotopic Mass: 284.13471982 Da
+Topological Polar Surface Area: 31.8
+Heavy Atom Count: 20
+Formal Charge: 0
+Complexity: 298
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,282 @@
+In organic chemistry, borate esters are organoboron compounds which are conveniently prepared by the stoichiometric condensation reaction of boric acid with alcohols. There are two main classes of borate esters: orthoborates, B(OR)3 and metaborates, B3O3(OR)3.  Metaborates contain 6-membered boroxine rings.
+
+  
+    
+      
+        
+          B
+          
+            
+              (
+              OH
+              )
+            
+            
+              3
+            
+            
+              
+            
+          
+          +
+          3
+          
+          ROH
+          ⟶
+          B
+          
+            
+              (
+              OR
+              )
+            
+            
+              3
+            
+            
+              
+            
+          
+          +
+          3
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {B(OH)3 + 3 ROH -> B(OR)3 + 3 H2O}}}
+  
+
+  
+    
+      
+        
+          3
+          
+          B
+          
+            
+              (
+              OH
+              )
+            
+            
+              3
+            
+            
+              
+            
+          
+          +
+          3
+          
+          ROH
+          ⟶
+          
+            B
+            
+              3
+            
+            
+              
+            
+          
+          
+            O
+            
+              3
+            
+            
+              
+            
+          
+          
+            
+              (
+              OR
+              )
+            
+            
+              3
+            
+            
+              
+            
+          
+          +
+          6
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {3 B(OH)3 + 3 ROH -> B3O3(OR)3 + 6 H2O}}}
+  
+
+A dehydrating agent, such as concentrated sulfuric acid is typically added. Borate esters are volatile and can be purified by distillation. This procedure is used for analysis of trace amounts of borate and for analysis of boron in steel. Like all boron compounds, alkyl borates burn with a characteristic green flame. This property is used to determine the presence of boron in qualitative analysis.
+
+Borate esters form spontaneously when treated with diols such as sugars and the reaction with mannitol forms the basis of a titrimetric analytical method for boric acid.
+Metaborate esters show considerable Lewis acidity and can initiate epoxide polymerization reactions.  The Lewis acidity of orthoborate esters, as determined by the Gutmann-Beckett method, is relatively low.
+Trimethyl borate, B(OCH3)3, is used as a precursor to boronic esters for Suzuki couplings: Unsymmetrical borate esters are prepared from alkylation of trimethyl borate:
+
+  
+    
+      
+        
+          ArMgBr
+          +
+          B
+          
+            
+              (
+              
+                OCH
+                
+                  3
+                
+                
+                  
+                
+              
+              )
+            
+            
+              3
+            
+            
+              
+            
+          
+          ⟶
+          
+            MgBrOCH
+            
+              3
+            
+            
+              
+            
+          
+          +
+          ArB
+          
+            
+              (
+              
+                OCH
+                
+                  3
+                
+                
+                  
+                
+              
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {ArMgBr + B(OCH3)3 -> MgBrOCH3 + ArB(OCH3)2}}}
+  
+
+  
+    
+      
+        
+          ArB
+          
+            
+              (
+              
+                OCH
+                
+                  3
+                
+                
+                  
+                
+              
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          ⟶
+          ArB
+          
+            
+              (
+              OH
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            HOCH
+            
+              3
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {ArB(OCH3)2 + 2H2O -> ArB(OH)2 + 2HOCH3}}}
+  
+
+These esters hydrolyze to boronic acids, which are used in Suzuki couplings.
+
+
+== References ==

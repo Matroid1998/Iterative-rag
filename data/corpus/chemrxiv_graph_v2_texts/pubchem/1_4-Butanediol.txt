@@ -1,0 +1,27 @@
+Name: 1,4-Butanediol
+Text:
+1,4-butanediol appears as odorless colorless liquid or solid (depending upon temperature). (USCG, 1999)
+Butane-1,4-diol is a butanediol that is butane in which one hydrogen of each of the methyl groups is substituted by a hydroxy group. A colourless, water-miscible, viscous liquid at room temperature (m.p. 16℃) with a high boiling point (230℃), it is mainly used for the production of other organic chemicals, particularly the solvent oxolane (also known as tetrahydrofuran or THF). It has a role as a neurotoxin, a protic solvent and a prodrug. It is a butanediol and a glycol.
+See also: Polybutester (monomer of); Dilinoleic acid/butanediol copolymer (monomer of).
+Properties:safety: Irritant
+smiles: C(CCO)CO
+formula: C4H10O2
+chem_properties: Molecular Weight: 90.12 g/mol
+XLogP3: -0.8
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 3
+Exact Mass: 90.068079557 Da
+Monoisotopic Mass: 90.068079557 Da
+Topological Polar Surface Area: 40.5
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 17.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

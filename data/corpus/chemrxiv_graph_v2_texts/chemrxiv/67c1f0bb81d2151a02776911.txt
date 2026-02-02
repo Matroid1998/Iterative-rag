@@ -1,0 +1,31 @@
+Description:
+A compliant, adhesive material validated for nanoindentation measurements.
+
+Text:
+1723 
+Nanoindentation is a microscale contact mechanics method that uses a hard indenter probe tip 
+with known and wellcharacterized mechanical properties (often made of diamond) to deform a 
+sample surface of unknown properties.24,25 It has gained popularity in the last two decades for 
+characterizing mechanical properties at the microscale for rigid materials2628, but also for soft 
+and biological samples, due to its ability to measure samples with limited dimensions and its 
+sensitivity to sample anisotropy and inhomogeneity.23 In their tutorial review article, Pruitt and 
+coworkers provide guidelines on performing nanoindentation measurements for soft materials 
+and suggest the use of a conospherical tip, displacementcontrolled method and a modied 
+trapezoidal function to probe compliant, adhesive materials.29 This approach was validated by 
+Gallant and coworkers for macroscale polydimethylsiloxane (PDMS) samples.3032 
+However, as of today, there are only few reports on the characterization of mechanical properties 
+of microscale 3D printed soft elastomers using nanoindentation, with a lack of clear 
+methodology.
+
+
+---
+
+Description:
+A material used in 3D printed microstructures with a stiffness range of 0.3 to 17.8 MPa.
+
+Text:
+Accardo and coworkers studied mechanical properties of 3D printed PDMS 
+microstructures (IPPDMS, Nanoscribe GmbH  Co. KG) using nanoindentation with a 
+conospherical tip. By varying the printing parameters, a wide range of stiffness varying between 
+0.3517.8 MPa was reported, although adhesion effects were not taken into consideration.33 The 
+httpsdoi.org10.26434chemrxiv20253cql6 ORCID httpsorcid.org0000000246566056 Content not peerreviewed by ChemRxiv. License CC BY 4.0

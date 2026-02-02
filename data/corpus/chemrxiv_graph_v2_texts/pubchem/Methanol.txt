@@ -1,0 +1,37 @@
+Name: Methanol
+Text:
+Methanol can cause developmental toxicity according to The National Toxicology Program.
+Methanol appears as a colorless fairly volatile liquid with a faintly sweet pungent odor like that of ethyl alcohol. Completely mixes with water. The vapors are slightly heavier than air and may travel some distance to a source of ignition and flash back. Any accumulation of vapors in confined spaces, such as buildings or sewers, may explode if ignited. Used to make chemicals, to remove water from automotive and aviation fuels, as a solvent for paints and plastics, and as an ingredient in a wide variety of products.
+Methanol, tallow alkyl iminobisethanol appears as a yellow-colored liquid with an "alcohol" odor. Less dense than water. Vapors heavier than air. Corrosive. Contact may severely irritate skin, eyes and mucous membranes. May be toxic by ingestion, inhalation and skin absorption. Used to make other chemicals.
+Methanol is the primary alcohol that is the simplest aliphatic alcohol, comprising a methyl and an alcohol group. It has a role as an amphiprotic solvent, a fuel, a human metabolite, an Escherichia coli metabolite, a mouse metabolite and a Mycoplasma genitalium metabolite. It is an alkyl alcohol, a one-carbon compound, a volatile organic compound and a primary alcohol. It is a conjugate acid of a methoxide.
+Methanol is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Secondary alcohol is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Methanol is released to the environment during industrial uses and naturally from volcanic gases, vegetation, and microbes. Exposure may occur from ambient air and during the use of solvents. Acute (short-term) or chronic (long-term) exposure of humans to methanol by inhalation or ingestion may result in blurred vision, headache, dizziness, and nausea. No information is available on the reproductive, developmental, or carcinogenic effects of methanol in humans. Birth defects have been observed in the offspring of rats and mice exposed to methanol by inhalation. EPA has not classified methanol with respect to carcinogenicity.
+Methanol has been reported in Origanum minutiflorum, Parthenium incanum, and other organisms with data available.
+Methyl Alcohol is used as a solvent and as an intermediate in chemical synthesis.  Component of deicing mixtures and preservatives. Toxic.
+Wood is the hard, fibrous substance composing most of the stem and branches of a tree or shrub, and lying beneath the bark; the xylem.
+Methanol is the simplest alcohol, and is a light, volatile, colourless, flammable, poisonous liquid with a distinctive odor that is somewhat milder and sweeter than ethanol (Wikipedia). Methanol is responsible for accidental, suicidal, and epidemic poisonings, resulting in death or permanent sequelae. Toxicity is due to the metabolic products of alcohol dehydrogenase (ADH) and aldehyde dehydrogenase. (A7768). The rapid and accurate diagnosis of toxic alcohol poisoning due to methanol (methyl alcohol) is paramount in preventing serious adverse outcomes. The quantitative measurement of specific serum levels of methanol using gas chromatography is expensive, time consuming and generally only available at major tertiary-care facilities. (A7769).
+A colorless, flammable liquid used in the manufacture of FORMALDEHYDE and ACETIC ACID, in chemical synthesis, antifreeze, and as a solvent. Ingestion of methanol is toxic and may cause blindness.
+See also: Methoxide (conjugate); Hydroxymethyl radical (annotation moved to); Methoxy (annotation moved to).
+Properties:safety: Flammable and Acute Toxic and Health Hazard
+smiles: CO
+formula: CH4O
+chem_properties: Molecular Weight: 32.042 g/mol
+XLogP3: -0.5
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 32.026214747 Da
+Monoisotopic Mass: 32.026214747 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 2
+Formal Charge: 0
+Complexity: 2
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

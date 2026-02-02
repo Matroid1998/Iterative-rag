@@ -1,0 +1,29 @@
+Name: p-Aminohippuric acid
+Text:
+P-aminohippuric acid is an N-acylglycine that is the 4-amino derivative of hippuric acid; used as a diagnostic agent in the measurement of renal plasma flow. It has a role as a Daphnia magna metabolite. It is a conjugate acid of a p-aminohippurate.
+Aminohippuric acid has been reported in Brassica napus and Daphnia magna with data available.
+Aminohippurate Sodium is sodium salt of aminohippuric acid. Aminohippurate sodium is used as a non-toxic diagnostic tool to measure effective renal plasma flow. At low plasma concentration this agent is filtered by the glomeruli and almost completely cleared from the renal blood stream by active tubular secretion in a single transit through the kidney. Its clearance corresponds to the renal plasma blood flow. Aminohippurate sodium is also used to measure functional capacity of the renal tubular secretory mechanism. This is achieved by elevating the drug plasma concentration to levels sufficient to saturate the maximal secretion capacity of the tubular cells.
+AMINOHIPPURIC ACID is a small molecule drug with a maximum clinical trial phase of IV and has 1 investigational indication.
+The glycine amide of 4-aminobenzoic acid. Its sodium salt is used as a diagnostic aid to measure effective renal plasma flow (ERPF) and excretory capacity.
+Properties:safety: Acute Toxic
+smiles: C1=CC(=CC=C1C(=O)NCC(=O)O)N
+formula: C9H10N2O3
+chem_properties: Molecular Weight: 194.19 g/mol
+XLogP3: -0.9
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 3
+Exact Mass: 194.06914219 Da
+Monoisotopic Mass: 194.06914219 Da
+Topological Polar Surface Area: 92.4
+Heavy Atom Count: 14
+Formal Charge: 0
+Complexity: 222
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

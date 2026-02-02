@@ -1,0 +1,30 @@
+Name: Carbonic Acid
+Text:
+Carbonic acid is a carbon oxoacid and a chalcocarbonic acid. It has a role as a mouse metabolite. It is a conjugate acid of a hydrogencarbonate.
+Carbonic acid is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Oxonioformate has been reported in Homo sapiens with data available.
+BICARBONATE is a small molecule drug with a maximum clinical trial phase of III (across all indications) and has 4 investigational indications.
+Carbonic acid (H2C03). The hypothetical acid of carbon dioxide and water. It exists only in the form of its salts (carbonates), acid salts (hydrogen carbonates), amines (carbamic acid), and acid chlorides (carbonyl chloride). (From Grant and Hackh's Chemical Dictionary, 5th ed)
+See also: Carbon Dioxide (subclass of).
+Properties:safety: Irritant
+smiles: C(=O)(O)O
+formula: CH2O3
+chem_properties: Molecular Weight: 62.025 g/mol
+XLogP3: -0.1
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 62.000393922 Da
+Monoisotopic Mass: 62.000393922 Da
+Topological Polar Surface Area: 57.5
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 26.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

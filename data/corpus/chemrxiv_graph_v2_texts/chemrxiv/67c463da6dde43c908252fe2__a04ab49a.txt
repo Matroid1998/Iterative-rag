@@ -1,0 +1,12 @@
+Description:
+A reactive oxygen species that can be degraded by Mn2FeO4 tracers.
+
+Text:
+of MPI into clinical settings. As MPI is a tracer
+based imaging method, the design and development of responsive tracers for functional imaging are 
+particularly appealing. Here, we report on Mnferrite (MnxFe3xO4) nanoparticles with finely tuned 
+magnetic properties and enzymelike capabilities as potential multifunctional theranostic agents. By 
+adjusting the Mn content in the iron oxide matrix, we can tweak the magnetic particle imaging signal of 
+different tracers, allowing for the simultaneous quantitative detection of two different tracers in a multi
+color approach. The Mn2FeO4 tracers exhibit potent enzymelike catalytic properties, enabling the 
+degradation of reactive oxygen species, including H2O2 and OH.

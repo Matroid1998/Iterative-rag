@@ -1,0 +1,28 @@
+Name: Tempol
+Text:
+4-hydroxy-TEMPO is a member of the class of aminoxyls that is TEMPO carrying a hydroxy substituent at position 4. It is a radical scavenger which exhibits anti-inflammatory and analgesic properties. It has a role as a radical scavenger, a catalyst, a nephroprotective agent, an anti-inflammatory agent, a neuroprotective agent, a hepatoprotective agent, an antineoplastic agent and an apoptosis inducer. It is a member of aminoxyls and a hydroxypiperidine. It is functionally related to a TEMPO.
+Tempol has been used in trials studying the treatment of Anal Cancer.
+Topical Piperidine Nitroxide MTS-01 is a topical gel containing a cell permeable hydrophilic piperidine nitroxide with potential radioprotective and antioxidant activity. As a stable, free radical compound, MTS-01 may be able to protect cells against the damaging effects of reactive oxygen species (ROS), upon exposure to ionizing radiation and oxidative stress. The topically applied MTS-01 may protect normal tissue from radiation-induced toxicity, such as radiation dermatitis, during radiation therapy.
+TEMPOL is a small molecule drug with a maximum clinical trial phase of II (across all indications) and has 6 investigational indications.
+Properties:safety: Corrosive and Irritant and Health Hazard
+smiles: CC1(CC(CC(N1[O])(C)C)O)C
+formula: C9H18NO2
+chem_properties: Molecular Weight: 172.24 g/mol
+XLogP3: 0.9
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 172.133753817 Da
+Monoisotopic Mass: 172.133753817 Da
+Topological Polar Surface Area: 24.5
+Heavy Atom Count: 12
+Formal Charge: 0
+Complexity: 159
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

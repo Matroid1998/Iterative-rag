@@ -1,0 +1,29 @@
+Name: Doxercalciferol
+Text:
+Doxercalciferol is a hydroxy seco-steroid and synthetic vitamin D2 analogue that undergoes metabolic activation in vivo to form 1alpha,25-dihydroxyvitamin D2 (1alpha,25-(OH)2D2), a naturally occurring, biologically active form of vitamin D2. It is used to treat secondary hyperparathyroidism, a condition in which the body produces excess parathyroid hormone (PTH; a natural substance needed to control the amount of calcium in the blood) in certain people with chronic kidney disease. It has a role as a provitamin, a bone density conservation agent and a prohormone. It is a vitamin D and a hydroxy seco-steroid.
+Doxercalciferol is a synthetic vitamin D2 analog that undergoes metabolic activation in vivo to form 1α,25-dihydroxyvitamin D2 (1α,25-(OH)2D2), a naturally occurring, biologically active form of vitamin D2. Doxercalciferol is indicated for the treatment of secondary hyperparathyroidism in patients with chronic kidney disease on dialysis, as well as for the treatment of secondary hyperparathyroidism in patients with Stage 3 or Stage 4 chronic kidney disease. Doxercalciferol is marketed under the brand name Hectoral by Genzyme Corporation, and is manufactured by Catalent Pharma Solutions, Inc.
+Doxercalciferol is a Vitamin D2 Analog.
+Doxercalciferol is a synthetic analog of vitamin D with potential antineoplastic activity. In the liver, doxercalciferol is converted to its biologically active vitamin D metabolites, which control the intestinal absorption of dietary calcium, the tubular reabsorption of calcium by the kidney and, in conjunction with parathyroid hormone (PTH), the mobilization of calcium from the skeleton. Through interaction with specific receptor proteins in target tissues, these vitamin D metabolites act directly on osteoblasts to stimulate skeletal growth, and on the parathyroid glands to suppress PTH synthesis and secretion. This agent has also been shown to inhibit the growth of retinoblastomas, and may exhibit some antiproliferative activity against prostate cancer cells.
+DOXERCALCIFEROL is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1999 and has 3 approved and 3 investigational indications.
+Properties:safety: Acute Toxic
+smiles: C[C@H](/C=C/[C@H](C)C(C)C)[C@H]1CC[C@@H]\2[C@@]1(CCC/C2=C\C=C/3\C[C@H](C[C@@H](C3=C)O)O)C
+formula: C28H44O2
+chem_properties: Molecular Weight: 412.6 g/mol
+XLogP3: 6.3
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 5
+Exact Mass: 412.334130642 Da
+Monoisotopic Mass: 412.334130642 Da
+Topological Polar Surface Area: 40.5
+Heavy Atom Count: 30
+Formal Charge: 0
+Complexity: 712
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 7
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 3
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

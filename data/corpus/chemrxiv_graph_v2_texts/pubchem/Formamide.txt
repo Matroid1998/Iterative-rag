@@ -1,0 +1,26 @@
+Name: Formamide
+Text:
+Formamide appears as a colorless liquid with a faint odor of ammonia. Denser than water. Freezing point 36 °F. (USCG, 1999)
+Formamide is the simplest monocarboxylic acid amide, obtained by formal condensation of formic acid with ammonia. The parent of the class of formaldehydes. It has a role as a solvent. It is a monocarboxylic acid amide, a one-carbon compound and a member of formamides. It is functionally related to a formic acid. It is a tautomer of a formimidic acid.
+Properties:safety: Health Hazard
+smiles: C(=O)N
+formula: CH3NO
+chem_properties: Molecular Weight: 45.041 g/mol
+XLogP3: -0.8
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 45.021463719 Da
+Monoisotopic Mass: 45.021463719 Da
+Topological Polar Surface Area: 43.1
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 12.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

@@ -1,0 +1,24 @@
+Name: Ammonium Carbamate
+Text:
+Ammonium carbamate appears as a white crystalline solid used as a fertilizer. The primary hazard is the threat to the environment. Immediate steps should be taken to limit its spread to the environment.
+Properties:safety: Corrosive and Irritant
+smiles: C(=O)(N)[O-].[NH4+]
+formula: CH3NO2.H3N
+chem_properties: Molecular Weight: 78.071 g/mol
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 78.042927438 Da
+Monoisotopic Mass: 78.042927438 Da
+Topological Polar Surface Area: 67.2
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 27.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

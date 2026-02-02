@@ -1,0 +1,26 @@
+Name: Apabetalone
+Text:
+Apabetalone has been investigated for the treatment of Diabetes, Atherosclerosis, and Coronary Artery Disease.
+APABETALONE is a small molecule drug with a maximum clinical trial phase of III (across all indications) and has 6 investigational indications.
+Properties:safety: Health Hazard
+smiles: CC1=CC(=CC(=C1OCCO)C)C2=NC3=C(C(=CC(=C3)OC)OC)C(=O)N2
+formula: C20H22N2O5
+chem_properties: Molecular Weight: 370.4 g/mol
+XLogP3: 2.3
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 6
+Exact Mass: 370.15287181 Da
+Monoisotopic Mass: 370.15287181 Da
+Topological Polar Surface Area: 89.4
+Heavy Atom Count: 27
+Formal Charge: 0
+Complexity: 542
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

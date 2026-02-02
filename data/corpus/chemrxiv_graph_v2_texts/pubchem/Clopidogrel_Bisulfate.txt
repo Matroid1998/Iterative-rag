@@ -1,0 +1,27 @@
+Name: Clopidogrel Bisulfate
+Text:
+Clopidogrel Bisulfate is a thienopyridine with antiplatelet activity. Clopidogrel bisulfate irreversibly alters the platelet receptor for adenosine diphosphate (ADP), thereby blocking the binding of ADP to its receptor, inhibiting ADP-mediated activation of the glycoprotein complex GPIIb/IIIa, and inhibiting fibrinogen binding to platelets and platelet adhesion and aggregation. (NCI04)
+CLOPIDOGREL BISULFATE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1997 and has 6 approved and 4 investigational indications. This drug has a black box warning from the FDA.
+A ticlopidine analog and platelet purinergic P2Y receptor antagonist that inhibits adenosine diphosphate-mediated PLATELET AGGREGATION. It is used to prevent THROMBOEMBOLISM in patients with ARTERIAL OCCLUSIVE DISEASES; MYOCARDIAL INFARCTION; STROKE; or ATRIAL FIBRILLATION.
+See also: Clopidogrel (has active moiety).
+Properties:safety: Corrosive and Irritant and Environmental Hazard
+smiles: COC(=O)[C@H](C1=CC=CC=C1Cl)N2CCC3=C(C2)C=CS3.OS(=O)(=O)O
+formula: C16H18ClNO6S2
+chem_properties: Molecular Weight: 419.9 g/mol
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 8
+Rotatable Bond Count: 4
+Exact Mass: 419.0264073 Da
+Monoisotopic Mass: 419.0264073 Da
+Topological Polar Surface Area: 141
+Heavy Atom Count: 26
+Formal Charge: 0
+Complexity: 463
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 1
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 2
+Compound Is Canonicalized: Yes 
+

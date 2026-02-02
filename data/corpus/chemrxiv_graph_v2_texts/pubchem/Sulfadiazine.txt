@@ -1,0 +1,37 @@
+Name: Sulfadiazine
+Text:
+Sulfadiazine is a sulfonamide consisting of pyrimidine with a 4-aminobenzenesulfonamido group at the 2-position. It has a role as an antimicrobial agent, an antiinfective agent, a coccidiostat, an antiprotozoal drug, an EC 2.5.1.15 (dihydropteroate synthase) inhibitor, an EC 1.1.1.153 [sepiapterin reductase (L-erythro-7,8-dihydrobiopterin forming)] inhibitor, a xenobiotic, an environmental contaminant and a drug allergen. It is a member of pyrimidines, a sulfonamide, a substituted aniline and a sulfonamide antibiotic. It is functionally related to a sulfanilamide. It is a conjugate acid of a sulfadiazinate.
+Sulfadiazine is an antibacterial prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the prevention and treatment of certain types of bacterial infections, including the treatment of chancroid, Toxoplasma gondii encephalitis, urinary tract infections, and other infections.
+Toxoplasma gondii encephalitis can be&nbsp;an opportunistic infection (OI) of HIV.
+One of the short-acting sulfonamides used in combination with pyrimethamine to treat toxoplasmosis in patients with acquired immunodeficiency syndrome and in newborns with congenital infections.
+Silver sulfadiazine is a sulfa derivative topical antibacterial used primarily on second- and third-degree burns.
+Sulfadiazine is a Sulfonamide Antibacterial.
+Sulfadiazine is a sulfonamide antibacterial agent used in the therapy of mild-to-moderate infections due to sensitive organisms. Sulfadiazine, like other sulfonamides, is a well known cause of clinically apparent, idiosyncratic liver injury.
+Sulfadiazine has been reported in Apis cerana with data available.
+Sulfadiazine is a synthetic pyrimidinyl sulfonamide derivative, short-acting bacteriostatic Sulfadiazine inhibits bacterial folic acid synthesis by competing with para amino benzoic acid. It is used in combination with pyrimethamine to treat toxoplasmosis in patients with acquired immunodeficiency syndrome and in newborns with congenital infections. (NCI04)
+Silver Sulfadiazine is a sulfonamide-based topical agent with antibacterial and antifungal activity. Silver sulfadiazine may act through a combination of the activity of silver and sulfadiazine. When this agent interacts with sodium chloride-containing body fluids, silver ions are released slowly and sustainably into wounded areas. Ionized silver atoms catalyze the formation of disulfide bonds leading to protein structural changes and inactivating thiol-containing enzymes; silver ions may also intercalate DNA thereby interfering with replication and transcription of bacteria. As a competitive inhibitor of para-aminobenzoic acid (PABA), sulfadiazine inhibits bacterial dihydropteroate synthase, thereby resulting in disruption of folic acid metabolism and ultimately DNA synthesis.
+SULFADIAZINE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1941 and is indicated for bacterial disease and malaria and has 7 investigational indications.
+One of the short-acting SULFONAMIDES used in combination with PYRIMETHAMINE to treat toxoplasmosis in patients with acquired immunodeficiency syndrome and in newborns with congenital infections.
+See also: Silver Sulfadiazine (has salt form); Sulfadiazine Sodium (has salt form); Sulfadiazine; Trimethoprim (component of) ... View More ...
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N
+formula: C10H10N4O2S
+chem_properties: Molecular Weight: 250.28 g/mol
+XLogP3: -0.1
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 3
+Exact Mass: 250.05244675 Da
+Monoisotopic Mass: 250.05244675 Da
+Topological Polar Surface Area: 106
+Heavy Atom Count: 17
+Formal Charge: 0
+Complexity: 327
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

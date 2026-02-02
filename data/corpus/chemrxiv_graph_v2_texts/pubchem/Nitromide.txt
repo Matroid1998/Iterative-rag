@@ -1,0 +1,24 @@
+Name: Nitromide
+Text:
+Properties:safety: Irritant
+smiles: C1=C(C=C(C=C1[N+](=O)[O-])[N+](=O)[O-])C(=O)N
+formula: C7H5N3O5
+chem_properties: Molecular Weight: 211.13 g/mol
+XLogP3: 0.8
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 1
+Exact Mass: 211.02292027 Da
+Monoisotopic Mass: 211.02292027 Da
+Topological Polar Surface Area: 135
+Heavy Atom Count: 15
+Formal Charge: 0
+Complexity: 272
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

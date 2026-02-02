@@ -1,0 +1,32 @@
+Name: Hydroxyproline
+Text:
+Trans-4-hydroxy-L-proline is an optically active form of 4-hydroxyproline having L-trans-configuration. It has a role as a human metabolite, a plant metabolite and a mouse metabolite. It is a tautomer of a trans-4-hydroxy-L-proline zwitterion.
+Hydroxyproline is a neutral heterocyclic protein amino acid. It is found in collagen and as such it is common in many gelatin products. Hydroxyproline is mostly used as a diagnostic marker of bone turnover and liver fibrosis. Therapeutically, hydroxyproline is being studied as an an experimental medicine but is approved in France as a combination topical gel product called Cicactive for small, superficial wounds.
+Hydroxyproline is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+4-Hydroxy-L-proline is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+Hydroxyproline has been reported in Daphnia pulex, Glycine max, and other organisms with data available.
+Hydroxyproline is a nonessential amino acid derivative formed during post-translational protein modification through hydroxylation of the amino acid proline by the enzyme prolyl hydroxylase which requires vitamin C as a co-factor. Hydroxyproline is a major component of the protein collagen and plays a key role in the stability of the collagen triple helix. It can be used as an indicator to determine the amount of collagen. Increased hydroxyproline levels in the urine and/or serum are normally associated with degradation of connective tissue. Vitamin C deficiency decreases the conversion of proline to hydroxyproline, which leads to reduced collagen stability.
+4-Hydroxyproline (or hydroxyproline or Hyp) is a major component of the protein collagen. Hydroxyproline is produced by hydroxylation of the amino acid proline and is, therefore, a post-translationally modified amino acid. Hydroxyproline and proline play key roles for collagen stability. In particular, they permit the sharp twisting of the collagen helix. Hydroxyproline is found in few proteins other than collagen. The only other mammalian protein which includes hydroxyproline is elastin. For this reason, hydroxyproline content has been used as an indicator to determine collagen and/or gelatin amount in tissue or biological samples.  Increased serum and urine levels of hydroxyproline have been found in Paget's disease  Hydroxyproline (Hyp) content in biological fluids is used as a parameter of collagen catabolism, especially bone resorption or tissue degradation. Bedridden and elderly individuals show significantly elevated serum levels of hydroxyproline in comparison to normal, active individuals  Elevated levels of urinary hydroxyproline are also indicative of muscle damage  Increased reactive oxygen species (ROS) are also known to accelerate collagen degradation. Hydroxyproline levels increase in cases of depression and stress  (A3486, A3487, A3488, A3489).
+See also: Hydroxyproline; octinoxate (component of); Hydroxyproline; niacinamide (component of) ... View More ...
+Properties:safety: Irritant
+smiles: C1[C@H](CN[C@@H]1C(=O)O)O
+formula: C5H9NO3
+chem_properties: Molecular Weight: 131.13 g/mol
+XLogP3: -3.3
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 1
+Exact Mass: 131.058243149 Da
+Monoisotopic Mass: 131.058243149 Da
+Topological Polar Surface Area: 69.6
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 125
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

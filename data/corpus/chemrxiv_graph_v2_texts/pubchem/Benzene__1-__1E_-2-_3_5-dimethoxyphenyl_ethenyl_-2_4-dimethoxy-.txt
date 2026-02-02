@@ -1,0 +1,26 @@
+Name: Benzene, 1-((1E)-2-(3,5-dimethoxyphenyl)ethenyl)-2,4-dimethoxy-
+Text:
+1-[2-(2,4-dimethoxyphenyl)ethenyl]-3,5-dimethoxybenzene is a stilbenoid.
+2,3',4,5'-Tetramethoxystilbene has been reported in Maclura pomifera with data available.
+Properties:safety: Irritant
+smiles: COC1=CC(=C(C=C1)/C=C/C2=CC(=CC(=C2)OC)OC)OC
+formula: C18H20O4
+chem_properties: Molecular Weight: 300.3 g/mol
+XLogP3: 4.1
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 6
+Exact Mass: 300.13615911 Da
+Monoisotopic Mass: 300.13615911 Da
+Topological Polar Surface Area: 36.9
+Heavy Atom Count: 22
+Formal Charge: 0
+Complexity: 332
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 1
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

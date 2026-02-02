@@ -1,0 +1,32 @@
+Name: Propiolactone
+Text:
+beta-Propiolactone can cause cancer according to an independent committee of scientific and health experts.
+Beta-propiolactone appears as a colorless liquid with a slightly sweetish, pungent odor. Used as an intermediate in organic synthesis; disinfectant, sterilant for blood plasma, tissue grafts, vaccines, enzymes and surgical instruments. (EPA, 1998)
+Beta-propiolactone is a propan-3-olide. It is functionally related to a 3-hydroxypropionic acid. It derives from a hydride of an oxetane.
+Propiolactone is a lactone compound with a four-membered ring. It is a colorless liquid with a pungent slightly sweet odor. Propiolactone is a disinfectant used for the sterilization of blood plasma, vaccines, tissue grafts, surgical instruments, and enzymes. It has been used against bacteria, fungi, and virus. It is currently FDA approved for its use as an indirect additive used in food contact substances. Propiolactone was first commercially available in the United States in 1958.
+beta-Propiolactone is used for vaccines, tissue grafts, surgical instruments, and enzymes, as a sterilant of blood plasma, water, milk, and nutrient broth, and as a vapor-phase disinfectant in enclosed spaces. Acute (short-term) inhalation exposure to beta-propiolactone causes severe irritation of the eyes, nose, throat, and respiratory tract in humans. Acute dermal exposure may cause irritation of the skin, blistering, or burns in humans. Contact with the eyes may cause permanent corneal opacification. Burns of the mouth and stomach may occur in humans following acute exposure via ingestion. No information is available on the chronic (long-term), reproductive, developmental, or carcinogenic effects of beta-propiolactone in humans. Squamous cell carcinomas of the forestomach have been reported in orally exposed rats. In dermally exposed rodents, skin tumors have been observed. The International Agency for Research on Cancer (IARC) has classified beta-propiolactone as a Group 2B, possible human carcinogen.
+Propiolactone is a colorless, highly reactive, liquid, cyclic ether with a slightly sweet odor. Beta-propiolactone was used once mainly in the manufacture of acrylic acid and esters. It also was used as a sterilant for medical materials and procedures. However, it is no longer used for medical disinfection. Dermal exposure to beta-propiolactone causes the burning or blistering of the skin, and ingestion of this substance burns the mouth and stomach while exposure to its vapors causes severe irritation of the eyes, throat and respiratory tract. This substance is reasonably anticipated to be a human carcinogen. (NCI05)
+PROPIOLACTONE is a small molecule drug with a maximum clinical trial phase of IV.
+Disinfectant used in vapor form to sterilize vaccines, grafts, etc. The vapor is very irritating and the liquid form is carcinogenic.
+Properties:safety: Acute Toxic and Health Hazard
+smiles: C1COC1=O
+formula: C3H4O2
+chem_properties: Molecular Weight: 72.06 g/mol
+XLogP3: -0.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 72.021129366 Da
+Monoisotopic Mass: 72.021129366 Da
+Topological Polar Surface Area: 26.3
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 57.9
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

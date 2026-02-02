@@ -1,0 +1,28 @@
+Name: 1,3-Dichloro-2-propanol
+Text:
+1,3-Dichloro-2-propanol (1,3-DCP) can cause cancer according to an independent committee of scientific and health experts.
+1,3-dichloro-2-propanol is a colorless to yellow slightly viscous liquid with an ethereal odor. (NTP, 1992)
+1,3-dichloropropanol-2 appears as a colorless liquid with an ether-like odor. Denser than water and slightly soluble in water. Toxic by ingestion, inhalation or skin absorption and may irritate skin and eyes.
+1,3-dichloropropan-2-ol is a secondary alcohol that is isopropanol in which one hydrogen of each methyl group is substituted by a chlorine. A liquid at room temperature (melting point -4℃, boiling point 174℃ at 760 mm Hg), it is used as a solvent for hard resins and nitrocellulose. It has a role as a protic solvent and a cross-linking reagent. It is a secondary alcohol and an organochlorine compound.
+Properties:safety: Acute Toxic and Health Hazard
+smiles: C(C(CCl)O)Cl
+formula: C3H6Cl2O
+chem_properties: Molecular Weight: 128.98 g/mol
+XLogP3: 0.8
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 2
+Exact Mass: 127.9795702 Da
+Monoisotopic Mass: 127.9795702 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 6
+Formal Charge: 0
+Complexity: 28
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

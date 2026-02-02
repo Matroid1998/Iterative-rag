@@ -1,0 +1,24 @@
+Name: Tetramethyl silicate
+Text:
+Methyl orthosilicate appears as a clear colorless liquid. Flash point below 125 °F. Less dense than water and insoluble in water. Very toxic by ingestion and inhalation and very irritating to skin and eyes. Used to make paints and lacquers.
+Properties:safety: Corrosive and Irritant
+smiles: CO[Si](OC)(OC)OC
+formula: C4H12O4Si
+chem_properties: Molecular Weight: 152.22 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 4
+Rotatable Bond Count: 4
+Exact Mass: 152.05048539 Da
+Monoisotopic Mass: 152.05048539 Da
+Topological Polar Surface Area: 36.9
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 55.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

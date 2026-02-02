@@ -1,0 +1,23 @@
+Name: Titanium nitride
+Text:
+Properties:safety: Flammable and Irritant
+smiles: N#[Ti]
+formula: NTi
+chem_properties: Molecular Weight: 61.874 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 61.9510147 Da
+Monoisotopic Mass: 61.9510147 Da
+Topological Polar Surface Area: 23.8
+Heavy Atom Count: 2
+Formal Charge: 0
+Complexity: 10
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

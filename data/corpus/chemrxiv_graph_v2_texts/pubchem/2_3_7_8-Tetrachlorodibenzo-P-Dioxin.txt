@@ -1,0 +1,31 @@
+Name: 2,3,7,8-Tetrachlorodibenzo-P-Dioxin
+Text:
+2,3,7,8-Tetrachlorodibenzo-p-dioxin (TCDD) can cause cancer according to an independent committee of scientific and health experts. It can cause developmental toxicity according to The Environmental Protection Agency (EPA).
+2,3,7,8-tetrachlorodibenzo-p-dioxin (tcdd) appears as white crystals or tan crystalline powder. (NTP, 1992)
+2,3,7,8-tetrachlorodibenzodioxine is a polychlorinated dibenzodioxine.
+2,3,7,8-Tetrachlorodibenzo-p-dioxin .
+2,3,7,8-Tetrachlorodibenzo-P-dioxin is 2,3,7,8-Tetrachlorodibenzo-p-dioxin which is often referred to simply as dioxin and is the reference for a number of compounds which are similar structurally and have dioxin-like toxicity. A substance extremely toxic to mammals, with a wide variation in sensitivity among species. Longer-term exposure of test mammals to lesser amounts can affect reproduction, cause birth defects, damage the liver and suppress the immune system. Several studies suggest that exposure to TCDD increases the risk of several types of cancer in people. Animal studies have also shown an increased risk of cancer from exposure to TCDD. The WHO and the USA DHHS have determined that TCDD is a human carcinogen. (NCI)
+2,3,7,8-Tetrachlorodibenzo-p-dioxin is the most toxic of 75 chlorinated dibenzo-p-dioxin (CDD) congeners. CDDs are a class of manufactured chemicals that consist of dioxin skeletel structures with chlorine substituents. They are also persistent organic pollutants (POPs), thus their production is regulated in most areas. Dioxins occur as by-products from the manufacture of organochlorides, the bleaching of paper, chlorination by waste and drinking water treatment plants, municipal solid waste and industrial incinerators, and natural sources such as volcanoes and forest fires. (L177, L178)
+Dibenzodioxin derivatives that contain multiple chloride atoms bound to the benzene ring structures.
+Properties:safety: Acute Toxic and Irritant and Environmental Hazard
+smiles: C1=C2C(=CC(=C1Cl)Cl)OC3=CC(=C(C=C3O2)Cl)Cl
+formula: C12H4Cl4O2
+chem_properties: Molecular Weight: 322.0 g/mol
+XLogP3: 6.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 321.893590 Da
+Monoisotopic Mass: 319.896540 Da
+Topological Polar Surface Area: 18.5
+Heavy Atom Count: 18
+Formal Charge: 0
+Complexity: 258
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

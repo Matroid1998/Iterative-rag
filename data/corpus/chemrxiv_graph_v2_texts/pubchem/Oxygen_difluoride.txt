@@ -1,0 +1,26 @@
+Name: Oxygen difluoride
+Text:
+Oxygen difluoride appears as a colorless poisonous gas with a strong peculiar odor. Highly toxic by inhalation. Corrosive to skin and eyes. Can explode on contact with water. Decomposes to toxic gaseous fluorine if heated to high temperature. Prolonged exposure of the containers to high heat may result in their violent rupturing and rocketing. Used as an oxidizer for propellants.
+Oxygen difluoride is an oxygen halide.
+Properties:safety: Oxidizer and Corrosive and Acute Toxic
+smiles: O(F)F
+formula: F2O
+chem_properties: Molecular Weight: 53.996 g/mol
+XLogP3: 1.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 53.99172094 Da
+Monoisotopic Mass: 53.99172094 Da
+Topological Polar Surface Area: 9.2
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 2.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

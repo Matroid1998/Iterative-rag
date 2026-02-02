@@ -1,0 +1,34 @@
+Name: Ethylene Dibromide
+Text:
+1,2-Dibromoethane is a manufactured chemical. It also occurs naturally in small amounts in the ocean where it is formed, probably by algae and kelp. It is a colorless liquid with a mild, sweet odor. Other names for 1,2-dibromoethane are ethylene dibromide, EDB, and glycol bromide. Trade names include Bromofume and Dowfume. 1,2-Dibromoethane has been used as a pesticide in soil, and on citrus, vegetable, and grain crops. Most of these uses have been stopped by the Environmental Protection Agency (EPA) since 1984. Another major use was as an additive in leaded gasoline; however, since leaded gasoline is now banned, it is no longer used for this purpose. Uses today include treatment of logs for termites and beetles, control of moths in beehives, and as a preparation for dyes and waxes.
+Ethylene dibromide is a nonflammable colorless liquid with a sweet chloroform-like odor at room temperature above 50ÂºF (10ÂºC). It is slightly soluble in water and soluble in most organic solvents. It is heavier than water. When heated to decomposition, it may release gases and vapors such as hydrogen bromide, bromine, and carbon monoxide. Ethylene dibromide should be stored in a dry place at ambient temperature.
+Ethylene dibromide can cause cancer according to state or federal government labeling requirements. It can cause developmental toxicity and male reproductive toxicity according to The National Institute for Occupational Safety and Health (NIOSH) and The Environmental Protection Agency (EPA).
+Ethylene dibromide appears as a clear colorless liquid with a sweetish odor. Density 18.1 lb /gal. Slightly soluble in water. Soluble in most organic solvents and thinners. Noncombustible. Very toxic by inhalation, skin absorption or ingestion. Used as a solvent, scavenger for lead in gasoline, grain fumigant and in the manufacture of other chemicals.
+1,2-dibromoethane is a bromoalkane that is ethane carrying bromo substituents at positions 1 and 2. It is produced by marine algae. It has a role as a fumigant, a carcinogenic agent, a marine metabolite, an algal metabolite, a mouse metabolite and a mutagen. It is a bromohydrocarbon and a bromoalkane.
+Exposure to ethylene dibromide primarily occurs from its past use as an additive to leaded gasoline and as a fumigant. Ethylene dibromide is extremely toxic to humans. The chronic (long-term) effects of exposure to ethylene dibromide have not been well documented in humans. Animal studies indicate that chronic exposure to ethylene dibromide may result in toxic effects to the liver, kidney, and the testis, irrespective of the route of exposure. Limited data on men occupationally exposed to ethylene dibromide indicate that long-term exposure to ethylene dibromide can impair reproduction by damaging sperm cells in the testicles. Several animal studies indicate that long-term exposure to ethylene dibromideincreases the incidences of a variety of tumors in rats and mice in both sexes by all routes of exposure. EPA has classified ethylene dibromide as a Group B2, probable human carcinogen.
+1,2-Dibromoethane has been reported in Bos taurus and Carica papaya with data available.
+Ethylene Dibromide is a clear, colorless, volatile liquid brominated hydrocarbon with a mild, sweet, chloroform-like odor that emits corrosive and toxic fumes when heated to decomposition. Ethylene dibromide is used as a chemical intermediate in the synthesis of resins, waxes, gums, dyes and pharmaceuticals and is used to produce vinyl bromide. Exposure to ethylene dibromide severely irritates the skin and causes depression and collapse. Ethylene dibromide affects DNA integrity by alkylation and is reasonably anticipated to be a human carcinogen.
+1,2-Dibromoethane, also known as ethylene dibromide (EDB), is the organobromine compound with the chemical formula (CH2Br)2. Although trace amounts occur naturally in the ocean, where it is formed probably by algae and kelp, it is mainly synthetic. It is a colorless liquid with a sweet odor, detectable at 10 ppm, is a widely used and sometimes-controversial fumigant. The effects on people of breathing high levels are not known, but animal studies with short-term exposures to high levels caused depression and collapse, indicating effects on the brain.
+An effective soil fumigant, insecticide, and nematocide. In humans, it causes severe burning of skin and irritation of the eyes and respiratory tract. Prolonged inhalation may cause liver necrosis. It is also used in gasoline. Members of this group have caused liver and lung cancers in rodents. According to the Fourth Annual Report on Carcinogens (NTP 85-002, 1985), 1,2-dibromoethane may reasonably be anticipated to be a carcinogen.
+Properties:safety: Acute Toxic and Health Hazard and Environmental Hazard
+smiles: C(CBr)Br
+formula: C2H4Br2
+chem_properties: Molecular Weight: 187.86 g/mol
+XLogP3: 2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 1
+Exact Mass: 187.86593 Da
+Monoisotopic Mass: 185.86798 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 6
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

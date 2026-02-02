@@ -1,0 +1,28 @@
+Name: beta-CITRONELLOL, (+/-)-
+Text:
+Citronellol is a monoterpenoid that is oct-6-ene substituted by a hydroxy group at position 1 and methyl groups at positions 3 and 7. It has a role as a plant metabolite.
+Citronellol has been reported in Ambrosiozyma monospora, Artemisia princeps, and other organisms with data available.
+3,7-Dimethyl-6-octen-1-ol is a metabolite found in or produced by Saccharomyces cerevisiae.
+See also: Java citronella oil (part of).
+Properties:safety: Irritant
+smiles: CC(CCC=C(C)C)CCO
+formula: C10H20O
+chem_properties: Molecular Weight: 156.26 g/mol
+XLogP3: 3.2
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 5
+Exact Mass: 156.151415257 Da
+Monoisotopic Mass: 156.151415257 Da
+Topological Polar Surface Area: 20.2
+Heavy Atom Count: 11
+Formal Charge: 0
+Complexity: 112
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

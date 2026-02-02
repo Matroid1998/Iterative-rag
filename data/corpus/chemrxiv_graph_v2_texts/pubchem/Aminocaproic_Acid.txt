@@ -1,0 +1,32 @@
+Name: Aminocaproic Acid
+Text:
+6-aminohexanoic acid is an epsilon-amino acid comprising hexanoic acid carrying an amino substituent at position C-6. Used to control postoperative bleeding, and to treat overdose effects of the thrombolytic agents streptokinase and tissue plasminogen activator. It has a role as an antifibrinolytic drug, a hematologic agent and a metabolite. It is an epsilon-amino acid and an omega-amino fatty acid. It is functionally related to a hexanoic acid. It is a conjugate acid of a 6-aminohexanoate. It is a tautomer of a 6-aminohexanoic acid zwitterion.
+An antifibrinolytic agent that acts by inhibiting plasminogen activators which have fibrinolytic properties.
+Aminocaproic acid is an Antifibrinolytic Agent. The physiologic effect of aminocaproic acid is by means of Decreased Fibrinolysis.
+Aminocaproic acid has been reported in Daphnia pulex, Arabidopsis thaliana, and other organisms with data available.
+Aminocaproic Acid is a synthetic lysine derivative with antifibrinolytic activity. Aminocaproic acid competitively inhibits activation of plasminogen, thereby reducing conversion of plasminogen to plasmin (fibrinolysin), an enzyme that degrades fibrin clots as well as fibrinogen and other plasma proteins including the procoagulant factors V and VIII. Aminocaproic acid competitively reduces the conversion of plasminogen to plasmin by plasminogen activators. It directly inhibits proteolytic activity of plasmin, but higher doses are required than are needed to reduce plasmin formation. Aminocaproic acid is used in the treatment of hemorrhage and prophylactically against hemorrhage, including hyperfibrinolysis-induced hemorrhage and postsurgical hemorrhage.
+AMINOCAPROIC ACID is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1964 and is indicated for hemorrhage and has 4 investigational indications.
+An antifibrinolytic agent that acts by inhibiting plasminogen activators which have fibrinolytic properties.
+See also: ALCLOXA; Aminocaproic Acid; SILICON DIOXIDE (component of); Aminocaproic acid; silicon dioxide (component of) ... View More ...
+Properties:safety: Irritant
+smiles: C(CCC(=O)O)CCN
+formula: C6H13NO2
+chem_properties: Molecular Weight: 131.17 g/mol
+XLogP3: -3
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 5
+Exact Mass: 131.094628657 Da
+Monoisotopic Mass: 131.094628657 Da
+Topological Polar Surface Area: 63.3
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 83.1
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

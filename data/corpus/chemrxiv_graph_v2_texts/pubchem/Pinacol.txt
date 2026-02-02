@@ -1,0 +1,26 @@
+Name: Pinacol
+Text:
+Pinacol is a glycol that is ethylene glycol in which all four methylene hydrogens have been replaced by methyl groups.
+Pinacol has been reported in Cymbopogon citratus with data available.
+Properties:safety: Flammable and Irritant
+smiles: CC(C)(C(C)(C)O)O
+formula: C6H14O2
+chem_properties: Molecular Weight: 118.17 g/mol
+XLogP3: 0.1
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 1
+Exact Mass: 118.099379685 Da
+Monoisotopic Mass: 118.099379685 Da
+Topological Polar Surface Area: 40.5
+Heavy Atom Count: 8
+Formal Charge: 0
+Complexity: 72.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

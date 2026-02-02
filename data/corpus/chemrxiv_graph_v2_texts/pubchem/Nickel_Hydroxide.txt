@@ -1,0 +1,27 @@
+Name: Nickel Hydroxide
+Text:
+Nickel Hydroxide can cause cancer according to California Labor Code.
+Nickel hydroxide appears as a fine green powder. Slightly soluble in water and denser than water. Primary hazard is threat to the environment. Immediate steps should be taken to limit spread to the environment.
+Nickel Hydroxide is a green, crystalline, inorganic compound that produces toxic gases upon heating. Nickel hydroxide is used in nickel-cadmium batteries and as a catalyst in chemical reactions. Exposure to this substance can cause severe dermatitis, skin and asthma-like allergies and affects the lungs, kidneys, gastrointestinal tract and neurological system. Nickel hydroxide is a known carcinogen and is associated with an increased risk of developing lung and nasal cancers. (NCI05)
+Nickel hydroxide is a hydroxide of nickel. It occurs naturally as the mineral theophrastite, which is very rare. Nickel hydroxide is used in rechargeable battery electrodes. Nickel is a chemical compound with the atomic number 28. It is found abundantly in nature in laterite ore minerals, such as limonite, garnierite, and pentlandite. Nickel has a biological role and is found in certain enzymes, including urease, hydrogenase, methylcoenzyme M reductase, and carbon monoxide dehydrogenase. (L40, L41, L44)
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: [OH-].[OH-].[Ni+2]
+formula: H2NiO2
+chem_properties: Molecular Weight: 92.708 g/mol
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 2
+Rotatable Bond Count: 0
+Exact Mass: 91.940821 Da
+Monoisotopic Mass: 91.940821 Da
+Topological Polar Surface Area: 2
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 0
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

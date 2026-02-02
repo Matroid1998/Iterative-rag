@@ -1,0 +1,33 @@
+Name: Tacrolimus
+Text:
+Tacrolimus (anhydrous) is a macrolide lactam containing a 23-membered lactone ring, originally isolated from the fermentation broth of a Japanese soil sample that contained the bacteria Streptomyces tsukubaensis. It has a role as an immunosuppressive agent and a bacterial metabolite.
+Tacrolimus (also FK-506 or Fujimycin) is an immunosuppressive drug whose main use is after organ transplant to reduce the activity of the patient's immune system and so the risk of organ rejection. It is also used in a topical preparation in the treatment of severe atopic dermatitis, severe refractory uveitis after bone marrow transplants, and the skin condition vitiligo. It was discovered in 1984 from the fermentation broth of a Japanese soil sample that contained the bacteria Streptomyces tsukubaensis. Tacrolimus is chemically known as a macrolide. It reduces peptidyl-prolyl isomerase activity by binding to the immunophilin FKBP-12 (FK506 binding protein) creating a new complex. This FKBP12-FK506 complex inhibits calcineurin which inhibits T-lymphocyte signal transduction and IL-2 transcription.
+Tacrolimus anhydrous is a Calcineurin Inhibitor Immunosuppressant. The mechanism of action of tacrolimus anhydrous is as a Calcineurin Inhibitor.
+Tacrolimus is a calcineurin inhibitor and potent immunosuppressive agent used largely as a means of prophylaxis against cellular rejection after transplantation. Tacrolimus therapy can be associated with mild serum enzyme elevations, and it has been linked to rare instances of clinically apparent cholestatic liver injury.
+Tacrolimus has been reported in Streptomyces tacrolimicus, Euglena gracilis, and other organisms with data available.
+Tacrolimus is a macrolide isolated from Streptomyces tsukubaensis. Tacrolimus binds to the FKBP-12 protein and forms a complex with calcium-dependent proteins, thereby inhibiting calcineurin phosphatase activity and resulting in decreased cytokine production. This agent exhibits potent immunosuppressive activity in vivo and prevents the activation of T-lymphocytes in response to antigenic or mitogenic stimulation. Tacrolimus possesses similar immunosuppressive properties to cyclosporine, but is more potent.
+Tacrolimus Anhydrous is anhydrous from of tacrolimus, a macrolide isolated from Streptomyces tsukubaensis.  Tacrolimus binds to the FKBP-12 protein and forms a complex with calcium-dependent proteins, thereby inhibiting calcineurin phosphatase activity and resulting in decreased cytokine production. This agent exhibits potent immunosuppressive activity in vivo and prevents the activation of T-lymphocytes in response to antigenic or mitogenic stimulation. Tacrolimus possesses similar immunosuppressive properties to cyclosporine, but is more potent.
+TACROLIMUS ANHYDROUS is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1994 and has 3 approved and 134 investigational indications. This drug has a black box warning from the FDA.
+A macrolide isolated from the culture broth of a strain of Streptomyces tsukubaensis that has strong immunosuppressive activity in vivo and prevents the activation of T-lymphocytes in response to antigenic or mitogenic stimulation in vitro.
+Properties:safety: Acute Toxic and Health Hazard
+smiles: C[C@@H]1C[C@@H]([C@@H]2[C@H](C[C@H]([C@@](O2)(C(=O)C(=O)N3CCCC[C@H]3C(=O)O[C@@H]([C@@H]([C@H](CC(=O)[C@@H](/C=C(/C1)\C)CC=C)O)C)/C(=C/[C@@H]4CC[C@H]([C@@H](C4)OC)O)/C)O)C)OC)OC
+formula: C44H69NO12
+chem_properties: Molecular Weight: 804.0 g/mol
+XLogP3: 2.7
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 12
+Rotatable Bond Count: 7
+Exact Mass: 803.48197664 Da
+Monoisotopic Mass: 803.48197664 Da
+Topological Polar Surface Area: 178
+Heavy Atom Count: 57
+Formal Charge: 0
+Complexity: 1480
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 14
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 2
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

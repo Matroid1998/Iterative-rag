@@ -1,0 +1,32 @@
+Name: Ampicillin
+Text:
+Ampicillin is a penicillin in which the substituent at position 6 of the penam ring is a 2-amino-2-phenylacetamido group. It has a role as an antibacterial drug. It is a penicillin, a penicillin allergen and a beta-lactam antibiotic. It is a conjugate acid of an ampicillin(1-).
+Ampicillin is a semi-synthetic derivative of penicillin that functions as an orally active broad-spectrum antibiotic.
+Ampicillin is a Penicillin-class Antibacterial.
+Ampicillin has been reported in Microsphaeropsis arundinis, Aspergillus banksianus, and other organisms with data available.
+Ampicillin is a broad-spectrum, semi-synthetic, beta-lactam penicillin antibiotic with bactericidal activity. Ampicillin binds to and inactivates penicillin-binding proteins (PBP) located on the inner membrane of the bacterial cell wall. Inactivation of PBPs interferes with the cross-linkage of peptidoglycan chains necessary for bacterial cell wall strength and rigidity. This interrupts bacterial cell wall synthesis and results in the weakening of the bacterial cell wall and causes cell lysis. Ampicillin is stable against hydrolysis by a variety of beta-lactamases, therefore, can be used in wide range of gram-positive and -negative infections.
+AMPICILLIN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1965 and has 8 approved and 9 investigational indications.
+Semi-synthetic derivative of penicillin that functions as an orally active broad-spectrum antibiotic.
+See also: Ampicillin Trihydrate (annotation moved to).
+Properties:safety: Irritant and Health Hazard and Environmental Hazard
+smiles: CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](C3=CC=CC=C3)N)C(=O)O)C
+formula: C16H19N3O4S
+chem_properties: Molecular Weight: 349.4 g/mol
+XLogP3: -1.1
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 4
+Exact Mass: 349.10962727 Da
+Monoisotopic Mass: 349.10962727 Da
+Topological Polar Surface Area: 138
+Heavy Atom Count: 24
+Formal Charge: 0
+Complexity: 562
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 4
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

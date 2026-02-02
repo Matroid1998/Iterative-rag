@@ -1,0 +1,32 @@
+Name: 4-Nitrophenol
+Text:
+4-nitrophenol appears as a white to light yellow crystalline solid. Contact may severely irritate skin and eyes. Poisonous by ingestion and moderately toxic by skin contact.
+4-nitrophenol is a member of the class of 4-nitrophenols that is phenol in which the hydrogen that is para to the hydroxy group has been replaced by a nitro group. It has a role as a human xenobiotic metabolite and a mouse metabolite. It is a conjugate acid of a 4-nitrophenolate.
+4-Nitrophenol is a metabolite found in or produced by Escherichia coli (strain K12, MG1655).
+4-Nitrophenol is used to manufacture drugs, fungicides, insecticides, and dyes and to darken leather. Acute (short-term) inhalation or ingestion of 4-nitrophenol in humans causes headaches, drowsiness, nausea, and cyanosis (blue color in lips, ears, and fingernails). Contact with eyes causes irritation in humans. No information is available on the chronic (long-term) effects of 4-nitrophenol in humans or animals from inhalation or oral exposure. No information is available on the reproductive, developmental, or carcinogenic effects of 4-nitrophenol in humans. EPA has not classified 4-nitrophenol for potential carcinogenicity.
+4-Nitrophenol has been reported in Arabidopsis thaliana, Homo sapiens, and other organisms with data available.
+4-Nitrophenol is a phenolic compound that is used mainly to make fungicides and dyes, and to darken leather. It is also used in the synthesis of drugs such as paracetamol, phenetidine, and acetophenetidine. 4-Nitrophenol measurement in urine is used in biological monitoring for establishing the presence and magnitude of exposures to pesticides. (A7736) (Methods in Biotechnology, 2006,61-78) (L1661, L1662)
+4-Nitrophenol is a metabolite found in or produced by Saccharomyces cerevisiae.
+See also: Nitrophenols (related); 4-Nitrophenolate (annotation moved to).
+Properties:safety: Irritant and Health Hazard
+smiles: C1=CC(=CC=C1[N+](=O)[O-])O
+formula: C6H5NO3
+chem_properties: Molecular Weight: 139.11 g/mol
+XLogP3: 1.9
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 139.026943022 Da
+Monoisotopic Mass: 139.026943022 Da
+Topological Polar Surface Area: 66.1
+Heavy Atom Count: 10
+Formal Charge: 0
+Complexity: 123
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

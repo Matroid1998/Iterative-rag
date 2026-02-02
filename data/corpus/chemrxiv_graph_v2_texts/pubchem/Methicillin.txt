@@ -1,0 +1,30 @@
+Name: Methicillin
+Text:
+Methicillin is a penicillin that is 6-aminopenicillanic acid in which one of the amino hydrogens is replaced by a 2,6-dimethoxybenzoyl group. It has a role as an antibacterial drug. It is a penicillin and a penicillin allergen. It is a conjugate acid of a methicillin(1-).
+One of the penicillins which is resistant to penicillinase but susceptible to a penicillin-binding protein. It is inactivated by gastric acid so administered by injection.
+Methicillin has been reported in Tanacetum argenteum, Streptomyces cavourensis, and other organisms with data available.
+Methicillin is a semisynthetic, narrow spectrum beta-lactamase-resistant penicillin antibiotic with bactericidal and beta-lactamase resistant activity. Methicillin binds to specific penicillin-binding proteins (BPBs) on the bacterial cell wall, thereby preventing the cross-linkage of peptidoglycans, which are critical components of the bacterial cell wall. This leads to an interruption of the bacterial cell wall and causes bacterial lysis.
+METHICILLIN is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1982 and is indicated for bacterial disease and has 1 investigational indication.
+One of the PENICILLINS which is resistant to PENICILLINASE but susceptible to a penicillin-binding protein. It is inactivated by gastric acid so administered by injection.
+Properties:safety: Irritant
+smiles: CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)C3=C(C=CC=C3OC)OC)C(=O)O)C
+formula: C17H20N2O6S
+chem_properties: Molecular Weight: 380.4 g/mol
+XLogP3: 1.2
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 7
+Rotatable Bond Count: 5
+Exact Mass: 380.10420754 Da
+Monoisotopic Mass: 380.10420754 Da
+Topological Polar Surface Area: 130
+Heavy Atom Count: 26
+Formal Charge: 0
+Complexity: 600
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 3
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

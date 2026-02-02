@@ -1,0 +1,33 @@
+Name: Chloramphenicol
+Text:
+Chloramphenicol is an organochlorine compound that is dichloro-substituted acetamide containing a nitrobenzene ring, an amide bond and two alcohol functions. It has a role as an antimicrobial agent, an antibacterial drug, a protein synthesis inhibitor, an Escherichia coli metabolite, a Mycoplasma genitalium metabolite and a geroprotector. It is an organochlorine compound, a diol, a C-nitro compound and a carboxamide.
+An antibiotic first isolated from cultures of Streptomyces venezuelae in 1947 but now produced synthetically. It has a relatively simple structure and was the first broad-spectrum antibiotic to be discovered. It acts by interfering with bacterial protein synthesis and is mainly bacteriostatic. (From Martindale, The Extra Pharmacopoeia, 29th ed, p106)  The FDA has withdrawn all oral drug products containing chloramphenicol, due to the high risk of fatal aplastic anemia associated with this specific route of administration.
+Chloramphenicol is an Amphenicol-class Antibacterial.
+Chloramphenicol is a broad spectrum antibiotic introduced into clinical practice in 1948, but which was subsequently shown to cause serious and fatal aplastic anemia and is now used rarely and reserved for severe, life-threatening infections for which other antibiotics are not available. Chloramphenicol has also been linked to cases of acute, clinically apparent liver injury with jaundice, largely in association with aplastic anemia.
+Chloramphenicol has been reported in Nigrospora oryzae, Trichoderma virens, and other organisms with data available.
+Chloramphenicol is a semisynthetic, broad-spectrum antibiotic derived from Streptomyces venequelae with primarily bacteriostatic activity. Chloramphenicol diffuses through the bacterial cell wall and reversibly binds to the bacterial 50S ribosomal subunit. The binding interferes with peptidyl transferase activity, thereby prevents transfer of amino acids to the growing peptide chains and blocks peptide bond formation. As a result bacterial protein synthesis is blocked and impede bacterial cell proliferation.
+CHLORAMPHENICOL is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 1950 and has 3 approved and 1 investigational indication. It was withdrawn in at least one region.
+An antibiotic first isolated from cultures of Streptomyces venequelae in 1947 but now produced synthetically. It has a relatively simple structure and was the first broad-spectrum antibiotic to be discovered. It acts by interfering with bacterial protein synthesis and is mainly bacteriostatic. (From Martindale, The Extra Pharmacopoeia, 29th ed, p106)
+See also: Chloramphenicol Palmitate (is active moiety of); Chloramphenicol Sodium Succinate (narrower); Chloramphenicol succinate (is active moiety of) ... View More ...
+Properties:safety: Corrosive and Irritant and Health Hazard
+smiles: C1=CC(=CC=C1[C@H]([C@@H](CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-]
+formula: C11H12Cl2N2O5
+chem_properties: Molecular Weight: 323.13 g/mol
+XLogP3: 1.1
+Hydrogen Bond Donor Count: 3
+Hydrogen Bond Acceptor Count: 5
+Rotatable Bond Count: 5
+Exact Mass: 322.0123269 Da
+Monoisotopic Mass: 322.0123269 Da
+Topological Polar Surface Area: 115
+Heavy Atom Count: 20
+Formal Charge: 0
+Complexity: 342
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 2
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

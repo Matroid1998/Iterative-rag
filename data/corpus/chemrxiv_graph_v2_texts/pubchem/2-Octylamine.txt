@@ -1,0 +1,24 @@
+Name: 2-Octylamine
+Text:
+Properties:safety: Flammable and Corrosive and Acute Toxic
+smiles: CCCCCCC(C)N
+formula: C8H19N
+chem_properties: Molecular Weight: 129.24 g/mol
+XLogP3: 2.6
+Hydrogen Bond Donor Count: 1
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 5
+Exact Mass: 129.151749610 Da
+Monoisotopic Mass: 129.151749610 Da
+Topological Polar Surface Area: 26
+Heavy Atom Count: 9
+Formal Charge: 0
+Complexity: 52.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 1
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

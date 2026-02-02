@@ -1,0 +1,28 @@
+Name: Lazertinib
+Text:
+Lazertinib is an oral, third-generation, epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor (TKI). Lazertinib was first approved in South Korea on January 18, 2021, for the treatment of EGFR T790M mutation-positive non-small cell lung cancer (NSCLC) with EGFR mutations. It was approved by the FDA on August 19, 2024. Lazertinib is used alone or in combination with other chemotherapeutic agents.
+Lazertinib is a Kinase Inhibitor. The mechanism of action of lazertinib is as a Kinase Inhibitor, and Cytochrome P450 3A4 Inhibitor, and Breast Cancer Resistance Protein Inhibitor.
+Lazertinib is an orally available third-generation, selective inhibitor of certain forms of the epidermal growth factor receptor (EGFR) with activating mutations, including the resistance mutation T790M, exon 19 deletions (Del19), and the L858R mutation, with potential antineoplastic activity. Upon administration, lazertinib specifically and irreversibly binds to and inhibits selective EGFR mutants, which prevents EGFR mutant-mediated signaling and leads to cell death in EGFR mutant-expressing tumor cells. Lazertinib may inhibit programmed cell death-1 ligand 1 (PD-L1) and inflammatory cytokines in specific cancer cells harboring certain EGFR mutations. Compared to some other EGFR inhibitors, lazertinib may have therapeutic benefits in tumors with T790M- or L858R-mediated drug resistance. In addition, lazertinib penetrates the blood-brain barrier (BBB). This agent shows minimal activity against wild-type EGFR (wtEGFR), and does not cause dose-limiting toxicities, which occur during the use of non-selective EGFR inhibitors and inhibit wtEGFR. EGFR, a receptor tyrosine kinase (RTK) mutated in many tumor cell types, plays a key role in tumor cell proliferation and tumor vascularization.
+LAZERTINIB is a small molecule drug with a maximum clinical trial phase of III (across all indications) and has 6 investigational indications.
+Properties:safety: Irritant and Health Hazard
+smiles: CN(C)CC1=CN(N=C1C2=CC=CC=C2)C3=NC(=NC=C3)NC4=C(C=C(C(=C4)NC(=O)C=C)N5CCOCC5)OC
+formula: C30H34N8O3
+chem_properties: Molecular Weight: 554.6 g/mol
+XLogP3: 3.4
+Hydrogen Bond Donor Count: 2
+Hydrogen Bond Acceptor Count: 9
+Rotatable Bond Count: 10
+Exact Mass: 554.27538698 Da
+Monoisotopic Mass: 554.27538698 Da
+Topological Polar Surface Area: 110
+Heavy Atom Count: 41
+Formal Charge: 0
+Complexity: 837
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

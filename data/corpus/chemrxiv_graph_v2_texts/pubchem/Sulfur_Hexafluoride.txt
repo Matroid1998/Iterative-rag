@@ -1,0 +1,31 @@
+Name: Sulfur Hexafluoride
+Text:
+Sulfur hexafluoride appears as a colorless odorless gas. Noncombustible. Shipped as a liquefied gas under own vapor pressure. Contact may cause frostbite. Under prolonged exposure to fire or heat the containers may rupture violently and rocket.
+Sulfur hexafluoride is a sulfur coordination entity consisting of six fluorine atoms attached to a central sulfur atom. It is the most potent greenhouse gas currently known, with a global warming potential of 23,900 times that of CO2 over a 100 year period (SF6 has an estimated lifetime in the atmosphere of between 800 and 3,000 years). It has a role as an ultrasound contrast agent, a member of greenhouse gas and a NMR chemical shift reference compound.
+Sulfur hexafluoride is an ultrasound contrast agent indicated for use  •in echocardiography to opacify the left ventricular chamber and to improve the delineation of the left ventricular endocardial border in adult patients with suboptimal echocardiograms  •in ultrasonography of the liver for characterization of focal liver lesions in adult and pediatric patients
+Sulfur hexafluoride is a Contrast Agent for Ultrasound Imaging. The mechanism of action of sulfur hexafluoride is as an Ultrasound Contrast Activity.
+Sulfur Hexafluoride is a contrast agent composed of an inorganic fluorinated inert gas comprised of six fluoride atoms bound to one sulfur atom, with potential diagnostic activity upon imaging. Upon inhalation of sulfur hexafluoride (SF6), the gas is distributed throughout the lungs. Upon subsequent ultrasound imaging, the lung vasculature can be imaged and pulmonary perfusion can be assessed.
+SULFUR HEXAFLUORIDE is a small molecule drug with a maximum clinical trial phase of IV (across all indications) that was first approved in 2001 and has 5 investigational indications.
+Sulfur hexafluoride. An inert gas used mainly as a test gas in respiratory physiology. Other uses include its injection in vitreoretinal surgery to restore the vitreous chamber and as a tracer in monitoring the dispersion and deposition of air pollutants.
+Properties:safety: Compressed Gas and Irritant
+smiles: FS(F)(F)(F)(F)F
+formula: F6S
+chem_properties: Molecular Weight: 146.06 g/mol
+XLogP3: 4.2
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 6
+Rotatable Bond Count: 0
+Exact Mass: 145.96249015 Da
+Monoisotopic Mass: 145.96249015 Da
+Topological Polar Surface Area: 1
+Heavy Atom Count: 7
+Formal Charge: 0
+Complexity: 62.7
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

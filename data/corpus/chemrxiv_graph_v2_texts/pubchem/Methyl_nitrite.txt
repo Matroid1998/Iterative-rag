@@ -1,0 +1,25 @@
+Name: Methyl nitrite
+Text:
+Methyl nitrite appears as a liquid or gas Boils at 10.4 °F. Moderately toxic by inhalation. Narcotic in high concentrations. Used as a rocket propellant. Differs from nitromethane (H3CNO2).
+Properties:safety: Compressed Gas and Acute Toxic and Health Hazard
+smiles: CON=O
+formula: H3CONO
+chem_properties: Molecular Weight: 61.040 g/mol
+XLogP3: 0
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 61.016378338 Da
+Monoisotopic Mass: 61.016378338 Da
+Topological Polar Surface Area: 38.7
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 20
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

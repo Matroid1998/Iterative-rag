@@ -1,0 +1,24 @@
+Name: Copper iodide
+Text:
+Copper iodide appears as odorless tan or off-white solid. Sinks in water. (USCG, 1999)
+Properties:safety: Corrosive and Irritant and Health Hazard and Environmental Hazard
+smiles: [Cu](I)I
+formula: CuI2
+chem_properties: Molecular Weight: 317.35 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 0
+Exact Mass: 316.73854 Da
+Monoisotopic Mass: 316.73854 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 3
+Formal Charge: 0
+Complexity: 2.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

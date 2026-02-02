@@ -1,0 +1,33 @@
+Name: Acrolein
+Text:
+Acrolein is a colorless or yellow liquid with a disagreeable odor. It dissolves in water very easily and quickly changes to a vapor when heated. It also burns easily. Small amounts of acrolein can be formed and can enter the air when trees, tobacco, other plants, gasoline, and oil are burned. Acrolein is used as a pesticide to control algae, weeds, bacteria, and mollusks. It is also used to make other chemicals.
+Acrolein, stabilized appears as a colorless to yellow volatile liquid with a disagreeable choking odor. Flash point below 0 °F. Initially irritating to the eyes and mucous membranes. Very toxic by inhalation. Less dense than water (7.0 lb / gal). Vapors heavier than air. Used to make other chemicals, plastics, and as a herbicide.   Rate of onset: Immediate  Persistence: Minutes to hour  Odor threshold: 1 ppm  Source/use/other hazard: Herbicide; tox and corrosive fumes.
+Acrolein is an enal that is prop-2-ene with an oxo group at position 1. It has a role as a toxin, a human xenobiotic metabolite and a herbicide.
+Acrolein is primarily used as an intermediate in the synthesis of acrylic acid and as a biocide. It may be formed from the breakdown of certain pollutants in outdoor air or from the burning of organic matter including tobacco, or fuels such as gasoline or oil. It is toxic to humans following inhalation, oral or dermal exposures. Acute (short-term) inhalation exposure may result in upper respiratory tract irritation and congestion. No information is available on its reproductive, developmental, or carcinogenic effects in humans, and the existing animal cancer data are considered inadequate to make a determination that acrolein is carcinogenic to humans.
+Acrolein has been reported in Zanthoxylum schinifolium, Nicotiana tabacum, and Phaseolus vulgaris with data available.
+Acrolein (systematic name: propenal) is the simplest unsaturated aldehyde. It is a colourless liquid with a piercing, disagreeable, acrid smell. The smell of burnt fat (as when cooking oil is heated to its smoke point) is caused by glycerol in the burning fat breaking down into acrolein. It is produced industrially from propylene and mainly used as a biocide and a building block to other chemical compounds, such as the amino acid methionine. Acrolein is used as an etherification agent in the preparation of modified food starches. Acrolein is an herbicide and algicide used in water treatment. It is produced by microorganisms, e.g. Clostridium perfringens. Acrolein is a relatively electrophilic compound and a reactive one, hence its high toxicity. It is a good Michael acceptor, hence its useful reaction with thiols. It forms acetals readily, a prominent one being the spirocycle derived from pentaerythritol, diallylidene pentaerythritol. Acrolein participates in many Diels-Alder reactions, even with itself. Via Diels-Alder reactions, it is a precursor to some commercial fragrances, including lyral, norbornene-2-carboxaldehyde, and myrac aldehyde. Acrolein is toxic and is a strong irritant for the skin, eyes, and nasal passages. The main metabolic pathway for acrolein is the alkylation of glutathione. The WHO suggests a 'tolerable oral acrolein intake' of 7.5 mg/day per kilogram of body weight. Although acrolein occurs in French fries, the levels are only a few micrograms per kilogram.
+acrolein is a metabolite found in or produced by Saccharomyces cerevisiae.
+Unsaturated three-carbon aldehyde.
+See also: 2-Propenal, homopolymer (annotation moved to).
+Properties:safety: Flammable and Corrosive and Acute Toxic and Environmental Hazard
+smiles: C=CC=O
+formula: C3H4O
+chem_properties: Molecular Weight: 56.06 g/mol
+XLogP3: 0
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 1
+Exact Mass: 56.026214747 Da
+Monoisotopic Mass: 56.026214747 Da
+Topological Polar Surface Area: 17.1
+Heavy Atom Count: 4
+Formal Charge: 0
+Complexity: 30.3
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

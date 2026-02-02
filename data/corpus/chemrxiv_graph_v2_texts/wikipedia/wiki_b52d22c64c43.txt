@@ -1,0 +1,6 @@
+Apilimod (STA-5326) is a drug that was initially identified as an inhibitor of production of the interleukins IL-12 and IL-23, and developed for the oral treatment of autoimmune conditions such as Crohn's disease and rheumatoid arthritis, though clinical trial results were disappointing and development for these applications was not continued.
+Subsequently, it was discovered that apilimod has an additional mode of action, as an inhibitor of the lipid kinase enzyme PIKfyve.  PIKfyve makes two lipids, PtdIns5P and PtdIns(3,5)P2, whose syntheses are efficiently and similarly inhibited by apilimod (ID50 = 0.4 nM) in in vitro assays. Administration of apilimod (100 nM; 60 min) in human embryonic kidney cells powerfully reduces levels of both PtdIns5P and PtdIns(3,5)P2.
+Recently apilimod has been repurposed as a potential antiviral and anti-cancer drug, with possible applications in the treatment of non-Hodgkin lymphoma as well as viral diseases such as Ebola virus disease, Lassa fever and COVID-19.
+
+
+== References ==

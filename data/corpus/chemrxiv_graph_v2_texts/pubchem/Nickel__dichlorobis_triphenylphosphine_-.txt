@@ -1,0 +1,23 @@
+Name: Nickel, dichlorobis(triphenylphosphine)-
+Text:
+Properties:safety: Irritant and Health Hazard
+smiles: C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.Cl[Ni]Cl
+formula: C36H30Cl2NiP2
+chem_properties: Molecular Weight: 654.2 g/mol
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 0
+Rotatable Bond Count: 6
+Exact Mass: 652.055322 Da
+Monoisotopic Mass: 652.055322 Da
+Topological Polar Surface Area: 0
+Heavy Atom Count: 41
+Formal Charge: 0
+Complexity: 204
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 3
+Compound Is Canonicalized: Yes 
+

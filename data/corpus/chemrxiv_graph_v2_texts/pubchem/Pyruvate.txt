@@ -1,0 +1,27 @@
+Name: Pyruvate
+Text:
+Pyruvate is a 2-oxo monocarboxylic acid anion that is the conjugate base of pyruvic acid, arising from deprotonation of the carboxy group. It has a role as a fundamental metabolite and a cofactor. It is functionally related to a propionate. It is a conjugate base of a pyruvic acid.
+Pyruvate is a 2-oxo monocarboxylic acid anion that is the conjugate base of pyruvic acid, which is an important metabolic product for energy-producing biochemical pathways. Pyruvate is the final product of glycolysis and, when hypoxic conditions arise, can be metabolized anaerobically to form lactate. This chemical is a precursor of both acetyl-coenzyme A and oxaloacetate, which are involved in the citric acid cycle. Additionally, oxaloacetate is a substrate in the gluconeogenesis pathway.
+An intermediate compound in the metabolism of carbohydrates, proteins, and fats. In thiamine deficiency, its oxidation is retarded and it accumulates in the tissues, especially in nervous structures. (From Stedman, 26th ed)
+Properties:safety: Corrosive
+smiles: CC(=O)C(=O)[O-]
+formula: C3H3O3-
+chem_properties: Molecular Weight: 87.05 g/mol
+XLogP3: -0.6
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 3
+Rotatable Bond Count: 0
+Exact Mass: 87.008218953 Da
+Monoisotopic Mass: 87.008218953 Da
+Topological Polar Surface Area: 57.2
+Heavy Atom Count: 6
+Formal Charge: -1
+Complexity: 78.5
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+

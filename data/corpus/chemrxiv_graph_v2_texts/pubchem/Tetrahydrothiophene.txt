@@ -1,0 +1,26 @@
+Name: Tetrahydrothiophene
+Text:
+Tetrahydrothiophene appears as a water-white liquid. About the same density as water and insoluble in water. Vapors heavier than air. Used as a solvent and to make other chemicals.
+Tetrahydrothiophene is a saturated organic heteromonocyclic parent and a member of tetrahydrothiophenes.
+Properties:safety: Flammable and Irritant
+smiles: C1CCSC1
+formula: C4H8S
+chem_properties: Molecular Weight: 88.17 g/mol
+XLogP3: 1.4
+Hydrogen Bond Donor Count: 0
+Hydrogen Bond Acceptor Count: 1
+Rotatable Bond Count: 0
+Exact Mass: 88.03467143 Da
+Monoisotopic Mass: 88.03467143 Da
+Topological Polar Surface Area: 25.3
+Heavy Atom Count: 5
+Formal Charge: 0
+Complexity: 22.8
+Isotope Atom Count: 0
+Defined Atom Stereocenter Count: 0
+Undefined Atom Stereocenter Count: 0
+Defined Bond Stereocenter Count: 0
+Undefined Bond Stereocenter Count: 0
+Covalently-Bonded Unit Count: 1
+Compound Is Canonicalized: Yes 
+
