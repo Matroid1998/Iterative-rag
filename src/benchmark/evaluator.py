@@ -22,7 +22,6 @@ from dotenv import load_dotenv
 import pandas as pd
 import concurrent.futures
 from threading import Lock
-from datetime import datetime
 import requests
 
 load_dotenv()
@@ -365,7 +364,7 @@ class StructuredLLM:
                 "error": str(e),
             }
 
-    def _call_ollama(self, messages: str) -> Dict[str, Any]:
+    def _call_ollama(self, messages: list[dict]) -> Dict[str, Any]:
         """Call the Ollama API with the given messages."""
         reason = None
         response = self.client.chat(
@@ -376,7 +375,7 @@ class StructuredLLM:
             else None,
             options={
                 "temperature": self.temperature,
-                "num_predicr": self.max_completion_tokens,
+                "num_predict": self.max_completion_tokens,
             },
         )
         raw_response = response.message.content
@@ -403,7 +402,7 @@ class StructuredLLM:
         try:
             now = time.time()
             reasoning_args = {}
-            if self.model_id == "gpt-5":
+            if self.model_id.startswith("gpt-5"):
                 reasoning_args["reasoning_effort"] = "medium"
             if self.model_id == "o1-mini":
                 response = self.client.chat.completions.create(
@@ -426,6 +425,12 @@ class StructuredLLM:
                 raw_response = response.choices[0].message.content
                 parsed_output = response.choices[0].message.parsed
             elapsed_ms = (time.time() - now) * 1000
+            reasoning_tokens = 0
+            try:
+                details = response.usage.completion_tokens_details
+                reasoning_tokens = getattr(details, "reasoning_tokens", 0) or 0
+            except Exception:
+                reasoning_tokens = 0
             output = {
                 "raw_response": raw_response,
                 "parsed_output": parsed_output,
@@ -433,7 +438,7 @@ class StructuredLLM:
                 "latency": elapsed_ms,
                 "input_tokens": response.usage.prompt_tokens,
                 "output_tokens": response.usage.completion_tokens,
-                "reasoning_tokens": response.usage.completion_tokens_details.reasoning_tokens,
+                "reasoning_tokens": reasoning_tokens,
             }
             return output
         except Exception as e:
@@ -994,14 +999,23 @@ class Evaluate:
 
         if response["parsed_output"] is not None:
             candidate = response["parsed_output"].answer
-            is_correct = (
-                self._verify_entity(expected, candidate, verifier_llm)
-                if expected
-                else False
-            )
+            if expected:
+                verification_score = None
+                verify_out = self._verify_entity(
+                    expected, candidate, verifier_llm, question=question
+                )
+                if isinstance(verify_out, tuple):
+                    is_correct, verification_score = verify_out
+                else:
+                    is_correct = bool(verify_out)
+                    verification_score = None
+            else:
+                is_correct = False
+                verification_score = None
         else:
             candidate = None
             is_correct = False
+            verification_score = None
 
         result = {
             "candidate": candidate,
@@ -1017,6 +1031,8 @@ class Evaluate:
             "raw": record,
             "error": response.get("error", None),
         }
+        if self.domain == "legal":
+            result["verification_score"] = verification_score
 
         self._save_result_to_jsonl(result)
 
@@ -1040,14 +1056,27 @@ class Evaluate:
 
         if response["parsed_output"] is not None:
             candidate = response["parsed_output"].answer
-            is_correct = (
-                self._verify_entity(expected, candidate, verifier_llm)
-                if expected
-                else False
-            )
+            if expected:
+                verification_score = None
+                verify_out = self._verify_entity(
+                    expected,
+                    candidate,
+                    verifier_llm,
+                    question=question,
+                    context=context,
+                )
+                if isinstance(verify_out, tuple):
+                    is_correct, verification_score = verify_out
+                else:
+                    is_correct = bool(verify_out)
+                    verification_score = None
+            else:
+                is_correct = False
+                verification_score = None
         else:
             candidate = None
             is_correct = False
+            verification_score = None
 
         result = {
             "candidate": candidate,
@@ -1063,6 +1092,8 @@ class Evaluate:
             "raw": record,
             "error": response.get("error", None),
         }
+        if self.domain == "legal":
+            result["verification_score"] = verification_score
 
         self._save_result_to_jsonl(result)
 
@@ -1584,16 +1615,18 @@ class BenchmarkRunner:
 if __name__ == "__main__":
     # Anchor default paths to the src/ tree so running from src/ works consistently
     _SRC_BASE = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+    _REPO_ROOT = os.path.abspath(os.path.join(_SRC_BASE, ".."))
+    _DATA_CORPUS = os.path.join(_REPO_ROOT, "data", "corpus")
     
     # Domain selection: chemistry (default) or legal
     DOMAIN = os.getenv("EVAL_DOMAIN", "chemistry").lower()
     
     # Domain-specific configuration
     if DOMAIN == "legal":
-        RECORDS_PATH = os.path.join(_SRC_BASE, "docs", "koblex_transformed_enhanced.json")
+        RECORDS_PATH = os.path.join(_DATA_CORPUS, "koblex_transformed_enhanced.json")
         RESPONSES_DIR = os.path.join(_SRC_BASE, "responses_legal")
     else:  # chemistry (default)
-        RECORDS_PATH = os.path.join(_SRC_BASE, "docs", "chemrxiv_qa.json")
+        RECORDS_PATH = os.path.join(_DATA_CORPUS, "chemrxiv_qa.json")
         RESPONSES_DIR = os.path.join(_SRC_BASE, "responses")
     
     # Save results per provider/model to separate files (fallback to 'any' when unset)
