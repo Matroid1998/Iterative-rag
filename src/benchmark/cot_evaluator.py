@@ -130,6 +130,8 @@ class ModelRegistry:
             # "deepseek-r1:32b-reasoning",
         ],
         Provider.OPENROUTER: [
+            "anthropic/claude-3.7-sonnet",
+            "anthropic/claude-3.7-sonnet:thinking-reasoning",
             "anthropic/claude-sonnet-4.5",
             "google/gemini-2.5-pro",
             "z-ai/glm-4.6",
@@ -484,15 +486,17 @@ class StructuredLLM:
             "temperature": self.temperature,
             "response_format": response_format,
             "max_tokens": self.max_completion_tokens,
-            "reasoning": reasoning_settings,
-            "include_reasoning": True,
             "usage": {"include": True},
         }
+        if self.is_reasoning:
+            # Reasoning model: enable extended thinking, drop structured output format
+            payload["reasoning"] = reasoning_settings
+            payload["include_reasoning"] = True
+            payload.pop("response_format")
+
         if self.model_id == "qwen/qwq-32b":
             payload["top_k"] = 40
             payload["top_p"] = 0.95
-        if self.is_reasoning:
-            payload.pop("response_format")
 
         max_retries = 3
         for retry in range(max_retries):
