@@ -478,7 +478,7 @@ class StructuredLLM:
         reasoning_settings = {
             "enabled": True,
             "exclude": False,
-            "effort": "medium",
+            "effort": os.getenv("EVAL_REASONING_EFFORT", "medium"),  # low | medium | high
         }
         payload = {
             "model": self.model_id,

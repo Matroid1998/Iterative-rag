@@ -1,0 +1,2 @@
+Model,Run,Accuracy (%),Avg Input Tokens,Avg Output Tokens,Total Input Tokens,Total Output Tokens,Total Reasoning Tokens,Avg Reasoning Tokens,Total Samples
+openrouter-anthropic/claude-3.7-sonnet:thinking-reasoning,Direct,74.2,1516.73,2133.52,1798839,2530359,1760921,1484.76,1186
