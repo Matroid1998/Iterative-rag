@@ -149,7 +149,7 @@ class Verifier:
                     model=self.model,
                     messages=[{"role": "user", "content": [{"type": "text", "text": full_prompt}]}],
                     response_format=AreSimilar,
-                    max_completion_tokens=64,
+                    max_completion_tokens=1024,
                 )
                 parsed = response.choices[0].message.parsed
                 return bool(getattr(parsed, "are_the_same", False))
