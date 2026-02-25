@@ -131,7 +131,7 @@ def main() -> None:
 
     ax.set_xticks(x)
     ax.set_xticklabels(bin_labels, fontsize=11)
-    ax.set_xlabel("Gold Context Token Count (BERT tokenizer)", fontsize=12)
+    ax.set_xlabel("Gold Context Token Count", fontsize=12)
     ax.set_ylabel("Average Accuracy Across Models (%)", fontsize=12)
     ax.set_title(
         "Effect of Gold Context Length on Accuracy\n"
