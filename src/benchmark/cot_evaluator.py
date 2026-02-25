@@ -814,7 +814,7 @@ class DirectEvaluate:
         records: list,
         responses_save_path: str = None,
         verifier_provider: Provider = Provider.OPENAI,
-        verifier_model: str = "gpt-4o-mini",
+        verifier_model: str = "gpt-5-mini",
         num_workers: int = 2,
         bedrock_cooldown: float = 0.5,
     ):
