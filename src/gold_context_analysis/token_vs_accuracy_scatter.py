@@ -39,8 +39,8 @@ def load_gold_contexts(qa_path: Path) -> dict[str, str]:
         question = item.get("q", "").strip()
         paths    = item.get("path", [])
         if paths and question:
-            # Take the first path entry's text as the gold context
-            text = paths[0].get("text", "")
+            # Concatenate text from ALL path entries (multi-hop = multiple passages)
+            text = "\n".join(p.get("text", "") for p in paths)
             mapping[question] = text
     return mapping
 

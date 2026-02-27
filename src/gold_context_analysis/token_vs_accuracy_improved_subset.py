@@ -42,7 +42,7 @@ def load_gold_contexts(qa_path: Path) -> dict[str, str]:
         q    = item.get("q", "").strip()
         path = item.get("path", [])
         if q and path:
-            mapping[q] = path[0].get("text", "")
+            mapping[q] = "\n".join(p.get("text", "") for p in path)
     return mapping
 
 

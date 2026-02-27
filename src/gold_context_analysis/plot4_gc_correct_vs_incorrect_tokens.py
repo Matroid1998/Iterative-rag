@@ -49,7 +49,7 @@ def load_gold_contexts(qa_path: Path) -> dict[str, str]:
     with open(qa_path) as f:
         data = json.load(f)
     return {
-        item["q"].strip(): item["path"][0]["text"]
+        item["q"].strip(): "\n".join(p.get("text", "") for p in item["path"])
         for item in data
         if item.get("q") and item.get("path")
     }

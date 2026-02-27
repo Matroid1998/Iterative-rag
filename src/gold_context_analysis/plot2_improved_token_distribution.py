@@ -33,7 +33,7 @@ def load_gold_contexts(qa_path: Path) -> dict[str, str]:
     with open(qa_path) as f:
         data = json.load(f)
     return {
-        item["q"].strip(): item["path"][0]["text"]
+        item["q"].strip(): "\n".join(p.get("text", "") for p in item["path"])
         for item in data
         if item.get("q") and item.get("path")
     }
@@ -113,7 +113,6 @@ def main() -> None:
         alpha=0.60, color="#059669",
         label=(
             f"Wrong in GC → Correct in RAG  "
-            f"(n={len(improved_tokens)},  median={int(np.median(improved_tokens))} tok)"
         ),
     )
     ax.hist(
@@ -131,10 +130,10 @@ def main() -> None:
     ax.axvline(np.median(improved_tokens), color="#047857", linestyle="--",
                linewidth=1.5, alpha=0.9)
 
-    ax.set_xlabel("Gold Context Token Count (BERT tokenizer)", fontsize=12)
+    ax.set_xlabel("Gold Context Token Count", fontsize=12)
     ax.set_ylabel("Density", fontsize=12)
     ax.set_title(
-        "Token Length Distribution: All Questions vs. RAG-Improved Questions\n"
+        "Token Length Distribution: All Questions vs. Iterative RAG-Improved Questions\n"
         "(questions wrong in Gold Context but correct in Iterative RAG, ≥1 model)",
         fontsize=12,
     )

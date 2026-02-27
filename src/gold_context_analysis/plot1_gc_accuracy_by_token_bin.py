@@ -27,15 +27,17 @@ PLOT_DIR     = Path(__file__).parent / "plots"
 TOKENIZER_NAME = "bert-base-uncased"
 
 # Bin edges (token counts). Adjust to taste.
-BIN_EDGES = [0, 75, 150, 225, 300, 375, 600]
+# Wide range to cover multi-hop questions (up to 4 passages concatenated).
+BIN_EDGES = [0, 150, 300, 450, 600, 900, 1200, 2000]
 
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 def load_gold_contexts(qa_path: Path) -> dict[str, str]:
+    """Concatenate ALL passage texts in 'path' (multi-hop gold context)."""
     with open(qa_path) as f:
         data = json.load(f)
     return {
-        item["q"].strip(): item["path"][0]["text"]
+        item["q"].strip(): " ".join(p["text"] for p in item["path"] if p.get("text"))
         for item in data
         if item.get("q") and item.get("path")
     }
