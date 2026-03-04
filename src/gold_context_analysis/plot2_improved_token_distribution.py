@@ -36,11 +36,22 @@ def load_gold_contexts(qa_path: Path) -> dict[str, str]:
     }
 
 
+def normalize_model_key(stem: str) -> str:
+    """Produce a canonical model key from a filename stem."""
+    s = stem
+    for suffix in ("_reverified", "-reasoning"):
+        s = s.replace(suffix, "")
+    if s.startswith("responses_"):
+        s = s[len("responses_"):]
+    return s
+
+
 def load_correctness(directory: Path, question_key_path: str) -> dict[str, dict[str, bool]]:
-    """Return {question: {model_stem: is_correct}}."""
+    """Return {question: {normalized_model_key: is_correct}}."""
     results: dict[str, dict[str, bool]] = {}
     keys = question_key_path.split(".")
     for jsonl_file in sorted(directory.glob("*.jsonl")):
+        model_key = normalize_model_key(jsonl_file.stem)
         with open(jsonl_file) as f:
             for line in f:
                 line = line.strip()
@@ -55,7 +66,7 @@ def load_correctness(directory: Path, question_key_path: str) -> dict[str, dict[
                     node = node.get(k, {}) if isinstance(node, dict) else {}
                 q = (node or "").strip() if isinstance(node, str) else ""
                 if q:
-                    results.setdefault(q, {})[jsonl_file.stem] = bool(rec.get("is_correct", False))
+                    results.setdefault(q, {})[model_key] = bool(rec.get("is_correct", False))
     return results
 
 
@@ -75,9 +86,9 @@ def main() -> None:
     print("Loading Iterative RAG responses …")
     rag_results = load_correctness(RAG_DIR, "raw_response.question")
 
-    # Build token count lists
-    gc_correct_tokens: list[int] = []   # questions correct in GC (≥1 model)
-    improved_tokens:   list[int] = []
+    # Build token count lists — one entry per (question, model) pair
+    gc_correct_tokens: list[int] = []   # each model that got it correct in GC
+    improved_tokens:   list[int] = []   # each model that went wrong→correct
 
     for question, gc_dict in gc_results.items():
         ctx = gold_contexts.get(question)
@@ -85,15 +96,16 @@ def main() -> None:
             continue
         n = len(tokenizer(ctx, add_special_tokens=False)["input_ids"])
 
-        # Correct in Gold Context: at least one model got it right
-        if any(gc_dict.values()):
-            gc_correct_tokens.append(n)
+        # Correct in Gold Context: one entry per model that got it right
+        for model, correct in gc_dict.items():
+            if correct:
+                gc_correct_tokens.append(n)
 
         rag_dict = rag_results.get(question, {})
-        common = set(gc_dict) & set(rag_dict)
-        # improved: at least one model went wrong→correct
-        if any(not gc_dict[m] and rag_dict[m] for m in common):
-            improved_tokens.append(n)
+        # Improved: one entry per model that went wrong in GC → correct in RAG
+        for model in set(gc_dict) & set(rag_dict):
+            if not gc_dict[model] and rag_dict[model]:
+                improved_tokens.append(n)
 
     gc_correct_tokens = np.array(gc_correct_tokens)
     improved_tokens   = np.array(improved_tokens)
@@ -121,20 +133,14 @@ def main() -> None:
         histtype="step",          # outline only — always visible on top
         linewidth=2.2,
         color="#374151",
-        label=f"Correct in GC  (n={len(gc_correct_tokens)},  median={int(np.median(gc_correct_tokens))} tok)",
+        label=f"Correct in GC",
     )
-
-    # Vertical median lines
-    ax.axvline(np.median(gc_correct_tokens), color="#374151", linestyle="--",
-               linewidth=1.5, alpha=0.8)
-    ax.axvline(np.median(improved_tokens), color="#047857", linestyle="--",
-               linewidth=1.5, alpha=0.9)
 
     ax.set_xlabel("Gold Context Token Count", fontsize=12)
     ax.set_ylabel("Density", fontsize=12)
     ax.set_title(
         "Token Length Distribution: Correct in GC vs. Iterative RAG-Improved Questions\n"
-        "(questions wrong in Gold Context but correct in Iterative RAG, ≥1 model)",
+        "(questions wrong in Gold Context but correct in Iterative RAG)",
         fontsize=12,
     )
     ax.legend(fontsize=10)
