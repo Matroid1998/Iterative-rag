@@ -2,11 +2,8 @@
 plot2_improved_token_distribution.py
 
 Plot 2: Token length distribution of questions that were answered
-incorrectly in Gold Context but correctly in Iterative RAG (≥1 model),
-compared to the full question distribution.
-
-Shows whether "improved" questions tend to have shorter or longer
-gold contexts than the overall set.
+correctly in Gold Context (≥1 model) vs. questions that were wrong in
+Gold Context but corrected by Iterative RAG.
 
 Run from the src/ directory:
     python gold_context_analysis/plot2_improved_token_distribution.py
@@ -79,15 +76,18 @@ def main() -> None:
     rag_results = load_correctness(RAG_DIR, "raw_response.question")
 
     # Build token count lists
-    all_tokens:      list[int] = []
-    improved_tokens: list[int] = []
+    gc_correct_tokens: list[int] = []   # questions correct in GC (≥1 model)
+    improved_tokens:   list[int] = []
 
     for question, gc_dict in gc_results.items():
         ctx = gold_contexts.get(question)
         if ctx is None:
             continue
         n = len(tokenizer(ctx, add_special_tokens=False)["input_ids"])
-        all_tokens.append(n)
+
+        # Correct in Gold Context: at least one model got it right
+        if any(gc_dict.values()):
+            gc_correct_tokens.append(n)
 
         rag_dict = rag_results.get(question, {})
         common = set(gc_dict) & set(rag_dict)
@@ -95,14 +95,14 @@ def main() -> None:
         if any(not gc_dict[m] and rag_dict[m] for m in common):
             improved_tokens.append(n)
 
-    all_tokens      = np.array(all_tokens)
-    improved_tokens = np.array(improved_tokens)
+    gc_correct_tokens = np.array(gc_correct_tokens)
+    improved_tokens   = np.array(improved_tokens)
 
-    print(f"  All questions:      {len(all_tokens)}")
+    print(f"  Correct in GC:      {len(gc_correct_tokens)}")
     print(f"  Improved questions: {len(improved_tokens)}")
 
     # ── Plot ──────────────────────────────────────────────────────────────────
-    bins = np.arange(0, all_tokens.max() + 30, 30)
+    bins = np.arange(0, gc_correct_tokens.max() + 30, 30)
 
     fig, ax = plt.subplots(figsize=(9, 5))
 
@@ -112,20 +112,20 @@ def main() -> None:
         density=True,
         alpha=0.60, color="#059669",
         label=(
-            f"Wrong in GC → Correct in RAG  "
+            f"Wrong in GC → Correct in Iterative RAG  "
         ),
     )
     ax.hist(
-        all_tokens, bins=bins,
+        gc_correct_tokens, bins=bins,
         density=True,
         histtype="step",          # outline only — always visible on top
         linewidth=2.2,
         color="#374151",
-        label=f"All questions  (n={len(all_tokens)},  median={int(np.median(all_tokens))} tok)",
+        label=f"Correct in GC  (n={len(gc_correct_tokens)},  median={int(np.median(gc_correct_tokens))} tok)",
     )
 
     # Vertical median lines
-    ax.axvline(np.median(all_tokens), color="#374151", linestyle="--",
+    ax.axvline(np.median(gc_correct_tokens), color="#374151", linestyle="--",
                linewidth=1.5, alpha=0.8)
     ax.axvline(np.median(improved_tokens), color="#047857", linestyle="--",
                linewidth=1.5, alpha=0.9)
@@ -133,7 +133,7 @@ def main() -> None:
     ax.set_xlabel("Gold Context Token Count", fontsize=12)
     ax.set_ylabel("Density", fontsize=12)
     ax.set_title(
-        "Token Length Distribution: All Questions vs. Iterative RAG-Improved Questions\n"
+        "Token Length Distribution: Correct in GC vs. Iterative RAG-Improved Questions\n"
         "(questions wrong in Gold Context but correct in Iterative RAG, ≥1 model)",
         fontsize=12,
     )

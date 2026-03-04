@@ -15,6 +15,7 @@ import json
 from pathlib import Path
 
 import matplotlib.pyplot as plt
+import matplotlib.colors as mcolors
 import matplotlib.ticker as mticker
 import numpy as np
 from transformers import AutoTokenizer
@@ -111,28 +112,28 @@ def main() -> None:
     x = np.arange(len(bin_labels))
     fig, ax = plt.subplots(figsize=(9, 5))
 
+    # Color palette: light blue (near white) → dark blue based on n
+    cmap = mcolors.LinearSegmentedColormap.from_list(
+        "n_blue", ["#D6E4FF", "#08306B"]
+    )
+    norm = mcolors.Normalize(vmin=min(bin_counts), vmax=max(bin_counts))
+    bar_colors = [cmap(norm(n)) for n in bin_counts]
+
     bars = ax.bar(
         x, bin_means,
         yerr=bin_stds,
         capsize=5,
-        color="#2563EB",
-        alpha=0.80,
+        color=bar_colors,
+        alpha=0.90,
         edgecolor="white",
         linewidth=0.6,
         error_kw=dict(ecolor="#1E3A8A", elinewidth=1.5),
     )
 
-    # Annotate bar tops with n
-    for rect, n, mean in zip(bars, bin_counts, bin_means):
-        ax.text(
-            rect.get_x() + rect.get_width() / 2,
-            mean + 1.5,
-            f"n={n}",
-            ha="center", va="bottom", fontsize=9, color="#374151",
-        )
-
+    # X-axis: token bin label + n below it
+    combined_labels = [f"{lbl}\nn={n}" for lbl, n in zip(bin_labels, bin_counts)]
     ax.set_xticks(x)
-    ax.set_xticklabels(bin_labels, fontsize=11)
+    ax.set_xticklabels(combined_labels, fontsize=11)
     ax.set_xlabel("Gold Context Token Count", fontsize=12)
     ax.set_ylabel("Average Accuracy Across Models (%)", fontsize=12)
     ax.set_title(
@@ -146,6 +147,12 @@ def main() -> None:
                linewidth=1.4, label=f"Overall mean: {avg_accuracies.mean():.1f}%")
     ax.legend(fontsize=11)
     ax.grid(axis="y", linestyle="--", alpha=0.4)
+
+    # Colorbar legend for n values
+    sm = plt.cm.ScalarMappable(cmap=cmap, norm=norm)
+    sm.set_array([])
+    cbar = fig.colorbar(sm, ax=ax, pad=0.02, aspect=30, shrink=0.8)
+    cbar.set_label("n (sample size)", fontsize=11)
 
     plt.tight_layout()
     out = PLOT_DIR / "plot1_gc_accuracy_by_token_bin.png"
