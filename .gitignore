@@ -205,9 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-src/chroma_store
-src/data
-src/previous_runs
+# Vector store built by `irag-index` (regenerable)
+chroma_store/
+# Local virtual environment for offline figure regeneration
+.venv/
 responses-jsonl-filtered/
 output_backup/
 responses_openrouter_deepseek__deepseek-chat-v3.1_reverified.jsonl

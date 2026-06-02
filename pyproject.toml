@@ -1,0 +1,49 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "iterative_rag"
+version = "0.1.0"
+description = "Iterative RAG for scientific multi-hop QA — companion code for 'When Iterative RAG Beats Ideal Evidence'."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+    { name = "Mahdi Astaraki" },
+]
+
+# Core runtime dependencies needed to chunk/index, run the system, benchmark and judge.
+# (For figure regeneration only, install the lightweight `figures` extra instead.)
+dependencies = [
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "scipy",
+    "scikit-learn",
+    "chromadb",
+    "sentence-transformers",
+    "torch",
+    "openai",
+    "boto3",
+    "langchain-aws",
+    "ollama",
+    "pydantic",
+    "tqdm",
+    "datasets",
+    "requests",
+]
+
+[project.optional-dependencies]
+# Just enough to regenerate the paper figures from the shipped response/judgment data.
+figures = ["numpy", "pandas", "matplotlib", "scipy"]
+
+[project.scripts]
+irag-index = "iterative_rag.endpoints.chunk_index:main"
+irag-ask = "iterative_rag.endpoints.ask:main"
+irag-benchmark = "iterative_rag.endpoints.benchmark:main"
+irag-diagnose = "iterative_rag.endpoints.diagnose:main"
+irag-figures = "iterative_rag.endpoints.make_figures:main"
+
+[tool.setuptools.packages.find]
+include = ["iterative_rag*"]
